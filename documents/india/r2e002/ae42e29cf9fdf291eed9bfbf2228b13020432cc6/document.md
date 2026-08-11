@@ -1,5 +1,4 @@
 [[START OF PAGE 1]]
-
 Registered No DL-(N)04/0007/2003-09
 
 The Gazette of India
@@ -12,724 +11,734 @@ Published by Authority
 
 _________________________________________________
 
-No.27   New Delhi ,Friday, March 20,2009/29 Phalguna  ,1930
+No.27 New Delhi, Friday, March 20, 2009/29 Phalguna, 1930
 
 __________________________________________________________
 
-Separate paging is given to this Part in order that it may filed as a separate compilation.
+Separate paging is given to this Part in order that it may be filed as a separate compilation.
 
 MINISTRY OF LAW AND JUSTICE
 
 (Legislative Department)
 
-New Delhi, the 20 th march,2009/Phalguna  29,1930(Saka)
+New Delhi, the 20th March, 2009/Phalguna 29, 1930 (Saka)
 
-The following Act of Parliament received the assent of the President on the 20 th March, 2009  , and is hereby published for general information:-
+The following Act of Parliament received the assent of the President on the 20th March, 2009, and is hereby published for general information:—
 
-# THE CENTRAL UNIVERSITIES ACT,2009
-NO. 25 OF 2009-07-01
+# THE CENTRAL UNIVERSITIES ACT, 2009
+NO. 25 OF 2009
 
-[20 th March,2009]
+[20th March, 2009]
 
-An Act to establish and incorporate universities for teaching and research in the various States and to provide for matters connected therewith  or incidental thereto.
+An Act to establish and incorporate universities for teaching and research in the various States and to provide for matters connected therewith or incidental thereto.
 
-BE it enacted by Parliament in the Sixtieth Year of the Republic of India as follows:
+BE it enacted by Parliament in the Sixtieth Year of the Republic of India as follows:—
 
-(1) This Act may be called the Central University  Act. 2009. th day  of
+Short title and commencement.
 
-(2)  It  shall  be  deemed  to  have  come  in  to  force  on  the  15 january,2009.
+1. (1) This Act may be called the Central Universities Act, 2009.
 
-- In this Act, and in all Statutes made hereunder, unless the context otherwise requires,-----
-
-(a) 'Academic Council' means the Academic Council of the University;
-
-(b) 'Academic  Staff'  means  such  categories  of  staff  as  are  designated  as academic staff by the Ordinances;
-
-(c) 'Board of Studies' means the Board of Studies of a Department of the University;
-
-(d) 'College' means a college maintained by the University;
-
-Short title and Commencement.
+(2) It shall be deemed to have come into force on the 15th day of January, 2009.
 
 Definitions.
 
+2. In this Act, and in all Statutes made hereunder, unless the context otherwise requires,—
+
+(a) “Academic Council” means the Academic Council of the University;
+
+(b) “Academic Staff” means such categories of staff as are designated as academic staff by the Ordinances;
+
+(c) “Board of Studies” means the Board of Studies of a Department of the University;
+
+(d) “College” means a College maintained by the University;
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+2 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-2                                 THE GAZETTE OF INDIA EXTRAORDINARY                         (PART II)
+(e) “Chancellor”, “Vice-Chancellor” and “Pro-Vice-Chancellor” mean, respectively, the Chancellor, Vice-Chancellor and Pro-Vice-Chancellor of the University;
 
-Establishment of
+(f) “Court” means the Court of the University;
 
-universities.
+(g) “Department” means a Department of Studies and includes a Centre of Studies;
 
-(e) 'Chancellor',  Vice-Chancellor    and  '  Pro-Vice-  Chancellor'  mean, respectively, the Chancellor , Vice-Chancellor and Pro-Vice-Chancellor of the University ;
+(h) “distance education system” means the system of imparting education through any means of communication, such as broadcasting, telecasting, internet, correspondence courses, seminars, contact programmes or the combination of any two or more such means;
 
-(f) 'Court' means the Court of the University;
+(i) “employee” means any person appointed by the University and includes teachers and other staff of the University;
 
-(g) 'Department'  means  a  Department  of  Studies  and  include  a  Centre  of Studies;
+(j) “Executive Council” means the Executive Council of the University;
 
-(h) 'distance  education  system'  means  the  system  of  imparting  education through any means of communication, such as broadcasting, telecasting, internet,  correspondence courses, seminars, contact  programmes or the combination of any two or more such means;
+(k) “Hall” means a unit of residence or of corporate life for the students of the University, or of a College or an Institution, maintained by the University;
 
-(i) 'employee 'means any person appointed by the University and include teachers and other staff of the University ;
+(l) “Institution” means an academic institution, not being a College, maintained by the University;
 
-(j) 'Executive Council' means the executive council of the University;
+(m) “Principal” means the Head of a College or an Institution maintained by the University and includes, where there is no Principal, the person for the time being duly appointed to act as Principal, and in the absence of the Principal, or the acting Principal, a Vice-Principal duly appointed as such;
 
-(k) 'Hall' means a unit of residence or of corporate life for the student of the University, or of a College or an Institution, maintained by the University;
+(n) “Regulations” means the Regulations made by any authority of the University under this Act for the time being in force;
 
-(l) 'Institution' means  an academic  institution ,not being a College, maintained by the University;
+(o) “School” means a School of Studies of the University;
 
-(m) 'Principal' means the Head of a College or an Institution maintained by the  University and include,  where there is no principal , the person for the time being duly appointed to act as Principal , and in the absence of the Principal, or the acting Principal, a Vice- Principal duly appointed as such;
+(p) “Statutes” and “Ordinances” mean, respectively, the Statutes and the Ordinances of the University for the time being in force;
 
-(n) 'Regulations'  means  the  Regulations  made  by  any  authority  of  the University under this act for the time being in force;
+(q) “teachers of the University” means Professors, Associate Professors, Assistant Professors and such other persons as may be appointed for imparting instruction or conducting research in the University or in any College or Institution maintained by the University and are designated as teachers by the Ordinances; and
 
-(o) 'School' means a school of Studies of the University;
+(r) “University” means a University established and incorporated as a University under this Act.
 
-(p) 'Statutes'  and  'Ordinances'  mean,  respectively  ,  the  Statutes  and  the Ordinances of the University for the time being in force;
+Establishment of universities.
 
-(q) 'teachers  of  the  University'  means  Professors,  Associate  Professors, Assistant  Professors  and  such  other  persons  as  may  by  appointed  for imparting instruction or conducting research in the University or in any College or Institution maintained by the University and are designated as teacher by the Ordinances; and
+3. (1) The Guru Ghasidas Vishwavidyalaya in the State of Chhattisgarh and Doctor Harisingh Gour Vishwavidyalaya in the State of Madhya Pradesh, established under the Madhya Pradesh Vishwavidyalaya Adhiniyam, 1973, and Hemvati Nandan Bahuguna Garhwal University in the State of Uttarakhand, established under the Uttar Pradesh State Universities Act, 1973, shall be established as bodies corporate under this Act by the same names of “Guru Ghasidas Vishwavidyalaya”, “Doctor Harisingh Gour Vishwavidyalaya” and “Hemvati Nandan Bahuguna Garhwal University”, respectively.
 
-(r) 'University'  means  a  University  established  and  incorporated  as  a University under this Act.
+(2) The headquarters of Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University shall be at Bilaspur, Sagar and Srinagar, respectively.
 
-(1) This Guru Ghasidas Vishwavidyalaya  in the State of Chhattisgarh and Doctor Harisingh  Gour Vishwavidyalaya  in the State of Madhya Pradesh, established under the Madhya Pradesh Vishwavidyalaya Adhiniyam , 1973, and Hemvati  Nandan  Bahuguna  Garhwal  University  in the State of Uttarakhand, established under the Utter Pradesh State University Act,1973, Shall be established as bodies corporate  under this Act by the same names of 'Guru Ghasidas Vishwavidyalaya',' Doctor Harisingh Gour Vishwavidyalaya' and ' Hemvati Nandan Bahuguna Garhwal University ' , respectively.
+(3) The jurisdiction of Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University shall extend to the Bilaspur, Raigarh and Surguja districts of the State of Chhattisgarh, the Sagar, Tikamgarh, Chhatarpur, Panna, Chhindwara and Damoh districts of the State of Madhya Pradesh, and the Chamoli, Dehradun, Garhwal, Hardwar, Rudraprayag, Tehri Garhwal and Uttarkashi districts of the State of Uttarakhand, respectively.
 
-- The headquarters of Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University , Shall  be at Bilaspur, Sagar and Srinagar, respectively.
-
-- The  jurisdiction  of  Guru  Ghasidas  Vishwavidyalaya,  Doctor  Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University shall  exend  to  the  Bilaspur  ,  Raigarh  and  Surguja    districts  of  the  State  of Chhattisgarh,  the  Sagar,  Tikamgarh,  Chhatarpur,  Panna,  Chhindwara  and Damoh districts of the State of Madhya Pradesh, and the Chamoli, Dehradun , Garhwal,  Hardwar,  Rudraprayag,  Tehri  Garhwal  and  Uttarkashi  districrs  of the State of Uttarakhand, respectively.
-
-Madhya Pradesh Act 22 of 1973. President's  Act  10 of 1973.
-
+Madhya Pradesh Act 22 of 1973.
+President’s Act 10 of 1973.
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3
 
-sec.1]                                  THE GAZETTE OF INDIA EXTRAORDINARY
+(4) There shall be established the Universities in the various States as bodies corporate, by such names and territorial jurisdiction, as specified in the First Schedule to this Act.
 
-3
+(5) The headquarters of each of the Universities referred to in sub-section (4) shall be such as may be specified by the Central Government by notification in the Official Gazette.
 
-- There shall be established ,the University in the various States as    bodies corporate, by such names and territorial jurisdiction ,as  specified in the first Schedule to this Act.
+(6) The first Chancellor, the first Vice-Chancellor and the first members of the Court, the Executive Council and the Academic Council of each University, and all persons who may hereafter become such officers or members, so long as they continue to hold such office or membership, are hereby constituted a body corporate by the name of the University.
 
-- The headquarters of each of the University ,referred in sub-section(4), shall be  such    as  may  be  specified  by  the  Central  Government  by  notification  in  the Official Gazette.
+(7) The University shall have perpetual succession and a common seal, and shall sue and be sued by the said name.
 
-- The  first  Chancellor,  the  first  Vice-  Chancellor  and  the  first  members  of  the Court, the Executive Council and the Academic Council of Each University , and all persons  who  may  hereafter  become  such  officers  or  members,  so  long  as  they continue  to  hold  such  office  or  membership  ,  are  hereby  constituted  a  body corporate by the name of the  University.
-
-- The University shall    have perpetual  succession and a common seal, and shall sue and be sued by the  said name.
+Effect of establishment of Universities.
 
 ## 4.
-On and  from the dated of commencement of this Act,-
+On and from the date of commencement of this Act,—
 
-(a) any reference to Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya or Hemvati  Nandan Bahuguna  Garhwal University , in any contract or other instrument shall be deemed as a reference to Guru Ghasidas Vishwavidyalaya, Doctor Harisingh  Gour Vishwavidyalaya, and Hemvati Nandan Bahuguna Garhwal University, respectively, established under this Act;
+(a) any reference to Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya or Hemvati Nandan Bahuguna Garhwal University, in any contract or other instrument shall be deemed as a reference to Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University, respectively, established under this Act;
 
-(b) All properties, movable and immovable, of or belonging to Guru Ghasidas Vishwavidyalaya,  Doctor  Harisingh  Gour  Vishwavidyalaya  and  Hemvati  Nandan Bahuguna Garhwal University, shall vest in Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya or Hemvati Nandan Bahuguna Garhwal University, as the case may be, established under this Act.
+(b) all properties, movable and immovable, of or belonging to Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University, shall vest in Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya or Hemvati Nandan Bahuguna Garhwal University, as the case may be, established under this Act;
 
-(C  )  all  rights    and  liabilities  of  Guru  Ghasidas  Vishwavidyalaya,  Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University, shall be transferred to , and be the rights and liabilities of, Guru Ghasidas Vishwavidyalaya,  Doctor  Harisingh  Gour    Vishwavidyalaya  and  Hemvati    Nandan Bahuguna  Garhwal University, respectively, established under this Act;
+(c) all rights and liabilities of Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University, shall be transferred to, and be the rights and liabilities of, Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University, respectively, established under this Act;
 
-(d)  every  person  employed  by  Guru  Ghasidas  Vishwavidyalaya,  Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University, immediately  before the commencement of this Act shall hold his office or service in Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour  Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University, respectively , established under this  Act by the same tenure, at the same remuneration and upon the same terms and conditions  and  with  the  same  rights  and  privileges  as  to  pension,  leave,  gratuity, provident fund and other matters as he would have held the same if this Act had not been enacted and shall continue to do so unless and until his employment is terminated or  until  such  tenure,  remuneration  and  terms  and  conditions  are  duly  altered  by  the Statutes;
+(d) every person employed by Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University, immediately before the commencement of this Act shall hold his office or service in Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University, respectively, established under this Act by the same tenure, at the same remuneration and upon the same terms and conditions and with the same rights and privileges as to pension, leave, gratuity, provident fund and other matters as he would have held the same if this Act had not been enacted and shall continue to do so unless and until his employment is terminated or until such tenure, remuneration and terms and conditions are duly altered by the Statutes:
 
-Provided that if the alteration so made is not acceptable to such employee, his employment may be terminated by the University in accordance with the terms of the contract  with  the  employee  or,  if  no  provision  is  made  therein  in  this  behalf,  on payment,  to  him  by  the  University,  of  compensation  equivalent  to  three  months' remuneration in case of permanent employees and one  month's remuneration in the case of other employees:
+Provided that if the alteration so made is not acceptable to such employee, his employment may be terminated by the University in accordance with the terms of the contract with the employee or, if no provision is made therein in this behalf, on payment, to him by the University, of compensation equivalent to three months’ remuneration in case of permanent employees and one month’s remuneration in the case of other employees:
 
-Provided  further  that  every  person  employed  before  the  commencement  of this Act, pending the execution of a contract under section 33, shall be deemed to have been  appointed  in  accordance  with  the  provisions  of  a  contract  consistent  with  the provisions of this Act and the Statutes:
+Provided further that every person employed before the commencement of this Act, pending the execution of a contract under section 33, shall be deemed to have been appointed in accordance with the provisions of a contract consistent with the provisions of this Act and the Statutes:
 
-Provided  also  that  any  reference,  by  whatever  form  of  words,  to  the  viceChancellor  and  Pro-Vice-  Chancellor  of  Guru  Ghasidas  Vishwavidyalaya,  Doctor Harisingh Gour  Vishwavidyalaya or Hemvati Nandan Bahuguna Garhwal University, in any law for the time being in force, or in any instrument or other document, shall be Effect of establishment of Universities.
-
+Provided also that any reference, by whatever form of words, to the Vice-Chancellor and Pro-Vice-Chancellor of Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya or Hemvati Nandan Bahuguna Garhwal University, in any law for the time being in force, or in any instrument or other document, shall be
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+4 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-THE GAZETTE OF INDIA EXTRAORDINARY                       [PARTII
+construed as a reference to the Vice-Chancellor and the Pro-Vice-Chancellor of Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya or Hemvati Nandan Bahuguna Garhwal University, as the case may be, established under this Act.
 
--
+(e) the Vice-Chancellor of Guru Ghasidas Vishwavidyalaya and Doctor Harisingh Gour Vishwavidyalaya, appointed under the provisions of the Madhya Pradesh Vishwavidyalaya Adhiniyam, 1973, and the Vice-Chancellor of Hemvati Nandan Bahuguna Garhwal University, appointed under the provisions of the Uttar Pradesh State Universities Act, 1973, shall be deemed to have been appointed as the Vice-Chancellor under this Act and shall hold office for a period of three months or till such time the first Vice-Chancellor is appointed under section 44 of this Act, whichever is earlier; and
 
-Objects of University
+(f) all Colleges, Institutions, Schools or Faculties, and Departments affiliated to, or admitted to the privileges of, or maintained by, Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University shall stand affiliated to, or admitted to the privileges of, or maintained by, Guru Ghasidas Vishwavidyalaya, Doctor Harisingh Gour Vishwavidyalaya and Hemvati Nandan Bahuguna Garhwal University, respectively, established under this Act.
+
+Objects of University.
+
+5. The object of the University shall be to disseminate and advance knowledge by providing instructional and research facilities in such branches of learning as it may deem fit; to make special provision for integrated courses in humanities, social sciences, science and technology in its educational programmes; to take appropriate measures for promoting innovations in teaching-learning process and inter-disciplinary studies and research; to educate and train manpower for the development of the country; to establish linkages with industries for the promotion of science and technology; and to pay special attention to the improvement of the social and economic conditions and welfare of the people, their intellectual, academic and cultural development.
 
 Powers of University.
 
-4
-
-Construed a reference to the Vice- Chancellor and the Pro- Vice- Chancellor of   Guru Ghasidas  Vishwavidyalaya,  Doctor  Harisingh  Gour    Vishwavidyalaya  or  Hemvati Nandan Bahuguna Garhwal University, as the case may be, established under this Act.
-
-(e)  the  Vice  -chancellor    of  Guru  Ghasidas  Vishwavidyalaya  and  Doctor Harisingh  Gour    Vishwavidyalaya  ,appointed  under  the  provisions  of  the  Madhya Pradesh  Vishwavidyalaya  Adhiniyam,  1973,  and  the  vice-  Chancellor  of    Hemvati Nandan Bahuguna Garhwal University  ,appointed under the provisions of the Uttar Pradesh State  Universities  Act,1973, shall be deemed to have been appointed as the Vice-Chancellor under this Act. and shell  hold office for a period of three months or till  such  time  the  first  Vice-Chancellor  is  appointed  under  section  44  of  the  Act. Whichever is earlier; and
-
-(f) all colleges, Institutions, Schools or Facilities, and Departments affiliated to, or admitted to the privileges of, or maintained by, Guru Ghasidas Vishwavidyalaya, Doctor  Harisingh  Gour  Vishwavidyalaya  and  Hemvati  Nandan  Bahuguna  Garhwal University shall stand affiliated to .or admitted to the privileges of, or maintained by, Guru  Ghasidas  Vishwavidyalaya,  Doctor  Harisingh  Gour  Vishwavidyalaya  and Hemvati Nandan Bahuguna Garhwal University, respectively, established  under this Act.
-
-- The  object  of  the  University  shall  be  to  disseminate  and  advance  knowledge  by providing instructional  and research facilities in such branches of learning as it may deem  fit;  to  make  special  provision  for  integrated  courses  in  humanities,  social sciences, science and technology in its educational Programmes ; to take appropriate measures for promoting innovations in teachinglearning process and interdisciplinary   studies and research; to educate and train manpower for the development of the country; to establish linkages with industries for the promotion of science and technology  ;  and  to  pay  special  attention  to  the  improvement  of  the  social  and economic  conditions  and  welfare  of  the  people,  their  intellectual,  academic  and cultural development.
-
 ## 6.
-(1) The University  shall have the following powers, namely :-
+(1) The University shall have the following powers, namely:—
 
-(i)  to  provide  for  instructions  in  such  branches  of  learning  like  natural sciences,  social  sciences,  humanities,  engineering,  technology  and  medicine  as  the University may, from time to time, determine and to make provision for research and for advancement and dissemination of knowledge;
+(i) to provide for instruction in such branches of learning like natural sciences, social sciences, humanities, engineering, technology and medicine as the University may, from time to time, determine and to make provision for research and for advancement and dissemination of knowledge;
 
-(ii)  to  grant,  subject  to  such  conditions  as  the  University  may  determine, diplomas  or  certificates  to,  and  confer  degrees  or  other  academic  distinctions  on, persons, on the basis of examination, evaluation or any other method of testing , and to withdraw  any  such  diplomas,  certificates,  degrees  or  other  academic  distinction  for good and sufficient cause;
+(ii) to grant, subject to such conditions as the University may determine, diplomas or certificates to, and confer degrees or other academic distinctions on, persons, on the basis of examination, evaluation or any other method of testing, and to withdraw any such diplomas, certificates, degrees or other academic distinction for good and sufficient cause;
 
-(iii)  to  organize  and  to  undertake extramural  studies, training and extension services;
+(iii) to organise and to undertake extramural studies, training and extension services;
 
-(iv) to confer honorary degrees or other distinctions in the manner prescribed by the Statutes ;
+(iv) to confer honorary degrees or other distinctions in the manner prescribed by the Statutes;
 
 (v) to provide facilities through the distance education system to such persons as it may determine;
 
-(vi)  to  institute    Principalships,  professorships,  Associate  Professorships  , Assistant  professorships  and  other  teaching  or  academic  positions,  required  by  the University  and  to  appoint  persons  such  Principal  ships,  Professorship      ,  Associate Professorship , Assistant Professorships or other teaching or academic positions;
+(vi) to institute Principalships, Professorships, Associate Professorships, Assistant Professorships and other teaching or academic positions, required by the University and to appoint persons to such Principalships, Professorships, Associate Professorships, Assistant Professorships or other teaching or academic positions;
 
-(vii)    to  recognize  an  institution  of  higher  learning  for such purposes as the University may determine and to withdraw such recognition ;
+(vii) to recognise an institution of higher learning for such purposes as the University may determine and to withdraw such recognition;
 
-Madhya  Pradesh  Act. 22 of 1973. President's Act. 10 of 1973.
-
+Madhya Pradesh Act 22 of 1973.
+President’s Act 10 of 1973.
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 5
 
-Sec-1]
+(viii) to appoint persons working in any other University or academic institution, including those located outside the country, as teachers of the University for a specified period;
 
-THE GAZETTE OF INDIA EXTRAORDINARY
+(ix) to create administrative, ministerial and other posts and to make appointments thereto;
 
-5
+(x) to co-operate or collaborate or associate with any other University or authority or institution of higher learning, including those located outside the country, in such manner and for such purposes as the University may determine;
 
-(viii)  to  appoint  persons  working  in  any  other  University  or  academic institution, including those located outside the country ,as  teachers of the University for  a specified period;
+(xi) to establish such Centres and specialised laboratories or other units for research and instruction as are, in the opinion of the University, necessary for the furtherance of its objects;
 
-(ix)  to  create  administrative  ,  ministerial  and    other  posts  and  to  make appointment thereto;
+(xii) to institute and award fellowships, scholarships, studentships, medals and prizes;
 
-(x)  to  co-operate  or  collaborate  or  associate  with  any  other  University  or authority or institution of higher learning , including those located outside the country, in such manner and for such purposes as the University may determine ;
+(xiii) to establish and maintain Colleges, Institutions and Halls;
 
-(xi)  to  establish  such  center  and  specialized  laboratories  or  other  units  for research  and  instruction  as  are,  in  the  opinion  of  the  University  ,  necessary  for  the furtherance of its objects;
+(xiv) to make provision for research and advisory services and for that purpose to enter into such arrangements with other institutions, industrial or other organisations, as the University may deem necessary;
 
-(xii) to institute and award fellowships, scholarship , studentships, medals and prizes ;
+(xv) to organise and conduct refresher courses, workshops, seminars and other programmes for teachers, evaluators and other academic staff;
 
-(xiii) to establish and maintain colleges, Institutions  and Halls;
+(xvi) to appoint on contract or otherwise Visiting Professors, Emeritus Professors, Consultants and such other persons who may contribute to the advancement of the objects of the University;
 
-(xiv)  to  make  provision  for  research  and  advisory  services  and  for  that purpose  to  enter  into  such  arrangements  with  other  institutions  ,  industrial  or  other organizations, as the University may deem necessary;
+(xvii) to confer autonomous status on a College or an Institution or a Department, as the case may be, in accordance with the Statutes;
 
-(xv)  to  organise  and  conduct  refresher  courses,  workshops  ,  seminars  and other programmes for teachers, evaluators and other academic staff;
+(xviii) to determine standards of admission to the University, which may include examination, evaluation or any other method of testing;
 
-(xvi)  to  appoint  on  contract  or  otherwise  visiting  Professors,  Emeritus Professors, Consultants and such other persons who may contribute to the advancement of the objects of the University;
+(xix) to demand and receive payment of fees and other charges;
 
-(xvii)    to  confer  autonomous  status  on  a  College  or  an  Institution  or  a Department , as the case may be, in accordance with the Statutes ;
+(xx) to supervise the residences of the students of the University and to make arrangements for promoting their health and general welfare;
 
-(xviii)  to  determine  standards  of  admission  to  the  University  ,  which  may include examination,  evaluation or any other method of testing;
+(xxi) to lay down conditions of service of all categories of employees, including their code of conduct;
 
-(xix)to  demand and receive payment of fees ant other charges;
+(xxii) to regulate and enforce discipline among the students and the employees, and to take such disciplinary measures in this regard as may be deemed by the University to be necessary;
 
-(xx) to supervise the residences of the students of the University and to make arrangements  for promoting their health and general welfare ;
+(xxiii) to make arrangements for promoting the health and general welfare of the employees;
 
-(xxi)  to  lay  down  conditions  of  service  of  all  categories    of  employees, including their code of conduct;
+(xxiv) to receive benefactions, donations and gifts and to acquire, hold and manage, and to dispose of, with the previous approval of the Central Government, any property, movable or immovable, including trust and endowment properties, for the purposes of the University;
 
-(xxii)  to  regulate  and  enforce  discipline  among  the  students    and  the employees, and to take such disciplinary measured in this regard as may be deemed by the University to be necessary;
-
-(xxiii) to make arrangements  for promoting  the health and general welfare of the employees;
-
-(xxiv) to receive benefactions, donations and  gifts and to  acquire, hold and manage , and to dispose of , with the previous approval of the central Government , any property,  movable or immovable, including trust and endowment properties, for the purposes of the University;
-
-(xxv) to borrow , with the previous approval of the Central Government , on the security of the Prop of the  University ,money for the purposes of the University; and
+(xxv) to borrow, with the previous approval of the Central Government, on the security of the property of the University, money for the purposes of the University; and
 
 (xxvi) to do all such other acts and things as may be necessary, incidental or conducive to the attainment of all or any of its objects.
 
-(2) in exercising its powers referred to in sub- section(1), it shall be the endeavour of the University to maintain an all- India character  and high standards of teaching and research, University open to all caster, creed, race or class.
-
+(2) In exercising its powers referred to in sub-section (1), it shall be the endeavour of the University to maintain an all-India character and high standards of teaching and research,
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+6 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+
+and the University shall, among other measures which may be necessary for the said purpose, take, in particular, the following measures, namely:—
+
+(i) admission of students and recruitment of faculty shall be made on all-India basis;
+
+(ii) admissions of students shall be made on merit, either through common entrance tests conducted individually by the University or in combination with other Universities, or on the basis of marks obtained in the qualifying examination in such courses where the intake of students is small;
+
+(iii) inter-University mobility of faculty, with portable pensions and protection of seniority, shall be encouraged;
+
+(iv) semester system, continuous evaluation and choice-based credit system shall be introduced and the University shall enter into agreements with other Universities and academic institutions for credit transfer and joint degree programmes;
+
+(v) innovative courses and programmes of studies shall be introduced with a provision for periodic review and restructuring;
+
+(vi) active participation of students shall be ensured in all academic activities of the University, including evaluation of teachers;
+
+(vii) accreditation shall be obtained from the National Assessment and Accreditation Council or any other accrediting agency at the national level; and
+
+(viii) e-governance shall be introduced with an effective management information system.
+
+University open to all castes, creed, race or class.
+
+## 7.
+The University shall be open to persons of either sex and of whatever caste, creed, race or class, and it shall not be lawful for the University to adopt or impose on any person, any test whatsoever of religious belief or profession in order to entitle him to be appointed as a teacher of the University or to hold any other office therein or to be admitted as a student in the University or to graduate thereat or to enjoy or exercise any privilege thereof:
+
+Provided that nothing in this section shall be deemed to prevent the University from making special provision for the employment or admission of women, persons with disabilities or of persons belonging to the weaker sections of the society and, in particular, of the Scheduled Castes, the Scheduled Tribes and the other socially and educationally backward classes of citizens:
+
+Provided further that no such special provision shall be made on the ground of domicile.
 
 Visitor of University.
-
-6    THE GAZETTE  OF INDIA EXTRAORDINARY
-
-[PART II-
-
-and the University shall, among   other measures which may be necessary for the said purpose, take, in particular, the following measures, namely:-
-
-(i) Admission of students and recruitment of faculty shall be made on all- India bases;
-
-(ii) Admissions  of  students  shall  be  made  on  merit,  either  through common entrance tests conducted  individually by the University or in  combination  with  other  Universities  ,  or  on  the  basis  of  marks obtained  in  the  qualifying  examination  in  such  courses  where  the intake of students is small;
-
-(iii) Inter-University  mobility  of  faculty,  with  portable  pensions  and protection of seniority, shall be encouraged;
-
-(iv) Semester  system,  continuous  evaluation  and  choice-  based  credit system  shall  be  introduced  and  the  University  shall  enter  into agreements  with  other  Universities  and  academic  institutions  for credit transfer and joint degree programmers;
-
-(v) Innovative courses and programmers of studies shall be introduced with a provision for periodic review and restructuring;
-
-(vi) active  participation  of  students  shall  be  ensured    in  all  academic activities of the University , including  evaluation of teachers;
-
-(vii) Accreditation  shall  be  obtained  from  the  National  Assessment  and Accreditation    Council    or  any  other  accrediting  agency    at  the national level; and
-
-(viii) E-governance  shall  be  introduced  with  an  effective  management information system.
-
-## 7 .
-The University shall be open the persons of either sex and of whatever caste, creed, race or class, and it shall not be lawful for the University to adopt or impose on any person, any test  whatsoever of religious belief or profession in order to entitle him to be appointed as a teacher of the University or to hold any other office therein or to be admitted as a student in the University or to graduate thereat or to enjoy o exercise any privilege thereof;
-
-Provided  that  nothing  in this section  shall  be  deemed  to  prevent  the University  from  making  special  provision  for  the  employment      or  admission  of women, persons with disabilities or of persons belonging to the weaker sections of the society and, in particular, of the Scheduled Castes, the Scheduled Tribes and the other socially and educationally backward classes of citizens ;
-
-Provide further that no such special provision shall be made on the ground of domicile.
 
 ## 8.
 (1) The President of India shall be the Visitor of the University.
 
-(2)    The  Visitor  may,  from    time  to  time,  appoint  one  or  more  persons  to review the work and progress of the University , including Colleges and Institutions maintained by it, and to submit a report thereon; and upon receipt of that report, the Visitor may, after obtaining the views of the Executive Council thereon through the Vice-  Chancellor  ,  take  such  action  and  issue  such  directions,  as  he  considers necessary , in respect of any of the matters dealt with in the report and the University shall abide by such action and be bound to comply with such directions.
+(2) The Visitor may, from time to time, appoint one or more persons to review the work and progress of the University, including Colleges and Institutions maintained by it, and to submit a report thereon; and upon receipt of that report, the Visitor may, after obtaining the views of the Executive Council thereon through the Vice-Chancellor, take such action and issue such directions, as he considers necessary, in respect of any of the matters dealt with in the report and the University shall abide by such action and be bound to comply with such directions.
 
-(3) The Visitor shall have the right to cause an inspection to be made by such person  or  persons,  as  he  may  direct,  of  the  University  ,  its  buildings,  libraries ,laboratories  and  equipment  ,  and  of  any  college  or  Institution  maintained  by  the University; and also of the examinations, teaching and other work conducted or done by the University and to cause an inquiry to be made in like manner in respect of any matter connected with the administration or finances of the University, College  or Institutions.
-
+(3) The Visitor shall have the right to cause an inspection to be made by such person or persons, as he may direct, of the University, its buildings, libraries, laboratories and equipment, and of any College or Institution maintained by the University; and also of the examinations, teaching and other work conducted or done by the University and to cause an inquiry to be made in like manner in respect of any matter connected with the administration or finances of the University, College or Institutions.
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 7
 
-Sec.1]   THE GAZETTE  OF INDIA EXTRAORDINARY
+(4) The Visitor shall, in every matter referred to in sub-section (3), give notice of his intention to cause an inspection or inquiry to be made, to the University, and the University shall have the right to make such representation to the Visitor, as it may consider necessary.
 
-7
+(5) After considering the representations, if any, made by the University, the Visitor may cause to be made such inspection or inquiry as is referred to in sub-section (3).
 
-(4)  The  Visitor  shall,  in  every  matter  referred  to  in  sub-section(3)  ,  give notice of his intention to cause an inspection or inquiry to be made, to the University, and the University shall have the right to make such representation to the Visitor , as it may consider necessary.
+(6) Where any inspection or inquiry has been caused to be made by the Visitor, the University shall be entitled to appoint a representative, who shall have the right to be present and be heard at such inspection or inquiry.
 
-(5) After considering the representations , if any, made by the University , the Visitor  may  cause  to  be  made  such  inspection  or  inquiry  as  is  referred  to  in  subsection(3).
+(7) The Visitor may, if the inspection or inquiry is made in respect of the University or any College or Institution maintained by it, address the Vice-Chancellor with reference to the result of such inspection or inquiry together with such views and advice with regard to the action to be taken thereon, as the Visitor may be pleased to offer, and on receipt of the address made by the Visitor, the Vice-Chancellor shall communicate, to the Executive Council, the views of the Visitor with such advice as the Visitor may offer upon the action to be taken thereon.
 
-(6)  Where  any  inspection  or  inquiry  has  been  caused  to  be  made  by  the Visitor, the University shall be entitled to appoint a representative, who shall have the right to be present and be heard at such inspection or inquiry.
+(8) The Executive Council shall communicate through the Vice-Chancellor to the Visitor such action, if any, as it proposes to take or has been taken upon the result of such inspection or inquiry.
 
-(7)  The  Visitor  may,  if  the  inspection  or  inquiry  is  made  in  respect  of  the University  or  any  College  or  Institution maintained  by  it,  address  the  ViceChancellor  with  reference    to  the  result  of  such  inspection  or  inquiry  together  with such views and advice with regard to the action to be taken thereon, as the Visitor may be pleased to offer, and on receipt of address made by the Visitor, the Vice-Chancellor shall  communicate  ,  to  the  Executive  Council,  the  views  of  the  Visitor  with  such advice as the Visitor may offer upon the action to be taken thereon.
+(9) Where the Executive Council does not, within a reasonable time, take action to the satisfaction of the Visitor, the Visitor may, after considering any explanation furnished or representation made by the Executive Council, issue such direction, as he may think fit, and the Executive Council shall comply with such direction.
 
-(8)  The  Executive Council shall  communication    through  the  ViceChancellor to the Visitor such action, if any , as it proposes to take or has been taken upon the result of such inspection or inquiry.
+(10) Without prejudice to the foregoing provisions of this section, the Visitor may, by order in writing, annul any proceeding of the University which is not in conformity with this Act, the Statutes or the Ordinances:
 
-- Where,  the  Executive  Council  does  not,  within  a  reasonable  time,  take action  to  the  satisfaction  of  the  Visitor,  the  Visitor  may,  after  considering  any explanation  furnished  or  representation  made  by  the  Executive    Council,  issue  such direction  ,  as  he  may  think  fit,  and  the  executive  council  shall  comply    with  such direction.
+Provided that before making any such order, he shall call upon the Registrar to show cause why such an order should not be made, and, if any cause is shown within a reasonable time, he shall consider the same.
 
-- Without prejudice to the foregoing provision of this section, the Visitor may,  by  order  in  writing,  annul  any  proceeding  of  the  University  which  is  not  in conformity with this Act, the Statutes or the ordinances:
-
-Provided that before making any such order, he shall call upon the Registrar to  show  cause  why  such  an  order  should  not  be  made,  and,  if  any  cause  is  shown within a reasonable time, he shall consider the same.
-
-(11)  The Visitor shall have such other powers as may be prescribed by the statutes.
-
-- The following shall be the officers of the University, namely:-
-
-- The Chancellor;
-
-- The Vice- Chancellor;
-
-- The Pro-Vice- Chancellor;
-
-- The Deans of Schools;
-
-- The Registrar;
-
-- The Finance officer;
-
-- The Controller of Examination;
-
-- The Librarian ; and
-
-- Such  other  officers  as  may  be  declared  by  the  Statutes  to  be  the office of the University.
-
-## 10 .
-(1)  The Chancellor shall be appointed by the Visitor in such manner as may be prescribed by the Statutes.
-
-(2) The Chancellor shall, by virtue of his office, be the head of the University and shall, if present, preside at the Convocations of the University held for conferring degrees and meetings of the Court.
+(11) The Visitor shall have such other powers as may be prescribed by the Statutes.
 
 Officers of University.
 
+9. The following shall be the officers of the University, namely:—
+
+1. the Chancellor;
+2. the Vice-Chancellor;
+3. the Pro-Vice-Chancellor;
+4. the Deans of Schools;
+5. the Registrar;
+6. the Finance Officer;
+7. the Controller of Examinations;
+8. the Librarian; and
+9. such other officers as may be declared by the Statutes to be the officers of the University.
+
 Chancellor.
 
+## 10.
+(1) The Chancellor shall be appointed by the Visitor in such manner as may be prescribed by the Statutes.
+
+(2) The Chancellor shall, by virtue of his office, be the head of the University and shall, if present, preside at the Convocations of the University held for conferring degrees and meetings of the Court.
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+8 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-Vice- Chancellor.
-
-Pro-Vice- Chancellor
-
-Deans of Schools.
-
-Registrar.
-
-Finance Officer.
-
-Controller of Examination
-
-Librarian.
-
-Other officers.
-
-Authorities of University
-
-8 THE GAZETTE OF INDIA EXTRAORDINARY [PART II-
+Vice-Chancellor.
 
 ## 11.
 (1) The Vice-Chancellor shall be appointed by the Visitor in such manner as may be prescribed by the Statutes.
 
-(2) The Vice-Chancellor shall be the principal executive and academic officer of the University and shall exercise general supervision and control over the affairs of the University and give effect to the decision of all authorities of the University.
+(2) The Vice-Chancellor shall be the principal executive and academic officer of the University and shall exercise general supervision and control over the affairs of the University and give effect to the decisions of all the authorities of the University.
 
-(3) The Vice-Chancellor may, if he is of the opinion that immediate action is necessary  on  any  matter,  exercise  any  power  conferred  on  any  authority    of  the University by or under this Act and shall report to such authority at its next meeting the action taken by him on such matter;
+(3) The Vice-Chancellor may, if he is of the opinion that immediate action is necessary on any matter, exercise any power conferred on any authority of the University by or under this Act and shall report to such authority at its next meeting the action taken by him on such matter:
 
-Provided  that  if  the  authority  concerned  is  of  the  opinion  that  such  action ought mot to have been taken, it   may refer the matter to the Visitor whose decision thereon shall be final;
+Provided that if the authority concerned is of the opinion that such action ought not to have been taken, it may refer the matter to the Visitor whose decision thereon shall be final:
 
-Provided  further  that  any  person  in  the  service  of  the  University  who  is aggrieved  by  the  action  taken  by  the  Vice-Chancellor  under  this  sub-  section  shall have the right to represent against such action to the Executive Council within three months from the date on which decision on such action is communicated to him and thereupon the Executive Council may confirm, modify or reverse the action taken by the Vice-Chancellor.
+Provided further that any person in the service of the University who is aggrieved by the action taken by the Vice-Chancellor under this sub-section shall have the right to represent against such action to the Executive Council within three months from the date on which decision on such action is communicated to him and thereupon the Executive Council may confirm, modify or reverse the action taken by the Vice-Chancellor.
 
-(4)  the  Vice-Chancellor,  if  he  is  of  the  opinion  that    any  decision  of  any authority  of  the  University  is  beyond  the  power  of  the  authority  conferred  by  the provisions of this act, the Statutes or the Ordinances  or that any decision taken is not in the interest of the University, may ask the authority concerned to review its decision within sixty days of such decision and if the authority refuses to review the decision either in whole or in part or no decision is taken by it within the said period of sixty days, the matter shall be referred to the Visitor whose decision  thereon shall be final.
+(4) The Vice-Chancellor, if he is of the opinion that any decision of any authority of the University is beyond the powers of the authority conferred by the provisions of this Act, the Statutes or the Ordinances or that any decision taken is not in the interest of the University, may ask the authority concerned to review its decision within sixty days of such decision and if the authority refuses to review the decision either in whole or in part or no decision is taken by it within the said period of sixty days, the matter shall be referred to the Visitor whose decision thereon shall be final.
 
 (5) The Vice-Chancellor shall exercise such other powers and perform such other duties as may be prescribed by the Statutes or the Ordinances.
 
+Pro-Vice-Chancellor.
+
 ## 12.
-The  Pro-Vice-Chancellor shall be appointed in such  manner and on such terms and condition of service, and shall exercise such powers and perform such duties, as may be prescribed by the Statutes.
+The Pro-Vice-Chancellor shall be appointed in such manner and on such terms and conditions of service, and shall exercise such powers and perform such duties, as may be prescribed by the Statutes.
+
+Deans of Schools.
 
 ## 13.
 Every Dean of School shall be appointed in such manner, and shall exercise such powers and perform such duties, as may be prescribed by the Statutes.
 
+Registrar.
+
 ## 14.
 (1) The Registrar shall be appointed in such manner, and on such terms and conditions of service, as may be prescribed by the Statutes.
 
-(2)  The  Registrar  shall  have  the  power  to  enter  into  agreements,  sign documents  and  authenticate  records  on  behalf  of  the  University,  and  shall  exercise such power and perform such duties, as any be prescribed by the Statutes.
+(2) The Registrar shall have the power to enter into agreements, sign documents and authenticate records on behalf of the University, and shall exercise such powers and perform such duties, as may be prescribed by the Statutes.
+
+Finance Officer.
 
 ## 15.
-The  Finance  Officer  shall  be  appointed  in  such  manner,  and  shall  exercise  such powers and perform such duties, as may be prescribed by the Statutes.
+The Finance Officer shall be appointed in such manner, and shall exercise such powers and perform such duties, as may be prescribed by the Statutes.
+
+Controller of Examinations.
 
 ## 16.
-The  Controller  of  Examination  shall  be  appointed  in  such  manner  and  shall exercise such power and perform such duties, as may be prescribed by the Statues.
+The Controller of Examinations shall be appointed in such manner and shall exercise such powers and perform such duties, as may be prescribed by the Statutes.
 
-## 17 .
-The Libraries shall be appointed in such manner and on such terms and conditions of  service,  and  shall  exercise  such  power  and  perform  such  duties,  as  may  be prescribed by the Statutes.
+Librarian.
+
+## 17.
+The Librarian shall be appointed in such manner and on such terms and conditions of service, and shall exercise such powers and perform such duties, as may be prescribed by the Statutes.
+
+Other officers.
 
 ## 18.
-The  manner  of  appointment  and  powers  and  duties  of  other  officers  of  the University shall be prescribed by the statutes.
+The manner of appointment and powers and duties of other officers of the University shall be prescribed by the Statutes.
 
-- The following shall be the authorities of the University, namely:-
+Authorities of University.
 
-- the Court;
+19. The following shall be the authorities of the University, namely:—
 
-- the Executive Council;
-
+1. the Court;
+2. the Executive Council;
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 9
 
-Sec.1]               THE GAZETTE  OF INDIA EXTRAORDINARY
+3. the Academic Council;
+4. the Board of Studies;
+5. the Finance Committee; and
+6. such other authorities as may be declared by the Statutes to be the authorities of the University.
 
-9
+Court.
 
-- the Academic Council;
-
-- the Board of Studies;
-
-- the Finance Committee ; and
-
-- such other authorities as may be declared by the Statutes to be the authorities of the University.
-
-## 20
-(1) The constitution of the Court and the term of office of its members shall be prescribed by the Statutes;
+## 20.
+(1) The constitution of the Court and the term of office of its members shall be prescribed by the Statutes:
 
 Provided that such number of members, as may be prescribed by the Statutes, shall be elected from among the teachers, employees and students of the University.
 
-(2) Subject to the provisions of this act. The court shall have the following powers and function, namely:-
+(2) Subject to the provisions of this Act, the Court shall have the following powers and functions, namely:—
 
-- To review,  from  time  to  time,  the  broad  policies  and  programmes of the University , and to suggest measures for the improvement and development of the University ;
+(a) to review, from time to time, the broad policies and programmes of the University, and to suggest measures for the improvement and development of the University;
 
-- To consider and pass resolutions on the annual report and the annual accounts  of the University and the audit report on such accounts;
+(b) to consider and pass resolutions on the annual report and the annual accounts of the University and the audit report on such accounts;
 
-- To  advise  the  Visitor  in  to  respect  of  any    matter  which  may  be referred to it for advise ; and
+(c) to advise the Visitor in respect of any matter which may be referred to it for advice; and
 
-- To perform such other function as may be prescribed by the Statutes.
+(d) to perform such other functions as may be prescribed by the Statutes.
 
-(1)  The  Executive  Council  shall  be  the  principal  executive  board  of  the University.
+Executive Council.
 
-- The  constitution  of  the  Executive  Council,  the  term  of  office  of  its members and its powers and functions shall be prescribed by the Statutes:
+## 21.
+(1) The Executive Council shall be the principal executive board of the University.
 
-Provided that such numbers of members as may be prescribed by the Statutes shall be from among the elected members of the Court.
+(2) The constitution of the Executive Council, the term of office of its members and its powers and functions shall be prescribed by the Statutes:
 
-## 22.
-(1)The Academic Council Shall be the principal academic body of University and shall, subject to the provision  of   this Act, the  Statutes and the Ordinances, Coordinate and exercise general supervision over the academic policy of the University .
-
-(2)  The  constitution  of  the  Academic  Council,  the  term  of  the  office  of  its members and its powers and function shall be prescribed by the Statutes;
-
-Provided that such number of members as may be prescribe by the Statutes shall be from among the elected members of the Court.
-
-## 23.
-The constitution, powers and function of the Boards of Studies shall be prescribed by the Statutes .
-
-## 24 .
-The  constitution,  powers  and  functions  of  the  Finance  Committee  shall  be prescribed by the Statutes.
-
-## 25 .
-The constitution, powers and functions of other authorities, as may be declared by the Statutes to be the authorities of the University, shall be prescribed by the Statutes.
-
-## 26.
-Subject to the provision of this Act. The Statutes may provide for all or any of the following matters, namely :-
-
-(a) the constitution ,  powers and functions of authorities and other bodies of the University , as may be constituted from time to time;
-
-(b)  the  appointment  and  continuance  in  office  of  the  members  of  the  said authorities and bodies, the filling up of vacancies  of members, and all other matters Executive Council.
+Provided that such number of members as may be prescribed by the Statutes shall be from among the elected members of the Court.
 
 Academic Council.
 
-Boards of Studies
+## 22.
+(1) The Academic Council shall be the principal academic body of the University and shall, subject to the provisions of this Act, the Statutes and the Ordinances, co-ordinate and exercise general supervision over the academic policy of the University.
+
+(2) The constitution of the Academic Council, the term of office of its members and its powers and functions shall be prescribed by the Statutes:
+
+Provided that such number of members as may be prescribed by the Statutes shall be from among the elected members of the Court.
+
+Boards of Studies.
+
+## 23.
+The constitution, powers and functions of the Boards of Studies shall be prescribed by the Statutes.
 
 Finance Committee.
 
-Finance Committee.
+## 24.
+The constitution, powers and functions of the Finance Committee shall be prescribed by the Statutes.
 
 Other authorities of University.
 
+## 25.
+The constitution, powers and functions of other authorities, as may be declared by the Statutes to be the authorities of the University, shall be prescribed by the Statutes.
+
 Power to make Statutes.
 
+## 26.
+Subject to the provisions of this Act, the Statutes may provide for all or any of the following matters, namely:—
+
+(a) the constitution, powers and functions of authorities and other bodies of the University, as may be constituted from time to time;
+
+(b) the appointment and continuance in office of the members of the said authorities and bodies, the filling up of vacancies of members, and all other matters
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+10 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-10
+relating to those authorities and other bodies for which it may be necessary or desirable to provide;
 
-THE GAZETTE  OF INDIA EXTRAORDINARY                 [PART II-
+(c) the appointment, powers and duties of the officers of the University and their emoluments;
+
+(d) the appointment of teachers, academic staff and other employees of the University, their emoluments and conditions of service;
+
+(e) the appointment of teachers and academic staff working in any other University or organisation for a specific period for undertaking a joint project;
+
+(f) the conditions of service of employees including provisions for pension, insurance, provident fund, the manner of termination of service and disciplinary action;
+
+(g) the principles governing the seniority of service of the employees of the University;
+
+(h) the procedure for arbitration in cases of dispute between employees or students and the University;
+
+(i) the procedure for appeal to the Executive Council by any employee or student against the action of any officer or authority of the University;
+
+(j) the conferment of autonomous status on a College or an Institution or a Department;
+
+(k) the establishment and abolition of Schools, Departments, Centres, Halls, Colleges and Institutions;
+
+(l) the conferment of honorary degrees;
+
+(m) the withdrawal of degrees, diplomas, certificates and other academic distinctions;
+
+(n) the management of Colleges and Institutions established by the University;
+
+(o) the delegation of powers vested in the authorities or officers of the University;
+
+(p) the maintenance of discipline among the employees and students; and
+
+(q) all other matters which by this Act are to be, or may be, provided for by the Statutes.
 
 Statutes, how to be made.
 
-relating  to  those  authorities    and  other  bodies  for  which  it  may  be  necessary  or
-
-desirable to provide; (c ) the appointment ,powers and  duties of the officers of the University and there Emoluments ; (d) the appointment of teachers, academic staff and other  employees   of the University , their emolument and condition of service ; (e)  the  appointment  of  teachers  and  academic  staff  working  in  any  other University or  organisation for a specific period for undertaking a joint project; (f)  the  conditions  of  service  of  employees  including  provisions  for  pension ,insurance,  provident  fund,  the  manner  of  termination  of  service  and  disciplinary action; (g)the  principal  governing  the  seniority  of  service  of  the  employees  of  the University; (h)  the  procedure  for  arbitration  in  cases  of  dispute  between  employees  or student and the University; (i)  the  procedure  for  appeal  to  the  Executive  Council  by  any  employee  or student against the action of any officer or authority of the University. (j) the conferment  of autonomous status on a  College or an Institution or a Department; (k) the establishment and abolition of schools, Departments, Centers, Halls, Colleges and Institutions; (l) the conferment of honorary degrees; (m)  the  withdrawal  of  degrees,  diplomas,    certificates  and  other  academic distinctions; (n) the management of Colleges and Institutions established by the University; (o)to  delegation  of  powers  vested  in  the  authorities  or  officers  of  the University. (p) the maintenance of discipline among the employees and students ; and (q)all other matters which by this Act are to be, or may be, provided for by the Statutes.
 ## 27.
-(1) The first Statutes are those set out in the Second Schedule to this Act. (2)  The  Executive  Council  may,  from  time  to  time,  make  new  o  additional Statutes or may amend or repeal the Statutes referred to in sub-section (1): Provided  that  the  Executive  Council  shall  not  make,  amend  or  repeal  any Statutes affecting the status, powers or constitution  of any authority of the University until such authority has been given an opportunity of expressing an opinion in writing on the  proposed  changes  ,  and  any  opinion  so  expressed  shall  be  considered  by  the Executive Council. (3) Every new Statute or addition to the Statutes or any amendment or repeal of a Statute shall require the assent of the Visitor who any assent thereto or withhold assent or  remit to the Executive Council for re-consideration. (4) A new Statute or a Statute amending or repealing an existing Statute shall nave no validity unless it has been assented to by the Visitor. (5)  Notwithstanding  anything  contained  in  the  foregoing  sub-sections,  the Visitor may make new or additional Statutes or amend or repeal the Statutes referred to in sub-section(1) during the period of three years immediately after the commencement if this Act:
+(1) The first Statutes are those set out in the Second Schedule to this Act.
 
-Provided that the Visitor may, on the expiry of the said period of three years, make , within one year from the date of such expiry, such detailed Statutes as he may consider  necessary    and  such  detailed  Statutes  shall  be  laid  before  both  Houses  of Parliament.
+(2) The Executive Council may, from time to time, make new or additional Statutes or may amend or repeal the Statutes referred to in sub-section (1):
 
+Provided that the Executive Council shall not make, amend or repeal any Statutes affecting the status, powers or constitution of any authority of the University until such authority has been given an opportunity of expressing an opinion in writing on the proposed changes, and any opinion so expressed shall be considered by the Executive Council.
+
+(3) Every new Statute or addition to the Statutes or any amendment or repeal of a Statute shall require the assent of the Visitor who may assent thereto or withhold assent or remit it to the Executive Council for re-consideration.
+
+(4) A new Statute or a Statute amending or repealing an existing Statute shall have no validity unless it has been assented to by the Visitor.
+
+(5) Notwithstanding anything contained in the foregoing sub-sections, the Visitor may make new or additional Statutes or amend or repeal the Statutes referred to in sub-section (1) during the period of three years immediately after the commencement of this Act:
+
+Provided that the Visitor may, on the expiry of the said period of three years, make, within one year from the date of such expiry, such detailed Statutes as he may consider necessary and such detailed Statutes shall be laid before both Houses of Parliament.
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 11
 
-Sec.1]
-
-THE GAZETTE  OF INDIA EXTRAORDINARY              11
-
-Madhya Pradesh Act. 22 of 1973. President's Act 10 of 1973
-
-(6)  Notwithstanding  anything  contained  in  this  section,  the  Visitor        may direct  the    University  to  make  provisions  in    the  Statutes  in  respect  of  any  matter specified by him and if the Executive Council is unable to implement such direction within sixty days of its receipt , the Visitor may, after considering  the reasons, if any , communicated by the Executive Council  for its inability to comply with such direction, make or amend the Statutes suitably,
-
-## 28 .
-(1)  Subject  to  the  provisions    of  this  Act    and  the  Statutes,  the  Ordinances  may provide for all or any of the following matters, namely :-
-
-(a) the admission of students  to the University and their enrolment as such;
-
-(b)  the  courses  of  study  to  be  laid  down  for  all  degrees,  diplomas    and certificates of the University;
-
-(c) the medium of instruction  and examination;
-
-(d) the award of degrees ,diplomas, certificates and other academic distinctions, the qualifications for the same and the means to be taken relating to the granting and obtaining of the same;
-
-(e)  the  fees  to  be  charged  for  courses  of  study  in  the    University  and  for admission to examinations, degrees and diplomas of the University;
-
-(f)  the  condition  for  award  of  fellowships  ,  scholarships  ,  studentships ,medals  and prizes;
-
-(g) the conduct  of  examination  , including the term of office and manner of appointment and the duties of examining  bodies, examiners and moderators ;
-
-(h) the condition of residence of the students of the University;
-
-(i) the special arrangements ,if any, which may be made for the residence and teaching  of  women  students  and  the  prescribing  of  special  courses  of  studies  for them;
-
-(j)  the  establishment  of  Centres  of  Studies  ,  Boards  of  Studies,  Specialised Laboratories and other Committees;
-
-(k)  the  manner  of  co-operation  and  collaboration  with  other  Universities, Institution and other agencies including learned bodies or associations;
-
-(l)  the  creation,  composition  and  functions  of  any  other  body  which  is considered necessary for improving the academic life of the University;
-
-(m)  the  institution  of  fellowships,  scholarships,  studentships,  medals  and prizes;
-
-(n) the setting up a machinery for redressal of grievances of employees and students ; and
-
-(o) all other matters which by this Act. Or, the Statutes, are to be, or may be provided for by the Ordinances.
-
-(2)  The  first  Ordinances  shall  be  made  by  the  Vice-Chancellor  with  the  previous approval  of  the  Executive  Council  and  the  Ordinances  so  made  may  also  be amended, repealed or added to at any time by the Executive Council in the manner prescribed by the Statutes:
-
-Provided  that  in  the  case  of  Guru  Ghasidas  Vishwavidyalaya  and  Doctor Harisingh Gour Vishwavidyalaya, and Hemvati Nandan Bahuguna Garhwal University, till such time as the first Ordinances are not  so made, in respect of the matters that are to be provided for by the Ordinances under this Act and the Statutes, the relevant provisions of the Statutes and the Ordinances made immediately  before the  commencement  of  this    Act  under  the  provisions  of  the  Madhya  Pradesh Vishwavidyalaya  Adhiniyam,  1973,  and  the  Utter  Pradesh  State  Universities  Act. 1973, respectively, shall be applicable in so for as they are not inconsistent with  the provision of this Act and the Statutes.
+(6) Notwithstanding anything contained in this section, the Visitor may direct the University to make provisions in the Statutes in respect of any matter specified by him and if the Executive Council is unable to implement such direction within sixty days of its receipt, the Visitor may, after considering the reasons, if any, communicated by the Executive Council for its inability to comply with such direction, make or amend the Statutes suitably.
 
 Power to make Ordinances.
 
+## 28.
+(1) Subject to the provisions of this Act and the Statutes, the Ordinances may provide for all or any of the following matters, namely:—
+
+(a) the admission of students to the University and their enrolment as such;
+
+(b) the courses of study to be laid down for all degrees, diplomas and certificates of the University;
+
+(c) the medium of instruction and examination;
+
+(d) the award of degrees, diplomas, certificates and other academic distinctions, the qualifications for the same and the measures to be taken relating to the granting and obtaining of the same;
+
+(e) the fees to be charged for courses of study in the University and for admission to examinations, degrees and diplomas of the University;
+
+(f) the conditions for award of fellowships, scholarships, studentships, medals and prizes;
+
+(g) the conduct of examinations, including the term of office and manner of appointment and the duties of examining bodies, examiners and moderators;
+
+(h) the conditions of residence of the students of the University;
+
+(i) the special arrangements, if any, which may be made for the residence and teaching of women students and the prescribing of special courses of studies for them;
+
+(j) the establishment of Centres of Studies, Boards of Studies, Specialised Laboratories and other Committees;
+
+(k) the manner of co-operation and collaboration with other Universities, Institutions and other agencies including learned bodies or associations;
+
+(l) the creation, composition and functions of any other body which is considered necessary for improving the academic life of the University;
+
+(m) the institution of fellowships, scholarships, studentships, medals and prizes;
+
+(n) the setting up of a machinery for redressal of grievances of employees and students; and
+
+(o) all other matters which by this Act or the Statutes, are to be, or may be, provided for by the Ordinances.
+
+(2) The first Ordinances shall be made by the Vice-Chancellor with the previous approval of the Executive Council and the Ordinances so made may also be amended, repealed or added to at any time by the Executive Council in the manner prescribed by the Statutes:
+
+Provided that in the case of Guru Ghasidas Vishwavidyalaya and Doctor Harisingh Gour Vishwavidyalaya, and Hemvati Nandan Bahuguna Garhwal University, till such time as the first Ordinances are not so made, in respect of the matters that are to be provided for by the Ordinances under this Act and the Statutes, the relevant provisions of the Statutes and the Ordinances made immediately before the commencement of this Act under the provisions of the Madhya Pradesh Vishwavidyalaya Adhiniyam, 1973, and the Uttar Pradesh State Universities Act, 1973, respectively, shall be applicable in so far as they are not inconsistent with the provisions of this Act and the Statutes.
+
+Madhya Pradesh Act 22 of 1973.
+President’s Act 10 of 1973.
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+12 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-12 THE GAZETTE  OF INDIA EXTRAORDINARY [PART II-
+Regulations.
 
-Regulations. Annual Report. Annual Accounts . Returns and information . Condition of service of employees, ets.
-## 29 .
-The authorities of the University may make Regulations, consistent with this Act. the Statutes and the  Ordinances, for the conduct of their own business and that of the Committees, if any , appointed by them and not provided for by this Act, The Statutes or the Ordinances, in the manner prescribed by the Statutes.
+## 29.
+The authorities of the University may make Regulations, consistent with this Act, the Statutes and the Ordinances, for the conduct of their own business and that of the Committees, if any, appointed by them and not provided for by this Act, the Statutes or the Ordinances, in the manner prescribed by the Statutes.
+
+Annual report.
+
 ## 30.
-(1) The annual report of the University shall be prepared under the direction of the Executive Council, which shall include, among other matters, the steps taken by the  University  towards  the  fulfillment  of  its  objects    and  shall  be  submitted  to  the Court on or before such date as may be prescribed by the Statures and the  Court shall consider the report in its annual meeting. (2)  The  Court  shall  submit  the  annual  report  to  the  Visitor  along  with  its comments, if any. (3) A copy of the annual report, as prepared under sub-section(1),shall also be submitted to the Central Government , which shall, as soon as may be, cause the same to be laid before both Houses of Parliament .
+(1) The annual report of the University shall be prepared under the direction of the Executive Council, which shall include, among other matters, the steps taken by the University towards the fulfilment of its objects and shall be submitted to the Court on or before such date as may be prescribed by the Statutes and the Court shall consider the report in its annual meeting.
+
+(2) The Court shall submit the annual report to the Visitor along with its comments, if any.
+
+(3) A copy of the annual report, as prepared under sub-section (1), shall also be submitted to the Central Government, which shall, as soon as may be, cause the same to be laid before both Houses of Parliament.
+
+Annual accounts.
+
 ## 31.
-(1) The annual accounts and balance-sheet of the University shall be prepared under the direction of the Executive Council and shall, once at lest every year and at intervals of not more them fifteen  months, be audited by the Comptroller and AuditorGeneral of India or by such persons as he may authorise in this behalf. (2) A copy of the annual accounts together with the audit report thereon shall be submitted to the Court and the Visitor along with the observation of the Executive Council. (3)  Any  observations  made  by  the  Visitor  on  the  annual  accounts  shall  be brought to the notice of the Court and the observations of the Court, if any, shall, after being considered by the Executive Council, be submitted to the Visitor. (4) A copy of the annual accounts together with the audit report , as submitted to the Visitor, shall also be submitted to the Central Government , which shall, as soon as may be, cause the same to be laid before both Houses of Parliament. (5) The audited annual accounts after having been laid before both Houses of Parliament shall be published in the Gazette of india.
+(1) The annual accounts and balance-sheet of the University shall be prepared under the direction of the Executive Council and shall, once at least every year and at intervals of not more than fifteen months, be audited by the Comptroller and Auditor-General of India or by such persons as he may authorise in this behalf.
+
+(2) A copy of the annual accounts together with the audit report thereon shall be submitted to the Court and the Visitor along with the observations of the Executive Council.
+
+(3) Any observations made by the Visitor on the annual accounts shall be brought to the notice of the Court and the observations of the Court, if any, shall, after being considered by the Executive Council, be submitted to the Visitor.
+
+(4) A copy of the annual accounts together with the audit report, as submitted to the Visitor, shall also be submitted to the Central Government, which shall, as soon as may be, cause the same to be laid before both Houses of Parliament.
+
+(5) The audited annual accounts after having been laid before both Houses of Parliament shall be published in the Gazette of India.
+
+Returns and information.
+
 ## 32.
-The  University  shall  furnish  to  the  Central  Government  such  returns  or  other information with respect  to its property or activities as the Central Government  may ,from  time  to  time,  require,  within  such  period  as  may  be  specified  by  the  Central Government .
-## 33
-(1)  Every  employee  of  the  University  shall  be  appointed  under  a  written contract,  which  shall  be  lodged  with  the  University  and  a  copy  of  which  shall  be furnished to the employee concerned. (2)  Any  dispute  arising  out  of  the  contract  between  the  University  and  any employee shall, at the request of the employee, be referred to a Tribunal  of Arbitration consisting  of  one  member  appointed  by  the  Executive  Council  ,  one  member nominated by the employee concerned and an umpire appointed by the Visitor. (3) The decision of the Tribunal shall be final and no suit shall lie in any civil court in respect of the matters decided by the Tribunal. Provided that nothing  in this sub-section shall preclude the employee  from availing of the judicial remedies available under articles 32 and 226  of the Constitution. (4)  Every  request    made  by  the  employee  under  sub-section(2)  shall    be deemed  to  be  a  submission  to  arbitration  upon  the  terms  of  this  section  within  the meaning of the Arbitration and Conciliation Act. 1996. (5) The procedure for regulating  the work of the Tribunal shall prescribed by
+The University shall furnish to the Central Government such returns or other information with respect to its property or activities as the Central Government may, from time to time, require, within such period as may be specified by the Central Government.
 
-the Statutes.
+Conditions of service of employees, etc.
 
-26 of 1996
+## 33.
+(1) Every employee of the University shall be appointed under a written contract, which shall be lodged with the University and a copy of which shall be furnished to the employee concerned.
 
+(2) Any dispute arising out of the contract between the University and any employee shall, at the request of the employee, be referred to a Tribunal of Arbitration consisting of one member appointed by the Executive Council, one member nominated by the employee concerned and an umpire appointed by the Visitor.
+
+(3) The decision of the Tribunal shall be final and no suit shall lie in any civil court in respect of the matters decided by the Tribunal:
+
+Provided that nothing in this sub-section shall preclude the employee from availing of the judicial remedies available under articles 32 and 226 of the Constitution.
+
+(4) Every request made by the employee under sub-section (2) shall be deemed to be a submission to arbitration upon the terms of this section within the meaning of the Arbitration and Conciliation Act, 1996.
+
+26 of 1996.
+
+(5) The procedure for regulating the work of the Tribunal shall be prescribed by the Statutes.
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 13
 
-Sec.1]
+Procedure of appeal and arbitration in disciplinary cases against students.
 
-THE GAZETTE  OF INDIA EXTRAORDINARY       13
+## 34.
+(1) Any student or candidate for an examination whose name has been removed from the rolls of the University by the orders or resolution of the Vice-Chancellor, Discipline Committee or Examination Committee, as the case may be, and who has been debarred from appearing at the examinations of the University for more than one year, may, within ten days of the date of receipt of such orders or copy of such resolution by him, appeal to the Executive Council and the Executive Council may confirm, modify or reverse the decision of the Vice-Chancellor or the Committee, as the case may be.
 
-19 of 1925
-
-1 of 1872.
-
-(1)  Any  student  or  candidate  for  an  examination  whose  name  has  been removed from the rolls of  the  University  by  the  orders  or  resolution  of  the  ViceChancellor, Discipline Committee or Examination Committee ,as the case may be, and who has been debarred from appearing at the examinations of the University for more than one year, may, within ten days of the date of receipt of such orders or copy of such  resolution by him, appeal  to the Executive Council and the Executive Council may confirm, modify or reverse the decision of the Vice-chancellor or the Committee, as the case may be.
-
-(2) Any dispute arising out of any disciplinary action taken by the University against a student shall, at the request of such student, be referred to a Tribunal of Arbitration and the provisions of sub-sections (2),(3),(4) and (5) of section 33 shall, as far as may be, apply to a reference made under this sub-section.
-
-- Every  employee  or  student  of  the  University  or  of  a  College  or  Institution maintained by the University shall, notwithstanding anything contained in this Act, have a right to  appeal within such time as may be prescribed by the Statutes, to the Executive Council  against the decision of any officer or authority of the University ,or,  the  Principal  or  the  management  of  any  College  or  an  Institution,  as  the  case may be, and thereupon the Executive Council may confirm, modify  or reverse the decision appealed  against.
-
-## 36
-(1)  The  University  shall  constitute  for  the  benefit  of  its  employees  such provident or pension fund or provide such insurance schemes as it may deem fit in such manner and subject  to such conditions as may be prescribed by the Statutes.
-
-(2) Where such provident fund or pension fund has been so constituted, the Central  Government      may  declare    that  the  provisions  of  the  Provident  Funds Act,1925, shell apply to such fund, as if it were a Government provident fund.
-
-## 37 .
-If any question arises as to whether any person has been duty elected or appointed as, or is entitled to be, a member of any authority or other body of the University, the matter shall be referred to the Visitor whose decision thereon shall be final.
-
-- All  casual  vacancies  among  the  members  (other  than ex officio members) of any authority or other body of the University    shall be filled, as soon as may be, by the  person  or  body  who  appoints,  elects  or  co-opts  the  member  whose  place  has become vacant and the person appointed, elected or co-opted to a casual vacancy shall be a member of such authority or body for the residue of the term for which the person whose place he fills would have been a member.
-
-- No act or proceedings of any authority or other body of the University shall be invalid  merely  by  reason  of  the  existence  of  a  vacancy  or  vacancies  among  its members.
-
-- No suit or other legal proceedings shall lie against any officer or other employee of the University for anything  which is in good faith done or intended to be done in pursuance of any of the provisions of this Act, the Statutes or the Ordinances.
-
-## 41 .
-Notwithstanding anything contained in the Indian Evidence Act,1872 or in any other  law  for  the  time  being  in  force,  a  copy  of  any  receipt,  application  ,notice, order, processing or resolution of any authority or other body of the University, or any other document in possession of the University ,or any entry in any register duty maintained  by  the  University,  if  certified  by  the  Registrar  ,shall  be  received  as prima  facie evidence  of  such  receipt,  application    ,notice,  order  ,proceeding, resolution or document or the existence of entry in the  register and shall be admitted as  evidence  of  the  matters  and  transactions    therein  where  the  original  thereof would, if produced, have been admissible in evidence.
-
-## 42
-(1) if any difficulty arises in giving effect to the provisions of this Act, the Central Government  may, by order published in the official Gazette, make such provisions ,not
-
-Procedure  of  appeal and arbitration in disciplinary cases against students.
+(2) Any dispute arising out of any disciplinary action taken by the University against a student shall, at the request of such student, be referred to a Tribunal of Arbitration and the provisions of sub-sections (2), (3), (4) and (5) of section 33 shall, as far as may be, apply to a reference made under this sub-section.
 
 Right to appeal.
 
+## 35.
+Every employee or student of the University or of a College or Institution maintained by the University shall, notwithstanding anything contained in this Act, have a right to appeal within such time as may be prescribed by the Statutes, to the Executive Council against the decision of any officer or authority of the University, or the Principal or the management of any College or an Institution, as the case may be, and thereupon the Executive Council may confirm, modify or reverse the decision appealed against.
+
 Provident and pension funds.
+
+## 36.
+(1) The University shall constitute for the benefit of its employees such provident or pension fund or provide such insurance schemes as it may deem fit in such manner and subject to such conditions as may be prescribed by the Statutes.
+
+(2) Where such provident fund or pension fund has been so constituted, the Central Government may declare that the provisions of the Provident Funds Act, 1925, shall apply to such fund, as if it were a Government provident fund.
+
+19 of 1925.
 
 Disputes as to constitution of authorities and bodies.
 
+## 37.
+If any question arises as to whether any person has been duly elected or appointed as, or is entitled to be, a member of any authority or other body of the University, the matter shall be referred to the Visitor whose decision thereon shall be final.
+
 Filling of casual vacancies.
+
+## 38.
+All casual vacancies among the members (other than ex officio members) of any authority or other body of the University shall be filled, as soon as may be, by the person or body who appoints, elects or co-opts the member whose place has become vacant and the person appointed, elected or co-opted to a casual vacancy shall be a member of such authority or body for the residue of the term for which the person whose place he fills would have been a member.
 
 Proceedings of authorities or bodies not invalidated by vacancies.
 
-Protection  of  action taken in good faith.
+## 39.
+No act or proceedings of any authority or other body of the University shall be invalid merely by reason of the existence of a vacancy or vacancies among its members.
 
-Mode  of proof of University record.
+Protection of action taken in good faith.
 
-Power to remove difficulties .
+## 40.
+No suit or other legal proceedings shall lie against any officer or other employee of the University for anything which is in good faith done or intended to be done in pursuance of any of the provisions of this Act, the Statutes or the Ordinances.
 
+Mode of proof of University record.
+
+## 41.
+Notwithstanding anything contained in the Indian Evidence Act, 1872 or in any other law for the time being in force, a copy of any receipt, application, notice, order, proceeding or resolution of any authority or other body of the University, or any other document in possession of the University, or any entry in any register duly maintained by the University, if certified by the Registrar, shall be received as prima facie evidence of such receipt, application, notice, order, proceeding, resolution or document or the existence of entry in the register and shall be admitted as evidence of the matters and transactions therein where the original thereof would, if produced, have been admissible in evidence.
+
+1 of 1872.
+
+Power to remove difficulties.
+
+## 42.
+(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+14 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-THE GAZETTE  OF INDIA EXTRAORDINARY    [PART II-
+inconsistent with the provisions of this Act, as appear to it to be necessary or expedient for removing the difficulty:
 
-Statures  Ordinances  and Regulations to be published in the Official  Gazette  and to be laid before Parliament.
+Provided that no such order shall be made under this section after the expiry of three years from the commencement of this Act.
+
+(2) Every order made under sub-section (1) shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the order or both Houses agree that the order should not be made, the order shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that order.
+
+Statutes, Ordinances and Regulations to be published in the Official Gazette and to be laid before Parliament.
+
+## 43.
+(1) Every Statute, Ordinance or Regulation made under this Act shall be published in the Official Gazette.
+
+(2) Every Statute, Ordinance or Regulation made under this Act, shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the Statute, Ordinance or Regulation or both Houses agree that the Statute, Ordinance or Regulation should not be made, the Statute, Ordinance or Regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that Statute, Ordinance or Regulation.
+
+(3) The power to make Statutes, Ordinances or Regulations shall include the power to give retrospective effect, from a date not earlier than the date of commencement of this Act, to the Statutes, Ordinances or Regulations or any of them but no retrospective effect shall be given to any Statute, Ordinance or Regulation so as to prejudicially affect the interests of any person to whom such Statutes, Ordinances or Regulations may be applicable.
 
 Transitional provisions.
 
-14
-
-inconsistent which the provision of this Act, as appear to it be necessary or expedient for removing the difficulty :
-
-Provided that no such order shall be made under this section after the expiry of three
-
-years from the commencement  of this Act.
-
-(2) Every order made under sub-section(1) shall be laid, as soon as may be after  it  is  made,  before  each  House  of  Parliament  ,which  it  is  in  session,  for  a  total period  of  thirty  days  which  may  be  comprised  in  one  session  or  in  two  or  more successive sessions, and if, before the expiry of the session immediately following the session  or  the  successive  session  aforesaid,  both  Houses  agree  in  making  any modification in the order or both Houses agree  that the order should not be made, the order shall thereafter have effect only in such modified  from or be no effect, as the case  may be; so however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that order.
-
-## 43.
-
-(1)  Every  Statute,  Ordinances  or  Regulation  made  under  this  Act  shall  be
-
-published in the Official Gazette .
-
-(2) Every Statute ,Ordinances Regulation made under this Act, shall be laid, as  soon  as  may  be  after  it  is  made,  before  each  House    of  Parliament,  while  it  is  in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following  the  session  or  the  successive  sessions  aforesaid,  both  Houses  agree  in making  any  modification  in  the  Statute  ,  Ordinances  or  Regulation  or  both  Houses agree  that  the  Statute,  Ordinances  or  Regulation  should  not  be  made,  the  Statute, Ordinances or Regulation shall thereafter have effect only  in such modified from or be  of  no  effect,  as  the  case  may  be;  so,  however,  that  any  such  modification  or annulment shall be without prejudice to the validity of anything previously done under
-
-that Statute, Ordinances or Regulation.
-
-(3) the power to make Statutes, Ordinances or Regulations shall include the power  to give retrospective effect, from  a date not earlier then the date of commencement of this Act, to the Statutes, Ordinances or Regulation or any of them but no retrospective effect shall be given to any Statutes, Ordinances or Regulations so as to prejudicially affect the interests of any person  to whom such statutes, Ordinances or Regulations may be applicable.
-
 ## 44.
-Notwithstanding anything contained  on this Act and the Statutes.(a)the first Chancellor and the first Vice-Chancellor shall be appointed by the Visitor in such manner and on such conditions as may be deemed fit and  each of the said  officers  shall    hole  office  for  such  term,  not  exceeding  five  years,  as  may  be specified by the Visitor; (b) the first Register and the first Finance Officer shall be appointed by the Visitor and each of the said officers hold office for a term of three years; (c ) the first Court and the first Executive Council shall consist of not more then thirty- one members and eleven members, respectively, who shall be nominated by the Central Government and shall  hole office for a term of three years; and (d)  the  first  Academic  Council  shall  consist  of  not  more  then  twenty-one members, who shall be nominated by the Central Government and shall hold office for a term of three years;
+Notwithstanding anything contained in this Act and the Statutes,—
 
-Provided that if any vacancy occurs in the above offices or authorities, that same  shall  be  filled  by  appointment  by  the  Visitor  or  nomination  by  the  Central Government , as the case may be, and the person so appointed or nominated shall hold office  for  so  long  as  the  officer  or  member  in  whose  place  he  is  appointed  or nominated would have held office, of such vacancy has not occurred.
+(a) the first Chancellor and the first Vice-Chancellor shall be appointed by the Visitor in such manner and on such conditions as may be deemed fit and each of the said officers shall hold office for such term, not exceeding five years, as may be specified by the Visitor;
 
+(b) the first Registrar and the first Finance Officer shall be appointed by the Visitor and each of the said officers shall hold office for a term of three years;
+
+(c) the first Court and the first Executive Council shall consist of not more than thirty-one members and eleven members, respectively, who shall be nominated by the Central Government and shall hold office for a term of three years; and
+
+(d) the first Academic Council shall consist of not more than twenty-one members, who shall be nominated by the Central Government and shall hold office for a term of three years:
+
+Provided that if any vacancy occurs in the above offices or authorities, the same shall be filled by appointment by the Visitor or nomination by the Central Government, as the case may be, and the person so appointed or nominated shall hold office for so long as the officer or member in whose place he is appointed or nominated would have held office, if such vacancy had not occurred.
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 15
 
-Sec.1]                THE GAZETTE  OF INDIA EXTRAORDINARY
+Amendment of Madhya Pradesh Act 22 of 1973.
 
-15
+## 45.
+(1) In the Madhya Pradesh Vishwavidyalaya Adhiniyam, 1973, in the Second Schedule, the entries relating to Guru Ghasidas Vishwavidyalaya and Doctor Harisingh Gour Vishwavidyalaya shall be omitted.
 
-Madhya    Pradesh  Act. 22 of 1973.
+(2) Notwithstanding such omission,—
 
-President's Act 10 of 1973
+(a) all appointments made, orders issued, degrees and other academic distinctions conferred, diplomas and certificates awarded, privileges granted, or other things done under the Madhya Pradesh Vishwavidyalaya Adhiniyam, 1973 shall be deemed to have been respectively made, issued, conferred, awarded, granted or done under the corresponding provisions of this Act and, except as otherwise provided by this Act or the Statutes, continue in force unless and until they are superseded by any order made under this Act or the Statutes; and
 
-## 45 .
-(1)  in  the  Madhya  Pradesh  Vishwavidyalaya  Adhiniyam,  1973,  in  the  Second Schedule,  the  entries  relating  to  Guru  Ghasidas  Vishwavidyalaya  and    Doctor Harisingh Gour Vishwavidyalaya shall be omitted.
+(b) all proceedings of Selection Committees for the appointment or promotion of teachers that took place before the commencement of this Act and all actions of the Executive Council in respect of the recommendations of such Selection Committees where no orders of appointment on the basis thereof were passed before the commencement of this Act shall, notwithstanding that the procedure for selection has been modified by this Act, be deemed to have been valid but further proceedings in connection with such pending selections shall be taken in accordance with the provisions of this Act and be continued from the stage where they stood immediately before such commencement, except if the concerned authorities take, with the approval of the Visitor, a decision to the contrary.
 
-(2) Notwithstanding such omission,---
+Madhya Pradesh Act 22 of 1973.
 
-(a)    all  appointments  made  ,  orders  issued,  degrees  and  other  academic distinctions  conferred,  diplomas  and  certificates  awarded,  privileges  granted,  or other  things  done  under  the  Madhya  Pradesh  Vishwavidyalaya  Adhiniyam,1973 shall be  deemed to have been respectively made issued, conferred, awarded, granted or  done  under  the  corresponding  provisions  of  this  Act  and,  except  as  otherwise provided  by  this  Act  or  the  Statutes,  continue  in  force  unless  and  until  there  are superseded by any  order made under this Act or the  Statutes: and
-
-(b) all proceedings of Selection Committees for the appointment or promotion of teachers that took place before the commencement of this Act and all actions  of  the    Executive  Council  in  respect  of  the  recommendations  of  such Selection  Committees  where    no  orders  of  appointment  on  the  basis  thereof  were passed  before  the  commencement  of  this  Act  shall,  notwithstanding  that  the procedure  for  selection  has  been    modified  by  this  Act,  be  deemed  to  have  been valid  but  further  proceeding  in  connection  with  such  pending  selections  shall  be taken in accordance with the provisions of this Act and be continued from the stage where they stood  immediately  before such commencement, except if the concerned authorities take , with the approval of the Visitor, a decision  to the contrary.
+Amendment of President’s Act 10 of 1973.
 
 ## 46.
-( 1 ) In the Uttar Pradesh State Universities Act,1973,----
+(1) In the Uttar Pradesh State Universities Act, 1973,—
 
-(a)    in  sub-section(1)  of  section  4,  the  words,  figures  and  brackets  'and  a University  of  Garhwal  which    shall    from  April  25,  1989  be  called  the  Hemvati Nandan    Bahuguna  Garhwal  University  at  Srinagar(District  Garhwal)'  shall  be omitted:
+(a) in sub-section (1) of section 4, the words, figures and brackets “and a University of Garhwal which shall from April 25, 1989 be called the Hemvati Nandan Bahuguna Garhwal University at Srinagar (District Garhwal)” shall be omitted;
 
-(b) in clause (d) of sub-section (1) of section 20 , the words' the  Hemvati Nandan Bahuguna Garhwal University' shall be omitted:
+(b) in clause (d) of sub-section (1) of section 20, the words “the Hemvati Nandan Bahuguna Garhwal University” shall be omitted;
 
-(c)  in  sub-section(2)  of  section  52,  for  the  words  '  the  Universities  of Kumaun and Garhwal' the words ' the University of Kumaun' shall be substituted :
+(c) in sub-section (2) of section 52, for the words “the Universities of Kumaun and Garhwal” the words “the University of Kumaun” shall be substituted;
 
-(d) section 72B shall be omitted:
+(d) section 72B shall be omitted;
 
-(e)  in  the  Schedule,  Serial  No.  8    and  the  entries  relation  thereto  shall  be omitted,
+(e) in the Schedule, Serial No. 8 and the entries relating thereto shall be omitted.
 
-(2)  Notwithstanding the omission and substitution referred to in sub-section(1),----
+(2) Notwithstanding the omission and substitution referred to in sub-section (1),—
 
-(a)    all  appointments  made,  orders  issued,  degrees  and  other  academic distinctions  conferred,  diplomas  and  certificates  awarded,  privileges  granted,  or other  things    done  under  the  Uttar  Pradesh  State  Universities  Act,  1973,  shall  be deemed  to  have  been  respectively  made  ,  issued,  conferred,  awarded,  granted  or done  under  the  corresponding  provisions  of  this  Act  and,  Except  as    otherwise provided  by  this  Act  or  the  Statutes,  continue  in  force  unless  and  until  they  are superseded by and  order made under this Act or the Statutes: and
+(a) all appointments made, orders issued, degrees and other academic distinctions conferred, diplomas and certificates awarded, privileges granted, or other things done under the Uttar Pradesh State Universities Act, 1973, shall be deemed to have been respectively made, issued, conferred, awarded, granted or done under the corresponding provisions of this Act and, except as otherwise provided by this Act or the Statutes, continue in force unless and until they are superseded by an order made under this Act or the Statutes; and
 
-(b)    all  proceedings  of  Selection  Committees  for  the    appointment  or promotion of teachers that  took place before the commencement of this Act and all actions  of  the  Executive    Council  in  respect  of  the  recommendations  of  such Selections  Committees  where no orders of appointment on the basis thereof  were passed  before  the  commencement  of  this  Act  shall  ,  notwithstanding  that    the procedure for selection has been modified by this Act shall, notwithstanding that the procedure for selection has been modified by this Act, be deemed to have been valid but  further  proceeding  on  the  connection  with    such  pending  selections  shall    be taken  in  accordance    with  the  provisions    of  this  Act  and  be  continued    from  the stage   where  they   stood  immediately before such commencement, except if the concerned  authorities  take,  with  the  approval  of  the  Visitor,  a  decision    to  the contrary.
+(b) all proceedings of Selection Committees for the appointment or promotion of teachers that took place before the commencement of this Act and all actions of the Executive Council in respect of the recommendations of such Selection Committees where no orders of appointment on the basis thereof were passed before the commencement of this Act shall, notwithstanding that the procedure for selection has been modified by this Act, be deemed to have been valid but further proceedings in connection with such pending selections shall be taken in accordance with the provisions of this Act and be continued from the stage where they stood immediately before such commencement, except if the concerned authorities take, with the approval of the Visitor, a decision to the contrary.
 
-Amendment of Madhya  Pradesh Act. 22 of 1973.
-
-Amendment of President's Act10 of 1973.
-
+President’s Act 10 of 1973.
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 16
 
-Sec.1]
-
-THE GAZETTE  OF INDIA EXTRAORDINARY
-
-16
-
-Repeal and saving
+Repeal and saving.
 
 ## 47.
-(1) The Central Universities Ordinance, 2009 is hereby  repealed.
-
-(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance  shall  be  deemed  to  have  been  done  or  taken  under  the  corresponding provisions of this Act, and-----
-
-(a)  all  appointments  made,  orders  issued,  degrees  and  other  academic distinctions  conferred,  diplomas  and  certificates  awarded,  privileges  granted,  or other things done under the Central Universities Ordinance, 2009 shall be deemed to have been respectively made, issued, conferred, awarded, granted or done under the corresponding provisions of this Act and, except as otherwise provided by , or under this  Act  or  the  Statutes,  continue  in  force  unless  and  until  they  are  superseded  by and order made under this Act or the Statutes: and
-
-(b) all  proceedings of Selection Committees    for the appointment  or promotion of  teachers that took place before the commencement of this Act and all actions  of  the  Executive  Council  in  respect  of  the  recommendations  of  such Selections  Committees  where no orders of appointment on the basis thereof  were passed  before  the  commencement  of  this  Act  shall,  notwithstanding  that  the procedure  for selection  has  been    modified  by  this  Act,  be  deemed  to  have  been valid but further proceeding in the  connection with such pending selection shall be taken in accordance with the  provisions of this Act and be continued  from the stage where they stood  immediately before  such commencement, except if the concerned authorities take, with approval of the Visitor, decision to the contrary.
-
-Ord.3 of 2009
+(1) The Central Universities Ordinance, 2009 is hereby repealed.
 
 Ord. 3 of 2009.
 
+(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act, and—
+
+(a) all appointments made, orders issued, degrees and other academic distinctions conferred, diplomas and certificates awarded, privileges granted, or other things done under the Central Universities Ordinance, 2009 shall be deemed to have been respectively made, issued, conferred, awarded, granted or done under the corresponding provisions of this Act and, except as otherwise provided by or under this Act or the Statutes, continue in force unless and until they are superseded by an order made under this Act or the Statutes; and
+
+Ord. 3 of 2009.
+
+(b) all proceedings of Selection Committees for the appointment or promotion of teachers that took place before the commencement of this Act and all actions of the Executive Council in respect of the recommendations of such Selection Committees where no orders of appointment on the basis thereof were passed before the commencement of this Act shall, notwithstanding that the procedure for selection has been modified by this Act, be deemed to have been valid but further proceedings in connection with such pending selections shall be taken in accordance with the provisions of this Act and be continued from the stage where they stood immediately before such commencement, except if the concerned authorities take, with the approval of the Visitor, a decision to the contrary.
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
-
-Sec.1]______THE GAZETTE  OF INDIA EXTRAORDINARY
-
-17
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 17
 
 ## THE FIRST SCHEDULE
 
-[See Section 3(4)]
+[See section 3(4)]
 
 ___________________________________________________________________
 
 Serial No. | Name of the State | Name of the University | Territorial jurisdiction
 --- | --- | --- | ---
-1. | Bihar | ________________________________________________________ Central University of Bihar | Whole of the State of Bihar
+1. | Bihar | Central University of Bihar | Whole of the State of Bihar
 2. | Gujarat | Central University of Gujarat | Whole of the State of Gujarat
 3. | Haryana | Central University of Haryana | Whole of the State of Haryana
 4. | Himachal Pradesh | Central University of Himachal Pradesh | Whole of the State of Himachal Pradesh
@@ -741,396 +750,451 @@ Serial No. | Name of the State | Name of the University | Territorial jurisdicti
 10. | Punjab | Central University of Punjab | Whole of the State of Punjab
 11. | Rajasthan | Central University of Rajasthan | Whole of the State of Rajasthan
 12. | Tamil Nadu | Central University of Tamil Nadu | Whole of the State of Tamil Nadu
-
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+18 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-Page: 18        THE GAZETTE  OF INDIA EXTRAORDINARY      [PART-II
-
-Chancellor.
-
-Vice- Chancellor.
-
-## THE  SECOND SCHEDULE
+## THE SECOND SCHEDULE
 
 (See section 27)
 
-### The  Statutes of the University
+### The Statutes of the University
+
+Chancellor.
 
 #### 1.
-( 1) The Chancellor shall be appointed by the Visitor  from  a panel of not less than three  persons  recommended  by  the  Executive  Council    from    amongst    persons    of eminence in the academic or  public  life of the country:
+(1) The Chancellor shall be appointed by the Visitor from a panel of not less than three persons recommended by the Executive Council from amongst persons of eminence in the academic or public life of the country:
 
 Provided that if the Visitor does not approve of any of the persons so recommended, he may call for fresh recommendations from the Executive Council.
 
 (2) The Chancellor shall hold office for a term of five years and shall not be eligible for re-appointment:
 
-Provided that notwithstanding the expiry of his term of office, the  Chancellor shall continue to hold office until his successor enters upon his office.
+Provided that notwithstanding the expiry of his term of office, the Chancellor shall continue to hold office until his successor enters upon his office.
+
+Vice-Chancellor.
 
 #### 2.
-( 1) The  Vice-Chancellor  shall be appointed by  the  Visitor from out of a panel recommended by a Committee as constituted under clause (2):
+(1) The Vice-Chancellor shall be appointed by the Visitor from out of a panel recommended by a Committee as constituted under clause (2):
 
-Provided that if the Visitor does not approve any of the persons included in the panel, he may call for an extended fresh panel.
+Provided that if the Visitor does not approve any of the persons included in the panel, he may call for an extended or fresh panel.
 
-( 2 )    The Committee referred to in clause (1) shall consist of five persons, out of whom three shall  be nominated by the Executive Council and two by the Visitor, and one of the nominees of the Visitor shall be the convener of the Committee:
+(2) The Committee referred to in clause (1) shall consist of five persons, out of whom three shall be nominated by the Executive Council and two by the Visitor, and one of the nominees of the Visitor shall be the convener of the Committee:
 
-Provided  that  none  of  the  members  of  the  Committee  shall  be  an employee of the University or a College or an Institution maintained by the University or  a member of any authority of the University.
+Provided that none of the members of the Committee shall be an employee of the University or a College or an Institution maintained by the University or a member of any authority of the University.
 
-( 3 ) The Vice -Chancellor shall be a whole-time salaried officer of the University. ( 4 ) The Vice-Chancellor shall hold office for a term of five years from the date on  which  he  enters  upon  his  office,  or  until  he  attains  the  age  of  seventy  year, whichever is earlier, and he shall not be eligible for re-appointment  and enters upon his office:
+(3) The Vice-Chancellor shall be a whole-time salaried officer of the University.
 
-Provided that notwithstanding the expiry of the said period  of five years, he shall continue in office until his successor in appointed and enters upon his office:
+(4) The Vice-Chancellor shall hold office for a term of five years from the date on which he enters upon his office, or until he attains the age of seventy years, whichever is earlier, and he shall not be eligible for re-appointment:
 
-Provided  further  that  the  Visitor  may  direct  any  Vice-Chancellor after his   term has expired to  continue in office for such period , not exceeding a total period of one year, as may be specified by him.
+Provided that notwithstanding the expiry of the said period of five years, he shall continue in office until his successor is appointed and enters upon his office:
 
-( 5 )Notwithstanding anything contained in clause(4), the Visitor may, at any time after the Vice- Chancellor has entered upon his office , by order in writing ,v remove the Vice-  Chancellor  from  office  on  grounds  of  incapacity,  misconduct  or  violation  of statutory provisions;
+Provided further that the Visitor may direct any Vice-Chancellor after his term has expired to continue in office for such period, not exceeding a total period of one year, as may be specified by him.
 
-Provided  that  no  such  order  shall  be  made  by  the  Visitor  unless  the Vice-Chancellor has been given a reasonable opportunity of showing cause against the action proposed to be taken against him:
+(5) Notwithstanding anything contained in clause (4), the Visitor may, at any time after the Vice-Chancellor has entered upon his office, by order in writing, remove the Vice-Chancellor from office on grounds of incapacity, misconduct or violation of statutory provisions:
 
-Provided further that the Visitor shall consult the Chancellor also before making     such order:
+Provided that no such order shall be made by the Visitor unless the Vice-Chancellor has been given a reasonable opportunity of showing cause against the action proposed to be taken against him:
+
+Provided further that the Visitor shall consult the Chancellor also before making such order:
 
 Provided also that the Visitor may, at any time before making such order, place the Vice-Chancellor under suspension, pending enquiry.
-
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 19
 
-Sec.01]          THE GAZETTE  OF INDIA EXTRAORDINARY                     19
+(6) The emoluments and other conditions of service of the Vice-Chancellor shall be as follows:—
 
-( 6)The emoluments and other conditions of service of the Vice-Chancellor shall be as follows:-
+(i) The Vice-Chancellor shall be paid a monthly salary and allowances, other than house rent allowance, at the rates fixed by the Central Government from time to time and he shall be entitled, without payment of rent, to use a furnished residence throughout his term of office and no charge shall fall on the Vice-Chancellor in respect of the maintenance of such residence.
 
-(i) The Vice-Chancellor shall be paid a monthly salary and allowances, other than house rent allowance, at the rates fixed by the Central Government from time to time  and  he  shall  be  entitled,  without  payment  of  rent,  to  use  a  furnished  residence throughout his term of office and no charge shall fall on the Vice-Chancellor in respect of the maintenance of such residence.
+(ii) The Vice-Chancellor shall be entitled to such terminal benefits and allowances as may be fixed by the Central Government from time to time:
 
-(ii)  The  Vice-Chancellor  shall  be  entitled  to  such  terminal  benefits  and allowances as may be fixed by the Central Government from time to time:
+Provided that where an employee of the University, or a College or an Institution maintained by the University, or of any other University or any College or Institution maintained by or admitted to the privileges of, such other University is appointed as the Vice-Chancellor, he may be allowed to continue to contribute to any provident fund of which he is a member and the University shall contribute to the account of such person in that provident fund at the same rate at which the person had been contributing immediately before his appointment as the Vice-Chancellor:
 
-Provided  that  where  an  employee  of  the  University,  or  a  College  or  an Institution maintained by the University, or of any other University or any College or Institution  maintained  by  or  admitted  to  the  privileges  of,  such  other  University  is appointed as the   Vice-Chancellor, he may be allowed to continue to contribute to any provident  fund  of  which  he  is  a  member  and  the  University  shall  contribute  to  the account of such person in that provident fund at the same rate at which the person had been contributing immediately before his appointment as the Vice-Chancellor:
-
-Provided  further  that  where  such  employee  had  been  a  member  of  any pension scheme, the University shall make the necessary contribution to such scheme.
+Provided further that where such employee had been a member of any pension scheme, the University shall make the necessary contribution to such scheme.
 
 (iii) The Vice-Chancellor shall be entitled to travelling allowance at such rates as may be fixed by the Executive Council.
 
 (iv) The Vice-Chancellor shall be entitled to leave on full pay at the rate of thirty days in a calendar year and the leave shall be credited to his account in advance in two half-yearly instalments of fifteen days each on the first day of January and July every year:
 
-Provided  that  if  the  Vice-Chancellor  assumes  or  relinquishes  charge  of  the office  of  the  Vice-Chancellor  during  the  currency  of  a  half  year,  the  leave  shall  be credited proportionately at the rate of two and-a-half days for each completed month of service.
+Provided that if the Vice-Chancellor assumes or relinquishes charge of the office of the Vice-Chancellor during the currency of a half year, the leave shall be credited proportionately at the rate of two and-a-half days for each completed month of service.
 
 (v) In addition to the leave referred to in sub-clause (iv), the Vice-Chancellor shall also be entitled to half-pay leave at the rate of twenty days for each completed year of service, and half-pay leave may also be availed of as commuted leave on full pay on medical certificate:
 
 Provided that when such commuted leave is availed of, twice the amount of half-pay leave shall be debited against half-pay leave due.
 
-(7)  If  the  office  of  the  Vice-Chancellor  becomes  vacant  due  to  death,  resignation  or otherwise, or if he is unable to perform his duties due to ill-health or any other cause, the Pro-Vice-Chancellor resumes the duties of his office, as the case may be.
+(7) If the office of the Vice-Chancellor becomes vacant due to death, resignation or otherwise, or if he is unable to perform his duties due to ill-health or any other cause, the Pro-Vice-Chancellor shall perform the duties of the Vice-Chancellor until a new Vice-Chancellor assumes office or until the existing Vice-Chancellor resumes the duties of his office, as the case may be.
+
+Powers and duties of Vice-Chancellor.
 
 #### 3.
-(1) The Vice-Chancellor shall be ex officio Chairman of the Executive Council, the Academic  council  and  the  Finance  Committee  and  shall,  in  the  absence  of  the Chancellor, preside at the Convocations held for conferring degrees and at meetings of the Court.
+(1) The Vice-Chancellor shall be ex officio Chairman of the Executive Council, the Academic Council and the Finance Committee and shall, in the absence of the Chancellor, preside at the Convocations held for conferring degrees and at meetings of the Court.
 
 (2) The Vice-Chancellor shall be entitled to be present at, and address, any meeting of any authority or other body of the University, but shall not be entitled to vote thereat unless he is a member of such authority or body.
 
-(3)  It  shall  be  the  duty  of  the  Vice-Chancellor  to  see  that  this  Act,  the  Statutes,  the Ordinances and the Regulations are duly observed and he  shall  have all the powers necessary to ensure such observance.
-
-Powers and Duties of Vice-  Chancellor.
-
+(3) It shall be the duty of the Vice-Chancellor to see that this Act, the Statutes, the Ordinances and the Regulations are duly observed and he shall have all the powers necessary to ensure such observance.
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+20 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-20            THE GAZETTE  OF INDIA EXTRAORDINARY               [PART-II
-
-Pro- Vice- Chancellor
-
-Deans of Schools.
-
-(4) The Vice-Chancellor shall have all the powe3rs necessary for the proper maintenance of discipline in the University and he  may delegate any such powers to such person or persons as he deems fit.
+(4) The Vice-Chancellor shall have all the powers necessary for the proper maintenance of discipline in the University and he may delegate any such powers to such person or persons as he deems fit.
 
 (5) The Vice-Chancellor shall have the power to convene or cause to be convened the meetings of the Executive Council, the Academic Council and the Finance Committee.
 
+Pro-Vice-Chancellor.
+
 #### 4.
-(1)  The Pro-Vice-Chancellor  shall be appointed  by  the Executive Council on the recommendation of the Vice-Chancellor:
+(1) The Pro-Vice-Chancellor shall be appointed by the Executive Council on the recommendation of the Vice-Chancellor:
 
-Provided that where the recommendation of the  Vice-Chancellor is not accepted  by the  Executive  Council,  the  matter  shall  be  referred  to  the    Visitor  who  may  either appoint the  person recommended  by the Vice-Chancellor or ask the Vice-Chancellor to recommend another person to the  Executive Council:
+Provided that where the recommendation of the Vice-Chancellor is not accepted by the Executive Council, the matter shall be referred to the Visitor who may either appoint the person recommended by the Vice-Chancellor or ask the Vice-Chancellor to recommend another person to the Executive Council:
 
-Provided further that the Executive Council may, on the recommendation of the ViceChancellor, appoint a Professor to discharge the duties of the Pro-Vice-Chancellor in addition to his own duties as a professor.
+Provided further that the Executive Council may, on the recommendation of the Vice-Chancellor, appoint a Professor to discharge the duties of the Pro-Vice-Chancellor in addition to his own duties as a Professor.
 
-(2)  The term of office of the Pro-Vice-Chancellor shall be such as may be decided by the  Executive  Council  but  it  shall  to  in  any  case  exceed  five  years  or  until  the expiration of the term of office of the Vice-Chancellor, or whichever is earlier:
+(2) The term of office of the Pro-Vice-Chancellor shall be such as may be decided by the Executive Council but it shall not in any case exceed five years or until the expiration of the term of office of the Vice-Chancellor, whichever is earlier:
 
-Provided  that  the  Pro-Vice-Chancellor  whose  term  of  office  has  expired  shall  be eligible for re-appointment:
+Provided that the Pro-Vice-Chancellor whose term of office has expired shall be eligible for re-appointment:
 
 Provided further that, in any case, the Pro-Vice-Chancellor shall retire on attaining the age of seventy years:
 
-Provided also that the Pro-Vice-Chancellor shall, while discharging the duties of the Vice-Chancellor  under clause(7) of Statute2,  continue  in  office,  notwithstanding  the expiration  of  his  term  of  office  as  Pro-Vice-Chancellor,  until  the  Vice-Chancellor resumes office or a new Vice-Chancellor assumes office, as the case may be.
+Provided also that the Pro-Vice-Chancellor shall, while discharging the duties of the Vice-Chancellor under clause (7) of Statute 2, continue in office, notwithstanding the expiration of his term of office as Pro-Vice-Chancellor, until the Vice-Chancellor resumes office or a new Vice-Chancellor assumes office, as the case may be.
 
-(3)  The  emoluments  and  other  terms  and  conditions  of  service  of  the  Pro-ViceChancellor shall be such as may be prescribed by the Ordinances.
+(3) The emoluments and other terms and conditions of service of the Pro-Vice-Chancellor shall be such as may be prescribed by the Ordinances.
 
-(4)    The  Pro-Vice-Chancellor  shall  assist  the  Vice  -Chancellor  in  respect  of  such matters  as  may  be  specified    by    the  Vice-Chancellor  in  this  behalf  ,  from    time  to time, and shall also exercise such powers and perform such duties as may be assigned or delegated to him  by the Vice-Chancellor.
+(4) The Pro-Vice-Chancellor shall assist the Vice-Chancellor in respect of such matters as may be specified by the Vice-Chancellor in this behalf, from time to time, and shall also exercise such powers and perform such duties as may be assigned or delegated to him by the Vice-Chancellor.
+
+Deans of Schools.
 
 #### 5.
-(1) Every Dean of School shall be appointed by the Vice-Chancellor from amongst the  Professors  in  the  School  by  rotation  in    order  of  seniority  for  a  period  of  three years:
+(1) Every Dean of School shall be appointed by the Vice-Chancellor from amongst the Professors in the School by rotation in order of seniority for a period of three years:
 
-Provided that  in  case  there  is  only  one  Professor    or  no  Professor  in  a  School  ,  the Dean shall be appointed, for the time being, from amongst the Professor, if any and the Associate  Professors in the School  by rotation in the order of seniority:
+Provided that in case there is only one Professor or no Professor in a School, the Dean shall be appointed, for the time being, from amongst the Professor, if any, and the Associate Professors in the School by rotation in the order of seniority:
 
 Provided further that a Dean on attaining the age of sixty-five years shall cease to hold office as such.
 
-(2)  When the office of the Dean is Vacant or when the Dean is, by reason of illness, absence or any other cause, unable to perform duties of  his  office, the duties of the office shall be performed by the senior-most Professor or Associate Professor, as the case may be, in the School.
+(2) When the office of the Dean is vacant or when the Dean is, by reason of illness, absence or any other cause, unable to perform duties of his office, the duties of the office shall be performed by the senior-most Professor or Associate Professor, as the case may be, in the School.
 
-(3)  The Dean shall be the Head of the School and  shall be responsible for the conduct and maintenance  of the standards of teaching and research in the School  and  shall have such other  functions as may be prescribed by the Ordinances.
+(3) The Dean shall be the Head of the School and shall be responsible for the conduct and maintenance of the standards of teaching and research in the School and shall have such other functions as may be prescribed by the Ordinances.
 
-(4)  The  Dean  shall  have  the  right  to  be  present  and  to  speak  at  any  meeting  of  the Boards of Studies or Committees of the School, as the case may be, but shall not have the right to vote thereat  unless he is a member thereof .
-
+(4) The Dean shall have the right to be present and to speak at any meeting of the Boards of Studies or Committees of the School, as the case may be, but shall not have the right to vote thereat unless he is a member thereof.
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
-
-Sec.I]           THE GAZETTE  OF INDIA EXTRAORDINARY                        21
-
-#### 6.
-(1) The  Registrar shall be appointed by the Executive Council on the recommendation of a Selection 'Committee constituted for the  purpose  and shall be whole-time salaried officer of University.
-
-(2)    He  shall  be  appointed  for  a  term  of  five  years  and  shall  be  eligible  for    reappointment.
-
-(3)    The    emoluments  and  other  terms  and  conditions  of  service    of  the  Registrar shall be such as may be prescribed by the Executive Council from time to  time:
-
-Provided that  the Registrar shall  retire on attaining the age of sixty-two-years.
-
-(4)  When the office of the Registrar is vacant  or when the Registrar is, by reason of illness,  absence  or  any  other  cause,  unable  to  perform  the  duties  of  his    office,  the duties of  the office shall be  performed by  such person as the Vice-Chancellor  may appoint  for the purpose.
-
-(5) (a) The Registrar shall have power to take disciplinary action against such of the employees, excluding  teachers and other academic staff, as may be specified in the order of the Executive Council  and to suspend them  pending inquiry, to administer warnings to them or to impose on them the penalty of censure  or the withholding of increment:
-
-Provided that  no such penalty shall be imposed unless the person has been given a reasonable opportunity of showing cause against the action proposed  to be taken  in regard to him.
-
-(b)  An    appeal  shall  lie  to  the  Vice-Chancellor    against    any  order  of  the  Registrar imposing any of the penalties specified in sub-clause(a).
-
-(c)  In a case where the inquiry discloses  that a punishment beyond  the power of the Registrar is called for the Registrar shall, upon the conclusion of the inquiry, make a report  to the Vice-Chancellor along with his recommendation:
-
-Provided that an appeal shall lie to the Executive Council against an order of the ViceChancellor imposing any penalty.
-
-(6)  The  Registrar  shall  be  ex  officio  Secretary  of  the  Executive  Council  and  the Academic , but shall not  be deemed to be member of either of these authorities and he shall be ex officio Member-secretary of the Court.
-
-(7)  It shall be the duty of the Registrar----
-
-(a) to be the custodian of the records, the common seal and such other property of the University as the Executive Council  shall commit to his charge;
-
-(b)  to issue all notices convening meetings of the Court, the Executives Council , the Academic
-
-Council and of any Committees appointed by those authorities;
-
-(c)  to keep the minutes of all the meetings of the Court , the  Executive Council, the Academic Council and of any Committees appointed by those authorities;
-
-(d)  to conduct the official  correspondence of the Court, the Executive Council and the Academic Council;
-
-(e)  to supply  to Visitor, Copies of the agenda of the meetings of the authorities of the University  as soon as they are issued and the minutes of such meetings;
-
-(f) to represent the University in suits or proceedings by or against the University, sign powers of attorney and verify  pleadings or depute his representative for the purpose; and
-
-(g)  to perform such other duties as may be specified in the statutes, the Ordinances or Regulations  or  as  may  be  required  from    time  to  time  by  the  Executive  Council  or Vice-Chancellor.
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 21
 
 Registrar.
 
+#### 6.
+(1) The Registrar shall be appointed by the Executive Council on the recommendation of a Selection Committee constituted for the purpose and shall be a whole-time salaried officer of the University.
+
+(2) He shall be appointed for a term of five years and shall be eligible for re-appointment.
+
+(3) The emoluments and other terms and conditions of service of the Registrar shall be such as may be prescribed by the Executive Council from time to time:
+
+Provided that the Registrar shall retire on attaining the age of sixty-two years.
+
+(4) When the office of the Registrar is vacant or when the Registrar is, by reason of illness, absence or any other cause, unable to perform the duties of his office, the duties of the office shall be performed by such person as the Vice-Chancellor may appoint for the purpose.
+
+(5) (a) The Registrar shall have power to take disciplinary action against such of the employees, excluding teachers and other academic staff, as may be specified in the order of the Executive Council and to suspend them pending inquiry, to administer warnings to them or to impose on them the penalty of censure or the withholding of increment:
+
+Provided that no such penalty shall be imposed unless the person has been given a reasonable opportunity of showing cause against the action proposed to be taken in regard to him.
+
+(b) An appeal shall lie to the Vice-Chancellor against any order of the Registrar imposing any of the penalties specified in sub-clause (a).
+
+(c) In a case where the inquiry discloses that a punishment beyond the power of the Registrar is called for the Registrar shall, upon the conclusion of the inquiry, make a report to the Vice-Chancellor along with his recommendation:
+
+Provided that an appeal shall lie to the Executive Council against an order of the Vice-Chancellor imposing any penalty.
+
+(6) The Registrar shall be ex officio Secretary of the Executive Council and the Academic Council, but shall not be deemed to be a member of either of these authorities and he shall be ex officio Member-Secretary of the Court.
+
+(7) It shall be the duty of the Registrar—
+
+(a) to be the custodian of the records, the common seal and such other property of the University as the Executive Council shall commit to his charge;
+
+(b) to issue all notices convening meetings of the Court, the Executive Council, the Academic Council and of any Committees appointed by those authorities;
+
+(c) to keep the minutes of all the meetings of the Court, the Executive Council, the Academic Council and of any Committees appointed by those authorities;
+
+(d) to conduct the official correspondence of the Court, the Executive Council and the Academic Council;
+
+(e) to supply to the Visitor, copies of the agenda of the meetings of the authorities of the University as soon as they are issued and the minutes of such meetings;
+
+(f) to represent the University in suits or proceedings by or against the University, sign powers of attorney and verify pleadings or depute his representative for the purpose; and
+
+(g) to perform such other duties as may be specified in the Statutes, the Ordinances or Regulations or as may be required from time to time by the Executive Council or Vice-Chancellor.
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+22 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-22         THE GAZETTE  OF INDIA EXTRAORDINARY            [PART-II
+Finance Officer.
 
-Finance officer
-
-Controller of Examination
-
-#### 7 .
-(1)    The  Finance  Officer  shall  be  appointed  by  the  Executive    Council    on  the recommendations of Selection Committee constituted for  the purpose and be shall be a whole-time salaried officer of the University.
+#### 7.
+(1) The Finance Officer shall be appointed by the Executive Council on the recommendations of a Selection Committee constituted for the purpose and he shall be a whole-time salaried officer of the University.
 
 (2) The Finance Officer shall be appointed for a term of five years and shall be eligible for re-appointment.
 
-(3)  The emoluments and other terms and conditions of service of the finances Officer shall be such as may be prescribed by the Executive Council form time to time:
+(3) The emoluments and other terms and conditions of service of the Finance Officer shall be such as may be prescribed by the Executive Council from time to time:
 
-Provided that the Finance Officer shall retire on attaining the age of sixty-two-years.
+Provided that the Finance Officer shall retire on attaining the age of sixty-two years.
 
-(4)  When the office of the Finance Officer is vacant or when the Finance Officer  is , by reason of illness, absence or any other cause, unable to perform the duties of his office,  the  duties  of  the  office    shall  be  performed  by  such  person  as  the  ViceChancellor may appoint for the purpose.
+(4) When the office of the Finance Officer is vacant or when the Finance Officer is, by reason of illness, absence or any other cause, unable to perform the duties of his office, the duties of the office shall be performed by such person as the Vice-Chancellor may appoint for the purpose.
 
-(5)  The Finance Officer shall  be ex officio Secretary of the Finance Committee, but shall not be deemed to be a member of such Committee.
+(5) The Finance Officer shall be ex officio Secretary of the Finance Committee, but shall not be deemed to be a member of such Committee.
 
-(6)  The Finance Officer shall---
+(6) The Finance Officer shall—
 
-(a)  exercise    general  supervision  over  the  funds  of  the  University  and  shall advise it as regards its financial policy: and
+(a) exercise general supervision over the funds of the University and shall advise it as regards its financial policy; and
 
-(b) perform such other financial function as may be assigned to him by the Executive Council or  as may be prescribed by the Statutes  or the Ordinances.
+(b) perform such other financial functions as may be assigned to him by the Executive Council or as may be prescribed by the Statutes or the Ordinances.
 
-(7) Subject to the control the Executive Council, the Finance Officer shall---
+(7) Subject to the control of the Executive Council, the Finance Officer shall—
 
-(a) hold    and  manage  the  property  and  investments  of  the  University including  trust and endowed property:
+(a) hold and manage the property and investments of the University including trust and endowed property;
 
-(b) ensure that  the limits fixed by the Executive Council for recurring and non-recurring  expenditure  for  a  year    are  not  exceeded  and  that  all moneys  are  expended  on  the  purpose  for  which  they  are  granted  or allotted;
+(b) ensure that the limits fixed by the Executive Council for recurring and non-recurring expenditure for a year are not exceeded and that all moneys are expended on the purpose for which they are granted or allotted;
 
-(c) be responsible for the preparation of annual  accounts and the budget of the University and for their presentation to the Executive Council;
+(c) be responsible for the preparation of annual accounts and the budget of the University and for their presentation to the Executive Council;
 
-(d) Keep a constant watch on the state of the cash and bank balances and  on the  state of investments;
+(d) keep a constant watch on the state of the cash and bank balances and on the state of investments;
 
-(e) watch  the  progress  of  the  collection  of  revenues    and  advise  on  the methods  of collection employed:
+(e) watch the progress of the collection of revenues and advise on the methods of collection employed;
 
-(f) ensure  that  the  registers  of  buildings,  land  furniture  and  equipment  are maintained up to date and that stock-checking is conducted, of equipment and other  consumable materials in all  offices, Departments, Centres and Specialised Laboratories;
+(f) ensure that the registers of buildings, land, furniture and equipment are maintained up to date and that stock-checking is conducted of equipment and other consumable materials in all offices, Departments, Centres and Specialised Laboratories;
 
-(g) bring  to the notice of the Vice-Chancellor  unauthorised expenditure and other    financial  irregularities  and  suggest  disciplinary  action  against persons at fault; and
+(g) bring to the notice of the Vice-Chancellor unauthorised expenditure and other financial irregularities and suggest disciplinary action against persons at fault; and
 
-(h) call  for  from  any  office,  Department,  Centre,  Laboratory,  College  or Institution  maintained  by the University any information or returns that he may consider necessary for the performance of his duties.
+(h) call for from any office, Department, Centre, Laboratory, College or Institution maintained by the University any information or returns that he may consider necessary for the performance of his duties.
 
-(8) Any receipt given by the Finance Officer or the person or persons duly authorised in this  behalf by the  Executive Council for any money payable to University shall be sufficient discharge for payment of such money.
+(8) Any receipt given by the Finance Officer or the person or persons duly authorised in this behalf by the Executive Council for any money payable to the University shall be sufficient discharge for payment of such money.
+
+Controller of Examinations.
 
 #### 8.
-(1) The Controller of Examinations hall  be appointed by the executive Council on the    recommendations  of  a  selection  Committee  constituted  for  the  purpose  and  he shall be a whole time  salaried officer of the  University.
-
+(1) The Controller of Examinations shall be appointed by the Executive Council on the recommendations of a Selection Committee constituted for the purpose and he shall be a whole-time salaried officer of the University.
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 23
 
-Sec.I                    THE GAZETTE  OF INDIA EXTRAORDINARY               23
+(2) The Controller of Examinations shall be appointed for a term of five years and shall be eligible for re-appointment.
 
-(2)    The  Controller  of  Examinations  shall  be  appointed  for  a  term  of  five  years  and shall be eligible for re-appointment.
+(3) The emoluments and other terms and conditions of service of the Controller of Examinations shall be such as may be prescribed by the Executive Council from time to time:
 
-- The emoluments and other terms and conditions  of service  of the Controller of Examinations shall  be such as may be prescribed by the Executive Council from time to time;
+Provided that the Controller of Examinations shall retire on attaining the age of sixty-two years.
 
-Provided  that  the  Controller  of  Examinations  shall  retire  on  attaining    the  age  the sixty two years. (4)    when  the  officer  of  the  Controller  of  Examinations    is  vacant  or  when  the Controller  of  Examinations  is,  by  reason  of  illness,  absence    or  any  other  cause, unable to perform the duties of his   office shall be performed by such person as the Vice-Chancellor  may appoint for  the purpose , (5) The Controller of Examinations shall arrange for and superintend the examinations of the University  in the manner prescribed by the Ordinances.
+(4) When the office of the Controller of Examinations is vacant or when the Controller of Examinations is, by reason of illness, absence or any other cause, unable to perform the duties of his office, the duties of the office shall be performed by such person as the Vice-Chancellor may appoint for the purpose.
+
+(5) The Controller of Examinations shall arrange for and superintend the examinations of the University in the manner prescribed by the Ordinances.
+
+Librarian.
+
 #### 9.
-(1) The Librarian shall be appointed by the Executive Council on the recommendations  of  the  Selection  Committee  constituted  for  the  purpose  and  he shall be a whole-time solarised officer of the University. (2)  The  Librarian  shall  exercise  such  powers  and  perform  such  duties  as  may  be assigned to him by the Executive Council.
-#### 10 .
-(1)an annual meeting of the Court shall be held on a date to be fixed by the Executive Council unless some other date has been fixed by the Court in respect of any year. (2)At  an  annual  meeting  of  the  Court,  a  report  on  the  working  of  the University  during  the  previous  year,  together  with  a  statement  of  the  receipts  and expenditure, the balance sheet  as audited, and financial estimates for the next year shall ne presented. (3) A copy of the statement of receipts and expenditure , the balance -sheet and the financial estimates  referred  to in clause (2) shall be sent to every member of the Court at least seven days before the date of the annual meting. (4) Special meetings of the Court may be convened by the Executive Council or the Vice-Chancellor or if there is no Vice-Chancellor , the Pro-Vice-Chancellor or if there is no pro-Vice- Chancellor, by the Registrar. (5) Eleven members of the Court shall form a quorum for a meeting of the Court.
+(1) The Librarian shall be appointed by the Executive Council on the recommendations of the Selection Committee constituted for the purpose and he shall be a whole-time salaried officer of the University.
 
-11 12.
+(2) The Librarian shall exercise such powers and perform such duties as may be assigned to him by the Executive Council.
 
-.Seven members of the Executive Council shall form a quorum for a meeting of the Executive Council . (1)  The  Executive  Council  shall  have  the  power  of  management  and administration of the revenues and property of the University and the conduct of all administrative affairs of the University not otherwise provided for. (2) Subject to the provisions of this Act, the Statutes and the Ordinances, the Executives  council  shall  ,  in  addition  to  all    other  powers  vested  in  it  ,  have  the following powers ,namely:(i) to  create  teaching  and  other  academic  posts  including  Chairs,  to determine the number and emoluments of such posts and to define the duties and conditions of service of Professors, Associate Professors ,Assistant Professors and other academic staff; Provide  that  no  action  shall  be  taken  by  the  Executive  Council  in respect  of  the  number  and  qualifications  of  teachers  and  other academic staff otherwise then after consideration of the recommendations of the Academic Council; (ii) To appoint such Professors, Associate Professors, Assistant Professors  and  other  academic  staff  including  Chairs  ,  an  may  be Quorum  for  meeting  of Executive Council. Powers and functions of Executive Council
+Annual meeting of Court.
 
-- necessary, on the recommendation of
+#### 10.
+(1) An annual meeting of the Court shall be held on a date to be fixed by the Executive Council unless some other date has been fixed by the Court in respect of any year.
 
+(2) At an annual meeting of the Court, a report on the working of the University during the previous year, together with a statement of the receipts and expenditure, the balance-sheet as audited, and financial estimates for the next year shall be presented.
+
+(3) A copy of the statement of receipts and expenditure, the balance-sheet and the financial estimates referred to in clause (2) shall be sent to every member of the Court at least seven days before the date of the annual meeting.
+
+(4) Special meetings of the Court may be convened by the Executive Council or the Vice-Chancellor or if there is no Vice-Chancellor, the Pro-Vice-Chancellor or if there is no Pro-Vice-Chancellor, by the Registrar.
+
+(5) Eleven members of the Court shall form a quorum for a meeting of the Court.
+
+Quorum for meeting of Executive Council.
+
+#### 11.
+Seven members of the Executive Council shall form a quorum for a meeting of the Executive Council.
+
+Powers and functions of Executive Council.
+
+#### 12.
+(1) The Executive Council shall have the power of management and administration of the revenues and property of the University and the conduct of all administrative affairs of the University not otherwise provided for.
+
+(2) Subject to the provisions of this Act, the Statutes and the Ordinances, the Executive Council shall, in addition to all other powers vested in it, have the following powers, namely:—
+
+(i) to create teaching and other academic posts including Chairs, to determine the number and emoluments of such posts and to define the duties and conditions of service of Professors, Associate Professors, Assistant Professors and other academic staff:
+
+Provided that no action shall be taken by the Executive Council in respect of the number and qualifications of teachers and other academic staff otherwise than after consideration of the recommendations of the Academic Council;
+
+(ii) to appoint such Professors, Associate Professors, Assistant Professors and other academic staff including Chairs, as may be necessary, on the recommendation of
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+24 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-- 24 THE GAZETTE  OF INDIA EXTRAORDINARY                     [PART IIthe Selection Committee constituted for the purpose and to fill up temporary vacancies therein: (iii)  to  promote  inter-  facial  research  by  making  joint  appointments  of teaching staff in different Schools , Department and Centres; (iv)  to  create  administrative  ,ministerial  and  other  necessary  posts  and  to define their duties and conditions of their service and to make appointments thereto in the manner prescribed by the ordinances; (v) to grant leave of absence to any officer of the University other then the Chancellor  and the Vice- Chancellor , and to make necessary arrangements for the discharge of the functions of  such officer during his absence; (vi) to regulate and enforce discipline among employees in accordance with the Statutes and the Ordinances; (vii)  to  manage  and  regulate  the  finances,  accounts,  investments,  property, business and all other administrative affairs of the University and for that purpose to appoint such agents as it may taken fit; (viii)To fix limits on the total recurring and the total non-recurring expenditure for a year on the recommendation of the Finance Committee; (ix) To  invest  any  money  belonging  to  the  University  ,  including  any unapplied income , in such stocks, funds, share or securities  ,from time  to  time,  as  it  may  think  fit  or  in  the  purchase    of  immovable property in India, which the like powers of varying such investment from time to time; (x) To  transfer  or  accept  transfers  of  any  movable  or  immovable property on behalf of the University; (xi) To  provide  buildings,  premises,  furniture  and  apparatus  and  other means needed for carrying on the work of the University ; (xii) To enter into very ,carry out  and cancel contracts on behalf of  the University ; (xiii) To  entertain  ,adjudicate  upon,  and  if  thought  fit,  to  redress  any grievances  of  the  employees  and  students  of  the  University  who may, for any reason, feel aggrieved; (xiv) To  appoint examiners and moderators and, if necessary, to remove them,  and  to  fix  their  fees,  emoluments  and  travelling  and  other allowances, after consulting the Academic Council; (xv) To select a common seal for the University and provide for the use of such seal; (xvi) To  make  such  special  arrangements  as  may  be  necessary  for  the residence of women students; (xvii) To    institute  fellowships,  scholarships,  studentships,  medals  and prizes; (xviii) To  provide  for  the  appointment  of  Visiting  Professors,  Emeritus Professors,  Consultants  and  Scholars  and  determine  the  terms  and conditions of such appointments; non-government agencies for the advancement of knowledge and establish a corpus
+the Selection Committee constituted for the purpose and to fill up temporary vacancies therein;
 
-(xix) To enter into partnership with industry and of funds out of the profits of such partnership ; and
+(iii) to promote inter-faculty research by making joint appointments of teaching staff in different Schools, Departments and Centres;
 
+(iv) to create administrative, ministerial and other necessary posts and to define their duties and conditions of their service and to make appointments thereto in the manner prescribed by the Ordinances;
+
+(v) to grant leave of absence to any officer of the University other than the Chancellor and the Vice-Chancellor, and to make necessary arrangements for the discharge of the functions of such officer during his absence;
+
+(vi) to regulate and enforce discipline among employees in accordance with the Statutes and the Ordinances;
+
+(vii) to manage and regulate the finances, accounts, investments, property, business and all other administrative affairs of the University and for that purpose to appoint such agents as it may think fit;
+
+(viii) to fix limits on the total recurring and the total non-recurring expenditure for a year on the recommendation of the Finance Committee;
+
+(ix) to invest any money belonging to the University, including any unapplied income, in such stocks, funds, shares or securities, from time to time, as it may think fit or in the purchase of immovable property in India, with the like powers of varying such investment from time to time;
+
+(x) to transfer or accept transfers of any movable or immovable property on behalf of the University;
+
+(xi) to provide buildings, premises, furniture and apparatus and other means needed for carrying on the work of the University;
+
+(xii) to enter into, vary, carry out and cancel contracts on behalf of the University;
+
+(xiii) to entertain, adjudicate upon, and if thought fit, to redress any grievances of the employees and students of the University who may, for any reason, feel aggrieved;
+
+(xiv) to appoint examiners and moderators and, if necessary, to remove them, and to fix their fees, emoluments and travelling and other allowances, after consulting the Academic Council;
+
+(xv) to select a common seal for the University and provide for the use of such seal;
+
+(xvi) to make such special arrangements as may be necessary for the residence of women students;
+
+(xvii) to institute fellowships, scholarships, studentships, medals and prizes;
+
+(xviii) to provide for the appointment of Visiting Professors, Emeritus Professors, Consultants and Scholars and determine the terms and conditions of such appointments;
+
+(xix) to enter into partnership with industry and non-government agencies for the advancement of knowledge and establish a corpus of funds out of the profits of such partnership; and
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+[Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 25
 
-Sec.1]     THE GAZETTE  OF INDIA EXTRAORDINARY
-
-25
-
-(xx) to exercise such other powers and perform such other duties as may be conferred or imposed on it by this Act or this Statutes.
-
-- Nine members of the Academic Council shall from a quorum for a meeting of the Academic Council.
-
-- Subject  to  the  provisions  of  this  Act,  the    Statutes  and  the  Ordinances,  the Academic Council shall, in addition to all other powers vested in it, have the following powers, namely:-
-
-- to    exercise  general  supervision  over  the  academic    policies  of  the University  and to give directions regarding methods of instruction ,co-ordination of teaching among the Colleges and the Institutions, evaluation of research and improvement of academic standards ;
-
-- to  bring  about  and  promote  inter-School  co-ordination  and  to establish  or  appoint  such  committees  or  boards  as  may  deemed necessary for the purpose;
-
-- to  Consider  matters  of  general  academic  interest  either  on  its  own initiative  ,or  on  a  reference  by  a  School  or  the  Executive  Council, and  to  take  appropriate  action  thereon  ;  and  to  take  appropriate action thereon; and
-
-- to frame such Regulations and rules consistent with the Statures and the Ordinances regarding the academic functioning of the University,  discipline,  residence,  admissions,  award  of  fellowships and studentships, fees, concessions, corporate life and attendance.
-
-(1) The University shall have such Schools of Studies as may be specified  in the Statutes.
-
-(2) Every School shall have a School Board and the members of the first School Board shall be nominated by the Executive Council for a period of three years.
-
-(3)The composition , powers and functions of a School Board shall be prescribed by the Ordinances.
-
-- the conduct of the meetings of a School Board and the quorum required for such meetings shall be prescribed by the Ordinances.
-
-(a) Every School shall consist of such Departments as may be assigned to it by the Ordinances :
-
-Provided that the Executive Council may, on the recommendation of the  Academic Council, establish Centers of Studied to which may be assigned such  teachers  of  the  University  as  the  Executive  Council    may  consider necessary.
-
-(b) Each Department shall consist of the following members, namely:-
-
-- teachers of the Department;
-
-- persons conducting research  in the Deportment;
-
-- Dean of the School;
-
-- Honorary Professors, if any , attached to the Department ; and
-
-- such other persons as may be members of the Department in accordance with the provisions of the Ordinances . Board of Studies.
-
-(1) Each Deportment Shall have a Board of Studies.
+(xx) to exercise such other powers and perform such other duties as may be conferred or imposed on it by this Act or these Statutes.
 
 Quorum of meeting of Academic Council.
 
-Powers and functions of Academic council.
+#### 13.
+Nine members of the Academic Council shall form a quorum for a meeting of the Academic Council.
 
-School of Studies and Departments.
+Powers and functions of Academic Council.
 
+#### 14.
+Subject to the provisions of this Act, the Statutes and the Ordinances, the Academic Council shall, in addition to all other powers vested in it, have the following powers, namely:—
+
+(a) to exercise general supervision over the academic policies of the University and to give directions regarding methods of instruction, co-ordination of teaching among the Colleges and the Institutions, evaluation of research and improvement of academic standards;
+
+(b) to bring about and promote inter-School co-ordination and to establish or appoint such committees or boards as may be deemed necessary for the purpose;
+
+(c) to consider matters of general academic interest either on its own initiative, or on a reference by a School or the Executive Council, and to take appropriate action thereon; and
+
+(d) to frame such Regulations and rules consistent with the Statutes and the Ordinances regarding the academic functioning of the University, discipline, residence, admissions, award of fellowships and studentships, fees, concessions, corporate life and attendance.
+
+Schools of Studies and Departments.
+
+#### 15.
+(1) The University shall have such Schools of Studies as may be specified in the Statutes.
+
+(2) Every School shall have a School Board and the members of the first School Board shall be nominated by the Executive Council for a period of three years.
+
+(3) The composition, powers and functions of a School Board shall be prescribed by the Ordinances.
+
+(4) The conduct of the meetings of a School Board and the quorum required for such meetings shall be prescribed by the Ordinances.
+
+(5) (a) Every School shall consist of such Departments as may be assigned to it by the Ordinances:
+
+Provided that the Executive Council may, on the recommendation of the Academic Council, establish Centres of Studies to which may be assigned such teachers of the University as the Executive Council may consider necessary.
+
+(b) Each Department shall consist of the following members, namely:—
+
+(i) teachers of the Department;
+
+(ii) persons conducting research in the Department;
+
+(iii) Dean of the School;
+
+(iv) Honorary Professors, if any, attached to the Department; and
+
+(v) such other persons as may be members of the Department in accordance with the provisions of the Ordinances.
+
+Board of Studies.
+
+#### 16.
+(1) Each Department shall have a Board of Studies.
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-26               THE GAZETTE  OF INDIA EXTRAORDINARY             [Part11-
-
-Finance Committee.
-
-Selection Committees.
+26               THE GAZETTE OF INDIA EXTRAORDINARY             [PART II—SEC. 1]
 
 (2) The constitution of the Board of Studies and the term of office of its members shall be prescribed by the Ordinances.
 
-(3)  Subject  to  the  overall  control  and  supervision  of  the  Academic  Council,  the functions of a Board of Studies shall be to approve subjects for research for various degrees  and  other  requirements  of  research  degrees    and  to  recommend  to  the concerned  School  Board in the manner prescribed by the Ordinances---
+(3) Subject to the overall control and supervision of the Academic Council, the functions of a Board of Studies shall be to approve subjects for research for various degrees and other requirements of research degrees and to recommend to the concerned School Board in the manner prescribed by the Ordinances—
 
-(a) Courses    of  studies  and  appointment  of  examiners  for  courses,  but excluding research degrees;
+(a) courses of studies and appointment of examiners for courses, but excluding research degrees;
 
 (b) appointment of supervisors for research; and
 
 (c) measures for the improvement of the standard of teaching and research:
 
-Provided  that  the  above  functions  of  a  Board  of  Studies  shall,  during  the  period  of three  years  immediately  after  the  commencement  of  this    Act,  be  performed  by  the Department.
+Provided that the above functions of a Board of Studies shall, during the period of three years immediately after the commencement of this Act, be performed by the Department.
+
+Finance Committee.
 
 #### 17.
-( 1) The Finance Committee shall consist of the following members, namely:----
+(1) The Finance Committee shall consist of the following members, namely:—
 
-(i) the Vice-Chancellor ;
+(i) the Vice-Chancellor;
 
 (ii) the Pro-Vice-Chancellor;
 
-(iii) one person to be nominated by  the Court;
+(iii) one person to be nominated by the Court;
 
-(iv) there  persons  to  be  nominated  by  the  Executive  Council  ,out  of whom at least one shall be a member of the Executive Council; and
+(iv) three persons to be nominated by the Executive Council, out of whom at least one shall be a member of the Executive Council; and
 
-(v) three persons to be nominated by the Visitor .
+(v) three persons to be nominated by the Visitor.
 
-(2)  Five members of the Finance Committee shall form a quorum for a meeting of the Finance Committee.
+(2) Five members of the Finance Committee shall form a quorum for a meeting of the Finance Committee.
 
-(3)  All the members  of the Finance Committee, other than ex officio members, shall hold office for a term of three years.
+(3) All the members of the Finance Committee, other than ex officio members, shall hold office for a term of three years.
 
-(4)  A member of the Finance Committee shall have the right to record a minute of dissent if he does not agree with any decision of the Finance Committee.
+(4) A member of the Finance Committee shall have the right to record a minute of dissent if he does not agree with any decision of the Finance Committee.
 
-(5)    The  Finance  Committee  shall  meet  at  least  thrice  every  year  to  examine  the accounts and to scrutinise  proposals for  expenditure
+(5) The Finance Committee shall meet at least thrice every year to examine the accounts and to scrutinise proposals for expenditure.
 
-(6)  All proposals relating  to creation of posts , and those items which  have not been included in the budget, shall be examined by the Finance Committee before they are considered by the Executive Council.
+(6) All proposals relating to creation of posts, and those items which have not been included in the budget, shall be examined by the Finance Committee before they are considered by the Executive Council.
 
-(7) The  annual account and the financial  estimates of the University prepared by the Finance  Officer  shall    be  laid    before  the  Finance  Committee  for  consideration  and comments  and thereafter submitted to the Executive Council for approval .
+(7) The annual accounts and the financial estimates of the University prepared by the Finance Officer shall be laid before the Finance Committee for consideration and comments and thereafter submitted to the Executive Council for approval.
 
-(8) The Finance Committee shall recommend limits for the total recurring expenditure and  the  total  non-recurring  expenditure  for  the  year,  based  on  the  income  and resources of the University(which, in the case of productive works, may include the proceeds of loans).
+(8) The Finance Committee shall recommend limits for the total recurring expenditure and the total non-recurring expenditure for the year, based on the income and resources of the University (which, in the case of productive works, may include the proceeds of loans).
+
+Selection Committees.
 
 #### 18.
-(1)  There    shall  be  Selection  Committees  for  making  recommendations  to  the Executive  Council  for  appointment  to  the  post  of  professor,  Associate  Professor, Assistant Professor, Registrar, Finance Officer, Controller of  Examinations, Librarian and Principals of College and Institutions maintained by the University .
+(1) There shall be Selection Committees for making recommendations to the Executive Council for appointment to the posts of Professor, Associate Professor, Assistant Professor, Registrar, Finance Officer, Controller of Examinations, Librarian and Principals of Colleges and Institutions maintained by the University.
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
-Sec.1]                      THE GAZETTE  OF INDIA EXTRAORDINARY
+SEC. 1]                      THE GAZETTE OF INDIA EXTRAORDINARY                      27
 
-27
-
-(2)The Selection Committee for appointment to the posts specified in Column 1 of the Table below shall consist of the ice-Chancellor , a nominee of the Visitor and the persons specified in the corresponding entry in Column 2 of the said Table:
+(2) The Selection Committee for appointment to the posts specified in Column 1 of the Table below shall consist of the Vice-Chancellor, a nominee of the Visitor and the persons specified in the corresponding entry in Column 2 of the said Table:
 
 TABLE
 
 1 | 2
 --- | ---
-Professor Associate Professor/ Assistant Professor | (i) The Dean of the School. (ii) The Head of the Department ,if he is a Professor. (iii) Three persons not in the service of the University, nominated by the Executive Council, out of a panel of names recommended by the Academic Council for their special Knowledge of , or interest in , the subject with which the Professor will be concerned.
-Registrar/ Finance Officer/ Controller of Examination | will be concerned. (i) Two members of the Executive Council nominated by it. (ii) One person not in the service of the University nominated by the Executive Council. (i) One person not in the service of the University who have special knowledge of the subject of the Library Science or Library Administration nominated by the
-Librarian | Executive Council. (ii) One person not in the service of the University
-Principal of College or Institution maintained by The University Where the | Three person not in the service of the University of whom two shall be nominated by the Executive Council and one by the Academic Council for their special Knowledge of , or interest in ,a subject in which instruction is being provide by the College or Institution . __________________________________________________________________ appointment is being made for an inter-disciplinary of the project shall be a Professor head of the project to be the Head of the Department concerned .
-Note1.---- project, shall be | the head deemed to be nominated by the Vice-Chancellor shall be concerned with the specialty for which the selection and the Vice -Chancellor shall consult the Head of and the Dean of the School before nominating
-Nore2.--- | The Professor a is made the the
-(3) The | Professor being Department Professor. Vice-Chancellor ,or in his absence the Pro-Vice-Chancellor , shall convene
+Professor | (i) The Dean of the School. (ii) The Head of the Department, if he is a Professor. (iii) Three persons not in the service of the University, nominated by the Executive Council, out of a panel of names recommended by the Academic Council for their special knowledge of, or interest in, the subject with which the Professor will be concerned.
+Associate Professor/Assistant Professor | (i) The Head of the Department. (ii) One Professor nominated by the Vice-Chancellor. (iii) Two persons not in the service of the University, nominated by the Executive Council, out of a panel of names recommended by the Academic Council for their special knowledge of, or interest in, the subject with which the Associate Professor or Assistant Professor will be concerned.
+Registrar/Finance Officer/Controller of Examinations | (i) Two members of the Executive Council nominated by it. (ii) One person not in the service of the University nominated by the Executive Council.
+Librarian | (i) One person not in the service of the University who has special knowledge of the subject of Library Science or Library Administration nominated by the Executive Council. (ii) One person not in the service of the University nominated by the Executive Council.
+Principal of College or Institution maintained by the University | Three persons not in the service of the University of whom two shall be nominated by the Executive Council and one by the Academic Council for their special knowledge of, or interest in, a subject in which instruction is being provided by the College or Institution.
+
+Note 1.—Where the appointment is being made for an inter-disciplinary project, the head of the project shall be deemed to be the Head of the Department concerned.
+
+Note 2.—The Professor to be nominated by the Vice-Chancellor shall be a Professor concerned with the specialty for which the selection is being made and the Vice-Chancellor shall consult the Head of the Department and the Dean of the School before nominating the Professor.
+
+(3) The Vice-Chancellor, or in his absence the Pro-Vice-Chancellor, shall convene and preside at the meeting of the Selection Committee:
 
 [[END OF PAGE 27]]
 
