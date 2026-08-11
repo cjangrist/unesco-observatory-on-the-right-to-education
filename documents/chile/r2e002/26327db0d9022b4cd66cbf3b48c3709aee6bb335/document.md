@@ -34,7 +34,7 @@ Una diferencia de 136 puntos en TIMSS o PISA, o una diferencia en SIMCE de 13 pu
 
 > 2 Un listado de las reformas puede verse en 'Liderazgo Directivo, asignatura pendiente de la reforma educacional chilena', de José Weinstein, 2008.
 
-> 3 Ver resultados de pruebas estandarizadas nacionales e internacionales TIMSS y PISA en las que ha participado Chile, en www.simce.clw.simce.cl.
+> 3 Ver resultados de pruebas estandarizadas nacionales e internacionales TIMSS y PISA en las que ha participado Chile, en www.simce.cl.
 
 3
 
@@ -42,39 +42,53 @@ Una diferencia de 136 puntos en TIMSS o PISA, o una diferencia en SIMCE de 13 pu
 
 [[START OF PAGE 4]]
 
-Corea
-
-Australia
-
-EEUU
-
-Indonesia
-
-Chile
+Porcentaje de estudiantes sobre 475 puntos en
+TIMSS Matemáticas 2003
+Nivel Intermedio
 
 %
-
 100
-
 80
-
 60
-
 40
-
 20
-
 0
 
+Corea
+Australia
+EEUU
 Promedio
-
 Internacional
+Indonesia
+Chile
 
-Porcentaje de estudiantes sobre 475 puntos en
+Puntaje PSU de ingreso a Pedagogía Básica
 
-TIMSS Matemáticas 2003
+16,7% | 41% | 27,2% | 10,5% | 3,7% | 0,5%
+450-499 | 500-549 | 550-599 | 600-649 | 650-699 | 700 ó más
+Nº respuestas correctas | 16,7 a 26,7 | 26,7 a 41,3 | 41,3 a 58 | 58 a 73,3 | 73,3 a 84 | 84 y más
 
-Nivel Intermedio
+Puntaje PSU
+
+Puntajes en PISA 2006 - Lectura
+
+600
+550
+500
+450
+400
+
+Corea
+Finlandia
+Promedio
+Internacional
+España
+Chile
+México
+
+El 6% de los alumnos chilenos con más recursos no supera el promedio general internacional 4, y 2 de cada 5 escolares terminan 4º básico sin comprender lo que leen 5. No estamos mejorando en equidad, sino empeorando: la brecha entre el 20% de peor y mejor resultado del SIMCE se incrementó en 13 puntos en Lenguaje y 16 en Matemáticas entre 1999 y el 2006. Esto, sin duda, aumentó la inequidad educativa 6.
+
+En lo que se refiere a la formación de profesores, hay problemas en distintos niveles: el 40% de los alumnos que ingresa a estudiar pedagogía no puede extraer conclusiones de un texto simple 7. Cuando se transforman en profesores, siguen sin poder hacerlo.
 
 > 4 Según resultados TIMSS 1999.
 
@@ -82,81 +96,7 @@ Nivel Intermedio
 
 > 6 Juan Pablo Valenzuela, Programa de Investigación en Educación de la U. de Chile, en La Tercera 08 junio 2008.
 
-> 7 'Desarrollo de habilidades básicas en Lenguaje y Matemáticas en egresados de pedagogía. Un estudio comparativo', CSE, 2007 (www.cse.cl).
-
-Corea
-
-Finlandia
-
-España
-
-Chile
-
-México
-
-Promedio
-
-Internacional
-
-600
-
-550
-
-500
-
-450
-
-400
-
-Puntajes en PISA 2006 - Lectura
-
-Puntaje PSU de ingreso a Pedagogía Básica
-
-450-499
-
-16,7%
-
-500-549
-
-41%
-
-550-599
-
-27,2%
-
-600-649
-
-10,5%
-
-650-699
-
-3,7%
-
-700 ó más
-
-0,5%
-
-Puntaje PSU
-
-16,7 a 26,7
-
-26,7 a 41,3
-
-41,3 a 58
-
-58 a 73,3
-
-73,3 a 84
-
-84 y más
-
-Nº respuestas
-
-correctas
-
-El  6%  de  los  alumnos  chilenos  con  más  recursos no supera el promedio general internacional 4 , y 2 de cada 5 escolares terminan 4º básico sin comprender lo que leen 5 . No estamos mejorando en equidad, sino empeorando :  la  brecha  entre  el  20%  de  peor  y  mejor resultado  del  SIMCE  se  incrementó  en  13  puntos  en Lenguaje y 16 en Matemáticas entre 1999 y el 2006. Esto, sin duda, aumentó la inequidad educativa 6 .
-
-En  lo  que  se  refiere  a  la  formación  de  profesores, hay  problemas  en  distintos  niveles: el  40%  de  los alumnos que ingresa a estudiar pedagogía no puede extraer conclusiones de un texto simple 7 . Cuando se transforman en profesores, siguen sin poder hacerlo.
+> 7 “Desarrollo de habilidades básicas en Lenguaje y Matemáticas en egresados de pedagogía. Un estudio comparativo”, CSE, 2007 (www.cse.cl).
 
 4
 
@@ -232,7 +172,7 @@ Para avanzar hacia un cuerpo docente de mejor formación, motivación y calidad 
 
 Dos escuelas con la misma infraestructura, los mismos recursos humanos y los mismos alumnos pueden tener resultados muy distintos. Hay casos concretos en que el mero cambio del director en una escuela municipal ha generado resultados impactantes y de corto plazo, con los mismos profesores.
 
-Actualmente, los directores no tienen facultades reales para dirigir, y la mayoría no ha sido formado en aspectos básicos de manejo y liderazgo en organizaciones, tanto de gestión administrativa como pedagógica. Esto debe cambiar de forma inmediata. Para ello se requiere una fl exibilización razonable del Estatuto Docente que permita liderar y gestionar las escuelas, un mejoramiento salarial significativo vinculado a desempeño y compatible con mejoras salariales de los profesores (Carrera Docente) y un programa de emergencia de formación y soporte a directivos.
+Actualmente, los directores no tienen facultades reales para dirigir, y la mayoría no ha sido formado en aspectos básicos de manejo y liderazgo en organizaciones, tanto de gestión administrativa como pedagógica. Esto debe cambiar de forma inmediata. Para ello se requiere una flexibilización razonable del Estatuto Docente que permita liderar y gestionar las escuelas, un mejoramiento salarial significativo vinculado a desempeño y compatible con mejoras salariales de los profesores (Carrera Docente) y un programa de emergencia de formación y soporte a directivos.
 
 En la actualidad existe una situación escandalosa referida a ciertos directores vitalicios que, sin importar si cumplen o no con sus obligaciones, ni cómo las cumplan, no pueden ser despedidos. En consecuencia, se hace necesario un concurso inmediato para directores vitalicios remanentes, adjudicando a los municipios los recursos adecuados para financiar el retiro de quienes no continuarán en sus cargos. Así también, se requiere un programa de retiro gradual , voluntario y  adecuadamente compensado para aquellos directores no vitalicios que no deseen seguir desempeñándose como tales.
 
@@ -284,35 +224,29 @@ Hacer un análisis de costos de la mejora de la educación en Chile es algo que 
 
 Cada uno de los pilares por sí solo no sostendrá ni conseguirá una mejora efectiva de la oferta educativa en la escuela y el aula. Postulamos que las distintas propuestas implementadas en conjunto romperán el círculo vicioso e impactarán favorablemente en la enseñanza y aprendizaje de niños y jóvenes escolares.
 
-Proporción
-
-docente/
-
-alumno
-
 Directores de
-
 Nivel
-
 Internacional
 
-Apoderados
+Proporción
+docente/
+alumno
 
+Apoderados
 participativos
 
 Profesores de
-
 Excelencia
 
 Mejora de la
-
 oferta
-
 educativa en el
-
 aula y la
-
 escuela
+
+Aumento de
+recursos
+financieros
 
 El enfoque es obligadamente gradual. En este tema no existen atajos ni milagros. No se forman profesores de un día para otro, no se forman directores de un día para otro, no se mejoran escuelas de pedagogía de un día para otro, no se puede incrementar los recursos en forma brusca pues el sistema escolar sería incapaz de absorberlos. No es por casualidad que este  movimiento  ciudadano  se  denomine  Educación  2020…  nuestra  meta  no  está  a  la  vuelta  de  la  esquina,  la visualizamos para el año 2020.
 
@@ -336,38 +270,39 @@ La formación inicial docente constituye el primer estadio institucionalizado de
 
 Esto no se conseguirá de manera espontánea como iniciativa descentralizada y privada en cada una de las carreras de pedagogía, sino que exige una definición clara y firme por parte de las autoridades políticas, así como mecanismos que aseguren e incentiven el cumplimiento de los estándares de países exitosos en educación, tanto para las carreras como para los egresados de ellas.
 
-La formación que reciben los futuros profesores no está a la altura, en calidad y pertinencia, de lo que se necesita. La OECD (2004) llamó la atención, en el caso de Chile, sobre la inadecuación curricular y la desconexión con el mundo escolar y las políticas de reforma de la formación de profesores. La lista de problemas que recoge el Consejo Asesor Presidencial para la Calidad de la Educación (2006) es larga, y plantea que se deberían 'en parte a la ausencia de un sistema institucionalizado de regulación de la formación docente y de estímulo a su desarrollo y mejoramiento y de medidas concretas que puedan
+La formación que reciben los futuros profesores no está a la altura, en calidad y pertinencia, de lo que se necesita. La OECD (2004) llamó la atención, en el caso de Chile, sobre la inadecuación curricular y la desconexión con el mundo escolar y las políticas de reforma de la formación de profesores. La lista de problemas que recoge el Consejo Asesor Presidencial para la Calidad de la Educación (2006) es larga, y plantea que se deberían “en parte a la ausencia de un sistema institucionalizado de regulación de la formación docente y de estímulo a su desarrollo y mejoramiento y de medidas concretas que puedan disminuir el efecto de estos problemas”.
+
+Han sido varias las iniciativas públicas para mejorar y fortalecer la formación inicial, como el Programa de Fortalecimiento de la Formación Inicial de Docentes, los proyectos MECESUP y la acreditación de las carreras de pedagogía establecida en forma obligatoria por la Ley de Aseguramiento de la Calidad de la Educación Superior (2006). La más reciente es el programa INICIA del MINEDUC (2008) con 3 instrumentos: mejoramiento curricular y establecimiento de estándares; diagnóstico de conocimientos y competencias adquiridas por los egresados, y recursos ($600 millones anuales por 5 años) para el financiamiento de proyectos de renovación de facultades de educación. Esto último considera tres ejes: (1) el fortalecimiento de las plantas académicas, (2) nuevos currículos de formación y (3) una forma renovada de relacionarse con escuelas y colegios. Sin embargo, aún no se ven resultados: estas reformas son tardías, tímidas y lentas.
+
+¿Tenemos que seguir esperando pacientemente para ver mejoras, porque “la formación inicial de docentes es una de las áreas del quehacer público en que los cambios se logran más lentamente y su impacto es aún más demoroso” 14?
 
 Ingreso a Carreras de Pedagogía
---- | --- | --- | ---
-• La matrícula de las carreras de educación ha crecido explosiva: Matrícula Carreras de Educación | 2000 | 2007 | Variación
-Universidades | 29,904 | 86,878 | 291%
-Institutos profesionales | 5,175 | 12,501 | 242%
-TOTAL | 35,079 | 99,379 | 283%
 
-- Fuente: DIVESUP, Ministerio de Educación
+• La matrícula de las carreras de educación ha crecido de manera explosiva:
 
-- Las cifras incluyen carreras afines a pedagogía, como psicopedagogía y otras.
+Matrícula Carreras de Educación
 
-- En la actualidad existen 66 instituciones de educación superior que ofrecen 385 carreras conducentes al título de profesor de Educación Básica, Media o  diferencial  o  educador  de  párvulos  en  distintas  modalidades:  diurna, vespertina, semi-presencial, a distancia.
+| | 2000 | 2007 | Variación |
+| Universidades | 29,904 | 86,878 | 291% |
+| Institutos profesionales | 5,175 | 12,501 | 242% |
+| TOTAL | 35,079 | 99,379 | 283% |
 
-- La  Ley  de  Aseguramiento  de  la  Calidad  de  la  Educación  Superior promulgada en 2006 establece la acreditación obligatoria de las carreras y  programas  pedagógicos.  Casi  todas  las  carreras  se  han  sometido  al proceso, aunque para la gran mayoría aún no ha concluido.
+1. Fuente: DIVESUP, Ministerio de Educación
+2. Las cifras incluyen carreras afines a pedagogía, como psicopedagogía y otras.
 
-- La calidad de los programas es muy heterogénea, como objetivamente lo indican los resultados del proceso de acreditación iniciado.
+• En la actualidad existen 66 instituciones de educación superior que ofrecen 385 carreras conducentes al título de profesor de Educación Básica, Media o diferencial o educador de párvulos en distintas modalidades: diurna, vespertina, semi-presencial, a distancia.
 
-- En promedio, los programas de formación inicial resultan ineficaces: 36% de quienes ingresan a estudiar Pedagogía no pueden leer un gráfico; al egresar este porcentaje alcanza un 35%.
+• La Ley de Aseguramiento de la Calidad de la Educación Superior promulgada en 2006 establece la acreditación obligatoria de las carreras y programas pedagógicos. Casi todas las carreras se han sometido al proceso, aunque para la gran mayoría aún no ha concluido.
 
-- 59% de los seleccionados en carreras de pedagogía no la postuló como primera  opción;  en  el  caso  de  educación  de  párvulos,  el  65%  de  los aceptados no la tenía como primera opción.
+• La calidad de los programas es muy heterogénea, como objetivamente lo indican los resultados del proceso de acreditación iniciado.
 
-- Actualmente, se titulan al año alrededor de 14 mil profesores o educadores de párvulos.
+• En promedio, los programas de formación inicial resultan ineficaces: 36% de quienes ingresan a estudiar Pedagogía no pueden leer un gráfico; al egresar este porcentaje alcanza un 35%.
 
-> 14	 Informe Comisión sobre Formación Inicial Docente, Chile, 2005.
+• 59% de los seleccionados en carreras de pedagogía no la postuló como primera opción; en el caso de educación de párvulos, el 65% de los aceptados no la tenía como primera opción.
 
-disminuir el efecto de estos problemas'.
+• Actualmente, se titulan al año alrededor de 14 mil profesores o educadores de párvulos.
 
-Han sido varias las iniciativas públicas para mejorar y fortalecer la formación inicial, como el Programa de Fortalecimiento de la Formación Inicial de Docentes, los proyectos MECESUP y la acreditación de las carreras de pedagogía establecida en forma obligatoria por la Ley de Aseguramiento de la Calidad de  la  Educación  Superior  (2006).  La  más  reciente  es  el programa  INICIA  del  MINEDUC  (2008)  con  3  instrumentos: mejoramiento  curricular  y  establecimiento  de  estándares; diagnóstico  de  conocimientos  y  competencias  adquiridas por los  egresados, y recursos ($600 millones anuales por 5 años) para el financiamiento de proyectos de renovación de facultades de educación. Esto último considera tres ejes: (1) el fortalecimiento  de  las  plantas  académicas,  (2)  nuevos  currículos de formación y (3) una forma renovada de relacionarse con escuelas y colegios. Sin embargo, aún no se ven resultados: estas reformas son tardías, tímidas y lentas.
-
-¿Tenemos  que  seguir  esperando  pacientemente  para  ver mejoras, porque 'la formación inicial de docentes es una de las áreas del quehacer público en que los cambios se logran más lentamente y su impacto es aún más demoroso' 14 ?
+> 14 Informe Comisión sobre Formación Inicial Docente, Chile, 2005.
 
 10
 
@@ -457,19 +392,13 @@ De no adoptarse esta medida, será muy difícil atraer a buenos egresados de edu
 
 En diciembre del 2008 se informó acerca de los avances logrados en la discusión de la Mesa de Trabajo para una Carrera Profesional Docente que instaló el Ministerio de Educación y el Colegio de Profesores, lo cual celebramos. Aunque el trabajo de esta Mesa no es necesariamente vinculante, los aspectos en los que se han acercado posiciones son:
 
-- Propósitos de la Carrera
-
-- Modalidad de Ingreso y Cobertura
-
-- Relaciones contractuales y concursos
-
-- Apoyo a la inserción de profesores principiantes
-
-- Estructura de la Carrera
-
-- Situación de los docentes directivos
-
-- Mecanismos de transición
+1. Propósitos de la Carrera
+2. Modalidad de Ingreso y Cobertura
+3. Relaciones contractuales y concursos
+4. Apoyo a la inserción de profesores principiantes
+5. Estructura de la Carrera
+6. Situación de los docentes directivos
+7. Mecanismos de transición
 
 Sin desconocer que se pueden generar distintas alternativas de propuestas en el caso de Chile, junto con un diagnóstico más o menos desapasionado de la Carrera Docente actual, es necesario revisar:
 
@@ -503,49 +432,30 @@ Es urgente diseñar una Carrera que premie el mérito profesional a través de  
 
 Por tanto, y más allá de los avances en la nueva Carrera Docente,  requerimos  un  gran  ACUERDO  NACIONAL que  comprometa  como  promesa  ineludible  un  aumento gradual de incentivos para los profesores -basados en una evaluación rigurosa- para generar ingresos equivalentes a los de un ingeniero, abogado o médico a medida que se desarrollan en su carrera.
 
-Es imprescindible destacar que, si en este Acuerdo Nacional que  proponemos,  no  se  proporciona una  señal  nítida, inmediata , respecto a la estructura remuneracional futura de mediano y largo plazo de los profesores o educadores
-
-100
-
-90
-
-80
-
-70
-
-60
-
-50
-
-40
-
-30
-
-20
-
-10
-
-0
-
-%
-
-SNED
-
-Maestro de Maestros
-
-Incentivos Individuales
-
-Asignación directiva
-
-Condiciones difíciles
-
-Capacitación
-
-Antigüedad
+Es imprescindible destacar que, si en este Acuerdo Nacional que proponemos, no se proporciona una señal nítida, inmediata, respecto a la estructura remuneracional futura de mediano y largo plazo de los profesores o educadores de párvulos de excelencia, será virtualmente imposible incorporar más alumnos promisorios a los estudios de pedagogía, o convencer a profesionales de otras disciplinas para que adquieran una formación pedagógica, por más becas que se ofrezcan. Esta señal es parte de la ruta crítica y debe adoptarse durante el 2009.
 
 Asignaciones e Incentivos Monetarios de los Profesores
 
-de párvulos de excelencia, será virtualmente imposible incorporar más alumnos promisorios a los estudios de pedagogía, o convencer a profesionales de otras disciplinas para que adquieran una formación pedagógica, por más becas que se ofrezcan. Esta señal es parte de la ruta crítica y debe adoptarse durante el 2009.
+%
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+SNED
+Maestro de Maestros
+Incentivos Individuales
+Asignación directiva
+Condiciones difíciles
+Capacitación
+Antigüedad
 
 Esto que se describe para los profesores, se observa de modo similar para el caso de los directivos. En Chile los sueldos máximos a los que acceden tanto profesores como directores son prácticamente iguales, desconociéndose la mayor responsabilidad, carga de trabajo e importancia del liderazgo de los directores, desincentivando la postulación a cargos directivos.
 
@@ -597,67 +507,42 @@ Un aspecto especialmente sensible en los establecimientos que atienden a sectore
 
 El año 2007, nuestro sistema escolar atendió a 3.7 millones de estudiantes distribuidos en 11 mil 763 establecimientos, en los cuales laboraron más de 171 mil profesionales de la educación. En 2007 el 50,2% de los establecimientos era municipal, 43% particular subvencionado y 6,2% particular pagado.  En  2007  se  observa  por  primera  vez  que  la matrícula particular subvencionada supera a la municipal. Las proyecciones de población en edad escolar, según el INE, son decrecientes, excepto para niños en edad de nivel prebásico (0-5 años), como muestra el gráfico siguiente:
 
-Fuente: Elaboración propia en base a datos INE.
-
-2.300.000
-
-2.100.000
-
-1.900.000
-
-1.700.000
-
-1.500.000
-
-1.300.000
-
-1.100.000
-
-900.000
-
-700.000
-
-500.000
-
-Prebásica
-
-Básica
-
-Media
-
-2007
-
-2008
-
-2009
-
-2010
-
-2011
-
-2012
-
-2013
-
-2014
-
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
 Proyecciones de Población en Edad Escolar
-
 2007 - 2020
 
 Número de personas
+
+2.300.000
+2.100.000
+1.900.000
+1.700.000
+1.500.000
+1.300.000
+1.100.000
+900.000
+700.000
+500.000
+
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+
+Prebásica
+Básica
+Media
+
+Fuente: Elaboración propia en base a datos INE.
 
 Suponiendo que las coberturas se mantienen, con 100% en enseñanza Básica y Media, de acuerdo a estas proyecciones se podría estimar que la disminución de estudiantes en el sistema escolar al 2020, bordeará los 300 mil en comparación con 2007, es decir, aproximadamente un 8% del total. A la larga, esto redundará en una reducción de establecimientos y/o profesores.
 
@@ -731,13 +616,14 @@ Liderazgo directivo en la escuela
 
 'El  liderazgo  es  una  competencia conductual que se refiere a la capacidad para articular los recursos personales  de  los  miembros  del  equipo de  trabajo,  para  que  actúen  con eficacia  y  efectividad  en  situaciones profesionales, de acuerdo a los estándares del establecimiento.'
 
-www.educarchile.cl Nuestro país necesita ampliar (en acceso) y mejorar su capacidad de formación de directivos de calidad con un sistema integrado  a  la  institucionalidad  educativa,  dependiendo  o  en  asociación  con  instituciones  académicas  nacionales  e internacionales  de  prestigio,  que  no  solamente  forme  y  produzca  conocimiento  y  avance  en  el  área  del  liderazgo  y gestión educativa, sino que se haga cargo de un aspecto relevante del ejercicio directivo como es la inducción al cargo con mentoría.
+www.educarchile.cl
 
 19
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+Nuestro país necesita ampliar (en acceso) y mejorar su capacidad de formación de directivos de calidad con un sistema integrado a la institucionalidad educativa, dependiendo o en asociación con instituciones académicas nacionales e internacionales de prestigio, que no solamente forme y produzca conocimiento y avance en el área del liderazgo y gestión educativa, sino que se haga cargo de un aspecto relevante del ejercicio directivo como es la inducción al cargo con mentoría.
 
 En tanto no exista esta capacidad instalada, hacemos un llamado a incluir, en el presupuesto 2010, recursos para iniciar un programa de emergencia de reentrenamiento, formación y certificación de aproximadamente 3000 directores de escuela en los próximos 4 años, recurriendo intensivamente a la cooperación internacional.
 
@@ -960,6 +846,11 @@ Nota:       Los resultados se miden a través de la media del país en la escuel
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+Educación 2020
+
+Gasto por estudiante en primaria
+
+(En USD equivalentes usando PPP )
 
 14.000
 
@@ -979,11 +870,44 @@ Nota:       Los resultados se miden a través de la media del país en la escuel
 
 14.079
 
-Gasto por estudiante en primaria
+Promedio OECD
+
+Luxembourg¹
+Iceland
+United States
+Norway
+Denmark
+Switzerland
+Ireland
+Austria
+Sweden
+Italy¹
+Japan
+Belgium
+United Kingdom
+Netherlands
+Australia
+Finland
+Spain
+France
+Greece
+Germany
+Portugal
+New Zealand
+Israel
+Korea
+Hungary¹
+Estonia¹
+Poland
+Czech Republic
+Slovak Republic
+Chile
+Mexico¹
+Brazil¹
+
+Gasto por estudiante en secundaria
 
 (En USD equivalentes usando PPP )
-
-Promedio OECD
 
 20.000
 
@@ -1013,11 +937,42 @@ Upper secondary education
 
 Lower secondary education
 
-Gasto por estudiante en secundaria
-
 Promedio OECD
 
-(En USD equivalentes usando PPP )
+Luxembourg¹
+Iceland
+United States
+Norway
+Denmark¹
+Switzerland
+Austria
+Sweden
+Italy¹
+Japan
+Belgium
+United Kingdom
+Netherlands
+Australia
+Ireland
+Finland
+Spain
+France
+Greece
+Germany
+Portugal
+New Zealand
+Israel
+Korea
+Hungary¹
+Estonia
+Poland
+Czech Republic
+Slovak Republic
+Chile
+Mexico¹
+Brazil¹
+Slovenia¹
+Russian Federation¹
 
 Fuente: Education at a Glance, OECD 2008.
 
@@ -1052,6 +1007,7 @@ y mecanismos remuneracionales
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+Educación 2020
 
 Según www.futurolaboral.cl ,  el  ingreso de un ingeniero o abogado es en promedio, alrededor de dos veces el de un profesor con especialidad al quinto año de carrera. Si la caída en horas docentes por motivos demográficos se compensa en parte con mayor cobertura en educación preescolar, si se mantienen la relación horas lectivas/no lectivas y el número de cursos promedio en Básica y Media, entonces la masa salarial de los docentes podría estimarse alrededor de 1,7 veces la actual 42 . Esto representará en el año 2020, un gasto adicional del orden de US$ 1.500 millones (de 2009) para alrededor de 160 mil docentes.
 
@@ -1077,13 +1033,14 @@ Se propone crear en el presupuesto 2010 un programa de emergencia para la formac
 
 > 45	 Ibid.
 
-> 46	 Según la glosa presupuestaria correspondiente en la Ley de Presupuesto 2009, se trata de un 'Programa destinado a fortalecer las capacidades de gestión de los docentes directivos, docentes con responsabilidad técnico pedagógica y sostenedores de los establecimientos educacionales… A lo menos el 90% de estos recursos propenderá a fortalecer las capacidades de gestión en los establecimientos educacionales del sector municipal', con una asignación de cerca de $1.850 millones.
+> 46	 Según la glosa presupuestaria correspondiente en la Ley de Presupuesto 2009, se trata de un “Programa destinado a fortalecer las capacidades de gestión de los docentes directivos, docentes con responsabilidad técnico pedagógica y sostenedores de los establecimientos educacionales… A lo menos el 90% de estos recursos propenderá a fortalecer las capacidades de gestión en los establecimientos educacionales del sector municipal”, con una asignación de cerca de $1.850 millones.
 
 27
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+Educación 2020
 
 #### Mejora a escuelas de pedagogía y de gestión escolar
 
@@ -1095,13 +1052,13 @@ Con la fórmula habitual de apoyo fiscal/aporte institucional, habría que ampli
 
 Someter el sistema de acreditación (de carreras de pedagogía) a una evaluación internacional independiente y alinearlo con los modelos y exigencias de los sistemas más exitosos en el mundo, no debería tener un costo licitado superior a US$ 1 millón por una vez.
 
-Asociado a lo anterior, se propone incorporar al presupuesto 2010 la asignación de becas para los estudiantes con más de 650 puntos en la PSU u otros mecanismos de aseguramiento de excelencia, que opten por estudiar una carrera de pedagogía acreditada por más de 3 años. Actualmente, la 'Beca para estudiantes destacados que ingresen a Pedagogía' que otorga el MINEDUC financia un valor de la carrera hasta $1 millón.
+Asociado a lo anterior, se propone incorporar al presupuesto 2010 la asignación de becas para los estudiantes con más de 650 puntos en la PSU u otros mecanismos de aseguramiento de excelencia, que opten por estudiar una carrera de pedagogía acreditada por más de 3 años. Actualmente, la “Beca para estudiantes destacados que ingresen a Pedagogía” que otorga el MINEDUC financia un valor de la carrera hasta $1 millón.
 
 El valor anual promedio de las carreras de pedagogía en las 5 universidades del Consejo de Rectores que reciben los estudiantes con mejores puntajes, alcanza este año a $1 millón 900 mil, sin considerar el derecho de matrícula ($94 mil en promedio). Es decir, la beca financia el 50% de una carrera de pedagogía (en promedio). Mejorar esta beca corresponde a diseñar un mecanismo que permita a los buenos estudiantes financiar un valor cercano al 100% de ella. Si la asignación presupuestaria actual es de hasta US$ 1.8 millones para la beca, debería en régimen ampliarse al menos a US$ 3.5 millones . Otra inversión irrisoria en magnitud comparada con su importancia.
 
 #### Refuerzo a aulas vulnerables
 
-Este refuerzo, como hemos dicho, involucra supervisores de aula, disminución de horas lectivas, materiales, tamaños de aula, en forma flexible para cada escuela. Por simplicidad, asimilaremos todos estos montos a un 'equivalente de horas lectivas'. Una modificación gradual de ella en los contratos docentes de educación Básica y Media, para avanzar hacia una más cercana al promedio de los países desarrollados, digamos 60/40 hacia el año 2020 por ejemplo, considerando los demás parámetros que inciden en la contratación de horas docentes fijos en la situación actual, representa un requerimiento adicional de 15% de horas docentes (o de supervisores, psicopedagogos y otros) en el sistema escolar. Esto conduciría a un gasto máximo anual del orden de US$ 350 millones (de 2009) que puede ser absorbido hacia 2020 considerando la disminución de la matrícula por razones demográficas.
+Este refuerzo, como hemos dicho, involucra supervisores de aula, disminución de horas lectivas, materiales, tamaños de aula, en forma flexible para cada escuela. Por simplicidad, asimilaremos todos estos montos a un “equivalente de horas lectivas”. Una modificación gradual de ella en los contratos docentes de educación Básica y Media, para avanzar hacia una más cercana al promedio de los países desarrollados, digamos 60/40 hacia el año 2020 por ejemplo, considerando los demás parámetros que inciden en la contratación de horas docentes fijos en la situación actual, representa un requerimiento adicional de 15% de horas docentes (o de supervisores, psicopedagogos y otros) en el sistema escolar. Esto conduciría a un gasto máximo anual del orden de US$ 350 millones (de 2009) que puede ser absorbido hacia 2020 considerando la disminución de la matrícula por razones demográficas.
 
 > 47	 Actualmente existen 20 universidades público-tradicionales que imparten formación de profesores.  A ellas se agregan 34 universidades privadas autónomas y 17 institutos profesionales.
 
@@ -1112,6 +1069,7 @@ Este refuerzo, como hemos dicho, involucra supervisores de aula, disminución de
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+Educación 2020
 
 #### Programas de información y trabajo con apoderados
 
@@ -1125,19 +1083,21 @@ Estamos  conscientes  de  que los  requerimientos  de  recursos  se  dan  en  un
 
 El gráfico siguiente permite visualizar (las cifras son meramente referenciales) la forma en que los recursos asociados a propuestas, que representan gasto significativo, podrían asignarse hasta el año 2020.
 
-Formación de directores
+RECURSOS FINANCIEROS PARA PROPUESTAS
 
-Mejora a escuelas de pedagogía y gestión escolar
+EDUCACIÓN 2020
 
-Paquete de retiro de profesores y directores
+10.000
 
-Variación en número de profesores
+1.000
 
-Programas de información y trabajo con apoderados
+100
 
-Mejoramiento de remuneración de profesores y directores
+10
 
-Total
+0
+
+Millones US$
 
 2010
 
@@ -1161,63 +1121,62 @@ Total
 
 2020
 
-10.000
+Formación de directores
 
-1.000
+Mejora a escuelas de pedagogía y gestión escolar
 
-100
+Programas de información y trabajo con apoderados
 
-10
+Variación en número de profesores
 
-0
+Paquete de retiro de profesores y directores
 
-RECURSOS FINANCIEROS PARA PROPUESTAS
+Mejoramiento de remuneración de profesores y directores
 
-EDUCACIÓN 2020
-
-Millones US$
+Total
 
 29
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+Educación 2020
 
 ## VIII.	 PROPOSICIÓN DE AGENDA CORTA 2009-2010
 
 La implementación de las propuestas para el mejoramiento de la oferta educativa en la escuela y el aula requiere acciones inmediatas que representan acuerdos políticos, modificaciones reglamentarias, legales y asignaciones que, si no pueden hacerse con cargo a las arcas fiscales este año, es imprescindible que se reflejen en el presupuesto del año 2010. Estas acciones conforman la Agenda Corta 2009-2010 de Educación 2020, que se reitera a modo de síntesis:
 
-- ACUERDO NACIONAL que comprometa como promesa cierta un aumento gradual de incentivos para los profesores -basados en una evaluación rigurosa- para generar ingresos equivalentes a los de un ingeniero, abogado o médico para los buenos profesores.
+1. ACUERDO NACIONAL que comprometa como promesa cierta un aumento gradual de incentivos para los profesores -basados en una evaluación rigurosa- para generar ingresos equivalentes a los de un ingeniero, abogado o médico para los buenos profesores.
 
-- Proyecto de ley sobre Carrera Profesional Docente , que siente las bases para que en forma gradual pero garantizada, el país pueda contar hacia el año 2020 con una planta de profesores de nivel equivalente a los de países desarrollados.
+2. Proyecto de ley sobre Carrera Profesional Docente, que siente las bases para que en forma gradual pero garantizada, el país pueda contar hacia el año 2020 con una planta de profesores de nivel equivalente a los de países desarrollados.
 
-- Revisión  rigurosa  de  la  relación  horas  lectivas/no  lectivas  y  otras  condiciones  del  aula  vulnerable,  y  consecuentemente, calendario de aumento gradual en la subvención diferenciada .
+3. Revisión rigurosa de la relación horas lectivas/no lectivas y otras condiciones del aula vulnerable, y consecuentemente, calendario de aumento gradual en la subvención diferenciada.
 
-- Acelerar la implementación y divulgación de la Evaluación Diagnóstica de egresados de Pedagogía ,  del  Programa INICIA, con la batería completa de instrumentos de evaluación.
+4. Acelerar la implementación y divulgación de la Evaluación Diagnóstica de egresados de Pedagogía, del Programa INICIA, con la batería completa de instrumentos de evaluación.
 
-- Reducir el plazo -hoy establecido en tres años- para definir estándares curriculares de las escuelas de pedagogía .
+5. Reducir el plazo -hoy establecido en tres años- para definir estándares curriculares de las escuelas de pedagogía.
 
-- Otorgar carácter obligatorio al examen nacional de habilitación , tanto de competencias disciplinarias como pedagógicas, a partir de fines del 2010.
+6. Otorgar carácter obligatorio al examen nacional de habilitación, tanto de competencias disciplinarias como pedagógicas, a partir de fines del 2010.
 
-- Incrementar  de  inmediato los recursos para el fortaleci-miento académico de carreras pedagógicas acreditadas por más de tres años , con apoyo de expertos visitantes. Esto incluye también el incremento de la investigación pedagógica.
+7. Incrementar de inmediato los recursos para el fortaleci-miento académico de carreras pedagógicas acreditadas por más de tres años, con apoyo de expertos visitantes. Esto incluye también el incremento de la investigación pedagógica.
 
-- Fortalecer de inmediato programas de pedagogía dirigidos a profesionales o licenciados en distintas áreas disciplinarias, en las especialidades en que existe escasez de docentes , cautelando la rigurosidad de la formación pedagógica.
+8. Fortalecer de inmediato programas de pedagogía dirigidos a profesionales o licenciados en distintas áreas disciplinarias, en las especialidades en que existe escasez de docentes, cautelando la rigurosidad de la formación pedagógica.
 
-- Someter el sistema de acreditación a una evaluación internacional independiente y alinearlo con los modelos y exigencias de los sistemas más exitosos en el mundo.
+9. Someter el sistema de acreditación a una evaluación internacional independiente y alinearlo con los modelos y exigencias de los sistemas más exitosos en el mundo.
 
-- Modificar la Ley de Aseguramiento de la Calidad de la Educación Superior para sancionar de manera efectiva a las carreras que no resulten acreditadas por dos veces consecutivas , por ejemplo, impidiendo el ingreso de alumnos nuevos mientras no logren acreditarse, y hacer efectivo el fin de los Programas Especiales de Formación Docente de dudosa calidad.
+10. Modificar la Ley de Aseguramiento de la Calidad de la Educación Superior para sancionar de manera efectiva a las carreras que no resulten acreditadas por dos veces consecutivas, por ejemplo, impidiendo el ingreso de alumnos nuevos mientras no logren acreditarse, y hacer efectivo el fin de los Programas Especiales de Formación Docente de dudosa calidad.
 
-- Mejorar en el presupuesto 2010 la asignación de becas para los estudiantes con más de 650 puntos en la PSU , que opten por estudiar una carrera de pedagogía acreditada por más de 3 años.
+11. Mejorar en el presupuesto 2010 la asignación de becas para los estudiantes con más de 650 puntos en la PSU, que opten por estudiar una carrera de pedagogía acreditada por más de 3 años.
 
-- Asignar en el presupuesto 2010 recursos complementarios a los municipios para permitir la indemnización y retiro de aquellos directores vitalicios que no logren refrendar su posición en los concursos .
+12. Asignar en el presupuesto 2010 recursos complementarios a los municipios para permitir la indemnización y retiro de aquellos directores vitalicios que no logren refrendar su posición en los concursos.
 
-- Mejorar gradualmente los incentivos para los directivos , que reconozcan la carga de trabajo y la importancia del liderazgo, incrementando la asignación directiva que actualmente alcanza sólo un 25% sobre la Remuneración Básica Mínima Nacional (RBMN).
+13. Mejorar gradualmente los incentivos para los directivos, que reconozcan la carga de trabajo y la importancia del liderazgo, incrementando la asignación directiva que actualmente alcanza sólo un 25% sobre la Remuneración Básica Mínima Nacional (RBMN).
 
-- Crear en el presupuesto 2010 un programa de emergencia para la formación y certificación de 3000 directores, y realizar las modificaciones legales y técnicas para exigir una certificación nacional previa a todos los postulantes al cargo de director de un establecimiento escolar .
+14. Crear en el presupuesto 2010 un programa de emergencia para la formación y certificación de 3000 directores, y realizar las modificaciones legales y técnicas para exigir una certificación nacional previa a todos los postulantes al cargo de director de un establecimiento escolar.
 
-- Destinar en el presupuesto 2010 una partida presupuestaria para un Fondo Concursable de Participación Escolar , que incentive el compromiso de los padres y los apoderados en la educación de sus hijos.
+15. Destinar en el presupuesto 2010 una partida presupuestaria para un Fondo Concursable de Participación Escolar, que incentive el compromiso de los padres y los apoderados en la educación de sus hijos.
 
-- Extender a partir de 2010-2011 la prueba SIMCE a 5 ocasiones durante Básica y Media, divulgando los resultados a nivel de escuela y aula.
+16. Extender a partir de 2010-2011 la prueba SIMCE a 5 ocasiones durante Básica y Media, divulgando los resultados a nivel de escuela y aula.
 
 30
 
@@ -1225,7 +1184,9 @@ La implementación de las propuestas para el mejoramiento de la oferta educativa
 
 [[START OF PAGE 31]]
 
-Patrocina Dimacofi /
+Patrocina Dimacofi / Prolam Y&R Diseño
+
+Educación 2020
 
 www.educacion2020.cl
 
