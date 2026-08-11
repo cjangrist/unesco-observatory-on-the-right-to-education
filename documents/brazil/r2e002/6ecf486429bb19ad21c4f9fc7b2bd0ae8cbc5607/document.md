@@ -4,10 +4,6 @@
 
 L9795
 
-Mensagem de Veto
-
-Regulamento
-
 Presidência da República
 
 Casa Civil
@@ -15,6 +11,10 @@ Casa Civil
 Subchefia para Assuntos Jurídicos
 
 # LEI N o  9.795, DE 27 DE ABRIL DE 1999.
+
+Mensagem de Veto
+
+Regulamento
 
 Dispõe  sobre  a  educação  ambiental,  institui  a Política  Nacional  de  Educação  Ambiental  e  dá outras providências.
 
@@ -105,7 +105,7 @@ VII - o fortalecimento da cidadania, autodeterminação dos povos e solidariedad
 É instituída a Política Nacional de Educação Ambiental.
 
 #### Art. 7 o
-A Política Nacional de Educação Ambiental envolve em sua esfera de ação, além dos órgãos e entidades integrantes do Sistema Nacional de Meio Ambiente - Sisnama, instituições educacionais públicas e privadas dos sistemas de  ensino,  os  órgãos  públicos  da  União,  dos  Estados,  do  Distrito  Federal  e  dos  Municípios,  e  organizações  nãogovernamentais com atuação em educação ambiental.
+A Política Nacional de Educação Ambiental envolve em sua esfera de ação, além dos órgãos e entidades integrantes do Sistema Nacional de Meio Ambiente - Sisnama, instituições educacionais públicas e privadas dos sistemas de  ensino,  os  órgãos  públicos  da  União,  dos  Estados,  do  Distrito  Federal  e  dos  Municípios,  e  organizações  não-governamentais com atuação em educação ambiental.
 
 #### Art. 8 o
 As atividades vinculadas à Política Nacional de Educação Ambiental devem ser desenvolvidas na educação em geral e na educação escolar, por meio das seguintes linhas de atuação inter-relacionadas:
@@ -170,11 +170,11 @@ Entende-se  por  educação  ambiental  na  educação  escolar  a  desenvolvida
 
 - I - educação básica:
 
-- educação infantil;
+- a) educação infantil;
 
-- ensino fundamental e
+- b) ensino fundamental e
 
-- ensino médio;
+- c) ensino médio;
 
 - II - educação superior;
 
