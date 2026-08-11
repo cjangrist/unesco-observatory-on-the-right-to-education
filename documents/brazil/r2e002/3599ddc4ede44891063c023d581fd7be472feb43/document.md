@@ -4,13 +4,14 @@
 
 L10845
 
-Conversão da MPv nº 139, de 2003
-
-Presidência da República Casa Civil
+Presidência da República
+Casa Civil
 
 Subchefia para Assuntos Jurídicos
 
 # LEI Nº 10.845, DE 5 DE MARÇO DE 2004.
+
+Conversão da MPv nº 139, de 2003
 
 Institui o Programa de Complementação ao Atendimento Educacional Especializado às Pessoas Portadoras de Deficiência, e dá outras providências.
 
@@ -33,7 +34,7 @@ O Conselho Deliberativo do FNDE expedirá as normas relativas aos critérios de 
 A transferência de recursos financeiros, objetivando a execução do PAED, será efetivada automaticamente pelo FNDE, sem necessidade de convênio, ajuste, acordo ou contrato, mediante depósito em conta-corrente específica.
 
 ### §  3º
-A  transferência  de  recursos  financeiros  às  entidades  é  condicionada  à  aprovação  prévia  pelos  Conselhos Municipais de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF, de programa de aplicação que atenda aos objetivos estabelecidos no art. 1º desta Le i. (Revogado pela Lei nº 11.494, de 2007)
+A transferência de recursos financeiros às entidades é condicionada à aprovação prévia pelos Conselhos Municipais de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF, de programa de aplicação que atenda aos objetivos estabelecidos no art. 1º desta Lei. (Revogado pela Lei nº 11.494, de 2007)
 
 ### §  4º
 Os  recursos  recebidos  à  conta  do  PAED  deverão  ser  aplicados  pela  entidade  executora  em  despesas consideradas como de manutenção e desenvolvimento do ensino, de acordo com os arts. 70 e 71 da Lei nº 9.394, de 20 de dezembro de 1996.
