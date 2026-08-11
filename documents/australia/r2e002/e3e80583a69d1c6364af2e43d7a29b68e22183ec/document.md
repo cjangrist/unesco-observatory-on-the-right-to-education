@@ -22,25 +22,92 @@ Prepared by the Office of Legislative Drafting, Attorney-General's Department, C
 
 ## Contents
 
-1
-
-1
-
-3
-
-10
+Covering clauses
+1 Short title [see Note 1].......................................................................7
+2 Act to extend to the Queen’s successors............................................7
+3 Proclamation of Commonwealth [see Note 2]...................................7
+4 Commencement of Act......................................................................8
+5 Operation of the Constitution and laws [see Note 3] .........................8
+6 Definitions.........................................................................................8
+7 Repeal of Federal Council Act [see Note 4] ......................................8
+8 Application of Colonial Boundaries Act............................................9
+9 Constitution [see Note 1]...................................................................9
+Chapter I—The Parliament 1
+Part I—General 1
+1 Legislative power ..............................................................................1
+2 Governor-General..............................................................................1
+3 Salary of Governor-General ..............................................................1
+4 Provisions relating to Governor-General...........................................1
+5 Sessions of Parliament. Prorogation and dissolution .........................2
+6 Yearly session of Parliament .............................................................2
+Part II—The Senate 3
+7 The Senate [see Note 5].....................................................................3
+8 Qualification of electors ....................................................................3
+9 Method of election of senators [see Note 6] ......................................3
+10 Application of State laws...................................................................4
+11 Failure to choose senators..................................................................4
+12 Issue of writs .....................................................................................4
+13 Rotation of senators...........................................................................4
+14 Further provision for rotation [see Note 7]........................................5
+15 Casual vacancies [see Note 8] ...........................................................6
+16 Qualifications of senator....................................................................8
+17 Election of President..........................................................................8
+18 Absence of President .........................................................................8
+19 Resignation of senator .......................................................................8
+20 Vacancy by absence ..........................................................................9
+21 Vacancy to be notified.......................................................................9
+22 Quorum..............................................................................................9
+23 Voting in the Senate ..........................................................................9
+Part III—The House of Representatives 10
+24 Constitution of House of Representatives........................................10
+25 Provision as to races disqualified from voting.................................10
 
 Commonwealth of Australia Constitution Act                    iii
-
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-15
-
-18
-
-24
+26 Representatives in first Parliament ..................................................11
+27 Alteration of number of members....................................................11
+28 Duration of House of Representatives .............................................11
+29 Electoral divisions [see Note 9].......................................................11
+30 Qualification of electors ..................................................................12
+31 Application of State laws.................................................................12
+32 Writs for general election ................................................................12
+33 Writs for vacancies..........................................................................12
+34 Qualifications of members...............................................................12
+35 Election of Speaker..........................................................................13
+36 Absence of Speaker .........................................................................13
+37 Resignation of member....................................................................13
+38 Vacancy by absence ........................................................................13
+39 Quorum............................................................................................14
+40 Voting in House of Representatives ................................................14
+Part IV—Both Houses of the Parliament 15
+41 Right of electors of States................................................................15
+42 Oath or affirmation of allegiance.....................................................15
+43 Member of one House ineligible for other.......................................15
+44 Disqualification ...............................................................................15
+45 Vacancy on happening of disqualification.......................................16
+46 Penalty for sitting when disqualified ...............................................16
+47 Disputed elections ...........................................................................16
+48 Allowance to members ....................................................................17
+49 Privileges etc. of Houses .................................................................17
+50 Rules and orders..............................................................................17
+Part V—Powers of the Parliament 18
+51 Legislative powers of the Parliament [see Notes 10 and 11] ...........18
+52 Exclusive powers of the Parliament.................................................20
+53 Powers of the Houses in respect of legislation ................................20
+54 Appropriation Bills..........................................................................21
+55 Tax Bill............................................................................................21
+56 Recommendation of money votes....................................................21
+57 Disagreement between the Houses ..................................................22
+58 Royal assent to Bills ........................................................................22
+59 Disallowance by the Queen .............................................................23
+60 Signification of Queen’s pleasure on Bills reserved........................23
+Chapter II—The Executive Government 24
+61 Executive power ..............................................................................24
+62 Federal Executive Council...............................................................24
+63 Provisions referring to Governor-General .......................................24
 
 iv            Commonwealth of Australia Constitution Act
 
@@ -48,9 +115,48 @@ iv            Commonwealth of Australia Constitution Act
 
 [[START OF PAGE 5]]
 
-27
-
-32
+64 Ministers of State.............................................................................24
+65 Number of Ministers........................................................................25
+66 Salaries of Ministers........................................................................25
+67 Appointment of civil servants..........................................................25
+68 Command of naval and military forces............................................25
+69 Transfer of certain departments.......................................................25
+70 Certain powers of Governors to vest in Governor-General .............26
+Chapter III—The Judicature 27
+71 Judicial power and Courts ...............................................................27
+72 Judges’ appointment, tenure, and remuneration ..............................27
+73 Appellate jurisdiction of High Court ...............................................28
+74 Appeal to Queen in Council [see Note 12] ......................................29
+75 Original jurisdiction of High Court .................................................29
+76 Additional original jurisdiction........................................................30
+77 Power to define jurisdiction.............................................................30
+78 Proceedings against Commonwealth or State..................................30
+79 Number of judges ............................................................................30
+80 Trial by jury.....................................................................................30
+Chapter IV—Finance and Trade 32
+81 Consolidated Revenue Fund............................................................32
+82 Expenditure charged thereon ...........................................................32
+83 Money to be appropriated by law ....................................................32
+84 Transfer of officers..........................................................................32
+85 Transfer of property of State............................................................33
+86 [Customs, excise, and bounties] [see Note 13] ................................34
+87 [Revenue from customs and excise duties] [see Note 13] ...............34
+88 Uniform duties of customs ..............................................................34
+89 Payment to States before uniform duties .........................................34
+90 Exclusive power over customs, excise, and bounties ......................35
+91 Exceptions as to bounties ................................................................35
+92 Trade within the Commonwealth to be free ....................................35
+93 Payment to States for five years after uniform tariffs ......................36
+94 Distribution of surplus.....................................................................36
+95 Customs duties of Western Australia...............................................36
+96 Financial assistance to States...........................................................37
+97 Audit................................................................................................37
+98 Trade and commerce includes navigation and State railways..........37
+99 Commonwealth not to give preference............................................37
+100 Nor abridge right to use water .........................................................38
+101 Inter-State Commission ...................................................................38
+102 Parliament may forbid preferences by State ....................................38
+103 Commissioners’ appointment, tenure, and remuneration.................38
 
 Commonwealth of Australia Constitution Act                    v
 
@@ -58,17 +164,37 @@ Commonwealth of Australia Constitution Act                    v
 
 [[START OF PAGE 6]]
 
-41
-
-44
-
-45
-
-46
-
-48
-
-49
+104 Saving of certain rates .....................................................................39
+105 Taking over public debts of States...................................................39
+105A Agreements with respect to State debts ...........................................39
+Chapter V—The States 41
+106 Saving of Constitutions ...................................................................41
+107 Saving of Power of State Parliaments..............................................41
+108 Saving of State laws ........................................................................41
+109 Inconsistency of laws ......................................................................41
+110 Provisions referring to Governor.....................................................41
+111 States may surrender territory..........................................................42
+112 States may levy charges for inspection laws....................................42
+113 Intoxicating liquids..........................................................................42
+114 States may not raise forces. Taxation of property of Commonwealth or State ..................................................................42
+115 States not to coin money..................................................................42
+116 Commonwealth not to legislate in respect of religion .....................43
+117 Rights of residents in States.............................................................43
+118 Recognition of laws etc. of States....................................................43
+119 Protection of States from invasion and violence..............................43
+120 Custody of offenders against laws of the Commonwealth...............43
+Chapter VI—New States 44
+121 New States may be admitted or established.....................................44
+122 Government of territories ................................................................44
+123 Alteration of limits of States............................................................44
+124 Formation of new States..................................................................44
+Chapter VII—Miscellaneous 45
+125 Seat of Government.........................................................................45
+126 Power to Her Majesty to authorise Governor-General to appoint deputies [see Note 14] ........................................................45
+Chapter VIII—Alteration of the Constitution 46
+128 Mode of altering the Constitution [see Note 1]................................46
+Schedule 48
+Notes 49
 
 vi            Commonwealth of Australia Constitution Act
 
@@ -118,9 +244,11 @@ This Act, and all laws made by the Parliament of the Commonwealth under the Cons
 
 ### 6  Definitions
 
-The Commonwealth shall mean the Commonwealth of Australia as established under this Act. The States shall mean such of the colonies of New South Wales, New Zealand, Queensland, Tasmania, Victoria, Western Australia, and South Australia, including the northern territory of South Australia, as for the time being are parts of the Commonwealth, and such colonies or territories as may be admitted into or established by the Commonwealth as States; and each of such parts of the Commonwealth shall be called a State . shall mean such States as are parts of the
+The Commonwealth shall mean the Commonwealth of Australia as established under this Act.
 
-Original States Commonwealth at its establishment.
+The States shall mean such of the colonies of New South Wales, New Zealand, Queensland, Tasmania, Victoria, Western Australia, and South Australia, including the northern territory of South Australia, as for the time being are parts of the Commonwealth, and such colonies or territories as may be admitted into or established by the Commonwealth as States; and each of such parts of the Commonwealth shall be called a State.
+
+Original States shall mean such States as are parts of the Commonwealth at its establishment.
 
 ### 7  Repeal of Federal Council Act [ see Note 4]
 
@@ -310,7 +438,18 @@ Section 15
 
 ##### 15  Casual vacancies [ see Note 8]
 
-If the place of a senator becomes vacant before the expiration of his term of service, the Houses of Parliament of the State for which he was chosen, sitting and voting together, or, if there is only one House of that Parliament, that House, shall choose a person to hold the place until the expiration of the term. But if the Parliament of the State is not in session when the vacancy is notified, the Governor of the State, with the advice of the Executive Council thereof, may appoint a person to hold the place until the expiration of fourteen days from the beginning of the next session of the Parliament of the State or the expiration of the term, whichever first happens. Where a vacancy has at any time occurred in the place of a senator chosen by the people of a State and, at the time when he was so chosen, he was publicly recognized by a particular political party as being an endorsed candidate of that party and publicly represented himself to be such a candidate, a person chosen or appointed under this section in consequence of that vacancy, or in consequence of that vacancy and a subsequent vacancy or vacancies, shall, unless there is no member of that party available to be chosen or appointed, be a member of that party. Where: (a)  in accordance with the last preceding paragraph, a member of a particular political party is chosen or appointed to hold the place of a senator whose place had become vacant; and (b)  before taking his seat he ceases to be a member of that party (otherwise than by reason of the party having ceased to exist); he shall be deemed not to have been so chosen or appointed and the vacancy shall be again notified in accordance with section twenty-one of this Constitution. The name of any senator chosen or appointed under this section shall be certified by the Governor of the State to the Governor-General. If the place of a senator chosen by the people of a State at the election of senators last held before the commencement of the Constitution Alteration (Senate Casual Vacancies) 1977 became vacant before that commencement and, at that commencement, no person chosen by the House or Houses of Parliament of the State, or appointed by the Governor of the State, in consequence of that vacancy, or in consequence of that vacancy and a subsequent vacancy or vacancies, held office, this section applies as if the place of the senator chosen by the people of the State had become vacant after that commencement. A senator holding office at the commencement of the Constitution Alteration (Senate Casual Vacancies) 1977 , being a senator appointed by the Governor of a State in consequence of a vacancy that had at any time occurred in the place of a senator chosen by the people of the State, shall be deemed to have been appointed to hold the place until the expiration of fourteen days after the beginning of the next session of the Parliament of the State that commenced or commences after he was appointed and further action under this section shall be taken as if the vacancy in the place of the senator chosen by the people of the State had occurred after that commencement. Subject to the next succeeding paragraph, a senator holding office at the commencement of the Constitution Alteration (Senate Casual Vacancies) 1977 who was chosen by the House or Houses of Parliament of a State in consequence of a vacancy that had at any time occurred in the place of a senator chosen by the people of the State shall be deemed to have been chosen to hold office until the expiration of the term of service of the senator elected by the people of the State. If, at or before the commencement of the Constitution Alteration (Senate Casual Vacancies) 1977 , a law to alter the Constitution entitled ' Constitution Alteration (Simultaneous Elections) 1977 ' came into operation, a senator holding office at the commencement of that law who was chosen by the House or Houses of Parliament of a State in consequence of a vacancy that had at any time occurred in the place of a senator chosen by the people of the State shall be deemed to have been chosen to hold office: (a)  if the senator elected by the people of the State had a term of service expiring on the thirtieth day of June, One thousand nine hundred and seventy-eight-until the expiration or dissolution of the first House of Representatives to expire or be dissolved after that law came into operation; or (b)  if the senator elected by the people of the State had a term of service expiring on the thirtieth day of June, One thousand nine hundred and eighty-one-until the expiration or dissolution of the second House of Representatives to expire or be dissolved after that law came into operation or, if there is an earlier dissolution of the Senate, until that dissolution.
+If the place of a senator becomes vacant before the expiration of his term of service, the Houses of Parliament of the State for which he was chosen, sitting and voting together, or, if there is only one House of that Parliament, that House, shall choose a person to hold the place until the expiration of the term. But if the Parliament of the State is not in session when the vacancy is notified, the Governor of the State, with the advice of the Executive Council thereof, may appoint a person to hold the place until the expiration of fourteen days from the beginning of the next session of the Parliament of the State or the expiration of the term, whichever first happens.
+
+Where a vacancy has at any time occurred in the place of a senator chosen by the people of a State and, at the time when he was so chosen, he was publicly recognized by a particular political party as being an endorsed candidate of that party and publicly represented himself to be such a candidate, a person chosen or appointed under this section in consequence of that vacancy, or in consequence of that vacancy and a subsequent vacancy or vacancies, shall, unless there is no member of that party available to be chosen or appointed, be a member of that party.
+
+Where:
+(a) in accordance with the last preceding paragraph, a member of a particular political party is chosen or appointed to hold the place of a senator whose place had become vacant; and
+(b) before taking his seat he ceases to be a member of that party (otherwise than by reason of the party having ceased to exist);
+he shall be deemed not to have been so chosen or appointed and the vacancy shall be again notified in accordance with section twenty-one of this Constitution.
+
+The name of any senator chosen or appointed under this section shall be certified by the Governor of the State to the Governor-General.
+
+If the place of a senator chosen by the people of a State at the election of senators last held before the commencement of the
 
 6            Commonwealth of Australia Constitution Act
 
@@ -324,6 +463,15 @@ The Senate Part II
 
 Section 15
 
+Constitution Alteration (Senate Casual Vacancies) 1977 became vacant before that commencement and, at that commencement, no person chosen by the House or Houses of Parliament of the State, or appointed by the Governor of the State, in consequence of that vacancy, or in consequence of that vacancy and a subsequent vacancy or vacancies, held office, this section applies as if the place of the senator chosen by the people of the State had become vacant after that commencement.
+
+A senator holding office at the commencement of the Constitution Alteration (Senate Casual Vacancies) 1977, being a senator appointed by the Governor of a State in consequence of a vacancy that had at any time occurred in the place of a senator chosen by the people of the State, shall be deemed to have been appointed to hold the place until the expiration of fourteen days after the beginning of the next session of the Parliament of the State that commenced or commences after he was appointed and further action under this section shall be taken as if the vacancy in the place of the senator chosen by the people of the State had occurred after that commencement.
+
+Subject to the next succeeding paragraph, a senator holding office at the commencement of the Constitution Alteration (Senate Casual Vacancies) 1977 who was chosen by the House or Houses of Parliament of a State in consequence of a vacancy that had at any time occurred in the place of a senator chosen by the people of the State shall be deemed to have been chosen to hold office until the expiration of the term of service of the senator elected by the people of the State.
+
+If, at or before the commencement of the Constitution Alteration (Senate Casual Vacancies) 1977, a law to alter the Constitution entitled “Constitution Alteration (Simultaneous Elections) 1977” came into operation, a senator holding office at the commencement of that law who was chosen by the House or Houses of Parliament of a State in consequence of a vacancy that had at any time occurred in the place of a senator chosen by the people of the State shall be deemed to have been chosen to hold office:
+(a) if the senator elected by the people of the State had a term of service expiring on the thirtieth day of June, One thousand nine hundred and seventy-eight—until the expiration or dissolution of the first House of
+
 Commonwealth of Australia Constitution Act                    7
 
 [[END OF PAGE 17]]
@@ -335,6 +483,9 @@ Chapter I The Parliament
 Part II The Senate
 
 Section 16
+
+Representatives to expire or be dissolved after that law came into operation; or
+(b) if the senator elected by the people of the State had a term of service expiring on the thirtieth day of June, One thousand nine hundred and eighty-one—until the expiration or dissolution of the second House of Representatives to expire or be dissolved after that law came into operation or, if there is an earlier dissolution of the Senate, until that dissolution.
 
 ##### 16  Qualifications of senator
 
@@ -622,7 +773,7 @@ Until the Parliament otherwise provides, any person declared by this Constitutio
 
 ##### 47  Disputed elections
 
-Until the Parliament otherwise provides, any question respecting the qualification of a senator or of a member of the House of Representatives, or respecting a vacancy in either House of the Parliament, and any question of a disputed election to either House, shall be determined by the House in which the question arises.
+Until the Parliament otherwise provides, any question respecting the qualification of a senator or of a member of the House of Representatives, or respecting a vacancy in either House of the
 
 16            Commonwealth of Australia Constitution Act
 
@@ -635,6 +786,8 @@ The Parliament Chapter I
 Both Houses of the Parliament Part IV
 
 Section 48
+
+Parliament, and any question of a disputed election to either House, shall be determined by the House in which the question arises.
 
 ##### 48  Allowance to members
 
@@ -744,11 +897,11 @@ Section 57
 
 ##### 57  Disagreement between the Houses
 
-If the House of Representatives passes any proposed law, and the Senate rejects or fails to pass it, or passes it with amendments to which the House of Representatives will not agree, and if after an any amendments which have been made, suggested, or agreed to with amendments to which the House of Representatives will not agree, the Governor-General may dissolve the Senate and the House of Representatives simultaneously. But such dissolution of the House of Representatives by effluxion of time.
+If the House of Representatives passes any proposed law, and the Senate rejects or fails to pass it, or passes it with amendments to which the House of Representatives will not agree, and if after an interval of three months the House of Representatives, in the same or the next session, again passes the proposed law with or without any amendments which have been made, suggested, or agreed to by the Senate, and the Senate rejects or fails to pass it, or passes it with amendments to which the House of Representatives will not agree, the Governor-General may dissolve the Senate and the House of Representatives simultaneously. But such dissolution shall not take place within six months before the date of the expiry of the House of Representatives by effluxion of time.
 
-such amendments which are affirmed by an absolute majority of the total number of the members of the Senate and House of Representatives shall be taken to have been carried, and if the proposed law, with the amendments, if any, so carried is affirmed by an absolute majority of the total number of the members of the duly passed by both Houses of the Parliament, and shall be presented to the Governor-General for the Queen's assent.
+If after such dissolution the House of Representatives again passes the proposed law, with or without any amendments which have been made, suggested, or agreed to by the Senate, and the Senate rejects or fails to pass it, or passes it with amendments to which the House of Representatives will not agree, the Governor-General may convene a joint sitting of the members of the Senate and of the House of Representatives.
 
-interval of three months the House of Representatives, in the same or the next session, again passes the proposed law with or without by the Senate, and the Senate rejects or fails to pass it, or passes it shall not take place within six months before the date of the expiry If after such dissolution the House of Representatives again passes the proposed law, with or without any amendments which have been made, suggested, or agreed to by the Senate, and the Senate rejects or fails to pass it, or passes it with amendments to which the House of Representatives will not agree, the Governor-General may convene a joint sitting of the members of the Senate and of the House of Representatives. The members present at the joint sitting may deliberate and shall vote together upon the proposed law as last proposed by the House of Representatives, and upon amendments, if any, which have been made therein by one House and not agreed to by the other, and any Senate and House of Representatives, it shall be taken to have been
+The members present at the joint sitting may deliberate and shall vote together upon the proposed law as last proposed by the House of Representatives, and upon amendments, if any, which have been made therein by one House and not agreed to by the other, and any such amendments which are affirmed by an absolute majority of the total number of the members of the Senate and House of Representatives shall be taken to have been carried, and if the proposed law, with the amendments, if any, so carried is affirmed by an absolute majority of the total number of the members of the Senate and House of Representatives, it shall be taken to have been duly passed by both Houses of the Parliament, and shall be presented to the Governor-General for the Queen's assent.
 
 ##### 58  Royal assent to Bills
 
@@ -886,17 +1039,15 @@ Commonwealth of Australia Constitution Act                    27
 
 [[START OF PAGE 38]]
 
+Chapter III The Judicature
+
 Section 73
-
-Chapter III
-
-The Judicature
 
 The Parliament may make a law fixing an age that is less than seventy years as the maximum age for Justices of a court created by the Parliament and may at any time repeal or amend such a law, but any such repeal or amendment does not affect the term of office of a Justice under an appointment made before the repeal or amendment. A Justice of the High Court or of a court created by the Parliament may resign his office by writing under his hand delivered to the Governor-General. Nothing in the provisions added to this section by the Constitution Alteration (Retirement of Judges) 1977 affects the continuance of a person in office as a Justice of a court under an appointment made before the commencement of those provisions. A reference in this section to the appointment of a Justice of the High Court or of a court created by the Parliament shall be read as including a reference to the appointment of a person who holds office as a Justice of the High Court or of a court created by the Parliament to another office of Justice of the same court having a different status or designation.
 
 ##### 73  Appellate jurisdiction of High Court
 
-The High Court shall have jurisdiction, with such exceptions and subject to such regulations as the Parliament prescribes, to hear and determine appeals from all judgments, decrees, orders, and sentences: (i)  of any Justice or Justices exercising the original jurisdiction of the High Court; (ii)  of any other federal court, or court exercising federal jurisdiction; or of the Supreme Court of any State, or of any other court of any State from which at the establishment of the Commonwealth an appeal lies to the Queen in Council; (iii)  of the Inter-State Commission, but as to questions of law only; and the judgment of the High Court in all such cases shall be final and conclusive. But no exception or regulation prescribed by the Parliament shall prevent the High Court from hearing and determining any appeal from the Supreme Court of a State in any matter in which at the establishment of the Commonwealth an appeal lies from such Supreme Court to the Queen in Council. Until the Parliament otherwise provides, the conditions of and restrictions on appeals to the Queen in Council from the Supreme Courts of the several States shall be applicable to appeals from them to the High Court.
+The High Court shall have jurisdiction, with such exceptions and subject to such regulations as the Parliament prescribes, to hear and determine appeals from all judgments, decrees, orders, and sentences: (i)  of any Justice or Justices exercising the original jurisdiction of the High Court; (ii)  of any other federal court, or court exercising federal jurisdiction; or of the Supreme Court of any State, or of any other court of any State from which at the establishment of the Commonwealth an appeal lies to the Queen in Council; (iii)  of the Inter-State Commission, but as to questions of law only; and the judgment of the High Court in all such cases shall be final and conclusive. But no exception or regulation prescribed by the Parliament shall prevent the High Court from hearing and determining any appeal
 
 28            Commonwealth of Australia Constitution Act
 
@@ -907,6 +1058,10 @@ The High Court shall have jurisdiction, with such exceptions and subject to such
 The Judicature Chapter III
 
 Section 74
+
+from the Supreme Court of a State in any matter in which at the establishment of the Commonwealth an appeal lies from such Supreme Court to the Queen in Council.
+
+Until the Parliament otherwise provides, the conditions of and restrictions on appeals to the Queen in Council from the Supreme Courts of the several States shall be applicable to appeals from them to the High Court.
 
 ##### 74  Appeal to Queen in Council [ see Note 12]
 
@@ -950,7 +1105,7 @@ The federal jurisdiction of any court may be exercised by such number of judges 
 
 The trial on indictment of any offence against any law of the Commonwealth shall be by jury, and every such trial shall be held in the State where the offence was committed, and if the offence
 
-30            Commonwealth of Australia Constitution Act was not committed within any State the trial shall be held at such place or places as the Parliament prescribes.
+30            Commonwealth of Australia Constitution Act
 
 [[END OF PAGE 40]]
 
@@ -959,6 +1114,8 @@ The trial on indictment of any offence against any law of the Commonwealth shall
 The Judicature Chapter III
 
 Section 80
+
+was not committed within any State the trial shall be held at such place or places as the Parliament prescribes.
 
 Commonwealth of Australia Constitution Act                    31
 
@@ -990,7 +1147,7 @@ But until the expiration of one month after the first meeting of the Parliament 
 
 When any department of the public service of a State becomes transferred to the Commonwealth, all officers of the department shall become subject to the control of the Executive Government of the Commonwealth.
 
-Any such officer who is not retained in the service of the Commonwealth shall, unless he is appointed to some other office of equal emolument in the public service of the State, be entitled to receive from the State any pension, gratuity, or other compensation, payable under the law of the State on the abolition of his office. Any such officer who is retained in the service of the Commonwealth shall preserve all his existing and accruing rights, and shall be entitled to retire from office at the time, and on the pension or retiring allowance, which would be permitted by the law of the State if his service with the Commonwealth were a continuation of his service with the State. Such pension or retiring allowance shall be paid to him by the Commonwealth; but the State shall pay to the Commonwealth a part thereof, to be calculated on the proportion which his term of service with the State bears to his whole term of service, and for the purpose of the calculation his salary shall be taken to be that paid to him by the State at the time of the transfer. Any officer who is, at the establishment of the Commonwealth, in the public service of a State, and who is, by consent of the Governor of the State with the advice of the Executive Council thereof, transferred to the public service of the Commonwealth, shall have the same rights as if he had been an officer of a department transferred to the Commonwealth and were retained in the service of the Commonwealth.
+Any such officer who is not retained in the service of the Commonwealth shall, unless he is appointed to some other office of equal emolument in the public service of the State, be entitled to receive from the State any pension, gratuity, or other
 
 32            Commonwealth of Australia Constitution Act
 
@@ -1002,6 +1159,12 @@ Finance and Trade Chapter IV
 
 Section 85
 
+compensation, payable under the law of the State on the abolition of his office.
+
+Any such officer who is retained in the service of the Commonwealth shall preserve all his existing and accruing rights, and shall be entitled to retire from office at the time, and on the pension or retiring allowance, which would be permitted by the law of the State if his service with the Commonwealth were a continuation of his service with the State. Such pension or retiring allowance shall be paid to him by the Commonwealth; but the State shall pay to the Commonwealth a part thereof, to be calculated on the proportion which his term of service with the State bears to his whole term of service, and for the purpose of the calculation his salary shall be taken to be that paid to him by the State at the time of the transfer.
+
+Any officer who is, at the establishment of the Commonwealth, in the public service of a State, and who is, by consent of the Governor of the State with the advice of the Executive Council thereof, transferred to the public service of the Commonwealth, shall have the same rights as if he had been an officer of a department transferred to the Commonwealth and were retained in the service of the Commonwealth.
+
 ##### 85  Transfer of property of State
 
 When any department of the public service of a State is transferred to the Commonwealth: (i)  all property of the State of any kind, used exclusively in connexion with the department, shall become vested in the Commonwealth; but, in the case of the departments controlling customs and excise and bounties, for such time only as the Governor-General in Council may declare to be necessary; (ii)  the Commonwealth may acquire any property of the State, of any kind used, but not exclusively used in connexion with the department; the value thereof shall, if no agreement can be made, be ascertained in, as nearly as may be, the manner in which the value of land, or of an interest in land, taken by the State for public purposes is ascertained under the law of the State in force at the establishment of the Commonwealth;
@@ -1012,11 +1175,9 @@ Commonwealth of Australia Constitution Act                    33
 
 [[START OF PAGE 44]]
 
+Chapter IV Finance and Trade
+
 Section 86
-
-Chapter IV
-
-Finance and Trade
 
 (iii)  the Commonwealth shall compensate the State for the value of any property passing to the Commonwealth under this section; if no agreement can be made as to the mode of compensation, it shall be determined under laws to be made by the Parliament; (iv)  the Commonwealth shall, at the date of the transfer, assume the current obligations of the State in respect of the department transferred.
 
@@ -1034,7 +1195,7 @@ Uniform duties of customs shall be imposed within two years after the establishm
 
 ##### 89  Payment to States before uniform duties
 
-Until the imposition of uniform duties of customs: (i)  the Commonwealth shall credit to each State the revenues collected therein by the Commonwealth; (ii)  the Commonwealth shall debit to each State: (a)  the expenditure therein of the Commonwealth incurred solely for the maintenance or continuance, as at the time of transfer, of any department transferred from the State to the Commonwealth; (b)  the proportion of the State, according to the number of its people, in the other expenditure of the Commonwealth; (iii)  the Commonwealth shall pay to each State month by month the balance (if any) in favour of the State.
+Until the imposition of uniform duties of customs: (i)  the Commonwealth shall credit to each State the revenues collected therein by the Commonwealth; (ii)  the Commonwealth shall debit to each State: (a)  the expenditure therein of the Commonwealth incurred solely for the maintenance or continuance, as at the time
 
 34            Commonwealth of Australia Constitution Act
 
@@ -1046,6 +1207,8 @@ Finance and Trade Chapter IV
 
 Section 90
 
+of transfer, of any department transferred from the State to the Commonwealth; (b)  the proportion of the State, according to the number of its people, in the other expenditure of the Commonwealth; (iii)  the Commonwealth shall pay to each State month by month the balance (if any) in favour of the State.
+
 ##### 90  Exclusive power over customs, excise, and bounties
 
 On the imposition of uniform duties of customs the power of the Parliament to impose duties of customs and of excise, and to grant bounties on the production or export of goods, shall become exclusive. On the imposition of uniform duties of customs all laws of the several States imposing duties of customs or of excise, or offering bounties on the production or export of goods, shall cease to have effect, but any grant of or agreement for any such bounty lawfully made by or under the authority of the Government of any State shall be taken to be good if made before the thirtieth day of June, one thousand eight hundred and ninety-eight, and not otherwise.
@@ -1056,7 +1219,7 @@ Nothing in this Constitution prohibits a State from granting any aid to or bount
 
 ##### 92  Trade within the Commonwealth to be free
 
-On the imposition of uniform duties of customs, trade, commerce, and intercourse among the States, whether by means of internal carriage or ocean navigation, shall be absolutely free. But notwithstanding anything in this Constitution, goods imported before the imposition of uniform duties of customs into any State, or into any Colony which, whilst the goods remain therein, becomes a State, shall, on thence passing into another State within two years after the imposition of such duties, be liable to any duty chargeable on the importation of such goods into the Commonwealth, less any duty paid in respect of the goods on their importation.
+On the imposition of uniform duties of customs, trade, commerce, and intercourse among the States, whether by means of internal carriage or ocean navigation, shall be absolutely free. But notwithstanding anything in this Constitution, goods imported before the imposition of uniform duties of customs into any State, or into any Colony which, whilst the goods remain therein, becomes a State, shall, on thence passing into another State within two years after the imposition of such duties, be liable to any duty
 
 Commonwealth of Australia Constitution Act                    35
 
@@ -1068,6 +1231,8 @@ Chapter IV Finance and Trade
 
 Section 93
 
+chargeable on the importation of such goods into the Commonwealth, less any duty paid in respect of the goods on their importation.
+
 ##### 93  Payment to States for five years after uniform tariffs
 
 During the first five years after the imposition of uniform duties of customs, and thereafter until the Parliament otherwise provides: (i)  the duties of customs chargeable on goods imported into a State and afterwards passing into another State for consumption, and the duties of excise paid on goods produced or manufactured in a State and afterwards passing into another State for consumption, shall be taken to have been collected not in the former but in the latter State; (ii)  subject to the last subsection, the Commonwealth shall credit revenue, debit expenditure, and pay balances to the several States as prescribed for the period preceding the imposition of uniform duties of customs.
@@ -1078,9 +1243,9 @@ After five years from the imposition of uniform duties of customs, the Parliamen
 
 ##### 95  Customs duties of Western Australia
 
-Notwithstanding anything in this Constitution, the Parliament of the State of Western Australia, if that State be an Original State, may, during the first five years after the imposition of uniform duties of customs, impose duties of customs on goods passing into that State and not originally imported from beyond the limits of the Commonwealth; and such duties shall be collected by the Commonwealth. But any duty so imposed on any goods shall not exceed during the first of such years the duty chargeable on the goods under the law of Western Australia in force at the imposition of uniform duties, and shall not exceed during the second, third, fourth, and fifth of such years respectively, four-fifths, three-fifths, two-fifths, and
+Notwithstanding anything in this Constitution, the Parliament of the State of Western Australia, if that State be an Original State, may, during the first five years after the imposition of uniform duties of customs, impose duties of customs on goods passing into that State and not originally imported from beyond the limits of the Commonwealth; and such duties shall be collected by the Commonwealth.
 
-one-fifth of such latter duty, and all duties imposed under this section shall cease at the expiration of the fifth year after the imposition of uniform duties. If at any time during the five years the duty on any goods under this section is higher than the duty imposed by the Commonwealth on the importation of the like goods, then such higher duty shall be collected on the goods when imported into Western Australia from beyond the limits of the Commonwealth.
+But any duty so imposed on any goods shall not exceed during the first of such years the duty chargeable on the goods under the law of Western Australia in force at the imposition of uniform duties, and shall not exceed during the second, third, fourth, and fifth of such years respectively, four-fifths, three-fifths, two-fifths, and one-fifth of such latter duty, and all duties imposed under this
 
 36            Commonwealth of Australia Constitution Act
 
@@ -1091,6 +1256,10 @@ one-fifth of such latter duty, and all duties imposed under this section shall c
 Finance and Trade Chapter IV
 
 Section 96
+
+section shall cease at the expiration of the fifth year after the imposition of uniform duties.
+
+If at any time during the five years the duty on any goods under this section is higher than the duty imposed by the Commonwealth on the importation of the like goods, then such higher duty shall be collected on the goods when imported into Western Australia from beyond the limits of the Commonwealth.
 
 ##### 96  Financial assistance to States
 
@@ -1198,7 +1367,7 @@ When a law of a State is inconsistent with a law of the Commonwealth, the latter
 
 ##### 110  Provisions referring to Governor
 
-The provisions of this Constitution relating to the Governor of a State extend and apply to the Governor for the time being of the State, or other chief executive officer or administrator of the government of the State.
+The provisions of this Constitution relating to the Governor of a State extend and apply to the Governor for the time being of the
 
 Commonwealth of Australia Constitution Act                    41
 
@@ -1209,6 +1378,8 @@ Commonwealth of Australia Constitution Act                    41
 Chapter V The States
 
 Section 111
+
+State, or other chief executive officer or administrator of the government of the State.
 
 ##### 111  States may surrender territory
 
@@ -1356,13 +1527,13 @@ Schedule
 
 #### OATH
 
-I, A.B. , do swear that I will be faithful and bear true allegiance to Her Majesty Queen Victoria, Her heirs and successors according to law. SO HELP ME GOD!
+I, A.B., do swear that I will be faithful and bear true allegiance to Her Majesty Queen Victoria, Her heirs and successors according to law. SO HELP ME GOD!
 
 #### AFFIRMATION
 
-I, A.B. , do solemnly and sincerely affirm and declare that I will be faithful and bear true allegiance to Her Majesty Queen Victoria, Her heirs and successors according to law.
+I, A.B., do solemnly and sincerely affirm and declare that I will be faithful and bear true allegiance to Her Majesty Queen Victoria, Her heirs and successors according to law.
 
-(NOTE: The name of the King or Queen of the United Kingdom of Great Britain and Ireland for the time being is to be substituted from time to time. )
+(NOTE: The name of the King or Queen of the United Kingdom of Great Britain and Ireland for the time being is to be substituted from time to time.)
 
 48            Commonwealth of Australia Constitution Act
 
@@ -1405,17 +1576,18 @@ Table of Amendments
 
 #### Table of Amendments
 
-ad. = added or inserted | am. = amended | rep. = repealed | rs. = repealed and substituted
---- | --- | --- | ---
+ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted
+
 Provision affected | How affected
+--- | ---
 S. 13.......................................... | am. No. 1, 1907
 S. 15.......................................... | rs. No. 82, 1977
-S. 51.......................................... | am. No. 81, 1946; No. 55, | 1967
-S. 72.......................................... | am. No. 83, | 1977
+S. 51.......................................... | am. No. 81, 1946; No. 55, 1967
+S. 72.......................................... | am. No. 83, 1977
 S. 105........................................ | am. No. 3, 1910
 S. 105A ..................................... | ad. No. 1, 1929
-S. 127........................................ | rep. No. 55, | 1967
-S. 128........................................ | am. No. 84, | 1977
+S. 127........................................ | rep. No. 55, 1967
+S. 128........................................ | am. No. 84, 1977
 
 Commonwealth of Australia Constitution Act                    50
 
@@ -1429,36 +1601,36 @@ Note 2
 
 ### Note 2
 
-Covering Clause 3-The Proclamation under covering clause 3 was made on 17 September 1900 and published in Gazette 1901.
+Covering Clause 3—The Proclamation under covering clause 3 was made on 17 September 1900 and published in Gazette 1901.
 
 ### Note 3
 
-Covering Clause 5see also the Statute of Westminster Adoption Act 1942 .
+Covering Clause 5—see also the Statute of Westminster Adoption Act 1942.
 
 ### Note 4
 
-Covering Clause 7-The following Acts have repealed Acts passed by the Federal Council of Australasia:
+Covering Clause 7—The following Acts have repealed Acts passed by the Federal Council of Australasia:
 
 Defence Act 1903 (No. 20, 1903), s. 6
 
-Pearl Fisheries Act 1952 (No. 8, 1952), s. 3 ( Pearl Fisheries Act 1952 repealed by Continental Shelf (Living Natural Resources) Act 1968 , s. 3)
+Pearl Fisheries Act 1952 (No. 8, 1952), s. 3 (Pearl Fisheries Act 1952 repealed by Continental Shelf (Living Natural Resources) Act 1968, s. 3)
 
-Service and Execution of Process Act 1901 (No. 11, 1901), s. 2 (subsequently repealed by Service and Execution of Process Act 1963 , s. 3).
+Service and Execution of Process Act 1901 (No. 11, 1901), s. 2 (subsequently repealed by Service and Execution of Process Act 1963, s. 3).
 
 ### Note 5
 
-Section 7-The number of senators for each State was increased to 12 by the Representation Act 1983 , s. 3.
+Section 7—The number of senators for each State was increased to 12 by the Representation Act 1983, s. 3.
 
 ### Note 6
+
+Section 9—The following State Acts have been passed in pursuance of the powers conferred by s. 9:
 
 State | Number | Short title | How affected
 --- | --- | --- | ---
 New South Wales | No. 73, 1900 | Federal Elections Act 1900 | Ss. 2, 3, 4, 5 and 6 and the Schedule repealed by No. 9, 1903; wholly repealed by No. 41, 1912
-No. 9, 1903 | Senators' Elections Act 1903 | (still in force)
+ | No. 9, 1903 | Senators’ Elections Act 1903 | (still in force)
 Victoria | No. 1715 | Federal Elections Act 1900 | Repealed by No. 1860
-No. 1860 | Senate Elections (Times and Places) Act 1903 | Repealed by No. 2723
-
-Section 9-The following State Acts have been passed in pursuance of the powers conferred by s. 9:
+ | No. 1860 | Senate Elections (Times and Places) Act 1903 | Repealed by No. 2723
 
 Commonwealth of Australia Constitution Act                    51
 
@@ -1472,32 +1644,30 @@ Note 7
 
 State | Number | Short title | How affected
 --- | --- | --- | ---
-No. 2399 | Senate Elections (Times and Places) Act 1912 | Repealed by No. 2723
-No. 2723 | Senate Elections (Times and Places) Act 1915 | Repealed by No. 3769
-No. 3769 | Senate Elections (Times and Places) Act 1928 | Repealed by No. 6365
-No. 6365 | Senate Elections Act 1958 | (still in force)
+ | No. 2399 | Senate Elections (Times and Places) Act 1912 | Repealed by No. 2723
+ | No. 2723 | Senate Elections (Times and Places) Act 1915 | Repealed by No. 3769
+ | No. 3769 | Senate Elections (Times and Places) Act 1928 | Repealed by No. 6365
+ | No. 6365 | Senate Elections Act 1958 | (still in force)
 Queensland | 64 Vic. No. 25 | The Parliament of the Commonwealth Elections Act and the Elections Acts 1885 to 1898 Amendment Act of 1900 | Operation exhausted
-3 Edw. VII. No. 6 | The Election of Senators Act of 1903 | Repealed by 9 Eliz. II. No. 20
-9 Eliz. II. No. 20 | The Senate Elections Act of 1960 | (still in force)
+ | 3 Edw. VII. No. 6 | The Election of Senators Act of 1903 | Repealed by 9 Eliz. II. No. 20
+ | 9 Eliz. II. No. 20 | The Senate Elections Act of 1960 | (still in force)
 South Australia | No. 834 | The Election of Senators Act 1903 | (still in force)
 Western Australia | No. 11, 1903 | Election of Senators Act 1903 | (still in force)
 Tasmania | 64 Vic. No. 59 | The Federal Elections Act 1900 | Repealed by 26 Geo. V. No. 3
-3 Edw. VII. No. 5 | The Election of Senators Act 1903 | Repealed by 26 Geo. V. No. 3
-26 Geo. V. | Senate Elections Act 1935 | (still in force)
+ | 3 Edw. VII. No. 5 | The Election of Senators Act 1903 | Repealed by 26 Geo. V. No. 3
+ | 26 Geo. V. No. 3 | Senate Elections Act 1935 | (still in force)
 
 ### Note 7
 
-Section 14-For the provisions applicable upon the increase in the number of senators to 12 made by the Representation Act 1983 , see s. 3 of that Act.
+Section 14—For the provisions applicable upon the increase in the number of senators to 12 made by the Representation Act 1983, see s. 3 of that Act.
 
 ### Note 8
 
-Section 15-The proposed law to alter the Constitution entitled ' Constitution Alteration (Simultaneous Elections) 1977' was submitted to the electors in each State of the Commonwealth on 21 May 1977: it was not approved by a majority of all the electors voting in a majority of the States. See Gazette 1977, No. S100.
+Section 15—The proposed law to alter the Constitution entitled “Constitution Alteration (Simultaneous Elections) 1977” was submitted to the electors in each State of the Commonwealth on 21 May 1977: it was not approved by a majority of all the electors voting in a majority of the States. See Gazette 1977, No. S100.
 
 ### Note 9
 
-Section 29-The following State Acts were passed in pursuance of the powers conferred by s. 29, but ceased to be in force upon the enactment of the Commonwealth Electoral Act 1902 :
-
-No. 3
+Section 29—The following State Acts were passed in pursuance of the powers conferred by s. 29, but ceased to be in force upon the enactment of the Commonwealth Electoral Act 1902:
 
 52            Commonwealth of Australia Constitution Act
 
@@ -1518,24 +1688,27 @@ Western Australia | 64 Vic. No. 6 | Federal House of Representatives Western Aus
 
 ### Note 10
 
-Section 51-The following Imperial Acts extended the legislative powers of the Parliament:
+Section 51—The following Imperial Acts extended the legislative powers of the Parliament:
 
-Whaling Industry (Regulations) Act 1934 , s. 15 Geneva Convention Act, 1937 , s. 2 Emergency Powers (Defence) Act 1939 , s. 5 Army and Air Force (Annual) Act 1940 , s. 3.
+Whaling Industry (Regulations) Act 1934, s. 15
+Geneva Convention Act, 1937, s. 2
+Emergency Powers (Defence) Act 1939, s. 5
+Army and Air Force (Annual) Act 1940, s. 3.
 
 ### Note 11
+
+Section 51 (xxxvii)—The following Acts have been passed by the Parliaments of the States to refer matters to the Parliament under section 51 (xxxvii):
 
 State | Number | Short title | How affected
 --- | --- | --- | ---
 New South Wales | No. 65, 1915 | Commonwealth Powers (War) Act 1915 | Expired 9 Jan 1921; see s. 5
-No. 33, 1942 | Commonwealth Powers Act 1942 | Expired; see s. 4
-No. 18, 1943 | Commonwealth Powers Act 1943 | Expired; see s. 4
-No. 48, 1983 | Commonwealth Powers (Meat Inspection) Act 1983 | (still in force)
-No. 182, 1986 | Commonwealth Powers (Family Law-Children) Act 1986 | (still in force)
-No. 61, 1992 | Mutual Recognition (New South Wales) Act 1992 | (still in force)
-No. 104, 1992 | Commonwealth Powers (State Banking) Act 1992 | (still in force)
-No. 100, 1993 | Commonwealth Powers (Poultry Processing) Act 1993 | (still in force)
-
-Section 51 (xxxvii)-The following Acts have been passed by the Parliaments of the States to refer matters to the Parliament under section 51 (xxxvii):
+ | No. 33, 1942 | Commonwealth Powers Act 1942 | Expired; see s. 4
+ | No. 18, 1943 | Commonwealth Powers Act 1943 | Expired; see s. 4
+ | No. 48, 1983 | Commonwealth Powers (Meat Inspection) Act 1983 | (still in force)
+ | No. 182, 1986 | Commonwealth Powers (Family Law–Children) Act 1986 | (still in force)
+ | No. 61, 1992 | Mutual Recognition (New South Wales) Act 1992 | (still in force)
+ | No. 104, 1992 | Commonwealth Powers (State Banking) Act 1992 | (still in force)
+ | No. 100, 1993 | Commonwealth Powers (Poultry Processing) Act 1993 | (still in force)
 
 Commonwealth of Australia Constitution Act                    53
 
@@ -1545,28 +1718,28 @@ Commonwealth of Australia Constitution Act                    53
 
 Notes to the Commonwealth of Australia Constitution Act
 
+Note 11
+
 State | Number | Short title | How affected
 --- | --- | --- | ---
-No. 1, 2001 | Corporations (Commonwealth Powers) Act 2001 | (still in force)
-No. 114, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (still in force)
+ | No. 1, 2001 | Corporations (Commonwealth Powers) Act 2001 | (still in force)
+ | No. 114, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (still in force)
 Victoria | No. 3108 | Commonwealth Powers (Air Navigation) Act 1920 | Repealed by No. 4502
-No. 3658 | Commonwealth Arrangements Act 1928 (Part III) | Part III Repealed by No. 4502: Parts I & II Repealed by No. 6223
-No. 4009 | Debt Conversion Agreement Act 1931 (No. 2) | (still in force)
-No. 4950 | Commonwealth Powers Act 1943 | Not proclaimed to come into operation and cannot now be so proclaimed
-No. 92, 1986 | Commonwealth Powers (Family Law-Children) Act 1986 | (still in force)
-No. 2, 1993 | Mutual Recognition (Victoria) Act 1993 | (still in force)
-No. 59, 1996 | Commonwealth Powers (Industrial Relations) Act 1996 | (still in force)
-No. 6, 2001 | Corporations (Commonwealth Powers) Act 2001 | (still in force)
-No. 14, 2003 | Terrorism (Commonwealth Powers) Act 2003 | (still in force)
+ | No. 3658 | Commonwealth Arrangements Act 1928 (Part III) | Part III Repealed by No. 4502: Parts I & II Repealed by No. 6223
+ | No. 4009 | Debt Conversion Agreement Act 1931 (No. 2) | (still in force)
+ | No. 4950 | Commonwealth Powers Act 1943 | Not proclaimed to come into operation and cannot now be so proclaimed
+ | No. 92, 1986 | Commonwealth Powers (Family Law–Children) Act 1986 | (still in force)
+ | No. 2, 1993 | Mutual Recognition (Victoria) Act 1993 | (still in force)
+ | No. 59, 1996 | Commonwealth Powers (Industrial Relations) Act 1996 | (still in force)
+ | No. 6, 2001 | Corporations (Commonwealth Powers) Act 2001 | (still in force)
+ | No. 14, 2003 | Terrorism (Commonwealth Powers) Act 2003 | (still in force)
 Queensland | 12 Geo. V. No. 30 | The Commonwealth Powers (Air Navigation) Act 1921 | Repealed by 1 Geo. VI. No. 8
-22 Geo. V. No. 30 | The Commonwealth Legislative Power Act 1931 | Repealed by No. 46, 1983
-7 Geo. VI. No. 19 | Commonwealth Powers Act 1943 | Expired; see s. 4
-14 Geo. VI. No. 2 | The Commonwealth Powers (Air Transport) Act 1950 | (still in force)
-No. 37, 1990 | Commonwealth Powers (Family Law-Children) Act 1990 | (still in force)
-No. 67, 1992 | Mutual Recognition (Queensland) Act 1992 | (still in force)
-No. 43, 2001 | Corporations (Commonwealth Powers) Act 2001 | (still in force)
-
-Note 11
+ | 22 Geo. V. No. 30 | The Commonwealth Legislative Power Act 1931 | Repealed by No. 46, 1983
+ | 7 Geo. VI. No. 19 | Commonwealth Powers Act 1943 | Expired; see s. 4
+ | 14 Geo. VI. No. 2 | The Commonwealth Powers (Air Transport) Act 1950 | (still in force)
+ | No. 37, 1990 | Commonwealth Powers (Family Law–Children) Act 1990 | (still in force)
+ | No. 67, 1992 | Mutual Recognition (Queensland) Act 1992 | (still in force)
+ | No. 43, 2001 | Corporations (Commonwealth Powers) Act 2001 | (still in force)
 
 54            Commonwealth of Australia Constitution Act
 
@@ -1621,15 +1794,15 @@ No. 68, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (still in force)
 
 ### Note 12
 
-Section 74See Privy Council (Limitation of Appeals) Act 1968 , Privy Council (Appeals from the High Court) Act 1975 and Kirmani v Captain Cook Cruises Pty. Ltd [No. 2] (1985) 159 CLR 461.
+Section 74—See Privy Council (Limitation of Appeals) Act 1968, Privy Council (Appeals from the High Court) Act 1975 and Kirmani v Captain Cook Cruises Pty. Ltd [No. 2] (1985) 159 CLR 461.
 
 ### Note 13
 
-Sections 86 and 87-the headings for these sections have been added for compilation purposes.
+Sections 86 and 87—the headings for these sections have been added for compilation purposes.
 
 ### Note 14
 
-S. 126See clause IV of the Letters Patent relating to the Office of Governor-General, published in Gazette 1984, S334.
+S. 126—See clause IV of the Letters Patent relating to the Office of Governor-General, published in Gazette 1984, S334.
 
 56            Commonwealth of Australia Constitution Act
 
