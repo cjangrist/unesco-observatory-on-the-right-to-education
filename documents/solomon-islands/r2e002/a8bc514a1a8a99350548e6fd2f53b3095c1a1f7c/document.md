@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# SOLOMON ISLANDS GOVERNMENT EDUCATION STRATEGIC FRAMEWORK 2007 - 2015
+# SOLOMON ISLANDS GOVERNMENT EDUCATION STRATEGIC FRAMEWORK 2007 – 2015
 
 Ministry of Education and Human Resources Development
 
@@ -12,19 +12,19 @@ June 2007 Honiara, Solomon Islands
 
 ## FOREWORD
 
-It is my pleasure to present this Education Strategic Framework (ESF), 20072015 to the people of the Solomon Islands. The present Government came to power in 2006 and presented its policies in a document entitled Grand Coalition for Change Government: Policy Translation Implementation Document, 20062009. That document sets out a commitment to the Government's vision to give the people of the Solomon Islands hope, prosperity and peace in a secure environment. This present document is a key instrument for the Solomon Islands education system to assist in achieving that vision.
+It is my pleasure to present this Education Strategic Framework (ESF), 2007-2015 to the people of the Solomon Islands. The present Government came to power in 2006 and presented its policies in a document entitled Grand Coalition for Change Government: Policy Translation Implementation Document, 2006-2009. That document sets out a commitment to the Government's vision to give the people of the Solomon Islands hope, prosperity and peace in a secure environment. This present document is a key instrument for the Solomon Islands education system to assist in achieving that vision.
 
-Our young people carry our hopes for the future. It is in their education that the  hope  of  the  nation  lies.  This Education  Strategic  Framework  (ESF)  20072015 provides a clear direction for the future, and a benchmark against which the  development  of  our  country's  education  system  can  be  evaluated.  It provides a long term vision that will assist in shaping the development of our most precious resource, our people.
+Our young people carry our hopes for the future. It is in their education that the hope of the nation lies. This Education Strategic Framework (ESF) 2007-2015 provides a clear direction for the future, and a benchmark against which the development of our country's education system can be evaluated. It provides a long term vision that will assist in shaping the development of our most precious resource, our people.
 
 This  document  is  a  key  staging  point  at  the  end  of  a  long  process  of consultation and development. The Education Strategic Plan (ESP) 2004-2006 was the implementation plan for the Solomon Islands Government and the main  Development  Partners,  European  Union  and  NZAID  within  the framework  of  the Education  Sector  Investment  and  Reform  Programme  (ESIRP), phase I . It set out to provide equitable access to quality basic education for all children in the Solomon  Islands.  It  also  aimed  to  provide  access  to community,  technical,  vocational  and  tertiary education  that will  meet individual, regional and national needs for a knowledgeable skilled, competent and complete people. Finally, it sought to manage resources in an efficient, effective and transparent manner. These goals remain the basis of this new Education Strategic Framework (ESF) 2007-2015 and link this present document  to  the  consistent  direction  of  our  Solomon  Islands  education system over the last three years.
 
 The Education Strategic Plan (ESP) 2004-2006 included a recommendation that provincial education action plans be developed. With assistance and financial support  from  the  European  Union  and  the  New  Zealand  Agency  for International Development, that process of development has been completed. The ten provincial education plans have been discussed nationwide at a series of provincial workshops coordinated by the Ministry of Education  and  Human  Resources  Development.  The  findings  of  these provincial  plans  have  been  synthesised  and  merged  with  inputs  from  the central  level  into  a  national  document,  a National  Education  Action  Plan (NEAP)  2007-2009 of  April  2007.  This  latter  document  has  a  three  year focus, and provides a basis for the practical implementation of initiatives that will improve equal access to quality education for all our young people.
 
-This  document,  the Education  Strategic  Framework  (ESF)  2007-2015 , is  a revision of the Education Strategic Plan (ESP) 2004-2006 . It correlates with the Provincial planning documents for the medium term (the Provincial Education Action  Plans (PEAP) and  the National  Education  Action  Plan (NEAP), 20072009. It also captures the planned process beyond 2009 and covers a longterm period of 9 years. This means that the nature of this overall education planning document can change. It is called a 'framework' rather than a 'plan' because it sets out a way forward. It does not provide all the answers, nor even detailed annual costed work  plans. However,  our  Ministry of Education and Human Resources (MEHRD) is now able to produce clear annual work plans, like for 2007 with clear linking to the approved recurrent and  development  budget  and  expected  outcomes  of  the National  Education Action  Plan,  2007-2009 and  the Policy  Translation  Implementation  Document (PTID) 2006-2009 of the Grand Coalition for Change Government. This year the MEHRD wants to develop the costing for the National Education Action Plan (NEAP) 2007-2009 and a Mid Term Expenditure Framework (MTEF).
+This document, the Education Strategic Framework (ESF) 2007-2015, is a revision of the Education Strategic Plan (ESP) 2004-2006. It correlates with the Provincial planning documents for the medium term (the Provincial Education Action Plans (PEAP) and the National Education Action Plan (NEAP), 2007-2009. It also captures the planned process beyond 2009 and covers a long-term period of 9 years. This means that the nature of this overall education planning document can change. It is called a 'framework' rather than a 'plan' because it sets out a way forward. It does not provide all the answers, nor even detailed annual costed work plans. However, our Ministry of Education and Human Resources (MEHRD) is now able to produce clear annual work plans, like for 2007 with clear linking to the approved recurrent and development budget and expected outcomes of the National Education Action Plan, 2007-2009 and the Policy Translation Implementation Document (PTID) 2006-2009 of the Grand Coalition for Change Government. This year the MEHRD wants to develop the costing for the National Education Action Plan (NEAP) 2007-2009 and a Mid Term Expenditure Framework (MTEF).
 
 In  April  2007  the  Solomon  Islands  Government  represented  by  Prime Minister's Office, Ministry of Finance, Ministry of Develoment Planning and Aid Co-ordination and Ministry of Education and  Human  Resource Development  signed  a Letter  of    Arrangement with  the  main  Development partners,  European  Union  and  NZAID  which  guaranteed  the  longer  term technical  and  financial  support  for  the Education  Sector  Investment  and  Reform Programme (ESIRP), phase II and the National Education Action Plan, 2007-2009
 
-The Education  Strategic  Framework  (ESF) charts  a  course  by  identifying  key education policy issues, and assists in developing possible criteria (a Performance Assessment Framework, (PAF) against which the performance of the education sector can be assessed. In other words, it helps us to get a clear idea  about  the  progress  towards  the  expected  impact  of  our  sector  wide education programme in 2015.
+The Education Strategic Framework (ESF) charts a course by identifying key education policy issues, and assists in developing possible criteria (a Performance Assessment Framework, (PAF) against which the performance of the education sector can be assessed. In other words, it helps us to get a clear
 
 2
 
@@ -32,7 +32,9 @@ The Education  Strategic  Framework  (ESF) charts  a  course  by  identifying  k
 
 [[START OF PAGE 3]]
 
-It is essentially a document to reflect on change, reform and development. It takes  a  longer  term  view  than  its  predecessor,  the Education  Strategic  Plan (ESP) 2004-2006 , but is entirely consistent with that document. It recognises that change or reform is never simple or easy, but that if we are to progress as a nation, the development of our human resources through education is essential.  The  Sector  Wide  Approach  and  the  planned  change  in  the education  sector  needs  ample  time  and  also  longer  term  commitment  and interest  of  all  stakeholders.  Changes,  in  particular  policy  and  organisational changes are not made in one day. We need to listen to all, in particular to those  who  know  what  is  happening  in  the  classrooms,  also  in  the  remote areas. That is why  the MEHRD  is  eager  to  continuously invite all stakeholders in the discussion and the development of the education sector..
+idea about the progress towards the expected impact of our sector wide education programme in 2015.
+
+It is essentially a document to reflect on change, reform and development. It takes a longer term view than its predecessor, the Education Strategic Plan (ESP) 2004-2006, but is entirely consistent with that document. It recognises that change or reform is never simple or easy, but that if we are to progress as a nation, the development of our human resources through education is essential. The Sector Wide Approach and the planned change in the education sector needs ample time and also longer term commitment and interest of all stakeholders. Changes, in particular policy and organisational changes are not made in one day. We need to listen to all, in particular to those who know what is happening in the classrooms, also in the remote areas. That is why the MEHRD is eager to continuously invite all stakeholders in the discussion and the development of the education sector..
 
 The Education Strategic Framework (ESF) together with the National Education Action  Plan  (NEAP),  2007-2009 will  help  us  to  jointly  focus  on  the  main issues in all sub-sectors as early childhood, primary, secondary, tertiary and technical, vocational and community and adult education. It is also necessary to make sure the fundamentals and policies are sound. Nowhere is it more important  to  get  the  foundations  right  than  in  education.  2015  is  an important year for world-wide education. It will be the year to assess to what extent all countries have achieved the United Nations' Millennium Development Goals (MDG's ). Do we have then all the children enrolled in relevant primary education  and  did  we  achieve  or  maintain  a  gender  balance  at  all  levels  of education?  The  Government  of  Solomon  Islands  is  committed  to  achieve these goals and even to achieve more. Our ambitious goals are expressed in this Education Strategic Framework (ESF) 2007-2015.
 
@@ -48,6 +50,50 @@ Hon Dr Derek Sikua, Minister of Education
 
 ## TABLE OF CONTENTS
 
+Definition of Terms .....................................................................................5
+Abbreviations ..............................................................................................6
+Introduction .................................................................................................8
+1. Philosophical Framework..................................................................10
+2. Purpose Of The Education Strategic Framework..............................10
+3. Global and Regional Context ............................................................11
+4. Vision ................................................................................................11
+5. Goals..................................................................................................11
+6. Strategies ...........................................................................................12
+7. Outcomes...........................................................................................12
+8. Objectives ..........................................................................................13
+9. Roles ..................................................................................................14
+10. Issues And Constraints ......................................................................15
+11. Basic Education .................................................................................16
+11.1 Principles Underpinning Basic Education.....................................16
+11.2 The Reformed Education System..................................................16
+11.3 Critical Constraints to Achieving These Outcomes ......................17
+12. Policy Areas, Expected Policy Outcomes, and Government
+Response....................................................................................................18
+12.1 Policy Development, Planning, Research, Management, Co-
+ordination and Monitoring.....................................................................18
+12.2 Universal Basic Education (Primary)............................................21
+12.3 Universal Basic Education (Junior Secondary).............................24
+12.4 Senior Secondary Education..........................................................26
+12.5 Early Childhood Education ...........................................................28
+12.6 Special Education ..........................................................................30
+12.7 Improving Literacy and Numeracy ...............................................31
+12.8 Curriculum.....................................................................................34
+12.9 Assessment ....................................................................................36
+12.10 Teacher Supply............................................................................39
+12.11 Teacher Quality ...........................................................................42
+12.12 Tertiary Education .......................................................................45
+12.13 Technical and Vocational Education and Training .....................49
+12.14 Capacity Development ................................................................53
+12.15 Efficiency.....................................................................................55
+12.16 School Infrastructure ...................................................................57
+12.17 Information and Communications Technology...........................59
+12.18 Financing Options and Financial Sustainability..........................62
+13 Monitoring and Evaluation Framework ...............................................65
+14 Financing ..............................................................................................66
+15. Appendix 1: The Solomon Islands Education System (ECE & Schools)
+...................................................................................................................67
+Appendix 2: Structure of the Formal & Non-Formal Education System..70
+
 4
 
 [[END OF PAGE 4]]
@@ -56,7 +102,7 @@ Hon Dr Derek Sikua, Minister of Education
 
 ## Definition of Terms
 
-Basic Education | The level of education that constitutes the foundation stage offered to all children. In the Solomon Islands this means the first nine years of formal education from the preparatory year through to Form 3 or other programmes offered elsewhere at similar levels for out-of- school youth and adults.
+Basic Education | The level of education that constitutes the foundation stage offered to all children. In the Solomon Islands this means the first nine years of formal education from the preparatory year through to Form 3 or other programmes offered elsewhere at similar levels for out-of-school youth and adults.
 --- | ---
 Preparatory Year | The first year of primary schooling in the classroom before Standard 1 (for six-year-old children on average)
 Primary Education | Preparatory Year to end of Standard 6
@@ -68,12 +114,9 @@ Senior Secondary | Form 4 to Form 7 (also called upper secondary)
 Early Childhood Education | Community-based learning mainly for 3 to 5 year olds done partly in private centres but also supported by government.
 Other Education and Training Providers | Private and provincial education authorities and private and national, provincial (rural) training centres.
 Indigenous Education | Skills, customs, knowledge, including traditional pursuits, craft and music/dance of the people belonging naturally to the various areas of the Solomon Islands.
-Community Standard | Community standard financing is a progressive user pay system where parents contribute a
-
-Financing | larger percentage of the cost of their children's education as the children advance through the system. A formula showing parent/ national and provincial government contribution ratios are determined. For example, a primary school contribution where parents contribute 10% and government 90% of the total cost, a junior secondary ratio of parents 30%/ government 70%, and a senior secondary ratio of parents 50%/ government 50%. (Remark: we need the right percentages here for primary, secondary and TVET)
---- | ---
+Community Standard Financing | Community standard financing is a progressive user pay system where parents contribute a larger percentage of the cost of their children's education as the children advance through the system. A formula showing parent/ national and provincial government contribution ratios are determined. For example, a primary school contribution where parents contribute 10% and government 90% of the total cost, a junior secondary ratio of parents 30%/ government 70%, and a senior secondary ratio of parents 50%/ government 50%. (Remark: we need the right percentages here for primary, secondary and TVET)
 Pre-service training | Training undertaken to learn the profession or trade. Teacher pre-service training is training received while studying for the teacher diploma before beginning service as a qualified teacher.
-In-service training | Training undertaken while on active service in a profession or trade. Teacher in-service training is a form of professional development to ensure that qualified teachers are kept up-to- date with curriculum, teaching methods, strategies and approaches to teaching.
+In-service training | Training undertaken while on active service in a profession or trade. Teacher in-service training is a form of professional development to ensure that qualified teachers are kept up-to-date with curriculum, teaching methods, strategies and approaches to teaching.
 
 5
 
@@ -183,17 +226,19 @@ WB | World Bank
 
 During  2006,  considerable  feedback  was  received  on  the Education  Strategic Plan 2004-2006 . A stocktake and analysis,  reported in A Stocktake Analysis of the  Education Strategic  Plan  2004-2009 ,  was  undertaken in May 2006 with the aim of analysing the progress and status of the education strategic plan with respect to completion and non-completion of activities stipulated in the plan. It  found that a large proportion of the activities had not met the projected milestones.  Similarly,  the  2005 Annual  Report of  the  Ministry  of  Education and Human  Resources Development (MEHRD)  noted  that a major shortcoming was that plans were too ambitious in relation to local capacity to implement the programmes and projects. This finding was to be addressed by reviewing the Education Strategic Plan  2004-2006 in 2006 to bring plans in line with realistic capacity, bringing  the  MEHRD  up  to  approved establishment,  and  using  both  local  and  international  technical  assistance judiciously.
 
-The sequence of activity over July to October 2006 has involved the further development  of  ten  provincial  education  action  plans,  discussion  of  these draft  documents  at  a  series  of  provincial  workshops,  and  consideration  of feedback  on  the  drafts  from  the  'grassroots'.  The  findings  and  feedback from  these  ten  provincial  education  action  plans  were  incorporated  into  a draft National  Education  Action  Plan  (NEAP)  2007-2009. During  a  National Workshop held in Honiara  on 11 and 12 October 2006 both documents, the Education  Strategic  Plan and National  Education  Action  Plan (2007-2009)  were discussed and reviewed. It resulted in a draft Education Strategic Framework for the  period  2007-2015  and  a  revised National  Education  Action  Plan. After another workshop in February the latter one was finalised and approved in April 2007 and the Framework developed to its 4 th version.
+The sequence of activity over July to October 2006 has involved the further development of ten provincial education action plans, discussion of these draft documents at a series of provincial workshops, and consideration of feedback on the drafts from the 'grassroots'. The findings and feedback from these ten provincial education action plans were incorporated into a draft National Education Action Plan (NEAP) 2007-2009. During a National Workshop held in Honiara on 11 and 12 October 2006 both documents, the Education Strategic Plan and National Education Action Plan (2007-2009) were discussed and reviewed. It resulted in a draft Education Strategic Framework for the period 2007-2015 and a revised National Education Action Plan. After another workshop in February the latter one was finalised and approved in April 2007 and the Framework developed to its 4th version.
 
 Representatives from provincial education authorities, from Church authorities,  from  the  Solomon  Islands  College  of  Higher  Education,  from interested  community  groups,  and  from  the  Ministry  of  Education  and Human Resources Development attended the workshops in 2006 and 2007.
 
-The National Education Action Plan 2007-2009 reflects the general needs of all divisions at national level, of the provinces and needs specific to individual provinces.  It  is  derived  from  the  ten  provincial  education  action  plans (Central  Islands,  Choiseul,  Guadalcanal,  Honiara,  Isabel,  Makira-Ulawa, Malaita, Renbel, Temotu, and Western).
+The National Education Action Plan 2007-2009 reflects the general needs of all divisions at national level, of the provinces and needs specific to individual
 
 8
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+provinces. It is derived from the ten provincial education action plans (Central Islands, Choiseul, Guadalcanal, Honiara, Isabel, Makira-Ulawa, Malaita, Renbel, Temotu, and Western).
 
 The Solomon Islands National Education Action Plan 2007-2009 :
 
@@ -247,7 +292,7 @@ We  believe  that  responsibility  to  support  basic  education  resides  with 
 
 We  believe  that  traditional  knowledge,  skills  and  attitudes  are  an  essential part  of  education.  Education  should  include  understanding  traditional  and Christian values and beliefs, ways of thinking, reasoning and understanding, and ways of doing things such as tool making, music, art and craft, fishing, growing  crops  and  other  useful  trades.  It  should  also  include  language, literature (including oral tradition), culture, history, modern technologies, the arts and the sciences.
 
-Education must be available to all, regardless of gender, ethnicity and socioeconomic background.  In particular, basic education must be accessible to and be accessed by all school age children in Solomon Islands. Likewise, adults should  have  access  to  further  education  and  training  to  enable  them  to develop skills for employment or to broaden their knowledge.
+Education must be available to all, regardless of gender, ethnicity and socio-economic background. In particular, basic education must be accessible to and be accessed by all school age children in Solomon Islands. Likewise, adults should have access to further education and training to enable them to develop skills for employment or to broaden their knowledge.
 
 ## 2. Purpose Of The Education Strategic Framework
 
@@ -255,7 +300,7 @@ This Education  Strategic  Framework  2007-2015 has  been  prepared  by  the Min
 
 It is premised on there being a national commitment to directing resources sufficient to meet the education and training needs of the majority of people who live in rural and regional areas.
 
-The Framework is an extension and  revision  of  the Education  Strategic  Plan 2004  -  2006. It  consolidates  the  recommendations  of  working  groups established by the MEHRD between 2004 and 2006 to develop 10 Provincial Education Action Plans through a process of consultation with key stakeholders  and  clients  of  the  education  system  throughout  the  Solomon Islands.      It  captures  the National  Education  Action  Plan  2007-2009 which summarises and synthesises the priorities for the medium term till 2009 and which is based on the provincial education action plans. Moreover, it is an outcome  of  nationwide  consultation  and  two  national  workshops  held  in Honiara to discuss its implications and to provide feedback on the priorities identified, the first on 11 & 12 October, 2006, and the second on 15 & 16 February, 2007.  It is a homegrown document.
+The Framework is an extension and revision of the Education Strategic Plan 2004 – 2006. It consolidates the recommendations of working groups established by the MEHRD between 2004 and 2006 to develop 10 Provincial Education Action Plans through a process of consultation with key stakeholders and clients of the education system throughout the Solomon Islands. It captures the National Education Action Plan 2007-2009 which summarises and synthesises the priorities for the medium term till 2009 and which is based on the provincial education action plans. Moreover, it is an outcome of nationwide consultation and two national workshops held in Honiara to discuss its implications and to provide feedback on the priorities identified, the first on 11 & 12 October, 2006, and the second on 15 & 16 February, 2007. It is a homegrown document.
 
 This  Framework  provides  a  basis  for  the  MEHRD's  objective  to  ensure universal  basic  education  is  available  to  every  child  of  school  age  in  the Solomon Islands. It will enable the MEHRD to continue its reform of the education system to make it more responsive and appropriate to the needs of Solomon Islanders. It identifies strategies for enhancing the capacity of the education  system  to  be  better  able  to  cope  with  the  rapidly  expanding demands  being  placed  upon  it.  It  includes  changes  and  reforms  to  the provision  of  basic  education  services,  technical,  vocational  and  further education, and the management of the education system.
 
@@ -265,7 +310,7 @@ This  Framework  provides  a  basis  for  the  MEHRD's  objective  to  ensure un
 
 [[START OF PAGE 11]]
 
-The Education Strategic Plan 2004 - 2006 envisaged that a significant outcome would  be  the  development  of  Provincial  Education  Action  Plans  and  the National Education Action Plan that would detail a comprehensive reform programme to be implemented over the short term.  These activities were completed  in  2007.    Based  on  this  work,  the  MEHRD  has  confirmed  the outline  and  some  details  of  the  education  reform  agenda  out  to  the  Year 2015 in this revised Framework.  It now needs to gain public support and commitment for its  plans,  and  to  secure  financial  and  other  support  from national and international  funding  agencies  and development partners. The MEHRD proposes to consult further with development partners to review this Framework in 2009.
+The Education Strategic Plan 2004 – 2006 envisaged that a significant outcome would be the development of Provincial Education Action Plans and the National Education Action Plan that would detail a comprehensive reform programme to be implemented over the short term. These activities were completed in 2007. Based on this work, the MEHRD has confirmed the outline and some details of the education reform agenda out to the Year 2015 in this revised Framework. It now needs to gain public support and commitment for its plans, and to secure financial and other support from national and international funding agencies and development partners. The MEHRD proposes to consult further with development partners to review this Framework in 2009.
 
 ## 3. Global and Regional Context
 
@@ -309,7 +354,7 @@ These 6 immediate key strategies for development are the following:
 
 - To develop (like  for  Secondary  and  Tertiary  education),  revise  (like the Education Act) or finalise (like for Early Childhood) policies for the different sub sectors or cross cutting areas (like Teacher Training and Development, decentralisation processes)
 
-- On the basis  of  a  national  demand,  to  ensure  longer  term  interest, technical  assistance  (including  the  development  of  a  national  TApool)  and  funding  from  Development  Partners  for  the  SWAp, ESIRPII, NEAP (2007-2009), ESF (2007-2015)
+- On the basis of a national demand, to ensure longer term interest, technical assistance (including the development of a national TA-pool) and funding from Development Partners for the SWAp, ESIRPII, NEAP (2007-2009), ESF (2007-2015)
 
 - To  develop  and  implement  a  programme  of  Human  Resource Development and capacity building
 
@@ -461,7 +506,7 @@ The role of Education Authorities is to provide leadership in contributing to th
 
 ### Role of Educational Institutions
 
-The role of educational institutions is  to  coordinate  the  implementation  of specific  activities  according  to  the  education  strategic  framework.    To  this end,  all  educational  institutions  will  maintain  the  operation  of  current programmes,  while  at  the  same  time  they  will  cooperate  and  coordinate specified relevant  activities  of  the  Framework  and  provide  reports  to respective  Education  Authorities  on  the  effects  of  the  Framework  on  the institution.  Also, the institutions should provide an avenue for the inclusion of  parents  and  members  of  the  immediate  communities  to  enhance  active involvement in the implementation process. Educational institutions include all  schools  and  training  centres  in  both  the  formal  and  non-formal  subsectors.
+The role of educational institutions is to coordinate the implementation of specific activities according to the education strategic framework. To this end, all educational institutions will maintain the operation of current programmes, while at the same time they will cooperate and coordinate specified relevant activities of the Framework and provide reports to respective Education Authorities on the effects of the Framework on the institution. Also, the institutions should provide an avenue for the inclusion of parents and members of the immediate communities to enhance active involvement in the implementation process. Educational institutions include all schools and training centres in both the formal and non-formal sub-sectors.
 
 ### Role of Parents and Communities
 
@@ -481,7 +526,7 @@ The issues we confront are:
 
 - The assessment system in the past was designed to exclude young people from education rather than to assess competencies, promote learning or enhance teaching practice.
 
-- A  generally  under  resourced,  disparate,  traditional  and  supply  oriented technical and vocational education structure provides low quality services and fails to produce a sufficient number of people possessing the highlevel skills needed for economic advancement of communities, regions or the nation.
+- A generally under resourced, disparate, traditional and supply oriented technical and vocational education structure provides low quality services and fails to produce a sufficient number of people possessing the high-level skills needed for economic advancement of communities, regions or the nation.
 
 - A highly centralised system has become increasingly alienated from the very  diverse  local  and  provincial  priorities  and  specific  demands  of  its clients and fails to lead in establishing and achieving priorities.
 
@@ -521,7 +566,7 @@ Ten years of Basic Education will be the minimum level of formal education provi
 
 The MEHRD recognises that education can be shared with other education and  training  providers.  Understanding  its  obligations  to  ensure  that  quality education  and  training  is  provided  to  its  people,  MEHRD  will  establish policies  to  guide  and  regulate  other  education  and  training  providers  to develop and deliver quality education. Other education and training providers include church and private education authorities running schools and tertiary institutions.
 
-As a matter of high priority, the MEHRD will incorporate activities within other  programmes  and  special  programmes  to  achieve  gender  equity  in access to basic education. Of equal priority will be the need to identify the needs of students in the 10 to 19 year old age groups who have been pushedout or dropped out of formal education, and to design programmes to enable them  to  re-enter  the  system  or  to  progress  along  alternate  education  and training paths.
+As a matter of high priority, the MEHRD will incorporate activities within other programmes and special programmes to achieve gender equity in access to basic education. Of equal priority will be the need to identify the needs of students in the 10 to 19 year old age groups who have been pushed-out or dropped out of formal education, and to design programmes to enable them to re-enter the system or to progress along alternate education and training paths.
 
 In addition the MEHRD will conduct field studies to identify the scope of problems of people with disabilities and identify the economic constraints to achieving access to education and design programmes to overcome these.
 
@@ -539,7 +584,7 @@ The most critical constraint will be gaining access to the financial resources r
 
 The  capacity  of  the  national  economy  to  generate  the  required  budgetary resources is limited. At best Government revenue will be barely sufficient to maintain  the  current  level  of  service.  In  fact,  the  revenue  base  will  be inadequate  even  for  this  task.  Government  will  therefore  rely  on  financial support from its development partners if it is to sustain current service levels. Continued support will be required from its bilateral partners.
 
-Importantly, the Government of the Solomon Islands will require access to substantial investment or development funds if it is to provide the teachers, buildings  and  materials  required  to  expand  the  system  and  to  improve  the quality  of  services  delivered.  There  has  been  significant  support  from  the European Union, through STABEX and Economic Development Funds, to support basic and technical, vocational and further education. Similarly, the New Zealand Agency for International Development (NZAID) has provided a  high  level  of  support  to  the  Solomon  Islands  education  system  over  the period  2004-2006.  And  also  other  Development  Partners  maintain  their support in their specific areas, like UNICEF in Early Childhood and Basic Education. UNICEF  increased  its  support  with  an  intensive  and  coordinated response to the recent earthquake and Tsunami of April 2007. The Republic of China and Government of Japan organise support for infrastructure and scholarships and UNESCO gives technical assistance to its National UNESCO office.,
+Importantly, the Government of the Solomon Islands will require access to substantial investment or development funds if it is to provide the teachers, buildings and materials required to expand the system and to improve the quality of services delivered. There has been significant support from the European Union, through STABEX and Economic Development Funds, to support basic and technical, vocational and further education. Similarly, the New Zealand Agency for International Development (NZAID) has provided a high level of support to the Solomon Islands education system over the period 2004-2006. And also other Development Partners maintain their support in their specific areas, like UNICEF in Early Childhood and Basic Education. UNICEF increased its support with an intensive and co-ordinated response to the recent earthquake and Tsunami of April 2007. The Republic of China and Government of Japan organise support for infrastructure and scholarships and UNESCO gives technical assistance to its National UNESCO office.,
 
 17
 
@@ -555,7 +600,7 @@ The structure of each sub-section in this part of the Framework is similar. The 
 
 The 18 key policy areas are:
 
-- Policy Development, Planning, Research, Management, Coordination and Monitoring
+- Policy Development, Planning, Research, Management, Co-ordination and Monitoring
 
 - Universal Basic Education (Primary)
 
@@ -595,7 +640,7 @@ The 18 key policy areas are:
 
 #### Policy Issue and Policy Outcome
 
-The policy issue is the need to ensure that education policy development in the Solomon Islands is effective, and to strengthen the capacity to develop education policy in the MEHRD to support that objective. A further policy issue is the need to strengthen planning, research,  management,  coordination and monitoring skills in the MEHRD. Capacity also needs to be strengthened  in  other  stakeholders,  in  particular in the  provinces,  the provincial government  and  different  education  authorities,  but  also in NGO's.  A  major  constraint  to  effective  implementation  of  the  first  three years of the Education Sector Investment and Reform Programme (ESIRP), phase I has been the lack of skilled human resources throughout the system . This  would  be  a  challenge  for  the  new  phase  II  (2007-2009)  as  well.  The Sector  Wide  Programme  (SWAp)  which  caters  for  all  sub-sectors  requires strong co-ordination, communication and management of a comprehensive programme  which  goes  beyond  the  level  of  basic  education  only.  .  The SWAp includes the development of a dialogue with all stakeholders, from all levels, national and international (Development Partners) in order to involve them in the development of policies, the implementation and monitoring of the programme.
+The policy issue is the need to ensure that education policy development in the Solomon Islands is effective, and to strengthen the capacity to develop education policy in the MEHRD to support that objective. A further policy issue is the need to strengthen planning, research, management, co-ordination and monitoring skills in the MEHRD. Capacity also needs to be strengthened in other stakeholders, in particular in the provinces, the provincial government and different education authorities, but also in NGO's. A major constraint to effective implementation of the first three years of the Education Sector Investment and Reform Programme (ESIRP), phase I has been the lack of skilled human resources throughout the system . This would be a challenge for the new phase II (2007-2009) as well. The Sector Wide Programme (SWAp) which caters for all sub-sectors requires strong co-ordination, communication and management of a comprehensive programme which goes beyond the level of basic education only. . The SWAp includes the development of a dialogue with all stakeholders, from all levels, national and international (Development Partners) in order to involve them in the development of policies, the implementation and monitoring of the programme.
 
 The desired policy outcome is that the MEHRD  should  have the appropriate 1 capacity  to  develop  policy,  and  to  design,  plan,  co-ordinate, implement and monitor the existing education system and any  new investments  that  are  envisioned.  The  education  system  should  meet  the following criteria:
 
@@ -729,7 +774,7 @@ The education policy issues include:
 
 - what intervention or combination of interventions (expanding existing government primary schools,  establishing extension schools or new schools, additional support for church schools) is appropriate;
 
-- how to improve the partnership between the Government and NonGovernment education authorities;
+- how to improve the partnership between the Government and Non-Government education authorities;
 
 21
 
@@ -743,7 +788,7 @@ The education policy issues include:
 
 - projections as to whether additional facilities will be used in future, given trends in population growth and internal and external migration (i.e. school mapping and siting issues);
 
-- the  level  of  any  additional  support  that  would  be  needed  to  trigger the  elimination  of  school  fees  at  both  Government  and  nonGovernment  primary  schools,  and  whether  this  should  be  done  in stages or as a comprehensive policy change;
+- the level of any additional support that would be needed to trigger the elimination of school fees at both Government and non-Government primary schools, and whether this should be done in stages or as a comprehensive policy change;
 
 - the  danger  of  unintended  consequences,  and  contingencies  to  deal with any changes;
 
@@ -755,7 +800,7 @@ The education policy issues include:
 
 #### Government Policy Response
 
-In order to reach the ultimate goal of universal attendance at primary school, the Government has made a commitment in principle to fund the full cost of the education of all primary school students in both Government and nonGovernment  schools.  In  2005,  14.8%  of  primary  school  students  were enrolled  in  non-Government  schools.  The  results  of  the  Government's policy commitment to universal basic education at the primary school level are evident in the increased proportion of students in the Solomon Islands reported as attending primary school in the Digest of Education Statistics 2005 (a net enrolment ratio for primary education of 86% in 2004, and an increase to 94%  in  2005).  A  strategic  plan  will  be  developed  to  achieve  the  desired objective of 100% participation in primary schooling. Policy will need to be developed  on  how  this  objective  might  be  achieved,  how  any  additional funding required might be found, and where exactly any funding would be targeted.
+In order to reach the ultimate goal of universal attendance at primary school, the Government has made a commitment in principle to fund the full cost of the education of all primary school students in both Government and non-Government schools. In 2005, 14.8% of primary school students were enrolled in non-Government schools. The results of the Government's policy commitment to universal basic education at the primary school level are evident in the increased proportion of students in the Solomon Islands reported as attending primary school in the Digest of Education Statistics 2005 (a net enrolment ratio for primary education of 86% in 2004, and an increase to 94% in 2005). A strategic plan will be developed to achieve the desired objective of 100% participation in primary schooling. Policy will need to be developed on how this objective might be achieved, how any additional funding required might be found, and where exactly any funding would be targeted.
 
 For  purposes  of  forward  planning,  it  will  be  critical  that  the  Government develop and announce a clear set of principles and intentions. If Government provision is to be expanded to accommodate all primary school students,  this  commitment  will  have  implications  for  legislation  governing school attendance and possibly for the age at which students start primary school. It will have implications for teacher supply, pre-service and in-service teacher  training,  and  for  the  provision  of  school  facilities.  The  policy  may also have downstream implications for the organisation and viability of both Government and Non-Government primary schools.
 
@@ -771,7 +816,7 @@ The reason for seeking to change the current law is that the early years of a ch
 
 [[START OF PAGE 23]]
 
-Schools,  in  partnership  with  parents,  are  responsible  for  promoting  the regular  attendance  of  students.  Encouraging  regular  attendance  is  a  core school  responsibility.  Requiring  all  children  in  the  Solomon  Islands  to  be enrolled at primary school by a specified age (say, age 6 or age 7) will assist each child's individual physical, intellectual and social development, and will bring  longer-term  benefits  for  the  country  as  a  whole  through  a  welleducated citizenry.
+Schools, in partnership with parents, are responsible for promoting the regular attendance of students. Encouraging regular attendance is a core school responsibility. Requiring all children in the Solomon Islands to be enrolled at primary school by a specified age (say, age 6 or age 7) will assist each child's individual physical, intellectual and social development, and will bring longer-term benefits for the country as a whole through a well-educated citizenry.
 
 In considering this issue, due  regard has to be had  for the special characteristics of the Solomon Islands (its people, geography and culture, the location of the primary schools, and the distance young children might have to travel to school).  Parents' views about how the young should be brought up in Solomon Islands society are also important.
 
@@ -803,7 +848,7 @@ Outputs and outcomes anticipated during 2007-2009 include the following:
 
 - The implementation, assessment and validation of a range of strategies and  options  for  best  using  additional  resources  to  maximise  student learning outcomes.
 
-- A comprehensive  plan  for  moving  to  fully-funded  free  primary  school education,  with  specific  agreements  on  the  elimination  of  fees  at  nonGovernment schools on a quid pro quo basis.
+- A comprehensive plan for moving to fully-funded free primary school education, with specific agreements on the elimination of fees at non-Government schools on a quid pro quo basis.
 
 - Improved  public  perceptions  regarding  the  quality  and  desirability  of education at primary schools.
 
@@ -945,7 +990,7 @@ The education policy issues include:
 
 #### Government Policy Response
 
-The  Government  of  the  Solomon  Islands  will  continue  to  strengthen  the current  academic  programme,  and  at  the  same  time  revise  the  senior secondary curriculum, to provide more courses and opportunities for those students in school who elect to follow a non-academic path. This approach essentially involves expanding the range of programmes on offer in existing institutions.  At  the  same  time  it  will  develop  policy  to  promote  a  seamless movement between secondary and tertiary institutions. This approach could involve  the  provision  of  targeted  funding  to  secondary  schools  to  enable them  to  purchase  instruction  or  places  in  short  vocational  or  technical courses  at  some  post-secondary  providers  for  selected  students  for  part  of the  school  day  (the  New  Zealand  'STAR'  funding    ( s econdary/ t ertiary a lignment r esource) is an example of this type of initiative).
+The Government of the Solomon Islands will continue to strengthen the current academic programme, and at the same time revise the senior secondary curriculum, to provide more courses and opportunities for those students in school who elect to follow a non-academic path. This approach essentially involves expanding the range of programmes on offer in existing institutions. At the same time it will develop policy to promote a seamless movement between secondary and tertiary institutions. This approach could involve the provision of targeted funding to secondary schools to enable them to purchase instruction or places in short vocational or technical courses at some post-secondary providers for selected students for part of the school day (the New Zealand “STAR” funding (secondary/tertiary alignment resource) is an example of this type of initiative).
 
 In tandem with this approach, the Government of the Solomon Islands will expand  opportunities  for  the  secondary  age  cohort  out  of  school.  This approach envisages providing public support for those of a designated range of age cohorts who select technical and vocational training options outside schools. The actual mechanism used might involve a voucher or entitlement (probably  a  subsidy  delivered  to  an  institution)  for  vocational,  technical  or life skills training delivered by Government and non-Government providers. The MEHRD Secondary Division would develop the capacity to administer a system of vouchers or an entitlement system (possibly needs-based), and to set and monitor standards of training providers in non-school settings.
 
@@ -981,7 +1026,7 @@ The following investments are proposed:
 
 #### Policy Issue and Policy Outcome
 
-The  policy  issue  is  how  to  ensure  increased  access  to  early  childhood education.  The  desired  policy  outcome  is  that  the  Solomon  Islands  has  an education  system  that  ensures  equal  access  to  early  childhood  education (ECE) (i.e. pre-school education). There is strong international evidence of a high  rate  of  return  from  investments  in  early  childhood  education.  Preschool education is important for laying the foundation for primary schooling. There are also equity dimensions: children from least advantaged communities are likely to benefit most from early childhood education.
+The policy issue is how to ensure increased access to early childhood education. The desired policy outcome is that the Solomon Islands has an education system that ensures equal access to early childhood education (ECE) (i.e. pre-school education). There is strong international evidence of a high rate of return from investments in early childhood education. Pre-school education is important for laying the foundation for primary schooling. There are also equity dimensions: children from least advantaged communities are likely to benefit most from early childhood education.
 
 The fundamental principle underlying support for early childhood education is that a child's development can be fostered by positive learning experiences in  the  early  years,  and  that  such  experiences,  based  on  a  developmentally appropriate curriculum, provide an excellent foundation for formal schooling. Access to organised pre-schooling leads to improved achievement levels of children in primary schools, when compared with those who do not have access to such provision. There is a need for formal recognition of the importance  of  the  role  of  the  early  childhood  education  sector  in  child development. The growth and development of this sector, and support for parents in their roles, needs to be acknowledged as a priority because of the positive impact investment in the sector has upon children's development.
 
@@ -1089,15 +1134,13 @@ The MEHRD would undertake to move towards formal support of children with specia
 
 - a special needs component in all pre-service teacher training,
 
-- providing teachers of children with special needs with professional  development  opportunities  and targeted inservice training to assist them to help each child with special needs, and
+- providing teachers of children with special needs with professional development opportunities and targeted in-service training to assist them to help each child with special needs, and
 
 - training of teacher aides who  could  provide individual assistance to children with special learning needs;
 
  reviewing  the  school  curriculum  to  ensure  that  it  caters  adequately for children with special learning needs, and  making  available appropriate learning materials and equipment for special education;
 
- provision of incentives to improve the qualifications of teachers in the  special  education  field,  such  as  financial  subsidies  (possibly through  the  scholarship  system)    for  supporting  access  to  special education programmes for teachers of special needs children offered by tertiary education providers, including the University of the South Pacific,    and  making  provision  for  training  of  special  education
-
-- teachers  at  SICHE  (i.e.  additional  specialist  training  for  regular trained teachers); and
+ provision of incentives to improve the qualifications of teachers in the special education field, such as financial subsidies (possibly through the scholarship system) for supporting access to special education programmes for teachers of special needs children offered by tertiary education providers, including the University of the South Pacific, and making provision for training of special education teachers at SICHE (i.e. additional specialist training for regular trained teachers); and
 
  supporting classes for adults with special needs in the community.
 
@@ -1153,7 +1196,7 @@ There is recognition that increasing globalisation, the Solomon Islands trade an
 
 The MEHRD will review the existing language policy on languages, literacy, and  bilingualism.  It  will  develop  a  comprehensive  policy  on  languages, literacy,  bilingualism,  and  the  language  of  instruction,  including  use  of diagnostic  instruments  at  an  early  stage  of  primary  schooling  to  identify students  with  literacy  problems.  The  policy  will  include  provision  for intensive retraining of teachers, and development and distribution of learning resources (graded readers and quality books) in both English and Solomon Islands vernacular languages (including Pijin).
 
-In undertaking a review of the existing language policy on languages, literacy, and bilingualism, the MEHRD intends to take into account the fact that all Government  primary  schools  will  follow  language  teaching  methodologies that recognise the first language of the majority of students. Basic literacy will be established in a vernacular language alongside the introduction of English. While the main language of instruction in Government primary schools will be English, a vernacular language may be used up to the end of Standard 2, while a bilingual approach (both a vernacular language and English) will be used to support instruction in Standards 4, 5 & 6. English will be the main language of instruction from Form 1 onwards.
+In undertaking a review of the existing language policy on languages, literacy, and bilingualism, the MEHRD intends to take into account the fact that all Government primary schools will follow language teaching methodologies that recognise the first language of the majority of students. Basic literacy will
 
 32
 
@@ -1161,7 +1204,9 @@ In undertaking a review of the existing language policy on languages, literacy, 
 
 [[START OF PAGE 33]]
 
-The MEHRD will reactivate the Vernacular Language Task Force to advise it on the development of language policy. It is recognised that production of vernacular language materials to go with a vernacular language policy will be a challenge.  The  MEHRD  will  undertake  research  as part of policy development  into  the  lessons  on  vernacular  education  learned  elsewhere, especially in the Pacific.
+be established in a vernacular language alongside the introduction of English. While the main language of instruction in Government primary schools will be English, a vernacular language may be used up to the end of Standard 2, while a bilingual approach (both a vernacular language and English) will be used to support instruction in Standards 4, 5 & 6. English will be the main language of instruction from Form 1 onwards.
+
+The MEHRD will reactivate the Vernacular Language Task Force to advise it on the development of language policy. It is recognised that production of vernacular language materials to go with a vernacular language policy will be a challenge. The MEHRD will undertake research as part of policy development into the lessons on vernacular education learned elsewhere, especially in the Pacific.
 
 Through this appointed task force, CDC will facilitate  the  development  of policy  on  the  teaching  of  vernacular  languages  to  include  a  pilot  project coordinated  by  MEHRD  and  other  relevant  organisations.  In  order  to develop  a  policy  on  vernacular  education,  the  Government  will  need  to analyse  carefully  the  implications  of  posting  teachers  with  the  appropriate language skills to teach in their area of origin.
 
@@ -1227,7 +1272,7 @@ cultures  and  customs,  (e.g.  music,  creative  arts,  carving,  fine  arts  a
 
 - the balance between the extent to which the school curriculum captures the uniqueness of Solomon Islands culture and prepares students for life in the Solomon Islands, and the extent to which the curriculum develops skills that may be required in a global world;  and
 
-- an evaluation of the quality of support for children's learning provided by current  learning  resources  in  the  Solomon  Islands,  and  by  current  preservice and in-service teacher education.
+- an evaluation of the quality of support for children's learning provided by current learning resources in the Solomon Islands, and by current pre-service and in-service teacher education.
 
 Improving learning in schools will assist in better matching the outcomes of education with the requirements of Solomon Islands society, and should lead to individuals who are better equipped to participate in their society and in the wider world. Well-rounded individuals with skills that complement their interests and abilities are more likely to find employment and integrate well into their society.
 
@@ -1235,7 +1280,7 @@ The keys to improving learning in schools lie in the areas of curriculum and ass
 
 The curriculum and assessment systems should value equally the full range of student  abilities  and  should  address  the  needs  of  society  for  a  range  of employment  opportunities.  The  current  curriculum  and  assessment  system should  provide  more  scope  for  students  to  demonstrate  or  practise  their creative,  artistic,  physical  and  practical  abilities.  There  is  also  a  need  to acknowledge  the  importance  of  these  skills  and  abilities  in  the  wider Solomon Islands society.
 
-An effective curriculum will support the development of basic literacy and numeracy skills which are fundamental to success in education, and underpin all  learning  (See  previous  section).  Review  of  curricula  should  occur  on  a regular and planned basis, and revision should be undertaken as a result of evaluation of existing curricula and changes in society.
+An effective curriculum will support the development of basic literacy and numeracy skills which are fundamental to success in education, and underpin all learning (See previous section). Review of curricula should occur on a
 
 34
 
@@ -1243,9 +1288,11 @@ An effective curriculum will support the development of basic literacy and numer
 
 [[START OF PAGE 35]]
 
+regular and planned basis, and revision should be undertaken as a result of evaluation of existing curricula and changes in society.
+
 #### Government Policy Response
 
-The  National  Curriculum  Reform  Programme  initiated  as  part  of  the previous Education Strategic Plan 2004-2006 will be continued.
+The National Curriculum Reform Programme initiated as part of the previous Education Strategic Plan 2004-2006 will be continued.
 
 In  partnership  with  stakeholders,  the  MEHRD  through  the  Curriculum Development  Centre  is  establishing the philosophical and  pedagogical foundation  for  a  major  overhaul  of  the  objectives  for  basic  education. Syllabus  development  is  under  way  for  all  subjects  to  cover  learning  from Years  1  to  10.  In  conjunction  with  this  curriculum  development,  learning materials are being developed, in-service training for teachers for the revised syllabus  areas  will  be  carried  out,  and  revisions  to  pre-service  training curricula  are  in  process.  All  curriculum  documents  are  being  revised  to integrate  and  update  course  syllabi,  and  to  establish  a  continuous  learning pathway from the preparatory year through to form 3.  The objective is to develop an integrated Year 1 to 10 curriculum framework. This framework is intended  to  promote  the  achievement  of  learning  outcomes  that  better prepare  young  people  for  life  in  the  Solomon  Islands.  Clear  objectives  are being  developed  for  each  course,  which  provide  the  basis  for  continuous, school-based assessment of learning.
 
@@ -1329,7 +1376,7 @@ The assessment policy issues include striking an appropriate balance between dif
 
 - assessment  for  the  purpose  of  providing  a  summarised  report  and feedback on student learning that has been achieved.
 
-An evaluation may need  to  be made  of the relationship  between  Solomon Islands curriculum objectives and assessment criteria and procedures, and of the  quality  of  support  for  children's  learning  provided  by  current  systemwide assessment methods.
+An evaluation may need to be made of the relationship between Solomon Islands curriculum objectives and assessment criteria and procedures, and of the quality of support for children's learning provided by current system-wide assessment methods.
 
 Assessment should continue to focus on support of learning objectives. The assessment system in the Solomon Islands is being redesigned to cover the whole  range  of  student  abilities,  to  support  student  learning,  to  assist  in diagnosing student difficulties, and to inform teachers of the effectiveness of strategies they use.
 
@@ -1345,7 +1392,7 @@ There  are  policy  issues  relating  to  setting  of  standards  and  awarding 
 
 How  and  when  the  Solomon  Islands  Secondary  Entrance  Examination (SISEE)  can  be  gradually  phased  out  is  an  issue,  so  that  all  standard  6 students can proceed to form 1. In those geographical areas where enough form  1  places  exist,  it  will  be  possible  to  dispense  with  the  SISEE.  Some provinces have already reached this state. Other provinces, because of rapid population growth and insufficient places at form 1, may need to continue with SISEE as a selection mechanism for entry to form 1 for a few years.
 
-The  breadth  of  the  national  form  3  examination  should  be  extended  to include  all  subjects  taught  in  forms  1-3. By  examining  only  English  and mathematics,  teachers  and  students  have  neglected  the  other  subjects.  The options need to be analysed by NESU, CDC and subject teachers to produce prescriptions to guide the examiners.  The national form 3 regulations should also be changed to allow for the use of school-based assessment in each of the  core  subjects.  The  work  of  the  students  throughout  the  year  is  not weighted,  while  a  student  who  is  unwell  or  upset  on  examination  day  is disadvantaged.  Moreover, many of the skills included in the curriculum can only be assessed by teachers who observe students work throughout the year, as in English, science and vocational subjects.
+The breadth of the national form 3 examination should be extended to
 
 37
 
@@ -1353,9 +1400,11 @@ The  breadth  of  the  national  form  3  examination  should  be  extended  to 
 
 [[START OF PAGE 38]]
 
-The assessment system reinforces the perception that the education system is a  pathway  to  formal  sector  employment,  and  in  practice  promotes  further disharmony within communities and the national society.
+include all subjects taught in forms 1-3. By examining only English and mathematics, teachers and students have neglected the other subjects. The options need to be analysed by NESU, CDC and subject teachers to produce prescriptions to guide the examiners. The national form 3 regulations should also be changed to allow for the use of school-based assessment in each of the core subjects. The work of the students throughout the year is not weighted, while a student who is unwell or upset on examination day is disadvantaged. Moreover, many of the skills included in the curriculum can only be assessed by teachers who observe students work throughout the year, as in English, science and vocational subjects.
 
-Up  to  date  examination  prescriptions,  spelling  out  the  content,  skills  and standards to be examined and assessed, should be available to guide the form 3 examiners in each subject, and to inform teachers and students before the examinations take place. NESU should work with CDC and subject teachers to prepare prescriptions in the areas that have not yet been updated, so that the content, standards and weightings of each examination and school-based assessment requirement are known and understood.
+The assessment system reinforces the perception that the education system is a pathway to formal sector employment, and in practice promotes further disharmony within communities and the national society.
+
+Up to date examination prescriptions, spelling out the content, skills and standards to be examined and assessed, should be available to guide the form 3 examiners in each subject, and to inform teachers and students before the examinations take place. NESU should work with CDC and subject teachers to prepare prescriptions in the areas that have not yet been updated, so that the content, standards and weightings of each examination and school-based assessment requirement are known and understood.
 
 Currently secondary school students in the Solomon Islands follow a national curriculum at form 5 leading to the Solomon Islands School Certificate, and follow a regional curriculum  in form  6  leading to a regional Pacific qualification (the Pacific Senior Secondary Certificate). The issue is whether these  different  assessment  systems  promote  a  coherent,  systematic  and integrated approach to learning.
 
@@ -1379,7 +1428,7 @@ Teacher  in-service  training  programmes  in  methods  of  assessment  will  be
 
 Planning for phasing out SISEE will allow MEHRD (through the National Examination and Standards Unit (NESU)) to review assessment instruments, document and update assessment prescriptions and procedures, and improve communication with parents and schools.
 
-The MEHRD will broaden the scope of assessment at form 3 to include all subjects,  using  a  combination  of  school-based  and  external  examinations. School-based assessment will be introduced for those subjects not currently examined externally. This approach will require the MEHRD to amend the national form 3 examination regulations. NESU will be responsible for this change, in collaboration with CDC and subject panels.
+The MEHRD will broaden the scope of assessment at form 3 to include all subjects, using a combination of school-based and external examinations. School-based assessment will be introduced for those subjects not currently examined externally. This approach will require the MEHRD to amend the national form 3 examination regulations. NESU will be responsible for this
 
 38
 
@@ -1387,7 +1436,9 @@ The MEHRD will broaden the scope of assessment at form 3 to include all subjects
 
 [[START OF PAGE 39]]
 
-With CDC, NESU will develop a list of required student competencies and related assessment prescriptions for all junior secondary subjects. These will provide  teaching  guidelines  and  the  framework  for  an  in-service  training programme  to  prepare  teachers  to  commence  continuous  school-based assessment of pupils.
+change, in collaboration with CDC and subject panels.
+
+With CDC, NESU will develop a list of required student competencies and related assessment prescriptions for all junior secondary subjects. These will provide teaching guidelines and the framework for an in-service training programme to prepare teachers to commence continuous school-based assessment of pupils.
 
 These programmes will include such topics as: selecting the most appropriate form of assessment for different objectives; planning an effective measuring device; setting quality questions, at the appropriate level; understanding and ensuring  reliability  of  assessment;  devising  effective  marking  and  scaling systems; and moderating assessments to conform to national standards.
 
@@ -1415,7 +1466,7 @@ The following investments are proposed:
 
 The policy issue is how the Solomon Islands can secure an adequate supply of  well  trained  and  qualified  teachers  to  meet  the  educational  needs  of  a rapidly  expanding  school  population.  It  is  also  an  issue  whether  current national  teacher  development  plans  will  deliver  the  required  number  of teachers of appropriate quality, and whether existing teachers have access to appropriate  professional  development.  The  desired  policy  outcome  is  that education  in  the  Solomon  Islands  is  supported  by  an  adequate  supply  of competent, trained,  and  well-qualified  teachers  at  all  levels,  teaching  in  the Solomon  Islands  is  perceived  as  an  attractive  profession,  teachers  are motivated  to  stay  and  contribute  to  the  education  sector,  all  teaching positions are filled by teachers of quality, and advance planning for teacher supply is undertaken to ensure that teacher shortages do not occur.
 
-The teacher supply policy issues include more effective forecasting, planning and monitoring of teacher supply in the Solomon Islands It is necessary to verify whether there is any exodus of teachers from the profession, and, if so, to identify which parts of the teaching profession are experiencing loss rates, and  the  reasons  for  any  trends  that  may  be  emerging.  Trend  analyses  of teacher  mobility  and  past  and  future  teacher  loss  rates  (including  teacher retirements) are required. The development of a robust model is needed to forecast future teacher supply needs for the Solomon Islands accurately.
+The teacher supply policy issues include more effective forecasting, planning and monitoring of teacher supply in the Solomon Islands It is necessary to verify whether there is any exodus of teachers from the profession, and, if so, to identify which parts of the teaching profession are experiencing loss rates, and the reasons for any trends that may be emerging. Trend analyses of
 
 39
 
@@ -1423,7 +1474,9 @@ The teacher supply policy issues include more effective forecasting, planning an
 
 [[START OF PAGE 40]]
 
-Policy  on  appropriate  sources  of  future  teachers  needs  to  be  developed.  A review of policy is required on teacher recruitment and retention, and teacher preparation in and beyond the Solomon Islands, including the policy on the annual intake to SICHE (or other providers such as USP). Recruitment of expatriate  teachers  may  need  to  be  considered.  Policies  to  improve  the quality  of  teaching  are  also  needed,  in  order  to  improve  and  upgrade  the skills  of  the  existing  teaching  work  force,  particularly  the  estimated  1300 unqualified teachers in the primary service. If there are to be basic changes in the  secondary  curriculum,  the  data  and  analysis  requirements  must  be extended  to  reflect  these  changes.  This  extended  analysis  would  also  be essential if there is to be more emphasis upon provision of qualified tutors for expanded vocational and technical education.
+teacher mobility and past and future teacher loss rates (including teacher retirements) are required. The development of a robust model is needed to forecast future teacher supply needs for the Solomon Islands accurately.
+
+Policy on appropriate sources of future teachers needs to be developed. A review of policy is required on teacher recruitment and retention, and teacher preparation in and beyond the Solomon Islands, including the policy on the annual intake to SICHE (or other providers such as USP). Recruitment of expatriate teachers may need to be considered. Policies to improve the quality of teaching are also needed, in order to improve and upgrade the skills of the existing teaching work force, particularly the estimated 1300 unqualified teachers in the primary service. If there are to be basic changes in the secondary curriculum, the data and analysis requirements must be extended to reflect these changes. This extended analysis would also be essential if there is to be more emphasis upon provision of qualified tutors for expanded vocational and technical education.
 
 The  availability  of  qualified  teachers  is  an  essential  pre-requisite  for  an effective  education  system.    Teacher  salary  levels  affect  recruitment  and retention, and teacher salaries in Government  schools will influence compensation levels in non-Government institutions.  Increasingly, there is an  international  market  for  qualified  teachers  in  specialised  areas  and  it  is essential  to  monitor  the  dynamics  of  the  supply  and  demand  equation.  A labour market response may be needed if monitoring discloses that there are teacher shortages occurring.
 
@@ -1505,7 +1558,7 @@ The following investments will be supported during 2007-2009:
 
 [[START OF PAGE 42]]
 
-Outputs  and  outcomes  anticipated  during  the  preliminary  activities  (20072009) include the following:
+Outputs and outcomes anticipated during the preliminary activities (2007-2009) include the following:
 
 - a comprehensive 'model' of teacher supply and demand, under a range of assumptions;
 
@@ -1551,7 +1604,7 @@ Policy on teacher education should be supported by a regime that maintains a cor
 
 Teacher  education  is  the  heart  of  human  resource  development  in  an education system, since the quality of teaching is the single most important factor that relates to the quality of student achievement.  Effective learning in schools depends upon effective teaching. Improving the quality of teaching is therefore a significant factor in raising the level of student achievement.
 
-The effective preparation and supply of teachers are fundamental aspects of a  well-performing education system. Government has an important role in creating  the  environment  in  which  teachers  can  be  well  prepared  for  their role. While not all teachers need necessarily be trained in the state institution, in  a  country  like  the  Solomon  Islands  the  Government  has  a  particular responsibility to ensure that its one  teachers' training college is well supported  and  resourced,  is  itself  staffed  by  well  qualified  teachers  or lecturers,  has  a  sound  system  of  quality  assurance  in  place,  and  is  able  to deliver quality programmes.
+The effective preparation and supply of teachers are fundamental aspects of a well-performing education system. Government has an important role in creating the environment in which teachers can be well prepared for their role. While not all teachers need necessarily be trained in the state institution, in a country like the Solomon Islands the Government has a particular responsibility to ensure that its one teachers' training college is well
 
 42
 
@@ -1559,15 +1612,17 @@ The effective preparation and supply of teachers are fundamental aspects of a  w
 
 [[START OF PAGE 43]]
 
-A  key  priority  will  be  developing  a  strategy  to  upgrade  the  skills  of  the estimated  1300  unqualified  teachers  in  the  primary  school  sector,  and providing professional development programmes (in-service training) for the primary-trained  teachers  who  now  teach  at  junior  secondary  levels  in Community High Schools.
+supported and resourced, is itself staffed by well qualified teachers or lecturers, has a sound system of quality assurance in place, and is able to deliver quality programmes.
 
-The  establishment of an  Advisory  Committee  on  Teacher  Education (concerned  with  advising  on  pre-service  and  in-service  teacher  education) may be desirable to ensure that scarce resources are used most efficiently for the benefit of all teachers, irrespective of the system in which they teach. The Advisory  Committee  would  be  tasked  with  ensuring  that  the  present impediments to all teachers' access to professional development are eliminated. The committee would also be tasked with ensuring that the inservice  offerings  associated  with  the  adoption  of  new  curriculum  and assessment systems are planned, integrated and delivered for optimal teacher development.
+A key priority will be developing a strategy to upgrade the skills of the estimated 1300 unqualified teachers in the primary school sector, and providing professional development programmes (in-service training) for the primary-trained teachers who now teach at junior secondary levels in Community High Schools.
+
+The establishment of an Advisory Committee on Teacher Education (concerned with advising on pre-service and in-service teacher education) may be desirable to ensure that scarce resources are used most efficiently for the benefit of all teachers, irrespective of the system in which they teach. The Advisory Committee would be tasked with ensuring that the present impediments to all teachers' access to professional development are eliminated. The committee would also be tasked with ensuring that the in-service offerings associated with the adoption of new curriculum and assessment systems are planned, integrated and delivered for optimal teacher development.
 
 Creating a more 'level playing field' in the teaching labour force by moves to decentralise  functions  such  as  appointment  of  staff,    and  fostering  an environment in which  non-Government systems compete for teaching staff on  an  equal  basis  with  Government  schools,  would  have  the  effect  of improving the quality of teaching overall in Solomon Islands schools.
 
 #### Government Policy Response
 
-In pursuit of a goal of improving the quality of teaching, the MEHRD will undertake reforms to improve the teacher education system. Policies will be developed  to  improve  the  overall  quality  of  teacher  education.  A  teacher development plan will be prepared (encompassing both pre-service and inservice training) that sets out initiatives for improving the quality of teaching at all levels of the education system.
+In pursuit of a goal of improving the quality of teaching, the MEHRD will undertake reforms to improve the teacher education system. Policies will be developed to improve the overall quality of teacher education. A teacher development plan will be prepared (encompassing both pre-service and in-service training) that sets out initiatives for improving the quality of teaching at all levels of the education system.
 
 Policy on how the SICHE/SOE could help improve the in-service training of  teachers  as  well  as  pre-service  training  will  be  developed.  An  in-service development  group  will  be  formed  involving  teachers  from  all  education systems  in  the  Solomon  Islands  along  with  MEHRD  officers,  to  assist  in producing  the  proposed  in-service  component  of  the  teacher  professional development plan.
 
@@ -1587,7 +1642,7 @@ Measures to improve the quality of teacher education that will be considered by 
 
 The  policy  on  selection  of  trainees  to  enter  pre-service  training  is  another issue that impacts upon quality. The selection of trainees for teaching must be based on quality criteria.
 
-Another more immediate initiative, that will run in parallel with the work of the proposed Advisory Committee for Teacher Education, is to seek formal links  ('twinning')  through  a  Memorandum  of  Agreement  with  an  already accredited overseas provider of quality teacher education. This process has already been initiated by SICHE/SOE through contact with the University of Waikato, with a view to improving the quality of teaching programmes at SICHE/SOE.  This    conjoint  arrangement  should  enable  SICHE/SOE  to improve  its  own  standards  by  giving  it  access  to  other  established  high quality teacher education programmes, support from high quality staff at the 'twinned' institution, and a raising of its standards through improvement of its own programmes and procedures. This arrangement could be extended to Vanga  Teachers  College  &  other  providers  (if  a  suitable  partner  could  be found).
+Another more immediate initiative, that will run in parallel with the work of the proposed Advisory Committee for Teacher Education, is to seek formal links (“twinning”) through a Memorandum of Agreement with an already accredited overseas provider of quality teacher education. This process has
 
 43
 
@@ -1595,7 +1650,9 @@ Another more immediate initiative, that will run in parallel with the work of th
 
 [[START OF PAGE 44]]
 
-Incentives will be developed to improve the quality of teaching by encouraging  existing  teachers  to  improve  their  existing  qualifications  by undertaking degree studies. It may also be desirable to explore links and cooperation with the University of the South  Pacific  (USP)  or  (Open) University  of  Papua  New  Guinea  (UPNG),  which  has  developed  many modules for teacher training and also wants to open a centre in the Solomon Islands . Studies to upgrade existing teacher qualifications could be undertaken either through the USP or UPNG and in combination with DFLmodes  through  Internet  and  e-mail  facilities  as  offered  by  the  provincial Distance Learning Centres or through SICHE/SOE if arrangements to offer a teaching degree programme at that institution can be finalised.
+already been initiated by SICHE/SOE through contact with the University of Waikato, with a view to improving the quality of teaching programmes at SICHE/SOE. This conjoint arrangement should enable SICHE/SOE to improve its own standards by giving it access to other established high quality teacher education programmes, support from high quality staff at the “twinned” institution, and a raising of its standards through improvement of its own programmes and procedures. This arrangement could be extended to Vanga Teachers College & other providers (if a suitable partner could be found).
+
+Incentives will be developed to improve the quality of teaching by encouraging existing teachers to improve their existing qualifications by undertaking degree studies. It may also be desirable to explore links and co-operation with the University of the South Pacific (USP) or (Open) University of Papua New Guinea (UPNG), which has developed many modules for teacher training and also wants to open a centre in the Solomon Islands. Studies to upgrade existing teacher qualifications could be undertaken either through the USP or UPNG and in combination with DFL-modes through Internet and e-mail facilities as offered by the provincial Distance Learning Centres or through SICHE/SOE if arrangements to offer a teaching degree programme at that institution can be finalised.
 
 SICHE/SOE  will  be  supported,  through  donor  assistance  and  by  the MEHRD, to ensure that:
 
@@ -1613,11 +1670,11 @@ SICHE/SOE  will  be  supported,  through  donor  assistance  and  by  the MEHRD,
 
 - teacher  education  programmes for post-secondary/tertiary teachers and teachers of vocational and technical programmes are provided.
 
-The  MEHRD  has  a  Teacher  Service  Handbook  that  prescribes  formal registration and contracting of all teachers (in both Government and NonGovernment  systems)  in  order  to  increase  efficient  resource  management, maintain  standards  of  quality  and  to  ensure  public  confidence  in  the profession. Registration and contracting of teachers would provide protection for students and a means of establishing quality by ensuring that only  qualified  teachers  who  were  suitable  for  teaching  were  appointed  to permanent  teaching  positions.  An  accurate  list  (register)  of  all  teachers  in both Government and Non-Government systems will be developed initially, with  a  record  of  each  teacher's  name,  qualifications,  teaching  experience, current place of employment, and other relevant information.
+The MEHRD has a Teacher Service Handbook that prescribes formal registration and contracting of all teachers (in both Government and Non-Government systems) in order to increase efficient resource management, maintain standards of quality and to ensure public confidence in the profession. Registration and contracting of teachers would provide protection for students and a means of establishing quality by ensuring that only qualified teachers who were suitable for teaching were appointed to permanent teaching positions. An accurate list (register) of all teachers in both Government and Non-Government systems will be developed initially, with a record of each teacher's name, qualifications, teaching experience, current place of employment, and other relevant information.
 
 One policy issue that has a significant impact upon the quality of teaching is the policy on the remuneration of teachers. The difficulty in recruiting and retaining staff suggests that a labour market response may also need to be a factor  in  the  recipe  for  improving  quality.  The  recent  increase  in  teacher remuneration  will  need  to  be  monitored  to  determine  if  it  has  resulted  in improvements in quality. While financial incentives for teachers to improve their qualifications should be considered, this policy response is not the only answer  to  improving  teacher  quality.    The  MEHRD  may  wish  to  consider whether  a  policy  to  increase  teacher-pupil  ratios  is  warranted  in  order  to reduce the overall number of teachers and free up funds that could then be targeted  at providing  incentives  to  teachers  to  raise  their  qualification standards and performance.
 
-Some decentralisation of functions by the MEHRD  and  provincial authorities  will  be  considered  in  order  to  allow  schools  more  autonomy  in the  appointment  of  staff.  Quality  would  be  improved  by  moving  towards more school self-management and creating a more 'level playing field' in the teaching labour force, by freeing up access to teachers outside the Government system to apply directly to the Solomon Islands Government schools for appointment, and by encouraging moves that would allow nonGovernment providers to compete for teaching staff on an equitable basis.
+Some decentralisation of functions by the MEHRD and provincial authorities will be considered in order to allow schools more autonomy in the appointment of staff. Quality would be improved by moving towards more school self-management and creating a more “level playing field” in the teaching labour force, by freeing up access to teachers outside the Government system to apply directly to the Solomon Islands Government
 
 44
 
@@ -1625,7 +1682,9 @@ Some decentralisation of functions by the MEHRD  and  provincial authorities  wi
 
 [[START OF PAGE 45]]
 
-A review of the teacher appraisal system will be conducted, with a view to developing  more positive  incentives  for  teachers  to  improve  the  quality  of their performance.
+schools for appointment, and by encouraging moves that would allow non-Government providers to compete for teaching staff on an equitable basis.
+
+A review of the teacher appraisal system will be conducted, with a view to developing more positive incentives for teachers to improve the quality of their performance.
 
 The  school  inspectorate  programmes  will  be  supported  as  a  means  of evaluating teacher effectiveness and improving teacher quality. A programme of upskilling for school inspectors will be provided as a matter of priority. In addition, the capacity of the Teaching Service Division of the MEHRD will be strengthened in order to complete the elimination of 'ghost' teachers and to assist in upgrading the untrained teachers throughout the country.
 
@@ -1659,13 +1718,15 @@ The following investments are proposed:
 
 The  policy  issue  is  how  best  to  support  delivery  of  quality  education  and skills training in the post-secondary (tertiary) education sector. Policy outcomes include a coordinated national system of post-secondary education and  training  with  adequate  provision  to  meet  the  needs  of  the  Solomon Islands society and economy.  The system should be characterised by equity, quality,  relevance  and  efficiency.  Qualifications  would  be  internationally accredited  and  recognised,  and  limited  resources  would  not  be  dissipated through unnecessary duplication of services. An anticipated policy outcome is an effective tertiary education policy for the Solomon Islands, including a strategic  plan  for  the  development  of  post-secondary  (tertiary)  education. This  broader  policy  and  associated  strategic  plan  would  include  policy  on technical and vocational education and training (discussed in more detail in the next section).  A further policy outcome would be the development of "demand-driven" funding models.
 
-A  review  of  current  policy  is  required,  including  policy  on  the  award  of scholarships. It appears that a mix of policy approaches will be required in future.  While  expanding  and  strengthening  SICHE  is  a  logical  first  step towards the development of a robust tertiary education sector,  the reality of the  geography  of  the  Solomon  Islands  suggests  that  strengthening  training through rural training centres and other training organisations will need to be a  focus  of  initiatives,  at  least  in  the  short  and  medium  term.  The  role  and contribution  of  the  University  of  the  South  Pacific  and  of  Papua  New Guinea  will  also  need  to  be  considered.  The  longer-term  objective  is  the creation  of  a  'market'  environment  in  which  public  finance  will  follow individual enrolments  (through scholarships, vouchers  or subsidies) in targeted skills areas.
+A review of current policy is required, including policy on the award of scholarships. It appears that a mix of policy approaches will be required in future. While expanding and strengthening SICHE is a logical first step towards the development of a robust tertiary education sector, the reality of the geography of the Solomon Islands suggests that strengthening training through rural training centres and other training organisations will need to be a focus of initiatives, at least in the short and medium term. The role and contribution of the University of the South Pacific and of Papua New
 
 45
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+
+Guinea will also need to be considered. The longer-term objective is the creation of a “market” environment in which public finance will follow individual enrolments (through scholarships, vouchers or subsidies) in targeted skills areas.
 
 The education system should meet the following criteria:
 
@@ -1679,17 +1740,17 @@ The education system should meet the following criteria:
 
  the quantum of funding devoted to tertiary education and training would be  appropriate,    but  would  reflect  the  Government's  emphasis  on universal  basic  education  as  the  first  priority  for  limited  education expenditure;
 
- opportunities  and  public  support  would  be  in  place  to  encourage individuals  to  upgrade  their  professional  and  vocational  skill  as  an  ongoing activity in order to maintain international competitiveness;
+ opportunities and public support would be in place to encourage individuals to upgrade their professional and vocational skill as an on-going activity in order to maintain international competitiveness;
 
  increased  awareness  of  the  value  of  tertiary  education  and  training  in creating  and  sustaining  a  livelihood  and  in  contributing  to  society generally would be evident in Solomon Islands communities.
 
 #### Government Policy Response
 
-The  MEHRD  wishes  to  reform  and  co-ordinate  the  provision  of  postsecondary education and training in the Solomon Islands. A review of tertiary education will be undertaken in order to develop an effective national tertiary education  policy.    (The  necessity  for  a  further  review  of  tertiary  education will  be  reassessed  following  receipt  of  the  study  on  the  National  Skills Training  Plan  being  undertaken  in  2006  by  the  World  Bank,  NZAID, AUSAID, EU and other stakeholders.) Associated with the development of appropriate tertiary education policy  will  be  the  development  of a strategic plan  for  post-secondary  education  and  training  in  the  Solomon  Islands  (a National Skills Training Plan), as part of the MEHRD broader planning for education  in  the  Solomon  Islands.    The  development  of  the  proposed national  tertiary  education  policy  will  be  wide-ranging  and  comprehensive, including examination of existing policy on scholarships and awards, development  of  policy  on  institutional provision of tertiary  education (including strengthening of the Solomon Islands College of Higher Education  and  further  consideration  of  the  development  of  a  Solomon Islands campus of the University of the South Pacific) and policy on skills development  and  training  (incorporating  appropriate  policies  for  technical and vocational education and training).  The next section deals with TVET issues  in  more  detail.  A  planned  approach  to  the  development  of  formal post-secondary education should lead to a more efficient sector.
+The MEHRD wishes to reform and co-ordinate the provision of post-secondary education and training in the Solomon Islands. A review of tertiary education will be undertaken in order to develop an effective national tertiary education policy. (The necessity for a further review of tertiary education will be reassessed following receipt of the study on the National Skills Training Plan being undertaken in 2006 by the World Bank, NZAID, AUSAID, EU and other stakeholders.) Associated with the development of appropriate tertiary education policy will be the development of a strategic plan for post-secondary education and training in the Solomon Islands (a National Skills Training Plan), as part of the MEHRD broader planning for education in the Solomon Islands. The development of the proposed national tertiary education policy will be wide-ranging and comprehensive, including examination of existing policy on scholarships and awards, development of policy on institutional provision of tertiary education (including strengthening of the Solomon Islands College of Higher Education and further consideration of the development of a Solomon Islands campus of the University of the South Pacific) and policy on skills development and training (incorporating appropriate policies for technical and vocational education and training). The next section deals with TVET issues in more detail. A planned approach to the development of formal post-secondary education should lead to a more efficient sector.
 
 A study is being undertaken in 2006 to assist the Government to develop a National Skills Training Plan (NSTP).  This study, supported by the World Bank and by NZAID,  will provide advice which will facilitate the construction  of  an  implementable  NTSP by  identifying  national  objectives, key issues, strategic options and opportunities, implementation options, and resource  implications  and  requirements.  This  proposed  plan  is  intended  to provide a basis for the Government to plan for its future investment in the skills training and education of the nation's work force. The intention is that this  plan  will  be  linked  to  the  future  skilled  manpower  needs  (both  formal and  informal)  of  the  economy.  The  work  on  developing  the  NSTP  will support the development of an appropriate national tertiary education policy.
 
-The study has undertaken a survey of private sector firms, and government institutions and agencies at national and provincial levels, as well as tertiary education providers, to ascertain the immediate and medium term demand for  training,  to  assess  the  capacity  of  employers  to  contribute  towards  the cost of training, and to assess the capacity of tertiary education providers to deliver  the  training  of  the  type  and  to  the  levels  required.  An  anticipated outcome of this skills survey will be the identification of priority sectors on which  training  should  be  focused,  and  proposals  for  the  development  of mechanisms for employer and employee contributions to costs.
+The study has undertaken a survey of private sector firms, and government institutions and agencies at national and provincial levels, as well as tertiary education providers, to ascertain the immediate and medium term demand for training, to assess the capacity of employers to contribute towards the cost of training, and to assess the capacity of tertiary education providers to deliver the training of the type and to the levels required. An anticipated outcome of this skills survey will be the identification of priority sectors on
 
 46
 
@@ -1697,7 +1758,9 @@ The study has undertaken a survey of private sector firms, and government instit
 
 [[START OF PAGE 47]]
 
-The proposed National Skills Training Plan will be developed in tandem with the development of an effective tertiary education policy, following receipt of the final report of the study in the beginning of 2007. The plan will reflect a macro-economic  and  social  sector  analysis  based  on  available  data  on economic and education/training trends. It will  also provide an analysis of how past  secondary  and  post-secondary  graduates  have  contributed  to  the economy.  It is anticipated that this plan will be a major contributor to the development  of  an  effective  national  tertiary  education  policy  which  will outline  and  advise  on  the  economic  development  trends  over  the  medium and  long  term  and  the  likely  demand  for  and  supply  of  skilled/educated personnel.    Particular  attention  in  policy  development  will  be  paid  to  the needs of the informal economy and to the education/skills base needed to sustain micro enterprises and the social economy in rural areas where 80% of Solomon Islanders live.
+which training should be focused, and proposals for the development of mechanisms for employer and employee contributions to costs.
+
+The proposed National Skills Training Plan will be developed in tandem with the development of an effective tertiary education policy, following receipt of the final report of the study in the beginning of 2007. The plan will reflect a macro-economic and social sector analysis based on available data on economic and education/training trends. It will also provide an analysis of how past secondary and post-secondary graduates have contributed to the economy. It is anticipated that this plan will be a major contributor to the development of an effective national tertiary education policy which will outline and advise on the economic development trends over the medium and long term and the likely demand for and supply of skilled/educated personnel. Particular attention in policy development will be paid to the needs of the informal economy and to the education/skills base needed to sustain micro enterprises and the social economy in rural areas where 80% of Solomon Islanders live.
 
 Once adopted by the Cabinet, the national tertiary education policy and the associated strategic plan for delivery of post-secondary tertiary education and training (the National Skills Training Plan) should be used by all Ministries and  non-Government  organisations  to  guide  their  strategic  investment  in education and skills training over the Framework period.
 
@@ -1737,7 +1800,7 @@ The policy strategies required include the following:
 
 - Strengthening  of  existing  post-secondary  tertiary  education  institutions (e.g. by supporting SICHE  through articulation agreements with international institutions, by  enhancing the Solomon Islands Centre for the University of the South Pacific through further consideration of the establishment  of  a  full  campus  in  the  Solomon  Islands,    and  by maximising  the  use  of  technology  to  facilitate  on-line  and  distance education);
 
-- Establishment  and  maintenance  of  a  register  of  providers  of  postsecondary education;
+- Establishment and maintenance of a register of providers of post-secondary education;
 
 - Examination  of  how  a  'demand  driven  and  labour  market  oriented' system  of  funding  tertiary  education  and  training  based  on  a  funding subsidy provided for each verified student enrolment could improve the efficiency of the existing system;
 
@@ -1775,7 +1838,7 @@ longer-term needs for infrastructure and systems for post-secondary provision (i
 
 ### 12.13 Technical and Vocational Education and Training
 
-The policy issue is how to strengthen the delivery of technical and vocational education  and  training  (TVET)  to  improve  the  skills  base  of  the  country's work force and to provide alternative pathways for young people. Delivery of TVET in the Solomon Islands is weak. There is a need to integrate TVET more firmly into the formal education system rather than leaving it as a sole responsibility  of  the  'informal'  sector  (the  rural  and  vocational  training centres).  The  desired  policy  outcome  is  the  development  of  skills  and competencies required for economic and social development in the Solomon Islands, with competent educators delivering high quality, relevant, and costeffective services.
+The policy issue is how to strengthen the delivery of technical and vocational education and training (TVET) to improve the skills base of the country's work force and to provide alternative pathways for young people. Delivery of TVET in the Solomon Islands is weak. There is a need to integrate TVET more firmly into the formal education system rather than leaving it as a sole responsibility of the “informal” sector (the rural and vocational training centres). The desired policy outcome is the development of skills and competencies required for economic and social development in the Solomon Islands, with competent educators delivering high quality, relevant, and cost-effective services.
 
 The education system should meet the following criteria:
 
@@ -1789,7 +1852,7 @@ The education system should meet the following criteria:
 
  the quantity of skilled workers trained will be sufficient to meet the needs of the Solomon Islands work force;
 
- opportunities  and  public  support  would  be  in  place  to  encourage individuals  to  upgrade  their  vocational  and  professional  skill  as  an  ongoing activity in order to maintain international competitiveness;
+ opportunities and public support would be in place to encourage individuals to upgrade their vocational and professional skill as an on-going activity in order to maintain international competitiveness;
 
  student  competencies  would  increase  (using  criterion-based  standards) and  the  linkage  to  teacher  skill  improvements  would  be  demonstrated; and
 
@@ -1861,9 +1924,9 @@ The  programme  design  outlined  in  this  second  study  provides  a  sensible
 
 The  MEHRD proposes that a mix of policy  responses  will  be  adopted  to improve  TVET.  The  findings  of  the  two  studies  mentioned  above  will  be incorporated into the mix of policies finally adopted. Some  further international comparisons with other Pacific countries may also be required. As  a  basis  for  planning  and  monitoring,  systematic  and  regular  collections and  analyses  of  data  on  the  training  needs  of  the  economy  will  also  be required in future.
 
-> 2 Thomas, Harold & Bryam, Martin & Galo, Cherry & Maneipuri, Joash & Sito, Dalcy Scoping and Project Design for the Integration of TVET into the Formal and NonFormal Education System of the Solomon Islands , April 2006.
+> 2 Thomas, Harold & Bryam, Martin & Galo, Cherry & Maneipuri, Joash & Sito, Dalcy Scoping and Project Design for the Integration of TVET into the Formal and Non-Formal Education System of the Solomon Islands, April 2006.
 
-During the planning period, investments will focus on improving the match between the education system and the needs of the economy by making the system  more  flexible  and  responsive  to  market  'signals.'    The  concept  of learning  will  be  expanded  to  include  activities  that  occur  outside  formal school  settings,  such  as  community  development  training  and  other  nonformal short courses, and will encompass lifelong learning and greater use of distance education and ICT. The Distance Learning Centre Project, which is designing  opportunities  for  accessing  a  more  diverse  range  of  courses, provides a useful mechanism to assist in developing a more flexible system.
+During the planning period, investments will focus on improving the match between the education system and the needs of the economy by making the system more flexible and responsive to market 'signals.' The concept of learning will be expanded to include activities that occur outside formal school settings, such as community development training and other non-formal short courses, and will encompass lifelong learning and greater use of distance education and ICT. The Distance Learning Centre Project, which is designing opportunities for accessing a more diverse range of courses, provides a useful mechanism to assist in developing a more flexible system.
 
 More work will be needed to define and ensure quality standards in a flexible and 'market-driven' environment.  Qualifications need to be quality assured, either through links with accredited overseas organisations or quality assurance bodies, or (at a later stage) through the development of a Solomon Islands qualifications framework.
 
@@ -1871,7 +1934,7 @@ As a first step, the MEHRD will assist in training providers to document the com
 
 A  quality  assurance  system  based  on  the  competencies  achieved  by  the learner (rather than the course offered) will be required. It would be desirable to seek external advice from a credible international quality assurance agency in  establishing  this  system.  It  would  also  provide  a  credible  guarantee  of quality  if  key  Solomon  Islands  providers  of  TVET  sought  linkages  with accredited  overseas  providers  of  similar  technical  and  vocational  education and  training,  or  sought  independent  accreditation  from  an  international quality assurance agency.
 
-A policy will be developed to provide public support to those of secondary school  age  who  select  technical  and  vocational  training  options  outside schools. This policy might involve a voucher for vocational, technical or life skills training delivered by Government and non-Government providers, or alternatively a subsidy arrangement of some sort.  This response is intended to address access and equity concerns. The review of the secondary school curriculum (referred to in greater detail in the section on Curriculum) would expand opportunities for secondary students to access technical and vocational training.  A complementary policy will target the skill development needs of the adult population.
+A policy will be developed to provide public support to those of secondary school age who select technical and vocational training options outside
 
 51
 
@@ -1879,7 +1942,9 @@ A policy will be developed to provide public support to those of secondary schoo
 
 [[START OF PAGE 52]]
 
-The  MEHRD proposes  that  SICHE  be  assisted  by  an  in-depth  audit  and benchmarking of its technical and vocational courses. This audit should be undertaken by external experts. The purpose of this proposal is to explore possible avenues where the current programmes offered by SICHE can be upgraded. Depending on the outcomes of this audit, it may be appropriate to undertake a feasibility study for the establishment of a national polytechnic or technical and vocational education institution.
+schools. This policy might involve a voucher for vocational, technical or life skills training delivered by Government and non-Government providers, or alternatively a subsidy arrangement of some sort. This response is intended to address access and equity concerns. The review of the secondary school curriculum (referred to in greater detail in the section on Curriculum) would expand opportunities for secondary students to access technical and vocational training. A complementary policy will target the skill development needs of the adult population.
+
+The MEHRD proposes that SICHE be assisted by an in-depth audit and benchmarking of its technical and vocational courses. This audit should be undertaken by external experts. The purpose of this proposal is to explore possible avenues where the current programmes offered by SICHE can be upgraded. Depending on the outcomes of this audit, it may be appropriate to undertake a feasibility study for the establishment of a national polytechnic or technical and vocational education institution.
 
 Additional support will be provided in order to upgrade instructor training. The initial focus will be on strengthening Vanga Teachers' College. Opportunities  (possibly  through  scholarships)  will  be  offered  to  existing instructors  to  raise  their  standard  of  teaching  through  specialised  targeted training  courses  at  Vanga  Teachers'  College.    It  may  be  necessary  to  help SICHE to develop suitable training programmes that aim to train instructors that  have  higher  education  levels,  so  that  a  better  standard  of  technical training can be delivered.
 
@@ -1887,7 +1952,7 @@ The  MEHRD  proposes  developing  the  existing  tertiary  education  system ove
 
 The feasibility of providing short courses will be considered to meet the mix of  skill  needs  required  in  the  workforce  (including  the  public  sector). Examples include   competency-based courses, generic management courses, and  community  outreach  courses.  The  delivery  of  short-term  courses  is  a flexible response in the context of the diverse sectoral needs in the Solomon Islands. Through an appropriate mix of delivery modes,   these courses can be  more  effective  than  formal  courses  provided  in  an  institution.  Short courses can also cater for the variation in skill needs in the economy, and the course content can be tailored more flexibly to target particular needs. Short courses should provide a useful function in bridging the gap between the skill needs of the economy and the skills delivered by current formal training.
 
-There  is  a  need  for  initiatives  and  pilot  schemes  that  foster  an  improved linkage  between  employers  and  education  and  training  providers.  Skills training needs to be driven by the needs of industry. Employers need to have greater input into the mix of skills required of young people emerging from schools and education institutions. For this to occur, opportunities for onjob training in the workplace need to be expanded, pilot skill development projects that are anchored in the workplace should be set up, and consultation with the private sector must be undertaken.
+There is a need for initiatives and pilot schemes that foster an improved linkage between employers and education and training providers. Skills training needs to be driven by the needs of industry. Employers need to have greater input into the mix of skills required of young people emerging from schools and education institutions. For this to occur, opportunities for on-job training in the workplace need to be expanded, pilot skill development projects that are anchored in the workplace should be set up, and consultation with the private sector must be undertaken.
 
 These  initiatives,  and  the  studies  under  way  or  completed  in  2007,  will  be used to develop technical and vocational education policy and the associated National  Skills  Training  Plan  (NTSP).  This  initiative  is  described  in  more detail in the previous section.
 
@@ -1941,7 +2006,7 @@ The expected policy outcome will be trained and competent staff, both in the MEH
 
 #### Government Policy Response
 
-This Framework provides the basis of a capacity building programme for the MEHRD and  Education  Authorities.  The  programme  will  continue  for  8 years. The MEHRD accepts that effective policy development, co-ordination and  management  is  a  cornerstone  of  a  well-performing  education  system. High-level skills are required to manage and give effect to the programme of education  reform  and  school  infrastructure  development.  Critical  skills required  include  efficiency,  organisation  and  delivery  of  programmes  (e.g. teacher  professional  development  programmes),  procurement  skills,  ICTskills,  contract  management and supervision, relationship management, and financial management. Other essential skills include monitoring and evaluation  skills,  and  report  writing  skills.  In  all  these  skill  areas  there  are weaknesses both at MEHRD level,  at provincial education authority level, in other education authorities, and at the school and institution level.
+This Framework provides the basis of a capacity building programme for the MEHRD and Education Authorities. The programme will continue for 8 years. The MEHRD accepts that effective policy development, co-ordination and management is a cornerstone of a well-performing education system. High-level skills are required to manage and give effect to the programme of education reform and school infrastructure development. Critical skills required include efficiency, organisation and delivery of programmes (e.g. teacher professional development programmes), procurement skills, ICT-skills, contract management and supervision, relationship management, and financial management. Other essential skills include monitoring and evaluation skills, and report writing skills. In all these skill areas there are weaknesses both at MEHRD level, at provincial education authority level, in other education authorities, and at the school and institution level.
 
 53
 
@@ -2003,7 +2068,7 @@ The education policy issues include:
 
 - how to constrain recurrent costs;
 
-- how to increase efficiency through rationalisation of schools with nonviable  numbers,  reduced  repetition,  improved  pupil:  teacher  ratios,  and the use of multi-grade teaching and technology; and
+- how to increase efficiency through rationalisation of schools with non-viable numbers, reduced repetition, improved pupil: teacher ratios, and the use of multi-grade teaching and technology; and
 
 - how to improve external efficiency, while protecting personal choice.
 
@@ -2017,7 +2082,7 @@ The Government's response will be to adopt a mix of different policies that have
 
 Staffing  requirements  for  schools  are  set  out  in  the  publication Ministry  of Education & Training: Solomon Islands Teaching Service: Teaching Service Handbook. The  MEHRD  will  examine  whether  further  reform  to  existing  staffing arrangements can be undertaken in the Solomon Islands context.
 
-A  preliminary  examination  of  school  rolls  and  the  teacher  and  student numbers at individual schools has revealed quite wide variations in teacher: student  ratios  and  unit  costs.  Data  from  a  survey  of    primary  schools conducted some years ago shows that there is a wide range in mean school enrolments,  with  a  number  of  very  small  and  very  large  schools  in  each province. There is also variation between provinces as to the mean size of each school, with the mean school enrolment in Honiara, Malaita, Guadalcanal  and  Isabel  being  higher  than  the  national  average.  The  data suggests  that  cost  reductions  might  be  achieved  by  merging  some  smaller schools to achieve larger classes, with one trained teacher to a full class of 30 pupils.  There  is  a  need  for  local  level  planning  to  ensure  equitable  access within provinces, and national level coordination to ensure that children in one province are not inequitably disadvantaged or advantaged.
+A preliminary examination of school rolls and the teacher and student numbers at individual schools has revealed quite wide variations in teacher: student ratios and unit costs. Data from a survey of primary schools conducted some years ago shows that there is a wide range in mean school enrolments, with a number of very small and very large schools in each
 
 55
 
@@ -2025,7 +2090,9 @@ A  preliminary  examination  of  school  rolls  and  the  teacher  and  student 
 
 [[START OF PAGE 56]]
 
-The same survey indicates that some primary schools were not offering all grades. The MEHRD aims to achieve an average of one trained teacher for every class of 30 pupils. The mean class size reported by surveyed schools is significantly less than this, and actually declines between the Preparatory Year and  Standard  6.  Adopting  multi-grade  teaching  will  allow  classes  to  be amalgamated and would result in a need for fewer smaller schools, or fewer untrained  teachers  being  employed.  The  MEHRD  will  consider  whether there  is  scope  for  rationalisation  and  a  better  (and  fairer)  distribution  of resources.
+province. There is also variation between provinces as to the mean size of each school, with the mean school enrolment in Honiara, Malaita, Guadalcanal and Isabel being higher than the national average. The data suggests that cost reductions might be achieved by merging some smaller schools to achieve larger classes, with one trained teacher to a full class of 30 pupils. There is a need for local level planning to ensure equitable access within provinces, and national level coordination to ensure that children in one province are not inequitably disadvantaged or advantaged.
+
+The same survey indicates that some primary schools were not offering all grades. The MEHRD aims to achieve an average of one trained teacher for every class of 30 pupils. The mean class size reported by surveyed schools is significantly less than this, and actually declines between the Preparatory Year and Standard 6. Adopting multi-grade teaching will allow classes to be amalgamated and would result in a need for fewer smaller schools, or fewer untrained teachers being employed. The MEHRD will consider whether there is scope for rationalisation and a better (and fairer) distribution of resources.
 
 On  the  basis  of  projected  efficiency  savings  over  the  longer  term,  the MEHRD will propose maintenance of the current Government allocations to education, and external funding of other costs through budgetary support. To  complement  this  approach,  the  MEHRD  will  move  forward  with preliminary analysis and policy development of efficiency options, leading to a reform and investment strategy, based on the information that is available.
 
@@ -2095,7 +2162,7 @@ National, provincial and community  resources have been directed to establishing
 
 It is essential that a planned approach be taken to rationalise the number of primary schools and to control the rate of establishment of new Community High Schools, and to manage the repair and re-equipping of existing schools. If  the  number  of  school  places  continues  to  expand  without  national  and regional  plans,  quality  will  continue  to  decline  and  the  cost  to  government will expand further beyond its capacity.
 
-An assessment will be made of all school infrastructure, including water and sanitation needs. The MEHRD, in collaboration with the Ministry of Lands, will  assess  the  condition  and  determine  the  exact  location  of  all  schools nation wide. This information will be used in conjunction with census and topographical  data  to  define  the  catchment  for  each  primary  and  junior secondary school, to quantify school repair needs, and identify locations in which schools might be established, amalgamated or reduced. This information will be provided to provincial officials to devise provincial plans for the refurbishment of existing schools and to identify those locations at which new schools will be established. Priority will be given to establishing Community  High  Schools  in  catchments  large  enough  to  provide  student numbers  sufficient  for  all  primary  grades,  and  to  which  junior  secondary grades  may  be  added.  These  plans  may  include  reclassifying  some  primary schools  to  cater  for  junior  primary  grades  (Standard  1  to  3)  with  pupils transferring  to  a  Central  School  when  old  enough  to  travel  the  extra distances involved.
+An assessment will be made of all school infrastructure, including water and sanitation needs. The MEHRD, in collaboration with the Ministry of Lands, will assess the condition and determine the exact location of all schools nation wide. This information will be used in conjunction with census and topographical data to define the catchment for each primary and junior secondary school, to quantify school repair needs, and identify locations in
 
 57
 
@@ -2103,11 +2170,13 @@ An assessment will be made of all school infrastructure, including water and san
 
 [[START OF PAGE 58]]
 
-A  policy  for  school  establishment  and  school  land  acquisition  will  be developed.  Land  on  which  schools  are  located  has  become  a  growing concern with an  increasing  number  of  land  disputes  caused  in  part  by  the expansion of primary schools into Community High Schools. This situation will  be  addressed  by  ensuring  that  all  land  sites  where  schools  are  located must  be  registered  under  the  controlling  Education  Authority.  Results  of topographical  surveys  undertaken  by  the  Ministry  of  Lands  will  be  made available to the MEHRD so that EMIS can incorporate a digitalised schoolmapping format. MOUs and agreements on land acquisition will be signed between EAs and landowners. All school land will be registered by 2015.
+which schools might be established, amalgamated or reduced. This information will be provided to provincial officials to devise provincial plans for the refurbishment of existing schools and to identify those locations at which new schools will be established. Priority will be given to establishing Community High Schools in catchments large enough to provide student numbers sufficient for all primary grades, and to which junior secondary grades may be added. These plans may include reclassifying some primary schools to cater for junior primary grades (Standard 1 to 3) with pupils transferring to a Central School when old enough to travel the extra distances involved.
+
+A policy for school establishment and school land acquisition will be developed. Land on which schools are located has become a growing concern with an increasing number of land disputes caused in part by the expansion of primary schools into Community High Schools. This situation will be addressed by ensuring that all land sites where schools are located must be registered under the controlling Education Authority. Results of topographical surveys undertaken by the Ministry of Lands will be made available to the MEHRD so that EMIS can incorporate a digitalised school-mapping format. MOUs and agreements on land acquisition will be signed between EAs and landowners. All school land will be registered by 2015.
 
 The  MEHRD  will  continue  to  seek  donor  assistance  to  specify  and  cost standard  buildings,  including  multipurpose  buildings  for  science,  home economics,  industrial  arts and  creative arts,  and  make  these  available. Likewise donor assistance will be sought to develop and cost a programme to establish  school  libraries  at  all  Community  High  Schools,  and  to  prepare  a national plan to improve communication with schools and schools broadcasting.
 
-The  Provincial  Plans  and  those  completed  by  the  MEHRD  will  be  coordinated, and consolidated into one National School Infrastructure Development Programme for government approval. Government will seek donor  assistance  in  implementing  the  10-year  Programme  to  establish Community High Schools and to provide sufficient classrooms for all pupils in primary schools and for junior secondary pupils by 2015.
+The Provincial Plans and those completed by the MEHRD will be co-ordinated, and consolidated into one National School Infrastructure Development Programme for government approval. Government will seek donor assistance in implementing the 10-year Programme to establish Community High Schools and to provide sufficient classrooms for all pupils in primary schools and for junior secondary pupils by 2015.
 
 The MEHRD proposes that Education Authorities and other bodies place a moratorium on expanding existing or creating new schools while planning is under way.
 
@@ -2131,7 +2200,7 @@ MEHRD agrees that it needs to support school community needs, not the other way 
 
 It is recognised that students should have better access to learning materials and well equipped libraries .
 
-The response to the earthquake and Tsunami of April 2007 is regarded as a priority.  An  assessment  must  be  made  of  the  damage  in  the  affected  areas and then a response and recovery plan needs to be developed, with plans for infrastructure,  curricula  and  counselling  and  training.  Meanwhile  the  coordination between and collaboration with different stakeholders and Development Partners in this response must be managed by the MEHRD. MEHRD  must document the different phases and experiences of assessment, response and recovery in order to create local capacity in coping with natural disasters in the future and getting less dependent from external TA support for education in emergency situations.
+The response to the earthquake and Tsunami of April 2007 is regarded as a priority. An assessment must be made of the damage in the affected areas and then a response and recovery plan needs to be developed, with plans for infrastructure, curricula and counselling and training. Meanwhile the co-ordination between and collaboration with different stakeholders and Development Partners in this response must be managed by the MEHRD. MEHRD must document the different phases and experiences of assessment, response and recovery in order to create local capacity in coping with natural disasters in the future and getting less dependent from external TA support for education in emergency situations.
 
 Also the refurbishment programme of the School of Education at SICHE is recognised as one of the main areas for improvement of infrastructure.
 
@@ -2201,7 +2270,7 @@ This activity would probably require a major review of the ICT literature, a stu
 
 There is international support for ICT initiatives. The MEHRD will develop a  policy  on  how  best  to  use  this  support,  including  the  use  of  technical assistance  and  volunteers.  NZAID  and  EU  are  supporting  a  regional initiative on educational policy and planning (PRIDE  Project). The MEHRD will explore opportunities for technical assistance and the broader issues  of  collaboration  in  the  development  of  curricular  materials  and instructional software that is appropriate to Pacific Island states.
 
-The cost structure of ICT differs fundamentally from traditional educational inputs.    Capital  costs  (hardware,  software  development,  replacement  of equipment) are relatively high.  The marginal costs of replicating instructional materials and service delivery are extremely low, approaching zero in some instances.    This  factor  implies  a  major  change  in  the  paradigm  of  policy analysis  and  planning,  as  well  as  regional  and  international  collaboration  in sharing these high development costs. The MEHRD will seek to invest the gains  resulting  from  more  efficient  distribution  of  materials  and  improved management and administrative systems in educational improvement initiatives, as a way of offsetting the higher capital costs of ICT investment. The  MEHRD  recognises  that  capital  investment  will  be  required  through Government of the Solomon Islands budgetary support and through external donor  assistance  in  order  to  achieve  the  potential  benefits  that  ICT  might generate.
+The cost structure of ICT differs fundamentally from traditional educational inputs. Capital costs (hardware, software development, replacement of equipment) are relatively high. The marginal costs of replicating instructional materials and service delivery are extremely low, approaching zero in some
 
 60
 
@@ -2209,9 +2278,11 @@ The cost structure of ICT differs fundamentally from traditional educational inp
 
 [[START OF PAGE 61]]
 
-Additional funding will be sought to provide the information technology and training needed to efficiently manage the system. Investments will focus on improving the information base related to ICT and on identifying and testing options  for  using  ICT  at  all  levels  of  the  system.    Given  the  rapid  rate  of change  in  ICT,  the  MEHRD  will  need  the  capacity  to  update  information and revise policies on a continuous basis.
+instances. This factor implies a major change in the paradigm of policy analysis and planning, as well as regional and international collaboration in sharing these high development costs. The MEHRD will seek to invest the gains resulting from more efficient distribution of materials and improved management and administrative systems in educational improvement initiatives, as a way of offsetting the higher capital costs of ICT investment. The MEHRD recognises that capital investment will be required through Government of the Solomon Islands budgetary support and through external donor assistance in order to achieve the potential benefits that ICT might generate.
 
-Experience  throughout  the  world  indicates  that  distance  education  and information technology are extremely important and normally complement each other. The MEHRD will develop a Distance Flexible Learning and elearning policy and ICT-policy.. It will implement  a pilot project in collaboration with  PFnet  and  Solomon  Telecom  to  establish  distance learning  centres  in  rural  secondary  schools.  The  pilot  projects  will  be evaluated  and  the  outcomes  disseminated  to  schools.  The  MEHRD  will continue to work with SIBC and SOE/SICHE to support school broadcasts via pilot projects in three province
+Additional funding will be sought to provide the information technology and training needed to efficiently manage the system. Investments will focus on improving the information base related to ICT and on identifying and testing options for using ICT at all levels of the system. Given the rapid rate of change in ICT, the MEHRD will need the capacity to update information and revise policies on a continuous basis.
+
+Experience throughout the world indicates that distance education and information technology are extremely important and normally complement each other. The MEHRD will develop a Distance Flexible Learning and e-learning policy and ICT-policy.. It will implement a pilot project in collaboration with PFnet and Solomon Telecom to establish distance learning centres in rural secondary schools. The pilot projects will be evaluated and the outcomes disseminated to schools. The MEHRD will continue to work with SIBC and SOE/SICHE to support school broadcasts via pilot projects in three province
 
 The MEHRD proposes the following investments be supported:
 
@@ -2219,9 +2290,7 @@ The MEHRD proposes the following investments be supported:
 
 - developing a system for collection and analysis of information on ICT educational uses and 'best practice' elsewhere;
 
-- dissemination of information on ICT options to school managers, linked with criteria and a system of competitive grants
-
-- under  which  schools  and  other  institutions  could  pilot  test  and evaluate ICT solutions;
+- dissemination of information on ICT options to school managers, linked with criteria and a system of competitive grants under which schools and other institutions could pilot test and evaluate ICT solutions;
 
 - analysis of the cost-effectiveness of  ICT delivery modalities, with special emphasis  on  the costs and benefits of substituting technology for labour, and the potential impact on salary savings relative to costs;
 
@@ -2295,7 +2364,7 @@ At the same time, the MEHRD proposes to undertake a careful, systematic, informa
 
 The MEHRD takes the view that the goals and policy objectives emerging from the provincial education action plans and the national education action plan and subsequent consultations are of sufficient importance and urgency to warrant 'fast track' implementation.   While, in the medium term, these investments may 'outstrip' the Government's capacity to finance recurrent costs, in the long term they will need to be financially sustainable.  Of greater importance, the investments in education and human  resources will contribute  directly  to  economic  growth  and  development  in  the  Solomon Islands, thereby providing the revenue  base necessary  to  make  them financially sustainable.
 
-The MEHRD will therefore continue to argue for (and provide justification for)  increased  annual  Government  allocations  to  education,  and  external funding of recurrent costs through budgetary support.  External support will be  for  a  fixed  period  (say,  for  the  remaining  nine  years  of  this  planning period)  on  a  decreasing  scale.  This  approach  will  be  predicated  on  the assumption that, with economic growth, the Government would be able to eventually fully finance the improved system without continued dependence on external funding, thus  leading to a sustainable system.  A clear plan for implementing efficiency reforms will be developed as an essential precondition  for  seeking  additional  resources.  There  will  be  a  need  for  a transparent  review  of  public  expenditure  to  secure  the  budgetary  support required.
+The MEHRD will therefore continue to argue for (and provide justification for) increased annual Government allocations to education, and external funding of recurrent costs through budgetary support. External support will
 
 62
 
@@ -2303,7 +2372,9 @@ The MEHRD will therefore continue to argue for (and provide justification for)  
 
 [[START OF PAGE 63]]
 
-The  financing of education in Solomon  Islands is supervised by an Education Coordinating Committee which meets every quarter. The proposed approach will require close engagement of the Government with donors, and discussion of how other micro funds supplied by donors will be incorporated  within  a  coherent  framework.  It  has  been  practice  for  a Memorandum of Understanding to be developed to set out understandings of  each  partner.  Partners  are  encouraged  to  sign  up  to  the  MOU,  more recently called a Letter of Arrangement.
+be for a fixed period (say, for the remaining nine years of this planning period) on a decreasing scale. This approach will be predicated on the assumption that, with economic growth, the Government would be able to eventually fully finance the improved system without continued dependence on external funding, thus leading to a sustainable system. A clear plan for implementing efficiency reforms will be developed as an essential precondition for seeking additional resources. There will be a need for a transparent review of public expenditure to secure the budgetary support required.
+
+The financing of education in Solomon Islands is supervised by an Education Coordinating Committee which meets every quarter. The proposed approach will require close engagement of the Government with donors, and discussion of how other micro funds supplied by donors will be incorporated within a coherent framework. It has been practice for a Memorandum of Understanding to be developed to set out understandings of each partner. Partners are encouraged to sign up to the MOU, more recently called a Letter of Arrangement.
 
 Experience with the expenditure of education funds has highlighted deficiencies  in  financial  management  at  Education  Authority  and  school levels. The  MEHRD  has  designed  a  financial management  training programme  for  appropriate  personnel  in  MEHRD,  provincial  education authorities and  schools  that includes  simplified  procedures  for  school financial record keeping, to ensure that funds are expended according to the prescribed purpose and can be accounted for. This training programme will provide more confidence that national and international funds are wisely and correctly used.
 
@@ -2391,7 +2462,7 @@ The approach adopted will be to focus on the Solomon Islands Government two  mai
 
 - To develop (like  for  Secondary  and  Tertiary  education),  revise  (like the Education Act) or finalise (like for Early Childhood) policies for the different sub sectors or cross cutting areas (like Teacher Training and Development, decentralisation processes)
 
-- On the basis  of  a  national  demand,  to  ensure  longer  term  interest, technical  assistance  (including  the  development  of  a  national  TApool)  and  funding  from  Development  Partners  for  the  SWAp, ESIRPII, NEAP (2007-2009), ESF (2007-2015)
+- On the basis of a national demand, to ensure longer term interest, technical assistance (including the development of a national TA-pool) and funding from Development Partners for the SWAp, ESIRPII, NEAP (2007-2009), ESF (2007-2015)
 
 - To  develop  and  implement  a  programme  of  Human  Resource Development and capacity building
 
@@ -2431,7 +2502,7 @@ Formal education commences at the preparatory year, which is delivered at primar
 
 Children continue at primary school for six further years, progressing from standard one (average age 7) through to standard six (average age 12).
 
-The  purpose  of  primary  education  is  to  introduce  children  to  the  skills needed  for writing, reading, mathematics, community  studies, science, agriculture,  art,  music,  physical  education  and  Christian  education.  Primary education is not compulsory, although governments desire that all children in the Solomon  Islands attend primary school. A  child is expected to commence at the age six or seven a nd continue for six years.
+The purpose of primary education is to introduce children to the skills needed for writing, reading, mathematics, community studies, science, agriculture, art, music, physical education and Christian education. Primary education is not compulsory, although governments desire that all children in the Solomon Islands attend primary school. A child is expected to commence at the age six or seven and continue for six years.
 
 There  were  533  primary  schools  in  2005.  117  Communit6y  High  Schools also  offered  primary  education,  making  a  total  of  650  schools  offering primary  education.  100,356  pupils  were  enrolled  in  primary  education  in 2005.
 
@@ -2465,7 +2536,7 @@ Statistical detail about schools, teachers and school enrolments is included in 
 
 ### The Teaching Work Force
 
-School attendance returns seek information on teacher: name, gender, dateof-birth, marital status, denomination, registration number, academic qualification, status as trained or untrained, subject specialisation, salary level, post and/or date of entering post.
+School attendance returns seek information on teacher: name, gender, date-of-birth, marital status, denomination, registration number, academic qualification, status as trained or untrained, subject specialisation, salary level, post and/or date of entering post.
 
 The  MEHRD  has  published  a Teaching  Service  Profile  Report  2005 which summarises this data.
 
@@ -2473,7 +2544,7 @@ The Digest  of  Education  Statistics  2005 identifies  739  ECE  teachers,  3,9
 
 Women  are significantly under-represented in both the primary and secondary teaching service.
 
-Management of the teaching service is complex. New graduates are registered by the Teaching Service Commission (TSC) and appointed on probation to a school administered by a provincial or church education authority. Although the  salary  of  registered  teachers  is  met  by  the  national  government,  the teacher is considered to be an employee of the relevant Education Authority (EA). The EA is able to transfer teachers between schools under its control. Transfers between EAs are initiated by the teacher, and must be approved by both EAs. The Teaching Service Division (TSD) and TSC do not control the transfer  process.  The  expectation  is  that  the  EAs  will  keep  the  MEHRD informed of these changes, and of teacher absences, but this communication does  not  always  happen.  When  informed,  the  TSD  instructs  Treasury  to adjust payroll as required. Frequently the TSD is not informed or fails to update its records or inform Treasury.
+Management of the teaching service is complex. New graduates are registered by the Teaching Service Commission (TSC) and appointed on probation to a school administered by a provincial or church education authority. Although the salary of registered teachers is met by the national government, the teacher is considered to be an employee of the relevant Education Authority (EA). The EA is able to transfer teachers between schools under its control. Transfers between EAs are initiated by the teacher, and must be approved by both EAs. The Teaching Service Division (TSD) and TSC do not control the transfer process. The expectation is that the EAs will keep the MEHRD informed of these changes, and of teacher absences, but this communication does not always happen. When informed, the TSD instructs Treasury to adjust payroll as required. Frequently the TSD is not informed or fails to up-date its records or inform Treasury.
 
 ### Curriculum, Assessment and Inspection
 
@@ -2515,29 +2586,62 @@ The Pacific Senior Secondary Certificate (PSSC), taken at the end of Form 6, is 
 
 [[START OF PAGE 70]]
 
-NON-FORMAL, VOCATIONAL AND TECHNICAL EDUCATION OPTIONS
-
 ## Appendix 2: Structure of the Formal & Non-Formal Education System
 
-BASIC        EDUCATION
+FORMAL EDUCATION OPTIONS
 
-DEGREE
+TERTIARY EDUCATION
 
-COURSES
+DEGREE COURSES
+
+DIPLOMA COURSES
+
+CERTIFICATE COURSES
+
+USP FOUNDATION EXAMINATION
+OR
+SPBEA REGIONAL FORM 7 EXAMINATION
+
+Exit to Non-Formal Options
+
+FORM 7
+TERTIARY FOUNDATION YEAR
+
+EXAMINATION
+PACIFIC SECONDARY SCHOOL CERTIFICATE (PSSC)
+
+Exit to Non-Formal Options
+
+UPPER SECONDARY EDUCATION
 
 FORM 6
+SECONDARY SCHOOL
 
+EXAMINATION
+SOLOMON ISLAND SCHOOL CERTIFICATE (SISC ACADEMIC) AND
+(SISC TECHNICAL VOCATIONAL)
+
+Exit to Non-Formal Options
+
+FORM 5
 SECONDARY SCHOOL
 
 FORM 4
-
 SECONDARY SCHOOL
 
-FORM 3   SECONDARY SCHOOL
+FORM THREE LEAVING CERTIFICATE
+AND
+FORM FOUR SELECTION EXAMINATION
 
-FORM 1  SECONDARY SCHOOL
+Exit to Non-Formal Options
 
-FORM 2   SECONDARY SCHOOL
+BASIC EDUCATION
+
+FORM 3 SECONDARY SCHOOL
+
+FORM 2 SECONDARY SCHOOL
+
+FORM 1 SECONDARY SCHOOL
 
 STANDARD 6
 
@@ -2551,107 +2655,27 @@ STANDARD 2
 
 STANDARD 1
 
-SICHE TVET SHORT
-
-COURSES
-
-NTTT UNIT
-
-ICT PROVIDERS
-
-TECHNICAL
-
-COLLEGES
-
-AND RTCs
-
-PRIVATE SECTOR
-
-TRAINING
-
-CENTRES
-
-COMMUNITY
-
-EDUCATION
-
-AND ADULT
-
-LEARNING
-
-PROGRAMMES
-
-UPPER          SECONDARY          EDUCATION TERTIARY   EDUCATION
-
-DIPLOMA
-
-COURSES
-
-CERTIFICATE
-
-COURSES
-
-EXAMINATION
-
-SOLOMON ISLAND SCHOOL CERTIFICATE (SISC ACADEMIC) AND
-
-(SISC TECHNICAL VOCATIONAL)
-
-FORM THREE LEAVING CERTIFICATE
-
-AND
-
-FORM FOUR SELECTION EXAMINATION
-
-FORM 5
-
-SECONDARY SCHOOL
-
-Exit to Non-
-
-Formal Options
-
-Exit to Non-
-
-Formal Options
-
-Exit to Non-
-
-Formal Options
-
-NON-FORMAL
-
-EDUCATION
-
-OPTIONS
-
-FORMAL EDUCATION OPTIONS
-
-DISTANCE
-
-LEARNING
-
-FORM 7
-
-TERTIARY FOUNDATION YEAR
-
-USP FOUNDATION EXAMINATION
-
-OR
-
-SPBEA REGIONAL FORM 7 EXAMINATION
-
-Exit to Non-
-
-Formal Options
-
-EXAMINATION
-
-PACIFIC SECONDARY SCHOOL CERTIFICATE (PSSC)
+PREPARATORY YEAR
 
 EARLY CHILDHOODEDUCATION
 
-PREPARATORY YEAR
+NON-FORMAL EDUCATION OPTIONS
+
+NON-FORMAL, VOCATIONAL AND TECHNICAL EDUCATION OPTIONS
+
+SICHE TVET SHORT COURSES
+
+TECHNICAL COLLEGES AND RTCs
+
+PRIVATE SECTOR TRAINING CENTRES
+
+ICT PROVIDERS
+
+NTTT UNIT
+
+COMMUNITY EDUCATION AND ADULT LEARNING PROGRAMMES
+
+DISTANCE LEARNING
 
 70
 
