@@ -1,2022 +1,1280 @@
 [[START OF PAGE 1]]
 
-# AN  ACT  TO  REPEALAN ACT  TO  ADOPT  THE  EDUCATION LAW  OFA.  D.  2001,  APPROVED JANUARY  8,  2002 AND  ALL I,AWS  AMENDATORY THERETO, TO  AMEND  CERTAIN pRovrsroNs  oF  CHAPTER 26  OF  THB  EXECUTIVE LAW AND  TO  ENACT IN THEIR  STEAD A NEW  EDUCATION REFORM ACT  OF  2011, TITLE  10,  LIBERTAN CODE  OF LAWS  REVISED.
+# AN ACT TO REPEAL AN ACT TO ADOPT THE EDUCATION LAW OF A. D. 2001, APPROVED JANUARY 8, 2002 AND ALL LAWS AMENDATORY THERETO, TO AMEND CERTAIN PROVISIONS OF CHAPTER 26 OF THE EXECUTIVE LAW, AND TO ENACT IN THEIR STEAD A NEW EDUCATION REFORM ACT OF 2011, TITLE 10, LIBERIAN CODE OF LAWS REVISED.
 
-APPROVEDAUGUST  8,20tl
+APPROVED AUGUST 8, 2011
 
-PUBLISHED  BYAUTHORITY MINISTRY OF  FOREIGN  AFNAIRS MONROVIA,  LIBERIA
+PUBLISHED BY AUTHORITY
+MINISTRY OF FOREIGN AFFAIRS
+MONROVIA, LIBERIA
 
-PRINTEDAUGUST  9,20tl
+PRINTED AUGUST 9, 2011
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-\
+# AN ACT TO REPEAL AN ACT TO ADOPT THE EDUCATION LAW OF A. D. 2001, APPROVED JANUARY 8, 2002 AND ALL LAWS AMENDATORY THERETO, TO AMEND CERTAIN PROVISIONS OF CHAPTER 26 OF THE EXECUTIVE LAW, AND TO ENACT IN THEIR STEAD A NEW EDUCATION REFORM ACT OF 2011, TITLE 10, LIBERIAN CODE OF LAWS REVISED.
 
-# . ' , AN  ACT  TO REPEAL AN  ACT  TO  ADOPT  THE  EDUCATION t-AW OF  A,  D.  2001,  APPROVED JANUARY 8, 2AA7  AND ALL  I-AWs  AMENDATORY THERTTO, TO AMEND  CERTAIN PROVISIONS OT  CHAPTER 26  OF  THE  EXECUTIVE LAW, AND  TO  ENACT IN  THEIR  STEAD A NEW  EDUCATION REFORM ACT  OF  2011, TITLE  10,  LIBERIAN CODE  OF LAWS  REVISED.
-
-REPUBLIC OF  LIBTRIA
+REPUBLIC OF LIBERIA
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-i
+# AN ACT TO REPEAL AN ACT TO ADOPT THE EDUCATION LAW OF A. D. 2001, APPROVED JANUARY 8, 2002 AND ALL LAWS AMENDATORY THERETO, TO AMEND CERTAIN PROVISIONS OF CHAPTER 26 OF THE EXECUTIVE LAW, AND TO ENACT IN THEIR STEAD A NEW EDUCATION REFORM ACT OF 2011, TITLE 10, LIBERIAN CODE OF LAWS REVISED.
 
-# A};  .{CT  TO  R.EPEAL  AN  ACT  TO  ADOPT  THE  EDUCATION  LAW  OF  A.  D'  2001. APSRI]\iED ,JANUARY  B,  2AA2  AND  ALL  ],AWS  AMENDATORY THERETO' TO AIIEI,ID  CERT.A,]N  PROVISIONS  OF  CHAPTtrR  26  OF  THtr  EXECUTIVA L'{W'  AND TO ENACT II{  THEIR  STEAD  A  NEW  EDUCATIOI\  REFORM  ACT  OF 2OTI,  TNLE }O  LIBERIAN  CONE OT'I,A-WS REVISEI].
+It is enacted by the Senate and the House of Representatives of the Republic of Liberia in Legislature Assembled:
 
-.ft  rs  e,nftr't€ rI  lsg  the  Sen.ate  a1d the  ,F{ouse o.f' Retsresenfaffues o.f the lleptthlic oJLibena in l,egislahtre  Assembled"
+## PREAMBLE
 
-## PI{EAMBLE
+WHEREAS the Constitution of the Republic of Liberia, recognizing the vital role assigned individual citizens for the social, economic and political well-being of Liberia, enunciates as one of the General Principles of National Policy of the Government of Liberia that there shall be “equal access to educational opportunities and facilities for all citizens and residents to the extent of available resources” and that “emphasis shall be placed on the mass education of the Liberian people and the elimination of illiteracy”; and
 
-WI:IEREAS the  Constitution of  the  Republic  of  Liberia., recogt"tiz-ing thc  vital  fole assignecl irrclividtral  citizens  for  thc sr:ciai,  ecouomic  and  poiitical  wcll-bcing of Lii:eria,  enunciates els otlc  of  the  Cienernl  Principlcs of  National Polic"  crf the Gove  rnnrcnt of Liberier  that thcrc slrali be "cqua1  access to cducaticlnari opportunities  and  iacilities  for  all  citizcns  ancl residents  to  the  extent  nf  availalllc rcsiourccs" ancl  t.irar "crnphasis  shall  bc  placccl  on  the  marss education of  the Libcrian  peoplc ancl the eliminettion of illiteracy";  rrncl
+Whereas the Government of Liberia realizes that education facilitates poverty reduction and is essential for the development of individual citizens and national growth, and that education, especially Basic Education, equips people with the relevant skills to participate in essential economic and social activities of the nation; and
 
-whercas the  Government of  Liberia realizcs  thal education facilitates po\'erty reduction  ancl is  essential  for  thc  clcr,clopmeut  of  inctividr-tal  citieens  ancl natinnal qrorvth,  and  tt:at  eclucerlion, espcciallv  Basic  Eclucal-i<ln,  equips  pe?pl! with tirc relevant  skills t.o participate i n csscutial econon'ric at:d  social  ttctii'ilies  of  the nation;  ancl
+Whereas the Government of Liberia acknowledges that there is an increasing need, consistent with the constitutional directive, to ensure access to and availability of high quality educational opportunities for all citizens and residents, without prejudice; and
 
-Wherc*s  the  Gorrernn:ent of l-ihcria acknon4edges :hat  thcrc  is  atr increasing  need, consistent  lvitlt  thc  constitutir:nerl c{irective,  to  ellsllre  access tr: and  availabilitV of high quralitv  cducatiotral opportunities for al1  citizetrs  and residents' withoul prejudice; and
+Whereas the Government of Liberia believes that education promotes teamwork and national unity, and allows for the development of patriotism and national aspirations of the nation’s citizenry; and
 
-Whcreas  the  Governrnent  of  Liberia  bciicves  thal eclucation  promotes  leamr'r'ol-h and  nationai nnil.y,  ancl  allorvs  for  thc  clcvelopmctrt r:f  patriotism atld  11ati()nal aspirations  of l-hc  nation's  citizctltl:  aucl
+Whereas the Government of Liberia recognizes that education has become more relevant and important in the current technological age and the increasing complexities of the Liberian society and its interaction with the international community, all of which require a new educational philosophy; and
 
-Whercas  the  Government  of  Liberia  rccognizes tirat  education  has  beconrc llorc relevant  and i mportant. i n tl:e cnrreut tcchnological age  and thg i ncreasirrg complexities  of  the Liberian society  ancl  its i ntcraction urith  the  intcrnaitional commurrity,  all of r.vhich  rcquire  a new educat.ional  philosophy;  and
+Whereas the Government of Liberia is convinced that the dissemination of educational programs is essential to the development of the total individual and a literate society; and
 
-Whcreas  the Governmcnt of Libcria i s convinced that the disscmination of educational  programs  is esscntierl  to  thc  ilcvelopnrcnt  of tlic  tr:tal  indil'idual  eirrci  a l i t c r a t e   s ncietY;  and
+Whereas the Government of Liberia believes that education contributes to the development of national capacity for good governance and the development of a system that promotes equity, relevance, quality and universality of opportunities; and
 
-whereas  the  Governmetrt  of  Liberia  belicves  that education contribuLes  to  thc developrnent  of  natioilal capacity for  goocl g0vernallcc ar:d  the  cleveioptnerrl  of  a systenl  that  promotes equity, reietan"c, qrrality  amcl utt"tivcrsalily clf opportlrnilies; and
+Whereas the Government of Liberia believes that education motivates in the learner respect and appreciation for the dignity of every human being, enables the development of appreciation for the dignity of labor, and instills in each individual the desire to attain self-reliance and self-actualization; and
 
-believes that  eclucation  rnotivatcs  in  the  lean'er clignily of every hun:air being, enables the di{r:ity  of labcr,  and  instills  iu  cach  irrclividual seH-actr-ralization  I and Whercas  the  Government of  Liberia resllecl and appreciation for lhq development  of appreciation for  the the clesire  lo attair:  self-reliarrce  and
-
-i  '
-
-&,:
-
-Edttcatian frefwtrr  Adt  of 2011
-
-Pagc  Z of 4?
+Education Reform Act of 2011                                      Page 2 of 42
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-i
+Whereas the Government of Liberia maintains that, there is a continuous need for improvement in the management and coordination of the education system of the nation.
 
-\\'l:er-ras  the  Gorrernment ol  Liberia maintains  that,  therc  is  a  continuous  need for irnprnl.ernent  in  the  tranagemcnt and  coorrlinatir:n of  tlre  education $ystem  of  lhe l l a t i o n .
+Now therefore, in order to meet the aspirations outlined above, a new Education Law is hereby enacted as follows:
 
-i \ ; o , ; r . thcrefore.  in  orcler to  meet  the  aspirations  outlined  above- a  new  Bducation Larv is  herebv  enactcrl  as foilow*:
+## CHAPTER-1: GENERAL PROVISIONS
 
-## CHAPTER-I: GENERAL  PROVTSIONS
+### 1.1 Enactment of a New Education Reform Act:
 
-### 1.1 Enactment  of a l{errr  Education  Reform Act:
+There is hereby enacted a new Education Law, to be known and titled The Education Reform Act of 2011, and constituting Title 10 of the Liberian Code of Laws Revised.
 
-Thcre  is  hereb"Y  enacted  a  llew fiducation  Reform Acl  of 201 1  , oI  Larvs Revisecl. Eclncation  Lnw,  to  be  l<nown and  rilled  The ancl constituting  Title  10 of the  Libcrian  Code
+### 1.2 Short Title and Name:
 
-### L.2 Short  Title  *nd  Name:
+This Act constitutes and shall be cited as The Education Reform Act of 2011.
 
-This Act constitulcs  and  sh;tll be citecl  ais  The Eclucation Relornr Act of 20l  l,
+### 1.3 Repeal of the Education Law of 2001 and all Laws Amendatory Thereto:
 
-### 1.3 Repeal  of the  Education Law  of 2OOL and  atl  Laws Amendatory Thereto:
+The Education Law of 2001 and all Acts amendatory thereto are hereby repealed and in their stead shall be the Education Reform Act of 2011. Further, Chapter 26 of the Executive Law and all laws amendatory thereto, in so far as they are at variance or inconsistent with the Education Reform Act of 2011, shall be deemed amended and superseded by the new law to the full extent of the variance or inconsistency. Hence, Section 26.1 of the Executive Law and which specifically retains the existence of the Ministry of Education as an agency within the Executive Branch of Government, and to be headed by a Minister, is expressly retained and Section 26.2 thru Section 26.64 of the Executive Law are hereby superseded and amended by this Act.
 
-Thn  Erlucrrtion  Law  of  200 1  ancl  all  Acts  atncndatory thereto  are  hercby repcalcd  and  in  thcir steacl shall  be  the  Education Rcfclnn  Act  of  20i1. Fr.rrtl.rer, ChapLer 26  of tl-re  Executive  Law  and  all  laws  arncndatory  thereto, i n  so far  as  tlrcy  are  at  variance  or  inconsistent  with  the  Edr.tcation Reform Act of 2011,  strall tre dcemecl  arnerrded  ancl superseded by the new lar,v  to the [!l] extent of  thc  variance  or  inconsistcltcy. Hencc,  $ection 26.1  of  lhc Execulive  Law  and  whictr  specifically retains  thc  existence <;f  the  Ministry  ni Eclucaition  as an  agency u'ithin  the  Execntive Branch  of Governmsnl,  arrd Lo be headecl by a Minister,  is expressly retained and  Sectiotr 26.2 thru  Sectiorr 26.64"  of the  Excc;rtivc  Law are hereby  supcrscclecl ancl atrlenclcd b-rr  tlris  Acl .
+### 1.4 Scope and Application of the Act
 
-### 1.4 $cope  and  Application of  the  Act
+1.4.1. This Act shall apply to and cover the establishment, management and supervision of all schools within the Republic of Liberia. Without any prejudice to the broadness of the scope and application of the Act, stated herein, the Act shall specifically apply to:
 
-- 1.4,1. This  Act shall apply to  and  coyer  the  establishmcnt, managernent  arrcl supervision nf ait- schools  wjtirirr thc Republic of Liber:ia.  Without any prejr-rdice  to  the  broaclness of  the  scopc  ftr:cl application of  the  Act,  stalcci hcrcin,  the Acl  shall  specifically appl-v  tor
+- a) All Public schools;
+- b) All private schools;
+- c) All faith based schools;
+- d) All boarding schools;
+- e) All partners involved in the field of education;
+- f) All vocational institutions;
+- g) Teacher training colleges and institutions, except where specifically excluded by this Act.
+- h) All universities and colleges;
+- i) Maritime and Forestry institutions
 
-- A1l Public schools;
-
-- bl All  private  schools;
-
-- All faith based scl'roolsi
-
-- A1l  boarding  schools;
-
-- of ecl'-tcation; c) All  partners involvcd  in  the  field
-
-- Ail  vocationa"l institutions;
-
-- i . nstilutions,  t:xcept  whcrc  spccifically C)  Teacher training collegcs  and excluded bY this  Act.
-
-- All unir.ersities  ar:d colleges;
-
-- i \ Maritime and Forestry  institrltions
-
-Edilcotlon  Refarm  Act  o! 20J.1-
-
-Page  3  of  42
+Education Reform Act of 2011                                      Page 3 of 42
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-j
+1.4.2. Notwithstanding the application of the Act stated in sub-section 1.4.1 above, the Act shall not apply to the following institutions:
 
-- L " . , L Xiliu'ittrstanding  the appiication  of the Act stated  in sub-section  ]  4,1 abole  , the Act shall not apply to thc following  institutions:
+- a) Military Training Centers;
+- b) Police/Security Training Institutions.
 
-- nl  h{iiilary  Training Centers;
+### 1.5 Objectives of the Act.
 
-- Policc/Seer.rriry Trainirrg I n s t i t t t l i o n s .
+The Objectives of this Act are to govern and regulate the educational system and the delivery and management of that system, and shall encompass the following:
 
-### 1.5 Objectives of,the Act.
-
-The Objectives  clf  this Act are to govcrn and regulate the educational systern arncl the ctelivery  and  ma.nagement  of that  system. and  shall erlcompass  the following:
-
-- Onsure the provision of quality educati<ln  to all citizens at cvery level of the eclucational  strata;
-
-- bl  Promote eque-l  acccss  to educational  opportunities for a11 Liberians, without discrimination  of an-v  lcind;
-
-- promote  and sustain public conficlerlce ir, the educational  sy$tcm;
-
-- Decentralize  :he  eclucational  system so that  it  has  maxilnum elfcct throughout the countrY; d)
-
-- Promote ancl protecl thc  concept of human  rights  for all  Liberians, bnth with respect  t0 acccss  and opporlunities  for qr;ality  eclucirtiort:
-
-- Reciucc the high rate ar:d  lcvcl  of illiteracy  in thc courrtry: |l
-
-- Promotc  gcn,:le r eqLritl' and  e  quality  thror,lgfiout the  eclucatit:nal system  arrd  r:ppot'tunities for educatiou; gl
-
-- Prodlce ggod  citizcns  possessing the  necessary  skills for thc reconstructior and cleveloptnent of ti:e country; lr)
-
-- Errslre the proper and adequate  fiove1.nance and managelnent  ol the eclUcaticln sector co:rsisterrt  with  thc  natintral edlication philoscipiry and the education  dcvclopment  goals.
+- a) Ensure the provision of quality education to all citizens at every level of the educational strata;
+- b) Promote equal access to educational opportunities for all Liberians, without discrimination of any kind;
+- c) Promote and sustain public confidence in the educational system;
+- d) Decentralize the educational system so that it has maximum effect throughout the country;
+- e) Promote and protect the concept of human rights for all Liberians, both with respect to access and opportunities for quality education;
+- f) Reduce the high rate and level of illiteracy in the country;
+- g) Promote gender equity and equality throughout the educational system and opportunities for education;
+- h) Produce good citizens possessing the necessary skills for the reconstruction and development of the country;
+- i) Ensure the proper and adequate governance and management of the education sector consistent with the national education philosophy and the education development goals.
 
 ### 1.6 Definitions
 
-l n  this  Act,  the  belorv terms  and  phrases  sl:ail  have the  rncaning  established l or  eacfi  in  this  section  unless  otherwise  cxpressly  inciicated  herein;  and, unless  the  context olherwise requires, worcls  and  phrases  used  in  this  Act ar:cl  clefined in  this  section,  or any  definitions contained  in  other  parts  of this Act, shall have the meauings  ascribed to them  herein:
+In this Act, the below terms and phrases shall have the meaning established for each in this section unless otherwise expressly indicated herein; and, unless the context otherwise requires, words and phrases used in this Act and defined in this section, or any definitions contained in other parts of this Act, shall have the meanings ascribed to them herein:
 
-- al "Assirtant Minister"  refers to  all  of thc  Assistanl  Ministcrs  lhart heacl the  technical  bltreaus of the  Ministry;
+- a) “Assistant Minister” refers to all of the Assistant Ministers that head the technical bureaus of the Ministry;
+- b) “Basic Education” refers to education from grades one through nine and includes continuing or adult education. Grades one (1) through six (6) will constitute “lower basic education” or “primary education”, while grades seven (7) though nine (9) constitute “upper basic education” or “junior secondary education”;
 
-,,Basic  Eclucation" refers to  education from  grades one through  nine and includes continuing or adult eilucation.  Gr:ades or:e  {1}  throug}r six  (6) will  ccnstitute  "lorver  basic education" or "primary  educaticln", while'  gi:ades s€v8r1  l7l though  nine {91  constitute "upper basic b) educalion" or "junior  seconclary eclucalion';
-
-'
-
--
-
-/
-
-:
-
-I
-
-I
-
-l ana 4 9f 42
-
-i -
-
-Educatian Refuru Act  af  2011
+Education Reform Act of 2011                                      Page 4 of 42
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- cl ,'Chairperson" refcrs  to  thc  hcad  of the  Education Advisoly  Bcard  ancl the heads  o{  school  boards, the i r eads  of scl:ool Boards of  the cnunties, tl:e  Monrovia consoiidatecl schnr:l  Systern.  and  Boards of prir,'ate and  fa"ith basecl sr:horrls;
+- c) “Chairperson” refers to the head of the Education Advisory Board and the heads of school boards, the heads of School Boards of the counties, the Monrovia Consolidated School System, and Boards of private and faith based schools;
+- d) “Comprehensive Tuition” means and covers school fees, boarding fees (restricted to boarding schools), textbooks, two-sets of uniforms and all other fees such as laboratory, student activities, library, West African Examination Council (WAEC) exams, and sports;
+- e) “County Education Officer” refers to the senior education administrator in each of the counties and other consolidated school systems;
+- f) “Deputy Minister” refers to the Deputy Ministers of Education for Administration, Instruction and Planning;
+- g) “District Education Officer” refers to the senior education administrator in each of the educational districts of the counties;
+- h) “Early Childhood Education” (ECE) refers to children’s education from ages three to five;
+- i) “Faith-Based” schools refer to schools that are administered by religious institutions;
+- j) “Full Tuition” means and covers only school fees, boarding (restricted to boarding schools), WAEC exams, and textbooks;
+- k) “Government” refers to the Government of Liberia;
+- l) “House” refers to the House of Representative of the Republic of Liberia (the lower House of the Liberian Legislature);
+- m) “Minister” refers to the Minister of Education;
+- n) “Ministry”, “Ministry of Education” or “MOE” refers to the Ministry of Education or any of its component administrative units or agencies;
+- o) Nine-three-four or 9-3-4 refers to the structure of the education system as defined in Chapter 4, Section 4.1 of this Act;
+- p) “Parent” means: the parent or guardian of a child or the person legally entitled to custody of a child; or the person who undertakes to fulfill the obligation of a parent or guardian.
+- q) “President” refers to the President of the Republic of Liberia;
+- r) “Principal” refers to the senior education administrator of an early childhood education, elementary, junior, or senior high school;
+- s) “Rural” refers to an area or locale, town, village or otherwise in a non-urban area and with a population of less than 2,000;
 
-- ctJ ,,comprehensive Tnitiorr"  means  anci ccrrer$ school  fees, boarding  fees ' l r estricted  to  boarding  schools), textbooks,  two-sets  of uniforms  and ali  other fees  such  is l aboratory, sfuctent  activities,  1ibrary.  Wcst African  Examination Council  (WA'ECI exanl$'  anci sports;
-
-"county Edr-tcation officer" refers to the sunior education administrator i n  each of  the  counties  ancl trther  consolidated  schottl systems;
-
-- f,)  "l-)epttty  Minister"  refcrs  to  the Aclrninistration,  [ustri-rction  and Dcpttty Ministers of  Eclucatiort  fcrr Planning;
-
-- cl ,,Distric( Education oificcr" re  fers to the scnior educatiotr acln:inistratclr in eacl:  of the echlcationatl districts of the counties:
-
-,,Bariy Ohildhcod  Eclucation" (ECE)  rcfers  to chilclren's  education  from ages  three to [ivc;
-
-,,Faith-Based"  schools refcr  to  schools that errc aclnrinistered  by rcligiou  s institution  s:
-
-"Full Tttitiot't"  means and covers  only school  fees,  boarding {restrictcci to boarcling  schor:ls), WAEC exams,  and textbooks;
-
-"Govcrnment"  refers to the  Gorternment of Liberia;
-
-- l ) ,,Housc,,  refers  to  the  House  of  Reprcsentative  of  the  Repttblic  of Liberia  (the lcin'er  House of tlre Liberian  Legislature);
-
-- rnl ' * Minister"  relcrs  to l]re Minister  of Edncation;
-
-- n| *'Mit'ristt-'g", "iilit"tistry  of  Edusation" Eclucalion  or ally  of its component or "MOE" refers to thc Ministry of aclministrative utrits  clr  age ncics;
-
-- Nine-three-fo'-tr  or system  as defitred  in 9-3-4 relers  to l he strltcture of  the  educatton Chapter  4, Section 4' i  o[ this  Acl;
-
-- p| ,,Parent,'  il]eans:  the  parent  or  guarciian  r:f a chilcl  0r  the  pef$ol]  lcgally errtitlecl  to  custr:dy  oi  a  child; or  the 'l?ersoll  rvhs  undcrtakes to  fr-rlfill Lhe  obtigation  of a parent  or guardian'
-
-"Presiderlt' refers  to the  President  of the  Republie  of Liberia;
-
-"Principalo refers to childhood educationo the  senior  educalion administrator of  an  eariy elementary,  jLrn:or' or senior high  school;
-
-"Rt1ral"  refers  to  an  area  or  locale'  town' urban  area and  with  a pcpulaticn  of lcss village  or:  olherrvise  in  a nontharr 2,00O;
-
-,''ll'
-
-{
-
-Page 5 oi 42
-
-,''ll'
-
-{
-
-EdlJcatlan Reform  Art of 2411
+Education Reform Act of 2011                                      Page 5 of 42
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-\
+- t) “School” means an approved licensed and accredited or accreditation-eligible entity that provides education in accordance with the requirements of the Ministry. The Minister is empowered to provide such other definition to the term as the judgment of the Minister meets the standard set by the Ministry regarding a learning institution;
+- u) “Secondary Education” refers to education from grades ten (10) through twelve (12) and constitutes “senior secondary education”;
+- v) “Senate” refers to the Senate of the Republic of Liberia (the upper House of the Liberian Legislature);
+- w) “Special Education” refers to the education services provided for those who are highly gifted and those who are physically and mentally challenged;
+- x) “Superintendent” refers to the education administrator of the Monrovia Consolidated School System or to the education administrator of any other similar consolidated school systems established in other counties of the Republic;
+- y) “Teacher” refers to all licensed facilitators of learning throughout the entire education system;
+- z) “Tuition” covers and refers to only school fees;
+- aa) “Urban” refers to a city and or town with a population of 2,000 and above as defined by the Ministry of Internal Affairs and the Liberia Institute for Statistics and Geo- Information Services (LISGIS).
 
-i
+# CHAPTER-2: THE MINISTRY OF EDUCATION
 
-"School" means  an approved licen.sed  and  accredited nr ;rccrcililatian' cligibic e  ntit-y that providcs cduca,lir:n i n aocurdant:s u'ith the: requirements of  the  Ministry" The  Minister is  empoq"ered  1o prr:r'ide: such  other  definition to  the  telrn  as  the  judgment ol  tllc Minisler msfts the sta.ncia.rrj  sel tty the h'Iinistry reglarding a l carrring i n s t i t t   t t i o n ;
+### 2.1 CONTINUITY AND FUNCTIONS AND POWERS OF THE MINISTRY
 
-- r-rl "Secondary Education' refers to eciucation from grarles ten (10) through  twelve (12) and constitutes  "senior secondary eclucation";
+#### 2.1.1 Continuity of the Ministry
 
-- vl "Senatte" refers  to  the  $enate  of  the  Repubiic  oI  Liberia  {the  upper Hor-rse  of the  Liberian  Legislature) ;
+The continuity of the Ministry, established in the Executive Branch of the Government under the Education Law, 1956 Code of Laws, and continued under section 26.1, Chapter 26, of the Executive Law, Title 12, Liberia Code of Law Revised (1973), and reaffirmed under the Education Law of A. D. 2001, and charged with the supervision of the nations’ educational system and the implementation of the Education Law, is further recognized in that status.
 
-- wJ "special  Education"  refers to the edncation  sen'ices provided for those rvho  are highly gifted arrd  those wi:o arc physicaliy and mentally challengcd;
+#### 2.1.2 Functions and Powers of the Ministry
 
-- xl "srlperintendent" rcfers l o the education adminislrator of thc Monrr:via Consoliclated School Syslctn or t"o thc cclucation ;rclministrator of any othe  r similar consolidatecl school systerns established  in  rither counties  clf  t.he  Rcpublicl
+The Ministry shall have the following functions:
 
-- yl "Teachcr"  refcrs  to  all  liccnscd  facilitators  of learnirrg  throughout thc entire  education  $Ystenr;
+- a) Provide and ensure the provision of quality education to all citizens and residents without discrimination;
+- b) Develop and sustain an education system that allows all students to realize their talents and capabilities irrespective of gender, race,
 
-- zl "Tuition"  co\Iers ancl rcfers to clnlv school fces;
-
-- aa)"Urban"  refers  to  a  citSr  ancl or  town  with  a  population of  2'000  and above  as  defined  b]'  the  Mirristry  of  lr-rtcrnal Affairs  ancl the  Liberia Institr:te  for Statistics  ancl Cieo-  Inforrnzrtion Services (LiSGIS),
-
-# CHAPTER-2: THE MINISTRY OF  EDUCATION
-
-### 2,L CO}ITIITUITY  ANP  FUITC?IONS  AND  POWERS  OF THN  MIIVTSTRY
-
-#### 2.1.,1  ContinuitY of  the  l\{inistrY
-
-The  contingity of  the  Ministry, establishecl in  the  Executive  Branch of  the Gor:ernment urrcler the  Ech-rcation  Law,  1956  Codc  of  Larvs, and  con(inusd urrder section 26,1,  Chapter  26, r:f the  Executivc  Law, Tille  i2,  Liberiat  Codc pf  Law  Revised  {1"973),  and  reaffirmccl under the  Education Lar'v  of  A.  D' 2001,  ancl chargerl r,vith the  supewision  ctf the  nations'cdncational systcnr ancl the  implementation oi  thc  Eclucation  Larv, is further  recognized in  that stallrs.
-
-#### 2.tr.2  Functions and  Fowers  of the  Mintstry
-
-Thc  Ministry shall  have  the  follor'ving  functionsr
-
-- a| Provide  and  ensure the  provision of  quality educatiotr and rcsidents withor-tt  discrimiIration; to  all  citizcns
-
-- all  studcnts ttl gender,  race. b) Der''elop and  sustain r-ealize  their taients an  eclucation  sYstem  tl:at allows and cetpabilities irr:espective of
-
-/lt-''
-
-Page 6  or  42
-
-/lt-''
-
-Page 6  or  42
-
-Edacstian  Sefornt  Act  uf 2A1  1
+Education Reform Act of 2011                                      Page 6 of 42
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-rcligion,  social or economic status  or baekground;
+religion, social or economic status or background;
 
-- cJ  Re  duce i l l i t e r a c y by pror,iding qr.ralily, realislie and practica] cducalion at all ]cr:els for all cilizens ancl r-esidcnts rvithout discrimination;
+- c) Reduce illiteracy by providing quality, realistic and practical education at all levels for all citizens and residents without discrimination;
+- d) Enhance the rights and uplifting the status of all citizens and residents in society through well-designed and directed quality education programs;
+- e) Improve or cause to be improved the management and delivery of education efficiently with respect to process, policy, and procedures;
+- f) Coordinate the education programs administered by the Government, the private sector and faith based educational institutions to ensure uniformity and affordable access and opportunities to education;
+- g) Facilitate and ensure accountability in the education sector, in line with recognized and Government-approved management and administrative practices and procedures;
+- h) Promote, accentuate and implement Government’s interventions and policies in the education sector as an enabler, provider and or manager;
+- i) Develop and implement, in coordination with the Ministry of Information Culture and Tourism, the Ministry of Internal Affairs, and other relevant Government agencies, a Liberian study (local language and cultural policy and program) to be pursued in the schools and to form part of the education curriculum;
+- j) Develop and implement uniform academic and administrative standards in the education sector throughout the nation;
+- k) Establish and enforce a minimum level of learning requirement for each level of the education system below that of the universities/higher education;
+- l) Develop and implement, in coordination with the Ministry of Youth and Sports, a well-defined sports and athletics program in all schools to develop in the nation’s students a sound mind and a healthy body;
+- m) Develop and facilitate the advancement of level-specific curricula, and guidelines for textbooks development and/or acquisition and distribution;
+- n) Develop and facilitate the expansion of an appropriate and level-specific teacher-training curriculum, including guidelines, processes, standards and institutional arrangements;
+- o) Develop and implement the nation’s public scholarship programs based on pre-determined national manpower needs, identified in consultation and collaboration with the relevant agencies of the Government;
+- p) Develop the appropriate guidelines for sustainable manpower
 
-- cl)  Enhance the rights and r-rplifting  Lhe  status of all citizens  and reside nts in society through rnre l1-desigr"lecl and clirectecl  quaiity education  programs;
-
-- lmprove or  cause  tn  be  improved the  management and  delivery of education  efliciently  r.vith respect  to  process,  policy,  and  procedures;
-
-- IJ Coordinatc the  education programs  adrninistered by  the  Cor,crnnrcnt. thc  private  sectol  and  iaith  basecl educational  institutions to  ensr-rre unifonnity and affolcla.ble  access and  opportr-tnities to edr-rcation;
-
-- Facilitate  and  ensrire  accountability i n  the  edr:catior'l scctcrr. in  line udth rccognized anci Governnrentapprovecl trltlnagerrre  ltt anci adminislrative practiccs  and  procedures;
-
-- Prornote, nccentuate  and  inrplement  Gc;vcrnn:erlt'$ intor\lcntiol:Is and policies i n the education sector  a$  an enabler, provider and or mallager;
-
-- i ) Derrelop  and i mple ment, i n coorclination with tire Ministryr ol' Inforr:ration  Culture  arrd Tourism,  thc  Minislry  of Internal  Affairs. and ot.hcr rclevan;  Go\relnment.  agcncics, a  Lihcrian  stucly (ir:cal lerngr:i:tge ancl cultural  policy  and  program)  to  be pursued  irr the  schools and  to form  part  of tne education curricu.lum;
-
-- Devclop and imple ment uniform academic ancl aclministratiire stanciarcls  in  [he cclucation sector thraughont. the natiorr;
-
-- Establish  and  enforce  a  minimum l evel o[  learning  rcquiremenr  for each l cvel of l hc education sv$Lr:m below thert of the ur"riversitics/  highcr  cdu  cationi
-
-- Dcrrelop and  implcmcnt, i 1] coordinirtiorr  rvith  the  Ministry of  Youth and  $pr:rts,  a weli- defincd sport{i and  elthletics program  in  all  schoois to  clevelop  in  the  natiort's students  a sonnd  mind  and  a healthy  body;
-
-- rn) Dcvclop and  faciiitate thc  aclvancemenl of lerrcl-specific  curricula,  and guidelirrcs for textbooks develciprncnt and/or acquisition and distribution;
-
-- Develop  and facilitate  thc expansiotr  of  an appropriate and  levclspccific  teacher-training  curricnlum, i ncludin g  guidclincs,  processes, standarcls anC inslitutionaI  arrelngemcnts;
-
-- Develop  and i mplement thc nation's public scholarship pfograms based on prc-determined national manpower ncecls, identifiecl in consultErlion ancl  collaboration rvith tire relevant agencies of the Gor'ernr:rent;
-
-- Develop l he appropriate guidelines for sustainable manpolver
-
-t
-
-Pagc  7 al 42
-
-Education Refnrnt  Act  $f 2Q1.1
+Education Reform Act of 2011                                      Page 7 of 42
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-dei'eloptnenl thror-rgh a scholarship  program  focused on  the cieveloprrent of the  skills,  technical  and  scientific  knorarledge reclui.red  for dcl,elol:ntent ancl prr:gress in  a complex global environrnent;
+development through a scholarship program focused on the development of the skills, technical and scientific knowledge required for development and progress in a complex global environment;
 
-- Dr:r,elnp protc)ilype designs  of  schooi  furniture ancl  thc  con$truction of public school  buildings at  all  lerrels  of the  education  system;
+- q) Develop prototype designs of school furniture and the construction of public school buildings at all levels of the education system;
+- r) Develop and construct public libraries and public school libraries and sports arenas for greater learning and extracurricular activities; and
+- s) Certify, license, and accredit teachers, school administrators and support staff.
 
-- Dei,,eiop  and  construct public  librarics and  public school  libraries  ancl sports  arenas  for  greater  learning  and  extracurricular activities;  and
+### 2.2 ORGANIZATION AND STRUCTURE OF THE MINISTRY
 
-- Certify, l i c ense,  and  accredit  teachers,  school  administratrors  and support  staff.
+#### 2.2.1 Appointment of the Minister
 
-### 2.2 ORGAI{IZATION AFID S?RUCTURE  OF THE  MTNISTRY
+Consistent with Chapter 26 of the Executive Law, Title 12, Liberia Code of Laws Revised, the Ministry of Education shall be headed by a Minister appointed by the President, with the consent of the Senate.
 
-#### 2,2.L Appointnnent  of the  n{inistor
+#### 2.2.2 Departmental Composition of the Ministry
 
-Consistent  witl:  Chaptcr  26  of  the  [xecutivc Law, ?it1e 12,  Libcria  Code of Laws  Rcr.'isccl,  the  Ministry of  Education shall  be  hcadcd  by  a  Ministcr appointe d by the  President, ivitlr the consent of the Senatc,
+- a) The Ministry shall comprise of three Departments, viz; the Department of Administration, the Department of Instructions and the Department of Planning, Research and Development, each of which shall be headed by a Deputy Minister appointed by the President, with the consent of the Senate. In addition to the functions stipulated in this Act, the Deputy Ministers shall exercise such other functions and duties as may be assigned or delegated to them by the Minister;
+- b) Each Department shall be organized into bureaus, each of which bureau shall be headed by an Assistant Minister appointed by the President, with the consent of the Senate;
+- c) The Ministry shall, within the framework of the overall education system, have the additional co-functional institutions:
 
-#### 2,2.2 Departmental Composition of the  Ministry
+  i. The National Education Advisory Board, created herein to serve as an advisory body to the Minister; and
 
-- The  Ministry  shali  comprisc  of thrce  Dcparlments,  r,iz; lhe  Department  of Aclministralion, r-hs  Departsrelt of  Instrtrctinns  and  the  l)cpartrnent of Planr"ring,  Research and  Derrelopmcr"ll., carch  of which  shall  be headed lly  a Deputy  Minister appointed  bv  l-he President,  with the  consent  of  the Senate.  ln  additrorr  to  the  fnnclior-Ls  stipulated i n  this  Act,  thc  Deputy Ministcrs shall exercise  such otlter'  [r.r:rctiorrs  an.d  duties as  mav  be assignecl  or deleg,atcd  to the  m b.r'  the Ministcr;
+  ii. Education Centers for Excellence required to be constituted by the Minister consisting of, but not limited to: the (1) Center for Certification and Accreditation; (2) the Center for Curriculum Development; (3) the West African Examination Council, and (4) such other centers as in the judgment of the Minister are necessary and critical to the promotion and achievement of an education system of excellence.
 
-- b| Each  Dep;rrtment  shall  be organizccl intc  bureaus,  each of whiclr  bureaLr shall  be  headecl by  an  Assistant Mjnistcr erppointcd  by  thc  Pi"esidcr-rL. with  thc consent  of thc  Sr:natcl
+## CHAPTER-3: PRINCIPAL OFFICES OF THE MINISTRY AND THEIR FUNCTIONS
 
-- The  Ministry  shal1,  withirl  the framcrvork r:f thc  overall educatiorr systcrn, have l"he  acldilional co-functioneil institutious:
-
-- i .   The National  Educatiorr Advisory Board,  created herein  lo  sen/e as an acivisory body to the  Ministcr;  and
-
-- i i .   E d ucation Centers  for  Excelience  required  ln  be  constitr"rted by  the Mirrister consisting of, but not l l - mited to: the (  1l Ccnte  r for Certification and Accreclitation; tzl the Ccnter for Cuniculum Developrnent; (3) the  Wes1" African  Examination  Council,  and  (4) sucir other  centers  as  in  thc  judgment of  the  Minister are  necessary  and crilicai to  the  prourotion and  achicvsment of  an  educal.iorr  systern  of excdllence.
-
-,,!
-
-,'
-
-i'
-
-## CHAPTER-3: PRINCIPAL OFFICES FUNCTIO$S MII$ISTRY AND  TITEIR OS' THE &
-
-,,!
-
-,'
-
-i'
-
-Fducation  ftu{ur rrt Act  0f 2OJ j
-
-Poge  B  0i 42
+Education Reform Act of 2011                                      Page 8 of 42
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-### 3.1..  OFFICE OF THE MII{ISTER
+### 3.1. OFFICE OF THE MINISTER
 
-#### 3.1.1  Miniet€r  as Head of the Ulinistry
+#### 3.1.1 Minister as Head of the Ministry
 
-th{:r  N,ilirristcr shall be the hearl  ol the Ministry and, consistent  with Chapter 26 of rhe Executive  Law, Title 12, Liberian Code  of Laws Rei'isecl, shall be appointed  b1,the  Presidcnt,  rvith  the consent  of the Senate'
+The Minister shall be the head of the Ministry and, consistent with Chapter 26 of the Executive Law, Title 12, Liberian Code of Laws Revised, shall be appointed by the President, with the consent of the Senate.
 
-#### 3.1.2 Duties  and  Functions of the  Minister
+#### 3.1.2 Duties and Functions of the Minister
 
-The Ministcr  slrall:
+The Minister shall:
 
-- el1  Have  full supervision of  all 1:ublic, private, and  faith based  Basic  ancl Sccondary  Schools, and Vocational  l:rstitutions  to  tl'Ie extent  provided by this  Acr  and  permittecl by  tl:e Act  e$tablishing  tl"re  National  Cotnrnissiotr tor  Higher  Education  and  other  such  Acts.  Thc  power  and  superwisions stipulaled herein  shall  ir:clude,  but  not  be  limitecl  to  fclrmulation  and slandardization  of curricuhrm  and ednc:ation programs  and  policics;
+- a) Have full supervision of all public, private, and faith based Basic and Secondary Schools, and Vocational Institutions to the extent provided by this Act and permitted by the Act establishing the National Commission for Higher Education and other such Acts. The power and supervisions stipulated herein shall include, but not be limited to formulation and standardization of curriculum and education programs and policies;
+- b) Assess the conditions and operations of all public, private, and faith based Basic and Secondary Schools and of other educational institutions and the general state of education in Liberia, and designing and implementing measures to cure any defects revealed from the assessment;
+- c) Be responsible for the conceptualization, formulation, design, development, and implementation of the nation’s education guidelines, regulations, plans, policies, programs, and goals for the conduct and governance of all schools within the Republic of Liberia;
+- d) Serve as chairperson or ex-officio member on relevant National Advisory Boards, Commissions, or Extra-Ministerial National Councils, Tribunals, and Committees;
+- e) Establish and supervise a National Scholarship Program focused on the manpower needs of the country as either an enabler, provider, or supervisor;
+- f) Any other functions necessary for the achievement of the goals stated in this Act.
+- g) Be a part of the inter-ministerial committee that has relevance to the establishment of education/school systems as it relates to mineral Development Agreements (MDAs) that are formed as the result of concession agreements.
 
-- Assess  the  conditions and  opcrations of  all  public, prirrate,  and faith based Basic  and  Secondary Schools and  of other  educational  institutions anci the general state o[  education i n Liberia, and designing  and implemcnting measllres to cnre any defects rcvealcd frr:m the assessmentl
+### 3.2 DEPARTMENT OF EDUCATION FOR ADMINISTRATION
 
-- cI  Be rcsponsible for the conceptualization, formulation. design, clevelopment, ancl implcmentation of  thc  nation's  cducat.iotr guidelir:cs, regplations, plans,  poiicles,  pfograms.  and  goals  for  the  conduct  and governance of ail schools rvithin  the Republic of Lil:criil;
+#### 3.2.1 Reaffirmation of Existence of Department of Education for Administration
 
-- cl)  Serve as  chairpe::son or  cx-officio rterr:l:gr  on  rclevant  National  .Aclvisor-y Boarcls, Commissions, or  Exlra-Ministcr.al  Natioual Councils. ' l r i b r t n a l s . and Committeest
+The existence and status within the Ministry of a Department for Administration, affirmed under Chapter 26 of the Executive Law, Title 12,
 
-- Establish and supen'ise  a manpowcr  needs o[  the supervisor; Natiorral  Scholarship  Program  focused  an the country  as  r: ither  atr  enabler,  provicle r,  nr
-
-- 0 Any  other  functions  ncccssary for  the  achievement  of thc  goals stated in t h i s  A c t .
-
-- Bc  a  part of  lhe  inter-ministerial committec  that  has  reievance  to  the establishment of education/school systems  as  it rclatcs to mitlerai Developmcnt Agreernenls {MDAs)  that are forrned as the result ol' concession agreements.
-
-### 9.2 PEFARTMEHT OF EDUCATIOI TOR  ANMII{IETRATIOTV
-
-#### S.2.L Reaflirmation of Existence of Department of Educatiorr for Adrninistration
-
-The existence and status within the Administraticn, affirmed  uncler  Chapter Ivlinistry of a DcPa.rtment for 26  of  the  Exccutive  Laur, Title  12,
-
-I ,
-
-I ,
-
-.& 4',,
-
-Pagn I  of  41
-
-Educatlon ftvfarrn  Act  ut 2011
+Education Reform Act of 2011                                      Page 9 of 42
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-Libenan  Code of Larvs Revisecl,  and  a$ statcd  in  section  2.2.21a1  cri  tl'ris  Act, i r crein  reaffirmcci.
+Liberian Code of Laws Revised, and as stated in section 2.2.2(a) of this Act, herein reaffirmed.
 
-#### 3.2,2 Functions of the  Departrnent of  Oducation for  Adrrinistration
+#### 3.2.2 Functions of the Department of Education for Administration
 
-Thc Dcpartmenl  of Edr-icalion for Administratioir shall  bc r^esponsible  for thcr fiscal  affair-s, [ruma:r  resources  mallagement, procttrcirlcrrt, sccllritv, ancl supervisinn  of constnrction,  renovation,  and  nraintcnancc  o1ofiicc  iar:ilitrcs, erpansion, and  maintellance of  schoois  and the  general  serwices of  the lvTi n  i  str"v.
+The Department of Education for Administration shall be responsible for the fiscal affairs, human resources management, procurement, security, and supervision of construction, renovation, and maintenance of office facilities, expansion, and maintenance of schools and the general services of the Ministry.
 
-#### 3.2.3 Appointment of  Deputy Linister for  Administration
+#### 3.2.3 Appointment of Deputy Minister for Administration
 
-The  Department of  trclr"rcation  for  Adr:-rinlstration  shall bc  headed  by  ir l ) eputv f,,'1ir-ristcr for  Aclrnirristralicir"r, erppointed bv  the  Presrdetrt with l he corrsent  clf  the senate.
+The Department of Education for Administration shall be headed by a Deputy Minister for Administration, appointed by the President with the consent of the Senate.
 
-#### 3.?.4 Duties  and  Functions of the  Deputy  Minister for  Administration.
+#### 3.2.4 Duties and Functions of the Deputy Minister for Administration.
 
-The Dcputy  Minister  for Admirristration  shall  sen'e as tlic  principal  clepr"tty tc: the  Mirrister.  and  1n thc  abscnce of  l"he  Iiilinistcr from  Liberia,  or  Lhe cieath, disability, resignation, rc'morral of  the Minister from officc,  or  other act rcndcring  thc  Ministcr nnal:lc  to  perfcrnn  the  riutics  and  filnctions of  thc office,  1-he Depnt\r Ministe  r'  for Acimirristrntion shall scrlrc  as Mitrister pcnding  the  appointmenl  of a  sttt:ccssor  Ministcr.  The  DepLttv Mir:istcr lbr Adnrinistration  slrerli  also heu'e  tlrc fr:llorr.'ine dulics  atrd flurctiotrs;
+The Deputy Minister for Administration shall serve as the principal deputy to the Minister, and in the absence of the Minister from Liberia, or the death, disability, resignation; removal of the Minister from office, or other act rendering the Minister unable to perform the duties and functions of the office, the Deputy Minister for Administration shall serve as Minister pending the appointment of a successor Minister. The Deputy Minister for Administration shall also have the following duties and functions:
 
-- Bc rcspr:nsible fclr thc irchnir:istralivc, financiarl and  fiscal aflairs  of lhc Ministryl
+- a) Be responsible for the administrative, financial and fiscal affairs of the Ministry;
+- b) Handle human resources management activities of the Ministry;
+- c) Have supervisory responsibility for procurement, custody and distribution of supplies and equipment;
+- d) Ensure the security of the Ministry and manage its properties;
+- e) Be, in consultation with the Deputy Minister for Planning, responsible for the Supervision of construction, renovation, maintenance and expansion of schools;
+- g) Act as Minister in the absence of the Minister;
+- h) Perform all other tasks assigned by the Minister.
 
-- l - r )  I { a n dle  hnr:rarr rcsollrces lranagcnclrl arctir{tics  ol thc  Ministry;
+#### 3.2.5 Technical Bureaus of the Department of Education for Administration
 
-- I-{tLrrc supcn'isclrr.rc'sporrsibilitv lbr procLlfemcnt,  cLtsttcl_\'attcl clistributir:n  cf suppiics ilt-tcl cclt  i l : m c n t   :
+- a) The Department of Education for Administration shall have the following Technical Bureaus: (1) the Bureau of Fiscal Affairs and Human Resources Development; and (2) the Bureau of General Administration. Each Bureau shall be headed by an Assistant Minister appointed by the President with the consent of the Senate.
 
-- cl)  Ensrrrc thc sccuritv of tl.rc  Nllrristr.f a:rcl  nranagc  its propcrtic:s:
-
-- Be  ,  in  consr-rltation  s'ith  ihc  Dcpr-rty  l\{inistcr  for  Flanning,  r'e sponsiblc for l hc Supenrisior:  ol'  construction, renovatir-rn, mairttctiancc attcl expansion of schc:ols:
-
-- g|  Act as Minister in the abseuce  of the Minister;
-
-- Perform all othcr  tasks assignecl  by thc  Minister.
-
-#### 3.?.5  Technical  Bureaus of the  Department  of Education  for Administration
-
-- The  Departr:rent  of Edr:caticln for Adrninistration shall  havc  the follorvirrg Teci:trical Burear-ts:  {1} the Bureau eif  Fiscal Aifairs and Httmiln Resources Developn:ent;  and  (2)  the  Br-rreau of  Gencral  Adrnir:istratiorr Each Burean  sliali  bc heacted  by an  Assistant  Minister  appointed  by the Pre  sidcnt  lvith  the consent of the Senate  .  , /,'.
-
-/ -
-
-, ,
-
-?
-
-i
-
-l
-
-;
-
-t
-
-i
-
-,
-
-Edutatwn  Refarrn  Att uf 2A11
-
-tlage  10 of 42
+Education Reform Act of 2011                                      Page 10 of 42
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-\.
+#### 3.2.6 (1) the Bureau of Fiscal Affairs and Human Resources Development.
 
-#### 3,2,6  {11  the  tsureau of Fiscal Affairs  a:ed  Human  Reeources Development.
+The Assistant Minister for Fiscal Affairs and Human Resources Development shall act as Deputy Minister for Administration in the absence of the Deputy Minister from Liberia, or in the event of death, disability, resignation, removal of the Deputy Minister from office, or other acts rendering the Deputy Minister unable to perform the duties and functions of the office, the Assistant Minister shall served as Deputy Minister pending the appointment of a new Deputy Minister. Under the direction of the Assistant Minister, the Bureau shall be responsible for:
 
-The  Assistant Minister for Fiscal  Affairs  and Human Resources  Deveiopment sirirll  act as Deputy Ministcr for Adrninistration  in ll:tc  absencc  of the Depr-rty Minisrer  lrom  Liberia.,  or  in  the  event o{  death,  disability.  resignatio:r. rcmcval  ol  the  Deputy  Mirrisler  from  r:ffice, or  otlier  acts  rende::ing the Deputy Minister unable to perfr:rm the dr"rties and furrctiorrs  of the office,  the Assistant  Minister slrall sened as Depr:ly  Ministsr pending the appcintrnenl of a ner,v Deputy Minister.  Under the direction  of the Assistant  Minister,  the Br:reau sl:al1  be resPonsible  for:
+- a) Management of the budget and finances of the Ministry;
+- b) Management of the personnel and human resources of the Ministry;
+- c) Develop and strengthen the human, structural and other capacity of the Ministry;
 
-- Managernent of the btLdget and finances  af the Ministry':
+#### 3.2.7 (2) the Bureau of General Administration
 
-- Malagement n[ the pcrsonnel  and human resotlrccs  of thc Mitristty;
+The Bureau of General Administration, which shall have the following functions, shall be headed by an Assistant Minister appointed by the President, with the consent of the Senate.
 
-- Dcvelop  ancl strengthen  the human, strLtcturai  and othcr capacit,v of the Ministry;
+- a) Supervise the directors within the Bureau
+- b) Procurement of materials and/or logistics for use by the Ministry and the education system, as determined by the Minister on recommendation of the Bureau through the Deputy Minister;
+- c) Oversee and direct supervision of the warehouses of the Ministry;
+- c) Oversee, coordinate and direct the distribution of consumables required for the smooth operations of the Ministry and the programs of the Ministry, including textbooks and curricula for all levels of the education system;
+- d) Oversee, direct and coordinate activities leading to the construction, renovation and expansion of public schools, and provide such assistance of the same to private schools and other educational and learning institutions as considered necessary and affordable by the Ministry;
+- e) Ensure that the Ministry’s properties, including its buildings, schools and other facilities are secured, and ensure the provisions for such security as deemed necessary;
+- f) Provide and coordinate transportation for the Ministry and its components, including and where determined to be affordable, for students and schools for which the Government is responsible;
+- g) Keep record(s) of all transactions of the Ministry and institutions (including schools) responsible to, or affiliated with, or having a relationship with the Ministry;
 
-#### 3.2,7 12)  the  Bureau of General Administration
-
-The  Burcau  of  Gc:eral  Actminislration, v;hich  shall  havc  the  fclllowing fr.rnctions,  shall  be  headecl  by  arn Assistant  Mininter  appointed by  the Presiderrt, with the consent  of thn Senat€.
-
-- a!  Supervise  the directors  rvirhin  tlre  Burealt
-
-- Procurement  of materials  and/or l ogistics  for usc  by  the  Ministry  and the eclurcation system, as determined by the Minister oI'! recomrnendation  of the Bureau  tl"rrough the Deputy  Minister;
-
-- cI Oversee and  dircct  supewisior:  of thc  rvarchouscs of th.e  Ministry;
-
-- Oversee,  coorclinate  arrd direct thc distribution of cottsttn:al:les requirccl for  thc  smooth  operations  of tltc  Ministry and  the  programs of  ihe  Ministry,  i nclucling  textbooks  and  curricula for  all  levels of llrc education  $YStem;
-
-- Oyersee, clirect and  coorctinate activities  leading  to  the  conslruction, rellovation ancl  expar:sion of public schools, and provide such assistancc  of  the  sarnc 1.<: privatc  schools  and  other  eclucational and l earning i nst:tutions ers  cot-tsidered  ncccssary  and  affordablc  by  the Ministry;
-
-- Ensrtre that  the  Mirristt'V's  properties,  inclLrding its  builclings'  schools and  other  facilities are  secured,  an<l ensure the  provisions for  such security  as deemed necessary;
-
-- Provicle and coordinate transportation for the Ministry and its components, inclucling ancl  where determinecl to  be  affordablc, for strtdents  and  schools  f<rr  which  the  Ocvernment is rcsponsible;
-
-- Iteep record{s} of all transactions (inclucling schools) responsible to, relationshiP with  the  MinisttY; sf  the  Ministry  ar:d irrstitutir:n; or  affiliated  with, or  having  a ., t''/
-
-"/a
-
-oy''
-
-Ecluculion Reforn Act  of 2017
-
-Page 11  of  42
+Education Reform Act of 2011                                      Page 11 of 42
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-- i"rl  Be  r*sponsiblc for  the  printing and  publication of  matcrials for  the I{inistr;y,  its  associates, affiliates, and  schools,
+- h) Be responsible for the printing and publication of materials for the Ministry, its associates, affiliates, and schools.
 
-- S.2.g l n ail6itiorr t(]}  Ihe frlregoirrg, the Assistant Ministcr for General Administration, as head  of the  Bureau,  shall  perform  and  exercise  in  respect ol the  Bttreau,  the  follorving  duties  and  iunctjons:
+3.2.8 In addition to the foregoing, the Assistant Minister for General Administration, as head of the Bureau, shall perform and exercise in respect of the Bureau, the following duties and functions:
 
-$upervise  the clirectors wilhin the Bureau;
+- a) Supervise the directors within the Bureau;
+- b) Perform such other duties and functions as may be assigned from time to time by the Deputy Minister for Administration or by the Minister;
+- c) Report and be responsible to the Deputy Minister for Administration.
 
-- cluties  and funcljons 6rs may  be  assigned  from Deputy Minister for  Administraticln or  b1l  the b)  Perform such  other time  to  time  bY the Minister;
+### 3.3 DEPARTMENT OF EDUCATION FOR INSTRUCTIONS
 
-- Report  and be resPonsible tn the Deputy tulinister  lbr Adrninistration.
+#### 3.3.1 Reaffirmation of Existence of the Department of Education for Instructions
 
-### 3.3 DPPARTMNIVT  OF EDUCATTOI{  TOR IIiISTRUCTIONS
+The existence and status within the Ministry of a Department for Instructions affirmed under Chapter 26 of the Executive Law, Title 12, Liberian Code of Laws Revised, and as stated in section 2.2.2(a) of this Act, is herein reaffirmed.
 
-#### 3.O.  1  Reaffirmation of Existence of the Department Instructions of Education for
+#### 3.3.2 Functions of the Department of Education for Instructions
 
-The  exislence  ancl  status  within the Ministry of a Dcpartmcnt  tor lnstrr.rctions  affirnrecl  tltlclel:  Chapter 26  o(  thc  Executive Law, Titic  12' Liberian  Cocle  of Larvs  Rcvisecl, ancl  as statecl  in  section  2'2.2(al  of lhis Act' is hercin reaffirmed.
+The Department of Education for Instructions shall be responsible for the development and supervision of all instructional programs at all levels of education, including training programs in vocational and technical institutions, and shall be responsible to ensure that standards of instruction established the Ministry covers adhered to by all schools and educational institutions under this Act. The mandate of the Department shall include:
 
-#### 3.3.2  Functions of the Department  of Education for Instructions
+- i. Development and implementation of programs for Early Childhood Education;
+- ii. Development and implementation of programs for Basic and Secondary Education;
+- iii. Development and implementation of programs for Teachers Training Education;
+- iv. Development and implementation of programs for the teaching of Liberian study (language, culture, customs, etc.)
+- v. Development and implementation of programs for the teaching of Vocational and Technical Education and a comprehensive career development program, in collaboration with the Department of Planning Research and Development of the Ministry, and the Ministry of Youth and Sports.
 
-'l'hc  Department of Education for lustrllctions shall be respntrsible  for thc clevelopment  ancl supervision of  all  irrstruclional  progfarlls  at  all  lel'els 6f e6ucaiio:r,  includinfi training programs  in yocational  and technical ipstitutions, and shaii be responsible to ellsur:e that star:dar-ds of instmclion established  the  Ministry covers  aclhered  to by  al"l  schools  and educational instittttions  under this Act.  The mandatc r:f the Dcparlment shall include:
-
-- Developnrent and implementation ol'  programs for Early chiidhood Education;
-
-- Development and i r nplementation of programs for Basic nnrl Seconclary Eciucation;
-
-- Development and  implenrentation of  prcrgrams  for  Teachcrs  Trelining Education;
-
-- Development and implementation of  program$ for the teaching of Liberian  study  (language, culture,  customs,  etc')
-
-- of Yor-rth  and $Porls. v. Development ancl  irnplementation of  programs for the teaching oi Vocational and Tecirnical  EdUcation  and a  comprchensivc carccrdeveiopment program, i n collaboration with thc Dcpartancnt oi planning Researcfr anci Development  of the  Ministry, and  the  lVlinistrv
-
-Page u  of  4?
-
-Educatian Relurnr Att  af  2011
+Education Reform Act of 2011                                      Page 12 of 42
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-i
+- a) Collaborate with the Department of Planning, Research and Development in ensuring that the content, materials and pedagogy of the various levels of the national education system are in consonance with the policies, programs and standards of the Ministry;
+- b) Guide dialogue on the conceptualization, design, and development of a national education philosophy, and ensure that all curricula reflect the norms of that philosophy;
+- c) Have responsibility for the rational decentralization of the management and administration of the nation’s educational programs aimed at improving the efficiency and effectiveness of the education system; and
+- d) Provide leadership to the County’s Education Systems to ensure a coherent and comprehensive educational program that reflects uniformity in the curricula designed by the Ministry.
 
-- el Collaborate with  the Department  of Planrring, Rescarcl't  anri Dcvelopn:ent i n  ensuring  tl"lat t,hc  contert,  materials  and  pedagog'  of tl-re  r,ariotts lcvcls ol  the  national eciucatiein  system  are  in  corrsonance q'ith thc policies, prograrns arrcl  standards  of the Ministty;
+#### 3.3.3 Deputy Minister of Education for Instructions: Appointment
 
-- bl Guide  dialogr:e cn  thc  co:rceptualization,  design,  ancl dcvclopurent  o[  a national  education  philclsophy, arld  ensure  that  all  curricula relecl thc nornrs 0f that  philosophy;
+The Department of Instructions shall be headed by a Deputy Minister for Instructions who shall be appointed by the President with the consent of the Senate.
 
-- Havc  responsibility l or  the  rational  dece:rtralization  ol  the  managetnetrt ancl  adrninistration of rhe nation's educational prograrns aimed at i mprclving the efficiency and  effecliveness uf the edr:cation system; and
+#### 3.3.5 Bureaus within the Department of Education for Instructions
 
-- Providc  leadership to thc Count]"s Education systcms to  ensure a i : oheren  I and comprehcnsivc e  ducaliclnal prograrn that re  flccts uniformity i n  the  curricula  dcsigned by  the Ministry.
+The Department of Instructions shall have four (5) technical bureaus each headed by an Assistant Minister appointed by the President with the consent of the Senate:
 
-#### 3,3.3 Deputy  Minister of  Education for  lnstructions: Appointment
+- 1) The Bureau of Early Childhood;
+- 2) The Bureau of Basic and Secondary Education;
+- 3) The Bureau of Teacher Education;
+- 4) The Bureau of Science, Technical, Vocational and Special Education; and
+- 5) The Bureau of Student Personnel Services
 
-The  Department ol  Instructions shall  be  headed  by  a  Deprity  Mir:isler  fnr Instructions  who  shall  be appointed  by the  Pr:esident  witir  the cottse:t  of lhe: Senate.
+#### 3.3.6 Mandate and Core Function of the Bureau of Early Childhood Education.
 
-#### 3.3.5 Bureaus  wlthin the  Department of  Education for  lnstructions
+The mandate and core function of the Bureau of Early Childhood Education shall include, but not limited to the following:
 
-' f he Dcparrtment of lnstructions shall  havc  fr:ttr  (5) technical  bureaus  each heacled  by an Assistant  Minister  allpointcd  by thc  President tlritlr the consent of t l r c   S e t r a t c : .
+- a) Design, develop, implement, coordinate, monitor and review all early childhood education programs, in line with national policy developed by the Ministry and endorsed by the Government, and in conformity with the Ministry’s stated objectives and priorities for such level;
+- b) Ensure that the early childhood education programs are in line with national policy objectives and the priorities of the Ministry of Education for such educational level;
 
-- The Bureau of Early Childhood;
-
-- The Br"treau of Bersic and Secondary  Education; 2l
-
-- Thc Burcau of  Teachcr  Edncation: 3l
-
-- The Burealt r:f Science,  Tcchnir:al,  Vocational and Spccial Education;  and
-
-- The Bureau  of Str-rdent  Pe  rsonnel  Sen'ices
-
-#### 3.3.5  Mandate and Core Function of the Bureau of Early Childhood Bducation,
-
-The manclate and  core function  of lhe  Burcau  ol  Early  Chilclhood Education shall  inch-rcle,  i:ut  rrot limited to  tltc  foilowing:
-
-- Design,  develop,  implement, coordinatc, monitor and  review  all  carly childirood education program$,  in  line  r,vith national policy  developect by  the  Mifristry and  endorsed  by  the  Ooverntnent, and  in  conformity wilh the  Ministry's stated  cbjectives  and  priorilies fsr  such  level;
-
-- Bnsltre that the  early  cliildhood education  programs n:rtional pnl.-cy  objectives  and the prioritics rsf trducation  for such cducalionad levcl; are  in  linc  with the Ministry of
-
-i i t '
-
-' : 1
-
-Eddtotlart Refarm  Act  ol 2011
-
-t a g e  13  of  42
+Education Reform Act of 2011                                      Page 13 of 42
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-- early childhood and  other  officials of  public,  privale developm ent institutions; c} Develop and admii"tistrators maintain a  professional  relationship r,vith teacher*, and  faitlt  based
+- c) Develop and maintain a professional relationship with teachers, administrators and other officials of public, private and faith based early childhood development institutions;
+- d) Issue permits, subject to approval of the Deputy Minister for Instruction and endorsement by the Minister, for the operation of early childhood programs in the country;
+- e) Ensure effective monitoring and review of content, pedagogy, access, gender equity, management and control of the early childhood program;
+- f) Help facilitate well-designed and managed early childhood development institutions
 
-- dl  lssue permits, subject  to approval  of the Deprity Minister far Instruction and  eodorsement by  the  Minister,  for  the  operalion  of early childhood programs in the country;
+#### 3.3.7 Mandate and Core Function of the Bureau of Basic and Secondary Education:
 
-- el Ensure effective  monitoring  ancl rer,'iew  of content,  peclagogy,  accessJ gender  equity, managemer-tt  ar:cl  control of the early  chilcihooci program;
+Basic and secondary education as referred to in this Act shall include primary education, junior secondary education and adult education; each of which, headed by a Director, shall be under an individual within the Bureau. The mandate and core function of the Bureau of Basic and Secondary Education shall include, but not limited to the following:
 
-- Hclp facilitate well-designed d  evelopment in sl  itt:  tions and managed earlY chilclhood
+- a) The design, delivery, coordination, monitoring and review of all Basic Education programs covering primary education, junior, secondary and adult education, in line with the national policy designed by the Ministry and endorsed by the Government, in harmony with the Ministry’s stated objectives and priorities for the stated levels;
+- b) Develop and maintain, through the office of the Assistant Minister, a professional relationship with institutions engaged in education programs supervised by the Bureau;
+- c) Ensure effective monitoring and review of content, pedagogy, access, gender equity, management and control of the programs of basic education in the country;
+- d) Develop, design and implement all Basic and Secondary Education programs and policies in consonance with the changing needs of the society;
+- e) Ensure that the educational programs meet the required skill(s) and high education quest of the society and prepare graduates to either enter the workforce with the appropriate vocational skill or trade, or for higher education in post-secondary educational institutions;
+- f) Initiate, design, develop and implement appropriate policies for the attainment of well-defined educational goals of the Basic and secondary education level;
 
-#### G.3.2 Mandate  and  Core  Funetion  of  the  Eureau  of  Basic  and  Secondary Education:
-
-Basic  ancl  secondary eclucation as  referred  to  in  this Act  shall  itrclnde primary education,  jinior secondary  ed.ucation and adult education;  each  ol' *t"ti"t't,'h"uded by a Director,  shall  be r.rnder  an individual within the Bureau.  The mandate a,nd  core lunction of the Bureau cif Basic ancl Secondary  Ech.rcation shall inclucle,  bttt not lirnited to the follorving:
-
-- The design, clelivery,  coordination, mol'Iitoring and review of all Basic Edr,rcation  programs covering  primary  education,  junior,  secondary and adult  education. in  line rvith the rlational  policy designed  by the Ministry and  endorsecl by  thc  Govcrnfilent,  in  harmony  with  thc Ministry's stated objectives  and priorities for the statecl  levels;
-
-- Deyelop and maintain,  through  the office of the Assistant  Minister, et ' professional relationship  with institutions  engaged in education programs suPervised  bY the Bureau;
-
-- content,  pedagogY, tlcccss' of  the programs  of  basic c) Ensurc effcctive  monitoring and  rel'iew  of gender equity, management and co:rtrol education in  thc  counttYi
-
-- and  Secondaty  Edrrcatir:n the  changing  necds of the d)  Develop,  design  and  implcrnent  all  Basic programs and  policies  in  consonance  with socielvl
-
-- Ensure  that  the  educational programs meet the  required skill(s) and high  cclucation quest of  lhe  society and  prepare graduates t{) either enler  the  workforce  with  the  appropriate  vocati.onal skill  or  trade,  or for higher education in posl-secondary  educational institutions;
-
-- Initiate,  design, develoP  and attainment of rvell-defined secondarv  edueation tevel; lmplement  appropriate  policies for  the educational goals  of the Basic  and 1
-
-r1
-
-fducfrtion Reform  Act  of 2011
-
-Page  14 0f 42
+Education Reform Act of 2011                                      Page 14 of 42
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-- Issue  permits, subject  to apprcrval of lhe Deputy Minister fnr instructions  and end.orscment  by the Minister  ft:r opcrations o[  basic an.d  secondary  education programs in the country. s)
+- g) Issue permits, subject to approval of the Deputy Minister for instructions and endorsement by the Minister for operations of basic and secondary education programs in the country.
 
-#### 3,3.8 The  Eureau  of Teacher  Fducaticn
+#### 3.3.8 The Bureau of Teacher Education
 
-The urandate and core funclions of the Bureau of Teacher Education, wl'tich shall be headed by an Assistant Minister appointed by the Presiclent, with (he  consenl of the Senate,  shall  include  , but not limilcd to the following:
+The mandate and core functions of the Bureau of Teacher Education, which shall be headed by an Assistant Minister appointed by the President, with the consent of the Senate, shall include, but not limited to the following:
 
-- Develop,  design  antl execltte  all pr:licics,  guidelines,  plans  and programs for the pre and in-seruice  training of Leachers  for all levels  of edncalion  under the  jurisdiction of the Ministry;
+- a) Develop, design and execute all policies, guidelines, plans and programs for the pre and in-service training of teachers for all levels of education under the jurisdiction of the Ministry;
+- b) Initiate and lead activities required for the effective development and coordination of teacher education programs;
+- c) Initiate procedures and guidelines for ensuring information monitoring, evaluation, linkages, budget, personnel, and facilities for teacher education programs;
+- d) Recruit personnel for teacher training institutions and ensure that such institutions are operated smoothly and are been fully and properly accredited;
+- e) Ensure the provision of quality education for teachers at teacher training institutions;
+- f) Ensure the timely provision of selected materials to teacher training institutions;
+- g) Design policies for the governance of teacher training institutions, subject to the advice and approval of the Minister through the Deputy Minister for Instructions.
 
-- tnitiate  and lead nctivities required fcr  the effective development  and coordination of teacher education programs;
+#### 3.3.9 The Bureau of Science, Technology, Vocational and Special Education.
 
-- Initiate procedures  and gnidelincs for ensuring infcrmalion ruonitoring,  e','aluatiort, linkages,  budgcl, personnel,  and facilities  for teacher  education  prtlgrams; c)
+The mandate and core function of the Bureau of Science, Technology, and Vocational and Special Education shall include, but limited to the following:
 
-- Recruit personnel for  teacher training  institutions  and  ensure that such  institutions  are  cJperated smoothly  and  are  been fully  and properly accredited; d)
+- a) Develop, design, implement policies and guidelines for the management, financing and supervision of the technical and Vocational education programs for Liberia, as well as, and the monitoring of the nation’s science, technical and vocational programs;
+- b) Ensure the development of trained science and mathematics students, and middle level manpower for the nation;
+- c) Initiate and lead the development of appropriate structural and institutional capacity and capability needed for producing adequately trained science and mathematics students, and well-trained middle level manpower for the nation;
 
-- el Ensure the  provision of  cluality  education fol teachers  at  teacher trainir: s institu  tions;
-
-- Ensnrc thc timely provision  of selectcd  materials to tcachcr training institutions;
-
-- tsJ Design policies for  thc subject to the aclvice  and Minister for Instruction  s. governance  of  teachcr  training i nstitutions, approval  of :he  Minister through the  Deputy
-
-#### 3.3,9  The Bureeu of Science, Technology, Vocational and Special Education.
-
-The  mandeLte and  cnre  F;nctjon of  the  Bureau of  Science'  Technology,  and Vocational  and  Special  Education shall  inclr-rdc, hut  hnritcd  to the  foliowing:
-
-- Develop,  design,  implcment policies  ancl  guidelines  for  the  managemcnt, financing and supervision of  the technicai ar:d Vocational educatjon Frograms for Liberia, as  weli as,  and the rnonitoring of  the nation's science,  technical  and  vocational  programs;
-
-- Ensure  the  developmenL of  trained  science ancl rnathematics  stttdents, and  middle  level rnanpo'wer for  the natiorli
-
-- Initiate ancl lead the development of appropriate strttctural ancl institutional capaci[y ancl  capability needed  for producirrg adequately trained  science  and  mathcmatics sludenls, and  well-trained misldie  level manpo\ucr for the nation; llt  ,
-
-€ducatian Refarm Act  u{  2aJL
-
-Page  15  of 42
+Education Reform Act of 2011                                      Page 15 of 42
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-I
+- d) Facilitate the development of policies and procedures as well as suitable guidelines for linkages and operations of programs in the science, mathematics, and technical and vocational sector.
+- e) Develop, design and implement programs that will facilitate the accelerated education of the gifted through specifically designed programs, and, pursuant to Section 6 of the otherwise challenged to develop the appropriate skills and knowledge at their own pace without prejudice;
+- f) Initiate, develop and manage special programs that allow individuals to maximize their potential for intellectual development as would enable them to contribute to national development.
 
-- dl  Facilitate  the develcpment  of policies  and procedures  a$ rvell  as sr-iitable guiclelines fur  linkages  and  operations  of  programs  in t]:e  science, mathematics, and technical and vocational sector.
+#### 3.3.10 The Bureau of Student Personnel Services.
 
-- el  Devr:lop, clssign  and inrplemtlnt' proglanrs  that will facilitale  the accelerated  education of the gifted through specifically  designecl progra$ls,  and,  pursuant  to  Section 6  of  the  sthenvise  challenged to ilevelop the  apprcpriate  skills  and  knowl.edge  at  their  own pace without prejttclice:
+The Bureau of Student Personnel Services shall be headed by an Assistant Minister appointed by the President, with the consent of the Senate. Under the direction of the Assistant Minister, the Bureau shall undertake the following duties and functions:
 
-- fl lnitiate,  develop and  manage special programs that  a1low  individuals  ts maximize  their  potential  for  i.rrteilectual  developmerrt as  wouli enable them to contribute to nalional develnpme:rt.
+- a) Design activities that will enhance student performance in the school system, including supervising guidance and counseling programs in the schools;
+- b) Ensure the teaching of sports and physical education;
+- c) Encourage students’ participation in sports (football, basketball, volleyball, track and field, etc.) and other extra-curricular activities at all schools;
+- d) Ensure the teaching of health education and make provision for ensuring access to good health and health facilities by the school community;
+- e) Supervise the career development of students;
 
-#### 3.3.10 ?he $ureau of $tudent  Personnel Services.
+3.3.11 The Bureau shall establish and administer a National Service Program that will:
 
-The Bureau of Student Personnel Services  shall be headed by an Assistant Minister appointed  by the President,  with the con$ent  of the Senate.  Under the  clirection  of  the  Assistant  Minister,  the  Bureau  sharil undertake  the follorvir"rg duties and functions:
+- a) Ensure that the national service will be a pre-requisite for full time employment;
+- b) Ensure that students participate in a national service program during the school vacation period immediately preceding their graduation from secondary school;
+- c) Ensure that students graduating from universities and colleges perform a one (1) year postgraduate national service;
+- d) Ensure that each student completing the national service program receive a certificate of national service completion;
+- e) Ensure that students performing national service are not assigned to counties of their origin.
 
-- Design activities that  will  enhance studcnt performance in  thr: school system, including  supen'ising guidar^ce  and  counseling programs in t he schools;
-
-- Ensure lhe teaching of sports and ph1's'ical education;
-
-- Encourage  students'  participation :n sports {football.  basketball, volle.ybail,  track  and field, etc.i and other extra-curricular  activities at all schools;
-
-- Ensure  tile  teaclring  of  health  education  and  make  prorrision for ensuring acccss to  gclr:d  health and  lrcalth faciliries by  the  schr:ctl con:munity;
-
-- Supen ise  the career  developrnent of students; 3,9.I1 The Bureau shall establish  ancl  administer  a National  Service  Program that  will:
-
-- Ensure  that  the  national  service  will  be a pre-requisite for  full  lime employment;
-
-- Ensure that  students participate in a national service  program during the  sch,ool  vacation  period  immediately  preceding  their  graduation from secondary school;
-
-- Ensure Lhat  stud.ents graduating  from universities  and colleges perform a one (1| year postgraduate  national service;
-
-- trnsure  tl.lat  each  student  completing  the  national sen'ice  progran-r receive  a certificate of national service  completion;
-
-- Ensure that  students performing counties  of thcir origin. national senice ar€  t'lot assigned  to t rt-.  .,, :
-
-t - a   -
-
-:
-
-.{-"'
-
-i
-
-t
-
-;
-
-t
-
-Educsttan Refonn Acl  uf2o17
-
-Pagc 16 of;ll
+Education Reform Act of 2011                                      Page 16 of 42
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-- 3.3,12 In  addition to  the functions listed above,  the Assistant Minister for Student  Personnel Services shall  perform  the  folkrwing  dulies  etnct fttnctions:
+3.3.12 In addition to the functions listed above, the Assistant Minister for Student Personnel Services shall perform the following duties and functions:
 
-- L\l Sripct-vise the l)irectnrs  witlrin lhe Rrtreatt;
+- a) Supervise the Directors within the Bureau;
+- b) Such duties and functions of office as may be assigned or directed by the Deputy Minister for Instructions or by the Minister;
+- c) Report and be responsible to the Deputy Minister for Instructions.
 
-- b|  Such cluties  and fun.ctions of office  as may be assigned  or clirccted  by the Deputy Minister for lnstrr-rctions or by the Minisler;
+### 3.4. THE DEPARTMENT OF PLANNING, RESEARCH AND DEVELOPMENT
 
-- Report  and be responsible  !n the Deputy  Minister for lnsln:ctit:ns.
+#### 3.4.1 Reaffirmation of Existence of the Department of Planning, Research and Development:
 
-### 3.4. TIIE DEPARTMENT OT PLAI{I{II{G, RESEAR.CH  AND DEVELOPMENT
+The existence within the Ministry the Department of Planning, Research and Development, affirmed under chapter 26 of the Executive Law, Title 12, Liberian Code of Laws Revised, and as further stated in section 2.2.2(a) of this Act, is hereby reaffirmed.
 
-#### 3.4.  1  Reaffirmation  of  Existence  of  the  Departrnent  of  Planning,  Research and Development:
+#### 3.4.2 Core Functions of the Department of Planning, Research and Development
 
-The exislence  within the Ministry the Department  of Plannitrg,  Research  and Developrnent,  aflirrrcd  under  chapter 26  af  lhe  Executive Larv, Title  12, Liberian Cclde  of Laws Revised,  and as lurther  stated in  section  2.2"21a\ af this Act. is hereby  reaffirmed.
+The Department for Planning, Research and Development, which shall be headed by a Deputy Minister for Planning, Research and Development appointed by the President, with the consent of the Senate, shall have the following mandate and core functions:
 
-#### 3,4.2  Core Functions of the Department of Planning, Research  and Development
+- a) Design, development, management and coordination of policies, procedures and activities for reviewing and updating national education plans;
+- b) Ensuring that developed plans are in consonance with the national development priorities and objectives;
+- c) Facilitating the development of the plan, design, and construction schedules of all public, private and faith based education facilities, whether directly financed by the Government or the development partners;
+- d) Facilitating the development and implementation of a management information system that will include, but not be limited to, educational statistics, national demographics records, etc.;
+- e) Spearheading the development, review, revision, pilot testing and updating of the national curriculum at all levels, in coordination with the Department of Instructions;
+- f) Cause the developed, either by the staff of the Department, in coordination with the Department of Instructions, or through requests appropriately advertised, for proposals for writing, printing and distribution of textbooks for the Liberian school system;
 
-The Dcrpartment  for  Planning, Research  ancl Development,  whicir shall bc heaclecl  by  a  Deputy  Minister  frrr Planning, Research and  Develclpmcnt appointecl  by the Presidcnt,  with  the consc:lt oi tile Senatc, shall have the followine  mandate  atrd  core  funclions:
-
-- De  sign, development, nlanagcment and coordinatior: cl1 policies. pr:ocedures  and activities for reviewing and updating national education  plans;
-
-- Ensuring that cleveloped  plans  urer  in  consorlance  rvith  tlre  trational developnrent priorities  and objectives;
-
-- Facilitating tne  dcvclopment  of  the  plan,  design,  ancl  cons(ruction schedules  of  all  public,  private  and  faith  based  edttcation  facilities, wlrether directly fipanccd bV  the Government or thc ctcvelopmcnt l ) a r t n c r s ;
-
-- Facilitating tlie  development  and  implementation of  a  management informatiorr systenr that rvill includen but not bc limitecl to, educational  statistics, national  demographics  records, etc.;
-
-- Spearhcading the development,  rcv:ew,  revision, pilot testing  and updating of  the  natianal curriculum at  a1l levcls,  in  coordination r,uith the  Deparlment  of Instrrctions;
-
-- fl Car-rse the cieyeloped, either by the staff of thc Departrnent, i r r coordination r,vith the  Department of Instructions, or  through recluests appropriately advertised, for proposals for rvriting, printing and clistribution c,f  textbooks  for  the  Liberian  scltool  syslem;
-
-&  t:t
-
-l a g e   1 7   of  42
-
-&  t:t
-
-EdLtcotion  Reloilrr Act ul  2011
+Education Reform Act of 2011                                      Page 17 of 42
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-- Be  the  princ:pal  liaison,  {acting  through  the  office of  the  Deputy Minister),  between the  Ministry and  the  Ministn,  of  Planning  and Economic Affairs, development  partRers, donor comnrunity, domestic, and external institutions  involved  in  education:
+- g) Be the principal liaison, (acting through the office of the Deputy Minister), between the Ministry and the Ministry of Planning and Economic Affairs, development partners, donor community, domestic, and external institutions involved in education;
+- h) Be the arm of the Ministry principally responsible for the preparation of the Ministry’s annual report and budget;
+- i) Develop prototype designs for educational facilities for all levels of education and in that connection maintain a technical and professional staff for the promotion of its work;
+- j) Serve as the clearinghouse for education development activities.
+- k) Be, in consultation with the Deputy Minister for Administration, responsible for the supervision of construction, renovation, and expansion of schools, and other education facilities.
 
-- Be the  arm  of  the  Ministry principally respansible lor of the  Mi.nistrir.'s  ar:nual  report  ancl brrdget; Lhe prcparation
+#### 3.4.4 Bureau of Planning, Research and Development
 
-- i ) Develop  prototype  designs  for  educational facilities edr"rcation  and i n tl"rat.  connection i naintain a profe ssiorr.al  stalf  for  the  promotion of its  rvork; for a1l levels  of tecirnica] and
+The Bureau of Planning, Research and Development, which shall be headed by an Assistant Minister appointed by the President with the consent of the Senate, shall have the following mandate and core functions:
 
-- j ) Serve as the clearinghouse for education  development activities.
+- a) Development, in coordination with the Bureaus of Instructions and Administration, short, medium and long term plans to adequately address the educational needs of the nation;
+- b) Facilitate the development and maintenance of an appropriate communication system that guarantees internal and external data flow, as well as horizontal and vertical information exchange;
+- c) Facilitate the monitoring and evaluation of projects under the auspices of the Ministry.
 
-- Administration, renovatiort,  a:rd kl Be,  in  consultation with  the  Deputy  Minister  for responsible for  the  supcn'ision  of  cr:nstruction, expansion  of schools,  and other education  facilities,
+### 3.5. THE EDUCATION CENTERS FOR EXCELLENCE
 
-#### 3.4.4  Fureau of Plannlng, Research  and Development
+#### 3.5.1 Establishment and Institutionalization of Centers of Excellence
 
-The Bureau  of Planning, Research  and Derrelopment,  which  shall be headeci by an Assistarrt Minister appointed by the President with  the consent of the Senate.  shall have  the following  manclate and core  functions:
+The Minister is hereby given authority to formally establish and institutionalize, with the approval of the President, and under the supervision of the Ministry the following Education Centers of Excellence:
 
-- Developrnent.  in  coordination  with  the Burearus  of Instructions ancl Administration, short, mediurn ancl long term  plarrs to  arJequately address  the edrrcational necds  of thc nation;
+- a) The Center for Curriculum Development and Research;
+- b) The Center for Educational Accreditation and Certification;
+- c) The West African Examination Council, which currently exists.
+- d) Notwithstanding the foregoing, the Minister, under the same stated hereinabove may establish such other Centers of Excellence as may be deemed necessary and appropriate. Each of such Centers named herein or subsequently established by the Minister shall be
 
-- Facilitate the developmcnt and maintenance of atr appropriate commr"rnication  system  that guarantees  internal and  external  data flow, as well as horizontal  and vertical informatinn  exchange;
-
-- Facilitate the monitoring and evaluation of prerjects under the auspices of the Ministry.
-
-### 3.5, THE SDUCATIOTiT CENTERS F'OR  PXCPLLENCE
-
-#### 3,S.1  Establishment  and Institutlonallzation of Centers of Excellence
-
-Thc Minister is hereby given authority to fonnally establish atrd institutionalize, rvith the approval  of the President,  and under the supervision of the Ministry  the followir"lg Education Centers of Excellence:
-
-- The Centet for Curricr.rlum  Der.'clopmcnt and Research; af
-
-- The Centcr for Educalir:rral  Accreditation and Certification; b)
-
-- cl  The West African Examirratiorr  Council, wltich currently  exists.
-
-- d]  Notwithstanding the foregoing,  thc Minislcr, undcr the same stated hereinabor.,e may establish such other Centers of Excellence  as may  be deemed necessary and  appropriate. Each of  such  Centers named herein or  subsequently  established  by the  Minisler  shall be
-
-Educatian  Reform  Act  of 2011
+Education Reform Act of 2011                                      Page 18 of 42
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-headed  by a Director appointed  by the Minister, with the consent  and approval of th"e  President, Each Ccnter shall h,ave  atr Adi'isutY Boarcl whose  membership  shall  comprioc  a  subrgrogp  of  ths ]ational Education  Advisory Board  {NFAB)  c)r $uch other  professional group establishecl  by tlre NIIAR.
+headed by a Director appointed by the Minister, with the consent and approval of the President. Each Center shall have an Advisory Board whose membership shall comprise a sub-group of the National Education Advisory Board (NEAB) or such other professional group established by the NEAB.
 
-#### 3"S.2  The  Center  for  Curriculum Devslopment  and  Researchl  Functions  and Rnsponslbilitles'
+#### 3.5.2 The Center for Curriculum Development and Research: Functions and Responsibilities.
 
-Tire  Center  for  Curriculum Developmenl  and  Research  shail  have  the f ollorving duties  and fitnctions:
+The Center for Curriculum Development and Research shall have the following duties and functions:
 
-- Develop  a  National  Curriculum for  all  levels  of  schools  and  lhc educatlonal strata of Liberia, from early childhood educalion through seninr high school levels,  vocational-tschnical instluctions.  as well as special education instructiotral programs;
+- a) Develop a National Curriculum for all levels of schools and the educational strata of Liberia, from early childhood education through senior high school levels, vocational-technical instructions, as well as special education instructional programs;
+- b) Assist in the development of curricula for all teacher education programs;
+- c) Conduct research and assist or facilitate the conduct of research for textbook and other reading and instructional materials development;
+- d) Develop policies, guidelines and curriculum for Liberian study leading to the teaching of national languages, human rights, citizenship and civil responsibilities, health and hygiene, agricultural, and other educational programs in the country;
+- e) Develop and maintain instructional assessment programs for students within the context of the curriculum development process;
+- f) Report to the Deputy Minister for Instructions.
 
-- b1 Assist  in the  development  of  curricula for  a1l leacher  education program$;
+3.5.3 The current Bureau of Curriculum, Research and Textbook shall evolve into the new Center.
 
-- Cr:nduct research  and assist or facilitate  the cr:nduct of research  for texlbook  and other reading  and instructional materials  development;
+#### 3.5.4 Center for Education Management
 
-- Deyelop  policies, guiclelir"res ancl  curriculum  for Liberian study leacling to the ieaching of national languages,  human  rights, citizenship  anci civil responsibilities-  health  and hygiene,  agricr-rltura-l,  and  othcr educaticlnal  programs in the country;
+The Center for Education Management shall:
 
-- Develop  and maintain instructional assessment  pfograms for students lvithin  the context of the curricuium  development  process;
+- a) Develop standards for training programs;
+- b) Provide technical assistance in the management of the education system;
+- c) Make research information easily accessible to the public;
+- d) Mobilize resources, develop criteria and procedures for school finance, supervision, personnel management and facilitates design of a system for the delivery of educational services;
+- e) Develop programs and policies that will lead to the creation of a learning environment that promotes quality education;
 
-- Q Report  to the Deputy Minister  for lnst"ructions'
-
-- 3.5.3  The currenl- Bnreau of Curriculum,  Research  and Textbook shall cvnlve  into the new Center.
-
-#### 3.6.4  Center for Education Management
-
-The Center for Education Management  shall:
-
-- a|  Develop  standards for training programs;
-
-- bl  Prorride technical  assistatrce in  the  managenent of  the  educaticin system;
-
-- Make research information easily accessible  to thc public;
-
-- Mobilize r€sources,  develop  criteria and procedures for school finance, superuision, pe].sonnel  man.agement  a.nd  {acilitates design of a system for the delivery  of educational  services;
-
-- e|  Dcvelop programs  and  policies th'a1 will learnin g envirr:nment  tl'l  at promotes quality lead  to  lhe  creation  of  a echieation;
-
-,./
-
-I / t
-
-.
-
-]
-
-/ Y " - - - l ' l '
-
-Paseleof42
-
--
-
-l
-
-,
-
-l
-
-:
-
-.
-
-,./
-
-I / t
-
-.
-
-]
-
-/ Y " - - - l ' l '
-
-Paseleof42
-
--
-
-l
-
-,
-
-l
-
-:
-
-.
-
-Ed*cation Refarrn Aer uf 2011
+Education Reform Act of 2011                                      Page 19 of 42
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-- iJ Report to the Deputy Minisler for Planning, Research  and Dcvclopment,
+- f) Report to the Deputy Minister for Planning, Research and Development.
 
-#### S-5"5 Center for  Educetional  Accreditation
+#### 3.5.5 Center for Educational Accreditation
 
-The Ccnter for  Educational Accreditation, established herein, shall perform the followir:g  duties and functions and have the beloiv  listecl  responsibilities:
+The Center for Educational Accreditation, established herein, shall perform the following duties and functions and have the below listed responsibilities:
 
-- al  Work with  the National Councils in  the spheres  of highcr educatinn" tcchnical and vocartional education,  schctol inrprovement,  etc.;
+- a) Work with the National Councils in the spheres of higher education, technical and vocational education, school improvement, etc.;
+- b) Establish minimal requirements for the accreditation of institutions and the licensing of teachers to provide the quality educational services and performance outputs consistent with the standards set by the Ministry;
+- c) Organize short courses on staff appraisals, performance assessment and testing for teachers and students;
+- d) Evaluate the educational training quality of schools in various aspects and forms to ensure the enhancement teaching and learning effects and to promote quality education;
+- e) Report to the Deputy Minister for Instructions.
 
-- bI  Establish minimal  requirements  for lhe  accreditation  of insiitutions ancl the  licensing of  teachers to  provide the  quality  eclucational services ancl performance outputs  consistent rvith  the  standards set by tlre Ministry;
+3.5.6 Notwithstanding the foregoing establishing the Bureaus and other offices of the Ministry, the Minister shall have the authority to review, and with the approval of the President, revise any Bureau within the Ministry to ensure the most efficient and effective delivery of educational services.
 
-- cl Organize  short courses  on staff appraisals,  pcrformance  assessrnent and testing  for teaclrers  and students;
+### 3.6. OTHER PRINCIPAL OFFICES OF THE MINISTRY
 
-- Erraluate  the educational  training quality of schools  irr  variclus  aspects and forms to ensure the enhancement  teaching and lcarning effccts and to promote quality education;
+#### 3.6.1 Office of the Legal Counsel: Creation and Functions of the Office and Appointment of the Legal Counsel.
 
-- e|  Report  to the Dcputy Minister  for Instructions.
+3.6.2 There is hereby created in the Ministry an Office of the Legal Counsel, headed by a licensed counselor-at-law, appointed by the Minister, whose functions shall include the following:
 
-- 3.5.6  Notwithstancling the foregoing  establishing  the Blrreaus and other offices  of' the Ministry, the Minister shptll  harre  thc authority to rerricw.  ancl  wilh  the apprclval  of the  Preeidcnt, revise any Bureau  rvithin  the  Ministry  to  enstrre the most efficient  and effectivc delivcry  of educational  services.
+- a) Perform all legal works required by the Ministry and its auxiliary bodies. These include providing legal opinions to the Minister, the Deputy Ministers, the Assistant Ministers, and the various Departments of the Ministry, as well as representing the Ministry in any litigation, in association with the Ministry of Justice and any lawyer engaged by the Ministry for that purpose;
+- b) Provide direction to the Ministry in the drafting of laws and regulations required by the Ministry, including ensuring that such laws are consistent with the Constitution of Liberia and in harmony with other laws. The legal counsel shall ensure that laws relating to the functions and activities of the Ministry are available to the authorities of the Ministry as well as are easily accessible to the public;
 
-### 3.6" OTHER PRTWCIPAI,  OFFICES OF THP MINIS?RY
-
-#### 3.6.1. Oflice  of  the  Legal  Counset  Creation  and  Functlons of  the  Office  and Appointment  of the  Legal Counsel,
-
-- 3.6.2  There is  hereby creatcd in  the  Ministry  an  Office of  ti:e  Legal Counscl, l"readed }:y a  licensed counsclor-at-larv,  appointed by  the  Ministcr, rvhose functions shall include the follounins:
-
-- Perform all legal works reqnired by the lrlinistry  and its auxiliary  bodies. ?hese  include providing  legail opinions  to  the Minister, the  Deputy Ministers, the Assistant Ministers, and the variolts Departmen:s  of the Ministry, as  well  as  representing  the Ministry in any  litigation, in association wilh  the  Mirristry of Justice  and any  iawyer engaged  by tirc Ministry for that pllrpose;
-
-- b|  Provide'direction Lo the Minislry  in  the  drafting  of laws and  regulatiotrs required by the Ministry, including ensuring that such larvs  are coneistcnt with  the  Constitution  of  Liberia arrd in  harrnony with  other laws. The legal counsel shall ensure that  laws relating  to the  functions and  activities  of  the  Ministrv are  avaiiable  to  the  authotities of  thc Ministry as lvell as are easily  accessible  to the public; ,,/
-
-6r"
-
-/-Y
-
-,ll
-
-!
-
-Page29  ol 42
-
-Edi)eation  Refornt Act of  zolr
+Education Reform Act of 2011                                      Page 20 of 42
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-- Provide  an annual  report to the Minister on the activities of thc nffice for inclusion by the Minister in lhe Ministry's Annual  Report, as well as sr-rcl: other reports  as  may  be  required  by the Minister or  any  of  rhe departmcnts of the Ministry in connection with the duties, resporrsibilitie s a:rd  activities  of the office; L l
+- c) Provide an annual report to the Minister on the activities of the office for inclusion by the Minister in the Ministry’s Annual Report, as well as such other reports as may be required by the Minister or any of the departments of the Ministry in connection with the duties, responsibilities and activities of the office;
+- d) Be responsible and report to the Minister.
 
-- Be lesponsible and report to the Minister,
+#### 3.6.3 Director of Scholarship: Appointment and Functions
 
-#### 3"6.3  Director of Scholarship: Appolntment  and Functlons
+There is hereby created in the Ministry a Division of Scholarship to be headed by a Director who shall be appointed by the Minister. The duties and functions of the Director shall include the following:
 
-There  is  hereby  created  in thc  Ministry a  Division of  Scholarship to  be headed by a Director who  shall  be appointed  by the  Minister.  The duties  ancl functions  of the  Director  shall inclr"rde  the lbilowing:
+- a) Coordination of the scholarship program of the Ministry;
+- b) Work with the various Departments of the Ministry regarding the capacity needs of the nation and of any of such departments and how the scholarship program may assist in meeting those needs.
 
-- al Coordinertion of thc  scliolarship  progratn of the  Ministryl
+#### 3.6.4 Auditor: Appointment and Functions
 
-- i:)  Work  with  the  vadous  Departments ol  the  Ministry  regarding the capacity necds of the nation and of any of such clcpatrtmcnls  ancl  horv the scholarship  program  may assist  in meeting  those  needs.
+There is hereby created in the Ministry the Office of Internal Auditor to be headed by a Certified Accountant who shall be appointed by the Minister. The functions and responsibilities of the Internal Auditor shall include the following:
 
-#### 3.6.4  Auditor: Appointment  and Functions
+- a) Assist in the preparation and updating of the Ministry’s financial records, be the chief reviewer of all financial and other records to ensure accuracy and transparency in both financial transactions and the records;
+- b) Perform periodic and spot audits of all financial and system transactions and records;
+- c) Provide audit reports and recommendations from findings to the Minister;
+- d) Assist in the preparation of the Ministry’s budget;
+- e) Perform other duties incidental to the office of internal auditor;
+- f) The Internal Auditor shall be responsible and report to the Minister.
 
-There is hereby created in the Ministry the Office  of Intcrnal Auditor ro bc headecl  by  a  Certified  Accountant who shall be appointed by the Minister. Tire functions and resuonsibilities  o[ the Intcrnal Audiror shall include l-he following:
+## CHAPTER-4: STRUCTURE OF THE EDUCATION SYSTEM
 
-- Assist irr  the  preparation and  updating  of  the  Ministqy's iinancial records, be  the  chief revieu'er  of  all  financial ancl other re:ords to ensLrre accllracy  and transparency  in both financial transactions  and the recorcls;
+### 4.1 Establishment of the Nine-three-four (9-3-4) Structure
 
-- Perform  pericdic  and spot  audits of all financial  and svstern transactions and records:
+The structure of Liberian Education System shall be the nine-three-four (9-3-4) structure and shall consist of the following stages:
 
-- c|  Provide ar-rdi:  rcports  ancl recomrnendations  from  finclings to  thc Minister;
+- a) Two years of early childhood education, followed by nine (9) years of Basic education;
 
-- Assisl, in the preparation  of thc Ministry's  buclget;
-
-- Perform  other  duties  incidental to the  office of internal auditor:
-
-- The Internal Auditor shall be  responsible  and report to the Miaister.
-
-## CHAPTER-4: S?RUCTURE OF THE PDUCAfIOI{  SYSTEM
-
-### 4. X Establishrnent  of the  !{ine-ttrree*four  19-3-4}  $tructare
-
-The structure  of Liberian Education System shall be the nir:e- three- four (93-4f stmctr-rre  and shall consist of thc following stages:
-
-- Tivo  years of  eariy of Basie  education; childhood education, folluwed  by  nine {9}  years
-
-Ftlucullon Refonn  A*  of 2AI1
+Education Reform Act of 2011                                      Page 21 of 42
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-'
+- b) Three years of Senior Secondary Education, or three (3) years of technical or vocational education in lieu thereof;
+- c) Four (4) years of University or other Tertiary under graduate education.
 
-- frUeer  144{s  pf ,$e-nhr  Secondary  Educatfon, or  thrge  (31  }rears  CIf teehnical sr vocational edilcatiEn  n lieu therEnfi
+### 4.2 Categories of Schools in the Liberian Educational System
 
-- Four  {4}  years of  University or  ot}rer Tertiary  under  graduate edu'c*tirJr-1"
+The Liberian Educational System, which shall comprise both regular and intermediate institutions, shall consist of the following categories of schools:
 
-### 4,2 Categorfc* of $shsala  l$  th€  Liberisa  Educatlonal  sy*tem
+- a) Early Childhood Education;
+- b) Basic Education – comprising primary, junior secondary, continuing and adult education;
+- c) Senior Secondary School – comprising academic and technical education;
+- d) Junior College and other post-secondary educational institutions;
+- e) Colleges and Universities;
+- f) Intermediate Institutions of Learning, which shall consist of:
 
-Tte  Lib*rtan  Educatiorral  $ystem, which  shall compriee  bo*h regular and intsrrgsdie,te ilretltutior,fs, ,shal]  oonsi*t  of  ttre  followingtategoriec'of  nohoots:.
+  i. Teacher’s Education;
+  ii. Adult Education;
+  iii. Vocational Training;
+  iv. Literacy Programs;
+  v. Non-Degree Theological Seminaries;
+  vi. Seminars, workshops and conferences.
 
-- EarlY  Childhmd Education:
+### 4.3 Early Childhood Education
 
-- Faoia ,Educetio,n -  coraprt$ing  primary, jtrruor  seeondafy, continuing and adult education;
+#### 4.3.1 Basis for Early Childhood Education.
 
-- Senior  Secondary School .*  comprlsing academic  and  technical gdricntionl
+The basis for Early Childhood Education (ECE) shall be to provide the necessary opportunities for each child to develop the appropriate physical, mental, emotional and social skills, attitudes and habits to enable him or her to proceed to the primary level. Accordingly, the Ministry is mandated to encourage, support and require all counties and districts to establish facilities for early childhood education based on available resources. Support to the programs shall include, as may be affordable by the Government, assistance to teacher colleges and other accredited institutions producing teachers for the childhood education sector.
 
-*l Juni.or Cojlegn, *nd. otber  Foet-secondqry  Bducdtisnal inetituiions;
-
-- el oollqges and Ufihtsdirttidsi
-
-- fl Intefiurdiare  trnstitusisne  of lpq,r.ning,  which shsll donsist  of:
-
-- Teecher's  Sducation;
-
-- Adult Educatioru
-
-- iii.Vocatisnal  Training;
-
-- iv.Litdrecy  hoglame;
-
-- v, Non-Dg&i1$e Theological  Seminariee;
-
-- Seminars,  workehQps and conferences.
-
-### r*€ e?dry.ffiIdfrcodMrynat$o:l
-
-#### 4.g.1  Bagis  br Earty  Cbltdhood  Ertrrcatlan'
-
-&e eranie  fbs  &Eff 4*rildhs{rd  Edu€q$s.$  (npgt ,shall  be  to.  nrolde trre lrree&*@{ opsofrtH{ilti4s for each crrga to develop  thc_q, prdpfiary.phy-eical, nrcntnt,  q1s-&anEl  qsid Boeial  skiH*, *ftitrde* an{  traUits to  s*able  hiBr o'r i*-t  $  ib&sed m tUe  $tr{Saiy  lwel, i*eCI gFi  tk*rsdinistvyts  $ir&ndatd to *tt"ouru€g, support  loA require  all  eounlies  end  districts to  eet&blish facilities-for early childhood educati,on  befed on available resouf,ces.  Support t0  thc  prsg{affis  drslt include,  *g  smf ba .ffirdqble' by  tlm:-  Gorrernment, aesieta*lee  ta, b0g*h6r *oilegea  and' otber eussadiM'tnptift*tiqtrs produeiag teacheis for the sliliWhosd  Eduqa$gtl  ssstor", &ffs
-
-\
-
-t
-
-f
-
-g'durorhrr ftaft;;mt Sct  6'f  Z0lx
-
-Fage:ll'of  4?
+Education Reform Act of 2011                                      Page 22 of 42
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-i
+#### 4.3.2 Ministry to Issue Guidelines and Requirements for Opening and Operating ECE Institutions
 
-#### 4.3.2  Ministry to Issue  Guldellnes  and  Requirements for Opening  and Qperating  ECE Institutlons
+The Ministry is vested with the authority to develop, issue, and publish, from time to time, binding rules, guidelines and regulations for the opening, operation and maintenance of early childhood education schools or institutions. The Ministry shall have the further authority to prohibit any person or institution from opening or operating an early childhood education programs for which a license has not been granted by the Ministry, and to suspend or revoke the license of any school or institution failing to conform to or not meeting the requirements and guidelines of the Ministry for the operation of such programs.
 
-The Minist4r is vested  with ths authority to develop,  issue, and publish, from tinte to  1imq, hinding  rrrles, gr:idelines  and  regulations for  the  opening, operaticn  and rnaintenance of  early  childhood  education  schools  or irrstitutions.  The Ministry  shall have the further authority  to  prohibit any Ircrsolr  clr  institution  from opening  or operating an cady childhr:ocl  eclucalion program,s  for which  a liccnse has not  been  ,granled  by  the  Ministty,  and to suspencl  or revoke the license of any school or institution  failing to conform to or  not  meeting the requirernents  and  guidelines  of lhe  Ministry for the operatiorr  of such programs.
+#### 4.3.3 Standardization of Early Childhood Education programs and curricula.
 
-#### 4.3.3  Standardization of Early Childhood Education programs and curricula.
+The Ministry, through the appropriate Department of the Ministry, is mandated to develop standardized curricula and sustainable programs in early childhood education, ensure that capacities are built for this level of the educational system, and those schools and institutions operating such programs conform to the curricula and standards. In this regard, the Ministry, through inter-sectoral collaboration with other Ministries and non-government partners shall ensure integrated services and delivery of educational components required to sustain the early childhood programs of the nation. Schools and institutions failing to adhere to or meet the curricula requirements or the standard developed by the Ministry are subject to suspension or revocation of their license.
 
-The  Mirristry,  thraugh  the  appropriate Department  r:[  thc  Ministry,  is mandatecl  to  der.elop  standardized  curricula  and  sustainable programs iu cariy childhood education, ensure that  capacities  are built  lor this  lcvcl of the eclucational system, and those schools and  institutions  opcrating such programs conform  to  the  curricula  and  standarcls. In  tlris  regard, the Ministry, through inter-sectorai  collaboration  rvith other Ministries  and nongovelrnment partl'ters shall  ensure  integrated  services and  delivery of educational  components  required  lo sustain the early  chilclhood  programs  of the natir:1.  Schclols and inst"ilutions failing  to aclhere to or mcet the curricula reqr:iremenls or  the  starrdard developed  by  thc  Ministry  arc  subject ttl sr-tspeusion or revocation  ol their liccnsc.
+#### 4.3.4 Age Range for Early Childhood Education
 
-#### 4.3.4  Age Range for  Early  Childhood  Education
-
-The age ran.ge fcrr attendancc in  early  chilclhood programs  shall  bc  fiom three (3) to five  {5)  years, prnvided  no child shall be clenied  attendance  irr carly  childhood  education  programs.
+The age range for attendance in early childhood programs shall be from three (3) to five (5) years, provided no child shall be denied attendance in early childhood education programs.
 
 ### 4.4 Basic Education
 
-#### 4,4.  I  Primary Education or Lovrer  Basic Education
+#### 4.4.1 Primary Education or Lower Basic Education
 
-- This level  of education,  which consists  of full-time formal schooling  that is provided  fr:r  children frorn  age  sir (6)  to agc  twelve  (12)'  and constituting grades 1-6, shall be lree and compulsory  for all childrcn ol thc age rallge for such school levei, and shall be iree for all pr-rpils rvithin the public school  systeml
+- a) This level of education, which consists of full-time formal schooling that is provided for children from age six (6) to age twelve (12), and constituting grades 1-6, shall be free and compulsory for all children of the age range for such school level, and shall be free for all pupils within the public school system;
+- b) Education at this level will continue to be provided by the Government, private individual, organizations and institutions, and faith based institutions;
+- c) Parental responsibility with respect to compulsory education:
 
-- Education at this  level  rrill  continue tr: le  provided  by thc  Gorternment, private indiviclual,  organizaticins and instilutions, and faith bascd i nstitutions;
+  i. Every parent shall cause every child for whom he or she is responsible to attend a school from the first school day of the year in which such child reaches the age of six (6) until the last school day of the year in which such child reaches the age of eighteen (18).
 
-- Parental responsibility with respect to compulsory eclucation;
-
-- i, Every  parent  shall  cause  every  chilcl  for  whom  hc  or  shc  is responsible to altend a school fmm the first schooi day of the year irr rvhich such child reaches  the age of six (6) until  the last school day  of the  year in  which  such  clrild  reachcs the  age of eiglrtecn
-
-Edycati,n Relurrrt o!|3)  rott
+Education Reform Act of 2011                                      Page 23 of 42
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-- i i . Ii  a  child  who  is  subject  to  compulsory  attendance  ttnder  this  Act i s  not  enrolled  at  or  ibils  to  attcnd  a  school,  thc  circumstances  of the child's absence from scl"tool shall be investigated and ap;:ropriate steps  taken to  remedy thr:  siluation by  the  nearest public school auxhority. Failing slrch a  remedlr, N'ritlen noticrrr shall  he  issued  to  the  parenl by  the  schr:r:l  rcquiring cor:rpliancc with  the free and compr:lsory educaticln requiremetlt  of this Act.
+  ii. If a child who is subject to compulsory attendance under this Act is not enrolled at or fails to attend a school, the circumstances of the child’s absence from school shall be investigated and appropriate steps taken to remedy the situation by the nearest public school authority. Failing such a remedy, written notice shall be issued to the parent by the school requiring compliance with the free and compulsory education requirement of this Act.
 
-- i i i . Any parent  who, rvithout just  caLlse  and  after a writtcn  notice from the  schooi rcquiring  the  complianle, fails  tr: comply  witlr  the  free and  compulsory  attendance requiremenl  of the tl:is  Act, is guilty  of a misdemcanor  under  thc  Pcnal La,u'of Liberia.
+  iii. Any parent who, without just cause and after a written notice from the school requiring the compliance, fails to comply with the free and compulsory attendance requirement of the this Act, is guilty of a misdemeanor under the Penal Law of Liberia.
 
-- i v. A  school  maly excmpt  a  child  entilely, par"tially or  ccinclitionally from flee  ancJ compulsory  school  attcndancc i f i t   i s  i n  the  bcst i ntcrest  of  the  child,  cspecially  those  with clisabilities. A  registcr shall be  mairrtained by  Lhe  sch,:ol  of  childrcn exempteci  from compulsory  school attenclance; saicl register  shall  be readily  made available  by  the  custoclian  schor:l  to  cerLified  institutions with competence to attend to the educational needs of the disadvantaged  chi1d.
+  iv. A school may exempt a child entirely, partially or conditionally from free and compulsory school attendance if it is in the best interest of the child, especially those with disabilities. A register shall be maintained by the school of children exempted from compulsory school attendance; said register shall be readily made available by the custodian school to certified institutions with competence to attend to the educational needs of the disadvantaged child.
 
-- cil  The  Ministry, through i t s   appropriate  Dcpetrtment,  shall  havc  o""ersiglrt and  inspcction rcsponsibiiitics with regard  to  all  scltools  fallirrg  withirr this levcl of the  school system, ivhcthcr  thcy  bc pr-rblic  or private  schools, t<r ensure that the national cr.trriculttrn  are  bcing followed,  "Lhat lhc guiclelincs, rulcs  and  regulations  of tirc  Ministry  and  thc  Gotrernntent art: being aclhcred to,  and  that  tire  starldards  prescribed  by  Lhe Miuistll'are beirrg maintaincd;
+- d) The Ministry, through its appropriate Department, shall have oversight and inspection responsibilities with regard to all schools falling within this level of the school system, whether they be public or private schools, to ensure that the national curriculum are being followed, that the guidelines, rules and regulations of the Ministry and the Government are being adhered to, and that the standards prescribed by the Ministry are being maintained;
+- e) The Minister shall have the power and authority to repudiate and, where considered expedient in the interest of the students, suspend the authority of a District School Board over a school, which falls delinquent, and in non-compliance with the institutional and academic standard set by the Ministry for enhanced performance of students and/or schools. The intervention of the Minister shall remain valid until such time that the suspended school is back into compliance with set standards and the District School Board proves capable of overseeing continued compliance.
+- f) The curriculum for this educational level shall be conceptualized, developed, disseminated, implemented, monitored and supervised under the auspices of the Ministry or its designated entity or representative. Private schools may, however, develop their own curricula, subject to the minimum standards established by the Ministry and to the approval of the Ministry;
+- g) Each school operating at this level of the school system shall have an administration headed by a principal, consisting of a vice principal, and teaching staff that meets the minimum qualification prescribed by the Ministry;
+- h) Each primary school shall have attached thereto a guidance counselor or a teacher trained in guidance and counseling to counsel students, and a physical education teacher or teacher trained in physical education and health science for the health and well-being of the students;
 
-- The Milister shaXl  have the  power ancl ar:lhority  to  repr-rdiate  and,  qrhere consiciered  expedient i n the i nterest of the students, suspend thc arrthority  of a District  School Board ovcr al  school, which  lalls clclinquent. ancl in  non-compliance  rvith the  institutional and  acaclemic statrclard sc:l by  the  Ministry for  enhancecl pcriormance  of  studcrrts  and/or schools. The  intcn'ention of  thc  Mirrister  slrall  l'e nrarin  valid  until sr-tch  timc  thzlt the  suspenctccl  school is back itrto compl;ance with  set st:rndarcls ancl the District  School Boarcl proves capablc of oversceit:g contintted  cotnpliancc.
-
-- I The curriculurn for this edncational l cve1  shall be conccptualizcd, ctevelopcd, disseminatecl, irnplcnrented, monitored  and  supetwised undcr the  auspices  of  thc  Ministry or  its  dcsignated  cntity or  rcpresentativc. Private schools r:ay,  horvever,  develop their  r:r.vn curricr-tla, sullject  to tl're n:inintum standarcls  establishcd  by  the  Mirlistry  ancl to  thc  approval  oi the Ministry;
-
-- Each  school  operating  at  lhis  1cvc1  of  the  school  sy$tenl  shall  have  an aclmirristration  headed b}'a  principal,  consisting  r:f a vicc  principal,  and tcachin'g staff  that  meets  the  minirnum qualification prescribed  by  thc Minist{y;
-
-- Each  primary school  shall  have  attachcd  thereLo a guidance  counsel<;r or a  teacher  trainecl  in  gnidance  and  counseling to  counsel  students, arrcl a physical eclucation  teacher  or  teacher  trained in  physical cclucation  and health  sciencc  far  the  health  and  rveli-being  oi  thc  str-rdents;
-
-/t
-
-,
-
-li'
-
-i
-
-'
-
-Pase 24  or  42
-
-/-'
-
-fi  I
-
-Eddcdtlon Reform  Act  0f 241"7
+Education Reform Act of 2011                                      Page 24 of 42
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+- i) Any school within the primary level failing to conform to the minimum stipulated national standards or requirements, including the minimum curriculum prescribed by the Ministry, shall be closed and its license suspended or revoked by the Ministry.
 
-- il Any school within  the primary  level failing  lo  cnnftlrm  to  the minimunt stiiulated national  standards  or  requirernents, inclnding  the  minimum curriculum prescribed by  the  Ministrv,  shall  be closecl  atrcl its  licensc srrspended or revoked  bv the Ministry'
+#### 4.4.2 Junior Secondary Education or Upper Basic Education
 
-#### 4.4.2  Junior  Secondary  Education  or Upper Basic Education
+The Junior Secondary Education or Upper Basic Education, the final half of the Basic Education Program, shall have the following features:
 
-The Junior  Secondary Education or Upper Basic Eclucation"  the final half of lhe Basic Eclucation  Ptogta-.  sha]l have  the following features:
+- (a) Education at this level, which comprises the first three years of schooling at the secondary level (i.e. 7th, 8th, and 9th grades), shall be compulsory for all children, and shall be free for all pupils within the public school system;
+- (b) Each county is required to have at least one public Junior Secondary School per district, established gradually on an incremental basis depending upon the availability of resources by the Government;
+- (c) The Ministry, through its appropriate Department, is vested with the authority to set the criteria and guidelines for the establishment, accreditation and operation of schools at the Junior Secondary level of the school system, to establish minimum standards for all schools at that level, and to monitor the school within this level to ensure that the established standards are maintained and continued. The Ministry shall suspend or revoked the accreditation of any school failing to maintain the required standards lay down by the Ministry;
+- (d) Each Junior Secondary School not housed in the same facility or in a facility attached or adjacent to the Lower Basic Education (the Primary School) or a Secondary School, is required to have its own separate administration with a principal, a vice principal and teaching staff that meet the minimum qualification requirements prescribed by the Ministry;
+- (e) All teachings with the schools at this level, whether public, private or faith based, shall conform to the standard National Curriculum conceptualized, designed, developed, evaluated, disseminated, implemented and being supervised and monitored by the Ministry;
+- (f) Each Junior Secondary School not housed in the same facility or in a facility attached or adjacent to the Lower Basic Education shall have attached thereto a guidance counselor or a teacher trained in guidance and counseling to counsel students, and a physical education teacher or teacher trained in physical education and Health for the health and well-being of the students;
+- (g) Students of Junior Secondary Schools, as part of their examinations for completion of their programs, consistent with the curriculum designed and approved by the Ministry, shall sit examinations conducted by the West African Examination Council (WAEC) or any other examination body designated by the Ministry. These exams shall be considered a common entrance examination for the Senior Secondary Education level;
 
-(a) Education  at  this l e v e i ,   w h i c h   compriscs  rhe f i r s t . t h r c e yeals  of schooling  at  the  secondary  Ievel (i.e. zth, gth,  anct 9th  grades|, shall be  compirlsory for  all  chiliren, ancl shall  be  free  for  all  pupils within tl-re  public  school  system;
-
-(b) Each  county  rs required  to have at least one public  Junior  secondary School  per-districi. establishecl  gracl-rally on  an  incremental basis dcpending  upon  thc  at'ailability  of resources by the Goventmenti
-
-(c) The  Ministry,  through  its  appropriate  Department'  is vested with  the authority to sct  thi critcria ancl  guiclelines  for  the  estabLlshnrent, accreditation  and  operation of sctrools at the Junior Secorrdary  level o[ the  school  system, io  establish  minimum standards  for all  scltools at that  level, and  to  monitor  lhe  school  within this  level lo  ensure  thal the established stanclarcls  are maintair"red  and continued' The Ministry shall  suspcnd  or  revoked  rhe  accredit.alion  of  any  schQol failing  to  maintain ihe  required  standarcls  lay  down  by  the  Ministry;
-
-(d) Each .Junior Secondarl  School not  housecl in  the  same facilitr*  0r in  a facility attached or acljace rrt to tiuj Lowcr Basic Eclucation (thc PrimarySctrool}oraScconclarySchool,isrccluircdtohar'eitsort'rt u*pur^i"  administration with  a principal,  a vice .principal and teaching staff  that  nleet  the  minimum qualification reguirements prescribed  b1' the Ministry;
-
-{e)  Ali  teachings  with  the  schools at  this  ievel, wirether  public.  prirtatc or faith based,  shall confortn to the stanclard National curricttir-rn conccptualized, designed' deveiopecl, evaluated'. clisscminatccl' i m p l e m e n t c c l a n d b c i n g s u p e r r ' i s e c l a n c l n r o n i r o r c c l b y t h e M i r r i s t r y :
-
-{f}  Eacir Junior  Sccondary  School nOt housed  in  thc  sarne facilitl'  or  in  a facility  attached  or  adjaccnt  to  the  Lor,ver  Basic  Education  shall  ha'e aLtachedtheretoaguidancccounselororateachertraincdin guidance and cour,s"li,'g to counsel students' and a physical education  teacher or teacher trained  in  physical  education  and  Health for the  heaith  and  well-being of the studenls;
-
-( g } s t u d e r r t s o f J u n i o r S e c o n d a r y S c h o o l s , a s l r a r t o f | h e i r e x a r r r i n a t i c t t ' t s for  compietion of  their programs' consistent rvith .the crtrriculum clesigned  ancl  approved'uir ttre Ministry, shall sjt examinations corrcluctcd  Uy  the  Wcst  Afi'ican  Exarrinatirln C.runcil 1WACCI  or  all-v othcr examination bodv  clesignated  by the Ministrr' *f.nfi  t. considered  a  common  entrarce cxamination These exams fnr the .3et:ior $econdarY  Education level; &r, ' .'  ,  -Page
-
-25  of  4?
-
-25  of  4?
-
-€ducutiurt Refurnr A€t  of 2011
-
+Education Reform Act of 2011                                      Page 25 of 42
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+- (h) Any school within the Junior Secondary school level failing to conform to the minimum stipulated national standards or requirements, including the minimum curriculum prescribed by the Ministry, shall be subject to closure and its license suspended or revoked by the Ministry.
 
-{h}  Any school within  the Junior  Secondary  school levei  failing to cnnlorm to  the  minimum stipulated  national standards  or  requirernents, including  the minimum  curriculum  prcscribed by the  Ministry,  shall be  subject  to  closnre and  its  license suspendecl  or  revoked by  the Ministry.
+#### 4.4.3 Senior Secondary Education
 
-#### 4.4-3  Senior Secoadar5z  Edueation
+The Senior Secondary Education, comprising schools established at the senior level of the Upper Basic Education, shall continue and shall have the following features and be governed by the following basic rules and guidelines, in addition to those prescribed by the Ministry:
 
-The  Senior  Secondary Education,  comprising  schools  established at  the $enior level of the Upper Basic Edttcation, shall continus and shall have the following  features  and be  governed by the  following basic  rules  and gSridelines, in addition to those prescribed  by the Ministry:
+- a) Education at this level, comprising the last three years of the secondary schooling level (i.e. 10th, 11th, and 12th grades) shall be conducted by schools established, owned and operated by the Government, private individuals, organizations or institutions, or faith based institutions and shall consist of two kinds:
 
-- Education at this  level, comprising the last thrce years of the  $econ(lary schooling  level  (i.e. lOth,  ilth, and 12th grades)  shall be conducted by schr:ols established, owned and  operated by  thc  Govemtnent,  private individuals,  organizations or institutions,  or faith  based institutions  elnd slrall  consist  of two kinds:
+  i. General Senior Secondary Schools, which shall operate a comprehensive curriculum; and
 
-- General  Senior  Secondary  Schools.  which shall op€rate  a comprehensive  curriculum ; and
+  ii. Specialize Senior Secondary Schools which shall cater to pupils whose interests and aptitude are for special subject areas, including science and mathematics, technology, agriculture, and nutrition.
 
-- ii,  Specialize  Senior Secondary  Schools  which  sha1l  cater tr: pupils whose  interests  and aptitude are  for special  subjcct  areas, including science  and mathematics, technology,  agriculturc. and nutrition.
-
-- b|  A pre-requisite  for entry at this level  shall bc  passing  of an cxaminatiotr administered at  the end of Basic Education. This examination shali bc regarded  as a common entrance examination,
+- b) A pre-requisite for entry at this level shall be passing of an examination administered at the end of Basic Education. This examination shall be regarded as a common entrance examination.
 
 ### 4.5. Age of Entry
 
-The  ag,es  of  entry into the  different lcvels  of  the  school  educationai system shall be as follows;
+The ages of entry into the different levels of the school educational system shall be as follows;
 
-- Early Childhood Education shall bc belween (thrce)  3 years and live (5)  years of age,  provided  children above  five (5)  years shail be eligiblc for  special eCucational  opportunitics such  as  accclerated  learning programs; a)
+- a) Early Childhood Education shall be between (three) 3 years and five (5) years of age, provided children above five (5) years shall be eligible for special educational opportunities such as accelerated learning programs;
+- b) Basic Education (Lower Basic Education), which shall be free and compulsory, starts at age six (6), provided a child starting school above this age should be eligible for special lower basic education opportunities
+- c) Junior Secondary Education (Upper Basic Education) starts at age twelve (12);
+- d) Senior Secondary Education starts at age fifteen (15).
 
-- Basic  Education  ([,ower Basic  Education), which  shall  be  free and compulsory,  starts  at  age six  (6), provided  a  chilcl  starting  school above this  age should  be eligible for  special lower  basic education opportunities Dl
-
-- Junior Sccondary Education  (Upper Basic  Edrrcation! starts  at  agc t welve  (12);
-
-- Senior  Secondary  Education starts  at  age fifteen  {15),
-
-']
-
-&
-
-l:i'"
-
-,/r
-
-f",
-
-{dtttatlon  Reform Act  al 2011
-
-Page 16  af  4?
-
+Education Reform Act of 2011                                      Page 26 of 42
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+### 4.6 AUTONOMOUS/AUXILIARY BODIES
 
-### 4.6 AUTONOMOUS/AIDALIARYBODIES
+4.6.1 The Ministry, in its decentralization drives, shall establish the following autonomous/auxiliary educational bodies:
 
-+'6'l The Ministry,  in  its  decentralization  drives, shall  establish the  fnllowing autonomous/ auxiliary educational bodies:
+#### a) National Council for Adult Education
 
-#### a) I{atlonal Councll  for  Adult  Education
+##### i. Functions and Responsibilities
 
-##### Functions  and Responslbilities
+The National Council for Adult Education shall have the following duties and functions:
 
-The  National  Council  for  Adult Education shall  have  the following duties and functions:
-
-(U The  development anci implementation  of  programs  fnr adult and non-formal educalion in Libcria;
-
-(21 The development  of policies for the administration  of
-
-Adult and non-formal education programs in Liberia.
+- (1) The development and implementation of programs for adult and non-formal education in Liberia;
+- (2) The development of policies for the administration of Adult and non-formal education programs in Liberia.
 
 ##### ii. Membership
 
-The Council shali consist of the following rnembers  appointed by  the  Minister  for  four  (4) years, and  one of  whom  shall  be elected  as chairperson.
+The Council shall consist of the following members appointed by the Minister for four (4) years, and one of whom shall be elected as chairperson.
 
-- The Head of the  Department  of Continuing  Educatior: at the University  of Liberia;
+- (1) The Head of the Department of Continuing Education at the University of Liberia;
+- (2) The Head or designated representative of the Liberian Association of Non-Governmental Organizations (LANGO), where one is in existence;
+- (3) The Head of the National Commission for Higher Education;
+- (4) One County Education Officer from each of the administrative regions of Liberia; and
+- (5) The Minister appointed representative, who shall serve as Secretary to the Council.
 
-- The Head or  designated  representative  of the  Liberian Association  of Non-Governmental Organizations (LANGO), where  one  is in existence; 12l
+#### b) The National Education Advisory Board
 
-- The Head  of the National  Commission  for Hisher Education; ( 3 )
+##### i. Establishment
 
-- One County Education Officer lrom each of thc administrative regions of Liberia; and (4)
+There is hereby established a National Education Advisory Board.
 
-- The Minister  appointed representative, who  shall  scn'e as Secretary to the Council. {s}
+##### ii. Objectives
 
-#### bf  The lSational Educatioa  Advlsory  Board
+The Objectives of the National Education Advisory Board shall be:
 
-##### i.  Establishment
+- (1) To promote national participation in the design, development and support of national education policies and programs;
 
-There is hereby established  a National Oducation Advisory Board.
-
-##### ii,  Objoctives
-
-The Objectives  of the National Education Advisory Board shall be:
-
-- To promote national participation  in the design, derrelopment  and support of national education polic,ies  and programs;
-
-Educutiurt Fefarm  Act  af 2017
-
+Education Reform Act of 2011                                      Page 27 of 42
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+- (2) To ensure that the education policies designed for the country incorporate local and regional inputs;
+- (3) To assemble public, private and faith based concerns, interests, and aspirations regarding policies, plans and regulations pertaining to the organization, location, distribution and functioning of educational institutions, programs, and support services;
+- (4) To undertake debates and facilitate dialogues to create consensus on vital issues regarding the direction and dimension of education, with emphasis on access, quality, relevance, standards at all levels, as well as costs and financing;
+- (5) To enhance transparency, accountability, and democratic tenets in the education sector such as would be transferable to other areas of nation building.
 
-I
+##### iii. Appointment of Members
 
-(21  To  ensure  that  the  education  palicies designed for  the  country incorporate local and regional  inputs;
+The Minister shall appoint the members of the National Education Advisory Board, upon the approval of the President. The Board shall comprise the following individuals and institutions:
 
-- To assemble public,  private and faith  based concernsi interests. and aspirations regarding policies, plans anr{ reg.rrlat'ions pertaining to the organization, iocation, distribution and functioning of  educational institutions,  programs, and  support services; (3)
+- (1) Five (5) persons selected from the County School Boards of the fifteen (15) counties, done on a rotational basis as would ensure that all of the counties’ boards are at different times represented on the Board. Membership of the County School Board shall rotate among the counties so that no County School Board chair shall serve on the National Education Advisory Board more than once in any three- year period;
+- (2) The Chairperson of the Council of the Monrovia Consolidated School System of Liberia;
+- (3) The President of the National Principal Association of Liberia, where one exist;
+- (4) The President of the National Teachers Association of Liberia, where one exist;
+- (5) The President of the Parent-Teacher Association of Liberia;
+- (6) One prominent Liberian Educator designated by the President;
+- (7) The Executive Secretary of the Association of Liberian Universities;
+- (8) One representative selected by the Federation of Labor Union;
+- (9) The President of the Liberian National Students Union (LINSU);
+- (10) One representative from the Civil Service Association;
+- (11) One representative from the Chamber of Commerce;
 
-- To undertake debates  and facilitate dialogues to create  consensu$ on vital issues  regarding  the direction  and dimension  pf education, with emphasis on access,  quality, relevance,  standards at all levels,  as well as costs and financing; (4)
-
-- To enhance transparency, accounlability,  and  democratic tenets in  the  education  sector such  as would  be  transferable to  other areas of r:ation building.
-
-##### lii.  Appointment of Members
-
-The  Minister  shall  appoint  the  members of  thc  National  Eclucntion Advisory Board, upon the approval of the President.  The Board shall cornprise the following individuals ancl  institutions:
-
-(11 Five (5) persons selected  from the County School Boards of the fifteen (15)  counties,  done on a ratational basis as would ensure that  all  of the counties' boards are at different tirnes reprcsented on  the  Board.  Membership of  lhe  County  School Board shall rotate among thc countics so that no County School  Board chair shall sewe on the National Education Advisory Board more thart once in any three-  ycar period;
-
-(21 Tl"re  Chairperson of  thc  Council of  the  Monrovia Consolidated School System of Liberia;
-
-(31 The  President of  the  National  Principal  Assq:ciation o[  Liberia, where one exist;
-
-- t4)  The  President o[  the  National  Teachers Associalion  of  Liberia, where one exist:
-
-{5}  The President  of the Parent-Teacher  Assaciation of Liberia;
-
-- One prominent Liberian Educator designated  by the President;
-
-- l7l  The Executive Secretary of the Association of Liberian Universities:
-
-(8|  One representative  selected  by the Federation of Labor Union;
-
-(91 The Fresident  of the Liberian  National  Students Uuion (LINSU);
-
-- from  the  Civil  $en'ice  Association; {1  0) One representative
-
-- from thc  Chatnbcr  ol Comtnerce; {f  1}  One  reprssentative
-
-, i
-
-f r ,
-
-i
-
-,
-
-' Fage 28  of  42
-
-l//-
-
-Fducqtian Refarm  Act  af  2AJ.7
-
+Education Reform Act of 2011                                      Page 28 of 42
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+- (12) One representative from the Association of Private School Operators;
+- (13) The national head of the West African Examination Council (WAEC);
+- (14) One representative selected from the Technical and Vocational Education Training Institute.
 
-(  121  One  representative Operators; front Lhe Assaciafion of Private Scirool
+##### Iv Tenure of members of the Board: Except for the institutional representatives, tenure of membership of the Board shall be for a term of three (3) years with eligibility for one re-appointment.
 
-{ i   3 }   T h e national head (WAEC); of  the  West .A.frican Examinatinn Courrcil
+##### v. Rule Making Power of the Board: The Board shall set such rules, policies and regulations as shall be necessary for the governance of its operations.
 
-- the  Technical  and  Vocatir:nal (14)  One  representative selected from Education Training Institnte.
+#### c) County School System and Boards
 
-##### Iv  Tenure  of  rnembers  of  the  Board: Except for  the  inst:tutional rcpresentatives, tenure  of  membersh\r  of  the  Board  shall  be  fr:r a term of three  13) years  with eligibility  frrr  one  re-appoinlmcttt.
+##### i. Establishment of the County School System: There is hereby established a Consolidated School System in each County of Liberia to function and operate in a manner similar to that of the Monrovia Consolidated School System.
 
-##### Rule  Making  Power of  the  Board: The Board shall  set such ruics, policies and regulations as shall be neccssary  for the govertrance  of ils operations.
+##### ii. Establishment of County School Boards: There is hereby established a County School Board for each county of the Republic, and whose offices shall be situated within the county headquarters. The model used by such Boards shall be patterned after the one that established the Monrovia Consolidated School System (MCSS), provided that the Minister is authorized to make such modification as may be needed to reflect changed situations in the Country.
 
-#### c!  County  School  System and Boards
+##### iii. Functions of the County School Boards: The Functions of the County School Board shall be to:
 
-##### Estabtishment  of the  County  School System: There  io hereby established a  Consolidated  School System it-r each County of Liheria to function  and operate ir: a manner  similar to that of the Monrovia  Consolidated  School  System,
+- (1) Facilitate, monitor and oversee the operation of all schools in the local county school system in accordance with the guidelines, policies and regulations promulgated by the Ministry. The County School Board shall work in tangent with the Chief Education Officer of the county who is charged with the management of the daily operations of the school system under contract with and direction of the Board;
+- (2) Ensure implement the Education Programs of the Ministry in accordance with the guidelines, policies, rules and regulations developed by the Ministry;
+- (3) Take responsibility for all educational activities within the borders of a given county or other prescribed area;
 
-##### Establishment of  County School  Boards: Thcre  is  hcr:eby established a  County  School  Board  for  each  cor-tnty  of  the Repubiic, and  whose oflices shall  be situated  within  the  cou:rlv headquarters.  The model used  by such Boards shall be patterned after the one that cstablished  the Monrovia consolidated  school System (MCSS),  provided  that the Minister is authorized  to make such modilication  as may be needed  to reflect  changcd  sitr,ratiolrs in the Countrv.
-
-##### Functions of  the  County School  Boards: The  Functions  of the County  School  Board  shall  be to: 111.
-
-(1')  Facilitate,  monitor  and  oversee the  operation  of all  schools irt the tocal county school system in accordance rvith the guidelines, policies and rcgulations promr-rlgated by the Ministry. The County  School  Board  shall  work  in  tangent  with tire  Chief  Education Officer  of  the  county  rvho  is chargcd  u'ith the  management of  the  daily  operations of  the  school  system under  contract  with  and  direction of the  Boardi
-
-{21  Ensr-Lre  irrplement the  Educatiou Prog,rams of t}re Ministry in accordance with the gr:idelines, policies, rules arrd ' regulations developed by  the  Ministry;
-
-{3} Take  responsibility for  all  educational activities within thc borders  ofa given colrnty  or  other  prescribed  area;
-
-&  /ll'"
-
-Pagc  29  of 42
-
-Education RYfurut Ail  of zAJt
-
+Education Reform Act of 2011                                      Page 29 of 42
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+- (4) Nominate or employ qualified professional and service personnel for the system, subject to the approval and confirmation of the Minister;
+- (5) Prepare and submit to the Ministry the budget and annual report of the operations of the schools within the respective domains;
 
-(-ii  Nclminate or employ  quarificci  professionar  and sen,icc personnel.  for the system,  subjeit to the approval  and confirmation  of the Minister;
+##### iv. Membership of Each County School Board and Criteria for Appointment
 
-- Prepare  and  submit  to the  llirristry  the  buciget  and  annr-ral report of the opcrations  of the schoors  withii thc resperri'e domains;
+- (1) The membership of the County School Board shall be not less than seven (7) but not more than the number of education districts in the county, whichever is greater; provided, however, that the Ministry may determine such other limits as necessary, using the model of the MCSS;
+- (2) Each member of a County School Board must be a resident of the county and must possess knowledge and experience such as bring values and benefits to the operations of the local school system;
+- (3) Membership to the County School Board shall be a list prepared by the Minister of Education. Notice of the appointment to membership of the Board shall be by a letter duly signed by the Minister;
+- (4) Membership on the County School Boards shall reflect gender equity and balance in terms of the educational districts of the County.
 
-##### iv' lwembership  of  Eaeh  county schoor  Board. and  criteria for Appointment
+##### v. The following categories of persons shall be precluded or disqualified from serving on the County School Board:
 
-- The membership  of the cor.rnty  scrroor  Boarcr  shall be  rinr  ress than  seven (7) b't not morc rhan the r:urnbcr or eclucatir:n districts in th_. county,  whicherrer is greater;  pror:iclecl. however,  that the Ministry may crctcrmine  sucrr otrrer  lirnits as necessary, using the model  of the MCSS:
+- (1) Persons found guilty by a court of competent jurisdiction of a felony;
+- (2) Persons who are not citizens of Liberia;
+- (3) Persons who do not reside in the county;
+- (4) Persons who are members of the Legislature or who hold elected county offices; or are Presidential appointees.
 
-(21 Each mcmber of a county schoor  Boarcl  must be a resicient r:.[ the county and must possess  knr:wledgc  and expcnen.ce such as bring varucs and  be'cfits  t' the  Iperations  clf the ,ocal school  system;
+##### vi. Appointment of Chairperson and Election of Vice Chairperson and other Officials
 
-{3)  Mcmbership to  rhe  counly  scho.i  Boar-ci shalr be  a  risr prepared  by the Ministcr of Educatior:.  Notice  of the appoi;rtment  to -mcmbership  of thc Board shall be by a letter clr-rly signcd  by thc Minister;
+- (1) Each County School Board shall have a Chairperson and a core of Officers elected at the first sitting of the Board. The CEO of the County shall serve as the Secretary of the Board. The Secretary shall cite the first meeting of the Board;
 
-- Membership on thc County School equity and balancc in  tcrrns of thc Cout'rtv. Bclards shall reflect sencler eclucaLiorr al di  stricts=r:f  thc
-
-##### v. lfe f9ltowing  categories  of  p€rsons  shall  be  precluded  or disqualilied  from serving on the County  School Board:
-
-- Persons f ound guiity  by a con:t'f competent  juris-clictio'of  a [clony;
-
-- tZ)  Persons  who are  not citizens  of Liberia;
-
-{3)  Persons  rvho  do not rcsicle in trc  county;
-
-{4}  Persons who  arc  rnembers  of  t}re Legislaturrc or  ,"vho  horcr clecte d county oflices;  or arc  presidentiil  appointecs.
-
-##### Appointment  of chairperson  and Election  of vice  chairperson and other Officials
-
-- Each cou'ty school Board shalr rrave  a  chairperson and a core of  officers  elected  at  the  fir*t  sitting  of trre Board. The CEO of the County shali scn,e a,s  the Secietary of the  goarA. The secrctary  shall cite  the first meeting  of trre'B*arcl;-
-
-,** l'/
-
-,** l'/
-
-Page 30  of  42
-
-'"'
-
-Educqtion Reform  Act  of Z1JI
-
+Education Reform Act of 2011                                      Page 30 of 42
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+- (2) Each County School Board shall have a vice chairperson who, along with other officials, shall be elected by the County School Board. The vice chairpersons shall act for the chairperson in the absence or disability of the chairperson, or where the chairperson is permanently disabled, dismissed or dies.
 
-- Each  county school  Board  shatl  have  a vlce  chairpers*n r',.ho, along with other officials, shall be  electecl  br.  rfre  cou'r' school Board. The vice chairpcrsons sharil  acr for ttre chairperson in  the  absencc  or  disability of ihe  chairperson, or where  the  chairperson  is permnnently  rtisabled, dismissecl or dies.
+##### vii. Tenure of Members
 
-##### vii. Tenure  of Members
+- (1) The members of the County School Boards shall each serve for a term of four (4) years, but may be reappointed for a second four (4) year term; provided, however, that no member shall serve on the Board for more than eight (8) consecutive years;
+- (2) For the purpose of continuity of institutional knowledge on the County School Board, the tenure of members shall be staggered such that four (4) of the seven (7) members appointed to the first Board shall each serve a term of two-years; thereafter, each members appointed shall serve the term of four (4) year as provided in this Act.
+- (3) A member of a County School Board may be suspended or removed from office for proved misconduct, conviction of a misdemeanor or higher offense in a court of competent jurisdiction, sexual abuse or misconduct, gross insubordination and such other conducts as defined by the Civil Service Regulations.
 
-- The members  of the County School  Board"s shall each sene for a ternr of four  (4) years, but  may be reappointed for a second four  (4) year  termi  provided. horvever, that  no  member  shall serve  on the Board  for more  than eight (8)  consecutive ).ears;
+##### viii. Guidelines and Rules to be set by Ministry: The Ministry is vested with the power and the authority to design and set such further guidelines and policies as may be necessary for the proper functioning of the County School Boards.
 
-- For the purpose  of continuity of inslitutional knowiedge  on thc Counry  School  Board,  the tenure  of members  shall  be staggered such  that four {4}  of the soven  (Tl  members appointed to  the first Board shall each serve a  term  of twoyears;  thereafter,  caclr  memhers  appointed  slrall sene :he term of lour  (4)  year as provicled  in this Act.,
+#### d) District School Boards: There is hereby established District School Boards within each County Consolidated School System of Liberia. The Ministry is authorized, in consultation with LISGIS and the Ministry of Internal Affairs, to establish the various districts constituting educational districts. The District School Boards, like the County School Boards, shall function in accordance with and be governed by the provisions above relating to the County School Boards, as to their functions, membership and tenure, except that these shall operate at the level of the districts. The District School Boards shall be responsible to the County School Boards and shall operate within guidelines, policies, rules and regulations developed by the Ministry.
 
-- A  member  of  a  Counry  Schocl  Board  may  be suspenclecl  or removed from  office for  proved  misconcluct,  conviction  of  a misdemeanor  or  higher  offense  in a court of  corrpetent jurisdiction, sexual abuse or misconduct, gro$s insubordination  and  such  othcr  cor:dncts as  delinccl by  the Civil Sen'ice  Regulations.
+#### e) Technical and Vocational Education
 
-##### vtii.  Gutdelines  and Rules to with  thc  powcr and  the guideiines  and policies functioning of the County be set by Ministry: The authority  to  dcsign and as may be llecessary School  Boards. Ministry is r,cstcd set  srrch further for the proper
+The Ministry shall design policies and guidelines for the establishment, management, financing and supervision of the Technical and Vocational Education Programs of Liberia.
 
-#### District  $chool Boards:  There  is hereby  establishecl District School  Boarcls within each County Consolidated  School  System of Liberier. The Ministry is authorized, in  consultation with  LISGIS and the  Mirristry of Interna-l  Affairs, to  estabiish the  various  districts  constituting  educational districts. The District  school Boards, like  the  county  scirool Boarctrs, shail  function  in accordance with  and  be governed by  the  provisions  above rclatirrg to  the County $chnol Boards,  as to their ft-rnctions, membership  and tcnllre, except thart  these shall  operate at  the  ievel of  the  districts, Thc  District  School Boards shall bc responsible  to the County School  Boarcls  and shall operate within  guidelincs, policies,  rules and regulaticrns  cteveloped by the Ministry.
+#### f) Teacher Education
 
-#### el Technical and  Vocational Education
+The Ministry shall design policies and guidelines for the establishment, management, training, supervision and financing of Teacher Education Programs for the country.
 
-The  Ministry shall design policies  and management, financing and supervision Education'Programs of Liberia. guidelines for  the  establishment, o[  thc  Technical  atrd  Vocallorrai
-
-#### f) Teache r Educatiorr
-
-f o r   t h c   establishmerrt, o[  Tcachcr Eclr-rcat i on The  Ministry shall  design  policies  and  guidelines management,  training, supervisiolr  and  financing Prograrns for the counlry.
-
-Education Reforrn Acl  u[ 201L
-
+Education Reform Act of 2011                                      Page 31 of 42
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+## CHAPTER-5: ESTABLISHMENT OF SCHOOLS
 
-i
+### 5.1 Establishment of new Educational Facilities: Criteria:
 
-## CHAPTER-S:  DSTABLISHMENT Of' SCHOOLS
+The Minister shall establish policy guidelines and criteria regarding the establishment of new educational facilities for all categories of schools in the country.
 
-### 5,I Establishment of  new  Educational Facilities: Crlteria:
+#### a) Policy Guidelines for the establishments of schools
 
-Thc  Minister  shall  establish  poliey  guidelines  and  criterja  regarding  the establishment of ner.v  cducational facilities for all calegories  of schools  in  li:e c0untry,
+The Ministry shall establish policy guidelines regarding other requirements inclusive of schools now in existence but not in compliance with the land and other requirements. The Ministry shall also design policies to determine penalties for the unauthorized establishment of schools.
 
-#### a! Policy  Guidelines  for the  establishrnents  of schools
+#### b) School Subsidies:
 
-The Ministry shall cstablish policy gr"rideline s regarding  other requirements inclusive of  schools  norv  in existence but not in cornpliance  with  the land and other rcquirements, The Ministry shall also design policies to determine penalties :or the unauthorized  establishment  of schools.
+The Ministry shall establish policy guidelines regarding the provision of subsidies to all schools within the various classifications or categories of schools -- a, b, d, e and f.
 
-#### bl Bchool Subsidles:
+#### c) Classifications of Schools:
 
-The Ministry  shall establish policy guidelines regarding the provision of  surbsidies  to  all  schoois within the  various  classifica'.ions  ur categories of schools  --  a, b, d, e  and f.
+The Ministry shall establish or cause to be established thru the Board of School Accreditation policy guidelines regarding the classification of schools into classes or categories a, b, c, d, e and f.
 
-#### Classifications of  Schools: The Mir:istry shall establish  or cause to  be  established thru the  Board  of  School Accreditation poiicy guidellnes  regarding  the  clerssification of  schools  into  classes  or catcgories  a, b, c, d, e and f.
+- 5.2 There shall be at least one (1) Multilateral Vocational School established in each county to provide training in vocational skill-development and job apprenticeship.
 
-- 5.2 There shall be at least one {11  Multilatera!  Vocational Scirool  established  in cach county  to  provide training  in  vocationai skill-dcveiopmetrt  and  job apprenticeship.
+## CHAPTER 6: TEACHERS AND EDUCATION ADMINISTRATORS
 
-## CHAPTER 6: ?EACHERS AND EDUCATION ADIVIINISTRA?ORS
+### 6.1 Recruitment
 
-### 6.  1 Recruitment
+- 6.1.1 Every person to be employed or recruited as a teacher or administrator shall possess a teaching certificate or degree.
+- 6.1.2 All recruitment shall be in line with the Civil Service Agency (CSA) recruitment procedures.
 
-- 6.1.1  Every  person  to be employed  or recruited  as a teacher  or administrator shall po$sess  a teaching  certificate  or degree.
+### 6.2 Qualifications and Eligibility Criteria
 
-- 6.I.2 A1l recruitment  shall  be  in line  with the  Civil  Sen,icc Agcncy  (CSA) rccrttitment procedtlrcs.
+#### 6.2.1 Teachers and Administrators
 
-### 6.2 Qualifications and Eligibtlity Criteria
+All teachers and administrators of schools, to be eligible to hold the positions enumerated herein, shall be licensed to teach and shall meet the following requirements:
 
-#### 6.2.L  Teachers and Administrators
+- a) For Senior Secondary School instructors and administrators, a minimum of a Bachelor’s Degree in Education or its equivalent and an A- Certificate;
 
-All teachcrs  anci  adrninistrators  of schools,  tc be eligible  to hold the positions enumerated  herein, shall be licensed  to teach and shall meet the :ollorving requirements:
-
-- For Senior  Seconclary minimum  o{ a Bachelor's A- Certificate: School  instructors and administrators, a Degree  in  Education or its equit,alent  and an l ) , ' , / / 1 ' -
-
-.
-
-/
-
-t   -   ' our.
-
-32  al  42
-
-.
-
-/
-
-t   -   ' our.
-
-32  al  42
-
-l t
-
-'I
-
-i l
-
-{
-
-Etlucotiotl ftefarnt Act  af  20J'1"
-
+Education Reform Act of 2011                                      Page 32 of 42
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+- b) For Upper Basic Education (Junior Secondary) teachers and administrators, at least an Associate Degree from a recognized teacher training institute and a B-Certificate from the authority established under this Act that is empowered to issue Teachers’ Certificates;
+- c) For lower Basic Education (Primary Schools) teachers and administrators, at least an Associate Degree for grades (4-6), and a high school diploma with at least one year of post-secondary teacher training at a recognized teacher training institution for grades (1-3); the person must also possess a minimum B or C Certificate.
 
-i
+#### 6.2.2 Principals of Schools
 
-- bl For upper Basic Education  (.lunior  seconelarvl teachers  and administrators,  at least  an Associate Dcgree  fi-orn  a iecognizecl teacher training institute  and a B-certificate fron: the ar_rthority establisheci under this Ac; that is ernponrered to issue  Teachers'certificates;
+- a. Every public school within Liberia, having more than one teacher in its employ, shall be headed by a principal who, in the case of a public school shall be recruited on a competitive- merit basis by the local school board and then appointed by the Ministry of Education. In the case of private or faith-based schools, the recruitment and appointment shall be by the organization or institution, which owns the school;
+- b. Public school principals shall be subject to rule(s) and regulations made by the Ministry and the local school boards, provided the local school board regulation and procedures do not contravene the national rules and requirements;
+- c. Principals of private and faith-based schools shall be subject to rule(s) and regulations made by the Ministry.
 
-- cl For lower sasic Education (primary schools) reachers anci aclministrators,  al  least an Associate  Degree  for grades  {4-6f,  ancl a high  school diploma  q,ith  at lcast r:nc  1'ear  of post-secondary  teachcr training at a recognized  teacher  lraining instilution  for gracles  (l-3); the person  must aiso  possess a minimurn B or C Certificaie .
+#### 6.2.3 Establishment of County Education Office
 
-#### 6,2.2 Principals of Schools
+There is hereby established in each county a County Education Office that shall be located at the county seat of Government, to be headed by a County Education Officer. The County Education Office shall be the Central Education Office of the Ministry.
 
-- Every pubiic  school within  Liberia, having more tiran  one teacher in its employ,  shall be ireaded  by a principal  who, in the case  of a public school shall be recruited on a  compctitive-  merit  basis bv the local school  board and then appointed  by the Ministry of Education" In thc case  of prir,rate or faith-based  schools,  the recruitment  and appointment shall be by thc olganizatiorr  or institr-rtion,  which or,vn* the school;
+#### 6.2.4 County Education Officers: Appointment and Tenure
 
-- b,  Plrblic school principals shall be subject to  rule(s) and  regulations macle  by the Ministry  and the local school boarcis,  prorricled lhe lgcal school  board  regulation  arrd  procedures do  nnt  contr:avene  the natir:nal  rules and requirements:
+##### a) Appointment
 
-- Principals of prirrate  ancl faith-based  schools shall  bc subiect  to rulcls) and  regulaticr:rs made  bv the  Ministry
+The Education office of each county shall be headed by a County Education Officer (CEO) recruited on a competitive-merit basis and nominated by the County Education Board for appointment by the Minister, in line with rules, regulations and qualification criteria set by the Ministry, subject however to the qualification criteria set forth in section 6.3.3 below.
 
-#### 5.2.3 Sstablishment  of County  Education  Office
+##### b) Tenure
 
-There is hereby established  in cach county a County Education Officc  that shall be located  at the county seat  of Government,  to be hcadccl  by a County Education  Officer.  The  County  Education  Office  shall  be  the  Central Education Office  of the Minlstry.
+The County Education Officer shall serve for a period of four (4) years and shall be eligible for appointment for a second four (4) year period; provided that no County Education Officer shall serve for more than two consecutive terms in the same County.
 
-#### 6.?,4  Connty Sducation Officers: Appointment  and Tenure
-
-##### al  Appointment
-
-The Education office of each  courlty shali bu headed  by a county  Education officer  {cEo)  recruited  on a compctitive-merit basis and  nominaterl by the County Education Board for appointment by'the A,{inister,  in line with  rrrles, regrtlations and qualification criteria set by the Ministry,  subject however to thc clualification  criteria set forth in section 6.3.8 below.
-
-##### b|  Tenure
-
-The Count!  Education  Officer shall serve for a period shall be eligible for appointment for a  Eecond  four  (4| that  no County Eclucation Officer shall senre  for more terms in the same  County, of  four (4) years  ancl year  period;  prorrided lhan  two  consecutive
-
-h
-
-Education  Refarm  Afi  of 2A1"1
-
-Page  33  of 4Z
-
+Education Reform Act of 2011                                      Page 33 of 42
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+##### c) Eligibility for Appointment
 
-\.
+The minimum eligibility criteria for appointment as a County Education Officer shall be:
 
-##### c)  Eligibiltty for  Appointment
+- i. a Master’s Degree in Education with not less than two (2) years of active teaching, one of which may be principal of a secondary school; or
+- ii. A director of an education program either in the public, faith-based or private sector of the education system; or
+- iii. A Bachelor’s Degree in education with a minimum of five (5) years in education, one of which shall be service as a District Education Officer or its equivalent in the private or faith based sector, and two of which shall be service as a high school principal or director of an educational program or project.
 
-The  minimum eligibility  crireria  for  appointnent as  a  county Eclucalion Officer shall be:
+##### d) Functions of County Education Officer
 
-- a  Master''s  Degree  irr Edr-rcation with  not  less than  two (2) years of active teaching, one of which rnay be principal  of a secondary schr:ol; t J l
+The County Education Officer, as the head of the County Education Office, shall have the following functions and responsibilities:
 
-- A director  of an education  program  either  in the public, faith-based  or private  sector  of the education  system;  or
+- i. Be responsible for the operations of the school system in the county, including responsibility for the personnel of the system and the education programs of the county;
+- ii. In coordination with the County School Board, prepare and submit to the Minister for approval the list of positions required to set up the Country Education Office;
+- iii. Prepare the budget covering all aspects of operations of the County Education Office and all aspects of the school system, subject to the approval of the County Education Board, and submission to the Ministry for approval and inclusion in the annual budget of the Ministry;
+- iv. Supervise the implementation of all relevant national education policies, regulations, decisions, programs and development projects through District Education Officers, as directed by the Ministry;
+- v. To make regular quarterly and annual or special reports to the Deputy Minister for Instructions, with a summary of the monthly and annual reports received from District Education Officers for the reporting period;
+- vi. Serve as a member of the County School Board;
+- vii. Relay to private schools in the County the national education policies, decisions, development and training programs affecting their operations.
 
-- iii'  A Bachelor's Degree  in  eclucatior:  with  a minirnlrrn of fir,c (5)  years in eclucation,  one  of  rnrhich  shall  be  sen'ice as  a  District  lrducatiorr Oflicer  or its equiva'lcnt in the prir.ale  or faith basccl scctor,  and trvo  of r'vhich  shall  be service  as a  higli  school prirrcipal or  clirectr:r  of an eciucational program  or project.
-
-##### d)  Functions  of Caunty Education Officer
-
-The county  trducation olficer, as the head oi the cour:ty Education office, shall have the fcrllowing  functions and responsibilities:
-
-- i,  Be responsible  for the operations  of the school  systcm  in  thc county. inchiding  responsibility for  the  pcrsonnel of  the  systern and  thc education  programs  of the county;
-
-- h: coordination with  the county  schcol Boarcl,  prepare and submit  to the Minister for approval the list of positions  recluilccl  to  set  qp  the Country Education Office;
-
-- iii.Prepare  the budget covering  all aspects  of operatians of the cor-rnry Education office and all aspects  of the school  system,  subject to the approval of  the  county  Education Bnalcl, anci subnrission to  thc Ministry  tbr  approval and  inch"rsiorr in the  annual  l:uciget  on-  rhc Ministry;
-
-- ir'.Supen'ise the  implementation of  all  relevant  national  erlucalion pollcies, regulations, decisions,  proglams and  dcvelopu.lent projects through District Educatiorr  Officers,  as directed  by rhe Ministry;
-
-- To  make  regular  cluarterlv  and  annual or special  reports  to  thc Dcprity Minister for Instructions,  with a summary of thc monthly ancl annual reports  received from  District Educat  ion oificers for  the reporting  period;
-
-- vi,  Serve  as a member  of the County  School  Board;
-
-- vii, Relay to private schools in the County policies,  decisions, development ancl training operations. the national education programs  affecting  tl:eir
-
-Education Rafur n  A(  of zall
-
-Pagc  34 cf 4I
-
+Education Reform Act of 2011                                      Page 34 of 42
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+### 6.3. District Education Offices and Officers
 
-\
+#### 6.3.1 Establishment of District Education Offices
 
-i
+There is hereby established in each county education or school districts, as defined and created by the Ministry, in consultation with the Ministry of Internal Affairs, a District Education Office.
 
-### 6.3. District  Edacatlon  Offices and Officers
+#### 6.3.2 Appointment of District Education Officer.
 
-#### 6.3.1  Establishrnent  of Distriet  Education  Offices
+There is hereby created the position of District Education Officer to head each District Education Office. The District Education Officer shall be appointed by the County School Board, with the approval of the Minister, in line with rules and regulation established by the Ministry, and subject to the qualification criteria set forth by the Minister.
 
-There  is hereby established  in each  county rducation or sc,hoal dislricrs' ns defineci and  cieated  by  the  Ministry,  in  consultation  rvith  the  Ministry  ot Internal Affairs, a District Education Office.
+#### 6.3.4 Tenure
 
-#### 6.3.2  Appolntment of District Education  Officer.
+A District Education Officer (DEO) shall serve for a period of four (4) years and shall be eligible for re-appointment by the Minister based on recommendation of the County School Board, provided that the sitting DEO shall have conformed to the same application process each time as everyone else..
 
-There is  irereby created the  positiorr.  of  District  BducaLion Officer to  hcad each  District -Eclucation Office.  The  Districl Education  Officer  slrall  be appointed by the County School Board.,  with  the approvai of the Minister, in line ivith  rrles  and regulation established  by the Ministry,  and subject tr: thc qualilication criteria set forth by the Ministcr'
+#### 6.3.5 Functions
 
-#### 6.3,4 Tenure
+The District Education Officer shall have and perform the following duties:
 
-A District Eclucation  Officer  {DEO)  shall serve  lor a  pericrd  ol'  iour  i4)  vears anci  shall be  eligiblc  for re-appointmcnt  by the Milistcr based  or1 recommenclation oi the County School  Board, provided  thnt the sitting DEO shall have  confbrmed  to the same  application  process  each  timc as everyone else..
+- a) Prepare and submit to the County Education Officer and the County School Board for approval the list of positions required for the proper functioning of the District Education Office, as well as a budget covering personnel, office supplies, office furniture, fixtures and equipment, etc. required by the District Education Office;
+- b) Supervise the implementation of all relevant national education policies, regulations, decisions, programs and development projects through public and private schools located within the district, as directed by the County Education Office and the County School Board;
+- c) Make regular quarterly and annual or special reports to the County Education Officer and the County School Board, with a summary of the monthly and annual operations reports received from the authorities of all schools in the School District. Annual Reports from the District Education Officer shall be submitted to the County Education Office for inclusion in the County Education Office Annual Report;
+- d) Serve as an ex-officio member of the District School Board of the District;
+- e) Relay to private schools in the District the national education policies, decisions, development and training programs affecting their operations.
 
-#### 6.3,5 Functions
-
-The District Education Officer shall have and perforrn the folloruing  duties:
-
-- prepare  anci submit  to  the  Cnunty  Education  Officer  and  the  Cclt-tt"tt5t Schonl Boarcl for  approval the  list  of  positio.ns required  fr:r thc  proper funcLioning  of the Di*trirt  Education  Office ,  as rvcli  as a budgct covering personnel,  office supplies,  officc fr-irnitr:rc, fixtures and cqr"iipn:ctrt, ctc. reqnired  by the Districr Education  Officc;
-
-- Supenri$c  the implementation  of aII relevant  national education  policies, ' ,"grl*tion", decisions, programs  and  development projects  through pritrti"  arrd private schoois iocated withirr  the district,  as directed by the bounty  &ducation Office  and the County School  Board;
-
-- Make  regular  quartcrly  and  ernnual or  spccial  repofts  to  the  County ' Education Ofiicer and the County School  Board, with a summary of the monthly  ancl annual  operations reports received from  the  ar"rthorities  of all  schbols in  the  Scliool  District, Annual  Reports from  the  District Education  Oflicer shall be submitted  lo the  County  Eclucation Office lor inclusion in the County Educatjon Office  fulnual  Report;
-
-- c1)  Serve  as an ex-afficio  mernber  of lhe Dist.rict  Sclrool  Board of the District;
-
-- Relay to  private schools  in  the District tire natio:ral edr.tcatior-r peilicics, ' decisions,  devclopment ancl  training progralns alfccting their operation*.
-
-"'
-
-r:i
-
-I
-
-#
-
-"'&"
-
-Eduffition Reform  AEt  af 2011
-
-Page 35  of  42
-
+Education Reform Act of 2011                                      Page 35 of 42
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+#### 6.3.6 Licensing of Teachers
 
-#### 6,$.6  Licensing of ?eschers
+- a) No person shall be licensed to teach, whether part-time or full time, within the education sector unless that person holds a professional or teaching certificate;
+- b) A full time teacher is required to teach a minimum of 65-70% of normal school hours, but such teaching time for a full time teacher shall not exceed 90% of normal school hours to allow time for preparation for lessons, record keeping, counseling, etc. All full time teachers must spend the entire school day on the school premises unless otherwise exempted by the principal;
+- c) A part-time teacher refers to an individual who teaches less than the 65% of normal school hours required of a full-time teacher.
 
-- No person shall  be licenseci  to  teach, whether part-time  or  full  tjme, within  the  education  sector unless that  pcrson  holds  a  profcssional  or f  ea  r:h  i  r': g cerl i ficatel
+#### 6.3.7 Registration of Teachers
 
-- A full time teacher  is required  to teach  a minirnum of 65-70% clf  normal school hours,  but  such  teaching time  for a  fr-rll  timc  teacher sh;ril not exceed 90%  of  normal  school hotrrs  to  allow  time  lor  prcparation  fur l essclns, record  keeping,, counseling, spencl  tlre  entire  schooi  day  on  the exempted  by the  principai; elc. Al1  fnli time teache::s  must school  premises  r-rnless otherwise
+Every licensed teacher shall be registered within the teachers’ registry of the Ministry prepared in accordance with the procedures regulating the registration of teachers as prescribed by the Ministry.
 
-- cl A part-time teaclLer  refers to an individual r,vho  teaches  less than the 657er of norrnal school hours requirecl  of a full-rirne teacher.
+#### 6.3.8 Cancellation of Certificates
 
-#### 6.3.?  Registration of Teachers
+The Ministry shall have the right, authority and power to cancel, suspend, withdraw, revoke any certificate, or license if:
 
-Every licensed teacher Ministry prepared  in registration of teachcrs shall be registered  within  the teachers'  registry of the accordance  with the procedures  reEprlating thc as prescribed  by the Ministry.
+- a) The certificate or license issued was obtained by fraud or mistake; or
+- b) The holder of a certificate or license violates the code of conduct developed and approved, and disseminated by the Ministry; or
+- c) The holder of a teaching certificate or license is found guilty of a misdemeanor or higher offense by a court of competent jurisdiction.
 
-#### 6.3.8 Cancellation of  CertitLcates
+#### 6.3.9 Annual Appraisal of Teachers.
 
-The Ministrv shall have the righl, aulhority ar"rd power to cancel, srispend, withdraw.  revokc any certificate,  or liccnsc if:
+Every teacher shall be appraised annually by the principal in keeping with the guidelines and procedures developed by the Ministry. The Principal of a school, in keeping with the guidelines and procedures developed by the Ministry shall, each year, appraise every teacher in his or her school, and those falling short of expected performance shall be subjected to retraining and where such retraining fails to enhance the performance the teacher shall be dropped from the system.
 
-- The certificale  or license  issued  was obtained  by fraud r:r mistake;  or
+#### 6.3.10 Appointments, Transfers and Dismissals of Teachers, Principals and Education’s Officers
 
-- bl  The  holder of  a  certificate  or  license violates the  code of  conduct der.'eloped and approved, and disseminated by the Ministry; or
+Appointment, transfers and dismissals of teachers, principals and Education Officers shall be governed by rules, procedures and guidelines set forth by the Ministry and the result of administrative hearing.
 
-- The holdcr of  a  teaching certificate  or  licensc is  found  guilty  of a misdemeanor  or higher offense  by a court of competcnt  julisdiction.
-
-#### 6.3.9  Annual Appraisal of Teachers.
-
-Every teacher shall  be appraised annually  by the principal  in  keeping with the guidelines and procedures dcveloped  by the Ministry. The Principal of a nchool, in  keeping with  the  guidelines and  procedures  dcveloped by  the Ministry shall, each year, appraise  every teachcr ir-r  his or her school,  and those falling short  of expected  performance shall be subjected to retraining ancl whcre  such  retraining  fails  to  enhance the  perfr:rmance Lhe teacher shall  be dropped  from the systern,
-
-#### 6.8,fO  Appolntrnents,  Transfers  and  Dismissals of  ?eachers,  Principals  and Uducatlou's  Offlcers
-
-dismissals of teachers,  principals  ancl  Education by rules, proced'-rres and  guidelines set forth  by Appointment, transfers and Officers shall be governed thc Ministry and the resr.rli ' of adminisrrative  hcaring.
-
-1/,t
-
-Educaliutr Refartn  Act  af 2011
-
-Pagc 36  of  42
-
+Education Reform Act of 2011                                      Page 36 of 42
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
+#### 6.3.11 Pensions: A public school teacher or an employee of the Ministry shall retire and be entitled to such benefits as are provided under the Pension and Social Security laws of Liberia.
 
-i
+#### 6.3.12 Sick leave and Maternity Leave:
 
-#### 6.4.f 1 Pensions:
-A pul:lic school  teacher retire and be entitled lo such Pension  arrd Social Security laws r:f lhe Ministry shall provided  uncler  lhe or an employee  of berrefits  a$ arf Lilreria.
+##### a) Teacher:
 
-#### 6.3-L2 Slck  leave and lVlaternity Leave:
-
-##### a)  Teacher:
-
-- A sick teacher shall be given fourteen (14| days of sick leave  with  fr*rll salarv:
-
-- A certificate  from a licensed  physician  stating  tl']e  naturc and length  pf illness  shall be  rcquired;
-
-- iii.A teacher  being  treated  traditionally  srall show prool of illness;
-
-- iv.Additional  sick  leave shali  be granted a  teacher upon  application  to the  teachers' immediate  snpervisor  supportecl by  recomnrendation from a medical doctor.
+- i. A sick teacher shall be given fourteen (14) days of sick leave with full salary;
+- ii. A certificate from a licensed physician stating the nature and length of illness shall be required;
+- iii. A teacher being treated traditionally shall show proof of illness;
+- iv. Additional sick leave shall be granted a teacher upon application to the teachers’ immediate supervisor supported by recommendation from a medical doctor.
 
 ##### b) Pregnant Teacher
 
-A teacher  who bccomes  pregnant  shall be cntitlecl  tcl  llrrcc (3)  months maternity  leave  with  full salary and benefits as provided for under the Civil Service  Act and the Civil  Sen'ice  Regr:lations^
+A teacher who becomes pregnant shall be entitled to three (3) months maternity leave with full salary and benefits as provided for under the Civil Service Act and the Civil Service Regulations.
 
-#### 6.3.13 $alary and incentives  for teachers and admin{strators
+#### 6.3.13 Salary and incentives for teachers and administrators
 
-Salary  for public school  teachers  and adrninislrators  shaii be commensrlratc with  thcir  qualifications and  experiences  with  due  consideration to  the location of tl:e assignment whether rural  or urban  ancl tr: thc subject matter to  be t.aught,  The Minister  after consultation  rvith  rhe national  b-rdgcLary authorities  is authodzed  to issue  and promulgate  regulations  to govern  such salaries  and incentivcs.
+Salary for public school teachers and administrators shall be commensurate with their qualifications and experiences with due consideration to the location of the assignment whether rural or urban and to the subject matter to be taught. The Minister after consultation with the national budgetary authorities is authorized to issue and promulgate regulations to govern such salaries and incentives.
 
-#### 6.3.14 Scholarship for Tsachers and Administration  Personnel
+#### 6.3.14 Scholarship for Teachers and Administration Personnel
 
-Scholarships  for line  with rules Mi:ristry. teachers  and administrative  personnel  shall be awarded  in and  procedures governing scholarship programs of  the
+Scholarships for teachers and administrative personnel shall be awarded in line with rules and procedures governing scholarship programs of the Ministry.
 
-## CHAPTPR SEVEI,I: OFF'EI|  SES
+## CHAPTER SEVEN: OFFENSES
 
-### 7,1 AdmlnistrativeOffenses
+### 7.1 Administrative Offenses
 
-The following shall constitute adnrinistrative offenses  under  the Act and arc punishable  in  accr:rdance  with  the  Civic Service Act  anci the  Civil  Seruice Standing Orders.  In the absence  of specific referencs  lei  an offense  in eilhcr the  Cjvil  'Service  Act  or  the  Standing  Orclers,  the  Minister  in  consultatiorr with  the Director-General  of the Civil Service  sh.all  issue and promulgate the punistrment for the offense: "ll'lj
+The following shall constitute administrative offenses under the Act and are punishable in accordance with the Civil Service Act and the Civil Service Standing Orders. In the absence of specific reference to an offense in either the Civil Service Act or the Standing Orders, the Minister in consultation with the Director-General of the Civil Service shall issue and promulgate the punishment for the offense:
 
-Edutuliurr Reform  Act  of 2011
-
-Page 37  of4I
+Education Reform Act of 2011                                      Page 37 of 42
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+- a) Insubordination to superior;
+- b) Dereliction of Duty;
+- c) Absence without leave;
+- d) Fighting or disturbing at work places;
+- e) Falsification of grades documents and signature;
+- f) Soliciting or offering bribes;
+- g) Soliciting money that is unauthorized by school administrators from students or parents.
 
-- Insubeirclination  to superior;
+### 7.2 Administrative Hearings
 
-- Derelicrion of DutY;
+- 7.2.1 Hearings and investigations in administrative and sexual offense cases or complaints shall first be conducted by a Board of Inquiry empanelled by the District School Board. All complaints shall be filed in writing to the Chairman of the District School Board who, in consultation with the members of the Board shall empanel an ad-hoc Board of Inquiry and Discipline. All hearings and investigations into complaints within the county school system shall be governed by the principle of due process. Decision of a Board of Inquiry and Discipline shall be appealable to the full membership of the District School Board whose decisions are appealable to the County School Board, whose decisions are appealable to the Minister of Education.
+- 7.2.2 A party may appeal from the decision of the County School Board to the Minister who, upon receipt of the appeal, appoints an Administrative Panel of Inquiry headed by the legal counsel of the Ministry to hear and decide on the appeal. Decisions of the Minister’s Administrative Panel of Inquiry shall be appealable to a statutory court of competence jurisdiction within the legal system of Liberia.
 
-- Absence  wilhout  leave;
+#### 7.2.3 Administrative Penalties
 
-- d!  Fighting r:r distr-rrbing  at work places;
+Penalties for administrative offenses shall be in line with the Civil Service Act. Administrative penalties shall include suspension, dismissal or other actions of an administrative nature.
 
-- Falsification of grades  clrrcunrents and signeitnre;
+### 7.3 Other Offenses
 
-- f| Soliciting or offering bnbe  s;
+#### 7.3.1 Sexual Offenses
 
-- Soliciting  money  that  is  unauthorized  by  school  aclmirrtstratsrs from students  or  Parent$.
+The below listed offenses shall be considered as sexual offenses which criminalized under the Penal Law of Liberia shall be prosecuted in a criminal court of competence jurisdiction and be governed by the Criminal Procedure Law, and the penalty shall be as prescribed by the Penal Law:
 
-### 7,2 AdrnlnistrativeHearings
+- a) Sexual coercion, intimidation or blackmail;
+- b) Sexual assault;
+- c) Sexual abuse;
+- d) Impregnating student;
+- e) Rape & Gang Rape.
 
-- 7.2."1 Hearings and  investigations  in  administrative  and  sexual offensc  case$  or cornplaints shall first  be conductcd by a Board of lnquiry  empanelleC  by the nistiict School Board.  Al1 complaints  shall  be  filed  in writing  to  the Chailnan 6f  the  District  School Board  who,  in consultation  with  the members of  the  Board  shall  empanel an  ad-hoc  Board  of  Inquiry  ancl Disciplir:e. All hcarings  and invesligatiorrs into complaints  within tl"tc  county school system sha1l  be governed  by"  tl"re  principle of duc process' Dccision of a Board of Inqr-riry  and Discipline shall be appealable  to ttre full  rnembership of the  Districi School Board whose  decisions  are appealable  to the Corinty Scl"rool Board,  rvhcsc  clecisions are  appealable to the Minister of Education.
-
-- 7.2.2  A party  may appcal lrom  the clecision  of the County Schnol Board to thc' lllinister^ who, t-tpon  reccipt of thc appeal,  appoints an Administrative  Panel of Inqgiry headecl by the lcgal counsel  of the Ministrv to hcar and d'ccidc  on the appcal, Decisions  ol the Minister's  Achninistratir,'e Panel  of lncluiry shnll be appealable  to sl  statutory court of competoilcc jurisciiction  rvithin  the 1c;4al systcnr  <lf  Liberia"
-
-#### ?.2,3  Administrative  Penalties
-
-penalties  for  administrative  ofTenscs  shall  be in  line  with  the  Civii  Service Act. Aclministrative  penalties  shail ir:cludc snspension,  dismissal  or olher actinns  oll  an administrative  nature.
-
-### 7.3 Other  Offenses
-
-#### 7.3.1 Sexual  Offenses
-
-The  below  listed  offenses shall  be  considered as  sexttai  offenses which crirninalizect  unc{er  the Penal Law of Liberia shall be prosecutcd in  a criminal court of cogrpetent  juriscliction  and be govcrned  by the Criminal Prncedure Law, and the penalty sha1l  bc as prescribecl  by tlre Penal Law:
-
-- Sexrlal  coercion,  intimidation  err  blackmail;
-
-- Scxual assault;
-
-- Sexual abuse;
-
-- lmpregnating student;
-
-- el  RaPe  & Gang  RaPe.
-
-/r'
-
-l'
-
-Eddcation Reform Act  of 2aLL
-
-PaEeS& af  47
-
+Education Reform Act of 2011                                      Page 38 of 42
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
+- 7.3.2 Immediately upon learning of any of the enumerated offenses, which are criminal in nature, as defined by the Penal Law, the school authority shall inform the appropriate governmental authority so that the matter can be expeditiously addressed with the minimum interruption in the school’s programs.
 
-i
+## CHAPTER EIGHT: OTHER REGULATIONS
 
-- 7"3.2  Immediately  upon  learning of any of the  enumerated affcnses"  u,hicir are criminal  in  nature,  as delined by the  Fenal Law, the  scl:uol ;rutliot'iLy  $hall inform  the  appropriatc  governmental anthority  so  that  the  ntatter  catr be expeclitior,rsly addressed rvittr  the  minirnum intcrruption in lhe  school's programs,
+### 8.1 Language of Instruction
 
-## CHAPTER EIGHT:  OTHDR RNGULATIONS
-
-### 8,1 Language  of Instruction
-
-- 8,1,1  The primary  language of iustntction for aiong ,,vith  such  local languagc as  may Courrty  School  Boards. all  gracle let'els sh*li be  Englis]r, be  clctermined  by  thc i ndividual
-
-- 8.1.2 A  local  latrguage  shall  be  taught i n  eaclt Education  1evel. coLlnty  bcginning at  the  Basic
-
-- 8.1.3 The teaching  of French  in  ali schools as part l r a ra^r,;,r./-l  f'rr  all  SeCondarv  students. v v !   v v ur r eL. { \ ' of Lhe school's curriculun: shali
+- 8.1.1 The primary language of instruction for all grade levels shall be English, along with such local language as may be determined by the individual County School Boards.
+- 8.1.2 A local language shall be taught in each county beginning at the Basic Education level.
+- 8.1.3 The teaching of French in all schools as part of the school’s curriculum shall be required for all secondary students.
 
 ### 8.2 Education Day
 
-- B.A.l  The larst  Friday in  September  of each  year shail be obscrvcd  as Educatic.rn Day and shall be a v;orking holiday day.
-
-- 8.2.2  Eciucational  instructors and educators  shall executc appropriate programs in obsenance  of the da\t.
+- 8.2.1 The last Friday in September of each year shall be observed as Education Day and shall be a working holiday day.
+- 8.2.2 Educational instructors and educators shall execute appropriate programs in observance of the day.
 
 ### 8.3 School Days
 
-- 8.3.1  The Ministry shall  prcpare  the school  calcnclar  fr:r  the conduct  of schools.
+- 8.3.1 The Ministry shall prepare the school calendar for the conduct of schools.
+- 8.3.2 (a) The annual school year shall consist of six (6) marking periods, a number of tests, and two semester examinations as shall be determined and published by the Ministry of Education.
 
-- 8.3.2  (al Thc ;rrrnual school year shall consist of  six  {6)  markirrg periocts,  a number  of  tests,  and  lwo  scmcster  examinations  as  shall  be determined  anct  published  by the Ministry of Educat'ion.
+  (b) Each school year shall have a minimum of two hundred (200) school days exclusive of holidays.
 
-(bl Each  school ycar  shall  have  a  minimum of  two  irundrccl  (20O) schor:l  days  exclttsive  of hoiidays'
+  (c) Each calendar year shall be divided into two (2) semesters, each of which shall consist of a minimum of one hundred (100) days.
 
-(c) Each calendar year shall be dividcd into two  (2) scmcstcrs,  each oI which shall clnsist  of a minimum of one  hundred (100)  riays'
+- (d) The Minister of Education is hereby authorized and empowered to prescribe, promulgate and publish regulations governing instructional standards to be maintained and codes of conduct, including appropriate dress codes, in respect of the administration of all early childhood, primary, secondary, technical and vocational schools within the Republic of Liberia...
 
-- ld) The  Minister  of  Education  is  hereby  authorized  ancl cmpo',r'ered  to pres  cribe, promul  gate  and publish re  gulat.ions  governing  instruction  al standards  to be  maintained  and codes  of conduct,  including appropriate dress codes, in  respect of the administration  of all  eady chilclhoocl, prirnary, secondary,  tcchnical and  vocational  schcrols within  the RePublic  of Liberia,',
+- 8.3.3 Classes shall be held a minimum of five (5) days a week, a minimum of five (5) hours per day and a minimum of 200 teaching days per year.
 
-- 8.3,3  Classes  shall be held a n:lnimum  af five  {5)  days a wcek, a minimurn  of five {5}  hoi-rrs  per clay  ar:d ar  minimttnr of 200 tear:hingJ days per year'
-
-tll
-
-tll
-
-"
-
-Pagc  39 of42
-
-Educatian Ralurrrt Act  of ZA17
-
+Education Reform Act of 2011                                      Page 39 of 42
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+### 8.4 Class Size
 
-### 8,4 Class  Size
+- 8.4.1 The Minister shall set and publish guidelines and regulations from time to time as to the pupil-teacher-ration (PTR) for all categories and levels of classes and schools.
+- 8.4.2 Notwithstanding the above, the Minister shall have the authority to make such downward adjustment of the Pupil to Teacher Ratio (PTR) per class as may be deemed necessary for the enhancement and quality output of students.
 
-- S,.1.1  The Minister shall set and publish grridelines and reguiations from tirne tirne  as  to  the  pupil-teacher-ra.tion  {PTR)  for  all  categories and  levels classes  and schools. l(l r:f
+### 8.5 Transfer of Pupils
 
-- 8.'1.2  Notwithstanding  the  above, the  Minister  shali  have the  autharity  to  make such downward adjustmcnt  of rhe Pupil to Teacher Ratio (trTR) 'per  class ils may  be  deemed necessary for  the  enhancement  and  quality  nutpul of stuclents.
+The transfer of pupils from one school to another shall be regulated by policy guidelines prescribed by the Ministry.
 
-### 8.5 Transfer of Puplls
+### 8.6 Conduct of Pupils
 
-The transfer of pupils fron: one scl"tool to guidelines prescribed by the Ministry' another shali be regulated by policy
+Pupils conduct shall be regulated by the policy guidelines prescribed by the Ministry.
 
-### 8.6 Conduct of Puplls
+### 8.7 Suspension of Students
 
-Pupils conduct shall be regulatcd  by the Ministry. policy  guidelines  prescribed bv  lhc
+- 8.7.1 Each school shall have a handbook, which shall stipulate the conduct of students, which constitute misconduct punishable by suspension. The provision in the school handbook shall be in harmony with that stated by the Ministry.
+- 8.7.2 The handbook of each school shall stipulate conduct which, defined as grave or severe, shall warrant the expulsion of the student.
+- 8.7.3 The suspension or expulsion of a student shall be based on the result of a hearing conducted in line with the concept of due process.
 
-### 8.7 SuspensionofStudents
+### 8.8 Teacher Records and Reports
 
-- 8.7.  i Each sclrool shall have a  handbook, which  shall stipulate the conduct of students,  whjclr  constitute  misconduct  punishable  by  suspension' Tht: provision in  the school handbook shall be in  harmony with  that  stated b1' the Ministry.
-
-- 8.7,2  The handbook of each  school  shall stipulate  condust rvhich,  delined  as gra\tc or severe, sherll warrant the expulsion  of the studonl"
-
-- 8.7.11  The suspension  or expnlsion of a student shall be basecl  on the result of a hearing  conducted  irr  line with the concept  of due process,
-
-### 8.8 Teacher Records and RePorts
-
-- 8.8.1  Each public,  private and faith  based school shall keep adequatc rccords of their pupils, which shalt include adnrission, clrop-ot-tts, graduation, attenclance,  tuition,  fees,  student standing in  each subject  and conduct' Records.  which  are not  of a confidential nature, shall be open fclr inspection by all upon requesl.
-
-- S.8.2  Each school  shall be required  to keep  a copy  of the Education  Law and other educational,  regulatory  docnments  and guidelincs  promulgated  by  the school as well as bY  the Ministry.
+- 8.8.1 Each public, private and faith based school shall keep adequate records of their pupils, which shall include admission, drop-outs, graduation, attendance, tuition, fees, student standing in each subject and conduct. Records, which are not of a confidential nature, shall be open for inspection by all upon request.
+- 8.8.2 Each school shall be required to keep a copy of the Education Law and other educational, regulatory documents and guidelines promulgated by the school as well as by the Ministry.
 
 ### 8.9 Courses and Textbooks
 
-Specified  corlrses and  textbooks pre  scribed by the Ministry  shall be used b3' ai1  sch6ols  .ivithin  the  Republic,  Any otirer course or  tcxtbook addcd by a school to  the  officially  prescribed corlrses or  textbooks  shall  nat  prcjudice compliance or l:urden the normal advancemenl  of the student'
+Specified courses and textbooks prescribed by the Ministry shall be used by all schools within the Republic. Any other course or textbook added by a school to the officially prescribed courses or textbooks shall not prejudice compliance or burden the normal advancement of the student.
 
-i
-
-, t , ' '
-
-f f i * -
-
-f
-
-t '
-
-f
-
-" i
-
-Fage 40  of  4?
-
-i
-
-, t , ' '
-
-f f i * -
-
-f
-
-t '
-
-f
-
-Educution  Refarnt  Act  of  201.1
-
+Education Reform Act of 2011                                      Page 40 of 42
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+### 8.10 Sports, Athletics and Physical Education
 
-i
+- 8.10.1 Sports, athletic and physical education shall constitute an integral part of the nation’s school curriculum and programs at all levels.
+- 8.10.2 All schools shall be required to construct, as part of their physical infrastructure, fields, courts, gyms and other facilities for the promotion of athletics, gymnastics, football, basketball, and other psychological, bodybuilding and skill-development activities.
+- 8.10.3 Home economics, basic agriculture and computer literacy shall be included in the national curriculum of Liberia
 
-### 8.10 Sports, Athletics  and Physieal Education
+### 8.11 Patriotic Observances in School
 
-- S.10.1Sports,  athletic and physical education shall constitute an integral parr r:f the nation's school curriculum  and programs at all levels'
+- 8.11.1 The flag of the Republic of Liberia and that of the County shall be displayed daily before each school building within the Republic.
+- 8.11.2 The hoisting of the National Flag and pledge of allegiance to the Republic of Liberia shall be raised and recited at the beginning of each school day.
+- 8.11.3 The National Anthem and the “Lone Star Forever” shall be sung at every school assembly.
 
-- I  CI. 2  All schools  shall be  reqttire  d to  construct, as  part of their physical itrfrastructure,  fields, courts,  grms  and  nther  faciliti.es  for  the  promotion of at5]etics, gymnastics, football, baslcetball,  and nther psychological' bodybuilding and skill-development  activities.
+### 8.12 West African Examination Council (WAEC)
 
-- 8.l0"3Home economics,  basic agrictrlture  and compuier literacy shall be includecl in the national curriculum  of Liberia
+- 8.12.1 West African Examination Council (WAEC) shall be the examination body designated by the Ministry to administered promotional examinations of the students in the 9th and 12th grades.
+- 8.12.2 Candidates who pass in division 1(one) in senior secondary exam administered by WAEC shall be eligible for admission to any tertiary institutions without sitting for entrance exam.
 
-### 8.ll Patriotic  Observances  in School
+### 8.13 Loan
 
-- B,  t I.l  The flag of the Repr-rblic of Liberia ancl  that  of the County daily before  each school building within  the Republic. shall be dispiayed
+Teachers and administrators shall be entitled to loan from any reputable financial institutions and the Ministry shall as directed by the employee undertake the stipulated salary deductions and make payment directly to creditor.
 
-- 8.l1.2The hoisting of the National  Flag  and pledge  of allegiance Liberia shall be raised and recited at the beginning of eaeh tn the Republic oI school day.
+### 8.14 Tertiary Education
 
-- B.11.3The National Anthem and the "Lone Star Forerrer"  shall school  assemblY. be surrg at  every
+The Ministry shall deal with tertiary Institution via their Act and the National Commission on Higher Education Policy.
 
-### 8.12 Wost Afrlcan  Erramination  Council  (WAECI
+### 8.15 Insurance
 
-- 8.12.1 West African  Examination  Council  (WAEC) shalt be thc  exanrination bodSt designated  by the Ministry to administered  promotional  examinations  of the students  in the 9th  and l2th grades.
+- 8.15.1 Teachers and administrators within the public school system shall be entitled to group medical and health insurance of their choice. The Ministry and the National Teacher Association of Liberia shall jointly select the insurance company/companies. All payments of such insurance shall be effected through salary deductions from the employee’s monthly salary.
 
-- 8.12.2  Cancliclates  whn pass  in dii'isiou 1(onc) in senior  secondary  cxam administered by  WAEC  shall  bc  eligible for  adnrissiorr to  any  tcrtia$ institutions without sitting for entrance  exaln,
-
-### 8.L3  Loan
-
-Teachers and  administrators  shall  be entitled  to  loan  from  any  reputable financial  institutions and  the  Ministry  shall  as  directed  by  the  employee unclertake the  stipqlaLed salary deductions and  mal<e  payment  directly  to creditor.
-
-### 8,14 Tertiary  Education
-
-The Ministry  shall deal witl"r  tertiary h:stitution  via their Act ancl  the Natior:al Conrmission  on Higher Education Policy'
-
-### 8.15 Insurance.
-
-- 8.i5.  l"Teachers and a.clministrators witl"rin the public schooi systernt  shall bc entitled to  grolrp  medical  and  healtlr  insurance of their choice'  The  Mir:istr1' and the Natioaal Teacher Association of Liberia shall jnintly seiecl ilre insurancc company/companies. .{11  payments of  such insurance shall  be effected tl"rroggh salary  deductions  h:om the  employee 's  ruonth11'sala.ry"
-
-.,.1
-
-I
-
-t
-
-/
-
--
-
-!
-
-,
-
-\
-
-U/i
-
-,/;-
-
-:
-
-l
-
-'
-
-Page  4l  of  42
-
-{
-
-i
-
-Educatian fteform  Act  uf 2017
-
+Education Reform Act of 2011                                      Page 41 of 42
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
+- 8.15.2 Insurance Policy education awareness shall be conducted by the company/companies selected to provide the coverage.
 
-i
+## CHAPTER NINE: FINANCING EDUCATION
 
-- 15.2  Insurance  Policy  education  awareness shall be conductecl by the compan5r/companies  selected  to provide  the covcrage.
+### 9.1 Government as Primary Financier of Public Education
 
-## CHAPTER  NI$E: FII{ANCII{G EDUcA"lOlt{
+As part of its responsibilities, the Government shall be the primary financier of public education; as such, public education shall be financed from the national budget. In addition, the following shall be committed to funding education in the country.
 
-### 9.  L Government  as Primary  Financler  of Public Edtrcation
+- a) In addition to the recurrent Government budgetary appropriation for education, all concession agreements for investment in the extractive mineral and other non-renewable resource sector, as well as in the agriculture sector and in major privatization contracts, shall require that sixty percent (60%) of any signature fees realized shall be allocated to the education budget; and the terms and conditions of all such agreements and contracts shall include a negotiated fixed annual amount as social responsibility fee for education which, when paid, shall be made available as transfer and/or subsidy to the annual cost of education in Liberia.
+- b) In case of any substantial market failure or other severe external interventions which adversely affects the Ministry’s budget, the Government shall consider as a priority an increase in the Ministry’s budget to offset the negative impact on the budget;
+- c) The Ministry shall encourage private-public partnership so that competition in the market for education becomes attractive;
+- d) A National Student Loan Program is hereby established. The program shall be funded through Government budgetary appropriations and private donations and contributions. The Minister shall promulgate guidelines and regulations to govern the administration of the program.
+- e) Amounts realized from the programs stated in (a) and (b) shall, in order to do this, be administered by the County Education Board for the delivery of quality education to the citizens of the county;
+- f) Tuition and fees charged for the operation of Government schools shall be determined by the County School Board in consultation with the Minister of Education;
+- g) Tuition and fees charged by private and faith-based schools shall be in accordance with the guidelines established by the Ministry.
 
-As part of its responsibilities, the Gorren:ment  shall be the primary financier of public  education; as such, public education shall be fitranced  from Lhe national budget. In  addition, the  fotlowing  slrali be ccmmitted to  funding education  in the country.
+## CHAPTER 10: EFFECTIVE DATE
 
-- al  In  addition  to  the  recurrent  Governn:enr budgetary  appropriation  for cducation,  all  concession agreements lor  investment  in  the  extractive mineral  and  other  non-renewable  resource sector, as  rvell as  in  the agricultnre sector  and in major privatization  contracts, shali require  that sixty percent (60%l of any signaturc fees  rcalired shall be allocated  to the educartion budget; and  the terms and conditions of all sttch agrscments and contracts slrall include a negotiated fixed annual  amount. as social responsibility  fee for  education  whi.ch,  when  paid,  shall  be  made avaiiable  as transfer and/or  subsidy to the annual cost of education  in LibericL .
+10.1 This Act shall take effect immediately upon publication into handbill;
 
-- In caso  of  any  substantial market  failure  or  olher severe external irrtenrcntions which adversely  affects the Ministry's brtclget,  the Government  sha,ll consider as  a  prir:ritJ, an  increase in  the  Ministty's budget to offset  the negative  impact on thc budgetl
+10.2 ANY LAW TO THE CONTRARY NOTWITHSTANDING
 
-- cl  Thc Ministry shall erlcollragc  privatc-pr:blic  partnership so that competition  in the market for eciucation becomes  attracri.ve;
-
-- dl  R  National Student Loan Program  is hereby establishcd.  The progfam The  Minister  shall  promulgate
-
-- shall be  fur:rded through Goventment  budgetary  appropriations  and private  donatior:s  and  cor:tributions, guidelines and regulations to govern  the administration  of the progralr.
-
-- Amor-rnts realized  from the programs  statcd in  {a}  and  (b}  shall, in  order to  do  this,  be  adrninistereci  b1' tt:re  County  Education Board  for  the deiivcry of qr,rality  education to the citizens of the county;
-
-- fl Tuition and fees  chargcd for the operation of Government  schools  shall be  deterrnined by  the  County  Schor:l Board  in  con,sultaticin  rvith  tire Minister of Educatir:n;
-
-- gl  Tuition  ancl fces charged by private and faith*based schools shall bc itt
-
-- accordance  with the guidelines  established  by the Ministry.
-
-## CHARPTER l0r EFFECTIVP  DA?E
-
-] This Act shall take effect immediately npon  pubfication intp  l:rand,bill;
-
-- L W . Z ANY LAW TO TIIE  COI{TRARY NOTUITTHSTA}TI}ING
-
-Itl^
-
-I
-
-Pasc
-
-42  of  42
-
-Y/  !,
-
-/ /
-
-'
-
-Etlututiutt  fr€farm Act  af 241"1
-
+Education Reform Act of 2011                                      Page 42 of 42
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
+2011
 
-"A -.t v) z -t frt
+SIXTH SESSION OF THE FIFTY-SECOND
+LEGISLATURE OF THE REPUBLIC OF LIBERIA
 
-..|-.
+SENATE’S ENGROSSED BILL No. 10 ENTITLED:
 
-r'-'t
+“AN ACT TO REPEAL AN ACT TO ADOPT THE EDUCATION LAW OF A.D. 2001, APPROVED JANUARY 8, 2002 AND ALL LAWS AMENDATORY THERETO, TO AMEND CERTAIN PROVISIONS OF CHAPTER 26 OF THE EXECUTIVE LAW, AND TO ENACT IN THEIR STEAD A NEW EDUCATION REFORM ACT OF 2011, TITLE 10, LIBERIAN CODE OF LAW REVISED”
 
-!
+On motion, Bill read. On motion, the Bill was adopted on its first reading and sent to Committee Room on Thursday, May 26, 2011 @ 11:25 G.M.T.
 
-o a  l-=J hl---' * t l <i . 4 ,
+On motion, Bill taken from the Committee Room for its second reading. On motion, under the suspension of the rule, the second reading of the Bill constituted the third reading and the Bill was adopted, passed into the full force of law; and ordered engrossed today, Tuesday, July 5, 2011 @ 12:39 G.M.T.
 
-- r n . : X ' r = -t ; a , t m tr]  m a2 -1 : \ b , J \./ v t -_ F .rt -L E EE  -l tEl  < C,v ii:n P ; t i z i i : ' = 4=2:',-> ??i iEi==;=-; s-';  r i   i ; ;4i7; =s E  =i-x+rZ= tat ei=:i:i= -i:g E:L== ir?  =sxiiXi as ::=}::i 7=7  = =:  v;?a aa l=tl?z1 6; =-aaeis=
+SECRETARY, LIBERIAN SENATE, R. L.
 
-irtaii Eai T-Ei EEEi aa Er ai[pi IEi ir:;:i;;  =e 2a iE?;= ={'?  1:="=Flg *i9 Fx  fiE .7r7 =:r:.|'ru-r z  E i:?'=s  ii ;uE;i*;  n  !*  ts .g-ieig  B":  F=E*.-7' = =.  = srer e  g[  ;;=*E;n i  iE -=3€= ii Ei;ElF: ? l* Ei3i? gg  gsr==is iE: ?Iagl EE EE:3E3 ?=2
+2011
 
+SIXTH SESSION OF THE FIFTY-SECOND
+LEGISLATURE OF THE REPUBLIC OF LIBERIA
+
+HOUSE’S ENDORSEMENT TO SENATE’S ENGROSSED BILL
+No.10 ENTITLED:
+
+“AN ACT TO REPEAL AN ACT TO ADOPT THE EDUCATION LAW OF A.D. 2001, APPROVED JANUARY 8, 2002 AND ALL LAWS AMENDATORY THERETO, TO AMEND CERTAIN PROVISIONS OF CHAPTER 26 OF THE EXECUTIVE LAW, AND TO ENACT IN THEIR STEAD A NEW EDUCATION REFORM ACT OF 2011, TITLE 10, LIBERIAN CODE OF LAW REVISED”
+
+On motion, Bill read. On motion, the Bill was adopted on its first reading and sent to Committee Room on Tuesday, July 12, 2011 @ 13:30 G.M.T.
+
+On motion, the Bill was taken from Committee Room for its second reading. On motion, under the suspension of the rule, the second reading of the Bill constituted the third reading and the Bill was adopted, passed into the full force of law; and ordered engrossed today, Thursday, July 19, 2011, @ 13:27 G.M.T.
+
+CHIEF CLERK, HOUSE OF REPRESENTATIVES
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
+2011
 
-2Atr
+AN ACT TO REPEAL AN ACT TO ADOPT THE EDUCATION LAW OF A.D. 2001, APPROVED JANUARY 8, 2002 AND ALL LAWS AMENDATORY THERETO, TO AMEND CERTAIN PROVISIONS OF CHAPTER 26 OF THE EXECUTIVE LAW, AND TO ENACT IN THEIR STEAD A NEW EDUCATION REFORM ACT OF 2011, TITLE 10, LIBERIAN CODE OF LAWS REVISED
 
-AN ACT  TO REPTAL AN ACT  TO ADOPT THE  EDUCATION LAW  OF A'D' 2001"' APPROVED JANUARY  8, 2OO2 AND ALL  LAWS  AMENDATORY THERETO' TO AMEND CERTAIN  PROVISIONS OF  CHAPTFR 26 OF  THE  EXECUTIVE LAW,  AND  TO ENACT  IN THEIR STTAD A NTW  EDUCATION REFORM ACT  OT  2011, TILT 10,  LIBTRIAN CODE OF  LAWS  REVISED
+VICE PRESIDENT OF THE REPUBLIC OF LIBERIA/ PRESIDENT OF THE SENATE.
 
-SECRETARY;LI BERIAN SENATE,
+SECRETARY, LIBERIAN SENATE, R.L.
 
-VICE  PRESIDE THE  SENATE. OF  THE  REPUBLIC O srnrn/  PRESIDENT OF
+SPEAKER, HOUSE OF REPRESENTATIVES, R.L.
 
-SECRETARY;LI BERIAN SENATE,
-
-SPEAKER, NOUST OF  REPRESENTATIVTS, R.L.
-
-CHIEF  CLERK, HOUSE OF  REPRESENTATIVES, R.L.
-
+CHIEF CLERK, HOUSE OF REPRESENTATIVES, R.L.
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+The Liberian Senate
+CAPITOL BUILDING, CAPITOL HILL, MONROVIA, LIBERIA
+WEST AFRICA
+Office of the Secretary of the Senate
 
-]#:.g' 4i  *1 &q*r*r,6*t *l:***er,*\s
+2011
 
-#rl.yr::
+SIXTH SESSION OF THE FIFTY-SECOND LEGISLATURE OF
+THE REPUBLIC OF LIBERIA
 
-tt  t\? t  T  {}L *U tL* Xtu}&. C  &,tr1 !\ {3**  f41 LL  . b,4*N f|{3d 1 &,,. LX ffif"W p, \,NV.XT fr,YftT*f:,,
+SCHEDULE OF THE SENATE’S ENROLLED BILL NO. 5, ENTITLED:
 
-"fii,ffi'.'fuw :W-.wt\s ww w,; ffiww. M,  ww
+“AN ACT TO REPEAL AN ACT TO ADOPT THE EDUCATION LAW OF A.D 2001, APPROVED JANUARY 8, 2002 AND ALL LAWS AMENDATORY THERETO, TO AMEND CERTAIN PROVISIONS OF CHAPTER 26, OF THE EXECUTIVE LAW, AND TO ENACT IN THEIR STEAD A NEW EDUCATION REFORM ACT OF 2011, TITLE 10, LIBERIAN CODE OF LAWS REVISED.
 
-20n 1
+PRESENTED TO THE PRESIDENT OF THE REPUBLIC OF LIBERIA FOR EXECUTIVE APPROVAL.
 
-SJIXTH SESSTON{ OT THf  FIrTY-SECOI'.ID LHGISLATURA  OF THN  RAPUBLIC  OT LTBERXA
+APPROVED THIS 8th DAY OF August A.D. 2011
 
-scl{rnljLE  oF  TI-ln SI:}{ATE's HNI{{)LLL:DBLLL Ns"  5.  HNTITLED:
+AT THE HOUR OF 1:00 P.M.
 
-. " A N ACT  TO  REPEAL AN ACT TO ADOPT  THI  IDUCATION LAW OF  A,D  2CI01, APPROVTD JAFIUARY 8, ?OO2  AND  ALL LAWS AMTNDATORY THERTTO, TO AMEND  CIRTAIN PROVISIONS OF CI{APTER 26,  OF  THE  IXTCUTIVT LAW,  AF,ID TO rNACT  IN THTIR STTAD  A [\'JTW TDUCATIOI! REFORM ACT  Or  IOLL,  TITLI  10, t I E E R I A N CONF Or LAWS RIVIsED,
-
-pRasHN"rlrD 'r() l-HH  pREslDnN'r ol- TI-lE  Rl:.ptrtsLIC or  [.IBIRIA FoR lixACUTJVI; A}}I}ROVAL,.
-
-dre
-
-q,
-
-*
-
-dre
-
-q,
-
-APPII.O\/EA  THIS
-
-l ) A Y OF
-
-*
-
-Ar rxa HouR  crF  f,'g? {  07.
-
-w
-
-THI  PR Itr)gF'{T {}F TKE REPIJI}LIC  OF LIBERIA
-
+THE PRESIDENT OF THE REPUBLIC OF LIBERIA
 [[END OF PAGE 46]]
