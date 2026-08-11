@@ -50,23 +50,52 @@ L'utilisation desdits pavillons demeure régie par les dispositions de l'ordonna
 ### LE PRINCE, LA DEVOLUTION DE LA COURONNE
 
 #### Art.10.
-(modifié par la loi n°1.249 du 2 avril 2002) -La succession au Trône, ouverte par suite de décès ou d'abdication, s'opère dans la descendance directe et légitime du Prince régnant, par ordre de primogéniture avec priorité masculine au même degré de parenté.
+(modifié par la loi n°1.249 du 2 avril 2002) - La succession au Trône, ouverte par suite de décès ou d'abdication, s'opère dans la descendance directe et légitime du Prince régnant, par ordre de primogéniture avec priorité masculine au même degré de parenté.
 
-A défaut de descendance directe et légitime, la succession s'opère au profit des frères et soeurs du Prince régnant et de leurs descendants directs et légitimes, par ordre de primogéniture avec priorité masculine au même degré de parenté. Si l'héritier qui aurait été appelé à monter sur le Trône en vertu des alinéas précédents est décédé ou a renoncé avant l'ouverture de la succession, la dévolution s'opère au profit de ses propres descendants directs et légitimes, selon l'ordre de primogéniture avec priorité masculine au même degré de parenté. Si l'application des paragraphes ci-dessus ne permet pas de pourvoir à la vacance du Trône, la succession s'opère au profit d'un collatéral désigné par le Conseil de la Couronne sur avis conforme du Conseil de régence. Les pouvoirs princiers sont provisoirement exercés par le Conseil de régence. La succession au Trône ne peut s'opérer qu'au profit d'une personne ayant la nationalité monégasque au jour de l'ouverture de la succession. Les modalités d'application du présent article sont fixées, en tant que de besoin, par les statuts de la Famille Souveraine, pris par Ordonnance Souveraine.
-#### Art.11.
-(modifié par la loi n°1.249 du 2 avril 2002) - Pour l'exercice des pouvoirs souverains, l'âge de la majorité est fixé à dix-huit ans. L'organisation et les conditions d'exercice de la Régence pendant la minorité du Prince ou en cas d'impossibilité pour lui d'exercer ses fonctions sont fixées par les statuts de la Famille Souveraine.
-#### Art.12.
-- Le Prince exerce son autorité souveraine en conformité avec les dispositions de la Constitution et des lois
-#### Art. 13.
-- Le Prince représente la Principauté dans ses rapports avec les puissances étrangères.
-#### Art.14.
-(modifié par la loi n°1.249 du 2 avril 2002) - Après consultation du Conseil de la Couronne, le Prince signe et ratifie les traités et accords internationaux. Il les communique au Conseil National, par l'intermédiaire du Ministre d'Etat, avant leur ratification. Toutefois, ne peuvent être ratifiés qu'en vertu d'une loi : 1° - les traités et accords internationaux affectant l'organisation constitutionnelle ; 2° - les traités et accords internationaux dont la ratification entraîne la modification de dispositions législatives existantes ; 3° - les traités et accords internationaux qui emportent adhésion de la Principauté à une organisation internationale dont le fonctionnement implique la participation de membres du Conseil National ; 4° - les traités et accords internationaux dont l'exécution a pour effet de créer une charge budgétaire relative à des dépenses dont la nature ou la destination n'est pas prévue par la loi de budget. La politique extérieure de la Principauté fait l'objet d'un rapport annuel préparé par le Gouvernement et communiqué au Conseil National.
-#### Art.15.
-- Après consultation du Conseil de la Couronne, le Prince exerce le droit de grâce et d'amnistie, ainsi que le droit de naturalisation et de réintégration dans la nationalité.
+A défaut de descendance directe et légitime, la succession s'opère au profit des frères et soeurs du Prince régnant et de leurs descendants directs et légitimes, par ordre de
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+primogéniture avec priorité masculine au même degré de parenté.
+
+Si l'héritier qui aurait été appelé à monter sur le Trône en vertu des alinéas précédents est décédé ou a renoncé avant l'ouverture de la succession, la dévolution s'opère au profit de ses propres descendants directs et légitimes, selon l'ordre de primogéniture avec priorité masculine au même degré de parenté.
+
+Si l'application des paragraphes ci-dessus ne permet pas de pourvoir à la vacance du Trône, la succession s'opère au profit d'un collatéral désigné par le Conseil de la Couronne sur avis conforme du Conseil de régence. Les pouvoirs princiers sont provisoirement exercés par le Conseil de régence.
+
+La succession au Trône ne peut s'opérer qu'au profit d'une personne ayant la nationalité monégasque au jour de l'ouverture de la succession.
+
+Les modalités d'application du présent article sont fixées, en tant que de besoin, par les statuts de la Famille Souveraine, pris par Ordonnance Souveraine.
+
+#### Art.11.
+(modifié par la loi n°1.249 du 2 avril 2002) - Pour l'exercice des pouvoirs souverains, l'âge de la majorité est fixé à dix-huit ans.
+
+L'organisation et les conditions d'exercice de la Régence pendant la minorité du Prince ou en cas d'impossibilité pour lui d'exercer ses fonctions sont fixées par les statuts de la Famille Souveraine.
+
+#### Art.12.
+- Le Prince exerce son autorité souveraine en conformité avec les dispositions de la Constitution et des lois
+
+#### Art. 13.
+- Le Prince représente la Principauté dans ses rapports avec les puissances étrangères.
+
+#### Art.14.
+(modifié par la loi n°1.249 du 2 avril 2002) - Après consultation du Conseil de la Couronne, le Prince signe et ratifie les traités et accords internationaux. Il les communique au Conseil National, par l'intermédiaire du Ministre d'Etat, avant leur ratification.
+
+Toutefois, ne peuvent être ratifiés qu'en vertu d'une loi :
+
+1° - les traités et accords internationaux affectant l'organisation constitutionnelle ;
+
+2° - les traités et accords internationaux dont la ratification entraîne la modification de dispositions législatives existantes ;
+
+3° - les traités et accords internationaux qui emportent adhésion de la Principauté à une organisation internationale dont le fonctionnement implique la participation de membres du Conseil National ;
+
+4° - les traités et accords internationaux dont l'exécution a pour effet de créer une charge budgétaire relative à des dépenses dont la nature ou la destination n'est pas prévue par la loi de budget.
+
+La politique extérieure de la Principauté fait l'objet d'un rapport annuel préparé par le Gouvernement et communiqué au Conseil National.
+
+#### Art.15.
+- Après consultation du Conseil de la Couronne, le Prince exerce le droit de grâce et d'amnistie, ainsi que le droit de naturalisation et de réintégration dans la nationalité.
 
 #### Art. 16.
 
@@ -90,7 +119,7 @@ A défaut de descendance directe et légitime, la succession s'opère au profit 
 La perte de la nationalité monégasque dans tous les autres cas ne peut être prévue par la loi qu'en raison de l'acquisition volontaire d'une autre nationalité ou du service illégitimement accompli dans une armée étrangère.
 
 #### Art.19.
-- La liberté et la sûreté individuelles sont garanties. Nul ne peut être poursuivi que dans les cas prévus par la loi, devant les juges qu'elle désigne et dans la forme qu'elle prescrit. Hors le cas de flagrant délit, nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge, laquelle doit être signifiée au moment de l'arrestation ou, au plus tard, dans les vingtquatre heures. Toute détention doit être précédée d'un interrogatoire.
+- La liberté et la sûreté individuelles sont garanties. Nul ne peut être poursuivi que dans les cas prévus par la loi, devant les juges qu'elle désigne et dans la forme qu'elle prescrit. Hors le cas de flagrant délit, nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge, laquelle doit être signifiée au moment de l'arrestation ou, au plus tard, dans les vingt-quatre heures. Toute détention doit être précédée d'un interrogatoire.
 
 #### Art. 20.
 - Nulle peine ne peut être établie ni appliquée qu'en vertu de la loi. Les lois pénales doivent assurer le respect de la personnalité et de la dignité humaine. Nul ne peut être soumis à des traitements cruels, inhumains ou dégradants. La peine de mort est abolie. Les lois pénales ne peuvent avoir d'effet rétroactif.
@@ -121,15 +150,19 @@ La perte de la nationalité monégasque dans tous les autres cas ne peut être p
 - Toute personne peut défendre les droits et intérêts de sa profession ou de sa fonction par l'action syndicale. Le droit de grève est reconnu, dans le cadre des lois qui le réglementent.
 
 #### Art. 29.
-- Les Monégasques ont le droit de se réunir paisiblement et sans armes, en se conformant aux lois qui peuvent régler l'exercice de ce droit sans le soumettre à une autorisation préalable. Cette liberté ne s'étend pas aux rassemblements de plein air, qui restent soumis aux lois de police.
-#### Art. 30.
-- (modifié par la loi n°1.249 du 2 avril 2002) - La liberté d'association est garantie dans le cadre des lois qui la réglementent.
-#### Art. 31.
-- Chacun peut adresser des pétitions aux autorités publiques.
+- Les Monégasques ont le droit de se réunir paisiblement et sans armes, en se conformant aux lois qui peuvent régler l'exercice de ce droit sans le soumettre à une
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+autorisation préalable. Cette liberté ne s'étend pas aux rassemblements de plein air, qui restent soumis aux lois de police.
+
+#### Art. 30.
+- (modifié par la loi n°1.249 du 2 avril 2002) - La liberté d'association est garantie dans le cadre des lois qui la réglementent.
+
+#### Art. 31.
+- Chacun peut adresser des pétitions aux autorités publiques.
 
 #### Art. 32.
 - L'étranger jouit dans la Principauté de tous les droits publics et privés qui ne sont pas formellement réservés aux nationaux.
@@ -227,7 +260,7 @@ Toute cession d'une fraction du capital social d'une entreprise dont l'Etat dét
 ### LE CONSEIL NATIONAL
 
 #### Art. 53.
-(modifié par la loi n°1.249 du 2 avril 2002) - Le Conseil National comprend vingtquatre membres élus pour cinq ans au suffrage universel direct et au scrutin de liste dans les conditions prévues par la loi.
+(modifié par la loi n°1.249 du 2 avril 2002) - Le Conseil National comprend vingt-quatre membres élus pour cinq ans au suffrage universel direct et au scrutin de liste dans les conditions prévues par la loi.
 
 Sont électeurs, dans les conditions fixées par la loi, les citoyens de nationalité monégasque de l'un ou de l'autre sexe âgés de dix-huit ans au moins, à l'exception de ceux qui sont privés du droit de vote pour l'une des causes prévues par la loi.
 
@@ -281,9 +314,9 @@ La loi détermine les fonctions dont l'exercice est incompatible avec le mandat 
 
 Le Conseil National a la faculté de faire des propositions de loi. Dans le délai de six mois à compter de la date de réception de la proposition de loi par le Ministre d'Etat, celui-ci fait connaître au Conseil National :
 
-- soit sa décision de transformer la proposition de loi, éventuellement amendée, en un projet de loi qui suit la procédure prévue à l'alinéa 1er. Dans ce cas, le projet est déposé dans un délai d'un an à compter de l'expiration du délai de six mois ;
+a) - soit sa décision de transformer la proposition de loi, éventuellement amendée, en un projet de loi qui suit la procédure prévue à l'alinéa 1er. Dans ce cas, le projet est déposé dans un délai d'un an à compter de l'expiration du délai de six mois ;
 
-- soit sa décision d'interrompre la procédure législative. Cette décision est explicitée par une déclaration inscrite de droit à l'ordre du jour d'une séance publique de la session ordinaire prévue dans ce délai. Cette déclaration peut être suivie d'un débat.
+b) - soit sa décision d'interrompre la procédure législative. Cette décision est explicitée par une déclaration inscrite de droit à l'ordre du jour d'une séance publique de la session ordinaire prévue dans ce délai. Cette déclaration peut être suivie d'un débat.
 
 Dans l'hypothèse où, à l'expiration du délai de six mois, le Gouvernement n'a pas fait connaître la suite réservée à la proposition de loi, celle-ci est, conformément à la procédure prévue à l'alinéa 1er, transformée de plein droit en projet de loi.
 
@@ -387,24 +420,24 @@ Ces présentations sont faites par chacun des corps ci-dessus désignés à rais
 #### Art. 90.
 - A. - En matière constitutionnelle, le Tribunal Suprême statue souverainement :
 
-l°) sur la conformité du règlement intérieur du Conseil National aux dispositions constitutionnelles et, le cas échéant, législatives, dans les conditions prévues à l'article 61 ; objet une atteinte aux libertés et droits consacrés par le Titre III de la Constitution, et qui
+1°) sur la conformité du règlement intérieur du Conseil National aux dispositions constitutionnelles et, le cas échéant, législatives, dans les conditions prévues à l'article 61 ;
 
-- 2°) sur les recours en annulation, en appréciation de validité et en indemnité ayant pour ne sont pas visés au paragraphe B du présent article.
+2°) sur les recours en annulation, en appréciation de validité et en indemnité ayant pour objet une atteinte aux libertés et droits consacrés par le Titre III de la Constitution, et qui ne sont pas visés au paragraphe B du présent article.
 
 B.- En matière administrative, le Tribunal Suprême statue souverainement :
 
-- l° ) sur les recours en annulation pour excès de pouvoir formés contre les décisions des
+1°) sur les recours en annulation pour excès de pouvoir formés contre les décisions des diverses autorités administratives et les ordonnances souveraines prises pour l'exécution des lois, ainsi que sur l'octroi des indemnités qui en résultent ;
 
-diverses autorités administratives et les ordonnances souveraines prises pour l'exécution des lois, ainsi que sur l'octroi des indemnités qui en résultent ; 2°) sur les recours en cassation formés contre les décisions des juridictions administratives statuant en dernier ressort ; 3°) sur les recours en interprétation et les recours en appréciation de validité des décisions
+2°) sur les recours en cassation formés contre les décisions des juridictions administratives statuant en dernier ressort ;
 
-- des diverses autorités administratives et des ordonnances souveraines prises pour l'exécution des lois.
+3°) sur les recours en interprétation et les recours en appréciation de validité des décisions des diverses autorités administratives et des ordonnances souveraines prises pour l'exécution des lois.
 
-C . - Le Tribunal Suprême statue sur les conflits de compétence juridictionnelle.
+C.- Le Tribunal Suprême statue sur les conflits de compétence juridictionnelle.
 
 #### Art. 91.
 - Le Tribunal Suprême délibère, soit en assemblée plénière de cinq membres, soit en section administrative de trois membres.
 
-Il siège et délibère en assemblée plénière : l° ) en matière constitutionnelle ; 2°) comme juge des conflits de compétence ; 3°) en matière administrative sur renvoi ordonné par le président du Tribunal Suprême ou décidé par la section administrative.
+Il siège et délibère en assemblée plénière : 1°) en matière constitutionnelle ; 2°) comme juge des conflits de compétence ; 3°) en matière administrative sur renvoi ordonné par le président du Tribunal Suprême ou décidé par la section administrative.
 
 Il siège et délibère en section administrative dans tous les autres cas.
 
