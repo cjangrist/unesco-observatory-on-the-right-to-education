@@ -70,11 +70,13 @@ The city of Amman is the capital of the Kingdom, but it may be transferred to an
 
 #### Article 4
 
-The Jordanian flag shall be of the following form and dimensions: 'The length of the flag shall be twice its width. It shall be divided horizontally into three parallel and equal stripes, the uppermost of which shall be black, the center, white, and the lowest, green. At the end of the flag-staff the flag shall have a red triangle, the base of which shall be equal to its width. In the triangle there shall be a white seven- pointed star of such a size that it may be one-fourteenth part of its length. The star shall be so placed that its centre shall be at the intersection of the lines bisecting the angles of the triangle, and the axis running through one of its points shall be parallel to the base of the triangle.'
+The Jordanian flag shall be of the following form and dimensions: “The length of the flag shall be twice its width. It shall be divided horizontally into three parallel and equal stripes, the uppermost of which shall be black, the center, white, and the lowest, green. At the end of the flag-staff the flag shall have a red triangle, the base of which shall be equal to its width. In the triangle there shall be a white seven- pointed star of such a size that it may be one-fourteenth part of its length. The star shall be so placed that its centre shall be at the
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+intersection of the lines bisecting the angles of the triangle, and the axis running through one of its points shall be parallel to the base of the triangle.”
 
 ## CHAPTER TWO
 
@@ -120,11 +122,13 @@ No loans may be forcibly imposed and no property, movable or immovable, may be c
 
 Compulsory labour may not be imposed on any person, but any person may be required to do any work or to render any service in circumstances prescribed by law, as stated hereunder:
 
-(i) In a state of necessity, such as a state of war, the occurrence of a public danger, or fire, flood, famine, earthquake, serious epidemic among human beings or animals or animal diseases, insects or pests or any other similar events, or in any other circumstances which might endanger the safety of the population, in whole or in part.
+(i) In a state of necessity, such as a state of war, the occurrence of a public danger, or fire, flood, famine, earthquake, serious epidemic among human beings or animals or animal
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+diseases, insects or pests or any other similar events, or in any other circumstances which might endanger the safety of the population, in whole or in part.
 
 (ii) As a result of the conviction of the person concerned by a court of law, provided that the work is done and the service rendered under the supervision of an official authority and provided further that no convicted person shall be hired to, or be placed at the disposal of, any persons, companies, societies or public bodies.
 
@@ -190,13 +194,15 @@ Elementary education shall be compulsory for Jordanians and free of charge in Go
 
 (ii) The State shall protect labour and enact legislation therefore based on the following principles:
 
-Every worker shall receive wages commensurate with the quantity and quality of his work.
+(a) Every worker shall receive wages commensurate with the quantity and quality of his work.
 
-The number of hours of work per week shall be defined. Workers shall be given weekly and annual days of paid rest.
+(b) The number of hours of work per week shall be defined. Workers shall be given weekly and annual days of paid rest.
 
-Special compensation shall be given to workers supporting families and on dismissal, illness, old age and emergencies arising out of the nature of their work.
+(c) Special compensation shall be given to workers supporting families and on dismissal, illness, old age and emergencies arising out of the nature of their work.
 
-Special conditions shall be made for the employment of women and juveniles. (e) Factories and workshops shall be subject to health safeguards.
+(d) Special conditions shall be made for the employment of women and juveniles.
+
+(e) Factories and workshops shall be subject to health safeguards.
 
 (f) Free trade unions may be formed within the limits of the law.
 
@@ -228,6 +234,8 @@ The Judicial Power shall be exercised by the courts of law in their varying type
 
 ## CHAPTER FOUR
 
+The Executive Power
+
 ### Part I
 
 The King and His Prerogatives
@@ -236,7 +244,7 @@ The King and His Prerogatives
 
 The Throne of the Hashemite Kingdom of Jordan is hereditary to the dynasty of King Abdullah Ibn Al-Hussein in a direct line through his male heirs as provided hereinafter: (a) * The Royal title shall pass from the holder of the Throne to his eldest son, and to the eldest son of that son and in linear succession by a similar process thereafter. Should the eldest son die before the Throne devolves upon him, his eldest son shall inherit the Throne, despite the existence of brothers to the deceased son. The King may, however, select one of his brothers as heir apparent. In this event, title to the Throne shall pass to him from the holder of the Throne.
 
-- As amended in the Official Gazette No. 1831 of 1/4/1965
+* As amended in the Official Gazette No. 1831 of 1/4/1965
 
 (b) Should the person entitled to the Throne die without a male heir, the Throne shall pass to his eldest brother. In the event that the holder of the Throne has no brothers, the Throne shall pass to the eldest son of his eldest brother. Should his eldest brother have no son, the Throne shall pass to the eldest son of his other brothers according to their seniority in age.
 
@@ -294,7 +302,7 @@ The King is the Supreme Commander of the Land, Naval and Air Forces.
 
 (ii) Treaties and agreements which involve financial commitments to the Treasury or affect the public or private rights of Jordanians shall not be valid unless approved by the National Assembly. In no circumstances shall any secret terms contained in any treaty or agreement be contrary to their overt terms.
 
-- As amended in the Official Gazette No. 1380 dated 4/5/1958.
+* As amended in the Official Gazette No. 1380 dated 4/5/1958.
 
 ** As amended in the Official Gazette No. 1396 dated 1/9/1958.
 
@@ -308,7 +316,7 @@ The King is the Supreme Commander of the Land, Naval and Air Forces.
 
 (iv) * The King may dissolve the Senate or relieve any Senator of his membership.
 
-- As amended in the Official Gazette No. 2523 dated 10/11/1974.
+* As amended in the Official Gazette No. 2523 dated 10/11/1974.
 
 #### Article 35
 
@@ -356,7 +364,7 @@ No person shall be appointed a Minister unless he is a Jordanian.
 
 The Prime Minister and Ministers shall, before assuming their duties, take the following oath before the King:
 
-'I swear by Almighty God to be loyal to the King, uphold the Constitution, serve the Nation and conscientiously perform the duties entrusted to me.'
+“I swear by Almighty God to be loyal to the King, uphold the Constitution, serve the Nation and conscientiously perform the duties entrusted to me.”
 
 #### Article 44
 
@@ -372,9 +380,9 @@ No Minister may purchase or lease any Government property even if the sale or le
 
 (ii) The duties of the Prime Minister, the Ministers and the Council of Ministers shall be defined by regulations made by the Council of Ministers and ratified by the King.
 
-- As amended in the Official Gazette No. 1380 of 4/5/1958.
+* As amended in the Official Gazette No. 1380 of 4/5/1958.
 
-- As amended in the Official Gazette No. 1396 of 1/9/1958.
+** As amended in the Official Gazette No. 1396 of 1/9/1958.
 
 #### Article 46
 
@@ -404,11 +412,13 @@ The Prime Minister and Ministers shall be collectively responsible before the Ch
 
 #### Article 52
 
-The Prime Minister, or the Minister who is a member of either the Chamber of Deputies or the Senate, shall be entitled to vote in the House to which he belongs and to speak in both Houses. However, Ministers who are not members of either House may speak in both Houses without the right to vote.
+The Prime Minister, or the Minister who is a member of either the Chamber of Deputies or the Senate, shall be entitled to vote in the House to which he belongs and to speak in both
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+Houses. However, Ministers who are not members of either House may speak in both Houses without the right to vote.
 
 #### Article 53
 
@@ -418,7 +428,7 @@ The Prime Minister, or the Minister who is a member of either the Chamber of Dep
 
 (iii) If the vote of no confidence concerns an individual Minister, he shall resign his office.
 
-- As amended in the Official Gazette No. 1179 17/4/1954.
+* As amended in the Official Gazette No. 1179 17/4/1954.
 
 #### Article 54
 
@@ -428,9 +438,9 @@ The Prime Minister, or the Minister who is a member of either the Chamber of Dep
 
 (iii) ** Every newly formed Council of Ministers shall within one month of its formation, in cases where the Chamber of Deputies is in session, place before the Chamber of Deputies a statement of its policy and request a vote confidence on the basis of the said statement. If the Chamber of Deputies is not in session at the time, or stands dissolved, the Speech from the Throne shall be considered to be a statement of its policy for the purposes of this Article.
 
-As amended in the Official Gazette No. 1179 of 17/4/1954 and No. 1380 of 4/5/1958.
+* As amended in the Official Gazette No. 1179 of 17/4/1954 and No. 1380 of 4/5/1958.
 
-- As amended in the Official Gazette No. 1380 of 4/5/1958.
+** As amended in the Official Gazette No. 1380 of 4/5/1958.
 
 #### Article 55
 
@@ -442,11 +452,13 @@ The Chamber of Deputies is entitled to impeach Ministers, but a bill of impeachm
 
 #### Article 57
 
-The High Tribunal shall consist of the Speaker of the Senate as President and eight members, three of whom shall be selected by ballot by the Senate from amongst its members and five members to be selected from amongst the judges of the highest Civil Court in order of seniority. In case of necessity, the number shall be completed from the presidents of the lower courts, also in order of seniority.
+The High Tribunal shall consist of the Speaker of the Senate as President and eight
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+members, three of whom shall be selected by ballot by the Senate from amongst its members and five members to be selected from amongst the judges of the highest Civil Court in order of seniority. In case of necessity, the number shall be completed from the presidents of the lower courts, also in order of seniority.
 
 #### Article 58
 
@@ -454,9 +466,9 @@ The High Tribunal shall apply the provisions of the Penal Code in force in respe
 
 #### Article 59
 
-- Judgements shall be given by the High Tribunal by a majority of six votes.
+* Judgements shall be given by the High Tribunal by a majority of six votes.
 
-- As amended in the Official Gazette No. 1380 of 4/5/1958.
+* As amended in the Official Gazette No. 1380 of 4/5/1958.
 
 #### Article 60
 
@@ -486,11 +498,13 @@ The Senate, including the Speaker, shall consist of not more than one- half of t
 
 #### Article 64
 
-In addition to the requirements prescribed in Article 75 of the present Constitution, a Senator must have completed forty calendar years of age and must belong to one of the following classes: Present and former Prime Ministers and Ministers, persons who had previously held the office of Ambassador, Minister Plenipotentiary, Speaker of the Chamber of Deputies, President and judges of the Court of Cassation and of the Civil and Sharia Courts of Appeal, retired military officers of the rank of Lt. General and above, former Deputies who were elected at least twice as deputies, and other similar personalities who enjoy the confidence of the people in view of the services rendered by them to the Nation and the Country.
+In addition to the requirements prescribed in Article 75 of the present Constitution, a Senator must have completed forty calendar years of age and must belong to one of the following classes: Present and former Prime Ministers and Ministers, persons who had previously held the office of Ambassador, Minister Plenipotentiary, Speaker of the Chamber of Deputies, President and judges of the Court of Cassation and of the Civil and Sharia Courts of Appeal, retired military officers of the rank of Lt. General and above, former Deputies who were elected at least twice as deputies, and other similar personalities who
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+enjoy the confidence of the people in view of the services rendered by them to the Nation and the Country.
 
 #### Article 65
 
@@ -498,7 +512,7 @@ In addition to the requirements prescribed in Article 75 of the present Constitu
 
 (ii) The term of office of the Speaker of the Senate shall be two years but he may be reappointed.
 
-- As amended in the Official Gazette No. 1243 of 16/10/1955.
+* As amended in the Official Gazette No. 1243 of 16/10/1955.
 
 #### Article 66
 
@@ -522,7 +536,7 @@ The Chamber of Deputies shall consist of members elected by secret ballot in a g
 
 (ii) A general election shall take place during the four months preceding the end of the term of the Chamber. If the election has not taken place by the end of the term of the Chamber or if such election is delayed for any reason, the Chamber shall remain in office until the election of a new Chamber.
 
-- As amended in the Official Gazette No. 1476 of 16/2/1960.
+* As amended in the Official Gazette No. 1476 of 16/2/1960.
 
 #### Article 69
 
@@ -540,7 +554,7 @@ In addition to the requirements prescribed in Article 75 of the present Constitu
 
 #### Article 71
 
-The Chamber of Deputies shall have the right to determine the validity of the election of its members. Any voter shall have the right to present a petition to the Secretariat of the Chamber within fifteen days of the announcement of the results of the election in his constituency setting out the legal grounds for invalidating the election of any deputy. No election may be considered invalid unless it has been declared as such by a majority of twothirds of the members of the Chamber.
+The Chamber of Deputies shall have the right to determine the validity of the election of its members. Any voter shall have the right to present a petition to the Secretariat of the Chamber within fifteen days of the announcement of the results of the election in his constituency setting out the legal grounds for invalidating the election of any deputy. No election may be considered invalid unless it has been declared as such by a majority of two-thirds of the members of the Chamber.
 
 #### Article 72
 
@@ -556,15 +570,17 @@ Any deputy may resign his seat by notifying the Speaker of the Chamber of Deputi
 
 (iv) ** Notwithstanding the provisions of paragraphs (i) and (ii) of this Article, the King may postpone the holding of the general elections if a force majeure has occurred which the Council of Ministers considers as rendering the holding of elections impossible.
 
-(v) *** Should the force majeure provided for in paragraph (iv) hereof persist, the King may, upon a decision taken by the Council of Ministers, reinstate and convene the dissolved Chamber. Such Chamber shall be deemed as having been in existence in all respects from the date of the issue of the Royal Decree effecting its reinstatement. It shall exercise its full constitutional powers and be subject to the provisions of this Constitution, including those pertaining to the term of the Chamber and its dissolution. The session which it holds in such case shall be deemed to be its first ordinary session regardless of the date when it takes place.
+(v) *** Should the force majeure provided for in paragraph (iv) hereof persist, the King may, upon a decision taken by the Council of Ministers, reinstate and convene the dissolved Chamber. Such Chamber shall be deemed as having been in existence in all respects from the date of the issue of the Royal Decree effecting its reinstatement. It shall exercise its full
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
+constitutional powers and be subject to the provisions of this Constitution, including those pertaining to the term of the Chamber and its dissolution. The session which it holds in such case shall be deemed to be its first ordinary session regardless of the date when it takes place.
+
 (vi) **** Should the Council of Ministers consider that the holding of general elections in at least one half of the constituencies is possible in spite of the persistence of the force majeure referred to in this Article, the King may order the holding of elections in such constituencies. The successful members shall elect not more than one-half of the number of the members for the other constituencies in which it was impossible to hold elections, provided that they can hold a (valid) meeting only by a majority of three-quarters of their number, and provided also that the elections shall be by at least a two-thirds majority and shall be in accordance with the provisions and in the manner provided for in Article (88) of the Constitution. The successful members and the members elected in accordance with this paragraph shall elect the remaining members for the said constituencies in accordance with the provisions of this paragraph.
 
-- As amended in the Official Gazette No. 1243 of 16/10/1955.
+* As amended in the Official Gazette No. 1243 of 16/10/1955.
 
 ** As amended in the Official Gazette No. 2523 of 10/11/1974 and re- amended in the Official Gazette No. 2605 of 7/2/1976.
 
@@ -574,9 +590,9 @@ Any deputy may resign his seat by notifying the Speaker of the Chamber of Deputi
 
 #### Article 74
 
-- If the Chamber of Deputies is dissolved for any reason, the new Chamber shall not be dissolved for the same reason. A Minister who intends to nominate himself for election shall resign fifteen days at least before the beginning of nomination.
+* If the Chamber of Deputies is dissolved for any reason, the new Chamber shall not be dissolved for the same reason. A Minister who intends to nominate himself for election shall resign fifteen days at least before the beginning of nomination.
 
-- As amended in the Official Gazette No. 1179 of 17/4/1954 and No.1380 of 4/5/1958.
+* As amended in the Official Gazette No. 1179 of 17/4/1954 and No.1380 of 4/5/1958.
 
 ### Part III
 
@@ -642,7 +658,7 @@ The King shall inaugurate the ordinary session of the National Assembly by a Spe
 
 Every Senator and Deputy shall, before taking his seat, take an oath before his House in the following terms:
 
-'I swear by Almighty God to be loyal to the King and to the Country and to uphold the Constitution, serve the Nation and duly perform the duties entrusted to me.'
+“I swear by Almighty God to be loyal to the King and to the Country and to uphold the Constitution, serve the Nation and duly perform the duties entrusted to me.”
 
 #### Article 81
 
@@ -694,11 +710,13 @@ Every Senator or Deputy shall have complete freedom of speech and expression of 
 
 * When a seat becomes vacant in the Senate or in the Chamber of Deputies by death or resignation or for any other reason, it shall be filled by appointment in the case of a Senator and by the holding of a by-election in the case of a deputy within a period of two months from the date on which the Government is notified of the vacancy by the House. The term of the new member shall be for the remaining part of the term of his predecessor.
 
-However, if a seat in the Chamber of Deputies becomes vacant for any constituency for any reason and should there be force majeure on account of which the Council of Ministers considers that rendering a by election to fill that seat is impossible, the Chamber of Deputies, by the absolute majority of its members and within one month of its being notified thereof, shall elect a member to fill the said seat from amongst the inhabitants of the said constituency to who the provisions of the Constitution are applicable and in the manner the Chamber deems appropriate.
+However, if a seat in the Chamber of Deputies becomes vacant for any constituency for any
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+reason and should there be force majeure on account of which the Council of Ministers considers that rendering a by election to fill that seat is impossible, the Chamber of Deputies, by the absolute majority of its members and within one month of its being notified thereof, shall elect a member to fill the said seat from amongst the inhabitants of the said constituency to who the provisions of the Constitution are applicable and in the manner the Chamber deems appropriate.
 
 * As amended in the Official Gazette No. 2414 dated 8/4/1973.
 
@@ -734,7 +752,7 @@ Should either House twice reject any draft law and the other accept it, whether 
 
 (iii) If the King does not see fit to ratify a law, He may, within six months from the date on which the law was submitted to him, refer it back to the House coupled with a statement showing the reasons for withholding his ratification.
 
-(iv) If any draft law (other than the Constitution) is referred back within the period specified in the preceding paragraph and is passed for the second time by two-thirds of the members of each of the Senate and the Chamber of Deputies, it shall be promulgated. If the law is not returned with the Royal ratification within the period prescribed in paragraph (iii) above, it shall be considered as promulgated and effective. If any draft law fails to obtain the twothirds majority of votes, it cannot be reconsidered during the same session, provided that the National Assembly may reconsider the draft during its next ordinary session.
+(iv) If any draft law (other than the Constitution) is referred back within the period specified in the preceding paragraph and is passed for the second time by two-thirds of the members of each of the Senate and the Chamber of Deputies, it shall be promulgated. If the law is not returned with the Royal ratification within the period prescribed in paragraph (iii) above, it shall be considered as promulgated and effective. If any draft law fails to obtain the two-thirds majority of votes, it cannot be reconsidered during the same session, provided that the National Assembly may reconsider the draft during its next ordinary session.
 
 #### Article 94
 
@@ -796,7 +814,7 @@ The establishment of the various courts, their categories, their divisions, thei
 
 * The Civil Courts in the Hashemite Kingdom of Jordan shall have jurisdiction over all persons in all matters, civil and criminal, including cases brought by or against the Government, except those matters in respect of which jurisdiction is vested in Religious or Special Courts in accordance with the provisions of the present Constitution ** or any other legislation in force.
 
-- As amended in the Official Gazette No. 1380 of 4/5/1958.
+* As amended in the Official Gazette No. 1380 of 4/5/1958.
 
 [[END OF PAGE 20]]
 
@@ -810,7 +828,7 @@ The establishment of the various courts, their categories, their divisions, thei
 
 (ii) Matters of personal status are those which are defined by law and in accordance therewith fall within the exclusive jurisdiction of the Sharia Courts where the parties are Moslems.
 
-- As amended in the Official Gazette No. 1380 of 4/5/1958.
+* As amended in the Official Gazette No. 1380 of 4/5/1958.
 
 ** As Amended in the Official Gazette No. 1396 1/9/1958.
 
@@ -842,11 +860,13 @@ The organisation of the affairs of Moslem Waqfs and the administration of their 
 
 #### Article 108
 
-The Tribunals of Religious Communities are those for the non-Moslem religious communities which have been or will be recognised by the Government as established in the Hashemite Kingdom of Jordan.
+The Tribunals of Religious Communities are those for the non-Moslem religious
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+communities which have been or will be recognised by the Government as established in the Hashemite Kingdom of Jordan.
 
 #### Article 109
 
@@ -876,11 +896,13 @@ No tax or duty may be imposed except by law. Taxes and duties shall not include 
 
 (iv) The National Assembly, when debating the General Budget draft law or the provisional laws relating thereto, may reduce the expenditures under the various chapters in accordance with what it considers to be in the public interest, but it shall not increase such expenditures either by amendment or by the submission of a separate proposal. However, the Assembly may after the close of the debate propose laws for the creation of new expenditures.
 
-(v) During the debate of the General Budget, no proposal shall be accepted for the abrogation of an existing tax or the creation of a new one or the amendment, whether by increase or reduction, of existing taxes which are prescribed by financial laws in force, and no proposal shall be accepted for amending expenditures or revenues fixed by contract.
+(v) During the debate of the General Budget, no proposal shall be accepted for the abrogation of an existing tax or the creation of a new one or the amendment, whether by increase or reduction, of existing taxes which are prescribed by financial laws in force, and
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+no proposal shall be accepted for amending expenditures or revenues fixed by contract.
 
 (vi) The national revenues and expenditures estimated for each financial year shall be approved by the General Budget Law, provided that said Law may provide for the allocation of any special sums for a period exceeding one year.
 
@@ -966,7 +988,7 @@ In the event of an emergency necessitating the defence of the Kingdom, a law, wh
 
 #### Article 126
 
-(i) The procedure prescribed in the present Constitution with regard to draft laws shall apply to any draft law for the amendment of this Constitution, provided that any such amendment is passed by a two- thirds majority of the members of each of the Senate and the Chamber of Deputies. In the event of a joint meeting of the Senate and the Chamber of Deputies in accordance with Article (92) of this Constitution, the amendment shall be passed by a twothirds majority of the members of both Houses, provided that in both cases the amendment shall not come into force unless ratified by the King.
+(i) The procedure prescribed in the present Constitution with regard to draft laws shall apply to any draft law for the amendment of this Constitution, provided that any such amendment is passed by a two- thirds majority of the members of each of the Senate and the Chamber of Deputies. In the event of a joint meeting of the Senate and the Chamber of Deputies in accordance with Article (92) of this Constitution, the amendment shall be passed by a two-thirds majority of the members of both Houses, provided that in both cases the amendment shall not come into force unless ratified by the King.
 
 (ii) No amendment of the Constitution affecting the rights of the King and the succession to the Throne may be passed during the period of Regency.
 
@@ -1008,7 +1030,15 @@ The Council of Ministers shall be charged with the execution of the provisions o
 
 1/1/1952
 
-Sa'id El-Mufti
+Talal
+
+Signatures
+
+Tawfiq Abul Huda
+
+Prime Minister and Minister of Foreign Affairs
+
+Sa’id El-Mufti
 
 Deputy Prime Minister and Minister of Interior
 
@@ -1043,14 +1073,6 @@ Minister of Agriculture and Defence
 Abdul Halim Hmoud
 
 Minister of Finance
-
-Signatures
-
-Tawfiq Abul Huda
-
-Prime Minister and Minister of Foreign Affairs
-
-Talal
 
 [[END OF PAGE 26]]
 
