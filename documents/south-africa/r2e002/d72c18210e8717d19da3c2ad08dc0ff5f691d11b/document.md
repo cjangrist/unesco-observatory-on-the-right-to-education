@@ -40,7 +40,7 @@ BE IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as fo
 
 #### Definitions
 
-- In this Act, unless the context indicates otherwise-
+1. In this Act, unless the context indicates otherwise-
 
 [[END OF PAGE 1]]
 
@@ -80,9 +80,7 @@ BE IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as fo
 
 (c) the person who undertakes to fulfil the obligations of a person referred to in paragraphs (a) and (b) towards the learner's education at school; (xiv)
 
-(xv) "principal" means an educator appointed or acting as the head of
-
-- a school; (xvi)
+(xv) "principal" means an educator appointed or acting as the head of a school; (xvi)
 
 (xvi) "province" means a province established by section 124 of the Constitution; (xviii)
 
@@ -102,11 +100,11 @@ in section 125 of the Constitution; (xvii)
 
 #### Application of Act
 
-(1) This Act applies to school education in the Republic of South Africa.
+2. (1) This Act applies to school education in the Republic of South Africa.
 
-- A Member of the Executive Council and a Head of Department must exercise any power conferred upon them by or under this Act, after taking full account of the applicable policy determined in terms of the National Education Policy Act, 1996 (Act No.  27 of 1996).
+(2) A Member of the Executive Council and a Head of Department must exercise any power conferred upon them by or under this Act, after taking full account of the applicable policy determined in terms of the National Education Policy Act, 1996 (Act No. 27 of 1996).
 
-- Nothing in this Act prevents a provincial legislature from enacting legislation for school education in a province in accordance with the Constitution.
+(3) Nothing in this Act prevents a provincial legislature from enacting legislation for school education in a province in accordance with the Constitution.
 
 ## CHAPTER 2
 
@@ -114,15 +112,15 @@ in section 125 of the Constitution; (xvii)
 
 #### Compulsory attendance
 
-(1) Subject to this Act and any applicable provincial law, every parent must cause every learner for whom he or she is responsible to attend a school from the first school day of the year in which such learner reaches the age of seven years until the last school day of the year in which such learner reaches the age of fifteen years or the ninth grade, whichever occurs first.
+3. (1) Subject to this Act and any applicable provincial law, every parent must cause every learner for whom he or she is responsible to attend a school from the first school day of the year in which such learner reaches the age of seven years until the last school day of the year in which such learner reaches the age of fifteen years or the ninth grade, whichever occurs first.
 
-- The Minister must, by notice in the Government Gazette, determine the ages of compulsory attendance at school for learners with special education needs.
+(2) The Minister must, by notice in the Government Gazette, determine the ages of compulsory attendance at school for learners with special education needs.
 
-- Every Member of the Executive Council must ensure that there are enough school places so that every child who lives in his or her province can attend school as required by subsections (1) and (2).
+(3) Every Member of the Executive Council must ensure that there are enough school places so that every child who lives in his or her province can attend school as required by subsections (1) and (2).
 
-- If a Member of the Executive Council cannot comply with subsection (3) because of a lack of capacity existing at the date of commencement of this Act, he or she must take steps to remedy any such lack of capacity as soon as possible and must make an annual report to the Minister on the progress achieved in doing so.
+(4) If a Member of the Executive Council cannot comply with subsection (3) because of a lack of capacity existing at the date of commencement of this Act, he or she must take steps to remedy any such lack of capacity as soon as possible and must make an annual report to the Minister on the progress achieved in doing so.
 
-- If a learner who is subject to compulsory attendance in terms of subsection (1) is not enrolled at or fails to attend a school, the Head of Department may-
+(5) If a learner who is subject to compulsory attendance in terms of subsection (1) is not enrolled at or fails to attend a school, the Head of Department may-
 
 (a) investigate the circumstances of the learner's absence from school;
 
@@ -130,7 +128,7 @@ in section 125 of the Constitution; (xvii)
 
 (c) failing such a remedy, issue a written notice to the parent of the learner requiring compliance with subsection (1).
 
-- Subject to this Act and any other applicable law-
+(6) Subject to this Act and any other applicable law-
 
 [[END OF PAGE 3]]
 
@@ -142,17 +140,17 @@ in section 125 of the Constitution; (xvii)
 
 #### Exemption from compulsory attendance
 
-(1) A Head of Department may exempt a learner entirely, partially or conditionally from compulsory school attendance if it is in the best interests of the learner.
+4. (1) A Head of Department may exempt a learner entirely, partially or conditionally from compulsory school attendance if it is in the best interests of the learner.
 
 (2) Every Head of Department must maintain a register of all learners exempted from compulsory school attendance.
 
 #### Admission to public schools
 
-(1) A public school must admit learners and serve their educational requirements without unfairly discriminating in any way.
+5. (1) A public school must admit learners and serve their educational requirements without unfairly discriminating in any way.
 
-- The governing body of a public school may not administer any test related to the admission of a learner to a public school, or direct or authorise the principal of the school or any other person to administer such test.
+(2) The governing body of a public school may not administer any test related to the admission of a learner to a public school, or direct or authorise the principal of the school or any other person to administer such test.
 
-- No learner may be refused admission to a public school on the grounds that his or her parent-
+(3) No learner may be refused admission to a public school on the grounds that his or her parent-
 
 (a) is unable to pay or has not paid the school fees determined by the governing body under section 39;
 
@@ -160,17 +158,17 @@ in section 125 of the Constitution; (xvii)
 
 (c) has refused to enter into a contract in terms of which the parent waives any claim for damages arising out of the education of the learner.
 
-- The Minister may by notice in the Government Gazette, after consultation with the Council of Education Ministers, determine age requirements for the admission of learners to a school or different grades at a school.
+(4) The Minister may by notice in the Government Gazette, after consultation with the Council of Education Ministers, determine age requirements for the admission of learners to a school or different grades at a school.
 
 (5) Subject to this Act and any applicable provincial law, the admission policy of a public school is determined by the governing body of such school.
 
-- In determining the placement of a learner with special education needs, the Head of Department and principal must take into account the fights and wishes of the parents of such learner.
+(6) In determining the placement of a learner with special education needs, the Head of Department and principal must take into account the rights and wishes of the parents of such learner.
 
-- An application for the admission of a learner to a public school must be made to the education department in a manner determined by the Head of Department.
+(7) An application for the admission of a learner to a public school must be made to the education department in a manner determined by the Head of Department.
 
-- If an application in terms of subsection (7) is refused, the Head of Department must inform the parent in writing of such refusal and the reason therefor.
+(8) If an application in terms of subsection (7) is refused, the Head of Department must inform the parent in writing of such refusal and the reason therefor.
 
-- Any learner or parent of a learner who has been refused admission to a public school may appeal against the decision to the Member of the Executive
+(9) Any learner or parent of a learner who has been refused admission to a public school may appeal against the decision to the Member of the Executive
 
 [[END OF PAGE 4]]
 
@@ -180,7 +178,7 @@ Council.
 
 #### Language policy of public schools
 
-(1) Subject to the Constitution and this Act, the Minister may, by notice in the Government Gazette, after consultation with the Council of Education Ministers, determine norms and standards for language policy in public schools.
+6. (1) Subject to the Constitution and this Act, the Minister may, by notice in the Government Gazette, after consultation with the Council of Education Ministers, determine norms and standards for language policy in public schools.
 
 (2) The governing body of a public school may determine the language policy of the school subject to the Constitution, this Act and any applicable provincial law.
 
@@ -190,13 +188,13 @@ Council.
 
 #### Freedom of conscience and religion at public schools
 
-- Subject to the Constitution and any applicable provincial law, religious observances may be conducted at a public school under rules issued by the governing body if such observances are conducted on an equitable basis and attendance at them by learners and members of staff is free and voluntary.
+7. Subject to the Constitution and any applicable provincial law, religious observances may be conducted at a public school under rules issued by the governing body if such observances are conducted on an equitable basis and attendance at them by learners and members of staff is free and voluntary.
 
 #### Code of conduct
 
-(1) Subject to any applicable provincial law, a governing body of a public school must adopt a code of conduct for the learners after consultation with the learners, parents and educators of the school.
+8. (1) Subject to any applicable provincial law, a governing body of a public school must adopt a code of conduct for the learners after consultation with the learners, parents and educators of the school.
 
-- A code of conduct referred to in subsection (1) must be aimed at establishing a disciplined and purposeful school environment, dedicated to the improvement and maintenance of the quality of the learning process.
+(2) A code of conduct referred to in subsection (1) must be aimed at establishing a disciplined and purposeful school environment, dedicated to the improvement and maintenance of the quality of the learning process.
 
 (3) The Minister may, after consultation with the Council of Education Ministers, determine guidelines for the consideration of governing bodies in adopting a code of conduct for learners.
 
@@ -206,13 +204,13 @@ Council.
 
 #### Suspension and expulsion from public school
 
-(1) Subject to this Act and any applicable provincial law, the governing body of a public school may, after a fair hearing, suspend a learner from attending the school-
+9. (1) Subject to this Act and any applicable provincial law, the governing body of a public school may, after a fair hearing, suspend a learner from attending the school-
 
 (a) as a correctional measure for a period not longer than one week; or
 
 (b) pending a decision as to whether the learner is to be expelled from the school by the Head of Department.
 
-- Subject to any applicable provincial law, a learner at a public school may be expelled only-
+(2) Subject to any applicable provincial law, a learner at a public school may be expelled only-
 
 (a) by the Head of Department; and
 
@@ -236,13 +234,13 @@ Council.
 
 #### Prohibition of corporal punishment
 
-(1) No person may administer corporal punishment at a school to a learner.
+10. (1) No person may administer corporal punishment at a school to a learner.
 
 (2) Any person who contravenes subsection (1) is guilty of an offence and liable on conviction to a sentence which could be imposed for assault.
 
 #### Representative council of learners
 
-(1) A representative council of learners at the school must be established at every public school enrolling learners in the eighth grade and higher.
+11. (1) A representative council of learners at the school must be established at every public school enrolling learners in the eighth grade and higher.
 
 (2) A Member of the Executive Council may, by notice in the Provincial Gazette, determine guidelines for the establishment, election and functions of representative councils of learners.
 
@@ -254,7 +252,7 @@ Council.
 
 #### Provision of public schools
 
-(1) The Member of the Executive Council must provide public schools for the education of learners out of funds appropriated for this purpose by the provincial legislature.
+12. (1) The Member of the Executive Council must provide public schools for the education of learners out of funds appropriated for this purpose by the provincial legislature.
 
 (2) The provision of public schools referred to in subsection (1) may include the provision of hostels for the residential accommodation of learners.
 
@@ -266,23 +264,23 @@ Council.
 
 [[START OF PAGE 7]]
 
-- The Member of the Executive Council must take all reasonable measures to ensure that the physical facilities at public schools are accessible to disabled persons.
+(5) The Member of the Executive Council must take all reasonable measures to ensure that the physical facilities at public schools are accessible to disabled persons.
 
-- Nothing in this Act prohibits the provision of gender-specific public schools.
+(6) Nothing in this Act prohibits the provision of gender-specific public schools.
 
 #### Public schools on State property
 
-(1) In this section, immovable property owned by the State includes immovable property held in trust on behalf of a tribe by a trust created by statute.
+13. (1) In this section, immovable property owned by the State includes immovable property held in trust on behalf of a tribe by a trust created by statute.
 
 (2) Subject to section 20(1)(k), a public school which occupies immovable property owned by the State has the right, for the duration of the school's existence, to occupy and use the immovable property for the benefit of the school for educational purposes at or in connection with the school.
 
-- The right referred to in subsection (2) may only be restricted-
+(3) The right referred to in subsection (2) may only be restricted-
 
 (a) by the Member of the Executive Council; and
 
 (b) if the immovable property is not utilised by the school in the interests of education.
 
-- The Member of the Executive Council may not act under subsection (3) unless he or she has-
+(4) The Member of the Executive Council may not act under subsection (3) unless he or she has-
 
 (a) informed the governing body of the school of his or her intention so to act and the reasons therefor;
 
@@ -290,19 +288,19 @@ Council.
 
 (c) duly considered any such representations received.
 
-- The right contemplated in subsection (2) is enforceable against any successor in title to the owner of the immovable property in question.
+(5) The right contemplated in subsection (2) is enforceable against any successor in title to the owner of the immovable property in question.
 
-- No immovable property owned by the State and occupied by a public school may be alienated unless an agreement contemplated in section 14 has been concluded between the Member of the Executive Council and the prospective owner of the immovable property.
+(6) No immovable property owned by the State and occupied by a public school may be alienated unless an agreement contemplated in section 14 has been concluded between the Member of the Executive Council and the prospective owner of the immovable property.
 
 (7) The registrar of any deeds registry may not execute, attest to or register a transfer deed in respect of the immovable property in question unless the owner has provided the registrar with proof of the agreement contemplated in subsection (6).
 
-- The provisions of the Deeds Registries Act, 1937 (Act No.  47 of 1937), do not apply to the right contemplated in subsection (2).
+(8) The provisions of the Deeds Registries Act, 1937 (Act No. 47 of 1937), do not apply to the right contemplated in subsection (2).
 
 #### Public schools on private property
 
-(1) Subject to the Constitution and this Act, a public school may be provided on private property only in terms of an agreement between the Member of the Executive Council and the owner of the private property.
+14. (1) Subject to the Constitution and this Act, a public school may be provided on private property only in terms of an agreement between the Member of the Executive Council and the owner of the private property.
 
-- An agreement contemplated in subsection (1) must be consistent with this Act and in particular must provide for-
+(2) An agreement contemplated in subsection (1) must be consistent with this Act and in particular must provide for-
 
 (a) the provision of education and the performance of the normal functions of a public school;
 
@@ -310,14 +308,36 @@ Council.
 
 [[START OF PAGE 8]]
 
-(b) governance of the school, including the relationship between the governing body of the school and the owner; (c) access by all interested parties to the property on which the school stands; (d) security of occupation and use of the property by the school; (e) maintenance and improvement of the school buildings and the property on which the school stands and the supply of necessary services; (f) protection of the owner's rights in respect of the property occupied, affected or used by the school. (3) The provisions of the Deeds Registries Act, 1937 (Act No.  47 of 1937), do not apply to a real right, excluding ownership, acquired by the State, a public school or another party in terms of an agreement contemplated in this section. (4) The right contemplated in subsection (3) is enforceable against any successor in title to the owner of the immovable property in question. (5) Despite subsection (3), a registrar of a deeds registry must endorse on the title deed of the affected property that the property is subject to an agreement contemplated in this section, if the registrar receives(a) an application for such endorsement by the owner of the property, or the Member of the Executive Council or any other holder of a right contemplated in subsection (3), together with the title deed of the property; and (b) affidavits by the owner of the property and the Member of the Executive Council stating that an agreement contemplated in this section has been concluded. (6) The Minister must, after consultation with the Council of Education Ministers, make regulations regarding the minimum requirements of an agreement contemplated in this section. (7) Any transfer duty, stamp duty, fees or costs payable in respect of the registration of a right in terms of subsection (3) may be paid in full or in part from funds appropriated by the provincial legislature for that purpose, but the public school contemplated in subsection (1) is not responsible for such duties, fees or costs.
+(b) governance of the school, including the relationship between the governing body of the school and the owner;
+
+(c) access by all interested parties to the property on which the school stands;
+
+(d) security of occupation and use of the property by the school;
+
+(e) maintenance and improvement of the school buildings and the property on which the school stands and the supply of necessary services;
+
+(f) protection of the owner's rights in respect of the property occupied, affected or used by the school.
+
+(3) The provisions of the Deeds Registries Act, 1937 (Act No. 47 of 1937), do not apply to a real right, excluding ownership, acquired by the State, a public school or another party in terms of an agreement contemplated in this section.
+
+(4) The right contemplated in subsection (3) is enforceable against any successor in title to the owner of the immovable property in question.
+
+(5) Despite subsection (3), a registrar of a deeds registry must endorse on the title deed of the affected property that the property is subject to an agreement contemplated in this section, if the registrar receives-
+
+(a) an application for such endorsement by the owner of the property, or the Member of the Executive Council or any other holder of a right contemplated in subsection (3), together with the title deed of the property; and
+
+(b) affidavits by the owner of the property and the Member of the Executive Council stating that an agreement contemplated in this section has been concluded.
+
+(6) The Minister must, after consultation with the Council of Education Ministers, make regulations regarding the minimum requirements of an agreement contemplated in this section.
+
+(7) Any transfer duty, stamp duty, fees or costs payable in respect of the registration of a right in terms of subsection (3) may be paid in full or in part from funds appropriated by the provincial legislature for that purpose, but the public school contemplated in subsection (1) is not responsible for such duties, fees or costs.
 #### Status of public schools
 15. Every public school is a juristic person, with legal capacity to perform its functions in terms of this Act.
 #### Governance and professional management of public schools
 16. (1) Subject to this Act, the governance of every public school is vested in its governing body. (2) A governing body stands in a position of trust towards the school. (3) Subject to this Act and any applicable provincial law, the professional management of a public school must be undertaken by the principal under the authority of the Head of Department.
 #### Governing body serving two or more schools
 
-(1) The Member of the Executive Council may determine that the
+17. (1) The Member of the Executive Council may determine that the
 
 [[END OF PAGE 8]]
 
@@ -325,7 +345,7 @@ Council.
 
 governance of two or more public schools must vest in a single governing body if it is in the best interests of education at the schools in question.
 
-- The Member of the Executive Council may not act under subsection (1) unless he or she has-
+(2) The Member of the Executive Council may not act under subsection (1) unless he or she has-
 
 (a) given notice in the Provincial Gazette of his or her intention so to act;
 
@@ -335,9 +355,9 @@ governance of two or more public schools must vest in a single governing body if
 
 #### Constitution of governing body
 
-(1) Subject to this Act and any applicable provincial law, the governing body of a public school must function in terms of a constitution which complies with minimum requirements determined by the Member of the Executive Council by notice in the Provincial Gazette.
+18. (1) Subject to this Act and any applicable provincial law, the governing body of a public school must function in terms of a constitution which complies with minimum requirements determined by the Member of the Executive Council by notice in the Provincial Gazette.
 
-- A constitution contemplated in subsection (1) must provide for-
+(2) A constitution contemplated in subsection (1) must provide for-
 
 (a) a meeting of the governing body at least once every school term;
 
@@ -349,21 +369,21 @@ governance of two or more public schools must vest in a single governing body if
 
 (e) rendering a report on its activities to parents, learners, educators and other staff of the school at least once a year.
 
-- The governing body must submit a copy of its constitution to the Head of Department within 90 days of its election.
+(3) The governing body must submit a copy of its constitution to the Head of Department within 90 days of its election.
 
 #### Enhancement of capacity of governing bodies
 
-(1) Out of funds appropriated for this purpose by the provincial legislature, the Head of Department must establish a programme to-
+19. (1) Out of funds appropriated for this purpose by the provincial legislature, the Head of Department must establish a programme to-
 
 (a) provide introductory training for newly elected governing bodies to enable them to perform their functions; and
 
 (b) provide continuing training to governing bodies to promote the effective performance of their functions or to enable them to assume additional functions.
 
-- The Head of Department must ensure that principals and other officers of the education department render all necessary assistance to governing bodies in the performance of their functions in terms of this Act.
+(2) The Head of Department must ensure that principals and other officers of the education department render all necessary assistance to governing bodies in the performance of their functions in terms of this Act.
 
 #### Functions of all governing bodies
 
-(1) Subject to this Act, the governing body of a public school must-
+20. (1) Subject to this Act, the governing body of a public school must-
 
 (a) promote the best interests of the school and strive to ensure its development through the provision of quality education for all learners at the school;
 
@@ -399,13 +419,13 @@ No.  66 of 1995);
 
 (m) discharge other functions consistent with this Act as determined by the Minister by notice in the Government Gazette, or by the Member of the Executive Council by notice in the Provincial Gazette.
 
-- The governing body may allow the reasonable use of the facilities of the school for community, social and school fund-raising purposes, subject to such reasonable and equitable conditions as the governing body may determine, which may include the charging of a fee or tariff which accrues to the school.
+(2) The governing body may allow the reasonable use of the facilities of the school for community, social and school fund-raising purposes, subject to such reasonable and equitable conditions as the governing body may determine, which may include the charging of a fee or tariff which accrues to the school.
 
-- The governing body may join a voluntary association representing governing bodies of public schools.
+(3) The governing body may join a voluntary association representing governing bodies of public schools.
 
 #### Allocated functions of governing bodies
 
-(1) Subject to this Act, a governing body may apply to the Head of Department in writing to be allocated any of the following functions:
+21. (1) Subject to this Act, a governing body may apply to the Head of Department in writing to be allocated any of the following functions:
 
 (a) To maintain and improve the school's property, and buildings and grounds occupied by the school, including school hostels, if applicable;
 
@@ -423,15 +443,15 @@ No.  66 of 1995);
 
 law.
 
-- The Head of Department may refuse an application contemplated in subsection (1) only if the governing body concerned does not have the capacity to perform such function effectively.
+(2) The Head of Department may refuse an application contemplated in subsection (1) only if the governing body concerned does not have the capacity to perform such function effectively.
 
-- The Head of Department may approve such application unconditionally or subject to conditions.
+(3) The Head of Department may approve such application unconditionally or subject to conditions.
 
-- The decision of the Head of Department on such application must be conveyed in writing to the governing body concerned, giving reasons.
+(4) The decision of the Head of Department on such application must be conveyed in writing to the governing body concerned, giving reasons.
 
-- Any person aggrieved by a decision of the Head of Department in terms of this section may appeal to the Member of the Executive Council.
+(5) Any person aggrieved by a decision of the Head of Department in terms of this section may appeal to the Member of the Executive Council.
 
-- The Member of the Executive Council may, by notice in the Provincial Gazette, determine that some governing bodies may exercise one or more functions without making an application contemplated in subsection (1), if-
+(6) The Member of the Executive Council may, by notice in the Provincial Gazette, determine that some governing bodies may exercise one or more functions without making an application contemplated in subsection (1), if-
 
 (a) he or she is satisfied that the governing bodies concerned have the capacity to perform such function effectively; and
 
@@ -439,9 +459,9 @@ law.
 
 #### Withdrawal of functions from governing bodies
 
-(1) The Head of Department May, on reasonable grounds, withdraw a function of a governing body.
+22. (1) The Head of Department may, on reasonable grounds, withdraw a function of a governing body.
 
-- The Head of Department may not take action under subsection (1) unless he or she has-
+(2) The Head of Department may not take action under subsection (1) unless he or she has-
 
 (a) informed the governing body of his or her intention so to act and the reasons therefor;
 
@@ -449,7 +469,7 @@ law.
 
 (c) given due consideration to any such representations received.
 
-- In cases of urgency, the Head of Department may act in terms of subsection (1) without prior communication to such governing body, if the Head of Department thereafter-
+(3) In cases of urgency, the Head of Department may act in terms of subsection (1) without prior communication to such governing body, if the Head of Department thereafter-
 
 (a) furnishes the governing body with reasons for his or her actions;
 
@@ -457,13 +477,13 @@ law.
 
 (c) duly considers any such representations received.
 
-- The Head of Department may for sufficient reasons reverse or suspend his or her action in terms of subsection (3).
+(4) The Head of Department may for sufficient reasons reverse or suspend his or her action in terms of subsection (3).
 
-- Any person aggrieved by a decision of the Head of Department in terms of this section may appeal against the decision to the Member of the Executive Council.
+(5) Any person aggrieved by a decision of the Head of Department in terms of this section may appeal against the decision to the Member of the Executive Council.
 
 #### Membership of governing body of ordinary public school
 
-(1) Subject to this Act, the membership of the governing body of an ordinary public school comprises-
+23. (1) Subject to this Act, the membership of the governing body of an ordinary public school comprises-
 
 (a) elected members;
 
@@ -475,7 +495,7 @@ law.
 
 (c) co-opted members.
 
-- Elected members of the governing body shall comprise a member or members of each of the following categories:
+(2) Elected members of the governing body shall comprise a member or members of each of the following categories:
 
 (a) Parents of learners at the school;
 
@@ -485,23 +505,23 @@ law.
 
 (d) learners in the eighth grade or higher at the school.
 
-- A parent who is employed at the school may not represent parents on the governing body in terms of subsection (2)(a).
+(3) A parent who is employed at the school may not represent parents on the governing body in terms of subsection (2)(a).
 
-- The representative council of learners referred to in section II (1) must elect the learner or learners referred to in subsection (2)(d).
+(4) The representative council of learners referred to in section 11(1) must elect the learner or learners referred to in subsection (2)(d).
 
-- The governing body of an ordinary public school which provides education to learners with special needs must, where practically possible, co-opt a person or persons with expertise regarding the special education needs of such learners.
+(5) The governing body of an ordinary public school which provides education to learners with special needs must, where practically possible, co-opt a person or persons with expertise regarding the special education needs of such learners.
 
-- A governing body may co-opt a member or members of the community to assist it in discharging its functions.
+(6) A governing body may co-opt a member or members of the community to assist it in discharging its functions.
 
-- The governing body of a public school contemplated in section 14 may co-opt the owner of the property occupied by the school or the nominated representative of such owner.
+(7) The governing body of a public school contemplated in section 14 may co-opt the owner of the property occupied by the school or the nominated representative of such owner.
 
-- Co-opted members do not have voting rights on the governing body.
+(8) Co-opted members do not have voting rights on the governing body.
 
-- The number of parent members must comprise one more than the combined total of other members of a governing body who have voting rights.
+(9) The number of parent members must comprise one more than the combined total of other members of a governing body who have voting rights.
 
 #### Membership of governing body of public school for learners with special education needs
 
-(1) The following categories of persons must be represented on a governing body of a public school for learners with special education needs, in each case by a member or members of the respective category:
+24. (1) The following categories of persons must be represented on a governing body of a public school for learners with special education needs, in each case by a member or members of the respective category:
 
 (a) Parents of learners at the school, if reasonably practicable;
 
@@ -525,7 +545,7 @@ law.
 
 (i) experts in appropriate fields of special needs education.
 
-- Subject to this Act, the Member of the Executive Council must, by notice in the Provincial Gazette, determine the number of members in each category referred to in subsection (1) and the manner of election or appointment of such members at every public school for learners with special education needs within his or her province.
+(2) Subject to this Act, the Member of the Executive Council must, by notice in the Provincial Gazette, determine the number of members in each category referred to in subsection (1) and the manner of election or appointment of such members at every public school for learners with special education needs within his or her province.
 
 (3) A notice contemplated in subsection (2) must give interested parties an opportunity to make written submissions within a period of not less than 30 days.
 
@@ -533,25 +553,25 @@ law.
 
 #### Failure by governing body to perform functions
 
-(1) If a governing body has ceased to perform its functions, the Head of Department must appoint sufficient persons to perform those functions for a period not exceeding three months.
+25. (1) If a governing body has ceased to perform its functions, the Head of Department must appoint sufficient persons to perform those functions for a period not exceeding three months.
 
-- The Head of Department may extend the period referred to in subsection (1), by further periods not exceeding three months each, but the total period may not exceed one year.
+(2) The Head of Department may extend the period referred to in subsection (1), by further periods not exceeding three months each, but the total period may not exceed one year.
 
-- The Head of Department must ensure that a governing body is elected in terms of this Act within a year after the appointment of persons contemplated in subsection (1).
+(3) The Head of Department must ensure that a governing body is elected in terms of this Act within a year after the appointment of persons contemplated in subsection (1).
 
 #### Recusal by members of governing body
 
-- A member of a governing body must withdraw from a meeting of the governing body for the duration of the discussion and decision-making on any issue in which the member has a personal interest.
+26. A member of a governing body must withdraw from a meeting of the governing body for the duration of the discussion and decision-making on any issue in which the member has a personal interest.
 
 #### Reimbursement of members of governing body
 
-(1) Necessary expenses incurred by a member of a governing body in the performance of his or her duties may be reimbursed by the governing body.
+27. (1) Necessary expenses incurred by a member of a governing body in the performance of his or her duties may be reimbursed by the governing body.
 
-- No member of a governing body may be remunerated in any way for the performance of his or her duties.
+(2) No member of a governing body may be remunerated in any way for the performance of his or her duties.
 
 #### Election of members of governing body
 
-- Subject to this Act and any applicable provincial law, the Member of the Executive Council must, by notice in the Provincial Gazette, determine-
+28. Subject to this Act and any applicable provincial law, the Member of the Executive Council must, by notice in the Provincial Gazette, determine-
 
 (a) the term of office of members and office-bearers of a governing body;
 
@@ -569,49 +589,49 @@ law.
 
 [[START OF PAGE 14]]
 
-- in section 23(2), but such formula or formulae must provide reasonable representation for each category and must be capable of application to the different sizes and circumstances of public schools; and
+in section 23(2), but such formula or formulae must provide reasonable representation for each category and must be capable of application to the different sizes and circumstances of public schools; and
 
 (g) any other matters necessary for the election, appointment or assumption of office of members of the governing body.
 
 #### Office-bearers of governing bodies
 
-(1) A governing body must, from amongst its members, elect office-bearers, who must include at least a chairperson, a treasurer and a secretary.
+29. (1) A governing body must, from amongst its members, elect office-bearers, who must include at least a chairperson, a treasurer and a secretary.
 
-- Only a parent member of a governing body who is not employed at the public school may serve as the chairperson of the governing body.
+(2) Only a parent member of a governing body who is not employed at the public school may serve as the chairperson of the governing body.
 
 #### Committees of governing body
 
-(1) A governing body may-
+30. (1) A governing body may-
 
 (a) establish committees, including an executive committee; and
 
 (b) appoint persons who are not members of the governing body to such committees on grounds of expertise, but a member of the governing body must chair each committee.
 
-- A governing body of an ordinary public school which provides education to learners with special education needs must establish a committee on special education needs.
+(2) A governing body of an ordinary public school which provides education to learners with special education needs must establish a committee on special education needs.
 
 #### Term of office of members and office-bearers of governing bodies
 
-(1) The term of office of a member of a governing body other than a learner may not exceed three years.
+31. (1) The term of office of a member of a governing body other than a learner may not exceed three years.
 
-- The term of office of a member of a governing body who is a learner may not exceed one year.
+(2) The term of office of a member of a governing body who is a learner may not exceed one year.
 
-- The term of office of an office-bearer of a governing body may not exceed one year.
+(3) The term of office of an office-bearer of a governing body may not exceed one year.
 
-- A member or office-bearer of a governing body may be re-elected or co-opted, as the case may be, after the expiry of his or her term of office.
+(4) A member or office-bearer of a governing body may be re-elected or co-opted, as the case may be, after the expiry of his or her term of office.
 
 #### Status of minors on governing bodies of public schools
 
-(1) A member of a governing body who is a minor may not contract on behalf of a public school.
+32. (1) A member of a governing body who is a minor may not contract on behalf of a public school.
 
-- A member of a governing body who is a minor may not vote on resolutions of a governing body which impose liabilities on third parties or on the school.
+(2) A member of a governing body who is a minor may not vote on resolutions of a governing body which impose liabilities on third parties or on the school.
 
-- A member of a governing body who is a minor incurs no personal liability for any consequence of his or her membership of the governing body.
+(3) A member of a governing body who is a minor incurs no personal liability for any consequence of his or her membership of the governing body.
 
 #### Closure of public schools
 
-(1) The Member of the Executive Council may, by notice in the Provincial Gazette, close a public school.
+33. (1) The Member of the Executive Council may, by notice in the Provincial Gazette, close a public school.
 
-- The Member of the Executive Council may not act under subsection (1) unless he or she has-
+(2) The Member of the Executive Council may not act under subsection (1) unless he or she has-
 
 [[END OF PAGE 14]]
 
@@ -625,7 +645,7 @@ law.
 
 (d) given due consideration to any such representations received.
 
-- If a public school is closed in terms of subsection (1) all assets and liabilities of such school must, subject to the conditions of any donation, bequest or trust contemplated in section 37(4), devolve on the State unless otherwise agreed between the Member of the Executive Council and the governing body of the school.
+(3) If a public school is closed in terms of subsection (1) all assets and liabilities of such school must, subject to the conditions of any donation, bequest or trust contemplated in section 37(4), devolve on the State unless otherwise agreed between the Member of the Executive Council and the governing body of the school.
 
 ## CHAPTER 4
 
@@ -633,21 +653,21 @@ law.
 
 #### Responsibility of State
 
-(1) The State must fund public schools from public revenue on an equitable basis in order to ensure the proper exercise of the rights of learners to education and the redress of past inequalities in education provision.
+34. (1) The State must fund public schools from public revenue on an equitable basis in order to ensure the proper exercise of the rights of learners to education and the redress of past inequalities in education provision.
 
 (2) The State must, on an annual basis, provide sufficient information to public schools regarding the funding referred to in subsection (1) to enable public schools to prepare their budgets for the next financial year.
 
 #### Norms and standards for funding of public schools
 
-- Subject to the Constitution and this Act, the Minister must determine norms and minimum standards for the funding of public schools after consultation with the Council of Education Ministers, the Financial and Fiscal Commission and the Minister of Finance.
+35. Subject to the Constitution and this Act, the Minister must determine norms and minimum standards for the funding of public schools after consultation with the Council of Education Ministers, the Financial and Fiscal Commission and the Minister of Finance.
 
 #### Responsibility of governing body
 
-- A governing body of a public school must take all reasonable measures within its means to supplement the resources supplied by the State in order to improve the quality of education provided by the school to all learners at the school.
+36. A governing body of a public school must take all reasonable measures within its means to supplement the resources supplied by the State in order to improve the quality of education provided by the school to all learners at the school.
 
 #### School funds and assets of public schools
 
-(1) The governing body of a public school must establish a school fund and administer it in accordance with directions issued by the Head of Department.
+37. (1) The governing body of a public school must establish a school fund and administer it in accordance with directions issued by the Head of Department.
 
 (2) Subject to subsection (3), all money received by a public school including school fees and voluntary contributions must be paid into the school fund.
 
@@ -659,9 +679,9 @@ law.
 
 [[START OF PAGE 16]]
 
-- All assets acquired by a public school on or after the commencement of this Act are the property of the school.
+(5) All assets acquired by a public school on or after the commencement of this Act are the property of the school.
 
-- The school fund, all proceeds thereof and any other assets of the public school must be used only for-
+(6) The school fund, all proceeds thereof and any other assets of the public school must be used only for-
 
 (a) educational purposes, at or in connection with such school;
 
@@ -673,31 +693,31 @@ law.
 
 #### Annual budget of public school
 
-(1) A governing body of a public school must prepare a budget each year, according to guidelines determined by the Member of the Executive Council, which shows the estimated income and expenditure of the school for the following financial year.
+38. (1) A governing body of a public school must prepare a budget each year, according to guidelines determined by the Member of the Executive Council, which shows the estimated income and expenditure of the school for the following financial year.
 
-- Before a budget referred to in subsection (1) is approved by the governing body, it must be presented to a general meeting of parents convened on at least 30 days' notice, for consideration and approval by a majority of parents present and voting.
+(2) Before a budget referred to in subsection (1) is approved by the governing body, it must be presented to a general meeting of parents convened on at least 30 days' notice, for consideration and approval by a majority of parents present and voting.
 
 #### School fees at public schools
 
-(1) Subject to this Act, school fees may be determined and charged at a public school only if a resolution to do so has been adopted by a majority of parents attending the meeting referred to in section 38(2).
+39. (1) Subject to this Act, school fees may be determined and charged at a public school only if a resolution to do so has been adopted by a majority of parents attending the meeting referred to in section 38(2).
 
-- A resolution contemplated in subsection (1) must provide for-
+(2) A resolution contemplated in subsection (1) must provide for-
 
 (a) the amount of fees to be charged; and
 
 (b) equitable criteria and procedures for the total, partial or conditional exemption of parents who are unable to pay school fees.
 
-- The governing body must implement a resolution adopted at the meeting contemplated in subsection (1).
+(3) The governing body must implement a resolution adopted at the meeting contemplated in subsection (1).
 
-- The Minister must, after consultation with the Council of Education Ministers and the Minister of Finance, make regulations regarding the equitable criteria and procedures referred to in subsection (2)(b).
+(4) The Minister must, after consultation with the Council of Education Ministers and the Minister of Finance, make regulations regarding the equitable criteria and procedures referred to in subsection (2)(b).
 
 #### Parent's liability for payment of school fees
 
-(1) A parent is liable to pay the school fees determined in terms of section 39 unless or to the extent that he or she has been exempted from payment in terms of this Act.
+40. (1) A parent is liable to pay the school fees determined in terms of section 39 unless or to the extent that he or she has been exempted from payment in terms of this Act.
 
-- A parent may appeal to the Head of Department against a decision of a governing body regarding the exemption of such parent from payment of school fees.
+(2) A parent may appeal to the Head of Department against a decision of a governing body regarding the exemption of such parent from payment of school fees.
 
-- In deciding an appeal referred to in subsection (2), the Head of Department must follow due process which safeguards the interests of the parent and the governing body.
+(3) In deciding an appeal referred to in subsection (2), the Head of Department must follow due process which safeguards the interests of the parent and the governing body.
 
 #### Enforcement of payment of school fees
 
@@ -705,11 +725,11 @@ law.
 
 [[START OF PAGE 17]]
 
-- The governing body of a public school may by process of law enforce the payment of school fees by parents who are liable to pay in terms of section 40.
+41. The governing body of a public school may by process of law enforce the payment of school fees by parents who are liable to pay in terms of section 40.
 
 #### Financial records and statements of public schools
 
-- The governing body of a public school must-
+42. The governing body of a public school must-
 
 (a) keep records of funds received and spent by the public school and of its assets, liabilities and financial transactions; and
 
@@ -719,17 +739,17 @@ Council.
 
 #### Audit or examination of financial records and statements
 
-(1) The governing body of a public school must appoint a person registered as an accountant and auditor in terms of the Public Accountants and Auditors Act, 1991 (Act No.  80 of 1991), to audit the records and financial statements referred to in section 42.
+43. (1) The governing body of a public school must appoint a person registered as an accountant and auditor in terms of the Public Accountants and Auditors Act, 1991 (Act No. 80 of 1991), to audit the records and financial statements referred to in section 42.
 
-- If the audit referred to in subsection (1) is not reasonably practicable, the governing body of a public school must appoint a person to examine and report on the records and financial statements referred to in section 42, who-
+(2) If the audit referred to in subsection (1) is not reasonably practicable, the governing body of a public school must appoint a person to examine and report on the records and financial statements referred to in section 42, who-
 
 (a) is qualified to perform the duties of an accounting officer in terms of section 60 of the Close Corporations Act, 1984 (Act No.  69 of 1984); or
 
 (b) is approved by the Member of the Executive Council for this purpose.
 
-- No person who has a financial interest in the affairs of the public school may be appointed under this section.
+(3) No person who has a financial interest in the affairs of the public school may be appointed under this section.
 
-- If the Member of the Executive Council deems it necessary, he or she may request the Auditor-General to undertake an audit of the records and financial statements of a public school.
+(4) If the Member of the Executive Council deems it necessary, he or she may request the Auditor-General to undertake an audit of the records and financial statements of a public school.
 
 (5) A governing body must submit to the Head of Department, within six months after the end of each financial year, a copy of the annual financial statements, audited or examined in terms of this section.
 
@@ -737,7 +757,7 @@ Council.
 
 #### Financial year of public school
 
-- The financial year of a public school commences on the first day of January and ends on the last day of December of each year.
+44. The financial year of a public school commences on the first day of January and ends on the last day of December of each year.
 
 ## CHAPTER 5
 
@@ -753,11 +773,11 @@ Council.
 
 #### Registration of independent school
 
-(1) No person may establish or maintain an independent school unless it is registered by the Head of Department.
+46. (1) No person may establish or maintain an independent school unless it is registered by the Head of Department.
 
-- The Member of the Executive Council must, by notice in the Provincial Gazette, determine the grounds on which the registration of an independent school may be granted or withdrawn by the Head of Department.
+(2) The Member of the Executive Council must, by notice in the Provincial Gazette, determine the grounds on which the registration of an independent school may be granted or withdrawn by the Head of Department.
 
-- A Head of Department must register an independent school if he or she is satisfied that-
+(3) A Head of Department must register an independent school if he or she is satisfied that-
 
 (a) the standards to be maintained by such school will not be inferior to the standards in comparable public schools;
 
@@ -765,11 +785,11 @@ Council.
 
 (c) the school complies with the grounds for registration contemplated in subsection (2).
 
-- Any person who contravenes subsection (1) is guilty of an offence and upon conviction liable to a fine or imprisonment for a period of three months.
+(4) Any person who contravenes subsection (1) is guilty of an offence and upon conviction liable to a fine or imprisonment for a period of three months.
 
 #### Withdrawal of registration of independent school
 
-(1) No withdrawal of the registration of an independent school is valid unless-
+47. (1) No withdrawal of the registration of an independent school is valid unless-
 
 (a) the owner of such independent school has been furnished by the Head of Department with a notice of intention to withdraw the registration, stating the reasons why such withdrawal is contemplated;
 
@@ -777,17 +797,17 @@ Council.
 
 (c) any such representations received have been duly considered.
 
-- The owner of an independent school may appeal to the Member of the Executive Council against the withdrawal of the registration of such independent school.
+(2) The owner of an independent school may appeal to the Member of the Executive Council against the withdrawal of the registration of such independent school.
 
 #### Subsidies to registered independent schools
 
-(1) The Minister may, by notice in the Government Gazette, determine norms and minimum standards for the granting of subsidies to independent schools after consultation with the Council of Education Ministers and the Financial and Fiscal Commission and with the concurrence of the Minister of Finance.
+48. (1) The Minister may, by notice in the Government Gazette, determine norms and minimum standards for the granting of subsidies to independent schools after consultation with the Council of Education Ministers and the Financial and Fiscal Commission and with the concurrence of the Minister of Finance.
 
-- The Member of the Executive Council may, out of funds appropriated by the provincial legislature for that purpose, grant a subsidy to an independent school.
+(2) The Member of the Executive Council may, out of funds appropriated by the provincial legislature for that purpose, grant a subsidy to an independent school.
 
-- If a condition subject to which a subsidy was granted has not been complied with, the Head of Department may terminate or reduce the subsidy from a date determined by him or her.
+(3) If a condition subject to which a subsidy was granted has not been complied with, the Head of Department may terminate or reduce the subsidy from a date determined by him or her.
 
-- The Head of Department may not terminate or reduce a subsidy under subsection (3) unless-
+(4) The Head of Department may not terminate or reduce a subsidy under subsection (3) unless-
 
 (a) the owner of such independent school has been furnished with a notice
 
@@ -795,23 +815,23 @@ Council.
 
 [[START OF PAGE 19]]
 
-- of intention to terminate or reduce the subsidy and the reasons therefor;
+of intention to terminate or reduce the subsidy and the reasons therefor;
 
 (b) such owner has been granted an opportunity to make written representations as to why the subsidy should not be terminated or reduced; and
 
 (c) any such representations received have been duly considered.
 
-- The owner of an independent school may appeal to the Member of the Executive Council against the termination or reduction of a subsidy to such independent school.
+(5) The owner of an independent school may appeal to the Member of the Executive Council against the termination or reduction of a subsidy to such independent school.
 
 #### Declaration of independent school as public school
 
-(1) The Member of the Executive Council may, with the concurrence of the Member of the Executive Council responsible for finance, enter into an agreement with the owner of an independent school in terms whereof such independent school is declared to be a public school.
+49. (1) The Member of the Executive Council may, with the concurrence of the Member of the Executive Council responsible for finance, enter into an agreement with the owner of an independent school in terms whereof such independent school is declared to be a public school.
 
-- Notice of the change of status contemplated in subsection (1) must be published in the Provincial Gazette.
+(2) Notice of the change of status contemplated in subsection (1) must be published in the Provincial Gazette.
 
 #### Duties of Member of Executive Council relating to independent schools
 
-(1) The Member of the Executive Council must, by notice in the Provincial Gazette, determine requirements for-
+50. (1) The Member of the Executive Council must, by notice in the Provincial Gazette, determine requirements for-
 
 (a) the admission of learners of an independent school to examinations conducted by or under the supervision of the education department;
 
@@ -821,15 +841,15 @@ Council.
 
 (d) any other matter relating to an independent school which must or may be prescribed in terms of this Act.
 
-- Different requirements may be made under subsection (1) in respect of different independent schools.
+(2) Different requirements may be made under subsection (1) in respect of different independent schools.
 
-- The Member of the Executive Council must allow the affected parties a reasonable period to comment on any requirement he or she intends to determine under subsection (1).
+(3) The Member of the Executive Council must allow the affected parties a reasonable period to comment on any requirement he or she intends to determine under subsection (1).
 
 #### Registration of learner for education at home
 
-(1) A parent may apply to the Head of Department for the registration of a learner to receive education at the learner's home.
+51. (1) A parent may apply to the Head of Department for the registration of a learner to receive education at the learner's home.
 
-- The Head of Department must register a learner as contemplated in subsection (1) if he or she is satisfied that-
+(2) The Head of Department must register a learner as contemplated in subsection (1) if he or she is satisfied that-
 
 (a) the registration is in the interests of the learner;
 
@@ -843,9 +863,19 @@ Council.
 
 [[START OF PAGE 20]]
 
-(c) the parent will comply with any other reasonable conditions set by the Head of Department. (3) The Head of Department may, subject to subsection (4), withdraw the registration referred to in subsection (1). (4) The Head of Department may not withdraw the registration until he or she(a) has informed the parent of his or her intention so to act and the reasons therefor; (b) has granted the parent an opportunity to make representations to him or her in relation to such action; and (c) has duly considered any such representations received. (5) A parent may appeal to the Member of the Executive Council against the
+(c) the parent will comply with any other reasonable conditions set by the Head of Department.
 
-- withdrawal of a registration or a refusal to register a learner in terms of this Act.
+(3) The Head of Department may, subject to subsection (4), withdraw the registration referred to in subsection (1).
+
+(4) The Head of Department may not withdraw the registration until he or she-
+
+(a) has informed the parent of his or her intention so to act and the reasons therefor;
+
+(b) has granted the parent an opportunity to make representations to him or her in relation to such action; and
+
+(c) has duly considered any such representations received.
+
+(5) A parent may appeal to the Member of the Executive Council against the withdrawal of a registration or a refusal to register a learner in terms of this Act.
 
 ## CHAPTER 6
 
@@ -856,9 +886,9 @@ Council.
 #### Transitional provisions relating to private schools
 53. A private school which was registered or deemed to have been registered under the provisions of a law regulating school education in the Republic of South Africa and which existed immediately prior to the commencement of this Act, is deemed to be an independent school.
 #### Transitional provisions relating to governing bodies
-54. (1) The Minister must, after consultation with the Member of the Executive Council and by notice in the Government Gazette, determine dates(a) by which the election of members of governing bodies at all public
+54. (1) The Minister must, after consultation with the Member of the Executive Council and by notice in the Government Gazette, determine dates-
 
-- schools in a province must be finalised in terms of this Act; and
+(a) by which the election of members of governing bodies at all public schools in a province must be finalised in terms of this Act; and
 
 [[END OF PAGE 20]]
 
@@ -866,27 +896,27 @@ Council.
 
 (b) from which the governing bodies referred to in subsection (1)(a) must function in terms of this Act.
 
-- Different dates may be determined in terms of subsection (1)(b) in respect of governing bodies in the different provinces.
+(2) Different dates may be determined in terms of subsection (1)(b) in respect of governing bodies in the different provinces.
 
-- Any governing body, management council or similar authority of a public school, which existed immediately prior to the commencement of this Act, continues to function until the day before the date on which the relevant governing body is elected and must perform all the functions it performed prior to the commencement of this Act which a governing body can lawfully perform in terms of this Act.
+(3) Any governing body, management council or similar authority of a public school, which existed immediately prior to the commencement of this Act, continues to function until the day before the date on which the relevant governing body is elected and must perform all the functions it performed prior to the commencement of this Act which a governing body can lawfully perform in terms of this Act.
 
-(4) Until a governing body begins to function in terms of subsection 1(b), such governing body of a school deemed to be a public school in terms of section 52(1) must perform the functions lawfully performed by its predecessor which are capable of being performed by a governing body in terms of this Act.
+(4) Until a governing body begins to function in terms of subsection (1)(b), such governing body of a school deemed to be a public school in terms of section 52(1) must perform the functions lawfully performed by its predecessor which are capable of being performed by a governing body in terms of this Act.
 
 #### Transitional provisions relating to immovable property of certain schools
 
-(1) The immovable property of a school which was declared to be a state-aided school under section 29(2A) of the Education Affairs Act, 1988 (House of Assembly) (Act No. 70 of 1988), devolves upon the State on a date determined by the Minister by notice in the Government Gazette.
+55. (1) The immovable property of a school which was declared to be a state-aided school under section 29(2A) of the Education Affairs Act, 1988 (House of Assembly) (Act No. 70 of 1988), devolves upon the State on a date determined by the Minister by notice in the Government Gazette.
 
-- The Minister may determine different dates in respect of different schools under subsection (1).
+(2) The Minister may determine different dates in respect of different schools under subsection (1).
 
-- Any notice determining a date or dates referred to in subsection (1) or (2) must grant all interested parties a period of not less than 30 days in which to make written submissions.
+(3) Any notice determining a date or dates referred to in subsection (1) or (2) must grant all interested parties a period of not less than 30 days in which to make written submissions.
 
-- The Minister must consider all such submissions received, and thereafter may alter any notice referred to in subsection (1).
+(4) The Minister must consider all such submissions received, and thereafter may alter any notice referred to in subsection (1).
 
-- Any transfer duty, stamp duty, other fees or costs payable as a result of the transfer of the immovable property contemplated in subsection (1) must be paid in full or in part from funds appropriated by Parliament for that purpose.
+(5) Any transfer duty, stamp duty, other fees or costs payable as a result of the transfer of the immovable property contemplated in subsection (1) must be paid in full or in part from funds appropriated by Parliament for that purpose.
 
-- The Minister may, with the concurrence of the Minister of Finance, direct that no transfer duty, stamp duty, other fees or costs contemplated in subsection (5) be paid in respect of a particular transfer under this section.
+(6) The Minister may, with the concurrence of the Minister of Finance, direct that no transfer duty, stamp duty, other fees or costs contemplated in subsection (5) be paid in respect of a particular transfer under this section.
 
-- The rights of third parties with claims against the school in respect of the immovable property affected by the transfer contemplated in this section are not extinguished by the transfer and-
+(7) The rights of third parties with claims against the school in respect of the immovable property affected by the transfer contemplated in this section are not extinguished by the transfer and-
 
 (a) a third party acquires no right of execution against the immovable property as a result of such transfer alone;
 
@@ -894,7 +924,7 @@ Council.
 
 (c) the State indemnifies such a third party in its claims against the school which were secured by the immovable property, but the third party does not acquire a greater right against the State than that which it had against the school prior to the transfer.
 
-- The fact that compensation for any land and real rights in or over land expropriated in terms of subsection (1) has not been finalised or paid, does not impede the transfer of such land and real rights in or over land to the State.
+(8) The fact that compensation for any land and real rights in or over land expropriated in terms of subsection (1) has not been finalised or paid, does not impede the transfer of such land and real rights in or over land to the State.
 
 [[END OF PAGE 21]]
 
@@ -906,11 +936,11 @@ Council.
 
 #### Transitional provisions relating to public schools on private property
 
-- If an agreement contemplated in section 14 does not exist at the commencement of this Act in respect of a school, standing on private property and which is deemed to be a public school in terms of section 52(1), the Member of the Executive Council must take reasonable measures to conclude such an agreement within six months of the commencement of this Act.
+56. If an agreement contemplated in section 14 does not exist at the commencement of this Act in respect of a school, standing on private property and which is deemed to be a public school in terms of section 52(1), the Member of the Executive Council must take reasonable measures to conclude such an agreement within six months of the commencement of this Act.
 
 #### Transitional provisions relating to private property owned by religious organisation
 
-- If the owner of the private property referred to in section 56 is a religious organisation, such owner may require that the agreement contemplated in section 14 must recognise, in an appropriate manner consistent with this Act, the distinctive religious character of the school.
+57. If the owner of the private property referred to in section 56 is a religious organisation, such owner may require that the agreement contemplated in section 14 must recognise, in an appropriate manner consistent with this Act, the distinctive religious character of the school.
 
 ## CHAPTER 7
 
@@ -918,9 +948,21 @@ Council.
 
 #### Expropriation
 
-(1) The Member of the Executive Council may, if it is in the public
+58. (1) The Member of the Executive Council may, if it is in the public interest to do so, expropriate land or a real right in or over land for any purpose relating to school education in a province.
 
-interest to do so, expropriate land or a real right in or over land for any purpose relating to school education in a province. (2) The Member of the Executive Council must give notice in the Provincial Gazette of his or her intention to expropriate in terms of subsection (1). (3) A notice contemplated in subsection (2) must(a) identify the land or any real right in or over the land; (b) give interested parties an opportunity to make written submissions regarding the expropriation within a period of not less than 30 days; and (c) invite any person claiming compensation as a result of the expropriation to enter into negotiations with the Member of the Executive Council in that regard, and draw attention to the provisions of subsection (5). (4) The Member of the Executive Council may, after considering all such written submissions, expropriate the land or any real right in or over the land referred to in subsection (3) by notice in the Provincial Gazette. (5) Any expropriation contemplated in subsection (4) takes effect immediately even though compensation payable in respect of such land or real right in or over such land has not been finally determined or paid.
+(2) The Member of the Executive Council must give notice in the Provincial Gazette of his or her intention to expropriate in terms of subsection (1).
+
+(3) A notice contemplated in subsection (2) must-
+
+(a) identify the land or any real right in or over the land;
+
+(b) give interested parties an opportunity to make written submissions regarding the expropriation within a period of not less than 30 days; and
+
+(c) invite any person claiming compensation as a result of the expropriation to enter into negotiations with the Member of the Executive Council in that regard, and draw attention to the provisions of subsection (5).
+
+(4) The Member of the Executive Council may, after considering all such written submissions, expropriate the land or any real right in or over the land referred to in subsection (3) by notice in the Provincial Gazette.
+
+(5) Any expropriation contemplated in subsection (4) takes effect immediately even though compensation payable in respect of such land or real right in or over such land has not been finally determined or paid.
 
 (6) If the Member of the Executive Council and an owner of the land or real right fail to reach agreement regarding the payment of compensation, either party may refer the matter to a court for determination, or they may agree to refer the dispute to an arbitrator for arbitration.
 
@@ -942,23 +984,23 @@ interest to do so, expropriate land or a real right in or over land for any purp
 
 #### Duty of schools to provide information
 
-(1) A school must make information available for inspection by any person, insofar as such information is required for the exercise and protection of such person's rights.
+59. (1) A school must make information available for inspection by any person, insofar as such information is required for the exercise and protection of such person's rights.
 
 (2) Every school must provide such information about the school as is reasonably required by the Head of Department.
 
 #### Liability of State
 
-(1) The State is liable for any damage or loss caused as a result of any act or omission in connection with any educational activity conducted by a public school and for which such public school would have been liable but for the provisions of this section.
+60. (1) The State is liable for any damage or loss caused as a result of any act or omission in connection with any educational activity conducted by a public school and for which such public school would have been liable but for the provisions of this section.
 
 (2) The provisions of the State Liability Act, 1957 (Act No. 20 of 1957), apply to any claim under subsection (1).
 
 #### Regulations
 
-- The Minister may make regulations on any matter which must or may be prescribed by regulation under this Act and any matter which may be necessary or expedient to prescribe in order to achieve the objects of this Act.
+61. The Minister may make regulations on any matter which must or may be prescribed by regulation under this Act and any matter which may be necessary or expedient to prescribe in order to achieve the objects of this Act.
 
 #### Delegation of powers
 
-(1) The Member of the Executive Council may, subject to such conditions as he or she may determine, delegate any power conferred upon him or her by or under this Act to the Head of Department or an officer, except the power to publish a notice and the power to decide an appeal lodged with him or her in terms of this Act.
+62. (1) The Member of the Executive Council may, subject to such conditions as he or she may determine, delegate any power conferred upon him or her by or under this Act to the Head of Department or an officer, except the power to publish a notice and the power to decide an appeal lodged with him or her in terms of this Act.
 
 (2) The Head of Department may, subject to such conditions as he or she may determine, delegate to an officer any of his or her powers in terms of this Act or delegated to him or her in terms of subsection (1).
 
@@ -970,31 +1012,28 @@ interest to do so, expropriate land or a real right in or over land for any purp
 
 #### Repeal and amendment of laws
 
-(1) The laws listed in the first column of Schedule I are hereby repealed to the extent set out in the third column of that Schedule.
+63. (1) The laws listed in the first column of Schedule 1 are hereby repealed to the extent set out in the third column of that Schedule.
 
-- The Educators' Employment Act, 1994 (Proclamation No. 138 of 1994), is hereby amended to the extent set out in Schedule 2.
+(2) The Educators' Employment Act, 1994 (Proclamation No. 138 of 1994), is hereby amended to the extent set out in Schedule 2.
 
 #### Short title and commencement
 
-- This Act is the South African Schools Act, 1996, and comes into operation on a date fixed by the President by proclamation in the Government Gazette.
+64. This Act is the South African Schools Act, 1996, and comes into operation on a date fixed by the President by proclamation in the Government Gazette.
 
 ## SCHEDULE 1
 
-________________________________________________________________________________
-
-No. | and | year | of | |Extent of repeal | Act|Short title
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Act | No. | 47 | of | ___________________|____________________________________|_______________________ 1963 Act, 1963|Sections 1A, 8 to | |Coloured Persons Education
-Act | No. | 61 | of | 1965 |Sections 1B, 8 to 20, | |Indians Education Act, 1965
-Act | No. | 90 | of | 1979 11 | |Education and Training Act, 1979 |Sections 1A, 3, 4, | |to 29, 31, 32, 43 and | |44(1)(h)
-Act | No. | 104 | of | | | 1986|Private Schools Act (House of Assem-|Section 1A |bly), 1986 |
-Act | No. | 70 | of | 1988 | |Education Affairs Act (House of |Sections 3 and 65 and |Assembly), 1988 |Chapter 7
+No. and year of Act | Short title | Extent of repeal
+Act No. 47 of 1963 | Coloured Persons Education Act, 1963 | Sections 1A, 8 to 20, 26 and 28 to 31
+Act No. 61 of 1965 | Indians Education Act, 1965 | Sections 1B, 8 to 20, 26, 28, 29, 31 and 33(1)(g)
+Act No. 90 of 1979 | Education and Training Act, 1979 | Sections 1A, 3, 4, 11 to 29, 31, 32, 43 and 44(1)(h)
+Act No. 104 of 1986 | Private Schools Act (House of Assembly), 1986 | Section 1A
+Act No. 70 of 1988 | Education Affairs Act (House of Assembly), 1988 | Sections 3 and 65 and Chapter 7
 
 ## SCHEDULE 2
 
 ### (Amendment of Educators' Employment Act, 1994, by section 63)
 
-- Amendment of section I by-
+1. Amendment of section 1 by-
 
 (a) the insertion of the following definitions:
 
@@ -1010,7 +1049,7 @@ Act | No. | 70 | of | 1988 | |Education Affairs Act (House of |Sections 3 and 65
 
 [[START OF PAGE 25]]
 
-'public school' means a public school as defined in section I of the South African Schools Act, 1996;
+'public school' means a public school as defined in section 1 of the South African Schools Act, 1996;
 
 'state-aided college' means a college of education, technical college or other college which is wholly or partly funded by the State in respect of the remuneration and conditions of service of educators in posts on the establishment created in terms of section 3(1) and in regard to which the college is the employer of such educators;
 
@@ -1028,11 +1067,7 @@ Act | No. | 70 | of | 1988 | |Education Affairs Act (House of |Sections 3 and 65
 
 (c) for the purposes of section 5(1)(a) and (b) the Minister in respect of educators appointed to posts created in terms of sections 3(1) and (3); and
 
-(d) in the case of an unsubsidised post at a public school referred
-
-to
-
-- in section 3A, the body which employs the educator."; and
+(d) in the case of an unsubsidised post at a public school referred to in section 3A, the body which employs the educator."; and
 
 (c) the deletion of the following definitions, namely-
 
@@ -1046,11 +1081,11 @@ to
 
 "Education Labour Relations Act"
 
-- The substitution for section 3 of the following section:
+2. The substitution for section 3 of the following section:
 
 #### "Educator Establishment of educational institutions and Department
 
-(1) Notwithstanding anything to the contrary contained in any other law, but subject to this Act and the National Policy for General
+3. (1) Notwithstanding anything to the contrary contained in any other law, but subject to this Act and the National Policy for General
 
 [[END OF PAGE 25]]
 
@@ -1058,29 +1093,29 @@ to
 
 Education Affairs on the Salaries and Conditions of Employment of Educators Act, 1984 (Act No.  76 of 1984), the educator establishment at an a state educational institution in a province shall consist of the posts which the Member of the Executive Council creates and the educator establishment of the Department of Education shall consist of the posts which the Minister creates.
 
-- The employer A state-aided college may create unsubsidised posts additional to the educator establishment referred to in subsection (1).
+(2) The employer A state-aided college may create unsubsidised posts additional to the educator establishment referred to in subsection (1).
 
-- Educators may be appointed on a temporary basis additional to the establishment referred to in subsection (1) with the approval of the Member of the Executive Council or the Minister, as the case may be.
+(3) Educators may be appointed on a temporary basis additional to the establishment referred to in subsection (1) with the approval of the Member of the Executive Council or the Minister, as the case may be.
 
-- A post referred to in subsection (1) may be regraded, redesignated, converted or abolished by the Member of the Executive Council or the Minister, as the case may be.".
+(4) A post referred to in subsection (1) may be regraded, redesignated, converted or abolished by the Member of the Executive Council or the Minister, as the case may be.".
 
-- By the insertion after section 3 of the following section:
+3. By the insertion after section 3 of the following section:
 
 #### "Transitional arrangement
 
 - 3A. (1) The authority to create unsubsidised posts, to employ educators in such posts and all other matters incidental thereto which, in terms of section 3(2), vested in a state-aided school prior to the commencement of this Act, shall remain intact for such school until 31 December 1997, and thereafter such authority shall cease.
 
-- Contracts of employment of educators appointed to posts referred to in subsection (1) entered into after the commencement of this Act, shall not be valid after 31 December 1997.".
+(2) Contracts of employment of educators appointed to posts referred to in subsection (1) entered into after the commencement of this Act, shall not be valid after 31 December 1997.".
 
-- The substitution for section 4 of the following section:
+4. The substitution for section 4 of the following section:
 
 #### "Appointment and promotion of educators
 
-(1) The qualifications for appointment and promotion as an educator shall be prescribed determined by the Minister.
+4. (1) The qualifications for appointment and promotion as an educator shall be prescribed determined by the Minister.
 
-- Subject to the provisions of the Constitution, the Labour Relations Act, 1995 (Act No.  66 of 1995), and agreements reached in terms thereof Posts posts shall be filled by appointment, transfer or promotion and the power to fill a post created under section 3 shall, subject to the provisions Of this Act, vest in the employer, who shall exercise such power with regard to posts referred to in section 3(1) and (3) subject to the prior approval of the Member of the Executive Council or the Minister, as the case may be.
+(2) Subject to the provisions of the Constitution, the Labour Relations Act, 1995 (Act No.  66 of 1995), and agreements reached in terms thereof, Posts posts shall be filled by appointment, transfer or promotion and the power to fill a post created under section 3 shall, subject to the provisions of this Act, vest in the employer, who shall exercise such power with regard to posts referred to in section 3(1) and (3) subject to the prior approval of the Member of the Executive Council or the Minister, as the case may be.
 
-- The authority to fill a post referred to in section 3(1) and (3) at a public school in terms of subsection (2) is exercised on the recommendation of a public school, as represented by its governing body, and the employer may only deviate from such recommendation if:
+(3) The authority to fill a post referred to in section 3(1) and (3) at a public school in terms of subsection (2) is exercised on the recommendation of a public school, as represented by its governing body, and the employer may only deviate from such recommendation if:
 
 (a) the candidate does not have the required qualifications;
 
@@ -1092,21 +1127,21 @@ Education Affairs on the Salaries and Conditions of Employment of Educators Act,
 
 [[START OF PAGE 27]]
 
-(4) An educator may be appointed under subsection (2) this section-
+(3) (4) An educator may be appointed under subsection (2) this section-
 
 (a) in a permanent capacity, which shall include an appointment to the permanent relief staff, whether on probation or not; or
 
 (b) temporarily or on special contract, whether in a full-time or part-time capacity.
 
-(5) An appointment, transfer or promotion referred to in subsection (2) shall be effected in such manner and subject to such conditions as may be determined by the Minister.
+(4) (5) An appointment, transfer or promotion referred to in subsection (2) shall be effected in such manner and subject to such conditions as may be determined by the Minister.
 
-(6) An educator appointed in terms of any law repeated by this Act shall be deemed to have been appointed in terms of this Act to the appropriate post on the establishment of the state educational institution in question.
+(5) (6) An educator appointed in terms of any law repealed by this Act shall be deemed to have been appointed in terms of this Act to the appropriate post on the establishment of the state educational institution in question.
 
-- An educator appointed in terms of the Public Service Act, 1994, shall be deemed to have been appointed in terms of this Act.
+(7) An educator appointed in terms of the Public Service Act, 1994, shall be deemed to have been appointed in terms of this Act.
 
-- An educator appointed at a public school shall not, by virtue of an amendment of this Act by the South African Schools Act, 1996, be regarded as having changed employers.".
+(8) An educator appointed at a public school shall not, by virtue of an amendment of this Act by the South African Schools Act, 1996, be regarded as having changed employers.".
 
-- The amendment of section 5-
+5. The amendment of section 5-
 
 (a) by the substitution for subsection (1) of the following subsection:
 
@@ -1116,7 +1151,7 @@ Education Affairs on the Salaries and Conditions of Employment of Educators Act,
 
 (b) the other terms and conditions of employment and service benefits of educators referred to in paragraph (a) shall be
 
-- prescribed by the Minister; and
+prescribed by the Minister; and
 
 (b)c the salaries, salary scales, allowances and other terms and conditions of employment referred to in paragraphs paragraph (a) and (b) with a financial implication shall be determined by the Minister with the concurrence of the
 
@@ -1130,7 +1165,7 @@ responsible for finance at national level; and
 
 (b) by the deletion of subsection (2).
 
-- The substitution for section 6 of the following section:
+6. The substitution for section 6 of the following section:
 
 #### "Transfer and secondment of educators
 
@@ -1138,13 +1173,13 @@ responsible for finance at national level; and
 
 [[START OF PAGE 28]]
 
-(1) Subject to the provisions of this section, section 4(3) and applicable terms and conditions of employment, an educator employed in an office or departmental a public educational institution may be transferred from the post in which he or she serves to any other post-
+6. (1) Subject to the provisions of this section, section 4(3) and applicable terms and conditions of employment, an educator employed in an office or departmental a public educational institution may be transferred from the post in which he or she serves to any other post-
 
 (a) at the same departmental educational institution or office or at another departmental educational institution or office a public educational institution under the control of the same provincial education department by the Member of the Executive Council; or
 
 (b) at a departmental public educational institution or office in a different province or the Department at national level by the Member of the Executive Council, or the Minister, as the case may be, with the concurrence of the Member of the Executive Council of such other province or the Minister, as the case may be.
 
-- Subject to the provisions of this section, an educator employed at a state-aided educational institution college may with his or her consent, be transferred from the post in which he or she serves to any other post at the same or to any other state-aided educational institution college or public departmental educational institution-
+(2) Subject to the provisions of this section, an educator employed at a state-aided educational institution college may with his or her consent, be transferred from the post in which he or she serves to any other post at the same or to any other state-aided educational institution college or public departmental educational institution-
 
 (a) in the same province by the Member of the Executive Council, with the concurrence of the employer or employers concerned; or
 
@@ -1152,19 +1187,19 @@ responsible for finance at national level; and
 
 (c) at the Department at national level with the concurrence of the Minister.
 
-- Subject to the provisions of this section, an educator at a departmental public educational institution or office may, with his or her consent, be transferred from the post in which he or she serves to any other post at a state-aided educational institution college, and in such a case the provisions of subsection (2) must apply mutatis mutandis.
+(3) Subject to the provisions of this section, an educator at a departmental public educational institution or office may, with his or her consent, be transferred from the post in which he or she serves to any other post at a state-aided educational institution college, and in such a case the provisions of subsection (2) must apply mutatis mutandis.
 
-- A transfer provided for in subsections (1), (2) and (3) may be effected irrespective of whether the post to which an educator is transferred is of the same, a lower or higher grade:  Provided that-
+(4) A transfer provided for in subsections (1), (2) and (3) may be effected irrespective of whether the post to which an educator is transferred is of the same, a lower or higher grade:  Provided that-
 
 (a) the salary and salary scale of an educator shall not be lowered without his or her consent; and
 
 (b) paragraph (a) shall not apply in respect of an educator transferred in terms of section 19(1).
 
-- An educator who is employed in a permanent capacity at a state public educational institution in a post of a lower or higher grading than that appropriate to his or her rank shall, subject to section 4(4) (5) and (6) be transferred to a post with a grading appropriate to his or her rank as soon as a suitable vacancy arises.".
+(5) An educator who is employed in a permanent capacity at a state public educational institution in a post of a lower or higher grading than that appropriate to his or her rank shall, subject to section 4(4) (5) and (6), be transferred to a post with a grading appropriate to his or her rank as soon as a suitable vacancy arises.".
 
-- The amendment of section 7 by the substitution for the expression "state educational institution", wherever it occurs, of the expression "public educational institution".
+7. The amendment of section 7 by the substitution for the expression "state educational institution", wherever it occurs, of the expression "public educational institution".
 
-- The amendment of section 8 by the substitution for the expression "state
+8. The amendment of section 8 by the substitution for the expression "state
 
 [[END OF PAGE 28]]
 
@@ -1172,21 +1207,19 @@ responsible for finance at national level; and
 
 educational institution", wherever it occurs, of the expression "public educational institution".
 
-- The amendment of section 10 by the substitution for the expression "state educational institution", wherever it occurs, of the expression "public educational institution".
+9. The amendment of section 10 by the substitution for the expression "state educational institution", wherever it occurs, of the expression "public educational institution".
 
-- The amendment of section 11 by the substitution for subsection (3) of the following subsection:
+10. The amendment of section 11 by the substitution for subsection (3) of the following subsection:
 
 "(3) If the name of an educator is struck off a register of educators kept by a body recognised by the Minister in terms of the National Policy for General Education Affairs Act, 1984 (Act No.  76 of 1984), the South African Council for Educators he or she shall notwithstanding anything to the contrary contained in this Act, be deemed to have resigned with effect from the date following immediately upon the day on which his or her name was so struck off."
 
-- The substitution for section 22 of the following section:
+11. The substitution for section 22 of the following section:
 
 #### "Transfer of educators on declaration of public educational institution to be state-aided college
 
-(1) An educator who was employed at a departmental public
+22. (1) An educator who was employed at a departmental public educational institution immediately prior to the date of declaration of such institution to be a state-aided educational institution college shall with effect from that date with his or her consent be transferred to and appointed in the service of the state-aided educational institution college in question.
 
-- educational institution immediately prior to the date of declaration of such institution to be a state-aided educational institution college shall with effect from that date with his or her consent be transferred to and appointed in the service of the state-aided educational institution college in question.
-
-- An educator transferred and appointed under subsection (1) shall be appointed on the terms and conditions of employment applicable to persons in the service of a state-aided college educational institutions: Provided that-
+(2) An educator transferred and appointed under subsection (1) shall be appointed on the terms and conditions of employment applicable to persons in the service of a state-aided college educational institutions: Provided that-
 
 (a) his or her salary shall not be reduced without his or her consent as a result of such transfer and appointment;
 
@@ -1203,11 +1236,9 @@ educational institution", wherever it occurs, of the expression "public educatio
 
 [[START OF PAGE 30]]
 
-(1) An educator who was employed in a subsidised post at a state-aided educational institution college immediately prior to the date of declaration of such institution to be departmental a public educational institution shall with effect from that date with his or her consent be transferred to and appointed in the service of the provincial government concerned.
+23. (1) An educator who was employed in a subsidised post at a state-aided educational institution college immediately prior to the date of declaration of such institution to be departmental a public educational institution shall with effect from that date with his or her consent be transferred to and appointed in the service of the provincial government concerned.
 
-- An educator transferred and appointed under subsection (1) shall be appointed on the terms and conditions of employment applicable to educators$
-
-- in the service of the provincial government concerned:  Provided that-
+(2) An educator transferred and appointed under subsection (1) shall be appointed on the terms and conditions of employment applicable to educators in the service of the provincial government concerned:  Provided that-
 
 (a) his or her salary shall not be reduced without his or her consent as a result of such transfer and appointment;
 
