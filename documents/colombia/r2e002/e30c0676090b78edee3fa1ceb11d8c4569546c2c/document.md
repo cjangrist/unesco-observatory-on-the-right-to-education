@@ -13,7 +13,7 @@ La Educación Superior es un proceso permanente que posibilita el desarrollo de 
 La Educación Superior es un servicio público cultural, inherente a la finalidad social del Estado.
 #### Artículo 3°
 El Estado, de conformidad con la Constitución Política de Colombia y con la presente Ley, garantiza la autonomía universitaria y vela por la calidad del servicio educativo a través del ejercicio de la suprema inspección y vigilancia de la Educación Superior.
-#### Articulo 4°
+#### Artículo 4°
 La Educación Superior, sin perjuicio de los fines específicos de cada campo del saber, despertará en los  educandos  un  espíritu  reflexivo,  orientado  al  logro  de  la  autonomía  personal,  en  un  marco  de  libertad  de pensamiento y de pluralismo ideológico que tenga en cuenta la universalidad de los saberes y la particularidad de las  formas  culturales  existentes  en  el  país.  Por  ello,  la  Educación  Superior  se  desarrollará  en  un  marco  de libertades de enseñanza, de aprendizaje, de investigación y de cátedra.
 #### Artículo  5°
 La  Educación  Superior  será  accesible  a  quienes  demuestren  poseer  las  capacidades  requeridas  y
@@ -25,76 +25,76 @@ cumplan con las condiciones académicas exigidas en cada caso.
 #### Artículo 6°
 Son objetivos de la Educación Superior y de sus instituciones:
 
-- Profundizar en la formación integral de los colombianos dentro de las modalidades y calidades de la Educación Superior, capacitándolos para cumplir las funciones profesionales, investigativas y de servicio social que requiere el país.
+- a) Profundizar en la formación integral de los colombianos dentro de las modalidades y calidades de la Educación Superior, capacitándolos para cumplir las funciones profesionales, investigativas y de servicio social que requiere el país.
 
-- Trabajar por la creación, el desarrollo y la transmisión del conocimiento en todas sus formas y expresiones y, promover su utilización en todos los campos para solucionar las necesidades del país.
+- b) Trabajar por la creación, el desarrollo y la transmisión del conocimiento en todas sus formas y expresiones y, promover su utilización en todos los campos para solucionar las necesidades del país.
 
-- Prestar  a  la  comunidad  un  servicio  con  calidad,  el  cual  hace  referencia  a  los    resultados  académicos,  a  los medios y procesos empleados, a la infraestructura  institucional, a las dimensiones cualitativas y cuantitativas del mismo y a las condiciones en que se desarrolla cada institución.
+- c) Prestar a la comunidad un servicio con calidad, el cual hace referencia a los resultados académicos, a los medios y procesos empleados, a la infraestructura institucional, a las dimensiones cualitativas y cuantitativas del mismo y a las condiciones en que se desarrolla cada institución.
 
-- Ser factor de desarrollo científico, cultural, económico, político v ético a nivel nacional y regional.
+- d) Ser factor de desarrollo científico, cultural, económico, político y ético a nivel nacional y regional.
 
-- Actuar armónicamente entre sí y con las demás estructuras educativas y formativas.
+- e) Actuar armónicamente entre sí y con las demás estructuras educativas y formativas.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-- Contribuir al desarrollo de los niveles educativos que le preceden para facilitar el logro de sus correspondientes fines.
+- f) Contribuir al desarrollo de los niveles educativos que le preceden para facilitar el logro de sus correspondientes fines.
 
-- Promover la unidad nacional, la descentralización, la integración regional y la cooperación interinstitucional con miras a que las diversas zonas del país dispongan de los recursos humanos y de las tecnologías apropiadas que les permitan atender adecuadamente sus necesidades.
+- g) Promover la unidad nacional, la descentralización, la integración regional y la cooperación interinstitucional con miras a que las diversas zonas del país dispongan de los recursos humanos y de las tecnologías apropiadas que les permitan atender adecuadamente sus necesidades.
 
-- Promover la formación y consolidación de comunidades académicas y la articulación con sus homólogas a nivel internacional.
+- h) Promover la formación y consolidación de comunidades académicas y la articulación con sus homólogas a nivel internacional.
 
-- Promover la preservación de un medio ambiente sano y fomentar la educación y cultura ecológica.
+- i) Promover la preservación de un medio ambiente sano y fomentar la educación y cultura ecológica.
 
-j) Conservar y fomentar el patrimonio cultural del país.
+- j) Conservar y fomentar el patrimonio cultural del país.
 
 ### CAPITULO III Campos de acción y programas académicos.
 
 
 #### Artículo  7°
-Los  campos  de  acción  de  la  Educación  Superior,  son:  El  de  la  técnica,  el  de  la  ciencia  el  de  la tecnología, el de las humanidades, el del arte y el de la filosofía.
+Los campos de acción de la Educación Superior, son: El de la técnica, el de la ciencia, el de la tecnología, el de las humanidades, el del arte y el de la filosofía.
 
 #### Artículo 8°
 Los programas de pregrado y de postgrado que ofrezcan las instituciones de Educación Superior, harán referencia a los campos de acción anteriormente señalados, de conformidad con sus propósitos de formación.
 
 #### Artículo  9°
-Los  programas  de  pregrado  preparan  para  e l  desempeño  de  ocupaciones,  para  el  ejercicio  de  una profesión  o  disciplina  determinada,  de  naturaleza  tecnológica  o  científica  o  en  el  área  de  las  humanidades,  las artes  y  la  filosofía.  También  son  programas  de  pregrado  aquellos  de  naturaleza  multidisciplinaria  conocidos también  como  estudios  de  artes  liberales,  entendiéndose  como  los  estudios  generales  en  ciencias,  artes  o humanidades, con énfasis en algunas de las disciplinas que hacen parte de dichos campos.
+Los programas de pregrado preparan para el desempeño de ocupaciones, para el ejercicio de una profesión o disciplina determinada, de naturaleza tecnológica o científica o en el área de las humanidades, las artes y la filosofía. También son programas de pregrado aquellos de naturaleza multidisciplinaria conocidos también como estudios de artes liberales, entendiéndose como los estudios generales en ciencias, artes o humanidades, con énfasis en algunas de las disciplinas que hacen parte de dichos campos.
 
 #### Artículo 10.
-Son programas de postgrado las especializaciones, las maestrías los doctorados y los postdoctorados.
+Son programas de postgrado las especializaciones, las maestrías, los doctorados y los postdoctorados.
 
 #### Artículo 11.
 Los programas de especialización son aquellos que se desarrollan con posterioridad a un programa de pregrado  y  posibilitan  el  perfeccionamiento  en  la  misma  ocupación,  profesión,  disciplina  o  áreas  afines  o complementarias.
 
 #### Artículo 12.
-Los programas de maestría, doctorado y post-doctorado tienen a la investigación como fundamento y ámbito necesarios de su actividad. Las maestrías buscan ampliar y desarrollar los conocimientos para la solución de problemas disciplinarios,  interdisciplinarios  o  profesionales  y  dotar  a  la  persona  de  los  instrumentos  básicos que la habilitan como investigador en un área específica de las ciencias o de las tecnologías o que le permitan profundizar teórica y conceptualmente en un campo de la filosofía, de las humanidades y de las a artes.
+Los programas de maestría, doctorado y post-doctorado tienen a la investigación como fundamento y ámbito necesarios de su actividad. Las maestrías buscan ampliar y desarrollar los conocimientos para la solución de problemas disciplinarios, interdisciplinarios o profesionales y dotar a la persona de los instrumentos básicos que la habilitan como investigador en un área específica de las ciencias o de las tecnologías o que le permitan profundizar teórica y conceptualmente en un campo de la filosofía, de las humanidades y de las artes.
 
 Parágrafo. La maestría no es condición para acceder a los programas de doctorado. Culmina con un trabajo de investigación.
 
 #### Artículo  13.
-Los  programas  de  doctorado  se  concentran  en  la  formación  de  investigadores  a  nivel  avanzado tomando como base la disposición, capacidad y conocimientos adquiridos por la persona los niveles anteriores de formación. El doctorado debe culminar con una tesis.
+Los programas de doctorado se concentran en la formación de investigadores a nivel avanzado tomando como base la disposición, capacidad y conocimientos adquiridos por la persona en los niveles anteriores de formación. El doctorado debe culminar con una tesis.
 
 #### Artículo 14.
-Son requisitos para el ingreso a los diferentes programas de Educación Superior, además de los que señale dada institución, los siguientes:
+Son requisitos para el ingreso a los diferentes programas de Educación Superior, además de los que señale cada institución, los siguientes:
 
-- Para  todos  los  programas  de  pregrado,  poseer  título  de  bachiller  o  su  equivalente  en  el  exterior  y  haber presentado del Examen de Estado para el ingreso a la Educación Superior.
+- a) Para todos los programas de pregrado, poseer título de bachiller o su equivalente en el exterior y haber presentado el Examen de Estado para el ingreso a la Educación Superior.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- Para los programas de especialización referidos a ocupaciones, poseer el título en la correspondiente ocupación u ocupaciones afines.
+- b) Para los programas de especialización referidos a ocupaciones, poseer el título en la correspondiente ocupación u ocupaciones afines.
 
-- Para los programas de especialización, maestría y doctorado, referidos al campo de la tecnología, la ciencia, las humanidades, las artes y la filosofía, poseer título profesional o título en una disciplina académica.
+- c) Para los programas de especialización, maestría y doctorado, referidos al campo de la tecnología, la ciencia, las humanidades, las artes y la filosofía, poseer título profesional o título en una disciplina académica.
 
-Parágrafo.  Podrán  igualmente  ingresar  a  los  programas  de  formación  técnica  profesional en las instituciones de Educación  Superior  facultadas  para  adelantar  programas  de  formación  en  ocupaciones  de  carácter  operativo  e instrumental, quienes reúnan los siguientes requisitos:
+Parágrafo. Podrán igualmente ingresar a los programas de formación técnica profesional en las instituciones de Educación Superior facultadas para adelantar programas de formación en ocupaciones de carácter operativo e instrumental, quienes reúnan los siguientes requisitos:
 
-- Haber cursado y aprobado la Educación Básica Secundaria en su totalidad.
+- a) Haber cursado y aprobado la Educación Básica Secundaria en su totalidad.
 
-- Haber  obtenido  el  Certificado  de  Aptitud  Profesional  (CAP)  expedido  por  el  Servicio  Nacional  de  Aprendizaje (SENA), y
+- b) Haber obtenido el Certificado de Aptitud Profesional (CAP) expedido por el Servicio Nacional de Aprendizaje (SENA), y
 
-- Haber  laborado  en  el  campo  específico  de  dicha  capacitación  por  un  período  no  inferior  a  dos  (2)  años,  con posterioridad a la capacitación del SENA.
+- c) Haber laborado en el campo específico de dicha capacitación por un período no inferior a dos (2) años, con posterioridad a la capacitación del SENA.
 #### Artículo 15.
 Las instituciones de Educación Superior podrán adelantar programas en la metodología de educación abierta y a distancia, de conformidad con la presente Ley.
 
@@ -104,11 +104,11 @@ Las instituciones de Educación Superior podrán adelantar programas en la metod
 #### Artículo 16.
 Son instituciones de Educación Superior:
 
-- Instituciones Técnicas Profesionales.
+- a) Instituciones Técnicas Profesionales.
 
-- Instituciones Universitarias o Escuelas Tecnológicas.
+- b) Instituciones Universitarias o Escuelas Tecnológicas.
 
-- Universidades.
+- c) Universidades.
 
 #### Artículo  17.
 Son  instituciones  técnicas  profesionales,  aquellas  facultadas legalmente para ofrecer programas de formación en ocupaciones de carácter operativo e instrumental y de especialización en su respectivo campo de acción, sin perjuicio de los aspectos humanísticos propios de este nivel.
@@ -124,9 +124,9 @@ Estas  instituciones  están  igualmente  facultadas  para  adelantar  programas
 #### Artículo  20.
 El  Ministro  de  Educación  Nacional  previo  concepto  favorable  del  Consejo  Nacional  de  Educación Superior (CESU), podrá reconocer como universidad, a partir de la vigencia de la presente Ley, a las instituciones universitarias o escuelas tecnológicas que dentro de un proceso de acreditación demuestren tener:
 
-- Experiencia en investigación científica de alto nivel.
+- a) Experiencia en investigación científica de alto nivel.
 
-- Programas académicos y además programas en Ciencias Básicas que apoyen los primeros.
+- b) Programas académicos y además programas en Ciencias Básicas que apoyen los primeros.
 
 [[END OF PAGE 3]]
 
@@ -135,7 +135,7 @@ El  Ministro  de  Educación  Nacional  previo  concepto  favorable  del  Consej
 c) Facúltase al Gobierno Nacional, para que dentro del término de seis (6) meses, establezca los otros requisitos que se estimen necesarios para los fines del presente artículo. Estos requisitos harán referencia, especialmente, al número de programas, número de docentes, dedicación y formación académica de los mismos e infraestructura.
 
 #### Artículo 21.
-Solamente podrán ser autorizadas por el Ministro de Educación Nacional para ofrecer programas de maestría,  doctorado  y  post-doctorado  y  otorgar  los  respectivos  títulos,  previo  concepto  favorable  de]  Consejo Nacional de Educación Superior (CESU), aquellas universidades que satisfagan los requisitos contemplados en los artículos 19 y 20. Parágrafo. Podrán también ser autorizadas por el Ministro de Educación Nacional para ofrecer programas de maestrías y doctorados y expedir los títulos correspondientes, las universidades, las instituciones universitarias o escuelas tecnológicas, que sin cumplir con el requisito establecido en el literal b) del artículo  20, cumplan con los requisitos de calidad según el Sistema Nacional de Acreditación, en los campos de acción afines al programa propuesto, previo concepto favorable del Consejo Nacional de Educación Superior (CESU).
+Solamente podrán ser autorizadas por el Ministro de Educación Nacional para ofrecer programas de maestría, doctorado y post-doctorado y otorgar los respectivos títulos, previo concepto favorable del Consejo Nacional de Educación Superior (CESU), aquellas universidades que satisfagan los requisitos contemplados en los artículos 19 y 20. Parágrafo. Podrán también ser autorizadas por el Ministro de Educación Nacional para ofrecer programas de maestrías y doctorados y expedir los títulos correspondientes, las universidades, las instituciones universitarias o escuelas tecnológicas, que sin cumplir con el requisito establecido en el literal b) del artículo 20, cumplan con los requisitos de calidad según el Sistema Nacional de Acreditación, en los campos de acción afines al programa propuesto, previo concepto favorable del Consejo Nacional de Educación Superior (CESU).
 
 #### Artículo  22.
 El  Ministro  de  Educación  Nacional,  previo  concepto  favorable  del  Consejo  Nacional  de  Educación Superior (CESU), podrá aprobar el funcionamiento de nuevas instituciones de Educación Superior y determinará el campo  o  campos  de  acción  en  que  se  puedan  desempeñar,  su  carácter  académico y de conformidad con la presente Ley.
@@ -147,14 +147,14 @@ Por razón de su origen, las instituciones de Educación Superior se clasifican 
 
 
 #### Artículo 24.
-El título, es el reconocimiento expreso de carácter académico, otorgado a una persona natural, a la culminación de un programa, por haber adquirido un saber determinado en una Institución de Educación Superior. Tal  reconocimiento  se  hará  constar  en  un  d iploma.  El  otorgamiento  de  títulos  en  la  Educación  Superior  es  de competencia exclusiva  de  las  instituciones  de  ese  nivel  de  conformidad  con  la  presente  Ley.  Parágrafo.  En  los títulos  que  otorguen  las  instituciones  de  Educación  Superior  se  dejará  constancia  de  su  correspondiente Personería Jurídica.
+El título, es el reconocimiento expreso de carácter académico, otorgado a una persona natural, a la culminación de un programa, por haber adquirido un saber determinado en una Institución de Educación Superior. Tal reconocimiento se hará constar en un diploma. El otorgamiento de títulos en la Educación Superior es de competencia exclusiva de las instituciones de ese nivel de conformidad con la presente Ley. Parágrafo. En los títulos que otorguen las instituciones de Educación Superior se dejará constancia de su correspondiente Personería Jurídica.
 
 #### Artículo  25.
 Los  programas  académicos  de  acuerdo  con  su  campo  de  acción,  cuando  son  ofrecidos  por  una Institución  Técnica  Profesional,  conducen  al  título  en  la  ocupación  o  área  correspondiente.  Al  título  deberá anteponerse la denominación de: "Técnico Profesional en . . ".
 
 Los ofrecidos por las instituciones universitarias o escuelas tecnológicas, o por una universidad, conducen al título en la respectiva ocupación, caso en el cual deberá anteponerse la denominación de" Técnico Profesional en...". Si  hacen  relación  a  profesiones  o  disciplinas  académicas,  al  título  podrá  anteponerse  la  denominación  de: "Profesional en . . . " o "Tecnólogo en . . . ". Los programas de pregrado en Artes conducen al título de: "Maestro en...". Los programas de especialización conducen al título de especialista en la ocupación, profesión, disciplina o área  afín  respectiva.  Los  programas  de  maestría,  doctorado  y  post-doctorado,  conducen  al  título  de  magíster, doctor o al título correspondiente al post-doctorado adelantado, los cuales deben referirse a la respectiva disciplina o a un área interdisciplinaria del conocimiento.
 
-Parágrafo 1° Los programas de pregrado en Educación podrán conducir al titulo de "Licenciado en...".
+Parágrafo 1° Los programas de pregrado en Educación podrán conducir al título de "Licenciado en...".
 
 Estos programas se integrarán y asimilarán progresivamente a los programas académicos que se ofrecen en el resto de instituciones universitarias o escuelas tecnológicas y en las universidades.
 
@@ -172,13 +172,13 @@ El  Ministro  de  Educación  Nacional,  con  la  asesoría  del  Consejo  Nacio
 #### Artículo 27.
 Los Exámenes de Estado son pruebas académicas de carácter oficial que tienen por objeto:
 
-- Comprobar niveles mínimos de aptitudes y conocimientos.
+- a) Comprobar niveles mínimos de aptitudes y conocimientos.
 
-- Verificar  conocimientos  y  destrezas  para  la  expedición  de  títulos  a  los  egresados  de  programas  cuya aprobación no esté vigente.
+- b) Verificar conocimientos y destrezas para la expedición de títulos a los egresados de programas cuya aprobación no esté vigente.
 
-- Expedir certificación sobre aprobación o desaprobación de cursos que se hayan adelantado en instituciones en disolución cuya personería jurídica ha sido suspendida o cancelada.
+- c) Expedir certificación sobre aprobación o desaprobación de cursos que se hayan adelantado en instituciones en disolución cuya personería jurídica ha sido suspendida o cancelada.
 
-- Homologar  y  convalidar  títulos  de  estudios  de  Educación  Superior  realizados  en  el  exterior,  cuando  sea pertinente a juicio del Consejo Nacional para la Educación Superior (CESU).
+- d) Homologar y convalidar títulos de estudios de Educación Superior realizados en el exterior, cuando sea pertinente a juicio del Consejo Nacional para la Educación Superior (CESU).
 
 ### CAPITULO VI Autonomía de las Instituciones de Educación Superior.
 
@@ -189,19 +189,19 @@ La autonomía universitaria consagrada en la Constitución Política de Colombia
 #### Artículo  29.
 La  autonomía  de  las  instituciones  universitarias  o  escuelas  tecnológicas  y  de  las  instituciones técnicas  profesionales  estará  determinada  por  su  campo  de  acción  y  de  acuerdo  con  la  presente  Ley  en  los siguientes aspectos:
 
-- Darse y modificar sus estatutos.
+- a) Darse y modificar sus estatutos.
 
-- Designar sus autoridades académicas y administrativas.
+- b) Designar sus autoridades académicas y administrativas.
 
-- Crear, desarrollar sus programas académicos, lo mismo que expedir los correspondientes títulos.
+- c) Crear, desarrollar sus programas académicos, lo mismo que expedir los correspondientes títulos.
 
-- Definir y organizar sus labores formativas, académicas, docentes, científicas, culturales y de extensión.
+- d) Definir y organizar sus labores formativas, académicas, docentes, científicas, culturales y de extensión.
 
-- Seleccionar y vincular a sus docentes, lo mismo que a sus alumnos.
+- e) Seleccionar y vincular a sus docentes, lo mismo que a sus alumnos.
 
-- Adoptar el régimen de alumnos y docentes.
+- f) Adoptar el régimen de alumnos y docentes.
 
-- Arbitrar y aplicar sus recursos para el cumplimiento de su misión social y de su función institucional. Parágrafo. Para  el  desarrollo  de  lo  contemplado  en  los  literales  a)  y  e)  se  requiere  notificación  al  Ministro  de  Educación Nacional, a través del Instituto Colombiano para el Fomento de la Educación Superior (Icfes) .
+- g) Arbitrar y aplicar sus recursos para el cumplimiento de su misión social y de su función institucional. Parágrafo. Para el desarrollo de lo contemplado en los literales a) y e) se requiere notificación al Ministro de Educación Nacional, a través del Instituto Colombiano para el Fomento de la Educación Superior (Icfes).
 
 #### Artículo  30.
 Es  propio  de  las  instituciones  de  Educación  Superior  la  búsqueda  de  la  verdad,  el  ejercicio  libre  y responsable de la crítica, de la cátedra y del aprendizaje de acuerdo con la presente Ley.
@@ -214,40 +214,40 @@ Es  propio  de  las  instituciones  de  Educación  Superior  la  búsqueda  de 
 [[START OF PAGE 6]]
 
 #### Artículo  31.
-De  conformidad  con  los  artículos  67  y  189,  numerales  21,22  y  26  de  la  Constitución  Política  de Colombia  y  de  acuerdo  con  la  presente  Ley,  el  fomento,  la  inspección  y  vigilancia  de  la  enseñanza  que corresponde al Presidente de la República, estarán orientados a:
+De conformidad con los artículos 67 y 189, numerales 21, 22 y 26 de la Constitución Política de Colombia y de acuerdo con la presente Ley, el fomento, la inspección y vigilancia de la enseñanza que corresponde al Presidente de la República, estarán orientados a:
 
-- Proteger las libertades de enseñanza, aprendizaje, investigación y cátedra.
+- a) Proteger las libertades de enseñanza, aprendizaje, investigación y cátedra.
 
-- Vigilar que se cumpla e impere plena e integralmente la garantía constitucional de la autonomía universitaria.
+- b) Vigilar que se cumpla e impere plena e integralmente la garantía constitucional de la autonomía universitaria.
 
-- Garantizar el derecho de los particulares a fundar establecimientos de Educación Superior conforme a la ley.
+- c) Garantizar el derecho de los particulares a fundar establecimientos de Educación Superior conforme a la ley.
 
-- Adoptar  medidas  para  fortalecer  la  investigación  en  las  instituciones  de  Educación  Superior  y  ofrecer  las condiciones especiales para su desarrollo.
+- d) Adoptar medidas para fortalecer la investigación en las instituciones de Educación Superior y ofrecer las condiciones especiales para su desarrollo.
 
-- Facilitar a las personas aptas el acceso al conocimiento, a la ciencia, a la técnica, al arte y a los demás bienes de la cultura, así como los mecanismos financieros que lo hagan viable.
+- e) Facilitar a las personas aptas el acceso al conocimiento, a la ciencia, a la técnica, al arte y a los demás bienes de la cultura, así como los mecanismos financieros que lo hagan viable.
 
-- Crear  incentivos  para  las  personas  e  instituciones  que  desarrollen  y  fomenten  la  técnica,  la  ciencia,  la tecnología, las humanidades, la filosofía y las artes.
+- f) Crear incentivos para las personas e instituciones que desarrollen y fomenten la técnica, la ciencia, la tecnología, las humanidades, la filosofía y las artes.
 
-- Fomentar  la  producción  del  conocimiento  y  el  acceso  del  país  al  dominio  de  la  ciencia,  la  tecnología  y  la cultura.
+- g) Fomentar la producción del conocimiento y el acceso del país al dominio de la ciencia, la tecnología y la cultura.
 
-- Propender  por  la  creación  de  mecanismos  de  evaluación  de  la  calidad  de  los  programas  académicos  de  las instituciones de Educación Superior.
+- h) Propender por la creación de mecanismos de evaluación de la calidad de los programas académicos de las instituciones de Educación Superior.
 
-- Fomentar el desarrollo del pensamiento científico y pedagógico en Directivos y docentes de las instituciones de Educación Superior.
+- i) Fomentar el desarrollo del pensamiento científico y pedagógico en Directivos y docentes de las instituciones de Educación Superior.
 
 #### Artículo 32.
 La suprema inspección y vigilancia a que hace relación el artículo anterior, se ejercerá indelegablemente, salvo lo previsto en el artículo 33 de la presente Ley, a través del desarrollo de un proceso de evaluación que apoye, fomente y dignifique la Educación Superior, para velar por:
 
-- La  calidad  de  la  Educación  Superior  dentro  del  respeto  a  la  autonomía  universitaria  y  a  las  libertades  de enseñanza, aprendizaje, investigación y cátedra.
+- a) La calidad de la Educación Superior dentro del respeto a la autonomía universitaria y a las libertades de enseñanza, aprendizaje, investigación y cátedra.
 
-- El cumplimiento de sus fines.
+- b) El cumplimiento de sus fines.
 
-- La mejor formación moral, intelectual y física de los educandos.
+- c) La mejor formación moral, intelectual y física de los educandos.
 
-- El adecuado cubrimiento de los servicios de Educación Superior.
+- d) El adecuado cubrimiento de los servicios de Educación Superior.
 
-- Que  en  las  instituciones  privadas  de  Educación  Superior,  constituidas  como  personas  jurídicas  de  utilidad común, sus rentas se conserven y se apliquen debidamente y que en todo lo esencial se cumpla con la voluntad de  sus  fundadores.  Por  consiguiente,  quien  invierta  dineros  de  propiedad  de  las  entidades  aquí  señaladas,  en actividades diferentes a las propias y exclusivas de cada institución será incurso en Peculado por Extensión.
+- e) Que en las instituciones privadas de Educación Superior, constituidas como personas jurídicas de utilidad común, sus rentas se conserven y se apliquen debidamente y que en todo lo esencial se cumpla con la voluntad de sus fundadores. Por consiguiente, quien invierta dineros de propiedad de las entidades aquí señaladas, en actividades diferentes a las propias y exclusivas de cada institución será incurso en Peculado por Extensión.
 
-- Que en las instituciones oficiales de Educación Superior se atienda a la naturaleza de servicio público cultural y a la función social que les es inherente, se cumplan las disposiciones legales y estatutarias que las rigen y que sus rentas se conserven y se apliquen debidamente.
+- f) Que en las instituciones oficiales de Educación Superior se atienda a la naturaleza de servicio público cultural y a la función social que les es inherente, se cumplan las disposiciones legales y estatutarias que las rigen y que sus rentas se conserven y se apliquen debidamente.
 
 El ejercicio de la suprema inspección y vigilancia implica la verificación  de que en la actividad de las instituciones de Educación Superior se cumplan los objetivos previstos en la presente Ley y en sus propios estatutos, así como los pertinentes al servicio público cultural y a la función social que tiene la educación.
 
@@ -267,38 +267,38 @@ La  suprema  inspección  y  vigilancia  de  las  instituciones  de  Educación 
 
 
 #### Artículo 34.
-Créase el Consejo Nacional de Educación Superior (CESU), de carácter permanente, como organismo del Gobierno Nacional v inculado al Ministerio de Educación Nacional, con funciones de coordinación, planificación, recomendación y asesoría.
+Créase el Consejo Nacional de Educación Superior (CESU), de carácter permanente, como organismo del Gobierno Nacional vinculado al Ministerio de Educación Nacional, con funciones de coordinación, planificación, recomendación y asesoría.
 
 #### Artículo 35.
 El Consejo Nacional de Educación Superior (CESU), estará integrado así:
 
-- El Ministro de Educación Nacional, quien lo preside.
+- a) El Ministro de Educación Nacional, quien lo preside.
 
-- El Jefe del Departamento Nacional de Planeación.
+- b) El Jefe del Departamento Nacional de Planeación.
 
-- El Rector de la Universidad Nacional de Colombia.
+- c) El Rector de la Universidad Nacional de Colombia.
 
-- El  Director  del  Fondo  Colombiano  de  Investigaciones  Científicas  y  Proyectos  Especiales  "Francisco  José  de Caldas", Colciencias.
+- d) El Director del Fondo Colombiano de Investigaciones Científicas y Proyectos Especiales "Francisco José de Caldas", Colciencias.
 
-- Un Rector de la universidad estatal u oficial.
+- e) Un Rector de la universidad estatal u oficial.
 
-- Dos Rectores de universidades privadas.
+- f) Dos Rectores de universidades privadas.
 
-- Un Rector de universidad de economía solidaria.
+- g) Un Rector de universidad de economía solidaria.
 
-- Un Rector de una institución universitaria o escuela tecnológica, estatal u oficial.
+- h) Un Rector de una institución universitaria o escuela tecnológica, estatal u oficial.
 
-- Un Rector de institución técnica profesional estatal u oficial.
+- i) Un Rector de institución técnica profesional estatal u oficial.
 
-- Dos representantes del sector productivo.
+- j) Dos representantes del sector productivo.
 
-- Un representante de la comunidad académica de universidad estatal u oficial.
+- k) Un representante de la comunidad académica de universidad estatal u oficial.
 
-- Un profesor universitario.
+- l) Un profesor universitario.
 
-- Un estudiante de los últimos años de universidad.
+- m) Un estudiante de los últimos años de universidad.
 
-- El Director del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), con voz pero sin voto.
+- n) El Director del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), con voz pero sin voto.
 
 Parágrafo. Para la escogencia de los representantes establecidos en los literales e), f), g), h), i), j), k), l) y m), el Gobierno  Nacional  establecerá  una  completa  reglamentación  que  asegure  la  participación  de  cada  uno  de  los estamentos representados, los cuales tendrán un período de dos años. Esta reglamentación será expedida dentro de los seis (6) meses siguientes a la vigencia de la presente Ley.
 
@@ -309,27 +309,23 @@ Parágrafo. Para la escogencia de los representantes establecidos en los literal
 #### Artículo 36.
 Son funciones del Consejo Nacional de Educación Superior (CESU) proponer al Gobierno Nacional:
 
-- Políticas y planes para la marcha de la Educación Superior.
+- a) Políticas y planes para la marcha de la Educación Superior.
 
-- La reglamentación y procedimientos para: 1. Organizar el Sistema de Acreditación.
+- b) La reglamentación y procedimientos para:
+1. Organizar el Sistema de Acreditación.
+2. Organizar el Sistema Nacional de Información.
+3. Organizar los exámenes de estado.
+4. Establecer las pautas sobre la nomenclatura de títulos.
+5. La creación de las instituciones de Educación Superior.
+6. Establecer los requisitos de creación y funcionamiento de los programas académicos.
 
-- Organizar el Sistema Nacional de Información.
+- c) La suspensión de las personerías jurídicas otorgadas a las instituciones de Educación Superior.
 
-- Organizar los exámenes de estado.
+- d) Los mecanismos para evaluar la calidad académica de las instituciones de Educación Superior y de sus programas.
 
-- Establecer las pautas sobre la nomenclatura de títulos.
+- e) Su propio reglamento de funcionamiento.
 
-- La creación de las instituciones de Educación Superior.
-
-- Establecer los requisitos de creación y funcionamiento de los programas académicos.
-
-- La suspensión de las personerías jurídicas otorgadas a las instituciones de Educación Superior.
-
-- Los  mecanismos  para  evaluar  la  calidad  académica  de  las  instituciones  de  Educación  Superior  y  de  sus programas.
-
-- Su propio reglamento de funcionamiento.
-
-- Las funciones que considere pertinentes en desarrollo de la presente Ley.
+- f) Las funciones que considere pertinentes en desarrollo de la presente Ley.
 
 Parágrafo. El Consejo Nacional de Educación Superior (CESU), reglamentará la representación de las instituciones de  Educación  Superior  de  Economía  Solidaria  en  los  comités  asesores  contemplados  en  el  artículo  45  de  la presente Ley, de conformidad con su crecimiento y desarrollo académico.
 
@@ -337,35 +333,35 @@ Parágrafo. El Consejo Nacional de Educación Superior (CESU), reglamentará la 
 
 
 #### Artículo  37.
-E]  Instituto  Colombiano  para  el  Fomento  de  la  Educación  Superior  (Icfes)  es  un  establecimiento público del orden nacional, adscrito al Ministerio de Educación Nacional.
+El Instituto Colombiano para el Fomento de la Educación Superior (Icfes) es un establecimiento público del orden nacional, adscrito al Ministerio de Educación Nacional.
 #### Artículo 38.
 Las funciones del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), son:
 
-- Ejecutar las políticas que en materia de Educación Superior trace el Gobierno Nacional, lo mismo que ejercer la Secretaría Técnica del Consejo Nacional de Educación Superior (CESU) .
+- a) Ejecutar las políticas que en materia de Educación Superior trace el Gobierno Nacional, lo mismo que ejercer la Secretaría Técnica del Consejo Nacional de Educación Superior (CESU).
 
-- Constituirse en centro de información y documentación de la Educación Superior. para lo cual las instituciones suministrarán los informes académicos, financieros y administrativos que se les soliciten.
+- b) Constituirse en centro de información y documentación de la Educación Superior, para lo cual las instituciones suministrarán los informes académicos, financieros y administrativos que se les soliciten.
 
-- Realizar los estudios de base de la Educación Superior.
+- c) Realizar los estudios de base de la Educación Superior.
 
-- Estimular  la  cooperación  entre  las  instituciones  de  Educación  Superior  y  de  éstas  con  la  comunidad internacional.
+- d) Estimular la cooperación entre las instituciones de Educación Superior y de éstas con la comunidad internacional.
 
-- Colaborar  con  las  instituciones  de  Educación  Superior  para  estimular  y  perfeccionar  sus  procedimientos  de autoevaluación.
+- e) Colaborar con las instituciones de Educación Superior para estimular y perfeccionar sus procedimientos de autoevaluación.
 
-- f ) Fomentar la preparación de docentes, investigadores, directivos y administradores de la Educación Superior.
+- f) Fomentar la preparación de docentes, investigadores, directivos y administradores de la Educación Superior.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-- Promover el desarrollo de la investigación en las instituciones de Educación Superior.
+- g) Promover el desarrollo de la investigación en las instituciones de Educación Superior.
 
-- Estimular  el  desarrollo  de  las  instituciones  de  Educación Superior en las regiones, así como su integración y cooperación.
+- h) Estimular el desarrollo de las instituciones de Educación Superior en las regiones, así como su integración y cooperación.
 
-- Homologar y convalidar títulos de estudios cursados en el exterior.
+- i) Homologar y convalidar títulos de estudios cursados en el exterior.
 
-- Definir las pautas sobre la nomenclatura de los programas académicos de Educación Superior.
+- j) Definir las pautas sobre la nomenclatura de los programas académicos de Educación Superior.
 
-- Realizar los exámenes de estado de conformidad con la presente Ley.
+- k) Realizar los exámenes de estado de conformidad con la presente Ley.
 
 #### Artículo  39.
 La  dirección  y  administración  del  Instituto  Colombiano  para  el  Fomento  de  la  Educación  Superior (Icfes),  estarán  a  cargo  de  una  Junta  Directiva  y  de  un  Director  General,  quien  es  el  representante legal del Instituto.
@@ -373,35 +369,35 @@ La  dirección  y  administración  del  Instituto  Colombiano  para  el  Foment
 #### Artículo 40.
 La Junta Directiva del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), estará integrada de la siguiente manera:
 
-- a ) El Ministro de Educación Nacional o su delegado, quien la preside.
+- a) El Ministro de Educación Nacional o su delegado, quien la preside.
 
-- El Ministro de Hacienda o su delegado.
+- b) El Ministro de Hacienda o su delegado.
 
-- Un delegado del Presidente de la República.
+- c) Un delegado del Presidente de la República.
 
-- Un ex-rector de universidad estatal u oficial.
+- d) Un ex-rector de universidad estatal u oficial.
 
-- Un ex-rector de universidad privada.
+- e) Un ex-rector de universidad privada.
 
-- Un ex-rector de universidad de economía solidaria.
+- f) Un ex-rector de universidad de economía solidaria.
 
-- El Director General del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), con voz pero sin voto.
+- g) El Director General del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), con voz pero sin voto.
 
 Parágrafo. El Consejo Nacional de Educación Superior (CESU), reglamentará la elección de los exrectores de las universidades estatal u oficial, privada y de economía solidaria, para períodos de dos (2) años.
 
 #### Artículo 41.
 Son funciones de la Junta Directiva del Instituto Colombiano para el Fomento de la Educación Superior (Icfes):
 
-- Expedir los actos de carácter administrativo para el cumplimiento de las funciones del Instituto.
+- a) Expedir los actos de carácter administrativo para el cumplimiento de las funciones del Instituto.
 
-- Darse su propio reglamento.
+- b) Darse su propio reglamento.
 
-- Las demás que el Consejo Nacional de Educación Superior (CESU) y el Gobierno Nacional le señale.
+- c) Las demás que el Consejo Nacional de Educación Superior (CESU) y el Gobierno Nacional le señale.
 
 #### Artículo  42.
 El  Director  General  del  Instituto  Colombiano  para  el  Fomento  de  la  Educación  Superior  (Icfes),  es agente del Presidente de la República de su libre nombramiento y remoción.
 
-Para ser Director del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), se requiere: Poseer título  universitario  haber  sido  Rector, Vicerrector  o  Decano  en  propiedad  o  haber  estado  vinculado  al  cuerpo académico de una Institución de Educación Superior al menos durante cinco (5) años consecutivos.
+Para ser Director del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), se requiere: Poseer título universitario, haber sido Rector, Vicerrector o Decano en propiedad o haber estado vinculado al cuerpo académico de una Institución de Educación Superior al menos durante cinco (5) años consecutivos.
 
 Tendrá las funciones señaladas en el artículo 27 del Decreto 1050 de 1968 y las que le fijen los estatutos y demás disposiciones legales.
 
@@ -412,80 +408,82 @@ Tendrá las funciones señaladas en el artículo 27 del Decreto 1050 de 1968 y l
 #### Artículo 43.
 Son bienes y recursos financieros del Instituto Colombiano para el Fomento de la Educación Superior (Icfes):
 
-- Todos los bienes que a la fecha le pertenecen.
+- a) Todos los bienes que a la fecha le pertenecen.
 
-- Las partidas que con destino a él se incluyan en el presupuesto nacional.
+- b) Las partidas que con destino a él se incluyan en el presupuesto nacional.
 
-- Cualquier renta o donación que perciba de personas naturales o jurídicas, de conformidad con las leyes.
+- c) Cualquier renta o donación que perciba de personas naturales o jurídicas, de conformidad con las leyes.
 
-- El  dos  por  ciento  (2%)  de  los  aportes  que  por  cualquier  concepto  reciban  del  presupuesto  nacional  las instituciones  de  Educación  Superior,  tanto  estatales  u  oficiales  como  privadas  y  de  economía  solidaria.  El Ministerio  de  Hacienda  con  cargo  al  presupuesto  nacional  apropiará  las  partidas  que  por  este  concepto  deben efectuar  las  instituciones  de  Educación Superior estatales u oficiales. Este porcentaje será deducido y girado al Instituto  Colombiano para la Educación Superior (Icfes) por el Ministerio de Hacienda y Crédito Público o por el Ministerio de Educación Nacional, según el caso, al ordenar y efectuar el pago a las mencionadas instituciones. Los  recursos  recibidos  por  este  concepto  serán  destinados  al  funcionamiento  del  Instituto  Colombiano  para  el Fomento de la Educación Superior (Icfes) y a las actividades de fomento de la Educación Superior que para estos efectos programe el Consejo Nacional de Educación Superior (CESU).
+- d) El dos por ciento (2%) de los aportes que por cualquier concepto reciban del presupuesto nacional las instituciones de Educación Superior, tanto estatales u oficiales como privadas y de economía solidaria. El Ministerio de Hacienda con cargo al presupuesto nacional apropiará las partidas que por este concepto deben efectuar las instituciones de Educación Superior estatales u oficiales. Este porcentaje será deducido y girado al Instituto Colombiano para la Educación Superior (Icfes) por el Ministerio de Hacienda y Crédito Público o por el Ministerio de Educación Nacional, según el caso, al ordenar y efectuar el pago a las mencionadas instituciones. Los recursos recibidos por este concepto serán destinados al funcionamiento del Instituto Colombiano para el Fomento de la Educación Superior (Icfes) y a las actividades de fomento de la Educación Superior que para estos efectos programe el Consejo Nacional de Educación Superior (CESU).
 
 ### CAPITULO III De los comités asesores.
 
 
 #### Artículo  44.
-El  Consejo  Nacional  de  Educación  Superior  (CESU)  el  Instituto  Colombiano  para  el  Fomento  de  la Educación Superior (Icfes), contarán con tres comités asesores que constituirán espacio permanente de reflexión para  el  estudio  y  sugerencia  de  políticas  apropiadas  que  permitan  el  logro  de  los  objetivos  de  la  Educación Superior y el de los específicos de las instituciones que agrupan.
+El Consejo Nacional de Educación Superior (CESU) y el Instituto Colombiano para el Fomento de la Educación Superior (Icfes), contarán con tres comités asesores que constituirán espacio permanente de reflexión para el estudio y sugerencia de políticas apropiadas que permitan el logro de los objetivos de la Educación Superior y el de los específicos de las instituciones que agrupan.
 
 #### Artículo 45.
 Los comités asesores para efectos de su funcionamiento se denominarán e integrarán de la siguiente manera:
 
-- Comité para estudio y análisis de los temas relativos a las instituciones técnicas profesionales. Estará integrado por:
+a) Comité para estudio y análisis de los temas relativos a las instituciones técnicas profesionales. Estará integrado por:
 
--Un rector de institución técnica profesional de carácter estatal u oficial.
+- Un rector de institución técnica profesional de carácter estatal u oficial.
 
--Un rector de institución técnica profesional de carácter privado.
+- Un rector de institución técnica profesional de carácter privado.
 
--Un representante de las comunidades académicas.
+- Un representante de las comunidades académicas.
 
--Dos representantes del sector productivo.
+- Dos representantes del sector productivo.
 
--El  Director  General  del  Instituto  Colombiano  para  el  Fomento  de  la  Educación  Superior  (Icfes),  quien  lo presidirá.
+- El Director General del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), quien lo presidirá.
 
-- Comité para estudio y análisis de los temas relativos a las instituciones universitarias o escuelas tecnológicas. Estará integrado por: - Un rector de institución universitaria o escuela tecnológica de carácter estatal u oficial.
+b) Comité para estudio y análisis de los temas relativos a las instituciones universitarias o escuelas tecnológicas. Estará integrado por:
 
--Un rector de institución universitaria o escuela tecnológica de carácter privado.
+- Un rector de institución universitaria o escuela tecnológica de carácter estatal u oficial.
 
--Un representante de las comunidades académicas.
+- Un rector de institución universitaria o escuela tecnológica de carácter privado.
 
--Dos representantes del sector productivo.
+- Un representante de las comunidades académicas.
 
--El  Director  General  del  Instituto  Colombiano  para  el  Fomento  de  la  Educación  Superior  (Icfes),  quien  lo presidirá.
+- Dos representantes del sector productivo.
+
+- El Director General del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), quien lo presidirá.
 
 c) Comité para estudio y análisis de los temas relativos a las universidades. Estará integrado por:
 
--Un rector de universidad estatal u oficial.
+- Un rector de universidad estatal u oficial.
 
--Un rector de universidad privada.
+- Un rector de universidad privada.
 
--Un representante de las comunidades académicas.
+- Un representante de las comunidades académicas.
 
--Dos representantes del sector productivo.
+- Dos representantes del sector productivo.
 
--El  Director  General  del  Instituto  Colombiano  para  el  Fomento  de  la  Educación  Superior  (Icfes)  quien  lo presidirá.
+- El Director General del Instituto Colombiano para el Fomento de la Educación Superior (Icfes) quien lo presidirá.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
 #### Artículo 46.
-Los rectores integrantes de los comités señalados en el artículo anterior serán elegidos para períodos de  dos  años,  en  asamblea  de  rectores  de  cada  modalidad  de  instituciones,  convocada  para  tal  efecto  por  el Director Genera] del Instituto Colombiano para el Fomento de la Educación Superior (Icfes).
+Los rectores integrantes de los comités señalados en el artículo anterior serán elegidos para períodos de dos años, en asamblea de rectores de cada modalidad de instituciones, convocada para tal efecto por el Director General del Instituto Colombiano para el Fomento de la Educación Superior (Icfes).
 
-Los  representantes  académicos  a  que  se  refiere  el  artículo  anterior  deberán  ser  profesores  de  instituciones  de Educación  Superior  con  título  de  postgrado  y  serán  elegidos  por  el  Consejo  Nacional  de  Educación  S uperior (CESU), de hojas de vida que le remitirán las instituciones de Educación Superior de la modalidad respectiva, al Director General del Instituto Colombiano para el Fomento de la Educación Superior (Icfes).
+Los representantes académicos a que se refiere el artículo anterior deberán ser profesores de instituciones de Educación Superior con título de postgrado y serán elegidos por el Consejo Nacional de Educación Superior (CESU), de hojas de vida que le remitirán las instituciones de Educación Superior de la modalidad respectiva, al Director General del Instituto Colombiano para el Fomento de la Educación Superior (Icfes).
 
-Los representantes del sector productivo a que se refiere el artículo anterior serán elegidos por el Consejo Nacional de Educación Superior (CESU), de terna presentada por cada comité al Director General del Instituto Colombiano par a el Fomento de la Educación Superior (Icfes).
+Los representantes del sector productivo a que se refiere el artículo anterior serán elegidos por el Consejo Nacional de Educación Superior (CESU), de terna presentada por cada comité al Director General del Instituto Colombiano para el Fomento de la Educación Superior (Icfes).
 
 #### Artículo  47.
 Serán funciones de los comités a que hace relación el artículo 45, de conformidad con el ámbito de acción correspondiente a cada uno de ellos, las siguientes:
 
-- Proponer al Consejo Nacional de Educación Superior (CESU) y al Instituto Colombiano para el Fomento de la Educación Superior (Icfes) políticas que orienten el desarrollo de las instituciones de Educación Superior y de sus programas.
+- a) Proponer al Consejo Nacional de Educación Superior (CESU) y al Instituto Colombiano para el Fomento de la Educación Superior (Icfes) políticas que orienten el desarrollo de las instituciones de Educación Superior y de sus programas.
 
-- Emitir  concepto  previo  sobre  las  solicitudes  de  creación  de  nuevas  instituciones  estatales  u  oficiales  y privadas de educación Superior.
+- b) Emitir concepto previo sobre las solicitudes de creación de nuevas instituciones estatales u oficiales y privadas de educación Superior.
 
-- Recomendar al Consejo Nacional de Educación Superior (CESU) y al Instituto Colombiano para el Fomento de la  Educación  Superior  (Icfes)  las  condiciones  académicas  que  se  deben  exigir  a  las  instituciones  de Educación Superior para ofrecer programas de postgrado.
+- c) Recomendar al Consejo Nacional de Educación Superior (CESU) y al Instituto Colombiano para el Fomento de la Educación Superior (Icfes) las condiciones académicas que se deben exigir a las instituciones de Educación Superior para ofrecer programas de postgrado.
 
-- Conceptuar sobre los procesos de recuperación o de liquidación de instituciones de Educación Superior.
+- d) Conceptuar sobre los procesos de recuperación o de liquidación de instituciones de Educación Superior.
 
-- Las demás que les asigne el Consejo Nacional de Educación Superior (CESU).
+- e) Las demás que les asigne el Consejo Nacional de Educación Superior (CESU).
 
 ### CAPITULO IV Sanciones.
 
@@ -493,19 +491,19 @@ Serán funciones de los comités a que hace relación el artículo 45, de confor
 #### Artículo 48.
 El incumplimiento de las disposiciones consagradas en la presente Ley por parte de las instituciones de  Educación  Superior  según  lo  previsto  en  el  artículo  siguiente,  dará  lugar  a  la  iniciación  de  las  acciones administrativas correspondientes y previa observancia del debido proceso, a la imposición de las sanciones que a continuación se indican:
 
-- Amonestación privada.
+- a) Amonestación privada.
 
-- Amonestación pública.
+- b) Amonestación pública.
 
-- Multas sucesivas hasta de cien (100) veces el salario mínimo legal mensual vigente en el país.
+- c) Multas sucesivas hasta de cien (100) veces el salario mínimo legal mensual vigente en el país.
 
-- Suspensión de programas académicos y de admisiones por el término hasta de un (1) año.
+- d) Suspensión de programas académicos y de admisiones por el término hasta de un (1) año.
 
-- Cancelación de programas académicos.
+- e) Cancelación de programas académicos.
 
-- Suspensión de la personería jurídica de la institución.
+- f) Suspensión de la personería jurídica de la institución.
 
-- Cancelación de la personería jurídica de la institución.
+- g) Cancelación de la personería jurídica de la institución.
 
 Parágrafo.  A  los  representantes  legales,  a  los  rectores  y  a  los  directivos  de  las  instituciones  de  Educación Superior  les  podrán  ser  aplicadas  las  sanciones  previstas  en  los  literales  a),  b)  y  c)  del  presente  artículo,  las cuales  serán  impuestas  por  el  Ministro  de  Educación  Nacional,  previo  concepto  del  Consejo  Nacional  de Educación  Superior  (CESU),  mediante  resolución  motivada,  una  vez  adelantado  y  concluido  el  correspondiente proceso administrativo, con observancia de la plenitud de sus formas propias.
 
@@ -516,11 +514,11 @@ Parágrafo.  A  los  representantes  legales,  a  los  rectores  y  a  los  dire
 #### Artículo 49.
 Las sanciones a que se refieren los literales d), e), f) y g) del artículo anterior, sólo podrán imponerse previo  concepto  del  Consejo  Nacional  de  Educación  Superior  (CESU)  por  el  Ministro  de  Educación  Nacional, mediante resolución motivada en los siguientes casos:
 
-- Por desconocer, incumplir o desviarse de los objetivos señalados a la Educación Superior en el artículo 6° de la presente Ley.
+- a) Por desconocer, incumplir o desviarse de los objetivos señalados a la Educación Superior en el artículo 6° de la presente Ley.
 
-- Por incumplir o entorpecer las facultades de inspección y vigilancia que corresponden al Gobierno Nacional.
+- b) Por incumplir o entorpecer las facultades de inspección y vigilancia que corresponden al Gobierno Nacional.
 
-- Por  ofrecer  programas  sin  el  cumplimiento  de  las  exigencias  legales.  Contra  los  actos  administrativos impositivos  de  sanciones  procederá  el  recurso  de  reposición  que  deberá  interponerse  en  la  forma  y  términos previstos por el Código Contencioso Administrativo.
+- c) Por ofrecer programas sin el cumplimiento de las exigencias legales. Contra los actos administrativos impositivos de sanciones procederá el recurso de reposición que deberá interponerse en la forma y términos previstos por el Código Contencioso Administrativo.
 
 #### Artículo 50.
 El Ministro de Educación Nacional, a través del Instituto Colombiano para el Fomento de la Educación Superior (Icfes), podrá ordenar la apertura de investigación preliminar con el objeto de comprobar la existencia o comisión de los actos constitutivos de falta administrativa señalados en el artículo anterior.
@@ -594,7 +592,7 @@ El  estudio  de  factibilidad  a   que se refiere el artículo 58 de la presente
 
 [[START OF PAGE 14]]
 
-organización académica y administrativa adecuadas; recursos físicos y financieros suficientes, de tal manera que tanto  el  nacimiento  de  la  institución  como  el  de  los  programas  que  proyecta  ofrecer  garanticen  la  calidad académica.  Este  estudio  deberá  demostrar  igualmente,  que  la  creación  de  la  institución  está  acorde  con  l as necesidades regionales y nacionales.
+organización académica y administrativa adecuadas; recursos físicos y financieros suficientes, de tal manera que tanto el nacimiento de la institución como el de los programas que proyecta ofrecer garanticen la calidad académica. Este estudio deberá demostrar igualmente, que la creación de la institución está acorde con las necesidades regionales y nacionales.
 
 #### Artículo 61.
 Las disposiciones de la presente Ley relativas a las instituciones estatales u oficiales de Educación Superior,  constituyen  el  estatuto  básico  u  orgánico  y  las  normas  que  deben  aplicarse  para  su  creación, reorganización  y  funcionamiento.  A  ellas  deberán  ajustarse  el  estatuto  general  y  los  reglamentos  internos  que debe expedir cada institución.
@@ -617,15 +615,15 @@ Las  universidades  estatales  u  oficiales  y  demás  instituciones  estatales
 #### Artículo  64.
 El  Consejo  Superior  Universitario  es  el  máximo  órgano  de  dirección  y  gobierno  de  la  universidad  y estará integrado por:
 
-- El Ministro de Educación Nacional o su delegado, quien lo presidirá en el caso de las instituciones de orden nacional.
+- a) El Ministro de Educación Nacional o su delegado, quien lo presidirá en el caso de las instituciones de orden nacional.
 
-- El Gobernador, quien preside en las universidades departamentales.
+- b) El Gobernador, quien preside en las universidades departamentales.
 
-- Un miembro designado por el Presidente de la República, que haya tenido vínculos con el sector universitario.
+- c) Un miembro designado por el Presidente de la República, que haya tenido vínculos con el sector universitario.
 
-- Un  representante  de  las  directivas  académicas,  uno  de  los  docentes,  uno  de  los  egresados,  uno  de  los estudiantes, uno del sector productivo y un ex-rector universitario.
+- d) Un representante de las directivas académicas, uno de los docentes, uno de los egresados, uno de los estudiantes, uno del sector productivo y un ex-rector universitario.
 
-- El Rector de la institución con voz y sin voto.
+- e) El Rector de la institución con voz y sin voto.
 
 Parágrafo 1° En las universidades distritales y municipales tendrán asiento en el Consejo Superior los respectivos alcaldes quienes ejercerán la presidencia y no el Gobernador.
 
@@ -633,25 +631,25 @@ Parágrafo  2°  Los  estatutos  orgánicos  reglamentarán  las  calidades,  el
 #### Artículo 65.
 Son funciones del Consejo Superior Universitario:
 
-- Definir las políticas académicas y administrativas y la planeación institucional.
+- a) Definir las políticas académicas y administrativas y la planeación institucional.
 
-- Definir la organización académica, administrativa y financiera de la Institución.
+- b) Definir la organización académica, administrativa y financiera de la Institución.
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-- Velar  porque  la  marcha  de  la  institución  esté  acorde  con  las  disposiciones  legales,  el  estatuto  general  y  las políticas institucionales.
+- c) Velar porque la marcha de la institución esté acorde con las disposiciones legales, el estatuto general y las políticas institucionales.
 
-- Expedir o modificar los estatutos y reglamentos de la institución.
+- d) Expedir o modificar los estatutos y reglamentos de la institución.
 
-- Designar y remover al rector en la forma que prevean sus estatutos.
+- e) Designar y remover al rector en la forma que prevean sus estatutos.
 
-- Aprobar el presupuesto de la institución.
+- f) Aprobar el presupuesto de la institución.
 
-- Darse su propio reglamento.
+- g) Darse su propio reglamento.
 
-- Las demás que le señalen la ley y los estatutos.
+- h) Las demás que le señalen la ley y los estatutos.
 
 Parágrafo. En los estatutos de cada universidad se señalarán las funciones que puedan delegarse en el Rector.
 
@@ -661,7 +659,7 @@ El Rector es el representante legal y la primera autoridad ejecutiva de la unive
 Parágrafo.  La  designación  del  Rector  de  las  instituciones  estatales  u  oficiales  que  no  tienen  el  carácter  de universidades  de  conformidad  con  la  presente  Ley  se  efectuará  por  parte  del  Presidente  de  la  República,  el Gobernador  o  el  Alcalde  según  el  caso,  de  ternas  presentadas  por  el  Consejo  Directivo.  El  Estatuto  General determinará los requisitos y calidades que deben reunir los candidatos y los procedimientos para la integración de esta terna, en los cuales deberá preverse la participación democrática de la comunidad académica.
 
 #### Artículo 67.
-Los integrantes de los Consejos Superiores o de los Consejos Directivos, según el caso, que tuvieren la calidad de empleados públicos y el Rector, estarán sujetos a los impedimentos, inhabilidades e incompatibilidades establecidas por la ley y los estatutos así como las disposiciones aplicables a los miembros de juntas o conejos directivos de las instituciones estatales u oficiales. Todos los integrantes del Consejo Superior Universitario o de los Consejos  Directivos,  en  razón  de  las  funciones  públicas  que  desempeñan,  serán responsables de las decisiones que se adopten.
+Los integrantes de los Consejos Superiores o de los Consejos Directivos, según el caso, que tuvieren la calidad de empleados públicos y el Rector, estarán sujetos a los impedimentos, inhabilidades e incompatibilidades establecidas por la ley y los estatutos así como las disposiciones aplicables a los miembros de juntas o consejos directivos de las instituciones estatales u oficiales. Todos los integrantes del Consejo Superior Universitario o de los Consejos Directivos, en razón de las funciones públicas que desempeñan, serán responsables de las decisiones que se adopten.
 
 #### Artículo  68.
 El  Consejo  Académico  es  la  máxima  autoridad  académica  de  la  institución,  estará  integrado  por  el Rector, quien lo presidirá, por una representación de los decanos de facultades, de los directores de programa, de los profesores y de los estudiantes. Su composición será determinada por los estatutos de cada institución.
@@ -669,15 +667,15 @@ El  Consejo  Académico  es  la  máxima  autoridad  académica  de  la  institu
 #### Artículo  69.
 Son  funciones  del  Consejo  Académico  en  concordancia  con  las  políticas  trazadas  por  el  Consejo Superior Universitario:
 
-- Decidir  sobre el desarrollo académico de la institución en lo relativo a docencia, especialmente en cuanto se refiere a programas académicos, a investigación, extensión y bienestar universitario.
+- a) Decidir sobre el desarrollo académico de la institución en lo relativo a docencia, especialmente en cuanto se refiere a programas académicos, a investigación, extensión y bienestar universitario.
 
-- Diseñar las políticas académicas en lo referente al personal docente y estudiantil.
+- b) Diseñar las políticas académicas en lo referente al personal docente y estudiantil.
 
-- Considerar  el  presupuesto  preparado  por  las  unidades  académicas  y  recomendarlo  al  Consejo  Superior Universitario.
+- c) Considerar el presupuesto preparado por las unidades académicas y recomendarlo al Consejo Superior Universitario.
 
-- Rendir informes periódicos al Consejo Superior Universitario.
+- d) Rendir informes periódicos al Consejo Superior Universitario.
 
-- Las demás que le señalen los estatutos.
+- e) Las demás que le señalen los estatutos.
 
 ### CAPITULO III Del personal docente y administrativo.
 
@@ -714,24 +712,24 @@ Los docentes ocasionales no son empleados públicos ni trabajadores oficiales, s
 #### Artículo 75.
 El estatuto del profesor universitario expedido por el Consejo Superior Universitario, deberá contener, entre otros, los siguientes aspectos:
 
-- Régimen de vinculación, promoción, categorías, retiro y demás situaciones administrativas.
+- a) Régimen de vinculación, promoción, categorías, retiro y demás situaciones administrativas.
 
-- Derechos, obligaciones, inhabilidades, incompatibilidades, distinciones y estímulos.
+- b) Derechos, obligaciones, inhabilidades, incompatibilidades, distinciones y estímulos.
 
-- Establecimiento de un sistema de evaluación del desempeño del profesor universitario.
+- c) Establecimiento de un sistema de evaluación del desempeño del profesor universitario.
 
-- Régimen disciplinario.
+- d) Régimen disciplinario.
 
 #### Artículo 76.
 El escalafón del profesor universitario comprenderá las siguientes categorías:
 
-- Profesor Auxiliar.
+- a) Profesor Auxiliar.
 
-- Profesor Asistente.
+- b) Profesor Asistente.
 
-- Profesor Asociado.
+- c) Profesor Asociado.
 
-- Profesor Titular.
+- d) Profesor Titular.
 
 [[END OF PAGE 16]]
 
@@ -743,7 +741,7 @@ El régimen salarial y prestacional de los profesores de las universidades estat
 #### Artículo  78.
 Lo  dispuesto  en  este  capítulo  se  aplicará  sin  perjuicio  de  las  situaciones  jurídicas  individuales consolidadas conforme a derecho.
 #### Artículo 79.
-El estatuto general de cada universidad e statal u oficial deberá contener como mínimo y de acuerdo con las normas vigentes sobre la materia, los derechos, obligaciones, inhabilidades, situaciones administrativas y régimen disciplinario del personal administrativo.
+El estatuto general de cada universidad estatal u oficial deberá contener como mínimo y de acuerdo con las normas vigentes sobre la materia, los derechos, obligaciones, inhabilidades, situaciones administrativas y régimen disciplinario del personal administrativo.
 #### Artículo 80.
 El régimen del personal docente y administrativo de las demás instituciones estatales u oficiales que no tienen el carácter de universidades de acuerdo con la presente Ley, será establecido en el Estatuto General y reglamentos respectivos, preservando exigencias de formación y calidad académica, lo mismo que la realización
 
@@ -754,11 +752,11 @@ de concursos para la vinculación de los docentes.
 #### Artículo  81.
 Créase  el  Sistema  de  Universidades  del  Estado,  integrado  por  todas  las  universidades  estatales  u oficiales el cual tendrá los siguientes objetivos:
 
-- Racionalizar y optimizar los recursos humanos, físicos, técnicos y financieros.
+- a) Racionalizar y optimizar los recursos humanos, físicos, técnicos y financieros.
 
-- Implementar  la  transferencia  de  estudiantes,  el  intercambio  de  docentes,  la  creación  o  fusión de programas académicos y de investigación, la creación de programas académicos conjuntos, y
+- b) Implementar la transferencia de estudiantes, el intercambio de docentes, la creación o fusión de programas académicos y de investigación, la creación de programas académicos conjuntos, y
 
-- Crear condiciones para la realización de evaluación en las instituciones pertenecientes al sistema.
+- c) Crear condiciones para la realización de evaluación en las instituciones pertenecientes al sistema.
 
 #### Artículo  82.
 El  Ministro  de  Educación  Nacional  reglamentará  el  funcionamiento  de  este  sistema,  según  las recomendaciones del Consejo Nacional de Educación Superior (CESU).
@@ -775,17 +773,17 @@ El gasto público en la educación hace parte del gasto público social de acuer
 #### Artículo 85.
 Los ingresos y el patrimonio de las instituciones estatales u oficiales de Educación Superior, estará constituido por:
 
-- Las partidas que se le sean asignadas dentro del presupuesto nacional, departamental, distrital o municipal.
+- a) Las partidas que le sean asignadas dentro del presupuesto nacional, departamental, distrital o municipal.
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-- Los bienes muebles e inmuebles que actualmente posean y los que adquieran posteriormente, así como sus frutos y rendimientos.
+- b) Los bienes muebles e inmuebles que actualmente posean y los que adquieran posteriormente, así como sus frutos y rendimientos.
 
-- Las rentas que reciban por concepto de matrículas, inscripciones y demás derechos.
+- c) Las rentas que reciban por concepto de matrículas, inscripciones y demás derechos.
 
-- Los bienes que como personas jurídicas adquieran a cualquier título.
+- d) Los bienes que como personas jurídicas adquieran a cualquier título.
 
 #### Artículo 86.
 Los presupuestos de las universidades nacionales, departamentales y municipales estarán constituidos por aportes del presupuesto Nacional para funcionamiento e inversión, por los aportes de los entes territoriales, por los recursos y rentas propias de cada institución.
@@ -802,20 +800,20 @@ Parágrafo. El incremento al que se refiere el presente artículo se hará para 
 #### Artículo  88.
 Con  el  objeto  de  hacer  una  evaluación  y  posteriormente  sanear  los  pasivos  correspondientes  a  las cesantías  de  las  universidades  estatales  u  oficiales,  éstas  en  un  término  no  mayor  a  seis  meses  deberán presentar  a  través  del  Instituto  Colombiano  para  el  Fomento  de  la  Educación  Superior  (Icfes)  la  información satisfactoria correspondiente.
 
-El Gobierno Nacional en un término no mayor a dos años y con la asesoría del Consejo Nacional de Educación Superior (CESU), adoptará las medidas necesarias para garantizar los aportes correspondientes del Presupuesto Nacional de los entes territoriales y de los esfuerzos de las mismas universidades.
+El Gobierno Nacional en un término no mayor a dos años y con la asesoría del Consejo Nacional de Educación Superior (CESU), adoptará las medidas necesarias para garantizar los aportes correspondientes del Presupuesto Nacional, de los entes territoriales y de los esfuerzos de las mismas universidades.
 
-Parágrafo. Facúltase a las universidades estatales u oficiales para adoptar el régimen de cesantías previsto en la Ley 50 de l990. Este se podrá acoger como obligatorio para quienes se vinculen laboralmente a la universidad a partir de la vigencia de la presente ley.
+Parágrafo. Facúltase a las universidades estatales u oficiales para adoptar el régimen de cesantías previsto en la Ley 50 de 1990. Este se podrá acoger como obligatorio para quienes se vinculen laboralmente a la universidad a partir de la vigencia de la presente ley.
 
-Con  respecto  a  quienes  ya  estuvieran  vinculados.  el  traslado  al  nuevo  régimen  quedará  al  criterio  exclusivo  del docente o funcionario.
+Con respecto a quienes ya estuvieran vinculados, el traslado al nuevo régimen quedará al criterio exclusivo del docente o funcionario.
 
 #### Artículo 89.
-Créase el Fondo de Desarrollo de la Educación Superior (Fodesep), con domicilio en la capital de la República. como una entidad de economía mixta organizada bajo los principios de la economía solidaria. En el Fondo  de  Desarrollo  de  la  Educación  Superior  (Fodesep)  podrán  participar  todas  aquellas  instituciones  de Educación Superior. tanto privadas como estatales u oficiales, que así lo deseen.
+Créase el Fondo de Desarrollo de la Educación Superior (Fodesep), con domicilio en la capital de la República, como una entidad de economía mixta organizada bajo los principios de la economía solidaria. En el Fondo de Desarrollo de la Educación Superior (Fodesep) podrán participar todas aquellas instituciones de Educación Superior, tanto privadas como estatales u oficiales, que así lo deseen.
 
 El Fondo de Desarrollo de la Educación Superior (Fodesep), tendrá las siguientes funciones:
 
-- Servir como entidad promotora de financiamiento para proyectos específicos de las instituciones de Educación Superior.
+- 1. Servir como entidad promotora de financiamiento para proyectos específicos de las instituciones de Educación Superior.
 
-- Plantear  y  promover  programas  y  proyectos  económicos  en  concordancia  con  el  desarrollo  académico  para beneficio de las instituciones de Educación Superior.
+- 2. Plantear y promover programas y proyectos económicos en concordancia con el desarrollo académico para beneficio de las instituciones de Educación Superior.
 
 [[END OF PAGE 18]]
 
@@ -828,18 +826,18 @@ El Fondo de Desarrollo de la Educación Superior (Fodesep), se conformará con l
 
 Los ingresos de este fondo se integrarán como sigue:
 
-- Con aportes que el Gobierno Nacional destine anualmente en el Presupuesto Nacional.
+- 1. Con aportes que el Gobierno Nacional destine anualmente en el Presupuesto Nacional.
 
-- Con los aportes voluntarios de las instituciones de Educación Superior afiliadas al Fondo.
+- 2. Con los aportes voluntarios de las instituciones de Educación Superior afiliadas al Fondo.
 
 #### Artículo  91.
 El Fondo de Desarrollo de la Educación Superior (Fodesep), se conformará con las instituciones de Educación Superior que voluntariamente deseen participar en él.
 
 Los ingresos de este fondo se integrarán como sigue:
 
-- Con aportes que el Gobierno Nacional destine anualmente en el presupuesto nacional.
+- 1. Con aportes que el Gobierno Nacional destine anualmente en el presupuesto nacional.
 
-- Con los aportes voluntarios de las instituciones de Educación Superior afiliadas al Fondo.
+- 2. Con los aportes voluntarios de las instituciones de Educación Superior afiliadas al Fondo.
 
 #### Artículo 92.
 Las instituciones de Educación Superior, los Colegios de Bachillerato y las instituciones de Educación No  Formal,  no  son  responsables  del  IVA.  Adicionalmente,  las  instituciones  estatales  u  oficiales  de  Educación Superior tendrán derecho a la devolución del IVA que paguen por los bienes, insumos y servicios que adquieran, mediante liquidaciones periódicas que se realicen en los términos que señale el reglamento.
@@ -848,7 +846,7 @@ Las instituciones de Educación Superior, los Colegios de Bachillerato y las ins
 
 
 #### Artículo 93.
-Salvo las excepciones consagradas en la presente ley, los contratos que para el cumplimiento de sus funciones  celebren  l as  universidades  estatales  u  oficiales,  se  regirán  por  las  normas  del  derecho  privado  y  sus efectos estarán sujetos a las normas civiles y comerciales, según la naturaleza de los contratos.
+Salvo las excepciones consagradas en la presente ley, los contratos que para el cumplimiento de sus funciones celebren las universidades estatales u oficiales, se regirán por las normas del derecho privado y sus efectos estarán sujetos a las normas civiles y comerciales, según la naturaleza de los contratos.
 
 Parágrafo. Se exceptúan de lo anterior los contratos de empréstito, los cuales se someterán a las reglas previstas para ellos por el Decreto 222 de 1983 y demás disposiciones que lo modifiquen, complementen o sustituyan.
 
@@ -871,7 +869,7 @@ Las personas naturales y jurídicas de derecho privado pueden, en los términos 
 [[START OF PAGE 20]]
 
 ### Artículo 97.
-Los particulares que pretendan fundar una institución de Educación Superior, deberán acreditar ante el Consejo Nacional de Educación Superior (CESU), que están en capacidad de cumplir la función que a aquéllas corresponde v que la enseñanza estará a cargo de personas de reconocida idoneidad ética, académica, científica y pedagógica.
+Los particulares que pretendan fundar una institución de Educación Superior, deberán acreditar ante el Consejo Nacional de Educación Superior (CESU), que están en capacidad de cumplir la función que a aquéllas corresponde y que la enseñanza estará a cargo de personas de reconocida idoneidad ética, académica, científica y pedagógica.
 
 ### Artículo 98.
 Las instituciones privadas de Educación Superior deben ser personas jurídicas de utilidad común, sin ánimo de lucro, organizadas como corporaciones, fundaciones o instituciones de economía solidaria.
@@ -882,29 +880,29 @@ El reconocimiento y la cancelación de la personería jurídica de las instituci
 ### Artículo  100.
 A  la  solicitud  de  reconocimiento  de  personería  jurídica,  deberán  acompañarse  los  siguientes documentos:
 
-- Acta de constitución y hojas de vida de sus fundadores.
+- a) Acta de constitución y hojas de vida de sus fundadores.
 
-- Los estatutos de la institución.
+- b) Los estatutos de la institución.
 
-- El estudio de factibilidad socioeconómica.
+- c) El estudio de factibilidad socioeconómica.
 
-- Los documentos que acrediten la efectividad y seriedad de los aportes de los fundadores.
+- d) Los documentos que acrediten la efectividad y seriedad de los aportes de los fundadores.
 
-- El régimen del personal docente.
+- e) El régimen del personal docente.
 
-- El régimen de participación democrática de la comunidad educativa en la dirección de la institución.
+- f) El régimen de participación democrática de la comunidad educativa en la dirección de la institución.
 
-- El reglamento estudiantil.
+- g) El reglamento estudiantil.
 
 El contenido, la forma y requisitos que deberán reunir los anteriores documentos serán señalados por el Consejo Nacional de Educación Superior (CESU).
 
-Parágrafo.  La  efectividad  de  los  aportes  se  acreditará  mediante  acta  de  recibo  suscrita  por  quienes  hayan  sido designados para ejercer las funciones de representante legal v revisor fiscal de la institución. La seriedad de los aportes  de  derechos  reales  mediante  promesa  de  transferencia  de  d ominio, estará condicionada únicamente al reconocimiento de la personería jurídica de la institución.
+Parágrafo. La efectividad de los aportes se acreditará mediante acta de recibo suscrita por quienes hayan sido designados para ejercer las funciones de representante legal y revisor fiscal de la institución. La seriedad de los aportes de derechos reales mediante promesa de transferencia de dominio, estará condicionada únicamente al reconocimiento de la personería jurídica de la institución.
 
-### Artículo 101..
-El Ministro de Educación con base en el estudio de factibilidad socio-económica presentado por la institución. previo concepto del Consejo Nacional de Educación Superior (CESU), determinará el monto mínimo de capital que garantice su adecuado y correcto funcionamiento. Para esta determinación se tendrán en cuenta, entre otros aspectos, la ubicación de la institución, el número de estudiantes y las características y naturaleza de los programas que proyecten ofrecer las instituciones.
+### Artículo 101.
+El Ministro de Educación con base en el estudio de factibilidad socio-económica presentado por la institución, previo concepto del Consejo Nacional de Educación Superior (CESU), determinará el monto mínimo de capital que garantice su adecuado y correcto funcionamiento. Para esta determinación se tendrán en cuenta, entre otros aspectos, la ubicación de la institución, el número de estudiantes y las características y naturaleza de los programas que proyecten ofrecer las instituciones.
 
 ### Artículo 102.
-El estudio de factibilidad deberá demostrar igualmente que el funcionamiento de la institución que se pretende crear estará financiado con recursos diferentes a los que se puedan obtener por concepto de matrículas, al  menos  por  un  tiempo  no  menor  a  la  mitad  de  la  terminación  de  su  primera  promoción.  Los  costos  de funcionamiento deberán estimarse según los costos por alumno y por programa.
+El estudio de factibilidad deberá demostrar igualmente que el funcionamiento de la institución que se pretende crear estará financiado con recursos diferentes a los que se puedan obtener por concepto de matrículas, al menos por un tiempo no menor a la mitad del término de duración de su primera promoción. Los costos de funcionamiento deberán estimarse según los costos por alumno y por programa.
 
 ### Artículo 103.
 Las reformas estatutarias de estas instituciones deberán notificarse para su ratificación al Ministerio de Educación Nacional por intermedio del Instituto Colombiano para el Fomento de la Educación Superior (Icfes).
@@ -916,13 +914,13 @@ Las instituciones privadas de Educación Superior se disolverán en los siguient
 
 [[START OF PAGE 21]]
 
-- Cuando  transcurridos  dos  años  contados  a  partir  de  la  fecha  de  la  providencia  que  le  otorgó  la  personería jurídica, la institución no hubiere iniciado reglamentariamente sus activi dades académicas.
+- a) Cuando transcurridos dos años contados a partir de la fecha de la providencia que le otorgó la personería jurídica, la institución no hubiere iniciado reglamentariamente sus actividades académicas.
 
-- Cuando se cancele su personería jurídica.
+- b) Cuando se cancele su personería jurídica.
 
-- Cuando ocurra alguno de los hechos previstos en los estatutos para su disolución.
+- c) Cuando ocurra alguno de los hechos previstos en los estatutos para su disolución.
 
-- Cuando se entre en imposibilidad definitiva de cumplir el objeto para el cual fue creada.
+- d) Cuando se entre en imposibilidad definitiva de cumplir el objeto para el cual fue creada.
 
 ### Artículo 105.
 Las instituciones de Educación Superior creadas por la Iglesia Católica se regirán por los términos del Concordato vigente y por las demás normas de la presente ley.
@@ -958,24 +956,24 @@ Para  proveer  y  mantener  un  adecuado  financiamiento  de  las  matrículas  
 
 Este fondo contará con los recursos provenientes de:
 
-- Rentas propias del Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior (Icetex).
+- a) Rentas propias del Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior (Icetex).
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-- Aportes del Presupuesto Nacional.
+- b) Aportes del Presupuesto Nacional.
 
-- Recursos del Ahorro Educativo.
+- c) Recursos del Ahorro Educativo.
 
-- El producto de las multas a que hace relación el artículo 48 de la presente ley.
+- d) El producto de las multas a que hace relación el artículo 48 de la presente ley.
 
-- Líneas de crédito nacional.
+- e) Líneas de crédito nacional.
 
-- Líneas de crédito internacional con el aval de la Nación.
+- f) Líneas de crédito internacional con el aval de la Nación.
 
 #### Artículo 113.
-El Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior (Icetex), a través de un fondo creado con recursos del Presupuesto Nacional, será garante de los préstamos. otorgados por el sector financiero a los estudiantes de Educación Superior de escasos recursos económicos.
+El Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior (Icetex), a través de un fondo creado con recursos del Presupuesto Nacional, será garante de los préstamos otorgados por el sector financiero a los estudiantes de Educación Superior de escasos recursos económicos.
 
 Parágrafo.  El  Gobierno  Nacional  reglamentará  esta  materia  y  establecerá  las  comisiones  que  pueda  cobrar  el Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior (Icetex) por este concepto.
 
@@ -984,13 +982,13 @@ Los  recursos  fiscales  de  la  Nación,  destinados  a  becas,  o  a  crédito
 
 Esta entidad adjudicará los créditos y las becas teniendo en cuenta, entre otros, los siguientes parámetros:
 
-- Excelencia académica.
+- a) Excelencia académica.
 
-- Escasez de recursos económicos del estudiante.
+- b) Escasez de recursos económicos del estudiante.
 
-- Distribución regional en proporción al número de estudiantes.
+- c) Distribución regional en proporción al número de estudiantes.
 
-- Distribución  adecuada  para  todas  las  áreas  del  conocimiento.  Parágrafo.  Los  recursos,  que  por  cualquier concepto,  reciban  las  distintas  entidades  del  Estado,  para  ser  utilizados  como  becas,  subsidios  o  créditos educativos,  deberán  ser  trasladados  al  Instituto  Colombiano  de  Crédito  Educativo  y Estudios  Técnicos  en  el exterior (Icetex), para que éste los adjudique de conformidad a los criterios expresados en este artículo.
+- d) Distribución adecuada para todas las áreas del conocimiento. Parágrafo. Los recursos, que por cualquier concepto, reciban las distintas entidades del Estado, para ser utilizados como becas, subsidios o créditos educativos, deberán ser trasladados al Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el exterior (Icetex), para que éste los adjudique de conformidad a los criterios expresados en este artículo.
 
 #### Artículo  115.
 El  Instituto  Colombiano  de  Crédito  Educativo  y  Estudios  Técnicos  en  el  Exterior  (Icetex),  será  la entidad  encargada  de  seleccionar  los  beneficiarios  de  las  becas  de  cooperación  internacional,  becas  de intercambio  y  las  demás  becas  internacionales  que  se  ofrezcan  a  los  colombianos  a  través  de  las  distintas entidades  públicas  del  orden  oficial.  Se  exceptúan  del  anterior  régimen,  las  becas  que  las  instituciones  de Educación Superior obtengan en forma directa. Los representantes de las entidades que reciban las ofertas de becas internacionales estarán obligados a hacerlas llegar al Icetex.
@@ -1029,9 +1027,7 @@ La  extensión  comprende  los  programas  de  educación  permanente,  cursos, 
 #### Artículo  121.
 Las  instituciones  de  Educación  Superior  que  proyecten  establecer  seccionales,  además  de  prever expresamente  esa  posibilidad  en  sus  normas  estatutarias,  deberán  obtener  autorización  del  Ministerio  de Educación  Nacional,  previa  consulta  ante  el  Consejo  Nacional  de  Educación  Superior  (CESU),  que  señalará previamente los requisitos y procedimientos para tal efecto.
 #### Artículo 122.
-Los derechos pecuniarios que por razones académicas pueden exigir las instituciones de Educación Superior, son los siguientes: a) Derechos de Inscripción. b) Derechos de Matrícula. c) Derechos por realización de exámenes de habilitación, supletorios y preparatorios. d) Derechos por la realización de cursos especiales y de educación permanente. e) Derechos de Grado. f) Derechos de expedición de certificados y constancias. Parágrafo l° Las instituciones de Educación Superior legalmente probadas fijarán el valor de todos los derechos pecuniarios de que Trata este artículo y aquellos destinados a mantener un servicio médico asistencial para los estudiantes,  los  cuales  deberán  informarse  al  Instituto  Colombiano  para  el  Fomento  de  la  Educación  Superior
-
-(Icfes) para efectos de la inspección y vigilancia, de conformidad con la presente ley.
+Los derechos pecuniarios que por razones académicas pueden exigir las instituciones de Educación Superior, son los siguientes: a) Derechos de Inscripción. b) Derechos de Matrícula. c) Derechos por realización de exámenes de habilitación, supletorios y preparatorios. d) Derechos por la realización de cursos especiales y de educación permanente. e) Derechos de Grado. f) Derechos de expedición de certificados y constancias. Parágrafo 1° Las instituciones de Educación Superior legalmente aprobadas fijarán el valor de todos los derechos pecuniarios de que trata este artículo y aquellos destinados a mantener un servicio médico asistencial para los estudiantes, los cuales deberán informarse al Instituto Colombiano para el Fomento de la Educación Superior (Icfes) para efectos de la inspección y vigilancia, de conformidad con la presente ley.
 
 [[END OF PAGE 23]]
 
@@ -1042,7 +1038,7 @@ Parágrafo  2°  Las  instituciones  de  Educación  Superior  estatales  u  ofi
 #### Artículo 123.
 El régimen del personal docente de Educación Superior será el consagrado en los estatutos de cada institución.
 
-Dicho  régimen  deberá  contemplar  al  menos  los  siguientes  aspectos:  Requisitos  de  vinculación,  s istemas de evaluación y capacitación, categorías, derechos y deberes, distinciones e incentivos y régimen disciplinario.
+Dicho régimen deberá contemplar al menos los siguientes aspectos: Requisitos de vinculación, sistemas de evaluación y capacitación, categorías, derechos y deberes, distinciones e incentivos y régimen disciplinario.
 
 #### Artículo 124.
 Las personas naturales y jurídicas que financien los estudios de sus trabajadores en instituciones de Educación Superior, para efectos tributarios podrán deducir dicho monto de sus costos de operación.
@@ -1071,16 +1067,16 @@ Las instituciones de Educación Superior podrán celebrar contratos para prestac
 Estos contratos tendrán vigilancia especial por las entidades competentes.
 
 #### Artículo 132.
-Para dar cumplimiento a los objetivos de educación cooperativa establecidos en la Ley 79 de 1988, a partir del l° de enero de 1993, por lo menos la mitad de los recursos previstos para educación, en el artículo 54 de la precitada ley, deben ser invertidos en programas académicos de Educación Superior, ofrecidos por instituciones de economía solidaria de Educación Superior autorizados legalmente.
+Para dar cumplimiento a los objetivos de educación cooperativa establecidos en la Ley 79 de 1988, a partir del 1° de enero de 1993, por lo menos la mitad de los recursos previstos para educación, en el artículo 54 de la precitada ley, deben ser invertidos en programas académicos de Educación Superior, ofrecidos por instituciones de economía solidaria de Educación Superior autorizados legalmente.
 
 #### Artículo 133.
 De acuerdo con la política de descentralización consagrada por la Constitución Política de Colombia, créanse  los  Comités  Regionales  de  Educación  Superior  (CRES),  como  organismos  asesores  del  Instituto Colombiano para el Fomento de la Educación Superior (Icfes), con las siguientes funciones:
 
-1 a . la Coordinar los esfuerzos regionales para el desarrollo de la Educación Superior regional.
+1a. Coordinar los esfuerzos regionales para el desarrollo de la Educación Superior regional.
 
-2 a Actuar  como  interlocutor  válido  para  efectos  de  discusión  y  diseño  de  políticas,  planes  y  proyectos  de Educación Superior regional.
+2a. Actuar como interlocutor válido para efectos de discusión y diseño de políticas, planes y proyectos de Educación Superior regional.
 
-3 a Contribuir en la Evaluación Compartida de programas académicos.
+3a. Contribuir en la Evaluación Compartida de programas académicos.
 
 [[END OF PAGE 24]]
 
@@ -1107,7 +1103,7 @@ Parágrafo.  El  Ministro  de  Educación  Nacional,  previo  concepto  favorabl
 
 
 #### Artículo  138.
-Mientras  se  dictan  los  nuevo,  estatutos  generales  de  las  instituciones  de  Educación  Superior, continuarán vigentes sus actuales normas estatutarias.
+Mientras se dictan los nuevos estatutos generales de las instituciones de Educación Superior, continuarán vigentes sus actuales normas estatutarias.
 
 Dentro  de  los  quince  días  siguientes  a  la  expedición  de  los  estatutos  de  cada  institución,  el  Consejo  Superior Universitario o el organismo que haga sus veces, deberá enviar al Ministerio de Educación Nacional, por conducto del  Instituto  Colombiano  para  el  Fomento  de  la  Educación  Superior  (Icfes),  copia  auténtica  de  los  mismos  para efectos de su inspección y vigilancia.
 
@@ -1130,7 +1126,7 @@ Se  faculta  al  Gobierno  Nacional  para  que  en  un  plazo  de  seis  (6)  me
 Parágrafo. Mientras se dicta el nuevo estatuto del Instituto Colombiano para el Fomento de la Educación Superior (Icfes) y el de la Universidad Nacional de Colombia, continuarán vigentes sus actuales normas estatutarias.
 
 #### Artículo 143.
-Hasta tanto el Gobierno Nacional reglamente el Consejo Nacional de Educación Superior (CESU) y reestructure el Instituto Colombiano para el Fomento de la Educación Superior (Icfes), todos los trámites que en la actualidad  surten  ante  esta  última  entidad,  las  instituciones  de  Educación  Superior  culminarán  su  proceso  de conformidad con las normas vigentes.
+Hasta tanto el Gobierno Nacional reglamente el Consejo Nacional de Educación Superior (CESU) y reestructure el Instituto Colombiano para el Fomento de la Educación Superior (Icfes), todos los trámites que en la actualidad se surten ante esta última entidad, las instituciones de Educación Superior culminarán su proceso de conformidad con las normas vigentes.
 
 #### Artículo  144.
 Esta  Ley  rige  a  partir  de  su  promulgación  y  deroga  las  disposiciones  que  le  sean  contrarias, especialmente los Decretos-leyes 80 y 81 de 1980.
