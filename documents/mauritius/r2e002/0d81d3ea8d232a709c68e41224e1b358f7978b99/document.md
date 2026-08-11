@@ -8,6 +8,172 @@ Act 39 of 1957 - 28 December 1957
 
 ### PART I - PRELIMINARY
 
+1.
+
+Short title
+
+2.
+
+Interpretation
+
+### PART II - MINISTRY OF EDUCATION AND EDUCATION AUTHORITIES
+
+3.
+
+Powers and duties of Minister
+
+4.
+
+Delegation of powers by Minister
+
+5.
+
+National Education Council
+
+5A.
+
+National Curriculum Advisory Board
+
+5B.
+
+Regional Education Boards
+
+6.
+
+Education Authorities
+
+### PART III - CONTROL AND INSPECTION OF SCHOOLS
+
+7.
+
+Exemption of certain schools
+
+7A.
+
+Powers of Private Secondary Schools Authority
+
+8.
+
+Registers to be maintained
+
+9.
+
+Registration of schools
+
+10.
+
+Grounds for refusal to register a school
+
+11.
+
+Cancellation of registration of a school
+
+11A.
+
+Private secondary schools
+
+12.
+
+Registration of managers, rectors and principals
+
+13.
+
+Refusal to register manager, rector or principal
+
+14.
+
+Grounds for cancellation
+
+15.
+
+Teaching by unauthorised persons
+
+16.
+
+Registration of a teacher
+
+17.
+
+Grounds for refusal to register a teacher
+
+18.
+
+Cancellation of registration of teacher
+
+19.
+
+Employment of uncertificated teachers
+
+20.
+
+Refusal to authorise uncertificated teacher
+
+21.
+
+Cancellation of authority to teach
+
+22.
+
+Service of notice by Minister
+
+23.
+
+Appeal against Minister’s decision
+
+24.
+
+Suspension of decision during appeal
+
+24A.
+
+Appeal from cancellation under section 14
+
+25.
+
+Appeals Tribunal
+
+26.
+
+Procedure of Tribunal
+
+27.
+
+Decision of Tribunal to be communicated
+
+28.
+
+Powers of inspection
+
+29.
+
+Power to direct remedial measures
+
+30.
+
+No legal liability in Government
+
+31.
+
+Offences and penalties
+
+### PART IV - SCHOLARSHIPS
+
+32.
+
+Award of scholarships by Minister
+
+33.
+
+State of Mauritius Scholarships
+
+33A.
+
+Additional Scholarships
+
+33B.
+
+Sir Seewoosagur Ramgoolam National Scholarships
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -82,11 +248,13 @@ In this Act-
 
 'principal' means the head of a school responsible for the control and supervision of instruction in such school;
 
-'qualified  teacher'  means  a  teacher  who  holds  at  least  the  minimum  prescribed qualifications;
+'qualified  teacher'  means  a  teacher  who  holds  at  least  the  minimum  prescribed
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+qualifications;
 
 'rector' means the head of a secondary school offering Forms I to VI classes or a Form  VI  College  responsible  for  the  control  and  supervision  of  instruction  in  such school;
 
@@ -150,7 +318,7 @@ All or any of the powers and duties conferred or imposed on the Minister by this
 
 ### 5.   National Education Council
 
-- There shall be for the purposes of this Act a National Education Council.
+(1)  There shall be for the purposes of this Act a National Education Council.
 
 (2)  The functions of the Council shall be to-
 
@@ -410,7 +578,7 @@ Inspector;
 
 (a) pedagogical inspection;
 
-(b) the setting up of the Appeals Tribunal under section 2,
+(b) the setting up of the Appeals Tribunal under section 25,
 
 these powers shall be exercisable by the Minister.
 
@@ -766,7 +934,7 @@ Any person who-
 
 shall  commit  an  offence  and  shall,  on  conviction,  be  liable  to  a  fine  not  exceeding  500 rupees and to imprisonment for a term not exceeding 6 months.
 
-[S. 14 amended by s. 10 of Act 49 of 2002.]
+[S. 31 amended by s. 10 of Act 49 of 2002.]
 
 ## PART IV - SCHOLARSHIPS
 
@@ -884,7 +1052,7 @@ The  Minister  may  order  any  school  to  be  closed  for  an  indefinite  per
 
 (a) a primary or secondary school registered under this Act; or
 
-(b) such  institution  as  may  be  authorised  by  the  Minister  to  run  the  prevocational course.
+(b) such  institution  as  may  be  authorised  by  the  Minister  to  run  the  pre-vocational course.
 
 [S. 37 amended by Act 10 of 1991; repealed and replaced by s. 3 (b) of Act 44 of 2004.]
 
@@ -1012,7 +1180,7 @@ Signed  ..............................................................
 
 Particulars
 
-(a)  Proposed name of school  .................................................................................................
+1. (a)  Proposed name of school  .................................................................................................
 
 (b)  Proposed address of school ..............................................................................................
 
@@ -1064,33 +1232,33 @@ lessee..........................................................................
 
 .......................................................................................................................................
 
-† I attach an application for registration as manager of the school.
+2. † I attach an application for registration as manager of the school.
 
-†† I attach copies of the certificates of registration of the following teachers-
-
-..............................................................................................................................................
-
-..............................................................................................................................................
-
-*I attach applications to employ the following uncertificated persons as teachers-
+3. †† I attach copies of the certificates of registration of the following teachers-
 
 ..............................................................................................................................................
 
 ..............................................................................................................................................
 
-- I attach plan or diagram of the school premises (with dimensions).
+4. *I attach applications to employ the following uncertificated persons as teachers-
 
-- I attach the proposed syllabus of each class.
+..............................................................................................................................................
 
-- I attach the proposed school time-table.
+..............................................................................................................................................
 
-- The contents of these particulars and attached documents are true to the best of my knowledge, information and belief.
+5. I attach plan or diagram of the school premises (with dimensions).
+
+6. I attach the proposed syllabus of each class.
+
+7. I attach the proposed school time-table.
+
+8. The contents of these particulars and attached documents are true to the best of my knowledge, information and belief.
 
 Signed  ..............................................................
 
 Applicant
 
-- Delete whichever is inapplicable.
+* Delete whichever is inapplicable.
 
 † To be completed on Form 3.
 
@@ -1142,9 +1310,9 @@ School .........................................................................
 
 Address .......................................................................................................................................
 
-- I submit particulars of and request you to register me as manager, rector or principal of the above-mentioned school.
+1. I submit particulars of and request you to register me as manager, rector or principal of the above-mentioned school.
 
-- Particulars-
+2. Particulars-
 
 (a)  Name..............................................................................................................................
 
@@ -1156,7 +1324,7 @@ Address ........................................................................
 
 (e)  Educational qualifications................................................................................................
 
-**The following persons may be referred to, as to my character and suitability to become a manager, rector or principal:
+3. **The following persons may be referred to, as to my character and suitability to become a manager, rector or principal:
 
 (a)  Name  ...........................  Address ...................................................................................
 
@@ -1166,9 +1334,9 @@ Address ........................................................................
 
 Signature of applicant
 
-- Delete whichever is inapplicable.
+* Delete whichever is inapplicable.
 
-** † We declare that the applicant-
+**† We declare that the applicant-
 
 (a)  is resident in Mauritius;
 
@@ -1186,7 +1354,7 @@ Signed  ..............................................................
 
 Signed  ..............................................................
 
-- Two referees are required. They must be persons of standing.
+* Two referees are required. They must be persons of standing.
 
 † If applicant has been convicted of a crime or offence involving fraud or dishonesty, the full circumstances must be disclosed.
 
@@ -1208,13 +1376,13 @@ Permanent Secretary,
 
 Ministry of Education.
 
-- I submit particulars of myself and request you to register me as a teacher and to issue me with a certificate of registration.
+1. I submit particulars of myself and request you to register me as a teacher and to issue me with a certificate of registration.
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-- Particulars-
+2. Particulars-
 
 (a)  Full name........................................................................................................................
 
@@ -1238,13 +1406,13 @@ To
 
 (h)  Previous teaching experience ..........................................................................................
 
-- I attach-
+3. I attach-
 
 (a)  2 signed photographs of myself;
 
 (b)  my educational certificates.
 
-- The following persons may be referred to as to my character-
+4. The following persons may be referred to as to my character-
 
 (a)  Name  ...........................  Address ...................................................................................
 
@@ -1254,7 +1422,7 @@ To
 
 Signature of applicant
 
-• We declare that the applicant is a person of good character and that the contents of this application are true to the best of our knowledge, information and belief.
+* We declare that the applicant is a person of good character and that the contents of this application are true to the best of our knowledge, information and belief.
 
 Signed  ..............................................................
 
@@ -1291,17 +1459,15 @@ Address .............................................
 
 Date ..................................................
 
-Date ..................................................
-
 Permanent Secretary,
 
 Ministry of Education.
 
-- I hereby request authority to employ ................as an uncertificated teacher at ........................
+1. I hereby request authority to employ ................as an uncertificated teacher at ........................
 
-- I submit his/her particulars and request you to issue an authority under section 19 of the Education Act.
+2. I submit his/her particulars and request you to issue an authority under section 19 of the Education Act.
 
-- Particulars-
+3. Particulars-
 
 (a)  Full name........................................................................................................................
 
@@ -1335,7 +1501,7 @@ To
 
 (h)  2 passport size photographs.
 
-- In my  there is no suitable qualified teacher available for employment.
+4. In my opinion there is no suitable qualified teacher available for employment.
 
 .................................................  Manager
 
