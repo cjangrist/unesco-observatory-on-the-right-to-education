@@ -28,13 +28,13 @@ State (21 articles)
 
 Chapter Two:
 
-Fundamental Rights and Duties of Citizens (38 arti cles)
+Fundamental Rights and Duties of Citizens (38 articles)
 
 Chapter Three:
 
-Chapter Four:
-
 The President (11 articles)
+
+Chapter Four:
 
 Government (10 articles)
 
@@ -912,7 +912,7 @@ The  National  Assembly  shall  hold  two  regular  sessions  annually.   The  t
 
 ## Article One Hundred Eight
 
-In cases of death, resignation, and dismissal of a member of the National Assembly or disability or  handicap,  which  impedes  permanent  performance  of  duty,  the  placement  of  the  new representative  for  the  remaining  period  of  the  legislative  term  shall  be  in  accordance  with provisions of the law.  Matters related to the presence and absence of members of the National Assembly shall be regulated by the Internal Duties Statute.
+In cases of death, resignation, and dismissal of a member of the National Assembly or disability or handicap, which impedes permanent performance of duty, the placement of the new representative for the remaining period of the legislative term shall be in accordance with
 
 29
 
@@ -921,6 +921,8 @@ In cases of death, resignation, and dismissal of a member of the National Assemb
 [[START OF PAGE 30]]
 
 Islamic Republic of Afghanistan                                                                                     The Constitution
+
+provisions of the law. Matters related to the presence and absence of members of the National Assembly shall be regulated by the Internal Duties Statute.
 
 ## Article One Hundred Nine
 
@@ -1030,7 +1032,7 @@ Islamic Republic of Afghanistan                                                 
 
 Members of the Supreme Court shall take the following oath of office  in  the  presence  of  the President:
 
-'In the of God, Most Gracious, Most Merciful, I swear in the name of God Almighty to attain justice and righteousness in accordance with tenets of the Holy religion of Islam, provisions of this  Constitution  as  well  as  other  laws  of  Afghanistan,  and  to  execute  the  judicial  duty  with utmost honesty, righteousness and impartiality.'
+“In the name of God, Most Gracious, Most Merciful, I swear in the name of God Almighty to attain justice and righteousness in accordance with tenets of the Holy religion of Islam, provisions of this Constitution as well as other laws of Afghanistan, and to execute the judicial duty with utmost honesty, righteousness and impartiality.”
 
 ## Article One Hundred Twenty
 
@@ -1082,7 +1084,7 @@ In issuing decision, the court is obligated to state the reason for its verdict.
 
 ## Article One Hundred Thirty
 
-In cases under consideration, the courts shall apply provisions of this Constitution as well as other laws.  If there is no provision in the Constitution or other laws about a case, the courts shall, in pursuance of Hanafi jurisprudence, and, within the limits set by this Constitution, rule in a way that attains justice in the best manner.
+In cases under consideration, the courts shall apply provisions of this Constitution as well as other laws. If there is no provision in the Constitution or other laws about a case, the courts
 
 35
 
@@ -1091,6 +1093,8 @@ In cases under consideration, the courts shall apply provisions of this Constitu
 [[START OF PAGE 36]]
 
 Islamic Republic of Afghanistan                                                                                     The Constitution
+
+shall, in pursuance of Hanafi jurisprudence, and, within the limits set by this Constitution, rule in a way that attains justice in the best manner.
 
 ## Article One Hundred Thirty-One
 
@@ -1138,7 +1142,7 @@ There  shall  be  a  provincial  council  in  every  province.   Members  of  th
 
 ## Article One Hundred Thirty-Nine
 
-The provincial council shall participate in the attainment of the development objectives of the state and improvement of the affairs of the province in the manner prescribe by laws, and shall advise the provincial administrations on related issues.  The provincial assembly council shall perform its duties with the cooperation of the provincial administration.
+The provincial council shall participate in the attainment of the development objectives of the state and improvement of the affairs of the province in the manner prescribe by laws, and shall
 
 37
 
@@ -1147,6 +1151,8 @@ The provincial council shall participate in the attainment of the development ob
 [[START OF PAGE 38]]
 
 Islamic Republic of Afghanistan                                                                                     The Constitution
+
+advise the provincial administrations on related issues. The provincial assembly council shall perform its duties with the cooperation of the provincial administration.
 
 ## Article One Hundred Forty
 
@@ -1318,7 +1324,7 @@ The  first  President-Elect  shall,  according  to  provisions  of  this  Consti
 
 ## Article One Hundred Sixty-One
 
-Immediately after inauguration, the National Assembly shall exercise its powers in accordance with the provisions of this Constitution.  After inauguration of the first session of the National Assembly, within thirty days, the government as well as the Supreme Court shall be inaugurated in accordance with the provisions of the Constitution.  The President of the Islamic Transitional Government of  Afghanistan  shall  perform  his  duties  until  the  inauguration  of  the  PresidentElect.  The executive and judicial organs of the state, in accordance with Clause Four of Article One  Hundred  Fifty-Nine  of  this  Constitution,  shall  continue  with  their  duties  pending  the formation of the government as well as the Supreme Court.  Legislative decrees enforced from the  beginning  of  the  interim  period  shall  be  referred  to  the  first  session  of  the  National Assembly.  These decrees shall be enforceable unless annulled by the National Assembly.
+Immediately after inauguration, the National Assembly shall exercise its powers in accordance with the provisions of this Constitution. After inauguration of the first session of the National Assembly, within thirty days, the government as well as the Supreme Court shall be inaugurated in accordance with the provisions of the Constitution. The President of the Islamic Transitional Government of Afghanistan shall perform his duties until the inauguration of the President-Elect. The executive and judicial organs of the state, in accordance with Clause Four of Article One Hundred Fifty-Nine of this Constitution, shall continue with their duties pending the formation of the government as well as the Supreme Court. Legislative decrees enforced from the beginning of the interim period shall be referred to the first session of the National Assembly. These decrees shall be enforceable unless annulled by the National Assembly.
 
 ## Article One Hundred Sixty-Two
 
