@@ -6,7 +6,7 @@
 
 ## Contextual Framework
 
- 'Every person - child, youth and adult - shall be able to benefit from educational opportunities designed to meet their basic learning needs. These needs comprise both essential learning tools (such as literacy, oral expression, numeracy, and problem solving) and the basic learning content (such as knowledge, skills, values, and attitudes) required by human beings to be able to survive, to develop their full capacities, to live and work in dignity, to participate fully in development, to improve the quality of their lives, to make informed decisions, and to continue learning….
+ “Every person - child, youth and adult - shall be able to benefit from educational opportunities designed to meet their basic learning needs. These needs comprise both essential learning tools (such as literacy, oral expression, numeracy, and problem solving) and the basic learning content (such as knowledge, skills, values, and attitudes) required by human beings to be able to survive, to develop their full capacities, to live and work in dignity, to participate fully in development, to improve the quality of their lives, to make informed decisions, and to continue learning….
 
 (World Declaration on Education for All. ARTICLE I )
 
@@ -22,7 +22,7 @@
 
 The major interventions include:
 
- The Social Sector Development Project (1992-1995) which focused on improved teacher instruction and community participation.
+ The Social Sector Development Project (1992–1995) which focused on improved teacher instruction and community participation.
 
  The GOJ/IADB Primary Education Improvement Project II (PEIP II, 1994-1998):
 
@@ -30,15 +30,15 @@ The major interventions include:
 
  Development of the National Assessment Programme (N.A.P)
 
- Production of 'High Interest' materials
+ Production of “High Interest” materials
 
  In-service training of Resource Teachers
 
  The GOJ/DIFID Jamaica All-Age Schools Project (JAASP, 1998-2002)
 
- The GOJ/USAID New Horizons for Primary Schools Project (1998- 2005) provided, among other things, technical support in Numeracy and Literacy Teaching and Learning in 72 schools.
+ The GOJ/USAID New Horizons for Primary Schools Project (1998–2005) provided, among other things, technical support in Numeracy and Literacy Teaching and Learning in 72 schools.
 
- The GOJ/IADB Primary Education Support Project (PESP) through - development of Literacy 1-2-3
+ The GOJ/IADB Primary Education Support Project (PESP) through – development of Literacy 1-2-3
 
  The GOJ/USAID Expanding Educational Horizons Project aimed at raising Literacy levels of Grades 1- 4 students in 71 Primary Schools.
 
@@ -51,7 +51,8 @@ The major interventions include:
 National Assessment 2010 | Results
 --- | ---
 Grade 4 Literacy | 65%
-Grade 6: Language Arts Communication Task | 59% 7
+Grade 6: Language Arts Communication Task | 59%
+ | 7
 
 2
 
@@ -63,7 +64,7 @@ Grade 6: Language Arts Communication Task | 59% 7
 
 ## Contradiction
 
- '…By far the most serious problem is students' reading abilities. Deficient reading starts in the lower primary grades and continues to build, year-on-year. Poor reading abilities are concentrated among boys. By the time students reach grade 6, 30 percent of students read below their grade level. By Grade 9 a huge divide has occurred -large numbers of students, especially boys, cannot read or write, and because of their reading deficiency, they cannot learn the content of various subjects…'
+ “…By far the most serious problem is students’ reading abilities. Deficient reading starts in the lower primary grades and continues to build, year-on-year. Poor reading abilities are concentrated among boys. By the time students reach grade 6, 30 percent of students read below their grade level. By Grade 9 a huge divide has occurred – large numbers of students, especially boys, cannot read or write, and because of their reading deficiency, they cannot learn the content of various subjects…”
 
 Source: Task Force on Educational Reform (2004)
 
@@ -87,7 +88,7 @@ Source: Task Force on Educational Reform (2004)
 
 To support the policies the Ministry has moved to consolidate all its efforts in the:
 
-' National Comprehensive Literacy Strategy 2010'
+“National Comprehensive Literacy Strategy 2010”
 
 ## Response
 
@@ -129,29 +130,29 @@ The Strategy is intended to:
 
 The National Comprehensive Literacy Strategy is reinforced by 12 pillars:
 
-- Age-defined  Taxonomy of Reading Competencies
+1. Age-defined Taxonomy of Reading Competencies
 
-- Prescribed National Primary Curriculum
+2. Prescribed National Primary Curriculum
 
-- Defined Literacy Standards and Benchmarks
+3. Defined Literacy Standards and Benchmarks
 
-- Standardized National Assessment Programme
+4. Standardized National Assessment Programme
 
-- Prescribed Mechanism for Transitioning to the Secondary Level
+5. Prescribed Mechanism for Transitioning to the Secondary Level
 
-- Sustained Parental Involvement
+6. Sustained Parental Involvement
 
-- Structured  Specialist  Support  to Classroom Teachers
+7. Structured Specialist Support to Classroom Teachers
 
-- Expanded  Support for Special Education
+8. Expanded Support for Special Education
 
-- Enforced System of Accountability
+9. Enforced System of Accountability
 
-- Structured Stakeholder Involvement
+10. Structured Stakeholder Involvement
 
-- Targeted External Funding and Stakeholder Involvement
+11. Targeted External Funding and Stakeholder Involvement
 
-- Targeted Literacy Campaign
+12. Targeted Literacy Campaign
 
 5
 
@@ -163,13 +164,39 @@ The National Comprehensive Literacy Strategy is reinforced by 12 pillars:
 
 ## Pillar 1
 
+### Taxonomy of Reading Literacy
+
+#### Five Steps to the Top
+
+#### Key Attributes of the Reader
+
+Level 5
+Advanced Reading
+(12 Years Old and Upwards)
+
+Level 4
+Exploratory Reading
+(10 - 11 Years Old)
+
+Level 3
+Independent Reading
+(8 - 9 Years Old)
+
+Level 2
+Developmental Reading
+(6 - 7 Years Old)
+
+Level 1
+Emergent Reading
+(3 - 5 Years Old)
+
+Back
+
 ## Pillar 2
 
 The curriculum model with its greater emphasis on problem solving and creativity skills as well as its recognition of accepted learning theories, comes at a time when there is a call for higher levels of student achievement and attainment. This call is forcing upon schools, the need to implement a strong curriculum ….. Such levels must be benchmarked against the existing educational standards that are well defined and perceptively consistent with demands of a knowledge based learning environment.
 
 Wesley E. Barrett 1999
-
-Back
 
 6
 
@@ -179,6 +206,18 @@ Back
 
 4/18/2011
 
+REVISED PRIMARY CURRICULUM
+GRADES 1-3
+
+MINISTRY OF EDUCATION AND CULTURE
+JAMAICA
+
+REVISED PRIMARY CURRICULUM
+GRADE 5
+
+MINISTRY OF EDUCATION AND CULTURE
+JAMAICA
+
 ## Pillar 2
 
 ### Literacy K, 1-2-3
@@ -187,7 +226,7 @@ Back
 
 Provided Free of cost under the
 
-'Primary Text Book Programme':
+“Primary Text Book Programme”:
 
 - Curriculum Guide
 
@@ -205,6 +244,11 @@ Provided Free of cost under the
 
 - Activity Books
 
+Goldie, a golden yellow chick.
+Larry, a chick with purple polka dots,
+
+3
+
 7
 
 [[END OF PAGE 7]]
@@ -213,17 +257,19 @@ Provided Free of cost under the
 
 4/18/2011
 
+## Pillar 2
+
 ### Literacy 4-5-6
 
 #### Materials:
 
 Provided Free of cost
 
-under the 'Primary
+under the “Primary
 
 Text Book
 
-Programme':
+Programme”:
 
 - Curriculum Guide
 
@@ -233,15 +279,30 @@ Programme':
 
 - Reading Books
 
-- Handbook for literacy Teaching 7 Learning
+- Handbook for literacy Teaching & Learning
 
 - Quick Reference Guide
 
-- Literacy  Standards Grades 1-6
+- Literacy Standards Grades 1-6
 
-## Pillar 2
+MINISTRY OF EDUCATION
+LITERACY 4-5-6
+with a focus on
+Reading for Grades 4-6
+A COMPANION DOCUMENT TO
+THE REVISED PRIMARY CURRICULUM
+MINISTRY OF EDUCATION, JAMAICA
+JULY 2000
 
 Back
+
+MINISTRY OF EDUCATION
+LITERACY STANDARDS
+FOR
+GRADES 1 - 6
+National Literacy Programme
+Ministry of Education
+July 2009
 
 8
 
@@ -255,7 +316,7 @@ Back
 
 ### Standards are defined as:
 
-'Statements that explain what all students are expected to know and be able to do in different content strands by the time they complete primary schooling. Standards establish rights, consistency, public knowledge and principles for learning and teaching in schools .'
+“Statements that explain what all students are expected to know and be able to do in different content strands by the time they complete primary schooling. Standards establish rights, consistency, public knowledge and principles for learning and teaching in schools.”
 
 ### Literacy Standards:
 
@@ -267,11 +328,13 @@ Back
 
  Students use elements of the writing process effectively and are able to employ a wide range of strategies to communicate to different audiences for a variety of purposes
 
+I READ TO SUCCEED
+
 ## Pillar 3
 
  Students apply knowledge of language structure and language conventions to create, critique and discuss print and non-print texts.
 
- Students engage in active listening for a variety of purposes .
+ Students engage in active listening for a variety of purposes.
 
  Students recognize and make distinctions between home language and language of texts to improve/ acquire language and literacy competencies
 
@@ -301,15 +364,19 @@ Back
 
  Grade 6: Grade Six Achievement Test
 
+Back
+
 ## Pillar 5
+
+LITERACY
 
 ### Competence-Based Transition Policy:
 
- Each child must be certified literate on the Grade 4 Literacy Test to be eligible to sit  the Grade Six Achievement Test for transition to secondary level
+ Each child must be certified literate on the Grade 4 Literacy Test to be eligible to sit the Grade Six Achievement Test for transition to secondary level
 
  Each child will be provided with four (4) opportunities to be certified literate
 
-Every Child Can Learn ... Every Child Must Learn Back
+Every Child Can Learn ... Every Child Must Learn
 
 10
 
@@ -319,13 +386,15 @@ Every Child Can Learn ... Every Child Must Learn Back
 
 4/18/2011
 
+### PROFICIENCY PATHWAYS: A GUIDE FOR LITERACY INSTRUCTION AND INTERVENTION
+
 Back
 
 ## Pillar 6
 
 Parental Involvement: The Ministry of Education will establish the National Parent Support Commission (NPSC). The NPSC will be guided by the following:
 
- ' All parents in Jamaica - by birth, adoption or guardianship - recognize and accept their duty to ensure that the rights of the child are always upheld, the best interest of the child is always promoted and the child is always loved and provided with opportunities and resources, within a safe, caring and nurturing environment, to achieve his/her full potential and ultimate fulfilment.'
+ “All parents in Jamaica - by birth, adoption or guardianship - recognize and accept their duty to ensure that the rights of the child are always upheld, the best interest of the child is always promoted and the child is always loved and provided with opportunities and resources, within a safe, caring and nurturing environment, to achieve his/her full potential and ultimate fulfilment.”
 
 Back
 
@@ -353,7 +422,7 @@ Back
 
  Senior Education Officers and Territorial Education Officers  build leadership and management capacity of school leaders (Principals and School Boards) to support literacy and numeracy development
 
- Literacy and Numeracy Teams in targeted schools ( Principal, SchoolBased Literacy and Numeracy Coordinators) lead the development and monitoring of the School Improvement Plan
+ Literacy and Numeracy Teams in targeted schools ( Principal, School-Based Literacy and Numeracy Coordinators) lead the development and monitoring of the School Improvement Plan
 
  Territorial Education Officers support Principals in effectively implementing and monitoring individual School Improvement Plans
 
@@ -383,7 +452,7 @@ Back
 
  According to UNESCO and the WHO, 10 to 12 percent of each age cohort has a disability. Currently only 2,500 students are enrolled in Government and Government-aided Special Education programmes. This represents only 0.34 percent of the school population. Most of the others are in the mainstream education school system and are therefore at risk.
 
- In its 1994 study on 'Growing up Gifted in Jamaica', the National Task Force on the Education of the Exceptionally Gifted reported that between 2.5 and 3.0 percent of Jamaica's population may safely be designated gifted and/or talented. However, less than 200 persons are identified annually.
+ In its 1994 study on “Growing up Gifted in Jamaica”, the National Task Force on the Education of the Exceptionally Gifted reported that between 2.5 and 3.0 percent of Jamaica’s population may safely be designated gifted and/or talented. However, less than 200 persons are identified annually.
 
 13
 
@@ -507,15 +576,15 @@ Learn...
 
 ### The campaign objectives are to:
 
-- o develop a national understanding of literacy and promote the Ministry's Literacy Programmes
+- develop a national understanding of literacy and promote the Ministry's Literacy Programmes
 
-- o develop an awareness in stakeholders, of the Ministry of Education's literacy programmes
+- develop an awareness in stakeholders, of the Ministry of Education's literacy programmes
 
-- o encourage families to read more, in order to increase their literacy skills
+- encourage families to read more, in order to increase their literacy skills
 
-- o encourage parents to aid in the improvement of their children's literacy skills
+- encourage parents to aid in the improvement of their children's literacy skills
 
-- o garner stakeholder support and sponsorship of the Ministry's literacy programmes
+- garner stakeholder support and sponsorship of the Ministry's literacy programmes
 
 The campaign will target Students, Parents and Communities, in partnership with Teachers, Parents, Media, Private Sector, Church, Publishers, Librarians/Libraries, Book Merchants, SDC, NYS, NCYD, ECC, NPTAJ, CBP NPSC Agencies/IDPs which promote literacy/reading.
 
