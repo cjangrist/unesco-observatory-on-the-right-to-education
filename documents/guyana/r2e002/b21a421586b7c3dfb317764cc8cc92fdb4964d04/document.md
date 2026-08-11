@@ -2,7 +2,7 @@
 
 LAWS OF GUYANA
 
-Education 3 Cap. 39:01
+Education Cap. 39:01 3
 
 # CHAPTER 39:01
 
@@ -12,43 +12,43 @@ Education 3 Cap. 39:01
 
 SECTION
 
-- Short title.
-
-- Interpretation.
-
-#### THE EDUCATION DEPARTMENT
-
-- Appointment of Officers.
-
-- Annual report on elementary education.
-
-- Power to inspect schools receiving public money.
-
-- Reference  of   complaints  against   teacher  to  magistrate  for investigation.
-
-- Power to cancel certificate in certain cases.
-
-- Consequence of cancellation or suspension.
-
-#### EDUCATIONAL  DISTRICTS
-
-- Declaration of educational districts.
-
-#### ATTENDANCE OFFICERS
-
-- Appointment.
-
-- Duties of attendance officer.
-
-- Attendance  officer  may  enter  premises  at  certain times and make inquiries.
-
-#### PROVISIONS FOR ENFORCING ELEMENTARY EDUCATION OF CHILDREN
-
-- Duty of parent to educate child.
+1. Short title.
 
 ## PART I
 
-### ELEMENTARY  EDUCATION
+### ELEMENTARY EDUCATION
+
+2. Interpretation.
+
+#### THE EDUCATION DEPARTMENT
+
+3. Appointment of Officers.
+
+4. Annual report on elementary education.
+
+5. Power to inspect schools receiving public money.
+
+6. Reference of complaints against teacher to magistrate for investigation.
+
+7. Power to cancel certificate in certain cases.
+
+8. Consequence of cancellation or suspension.
+
+#### EDUCATIONAL DISTRICTS
+
+9. Declaration of educational districts.
+
+#### ATTENDANCE OFFICERS
+
+10. Appointment.
+
+11. Duties of attendance officer.
+
+12. Attendance officer may enter premises at certain times and make inquiries.
+
+#### PROVISIONS FOR ENFORCING ELEMENTARY EDUCATION OF CHILDREN
+
+13. Duty of parent to educate child.
 
 L.R.O. 3/1998
 
@@ -56,120 +56,115 @@ L.R.O. 3/1998
 
 [[START OF PAGE 2]]
 
-4
+LAWS OF GUYANA
 
-Cap. 39:01
+4 Cap. 39:01 Education
 
 SECTION
 
-- Proceedings against parent omitting to educate child.
+14. Proceedings against parent omitting to educate child.
 
-- Proceedings  with  respect  to child found habitually wandering or not under control.
+15. Proceedings with respect to child found habitually wandering or not under control.
 
-- Proceedings    on    disobedience  of   magistrate's   order   for attendance at school.
+16. Proceedings on disobedience of magistrate’s order for attendance at school.
 
 #### EMPLOYMENT OF CHILDREN
 
-- Restriction on employment of children.
+17. Restriction on employment of children.
 
-- Employer of child working on plantation.
+18. Employer of child working on plantation.
 
-- Exemption of employer on proof of guilt of some other person.
+19. Exemption of employer on proof of guilt of some other person.
 
-- Employment of child in contravention of the Act.
+20. Employment of child in contravention of the Act.
 
-- Wilfully making false representation as to age of child.
+21. Wilfully making false representation as to age of child.
 
-- Application of sections 13 to 16.
+22. Application of sections 13 to 16.
 
 #### INDUSTRIAL SCHOOLS
 
-- Teacher's power of detention over children.
+23. Teacher’s power of detention over children.
 
-- Employment of children at industrial school.
+24. Employment of children at industrial school.
 
-- Provision for children required to attend school for part only of a day.
+25. Provision for children required to attend school for part only of a day.
 
-- Execution of order requiring child to be sent to school.
+26. Execution of order requiring child to be sent to school.
 
 #### SCHOOL FEES
 
-- No fees in certain cases.
+27. No fees in certain cases.
 
 #### GOVERNMENT SCHOOLS
 
-- Establishment of government schools.
+28. Establishment of government schools.
 
-- Certain aided schools to be deemed to be government schools.
+29. Certain aided schools to be deemed to be government schools.
 
-- Accountability for grants and handing over of records.
+30. Accountability for grants and handing over of records.
 
-- Right of access to school.
+31. Right of access to school.
 
-- Provision of system of education.
+32. Provision of system of education.
 
-- Certain aided schools to become government schools.
-
-LAWS OF GUYANA
-
-Education
+33. Certain aided schools to become government schools.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- Procedure.
+LAWS OF GUYANA
 
-- Exemption from payment of fees for process.
+Education Cap. 39:01 5
 
-- Power to grant warrant to examine place in certain cases.
+#### PROOF OF AGE OF CHILD, ETC.
 
-- Power to amend forms.
+SECTION
+
+34. Power in certain cases to estimate age of child.
+
+35. Certificates of birth.
+
+36. School receiving government grant to be deemed efficient.
+
+37. Regulations as to legal proceedings.
+
+38. Forgery of, and use of forged, certificate made evidence.
+
+#### LEGAL PROCEDURE
+
+39. Procedure.
+
+40. Exemption from payment of fees for process.
+
+41. Power to grant warrant to examine place in certain cases.
+
+42. Power to amend forms.
 
 ## PART II
 
 ### NATIONAL COUNCIL FOR EDUCATION
 
-- Constitution of National Council for Education.
+43. Constitution of National Council for Education.
 
-- Functions of the Council.
+44. Functions of the Council.
 
-- Extraordinary meetings of the Council.
+45. Extraordinary meetings of the Council.
 
-- Appointment of Secretary.
+46. Appointment of Secretary.
 
 ## PART III
 
 ### GENERAL
 
-- Regulations.
+47. Regulations.
 
-FIRST SCHEDULE-Forms. SECOND SCHEDULE-Name of school.
+FIRST SCHEDULE—Forms.
+
+SECOND SCHEDULE—Name of school.
 
 ___________
-
-LAWS OF GUYANA
-
-Education
-
-#### PROOF OF AGE OF CHILD, ETC.
-SECTION
-
-- Power in certain cases to estimate age of child.
-
-- Certificates of birth.
-
-- School receiving government grant to be deemed efficient.
-
-- Regulations as to legal proceedings.
-
-- Forgery of, and use of forged, certificate made evidence.
-
-#### LEGAL PROCEDURE
-
-Cap. 39:01
-
-5
 
 L.R.O. 3/1998
 
@@ -179,18 +174,53 @@ L.R.O. 3/1998
 
 LAWS OF GUYANA
 
-6 | Education Cap. 39:01
---- | ---
-1929 Ed. c. 196 1953 Ed. c. 91 ________________ |
+6 Cap. 39:01 Education
+
+1929 Ed.
+c. 196
+1953 Ed.
+c. 91
+________________
+3 of 1876
+
 # CHAPTER 39:01
+
 # EDUCATION ACT
-AN ACT to make better provision for the promotion of education
-Short title. | l. This Act may be cited as the Education Act.
+
+AN ACT to make better provision for the promotion of education in Guyana.
+
+[3RD FEBRUARY, 1877]
+
+Short title.
+
+1. This Act may be cited as the Education Act.
+
 ## PART I
+
 ### ELEMENTARY EDUCATION
-Interpretation. [26 of 1949 | 2. In this Part of this Act- 'aided school' means an elementary school the managers of which receive any grant-in-aid from public funds; 'attendance officer' means an officer appointed to carry out the provisions of this Act in any educational district; 'authorised person' means anyone who under this Act has and is entrusted with the same rights, powers, privileges and functions as an attendance officer;
-3 of 1961 4 of 1972 1 of 1975 O. 80/1980]
-c. 1:01 | 'the Commission' means the Teaching Service Commission established by article 136(1) of the Constitution; 'education officer' includes senior education officer, education officer and assistant education officer; 'elementary school' means a school, or department of a school, at which elementary education is the principal part of the education there given;
+
+Interpretation.
+[26 of 1949
+3 of 1961
+4 of 1972
+1 of 1975
+O. 80/1980]
+
+2. In this Part of this Act—
+
+“aided school” means an elementary school the managers of which receive any grant-in-aid from public funds;
+
+“attendance officer” means an officer appointed to carry out the provisions of this Act in any educational district;
+
+“authorised person” means anyone who under this Act has and is entrusted with the same rights, powers, privileges and functions as an attendance officer;
+
+c. 1:01
+
+“the Commission” means the Teaching Service Commission established by article 136(1) of the Constitution;
+
+“education officer” includes senior education officer, education officer and assistant education officer;
+
+“elementary school” means a school, or department of a school, at which elementary education is the principal part of the education there given;
 
 [[END OF PAGE 4]]
 
@@ -246,7 +276,7 @@ Education
 
 #### THE EDUCATION DEPARTMENT
 
-3. (l) There shall be a Chief Education Officer and a Deputy Chief Education Officer and one or more senior education officers.
+3. (1) There shall be a Chief Education Officer and a Deputy Chief Education Officer and one or more senior education officers.
 
 (2) The Deputy Chief Education Officer may exercise all such powers and perform all such duties of the Chief Education Officer, as may be authorised by the Chief Education Officer.
 
@@ -270,29 +300,36 @@ Cap. 39:01
 
 Education
 
-(3) The  magistrate  shall  transmit  to  the  Commission  the evidence taken by him, with a report of what in his opinion is the effect and weight thereof.
+(3) The magistrate shall transmit to the Commission the evidence taken by him, with a report of what in his opinion is the effect and weight thereof.
 
-7. If  any  teacher  holding  a  certificate  granted  by  the  Chief Education Officer or other authority in Guyana is, in the opinion of the magistrate and the Commission, guilty of immoral conduct as teacher or otherwise, or of cruel or improper treatment of any of the children or pupils under his charge, the Chief Education Officer, acting on the advice of the Commission, may cancel the certificate or suspend the operation thereof for any time to him seeming meet.
+Power to cancel certificate in certain cases.
+[1 of 1975]
 
-8. No teacher whose certificate has been cancelled or suspended shall be employed in any aided school until, in the case of suspension, the period of suspension has expired, or, in the case of cancellation, the Chief Education Officer on the advice of the Commission has issued a new certificate to the teacher, and no school whether an aided school or not,  in  which  a  teacher  whose  certificate  has  been  cancelled  or suspended  as  aforesaid  is  employed  shall  be  deemed  to  provide efficient elementary education.
+7. If any teacher holding a certificate granted by the Chief Education Officer or other authority in Guyana is, in the opinion of the magistrate and the Commission, guilty of immoral conduct as teacher or otherwise, or of cruel or improper treatment of any of the children or pupils under his charge, the Chief Education Officer, acting on the advice of the Commission, may cancel the certificate or suspend the operation thereof for any time to him seeming meet.
 
-#### EDUCATIONAL  DISTRICTS
+Consequence of cancellation or suspension.
+[24 of 1942
+1 of 1975]
+
+8. No teacher whose certificate has been cancelled or suspended shall be employed in any aided school until, in the case of suspension, the period of suspension has expired, or, in the case of cancellation, the Chief Education Officer on the advice of the Commission has issued a new certificate to the teacher, and no school whether an aided school or not, in which a teacher whose certificate has been cancelled or suspended as aforesaid is employed shall be deemed to provide efficient elementary education.
+
+#### EDUCATIONAL DISTRICTS
+
+Declaration of educational districts.
 
 9. The Minister may by order declare that any portion of Guyana specified in the order shall form a district for educational purposes and that district shall be called an educational district.
 
 #### ATTENDANCE OFFICERS
 
+Appointment.
+[26 of 1949
+24 of 1969]
+
 10. (1) For more effectually carrying out the provisions of this Act, one or more officers may be appointed for each educational district.
 
 (2) The officers shall be called attendance officers and shall receive the salaries provided for them by Parliament.
 
-(3) Every  member  of  the  National  Assembly,  minister  of religion,  justice  of  the  peace,  education  officer,  school  manager, certificated principal teacher of a school authorised in writing by the manager of his school, member of any municipal council or council of Power to cancel certificate in certain cases. [1 of 1975]
-
-Consequence of cancellation or suspension. [24 of 1942 1 of 1975]
-
-Declaration of educational districts.
-
-Appointment. [26 of 1949 24 of 1969]
+(3) Every member of the National Assembly, minister of religion, justice of the peace, education officer, school manager, certificated principal teacher of a school authorised in writing by the manager of his school, member of any municipal council or council of
 
 L.R.O. 3/1998
 
@@ -300,18 +337,15 @@ L.R.O. 3/1998
 
 [[START OF PAGE 8]]
 
-10
-
-Cap. 39:01
-
 LAWS OF GUYANA
 
-c. 28:01 | a local government district established under the Municipal and District Councils Act or village council, district commissioner,
---- | ---
-c. 62:01 | Government officer appointed under the State Lands Act or the Mining
-c. 65:01 | Act, member of the police force, or person authorised by the Minister, shall have and may exercise all the rights, powers, privileges and functions vested in an attendance officer by this Act:
+10 Cap. 39:01 Education
 
-Education
+a local government district established under the Municipal and District Councils Act or village council, district commissioner, Government officer appointed under the State Lands Act or the Mining Act, member of the police force, or person authorised by the Minister, shall have and may exercise all the rights, powers, privileges and functions vested in an attendance officer by this Act:
+
+c. 28:01
+c. 62:01
+c. 65:01
 
 Provided that-
 
@@ -330,7 +364,7 @@ Attendance officer may enter premises at certain times and make inquiries. [6 of
 
 (a) hinders or obstructs an attendance officer or any other authorised person in the performance of his duty; or
 
-(b) wilfully makes  any false representations to  an attendance  officer  or  any  other  authorised  person  with respect to the age or employment of a child, whether that child is under the age of five years or not; or
+(b) wilfully makes any false representations to an attendance officer or any other authorised person with
 
 [[END OF PAGE 8]]
 
@@ -343,6 +377,8 @@ Education
 Cap. 39:01
 
 11
+
+respect to the age or employment of a child, whether that child is under the age of five years or not; or
 
 (c) wilfully refuses to afford to an attendance officer or any other authorised person reasonably requiring it, any information that he possesses as to the age or employment of a child, whether the child is under the age of five years or not,
 
@@ -378,11 +414,13 @@ LAWS OF GUYANA
 
 Education
 
-(3) Every complaint under this section may be in Form 1, and
+(3) Every complaint under this section may be in Form 1, and every order under this section may be in Form 2.
 
-every order under this section may be in Form 2. First Schedule, Form 1, Form 2.
+First Schedule,
+Form 1,
+Form 2.
 
-(4) 'Efficient  elementary  instruction'  within  the  meaning  of this  section  means  the  instruction  prescribed  by  regulations  made under this Part.
+(4) “Efficient elementary instruction” within the meaning of this section means the instruction prescribed by regulations made under this Part.
 
 15. (1) If  any  child  is  found  habitually  wandering  or  not  under proper control or in the company of rogues, vagabonds, disorderly persons, or reputed criminals, he may be taken into custody by an attendance  officer  or  other  authorised  person,  or  by  any  police constable authorised by the Chief Education Officer to detain children so found, until a complaint can be preferred against him and he can be brought before a magistrate.
 
@@ -396,8 +434,10 @@ every order under this section may be in Form 2. First Schedule, Form 1, Form 2.
 
 (3) When a child is taken into custody under this section, the person taking the child into custody shall, as soon as practicable, give notice of the detention to the parent, if the parent is known and can be found; and the parent may appear before the magistrate and shall have the  same  rights  with  respect  to  the  complaint  as  if  it  were  a  civil proceeding and he was the defendant therein.
 
-(4) Every complaint under this section may be in Form 3, and every order under this section may be in Form 4. First Schedule, Form 3,
+(4) Every complaint under this section may be in Form 3, and every order under this section may be in Form 4.
 
+First Schedule,
+Form 3,
 Form 4.
 
 Proceedings with respect to child found habitually wandering or not under control.
@@ -512,13 +552,20 @@ Provided that the full value of any labour performed by a child after  deducting
 
 27. No fees shall be charged at any school receiving a government grant in respect of elementary instruction given to any pupil.
 
-Application of sectons 13 to 16. [24 of 1942] Teacher's power of detention over children. Employment of children at industrial school. [12 of 1999]
+Application of sections 13 to 16.
+[24 of 1942]
+
+Teacher’s power of detention over children.
+
+Employment of children at industrial school.
 
 Provision for children required to attend school for part only of a day.
 
 Execution of order requiring child to be sent to school.
 
-No fees in certain cases. [24 of 1942]
+No fees in certain cases.
+[24 of 1942]
+[12 of 1999]
 
 L.R.O. 3/1998
 
@@ -650,7 +697,7 @@ Cap. 39:01
 
 LAWS OF GUYANA
 
-Power in certain cases to estimte age of child.
+Power in certain cases to estimate age of child.
 
 Certificates of birth.
 
@@ -714,33 +761,29 @@ L.R.O. 3/1998
 
 [[START OF PAGE 20]]
 
-22
-
-Cap. 39:01
-
 LAWS OF GUYANA
 
-Power to amend Forms. [43 of 1956]
-
-Constitution of National Council for Education. [43 of 1956 7 of 1963]
-
-Education
+22 Cap. 39:01 Education
 
 #### LEGAL PROCEDURE
 
-- All  penalties  incurred  under  this  Act  may  be  sued  for  and recovered in a summary manner before a magistrate; and all orders which  a  magistrate  is  authorised  to  make  under  this  Act  shall  be applied  for,  made,  and  enforced  in  the  manner  provided  by  the Summary Jurisdiction Acts. Procedure.
+Procedure.
+
+39. All penalties incurred under this Act may be sued for and recovered in a summary manner before a magistrate; and all orders which a magistrate is authorised to make under this Act shall be applied for, made, and enforced in the manner provided by the Summary Jurisdiction Acts.
 
 Exemption from payment of fees for process.
 
 40. No one whether complainant, plaintiff, or defendant, shall be required to pay any fees for process in a proceeding, other than those for the recovery of school fees, taken or had under this Act against the parent or employer of a child.
 
 Power to grant warrant to examine place in certain cases.
+[6 of 1997]
 
-- and anyone found there, touching the employment of any child there. [6 of 1997]
-
-41. (1) If  it  appears  to  a  magistrate,  on  the  complaint  of  an attendance officer or other authorised person, that there is reasonable cause to believe that a child is employed in contravention of this Act in any place, whether a building or not, the magistrate may, by order under his hand, empower an attendance officer, or other authorised person, or police officer, to enter that place, at any reasonable time within seven days from the date of the order, and to examine the place,
+41. (1) If it appears to a magistrate, on the complaint of an attendance officer or other authorised person, that there is reasonable cause to believe that a child is employed in contravention of this Act in any place, whether a building or not, the magistrate may, by order under his hand, empower an attendance officer, or other authorised person, or police officer, to enter that place, at any reasonable time within seven days from the date of the order, and to examine the place, and anyone found there, touching the employment of any child there.
 
 (2) Everyone who refuses admission to an officer authorised by order under this section, or obstructs him in the discharge of his duty when acting under this section, shall for each offence be liable to a fine of nine thousand seven hundred and fifty dollars.
+
+Power to amend Forms.
+[43 of 1956]
 
 42. The Minister may by order amend the First Schedule.
 
@@ -748,7 +791,11 @@ Power to grant warrant to examine place in certain cases.
 
 ### NATIONAL COUNCIL FOR EDUCATION
 
-43. (1) There  shall  be  established  a  body  to  be  known  as  'The National  Council  for  Education'  (hereinafter  referred  to  as  'the Council') consisting of a Chairman and not more than thirteen other members appointed by the Minister.
+Constitution of National Council for Education.
+[43 of 1956
+7 of 1963]
+
+43. (1) There shall be established a body to be known as “The National Council for Education” (hereinafter referred to as “the Council”) consisting of a Chairman and not more than thirteen other members appointed by the Minister.
 
 [[END OF PAGE 20]]
 
@@ -796,31 +843,28 @@ L.R.O. 3/1998
 
 [[START OF PAGE 22]]
 
-24
-
-Cap. 39:01
-
 LAWS OF GUYANA
 
-Education
+24 Cap. 39:01 Education
 
-Regulations. [7 of 1963 1 of 1975 9 of 1976]
-
-s. 14
+Regulations.
+[7 of 1963
+1 of 1975
+9 of 1976]
 
 ## PART III
 
 ### GENERAL
 
-47. (1) The  Minister  may  from  time  to  time  make  regulations generally  for  establishing  and  maintaining  an  efficient  system  of education throughout Guyana.
+47. (1) The Minister may from time to time make regulations generally for establishing and maintaining an efficient system of education throughout Guyana.
 
-(2) Without  prejudice  to  the  generality  of  the  provisions  of subsection (1), the Minister may make regulations for all or any of the following purposes:
+(2) Without prejudice to the generality of the provisions of subsection (1), the Minister may make regulations for all or any of the following purposes:
 
-(a) for securing the proper application and distribution of all  moneys  provided  by  Parliament  for  the  purposes  of education;
+(a) for securing the proper application and distribution of all moneys provided by Parliament for the purposes of education;
 
-(b)  for  awarding  scholarships  or  other  awards  or  for withholding any such scholarship or award and for controlling persons holding such scholarships or awards;
+(b) for awarding scholarships or other awards or for withholding any such scholarship or award and for controlling persons holding such scholarships or awards;
 
-(c)  for  the  government  and  discipline  of  all  schools  of every kind maintained from moneys provided by Parliament.
+(c) for the government and discipline of all schools of every kind maintained from moneys provided by Parliament.
 
 ____________
 
@@ -830,18 +874,19 @@ ____________
 
 #### FORM 1
 
+s. 14
+
 ##### Complaint against parent for not educating child
-of five years and under the age of twelve years, has, for the period of next before the date of this complaint, habitually and without reasonable excuse omitted to provide efficient elementary education for h                     said child, the said                                   in contravention of the said Act; and thereupon he, the said educational district officer or other authorised person, makes application that the said                             may be dealt with according to law.
 
 GUYANA.
---- | --- | ---
-The complaint of | an attendance officer or
+
+The complaint of                                  an attendance officer or
 other authorised person, taken before me, the undersigned magistrate
-for the | district, at | in the
-county of | this | day of 19 ,
-who saith that | residing at | in the said
-county, being the parent, within the meaning of | the | Education Act,
-of the child named | and which child is above the | age
+for the                                  district, at                                  in the
+county of                                  this                                  day of 19        ,
+who saith that                                  residing at                                  in the said
+county, being the parent, within the meaning of the Education Act,
+of the child named                                  and which child is above the age
 
 [[END OF PAGE 22]]
 
@@ -849,23 +894,30 @@ of the child named | and which child is above the | age
 
 LAWS OF GUYANA
 
-Education
+Education Cap. 39:01 25
 
-Cap. 39:01
+of five years and under the age of twelve years, has, for the period of
+                                  next before the date of this complaint, habitually
+and without reasonable excuse omitted to provide efficient elementary
+education for h                                  said child, the said                                  in
+contravention of the said Act; and thereupon he, the said educational
+district officer or other authorised person, makes application that the
+said                                  may be dealt with according to law.
 
-25
+A.B.
 
-A.B. Taken  before  me  the  day  and  year  and  in  the  place  above mentioned.
+Taken before me the day and year and in the place above mentioned.
 
 (Signed)
 
 C.D.
-
 Magistrate
 
 ___________
 
-#### FORM 2                                         s. 14
+#### FORM 2
+
+s. 14
 
 ##### Order on parent for attendance of child at school
 
@@ -873,7 +925,24 @@ GUYANA
 
 County of
 
-Be it remembered that on the                 day of                19         , complaint was made before a                                    magistrate for the district by                                  on attendance officer, or other authorised person, that                               residing at in the county of                            being the parent, within the meaning of the Education Act, of the child named who is above the age of five years and under the age of twelve years, had, for the period of                               next before the said                  day of                                19   , habitually and without reasonable excuse omitted to provide efficient  elementary education for the said child, the said                                  in contravention of the said Act, and that on the                        day of                           19      , at the court room, at                         in the said county of the matter of the said complaint was heard and investigated by the undersigned magistrate for the                                  district; and now, being  satisfied  of  the  truth of that complaint, I do order that the said do cause the said child to attend the school at [ here describe the school ] being  the  school  which the said s. 15
+Be it remembered that on the                                  day of                                  19        ,
+complaint was made before a                                  magistrate for the
+                                  district by                                  an attendance
+officer, or other authorised person, that                                  residing at
+                                  in the county of                                  being the parent,
+within the meaning of the Education Act, of the child named
+                                  who is above the age of five years and under the age of
+twelve years, had, for the period of                                  next before the
+said                                  day of                                  19        , habitually and without
+reasonable excuse omitted to provide efficient elementary education
+for the said child, the said                                  in contravention of the
+said Act, and that on the                                  day of                                  19        ,
+at the court room, at                                  in the said county of
+the matter of the said complaint was heard and investigated by the
+undersigned magistrate for the                                  district; and now,
+being satisfied of the truth of that complaint, I do order that the said
+                                  do cause the said child to attend the
+school at [here describe the school] being the school which the said
 
 L.R.O. 3/1998
 
@@ -881,31 +950,42 @@ L.R.O. 3/1998
 
 [[START OF PAGE 24]]
 
-26
-
-Cap. 39:01
-
 LAWS OF GUYANA
 
-Education
+26 Cap. 39:01 Education
 
-parent  has  selected  [ or which,  as  the  parent has not selected any, I
+parent has selected [or which, as the parent has not selected any, I
+have named] on [here specify how many days on which the child is to
+attend school] in each week during which that school shall be open
+for                                  hours on each such day.
 
-have named] on [ here specify how many days on which the child is to attend school ] in  each  week  during  which that school shall be open for                      hours on each such day.
-
-Dated this             day of                         19       , at
+Dated this                                  day of                                  19        , at
 
 (Signed)
+
+C.D.
+Magistrate
 
 ____________
 
 #### FORM 3
 
+s. 15
+
 ##### Complaint against child found habitually wandering
 
 GUYANA.
 
-The complaint of                                     an attendance officer, or other authorised person, taken before me, the undersigned magistrate for the                               district, at                            in the county of this                         day of                            19        , who saith that                                      being a child subject to the provisions of the Education Act, has, for the period of                       next before the date of this complaint, been found within the educational    district  habitually  wandering,  [or  not  under  proper control, or in  the  company  of  rogues  or  vagabonds  or  disorderly persons or reputed criminals, as the circumstances of the case may require ].
+The complaint of                                  an attendance officer, or
+other authorised person, taken before me, the undersigned magistrate
+for the                                  district, at                                  in the county of
+                                  this                                  day of                                  19        ,
+who saith that                                  being a child subject to the provisions of the Education Act, has, for the period of                                  next
+before the date of this complaint, been found within the
+educational district habitually wandering, [or not under proper
+control, or in the company of rogues or vagabonds or disorderly
+persons or reputed criminals, as the circumstances of the case may
+require].
 
 A.B.
 
@@ -913,41 +993,64 @@ Taken before me the day and year and at the place first above mentioned.
 
 (Signed)
 
+C.D.
+Magistrate
+
 ___________
-
-C.D. Magistrate
-
-C.D. Magistrate
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-Cap. 39:01
+LAWS OF GUYANA
 
-27
+Education Cap. 39:01 27
+
+#### FORM 4
+
+s. 15
+
+##### Order under section 15
 
 GUYANA.
 
-Be it remembered that on the                 day of                  19       , at the                               court room in the county of in pursuance of the Education Act, I,                               magistrate for the                                  district, do order that                           being a child subject to the provisions of section 15 of the said Act, do attend the public elementary school at                                    being the school which the parent of the said child has selected [ or which, as the parent of the said child has not selected any, I have named] for days in each week during which that school shall be open for hours on each of those days, [ or be sent to the industrial school at or be delivered to his parent]. Dated this              day of                         19         . (Signed) C.D. Magistrate ____________
+Be it remembered that on the                                  day of                                  19        ,
+at the                                  court room in the county of
+in pursuance of the Education Act, I,                                  magistrate for
+the                                  district, do order that                                  being a
+child subject to the provisions of section 15 of the said Act, do attend
+the public elementary school at                                  being the school
+which the parent of the said child has selected [or which, as the parent
+of the said child has not selected any, I have named] for
+days in each week during which that school shall be open for
+                                  hours on each of those days, [or be sent to the industrial
+school at                                  or be delivered to his parent].
 
-#### FORM 5                                          s.16
+Dated this                                  day of                                  19        .
+
+(Signed)
+
+C.D.
+Magistrate
+
+____________
+
+#### FORM 5
+
+s. 16
 
 ##### Complaint for non-compliance with order of magistrate
 
 GUYANA.
 
-The complaint of                                      an attendance officer or other authorised person, taken before me, the undersigned magistrate for the                   district, at                                         in the county of this                       day of                         19    , who saith that heretofore on the                        day of                       19      , an order was made by                     , magistrate for the district, that                            being the parent, within the meaning of the Education Act, of the child named
-
-LAWS OF GUYANA
-
-Education
-
-#### FORM 4
-
-##### Order under section 15
-
-s. 15
+The complaint of                                  an attendance officer or
+other authorised person, taken before me, the undersigned magistrate
+for the                                  district, at                                  in the county of
+                                  this                                  day of                                  19        , who
+saith that heretofore on the                                  day of                                  19        ,
+an order was made by                                  , magistrate for the
+                                  district, that                                  being the parent, within the
+meaning of the Education Act, of the child named
 
 L.R.O. 3/1998
 
@@ -961,41 +1064,53 @@ Cap. 39:01
 
 LAWS OF GUYANA
 
-s. 16
-
-GUYANA.
-
-Whereas on the complaint of                                        an attendance officer, or other authorised person, it has been made to appear to me, the undersigned magistrate for the                                     district, that without any reasonable excuse, the order made by magistrate for the                                                  district, requiring that residing at                                       in the county of being the parent, within the meaning of the
-
 Education
 
 should cause the said child to attend, and that the said child should attend,
---- | --- | ---
-the school at therein named, | in | specified
-in the said order. and that the said | now
-residing at | in the county of | has,
+the school at                                  therein named,                                  in the manner specified
+in the said order, and that the said                                  now
+residing at                                  in the county of                                  has,
 for
-the period of | next before the date of this complaint,
-failed, without reasonable excuse, to comply with the said order in contravention of the said Act, and thereupon he, the said attendance
-officer, or other | authorised person, makes application that the said
-may be dealt with according to law.
+the period of                                  next before the date of this complaint,
+failed, without reasonable excuse, to comply with the said order in
+contravention of the said Act, and thereupon he, the said attendance
+officer, or other authorised person, makes application that the said
+                                  may be dealt with according to law.
 
 A.B.
 
-Taken  before  me  the  day  and  year  and  at  the  place  abovementioned.
+Taken before me the day and year and at the place above-mentioned.
 
 (Signed)
 
-C.D. Magistrate
+C.D.
+Magistrate
 
-NOTE.For a second or any subsequent case of non-compliance with an  order  made by a magistrate  after the words 'to  comply with the said  order,  in contravention of the said Act,' proceed as follows :-and further that he, the said                                 heretofore, and before the period mentioned in this complaint, to wit, on the                    day of                                          19           , was adjudged to have failed to comply with the said order without reasonable excuse.
+NOTE.—For a second or any subsequent case of non-compliance with
+an order made by a magistrate after the words “to comply with the
+said order, in contravention of the said Act,” proceed as follows:—
+and further that he, the said                                  heretofore, and before
+the period mentioned in this complaint, to wit, on the                                  day
+of                                  19        , was adjudged to have failed to
+comply with the said order without reasonable excuse.
 
 ___________
 
 #### FORM 6
 
+s. 16
+
 ##### Order under section 16
 
+GUYANA.
+
+Whereas on the complaint of                                  an attendance
+officer, or other authorised person, it has been made to appear to me,
+the undersigned magistrate for the                                  district, that
+                                  without any reasonable excuse, the order made by
+                                  magistrate for the                                  district, requiring that
+                                  residing at                                  in the county of
+                                  being the parent, within the meaning of the
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
@@ -1012,13 +1127,23 @@ Education Act, of the child named                               should cause the
 
 C.D. Magistrate
 
-NOTE.Where, in the first case of non-compliance, the magistrate orders the child to be sent to an industrial school, proceed from  the  words 'has  not  been  complied  with'  as  follows:-and whereas the said parent, the said                 has satisfied me that he has used all reasonable efforts to enforce compliance with the said order, I, the said  magistrate,  under  the  provisions  of  the  said Act, do this
+NOTE.—Where, in the first case of non-compliance, the
+magistrate orders the child to be sent to an industrial school, proceed
+from the words “has not been complied with” as follows:—and
+whereas the said parent, the said                                  has satisfied me that he has
+used all reasonable efforts to enforce compliance with the said order,
+I, the said magistrate, under the provisions of the said Act, do this
+                                  day of                                  19        , at
+                                  in the county of                                  order that the said
+                                  shall be sent to the industrial school at                                  and there detained
+until the                                  day of                                  , 19        .
 
-day of                         19       , at in the county of                           order that the said shall be sent to the industrial school at                             and there detained
-
-until the                        day of                             , 19        .
-
-Where,  in  the  second  case  of  non-compliance,  the  magistrate orders the child to be sent to an industrial school, proceed from the words in the form 'has not been complied with' as follows:-'and whereas the said                         has been previously adjudged to have failed, without reasonable excuse to comply with that order, I, the said magistrate,' as in the last case .
+Where, in the second case of non-compliance, the magistrate
+orders the child to be sent to an industrial school, proceed from the
+words in the form “has not been complied with” as follows:—“and
+whereas the said                                  has been previously adjudged to have
+failed, without reasonable excuse to comply with that order, I, the said
+magistrate,” as in the last case.
 
 ____________
 
@@ -1036,57 +1161,62 @@ LAWS OF GUYANA
 
 Education
 
-s. 20
-
-s. 29
-
-[3 of 1961]
-
 #### FORM 7
+
+s. 20
 
 ##### Complaint for employing child in contravention of the Act
 
 GUYANA.
 
-The complaint of                                 taken before me, the undersigned magistrate for the district, at                               in the county  of this                     day of                             19         , who saith that                        residing at                               in the said county, did on the                     day of                        19        , take into his employment [ or employ] at                            in the said county, one then being a child subject to the provisions of the Education Act, in contravention of the said Act.
+The complaint of                                  taken before me, the undersigned magistrate for the                                  district, at                                  in the county of
+                                  this                                  day of                                  19        ,
+who saith that                                  residing at                                  in the said
+county, did on the                                  day of                                  19        , take into
+his employment [or employ] at                                  in the said county, one
+                                  then being a child subject to the provisions of
+the Education Act, in contravention of the said Act.
 
 A.B.
 
-Taken  before  me  this  day  and  year  and  at  the  place  abovementioned.
+Taken before me this day and year and at the place above-mentioned.
 
 (Signed)
+
+C.D.
+Magistrate
 
 ___________
 
 ## SECOND SCHEDULE
 
+s. 29
+
+[3 of 1961]
+
 ### NAME OF SCHOOL
 
-- St. Matthew's Anglican Providence
+St. Matthew’s Anglican Providence
 
 Grove Anglican
 
 Supply Anglican
 
-- St. Mary's Anglican Goed Fortuin
+St. Mary’s Anglican Goed Fortuin
 
-- St. Simon's Anglican
+St. Simon’s Anglican
 
 La Bonne Intention Anglican
 
 Lusignan Anglican
 
-- St. Augustine's Anglican
+St. Augustine’s Anglican
 
 Non Pariel Anglican
 
-- St. Mark's Anglican Paradise
+St. Mark’s Anglican Paradise
 
-- St. Alban's Anglican
-
-C.D.
-
-Magistrate St. Gabriel's Anglican Bath Settlement Anglican No. 59 Anglican Leeds Anglican Dartmouth Anglican (St. Barnabas) Jacklow Anglican Endeavour Anglican St. Mary's Anglican Hackney Kingston Methodist Plaisance Methodist Strath Campbell Methodist Liberty Methodist Christianburg Church of Scotland Cornelia Ida Church of Scotland Mahaica Church of Scotland Belmont Church of Scotland St. Columba's Church of Scotland Manchester Church of Scotland Good Hope Church of Scotland Huis t'Dieren Church of Scotland Malgretout Roman Catholic St. Francis Roman Catholic Santa Rosa Roman Catholic Ramjit Canadian Mission Hague Canadian Mission MacGillivary Canadian Mission John Gibson Canadian Mission De Hoop Canadian Mission Biaboo Canadian Mission Novar Canadian Mission Bohemia Canadian Mission No. 56 Canadian Mission Gibson Fisher Canadian Mission Ridge Canadian Mission Maryville Canadian Mission Bethel Congregational Ithaca Congregational No. 5 Congregational
+St. Alban’s Anglican
 
 [[END OF PAGE 28]]
 
@@ -1099,6 +1229,82 @@ Education
 Cap. 39:01
 
 31
+
+St. Gabriel’s Anglican
+
+Bath Settlement Anglican
+
+No. 59 Anglican
+
+Leeds Anglican
+
+Dartmouth Anglican (St. Barnabas)
+
+Jacklow Anglican
+
+Endeavour Anglican
+
+St. Mary’s Anglican Hackney
+
+Kingston Methodist
+
+Plaisance Methodist
+
+Strath Campbell Methodist
+
+Liberty Methodist
+
+Christianburg Church of Scotland
+
+Cornelia Ida Church of Scotland
+
+Mahaica Church of Scotland
+
+Belmont Church of Scotland
+
+St. Columba’s Church of Scotland
+
+Manchester Church of Scotland
+
+Good Hope Church of Scotland
+
+Huis t’Dieren Church of Scotland
+
+Malgretout Roman Catholic
+
+St. Francis Roman Catholic
+
+Santa Rosa Roman Catholic
+
+Ramjit Canadian Mission
+
+Hague Canadian Mission
+
+MacGillivary Canadian Mission
+
+John Gibson Canadian Mission
+
+De Hoop Canadian Mission
+
+Biaboo Canadian Mission
+
+Novar Canadian Mission
+
+Bohemia Canadian Mission
+
+No. 56 Canadian Mission
+
+Gibson Fisher Canadian Mission
+
+Ridge Canadian Mission
+
+Maryville Canadian Mission
+
+Bethel Congregational
+
+Ithaca Congregational
+
+No. 5 Congregational
 
 L.R.O. 3/1998
 
