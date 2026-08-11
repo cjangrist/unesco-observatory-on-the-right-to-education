@@ -6,7 +6,7 @@ LOI N° 91-006 du 25 février 1991 portant
 
 # CHARTE CULTURELLE EN RÉPUBLIQUE DU BÉNIN
 
-Source: Journal officiel de la République du Bénin, n°7 du 1 er avril 1991
+Source: Journal officiel de la République du Bénin, n°7 du 1er avril 1991
 
 Le Haut Conseil de la République a délibéré et adopté;
 
@@ -18,9 +18,9 @@ L'État  béninois,  considérant  les  orientations  fondamentales  définies  
 
 - l'UNESCO ;
 
-- l'Agence de Coopération Culturelle et Technique ;
-
 - l'Institut Culturel Africain (ICA) ;
+
+- l'Agence de Coopération Culturelle et Technique ;
 
 - l'Organisation de l'Unité Africaine (OUA) ;
 
@@ -30,13 +30,13 @@ Prenant  en  compte  les  recommandations  de  la  Conférence  des  forces  viv
 
 Affirme, par la présente Charte, sa volonté de promouvoir un réel développement culturel national fondé sur la conviction que:
 
-- la culture est l'essence de l'humain et le droit à la culture est un droit imprescriptible et     inaliénable, partie intégrante des droits de l'homme;
+1. la culture est l'essence de l'humain et le droit à la culture est un droit imprescriptible et inaliénable, partie intégrante des droits de l'homme;
 
-- le  patrimoine  culturel  étant  la  mémoire  du  peuple,  sa  sauvegarde,  sa  conservation  et  sa          promotion constituent  le  fondement  de  l'affirmation  des  identités  culturelles  qui  conditionnent  tout  développement véritable;
+2. le patrimoine culturel étant la mémoire du peuple, sa sauvegarde, sa conservation et sa promotion constituent le fondement de l'affirmation des identités culturelles qui conditionnent tout développement véritable;
 
-- toutes les cultures de la communauté nationale ont droit au même respect et à un égal     épanouissement, les individus étant libres d'affirmer leur appartenance et de vivre leur participation à leur culture propre;
+3. toutes les cultures de la communauté nationale ont droit au même respect et à un égal épanouissement, les individus étant libres d'affirmer leur appartenance et de vivre leur participation à leur culture propre;
 
-- la coexistence des cultures est un fondement essentiel de l'unité nationale.
+4. la coexistence des cultures est un fondement essentiel de l'unité nationale.
 
 ## TITRE I DES PRINCIPES ET DES OBJECTIFS
 
@@ -70,27 +70,27 @@ L'État  béninois  doit  faire  de  la  liberté  de  création  la  condition 
 #### Article 6
 Les objectifs visés à travers la présente Charte sont les suivants:
 
-- assurer la sauvegarde, la protection et la promotion du patrimoine culturel national;
+a) assurer la sauvegarde, la protection et la promotion du patrimoine culturel national;
 
-- développer la recherche culturelle comme moyen indispensable à l'affirmation et à l'enrichissement des identités culturelles nationales ;
+b) développer la recherche culturelle comme moyen indispensable à l'affirmation et à l'enrichissement des identités culturelles nationales ;
 
-- accroître les ressources matérielles, humaines et financières à affecter au développement culturel ;
+c) accroître les ressources matérielles, humaines et financières à affecter au développement culturel ;
 
-- enrichir et élever le niveau de la création et de la production artistique et culturelle;
+d) enrichir et élever le niveau de la création et de la production artistique et culturelle;
 
-- libérer la culture nationale de toutes les entraves, d'origine interne ou externe, à l'épanouissement de l'homme béninois;
+e) libérer la culture nationale de toutes les entraves, d'origine interne ou externe, à l'épanouissement de l'homme béninois;
 
-- réaliser l'intégration culturelle nationale par la promotion des échanges culturels inter-régionaux;
+f) réaliser l'intégration culturelle nationale par la promotion des échanges culturels inter-régionaux;
 
-- aider l'homme béninois à assurer les innovations de son temps, compte tenu de son propre héritage culturel, en intégrant de façon harmonieuse et dynamique les valeurs culturelles nationales à l'éducation formelle et informelle ;
+g) aider l'homme béninois à assurer les innovations de son temps, compte tenu de son propre héritage culturel, en intégrant de façon harmonieuse et dynamique les valeurs culturelles nationales à l'éducation formelle et informelle ;
 
-- accélérer et améliorer le processus du développement par une prise en compte judicieuse des paramètres culturels dans les plans et programmes de développement;
+h) accélérer et améliorer le processus du développement par une prise en compte judicieuse des paramètres culturels dans les plans et programmes de développement;
 
-- favoriser la participation active des femmes, des jeunes et des personnes âgées à la vie culturelle et au développement ;
+i) favoriser la participation active des femmes, des jeunes et des personnes âgées à la vie culturelle et au développement ;
 
-- développer la capacité de la culture à accroître la production de la plus-value nationale ;
+j) développer la capacité de la culture à accroître la production de la plus-value nationale ;
 
-- favoriser la compréhension entre les nations et les peuples par les échanges culturels.
+k) favoriser la compréhension entre les nations et les peuples par les échanges culturels.
 
 #### Article 7
 La nation béninoise est une entité multiculturelle.
