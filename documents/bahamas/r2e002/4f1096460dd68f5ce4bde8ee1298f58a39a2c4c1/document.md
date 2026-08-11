@@ -22,11 +22,11 @@ The Queen's Most Excellent Majesty in Council
 
 Her Majesty, by virtue and in exercise of the powers vested in Her by section 1 of the Bahama  Islands (Constitution) Act 1963 1 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy  Council,  to  order,  and  it  is  hereby  ordered,  as follows:
 
-(1)  This  Order  may  be  cited  as  The  Bahamas Independence Order 1973.
+1. (1) This Order may be cited as The Bahamas Independence Order 1973.
 
-- Subject  to  the  provisions  of  the  next  following subsection  this  Order  shall  come  into  operation  on  10th July 1973 (in this Order referred to as "the appointed day").
+(2) Subject to the provisions of the next following subsection this Order shall come into operation on 10th July 1973 (in this Order referred to as "the appointed day").
 
-- The  Governor  and  Commander-in-Chief  of  the Bahama  Islands  may  at  any  time  after  20th  June  1973 exercise any powers conferred on the Governor-General by section 4(3) of this Order or Article 39(4) of the Constitution set out in the Schedule to this Order (in this Order referred to as "the Constitution") to such an extent as may be necessary or expedient to enable the Constitution to function as from the appointed day.
+(3) The Governor and Commander-in-Chief of the Bahama Islands may at any time after 20th June 1973 exercise any powers conferred on the Governor-General by section 4(3) of this Order or Article 39(4) of the Constitution set out in the Schedule to this Order (in this Order referred to as "the Constitution") to such an extent as may be necessary or expedient to enable the Constitution to function as from the appointed day.
 
 (4)(a)  For  the  purposes  of  the  exercise  by  the Governor under subsection (3) of this section of the powers conferred by section 4(3) of this Order the Governor shall act in accordance with the advice of the Prime Minister.
 
@@ -66,7 +66,7 @@ Existing laws.
 
 4. (1)  Subject  to  the  provisions  of  this  section,  the existing  laws  shall  be  construed  with  such  modifications, adaptations, qualifications and exceptions as may  be necessary to bring them into conformity with the Bahamas Independence Act 1973 3 and this Order.
 
-(2)  Where any matter that falls to be prescribed or otherwise provided for under the Constitution by Parliament or by any other authority or person is prescribed or provided for by or under an existing law (including any amendment to any such law made under this section) or is otherwise  prescribed  or  provided  for  immediately  before the appointed day or under the existing Order, that prescription  or  provision  shall,  as  from  that  day,  have effect (with such modifications, adaptations, qualifications and  exceptions  as  may  be  necessary  to  bring  it  into conformity with the Bahamas Independence Act 1973 and this Order) as if it had been made under the Constitution by Parliament  or,  as  the  case  may  require,  by  the  other authority or person.
+(2) Where any matter that falls to be prescribed or otherwise provided for under the Constitution by Parliament or by any other authority or person is prescribed or provided for by or under an existing law (including any
 
 > 2 S.I. 1969/590 (1969) I, p. 567
 
@@ -84,7 +84,9 @@ THE BAHAMAS INDEPENDENCE ORDER, 1973
 
 3
 
-(3)  The  Governor-General  may  by  Order  made  at any time before 10th July 1974 make such amendments to any existing law as may appear to him to be necessary or expedient  for  bringing  that  law  into  conformity  with  the provisions of the Bahamas Independence Act 1973 and this Order or otherwise for giving effect to or enabling effect to be given to those provisions.
+amendment to any such law made under this section) or is otherwise prescribed or provided for immediately before the appointed day or under the existing Order, that prescription or provision shall, as from that day, have effect (with such modifications, adaptations, qualifications and exceptions as may be necessary to bring it into conformity with the Bahamas Independence Act 1973 and this Order) as if it had been made under the Constitution by Parliament or, as the case may require, by the other authority or person.
+
+(3) The Governor-General may by Order made at any time before 10th July 1974 make such amendments to any existing law as may appear to him to be necessary or expedient for bringing that law into conformity with the provisions of the Bahamas Independence Act 1973 and this Order or otherwise for giving effect to or enabling effect to be given to those provisions.
 
 (4) An Order made by the Governor-General under subsection  (3)  of  this  section  shall  have  effect  from  such day, not earlier than the appointed day, as may be specified therein.
 
@@ -98,7 +100,7 @@ Parliament.
 
 (2) The persons who immediately before the appointed day are members of the House of Assembly then
 
----------------------------------------------------------------------------established for the Bahama Islands (in this section referred to as "the existing Assembly") shall as from the appointed day be members of the House of Assembly established by the  Constitution  as  if  elected  as  such  in  pursuance  of Article 46(2) of the Constitution and shall hold their seats in  that  House  in  accordance  with  the  provisions  of  the Constitution.
+---------------------------------------------------------------------------
 
 [Original Service 2001]
 
@@ -112,7 +114,9 @@ STATUTE LAW OF THE BAHAMAS
 
 THE BAHAMAS INDEPENDENCE ORDER, 1973
 
-(3) The persons who immediately before the appointed  day  are  Speaker  and  Deputy  Speaker  of  the existing  Assembly  shall  as  from  the  appointed  day  be Speaker and Deputy Speaker respectively of the House of Assembly established by the Constitution  as  if  elected  as such  by  that  House  in  pursuance  of  Article  50(1)  of  the Constitution  and  shall  hold  office  in  accordance  with  the provisions of that Article.
+established for the Bahama Islands (in this section referred to as "the existing Assembly") shall as from the appointed day be members of the House of Assembly established by the Constitution as if elected as such in pursuance of Article 46(2) of the Constitution and shall hold their seats in that House in accordance with the provisions of the Constitution.
+
+(3) The persons who immediately before the appointed day are Speaker and Deputy Speaker of the existing Assembly shall as from the appointed day be Speaker and Deputy Speaker respectively of the House of Assembly established by the Constitution as if elected as such by that House in pursuance of Article 50(1) of the Constitution and shall hold office in accordance with the provisions of that Article.
 
 (4)  Any  person  who  is  a  member  of  the  Senate  or the House of Assembly established by the Constitution by virtue of the preceding provisions of this section and who, since he was last appointed or elected as a member of the existing Senate or the existing Assembly  before the appointed day, has taken the oath of allegiance in pursuance  of  section  45  of  the  Schedule  to  the  existing Order shall be deemed to have complied with the requirements  of  Article  64  of  the  Constitution  relating  to the taking of the oath of allegiance.
 
@@ -120,7 +124,7 @@ THE BAHAMAS INDEPENDENCE ORDER, 1973
 
 (6)  Notwithstanding  anything  contained  in  Article 66(3) of the Constitution (but subject to the provisions of paragraphs  (4)  and  (5)  of  that  Article)  Parliament  shall, unless sooner dissolved, stand dissolved on the expiration of five years from the first sitting of the existing Assembly after  the  general  election  of  members  of  the  existing Assembly last preceding the appointed day.
 
-(7)  For  the  purposes  of  Articles  41  and  47  of  the Constitution any period of ordinary residence in the Bahama  Islands  immediately  before  the  appointed  day shall be deemed to be residence in The Bahamas.
+(7) For the purposes of Articles 41 and 47 of the Constitution any period of ordinary residence in the
 
 STATUTE LAW OF THE BAHAMAS
 
@@ -134,7 +138,9 @@ THE BAHAMAS INDEPENDENCE ORDER, 1973
 
 5
 
-6. (1)  The  person  who  immediately  before  the appointed day holds the office of Prime Minister under the existing Order shall, as from the appointed day, hold office as Prime Minister as if he had been appointed thereto under Article 73(1) of the Constitution.
+Bahama Islands immediately before the appointed day shall be deemed to be residence in The Bahamas.
+
+6. (1) The person who immediately before the appointed day holds the office of Prime Minister under the existing Order shall, as from the appointed day, hold office as Prime Minister as if he had been appointed thereto under Article 73(1) of the Constitution.
 
 (2) The persons (other than the Prime Minister) who immediately  before the appointed day hold office as Ministers  under  the  existing  Order  shall,  as  from  the appointed  day,  hold  the  like  offices  as  if  they  had  been appointed thereto under Article 73(2) of the Constitution.
 
@@ -150,9 +156,11 @@ Ministers and Parliamentary Secretaries.
 
 Leader of the Opposition.
 
-8. Subject to the provisions of this Order and of the Constitution,  every  person  who  immediately  before  the commencement of this Order holds or is acting in a public office  shall,  as  from  the  commencement  of  this  Order, continue to hold or act in the like office as if he had been Existing officers.
+8. Subject to the provisions of this Order and of the Constitution, every person who immediately before the commencement of this Order holds or is acting in a public office shall, as from the commencement of this Order, continue to hold or act in the like office as if he had been
 
----------------------------------------------------------------------------- Supreme Court and Court of Appeal Judges.
+Existing officers.
+
+----------------------------------------------------------------------------
 
 [Original Service 2001]
 
@@ -165,6 +173,8 @@ STATUTE LAW OF THE BAHAMAS
 6
 
 THE BAHAMAS INDEPENDENCE ORDER, 1973
+
+Supreme Court and Court of Appeal Judges.
 
 Pending appeals.
 
@@ -200,7 +210,7 @@ THE BAHAMAS INDEPENDENCE ORDER, 1973
 
 (2) Any  matter which, immediately  before the appointed day, is pending before an existing Commission or,  as  the  case  may be, before any person or authority on whom  the  power  to  deal  with  such  matter  has  been conferred  under  the  existing  Order  shall  as  from  the appointed  day  be  continued  before  the  Public  Service Commission established by the Constitution, or the Public Service Board of Appeal, or the Judicial and Legal Service Commission, or the Police Service Commission, so established  or,  as  the  case  may  be,  the  said  person  or authority:
 
-Provided that where an existing Commission or, as the case may be, any person or authority as aforesaid has, immediately  before  the  appointed  day,  partly  completed the  hearing  of  a  disciplinary  proceeding  (in  this  section referred to as "the original hearing"), no person shall take part in the continued hearing unless he has also taken part in the original hearing; and  where  by  virtue of this subsection the original hearing cannot be so continued the hearing of the disciplinary proceeding shall be recommended.
+Provided that where an existing Commission or, as the case may be, any person or authority as aforesaid has, immediately before the appointed day, partly completed the hearing of a disciplinary proceeding (in this section referred to as "the original hearing"), no person shall take part in the continued hearing unless he has also taken part in the original hearing; and where by virtue of this subsection the original hearing cannot be so continued the hearing of the disciplinary proceeding shall be recommenced.
 
 (3) A person who immediately before the appointed day  holds  the  office  of  Chairman  or  other  member  of  an existing  Commission  shall,  as  from  the  appointed  day, continue to hold the like office as if he had been appointed thereto in accordance with the provisions of the
 
@@ -238,11 +248,11 @@ Constitution  and  shall  be  deemed  to  have  been  duly appointed to such off
 
 (2) Until such time as the said Orders cease to have effect under  subsection  (1)  of this section they shall continue to have effect in respect of The Bahamas as they had effect in respect of the former Colony of the Bahama Islands immediately before the appointed day, except that the powers exercisable by the Governor thereunder shall be exercisable by the Governor-General acting in accordance with the advice of the Prime Minister.
 
-15. All  sums  standing  to  the  credit  of  the  Crown Lands  Fund  for  Development  immediately  before  the appointed  day  shall  as  from  that  day  form  part  of  the Consolidated  Fund,  and  all  sums  charged  on  the  Crown Lands Fund for Development immediately before that day shall  as  from  that  day  stand  charged  on  the  Consolidated Fund.
+15. All sums standing to the credit of the Crown Lands Fund for Development immediately before the appointed day shall as from that day form part of the Consolidated Fund, and all sums charged on the Crown Lands Fund for Development immediately before that day
 
 > 4 See S.I. 1952 I at p. 621.
 
-> 5 The relevant amending instruments are S.I. 1956/731, 1963/88, 1633, 1964/267, 1199, 1965/131, 1968/724, 1973/759 (1956 I, p. 512; 1963 I, p. 105; III, p. 3084; 1964 I, p. 467, ll, p. 2781; 1965 I, p. 270; 1968 II, p. 2077; 1973 I, p. 2417).
+> 5 The relevant amending instruments are S.I. 1956/731, 1963/88, 1633, 1964/267, 1199, 1965/131, 1968/724, 1973/759 (1956 I, p. 512; 1963 I, p. 105; III, p. 3084; 1964 I, p. 467, II, p. 2781; 1965 I, p. 270; 1968 II, p. 2077; 1973 I, p. 2417).
 
 STATUTE LAW OF THE BAHAMAS
 
@@ -256,7 +266,9 @@ THE BAHAMAS INDEPENDENCE ORDER, 1973
 
 9
 
-16. Any compensation, gratuity, grant or allowance paid or payable, whether before or after the appointed day, under any regulations made by the Governor under section 15 of the Bahama Islands (Constitution) Order in Council 1963 6 or under section 9 of the Bahama Islands (Constitution)  Order  1969,  which  under  those  regulations as in force immediately prior to the appointed day was or would have been exempt from tax in the Bahama Islands, shall be exempt from tax to the same extent in the Bahamas after the appointed day.
+shall as from that day stand charged on the Consolidated Fund.
+
+16. Any compensation, gratuity, grant or allowance paid or payable, whether before or after the appointed day, under any regulations made by the Governor under section 15 of the Bahama Islands (Constitution) Order in Council 1963 6 or under section 9 of the Bahama Islands (Constitution) Order 1969, which under those regulations as in force immediately prior to the appointed day was or would have been exempt from tax in the Bahama Islands, shall be exempt from tax to the same extent in the Bahamas after the appointed day.
 
 17. (1) Parliament may alter any of the provisions of this  Order  (in  so  far  as  those  provisions  form  part  of  the law  of  The  Bahamas),  other  than  those  mentioned  in subsections (2) and (3) of this section, in the same manner as it may alter the provisions of the Constitution other than those specified in paragraphs (2) and (3) of Article 54 of the Constitution.
 
