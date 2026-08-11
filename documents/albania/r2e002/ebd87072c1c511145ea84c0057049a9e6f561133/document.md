@@ -125,7 +125,7 @@ Në  varësi  të  misionit  kryesor  që  ka,  të  përcaktuar  në  statutin 
 
 - Kolegji  profesional  ofron  veprimtari  mësimore  dhe  trajnuese  në  fusha  të ndryshme  të  arsimit  profesional  universitar  dhe/ose  jouniversitar,  për  përgatitjen  e specialistëve me orientim praktik.
 
-- Kolegji  profesional realizon veprimtari  kërkimore  tё  aplikuara,  artistike, sportive etj., nëse është parashikuar në statutin dhe rregulloret e tij, si dhe ofron shërbime.
+- Kolegji  profesional realizon veprimtari  kërkimore  të  aplikuara,  artistike, sportive etj., nëse është parashikuar në statutin dhe rregulloret e tij, si dhe ofron shërbime.
 
 [[END OF PAGE 3]]
 
@@ -136,7 +136,7 @@ Në  varësi  të  misionit  kryesor  që  ka,  të  përcaktuar  në  statutin 
 - Kolegji profesional ka të drejtë të ngrihet edhe pranë universiteteve, akademive apo shkollave të tjera të larta. Në këto raste ai ka strukturë të ngjashme me fakultetin.
 
 ### Neni 8
-#### Njësitë pёrbёrëse të institucioneve tё arsimit tё lartё
+#### Njësitë përbërëse të institucioneve të arsimit të lartë
 
 - Institucionet  e  arsimit  të  lartë  kanë  të  drejtë  të  ndahen  në  njësi  përbërëse organizative: kryesore, bazë dhe ndihmëse.
 
@@ -190,7 +190,7 @@ b) pjesë përbërëse e njësive të selisë qendrore të institucionit.
 
 #### Departamentet
 
-- Departamenti është njësi bazë mësimore-kёrkimore, që përfshin fusha kërkimi homogjene dhe grupon disiplinat mësimore respektive.
+- Departamenti është njësi bazë mësimore-kërkimore, që përfshin fusha kërkimi homogjene dhe grupon disiplinat mësimore respektive.
 
 - Strukturë  të  ngjashme  me  departamentin  kanë  edhe  qendrat  e  kërkimit  dhe zhvillimit, fushat e kërkimit të të cilave harmonizohen me interesa të departamenteve të fakultetit.
 
@@ -414,7 +414,7 @@ njësitë  kryesore  të  tij  nuk  përmbushin  numrin  e  nevojshëm  të  pro
 
 - Përbërja,  detyrat  dhe  funksionimi  i  këshillit  të  profesorëve  përcaktohen  në statutin e institucionit dhe në akte të tjera nënligjore.
 
-### 'Neni 19/1
+### “Neni 19/1
 
 #### Organet drejtuese të qendrave spitalore universitare të institucioneve të arsimit të lartë publik
 
@@ -430,7 +430,7 @@ njësitë  kryesore  të  tij  nuk  përmbushin  numrin  e  nevojshëm  të  pro
 
 - ç)  Drejtorin e Përgjithshëm të Institutit të Sigurimeve dhe Kujdesit Shëndetësor (ISKSH).
 
-- Bordi  miraton  politikat  dhe  strategjinë  e  zhvillimit,  si  dhe  harton  programet eknikofinanciare  të  veprimtarisë  së  qendrës,  në  përputhje  me  politikat  qeverisëse  për shëndetësinë, arsimin e lartë e kërkimin shkencor, si dhe planin e zhvillimit strategjik të universitetit e të fakulteteve të fushës së shëndetit.
+- Bordi  miraton  politikat  dhe  strategjinë  e  zhvillimit,  si  dhe  harton  programet teknikofinanciare  të  veprimtarisë  së  qendrës,  në  përputhje  me  politikat  qeverisëse  për shëndetësinë, arsimin e lartë e kërkimin shkencor, si dhe planin e zhvillimit strategjik të universitetit e të fakulteteve të fushës së shëndetit.
 
 - Funksionet kryesore të bordit janë si më poshtë:
 
@@ -761,7 +761,7 @@ dh) titujt akademikë dhe profesionalë, që akordohen sipas legjislacionit në 
 
 - Diplomat, që jepen në përfundim të programeve të ciklit të parë, të ciklit të dytë apo të integruara, shoqërohen me suplementin/shtojcën e diplomës..
 
-- Suplementi i diplomës hartohet nё përputhje me kërkesat e hapësirës europiane tё  arsimit  tё  lartë.  Ai  përshkruan,  në  veçanti,  natyrën,  nivelin,  përmbajtjen,  rezultatet  e studimeve, që janë kryer dhe përfunduar me sukses nga mbajtësi i diplomës etj.
+- Suplementi i diplomës hartohet në përputhje me kërkesat e hapësirës europiane të  arsimit  të  lartë.  Ai  përshkruan,  në  veçanti,  natyrën,  nivelin,  përmbajtjen,  rezultatet  e studimeve, që janë kryer dhe përfunduar me sukses nga mbajtësi i diplomës etj.
 
 - Përmbajtja  dhe  forma  e  diplomës  dhe  e  suplementit  të  diplomës  përcaktohen nga senatet akademike, në përputhje me udhëzimet e ministrisë përgjegjëse për çështjet e arsimit.
 
@@ -771,7 +771,7 @@ dh) titujt akademikë dhe profesionalë, që akordohen sipas legjislacionit në 
 
 - Individët, që kanë plotësuar detyrimet e një programi të formimit të vazhduar ose pjesë të një programi studimi pajisen me diplomat ose certifikatat përkatëse, që janë dokument zyrtar.
 
-- Çdo  formë  diplome  ose  certifikate,  përpara  se  të  lëshohet  nga  institucioni  i arsimit  tё  lartë,  regjistrohet  nё  regjistrin  shtetëror  të  diplomave  dhe  certifikatave  për arsimin e lartë dhe kërkimin shkencor, qё mbahet në ministrinë përgjegjëse për çështjet e arsimit.
+- Çdo  formë  diplome  ose  certifikate,  përpara  se  të  lëshohet  nga  institucioni  i arsimit  të  lartë,  regjistrohet  në  regjistrin  shtetëror  të  diplomave  dhe  certifikatave  për arsimin e lartë dhe kërkimin shkencor, që mbahet në ministrinë përgjegjëse për çështjet e arsimit.
 
 ### Neni 32
 
@@ -784,7 +784,7 @@ dh) titujt akademikë dhe profesionalë, që akordohen sipas legjislacionit në 
 - Organizimi i mësimdhënies për programet e studimeve të formimit të vazhduar përcaktohen në statutin e institucionit të arsimit të lartë.
 
 ### Neni 33
-#### Pranimi në ciklin e parë tё studimeve
+#### Pranimi në ciklin e parë të studimeve
 
 - Çdo  shtetas  shqiptar  që  ka  përfunduar  me  sukses  Maturën  Shtetërore,  ka  të drejtë të kandidojë për t'u pranuar në ciklin e parë të studimeve në institucionet e arsimit të lartë.
 
@@ -831,11 +831,11 @@ Individët që kanë përfunduar një program studimi, kanë të drejtë të ndj
 Në  statutet  e  institucioneve  të  arsimit  të  lartë  përcaktohen  kriteret  që  duhet  të plotësohen për t'u pranuar në një program të dytë studimi.
 
 ### Neni 37
-#### Njohja e diplomave, certifikatave, gradave dhe titujve tё huaj
+#### Njohja e diplomave, certifikatave, gradave dhe titujve të huaj
 
 - Nëpërmjet procedurës së njohjes, një diplomë e huaj njësohet me një diplomë shqiptare  nga  pikëpamja  e  së  drejtës  për  të  vazhduar  arsimimin  dhe  e  së  drejtës  për punësim. Kjo vlen dhe për njohjen e certifikatave, gradave ose titujve të huaj.
 
-- Institucioni  përgjegjës  për  njohjen  zyrtare  në  Republikën  e  Shqipërisë  të diplomave ose certifikatave, tё lëshuara nga institucione të huaja të arsimit të lartë, është Ministria përgjegjëse për çështjet e arsimit , e cila e kryen këtë proces nëpërmjet njësisë përgjegjëse të njohjes së diplomave, që funksionon edhe si Qendra Kombëtare e Njohjes së Diplomave dhe e Informimit. Ministria përgjegjëse për çështjet e arsimit  ka të drejtë të
+- Institucioni  përgjegjës  për  njohjen  zyrtare  në  Republikën  e  Shqipërisë  të diplomave ose certifikatave, të lëshuara nga institucione të huaja të arsimit të lartë, është Ministria përgjegjëse për çështjet e arsimit , e cila e kryen këtë proces nëpërmjet njësisë përgjegjëse të njohjes së diplomave, që funksionon edhe si Qendra Kombëtare e Njohjes së Diplomave dhe e Informimit. Ministria përgjegjëse për çështjet e arsimit  ka të drejtë të
 
 [[END OF PAGE 19]]
 
@@ -843,9 +843,9 @@ Në  statutet  e  institucioneve  të  arsimit  të  lartë  përcaktohen  krite
 
 - autorizojë institucionet e arsimit të lartë për kryerjen e këtij procesi për rastet e njësimit të diplomës nga pikëpamja e së drejtës për të vazhduar arsimimin. Këto raste përcaktohen me udhëzim të Ministrit përgjegjës për çështjet e arsimit.
 
-- Institucioni  përgjegjës  për  njohjen  zyrtare  në  Republikën  e  Shqipërisë  të gradave ose titujve shkencorë, tё lëshuar nga institucione të huaja të arsimit të lartë, është Komisioni i Vlerësimit të Titujve Akademikë.
+- Institucioni  përgjegjës  për  njohjen  zyrtare  në  Republikën  e  Shqipërisë  të gradave ose titujve shkencorë, të lëshuar nga institucione të huaja të arsimit të lartë, është Komisioni i Vlerësimit të Titujve Akademikë.
 
-- Procedurat  dhe  kriteret  për  njohjen  e  diplomave,  certifikatave,  gradave  e titujve,  tё  lëshuar  nga  institucione  të  huaja  të  arsimit  të  lartë,  përcaktohen  me  akt  të Ministrit përgjegjës për çështjet e arsimit, duke respektuar marrëveshjet ndërkombëtare të nënshkruara nga vendi ynë për këtë qëllim.
+- Procedurat  dhe  kriteret  për  njohjen  e  diplomave,  certifikatave,  gradave  e titujve,  të  lëshuar  nga  institucione  të  huaja  të  arsimit  të  lartë,  përcaktohen  me  akt  të Ministrit përgjegjës për çështjet e arsimit, duke respektuar marrëveshjet ndërkombëtare të nënshkruara nga vendi ynë për këtë qëllim.
 
 ### Neni 38
 
@@ -906,7 +906,7 @@ strukturave përbërëse të tij, e autoriteteve dhe organeve drejtuese, zgjedhj
 
 #### Hapja, mbyllja, riorganizimi dhe përshtatja e programeve të studimeve të të gjitha cikleve të arsimit të lartë publik
 
-- Hapja e programeve të reja tё studimeve tё të gjitha cikleve të arsimit të lartë publik,  riorganizimi  dhe  mbyllja  e  tyre  bëhen  me  urdhër  të  Ministrit  përgjegjës  për çështjet  e  arsimit,  në  bazë  të  kërkesës  së  institucionit  të  arsimit  të  lartë.  Ministri përgjegjës për çështjet e arsimit ka të drejtë t'i kërkojë institucionit publik të arsimit të lartë hapjen e programeve të reja të studimeve në fusha prioritare.
+- Hapja e programeve të reja të studimeve të të gjitha cikleve të arsimit të lartë publik,  riorganizimi  dhe  mbyllja  e  tyre  bëhen  me  urdhër  të  Ministrit  përgjegjës  për çështjet  e  arsimit,  në  bazë  të  kërkesës  së  institucionit  të  arsimit  të  lartë.  Ministri përgjegjës për çështjet e arsimit ka të drejtë t'i kërkojë institucionit publik të arsimit të lartë hapjen e programeve të reja të studimeve në fusha prioritare.
 
 [[END OF PAGE 21]]
 
@@ -972,9 +972,9 @@ Në rastin e refuzimit të një projekti të paraqitur, Ministria përgjegjëse 
 
 ### Neni 44/1
 
-#### Hapja, mbyllja dhe riorganizimi i programeve tё studimeve të cikleve të arsimit të lartë privat
+#### Hapja, mbyllja dhe riorganizimi i programeve të studimeve të cikleve të arsimit të lartë privat
 
-- Hapja e programeve të reja tё studimeve tё të gjitha cikleve të arsimit të lartë privat, mbyllja dhe riorganizimi i tyre bëhen me urdhër të Ministrit përgjegjës për çështjet e arsimit, në bazë të kërkesës së institucionit të arsimit të lartë.
+- Hapja e programeve të reja të studimeve të të gjitha cikleve të arsimit të lartë privat, mbyllja dhe riorganizimi i tyre bëhen me urdhër të Ministrit përgjegjës për çështjet e arsimit, në bazë të kërkesës së institucionit të arsimit të lartë.
 
 - Ministri përgjegjës për çështjet e arsimit përcakton dokumentacionin që duhet të përmbajë projekti i paraqitur për dhënien e lejes për hapjen e programeve të reja dhe që ka  të  bëjë  me  misionin  e  objektivat  afatgjatë  të  institucionit,  programet  e  studimeve, skemën e financimit, si dhe afatet e procedurat për shqyrtimin e projekteve.
 
@@ -1027,7 +1027,7 @@ Në rastin e refuzimit të një projekti të paraqitur, Ministria përgjegjëse 
 
 - Personeli akademik  në institucionet e arsimit të lartë, sipas rolit dhe veprimtarisë që kryen, kategorizohet në: a) profesorë; b) docentë dhe c) lektorë.
 
-- Në  kategorinë  'Profesorë'  janë  anëtarët  e  personelit  akademik,  titullarë  të lëndëve  ose  moduleve  dhe  udhëheqës  të  veprimtarisë  së  kërkimit  shkencor.  Anëtarët  e personelit  akademik  të  kësaj  kategorie  kanë  gradën  shkencore  'Doktor'  dhe  titujt akademikë: 'Profesor i asociiuar', 'Profesor', 'Profesor emeritus', 'Akademik  i asociuar' dhe 'Akademik'.
+- Në  kategorinë  'Profesorë'  janë  anëtarët  e  personelit  akademik,  titullarë  të lëndëve  ose  moduleve  dhe  udhëheqës  të  veprimtarisë  së  kërkimit  shkencor.  Anëtarët  e personelit  akademik  të  kësaj  kategorie  kanë  gradën  shkencore  'Doktor'  dhe  titujt akademikë: 'Profesor i asociuar', 'Profesor', 'Profesor emeritus', 'Akademik  i asociuar' dhe 'Akademik'.
 
 - Në  kategorinë  'Docentë'  janë  anëtarët  e  personelit  akademik,  që  zhvillojnë kryesisht  veprimtari  mësimore.  Anëtarët  e  personelit  akademik  të  kësaj  kategorie  kanë titullin akademik 'Docent' ose gradën shkencore 'Doktor'.
 
@@ -1045,13 +1045,13 @@ jouniversitare, lektorët duhet të kenë diplomën 'Master profesional', sipas 
 
 - Niveli i pagave, sipas kategorive dhe vendeve të punës, përcaktohet me vendim të Këshillit të Ministrave.
 
-- Titujt  akademikë  jepen  nga  institucione  të  arsimit  të  lartë,  të  përcaktuara  me vendim  të  Këshillit  të  Ministrave,  si  dhe  nga  Komisioni  i  Vlerësimit  të  Titujve Akademikë. Titulli 'Profesor i asociiuar', 'Profesor emeritus' dhe 'Docent' jepen nga institucionet e arsimit të lartë. Titulli 'Profesor' jepet nga Këshilli i Vlerësimit të Titujve Akademikë.
+- Titujt  akademikë  jepen  nga  institucione  të  arsimit  të  lartë,  të  përcaktuara  me vendim  të  Këshillit  të  Ministrave,  si  dhe  nga  Komisioni  i  Vlerësimit  të  Titujve Akademikë. Titulli 'Profesor i asociuar', 'Profesor emeritus' dhe 'Docent' jepen nga institucionet e arsimit të lartë. Titulli 'Profesor' jepet nga Këshilli i Vlerësimit të Titujve Akademikë.
 
 Titujt 'Akademik i asociuar' dhe 'Akademik' jepen nga Akademia e Shkencave, në përputhje me ligjin për Akademinë e Shkencave.
 
 Titulli  'Docent'  u  jepet  anëtarëve  të  personelit  akademik  që  kanë  gradën shkencore  'Doktor'.  Ai  u  jepet  edhe  anëtarëve  të  personelit  akademik  me,  së  paku, diplomë 'Master i shkencave'/'Master i arteve të bukura' ose ekuivalent i saj në vende të tjera,  të  vlerësuar  me  rezultatin  'shumë  mirë'  ose  'shkëlqyer'  dhe  që  kanë  veprimtari mësimore-kërkimore në një institucion të arsimit të lartë, jo më pak se 5 vjet, përjashtuar diplomat e ekuivalentuara, sipas paragrafit të katërt të nenit 89 të këtij ligji.
 
-- Kriteret  dhe  procedurat  e  dhënies së titujve akademikë 'Docent', 'Profesor i asociiuar',  'Profesor'  dhe  'Profesor  emeritus'  përcaktohen  me  vendim  të  Këshillit  të Ministrave, me propozim të Ministrit përgjegjës për çështjet e arsimit.
+- Kriteret  dhe  procedurat  e  dhënies së titujve akademikë 'Docent', 'Profesor i asociuar',  'Profesor'  dhe  'Profesor  emeritus'  përcaktohen  me  vendim  të  Këshillit  të Ministrave, me propozim të Ministrit përgjegjës për çështjet e arsimit.
 
 ### Neni 48
 #### Personeli akademik i ftuar
@@ -1075,37 +1075,37 @@ Titulli  'Docent'  u  jepet  anëtarëve  të  personelit  akademik  që  kanë 
 
 kërkimore,  për  periudha  semestrale  ose  njëvjeçare  të  përsëritshme,  sipas  kërkesave  të vendit  të  punës.  Modalitetet  e  punësimit  përcaktohen  në  statutin  e  institucioneve  të arsimit të lartë.
 
-- Institucionet  e  arsimit  të  lartë  kanë  të  drejtë  të  punësojnë,  mbi  bazën  e  një kontrate të përkohshme, edhe studentë në procesin e kryerjes së studimeve të doktoratës dhe  të  përgatitjes  së  disertacionit  për  gradën  shkencore  'Doktor',  të  cilët  mbështesin profesorët  udhëheqës  të  disertacionit  në  procesin  mësimor  dhe  gjatë  kësaj  periudhe trajtohen si 'Lektor'.
+- 2. Institucionet e arsimit të lartë kanë të drejtë të punësojnë, mbi bazën e një kontrate të përkohshme, edhe studentë në procesin e kryerjes së studimeve të doktoratës dhe të përgatitjes së disertacionit për gradën shkencore 'Doktor', të cilët mbështesin profesorët udhëheqës të disertacionit në procesin mësimor dhe gjatë kësaj periudhe trajtohen si 'Lektor'.
 
-- Kriteret e punësimit, sipas pikave 1 dhe 2 të këtij neni, përcaktohen në statutin dhe rregulloret e institucionit, në përputhje me këtë ligj dhe aktet nënligjore rregulluese.
+- 3. Kriteret e punësimit, sipas pikave 1 dhe 2 të këtij neni, përcaktohen në statutin dhe rregulloret e institucionit, në përputhje me këtë ligj dhe aktet nënligjore rregulluese.
 
-- Shpenzimet  për  personelin  akademik  të  përcaktuar  në  nenet  48  dhe  49 përballohen nga të ardhurat e institucionit.
+- 4. Shpenzimet për personelin akademik të përcaktuar në nenet 48 dhe 49 përballohen nga të ardhurat e institucionit.
 
 ### Neni 50
 
 #### Punësimi në institucionet e arsimit të lartë
 
-- Kriteret  për  punësim  në  institucionet  e  arsimit  të  lartë,  për  çdo  kategori  të personelit  akademik  dhe  administrativ,  përcaktohen  në  statutet  e  institucioneve.  Ky personel punësohet me kohë të plotë ose të pjesshme.
+- 1. Kriteret për punësim në institucionet e arsimit të lartë, për çdo kategori të personelit akademik dhe administrativ, përcaktohen në statutet e institucioneve. Ky personel punësohet me kohë të plotë ose të pjesshme.
 
-- 1.1 Personeli akademik i punësuar me kohë të plotë në një institucion të arsimit të lartë, publik ose privat, ka të drejtë, me miratimin e titullarit të njësisë kryesore dhe të institucionit  të  arsimit  të  lartë,  të  angazhohet  si  personel  akademik  i  ftuar  me  kohë  të pjesshme, në një institucion tjetër të arsimit të lartë, publik ose privat, brenda dhe jashtë vendit.
+- 1.1 Personeli akademik i punësuar me kohë të plotë në një institucion të arsimit të lartë, publik ose privat, ka të drejtë, me miratimin e titullarit të njësisë kryesore dhe të institucionit të arsimit të lartë, të angazhohet si personel akademik i ftuar me kohë të pjesshme, në një institucion tjetër të arsimit të lartë, publik ose privat, brenda dhe jashtë vendit.
 
-Autoritetet drejtuese, rektor, dekan dhe ato të njësuar me to, nuk kanë të drejtë të angazhohen me kohë të plotë në veprimtari mësimdhënieje, kërkimi apo në veprimtari të tjera në institucionet e tjera të arsimit të lartë, publik ose privat, brenda ose jashtë vendit, përveçse,  me  kohë  të  pjesshme,  pas  miratimit,  përkatësisht,  të  Ministrit  përgjegjës  për çështjet e arsimit ose të rektorit.
+Autoritetet drejtuese, rektor, dekan dhe ato të njësuar me to, nuk kanë të drejtë të angazhohen me kohë të plotë në veprimtari mësimdhënieje, kërkimi apo në veprimtari të tjera në institucionet e tjera të arsimit të lartë, publik ose privat, brenda ose jashtë vendit, përveçse, me kohë të pjesshme, pas miratimit, përkatësisht, të Ministrit përgjegjës për çështjet e arsimit ose të rektorit.
 
-- Kandidatët  konkurrojnë në bazë të konkurseve publike në njësitë kryesore të IAL-së. Në statutet e institucioneve të arsimit të lartë përcaktohen procedura transparente për përzgjedhjen e kandidatit fitues, që plotëson kërkesat e publikuara dhe i përgjigjet më mirë përshkrimit të vendit të punës.
+- 2. Kandidatët konkurrojnë në bazë të konkurseve publike në njësitë kryesore të IAL-së. Në statutet e institucioneve të arsimit të lartë përcaktohen procedura transparente për përzgjedhjen e kandidatit fitues, që plotëson kërkesat e publikuara dhe i përgjigjet më mirë përshkrimit të vendit të punës.
 
-- Për  emërimin  e  personelit  akademik,  autoriteti  drejtues  i  njësisë  kryesore  i paraqet autoritetit drejtues të institucionit të arsimit të lartë kandidatin e renditur i pari në klasifikimin  e  bërë  nga  komisioni  ad  hoc  i  konkursit  publik,  i  krijuar  nga  autoriteti drejtues  i  njësisë  kryesore.  Autoriteti  drejtues  i  institucionit  të  arsimit  të  lartë  lidh kontratë pune me kandidatin e përzgjedhur, mbështetur në këtë ligj dhe në Kodin e Punës të  Republikës së Shqipërisë. Kontrata duhet të përmbajë përshkrimin e vendit të punës dhe detyrimin e personelit akademik, sipas përcaktimeve të pikës 1 të nenit 47 të këtij ligji..
+- 3. Për emërimin e personelit akademik, autoriteti drejtues i njësisë kryesore i paraqet autoritetit drejtues të institucionit të arsimit të lartë kandidatin e renditur i pari në klasifikimin e bërë nga komisioni ad hoc i konkursit publik, i krijuar nga autoriteti drejtues i njësisë kryesore. Autoriteti drejtues i institucionit të arsimit të lartë lidh kontratë pune me kandidatin e përzgjedhur, mbështetur në këtë ligj dhe në Kodin e Punës të Republikës së Shqipërisë. Kontrata duhet të përmbajë përshkrimin e vendit të punës dhe detyrimin e personelit akademik, sipas përcaktimeve të pikës 1 të nenit 47 të këtij ligji..
 
-- Mësimdhënia  është  detyrim,  si  rregull,  me  së  paku  6  orë  mësim  në  javë  në auditor për të gjithë personelin akademik dhe me së paku 3 orë mësimi në javë në auditor për  personelin  akademik,  në  fakultetet  e  mjekësisë,  që  ushtron  veprimtari  klinike  në njësitë  e  shërbimeve  të  spitaleve  universitare,  në  përputhje  me  përcaktimin  e  nenit  12. Ngarkesa e plotë për personelin akademik në institucionet e arsimit të lartë përcaktohet me udhëzim të Ministrit përgjegjës për çështjet e arsimit..
+- 4. Mësimdhënia është detyrim, si rregull, me së paku 6 orë mësim në javë në auditor për të gjithë personelin akademik dhe me së paku 3 orë mësimi në javë në auditor për personelin akademik, në fakultetet e mjekësisë, që ushtron veprimtari klinike në njësitë e shërbimeve të spitaleve universitare, në përputhje me përcaktimin e nenit 12. Ngarkesa e plotë për personelin akademik në institucionet e arsimit të lartë përcaktohet me udhëzim të Ministrit përgjegjës për çështjet e arsimit..
 
-- Personeli akademik me titullin 'Profesor' shërben në detyrë deri në moshën 68 vjeç, me përjashtim të rastit kur me kërkesën e tij lirohet nga detyra.
+- 5. Personeli akademik me titullin 'Profesor' shërben në detyrë deri në moshën 68 vjeç, me përjashtim të rastit kur me kërkesën e tij lirohet nga detyra.
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
-- Personelit  akademik  i  ndërpriten  marrëdhëniet  e  punës  kur  nuk  përmbush detyrimet  e  përcaktuara  në  kontratë,  shkel  rregullat  e  etikës  së  jetës  akademike,  të statuteve  dhe  rregulloreve  të  institucioneve  të  arsimit  të  lartë,  në  përputhje  me  aktet ligjore në fuqi, si dhe dispozitave të këtij ligji.  Ndërprerja e marrëdhënieve të punës të personelit akademik bëhet vetëm pasi është marrë mendimi i titullarit të grupit mësimor kërkimor,  si  dhe  i  autoriteteve  drejtuese  të  njësisë  bazë  e  të  njësisë  kryesore  të institucionit të arsimit të lartë, përjashtuar rastet e shkeljes flagrante të Kodit të Punës dhe të etikës akademike.
+- 6. Personelit akademik i ndërpriten marrëdhëniet e punës kur nuk përmbush detyrimet e përcaktuara në kontratë, shkel rregullat e etikës së jetës akademike, të statuteve dhe rregulloreve të institucioneve të arsimit të lartë, në përputhje me aktet ligjore në fuqi, si dhe dispozitave të këtij ligji. Ndërprerja e marrëdhënieve të punës të personelit akademik bëhet vetëm pasi është marrë mendimi i titullarit të grupit mësimor kërkimor, si dhe i autoriteteve drejtuese të njësisë bazë e të njësisë kryesore të institucionit të arsimit të lartë, përjashtuar rastet e shkeljes flagrante të Kodit të Punës dhe të etikës akademike.
 
-- Personeli  akademik  me  titull  'Profesor'  mund  të  shkëputet  përkohësisht  nga institucioni i arsimit të lartë, për një periudhë maksimale prej 5 vjetësh, të rinovueshme, për t'u angazhuar në detyra të rëndësishme shtetërore dhe politike. Këtu përfshihen edhe pozicionet drejtuese të agjencive të rëndësishme të sistemit të arsimit dhe shkencës. Për periudhën  e  shkëputjes,  ky  personel  akademik  mund  të  zëvendësohet  nga  personel akademik me kontratë të përkohshme ose nga personel akademik i ftuar.
+- 7. Personeli akademik me titull 'Profesor' mund të shkëputet përkohësisht nga institucioni i arsimit të lartë, për një periudhë maksimale prej 5 vjetësh, të rinovueshme, për t'u angazhuar në detyra të rëndësishme shtetërore dhe politike. Këtu përfshihen edhe pozicionet drejtuese të agjencive të rëndësishme të sistemit të arsimit dhe shkencës. Për periudhën e shkëputjes, ky personel akademik mund të zëvendësohet nga personel akademik me kontratë të përkohshme ose nga personel akademik i ftuar.
 
 ### Neni 51
 
@@ -1114,9 +1114,9 @@ Personeli akademik gëzon status të veçantë. Përveç sa parashikohet në kë
 ### Neni 52
 #### Viti akademik sabatik
 
-- Personeli akademik me tituj i institucioneve të arsimit të lartë ka të drejtë që çdo 7 vjet, për periudha kohe deri në një vit, të punojë për përparimin e tij akademik, sipas kritereve të  përcaktuara  në  statutin  dhe  rregulloret  e  institucionit  pas  miratimit  të  këshillit  të fakultetit të njësisë kryesore. Autoritetet drejtuese të institucionit të arsimit të lartë nuk kanë të drejtë për vit sabatik gjatë kohës së ushtrimit të mandatit si drejtues, i zgjedhur apo i emëruar.
+- 1. Personeli akademik me tituj i institucioneve të arsimit të lartë ka të drejtë që çdo 7 vjet, për periudha kohe deri në një vit, të punojë për përparimin e tij akademik, sipas kritereve të përcaktuara në statutin dhe rregulloret e institucionit pas miratimit të këshillit të fakultetit të njësisë kryesore. Autoritetet drejtuese të institucionit të arsimit të lartë nuk kanë të drejtë për vit sabatik gjatë kohës së ushtrimit të mandatit si drejtues, i zgjedhur apo i emëruar.
 
-- Gjatë kësaj periudhe, personelit akademik nuk i ngarkohet detyrë mësimdhënieje. Personeli akademik mund  të ndjekë gjatë këtij viti edhe kurse specializimi deri tremujore jashtë institucionit.
+- 2. Gjatë kësaj periudhe, personelit akademik nuk i ngarkohet detyrë mësimdhënieje. Personeli akademik mund të ndjekë gjatë këtij viti edhe kurse specializimi deri tremujore jashtë institucionit.
 
 ## KREU VIII STUDENTËT
 
@@ -1134,43 +1134,43 @@ Një  person  fiton  statusin  e  studentit  me  regjistrimin  e  tij  në  një
 
 #### Të drejtat dhe detyrat e studentëve
 
-- Studentët kanë të drejtë:
+- 1. Studentët kanë të drejtë:
 
-- të  ndjekin  leksione,  seminare  dhe  të  gjitha  veprimtaritë  e  tjera  mësimore,  të organizuara në përputhje me statusin e tyre;
+- a) të ndjekin leksione, seminare dhe të gjitha veprimtaritë e tjera mësimore, të organizuara në përputhje me statusin e tyre;
 
-- të përdorin mjedise në biblioteka, salla kompjuterash dhe shërbime të tjera që ofrohen për studentët nga institucioni;
+- b) të përdorin mjedise në biblioteka, salla kompjuterash dhe shërbime të tjera që ofrohen për studentët nga institucioni;
 
-- të zgjedhin dhe të zgjidhen në organet e institucionit parashikuar për studentë, në përputhje me këtë ligj dhe statutin e institucionit;
+- c) të zgjedhin dhe të zgjidhen në organet e institucionit parashikuar për studentë, në përputhje me këtë ligj dhe statutin e institucionit;
 
 - ç) të shprehin opinionin e tyre për cilësinë e mësimdhënies dhe punën e personelit akademik të institucionit.
 
-- Studentët kanë detyrë:
+- 2. Studentët kanë detyrë:
 
-- të zbatojnë rregullat e hartuara nga institucioni;
+- a) të zbatojnë rregullat e hartuara nga institucioni;
 
-- t'u kushtojnë vëmendjen e duhur studimeve dhe të marrin pjesë në veprimtaritë akademike;
+- b) t'u kushtojnë vëmendjen e duhur studimeve dhe të marrin pjesë në veprimtaritë akademike;
 
-- të paguajnë tarifat e shkollimeve dhe të shërbimeve që u ofrojnë institucionet;
+- c) të paguajnë tarifat e shkollimeve dhe të shërbimeve që u ofrojnë institucionet;
 
-- ç)  të  respektojnë  kodin  e  etikës,  të  përcaktuar  në  statutet  ose  rregulloret  e institucioneve respektive të arsimit të lartë;
+- ç) të respektojnë kodin e etikës, të përcaktuar në statutet ose rregulloret e institucioneve respektive të arsimit të lartë;
 
-- të tregojnë vëmendjen e duhur ndaj të drejtave të personelit dhe të studentëve të tjerë etj.
+- d) të tregojnë vëmendjen e duhur ndaj të drejtave të personelit dhe të studentëve të tjerë etj.
 
-- Në statutin e institucionit përcaktohen të drejta dhe detyra të tjera të studentëve në përputhje me këtë ligj.
+- 3. Në statutin e institucionit përcaktohen të drejta dhe detyra të tjera të studentëve në përputhje me këtë ligj.
 
 ### Neni 55
 
 #### Këshillat e studentëve
 
-- Këshillat  e  studentëve  janë  organizime  të  pavarura  të  studentëve  nëpër institucionet e arsimit të lartë, të cilat nuk zhvillojnë veprimtari politike dhe ekonomike. Këta këshilla promovojnë pjesëmarrjen e studentëve dhe koordinojnë përfaqësimin e tyre në  organet  drejtuese  të  institucioneve  të  arsimit  të  lartë,  në  strukturat  mësimorekërkimore dhe të shërbimeve.
+- 1. Këshillat e studentëve janë organizime të pavarura të studentëve nëpër institucionet e arsimit të lartë, të cilat nuk zhvillojnë veprimtari politike dhe ekonomike. Këta këshilla promovojnë pjesëmarrjen e studentëve dhe koordinojnë përfaqësimin e tyre në organet drejtuese të institucioneve të arsimit të lartë, në strukturat mësimore-kërkimore dhe të shërbimeve.
 
-- Këshillat  e  studentëve  zgjidhen  çdo  2  vjet  nga  votat  e  studentëve  dhe mbështeten në legjislacionin në fuqi. Në rastet kur një individ i zgjedhur në këshillat e studentëve përfundon studimet universitare, ai zëvendësohet nga kandidati pasardhës në renditje për nga numri i votave të grumbulluara në zgjedhjet e fundit..
+- 2. Këshillat e studentëve zgjidhen çdo 2 vjet nga votat e studentëve dhe mbështeten në legjislacionin në fuqi. Në rastet kur një individ i zgjedhur në këshillat e studentëve përfundon studimet universitare, ai zëvendësohet nga kandidati pasardhës në renditje për nga numri i votave të grumbulluara në zgjedhjet e fundit..
 
-- Këshillat  e  studentëve  organizohen  në  nivel  fakulteti  (këshilli  i  studentëve  të fakultetit),  në  nivel  institucioni  (këshilli  i  studentëve  të  institucionit)  dhe  në  nivel kombëtar (Këshilli Kombëtar i Studentëve). Në organizimin e këshillave të studentëve në nivel kombëtar bëjnë pjesë edhe këshillat e studentëve të institucioneve private të arsimit të lartë, në rastet kur ato paraqesin interes për këto organizime.
+- 3. Këshillat e studentëve organizohen në nivel fakulteti (këshilli i studentëve të fakultetit), në nivel institucioni (këshilli i studentëve të institucionit) dhe në nivel kombëtar (Këshilli Kombëtar i Studentëve). Në organizimin e këshillave të studentëve në nivel kombëtar bëjnë pjesë edhe këshillat e studentëve të institucioneve private të arsimit të lartë, në rastet kur ato paraqesin interes për këto organizime.
 
-- Këshillat e studentëve nuk mund të organizohen me struktura të tjera politike e jopolitike, jashtë institucioneve përkatëse të arsimit të lartë. Modalitetet dhe procedurat për krijimin, organizimin dhe funksionimin e tyre përcaktohen në statutet dhe rregulloret e  institucioneve  të  arsimit  të  lartë,  në  përputhje  me  këtë  ligj,  mbështetur  edhe  në propozimet e paraqitura nga studentët.
+- 4. Këshillat e studentëve nuk mund të organizohen me struktura të tjera politike e jopolitike, jashtë institucioneve përkatëse të arsimit të lartë. Modalitetet dhe procedurat për krijimin, organizimin dhe funksionimin e tyre përcaktohen në statutet dhe rregulloret e institucioneve të arsimit të lartë, në përputhje me këtë ligj, mbështetur edhe në propozimet e paraqitura nga studentët.
 
-- Këshillat e studentëve shprehin mendime  dhe  propozime  për  të  gjitha problemet me interes të përgjithshëm të institucioneve të arsimit të lartë, si për planet dhe programet e studimeve, rregulloret për veprimtaritë mësimore, të drejtën për të studiuar, cilësinë  e  shërbimeve,  përcaktimin  e  tarifave  të  shkollimit  dhe  kontributeve  të  tjera
+- 5. Këshillat e studentëve shprehin mendime dhe propozime për të gjitha problemet me interes të përgjithshëm të institucioneve të arsimit të lartë, si për planet dhe programet e studimeve, rregulloret për veprimtaritë mësimore, të drejtën për të studiuar, cilësinë e shërbimeve, përcaktimin e tarifave të shkollimit dhe kontributeve të tjera
 
 [[END OF PAGE 28]]
 
@@ -1178,40 +1178,40 @@ Një  person  fiton  statusin  e  studentit  me  regjistrimin  e  tij  në  një
 
 financiare  për  studentët,  bilancet  vjetore  paraprake  të  shpenzimeve  ose  ndarjen  e burimeve financiare, zhvillimin e veprimtarive të ndryshme kulturore, artistike, sportive etj.
 
-- Institucionet e arsimit të lartë mbështesin këshillat e studentëve dhe financojnë veprimtari të tyre.
+- 6. Institucionet e arsimit të lartë mbështesin këshillat e studentëve dhe financojnë veprimtari të tyre.
 
 ### Neni 56
 
 #### Karta e studentit
 
-- Studentët e institucioneve publike e private të arsimit të lartë pajisen me kartën e studentit, e cila është dokument unik. Me anë të saj studentët përfitojnë shërbime me çmime të reduktuara.
+- 1. Studentët e institucioneve publike e private të arsimit të lartë pajisen me kartën e studentit, e cila është dokument unik. Me anë të saj studentët përfitojnë shërbime me çmime të reduktuara.
 
-- Ministria përgjegjëse për çështjet e arsimit  përcakton kriteret dhe procedurat për përgatitjen dhe lëshimin e kartës së studentit.
+- 2. Ministria përgjegjëse për çështjet e arsimit përcakton kriteret dhe procedurat për përgatitjen dhe lëshimin e kartës së studentit.
 
-- Përfitimet  e  studentëve  nga  përdorimi  i  kartës  së  studentit  përballohen  nga fondet e parashikuara në Buxhetin e Shtetit të ministrisë përkatëse që  mbulon institucionin e arsimit të lartë.
+- 3. Përfitimet e studentëve nga përdorimi i kartës së studentit përballohen nga fondet e parashikuara në Buxhetin e Shtetit të ministrisë përkatëse që mbulon institucionin e arsimit të lartë.
 
-- Kategoritë  e  shërbimeve  që  ofrojnë  entet  shtetërore  bëhen  me  vendim  të Këshillit të Ministrave dhe me marrëveshje me organizma që kanë objekt të tyre interesat studentorë e me persona juridikë privatë që ofrojnë shërbime të ndryshme.
+- 4. Kategoritë e shërbimeve që ofrojnë entet shtetërore bëhen me vendim të Këshillit të Ministrave dhe me marrëveshje me organizma që kanë objekt të tyre interesat studentorë e me persona juridikë privatë që ofrojnë shërbime të ndryshme.
 
 ### Neni 57
 
 #### Bursa për studime
 
-- Studentët  e  institucioneve  publike  të  arsimit  të  lartë  përfitojnë  bursa  si mbështetje  ekonomike  për  studimet  e  tyre,  si  dhe  stimuj  materialë  për  rezultate  të shkëlqyera.
+- 1. Studentët e institucioneve publike të arsimit të lartë përfitojnë bursa si mbështetje ekonomike për studimet e tyre, si dhe stimuj materialë për rezultate të shkëlqyera.
 
-- Bursat,  sipas  pikës  1  të  këtij  neni,  përballohen  nga  Buxheti  i  Shtetit  dhe donacione të ligjshme. Këshilli i Ministrave përcakton kriteret shtetërore dhe procedurat për përfitimin e bursave.
+- 2. Bursat, sipas pikës 1 të këtij neni, përballohen nga Buxheti i Shtetit dhe donacione të ligjshme. Këshilli i Ministrave përcakton kriteret shtetërore dhe procedurat për përfitimin e bursave.
 
-- Institucionet  e  arsimit  të  lartë  përcaktojnë  në  statutet  e  tyre  kritere  dhe procedura për shpërblime të studentëve, që përballohen nga vetë institucionet.
+- 3. Institucionet e arsimit të lartë përcaktojnë në statutet e tyre kritere dhe procedura për shpërblime të studentëve, që përballohen nga vetë institucionet.
 
-- Me  propozimin  e  ministrisë  përgjegjëse  për  çështjet  e  arsimit,  Këshilli  i Ministrave konsideron dhe raste të tjera për dhënie bursash, si dhe bursa për studentë të shkëlqyer dhe shkencëtarë.
+- 4. Me propozimin e ministrisë përgjegjëse për çështjet e arsimit, Këshilli i Ministrave konsideron dhe raste të tjera për dhënie bursash, si dhe bursa për studentë të shkëlqyer dhe shkencëtarë.
 
 ### Neni 58
 #### Regjistri i studentëve
 
-- Një institucion i arsimit të lartë duhet të mbajë regjistër bazë të studentëve me të dhëna personale të tyre, vlerësimet e marra gjatë ndjekjes së programit të studimit, të dhëna  mbi  diplomën  ose  diplomat  e  marra  bashkë  me  suplementin  e  diplomës  etj.,  të formatuara këto sipas standardeve shtetërore.
+- 1. Një institucion i arsimit të lartë duhet të mbajë regjistër bazë të studentëve me të dhëna personale të tyre, vlerësimet e marra gjatë ndjekjes së programit të studimit, të dhëna mbi diplomën ose diplomat e marra bashkë me suplementin e diplomës etj., të formatuara këto sipas standardeve shtetërore.
 
-- Regjistri  i  studentëve  plotësohet  në  formë  të  shkruar  dhe  elektronike  dhe mbahet në ruajtje të përhershme.
+- 2. Regjistri i studentëve plotësohet në formë të shkruar dhe elektronike dhe mbahet në ruajtje të përhershme.
 
-- Çdo studenti, në regjistrimin fillestar në një institucion të arsimit të lartë, i jepet një numër unik matrikullimi, që e shoqëron deri në marrjen e diplomës ose certifikatës. Ministri përgjegjës për çështjet e arsimit përcakton rregullat për gjenerimin dhe dhënien e numrave të matrikullimit.
+- 3. Çdo studenti, në regjistrimin fillestar në një institucion të arsimit të lartë, i jepet një numër unik matrikullimi, që e shoqëron deri në marrjen e diplomës ose certifikatës. Ministri përgjegjës për çështjet e arsimit përcakton rregullat për gjenerimin dhe dhënien e numrave të matrikullimit.
 
 [[END OF PAGE 29]]
 
@@ -1219,67 +1219,67 @@ financiare  për  studentët,  bilancet  vjetore  paraprake  të  shpenzimeve  o
 
 ## KREU IX
 
-## SIGURIMI I CILËSISË NË ARSIMIN E LARTË - AKREDITIMI
+## SIGURIMI I CILËSISË NË ARSIMIN E LARTË – AKREDITIMI
 
 ### Neni 59
 
 #### Sigurimi i brendshëm i cilësisë
 
-- Institucionet  e  arsimit  të  lartë  janë  përgjegjëse  për  sigurimin  e  brendshëm  të cilësisë  dhe  ngrenë  njësinë  përkatëse  të  sigurimit  të  brendshëm  të  cilësisë.  Në  to  merr pjesë gjithmonë edhe një përfaqësues nga organizimet studentore të institucionit, si dhe një përfaqësues ekspert i jashtëm. Njësia vlerëson periodikisht efikasitetin e veprimtarive mësimore, kërkimore apo artistike, si dhe të veprimtarive administrative e financiare të institucionit. Njësia e sigurimit të brendshëm të cilësisë ka autonomi operative dhe akses në të gjitha të dhënat e institucionit.
+- 1. Institucionet e arsimit të lartë janë përgjegjëse për sigurimin e brendshëm të cilësisë dhe ngrenë njësinë përkatëse të sigurimit të brendshëm të cilësisë. Në to merr pjesë gjithmonë edhe një përfaqësues nga organizimet studentore të institucionit, si dhe një përfaqësues ekspert i jashtëm. Njësia vlerëson periodikisht efikasitetin e veprimtarive mësimore, kërkimore apo artistike, si dhe të veprimtarive administrative e financiare të institucionit. Njësia e sigurimit të brendshëm të cilësisë ka autonomi operative dhe akses në të gjitha të dhënat e institucionit.
 
-- Kriteret dhe procedurat për ngritjen dhe funksionimin e këtij sistemi hartohen nga institucionet e arsimit të lartë, në bashkëpunim me Agjencinë Publike të Akreditimit të Arsimit të Lartë dhe përcaktohen në statutet e institucioneve.
+- 2. Kriteret dhe procedurat për ngritjen dhe funksionimin e këtij sistemi hartohen nga institucionet e arsimit të lartë, në bashkëpunim me Agjencinë Publike të Akreditimit të Arsimit të Lartë dhe përcaktohen në statutet e institucioneve.
 
-- Institucionet e arsimit të lartë publikojnë rezultatet e vlerësimit që kryejnë.
+- 3. Institucionet e arsimit të lartë publikojnë rezultatet e vlerësimit që kryejnë.
 
 ### Neni 60
 
 #### Sigurimi i jashtëm i cilësisë
 
-- Sigurimi  i  jashtëm  i  cilësisë  realizohet  përmes  proceseve  të  vlerësimit  të jashtëm të cilësisë dhe akreditimit.
+- 1. Sigurimi i jashtëm i cilësisë realizohet përmes proceseve të vlerësimit të jashtëm të cilësisë dhe akreditimit.
 
-- Vlerësimi  i  jashtëm  i  cilësisë  kryhet  nga  Agjencia  Publike  e  Akreditimit  të Arsimit të Lartë ose agjenci të tjera akreditimi, pjesë të Rrjetit Europian për Sigurimin e Cilësisë  në  Arsimin  e  Lartë  (ENQA).  Këshilli  i  Ministrave  miraton  rregulloren  për organizimin dhe veprimtarinë e këtyre agjencive.
+- 2. Vlerësimi i jashtëm i cilësisë kryhet nga Agjencia Publike e Akreditimit të Arsimit të Lartë ose agjenci të tjera akreditimi, pjesë të Rrjetit Europian për Sigurimin e Cilësisë në Arsimin e Lartë (ENQA). Këshilli i Ministrave miraton rregulloren për organizimin dhe veprimtarinë e këtyre agjencive.
 
-- Pranë Agjencisë Publike të Akreditimit të Arsimit të Lartë funksionon këshilli i akreditimit.  Këshilli  i  akreditimit  është  një  organ  kolegjial  që  rekomandon,  bazuar  në vlerësimin  e  jashtëm  të  cilësisë,  akreditimin  e  programeve/institucioneve  në  arsimin  e lartë  publik  dhe  privat.  Ai  është  i  pavarur  në  punën  e  tij  dhe  bën  publik  vendimet  e këshillit,  duke  shprehur  edhe  mendimet  kundër.  Në  këshill  përfaqësohen  në  mënyrë  të balancuar  institucionet  e  arsimit  të  lartë,  Ministria  përgjegjëse  për  çështjet  e  arsimit  , Këshilli  i  Arsimit  të  Lartë  dhe  Shkencës,  ekspertë  të  fushave,  si  dhe  një  student  nga organizimet  studentore.  Ministri  përgjegjës  për  çështjet  e  arsimit  emëron  anëtarët  e këshillit  të  akreditimit  nga  kandidatët  e  propozuar  nga  palët  e  përfaqësuara.  Kryetari  i këshillit të akreditimit përzgjidhet nga kandidatët e propozuar nga këshilli i akreditimit dhe  emërohet  e  shkarkohet  nga  Kryeministri,  me  propozim  të  Ministrit  përgjegjës  për çështjet e arsimit. Anëtarësia në këshillin e akreditimit është e papajtueshme me detyrën e rektorit, zëvendësrektorit dhe dekanit.
+- 3. Pranë Agjencisë Publike të Akreditimit të Arsimit të Lartë funksionon këshilli i akreditimit. Këshilli i akreditimit është një organ kolegjial që rekomandon, bazuar në vlerësimin e jashtëm të cilësisë, akreditimin e programeve/institucioneve në arsimin e lartë publik dhe privat. Ai është i pavarur në punën e tij dhe bën publik vendimet e këshillit, duke shprehur edhe mendimet kundër. Në këshill përfaqësohen në mënyrë të balancuar institucionet e arsimit të lartë, Ministria përgjegjëse për çështjet e arsimit , Këshilli i Arsimit të Lartë dhe Shkencës, ekspertë të fushave, si dhe një student nga organizimet studentore. Ministri përgjegjës për çështjet e arsimit emëron anëtarët e këshillit të akreditimit nga kandidatët e propozuar nga palët e përfaqësuara. Kryetari i këshillit të akreditimit përzgjidhet nga kandidatët e propozuar nga këshilli i akreditimit dhe emërohet e shkarkohet nga Kryeministri, me propozim të Ministrit përgjegjës për çështjet e arsimit. Anëtarësia në këshillin e akreditimit është e papajtueshme me detyrën e rektorit, zëvendësrektorit dhe dekanit.
 
-- Mandati i anëtarëve të këshillit të akreditimit është 5 vjet.
+- 4. Mandati i anëtarëve të këshillit të akreditimit është 5 vjet.
 
-- Për të ndihmuar procesin e vlerësimit, vendimmarrjen dhe hartimin mbi baza profesionale të rekomandimeve të akreditimit, këshilli i akreditimit ngre edhe komisione të ekspertëve, sipas fushave kryesore të arsimit të lartë. Këto komisione kanë karakter të përkohshëm dhe përbëhen nga ekspertë vendas apo të huaj.
+- 5. Për të ndihmuar procesin e vlerësimit, vendimmarrjen dhe hartimin mbi baza profesionale të rekomandimeve të akreditimit, këshilli i akreditimit ngre edhe komisione të ekspertëve, sipas fushave kryesore të arsimit të lartë. Këto komisione kanë karakter të përkohshëm dhe përbëhen nga ekspertë vendas apo të huaj.
 
-- Funksionimi, fusha e veprimtarisë dhe kompetencat e tjera të institucioneve të sigurimit  të  cilësisë  në  arsimin  e  lartë  përcaktohen  me  akte  nënligjore  të  Ministrit përgjegjës për çështjet e arsimit.
+- 6. Funksionimi, fusha e veprimtarisë dhe kompetencat e tjera të institucioneve të sigurimit të cilësisë në arsimin e lartë përcaktohen me akte nënligjore të Ministrit përgjegjës për çështjet e arsimit.
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-- Agjencia Publike e Akreditimit të Arsimit të Lartë dhe Këshilli i Akreditimit të Arsimit të Lartë hartojnë një raport vjetor të veprimtarisë së tyre, i cili bëhet publik.
+- 7. Agjencia Publike e Akreditimit të Arsimit të Lartë dhe Këshilli i Akreditimit të Arsimit të Lartë hartojnë një raport vjetor të veprimtarisë së tyre, i cili bëhet publik.
 
 ### Neni 61
 
 #### Vlerësimi i cilësisë
 
-- Vlerësimi dhe akreditimi mund të jenë në nivel institucional dhe programesh studimi.
+- 1. Vlerësimi dhe akreditimi mund të jenë në nivel institucional dhe programesh studimi.
 
-- Vlerësimi dhe akreditimi mbështeten në standardet shtetërore të cilësisë. Këto standarde përcaktohen me akte nënligjore të ministrisë përgjegjëse për çështjet e arsimit. Propozimi për standardet shtetërore të cilësisë bëhet nga Këshilli i Arsimit të Lartë dhe Shkencës,  në  bashkëpunim  me  Agjencinë  Publike  të  Akreditimit  të  Arsimit  të  Lartë, mbështetur dhe në udhëzimet e Sigurimit të Cilësisë në Hapësirën Europiane të Arsimit të Lartë.
+- 2. Vlerësimi dhe akreditimi mbështeten në standardet shtetërore të cilësisë. Këto standarde përcaktohen me akte nënligjore të ministrisë përgjegjëse për çështjet e arsimit. Propozimi për standardet shtetërore të cilësisë bëhet nga Këshilli i Arsimit të Lartë dhe Shkencës, në bashkëpunim me Agjencinë Publike të Akreditimit të Arsimit të Lartë, mbështetur dhe në udhëzimet e Sigurimit të Cilësisë në Hapësirën Europiane të Arsimit të Lartë.
 
 ### Neni 62
 
 #### Akreditimi
 
-- Ministri  përgjegjës  për  çështjet  e  arsimit,  mbështetur  në  rekomandimet  e këshillit  të  akreditimit,  jep  vendimin  përfundimtar  për  akreditimin  institucional  dhe  të programeve  në  arsimin  e  lartë  publik  dhe  privat.  Ai  shprehet  brenda  një  muaji,  në  të kundërt këshilli i akreditimit shpall vendimin e tij.
+- 1. Ministri përgjegjës për çështjet e arsimit, mbështetur në rekomandimet e këshillit të akreditimit, jep vendimin përfundimtar për akreditimin institucional dhe të programeve në arsimin e lartë publik dhe privat. Ai shprehet brenda një muaji, në të kundërt këshilli i akreditimit shpall vendimin e tij.
 
 Shfuqizuar.
 
-- Vendimi për akreditimin mund të jetë pozitiv, negativ ose me kusht. Vendimi negativ  bën  që  një  institucion  ose  program  të  mos  njihet  zyrtarisht  në  Republikën  e Shqipërisë.
+- 2. Vendimi për akreditimin mund të jetë pozitiv, negativ ose me kusht. Vendimi negativ bën që një institucion ose program të mos njihet zyrtarisht në Republikën e Shqipërisë.
 
-- Çdo institucion i arsimit të lartë apo program studimi në arsimin e lartë publik dhe privat, përpara lëshimit të diplomave të para, i nënshtrohet procesit të akreditimit të parë. Akreditimi i parë i jep të drejtën një institucioni publik ose privat të arsimit të lartë të lëshojë diploma të njohura në Republikën e Shqipërisë.
+- 3. Çdo institucion i arsimit të lartë apo program studimi në arsimin e lartë publik dhe privat, përpara lëshimit të diplomave të para, i nënshtrohet procesit të akreditimit të parë. Akreditimi i parë i jep të drejtën një institucioni publik ose privat të arsimit të lartë të lëshojë diploma të njohura në Republikën e Shqipërisë.
 
-- Çdo  program/institucion  i  akredituar  i  nënshtrohet  vlerësimit  dhe  akreditimit periodik. Vlerësimi dhe akreditimi periodik kryhet çdo 6 vjet.
+- 4. Çdo program/institucion i akredituar i nënshtrohet vlerësimit dhe akreditimit periodik. Vlerësimi dhe akreditimi periodik kryhet çdo 6 vjet.
 
-- Procedurat,  kërkesat,  kriteret  dhe  standardet  për  vlerësimin  dhe  akreditimin janë të njëjta si për institucionet publike të arsimit të lartë, ashtu dhe për ato private. Për institucionet  e  arsimit  të  lartë,  që  operojnë  e  ofrojnë  diploma  të  përbashkëta  me institucione të huaja të arsimit të lartë, si dhe për filiale të institucioneve të arsimit të lartë të  huaja,  që  ushtrojnë  veprimtari  në  Republikën  e  Shqipërisë,  vlerësimi  dhe  akreditimi kryhen duke marrë parasysh edhe vlerësimin dhe akreditimin e tyre në vendin e origjinës.
+- 5. Procedurat, kërkesat, kriteret dhe standardet për vlerësimin dhe akreditimin janë të njëjta si për institucionet publike të arsimit të lartë, ashtu dhe për ato private. Për institucionet e arsimit të lartë, që operojnë e ofrojnë diploma të përbashkëta me institucione të huaja të arsimit të lartë, si dhe për filiale të institucioneve të arsimit të lartë të huaja, që ushtrojnë veprimtari në Republikën e Shqipërisë, vlerësimi dhe akreditimi kryhen duke marrë parasysh edhe vlerësimin dhe akreditimin e tyre në vendin e origjinës.
 
-- Shpenzimet  për vlerësimin e jashtëm të cilësisë përballohen nga vetë institucionet e arsimit të lartë.
+- 6. Shpenzimet për vlerësimin e jashtëm të cilësisë përballohen nga vetë institucionet e arsimit të lartë.
 
-- Rezultatet e vlerësimit të jashtëm dhe akreditimit bëhen publike.
+- 7. Rezultatet e vlerësimit të jashtëm dhe akreditimit bëhen publike.
 
 [[END OF PAGE 31]]
 
@@ -1293,42 +1293,42 @@ Shfuqizuar.
 
 #### Përgjegjësitë e ministrisë përgjegjëse për çështjet e arsimit
 
-- Ministria përgjegjëse për çështjet e arsimit  është përgjegjëse për realizimin e programit  politik  qeverisës  në  fushën  e  arsimit  të  lartë  dhe  kërkimit  shkencor.  Ajo miraton planin strategjik dhe të gjitha dokumentet e tjera që kanë lidhje me politikën në fushën e arsimit të lartë dhe kërkimit shkencor.
+- 1. Ministria përgjegjëse për çështjet e arsimit është përgjegjëse për realizimin e programit politik qeverisës në fushën e arsimit të lartë dhe kërkimit shkencor. Ajo miraton planin strategjik dhe të gjitha dokumentet e tjera që kanë lidhje me politikën në fushën e arsimit të lartë dhe kërkimit shkencor.
 
-- Siguron dhe përgatit të gjithë bazën ligjore të nevojshme në fushën e arsimit të lartë dhe kërkimit shkencor.
+- 2. Siguron dhe përgatit të gjithë bazën ligjore të nevojshme në fushën e arsimit të lartë dhe kërkimit shkencor.
 
-- I  propozon  Këshillit  të  Ministrave  buxhetin  për  arsimin  e  lartë  dhe  kërkimin shkencor,  sipas  përcaktimeve  në  aktet  e  tjera  ligjore  e  nënligjore  në  fuqi.  Ajo  miraton modelin e financimit për secilin institucion publik të arsimit të lartë.
+- 3. I propozon Këshillit të Ministrave buxhetin për arsimin e lartë dhe kërkimin shkencor, sipas përcaktimeve në aktet e tjera ligjore e nënligjore në fuqi. Ajo miraton modelin e financimit për secilin institucion publik të arsimit të lartë.
 
-- Ministria përgjegjëse për çështjet e arsimit  është përgjegjëse për sigurimin e cilësisë dhe respektimin e standardeve në institucionet publike dhe private të arsimit të lartë në Republikën e Shqipërisë. Ajo kontrollon zbatimin e ligjshmërisë dhe përdorimin e fondeve publike në institucionet publike të arsimit të lartë, në bazë të këtij ligji, si dhe zbatimin e ligjshmërisë në institucionet private të arsimit të lartë.
+- 4. Ministria përgjegjëse për çështjet e arsimit është përgjegjëse për sigurimin e cilësisë dhe respektimin e standardeve në institucionet publike dhe private të arsimit të lartë në Republikën e Shqipërisë. Ajo kontrollon zbatimin e ligjshmërisë dhe përdorimin e fondeve publike në institucionet publike të arsimit të lartë, në bazë të këtij ligji, si dhe zbatimin e ligjshmërisë në institucionet private të arsimit të lartë.
 
-- Gjatë ushtrimit të autoritetit të saj, Ministria përgjegjëse për çështjet e arsimit respekton autonominë institucionale, akademike dhe financiare që institucionet e arsimit të lartë kanë në këtë ligj.
+- 5. Gjatë ushtrimit të autoritetit të saj, Ministria përgjegjëse për çështjet e arsimit respekton autonominë institucionale, akademike dhe financiare që institucionet e arsimit të lartë kanë në këtë ligj.
 
-- Ministria përgjegjëse për çështjet e arsimit  mban regjistrin e institucioneve tё arsimit tё lartё dhe të kërkimit shkencor, tё hartuar sipas njё formati tё përcaktuar prej saj me akt nënligjor, si dhe regjistrin e programe të akredituara të studimeve.
+- 6. Ministria përgjegjëse për çështjet e arsimit mban regjistrin e institucioneve tё arsimit tё lartё dhe të kërkimit shkencor, tё hartuar sipas njё formati tё përcaktuar prej saj me akt nënligjor, si dhe regjistrin e programe të akredituara të studimeve.
 
 ### Neni 64
 #### Kontrolli i ligjshmërisë
 
-- Ministria  përgjegjëse  për  çështjet  e  arsimit    kryen  periodikisht,  të  paktën  një herë në tre vjet, kontrollin e zbatimit të ligjshmërisë në institucionet publike ose private të arsimit të lartë dhe të paktën një herë në vit kontroll financiar në institucionet publike të arsimit të lartë. Kontrolli bëhet nga inspektorati shtetëror që mbulon fushën e arsimit, në përputhje  me  këtë  ligj  dhe  ligjin  nr.  10433,  datë  16.6.2011  'Për  inspektimin  në Republikën e Shqipërisë'.
+- 1. Ministria përgjegjëse për çështjet e arsimit kryen periodikisht, të paktën një herë në tre vjet, kontrollin e zbatimit të ligjshmërisë në institucionet publike ose private të arsimit të lartë dhe të paktën një herë në vit kontroll financiar në institucionet publike të arsimit të lartë. Kontrolli bëhet nga inspektorati shtetëror që mbulon fushën e arsimit, në përputhje me këtë ligj dhe ligjin nr. 10433, datë 16.6.2011 'Për inspektimin në Republikën e Shqipërisë'.
 
-- 1/1.  Organizimin  dhe  funksionimi  i  inspektoratit  shtetëror  që  mbulon  fushën  e arsimit  përcaktohet  me  vendim  të  Këshillit  të  Ministrave,  në  përputhje  me  ligjin  për inspektimin.'
+- 1/1. Organizimin dhe funksionimi i inspektoratit shtetëror që mbulon fushën e arsimit përcaktohet me vendim të Këshillit të Ministrave, në përputhje me ligjin për inspektimin.'
 
-(shfuqizuar me Vendimin nr.9, date 19.3.2008 të Gjykatës Kushtetuese).
+- 2. (shfuqizuar me Vendimin nr.9, datë 19.3.2008 të Gjykatës Kushtetuese).
 
-- Në raste flagrante ose shkelje të rënda të ligjit dhe akteve nënligjore nga rektori i  një  institucioni  të  arsimit  të  lartë,  Ministri  përgjegjës  për  çështjet  e  arsimit  urdhëron pezullimin e tij, duke  ia dërguar atë për procedura  të mëtejshme  Presidentit të Republikës, i cili duhet të përgjigjet brenda një muaji. Ministri përgjegjës për çështjet e arsimit cakton njërin prej zëvendësrektorëve që do të zëvendësojë rektorin e pezulluar, deri në zgjedhjen e rektorit të ri, sipas këtij ligji. Ministri përgjegjës për çështjet e arsimit, menjëherë pas dekretimit të shkarkimit, shpall zgjedhje të parakohshme.
+- 3. Në raste flagrante ose shkelje të rënda të ligjit dhe akteve nënligjore nga rektori i një institucioni të arsimit të lartë, Ministri përgjegjës për çështjet e arsimit urdhëron pezullimin e tij, duke ia dërguar atë për procedura të mëtejshme Presidentit të Republikës, i cili duhet të përgjigjet brenda një muaji. Ministri përgjegjës për çështjet e arsimit cakton njërin prej zëvendësrektorëve që do të zëvendësojë rektorin e pezulluar, deri në zgjedhjen e rektorit të ri, sipas këtij ligji. Ministri përgjegjës për çështjet e arsimit, menjëherë pas dekretimit të shkarkimit, shpall zgjedhje të parakohshme.
 
-- Në raste flagrante ose shkelje të rënda të ligjit dhe akteve nënligjore nga një autoritet drejtues i një njësie kryesore, rektori urdhëron pezullimin e atij autoriteti dhe i
+- 4. Në raste flagrante ose shkelje të rënda të ligjit dhe akteve nënligjore nga një autoritet drejtues i një njësie kryesore, rektori urdhëron pezullimin e atij autoriteti dhe i
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-- propozon Ministrit përgjegjës për çështjet e arsimit shkarkimin e tij, i cili shprehet brenda një  muaji.  Rektori  cakton  njërin  prej  zëvendësve  të  autoritetit  që  do  ta  zëvendësojë autoritetin  drejtues  të  pezulluar  deri  në  zgjedhjen  e  autoritetit  të  ri,  sipas  këtij  ligji. Rektori organizon zgjedhjet e parakohshme.
+propozon Ministrit përgjegjës për çështjet e arsimit shkarkimin e tij, i cili shprehet brenda një muaji. Rektori cakton njërin prej zëvendësve të autoritetit që do ta zëvendësojë autoritetin drejtues të pezulluar deri në zgjedhjen e autoritetit të ri, sipas këtij ligji. Rektori organizon zgjedhjet e parakohshme.
 
-- Në raste të ngjashme, dekani/drejtori urdhëron pezullimin e përgjegjësit të një njësie  bazë  dhe  i  propozon  rektorit  shkarkimin  e  tij,  i  cili  shprehet  brenda  një  muaji. Dekani/drejtori cakton njërin prej përgjegjësve të grupeve kërkimore ose shkencore që do ta zëvendësojë autoritetin drejtues të pezulluar deri në zgjedhjen e autoritetit të ri, sipas këtij ligji. Dekani/drejtori organizon zgjedhjet e parakohshme.
+- 5. Në raste të ngjashme, dekani/drejtori urdhëron pezullimin e përgjegjësit të një njësie bazë dhe i propozon rektorit shkarkimin e tij, i cili shprehet brenda një muaji. Dekani/drejtori cakton njërin prej përgjegjësve të grupeve kërkimore ose shkencore që do ta zëvendësojë autoritetin drejtues të pezulluar deri në zgjedhjen e autoritetit të ri, sipas këtij ligji. Dekani/drejtori organizon zgjedhjet e parakohshme.
 
-- Në  rastet  kur  Ministria  përgjegjëse  për  çështjet  e  arsimit    konstaton  raste flagrante ose shkelje të rënda të ligjit dhe akteve nënligjore nga një autoritet drejtues i një njësie kryesore ose bazë të një institucioni të arsimit të lartë, ministri i përcjell materialin organit të emërtesës për veprime të mëtejshme, sipas këtij ligji.
+- 6. Në rastet kur Ministria përgjegjëse për çështjet e arsimit konstaton raste flagrante ose shkelje të rënda të ligjit dhe akteve nënligjore nga një autoritet drejtues i një njësie kryesore ose bazë të një institucioni të arsimit të lartë, ministri i përcjell materialin organit të emërtesës për veprime të mëtejshme, sipas këtij ligji.
 
-- Kur inspektori, gjatë kontrollit të ligjshmërisë, konstaton shkelje të kërkesave ligjore,  ai  bën  propozimin  për  marrjen  e  masave,  sipas  nenit  45  të  këtij  ligji,  dhe propozimi i tij  i  paraqitet  Këshillit  të  Ministrave  nga  Ministri  përgjegjës  për  çështjet  e arsimit.
+- 7. Kur inspektori, gjatë kontrollit të ligjshmërisë, konstaton shkelje të kërkesave ligjore, ai bën propozimin për marrjen e masave, sipas nenit 45 të këtij ligji, dhe propozimi i tij i paraqitet Këshillit të Ministrave nga Ministri përgjegjës për çështjet e arsimit.
 
 ### Neni 64/1
 
@@ -1342,63 +1342,63 @@ Ndaj  vendimit  të  marrë  nga  autoritetet  drejtuese  dhe  nga  Këshilli  i
 
 #### Këshilli i Arsimit të Lartë dhe Shkencës
 
-- Këshilli  i  Arsimit  të  Lartë  dhe  Shkencës  është  organ  këshillimor  i  ministrisë përgjegjëse për çështjet e arsimit dhe i Këshillit të Ministrave për politikat e zhvillimit në arsimin e lartë dhe shkencë.
+- 1. Këshilli i Arsimit të Lartë dhe Shkencës është organ këshillimor i ministrisë përgjegjëse për çështjet e arsimit dhe i Këshillit të Ministrave për politikat e zhvillimit në arsimin e lartë dhe shkencë.
 
-- Këshilli  i  Arsimit  të  Lartë  dhe  Shkencës  formulon  mendime  dhe  propozime për:
+- 2. Këshilli i Arsimit të Lartë dhe Shkencës formulon mendime dhe propozime për:
 
-- hartimin e strategjive e programeve kombëtare për arsimin e lartë e kërkimin shkencor, drejtimet e politikave respektive dhe përgatitjen e akteve ligjore;
+- a) hartimin e strategjive e programeve kombëtare për arsimin e lartë e kërkimin shkencor, drejtimet e politikave respektive dhe përgatitjen e akteve ligjore;
 
-- fushat parësore dhe programet e kërkimit shkencor e zhvillimit teknologjik;
+- b) fushat parësore dhe programet e kërkimit shkencor e zhvillimit teknologjik;
 
-- projektbuxhetin e parashikuar për arsimin e lartë dhe shkencën dhe metodologjinë e shpërndarjes së tij;
+- c) projektbuxhetin e parashikuar për arsimin e lartë dhe shkencën dhe metodologjinë e shpërndarjes së tij;
 
 - ç) standardet për vlerësimin dhe akreditimin e institucioneve të arsimit të lartë ose programeve të studimeve;
 
-- kriteret për dhënien e titujve dhe gradës shkencore, së bashku me Komisionin e Vlerësimit të Titujve Akademikë;
+- d) kriteret për dhënien e titujve dhe gradës shkencore, së bashku me Komisionin e Vlerësimit të Titujve Akademikë;
 
-- dh)  zhvillimin  e  politikave  të  veçanta,  të  kërkuara  nga  Ministri  përgjegjës  për çështjet e arsimit dhe rrugët e financimit të tyre;
+- dh) zhvillimin e politikave të veçanta, të kërkuara nga Ministri përgjegjës për çështjet e arsimit dhe rrugët e financimit të tyre;
 
-- çdo problem tjetër që kërkohet nga Ministri përgjegjës për çështjet e arsimit etj.
+- e) çdo problem tjetër që kërkohet nga Ministri përgjegjës për çështjet e arsimit etj.
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
 
-- Veprimtaria e Këshillit të Arsimit të Lartë dhe Shkencës ushtrohet në përputhje me rregulloren, që miratohet nga Këshilli i Ministrave.
+- 3. Veprimtaria e Këshillit të Arsimit të Lartë dhe Shkencës ushtrohet në përputhje me rregulloren, që miratohet nga Këshilli i Ministrave.
 
 ### Neni 66
 
 #### Përbërja dhe përzgjedhja e anëtarëve të Këshillit të Arsimit të Lartë dhe Shkencës
 
-- Këshilli i Arsimit të Lartë dhe Shkencës përbëhet nga 19 anëtarë si më poshtë: Ministri përgjegjës për çështjet e arsimit, Kryetari i Akademisë së Shkencave, Kryetari i Konferencës  së  Rektorëve,  1  përfaqësues  i  caktuar  nga  Ministri  i  Financave  dhe  15 anëtarë të tjerë, ekspertë të zgjedhur me konkurrim publik.
+- 1. Këshilli i Arsimit të Lartë dhe Shkencës përbëhet nga 19 anëtarë si më poshtë: Ministri përgjegjës për çështjet e arsimit, Kryetari i Akademisë së Shkencave, Kryetari i Konferencës së Rektorëve, 1 përfaqësues i caktuar nga Ministri i Financave dhe 15 anëtarë të tjerë, ekspertë të zgjedhur me konkurrim publik.
 
-- Anëtarët ekspertë të Këshillit të Arsimit të Lartë dhe Shkencës përzgjidhen nga fusha të ndryshme të shkencës, me konkurrim publik, nga një komision përzgjedhjeje, i ngritur në ministrisë përgjegjëse për çështjet e arsimit, i përbërë nga një përfaqësues nga Kuvendi,  një  përfaqësues  nga  Këshilli  i  Ministrave,  një  përfaqësues  nga  Ministria përgjegjëse për çështjet  e  arsimit    dhe  një  përfaqësues  nga  Konferenca  e  Rektorëve,  të caktuar nga vetë këto institucione.
+- 2. Anëtarët ekspertë të Këshillit të Arsimit të Lartë dhe Shkencës përzgjidhen nga fusha të ndryshme të shkencës, me konkurrim publik, nga një komision përzgjedhjeje, i ngritur në ministrisë përgjegjëse për çështjet e arsimit, i përbërë nga një përfaqësues nga Kuvendi, një përfaqësues nga Këshilli i Ministrave, një përfaqësues nga Ministria përgjegjëse për çështjet e arsimit dhe një përfaqësues nga Konferenca e Rektorëve, të caktuar nga vetë këto institucione.
 
-Komisioni  i  përzgjedhjes,  pasi  shqyrton  plotësimin  e  kritereve  profesionale,  në përputhje me këtë ligj, rendit në një listë kandidatët, sipas pikëve të fituara. Kriteret dhe procedurat për përzgjedhjen e kandidatëve përcaktohen  me  udhëzim  të Ministrit përgjegjës për çështjet e arsimit dhe bëhen publike.
+Komisioni i përzgjedhjes, pasi shqyrton plotësimin e kritereve profesionale, në përputhje me këtë ligj, rendit në një listë kandidatët, sipas pikëve të fituara. Kriteret dhe procedurat për përzgjedhjen e kandidatëve përcaktohen me udhëzim të Ministrit përgjegjës për çështjet e arsimit dhe bëhen publike.
 
-- Përfaqësuesi  i  caktuar  nga  Ministri  i  Financave  duhet  të  ketë  kualifikim profesional të ngjashëm me përfaqësuesit ekspertë.
+- 3. Përfaqësuesi i caktuar nga Ministri i Financave duhet të ketë kualifikim profesional të ngjashëm me përfaqësuesit ekspertë.
 
-- Këshilli i Ministrave cakton në detyrën e anëtarit të Këshillit të Arsimit të Lartë dhe Shkencës 15 nga kandidatët e klasifikuar.
+- 4. Këshilli i Ministrave cakton në detyrën e anëtarit të Këshillit të Arsimit të Lartë dhe Shkencës 15 nga kandidatët e klasifikuar.
 
-- Këshillit i Arsimit të Lartë dhe Shkencës kryesohet nga Ministri përgjegjës për çështjet e arsimit.
+- 5. Këshillit i Arsimit të Lartë dhe Shkencës kryesohet nga Ministri përgjegjës për çështjet e arsimit.
 
-- Anëtarët ekspertë zgjidhen për një mandat 7-vjeçar, pa të drejtë rizgjedhjeje.
+- 6. Anëtarët ekspertë zgjidhen për një mandat 7-vjeçar, pa të drejtë rizgjedhjeje.
 
-- Pagesa e anëtarëve të këtij këshilli përcaktohet me akt nënligjor të Këshillit të Ministrave.
+- 7. Pagesa e anëtarëve të këtij këshilli përcaktohet me akt nënligjor të Këshillit të Ministrave.
 
-- Këshilli i Arsimit të Lartë dhe Shkencës mbështetet me sekretariat teknik, që ndodhet pranë ministrisë përgjegjëse për çështjet e arsimit. Përbërja e sekretariatit, detyra dhe pagesa e tyre caktohen me urdhër të Ministrit përgjegjës për çështjet e arsimit.
+- 8. Këshilli i Arsimit të Lartë dhe Shkencës mbështetet me sekretariat teknik, që ndodhet pranë ministrisë përgjegjëse për çështjet e arsimit. Përbërja e sekretariatit, detyra dhe pagesa e tyre caktohen me urdhër të Ministrit përgjegjës për çështjet e arsimit.
 
 ### Neni 67
 
 #### Komisioni i Vlerësimit të Titujve Akademikë
 
-- Pranë  ministrisë  përgjegjëse  për  çështjet  e  arsimit  ngrihet  dhe  funksionon Komisioni i Vlerësimit të Titujve Akademikë.
+- 1. Pranë ministrisë përgjegjëse për çështjet e arsimit ngrihet dhe funksionon Komisioni i Vlerësimit të Titujve Akademikë.
 
-- Komisioni i Vlerësimit të Titujve Akademikë përbëhet nga 15 anëtarë. Ministri përgjegjës  për  çështjet  e  arsimit  është  Kryetari  i  Komisionit  të  Vlerësimit  të  Titujve Akademikë. 14 anëtarët e tjerë janë përfaqësues me titullin akademik ose profesor nga fusha të ndryshme të shkencës.
+- 2. Komisioni i Vlerësimit të Titujve Akademikë përbëhet nga 15 anëtarë. Ministri përgjegjës për çështjet e arsimit është Kryetari i Komisionit të Vlerësimit të Titujve Akademikë. 14 anëtarët e tjerë janë përfaqësues me titullin akademik ose profesor nga fusha të ndryshme të shkencës.
 
-- Emërimi  dhe  shkarkimi  i  anëtarëve  të  Komisionit  të  Vlerësimit  të  Titujve Akademikë, detyrat dhe të drejtat,  funksionimi dhe  pagesa  e  tyre  përcaktohen  me  akte nënligjore të Këshillit të Ministrave.
+- 3. Emërimi dhe shkarkimi i anëtarëve të Komisionit të Vlerësimit të Titujve Akademikë, detyrat dhe të drejtat, funksionimi dhe pagesa e tyre përcaktohen me akte nënligjore të Këshillit të Ministrave.
 
-- Sekretari  i  komisionit  është  punonjës  i  ministrisë  përgjegjëse  për  çështjet  e arsimit.
+- 4. Sekretari i komisionit është punonjës i ministrisë përgjegjëse për çështjet e arsimit.
 
 [[END OF PAGE 34]]
 
@@ -1408,15 +1408,15 @@ Komisioni  i  përzgjedhjes,  pasi  shqyrton  plotësimin  e  kritereve  profesi
 
 #### Konferenca e Rektorëve
 
-- Konferenca e Rektorëve është organ kolegjial i pavarur i autoriteteve drejtuese të institucioneve publike dhe private të arsimit të lartë.
+- 1. Konferenca e Rektorëve është organ kolegjial i pavarur i autoriteteve drejtuese të institucioneve publike dhe private të arsimit të lartë.
 
-- Konferenca e Rektorëve, në respektim të plotë të autonomisë së institucioneve të veçanta të arsimit të lartë, kryen veprimtari të koordinimit dhe zhvillimit të arsimit të lartë dhe kërkimit shkencor.
+- 2. Konferenca e Rektorëve, në respektim të plotë të autonomisë së institucioneve të veçanta të arsimit të lartë, kryen veprimtari të koordinimit dhe zhvillimit të arsimit të lartë dhe kërkimit shkencor.
 
-- Konferenca  e  Rektorëve  shpreh  opinione  për  probleme  të  zhvillimit  të institucioneve  të  arsimit  të  lartë,  si  dhe  për  rastet  e  parashikuara  në  ligj.  Ajo  shpreh opinionin e saj në çdo rast kur e gjykon të nevojshme.
+- 3. Konferenca e Rektorëve shpreh opinione për probleme të zhvillimit të institucioneve të arsimit të lartë, si dhe për rastet e parashikuara në ligj. Ajo shpreh opinionin e saj në çdo rast kur e gjykon të nevojshme.
 
-- Konferenca  e  Rektorëve  mban  lidhje  me  shoqata  homologe  për  nxitjen  e shkëmbimeve  universitare,  që  ndihmojnë  përparimin  e  arsimit  të  lartë  dhe  kërkimit shkencor.
+- 4. Konferenca e Rektorëve mban lidhje me shoqata homologe për nxitjen e shkëmbimeve universitare, që ndihmojnë përparimin e arsimit të lartë dhe kërkimit shkencor.
 
-- Konferenca  e  Rektorëve funksionon në bazë të statutit të miratuar prej dy të tretave të anëtarëve të saj.
+- 5. Konferenca e Rektorëve funksionon në bazë të statutit të miratuar prej dy të tretave të anëtarëve të saj.
 
 ## KREU XII KËRKIMI SHKENCOR DHE SHËRBIMET E INSTITUCIONEVE TË ARSIMIT TË LARTË
 
@@ -1424,17 +1424,17 @@ Komisioni  i  përzgjedhjes,  pasi  shqyrton  plotësimin  e  kritereve  profesi
 
 #### Kërkimi shkencor dhe zhvillimi në institucionet e arsimit të lartë
 
-- Institucionet  e  arsimit  të  lartë  kryejnë  kërkim  shkencor  bazë  ose  të  aplikuar, studime dhe projekte për zhvillim, veprimtari të tjera krijuese në mënyrën e përcaktuar në statutin  e  institucionit  të  arsimit  të  lartë,  sipas  objektivave  specifikë  të  institucionit  në këto drejtime.
+- 1. Institucionet e arsimit të lartë kryejnë kërkim shkencor bazë ose të aplikuar, studime dhe projekte për zhvillim, veprimtari të tjera krijuese në mënyrën e përcaktuar në statutin e institucionit të arsimit të lartë, sipas objektivave specifikë të institucionit në këto drejtime.
 
-- Veprimtaria  e  kërkimit  dhe  zhvillimit  që  kryhet  në  institucionet  e  arsimit  të lartë, synon  dhe  në rritjen e cilësisë së arsimimit. Ajo  u jep studentëve aftësi metodologjike  për  kërkim,  jep  mundësi  të  vazhdueshme  në  plotësimin  e  disiplinave mësimore  me  njohuri  shkencore  dhe  praktike  të  avancuara,  përmirëson  kualifikimet  e personelit akademik të institucioneve të arsimit të lartë, si dhe krijon mjete materiale për zhvillimin dhe punën në institucion etj.
+- 2. Veprimtaria e kërkimit dhe zhvillimit që kryhet në institucionet e arsimit të lartë, synon dhe në rritjen e cilësisë së arsimimit. Ajo u jep studentëve aftësi metodologjike për kërkim, jep mundësi të vazhdueshme në plotësimin e disiplinave mësimore me njohuri shkencore dhe praktike të avancuara, përmirëson kualifikimet e personelit akademik të institucioneve të arsimit të lartë, si dhe krijon mjete materiale për zhvillimin dhe punën në institucion etj.
 
-- Personeli akademik është i lirë të kryejë veprimtari kërkimi e zhvillimi për të tretë, por me kusht:
+- 3. Personeli akademik është i lirë të kryejë veprimtari kërkimi e zhvillimi për të tretë, por me kusht:
 
-- plotësimin e detyrimeve ndaj institucionit, sipas kontratës së punës;
+- a) plotësimin e detyrimeve ndaj institucionit, sipas kontratës së punës;
 
-- plotësimin  e  detyrimeve  të  njësisë  përbërëse  të  institucionit  për  kërkim shkencor, sipas pikës 1 të këtij neni.
+- b) plotësimin e detyrimeve të njësisë përbërëse të institucionit për kërkim shkencor, sipas pikës 1 të këtij neni.
 
-Në  mënyrë  të  detajuar,  në  statutin e institucionit  përcaktohen  kushtet  për realizimin e veprimtarisë së kësaj pike të nenit.
+Në mënyrë të detajuar, në statutin e institucionit përcaktohen kushtet për realizimin e veprimtarisë së kësaj pike të nenit.
 
 [[END OF PAGE 35]]
 
@@ -1444,25 +1444,25 @@ Në  mënyrë  të  detajuar,  në  statutin e institucionit  përcaktohen  kush
 
 #### Veprimtaritë kërkimore në institucionet e arsimit të lartë
 
-- Veprimtaritë e kërkimit dhe zhvillimit në institucionet e arsimit të lartë duhet të sigurojnë integrimin e kërkimit me mësimin.
+- 1. Veprimtaritë e kërkimit dhe zhvillimit në institucionet e arsimit të lartë duhet të sigurojnë integrimin e kërkimit me mësimin.
 
-- Temat  ose  afatet  e  kërkimit,  drejtimet  dhe  vëllimi  i  punëve  përcaktohen  nga vetë institucionet e arsimit të lartë. Këto përcaktohen mbështetur në nevojat e zhvillimit të  vendit,  rëndësinë e kërkimit për arsimimin e studentëve, programet e bashkëpunimit shkencor, aftësimin e personelit akademik, si dhe burimet financiare në dispozicion.
+- 2. Temat ose afatet e kërkimit, drejtimet dhe vëllimi i punëve përcaktohen nga vetë institucionet e arsimit të lartë. Këto përcaktohen mbështetur në nevojat e zhvillimit të vendit, rëndësinë e kërkimit për arsimimin e studentëve, programet e bashkëpunimit shkencor, aftësimin e personelit akademik, si dhe burimet financiare në dispozicion.
 
-- Institucionet e arsimit të lartë kryejnë për të tretë edhe shërbime të ndryshme të kualifikuara, si ekspertiza, analiza, këshillime, monitorime, shërbime klinike, informacioni etj., që rregullohen në statutet dhe rregulloret e tyre. Këto veprimtari kryhen me financime të palëve të interesuara. Të ardhurat nga këto veprimtari shkojnë tërësisht në favor të institucionit. Kur të ardhurat sigurohen nga veprimtari kërkimore, studimore dhe  krijuese  të  personelit  akademik  të  institucionit,  një  pjesë  e  tyre  mund  të  përdoren edhe për shpërblimin  dhe  motivimin  e  personelit  pjesëmarrës  në  këtë  veprimtari,  sipas akteve ligjore dhe nënligjore në fuqi.
+- 3. Institucionet e arsimit të lartë kryejnë për të tretë edhe shërbime të ndryshme të kualifikuara, si ekspertiza, analiza, këshillime, monitorime, shërbime klinike, informacioni etj., që rregullohen në statutet dhe rregulloret e tyre. Këto veprimtari kryhen me financime të palëve të interesuara. Të ardhurat nga këto veprimtari shkojnë tërësisht në favor të institucionit. Kur të ardhurat sigurohen nga veprimtari kërkimore, studimore dhe krijuese të personelit akademik të institucionit, një pjesë e tyre mund të përdoren edhe për shpërblimin dhe motivimin e personelit pjesëmarrës në këtë veprimtari, sipas akteve ligjore dhe nënligjore në fuqi.
 
-- Institucionet e arsimit të lartë kanë të drejtë të hartojnë programe dhe projekte kërkimore  të  bashkëpunimit  me  institucione  të  tjera,  publike  ose  private,  brenda  dhe jashtë vendit, si dhe me shoqata, fondacione etj.
+- 4. Institucionet e arsimit të lartë kanë të drejtë të hartojnë programe dhe projekte kërkimore të bashkëpunimit me institucione të tjera, publike ose private, brenda dhe jashtë vendit, si dhe me shoqata, fondacione etj.
 
-- Këto institucione bëjnë një raport vjetor për veprimtarinë kërkimore-shkencore ose krijuese të çdo lloji.
+- 5. Këto institucione bëjnë një raport vjetor për veprimtarinë kërkimore-shkencore ose krijuese të çdo lloji.
 
 ### Neni 71
 
 #### Planifikimi i veprimtarive kërkimore
 
-- Veprimtaritë kërkimore bëhen mbi bazën e planeve, programeve dhe projekteve të miratuara, sipas procedurave të përcaktuara në këtë ligj ose akte të tjera.
+- 1. Veprimtaritë kërkimore bëhen mbi bazën e planeve, programeve dhe projekteve të miratuara, sipas procedurave të përcaktuara në këtë ligj ose akte të tjera.
 
-- Performanca  e  punës  kërkimore  e  të  gjitha  llojeve  e  niveleve  vlerësohet  nga organet drejtuese të institucioneve të arsimit të lartë.
+- 2. Performanca e punës kërkimore e të gjitha llojeve e niveleve vlerësohet nga organet drejtuese të institucioneve të arsimit të lartë.
 
-- Programet e studimeve të ciklit të tretë dhe, në masë më të vogël, programet e studimeve  të  ciklit  të  dytë  konsiderohen  punë  kërkimore  dhe  i  nënshtrohen  gjithashtu planifikimit.
+- 3. Programet e studimeve të ciklit të tretë dhe, në masë më të vogël, programet e studimeve të ciklit të dytë konsiderohen punë kërkimore dhe i nënshtrohen gjithashtu planifikimit.
 
 ## KREU XIII PRONAT DHE FINANCIMI I INSTITUCIONEVE PUBLIKE TË ARSIMIT TË LARTË
 
@@ -1470,63 +1470,63 @@ Në  mënyrë  të  detajuar,  në  statutin e institucionit  përcaktohen  kush
 
 #### Parime të përgjithshme të politikës shtetërore për financimin e institucioneve publike të arsimit të lartë
 
-- Institucionet publike të arsimit të lartë funksionojnë sipas parimit të autonomisë financiare.
+- 1. Institucionet publike të arsimit të lartë funksionojnë sipas parimit të autonomisë financiare.
 
-- Të ardhurat e krijuara nga institucionet e arsimit të lartë përdoren tërësisht prej tyre dhe pjesa e papërdorur e tyre mbartet në vitin pasardhës.
+- 2. Të ardhurat e krijuara nga institucionet e arsimit të lartë përdoren tërësisht prej tyre dhe pjesa e papërdorur e tyre mbartet në vitin pasardhës.
 
-- Transfertat  e  pakushtëzuara,  që  Buxheti  i  Shtetit  akordon  në  vitin  buxhetor pasardhës për institucionet e arsimit të lartë, do të përcaktohen duke marrë në konsideratë edhe pjesën e këtyre transfertave që do të mbarten nga viti paraardhës.
+- 3. Transfertat e pakushtëzuara, që Buxheti i Shtetit akordon në vitin buxhetor pasardhës për institucionet e arsimit të lartë, do të përcaktohen duke marrë në konsideratë edhe pjesën e këtyre transfertave që do të mbarten nga viti paraardhës.
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-- Shpërndarja e burimeve financiare dhe përdorimi i tyre bëhen në përputhje me rregullat dhe standardet e programimit buxhetor dhe menaxhimin financiar publik.
+- 4. Shpërndarja e burimeve financiare dhe përdorimi i tyre bëhen në përputhje me rregullat dhe standardet e programimit buxhetor dhe menaxhimin financiar publik.
 
-- Në përdorimin e burimeve financiare përparësi kanë të ardhurat e veta, të cilat do të shpenzohen në përputhje me procedurat e buxhetit afatmesëm.
+- 5. Në përdorimin e burimeve financiare përparësi kanë të ardhurat e veta, të cilat do të shpenzohen në përputhje me procedurat e buxhetit afatmesëm.
 
-- Të gjitha transaksionet e arkëtimeve, përfshirë dhe të ardhurat e veta, si dhe ato të  pagesave  të  institucioneve  publike  të  arsimit  të  lartë  kryhen  nëpërmjet  sistemit  të thesarit,  duke  respektuar  të  gjitha  rregullat  e  kontrollit  financiar,  të  përcaktuara  sipas kuadrit ligjor në fuqi.
+- 6. Të gjitha transaksionet e arkëtimeve, përfshirë dhe të ardhurat e veta, si dhe ato të pagesave të institucioneve publike të arsimit të lartë kryhen nëpërmjet sistemit të thesarit, duke respektuar të gjitha rregullat e kontrollit financiar, të përcaktuara sipas kuadrit ligjor në fuqi.
 
-- Këshilli  i  Ministrave,  përmes  ministrisë  përgjegjëse  për  çështjet  e  arsimit,  si dhe  opinioni  publik  kanë  të  drejtë  të  kërkojnë  transparencë  të  plotë  për  përdorimin  e këtyre  të  ardhurave,  si  dhe  financimeve  nga  Buxheti  i  Shtetit.  Ky  informacion  do  të përfshihet në raportin vjetor të çdo institucioni, që i dërgohet Ministrisë së Financave dhe ministrisë përgjegjëse për çështjet e arsimit dhe bëhet publik.
+- 7. Këshilli i Ministrave, përmes ministrisë përgjegjëse për çështjet e arsimit, si dhe opinioni publik kanë të drejtë të kërkojnë transparencë të plotë për përdorimin e këtyre të ardhurave, si dhe financimeve nga Buxheti i Shtetit. Ky informacion do të përfshihet në raportin vjetor të çdo institucioni, që i dërgohet Ministrisë së Financave dhe ministrisë përgjegjëse për çështjet e arsimit dhe bëhet publik.
 
 ### Neni 73
 
 #### Burimet e financimit të institucioneve publike të arsimit të lartë
 
-- Institucionet publike të arsimit të lartë financohen nga:
+- 1. Institucionet publike të arsimit të lartë financohen nga:
 
-- transferta nga Buxheti i Shtetit;
+- a) transferta nga Buxheti i Shtetit;
 
-- të ardhura të krijuara nga institucionet publike të arsimit të lartë;
+- b) të ardhura të krijuara nga institucionet publike të arsimit të lartë;
 
-- burime të tjera me destinacion.
+- c) burime të tjera me destinacion.
 
-- Këshilli i Ministrave, përmes ministrisë përgjegjëse për çështjet e arsimit, u jep institucioneve publike të arsimit të lartë fonde për përmbushjen e misionit të tyre sipas standardeve.
+- 2. Këshilli i Ministrave, përmes ministrisë përgjegjëse për çështjet e arsimit, u jep institucioneve publike të arsimit të lartë fonde për përmbushjen e misionit të tyre sipas standardeve.
 
-- Institucionet publike të arsimit të lartë bëjnë rregulloret e tyre mbi mënyrën e përdorimit të fondeve të krijuara nga të ardhurat (pika 1 shkronja 'b' e këtij neni), duke respektuar rregullat financiare të përcaktuara nga ligjet e shtetit.
+- 3. Institucionet publike të arsimit të lartë bëjnë rregulloret e tyre mbi mënyrën e përdorimit të fondeve të krijuara nga të ardhurat (pika 1 shkronja 'b' e këtij neni), duke respektuar rregullat financiare të përcaktuara nga ligjet e shtetit.
 
 ### Neni 74
 
 #### Të ardhurat e institucioneve publike të arsimit të lartë
 
-- Në të ardhurat e institucioneve publike të arsimit të lartë përfshihen:
+- 1. Në të ardhurat e institucioneve publike të arsimit të lartë përfshihen:
 
-- tarifat  e  studimeve,  të  cilat  janë  të  diferencuara  sipas  cikleve,  formave  të studimeve etj.;
+- a) tarifat e studimeve, të cilat janë të diferencuara sipas cikleve, formave të studimeve etj.;
 
-- të  ardhura  nga  organizimi  i  trajnimeve  ose  kualifikimeve  për  të  tretë,  sipas marrëveshjeve të lidhura;
+- b) të ardhura nga organizimi i trajnimeve ose kualifikimeve për të tretë, sipas marrëveshjeve të lidhura;
 
-- të  ardhura nga shërbimet që realizohen nga institucionet publike të arsimit të lartë, që veprojnë në fushën e artit, kulturës dhe sportit;
+- c) të ardhura nga shërbimet që realizohen nga institucionet publike të arsimit të lartë, që veprojnë në fushën e artit, kulturës dhe sportit;
 
 - ç) të ardhura nga kryerja e punimeve kërkimore të porositura dhe shërbimeve të tjera të specializuara;
 
-- të ardhura që krijohen nga dhënia e aktiveve në përdorim të palëve të treta në trajtën e kontratave të qiradhënies dhe me forma të tjera kontraktimi;
+- d) të ardhura që krijohen nga dhënia e aktiveve në përdorim të palëve të treta në trajtën e kontratave të qiradhënies dhe me forma të tjera kontraktimi;
 
 - dh) dhuratat, trashëgimitë dhe donacionet publike;
 
-- financimet  e  pakthyeshme,  të  marra  nga  burime  të  huaja  në  kuadrin  e projekteve dy e shumëpalëshe;
+- e) financimet e pakthyeshme, të marra nga burime të huaja në kuadrin e projekteve dy e shumëpalëshe;
 
 - ë) financime të tjera të ligjshme, të marra nga burime të ndryshme.
 
-- Të  ardhurat  e  krijuara  sipas  pikës  1  të  këtij  neni  derdhen  100  për  qind  në llogarinë e institucionit dhe përdoren nga vetë ai, sipas rregullave të përcaktuara.
+- 2. Të ardhurat e krijuara sipas pikës 1 të këtij neni derdhen 100 për qind në llogarinë e institucionit dhe përdoren nga vetë ai, sipas rregullave të përcaktuara.
 
 [[END OF PAGE 37]]
 
@@ -1535,41 +1535,41 @@ Në  mënyrë  të  detajuar,  në  statutin e institucionit  përcaktohen  kush
 ### Neni 75
 #### Tarifat
 
-- Tarifat e studimeve përfshijnë tarifën e regjistrimit dhe tarifën e shkollimit.
+- 1. Tarifat e studimeve përfshijnë tarifën e regjistrimit dhe tarifën e shkollimit.
 
-- Tarifat  e  regjistrimit  për  të  gjitha  programet  e  studimeve  propozohen  nga institucionet publike të arsimit të lartë përkatës dhe miratohen nga Ministri përgjegjës për çështjet e arsimit.
+- 2. Tarifat e regjistrimit për të gjitha programet e studimeve propozohen nga institucionet publike të arsimit të lartë përkatës dhe miratohen nga Ministri përgjegjës për çështjet e arsimit.
 
-- Tarifa e shkollimit për ciklin e parë për sistemin e studimeve me kohë të plotë, ciklin  e  dytë  dhe  ciklin  e  tretë  të  studimeve  vendoset  nga  Këshilli  i  Ministrave, mbështetur  në  propozimin  e  ministrisë  përgjegjëse  për  çështjet  e  arsimit.  Kjo  e  fundit merr edhe mendimin e Konferencës së Rektorëve dhe Këshillit të Arsimit të Lartë dhe Shkencës.
+- 3. Tarifa e shkollimit për ciklin e parë për sistemin e studimeve me kohë të plotë, ciklin e dytë dhe ciklin e tretë të studimeve vendoset nga Këshilli i Ministrave, mbështetur në propozimin e ministrisë përgjegjëse për çështjet e arsimit. Kjo e fundit merr edhe mendimin e Konferencës së Rektorëve dhe Këshillit të Arsimit të Lartë dhe Shkencës.
 
-- Tarifat  e  shkollimit  për  ciklin  parë  për  sistemin  e  studimeve  me  kohë  të pjesshme  dhe  në  distancë  propozohen  nga  institucionet  publike  të  arsimit  të  lartë përkatës. Kjo tarifë caktohet me urdhër të përbashkët të Ministrit përgjegjës për çështjet e arsimit dhe Ministrit të Financave.
+- 4. Tarifat e shkollimit për ciklin parë për sistemin e studimeve me kohë të pjesshme dhe në distancë propozohen nga institucionet publike të arsimit të lartë përkatës. Kjo tarifë caktohet me urdhër të përbashkët të Ministrit përgjegjës për çështjet e arsimit dhe Ministrit të Financave.
 
-- Tarifa e shkollimit në çdo rast nuk mund të kalojë vlerën e kostos së studimeve.
+- 5. Tarifa e shkollimit në çdo rast nuk mund të kalojë vlerën e kostos së studimeve.
 
-- Studentët  e  shkëlqyer  nuk  e  paguajnë  tarifën  e  shkollimit  në  vitin  akademik pasardhës.
+- 6. Studentët e shkëlqyer nuk e paguajnë tarifën e shkollimit në vitin akademik pasardhës.
 
 ### Neni 76
 
 #### Financimi nga Buxheti i Shtetit
 
-- Transferta nga Buxheti i Shtetit për institucionet publike të arsimit të lartë jepen në formë granti, që përdoret sipas këtyre kategorive:
+- 1. Transferta nga Buxheti i Shtetit për institucionet publike të arsimit të lartë jepen në formë granti, që përdoret sipas këtyre kategorive:
 
-- transferta e pakushtëzuar;
+- a) transferta e pakushtëzuar;
 
-- transferta me konkurrim për investime.
+- b) transferta me konkurrim për investime.
 
-- Transferta e pakushtëzuar përdoret për financimin e shpenzimeve që lidhen me funksionimin  e  institucioneve  të  arsimit  të  lartë  dhe  për  financimin  e  investimeve  me karakter të vazhdueshëm.
+- 2. Transferta e pakushtëzuar përdoret për financimin e shpenzimeve që lidhen me funksionimin e institucioneve të arsimit të lartë dhe për financimin e investimeve me karakter të vazhdueshëm.
 
-Transferta me konkurrim për investime përdoret për financimin e investimeve me karakter  ndërtimi  dhe  projekte  të  tjera  të  mëdha,  sipas  klasifikimit  në  procedurat  për menaxhimin e investimeve publike dhe për kërkim shkencor.
+Transferta me konkurrim për investime përdoret për financimin e investimeve me karakter ndërtimi dhe projekte të tjera të mëdha, sipas klasifikimit në procedurat për menaxhimin e investimeve publike dhe për kërkim shkencor.
 
 ### Neni 77
 
 #### Shpërndarja e financimit nga Buxheti i Shtetit
 
-- Shpërndarja e transfertës së pakushtëzuar bazohet në një formulë që garanton barazi, drejtësi dhe transparencë. Kriteret dhe komponentët e formulës përcaktohen nga Ministri përgjegjës për çështjet e arsimit, në konsultim me Këshillin e Arsimit të Lartë dhe Shkencës dhe miratohen në ligjin vjetor të Buxhetit të Shtetit.
+- 1. Shpërndarja e transfertës së pakushtëzuar bazohet në një formulë që garanton barazi, drejtësi dhe transparencë. Kriteret dhe komponentët e formulës përcaktohen nga Ministri përgjegjës për çështjet e arsimit, në konsultim me Këshillin e Arsimit të Lartë dhe Shkencës dhe miratohen në ligjin vjetor të Buxhetit të Shtetit.
 
-- Shpërndarja e grantit konkurrues për investime bëhet mbi bazën e projekteve që paraqiten nga institucionet e arsimit të lartë, sipas kritereve të përcaktuara në ligjin vjetor të buxhetit.
+- 2. Shpërndarja e grantit konkurrues për investime bëhet mbi bazën e projekteve që paraqiten nga institucionet e arsimit të lartë, sipas kritereve të përcaktuara në ligjin vjetor të buxhetit.
 
-- Struktura  e  hartimit  të  buxhetit  për  çdo  institucion  publik  të  arsimit  të  lartë bëhet  sipas  strukturës  së  Buxhetit  të  Shtetit,  të  përcaktuar  me  udhëzim  të  Ministrit  të Financave.
+- 3. Struktura e hartimit të buxhetit për çdo institucion publik të arsimit të lartë bëhet sipas strukturës së Buxhetit të Shtetit, të përcaktuar me udhëzim të Ministrit të Financave.
 
 [[END OF PAGE 38]]
 
@@ -1592,25 +1592,25 @@ Rregullat e administrimit financiar të institucioneve publike të arsimit të l
 
 #### Auditimi i jashtëm
 
-- Institucionet e arsimit të lartë i nënshtrohen auditit financiar, që realizohet nga institucionet e parashikuara me ligj për këtë qëllim.
+- 1. Institucionet e arsimit të lartë i nënshtrohen auditit financiar, që realizohet nga institucionet e parashikuara me ligj për këtë qëllim.
 
-- Në  këtë  proces,  institucionet  shtetërore  të  auditit  financiar  kanë  të  drejtë  të angazhojnë edhe institucione të specializuara nga sektori privat.
+- 2. Në këtë proces, institucionet shtetërore të auditit financiar kanë të drejtë të angazhojnë edhe institucione të specializuara nga sektori privat.
 
-- Rezultatet e auditit financiar bëhen publike.
+- 3. Rezultatet e auditit financiar bëhen publike.
 
 ### Neni 81
 #### Kontrolli dhe auditimi i brendshëm
 
-- Kontrolli dhe auditimi i brendshëm në institucionet publike të arsimit të lartë dhe njësitë  përbërëse  të  tyre  realizohet  nga  njësitë  e  auditit  të  brendshëm  të  ministrisë përgjegjëse  për  çështjet  e  arsimit  dhe  institucioneve  të  arsimit  të  lartë.  Krijimi  dhe funksionimi i njësive të auditit të brendshëm bëhet sipas kërkesave të akteve ligjore dhe nënligjore në fuqi.
+- 1. Kontrolli dhe auditimi i brendshëm në institucionet publike të arsimit të lartë dhe njësitë përbërëse të tyre realizohet nga njësitë e auditit të brendshëm të ministrisë përgjegjëse për çështjet e arsimit dhe institucioneve të arsimit të lartë. Krijimi dhe funksionimi i njësive të auditit të brendshëm bëhet sipas kërkesave të akteve ligjore dhe nënligjore në fuqi.
 
-- Rezultatet e kontrollit dhe auditit bëhen publike.
+- 2. Rezultatet e kontrollit dhe auditit bëhen publike.
 
 ### Neni 82
 #### Pronat e paluajtshme të institucioneve publike të arsimit të lartë
 
-- Pronat  e  paluajtshme  publike,  të  nevojshme  për  ushtrimin  e  veprimtarisë, kalojnë në administrim të institucioneve publike të arsimit të lartë me vendim të Këshillit të Ministrave dhe propozim të ministrisë përgjegjëse për çështjet e arsimit.
+- 1. Pronat e paluajtshme publike, të nevojshme për ushtrimin e veprimtarisë, kalojnë në administrim të institucioneve publike të arsimit të lartë me vendim të Këshillit të Ministrave dhe propozim të ministrisë përgjegjëse për çështjet e arsimit.
 
-- Institucionet publike të arsimit të lartë mirëmbajnë dhe përdorin për interesa të institucionit,  në  përputhje  me  legjislacionin  në  fuqi,  pronat  e  paluajtshme  publike  që  u janë  lënë  në  administrim.  Ato  hipotekohen  në  pronësi  të  shtetit  për  përdorim  nga universitetet.
+- 2. Institucionet publike të arsimit të lartë mirëmbajnë dhe përdorin për interesa të institucionit, në përputhje me legjislacionin në fuqi, pronat e paluajtshme publike që u janë lënë në administrim. Ato hipotekohen në pronësi të shtetit për përdorim nga universitetet.
 
 [[END OF PAGE 39]]
 
@@ -1708,31 +1708,31 @@ Shfuqizuar.
 
 ### Neni 99/1
 
-- Studentët e regjistruar në një program studimi, para hyrjes në fuqi të këtij ligji, do  të  vazhdojnë  studimet  e  tyre  me  të  njëjtin  program  studimi,  për  kohëzgjatjen  e parashikuar të tij, dhe në përfundim do të pajisen me diplomë, sipas përcaktimeve të këtij ligji, në përshtatje me programin e studimit të kryer.
+- 1. Studentët e regjistruar në një program studimi, para hyrjes në fuqi të këtij ligji, do të vazhdojnë studimet e tyre me të njëjtin program studimi, për kohëzgjatjen e parashikuar të tij, dhe në përfundim do të pajisen me diplomë, sipas përcaktimeve të këtij ligji, në përshtatje me programin e studimit të kryer.
 
-- Institucionet e arsimit të lartë, brenda 6 muajve nga hyrja në fuqi e këtij ligji, të përshtatin emërtimet e diplomave, që i përkasin programeve të studimeve në vijim dhe t'i depozitojnë për miratim në ministrisë përgjegjëse për çështjet e arsimit.
+- 2. Institucionet e arsimit të lartë, brenda 6 muajve nga hyrja në fuqi e këtij ligji, të përshtatin emërtimet e diplomave, që i përkasin programeve të studimeve në vijim dhe t'i depozitojnë për miratim në ministrisë përgjegjëse për çështjet e arsimit.
 
 ### Neni 99/2
 
-- Diplomat e nivelit të parë (DNP), të lëshuara ose të ekuivalentuara me to, para hyrjes në fuqi të këtij ligji, janë ekuivalente me diplomën universitare 'Bachelor'.
+- 1. Diplomat e nivelit të parë (DNP), të lëshuara ose të ekuivalentuara me to, para hyrjes në fuqi të këtij ligji, janë ekuivalente me diplomën universitare 'Bachelor'.
 
-- Diplomat e nivelit të dytë (DND) dhe diplomat e integruara të nivelit të dytë (DIND), që kanë grumbulluar në studimet universitare, së paku, 300 kredite, të lëshuara para  hyrjes  në  fuqi  të  këtij  ligji,  janë  ekuivalente  me  diplomën  universitare  'Master  i shkencave' dhe 'Master i arteve të bukura'.
+- 2. Diplomat e nivelit të dytë (DND) dhe diplomat e integruara të nivelit të dytë (DIND), që kanë grumbulluar në studimet universitare, së paku, 300 kredite, të lëshuara para hyrjes në fuqi të këtij ligji, janë ekuivalente me diplomën universitare 'Master i shkencave' dhe 'Master i arteve të bukura'.
 
-- Diplomat e studimeve universitare, që kanë zgjatur së paku 4 vite akademike (tetë semestra), të lëshuara para hyrjes në fuqi të këtij ligji, janë ekuivalente me diplomën universitare 'Master i shkencave' dhe 'Master i arteve të bukura'.
+- 3. Diplomat e studimeve universitare, që kanë zgjatur së paku 4 vite akademike (tetë semestra), të lëshuara para hyrjes në fuqi të këtij ligji, janë ekuivalente me diplomën universitare 'Master i shkencave' dhe 'Master i arteve të bukura'.
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
-- Diplomat 'Master i Nivelit të Parë' (MNP), të lëshuara para hyrjes në fuqi të këtij ligji, janë ekuivalente me diplomën universitare 'Master profesional'.
+- 4. Diplomat 'Master i Nivelit të Parë' (MNP), të lëshuara para hyrjes në fuqi të këtij ligji, janë ekuivalente me diplomën universitare 'Master profesional'.
 
-- Studimet universitare, në kuadër të programeve të Shkollës së Magjistraturës, si dhe  programeve  të  deritanishme  të  Shkollës  Pasuniversitare  të  Studimeve  të  Thelluara (SHPU) dhe 'Master i Nivelit të Dytë' (MND) njihen si të barasvlershme me diplomat universitare për specializime apo kualifikime postmaster. Këto studime mund të njihen, pjesërisht ose plotësisht, për studimet e doktoratës, në përputhje me përcaktimet e bëra në statutet e IAL-ve.
+- 5. Studimet universitare, në kuadër të programeve të Shkollës së Magjistraturës, si dhe programeve të deritanishme të Shkollës Pasuniversitare të Studimeve të Thelluara (SHPU) dhe 'Master i Nivelit të Dytë' (MND) njihen si të barasvlershme me diplomat universitare për specializime apo kualifikime postmaster. Këto studime mund të njihen, pjesërisht ose plotësisht, për studimet e doktoratës, në përputhje me përcaktimet e bëra në statutet e IAL-ve.
 
 ### Neni 99/3
 
-- Institucionet  e  arsimit  të  lartë  në  vend  duhet  të  pasqyrojnë  në  statutet  dhe rregulloret e tyre ndryshimet, në përputhje me këtë ligj, brenda gjashtë muajve nga hyrja në fuqi e tij.
+- 1. Institucionet e arsimit të lartë në vend duhet të pasqyrojnë në statutet dhe rregulloret e tyre ndryshimet, në përputhje me këtë ligj, brenda gjashtë muajve nga hyrja në fuqi e tij.
 
-- Institucionet e arsimit të lartë të përshtatin, brenda gjashtë muajve, programet e studimeve, në përputhje me kërkesat dhe përcaktimet e këtij ligji.
+- 2. Institucionet e arsimit të lartë të përshtatin, brenda gjashtë muajve, programet e studimeve, në përputhje me kërkesat dhe përcaktimet e këtij ligji.
 
 ### Neni 100
 
