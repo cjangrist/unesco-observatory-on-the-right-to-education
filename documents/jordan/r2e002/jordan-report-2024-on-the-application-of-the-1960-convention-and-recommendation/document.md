@@ -16,7 +16,7 @@ Name  of  contact  person:  Ibtisam  Ayoub/Secretary  General  of  Jordan  Natio
 
 Email and telephone number of contact person: ayoubibtisam@yahoo.com / jounesco@moej.edi.jo , +962777309877
 
-## Ratification and applicability of the Convention against Discrimination in Education 1
+## I. Ratification and applicability of the Convention against Discrimination in Education 1
 
 - Is your country a State Party to the Convention?
 
@@ -34,7 +34,7 @@ Email and telephone number of contact person: ayoubibtisam@yahoo.com / jounesco@
 
 - Please briefly explain the steps that have been taken and timeline when relevant, any difficulties encountered (legal, institutional, political or practical) in completing the ratification process. And how UNESCO can assist:
 
-- No, not considering ratification. Please explain why:
+✓ No, not considering ratification. Please explain why:
 
 1
 
@@ -68,9 +68,9 @@ No
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -102,21 +102,16 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
  Legal texts 6 prohibit discrimination and guarantee equal access to education:
 
-- In pre-primary education (including early learning and care)
-
-- In primary education
-
-- In secondary education
-
-- In technical and vocational education and training
-
-- In higher education
-
-- In adult education and alternative learning
+✓ In pre-primary education (including early learning and care)
+✓ In primary education
+✓ In secondary education
+✓ In technical and vocational education and training
+✓ In higher education
+✓ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
-On the national level, Article 6 of the Jordanian Constitution of 1952, in its third paragraph, assured that 'The State shall ensure work and education within the limits of its possibilities, and shall ensure tranquillity and equal opportunities to all Jor danians.' Articles 19 and 20 of the Constitution also addressed the right of citizens to education. As article 19 affirms that "Congregations shall have the right to establish and maintain their own schools for the education of their own members provided that they comply with the general provisions of the law and be subject to the control of Government in matters relating to their curricula and orientation." As for Article 20, it states that "Elementary education shall be compulsory for Jordanians and free of charge in Government schools."
+On the national level, Article 6 of the Jordanian Constitution of 1952, in its third paragraph, assured that 'The State shall ensure work and education within the limits of its possibilities, and shall ensure tranquillity and equal opportunities to all Jordanians.' Articles 19 and 20 of the Constitution also addressed the right of citizens to education. As article 19 affirms that "Congregations shall have the right to establish and maintain their own schools for the education of their own members provided that they comply with the general provisions of the law and be subject to the control of Government in matters relating to their curricula and orientation." As for Article 20, it states that "Elementary education shall be compulsory for Jordanians and free of charge in Government schools."
 
 In light of the resolutions of the First Educational Conference (September 1987), 'Basic education shall  be  compulsory  and  free  of  charge  in  Government  schools'  according  to  Article  5  of  the Education Law No. 3/1994 and its amendments, knowing that the basic education stage extends from the first grade to the tenth grade.
 
@@ -126,7 +121,7 @@ The Law also stated the strengthening of the relationship between the educationa
 
 > 4 See: Article/Paragraph 1(1).
 
-> 5 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 5 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 6 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -168,17 +163,12 @@ Government schools."
 
  Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
-- In pre-primary education (including early learning and care)
-
-- In primary education
-
-- In secondary education
-
-- In technical and vocational education and training
-
-- In higher education
-
-- In adult education and alternative learning
+✓ In pre-primary education (including early learning and care)
+✓ In primary education
+✓ In secondary education
+✓ In technical and vocational education and training
+✓ In higher education
+✓ In adult education and alternative learning
 
 - Please, provide details:
 
@@ -212,17 +202,12 @@ distribution of the budget in done according to the needs of the students, males
 
  Combatting discrimination in terms of curriculum:
 
-- In pre-primary education (including early learning and care)
-
-- In primary education
-
-- In secondary education
-
-- In technical and vocational education and training
-
-- In higher education
-
-- In adult education and alternative learning
+✓ In pre-primary education (including early learning and care)
+✓ In primary education
+✓ In secondary education
+✓ In technical and vocational education and training
+✓ In higher education
+✓ In adult education and alternative learning
 
 - Please, provide details:
 
@@ -306,21 +291,14 @@ Integrating gender equality in inclusive education for marginalized groups inclu
 
 ##### General measures:
 
-- Legislation provides for inclusive education for all
-
-- Policy measures aim to enhance inclusion in education for all
-
-- Teachers are trained on inclusive education 7 and to value diversity
-
-- Initiatives to address discrimination and promote cultural diversity and mutual acceptance
-
+✓ Legislation provides for inclusive education for all
+✓ Policy measures aim to enhance inclusion in education for all
+✓ Teachers are trained on inclusive education 7 and to value diversity
+✓ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
  Other:
-
-- Multiple and flexible learning pathways 8 are provided for
-
-- Curricula and teaching methods are inclusive in design 9
-
-- Multilingual and intercultural education is supported
+✓ Multiple and flexible learning pathways 8 are provided for
+✓ Curricula and teaching methods are inclusive in design 9
+✓ Multilingual and intercultural education is supported
 
 - Setting and adopting quality standards in vocational schools.
 
@@ -336,7 +314,7 @@ The lack of sufficient financial allocations to establish and create vocational 
 
 > 7 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 8 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 8 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 9 In  designing  the  curricula  and  teaching  methods,  care  is  given  to  ensure  that  all  students  are  provided  with  an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -344,33 +322,20 @@ The lack of sufficient financial allocations to establish and create vocational 
 
 [[START OF PAGE 7]]
 
-- Legislation provides for gender equality in education
-
-- Policy measures aim to enhance gender equality
-
-- Gender-responsive education sector planning is undertaken
-
-- Providing positive or affirmative action measures
-
-- Providing financial incentives and fellowships
-
-- Teachers are trained (initial and in-service) on gender equality
-
-- Teachers are trained to combat stigmatisation 10
-
+✓ Legislation provides for gender equality in education
+✓ Policy measures aim to enhance gender equality
+✓ Gender-responsive education sector planning is undertaken
+✓ Providing positive or affirmative action measures
+✓ Providing financial incentives and fellowships
+✓ Teachers are trained (initial and in-service) on gender equality
+✓ Teachers are trained to combat stigmatisation 10
  Other:
-
-- All barriers for pregnant girls and young mothers  in  education  are  eliminated  to ensure the continuity of their education
-
-- Re-entry programmes for young mothers are provided for
-
-- Ensuring safe and adequate gender- sensitive sanitation facilities 11
-
-- Curricula are rid of all stereotypes 12 and bias
-
-- Ensuring gender parity in science, technology, engineering and mathematics (STEM)
-
-- Ensuring gender parity in technical and vocational training education and training (TVET)
+✓ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
+✓ Re-entry programmes for young mothers are provided for
+✓ Ensuring safe and adequate gender-sensitive sanitation facilities 11
+✓ Curricula are rid of all stereotypes 12 and bias
+✓ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
+✓ Ensuring gender parity in technical and vocational training education and training (TVET)
 
 - Please, elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -382,7 +347,7 @@ The  lack  of  sufficient  agreements  with  private  institutions  to  receive 
 
 > 10 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 11 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 11 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 12 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -404,9 +369,9 @@ Please note that child marriage is a discriminatory practice as often girls can 
 
 First: Article (10) of Personal Status Law No. 15 of 2019 states:
 
-- The eligibility of marriage requires that both the male and female fiancé are sane, and have completed eighteen years of age.
+A. The eligibility of marriage requires that both the male and female fiancé are sane, and have completed eighteen years of age.
 
-- Notwithstanding what is stated in paragraph (A) of this Article, a judge may, with the approval of the Supreme Judge, authorize in special cases, the marriage of a person who has completes fifteen years of age in accordance with instructions issued for this purpose if this is necessary for welfare.  Accordingly,  whoever  marries  acquires  complete  eligibility  in  all  matters  related  to marriage and annulment and their related consequences.
+B. Notwithstanding what is stated in paragraph (A) of this Article, a judge may, with the approval of the Supreme Judge, authorize in special cases, the marriage of a person who has completes fifteen years of age in accordance with instructions issued for this purpose if this is necessary for welfare. Accordingly, whoever marries acquires complete eligibility in all matters related to marriage and annulment and their related consequences.
 
 ##### National minorities:
 
@@ -414,7 +379,7 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Legislation provides for the right to education of national minorities
 
-- Policy measures aim to enhance the right to education of national minorities
+✓ Policy measures aim to enhance the right to education of national minorities
 
  Policy elaboration includes consultations with local communities
 
@@ -450,11 +415,11 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 [[START OF PAGE 9]]
 
-##### Indigenous people:
-
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
+
+##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
 
@@ -500,41 +465,23 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 ##### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 19 :
 
-- Legislation provides for their right to education
-
-- Policy measures aim to enhance their right to education
-
-- Inclusion in mainstream schools is ensured
-
-- Positive or affirmative action measures are provided for
-
-- All administrative barriers to access education are removed
-
-- Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 20 are provided for
-
-- Teachers are specifically trained to ensure their inclusion
-
-- Teachers are trained to combat stigmatisation 21
-
-✓
-
-Other:
-
-- Financial incentives and fellowships are provided for
-
-- Auxiliary assistance is provided
-
-- Multiple and flexible learning pathways 22 are provided
-
-- Curricula are rid of all stereotypes 23 and bias
-
-- Accelerated learning programmes are provided
-
-- Non-formal and/or alternative education programmes are provided
-
-- Language classes to newcomers are provided for
-
-- Multilingualism and intercultural education are encouraged
+✓ Legislation provides for their right to education
+✓ Policy measures aim to enhance their right to education
+✓ Inclusion in mainstream schools is ensured
+✓ Positive or affirmative action measures are provided for
+✓ All administrative barriers to access education are removed
+✓ Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 20 are provided for
+✓ Teachers are specifically trained to ensure their inclusion
+✓ Teachers are trained to combat stigmatisation 21
+✓ Other:
+✓ Financial incentives and fellowships are provided for
+✓ Auxiliary assistance is provided
+✓ Multiple and flexible learning pathways 22 are provided
+✓ Curricula are rid of all stereotypes 23 and bias
+✓ Accelerated learning programmes are provided
+✓ Non-formal and/or alternative education programmes are provided
+✓ Language classes to newcomers are provided for
+✓ Multilingualism and intercultural education are encouraged
 
 The Education Law No. 3/1994 and its amendments also stated the strengthening of the relationship between the educational institution and its local community by establishing local councils for schools and parents-teachers councils, and simulating activities related to community service and volunteer work, and that the Jordanian people are an integrated unit, and that there is no place for racial, regional, sectarian, tribal, or familial intolerance.
 
@@ -570,31 +517,19 @@ Jordan  Response  Plan  for  the  Syrian  Crisis : The  National  Response  Plan
 
 ##### People with disabilities:
 
-- Legislation provides for their right to education
-
-- Policy measures aim to enhance their right to education
-
-- Inclusion in mainstream schools is ensured
-
-- Special schools are used as resource centers to inclusive schools
-
-- Positive or affirmative action measures are provided
-
-- Financial incentives and fellowships are provided
-
+✓ Legislation provides for their right to education
+✓ Policy measures aim to enhance their right to education
+✓ Inclusion in mainstream schools is ensured
+✓ Special schools are used as resource centers to inclusive schools
+✓ Positive or affirmative action measures are provided
+✓ Financial incentives and fellowships are provided
  Other
-
-- Mainstream teachers are specifically trained on disabilities
-
-- Teachers are trained to combat stigmatisation 24
-
-- Auxiliary assistance is provided
-
-- Curricula and teaching and learning methods are adapted
-
-- Curricula are rid of all stereotypes 25 and bias
-
-- Education infrastructure and learning materials are adapted
+✓ Mainstream teachers are specifically trained on disabilities
+✓ Teachers are trained to combat stigmatisation 24
+✓ Auxiliary assistance is provided
+✓ Curricula and teaching and learning methods are adapted
+✓ Curricula are rid of all stereotypes 25 and bias
+✓ Education infrastructure and learning materials are adapted
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -619,16 +554,11 @@ Not all schools are ready for the time being to be inclusive schools.
 ##### Students from poor households:
 
  Financial incentives and fellowships for school enrolment are provided
-
-- Transport,  meals  and  education  material are  subsidised  or  provided  free  of  charge beyond compulsory education
-
-- Positive or affirmative action measures are provided
-
+✓ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
+✓ Positive or affirmative action measures are provided
  Other:
-
-- Teachers are trained to combat stigmatisation 26
-
-- Curricula are rid of all stereotypes 27 and bias
+✓ Teachers are trained to combat stigmatisation 26
+✓ Curricula are rid of all stereotypes 27 and bias
 
 Education is free of charge for all students in public schools.
 
@@ -636,17 +566,17 @@ Education is free of charge for all students in public schools.
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 28 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 29 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 28 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 29. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
-- Prior to pre-primary education, ECCE services are free
-
-- Prior to pre-primary education, ECCE services are affordable
+✓ Prior to pre-primary education, ECCE services are free
+✓ Prior to pre-primary education, ECCE services are affordable
+✓ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 > 26 Supra note 15.
 
@@ -656,13 +586,11 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 > 29 Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
 
-- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
-
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-- ECCE services are accessible on a non- discriminatory basis
+✓ ECCE services are accessible on a non-discriminatory basis
 
 - Please, elaborate further on the measures taken:
 
@@ -674,7 +602,7 @@ No, it is not compulsory but it is free of charge in public schools
 
  Pre-primary education is compulsory. Please provide the age of enrolment and duration:
 
-- Pre-primary education is not compulsory.
+✓ Pre-primary education is not compulsory.
 
  Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
@@ -710,13 +638,13 @@ Pre-primary education is available in the most of the public schools and it is f
 
 #### 2.2 Primary and secondary education
 
-For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ##### Primary education
 
 - Please provide the age of enrolment and duration of primary education:
 
-The age of enrolment is 6 years as for the duration of primary education it worth mentioning that the scholar system in Jordan is divided to the basic education (from 1 st grade to 10 th grade) and secondary education.
+The age of enrolment is 6 years as for the duration of primary education it worth mentioning that the scholar system in Jordan is divided to the basic education (from 1st grade to 10th grade) and secondary education.
 
 - Is primary education compulsory and free of charge?
 
@@ -724,7 +652,7 @@ The age of enrolment is 6 years as for the duration of primary education it wort
 
  Primary education is not compulsory.
 
-- Primary education is free of charge.
+✓ Primary education is free of charge.
 
  Primary education is not free.
 
@@ -764,7 +692,7 @@ In this part, please provide information on the general availability and accessi
 
 - Please, provide the age of enrolment and duration of lower secondary education:
 
-The scholar system in Jordan is divided to the basic education (from 1 st grade to 10 th grade) and secondary education (11 AND 12).
+The scholar system in Jordan is divided to the basic education (from 1st grade to 10th grade) and secondary education (11 AND 12).
 
 - Please, provide the age of enrolment and duration of upper secondary education:
 
@@ -774,19 +702,13 @@ The scholar system in Jordan is divided to the basic education (from 1 st grade 
 
 - Is lower and upper secondary education compulsory and free of charge?
 
-- Lower secondary education is compulsory.
-
+✓ Lower secondary education is compulsory.
  Lower secondary education is not compulsory.
-
-- Lower secondary education is free of charge.
-
+✓ Lower secondary education is free of charge.
  Lower secondary education is not free of charge.
-
  Upper secondary education is compulsory.
-
-- Upper secondary education is not compulsory.
-
-- Upper secondary education is free of charge .
+✓ Upper secondary education is not compulsory.
+✓ Upper secondary education is free of charge.
 
  Upper secondary education is not free of charge.
 
@@ -796,11 +718,11 @@ The scholar system in Jordan is divided to the basic education (from 1 st grade 
 
 Article (7): a. Educational institutions are classified according to their stages into the following types:
 
-- 3- Secondary education for two years.
+3- Secondary education for two years.
 
 Article (11) of secondary education:
 
-- A- Secondary education is an education that students enroll in according to their capabilities and inclinations and that provides specialized cultural, scientific and professional experiences that meet the needs of the existing or expected Jordanian society at a level that helps the student to continue higher education or join work fields.
+A- Secondary education is an education that students enroll in according to their capabilities and inclinations and that provides specialized cultural, scientific and professional experiences that meet the needs of the existing or expected Jordanian society at a level that helps the student to continue higher education or join work fields.
 
 - Approval of the system for distributing students after the ninth grade ، so that the number of years of study in vocational education will be 3 years -vocational education.
 
@@ -822,7 +744,7 @@ For reference: The employment laws and those related to compulsory education are
 
 Minimum Age Convention, 1973 (No. 138):
 
-- Notwithstanding the provisions of paragraph 1 of this Article, national laws or regulations or the competent authority may,  after  consultation  with  the  organisations  of  employers  and  workers concerned,  where  such  exist,  authorise  employment  or  work  as  from  the  age  of  16  years  on condition that the health, safety and morals of the young persons concerned are fully protected and that the young persons have received adequate specific instruction or vocational training in the relevant branch of activity.
+3. Notwithstanding the provisions of paragraph 1 of this Article, national laws or regulations or the competent authority may, after consultation with the organisations of employers and workers concerned, where such exist, authorise employment or work as from the age of 16 years on condition that the health, safety and morals of the young persons concerned are fully protected and that the young persons have received adequate specific instruction or vocational training in the relevant branch of activity.
 
 - What challenges were encountered in realizing secondary education?
 
@@ -860,11 +782,9 @@ For reference: Article/Paragraph 4(a) of  the  Convention/Recommendation  provid
 
  Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)
 
-- Higher education is accessible through financial incentives and scholarships
-
-- Higher education is accessible through positive or affirmative action measures
-
-- Higher education is accessible through credit transfer system between states
+✓ Higher education is accessible through financial incentives and scholarships
+✓ Higher education is accessible through positive or affirmative action measures
+✓ Higher education is accessible through credit transfer system between states
 
  Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
@@ -906,27 +826,20 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked):
 
-- Provision of education for persons who have not received or completed the whole period of their primary education
-
-- Provision of literacy programmes
-
-- Provision  of  continuous  learning  (such  as  learning  programmes  to  develop  knowledge,  skills, abilities, or competencies for personal and professional development)
-
-- Provision of free of charge learning opportunities
-
-- Provision of professional training including reskilling and upskilling programmes
-
-- Recognition, validation and certification of non-formal and informal learning
-
-- Provision of free of charge career guidance and counselling
-
-- Lifelong learning entitlements including learning accounts, vouchers, etc.
+✓ Provision of education for persons who have not received or completed the whole period of their primary education
+✓ Provision of literacy programmes
+✓ Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development)
+✓ Provision of free of charge learning opportunities
+✓ Provision of professional training including reskilling and upskilling programmes
+✓ Recognition, validation and certification of non-formal and informal learning
+✓ Provision of free of charge career guidance and counselling
+✓ Lifelong learning entitlements including learning accounts, vouchers, etc.
 
  Other:
 
 The Ministry of Education in Jordan provides multiple non-formal education programs that include and covers all segments of the community of school-age who are outside the formal education system, as well as everyone who can complete academic education, as the ministry provides a set of programs as follows:
 
-- Adult Education and Literacy Program:
+1. Adult Education and Literacy Program:
 
 Where this program targets all  males and  females over  the  age  of  15 years,  regardless  of  their nationality and they are not good at reading and writing, as they are targeted through this program and providing them with reading, writing, numeracy, life skills, computer skills and English language during a time period of (4) years and in two stages (Beginners and followers), and the graduate acquires a certified official certificate equivalent to the sixth grade of basic knowledge, note that this program is free and the applicant does not bear any financial fees.
 
@@ -938,7 +851,7 @@ Where this program targets all  males and  females over  the  age  of  15 years,
 
 This program targets children who drop out of the educational system who are in the age group (13- 18) male and (13-20) female regardless of nationality, and the program consists of three episodes, each episode consists of two levels and the duration of each episode (8) months and is acquired The enrolled reading, writing, numeracy and life skills skills in addition to applying many extracurricular activities and after graduation the student gets a graduation document equivalent to the tenth grade and qualifies the graduate to join the vocational training institution in the skilled worker program (the program requires that the enrolled obtain a tenth grade certificate at least).
 
-- Evening Studies Program:
+3. Evening Studies Program:
 
 This program provides an opportunity for enrolled students to complete their self-studies, from the seventh grade to the second year of the secondary, through providing final exams and through their dependence on their own abilities and this program is suitable for young and old working people so that they can pursue their academic studies without having to leave their jobs or jobs.
 
@@ -946,14 +859,13 @@ This program provides an opportunity for enrolled students to complete their sel
 
 Where  educational  programs  are  provided  to  the  inmates  of  the  correction  and  rehabilitation centres, and they can continue their academic studies and obtain a high school diploma or academic certificates without noting that they have received their education in prisons.
 
-- The catch up program:
+5. The catch up program:
 
 It  is  an  intensive  education  program  targeting  children  from  the  age  of  (9-12)  years  of  school dropouts, and those who are enrolled are qualified through their classification into three levels and they are qualified to return to regular schools.
 
 - Please, elaborate further on the measures taken:
 
  All non-formal education programs are characterized by the following:
----
 - targeting all groups and segments of society.
 Free with no financial fees.
 - Available permanently and continuously.
@@ -992,27 +904,20 @@ order to provide educational opportunities for refugee children who have missed 
 
 ### 3. Quality education provision and learning environment
 
-For  reference:  Articles/Paragraphs  2,  4(b)  and  5(b)  of  the  Convention/Recommendation  provide  for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child,  disability  and  gender  sensitive  and  provide  safe,  non-violent,  inclusive  and  effective  learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
-- State monitoring and inspections
-
-- Health and sanitation
-
-- Safety (children learn in a safe environment free from violence or harassment, including schoolrelated gender-based violence (in and around schools))
-
-- Infrastructure
-
-- Curriculum
-
-- Student-teacher ratio
-
-- School fees (if relevant)
-
-- Other
+✓ State monitoring and inspections
+✓ Health and sanitation
+✓ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
+✓ Infrastructure
+✓ Curriculum
+✓ Student-teacher ratio
+✓ School fees (if relevant)
+✓ Other
 
 Including schools in all regions of the Kingdom by establishing schools for male and female students and determining the space allocated to each male and female student .
 
@@ -1054,19 +959,13 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - Please  indicate  the  measures  taken to  improve  the  teaching  and  working  conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
 
-- Teacher training is provided without discrimination.
-
-- Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
-
-- Initial training and continuous professional development are provided.
-
-- Minimum standards and qualifications required for the teaching profession.
-
-- Measures taken to strengthen the social status and attractiveness of the teaching profession.
-
-- Measures  taken  to  promote  diversity  in  the  teaching  workforce,  including  to  redress  gender imbalances at different levels of education.
-
-- Establishment of performance monitoring systems.
+✓ Teacher training is provided without discrimination.
+✓ Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
+✓ Initial training and continuous professional development are provided.
+✓ Minimum standards and qualifications required for the teaching profession.
+✓ Measures taken to strengthen the social status and attractiveness of the teaching profession.
+✓ Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.
+✓ Establishment of performance monitoring systems.
 
  Measures taken to increase women in leadership positions in education.
 
@@ -1079,7 +978,6 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
  Other:
 
 1343 teachers and administrators were trained on the Education Quality Program according to the requirements of the BTEC Vocational Education Development Program by providing the training material, approving it and providing trainers
----
 
 - Please elaborate on each of the measures taken:
 
@@ -1173,7 +1071,7 @@ In-Service Teacher Training:
 
 [[START OF PAGE 23]]
 
-- Teachers who have not received any pre-service programs were trained on the new teachers' inservice program for all specializations, which is accredited for the first rank, Beginner Teacher.
+- Teachers who have not received any pre-service programs were trained on the new teachers' in-service program for all specializations, which is accredited for the first rank, Beginner Teacher.
 
 -Qualifications and Standards:
 
@@ -1213,7 +1111,7 @@ Lack of training centres because of the lack of funding
 
 #### 3.3 Respect for human rights and fundamental freedoms
 
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 32 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education  for  International  Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.32 Please note that this
 
 > 32 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
@@ -1223,11 +1121,13 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 [[START OF PAGE 24]]
 
+section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms// 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
+
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
-- Curriculum includes human rights education.
+✓ Curriculum includes human rights education.
 
-- Educational and/or extracurricular activities are organized on human rights education.
+✓ Educational and/or extracurricular activities are organized on human rights education.
 
  Other:
 
@@ -1237,15 +1137,15 @@ Jordan signed and ratified on many human rights conventions regarding gender equ
 
 #### 3.4 Non-state actors in education
 
-For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for nonstate education provision 33 .
+For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision 33 .
 
 - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked):
 
-- Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 34 explicitly apply to non-state educational institutions. Please specify:
+✓ Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 34 explicitly apply to non-state educational institutions. Please specify:
 
 The Private and Foreign Educational Institutions Licensing System No. (87) of 2023 and the Instructions for the Conditions and Procedures for Licensing Private and Foreign Educational Institutions No. (3) of 2024  were  issued,  which  contributes  to  the  establishment  of  (private  schools,  kindergartens, institutions  for  people  with  disabilities  and  the  provision  of  distinguished  educational  services  and programs for students .
 
-- Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:
+✓ Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:
 
 > 33 Private, faith-based, NGOs, community actors.
 
@@ -1257,33 +1157,23 @@ The Private and Foreign Educational Institutions Licensing System No. (87) of 20
 
 Instructions for the accreditation and licensing of foreign programs No. (1) of 2024 were issued, which allow students residing in the Kingdom to study international programs, including the British program, the American program, the Baccalaureate program, the Choueifat program, in addition to the BTEC technical vocational program .
 
-- Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
+✓ Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
 
 Licensing private educational institutions owned by religious associations and sects, where these associations  and  sects  practice  their  own  religious  rituals  in  accordance  with  the  regulating educational legislation .
 
  Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
-- Registration
-
-- State monitoring and inspections
-
-- Qualifications of teachers
-
-- Health and sanitation
-
-- Safety (children learn in a safe environment free from violence or harassment, including schoolrelated gender-based violence (in and around schools)
-
-- Infrastructure
-
-- Curriculum
-
-- Student-teacher ratio
-
-- School fees
-
-- School closures
-
-- Other
+✓ Registration
+✓ State monitoring and inspections
+✓ Qualifications of teachers
+✓ Health and sanitation
+✓ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
+✓ Infrastructure
+✓ Curriculum
+✓ Student-teacher ratio
+✓ School fees
+✓ School closures
+✓ Other
 
 One of the requirements for licensing private educational institutions is to provide a school building that  complies  with  the  required  conditions  specified  for  this  purpose  in  the  instructions  and  the system, which includes all the above-mentioned items in terms of infrastructure and the approval of partner agencies such as the Ministry of Health and the Civil Defence Directorate .
 
@@ -1303,7 +1193,7 @@ Private educational institutions must teach the curricula set by the Ministry of
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
 ✓  Other:
 
@@ -1325,15 +1215,15 @@ Digital education is both an opportunity for enhancing access but also can lead 
 
 -Please, indicate the relevant text and provisions:
 
-- Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
+✓ Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
-- Regulatory  framework  establishes  minimum  education  standards  for  digital  education  to  which  all actors in education must comply.
+✓ Regulatory  framework  establishes  minimum  education  standards  for  digital  education  to  which  all actors in education must comply.
 
-- Measures to remove barriers to accessing digital content 36 ,  including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+✓ Measures to remove barriers to accessing digital content36, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
-- Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
+✓ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
-> 35 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
+> 35 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment.
 
 > 36 Lack of internet connection, basic infrastructure or devices.
 
@@ -1341,11 +1231,11 @@ Digital education is both an opportunity for enhancing access but also can lead 
 
 [[START OF PAGE 27]]
 
-- Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
+✓ Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
 
  Measures  address  the  digital  divide,  including  ensuring  access  to  reliable  electricity,  meaningful internet  connectivity  at  school  and  at  home,  devices  suitable  for  learning  and  teaching,  safe  and sustainable software and secure platforms, and integrated education data systems.
 
-- A well-established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral  cooperation,  supported  by  impact  focused  reporting  linked  to  regional  strategic  goals.
+✓ A well-established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral  cooperation,  supported  by  impact  focused  reporting  linked  to  regional  strategic  goals.
 
 - Please, elaborate on each of the measures taken:
 
@@ -1353,25 +1243,25 @@ The Teacher training platform is a modern and advanced tool that aims to enhance
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
-- Lack of quality, curriculum-aligned  digital teaching and learning content that supports flexible learning and teaching pathways
+✓ Lack of quality, curriculum-aligned  digital teaching and learning content that supports flexible learning and teaching pathways
 
-- Lack of equity and inclusion in digital learning solutions
+✓ Lack of equity and inclusion in digital learning solutions
 
  inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
  Other:
 
-- Limited access to internet and/or electricity
+✓ Limited access to internet and/or electricity
 
  Limited access to hardware (devices, chargers, etc.)
 
  Difficulty in regulating the use of digital education solutions
 
-- Difficulty in sustainably financing digital education solutions at national scale
+✓ Difficulty in sustainably financing digital education solutions at national scale
 
  Lack of digital skills development for meaningful use of digital technology in teaching practice
 
-- Disjointed or fragmented solutions that are not centrally systematized or regulated
+✓ Disjointed or fragmented solutions that are not centrally systematized or regulated
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1385,11 +1275,11 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 [[START OF PAGE 28]]
 
-management  information  systems;  transparent  and  effective  financing  procedures  and  mechanisms;  and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' (para. 18).
+management  information  systems;  transparent  and  effective  financing  procedures  and  mechanisms;  and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
-- Monitoring  mechanisms  to  assess  compliance  with  the  right  to  education  obligations,  including through management information systems.
+✓ Monitoring  mechanisms  to  assess  compliance  with  the  right  to  education  obligations,  including through management information systems.
 
  Monitoring results are made public. Please provide the link:
 
@@ -1397,13 +1287,13 @@ management  information  systems;  transparent  and  effective  financing  proce
 
 - Open EMIS monitoring tools.
 
-https://moe.gov.jo/sites/default/files/tqryr_lmtb_wltqyym_lsnwy_llkht_lstrtyjy_lwzr_ltrby_wltlym .pdf
+https://moe.gov.jo/sites/default/files/tqryr_lmtb_wltqyym_lsnwy_llkht_lstrtyjy_lwzr_ltrby_wltlym.pdf
 
-- Monitoring processes are participatory, inclusive and regular.
+✓ Monitoring processes are participatory, inclusive and regular.
 
-- Sector-wide and multisector approach is adopted to education governance.
+✓ Sector-wide and multisector approach is adopted to education governance.
 
-- Financial resources are effectively allocated to prioritise the provision of free, quality, public education and are adequately budgeted for in government plans.
+✓ Financial resources are effectively allocated to prioritise the provision of free, quality, public education and are adequately budgeted for in government plans.
 
  The decision-making process for the allocation of resources to education is transparent.
 
@@ -1431,11 +1321,11 @@ https://moe.gov.jo/sites/default/files/tqryr_lmtb_wltqyym_lsnwy_llkht_lstrtyjy_l
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
  Other:
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Number of projects and initiatives that require significant follow-up
 
