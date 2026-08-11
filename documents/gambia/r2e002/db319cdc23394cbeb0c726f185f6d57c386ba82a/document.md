@@ -146,8 +146,8 @@ Public Schools | Government and Government Assisted Schools
 Double-Shift | Double shift school is a type of school which operates in two shifts, with one group of students in the building early in the day and a second group of students later in the day
 Multi-Grade | Refers to a class that has two or more grade level of children in one classroom
 School Improvement Grant | Grants given to schools to abolish school fees and related charges.
-Education Forum Local Education | Weekly Television programme on Education All partners in education resident in Country
-Group
+Education Forum | Weekly Television programme on Education
+Local Education Group | All partners in education resident in Country
 Basic Education | Nine years uninterrupted education the expanded vision including ECD and Non-formal
 Best Teacher Award Scheme | Rewarding of outstanding teachers
 Star Award System | Awarding of schools based service delivery indicators
@@ -176,11 +176,11 @@ vi
 
 [[START OF PAGE 7]]
 
-## NATIONAL EDUCATIONAL DEVELOPMENT: A POLICY FRAMEWORK
+## CHAPTER 1: NATIONAL EDUCATIONAL DEVELOPMENT: A POLICY FRAMEWORK
 
-### INTRODUCTION
+### 1.1 INTRODUCTION
 
-- 1.1.1 The main thrust of this document is to provide a policy framework that sets out the national agenda for the delivery of quality education in The Gambia for the period 20162030.
+- 1.1.1 The main thrust of this document is to provide a policy framework that sets out the national agenda for the delivery of quality education in The Gambia for the period 2016-2030.
 
 - 1.1.2 The document outlines the aims and objectives of education in this country which are synchronised with the education-related Sustainable Development Goals (SDGs),
 
@@ -212,13 +212,13 @@ The document is set out in the following chapters:
 
 [[START OF PAGE 8]]
 
-## BACKGROUND TO THE EDUCATION POLICY
+## CHAPTER 2: BACKGROUND TO THE EDUCATION POLICY
 
-### Education for Sustainable Development
+### 2.1 Education for Sustainable Development
 
 - 2.1.1 The  development  of  the  Education  Policy  2016  -  2030  is  premised  on  The Gambia's Vision   2020, Programme for Accelerated Growth and Employment (PAGE) and the Sustainable Development Goals (SDG), all of which are the development agenda of government, which seeks to improve the human capital of the country by reducing the number of people living below the poverty line. The policy development is also in tandem with  the  global  efforts  on  sustainable  development.  Thus  the  theme  of  the  policy consultations  was 'Accessible,  Equitable  and  Inclusive  Quality  Education  for sustainable Development'.
 
-### Policy Dialogue
+### 2.2 Policy Dialogue
 
 - 2.2.1 The participation of all stakeholders in education was central in the policy dialogue process. The process attempted, in a variety of ways, to include children as well as adults; illiterate  as  well  as  literate  members  of  the  society;  national  assembly  members, government departments; civil society and private sector representatives.
 
@@ -264,23 +264,23 @@ The document is set out in the following chapters:
 
 - The policy objectives are harmonised with Vision 2020, Education for All and the SDGs education-related goals.
 
-### Sector Analysis
+### 2.3 Sector Analysis
 
 - 2.3.1 Since 1998, the Education sector has institutionalised sector analysis as part of an ongoing process of monitoring the education system. During the implementation of the previous policy the sector conducted a PER in 2006, a CSR in 2010 and a sector report in 2014 the findings of which are summarised in sections 2.4 -2.9.
 
-### Education expenditure
+### 2.4 Education expenditure
 
 - 2.4.1 Since  the  more  affluent  households  in  society  enroll  more  of  their  children  in school  and  retain  them  for  longer  periods,  they  benefit  disproportionately  more  from government spending on education than the poor.  Household expenditure on education shows the extent to which the burden of paying for education weighs more heavily on the poor. It could be observed that even though the rich (quintile 5 - rich 20%) spend more on primary education than the poor (quintile 1 - poor 20%), the burden on household expenditure is  heavier  on  the  poor  than  the  rich.  It  is  therefore  evident  that  targeting subsidies will be critical for the attainment of equitable access to education.
 
 - 2.4.2 In 2013, education expenditure per student was higher at upper levels of education. Recurrent unit cost in tertiary education was much higher than the other education levels with unit costs 2.5 times that of the lower basic. Households contribute mainly to basic and  senior  secondary  education,  which  is  due  to  the  fact  that  most  enrolments  are concentrated at these levels of schooling. Lower basic absorbs 29 percent of household education spending, upper basic 30 percent and senior secondary 16 percent. The share devoted to higher education is only nine percent, reflecting the low number of students that pursue their education beyond senior secondary school.
 
-### Access and enrolment
+### 2.5 Access and enrolment
 
 - 2.5.1 Increased  public  expenditure  on  education  has  led  to  significant  progress  in expanding access and enrolment at all levels of the formal system.  Since 2010, significant progress was made in expanding access to lower basic education (Age group 7-12years). Enrolment grew at an average annual growth rate of 5.2% between 2009/10 and 2014/15 (compared with the target of 5%).
 
 - 2.5.2 Depending on the estimate chosen for population growth, enrolment ratios either increased  substantially  over  the  period,  or  remained  roughly  constant.  If  the  revised population growth estimate from the Central Statistics Department of approximately 2.8% per annum was used, the gross enrolment ratio (GER) would increase from 88.3% in 2010 to 101.2% in 2015. Madrassa enrolment contributed about 15% of the age group to the enrolment ratios in 2009/10 and 19% in 2014/15 academic years.
 
-### Female enrolment
+### 2.6 Female enrolment
 
 - 2.6.1 There is an encouraging trend in girls' enrolment in lower basic education from 2010 to 2015. Over the period, it grew at an annual rate of 5.5% while that of boys grew by 4.9%. This trend resulted in the growth of girls' GER from 89.1% in 2010 to 103.5% in 2015 compared to the GER for boys which increased from 87.5% in 2010 to 99.0% in 2015. One result of the change is that in formal lower basic schools, girls now represent
 
@@ -292,15 +292,15 @@ The document is set out in the following chapters:
 
 over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitute 47%. In the Upper Basic, the gender distribution is very similar to the lower basic schools.  At the senior secondary level, there were fewer girls up to 2014. However, in 2015 the ratio of boys to girls was 1:1.
 
-### The private costs and benefits of education
+### 2.7 The private costs and benefits of education
 
 - 2.7.1 Increasing enrolment will continue to depend on attracting children from the lower income  groups  for  whom  the  cost  of  education  to  households  is  seen  as  a  barrier  to attending  school,  especially  in  deprived  administrative  districts  like  Upper  Saloum, Nianija  and  Upper  Fuladu  West.  The  household  expenditure  and  benefit  incidence analysis in the PER continues to demonstrate that government subsidy to education is still in favour of the higher income groups. This will have to be reallocated in favour of the poorer groups. The cost burden is highest on the poorest households who spend a higher proportion of their per capita income on education, even though they spend much less than the rich and have a smaller share of enrolment at all levels. When efficiency is still a concern in the utilisation of resources and a commitment to poverty reduction as clearly articulated in the PRSP, a reallocation of resources targeted towards the poor cannot be more appropriate.
 
-### Efficiency of the education system
+### 2.8 Efficiency of the education system
 
 - 2.8.1 In addition to attracting children to school in the first instance, greater efficiency continues  to  be  required  in  order  to  retain  a  larger  proportion  of  children  in  basic education, particularly in regions 3- 6, where dropout rates continue to be highest. Even though repetition rates have dropped significantly, 26% of twelve-year-old girls and 27% of twelve-year-old boys do not complete grade 6. Out of those who started grade one in 2015, 54% will be expected to reach grade 6, 43% grade 9 and only about 21% to reach grade 12.
 
-### Quality and Relevance of Education
+### 2.9 Quality and Relevance of Education
 
 - 2.9.1 Over the years, the sector has developed many instruments to measure learning achievement. The NAT started as a sample base during the previous policy to a full census base where all pupils of grades three, five and eight are assessed in core subject areas. The early  grade  reading  assessment  in  English  was  also  introduced  while  the  national languages as a medium of instruction for the early grades was also piloted.
 
@@ -314,9 +314,9 @@ over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitut
 
 [[START OF PAGE 11]]
 
-## GUIDING PRINCIPLES AND AIMS OF EDUCATION
+## CHAPTER 3: GUIDING PRINCIPLES AND AIMS OF EDUCATION
 
-### Guiding Principles
+### 3.1 Guiding Principles
 
 - 3.1.1 The  Gambia  as  a  Nation  remains  highly  committed  to  developing  its  human resource base with priority given to free basic education for all. It is for this reason that this policy will be used as a means for the attainment of a high level of economic growth to alleviate poverty with emphasis on the critical areas for the realisation of the SDGs, EFA and NEPAD. Therefore, the guiding principle for education is premised on.
 
@@ -330,11 +330,11 @@ over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitut
 
 - 3.1.2 These guiding principles are in conformity with the national development agenda of The Gambia as articulated in Vision 2020 statement:
 
-' to transform The Gambia into a financial centre, a tourist paradise, a trading, exportoriented, agricultural and manufacturing nation, thriving on free market policies and a vibrant private sector, sustained by a well-educated, trained, skilled, healthy, selfreliant and enterprising population, and guaranteeing a well-balanced eco-system and a decent standard of living for one and all, under a system of government based on the consent of the citizenry.'
+“to transform The Gambia into a financial centre, a tourist paradise, a trading, export-oriented, agricultural and manufacturing nation, thriving on free market policies and a vibrant private sector, sustained by a well-educated, trained, skilled, healthy, self-reliant and enterprising population, and guaranteeing a well-balanced eco-system and a decent standard of living for one and all, under a system of government based on the consent of the citizenry.”
 
 - 3.1.3 In order to translate the above vision into reality, the sector will be guided by a Mission Statement embodied in the following statement: 'A Provision of Responsive, Relevant and Quality Education for All Gambians for Poverty Reduction'.
 
-### Aims of Education
+### 3.2 Aims of Education
 
 - 3.2.1 Based on the principles above  and  the  economic  development  prospects  of  the country, the basic aims of the education policy are to;
 
@@ -342,7 +342,7 @@ over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitut
 
 - Mainstream gender in the creation of opportunities for all to acquire literacy, livelihood skills and the utilisation of these skills in order to earn a living and become economically self-reliant members of the community
 
-- Develop  the  physical  and  mental  skills  which  will  contribute  to  nation  building  economically, socially and culturally in a sustainable environment
+- Develop the physical and mental skills which will contribute to nation building – economically, socially and culturally in a sustainable environment
 
 - Encourage creativity and the development of a critical and analytical mind
 
@@ -366,13 +366,13 @@ over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitut
 
 [[START OF PAGE 12]]
 
-## POLICY PRIORITIES AND OBJECTIVES
+## CHAPTER 4: POLICY PRIORITIES AND OBJECTIVES
 
-### Policy Priorities
+### 4.1 Policy Priorities
 
 - 4.1.1 The policy  priorities  and  objectives  are  set  against  the  background  of  the  high population  growth  rate,  the  cost  of  education  in  relation  to  the  poor  and  the  current education share of the government budget. Taking into account these considerations, the policy will be prioritised in the following five components aimed at providing equitable access to high quality education to all Gambians:
 
-### Access to Education:
+### 4.2 Access to Education:
 
 - 4.2.1 Equitable access to basic, senior secondary, tertiary and higher education will be increased. Access to ECD centres and literacy programmes will be enhanced with specific emphasis on under-served regions, girls and other disadvantaged groups of the population:
 
@@ -382,7 +382,7 @@ over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitut
 
 - Gender equity initiatives - A more gender sensitive curriculum and environment will be created and a continuous promotion on the community awareness on the benefits of both boys' and girls' education will continue to be mounted. Performance and completion will also be promoted
 
-- Adult and non-formal education and literacy programmes - a strategy for expanding nonformal  education  to  cater  for  out-of-school  youth  and  non-lettered  adults  will  be implemented
+- Adult and non-formal education and literacy programmes - a strategy for expanding non-formal education to cater for out-of-school youth and non-lettered adults will be implemented
 
 - Special  education  -  training  programmes  and  teaching  materials  for  special  education teachers  will  be  developed  and  special  facilities  extended  into  rural  areas  where mainstreaming does not satisfy the needs of severe cases
 
@@ -390,7 +390,7 @@ over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitut
 
 - The integrated approach of addressing the nutritional needs of the learner through school feeding/ canteen schemes will be enhanced and the provision of a conducive environment that takes cognisance of the importance of hygiene, water and sanitation promoted.
 
-### Quality Education
+### 4.3 Quality Education
 
 - 4.3.1 The learning outcomes at all levels will be improved through:
 
@@ -414,15 +414,15 @@ over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitut
 
 - Information  and  communication  technology  -  The  E-learning  centre  will  be enhanced  to  cater  for  teacher  development  needs.  The  tablets  being  piloted  for gaming will be rolled out whilst broadband internet and related resources will be available to all public schools
 
-### Vocational and Technical Education
+### 4.4 Vocational and Technical Education
 
 - 4.4.1 Programmes of technical and vocational education and training (TVET) will be strengthened, expanded and diversified to meet the emerging needs of a growing labour market. Efforts will be made to ensure that the quality and relevance of training and skills development match the demands of the market. There will be increased private sector participation in the provision and financing of training and skills development especially of the rural youth.
 
-### Tertiary and Higher Education
+### 4.5 Tertiary and Higher Education
 
 - 4.5.1 The tertiary and higher education system will strive to provide relevant, sustainable and high quality education and research to support the human resource needs for national development. The system will endeavour to support the socio-economic, scientific and technological  advancement  of  the  nation;  and  it  will  constantly  pursue  the  quest  for excellence by maintaining high standards, empowering students with the opportunity to realise  their  full  potential.  Guidelines  and  strategies  will  be  developed  to  ensure  that tertiary and higher education institutions will be committed to providing a high quality service to clients. It will also ensure the existence of a policy for quality and statement of institutional processes and procedures in pursuit of that policy.
 
-### Capacity Building
+### 4.6 Capacity Building
 
 - 4.6.1 Prominence will be given to capacity building for sector management to enhance the performance of the education sector through:
 
@@ -442,7 +442,7 @@ over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitut
 
 - Performance Management System (PMS) - will continue to be reviewed and fine-tuned for careful targeting of resources for training, promotion and other rewards.
 
-### Policy Objectives
+### 4.7 Policy Objectives
 
 - 4.7.1 With these priority areas and key strategies in mind, the policy seeks to attain the following objectives:
 
@@ -492,29 +492,29 @@ over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitut
 
 [[START OF PAGE 15]]
 
-## BASIC EDUCATION
+## CHAPTER 5: BASIC EDUCATION
 
-### Basic Education for All
+### 5.1 Basic Education for All
 
 - 5.1.1 The Gambia Government is committed to upholding the right of every person to basic     education, regardless of gender, age, religion or disability. Accordingly, basic education will be open to all. Learning at this level will be geared towards the holistic development of the individual for the positive realisation of every person's full potential and aspirations.
 
-### Conditional Cash Transfer (CCT)
+### 5.2 Conditional Cash Transfer (CCT)
 
 - 5.2.1 In  an  attempt  to  further  diversify  educational  provision  within  the  context  of education for all, a conditional cash transfer scheme has been introduced with the aim of providing  an  alternative  form  of  education  with  minimum  curriculum  standards  to children and youth who are placed in the custody of religious leaders with responsibility to teach them the Holy Quran and other Islamic values.
 
 - 5.2.2 This scheme which is known as CCT is being  piloted in twelve centres across the country delivering functional literacy and numeracy alongside life and livelihood skills that will enable them earn a living. Accordingly, this policy period will witness a gradual scale up of the scheme with improvement levels of efficiency within learner participation and curricula content and delivery.
 
-- 5.2.3 To this end, a study will be commissioned to investigate possible dual participation of students from conventional schools or madrassahs in the CCT scheme thus doublecounting learners within the same education system. The study will also determine the parameters  for  the  delivery  of  the  minimum  curriculum  to  the  learners  of  the  CCT programme.
+- 5.2.3 To this end, a study will be commissioned to investigate possible dual participation of students from conventional schools or madrassahs in the CCT scheme thus double-counting learners within the same education system. The study will also determine the parameters for the delivery of the minimum curriculum to the learners of the CCT programme.
 
 - 5.2.4 The Ministry will also explore the possibility of extending CCT to out of school children on apprenticeship at local workshops such as mechanics, carpentry and welding workshops to provide literacy and numeracy skills.
 
-### Physical Facilities Provision
+### 5.3 Physical Facilities Provision
 
 - 5.3.1 The continued establishment of new schools, construction of additional classrooms and the improvement, rehabilitation and maintenance of existing facilities will depend on a set of criteria that take into account the requisite legal framework. These facilities will include but not limited to kitchen, storage, water and sanitary services. All educational buildings should be accessible to all
 
 - 5.3.2 Small communities will be provided with multi-grade classrooms including ECD while communities that cannot attract the establishment of schools due to low school age population will be provided with customised school transport services to ferry children to and from the nearest LBS
 
-### School Improvement Grant
+### 5.4 School Improvement Grant
 
 - 5.4.1 In a bid to reduce the cost burden on households in educating their children in public schools, the education sector has abolished all forms of fees and levies in public basic  and  secondary  education  and  subsequently  introduced  the  payments  of  school improvement grants to support public schools undertake school improvement initiatives informed by an effective school development planning process.
 
@@ -528,7 +528,7 @@ over 50% of enrolment. In Madrassas, boys are 53% of total while girls constitut
 
 of disbursements, procurement and fiduciary responsibilities. Furthermore, government ECDs as well as government assisted ECDs and Madrassah will be included in the SIG during the policy period.
 
-### Early Childhood Development
+### 5.5 Early Childhood Development
 
 - 5.5.1 Government acknowledges the importance of the early years of development for children. The capacities with which children are born enable them to communicate, learn and develop but these need to be supported and guided to ascertain that children develop holistically  and  positively.  Government  will  therefore  take  a  more  active  role  in  the provision  of  facilities  and  services  for  ECD,  especially  in  communities  where  such services are not available. Early development centres will become part of lower basic schools in 'deprived' communities.
 
@@ -544,7 +544,7 @@ of disbursements, procurement and fiduciary responsibilities. Furthermore, gover
 
 - 5.5.7 The  Gambia  College  ECD  module  /curriculum  will be strengthened and Government will continue to promote and encourage the establishment of private ECD training institutions. Furthermore, minimum standards for Early Childhood Development services  will  be  developed  for  both  private  and  public  institutions.    Opportunities  for interested people to study ECD to graduate level will be created and ECD annexation will be extended to the urban areas
 
-### Lower and Upper Basic Schools
+### 5.6 Lower and Upper Basic Schools
 
 - 5.6.1 The Gross Enrolment Rate (GER) in 2015 is 101.2% for grades 1-6 and the NER is 80.8% whilst the GER for the upper level of basic education was 68.3 %. These ratios have taken into account the enrolment of the Madrassah.
 
@@ -572,11 +572,11 @@ A net enrolment rate of 100%, matched by a completion rate of 100%, will be targ
 
 - 5.6.6 Access to education will focus on gender mainstreaming and 'inclusion' of all children residing in the country. In this regard, no individual or section of any community is 'excluded' from reaping the benefits of education provided in the country on condition that the prevailing circumstances so permit.
 
-### Madrassah
+### 5.7 Madrassah
 
 - 5.7.1 Government and partners will continue to support Madrassah education through the  provision  of  adequate  classrooms,  toilets,  laboratories,  fence,  furniture  and  water facilities,  to  ensure  a  healthy,  safe  and  conducive  teaching  and  learning  environment. Government  will  continue  to  provide  subvention  for  teachers'  salary  in  recognised Madrassah institutions. Moreover, MoHERST will further collaborate with AMAANAH and other stakeholders to explore possibilities to accommodate madrassah graduates in tertiary and higher education institutions in The Gambia.
 
-### Special Needs Education
+### 5.8 Special Needs Education
 
 - 5.8.1 Special needs education is not only an issue for schools and teachers who look after children with disabilities, but also a whole system approach that touches the whole nation in its drive to include all inhabitants in every aspect of responsible civic life. It therefore calls for a radical and holistic change of attitudes and misconceptions about persons with disabilities to ensure that they too have access to quality education. In this regard, the adoption of complementary and mutually supportive approaches that are based on the principles of inclusiveness, integration and participation of children with special needs will be encouraged and school-friendly environments will be promoted.
 
@@ -594,7 +594,7 @@ needs children. All teachers in special needs schools will be trained to respond
 
 - 5.8.4 Expansion of the training of teachers at both levels, Pre-Service and In-Service will continue in order to support an inclusive teaching system. There will be continued closer collaboration  between  medical  and  educational  personnel  for  early  identification  of children with disabilities and appropriate responses to their circumstances. Vocational and skills training will continue to cater for people with disabilities.
 
-### Adult and Non-Formal Education
+### 5.9 Adult and Non-Formal Education
 
 - 5.9.1 A relevant and comprehensive Non-Formal Education (NFE) programme will be executed  including  distance  education  using  modern  technological  media  focused  on literacy,  numeracy  as  well  as  life  and  livelihood  skills.  The  NFE  programme  will  be designed according to learners' needs in the fulfillment of their right to education with the medium of instruction being mainly codified national languages and; content based on the socio-cultural, economic, ecological and civic life of the people.
 
@@ -604,7 +604,7 @@ needs children. All teachers in special needs schools will be trained to respond
 
 - 5.9.4 The  programmes  will  continue  to  target  the  15+  age  group,  which  will  differ partially according to target groups, whose needs vary according to age, sex, occupations and other needs. The programmes will provide an educational minimum. Clearly, the definition of an educational minimum will depend on the needs of the groups concerned and the resources available to the programmes.
 
-- 5.9.5 Within the above framework, the adult and non-formal education programme will continue  to  be  divided  into  three  interrelated  levels  e.g.  foundation,  intermediate  and advance  levels.    In  providing  functional  knowledge,  skills,  attitude  and  values,  the educational minimum outlined above will be the sine qua non for access to other forms of education. This will enable adult and non-formal education participants proceed to postliteracy and continuing education through the provision of facilities such as rural libraries and the creation of skill centres.
+- 5.9.5 Within the above framework, the adult and non-formal education programme will continue to be divided into three interrelated levels e.g. foundation, intermediate and advance levels. In providing functional knowledge, skills, attitude and values, the educational minimum outlined above will be the sine qua non for access to other forms of education. This will enable adult and non-formal education participants proceed to post-literacy and continuing education through the provision of facilities such as rural libraries and the creation of skill centres.
 
 - 5.9.6 The  Adult  and  Non-Formal  Education  Unit  (ANFEU)  will  continue  to  widen participation  opportunities  by  strengthening  the  capacities  of  civil  society  groups  to permit outsourcing to community based organisations and NGOs. The benefit will be the advantage of mobilising indigenous talents and resources. The capacities of the Unit will be built to co-ordinate, supervise, monitor and evaluate this component of basic education.
 
@@ -614,7 +614,7 @@ needs children. All teachers in special needs schools will be trained to respond
 
 [[START OF PAGE 19]]
 
-### Gender Mainstreaming
+### 5.10 Gender Mainstreaming
 
 - 5.10.1 After  the  achievement  of  gender  parity  at  Basic  and  Secondary  education, government will continue to consolidate the gains registered in this sub-sector on one hand and continue to pursue initiatives to attain parity at tertiary and higher education levels on the other.
 
@@ -626,7 +626,7 @@ needs children. All teachers in special needs schools will be trained to respond
 
 - 5.10.5 Children  (especially  girls')  participation  in  ECD  activities  will  continue  to  be vigorously  pursued.  Initiatives  and  incentives  of  various  types,  including  special scholarship packages for girls who excel in mathematics and the sciences at tertiary level will be instituted. The annual mathematics and science clinics, FAWE girls' clubs, and the  capasitisation  of  newly  graduated  teachers  on  gender  responsive  pedagogy  and promotion  of  a  gender  responsive  school  environment  will  be  instituted.  Moreover, community-based interventions will be strengthened and popularised.
 
-### The School Feeding Programme
+### 5.11 The School Feeding Programme
 
 - 5.11.1 Since  the  launching  of  the  home  grown  school  feeding  programme  in  2012 followed by the development of a Home-grown School Feeding Framework, there has been  government's  commitment  towards  full  ownership  and  management  of  the programme by 2020. The current school feeding programme is limited to LBS in deprived regions (3-6) including the Fonis in Region 2 but there is need to expand coverage to all regions and other levels.
 
@@ -646,27 +646,27 @@ needs children. All teachers in special needs schools will be trained to respond
 
 [[START OF PAGE 21]]
 
-## SECONDARY EDUCATION
+## CHAPTER 6: SECONDARY EDUCATION
 
-### Access
+### 6.1 Access
 
 - 6.1.1 In view of the envisaged expansion at the basic education level, it is imperative to further increase the number of senior secondary school (SSS) places for the three-year programme  from  grade  10  -  12.  Therefore,  to  complement  efforts  aimed  at  attaining quality education for all at the basic level, SSS  education will be expanded correspondingly. In this direction,  a  minimum transition rate of 70% by 2030 will be targeted.  In  principle,  transition  of  the  basic  education  graduates  to  SSS  will  be determined  by  satisfactory  performance  at  the  Gambia  Basic  Education  Certificate Examination (GABECE), and measures will be taken to curb dropout rates and grade repetition whilst increasing completion rates.
 
 - 6.1.2 Equity  in  the  geographical  distribution  of  schools  and  community  needs  will continue to guide the opening of new SSS. In particular, focus will be on the elimination of  gender  disparities.  ,  Municipalities,  local  councils,  religious  missions,  NGOs  and private  individuals  will  be  encouraged  to  participate  more  in  the  establishment  and operation of SSS. However, adherence to the guidelines for opening and running of SSS will be strictly enforced. These guidelines will be reviewed as and when the need arises.
 
-### Transition to Secondary Education
+### 6.2 Transition to Secondary Education
 
 - 6.2.1 Entry  to  SSS  will  depend  on  performance  in  the  GABECE  which  WAEC  will continue  to  conduct  annually.  30%  of  this  examination  will  constitute  continuous assessment marks in accordance with guidelines agreed with WAEC.
 
-### Curriculum
+### 6.3 Curriculum
 
 - 6.3.1 The SSS curriculum will continue to prepare students for higher education and for the  world  of  work.    It  will  be  reviewed  and  made  more  relevant  through  a  teaching syllabus that will be harmonized with the syllabus of the upper basic schools. Subjects offered at this level will include but not limited to: Foreign languages (including English, French  and  Arabic)  -  Mathematics  -  Science  and  Technology  &  ICT  -  Commercial subjects - Religious Knowledge and moral education - Arts subjects - Physical and Health Education - Life Skills Education - Technical subjects - Agricultural Science - National languages.
 
-### Staffing
+### 6.4 Staffing
 
 - 6.4.1 Achieving  the  desired  enrolment  targets  set  for  increased  access  to  senior secondary education and the enhancement of quality education required, there will be a proportionate increase in the number of graduate teachers. To this end, recruitment and training of more Gambian teachers will be strengthened to meet the expanding staffing needs. Furthermore, sustained efforts will be made to attract SSS graduates to pursue subject based courses at the University of The Gambia (UTG) to enable them serve as graduate teachers at this level.
 
-### Governance
+### 6.5 Governance
 
 - 6.5.1 Each  SSS  will  be  governed  by  a  gender-responsive  board  of  governors  in accordance with the Education Act. All SSS principals will also be encouraged to register with the Conference of Principals, which will serve as a link between the MoBSE and heads of schools at this level. While there will be commitment on the side of government to continue providing support, SSS will have to draw on their capacities to raise funds instead of depending on user charges to supplement government's effort.
 
@@ -676,11 +676,11 @@ needs children. All teachers in special needs schools will be trained to respond
 
 [[START OF PAGE 22]]
 
-## IMPROVING QUALITY AND RELEVANCE
+## CHAPTER 7: IMPROVING QUALITY AND RELEVANCE
 
 - 7.1.1 In education, quality involves teaching and learning as defined by inputs, outputs, outcomes and processes related to the system. For this policy, quality and relevance of teaching  and  learning  will  be  addressed  through  the  various  sub-themes  including  : Curriculum, Teaching and learning Materials, Assessment, Early literacy and Numeracy Skills,  School  Agriculture,  School  Library  Services,  Teacher  Training  (In-service  and Pre-service), Life Skills Education Programme, School Improvement Initiatives, Science, Technology and Innovation, Monitoring and Supervision, Pre-Vocation/TVET, Bilingual Education, School Sports,  Music Education and Environment including the effects of climate change.
 
-### Curriculum
+### 7.2 Curriculum
 
 - 7.2.1 In this policy, curriculum is defined as the totality of the experiences the pupil has as  a  result  of  the  provisions  made  in  terms  of  content,  teaching  and  learning  material development,  pedagogical  approach,  assessment,  school  culture  and  organisation,  and teaching and learning environment. Curriculum development, for the lower basic, upper basic and senior secondary levels currently remains with the central management of the Ministry of Basic & Secondary Education where syllabuses, teachers' guides and pupils' books are produced for the lower and upper basic and only syllabuses for senior secondary schools. The materials developed do not include structured content in certain curricula areas including but not limited to national language, entrepreneurship and Information and Communication Technology. Feedback on the suitability or otherwise of the materials from the point of view of the users is collected on an ad-hoc basis. As are result, the manner in which teachers are consulted with regard to their views on the suitability or otherwise  of  the  materials  is  not  systematic.  The  pedagogical  approach  remains traditionally  teacher  -centred  and  pays  little  attention  to  individual  differences  and different teaching strategies, which are also, constrained by the quality and quantity of teaching and learning materials at the various levels. In addition, the lack of systematic monitoring  and  evaluation  of  the  curriculum  weaken  the  review,  enrichment  and improvement  processes.  In  some  cases,  targeted  curriculum  content  areas  are  not sufficiently covered which may be due either to the volume of the syllabus or loss of instructional  hours,  thus  the  need  for  research,  monitoring  and  evaluation  of  the curriculum at all levels.
 
@@ -734,7 +734,7 @@ needs children. All teachers in special needs schools will be trained to respond
 
 - 7.2.20 Higher education institutions will be encouraged to develop curricula contents that cater  for  peace  education,  global  citizenship  education  and  sustainable  development including issues of environment and climate change.
 
-### Teaching and Learning Materials
+### 7.3 Teaching and Learning Materials
 
 - 7.3.1 Considering the critical importance and the positive impact of relevant teaching and learning materials on the quality of education, the education sector is fully committed to ensuring that all students and teachers have equal opportunity to access learning and teaching materials at all times for all curriculum areas.
 
@@ -770,7 +770,7 @@ needs children. All teachers in special needs schools will be trained to respond
 
 - 7.3.14 In line with best practices, the integration and application of ICT in curriculum design and teaching-learning processes in tertiary and higher education institutions will be accorded top priority and pursued during the policy period.
 
-### Assessment
+### 7.4 Assessment
 
 - 7.4.1 The Education Policy of 1988 - 2003 and the Education Policy 2004 - 2015 placed emphasis on assessment as an issue in the quality improvement endeavours. However, there have been gaps in practice that are not as a result of the absence of relevant policies but rather a mismatch between policy and practice. Furthermore, these policies attempted to outline the types of assessment and their purposes but little or no reference of their use were  made  to  improve  teaching  and  learning  in  terms  of  pedagogical  processes  and curriculum design and implementation.
 
@@ -780,7 +780,7 @@ needs children. All teachers in special needs schools will be trained to respond
 
 - 7.4.4 Assessment will include formal examinations; continuous assessment, routine and ad hoc diagnostic tests, and other forms of assessments will be based on the curriculum. Benchmarks will be established also to determine and monitor the standard of education across the basic and senior secondary levels in pursuit of excellence.
 
-- 7.4.5 The education sector will ensure that assessment of and for learning plays a critical role  in  its  drive  to  ensure  inclusive,  equitable,  and  quality  education  for  all.  A  welldesigned and regulated assessment system will be put in place to ensure   the improvement of teaching and learning as well as   accountability and establish a reliable mechanism for certification.
+- 7.4.5 The education sector will ensure that assessment of and for learning plays a critical role in its drive to ensure inclusive, equitable, and quality education for all. A well-designed and regulated assessment system will be put in place to ensure the improvement of teaching and learning as well as accountability and establish a reliable mechanism for certification.
 
 - 7.4.6 The sector will ensure that there is synergy between curriculum, teaching, learning and  assessment  by  initiating  sound  assessment  policies,  processes,  procedures  and assessment  monitoring  systems.  Assessment  results  will  be  used  to  address  learning outcomes  particularly  in  early  grade  learning  numeracy  and  literacy.  Benchmark  and standards will be established to guide assessment practices at all levels, particularly for the  National  Assessment  Test  (NAT  3,  5  and  8)  and  the  GABECE  and  WASSE examinations.
 
@@ -814,7 +814,7 @@ standards will be aligned with the GSQF. Further learning opportunities will be 
 
 - 7.4.17 Emphasis will be placed on assessment of training needs, integration of ICT into literacy and numeracy programs, teacher deployment and Monitoring and evaluation of literacy and numeracy programs.
 
-### Early Literacy and Numeracy
+### 7.5 Early Literacy and Numeracy
 
 - 7.5.1 There is growing body of evidence, which suggests that foundation skills in literacy and numeracy is a basic requirement for quality education provision. In this regard, the education sector has supported the interventions of Jolly Phonics, SEGRA and National Languages to improve the literacy and numeracy skills of early graders.
 
@@ -836,7 +836,7 @@ standards will be aligned with the GSQF. Further learning opportunities will be 
 
 - 7.5.7 Emphasis will also be placed on assessment of training needs, integration of ICT into  literacy  and  numeracy  programmes,  teacher  deployment,  and  monitoring  and evaluation of literacy and numeracy programmes.
 
-### School Agriculture
+### 7.6 School Agriculture
 
 - 7.6.1 School Agriculture and the Home-grown School Feeding Programme (HSFP), will support  and  strengthen  government's  effort  towards  achieving  the  EFA  goals  and National objectives of the Program for Accelerated Growth and Employment (PAGE).
 
@@ -846,7 +846,7 @@ standards will be aligned with the GSQF. Further learning opportunities will be 
 
 - 7.6.4 Agriculture biased senior secondary schools will be established.
 
-### School Library Services
+### 7.7 School Library Services
 
 - 7.7.1 The  current  situation  of  school  libraries  in  The  Gambia  has  revealed  certain challenges in the implementation of the revised education Policy. Reports emanating from CCM and  Gambia  National  Library  Service  Association  (GNLSA)  monitoring  visits reveal concerns relating to physical structure, book provision, trained librarians and the capacity of GNLSA to respond to the growing demands from school library services.
 
@@ -876,7 +876,7 @@ standards will be aligned with the GSQF. Further learning opportunities will be 
 
 - 7.7.11 The  Ministry  of  Higher  Education,  Research,  Science  and  Technology  in collaboration  with  partners  will  support  tertiary  and  higher  education  institutions  to subscribe to digital specialized libraries around the world.
 
-### Teacher Training (Pre-Service and In-Service)
+### 7.8 Teacher Training (Pre-Service and In-Service)
 
 - 7.8.1 Currently, the Gambia College, the Gambia Technical Training Institute (GTTI) and the University of the Gambia (UTG) conduct teacher training in the Gambia. The Gambia College is the main provider of pre-service teachers for the lower and upper basic levels, whereas the GTTI trains teachers for the technical subjects at the upper basic level and UTG provides training targeted at the senior secondary level. Entry requirement for teacher training is based on secondary level qualifications. However, each programme has its own entry requirements.
 
@@ -884,7 +884,7 @@ standards will be aligned with the GSQF. Further learning opportunities will be 
 
 - 7.8.3 Training of teachers using distance mode of training has helped in reducing the number of UQ Teachers in lower basic schools.
 
-- 7.8.4 Research has been conducted on teacher content knowledge and it has been found that teacher content knowledge has been low in some areas. Other challenges in teacher training can also be traced to the absence of teacher professional standards, systematic inservice training, and periodical external curriculum review for teacher education.
+- 7.8.4 Research has been conducted on teacher content knowledge and it has been found that teacher content knowledge has been low in some areas. Other challenges in teacher training can also be traced to the absence of teacher professional standards, systematic in-service training, and periodical external curriculum review for teacher education.
 
 - 7.8.5 In  view  of  the  foregoing  challenges,  the  education  sector  will  develop  and implement  sound  and  comprehensive  strategies  in  support  of  teacher  professional standards and ethics, systematic in-service training and periodical external curriculum review for teacher education.
 
@@ -912,19 +912,19 @@ standards will be aligned with the GSQF. Further learning opportunities will be 
 
 - 7.8.14 The  Ministry  of  Higher  Education,  Research,  Science  and  Technology  in collaboration with key partners will develop a standard profile for lecturers and tutors operating  in  all  tertiary  and  higher  education  institutions.  To  this  end,  staff  below standards will be offered the opportunity to be upgraded.
 
-### Life Skills Education Programme
+### 7.9 Life Skills Education Programme
 
 - 7.9.1 In keeping with government's commitment to the SDG, priority will be given to Life Skills Education (LSE) programme in the policy. LSE will help learners acquire not only knowledge and skills but also behaviours (adaptive and positive) relevant to their self-fulfilment in a changing social and economic environment.
 
 - 7.9.2 The Life skills education programme will continue to intervene and strengthen the areas  of  HIV/AIDS prevention, the reduction of gender based violence in and around schools, the inculcation of peace building and tolerance, global citizenship and patriotism, population and family life and the environment including climate change, and support in the form of guidance and counselling services in schools will continue to be strengthened.
 
-### HIV/AIDS Prevention
+### 7.10 HIV/AIDS Prevention
 
 - 7.10.1 As HIV/AIDS is more of a development problem rather than an exclusive health issue, children, youth, teachers and education sector personnel (vulnerable groups) will continue to be targeted to slow down the spread and progression of the problem. In order to  sustain  the  gains  already  made,  the  education  sector  will  continue  the  teaching  of HIV/AIDS issues in all learning institutions to ensure that these institutions are used as effective vehicles to intensify HIV/AIDS sensitisation in communities.
 
 - 7.10.2 Life skills education programme will continue to intervene and strengthen the areas of HIV/AIDS prevention; the reduction of gender based violence in and around schools; human  rights  education;  the  inculcation  of  peace  building,  tolerance  and  patriotism; population and family life and the environment including climate change.
 
-### Gender Responsiveness
+### 7.11 Gender Responsiveness
 
 - 7.11.1 Apart from poverty, which limits the participation of girls and women in education, other factors that also relegate women in general to a disadvantaged and dis-empowered position include the value, attitudes and practices that consider girls and women as objects
 
@@ -940,15 +940,15 @@ of sex and servitude, thus leading to early and forced marriage, male child pref
 
 - 7.11.3 To  this  end,  the  policy  on  sexual  harassment's  implementation  will  further  be reinforced  and  schools  will  be  encouraged  and  supported  to  establish  disciplinary committees, which will include teachers, parents and students. Gender responsiveness will usher in gender perspectives in the decision-making processes and leadership. This policy will continue to promote equity in all facets of management at the school level, teacher recruitment, promotion and student enrolment and completion across all levels of the education system.
 
-### Peace Building and Tolerance
+### 7.12 Peace Building and Tolerance
 
 - 7.12.1 The Life Skills Education programme will equally focus on the promotion of peace education and conflict resolution. It will critically look at factors militating against peace, promotion of culture of peace and peaceful co-existence, and then build on strategies to make positive impact at the inter-personal, community and national levels. To meet the objectives and focus for a peace education programme, learners will be exposed to skills in  conflict  resolution  and  management  (grievance  handling,  negotiations,  arbitration). Schools will be encouraged to establish peace clubs and societies through which such skills can be practised and promoted or integrate the programme within the existing ones.
 
-### Population and Family Life Education (POP/FLE)
+### 7.13 Population and Family Life Education (POP/FLE)
 
 - 7.13.1 The 2013 Census have shown that over 21.4% of the population of The Gambia fall within the age cohort of 15-24, and 64% of the population under the age of 24 years are the  most  vulnerable  groups. The  growing need for awareness within this group is enough justification for the sensitisation of POP/FLE issues as inherent in the National Development Programmes.
 
-### Guidance and Counselling
+### 7.14 Guidance and Counselling
 
 - 7.14.1 Guidance and Counselling (G&C) will continue to be one of the support services intended to augment education programmes and the delivery of quality education in The Gambia. There is empirical evidence that G&C is contributing to the enhancement of access, retention and performance of both boys and girls in the upper basic and SSS where such services are provided.
 
@@ -956,7 +956,7 @@ of sex and servitude, thus leading to early and forced marriage, male child pref
 
 - 7.14.3 Support in the form of guidance and counselling services in schools will continue to be strengthened.
 
-### Career Guidance and Counselling
+### 7.15 Career Guidance and Counselling
 
 - 7.15.1 The sector is cognizant of the need to raise aspirations, challenge stereotypes and encourage students  to consider  a  wide  range  of  vocations  and  courses  through  career guidance and counselling.
 
@@ -972,7 +972,7 @@ choices, expectations and development in order to assist them to choose, prepare
 
 - 7.15.3 Accordingly, a career guidance and counselling programme will be developed and implemented  to  ensure  that  students  make  more  informed  and  better  educational  and career choices
 
-- 7.15.4 The  programme  will  provide  teachers,  school  administrations  and  parents  with information  that  is  much  needed  to  support  student's  career  exploration  and  postsecondary educational opportunities. Students will be assisted to make the best possible career choices, strengthen the educational system by providing motivation and meaning to education.
+- 7.15.4 The  programme  will  provide  teachers,  school  administrations  and  parents  with information  that  is  much  needed  to  support  student's  career  exploration  and  post-secondary educational opportunities. Students will be assisted to make the best possible career choices, strengthen the educational system by providing motivation and meaning to education.
 
 - 7.15.5 The programme will ensure that students become aware of the many courses to consider, Interpret occupational interest inventory and decide what to do after school as well as help students apply to tertiary and higher education institutions.
 
@@ -980,13 +980,13 @@ choices, expectations and development in order to assist them to choose, prepare
 
 - 7.15.7 For a sustained career-counseling programme,  the  required structures and resources will be made available to give this area the requisite impetus for the desired outcome.  In the same vein, the education sector will collaborate and forge partnerships with relevant institutions to make the most of existing expertise and information to enrich the development  and maintenance of  comprehensive programme.  Guidance  and counseling with more emphasis on career counseling will be a mandatory and integral part of Teacher education programme of study at the university and the college.
 
-### Global Citizenship and Patriotism
+### 7.16 Global Citizenship and Patriotism
 
 - 7.16.1 Global citizenship is an ethos. It aims to empower learners to engage and assume active roles both locally and globally to face and resolve global challenges in order to become proactive contributors to a sustainable world. Education for global citizenship helps  and  enable  young  people  develop  the  core  competencies,  which  allow  them  to actively engage with the world, and helps make it a more just and sustainable place. It will  be  implemented  through  a whole-school  approach ,  involving  everyone  from learners themselves to the wider community.  This will include the promotion of social justice and a culture of peace as well as the appreciation of diversity and the importance of sustainable development. Global citizenship will therefore be mainstreamed throughout the education process.
 
 - 7.16.2 For the creation of a unified nation bound by a common purpose complemented by a sense of duty and loyalty to the nation, awareness of patriotism in all learners will be developed.    Attitudes  and  values  guided  by  patriotism  and  democratic  principles  and practice, as well as elements that foster societal cohesion, will continue to be promoted.
 
-### School Health and Nutrition Education
+### 7.17 School Health and Nutrition Education
 
 - 7.17.1 Integrating a comprehensive inclusive school-based health program into the sector plan  will  lead  to  implementation  of  interventions  that  prevent  many  children  from dropping out of school, and positively impacts on the performance of children. Enhanced understanding of basic health especially school-based de-worming and eye health (vision screening) will serve as a tool to implementing more comprehensive, inclusive life skills and school health programming.
 
@@ -1004,7 +1004,7 @@ school-based interventions by which the education sector, typically with oversig
 
 - 7.17.4 Awareness creation  of  neglected  tropical  diseases  and  vision  screening  will  be introduced.
 
-### School Improvement Initiatives
+### 7.18 School Improvement Initiatives
 
 - 7.18.1 In an effort to improve the organization and functioning of schools, a set of realistic and implementable interventions aimed at improving the quality and standards of teaching and  learning  has  been  institutionalized  within  an  integrated  framework  of  all  school improvement initiatives referred to as the Programme for Improved Quality and Standards in Schools (PIQSS).  Such initiatives are as follows:
 
@@ -1016,17 +1016,17 @@ school-based interventions by which the education sector, typically with oversig
 
 - After School Support Programme
 
-### School Improvement Planning
+### 7.19 School Improvement Planning
 
 - 7.19.1 Under  this  intervention,  the  education  sector  will  continue  to  put  emphasis  on schools  to  initiate  and  implement  school  improvement  plans  whose  major  source  of funding will be the school improvement grants. The process of developing these plans will continue to be quality assured through a set of minimum requirements and levels of verifications and endorsements that must be met by the schools.
 
-### Monitoring and Supervision
+### 7.20 Monitoring and Supervision
 
 - 7.20.1 In the area of monitoring and supervision of teaching and learning in schools, the minimum  standards  for  quality  education  indicators  will  be  periodically  reviewed  to provide an indication that schools that meet the standards are on the path of delivering quality education. To this end, the cluster-based monitoring system will continue to be strengthened in all facets of its mandate while the participatory performance monitoring which  empowers  community  participation  in  school  monitoring  will  continue  to  be promoted  through  support  that  will  continue  to  be  provided  to  the  annual  School Performance Monitoring Meetings in all public lower and upper basic schools.
 
 - 7.20.2 Curriculum  implementation  will  continue  to  be  monitored  at  all  levels  of  the education system. To this end, internal monitoring and supervision under the responsibilities of the head teachers will be reinforced to improve the performance of both teachers and students. Schools will continue to be monitored and supervised to ensure that objectives, targets and strategies for quality improvement are set and implemented.
 
-### School Star Award Scheme
+### 7.21 School Star Award Scheme
 
 - 7.21.1 The school star system will continue to be a school based program that rewards schools for improving learning outcomes of students. It will serve as a monitoring tool that  will  gauge  the  effectiveness  and  efficiency  of  schools  while  providing  on-going feedback for all school community stakeholders. Accordingly, the scheme will continue to  be  promoted  and  supported  in  order  to  deliver  the  purpose  for  which  it  has  been established.
 
@@ -1036,11 +1036,11 @@ school-based interventions by which the education sector, typically with oversig
 
 [[START OF PAGE 33]]
 
-### After School Support Programme
+### 7.22 After School Support Programme
 
 - 7.22.1 In a bid to supplement the work of the teachers at schools and provide remedial support to students at home, an After School Support Programme has been introduced and piloted. The programme will be evaluated to determine the extent to which it has been successful and once this is the case, it will be scaled up and supported accordingly.
 
-### Science, Technology, Engineering Mathematics Education (STEM)
+### 7.23 Science, Technology, Engineering Mathematics Education (STEM)
 
 - 7.23.1 The education sector recognizes the importance of Science, Technology, Engineering  and  Mathematics  (STEM)  as  a  pre-requisite  for  skills  development, innovation, creativity, entrepreneurship and employability. However, the education sector is  challenged  with  inadequate  and  poor  infrastructure,  insufficient  number  of  trained teachers  in  the  STEM  areas,  students'  negative  attitudes  towards  Mathematics  and Science,  inadequate  number  of  schools  offering  science  and  inadequate  teaching  and learning materials, among others.
 
@@ -1058,7 +1058,7 @@ school-based interventions by which the education sector, typically with oversig
 
 - 7.23.8 Funding  and  priority  will  be  accorded  to  the  development,  promotion  and popularization  of  STEM  education.  In  addition,  alternative  and  innovative  funding mechanisms will be promoted through greater private sector involvement;
 
-### Information and Communications Technologies
+### 7.24 Information and Communications Technologies
 
 - 7.24.1 The importance of ICTs is recognised as essential tools to better facilitate effective and efficient management of the sector. This policy will ensure, through the use of ICTs that quality education is accessible to one and all.
 
@@ -1076,15 +1076,15 @@ school-based interventions by which the education sector, typically with oversig
 
 - 7.24.5 Strategic  partnerships  will  be  built  with  all  stakeholders,  including  the  private sector and donor organisations. The sector will co-ordinate the implementation of all such interventions while taking into account the need to build local capacity and sustainability mechanisms;
 
-- 7.24.6 All public educational institutions will progressively be provided through publicprivate  partnership  ventures,  with  networked  computers,  computer  peripherals  and Internet access during the policy period.  Private institutions will be required to include ICT as part of the educational curriculum;
+- 7.24.6 All public educational institutions will progressively be provided through public-private  partnership  ventures,  with  networked  computers,  computer  peripherals  and Internet access during the policy period.  Private institutions will be required to include ICT as part of the educational curriculum;
 
 - 7.24.7 Training workshops and other professional development activities will continue to be conducted for school heads, teachers and students to ensure that every teacher and student in  the  country  is  computer  and information literate.  A  website  and school-net programmes  will  be  set  up  for  every  school  and  both  students  and  teachers  will  be encouraged to participate in projects and other educational activities;
 
 - 7.24.8 In collaboration with other stakeholders, such as WAEC and USPC, a national ICT policy for educational institutions will be developed. ICT will be offered at the GABECE and WASSCE  including  tertiary and higher education levels and will include programming, database design, website and administration, maintenance and repair and network and systems administration;
 
-- 7.24.9 Access to ICT resources and facilities in schools will be made available to out-ofschool  youth  and  other  members  of  the  community.  Communities  in  which  public education  institutions  are  located  will  be  encouraged  to  use  the  ICT  resources  and facilities in order to communicate and also improve their numeracy and literacy skills. Cyber café and computer resource centres will be established in every region to enhance the ODL programmes of both the University and the Gambia College.
+- 7.24.9 Access to ICT resources and facilities in schools will be made available to out-of-school  youth  and  other  members  of  the  community.  Communities  in  which  public education  institutions  are  located  will  be  encouraged  to  use  the  ICT  resources  and facilities in order to communicate and also improve their numeracy and literacy skills. Cyber café and computer resource centres will be established in every region to enhance the ODL programmes of both the University and the Gambia College.
 
-### Educational Broadcasting Services (EBS)
+### 7.25 Educational Broadcasting Services (EBS)
 
 - 7.25.1 During this policy period the education sector will endeavour to strengthen EBS Capacity through in-depth training on the development of materials, production, editing and dissemination of educational materials;
 
@@ -1102,13 +1102,13 @@ school-based interventions by which the education sector, typically with oversig
 
 [[START OF PAGE 35]]
 
-collaborate with the Gambia Radio and Television Services (GRTS), NGOs, international agencies and other partners to produce and broadcast documentaries and other educationrelated programmes for children and adults.
+collaborate with the Gambia Radio and Television Services (GRTS), NGOs, international agencies and other partners to produce and broadcast documentaries and other education-related programmes for children and adults.
 
-- 7.25.6 The services will be expanded to incorporate broadcasts for adult learners and outof-school youth. Thus, EBS will gradually cover all components of the sector programmes for effective implementation of all activities at the basic and post-basic levels. Closer cooperation and collaboration will be established to better produce the forum devoted to educational issues on GRTS: Education Forum.
+- 7.25.6 The services will be expanded to incorporate broadcasts for adult learners and out-of-school youth. Thus, EBS will gradually cover all components of the sector programmes for effective implementation of all activities at the basic and post-basic levels. Closer co-operation and collaboration will be established to better produce the forum devoted to educational issues on GRTS: Education Forum.
 
-### Pre-Vocational & Technical and Vocational Education & Training
+### 7.26 Pre-Vocational & Technical and Vocational Education & Training
 
-- 7.26.1 The education sector believes that Technical and Vocational Education & Training (TVET) has potential to create self-employable opportunities thus contributing to socioeconomic  development.    Evidence  also  has  it  that  early  introduction  of  TVET  in  the education system sows the seeds of interest among young learners.
+- 7.26.1 The education sector believes that Technical and Vocational Education & Training (TVET) has potential to create self-employable opportunities thus contributing to socio-economic  development.    Evidence  also  has  it  that  early  introduction  of  TVET  in  the education system sows the seeds of interest among young learners.
 
 - 7.26.2 Notwithstanding the above benefits, TVET in The Gambia continues to suffer from inadequate  infrastructure,  low  numbers  of  TVET  graduates,  non-responsive  TVET training to the labour market needs, perception of TVET as second option and inadequate number of scholarships for TVET teachers, instructors and students, to name just a few. It  is  hoped  that  when  implemented  i.e.  Possible  Model  will  address  the  perennial challenges faced in the administration of Pre-Vocational and TVET programmes in The Gambia.  Furthermore,  it  will  create  continuity  for  learners  to  transit  from  Basic  and Secondary Education, and TVET to Tertiary and Higher Education.
 
@@ -1126,7 +1126,7 @@ collaborate with the Gambia Radio and Television Services (GRTS), NGOs, internat
 
 - 7.26.9 The Ministry of Higher Education, Research, Science and Technology through NAQAA, will continue to develop qualification framework, accreditation and validation of the relevant skills identified through research findings.
 
-### Bilingual Education
+### 7.27 Bilingual Education
 
 29
 
@@ -1150,7 +1150,7 @@ collaborate with the Gambia Radio and Television Services (GRTS), NGOs, internat
 
 - 7.27.8 The  Ministry  of  Higher  Education,  Research,  Science  and  Technology  in collaboration with other partners will encourage the introduction and teaching of national languages  at  the  University  of  the  Gambia.  Support  will  be  provided  to  establish  a linguistics department at the UTG.
 
-### Sport Education
+### 7.28 Sport Education
 
 - 7.28.1 The education sector  acknowledges  the  fact  that  the  salvation  of  sports  in  The Gambia must begin at the level of the school to ensure the growth of grassroots.
 
@@ -1164,7 +1164,7 @@ collaborate with the Gambia Radio and Television Services (GRTS), NGOs, internat
 
 - 7.28.6 The education sector will ensure that venues for national sport championships for schools are decentralized.
 
-- 7.28.7 Appropriate sporting infrastructure will be provided in every school and sport will be diversified to promote a wide variety of sporting activities. In the urban and periurban areas, where space for sporting facilities is limited, the sharing of facilities for proximate schools will be pursued. The education sector will ensure that each child practices the sport of his/her preference.
+- 7.28.7 Appropriate sporting infrastructure will be provided in every school and sport will be diversified to promote a wide variety of sporting activities. In the urban and peri-urban areas, where space for sporting facilities is limited, the sharing of facilities for proximate schools will be pursued. The education sector will ensure that each child practices the sport of his/her preference.
 
 - 7.28.8 Innovative  approach  for  sport  financing  will  be  promoted  through  community initiatives and public private partnership.
 
@@ -1176,7 +1176,7 @@ collaborate with the Gambia Radio and Television Services (GRTS), NGOs, internat
 
 - 7.28.9 Synergies will be built together with the Gambia College and MoYS to develop training schemes for physical education and sport teachers. In  an  effort  to  promote education  and  school  sports,  which  has  hitherto  been marginalized  in  the  school curriculum,    this  education    policy    will  vigorously  pursue  interventions  aimed  at advancing the cause of school sports in the country.
 
-### Music Education
+### 7.29 Music Education
 
 - 7.29.1 Music education is a powerful tool for attaining children's full intellectual, social, and  creative  potential  and  is  considered  a  fundamental  component  of  human  culture, particularly when the content is clearly linked to indigenous cultures.
 
@@ -1192,7 +1192,7 @@ collaborate with the Gambia Radio and Television Services (GRTS), NGOs, internat
 
 - 7.29.7 Once  a  new  strategy  for  music  education  is  finalized,  it  will  be  piloted  and subsequently scaled up using the incremental approach
 
-### Environment Including Effects of Climate Change
+### 7.30 Environment Including Effects of Climate Change
 
 - 7.30.1 Noting that environmental degradation and depletion of natural resources create cycles of poverty, poor  health conditions, loss of wildlife and  generally  retard development, Government has over the period enacted coherent policies that has made provisions for the integration of environmental education in school curricula, among other legal  frameworks  for  environmental  planning,  management  and  decision-making. MoBSE  has  promoted  and  encouraged  environmental  education  through  available opportunities  and  innovative  approaches  in  schools.  These  include  production  of educational  materials,  periodical  training  workshops,  the  introdcution  of  Social  and Environmental Studies as a subject since the early 1990s and the use of schools as centres for environmental awareness
 
@@ -1210,7 +1210,7 @@ will  partner  with  the  relevant  stakeholders  to  push  forward  environment
 
 - 7.30.4 Over  the  policy  period,  the  sector  will  nurture  partnership  with  the  relevant stakeholders to continue the identification of the educational contents and methods in relation  to  the  emerging  environmental  issues  with  a  view  to  integrating  them  in  the curricula at all levels and types of education.
 
-- 7.30.5 Institutional culture and social interactions that are needed for positive humanenvironment  interactions  will  be  promoted  in  all  educational  institutions  (ECD  to University).
+- 7.30.5 Institutional culture and social interactions that are needed for positive human-environment  interactions  will  be  promoted  in  all  educational  institutions  (ECD  to University).
 
 - 7.30.6 In  partnership  with  the  national,  regional  and  international  bodies,  pedagogical practices for accelerating learning outcomes and for engendering positive actions on the environment will be adopted and institutionalised in schools, including Madrassah. To this end, the use of the new ICT, development of environmentally friendly infrastructure and learning materials will be prioritised.
 
@@ -1228,9 +1228,9 @@ will  partner  with  the  relevant  stakeholders  to  push  forward  environment
 
 [[START OF PAGE 39]]
 
-## MANAGEMENT OF EDUCATION
+## CHAPTER 8: MANAGEMENT OF EDUCATION
 
-### Organisational Structure
+### 8.1 Organisational Structure
 
 - 8.1.1 The ministries of education will continue to be responsible for policy development, management and Co-ordination in The Gambia. They will guide the development of the education  sector  during the policy period and  beyond  and  further  reinforce its management capacities to cope with the decentralisation process.
 
@@ -1240,7 +1240,7 @@ will  partner  with  the  relevant  stakeholders  to  push  forward  environment
 
 - 8.1.4 The second will be the co-ordinating committee meeting (CCM) to be made up of all Deputy Permanent secretaries, directors, principal education officers, managers/deputy managers  and  relevant  stakeholders  to  be  chaired  by  the  Permanent  Secretary.  This committee will meet bi-monthly by rotation at each of the six regions.
 
-### Directorates under MoBSE
+### 8.2 Directorates under MoBSE
 
 - 8.2.1 The  Ministry  of  Basic  and  Secondary  Education  will  maintain  professional directorates, each of which is headed by a director. The director will advise the Permanent Secretary  on  technical  and  professional  matters  relating  to  the  area  of  expertise  and responsibility, which are:
 
@@ -1256,11 +1256,11 @@ will  partner  with  the  relevant  stakeholders  to  push  forward  environment
 
 - Curriculum research, evaluation and development
 
-### Planning, Policy Analysis, Research and Budgeting Directorate
+### 8.3 Planning, Policy Analysis, Research and Budgeting Directorate
 
 - 8.3.1 This  directorate  will  have  four  integrated  components:  planning,  budgeting, information  and  statistical  analysis.  Its  primary  function  will  continue  to  incorporate advice on analysis of policy issues; collection, compilation, analysis and dissemination of education statistics; analysis and evaluation of recurrent and development expenditures from both government and external sources. EMIS will continue to be accorded a priority status in the quest for an effective tool in the rational planning of the education system. School mapping exercises will be mounted every year to ensure equitable distribution of educational facilities, institutions and resources.
 
-### Human Resources Directorate
+### 8.4 Human Resources Directorate
 
 - 8.4.1 The  directorate will be  responsible  for  human  resource  development  and management.
 
@@ -1274,25 +1274,25 @@ will  partner  with  the  relevant  stakeholders  to  push  forward  environment
 
 needs. The introduced PMS will be further strengthened to facilitate sector's training need and  promotion.  The  department  will  continue  to  improve  the  system  to  enhance transparency and accountability.
 
-### Basic and Secondary Education Programmes Directorate
+### 8.5 Basic and Secondary Education Programmes Directorate
 
 - 8.5.1 This directorate will be responsible for guiding and advising on policy directives within the context of basic and senior secondary education programming; co-ordinating and monitoring its effective functioning with programme linkages to include ECD, gender education, special needs education, Madrassa education, non-formal education, life skills education and school health, school agriculture and food management.
 
-### Science and Technology Education Directorate
+### 8.6 Science and Technology Education Directorate
 
 - 8.6.1 This directorate will be responsible for advising on and co-ordinating all aspects relating to the design, programme development, training and capacity building in the area of science and technology education in schools and the sector as a whole. Although the emphasis is on science and technology education, this directorate will have oversight on all the other learning areas. It will also be responsible for the further development and enhancement of science and technology education at all levels. In addition, the directorate will  also  provide  outreach  medium  for  transmission  of  ministry's  programmes  and activities
 
-### Standards and Quality Assurance Directorate
+### 8.7 Standards and Quality Assurance Directorate
 
 - 8.7.1 This directorate will be responsible for monitoring compliance of the education policy and its associated acts and regulations in all schools operating in The Gambia. It will maintain its primary function of monitoring and supervision of standards at all levels of  the  school  system  (including  pre-schools  and  the  Madrassa);  learning  achievement targets, teacher quality and performance, PTA and SMC involvement. It will popularise the  use  of  appropriate  technologies  to  improve  the  performance  of  both  teachers  and students.
 
-### Curriculum Research, Evaluation and Development Directorate
+### 8.8 Curriculum Research, Evaluation and Development Directorate
 
 - 8.8.1 Established  as  Curriculum  Development  Centre  in  1975,  the  directorate  is responsible  for  operationalising  the  broad  strategic  policy  aims  and  objectives  into syllabuses and text books in order to guide the teachers' classroom practices. Among its functions are to specify the overall goals of education in The Gambia and to guide the derivation  of  learning  areas.  Provide  technical  guidance  and  co-ordination  in  the development  and  production  of  suitable  instructional  materials  for  the  basic  and secondary education. Foster professional development within the teaching community by facilitating the formation of professional associations.;
 
 - 8.8.2 Over  the policy period, while these functions will remain pertinent, the organizational  structure  for  curriculum  research,  planning,  monitoring  and  evaluation processes will be reviewed and updated to reflect core functions of research, development and  capacity  building  for  the  various  specialised  agencies  in  relation  to  curricula improvement, implementation and evaluation. Capacities will be developed at the various levels for curriculum research and evaluation.
 
-### Regional Education Directorates (MoBSE)
+### 8.9 Regional Education Directorates (MoBSE)
 
 - 8.9.1 Regional education directorates will continue to be headed by regional directors. They will be engaged in education policy dialogue and take full responsibility for the planning and implementation of educational programmes in the regions. The directors at this  level  will,  in  the  interim,  be  answerable  to  the  Permanent  Secretary  pending  the handover  of  the  education  service  to  the  local  government  authorities.  Given  the anticipated responsibilities of the regional directorates in relation to the decentralisation
 
@@ -1304,33 +1304,33 @@ needs. The introduced PMS will be further strengthened to facilitate sector's tr
 
 process, the directorates  will  continue  to  be  strengthened  within  the  context  of government's  decentralisation  programme  and  will  become  absorbed  into  the  local government structure at the divisional levels. The role of the MoBSE Headquarters will become largely to monitor and evaluate policy implementation across the system in the regions for quality assurance.
 
-### Projects Co-ordination Unit (PCU)- MoBSE
+### 8.10 Projects Co-ordination Unit (PCU)- MoBSE
 
 - 8.10.1 The Projects Co-ordination Unit will continue its role of donor mobilisation and co-ordination.  The  PCU  will  continue  to  manage  and  co-ordinate  the  classroom construction  programme  through  a  partnership  arrangement  and  undertake  the  overall contracts management for the procurement of goods, works and services, arrange for the disbursement and replenishment of funds for project-supported activities, coordination of programme reviews and supervision, facilitate training activities and technical assistance requirements under the external support programme. It will support the ministries in the procurement of all goods and services. In recognition of the contribution of The Gambia's development partners to the education enterprise, effective co-operation will continue to be  promoted  with  the  donor  community  in  this  regard.  To  this  end,  efforts  will  be intensified to mobilise resources for the sector through bi-lateral and multi-lateral grant financing.
 
-### Directorates under MOHERST
+### 8.11 Directorates under MOHERST
 
 - 8.11.1 The  Ministry  of  Higher  Education,  Research,  Science  and  Technology  will maintain professional directorates, each of which will continue to be headed by a director. The directors will advise the Permanent Secretary on technical and professional matters relating to the area of expertise and responsibility. However, there will be a functional analysis to establish the full structure of the ministry and the existing ones are:
 
-### Planning, Policy Analysis and Budgeting Directorate
+### 8.12 Planning, Policy Analysis and Budgeting Directorate
 
 - 8.12.1 This directorate will be responsible to coordinate, collect, process and analyse data for timely information provision, projections and simulations on relevant areas within the mandate of MoHERST
 
-### Tertiary and Higher Education Directorate
+### 8.13 Tertiary and Higher Education Directorate
 
 - 8.13.1 This directorate will be responsible for the co-ordination of all aspects of tertiary and higher education programmes, facilities and resources.
 
 - 8.13.2 It is responsible for the co-ordination of all aspects of tertiary and higher education programmes, facilities and resources
 
-### Science, Technology and Innovation Directorate
+### 8.14 Science, Technology and Innovation Directorate
 
 - 8.14.1 This  directorate  will  be  responsible  for  STI  and  STI  related  activities  and  the management of the MoHERST website.
 
-### Research Directorate
+### 8.15 Research Directorate
 
 - 8.15.1 This directorate will be responsible for areas related to research relevant to the directorate,  coordinate  research  activities  create  and  manage  a  documentation  and publication unit
 
-### Support Structures
+### 8.16 Support Structures
 
 - 8.16.1 In order to effectively and efficiently manage subvented institutions at the level of tertiary and higher education, the following support structures (i-v) whose composition will continue to be determined by the ministers for Education, will continue to operate with a great deal of autonomy and accountability:
 
@@ -1350,21 +1350,21 @@ process, the directorates  will  continue  to  be  strengthened  within  the  co
 
 - Projects Management Unit
 
-### National Accreditation and Quality Assurance Authority
+### 8.17 National Accreditation and Quality Assurance Authority
 
 - 8.17.1 The National Accreditation and Quality Assurance Authority (NAQAA) shall be the  regulatory  body  responsible  to  regulate  national  tertiary  and  higher  education institutions and programmes to enhance the provision of quality education. NAQAA will further  ensure  improved  management,  facilities,  resources  and  learning  outcomes  in tertiary  and  higher  education  institutions.  The  number  of  established  and  registered institutions and accredited programmes are expected to increase. This will culminate into the development of the much needed human capital stock relevant to the socio-economic development of The Gambia.
 
 - 8.17.2 Bring together the tertiary including TVET institutions currently under National Training Authority (NTA) and higher education institutions under the management of NAQAA to enhance the judicious use of financial and human resources. It will enable NAQAA to serve as a regulatory tool to ensure the rapid increase in access to tertiary and higher education without compromising quality and relevance in the sector.
 
-### Gambia College Council
+### 8.18 Gambia College Council
 
 - 8.18.1 Apart from its traditional role of human resource management and mobilisation of resources, the council has mandate to direct, regulate the instruction and teaching within the college and the examinations held.
 
-### University Governing Council
+### 8.19 University Governing Council
 
 - 8.19.1 This council shall be responsible for the management and administration of the whole of the revenue and property of the university. It shall have general control over the university and all its affairs, purposes and functions and all such other powers and duties as may be conferred upon it by Statute or Ordinance.
 
-### National Research Council
+### 8.20 National Research Council
 
 - 8.20.1 The  National  Research  Council  of  The  Gambia  will  be  the  leading  agency  for management, funding and conducting of research in The Gambia. The mission of the Council will be to conduct research, advance science, technology and innovation, and support Gambian researchers. The Council will be an autonomous institution and will be governed by a Scientific Board whose members will be selected from prominent scholars from Government, universities, industry and research institutions.
 
@@ -1372,7 +1372,7 @@ process, the directorates  will  continue  to  be  strengthened  within  the  co
 
 - 8.20.3 The National Research Council will consist of relevant stakeholders with authority as the lead organisation entrusted with the development and coordination of public-funded research schemes and programmes.  This will help guide national research efforts to be consistent with national priorities. The above mentioned is duties are not exhaustive as the Council will oversee all research activities within the country in other areas such as law, arts, humanities, transport, trade and so on.
 
-### Advisory Councils on Education
+### 8.21 Advisory Councils on Education
 
 36
 
@@ -1384,11 +1384,11 @@ process, the directorates  will  continue  to  be  strengthened  within  the  co
 
 - 8.21.2 These  Councils  will  be  responsible  for  advising  the  Ministers  on  questions  of policy affecting education and matters of educational significance  to perform such other duties as may be prescribed by or under  the respective Education Acts.
 
-### Project Management Unit (PMU)  MoHERST
+### 8.22 Project Management Unit (PMU)  MoHERST
 
 - 8.22.1 The Project Management Unit is responsible for the management of projects and monitoring the implementation of Memorandum of Understandings with partners.
 
-### Decentralisation and Governance
+### 8.23 Decentralisation and Governance
 
 - 8.23.1 Cognizant of the  present  challenges  confronting  Local  Government  Authorities (LGAs) in The Gambia, MoBSE will endeavor to harmonize education decentralization within  the  context  of  local  government  decentralization,  in  preparation  for  ultimate adoption and take-over of school management of all basic and secondary schools within their jurisdiction by LGAs and municipalities.
 
@@ -1406,7 +1406,7 @@ process, the directorates  will  continue  to  be  strengthened  within  the  co
 
 - 8.23.8 The provision of relevant tertiary education in the country will be decentralised gradually through expansion and diversification of TVET programmes in all the regions of the country, especially for the rural area.
 
-### Monitoring and Evaluation
+### 8.24 Monitoring and Evaluation
 
 - 8.24.1 In  cognizance  of  the  important  role  that  monitoring  and  evaluation  plays  in flagging the achievements or successes made by the education sector, as well as indicating the gaps and shortfalls in relation to policy objectives, the sector continues to put great premium in advancing the monitoring and evaluation activities for an enhanced insight of
 
@@ -1426,7 +1426,7 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 - 8.24.5 A central monitoring and evaluation unit will be established to compile all unit reports  and  produce  a  centralized  quarterly  monitoring  and  evaluation  report,  in conjunction with the policy objectives of the sector.
 
-### Partnership
+### 8.25 Partnership
 
 - 8.25.1 The  education  sector  has  over  the  years  witnessed  meaningful  participation  of diverse partner institutions in the delivery of education and training services from early childhood development to university education including adult and non-formal education. Increasingly,  the  role  of  the  education  sector  partners,  such  as  religious  missions  and development partners, is becoming more relevant in the equitable provision of education and training and for improved educational outcomes, especially amongst the disadvantaged and marginalized groups of the population.
 
@@ -1442,7 +1442,7 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 [[START OF PAGE 45]]
 
-### Performance Management
+### 8.26 Performance Management
 
 - 8.26.1 The  Performance  Management  System  has  been  introduced  in  the  MoBSE  to respond to a need of developmental system of management that seeks to synchronize functions of the personnel, the processes and the systems in the Ministry.  The PMS was later extended to the school system with the development of operational structures and tools  at  both  management  and  school  levels.  However,  there  is  still  insufficient accountability at school to the community.
 
@@ -1458,7 +1458,7 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 - 8.26.7 Ministry of Higher Education, Research, Science and Techology will ensure that clear lines of accountability at the institutional level are established for and within every institution.  These include: reviews of performance pegged against well-defined goals; external  quality  reviews  and  internal  quality  assurance  processes  for  teaching  and academic programs; reporting on financial accounts and conducting creditable internal and external audits; and good governance through information reports and statistics to the Governing Body.
 
-### Donor Coordination
+### 8.27 Donor Coordination
 
 - 8.27.1 Over the years, a strong donor coordination mechanism has been established by the sector.  This  mechanism  has  provided  a  unique  experience,  in  the  areas  of  good governance, effective stakeholder communication, strong community partnership through joint donor review and supervision missions, and Local Education Group (LEG)  in which the  sector's  performance  is  reviewed.  Through  this  donor  coordination  mechanism,  a sector-wide  approach  (SWAp)  has  been  introduced  to  help  in  the  development  and implementation of sector wide policies and plans.
 
@@ -1474,7 +1474,7 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 [[START OF PAGE 46]]
 
-### Knowledge Management
+### 8.28 Knowledge Management
 
 - 8.28.1 Considering that the education sector is a knowledge-based organization, Improved knowledge Management (KM) is  essential  to  its  management  at  the  national,  regional and local  levels. The  adoption  and  use  of  ICT  to  enhance  and  facilitate  Knowledge Management  (KM)  has brought to focus the urgent need to come up with new methods, tools and techniques in the development of KM system frameworks to  promote  effective management  of  knowledge  for  improved  service  delivery  in  education.
 
@@ -1484,7 +1484,7 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 - 8.28.4 Ministry of Higher Education, Research, Science and Techology will put in place an  infrastructure  that  caters  for  a  higher  education  management  information  system (HEMIS). Notwithstanding the availability of the two management information systems, the two management information systems (EMIS & HEMIS) will be harmonised.
 
-- 8.28.5 In this regard, the infrastructure at all levels including schools will be consolidated to cater for data on human resource, assessment, finance, Non- Formal Education and pretertiary  vocational,  tertiary  and  other  socio-economic  in  order  to  allow  access  to predefined and customized reports to suit various stakeholder needs.
+- 8.28.5 In this regard, the infrastructure at all levels including schools will be consolidated to cater for data on human resource, assessment, finance, Non- Formal Education and pre-tertiary  vocational,  tertiary  and  other  socio-economic  in  order  to  allow  access  to predefined and customized reports to suit various stakeholder needs.
 
 - 8.28.6 Furthermore, the current education sector website will be critically reviewed in respond to the increased demand of knowledge information and management.
 
@@ -1492,7 +1492,7 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 - 8.28.8 In  partnership  with  other  stakeholders,  MoHESRT will will develop a research agenda and map out a framework to coordinate national research activities.  A system will also be put in place to strengthen the research infrastructure and capabilities within the tertiary and higher education sector in order to increase research output.
 
-### Human Resource Management and Development
+### 8.29 Human Resource Management and Development
 
 - 8.29.1 The competitive advantage of any institution resides mainly in its human resources. Therefore, the effective management and utilization of these human resources cannot be over-emphasized. This has been recognized by MoBSE, leading to the creation of the Human Resources Directorate to ensure the effective management and development of its human resources.
 
@@ -1516,7 +1516,7 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 - 8.29.8 A comprehensive HR data base will be further developed and used to strengthen coordination, monitoring and implementation of staff training, promotions and postings.
 
-### Teacher Welfare and Development
+### 8.30 Teacher Welfare and Development
 
 - 8.30.1 In  order  to  attract  and  retain  people  with  appropriate  qualification  to  take  up teaching as career, the sector will consolidate the existing incentives. To address the issues of unequal distribution of qualified teachers, MoBSE will continue to provide hardship allowances to teachers serving in deprived or designated hardship areas. In addition, staff quarters  will  continue  to  be  provided  based  on  set  criteria  in  communities  where accommodation is a challenge.
 
@@ -1554,7 +1554,7 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 - 8.30.15 A  Professional  Standard  Board  (PSB)  will  be  set  up  to  ensure  professional standards of teachers are developed and adhered to.
 
-### Efficiency Measures (Internal)
+### 8.31 Efficiency Measures (Internal)
 
 - 8.31.1 Cognizant  of  the  fact  that  all  children  of  school  age  must  go  to  school,  most importantly all children must remain in school and complete their education within the set number of years, the sector will endeavor to improve internal efficiency of the system through i) reduction of repetition and dropout rates, ii) the judicious use of the practice of double shifting of classrooms and multi grade teaching amongst other measures
 
@@ -1582,7 +1582,7 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 [[START OF PAGE 49]]
 
-### Research
+### 8.32 Research
 
 - 8.32.1 Even  though  research  is  not  optimally  recognised  and/or  appreciated  as  an important  means  of  generating  knowledge  and  adding  value  to  products  and  services produced  by  the  public  and  private  sectors,  there  are  some  research  activities  are underway in The Gambia. Most of this research are carried out by such institutions as the National Agricultural Research Institute (NARI), the Medical Research Council (MRC), the Centre for Innovation against Malaria (CIAM), the CREDD, the Educational Research Network for West and Central Africa (ERNWACA) and the University of The Gambia (UTG). However, what is missing and needed by all stakeholders is coherent national laws  on  research,  committees  and  institutions  that  regulate  research  processes  and innovation in research.
 
@@ -1602,19 +1602,19 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 [[START OF PAGE 50]]
 
-## FINANCING OF EDUCATION
+## CHAPTER 9: FINANCING OF EDUCATION
 
 - 9.1.1 The  implementation  of  policy  interventions  invariably  come  with  substantial financial burden for the Sector. Accordingly, the achievements of major policy objective such  as  access,  quality  and  relevance  requires  funding  on  operational  activities  like building of schools, payment of teachers' salaries and training and provision of teaching materials  among  others.  Thus,  making  the  financing  of  education  a  crucial  issue  for successful implementation of any given policy.  The major sources of funding for the Gambia education sector are the Government and donor fund. Incidentally, household spending on education prior to the introduction of the SIG eclipsed both Government Local Fund and Donor fund combined but the tide is moving favorably in the direction of the  easing  such  burden  on  household.  With  efforts  now  are  geared  towards  reducing domestic  expenditure  on  education,  the  sector  will  continue  to  scale  up  its  resource mobilization campaign both locally and externally to fill in the funding gap created by the removal of charges and levies at schools. The sector will not only continue to advocate for more Government budgetary allocation but also upgrade the existing mechanism to attract more donor funding for the sector. As education is a business of everyone, private sector  will  also  be  encouraged  to  continue  complementing  government  efforts  in education service delivery in form of investing in schools and other tertiary institutions. In general, education will be financed from the following sources.
 
-### Government Local Fund
+### 9.2 Government Local Fund
 
 - 9.2.1 Government has a key role in education service delivery and therefore Government Local Fund (GLF) continues to be a major source of funding for education services. There has been steady but modest increment of Government Budget allocation over the years. In 2013, Government total expenditure was 3.2 % of the GDP and this figure has spiraled marginally upward to 3.9% in 2015. Despite being one of the major sources of funding, total Government expenditure towards education is still slightly below the international FTI  benchmark  of  4.2%.  The  Sector  will  therefore  continue  to  advocate  for  budget increment  during  bilateral  to  improve  government  funding  for  infrastructure  building, teacher training and incentives and provision of teaching and learning materials. The GLF will also be needed to support expansion, improve access, quality and digital and lifelong education
 
-### Donor Funding
+### 9.3 Donor Funding
 
 - 9.3.1 The most significant contributor to the education sector is Donor fund. It provides the biggest support to the sector constituting 80% of capital expenditure.    In 2012, there was a slight decline in Donor funding which has since taken an upward trend due to effective resource mobilization mechanisms. The Sector will scale up its collaboration with the Donor agencies and will continue to develop initiatives that will be presented to the Donors for their support. The Sector will also continue to encourage Donor agencies to provide continuous technical support and capacity building to the sector.
 
-### Household Funding
+### 9.4 Household Funding
 
 - 9.4.1 The  Constitution  requires  that  basic  education  shall  be  free,  compulsory  and available to all, Notwithstanding, Household was spending about 12.8% of GDP annually prior to the elimination of levies at lower and upper basic school levels. In the effort to satisfy such Constitutional requirement, the Ministry elects for the elimination of all levies at  lower  basic,  upper  basic  and  senior  secondary  levels  and  introduced  the  School Improvement Grant (SIG) in 2013 which requires direct allocation of funds to all public schools. With the introduction of the new initiative Household expenditure on education has been considerably reduced leading to unprecedented boost in enrollment. Despite the commitment of the Government to drastically reduce domestic expenditure on education,
 
@@ -1626,19 +1626,19 @@ the  education  system.The  Ministry  of  Basic  and  Secondary  Education  esta
 
 Households for now will continue to provide financial support to education in terms of providing  uniforms,  books  and  lunch  money.  In  case  of  private  schools,  tertiary  and vocational education centers, Household will continue to pay tuition fees in addition to other expenditure.
 
-### Ngo And Charitable Organization
+### 9.5 Ngo And Charitable Organization
 
 - 9.5.1 NGO and other charitable institutions have also been making some contributions to education service delivery through building of infrastructure, provision of teaching and learning material and tuition fees. The Sector will continue to encourage their positive participation by signing MoU and enhancing the existing legal framework. In addition the existing monitoring mechanism will be strengthened to ensure that the funds earmark for education reach the targeted beneficiaries.
 
-### Training Levy
+### 9.6 Training Levy
 
 - 9.6.1 The imposition of Training Levies on all companies will be maintained as a means of fulfilling their social responsibility. The Funds generated from such levies will be used to support technical and vocational training.
 
-### Local Government Authority
+### 9.7 Local Government Authority
 
 - 9.7.1 Local government authorities play complementary role in supporting education and will be encouraged to maintain their contribution to the provision of educational facilities including resources for general education and sponsorship for needy students at tertiary and vocational institutions in their respective areas.
 
-### Private Sector Funding
+### 9.8 Private Sector Funding
 
 - 9.8.1 The private sector also contributes to education financing through investment in the sector. Though mainly driven by profit their efforts in establishing schools, training centers and vocational centers has effectively complement Government efforts in bringing education  to  the  door  step  of  the  people.  Their  investment  is  in  mainly  tertiary  and vocational  center  and  the  sector  will  continue  collaborate  with  them  through  Private Public Partnership to maintain quality whilst avoiding duplication.
 
