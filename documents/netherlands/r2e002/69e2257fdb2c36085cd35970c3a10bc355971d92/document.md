@@ -9,7 +9,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat de Leerplichtwet ( Stb. 1900, 111) dient te worden vervangen door een nieuwe wettelijke regeling, die is aangepast aan het huidige onderwijsbestel en een kortere procedure bevat voor de bestrijding van het onwettig schoolverzuim, en dat het wenselijk is de leerplichtige leeftijd met een jaar te verlengen en in de Arbeidswet 1919 daarmee verband houdende wijzigingen aan te brengen;
+Alzo Wij in overweging genomen hebben, dat de Leerplichtwet (Stb. 1900, 111) dient te worden vervangen door een nieuwe wettelijke regeling, die is aangepast aan het huidige onderwijsbestel en een kortere procedure bevat voor de bestrijding van het onwettig schoolverzuim, en dat het wenselijk is de leerplichtige leeftijd met een jaar te verlengen en in de Arbeidswet 1919 daarmee verband houdende wijzigingen aan te brengen;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
@@ -539,7 +539,7 @@ Burgemeester en wethouders controleren, of de jongeren die als ingezetene in de 
 
 [[START OF PAGE 13]]
 
-- Onze minister verstrekt uit het meldingsregister relatief verzuim aan het betrokken hoofd van de school en aan burgemeester en wethouders van de gemeente waar de betrokken leerling woonof verblijfplaats heeft de ter zake van die leerling geregistreerde gegevens.
+- Onze minister verstrekt uit het meldingsregister relatief verzuim aan het betrokken hoofd van de school en aan burgemeester en wethouders van de gemeente waar de betrokken leerling woon- of verblijfplaats heeft de ter zake van die leerling geregistreerde gegevens.
 
 - Burgemeester en wethouders van de gemeente waar de betrokken leerling woon- of verblijfplaats heeft melden aan Onze minister telkens de status van de behandeling van het ter zake van die leerling gemelde verzuim.
 
@@ -603,7 +603,7 @@ Ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, zijn b
 
 [[START OF PAGE 15]]
 
-- verplichtingen niet nakomen, worden gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+verplichtingen niet nakomen, worden gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
 - De leerplichtige jongere die de leeftijd van 12 jaren heeft bereikt of de jongere die kwalificatieplichtig is, die de verplichting tot geregeld volgen van het onderwijs niet nakomt, wordt gestraft met een hoofdstraf als genoemd in artikel 77h, eerste lid, onderdeel b, van het Wetboek van Strafrecht, met dien verstande dat de geldboete een geldboete van de tweede categorie is.
 
@@ -677,18 +677,26 @@ Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle 
 
 Gegeven ten Paleize Soestdijk, 30 mei 1968
 
-De staatssecretaris van onderwijs en wetenschappen, GROSHEIDE.
-
-De minister van sociale zaken en volksgezondheid, B. ROOLVINK.
-
-De minister van landbouw en visserij, P. J. LARDINOIS.
-
-Leerplichtwet 1969
-
 JULIANA.
+
+De staatssecretaris van onderwijs en wetenschappen,
+
+GROSHEIDE.
+
+De minister van sociale zaken en volksgezondheid,
+
+B. ROOLVINK.
+
+De minister van landbouw en visserij,
+
+P. J. LARDINOIS.
 
 Uitgegeven de twintigste juni 1968.
 
-De Minister van Justitie, C. H. F. POLAK.
+De Minister van Justitie,
+
+C. H. F. POLAK.
+
+Leerplichtwet 1969
 
 [[END OF PAGE 16]]
