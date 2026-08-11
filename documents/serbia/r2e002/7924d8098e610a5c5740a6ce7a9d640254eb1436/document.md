@@ -4,7 +4,7 @@ BUDITE NA PRAVNOJ STRANI online@paragraf.rs www.paragraf.rs
 
 Preuzeto iz elektronske pravne baze Paragraf Lex
 
-Ukoliko ovaj propis niste preuzeli sa Paragrafovog sajta ili niste sigurni da li je u pitanju važeća verzija propisa, poslednju verziju možete naći OVDE .
+Ukoliko ovaj propis niste preuzeli sa Paragrafovog sajta ili niste sigurni da li je u pitanju važeća verzija propisa, poslednju verziju možete naći OVDE.
 
 # ZAKON
 
@@ -521,9 +521,15 @@ Vaspitno-obrazovni rad predškolske ustanove ostvaruje se u toku radne godine, k
 #### Vreme koje učenik provodi u školi
 ##### Član 29
 
-3) vreme provedeno u aktivnostima, koje su sadržane u školskom programu i u funkciji su razvoja sposobnosti, interesovanja
+Vreme koje učenik provodi u školi izražava se u satima.
 
-Vreme koje učenik provodi u školi izražava se u satima. Vreme, iz stava 1. ovog člana, obuhvata: 1) časove obaveznih predmeta; 2) časove izbornih programa; i kreativnosti učenika.
+Vreme, iz stava 1. ovog člana, obuhvata:
+
+1) časove obaveznih predmeta;
+
+2) časove izbornih programa;
+
+3) vreme provedeno u aktivnostima, koje su sadržane u školskom programu i u funkciji su razvoja sposobnosti, interesovanja i kreativnosti učenika.
 
 Vreme koje učenik provodi u osnovnoj i srednjoj školi bliže se uređuje posebnim zakonom.
 
@@ -557,7 +563,7 @@ unapređivanju kvaliteta rada ustanova i obavljanje drugih poslova utvrđenih za
 
 - obavlja i druge poslove, u skladu sa zakonom i drugim propisima.
 
-### SAVETI
+### 2. SAVETI
 
 #### Vrste saveta
 ##### Član 32
@@ -668,7 +674,7 @@ Savet za stručno obrazovanje i obrazovanje odraslih:
 
 - dodatnim standardima kvaliteta rada stručnih škola i škola za obrazovanje odraslih;
 
-- delu planova i programa nastave i učenja za obrazovne profile, i to za stručne predmete i module srednjeg stručnog obrazovanja i vaspitanja i obrazovanja odraslih i programe drugih oblika stručnog obrazovanja obrazovanja za rad, stručnog osposobljavanja i obuke;
+- delu planova i programa nastave i učenja za obrazovne profile, i to za stručne predmete i module srednjeg stručnog obrazovanja i vaspitanja i obrazovanja odraslih i programe drugih oblika stručnog obrazovanja - obrazovanja za rad, stručnog osposobljavanja i obuke;
 
 - programima: specijalističkog ispita, majstorskog ispita, završnog ispita obrazovanja za rad, ispita stručnog osposobljavanja, ispita za obuku i modele priznavanja prethodno stečenih znanja i veština, u skladu sa ovim i posebnim zakonom;
 
@@ -861,7 +867,7 @@ Zavod za vrednovanje kvaliteta obrazovanja i vaspitanja, u okviru Centra za naci
 
 ##### Član 46
 
-Zavod za vrednovanje kvaliteta obrazovanja i vaspitanja, u okviru Centra za međunarodna, nacionalna ispitivanja i razvojnoistraživačke poslove obavlja sledeće stručne poslove:
+Zavod za vrednovanje kvaliteta obrazovanja i vaspitanja, u okviru Centra za međunarodna, nacionalna ispitivanja i razvojno-istraživačke poslove obavlja sledeće stručne poslove:
 
 - učestvuje u planiranju strategije i metodologije spoljašnjeg vrednovanja sistema obrazovanja i vaspitanja;
 
@@ -947,7 +953,7 @@ Spoljašnje vrednovanje rada ustanove obavlja se stručno-pedagoškim nadzorom M
 
 Zavod za vrednovanje kvaliteta obrazovanja i vaspitanja učestvuje u spoljašnjem vrednovanju kvaliteta rada ustanove putem vrednovanja postignuća učenika na završnim i maturskim ispitima ili po ukazanoj potrebi i na zahtev Ministarstva.
 
-Organe i tela ustanove, postupke praćenja ostvarivanja programa obrazovanja i vaspitanja, drugih oblika obrazovnovaspitnog rada i uslova rada, osnove i merila za samovrednovanje i vrednovanje, sadržinu i način objavljivanja rezultata samovrednovanja i vrednovanja kvaliteta rada ustanove, po pribavljenom mišljenju nadležnog saveta, propisuje ministar.
+Organe i tela ustanove, postupke praćenja ostvarivanja programa obrazovanja i vaspitanja, drugih oblika obrazovno-vaspitnog rada i uslova rada, osnove i merila za samovrednovanje i vrednovanje, sadržinu i način objavljivanja rezultata samovrednovanja i vrednovanja kvaliteta rada ustanove, po pribavljenom mišljenju nadležnog saveta, propisuje ministar.
 
 #### Razvojni plan ustanove
 
@@ -990,9 +996,13 @@ Bliže uslove za sticanje statusa model ustanove i prestanka važenja statusa, p
 
 ##### Član 54
 
-Ustanova može da stekne status resursnog centra (u daljem tekstu: resursni centar) za pružanje stručne podrške deci, učenicima i odraslima sa smetnjama u razvoju i invaliditetom, njihovim porodicama i drugim obrazovnim i vaspitnim ustanovama. Resursni centar pruža i stručnu podršku prilikom izbora, primene i nabavke asistivne tehnologije u obrazovanju i vaspitanju i prati nove pravce razvoja podrške deci, učenicima i odraslima sa smetnjama u razvoju i invaliditetom. Odluku o dodeli statusa resursnog centra donosi ministar. saglasnost ministra nadležnog za poslove lokalne samouprave, ministra nadležnog za poslove zdravlja i ministra nadležnog
+Ustanova može da stekne status resursnog centra (u daljem tekstu: resursni centar) za pružanje stručne podrške deci, učenicima i odraslima sa smetnjama u razvoju i invaliditetom, njihovim porodicama i drugim obrazovnim i vaspitnim ustanovama.
 
-Bliže uslove za sticanje statusa resursnog centra, organizovanja rada i prestanka važenja statusa propisuje ministar, uz za poslove socijalne zaštite.
+Resursni centar pruža i stručnu podršku prilikom izbora, primene i nabavke asistivne tehnologije u obrazovanju i vaspitanju i prati nove pravce razvoja podrške deci, učenicima i odraslima sa smetnjama u razvoju i invaliditetom.
+
+Odluku o dodeli statusa resursnog centra donosi ministar.
+
+Bliže uslove za sticanje statusa resursnog centra, organizovanja rada i prestanka važenja statusa propisuje ministar, uz saglasnost ministra nadležnog za poslove lokalne samouprave, ministra nadležnog za poslove zdravlja i ministra nadležnog za poslove socijalne zaštite.
 
 #### Centar za stručno usavršavanje
 
@@ -1004,7 +1014,7 @@ sa drugim organima, službama, ustanovama i organizacijama od značaja za struč
 
 ## IV PROGRAMI OBRAZOVANJA I VASPITANJA I ZAVRŠNI ISPITI
 
-### PROGRAMI OBRAZOVANJA I VASPITANJA
+### 1. PROGRAMI OBRAZOVANJA I VASPITANJA
 
 #### Programi obrazovanja i vaspitanja u ustanovi
 
@@ -1159,7 +1169,7 @@ Bliže uslove za organizaciju i ostvarivanje nastave u prirodi i ekskurzije prop
 
 Za decu i učenike koji privremeno ili stalno borave u inostranstvu nastava na srpskom jeziku može da se organizuje, po posebnom programu.
 
-Poseban program obrazovanja i vaspitanja u inostranstvu, način vođenja evidencije i izdavanja javnih isprava, posebne uslove za nastavnika, obezbeđivanje i način isplate sredstava za plate i druga pitanja od značaja za ostvarivanje obrazovnovaspitnog rada u inostranstvu, propisuje ministar.
+Poseban program obrazovanja i vaspitanja u inostranstvu, način vođenja evidencije i izdavanja javnih isprava, posebne uslove za nastavnika, obezbeđivanje i način isplate sredstava za plate i druga pitanja od značaja za ostvarivanje obrazovno-vaspitnog rada u inostranstvu, propisuje ministar.
 
 ### 2. PRAĆENJE I NAPREDOVANJE UČENIKA
 
@@ -1199,7 +1209,7 @@ U školi koja ostvaruje međunarodni, odnosno strani program učenik se ocenjuje
 
 ##### Član 73
 
-U prvom razredu osnovnog obrazovanja i vaspitanja zaključna ocena iz obaveznih premeta, je opisna i utvrđuje se na kraju prvog i drugog polugodišta.
+U prvom razredu osnovnog obrazovanja i vaspitanja zaključna ocena iz obaveznih predmeta, je opisna i utvrđuje se na kraju prvog i drugog polugodišta.
 
 U prvom razredu osnovnog obrazovanja i vaspitanja zaključna ocena iz izbornih programa i aktivnosti je opisna i utvrđuje se na kraju prvog i drugog polugodišta.
 
@@ -1219,7 +1229,7 @@ Učeniku koji je preveden u naredni razred, priznaje se razred iz koga je preved
 
 Učenik od četvrtog do sedmog razreda osnovnog obrazovanja i vaspitanja i učenik od drugog do završnog razreda osnovnog muzičkog i baletskog obrazovanja i vaspitanja, kao i učenik srednjeg obrazovanja i vaspitanja polaže popravni ispit u avgustovskom ispitnom roku, a učenik završnog razreda u junskom i avgustovskom roku.
 
-Učenik koji polaže popravni ispit obavezan da pohađa pripremnu nastavu, koju je škola dužna da organizuje neposredno pre polaganja popravnog ispita.
+Učenik koji polaže popravni ispit obavezan je da pohađa pripremnu nastavu, koju je škola dužna da organizuje neposredno pre polaganja popravnog ispita.
 
 Učenik koji položi popravni ispit završava razred.
 
@@ -1242,13 +1252,39 @@ Detetu i učeniku i odraslom kome je usled socijalne uskraćenosti, smetnji u ra
 
 [[START OF PAGE 28]]
 
-Individualni obrazovni plan (u daljem tekstu: IOP) je poseban akt, koji ima za cilj optimalni razvoj deteta i učenika i ostvarivanje ishoda obrazovanja i vaspitanja, u skladu sa propisanim ciljevima i principima, odnosno zadovoljavanja obrazovno-vaspitnih potreba deteta i učenika. IOP izrađuje tim za dodatnu podršku detetu, odnosno učeniku na osnovu prethodno ostvarenih, evidentiranih i vrednovanih mera individualizacije i izrađenog pedagoškog profila deteta, učenika i odraslog, a ostvaruje se nakon saglasnosti roditelja, odnosno drugog zakonskog zastupnika. Ukoliko roditelj, odnosno drugi zakonski zastupnik, neopravdano odbije učešće u izradi ili davanje saglasnosti na IOP, ustanova je dužna da o tome obavesti nadležnu ustanovu socijalne zaštite u cilju zaštite najboljeg interesa deteta, odnosno učenika. Vrste IOP-a jesu: 1) IOP1 - prilagođavanje načina rada i uslova u kojima se izvodi obrazovno-vaspitni rad; učenje jezika na kome se odvija obrazovno-vaspitni rad; 3) IOP3 - proširivanje i produbljivanje sadržaja obrazovno-vaspitnog rada za učenika sa izuzetnim sposobnostima. IOP donosi pedagoški kolegijum ustanove na predlog tima za inkluzivno obrazovanje, odnosno tima za pružanje dodatne podrške detetu i učeniku. Tim za pružanje dodatne podrške detetu u predškolskoj ustanovi čine vaspitač, stručni saradnik, saradnik, roditelj, odnosno drugi zakonski zastupnik, a u skladu sa potrebama deteta i pedagoški asistent, odnosno lični pratilac deteta, na predlog roditelja, odnosno drugog zakonskog zastupnika. Tim za pružanje dodatne podrške učeniku u školi čini nastavnik razredne nastave, odnosno nastavnik predmetne nastave, odeljenjski starešina, stručni saradnik, roditelj, odnosno drugi zakonski zastupnik, a u skladu sa potrebama učenika i pedagoški asistent, odnosno lični pratilac učenika, na predlog roditelja, odnosno drugog zakonskog zastupnika. Donošenju IOP-a 2 prethodi donošenje, primena i vrednovanje IOP-a 1, a obavezno je pribavljanje mišljenja interresorne komisije za procenu potreba za dodatnom obrazovnom, zdravstvenom i socijalnom podrškom detetu i učeniku. Mišljenje interresorne komisije za procenu potreba za dodatnom obrazovnom, zdravstvenom i socijalnom podrškom detetu i učeniku, može da predvidi i izmenu plana nastave i učenja. U prvoj godini rada po IOP-u, IOP se vrednuje tromesečno, a u svakoj narednoj godini dva puta u toku radne, odnosno školske godine. Sprovođenje IOP-a prati Ministarstvo, u skladu sa ovim zakonom.
+Individualni obrazovni plan (u daljem tekstu: IOP) je poseban akt, koji ima za cilj optimalni razvoj deteta i učenika i ostvarivanje ishoda obrazovanja i vaspitanja, u skladu sa propisanim ciljevima i principima, odnosno zadovoljavanja obrazovno-vaspitnih potreba deteta i učenika.
 
-2) IOP2 - prilagođavanje ciljeva sadržaja i načina ostvarivanja programa nastave i učenja i ishoda obrazovno-vaspitnog rada; Bliže uputstvo za ostvarivanje IOP-a, njegovu primenu i vrednovanje donosi ministar.
+IOP izrađuje tim za dodatnu podršku detetu, odnosno učeniku na osnovu prethodno ostvarenih, evidentiranih i vrednovanih mera individualizacije i izrađenog pedagoškog profila deteta, učenika i odraslog, a ostvaruje se nakon saglasnosti roditelja, odnosno drugog zakonskog zastupnika.
+
+Ukoliko roditelj, odnosno drugi zakonski zastupnik, neopravdano odbije učešće u izradi ili davanje saglasnosti na IOP, ustanova je dužna da o tome obavesti nadležnu ustanovu socijalne zaštite u cilju zaštite najboljeg interesa deteta, odnosno učenika.
+
+Vrste IOP-a jesu:
+
+1) IOP1 - prilagođavanje načina rada i uslova u kojima se izvodi obrazovno-vaspitni rad; učenje jezika na kome se odvija obrazovno-vaspitni rad;
+
+2) IOP2 - prilagođavanje ciljeva sadržaja i načina ostvarivanja programa nastave i učenja i ishoda obrazovno-vaspitnog rada;
+
+3) IOP3 - proširivanje i produbljivanje sadržaja obrazovno-vaspitnog rada za učenika sa izuzetnim sposobnostima.
+
+IOP donosi pedagoški kolegijum ustanove na predlog tima za inkluzivno obrazovanje, odnosno tima za pružanje dodatne podrške detetu i učeniku.
+
+Tim za pružanje dodatne podrške detetu u predškolskoj ustanovi čine vaspitač, stručni saradnik, saradnik, roditelj, odnosno drugi zakonski zastupnik, a u skladu sa potrebama deteta i pedagoški asistent, odnosno lični pratilac deteta, na predlog roditelja, odnosno drugog zakonskog zastupnika.
+
+Tim za pružanje dodatne podrške učeniku u školi čini nastavnik razredne nastave, odnosno nastavnik predmetne nastave, odeljenjski starešina, stručni saradnik, roditelj, odnosno drugi zakonski zastupnik, a u skladu sa potrebama učenika i pedagoški asistent, odnosno lični pratilac učenika, na predlog roditelja, odnosno drugog zakonskog zastupnika.
+
+Donošenju IOP-a 2 prethodi donošenje, primena i vrednovanje IOP-a 1, a obavezno je pribavljanje mišljenja interresorne komisije za procenu potreba za dodatnom obrazovnom, zdravstvenom i socijalnom podrškom detetu i učeniku.
+
+Mišljenje interresorne komisije za procenu potreba za dodatnom obrazovnom, zdravstvenom i socijalnom podrškom detetu i učeniku, može da predvidi i izmenu plana nastave i učenja.
+
+U prvoj godini rada po IOP-u, IOP se vrednuje tromesečno, a u svakoj narednoj godini dva puta u toku radne, odnosno školske godine.
+
+Sprovođenje IOP-a prati Ministarstvo, u skladu sa ovim zakonom.
+
+Bliže uputstvo za ostvarivanje IOP-a, njegovu primenu i vrednovanje donosi ministar.
 #### Interresorna komisija
 ##### Član 77
 
-Interresorna komisija vrši procenu potreba deteta, učenika i odraslog za dodatnom obrazovnom, zdravstvenom i socijalnom podrškom. Dodatna podrška se odnosi na prava i usluge koje detetu obezbeđuju prevazilaženje fizičkih i socijalnih prepreka u cilju nesmetanog obavljanja svakodnevnih životnih aktivnosti od značaja za uključivanje u obrazovni proces, život u zajednici i napredovanje. Interresornu komisiju obrazuje organ jedinice lokalne samouprave nadležan za poslove društvenih delatnosti na osnovu sporazuma o saradnji između ustanova sistema obrazovanja, državne uprave i lokalne samouprave, socijalne zaštite i zdravlja. Jedinica lokalne samouprave određuje sedište rada, obezbeđuje i isplaćuje naknade za rad članova, obezbeđuje tehničku i drugu podršku za njen rad, obezbeđuje sredstva za finansiranje podrške preporučene od strane interresorne komisije, obezbeđuje arhiviranje i čuvanje dokumentacije, prikuplja izveštaje o radu inetrresorne komisije, predloženoj podršci i njenim efektima najmanje dva puta godišnje. Interresorna komisija ima pet članova, i to četiri stalna (pedijatar, predstavnik centra za socijalni rad, defektolog odgovarajućeg profila i psiholog zaposlen u obrazovanju i vaspitanju) i jednog povremenog člana. Povremeni član je lice koje dobro poznaje dete, učenika i odraslog i koje je sa njim imalo duži kontakt i bira se za svakog pojedinačno. Interresorna komisija prikuplja i obrađuje podatke o ličnosti u svrhu procene potreba za pružanjem dodatne obrazovne, zdravstvene i socijalne podrške detetu, učeniku i odraslom. Podaci se prikupljaju i obrađuju uz poštovanje načela svrsishodnosti, srazmernosti, obaveze čuvanja tajne, organizacionih i tehničkih mera, obrade podataka i zaštite podataka o ličnosti dece, učenika i odraslih i članova njihovih porodica, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti. Interresorna komisija je rukovalac podataka u postupku prikupljanja i obrade podataka i vrši sledeće radnje: 1) prikuplja i obrađuje podatke o detetu, učeniku i odraslom za koga je pokrenut postupak procene potrebe za pružanjem pomoći i evidenciju o toj zbirci podataka;
+Interresorna komisija vrši procenu potreba deteta, učenika i odraslog za dodatnom obrazovnom, zdravstvenom i socijalnom podrškom. Dodatna podrška se odnosi na prava i usluge koje detetu obezbeđuju prevazilaženje fizičkih i socijalnih prepreka u cilju nesmetanog obavljanja svakodnevnih životnih aktivnosti od značaja za uključivanje u obrazovni proces, život u zajednici i napredovanje. Interresornu komisiju obrazuje organ jedinice lokalne samouprave nadležan za poslove društvenih delatnosti na osnovu sporazuma o saradnji između ustanova sistema obrazovanja, državne uprave i lokalne samouprave, socijalne zaštite i zdravlja. Jedinica lokalne samouprave određuje sedište rada, obezbeđuje i isplaćuje naknade za rad članova, obezbeđuje tehničku i drugu podršku za njen rad, obezbeđuje sredstva za finansiranje podrške preporučene od strane interresorne komisije, obezbeđuje arhiviranje i čuvanje dokumentacije, prikuplja izveštaje o radu interresorne komisije, predloženoj podršci i njenim efektima najmanje dva puta godišnje. Interresorna komisija ima pet članova, i to četiri stalna (pedijatar, predstavnik centra za socijalni rad, defektolog odgovarajućeg profila i psiholog zaposlen u obrazovanju i vaspitanju) i jednog povremenog člana. Povremeni član je lice koje dobro poznaje dete, učenika i odraslog i koje je sa njim imalo duži kontakt i bira se za svakog pojedinačno. Interresorna komisija prikuplja i obrađuje podatke o ličnosti u svrhu procene potreba za pružanjem dodatne obrazovne, zdravstvene i socijalne podrške detetu, učeniku i odraslom. Podaci se prikupljaju i obrađuju uz poštovanje načela svrsishodnosti, srazmernosti, obaveze čuvanja tajne, organizacionih i tehničkih mera, obrade podataka i zaštite podataka o ličnosti dece, učenika i odraslih i članova njihovih porodica, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti. Interresorna komisija je rukovalac podataka u postupku prikupljanja i obrade podataka i vrši sledeće radnje: 1) prikuplja i obrađuje podatke o detetu, učeniku i odraslom za koga je pokrenut postupak procene potrebe za pružanjem pomoći i evidenciju o toj zbirci podataka;
 
 [[END OF PAGE 28]]
 
@@ -1258,7 +1294,7 @@ Interresorna komisija vrši procenu potreba deteta, učenika i odraslog za dodat
 
 ministar nadležan za poslove socijalne politike i ministar nadležan za državnu upravu i lokalnu samoupravu i ministar.
 
-### ZAVRŠNI ISPITI
+### 3. ZAVRŠNI ISPITI
 
 #### Završni ispiti u osnovnom i srednjem obrazovanju i vaspitanju
 ##### Član 78
@@ -1273,35 +1309,35 @@ Završni ispiti u osnovnom i srednjem obrazovanju i vaspitanju su ispiti na drž
 
 Prava deteta i učenika ostvaruju se u skladu sa potvrđenim međunarodnim ugovorima, ovim i drugim zakonima. Ustanova, odnosno zaposleni u ustanovi dužni su da obezbede ostvarivanje prava deteta i učenika, a naročito pravo na:
 
-- kvalitetan obrazovno-vaspitni rad koji obezbeđuje ostvarivanje principa i ciljeva iz čl. 7. i 8. ovog zakona;
+1) kvalitetan obrazovno-vaspitni rad koji obezbeđuje ostvarivanje principa i ciljeva iz čl. 7. i 8. ovog zakona;
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-- uvažavanje ličnosti;
+2) uvažavanje ličnosti;
 
-- podršku za svestrani razvoj ličnosti, podršku za posebno iskazane talente i njihovu afirmaciju;
+3) podršku za svestrani razvoj ličnosti, podršku za posebno iskazane talente i njihovu afirmaciju;
 
-- zaštitu od diskriminacije, nasilja, zlostavljanja i zanemarivanja;
+4) zaštitu od diskriminacije, nasilja, zlostavljanja i zanemarivanja;
 
-- blagovremenu i potpunu informaciju o pitanjima od značaja za obrazovanje i vaspitanje;
+5) blagovremenu i potpunu informaciju o pitanjima od značaja za obrazovanje i vaspitanje;
 
-- informacije o pravima i obavezama;
+6) informacije o pravima i obavezama;
 
-- učestvovanje u radu organa škole, u skladu sa ovim i posebnim zakonom;
+7) učestvovanje u radu organa škole, u skladu sa ovim i posebnim zakonom;
 
-- slobodu udruživanja u različite grupe, klubove i organizovanje učeničkog parlamenta;
+8) slobodu udruživanja u različite grupe, klubove i organizovanje učeničkog parlamenta;
 
-- javnost i obrazloženje ocene i podnošenje prigovora na ocenu i ispit;
+9) javnost i obrazloženje ocene i podnošenje prigovora na ocenu i ispit;
 
-- pokretanje inicijative za preispitivanje odgovornosti učesnika u obrazovno-vaspitnom procesu ukoliko prava iz stava 2. tač. 1)-9) ovog člana nisu ostvarena;
+10) pokretanje inicijative za preispitivanje odgovornosti učesnika u obrazovno-vaspitnom procesu ukoliko prava iz stava 2. tač. 1)-9) ovog člana nisu ostvarena;
 
-- zaštitu i pravično postupanje ustanove prema detetu i učeniku;
+11) zaštitu i pravično postupanje ustanove prema detetu i učeniku;
 
-- stipendiju, kredit, smeštaj i ishranu u domu učenika, u skladu sa posebnim zakonom;
+12) stipendiju, kredit, smeštaj i ishranu u domu učenika, u skladu sa posebnim zakonom;
 
-- druga prava u oblasti obrazovanja i vaspitanja, u skladu sa zakonom.
+13) druga prava u oblasti obrazovanja i vaspitanja, u skladu sa zakonom.
 
 Učenik, roditelj, odnosno drugi zakonski zastupnik deteta i učenika može da podnese pismenu prijavu direktoru ustanove u slučaju povrede prava iz stava 2. ovog člana ili neprimerenog ponašanja zaposlenih prema detetu i učeniku, u skladu sa opštim aktom ustanove, u roku od osam dana od dana saznanja o povredi prava. Zaposleni u ustanovi dužan je da odmah po saznanju, a najkasnije narednog radnog dana, podnese pismenu prijavu direktoru da je učinjena povreda prava deteta i učenika. Direktor je dužan da prijavu iz st. 3. i 4. ovog člana razmotri i da, uz konsultaciju sa učenikom i roditeljem, odnosno drugim zakonskim zastupnikom deteta i učenika, kao i zaposlenim odluči i preduzme odgovarajuće mere, u roku od osam dana od
 
@@ -1312,7 +1348,7 @@ dana prijema prijave.
 
 U ostvarivanju svojih prava učenik ne sme da ugrožava druge u ostvarivanju prava. Učenik ima obavezu da: 1) redovno pohađa nastavu i izvršava školske obaveze; 2) poštuje pravila ponašanja u školi, odluke direktora i organa škole; 3) radi na usvajanju znanja, veština i stavova utvrđenih školskim programom, prati sopstveni napredak i izveštava o tome nastavnike i roditelje, odnosno druge zakonske zastupnike; 4) ne ometa izvođenje nastave i ne napušta čas bez prethodnog odobrenja nastavnika; 5) poštuje ličnost drugih učenika, nastavnika i ostalih zaposlenih u školi; 6) čuva imovinu škole i čistoću i estetski izgled školskih prostorija;
 
-- stara se o očuvanju životne sredine i ponaša u skladu sa pravilima ekološke etike.
+7) stara se o očuvanju životne sredine i ponaša u skladu sa pravilima ekološke etike.
 
 #### Prijava Ministarstvu radi zaštite prava deteta i učenika
 ##### Član 81
@@ -1333,7 +1369,7 @@ Ako ustanova ne postupi po upozorenju iz stava 3. ovog člana, Ministarstvo će 
 
 ##### Član 82
 
-Učenik osnovnog i srednjeg obrazovanja i vaspitanja, njegov roditelj, odnosno drugi zakonski zastupnik ima pravo da podnese: 1) prigovor na ocenu iz obaveznog predmeta, izbornog programa i aktivnosti i iz vladanja u toku školske godine; 2) prigovor na zaključnu ocenu iz obaveznog predmeta, izbornog programa i aktivnosti i iz vladanja na kraju prvog i drugog polugodišta; 3) prigovor na ispit. Prigovor na ocenu iz obaveznog predmeta, izbornog programa i aktivnosti i iz vladanja u toku školske godine podnosi se direktoru škole u roku od tri dana od saopštenja ocene. Prigovor na zaključnu ocenu iz obaveznog predmeta, izbornog programa i aktivnosti i iz vladanja na kraju prvog i drugog polugodišta podnosi se direktoru škole u roku od tri dana od dana dobijanja đačke knjižice, odnosno svedočanstva, osim za učenike završnih razreda u roku od 24 sata. Prigovor na ispit podnosi se direktoru škole, u roku od 24 sata od saopštavanja ocene na ispitu. Direktor škole, u saradnji sa stručnim saradnikom i odeljenskim starešinom, rešenjem odlučuje o prigovoru iz stava 1. tačka 1) ovog člana u roku od tri dana, odnosno u roku od 24 sata o prigovoru iz stava 1. tač. 2) i 3) ovog člana, prethodno pribavljajući izjavu nastavnika. Direktor je dužan da predmetnom nastavniku na čiju ocenu je uložen prigovor, u roku od tri dana od dana donošenja rešenja iz stava 5. ovog člana dostavi rešenje. Ako oceni da je prigovor na ocenu iz obaveznog predmeta, izbornog programa i aktivnosti osnovan i da ocena nije javno saopštena, obrazložena, odnosno da ocenjivanje nije u skladu sa propisima, direktor poništava ocenu, pojačava pedagoškoinstruktivni rad sa nastavnikom u ustanovi i rešenjem obrazuje komisiju za proveru znanja učenika, pregled i ponovno ocenjivanje pismenog ili drugog rada učenika. Komisija ima tri člana, od kojih su dva stručna za predmet, odnosno oblast predmeta. Ukoliko se utvrdi da zaključna ocena nije izvedena u skladu sa propisima, direktor poništava i vraća ocenu odeljenjskom veću na razmatranje i zaključivanje. Ako direktor i nakon ponovnog razmatranja i zaključivanja od strane odeljenjskog veća propisanog stavom 8. ovog člana, utvrdi da zaključna ocena iz obaveznog predmeta, izbornog programa i aktivnosti nije izvedena u skladu sa propisima ili je prigovor iz drugih razloga osnovan, rešenjem poništava zaključnu ocenu i upućuje učenika na polaganje ispita. Nastavnik čija ocena je poništena upućuje se i na stručno usavršavanje za oblast ocenjivanja i komunikacijskih veština. Ukoliko pojačani pedagoško-instruktivni rad u ustanovi i stručno usavršavanje nastavnika ne daju pozitivan rezultat, direktor je u obavezi da zahteva stručno pedagoški nadzor nad radom nastavnika od strane prosvetnog savetnika. Ako direktor u saradnji sa stručnim saradnikom i odeljenjskim starešinom oceni da je prigovor na ocenu iz vladanja osnovan i da ocenjivanje nije u skladu sa propisima upućuje odeljenskom veću na razmatranje i ponovno odlučivanje, uz učešće stručnih saradnika. Ako utvrdi da je ocena na ispitu izvedena protivno propisima, poništava ispit i upućuje učenika na ponovno polaganje ispita. Ispit se organizuje u roku od tri dana od dana podnošenja prigovora. Ukoliko škola nema potreban broj stručnih lica, angažuje stručno lice iz druge škole. Nastavnik čija ocena je osporena ili na čiji je predlog utvrđena zaključna ocena, ne može da bude član komisije. Kada je poništen ispit direktor obrazuje novu komisiju u čijem sastavu ne mogu da budu članovi komisije čiji je ispit poništen.
+Učenik osnovnog i srednjeg obrazovanja i vaspitanja, njegov roditelj, odnosno drugi zakonski zastupnik ima pravo da podnese: 1) prigovor na ocenu iz obaveznog predmeta, izbornog programa i aktivnosti i iz vladanja u toku školske godine; 2) prigovor na zaključnu ocenu iz obaveznog predmeta, izbornog programa i aktivnosti i iz vladanja na kraju prvog i drugog polugodišta; 3) prigovor na ispit. Prigovor na ocenu iz obaveznog predmeta, izbornog programa i aktivnosti i iz vladanja u toku školske godine podnosi se direktoru škole u roku od tri dana od saopštenja ocene. Prigovor na zaključnu ocenu iz obaveznog predmeta, izbornog programa i aktivnosti i iz vladanja na kraju prvog i drugog polugodišta podnosi se direktoru škole u roku od tri dana od dana dobijanja đačke knjižice, odnosno svedočanstva, osim za učenike završnih razreda u roku od 24 sata. Prigovor na ispit podnosi se direktoru škole, u roku od 24 sata od saopštavanja ocene na ispitu. Direktor škole, u saradnji sa stručnim saradnikom i odeljenjskim starešinom, rešenjem odlučuje o prigovoru iz stava 1. tačka 1) ovog člana u roku od tri dana, odnosno u roku od 24 sata o prigovoru iz stava 1. tač. 2) i 3) ovog člana, prethodno pribavljajući izjavu nastavnika. Direktor je dužan da predmetnom nastavniku na čiju ocenu je uložen prigovor, u roku od tri dana od dana donošenja rešenja iz stava 5. ovog člana dostavi rešenje. Ako oceni da je prigovor na ocenu iz obaveznog predmeta, izbornog programa i aktivnosti osnovan i da ocena nije javno saopštena, obrazložena, odnosno da ocenjivanje nije u skladu sa propisima, direktor poništava ocenu, pojačava pedagoško-instruktivni rad sa nastavnikom u ustanovi i rešenjem obrazuje komisiju za proveru znanja učenika, pregled i ponovno ocenjivanje pismenog ili drugog rada učenika. Komisija ima tri člana, od kojih su dva stručna za predmet, odnosno oblast predmeta. Ukoliko se utvrdi da zaključna ocena nije izvedena u skladu sa propisima, direktor poništava i vraća ocenu odeljenjskom veću na razmatranje i zaključivanje. Ako direktor i nakon ponovnog razmatranja i zaključivanja od strane odeljenjskog veća propisanog stavom 8. ovog člana, utvrdi da zaključna ocena iz obaveznog predmeta, izbornog programa i aktivnosti nije izvedena u skladu sa propisima ili je prigovor iz drugih razloga osnovan, rešenjem poništava zaključnu ocenu i upućuje učenika na polaganje ispita. Nastavnik čija ocena je poništena upućuje se i na stručno usavršavanje za oblast ocenjivanja i komunikacijskih veština. Ukoliko pojačani pedagoško-instruktivni rad u ustanovi i stručno usavršavanje nastavnika ne daju pozitivan rezultat, direktor je u obavezi da zahteva stručno-pedagoški nadzor nad radom nastavnika od strane prosvetnog savetnika. Ako direktor u saradnji sa stručnim saradnikom i odeljenjskim starešinom oceni da je prigovor na ocenu iz vladanja osnovan i da ocenjivanje nije u skladu sa propisima upućuje odeljenjskom veću na razmatranje i ponovno odlučivanje, uz učešće stručnih saradnika. Ako utvrdi da je ocena na ispitu izvedena protivno propisima, poništava ispit i upućuje učenika na ponovno polaganje ispita. Ispit se organizuje u roku od tri dana od dana podnošenja prigovora. Ukoliko škola nema potreban broj stručnih lica, angažuje stručno lice iz druge škole. Nastavnik čija ocena je osporena ili na čiji je predlog utvrđena zaključna ocena, ne može da bude član komisije. Kada je poništen ispit direktor obrazuje novu komisiju u čijem sastavu ne mogu da budu članovi komisije čiji je ispit poništen.
 
 Ocena komisije je konačna.
 
@@ -1366,16 +1402,67 @@ odnosno drugog zakonskog zastupnika iz razloga propisanih stavom 1. ovog člana.
 
 Za teže povrede obaveza učenika i za povrede zabrane iz čl. 110-112. ovog zakona škola vodi vaspitno-disciplinski postupak o kojem obaveštava roditelja, odnosno drugog zakonskog zastupnika učenika. Za učinjenu težu povredu obaveze učenika direktor zaključkom pokreće vaspitno-disciplinski postupak najkasnije u roku od
 
-osam dana od dana saznanja, a za učinjenu povredu zabrane iz čl. 110-112. ovog zakona zaključkom pokreće postupak odmah, a najkasnije u roku od dva dana od dana saznanja, o čemu odmah, a najkasnije narednog radnog dana obaveštava roditelja, odnosno drugog zakonskog zastupnika. Direktor vodi postupak i okončava ga rešenjem. U vaspitno-disciplinskom postupku učenik, uz prisustvo roditelja, odnosno drugog zakonskog zastupnika, kao i svi ostali učesnici i svedoci moraju biti saslušani i dati pisanu izjavu. Ukoliko se roditelj, odnosno drugi zakonski zastupnik učenika, koji je uredno obavešten, ne odazove da prisustvuje vaspitnodisciplinskom postupku, direktor škole postavlja odmah, a najkasnije narednog radnog dana psihologa, odnosno pedagoga ustanove da u ovom postupku zastupa interese učenika, o čemu odmah obaveštava centar za socijalni rad. Vaspitno-disciplinski postupak okončava se, nakon vođenja pojačanog vaspitnog rada sa učenikom, donošenjem rešenja u roku od 30 dana od dana pokretanja. Pre donošenja rešenja moraju se utvrditi sve činjenice koje su od značaja za odlučivanje. Ukoliko se u toku trajanja vaspitno-disciplinskog postupka učenik ispiše iz škole, škola je u obavezi da u ispisnicu unese napomenu da je protiv navedenog učenika pokrenut vaspitno-disciplinski postupak.
-#### Vaspitne i vaspitno-disciplinske mere i pravna zaštita učenika
-##### Član 86
-Za povredu obaveze, odnosno zabrane propisane ovim zakonom, mogu da se izreknu mere, i to: 1) za lakšu povredu obaveza učenika, vaspitna mera - opomena, ukor odeljenjskog starešine ili ukor odeljenjskog veća, na osnovu izjašnjavanja nastavnika koji ostvaruju nastavu u odeljenju učenika, u skladu sa opštim aktom škole; 2) za težu povredu obaveza učenika, vaspitno-disciplinska mera - ukor direktora i ukor nastavničkog veća, a za učenika srednje škole i isključenje učenika iz škole, odnosno škole sa domom; 3) za učinjenu povredu zabrane iz čl. 110-112. ovog zakona, vaspitno-disciplinska mera: (1) ukor direktora ili ukor nastavničkog veća; (2) premeštaj učenika od petog do osmog razreda u drugu osnovnu školu na osnovu odluke nastavničkog veća, uz saglasnost škole u koju prelazi, a uz obaveštavanje roditelja odnosno drugog zakonskog zastupnika; (3) za učenika srednje škole - isključenje učenika iz škole, odnosno škole sa domom. Vaspitna mera izriče se učeniku za lakšu povredu obaveze iz stava 1. tačka 1) ovog člana, bez vođenja vaspitnodisciplinskog postupka. Mera iz stava 1. ovog člana može da se izrekne učeniku ako je škola prethodno preduzela neophodne aktivnosti iz člana 83. stav 1. ovog zakona. Kada preduzete neophodne aktivnosti dovedu do pozitivne promene ponašanja učenika, obustaviće se postupak, osim ako je učinjenom povredom zabrane iz čl. 110-112. ovog zakona ozbiljno ugrožen integritet drugog lica. Mera iz stava 1. tač. 2) i 3) ovog člana izriče se učeniku nakon sprovedenog vaspitno-disciplinskog postupka i utvrđene odgovornosti. Škola, uporedo sa izricanjem vaspitne, odnosno vaspitno-disciplinske mere iz stava 1. ovog člana, određuje učeniku i obavezu obavljanja društveno-korisnog, odnosno humanitarnog rada, koji se odvija u prostorijama škole ili van prostorija škole pod nadzorom nastavnika, odnosno stručnog saradnika. Društveno-koristan, odnosno humanitarni rad iz stava 6. ovog člana, škola određuje učeniku u skladu sa težinom učinjene povrede, vodeći računa o psihofizičkoj i zdravstvenoj sposobnosti, uzrastu i dostojanstvu učenika, o čemu je dužna da odmah obavesti roditelja, odnosno drugog zakonskog zastupnika. Vaspitna i vaspitno-disciplinska mera izriču se u školskoj godini u kojoj je učinjena povreda obaveze učenika. Kada maloletan učenik izvrši povredu obaveze, odnosno zabrane iz čl. 110-112. ovog zakona, škola odmah, a najkasnije narednog radnog dana obaveštava roditelja, odnosno drugog zakonskog zastupnika i uključuje ga u odgovarajući postupak. Nastavničko veće donosi odluku o vaspitno-disciplinskoj meri isključenja učenika iz srednje škole, a direktor rešenje o isključenju učenika iz škole. Učenik, roditelj, odnosno drugi zakonski zastupnik ima pravo da podnese žalbu školskom odboru na izrečenu vaspitnodisciplinsku meru za izvršenu težu povredu obaveze učenika ili za povredu zabrane iz čl. 110-112. ovog zakona, u roku od osam dana od dana dostavljanja rešenja o utvrđenoj odgovornosti i izrečenoj meri. Školski odbor rešava po žalbi iz stava 11. ovog člana u roku od 15 dana od dana dostavljanja žalbe od strane učenika, roditelja, odnosno drugog zakonskog zastupnika. Žalba odlaže izvršenje rešenja direktora.
+osam dana od dana saznanja, a za učinjenu povredu zabrane iz čl. 110-112. ovog zakona zaključkom pokreće postupak
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-(this page came through the extractor with no text)
+odmah, a najkasnije u roku od dva dana od dana saznanja, o čemu odmah, a najkasnije narednog radnog dana obaveštava roditelja, odnosno drugog zakonskog zastupnika.
+
+Direktor vodi postupak i okončava ga rešenjem.
+
+U vaspitno-disciplinskom postupku učenik, uz prisustvo roditelja, odnosno drugog zakonskog zastupnika, kao i svi ostali učesnici i svedoci moraju biti saslušani i dati pisanu izjavu.
+
+Ukoliko se roditelj, odnosno drugi zakonski zastupnik učenika, koji je uredno obavešten, ne odazove da prisustvuje vaspitno-disciplinskom postupku, direktor škole postavlja odmah, a najkasnije narednog radnog dana psihologa, odnosno pedagoga ustanove da u ovom postupku zastupa interese učenika, o čemu odmah obaveštava centar za socijalni rad.
+
+Vaspitno-disciplinski postupak okončava se, nakon vođenja pojačanog vaspitnog rada sa učenikom, donošenjem rešenja u roku od 30 dana od dana pokretanja.
+
+Pre donošenja rešenja moraju se utvrditi sve činjenice koje su od značaja za odlučivanje.
+
+Ukoliko se u toku trajanja vaspitno-disciplinskog postupka učenik ispiše iz škole, škola je u obavezi da u ispisnicu unese napomenu da je protiv navedenog učenika pokrenut vaspitno-disciplinski postupak.
+
+#### Vaspitne i vaspitno-disciplinske mere i pravna zaštita učenika
+
+##### Član 86
+
+Za povredu obaveze, odnosno zabrane propisane ovim zakonom, mogu da se izreknu mere, i to:
+
+1) za lakšu povredu obaveza učenika, vaspitna mera - opomena, ukor odeljenjskog starešine ili ukor odeljenjskog veća, na osnovu izjašnjavanja nastavnika koji ostvaruju nastavu u odeljenju učenika, u skladu sa opštim aktom škole;
+
+2) za težu povredu obaveza učenika, vaspitno-disciplinska mera - ukor direktora i ukor nastavničkog veća, a za učenika srednje škole i isključenje učenika iz škole, odnosno škole sa domom;
+
+3) za učinjenu povredu zabrane iz čl. 110-112. ovog zakona, vaspitno-disciplinska mera:
+
+(1) ukor direktora ili ukor nastavničkog veća;
+
+(2) premeštaj učenika od petog do osmog razreda u drugu osnovnu školu na osnovu odluke nastavničkog veća, uz saglasnost škole u koju prelazi, a uz obaveštavanje roditelja odnosno drugog zakonskog zastupnika;
+
+(3) za učenika srednje škole - isključenje učenika iz škole, odnosno škole sa domom.
+
+Vaspitna mera izriče se učeniku za lakšu povredu obaveze iz stava 1. tačka 1) ovog člana, bez vođenja vaspitno-disciplinskog postupka.
+
+Mera iz stava 1. ovog člana može da se izrekne učeniku ako je škola prethodno preduzela neophodne aktivnosti iz člana 83. stav 1. ovog zakona.
+
+Kada preduzete neophodne aktivnosti dovedu do pozitivne promene ponašanja učenika, obustaviće se postupak, osim ako je učinjenom povredom zabrane iz čl. 110-112. ovog zakona ozbiljno ugrožen integritet drugog lica.
+
+Mera iz stava 1. tač. 2) i 3) ovog člana izriče se učeniku nakon sprovedenog vaspitno-disciplinskog postupka i utvrđene odgovornosti.
+
+Škola, uporedo sa izricanjem vaspitne, odnosno vaspitno-disciplinske mere iz stava 1. ovog člana, određuje učeniku i obavezu obavljanja društveno-korisnog, odnosno humanitarnog rada, koji se odvija u prostorijama škole ili van prostorija škole pod nadzorom nastavnika, odnosno stručnog saradnika.
+
+Društveno-koristan, odnosno humanitarni rad iz stava 6. ovog člana, škola određuje učeniku u skladu sa težinom učinjene povrede, vodeći računa o psihofizičkoj i zdravstvenoj sposobnosti, uzrastu i dostojanstvu učenika, o čemu je dužna da odmah obavesti roditelja, odnosno drugog zakonskog zastupnika.
+
+Vaspitna i vaspitno-disciplinska mera izriču se u školskoj godini u kojoj je učinjena povreda obaveze učenika.
+
+Kada maloletan učenik izvrši povredu obaveze, odnosno zabrane iz čl. 110-112. ovog zakona, škola odmah, a najkasnije narednog radnog dana obaveštava roditelja, odnosno drugog zakonskog zastupnika i uključuje ga u odgovarajući postupak.
+
+Nastavničko veće donosi odluku o vaspitno-disciplinskoj meri isključenja učenika iz srednje škole, a direktor rešenje o isključenju učenika iz škole.
+
+Učenik, roditelj, odnosno drugi zakonski zastupnik ima pravo da podnese žalbu školskom odboru na izrečenu vaspitno-disciplinsku meru za izvršenu težu povredu obaveze učenika ili za povredu zabrane iz čl. 110-112. ovog zakona, u roku od osam dana od dana dostavljanja rešenja o utvrđenoj odgovornosti i izrečenoj meri.
+
+Školski odbor rešava po žalbi iz stava 11. ovog člana u roku od 15 dana od dana dostavljanja žalbe od strane učenika, roditelja, odnosno drugog zakonskog zastupnika.
+
+Žalba odlaže izvršenje rešenja direktora.
 
 [[END OF PAGE 33]]
 
@@ -1429,9 +1516,9 @@ obezbeđivanje troškova obrazovanja i vaspitanja.
 
 ##### Član 91
 
-Ustanovu može da osnuje Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave, ako: 1) postoji potreba za vaspitanjem i obrazovanjem dece, obrazovanjem i vaspitanjem učenika ili obrazovanjem odraslih na određenom području; 2) ima program obrazovanja i vaspitanja; 3) ima obezbeđena sredstva za osnivanje i rad. Drugo pravno ili fizičko lice može da osnuje ustanovu ako, osim uslova iz stava 1. tač. 2) i 3) ovog člana, ima garanciju poslovne banke da su obezbeđena sredstva u visini potrebnih sredstava za godinu dana rada predškolske ustanove, ciklus osnovnog obrazovanja i vaspitanja ili za trajanje programa srednjeg obrazovanja i vaspitanja. Osnivač ustanove ne može da bude fizičko lice koje je osuđivano pravnosnažnom presudom za krivična dela nasilje u porodici, oduzimanje maloletnog lica, zapuštanje i zlostavljanje maloletnog lica ili rodoskvrnuće, za krivična dela primanje ili davanje mita, za krivično delo iz grupe krivičnih dela protiv polne slobode, protiv pravnog saobraćaja i protiv čovečnosti i drugih dobara zaštićenih međunarodnim pravom, bez obzira na izrečenu krivičnu sankciju, i za koje nije, u skladu sa i drugog krivičnog dela počinjenog na štetu deteta, kao i za krivično delo za koje je izrečena bezuslovna kazna zatvora u
+Ustanovu može da osnuje Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave, ako: 1) postoji potreba za vaspitanjem i obrazovanjem dece, obrazovanjem i vaspitanjem učenika ili obrazovanjem odraslih na određenom području; 2) ima program obrazovanja i vaspitanja; 3) ima obezbeđena sredstva za osnivanje i rad. Drugo pravno ili fizičko lice može da osnuje ustanovu ako, osim uslova iz stava 1. tač. 2) i 3) ovog člana, ima garanciju poslovne banke da su obezbeđena sredstva u visini potrebnih sredstava za godinu dana rada predškolske ustanove, ciklus osnovnog obrazovanja i vaspitanja ili za trajanje programa srednjeg obrazovanja i vaspitanja.
 
-zakonom, utvrđeno diskriminatorno ponašanje; za krivična dela protiv života i tela, protiv ustavnog uređenja Republike Srbije trajanju od najmanje tri meseca.
+Osnivač ustanove ne može da bude fizičko lice koje je osuđivano pravnosnažnom presudom za krivična dela nasilje u porodici, oduzimanje maloletnog lica, zapuštanje i zlostavljanje maloletnog lica ili rodoskvrnuće, za krivična dela primanje ili davanje mita, za krivično delo iz grupe krivičnih dela protiv polne slobode, protiv pravnog saobraćaja i protiv čovečnosti i drugih dobara zaštićenih međunarodnim pravom, bez obzira na izrečenu krivičnu sankciju, i za koje nije, u skladu sa zakonom, utvrđeno diskriminatorno ponašanje; za krivična dela protiv života i tela, protiv ustavnog uređenja Republike Srbije i drugog krivičnog dela počinjenog na štetu deteta, kao i za krivično delo za koje je izrečena bezuslovna kazna zatvora u trajanju od najmanje tri meseca.
 
 #### Uslovi za početak rada i obavljanje delatnosti ustanove
 
@@ -1441,7 +1528,7 @@ Ustanova može da počne sa radom i da obavlja delatnost obrazovanja i vaspitanj
 
 1) propisani prostor, opremu i nastavna, odnosno didaktička sredstva; 2) nastavnike, vaspitače i stručne saradnike u radnom odnosu, odnosno izjave saglasnosti nastavnika, vaspitača i stručnih saradnika da bi zasnovali radni odnos najkasnije danom početka rada ustanove; 3) upisanu decu, odnosno redovne učenike;
 
-- obezbeđene higijensko-tehničke uslove (sanitarne i protivpožarne), u skladu sa propisima kojima se uređuje ova oblast.
+4) obezbeđene higijensko-tehničke uslove (sanitarne i protivpožarne), u skladu sa propisima kojima se uređuje ova oblast.
 
 [[END OF PAGE 35]]
 
@@ -1523,11 +1610,11 @@ Učenici mlađi od 15 godina ne mogu da se angažuju u proširenoj delatnosti us
 
 Autonomija ustanove, u smislu ovog zakona, podrazumeva izbor pojedinih sadržaja, načina ostvarivanja, saradnika u skladu sa potrebama, mogućnostima, interesovanjima, raspoloživim resursima, karakteristikama lokalne zajednice prilikom:
 
-- donošenja statuta, razvojnog plana, programa, godišnjeg plana rada, pravila ponašanja u ustanovi, mera, načina i postupka zaštite i bezbednosti dece i učenika i drugih opštih akata ustanove;
+1) donošenja statuta, razvojnog plana, programa, godišnjeg plana rada, pravila ponašanja u ustanovi, mera, načina i postupka zaštite i bezbednosti dece i učenika i drugih opštih akata ustanove;
 
-- donošenja plana stručnog usavršavanja i profesionalnog razvoja nastavnika, vaspitača i stručnog saradnika;
+2) donošenja plana stručnog usavršavanja i profesionalnog razvoja nastavnika, vaspitača i stručnog saradnika;
 
-- donošenja programa zaštite od diskriminacije, nasilja, zlostavljanja i zanemarivanja;
+3) donošenja programa zaštite od diskriminacije, nasilja, zlostavljanja i zanemarivanja;
 
 [[END OF PAGE 37]]
 
@@ -1610,11 +1697,13 @@ zakonskih zastupnika i zaposlenih u ustanovi.
 #### Zabrana diskriminacije
 ##### Član 110
 
-U ustanovi su zabranjene diskriminacija i diskriminatorsko postupanje, kojim se na neposredan ili posredan, otvoren ili prikriven način, neopravdano pravi razlika ili nejednako postupa, odnosno vrši propuštanje (isključivanje, ograničavanje ili davanje prvenstva), u odnosu na lice ili grupe lica, kao i na članove njihovih porodica ili njima bliska lica na otvoren ili prikriven način, a koji se zasniva na rasi, boji kože, precima, državljanstvu, statusu migranta, odnosno raseljenog lica, nacionalnoj pripadnosti ili etničkom poreklu, jeziku, verskim ili političkim ubeđenjima, polu, rodnom identitetu, seksualnoj orijentaciji, imovnom stanju, socijalnom i kulturnom poreklu, rođenju, genetskim osobenostima, zdravstvenom stanju, smetnji u razvoju i invaliditetu, bračnom i porodičnom statusu, osuđivanosti, starosnom dobu, izgledu, članstvu u političkim, utvrđenim zakonom kojim se propisuje zabrana diskriminacije.
+U ustanovi su zabranjene diskriminacija i diskriminatorsko postupanje, kojim se na neposredan ili posredan, otvoren ili prikriven način, neopravdano pravi razlika ili nejednako postupa, odnosno vrši propuštanje (isključivanje, ograničavanje ili davanje prvenstva), u odnosu na lice ili grupe lica, kao i na članove njihovih porodica ili njima bliska lica na otvoren ili prikriven način, a koji se zasniva na rasi, boji kože, precima, državljanstvu, statusu migranta, odnosno raseljenog lica, nacionalnoj pripadnosti ili etničkom poreklu, jeziku, verskim ili političkim ubeđenjima, polu, rodnom identitetu, seksualnoj orijentaciji, imovnom stanju, socijalnom i kulturnom poreklu, rođenju, genetskim osobenostima, zdravstvenom stanju, smetnji u razvoju i invaliditetu, bračnom i porodičnom statusu, osuđivanosti, starosnom dobu, izgledu, članstvu u političkim, sindikalnim i drugim organizacijama i drugim stvarnim, odnosno pretpostavljenim ličnim svojstvima, kao i po drugim osnovima utvrđenim zakonom kojim se propisuje zabrana diskriminacije.
 
-sindikalnim i drugim organizacijama i drugim stvarnim, odnosno pretpostavljenim ličnim svojstvima, kao i po drugim osnovima Ne smatraju se diskriminacijom posebne mere uvedene radi postizanja pune ravnopravnosti, zaštite i napretka lica, odnosno grupe lica koja se nalaze u nejednakom položaju. Ustanova je dužna da preduzme sve mere propisane ovim zakonom kada se posumnja ili utvrdi diskriminatorno ponašanje u ustanovi. Bliže kriterijume za prepoznavanje oblika diskriminacije od strane zaposlenog, deteta, učenika, odraslog, roditelja odnosno drugog zakonskog zastupnika ili trećeg lica u ustanovi, zajednički propisuju ministar i ministar nadležan za ljudska i
+Ne smatraju se diskriminacijom posebne mere uvedene radi postizanja pune ravnopravnosti, zaštite i napretka lica, odnosno grupe lica koja se nalaze u nejednakom položaju.
 
-manjinska prava.
+Ustanova je dužna da preduzme sve mere propisane ovim zakonom kada se posumnja ili utvrdi diskriminatorno ponašanje u ustanovi.
+
+Bliže kriterijume za prepoznavanje oblika diskriminacije od strane zaposlenog, deteta, učenika, odraslog, roditelja odnosno drugog zakonskog zastupnika ili trećeg lica u ustanovi, zajednički propisuju ministar i ministar nadležan za ljudska i manjinska prava.
 
 [[END OF PAGE 40]]
 
@@ -1673,7 +1762,7 @@ Postupanje ustanove kada se posumnja ili utvrdi vređanje ugleda, časti ili dos
 
 U ustanovi je zabranjeno stranačko organizovanje i delovanje i korišćenje prostora ustanove u te svrhe.
 
-### ORGANI USTANOVE
+### 2. ORGANI USTANOVE
 
 ##### Član 114
 
@@ -1710,9 +1799,7 @@ Mandat organa upravljanja traje četiri godine. Postupak za imenovanje članova 
 Ministar imenuje privremeni organ upravljanja ustanove ako jedinica lokalne samouprave ne imenuje organ upravljanja do isteka mandata prethodno imenovanim članovima organa upravljanja. Mandat privremenog organa upravljanja ustanove traje do imenovanja novog organa upravljanja od strane jedinice lokalne samouprave.
 #### Nadležnost organa upravljanja
 ##### Član 119
-2) donosi predškolski, školski, odnosno vaspitni program (u daljem tekstu: program obrazovanja i vaspitanja), razvojni plan,
-
-Organ upravljanja ustanove: 1) donosi statut, pravila ponašanja u ustanovi i druge opšte akte i daje saglasnost na akt o organizaciji i sistematizaciji poslova; godišnji plan rada, usvaja izveštaje o njihovom ostvarivanju, vrednovanju i samovrednovanju; 3) utvrđuje predlog finansijskog plana za pripremu budžeta Republike Srbije; 4) donosi finansijski plan ustanove, u skladu sa zakonom;
+Organ upravljanja ustanove: 1) donosi statut, pravila ponašanja u ustanovi i druge opšte akte i daje saglasnost na akt o organizaciji i sistematizaciji poslova; 2) donosi predškolski, školski, odnosno vaspitni program (u daljem tekstu: program obrazovanja i vaspitanja), razvojni plan, godišnji plan rada, usvaja izveštaje o njihovom ostvarivanju, vrednovanju i samovrednovanju; 3) utvrđuje predlog finansijskog plana za pripremu budžeta Republike Srbije; 4) donosi finansijski plan ustanove, u skladu sa zakonom;
 
 [[END OF PAGE 43]]
 
@@ -1770,13 +1857,13 @@ Vršioca dužnosti direktora imenuje ministar do izbora novog direktora u roku o
 
 Direktor je odgovoran za zakonitost rada i za uspešno obavljanje delatnosti ustanove. Direktor za svoj rad odgovara ministru i organu upravljanja. Direktor ustanove čije sedište se nalazi na teritoriji Autonomne pokrajine Vojvodine za svoj rad odgovara ministru, nadležnom organu autonomne pokrajine i organu upravljanja. Osim poslova utvrđenih zakonom i statutom ustanove, direktor: 1) planira i organizuje ostvarivanje programa obrazovanja i vaspitanja i svih aktivnosti ustanove; 2) je odgovoran za obezbeđivanje kvaliteta, samovrednovanje, stvaranje uslova za sprovođenje spoljašnjeg vrednovanja, ostvarivanje standarda postignuća i unapređivanje kvaliteta obrazovno-vaspitnog rada; 3) je odgovoran za ostvarivanje razvojnog plana ustanove; 4) odlučuje o korišćenju sredstava utvrđenih finansijskim planom i odgovara za odobravanje i namensko korišćenje tih sredstava, u skladu sa zakonom; 5) sarađuje sa organima jedinice lokalne samouprave, organizacijama i udruženjima; 6) pruža podršku u stvaranju ambijenta za ostvarivanje preduzetničkog obrazovanja i preduzetničkih aktivnosti učenika; 7) organizuje i vrši instruktivno-pedagoški uvid i prati kvalitet obrazovno-vaspitnog rada i pedagoške prakse i preduzima mere za unapređivanje i usavršavanje rada nastavnika, vaspitača i stručnih saradnika; 8) planira i prati stručno usavršavanje zaposlenih i sprovodi postupak za sticanje zvanja nastavnika, vaspitača i stručnih saradnika; 9) je odgovoran za regularnost sprovođenja svih ispita u ustanovi u skladu sa propisima; 10) preduzima mere u slučajevima povreda zabrana iz čl. 110-113. ovog zakona; 11) preduzima mere radi izvršavanja naloga prosvetnog inspektora i predloga prosvetnog savetnika, kao i drugih inspekcijskih organa; 12) je odgovoran za blagovremen i tačan unos i održavanje ažurnosti baze podataka o ustanovi u okviru jedinstvenog informacionog sistema prosvete; 13) obavezan je da blagovremeno informiše zaposlene, decu, učenike i roditelje, odnosno druge zakonske zastupnike,
 
-- stručne organe i organe upravljanja o svim pitanjima od interesa za rad ustanove u celini;
+stručne organe i organe upravljanja o svim pitanjima od interesa za rad ustanove u celini;
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-- saziva i rukovodi sednicama vaspitno-obrazovnog, nastavničkog, odnosno pedagoškog veća, bez prava odlučivanja; 15) obrazuje stručna tela i timove, usmerava i usklađuje rad stručnih organa u ustanovi; 16) sarađuje sa roditeljima, odnosno drugim zakonskim zastupnicima dece i učenika ustanove i savetom roditelja; 17) podnosi izveštaj organu upravljanja, najmanje dva puta godišnje, o svom radu i radu ustanove; 18) odlučuje o pravima, obavezama i odgovornostima učenika i zaposlenih, u skladu sa ovim i drugim zakonom; 19) donosi opšti akt o organizaciji i sistematizaciji poslova, u skladu sa zakonom; 20) obezbeđuje uslove za ostvarivanje prava dece i prava, obaveze i odgovornosti učenika i zaposlenih, u skladu sa ovim i drugim zakonom; 21) sarađuje sa učenicima i učeničkim parlamentom; 22) odlučuje po žalbi na rešenje konkursne komisije za izbor kandidata za prijem u radni odnos; 23) obavlja i druge poslove u skladu sa zakonom i statutom. U slučaju privremene odsutnosti ili sprečenosti direktora da obavlja dužnost, zamenjuje ga nastavnik, vaspitač ili stručni saradnik u ustanovi na osnovu ovlašćenja direktora, odnosno organa upravljanja, u skladu sa zakonom.
+14) saziva i rukovodi sednicama vaspitno-obrazovnog, nastavničkog, odnosno pedagoškog veća, bez prava odlučivanja; 15) obrazuje stručna tela i timove, usmerava i usklađuje rad stručnih organa u ustanovi; 16) sarađuje sa roditeljima, odnosno drugim zakonskim zastupnicima dece i učenika ustanove i savetom roditelja; 17) podnosi izveštaj organu upravljanja, najmanje dva puta godišnje, o svom radu i radu ustanove; 18) odlučuje o pravima, obavezama i odgovornostima učenika i zaposlenih, u skladu sa ovim i drugim zakonom; 19) donosi opšti akt o organizaciji i sistematizaciji poslova, u skladu sa zakonom; 20) obezbeđuje uslove za ostvarivanje prava dece i prava, obaveze i odgovornosti učenika i zaposlenih, u skladu sa ovim i drugim zakonom; 21) sarađuje sa učenicima i učeničkim parlamentom; 22) odlučuje po žalbi na rešenje konkursne komisije za izbor kandidata za prijem u radni odnos; 23) obavlja i druge poslove u skladu sa zakonom i statutom. U slučaju privremene odsutnosti ili sprečenosti direktora da obavlja dužnost, zamenjuje ga nastavnik, vaspitač ili stručni saradnik u ustanovi na osnovu ovlašćenja direktora, odnosno organa upravljanja, u skladu sa zakonom.
 ##### Član 127
 Izuzetno, direktor može da obavlja i poslove nastavnika, vaspitača i stručnog saradnika, u skladu sa rešenjem ministra. Instruktivno-pedagoški uvid u rad direktora koji obavlja poslove iz stava 1. ovog člana vrši savetnik - spoljni saradnik.
 
@@ -1786,7 +1873,7 @@ Izuzetno, direktor može da obavlja i poslove nastavnika, vaspitača i stručnog
 
 Dužnost direktora ustanove prestaje: istekom mandata, na lični zahtev, navršavanjem 65 godina života i razrešenjem. Odluku o prestanku dužnosti direktora donosi ministar. Odluku o prestanku dužnosti direktora ustanove, čije sedište se nalazi na teritoriji Autonomne pokrajine Vojvodine, donosi ministar, uz prethodno pribavljenu saglasnost nadležnog organa autonomne pokrajine. Ukoliko nadležni organ autonomne pokrajine ne dostavi saglasnost u roku od 15 dana od dana prijema zahteva, smatra se da je saglasnost data. U ustanovi u kojoj se obrazovno-vaspitni rad izvodi i na jeziku nacionalne manjine ministar pribavlja mišljenje odgovarajućeg nacionalnog saveta nacionalne manjine. Ukoliko nacionalni savet nacionalne manjine ne dostavi mišljenje u roku od osam dana od dana prijema zahteva, smatra se da je mišljenje dato. Ministar razrešava direktora ustanove, ako je utvrđeno da: 1) ne ispunjava uslove iz člana 139. ovog zakona; 2) odbije da se podvrgne lekarskom pregledu na zahtev organa upravljanja ili ministra; 3) ustanova nije blagovremeno donela program obrazovanja i vaspitanja, odnosno ne ostvaruje program obrazovanja i vaspitanja ili ne preduzima mere za ostvarivanje principa, ciljeva i standarda postignuća; 4) ustanova ne sprovodi mere za bezbednost i zaštitu dece i učenika; 5) direktor ne preduzima ili neblagovremeno preduzima odgovarajuće mere u slučajevima povreda zabrana iz čl. 110-113. ovog zakona i težih povreda radnih obaveza zaposlenih; 6) u ustanovi nije obezbeđeno čuvanje propisane evidencije i dokumentacije; 7) u ustanovi se vodi evidencija i izdaju javne isprave suprotno ovom i drugom zakonu; 8) ne ispunjava uslove iz člana 122. ovog zakona; 9) ne postupa po preporuci, nalogu, odnosno meri nadležnog organa za otklanjanje utvrđenih nedostataka i nepravilnosti; 10) nije obezbedio uslove za inspekcijski, stručno-pedagoški nadzor i spoljašnje vrednovanje; 11) je za vreme trajanja njegovog mandata škola dva puta uzastopno ocenjena najnižom ocenom za kvalitet rada; 12) ometa rad organa upravljanja i zaposlenih, nepotpunim, neblagovremenim i netačnim obaveštavanjem, odnosno
 
-- preduzimanjem drugih aktivnosti kojim utiče na zakonito postupanje organa upravljanja i zaposlenih;
+preduzimanjem drugih aktivnosti kojim utiče na zakonito postupanje organa upravljanja i zaposlenih;
 
 [[END OF PAGE 48]]
 
@@ -1810,7 +1897,7 @@ Ustanova može da ima pomoćnika direktora, u skladu sa normativom kojim se utvr
 
 Stručni organi predškolske ustanove jesu vaspitno-obrazovno veće i stručni aktivi vaspitača i medicinskih sestara - vaspitača,
 
-aktiv za razvojno planiranje i drugi stručni aktivi i timovi, u skladu sa statutom. Stručni organi osnovne škole jesu: nastavničko veće, odeljenjsko veće, stručno veće za razrednu nastavu, stručno veće za oblasti predmeta, stručni aktivi za razvojno planiranje i za razvoj školskog programa i drugi stručni aktivi i timovi, u skladu sa statutom. Stručni organi srednje škole jesu: nastavničko veće, odeljenjsko veće, stručno veće za oblasti predmeta, stručni aktivi za razvojno planiranje i za razvoj školskog programa i drugi stručni aktivi i timovi, u skladu sa statutom. Škola sa domom ima i pedagoško veće. Vaspitno-obrazovno veće u predškolskoj ustanovi čine vaspitači i stručni saradnici. Nastavničko veće čine nastavnici i stručni saradnici, kao i koordinatori praktične nastave u srednjoj stručnoj školi. U školi u kojoj se ostvaruje pripremni predškolski program, u radu nastavničkog veća učestvuju i vaspitači. Pedagoško veće čine vaspitači i stručni saradnici koji ostvaruju vaspitni rad u školi sa domom. Odeljenjsko veće u školi čine nastavnici koji izvode nastavu u određenom odeljenju i odeljenjski starešina i kada izvodi nastavu u tom odeljenju. Stručno veće za razrednu nastavu čine svi nastavnici koji ostvaruju nastavu u prvom ciklusu obrazovanja i vaspitanja. Nastavnik koji ostvaruje obrazovno-vaspitni rad u produženom boravku učestvuje u radu stručnog veća za razrednu nastavu, bez prava odlučivanja. Pedagoški, odnosno andragoški asistent učestvuje u radu veća iz st. 3-7. ovog člana bez prava odlučivanja. Stručno veće za oblasti predmeta čine nastavnici koji izvode nastavu iz grupe srodnih predmeta. Stručni aktiv za razvojno planiranje čine predstavnici nastavnika, vaspitača, stručnih saradnika, jedinice lokalne samouprave, učeničkog parlamenta i saveta roditelja. Članove stručnog aktiva za razvojno planiranje imenuje organ upravljanja. Stručni aktiv za razvoj školskog programa čine predstavnici nastavnika i stručnih saradnika. Članove stručnog aktiva za
+aktiv za razvojno planiranje i drugi stručni aktivi i timovi, u skladu sa statutom. Stručni organi osnovne škole jesu: nastavničko veće, odeljenjsko veće, stručno veće za razrednu nastavu, stručno veće za oblasti predmeta, stručni aktivi za razvojno planiranje i za razvoj školskog programa i drugi stručni aktivi i timovi, u skladu sa statutom. Stručni organi srednje škole jesu: nastavničko veće, odeljenjsko veće, stručno veće za oblasti predmeta, stručni aktivi za razvojno planiranje i za razvoj školskog programa i drugi stručni aktivi i timovi, u skladu sa statutom. Škola sa domom ima i pedagoško veće. Vaspitno-obrazovno veće u predškolskoj ustanovi čine vaspitači i stručni saradnici. Nastavničko veće čine nastavnici i stručni saradnici, kao i koordinatori praktične nastave u srednjoj stručnoj školi. U školi u kojoj se ostvaruje pripremni predškolski program, u radu nastavničkog veća učestvuju i vaspitači. Pedagoško veće čine vaspitači i stručni saradnici koji ostvaruju vaspitni rad u školi sa domom. Odeljenjsko veće u školi čine nastavnici koji izvode nastavu u određenom odeljenju i odeljenjski starešina i kada ne izvodi nastavu u tom odeljenju. Stručno veće za razrednu nastavu čine svi nastavnici koji ostvaruju nastavu u prvom ciklusu obrazovanja i vaspitanja. Nastavnik koji ostvaruje obrazovno-vaspitni rad u produženom boravku učestvuje u radu stručnog veća za razrednu nastavu, bez prava odlučivanja. Pedagoški, odnosno andragoški asistent učestvuje u radu veća iz st. 5-7. ovog člana bez prava odlučivanja. Stručno veće za oblasti predmeta čine nastavnici koji izvode nastavu iz grupe srodnih predmeta. Stručni aktiv za razvojno planiranje čine predstavnici nastavnika, vaspitača, stručnih saradnika, jedinice lokalne samouprave, učeničkog parlamenta i saveta roditelja. Članove stručnog aktiva za razvojno planiranje imenuje organ upravljanja. Stručni aktiv za razvoj školskog programa čine predstavnici nastavnika i stručnih saradnika. Članove stručnog aktiva za
 
 razvoj školskog programa imenuje nastavničko veće.
 
@@ -1828,7 +1915,7 @@ Stručni organi, timovi i pedagoški kolegijum: staraju se o obezbeđivanju i un
 #### Sekretar ustanove
 ##### Član 132
 
-Pravne poslove u ustanovi obavlja sekretar. Sekretar mora da ima obrazovanje iz oblasti pravnih nauka u skladu sa članom 140. stav 1. ovog zakona i dozvolu za rad sekretara (u daljem tekstu: licenca za sekretara). Sekretar se uvodi u posao i osposobljava za samostalan rad savladavanjem programa za uvođenje u posao i polaganjem ispita za licencu za sekretara. Sekretaru - pripravniku direktor određuje mentora sa liste sekretara ustanova koju utvrdi školska uprava. Sekretar je dužan da u roku od dve godine od dana zasnivanja radnog odnosa položi ispit za licencu za sekretara. Troškove polaganje ispita iz stava 4. ovog člana, snosi ustanova. Ministarstvo izdaje licencu za sekretara. Sekretaru koji ne položi ispit za licencu za sekretara u roku iz stava 4. ovog člana prestaje radni odnos. Sekretar koji ima položen stručni ispit za sekretara, pravosudni ili stručni ispit za zaposlene u organima državne uprave ili državni stručni ispit, smatra se da ima licencu za sekretara. Način i program uvođenja u posao, program, sadržinu, način i rokove za polaganje ispita za licencu za sekretara, sastav i način rada komisije Ministarstva, odnosno nadležnog organa autonomne pokrajine pred kojom se polaže ispit, sadržaj i obrazac licence za sekretara, naknade za rad članova komisije i ostala pitanja u vezi sa polaganjem ispita za licencu za
+Pravne poslove u ustanovi obavlja sekretar. Sekretar mora da ima obrazovanje iz oblasti pravnih nauka u skladu sa članom 140. stav 1. ovog zakona i dozvolu za rad sekretara (u daljem tekstu: licenca za sekretara). Sekretar se uvodi u posao i osposobljava za samostalan rad savladavanjem programa za uvođenje u posao i polaganjem ispita za licencu za sekretara. Sekretaru - pripravniku direktor određuje mentora sa liste sekretara ustanova koju utvrdi školska uprava. Sekretar je dužan da u roku od dve godine od dana zasnivanja radnog odnosa položi ispit za licencu za sekretara. Troškove polaganja ispita iz stava 4. ovog člana, snosi ustanova. Ministarstvo izdaje licencu za sekretara. Sekretaru koji ne položi ispit za licencu za sekretara u roku iz stava 4. ovog člana prestaje radni odnos. Sekretar koji ima položen stručni ispit za sekretara, pravosudni ili stručni ispit za zaposlene u organima državne uprave ili državni stručni ispit, smatra se da ima licencu za sekretara. Način i program uvođenja u posao, program, sadržinu, način i rokove za polaganje ispita za licencu za sekretara, sastav i način rada komisije Ministarstva, odnosno nadležnog organa autonomne pokrajine pred kojom se polaže ispit, sadržaj i obrazac licence za sekretara, naknade za rad članova komisije i ostala pitanja u vezi sa polaganjem ispita za licencu za
 
 sekretara, propisuje ministar.
 
@@ -1837,32 +1924,22 @@ sekretara, propisuje ministar.
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+##### Član 133
 
 Sekretar ustanove obavlja sledeće poslove:
 
-- stara se o zakonitom radu ustanove, ukazuje direktoru i organu upravljanja na nepravilnosti u radu ustanove;
-
-- obavlja upravne poslove u ustanovi;
-
-- izrađuje opšte i pojedinačne pravne akte ustanove;
-
-- obavlja pravne i druge poslove za potrebe ustanove;
-
-- izrađuje ugovore koje zaključuje ustanova;
-
-- pravne poslove u vezi sa statusnim promenama u ustanovi;
-
-- pravne poslove u vezi sa upisom dece, učenika i odraslih;
-
-- pravne poslove u vezi sa javnim nabavkama u saradnji sa finansijskom službom ustanove;
-
-- pruža stručnu pomoć u vezi sa izborom organa upravljanja u ustanovi;
-
-- pruža stručnu podršku i koordinira rad komisije za izbor direktora ustanove;
-
-- prati propise i o tome informiše zaposlene;
-
-- druge pravne poslove po nalogu direktora.
+1) stara se o zakonitom radu ustanove, ukazuje direktoru i organu upravljanja na nepravilnosti u radu ustanove;
+2) obavlja upravne poslove u ustanovi;
+3) izrađuje opšte i pojedinačne pravne akte ustanove;
+4) obavlja pravne i druge poslove za potrebe ustanove;
+5) izrađuje ugovore koje zaključuje ustanova;
+6) pravne poslove u vezi sa statusnim promenama u ustanovi;
+7) pravne poslove u vezi sa upisom dece, učenika i odraslih;
+8) pravne poslove u vezi sa javnim nabavkama u saradnji sa finansijskom službom ustanove;
+9) pruža stručnu pomoć u vezi sa izborom organa upravljanja u ustanovi;
+10) pruža stručnu podršku i koordinira rad komisije za izbor direktora ustanove;
+11) prati propise i o tome informiše zaposlene;
+12) druge pravne poslove po nalogu direktora.
 
 Ustanova je dužna da obezbedi sekretaru pristup jedinstvenoj informacionoj bazi pravnih propisa.
 
@@ -1905,9 +1982,6 @@ Stručne poslove u muzičkoj školi obavlja stručni saradnik: psiholog, pedagog
 Stručne poslove u školi za obrazovanje odraslih obavlja stručni saradnik: andragog, socijalni radnik, psiholog i bibliotekar.
 
 #### Saradnik, pedagoški i andragoški asistent, lični pratilac i pomoćni nastavnik
-
-##### Član 133
-
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
@@ -1954,35 +2028,24 @@ Nastavnik i vaspitač ostvaruje zadatke na osnovu utvrđenih standarda kompetenc
 
 Zadaci stručnog saradnika su da, u okviru svoje nadležnosti, radi na:
 
-- unapređivanju obrazovno-vaspitnog rada u ustanovi;
-
-- praćenju, podsticanju i pružanju podrške ukupnom razvoju deteta i učenika u domenu fizičkih, intelektualnih, emocionalnih i socijalnih kapaciteta i predlaganju mera u interesu razvoja i dobrobiti deteta;
-
-- pružanju stručne podrške vaspitaču, nastavniku i direktoru za:
-
-- stvaranje podsticajne sredine za učenje uz primenu savremenih naučno zasnovanih saznanja;
-
-- jačanje kompetencija i profesionalni razvoj nastavnika, vaspitača i stručnih saradnika;
-
-- razvijanje kompetencija za ostvarivanje ciljeva i opštih ishoda obrazovanja i vaspitanja;
-
-- razvoju inkluzivnosti ustanove;
-
-- stručnim poslovima u zaštiti od nasilja i stvaranju bezbedne sredine za razvoj dece i učenika, zaštiti od diskriminacije i socijalne isključenosti dece, odnosno učenika;
+1) unapređivanju obrazovno-vaspitnog rada u ustanovi;
+2) praćenju, podsticanju i pružanju podrške ukupnom razvoju deteta i učenika u domenu fizičkih, intelektualnih, emocionalnih i socijalnih kapaciteta i predlaganju mera u interesu razvoja i dobrobiti deteta;
+3) pružanju stručne podrške vaspitaču, nastavniku i direktoru za:
+(1) stvaranje podsticajne sredine za učenje uz primenu savremenih naučno zasnovanih saznanja;
+(2) jačanje kompetencija i profesionalni razvoj nastavnika, vaspitača i stručnih saradnika;
+(3) razvijanje kompetencija za ostvarivanje ciljeva i opštih ishoda obrazovanja i vaspitanja;
+4) razvoju inkluzivnosti ustanove;
+5) stručnim poslovima u zaštiti od nasilja i stvaranju bezbedne sredine za razvoj dece i učenika, zaštiti od diskriminacije i socijalne isključenosti dece, odnosno učenika;
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
 
-- praćenju i vrednovanju obrazovno-vaspitnog rada i predlaganju mera za povećanje kvaliteta obrazovno-vaspitnog rada;
-
-- ostvarivanju saradnje sa decom i učenicima, roditeljima, odnosno drugim zakonskim zastupnicima i drugim zaposlenima u ustanovi;
-
-- ostvarivanju saradnje sa nadležnim ustanovama, stručnim udruženjima i drugim organima i organizacijama;
-
-- koordinaciji saradnje i obezbeđivanju primene odluka saveta roditelja ustanove i lokalnih saveta roditelja;
-
-- sprovođenju strateških odluka Ministarstva u ustanovi, u skladu sa svojim opisom posla.
+6) praćenju i vrednovanju obrazovno-vaspitnog rada i predlaganju mera za povećanje kvaliteta obrazovno-vaspitnog rada;
+7) ostvarivanju saradnje sa decom i učenicima, roditeljima, odnosno drugim zakonskim zastupnicima i drugim zaposlenima u ustanovi;
+8) ostvarivanju saradnje sa nadležnim ustanovama, stručnim udruženjima i drugim organima i organizacijama;
+9) koordinaciji saradnje i obezbeđivanju primene odluka saveta roditelja ustanove i lokalnih saveta roditelja;
+10) sprovođenju strateških odluka Ministarstva u ustanovi, u skladu sa svojim opisom posla.
 
 Stručni saradnik ostvaruje zadatke na osnovu standarda kompetencija za stručne saradnike.
 
@@ -1994,15 +2057,11 @@ Program svih oblika rada stručnih saradnika, donosi ministar.
 
 U radni odnos u ustanovi može da bude primljeno lice, pod uslovima propisanim zakonom i to ako:
 
-- ima odgovarajuće obrazovanje;
-
-- ima psihičku, fizičku i zdravstvenu sposobnost za rad sa decom i učenicima;
-
-- nije osuđivano pravnosnažnom presudom za krivično delo za koje je izrečena bezuslovna kazna zatvora u trajanju od najmanje tri meseca, kao i za krivična dela nasilje u porodici, oduzimanje maloletnog lica, zapuštanje i zlostavljanje maloletnog lica ili rodoskvrnuće, za krivična dela primanje ili davanje mita; za krivična dela iz grupe krivičnih dela protiv polne slobode, protiv pravnog saobraćaja i protiv čovečnosti i drugih dobara zaštićenih međunarodnim pravom, bez obzira na izrečenu krivičnu sankciju, i za koje nije, u skladu sa zakonom, utvrđeno diskriminatorno ponašanje;
-
-- ima državljanstvo Republike Srbije;
-
-- zna srpski jezik i jezik na kojem ostvaruje obrazovno-vaspitni rad.
+1) ima odgovarajuće obrazovanje;
+2) ima psihičku, fizičku i zdravstvenu sposobnost za rad sa decom i učenicima;
+3) nije osuđivano pravnosnažnom presudom za krivično delo za koje je izrečena bezuslovna kazna zatvora u trajanju od najmanje tri meseca, kao i za krivična dela nasilje u porodici, oduzimanje maloletnog lica, zapuštanje i zlostavljanje maloletnog lica ili rodoskvrnuće, za krivična dela primanje ili davanje mita; za krivična dela iz grupe krivičnih dela protiv polne slobode, protiv pravnog saobraćaja i protiv čovečnosti i drugih dobara zaštićenih međunarodnim pravom, bez obzira na izrečenu krivičnu sankciju, i za koje nije, u skladu sa zakonom, utvrđeno diskriminatorno ponašanje;
+4) ima državljanstvo Republike Srbije;
+5) zna srpski jezik i jezik na kojem ostvaruje obrazovno-vaspitni rad.
 
 Uslovi iz stava 1. ovog člana dokazuju se prilikom prijema u radni odnos i proveravaju se u toku rada.
 
@@ -2014,13 +2073,10 @@ Dokazi o ispunjenosti uslova iz stava 1. tač. 1), 3)-5) ovog člana sastavni su
 
 Nastavnik, vaspitač i stručni saradnik jeste lice koje je steklo odgovarajuće visoko obrazovanje:
 
-- na studijama drugog stepena (master akademske studije, master strukovne studije, specijalističke akademske studije) i to:
-
-- studije drugog stepena iz naučne, odnosno stručne oblasti za odgovarajući predmet, odnosno grupe predmeta;
-
-- studije drugog stepena iz oblasti pedagoških nauka ili interdisciplinarne, multidisciplinarne, transdisciplinarne studije drugog stepena koje kombinuju celine i odgovarajuće naučne, odnosno stručne oblasti ili oblasti pedagoških nauka;
-
-- na osnovnim studijama u trajanju od najmanje četiri godine, po propisima koji su uređivali visoko obrazovanje do 10. septembra 2005. godine.
+1) na studijama drugog stepena (master akademske studije, master strukovne studije, specijalističke akademske studije) i to:
+(1) studije drugog stepena iz naučne, odnosno stručne oblasti za odgovarajući predmet, odnosno grupe predmeta;
+(2) studije drugog stepena iz oblasti pedagoških nauka ili interdisciplinarne, multidisciplinarne, transdisciplinarne studije drugog stepena koje kombinuju celine i odgovarajuće naučne, odnosno stručne oblasti ili oblasti pedagoških nauka;
+2) na osnovnim studijama u trajanju od najmanje četiri godine, po propisima koji su uređivali visoko obrazovanje do 10. septembra 2005. godine.
 
 Lice iz stava 1. tačka 1) podtačka (2) ovog člana mora da ima završene studije prvog stepena iz naučne, odnosno stručne oblasti za odgovarajući predmet, odnosno grupu predmeta.
 
@@ -2105,10 +2161,9 @@ Na ostvarivanje prava iz stava 2. ovog člana shodno se primenjuju odredbe ovog 
 #### Licenca nastavnika, vaspitača i stručnih saradnika
 ##### Član 147
 
-Ustanova je dužna da blagovremeno dostavi Ministarstvu sve podatke u vezi sa licencom nastavnika, vaspitača i stručnog
-
-Licenca je javna isprava. Ministarstvo izdaje licencu. saradnika.
-
+Licenca je javna isprava.
+Ministarstvo izdaje licencu.
+Ustanova je dužna da blagovremeno dostavi Ministarstvu sve podatke u vezi sa licencom nastavnika, vaspitača i stručnog saradnika.
 Sadržaj i obrazac licence propisuje ministar.
 
 #### Izdavanje licence nastavniku, vaspitaču i stručnom saradniku
@@ -2152,7 +2207,7 @@ Nastavnik, vaspitač i stručni saradnik za vreme trajanja suspenzije licence os
 
 Licenca se oduzima nastavniku, vaspitaču i stručnom saradniku:
 
-- koji je pravnosnažnom presudom osuđen za krivično delo: nasilja u porodici, oduzimanje maloletnog lica, zapuštanje i zlostavljanje maloletnog lica ili rodoskvrnuće, primanje ili davanje mita, protiv polne slobode, pravnog saobraćaja i čovečnosti i drugih dobara zaštićenih međunarodnim pravom, bez obzira na izrečenu krivičnu sankciju;
+1) koji je pravnosnažnom presudom osuđen za krivično delo: nasilja u porodici, oduzimanje maloletnog lica, zapuštanje i zlostavljanje maloletnog lica ili rodoskvrnuće, primanje ili davanje mita, protiv polne slobode, pravnog saobraćaja i čovečnosti i drugih dobara zaštićenih međunarodnim pravom, bez obzira na izrečenu krivičnu sankciju;
 
 2) na osnovu pravnosnažne sudske odluke kojom je utvrđena zakonitost rešenja o prestanku radnog odnosa zbog povrede zabrane iz čl. 110, 111. i 113. ovog zakona, odnosno po isteku roka za sudsku zaštitu;
 
@@ -2160,19 +2215,31 @@ Licenca se oduzima nastavniku, vaspitaču i stručnom saradniku:
 
 [[START OF PAGE 57]]
 
-3) na osnovu pravnosnažne sudske odluke kojom je utvrđena zakonitost rešenja o prestanku radnog odnosa zbog povrede zabrane iz člana 112. ovog zakona učinjene drugi put, odnosno po isteku roka za sudsku zaštitu; 4) na osnovu pravnosnažne sudske odluke kojom je utvrđena zakonitost rešenja o prestanku radnog odnosa zbog povrede radne obaveze iz člana 164. tač. 1)-6) ovog zakona, odnosno po isteku roka za sudsku zaštitu; 5) ako odbije vršenje spoljašnjeg vrednovanja rada ili stručno-pedagoškog nadzora; 6) kome je suspendovana licenca u skladu sa članom 149. ovog zakona, a stekli su se uslovi za novu suspenziju. Licenca se oduzima na period od pet godina. Lice kome je oduzeta licenca nema pravo na rad u oblasti obrazovanja i vaspitanja. Izuzetno, od stava 2. ovog člana, lice kome je oduzeta licenca iz razloga propisanih u stavu 1. tačka 1) ovog člana nema pravo na njeno ponovno izdavanje niti na rad u ustanovi. Rešenje ministra o oduzimanju licence konačno je u upravnom postupku. Oduzeta licenca vraća se Ministarstvu preko ustanove u kojoj je lice zaposleno. polaganje ispita za licencu. Lice kome je oduzeta licenca na period od pet godina stiče pravo da Ministarstvu podnese zahtev za ponovno izdavanje
+3) na osnovu pravnosnažne sudske odluke kojom je utvrđena zakonitost rešenja o prestanku radnog odnosa zbog povrede zabrane iz člana 112. ovog zakona učinjene drugi put, odnosno po isteku roka za sudsku zaštitu;
+4) na osnovu pravnosnažne sudske odluke kojom je utvrđena zakonitost rešenja o prestanku radnog odnosa zbog povrede radne obaveze iz člana 164. tač. 1)-6) ovog zakona, odnosno po isteku roka za sudsku zaštitu;
+5) ako odbije vršenje spoljašnjeg vrednovanja rada ili stručno-pedagoškog nadzora;
+6) kome je suspendovana licenca u skladu sa članom 149. ovog zakona, a stekli su se uslovi za novu suspenziju.
 
-na osnovu preuzimanja zaposlenog sa liste zaposlenih za čijim radom je u potpunosti ili delimično prestala potreba i zaposlenih koji su zasnovali radni odnos sa nepunim radnim vremenom (u daljem tekstu: preuzimanje sa liste), kao i na osnovu preuzimanja ili konkursa ako se nije moglo izvršiti preuzimanje sa liste. listu iz stava 1. ovog člana, ukoliko na toj listi nema lica sa odgovarajućim obrazovanjem, uz saglasnost zaposlenog i direktora ustanove i radne podgrupe iz člana 153. stav 7. ovog zakona. Ustanove mogu vršiti i uzajamno preuzimanje zaposlenih na neodređeno vreme, na odgovarajuće poslove, na osnovu potpisanog sporazuma o uzajamnom preuzimanju uz prethodnu saglasnost zaposlenih, ako je razlika u procentu njihovog radnog angažovanja do 20%. Ukoliko nisu ispunjeni uslovi iz st. 1-3. ovog člana, radni odnos u ustanovi može se zasnovati na osnovu konkursa na neodređeno vreme i određeno vreme, u skladu sa zakonom ili preuzimanjem iz druge javne službe, na način propisan
+Licenca se oduzima na period od pet godina.
+Lice kome je oduzeta licenca nema pravo na rad u oblasti obrazovanja i vaspitanja.
+Izuzetno, od stava 2. ovog člana, lice kome je oduzeta licenca iz razloga propisanih u stavu 1. tačka 1) ovog člana nema pravo na njeno ponovno izdavanje niti na rad u ustanovi.
+Rešenje ministra o oduzimanju licence konačno je u upravnom postupku.
+Oduzeta licenca vraća se Ministarstvu preko ustanove u kojoj je lice zaposleno.
+Lice kome je oduzeta licenca na period od pet godina, po isteku tog roka može da podnese Ministarstvu zahtev za ponovno polaganje ispita za licencu.
+Lice kome je oduzeta licenca na period od pet godina stiče pravo da Ministarstvu podnese zahtev za ponovno izdavanje licence, uz dostavljanje dokaza o položenom ispitu iz stava 7. ovog člana.
 
-Lice kome je oduzeta licenca na period od pet godina, po isteku tog roka može da podnese Ministarstvu zahtev za ponovno licence, uz dostavljanje dokaza o položenom ispitu iz stava 7. ovog člana.
 #### Stručno usavršavanje i profesionalni razvoj nastavnika, vaspitača i stručnog saradnika
 ##### Član 151
+
 Nastavnik, vaspitač i stručni saradnik, sa licencom i bez licence, dužan je da se stalno stručno usavršava radi uspešnijeg ostvarivanja i unapređivanja obrazovno-vaspitnog rada i sticanja, odnosno unapređivanja kompetencija potrebnih za rad, u skladu sa opštim principima i za postizanje ciljeva obrazovanja i vaspitanja i standarda postignuća. U toku stručnog usavršavanja nastavnik, vaspitač i stručni saradnik može profesionalno da napreduje sticanjem zvanja: pedagoški savetnik, samostalni pedagoški savetnik, viši pedagoški savetnik i visoki pedagoški savetnik. Nastavnik, vaspitač i stručni saradnik ostvaruje pravo na uvećanu platu za stečeno zvanje. Nastavnik, vaspitač i stručni saradnik ima pravo na odsustvo iz ustanove u trajanju od tri radna dana godišnje radi pohađanja odobrenog oblika, načina i sadržaja stručnog usavršavanja. Raspored odsustva nastavnika, vaspitača i stručnog saradnika radi stručnog usavršavanja planira pedagoški kolegijum. Plan stručnog usavršavanja u skladu sa prioritetima ustanove radi ostvarivanja ciljeva obrazovanja i vaspitanja i standarda postignuća i prioritetima Ministarstva, donosi organ upravljanja ustanove. Podatke o profesionalnom razvoju nastavnik, vaspitač i stručni saradnik čuva u mapi profesionalnog razvoja (u daljem tekstu: portfolio). Prioritetne oblasti za period od tri godine, oblike stručnog usavršavanja, programe i način organizovanja stalnog stručnog usavršavanja, uslove, organ koji odlučuje o sticanju zvanja i postupak napredovanja, sticanje zvanja u toku stručnog usavršavanja nastavnika, vaspitača i stručnih saradnika, obrazac uverenja o savladanom programu, sadržaj portfolija i druga pitanja od značaja za stručno usavršavanje, propisuje ministar.
+
 #### Zasnivanje radnog odnosa u ustanovi
 ##### Član 152
-Prijem u radni odnos u ustanovi čiji je osnivač Republika Srbija, autonomna pokrajina ili jedinica lokalne samouprave vrši se Zaposleni koji je u radnom odnosu na neodređeno vreme sa punim radnim vremenom može biti preuzet iako nije stavljen na
 
-zakonom kojim se uređuju radni odnosi u javnim službama.
+Prijem u radni odnos u ustanovi čiji je osnivač Republika Srbija, autonomna pokrajina ili jedinica lokalne samouprave vrši se na osnovu preuzimanja zaposlenog sa liste zaposlenih za čijim radom je u potpunosti ili delimično prestala potreba i zaposlenih koji su zasnovali radni odnos sa nepunim radnim vremenom (u daljem tekstu: preuzimanje sa liste), kao i na osnovu preuzimanja ili konkursa ako se nije moglo izvršiti preuzimanje sa liste.
+Zaposleni koji je u radnom odnosu na neodređeno vreme sa punim radnim vremenom može biti preuzet iako nije stavljen na listu iz stava 1. ovog člana, ukoliko na toj listi nema lica sa odgovarajućim obrazovanjem, uz saglasnost zaposlenog i direktora ustanove i radne podgrupe iz člana 153. stav 7. ovog zakona.
+Ustanove mogu vršiti i uzajamno preuzimanje zaposlenih na neodređeno vreme, na odgovarajuće poslove, na osnovu potpisanog sporazuma o uzajamnom preuzimanju uz prethodnu saglasnost zaposlenih, ako je razlika u procentu njihovog radnog angažovanja do 20%.
+Ukoliko nisu ispunjeni uslovi iz st. 1-3. ovog člana, radni odnos u ustanovi može se zasnovati na osnovu konkursa na neodređeno vreme i određeno vreme, u skladu sa zakonom ili preuzimanjem iz druge javne službe, na način propisan zakonom kojim se uređuju radni odnosi u javnim službama.
 
 [[END OF PAGE 57]]
 
@@ -2252,21 +2319,16 @@ Nastavniku, vaspitaču i stručnom saradniku svake školske godine direktor reš
 
 U okviru punog radnog vremena u toku radne nedelje, norma neposrednog rada nastavnika je:
 
-- 24 školska časa (u daljem tekstu: čas) neposrednog rada sa učenicima, od čega 20 časova nastave obaveznih predmeta, izbornih programa i aktivnosti, s tim da se neposredni rad do 24 časa dopunjuje drugim aktivnostima (dopunski, dodatni, individualni, pripremni rad i drugi oblici rada) u skladu sa nastavnim planom;
+1) 24 školska časa (u daljem tekstu: čas) neposrednog rada sa učenicima, od čega 20 časova nastave obaveznih predmeta, izbornih programa i aktivnosti, s tim da se neposredni rad do 24 časa dopunjuje drugim aktivnostima (dopunski, dodatni, individualni, pripremni rad i drugi oblici rada) u skladu sa nastavnim planom;
+2) 26 časova nastave sa učenicima za nastavnike praktične nastave;
+3) 20 časova radnog vremena za nastavnika u školi za obrazovanje učenika sa smetnjama u razvoju koji izvodi nastavu i individualne oblike neposrednog rada sa učenicima;
+4) 20 časova radnog vremena za nastavnika razredne nastave u školi za obrazovanje odraslih koji izvodi nastavu i individualne oblike neposrednog rada sa učenicima/polaznicima.
 
-- 26 časova nastave sa učenicima za nastavnike praktične nastave;
+U okviru punog radnog vremena u toku radne nedelje, norma neposrednog rada vaspitača je:
 
-- 20 časova radnog vremena za nastavnika u školi za obrazovanje učenika sa smetnjama u razvoju koji izvodi nastavu i individualne oblike neposrednog rada sa učenicima;
-
-- 20 časova radnog vremena za nastavnika razredne nastave u školi za obrazovanje odraslih koji izvodi nastavu i individualne oblike neposrednog rada sa učenicima/polaznicima.
-
-- U okviru punog radnog vremena u toku radne nedelje, norma neposrednog rada vaspitača je:
-
-- 30 sati neposrednog vaspitno-obrazovnog rada sa decom u predškolskoj ustanovi;
-
-- 20 sati neposrednog vaspitno-obrazovnog rada sa decom u pripremnom predškolskom programu, u poludnevnom trajanju u predškolskoj ustanovi, odnosno osnovnoj školi;
-
-- 20 sati neposrednog vaspitno-obrazovnog rada sa decom na ostvarivanju različitih programa i oblika, u poludnevnom trajanju u predškolskoj ustanovi.
+1) 30 sati neposrednog vaspitno-obrazovnog rada sa decom u predškolskoj ustanovi;
+2) 20 sati neposrednog vaspitno-obrazovnog rada sa decom u pripremnom predškolskom programu, u poludnevnom trajanju u predškolskoj ustanovi, odnosno osnovnoj školi;
+3) 20 sati neposrednog vaspitno-obrazovnog rada sa decom na ostvarivanju različitih programa i oblika, u poludnevnom trajanju u predškolskoj ustanovi.
 
 Vaspitač u školi sa domom u okviru punog radnog vremena u toku radne nedelje ostvaruje 30 sati neposrednog vaspitnog rada sa učenicima.
 
@@ -2296,7 +2358,7 @@ Zaposleni u ustanovi ima pravo na odmore i odsustva u skladu sa zakonom kojim se
 
 Zaposleni odgovara za: 1) lakšu povredu radne obaveze, utvrđenu opštim aktom ustanove i zakonom; 2) težu povredu radne obaveze propisanu ovim zakonom; 3) povredu zabrane iz čl. 110-113. ovog zakona;
 
-- materijalnu štetu koju nanese ustanovi, namerno ili krajnjom nepažnjom, u skladu sa zakonom.
+4) materijalnu štetu koju nanese ustanovi, namerno ili krajnjom nepažnjom, u skladu sa zakonom.
 
 #### Udaljenje sa rada
 ##### Član 163
@@ -2308,7 +2370,7 @@ Zaposleni se privremeno udaljuje sa rada zbog učinjene teže povrede radne obav
 
 Teže povrede radne obaveze zaposlenog u ustanovi su: 1) izvršenje krivičnog dela na radu ili u vezi sa radom; 2) podstrekavanje na upotrebu alkoholnih pića kod dece i učenika, ili omogućavanje, davanje ili neprijavljivanje nabavke i upotrebe; 3) podstrekavanje na upotrebu narkotičkog sredstva ili psihoaktivne supstance kod učenika ili njeno omogućavanje, ili neprijavljivanje nabavke i upotrebe; 4) nošenje oružja u ustanovi; 5) naplaćivanje pripreme učenika škole u kojoj je nastavnik u radnom odnosu, a radi ocenjivanja, odnosno polaganja ispita; 6) dolazak na rad u pripitom ili pijanom stanju, upotreba alkohola ili drugih opojnih sredstava; 7) neopravdano odsustvo sa rada najmanje tri uzastopna radna dana; 8) neovlašćena promena podataka u evidenciji, odnosno javnoj ispravi; 9) nesprovođenje mera bezbednosti dece, učenika i zaposlenih; 10) uništenje, oštećenje, skrivanje ili iznošenje evidencije, odnosno obrasca javne isprave ili javne isprave; 11) odbijanje davanja na uvid rezultata pismene provere znanja učenicima, roditeljima, odnosno drugim zakonskim zastupnicima; 12) odbijanje prijema i davanja na uvid evidencije licu koje vrši nadzor nad radom ustanove, roditelju, odnosno drugom zakonskom zastupniku; 13) neovlašćeno prisvajanje, korišćenje i prikazivanje tuđih podataka; 14) nezakonit rad ili propuštanje radnji čime se sprečava ili onemogućava ostvarivanje prava deteta, učenika ili drugog zaposlenog; 15) neizvršavanje ili nesavesno, neblagovremeno ili nemarno izvršavanje poslova ili naloga direktora u toku rada; 16) zloupotreba prava iz radnog odnosa; 17) nezakonito raspolaganje sredstvima, školskim prostorom, opremom i imovinom ustanove;
 
-- druge povrede radne obaveze u skladu sa zakonom.
+18) druge povrede radne obaveze u skladu sa zakonom.
 
 [[END OF PAGE 61]]
 
@@ -2317,16 +2379,29 @@ Teže povrede radne obaveze zaposlenog u ustanovi su: 1) izvršenje krivičnog d
 #### Disciplinski postupak
 ##### Član 165
 
-Disciplinski postupak se pokreće i vodi za učinjenu težu povredu radne obaveze iz člana 164. i povredu zabrane iz čl. 110113. ovog zakona. Direktor ustanove pokreće i vodi disciplinski postupak, donosi rešenje i izriče meru u disciplinskom postupku protiv zaposlenog. Disciplinski postupak pokreće se pismenim zaključkom, a koji sadrži podatke o zaposlenom, opis povrede zabrane, odnosno radne obaveze, vreme, mesto i način izvršenja i dokaze koji ukazuju na izvršenje povrede. Zaposleni je dužan da se pismeno izjasni na navode iz zaključka iz stava 3. ovog člana u roku od osam dana od dana prijema zaključka. Zaposleni mora biti saslušan, sa pravom da usmeno izloži svoju odbranu, sam ili preko zastupnika, a može za raspravu dostaviti i pismenu odbranu. Izuzetno, rasprava se može održati i bez prisustva zaposlenog, pod uslovom da je zaposleni na raspravu uredno pozvan. Disciplinski postupak je javan, osim u slučajevima propisanim zakonom. Po sprovedenom postupku donosi se rešenje kojim se zaposlenom izriče disciplinska mera, kojim se oslobađa od odgovornosti ili kojim se postupak obustavlja. Pokretanje disciplinskog postupka zastareva u roku od tri meseca od dana saznanja za povredu radne obaveze i učinioca, odnosno u roku od šest meseci od dana kada je povreda učinjena, osim ako je učinjena povreda zabrane iz čl. 110-113. ovog zakona, u kom slučaju pokretanje disciplinskog postupka zastareva u roku od dve godine od dana kada je učinjena povreda zabrane. Vođenje disciplinskog postupka zastareva u roku od šest meseci od dana pokretanja disciplinskog postupka. Zastarelost ne teče ako disciplinski postupak ne može da se pokrene ili vodi zbog odsustva zaposlenog ili drugih razloga u skladu sa zakonom. Lakše povrede radne obaveze, kao i način i postupak izricanja disciplinskih mera za lakše povrede radne obaveze,
-
-propisane ovim zakonom, ustanova utvrđuje opštim aktom.
+Disciplinski postupak se pokreće i vodi za učinjenu težu povredu radne obaveze iz člana 164. i povredu zabrane iz čl. 110-113. ovog zakona.
+Direktor ustanove pokreće i vodi disciplinski postupak, donosi rešenje i izriče meru u disciplinskom postupku protiv zaposlenog.
+Disciplinski postupak pokreće se pismenim zaključkom, a koji sadrži podatke o zaposlenom, opis povrede zabrane, odnosno radne obaveze, vreme, mesto i način izvršenja i dokaze koji ukazuju na izvršenje povrede.
+Zaposleni je dužan da se pismeno izjasni na navode iz zaključka iz stava 3. ovog člana u roku od osam dana od dana prijema zaključka.
+Zaposleni mora biti saslušan, sa pravom da usmeno izloži svoju odbranu, sam ili preko zastupnika, a može za raspravu dostaviti i pismenu odbranu.
+Izuzetno, rasprava se može održati i bez prisustva zaposlenog, pod uslovom da je zaposleni na raspravu uredno pozvan.
+Disciplinski postupak je javan, osim u slučajevima propisanim zakonom.
+Po sprovedenom postupku donosi se rešenje kojim se zaposlenom izriče disciplinska mera, kojim se oslobađa od odgovornosti ili kojim se postupak obustavlja.
+Pokretanje disciplinskog postupka zastareva u roku od tri meseca od dana saznanja za povredu radne obaveze i učinioca, odnosno u roku od šest meseci od dana kada je povreda učinjena, osim ako je učinjena povreda zabrane iz čl. 110-113. ovog zakona, u kom slučaju pokretanje disciplinskog postupka zastareva u roku od dve godine od dana kada je učinjena povreda zabrane.
+Vođenje disciplinskog postupka zastareva u roku od šest meseci od dana pokretanja disciplinskog postupka.
+Zastarelost ne teče ako disciplinski postupak ne može da se pokrene ili vodi zbog odsustva zaposlenog ili drugih razloga u skladu sa zakonom.
+Lakše povrede radne obaveze, kao i način i postupak izricanja disciplinskih mera za lakše povrede radne obaveze, propisane ovim zakonom, ustanova utvrđuje opštim aktom.
 
 #### Disciplinske mere
 ##### Član 166
 
-Mere za težu povredu radne obaveze iz člana 164. i povredu zabrane iz čl. 110-113. ovog zakona su novčana kazna, udaljenje sa rada i prestanak radnog odnosa. Mere za lakšu povredu radne obaveze su pisana opomena i novčana kazna u visini do 20% od plate isplaćene za mesec u kome je odluka doneta u trajanju do tri meseca. Novčana kazna za težu povredu radne obaveze izriče se u visini od 20%-35% od plate isplaćene za mesec u kome je odluka doneta, u trajanju do šest meseci. Zaposlenom koji izvrši povredu zabrane propisane članom 112. ovog zakona jedanput, izriče se novčana kazna ili privremeno udaljenje sa rada tri meseca. Zaposlenom koji izvrši povredu zabrane propisane čl. 110, 111. i 113. ovog zakona, odnosno koji drugi put izvrši povredu zabrane propisane članom 112. ovog zakona i zaposlenom koji učini povredu radne obaveze iz člana 164. tač. 1)-7) ovog zakona, izriče se mera prestanka radnog odnosa. Zaposlenom prestaje radni odnos od dana prijema konačnog rešenja direktora. meseca, a mera prestanka radnog odnosa ukoliko su navedene povrede učinjene svesnim nehatom, namerno ili u cilju
-
-Za povredu radne obaveze iz člana 164. tač. 8)-18) ovog zakona izriče se novčana kazna ili udaljenje sa rada u trajanju do tri pribavljanja sebi ili drugome protivpravne imovinske koristi.
+Mere za težu povredu radne obaveze iz člana 164. i povredu zabrane iz čl. 110-113. ovog zakona su novčana kazna, udaljenje sa rada i prestanak radnog odnosa.
+Mere za lakšu povredu radne obaveze su pisana opomena i novčana kazna u visini do 20% od plate isplaćene za mesec u kome je odluka doneta u trajanju do tri meseca.
+Novčana kazna za težu povredu radne obaveze izriče se u visini od 20%-35% od plate isplaćene za mesec u kome je odluka doneta, u trajanju do šest meseci.
+Zaposlenom koji izvrši povredu zabrane propisane članom 112. ovog zakona jedanput, izriče se novčana kazna ili privremeno udaljenje sa rada tri meseca.
+Zaposlenom koji izvrši povredu zabrane propisane čl. 110, 111. i 113. ovog zakona, odnosno koji drugi put izvrši povredu zabrane propisane članom 112. ovog zakona i zaposlenom koji učini povredu radne obaveze iz člana 164. tač. 1)-7) ovog zakona, izriče se mera prestanka radnog odnosa.
+Zaposlenom prestaje radni odnos od dana prijema konačnog rešenja direktora.
+Za povredu radne obaveze iz člana 164. tač. 8)-18) ovog zakona izriče se novčana kazna ili udaljenje sa rada u trajanju do tri meseca, a mera prestanka radnog odnosa ukoliko su navedene povrede učinjene svesnim nehatom, namerno ili u cilju pribavljanja sebi ili drugome protivpravne imovinske koristi.
 
 #### Prestanak radnog odnosa
 ##### Član 167
@@ -2358,9 +2433,19 @@ Inspekcijski nadzor nad radom ustanova i zavoda, sprovođenju ovog i posebnog za
 #### Stručno-pedagoški nadzor
 ##### Član 170
 
-Poslove stručno-pedagoškog nadzora vrši prosvetni savetnik. Prosvetni savetnik: 1) vrednuje kvalitet rada ustanove, odnosno doma učenika na osnovu utvrđenih standarda, ostvarivanje razvojnog plana i programa obrazovanja i vaspitanja; 2) pruža pomoć i podršku samovrednovanju ustanove; 3) prati poštovanje opštih principa i ostvarivanje ciljeva obrazovanja i vaspitanja; 4) savetuje i pruža stručnu pomoć nastavniku, vaspitaču, stručnom saradniku i direktoru radi poboljšanja kvaliteta njihovog rada i rada ustanove i ostvarivanja standarda postignuća; 5) savetuje i pruža stručnu pomoć ustanovi, odnosno domu učenika u obezbeđivanju zaštite dece, učenika i zaposlenih od diskriminacije, nasilja, zlostavljanja i zanemarivanja u ustanovi; 6) ostvaruje neposredan uvid u rad ustanove, odnosno doma učenika, nastavnika, vaspitača, stručnog saradnika i direktora; 7) prisustvuje izvođenju nastave, ispita i drugih oblika obrazovno-vaspitnog rada; 8) prati ostvarivanje ogleda; 9) procenjuje ispunjenost uslova za sticanje zvanja; 10) prati i procenjuje kvalitet rada savetnika - spoljnog saradnika; 11) predlaže ustanovi, ministru i nadležnim organima preduzimanje neophodnih aktivnosti za otklanjanje nedostataka i pokretanje postupka inspekcijskog nadzora, u skladu sa zakonom kojim se uređuje inspekcijski nadzor i zakonom kojim se
-
-- unapređivanje obavljanja obrazovno-vaspitnog, stručnog, odnosno vaspitnog rada, a ukoliko utvrdi nepravilnosti u radu inicira uređuje inspekcijski nadzor u oblasti obrazovanja i vaspitanja.
+Poslove stručno-pedagoškog nadzora vrši prosvetni savetnik.
+Prosvetni savetnik:
+1) vrednuje kvalitet rada ustanove, odnosno doma učenika na osnovu utvrđenih standarda, ostvarivanje razvojnog plana i programa obrazovanja i vaspitanja;
+2) pruža pomoć i podršku samovrednovanju ustanove;
+3) prati poštovanje opštih principa i ostvarivanje ciljeva obrazovanja i vaspitanja;
+4) savetuje i pruža stručnu pomoć nastavniku, vaspitaču, stručnom saradniku i direktoru radi poboljšanja kvaliteta njihovog rada i rada ustanove i ostvarivanja standarda postignuća;
+5) savetuje i pruža stručnu pomoć ustanovi, odnosno domu učenika u obezbeđivanju zaštite dece, učenika i zaposlenih od diskriminacije, nasilja, zlostavljanja i zanemarivanja u ustanovi;
+6) ostvaruje neposredan uvid u rad ustanove, odnosno doma učenika, nastavnika, vaspitača, stručnog saradnika i direktora;
+7) prisustvuje izvođenju nastave, ispita i drugih oblika obrazovno-vaspitnog rada;
+8) prati ostvarivanje ogleda;
+9) procenjuje ispunjenost uslova za sticanje zvanja;
+10) prati i procenjuje kvalitet rada savetnika - spoljnog saradnika;
+11) predlaže ustanovi, ministru i nadležnim organima preduzimanje neophodnih aktivnosti za otklanjanje nedostataka i unapređivanje obavljanja obrazovno-vaspitnog, stručnog, odnosno vaspitnog rada, a ukoliko utvrdi nepravilnosti u radu inicira pokretanje postupka inspekcijskog nadzora, u skladu sa zakonom kojim se uređuje inspekcijski nadzor i zakonom kojim se uređuje inspekcijski nadzor u oblasti obrazovanja i vaspitanja.
 
 #### Uslovi za prosvetnog savetnika
 
@@ -2372,14 +2457,10 @@ Poslove stručno-pedagoškog nadzora vrši prosvetni savetnik. Prosvetni savetni
 
 Poslove prosvetnog savetnika može da obavlja lice koje ima:
 
-- odgovarajuće obrazovanje iz čl. 140. i 142. ovog zakona;
-
-- licencu za nastavnika, vaspitača i stručnog saradnika;
-
-- osam godina rada u oblasti obrazovanja i vaspitanja;
-
-- ostvarene rezultate u razvoju obrazovanja i vaspitanja i stečen profesionalni ugled;
-
+1) odgovarajuće obrazovanje iz čl. 140. i 142. ovog zakona;
+2) licencu za nastavnika, vaspitača i stručnog saradnika;
+3) osam godina rada u oblasti obrazovanja i vaspitanja;
+4) ostvarene rezultate u razvoju obrazovanja i vaspitanja i stečen profesionalni ugled;
 5) stručni rad objavljen u međunarodnim ili domaćim časopisima ili zbornicima sa recenzijom, odnosno odobreni udžbenik, priručnik ili drugo nastavno sredstvo.
 
 Poslove prosvetnog savetnika može da obavlja lice iz stava 1. ovog člana koje položi državni stručni ispit i ispit za prosvetnog savetnika.
@@ -2483,9 +2564,13 @@ po preuzetim međunarodnim obavezama.
 #### Korišćenje podataka
 ##### Član 182
 
-Korisnik svih podataka iz registara iz člana 175. stav 3. ovog zakona je Ministarstvo. Ustanova je korisnik podataka koje unosi u registre i statističkih izveštaja koji proističu iz njih. Roditelj, odnosno drugi zakonski zastupnik deteta i učenika, može dobiti podatke koji se o njegovom detetu, odnosno učeniku vode u registru iz člana 175. stav 3. tačka 2) ovog zakona, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti. Podatke koji se o njemu vode u registru iz člana 175. stav 3. tačka 2) ovog zakona može dobiti i odrasli, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti. Zaposleni u ustanovi može dobiti podatke koji se o njemu vode u registru iz člana 175. stav 3. tačka 3) ovog zakona, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti. Korisnik podataka iz registara iz člana 175. stav 3. ovog zakona može biti i državni i drugi organ i organizacija, kao i pravno i fizičko lice, pod uslovom da je zakonom ili drugim propisima ovlašćeno da traži i prima podatke, da su ti podaci neophodni za izvršenje poslova iz njegove nadležnosti ili služe za potrebe istraživanja, uz obezbeđivanje zaštite podataka o ličnosti. obavlja delatnost u skladu sa zakonom kojim je uređen nacionalni okvir kvalifikacija, uz obezbeđivanje zaštite podataka o
-
-Korisnik podataka iz registara iz člana 175. stav 3. ovog zakona je i agencija nadležna za kvalifikacije koja je osnovana i ličnosti.
+Korisnik svih podataka iz registara iz člana 175. stav 3. ovog zakona je Ministarstvo.
+Ustanova je korisnik podataka koje unosi u registre i statističkih izveštaja koji proističu iz njih.
+Roditelj, odnosno drugi zakonski zastupnik deteta i učenika, može dobiti podatke koji se o njegovom detetu, odnosno učeniku vode u registru iz člana 175. stav 3. tačka 2) ovog zakona, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti.
+Podatke koji se o njemu vode u registru iz člana 175. stav 3. tačka 2) ovog zakona može dobiti i odrasli, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti.
+Zaposleni u ustanovi može dobiti podatke koji se o njemu vode u registru iz člana 175. stav 3. tačka 3) ovog zakona, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti.
+Korisnik podataka iz registara iz člana 175. stav 3. ovog zakona može biti i državni i drugi organ i organizacija, kao i pravno i fizičko lice, pod uslovom da je zakonom ili drugim propisima ovlašćeno da traži i prima podatke, da su ti podaci neophodni za izvršenje poslova iz njegove nadležnosti ili služe za potrebe istraživanja, uz obezbeđivanje zaštite podataka o ličnosti.
+Korisnik podataka iz registara iz člana 175. stav 3. ovog zakona je i agencija nadležna za kvalifikacije koja je osnovana i obavlja delatnost u skladu sa zakonom kojim je uređen nacionalni okvir kvalifikacija, uz obezbeđivanje zaštite podataka o ličnosti.
 
 #### Ažuriranje i čuvanje podataka
 ##### Član 183
@@ -2553,25 +2638,18 @@ Ostvarivanje prihoda, evidentiranje i korišćenje sredstava iz stava 2. ovog č
 
 [[START OF PAGE 69]]
 
-- U budžetu Republike Srbije obezbeđuju se sredstva za sticanje obrazovanja i vaspitanja dece i učenika i odraslih u ustanovi koju osniva Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave.
+U budžetu Republike Srbije obezbeđuju se sredstva za sticanje obrazovanja i vaspitanja dece i učenika i odraslih u ustanovi koju osniva Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave.
 
-- U budžetu Republike Srbije obezbeđuju se sredstva za:
+U budžetu Republike Srbije obezbeđuju se sredstva za:
 
-- ostvarivanje pripremnog predškolskog programa u godini pred polazak u školu u trajanju od četiri sata, u sedištu i van sedišta ustanove;
-
-- ostvarivanje predškolskog programa za rad sa decom sa smetnjama u razvoju i invaliditetom;
-
-- ostvarivanje predškolskog programa za rad sa decom na bolničkom lečenju;
-
-- plate, naknade i dodatke zaposlenih u osnovnim i srednjim školama, doprinose za obavezno socijalno osiguranje i otpremnine;
-
-- plaćanja po osnovu izvršnih presuda donetih u radnopravnim sporovima pred nadležnim sudovima u vezi sa stavom 2. tačka 4) ovog člana;
-
-- razvojne programe i projekte ustanova, kao i učešće Republike Srbije u oblasti investicija, stručnog usavršavanja zaposlenih i takmičenja učenika na republičkom i međunarodnom nivou, u skladu sa utvrđenim sredstvima, a prema programima i kriterijumima koje propisuje ministar;
-
-- rad škola od posebnog interesa za Republiku Srbiju, koje odredi Vlada;
-
-- podršku posebno talentovanim učenicima u vidu bespovratne novčane pomoći koju ministar propisuje posebnim aktom svake godine.
+1) ostvarivanje pripremnog predškolskog programa u godini pred polazak u školu u trajanju od četiri sata, u sedištu i van sedišta ustanove;
+2) ostvarivanje predškolskog programa za rad sa decom sa smetnjama u razvoju i invaliditetom;
+3) ostvarivanje predškolskog programa za rad sa decom na bolničkom lečenju;
+4) plate, naknade i dodatke zaposlenih u osnovnim i srednjim školama, doprinose za obavezno socijalno osiguranje i otpremnine;
+5) plaćanja po osnovu izvršnih presuda donetih u radnopravnim sporovima pred nadležnim sudovima u vezi sa stavom 2. tačka 4) ovog člana;
+6) razvojne programe i projekte ustanova, kao i učešće Republike Srbije u oblasti investicija, stručnog usavršavanja zaposlenih i takmičenja učenika na republičkom i međunarodnom nivou, u skladu sa utvrđenim sredstvima, a prema programima i kriterijumima koje propisuje ministar;
+7) rad škola od posebnog interesa za Republiku Srbiju, koje odredi Vlada;
+8) podršku posebno talentovanim učenicima u vidu bespovratne novčane pomoći koju ministar propisuje posebnim aktom svake godine.
 
 Na utvrđivanje i obračun plata, naknada i dodataka zaposlenih u ustanovi primenjuju se propisi kojima se uređuju plate i naknade i druga primanja zaposlenih u javnim službama.
 
@@ -2587,9 +2665,17 @@ U budžetu autonomne pokrajine obezbeđuju se sredstva za rad ustanove, za deo e
 
 ##### Član 189
 
-- U budžetu jedinice lokalne samouprave obezbeđuju se sredstva za: 1) ostvarivanje delatnosti predškolskog vaspitanja i obrazovanja (poludnevni i celodnevni boravak, ishrana, nega i preventivna zaštita dece predškolskog uzrasta) u visini do 80% od ekonomske cene po detetu, uključujući u celosti sredstva za plate, naknade i druga primanja, socijalne doprinose na teret poslodavca, otpremnine, kao i pomoć zaposlenima u predškolskoj ustanovi, rashode za pripremni predškolski program osim onih za koje se sredstva obezbeđuju u budžetu Republike Srbije i ostale tekuće rashode; 2) ostvarivanje dodatne podrške detetu i učeniku u skladu sa mišljenjem Interresorne komisije, osim onih za koje se sredstva obezbeđuju u budžetu Republike Srbije; 3) stručno usavršavanje zaposlenih; 4) jubilarne nagrade i pomoć zaposlenima u osnovnoj i srednjoj školi; 5) prevoz: dece i njihovih pratilaca radi pohađanja pripremnog predškolskog programa na udaljenosti većoj od dva kilometra, učenika osnovne škole na udaljenosti većoj od četiri kilometra od sedišta škole; prevoz, smeštaj i ishranu dece i učenika sa smetnjama u razvoju i invaliditetom i njihovih pratilaca, bez obzira na udaljenost mesta stanovanja od škole; prevoz dece i učenika koji imaju prebivalište na teritoriji jedinice lokalne samouprave na udaljenosti većoj od četiri kilometra od sedišta škole i u slučajevima kada učenici osnovne škole pohađaju školu na teritoriji druge jedinice lokalne samouprave - ako je škola koju pohađaju najbliža mestu prebivališta učenika; prevoz učenika na republička i međunarodna takmičenja; 6) prevoz zaposlenih; 7) kapitalne izdatke; 8) zaštitu i bezbednost dece i učenika, u skladu sa propisanim merama iz člana 108. ovog zakona; 9) druge tekuće rashode, osim onih za koje se sredstva obezbeđuju u budžetu Republike Srbije;
-
-- plaćanja po osnovu izvršnih presuda donetih pred nadležnim sudovima u sporovima u vezi sa ovim članom.
+U budžetu jedinice lokalne samouprave obezbeđuju se sredstva za:
+1) ostvarivanje delatnosti predškolskog vaspitanja i obrazovanja (poludnevni i celodnevni boravak, ishrana, nega i preventivna zaštita dece predškolskog uzrasta) u visini do 80% od ekonomske cene po detetu, uključujući u celosti sredstva za plate, naknade i druga primanja, socijalne doprinose na teret poslodavca, otpremnine, kao i pomoć zaposlenima u predškolskoj ustanovi, rashode za pripremni predškolski program osim onih za koje se sredstva obezbeđuju u budžetu Republike Srbije i ostale tekuće rashode;
+2) ostvarivanje dodatne podrške detetu i učeniku u skladu sa mišljenjem Interresorne komisije, osim onih za koje se sredstva obezbeđuju u budžetu Republike Srbije;
+3) stručno usavršavanje zaposlenih;
+4) jubilarne nagrade i pomoć zaposlenima u osnovnoj i srednjoj školi;
+5) prevoz: dece i njihovih pratilaca radi pohađanja pripremnog predškolskog programa na udaljenosti većoj od dva kilometra, učenika osnovne škole na udaljenosti većoj od četiri kilometra od sedišta škole; prevoz, smeštaj i ishranu dece i učenika sa smetnjama u razvoju i invaliditetom i njihovih pratilaca, bez obzira na udaljenost mesta stanovanja od škole; prevoz dece i učenika koji imaju prebivalište na teritoriji jedinice lokalne samouprave na udaljenosti većoj od četiri kilometra od sedišta škole i u slučajevima kada učenici osnovne škole pohađaju školu na teritoriji druge jedinice lokalne samouprave - ako je škola koju pohađaju najbliža mestu prebivališta učenika; prevoz učenika na republička i međunarodna takmičenja;
+6) prevoz zaposlenih;
+7) kapitalne izdatke;
+8) zaštitu i bezbednost dece i učenika, u skladu sa propisanim merama iz člana 108. ovog zakona;
+9) druge tekuće rashode, osim onih za koje se sredstva obezbeđuju u budžetu Republike Srbije;
+10) plaćanja po osnovu izvršnih presuda donetih pred nadležnim sudovima u sporovima u vezi sa ovim članom.
 
 #### Obezbeđivanje sredstava za viši kvalitet obrazovanja
 
@@ -2611,31 +2697,19 @@ Sredstva iz stava 1. ovog člana koriste se za poboljšanje uslova obrazovanja i
 
 Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj ustanova ako:
 
-- ne upiše dete u predškolsku ustanovu, odnosno osnovnu školu radi pohađanja pripremnog predškolskog programa (član 17);
-
-- ne upiše dete u osnovnu školu (član 18);
-
-- ne donese razvojni plan i godišnji plan rada u roku propisanom ovim zakonom ili ih ne primenjuje (čl. 50. i 62);
-
+1) ne upiše dete u predškolsku ustanovu, odnosno osnovnu školu radi pohađanja pripremnog predškolskog programa (član 17);
+2) ne upiše dete u osnovnu školu (član 18);
+3) ne donese razvojni plan i godišnji plan rada u roku propisanom ovim zakonom ili ih ne primenjuje (čl. 50. i 62);
 4) sprovodi ogled bez odobrenja ministra ili vrši statusne promene za vreme ogleda, suprotno članu 51. ovog zakona;
-
 5) ne donese blagovremeno, odnosno ne ostvaruje program obrazovanja i vaspitanja ili ne preduzima mere za ostvarivanje principa, ciljeva i standarda postignuća (čl. 56, 58, 60-62, 65, 68. i 69);
-
 6) ne donese ili ne ostvaruje individualni obrazovni plan (član 76);
-
 7) ne propiše način i postupak za zaštitu i bezbednost dece, odnosno učenika (član 108);
-
-- ne preduzima ili neblagovremeno preduzima odgovarajuće mere u slučajevima povreda zabrana iz čl. 110. i 111. ovog zakona i težih povreda radnih obaveza zaposlenih;
-
-- dozvoli stranačko organizovanje ili delovanje u ustanovi i korišćenje prostora ustanove u te svrhe suprotno članu 113. ovog zakona;
-
-- primi u radni odnos zaposlenog koji ne ispunjava uslove iz čl. 139-145. ovog zakona ili na način i po postupku, suprotno čl. 152-155. ovog zakona;
-
-- ne dostavi Ministarstvu sve podatke u vezi sa licencom nastavnika, vaspitača i stručnog saradnika iz čl. 149. i 150. ovog zakona;
-
-- ne udalji sa rada zaposlenog zbog učinjene teže povrede radne obaveze (član 163);
-
-- zaključi ugovor o izvođenju nastave suprotno članu 158. ovog zakona.
+8) ne preduzima ili neblagovremeno preduzima odgovarajuće mere u slučajevima povreda zabrana iz čl. 110. i 111. ovog zakona i težih povreda radnih obaveza zaposlenih;
+9) dozvoli stranačko organizovanje ili delovanje u ustanovi i korišćenje prostora ustanove u te svrhe suprotno članu 113. ovog zakona;
+10) primi u radni odnos zaposlenog koji ne ispunjava uslove iz čl. 139-145. ovog zakona ili na način i po postupku, suprotno čl. 152-155. ovog zakona;
+11) ne dostavi Ministarstvu sve podatke u vezi sa licencom nastavnika, vaspitača i stručnog saradnika iz čl. 149. i 150. ovog zakona;
+12) ne udalji sa rada zaposlenog zbog učinjene teže povrede radne obaveze (član 163);
+13) zaključi ugovor o izvođenju nastave suprotno članu 158. ovog zakona.
 
 Novčanom kaznom od 25.000 do 100.000 dinara za prekršaj iz ovog člana kazniće se i direktor, odnosno odgovorno lice ustanove.
 
@@ -2673,9 +2747,9 @@ Novčanom kaznom od 500.000 do 1.000.000 dinara kazniće se za prekršaj zavod a
 
 ##### Član 197
 
-Vlada će imenovati članove Nacionalnog prosvetnog saveta i Saveta za stručno obrazovanje i obrazovanje odraslih u skladu Danom imenovanja članova Nacionalnog prosvetnog saveta i Saveta za stručno obrazovanje i obrazovanje odraslih u skladu
+Vlada će imenovati članove Nacionalnog prosvetnog saveta i Saveta za stručno obrazovanje i obrazovanje odraslih u skladu sa odredbama ovog zakona u roku od godinu dana od dana stupanja na snagu ovog zakona.
 
-sa odredbama ovog zakona u roku od godinu dana od dana stupanja na snagu ovog zakona. sa odredbama ovog zakona, prestaje mandat članovima Nacionalnog prosvetnog saveta i Saveta za stručno obrazovanje i obrazovanje odraslih izabranih, odnosno imenovanih po propisima koji su važili do stupanja na snagu ovog zakona.
+Danom imenovanja članova Nacionalnog prosvetnog saveta i Saveta za stručno obrazovanje i obrazovanje odraslih u skladu sa odredbama ovog zakona, prestaje mandat članovima Nacionalnog prosvetnog saveta i Saveta za stručno obrazovanje i obrazovanje odraslih izabranih, odnosno imenovanih po propisima koji su važili do stupanja na snagu ovog zakona.
 ##### Član 198
 Vlada će, u roku od godinu dana od dana stupanja na snagu ovog zakona, utvrditi kriterijume za donošenje mreže srednjih škola i doneti akt o mreži srednjih škola. Vlada će, u roku od šest meseci od dana stupanja na snagu ovog zakona, utvrditi kriterijume za donošenje mreže predškolskih ustanova i osnovnih škola. Jedinica lokalne samouprave će, u roku od godinu dana od dana utvrđivanja kriterijuma iz stava 2. ovog člana, doneti akt o mreži predškolskih ustanova i osnovnih škola.
 ##### Član 199
@@ -2695,7 +2769,7 @@ Zvanje pedagoškog savetnika i višeg pedagoškog savetnika koje je stekao nasta
 
 februara 1990. godine, na osnovu Zakona o stalnom stručnom usavršavanju nastavnog i vaspitnog osoblja ("Službeni glasnik SRS", br. 47/78 - prečišćeni tekst, 16/79 i 43/84) izjednačava se zvanjem pedagoškog savetnika, odnosno višeg pedagoškog savetnika, iz člana 151. ovog zakona. Odredbe člana 151. stav 3. ovog zakona primenjuju se danom stupanja na snagu propisa kojim se utvrđuju koeficijenti na osnovu stečenog zvanja.
 ##### Član 206
-Nastavnici, vaspitači i stručni saradnici koji obavljaju obrazovno-vaspitni rad u školi, a koji su ispunjavali uslove u pogledu stepena i vrste obrazovanja po propisima koji su važili prilikom prijema u radni odnos, mogu i dalje da obavljaju obrazovnovaspitni rad u školi i mogu biti preuzeti, u smislu ovog zakona. Zaposlenom koji je neraspoređen u smislu ovog zakona, a nije preuzet sa liste do 1. decembra 2017. godine, radni odnos prestaje do 31. decembra 2017. godine. Zaposleni iz stava 2. ovog člana, ostvaruje pravo na otpremninu na način propisan zakonom kojim se uređuje način utvrđivanja maksimalnog broja zaposlenih u javnom sektoru.
+Nastavnici, vaspitači i stručni saradnici koji obavljaju obrazovno-vaspitni rad u školi, a koji su ispunjavali uslove u pogledu stepena i vrste obrazovanja po propisima koji su važili prilikom prijema u radni odnos, mogu i dalje da obavljaju obrazovno-vaspitni rad u školi i mogu biti preuzeti, u smislu ovog zakona. Zaposlenom koji je neraspoređen u smislu ovog zakona, a nije preuzet sa liste do 1. decembra 2017. godine, radni odnos prestaje do 31. decembra 2017. godine. Zaposleni iz stava 2. ovog člana, ostvaruje pravo na otpremninu na način propisan zakonom kojim se uređuje način utvrđivanja maksimalnog broja zaposlenih u javnom sektoru.
 ##### Član 207
 Smatra se da licencu ima lice koje je položilo stručni ispit u oblasti obrazovanja, a 25. juna 2003. godine nije bilo u radnom odnosu u ustanovi. Smatra se da licencu ima nastavnik, vaspitač i stručni saradnik koji je 25. juna 2003. godine bio u radnom odnosu u ustanovi, a imao je prekid radnog odnosa posle ovog datuma, i položio stručni ispit u oblasti obrazovanja do 25. juna 2005. godine. Smatra se da licencu ima pripravnik - volonter koji se godinu dana osposobljavao za samostalan obrazovno-vaspitni rad u ustanovi i koji je položio stručni ispit u oblasti obrazovanja do 25. juna 2005. godine. Nastavniku, vaspitaču i stručnom saradniku koji je pre zasnivanja radnog odnosa u ustanovi u Republici Srbiji položio stručni ispit u oblasti obrazovanja po propisima Republike Crne Gore, položeni stručni ispit priznaje se kao licenca, ako je taj ispit položen do 16. juna 2006. godine. Nastavniku, vaspitaču i stručnom saradniku koji je pre zasnivanja radnog odnosa u ustanovi u Republici Srbiji položio stručni ispit u oblasti obrazovanja i vaspitanja po propisima Republike Srpske, položeni stručni ispit priznaje se kao licenca, ako je taj ispit položen u vreme kada je nastavnik, vaspitač i stručni saradnik bio u radnom odnosu u Republici Srpskoj. Stručnom saradniku - bibliotekaru koji nema položen stručni ispit u oblasti obrazovanja, a ima položen ispit u oblasti bibliotekarstva, na ispitu za licencu priznaje se odgovarajući deo položenog ispita. Stručnom saradniku - bibliotekaru koji je prvi put zasnovao radni odnos u ustanovi posle 25. juna 2003. godine i položio stručni ispit u oblasti bibliotekarstva, na ispitu za licencu ne priznaje se odgovarajući deo položenog ispita. Nastavnik, vaspitač i stručni saradnik koji je prvi put zasnovao radni odnos u ustanovi posle 25. juna 2003. godine i koji je položio stručni ispit u oblasti obrazovanja do 25. juna 2005. godine, smatra se da nema licencu. Pripravnik - volonter koji je angažovan u ustanovi posle 25. juna 2003. godine i koji je položio stručni ispit u oblasti obrazovanja do 25. juna 2005. godine, smatra se da nema licencu. Nastavnik sa stečenim specijalističkim strukovnim studijama drugog stepena koji je ispunjavao uslove i zasnovao radni odnos u ustanovi do stupanja na snagu ovog zakona, smatra se da ispunjava uslove iz člana 140. ovog zakona.
 ##### Član 208
