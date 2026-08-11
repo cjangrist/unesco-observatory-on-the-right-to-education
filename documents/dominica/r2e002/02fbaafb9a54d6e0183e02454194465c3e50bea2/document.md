@@ -6,7 +6,7 @@ MINISTRY OF EDUCATION, HUMAN RESOURCE DEVELOPMENT, SPORTS AND YOUTH AFFAIRS
 
 DIVISION OF EDUCATION
 
-# S ST TR RA AT TE EG GY Y   F FO OR R   I IM MP PL LE EM ME EN NT TI IN NG G T TH HE E N NA AT TI IO ON NA AL L   I IC CT T I IN N   E ED DU UC CA AT TI IO ON N   P PO OL LI IC CY Y I IN N T TH HE E   C CO OM MM MO ON NW WE EA AL LT TH H   O OF F   D DO OM MI IN NI IC CA A 2 20 00 04 4   -   2 20 00 09 9
+# STRATEGY FOR IMPLEMENTING THE NATIONAL ICT IN EDUCATION POLICY IN THE COMMONWEALTH OF DOMINICA 2004 - 2009
 
 FIRST DRAFT
 
@@ -20,11 +20,44 @@ MARCH 2004
 
 [[START OF PAGE 2]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 ii
 
 ## TABLE OF CONTENTS
+
+Abbreviations ....................................................................................................................................iii
+Rationale and Background ..............................................................................................................1
+1.0. Introduction .......................................................................................................................................4
+    1.1 Strategic Planning for ICT in Education ....................................................................................4
+    1.2 Status of ICT in Education in the Commonwealth of Dominica .............................................5
+    1.3 Note on the Presentation ............................................................................................................7
+3.0 Vision and Mission Statements ........................................................................................................9
+    3.2 Vision ..........................................................................................................................................9
+    3.2 Mission Statement .....................................................................................................................9
+4.0 Flagstone Targets ..............................................................................................................................9
+5.0 Underlying Philosophy ....................................................................................................................10
+6.0 Objectives .........................................................................................................................................10
+7.0 Strategy for the Implementation of ICT’s into the Education System .......................................12
+    7.1 Planning and Preparation for ICT Initiatives .........................................................................12
+    7.2 Infrastructure and Readiness .................................................................................................14
+    7.3 Training .....................................................................................................................................16
+    7.4 Utilising ICT in the Curriculum ...............................................................................................17
+    7.5 Utilising ICT in Administration ...............................................................................................19
+    7.6 Sustainability, Maintenance and Support .............................................................................20
+    7.7 Evaluating ICT Initiatives ........................................................................................................23
+8.0 Annual Targets ................................................................................................................................24
+    8.1 Targets for 2004-2005 ...............................................................................................................24
+    8.2 Targets for 2005-2006 ...............................................................................................................24
+    8.3 Targets for 2006-2007 ...............................................................................................................25
+    8.4 Targets for 2007-2008 ...............................................................................................................25
+    8.5 Targets for 2008-2009 ...............................................................................................................25
+9.0 Action Plan 2004-2005 .....................................................................................................................26
+10.0 References ........................................................................................................................................40
+Appendix I: Suggested Organisation Structure for Planning/Management of ICT in Educ...42
+Appendix II: Recommended Specifications for Computer Workstations .........................................44
+Appendix III: Regulatory Statements ....................................................................................................43
+Appendix IV: OERU Strategies for Information and Communications Technology .........................46
 
 Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
@@ -79,7 +112,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 4]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 1
 
@@ -91,9 +124,9 @@ Information and Communication Technology (ICT) permeates the business environmen
 
 The Ministry of Education, Youth Affairs , Sports and Human Resource Development (MoEYAS&HRD) of the Government of the Commonwealth of Dominica, recognizing the sagacity of embracing the opportunities for economic development afforded by an ICT-competent populace, has taken upon itself the imperatives identified by UNESCO in this capstone document.  In its thrust to implement education reform in all of its forms, ICT is considered to be one of the pillars upon which quality education for all can indeed become a reality, because of its unique capacity for bringing the world to even the most remote and disadvantaged of communities.
 
-The Holmes Report 2  identifies that 'at all levels, there is a keen interest in information technology.  Both government and the private sector are committed to the view that the information technology industry is the primary option for economic transformation especially in light of the daunting prospects for the banana industry.' An ICT sub-sector is a viable option viewed by many as a suitable economic alternative that is non-threatening to our eco-environment, while giving us an edge in the knowledge and service industries.  This requires an ICT aware, ICT skilled and ICT competent public and workforce, hence the imperative of the expeditious deployment of ICT education in our education system.
+The Holmes Report 2 identifies that “at all levels, there is a keen interest in information technology. Both government and the private sector are committed to the view that the information technology industry is the primary option for economic transformation especially in light of the daunting prospects for the banana industry.” An ICT sub-sector is a viable option viewed by many as a suitable economic alternative that is non-threatening to our eco-environment, while giving us an edge in the knowledge and service industries. This requires an ICT aware, ICT skilled and ICT competent public and workforce, hence the imperative of the expeditious deployment of ICT education in our education system.
 
-In July 1991, the Consultation on Education Reform of the Organization of Eastern Caribbean States (OECS) as part of its recommendations, proposed that member states 'commission a study to determine the worthiness of establishing a centralized unit to ensure the appropriate use of the media and new technologies for educational purposes' 3 .  This was in recognition of the fact that information and communications technologies were infiltrating our schools, and that a strategic approach to its implementation was needed if it were to be an economically viable as well as effective addition to the education system.
+In July 1991, the Consultation on Education Reform of the Organization of Eastern Caribbean States (OECS) as part of its recommendations, proposed that member states “commission a study to determine the worthiness of establishing a centralized unit to ensure the appropriate use of the media and new technologies for educational purposes” 3. This was in recognition of the fact that information and communications technologies were infiltrating our schools, and that a strategic approach to its implementation was needed if it were to be an economically viable as well as effective addition to the education system.
 
 > 1  Haddad, Wadi, and Draxler, A. (Eds.) (2002) Technologies for Education - Potentials, Parameters and Prospects . UNESCO/AED: Paris/Washington DC.
 
@@ -107,13 +140,13 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 5]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 2
 
-In December 2000, the OERU in its review and update of its Education Reform Strategy, reiterated and emphasized its belief that 'information and communications technology skills can be effectively applied to modernize and enhance teaching, learning and management, mobilize new support for education and provide the infrastructure for regional collaboration, cooperation and the pooling of resources to unprecedented levels.' 4 Pillars for Partnership and Progress - the document coming out of that review - among its many recommendations, provided a recommended strategy framework for the further pursuance of this ideal, and in July 2001, the development of a model policy document for the integration of information and communication technology (ICT) into education systems of the OECS sub region was completed. This model policy document was finalised after a series of review and refinement exercises involving a number key educators from the various islands in the sub region 5 .
+In December 2000, the OERU in its review and update of its Education Reform Strategy, reiterated and emphasized its belief that “information and communications technology skills can be effectively applied to modernize and enhance teaching, learning and management, mobilize new support for education and provide the infrastructure for regional collaboration, cooperation and the pooling of resources to unprecedented levels.” 4 Pillars for Partnership and Progress - the document coming out of that review - among its many recommendations, provided a recommended strategy framework for the further pursuance of this ideal, and in July 2001, the development of a model policy document for the integration of information and communication technology (ICT) into education systems of the OECS sub region was completed. This model policy document was finalised after a series of review and refinement exercises involving a number key educators from the various islands in the sub region 5.
 
-The MOEYAS&HRD's Education Development Plan (EDP), in pursuit of a vision of 'Education for All', committed itself  to  pursuing  an  environment  where  'all students will attend schools which effectively use technology as  a resource  to  support  student  learning  and  improve  operational  efficiency.'  Indeed,  one  of  the  priorities  later identified was 'ensuring computer literacy in schools.' 6   In keeping with this, the OERU's Model Policy Document has since been customized and fine-tuned to suit our national needs, and the National Policy on ICT in Education in  the  Commonwealth  of  Dominica  was  approved  and  adopted  in  February  2004  after  a  long  process  of consultation and review.
+The MOEYAS&HRD's Education Development Plan (EDP), in pursuit of a vision of “Education for All”, committed itself to pursuing an environment where “all students will attend schools which effectively use technology as a resource to support student learning and improve operational efficiency.” Indeed, one of the priorities later identified was “ensuring computer literacy in schools.” 6 In keeping with this, the OERU's Model Policy Document has since been customized and fine-tuned to suit our national needs, and the National Policy on ICT in Education in the Commonwealth of Dominica was approved and adopted in February 2004 after a long process of consultation and review.
 
 Meanwhile, the OERU, in its continuing supportive role, had gone ahead and prepared a strategic framework for the  implementation  of  ICT  policies  in  education  through  a  consultancy  assignment.    Completed  in  December 2002, the consultant was required to:
 
@@ -123,7 +156,7 @@ Meanwhile, the OERU, in its continuing supportive role, had gone ahead and prepa
 
 - devise strategies for implementing the key policies
 
-In  February  2004,  the  Technical  Advisory  Committee  (TAC)  for  ICT  in  education  extensively  reviewed  the strategic  framework  produced  by  the  consultant  at  its  annual  meeting.  The  committee  included  proposed timelines for the various activities based on the premise that the strategic plan was intended for a five-year period beginning April 2004.
+In February 2004, the Technical Advisory Committee (TAC) for ICT in education extensively reviewed the strategic framework produced by the consultant at its annual meeting. The committee included proposed
 
 > 4  OERU (2000). Pillars for Partnership and Progress . OERU, Castries.
 
@@ -137,9 +170,11 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 6]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 3
+
+timelines for the various activities based on the premise that the strategic plan was intended for a five-year period beginning April 2004.
 
 Simultaneously with the release of this latest document, the MOEYAS&HRD requested that the Strategic Plan for Implementation of ICT's in the Education System of the Commonwealth of Dominica be produced, to provide an immediately implementable framework for the National Policy on ICT in Education recently adopted.
 
@@ -151,7 +186,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 7]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 4
 
@@ -161,7 +196,7 @@ S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na a
 
 The  National  ICT  Policy  document  acknowledges  that  there  has  been  a  global  shift  from  industries based on natural resource products towards those based on knowledge and human resource intensive goods and services. Consequently, countries with educational systems that have been effective in the development of the human resource capacity and skills needed for this industrial shift have been more progressive,  particularly  in  the  global  market  environment  being  promoted  by  the  World  Trade Organisation  (WTO).    ICT  has  been  one  of  the  main  areas  on  which  education  systems  in  these countries have placed significant focus.
 
-The  Report  of  the  International  Commission  on  Education  for  the  21 st   Century  identifies  a  range  of 'Education Tensions' that exist at the turn of the century.  These include global vs local, universal vs individual, spiritual vs material,  tradition vs modernity, need for competition vs concern for equality of opportunity, extraordinary expansion of knowledge vs human being's capacity to assimilate it 7 .  Much of these  tensions  have  been  exacerbated  by  the  insidious  presence  and  impact  of  ICT's,  and  so  our education system has explored a variety of avenues for  developing expertise in ICT, towards the end of harnessing  its  vast  potential  for  enhancing  education  administration  and  for  improving  teaching  and learning processes.
+The Report of the International Commission on Education for the 21 st Century identifies a range of “Education Tensions” that exist at the turn of the century. These include global vs local, universal vs individual, spiritual vs material, tradition vs modernity, need for competition vs concern for equality of opportunity, extraordinary expansion of knowledge vs human being's capacity to assimilate it 7. Much of these tensions have been exacerbated by the insidious presence and impact of ICT's, and so our education system has explored a variety of avenues for developing expertise in ICT, towards the end of harnessing its vast potential for enhancing education administration and for improving teaching and learning processes.
 
 Notwithstanding the tremendous possibilities and benefits offered by ICT, there is a multitude of issues to be addressed in successfully integrating ICT into the education system. ICT, like any powerful tool, can do as much harm as good. Bad pedagogy implemented on a computer may have its harmful effects multiplied many fold by the power of the technology. Further, the introduction and sustainability of ICT in the education system can be very expensive, both in economic and human terms.
 
@@ -173,7 +208,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 8]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 5
 
@@ -199,13 +234,13 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 9]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 6
 
 All  offices  of  the  MoEYAS&HRD  are  equipped  with  computers  and  a  variety  of  related peripherals.  The ESTB is now being provided with a high capacity network, including a 256K broadband Internet feed, and plans are underway for establishing a similar network at GHQ.
 
-In total, there are 180 computers located at 15 secondary schools, 36% of which are more than 5 years old, and 53% are 2 to 5 years old. 12 of the secondary schools are served by peer-topeer networks and one client-server network.  There are 181 computers located at 42 of the 64 primary  schools  on  the  island,  75%  of  which  are  more  than  5  years  old.    11  of  the  primary schools have peer-to-peer networks installed. Networks are used for file, printer and Internet sharing services.  The computer to student ratio at secondary school is therefore 1:38, while that at primary schools is 1: 58.
+In total, there are 180 computers located at 15 secondary schools, 36% of which are more than 5 years old, and 53% are 2 to 5 years old. 12 of the secondary schools are served by peer-to-peer networks and one client-server network. There are 181 computers located at 42 of the 64 primary schools on the island, 75% of which are more than 5 years old. 11 of the primary schools have peer-to-peer networks installed. Networks are used for file, printer and Internet sharing services. The computer to student ratio at secondary school is therefore 1:38, while that at primary schools is 1: 58.
 
 #### 1.2.2  Human Resource Capacity:
 
@@ -221,7 +256,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 10]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 7
 
@@ -245,7 +280,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 11]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 8
 
@@ -261,7 +296,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 12]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 9
 
@@ -317,7 +352,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 13]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 10
 
@@ -359,7 +394,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 14]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 11
 
@@ -397,7 +432,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 15]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 12
 
@@ -437,7 +472,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 16]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 13
 
@@ -481,7 +516,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 17]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 14
 
@@ -527,7 +562,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 18]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 15
 
@@ -573,7 +608,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 19]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 16
 
@@ -615,7 +650,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 20]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 17
 
@@ -643,7 +678,7 @@ The Ministry of Education recognizes that:
 
 - Accessibility  to  and  utilization  of  knowledge  are  fundamental  to  the  development  of  the country's citizenry;
 
-- In  light  of  the  growing  impact  of  advanced  Information  and  Communication  Technologies (ICTs) on the economy of the country, each student must be provided with access to up-todate computer-based tools so as to make a valid contribution to society;
+- In light of the growing impact of advanced Information and Communication Technologies (ICTs) on the economy of the country, each student must be provided with access to up-to-date computer-based tools so as to make a valid contribution to society;
 
 - The integration of ICT in the education system can eventually boost the economic engine of the country because courseware developed by local educators can be exported;
 
@@ -663,7 +698,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 21]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 18
 
@@ -707,7 +742,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 22]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 19
 
@@ -749,7 +784,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 23]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 20
 
@@ -799,7 +834,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 24]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 21
 
@@ -839,7 +874,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 25]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 22
 
@@ -881,7 +916,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 26]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 23
 
@@ -891,11 +926,11 @@ S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na a
 
 The Ministry of Education recognises that:
 
-- It is necessary to perform ongoing evaluation of the extent and impact of the implementation of the strategies in the ICT plan.
+1. It is necessary to perform ongoing evaluation of the extent and impact of the implementation of the strategies in the ICT plan.
 
-- Review and revision of ICT policy and practice keeps the process more current and incisive.
+2. Review and revision of ICT policy and practice keeps the process more current and incisive.
 
-- Continuous Research in ICT related issues is necessary, given the volatile and ever-changing nature of modern technology
+3. Continuous Research in ICT related issues is necessary, given the volatile and ever-changing nature of modern technology
 
 #### Strategy 19: Encourage and support research on and evaluation of the impact of ICT in the education system.
 
@@ -921,7 +956,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 27]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 24
 
@@ -935,7 +970,7 @@ S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na a
 
 - UNDERTAKE RESEARCH INTO WIDE AREA NETWORK IMPLEMENTATION
 
-- REVIEW NATIONAL CURRICULA T INCLUDE ICTS
+- REVIEW NATIONAL CURRICULA TO INCLUDE ICTS
 
 - PROVIDE INITIAL TRAINING FOR ALL PERSONNEL
 
@@ -963,7 +998,7 @@ S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na a
 
 - REVIEW YEAR I ACTIVITIES
 
-- BEGIN PROCESS OF EMI S SELECTION
+- BEGIN PROCESS OF EMIS SELECTION
 
 - HOST REGIONAL ICT IN EDUCATION CONFERENCE
 
@@ -973,7 +1008,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 28]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 25
 
@@ -1033,7 +1068,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 29]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 26
 
@@ -1041,31 +1076,31 @@ S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na a
 
 ### 9.1 NOTES
 
-- Training Workshop participation is costed at EC$ 25.00 per participant per day, representing the mean cost of transportation and a mid-morning snack.
+1. Training Workshop participation is costed at EC$ 25.00 per participant per day, representing the mean cost of transportation and a mid-morning snack.
 
-- Dates cites in 'BY WHEN' field represent terminal dates for activities.
+2. Dates cites in “BY WHEN” field represent terminal dates for activities.
 
-- Costing for school upgrades include all or some of the following, as needs dictate:
+3. Costing for school upgrades include all or some of the following, as needs dictate:
 
-- infrastructural works
+a. infrastructural works
 
-- furniture
+b. furniture
 
-- basic equipment
+c. basic equipment
 
-- air conditioning
+d. air conditioning
 
-- security
+e. security
 
-- The following are also assumed:
+4. The following are also assumed:
 
-- The ICT Department will be appropriately staffed to enable it to undertake the massive coordination that will be required to execute this Action Plan.
+a. The ICT Department will be appropriately staffed to enable it to undertake the massive coordination that will be required to execute this Action Plan.
 
-- Leave of absence will be permitted for teachers selected to serve on committees to attend meetings/training sessions.
+b. Leave of absence will be permitted for teachers selected to serve on committees to attend meetings/training sessions.
 
-- Funding mechanisms will be provided for implementation of the plan.
+c. Funding mechanisms will be provided for implementation of the plan.
 
-- All parties concerned will give their full cooperation.
+d. All parties concerned will give their full cooperation.
 
 Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
@@ -1073,7 +1108,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 30]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 27
 
@@ -1089,7 +1124,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 31]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 28
 
@@ -1103,7 +1138,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 32]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 29
 
@@ -1118,7 +1153,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 33]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 30
 
@@ -1133,7 +1168,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 34]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 31
 
@@ -1148,14 +1183,14 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 35]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 32
 
 STRATEGY | ACTIVITY | BY WHOM | INDICATOR | SOURCE OF VERIFICATION | BY WHEN | COST | EXPECTED RESULTS
 --- | --- | --- | --- | --- | --- | --- | ---
 Strategy 8 : Provide training for principals of schools in management of technology, and ICT as a managerial tool . | 8.1 Review of competencies of school principals and administrative staff in ICT management and use of ICTs for management. 8.2 Source training opportunities in ICT management and use for principals and administrative staff. | ICT Dept., Principals, DEOs HR Department, ICT Dept., Establishment Training Unit | Review completed Training opportunities identified and promoted | Review document Quarterly report of ICT Dept. Promotional material circulated to beneficiaries | Apr 05 Ongoing | 0.00 0.00 | Informed, data-driven decision- making. Availability of online data that can be used for research purposes. Enhancement in the quality of work being produced. Increase in the efficiency of performing routine administrative functions.
-Strategy 9 : Provide opportunities/support for higher level training for educators in advanced areas of ICT . | 9.1 Compile a database/inventory of ICT competencies among MOEYAS&HRD staff including school personnel and Committee members. 9.2 Identify personnel with aptitude/desire to pursue higher level training in ICT. 9.3 Seek opportunities and/or support for higher level ICT training for selected personnel particularly in key areas of need. | ICT Dept., NSC ICT Dept., NSC ICT Dept., HR Department, Establishment Training Unit | Database compiled and regularly updated Personnel identified and categorized Training opportunities identified and promoted | Database on assigned computer(s) Database on assigned computer(s) Quarterly report of ICT Dept.; Promotional material circulated to | Dec 04 Ongoing Ongoing | 0.00 0.00 0.00 | Higher-level educators are trained and competent at ICT and its management. Better informed leadership and decision-making at upper levels of education management.
+Strategy 9 : Provide opportunities/support for higher level training for educators in advanced areas of ICT . | 9.1 Compile a database/inventory of ICT competencies among MOEYAS&HRD staff including school personnel and Committee members. 9.2 Identify personnel with aptitude/desire to pursue higher level training in ICT. 9.3 Seek opportunities and/or support for higher level ICT training for selected personnel particularly in key areas of need. | ICT Dept., NSC ICT Dept., NSC ICT Dept., HR Department, Establishment Training Unit | Database compiled and regularly updated Personnel identified and categorized Training opportunities identified and promoted | Database on assigned computer(s) Database on assigned computer(s) Quarterly report of ICT Dept.; Promotional material circulated to beneficiaries | Dec 04 Ongoing Ongoing | 0.00 0.00 0.00 | Higher-level educators are trained and competent at ICT and its management. Better informed leadership and decision-making at upper levels of education management.
 Strategy 10 : Facilitate equitable access to ICT for all students. | 10.1 Establish targets for student and community access to ICT. | ICT Dept., NSC | Targets established | Quarterly report of ICT Dept., Targets document | Feb 05 | 0.00 | Expansion of access to ICT by students Access to ICT after school hours
 
 Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
@@ -1164,7 +1199,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 36]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 33
 
@@ -1180,13 +1215,13 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 37]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 34
 
 STRATEGY | ACTIVITY | BY WHOM | INDICATOR | SOURCE OF VERIFICATION | BY WHEN | COST | EXPECTED RESULTS
 --- | --- | --- | --- | --- | --- | --- | ---
-12.5 Assist/advise schools in expanding opportunities for CXC or other certification levels as an option for students of Upper Secondary Level. 12.6 Encourage attendance and participation of students, teachers and educators at the national ICT Conference. 12.7 Encourage and support participation of students in the annual National Math, Science and Technology Fair to showcase the work and accomplishments of teachers and students in ICT. 12.8 Provide access for students and teachers to international knowledge networks and shared educational resources. 12.9 Provide opportunities for teachers to share experiences (lessons learnt and best practices) in relevant meetings and fora. | NSC, Principals of Secondary schools. ICT Dept. ICT Dept., NSC, Principals, Teachers ICT Dept., NSC, Principals, Teachers, Curriculum Unit ICT Dept., NSC, Principals, Teachers, Students ICT Dept., NSC, Principals, Teachers, Students | More students at more schools able to choose ICT as a CXC option Students, teachers and educators attend the National ICT in Education Conference Students participate in the annual National Math, Science and Technology Fair Students and teachers participate in international knowledge networks Teachers participate in relevant discussions/for a on ICT in Education | Student CXC options offered at secondary schools Student enrolment in CXC level ICT courses Participants lists for ICT in Education Conference Entry and participants lists of National Math, Science and Technology Fair Reports from schools; ICT Dept. quarterly reports ICT Dept. quarterly reports School reports | Ongoing Jan 05 Jan 05 Ongoing Ongoing | 0.00 10,000.00 0.00 0.00 600.00 | Students who are able to functione in complicated, dynamic and ambiguous situations. More student-paced learning. Better monitoring of individual student's progress. Increase in students' engagement and motivation (including those who are at the extreme ends of the learning ability spectrum).
+12.5 Assist/advise schools in expanding opportunities for CXC or other certification levels as an option for students of Upper Secondary Level. 12.6 Encourage attendance and participation of students, teachers and educators at the national ICT Conference. 12.7 Encourage and support participation of students in the annual National Math, Science and Technology Fair to showcase the work and accomplishments of teachers and students in ICT. 12.8 Provide access for students and teachers to international knowledge networks and shared educational resources. 12.9 Provide opportunities for teachers to share experiences (lessons learnt and best practices) in relevant meetings and fora. | NSC, Principals of Secondary schools. ICT Dept. ICT Dept., NSC, Principals, Teachers ICT Dept., NSC, Principals, Teachers, Curriculum Unit ICT Dept., NSC, Principals, Teachers, Students ICT Dept., NSC, Principals, Teachers, Students | More students at more schools able to choose ICT as a CXC option Students, teachers and educators attend the National ICT in Education Conference Students participate in the annual National Math, Science and Technology Fair Students and teachers participate in international knowledge networks Teachers participate in relevant discussions/fora on ICT in Education | Student CXC options offered at secondary schools Student enrolment in CXC level ICT courses Participants lists for ICT in Education Conference Entry and participants lists of National Math, Science and Technology Fair Reports from schools; ICT Dept. quarterly reports ICT Dept. quarterly reports School reports | Ongoing Jan 05 Jan 05 Ongoing Ongoing | 0.00 10,000.00 0.00 0.00 600.00 | Students who are able to functione in complicated, dynamic and ambiguous situations. More student-paced learning. Better monitoring of individual student's progress. Increase in students' engagement and motivation (including those who are at the extreme ends of the learning ability spectrum).
 Strategy 13 : Acquire and implement various easily integrated information systems . | 13.1 Pilot single-site SmartSchools EMIS program at five secondary schools. | ICT Dept., NSC, Principals, Teachers, Curriculum Unit, SC | SmartSchools EMIS program piloted at five secondary schools. | Mid-term Report on pilot | Jan 05 | 0.00 | First-hand EMIS experience for pilot schools. Other schools benefit from pilot report..
 
 Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
@@ -1195,13 +1230,13 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 38]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 35
 
 STRATEGY | ACTIVITY | BY WHOM | INDICATOR | SOURCE OF VERIFICATION | BY WHEN | COST | EXPECTED RESULTS
 --- | --- | --- | --- | --- | --- | --- | ---
-Strategy 14: Facilitate funding mechanisms for ICT implementation . | 14.1 Include budget for Year II Action Plan in the Ministry's Corporate Plan for 2005-2006. 14.2 Seek external funding and other forms of assistance from various organisations for ICT related activities. 14.3 Facilitate attendance at meetings and conferences at which personalized contact can be made with key personnel from potential funding agencies / sponsors. 14.4 Facilitate the establishment of and/or participation in networks through which contacts can be made with key personnel from funding agencies. 14.5 Provide funding for new and already established partnership programs with local and international partners for funding at school or national levels (Palliser Project). 14.6 Encourage fund raising activities at school and national levels. | ICT Dept., EPU ICT Dept., EPU, PMU ICT Dept., EPU, PS Educati0on, CEO ICT Dept., EPU, PS Educati0on, CEO ICT Dept., EPU, PS Educati0on, CEO ICT Dept., EPU, CEO | Year II Action Plan featured in 2005- 2006 Corporate Plan Information on assistance sources sought and accessed Relevant meetings attended Participation in relevant networks Funding reflected in 2004-2005 Budget | MOEYAS&HRD's 2005-2006 Corporate Plan Information documents; Assistance Requests; Quarterly reports Reports on Meetings Reports of participation in Networks ICT Dept Quarterly reports 2004-2005 MOEYAS&HRD budget | Feb 05 Ongoing Ongoing Ongoing Feb 05 ongoing | TBD 0.00 5,000.00 0.00 30,000.00 0.00 | More funds available for (a) increasing the availability of technology; (b) upgrading ICT capacity/skills of teaching and administrative staff; and (c) enhancing learning environment (d) Maintaining the ICT program. Increase in the likelihood of success of various projects in which assistance such as the professional expertise of experienced individuals is utilised. Improvement in the quality of human resource in ICT. Strengthening of bonds between education and community. Increase in community involvement in education. Availability of more resources.
+Strategy 14: Facilitate funding mechanisms for ICT implementation . | 14.1 Include budget for Year II Action Plan in the Ministry's Corporate Plan for 2005-2006. 14.2 Seek external funding and other forms of assistance from various organisations for ICT related activities. 14.3 Facilitate attendance at meetings and conferences at which personalized contact can be made with key personnel from potential funding agencies / sponsors. 14.4 Facilitate the establishment of and/or participation in networks through which contacts can be made with key personnel from funding agencies. 14.5 Provide funding for new and already established partnership programs with local and international partners for funding at school or national levels (Palliser Project). 14.6 Encourage fund raising activities at school and national levels. | ICT Dept., EPU ICT Dept., EPU, PMU ICT Dept., EPU, PS Education, CEO ICT Dept., EPU, PS Education, CEO ICT Dept., EPU, PS Education, CEO ICT Dept., EPU, CEO | Year II Action Plan featured in 2005- 2006 Corporate Plan Information on assistance sources sought and accessed Relevant meetings attended Participation in relevant networks Funding reflected in 2004-2005 Budget | MOEYAS&HRD's 2005-2006 Corporate Plan Information documents; Assistance Requests; Quarterly reports Reports on Meetings Reports of participation in Networks ICT Dept Quarterly reports 2004-2005 MOEYAS&HRD budget | Feb 05 Ongoing Ongoing Ongoing Feb 05 ongoing | TBD 0.00 5,000.00 0.00 30,000.00 0.00 | More funds available for (a) increasing the availability of technology; (b) upgrading ICT capacity/skills of teaching and administrative staff; and (c) enhancing learning environment (d) Maintaining the ICT program. Increase in the likelihood of success of various projects in which assistance such as the professional expertise of experienced individuals is utilised. Improvement in the quality of human resource in ICT. Strengthening of bonds between education and community. Increase in community involvement in education. Availability of more resources.
 
 Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
@@ -1209,13 +1244,13 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 39]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 36
 
 STRATEGY | ACTIVITY | BY WHOM | INDICATOR | SOURCE OF VERIFICATION | BY WHEN | COST | EXPECTED RESULTS
 --- | --- | --- | --- | --- | --- | --- | ---
-Strategy 15: Foster constructive partnerships with private sector and NGO organizations for ICT development. | 15.1Establish and strengthen private sector / NGO partnership programmes for sharing of hardware, software, materials and training for ICT activities (e.g. Cable & Wireless) 15.2 Formalize and strengthen international partnerships with organizations/friendly governments willing to provide ICT equipment, material, research and training (e.g. Palliser, DOMLEC, Alliance Francaise).. 15.3 Host public relations programmes to highlight the benefits of ICT in education and the various ways in which the community, business, professional associations and individuals can help. 15.4 Utilize the expertise of international overseas volunteer programs for necessary ICT- related technical and training expertise (JOVC, Peace Corps). | ICT Dept., NSC, SC, TC ICT Dept., PS Educati0on, CEO, LEC ICT Dept., CEO, ICT Dept., EPU, NSC, TC, CRC, SC, DTT | Partnership TORs completed and implemented Partnerships formalized Public relations events hosted Assistance given by volunteers | Partnership TOR document Signed Partnership Accords Reports on Events; Quarterly Reports of ICT Dept. Quarterly reports of ICT Dept, Volunteer reports | Ongoing Dec 04 and ongoing Ongoing Ongoing | 0.00 0.00 0.00 0.00 | Reduction in the budget required for areas such as professional development, and research and development, etc. Savings realised as a result of various forms of contributions made by the community, business, associations and individuals e.g. free labour, materials and ideas. Community/private participation in the financing of education.
+Strategy 15: Foster constructive partnerships with private sector and NGO organizations for ICT development. | 15.1Establish and strengthen private sector / NGO partnership programmes for sharing of hardware, software, materials and training for ICT activities (e.g. Cable & Wireless) 15.2 Formalize and strengthen international partnerships with organizations/friendly governments willing to provide ICT equipment, material, research and training (e.g. Palliser, DOMLEC, Alliance Francaise).. 15.3 Host public relations programmes to highlight the benefits of ICT in education and the various ways in which the community, business, professional associations and individuals can help. 15.4 Utilize the expertise of international overseas volunteer programs for necessary ICT-related technical and training expertise (JOVC, Peace Corps). | ICT Dept., NSC, SC, TC ICT Dept., PS Education, CEO, LEC ICT Dept., CEO, ICT Dept., EPU, NSC, TC, CRC, SC, DTT | Partnership TORs completed and implemented Partnerships formalized Public relations events hosted Assistance given by volunteers | Partnership TOR document Signed Partnership Accords Reports on Events; Quarterly Reports of ICT Dept. Quarterly reports of ICT Dept, Volunteer reports | Ongoing Dec 04 and ongoing Ongoing Ongoing | 0.00 0.00 0.00 0.00 | Reduction in the budget required for areas such as professional development, and research and development, etc. Savings realised as a result of various forms of contributions made by the community, business, associations and individuals e.g. free labour, materials and ideas. Community/private participation in the financing of education.
 
 Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
@@ -1223,7 +1258,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 40]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 37
 
@@ -1241,7 +1276,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 41]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 38
 
@@ -1256,7 +1291,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 42]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 39
 
@@ -1271,7 +1306,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 43]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 40
 
@@ -1297,7 +1332,7 @@ S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na a
 
 .
 
-- Education Planning Unit (July 2001). Education Development Plan 2000-2005 and Beyond - World Class Education for the 21 st  Century .  Ministry of Education, Sports and Youth Affairs, Dominica.
+- Education Planning Unit (July 2001). Education Development Plan 2000-2005 and Beyond - World Class Education for the 21st Century .  Ministry of Education, Sports and Youth Affairs, Dominica.
 
 - Edwards, David (1999). Infusing Information Technology into the Education Reform Process . Project Management Unit, Ministry of Education Sports and Youth Affairs - Dominica, Roseau.
 
@@ -1315,7 +1350,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 44]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 41
 
@@ -1345,7 +1380,7 @@ S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na a
 
 - Tha, Sok (2003). e-Learning in Cambodia - Perspectives, Strategies and Next Steps . AEN Conference, Tokyo.
 
-- UNESCO Institute For Information Technologies In Education (2002) Medium -Term Strategy 2002 -2007 .  IITE.
+- UNESCO Institute For Information Technologies In Education (2002) Medium-Term Strategy 2002-2007 .  IITE.
 
 - West, Arnott (2002). EMIS Requirements Draft Preliminary /report: Extended EMIS for the OECS . OERU.
 
@@ -1357,7 +1392,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 45]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 42
 
@@ -1369,43 +1404,21 @@ ICT in Education Steering Committee
 
 ICT Department
 
-Curriculum
+Curriculum Reform Committee
 
-Reform
+Technical Committee
 
-Committee
+Legal and Ethical Committee
 
-Technical
+Software Committee
 
-Committee
+School Leadership Teams
 
-Legal and
+Subject Sub-committees
 
-Ethical
+District Technical Team
 
-Committee
-
-Software
-
-Committee
-
-Subject
-
-Sub-committees
-
-School
-
-Leadership
-
-Teams
-
-District Technical
-
-Team
-
-School Level
-
-Technicians
+School Level Technicians
 
 Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
@@ -1413,7 +1426,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 46]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 43
 
@@ -1421,41 +1434,41 @@ S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na a
 
 ### RECOMMENDED SPECIFICATIONS FOR COMPUTER WORKSTATIONS 14
 
-- o A - Height of work surface : adjustable 23 to 28 inches (584 to 711 mm).
+- A - Height of work surface: adjustable 23 to 28 inches (584 to 711 mm).
 
-- o B - Width of work surface : 30 inches (760 mm).
+- B - Width of work surface: 30 inches (760 mm).
 
-- o C - Viewing distance :  minimum 12 Inches (305 mm); hard copy distance 12 to 16 inches (305 to 406 mm); typical eye to keyboard distance 18 to 20 inches (457 to 508 mm).
+- C - Viewing distance: minimum 12 Inches (305 mm); hard copy distance 12 to 16 inches (305 to 406 mm); typical eye to keyboard distance 18 to 20 inches (457 to 508 mm).
 
-- o D - Thickness of work surface : 1 inch (25 mm).
+- D - Thickness of work surface: 1 inch (25 mm).
 
-- o E - Height of screen : Top of screen at approximately eye level (maximum 0 deg. to horizontal, or 0 deg. to - 60 deg.).
+- E - Height of screen: Top of screen at approximately eye level (maximum 0 deg. to horizontal, or 0 deg. to - 60 deg.).
 
-- o F - Palm rest : 11/2 inches (40 mm).
+- F - Palm rest: 11/2 inches (40 mm).
 
-- o G - Knee room height : minimum of 26.2 inches (665 mm) non-adjustable surface.
+- G - Knee room height: minimum of 26.2 inches (665 mm) non-adjustable surface.
 
-- o 20.2 inches (513 mm) adjustable surface.
+- 20.2 inches (513 mm) adjustable surface.
 
-- o H - Knee room width : 20 inches (510 mm) minimum.
+- H - Knee room width: 20 inches (510 mm) minimum.
 
-- o I - Knee room depth : minimum of 15.0 inches (381 mm) knee level; 23.5 inches (597 mm) toe level.
+- I - Knee room depth: minimum of 15.0 inches (381 mm) knee level; 23.5 inches (597 mm) toe level.
 
-- o J - Seat height : adjustable 16 to 20.5 Inches (400 to 521 mm).
+- J - Seat height: adjustable 16 to 20.5 Inches (400 to 521 mm).
 
-- o K -  Seat  size :  15  to  17  Inches  (381  to  432  mm)  depth,  17.7  Inches  (450  mm)  width,  "waterfall"  front edge.
+- K - Seat size: 15 to 17 Inches (381 to 432 mm) depth, 17.7 Inches (450 mm) width, "waterfall" front edge.
 
-- o L - Seat slope : adjustable O deg. to 10 deg. backward slope.
+- L - Seat slope: adjustable O deg. to 10 deg. backward slope.
 
-- o M - Backrest size : 7 Inches high (180 mm), 13 Inches wide (330 mm).
+- M - Backrest size: 7 Inches high (180 mm), 13 Inches wide (330 mm).
 
-- o N - Backrest height : adjustable 3 to 6 Inches (80 to 150 mm) above seat.
+- N - Backrest height: adjustable 3 to 6 Inches (80 to 150 mm) above seat.
 
-- o O - Backrest depth : adjustable 14 to 17 Inches (350 to 430 mm).
+- O - Backrest depth: adjustable 14 to 17 Inches (350 to 430 mm).
 
-- o P - Backrest tilt : adjustable ± 15 deg.
+- P - Backrest tilt: adjustable ± 15 deg.
 
-- o Other - Angles between back rest and seat 90 deg. to 105 deg.; between seat and lower leg 60 deg. to 100 deg.; between upper arm and forearm 70 deg.  to 135 deg.
+- Other - Angles between back rest and seat 90 deg. to 105 deg.; between seat and lower leg 60 deg. to 100 deg.; between upper arm and forearm 70 deg. to 135 deg.
 
 > 14  Source (TBD)
 
@@ -1465,7 +1478,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 47]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 44
 
@@ -1475,29 +1488,29 @@ S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na a
 
 #### (I) Software Acquisition, Use, Installation and Distribution Procedures
 
-- All  requests  for  software  and  software  upgrades  shall  be  submitted  to  the  School's  Principal,  where possible.
+1. All requests for software and software upgrades shall be submitted to the School's Principal, where possible.
 
-- All software and software upgrades not procured by the Principal shall be documented and reported to the  Principal,  who  will  verify  that  the  School  has  an  appropriate  license  for  the  use  of  such  bundled software.
+2. All software and software upgrades not procured by the Principal shall be documented and reported to the Principal, who will verify that the School has an appropriate license for the use of such bundled software.
 
-- All  software  acquisitions  that  are  bundled  with  hardware  shall  be  documented  and  identified  to  the Principal, who will verify that the School has an appropriate license for the use of such bundled software.
+3. All software acquisitions that are bundled with hardware shall be documented and identified to the Principal, who will verify that the School has an appropriate license for the use of such bundled software.
 
-- The Principal shall store in a secure, central location all original software licenses, diskettes, CD-ROMs, and documentation upon receipt of all new software.
+4. The Principal shall store in a secure, central location all original software licenses, diskettes, CD-ROMs, and documentation upon receipt of all new software.
 
-- No staff member shall install software on the School's computers without being authorized to do so by the Principal.
+5. No staff member shall install software on the School's computers without being authorized to do so by the Principal.
 
-- No  staff  member  or  students  shall  install,  use  or  distribute  software  for  which  the  School  lacks appropriate license.
+6. No staff member or students shall install, use or distribute software for which the School lacks appropriate license.
 
-- No staff member shall install any software upgrade on a computer that does not already have resident on it the original version of the software.
+7. No staff member shall install any software upgrade on a computer that does not already have resident on it the original version of the software.
 
-- The Principal or designated staff member shall destroy all copies of software that are obsolete or for which  the  school  lacks  the  appropriate  license.  Alternatively  the  Principal  may  obtain  the  license(s) necessary to maintain such software on the School's computers.
+8. The Principal or designated staff member shall destroy all copies of software that are obsolete or for which the school lacks the appropriate license. Alternatively the Principal may obtain the license(s) necessary to maintain such software on the School's computers.
 
-- The School shall conduct an inventory and review of all its hardware and installed software on a periodic (at least annually) and random basis.
+9. The School shall conduct an inventory and review of all its hardware and installed software on a periodic (at least annually) and random basis.
 
-- The School shall establish and maintain a record keeping system (preferably computerized) for software licenses, hardware, original CD-ROMs and diskettes, user information and assessment information.
+10. The School shall establish and maintain a record keeping system (preferably computerized) for software licenses, hardware, original CD-ROMs and diskettes, user information and assessment information.
 
-- No staff member may use or distribute personally owned software (excluding freeware and sharewares) on the School's computers or networks.
+11. No staff member may use or distribute personally owned software (excluding freeware and sharewares) on the School's computers or networks.
 
-- All software to be used in schools must first be evaluated by the software Evaluation Team.
+12. All software to be used in schools must first be evaluated by the software Evaluation Team.
 
 Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
@@ -1505,31 +1518,31 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 48]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 45
 
 #### (II) Acceptable Use of On-Line Information Resources Guidelines
 
-- All use of school Local Area Networks (LANs) and Wide Area Networks (WANs) including access to the Internet must be consistent with the educational mandate of the School.
+1. All use of school Local Area Networks (LANs) and Wide Area Networks (WANs) including access to the Internet must be consistent with the educational mandate of the School.
 
-- Any use of the Internet by students and teachers for commercial purposes, without authorization by the Principal, is prohibited.
+2. Any use of the Internet by students and teachers for commercial purposes, without authorization by the Principal, is prohibited.
 
-- Network accounts are to be used only by the authorized owner of the account. The sharing of passwords is prohibited.
+3. Network accounts are to be used only by the authorized owner of the account. The sharing of passwords is prohibited.
 
-- All  network/Internet  users  shall  not  seek  information  on  obtaining  copies  or  modified  files,  data  or passwords belonging to other users, or misrepresent other users on the network/Internet.
+4. All network/Internet users shall not seek information on obtaining copies or modified files, data or passwords belonging to other users, or misrepresent other users on the network/Internet.
 
-- All information accessible on the Internet shall be assumed to be private property. All copyright issues regarding  software  information  and  copyrights  must  be  respected.  The  unauthorized  copying  or transferring of copyrighted materials may result in a loss of network privileges.
+5. All information accessible on the Internet shall be assumed to be private property. All copyright issues regarding software information and copyrights must be respected. The unauthorized copying or transferring of copyrighted materials may result in a loss of network privileges.
 
-- Malicious  use  of  the  network  to  develop  programs  that  harass  other  users;  infiltrate  a  computer  or computer system and/or damage the software components of the computer or computer system (locally or on the Internet) is prohibited.
+6. Malicious use of the network to develop programs that harass other users; infiltrate a computer or computer system and/or damage the software components of the computer or computer system (locally or on the Internet) is prohibited.
 
-- Fraudulent, harassing, offensive or obscene messages or materials and other anti-social behaviours are prohibited  on the  network/Internet. All  users of the  school network shall use  language appropriate for school situations.
+7. Fraudulent, harassing, offensive or obscene messages or materials and other anti-social behaviours are prohibited on the network/Internet. All users of the school network shall use language appropriate for school situations.
 
-- All  programmes  and  files  brought  on  the  premises  (downloaded  or  otherwise)  must  be  examined  for viruses before being used on any computer.
+8. All programmes and files brought on the premises (downloaded or otherwise) must be examined for viruses before being used on any computer.
 
-- The access or downloading of inappropriate materials or files unsafe to the integrity of the Local Area Network is forbidden.
+9. The access or downloading of inappropriate materials or files unsafe to the integrity of the Local Area Network is forbidden.
 
-- No  student  addresses,  phone  numbers  or  individual  photographs  linked  to  student  names  may  be published under any circumstances.
+10. No student addresses, phone numbers or individual photographs linked to student names may be published under any circumstances.
 
 Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
@@ -1537,7 +1550,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 49]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 46
 
@@ -1564,7 +1577,7 @@ OECS Education Reform Unit, Castries St. Lucia, 2000
 
 Information and communications technology has become ubiquitous in its applications to modern life. It is a tool of work, learning, entertainment, communication and management. As important is the fact that it has become a symbol of modernization and progress. For people living, learning and working on islands but who wish to share a common destiny, information and communication technology becomes a virtual bridge across the expanse of sea that separates islands from each other.
 
-Information and communications technology applied to education reform in the OECS, therefore, does not only represent a skills of skills to be acquired for its effective use, but more importantly as tools of learning, teaching and management as well as a symbol of modernization and progress, and most critically as a virtual bridge linking students in schools and colleges, managers and administrators in institutions and Ministers within and across islands. Taken together information and communications technology skills can be effectively applied to modernize and enhance teaching, learning and management, mobilize new support for education and provide the infrastructure for regional collaboration, cooperation and the pooling of resources to unprecedented levels. The impact of the latter is likely to be a great sense of sub-regional identity and solidarity than could be achieved by any other means.
+Information and communications technology applied to education reform in the OECS, therefore, does not only represent a set of skills to be acquired for its effective use, but more importantly as tools of learning, teaching and management as well as a symbol of modernization and progress, and most critically as a virtual bridge linking students in schools and colleges, managers and administrators in institutions and Ministers within and across islands. Taken together information and communications technology skills can be effectively applied to modernize and enhance teaching, learning and management, mobilize new support for education and provide the infrastructure for regional collaboration, cooperation
 
 > 15  OERU (2000). Pillars for Partnership and Progress . OERU, Castries.
 
@@ -1574,9 +1587,11 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 50]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 47
+
+and the pooling of resources to unprecedented levels. The impact of the latter is likely to be a greater sense of sub-regional identity and solidarity than could be achieved by any other means.
 
 The revolution that has taken place in information and communications technology is ushering in the knowledge society. Wealth creation is now predicated on knowledge and technological competence matched with creativity and perspicacity. Schools and colleges are about knowledge -generation, dissemination and acquisition. Schools and colleges are, therefore, seen as focal points in the knowledge network centerpiece of community access that can interface with the information and communications technology infrastructure. As information and communication resources are established in schools and colleges, they must serve the wider communities in which they are located with respect to access and training in their use. In this regard, the sharp boundaries of in school and out-of-school will be blurred and rendered ambiguous in meaning.
 
@@ -1586,15 +1601,15 @@ The revolution that has taken place in information and communications technology
 
 Establish an intranet in each of the nine OECS countries linking schools and colleges with Ministries of Education using appropriate technology -whether cable or microwave or some combination of both -and link the country intranets to create an OECS Education Intranet. The country and sub-region intranets must be designed and structured to permit the transmission of voice, video and data seven days per week, twenty-four hours per day.
 
-Developments taking place in wireless and other technologies and the proximity of the islands that constitute the OECS make it distinctly possible and feasible to establish a dedicated intranet linking all schools, colleges and ministries in the sub-region on a twentyfour hour, seven days per week basis. A great advantage of a wireless intranet, using microwave technology, is that it requires no monthly connection charges and, therefore, limits recurrent costs for the maintenance that is mandatory for any system. The point here is not to prefer wireless technology to every other and to make it the technology choice but rather to highlight those features that are of great relevance to the financial circumstances faced by education systems. Should other technologies offer the same financial advantages, then they should also be considered and applied where appropriate.
+Developments taking place in wireless and other technologies and the proximity of the islands that constitute the OECS make it distinctly possible and feasible to establish a dedicated intranet linking all schools, colleges and ministries in the sub-region on a twenty-four hour, seven days per week basis. A great advantage of a wireless intranet, using microwave technology, is that it requires no monthly connection charges and, therefore, limits recurrent costs for the maintenance that is mandatory for any system. The point here is not to prefer wireless technology to every other and to make it the technology choice but rather to highlight those features that are of great relevance to the financial circumstances faced by education systems. Should other technologies offer the same financial advantages, then they should also be considered and applied where appropriate.
 
-The great virtue of creating an infrastructure connecting educational institutions in the subregion is that it has the potential to inspire individual institutions to mobilise resources to acquire most of the equipment needed to make maximum use of its potential. Indeed, some of these resources could come from more costly and less efficient and effective means of communication and contact that are currently employed.
+The great virtue of creating an infrastructure connecting educational institutions in the sub-region is that it has the potential to inspire individual institutions to mobilise resources to acquire most of the equipment needed to make maximum use of its potential. Indeed, some of these resources could come from more costly and less efficient and effective means of communication and contact that are currently employed.
 
 ###### Strategy 14:
 
 Establish and promote a cost sharing partnership framework for mobilizing resources to modernize school plants with Information Communications Technologies.
 
-This framework should be premised on matching contributions of at least equal amounts, from Government, the private sector and the school community in equipping schools and colleges with the Information Communications Technologies (ICT) and educational technology needed to modernize and improve learning, teaching and management and to connect to the OECS Intranet.  Where schools have already mobilized resources on their own and acquired equipment, such efforts should be counted in their contribution in receiving matching funds from Government and the private sector. Guidelines would need to be developed with respect to gifts of hardware and software donated to schools and colleges. These guidelines should address issues of compatibility, obsolescence, maintenance, training and technical support.
+This framework should be premised on matching contributions of at least equal amounts, from Government, the private sector and the school community in equipping schools and colleges with the Information Communications Technologies (ICT) and educational technology needed to modernize and improve learning, teaching and management and to connect to the OECS Intranet.  Where schools have already mobilized resources on their own and acquired equipment, such efforts should be counted in their contribution in receiving
 
 Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
@@ -1602,9 +1617,11 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 51]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 48
+
+matching funds from Government and the private sector. Guidelines would need to be developed with respect to gifts of hardware and software donated to schools and colleges. These guidelines should address issues of compatibility, obsolescence, maintenance, training and technical support.
 
 ###### Strategy 15:
 
@@ -1634,7 +1651,7 @@ Education Planning Unit, MoEYAS&HRD, Commonwealth of Dominica - 2004
 
 [[START OF PAGE 52]]
 
-S St tr ra at te eg gy y f fo or r I Im mp pl le em me en nt ti in ng g   N Na at ti i o on na al l I IC CT T   i in n   E Ed du uc ca at ti io on n   P Po ol li ic cy y   i in n   t th he e   C Co om mm mo on nw we ea al lt th h   o of f   D Do om mi in ni ic ca a   2 20 00 04 4   -    2 20 00 09 9
+Strategy for Implementing National ICT in Education Policy in the Commonwealth of Dominica 2004 - 2009
 
 49
 
@@ -1646,7 +1663,7 @@ Encourage and support schools, colleges, educational organizations and associati
 
 Establish an evaluative mechanism to ensure that by 2010:
 
-- All students receiving nine years of schooling -six years of primary and three years of secondary -are computer literate and can use ICT as it is applied to everyday activities in homes, schools, entertainment and communications.
+- All students receiving nine years of schooling − six years of primary and three years of secondary − are computer literate and can use ICT as it is applied to everyday activities in homes, schools, entertainment and communications.
 
 - All students entering tertiary institutions are proficient users of ICT at the time of entry to those institutions.
 
