@@ -28,7 +28,7 @@ La Constitution ainsi approuvée s'articule pour l'essentiel autour des idées f
 
 ### 1. DE L'ETAT ET DE LA SOUVERAINETÉ
 
-Dans le but d'une part, de consolider l'unité nationale mise à mal par des guerres successives et, d'autre part, de créer des centres d'impulsion et de développement à la base, le· constituant a structuré administrativement l'Etat congolais en 25 provinces plus la ville de Kinshasa dotées de la personnalité juridique et exerçant des compétences de proximité énumérées dans la présente Constitution.
+Dans le but d'une part, de consolider l'unité nationale mise à mal par des guerres successives et, d'autre part, de créer des centres d'impulsion et de développement à la base, le constituant a structuré administrativement l'Etat congolais en 25 provinces plus la ville de Kinshasa dotées de la personnalité juridique et exerçant des compétences de proximité énumérées dans la présente Constitution.
 
 En sus de ces compétences, les provinces en exercent d'autres concurremment avec le pouvoir central et se partagent les recettes nationales avec ce dernier respectivement à raison de 40 et de 60 %.
 
@@ -44,13 +44,15 @@ En ce qui concerne la nationalité, le constituant maintient le principe de l'un
 
 ### 2. DES DROITS HUMAINS, DES LIBERTES FONDAMENTALES ET DES DEVOIRS DU CITOYEN ET DE L'ETAT
 
-Le constituant tient à réaffirmer l'attachement de la République Démocratique du Congo aux Droits humains et aux libertés fondamentales tels que proclamés par les instruments juridiques internationaux auxquels elle a adhéré. Aussi, a-t-il intégré ces droits et libertés dans le corps même de la Constitution.
+Le constituant tient à réaffirmer l'attachement de la République Démocratique du Congo aux Droits humains et aux libertés fondamentales tels que proclamés par les instruments
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 3
+
+juridiques internationaux auxquels elle a adhéré. Aussi, a-t-il intégré ces droits et libertés dans le corps même de la Constitution.
 
 A cet égard, répondant aux signes du temps, l'actuelle Constitution introduit une innovation de taille en formalisant la parité homme-femme.
 
@@ -102,7 +104,7 @@ La présente Constitution réaffirme l'indépendance du pouvoir judiciaire dont 
 
 4
 
-- Les juridictions de l'ordre judiciaire placées sous le" contrôle de la Cour de cassation ;
+- Les juridictions de l'ordre judiciaire placées sous le contrôle de la Cour de cassation ;
 
 - celles de l'ordre administratif coiffées par le Conseil d'Etat et
 
@@ -112,11 +114,9 @@ Des dispositions pertinentes de la Constitution déterminent la sphère d'action
 
 Pour assurer une bonne harmonie entre les provinces elles-mêmes d'une part, et le pouvoir central d'autre part, il est institué une Conférence des Gouverneurs présidée par le Chef de l'Etat et dont le rôle est de servir de conseil aux deux échelons de l'Etat.
 
-De même, le devoir de solidarité entre les différentes composantes de la Nation exige
+De même, le devoir de solidarité entre les différentes composantes de la Nation exige l'institution de la Caisse nationale de péréquation placée sous la tutelle du Gouvernement.
 
-l'institution de la Caisse nationale de péréquation placée sous la tutelle du Gouvernement. et social auxquels la République Démocratique du Congo est confrontée, le constituant crée le Conseil économique et social, dont la mission est de donner des avis consultatifs en la matière
-
-Compte tenu de l'ampleur et de la complexité des problèmes de développement économique au Président de la République, au Parlement et au Gouvernement.
+Compte tenu de l'ampleur et de la complexité des problèmes de développement économique et social auxquels la République Démocratique du Congo est confrontée, le constituant crée le Conseil économique et social, dont la mission est de donner des avis consultatifs en la matière au Président de la République, au Parlement et au Gouvernement.
 
 Pour garantir la démocratie en République Démocratique du Congo, la présente Constitution retient deux institutions d'appui à la démocratie, à savoir la Commission électorale nationale indépendante chargée de l'organisation du processus électoral de façon permanente et le Conseil supérieur de l'audiovisuel et de la communication dont la mission est d'assurer la liberté et la protection de la presse ainsi que de tous les moyens de communication des masses dans le respect de la loi.
 
@@ -138,11 +138,11 @@ Nous, Peuple congolais,
 
 Uni par le destin et par l'histoire autour de nobles idéaux de liberté, de fraternité, de solidarité, de justice, de paix et de travail,
 
-Animé par notre volonté commune de bâtir, au cœur de l'Afrique, un Etat de droit et une Nation puissante et prospère, fondée sur une véritable démocratie politique, économique, sociale et culturelle,'
+Animé par notre volonté commune de bâtir, au cœur de l'Afrique, un Etat de droit et une Nation puissante et prospère, fondée sur une véritable démocratie politique, économique, sociale et culturelle,
 
-Considérant que l'injustice avec ses corollaires, l'impunité, le népotisme, le régionalisme, le tribalisme, le clanisme et le clientélisme, par leurs multiples vicissitudes, sont à l'origine de l'inversion générale des valeurs et de la ruine du pays,'
+Considérant que l'injustice avec ses corollaires, l'impunité, le népotisme, le régionalisme, le tribalisme, le clanisme et le clientélisme, par leurs multiples vicissitudes, sont à l'origine de l'inversion générale des valeurs et de la ruine du pays,
 
-Affirmant notre détermination à sauvegarder et à consolider l'indépendance et l'unité nationales dans le respect de nos diversités et de nos particularités positives,'
+Affirmant notre détermination à sauvegarder et à consolider l'indépendance et l'unité nationales dans le respect de nos diversités et de nos particularités positives,
 
 [[END OF PAGE 4]]
 
@@ -150,11 +150,15 @@ Affirmant notre détermination à sauvegarder et à consolider l'indépendance e
 
 5
 
-Réaffirmant notre adhésion et notre attachement à la Déclaration Universelle des Droits de l'Homme, à la Charte Africaine des Droits de l'Homme et des Peuples, aux Conventions des Nations Unies sur les Droits de l'Enfant et sur les Droits de la Femme, particulièrement à l'objectif de la parité de représentation homme-femme au sein des institutions du pays ainsi qu'aux instruments internationaux relatifs à la protection et à la promotion des droits humains,' Mû par la volonté de voir tous les Etats Africains s'unir et travailler de concert en vue de promouvoir et de consolider l'unité africaine à travers les organisations continentales, régionales ou sous-régionales pour offrir de meilleures perspectives de développement et de progrès socio-économique aux Peuples d'Afrique,'
+Réaffirmant notre adhésion et notre attachement à la Déclaration Universelle des Droits de l'Homme, à la Charte Africaine des Droits de l'Homme et des Peuples, aux Conventions des Nations Unies sur les Droits de l'Enfant et sur les Droits de la Femme, particulièrement à l'objectif de la parité de représentation homme-femme au sein des institutions du pays ainsi qu'aux instruments internationaux relatifs à la protection et à la promotion des droits humains,
 
-Attaché à la promotion d'une coopération internationale mutuellement avantageuse et au rapprochement des peuples du monde, dans le respect de leurs identités respectives et des principes de la souveraineté et de l'intégrité territoriale de chaque Etat,'
+Mû par la volonté de voir tous les Etats Africains s'unir et travailler de concert en vue de promouvoir et de consolider l'unité africaine à travers les organisations continentales, régionales ou sous-régionales pour offrir de meilleures perspectives de développement et de progrès socio-économique aux Peuples d'Afrique,
 
-Réaffirmant notre droit inaliénable et imprescriptible de nous organiser librement et de développer notre vie politique, économique, sociale et culturelle, selon notre génie propre,' Conscients de nos responsabilités devant Dieu, la Nation, l'Afrique et le Monde,'
+Attaché à la promotion d'une coopération internationale mutuellement avantageuse et au rapprochement des peuples du monde, dans le respect de leurs identités respectives et des principes de la souveraineté et de l'intégrité territoriale de chaque Etat,
+
+Réaffirmant notre droit inaliénable et imprescriptible de nous organiser librement et de développer notre vie politique, économique, sociale et culturelle, selon notre génie propre,
+
+Conscients de nos responsabilités devant Dieu, la Nation, l'Afrique et le Monde,
 
 Déclarons solennellement adopter la présente Constitution.
 
@@ -164,33 +168,51 @@ Déclarons solennellement adopter la présente Constitution.
 
 6
 
-###### Article 1er
-
-La République Démocratique du Congo est, dans ses frontières du 30 juin 1960, un Etat de droit, indépendant, souverain, uni et indivisible, social, démocratique et laïc. Son emblème est le drapeau bleu ciel, orné d'une étoile jaune dans le coin supérieur gauche et traversé en biais d'une bande rouge finement encadrée de jaune. Sa devise est « Justice -Paix - Travail ». Ses armoiries se composent d'une tête de léopard encadrée à gauche et, à droite, d'une pointe d'ivoire et d'une lance, le tout reposant sur une pierre. Son hymne est le « Debout Congolais !» Sa monnaie est « le Franc congolais ». Sa langue officielle est le français. Ses langues nationales sont le kikongo, le lingala, le swahili et le tshiluba. L'Etat en assure la promotion sans discrimination. Les autres langues du pays font partie du patrimoine culturel congolais dont l'Etat assure la
-
-protection.
-
-###### Article 2
-
-La République Démocratique du Congo est composée de la ville de Kinshasa et de 25 provinces dotées de la personnalité juridique.
-
-Ces provinces sont: Bas-Uele, Equateur, Haut-Lomami, Haut-Katanga, Haut-Uele, Ituri, Kasai, Kasai Oriental, Kongo central, Kwango, Kwilu, Lomami, Lualaba, Kasaï Central, MaiNdombe, Maniema, Mongala, Nord-Kivu, Nord¬Ubangi, Sankuru, Sud-Kivu, Sud-Ubangi, Tanganyika, Tshopo, Tshuapa.
-
-Kinshasa est la capitale du pays et le siège des institutions nationales. Elle a le statut de province. La capitale ne peut être transférée dans un autre lieu du pays que par voie de référendum.
-
-La répartition des compétences entre l'Etat et les provinces s'effectué conformément aux dispositions du Titre III de la présente Constitution.
-
-Les limites des provinces et celles de la ville de Kinshasa sont fixées par une loi organique.
-
-###### Article 3
-
-Les provinces et les entités territoriales décentralisées de la République Démocratique du Congo sont dotées dé la personnalité juridique et sont gérées par les organes locaux. Ces entités territoriales décentralisées sont la ville, la commune, le secteur et la chefferie. Elles jouissent de la libre administration et de l'autonomie de gestion de leurs ressources économiques, humaines, financières et techniques.
-
 ## TITRE 1er: DES DISPOSITIONS GENERALES
 
 ### Chapitre 1er: De l'Etat et de la Souveraineté
 
 #### Section 1ère: De l'Etat
+
+###### Article 1er
+
+La République Démocratique du Congo est, dans ses frontières du 30 juin 1960, un Etat de droit, indépendant, souverain, uni et indivisible, social, démocratique et laïc.
+
+Son emblème est le drapeau bleu ciel, orné d'une étoile jaune dans le coin supérieur gauche et traversé en biais d'une bande rouge finement encadrée de jaune.
+
+Sa devise est « Justice -Paix - Travail ».
+
+Ses armoiries se composent d'une tête de léopard encadrée à gauche et, à droite, d'une pointe d'ivoire et d'une lance, le tout reposant sur une pierre.
+
+Son hymne est le « Debout Congolais !»
+
+Sa monnaie est « le Franc congolais ».
+
+Sa langue officielle est le français.
+
+Ses langues nationales sont le kikongo, le lingala, le swahili et le tshiluba. L'Etat en assure la promotion sans discrimination.
+
+Les autres langues du pays font partie du patrimoine culturel congolais dont l'Etat assure la protection.
+
+###### Article 2
+
+La République Démocratique du Congo est composée de la ville de Kinshasa et de 25 provinces dotées de la personnalité juridique.
+
+Ces provinces sont: Bas-Uele, Equateur, Haut-Lomami, Haut-Katanga, Haut-Uele, Ituri, Kasaï, Kasaï Oriental, Kongo central, Kwango, Kwilu, Lomami, Lualaba, Kasaï Central, Mai-Ndombe, Maniema, Mongala, Nord-Kivu, Nord-Ubangi, Sankuru, Sud-Kivu, Sud-Ubangi, Tanganyika, Tshopo, Tshuapa.
+
+Kinshasa est la capitale du pays et le siège des institutions nationales. Elle a le statut de province. La capitale ne peut être transférée dans un autre lieu du pays que par voie de référendum.
+
+La répartition des compétences entre l'Etat et les provinces s'effectue conformément aux dispositions du Titre III de la présente Constitution.
+
+Les limites des provinces et celles de la ville de Kinshasa sont fixées par une loi organique.
+
+###### Article 3
+
+Les provinces et les entités territoriales décentralisées de la République Démocratique du Congo sont dotées de la personnalité juridique et sont gérées par les organes locaux.
+
+Ces entités territoriales décentralisées sont la ville, la commune, le secteur et la chefferie.
+
+Elles jouissent de la libre administration et de l'autonomie de gestion de leurs ressources économiques, humaines, financières et techniques.
 
 [[END OF PAGE 6]]
 
@@ -198,7 +220,7 @@ Les provinces et les entités territoriales décentralisées de la République D
 
 7
 
-La composition, l'organisation, le fonctionnement de ces entités· territoriales décentralisées ainsi que leurs rapports avec l'Etat et les provinces sont fixés par une loi organique.
+La composition, l'organisation, le fonctionnement de ces entités territoriales décentralisées ainsi que leurs rapports avec l'Etat et les provinces sont fixés par une loi organique.
 
 ###### Article 4
 
@@ -208,7 +230,7 @@ De nouvelles provinces et entités territoriales peuvent être créées par dém
 
 ###### Article 5
 
-La souveraineté nationale appartient au peuple. Tout pouvoir émane du peuple qui l'exerce directement par voie de référendum ou d'élections et indirectement par ses représentants ..
+La souveraineté nationale appartient au peuple. Tout pouvoir émane du peuple qui l'exerce directement par voie de référendum ou d'élections et indirectement par ses représentants.
 
 Aucune fraction du peuple ni aucun individu ne peut s'en attribuer l'exercice. La loi fixe les conditions d'organisation des élections et du référendum.
 
@@ -256,7 +278,7 @@ Les modalités de gestion et de concession du domaine de l'Etat visé à l'alin�
 
 ###### Article 10
 
-La nationalité congolaise est une et exclusive. Elle ne peut être détenue concurremment avec "aucune autre.
+La nationalité congolaise est une et exclusive. Elle ne peut être détenue concurremment avec aucune autre.
 
 La nationalité congolaise est soit d'origine, soit d'acquisition individuelle.
 
@@ -270,7 +292,7 @@ Une loi organique détermine les conditions de reconnaissance, d'acquisition, de
 
 9
 
-## TITRE Il : DES DROITS HUMAINS, DES LIBERTES FONDAMENTALES ET DES DEVOIRS DU CITOYEN ET DE L'ETAT
+## TITRE II : DES DROITS HUMAINS, DES LIBERTES FONDAMENTALES ET DES DEVOIRS DU CITOYEN ET DE L'ETAT
 
 ### Chapitre 1er: Des Droits civils et politiques
 
@@ -298,7 +320,7 @@ L'Etat garantit la mise en oeuvre de la parité homme-femme dans lesdites instit
 
 ###### Article 15
 
-Les pouvoirs publics veillent à l'élimination des violences sexuelles. Sans préjudice des traités et accords internationaux, toute violence sexuelle faite sur tout~ personne, dans l'intention de déstabiliser, de disloquer une famille et de faire disparaître tout un peuple est érigée en crime contre l'humanité puni par la loi.
+Les pouvoirs publics veillent à l'élimination des violences sexuelles. Sans préjudice des traités et accords internationaux, toute violence sexuelle faite sur toute personne, dans l'intention de déstabiliser, de disloquer une famille et de faire disparaître tout un peuple est érigée en crime contre l'humanité puni par la loi.
 
 ###### Article 16
 
@@ -356,7 +378,7 @@ Les audiences des cours et tribunaux sont publiques, à moins que cette publicit
 
 ###### Article 21
 
-Tout jugement est écrit et motivé. Il est prononcé en audience publique. Le droit de former un recours contre un jugement est garanti à tous. " est exercé dans les conditions fixées par la loi.
+Tout jugement est écrit et motivé. Il est prononcé en audience publique. Le droit de former un recours contre un jugement est garanti à tous. Il est exercé dans les conditions fixées par la loi.
 
 ###### Article 22
 
@@ -438,7 +460,7 @@ La République Démocratique du Congo accorde, sous réserve de la sécurité na
 
 13
 
-Il est interdit à toute personne jouissant régulièrement du droit / d'asile d'entreprendre toute activité subversive contre son pays d'origine ou contre tout autre pays, à partir du territoire de la République Démocratique du Congo.
+Il est interdit à toute personne jouissant régulièrement du droit d'asile d'entreprendre toute activité subversive contre son pays d'origine ou contre tout autre pays, à partir du territoire de la République Démocratique du Congo.
 
 Les réfugiés ne peuvent ni être remis à l'autorité de l'Etat dans lequel ils sont persécutés ni être refoulés sur le territoire de celui-ci.
 
@@ -636,21 +658,19 @@ L'Etat veille à la protection de l'environnement et à la santé des population
 
 ###### Article 54
 
-Les conditions de construction d'usines, de stockage, de manipulation, d'incinération et ou artisanales installées sur le territoire national sont fixées par la loi.
+Les conditions de construction d'usines, de stockage, de manipulation, d'incinération et d'évacuation des déchets toxiques, polluants ou radioactifs provenant des unités industrielles ou artisanales installées sur le territoire national sont fixées par la loi.
 
-d'évacuation des déchets toxiques, polluants ou radioactifs provenant des unités industrielles Toute pollution ou destruction résultant d'une activité économique donne lieu à compensation
-
-et/ou à réparation.
+Toute pollution ou destruction résultant d'une activité économique donne lieu à compensation et/ou à réparation.
 
 La loi détermine la nature des mesures compensatoires, réparatoires ainsi que les modalités de leur exécution.
 
 ###### Article 55
 
-Le transit l'importation, le stockage, l'enfouissement. le déversement dans les eaux continentales et les espaces maritimes sous juridiction nationale, l'épandage dans l'espace aérien des déchets toxiques, polluants, radioactifs ou de tout autre produit dangereux, en provenance ou non de l'étranger, constitue un crime puni par la loi.
+Le transit, l'importation, le stockage, l'enfouissement, le déversement dans les eaux continentales et les espaces maritimes sous juridiction nationale, l'épandage dans l'espace aérien des déchets toxiques, polluants, radioactifs ou de tout autre produit dangereux, en provenance ou non de l'étranger, constitue un crime puni par la loi.
 
 ###### Article 56
 
-Tout acte, tout accord, toute convention, tout arrangement ou tout autre fait, qui a pour conséquence de priver la nation, les personnes physiques ou morales de tout ou ~artie de leurs propres moyens d'existence tirés de leurs ressources ou de leurs richesses naturelles, sans préjudice des dispositions internationales sur les crimes économiques, est érigé en infraction de pillage punie par la loi.
+Tout acte, tout accord, toute convention, tout arrangement ou tout autre fait, qui a pour conséquence de priver la nation, les personnes physiques ou morales de tout ou partie de leurs propres moyens d'existence tirés de leurs ressources ou de leurs richesses naturelles, sans préjudice des dispositions internationales sur les crimes économiques, est érigé en infraction de pillage punie par la loi.
 
 ###### Article 57
 
@@ -718,11 +738,9 @@ Tout Congolais est tenu de remplir loyalement ses obligations vis-à-vis de l'Et
 
 ###### Article 66
 
-Tout Congolais a le devoir de respecter et de traiter ses concitoyens sans discrimination de renforcer l'unité nationale, le respect et la tolérance réciproques.
+Tout Congolais a le devoir de respecter et de traiter ses concitoyens sans discrimination aucune et d'entretenir avec eux des relations qui permettent de sauvegarder, de promouvoir et de renforcer l'unité nationale, le respect et la tolérance réciproques.
 
-aucune et d'entretenir avec eux des relations qui permettent de sauvegarder, de promouvoir et Il a, en outre, le devoir de préserver et de renforcer la solidarité nationale, singulièrement
-
-lorsque celle-ci est menacée.
+Il a, en outre, le devoir de préserver et de renforcer la solidarité nationale, singulièrement lorsque celle-ci est menacée.
 
 ###### Article 67
 
@@ -734,7 +752,7 @@ lorsque celle-ci est menacée.
 
 Tout Congolais a le devoir de protéger la propriété, les biens et intérêts publics et de respecter la propriété d'autrui.
 
-## TITRE III.: DE L'ORGANISATION ET DE L'EXERCICE DU POUVOIR.
+## TITRE III : DE L'ORGANISATION ET DE L'EXERCICE DU POUVOIR.
 
 ### Chapitre 1er: Des institutions de la République.
 
@@ -756,7 +774,7 @@ Les institutions de la République sont:
 
 ###### Article 69
 
-Le Président de la République est le Chef de l'Etat. Il représente la nation el' le symbole de l'unité nationale.
+Le Président de la République est le Chef de l'Etat. Il représente la nation et est le symbole de l'unité nationale.
 
 Il veille au respect de la Constitution.
 
@@ -764,17 +782,17 @@ Il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics e
 
 ###### Article 70
 
-Le Président de la République est élu au suffrage universel direct pour un de cinq ans renouvelable une seule fois.
+Le Président de la République est élu au suffrage universel direct pour un mandat de cinq ans renouvelable une seule fois.
 
 A la fin de son mandat, le Président de la République reste en fonction jusqu'à l'installation effective du nouveau Président élu.
 
 ###### Article 71
 
-Le Président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour du scrutin, il est p~ dans un délai de quinze jours, à un second tour.
+Le Président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour du scrutin, il est procédé, dans un délai de quinze jours, à un second tour.
 
 Seuls peuvent se présenter au second tour, les deux candidats qui ont recueilli le plus grand nombre des suffrages exprimés au premier tour.
 
-En cas de décès, d'empêchement ou de désistement de l'un ou "autre de ces deux candidats, les suivants se présentent dans l'ordre de leur classement à l'issue du premier tour.
+En cas de décès, d'empêchement ou de désistement de l'un ou l'autre de ces deux candidats, les suivants se présentent dans l'ordre de leur classement à l'issue du premier tour.
 
 Est déclaré élu au second tour, le candidat ayant recueilli la majorité des suffrages exprimés.
 
@@ -806,7 +824,7 @@ Le Président de la République élu entre en fonction dans les dix jours qui su
 
 Avant son entrée en fonction, le Président de la République prête, devant la Cour Constitutionnelle, le serment ci-après:
 
-« Moi .... élu Président de la République Démocratique du Congo, je jure solennellement devant Dieu et fa nation:
+« Moi .... élu Président de la République Démocratique du Congo, je jure solennellement devant Dieu et la nation:
 
 - d'observer et de défendre la Constitution et les lois de la République;
 
@@ -854,7 +872,7 @@ Le Président de la République nomme le Premier ministre au sein de la majorit�
 
 Si une telle majorité n'existe pas, le Président de la République confie une mission d'information à une personnalité en vue d'identifier une coalition.
 
-La mission d'information est de trente jours renouvelable une seule Jois.
+La mission d'information est de trente jours renouvelable une seule fois.
 
 Le Président de la République nomme les autres membres du Gouvernement et met fin à leurs fonctions sur proposition du Premier ministre.
 
@@ -870,7 +888,7 @@ Les ordonnances du Président de la République autres que celles prévues aux a
 
 ###### Article 80
 
-Le Président de la République investit par ordonnance les Gouverneurs et les ViceGouverneurs de province élus, dans un délai de quinze jours conformément à l'article 198.
+Le Président de la République investit par ordonnance les Gouverneurs et les Vice-Gouverneurs de province élus, dans un délai de quinze jours conformément à l'article 198.
 
 ###### Article 81
 
@@ -944,7 +962,7 @@ Les émoluments et la liste civile du Président de la République sont fixés p
 
 ###### Article 90
 
-Le Gouvernement est composé du Premier ministre, de ministres, de Vice¬ministres et, le cas échéant, de Vice-premier ministres, de ministres d'Etat et de ministres délégués. Il est dirigé par le Premier ministre, chef du Gouvernement. En cas d'empêchement, son intérim est assuré par le membre du Gouvernement qui a la préséance. La composition du Gouvernement tient compte de la représentativité nationale. Avant d'entrer en fonction, le Premier ministre présente à l'Assemblée nationale le programme du Gouvernement. Lorsque ce programme est approuvé à la majorité absolue des membres qui composent
+Le Gouvernement est composé du Premier ministre, de ministres, de Vice-ministres et, le cas échéant, de Vice-premier ministres, de ministres d'Etat et de ministres délégués. Il est dirigé par le Premier ministre, chef du Gouvernement. En cas d'empêchement, son intérim est assuré par le membre du Gouvernement qui a la préséance. La composition du Gouvernement tient compte de la représentativité nationale. Avant d'entrer en fonction, le Premier ministre présente à l'Assemblée nationale le programme du Gouvernement. Lorsque ce programme est approuvé à la majorité absolue des membres qui composent
 
 l'Assemblée nationale, celle-ci investit le Gouvernement.
 
@@ -960,7 +978,7 @@ Le Gouvernement dispose de l'administration publique, des Forces armées, de la 
 
 Le Gouvernement est responsable devant l'Assemblée nationale dans les conditions prévues aux articles 90, 100, 146 et 147.
 
-Une ordonnance délibérée en Conseil des ministres fixe l'organisation, le fonctionnement du Gouvernement et les modalités de collaboration entre le Président de la République et le Gouvernement ainsi qu'entre les membres du ' Gouvernement.
+Une ordonnance délibérée en Conseil des ministres fixe l'organisation, le fonctionnement du Gouvernement et les modalités de collaboration entre le Président de la République et le Gouvernement ainsi qu'entre les membres du Gouvernement.
 
 ###### Article 92
 
@@ -994,7 +1012,7 @@ Les émoluments des membres du gouvernement sont fixés par la loi de finances. 
 
 ###### Article 96
 
-Les fonctions de Président de la République sont incompatibles avec l'exercice de tout autre mandat électif, de tout emploi public, civil ou militaire et de toute activité profession ne Ile . Le mandat du Président de la République est également incompatible avec toute responsabilité au sein d'un parti politique.
+Les fonctions de Président de la République sont incompatibles avec l'exercice de tout autre mandat électif, de tout emploi public, civil ou militaire et de toute activité professionnelle. Le mandat du Président de la République est également incompatible avec toute responsabilité au sein d'un parti politique.
 
 ###### Article 97
 
@@ -1018,7 +1036,7 @@ Avant leur entrée en fonction et à l'expiration de celle-ci, le Président de 
 
 Le patrimoine familial inclut les biens du conjoint selon le régime matrimonial, des enfants mineurs et des enfants, même majeurs, à charge du couple.
 
-La Cour constitutionnelle communique cette déclaration à l'administration fiscale. Faute de cette déclaration, endéans les trente jours, la personne concernée est réputée démissionnaire. Dans les trente jours suivant la fin des fonctions, faute de cette déclaration, en je. cas de déclaration frauduleuse ou de soupçon d'enrichissement sans cause, la Cour constitutionnelle ou la Cour de cassation est saisie selon le cas.
+La Cour constitutionnelle communique cette déclaration à l'administration fiscale. Faute de cette déclaration, endéans les trente jours, la personne concernée est réputée démissionnaire. Dans les trente jours suivant la fin des fonctions, faute de cette déclaration, en cas de déclaration frauduleuse ou de soupçon d'enrichissement sans cause, la Cour constitutionnelle ou la Cour de cassation est saisie selon le cas.
 
 #### Section 2 : Du pouvoir législatif
 
@@ -1088,19 +1106,19 @@ Le mandat de sénateur commence à la validation des pouvoirs par le Sénat et e
 
 Nul ne peut être candidat membre du Sénat s'il ne remplit les conditions ci-après:
 
-- être Congolais ;
+1. être Congolais ;
 
-- être âgé de 30 ans au moins ;
+2. être âgé de 30 ans au moins ;
 
-- jouir de la plénitude de ses droits civils et politiques;
+3. jouir de la plénitude de ses droits civils et politiques;
 
-- ne pas se trouver dans un des cas d'exclusion prévus par la loi électorale.
+4. ne pas se trouver dans un des cas d'exclusion prévus par la loi électorale.
 
 ##### Paragraphe 3 : Des immunités et des incompatibilités
 
 ###### Article 107
 
-Aucun parlementaire ne peut être poursuivi, recherché, arrêté, détenu ou jugé en .raison des opinions ou votes émis par lui dans l'exercice de ses fonctions.
+Aucun parlementaire ne peut être poursuivi, recherché, arrêté, détenu ou jugé en raison des opinions ou votes émis par lui dans l'exercice de ses fonctions.
 
 Aucun parlementaire ne peut, en cours de sessions, être poursuivi ou arrêté, sauf en cas de flagrant délit, qu'avec l'autorisation de l'Assemblée nationale ou du Sénat, selon le cas. En dehors de sessions, aucun parlementaire ne peut être arrêté qu'avec l'autorisation du Bureau de l'Assemblée nationale ou du Bureau du Sénat, sauf en cas de flagrant délit, de poursuites autorisées ou de condamnation définitive. La détention ou la poursuite d'un parlementaire est suspendue si la Chambre dont il est
 
@@ -1112,13 +1130,13 @@ Le mandat de député national est incompatible avec le mandat de sénateur et v
 
 Le mandat de député ou de sénateur est incompatible avec les fonctions ou mandats suivants:
 
-> 1. membre du Gouvernement;
+1. membre du Gouvernement;
 
-> 2. membre d'une institution d'appui à la démocratie;
+2. membre d'une institution d'appui à la démocratie;
 
-> 3. membre des Forces armées, de la police nationale et des services de sécurité;
+3. membre des Forces armées, de la police nationale et des services de sécurité;
 
-> 4. magistrat;
+4. magistrat;
 
 [[END OF PAGE 26]]
 
@@ -1126,15 +1144,15 @@ Le mandat de député ou de sénateur est incompatible avec les fonctions ou man
 
 27
 
-- agent de carrière des services publics de l'Etat;
+5. agent de carrière des services publics de l'Etat;
 
-- cadre politico-administratif de la territoriale, à l'exception des chefs de collectivitéchefferie et de groupement;
+6. cadre politico-administratif de la territoriale, à l'exception des chefs de collectivité-chefferie et de groupement;
 
-- mandataire public actif;
+7. mandataire public actif;
 
-- membre des cabinets du Président de la République, du Premier ministre, du Président de l'Assemblée nationale, du Président du Sénat, des membres du Gouvernement, et généralement d'une autorité politique ou administrative de l'Etat, employé dans une entreprise publique ou dans une société d'économie mixte;
+8. membre des cabinets du Président de la République, du Premier ministre, du Président de l'Assemblée nationale, du Président du Sénat, des membres du Gouvernement, et généralement d'une autorité politique ou administrative de l'Etat, employé dans une entreprise publique ou dans une société d'économie mixte;
 
-- tout autre mandat électif.
+9. tout autre mandat électif.
 
 Le mandat de député national ou de sénateur est incompatible avec l'exercice des fonctions rémunérées conférées par un Etat étranger ou un organisme international.
 
@@ -1150,9 +1168,31 @@ Les modalités d'application de l'alinéa précédent ainsi que les autres droit
 
 ###### Article 110
 
-Le mandat de député national ou de sénateur prend fin par: 1. expiration de la législature; 2. décès; 3. démission; 4. empêchement définitif; 5. incapacité permanente; 6. absence non justifiée et non autorisée à plus d'un quart des séances d'une session; 7. exclusion prévue par la loi électorale ; 8. acceptation d'une fonction incompatible avec le mandat de député ou de sénateur; 9. condamnation irrévocable à une peine de servitude pénale principale pour infraction intentionnelle. Toute cause d'inéligibilité, à la date des élections, constatée ultérieurement par l'autorité judiciaire compétente entraîne la perte du mandat de député national ou de sénateur. Dans ces cas, il est remplacé par son premier suppléant. législature est réputé renoncer à son mandat parlementaire obtenu dans le cadre dudit parti
+Le mandat de député national ou de sénateur prend fin par:
 
-Tout député national ou tout sénateur qui quitte délibérément son parti politique durant la politique.
+1. expiration de la législature;
+
+2. décès;
+
+3. démission;
+
+4. empêchement définitif;
+
+5. incapacité permanente;
+
+6. absence non justifiée et non autorisée à plus d'un quart des séances d'une session;
+
+7. exclusion prévue par la loi électorale ;
+
+8. acceptation d'une fonction incompatible avec le mandat de député ou de sénateur;
+
+9. condamnation irrévocable à une peine de servitude pénale principale pour infraction intentionnelle.
+
+Toute cause d'inéligibilité, à la date des élections, constatée ultérieurement par l'autorité judiciaire compétente entraîne la perte du mandat de député national ou de sénateur.
+
+Dans ces cas, il est remplacé par son premier suppléant.
+
+Tout député national ou tout sénateur qui quitte délibérément son parti politique durant la législature est réputé renoncer à son mandat parlementaire obtenu dans le cadre dudit parti politique.
 
 ##### Paragraphe 6: Du fonctionnement de l'Assemblée nationale et du Sénat
 
@@ -1164,21 +1204,21 @@ Tout député national ou tout sénateur qui quitte délibérément son parti po
 
 28
 
-- L'Assemblée nationale et le Sénat sont dirigés, chacun, par un Bureau de sept membres comprenant:
+L'Assemblée nationale et le Sénat sont dirigés, chacun, par un Bureau de sept membres comprenant:
 
-- un président;
+1. un président;
 
-- un premier vice - président;
+2. un premier vice - président;
 
-- un deuxième vice - président;
+3. un deuxième vice - président;
 
-- un rapporteur;
+4. un rapporteur;
 
-- un rapporteur adjoint;
+5. un rapporteur adjoint;
 
-- un questeur;
+6. un questeur;
 
-- un questeur adjoint.
+7. un questeur adjoint.
 
 Les Présidents des deux chambres doivent être des Congolais d'origine. Les membres du Bureau sont élus dans les conditions fixées par le Règlement intérieur de leur Chambre respective.
 
@@ -1188,15 +1228,15 @@ Chaque Chambre du Parlement adopte son Règlement intérieur.
 
 Le Règlement intérieur détermine notamment:
 
-- la durée et les règles de fonctionnement du Bureau, les pouvoirs et prérogatives de son Président ainsi que des autres membres du Bureau;
+1. la durée et les règles de fonctionnement du Bureau, les pouvoirs et prérogatives de son Président ainsi que des autres membres du Bureau;
 
-- le nombre, le mode de désignation, la composition, le rôle et la compétence de ses commissions permanentes ainsi que la création et le fonctionnement des commissions spéciales et temporaires;
+2. le nombre, le mode de désignation, la composition, le rôle et la compétence de ses commissions permanentes ainsi que la création et le fonctionnement des commissions spéciales et temporaires;
 
-- l'organisation des services administratifs dirigés par un Secrétaire général de l'administration publique de chaque Chambre;
+3. l'organisation des services administratifs dirigés par un Secrétaire général de l'administration publique de chaque Chambre;
 
-- le régime disciplinaire des députés et des sénateurs;
+4. le régime disciplinaire des députés et des sénateurs;
 
-- les différents modes de scrutin, à l'exclusion de ceux prévus expressément par la présente Constitution.
+5. les différents modes de scrutin, à l'exclusion de ceux prévus expressément par la présente Constitution.
 
 Avant d'être mis en application, le Règlement intérieur est obligatoirement transmis par le Président du Bureau provisoire de la Chambre intéressée à la Cour constitutionnelle qui se prononce sur sa conformité à la Constitution dans un délai de quinze jours. Passé ce délai, le Règlement intérieur est réputé conforme.
 
@@ -1212,13 +1252,13 @@ Si le désaccord persiste, l'Assemblée nationale statue définitivement.
 
 Chaque Chambre du Parlement se réunit de plein droit en session extraordinaire le quinzième jour suivant la proclamation des résultats des élections législatives par la Commission électorale nationale indépendante en vue de :
 
-- l'installation du Bureau provisoire dirigé par le doyen d'âge assisté des deux les moins âgés;
+1. l'installation du Bureau provisoire dirigé par le doyen d'âge assisté des deux les moins âgés;
 
-- la validation des pouvoirs;
+2. la validation des pouvoirs;
 
-- l'élection et l'installation du Bureau définitif;
+3. l'élection et l'installation du Bureau définitif;
 
-- l'élaboration et l'adoption du Règlement intérieur.
+4. l'élaboration et l'adoption du Règlement intérieur.
 
 [[END OF PAGE 28]]
 
@@ -1236,9 +1276,9 @@ La session extraordinaire prend fin à l'épuisement de l'ordre du jour.
 
 L'Assemblée nationale et le Sénat tiennent de plein droit, chaque année, deux sessions ordinaires :
 
-- la première s'ouvre le 15 mars et se clôture le 15 juin;
+1. la première s'ouvre le 15 mars et se clôture le 15 juin;
 
-- la deuxième s'ouvre le 15 septembre et se clôture le 15 décembre.
+2. la deuxième s'ouvre le 15 septembre et se clôture le 15 décembre.
 
 Si le 15 du mois de mars ou du mois de septembre est férié ou tombe un dimanche, l'ouverture de la session a lieu le premier jour ouvrable qui suit.
 
@@ -1246,11 +1286,9 @@ La durée de chaque session ordinaire ne peut excéder trois mois.
 
 ###### Article 116
 
-Chaque Chambre du Parlement peut être convoquée en session extraordinaire par son ses membres, soit du Président de la République, soit du Gouvernement.
+Chaque Chambre du Parlement peut être convoquée en session extraordinaire par son Président sur un ordre du jour déterminé, à la demande soit de son Bureau, soit de la moitié de ses membres, soit du Président de la République, soit du Gouvernement.
 
-Président sur un ordre du jour déterminé, à la demande soit de son Bureau, soit de la moitié de La clôture intervient dès que la Chambre a épuisé l'ordre du jour pour lequel elle a été
-
-convoquée et, au plus tard, trente jours à compter de la date du début de la session.
+La clôture intervient dès que la Chambre a épuisé l'ordre du jour pour lequel elle a été convoquée et, au plus tard, trente jours à compter de la date du début de la session.
 
 ###### Article 117
 
@@ -1268,13 +1306,13 @@ Le compte rendu analytique des débats ainsi que les documents de l'Assemblée n
 
 Les deux Chambres se réunissent en Congrès pour les cas suivants:
 
-- la procédure de révision constitutionnelle, conformément aux articles 218 à 220 de la présente Constitution;
+1. la procédure de révision constitutionnelle, conformément aux articles 218 à 220 de la présente Constitution;
 
-- l'autorisation de la proclamation de l'état d'urgence ou de l'état de siège et de la déclaration de guerre, conformément aux articles 85 et 86 de la présente Constitution ;
+2. l'autorisation de la proclamation de l'état d'urgence ou de l'état de siège et de la déclaration de guerre, conformément aux articles 85 et 86 de la présente Constitution ;
 
-- l'audition du discours du Président de la République sur l'état de la Nation, conformément à l'article 77 de la présente Constitution;
+3. l'audition du discours du Président de la République sur l'état de la Nation, conformément à l'article 77 de la présente Constitution;
 
-- la désignation des trois membres de la Cour constitutionnelle, conformément aux dispositions de l'article 158 de la présente Constitution.
+4. la désignation des trois membres de la Cour constitutionnelle, conformément aux dispositions de l'article 158 de la présente Constitution.
 
 ###### Article 120
 
@@ -1310,27 +1348,27 @@ Toutefois, en cas des délibérations portant sur des personnes, le vote s'effec
 
 Sans préjudice des autres dispositions de la présente Constitution, la loi fixe les règles concernant:
 
-- les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques;
+1. les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques;
 
-- le régime électoral;
+2. le régime électoral;
 
-> 3. les finances publiques;
+3. les finances publiques;
 
-- les sujétions imposées par la défense nationale aux citoyens en leur personne et en leurs biens;
+4. les sujétions imposées par la défense nationale aux citoyens en leur personne et en leurs biens;
 
-- la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux, les successions et les libéralités;
+5. la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux, les successions et les libéralités;
 
-- la détermination des infractions et des peines qui leur sont applicables, la procédure pénale, l'organisation et le fonctionnement du pouvoir judiciaire, la création de nouveaux ordres de juridictions, le statut des magistrats, le régime juridique du Conseil supérieur de la magistrature;
+6. la détermination des infractions et des peines qui leur sont applicables, la procédure pénale, l'organisation et le fonctionnement du pouvoir judiciaire, la création de nouveaux ordres de juridictions, le statut des magistrats, le régime juridique du Conseil supérieur de la magistrature;
 
-- l'organisation du Barreau, l'assistance judiciaire et la représentation en justice;
+7. l'organisation du Barreau, l'assistance judiciaire et la représentation en justice;
 
-- le commerce, le régime de la propriété des droits et des obligations civiles et commerciales;
+8. le commerce, le régime de la propriété des droits et des obligations civiles et commerciales;
 
-- l'amnistie et l'extradition;
+9. l'amnistie et l'extradition;
 
-- l'assiette, le taux et les modalités de recouvrement des impositions de toute nature, le régime d'émission de la monnaie;
+10. l'assiette, le taux et les modalités de recouvrement des impositions de toute nature, le régime d'émission de la monnaie;
 
-- les emprunts et engagements financiers de l'Etat;
+11. les emprunts et engagements financiers de l'Etat;
 
 [[END OF PAGE 30]]
 
@@ -1338,61 +1376,61 @@ Sans préjudice des autres dispositions de la présente Constitution, la loi fix
 
 31
 
-- les statuts des agents de carrière des services publics de l'Etat, du personnel de l'enseignement supérieur, universitaire et de la recherche scientifique;
+12. les statuts des agents de carrière des services publics de l'Etat, du personnel de l'enseignement supérieur, universitaire et de la recherche scientifique;
 
-- les Forces armées, la Police et les services de sécurité;
+13. les Forces armées, la Police et les services de sécurité;
 
-- le droit du travail et de la sécurité sociale;
+14. le droit du travail et de la sécurité sociale;
 
-- l'organisation générale de la défense et de la Police nationale, le mode de recrutement des membres des Forces armées et de la Police nationale, l'avancement, les droits et obligations des militaires et des personnels de la police.
+15. l'organisation générale de la défense et de la Police nationale, le mode de recrutement des membres des Forces armées et de la Police nationale, l'avancement, les droits et obligations des militaires et des personnels de la police.
 
 ###### Article 123
 
 Sans préjudice des autres dispositions de la présente Constitution, la loi détermine les principes fondamentaux concernant:
 
-- la libre administration des provinces et' des entités territoriales décentralisées, de leurs compétences et de leurs ressources;
+1. la libre administration des provinces et des entités territoriales décentralisées, de leurs compétences et de leurs ressources;
 
-- la création des entreprises, établissements et organismes publics;
+2. la création des entreprises, établissements et organismes publics;
 
-- le régime foncier, minier, forestier et immobilier;
+3. le régime foncier, minier, forestier et immobilier;
 
-- la mutualité et l'épargne;
+4. la mutualité et l'épargne;
 
-- l'enseignement et la santé;
+5. l'enseignement et la santé;
 
-- le régime pénitentiaire;
+6. le régime pénitentiaire;
 
-- le pluralisme politique et syndical;
+7. le pluralisme politique et syndical;
 
-- le droit de grève;
+8. le droit de grève;
 
-- l'organisation des médias ;
+9. l'organisation des médias ;
 
-- la recherche scientifique et technologique;
+10. la recherche scientifique et technologique;
 
-- la coopérative;
+11. la coopérative;
 
-- la culture et les arts;
+12. la culture et les arts;
 
-- les sports et les loisirs;
+13. les sports et les loisirs;
 
-- l'agriculture, l'élevage, la pêche et l'aquaculture;
+14. l'agriculture, l'élevage, la pêche et l'aquaculture;
 
-- la protection de l'environnement et le tourisme;
+15. la protection de l'environnement et le tourisme;
 
-- la protection des groupes vulnérables.
+16. la protection des groupes vulnérables.
 
 ###### Article 124
 
 Les lois auxquelles la Constitution confère le caractère de loi organique, sont votées et modifiées à la majorité absolue des membres composant chaque Chambre dans les conditions suivantes:
 
-- la proposition de loi n'est soumise à la délibération et au vote de la première Chambre saisie qu'à l'expiration d'un délai de quinze jours après son dépôt au Gouvernement;
+1. la proposition de loi n'est soumise à la délibération et au vote de la première Chambre saisie qu'à l'expiration d'un délai de quinze jours après son dépôt au Gouvernement;
 
-- la procédure de l'article 132 est applicable. Toutefois, faute d'accord entre les deux Chambres, le texte ne peut être adopté par l'Assemblée nationale en dernière lecture qu'à la majorité absolue de ses membres;
+2. la procédure de l'article 132 est applicable. Toutefois, faute d'accord entre les deux Chambres, le texte ne peut être adopté par l'Assemblée nationale en dernière lecture qu'à la majorité absolue de ses membres;
 
-- les lois organiques ne peuvent être promulguées qu'après déclaration par la Cour constitutionnelle obligatoirement saisie par le Président de la République, de leur conformité à la Constitution dans un délai de quinze jours.
+3. les lois organiques ne peuvent être promulguées qu'après déclaration par la Cour constitutionnelle obligatoirement saisie par le Président de la République, de leur conformité à la Constitution dans un délai de quinze jours.
 
-###### Article .125
+###### Article 125
 
 [[END OF PAGE 31]]
 
@@ -1408,9 +1446,19 @@ La procédure normale est appliquée aux propositions ou aux projets de loi port
 
 Les Lois de finances déterminent les ressources et les charges de l'Etat. L'Assemblée nationale et le Sénat votent les projets de lois de finances dans les conditions prévues pour la loi organique visée à l'article 124 de la Constitution.
 
-Le projet de loi de finances de l'année, qui comprend notamment le budget, est déposé par le Gouvernement sur le Bureau de l'Assemblée Nationale au plus tard le quinze septembre de chaque année. Les créations et transformations d'emplois publics ne peuvent être opérées hors les prévisions des lois de finances. Si le projet de loi de finances, déposé dans les délais constitutionnels, n'est pas voté avant l'ouverture du nouvel exercice, il est mis en vigueur par le Président de la République, sur proposition du Gouvernement délibérée en Conseil des ministres, compte tenu des amendements votés par chacune dès deux Chambres. Si le projet de loi de finances n'a pas été déposé en temps utile pour être promulgué avant le début de l'exercice, le Gouvernement demande à l'Assemblée nationale et au Sénat l'ouverture de crédits provisoires. Si, quinze jours avant la fin de la session budgétaire, le Gouvernement n'a pas déposé son projet de budget, il est réputé démissionnaire. Dans le cas où l'Assemblée nationale et le Sénat ne se prononcent pas dans les quinze jours sur l'ouverture des crédits provisoires, les dispositions du projet prévoyant ces crédits sont mises en vigueur par le Président de la République sur proposition du Gouvernement délibérée en Conseil des ministres. Si, compte tenu de la procédure ci-dessus prévue, la loi de finances de l'année n'a pu être mise
+Le projet de loi de finances de l'année, qui comprend notamment le budget, est déposé par le Gouvernement sur le Bureau de l'Assemblée Nationale au plus tard le quinze septembre de chaque année.
 
-en vigueur au premier jour du mois de février de l'exercice budgétaire, le Président de la République, sur proposition du Gouvernement délibérée en Conseil des ministres, met en exécution le projet de loi de finances, compte tenu des amendements votés par chacune des deux Chambres.
+Les créations et transformations d'emplois publics ne peuvent être opérées hors les prévisions des lois de finances.
+
+Si le projet de loi de finances, déposé dans les délais constitutionnels, n'est pas voté avant l'ouverture du nouvel exercice, il est mis en vigueur par le Président de la République, sur proposition du Gouvernement délibérée en Conseil des ministres, compte tenu des amendements votés par chacune des deux Chambres.
+
+Si le projet de loi de finances n'a pas été déposé en temps utile pour être promulgué avant le début de l'exercice, le Gouvernement demande à l'Assemblée nationale et au Sénat l'ouverture de crédits provisoires.
+
+Si, quinze jours avant la fin de la session budgétaire, le Gouvernement n'a pas déposé son projet de budget, il est réputé démissionnaire.
+
+Dans le cas où l'Assemblée nationale et le Sénat ne se prononcent pas dans les quinze jours sur l'ouverture des crédits provisoires, les dispositions du projet prévoyant ces crédits sont mises en vigueur par le Président de la République sur proposition du Gouvernement délibérée en Conseil des ministres.
+
+Si, compte tenu de la procédure ci-dessus prévue, la loi de finances de l'année n'a pu être mise en vigueur au premier jour du mois de février de l'exercice budgétaire, le Président de la République, sur proposition du Gouvernement délibérée en Conseil des ministres, met en exécution le projet de loi de finances, compte tenu des amendements votés par chacune des deux Chambres.
 
 ###### Article 127
 
@@ -1428,11 +1476,15 @@ Les matières autres que celles qui sont du domaine de la loi ont un caractère 
 
 33
 
-Le Gouvernement peut, pour l'exécution urgente de son programme d'action, demander à l'Assemblée nationale ou au Sénat l'autorisation de prendre, par ordonnances-lois, pendant un
+Le Gouvernement peut, pour l'exécution urgente de son programme d'action, demander à l'Assemblée nationale ou au Sénat l'autorisation de prendre, par ordonnances-lois, pendant un délai limité et sur des matières déterminées, des mesures qui sont normalement du domaine de la loi.
 
-délai limité et sur des matières déterminées, des mesures qui sont normalement du domaine de la loi. Ces ordonnances-lois sont délibérées en Conseil des ministres. Elles entrent en vigueur dès leur public3tion et deviennent caduques si le projet de loi de ratification n'est pas déposé devant le Parlement au plus tard à la date limite fixée par la loi d'habilitation. A l'expiration du délai visé à l'alinéa premier du présent article, si le Parlement ne ratifie pas ces ordonnances-lois, celles-ci cessent de plein droit de produire leurs effets. Les ordonnances-lois délibérées en Conseil des ministres et ratifiées ne peuvent être modifiées dans leurs dispositions que par la loi. Les ordonnances-lois cessent de plein droit de produire leurs effets en cas de rejet du projet de
+Ces ordonnances-lois sont délibérées en Conseil des ministres. Elles entrent en vigueur dès leur publication et deviennent caduques si le projet de loi de ratification n'est pas déposé devant le Parlement au plus tard à la date limite fixée par la loi d'habilitation.
 
-loi de ratification.
+A l'expiration du délai visé à l'alinéa premier du présent article, si le Parlement ne ratifie pas ces ordonnances-lois, celles-ci cessent de plein droit de produire leurs effets.
+
+Les ordonnances-lois délibérées en Conseil des ministres et ratifiées ne peuvent être modifiées dans leurs dispositions que par la loi.
+
+Les ordonnances-lois cessent de plein droit de produire leurs effets en cas de rejet du projet de loi de ratification.
 
 ###### Article 130
 
@@ -1454,7 +1506,7 @@ La discussion des projets de loi porte, devant la première Chambre saisie, sur 
 
 ###### Article 133
 
-Les membres du Gouvernement ont le droit de proposer des .amendements aux textes en discussion mais ne participent pas au vote.
+Les membres du Gouvernement ont le droit de proposer des amendements aux textes en discussion mais ne participent pas au vote.
 
 ###### Article 134
 
@@ -1470,7 +1522,7 @@ Les propositions de loi et les amendements formulés par les membres de l'Assemb
 
 Tout projet ou toute proposition de loi est examiné successivement par les deux Chambres en vue de l'adoption d'un texte identique.
 
-Lorsque, par suite d'un désaccord entre les deux Chambres, un projet ou une proposition de Ici n'a pu être adopté après une lecture par chaque Chambre, une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion est mise en place par les deux Bureaux.
+Lorsque, par suite d'un désaccord entre les deux Chambres, un projet ou une proposition de loi n'a pu être adopté après une lecture par chaque Chambre, une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion est mise en place par les deux Bureaux.
 
 Le texte élaboré par la Commission mixte paritaire est soumis pour adoption aux deux Chambres.
 
@@ -1482,7 +1534,9 @@ Dans les six jours de son adoption, la loi est transmise au Président de la Ré
 
 ###### Article 137
 
-Dans un délai de quinze jours de 13 transmission, le Président de la République peut demander à l'Assemblée nationale ou au Sénat une nouvelle délibération de la loi ou de certains de ses articles. Cette nouvelle délibération ne peut être refusée. Le texte soumis à une seconde délibération est adopté par l'Assemblée nationale et le Sénat soit sous la forme initiale, soit après modification à la majorité é:bs~lue des membres qui les composent.
+Dans un délai de quinze jours de la transmission, le Président de la République peut demander à l'Assemblée nationale ou au Sénat une nouvelle délibération de la loi ou de certains de ses articles. Cette nouvelle délibération ne peut être refusée.
+
+Le texte soumis à une seconde délibération est adopté par l'Assemblée nationale et le Sénat soit sous la forme initiale, soit après modification à la majorité absolue des membres qui les composent.
 
 ###### Article 138
 
@@ -1538,7 +1592,7 @@ Dans tous les cas, le Gouvernement assure la diffusion en français et dans chac
 
 ###### Article 143
 
-Conformément aux dispositions de l'article 86 de la Constitution, le Président de la République déclare la guerre sur décision du Conseil des ministres après avis du Conseil supérieur de la défense et autorisation de deux Chambres
+Conformément aux dispositions de l'article 86 de la Constitution, le Président de la République déclare la guerre sur décision du Conseil des ministres après avis du Conseil supérieur de la défense et autorisation des deux Chambres
 
 Il en informe la Nation par un message.
 
@@ -1566,15 +1620,19 @@ L'Assemblée nationale et le Sénat peuvent, par une loi, mettre fin à tout mom
 
 ###### Article 145
 
-En cas d'état d'urgence Ou d'état de siège, le Président de la République prend, par ordonnances délibérées en Conseil des ministres, les mesures nécessaires pour faire face à la situation.
+En cas d'état d'urgence ou d'état de siège, le Président de la République prend, par ordonnances délibérées en Conseil des ministres, les mesures nécessaires pour faire face à la situation.
 
-Ces ordonnances sont, dès leur signature, soumises à la Cour constitutionnelle qui, toutes affaires cessantes, déclare si elles dérogent ,ou non à la présente Constitution.
+Ces ordonnances sont, dès leur signature, soumises à la Cour constitutionnelle qui, toutes affaires cessantes, déclare si elles dérogent ou non à la présente Constitution.
 
 ###### Article 146
 
 Le Premier ministre peut, après délibération du Conseil des ministres, engager devant l'Assemblée nationale la responsabilité du Gouvernement sur son programme, sur une déclaration de politique générale ou sur le vote d'un texte.
 
-L'Assemblée nationale met en cause la responsabilité du Gouvernement ou d'un membre du Gouvernement par le vote d'une motion de censure ou de défiance. La motion de censure contre le Gouvernement n'est recevable que si elle est signée par un quart des membres de l'Assemblée nationale. La motion de défiance contre un membre du Gouvernement n'est recevable que si elle est signée par un dixième des membres de l'Assemblée nationale. Le débat et le vote ne peuvent avoir lieu que quarante huit heures après le dépôt de la motion. Seuls sont recensés les votes favorables à la motion .de censure ou de défiance qui ne peut être adoptée qu'à la majorité absolue des membres composant l'Assemblée nationale. Si la motion de censure ou de défiance est rejetée, ses signataires ne peuvent en proposer une nouvelle au cours de la même session.
+L'Assemblée nationale met en cause la responsabilité du Gouvernement ou d'un membre du Gouvernement par le vote d'une motion de censure ou de défiance. La motion de censure contre le Gouvernement n'est recevable que si elle est signée par un quart des membres de l'Assemblée nationale. La motion de défiance contre un membre du Gouvernement n'est recevable que si elle est signée par un dixième des membres de l'Assemblée nationale.
+
+Le débat et le vote ne peuvent avoir lieu que quarante huit heures après le dépôt de la motion.
+
+Seuls sont recensés les votes favorables à la motion de censure ou de défiance qui ne peut être adoptée qu'à la majorité absolue des membres composant l'Assemblée nationale. Si la motion de censure ou de défiance est rejetée, ses signataires ne peuvent en proposer une nouvelle au cours de la même session.
 
 Le programme, la déclaration de politique générale ou le texte visé à l'alinéa 1er est considéré comme adopté sauf si une motion de censure est votée dans les conditions prévues aux alinéas 2 et 3 du présent article.
 
@@ -1632,51 +1690,51 @@ Toute loi dont l'objectif est manifestement de fournir une solution à un procè
 
 ###### Article 152
 
-- Le Conseil supérieur de la magistrature est l'organe de gestion du pouvoir judiciaire.
+Le Conseil supérieur de la magistrature est l'organe de gestion du pouvoir judiciaire.
 
-- Le Conseil supérieur de la magistrature est composé de:
+Le Conseil supérieur de la magistrature est composé de:
 
-- Président de la Cour constitutionnelle;
+1. Président de la Cour constitutionnelle;
 
-- Procureur général près la Cour constitutionnelle;
+2. Procureur général près la Cour constitutionnelle;
 
-- Premier Président de la Cour de cassation;
+3. Premier Président de la Cour de cassation;
 
-- Procureur général près la Cour de cassation;
+4. Procureur général près la Cour de cassation;
 
-- Premier Président du Conseil d'Etat;
+5. Premier Président du Conseil d'Etat;
 
-- Procureur général près le Conseil d'Etat;
+6. Procureur général près le Conseil d'Etat;
 
-- Premier Président de la Haute Cour militaire;
+7. Premier Président de la Haute Cour militaire;
 
-- Auditeur général près la Haute Cour militaire;
+8. Auditeur général près la Haute Cour militaire;
 
-- Premiers Présidents des Cours d'Appel;
+9. Premiers Présidents des Cours d'Appel;
 
-- Procureurs Généraux près les Cours d'Appel;
+10. Procureurs Généraux près les Cours d'Appel;
 
-- Premiers Présidents des Cours administratives d'Appel;
+11. Premiers Présidents des Cours administratives d'Appel;
 
-- Procureurs Généraux près les Cours administratives d'Appel;
+12. Procureurs Généraux près les Cours administratives d'Appel;
 
-- Premiers Présidents des Cours militaires;
+13. Premiers Présidents des Cours militaires;
 
-- Auditeurs militaires supérieurs;
+14. Auditeurs militaires supérieurs;
 
-- deux magistrats de siège par ressort de Cour d'Appel, élus par l'ensemble des magistrats du ressort pour un mandat de trois ans;
+15. deux magistrats de siège par ressort de Cour d'Appel, élus par l'ensemble des magistrats du ressort pour un mandat de trois ans;
 
-- deux magistrats du parquet par ressort de Cour d'Appel, élus par l'ensemble des magistrats du ressort pour un mandat de trois ans;
+16. deux magistrats du parquet par ressort de Cour d'Appel, élus par l'ensemble des magistrats du ressort pour un mandat de trois ans;
 
-- un magistrat de siège par ressort de Cour militaire;
+17. un magistrat de siège par ressort de Cour militaire;
 
 18. un magistrat de parquet par ressort de Cour militaire.
 
 Il élabore les propositions de nomination, de promotion et de révocation des magistrats.
 
-ri exerce le pouvoir disciplinaire sur les magistrats. Il donne ses avis en matière de recours en grâce.
+Il exerce le pouvoir disciplinaire sur les magistrats. Il donne ses avis en matière de recours en grâce.
 
-Une loi organique détermine l'organisation et 'e fonctionnement du Conseil supérieur de la magistrature.
+Une loi organique détermine l'organisation et le fonctionnement du Conseil supérieur de la magistrature.
 
 ##### Paragraphe 2 : Des juridictions de l'ordre judiciaire
 
@@ -1688,11 +1746,11 @@ Sans préjudice des autres compétences qui lui sont reconnues par la présente 
 
 Dans les conditions fixées par la Constitution et les lois de la République, la Cour de cassation connaît en premier et dernier ressort des infractions commises par:
 
-- les membres de l'Assemblée nationale et du Sénat;
+1. les membres de l'Assemblée nationale et du Sénat;
 
-- les membres du Gouvernement autres que le Premier ministre;
+2. les membres du Gouvernement autres que le Premier ministre;
 
-- les membres de la Cour constitutionnelle;
+3. les membres de la Cour constitutionnelle;
 
 [[END OF PAGE 38]]
 
@@ -1700,21 +1758,21 @@ Dans les conditions fixées par la Constitution et les lois de la République, l
 
 39
 
-- les magistrats de la Cour de cassation ainsi que du parquet près cette Cour;
+4. les magistrats de la Cour de cassation ainsi que du parquet près cette Cour;
 
-- les membres du Conseil d'Etat et les membres du Parquet près ce Conseil;
+5. les membres du Conseil d'Etat et les membres du Parquet près ce Conseil;
 
-- les membres de la Cour des Comptes et les membres du parquet près cette Cour;
+6. les membres de la Cour des Comptes et les membres du parquet près cette Cour;
 
-- les Premiers Présidents des Cours d'appel ainsi que les Procureurs généraux près ces cours;
+7. les Premiers Présidents des Cours d'appel ainsi que les Procureurs généraux près ces cours;
 
-- les Premiers Présidents des Cours administratives d'appel et les Procureurs près ces cours;
+8. les Premiers Présidents des Cours administratives d'appel et les Procureurs près ces cours;
 
-- les Gouverneurs, les Vice-gouverneurs de province et les ministres provinciaux;
+9. les Gouverneurs, les Vice-gouverneurs de province et les ministres provinciaux;
 
-- les Présidents des Assemblées provinciales.
+10. les Présidents des Assemblées provinciales.
 
-Les Cours et Tribunaux, civils et militaires, appliquent les traités internationaux dûment ratifiés, les lois, les actes réglementaires pour autant. qu'ils soient conformes aux lois ainsi que la coutume pour autant que celle-ci ne soit pas contraire à l'ordre public ou aux bonnes mœurs.
+Les Cours et Tribunaux, civils et militaires, appliquent les traités internationaux dûment ratifiés, les lois, les actes réglementaires pour autant qu'ils soient conformes aux lois ainsi que la coutume pour autant que celle-ci ne soit pas contraire à l'ordre public ou aux bonnes mœurs.
 
 L'organisation, le fonctionnement et les compétences des juridictions de l'ordre judiciaire sont déterminés par une loi organique.
 
@@ -1726,7 +1784,7 @@ Il est institué un ordre de juridictions administratives composé du Conseil d'
 
 ###### Article 155
 
-Sans préjudice des autres compétences que lui reconnaît la Constitution ou la loi, le Conseil d'Etat connaît, en premier et dernier ressort, des recours pour violation de la loi, formés .contre les actes, règlements et décisions des autorités administratives centrales. Il connaît en appel des recours contre les décisions des Cours administratives d'appel. Il connaît, dans les cas où il n'existe pas d'autres juridictions compétentes, de demandes d'indemnités relatives à la réparation d'un dommage exceptionnel, matériel ou moral résultant d'une mesure prise ou ordonnée par les autorités de la République. Il se prononce en équité en tenant compte de toutes les circonstances d'intérêt public ou privé.
+Sans préjudice des autres compétences que lui reconnaît la Constitution ou la loi, le Conseil d'Etat connaît, en premier et dernier ressort, des recours pour violation de la loi, formés contre les actes, règlements et décisions des autorités administratives centrales. Il connaît en appel des recours contre les décisions des Cours administratives d'appel. Il connaît, dans les cas où il n'existe pas d'autres juridictions compétentes, de demandes d'indemnités relatives à la réparation d'un dommage exceptionnel, matériel ou moral résultant d'une mesure prise ou ordonnée par les autorités de la République. Il se prononce en équité en tenant compte de toutes les circonstances d'intérêt public ou privé.
 
 L'organisation, la compétence et le fonctionnement des juridictions de l'ordre administratif sont fixés par une loi organique.
 
@@ -1762,9 +1820,11 @@ renouvelable une seule fois. Il est investi par ordonnance du Président de la R
 
 ###### Article 159
 
-Nul ne peut être nommé membre de la Cour constitutionnelle: 1. s'il n'est congolais 2. s'il ne justifie d'une expérience éprouvée de quinze ans dans les domaines juridique ou
+Nul ne peut être nommé membre de la Cour constitutionnelle:
 
-politique.
+1. s'il n'est congolais
+
+2. s'il ne justifie d'une expérience éprouvée de quinze ans dans les domaines juridique ou politique.
 
 ###### Article 160
 
@@ -1812,9 +1872,9 @@ La Cour constitutionnelle est le juge pénal du Président de la République et 
 
 Sans préjudice des autres dispositions de la présente Constitution, il y a haute trahison lorsque le Président de la République a violé intentionnellement la Constitution ou lorsque lui ou le Premier ministre sont reconnus auteurs, co-auteurs ou complices de violations graves et caractérisées des Droits de l'Homme, de cession d'une partie du territoire national. Il y a atteinte à l'honneur ou à la probité notamment lorsque le comportement personnel du Président de la République ou du Premier ministre est contraire aux bonnes mœurs ou qu'ils sont reconnus auteurs, co-auteurs ou complices de malversations, de corruption ou d'enrichissement illicite.
 
-Il y a délit d'initié dans le chef du Président de la République ou du Premier ministre lorsqu'il effectue des opérations sur valeurs immobilières ou sur marchandises à l'égard desquelles il possède des informations privilégiées et dont il tire profit avant que ces info(mations soient connues du public. Le délit d'initié englobe l'achat ou la vente d'actions fondés sur des renseignements qui ne seraient jamais divulgués aux actionnaires. Parlement sur l'activité gouvernementale, le Premier ministre ne fournit aucune réponse dans
+Il y a délit d'initié dans le chef du Président de la République ou du Premier ministre lorsqu'il effectue des opérations sur valeurs immobilières ou sur marchandises à l'égard desquelles il possède des informations privilégiées et dont il tire profit avant que ces informations soient connues du public. Le délit d'initié englobe l'achat ou la vente d'actions fondés sur des renseignements qui ne seraient jamais divulgués aux actionnaires.
 
-Il y a outrage au Parlement lorsque sur des questions posées par l'une ou l'autre Chambre du un délai de trente jours.
+Il y a outrage au Parlement lorsque sur des questions posées par l'une ou l'autre Chambre du Parlement sur l'activité gouvernementale, le Premier ministre ne fournit aucune réponse dans un délai de trente jours.
 
 ###### Article 166
 
@@ -1893,15 +1953,15 @@ La Banque centrale du Congo est l'institut d'émission de la République Démocr
 
 A ce titre, elle a pour mission:
 
-- la garde des fonds publics;
+1. la garde des fonds publics;
 
-- la sauvegarde et la stabilité monétaire;
+2. la sauvegarde et la stabilité monétaire;
 
-- la définition et la mise en oeuvre de la politique monétaire;
+3. la définition et la mise en oeuvre de la politique monétaire;
 
-- le contrôle de l'ensemble de l'activité bancaire ;
+4. le contrôle de l'ensemble de l'activité bancaire ;
 
-- de conseil économique et financier du Gouvernement.
+5. de conseil économique et financier du Gouvernement.
 
 Dans la réalisation de ces missions et attributions, la Banque centrale du Congo est indépendante et jouit de l'autonomie de gestion.
 
@@ -2065,7 +2125,7 @@ Sans préjudice des autres dispositions de la présente Constitution, les dispos
 
 47
 
-###### Articles 198
+###### Article 198
 
 Le Gouvernement provincial est composé d'un Gouverneur, d'un Vice-Gouverneur et des ministres provinciaux. Le Gouverneur et le Vice-Gouverneur sont élus pour un mandat de cinq ans renouvelable une seule fois par les députés provinciaux au sein ou en dehors de l'Assemblée provinciale. Ils sont investis par ordonnance du Président de la République. Les ministres provinciaux sont désignés par le Gouverneur au sein ou en dehors de l'Assemblée provinciale. La composition du Gouvernement provincial tient compte de la représentativité provinciale. Le nombre de ministres provinciaux ne peut dépasser dix. Avant d'entrer en fonction, le Gouverneur présente à l'Assemblée provinciale le programme de son Gouvernement. Lorsque ce programme est approuvé à la majorité absolue des membres qui composent l'Assemblée provinciale, celle-ci investit les ministres. Les membres du Gouvernement provincial peuvent être, collectivement ou individuellement, relevés de leurs fonctions par le vote d'une motion de censure ou de défiance de l'Assemblée provinciale. Les dispositions des articles 146 et 147 de la présente Constitution s'appliquent, mutatis
 
@@ -2099,11 +2159,65 @@ Les matières sont, soit de la compétence exclusive du pouvoir central, soit de
 
 ###### Article 202
 
-Sans préjudice des autres dispositions de la présente Constitution, les matières suivantes sont de la compétence exclusive du pouvoir central: 1. les affaires étrangères comprenant les relations diplomatiques ainsi que les traités et accords internationaux; 2. la réglementation du commerce extérieur; 3. la nationalité, le statut et la police des étrangers; 4. l'extradition, l'immigration, l'émigration et la délivrance des passeports et des visas; 5. la sûreté extérieure; 6. la défense nationale; 7. là police nationale; 8. la fonction publique nationale; 9. les finances publiques de la République; 10. l'établissement des impôts sur le revenu, des impôts sur les sociétés et des impôts personnels conformément à l'article 174 ; 11. la dette publique de la République; 12. las emprunts extérieurs pour les besoins de la République ou des provinces; 13. les emprunts intérieurs pour les besoins de la République; 14. la monnaie, l'émission de la monnaie et le pouvoir libératoire de la monnaie; 15. les poids, mesures et informatique; 16. les douanes et les droits d'importation et d'exportation; 17. la réglementation concernant les banques et les opérations bancaires et boursières; 18. la réglementation des changes; 19. la propriété littéraire, artistique et industrielle et les brevets. 20. les postes et les télécommunications, y compris les téléphones et télégraphes, la radiodiffusion, la télévision et les satellites; 21. la navigation maritime et intérieure, les lignes aériennes, les chemins de fer, les routes et autres voies de communication, naturelles ou artificielles qui relient deux ou plusieurs provinces ou le territoire de la République à un territoire étranger ou qu'une loi nationale a déclarée d'intérêt national bien qu'elles soient entièrement situées sur le territoire d'une province; 22. les universités et autres établissements d'enseignement scientifique, technique ou professionnel supérieur créés ou subventionnés par le Gouvernement central ou par les Gouvernements provinciaux et qu'une loi nationale a déclarés d'intérêt national; 23. l'établissement des normes d'enseignement applicables dans tous les. territoires de la République; 24. l'acquisition des biens pour les besoins de. la République, sans préjudice des dispositions de l'article 34 ; 25. l'élaboration des programmes agricoles, forestiers et énergétiques d'intérêt national et la coordination des programmes d'intérêt provincial; Les offices des produits agricoles et les organismes assimilés ainsi que la répartition des cadres, conformément au statut des agents de carrière des services publics de l'Etat; Les régimes énergétiques, agricoles et forestiers sur la chasse et la pêche, sur la conservation de la nature (flore et faune), sur la capture, sur l'élevage, sur les denrées alimentaires d'origine animale et l'art vétérinaire. 26. la protection contre les dangers occasionnés par l'énergie ou par les radiations et
+Sans préjudice des autres dispositions de la présente Constitution, les matières suivantes sont de la compétence exclusive du pouvoir central:
 
-l'élimination des substances radioactives;
+1. les affaires étrangères comprenant les relations diplomatiques ainsi que les traités et accords internationaux;
 
-- la prévention des abus des puissances économiques;
+2. la réglementation du commerce extérieur;
+
+3. la nationalité, le statut et la police des étrangers;
+
+4. l'extradition, l'immigration, l'émigration et la délivrance des passeports et des visas;
+
+5. la sûreté extérieure;
+
+6. la défense nationale;
+
+7. la police nationale;
+
+8. la fonction publique nationale;
+
+9. les finances publiques de la République;
+
+10. l'établissement des impôts sur le revenu, des impôts sur les sociétés et des impôts personnels conformément à l'article 174 ;
+
+11. la dette publique de la République;
+
+12. les emprunts extérieurs pour les besoins de la République ou des provinces;
+
+13. les emprunts intérieurs pour les besoins de la République;
+
+14. la monnaie, l'émission de la monnaie et le pouvoir libératoire de la monnaie;
+
+15. les poids, mesures et informatique;
+
+16. les douanes et les droits d'importation et d'exportation;
+
+17. la réglementation concernant les banques et les opérations bancaires et boursières;
+
+18. la réglementation des changes;
+
+19. la propriété littéraire, artistique et industrielle et les brevets.
+
+20. les postes et les télécommunications, y compris les téléphones et télégraphes, la radiodiffusion, la télévision et les satellites;
+
+21. la navigation maritime et intérieure, les lignes aériennes, les chemins de fer, les routes et autres voies de communication, naturelles ou artificielles qui relient deux ou plusieurs provinces ou le territoire de la République à un territoire étranger ou qu'une loi nationale a déclarée d'intérêt national bien qu'elles soient entièrement situées sur le territoire d'une province;
+
+22. les universités et autres établissements d'enseignement scientifique, technique ou professionnel supérieur créés ou subventionnés par le Gouvernement central ou par les Gouvernements provinciaux et qu'une loi nationale a déclarés d'intérêt national;
+
+23. l'établissement des normes d'enseignement applicables dans tous les territoires de la République;
+
+24. l'acquisition des biens pour les besoins de la République, sans préjudice des dispositions de l'article 34 ;
+
+25. l'élaboration des programmes agricoles, forestiers et énergétiques d'intérêt national et la coordination des programmes d'intérêt provincial;
+
+Les offices des produits agricoles et les organismes assimilés ainsi que la répartition des cadres, conformément au statut des agents de carrière des services publics de l'Etat;
+
+Les régimes énergétiques, agricoles et forestiers sur la chasse et la pêche, sur la conservation de la nature (flore et faune), sur la capture, sur l'élevage, sur les denrées alimentaires d'origine animale et l'art vétérinaire.
+
+26. la protection contre les dangers occasionnés par l'énergie ou par les radiations et l'élimination des substances radioactives;
+
+27. la prévention des abus des puissances économiques;
 
 [[END OF PAGE 48]]
 
@@ -2111,65 +2225,67 @@ l'élimination des substances radioactives;
 
 49
 
-- le patrimoine historique, les monuments publics et les parcs déclarés d'intérêt national;
+28. le patrimoine historique, les monuments publics et les parcs déclarés d'intérêt national;
 
-- les services de la météorologie et la coordination technique des services de la géodésie, de la cartographie et de l'hydrographie;
+29. les services de la météorologie et la coordination technique des services de la géodésie, de la cartographie et de l'hydrographie;
 
-- la nomination et l'affectation des inspecteurs provinciaux de l'enseignement primaire, secondaire, professionnel et spécial;
+30. la nomination et l'affectation des inspecteurs provinciaux de l'enseignement primaire, secondaire, professionnel et spécial;
 
-- les statistiques et le recensement d'intérêt national;
+31. les statistiques et le recensement d'intérêt national;
 
-- la planification nationale;
+32. la planification nationale;
 
-- la recherche scientifique et technologique;
+33. la recherche scientifique et technologique;
 
-- les plans directeurs nationaux de développement des infrastructures de base, notamment les ports, les aéroports, les gares;
+34. les plans directeurs nationaux de développement des infrastructures de base, notamment les ports, les aéroports, les gares;
 
-- l'assistance aux anciens combattants et les handicapés de guerre;
+35. l'assistance aux anciens combattants et les handicapés de guerre;
 
-- la législation notamment concernant:
+36. la législation notamment concernant:
 
-- le code de commerce, y compris les assurances, la constitution et l'agrément des sociétés;
+a) le code de commerce, y compris les assurances, la constitution et l'agrément des sociétés;
 
-- le code pénal, le régime pénitentiaire;
+b) le code pénal, le régime pénitentiaire;
 
-- le code d'organisation et de compétence judiciaires et le code judiciaire;
+c) le code d'organisation et de compétence judiciaires et le code judiciaire;
 
-- la législation pour les professions libérales;
+d) la législation pour les professions libérales;
 
-- la législation du travail comprenant notamment les lois régissant les relations entre employeurs et travailleurs, la sécurité des travailleurs, les règles relatives à la sécurité sociale et, en particulier, les règles relatives aux assurances sociales et au chômage involontaire;
+e) la législation du travail comprenant notamment les lois régissant les relations entre employeurs et travailleurs, la sécurité des travailleurs, les règles relatives à la sécurité sociale et, en particulier, les règles relatives aux assurances sociales et au chômage involontaire;
 
-- D la législation économique comprenant les lois concernant les mines, minéraux et huiles minérales, l'industrie, les sources d'énergie et la conservation des ressources naturelles; g) la législation sur les arts et métiers;
+f) la législation économique comprenant les lois concernant les mines, minéraux et huiles minérales, l'industrie, les sources d'énergie et la conservation des ressources naturelles;
 
-- la législation médicale et l'art de guérir, la médecine préventive, notamment l'hygiène, la salubrité publique et la protection maternelle et infantile, la législation sur la profession de pharmacien, sur le commerce pharmaceutique, sur l'immigration et le transit, les règlements sanitaires bilatéraux et internationaux, la législation sur l'hygiène du travail, la coordination technique des laboratoires médicaux et la répartition des médecins;
+g) la législation sur les arts et métiers;
 
-- la loi électorale;
+h) la législation médicale et l'art de guérir, la médecine préventive, notamment l'hygiène, la salubrité publique et la protection maternelle et infantile, la législation sur la profession de pharmacien, sur le commerce pharmaceutique, sur l'immigration et le transit, les règlements sanitaires bilatéraux et internationaux, la législation sur l'hygiène du travail, la coordination technique des laboratoires médicaux et la répartition des médecins;
 
-- la législation sur la fabrication, la rectification, l'importation, l'exportation et la vente de l'alcool obtenu par la distillation;
+i) la loi électorale;
 
-- la législation sur la fabrication, l'importation et l'exportation, la vente des boissons alcoolisées et non alcoolisées;
+j) la législation sur la fabrication, la rectification, l'importation, l'exportation et la vente de l'alcool obtenu par la distillation;
 
-- la législation sur la fabrication, l'importation, l'exportation et le transit des matériels de guerre;
+k) la législation sur la fabrication, l'importation et l'exportation, la vente des boissons alcoolisées et non alcoolisées;
 
-- la législation sur la fécondation artificielle chez l'être humain, sur la manipulation des informations génétiques et sur les transplantations d'organes et des tissus humains;
+l) la législation sur la fabrication, l'importation, l'exportation et le transit des matériels de guerre;
 
-- la législation sur les réfugiés, les expulsés et les personnes déplacées;
+m) la législation sur la fécondation artificielle chez l'être humain, sur la manipulation des informations génétiques et sur les transplantations d'organes et des tissus humains;
 
-- la législation sur l'admission aux professions médicales et aux autres professions et activités.
+n) la législation sur les réfugiés, les expulsés et les personnes déplacées;
+
+o) la législation sur l'admission aux professions médicales et aux autres professions et activités.
 
 ###### Article 203
 
 Sans préjudice des autres dispositions de la présente Constitution, les matières suivantes sont de la compétence concurrente du pouvoir central et des provinces:
 
-- la mise en oeuvre des mécanismes de promotion et de sauvegarde des droits humains et des libertés fondamentales consacrés dans la présente Constitution;
+1. la mise en oeuvre des mécanismes de promotion et de sauvegarde des droits humains et des libertés fondamentales consacrés dans la présente Constitution;
 
-- les droits civils et coutumiers;
+2. les droits civils et coutumiers;
 
-- les statistiques et les recensements;
+3. les statistiques et les recensements;
 
-- la sûreté intérieure;
+4. la sûreté intérieure;
 
-- l'administration des cours et tribunaux, des maisons d'arrêt et de correction et des prisons;
+5. l'administration des cours et tribunaux, des maisons d'arrêt et de correction et des prisons;
 
 [[END OF PAGE 49]]
 
@@ -2177,73 +2293,75 @@ Sans préjudice des autres dispositions de la présente Constitution, les matiè
 
 50
 
-- la vie culturelle et sportive;
+6. la vie culturelle et sportive;
 
-- l'établissement des impôts, y compris les droits d'accise et de consommation, à l'exclusion des impôts visés à l'article 174 ;
+7. l'établissement des impôts, y compris les droits d'accise et de consommation, à l'exclusion des impôts visés à l'article 174 ;
 
-- l'exécution des mesures sur la Police des étrangers;
+8. l'exécution des mesures sur la Police des étrangers;
 
-- la recherche scientifique et technologique ainsi que les bourses d'études, de perfectionnement et d'encouragement à la recherche;
+9. la recherche scientifique et technologique ainsi que les bourses d'études, de perfectionnement et d'encouragement à la recherche;
 
-- les institutions médicales et philanthropiques, l'engagement du personnel médical et agricole de commandement;
+10. les institutions médicales et philanthropiques, l'engagement du personnel médical et agricole de commandement;
 
-- la mise en œuvre des programmes de la météorologie, de la géologie, de la cartographie et de l'hydrologie;
+11. la mise en œuvre des programmes de la météorologie, de la géologie, de la cartographie et de l'hydrologie;
 
-- les calamités naturelles:
+12. les calamités naturelles;
 
-- la presse, la radio, la télévision, l'industrie cinématographique;
+13. la presse, la radio, la télévision, l'industrie cinématographique;
 
-- la protection civile;
+14. la protection civile;
 
-- le tourisme;
+15. le tourisme;
 
-- les droits fonciers et miniers, l'aménagement du territoire, le régime des eaux et forêts;
+16. les droits fonciers et miniers, l'aménagement du territoire, le régime des eaux et forêts;
 
-- la prévention des épidémies et épizooties dangereuses pour la collectivité;
+17. la prévention des épidémies et épizooties dangereuses pour la collectivité;
 
-- la protection de l'environnement, des sites naturels, des paysages et la conservation des sites ;
+18. la protection de l'environnement, des sites naturels, des paysages et la conservation des sites ;
 
-- la réglementation sur les régimes énergétiques, agricoles et forestiers, l'élevage, les denrées alimentaires d'origine animale et végétale;
+19. la réglementation sur les régimes énergétiques, agricoles et forestiers, l'élevage, les denrées alimentaires d'origine animale et végétale;
 
-- la création des établissements primaires, secondaires, supérieurs et universitaires;
+20. la création des établissements primaires, secondaires, supérieurs et universitaires;
 
-- le trafic routier, la circulation automobile, la construction et l'entretien des routes d'intérêt national, la perception et la répartition des péages pour l'utilisation des routes construites par le pouvoir central et/ou par la province;
+21. le trafic routier, la circulation automobile, la construction et l'entretien des routes d'intérêt national, la perception et la répartition des péages pour l'utilisation des routes construites par le pouvoir central et/ou par la province;
 
-- les institutions médicales et philanthropiques;
+22. les institutions médicales et philanthropiques;
 
-- l'initiative des projets, programmes et accords de coopération économique, culturelle, scientifique et sociale internationale;
+23. l'initiative des projets, programmes et accords de coopération économique, culturelle, scientifique et sociale internationale;
 
-- la production, le transport, l'utilisation et l'exploitation de l'énergie; 25. la protection des groupes des personnes vulnérables.
+24. la production, le transport, l'utilisation et l'exploitation de l'énergie;
+
+25. la protection des groupes des personnes vulnérables.
 
 ###### Article 204
 
 Sans préjudice des autres dispositions de la présente Constitution, les matières suivantes sont de la compétence exclusive des provinces:
 
-- le plan d'aménagement de la province;
+1. le plan d'aménagement de la province;
 
-- la coopération inter-provinciale;
+2. la coopération inter-provinciale;
 
-- la fonction publique provinciale et locale;
+3. la fonction publique provinciale et locale;
 
-- l'application des normes régissant l'état civil; 5. les finances publiques provinciales;
+4. l'application des normes régissant l'état civil;
 
-- la dette publique provinciale;
+5. les finances publiques provinciales;
 
-- les emprunts intérieurs pour les besoins des provinces;
+6. la dette publique provinciale;
 
-- la délivrance et la conservation des titres immobiliers dans le respect de la législation nationale;
+7. les emprunts intérieurs pour les besoins des provinces;
 
-- l'organisation du petit commerce frontalier;
+8. la délivrance et la conservation des titres immobiliers dans le respect de la législation nationale;
 
-- l'organisation et le fonctionnement des services publics, établissements et entreprises publics provinciaux dans le respect de la législation nationale;
+9. l'organisation du petit commerce frontalier;
 
-- les travaux et marchés publics d'intérêt provincial et local;
+10. l'organisation et le fonctionnement des services publics, établissements et entreprises publics provinciaux dans le respect de la législation nationale;
 
-- l'acquisition des biens pour les besoins de la province;
+11. les travaux et marchés publics d'intérêt provincial et local;
 
-- l'enseignement maternel, primaire, secondaire, professionnel et spécial ainsi que
+12. l'acquisition des biens pour les besoins de la province;
 
-- l'alphabétisation des citoyens, conformément aux normes établies par le pouvoir central;
+13. l'enseignement maternel, primaire, secondaire, professionnel et spécial ainsi que l'alphabétisation des citoyens, conformément aux normes établies par le pouvoir central;
 
 [[END OF PAGE 50]]
 
@@ -2251,45 +2369,51 @@ Sans préjudice des autres dispositions de la présente Constitution, les matiè
 
 51
 
-- l'établissement des peines d'amende ou de prison pour assurer le respect des édits en conformité avec la législation nationale;
+14. l'établissement des peines d'amende ou de prison pour assurer le respect des édits en conformité avec la législation nationale;
 
-- les communications intérieures des provinces;
+15. les communications intérieures des provinces;
 
-- les impôts, les taxes et les droits provinciaux et locaux, notamment l'impôt foncier, l'impôt sur les revenus locatifs et l'impôt sur les véhicules automoteurs;
+16. les impôts, les taxes et les droits provinciaux et locaux, notamment l'impôt foncier, l'impôt sur les revenus locatifs et l'impôt sur les véhicules automoteurs;
 
-17. la fixation des salaires minima provinciaux, conformément à la législation nationale; 18. l'affectation du personnel médical, conformément au statut des agents de carrière des services publics de l'Etat, l'élaboration des programmes d'assainissement et de campagne de lutte contre les maladies endémo¬épidémiques conformément au plan national: l'organisation des services d'hygiène et de prophylaxie provinciale, l'application et le contrôle de la législation médicale et pharmaceutique nationale ainsi que l'organisation des services de la médecine curative, des services philanthropiques et missionnaires, des laboratoires médicaux et des services pharmaceutiques, l'organisation et la promotion des soins de santé primaires; 19. l'élaboration des programmes miniers, minéralogiques, industriels, énergétiques d'intérêt provincial et leur exécution conformément aux normes générales du planning national; 20. l'élaboration des programmes agricoles et forestiers et leur exécution conformément aux normes du planning national, l'affectation du personnel agricole, des cadres conformément aux dispositions du statut des agents de carrière des services publics de l'Etat, l'application de la législation nationale concernant l'agriculture, la forêt, la chasse et la pêche ainsi que l'environnement, la conservation de la nature et la capture des animaux sauvages, l'organisation et le contrôle des campagnes agricoles, la fixation des prix des produits agricoles;
+17. la fixation des salaires minima provinciaux, conformément à la législation nationale;
+
+18. l'affectation du personnel médical, conformément au statut des agents de carrière des services publics de l'Etat, l'élaboration des programmes d'assainissement et de campagne de lutte contre les maladies endémo-épidémiques conformément au plan national: l'organisation des services d'hygiène et de prophylaxie provinciale, l'application et le contrôle de la législation médicale et pharmaceutique nationale ainsi que l'organisation des services de la médecine curative, des services philanthropiques et missionnaires, des laboratoires médicaux et des services pharmaceutiques, l'organisation et la promotion des soins de santé primaires;
+
+19. l'élaboration des programmes miniers, minéralogiques, industriels, énergétiques d'intérêt provincial et leur exécution conformément aux normes générales du planning national;
+
+20. l'élaboration des programmes agricoles et forestiers et leur exécution conformément aux normes du planning national, l'affectation du personnel agricole, des cadres conformément aux dispositions du statut des agents de carrière des services publics de l'Etat, l'application de la législation nationale concernant l'agriculture, la forêt, la chasse et la pêche ainsi que l'environnement, la conservation de la nature et la capture des animaux sauvages, l'organisation et le contrôle des campagnes agricoles, la fixation des prix des produits agricoles;
 
 21. l'affectation en province du personnel vétérinaire, conformément au statut des agents de carrière des services publics de l'Etat; l'élaboration des programmes de campagne de santé animale et l'application des mesures de police sanitaire vétérinaire, notamment en ce qui concerne les postes frontaliers et de quarantaine;
 
-- l'organisation des campagnes de vaccination contre les maladies enzootiques,
+22. l'organisation des campagnes de vaccination contre les maladies enzootiques, l'organisation des laboratoires, cliniques et dispensaires de la provenderie ainsi que l'application de la législation nationale en matière vétérinaire, l'organisation de la promotion de santé de base;
 
-l'organisation des laboratoires, cliniques et dispensaires de la provenderie ainsi que l'application de la législation nationale en matière vétérinaire, l'organisation de la promotion de santé de base;
+23. le tourisme, le patrimoine historique, les monuments publics et les parcs d'intérêt provincial et local;
 
-- le tourisme, le patrimoine historique, les monuments publics et les parcs d'intérêt provincial et local;
+24. l'habitat urbain et rural, la voirie et les équipements collectifs provinciaux et locaux;
 
-- l'habitat urbain et rural, la voirie et les équipements collectifs provinciaux et locaux;
+25. l'inspection des activités culturelles et sportives provinciales;
 
-- l'inspection des activités culturelles et sportives provinciales;
+26. l'exploitation des sources d'énergie non nucléaire et la production de l'eau pour les besoins de la province;
 
-- l'exploitation des sources d'énergie non nucléaire et la production de l'eau pour les besoins de la province;
+27. l'exécution des mesures du droit de résidence et d'établissement des étrangers, conformément à la loi;
 
-- l'exécution des mesures du droit de résidence et d'établissement des étrangers, conformément à la loi;
+28. l'exécution du droit coutumier;
 
-- l'exécution du droit coutumier;
-
-- la planification provinciale.
+29. la planification provinciale.
 
 ###### Article 205
 
 Une assemblée provinciale ne peut légiférer sur les matières de la compétence exclusive du pouvoir central. Réciproquement, l'Assemblée nationale et le Sénat ne peuvent légiférer sur les matières de la compétence exclusive d'une province.
 
-Toutefois, l'Assemblée nationale et le Sénat peuvent, par une loi, habiliter une Assemblée provinciale à prendre des édits sur des matières de la compétence exclusive du pouvoir central. Lorsque l'Assemblée nationale et le Sénat mettent fin à la délégation de pouvoir ainsi donnée à l'Assemblée provinciale, les dispositions des édits provinciaux promulgués en des matières de la compétence exclusive du pouvoir central, en vertu de cette délégation de pouvoir, demeurent cependant en vigueur dans la province intéressée jusqu'à ce qu'une loi nationale ait réglé ces matières.
+Toutefois, l'Assemblée nationale et le Sénat peuvent, par une loi, habiliter une Assemblée provinciale à prendre des édits sur des matières de la compétence exclusive du pouvoir central. Lorsque l'Assemblée nationale et le Sénat mettent fin à la délégation de pouvoir ainsi donnée à l'Assemblée provinciale, les dispositions des édits provinciaux promulgués en des
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
 
 52
+
+matières de la compétence exclusive du pouvoir central, en vertu de cette délégation de pouvoir, demeurent cependant en vigueur dans la province intéressée jusqu'à ce qu'une loi nationale ait réglé ces matières.
 
 Pareillement, une Assemblée provinciale peut, par un édit, habiliter l'Assemblée nationale et le Sénat à légiférer sur des matières de la compétence exclusive de la province. Lorsque l'Assemblée provinciale met fin à la délégation de pouvoir ainsi donnée à l'Assemblée nationale et au Sénat, les dispositions des lois nationales promulguées en des matières de la compétence exclusive des provinces, en vertu de cette délégation de pouvoir, demeurent cependant en vigueur dans la province intéressée jusqu'à ce qu'un édit provincial les ait réglées.
 
@@ -2301,13 +2425,13 @@ La législation nationale prime sur l'édit provincial.
 
 Sauf dispositions contraires de la législation nationale, les Gouvernements provinciaux exécutent, par l'intermédiaire de leurs services, les lois et les règlements nationaux.
 
-#### Section 3 : De l'autorité coutumière,
+#### Section 3 : De l'autorité coutumière
 
 ###### Article 207
 
 L'autorité coutumière est reconnue.
 
-Elle est dévolue conformément à la coutume locale, pour autant que celle-ci ne soit pas contraire à la Constitution, à la loi, à l'ordre public et aux bonnes mœurs. Tout chef coutumier désireux d'exercer un mandat public électif doit se soumettre à l'élection, sauf application des dispositions de l'article 197 alinéa 3 de la présente Constitution. L'autorité coutumière a le devoir de promouvoir l'unité et la cohésion nationales. Une loi fixe le/statut des chefs coutumiers.
+Elle est dévolue conformément à la coutume locale, pour autant que celle-ci ne soit pas contraire à la Constitution, à la loi, à l'ordre public et aux bonnes mœurs. Tout chef coutumier désireux d'exercer un mandat public électif doit se soumettre à l'élection, sauf application des dispositions de l'article 197 alinéa 3 de la présente Constitution. L'autorité coutumière a le devoir de promouvoir l'unité et la cohésion nationales. Une loi fixe le statut des chefs coutumiers.
 
 ## TITRE IV : DU CONSEIL ECONOMIQUE ET SOCIAL
 
@@ -2347,9 +2471,9 @@ Une loi organique fixe l'organisation et le fonctionnement de la Commission  él
 
 ### Chapitre 2 : Du Conseil supérieur de l'audiovisuel et de la communication
 
-###### Article 112
+###### Article 212
 
-Il est institué un Conseil supérieur de l'audiovisuel et de la communication dotée de la personnalité juridique.
+Il est institué un Conseil supérieur de l'audiovisuel et de la communication doté de la personnalité juridique.
 
 Il a pour mission de garantir et d'assurer la liberté et la protection de la presse, ainsi que de tous les moyens de communication de masse dans le respect de la loi.
 
@@ -2383,7 +2507,7 @@ Les traités et accords internationaux régulièrement conclus ont, dès leur pu
 
 ###### Article 216
 
-Si la Cour constitutionnelle consultée par le Président de la République, par le "Premier ministre, le Président de l'Assemblée nationale ou le Président du Sénat, par un dixième des députés ou un dixième des sénateurs, déclare qu'un traité ou accord international comporte une clause contraire à la Constitution, la ratification ou l'approbation ne peut intervenir qu'après la révision de la Constitution.
+Si la Cour constitutionnelle consultée par le Président de la République, par le Premier ministre, le Président de l'Assemblée nationale ou le Président du Sénat, par un dixième des députés ou un dixième des sénateurs, déclare qu'un traité ou accord international comporte une clause contraire à la Constitution, la ratification ou l'approbation ne peut intervenir qu'après la révision de la Constitution.
 
 ###### Article 217
 
@@ -2401,19 +2525,19 @@ La République Démocratique du Congo peut conclure des traités ou des accords 
 
 L'initiative de la révision constitutionnelle appartient concurremment:
 
-- au Président de la République;
+1. au Président de la République;
 
-- au Gouvernement après délibération en Conseil des ministres;
+2. au Gouvernement après délibération en Conseil des ministres;
 
-- à chacune des Chambres du Parlement à l'initiative de la moitié de ses membres;
+3. à chacune des Chambres du Parlement à l'initiative de la moitié de ses membres;
 
-- à une fraction du peuple congolais, en l'occurrence 100.000 personnes, s'exprimant par une pétition adressée à l'une des deux Chambres.
+4. à une fraction du peuple congolais, en l'occurrence 100.000 personnes, s'exprimant par une pétition adressée à l'une des deux Chambres.
 
 Chacune de ces initiatives est soumise à l'Assemblée nationale et au Sénat qui décident, à la majorité absolue de chaque Chambre, du bien fondé du projet, de la proposition ou de la pétition de révision .
 
 La révision n'est définitive que si le projet, la proposition ou la pétition est approuvée par référendum.
 
-Toutefois, le projet, la proposition ou la pétition n'est pas soumis au référendum lorsque l'Assemblée nationale et le Sénat réunis en Congrès l'approuvent à la majorité des trois cinquième des membres les composant.
+Toutefois, le projet, la proposition ou la pétition n'est pas soumis au référendum lorsque l'Assemblée nationale et le Sénat réunis en Congrès l'approuvent à la majorité des trois cinquièmes des membres les composant.
 
 ###### Article 219
 
@@ -2447,7 +2571,7 @@ Toutefois, par une loi organique, le Parlement pourra, s'il échet, instituer d'
 
 ###### Article 223
 
-En attendant l'installation de la Cour constitutionnelle, du Conseil d'Etat et de la Cour de cassation, la Cour suprême de justice exerce 'les attributions leur dévolues par la présente Constitution.
+En attendant l'installation de la Cour constitutionnelle, du Conseil d'Etat et de la Cour de cassation, la Cour suprême de justice exerce les attributions leur dévolues par la présente Constitution.
 
 ###### Article 224
 
@@ -2467,11 +2591,11 @@ La Cour de sûreté de l'Etat est dissoute dès l'entrée en vigueur de la prés
 
 Les dispositions de l'alinéa premier de l'article 2 de la présente Constitution entreront en vigueur endéans trente six mois qui suivront l'installation effective des institutions politiques prévues par la présente Constitution.
 
-En attendant, la République Démocratique du Congo est composée de la ville de Kinshasa et de dix provinces suivantes dotées de la personnalité juridique: Bandundu, Bas-Congo, Equateur; Kasaï-Occidental, Kasaï-Oriental, Katanga, Maniema, Nord-Kivu, Province Orientale, Sud-Kivu.
+En attendant, la République Démocratique du Congo est composée de la ville de Kinshasa et de dix provinces suivantes dotées de la personnalité juridique: Bandundu, Bas-Congo, Equateur, Kasaï-Occidental, Kasaï-Oriental, Katanga, Maniema, Nord-Kivu, Province Orientale, Sud-Kivu.
 
 ###### Article 227
 
-Les provinces telles qu'énumérées par l'article 2 de la présente- Constitution constituent les circonscriptions électorales des sénateurs de la première législature.
+Les provinces telles qu'énumérées par l'article 2 de la présente Constitution constituent les circonscriptions électorales des sénateurs de la première législature.
 
 La loi électorale détermine les conditions d'attribution d'un quota additionnel à la ville de Kinshasa pour les élections des sénateurs.
 
