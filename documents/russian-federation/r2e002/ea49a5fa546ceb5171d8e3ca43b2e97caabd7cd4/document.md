@@ -48,7 +48,7 @@ The State policy in the sphere of education is based on the following principles
 
 - The Federal laws in the sphere of education including this Law:
 
-- define the limits of the competence and responsibility of the Federal bodies of the State power, bodies of the State power of the subjects of the Russian Federation and local selfgovernment bodies in the sphere of education;
+- define the limits of the competence and responsibility of the Federal bodies of the State power, bodies of the State power of the subjects of the Russian Federation and local self-government bodies in the sphere of education;
 
 - within the limits of the established Federal competence, control relations in the sphere of education, which are to be uniform for all subjects of the Russian Federation. In this part the Federal laws in the sphere of education are the laws of direct effect and are applicable throughout the territory of the Russian Federation;
 
@@ -76,7 +76,7 @@ The tasks of the legislation of the Russian Federation in the sphere of educatio
 
 ### Article 5. The State Guarantees of the Rights of Citizens of the Russian Federation in the Sphere of Education
 
-- Citizens of the Russian Federation are guaranteed the possibility to receive education irrespective of their sex, race, nationality, language, social origin, place of residence, attitude toward religion, personal convictions, membership in public organizations (associations), age, health status, property status, official status, criminal record. L i m i t at i ons   on  t he  r i ght s   of   ci tizens to vocational training on the grounds of sex, age, health status, criminal record may be established only by law.
+- Citizens of the Russian Federation are guaranteed the possibility to receive education irrespective of their sex, race, nationality, language, social origin, place of residence, attitude toward religion, personal convictions, membership in public organizations (associations), age, health status, property status, official status, criminal record. Limitations on the rights of citizens to vocational training on the grounds of sex, age, health status, criminal record may be established only by law.
 
 - The State ensures the right of citizens to education by establishing an educational system and the corresponding social and economic conditions for obtaining education.
 
@@ -100,9 +100,7 @@ The tasks of the legislation of the Russian Federation in the sphere of educatio
 
 [[START OF PAGE 4]]
 
-the educational system.
-
-the creation of the necessary number of appropriate educational establishments, classes, groups and conditions for their functioning.
+the educational system. The right of citizens of the Russian Federation to receive their basic general education in their mother tongue is ensured through the creation of the necessary number of appropriate educational establishments, classes, groups and conditions for their functioning.
 
 - The language (languages) in which teaching and education are effected in an educational establishment shall be defined by the founder (founders) of the educational establishment and (or) by the Charter of the educational establishment.
 
@@ -116,7 +114,7 @@ the creation of the necessary number of appropriate educational establishments, 
 
 ### Article 7. The State Educational Standards
 
-- In the Russian Federation state education standards shall be established as incorporating a federal component and a regional (ethnical-regional) component and also an educational institution component. The Russian Federation through the Federal bodies of the State power acting within their competence defines the Federal components of the State educational standards, which establish a mandatory minimum content of the basic education syllabi, the maximum volume of the tuition load of students, requirements for the educational level of final-year students. may be established in respect of specific additional educational programs in a manner established by a federal law.
+- In the Russian Federation state education standards shall be established as incorporating a federal component and a regional (ethnical-regional) component and also an educational institution component. The Russian Federation through the Federal bodies of the State power acting within their competence defines the Federal components of the State educational standards, which establish a mandatory minimum content of the basic education syllabi, the maximum volume of the tuition load of students, requirements for the educational level of final-year students. State educational standards may be established in respect of specific additional educational programs in a manner established by a federal law.
 
 - Special State educational standard can be laid down for the implementation of the education syllabi for pupils with developmental abnormalities.
 
@@ -134,10 +132,6 @@ the creation of the necessary number of appropriate educational establishments, 
 
 The educational system in the Russian Federation is a combination of interacting:
 
-The  r i ght   of
-
-St at e  educat i o
-
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -152,7 +146,9 @@ St at e  educat i o
 
 ### Article 9. The Educational Curriculum
 
-- An educational curriculum defines the content of education at a specific level and its goal. The curriculum taught in the Russian Federation are subdivided into: 1)   gener al   educat i (basic and supplementary) 2)   vocat i onal   t r ai ni ng  cur r i cu lum (basic and supplementary)
+- An educational curriculum defines the content of education at a specific level and its goal. The curriculum taught in the Russian Federation are subdivided into:
+1) general education curriculum (basic and supplementary);
+2) vocational training curriculum (basic and supplementary).
 
 - The general education curriculum are geared toward the solution of the problems of forming the general cultural level of an individual, fitting of an individual for life in society, creation of the basis for an informed choice of and acquisition of vocational training curriculum.
 
@@ -190,9 +186,7 @@ standard.
 
 ### Article 10. Forms for Acquiring Education
 
-- Having regard to the needs and capabilities of an individual the education curriculum shall be acquired through the following forms: in an educational establishment - on a full time basis, by parttime study, by correspondence; through education within the family, through self-education and through external studies.
-
-I t  i s  per m i t t ed t o
+- Having regard to the needs and capabilities of an individual the education curriculum shall be acquired through the following forms: in an educational establishment - on a full time basis, by part-time study, by correspondence; through education within the family, through self-education and through external studies. It is permitted to combine different forms for acquiring education.
 
 - The single State educational standard must be met by all forms of acquiring education within the framework of a specific basic general education or basic vocational training syllabus.
 
@@ -210,11 +204,9 @@ I t  i s  per m i t t ed t o
 
 - public and religious organizations (associations) registered in the territory of the Russian Federation;
 
-- citizens of the Russian Federation and foreign citizens. The combined establishment of nongovernmental educational institutions shall be allowed. The rights of the founder are transferred to the corresponding successors should a reorganization of bodies of the State power, organs of education administration and (or) organs of the local self-government take place.
+- citizens of the Russian Federation and foreign citizens. The combined establishment of non-governmental educational institutions shall be allowed. The rights of the founder are transferred to the corresponding successors should a reorganization of bodies of the State power, organs of education administration and (or) organs of the local self-government take place.
 
-- Only the Government of the Russian Federation may be the founder of educational establishments O nl y  Feder al
-
-- of all types and kinds which carry out military vocational educational curriculum. bodies of executive power and (or) organs of executive power of the subjects of the Russian Federation may be the founders of a special educational-corrective establishment of closed type for children and adolescents with deviational (socially dangerous) behaviour.
+- Only the Government of the Russian Federation may be the founder of educational establishments of all types and kinds which carry out military vocational educational curriculum. Only Federal bodies of executive power and (or) organs of executive power of the subjects of the Russian Federation may be the founders of a special educational-corrective establishment of closed type for children and adolescents with deviational (socially dangerous) behaviour.
 
 - Relations between the founder and the educational establishment are governed by a contract they conclude in accordance with the legislation of the Russian Federation.
 
@@ -226,9 +218,32 @@ I t  i s  per m i t t ed t o
 
 [[START OF PAGE 7]]
 
-- organisational-and-legal forms provided for by the civil legislation of the Russian Federation for nonprofit organisations. 2. The activities of governmental and non-governmental educational organisations in the part thereof that is not regulated by this Law shall be regulated by the laws of the Russian Federation.
+organisational-and-legal forms provided for by the civil legislation of the Russian Federation for non-profit organisations.
+
+2. The activities of governmental and non-governmental educational organisations in the part thereof that is not regulated by this Law shall be regulated by the laws of the Russian Federation.
+
 ### Article 12. Educational Establishments
-1. An educational establishment is an establishment that provides education, i.e. teaches one or more education curriculum and (or) provides maintenance and upbringing of students and pupils. 2. An educational establishment is a legal entity. 3. Educational institutions can be governmental ones (federal ones or those within the scope of jurisdiction of a subject of the Russian Federation), municipal ones and non-governmental ones (private ones, institutions of public and religious organisations (associations). A   f eder al governmental educational institution shall mean an educational institution in federal ownership that is financed at the expense of the federal budget. The operation of the laws of the Russian Federation in the area of education shall extend to all educational institutions in the territory of the Russian Federation, regardless of their organisational-and-legal forms and subordination. 4. Establishments of the following types are regarded as educational: 1) pre-school establishments; 2) general educational establishments (primary general, basic general, and secondary (complete) general education); 3) primary vocational, secondary vocational, higher vocational training, and after-graduate vocational training; 4) educational establishments for further education of adults; 5) special (remedial) establishments for students, pupils with developmental abnormalities; 6) Abolished from January 1, 2005 ; 7) establishments for orphaned children, and children left without care of their parents (or persons acting in loco parentis); 8) establishments for further education of children; 9) other establishments providing education. 5. The activity of the State and municipal educational establishments shall be governed by Sample Regulations for educational establishments of the corresponding types and kinds approved by the Government of the Russian Federation and by Charters of these educational establishments based on the former. The Sample Regulations for educational establishments may be used as examples for nongovernment educational establishments. 6. The official status of an educational establishment (the type, kind, and category of an educational
+
+1. An educational establishment is an establishment that provides education, i.e. teaches one or more education curriculum and (or) provides maintenance and upbringing of students and pupils.
+
+2. An educational establishment is a legal entity.
+
+3. Educational institutions can be governmental ones (federal ones or those within the scope of jurisdiction of a subject of the Russian Federation), municipal ones and non-governmental ones (private ones, institutions of public and religious organisations (associations). A federal governmental educational institution shall mean an educational institution in federal ownership that is financed at the expense of the federal budget. The operation of the laws of the Russian Federation in the area of education shall extend to all educational institutions in the territory of the Russian Federation, regardless of their organisational-and-legal forms and subordination.
+
+4. Establishments of the following types are regarded as educational:
+1) pre-school establishments;
+2) general educational establishments (primary general, basic general, and secondary (complete) general education);
+3) primary vocational, secondary vocational, higher vocational training, and after-graduate vocational training;
+4) educational establishments for further education of adults;
+5) special (remedial) establishments for students, pupils with developmental abnormalities;
+6) Abolished from January 1, 2005;
+7) establishments for orphaned children, and children left without care of their parents (or persons acting in loco parentis);
+8) establishments for further education of children;
+9) other establishments providing education.
+
+5. The activity of the State and municipal educational establishments shall be governed by Sample Regulations for educational establishments of the corresponding types and kinds approved by the Government of the Russian Federation and by Charters of these educational establishments based on the former. The Sample Regulations for educational establishments may be used as examples for non-government educational establishments.
+
+6. The official status of an educational establishment (the type, kind, and category of an educational
 
 [[END OF PAGE 7]]
 
@@ -370,11 +385,7 @@ self-government shall not have the right to amend the curriculum, and teaching s
 
 - The educational establishment shall be independent in its choice of the system of assessment and in the form, manner, and frequency of mid-course assessment of its students, pupil.
 
-The st at e ( f i n
-
-- The assimilation of the educational programs of the basic general, secondary (complete) general and of all types of professional education shall be completed with the obligatory final attestation of graduating trainees. In educational establishments accredited by the State the assimilation of the said educational programmes shall be completed with the obligatory state (final) attestation of students.
-
-secondary (complete) general education shall be held in the form of the uniform state examination. Other forms of carrying out the state (final) attestation may be established by the federal executive power body exercising the functions of formulation of the state policy and of normative-and-legal regulation in the educational sphere for trainees who have assimilated educational programmes of secondary (full) general education at special educational establishments of closed type for children and teenagers with deviant (socially dangerous) behavior, as well as at institutions enforcing punishments in the form of deprivation of liberty or for trainees with deviations in their development who have assimilated educational programmes of secondary (complete) general education.
+- The assimilation of the educational programs of the basic general, secondary (complete) general and of all types of professional education shall be completed with the obligatory final attestation of graduating trainees. In educational establishments accredited by the State the assimilation of the said educational programmes shall be completed with the obligatory state (final) attestation of students. The state (final) attestation of trainees who have assimilated educational programmes of secondary (complete) general education shall be held in the form of the uniform state examination. Other forms of carrying out the state (final) attestation may be established by the federal executive power body exercising the functions of formulation of the state policy and of normative-and-legal regulation in the educational sphere for trainees who have assimilated educational programmes of secondary (full) general education at special educational establishments of closed type for children and teenagers with deviant (socially dangerous) behavior, as well as at institutions enforcing punishments in the form of deprivation of liberty or for trainees with deviations in their development who have assimilated educational programmes of secondary (complete) general education.
 
 - 4.1. The uniform state examination constitutes a form of unbiased assessment of the quality of training of persons who have assimilated educational programmes of secondary (complete) general education by using assignments of standardized form (control assessment materials) whose fulfillment makes it possible to assess the level of assimilation by them of the federal component of the state educational standard of the secondary (complete) general education. The uniform state examination shall be held by the federal executive power body exercising the functions of control and supervision in the field of education jointly with the executive power bodies of constituent entities of the Russian Federation having authority in the educational sphere.
 
@@ -416,21 +427,45 @@ and also shall archive information on these results as hard-copy and/or soft-cop
 
 - Upon admission of a citizen to the educational establishment it must familiarize him (her) and (or) his (her) parents (or persons acting in loco parentis) with the Charter of the educational establishment, the license for the right to engage in an educational activity, with the certificate on the state accreditation of the educational establishment, and other documents regulating organization of the teaching process.
 
-- The enrollment of citizens to the state and municipal educational establishments for getting secondary professional, higher professional and postgraduate professional education shall be performed on the competitive basis at the citizens' applications. The terms of the competition shall guarantee observation of the rights of the citizens to get education and shall provide for enrollment of those citizens, who are the most capable and best prepared for assimilating an educational programme of the corresponding level and (or) stage. A  com pet i t i on educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education shall be held on the basis of the results of the uniform state examination in respect of the general education subjects corresponding to the field of training (specialty) for which enrollment is effected. W hen  enr ol l i ng educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education for training in the areas (specialties) which require that entering persons should have certain creative abilities, physical and (or) psychological capacities, the said educational establishments shall be entitled to arrange additional
+- The enrollment of citizens to the state and municipal educational establishments for getting secondary professional, higher professional and postgraduate professional education shall be performed on the competitive basis at the citizens' applications. The terms of the competition shall guarantee observation of the rights of the citizens to get education and shall provide for enrollment of those citizens, who are the most capable and best prepared for assimilating an educational programme of the corresponding level and (or) stage.
+
+A competition for enrollment to the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education shall be held on the basis of the results of the uniform state examination in respect of the general education subjects corresponding to the field of training (specialty) for which enrollment is effected.
+
+When enrolling to the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education for training in the areas (specialties) which require that entering persons should have certain creative abilities, physical and (or) psychological capacities, the said educational establishments shall be entitled to arrange additional
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-entrance examinations of creative and (or) professional nature for which the uniform state examination has not been held and whose results shall be taken into account along with the results of the uniform state examination when holding a competition. A List of training areas (specialties) for which additional examinations of the creative and(or) professional nature may be held shall be endorsed in the procedure determined by the Government of the Russian Federation. The  st at e  educat i establishments of higher professional education may be granted the right to hold additional entrance examinations of their profile nature, when enrolling to such educational establishments, for other areas of training (specialties). A list of the said educational establishments where additional entrance examinations of their profile nature and of training directions (specialties) may be held, when enrolling thereto, shall be formed on the basis of proposals of the state educational establishments of higher professional training. A procedure and criteria for selection, as well as a List of the said educational establishments and training directions (specialties) for which additional entrance examination of the profile nature may be held, shall be endorsed by the Government of the Russian Federation. A  l i s t  of  addi t i on establishments of secondary professional education and the state educational establishments of higher professional training, where training is connected with enlistment for the civil service and admittance to the data constituting a state secret, shall be established by the federal executive power body entrusted with the functions of the founder. A  l i s t  of  a for holding them at the state and municipal educational establishments of secondary professional education and at the state and municipal educational establishments of higher professional education shall be declared by such higher educational establishments at latest on February 1 of the current year. The  f ol l ow i ng of entrance examinations to the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education: chi l dr en  w ho  ar e  or phans   and  ch as persons under 23 years old from among children who are orphans and children without parental custody; di s abl ed children, invalids pertaining to Groups I and II for whom training at the appropriate educational establishments is not contraindicative according to an opinion of the federal institution engaged in carrying out medico-social expert examinations; per sons  under   20  y parent being an invalid of Group I, where average per capita income of their family is lower than the subsistence minimum established in the appropriate constituent entity of the Russian Federation; per sons  di s m i s s ed implementing military professional educational programmes on the basis of recommendations of commanders of military units, as well as participants of combat operations. The pr i or i t y r i enter the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education shall be enjoyed by the citizens dismissed from military service, children of military servicemen who have perished while discharging their military duties or deceased as a result of a military trauma or of contracting a disease while participating in antiterrorist operations and (or) other activities against terrorism. A procedure for determining persons who have participated in antiterrorist operations and (or) other activities against terrorism shall be established in compliance with federal laws. W i nner s   an W i nner s   of final stage of an all-Russia competition of schoolchildren, members of picked teams of the Russian Federation who have participated in international competitions for general education subjects and formed in the procedure determined by the Government of the Russian Federation shall be enrolled without taking entrance examinations to the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education for training in the educational areas (specialties) which correspond to the profile of the allRussia competition of schoolchildren or the international competition. awardees of competitions of schoolchildren held in the procedure established by the federal executive power body exercising the functions of formulation of the state policy and of normative-and-legal regulation in the educational sphere shall be enrolled to the state and municipal educational establishments of secondary professional education and to the state and municipal educational establishments of higher professional education for training in the areas of education (specialties) corresponding to the profile of a competition of schoolchildren in the procedure established by the said federal executive power body. Winners of the Olympic Games, Paraolympic Games and Surdoolympic Games shall be enrolled without entrance examinations to the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education for training in the educational areas (specialties) in the field of physical training and sports.
+entrance examinations of creative and (or) professional nature for which the uniform state examination has not been held and whose results shall be taken into account along with the results of the uniform state examination when holding a competition. A List of training areas (specialties) for which additional examinations of the creative and(or) professional nature may be held shall be endorsed in the procedure determined by the Government of the Russian Federation.
+
+The state educational establishments of higher professional education may be granted the right to hold additional entrance examinations of their profile nature, when enrolling to such educational establishments, for other areas of training (specialties). A list of the said educational establishments where additional entrance examinations of their profile nature and of training directions (specialties) may be held, when enrolling thereto, shall be formed on the basis of proposals of the state educational establishments of higher professional training. A procedure and criteria for selection, as well as a List of the said educational establishments and training directions (specialties) for which additional entrance examination of the profile nature may be held, shall be endorsed by the Government of the Russian Federation.
+
+A list of additional entrance examinations for enrollment to the state educational establishments of secondary professional education and the state educational establishments of higher professional training, where training is connected with enlistment for the civil service and admittance to the data constituting a state secret, shall be established by the federal executive power body entrusted with the functions of the founder.
+
+A list of additional entrance examinations and rules for holding them at the state and municipal educational establishments of secondary professional education and at the state and municipal educational establishments of higher professional education shall be declared by such higher educational establishments at latest on February 1 of the current year.
+
+The following persons shall be enrolled without competition under the condition of successful passing of entrance examinations to the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education:
+children who are orphans and children without parental custody, as well as persons under 23 years old from among children who are orphans and children without parental custody;
+disabled children, invalids pertaining to Groups I and II for whom training at the appropriate educational establishments is not contraindicative according to an opinion of the federal institution engaged in carrying out medico-social expert examinations;
+persons under 20 years old having only one parent being an invalid of Group I, where average per capita income of their family is lower than the subsistence minimum established in the appropriate constituent entity of the Russian Federation;
+persons dismissed from military service and entering educational establishments implementing military professional educational programmes on the basis of recommendations of commanders of military units, as well as participants of combat operations.
+
+The priority right to enter the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education shall be enjoyed by the citizens dismissed from military service, children of military servicemen who have perished while discharging their military duties or deceased as a result of a military trauma or of contracting a disease while participating in antiterrorist operations and (or) other activities against terrorism. A procedure for determining persons who have participated in antiterrorist operations and (or) other activities against terrorism shall be established in compliance with federal laws.
+
+Winners and
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
+awardees of the final stage of an all-Russia competition of schoolchildren, members of picked teams of the Russian Federation who have participated in international competitions for general education subjects and formed in the procedure determined by the Government of the Russian Federation shall be enrolled without taking entrance examinations to the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education for training in the educational areas (specialties) which correspond to the profile of the all-Russia competition of schoolchildren or the international competition.
+
+Winners and awardees of competitions of schoolchildren held in the procedure established by the federal executive power body exercising the functions of formulation of the state policy and of normative-and-legal regulation in the educational sphere shall be enrolled to the state and municipal educational establishments of secondary professional education and to the state and municipal educational establishments of higher professional education for training in the areas of education (specialties) corresponding to the profile of a competition of schoolchildren in the procedure established by the said federal executive power body. Winners of the Olympic Games, Paraolympic Games and Surdoolympic Games shall be enrolled without entrance examinations to the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education for training in the educational areas (specialties) in the field of physical training and sports.
+
 4. The servicemen, going through the military service under a contract (with the exception of officers), whose uninterrupted period of military service under a contract comprises at least three years, shall enjoy the right to be enrolled without competition, under the condition that they successfully pass the entrance tests in conformity with the order defined by the Government of the Russian Federation, to the state and municipal educational establishments of the secondary and the higher professional education, as well as to the preparatory departments of the federal state educational establishments of a higher professional education for being educated at the expense of funds from the federal budget by assimilating the educational programmes in accordance with the full day-external (evening) or with the external form of education.
 
-5. Citizens, who have passed the military service in the Armed Forces of the Russian Federation or in the other troops, military formations and bodies while occupying military posts to be filled by soldiers, sailors, sergeants and sergeant -majors, and who have been dismissed from the military service on the grounds stipulated in Subitems (b) - (d) of Item 1, in Subitem a) of Item 2 and in Item 3 of Article 51 of Federal Law No. 53-FZ of March 28, 1998 on the Military Duty and the Military Service, shall be enrolled to the state and municipal educational establishments of the higher professional education for being educated according to the educational programmes for a higher professional education without competition under the condition that they successfully pass the entrance tests. I f  t he se citizens study at the preparatory departments of the federal state educational establishments of a higher professional education, defined by the Government of the Russian Federation in the order established in the legislation of the Russian Federation on the placement of orders, for the first time since the end of the military service under a contract, their education shall be carried out at the expense of funds from the federal budget.
+5. Citizens, who have passed the military service in the Armed Forces of the Russian Federation or in the other troops, military formations and bodies while occupying military posts to be filled by soldiers, sailors, sergeants and sergeant-majors, and who have been dismissed from the military service on the grounds stipulated in Subitems (b) - (d) of Item 1, in Subitem a) of Item 2 and in Item 3 of Article 51 of Federal Law No. 53-FZ of March 28, 1998 on the Military Duty and the Military Service, shall be enrolled to the state and municipal educational establishments of the higher professional education for being educated according to the educational programmes for a higher professional education without competition under the condition that they successfully pass the entrance tests. If these citizens study at the preparatory departments of the federal state educational establishments of a higher professional education, defined by the Government of the Russian Federation in the order established in the legislation of the Russian Federation on the placement of orders, for the first time since the end of the military service under a contract, their education shall be carried out at the expense of funds from the federal budget.
 
 [[END OF PAGE 15]]
 
@@ -444,9 +479,7 @@ entrance examinations of creative and (or) professional nature for which the uni
 
 - The education curriculum for pre-school, primary general, basic general and secondary (complete) general education are continuous, i.e. each successive syllabus is based on the previous one.
 
-I n  any  case  t
-
-- Students and pupils at the primary general and basic general educational levels who have not acquired the syllabus of the school year and are behind in one or two subjects of the curriculum, shall be retained to repeat the course, shall be transferred to remedial teaching classes with fewer pupils per teaching staff of the educational establishment or shall continue their education in the form of education in the family. Students and pupils at these educational levels who are assessed for a school year to be behind in one subject shall be transferred conditionally to the next class. transfer of the student or pupil to the next class requires a decision of the educational establishment management body.
+- Students and pupils at the primary general and basic general educational levels who have not acquired the syllabus of the school year and are behind in one or two subjects of the curriculum, shall be retained to repeat the course, shall be transferred to remedial teaching classes with fewer pupils per teaching staff of the educational establishment or shall continue their education in the form of education in the family. Students and pupils at these educational levels who are assessed for a school year to be behind in one subject shall be transferred conditionally to the next class. In any case the transfer of the student or pupil to the next class requires a decision of the educational establishment management body.
 
 - Students, pupils who have not mastered the education syllabus of the preceding level are not allowed to proceed to the next level of general education.
 
@@ -554,11 +587,7 @@ The main task of further education at each level of vocational training is conti
 
 [[START OF PAGE 21]]
 
-- The possession of a document of the State model as proof of a certain level of education is an
-
-- essential condition for the continuation of study at the next educational level in a State or municipal educational establishment. Q ual i f i cat i ons  s t a secondary vocational, higher vocational training and scientific degrees recorded in documents issued certain professional activity, and occupy positions for which mandatory qualificational requirements
-
-upon completion of postgraduate vocational training shall give their bearers the right to engage in a are laid down for the corresponding educational qualifications.
+- The possession of a document of the State model as proof of a certain level of education is an essential condition for the continuation of study at the next educational level in a State or municipal educational establishment. Qualifications stated in documents issued upon completion of primary vocational, secondary vocational, higher vocational training and scientific degrees recorded in documents issued upon completion of postgraduate vocational training shall give their bearers the right to engage in a certain professional activity, and occupy positions for which mandatory qualificational requirements are laid down for the corresponding educational qualifications.
 
 - The following educational levels (educational qualifications) shall be established in the Russian Federation:
 
@@ -578,7 +607,7 @@ upon completion of postgraduate vocational training shall give their bearers the
 
 - The provision of educational establishments accredited by the State with forms of the state-type documents proving the level of education and (or) qualification shall be arranged:
 
-- in respect of federal educations establishments and educational establishments of higher an postgraduate professional education - by authorized federal executive bodies;
+- in respect of federal educational establishments and educational establishments of higher and post-graduate professional education - by authorized federal executive bodies;
 
 - in respect of other educational establishments - by executive bodies of the subjects of the Russian Federation.
 
@@ -602,11 +631,19 @@ The Russian Federation, through its Federal bodies of the State power and educat
 
 [[START OF PAGE 22]]
 
-- coordination of appointments of heads of educational establishments of the Federal jurisdiction,
-
-- unless otherwise is provided by the law and the Sample Regulations on the educational establishments of corresponding types and kinds; 6) establishment of the procedure for the creation, reorganization and liquidation of federal state educational establishments; 7) compiling the lists of professions and occupations for which vocational instruction and vocational training are provided; 8) the establishment, re-organisation and liquidation of federal educational establishments; 9) Abolished from January 1, 2005 . 10) the drafting and approval of Sample Regulations on educational establishments; 11) laying down the procedure for licensing, certification and the State accreditation of educational establishments; 11.1) establishment of the forms of, and Procedure for, carrying out the State (final) attestation of trainees, including the uniform state examination, of the procedure for checking examination papers and of the system of results' assessment, as well as of the procedure for filing and consideration of appeals; 11.2) arrangement of the uniform state examination in the territory of the Russian Federation, including the development of control assessment materials for holding the uniform state examination and provision thereof to the state examination commissions in constituent entities of the Russian Federation, organisation and conduct of centralized testing of examination papers of participants of the uniform state examination, forming and keeping of federal databases concerning participants of the uniform state examination and the results of the uniform state examination; 11.3) establishment of the procedure for enrollment to the state and municipal educational establishments, in particular of the procedure for holding additional entrance examinations when entering the state and municipal educational establishments of secondary professional education and the state municipal educational establishments of higher professional education; 11.4) establishment of a list of competitions of schoolchildren and of a procedure for conducting them; 12) laying down the certification procedures for the teaching and administrative staff of the State and municipal education establishments and education administration organs; 13) establishment of labour norms and standard rates of labour remuneration in federal governmental
-
-- educational establishments;
+- coordination of appointments of heads of educational establishments of the Federal jurisdiction, unless otherwise is provided by the law and the Sample Regulations on the educational establishments of corresponding types and kinds;
+6) establishment of the procedure for the creation, reorganization and liquidation of federal state educational establishments;
+7) compiling the lists of professions and occupations for which vocational instruction and vocational training are provided;
+8) the establishment, re-organisation and liquidation of federal educational establishments;
+9) Abolished from January 1, 2005.
+10) the drafting and approval of Sample Regulations on educational establishments;
+11) laying down the procedure for licensing, certification and the State accreditation of educational establishments;
+11.1) establishment of the forms of, and Procedure for, carrying out the State (final) attestation of trainees, including the uniform state examination, of the procedure for checking examination papers and of the system of results' assessment, as well as of the procedure for filing and consideration of appeals;
+11.2) arrangement of the uniform state examination in the territory of the Russian Federation, including the development of control assessment materials for holding the uniform state examination and provision thereof to the state examination commissions in constituent entities of the Russian Federation, organisation and conduct of centralized testing of examination papers of participants of the uniform state examination, forming and keeping of federal databases concerning participants of the uniform state examination and the results of the uniform state examination;
+11.3) establishment of the procedure for enrollment to the state and municipal educational establishments, in particular of the procedure for holding additional entrance examinations when entering the state and municipal educational establishments of secondary professional education and the state and municipal educational establishments of higher professional education;
+11.4) establishment of a list of competitions of schoolchildren and of a procedure for conducting them;
+12) laying down the certification procedures for the teaching and administrative staff of the State and municipal education establishments and education administration organs;
+13) establishment of labour norms and standard rates of labour remuneration in federal governmental educational establishments;
 
 [[END OF PAGE 22]]
 
@@ -626,20 +663,42 @@ standards), taking measures aimed at elimination of breaches of the legislation 
 
 Federation in the area of education, including by way of sending orders to educational establishments and to bodies engaged in education management to be followed without fail; 22) establishment and the awarding of the State decorations and honorary titles to education workers; 23) publication of regulatory documents within its competence; 24) licensing, certification and accreditation of federal educational establishments, as well as of higher educational establishments, in respect of all curricula implemented by them.
 ### Article 29. Competence of the Subjects of the Russian Federation in the Sphere of Education
-The subjects of the Russian Federation have the following competence in the sphere of education: 1) the formulation and implementation of an educational policy that does not run counter to the policy of the Russian Federation in the sphere of education; 2) the legislation of the subjects of the Russian Federation in the sphere of education; 3) the formulation of the procedure for setting up, reorganising, liquidating and financing educational establishments of a subject of the Russian Federation in compliance with this Federal Law; 4) Abolished from January 1, 2005 ; 5) the drafting and implementation at the republican and regional levels of programmes to develop education, including international participation with due regard to special national, regional social and economic, environmental, cultural, demographic and other characteristics; 5.1) Abolished from January 1, 2005 ; 6) establishment and supervision of the State bodies of education administration, appointment of heads of these bodies (in coordination with the Federal bodies of education administration); 6.1) providing the state guarantees of the rights of citizens to the obtainment of generally accessible and gratuitous pre-school, primary general, basic general, secondary (complete) general education, as well as of additional education at general educational establishments by way of assigning subventions to the local budgets in an amount necessary for the realisation of the basic general education programmes, as regards the financing of remuneration of labour of the personnel of general educational establishments, the expenses on the acquisition of teaching aids, technical facilities of training and disposables and on the household needs (except for the outlays on the maintenance of buildings and public utilities covered at the expense of local budgets) in compliance with the normative standards established by the laws of a subject of the Russian Federation; 6.2.) arranging the provision of generally accessible, basic general, secondary (complete) general education on the basis of principal general education curricula at special (correctional) educational establishments for pupils and inmates with deviations in their development, at educational establishments for children who are orphans and for children without parental care, at special opentype and closed-type educational establishments, at health-improvement sanatorium type educational
-
-establishments for children in need of long treatment, at educational establishments for children in need of psychological-and-pedagogic and medical-and-social support (except for the education obtained at the federal educational establishments whose list is endorsed by the Government of the Russian Federation), in compliance with the normative standards established by the laws of a subject of the Russian Federation); 6.3) arranging the provision of additional vocational training at educational establishments of the subjects of the Russian Federation, as well as of additional training to children at establishments of regional importance; 7) the establishment, re-organisation and liquidation of educational establishments of the subjects of the Russian Federation (except for the foundation of higher education establishments), as well as licensing, certification and accreditation by the State of educational establishments (except for the educational establishments whose licensing, certification and accreditation by the State is referred to the scope of authority of the Russian Federation); 8) the formulation of regional and national-regional components of the State educational standards; 8.1) ensuring and conducting the State (final) attestation of trainees who have assimilated educational programmes of basic general and secondary (complete) general education, in particular in the form of the uniform state examination, including check-up of examination papers of participants of the uniform state examination in the established procedure, forming and keeping of databases of constituent entities of the Russian Federation in respect of participants of the uniform state examination and in respect of the results of the uniform state examination; 9) the drafting of budgets of the subjects of the Russian Federation in the part of education expenditures; 10) Abolished from January 1, 2005 ; 11) the establishment of normative standards for financing education of a subject of the Russian Federation; 12) Abolished from January 1, 2005 ; 13) the establishment for educational institutions within the scope of jurisdiction of a subject of the Russian Federation of additional standards besides the Federal requirements to educational establishments regarding building standards and regulations, sanitary standards, protection of health of students and pupils, requisite equipment for the teaching process and the classrooms; 14) Abolished from January 1, 2005 ; 15) provision of information within its competence to educational establishments, organization of the publication of teaching materials, the drafting of basic education plans and model courses and of teaching subjects; 16) organization of training, retraining, and refresher courses for teaching staff; 16.1) attestation of the pedagogic personnel of educational establishments of the subjects of the Russian Federation and of municipal educational establishments and the personnel of the bodies engaged in education management of the subjects of the Russian Federation and of municipal formations; 17) the right of exercising supervision and control in the area of education and maintenance of the state educational standards, regardless of the property forms (except for federal educational establishments and higher education establishments), as well as over the activities of municipal bodies engaged in education management; 18) publication of regulatory documents within its (their) competence.
+The subjects of the Russian Federation have the following competence in the sphere of education:
+1) the formulation and implementation of an educational policy that does not run counter to the policy of the Russian Federation in the sphere of education;
+2) the legislation of the subjects of the Russian Federation in the sphere of education;
+3) the formulation of the procedure for setting up, reorganising, liquidating and financing educational establishments of a subject of the Russian Federation in compliance with this Federal Law;
+4) Abolished from January 1, 2005;
+5) the drafting and implementation at the republican and regional levels of programmes to develop education, including international participation with due regard to special national, regional social and economic, environmental, cultural, demographic and other characteristics;
+5.1) Abolished from January 1, 2005;
+6) establishment and supervision of the State bodies of education administration, appointment of heads of these bodies (in coordination with the Federal bodies of education administration);
+6.1) providing the state guarantees of the rights of citizens to the obtainment of generally accessible and gratuitous pre-school, primary general, basic general, secondary (complete) general education, as well as of additional education at general educational establishments by way of assigning subventions to the local budgets in an amount necessary for the realisation of the basic general education programmes, as regards the financing of remuneration of labour of the personnel of general educational establishments, the expenses on the acquisition of teaching aids, technical facilities of training and disposables and on the household needs (except for the outlays on the maintenance of buildings and public utilities covered at the expense of local budgets) in compliance with the normative standards established by the laws of a subject of the Russian Federation;
+6.2.) arranging the provision of generally accessible, basic general, secondary (complete) general education on the basis of principal general education curricula at special (correctional) educational establishments for pupils and inmates with deviations in their development, at educational establishments for children who are orphans and for children without parental care, at special open-type and closed-type educational establishments, at health-improvement sanatorium type educational establishments for children in
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-(this page came through the extractor with no text)
+need of long treatment, at educational establishments for children in need of psychological-and-pedagogic and medical-and-social support (except for the education obtained at the federal educational establishments whose list is endorsed by the Government of the Russian Federation), in compliance with the normative standards established by the laws of a subject of the Russian Federation);
+6.3) arranging the provision of additional vocational training at educational establishments of the subjects of the Russian Federation, as well as of additional training to children at establishments of regional importance;
+7) the establishment, re-organisation and liquidation of educational establishments of the subjects of the Russian Federation (except for the foundation of higher education establishments), as well as licensing, certification and accreditation by the State of educational establishments (except for the educational establishments whose licensing, certification and accreditation by the State is referred to the scope of authority of the Russian Federation);
+8) the formulation of regional and national-regional components of the State educational standards;
+8.1) ensuring and conducting the State (final) attestation of trainees who have assimilated educational programmes of basic general and secondary (complete) general education, in particular in the form of the uniform state examination, including check-up of examination papers of participants of the uniform state examination in the established procedure, forming and keeping of databases of constituent entities of the Russian Federation in respect of participants of the uniform state examination and in respect of the results of the uniform state examination;
+9) the drafting of budgets of the subjects of the Russian Federation in the part of education expenditures;
+10) Abolished from January 1, 2005;
+11) the establishment of normative standards for financing education of a subject of the Russian Federation;
+12) Abolished from January 1, 2005;
+13) the establishment for educational institutions within the scope of jurisdiction of a subject of the Russian Federation of additional standards besides the Federal requirements to educational establishments regarding building standards and regulations, sanitary standards, protection of health of students and pupils, requisite equipment for the teaching process and the classrooms;
+14) Abolished from January 1, 2005;
+15) provision of information within its competence to educational establishments, organization of the publication of teaching materials, the drafting of basic education plans and model courses and of teaching subjects;
+16) organization of training, retraining, and refresher courses for teaching staff;
+16.1) attestation of the pedagogic personnel of educational establishments of the subjects of the Russian Federation and of municipal educational establishments and the personnel of the bodies engaged in education management of the subjects of the Russian Federation and of municipal formations;
+17) the right of exercising supervision and control in the area of education and maintenance of the state educational standards, regardless of the property forms (except for federal educational establishments and higher education establishments), as well as over the activities of municipal bodies
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
-
+engaged in education management;
+18) publication of regulatory documents within its (their) competence.
 ### Article 30. The Procedure for Delimitation of the Competence of the State Power Bodies and Education Administration Organs
 
 - As laid down in Articles 28 and 29 of this Law the competence in the sphere of education of the Federal bodies of the State power, the Federal bodies of education administration, and bodies of the State power of the subjects of the Russian Federation shall be exhaustive and may not be amended other than legally.
@@ -674,7 +733,7 @@ establishments for children in need of long treatment, at educational establishm
 
 - guardianship and custodianship.
 
-- In such subjects of the Russian Federation as the cities of federal importance Moscow and SaintPetersburg the authority of local self-government bodies of intraurban municipal formations in the area of education shall be established by the laws of these subjects of the Russian Federation, that is, the cities of federal importance Moscow and Saint-Petersburg.
+- In such subjects of the Russian Federation as the cities of federal importance Moscow and Saint-Petersburg the authority of local self-government bodies of intraurban municipal formations in the area of education shall be established by the laws of these subjects of the Russian Federation, that is, the cities of federal importance Moscow and Saint-Petersburg.
 
 - The local self-government bodies of urban circuits shall be entitled to establish, re-organise and liquidate municipal higher education establishments.
 
@@ -698,9 +757,25 @@ establishments for children in need of long treatment, at educational establishm
 
 [[START OF PAGE 28]]
 
-educational technologies implemented mainly with the use of information and telecommunication technologies involving an indirect (remote) or partially indirect interaction of the student and the teacher. The  educat i onal   i ns forms in which education can be obtained in the manner established by the federal (central) governmental body in charge of education; 6) the drafting and approval the educational institution component of a state general education standard, education curriculum and curricula; 7) the drafting and approval of work schedules for courses and teaching subjects; 8) the drafting and approval with the consent of the local self-govermental organs of the annual course schedules; 9) the defining of the management structure of supervision over the activity of the educational establishment, its staff schedule, allocation of post duties; 10) setting the rates of labour wages of the staff of an educational establishment, including rises in official salaries and additional payments thereto, the procedure for awarding, and amounts of, bonuses thereto; 11) Abolished from January 1, 2005 ; 12) drafting and adopting the Charter of an educational establishment by the collective thereof for proposing it for approval; 13) the drafting and adoption of the establishment office rules, and other local acts; 14) independent admittance of students, pupils within the limits of the quota specified in its license, unless otherwise specified by the Sample Regulations for the given type and kind of educational establishment and by this Law; 15) independent carrying out of the teaching process in accordance with the Charter of the educational establishment, its license and the certificate of the State accreditation; 16) the daily monitoring of students' progress and mid-course assessment of the students in the educational establishment in accordance with its Charter and the requirements of this Law; 17) Abolished from January 1, 2005 ; 18) the ensuring that maintenance conditions of pupils in boarding type educational establishments shall be not below the established standard; 19) creation of the conditions in the educational establishment required for functioning of subdivisions of public catering enterprises and medical establishments, monitoring of their operation in the interests of protecting and improving health of the students, pupils and the staff of the educational establishment; 20) promotion of the activities of teachers' (pedagogical) organizations and (associations) concerned with teaching methods; 21) coordination within the educational establishment of activities by public (including those with children and youth participation) organizations (associations) that are not prohibited by law; 22) the carrying out of any other activity not prohibited by the legislation of the Russian Federation and provided for by the Charter of the educational establishment; 23) selection of text-books from approved federal lists of the text-books recommended (cleared) for
-
-- use in educational process.
+educational technologies implemented mainly with the use of information and telecommunication technologies involving an indirect (remote) or partially indirect interaction of the student and the teacher. The educational institution shall have the right to use remote educational technologies under all forms in which education can be obtained in the manner established by the federal (central) governmental body in charge of education;
+6) the drafting and approval the educational institution component of a state general education standard, education curriculum and curricula;
+7) the drafting and approval of work schedules for courses and teaching subjects;
+8) the drafting and approval with the consent of the local self-govermental organs of the annual course schedules;
+9) the defining of the management structure of supervision over the activity of the educational establishment, its staff schedule, allocation of post duties;
+10) setting the rates of labour wages of the staff of an educational establishment, including rises in official salaries and additional payments thereto, the procedure for awarding, and amounts of, bonuses thereto;
+11) Abolished from January 1, 2005;
+12) drafting and adopting the Charter of an educational establishment by the collective thereof for proposing it for approval;
+13) the drafting and adoption of the establishment office rules, and other local acts;
+14) independent admittance of students, pupils within the limits of the quota specified in its license, unless otherwise specified by the Sample Regulations for the given type and kind of educational establishment and by this Law;
+15) independent carrying out of the teaching process in accordance with the Charter of the educational establishment, its license and the certificate of the State accreditation;
+16) the daily monitoring of students' progress and mid-course assessment of the students in the educational establishment in accordance with its Charter and the requirements of this Law;
+17) Abolished from January 1, 2005;
+18) the ensuring that maintenance conditions of pupils in boarding type educational establishments shall be not below the established standard;
+19) creation of the conditions in the educational establishment required for functioning of subdivisions of public catering enterprises and medical establishments, monitoring of their operation in the interests of protecting and improving health of the students, pupils and the staff of the educational establishment;
+20) promotion of the activities of teachers' (pedagogical) organizations and (associations) concerned with teaching methods;
+21) coordination within the educational establishment of activities by public (including those with children and youth participation) organizations (associations) that are not prohibited by law;
+22) the carrying out of any other activity not prohibited by the legislation of the Russian Federation and provided for by the Charter of the educational establishment;
+23) selection of text-books from approved federal lists of the text-books recommended (cleared) for use in educational process.
 
 [[END OF PAGE 28]]
 
@@ -720,11 +795,7 @@ educational technologies implemented mainly with the use of information and tele
 
 ### Article 33. Procedure for the Creation of an Educational Establishment and Regulation of Its Activity
 
-- An educational institution shall be established and registered in compliance with the laws of the Russian Federation.
-
-The  pr ocedur e
-
-determined by the Government of the Russian Federation, the procedure for establishing state educational institutions that are within the scope of jurisdiction of a subject of the Russian Federation shall be determined by the executive body of the subject of the Russian Federation and that for municipal educational institutions shall be determined by the local self-government bodies.
+- An educational institution shall be established and registered in compliance with the laws of the Russian Federation. The procedure for establishing federal state educational institutions shall be determined by the Government of the Russian Federation, the procedure for establishing state educational institutions that are within the scope of jurisdiction of a subject of the Russian Federation shall be determined by the executive body of the subject of the Russian Federation and that for municipal educational institutions shall be determined by the local self-government bodies.
 
 2. Abolished from January 1, 2005 .
 
@@ -746,37 +817,32 @@ determined by the Government of the Russian Federation, the procedure for establ
 
 educational establishments, and of the general public.
 
-- The subject matter and the content of the expert examination shall be to ascertain that the conditions for carrying out of the educational process offered by the educational establishment comply to the State and local requirements as regards building standards and regulations, standards of sanitation and hygiene; protection of health of the students, pupils and staff of the educational establishment, availability of equipment in the class rooms and during the teaching process, the educational qualifications of the teaching staff and the staffing level. The content, organization and methods of the provision of education shall not be the subject matter of the commission of experts. The peculiarities of the subject matter and content of an expert examination performed in respect of educational institutions that use distance educational institutions to implement curricula partially or in full shall be determined by the federal (central) governmental body in charge of education, except as otherwise established by a federal law. 10. The requirements of the expert examination must not exceed the average statistics for the territory in which the educational establishment if registered. 11. The cost of the expert examination shall be borne by the founder of the educational establishment. 12. The license issued to the educational establishment shall lay down control standards, the maximum intake of students and pupils, and the period for which the license remains in force. 13. A negative outcome of the expert examination and the refusal on that basis to grant a license to the educational establishment may the subject of a legal appeal by the founder. 14. The authorised executive body shall enforce supervise the compliance by the educational establishment irrespective of its organizational and legal form to the requirements laid down in the license. The license shall be withdrawn should the said requirements be violated. 15. The procedure for renewal of the license shall be the same as for its granting. 16. The right of an educational institution to issue a document of a state-approved design for its graduates that certifies a certain level of education and to use a seal bearing an image of the State Coat of Arms of the Russian Federation shall emerge as of the state accreditation of the educational institution confirmed by a certificate of state accreditation. 17. The state accreditation certificate issued to the educational establishment shall confirm its official status, the level of the education curriculum to be taught, the conformity of the content and quality of the education received by course finishers to the requirements of the State educational standards, and its right to provide course finishers with an education document of the State model on the appropriate educational level. The  St at e  accr edi t at i on  cer t i f i cat e  i s s ued  t -school educational establishments and establishments of children's further education shall confirm the official status of the corresponding educational establishment, the level of educational curriculum taught, the category of the given educational establishment. 18. The State accreditation of educational establishments shall be carried out by the authorised executive body on the basis of an application from an educational establishment and a conclusion reached on its certification. 19. The certification of an educational establishment shall be carried out on its application by the State
-
-- certification service with the participation of prominent educational establishments, members of the
+- The subject matter and the content of the expert examination shall be to ascertain that the conditions for carrying out of the educational process offered by the educational establishment comply to the State and local requirements as regards building standards and regulations, standards of sanitation and hygiene; protection of health of the students, pupils and staff of the educational establishment, availability of equipment in the class rooms and during the teaching process, the educational qualifications of the teaching staff and the staffing level. The content, organization and methods of the provision of education shall not be the subject matter of the commission of experts. The peculiarities of the subject matter and content of an expert examination performed in respect of educational institutions that use distance educational technologies to implement curricula partially or in full shall be determined by the federal (central) governmental body in charge of education, except as otherwise established by a federal law.
+10. The requirements of the expert examination must not exceed the average statistics for the territory in which the educational establishment is registered.
+11. The cost of the expert examination shall be borne by the founder of the educational establishment.
+12. The license issued to the educational establishment shall lay down control standards, the maximum intake of students and pupils, and the period for which the license remains in force.
+13. A negative outcome of the expert examination and the refusal on that basis to grant a license to the educational establishment may be the subject of a legal appeal by the founder.
+14. The authorised executive body shall enforce supervise the compliance by the educational establishment irrespective of its organizational and legal form to the requirements laid down in the license. The license shall be withdrawn should the said requirements be violated.
+15. The procedure for renewal of the license shall be the same as for its granting.
+16. The right of an educational institution to issue a document of a state-approved design for its graduates that certifies a certain level of education and to use a seal bearing an image of the State Coat of Arms of the Russian Federation shall emerge as of the state accreditation of the educational institution confirmed by a certificate of state accreditation.
+17. The state accreditation certificate issued to the educational establishment shall confirm its official status, the level of the education curriculum to be taught, the conformity of the content and quality of the education received by course finishers to the requirements of the State educational standards, and its right to provide course finishers with an education document of the State model on the appropriate educational level. The State accreditation certificate issued to pre-school educational establishments and establishments of children's further education shall confirm the official status of the corresponding educational establishment, the level of educational curriculum taught, the category of the given educational establishment.
+18. The State accreditation of educational establishments shall be carried out by the authorised executive body on the basis of an application from an educational establishment and a conclusion reached on its certification.
+19. The certification of an educational establishment shall be carried out on its application by the State certification service with the participation of prominent educational establishments, members of the
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
 general public. The certification shall be carried out once every five years, unless otherwise provided by law. The cost of certification shall be borne by the educational establishment.
+20. The purpose and the subject matter of certification shall be to confirm that the content, the level and quality of the education received by the course finishers of the educational establishment correspond to the requirements of the State educational standards. The certification of the educational establishment shall be conditional to the fact that no less than half of its course finishers shall achieve positive results in their final assessment over three consecutive years. The first certification of a newly created educational establishment may be carried out on its application upon graduation of the first intake of students but not earlier than after three years upon receipt of the license and conditional on positive results of final assessment of no less than half of its course finishers. The first certification of newly created educational establishment of primary general, basic general and secondary (complete) general education may be carried out in phases for stages of education - primary general, basic general, secondary (complete) general.
 
-20. The purpose and the subject matter of certification shall be to confirm that the content, the level and quality of the education received by the course finishers of the educational establishment correspond to the requirements of the State educational standards. The certification of the educational establishment shall be conditional to the fact that no less than half of its course finishers shall achieve positive results in their final assessment over three consecutive years. The f i r st  cer t i f i cat i of a
-
-newly created educational establishment may be carried out on its application upon graduation of the first intake of students but not earlier than after three years upon receipt of the license and conditional on positive results of final assessment of no less than half of its course finishers. The f i r st
-
-certification of newly created educational establishment of primary general, basic general and
-
-secondary (complete) general education may be carried out in phases for stages of education - primary
-
-general, basic general, secondary (complete) general.
-
-- The decision of the State certification service on certification may be the subject of a legal appeal only as regards the certification procedure. The educational establishment shall have the right to reapply for certification earlier than 12 months after it was denied the State accreditation.
+- The decision of the State certification service on certification may be the subject of a legal appeal only as regards the certification procedure. The educational establishment shall have the right to reapply for certification not earlier than 12 months after it was denied the State accreditation.
 
 22. The certification of pre-school educational establishments, educational establishments for orphans and children not in the care of their parents (persons acting in loco parentis), special (remedial) educational establishments for children with developmental abnormalities, further education establishments and newly created experimental educational establishments shall be carried out by the appropriate State body of education administration in the manner laid down for these educational establishments by the Sample Regulations.
 
 - An educational establishment may be deprived of its State accreditation on the basis of the results of the certification.
 
-- Branches and departments of educational establishments shall be undergo licensing, certification and the State accreditation in the general manner laid down for educational establishments by this Law.
-
-The  br anche
-
-means of distance educational technologies (except for some classes) in these branches shall be entitled to undergo attestation and state accreditation as part of the educational institution of which they are structural units.
+- Branches and departments of educational establishments shall be undergo licensing, certification and the State accreditation in the general manner laid down for educational establishments by this Law. The branches of educational institutions in which curricula are implemented in full by means of distance educational technologies (except for some classes) shall be entitled to undergo attestation and state accreditation as part of the educational institution of which they are structural units.
 
 - Educational establishments may receive public accreditation in various Russian, foreign and international public educational, scientific and industrial bodies. Such accreditation shall not entail any additional financial undertakings on the part of the State.
 
@@ -790,7 +856,7 @@ means of distance educational technologies (except for some classes) in these br
 
 Russian Federation and that for reorganising municipal educational institutions shall be established by the local self government body.
 
-2. In the reorganization of an educational establishment in the form of transformation, branching off of an affiliate into an independent legal entity, affiliation with an educational establishment of a legal entity which is not an educational establishment, and in the creation of an autonomous educational institution by changing the type of the existing government or municipal educational establishment, an educational establishment has the right to perform the kinds of activity, defined in its Rules, on the ground of a licence and of a certificate on the state accreditation, issued to such educational establishment before the end of validity of these licences and certificate. I f  t he s t at us  of  an educational establishment is changed and if it is reorganized in a form, not pointed out in the first paragraph of the present Item, the licence and the certificate on the state accreditation lose their force, if not otherwise provided for by federal laws.
+2. In the reorganization of an educational establishment in the form of transformation, branching off of an affiliate into an independent legal entity, affiliation with an educational establishment of a legal entity which is not an educational establishment, and in the creation of an autonomous educational institution by changing the type of the existing government or municipal educational establishment, an educational establishment has the right to perform the kinds of activity, defined in its Rules, on the ground of a licence and of a certificate on the state accreditation, issued to such educational establishment before the end of validity of these licences and certificate. If the status of an educational establishment is changed and if it is reorganized in a form, not pointed out in the first paragraph of the present Item, the licence and the certificate on the state accreditation lose their force, if not otherwise provided for by federal laws.
 
 3. Abolished from January 1, 2005 .
 
@@ -806,7 +872,7 @@ Russian Federation and that for reorganising municipal educational institutions 
 
 - The management of the State and municipal educational establishments shall be carried out in accordance with the legislation of the Russian Federation and the Charter of the educational establishment.
 
-- The management of the State and municipal educational establishments shall be based on principles of unity of leadership and self-management. Forms of self-management in an educational establishment shall be as follows: the board of the educational establishment, the council of trustees, the general meeting , the pedagogical council and others. The Charter of the educational establishment shall lay down the educational establishment and their competence.
+- The management of the State and municipal educational establishments shall be based on principles of unity of leadership and self-management. Forms of self-management in an educational establishment shall be as follows: the board of the educational establishment, the council of trustees, the general meeting , the pedagogical council and others. The Charter of the educational establishment shall lay down the structure of the self-management bodies of the educational establishment and their competence.
 
 - 2.1. In the part, not regulated in the legislation of the Russian Federation, the procedure for the
 
@@ -816,9 +882,9 @@ Russian Federation and that for reorganising municipal educational institutions 
 
 formation of the management bodies of an educational establishment and their competence shall be defined in the Rules of the educational establishment.
 
-- The daily management of the state or municipal educational establishment shall be carried out by a properly certified head, director, rector or other manager (administrator) of the educational establishment in question. The  st at us  of   t he  h Federal jurisdiction shall laid down by the Government of the Russian Federation.
+- The daily management of the state or municipal educational establishment shall be carried out by a properly certified head, director, rector or other manager (administrator) of the educational establishment in question. The status of the head of a state educational establishment under Federal jurisdiction shall be laid down by the Government of the Russian Federation.
 
-- The head of the state or municipal educational establishment may, in accordance with the Charter of the educational establishment, be: 1)  el ect ed by t he elected by the staff of the educational establishment upon prior agreement of the founder on the candidate (candidates); 3)   el ect ed  by  t he  s t a approved by the founder; 4)   appoi nt ed  by  t he  f ounder   w i t h  t he ilable to the board of the educational establishment; 5)   appoi nt ed  by  t he  f oun founder. Appointment of rectors shall not be permitted in civil higher vocational training establishments.
+- The head of the state or municipal educational establishment may, in accordance with the Charter of the educational establishment, be: 1) elected by the staff of the educational establishment; 2) elected by the staff of the educational establishment upon prior agreement of the founder on the candidate (candidates); 3) elected by the staff of the educational establishment with subsequent approval by the founder; 4) appointed by the founder with the right of veto being available to the board of the educational establishment; 5) appointed by the founder; 6) employed by the founder. Appointment of rectors shall not be permitted in civil higher vocational training establishments.
 
 - The delimitation of powers between the board of an educational establishment and its head shall be laid down by the Charter of the educational establishment.
 
@@ -864,9 +930,7 @@ formation of the management bodies of an educational establishment and their com
 
 - The State certification service may send a State-accredited educational establishment a complaint concerning the quality of the education and (or) discrepancy between the education and the requirements of the corresponding State educational standard.
 
-an  of f i ci al   r epr es e on 2)   as   r egar ds   educat a  deci s i on  of   a  gener a
-
-- The grounds upon which a higher authority of the State certification service may consider sending a complaint are: 1)   as   r egar ds   educat i onal   es tablishments teaching general education curriculum: a decision of a general meeting of parents (persons acting in loco parentis) of children attending the given education establishment; service for the area in which the educational establishment is located; establishments teaching vocational training curriculum: students of the given educational establishment; an  of f i ci al representation from the State employment service.
+- The grounds upon which a higher authority of the State certification service may consider sending a complaint are: 1) as regards educational establishments teaching general education curriculum: a decision of a general meeting of parents (persons acting in loco parentis) of children attending the given education establishment; an official representation from the State certification service for the area in which the educational establishment is located; 2) as regards educational establishments teaching vocational training curriculum: a decision of a general meeting of students of the given educational establishment; an official representation from the State employment service.
 
 - The decision to send a complaint or to decline the request of the petitioners that a complaint be sent shall be taken by the higher authority of the State certification service and is communicated to the petitioners within a month. The petitioners may lodge a legal appeal against the refusal of the State certification service to send a complaint.
 
@@ -875,13 +939,13 @@ an  of f i ci al   r epr es e on 2)   as   r egar ds   educat a  deci s i on  of
 ## Chapter IV. The Economics of the Education System
 
 ### Article 39. Property Relations in the Education System
-1. The founder shall assign items of property (land, buildings, facilities, movable property, equipment, as well as other essential property of a consumer, social, cultural and other nature), to the educational establishment to enable it to carry out its educational activity in accordance with its Charter; the founder either has the legal title to the property concerned or he leases it from a third party (owner). state and municipal educational establishments for free use of unlimited duration.
+1. The founder shall assign items of property (land, buildings, facilities, movable property, equipment, as well as other essential property of a consumer, social, cultural and other nature), to the educational establishment to enable it to carry out its educational activity in accordance with its Charter; the founder either has the legal title to the property concerned or he leases it from a third party (owner).
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
 
-Pl ot s  of   l and
+Plots of land shall be assigned to state and municipal educational establishments for free use of unlimited duration.
 
 - The items of property assigned by the founder to the educational establishment shall be under effective management of this establishment.
 
@@ -905,9 +969,7 @@ Pl ot s  of   l and
 
 - Abolished from January 1, 2005 .
 
-- The State and municipal educational establishments, allocated to them with the right of effective management or placed at their full disposal production and social infrastructure facilities, including living premises found in the buildings of educational, production, social and cultural purpose and dormitories (for rural areas), thereto clinical bases for medical education establishments, that are in the effective management of educational establishments or in under any other authority, shall not be subject to privatization. The  pr ovi si o
-
-establishments of extended professional education (for raising of qualifications) pertaining to organizations of the atomic energy industrial complex of the Russian Federation to be transferred to the public joint-stock company of the atomic energy industrial complex of the Russian Federation in compliance with the Federal Law on the Specifics of Management and Disposal of Property and Stocks of the Organisations Engaged in the Activity of Atomic Energy Use and on Amending Some Legislative Acts of the Russian Federation.
+- The State and municipal educational establishments, allocated to them with the right of effective management or placed at their full disposal production and social infrastructure facilities, including living premises found in the buildings of educational, production, social and cultural purpose and dormitories (for rural areas), thereto clinical bases for medical education establishments, that are in the effective management of educational establishments or in under any other authority, shall not be subject to privatization. The provisions of this Item shall not extend to educational establishments of extended professional education (for raising of qualifications) pertaining to organizations of the atomic energy industrial complex of the Russian Federation to be transferred to the public joint-stock company of the atomic energy industrial complex of the Russian Federation in compliance with the Federal Law on the Specifics of Management and Disposal of Property and Stocks of the Organisations Engaged in the Activity of Atomic Energy Use and on Amending Some Legislative Acts of the Russian Federation.
 
 ### Article 40. Abolished from January 1, 2005 .
 
@@ -919,23 +981,17 @@ establishments of extended professional education (for raising of qualifications
 
 - The activities of an educational establishment shall be financed in compliance with the laws.
 
-A s  r egar ds
-
-- Federal state educational establishments shall be financed on the basis of the federal normative standards of financing state educational establishments that are within the scope of jurisdiction of the subjects of the Russian Federation and municipal educational establishments shall be financed on the basis of the federal normative standards and normative standards of a subject of the Russian Federation. These normative standards shall be determined for each type, kind and category of an educational establishment counting upon one pupil, inmate, as well as on other basis. low-intake rural educational establishments and those regarded as such by state power bodies and education administration bodies, the normative standard of financing must account for the expenses
-
-that are not dependent on the number of pupils.
-
-ten thousand people residing in the Russian Federation shall be trained in federal governmental educational establishments of higher professional education at the expense of the federal budget funds.
+- Federal state educational establishments shall be financed on the basis of the federal normative standards of financing, state educational establishments that are within the scope of jurisdiction of the subjects of the Russian Federation and municipal educational establishments shall be financed on the basis of the federal normative standards and normative standards of a subject of the Russian Federation. These normative standards shall be determined for each type, kind and category of an educational establishment counting upon one pupil, inmate, as well as on other basis. As regards low-intake rural educational establishments and those regarded as such by state power bodies and education administration bodies, the normative standard of financing must account for the expenses that are not dependent on the number of pupils. At least one hundred and seventy students for every ten thousand people residing in the Russian Federation shall be trained in federal governmental educational establishments of higher professional education at the expense of the federal budget funds.
 
 - Normative standards of financing federal state educational establishments shall be established by the Government of the Russian Federation.
 
-- The normative standards of financing educational establishments of a subject of the Russian Federation and municipal educational establishments in the part thereof provided for by Item 6.1 of Article 29 of this Law shall be established by state power bodies of the subjects of the Russian Federation. Local   sel f -government bodies may establish normative standards of financing municipal educational establishments at the expense of local budgets (except for the subventions granted from the budgets of the subjects of the Russian Federation in compliance with Item 6.1 of Article 29 of this Law).
+- The normative standards of financing educational establishments of a subject of the Russian Federation and municipal educational establishments in the part thereof provided for by Item 6.1 of Article 29 of this Law shall be established by state power bodies of the subjects of the Russian Federation. Local self-government bodies may establish normative standards of financing municipal educational establishments at the expense of local budgets (except for the subventions granted from the budgets of the subjects of the Russian Federation in compliance with Item 6.1 of Article 29 of this Law).
 
-- Abolished from January 1, 2005 .
+- Abolished from January 1, 2005.
 
-- Abolished from January 1, 2005 .
+- Abolished from January 1, 2005.
 
-- Abolished from January 1, 2005 .
+- Abolished from January 1, 2005.
 
 - An educational establishment shall have the right to raise additional financial resources, in the manner laid down by the legislation of the Russian Federation, through provision of additional educational and other services for a fee as stipulated in the Charter of the educational establishment, and also through voluntary donations and target contributions from natural and legal entities, including foreign citizens and (or) foreign legal entities
 
@@ -949,13 +1005,13 @@ ten thousand people residing in the Russian Federation shall be trained in feder
 
 - Provision on the competitive basis of free secondary vocational and higher vocational training in the State educational establishments of secondary vocational and higher vocational training within the limits of the Federal component of the State educational standard shall be effected at federal state educational establishments and at educational establishments of the subjects of the Russian Federation in compliance with the assignment (mandatory figures) for intake of students for free training.
 
-- The amount and allocation of students intake to be trained at the expense of the resources of the Federal budget shall be established in the manner laid down by the Government of the Russian Federation The  am ount   and  al l ocat i on  of   s t udent s   i nt ake  t o be trained at the expense of budgets of
-
-A t  l east  on the subjects of the Russian Federation shall be established in the procedure established by executive bodies of the subjects of the Russian Federation.
+- The amount and allocation of students intake to be trained at the expense of the resources of the Federal budget shall be established in the manner laid down by the Government of the Russian Federation. The amount and allocation of students intake to be trained at the expense of budgets of
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+the subjects of the Russian Federation shall be established in the procedure established by executive bodies of the subjects of the Russian Federation.
 
 - Should the subjects of the Russian Federation introduce a regional component of the State educational standard the financing of the expenses incurred thereby for free education of students shall be financed from the resources of the budgets of the corresponding subjects of the Russian Federation.
 
@@ -999,27 +1055,11 @@ A t  l east  on the subjects of the Russian Federation shall be established in t
 
 - The inter-relationships of a non-government educational establishment and students, pupils, their parents (persons acting in loco parentis) are regulated by contract determining the level of education, the course duration, the amount of payment and other conditions.
 
-### Article 47. Entrepreneurial and Other Profit-Making Activity Activity of an Educational Establishment
+### Article 47. Entrepreneurial and Other Profit-Making Activity of an Educational Establishment
 
-- An educational establishment shall have the right to carry out entrepreneurial and other profitmaking activities activity provided for by its Charter.
+- An educational establishment shall have the right to carry out entrepreneurial and other profit-making activity provided for by its Charter.
 
-- The following shall be regarded as entrepreneurial activity of an educational establishment: in purchased goods and equipment;
-
-activity of other establishments, (including educational establishments) and
-
-organizations;
-
-deriving income (dividends, interest) from them;
-
-t r ade
-
-provi si on  of   i nt e
-
-acqui si t i on  of   s har es
-
-car r yi ng  out   of   ot her   non -sale operations yielding
-
-an income that are not directly connected with the establishment's own production, operations and services and their sale that are stipulated in the Charter of the establishment.
+- The following shall be regarded as entrepreneurial activity of an educational establishment: trade in purchased goods and equipment; provision of intermediary services; share participation in the activity of other establishments, (including educational establishments) and organizations; acquisition of shares, bonds and other securities, and deriving income (dividends, interest) from them; carrying out of other non-sale operations yielding an income that are not directly connected with the establishment's own production, operations and services and their sale that are stipulated in the Charter of the establishment.
 
 - Abolished from January 1, 2005 .
 
@@ -1041,7 +1081,7 @@ an income that are not directly connected with the establishment's own productio
 
 - A complaint from the State certification service concerning the quality of the teaching provided shall be the ground for the lodging of such claim.
 
-## Chapter V. Social Guaranteed of the Realization of the Rights of Citizens to Education
+## Chapter V. Social Guarantees of the Realization of the Rights of Citizens to Education
 
 [[END OF PAGE 38]]
 
@@ -1055,13 +1095,13 @@ an income that are not directly connected with the establishment's own productio
 
 - Citizens who received education in unaccredited educational establishments and through education in the family and selfeducation shall have the right to certification through external studies in accredited educational establishments of a corresponding type.
 
-- Students in all educational establishments shall have the right to receive education in accordance with the State educational standards, to instruction within these standards in accordance to individual teaching schemes, to intensive course education, to free access to the library and information resources of libraries, to further education services (including those provided for a fee), to participate in the management of the educational establishment, to respect for human dignity, to freedom of conscience and information, to free expression of personal views and convictions. accordance with individual teaching schemes within the limits of the State educational standard and the forms of participation of students in the management of the educational establishment shall be regulated by the Charter of this educational establishment.
+- Students in all educational establishments shall have the right to receive education in accordance with the State educational standards, to instruction within these standards in accordance to individual teaching schemes, to intensive course education, to free access to the library and information resources of libraries, to further education services (including those provided for a fee), to participate in the management of the educational establishment, to respect for human dignity, to freedom of conscience and information, to free expression of personal views and convictions. The instruction in accordance with individual teaching schemes within the limits of the State educational standard and the forms of participation of students in the management of the educational establishment shall be regulated by the Charter of this educational establishment.
 
 - Course finishers of educational establishments with State accreditation irrespective of their organizational and legal forms shall have equal rights of entry to an educational establishment of the next level.
 
 - The founder within the scope of his authority shall provide pupils and inmates of state or municipal educational establishments with scholarships and accommodation at hostels and boarding houses, as well as shall take other measures of social support.
 
-- Citizens of the Russian Federation shall have the right to receive for the first time free primary general, basic general, secondary (complete) general, primary vocational, and on competitive basis secondary vocational, higher vocational and post-graduate vocational training (education) in the State or municipal educational establishments within the limits of the State educational standards. C i t i zens   of   t he  R us s i an  Feder at i on  s hal l   hav an established manner to repeatedly receive free vocational training on the directions of the State employment service should they cease to be able to work in their trade, profession, on account of industrial illness and (or) disability and in other cases provided for in the legislation of the Russian Federation.
+- Citizens of the Russian Federation shall have the right to receive for the first time free primary general, basic general, secondary (complete) general, primary vocational, and on competitive basis secondary vocational, higher vocational and post-graduate vocational training (education) in the State or municipal educational establishments within the limits of the State educational standards. Citizens of the Russian Federation shall have the right in an established manner to repeatedly receive free vocational training on the directions of the State employment service should they cease to be able to work in their trade, profession, on account of industrial illness and (or) disability and in other cases provided for in the legislation of the Russian Federation.
 
 - Part-time students and correspondence students in educational establishments who master their curriculum shall be entitled to an additional paid leave from their place of work, a reduced working week and other benefits that are provided in the manner established by the legislation of the Russian Federation.
 
@@ -1069,23 +1109,21 @@ an income that are not directly connected with the establishment's own productio
 
 - Organs of education administration shall create special (remedial) educational establishments (classes, groups), for children and adolescents with developmental abnormalities to cater for treatment, upbringing, and education, social adaptation and integration into society. The  cat egor i es  of students, pupils to be sent to the said educational establishments, and to be provided with complete State care shall be determined by the Government of the Russian Federation. C hi l dr en  and adolescents with developmental abnormalities shall be sent to the said educational establishments by organs of education administration only by agreement of their parents (persons acting as loco parentis) upon the findings of psychological and pedagogical, and medical and pedagogical commissions.
 
-The  i nst r uc
+
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
 
-- Special teaching and training establishments shall be created for adolescents with deviant (socially dangerous) behaviour, who have reached the age of eleven years and require special conditions for their upbringing and training and a special teaching approach, that ensure their medical and social rehabilitation, education and vocational training. The  sai d  adol escent s educational establishments only by a court judgement.
+- Special teaching and training establishments shall be created for adolescents with deviant (socially dangerous) behaviour, who have reached the age of eleven years and require special conditions for their upbringing and training and a special teaching approach, that ensure their medical and social rehabilitation, education and vocational training. The said adolescents shall be sent to the said educational establishments only by a court judgement.
 
 - For citizens kept in educational labour and correctional labour institutions special conditions for the provision of basic general education and primary vocational training, job training and selfeducation shall be created by the administration of such institutions and state power bodies of the subjects of the Russian Federation.
 
-- The cr i t er i a f young people for the said educational establishments shall be laid down by the founder and shall be
-
-- The State authorities and education administration bodies may create unique educational establishments of the highest category for children, adolescents and young people who have demonstrated outstanding capabilities. made known to the public.
+- The State authorities and education administration bodies may create unique educational establishments of the highest category for children, adolescents and young people who have demonstrated outstanding capabilities. The criteria for selecting children, adolescents and young people for the said educational establishments shall be laid down by the founder and shall be made known to the public.
 
 - Enlistment of students, pupils of civilian educational establishments without agreement of their parents (persons acting in loco parentis) to works not envisaged by the education syllabus is prohibited.
 
-- Coercion of students, pupils into joining any social, socio-political organizations (associations), movements and parties, and compiling them to take part in the activities of such organizations and participation in agitation campaigns and political actions may not be permitted.
+- Coercion of students, pupils into joining any social, socio-political organizations (associations), movements and parties, and compelling them to take part in the activities of such organizations and participation in agitation campaigns and political actions may not be permitted.
 
 - Students, pupils of civilian educational establishments shall have the right to attend activities not covered by curriculum.
 
@@ -1117,7 +1155,7 @@ educational establishments at home or in medical establishments. The ensuring of
 
 - The public health authorities shall provide the medical service for the students, pupils of the educational establishment. The educational establishment must provide the medical staff with adequate premises and working conditions.
 
-- The classes timetable of the educational establishment must provide for a meal break of sufficient duration for the students, pupils. The  cat er i ng  i n  t he  educat i on ll be organised by educational establishments. Educational establishment must have premises for the catering of students, pupils.
+- The classes timetable of the educational establishment must provide for a meal break of sufficient duration for the students, pupils. The catering in the educational establishment shall be organised by educational establishments. Educational establishment must have premises for the catering of students, pupils.
 
 - Abolished from January 1, 2005 .
 
@@ -1141,7 +1179,7 @@ educational establishments at home or in medical establishments. The ensuring of
 
 - The founders of educational institutions realising the basic general-educational programme of preschool education shall have the right to establish a fee to be collected from the parents or legal representatives (hereinafter, a parents' fee) for the maintenance of a child at such institutions, unless otherwise established by this Law and by other federal laws.
 
-- The rate of a parents" fee for the maintenance of a child at state and municipal educational institutions realising the basic general-educational programme of preschool education cannot exceed
+- The rate of a parents' fee for the maintenance of a child at state and municipal educational institutions realising the basic general-educational programme of preschool education cannot exceed
 
 [[END OF PAGE 41]]
 
@@ -1153,25 +1191,17 @@ educational establishments at home or in medical establishments. The ensuring of
 
 ### Article 52.2. Compensation for Part of a Parents' Fee for the Maintenance of a Child at Educational Institutions Realising the Basic General-Educational Programme of Preschool Education
 
-- For the purpose of material support of the upbringing of children attending state and municipal educational institutions realising the basic general-educational programme of preschool education, parents (legal representatives) shall be paid a compensation for part of the parents' fee (hereinafter, a compensation) for the first child at the rate of 20 per cent of the amount of the parents' fee paid by second child - at the rate of 50 per cent and for the third child and the subsequent children - at the rate of 70 per cent of the amount of the said parents' fee.
-
-- them and actually charged for the maintenance of a child at the relevant educational institution, for the The r i ght  t o exercised by one of the parents (legal representatives) that have paid the parents' fee for the
-
-maintenance of a child at the relevant educational institution.
+- For the purpose of material support of the upbringing of children attending state and municipal educational institutions realising the basic general-educational programme of preschool education, parents (legal representatives) shall be paid a compensation for part of the parents' fee (hereinafter, a compensation) for the first child at the rate of 20 per cent of the amount of the parents' fee paid by them and actually charged for the maintenance of a child at the relevant educational institution, for the second child - at the rate of 50 per cent and for the third child and the subsequent children - at the rate of 70 per cent of the amount of the said parents' fee. The right to receive a compensation shall be exercised by one of the parents (legal representatives) that have paid the parents' fee for the maintenance of a child at the relevant educational institution.
 
 - The procedure for applying for a compensation and also the procedure for its payment shall be established by the bodies of state power of the entities of the Russian Federation.
 
-- The financing of the expenses connected with the granting of the compensation shall be an expenses liability of the entities of the Russian Federation. The  R ussi an  Feder at i confinancing of such expenses by way of granting to the budgets of the entities of the Russian Federation of subsidies calculated in accordance with this Item on the basis of the average amount of the parents' fee existing at an entity of the Russian Federation and actually charged for the maintenance of a child at state and municipal educational institutions realising the basic generaleducational programme of preschool education. The granting of subsidies shall be carried out in the procedure and on conditions determined by the Government of the Russian Federation within the limits of the volumes of the means assigned for such purposes in the federal budget for the regular financial year.
+- The financing of the expenses connected with the granting of the compensation shall be an expenses liability of the entities of the Russian Federation. The Russian Federation shall provide for the confinancing of such expenses by way of granting to the budgets of the entities of the Russian Federation of subsidies calculated in accordance with this Item on the basis of the average amount of the parents' fee existing at an entity of the Russian Federation and actually charged for the maintenance of a child at state and municipal educational institutions realising the basic general-educational programme of preschool education. The granting of subsidies shall be carried out in the procedure and on conditions determined by the Government of the Russian Federation within the limits of the volumes of the means assigned for such purposes in the federal budget for the regular financial year.
 
 ### Article 53. The Teaching Profession
 
 - The staffing procedure of educational establishments shall be governed by their Charters. Individuals possessing educational qualifications laid down in the Sample Regulations for the appropriate types and kinds of educational establishments are permitted to teach in the educational establishments.
 
-O n t he par t
-
-- No clearance shall be granted for pursuing a pedagogical activity in an educational institution to the persons who have been prohibited to pursue it by a court decision or on medical grounds and also the persons whose previous conviction for deliberate grave and especially grave crimes under the Criminal Code of the Russian Federation and the Criminal Code of the RSFSR has not been expunged or redeemed. A list of the said injunction medical grounds shall be established by the Government of the Russian Federation.
-
-Chapter 52 of the Labour Code of the Russian Federation
+- No clearance shall be granted for pursuing a pedagogical activity in an educational institution to the persons who have been prohibited to pursue it by a court decision or on medical grounds and also the persons whose previous conviction for deliberate grave and especially grave crimes under the Criminal Code of the Russian Federation and the Criminal Code of the RSFSR has not been expunged or redeemed. A list of the said injunction medical grounds shall be established by the Government of the Russian Federation. On the particulars of regulation of work of pedagogical workers see Chapter 52 of the Labour Code of the Russian Federation
 
 ### Article 54. Labour Remuneration of Workers (Staff) of Educational Establishments
 
@@ -1197,9 +1227,7 @@ Chapter 52 of the Labour Code of the Russian Federation
 
 - In carrying out their professional duties educational staff have the right of free choice and use of methods of teaching and instruction, teaching aids and materials, textbooks in compliance with a curriculum approved by the educational institution, and methods of assessing the knowledge of students and pupils.
 
-- Reduced duration working hours of no more than 36 hours a week are established for educational workers teaching staff of educational establishments. C ode  of   L aw s   on Federation and other regulatory enactments of the Russian Federation lay down the duration of working hours and minimum duration of annual paid leave for educational workers of educational establishments, depending on their post and (or) speciality, and with regards to characteristics of their work. Educat i onal   w or k ers of educational establishments, in the manner defined by the legislation of the Russian Federation, exercise the right to pension upon attainment of a pension age, to receive free housing fitted with heating and electricity in rural areas, worker's settlements townships (urban type settlement), priority in provision of housing. The amount, terms of, and procedure for, reimbursing the expenses connected with taking the said measures of social support shall be established by legislative acts of the subjects of the Russian Federation. Educat i onal   w the right at least once in every 10 years of continuous teaching work to a long leave up to one year, the procedure and conditions for which are determined by the founder and (or) the Charter of the
-
-educational establishment.
+- Reduced duration working hours of no more than 36 hours a week are established for educational workers teaching staff of educational establishments. The Code of Laws on Labour of the Russian Federation and other regulatory enactments of the Russian Federation lay down the duration of working hours and minimum duration of annual paid leave for educational workers of educational establishments, depending on their post and (or) speciality, and with regards to characteristics of their work. Educational workers of educational establishments, in the manner defined by the legislation of the Russian Federation, exercise the right to pension upon attainment of a pension age, to receive free housing fitted with heating and electricity in rural areas, worker's settlements townships (urban type settlement), priority in provision of housing. The amount, terms of, and procedure for, reimbursing the expenses connected with taking the said measures of social support shall be established by legislative acts of the subjects of the Russian Federation. Educational workers shall have the right at least once in every 10 years of continuous teaching work to a long leave up to one year, the procedure and conditions for which are determined by the founder and (or) the Charter of the educational establishment.
 
 - Teaching work load of teaching staff of educational establishment as fixed in the contract has an upper limit stipulated by the Sample Regulations on the corresponding types and kinds of educational establishments.
 
@@ -1213,7 +1241,7 @@ compensation shall be established by a constituent entity of the Russian Federat
 
 - A faculty member of a higher vocational training educational establishment who has an academic degree in an appropriate speciality has the right to give a course without remuneration parallel to the existing course. The management of the educational establishment must to create the necessary conditions for this.
 
-- Pedagogical workers of federal state educational establishments (including the leading employees whose activities are connected with training), for the purpose of assisting their provision with books and periodicals, shall be paid a monthly monetary compensation in the amount of 150 roubles at federal state educational establishments of higher professional education and of the appropriate additional professional education and in the amount of 100 roubles at other federal state educational institutions. To pedagogical workers of the state educational establishments that are within the scope of jurisdiction of the subjects of the Russian Federation the aid monetary compensation shall be paid by decision of the state power body of the subject of the Russian Federation in the amount established by the said bodies and to pedagogical workers of municipal educational establishments it shall be paid by the local self-government body.
+- Pedagogical workers of federal state educational establishments (including the leading employees whose activities are connected with training), for the purpose of assisting their provision with books and periodicals, shall be paid a monthly monetary compensation in the amount of 150 roubles at federal state educational establishments of higher professional education and of the appropriate additional professional education and in the amount of 100 roubles at other federal state educational institutions. To pedagogical workers of the state educational establishments that are within the scope of jurisdiction of the subjects of the Russian Federation the said monetary compensation shall be paid by decision of the state power body of the subject of the Russian Federation in the amount established by the said bodies and to pedagogical workers of municipal educational establishments it shall be paid by the local self-government body.
 
 - Abolished from January 1, 2005 .
 
@@ -1223,7 +1251,7 @@ compensation shall be established by a constituent entity of the Russian Federat
 
 - The staff members of educational establishments and training, and counseling offices that are created at educational establishments executing penalty in the form of imprisonment involved in work with convicts are covered by the procedure and conditions of provision with pensions due to special labour conditions which that are established for the staff working with convicts under imprisonment.
 
-### Article 56. Labour Relations in the System of Education in the Education system
+### Article 56. Labour Relations in the Education System
 
 - The employer of the staff of an educational establishment is the establishment itself, unless otherwise is provided by the legislation of the Russian Federation.
 
@@ -1231,17 +1259,7 @@ compensation shall be established by a constituent entity of the Russian Federat
 
 - The labour relationship between a staff member of an educational establishment and the educational establishment is governed by a labour agreement (contract). The conditions of the labour agreement (contract) may not be at variance with the labour legislation of the Russian Federation.
 
-- t he  us e,   i ncl udi n
-
-- In addition to the provisions of the labour legislation of the Russian Federation on the termination of the labour agreement on the initiative of the management the following are the grounds for the dismissal of an educational worker a member of teaching staff, a teaching staff member of an educational establishment prior to expiry of the labour agreement (contract): 1) repeated gross violations of the Charter of the educational establishment;
-
-educational methods involving physical and (or) mental psychological abuse of the personality of student, pupil; personal violence against intoxication.
-
-agreement of the trade union.
-
-3)   appear i ng  a
-
-The  m anagem ent   m
+- In addition to the provisions of the labour legislation of the Russian Federation on the termination of the labour agreement on the initiative of the management the following are the grounds for the dismissal of a teaching staff member of an educational establishment prior to expiry of the labour agreement (contract): 1) repeated gross violations of the Charter of the educational establishment; 2) the use, including a single use, of educational methods involving physical and (or) mental violence against the personality of a student, pupil; 3) appearing at work in a state of alcoholic, narcotic or toxic intoxication. The management may carry out dismissal on these grounds without the agreement of the trade union.
 
 [[END OF PAGE 44]]
 
@@ -1253,18 +1271,18 @@ The  m anagem ent   m
 
 - International cooperation of the Russian Federation in the field of education is carried out in accordance with the legislation of the Russian Federation and international agreements of the Russian Federation. Should an international agreement of the Russian Federation lay down rules that differ from those stipulated by the legislation of the Russian Federation, the rules of the international agreement shall be applied.
 
-- Organs of education administration, educational establishments have the right to establish direct ties contacts with foreign enterprises, establishments and organizations.
+- Organs of education administration, educational establishments have the right to establish direct contacts with foreign enterprises, establishments and organizations.
 
 - Education, training of foreign citizens and improvement of qualifications of foreign citizens in the educational establishments of the Russian Federation as well as that of citizens of the Russian Federation in foreign educational establishments are carried out in accordance with direct agreements concluded between the educational establishments, associations, organs of education administration, other legal entities, and physical entities in accordance with the international agreements of the Russian Federation. On the Cooperation with Foreign Countries in the Field of Education, see Decision of the Government of the Russian Federation No. 668 of November 4, 2003 Refer to the Procedure for Admittance and Education of Foreign Nationals in Higher and Medium Professional Educational Institutions of the Russian Federation at the Account of the Federal Budget Means approved by the Decision of the State Committee on Higher Educational Institutions of the Russian Federation No. 5 of April 10, 1996
 
 ### Article 58. External Economic Activity
 
-- Organs of education administration, educational establishments have the right to independently the right to conduct independent foreign economic activity in the manner laid down by the legislation of the Russian Federation.
+- Organs of education administration, educational establishments have the right to conduct independent foreign economic activity in the manner laid down by the legislation of the Russian Federation.
 
 2. Abolished from January 1, 2005 .
 
 President of the Russian Federation
 
-- B .   Y el t s i n
+- B. Yeltsin
 
 [[END OF PAGE 45]]
