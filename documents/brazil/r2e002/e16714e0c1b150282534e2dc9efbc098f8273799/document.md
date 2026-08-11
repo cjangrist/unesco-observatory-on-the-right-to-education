@@ -119,7 +119,7 @@ As estratégias definidas no Anexo desta Lei não elidem a adoção de medidas a
 Os sistemas de ensino dos Estados, do Distrito Federal e dos Municípios criarão mecanismos para o acompanhamento local da consecução das metas deste PNE e dos planos previstos no art. 8º .
 
 ### § 4º
-Haverá regime de colaboração específico para a implementação de modalidades de educação escolar que necessitem considerar territórios étnicoeducacionais e a utilização de estratégias que levem em conta as identidades e especificidades socioculturais e linguísticas de cada comunidade envolvida, assegurada a consulta prévia e informada a essa comunidade.
+Haverá regime de colaboração específico para a implementação de modalidades de educação escolar que necessitem considerar territórios étnico-educacionais e a utilização de estratégias que levem em conta as identidades e especificidades socioculturais e linguísticas de cada comunidade envolvida, assegurada a consulta prévia e informada a essa comunidade.
 
 ### § 5º
 Será criada uma instância permanente de negociação e cooperação entre a União, os Estados, o Distrito Federal e os Municípios.
@@ -315,7 +315,7 @@ universalizar, até 2016, o atendimento escolar para toda a população de 15 (q
 
 - 3.5) manter e ampliar programas e ações de correção de fluxo do ensino fundamental, por meio do acompanhamento individualizado do (a) aluno (a) com rendimento escolar defasado e pela adoção de práticas como aulas de reforço no turno complementar, estudos de recuperação e progressão parcial, de forma a reposicioná-lo no ciclo escolar de maneira compatível com sua idade;
 
-- 3.6) universalizar o Exame Nacional do Ensino Médio - ENEM, fundamentado em matriz de referência do conteúdo curricular do ensino médio e em técnicas estatísticas e psicométricas que permitam comparabilidade de resultados, articulando-o com o Sistema Nacional de Avaliação da Educação Básica SAEB,  e  promover  sua  utilização  como  instrumento  de  avaliação  sistêmica,  para  subsidiar  políticas  públicas  para  a  educação  básica,  de  avaliação certificadora, possibilitando aferição de conhecimentos e habilidades adquiridos dentro e fora da escola, e de avaliação classificatória, como critério de acesso à educação superior;
+- 3.6) universalizar o Exame Nacional do Ensino Médio - ENEM, fundamentado em matriz de referência do conteúdo curricular do ensino médio e em técnicas estatísticas e psicométricas que permitam comparabilidade de resultados, articulando-o com o Sistema Nacional de Avaliação da Educação Básica - SAEB,  e  promover  sua  utilização  como  instrumento  de  avaliação  sistêmica,  para  subsidiar  políticas  públicas  para  a  educação  básica,  de  avaliação certificadora, possibilitando aferição de conhecimentos e habilidades adquiridos dentro e fora da escola, e de avaliação classificatória, como critério de acesso à educação superior;
 
 - 3.7)  fomentar  a  expansão  das  matrículas  gratuitas  de  ensino  médio  integrado  à  educação  profissional,  observando-se  as  peculiaridades  das populações do campo, das comunidades indígenas e quilombolas e das pessoas com deficiência;
 
@@ -380,7 +380,7 @@ L13005
 
 - 4.15) promover, por iniciativa do Ministério da Educação, nos órgãos de pesquisa, demografia e estatística competentes, a obtenção de informação detalhada  sobre  o  perfil  das  pessoas  com  deficiência,  transtornos  globais  do  desenvolvimento  e  altas  habilidades  ou  superdotação  de  0  (zero)  a  17 (dezessete) anos;
 
-- 4.16) incentivar a inclusão nos cursos de licenciatura e nos demais cursos de formação para profissionais da educação, inclusive em nível de pósgraduação, observado o disposto no caput do art. 207 da Constituição Federal, dos referenciais teóricos, das teorias de aprendizagem e dos processos de ensino-aprendizagem relacionados ao atendimento educacional de alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação;
+- 4.16) incentivar a inclusão nos cursos de licenciatura e nos demais cursos de formação para profissionais da educação, inclusive em nível de pós-graduação, observado o disposto no caput do art. 207 da Constituição Federal, dos referenciais teóricos, das teorias de aprendizagem e dos processos de ensino-aprendizagem relacionados ao atendimento educacional de alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação;
 
 - 4.17) promover parcerias com instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos, conveniadas com o poder público, visando a ampliar as condições de apoio ao atendimento escolar integral das pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação matriculadas nas redes públicas de ensino;
 
@@ -469,9 +469,9 @@ L13005
 
 - 7.2) assegurar que:
 
-- no quinto ano de vigência deste PNE, pelo menos 70% (setenta por cento) dos (as) alunos (as) do ensino fundamental e do ensino médio tenham alcançado nível suficiente de aprendizado em relação aos direitos e objetivos de aprendizagem e desenvolvimento de seu ano de estudo, e 50% (cinquenta por cento), pelo menos, o nível desejável;
+- a) no quinto ano de vigência deste PNE, pelo menos 70% (setenta por cento) dos (as) alunos (as) do ensino fundamental e do ensino médio tenham alcançado nível suficiente de aprendizado em relação aos direitos e objetivos de aprendizagem e desenvolvimento de seu ano de estudo, e 50% (cinquenta por cento), pelo menos, o nível desejável;
 
-- no último ano de vigência deste PNE, todos os (as) estudantes do ensino fundamental e do ensino médio tenham alcançado nível suficiente de aprendizado em relação aos direitos e objetivos de aprendizagem e desenvolvimento de seu ano de estudo, e 80% (oitenta por cento), pelo menos, o nível desejável;
+- b) no último ano de vigência deste PNE, todos os (as) estudantes do ensino fundamental e do ensino médio tenham alcançado nível suficiente de aprendizado em relação aos direitos e objetivos de aprendizagem e desenvolvimento de seu ano de estudo, e 80% (oitenta por cento), pelo menos, o nível desejável;
 
 - 7.3)  constituir,  em  colaboração  entre  a  União,  os  Estados,  o  Distrito  Federal  e  os  Municípios,  um  conjunto  nacional  de  indicadores  de  avaliação institucional com base no perfil do alunado e do corpo de profissionais da educação, nas condições de infraestrutura das escolas, nos recursos pedagógicos disponíveis, nas características da gestão e em outras dimensões relevantes, considerando as especificidades das modalidades de ensino;
 
@@ -491,6 +491,10 @@ L13005
 
 - 7.11) melhorar o desempenho dos alunos da educação básica nas avaliações da aprendizagem no Programa Internacional de Avaliação de Estudantes - PISA, tomado como instrumento externo de referência, internacionalmente reconhecido, de acordo com as seguintes projeções:
 
+PISA | 2015 | 2018 | 2021
+--- | --- | --- | ---
+Média dos resultados em matemática, leitura e ciências | 438 | 455 | 473
+
 - 7.12) incentivar o desenvolvimento, selecionar, certificar e divulgar tecnologias educacionais para a educação infantil, o ensino fundamental e o ensino médio e incentivar práticas pedagógicas inovadoras que assegurem a melhoria do fluxo escolar e a aprendizagem, assegurada a diversidade de métodos e propostas pedagógicas, com preferência para softwares livres e recursos educacionais abertos, bem como o acompanhamento dos resultados nos sistemas de ensino em que forem aplicadas;
 
 - 7.13) garantir transporte gratuito para todos (as) os (as) estudantes da educação do campo na faixa etária da educação escolar obrigatória, mediante renovação e padronização integral da frota de veículos, de acordo com especificações definidas pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia -  INMETRO,  e  financiamento  compartilhado,  com  participação  da  União  proporcional  às  necessidades  dos  entes  federados,  visando  a  reduzir  a  evasão escolar e o tempo médio de deslocamento a partir de cada situação local;
@@ -500,10 +504,6 @@ L13005
 - 7.15) universalizar, até o quinto ano de vigência deste PNE, o acesso à rede mundial de computadores em banda larga de alta velocidade e triplicar, até o final da década, a relação computador/aluno (a) nas escolas da rede pública de educação básica, promovendo a utilização pedagógica das tecnologias da informação e da comunicação;
 
 - 7.16) apoiar técnica e financeiramente a gestão escolar mediante transferência direta de recursos financeiros à escola, garantindo a participação da comunidade  escolar  no  planejamento  e  na  aplicação  dos  recursos,  visando  à  ampliação  da  transparência  e  ao  efetivo  desenvolvimento  da  gestão democrática;
-
-PISA | 2015 | 2018 | 2021
---- | --- | --- | ---
-Média dos resultados em matemática, leitura e ciências | 438 | 455 | 473
 
 www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm
 
@@ -558,7 +558,7 @@ L13005
 - 7.36) estabelecer políticas de estímulo às escolas que melhorarem o desempenho no Ideb, de modo a valorizar o mérito do corpo docente, da direção e da comunidade escolar.
 
 #### Meta 8:
-elevar a escolaridade média da população de 18 (dezoito) a 29 (vinte e nove) anos, de modo a alcançar, no mínimo, 12 (doze) anos de estudo no último ano de vigência deste Plano, para as populações do campo, da região de menor escolaridade no País e dos 25% (vinte e cinco por cento) mais pobres, e igualar a escolaridade média entre negros e não negros declarados à Fundação Instituto Brasileiro de Geografia e Estatística - IBGE.
+elevar a escolaridade média da população de 18 (dezoito) a 29 (vinte e nove) anos, de modo a alcançar, no mínimo, 12 (doze) anos de estudo no último ano de vigência deste Plano, para as populações do campo, da região de menor escolaridade no País e dos 25% (vinte e cinco por cento) mais
 
 www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm
 
@@ -571,6 +571,8 @@ www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm
 18/03/2021
 
 L13005
+
+pobres, e igualar a escolaridade média entre negros e não negros declarados à Fundação Instituto Brasileiro de Geografia e Estatística - IBGE.
 
 ##### Estratégias:
 
@@ -945,7 +947,7 @@ www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm
 
 L13005
 
-19.4) estimular, em todas as redes de educação básica, a constituição e o fortalecimento de grêmios estudantis e associações de pais, assegurandose-lhes, inclusive, espaços adequados e condições de funcionamento nas escolas e fomentando a sua articulação orgânica com os conselhos escolares, por meio das respectivas representações;
+19.4) estimular, em todas as redes de educação básica, a constituição e o fortalecimento de grêmios estudantis e associações de pais, assegurando-se-lhes, inclusive, espaços adequados e condições de funcionamento nas escolas e fomentando a sua articulação orgânica com os conselhos escolares, por meio das respectivas representações;
 
 - 19.5) estimular a constituição e o fortalecimento de conselhos escolares e conselhos municipais de educação, como instrumentos de participação e fiscalização na gestão escolar e educacional, inclusive por meio de programas de formação de conselheiros, assegurando-se condições de funcionamento autônomo;
 
@@ -974,7 +976,7 @@ ampliar o investimento público em educação pública de forma a atingir, no m�
 
 - 20.7) implementar o Custo Aluno Qualidade - CAQ como parâmetro para o financiamento da educação de todas etapas e modalidades da educação básica,  a  partir  do  cálculo  e  do  acompanhamento  regular  dos  indicadores  de  gastos  educacionais  com  investimentos  em  qualificação  e  remuneração  do pessoal  docente  e  dos  demais  profissionais  da  educação  pública,  em  aquisição,  manutenção,  construção  e  conservação  de  instalações  e  equipamentos necessários ao ensino e em aquisição de material didático-escolar, alimentação e transporte escolar;
 
-- 20.8) o CAQ será definido no prazo de 3 (três) anos e será continuamente ajustado, com base em metodologia formulada pelo Ministério da Educação MEC, e acompanhado pelo Fórum Nacional de Educação - FNE, pelo Conselho Nacional de Educação - CNE e pelas Comissões de Educação da Câmara dos Deputados e de Educação, Cultura e Esportes do Senado Federal;
+- 20.8) o CAQ será definido no prazo de 3 (três) anos e será continuamente ajustado, com base em metodologia formulada pelo Ministério da Educação - MEC, e acompanhado pelo Fórum Nacional de Educação - FNE, pelo Conselho Nacional de Educação - CNE e pelas Comissões de Educação da Câmara dos Deputados e de Educação, Cultura e Esportes do Senado Federal;
 
 - 20.9) regulamentar o parágrafo único do art. 23 e o art. 211 da Constituição Federal, no prazo de 2 (dois) anos, por lei complementar, de forma a estabelecer as normas de cooperação entre a União, os Estados, o Distrito Federal e os Municípios, em matéria educacional, e a articulação do sistema nacional de educação em regime de colaboração, com equilíbrio na repartição das responsabilidades e dos recursos e efetivo cumprimento das funções redistributiva e supletiva da União no combate às desigualdades educacionais regionais, com especial atenção às regiões Norte e Nordeste;
 
