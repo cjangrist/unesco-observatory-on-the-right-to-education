@@ -40,9 +40,9 @@ StF: BGBl. Nr. 240/1962 (NR: GP IX RV 731 AB 783 S. 109. BR: S. 195.)
 
 ##### § 1. Geltungsbereich.
 
-- Dieses Bundesgesetz regelt die Zuständigkeit der Behörden für die Verwaltung und die Aufsicht des Bundes auf dem Gebiete des Schulwesens (Schulbehörden des Bundes) sowie die Organisation der Schulbehörden des Bundes in den Ländern.
+(1) Dieses Bundesgesetz regelt die Zuständigkeit der Behörden für die Verwaltung und die Aufsicht des Bundes auf dem Gebiete des Schulwesens (Schulbehörden des Bundes) sowie die Organisation der Schulbehörden des Bundes in den Ländern.
 
-(2)  Zum  Schulwesen  im  Sinne  dieses  Bundesgesetzes  zählt  auch  das  Erziehungswesen  in  den Angelegenheiten der Schülerheime, nicht jedoch das Hochschulwesen einschließlich der Studentenheime und  -  ausgenommen  hinsichtlich  der  Bestimmungen  des  § 18  -  das  land-  und  forstwirtschaftliche Schulwesen einschließlich des land- und forstwirtschaftlichen Erziehungswesens in den Angelegenheiten der Schülerheime.
+(2) Zum Schulwesen im Sinne dieses Bundesgesetzes zählt auch das Erziehungswesen in den Angelegenheiten der Schülerheime, nicht jedoch das Hochschulwesen einschließlich der Studentenheime und – ausgenommen hinsichtlich der Bestimmungen des § 18 – das land- und forstwirtschaftliche Schulwesen einschließlich des land- und forstwirtschaftlichen Erziehungswesens in den Angelegenheiten der Schülerheime.
 
 ##### § 2. Schulbehörden des Bundes.
 
@@ -50,23 +50,23 @@ Die Schulverwaltung und Schulaufsicht des Bundes wird vom zuständigen Bundesmin
 
 ##### § 3. Sachliche Zuständigkeit der Schulbehörden des Bundes.
 
-- Sachlich  zuständige  Schulbehörde  des  Bundes  ist,  soweit  durch  Bundesgesetz  nicht  anderes bestimmt ist:
+(1) Sachlich zuständige Schulbehörde des Bundes ist, soweit durch Bundesgesetz nicht anderes bestimmt ist:
 
-- der Landesschulrat für alle Schulen, ausgenommen die Zentrallehranstalten (Abs. 4); sachlich in Betracht kommende Oberbehörde ist der zuständige Bundesminister;
+1. der Landesschulrat für alle Schulen, ausgenommen die Zentrallehranstalten (Abs. 4); sachlich in Betracht kommende Oberbehörde ist der zuständige Bundesminister;
 
-- der zuständige Bundesminister für die Zentrallehranstalten (Abs. 4).
+2. der zuständige Bundesminister für die Zentrallehranstalten (Abs. 4).
 
-- Die  sachliche  Zuständigkeit  für  Schülerheime  richtet  sich  nach  der  Zuständigkeit  für  jene Schulen, für deren Schüler das Heim ausschließlich oder vorwiegend bestimmt ist.
+(2) Die sachliche Zuständigkeit für Schülerheime richtet sich nach der Zuständigkeit für jene Schulen, für deren Schüler das Heim ausschließlich oder vorwiegend bestimmt ist.
 
-(Anm.: aufgehoben durch BGBl. I Nr. 164/2013)
+(3) (Anm.: aufgehoben durch BGBl. I Nr. 164/2013)
 
-- Zentrallehranstalten sind:
+(4) Zentrallehranstalten sind:
 
-- die in Pädagogische Hochschulen eingegliederten Praxisschulen,
+1. die in Pädagogische Hochschulen eingegliederten Praxisschulen,
 
-- die Höhere Bundeslehr- und Versuchsanstalt für Textilindustrie in Wien V,
+2. die Höhere Bundeslehr- und Versuchsanstalt für Textilindustrie in Wien V,
 
-- die Höhere Graphische Bundeslehr- und Versuchsanstalt in Wien XIV,
+3. die Höhere Graphische Bundeslehr- und Versuchsanstalt in Wien XIV,
 
 www.ris.bka.gv.at
 
@@ -78,11 +78,11 @@ Seite 1 von 7
 
 Bundesrecht konsolidiert
 
-- das  Technologische  Gewerbemuseum,  Höhere  technische  Bundeslehr-  und  Versuchsanstalt  in Wien XX,
+4. das Technologische Gewerbemuseum, Höhere technische Bundeslehr- und Versuchsanstalt in Wien XX,
 
-- die Höhere Bundeslehr- und Versuchsanstalt für chemische Industrie in Wien XVII,
+5. die Höhere Bundeslehr- und Versuchsanstalt für chemische Industrie in Wien XVII,
 
-- das Bundesinstitut für Sozialpädagogik in Baden.
+6. das Bundesinstitut für Sozialpädagogik in Baden.
 
 #### Örtliche Zuständigkeit der Schulbehörden des Bundes in den Ländern
 
@@ -101,7 +101,7 @@ Der  Landesschulrat  besteht  aus  dem  Präsidenten  des Landesschulrates,  dem
 
 ##### § 6. Präsident des Landesschulrates.
 
-- Präsident des Landesschulrates ist der Landeshauptmann.
+(1) Präsident des Landesschulrates ist der Landeshauptmann.
 
 (2) In jenen Bundesländern, in denen ein Amtsführender Präsident bestellt wird (§ 8 Abs. 10), tritt dieser  in  allen  Angelegenheiten,  die  sich  der  Präsident  des  Landesschulrates  nicht  selbst  vorbehält,  an dessen Stelle.
 
@@ -139,21 +139,21 @@ Grundsatzbestimmung
 
 a) mit beschließender Stimme:
 
-- der Präsident des Landesschulrates als Vorsitzender;
+1. der Präsident des Landesschulrates als Vorsitzender;
 
-- vom Land zu bestellende Mitglieder, unter denen sich Väter
+2. vom Land zu bestellende Mitglieder, unter denen sich Väter
 
 und Mütter schulbesuchender Kinder und Vertreter der Lehrerschaft befinden müssen;
 
 b) mit beratender Stimme:
 
-- Vertreter gesetzlich anerkannter Kirchen und Religionsgesellschaften;
+1. Vertreter gesetzlich anerkannter Kirchen und Religionsgesellschaften;
 
-- Der  Amtsdirektor  des  Landesschulrates,  die  Landesschulinspektoren  und  der  schulärztliche Referent des Landesschulrates (Landesschularzt);
+2. Der Amtsdirektor des Landesschulrates, die Landesschulinspektoren und der schulärztliche Referent des Landesschulrates (Landesschularzt);
 
-- Vertreter gesetzlicher Interessenvertretungen;
+3. Vertreter gesetzlicher Interessenvertretungen;
 
-- Vertreterinnen  und  Vertreter  von  Schülerinnen  und  Schülern,  Lehrerinnen  und  Lehrern  und Eltern.
+4. Vertreterinnen und Vertreter von Schülerinnen und Schülern, Lehrerinnen und Lehrern und Eltern.
 
 (3) Die stimmberechtigten Mitglieder des Kollegiums des Landesschulrates (Abs. 2 lit. a) sind nach dem Stärkeverhältnis der Parteien im Landtag zu bestellen. Im übrigen obliegt es der Ausführungsgesetzgebung, die Art und Dauer der Bestellung sowie die Anzahl der im Abs. 2 lit. a Z 2 genannten Personen und deren Ersatzleute zu bestimmen. Hiebei ist vorzusehen, daß sich unter den vom Land  entsendeten  Mitgliedern  mindestens  so  viele  Väter  und  Mütter  schulbesuchender  Kinder  wie Vertreter  der  Lehrerschaft  befinden  müssen.  Weiters  ist  vorzusehen,  daß  unter  den  Vertretern  der Lehrerschaft  nach  Tunlichkeit  die  in  die  Zuständigkeit  des  Landesschulrates  fallenden  Schularten entsprechend den Schülerzahlen im Land vertreten sind.
 
@@ -173,7 +173,7 @@ b) mit beratender Stimme:
 
 (11) Der Amtsführende Präsident ist berechtigt, sofern er nicht ohnehin Mitglied des Kollegiums des Landesschulrates gemäß Abs. 2 ist, an den Sitzungen des Kollegiums, in denen der Landeshauptmann als Präsident des Landesschulrates den Vorsitz führt, als Mitglied mit beratender Stimme teilzunehmen. Ist der  Amtsführende  Präsident  stimmberechtigtes  Mitglied  des  Kollegiums  des  Landesschulrates  (Abs. 2 lit. a Z 2) und führt er den Vorsitz, so tritt an seine Stelle als stimmberechtigtes Mitglied ein Ersatzmann.
 
-(12) Die Ausführungsgesetzgebung kann weiters  - ohne Rücksicht darauf, ob die Bestellung eines Amtsführenden Präsidenten vorgesehen wird oder nicht -vorsehen, daß der Präsident des Landesschulrates auf Vorschlag der zweitstärksten Fraktion des Kollegiums des Landesschulrates einen Vizepräsidenten  zu  bestellen  hat;  gehört  jedoch  der  Präsident  des  Landesschulrates  nicht  der  stärksten Fraktion des Kollegiums an, so ist der Vizepräsident auf Vorschlag der stärksten Fraktion zu bestellen. Ein Vizepräsident ist jedenfalls in jenen fünf Ländern zu bestellen, die nach dem Ergebnis der letzten vor dem  Inkrafttreten  des  Bundesverfassungsgesetzes  vom  18. Juli  1962,  BGBl.  Nr. 215,  durchgeführten amtlichen Volkszählung die meisten Einwohner haben.
+(12) Die Ausführungsgesetzgebung kann weiters - ohne Rücksicht darauf, ob die Bestellung eines Amtsführenden Präsidenten vorgesehen wird oder nicht - vorsehen, daß der Präsident des
 
 www.ris.bka.gv.at
 
@@ -185,7 +185,9 @@ Seite 3 von 7
 
 Bundesrecht konsolidiert
 
-(13)  Der  Vizepräsident  ist  berechtigt,  sofern  er  nicht  ohnehin  Mitglied  des  Kollegiums  des Landesschulrates gemäß Abs. 2 ist, an den Sitzungen des Kollegiums als Mitglied mit beratender Stimme teilzunehmen.
+Landesschulrates auf Vorschlag der zweitstärksten Fraktion des Kollegiums des Landesschulrates einen Vizepräsidenten zu bestellen hat; gehört jedoch der Präsident des Landesschulrates nicht der stärksten Fraktion des Kollegiums an, so ist der Vizepräsident auf Vorschlag der stärksten Fraktion zu bestellen. Ein Vizepräsident ist jedenfalls in jenen fünf Ländern zu bestellen, die nach dem Ergebnis der letzten vor dem Inkrafttreten des Bundesverfassungsgesetzes vom 18. Juli 1962, BGBl. Nr. 215, durchgeführten amtlichen Volkszählung die meisten Einwohner haben.
+
+(13) Der Vizepräsident ist berechtigt, sofern er nicht ohnehin Mitglied des Kollegiums des Landesschulrates gemäß Abs. 2 ist, an den Sitzungen des Kollegiums als Mitglied mit beratender Stimme teilzunehmen.
 
 (14) Die Ausführungsgesetzgebung kann Entschädigungen (insbesondere Sitzungsgelder und Reisegebühren) für die Mitglieder des Kollegiums des Landesschulrates sowie Funktionsgebühren für den Amtsführenden Präsidenten und den Vizepräsidenten des Landesschulrates vorsehen.
 
@@ -193,7 +195,7 @@ Bundesrecht konsolidiert
 
 ##### § 9. Beratung und Beschlußfassung des Kollegiums des Landesschulrates.
 
-(1)  Der  Beratung  und Beschlußfassung durch das Kollegium des  Landesschulrates unterliegen die Erlassung  von  Verordnungen  und  allgemeinen  Weisungen,  die  Bestellung  von  Funktionären,  die Erstattung von Ernennungsvorschlägen und die Erstattung von Gutachten zu Gesetzund Verordnungsentwürfen,  sowie  jene  Angelegenheiten,  bezüglich  deren  eine  kollegiale  Beschlußfassung sonst gesetzlich vorgesehen ist.
+(1) Der Beratung und Beschlußfassung durch das Kollegium des Landesschulrates unterliegen die Erlassung von Verordnungen und allgemeinen Weisungen, die Bestellung von Funktionären, die Erstattung von Ernennungsvorschlägen und die Erstattung von Gutachten zu Gesetz- und Verordnungsentwürfen, sowie jene Angelegenheiten, bezüglich deren eine kollegiale Beschlußfassung sonst gesetzlich vorgesehen ist.
 
 (2)  Das  Kollegium  des  Landesschulrates  faßt  seine  Beschlüsse  in  den  Sitzungen  seiner  Sektionen oder Untersektionen oder, soweit es sich um gemeinsame Angelegenheiten handelt, in Plenarsitzungen.
 
@@ -213,9 +215,9 @@ Bundesrecht konsolidiert
 
 (2) Das erforderliche Personal des Amtes des Landesschulrates wird, soweit es sich nicht um Beamte des  Schulaufsichtsdienstes  und  Lehrer,  die  mit  Schulaufsichtsfunktionen  betraut  sind,  handelt,  dem Landesschulrat auf Antrag seines Präsidenten  vom  zuständigen  Bundesminister  zugewiesen.  Die Bestellung  der  Beamten  des  Schulaufsichtsdienstes  und  der  Lehrer,  die  mit  Schulaufsichtsfunktionen betraut sind, richtet sich nach den hiefür geltenden besonderen Vorschriften.
 
-(3)  Zur  Leitung  des  inneren  Dienstes  des  Amtes  des  Landesschulrates  ist  ein  rechtskundiger Verwaltungsbeamter  als  Amtsdirektor  des  Landesschulrates  zu  bestellen.  Die  Bestellung  obliegt  dem Bundespräsidenten. Der Vorschlag an den Bundespräsidenten (Art. 67 Abs. 1 des BundesVerfassungsgesetzes, BGBl. Nr. 1/1930) hat auf Grund eines gereihten Dreiervorschlages des Kollegiums des Landesschulrates zu erfolgen. Vorschriften über die Ernennung werden hiedurch nicht berührt.
+(3) Zur Leitung des inneren Dienstes des Amtes des Landesschulrates ist ein rechtskundiger Verwaltungsbeamter als Amtsdirektor des Landesschulrates zu bestellen. Die Bestellung obliegt dem Bundespräsidenten. Der Vorschlag an den Bundespräsidenten (Art. 67 Abs. 1 des Bundes-Verfassungsgesetzes, BGBl. Nr. 1/1930) hat auf Grund eines gereihten Dreiervorschlages des Kollegiums des Landesschulrates zu erfolgen. Vorschriften über die Ernennung werden hiedurch nicht berührt.
 
-(4)  Das  Kollegium  des  Landesschulrates  hat  einen  Geschäftsverteilungsplan  zu  beschließen, demzufolge die Geschäfte des Landesschulrates nach ihrem Gegenstand und ihrem sachlichen Zusammenhang aufzuteilen sind. Erforderlichenfalls kann die Einteilung des Amtes des Landesschulrates in Abteilungen und auch in Unterabteilungen vorgesehen werden. Mit der Leitung der Abteilungen und Unterabteilungen sind vom  Präsidenten des Landesschulrates je nach dem  Gegenstand der zu erledigenden Angelegenheiten Beamte des Schulaufsichtsdienstes und Lehrer, die mit Schulaufsichtsfunktionen betraut sind, rechtskundige Verwaltungsbeamte, der schulärztliche Referent des Landesschulrates,  Beamte  des  schulpsychologischen  Dienstes  oder  andere  fachkundige  Beamte  zu betrauen. Der Geschäftsverteilungsplan bedarf zu seiner Wirksamkeit der Zustimmung des zuständigen Bundesministers, die nur verweigert werden darf, wenn gesetzliche Vorschriften verletzt werden.
+(4) Das Kollegium des Landesschulrates hat einen Geschäftsverteilungsplan zu beschließen, demzufolge die Geschäfte des Landesschulrates nach ihrem Gegenstand und ihrem sachlichen Zusammenhang aufzuteilen sind. Erforderlichenfalls kann die Einteilung des Amtes des Landesschulrates
 
 www.ris.bka.gv.at
 
@@ -227,7 +229,9 @@ Seite 4 von 7
 
 Bundesrecht konsolidiert
 
-(5) Im Amt des Landesschulrates ist für die pädagogisch-psychologische Beratung in den Schulen ein schulpsychologischer Dienst einzurichten. Als Außenstellen des Amtes des Landesschulrates können Beratungsstellen  des  schulpsychologischen  Dienstes  auch  außerhalb  des  Sitzes  des  Landesschulrates eingerichtet werden.
+in Abteilungen und auch in Unterabteilungen vorgesehen werden. Mit der Leitung der Abteilungen und Unterabteilungen sind vom Präsidenten des Landesschulrates je nach dem Gegenstand der zu erledigenden Angelegenheiten Beamte des Schulaufsichtsdienstes und Lehrer, die mit Schulaufsichtsfunktionen betraut sind, rechtskundige Verwaltungsbeamte, der schulärztliche Referent des Landesschulrates, Beamte des schulpsychologischen Dienstes oder andere fachkundige Beamte zu betrauen. Der Geschäftsverteilungsplan bedarf zu seiner Wirksamkeit der Zustimmung des zuständigen Bundesministers, die nur verweigert werden darf, wenn gesetzliche Vorschriften verletzt werden.
+
+(5) Im Amt des Landesschulrates ist für die pädagogisch-psychologische Beratung in den Schulen ein schulpsychologischer Dienst einzurichten. Als Außenstellen des Amtes des Landesschulrates können Beratungsstellen des schulpsychologischen Dienstes auch außerhalb des Sitzes des Landesschulrates eingerichtet werden.
 
 ##### Beachte für folgende Bestimmung
 
@@ -237,9 +241,9 @@ Abs. 2: Grundsatzbestimmung
 
 ##### § 17. Amtsgelöbnis.
 
-- Die Mitglieder der Kollegien der Landesschulräte, die diesen nicht kraft ihrer amtlichen Funktion als Bedienstete von Gebietskörperschaften angehören, haben vor Ausübung ihrer Mitgliedschaft vor dem Kollegium in die Hand des Präsidenten das Gelöbnis der Amtsverschwiegenheit und der unparteiischen, gewissenhaften und uneigennützigen Erfüllung ihrer Amtspflichten zu leisten.
+(1) Die Mitglieder der Kollegien der Landesschulräte, die diesen nicht kraft ihrer amtlichen Funktion als Bedienstete von Gebietskörperschaften angehören, haben vor Ausübung ihrer Mitgliedschaft vor dem Kollegium in die Hand des Präsidenten das Gelöbnis der Amtsverschwiegenheit und der unparteiischen, gewissenhaften und uneigennützigen Erfüllung ihrer Amtspflichten zu leisten.
 
-(Grundsatzbestimmung.) Die Verweigerung der Ablegung des Gelöbnisses hat den Verlust der Mitgliedschaft  zur  Folge.  Bei  schwerer  oder  wiederholter  Verletzung  der  gelobten  Pflichten  durch  ein unter Abs. 1 fallendes Mitglied hat das Kollegium den Verlust der Mitgliedschaft auszusprechen.
+(2) (Grundsatzbestimmung.) Die Verweigerung der Ablegung des Gelöbnisses hat den Verlust der Mitgliedschaft zur Folge. Bei schwerer oder wiederholter Verletzung der gelobten Pflichten durch ein unter Abs. 1 fallendes Mitglied hat das Kollegium den Verlust der Mitgliedschaft auszusprechen.
 
 #### Qualitätsmanagement
 
@@ -248,15 +252,15 @@ Abs. 2: Grundsatzbestimmung
 
 (2) In dem gemäß Abs. 1 einzurichtenden Qualitätsmanagement ist ein Nationaler Qualitätsrahmen vorzusehen, der nach wissenschaftlichen Kriterien und unter Anhörung der Beamten des Qualitätsmanagements,  von  durch  diese  beizuziehenden  Schulleitern  sowie  der  Schulpartner  (Lehrer, Erziehungsberechtigte, Schüler) zu erstellen und in der Umsetzung unter Mitbefassung von Vertretern der Personalvertretung  der  Lehrer  zu  begleiten  ist.  Der  Nationale  Qualitätsrahmen  hat  neben  allgemeinen Bestimmungen auf die Besonderheiten der einzelnen Schularten Bedacht zu nehmen und insbesondere zu enthalten:
 
-- Eine Definition und Beschreibung von Schulqualität,
+1. Eine Definition und Beschreibung von Schulqualität,
 
-- die  Verpflichtung  zu  einem  periodischen  (schulartenspezifisch  ein-  bis  dreijährigen)  Planungsund Berichtswesen auf allen Ebenen der Schulverwaltung und der Schulen (Entwicklungspläne, Qualitätsberichte, Qualitätsprogramme),
+2. die Verpflichtung zu einem periodischen (schulartenspezifisch ein- bis dreijährigen) Planungs- und Berichtswesen auf allen Ebenen der Schulverwaltung und der Schulen (Entwicklungspläne, Qualitätsberichte, Qualitätsprogramme),
 
-- die Verpflichtung zu periodischen Zielvereinbarungen auf allen Ebenen der Schulverwaltung und der  Schulen  über  bundesweite  Ziele  und  deren  Konkretisierung  unter  Bedachtnahme  auf regionale  und  standortspezifische  Gegebenheiten  auf  Landes-  und  Schulebene  sowie  die  für deren Erreichung zu treffenden Maßnahmen und zu erbringenden Leistungen sowie
+3. die Verpflichtung zu periodischen Zielvereinbarungen auf allen Ebenen der Schulverwaltung und der Schulen über bundesweite Ziele und deren Konkretisierung unter Bedachtnahme auf regionale und standortspezifische Gegebenheiten auf Landes- und Schulebene sowie die für deren Erreichung zu treffenden Maßnahmen und zu erbringenden Leistungen sowie
 
-- die Verpflichtung zur Bereitstellung von Instrumenten für die Steuerung und (Selbst)Evaluierung anhand der für die Schulqualität maßgeblichen Faktoren sowie von Unterstützungsangeboten für die Schulen.
+4. die Verpflichtung zur Bereitstellung von Instrumenten für die Steuerung und (Selbst-)Evaluierung anhand der für die Schulqualität maßgeblichen Faktoren sowie von Unterstützungsangeboten für die Schulen.
 
-- Die Entwicklungspläne der Schulen gemäß Abs. 2 Z 2 haben insbesondere zu enthalten:
+(3) Die Entwicklungspläne der Schulen gemäß Abs. 2 Z 2 haben insbesondere zu enthalten:
 
 www.ris.bka.gv.at
 
@@ -268,19 +272,19 @@ Seite 5 von 7
 
 Bundesrecht konsolidiert
 
-- Schwerpunktthemen,
+1. Schwerpunktthemen,
 
-- Zielsetzungen in Hinblick auf die Schwerpunktthemen,
+2. Zielsetzungen in Hinblick auf die Schwerpunktthemen,
 
-- Rückblick und Ist-Stand-Analysen zu den Schwerpunktthemen,
+3. Rückblick und Ist-Stand-Analysen zu den Schwerpunktthemen,
 
-- Maßnahmen zur Umsetzung der Zielsetzungen,
+4. Maßnahmen zur Umsetzung der Zielsetzungen,
 
-- Maßnahmen zur Überprüfung der Zielerreichung,
+5. Maßnahmen zur Überprüfung der Zielerreichung,
 
-- Fortbildungspläne sowie
+6. Fortbildungspläne sowie
 
-- Angaben zum strategischen und operativen Qualitätsmanagement der Schule.
+7. Angaben zum strategischen und operativen Qualitätsmanagement der Schule.
 
 (4) Bei der Umsetzung und Evaluierung der Zielvereinbarungen sind externe Rückmeldungen (zB von Einrichtungen des Bildungswesens) vorzusehen.
 
@@ -290,7 +294,7 @@ Die Verordnungen der Landesschulräte sind im Verordnungsblatt des betreffenden 
 
 ##### § 20. Aufwand der Schulbehörden.
 
-- Der  Bund  hat  den  Personal-  und  Sachaufwand  der  Landesschulräte  zu  tragen,  soweit  in  den folgenden Absätzen nicht anderes bestimmt ist.
+(1) Der Bund hat den Personal- und Sachaufwand der Landesschulräte zu tragen, soweit in den folgenden Absätzen nicht anderes bestimmt ist.
 
 (2) Die Bundesländer haben die in den Ausführungsgesetzen allenfalls vorgesehenen Entschädigungen (insbesondere Sitzungsgelder und Reisegebühren) für die Mitglieder der Kollegien der Landesschulräte sowie die in den Ausführungsgesetzen allenfalls vorgesehenen Funktionszulagen für den Amtsführenden Präsidenten und den Vizepräsidenten des Landesschulrates zu tragen. Ebenso haben die Bundesländer jene Kosten zu tragen, die  sich aus der  Art  der  Bestellung  der  Mitglieder  der  Kollegien ergeben.
 
@@ -302,9 +306,9 @@ Die Verordnungen der Landesschulräte sind im Verordnungsblatt des betreffenden 
 
 ##### § 21.
 
-(Anm.: aufgehoben durch BGBl. I Nr. 164/2013)
+(1) (Anm.: aufgehoben durch BGBl. I Nr. 164/2013)
 
-- Durch  eine  Änderung  der  Bezeichnungen  oder  der  Standorte  der  im  § 3  Abs. 4  angeführten Zentrallehranstalten wird ihre Eigenschaft als Zentrallehranstalten nicht berührt.
+(2) Durch eine Änderung der Bezeichnungen oder der Standorte der im § 3 Abs. 4 angeführten Zentrallehranstalten wird ihre Eigenschaft als Zentrallehranstalten nicht berührt.
 
 ##### § 21a.
 Soweit in diesem Bundesgesetz auf andere Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
@@ -314,13 +318,13 @@ Die  aufgrund  der  Neustrukturierung  der  in  den  Bezirken  eingerichteten  S
 
 ##### § 23.
 
-- Mit  dem  Wirksamwerden  dieses  Bundesgesetzes  treten  alle  bisherigen  bundesgesetzlichen Vorschriften  über  die  Organisation  der  Schulaufsicht  des  Bundes  in  den  Ländern,  soweit  sie  noch  in Geltung stehen, außer Kraft.
+(1) Mit dem Wirksamwerden dieses Bundesgesetzes treten alle bisherigen bundesgesetzlichen Vorschriften über die Organisation der Schulaufsicht des Bundes in den Ländern, soweit sie noch in Geltung stehen, außer Kraft.
 
-- Insbesondere treten gemäß Abs. 1 folgende Vorschriften außer Kraft:
+(2) Insbesondere treten gemäß Abs. 1 folgende Vorschriften außer Kraft:
 
-- die  §§ 10  bis  13  des  Gesetzes  vom  25. Mai  1868,  RGBl.  Nr. 48,  wodurch  grundsätzliche Bestimmungen über das Verhältnis der Schule zur Kirche erlassen werden;
+a) die §§ 10 bis 13 des Gesetzes vom 25. Mai 1868, RGBl. Nr. 48, wodurch grundsätzliche Bestimmungen über das Verhältnis der Schule zur Kirche erlassen werden;
 
-- die  auf  Grund  der  in  lit. a  genannten  Vorschriften  erlassenen  Schulaufsichtsgesetze  für  die einzelnen Länder;
+b) die auf Grund der in lit. a genannten Vorschriften erlassenen Schulaufsichtsgesetze für die einzelnen Länder;
 
 www.ris.bka.gv.at
 
@@ -332,51 +336,51 @@ Seite 6 von 7
 
 Bundesrecht konsolidiert
 
-- das Bundesgesetz, womit grundsätzliche Bestimmungen über die Organisation der Schulbehörden im Bereiche der Länder und der Stadt  Wien getroffen werden, BGBl. Nr. 90/1935.
+c) das Bundesgesetz, womit grundsätzliche Bestimmungen über die Organisation der Schulbehörden im Bereiche der Länder und der Stadt Wien getroffen werden, BGBl. Nr. 90/1935.
 
 ##### § 24.
 
-- Dieses  Bundesgesetz  tritt  gegenüber  den  Ländern  für  die  Ausführungsgesetzgebung  mit  dem Tage  der  Kundmachung,  im  übrigen  in  jedem  Bundesland  gleichzeitig  mit  dem  in  dem  betreffenden Bundesland erlassenen Ausführungsgesetz in Kraft.
+(1) Dieses Bundesgesetz tritt gegenüber den Ländern für die Ausführungsgesetzgebung mit dem Tage der Kundmachung, im übrigen in jedem Bundesland gleichzeitig mit dem in dem betreffenden Bundesland erlassenen Ausführungsgesetz in Kraft.
 
-- Die Ausführungsgesetze der Länder zu den §§ 8, 14 und 17 Abs. 2 sind innerhalb eines Jahres, vom Tage der Kundmachung dieses Bundesgesetzes an gerechnet, zu erlassen.
+(2) Die Ausführungsgesetze der Länder zu den §§ 8, 14 und 17 Abs. 2 sind innerhalb eines Jahres, vom Tage der Kundmachung dieses Bundesgesetzes an gerechnet, zu erlassen.
 
-- Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 20/2006 treten wie folgt in Kraft:
+(3) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 20/2006 treten wie folgt in Kraft:
 
-§ 2,  § 3  Abs. 1  Z 1  lit. c,  Z 2  lit. b  und  Z 3,  § 7  Abs. 2,  § 10  Abs. 2,  § 11  Abs. 2  und  4,  § 13 Abs. 3,  § 16  Abs. 2  und  3,  § 18  Abs. 3,  § 21a  sowie  § 25  treten  mit  Ablauf  des  Tages  der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 2, § 3 Abs. 1 Z 1 lit. c, Z 2 lit. b und Z 3, § 7 Abs. 2, § 10 Abs. 2, § 11 Abs. 2 und 4, § 13 Abs. 3, § 16 Abs. 2 und 3, § 18 Abs. 3, § 21a sowie § 25 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-- Abschnitt  IIa  (§§ 20a  bis  20d)  tritt  mit  1. September  2006  in  Kraft  und  mit  Ablauf  des 31. Dezember 2007 außer Kraft.
+2. Abschnitt IIa (§§ 20a bis 20d) tritt mit 1. September 2006 in Kraft und mit Ablauf des 31. Dezember 2007 außer Kraft.
 
-§ 3  Abs. 1  Z 1  lit. b  und  c,  Z 2  lit. b  sowie  Abs. 4  dieses  Bundesgesetzes  in  der  Fassung  des Bundesgesetzes BGBl. I Nr. 113/2006, treten mit 1. Oktober 2007 in Kraft.
+(4) § 3 Abs. 1 Z 1 lit. b und c, Z 2 lit. b sowie Abs. 4 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 113/2006, treten mit 1. Oktober 2007 in Kraft.
 
-§ 3  Abs.  1  Z 3  und  § 25  dieses  Bundesgesetzes  in  der  Fassung  des  Bundesgesetzes  BGBl. I Nr. 28/2011 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft. § 1 Abs. 2 und § 18 samt Überschrift in der genannten Fassung treten mit 1. September 2012 in Kraft, die Maßnahmen des § 18 sind spätestens ab 1. September 2013 an den Schulen umzusetzen.
+(5) § 3 Abs. 1 Z 3 und § 25 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 28/2011 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft. § 1 Abs. 2 und § 18 samt Überschrift in der genannten Fassung treten mit 1. September 2012 in Kraft, die Maßnahmen des § 18 sind spätestens ab 1. September 2013 an den Schulen umzusetzen.
 
-§ 3  Abs. 1  Z 1  bis  3  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr.  75/2013  tritt  mit 1. Jänner 2014 in Kraft.
+(6) § 3 Abs. 1 Z 1 bis 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2013 tritt mit 1. Jänner 2014 in Kraft.
 
-- Für  das  Inkrafttreten  der  durch  das  Bundesgesetz  BGBl. I  Nr. 164/2013  geänderten  oder eingefügten  Bestimmungen  und  für  das  Außerkrafttreten  der  durch  dieses  Bundesgesetz  entfallenen Bestimmungen sowie für den Übergang zur neuen Rechtslage gilt Folgendes:
+(7) Für das Inkrafttreten der durch das Bundesgesetz BGBl. I Nr. 164/2013 geänderten oder eingefügten Bestimmungen und für das Außerkrafttreten der durch dieses Bundesgesetz entfallenen Bestimmungen sowie für den Übergang zur neuen Rechtslage gilt Folgendes:
 
-§ 11 Abs. 3 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 11 Abs. 3 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 21 Abs. 1 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt außer Kraft,
+2. § 21 Abs. 1 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt außer Kraft,
 
-- 2a. § 22 tritt mit 1. Juli 2014 in Kraft.
+2a. § 22 tritt mit 1. Juli 2014 in Kraft.
 
-§ 1  Abs. 1,  § 2,  § 3  Abs. 1,  § 4  samt  Überschrift,  Abschnitt  II  bezüglich  der  von  Paragraphen unabhängigen Zwischenüberschriften, § 17 Abs. 1, § 18 Abs. 1 und 2, § 19 sowie § 20 Abs. 1, 2 und 3 treten mit 1. August 2014 in Kraft,
+3. § 1 Abs. 1, § 2, § 3 Abs. 1, § 4 samt Überschrift, Abschnitt II bezüglich der von Paragraphen unabhängigen Zwischenüberschriften, § 17 Abs. 1, § 18 Abs. 1 und 2, § 19 sowie § 20 Abs. 1, 2 und 3 treten mit 1. August 2014 in Kraft,
 
-§ 3 Abs. 3 sowie die §§ 12, 13, 15 und 16 jeweils samt Überschrift treten mit Ablauf des 31. Juli 2014 außer Kraft,
+4. § 3 Abs. 3 sowie die §§ 12, 13, 15 und 16 jeweils samt Überschrift treten mit Ablauf des 31. Juli 2014 außer Kraft,
 
-( Grundsatzbestimmung ) § 8 Abs. 2 lit. b Z 4 und § 8 Abs. 8 treten gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft. § 14 samt Überschrift tritt gegenüber  den  Ländern  mit  Ablauf  des  Tages  der  Kundmachung  im  Bundesgesetzblatt  außer Kraft; die  Ausführungsgesetze sind binnen eines Jahres zu erlassen und mit 1. August 2014 in Kraft zu setzen.
+5. (Grundsatzbestimmung) § 8 Abs. 2 lit. b Z 4 und § 8 Abs. 8 treten gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft. § 14 samt Überschrift tritt gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt außer Kraft; die Ausführungsgesetze sind binnen eines Jahres zu erlassen und mit 1. August 2014 in Kraft zu setzen.
 
-- Die  nachstehend  genannten  Bestimmungen  in  der  Fassung  des  Bundesgesetzes  BGBl. I Nr. 48/2014 treten wie folgt in bzw. außer Kraft:
+(8) Die nachstehend genannten Bestimmungen in der Fassung des Bundesgesetzes BGBl. I Nr. 48/2014 treten wie folgt in bzw. außer Kraft:
 
-§ 25 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 25 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-( Grundsatzbestimmung ) § 8 Abs. 2 lit. b Z 3 und 4 tritt gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+2. (Grundsatzbestimmung) § 8 Abs. 2 lit. b Z 3 und 4 tritt gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 3 Abs. 1 Z 1 und 2 tritt mit 1. August 2014 in Kraft.
+3. § 3 Abs. 1 Z 1 und 2 tritt mit 1. August 2014 in Kraft.
 
 ##### § 25.
 
-Mit  der  Vollziehung  dieses  Bundesgesetzes,  soweit  sie  in  den  Wirkungsbereich  des  Bundes  fällt, sowie mit der Wahrnehmung der Rechte des Bundes gemäß Art. 14 Abs. 8 des BundesVerfassungsgesetzes in der Fassung von 1929 ist der Bundesminister Bildung und Frauen betraut.
+Mit der Vollziehung dieses Bundesgesetzes, soweit sie in den Wirkungsbereich des Bundes fällt, sowie mit der Wahrnehmung der Rechte des Bundes gemäß Art. 14 Abs. 8 des Bundes-Verfassungsgesetzes in der Fassung von 1929 ist der Bundesminister Bildung und Frauen betraut.
 
 www.ris.bka.gv.at
 
