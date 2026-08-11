@@ -54,7 +54,7 @@ Las  universidades,  tanto  públicas  como  privadas,  serán  creadas  por  Le
 
 - Elevar los estatutos que regirán el funcionamiento de la entidad;
 
-- Poseer instalaciones físicas, requeridas para el eficiente funcionamiento de la unidades pedagógicas y de investigación;
+- Poseer instalaciones físicas, requeridas para el eficiente funcionamiento de las unidades pedagógicas y de investigación;
 
 - Disponer de los recursos humanos calificados para el cumplimiento de sus fines; y,
 
@@ -65,7 +65,7 @@ Las  universidades,  tanto  públicas  como  privadas,  serán  creadas  por  Le
 - Presentar un proyecto en el que se demuestre la viabilidad económica, los recursos que se aplicarán para alcanzar los fines propuestos y los beneficios que se brindarán a la colectividad a la que se integre.
 
 #### Artículo 5°.
-La  autonomía  reconocida  por  esta  Ley  a  las  Universidades  implica  fundamentalmente  la libertad para fijar sus objetivos y metas, sus planes  y  programas  de  estudios, de investigación  y  de  servicios  a  la  colectividad,  crear  universidades  académicas  o  carreras, con la previa aprobación del Consejo de Universidades, elegir a sus autoridades democráticamente y nombrar a sus profesores,  administrar sus  fondos  y  relacionarse  con otras Instituciones similares.-
+La autonomía reconocida por esta Ley a las Universidades implica fundamentalmente la libertad para fijar sus objetivos y metas, sus planes y programas de estudios, de investigación y de servicios a la colectividad, crear unidades académicas o carreras, con la previa aprobación del Consejo de Universidades, elegir a sus autoridades democráticamente y nombrar a sus profesores, administrar sus fondos y relacionarse con otras Instituciones similares.-
 
 #### Artículo 6°.
 El gobierno de las Universidades será ejercido por un Rector y un Consejo Superior en el que los representantes de los distintos estamentos universitarios serán electos en la forma establecida en sus respectivos Estatutos. El Rector será de nacionalidad paraguaya.
@@ -85,7 +85,7 @@ Compete a las universidades:
 
 - Expedir  títulos  o  diplomas  correspondientes  a  los  estudios  de  enseñanza  superior  o universitaria,  así  como  otorgar  el  título  de  profesor  universitario  de  su  escalafón docente y de distinciones honoríficas;
 
-- Mantener relaciones de carácter  científico,  cultural,  con  la  Instituciones  nacionales  o extranjeras;
+- Mantener relaciones de carácter científico, cultural, con las Instituciones nacionales o extranjeras;
 
 - Organizar  su  estructura preservando  la unidad  de  sus funciones de  enseñanza, investigación  y  servicio  a  la  colectividad  y  asegurar  la  utilización  racional  de  sus recursos humanos y materiales; y,
 
@@ -133,7 +133,7 @@ Las categorías de la docencia universitaria, así como sus deberes, atribucione
 ### DEL CONSEJO DE UNIVERSIDADES
 
 #### Artículo 13°.
-Créase el Consejo de Universidades, que estará integrado por el Rector de la Universidad Nacional  de  Asunción,  el  Rector  de  la  Universidad  Católica  'Nuestra  Señora  de  la Asunción', un Rector en representación de las demás Universidades Públicas y un Rector en representación de las demás Universidades Privadas, creadas por Ley, quienes tendrán vos  y  voto  durarán  tres  años  en  el  ejercicio  de  sus  funciones,  pudiendo  ser  reelectos.  El Consejo elegirá de su seno al Presidente, que durará un año en sus funciones, pudiendo ser reelecto.
+Créase el Consejo de Universidades, que estará integrado por el Rector de la Universidad Nacional de Asunción, el Rector de la Universidad Católica “Nuestra Señora de la Asunción”, un Rector en representación de las demás Universidades Públicas y un Rector en representación de las demás Universidades Privadas, creadas por Ley, quienes tendrán voz y voto durarán tres años en el ejercicio de sus funciones, pudiendo ser reelectos. El Consejo elegirá de su seno al Presidente, que durará un año en sus funciones, pudiendo ser reelecto.
 
 Serán  miembros  adscriptos  los  demás  rectores  de  las  Universidades  Públicas  y  Privadas, con voz pero sin voto.
 
@@ -156,9 +156,9 @@ Compete al Consejo de Universidades:
 - Dictar su reglamento interno.
 
 #### Artículo 16°.
-El  Poder  Ejecutivo,  a  pedido  escrito  y  debidamente  fundamentado  del  Consejo  de Universidades,  podrá  disponer  la  intervención  de  una  Universidad  con  acuerdo  de  la Cámara de Senadores, en los casos en el que se vean desnaturalizados sus fines con motivos de violaciones graves o reiteradas de la Ley, siempre que las autoridades de la Universidad respectiva no hayan podido establecer el normal funcionamiento de aquella en un plazo de (90)  noventa  días  a  partir  del  pedido  de  intervención  formulado  por  el  Consejo  de Universidades. El consejo deberá hacer una copia del pedido a la
+El Poder Ejecutivo, a pedido escrito y debidamente fundamentado del Consejo de Universidades, podrá disponer la intervención de una Universidad con acuerdo de la Cámara de Senadores, en los casos en el que se vean desnaturalizados sus fines con motivos de violaciones graves o reiteradas de la Ley, siempre que las autoridades de la Universidad respectiva no hayan podido establecer el normal funcionamiento de aquella en un plazo de (90) noventa días a partir del pedido de intervención formulado por el Consejo de Universidades. El consejo deberá hacer una copia del pedido a la Universidad afectada dentro de la (48) cuarenta y ocho horas de producido el mismo.
 
-- Universidad afectada dentro de la (48) cuarenta y ocho horas de producido el mismo. Si  el  Senado  estuviese  en  receso,  el  Poder  Ejecutivo  podrá  decretar  la  intervención  ad referéndum de la Cámara de Senadores, a la que deberá dar cuenta dentro de los primeros (7) siete días de iniciado el periodo ordinario de sesiones.
+Si el Senado estuviese en receso, el Poder Ejecutivo podrá decretar la intervención ad referéndum de la Cámara de Senadores, a la que deberá dar cuenta dentro de los primeros (7) siete días de iniciado el periodo ordinario de sesiones.
 
 La intervención no podrá exceder de un plazo de (6) seis meses.
 
@@ -168,10 +168,6 @@ Producida la intervención, el Consejo de Universidades asume todas las facultad
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
-#### Artículo 22°.-
-
-#### Artículo 23°.-
 
 ## CAPÍTULO VI
 
@@ -199,8 +195,10 @@ Para hacer lugar a la reconsideración se deberá  acreditar el cumplimiento de 
 
 ### DISPOSICIONES FINALES
 
+#### Artículo 22°.-
 Derogase la Ley N°  828/80
 
+#### Artículo 23°.-
 Comuníquese al Poder Ejecutivo
 
 Aprobada por la Honorable Cámara de Diputados el trece de agosto del año un mil novecientos noventa y dos y por la Honorable Cámara de Senadores, sancionándose la Ley el once de marzo del año mil novecientos noventa  y  tres,  de  conformidad  a  lo  dispuesto  en  el  Artículo  161  de  la  Constitución  Nacional  de  1967, concordante con el artículo 3, de la Constitución Nacional de 1992
