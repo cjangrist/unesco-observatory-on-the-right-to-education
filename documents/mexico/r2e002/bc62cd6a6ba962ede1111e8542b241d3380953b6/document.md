@@ -58,34 +58,36 @@ LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
+Última Reforma DOF 14-11-2013
+
 #### Artículo 5.
 Para los efectos de esta Ley se entenderá por:
 
-- Acciones Afirmativas. Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
+- I. Acciones Afirmativas. Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
 Fracción reformada DOF 14-11-2013
 
-- Discriminación. Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo,  edad,  discapacidad,  condición  social  o  económica,  condiciones  de  salud,  embarazo,  lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+- II. Discriminación. Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
 Fracción adicionada DOF 14-11-2013
 
-- Discriminación contra la Mujer. Toda distinción, exclusión o restricción basada en el sexo que tenga por  objeto  o  por  resultado  menoscabar  o  anular  el  reconocimiento,  goce  o  ejercicio  por  la  mujer, independientemente  de  su  estado  civil,  sobre  la  base  de  la  igualdad  del  hombre  y  la  mujer,  de  los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural  y civil o en cualquier otra esfera;
+- III. Discriminación contra la Mujer. Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
 Fracción adicionada DOF 14-11-2013
 
-- Igualdad  de  Género.  Situación  en  la  cual  mujeres  y  hombres  acceden  con  las  mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+- IV. Igualdad de Género. Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
 Fracción adicionada DOF 14-11-2013
 
-- Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+- V. Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
 Fracción adicionada DOF 14-11-2013
 
-- Perspectiva de Género. Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar  con  base  en  las  diferencias  biológicas  entre  mujeres  y  hombres,  así  como  las  acciones  que deben emprenderse para  actuar  sobre  los  factores  de  género  y  crear  las  condiciones  de  cambio  que permitan avanzar en la construcción de la igualdad de género;
+- VI. Perspectiva de Género. Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
 
 Fracción adicionada DOF 14-11-2013
 
-- Transversalidad.  Es  el  proceso  que  permite  garantizar  la  incorporación  de  la  perspectiva  de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción  que  se  programe,  tratándose  de  legislación,  políticas  públicas,  actividades  administrativas, económicas y culturales en las instituciones públicas y privadas;
+- VII. Transversalidad. Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
 
 Fracción reformada y recorrida DOF 14-11-2013
 
@@ -93,16 +95,14 @@ VIII. Sistema Nacional. Sistema Nacional para la Igualdad entre Mujeres y Hombre
 
 Fracción reformada y recorrida DOF 14-11-2013
 
-- Programa Nacional. Programa Nacional para la Igualdad entre Mujeres y Hombres. Fracción reformada y recorrida DOF 14-11-2013
+- IX. Programa Nacional. Programa Nacional para la Igualdad entre Mujeres y Hombres.
 
-- IX.
+Fracción reformada y recorrida DOF 14-11-2013
 
 #### Artículo  6.
 La  igualdad  entre  mujeres  y  hombres  implica  la  eliminación  de  toda  forma  de discriminación en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo.
 
 ## TÍTULO II DE LAS AUTORIDADES E INSTITUCIONES
-
-Última Reforma DOF 14-11-2013
 
 3 de 18
 
@@ -127,15 +127,15 @@ La Federación, los Estados, el Distrito Federal y los Municipios establecerán 
 #### Artículo 9.
 La  Federación, a través  de  la  Secretaría que corresponda según la materia de que se trate,  o  de  las  instancias  administrativas  que  se  ocupen  del  adelanto  de  las  mujeres,  podrá  suscribir convenios o acuerdos de coordinación con la coparticipación del Instituto Nacional de las Mujeres, a fin de:
 
-- Fortalecer sus funciones y atribuciones en materia de igualdad;
+- I. Fortalecer sus funciones y atribuciones en materia de igualdad;
 
-- Establecer mecanismos de coordinación para lograr la transversalidad de la perspectiva de género en la función pública nacional;
+- II. Establecer mecanismos de coordinación para lograr la transversalidad de la perspectiva de género en la función pública nacional;
 
-- Impulsar la vinculación interinstitucional en el marco del Sistema;
+- III. Impulsar la vinculación interinstitucional en el marco del Sistema;
 
-- Coordinar  las  tareas  en  materia  de  igualdad  mediante  acciones  especificas  y,  en  su  caso, afirmativas que contribuyan a una estrategia nacional, y
+- IV. Coordinar las tareas en materia de igualdad mediante acciones especificas y, en su caso, afirmativas que contribuyan a una estrategia nacional, y
 
-- Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil.
+- V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil.
 
 #### Artículo  10.
 En  la  celebración  de  convenios  o  acuerdos  de  coordinación,  deberán  tomarse  en consideración los recursos presupuestarios, materiales y humanos, para el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa presupuestaria correspondiente.
@@ -148,11 +148,11 @@ Se preverá que en el seguimiento y evaluación de los resultados que se obtenga
 #### Artículo 12.
 Corresponde al Gobierno Federal:
 
-- Conducir la Política Nacional en Materia de Igualdad entre mujeres y hombres;
+- I. Conducir la Política Nacional en Materia de Igualdad entre mujeres y hombres;
 
-- Elaborar  la  Política  Nacional  en  Materia  de  Igualdad,  a  fin  de  cumplir  con  lo  establecido  en  la presente Ley;
+- II. Elaborar la Política Nacional en Materia de Igualdad, a fin de cumplir con lo establecido en la presente Ley;
 
-- Diseñar y aplicar los instrumentos de la Política Nacional en Materia de Igualdad  garantizada en esta Ley;
+- III. Diseñar y aplicar los instrumentos de la Política Nacional en Materia de Igualdad garantizada en esta Ley;
 
 4 de 18
 
@@ -166,13 +166,13 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 14-11-2013
 
-- Coordinar  las  acciones  para  la  transversalidad  de  la  perspectiva  de  género,  así  como  crear  y aplicar el Programa, con los principios que la ley señala;
+- IV. Coordinar las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa, con los principios que la ley señala;
 
-- Garantizar la igualdad de oportunidades, mediante la adopción de políticas, programas, proyectos e instrumentos compensatorios como acciones afirmativas;
+- V. Garantizar la igualdad de oportunidades, mediante la adopción de políticas, programas, proyectos e instrumentos compensatorios como acciones afirmativas;
 
-- Celebrar acuerdos nacionales e internacionales de coordinación, cooperación y concertación en materia de igualdad de género;
+- VI. Celebrar acuerdos nacionales e internacionales de coordinación, cooperación y concertación en materia de igualdad de género;
 
-- Incorporar en los Presupuestos de Egresos de la Federación la asignación de recursos para el cumplimiento de la Política Nacional en Materia de Igualdad, y
+- VII. Incorporar en los Presupuestos de Egresos de la Federación la asignación de recursos para el cumplimiento de la Política Nacional en Materia de Igualdad, y
 
 VIII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
@@ -187,24 +187,24 @@ Los  Congresos  de  los  Estados,  con  base  en  sus  respectivas  Constitucion
 #### Artículo 15.
 Corresponde a las y los titulares de los Gobiernos Estatales y del Distrito Federal:
 
-- Conducir la política local en materia de igualdad entre mujeres y hombres;
+- I. Conducir la política local en materia de igualdad entre mujeres y hombres;
 
-- I  Bis. Incorporar  en  los  presupuestos  de  egresos  de  la  entidad  federativa  y  del  Distrito  Federal,  la asignación de recursos para el cumplimiento de la política local en materia de igualdad;
+- I Bis. Incorporar en los presupuestos de egresos de la entidad federativa y del Distrito Federal, la asignación de recursos para el cumplimiento de la política local en materia de igualdad;
 
 Fracción adicionada DOF 06-03-2012
 
-- Crear y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres, mediante las instancias administrativas que, se ocupen del adelanto de las mujeres en los Estados y el Distrito Federal;
+- II. Crear y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres, mediante las instancias administrativas que, se ocupen del adelanto de las mujeres en los Estados y el Distrito Federal;
 
-- Elaborar  las  políticas  públicas  locales,  con  una  proyección  de  mediano  y  largo  alcance, debidamente armonizadas con los programas nacionales, dando cabal cumplimiento a la presente Ley, y
+- III. Elaborar las políticas públicas locales, con una proyección de mediano y largo alcance, debidamente armonizadas con los programas nacionales, dando cabal cumplimiento a la presente Ley, y
 
-- Promover,  en  coordinación  con  las  dependencias  de  la  Administración  Pública  Federal  la aplicación de la presente Ley.
+- IV. Promover, en coordinación con las dependencias de la Administración Pública Federal la aplicación de la presente Ley.
 
 ### CAPÍTULO CUARTO DE LOS MUNICIPIOS
 
 #### Artículo 16.
 De conformidad con lo dispuesto en la presente Ley y las leyes locales de la materia, corresponde a los Municipios:
 
-- Implementar la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con las políticas Nacional y locales correspondientes;
+- I. Implementar la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con las políticas Nacional y locales correspondientes;
 
 5 de 18
 
@@ -218,13 +218,13 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 14-11-2013
 
-- Coadyuvar con el Gobierno Federal y con el gobierno de la entidad federativa correspondiente, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
+- II. Coadyuvar con el Gobierno Federal y con el gobierno de la entidad federativa correspondiente, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
 
-- Proponer al Poder Ejecutivo de la entidad correspondiente, sus necesidades presupuestarias para la ejecución de los programas de igualdad;
+- III. Proponer al Poder Ejecutivo de la entidad correspondiente, sus necesidades presupuestarias para la ejecución de los programas de igualdad;
 
-- Diseñar, formular  y  aplicar  campañas de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta Ley le confiere, y
+- IV. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta Ley le confiere, y
 
-- Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
+- V. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
 
 ## TÍTULO III
 
@@ -235,35 +235,35 @@ La Política Nacional en Materia de Igualdad entre mujeres y hombres deberá est
 
 La Política Nacional que desarrolle el Ejecutivo Federal deberá considerar los siguientes lineamientos:
 
-- Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
+- I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
 
-- Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
+- II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
 
-- Fomentar la participación y representación política equilibrada entre mujeres y hombres;
+- III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
 
-- Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
+- IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
-- Promover la igualdad entre mujeres y hombres en la vida civil;
-
-- VII.
+- V. Promover la igualdad entre mujeres y hombres en la vida civil;
 
 Fracción reformada DOF 14-11-2013
 
-- Promover la eliminación de estereotipos establecidos en función del sexo;
+- VI. Promover la eliminación de estereotipos establecidos en función del sexo;
 
 Fracción reformada DOF 14-11-2013
 
-- Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres; Fracción adicionada DOF 14-11-2013
-
-- El  establecimiento  de  medidas  que  aseguren  la  corresponsabilidad  en  el  trabajo  y  la  vida personal y familiar de las mujeres y hombres;
+- VII. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
 
 Fracción adicionada DOF 14-11-2013
 
-- La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+- VIII. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
 
 Fracción adicionada DOF 14-11-2013
 
-- En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades  y  de  la  igualdad  entre  mujeres  y  hombres,  así  como  en  el  ejercicio  de  la  tolerancia  y  de  la
+- IX. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+Fracción adicionada DOF 14-11-2013
+
+- X. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la
 
 6 de 18
 
@@ -290,11 +290,11 @@ Fracción adicionada DOF 14-11-2013
 #### Artículo  18.
 Son  instrumentos  de  la  Política  Nacional  en  Materia  de  Igualdad  entre  mujeres  y hombres, los siguientes:
 
-- El Sistema Nacional para la Igualdad entre Mujeres y Hombres;
+- I. El Sistema Nacional para la Igualdad entre Mujeres y Hombres;
 
-- El Programa Nacional para la Igualdad entre Mujeres y Hombres, y
+- II. El Programa Nacional para la Igualdad entre Mujeres y Hombres, y
 
-- La Observancia en materia de Igualdad entre Mujeres y Hombres.
+- III. La Observancia en materia de Igualdad entre Mujeres y Hombres.
 
 #### Artículo 19.
 En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta Ley.
@@ -335,32 +335,32 @@ Secretaría de Servicios Parlamentarios
 #### Artículo 25.
 A la Junta de Gobierno del Instituto Nacional de las Mujeres corresponderá:
 
-- Proponer  los  lineamientos  para  la  Política  Nacional  en  los  términos  de  las  leyes  aplicables  y  de conformidad con lo dispuesto por el Ejecutivo Federal;
+- I. Proponer los lineamientos para la Política Nacional en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Ejecutivo Federal;
 
-- Coordinar los programas de igualdad entre mujeres y hombres de las dependencias y entidades de la Administración Pública Federal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
+- II. Coordinar los programas de igualdad entre mujeres y hombres de las dependencias y entidades de la Administración Pública Federal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
 
-- Promover, coordinar y realizar la revisión de programas y servicios en materia de igualdad;
+- III. Promover, coordinar y realizar la revisión de programas y servicios en materia de igualdad;
 
-- Determinar  la  periodicidad  y  características  de  la  información  que  deberán  proporcionar  las dependencias  y  entidades  de  la  Administración  Pública  Federal,  con  sujeción  a  las  disposiciones generales aplicables;
+- IV. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de la Administración Pública Federal, con sujeción a las disposiciones generales aplicables;
 
-- Formular  propuestas  a  las  dependencias  competentes  sobre  la  asignación  de  los  recursos  que requieran los programas de igualdad entre mujeres y hombres;
+- V. Formular propuestas a las dependencias competentes sobre la asignación de los recursos que requieran los programas de igualdad entre mujeres y hombres;
 
-- Apoyar la coordinación entre las instituciones de la Administración Pública Federal para formar y capacitar a su personal en materia igualdad entre mujeres y hombres;
+- VI. Apoyar la coordinación entre las instituciones de la Administración Pública Federal para formar y capacitar a su personal en materia igualdad entre mujeres y hombres;
 
-- Impulsar  la  participación  de  la  sociedad  civil  en  la  promoción  de  la  igualdad  entre  mujeres  y hombres, y
+- VII. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres, y
 
-- Las demás, que se requieran para el cumplimiento de los objetivos del Sistema Nacional y las que determinen las disposiciones generales aplicables.
+- VIII. Las demás, que se requieran para el cumplimiento de los objetivos del Sistema Nacional y las que determinen las disposiciones generales aplicables.
 
 #### Artículo 26.
 El Sistema Nacional tiene los siguientes objetivos:
 
-- Promover  la  igualdad  entre  mujeres  y  hombres  y  contribuir  a  la  erradicación  de  todo  tipo  de discriminación;
+- I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación;
 
-- Contribuir al adelanto de las mujeres;
+- II. Contribuir al adelanto de las mujeres;
 
-- Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género, y
+- III. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género, y
 
-- Promover  el  desarrollo  de  programas  y  servicios  que  fomenten  la  igualdad  entre  mujeres  y hombres.
+- IV. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres.
 
 #### Artículo 27.
 Los gobiernos de los Estados y del Distrito Federal coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con el Instituto o, en su caso, con las dependencias o entidades de la Administración Pública Federal, a la consolidación y funcionamiento del Sistema Nacional.
@@ -370,7 +370,7 @@ Así mismo, planearán, organizarán y desarrollarán en sus respectivas circuns
 #### Artículo  28.
 La  concertación  de  acciones  entre  la  Federación  y  el  sector  privado,  se  realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
-- Definición  de  las  responsabilidades  que  asuman  las  y  los  integrantes  de  los  sectores  social  y privado, y
+- I. Definición de las responsabilidades que asuman las y los integrantes de los sectores social y privado, y
 
 8 de 18
 
@@ -384,7 +384,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 14-11-2013
 
-- Determinación  de  las  acciones  de  orientación,  estímulo  y  apoyo  que  dichos  sectores  llevarán  a cabo en coordinación con las instituciones correspondientes.
+- II. Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes.
 
 ### CAPÍTULO CUARTO DEL PROGRAMA NACIONAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -411,15 +411,15 @@ La  Política  Nacional  a  que  se  refiere  el  Título  III  de  la  presente
 #### Artículo 33.
 Será objetivo de la Política Nacional el fortalecimiento de la igualdad en materia de:
 
-- Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
+- I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
-- Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica;
-
-Fracción reformada DOF 14-11-2013
+- II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica;
 
 Fracción reformada DOF 14-11-2013
 
-- Impulsar liderazgos igualitarios, y
+- III. Impulsar liderazgos igualitarios, y
+
+Fracción reformada DOF 14-11-2013
 
 9 de 18
 
@@ -433,7 +433,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 14-11-2013
 
-- Establecimiento  de  medidas  para  fortalecer  el  acceso  de  las  mujeres  al  empleo  y  la  aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+- IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
 
 Fracción adicionada DOF 14-11-2013
 
@@ -442,33 +442,33 @@ Para los efectos de lo previsto en el artículo anterior, las autoridades corres
 
 Párrafo reformado DOF 14-11-2013
 
-- Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
+- I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
-- Fomentar la incorporación a la educación y formación de las personas que en razón de su sexo están relegadas;
+- II. Fomentar la incorporación a la educación y formación de las personas que en razón de su sexo están relegadas;
 
-- Fomentar  el  acceso  al  trabajo  de  las  personas  que  en  razón  de  su  sexo  están  relegadas  de puestos directivos, especialmente;
+- III. Fomentar el acceso al trabajo de las personas que en razón de su sexo están relegadas de puestos directivos, especialmente;
 
-- Apoyar el perfeccionamiento y la coordinación  de los sistemas estadísticos nacionales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia nacional laboral;
+- IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos nacionales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia nacional laboral;
 
-- Reforzar la cooperación entre los tres órdenes de gobierno, para supervisar la aplicación de las acciones que establece el presente artículo;
+- V. Reforzar la cooperación entre los tres órdenes de gobierno, para supervisar la aplicación de las acciones que establece el presente artículo;
 
-- Financiar las acciones de información y concientización destinadas a fomentar la igualdad entre mujeres y hombres;
+- VI. Financiar las acciones de información y concientización destinadas a fomentar la igualdad entre mujeres y hombres;
 
-- Vincular todas las acciones financiadas para el adelanto de las mujeres;
+- VII. Vincular todas las acciones financiadas para el adelanto de las mujeres;
 
-- Evitar la segregación de las personas por razón de su sexo, del mercado de trabajo;
+- VIII. Evitar la segregación de las personas por razón de su sexo, del mercado de trabajo;
 
-- Diseñar  y  aplicar  lineamientos  que  aseguren  la  igualdad  en  la  contratación  del  personal  en  la administración pública;
+- IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
 
-- Diseñar  políticas  y  programas  de  desarrollo  y  de  reducción  de  la  pobreza  con  perspectiva  de género;
-
-Fracción reformada DOF 14-11-2013
-
-- Establecer  estímulos  y  certificados  de  igualdad  que  se  concederán  anualmente  a  las  empresas que hayan aplicado políticas y prácticas en la materia, y
+- X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
 
 Fracción reformada DOF 14-11-2013
 
-- Promover  condiciones  de  trabajo  que  eviten  el  acoso  sexual  y  su  prevención  por  medio  de  la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
+- XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia, y
+
+Fracción reformada DOF 14-11-2013
+
+- XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
 
 Fracción adicionada DOF 14-11-2013
 
@@ -494,36 +494,36 @@ La  Política  Nacional  propondrá  los  mecanismos  de  operación  adecuados 
 #### Artículo 36.
 Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
 
-- Favorecer el trabajo parlamentario con la perspectiva de género;
+- I. Favorecer el trabajo parlamentario con la perspectiva de género;
 
-- Garantizar  que  la  educación  en  todos  sus  niveles  se  realice  en  el  marco  de  la  igualdad  entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación;
+- II. Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación;
 
-- Evaluar  por  medio  del  área  competente  de  la  Comisión  Nacional  de  los  Derechos  Humanos,  la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
+- III. Evaluar por medio del área competente de la Comisión Nacional de los Derechos Humanos, la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
 
-- Promover  participación  y  representación  equilibrada  entre  mujeres  y  hombres  dentro  de  las estructuras de los partidos políticos;
+- IV. Promover participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos políticos;
 
-- Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos;
+- V. Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos;
 
-- Desarrollar  y  actualizar  estadísticas  desagregadas  por  sexo,  sobre  puestos  decisorios  y  cargos directivos en los sectores público, privado y de la sociedad civil, y
+- VI. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil, y
 
-- Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
+- VII. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
 
 ### CAPÍTULO CUARTO DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
 #### Artículo  37.
 Con  el  fin  de  promover  la  igualdad  en  el  acceso  a  los  derechos  sociales  y  el  pleno disfrute de éstos, serán objetivos de la Política Nacional:
 
-- Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social;
+- I. Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social;
 
-- Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad;
-
-Fracción reformada DOF 14-11-2013
-
-- Revisar  permanentemente  las  políticas  de  prevención,  atención,  sanción  y  erradicación  de  la violencia de género, y
+- II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad;
 
 Fracción reformada DOF 14-11-2013
 
-- Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación  de  los  prejuicios  y  las  prácticas  consuetudinarias  y  de  cualquier  otra  índole  que  estén basados  en  la  idea  de  la  inferioridad  o  superioridad  de  cualquiera  de  los  sexos  o  en  funciones estereotipadas de hombres y mujeres.
+- III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género, y
+
+Fracción reformada DOF 14-11-2013
+
+- IV. Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias y de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de hombres y mujeres.
 
 Fracción adicionada DOF 14-11-2013
 
@@ -542,41 +542,41 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 #### Artículo 38.
 Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
 
-- Garantizar el seguimiento y la evaluación de la aplicación en los tres órdenes de gobierno, de la legislación existente, en armonización con instrumentos internacionales;
+- I. Garantizar el seguimiento y la evaluación de la aplicación en los tres órdenes de gobierno, de la legislación existente, en armonización con instrumentos internacionales;
 
-- Promover el conocimiento de la legislación y la jurisprudencia en la materia en la sociedad;
+- II. Promover el conocimiento de la legislación y la jurisprudencia en la materia en la sociedad;
 
-- Difundir en la sociedad el conocimiento de sus derechos y los mecanismos para su exigibilidad;
+- III. Difundir en la sociedad el conocimiento de sus derechos y los mecanismos para su exigibilidad;
 
-- Integrar el principio de igualdad en el ámbito de la protección social;
+- IV. Integrar el principio de igualdad en el ámbito de la protección social;
 
-- Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación y la salud, y
+- VI. Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación y la salud, y
 
-- Promover campañas  nacionales de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
+- VII. Promover campañas nacionales de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
 
 ### CAPÍTULO QUINTO DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA CIVIL
 
 #### Artículo 39.
 Con el fin de promover y procurar la igualdad en la vida civil de mujeres y hombres, será objetivo de la Política Nacional:
 
-- Evaluar la legislación en materia de igualdad entre mujeres y hombres;
+- I. Evaluar la legislación en materia de igualdad entre mujeres y hombres;
 
-- Promover los derechos específicos de las mujeres como derechos humanos universales, y
+- II. Promover los derechos específicos de las mujeres como derechos humanos universales, y
 
-- Erradicar las distintas modalidades de violencia de género.
+- III. Erradicar las distintas modalidades de violencia de género.
 
 #### Artículo 40.
 Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
 
-- Mejorar los sistemas de inspección del trabajo en lo que se refiere a las normas sobre la igualdad de retribución;
+- I. Mejorar los sistemas de inspección del trabajo en lo que se refiere a las normas sobre la igualdad de retribución;
 
-- Promover  investigaciones  con  perspectiva  de  género  en  materia  de  salud  y  de  seguridad  en  el trabajo;
+- II. Promover investigaciones con perspectiva de género en materia de salud y de seguridad en el trabajo;
 
-- Impulsar  la  capacitación  a  las  autoridades  encargadas  de  la  procuración  y  administración  de justicia en materia de igualdad entre mujeres y hombres;
+- III. Impulsar la capacitación a las autoridades encargadas de la procuración y administración de justicia en materia de igualdad entre mujeres y hombres;
 
-- Apoyar las actividades de interlocución ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
+- IV. Apoyar las actividades de interlocución ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
 
-- Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre  hombres y mujeres con organizaciones no gubernamentales y organizaciones internacionales de cooperación para el desarrollo;
+- V. Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre hombres y mujeres con organizaciones no gubernamentales y organizaciones internacionales de cooperación para el desarrollo;
 
 VIII  (sic  DOF  02-08-2006). Impulsar  las  reformas  legislativas  y  políticas  públicas  para  prevenir, atender, sancionar y erradicar en los ámbitos público y privado;
 
@@ -612,21 +612,21 @@ Será objetivo de la Política Nacional la eliminación de los estereotipos que 
 #### Artículo 42.
 Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
 
-- Promover  acciones  que  contribuyan  a  erradicar  toda  discriminación,  basada  en  estereotipos  de género;
+- I. Promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
 
-- Desarrollar  actividades  de  concientización  sobre  la  importancia  de  la  igualdad  entre  mujeres  y hombres;
-
-Fracción reformada DOF 14-11-2013
-
-- Vigilar la integración de una perspectiva de género en todas las políticas públicas;
+- II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
 
 Fracción reformada DOF 14-11-2013
 
-- Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales, y
+- III. Vigilar la integración de una perspectiva de género en todas las políticas públicas;
+
+Fracción reformada DOF 14-11-2013
+
+- IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales, y
 
 Fracción adicionada DOF 14-11-2013
 
-- Velar  por  que  los  medios  de  comunicación  transmitan  una  imagen  igualitaria  plural  y  no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
+- V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
 
 Fracción adicionada DOF 14-11-2013
 
@@ -670,15 +670,15 @@ La  observancia  deberá  ser  realizada  por  personas  de  reconocida  trayect
 #### Artículo 48.
 La Observancia en materia de igualdad entre Mujeres y Hombres consistirá en:
 
-- Recibir información sobre medidas y actividades que ponga en marcha la administración pública en materia de igualdad entre mujeres y hombres;
+- I. Recibir información sobre medidas y actividades que ponga en marcha la administración pública en materia de igualdad entre mujeres y hombres;
 
-- Evaluar el impacto en la sociedad de las políticas y medidas que afecten a los hombres y a las mujeres en materia de igualdad;
+- II. Evaluar el impacto en la sociedad de las políticas y medidas que afecten a los hombres y a las mujeres en materia de igualdad;
 
-- Proponer la realización de estudios e informes  técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
+- III. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
 
-- Difundir  información  sobre  los  diversos  aspectos  relacionados  con  la  igualdad  entre  mujeres  y hombres, y
+- IV. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres, y
 
-- Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+- V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 #### Artículo  49.
 De  acuerdo  con  lo  establecido  en  la  Ley  de  la  Comisión  Nacional  de  los  Derechos Humanos  ésta  podrá  recibir  quejas,  formular  recomendaciones  y  presentar  informes  especiales  en  la materia objeto de esta ley.
@@ -705,7 +705,7 @@ LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
 Última Reforma DOF 14-11-2013
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de julio de dos mil seis.Vicente Fox Quesada .- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de julio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 
 15 de 18
 
@@ -737,7 +737,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 México, D.F., a 22 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin , Presidente.- Sen. Manlio Fabio Beltrones Rivera ,  Presidente.- Dip. Maria Dolores Del Rio Sanchez ,  Secretaria.-  Sen. Martha Leticia Sosa Govea , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de junio de dos  mil  once.Felipe  de  Jesús  Calderón  Hinojosa .-  Rúbrica.-  El  Secretario  de  Gobernación, José Francisco Blake Mora .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 
 16 de 18
 
@@ -767,7 +767,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 México,  D.F.,  a  1  de  febrero  de  2012.-  Dip. Guadalupe  Acosta  Naranjo ,  Presidente.-  Sen. José González Morfín ,  Presidente.- Dip. Gloria Romero León ,  Secretaria.- Sen. Renán Cleominio Zoreda Novelo , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de marzo de dos mil  doce.Felipe  de  Jesús  Calderón  Hinojosa .-  Rúbrica.-  El  Secretario  de  Gobernación, Alejandro Alfonso Poiré Romero .- Rúbrica
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica
 
 17 de 18
 
@@ -797,7 +797,7 @@ Se reforman los artículos 1; la fracción I y las actuales fracciones II y III 
 
 México,  D.F.,  a  8  de  octubre  de  2013.-  Sen. Raúl  Cervantes  Andrade ,  Presidente.-  Dip. Ricardo Anaya Cortés ,  Presidente.-  Sen. Lilia  Guadalupe Merodio Reza ,  Secretaria.-  Dip. Angelina Carreño Mijares , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de noviembre de dos mil trece.Enrique Peña Nieto .- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de noviembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 18 de 18
 
