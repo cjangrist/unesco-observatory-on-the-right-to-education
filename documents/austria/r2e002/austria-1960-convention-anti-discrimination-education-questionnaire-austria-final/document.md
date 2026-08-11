@@ -6,7 +6,7 @@ Tenth consultation of Member States on the application of the Convention and the
 
 ## GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ### 1. Introduction
 
@@ -16,7 +16,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG4 by ensuring effective articulation between normative and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ### 2. Reporting obligations
 
@@ -58,9 +58,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -76,9 +76,9 @@ Organization or entity responsible for the preparation of the report:
 
 Federal Ministry of Education, Science and Research
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -114,7 +114,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-#### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+#### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -122,7 +122,7 @@ o Yes
 
 - X No, please briefly explain the difficulties encountered:
 
-#### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -176,9 +176,9 @@ Cf. relevant questions below.
 
 ### II. Information on the implementation of the Convention or Recommendation
 
-#### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+#### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
@@ -224,7 +224,7 @@ Specific legal acts concerning HE:
 
 § 13 Abs. 2 Z 1 lit. g Universities Act: Performance agreements concluded by the individual universities and the Federal Government contain also social goals, such as measures to improve social permeability, to increase the proportion of women in leadership positions at universities  as  well  as  measures  aiming  to  promote  the  social  dimension  in  teaching  to include underrepresented groups in higher education.
 
-§  41  Universities  Act:  All  university  bodies  shall  make  efforts  to  achieve  a  balanced representation of men and women at work in all areas of university acti vities.
+§ 41 Universities Act: All university bodies shall make efforts to achieve a balanced representation of men and women at work in all areas of university activities.
 
 § 42 Abs. 1 Universities Act: Each university has to establish a working group on equal opportunities responsible for combating gender discrimination as well as discrimination on the basis of ethnicity, religion or conviction, age or sexual orientation.
 
@@ -252,7 +252,7 @@ Federal Constitutional Law: Article 7: All nationals are equal before the law. P
 
 § 42 Federal Equality Act regulates, that no applicant to a degree programme at a university may be discriminated against irrespective of their origin, their sex, race, social standing, class and religion.
 
-Art 2 Protocol to the Convention for the protection of Human Rights and Fundamental freedoms: https://www.coe.int/en/web/conventions/full-list//conventions/rms/090000168006377c
+Art 2 Protocol to the Convention for the protection of Human Rights and Fundamental freedoms: https://www.coe.int/en/web/conventions/full-list/-/conventions/rms/090000168006377c
 
 - Please indicate the relevant legal, regulatory or policy texts and provide a brief description of the measures taken :
 
@@ -262,7 +262,8 @@ Art 14 Federal Constitutional Law
 
 Specific legal act concerning School education:
 
-§§3 -5 School Education Act (SchUG, Schulunterrichtsgesetz) https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnumm er=10009600
+§§3 – 5 School Education Act (SchUG, Schulunterrichtsgesetz)
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600
 
 Specific legal acts concerning HE:
 
@@ -290,7 +291,7 @@ Specific legal acts concerning HE:
 
 - x   Training teachers on inclusive education
 
-- o Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET) X
+× Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
 o Providing  re-entry  programmes  for  young mothers
 
@@ -308,7 +309,7 @@ o Eliminating all barriers for pregnant girls or young mothers in education
 
 × Valuing diversity in schools
 
-- o Combatting stereotyping and stigmatisation X
+× Combatting stereotyping and stigmatisation
 
 - Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
 
@@ -342,7 +343,7 @@ This question cannot be answered with a clear yes or no according to the Austria
 
 ##### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -392,7 +393,7 @@ For this,  please  list  the  laws  and  policies  that  ensure  the  universal 
 
 School Organisation Act (SchOG - Schulorganisationsgesetz):
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnumm er=10009265
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009265
 
 School utensils such as exercise books, pencils etc. must be covered individually as well as costs for transport in cases of excursions
 
@@ -420,8 +421,6 @@ School Organisation Act (SchOG - Schulorganisationsgesetz)
 
 [[START OF PAGE 12]]
 
-##### 2.3 Higher education
-
 School utensils such as exercise books, pencils etc. must be covered individually as well as costs for transport in cases of excursions
 
 o No: What are the measures your government intends to take to ensure free secondary education?
@@ -430,21 +429,23 @@ o No: What are the measures your government intends to take to ensure free secon
 
 Yes (lower secondary schools)
 
-- Please  provide  details  on  its  implementation  and  indicate  the  duration  of  compulsory secondary education and the age of enrolment:
+- Please provide details on its implementation and indicate the duration of compulsory secondary education and the age of enrolment:
 
-In  this  part,  you  may  also  provide  information  on  the  difficulties  experienced  by  your government  in  the  realization  of  universal  access  to  secondary  education.  Quantitative information could be added.
+In this part, you may also provide information on the difficulties experienced by your government in the realization of universal access to secondary education. Quantitative information could be added.
 
 - Indicate whether your country has adopted and reviewed legislation related to the minimum age of entry into employment so that it is aligned with the end of compulsory education:
 
-Please  note  that  minimum  age  labour  laws  and  those  related  to  compulsory  education interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
+Please note that minimum age labour laws and those related to compulsory education interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
 Yes
 
 - Please provide reference to the relevant laws and provisions:
 
-Duration of compulsory education in Austria is 9 years ('Schulpflichtgesetz'- Compulsory Schooling Act 1985). The Compulsory Training Act ('Ausbildungspflichtgesetz') stipulates that all youths who have not yet reached the age of 18 are required to engage in education and  training  after  completing  general  compulsory  schooling.  This  includes  attending  an academic  or  vocational  upper  secondary  school,  completing  a  dual  education/training programm or attending a recognised vocational or training institution which prepares them for reintegration in continuing education and training.
+Duration of compulsory education in Austria is 9 years ('Schulpflichtgesetz'- Compulsory Schooling Act 1985). The Compulsory Training Act ('Ausbildungspflichtgesetz') stipulates that all youths who have not yet reached the age of 18 are required to engage in education and training after completing general compulsory schooling. This includes attending an academic or vocational upper secondary school, completing a dual education/training programm or attending a recognised vocational or training institution which prepares them for reintegration in continuing education and training.
 
-Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher  education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 9 , and target 4.4 10 .
+##### 2.3 Higher education
+
+Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 9 , and target 4.4 10 .
 
 > 9 Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'.
 
@@ -570,11 +571,11 @@ To provide such quality assessment, please take into account all educational ins
 
 BD-EG, § 5: Bildungsdirektionen-Einrichtungsgesetz, § 5; BGBl. I Nr. 138/2017 vom 15.9.2017; Inkrafttretensdatum 1.1.2019
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnumm er=20009982&FassungVom=2020-08-31
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009982&FassungVom=2020-08-31
 
-SQM-VO: Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung betreffend das Schulqualitätsmanagement; BGBl. II Nr. 158/2019 vom 13.6.2019 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnumm er=20010681
+SQM-VO: Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung betreffend das Schulqualitätsmanagement; BGBl. II Nr. 158/2019 vom 13.6.2019 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010681
 
-SchUG, § 56. (2): Schulunterrichtsgesetz, § 56. (2); BGBl. I Nr. 29/2011 vom 20.5.2011 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnumm er=10009600
+SchUG, § 56. (2): Schulunterrichtsgesetz, § 56. (2); BGBl. I Nr. 29/2011 vom 20.5.2011 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600
 
 VET: Berufsbildung: Empfehlung des Europäischen Parlaments und des Rates vom 18.6.2009 zur Einrichtung eines europäischen Bezugsrahmens für die Qualitätssicherung in der beruflichen Aus- und Weiterbildung (EQAVET Reference Framework), Amtsblatt der Europäischen Union 2009/C 155/01
 
@@ -634,9 +635,9 @@ Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  t
 
 - Please indicate the national efforts taken in directing education to the full development of the human  personality  and  the  strengthening  of  respect  for  human  rights  and  fundamental freedoms (several items could be ticked/mentioned):
 
-- Curriculum includes human rights education
++ Curriculum includes human rights education
 
-- Educational and/or extracurricular activities are organized on human rights education
++ Educational and/or extracurricular activities are organized on human rights education
 
 o Other:
 
@@ -716,7 +717,7 @@ The above mentioned right is laid down at Constitutional level and also in the r
 
 ##### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 > 14 Articles/Paragraphs 1 and 3.
 
@@ -760,7 +761,7 @@ Regarding tuition fees at public universities refugees do enjoy the same status 
 
 Pre admission to degree programmes: In case that proof of knowledge of the German language - if  required  for  the  successful  continuation  of  studies  -  cannot  be  provided, students are offered special language university programmes for further education.
 
-### Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+### III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
 #### 1. Challenges and obstacles
 
@@ -774,7 +775,7 @@ o Challenges related to equitable access and inclusion in education (such as pov
 
 o Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
-o Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems - including the lack of reliable data, absence of supportive/ inconsistent/obsolete  legal  and  policy  environment,  lack  of  involvement  of  relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
+o Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems – including the lack of reliable data, absence of supportive/inconsistent/obsolete legal and policy environment, lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
 
 o Other:
 
@@ -792,9 +793,9 @@ o Translation  of  the  Convention/Recommendation  into  the  national  and  pos
 
 ×  Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-×  Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+× Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
-×  Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+× Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
