@@ -95,20 +95,20 @@ La formación profesional tiene como propósitos específicos preparar, actualiz
 #### ARTICULO 9º -
 Están comprendidas dentro de la presente ley las instituciones del Sistema Educativo Nacional  que  brindan educación técnico profesional, de carácter nacional, jurisdiccional y municipal, ya sean ellas de gestión estatal o privada; de nivel medio y superior no universitario y de formación profesional incorporadas en el Registro Federal de Instituciones de Educación Técnico Profesional, a saber:
 
-- Instituciones de educación técnico profesional de nivel medio.
+a) Instituciones de educación técnico profesional de nivel medio.
 
-- Instituciones de educación técnico profesional de nivel superior no universitario.
+b) Instituciones de educación técnico profesional de nivel superior no universitario.
 
 c) Instituciones de formación profesional. Centros de formación profesional, escuelas de capacitación laboral, centros de educación agraria, misiones monotécnicas, escuelas de artes y oficios, escuelas de adultos con formación profesional, o equivalentes.
 
 #### ARTICULO 10. -
 Las instituciones que brindan educación técnico profesional, en el marco de las normas específicas establecidas por las autoridades educativas jurisdiccionales competentes, se orientarán a:
 
-- Impulsar modelos innovadores de gestión que incorporen criterios de calidad y equidad para la adecuación y el cumplimiento a nivel institucional de los objetivos y propósitos de esta ley.
+a) Impulsar modelos innovadores de gestión que incorporen criterios de calidad y equidad para la adecuación y el cumplimiento a nivel institucional de los objetivos y propósitos de esta ley.
 
-- Desarrollar modalidades regulares y sistemáticas de evaluación institucional.
+b) Desarrollar modalidades regulares y sistemáticas de evaluación institucional.
 
-- Ejecutar las estrategias para atender las necesidades socio-educativas de distintos grupos sociales establecidas en los programas nacionales y jurisdiccionales, y desarrollar sus propias iniciativas con el mismo fin.
+c) Ejecutar las estrategias para atender las necesidades socio-educativas de distintos grupos sociales establecidas en los programas nacionales y jurisdiccionales, y desarrollar sus propias iniciativas con el mismo fin.
 
 d) Establecer sistemas de convivencia basados en la solidaridad, la cooperación y el diálogo con la participación de todos los integrantes de la comunidad educativa.
 
@@ -177,13 +177,14 @@ Los diseños curriculares de las ofertas de educación técnico profesional que 
 Los planes de estudio de la Educación Técnico Profesional de nivel medio, tendrán una duración mínima de seis (6) años. Estos se estructurarán según los criterios organizativos adoptados por cada jurisdicción y resguardando la calidad de tal Servicio Educativo Profesionalizante.
 
 #### ARTICULO 25. -
-Las autoridades educativas jurisdiccionales, sobre la base de los criterios básicos y parámetros mínimos establecidos en los artículos anteriores, formularán sus planes de estudio y establecerán la organización curricular adecuada para su desarrollo, fijando los requisitos de ingreso, la cantidad de años horas anuales de cada oferta de educación técnico profesional de nivel medio o superior no universitario y la carga horaria total de las ofertas de formación profesional.
+Las autoridades educativas jurisdiccionales, sobre la base de los criterios básicos y parámetros mínimos establecidos en los artículos anteriores, formularán sus planes de estudio y establecerán la organización curricular adecuada para su desarrollo, fijando los requisitos de ingreso, la cantidad de años
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+horas anuales de cada oferta de educación técnico profesional de nivel medio o superior no universitario y la carga horaria total de las ofertas de formación profesional.
 
 ### CAPITULO V TITULOS Y CERTIFICACIONES
 
@@ -209,13 +210,14 @@ El Ministerio de Educación, Ciencia y Tecnología concertará en el Consejo Fed
 ### CAPITULO II DEL EQUIPAMIENTO
 
 #### ARTICULO 31. -
-El Ministerio de Educación, Ciencia y Tecnología, a través del Instituto Nacional de Educación Tecnológica y con participación jurisdiccional, en forma gradual, continua y estable, asegurará niveles adecuados de equipamiento para talleres, laboratorios, entornos virtuales de aprendizaje u otros, de modo que permitan acceder a saberes científico técnicos - tecnológicos actualizados y relevantes y desarrollar las prácticas profesionalizantes o productivas en las instituciones de educación técnico profesional.
+El Ministerio de Educación, Ciencia y Tecnología, a través del Instituto Nacional de Educación Tecnológica y con participación jurisdiccional, en forma gradual, continua y estable, asegurará niveles adecuados de equipamiento para talleres, laboratorios, entornos virtuales de aprendizaje u otros, de modo
 
 6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+que permitan acceder a saberes científico técnicos - tecnológicos actualizados y relevantes y desarrollar las prácticas profesionalizantes o productivas en las instituciones de educación técnico profesional.
 
 ### CAPITULO III DEL ORDENAMIENTO Y ORGANIZACION DEL SERVICIO EDUCATIVO
 
@@ -363,13 +365,13 @@ Créase el Consejo Nacional de Educación, Trabajo y Producción, sobre la base 
 #### ARTICULO 47. -
 Las funciones del Consejo Nacional de Educación, Trabajo y Producción son:
 
-- Gestionar la colaboración y conciliar los intereses de los sectores productivos y actores sociales en materia de educación técnico profesional.
+a) Gestionar la colaboración y conciliar los intereses de los sectores productivos y actores sociales en materia de educación técnico profesional.
 
-- Promover la vinculación de la educación técnico profesional con el mundo laboral a través de las entidades que cada miembro representa, así como la creación de consejos provinciales de educación, trabajo y producción.
+b) Promover la vinculación de la educación técnico profesional con el mundo laboral a través de las entidades que cada miembro representa, así como la creación de consejos provinciales de educación, trabajo y producción.
 
-- Proponer orientaciones para la generación y aplicación de fuentes de financiamiento para el desarrollo de la educación técnico profesional.
+c) Proponer orientaciones para la generación y aplicación de fuentes de financiamiento para el desarrollo de la educación técnico profesional.
 
-- Asesorar en los procesos de integración regional de la educación técnico profesional, en el MERCOSUR u otros acuerdos regionales o bloques regionales que se constituyan, tanto multilaterales como bilaterales.
+d) Asesorar en los procesos de integración regional de la educación técnico profesional, en el MERCOSUR u otros acuerdos regionales o bloques regionales que se constituyan, tanto multilaterales como bilaterales.
 
 #### INTEGRACION
 
