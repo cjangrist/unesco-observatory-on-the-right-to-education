@@ -1,547 +1,452 @@
 [[START OF PAGE 1]]
+1 L.R.O. 1997 Education CAP. 41
 
-1   L.R.O.  1997
-
-CAP. 41
-
-SECTION
-
-- Short title.
-
-- Definitions.
-
-- 2A. Statement of purpose.
-
-### PART I CENTRAL ADMINISTRATION
-
-- General functions of the Minister.
-
-- Particular functions of the Minister.
-
-- 4A. Zoning.
-
-- Functions of Chief Education Officer.
-
-- National Advisory Commission on Education.
-
-- Special committees.
-
-- Expenses.
-
-### PART II THE SYSTEM OF PUBLIC EDUCATION
-
-#### DIVISION 1 Stages of Public Education
-
-- Interpretation.
-
-- Stages of public education.
-
-Education
-
-# CHAPTER  41
+# CHAPTER 41
 
 ## EDUCATION
 
 ### ARRANGEMENT OF SECTIONS
 
+SECTION
+
 #### CITATION
+
+1. Short title.
 
 #### INTERPRETATION
 
+2. Definitions.
+2A. Statement of purpose.
+
+### PART I CENTRAL ADMINISTRATION
+
+3. General functions of the Minister.
+4. Particular functions of the Minister.
+4A. Zoning.
+5. Functions of Chief Education Officer.
+6. National Advisory Commission on Education.
+7. Special committees.
+8. Expenses.
+
+### PART II THE SYSTEM OF PUBLIC EDUCATION
+
+#### DIVISION 1 Stages of Public Education
+
+9. Interpretation.
+10. Stages of public education.
+
 #### DIVISION 2 Management of Primary, Composite and Senior Schools
 
-- Application.
+11. Application.
+12. Management of primary, composite and senior schools.
+13. School committees.
+14. Additional powers of Minister as regards management of schools.
 
-- Management of primary, composite and senior schools.
-
-- School committees.
-
-- Additional powers of Minister as regards management of schools.
-
-THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael, by the authority of the Government of Barbados
-
+THE LAWS OF BARBADOS
+Printed by the Government Printer, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
-CAP. 41
-
-Education
-
-L.R.O. 1997   2
-
-- Interpretation.
-
-- Vesting.
-
-- Transfer of rights and liabilities of Governing Bodies.
-
-- Preservation of existing endowments, etc.
-
-- Construction of dispositions in favour of Governing Bodies.
-
-#### DIVISION 5 Management of Tertiary Institution
-
-- Application.
-
-- Management of tertiary institutions.
-
-### PART III PRIVATE SCHOOLS AND PRIVATE EDUCATIONAL INSTITUTIONS
-
-#### DIVISION 1 GENERAL
-
-- Application.
-
-- Register.
-
-- 30A. Establishment of private school, etc.
-
-- Registration.
-
-- Application for registration.
-
-- Requirements for registration.
-
-- Notice to comply.
+CAP. 41 Education L.R.O. 1997 2
 
 #### DIVISION 3 Management of Public Secondary Schools
 
 SECTION
 
-- Interpretation.
-
-- Management of public secondary schools.
-
-- General functions of Boards of Management.
-
-- Funds and resources of Boards of  Management.
-
-- Accounts and audit.
-
-- Annual report, statement of accounts and estimates.
-
-- Minutes of Boards of Management receivable in evidence.
+15. Interpretation.
+16. Management of public secondary schools.
+17. General functions of Boards of Management.
+18. Funds and resources of Boards of Management.
+19. Accounts and audit.
+20. Annual report, statement of accounts and estimates.
+21. Minutes of Boards of Management receivable in evidence.
 
 #### DIVISION 4 Property, Assets and Rights
 
+22. Interpretation.
+23. Vesting.
+24. Transfer of rights and liabilities of Governing Bodies.
+25. Preservation of existing endowments, etc.
+26. Construction of dispositions in favour of Governing Bodies.
+
+#### DIVISION 5 Management of Tertiary Institution
+
+27. Application.
+28. Management of tertiary institutions.
+
+### PART III PRIVATE SCHOOLS AND PRIVATE EDUCATIONAL INSTITUTIONS
+
+#### DIVISION 1 GENERAL
+
+29. Application.
+30. Register.
+30A. Establishment of private school, etc.
+31. Registration.
+32. Application for registration.
+33. Requirements for registration.
+34. Notice to comply.
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
-
-3   L.R.O.  1997
-
-CAP. 41
+3 L.R.O. 1997 Education CAP. 41
 
 SECTION
 
-- Cancellation of registration.
-
-- Appeal.
-
-- Re-registration of school.
+35. Cancellation of registration.
+36. Appeal.
+37. Re-registration of school.
 
 #### DIVISION 2 Assisted Private Schools
 
-- Aid to private schools.
-
-- Audit and annual report.
-
-- Requirements.
+38. Aid to private schools.
+39. Audit and annual report.
+40. Requirements.
 
 ### PART IV ATTENDANCE OF PUPILS AT SCHOOLS
 
-- Duty of parents to secure education of their children.
-
-- 41A. Entrance examination and compulsory school age.
-
-- Exemptions from compulsory school attendance.
-
-- School attendance officers.
+41. Duty of parents to secure education of their children.
+41A. Entrance examination and compulsory school age.
+42. Exemptions from compulsory school attendance.
+43. School attendance officers.
 
 ### PART V INSPECTION OF EDUCATIONAL INSTITUTIONS
 
-- Inspection of educational institutions.
-
-- Educational institutions to be open for inspections and visits.
+44. Inspection of educational institutions.
+45. Educational institutions to be open for inspections and visits.
 
 ### PART VI SCHOLARSHIPS, EXHIBITIONS AND LOANS FOR TERTIARY EDUCATION
 
 #### DIVISION 1 Scholarships and Exhibitions
 
-- Provision of bursaries, grants, scholarships, etc.
-
-- Conditions  of  the  award  and  tenure  of  bursaries,  grants  and scholarships, etc.
+46. Provision of bursaries, grants, scholarships, etc.
+47. Conditions of the award and tenure of bursaries, grants and scholarships, etc.
 
 #### DIVISION 2 Tertiary Education Loan Fund
 
-- Establishment of Loan Funds.
-
-- Management of Loan Fund.
-
-- Power to make Loans.
-
-- Audit of Funds.
-
-Education SECTION
+48. Establishment of Loan Funds.
+49. Management of Loan Fund.
+50. Power to make Loans.
+51. Audit of Funds.
 
 THE LAWS OF BARBADOS
-
-Printed by the Government Printer, Bay Street, St. Michael, by the authority of the Government of Barbados
-
+Printed by the Government Printer, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
-CAP. 41
-
-Education
-
-L.R.O. 1997   4
-
-- Free public education.
-
-- Special education.
-
-- Conscience clause.
-
-- Parent-teacher Associations.
-
-- Temporary or permanent closing of schools.
-
-- Variation of trust, etc. in relation to endowed schools.
-
-- Wishes of parents to be considered in education of pupils.
-
-- Regulations.
-
-- Contravention of section 31.
-
-- Failing to attend school.
-
-- Offences against school attendance officer.
-
-- Offences relating to inspection.
-
-- Disturbance of schools.
-
-- 64A. Search of pupils.
-
-- 64B. Damage to school property.
-
-- 64C. Counselling and rehabilitation.
-
-- Appointment of certain teachers.
-
-- Higher Education Loan Fund.
-
-- Repeal and Savings.
-
-- Removal of doubt.
-
-- Validation.
+CAP. 41 Education L.R.O. 1997 4
 
 ### PART VII MISCELLANEOUS
+
+SECTION
+
+52. Free public education.
+53. Special education.
+54. Conscience clause.
+55. Parent-teacher Associations.
+56. Temporary or permanent closing of schools.
+57. Variation of trust, etc. in relation to endowed schools.
+58. Wishes of parents to be considered in education of pupils.
+59. Regulations.
+60. Contravention of section 31.
+61. Failing to attend school.
+62. Offences against school attendance officer.
+63. Offences relating to inspection.
+64. Disturbance of schools.
+64A. Search of pupils.
+64B. Damage to school property.
+64C. Counselling and rehabilitation.
+65. Appointment of certain teachers.
+66. Higher Education Loan Fund.
+67. Repeal and Savings.
+68. Removal of doubt.
+69. Validation.
 
 ### FIRST SCHEDULE
 
 ### SECOND SCHEDULE
 
 ### THIRD SCHEDULE
-
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
-
-5    L.R.O. 2002
-
-Education
-
-CAP. 41
-
+5 L.R.O. 2002 Education CAP. 41
 ss.1-2
 
 # CHAPTER 41
 
 ## EDUCATION
 
-- An Act to repeal the Education Acts, Cap. 41 and Cap. 41A, and to provide for a co-ordinated and effective system of education related to the needs of the people of Barbados, the registration of private schools and private educational institutions, and for related matters.
+An Act to repeal the Education Acts, Cap. 41 and Cap. 41A, and to provide for a co-ordinated and effective system of education related to the needs of the people of Barbados, the registration of private schools and private educational institutions, and for related matters.
+
+1981-25.
+1983-19.
+1984-35.
+1990-21.
+1995-23.
+1996-13.
+2001-21.
+2002-9.
 
 [1st January, 1983]
 
+Commencement.
+1983-71.
+
 #### Citation
 
-##### 1 .
-This Act may be cited as the Education Act .
-
-#### Interpretation
-
-##### 2 .
-(1) For the purposes of this Act
-
-"assisted private educational institution" means any private educational institution that is in receipt of assistance under this Act;
-
-"assisted private school" means any private school that is in receipt of assistance under Part III;
-
-"child" means a person under the age of 17 years; 1995-23.
-
-"Commission"  means  the  National  Advisory  Commission  on Education established by section 6;
-
-"composite school" means a school that provides both primary and secondary education, but does not include a secondary school in a department of which primary education is provided;
-
-"compulsory school age" means from 5 years of age to 16 years of age; 1995-23.
-
-"conscience clause" means section 54;
-
-1981-25. 1983-19. 1984-35. 1990-21. 1995-23. 1996-13. 2001-21. 2002-9.
-
-Commencement. 1983-71.
+##### 1.
+This Act may be cited as the Education Act.
 
 Short title.
 
+#### Interpretation
+
+##### 2.
+(1) For the purposes of this Act
+
+“assisted private educational institution” means any private educational institution that is in receipt of assistance under this Act;
+
+“assisted private school” means any private school that is in receipt of assistance under Part III;
+
+“child” means a person under the age of 17 years;
+
+1995-23.
+
+“Commission” means the National Advisory Commission on Education established by section 6;
+
+“composite school” means a school that provides both primary and secondary education, but does not include a secondary school in a department of which primary education is provided;
+
+“compulsory school age” means from 5 years of age to 16 years of age;
+
+1995-23.
+
+“conscience clause” means section 54;
+
 Definitions.
 
-THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael
-
+THE LAWS OF BARBADOS
+Printed by the Government Printer, Bay Street, St. Michael
 by the authority of the Government of Barbados
-
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
+CAP. 41 Education L.R.O. 2002 6
 s.2
 
-CAP. 41
+1983-19.
 
-Education
+“educational institution” means any school, technical institution, training centre or teachers college, but does not include the University of the West Indies, Codrington College or such other institution as the Minister prescribes under subsection (4);
 
-L.R.O. 2002    6
+“endowed educational institution” means any educational institution that is, wholly or in part, maintained by an endowment, but does not include
 
-1983-19. | "educational institution" means any school, technical institution, training centre or teachers college, but does not include the University of the West Indies, Codrington College or such other institution as the Minister prescribes under subsection (4);
---- | ---
-"endowed educational institution" means any educational institution that is, wholly or in part, maintained by an endowment, but does not include
 (i) an educational institution the endowment of which is applicable and is applied solely for the education of persons being trained to be ministers of any religious denomination; or
-(ii) an educational institution that is maintained, wholly or in part, out of annual voluntary subscription and has no endowment other than the premises of the educational institution;
-"parent" in relation to a child includes a guardian and the person who has actual custody of the child;
-1995-23. | "primary pupil" means a pupil who at the beginning of the school year has attained the age of 5 years but who has not attained the age of 12 years, and who has not yet gained admittance to a secondary school;
-"primary school" means a school that provides primary education;
-"private educational institution" means an educational institution that is provided and maintained by a person other than the Government;
-"private school" means a school that is provided and maintained by a person other than the Government;
-"proprietor", in relation to a private school or private educational institution, means any person who maintains that school or institution;
-"public educational institution" means an educational institution that is wholly or mainly maintained at the public expense;
 
+(ii) an educational institution that is maintained, wholly or in part, out of annual voluntary subscription and has no endowment other than the premises of the educational institution;
+
+“parent” in relation to a child includes a guardian and the person who has actual custody of the child;
+
+1995-23.
+
+“primary pupil” means a pupil who at the beginning of the school year has attained the age of 5 years but who has not attained the age of 12 years, and who has not yet gained admittance to a secondary school;
+
+“primary school” means a school that provides primary education;
+
+“private educational institution” means an educational institution that is provided and maintained by a person other than the Government;
+
+“private school” means a school that is provided and maintained by a person other than the Government;
+
+“proprietor”, in relation to a private school or private educational institution, means any person who maintains that school or institution;
+
+“public educational institution” means an educational institution that is wholly or mainly maintained at the public expense;
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-
-6A    L.R.O. 2002
-
-Education
-
-CAP. 41
-
+6A L.R.O. 2002 Education CAP. 41
 s.2
 
-"public school" means a school that is wholly or mainly maintained at the public expense and to which the public has, subject to this Act, unconditional access;
+“public school” means a school that is wholly or mainly maintained at the public expense and to which the public has, subject to this Act, unconditional access;
 
-"pupil" means a person of any age for whom education is provided under this Act;
+“pupil” means a person of any age for whom education is provided under this Act;
 
-"school" means an institution that provides primary or secondary education;
+“school” means an institution that provides primary or secondary education;
 
 THE LAWS OF BARBADOS
-
-Printed by the Government Printer, Bay Street, St. Michael by the authority of the Government of Barbados
-
+Printed by the Government Printer, Bay Street, St. Michael
+by the authority of the Government of Barbados
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
-
-7   L.R.O.  1997
-
-CAP. 41
-
+7 L.R.O. 1997 Education CAP. 41
 s.2
 
-Education
+“school hours” means the period during which attendance is required at school under this Act or the regulations;
 
-"school hours" means the period during which attendance is required at school under this Act or the regulations;
+“school year” means such period not exceeding 12 months as under section 20(3) may be prescribed as a school year;
 
-"school year" means such period not exceeding 12 months as under section 20(3) may be prescribed as a school year;
+“secondary pupil” means a pupil who has gained admittance to a secondary school;
 
-"secondary pupil" means a pupil who has gained admittance to a secondary school; 1995-23.
+1995-23.
 
-"secondary school" means a school that provides mainly secondary education;
+“secondary school” means a school that provides mainly secondary education;
 
-"senior school" means a school that provides remedial and prevocational education for the pupils of secondary school age; 1990-21.
+“senior school” means a school that provides remedial and prevocational education for the pupils of secondary school age;
 
-"technical  institution"  means  any  school  or  other  institution  that provides for studies, training or research in technology, science, commerce or art;
+1990-21.
 
-"tertiary institution" means an institution that provides mainly tertiary education;
+“technical institution” means any school or other institution that provides for studies, training or research in technology, science, commerce or art;
 
-"training  centre"  means  an  institution  that  provides  education  and training in any vocation requiring manual skill;
+“tertiary institution” means an institution that provides mainly tertiary education;
 
-"teachers college" means an institution in which teachers are trained.
+“training centre” means an institution that provides education and training in any vocation requiring manual skill;
 
-- Where by this Act or any enactment made under this Act, the Minister or the Chief Education Officer is required, or permitted or is otherwise to perform any function, the Minister or the Chief Education Officer, as the case may be, may in writing authorise a public officer to perform the function.
+“teachers college” means an institution in which teachers are trained.
+
+(2) Where by this Act or any enactment made under this Act, the Minister or the Chief Education Officer is required, or permitted or is otherwise to perform any function, the Minister or the Chief Education Officer, as the case may be, may in writing authorise a public officer to perform the function.
+
+(3) Nothing in this Act prevents the Minister from making provision for more than one stage of education in the same school or institution.
 
 1984-35.
 
-- Nothing in this Act prevents the Minister from making provision  for  more  than  one  stage  of  education  in  the  same  school  or institution.
+(4) For the purposes of this Act, the Minister may by order prescribe the institutions that shall not be educational institutions.
 
-- For  the  purposes  of  this  Act,  the  Minister  may  by  order prescribe the institutions that shall not be educational institutions. 1983-19.
+1983-19.
 
-THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael, by the authority of the Government of Barbados
-
+THE LAWS OF BARBADOS
+Printed by the Government Printer, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
-
+CAP. 41 Education L.R.O. 1997 8
 ss.2A-4
 
-CAP. 41
+(5) The Minister may give general or special directions in writing to any person respecting the Minister’s functions under this Act and that person shall carry out the Minister’s directions.
 
-Education
-
-L.R.O. 1997   8
-
-- The Minister may give general or special directions in writing to any person respecting the Minister's functions under this Act and that person shall carry out the Minister's directions. 1984-35.
+1984-35.
 
 #### Statement of Purpose
 
-##### 2A .
-The purpose of this Act is to provide a varied and comprehensive educational system in Barbados characterised by excellence. Statement of purpose.
+##### 2A.
+The purpose of this Act is to provide a varied and comprehensive educational system in Barbados characterised by excellence.
+
+Statement of purpose.
+1990-21.
 
 ### PART I Central Administration
 
-##### 3 .
+##### 3.
 The functions of the Minister are
 
-(a) to  promote the education of the people of Barbados and to establish and develop institutions for that purpose;
+(a) to promote the education of the people of Barbados and to establish and develop institutions for that purpose;
 
 (b) to frame an educational policy designed to give effect to the purpose of this Act;
 
 (c) to ensure the effective execution of the educational policy of the Government;
 
-(d) to  establish  a  co-ordinated  educational  system  organised  in accordance with this Act; and
+(d) to establish a co-ordinated educational system organised in accordance with this Act; and
 
-(e) to  contribute  toward  the  spiritual,  moral,  mental,  physical, social, cultural and economic development of the community by ensuring that efficient education is available to meet the needs of Barbados.
+(e) to contribute toward the spiritual, moral, mental, physical, social, cultural and economic development of the community by ensuring that efficient education is available to meet the needs of Barbados.
 
-##### 4 .
+General functions of the Minister.
+1990-21.
+
+##### 4.
 Without affecting section 3, the Minister may
 
-(a) establish schools in such places as he thinks fit and determine the  classification  of  those  schools  and  make  provision  for admission and transfer of pupils to those schools;
+(a) establish schools in such places as he thinks fit and determine the classification of those schools and make provision for admission and transfer of pupils to those schools;
 
 (b) maintain or assist in maintaining schools, whether established by him or otherwise;
 
-(c) establish,  maintain  or  assist  in  maintaining  such  teachers colleges or other institutions as he considers necessary for the training of teachers, and take such other action as he considers
+(c) establish, maintain or assist in maintaining such teachers colleges or other institutions as he considers necessary for the training of teachers, and take such other action as he considers
 
+Particular functions of the Minister.
+1984-35.
 1990-21.
-
-General functions of the Minister.
-
-1990-21.
-
-1990-21.
-
-Particular functions of the Minister. 1984-35.
-
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
-
-9   L.R.O. 1997
-
-Education
-
-CAP. 41
-
+9 L.R.O. 1997 Education CAP. 41
 ss.4A-5
 
 necessary to ensure that the requirements for teachers in public educational institutions are satisfied;
 
-(d) establish, maintain or assist in maintaining such training centres and  technical  institutions  as  he  considers  necessary  for fulfilling  the  requirements  for  technical  and  vocational education and training;
+(d) establish, maintain or assist in maintaining such training centres and technical institutions as he considers necessary for fulfilling the requirements for technical and vocational education and training;
 
 (e) establish and maintain or assist in establishing and maintaining such institutions or other facilities for tertiary, adult and special education as he considers necessary;
 
 (f) render, subject to such conditions as may be prescribed, to any pupil or class of pupils such forms of assistance as the Minister considers necessary for enabling the pupil or class of pupils to take full advantage of the educational facilities available;
 
-(g) provide for the grant of scholarships, exhibitions, bursaries and other  financial  assistance,  including  loans  for  tertiary education; and
+(g) provide for the grant of scholarships, exhibitions, bursaries and other financial assistance, including loans for tertiary education; and
 
-(h) make provision for the examination and testing of pupils and the  award  of  certificates,  associate  degrees,  diplomas and degrees.
+(h) make provision for the examination and testing of pupils and the award of certificates, associate degrees, diplomas and degrees.
+
+1990-21.
 
 ##### 4A.
 (1) The Minister may by order divide Barbados into zones for the purposes of the admission and transfer of pupils to public schools and assisted private schools.
 
-(2) Subject to the provisions of the order, every pupil shall attend a public  school  or  assisted  private  school  in  the  zone  in  which  his residence is located.
+(2) Subject to the provisions of the order, every pupil shall attend a public school or assisted private school in the zone in which his residence is located.
 
 (3) The residence of a pupil shall be determined by the residence of his parents or guardian.
 
-##### 5 .
+Zoning.
+1995-23.
+1990-21.
+
+##### 5.
 The Chief Education Officer has
 
 (a) the functions conferred on him by this Act; and
 
 (b) such other functions as the Minister assigns.
 
-1990-21.
-
-1990-21.
-
-Zoning. 1995-23.
-
 Functions of Chief Education Officer.
 
-THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael, by the authority of the Government of Barbados
-
+THE LAWS OF BARBADOS
+Printed by the Government Printer, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
-
+CAP. 41 Education L.R.O. 1997 10
 ss.6-8
 
-CAP. 41
+##### 6.
+(1) The National Advisory Commission on Education is established by this Act.
 
-Education
-
-L.R.O. 1997    10
-
-##### 6 .
-(1) The National Advisory Commission on  Education is estab-
-
-lished by this Act. National Advisory Commission on Education.
-
-First Schedule.
+National Advisory Commission on Education.
 
 (2) The First Schedule has effect with respect to the Constitution of the Commission and otherwise in relation thereto.
 
-- The Commission shall advise the Minister
+First Schedule.
+
+(3) The Commission shall advise the Minister
 
 (a) on such matters connected with education as the Commission thinks fit; and
 
 (b) on such matters connected to the functions of the Minister under this Act as the Minister refers to it.
 
 ##### 7.
-(1) Notwithstanding section 6, the Minister may establish such special  committees  as  he  considers  necessary  to  advise  him  with
+(1) Notwithstanding section 6, the Minister may establish such special committees as he considers necessary to advise him with respect to the performance of his functions.
 
-- respect to the performance of his functions. Special committees.
+Special committees.
 
 (2) A special committee comprises such members as the Minister appoints.
 
-- A special committee has such duties as the Minister specifies.
+(3) A special committee has such duties as the Minister specifies.
 
 (4) The Minister may refer any matter to a special committee, notwithstanding that the Commission has considered or has power to consider that matter.
 
-- The expenses of administering this  Act  are  payable  out  of moneys voted by Parliament for the purpose. Expenses.
+##### 8.
+The expenses of administering this Act are payable out of moneys voted by Parliament for the purpose.
 
+Expenses.
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
-
-10A    L.R.O.  1997
-
-Education
-
-CAP. 41
-
+10A L.R.O. 1997 Education CAP. 41
 s.9
 
 ### PART II THE SYSTEM OF PUBLIC EDUCATION
@@ -551,50 +456,46 @@ s.9
 ##### 9.
 For the purposes of this Act
 
-(a) "adult education" means
+(a) “adult education” means
 
 (i) continued education; and
 
 (ii) training activities organised on a part-time basis
 
-suitable to the requirements of persons over compulsory school age and designed to enhance knowledge, skills, attitudes or cultural  awareness, but does not include tertiary education;
+suitable to the requirements of persons over compulsory school age and designed to enhance knowledge, skills, attitudes or cultural awareness, but does not include tertiary education;
 
-(b) "pre-primary education" means education provided either within a primary school or in an institution specially designed for that purpose and suitable to the needs of children 3 years of age or older but under 5 years of age;
+(b) “pre-primary education” means education provided either within a primary school or in an institution specially designed for that purpose and suitable to the needs of children 3 years of age or older but under 5 years of age;
 
-(c) "primary education" means full-time education suitable to the requirements of primary pupils;
+(c) “primary education” means full-time education suitable to the requirements of primary pupils;
 
-(d) "secondary education" means full-time education suitable to the requirements of secondary pupils;
+(d) “secondary education” means full-time education suitable to the requirements of secondary pupils;
 
-(e) "special education"
+(e) “special education”
 
 (i) means education suitable to the requirements of persons who are mute, deaf, blind or otherwise physically or psychologically disabled or mentally retarded; and
 
 (ii) includes education suitable to the requirements of pupils who are gifted or have exceptional ability;
 
-(f) "tertiary education" means
+(f) “tertiary education” means
 
 (i) education suitable to the requirements of persons over compulsory school age who are not enrolled for secondary education in any school, or, if enrolled in a secondary school, have completed a course of secondary education; and
 
+Interpretation.
+1990-21.
+
 THE LAWS OF BARBADOS
-
-Printed by the Government Printer, Bay Street, St. Michael, by the authority of the Government of Barbados Interpretation. 1990-21.
-
+Printed by the Government Printer, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+11 L.R.O. 1991 Education CAP. 41
+ss.10-13
 
-11 L.R.O. 1991
-
-Education
-
-CAP.41
-
-ss.lO-13
-
-(ii) university education and instruction normally available at institutions for teacher training, vocational training and  technical training.
+(ii) university education and instruction normally available at institutions for teacher training, vocational training and technical training.
 
 ##### 10.
-(1) Public education is  in  three stages, that  is  to  say,
+(1) Public education is in three stages, that is to say,
 
 (a) primary education,
 
@@ -602,108 +503,100 @@ ss.lO-13
 
 (c) tertiary education.
 
-(2) The Minister may, in addition to the 3  stages of  public education mentioned in subsection (l), provide as part of the system of  public education
+Stages of public education.
+
+(2) The Minister may, in addition to the 3 stages of public education mentioned in subsection (1), provide as part of the system of public education
 
 (a) pre-school education,
 
 (b) special education,
 
-(c) adult  education, and
+(c) adult education, and
 
-(d) education and  training in  the  Schools established under the 1990-21. Reformatory  and Industrial Schools Act; Cap.  169.
+(d) education and training in the Schools established under the Reformatory and Industrial Schools Act;
 
-(e) such education and training cooperation or association with penal institutions and rehabilitation centres as the institutions or  centres may  require; and
+1990-21.
+Cap. 169.
 
-- cf) any  other  category of  education that  is  necessary.
+(e) such education and training cooperation or association with penal institutions and rehabilitation centres as the institutions or centres may require; and
 
-#### DIVISION 2 Management  of Primary,  Composite and Senior  Schools
+(f) any other category of education that is necessary.
 
-##### 11.
-This division applies to  all  primary, composite and  senior schools maintained out  of  moneys voted by  Parliament.
-
-##### 12.
-All schools to  which this Division applies are  under the control and  management of  the  Minister.
-
-##### 13.
-(1) For the purposes of this Division, the Minister may appoint school committees to advise on, and assist with, the management of  schools to  which this  Division applies.
-
-(2) A school committee appointed under this section must consist of  not  less  than 3 persons, and  in  addition to  the  functions specified in subsection (1) a  school committee has such other functions as  are  prescribed.
-
-Stages of public education.
+#### DIVISION 2 Management of Primary, Composite and Senior Schools
 
 1990-21.
 
-Applicption. 1990-a.
+##### 11.
+This division applies to all primary, composite and senior schools maintained out of moneys voted by Parliament.
 
-Maaganent of  primary. canposite and  senior scltools.
+Application.
+1990-21.
 
-SCOOT ~UCB.
+##### 12.
+All schools to which this Division applies are under the control and management of the Minister.
 
-THE  LAWS OF  BARBADOS Printed by the Government  F' rinting  Deputmmt,  Bay  Street, St. Michad. by the authority of  the Government of Barbador
+Management of primary, composite and senior schools.
 
+##### 13.
+(1) For the purposes of this Division, the Minister may appoint school committees to advise on, and assist with, the management of schools to which this Division applies.
+
+School committees.
+
+(2) A school committee appointed under this section must consist of not less than 3 persons, and in addition to the functions specified in subsection (1) a school committee has such other functions as are prescribed.
+
+THE LAWS OF BARBADOS
+Printed by the Government Printing Department, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+ss.14-17 CAP. 41 Education L.R.O. 1991 12
 
-ss.14-17
+(3) A school committee may be appointed under this section to advise on, and assist with, the management of more than one school.
 
-CAP.41
-
-Education
-
-L.R.O. 1991 12
-
-(3) A  school committee may  be  appointed under this section to  advise on, and  assist with, the  management of  more than  One school.
+Additional powers of Minister regarding management of schools.
 
 ##### 14.
-(1) Without affecting section 13, where the Minister considers it expedient, he may, by order in the case of any particular school, provide for a  scheme of  management for that school.
+(1) Without affecting section 13, where the Minister considers it expedient, he may, by order in the case of any particular school, provide for a scheme of management for that school.
 
-(2) The  Minister may,  in  a  scheme of  management mentioned in  subsection (l), provide for  the  management of  more than one school.
+(2) The Minister may, in a scheme of management mentioned in subsection (1), provide for the management of more than one school.
 
-#### DIVISION 3' Management  of Public Secondary  Schools
+#### DIVISION 3¹ Management of Public Secondary Schools
 
-InterpretIttion.
+Interpretation.
 
 ##### 15.
-For the purposes of this Division 'public secondary school' means a secondary school that is mainly or wholly maintained out  of  moneys voted by  Parliament.
+For the purposes of this Division “public secondary school” means a secondary school that is mainly or wholly maintained out of moneys voted by Parliament.
 
-Management of public secondary schools. Seoond Schedule.
+Management of public secondary schools.
+Second Schedule.
 
 ##### 16.
-(1) For  the  purposes of  this  Division, the  Minister may  by order establish Boards of  Management for the management of public secondary schools.
+(1) For the purposes of this Division, the Minister may by order establish Boards of Management for the management of public secondary schools.
 
 (2) The Second Schedule has effect with respect to the constitution and procedure of any Board of Management established by an order under subsection (1) and otherwise in relation thereto.
 
-(3) An  order made under subsection (1)  may provide for the management by 1  Board of  Management of not more than 2 schools.
+(3) An order made under subsection (1) may provide for the management by 1 Board of Management of not more than 2 schools.
 
 (4) An order made under subsection (1) is subject to affirmative resolution.
 
-General functions of  Boards of  Management. cap.  1.
-
+General functions of Boards of Management.
+Cap. 1.
 1990-21.
 
 ##### 17.
-For the purposes of this Act, a  Board of Management established pursuant to  section 16  is  a  body corporate to  which, subject to  this  Act,  section 21  of  the Interpretation  Act applies and in  relation to  the  school for  which it  is  established, the  Board of Management
+For the purposes of this Act, a Board of Management established pursuant to section 16 is a body corporate to which, subject to this Act, section 21 of the Interpretation Act applies and in relation to the school for which it is established, the Board of Management
 
-(a) is  responsible for  implementing the  Minister' s policy and for  that  purpose may  give  directions of  a general nature to the  principal;
+(a) is responsible for implementing the Minister’s policy and for that purpose may give directions of a general nature to the principal;
 
-> lDivision 3,  ss.  15  to  21.  came into  operation on  31st  May,  1983 by  S.I.  1983f71.
-
-Additional powers of MitiSkT regarding management of  schools.
-
+¹Division 3, ss. 15 to 21, came into operation on 31st May, 1983 by S.I. 1983/71.
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
-
-13    L.R.O. 2002
-
-Education
-
-CAP. 41
-
+13 L.R.O. 2002 Education CAP. 41
 s.18
 
-(b) shall  receive,  disburse  and  account  for  the  expenditure  of moneys voted by Parliament for the operation of the school;
+(b) shall receive, disburse and account for the expenditure of moneys voted by Parliament for the operation of the school;
 
 (c) may, subject to this Act,
 
@@ -711,52 +604,47 @@ s.18
 
 (ii) dismiss and otherwise exercise disciplinary control over those persons;
 
+2002-9.
+
 (d) may receive in its corporate name, in trust for the people of Barbados towards the advancement of secondary education any estate or property, real or personal, whether by way of devise, bequest, legacy or in any other manner;
 
 (e) may make recommendations to the Minister with regard to any matter directly or indirectly affecting any school or the development of secondary education generally;
 
-(f) may appoint  committees  consisting  wholly  or  partly  of members of the Board;
+(f) may appoint committees consisting wholly or partly of members of the Board;
 
 (g) may make standing orders for the conduct of its business or the business of any of its committees;
 
-(h) shall,  subject  to  the  directions  of  the  Minister,  ensure  the effective management of a programme of adult education in accordance with the regulations; 2002-9.
+(h) shall, subject to the directions of the Minister, ensure the effective management of a programme of adult education in accordance with the regulations;
 
-(i) may perform such other functions in relation to the school as the Minister requires to be performed or as may be prescribed. 2002-9.
+(i) may perform such other functions in relation to the school as the Minister requires to be performed or as may be prescribed.
 
-- The funds and resources of Boards of Management are
+##### 18.
+The funds and resources of Boards of Management are
 
 (a) moneys voted for the purposes of the Boards by Parliament; and
 
 (b) moneys or property payable to or vested in the Boards in respect of any matter incidental to their functions.
 
 Funds and resources of Boards.
+2002-9.
 
-THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael by the authority of the Government of Barbados
-
+THE LAWS OF BARBADOS
+Printed by the Government Printer, Bay Street, St. Michael
+by the authority of the Government of Barbados
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
-
+CAP. 41 Education L.R.O. 2002 14
 ss.19-20
 
-CAP. 41
-
-Education
-
-L.R.O. 2002    14
-
 Accounts and audits.
-
-Annual report, statement of accounts and estimates.
-
-1984-35.
 
 ##### 19.
 (1) Every Board of Management shall keep proper accounts of its transactions, and the accounts must be audited annually by an auditor appointed by the Board with the approval of the Minister.
 
 (2) The Auditor-General is entitled, at the request of the Minister or on the initiative of the Auditor-General, to carry out at any time an investigation into, or a special audit of, the accounts of any Board of Management.
 
-- The members and employees of a Board of Management
+(3) The members and employees of a Board of Management
 
 (a) shall grant to
 
@@ -768,33 +656,28 @@ Annual report, statement of accounts and estimates.
 
 access to all books, documents, moneys and property of the Board; and
 
-(b) shall  give  to  the  person  referred  to  in  paragraph (a) such information as might be within the knowledge of the members and employees of the Board in relation to the operations of the Board.
+(b) shall give to the person referred to in paragraph (a) such information as might be within the knowledge of the members and employees of the Board in relation to the operations of the Board.
 
+Annual report, statement of accounts and estimates.
+1984-35.
+
+##### 20.
 (1) Every Board of Management shall submit to the Minister
 
-(a)
+(a) within 6 months after the end of each school year, or within such further time as the Minister allows, a report on the activities of the Board during that school year;
 
-within 6 months after the end of each school year, or within such  further  time  as  the  Minister  allows,  a  report  on  the activities of the Board during that school year;
-
-(b) not later than the 30th September in each year, or such later date  as  the  Minister  approves,  a  statement  of  its  accounts, audited in accordance with section 19, for the financial year ending in that year;
-
+(b) not later than the 30th September in each year, or such later date as the Minister approves, a statement of its accounts, audited in accordance with section 19, for the financial year ending in that year;
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
-
-14A    L.R.O. 2002
-
-Education
-
-CAP. 41
-
+14A L.R.O. 2002 Education CAP. 41
 s.20
 
 (c) on or before the 31st August in each year, its estimates of revenue and expenditure for the several schools under the control of the Board in respect of the next financial year,
 
 for the approval of the Minister.
 
-- Copies
+(2) Copies
 
 (a) of the report mentioned in paragraph (a) of subsection (1); and
 
@@ -802,349 +685,314 @@ for the approval of the Minister.
 
 are to be laid in the Senate and House of Assembly.
 
-THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael
-
+THE LAWS OF BARBADOS
+Printed by the Government Printer, Bay Street, St. Michael
 by the authority of the Government of Barbados
-
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+15 L.R.O. 1985 Education CAP. 41
+ss.21-24
 
-15 L.R.O. 1985
-
-E' ducatiofl
-
-CAP.  41 ss.21-24
-
-- The  Minister may  prescribe the school year.
+(3) The Minister may prescribe the school year.
 
 ##### 21.
-Minutes made of  meetings of  any  Board of  Management are, if duly signed by the chairman or deputy chairman, receivable in  evidence in all  legal proceedings without further proof; and  every  meeting of  a Board in  respect of  which minutes have been signed shall be  deemed to  have been duly convened and held, and all members present at the meeting shall be deemed to  have  been duly  qualified to  act.
+Minutes made of meetings of any Board of Management are, if duly signed by the chairman or deputy chairman, receivable in evidence in all legal proceedings without further proof; and every meeting of a Board in respect of which minutes have been signed shall be deemed to have been duly convened and held, and all members present at the meeting shall be deemed to have been duly qualified to act.
 
-#### DIVISICN 4 1 Property, Assets and  Rights
+Minutes of Boards receivable in evidence.
 
-- For  the  purposes of this  Act
+#### DIVISION 4¹ Property, Assets and Rights
 
-'appointed day' means
+Interpretation.
+1984-35.
 
-(a) in  the case of  the schools set out in  the Third Schedule except Lodge School, 1st  June, 1983,  and
+##### 22.
+For the purposes of this Act
 
-(b) in  the  case  of  the  Lodge School, 2nd  August, 1983.
+“appointed day” means
+
+(a) in the case of the schools set out in the Third Schedule except Lodge School, 1st June, 1983, and
+
+(b) in the case of the Lodge School, 2nd August, 1983.
+
+Vesting.
+Third Schedule.
+1984-35.
 
 ##### 23.
-All  lands and  property vested in  or  held by  the  Governing Body  of any  school  mentioned in  the  Third Schedule
+All lands and property vested in or held by the Governing Body of any school mentioned in the Third Schedule
 
-(a) are  transferred to  and vested in  the Crown and shall be managed and administered by the Board of Management  on behalf of  the  Crown, and
+(a) are transferred to and vested in the Crown and shall be managed and administered by the Board of Management on behalf of the Crown, and
 
-(b) are  by  virtue of  this Act and without further assurance, transfer or  other formality, with  effect from the appointed day, to be held by  the Crown for the same estate and interest and  to  the  same extent and in  the  same manner as the lands and property were vested in, or held by,  the Governing Body  immediately before the  appointed day.
+(b) are by virtue of this Act and without further assurance, transfer or other formality, with effect from the appointed day, to be held by the Crown for the same estate and interest and to the same extent and in the same manner as the lands and property were vested in, or held by, the Governing Body immediately before the appointed day.
+
+Transfer of rights and liabilities of Governing Bodies.
 
 ##### 24.
-(1) All rights, powers, privileges and authorities that, immediately before the appointed day, were vested in or exercisable by  the  Governing Body  of  a  school mentioned in  the Third Schedule are, with effect from that, day, vested in, and exercisable by,  the  Crown.
+(1) All rights, powers, privileges and authorities that, immediately before the appointed day, were vested in or exercisable by the Governing Body of a school mentioned in the Third Schedule are, with effect from that day, vested in, and exercisable by, the Crown.
 
-> 1Division4,ss.22t026cameintooperationon31stMay, 1983byS.I. 1983171.
-
-Minutes ;~~~;~~~; inevidence.
-
-Interpretation
-
-1984-35.
-
-vesting. Third Schedu' e'
-
-1984-35.
-
-Transfer of $' ~,~t:,',' of  Governintzadies.
+¹Division 4, ss. 22 to 26 came into operation on 31st May, 1983 by S.I. 1983/71.
 
 THE LAWS OF BARBADOS
-
-Printed by the  Government Printing Deparnnenf. Bay  Street. St. Michael, by the authority of the  Government of Barbados
-
+Printed by the Government Printing Department, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+ss.25-27 CAP. 41 Education L.R.O. 1985 16
 
-ss.2527 CAP. 41
+Cap. 41.
+1890-12.
 
-Education
+(2) All liabilities incurred by or on behalf of a Governing Body in respect of its functions under the Education Act and subsisting immediately before the appointed day have, from that day, effect as if they had been incurred by or on behalf of the Crown.
 
-L.R.O. 1985
+(3) Without affecting subsections (1) and (2)
 
-16
+(a) all moneys standing immediately before the appointed day to the credit of any Governing Body are, from that day, transferred to and vested in the Crown, and
 
-(2) All liabilities incurred by  or on behalf of a  Governing Cap.  41. Body in  respect of  its  functions under the Education Act and 1890-12. subsisting immediately before the appointed day have, from that day, effect as  if  they had been incurred by  or  on  behalf of the  Crown.
+(b) any contract made by or on behalf of any Governing Body before the appointed day, shall be deemed to have been made by or on behalf of the Crown and shall be construed with such modifications and adaptations as might be necessary to give effect to this section.
 
-- Without affecting subsections (1)  and (2)
+(4) All civil proceedings commenced before the appointed day in any court in Barbados by or against any Governing Body may be continued by or against the Board of Management, and process in those proceedings may be amended accordingly.
 
-(a) all  moneys standing immediately before the appointed day  to  the credit of  any Governing Body are, from that day, transferred to  and vested in  the  Crown, and
-
-(b) any  contract made by  or  on  behalf of  any  Governing Body before the appointed day, shall be  deemed to  have been made by or  on  behalf of  the  Crown and shall be  construed with such modifications and adaptations as might be necessary to  give  effect to  this section.
-
-(4) All civil proceedings commenced before the appointed day  in  any  court in  Barbados by  or  against any  Governing Body may  be  continued by  or  against the  Board of  Management, and process in  those proceedings may  be  amended accordingly.
+Preservation of existing endowments, etc.
 
 ##### 25.
-(1) Nothing in this Division affects the validity or operation of  any  ' endowment or trust that, immediately before the  appointed day, existed in  favour of a Governing Body.
+(1) Nothing in this Division affects the validity or operation of any endowment or trust that, immediately before the appointed day, existed in favour of a Governing Body.
 
-Preservation of  existing endowments, etc.
+(2) An endowment or trust referred to in subsection (1) has, from the appointed day, effect as an endowment or trust in favour of, or to be administered by, the Crown for the same purposes and for the benefit of the same school as before that day.
 
-(2)  An  endowment or  trust referred to  in  subsection (1)  has, from the appointed day, effect as an endowment or trust in favour of, or  to  be administered by, the Crown for the same purposes and for the benefit of  the same school as  before that day.
+Construction of dispositions in favour of Governing Bodies.
 
-Construction of  dispositions in  favour of  Governing  Bodies.
+##### 26.
+Any gift or other disposition by deed, will or other instrument in favour of a Governing Body taking effect on or after the appointed day is to be construed as, and is to take effect as, a gift or disposition in favour of the Crown.
+
+#### DIVISION 5 Management of Tertiary Institution
 
 Application.
 
-##### 26.
-Any gift or other disposition by deed, will or other instrument in  favour of  a  Governing Body taking effect on or after the appointed day is  to be construed as, and is to take effect as,  a gift  or  disposition in  favour of  the  Crown.
-
-#### DIVISION  5 Management of  Tertiary Institution
-
-##### 27,
-This Division applies to all  tertiary institutions that are maintained wholly  or  mainly out  of  moneys voted by  Parliament.
-
+##### 27.
+This Division applies to all tertiary institutions that are maintained wholly or mainly out of moneys voted by Parliament.
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
-
-17 L.R.O. 1991
-
-Education
-
-CAP.41
-
+17 L.R.O. 1991 Education CAP. 41
 ss.28-30
+
+Management of tertiary institutions.
 
 ##### 28.
 (1) The Minister may by order provide for the management of any tertiary institution to which this Division applies.
 
-;z;~; tetiary institutions.
+(2) The Minister may provide in any order made under subsection (1) for the establishment of a Board of Management of any tertiary institution, and may specify in the order the number of members of the Board of Management and its functions.
 
-(2) The Minister may provide in any order made under subsection (1)  for  the  establishment of  a  Board  of  Management of any  tertiary institution, and  may  specify in  the  order  the  number of members of  the  Board  of  Management and  its  functions.
+(3) Section 21 of the Interpretation Act applies to a Board of Management established by an order under subsection (1).
 
-(3) Section 21  of the Interpretation  Act applies to  a  Board of Cap.  1 Management established by  an order  under subsection (1).
+Cap. 1.
 
 (4) An order made under subsection (1) is subject to affirmative resolution.
 
-(5) Without affecting subsections (1)  to  (4),  the  Minister may appoint such  number of  advisory boards as  he  thinks fit  to  advise on,  and  assist with, the  management of  the  tertiary institutions to which this  Division applies.
+(5) Without affecting subsections (1) to (4), the Minister may appoint such number of advisory boards as he thinks fit to advise on, and assist with, the management of the tertiary institutions to which this Division applies.
 
-(6) An  advisory board may  be  appointed under subsection (5) to  advise on,  and assist with, the  management of  more than  one tertiary institution.
+(6) An advisory board may be appointed under subsection (5) to advise on, and assist with, the management of more than one tertiary institution.
 
-(7) Every advisory board appointed under subsection (5) consists of  a  chairman and such other members as  the Minister determines.
+(7) Every advisory board appointed under subsection (5) consists of a chairman and such other members as the Minister determines.
 
-### PART III PRIVATE SCHOOLS AND  PRIVATE EDUCATIONAL INSTITUTIONS
+### PART III PRIVATE SCHOOLS AND PRIVATE EDUCATIONAL INSTITUTIONS
 
 #### DIVISION 1 General
 
+Application.
+1990-21.
+
 ##### 29.
-This  Part  applies to  private schools and  private educational institutions.
-
-##### 30.
-(1) For  the  purposes of  this  Part,  the  Minister shall  keep a register, to be known as the Register of Private Schools and Private Educational Institutions, in this Part referred to as 'the Register', in  which must be entered the names of schools and institutions registered under this Part and such particulars in relation to  those schools and  institutions as may  be  prescribed.
-
-THE  LAWS OF  BARBADOS
-
-F' rinted  by the Government  printing Department,  Bay  Stmt, St. Michael, by the authority of the Govcmmcnt  of Barbados Appfication. 1990-21.
+This Part applies to private schools and private educational institutions.
 
 Register.
 
+##### 30.
+(1) For the purposes of this Part, the Minister shall keep a register, to be known as the Register of Private Schools and Private Educational Institutions, in this Part referred to as “the Register”, in which must be entered the names of schools and institutions registered under this Part and such particulars in relation to those schools and institutions as may be prescribed.
+
+THE LAWS OF BARBADOS
+Printed by the Government Printing Department, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+ss.31-33 CAP. 41 Education L.R.O. 1991 18
 
-ss.31-33
+(2) The Chief Education Officer shall, annually, certify a copy of the Register, and the copy so certified must be published annually in the Official Gazette on such date as the Minister determines.
 
-CAP.41
+(3) The Chief Education Officer shall certify any amendment to the Register and the amendment must be published in the Official Gazette.
 
-Education
+(4) Where the Minister is satisfied that there is any error in the Register or any omission from the Register, he shall rectify the error or omission.
 
-L.R.O. 1991 18
-
-Establishment of private school, etc. 1990-21.
-
-(2) The  Chief  Education Officer shall,  annually, certify a copy of the Register, and the copy so certified must be published annually in the Oficiul Gazette on such date as the Minister determines.
-
-(3) The Chief Education Officer shall certify any  amendment to the Register and the amendment must be published in the OfJiciaE  Gazette.
-
-(4) Where  the  Minister is  satisfied that  there is  any  error  in  the Register or  any omission from the Register, he shall rectify the error  or  omission.
+Establishment of private school, etc.
+1990-21.
 
 ##### 30A.
-(1) No person may establish a private school or educational institution in  Barbados after the 13th August, 1990 without the  prior  approval of  the  Minister.
+(1) No person may establish a private school or educational institution in Barbados after the 13th August, 1990 without the prior approval of the Minister.
 
-(2) For the avoidance of doubt it is hereby declared that subsection (1) does not apply to private schools and private education institutions first  registered before 13th  August, 1990.
+(2) For the avoidance of doubt it is hereby declared that subsection (1) does not apply to private schools and private education institutions first registered before 13th August, 1990.
 
-Registmtion.
+Registration.
 
 ##### 31.
-Subject to this Act, no  person may keep, in  Barbados, a private school or  private educational institution to  which this  Part applies unless the  school is  registered in  accordance with  this  Part.
+Subject to this Act, no person may keep, in Barbados, a private school or private educational institution to which this Part applies unless the school is registered in accordance with this Part.
+
+Application for registration.
 
 ##### 32.
-(1) An application under this Part for registration of a private school or  private educational institution,
+(1) An application under this Part for registration of a private school or private educational institution,
 
-(a) must be  made by or on behalf of the proprietor of the school or  educational institutio,l,
+(a) must be made by or on behalf of the proprietor of the school or educational institution,
 
-(b) must  be  made in  the  prescribed form, and
+(b) must be made in the prescribed form, and
 
-(c) must contain such  particulars and  be  accompanied by  such documents as  the  Minister prescribes.
+(c) must contain such particulars and be accompanied by such documents as the Minister prescribes.
 
-(2) The  Minister may, on  receipt of  an  application under this section, request the applicant to furnish such additional information and  particulars as  the Minister considers relevant to the  application, and  the  applicant must  comply with  the  request.
+(2) The Minister may, on receipt of an application under this section, request the applicant to furnish such additional information and particulars as the Minister considers relevant to the application, and the applicant must comply with the request.
+
+Requirements for registration.
 
 ##### 33.
-(1) Where a  school or  institution in  respect of  which an application is  made under section 32(l) has  been inspected, the Minister shall  register the  school or  institution, as  the  case  may be, if  he  is  satisfied that
-
-Application  for registration.
-
-Requimments for qistlation.
-
+(1) Where a school or institution in respect of which an application is made under section 32(1) has been inspected, the Minister shall register the school or institution, as the case may be, if he is satisfied that
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
-
-19 L.R.O. 1991
-
-Education
-
-CAP.  41
-
+19 L.R.O. 1991 Education CAP. 41
 s.34
 
-(a) the  premises are  suitable for  use  as  a school or  institution,
+(a) the premises are suitable for use as a school or institution,
 
-(b) the  accommodation provided at  the  premises is  adequate and  suitable, having regard to  the  number, ages  and  sex  of the  pupils attending the  school or  institution,
+(b) the accommodation provided at the premises is adequate and suitable, having regard to the number, ages and sex of the pupils attending the school or institution,
 
-(c) efficient and suitable instruction is being or will be provided at  the school or  institution having regard to  the ages and sex of the pupils attending the school or institution,
+(c) efficient and suitable instruction is being or will be provided at the school or institution having regard to the ages and sex of the pupils attending the school or institution,
 
-(d) the  proprietor and  principal of  the  school or  institution are 1990-21. fit  and  proper persons to  be  the  proprietor and  principal of a private school or  private educational institution, and
+(d) the proprietor and principal of the school or institution are fit and proper persons to be the proprietor and principal of a private school or private educational institution, and
+
+1990-21.
 
 (e) the school or institution meets any other prescribed requirements.
 
-(2) Where the  Minister registers a  school or  institution under subsection (l), he shall, in  writing, notify the applicant that the school or  institution, as  the  case  may  be,  is registered.
+(2) Where the Minister registers a school or institution under subsection (1), he shall, in writing, notify the applicant that the school or institution, as the case may be, is registered.
 
 (3) Registration of a private school or private educational institution under subsection (1) is subject to any condition the Minister specifies.
 
-(4) The Minister may  not  register a  private school or  private educational institution that does not satisfy the requirements of subsection (1).
+(4) The Minister may not register a private school or private educational institution that does not satisfy the requirements of subsection (1).
 
-(5) Where the  Minister refuses to  register a  private school or private educational institution, he  shall,  in  writing,
+(5) Where the Minister refuses to register a private school or private educational institution, he shall, in writing,
 
 (a) notify the applicant of the refusal and of the reasons therefor, and
 
-(b) inform the applicant that he has a  right of appeal under section 36.
+(b) inform the applicant that he has a right of appeal under section 36.
 
-Noticeto
+Notice to comply.
 
 ##### 34.
-Where the Minister is satisfied that a  private school or private educational institution registered under this Part has  -@Y ceased to be conducted in accordance with this Act or the regulations, he may serve on the proprietor of the school or institution a  notice of that fact, requiring him, within the time specified in  the  notice, to  conduct the  school or  institution, as  the case  may  be,  in  accordance with  this  Act  or  the  regulations, as  the case  may  be.
+Where the Minister is satisfied that a private school or private educational institution registered under this Part has ceased to be conducted in accordance with this Act or the regulations, he may serve on the proprietor of the school or institution a notice of that fact, requiring him, within the time specified in the notice, to conduct the school or institution, as the case may be, in accordance with this Act or the regulations, as the case may be.
 
-THE  LAWS OF  BARBADOS Printed by the Govemment  F' xinting  De+nnatt, Bay  Stmt, Sr  Michael, by the l uthcdy  of the Government  of Baxbadcs
-
+THE LAWS OF BARBADOS
+Printed by the Government Printing Department, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+ss.35-36 CAP. 41 Education L.R.O. 1985 20
 
-~~35-36
+Cancellation of registration.
 
-CAP.  41
-
-Education
-
-L.R.O. 1985 20
-
-cancella
 ##### 35.
-Where the  proprietor served with  a notice under section 34 tion  of registmfails,  within the  time specified in  the  notice or  within such  further tion. time as the Minister allows, to comply with the notice, the Minister
+Where the proprietor served with a notice under section 34 fails, within the time specified in the notice or within such further time as the Minister allows, to comply with the notice, the Minister
 
 (a) shall cancel the registration of the school or institution, and
 
-(b) shall,  in  writing,
+(b) shall, in writing,
 
-(9 notify the proprietor that the registration has been cancelled and  of  the  reasons why,  and
+(i) notify the proprietor that the registration has been cancelled and of the reasons why, and
 
-(ii) inform the proprietor that he  has a  right of appeal under section 36.
+(ii) inform the proprietor that he has a right of appeal under section 36.
 
-##### Appeal. 36.
-(1) The proprietor of a school or institution that the Minister does not register pursuant to section 33(4), or  whose registration is  cancelled under paragraph (u)  of section 35,  may, within 30  days  of  being notified that  the  Minister will  not  register the  school or  institution, or  has  cancelled its  registration, appeal to a  Judge in  Chambers against the refusal or  cancellation, as  the case  may  be,
+Appeal.
 
-(a) in  the  case  of  a refusal on  any  of  the  following grounds:
+##### 36.
+(1) The proprietor of a school or institution that the Minister does not register pursuant to section 33(4), or whose registration is cancelled under paragraph (a) of section 35, may, within 30 days of being notified that the Minister will not register the school or institution, or has cancelled its registration, appeal to a Judge in Chambers against the refusal or cancellation, as the case may be,
 
-(i) that the reasons given for the decision do not disclose any  failure to  meet any  of  the  requirements for  registration set  out  in  section 33( 1);
+(a) in the case of a refusal on any of the following grounds:
 
-(ii) that  the  inspection of  the  school or  institution carried out pursuant to  section 33(l) was  not adequate for determining whether the school or  institution meets the  requirements set  out  in  that  section;
+(i) that the reasons given for the decision do not disclose any failure to meet any of the requirements for registration set out in section 33(1);
+
+(ii) that the inspection of the school or institution carried out pursuant to section 33(1) was not adequate for determining whether the school or institution meets the requirements set out in that section;
 
 (iii) that there is no evidence available to support the decision; and
 
-(b)  in  the  case  of  a  cancellation,  on  any of  the  following grounds:
+(b) in the case of a cancellation, on any of the following grounds:
 
 (i) that no notice was served on the proprietor under section 34;
 
-(ii) that the time specified in the notice served under section 34 or the further time allowed to the proprietor under section 35 to comply with the notice is  unreasonable;
-
+(ii) that the time specified in the notice served under section 34 or the further time allowed to the proprietor under section 35 to comply with the notice is unreasonable;
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+21 L.R.O. 1985 Education CAP. 41
+ss.37-39
 
-21 L.R.O. 1985
-
-Education
-
-CAP. 41 S&37-36
-
-(iii) that the proprietor has complied with the notice served under section 34;  or
+(iii) that the proprietor has complied with the notice served under section 34; or
 
 (iv) that there is no evidence available to support the cancellation.
 
-(2)  Where an  appeal is  brought under this section against a refusal or  cancellation of  registration by  the Minister, he  may not enforce his refusal or cancellation until the appeal is determined or  withdrawn.
+(2) Where an appeal is brought under this section against a refusal or cancellation of registration by the Minister, he may not enforce his refusal or cancellation until the appeal is determined or withdrawn.
 
-(3)  The determination by a  Judge of an appeal under this section is final.
+(3) The determination by a Judge of an appeal under this section is final.
+
+Re-registration of school.
 
 ##### 37.
-(1)  Where the registration of a  school or institution is cancelled pursuant to section 35, the proprietor of the school may, if  he has complied with the notice served ofi  him under section 34, apply to the Minister for the re-registration of  the school or  institution.
+(1) Where the registration of a school or institution is cancelled pursuant to section 35, the proprietor of the school may, if he has complied with the notice served on him under section 34, apply to the Minister for the re-registration of the school or institution.
 
-(2) Section 32(l) and (2) and section 33 apply, mutatis mutandis, to  an  application under subsection (1).
+(2) Section 32(1) and (2) and section 33 apply, mutatis mutandis, to an application under subsection (1).
 
-#### DIVISION 2 Assisted Private Schools and  private Educational Institutions
+#### DIVISION 2 Assisted Private Schools and Private Educational Institutions
+
+Aid to private schools.
 
 ##### 38.
-(1)  The Minister may, out of moneys voted by Aid  to Parliament, grant financial and other assistance to private f' tt: schools and private educational institutions in  accordance with ' the  regulations.
+(1) The Minister may, out of moneys voted by Parliament, grant financial and other assistance to private schools and private educational institutions in accordance with the regulations.
 
-(2)  A school or institution receiving financial or other assistance under  this  Act is an  assisted private school or  an assisted private eduational institution, as the  case  may  be.
+(2) A school or institution receiving financial or other assistance under this Act is an assisted private school or an assisted private educational institution, as the case may be.
+
+Audit and annual report.
 
 ##### 39.
-(1) The proprietor of an assisted private school or assisted private educational iinstitution shall submit annually to the Minister a statement of the accounts of the school or institution, certified by an  auditor appr6vea by the  Mihkter.
+(1) The proprietor of an assisted private school or assisted private educational institution shall submit annually to the Minister a statement of the accounts of the school or institution, certified by an auditor approved by the Minister.
 
-(2) Within 6  months after the end of  each school year, or such further time as  the Minister allows, the proprietor of  an
+(2) Within 6 months after the end of each school year, or such further time as the Minister allows, the proprietor of an
 
 THE LAWS OF BARBADOS
-
-Printed by the  Government Printing Department, Bay  Street, St.  Michael, by the authority of the  Government of Barbados Audit  and Ffiua'  re-'
-
-Re-re@straz;'f '
-
+Printed by the Government Printing Department, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+s.40 CAP. 41 Education L.R.O. 1985 22
 
-s.40 CAP. 41
+assisted private school or assisted private educational institution shall submit to the Minister a report of the activities of the school or institution during the preceding school year.
 
-Education
-
-L.R.O. 1985 22
-
-Requiremerits.
-
-assisted private school or  assisted private educational institution shall submit to the Minister a  report of  the activities of the school or  institution during the  preceding school  year.
+Requirements.
 
 ##### 40.
-(1)  The following provisions apply to assisted private schools and assisted private educational institutions:
+(1) The following provisions apply to assisted private schools and assisted private educational institutions:
 
-(a) the  efficiency and  management of  assisted private schools and assisted private educational institutions must be maintained at a standard that, in the opinion of the Minister, justifies the grant of financial or other assistance;
+(a) the efficiency and management of assisted private schools and assisted private educational institutions must be maintained at a standard that, in the opinion of the Minister, justifies the grant of financial or other assistance;
 
-(b) every person holding any interest in, or right over, the premises of the school or institution shall, in the prescribed manner, inform the  Minister of  the nature and extent of  the interest or  right;
+(b) every person holding any interest in, or right over, the premises of the school or institution shall, in the prescribed manner, inform the Minister of the nature and extent of the interest or right;
 
-(c) the proprietor may  not discontinue the school or  institution unless he  or  the Board gives to  the Minister not less than 3 school terms notice, or such shorter notice as the Minister accepts, of  the intention to discontinue the school or  institution;
+(c) the proprietor may not discontinue the school or institution unless he or the Board gives to the Minister not less than 3 school terms notice, or such shorter notice as the Minister accepts, of the intention to discontinue the school or institution;
 
-(d) in  the event of  the discontinuance of  an assisted private school or  assisted private educational institution, the proprietor shall, if the Minister requires, repay to the Government such portion of the financial assistance granted by the Minister to  the  school or  institution during the  financial year in  which the school or  institution is  discontinued as  appears just in all  the circumstances of  the case.
+(d) in the event of the discontinuance of an assisted private school or assisted private educational institution, the proprietor shall, if the Minister requires, repay to the Government such portion of the financial assistance granted by the Minister to the school or institution during the financial year in which the school or institution is discontinued as appears just in all the circumstances of the case.
 
-(2) Where notice of  the intention to discontinue an assisted private school or  assisted private educational institution is  given to  the  Minister by  the  proprietor, or  where it  otherwise comes to the  knowledge of  the  Minister that such a school or  institution is likely  to  be  discontinued, the  Minister may  take such steps as  he considers necessary for  the continuance of  the education of  the pupils of the school or institution in the event of its discontinuance.
+(2) Where notice of the intention to discontinue an assisted private school or assisted private educational institution is given to the Minister by the proprietor, or where it otherwise comes to the knowledge of the Minister that such a school or institution is likely to be discontinued, the Minister may take such steps as he considers necessary for the continuance of the education of the pupils of the school or institution in the event of its discontinuance.
 
-(3) Any  amount required to  be  repaid pursuant to  paragraph (d) of subsection (1) is a debt due to the Crown and is recoverable in civil proceedings in the High Court or in the magistrate' s court for  District 'A'.
-
+(3) Any amount required to be repaid pursuant to paragraph (d) of subsection (1) is a debt due to the Crown and is recoverable in civil proceedings in the High Court or in the magistrate’s court for District “A”.
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
@@ -1208,31 +1056,21 @@ Education
 
 L.R.O.  1997    24
 
-(e) the child is suffering from a physical or mental handicap that, in the opinion of a registered medical practitioner, makes the child incapable  of  being  educated  by  ordinary  methods  of instruction;
+(e) the child is suffering from a physical or mental handicap that, in the opinion of a registered medical practitioner, makes the child incapable of being educated by ordinary methods of instruction;
 
-(f) the grant by the principal of the school of permission for the child  to  be  temporarily  absent  from  school  for  good  and
+(f) the grant by the principal of the school of permission for the child to be temporarily absent from school for good and sufficient reason; or
 
-- sufficient reason; or 1990-21.
+(g) the child has successfully completed a period of study in secondary education to the satisfaction of the principal of the school.
 
-1995-23.
-
-.
-
-1990-21.
-
-(g) the  child  has  successfully  completed  a  period  of  study  in secondary education to the satisfaction of the principal of the school.
-
-(2) The parent of any child of compulsory school age who wishes the  child  to  be  exempt  from  compulsory attendance at school may apply for a certificate of exemption from attendance in accordance with subsection (3).
+(2) The parent of any child of compulsory school age who wishes the child to be exempt from compulsory attendance at school may apply for a certificate of exemption from attendance in accordance with subsection (3).
 
 (3) An application under subsection (2) must be made, in the case of
 
-(a) any of the grounds mentioned in paragraphs (a) , (b) and (e) , of subsection (1) to the Chief Education Officer; and
+(a) any of the grounds mentioned in paragraphs (a), (b) and (e), of subsection (1) to the Chief Education Officer; and
 
-(b) any of the grounds mentioned in paragraphs (c) , (d) and (f) , of subsection (1) to the principal of the school,
+(b) any of the grounds mentioned in paragraphs (c), (d) and (f), of subsection (1) to the principal of the school,
 
-- and the Chief Education Officer, or the principal as the case may be, 1990-21.
-
-may grant or refuse the certificate.
+and the Chief Education Officer, or the principal as the case may be, may grant or refuse the certificate.
 
 (4) A certificate granted under subsection (3) exempts the child to whom it relates from attendance at school to the extent specified in the certificate.
 
@@ -1241,6 +1079,14 @@ may grant or refuse the certificate.
 (6) The decision of the Minister on an appeal under subsection (5) is final.
 
 (7) Section 61 does not apply in the case of a child with respect to whom a certificate has been granted under this section.
+
+1995-23.
+
+1990-21.
+
+1990-21.
+
+1990-21.
 
 [[END OF PAGE 27]]
 
@@ -1277,9 +1123,13 @@ s.43
 
 (3) Where a child fails to give satisfactory reasons for his absence from school, the school attendance officer
 
-by the authority of the Government of Barbados School attendance officers. 1990-21.
+School attendance officers.
 
-THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael,
+1990-21.
+
+THE LAWS OF BARBADOS
+Printed by the Government Printer, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 
 [[END OF PAGE 28]]
 
@@ -1297,7 +1147,7 @@ s.44
 
 (b) shall report the absence of the child from school to the Chief Education Officer.
 
-(4) A school attendance officer shall enquire into every case of failure of a child of compulsory school age to attend school that the officer knows of, or when requested to do so by or on behalf of the Chief Education Officer or the Principal of a school.
+(4) A school attendance officer shall enquire into every case of failure of a child of compulsory school age to attend school that the officer knows of, or when requested to do so by or on behalf of the Chief Education Officer or the principal of a school.
 
 (5) A school attendance officer shall give to the parent of any child of compulsory school age who is not attending school as required
 
@@ -1412,7 +1262,7 @@ For the purposes of this Part, the Minister may establish such number of Loan Fu
 (d) any other moneys that are properly payable into the Fund.
 
 ##### 50.
-Loans may be made from any Fund established pursuant to section 48 Power to make loans.
+Loans may be made from any Fund established pursuant to section 48
 
 (a) to such persons;
 
@@ -1426,7 +1276,11 @@ Establishment of Loan Funds.
 
 Management of Loan Fund.
 
-THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael by the authority of the Government of Barbados
+Power to make loans.
+
+THE LAWS OF BARBADOS
+Printed by the Government Printer, Bay Street, St. Michael
+by the authority of the Government of Barbados
 
 [[END OF PAGE 31]]
 
@@ -1487,11 +1341,11 @@ s.53
 
 (3) For the purposes of this section, the Chief Education Officer may serve on the parent of any child of compulsory school age a notice requiring the parent to submit the child, on or before the time specified  in  the  notice,  for  examination  by  a  registered  medical practitioner  to  ascertain  whether  the  child  is  suffering  from  any disability of mind or body, and the nature and extent of the disability.
 
-Printed by the Government Printer, Bay Street, St. Michael by the authority of the Government of Barbados
-
 1990-21.
 
 THE LAWS OF BARBADOS
+Printed by the Government Printer, Bay Street, St. Michael
+by the authority of the Government of Barbados
 
 [[END OF PAGE 33]]
 
@@ -1501,39 +1355,41 @@ THE LAWS OF BARBADOS
 
 Education
 
-CAP.  41
+CAP. 41
 
 ss.54-55
 
-(4) Any  parent who  fails  to  comply with  a notice served under subsection (3)  is  guilty of  an  offence and is  liable on  summary conviction to a fine of $25, and in the case of a  continuing offence, to  a  fine  of  $10  for  each  day  or  part  thereof during which the  offence continues after  the  first  conviction.
+(4) Any parent who fails to comply with a notice served under subsection (3) is guilty of an offence and is liable on summary conviction to a fine of $25, and in the case of a continuing offence, to a fine of $10 for each day or part thereof during which the offence continues after the first conviction.
 
-(5) The Minister may provide such transport and other facilities as  he considers necessary to  enable children receiving special educational treatment to  attend school.
+(5) The Minister may provide such transport and other facilities as he considers necessary to enable children receiving special educational treatment to attend school.
+
+Conscience clause.
 
 ##### 54.
-(1) It  is  not  a condition of  admission or  attendance of  any pupil in  a public educational institution
+(1) It is not a condition of admission or attendance of any pupil in a public educational institution
 
-(a) that  he  must attend or  abstain from attending any  place of religious instruction or  worship,
+(a) that he must attend or abstain from attending any place of religious instruction or worship,
 
-(b) that he must, if his parent objects, attend any religious observances or  any instruction in  religious subjects at  an institution or  elsewhere, or
+(b) that he must, if his parent objects, attend any religious observances or any instruction in religious subjects at an institution or elsewhere, or
 
-(c) that  he  must attend an  institution on  any  day  specially set apart for  religious worship by  the  religious body to  which he  belongs.
+(c) that he must attend an institution on any day specially set apart for religious worship by the religious body to which he belongs.
 
-(2) Where the parent of any pupil attending a public educational institution requests that the pupil be excused from attendance at any religious observance or any instruction in religious subjects at  the institution or  elsewhere, then, until the request is  withdrawn, the  pupil is  excused from  attendance.
+(2) Where the parent of any pupil attending a public educational institution requests that the pupil be excused from attendance at any religious observance or any instruction in religious subjects at the institution or elsewhere, then, until the request is withdrawn, the pupil is excused from attendance.
+
+Parent-teacher associations.
 
 ##### 55.
-(1) Parents and teachers may, in accordance with regulations, form associations, to be  known as 'parent-teacher associations'.
+(1) Parents and teachers may, in accordance with regulations, form associations, to be known as “parent-teacher associations”.
 
-(2) The Minister may encourage and assist the  formation of parent-teacher associations.
+(2) The Minister may encourage and assist the formation of parent-teacher associations.
 
-(3) The  objects of  parent-teacher associations must  include the promotion of the interests of the school by bringing parents, members of the community, pupils and teachers into close co-operation.
+(3) The objects of parent-teacher associations must include the promotion of the interests of the school by bringing parents, members of the community, pupils and teachers into close co-operation.
 
-(4) Parent-teacher associations may, subject to this Act and the  regulations, make rules for  the  regulation and  control of  their business.
+(4) Parent-teacher associations may, subject to this Act and the regulations, make rules for the regulation and control of their business.
 
-THE  LAWS  OF BARBADOS
-
-Printed by the Government  pdnting Department, Bay Street, St. Michael, by the autbmity of the Government  of Barbados Constience &USC
-
-Parent~s~~ti.s Temporq or  perclosing of schools.
+THE LAWS OF BARBADOS
+Printed by the Government Printing Department, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 
 [[END OF PAGE 34]]
 
@@ -1541,36 +1397,39 @@ Parent~s~~ti.s Temporq or  perclosing of schools.
 
 ss.56-57
 
-CAP.  41
+CAP. 41
 
 Education
 
 L.R.O. 1991 30
 
-1990-21.
+Temporary or permanent closing of schools.
 
-Variation of  truits etc.  in  relaiion to endowed schools.
-
+##### 56.
 (1) Where
 
-(a) as  a  result of  the  total or  partial destruction by  hurricane, earthquake, fire  or  flood of  all  or  any  of  the  buildings used in  connection with  any  public educational institution,
+(a) as a result of the total or partial destruction by hurricane, earthquake, fire or flood of all or any of the buildings used in connection with any public educational institution,
 
-(b) as  a  result of  the  outbreak of  any  infectious or  contagious disease, or
+(b) as a result of the outbreak of any infectious or contagious disease, or
 
-(c) for  any  other  reason,
+(c) for any other reason,
 
-attendance at  any  public educational institution has  fallen to  such an extent that, in the opinion of the Minister justifies the temporary or  permanent closing of the institution, the Minister may, notwithstanding anything contained in this or any other enactment, direct that the institution be temporarily or permanently closed, as  the  case may  be,  and  the  institution shall, with  effect from  the  date  of  the  direction, be  closed.
+attendance at any public educational institution has fallen to such an extent that, in the opinion of the Minister justifies the temporary or permanent closing of the institution, the Minister may, notwithstanding anything contained in this or any other enactment, direct that the institution be temporarily or permanently closed, as the case may be, and the institution shall, with effect from the date of the direction, be closed.
 
-(2) The powers conferred by  this section are  in addition to, and  not  in  substitution for,  any  powers in  any  other  enactment.
+(2) The powers conferred by this section are in addition to, and not in substitution for, any powers in any other enactment.
 
-(3) Without affecting subsection (l), the Minister may delegate to  the Chief Education Officer the  power conferred on the  Minister by  that  subsection to  close a school temporarily.
+1990-21.
 
-(4) Notwithstanding subsections (1)  and  (3),  the  principal of  a school may,  in  an  emergency, where it  is  impractical to  obtain the prior approval of  the  Minister or  Chief  Education Officer, close a school temporarily and inform the Minister or Chief Education Officer as  soon  as practicable thereafter.
+(3) Without affecting subsection (1), the Minister may delegate to the Chief Education Officer the power conferred on the Minister by that subsection to close a school temporarily.
+
+(4) Notwithstanding subsections (1) and (3), the principal of a school may, in an emergency, where it is impractical to obtain the prior approval of the Minister or Chief Education Officer, close a school temporarily and inform the Minister or Chief Education Officer as soon as practicable thereafter.
+
+Variation of trusts etc. in relation to endowed schools.
 
 ##### 57.
-(1) Where the  Minister is  satisfied that the  trusts subject to  which any  endowed educational institution is  operated are  not conducive to  the  advancement of  education by  the  institution, he may  apply  to  the  High Court  for  a variation of  the  trusts.
+(1) Where the Minister is satisfied that the trusts subject to which any endowed educational institution is operated are not conducive to the advancement of education by the institution, he may apply to the High Court for a variation of the trusts.
 
-(2) The High Court may, where it  is  satisfied that the trusts referred to  in  subsection (1)  are  not  conducive to  the  advancement of  education, make such order for  the  variation of  the  trusts as  it considers appropriate.
+(2) The High Court may, where it is satisfied that the trusts referred to in subsection (1) are not conducive to the advancement of education, make such order for the variation of the trusts as it considers appropriate.
 
 [[END OF PAGE 35]]
 
@@ -1580,89 +1439,91 @@ attendance at  any  public educational institution has  fallen to  such an exten
 
 Education
 
-CAP.  41
+CAP. 41
 
 ss.58-59
 
-.
+(3) For the purpose of giving effect to any order made by the High Court pursuant to subsection (2), the Minister may establish a new scheme for the educational institution.
 
-(3) For  the  purpose of  giving effect to  any  order made by  the High Court pursuant to subsection (2), the Minister may establish a new  scheme for  the  educational institution.
+(4) The Minister shall submit a draft of every scheme to the High Court for approval, and if the scheme is approved, the Minister shall make an order incorporating the scheme, and the order must be published in the Official Gazette.
 
-(4) The Minister shall submit a  draft of  every scheme to  the High Court for approval, and if  the scheme is  approved, the Minister shall  make an  order incorporating the  scheme, and  the order must be  published in  the O_fficiuZ  Gazette.
-
-Wishesof as  is  ;'ceo;t' si&md  in education of  ofpup's.
+Wishes of parents to be considered in education of pupils.
 
 ##### 58.
-The Minister shall, in  the exercise of  his  functions under this Act, have regard to  the general principle, that, so  far compatible with the provision of efficient instruction and training and the avoidance of  unreasonable public expenditure, the wishes of  parents are to  be considered in  the education pupils.
+The Minister shall, in the exercise of his functions under this Act, have regard to the general principle, that, so far as is compatible with the provision of efficient instruction and training and the avoidance of unreasonable public expenditure, the wishes of parents are to be considered in the education of pupils.
+
+Regulations.
 
 ##### 59.
-(1) The Minister may  make regulations generally for the Regulaproper carrying out  of the  purposes of  this Act. tions.
+(1) The Minister may make regulations generally for the proper carrying out of the purposes of this Act.
 
-(2) Without limiting subsection (l), the Minister may make regulations
+(2) Without limiting subsection (1), the Minister may make regulations
 
-(a) respecting the  management and conduct of  public educational institutions and assisted private schools,
+(a) respecting the management and conduct of public educational institutions and assisted private schools,
 
-(b)' respecting the  functions of  the Boards of  Management of public educational institutions,
+(b)¹ respecting the functions of the Boards of Management of public educational institutions,
 
-(c) prescribing, subject to such exemptions as may be specified, the standards to  which the premises ofeducational institutions are  to  conform,
+(c) prescribing, subject to such exemptions as may be specified, the standards to which the premises of educational institutions are to conform,
 
-(d) respecting the purposes for  which the premises of  public educational institutions may  be  used,
+(d) respecting the purposes for which the premises of public educational institutions may be used,
 
 (e) prescribing
 
-(i) the classes of educational institutions to which financial or other assistance may be provided out of  moneys voted by  Parliament,
+(i) the classes of educational institutions to which financial or other assistance may be provided out of moneys voted by Parliament,
 
-(ii) the criteria to  be applied in  determining the assistance to be provided to any educational institution out of  the moneys mentioned in  sub-paragraph (l), and
+(ii) the criteria to be applied in determining the assistance to be provided to any educational institution out of the moneys mentioned in sub-paragraph (i), and
 
-> 1Paragraph(b)cameintooperationon31stMay,1%3byS.1. 1983171.
+¹ Paragraph (b) came into operation on 31st May, 1983 by S.I. 1983/71.
 
-THE  LAWS OF BARBADOS PrInted by the  Government Pllntlng Department, Bay  Street, St,  MIclud, by the authority of  the  Gowmmbnt of Barbados
+THE LAWS OF BARBADOS
+Printed by the Government Printing Department, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-s.59 CAP.  41
+s.59 CAP. 41
 
 Education
 
 L.R.O. 1985 32
 
+(iii) the conditions subject to which any such assistance is to be made,
+
 1984-35.
 
-(iii) the conditions subject to  which any such assistance is to  be  made,
+(f) respecting
 
-- w respecting
+(i) the admission or transfer of pupils to public educational institutions, and
 
-(i) the admission or  transfer of pupils to public educational institutions, and
+(ii) the qualifying examinations for admission,
 
-(ii) the  qualifying examinations for  admission,
+(g) respecting the discipline of pupils in public educational institutions, including the suspension or expulsion of pupils therefrom,
 
-(g) respecting the discipline of  pupils in public educational institutions, including the suspension or expulsion of pupils therefrom,
-
-(h) respecting the submission of  pupils in  public educational institutions to  medical or  dental inspection or  treatment,
+(h) respecting the submission of pupils in public educational institutions to medical or dental inspection or treatment,
 
 (i) respecting
 
-(i) the provision of  milk and meals to pupils in public educational institutions specified in  the regulations, and
+(i) the provision of milk and meals to pupils in public educational institutions specified in the regulations, and
 
-(ii) the conditions, including the charges, subject to which milk and meals are  to  be  provided,
+(ii) the conditions, including the charges, subject to which milk and meals are to be provided,
 
-- 0' ) specifying, in respect of  public educational institutions, the curriculum of study to be followed and the examinations to  be  taken by  pupils,
+(j) specifying, in respect of public educational institutions, the curriculum of study to be followed and the examinations to be taken by pupils,
 
 (k) respecting the admission of persons to teacher training colleges and the conditions, including bonds, of admission,
 
-(I) respecting the award of scholarships, exhibitions, bursaries and other financial assistance, including loans,
+(l) respecting the award of scholarships, exhibitions, bursaries and other financial assistance, including loans,
 
-(m)specifying the value and other conditions subject to which scholarships, exhibitions and bursaries may be held or  other financial assistance given,
+(m) specifying the value and other conditions subject to which scholarships, exhibitions and bursaries may be held or other financial assistance given,
 
 (n) respecting
 
 (i) the admission of candidates for scholarships and exhibitions, and
 
-(ii) the manner in which and the times at which examinations for scholarships and exhibitions are to be  held,
+(ii) the manner in which and the times at which examinations for scholarships and exhibitions are to be held,
 
-- respecting the particulars to  be  furnished to  the Minister under Part III by  the proprietors of  private schools and private educational institutions,
+(o) respecting the particulars to be furnished to the Minister under Part III by the proprietors of private schools and private educational institutions,
 
 [[END OF PAGE 37]]
 
@@ -1694,17 +1555,23 @@ s.59
 
 (x) respecting  the  operation  of  a  Test-book  Loan  Scheme  and  the conditions relating  to  the  loan  of  books  under  the  scheme;
 
-(y) requiring  the  evaluation  of  teachers  in  the  discharge  of  their duties  and  the  manner  in  which  the  evaluation  is  to  be conducted; 2002-9.
+(y) requiring the evaluation of teachers in the discharge of their duties and the manner in which the evaluation is to be conducted;
 
-(z) prescribing  anything  that  is  authorised  or  required  by  this  Act to be prescribed. 2002-9.
+(z) prescribing anything that is authorised or required by this Act to be prescribed.
 
-(3) Any regulations made under this section respecting paragraphs (a), (c), (d), (e), (f), (i), (l), (m), (n), (o), (p), (u), (v), and (y) of  subsection  (2)  are  subject  to  affirmative  resolution. 2002-9.
+(3) Any regulations made under this section respecting paragraphs (a), (c), (d), (e), (f), (i), (l), (m), (n), (o), (p), (u), (v), and (y) of subsection (2) are subject to affirmative resolution.
 
 (4) The regulations not mentioned in subsection (3) are subject to negative resolution.
 
-THE LAWS OF BARBADOS
+2002-9.
 
-Printed by the Government Printer, Bay Street, St. Michael by the authority of the Government of Barbados
+2002-9.
+
+2002-9.
+
+THE LAWS OF BARBADOS
+Printed by the Government Printer, Bay Street, St. Michael
+by the authority of the Government of Barbados
 
 [[END OF PAGE 38]]
 
@@ -1815,21 +1682,25 @@ ss.63-64
 
 (2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine of $500, or imprisonment for 6 months, or both.
 
-- For the purposes of this section, educational institution includes
+(3) For the purposes of this section, educational institution includes
 
 (a) a registered private school or registered private educational institution;
 
-(b) the  school  established  by  the Reformatory and Industrial Schools Act ; and 1990-21. Cap. 169.
+(b) the school established by the Reformatory and Industrial Schools Act; and
 
 (c) the playgrounds and premises of the school or institution.
 
 Offences relating to inspection.
 
-Disturbance of  schools.
+Disturbance of schools.
 
 1990-21.
 
 1990-21.
+
+1990-21.
+
+Cap. 169.
 
 THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael, by the authority of the Government of Barbados
 
@@ -1860,9 +1731,9 @@ Cap. 124A.
 
 "adult" does not include a pupil who has attained the age of 18 years.
 
-- This section applies to all schools.
+(2) This section applies to all schools.
 
-(3) Where a teacher of a school has reasonable grounds for believing that a pupil has in his possession any intoxicating liquor, controlled drug within the meaning of section 3 of the Drug Abuse (Prevention and Control) Act , gun within the meaning of the Firearms Act , offensive weapon within the meaning of the Control of Offensive Weapons Act , or any article that has been reported stolen the teacher may search the pupil's person and the pupil's property.
+(3) Where a teacher of a school has reasonable grounds for believing that a pupil has in his possession any intoxicating liquor, controlled drug within the meaning of section 3 of the Drug Abuse (Prevention and Control) Act, gun within the meaning of the Firearms Act, offensive weapon within the meaning of the Control of Offensive Weapons Act, or any article that has been reported stolen the teacher may search the pupil's person and the pupil's property.
 
 (4) Where upon a search carried out pursuant to subsection (1), the teacher finds any intoxicating liquor, controlled drug, gun, offensive weapon or any article that has been reported stolen on the person or in the possession of a pupil, the principal shall report forthwith the finding to
 
@@ -1874,7 +1745,7 @@ Cap. 124A.
 
 (d) the Board or Committee, as the case may be.
 
-- The search of
+(5) The search of
 
 (a) a pupil's person shall be conducted in the presence of an adult, other than the adult conducting the search; and
 
@@ -1886,7 +1757,7 @@ Cap. 124A.
 
 [[START OF PAGE 43]]
 
-36      L.R.O. 1997 A
+36A    L.R.O. 1997
 
 Education
 
@@ -1904,9 +1775,9 @@ s.64A
 
 (11) Whenever a search is carried out pursuant to this section by a teacher other than the principal, the principal shall, forthwith after the search, institute an inquiry into the circumstances relating to the search.
 
-- Any pupil who
+(12) Any pupil who
 
-(a) assaults,  obstructs  or  uses  insulting,  abusive  or  indecent language to a teacher carrying out or attempting to carry out a search under this section; or
+(a) assaults, obstructs or uses insulting, abusive or indecent language to a teacher carrying out or attempting to carry out a search under this section; or
 
 (b) is found in possession of any intoxicating liquor, controlled drug, gun, offensive weapon or any article that has been reported stolen
 
@@ -1926,7 +1797,7 @@ ss.64B-66
 
 Education
 
-L.R.O. 1997   36 B
+L.R.O. 1997   36B
 
 Damage to school property.
 
@@ -1943,32 +1814,32 @@ Appointment of certain teachers. 1984-35.
 Higher Education Loan Fund. Cap. 43.
 
 ##### 64B.
-(1) A pupil  who  wilfully  damages  or  destroys  school property or the property of any person lawfully on the school premises is guilty of an offence and liable on summary conviction to fine of $500, if he is under the age of 16 years, or, if he is 16 years of age or older, to such fine or to imprisonment for 3 months or both.
+(1) A pupil who wilfully damages or destroys school property or the property of any person lawfully on the school premises is guilty of an offence and liable on summary conviction to fine of $500, if he is under the age of 16 years, or, if he is 16 years of age or older, to such fine or to imprisonment for 3 months or both.
 
-(2) The Court before which a pupil referred to in subsection (1) is tried may, in accordance with section 120 of the Magistrates Jurisdiction  and  Procedure  Act ,  order  the  parent  of  that  pupil  to  pay compensation for the destruction or damage caused.
+(2) The Court before which a pupil referred to in subsection (1) is tried may, in accordance with section 120 of the Magistrates Jurisdiction and Procedure Act, order the parent of that pupil to pay compensation for the destruction or damage caused.
 
-(3) Section  12  of  the Juvenile  Offenders  Act applies, mutatis mutandis , to subsection (1); and references in that section to a child or young person shall be construed as references to a pupil not withstanding that a pupil is over the age of 16 years.
+(3) Section 12 of the Juvenile Offenders Act applies, mutatis mutandis, to subsection (1); and references in that section to a child or young person shall be construed as references to a pupil notwithstanding that a pupil is over the age of 16 years.
 
 (4) Without affecting subsection (2), nothing in this section or section 64A shall affect the application of the Juvenile Offenders Act to a pupil who is under the age of 16 years.
 
-##### 64C .
+##### 64C.
 A pupil who is convicted under section 64A or 64B shall, in addition to any penalty imposed on him or his parent, be ordered to undergo counselling and rehabilitation for such period not exceeding one year as the magistrate considers appropriate.
 
-##### 65 1 .
-(1) Where teachers who, immediately before 1st January, 1983 were employed by Governing Bodies, become public officers they shall continue to be employed on terms and conditions that are as favourable as  or  no  less  favourable  than  those  on  which  they  were  employed before 31st May, 1983.
+##### 65.¹
+(1) Where teachers who, immediately before 1st January, 1983 were employed by Governing Bodies, become public officers they shall continue to be employed on terms and conditions that are as favourable as or no less favourable than those on which they were employed before 31st May, 1983.
 
-(2) Teachers referred to in subsection (1) may not, without their consent in writing, be transferred from the school to which they were appointed  before  1st  January,  1983;  but  may  at  their  request  be transferred to another school.
+(2) Teachers referred to in subsection (1) may not, without their consent in writing, be transferred from the school to which they were appointed before 1st January, 1983; but may at their request be transferred to another school.
 
 ##### 66.
 (1) Subject to subsection (2), the Higher Education Loan Fund established by the Higher Education (Loan Fund) Act shall, for the purposes of this Part, be deemed to be a Fund established by the Minister pursuant to section 48.
 
-> 1 Section  65 came into operation on 31st May, 1983 by 1983/71.
+¹ Section 65 came into operation on 31st May, 1983 by 1983/71.
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
-36      L.R.O. 1997 C
+36C    L.R.O. 1997
 
 Education
 
@@ -1978,32 +1849,42 @@ ss.67-69
 
 (2) Notwithstanding the repeal by this Act of the Higher Education (Loan Fund) Act ,  the Higher Education Loan Fund continues to be administered in accordance with that Act.
 
-##### 67 1 .
+Repeal and savings.
+
+Cap. 41.
+
+Cap. 41A.
+
+Cap. 43.
+
+##### 67.¹
 (1) Subject to this section, the Education Acts and the Higher Education (Loan Fund) Act are repealed.
 
-(2) The repeal of the enactments specified in subsection (1) does not  affect  the  duration,  value  or  other  terms  of  any  scholarship, exhibition or bursary, awarded thereunder that has not expired or been terminated before 1st January, 1983.
+(2) The repeal of the enactments specified in subsection (1) does not affect the duration, value or other terms of any scholarship, exhibition or bursary, awarded thereunder that has not expired or been terminated before 1st January, 1983.
 
-(3) Without limiting section 30(3) of the Interpretation Act ,  all statutory instruments made under the enactments specified in subsection (1) continue in force, as far as they are in force at 1st January, 1983, and are not inconsistent therewith, and may be amended or revoked as if made under the corresponding provisions of this Act.
-
-(4) Without limiting the Interpretation Act , sections 21, 51(2) to (5), 55 and 56 of the Education Act and every scheme made under that Act and in force immediately before 1st January, 1983 continue in force until a new scheme or other provision is substituted for the scheme made under that Act.
-
-##### 68.
-For  the  avoidance  of  doubt  it  is  hereby  declared  that  the provisions  of  any  enactment  made  under  this  Act  respecting  the establishment of Boards of Management, management or control of secondary schools or otherwise relating to those schools have been substituted for the schemes referred to in section 67(4) with effect from the commencement of the enactment.
-
-##### 69.
-All  things  that  are  required  to  be  effected,  deemed  or empowered to be done by virtue of sections 23 to 26 shall be deemed to have been lawfully and validly effected or done, as the case may be, as from the dates specified in section 22; and Repeal and savings. Cap. 41. Cap. 41A. Cap. 43.
-
-> 1 Section  67  came into operation on 31st May, 1983 by 1983/71.
+(3) Without limiting section 30(3) of the Interpretation Act, all statutory instruments made under the enactments specified in subsection (1) continue in force, as far as they are in force at 1st January, 1983, and are not inconsistent therewith, and may be amended or revoked as if made under the corresponding provisions of this Act.
 
 Cap. 1.
 
-Cap. 1. Cap. 41.
+(4) Without limiting the Interpretation Act, sections 21, 51(2) to (5), 55 and 56 of the Education Act and every scheme made under that Act and in force immediately before 1st January, 1983 continue in force until a new scheme or other provision is substituted for the scheme made under that Act.
+
+Cap. 1.
+
+Cap. 41.
+
+¹ Section 67 came into operation on 31st May, 1983 by 1983/71.
 
 Removal of doubt.
 
 1984-35.
 
+##### 68.
+For the avoidance of doubt it is hereby declared that the provisions of any enactment made under this Act respecting the establishment of Boards of Management, management or control of secondary schools or otherwise relating to those schools have been substituted for the schemes referred to in section 67(4) with effect from the commencement of the enactment.
+
 Validation.
+
+##### 69.
+All things that are required to be effected, deemed or empowered to be done by virtue of sections 23 to 26 shall be deemed to have been lawfully and validly effected or done, as the case may be, as from the dates specified in section 22; and
 
 THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael, by the authority of the Government of Barbados
 
@@ -2015,37 +1896,53 @@ THE LAWS OF BARBADOS Printed by the Government Printer, Bay Street, St. Michael,
 
 Education
 
-CAP.  41
+CAP. 41
 
-any action taken or  thing done in  pursuance of  those sections with respect to any land, property, right, power, privilege, liability, asset, contract, civil proceeding, authority, endowment, and any  trust, gift  or  other disposition mentioned in  those sections shall  be  deemed to  have  been lawfully and validly taken and  done.
+any action taken or thing done in pursuance of those sections with respect to any land, property, right, power, privilege, liability, asset, contract, civil proceeding, authority, endowment, and any trust, gift or other disposition mentioned in those sections shall be deemed to have been lawfully and validly taken and done.
 
 ### FIRST SCHEDULE
 
-#### CONSTITUTION AND  PROCEDURE OF  THE NATIONAL ADVISORY COMMISSION ON  EDUCATION
-
-(1)  The  Commission comprises a  chairman, deputy chairman, and not Constitution. less  than 9,  nor more than 15  other members appointed by  the Minister.
-
-- In the appointment of  the members of  the Commission the Minister must ensure that the interests of  organisations of  the teaching profession, teachers unions and parent-teacher associations are  represented.
-
-- The appointment of  a  member of  the Commission is, subject to the renure. provisions of this Schedule, for a period not exceeding 3 years, but the member is  eligible for  re-appointment.
-
-- The Minister may at  any time revoke the appointment of  the  chairman Revocation. or  any  member of  the  Commission.
-
-- In the absence of a  member, or in case of his inability to act, the Temporary Minister may appoint any person to act temporarily in the place of that ;Wymember.
-
-(1) Any  member of  the Commission, other than the chairman, may at Resignaany time resign his office by instrument in writing addressed to the t&s. chairman, who must forthwith  forward the  instrument  to the  Minister;  and the  member ceases to  be-a member of  the Commission upon the date of  the receipt by  the  chairman of  the  instrument.
-
-- The chairman may at any time resign his office by instrument in writing addressed to  the Minister; and upon the date of  the receipt by the Minister of  the  instrument, the  chairman ceases to  be  a  member.
-
-- Any  member of  the  Commission wh6  fails without reasonable excuse-to attend 3  consecutive meetings of  the Commission ceases to  be a  member.
-
-f;FrfeiF bership.
-
 s.6(2).
 
-THE LAWS OF BARBADOS
+#### CONSTITUTION AND PROCEDURE OF THE NATIONAL ADVISORY COMMISSION ON EDUCATION
 
-Printed by the  Governmen Printing Department, Bay Street, St. Michael, by the ruthority of  the  Government of Bubadoa
+Constitution.
+
+##### 1.
+(1) The Commission comprises a chairman, deputy chairman, and not less than 9, nor more than 15 other members appointed by the Minister.
+
+(2) In the appointment of the members of the Commission the Minister must ensure that the interests of organisations of the teaching profession, teachers unions and parent-teacher associations are represented.
+
+Tenure.
+
+##### 2.
+The appointment of a member of the Commission is, subject to the provisions of this Schedule, for a period not exceeding 3 years, but the member is eligible for re-appointment.
+
+Revocation.
+
+##### 3.
+The Minister may at any time revoke the appointment of the chairman or any member of the Commission.
+
+Temporary appointments.
+
+##### 4.
+In the absence of a member, or in case of his inability to act, the Minister may appoint any person to act temporarily in the place of that member.
+
+Resignations.
+
+##### 5.
+(1) Any member of the Commission, other than the chairman, may at any time resign his office by instrument in writing addressed to the chairman, who must forthwith forward the instrument to the Minister; and the member ceases to be a member of the Commission upon the date of the receipt by the chairman of the instrument.
+
+(2) The chairman may at any time resign his office by instrument in writing addressed to the Minister; and upon the date of the receipt by the Minister of the instrument, the chairman ceases to be a member.
+
+Forfeiture of membership.
+
+##### 6.
+Any member of the Commission who fails without reasonable excuse to attend 3 consecutive meetings of the Commission ceases to be a member.
+
+THE LAWS OF BARBADOS
+Printed by the Government Printing Department, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 
 [[END OF PAGE 46]]
 
@@ -2053,66 +1950,71 @@ Printed by the  Governmen Printing Department, Bay Street, St. Michael, by the r
 
 1st Sch.
 
-CAP.  41
+CAP. 41
 
 Education
 
-L.R.O. 1985
+L.R.O. 1985 38
 
-38
+Filling of vacancies.
 
-Filling of
 ##### 7.
-A person appointed to fill a vacancy in the membership of the vacancies. Commission ^.
+A person appointed to fill a vacancy in the membership of the Commission
 
-(a) must be  from the  same  category of  persons as  the former member, and
+(a) must be from the same category of persons as the former member, and
 
--' (b) holds office only for  the  unexpired term of  the  former member.
+(b) holds office only for the unexpired term of the former member.
 
-Publication of  membership.
+Publication of membership.
 
-##### 8..
-The names of  all  members of  the Commission as  first constituted and any change in  the  membership of  the  Commission must be  published in the Official  Gazette. '
+##### 8.
+The names of all members of the Commission as first constituted and any change in the membership of the Commission must be published in the Official Gazette.
 
 Meetings.
 
-- The Commission shall meet at least 3  times in  each year
+##### 9.
+The Commission shall meet at least 3 times in each year
 
-(a) at  such times, and
+(a) at such times, and
 
-(b) at  such places,
+(b) at such places,
 
-as  the  Commission considers necessary or  expedient for  the  transaction of  the business of  the  Commission.
+as the Commission considers necessary or expedient for the transaction of the business of the Commission.
 
-Special
+Special meetings.
+
 ##### 10.
-The chairman may at any time call a special meeting of the Commeetings. mission; and must call a special meeting within 14 days of the receipt of  a  request for  that purpose addressed to  him in writing and signed by  an; 3 members of the  Commission.'
+The chairman may at any time call a special meeting of the Commission; and must call a special meeting within 14 days of the receipt of a request for that purpose addressed to him in writing and signed by any 3 members of the Commission.
 
-Presiding
+Presiding at meetings.
+
 ##### 11.
-The  chairman, or  in  his  absence the  deputy chairman, must preside at at meetings*  meetings of  the  Commission and in  the  absence of  both the  chairman and the deputy chairman, the members present and constituting a quorum must elect a  chairman from among their number to  preside at  that meeting.
+The chairman, or in his absence the deputy chairman, must preside at meetings of the Commission and in the absence of both the chairman and the deputy chairman, the members present and constituting a quorum must elect a chairman from among their number to preside at that meeting.
 
 Quorum.
+
 ##### 12.
-The quorum of  the  Commission at  any meeting is  the majority of  the ' total membership of  the  Commission.
+The quorum of the Commission at any meeting is the majority of the total membership of the Commission.
 
 Minutes.
 
-(1) Minutes of  each meeting are to be kept by the Secretary.
+##### 13.
+(1) Minutes of each meeting are to be kept by the Secretary.
 
-?' he Secretary must be  a  public officer designated by  the Minister.
+(2) The Secretary must be a public officer designated by the Minister.
 
-- A  certified copy of  the confirmed minutes of  each meeting must be forwarded to  the Minister within 14 days after the  meeting at  which they were confirmed.
+(3) A certified copy of the confirmed minutes of each meeting must be forwarded to the Minister within 14 days after the meeting at which they were confirmed.
 
-Right of Chief Education  Officer  to  attend meetings of Commission.
+Right of Chief Education Officer to attend meetings of Commission.
 
+##### 14.
 (1) The Chief Education Officer
 
-(a) may attend any meeting. of  the Commission or of any committee established by  the  Commission, or
+(a) may attend any meeting of the Commission or of any committee established by the Commission, or
 
-(b) may  be  represented at  any such meeting by  a  public officer authorised .by  the Chief Education Off~ckti.
+(b) may be represented at any such meeting by a public officer authorised by the Chief Education Officer.
 
-- The Chief Education officer or  his  representative may  take part in  the proceedings of  any  meeting at  which he  is  present; but is  not entitled to  vote.
+(2) The Chief Education Officer or his representative may take part in the proceedings of any meeting at which he is present; but is not entitled to vote.
 
 [[END OF PAGE 47]]
 
@@ -2122,57 +2024,65 @@ Right of Chief Education  Officer  to  attend meetings of Commission.
 
 Education
 
-cm. 41
+CAP. 41
 
-2ndSch.
+2nd Sch.
 
-- Subject to this Schedule, the Commission may regulate its own procedure; and may  delegate to  any of  its  members or  committees the  power and authority to  carry out on behalf of  the Commission such duties as the Commission determines.
+General power to regulate procedure and to delegate.
 
-General power  to ~$$' ~t; delegate.
+##### 15.
+Subject to this Schedule, the Commission may regulate its own procedure; and may delegate to any of its members or committees the power and authority to carry out on behalf of the Commission such duties as the Commission determines.
 
-- The chairman and other members of  the Commission are entitled to such remuneration and allowances as  the  Minister determines. .
+Remuneration and allowances.
 
-Remunera- tion  and _  allowances.
+##### 16.
+The chairman and other members of the Commission are entitled to such remuneration and allowances as the Minister determines.
 
-### SECOND SCHEDULE.'
+### SECOND SCHEDULE¹
 
 s.16(2)
 
-#### CONSTITUTION, PROCEDURE, AND  FUNCTIONS OF BOARDS OF  MANAGEMENT ESTABLISHED UNDER SECTION 16
+#### CONSTITUTION, PROCEDURE, AND FUNCTIONS OF BOARDS OF MANAGEMENT ESTABLISHED UNDER SECTION 16
 
-(1) A  Board of  Management comprises a  chairman, a  deputy chairman Constitution: and not less than 5, nor more than 7, other members appointed by the Minister by  instrument in  writing.
+Constitution.
 
-- In the appointment of the members of a  Board the Minister must ensure that the  following interests are  represented:
+##### 1.
+(1) A Board of Management comprises a chairman, a deputy chairman and not less than 5, nor more than 7, other members appointed by the Minister by instrument in writing.
 
-(a) interests of  the  teaching profession,
+(2) In the appointment of the members of a Board the Minister must ensure that the following interests are represented:
+
+(a) interests of the teaching profession,
 
 (b) other educational interests, and
 
 (c) such other interests, including religious interests, as he considers appropriate.
 
-- In this Schedule 'Board' means a  Board of  Management established under section 16.
+(3) In this Schedule “Board” means a Board of Management established under section 16.
 
-- A  person appointed to  fill  a  vacancy in  the  membership of  the  Board
+Temporary membership.
 
-*Temporary membership.
+##### 2.
+A person appointed to fill a vacancy in the membership of the Board
 
-(a) must be  from the  same category of  persons as  the former member, and
+(a) must be from the same category of persons as the former member, and
 
-(b) holds office for  the  unexpired term of  the  former member.
+(b) holds office for the unexpired term of the former member.
 
-- A person is  not qualified for  appointment as  a  member of  a  Board if  he is  employed by  the  Board.
+Disqualification for membership.
 
-Psqualificg $ion  for member- ,  ship.
+##### 3.
+A person is not qualified for appointment as a member of a Board if he is employed by the Board.
 
-(1) No member of' a Board may be appointed to any of&e or employment under that Board.
+Disqualification of members for certain offices.
 
-~~;~;lifica- members for  certain offices.
+##### 4.
+(1) No member of a Board may be appointed to any office or employment under that Board.
 
-> lThisSchedulecameintooperationon3lstMay. 1983byS.I. 1983/71.
+¹ This Schedule came into operation on 31st May, 1983 by S.I. 1983/71.
 
-THE  LAWS OF  BARBADOS
-
-Printed by the  Govsmment Prlntlng Dcprrtmcnt, Bay  Street. St.  Mlckcl, by the suthorlty of the  Government of Bubndor
+THE LAWS OF BARBADOS
+Printed by the Government Printing Department, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 
 [[END OF PAGE 48]]
 
@@ -2180,52 +2090,53 @@ Printed by the  Govsmment Prlntlng Dcprrtmcnt, Bay  Street. St.  Mlckcl, by the 
 
 2nd Sch.
 
-CAP.  41
+CAP. 41
 
 Education
 
-L.R.O. 1985
+L.R.O. 1985 40
 
-40
+(2) No person is, within 1 year from the date on which he last held or acted in the office of member of a Board, eligible for appointment to any office or employment under that Board.
 
 Tenure.
 
-- No person is, within 1  year from the date on which he last held or  acted in  the office of  member of  a  Board, eligible for appointment to  any office or  employment under that Board.
+##### 5.
+(1) Every member of a Board holds office for a term of 3 years, and is eligible for re-appointment.
 
-(1) Every member of  a  Board holds office for a  term of 3  years, and is  eligible for  re-appointment.
+(2) Any member of a Board who fails without reasonable excuse to attend 3 consecutive meetings of the Board ceases to be a member.
 
-- Any  member of  a  Board who  fails without reasonable excuse to  attend 3  consecutive meetings of  the Board ceases to  be  a  member.
+(3) The chairman may at any time resign his office by instrument in writing addressed to the Minister, and upon the date of the receipt by the Minister of the instrument, the chairman ceases to be a member.
 
-(3) The chairman may at any time resign his offtce by instrument in writing addressed t&the Minister, and upon the date of  the receipt by the h4inkr of  the  instrument, the  chairman ceases to  be  a  member.
+(4) A member of a Board, other than the chairman, may at any time resign his office by instrument in writing addressed to the Minister and transmitted through the chairman to the Minister, and upon the date of the receipt by the Minister of the instrument the member ceases to be a member.
 
-(4) A  member of a Board, other than the chairman, may at any time resign his offke by instrument in writing addressed to the Minister and transmitted through the  chairman to  the Minister, and upon the date of  the receipt by  the  Minister of  the  instrument the  member ceases to  be  a  member.
+Leave of absence.
 
-Leave  of
 ##### 6.
-The Mister may  grant leave of  absence to  the chairman or  any other absence. member of  a  Board.
+The Minister may grant leave of absence to the chairman or any other member of a Board.
 
 Authentication of seal and documents.
 
-Meetings..
-
 ##### 7.
-(1) The seal of  a  Board must be authenticated by  the signature of  the chairman or  deputy chairman.
+(1) The seal of a Board must be authenticated by the signature of the chairman or deputy chairman.
 
-- j (2) All documents, other than those required by law to be under seal, made by,  and all  decisions of,  a  Board may  be  signified under the  hand of  the chairman or  deputy chairman or  any  member of  the Board authorised to  act in  that behalf.
+(2) All documents, other than those required by law to be under seal, made by, and all decisions of, a Board may be signified under the hand of the chairman or deputy chairman or any member of the Board authorised to act in that behalf.
 
-(1) A  Board shall meet at  least once in  each school term and
+Meetings.
 
-(a) at  such other times, and
+##### 8.
+(1) A Board shall meet at least once in each school term and
 
-(b) at  such places,
+(a) at such other times, and
 
-as the Board considers necessary or expedient for the transaction of the business of  the  Board.
+(b) at such places,
 
-- The chairman may, at  any time, call a  meeting of  a  Board, and must call a  meeting within 14  days
+as the Board considers necessary or expedient for the transaction of the business of the Board.
 
-(a) of  a  request for that purpose addressed to  him in writing and signed by  any 3  members.of the Board, or
+(2) The chairman may, at any time, call a meeting of a Board, and must call a meeting within 14 days
 
-(b) of  a  direction to that effect addressed to  him in writing and signed by  the  Minister.
+(a) of a request for that purpose addressed to him in writing and signed by any 3 members of the Board, or
+
+(b) of a direction to that effect addressed to him in writing and signed by the Minister.
 
 [[END OF PAGE 49]]
 
@@ -2235,46 +2146,56 @@ as the Board considers necessary or expedient for the transaction of the busines
 
 Education
 
-CAP.  41
+CAP. 41
 
-(3) The chairman, or  in  his  absence the  deputy chairman, must preside at meetings of  the  Board.
+(3) The chairman, or in his absence the deputy chairman, must preside at meetings of the Board.
 
-(4) In the  absence of  the  chairman or  deputy chairman, or  in the  case of the inability to  act of  the  chairman or  deputy chairman, the  members of the Board present and  constituting a  quorum must  elect 1 of  their  number to  preside at  that  meeting.
+(4) In the absence of the chairman or deputy chairman, or in the case of the inability to act of the chairman or deputy chairman, the members of the Board present and constituting a quorum must elect 1 of their number to preside at that meeting.
+
+Quorum.
 
 ##### 9.
-The quorum of a Board at any meeting is the majority of the total Quorum. membership of  the  Board.
+The quorum of a Board at any meeting is the majority of the total membership of the Board.
+
+Decisions.
 
 ##### 10.
-The  decisions of  a  Board are  to  be  by  a  majority of  the  votes; and  in  any Decisions. case in which the voting is equal, the chairman, deputy chairman or other member presiding at  the  meeting has, in  addition to  an original vote, a  second or  casting vote.
+The decisions of a Board are to be by a majority of the votes; and in any case in which the voting is equal, the chairman, deputy chairman or other member presiding at the meeting has, in addition to an original vote, a second or casting vote.
 
-(1) Minutes of  each meeting must be kept by the Secretary or  such Minutes. person as  the Board appoints for the  purpose; and must be  confirmed by the chairman or  deputy chairman at  the  next  meeting of  the  Board.
+Minutes.
 
-(2) A copy of the unconfirmed minutes of each meeting must be 1990-21. forwarded to  the  Minister within 14 days  after the  meeting to  which they  relate.
+##### 11.
+(1) Minutes of each meeting must be kept by the Secretary or such person as the Board appoints for the purpose; and must be confirmed by the chairman or deputy chairman at the next meeting of the Board.
 
-(3) A  certified copy of  the  confirmed minutes of  each meeting must be forwarded to  the  Minister within 14  days after the  meeting at  which they  were confirmed.
+(2) A copy of the unconfirmed minutes of each meeting must be forwarded to the Minister within 14 days after the meeting to which they relate.
 
-(1) The  Chief Education Officer
+1990-21.
 
-(4 may  attend any  meeting of  a  Board or  of  a  committee or  subcommittee established by  the  Board, or
+(3) A certified copy of the confirmed minutes of each meeting must be forwarded to the Minister within 14 days after the meeting at which they were confirmed.
 
-(b) may  be  represented at  any such  meeting by  a  public officer authorised by  the  Chief Education Officer.
+Chief Education Officer entitled to attend or to be represented at meetings of Boards.
 
-- The  Chief Education Officer or  his  representative may  take  part  in  the proceedings of  any  meeting at  which he  is  present; but  is  not  entitled to  vote.
+##### 12.
+(1) The Chief Education Officer
+
+(a) may attend any meeting of a Board or of a committee or subcommittee established by the Board, or
+
+(b) may be represented at any such meeting by a public officer authorised by the Chief Education Officer.
+
+(2) The Chief Education Officer or his representative may take part in the proceedings of any meeting at which he is present; but is not entitled to vote.
+
+Appointment of committees.
 
 ##### 13.
-(1) A  Board may appoint a  committee for  any of  the  purposes of  the Board; and may delegate any of its functions to such a  committee with or without restrictions or  conditions.
+(1) A Board may appoint a committee for any of the purposes of the Board; and may delegate any of its functions to such a committee with or without restrictions or conditions.
 
-(2) The  number of  members of  a  committee appointed under this section and  their term  of  office must  be  fixed  by  the  Board.
+(2) The number of members of a committee appointed under this section and their term of office must be fixed by the Board.
 
-(3) A  committee appointed under this  paragraph may  include persons who are  not  members of  the  Board, but the  chairman and at  least two  thirds of  the members of  every committee must be  members of  the  Board.
-
-Chief  Education  Officer entitled to attend  or to  be  represent4 at meetings of  Boards.
-
-Appointme*tof committees.
+(3) A committee appointed under this paragraph may include persons who are not members of the Board, but the chairman and at least two thirds of the members of every committee must be members of the Board.
 
 THE LAWS OF BARBADOS
-
-Printed  by the Government F' rinting  Dqwbnmt. Bay Stmzt, St. Michael, by rhe  authority  of the Government of Barbados
+Printed by the Government Printing Department, Bay Street, St. Michael,
+by the authority of the Government of Barbados
 
 [[END OF PAGE 50]]
 
@@ -2286,33 +2207,42 @@ Education
 
 L.R.O. 1991 42
 
-Remuneration  and other  conditions  of service.
+(4) Any committee appointed by a Board under this paragraph may, subject to any restrictions imposed by the Board, appoint sub-committees.
 
-Notification of  membership.
+(5) Any sub-committee appointed under sub-paragraph (4) must be constituted in such manner as, subject to any restrictions imposed by the Board, the committee determines.
 
-ss.23  &  65.
+(6) The chairman and at least two thirds of the members of every sub-committee must be members of the Board.
 
-(4) Any committee appointed by a Board under this paragraph may, subject to  any restrictions imposed by  the  Board, appoint subcommittees.
+(7) Subject to any restrictions imposed by the Board, where a committee pursuant to sub-paragraph (4) appoints a sub-committee the committee may delegate to the sub-committee, with or without such restrictions or conditions, any of its functions.
 
-(5) Any sub-committee appointed under sub-paragraph (4) must be constituted in  such  manner as,  subject to  any restrictions imposed by  the  Board, the  committee determines.
+Remuneration and other conditions of service.
 
-(6) The chairman and at  least two  thirds of  the  members of  every subcommittee must  be  members of  the  Board.
+##### 14.
+The chairman, deputy chairman and other members of a Board
 
-(7) Subject to  any restrictions imposed by the  Board, where a  committee pursuant to  sub-paragraph (4) appoints a  sub-committee the committee may delegate to  the  sub-committee, with or  without such restrictions or  conditions, any  of  its  functions.
+(a) are entitled to such remuneration and other allowances, and
 
-- The  chairman, deputy chairman and  other  members of  a  Board
+(b) hold office on such terms and conditions, other than those specified in this Schedule,
 
-(a) are  entitled to  such  remuneration and  other  allowances, and
+as the Minister determines.
 
-(b) hold office on  such terms and  conditions, other than those specified in this  Schedule,
-
-as  the  Minister determines.
+Notification of membership.
 
 ##### 15.
-The  membership of  a  Board as  first  constituted and  any changes therein must  be  published in the Official Gazette.
+The membership of a Board as first constituted and any changes therein must be published in the Official Gazette.
+
+ss.23 & 65.
 
 ### THIRD SCHEDULE
 
-Alexandra School Alleyne School Christ Church Foundation School Coleridge and  Parry School Combermere School Harrison  College Queen' s College The  St.  Michael School The  Lodge School
+Alexandra School
+Alleyne School
+Christ Church Foundation School
+Coleridge and Parry School
+Combermere School
+Harrison College
+Queen’s College
+The St. Michael School
+The Lodge School
 
 [[END OF PAGE 51]]
