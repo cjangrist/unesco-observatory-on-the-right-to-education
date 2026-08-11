@@ -26,7 +26,7 @@ To enhance the life options of the urban working children and adolescents to acc
 
 a) | Original | : Approved
 --- | --- | --- | --- | ---
-b) | : | Revised
+b) | Revised | :
 ## 4. | Implementation Period: Original Revised
 a) | Date of Commencement : July 2004 | July 2004
 b) | Date of Completion : July 2009 | April 2012
