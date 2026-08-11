@@ -2,6 +2,11 @@
 
 Brainse an Iarbhunoideachais. An Roinn Oideachais agus Eolaíochta, Bóthar Phort Laoise, An Tulach Mhór, Co. Uíbh Fhailí.
 
+AN ROINN OIDEACHAIS AGUS EOLAÍOCHTA
+DEPARTMENT OF EDUCATION AND SCIENCE
+
+Post-Primary Administration, Department of Education and Science, Portlaoise Road, Tullamore, Co. Offaly.
+
 # DEPARTMENT OF EDUCATION
 
 ## POST-PRIMARY BRANCH
@@ -15,11 +20,11 @@ Following discussions which he has had with representatives of Teacher and Manag
 
 Management Authorities of
 
-- Secondary Schools recognised under the Rules and Programmes for Secondary Schools.
+(1) Secondary Schools recognised under the Rules and Programmes for Secondary Schools.
 
-- Comprehensive and Community Schools.
+(2) Comprehensive and Community Schools.
 
-- Schools administered in accordance with the provisions of the Vocational Education Acts 1930-1970.
+(3) Schools administered in accordance with the provisions of the Vocational Education Acts 1930-1970.
 
 Should take measures to ensure that corporal punishment will not be administered to pupils in their schools.
 
@@ -30,7 +35,5 @@ You are requested to bring this Circular to the notice of all teachers in your s
 L. Ó LAIDHIN, RÚNAÍ
 
 Eanáir, 1982
-
-Post-Primary Administration, Department of Education and Science, Portlaoise Road, Tullamore, Co. Offaly.
 
 [[END OF PAGE 1]]
