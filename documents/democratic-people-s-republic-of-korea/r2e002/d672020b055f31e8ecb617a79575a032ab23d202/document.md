@@ -378,7 +378,7 @@ The buildings and establishments, which the person with disability uses, should 
 
 ### ARTICLE 48
 
-The traffic and transport institutions, service centers and communication institution  institutions  should  provide  convenience  to  the  person  with disability in their usage of traffic means, service facilities and communications, and give him/her a kind preferential treatment.
+The traffic and transport institutions, service centers and communication institution institutions should provide convenience to the person with
 
 Democratic People's Republic of Korea
 
@@ -390,7 +390,9 @@ Democratic People's Republic of Korea
 
 Law on the Protection of the Person with Disability
 
-The  person  with  disability  who  lost  or  has  severe  limitation  of  the independent ability like the blind can use the transportation means like bus and boat in the city free of charge.
+disability in their usage of traffic means, service facilities and communications, and give him/her a kind preferential treatment.
+
+The person with disability who lost or has severe limitation of the independent ability like the blind can use the transportation means like bus and boat in the city free of charge.
 
 ### ARTICLE 49
 
