@@ -27,7 +27,7 @@ Para fins desde Decreto, consideram-se profissionais da educação básica as tr
 ##### § 2º
 O disposto no caput será executado na forma estabelecida pelos art. 61 a art. 67 da Lei nº 9.394, de 1996, e abrangerá as diferentes etapas e modalidades da educação básica.
 
-##### § 3  o
+##### § 3º
 O Ministério da Educação, ao coordenar a Política Nacional de Formação dos Profissionais da Educação Básica, deverá assegurar sua coerência com:
 
 - I - as Diretrizes Nacionais do Conselho Nacional de Educação - CNE;
@@ -312,7 +312,7 @@ Serão  fortalecidas  as  funções  de  avaliação,  regulação  e  supervis�
 O  Sinaes,  instituído  pela  Lei  nº  10.861,  de  2004  ,  preverá  regime  especial  para  avaliação  das licenciaturas, inclusive no que diz respeito ao Exame Nacional de Desempenho dos Estudantes - Enade.
 
 #### Art.  16.
-A  Coordenação Nacional de Aperfeiçoamento de Pessoal de Nível Superior - Capes fomentará a pesquisa aplicada  nas  licenciaturas  e  nos  programas  de  pós-graduação,  destinada  à  investigação  dos  processos  de  ensinoaprendizagem e ao desenvolvimento da didática específica.
+A  Coordenação Nacional de Aperfeiçoamento de Pessoal de Nível Superior - Capes fomentará a pesquisa aplicada  nas  licenciaturas  e  nos  programas  de  pós-graduação,  destinada  à  investigação  dos  processos  de  ensino-aprendizagem e ao desenvolvimento da didática específica.
 
 #### Art.  17.
 O  Ministério  da  Educação  coordenará  a  realização  de  prova  nacional  para  docentes  para  subsidiar  os Estados,  o  Distrito  Federal  e  os  Municípios,  mediante  adesão,  na  realização  de  concursos  públicos  de  admissão  de profissionais do magistério da educação básica pública, de maneira a harmonizar a conclusão da formação inicial com o início do exercício profissional.
