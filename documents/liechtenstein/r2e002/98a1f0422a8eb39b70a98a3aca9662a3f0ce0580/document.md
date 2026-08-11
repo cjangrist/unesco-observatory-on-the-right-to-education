@@ -1423,9 +1423,12 @@ Berufsbildungsgesetz (BBG)
 
 Dieses Gesetz tritt unter Vorbehalt des ungenutzten Ablaufs der Referendumsfrist am 1. August 2008 in Kraft, andernfalls am Tage der Kundmachung.
 
-In Stellvertretung des Landesfürsten: gez. Alois Erbprinz
+In Stellvertretung des Landesfürsten:
+gez. Alois
+Erbprinz
 
-gez. Otmar Hasler Fürstlicher Regierungschef
+gez. Otmar Hasler
+Fürstlicher Regierungschef
 
 36
 
