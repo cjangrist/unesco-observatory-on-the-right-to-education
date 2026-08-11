@@ -28,17 +28,17 @@ La Confédération peut créer une agence nationale pour l'accompagnement de la 
 
 1  La Confédération peut:
 
-- verser des contributions pour la participation aux programmes d'éducation, de formation professionnelle et de jeunesse de l'Union européenne;
+- a. verser des contributions pour la participation aux programmes d'éducation, de formation professionnelle et de jeunesse de l'Union européenne;
 
-- financer des mesures d'accompagnement pour la mise en œuvre de la participation visée à la let. a;
+- b. financer des mesures d'accompagnement pour la mise en œuvre de la participation visée à la let. a;
 
 RO 2000 310
 
 - 1 RS 101
 
-- 3 Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1 er  janv. 2008 (RO 2008 309; FF 2007 1149).
-
 - 2 FF 1999 271
+
+- 3 Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1 er  janv. 2008 (RO 2008 309; FF 2007 1149).
 
 - 4 Introduit par le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1 er  janv. 2004 (RO 2004 445 446; FF 2003 2067).
 
@@ -54,7 +54,7 @@ RO 2000 310
 
 Haute école
 
-- octroyer des bourses à des personnes effectuant leurs études dans des institutions européennes.
+- c. octroyer des bourses à des personnes effectuant leurs études dans des institutions européennes.
 
 2  Le Conseil fédéral fixe les critères de calcul des contributions et règle la procédure.
 
@@ -76,9 +76,9 @@ L'Assemblée  fédérale  vote  les  crédits  d'engagement  nécessaires  par  
 
 > 6 [RO 1991 1972, 1995 1443]
 
-> 8 Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1 er  janv. 2008 (RO 2008 309; FF 2007 1149).
-
 > 7 Introduit par le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1 er  janv. 2004 (RO 2004 445 446; FF 2003 2067).
+
+> 8 Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1 er  janv. 2008 (RO 2008 309; FF 2007 1149).
 
 2
 
