@@ -1,6 +1,9 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+The Ministry of Education
+STRATEGIC PLAN
+2007-2011
+BRUNEI DARUSSALAM
 
 [[END OF PAGE 1]]
 
@@ -12,13 +15,38 @@
 
 All rights reserved. No part of this publication may be reproduced, stored in  a retrieval system, or transmitted in any form or any means, electronic, mechanical, photocopying, recording or otherwise, without the prior permission, in writing, from the copyright owner.
 
+i
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-## TABLE OF CONTENTS TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 Page
+
+TITLE PAGE i
+TABLE OF CONTENTS 1
+Message from The Minister of Education 2
+Foreword by The Permanent Secretary 3
+INTRODUCTION 4
+VISION AND MISSION 5
+THE CURRENT SITUATION 7
+Statistics and Benchmarks
+CASE FOR CHANGE 10
+- Quality education as main provider of quality manpower
+- Alignment to National Development Plan
+- Impacts of Globalisation
+Ministry of Education Strategy Map 12
+THE WAY FORWARD 13
+Strategic Themes
+- Theme I: Professional, Accountable and Efficient Organisation
+- Theme II: Quality Education
+- Theme III: Teaching and Learning Excellence
+IMPLEMENTATION OF MISSION AND VISION 15
+Ministry of Education Strategic Objectives and Key Initiatives
+Ministry of Education Key Performance Indicators
+ACKNOWLEDGEMENT 20
 
 1
 
@@ -30,7 +58,7 @@ Page
 
 Assalamualaikum Warahmatullahi Wabarakatuh
 
-I t gives me great pleasure to write the foreword for the Ministry of Education Strategic Plan Book.
+It gives me great pleasure to write the foreword for the Ministry of Education Strategic Plan Book.
 
 Let me begin by reiterating that the Ministry's commitment is towards excellence. I see this as not only an aspiration; but also imperative in view of the current climate of rapid change and increasing competition in the education environment.  Faced with the challenges to provide and maintain relevancy to the country's manpower needs, the ministry requires a clear mission and to commit itself to pursuing that mission to fruition.  The means to fulfill this mission are outlined as a Strategic Plan in this book.
 
@@ -58,7 +86,7 @@ HAJI ABDUL RAHMAN TAIB [ Pehin Orang Kaya Seri Lela ] MINISTER OF EDUCATION
 
 ## Foreword by The Permanent Secretary
 
-I t is a pleasure for me, to present to you all, the Ministry of Education's strategic plan for the  period  2007  to  2011.  The  five  year  Strategic  Plan  outlines  how  we  are  revitalizing and re-energizing the education system to ensure that our students receive the best quality education required to succeed in the future.
+It is a pleasure for me, to present to you all, the Ministry of Education's strategic plan for the period 2007 to 2011. The five year Strategic Plan outlines how we are revitalizing and re-energizing the education system to ensure that our students receive the best quality education required to succeed in the future.
 
 The three broad strategic themes of 'Professional, Accountable and Efficient Organization, Teaching and Learning Excellence, and Quality Education' exemplify the ministry's pledge to the provision and development of high quality educational services both for now, and in the future.
 
@@ -80,7 +108,7 @@ Dato Paduka Haji Sheikh Adnan bin Sheikh Mohamad Permanent Secretary Ministry of
 
 ## INTRODUCTION
 
-T he Ministry of Education is committed to improving and ensuring  a  better  future  for  the  younger  generations, and  has  made  substantial  efforts  to  review  and  improve its  educational  services.  A  working  group  headed  by  the Permanent  Secretary  was  formed  to  develop  a  strategic plan covering the period from 2007 to 2011, outlining the direction which the Ministry should follow during this 5-year period. The Ministry of Education's strategy is designed to be in alignment with the various strategies formulated by other ministries of His Majesty's Government.
+The Ministry of Education is committed to improving and ensuring a better future for the younger generations, and has made substantial efforts to review and improve its educational services. A working group headed by the Permanent Secretary was formed to develop a strategic plan covering the period from 2007 to 2011, outlining the direction which the Ministry should follow during this 5-year period. The Ministry of Education's strategy is designed to be in alignment with the various strategies formulated by other ministries of His Majesty's Government.
 
 In  formulating  the  Ministry  of  Education's  strategic  plan, the  following  fundamental  issues  have  been  taken  into consideration:
 
@@ -102,15 +130,15 @@ In  formulating  the  Ministry  of  Education's  strategic  plan, the  following
 
 - The framework for implementation and the evaluation process
 
-The Strategic Plan 2007 - 2011 provides a broad strategy framework for a range of internal and external plans which contributes to the education service in Brunei Darussalam. It is a contextual framework for development to be undertaken
+The Strategic Plan 2007 – 2011 provides a broad strategy framework for a range of internal and external plans which contributes to the education service in Brunei Darussalam. It is a contextual framework for development to be undertaken by the Ministry of Education in order to provide and develop high quality education services for the future of the nation.
 
-4
-
-by the Ministry of Education in order to provide and develop high quality education services for the future of the nation. This Strategic Plan also serves as a communication tool in raising  awareness  for  the  stakeholders.  It  brings  together the key priorities of the Ministry in developing and promoting quality,  effectiveness  and  efficiency  in  the  services  it  provides. It  also  provides  a  platform  for  departments  to  align  and synchronize their plans, thereby ensuring focused attention on key national priorities.
+This Strategic Plan also serves as a communication tool in raising awareness for the stakeholders. It brings together the key priorities of the Ministry in developing and promoting quality, effectiveness and efficiency in the services it provides. It also provides a platform for departments to align and synchronize their plans, thereby ensuring focused attention on key national priorities.
 
 The plan aims to illustrate the relationship between the vision, mission, objective and outcome statements of the Ministry of Education. This is to ensure that a clear and consistent message is conveyed concerning the Ministry of Education's purpose, role and functions.
 
 The document is important as a statement of public intent and commitment by the Minister of Education and his staff to the provision and development of high quality educational services, now and for the future. It highlights the efforts of the Ministry of Education alongside that of other Ministries in contributing to the National Development Plan.
+
+4
 
 [[END OF PAGE 6]]
 
@@ -118,7 +146,7 @@ The document is important as a statement of public intent and commitment by the 
 
 ## VISION AND MISSION
 
-T he revised Vision and Mission Statements of the Ministry of Education were the impetus for change. These revisions provided the foundations for strategic planning and helped establish priorities. The revised Vision, Mission and Strategic issues of the Ministry of Education are outlined below:
+The revised Vision and Mission Statements of the Ministry of Education were the impetus for change. These revisions provided the foundations for strategic planning and helped establish priorities. The revised Vision, Mission and Strategic issues of the Ministry of Education are outlined below:
 
 ### VISION:
 
@@ -130,11 +158,7 @@ A Quality Education seeks to develop and equip our children morally,  intellectu
 
 The  Ministry  of  Education  is  committed  to  providing  an educational system that prepares young people for future adult roles as capable, creative, thinking citizens who can contribute  to  and  benefit  their  families,  community,  and society.
 
-The Ministry of Education recognizes that growing globalisation, together with increased sensitivity to national, regional and cultural issues affects the individual and group identity, places fresh demands upon the education system and  is  challenging  assumptions  about  the  purpose  and functions  of  education.  Issues  concerning  the  quality  of
-
-5
-
-education must embrace these developments. Education is  hence the cornerstone of a prosperous nation within which societies are built, based on peace, equality, and democratic practice.
+The Ministry of Education recognizes that growing globalisation, together with increased sensitivity to national, regional and cultural issues affects the individual and group identity, places fresh demands upon the education system and is challenging assumptions about the purpose and functions of education. Issues concerning the quality of education must embrace these developments. Education is hence the cornerstone of a prosperous nation within which societies are built, based on peace, equality, and democratic practice.
 
 The Ministry of Education is committed to developing and providing quality education for our stakeholders, which has the following characteristics:
 
@@ -144,11 +168,13 @@ The Ministry of Education is committed to developing and providing quality educa
 
 - Quality education that produces team players, caring individuals, good communicators, accountable and responsible citizens.
 
-- Quality education that produces an education system  of  international  standard,  which  fosters valuable  and  marketable  skills,  and  encourages  a life-long learning orientation that will contribute to a harmonious and politically stable society.
+- Quality education that produces an education system of international standard, which fosters valuable and marketable skills, and encourages a life-long learning orientation that will contribute to a harmonious and politically stable society.
 
-- Quality  education  that  sets  the  basis  for  a  knowledgebased economy.
+- Quality education that sets the basis for a knowledge-based economy.
 
-- Quality  education  in  which  our  students'  learning attainments are comparable with international standards.
+- Quality education in which our students' learning attainments are comparable with international standards.
+
+5
 
 [[END OF PAGE 7]]
 
@@ -223,8 +249,6 @@ The areas to be strengthened include:
 
 - Review and development of the curriculum
 
-7
-
 Associated pull factors include:
 
 - Brunei as an Education Hub
@@ -237,7 +261,9 @@ Associated pull factors include:
 
 - Collaboration and partnership with private sectors
 
-- The  generation  of  income  and  goodwill  from  current assets
+- The generation of income and goodwill from current assets
+
+7
 
 [[END OF PAGE 9]]
 
@@ -245,255 +271,59 @@ Associated pull factors include:
 
 ### Statistics and Benchmarks
 
-1.
+#### 1. Human Development Index
 
-2.
+This is a composite index developed by the United Nations Development Program based on three indicators: longevity, as measured by life expectancy at birth; educational attainment, as measured by adult literacy and total primary, secondary and tertiary enrolment ratios; and standard of living, as measured by GDP per capita. The Human Development Report 2005 indicates that Brunei Darussalam is in the high HDI level with an HDI of 0.8766 and ranks 33 out of 177 countries. [UNDP Human Development Report 2005]
 
-Human Development Index
+#### 2. Teacher-Student Ratio
 
-Statistics and Benchmarks This is a composite index developed by the United Nations Development Program based on three indicators:
+| | 2003 | 2004 | 2005 |
+|---|---|---|---|
+| Schools | 249 | 252 | 254 |
+| Teachers | 8671 | 9534 | 10191 |
+| Students | 103409 | 106483 | 107946 |
 
-longevity, as measured by life
+Ratio of Students to a Teacher
 
-#### 1.	 Human Development Index
+| | 2003 | 2004 | 2005 |
+|---|---|---|---|
+| Kindergarten and Primary | 12 | 12 | 11 |
+| Secondary | 13 | 11 | 11 |
+| Nursing/Vocational/Technical | 6 | 6 | 6 |
+| Institut Teknologi Brunei | 4 | 5 | 5 |
+| Universiti Brunei Darussalam | 11 | 10 | 10 |
 
-expectancy at birth;
-
-This  is  a  composite  index  developed  by  the  United Nations Development Program based on three indicators: longevity,  as  measured  by  life  expectancy  at  birth; educational attainment, as measured by adult literacy and total  primary,  secondary  and  tertiary  enrolment  ratios; and standard of living, as measured by GDP per capita. The  Human  Development  Report  2005  indicates  that Brunei Darussalam is in the high HDI level with an HDI of 0.8766 and ranks 33 out of 177 countries. [UNDP Human Development Report 2005] educational attainment, as measured by adult literacy and total primary, secondary and tertiary enrolment ratios; and standard of living, as measured by GDP per capita. The Human Development Report 2005 indicates that Brunei Darussalam is in the high HDI level with an HDI of 0.8766 and ranks 33 out of 177 countries. [UNDP Human Development Report 2005, http: // hdr.undp.org /statistics/data/country_fact_sheets/cty_fs_BRN.html]
-
-#### 2.	 Teacher-Student Ratio
-
-Teacher-Student Ratio
-
-2003 | 2004 | 2005
---- | --- | --- | ---
-Schools | 249 | 252 | 254
-Teachers | 8671 | 9534 | 10191
-Students | 103409 | 106483 | 107946
-Ratio of Students to a Teacher | 2003 | 2004 | 2005
-Kindergarten and Primary | 12 | 12 | 11
-Secondary | 13 | 11 | 11
-Nursing/Vocational/Technical | 6 | 6 | 6
-Institut Teknologi Brunei | 4 | 5 | 5
-Universiti Brunei Darussalam | 11 | 10 | 10
-
-9
-
-#### 3.	 Public Examination Results 3. Public Examination Results
-
-3.
-
-76.1
-
-79.8
-
-77.3
-
-74.7
-
-74.2
-
-76.4
-
-71.0
-
-72.0
-
-73.0
-
-74.0
-
-75.0
-
-76.0
-
-77.0
-
-78.0
-
-79.0
-
-80.0
-
-%Passes
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-Average
-
-Year
+#### 3. Public Examination Results
 
 Penilaian Menengah Bawah
 
-Public Examination Results
+71.0 72.0 73.0 74.0 75.0 76.0 77.0 78.0 79.0 80.0
 
-76.1
+| Year | 2001 | 2002 | 2003 | 2004 | 2005 | Average |
+|---|---|---|---|---|---|---|
+| % Passes | 76.1 | 79.8 | 77.3 | 74.7 | 74.2 | 76.4 |
 
-79.8
+Penilaian Menengah Bawah (PMB)
 
-77.3
+Taken by Menengah 3/Menengah 2 students; also offered to private candidates.
 
-74.7
+PMB Passes - At least 5 passes including credit in Bahasa Melayu and pass in English Language or 3 or 4 credits including Bahasa Melayu and at least pass in English Language
 
-74.2
-
-76.4
-
-71.0
-
-72.0
-
-73.0
-
-74.0
-
-75.0
-
-76.0
-
-77.0
-
-78.0
-
-79.0
-
-80.0
-
-%Passes
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-Average
-
-Penilaian Menengah Bawah
-
-Penilaian Menengah Bawah (PMB) Penilaian Menengah Bawah (PMB) Year
-
-Taken by Menengah 3/Menengah 2 students; also offered to private candidates. Taken by Menengah 3/Menengah 2 students; also offered to private candidates. PMB Passes - At least 5 passes including credit in Bahasa Melayu and pass in Penilaian Menengah Bawah (PMB)
-
-Subjects  taken:  Minimum  7  subjects  and  maximum  9 subjects Brunei Cambridge GCE 'O' Level Examination Subjects taken: Minimum 7 subjects and maximum 9 subjects
-
-PMB Passes  -  At  least  5  passes  including  credit  in  Bahasa Melayu and pass in English Language or 3 or 4 credits including Bahasa Melayu and at least pass in English Language English Language or 3 or 4 credits including Bahasa Melayu and at least pass in English Language Subjects taken: Minimum 7 subjects and maximum 9 subjects Taken by Menengah 3/Menengah 2 students; also offered to private candidates. PMB Passes - At least 5 passes including credit in Bahasa Melayu and pass in English Language or 3 or 4 credits including Bahasa Melayu and at least pass in English Language
-
-Taken by Menengah 5 students or private candidates at similar level. Credits - 'O' Level standard with grade C and above. Brunei-Cambridge GCE 'O' Level Examinations Taken by Menengah 5 students or private candidates at similar level. Credits - 'O' Level standard with grade C and above. Brunei-Cambridge GCE 'O' Level Examinations Taken by Menengah 5 students or private candidates at similar level. Credits - 'O' Level standard with grade C and above.
-
-29.0
-
-30.8
-
-33.9
-
-33.2
-
-36.6
-
-32.7
-
-0.0
-
-5.0
-
-10.0
-
-15.0
-
-20.0
-
-25.0
-
-30.0
-
-35.0
-
-40.0
-
-%5Credits and
-
-Above
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-Average
-
-Year
-
-Brunei-Cambridge GCE 'O' Level Examinations
-
-29.0
-
-30.8
-
-33.9
-
-33.2
-
-36.6
-
-32.7
-
-0.0
-
-5.0
-
-10.0
-
-15.0
-
-20.0
-
-25.0
-
-30.0
-
-35.0
-
-40.0
-
-%5Credits and
-
-Above
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-Average
-
-Year
+Subjects taken: Minimum 7 subjects and maximum 9 subjects
 
 Brunei Cambridge GCE 'O' Level Examination
 
-10
+0.0 5.0 10.0 15.0 20.0 25.0 30.0 35.0 40.0
+
+| Year | 2001 | 2002 | 2003 | 2004 | 2005 | Average |
+|---|---|---|---|---|---|---|
+| % 5 Credits and Above | 29.0 | 30.8 | 33.9 | 33.2 | 36.6 | 32.7 |
+
+Brunei-Cambridge GCE 'O' Level Examinations
+
+Taken by Menengah 5 students or private candidates at similar level.
+
+Credits - 'O' Level standard with grade C and above.
 
 8
 
@@ -501,177 +331,53 @@ Brunei Cambridge GCE 'O' Level Examination
 
 [[START OF PAGE 11]]
 
-4.
-
-4.
-
-59.9
-
-68.8
-
-70.2
-
-73.8
-
-73.0
-
-69.1
-
-0.0
-
-10.0
-
-20.0
-
-30.0
-
-40.0
-
-50.0
-
-60.0
-
-70.0
-
-80.0
-
-%2A and Above
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-Average
-
-Year
-
 Brunei Cambridge GCE 'A' Level Examination
 
-59.9
+0.0 10.0 20.0 30.0 40.0 50.0 60.0 70.0 80.0
 
-68.8
-
-70.2
-
-73.8
-
-73.0
-
-69.1
-
-0.0
-
-10.0
-
-20.0
-
-30.0
-
-40.0
-
-50.0
-
-60.0
-
-70.0
-
-80.0
-
-%2A and Above
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-Average
-
-Year
-
-Brunei Cambridge GCE 'A' Level Examination
+| Year | 2001 | 2002 | 2003 | 2004 | 2005 | Average |
+|---|---|---|---|---|---|---|
+| % 2A and Above | 59.9 | 68.8 | 70.2 | 73.8 | 73.0 | 69.1 |
 
 Brunei-Cambridge GCE 'A' Level Examination
 
-Brunei-Cambridge GCE 'A' Level Examination Taken by Upper 6 students or private candidates at similar level. 'AS' - 'A' Level standard with grade E and above. Taken by Upper 6 students or private candidates at similar level. 'AS' - 'A' Level standard with grade E and above. Brunei-Cambridge GCE 'A' Level Examination Taken  by  Upper  6  students  or  private  candidates  at  similar level.
+Taken by Upper 6 students or private candidates at similar level.
 
 'AS' - 'A' Level standard with grade E and above.
 
-Enrolment to Tertiary Education
+#### 4. Enrolment to Tertiary Education
 
-Enrolment to Tertiary Education
+| HDI Rank | Country | % of Tertiary Students |
+|---|---|---|
+| 9 | Japan | 23 |
+| 12 | France | 25 |
+| 13 | United Kingdom | 29 |
+| 17 | Germany | 31 |
+| 33 | BRUNEI | 6 |
+| 70 | Thailand | 21 |
+| 110 | Indonesia | 28 |
+| 130 | Cambodia | 23 |
 
-#### 4.	 Enrolment to Tertiary Education
-
-HDI Rank HDI Rank | Country Country | %of Tertiary Students %of Tertiary Students
---- | --- | ---
-9 | Japan Japan | 23 23
-9 12 12 | France France | 25 25
-13 13 | United Kingdom United Kingdom | 29 29
-17 17 | Germany | 31 31
-33 | Germany BRUNEI | 6
-33 70 | BRUNEI Thailand | 6 21
-70 110 | Thailand Indonesia | 21 28
-110 130 | Indonesia Cambodia | 28 23
-
-Cambodia
-
-5.
-
-5.
-
-130
-
-Employment Rate
-
-Employment Rate
-
-Labour Force, Employment & Job
-
-Labour Force, Employment & Job
-
-Labour Force, Employment & Job
-
-Employment & Job
-
-Labour Force,
-
-23
-
-9
-
-#### 5.	 Employment Rate 5. Employment Rate
+#### 5. Employment Rate
 
 Labour Force, Employment & Job Seekers (2000-2004)
 
-Labour Force, Employment & Job
+180,000 160,000 140,000 120,000 100,000 80,000 60,000 40,000 20,000 0
 
-Labour Force, Employment & Job
+2000 2001 2002 2003 2004
 
-6.
+Public  Private  Job Seekers  Labour Force
 
-Dropout rate
+#### 6. Dropout rate
 
-#### 6.	 Dropout rate
+| | 2003 | 2004 | 2005 |
+|---|---|---|---|
+| Primary | 0.42 | 0.42 | 0.17 |
+| Secondary | 2.51 | 2.16 | 1.81 |
+| Nursing/Technical/Vocational | 3.85 | 3.41 | 2.86 |
+| Higher Institutions | 0.07 | 0.07 | 0.09 |
 
-2003 | 2004 | 2005
---- | --- | --- | ---
-Primary | 0.42 | 0.42 | 0.17
-Secondary | 2.51 | 2.16 | 1.81
-Nursing/Technical/Vocational | 3.85 | 3.41 | 2.86
-Higher Institutions | 0.07 | 0.07 | 0.09
-
-12
+9
 
 [[END OF PAGE 11]]
 
@@ -691,7 +397,7 @@ His Majesty's Titah on Education,
 
 'National Education should provide a dynamic, forward looking educational  programme  to  provide  knowledge  and  skills required by industry and services without ignoring values' [National Day, 23rd February 2003]
 
-'Prepare curriculum with the objective of inculcating a lifelong  learning  culture,  so  that  the  Bruneian  society  is  well educated'
+'Prepare curriculum with the objective of inculcating a life-long learning culture, so that the Bruneian society is well educated'
 
 [National Day, 23rd  February 2003]
 
@@ -701,25 +407,25 @@ The drive for diversification away from oil and gas had been in  the  forefront 
 
 ### Alignment to National Development Plan
 
-In building a globally dynamic and competitive knowledgebased economy, education is central to the strengthening of  human  capital.  The  economies  of  the  21st  century require workers to be life long learners with the capacity to continuously adapt and change as opportunities and labour market of the knowledge economy change. The education system  of  Negara  Brunei  Darussalam  therefore  has  to evolve and align with the direction espoused in the National Development Plan. The close alignment of its strategic plan to  the  National  Development  Plan  ensures  its  support  in achieving  the  nation's  objectives.  Objectives  relevant  to the  Ministry  of  Education  as  highlighted  by  the  Economic Planning and Development Department are those related to efforts in strengthening Brunei's economic
+In building a globally dynamic and competitive knowledge-based economy, education is central to the strengthening of human capital. The economies of the 21st century require workers to be life long learners with the capacity to continuously adapt and change as opportunities and labour market of the knowledge economy change. The education system of Negara Brunei Darussalam therefore has to evolve and align with the direction espoused in the National Development Plan. The close alignment of its strategic plan to the National Development Plan ensures its support in achieving the nation's objectives. Objectives relevant to the Ministry of Education as highlighted by the Economic Planning and Development Department are those related to efforts in strengthening Brunei's economic leverages, the intensification of economic diversification agenda, acceleration of human resource development with particular focus on ICT, transiting into a knowledge-based economy and furthering the country's socio-economic progress.
 
-leverages, the intensification of economic diversification agenda, acceleration of human resource development with particular focus on ICT, transiting into a knowledgebased economy and furthering the country's socio-economic progress.
+10
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-At  the  core  of  the  Ministry  of  Education's  remit  is  the enhancement of quality educational experience within the percept of life long learning. Learning is the critical renewable resource which the nation can capitalize on. The Ministry of Education supports the development and implementation of programmes which allow for learning  throughout  life  in  a variety of contexts, encompassing all levels from preschool through to tertiary and extending to those even outside the education system.
+At the core of the Ministry of Education's remit is the enhancement of quality educational experience within the percept of life long learning. Learning is the critical renewable resource which the nation can capitalize on. The Ministry of Education supports the development and implementation of programmes which allow for learning throughout life in a variety of contexts, encompassing all levels from preschool through to tertiary and extending to those even outside the education system.
 
 ### Impacts of Globalisation
 
-Globalisation has a multi-dimensional impact on the system of education. The impact has underlined the need for us to reform    our  educational  system  with  particular  reference to the wider utilisation of information technology, giving a productivity dimension to the educational system and placing emphasis on  research and development. Education is the key to a knowledge economy that will enable us to compete effectively on the global front.  We need to produce higher quality manpower with the ability to create, share and use knowledge that will enable us to tap into the global bank of knowledge, by assimilating, adapting and innovating to local needs.
+Globalisation has a multi-dimensional impact on the system of education. The impact has underlined the need for us to reform our educational system with particular reference to the wider utilisation of information technology, giving a productivity dimension to the educational system and placing emphasis on research and development. Education is the key to a knowledge economy that will enable us to compete effectively on the global front. We need to produce higher quality manpower with the ability to create, share and use knowledge that will enable us to tap into the global bank of knowledge, by assimilating, adapting and innovating to local needs.
 
-The  education  system  needs  to  be  adaptable  to  changes in  demands  of  society  and  market  economies.  We  need to  invest  more  in  a  knowledge  infrastructure  with  quality institutions, a flexible curriculum at all levels of education, new kinds of teacher training, and use of ICT to enhance the teaching and learning process. Students should learn by doing  and  discovering.  Flexibility  in  the  education  system in  accommodating  the  students'  needs  as  well  as  having efficient assessment capability are ways that can maximise learners' potential.
+The Ministry of Education's membership in UNESCO as well as to other international organisations reflects the Ministry of Education's firm commitment to enhancing the quality of education and developing a contextual framework that will propel Brunei's education internationally and clearly within a global context. It will consequently complement the Millennium Development Goal, as enshrined in UNESCO DAKAR 2000.
 
-Each individual  needs  knowledge,  skills  and  competencies to  meet  changing  economic  conditions,  job  requirements, and new technology. They need to be encouraged to take risks, be more flexible and adaptable, with marketable skills. Further,  individuals  need  to  demonstrate  resourcefulness, self-reliance and work well with others.
+The education system needs to be adaptable to changes in demands of society and market economies. We need to invest more in a knowledge infrastructure with quality institutions, a flexible curriculum at all levels of education, new kinds of teacher training, and use of ICT to enhance the teaching and learning process. Students should learn by doing and discovering. Flexibility in the education system in accommodating the students' needs as well as having efficient assessment capability are ways that can maximise learners' potential.
 
-The Ministry of Education's membership in UNESCO as well as to other international organisations reflects the Ministry of  Education's  firm  commitment  to  enhancing  the  quality of  education  and  developing  a  contextual  framework  that will  propel  Brunei's  education  internationally  and  clearly within  a  global  context.  It  will  consequently  complement the Millennium Development Goal, as enshrined in UNESCO DAKAR 2000.
+Each individual needs knowledge, skills and competencies to meet changing economic conditions, job requirements, and new technology. They need to be encouraged to take risks, be more flexible and adaptable, with marketable skills. Further, individuals need to demonstrate resourcefulness, self-reliance and work well with others.
 
 11
 
@@ -901,31 +607,39 @@ Cost
 
 [[START OF PAGE 15]]
 
+## THE WAY FORWARD
+
 ### Strategic Themes
 
-The Ministry of Education subscribes to three strategic th e m e s : P r o f e s s i o n a l , Accountable  and  Efficient Organisation, Teaching and Learning  Excellence,  and  Quality Education.
+The Ministry of Education subscribes to three strategic themes: Professional, Accountable and Efficient Organisation, Teaching and Learning Excellence, and Quality Education.
 
-These    themes  are  integral  parts  of  each  and  every department, division and unit within the Ministry of Education.  These  tie  them  together  to  achieve  common goals. The diagram shows the co-existence of these   themes, each playing an important and inseparable role. Each theme contains a set of achievable aims.
+These themes are integral parts of each and every department, division and unit within the Ministry of Education. These tie them together to achieve common goals. The diagram shows the co-existence of these themes, each playing an important and inseparable role. Each theme contains a set of achievable aims.
 
-##### Accountability
+QUALITY EDUCATION
+TEACHING AND LEARNING EXCELLENCE
+PROFESSIONAL, ACCOUNTABLE AND EFFICIENT ORGANISATION
 
 #### Theme I: Professional, Accountable and Efficient Organisation
 
-- to ensure that our o r g a n i s a t i o n s a n d educational  institutions including  schools  remain accountable to stakeholders
+##### Accountability
+
+- to ensure that our organisations and educational institutions including schools remain accountable to stakeholders
 
 - to be accountable for all learning outcomes
 
-- to  evaluate  effectiveness in implementing national policies,  school  policies  and programmes through the use of school appraisal as an accountability exercise
+- to evaluate effectiveness in implementing national policies, school policies and programmes through the use of school appraisal as an accountability exercise
+
+People
+Delivery
+Internal Processes
 
 Professional, Accountable & Efficient Organisation
 
-13
-
 ##### Internal process
 
-- To  have  effective  governance  which  is    transparent and accountable
+- To have effective governance which is transparent and accountable
 
-- To  provide  resources,  services    and  support  for teaching and learning excellence
+- To provide resources, services and support for teaching and learning excellence
 
 ##### School Administrators and Teachers
 
@@ -939,13 +653,17 @@ Professional, Accountable & Efficient Organisation
 
 - to provide all-round development of the individual
 
-- to  provide  opportunities to enhance individual strengths and abilities
+- to provide opportunities to enhance individual strengths and abilities
 
-- to provide students with a well-balanced education which allows them to draw  from  a  wide  range of  knowledge  areas  and learning experiences
+- to provide students with a well-balanced education which allows them to draw from a wide range of knowledge areas and learning experiences
 
-Curriculum quality Robustness/Choice Holistic (values, etc.)
+Curriculum quality
+Robustness/Choice
+Holistic (values, etc.)
 
 Quality Education
+
+13
 
 [[END OF PAGE 15]]
 
@@ -966,44 +684,28 @@ Quality Education
 Sixteen indicators on the quality of school education that we subscribe to:
 
 - Indicators on attainment
-
--Mathematics
-
--Reading
-
--Science
-
--Information and Communication Technologies (ICT)
-
--Foreign languages
-
--Learning to learn
-
--Civics
+  - Mathematics
+  - Reading
+  - Science
+  - Information and Communication Technologies (ICT)
+  - Foreign languages
+  - Learning to learn
+  - Civics
 
 - Indicators on success and transition
-
--Dropout rates
-
--Completion of upper secondary education
-
--Participation in tertiary education
+  - Dropout rates
+  - Completion of upper secondary education
+  - Participation in tertiary education
 
 - Indicators on monitoring of education
-
--Evaluation and steering of school education
-
--Parental participation
+  - Evaluation and steering of school education
+  - Parental participation
 
 - Indicators on resources and structures
-
--Education and training of teachers
-
--Participation in pre-primary education
-
--Number of students per computer
-
--Educational expenditure per student
+  - Education and training of teachers
+  - Participation in pre-primary education
+  - Number of students per computer
+  - Educational expenditure per student
 
 [Source: EUROPEAN REPORT ON THE QUALITY OF SCHOOL EDUCATION (2000)]
 
@@ -1011,9 +713,12 @@ Sixteen indicators on the quality of school education that we subscribe to:
 
 ##### Benchmarking
 
-- schools to benchmark e d u c a t i o n a l capabilities and outputs with those of comparable  schools. This  serves  to  raise the profile of schools and  further  enhance the image of our education system.
+- schools to benchmark educational capabilities and outputs with those of comparable schools. This serves to raise the profile of schools and further enhance the image of our education system.
 
-Latest methodology / Modern / Hi Tech tools / Benchmark processes / Facilities / Infrastructure
+Latest methodology /
+Modern / Hi Tech tools /
+Benchmark processes /
+Facilities / Infrastructure
 
 Teaching and Learning Excellence
 
@@ -1023,17 +728,17 @@ Teaching and Learning Excellence
 
 - develop and enhance teaching materials
 
-- use appropriate learning programme and pedagogical tools to engage  and  motivate  students  in  their learning
+- use appropriate learning programme and pedagogical tools to engage and motivate students in their learning
 
-- IT  infrastructure:  provide  connectivity  and  Internet access
+##### IT
+
+- IT infrastructure: provide connectivity and Internet access
 
 - ensure quality and equity of access for all
 
 - provide a wide range of quality resources to support teaching and learning
 
 - Evaluate and select software that matches curriculum needs and standards
-
-##### IT
 
 14
 
@@ -1043,11 +748,44 @@ Teaching and Learning Excellence
 
 ## IMPLEMENTATION OF MISSION AND VISION
 
-All the activities and objectives described above will require different  levels  of  involvement  by  departments,  divisions and units. Each respective department, division and unit will need to formulate their key initiatives and key performance indicators (KPI) which will be aligned to Ministry of Education strategic themes and key processes in the strategy map.
+All the activities and objectives described above will require different levels of involvement by departments, divisions and units. Each respective department, division and unit will need to formulate their key initiatives and key performance indicators (KPI) which will be aligned to Ministry of Education strategic themes and key processes in the strategy map.
 
-review  processes  associated  with  target  setting,  we  will develop a formal mechanism to monitor performance and targets.  Departments,  divisions  and  units  will  provide  an action  plan  which  will  encompass  all  the  targets  against which  performance  is  being  measured,  including  financial expenditure and budgets, and resources that may be needed in the strategic plan.
+Annual Scorecard
 
-The  Ministry  of  Education  will  continue  to  work  with  all departments,  divisions and  units through  the Ministry of Education's strategic management  office with their coordinators  to  ensure  that  decision-making  and  planning processes  are  aligned,  coherent,  efficient  and  fully  meet the strategic objectives. Besides the monitoring and
+KPIs:  KPIs:  KPIs:
+
+Professional, Accountable and Efficient Organisation
+Quality Education
+Teaching and Learning Excellence
+
+Initiatives that contribute to Strategic themes
+
+Yr1  Yr2  Yr3  Yr5
+
+The Ministry of Education will continue to work with all departments, divisions and units through the Ministry of Education's strategic management office with their coordinators to ensure that decision-making and planning processes are aligned, coherent, efficient and fully meet the strategic objectives. Besides the monitoring and review processes associated with target setting, we will develop a formal mechanism to monitor performance and targets. Departments, divisions and units will provide an action plan which will encompass all the targets against which performance is being measured, including financial expenditure and budgets, and resources that may be needed in the strategic plan.
+
+VISION
+QUALITY EDUCATION TOWARDS A DEVELOPED, PEACEFUL AND PROSPEROUS NATION
+
+MISSION
+PROVIDE HOLISTIC EDUCATION TO ACHIEVE FULLEST POTENTIAL FOR ALL
+
+MoE STRATEGY MAP AND THEMES
+- PROFESSIONAL, ACCOUNTABLE & EFFICIENT ORGANISATION
+- QUALITY EDUCATION
+- TEACHING & LEARNING EXCELLENCE
+(strategic themes are anchors to achieve mission and vision)
+
+MAIN SCORECARD DIRECTLY LINKED TO MISSION STATEMENT
+MAIN SCORECARD
+
+MILESTONES
+MAJOR MILESTONES ARE DIRECTLY LINKED TO STRATEGIC THEMES
+
+DEPARTMENT DASHBOARD
+
+INDIVIDUAL SCORECARD
+PERSONAL TASKS AND TARGETS
 
 15
 
@@ -1263,15 +1001,32 @@ Yang Mulia Haji Mohd Daud bin Haji Mahmud Deputy Permanent Secretary [Planning a
 
 ### Members
 
-Yang Mulia Dr Omar bin Haji Khalid Special Duties Officer [Planning and Policy]
+Yang Mulia Dr Omar bin Haji Khalid
+Special Duties Officer [Planning and Policy]
 
-Yang Mulia Awang Mohd Riza bin DP Haji Mohd Yunos Senior Administrative Officer Permanent Secretary Office
+Yang Mulia Awang Haji Suhaila bin Haji Abdul Karim
+Acting Director of Planning, Development and Research
 
-Yang Mulia Awang Haji Suhaila bin Haji Abdul Karim Acting Director of Planning, Development and Research
+Yang Mulia Awang Haji Abdul Hakip bin Haji Burut
+Acting Special Duties Officer [Corporate Services]/
+Head of Human Resource Development Section
 
-Yang Mulia Awang Haji Abdul Hakip bin Haji Burut Acting Special Duties Officer [Corporate Services]/ Head of Human Resource Development Section
+Yang Mulia Hajah Dayang Donnaliza binti Abdullah Puasa
+Assistant Director of Schools Inspectorate Department
 
-Yang Mulia Hajah Dayang Donnaliza binti Abdullah Puasa Assistant Director of Schools Inspectorate Department Yang Mulia Awang Haji Abdul Aziz bin Haji Mohd Hassan Senior Education Officer Strategic Management Unit, Permanent Secretary Office Yang Mulia Dayang Noor Naasirah binti Abdullah Teo Education Officer Special Duties Officer's Office
+Yang Mulia Awang Mohd Riza bin DP Haji Mohd Yunos
+Senior Administrative Officer
+Permanent Secretary Office
+
+Yang Mulia Awang Haji Abdul Aziz bin Haji Mohd Hassan
+Senior Education Officer
+Strategic Management Unit, Permanent Secretary Office
+
+Yang Mulia Dayang Noor Naasirah binti Abdullah Teo
+Education Officer
+Special Duties Officer's Office
+
+19
 
 [[END OF PAGE 21]]
 
@@ -1366,6 +1121,8 @@ Awang Zakaria bin Omar Awang Nabilfikri bin Haronli
 Sekolah Menengah Sultan Muhammad Jamalul Alam
 
 And to those who contributed directly and indirectly to the success of the production of this document.
+
+22
 
 [[END OF PAGE 24]]
 
