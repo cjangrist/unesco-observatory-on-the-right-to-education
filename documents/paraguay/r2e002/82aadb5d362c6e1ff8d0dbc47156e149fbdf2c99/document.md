@@ -1,110 +1,99 @@
 [[START OF PAGE 1]]
 
-"ÍBíaetúenanio dob fnfupendurcla JVaúoml;  ,Er,  . 2011"
+"Bicentenario de la Independencia Nacional: 1811 - 2011"
 
-PODER LEG IS LATIVO
+PODER LEGISLATIVO
 
-LEY NO 4084
+LEY N° 4084
 
-# ESTUDIANTES  EN ESTADO DE GRAVIDEZ DE PROTECCION A LAS MATERNIDAD
+# DE PROTECCION A LAS ESTUDIANTES EN ESTADO DE GRAVIDEZ Y MATERNIDAD
 
-EL CONGRESO DE LA NAC¡ON PARAGUAYA SANCIONA CON FUERZA DE
+EL CONGRESO DE LA NACION PARAGUAYA SANCIONA CON FUERZA DE
 
 LEY
 
-## Artículo  lo.-
-La presente Ley tiene por objeto proteger  el ingreso  y la permanencia, así como brindar facilidades académicas a las estudiantes  que se encuentren  en estado de gravidez y maternidad,  en las instituciones  educativas públicas  de gestión oficial, privada y privada subvencionada.
+## Artículo 1º.-
+La presente Ley tiene por objeto proteger el ingreso y la permanencia, así como brindar facilidades académicas a las estudiantes que se encuentren en estado de gravidez y maternidad, en las instituciones educativas públicas de gestión oficial, privada y privada subvencionada.
 
-## Artículo  2o.-
-Las estudiantes que se encuentren en estado de gravidez y maternidad gozan de los mismos derechos  que los demás  alumnos  y alumnas  en relación  a su ingreso y permanencia  en las instituciones  educativas, no pudiendo  ser objeto de ningún tipo de discriminación.
+## Artículo 2º.-
+Las estudiantes que se encuentren en estado de gravidez y maternidad gozan de los mismos derechos que los demás alumnos y alumnas en relación a su ingreso y permanencia en las instituciones educativas, no pudiendo ser objeto de ningún tipo de discriminación.
 
-## Artículo 3".-
-El estado de gravidez  o la maternidad no podrán  ser causales de la negación,  suspensión, expulsión, cancelación de la matrícula,  ni de otra medida similar  por parte de ninguna  institución  educativa.
+## Artículo 3º.-
+El estado de gravidez o la maternidad no podrán ser causales de la negación, suspensión, expulsión, cancelación de la matrícula, ni de otra medida similar por parte de ninguna institución educativa.
 
-## Artículo  4o.-
-La Dirección de la institución  educativa otorgará  las facilidades académicas necesarias para que las estudiantes  en estado de gravidez o maternidad, asistan regularmente  a los controles  médicos durante  todo el período de embarazo,  de posparto y de lactancia,  de manera  tal a posibilitar  que culminen  su programa  académico.
+## Artículo 4º.-
+La Dirección de la institución educativa otorgará las facilidades académicas necesarias para que las estudiantes en estado de gravidez o maternidad, asistan regularmente a los controles médicos durante todo el período de embarazo, de posparto y de lactancia, de manera tal a posibilitar que culminen su programa académico.
 
-## Artículo  5o.-
-Las inasistencias  a clases por causa del parto y  posparto consideran justificadas  con el certificado  médico correspondiente, a los efectos porcentaje  de asistencia requerido  para la escolaridad. SE del
+## Artículo 5º.-
+Las inasistencias a clases por causa del parto y posparto se consideran justificadas con el certificado médico correspondiente, a los efectos del porcentaje de asistencia requerido para la escolaridad.
 
-## Artículo  6o.-
-Para las evaluaciones  a las alumnas en estado de gravidez y maternidad, las instituciones educativas establecerán  un calendario adecuado y flexible  a los efectos  de resguardar  su derecho  a la educación.
+## Artículo 6º.-
+Para las evaluaciones a las alumnas en estado de gravidez y maternidad, las instituciones educativas establecerán un calendario adecuado y flexible a los efectos de resguardar su derecho a la educación.
 
-## Artículo  7".-
-La Dirección  de cada institución  educativa  debe poner en conocimiento del contenido  de esta Ley a la comunidad  educativa  y deberá  velar  por su cumplimiento.
+## Artículo 7º.-
+La Dirección de cada institución educativa debe poner en conocimiento del contenido de esta Ley a la comunidad educativa y deberá velar por su cumplimiento.
 
-## Artículo  8'.-
-El Ministerio de Educación y Cultura es la autoridad de aplicación  de esta Ley. Dentro de sus funciones  debe:
+## Artículo 8º.-
+El Ministerio de Educación y Cultura es la autoridad de aplicación de esta Ley. Dentro de sus funciones debe:
 
-- Notificar a todas las instituciones educativas  las esta l"y; así  como instruir  periódicamente  sobre impuestas por comunidades  ed disposiciones a  las
+a) Notificar a todas las instituciones educativas las obligaciones impuestas por esta ley; así como instruir periódicamente sobre sus disposiciones a las comunidades educativas.
 
-tl
+b) Elaborar un sistema de control.
 
-J^[.
-
-tl
-
-- de control. I I
-
-J^[.
+NCR
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-"Bicenteturio  [e k nfepenfencia  Nacionaí lgll  -  2011'
+"Bicentenario de la Independencia Nacional: 1811 - 2011"
 
-PODER LEGISLATIVO LEY NO 4084
+PODER LEGISLATIVO
 
-Pág.No  212
+LEY N° 4084
 
-- Recibir  denuncias por incumplimiento  de la obligación  dispuesta;  y de ser comprobadas,  arbitrar los medios  para su inmediato cumplimiento.
+Pág. N° 2/2
 
-- Establecer  sanciones para la institución  que viole esta normativa,  sin perjuicio de la responsabilidad personal  en el ámbito  penal y civil de las autoridades respectivas.
+c) Recibir denuncias por incumplimiento de la obligación dispuesta; y de ser comprobadas, arbitrar los medios para su inmediato cumplimiento.
 
-## Artículo  9o.-
-Las Consejerías Municipales por los Derechos  del Niño,  Niña  y Adolescente (CODENI), la Secretaría de la Niñez  y la Adolescencia  y la Secretaría de la Mujer colaborarán  activamente para garantizar  el fiel cumplimiento  de esta Ley, organizando programas de instrucción y orientación  para toda la comunidad social y educativa. Además  están  autorizadas a denunciar y a recibir las denuncias  por incumplimiento  de Ia misma y remitirlas a la autoridad  de aplicación.
+d) Establecer sanciones para la institución que viole esta normativa, sin perjuicio de la responsabilidad personal en el ámbito penal y civil de las autoridades respectivas.
+
+## Artículo 9º.-
+Las Consejerías Municipales por los Derechos del Niño, Niña y Adolescente (CODENI), la Secretaría de la Niñez y la Adolescencia y la Secretaría de la Mujer colaborarán activamente para garantizar el fiel cumplimiento de esta Ley, organizando programas de instrucción y orientación para toda la comunidad social y educativa. Además están autorizadas a denunciar y a recibir las denuncias por incumplimiento de la misma y remitirlas a la autoridad de aplicación.
 
 ## Artículo 10.-
-E¡ Poder Ejecutivo,  a través del reglamentará  la presente Ley. Ministerio  de Educación  y Cultura
+El Poder Ejecutivo, a través del Ministerio de Educación y Cultura reglamentará la presente Ley.
 
-## Artículo  ll.-
+## Artículo 11.-
 Comuníquese al Poder Ejecutivo.
 
-Aprobada  el proyecto  de ley por la Honorable  Cámara  de quince días  del mes de julio  del añÉs-mil  diez, quedando  sancionado por la Honorable dos mil diez, de Cámara  de DiputadoS, a los dieciocho días  del mes de
+Aprobada el proyecto de ley por la Honorable Cámara de Senadores, a los quince días del mes de julio del año dos mil diez, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a los dieciocho días del mes de agosto del año dos mil diez, de conformidad a lo dispuesto en el Artículo 207, Numeral 1) de la Constitución Nacional.
 
-a González
+Víctor Alcides Bogado González
+Presidente
+H. Cámara de Diputados
 
-il
+Oscar González Daher
+Presidente
+H. Cámara de Senadores
 
-¿>a
+Jorge Ramón Avalos Mariño
+Secretario Parlamentario
 
-J1ñ-
+María Digna Roa Rojas
+Secretaria Parlamentaria
 
-asunción,.$ de
+Asunción, 13 de setiembre de 2010
 
-a González
+Téngase por Ley de la República, publíquese e insértese en el Registro Oficial.
 
-de 2010
-
-il
-
-¿>a
-
-J1ñ-
-
-Jorge Ramón  lalos  Mariño Secretanfrlamentario
-
-Téngase por Ley de la República,  publíquese  e insértese en el Registro Oficial.
-
-asunción,.$ de
-
-El Presidente  de la República
-
-w
+El Presidente de la República
 
 Fernando Armindo Lugo Méndez
 
-y Cultura
+Luis Alberto Riart
+Ministro de Educación y Cultura
+
+NCR
 
 [[END OF PAGE 2]]
