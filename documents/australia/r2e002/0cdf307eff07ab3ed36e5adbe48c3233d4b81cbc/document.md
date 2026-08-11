@@ -24,9 +24,48 @@ ComLaw Authoritative Act C2013C00013
 
 [[START OF PAGE 3]]
 
+Racial Discrimination Act 1975                    iii
+
 # Contents
 
-Racial Discrimination Act 1975                    iii
+Part I—Preliminary 1
+1 Short title [see Note 1].......................................................................1
+2 Commencement [see Note 1].............................................................1
+3 Interpretation .....................................................................................2
+4 Extension to external Territories .......................................................3
+5 Additional operation of Act...............................................................3
+6 Act binds the Crown..........................................................................4
+6A Operation of State and Territory laws................................................4
+6B Application of the Criminal Code .....................................................5
+7 Ratification of Convention ................................................................5
+Part II—Prohibition of racial discrimination 6
+8 Exceptions.........................................................................................6
+9 Racial discrimination to be unlawful .................................................6
+10 Rights to equality before the law.......................................................7
+11 Access to places and facilities ...........................................................8
+12 Land, housing and other accommodation ..........................................9
+13 Provision of goods and services ........................................................9
+14 Right to join trade unions ................................................................10
+15 Employment ....................................................................................10
+16 Advertisements................................................................................11
+17 Unlawful to incite doing of unlawful acts........................................11
+18 Acts done for 2 or more reasons......................................................11
+18A Vicarious liability ............................................................................12
+Part IIA—Prohibition of offensive behaviour based on racial
+hatred 13
+18B Reason for doing an act ...................................................................13
+18C Offensive behaviour because of race, colour or national or
+ethnic origin.....................................................................................13
+18D Exemptions......................................................................................14
+18E Vicarious liability ............................................................................14
+18F State and Territory laws not affected...............................................14
+Part III—Race Discrimination Commissioner and functions of
+Commission 15
+Division 1—Preliminary 15
+19 Race Discrimination Commissioner................................................15
+20 Functions of Commission................................................................15
+Part IV—Offences 16
+26 Unlawful acts not offences unless expressly so provided ................16
 
 ComLaw Authoritative Act C2013C00013
 
@@ -36,6 +75,27 @@ ComLaw Authoritative Act C2013C00013
 
 iv            Racial Discrimination Act 1975
 
+27 Offences relating to administration of Act.......................................16
+27F Non-disclosure of private information.............................................17
+Part VI—Race Discrimination Commissioner 20
+29 Appointment of Race Discrimination Commissioner......................20
+30 Terms and conditions of appointment .............................................20
+31 Remuneration of Commissioner......................................................20
+32 Leave of absence .............................................................................20
+33 Resignation......................................................................................21
+34 Termination of appointment ............................................................21
+35 Outside employment........................................................................21
+36 Acting Commissioner......................................................................21
+40 Delegation .......................................................................................22
+Part VII—Miscellaneous 23
+44 Jurisdiction ......................................................................................23
+45 Protection from civil actions............................................................23
+45A Commissioner to furnish information..............................................24
+47 Regulations......................................................................................24
+Schedule—International Convention on the elimination of all
+forms of racial discrimination 25
+Notes 39
+
 ComLaw Authoritative Act C2013C00013
 
 [[END OF PAGE 4]]
@@ -44,7 +104,7 @@ ComLaw Authoritative Act C2013C00013
 
 ## An Act relating to the Elimination of Racial and other Discrimination
 
-WHEREAS a  Convention  entitled  the  'International  Convention  on  the Elimination  of  all  Forms  of  Racial  Discrimination'  (being  the  Convention  a copy of the English text of which is set out in the Schedule) was opened for signature on 21 December 1965:
+WHEREAS a Convention entitled the “International Convention on the Elimination of all Forms of Racial Discrimination” (being the Convention a copy of the English text of which is set out in the Schedule) was opened for signature on 21 December 1965:
 
 AND WHEREAS the Convention entered into force on 2 January 1969:
 
@@ -52,17 +112,17 @@ AND WHEREAS it is desirable, in pursuance of all relevant powers of the Parliame
 
 BE IT THEREFORE ENACTED by the Queen, the Senate and the House of Representatives of Australia, as follows:
 
-## Part I-Preliminary
+## Part I—Preliminary
 
-### 1  Short title [ see Note 1]
+### 1  Short title [see Note 1]
 
-This Act may be cited as the Racial Discrimination Act 1975 .
+This Act may be cited as the Racial Discrimination Act 1975.
 
-### 2  Commencement [ see Note 1]
+### 2  Commencement [see Note 1]
 
-- Sections 1, 2 and 7 shall come into operation on the day on which this Act receives the Royal Assent.
+(1) Sections 1, 2 and 7 shall come into operation on the day on which this Act receives the Royal Assent.
 
-- The remaining provisions of this Act shall come into operation on a day to be fixed by Proclamation, being a day not earlier than the day on which the Convention enters into force for Australia.
+(2) The remaining provisions of this Act shall come into operation on a day to be fixed by Proclamation, being a day not earlier than the day on which the Convention enters into force for Australia.
 
 Racial Discrimination Act 1975                    1
 
@@ -100,7 +160,7 @@ This Act extends to every external Territory.
 
 ### 5  Additional operation of Act
 
-Without prejudice to its effect apart from this section, this Act also has, by force of this section, the effect it would have if: (a)  there were added at the end of sections 11 and 13 the words 'or by reason that that other person or any relative or associate of that other person is or has been an immigrant'; (b)  there were added at the end of subsections 12(1) and 15(1) the words 'or by reason that that second person or any relative or associate of that second person is or has been an immigrant'; (c)  there were inserted in subsection 14(1), before the words 'is invalid, the words or by reason that that person is or has been an immigrant'; (d)  there were added at the end of subsection 14(2) the words 'or by reason that that other person is or has been an immigrant';
+Without prejudice to its effect apart from this section, this Act also has, by force of this section, the effect it would have if: (a) there were added at the end of sections 11 and 13 the words “or by reason that that other person or any relative or associate of that other person is or has been an immigrant”; (b) there were added at the end of subsections 12(1) and 15(1) the words “or by reason that that second person or any relative or associate of that second person is or has been an immigrant”; (c) there were inserted in subsection 14(1), before the words “is invalid”, the words “or by reason that that person is or has been an immigrant”; (d) there were added at the end of subsection 14(2) the words “or by reason that that other person is or has been an immigrant”;
 
 Racial Discrimination Act 1975                    3
 
@@ -114,7 +174,7 @@ Part I Preliminary
 
 Section 6
 
-(e)  there were added at the end of subsection 15(2) the words 'or by reason that the person so seeking employment or any relative or associate of that person is or has been an immigrant'; and (f)  there were inserted in section 18, after the word 'person', the words 'or by reason that a person is or has been an immigrant'.
+(e) there were added at the end of subsection 15(2) the words “or by reason that the person so seeking employment or any relative or associate of that person is or has been an immigrant”; and (f) there were inserted in section 18, after the word “person”, the words “or by reason that a person is or has been an immigrant”.
 
 ### 6  Act binds the Crown
 
@@ -160,7 +220,7 @@ Prohibition of racial discrimination
 
 Section 8
 
-## Part II-Prohibition of racial discrimination
+## Part II—Prohibition of racial discrimination
 
 ### 8  Exceptions
 
@@ -224,7 +284,7 @@ Section 12
 
 ### 13  Provision of goods and services
 
-It is unlawful for a person who supplies goods or services to the public or to any section of the public: (a)  to refuse or fail on demand to supply those goods or services to another person; or (b)  to refuse or fail on demand to supply those goods or services to another person except on less favourable terms or Part II
+It is unlawful for a person who supplies goods or services to the public or to any section of the public: (a)  to refuse or fail on demand to supply those goods or services to another person; or (b)  to refuse or fail on demand to supply those goods or services to another person except on less favourable terms or
 
 Racial Discrimination Act 1975                    9
 
@@ -234,7 +294,7 @@ ComLaw Authoritative Act C2013C00013
 
 [[START OF PAGE 14]]
 
-Prohibition of racial discrimination
+Part II Prohibition of racial discrimination
 
 Section 14
 
@@ -304,7 +364,7 @@ Prohibition of offensive behaviour based on racial hatred Part IIA
 
 Section 18B
 
-## Part IIA-Prohibition of offensive behaviour based on racial hatred
+## Part IIA—Prohibition of offensive behaviour based on racial hatred
 
 ### 18B  Reason for doing an act
 
@@ -356,9 +416,9 @@ Race Discrimination Commissioner and functions of Commission Part III Preliminar
 
 Section 19
 
-## Part III-Race Discrimination Commissioner and functions of Commission
+## Part III—Race Discrimination Commissioner and functions of Commission
 
-### Division 1-Preliminary
+### Division 1—Preliminary
 
 #### 19  Race Discrimination Commissioner
 
@@ -382,7 +442,7 @@ Offences
 
 Section 26
 
-## Part IV-Offences
+## Part IV—Offences
 
 ### 26  Unlawful acts not offences unless expressly so provided
 
@@ -404,11 +464,11 @@ Offences Part IV
 
 Section 27F
 
-(g)  has attended, or proposes to attend, a conference held under this Act or the Australian Human Rights Commission Act 1986 . Penalty for an offence against subsection (2): (a)  in the case of a natural person-25 penalty units or imprisonment for 3 months, or both; or (b)  in the case of a body corporate-100 penalty units.
+(g)  has attended, or proposes to attend, a conference held under this Act or the Australian Human Rights Commission Act 1986. Penalty for an offence against subsection (2): (a)  in the case of a natural person—25 penalty units or imprisonment for 3 months, or both; or (b)  in the case of a body corporate—100 penalty units.
 
 ### 27F  Non-disclosure of private information
 
-(1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not, either directly or indirectly: (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person's office or employment under or for the purpose of this Act or by reason of that person being or having been so authorised; or (b)  make use of any such information as is mentioned in paragraph (a); or (c)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act. Penalty:  50 penalty units or imprisonment for 1 year, or both. (2)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not be required: (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the Part IV
+(1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not, either directly or indirectly: (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person’s office or employment under or for the purpose of this Act or by reason of that person being or having been so authorised; or (b)  make use of any such information as is mentioned in paragraph (a); or (c)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act. Penalty: 50 penalty units or imprisonment for 1 year, or both. (2)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not be required: (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the
 
 Racial Discrimination Act 1975                    17
 
@@ -418,9 +478,9 @@ ComLaw Authoritative Act C2013C00013
 
 [[START OF PAGE 22]]
 
-Section 27F
+Part IV Offences
 
-Offences
+Section 27F
 
 first-mentioned person by reason of that person's office or employment under or for the purposes of this Act or by reason of that person being or having been so authorised; or (b)  to produce in a court a document relating to the affairs of another person of which the first-mentioned person has custody, or to which that person has access, by reason of that person's office or employment under or for the purposes of this Act or by reason of that person being or having been so authorised; except where it is necessary to do so for the purposes of this Act. (3)  Nothing in this section prohibits a person from: (a)  making a record of information that is, or is included in a class of information that is, required or permitted by an Act to be recorded, if the record is made for the purposes of or pursuant to that Act; or (b)  divulging or communicating information, or producing a document, to any person in accordance with an arrangement in force under section 16 of the Australian Human Rights Commission Act 1986 ; or (c)  divulging or communicating information, or producing a document, that is, or is included in a class of information that is or class of documents that are, required or permitted by an Act to be divulged, communicated or produced, as the case may be, if the information is divulged or communicated, or the document is produced, for the purposes of or pursuant to that Act. Note: A defendant bears an evidential burden in relation to a matter in subsection (3) (see subsection 13.3(3) of the Criminal Code ). (3A)  Subsection (1) does not prevent a person from making a record of, divulging, communicating or making use of information, or producing a document, if the person does so: (a)  in the performance of a duty under or in connection with this Act; or (b)  in the performance or exercise of a function or power conferred on the Commission or on the Commissioner under this Act. Note: A defendant bears an evidential burden in relation to the matter in subsection (3A) (see subsection 13.3(3) of the Criminal Code ).
 
@@ -450,7 +510,7 @@ Part VI Race Discrimination Commissioner
 
 Section 29
 
-## Part VI-Race Discrimination Commissioner
+## Part VI—Race Discrimination Commissioner
 
 ### 29  Appointment of Race Discrimination Commissioner
 
@@ -524,7 +584,7 @@ Miscellaneous Part VII
 
 Section 44
 
-## Part VII-Miscellaneous
+## Part VII—Miscellaneous
 
 ### 44  Jurisdiction
 
@@ -532,7 +592,7 @@ Section 44
 
 ### 45  Protection from civil actions
 
-(1A)  Subsection (1) applies in relation to any of the following persons: (a)  the Commission; (b)  the Commissioner or another member of the Commission; (c)  a person acting under the direction or authority of: (i)  the Commission; or (ii)  the Commissioner or another member of the Commission; (d)  a person acting under a delegation under section 40. (1)  The person is not liable to an action or other proceeding for damages for or in relation to an act done, or omitted to be done, in good faith in the performance, or purported performance, of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission, the Commissioner or the other member of the Commission. (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Commissioner, a person is not liable to an action, suit or other proceeding in respect of loss, damage or injury of any kind suffered by another person merely because submission was made, the document or information was furnished or the evidence was given.
+(1A)  Subsection (1) applies in relation to any of the following persons: (a)  the Commission; (b)  the Commissioner or another member of the Commission; (c)  a person acting under the direction or authority of: (i)  the Commission; or (ii)  the Commissioner or another member of the Commission; (d)  a person acting under a delegation under section 40. (1)  The person is not liable to an action or other proceeding for damages for or in relation to an act done, or omitted to be done, in good faith in the performance, or purported performance, of any function, or in the exercise or purported exercise of any power or
 
 Racial Discrimination Act 1975                    23
 
@@ -545,6 +605,10 @@ ComLaw Authoritative Act C2013C00013
 Part VII Miscellaneous
 
 Section 45A
+
+authority, conferred on the Commission, the Commissioner or the other member of the Commission.
+
+(2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Commissioner, a person is not liable to an action, suit or other proceeding in respect of loss, damage or injury of any kind suffered by another person merely because submission was made, the document or information was furnished or the evidence was given.
 
 ### 45A  Commissioner to furnish information
 
@@ -564,7 +628,7 @@ ComLaw Authoritative Act C2013C00013
 
 International Convention on the elimination of all forms of racial discrimination Schedule
 
-## Schedule-International Convention on the elimination of all forms of racial discrimination
+## Schedule—International Convention on the elimination of all forms of racial discrimination
 
 Section 3(1)
 
@@ -578,7 +642,7 @@ Considering that  all  human  beings  are  equal  before  the  law  and  are ent
 
 Considering that the United Nations has condemned colonialism and all practices  of  segregation  and  discrimination  associated  therewith,  in  whatever form  and  wherever  they  exist,  and  that  the  Declaration  on  the  Granting  of Independence to Colonial Countries and Peoples of 14 December 1960 (General Assembly  resolution  1514  (XV))  has  affirmed  and  solemnly  proclaimed  the necessity of bringing them to a speedy and unconditional end,
 
-Considering that  the  United  Nations  Declaration  on  the  Elimination  of All Forms of Racial Discrimination of 20 November 1963 (General Assembly resolution 1904 (XVIII)) solemnly affirms the necessity of speedily eliminating racial  discrimination  throughout  the  world  in  all  its  forms  and  manifestations and  of  securing  understanding  of  and  respect  for  the  dignity  of  the  human person, Convinced that any doctrine of superiority based on racial differentiation is scientifically false, morally condemnable, socially unjust and dangerous, and that  there  is  no  justification  for  racial  discrimination,  in  theory  or  in  practice, anywhere, Reaffirming that discrimination between human beings on the grounds of race,  colour  or  ethnic  origin  is  an  obstacle  to  friendly  and  peaceful  relations among nations and is capable of disturbing peace and security among peoples and the harmony of persons living side by side even within one and the same State, Convinced that the existence of racial barriers is repugnant to the ideals of any human society, Alarmed by  manifestations  of  racial  discrimination  still  in  evidence  in some  areas  of  the  world  and  by  governmental  policies  based  on  racial superiority or hatred, such as policies of apartheid , segregation or separation, Resolved to adopt all necessary measures for speedily eliminating racial discrimination in all  its  forms  and  manifestations,  and  to  prevent  and  combat racist doctrines and practices in order to promote understanding between races and to build an international community  free  from  all forms  of racial segregation and racial discrimination, Bearing in mind the Convention concerning Discrimination in respect of Employment and Occupation adopted by the International Labour Organisation in 1958, and the Convention against Discrimination in Education adopted by the United Nations Educational, Scientific and Cultural Organization in 1960, Desiring to  implement  the  principles  embodied  in  the  United  Nations Declaration on  the  Elimination  of  All  Forms  of  Racial  Discrimination  and  to secure the earliest adoption of practical measures to that end, Have agreed as follows:
+Considering that the United Nations Declaration on the Elimination of All Forms of Racial Discrimination of 20 November 1963 (General Assembly resolution 1904 (XVIII)) solemnly affirms the necessity of speedily eliminating racial discrimination throughout the world in all its forms and manifestations and of securing understanding of and respect for the dignity of the human person,
 
 Racial Discrimination Act 1975                    25
 
@@ -590,11 +654,27 @@ ComLaw Authoritative Act C2013C00013
 
 Schedule International Convention on the elimination of all forms of racial discrimination
 
+Convinced that any doctrine of superiority based on racial differentiation is scientifically false, morally condemnable, socially unjust and dangerous, and that there is no justification for racial discrimination, in theory or in practice, anywhere,
+
+Reaffirming that discrimination between human beings on the grounds of race, colour or ethnic origin is an obstacle to friendly and peaceful relations among nations and is capable of disturbing peace and security among peoples and the harmony of persons living side by side even within one and the same State,
+
+Convinced that the existence of racial barriers is repugnant to the ideals of any human society,
+
+Alarmed by manifestations of racial discrimination still in evidence in some areas of the world and by governmental policies based on racial superiority or hatred, such as policies of apartheid, segregation or separation,
+
+Resolved to adopt all necessary measures for speedily eliminating racial discrimination in all its forms and manifestations, and to prevent and combat racist doctrines and practices in order to promote understanding between races and to build an international community free from all forms of racial segregation and racial discrimination,
+
+Bearing in mind the Convention concerning Discrimination in respect of Employment and Occupation adopted by the International Labour Organisation in 1958, and the Convention against Discrimination in Education adopted by the United Nations Educational, Scientific and Cultural Organization in 1960,
+
+Desiring to implement the principles embodied in the United Nations Declaration on the Elimination of All Forms of Racial Discrimination and to secure the earliest adoption of practical measures to that end,
+
+Have agreed as follows:
+
 ### PART I
 
 #### Article 1
 
-1. In  this  Convention,  the  term  'racial  discrimination'  shall  mean  any distinction, exclusion, restriction or preference based on race, colour, descent, or  national  or  ethnic  origin  which  has  the  purpose  or  effect  of  nullifying  or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
+1. In this Convention, the term “racial discrimination” shall mean any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human
 
 26            Racial Discrimination Act 1975
 
@@ -605,6 +685,8 @@ ComLaw Authoritative Act C2013C00013
 [[START OF PAGE 31]]
 
 International Convention on the elimination of all forms of racial discrimination Schedule
+
+rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
 
 2. This Convention shall not apply to distinctions, exclusions, restrictions or preferences made by a State Party to this Convention between citizens and non-citizens.
 
@@ -670,7 +752,7 @@ In compliance with the fundamental obligations laid down in article 2 of this  C
 
 (b) The right to security of person and protection by the State against violence or bodily harm, whether inflicted by government officials or by any individual, group or institution;
 
-(c) Political rights, in particular the rights to participate in electionsto  vote  and  to  stand  for  election-on  the  basis  of  universal  and equal  suffrage,  to  take  part  in  the  Government  as  well  as  in  the conduct of public affairs at any level and to have equal access to public service;
+(c) Political rights, in particular the rights to participate in elections—to vote and to stand for election—on the basis of universal and equal suffrage, to take part in the Government as well as in the conduct of public affairs at any level and to have equal access to public service;
 
 (d) Other civil rights, in particular:
 
@@ -730,11 +812,11 @@ States  Parties  undertake  to  adopt  immediate  and  effective  measures, part
 
 #### Article 8
 
-- There  shall  be  established  a  Committee  on  the  Elimination  of  Racial Discrimination (hereinafter referred to as the Committee) consisting of eighteen experts of high moral standing and acknowledged impartiality elected by States Parties from amongst their nationals who shall serve in their personal capacity, consideration  being  given  to  equitable  geographical  distribution  and  to  the representation of the different forms of civilization as well as of the principal legal systems.
+1. There shall be established a Committee on the Elimination of Racial Discrimination (hereinafter referred to as the Committee) consisting of eighteen experts of high moral standing and acknowledged impartiality elected by States Parties from amongst their nationals who shall serve in their personal capacity, consideration being given to equitable geographical distribution and to the representation of the different forms of civilization as well as of the principal legal systems.
 
-- The members of the Committee shall be elected by secret ballot from a list of persons nominated by the States Parties. Each State Party may nominate one person from among its own nationals.
+2. The members of the Committee shall be elected by secret ballot from a list of persons nominated by the States Parties. Each State Party may nominate one person from among its own nationals.
 
-- The initial election shall be held six months after the date of the entry into  force  of  this  Convention.  At  least  three  months  before  the  date  of  each
+3. The initial election shall be held six months after the date of the entry into force of this Convention. At least three months before the date of each
 
 30            Racial Discrimination Act 1975
 
@@ -758,7 +840,7 @@ election the Secretary-General of the United Nations shall address a letter to t
 
 #### Article 9
 
-- States  Parties  undertake  to  submit  to  the  Secretary-General  of  the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted and which give effect to the provisions of this Convention:
+1. States Parties undertake to submit to the Secretary-General of the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted and which give effect to the provisions of this Convention:
 
 (a) within one year after the entry into force of the Convention for the State concerned; and
 
@@ -778,29 +860,29 @@ Schedule International Convention on the elimination of all forms of racial disc
 
 #### Article 10
 
-- The Committee shall adopt its own rules of procedure.
+1. The Committee shall adopt its own rules of procedure.
 
-- The Committee shall elect its officers for a term of two years.
+2. The Committee shall elect its officers for a term of two years.
 
-- The secretariat of the Committee shall be provided by the Secretary-General of the United Nations.
+3. The secretariat of the Committee shall be provided by the Secretary-General of the United Nations.
 
-- The  meetings  of  the  Committee  shall  normally  be  held  at  United Nations Headquarters.
+4. The meetings of the Committee shall normally be held at United Nations Headquarters.
 
 #### Article 11
 
-- If a State Party considers that another State Party is not giving effect to the provisions of this Convention, it may bring the matter to the attention of the Committee. The Committee shall then transmit the communication to the State Party concerned. Within three months, the receiving State shall submit to the Committee  written  explanations  or  statements  clarifying  the  matter  and  the remedy, if any, that may have been taken by that State.
+1. If a State Party considers that another State Party is not giving effect to the provisions of this Convention, it may bring the matter to the attention of the Committee. The Committee shall then transmit the communication to the State Party concerned. Within three months, the receiving State shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been taken by that State.
 
-- If the matter is not adjusted to the satisfaction of both parties, either by bilateral negotiations or by any other procedure open to them, within six months after the receipt by the receiving State of the initial communication, either State shall have the right to refer the matter again to the Committee by notifying the Committee and also the other State.
+2. If the matter is not adjusted to the satisfaction of both parties, either by bilateral negotiations or by any other procedure open to them, within six months after the receipt by the receiving State of the initial communication, either State shall have the right to refer the matter again to the Committee by notifying the Committee and also the other State.
 
-- The Committee shall deal with a matter referred to it in accordance with paragraph  2  of  this  article  after  it  has  ascertained  that  all  available  domestic remedies have been invoked and exhausted in the case, in conformity with the generally recognized principles of international law. This shall not be the rule where the application of the remedies is unreasonably prolonged.
+3. The Committee shall deal with a matter referred to it in accordance with paragraph 2 of this article after it has ascertained that all available domestic remedies have been invoked and exhausted in the case, in conformity with the generally recognized principles of international law. This shall not be the rule where the application of the remedies is unreasonably prolonged.
 
-- In  any  matter  referred  to  it,  the  Committee  may  call  upon  the  States Parties concerned to supply any other relevant information.
+4. In any matter referred to it, the Committee may call upon the States Parties concerned to supply any other relevant information.
 
-- When any matter arising out of this article is being considered by the Committee, the States Parties concerned shall be entitled to send a representative to take part in the proceedings of the Committee, without voting rights, while the matter is under consideration.
+5. When any matter arising out of this article is being considered by the Committee, the States Parties concerned shall be entitled to send a representative to take part in the proceedings of the Committee, without voting rights, while the matter is under consideration.
 
 #### Article 12
 
-(a)  After  the  Committee  has  obtained  and  collated  all  the  information  it deems necessary, the Chairman shall appoint an ad hoc Conciliation
+1. (a) After the Committee has obtained and collated all the information it deems necessary, the Chairman shall appoint an ad hoc Conciliation
 
 32            Racial Discrimination Act 1975
 
@@ -816,23 +898,23 @@ Commission (hereafter referred to as the Commission) comprising five persons who
 
 (b) If the States parties to the dispute fail to reach agreement within three months on all or part of the composition of the Commission, the members of the Commission not agreed upon by the States parties to the dispute shall be elected  by  secret  ballot  by  a  two-thirds  majority  vote  of  the  Committee  from among its own members.
 
-- The members of the Commission shall serve in their personal capacity. They shall not be nationals of the States parties to the dispute or of a State not Party to this Convention.
+2. The members of the Commission shall serve in their personal capacity. They shall not be nationals of the States parties to the dispute or of a State not Party to this Convention.
 
-- The Commission shall elect its own Chairman and adopt its own rules of procedure.
+3. The Commission shall elect its own Chairman and adopt its own rules of procedure.
 
-- The  meetings  of  the  Commission  shall  normally  be  held  at  United Nations  Headquarters  or  at  any  other  convenient  place  as  determined  by  the Commission.
+4. The meetings of the Commission shall normally be held at United Nations Headquarters or at any other convenient place as determined by the Commission.
 
-- The secretariat provided in accordance with article 10, paragraph 3, of this Convention shall also service the Commission whenever a dispute among States Parties brings the Commission into being.
+5. The secretariat provided in accordance with article 10, paragraph 3, of this Convention shall also service the Commission whenever a dispute among States Parties brings the Commission into being.
 
-- The States Parties to the dispute shall share equally all the expenses of the members of the Commission in accordance with estimates to be provided by the Secretary-General of the United Nations.
+6. The States Parties to the dispute shall share equally all the expenses of the members of the Commission in accordance with estimates to be provided by the Secretary-General of the United Nations.
 
-- The Secretary-General shall be empowered to pay the expenses of the members of the Commission, if necessary, before reimbursement by the States parties to the dispute in accordance with paragraph 6 of this article.
+7. The Secretary-General shall be empowered to pay the expenses of the members of the Commission, if necessary, before reimbursement by the States parties to the dispute in accordance with paragraph 6 of this article.
 
-- The information obtained and collated by the Committee shall be made available  to  the  Commission,  and  the  Commission  may  call  upon  the  States concerned to supply any other relevant information.
+8. The information obtained and collated by the Committee shall be made available to the Commission, and the Commission may call upon the States concerned to supply any other relevant information.
 
 #### Article 13
 
-- When the Commission has fully considered the matter, it shall prepare and submit to the Chairman of the Committee a report embodying its findings on all questions of fact relevant to the issue between the parties and containing
+1. When the Commission has fully considered the matter, it shall prepare and submit to the Chairman of the Committee a report embodying its findings on all questions of fact relevant to the issue between the parties and containing
 
 Racial Discrimination Act 1975                    33
 
@@ -846,19 +928,19 @@ Schedule International Convention on the elimination of all forms of racial disc
 
 such recommendations as it may think proper for the amicable solution of the dispute.
 
-- The  Chairman  of  the  Committee  shall  communicate  the  report  of  the Commission  to  each  of  the  States  parties  to  the  dispute.  These  States  shall, within three months, inform the Chairman of the Committee whether or not they accept the recommendations contained in the report of the Commission.
+2. The Chairman of the Committee shall communicate the report of the Commission to each of the States parties to the dispute. These States shall, within three months, inform the Chairman of the Committee whether or not they accept the recommendations contained in the report of the Commission.
 
-- After  the  period  provided  for  in  paragraph  2  of  this  article,  the Chairman of the Committee shall communicate the report of the Commission and the declarations of the States Parties concerned to the other States Parties to this Convention.
+3. After the period provided for in paragraph 2 of this article, the Chairman of the Committee shall communicate the report of the Commission and the declarations of the States Parties concerned to the other States Parties to this Convention.
 
 #### Article 14
 
-- A State Party may at any time declare that it recognizes the competence of the Committee to receive and consider communications from individuals or groups of individuals within its jurisdiction claiming to be victims of a violation by  that  State  Party  of  any  of  the  rights  set  forth  in  this  Convention.  No communication shall be received by the Committee if it concerns a State Party which has not made such a declaration.
+1. A State Party may at any time declare that it recognizes the competence of the Committee to receive and consider communications from individuals or groups of individuals within its jurisdiction claiming to be victims of a violation by that State Party of any of the rights set forth in this Convention. No communication shall be received by the Committee if it concerns a State Party which has not made such a declaration.
 
-- Any State Party which makes a declaration as provided for in paragraph 1 of this article may establish or indicate a body within its national legal order which shall be competent to receive and consider petitions from individuals and groups  of  individuals  within  its  jurisdiction  who  claim  to  be  victims  of  a violation  of  any  of  the  rights  set  forth  in  this  Convention  and  who  have exhausted other available local remedies.
+2. Any State Party which makes a declaration as provided for in paragraph 1 of this article may establish or indicate a body within its national legal order which shall be competent to receive and consider petitions from individuals and groups of individuals within its jurisdiction who claim to be victims of a violation of any of the rights set forth in this Convention and who have exhausted other available local remedies.
 
-- A declaration made in accordance with paragraph 1 of this article and the name of any body established or indicated in accordance with paragraph 2 of  this  article  shall  be  deposited  by  the  State  Party  concerned  with  the Secretary-General of the United Nations, who shall transmit copies thereof to the  other  States  Parties.  A  declaration  may  be  withdrawn  at  any  time  by notification  to  the  Secretary-General,  but  such  a  withdrawal  shall  not  affect communications pending before the Committee.
+3. A declaration made in accordance with paragraph 1 of this article and the name of any body established or indicated in accordance with paragraph 2 of this article shall be deposited by the State Party concerned with the Secretary-General of the United Nations, who shall transmit copies thereof to the other States Parties. A declaration may be withdrawn at any time by notification to the Secretary-General, but such a withdrawal shall not affect communications pending before the Committee.
 
-- A register of petitions shall be kept by the body established or indicated in accordance with paragraph 2 of this article, and certified copies of the register shall be filed annually through appropriate channels with the Secretary-General on the understanding that the contents shall not be publicly disclosed.
+4. A register of petitions shall be kept by the body established or indicated in accordance with paragraph 2 of this article, and certified copies of the register shall be filed annually through appropriate channels with the Secretary-General on the understanding that the contents shall not be publicly disclosed.
 
 34            Racial Discrimination Act 1975
 
@@ -888,7 +970,7 @@ International Convention on the elimination of all forms of racial discriminatio
 
 1. Pending  the  achievement  of  the  objectives  of  the  Declaration  on  the Granting  of  Independence  to  Colonial  Countries  and  Peoples,  contained  in General Assembly resolution 1514 (XV) of 14 December 1960, the provisions of this  Convention shall in no way limit the right of petition granted to these peoples  by  other  international  instruments  or  by  the  United  Nations  and  its specialized agencies.
 
-2. (a) The Committee established under article 8, paragraph 1, of this Convention shall receive copies of the petitions from, and submit expressions of opinion  and  recommendations  on  these  petitions  to,  the  bodies  of  the  United Nations which deal with matters directly related to the principles and objectives of  this  Convention  in  their  consideration  of  petitions  from  the  inhabitants  of Trust  and  Non-Self-Governing  Territories  and  all  other  territories  to  which General Assembly resolution 1514 (XV) applies, relating to matters covered by this Convention which are before these bodies.
+2. (a) The Committee established under article 8, paragraph 1, of this Convention shall receive copies of the petitions from, and submit expressions of opinion and recommendations on these petitions to, the bodies of the United
 
 Racial Discrimination Act 1975                    35
 
@@ -899,6 +981,8 @@ ComLaw Authoritative Act C2013C00013
 [[START OF PAGE 40]]
 
 Schedule International Convention on the elimination of all forms of racial discrimination
+
+Nations which deal with matters directly related to the principles and objectives of this Convention in their consideration of petitions from the inhabitants of Trust and Non-Self-Governing Territories and all other territories to which General Assembly resolution 1514 (XV) applies, relating to matters covered by this Convention which are before these bodies.
 
 (b) The Committee shall receive from the competent bodies of the United  Nations  copies  of  the  reports  concerning  the  legislative,  judicial, administrative or other measures directly related to the principles and objectives of  this  Convention  applied  by  the  administering  Powers  within  the  territories mentioned  in  sub-paragraph (a)  of  this  paragraph,  and  shall  express  opinions and make recommendations to these bodies.
 
@@ -1060,14 +1144,13 @@ ComLaw Authoritative Act C2013C00013
 [[START OF PAGE 45]]
 
 Notes to the Racial Discrimination Act 1975
+Table of Acts
 
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
 Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 | 70, 2009 | 8 July 2009 | Schedule 3 (items 60-70, 167-178) and Schedule 4 (items 1-5): 5 Aug 2009 | -
 Acts Interpretation Amendment Act 2011 | 46, 2011 | 27 June 2011 | Schedule 2 (items 968, 969) and Schedule 3 (items 10, 11): 27 Dec 2011 | Sch. 3 (items 10, 11) [ see Table A]
 Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012 | 169, 2012 | 3 Dec 2012 | Schedule 2 (items 191, 192): 3 Dec 2012 ( see s. 2(1)) | -
-
-Table of Acts
 
 Racial Discrimination Act 1975                    41
 
@@ -1081,12 +1164,20 @@ Notes to the Racial Discrimination Act 1975
 
 ## Act Notes
 
-(a) | The Racial Discrimination Act 1975 was amended by section 3 only of the Administrative Changes (Consequential Provisions) Act 1976 , subsection 2(7) of which provides as follows:
---- | ---
-(b) | The Racial Discrimination Act 1975 was amended by Schedule 43 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 , subsection 2(1)(a) of which provides as follows:
+(a) The Racial Discrimination Act 1975 was amended by section 3 only of the Administrative Changes (Consequential Provisions) Act 1976, subsection 2(7) of which provides as follows:
+
+(7) The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
+
+(b) The Racial Discrimination Act 1975 was amended by Schedule 43 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
+
 (1) Subject to this section, this Act commences at the later of the following times:
+
+(a) immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
+
 Item 15 commenced on 24 May 2001.
-(c) | Subsection 2(1) (item 7) of the Age Discrimination (Consequential Provisions) Act 2004 provides as follows:
+
+(c) Subsection 2(1) (item 7) of the Age Discrimination (Consequential Provisions) Act 2004 provides as follows:
+
 (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 ### Commencement information
@@ -1110,6 +1201,8 @@ Notes to the Racial Discrimination Act 1975
 Table of Amendments
 
 ## Table of Amendments
+
+ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted
 
 Provision affected | How affected
 --- | ---
@@ -1146,8 +1239,6 @@ S. 19A ...................................... | ad. No. 179, 1992 rep. No. 133, 
 S. 20 ........................................ | am. No. 18, 1980 (as am. by No. 25, 1981) rs. No. 126, 1986 am. No. 101, 1995; No. 133, 1999; No. 70, 2009
 Note to s. 20 ............................. | ad. No. 133, 1999 am. No. 70, 2009
 
-ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted
-
 Racial Discrimination Act 1975                    43
 
 ComLaw Authoritative Act C2013C00013
@@ -1168,10 +1259,12 @@ S. 20A ...................................... | ad. No. 18, 1980 rep. No. 126, 1
 S. 21 ........................................ | am. No. 18, 1980 rs. No. 126, 1986 rep. No. 133, 1999
 S. 22 ........................................ | am. No. 18, 1980 rs. No. 126, 1986 am. No. 179, 1992; No. 101, 1995 rep. No. 133, 1999
 S. 23 ........................................ | am. No. 18, 1980 rs. No. 126, 1986 rep. No. 133, 1999
-Div. 2 of Part III......................... S. 24 ........................................ | rep. No. 133, 1999 am. No. 18, 1980 rs. No. 126, 1986 am. No. 38, 1988; No. 165, 1992; No. 101, 1995 rep. No. 133, 1999
+Div. 2 of Part III......................... | rep. No. 133, 1999
+S. 24 ........................................ | am. No. 18, 1980 rs. No. 126, 1986 am. No. 38, 1988; No. 165, 1992; No. 101, 1995 rep. No. 133, 1999
 Ss. 24AA, 24AB........................ | ad. No. 165, 1992 rep. No. 133, 1999
 Ss. 24A-24E ............................ | ad. No. 126, 1986 rep. No. 133, 1999
-Div. 3 of Part III......................... S. 24F ...................................... | rep. No. 133, 1999 ad. No. 126, 1986 rep. No. 133, 1999
+Div. 3 of Part III......................... | rep. No. 133, 1999
+S. 24F ...................................... | ad. No. 126, 1986 rep. No. 133, 1999
 S. 25 ........................................ | rs. No. 126, 1986 rep. No. 133, 1999
 Ss. 25A-25H ............................ | ad. No. 126, 1986 rep. No. 133, 1999
 Ss. 25J, 25K ............................. | ad. No. 126, 1986 rep. No. 133, 1999
@@ -1194,6 +1287,7 @@ ComLaw Authoritative Act C2013C00013
 Notes to the Racial Discrimination Act 1975
 
 Table of Amendments
+ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted
 
 Provision affected | How affected
 --- | ---
@@ -1230,6 +1324,7 @@ ComLaw Authoritative Act C2013C00013
 Notes to the Racial Discrimination Act 1975
 
 Table of Amendments
+ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted
 
 Provision affected | How affected
 --- | ---
@@ -1282,7 +1377,7 @@ Table A
 
 In this Part:
 
-appropriate Commissioner means: (a)  in relation to a complaint lodged under the old DDA-the Disability Discrimination Commissioner; and (b)  in relation to a complaint lodged under the old RDA-the Race Discrimination Commissioner; and (c)  in relation to a complaint lodged under the old SDA-the Sex Discrimination Commissioner. Court means the Federal Court of Australia. holding of an inquiry means a holding of an inquiry referred to in a notice given under: (a)  section 83 of the old DDA; or (b)  section 25E of the old RDA; or (c)  section 63 of the old SDA. new HREOCA means the Human Rights and Equal Opportunity Commission Act 1986 as amended by Schedule 1 to this Act. old DDA means the Disability Discrimination Act 1992 before being amended by Schedule 1 to this Act. old RDA means the Racial Discrimination Act 1975 before being amended by Schedule 1 to this Act. old SDA means the Sex Discrimination Act 1984 before being amended by Schedule 1 to this Act. purported complaint means a document purporting to be a complaint. starting day means the day on which this Part commences.
+appropriate Commissioner means: (a)  in relation to a complaint lodged under the old DDA—the Disability Discrimination Commissioner; and (b)  in relation to a complaint lodged under the old RDA—the Race Discrimination Commissioner; and (c)  in relation to a complaint lodged under the old SDA—the Sex Discrimination Commissioner. Court means the Federal Court of Australia. holding of an inquiry means a holding of an inquiry referred to in a notice given under: (a)  section 83 of the old DDA; or (b)  section 25E of the old RDA; or (c)  section 63 of the old SDA. new HREOCA means the Human Rights and Equal Opportunity Commission Act 1986 as amended by Schedule 1 to this Act. old DDA means the Disability Discrimination Act 1992 before being amended by Schedule 1 to this Act. old RDA means the Racial Discrimination Act 1975 before being amended by Schedule 1 to this Act. old SDA means the Sex Discrimination Act 1984 before being amended by Schedule 1 to this Act. purported complaint means a document purporting to be a complaint. starting day means the day on which this Part commences.
 
 Racial Discrimination Act 1975                    47
 
@@ -1292,7 +1387,7 @@ ComLaw Authoritative Act C2013C00013
 
 [[START OF PAGE 52]]
 
-Notes to the
+Notes to the Racial Discrimination Act 1975
 
 Table A
 
@@ -1300,7 +1395,7 @@ Table A
 
 (1)  A purported complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  it was lodged with the Commission; and (b)  the Commission had not decided whether it was a complaint within the meaning of the old DDA, old RDA or old SDA. (2)  On the starting day: (a)  the purported complaint is taken to have been lodged under section 46P of the new HREOCA; and (b)  the Commission must then decide whether it is a complaint within the meaning of the new HREOCA.
 
-##### 6  Administrative appeal on Commission's decision as to whether complaint
+##### 6  Administrative appeal on Commission’s decision as to whether complaint
 
 (1)  A purported complaint is treated in the way set out in subsection (2) if: (a)  before the starting day, the Commission decided that it was, or was not, a complaint within the meaning of the old DDA, old RDA or old SDA; and (b)  on or after the starting day, the Court makes an order under the Administrative Decisions (Judicial Review) Act 1977 to refer the matter to which the decision relates to the Commission for further consideration. (2)  On the day on which the order is made: (a)  the purported complaint is taken to have been lodged under section 46P of the new HREOCA; and (b)  the Commission must then decide whether it is a complaint within the meaning of the new HREOCA.
 
@@ -1309,8 +1404,6 @@ Table A
 (1)  A purported complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  it was lodged with the Commission; and (b)  the Commission decided that it was a complaint within the meaning of the old DDA, old RDA or old SDA; and
 
 48            Racial Discrimination Act 1975
-
-Racial Discrimination Act 1975
 
 ComLaw Authoritative Act C2013C00013
 
@@ -1330,7 +1423,7 @@ Table A
 
 ##### 9  Commissioner decided to dismiss complaint
 
-(1)  A complaint is treated in the way set out in subsection (2) if: (a)  before the starting day, the appropriate Commissioner decided not to inquire, or not to continue to inquire, into the complaint; and (b)  on the starting day, the complainant could have required the appropriate Commissioner to: (i)  refer the complaint to the President under section 71 of the old DDA if that section had not been repealed by this Act; or (ii)  refer the Commissioner's decision to the President, or refer the complaint to the Commission, under section 24 of the old RDA if that section had not been repealed by this Act; or (iii)  refer the Commissioner's decision to the President, or refer the complaint to the Commission, under section 52
+(1)  A complaint is treated in the way set out in subsection (2) if: (a)  before the starting day, the appropriate Commissioner decided not to inquire, or not to continue to inquire, into the complaint; and (b)  on the starting day, the complainant could have required the appropriate Commissioner to: (i)  refer the complaint to the President under section 71 of the old DDA if that section had not been repealed by this Act; or (ii)  refer the Commissioner’s decision to the President, or refer the complaint to the Commission, under section 24 of the old RDA if that section had not been repealed by this Act; or (iii)  refer the Commissioner’s decision to the President, or refer the complaint to the Commission, under section 52
 
 Racial Discrimination Act 1975                    49
 
@@ -1340,23 +1433,21 @@ ComLaw Authoritative Act C2013C00013
 
 [[START OF PAGE 54]]
 
-Notes to the
+Notes to the Racial Discrimination Act 1975
 
 Table A
 
 of the old SDA if that section had not been repealed by this Act. (2)  On the starting day, the President is taken to have terminated the complaint under section 46PH of the new HREOCA. Note: The President is required to give a notice of termination of the complaint under section 14 of this Act.
 
-##### 10  Presidential review of Commissioner's decision to dismiss complaint
+##### 10  Presidential review of Commissioner’s decision to dismiss complaint
 
-(1)  A complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  the appropriate Commissioner decided not to inquire, or not to continue to inquire, into the complaint; and (b)  the complainant required the appropriate Commissioner to refer the complaint, or the Commissioner's decision, to the President; and (c)  the President had not made a decision under whichever of the following sections is applicable: (i)  section 101 of the old DDA; (ii)  section 24AA of the old RDA; (iii)  section 52A of the old SDA. (2)  On the starting day, the President is taken to have terminated the complaint under section 46PH of the new HREOCA. Note: The President is required to give a notice of termination of the complaint under section 14 of this Act.
+(1)  A complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  the appropriate Commissioner decided not to inquire, or not to continue to inquire, into the complaint; and (b)  the complainant required the appropriate Commissioner to refer the complaint, or the Commissioner’s decision, to the President; and (c)  the President had not made a decision under whichever of the following sections is applicable: (i)  section 101 of the old DDA; (ii)  section 24AA of the old RDA; (iii)  section 52A of the old SDA. (2)  On the starting day, the President is taken to have terminated the complaint under section 46PH of the new HREOCA. Note: The President is required to give a notice of termination of the complaint under section 14 of this Act.
 
-##### 11  Administrative review of President's decision
+##### 11  Administrative review of President’s decision
 
 (1)  A complaint is treated in the way set out in subsection (2) if: (a)  before the starting day, the President made a decision in relation to the complaint under: (i)  section 101 of the old DDA; or (ii)  section 24AA of the old RDA; or (iii)  section 52A of the old SDA; and (b)  on or after the starting day, the Court makes an order under the Administrative Decisions (Judicial Review) Act 1977 to refer the matter to which the decision relates to the Commission for further consideration.
 
 50            Racial Discrimination Act 1975
-
-Racial Discrimination Act 1975
 
 ComLaw Authoritative Act C2013C00013
 
@@ -1446,7 +1537,7 @@ Notes to the Racial Discrimination Act 1975
 
 Table A
 
-##### 22  Transitional-powers of a Secretary
+##### 22  Transitional—powers of a Secretary
 
 A thing done by the Commission before the commencement of this section in exercising powers referred to in subsection 43(2) of the Human Rights and Equal Opportunity Commission Act 1986 has effect, for the purpose of the exercise by the President after the commencement of this section of powers referred to in that subsection, as if the thing had been done by the President.
 
@@ -1454,11 +1545,11 @@ A thing done by the Commission before the commencement of this section in exerci
 
 ##### Schedule 2
 
-###### 418  Transitional-pre-commencement offences
+###### 418  Transitional—pre-commencement offences
 
-(1) Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to: (a)  an offence committed before the commencement of this item; or (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or (c)  any matter connected with, or arising out of, such proceedings; as if the amendment or repeal had not been made. (2) Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901 .
+(1) Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to: (a)  an offence committed before the commencement of this item; or (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or (c)  any matter connected with, or arising out of, such proceedings; as if the amendment or repeal had not been made. (2) Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
 
-###### 419  Transitional-pre-commencement notices
+###### 419  Transitional—pre-commencement notices
 
 If: (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and (b)  any or all of those other provisions are repealed by this Schedule; and (c)  the first-mentioned provision is amended by this Schedule;
 
@@ -1480,15 +1571,15 @@ the amendment of the first-mentioned provision by this Schedule does not affect 
 
 ##### 4  Application of amendments
 
-- Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+(1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
-- For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+(2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
 #### Acts Interpretation Amendment Act 2011 (No. 46, 2011)
 
 ##### Schedule 3
 
-###### 10  Saving-appointments
+###### 10  Saving—appointments
 
 The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
