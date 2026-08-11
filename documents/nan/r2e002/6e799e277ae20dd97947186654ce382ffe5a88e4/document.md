@@ -34,7 +34,7 @@ right to receive assistance from state for developing national culture and educa
 
 > 1
 
-> http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/2b9f578afbdfbd75c2256dc10026 2528?OpenDocument
+> http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/2b9f578afbdfbd75c2256dc100262528?OpenDocument
 
 [[END OF PAGE 1]]
 
