@@ -12,17 +12,17 @@
 
 Preface
 
-- Introduction
+- 1. Introduction
 
-- Principles
+- 2. Principles
 
 - 3.Vision
 
-- Values
+- 4. Values
 
-- Competence Areas
+- 5. Competence Areas
 
-- Practical implications
+- 6. Practical implications
 
 1
 
@@ -32,7 +32,7 @@ Preface
 
 ## Preface
 
-Education  for  all,  considered  to  be  at  the  heart  of  UNESCO's  mission,  makes diversity and complexity important factors to be taken into account when defining what is intended  for  the  students'  learning  profile  after  12  years  of  compulsory  schooling.  The reference to a profile does not, however, seek any standardisation, but rather to create a frame of  reference  that  presupposes  freedom,  responsibility,  appreciation  of  work,  selfawareness, family and community involvement and participation in the society around us.
+Education  for  all,  considered  to  be  at  the  heart  of  UNESCO's  mission,  makes diversity and complexity important factors to be taken into account when defining what is intended  for  the  students'  learning  profile  after  12  years  of  compulsory  schooling.  The reference to a profile does not, however, seek any standardisation, but rather to create a frame of  reference  that  presupposes  freedom,  responsibility,  appreciation  of  work,  self-awareness, family and community involvement and participation in the society around us.
 
 Before  others  and  the  world  diversity,  change  and  uncertainty,  it  is  important  to create a balance between knowledge, understanding, creativity and critical thinking. It is about educating people to become autonomous, responsible and active citizens.
 
@@ -40,13 +40,15 @@ This is not about providing a minimal or an ideal profile but a desirable profil
 
 Learning is what distinguishes development from stagnation. Learning how to know, how to do, how to live together and with the others and how to be embodies a set of elements that must be seen taking their connections and implications into account. This also  implies  placing  lifelong  education  at  the  heart  of  society  -  by  understanding  the multiple tensions that hinder human evolution. The global and the local, the universal and the  individual,  tradition  and  modernity,  the  short  and  long  term,  competition  and  equal consideration and respect for all, routine and progress, ideas and reality - all these lead to our refusal to rigidity and to the will of thinking and creating a common destiny which is humanly emancipating.
 
-We  must,  therefore,  understand  Edgar  Morin  and  what  he  considers  to  be  the seven  pillars  of  a  culture  based  on  autonomy  and  responsibility:  preventing  knowledge against  error  and  illusion;  teaching  methods  that  allow  the  view  of  the  context  and  the whole, instead of a fragmented knowledge; being aware of the indissoluble link between unity  and  diversity  of  the  human  condition;  learning  an  Earth  identity,  considering humanity as a target community; confronting the uncertainties of our times; educating for mutual  understanding  between  people  of  different  backgrounds  and  cultures;  and developing an ethics for the human genre, in line with an inclusive citizenship.
+We must, therefore, understand Edgar Morin and what he considers to be the seven pillars of a culture based on autonomy and responsibility: preventing knowledge against error and illusion; teaching methods that allow the view of the context and the whole, instead of a fragmented knowledge; being aware of the indissoluble link between unity and diversity of the human condition; learning an Earth identity, considering humanity as a target community; confronting the uncertainties of our times; educating for
 
 2
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+mutual understanding between people of different backgrounds and cultures; and developing an ethics for the human genre, in line with an inclusive citizenship.
 
 Humanities, nowadays, have to connect education, culture and science, knowledge and know-how. The process of creation and innovation must be seen considering the poet, the artist, the artisan, the scientist, the sportsman, the technician - in short, the concrete person we all are.
 
@@ -74,7 +76,7 @@ Since  the  Portuguese  Education  Act  in  1986  education  policy  measures  h
 
 This  purpose  encompasses  and  includes  all  developmental  and  learning  opportunities  for children in a family context, along with early childhood education in formal kindergarten responses. The Framework Law on Pre-School Education (1997), in the scope of the Portuguese Education Act, reaffirmed the need to ensure access to the education system as early as possible and established pre-school education (from age 3 to 6) as the first stage of lifelong basic education. This highlights the clear statement, supported by research evidence, that it is essential for the well-being of all children and their educational achievement that all of them can have access to quality education, within a pathway which allows educational and pedagogical equity from birth, along with the family and in a growing integration of services.
 
-Curriculum  reference  documents  and  other  documents  that  support  pre-school  education guarantee coherence within the education system, that is, they must ensure a child's vision and education  that  promotes  educational  continuity  based  on  pedagogical  intentions,  principles  and values, as a condition for safe and meaningful transitions to compulsory schooling.
+Curriculum reference documents and other documents that support pre-school education guarantee coherence within the education system, that is, they must ensure a child's vision and
 
 4
 
@@ -82,7 +84,9 @@ Curriculum  reference  documents  and  other  documents  that  support  pre-scho
 
 [[START OF PAGE 6]]
 
-The  Students'  Profile  by  the  End  of  Compulsory  Schooling presents  itself  as  a  reference document for the organisation of the entire education system, contributing to the confluence and alignment  of  the  decisions  within  the  various  dimensions  of  curriculum  development.  When considering  and  substantiating  what  is  relevant,  appropriate  and  feasible  in  the  context  of  the different decision levels, it is possible and desirable to find meaningful guidelines in this profile. It is thus the matrix for decisions to be taken by educational managers and actors at the level of the bodies  responsible  for  educational  policies  and  educational  establishments.  The  purpose  is  to contribute to the organisation and management of curricula and also to the definition of strategies, methodologies and pedagogical-didactic procedures to be used in teaching practice.
+education that promotes educational continuity based on pedagogical intentions, principles and values, as a condition for safe and meaningful transitions to compulsory schooling.
+
+The Students' Profile by the End of Compulsory Schooling presents itself as a reference document for the organisation of the entire education system, contributing to the confluence and alignment of the decisions within the various dimensions of curriculum development. When considering and substantiating what is relevant, appropriate and feasible in the context of the different decision levels, it is possible and desirable to find meaningful guidelines in this profile. It is thus the matrix for decisions to be taken by educational managers and actors at the level of the bodies responsible for educational policies and educational establishments. The purpose is to contribute to the organisation and management of curricula and also to the definition of strategies, methodologies and pedagogical-didactic procedures to be used in teaching practice.
 
 The document assumes a necessarily broad, transversal and recursive nature. The broadness of  the Students'  Profile respects  the  inclusive  and  multiple  character  of  school,  ensuring  that, regardless of the school pathways, all knowledge is guided by explicit principles, values and vision, resulting  from  social  consensus.  Transversality  is  based  on  the  assumption  that  each  curriculum area contributes to the development of all competence areas considered in the Students' Profile , and there is no strict indexation of each of them to specific components and curriculum areas. The scope and transversality are in line with the recursive nature of this document, which consists of the possibility that in each year of schooling, its content and its purposes are continually invoked.
 
@@ -110,89 +114,7 @@ In  order  to  develop  the Students'  Profile ,  it  was  critical  to  consult
 
 > 1   Among  others,  the  curriculum  reference  documents  from  Australia,  British  Columbia  and Alberta (Canada), Finland, France, New Zealand and Singapore.
 
-2  National educational reference documents have been taken into account, among them the
-
-de Bases do Sistema Educativo
-
-á
-
-(
-
-Diplomado do Ensino Secund
-
-í
-
-Curr rio Portuguese Education Act
-
-(1986);
-
-Perfil Cultural Desej
-
-Cultural Profile for the Secondary School Diploma
-
-á
-
-(
-
-culo  Nacional  para  o  Ensino  B
-
-sico:  Compet
-
-ê
-
-ncias  Essenciais
-
-Primary and Lower Secondary Education: core competences
-
-á
-
-(
-
-(2001));
-
-Proposta  Curricular  para  os  Ensinos  B
-
-sico  e  Secund
-
-á
-
-Lei
-
-vel do
-
-) (1988);
-
-National  Curriculum  for
-
-çã
-
-Educa o para a cidadania
-
-rio
-
-(
-
--
-
-Education  for  Citizenship  -
-
-Curricular Proposal for Primary and Secondary Education
-
-á
-
-(coordinated by M.
-
-ª
-
-Em
-
-í
-
-lia Brederode
-
-Santos, 2011) and Recommendation no. 3/2012 on the extension of compulsory schooling up to
-
-the 12th grade or until the age of 18, by the National Education Council.
+> 2 National educational reference documents have been taken into account, among them the Lei de Bases do Sistema Educativo (Portuguese Education Act (1986); Perfil Cultural Desejável do Diplomado do Ensino Secundário (Cultural Profile for the Secondary School Diploma) (1988); Currículo Nacional para o Ensino Básico: Competências Essenciais (National Curriculum for Primary and Lower Secondary Education: core competences (2001)); Educação para a cidadania − Proposta Curricular para os Ensinos Básico e Secundário (Education for Citizenship - Curricular Proposal for Primary and Secondary Education (coordinated by M.ª Emília Brederode Santos, 2011) and Recommendation no. 3/2012 on the extension of compulsory schooling up to the 12th grade or until the age of 18, by the National Education Council.
 
 > 3  International educational reference documents were part of this consultation as well: the European Pact for Youth (2005); the European Reference Framework for Essential Competences for Lifelong Learning - Recommendation 2006/962 / EC of the European Parliament and of the Council  of  the  European  Union  of  18  December  (revised  2014);  the Assessment  and  Teaching
 
@@ -201,6 +123,30 @@ the 12th grade or until the age of 18, by the National Education Council.
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+PRINCIPLES
+
+HUMANISTIC BASED | KNOWLEDGE | LEARNING | INCLUSION | STABILITY | ADAPTABILITY AND AUDACITY | COHERENCE AND FLEXIBILITY | SUSTAINABILITY
+
+COMPETENCE AREAS
+
+BODY AWARENESS AND MASTERY
+LANGUAGES AND TEXTS
+INFORMATION AND COMMUNICATION
+CRITICAL AND CREATIVE THINKING
+REASONING AND PROBLEM SOLVING
+SCIENTIFIC TECHNICAL AND TECHNOLOGICAL KNOWLEDGE
+INTERPERSONAL RELATIONS
+AUTONOMY AND PERSONAL DEVELOPMENT
+WELL-BEING, HEALTH AND ENVIRONMENT
+AESTHETIC AND ARTISTIC SENSITIVITY/AWARENESS
+
+VALUES
+FREEDOM
+RESPONSABILITY AND INTEGRITY
+CITIZENSHIP AND PARTICIPATION
+EXCELLENCE AND DEMAND
+CURIOSITY, REFLEXION AND INNOVATION
 
 Picture 1 - Conceptual Framework for the Students' Profile by the End of Compulsory Schooling
 
@@ -224,11 +170,11 @@ C. Learning - Learning is critical to the education process. Educational action 
 
 D.  Inclusion -  Compulsory  schooling  is  from  all  and  for  all  fostering  equity  and  democracy. Contemporary  school  brings  together  a  diversity  of  students  both  from  the  socioeconomic  and cultural point of view, as well as from the cognitive and motivational perspective. All students are entitled to fully and effectively participate in all educational settings.
 
-E. Coherence and flexibility Ensuring access to learning and student participation in their training process requires coherent and flexible educational action. It is through the flexible management of the  curriculum  and  the  joint  work  of  teachers  and  educators  on  it  that  it  is  possible  to  explore diverse themes, bringing reality into the core of learning.
+E. Coherence and flexibility - Ensuring access to learning and student participation in their training process requires coherent and flexible educational action. It is through the flexible management of the curriculum and the joint work of teachers and educators on it that it is possible to explore diverse themes, bringing reality into the core of learning.
 
 F. Adaptability and audacity - Educating in the 21st century demands one's awareness to be able to adapt to new contexts and new structures, mobilising competences and also being prepared to update knowledge and perform new functions.
 
-G.  Sustainability  School  contributes  to  raise  students'  awareness  of  sustainability,  one  of  the greatest challenges in the contemporary world. It consists in establishing, through political, ethical and scientific innovation, lasting and secure synergies and symbiosis relations between the social and economic systems and the Earth System, whose fragile and complex balance depends on the historical continuity of human civilization.
+G. Sustainability - School contributes to raise students' awareness of sustainability, one of the greatest challenges in the contemporary world. It consists in establishing, through political, ethical and scientific innovation, lasting and secure synergies and symbiosis relations between the social and economic systems and the Earth System, whose fragile and complex balance depends on the historical continuity of human civilization.
 
 8
 
@@ -236,7 +182,7 @@ G.  Sustainability  School  contributes  to  raise  students'  awareness  of  su
 
 [[START OF PAGE 10]]
 
-H  Stability -  Educating  for  a  broad  competence  profile  requires  time  and  persistence. The Students' Profile by the End of Compulsory Schooling enables coping with evolution in every area of knowledge and get stability so that the system may adjust and produce effects.
+H - Stability - Educating for a broad competence profile requires time and persistence. The Students' Profile by the End of Compulsory Schooling enables coping with evolution in every area of knowledge and get stability so that the system may adjust and produce effects.
 
 ## 3. Vision
 
@@ -282,7 +228,7 @@ All the children and youth should be encouraged to put the following values into
 
 -Excellence and demand - Aspiring to the achievement of a well done work, of rigour and of overcoming; being perseverant in the face of difficulties; being aware of themselves  and others; showing sensitivity and solidarity with others.
 
--Curiosity, reflexion, innovation Willing to learn more; developing reflective, critical and creative thinking; striving for new solutions and applications.
+-Curiosity, reflexion, innovation - Willing to learn more; developing reflective, critical and creative thinking; striving for new solutions and applications.
 
 -Citizenship and participation - Demonstrating respect for human and cultural diversity and acting in accordance with human rights principles; negotiating conflict resolution on behalf of  solidarity  and  ecological  sustainability;  being  an  active  citizen,  by  means  of  taking  the initiative and being an entrepreneur.
 
@@ -298,9 +244,17 @@ All the children and youth should be encouraged to put the following values into
 
 Competences are complex combinations of knowledge, skills and attitudes, they are vital for  the  students'  profile,  as  well  as  for  compulsory  schooling.  Picture  2  illustrates  this  concept emphasising the interconnection of the three dimensions.
 
-Picture 2: Competence Conceptual Framework (Adapted from: Progress report on the Draft OECD EDUCATION 2030 Conceptual Framework - 3rd Informal Working Group (IWG) on the Future of Education and Skills: OECD Education 2030)
+Conhecimentos
+Capacidades
+Atitudes
+Competências
 
-Knowledge Skills Attitudes Competences
+Knowledge
+Skills
+Attitudes
+Competences
+
+Picture 2: Competence Conceptual Framework (Adapted from: Progress report on the Draft OECD EDUCATION 2030 Conceptual Framework - 3rd Informal Working Group (IWG) on the Future of Education and Skills: OECD Education 2030)
 
 The  competence  areas  are  complementary  and  they  are  not  outlined  according  to  any internal hierarchy. None of them are consistent with a specific curricular area. In each curricular area, on the contrary, multiple theoretical and practical competences are necessarily involved. They presuppose the development of multiple literacies, such as reading and writing, numeracy and the use  of  information  and  communication  technologies,  which  are  the  foundation  for  learning  and lifelong learning.
 
@@ -466,7 +420,7 @@ Students solve relationship problems within a peaceful, empathetic and critical 
 
 ### Personal development and autonomy
 
-Personal  development  and  autonomy  competences  refer  to  the  processes  by  which  the students  develop  their ability to integrate thought, emotion  and  behaviour,  building  selfconfidence, motivation to learn, self-regulation, initiative and informed decision-making learning to integrate thought, emotion and behaviour for a growing autonomy.
+Personal  development  and  autonomy  competences  refer  to  the  processes  by  which  the students  develop  their ability to integrate thought, emotion  and  behaviour,  building  self-confidence, motivation to learn, self-regulation, initiative and informed decision-making learning to integrate thought, emotion and behaviour for a growing autonomy.
 
 Personal development and autonomy competences imply that the students are able to:
 
@@ -534,7 +488,7 @@ Students  develop  the  aesthetic  sense,  mobilising  the  processes  of  refle
 
 Students  value  the  cultural  manifestations  of  the  communities  and  participate  autonomously  in artistic,  cultural  activities,  as  public,  creator  or  interpreter,  becoming  aware  of  the  creative possibilities.
 
-Students  perceive  the  aesthetic  value  of  experimentations  and  creations,  based  on  artistic  and technological  intentions,  mobilising  techniques  and  materials  in  compliance  with  different  sociocultural purposes and contexts.
+Students perceive the aesthetic value of experimentations and creations, based on artistic and technological intentions, mobilising techniques and materials in compliance with different socio-cultural purposes and contexts.
 
 20
 
