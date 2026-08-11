@@ -100,7 +100,7 @@ In  this  Proclamation,  unless  the  context  requires otherwise:
 
 - 1/ "academic community" means all those persons studying, teaching and doing research as permanent or visiting members of an institution;
 
-"academic officer" means research and publication officer, registrar and other similar officers;
+- 2) "academic officer" means research and publication officer, registrar and other similar officers;
 
 - 3/ "academic staff" means members of an institution employed in the capacity of teaching and/or research, and any other professional of the institution  who  shall  be  recognized  so  by  senate statutes;
 
@@ -148,13 +148,13 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 11/  "person" means a natural or juridical person;
 
-- 12/  "private institution" means a non-public higher  education  institution  established  by one  or  more  individual  owners  or  by  nonprofit  making  associations,  founded  as  cooperative  society  or  commercial  association, or  higher  education  institution established abroad and operating in Ethiopia;
+- 12/  "private institution" means a non-public higher education institution established by one or more individual owners or by non-profit making associations, founded as co-operative society or commercial association, or higher education institution established abroad and operating in Ethiopia;
 
 - 13/  "public institution" means an institution whose  budget is allocated by the Federal or State Government, as the case may be;
 
 - 14/  "state"  means  any  state  specified  in  Article 47 of the Constitution of the Federal Democractic Republic of Ethiopia and includes the Addis Ababa and Dire Dawa city administrations;
 
-- 15/  "technical staff"  means  non-administrative personnel employed to support the teachinglearning  and  research  processes  and  nonacademic professional medical personnel employed in a teaching hospital;
+- 15/  "technical staff" means non-administrative personnel employed to support the teaching-learning and research processes and non-academic professional medical personnel employed in a teaching hospital;
 
 - 16/  any expression in the masculine gender includes the feminine.
 
@@ -274,25 +274,25 @@ u²=I  ›ªÏ  SW[ƒ  ¾}ssS  }sU  QÒ© c¨<'ƒ  ÁK¨<  J·  ¾'w[ƒ  vKu?ƒ 
 
 - 4/ Any institution shall be established, changed or modified on the basis of a project which shall:
 
-- set socially acceptable aims for the proposed institution;
+- a) set socially acceptable aims for the proposed institution;
 
-- contain a description of the status and main academic units of the institution, and documentation on programmes and curricula;
+- b) contain a description of the status and main academic units of the institution, and documentation on programmes and curricula;
 
-- provide data on the research and teaching staff, the facilities, and the funding schemes;
+- c) provide data on the research and teaching staff, the facilities, and the funding schemes;
 
-- provide  for  a  management  system which shall guarantee effective delivery of education and research;
+- d) provide for a management system which shall guarantee effective delivery of education and research;
 
-- undertake to comply with minimum national standards and requirements.
+- e) undertake to comply with minimum national standards and requirements.
 
 - 5/ The Ministry shall issue directives on application  of  the  provisions  of  sub-article  (4) of this Article.
 
 - 6/ The  project  for  the  establishment  of  a  private institution shall, in addition to the requirements under sub-article (4) of this Article, be accompanied by a memorandum of establishment specifying the institution's:
 
-- scope of activities;
+- a) scope of activities;
 
-- property and source of funding;
+- b) property and source of funding;
 
-- management bodies and agents.
+- c) management bodies and agents.
 
 - 7/ The requirements for the establishment, change or  modification  of  an  institution  under  this Article  shall  apply mutatis  mutandis to the establishment of an institution or a branch of an institution that originates in a foreign country.
 
@@ -494,15 +494,15 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 1/ An  institution  shall  be  granted  the  name  and status of a 'university' by the Ministry where:
 
-- it  has  a  minimum  enrollment  capacity  of 2,000  students  in  regular  undergraduate and graduate programmes in at least three academic units larger than departments, or it  has  a  minimum  enrollment  capacity  of 2,000  students  in  regular  undergraduate programmes in at least four academic units larger than departments;
+- a) it has a minimum enrollment capacity of 2,000 students in regular undergraduate and graduate programmes in at least three academic units larger than departments, or it has a minimum enrollment capacity of 2,000 students in regular undergraduate programmes in at least four academic units larger than departments;
 
-- it has a record of at least four consecutive classes of graduates in a degree programme if  it  has  been  rendering  services  of  higher education after being accredited as a university college, college or institute;
+- b) it has a record of at least four consecutive classes of graduates in a degree programme if it has been rendering services of higher education after being accredited as a university college, college or institute;
 
-- it undertakes research in different appropriate fields, has published its research products and has facilitated means of dissemination of the research findings to end-users;
+- c) it undertakes research in different appropriate fields, has published its research products and has facilitated means of dissemination of the research findings to end-users;
 
-- it has a curriculum that match the national standards set by the Ministry, the necessary academic staff, institutional governing structures as provided for by this Proclamation, teaching materials, classrooms, libraries, laboratories, and other appropriate discipline-related facilities; and
+- d) it has a curriculum that match the national standards set by the Ministry, the necessary academic staff, institutional governing structures as provided for by this Proclamation, teaching materials, classrooms, libraries, laboratories, and other appropriate discipline-related facilities; and
 
-- it fulfills other minimum national standards set by the Ministry.
+- e) it fulfills other minimum national standards set by the Ministry.
 
 - 2/ Notwithstanding  the  provisions  of  sub-article (1)  of  this  Article  and  without  prejudice  to Article  5  of  this  Proclamation,  an  institution may be established with the name and the status of a university if it is conceived as such and its resource  provisions  as  well  as  its  institutional plans  and  vision  are  such  that  it  can,  in  the judgment of the Ministry, fulfill the requirements  set  forth  under  sub-article  (1)  of this Article in an acceptable time.
 
@@ -534,19 +534,19 @@ SJ' ›Kuƒ::
 
 ›'É }sU uT>'>e,\ & ¢K?Ï & ¾T>K¨<' eÁ T@'  Å[Í KTÓ-ƒ u²=I  ›ªÏ  ›'kê 01 '®<e  ›'kê    ( 1 )  }^  òÅM  (S)  c157'  (W) Ÿ}SKŸ~ƒ  SS²--‹  u}ÚT]  u=Á'e ŸÇ=û`ƒS'ƒ  uLÃ  uJ'  ›'É  ¾ƒUI`ƒ ¡õM  uÇ=Ó] ፕ aÓ^U  ƒUI`ƒ  ¾T>cØ SJ' Ã·`uM::
 
-- The  Ministry  shall  determine  the  university status of an institution that offers a combination of  regular and  distance  or  virtual  education  or only  distance  and/or  virtual  education  on  the basis of, as the case may be, its own study or in accordance with international good practice.
+- 3) The Ministry shall determine the university status of an institution that offers a combination of regular and distance or virtual education or only distance and/or virtual education on the basis of, as the case may be, its own study or in accordance with international good practice.
 
 #### 12.  Granting the Status of  a University College
 
 - 1/ An  institution  that  may  be  granted  the  name and  status  of  a  'university  college'  by  the Ministry  shall,  in  addition  to  the  requirements stipulated under  paragraphs (c), (d) and (e) of sub-article (1) of Article 11 of this Proclamation:
 
-- have  a  minimum  enrollment  capacity  of 2,000 undergraduate students in its regular degree programmes in three academic units larger than departments; and
+- a) have a minimum enrollment capacity of 2,000 undergraduate students in its regular degree programmes in three academic units larger than departments; and
 
-- have a record of at least three consecutive classes of graduates in a degree programme if  it  has  been  rendering  services  of  higher education after being accredited as a college or an institute.
+- b) have a record of at least three consecutive classes of graduates in a degree programme if it has been rendering services of higher education after being accredited as a college or an institute.
 
-- 2/ Notwithstanding  the  provisions  of  sub-article (1)  of  this  Article  and  without  prejudice  to Article  5  of  this  Proclamation,  an      institution may be established with the name and status of a university college if its resource provisions as well  as  institutional  plans  and  vision  are  such that  it  can,  in  the  judgment  of  the  Ministry, fulfill  the  requirements  set  forth  under  subarticle (1) of this Article in an acceptable time.
+- 2/ Notwithstanding the provisions of sub-article (1) of this Article and without prejudice to Article 5 of this Proclamation, an institution may be established with the name and status of a university college if its resource provisions as well as institutional plans and vision are such that it can, in the judgment of the Ministry, fulfill the requirements set forth under sub-article (1) of this Article in an acceptable time.
 
-- The  Ministry  shall  determine  the  university college  status  of  an  institution  that  offers  a combination  of  regular  and  distance  or  virtual education or only distance and/or virtual education on the basis of, as the case may be, its own study or in accordance with international good practice.
+- 3) The Ministry shall determine the university college status of an institution that offers a combination of regular and distance or virtual education or only distance and/or virtual education on the basis of, as the case may be, its own study or in accordance with international good practice.
 
 #### 13.   Granting the Status of a College
 
@@ -640,15 +640,15 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 3 /  ¾}sTƒ ፕ _²=Ç''‹ ¾›"ÇT>¡ ¡õKA‹  vL†¨< 'í'ƒ  HLò'†¨<' S¨×ƒ  c157'Ç=‹K<  ›eðLÑ>¨<  }sT© ÉÒõ'  ›Sˆ  G<'@-‹'  um  Gwƒ c157'Ç=·b†¨< Te‰M Ã·`v†ªM::
 
-- develop and implement relevant curricula and research  programmes;  create  new  or  close existing programmes; set up its organizational structure and enact and implement its internal rules and procedures;
+- a) develop and implement relevant curricula and research programmes; create new or close existing programmes; set up its organizational structure and enact and implement its internal rules and procedures;
 
-- consistent with other provisions of this Proclamation, select,  through  a  transparent system  of  competition,  academic  and  other staff  to  be  employed  by  the  institution  and designate  or  determine  their  responsibilities based on institutional requirements and expectations concerning performance and quality of work;
+- b) consistent with other provisions of this Proclamation, select, through a transparent system of competition, academic and other staff to be employed by the institution and designate or determine their responsibilities based on institutional requirements and expectations concerning performance and quality of work;
 
-- administer  its  personnel  based  on  the provisions  of  this  Proclamation  and  the principles of other applicable laws;
+- c) administer its personnel based on the provisions of this Proclamation and the principles of other applicable laws;
 
-- nominate  the  president,  vice  presidents and  members  of  the  Board,  and  select and  appoint  leaders  of  academic  units and departments as provided for by this Proclamation;
+- d) nominate the president, vice presidents and members of the Board, and select and appoint leaders of academic units and departments as provided for by this Proclamation;
 
-- manage  its  funds  and  property  on  the basis of this Proclamation and other applicable laws and regulations.
+- e) manage its funds and property on the basis of this Proclamation and other applicable laws and regulations.
 
 - 3/ Every  public institution shall exercise its autonomy  in  ways  that,  at  the  same  time, ensure lawfulness, efficiency and effectiveness, transparency, fairness, and accountability.
 
@@ -698,9 +698,9 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 2/ Subject  to  demonstrable  competence,  any institution  may also offer education and training through the following programmes:
 
-- continuing education;
+- a) continuing education;
 
-- distance or virtual education.
+- b) distance or virtual education.
 
 - 3/ Subject  to  demonstrable  competence,  any institution may also give short-term trainings for capacity building, or for imparting knowledge  and  skills  in  specific  fields,  and award appropriate certificates.
 
@@ -748,7 +748,7 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 5/ Without prejudice to national interests and relevance, every institution shall enjoy the liberty of  developing  curricula  for  all  of  its  academic programmes,  including  concerning  programmes for  which  nationally  applicable  curricula  may  be developed through joint efforts of institutions.
 
-- 6/ Curriculumm  delivery  shall  be  research  and study-based and up-to-date and the teachinglearning process shall be continuously updated in its design,  delivery  methods, and instruments of assessment.
+- 6/ Curriculumm delivery shall be research and study-based and up-to-date and the teaching-learning process shall be continuously updated in its design, delivery methods, and instruments of assessment.
 
 - 7/ The  Ministry  may,  without  prejudice  to  the legitimate authority of the individual institutions, coordinate curricula development  common  to  public  institutions and  issue  directives  as  may  be  necessary  to bring the provisions of this Article into operation.
 
@@ -848,9 +848,9 @@ SJ' ›Kuƒ::
 
 - 3/ More specifically, every institution shall undertake research that shall:
 
-- take  into  account  the  priority  needs  of the  country  and  enable  the  country  to solve its challenges and build its capacity through  technology transfer;
+- a) take into account the priority needs of the country and enable the country to solve its challenges and build its capacity through technology transfer;
 
-- equip students with basic knowledge and skills that enable them to undertake further and relevant studies and research.
+- b) equip students with basic knowledge and skills that enable them to undertake further and relevant studies and research.
 
 - 4/ Every institution shall have an institutionalized system  that enables it to carry out planned research and conduct joint research projects with other  national  and international institutions, research centres, and industries.
 
@@ -894,7 +894,7 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 2/ Every institution shall allocate sufficient fund particularly for research focusing on technology transfer and innovation.
 
-- 3/ Without  prejudice  to  the  provisions  of  subarticle (2) of this Article, any institution may conduct  research  in  the  priority  areas  using incomes from non-public sources; and it shall ensure  that  all  such  funds  as  well  as  public funds  allocated  specifically  for  research  are utilized with efficiency and efficacy.
+- 3/ Without prejudice to the provisions of sub-article (2) of this Article, any institution may conduct research in the priority areas using incomes from non-public sources; and it shall ensure that all such funds as well as public funds allocated specifically for research are utilized with efficiency and efficacy.
 
 - 4/ Every  institution shall  have  a  transparent system  of  research  fund  management  and utilization.
 
@@ -1040,9 +1040,9 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 8 /  ›Óvw'ƒ ÁL†¨< ¾K?KA‹ QÑA‹ }ðí T>'ƒ  c157'Å}Öuk  J·  T'-¨<U  K› 'É  ›"ÇT>¡  pØ`  x  ¾T>ÁSK¡ƒ c¨< שֵׂ ጠ ץ ¾T>‹K¨<    Ÿp`w Ñ>²? ›c]¨< ¾Y^ SMkmÁ Te[Í Tp[w c=‹M w‰ ÃJ'M::
 
-- professors, associate professors, assistant professors,  lecturers,  assistant  lecturers  and, under unique circumstances or conditions of transition,  graduate  assistants  employed  for teaching and/or research;
+- a) professors, associate professors, assistant professors, lecturers, assistant lecturers and, under unique circumstances or conditions of transition, graduate assistants employed for teaching and/or research;
 
-- other employees of the institution considered academic  staff by decision of the senate following international good practice and the provisions of the institution's internal regulations.
+- b) other employees of the institution considered academic staff by decision of the senate following international good practice and the provisions of the institution's internal regulations.
 
 - 2/ Every  institution shall institute rules  and procedures on employment and promotion of its academic staff, consistent with international good practices.
 
@@ -1094,19 +1094,19 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 1/ Without prejudice to other provisions of this Proclamation,  every  academic  staff    shall have the right to:
 
-- exercise academic freedom based on the institution's mission;
+- a) exercise academic freedom based on the institution's mission;
 
-- conduct research and render consultancy services in accordance with internal regulations of the institution; and take sabbatical  and  research  leaves  to  conduct research and studies beneficial to the institution  and  the  country,  in  accordance with internal regulations of the institution;
+- b) conduct research and render consultancy services in accordance with internal regulations of the institution; and take sabbatical and research leaves to conduct research and studies beneficial to the institution and the country, in accordance with internal regulations of the institution;
 
-- be  entitled  to  further  education  and  training for professional development, subject to internal rules and regulations of the institution;
+- c) be entitled to further education and training for professional development, subject to internal rules and regulations of the institution;
 
-- be promoted and assume new academic rank on the basis of merit in accordance with the institution's rules and regulations and in accordance with national norms and standards the Ministry may issue as necessary;
+- d) be promoted and assume new academic rank on the basis of merit in accordance with the institution's rules and regulations and in accordance with national norms and standards the Ministry may issue as necessary;
 
-- enjoy transparent, fair, and equitable administration  and  system  of  remuneration and benefits that shall be instituted by Government as the economic condition of the country  may  permit  or  as the  income  of  a private institution may permit;
+- e) enjoy transparent, fair, and equitable administration and system of remuneration and benefits that shall be instituted by Government as the economic condition of the country may permit or as the income of a private institution may permit;
 
-- participate,  as  feasible,  in  formulations  of institutional direction, plans, regulations, and in curricula development and make comments on the quality and appropriateness of the teaching-learning process;
+- f) participate, as feasible, in formulations of institutional direction, plans, regulations, and in curricula development and make comments on the quality and appropriateness of the teaching-learning process;
 
-- be  informed  on  his  performance  results  and of any records kept in his personal file without his prior knowledge as well as enjoy confidential  maintenance  of  information  in his personal file except for the official business of the institution or the provisions of pertinent laws require otherwise;
+- g) be informed on his performance results and of any records kept in his personal file without his prior knowledge as well as enjoy confidential maintenance of information in his personal file except for the official business of the institution or the provisions of pertinent laws require otherwise;
 
 [[END OF PAGE 20]]
 
@@ -1156,13 +1156,13 @@ ETHIOPICSYLLABLESHI
 
 )ט }T]-‹ ¾}sS<' }M°¢' S] c157c?'‹' ¾Ÿõ}- ƒUI`ƒ ¯LT -‹' c157'Ç=Á¨<l ¾SUŸ`' ¾TÑ´' ¾S`Çƒ&
 
-- enjoy  campus  security  for  himself  and for his personal property while rendering the proper services;
+- h) enjoy campus security for himself and for his personal property while rendering the proper services;
 
-- be  informed  on  the  plan,  development, direction,  condition  and  performance  of the institution;
+- i) be informed on the plan, development, direction, condition and performance of the institution;
 
-- elect  and  be  elected  where  election  of academic staff  is the norm;
+- j) elect and be elected where election of academic staff is the norm;
 
-- receive due process in disciplinary matters and demand and receive redress in cases of inappropriate decisions.
+- k) receive due process in disciplinary matters and demand and receive redress in cases of inappropriate decisions.
 
 - 2/ Every  institution  shall  formulate  rules  and procedures  on  all  matters  of  rights  of  its academic staff and adopt and implement the same after having them duly debated through participatory processes.
 
@@ -1170,15 +1170,15 @@ ETHIOPICSYLLABLESHI
 
 - 1/ Every academic staff member of an institution shall have the responsibilities to:
 
-- teach, including assisting students in need  of  special  support,    and  render academic  guidance  or  counseling  and community services;
+- a) teach, including assisting students in need of special support, and render academic guidance or counseling and community services;
 
-- undertake problem-solving studies and researches and transfer knowledge and skills, in  the  specific  area  of  self-competence  and professional  position,  that  are  beneficial  to the country; or at least  ensure that  own teaching is  research  and  study -based  and continuously updated;
+- b) undertake problem-solving studies and researches and transfer knowledge and skills, in the specific area of self-competence and professional position, that are beneficial to the country; or at least ensure that own teaching is research and study-based and continuously updated;
 
-- participate in curriculum development, review,  and  enhancement;  and  the  required professional standard in curriculum delivery, student assessment, grading, counseling, and management of student complaints and grievances, and in professional ethical standards in general;
+- c) participate in curriculum development, review, and enhancement; and the required professional standard in curriculum delivery, student assessment, grading, counseling, and management of student complaints and grievances, and in professional ethical standards in general;
 
-- uphold, respect and practice the objectives of higher  education  and  the  guiding  values  of the institution; and exercise academic freedom with professionalism and consistent with the applicable provisions of this Proclamation;
+- d) uphold, respect and practice the objectives of higher education and the guiding values of the institution; and exercise academic freedom with professionalism and consistent with the applicable provisions of this Proclamation;
 
-- counsel,  assist  and  support  students  in acquainting themselves with the mission and  guiding  values  of  the  institution  as well  as  with  the  objectives  of  higher education;
+- e) counsel, assist and support students in acquainting themselves with the mission and guiding values of the institution as well as with the objectives of higher education;
 
 [[END OF PAGE 21]]
 
@@ -1206,15 +1206,15 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 1 / እafii64242ደ ָ ዩ  ጥalefmapiq ו afii63954 בֳ ያ ד ُשָׂ reshdagesh -נ ٢ٍ እafii64242ዲ ֲ afii64242 afii57471afii64242ድ  afii57471ካዳ ג ክ ـףט afii57372 גהּ alefmapiqጥ ֵ ץ ደ נ ግ ይ ֶָ٤ ፡፡  የafii57471ካዳ ג ክ ـףט afii57372 גהּ alefmapiqጥ ץ የ ֲג afii62845ው reshdagesh ר ጠው afii57471ገ ָ ግ ֹُ afii63954 וֹ reshdagesh נ ከ ـ ው የ ד doubleyod ץדـ እafii63954/ወይ ו የ ו ץוץו glyph650 ף ዊ afii57471doubleyod ـ ዋፅኦ ወይ ו וֹ doubleyod א ዘገreshdageshው የ עא  והּـ afii62845 ُ kafrafealefpatah ֶ ُ ይ אـ doubleyod ِץ ይ ֲ afii63954 ָ ፡፡
 
-- devote his full working  time to the institution;
+- f) devote his full working time to the institution;
 
-- refrain from imposing his political views and  religious beliefs on his students during teaching-learning process;
+- g) refrain from imposing his political views and religious beliefs on his students during teaching-learning process;
 
-- treat  and  interact  with  members  of  the institution's community by refraining from  acts  that are contrary  to rights enshrined in the Constitution;
+- h) treat and interact with members of the institution's community by refraining from acts that are contrary to rights enshrined in the Constitution;
 
-- perform  other  additional  responsibilities that  may  be  provided  for  by  the  senate statutes, establishing legislation, or memorandum of association of the institution;
+- i) perform other additional responsibilities that may be provided for by the senate statutes, establishing legislation, or memorandum of association of the institution;
 
-- without  prejudice  to  the  provisions  of this Proclamation pertaining to joint appointment, devote his full energy, working time and attention to the institution.
+- j) without prejudice to the provisions of this Proclamation pertaining to joint appointment, devote his full energy, working time and attention to the institution.
 
 - 2/ Academic  staff  who  are  medical  and  health professionals shall have also the responsibility to render health services in the institution's teaching hospital.
 
@@ -1256,11 +1256,11 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 4/ The retirement age of an academic staff of a public  institution  may  be  extended  by  the Ministry, for two consecutive sets of terms of three years each, where:
 
-- the  staff  holds  a  Master's  Degree  or above, remains in good health and has a meritorious continuous service;
+- a) the staff holds a Master's Degree or above, remains in good health and has a meritorious continuous service;
 
-- the  institution  reasonably  justified,  on the basis of actual and projected demand, the need to extend the retirement age;
+- b) the institution reasonably justified, on the basis of actual and projected demand, the need to extend the retirement age;
 
-- the staff has freely consented to extension of the retirement age.
+- c) the staff has freely consented to extension of the retirement age.
 
 - 5/ The  Ministry  shall  issue  directives  for  the implementation of the provisions of this Article.
 
@@ -1294,7 +1294,7 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 4/ The  provisions  of  this  Article  shall  not  be construed  to  entitle  an  academic  staff  of  a public  institution  or  a  government  employee to be jointly appointed in a private institution.
 
-- 5/ Without  prejudice  to  the  provisions  of  subarticle (3) of this Article, the Ministry shall, within a year from the effective date of this Proclamation,  issue  a  standard  guideline  to assist institutions develop their own rules and procedures.
+- 5/ Without prejudice to the provisions of sub-article (3) of this Article, the Ministry shall, within a year from the effective date of this Proclamation, issue a standard guideline to assist institutions develop their own rules and procedures.
 
 #### 35.   Administrative and Technical Support Staff
 
@@ -1386,23 +1386,23 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 - 1/ Without prejudice to other provisions of this Proclamation and other applicable laws, students of any institution shall have the right to:
 
-- free  inquiry  of  truth  and  freedom  of expression  of  ideas  and  thoughts  in  the process of learning and conducting research;
+- a) free inquiry of truth and freedom of expression of ideas and thoughts in the process of learning and conducting research;
 
-- enjoy  the  freedom  to  learn  with  appropriate opportunities  and  conditions  in  classrooms, campuses and in the larger community;
+- b) enjoy the freedom to learn with appropriate opportunities and conditions in classrooms, campuses and in the larger community;
 
-- protection  of  their  constitutional  human rights,  personal  safety,  and  security  of their personal property on campus;
+- c) protection of their constitutional human rights, personal safety, and security of their personal property on campus;
 
-- be free to express orderly their views on issues of institutional policy;
+- d) be free to express orderly their views on issues of institutional policy;
 
-- receive protection from any form of discrimination or harassment;
+- e) receive protection from any form of discrimination or harassment;
 
-- be entitled to equitable and fair treatment in all respects of the teacher-student relationship and to an environment conducive to stimulate learning;
+- f) be entitled to equitable and fair treatment in all respects of the teacher-student relationship and to an environment conducive to stimulate learning;
 
-- be  evaluated  solely  on  academic  basis consistent  with  norms    provided  for  by this  Proclamation  and  the  institution's academic  standards,  and  receive  redress against capricious evaluation;
+- g) be evaluated solely on academic basis consistent with norms provided for by this Proclamation and the institution's academic standards, and receive redress against capricious evaluation;
 
-- participate  in  a  transparent  system  of performance evaluation of academic staff and academic programmes;
+- h) participate in a transparent system of performance evaluation of academic staff and academic programmes;
 
-- enjoy the benefits of a carefully considered policy of confidentiality regarding the information that should be part of their permanent educational record  and  as  to  the  conditions  of  its disclosure;
+- i) enjoy the benefits of a carefully considered policy of confidentiality regarding the information that should be part of their permanent educational record and as to the conditions of its disclosure;
 
 [[END OF PAGE 26]]
 
@@ -1434,29 +1434,29 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - u¡õM  ¨<eØU  J'  u}sS<  Óu= ¨<eØ  uQÓ  ¾}Öuk¨<'  ¾K?KA‹ c-‹' Swƒ ¾T¡u`&
 
-- join the institution's student union, which shall  be  founded  on  the  principle  of universality of membership in accordance with the pertinent laws so as to  promote  and  protect  lawfully  their common interests;
+- j) join the institution's student union, which shall be founded on the principle of universality of membership in accordance with the pertinent laws so as to promote and protect lawfully their common interests;
 
-- obtain access to facilities of the institution through their union in accordance with the rules and procedures of the institution;
+- k) obtain access to facilities of the institution through their union in accordance with the rules and procedures of the institution;
 
-- participate, through their union or representatives,  in  the  sessions  of  the institution's governing bodies in accordance  with  this  Proclamation  and directives issued by the Board;
+- l) participate, through their union or representatives, in the sessions of the institution's governing bodies in accordance with this Proclamation and directives issued by the Board;
 
-- use, under the leadership and guidance of the student union and with the attendant responsibilities,  communications  media  on campus  to  provide  a  forum  for  the free exchange of ideas and to present news, opinion and editorial comments;
+- m) use, under the leadership and guidance of the student union and with the attendant responsibilities, communications media on campus to provide a forum for the free exchange of ideas and to present news, opinion and editorial comments;
 
-- benefit from the cost-sharing system and receive guidance and counseling services in accordance with this Proclamation.
+- n) benefit from the cost-sharing system and receive guidance and counseling services in accordance with this Proclamation.
 
-- 2/ Every  institution  shall  have  the  responsibility  to develop and implement rules and procedures that shall  safeguard  the  rights  of  students  stipulated under this Article. The rules and procedures shall be developed in accordance with this Proclamation and  on  the  basis  of  consensus  built  through  the participation of the academic community.
+- 2/ Every institution shall have the responsibility to develop and implement rules and procedures that shall safeguard the rights of students stipulated under this Article. The rules and procedures shall be developed in accordance with this Proclamation and on the basis of consensus built through the participation of the academic community.
 
 #### 38.  Responsibilities of Students
 
 - 1/ Without prejudice to other provisions of this Proclamation and other applicable laws, any student of an institution shall have the responsibilities to:
 
-- attend  classes  properly  and  respect  the indivisible authority of  any  academic staff  in  the  leadership  and  management of the teaching-learning process;
+- a) attend classes properly and respect the indivisible authority of any academic staff in the leadership and management of the teaching-learning process;
 
-- maintain standards of academic performance established for each course in which he is enrolled;
+- b) maintain standards of academic performance established for each course in which he is enrolled;
 
-- know and uphold the objectives of higher education and the guiding values of the institution;
+- c) know and uphold the objectives of higher education and the guiding values of the institution;
 
-- respect, in classroom or anywhere in the premises of the institution,  the rights  of other persons protected by law;
+- d) respect, in classroom or anywhere in the premises of the institution, the rights of other persons protected by law;
 
 [[END OF PAGE 27]]
 
@@ -1488,27 +1488,27 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 - 3 /  ¾²=I afii57471afii64242 שׂ ጽafii63954 የዚ ֱ ›ª ጅ K?KA‹ É'ÒÑ@-‹' ›Óvw'ƒ ÁL†¨< K?KA‹ QÑA‹ c157'Å}Öul  J'¨<'  T'-¨<U  }sU ¾T>Ÿ}K<ƒ afii64242 }T]-‹ ÃkuLM ፡-
 
-- observe scrupulously the applicable provisions  of  this  Proclamation  and  the rules of the institution which are consistent with this Proclamation;
+- e) observe scrupulously the applicable provisions of this Proclamation and the rules of the institution which are consistent with this Proclamation;
 
-- interact  with  academic  and  other  staff and  any  other  student  of  the  institution with  due  respect  to  their  constitutional rights;
+- f) interact with academic and other staff and any other student of the institution with due respect to their constitutional rights;
 
-- refrain  from  any  unlawful  act  and  from any unethical activities;
+- g) refrain from any unlawful act and from any unethical activities;
 
-- remonstrate  and  seek  redress  peacefully  and through  legal  avenues  in  the  event  student interests, be it individual or collective, are at stake, and exhaust all institutional avenues of redress;
+- h) remonstrate and seek redress peacefully and through legal avenues in the event student interests, be it individual or collective, are at stake, and exhaust all institutional avenues of redress;
 
-- use and handle the properties of the institution with due care and be held accountable  for  any  damage  caused  to  the property  of  the  institution  due  to  intentional or negligent misuse or destruction;
+- i) use and handle the properties of the institution with due care and be held accountable for any damage caused to the property of the institution due to intentional or negligent misuse or destruction;
 
-- effect payment  of fees applicable in accordance  with  the  provisions  of  this Proclamation  for  services  that  has  been provided by the institution.
+- j) effect payment of fees applicable in accordance with the provisions of this Proclamation for services that has been provided by the institution.
 
 - 2/ Every institution shall have the duty to adopt a code of conduct governing students' behavior and appropriate disciplinary procedures.
 
 #### 39.    Admissions of Students
 
-- 1/ Admissions to undergraduate programmes of any institution  shall  be  based  on  completion  of  the preparatory programme and obtaining the necessary  pass  marks  in  the  university  entrance examination.  Admissions may also be granted to students completed their secondary school in foreign countries on the basis of equivalent academic  achievements  that  shall  be  determined by the Ministry.
+- 1/ Admissions to undergraduate programmes of any institution shall be based on completion of the preparatory programme and obtaining the necessary pass marks in the university entrance examination. Admissions may also be granted to students completed their secondary school in foreign countries on the basis of equivalent academic achievements that shall be determined by the Ministry.
 
-- 2/ The  Ministry  shall  administer  the  university entrance examination and decide on eligibility for admissions to any institution.
+- 2/ The Ministry shall administer the university entrance examination and decide on eligibility for admissions to any institution.
 
-- 3/ Without prejudice to other provisions of this Article, other provisions of this Proclamation and  other  applicable    laws,  every  institution shall, with  respect  to  student  admissions, have the rights and responsibilities to admit:
+- 3/ Without prejudice to other provisions of this Article, other provisions of this Proclamation and other applicable laws, every institution shall, with respect to student admissions, have the rights and responsibilities to admit:
 
 [[END OF PAGE 28]]
 
@@ -1530,17 +1530,17 @@ Federal   Negarit   Gazeta  No. 64    17 th September,  2009 ….   Page 5004
 
 - 6 /  ¾}TŸK  ¾}T]-‹  UÅv  c157eŸkÖK É[e T>'>e,\ }T]-‹' ¾T>SÉu¨< ¾S'ÓYƒ  }sTƒ'  uTTŸ`  ÃJ'M& ¾S'ÓYƒ }sTƒ  ^d†¨< ukØ  }T]-‹'  KSkuM  ¾T>‹K<uƒ Ñ>²? c=Å`e' }Óv^© SÅ[Ñ<U c=S'uƒ  T>'>e,\  ¾SÓu=Á  ð}'¨<'  uTe}ÇÅ`'  ¾TKòÁ  'Øw' afii63954 א ግ תּ ያ afii62845ጥkafrafeafii64242 uS¨c''  eK  M¿ ÉÒõ  }ÖnT>-‹  SS]Á'  uT¨<-× ُ ፣ የalefmapiqreshdagesh ֶ doubleyod ץ ዓ ُ afii64242 reshdagesh א ወ ר afii64242 c157' ¾puL¨< ›ðíìU' uSŸ}M' uTe}"ŸM LÃ ¾}ÑÅu ÃJ'M::
 
-- for  undergraduate  studies,  graduates  of preparatory schools who pass the university entrance examination and graduates  of  foreign  country  secondary school  systems  with  equivalent  level  as determined by the Ministry;
+- a) for undergraduate studies, graduates of preparatory schools who pass the university entrance examination and graduates of foreign country secondary school systems with equivalent level as determined by the Ministry;
 
-- for second degree-level graduate studies, candidates who have completed their undergraduate studies with the academic results  required  by  the  institution;  or,  for doctoral  programmes,  candidates  who  have second-level degrees and the academic results required by the institution;
+- b) for second degree-level graduate studies, candidates who have completed their undergraduate studies with the academic results required by the institution; or, for doctoral programmes, candidates who have second-level degrees and the academic results required by the institution;
 
-- technical and vocational education and training graduates with pertinent qualifications and who satisfy entrance qualifications assessment set by the institution, with the right to participate in the assessment being limited to those who qualify on the basis of merit-based directives to be issued by the Ministry.
+- c) technical and vocational education and training graduates with pertinent qualifications and who satisfy entrance qualifications assessment set by the institution, with the right to participate in the assessment being limited to those who qualify on the basis of merit-based directives to be issued by the Ministry.
 
-- 4/ Notwithstanding the provisions of subarticles  (1)  and  (3)(a)  of  this  Article  there shall  be  special  admissions  procedures  for disadvantaged  citizens  to  be  determined  by regulation of the Council of Ministers and to be implemented by directive of the Ministry issued hereunder.
+- 4/ Notwithstanding the provisions of sub-articles (1) and (3)(a) of this Article there shall be special admissions procedures for disadvantaged citizens to be determined by regulation of the Council of Ministers and to be implemented by directive of the Ministry issued hereunder.
 
-- 5/     A public institution may admit adults under special  admissions  procedures    to  be  issued pursuant  to  the  establishment  regulations  of the  institution  and  as  the  institution's  senate may determine; and the Ministry may extend the  applicability  of  this  provision  to  private institutions as circumstances may permit.
+- 5/ A public institution may admit adults under special admissions procedures to be issued pursuant to the establishment regulations of the institution and as the institution's senate may determine; and the Ministry may extend the applicability of this provision to private institutions as circumstances may permit.
 
-- The Ministry shall consult the public institutions  concerning  student  placement  so long as the current centralized placement of students in public institutions shall continue. As and when direct selection of students for admission by public institutions becomes feasible and desirable, the Ministry shall limit itself  to  administering  the  entrance  exam, deciding  on  pass  marks  and  eligibility  for admission, including entitlement to affirmative  action, monitoring  the admission process and ensuring compliance by institutions to its directives.
+- 6) The Ministry shall consult the public institutions concerning student placement so long as the current centralized placement of students in public institutions shall continue. As and when direct selection of students for admission by public institutions becomes feasible and desirable, the Ministry shall limit itself to administering the entrance exam, deciding on pass marks and eligibility for admission, including entitlement to affirmative action, monitoring the admission process and ensuring compliance by institutions to its directives.
 
 [[END OF PAGE 29]]
 
@@ -1564,33 +1564,33 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 - 1 /  uT'-¨<U  }sU  ¨<eØ  ¾T>·[¨< ¾ST`  Te}T`  H>Åƒ  ¾ƒUI`~ ›c×Ø u¾ƒ-¨<U SMŸ< u=J' ›dò  J·  }T]'  ÁTŸK'  u'nƒ ST`' ¾T>Á^UÉ SJ' Ã·`uM::
 
-#### 40.   Physically Challenged Students
-
-- 1/ Institutions shall make, to the extent possible, their  facilities  and  programmes  amenable  to use with relative ease by physically challenged students.
-
-- 2/ Institutions shall, to the extent that situations and resources permit, relocate classes, develop  alternative  testing  procedures,  and provide different educational auxiliary aids in the interest of students with physical challenges.
-
-- 3/ Building designs, campus physical landscape, computers and other infrastructures of institutions shall take into account the interests of physically challenged students.
-
-- 4/ Institutions  shall  ensure  that  students  with physical challenges get to the extent necessary  and  feasible  academic  assistance, including tutorial sessions, exam time extensions and deadline extensions.
-
-#### 41.    Quality  of  Teaching-Learning and Assessment of Students
-
-- 1/ The  teaching  and  learning  process  in  any institution shall be, whatever the methods of delivery employed, interactively studentcentered that shall promote active learning.
-
 - 2 /  uT'-¨<U  }sU  ¨<eØ  ¾T>·[¨< ¾ST` Te}T` glyph650afii57382 ٍ u}‰K SÖ' u¡õM  ¨<eØU  J'  u}sS<  Óu=-‹ ¨<eØ  }T]-‹'  KST`  ¾T>Á reshdagesh -נ ٍٍ SM"U  Évw ÁK¨< SJ' Ã·`uM::
 
-- 2/ The teaching and learning conditions in any institution  shall, as  far  as  practicable,  create in-class and on-campus enabling environment and encouraging atmosphere for students to learn.
-
 - 3 /  ¾ƒUI`~ ›k^[ê' ›c×Ø ¾}T]-‹' °¨<kƒ' ¡ ֱ KAƒ ¾T>ÁuKêÓ' SM"U c157c?'‹' ¾T>ÁeØp' u}T]-‹ ›SK"Ÿƒ LÃ ›¨<'© K¨<Ø' c157ÉÑƒ ¾T>ÁS× SJ' Ã·`uM::
-
-- 3/ The  designing  of  courses  and  their  delivery shall be such that the courses shall add to the knowledge  and  skills  students  already  have, cultivate constructive professional values, and bring about attitudinal changes and development  in  students  at  the  end  of  the courses.
 
 - 4 /  }T]-‹  ¾T>S²'<ƒ  uS³-'~  ›Óv w'ƒ  vK¨<  e`¯ƒ'  u}T\ƒ LÃ }SY`'  SJ'  Ã·`uM&  ¾U²' ¨<Ö?ƒ ›c×Ø e`¯ƒU ¾}[ÒÑÖ¨<' ¯pU ¾T>ÑMî ÃJ'M::
 
 - 5 /  u}sU Å[Í °¨<p' ¾}cÖ¨<' uc157Á' Ç'Æ ¾ƒUI`ƒ ¡õM c157' ደafii57471 Óvu< uT××U  ¾T>W^uƒ  c157'  c157Á'Ç'Æ ¾›"ÇT>¡  W^}-  K=ÁŸw[¨<<  ¾T>Ñv }T]-‹U  ›ekÉS¨<  ¾T>Á¨<lƒ ¾}T]-‹ U²'' ð}' e`¯ƒ Ã·^M::
 
-- 4/            Students  shall  be  assessed  properly  and fairly on the basis of their learning experience; the marking system shall be reflective  of  the  competences  achieved  by students.
+#### 40.   Physically Challenged Students
+
+- 1/ Institutions shall make, to the extent possible, their facilities and programmes amenable to use with relative ease by physically challenged students.
+
+- 2/ Institutions shall, to the extent that situations and resources permit, relocate classes, develop alternative testing procedures, and provide different educational auxiliary aids in the interest of students with physical challenges.
+
+- 3/ Building designs, campus physical landscape, computers and other infrastructures of institutions shall take into account the interests of physically challenged students.
+
+- 4/ Institutions shall ensure that students with physical challenges get to the extent necessary and feasible academic assistance, including tutorial sessions, exam time extensions and deadline extensions.
+
+#### 41.    Quality of Teaching-Learning and Assessment of Students
+
+- 1/ The teaching and learning process in any institution shall be, whatever the methods of delivery employed, interactively student-centered that shall promote active learning.
+
+- 2/ The teaching and learning conditions in any institution shall, as far as practicable, create in-class and on-campus enabling environment and encouraging atmosphere for students to learn.
+
+- 3/ The designing of courses and their delivery shall be such that the courses shall add to the knowledge and skills students already have, cultivate constructive professional values, and bring about attitudinal changes and development in students at the end of the courses.
+
+- 4/ Students shall be assessed properly and fairly on the basis of their learning experience; the marking system shall be reflective of the competences achieved by students.
 
 - 5/ There shall be institutionally recognized and well-defined student assessment and examination methods and systems at academic unit levels to which any academic staff shall adhere, and have been made known to students.
 
@@ -1628,15 +1628,15 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 - ¾›e}ÇÅ`'  ¾,¡'>¡  ÉÒõ  cÜ ¡õKA‹'
 
-- 6/ There  shall  be  adequate  structures,  at  the necessary  levels  of  the  pertinent  academic units, which shall constitute leading authorities  at  any  of  the  levels  on  student assessments,  examinations  and  grading  of results.
+- 6/ There shall be adequate structures, at the necessary levels of the pertinent academic units, which shall constitute leading authorities at any of the levels on student assessments, examinations and grading of results.
 
-- 7/ Student complaints against assessment methods,  examinations,  grading  systems  or results thereof shall be handled, at institutional level, with due care and expeditiously.
+- 7/ Student complaints against assessment methods, examinations, grading systems or results thereof shall be handled, at institutional level, with due care and expeditiously.
 
-- 8/ Academic staff shall receive on-job and tailor-made  professional  training  on  student assessment  theories  and  skills;  and  mastery and successful application of assessment skills  as  well  as  teaching  shall  constitute critical prerequisites for continuity of employment and promotions.
+- 8/ Academic staff shall receive on-job and tailor-made professional training on student assessment theories and skills; and mastery and successful application of assessment skills as well as teaching shall constitute critical prerequisites for continuity of employment and promotions.
 
-- 9/ Plagiarism and cheating by students in assignments  and  examinations  and nepotism or vengeance by academic staff in administration of examinations, correction of examinations and assignments, and in determining  grades  shall  constitute  breaches of discipline warranting severe penalties.
+- 9/ Plagiarism and cheating by students in assignments and examinations and nepotism or vengeance by academic staff in administration of examinations, correction of examinations and assignments, and in determining grades shall constitute breaches of discipline warranting severe penalties.
 
-- 10/  Rules and procedures governing  teaching methods and assessment, grading and academic status of students shall be provided in  the  senate  statutes  of  each  institution and shall be further elaborated in guidelines issued by the appropriate academic units.
+- 10/ Rules and procedures governing teaching methods and assessment, grading and academic status of students shall be provided in the senate statutes of each institution and shall be further elaborated in guidelines issued by the appropriate academic units.
 
 ## PART THREE PUBLIC INSTITUTIONS
 
@@ -1646,13 +1646,13 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 - 1/ Without prejudice to other provisions of this Proclamation, any public institution shall have:
 
-- governing and advisory bodies.
+- a) governing and advisory bodies.
 
-- academic units;
+- b) academic units;
 
-- governing  body  of  teaching  hospital,  as may be relevant;
+- c) governing body of teaching hospital, as may be relevant;
 
-- administrative and technical support units;
+- d) administrative and technical support units;
 
 [[END OF PAGE 31]]
 
@@ -1688,31 +1688,31 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 [) ¾ƒUI`ƒ ¡õM "¨<'eM&
 
-- office  and  other  facilities  necessary  for undertaking properly its activities.
+- e) office and other facilities necessary for undertaking properly its activities.
 
-- 2/ The establishment of academic units in accordance  with  this  Proclamation  shall  be determined  on  the  basis  of  relevance  and quality  of  education  and research as  well  as on cooperative, efficient and effective use of resources.
+- 2/ The establishment of academic units in accordance with this Proclamation shall be determined on the basis of relevance and quality of education and research as well as on cooperative, efficient and effective use of resources.
 
-- 3/ Any academic unit of an institution established pursuant to sub-article (2) of this Article  shall  have  a  system  of  governance that shall be devised by the president, debated by the managing council, the university council and the senate, and approved  by  the  Board.  Such  system  shall consist  of  governing  and  managing  bodies, their responsibilities, and rules and procedures of leadership and management.
+- 3/ Any academic unit of an institution established pursuant to sub-article (2) of this Article shall have a system of governance that shall be devised by the president, debated by the managing council, the university council and the senate, and approved by the Board. Such system shall consist of governing and managing bodies, their responsibilities, and rules and procedures of leadership and management.
 
 - 4/ Notwithstanding other provisions of this Proclamation, a public institution may reorganize itself, in part or in full, differently in accordance with international good practice, with the sole purpose of more effective performance in the fulfillment of its mission and subject to approval by the Board and endorsement by the Ministry.
 
-- 5/ Except as may  be directed otherwise  by the Ministry,  in  the  event  any  public  institution finds it  necessary to reorganize itself as provided in sub-article (4) of this Article, the president shall submit to the Board an exhaustive proposal discussed by the managing council, the university council, the senate, and by unions of students and teachers of the institution.
+- 5/ Except as may be directed otherwise by the Ministry, in the event any public institution finds it necessary to reorganize itself as provided in sub-article (4) of this Article, the president shall submit to the Board an exhaustive proposal discussed by the managing council, the university council, the senate, and by unions of students and teachers of the institution.
 
 #### 43.  Governing and Advisory Bodies
 
-- 1/ Governing  and  advisory  bodies  of  a  public institution shall consist of:
+- 1/ Governing and advisory bodies of a public institution shall consist of:
 
-- board;
+- a) board;
 
-- president;
+- b) president;
 
-- senate;
+- c) senate;
 
-- managing council;
+- d) managing council;
 
-- university council;
+- e) university council;
 
-- academic unit council;
+- f) academic unit council;
 
 [[END OF PAGE 32]]
 
@@ -1744,27 +1744,27 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 -_²=Ç'© c157Û'  Kg<Sƒ  c157'Å› Óvw'~  KT>'>eƒ\ ¨ÃU  K¡MK< ›"M Tp[w c157' ፕ _²=Ç'~ uT>Ák `u¨<  SW[ƒ  U¡ƒM ፕ _²=Ç''‹' SjU&
 
-- academic unit managing council;
+- g) academic unit managing council;
 
-- department assembly;
+- h) department assembly;
 
-- advisory  or  specialized  committees  or councils  that  may  be  established  by  the board, senate or university council.
+- i) advisory or specialized committees or councils that may be established by the board, senate or university council.
 
-- 2/ Notwithstanding  the  provisions  of  sub-article  (1) of this Article, the structures and nomenclature of governing and advisory bodies of a public institution  may  be  modified  by  its    board  upon advice  by  the  president  in  accordance  with  subarticles  (3),  (4),  and  (5)  of  Article  42  of  this Proclamation.
+- 2/ Notwithstanding the provisions of sub-article (1) of this Article, the structures and nomenclature of governing and advisory bodies of a public institution may be modified by its board upon advice by the president in accordance with sub-articles (3), (4), and (5) of Article 42 of this Proclamation.
 
-- 3/ The composition, constitution, responsibilities, and decision-making process of governing bodies of  academic  units  under  paragraphs  (f)  to  (h)  of sub-article (1)  of this Article shall be determined in accordance with Article 42(3) of this Proclamation.
+- 3/ The composition, constitution, responsibilities, and decision-making process of governing bodies of academic units under paragraphs (f) to (h) of sub-article (1) of this Article shall be determined in accordance with Article 42(3) of this Proclamation.
 
 #### 44.   Responsibilities of the Board
 
-- 1/ The board of a public institution shall be the supreme  governing  body  of  the  institution and it shall have the responsibilities to:
+- 1/ The board of a public institution shall be the supreme governing body of the institution and it shall have the responsibilities to:
 
-- supervise and ensure that the institution implements the provisions of this Proclamation  and  that  good  governance prevails in the institution;
+- a) supervise and ensure that the institution implements the provisions of this Proclamation and that good governance prevails in the institution;
 
-- without  prejudice  to  other  provisions  of  this Proclamation,  examine,  approve  and  follow up the implementation of proposals of institutional reorganization, organizational plans,  policies,  administration  and  academic programmes  and  internal  regulations  of  the institution;
+- b) without prejudice to other provisions of this Proclamation, examine, approve and follow up the implementation of proposals of institutional reorganization, organizational plans, policies, administration and academic programmes and internal regulations of the institution;
 
-- issue  directives,  upon  the  advice  of  the president, regarding qualification requirements and procedures of nomination and appointment procedures and terms of office of the vice presidents and  other  academic  officers  as  well  as members of the senate; and monitor the propriety of implementation of the same;
+- c) issue directives, upon the advice of the president, regarding qualification requirements and procedures of nomination and appointment procedures and terms of office of the vice presidents and other academic officers as well as members of the senate; and monitor the propriety of implementation of the same;
 
-- nominate  the  president  for  appointment as may be appropriateby the Ministry or the state body  and  appoint  the vice presidents  on  the  basis  of  nominations made by the president;
+- d) nominate the president for appointment as may be appropriateby the Ministry or the state body and appoint the vice presidents on the basis of nominations made by the president;
 
 [[END OF PAGE 33]]
 
@@ -1792,25 +1792,25 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 ')  ¾²=I  '®<e  ›'kê  }^  òÅM  (%) É'ÒÑ@ c157'Å}Öuk J· }sS< p_-‹'  u}óÖ'  S'ÑÉ  }kwKA  ¾T>ðuƒ  ¾}TEL  }sT© Y`›ƒ ÁK¨< SJ'<' T[ÒÑØ&
 
-- take, without prejudice to the applicability  of  other relevant laws,  any disciplinary action, including  removal from office, against any vice president in the  event  of  serious  failure  to  discharge his responsibility; in the case of the president,  consult  with  the  Ministry  for measures to be taken;
+- e) take, without prejudice to the applicability of other relevant laws, any disciplinary action, including removal from office, against any vice president in the event of serious failure to discharge his responsibility; in the case of the president, consult with the Ministry for measures to be taken;
 
-- appoint  auditors  of  the  institution  and determine their remunerations;
+- f) appoint auditors of the institution and determine their remunerations;
 
-- review and submit strategic plans, annual plans  and  budgets  of  the  institution  and supervise their  implementation  up  on approval; approve and submit performance reports and financial statements of the institution;
+- g) review and submit strategic plans, annual plans and budgets of the institution and supervise their implementation up on approval; approve and submit performance reports and financial statements of the institution;
 
-- monitor  and  ensure  that  the  institution keeps proper books of accounts of all its mainstream and sundry incomes and that all expenditures are as budgeted;
+- h) monitor and ensure that the institution keeps proper books of accounts of all its mainstream and sundry incomes and that all expenditures are as budgeted;
 
-- take remedial measures within its own competence and report promptly to the Ministry  in  the  event  of  serious  breaches  of the  law  by  the  institution's  other  governing bodies  or in the event the danger  of  serious financial  loss  is  suspected  or  has  actually happened;
+- i) take remedial measures within its own competence and report promptly to the Ministry in the event of serious breaches of the law by the institution's other governing bodies or in the event the danger of serious financial loss is suspected or has actually happened;
 
-- cause,  as  necessary,  the  formulation  of  and approve policies regarding employment, promotion, discipline, salary, allowances, and other benefits for the administrative and technical support staff of the public institution on the basis of the basic principles of the federal civil service laws;
+- j) cause, as necessary, the formulation of and approve policies regarding employment, promotion, discipline, salary, allowances, and other benefits for the administrative and technical support staff of the public institution on the basis of the basic principles of the federal civil service laws;
 
-- request and obtain information on matters  concerning  the  institution  and report the same if particularly important to the Ministry;
+- k) request and obtain information on matters concerning the institution and report the same if particularly important to the Ministry;
 
-- submit  proposal  as  may  be  necessary  to  the Ministry for the amendment of the law establishing  the  public  institution  as  well  as advise  it  on  all  matters  of  importance  to higher  education  and  research  generally  and for institution governance particularly as perceived  from  its  position  as  board  of  an institution;
+- l) submit proposal as may be necessary to the Ministry for the amendment of the law establishing the public institution as well as advise it on all matters of importance to higher education and research generally and for institution governance particularly as perceived from its position as board of an institution;
 
-- examine and give final decision on grievances against decision by the public institution;
+- m) examine and give final decision on grievances against decision by the public institution;
 
-- monitor,  without  prejudice  to  the  provisions of  paragraph (m) of this sub-article, that the institution has an adequate institutional system  to  expeditiously  receive  and  redress grievances;
+- n) monitor, without prejudice to the provisions of paragraph (m) of this sub-article, that the institution has an adequate institutional system to expeditiously receive and redress grievances;
 
 [[END OF PAGE 34]]
 
@@ -1842,27 +1842,27 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 - 4 /  ¾ôÅ^M S'Óeƒ }sU x`É ›vLƒ ØpT  ØpV‹  uT>'>e,\  ¾T>¨c'<' u}sS< ¾T>gð'< J· ¾}sS<' ¯pU ÓUƒ ¨<eØ ÁeÑu< ÃJ'K<::
 
-- o ) conduct,  on  the  basis  of  the  president's report,  performance  evaluations  of  the institution, of its constituents, and of its leaders  and governing bodies against plans;
+- o) conduct, on the basis of the president's report, performance evaluations of the institution, of its constituents, and of its leaders and governing bodies against plans;
 
-- monitor  the  implementation  of  senate legislations and decisions;
+- p) monitor the implementation of senate legislations and decisions;
 
-- rescind  decisions made by the president or the senate when the decisions compromise institutional mission or contravene government policy, this Proclamation, or the Constitution;
+- q) rescind decisions made by the president or the senate when the decisions compromise institutional mission or contravene government policy, this Proclamation, or the Constitution;
 
-- issue  its  own  rules  of  procedure  and internal regulations,  as  well  as  rules  of discipline applicable to its members;
+- r) issue its own rules of procedure and internal regulations, as well as rules of discipline applicable to its members;
 
-- approve promotions to the rank of professorship;
+- s) approve promotions to the rank of professorship;
 
-- determine  upon  advice  by  the  president  the type and amount of different payments relating  to  education  charged  by  the  public institution  and,  on  the  basis  of  decisions  by the  Council  of  Ministers,  decide  on  payable allowances,  overload  rates  and  other  similar sundry rates.
+- t) determine upon advice by the president the type and amount of different payments relating to education charged by the public institution and, on the basis of decisions by the Council of Ministers, decide on payable allowances, overload rates and other similar sundry rates.
 
-- oversee the proper constitution and functioning of the senate, university council, and the managing council; and establish, as it may consider necessary and upon the advice of the president, any particular advisory council accountable to the president or to the university council;
+- u) oversee the proper constitution and functioning of the senate, university council, and the managing council; and establish, as it may consider necessary and upon the advice of the president, any particular advisory council accountable to the president or to the university council;
 
-- carry  out  such  other  responsibilities  as provided for by  other provisions of this Proclamation and by the establishing law of the public institution and respect and cause the respection of this Proclamation by the institution..
+- v) carry out such other responsibilities as provided for by other provisions of this Proclamation and by the establishing law of the public institution and respect and cause the respection of this Proclamation by the institution..
 
-- 2/ The board shall be accountable to the Ministry or, in case of an institution under a state,  to  the  appropriate  organ  of  the  state government.
+- 2/ The board shall be accountable to the Ministry or, in case of an institution under a state, to the appropriate organ of the state government.
 
-- 3/ The  board's  chairperson  of  a  federal  public institution shall be appointed by the Minister; and  shall  have  the  responsibility  to  ensure that the board discharges effectively its responsibilities.
+- 3/ The board's chairperson of a federal public institution shall be appointed by the Minister; and shall have the responsibility to ensure that the board discharges effectively its responsibilities.
 
-- 4/ Benefits  due  to  the  members  of  board  of  a federal  public institution shall be determined by the Ministry, with due regard to the ability of the institution, and covered by the institution.
+- 4/ Benefits due to the members of board of a federal public institution shall be determined by the Ministry, with due regard to the ability of the institution, and covered by the institution.
 
 [[END OF PAGE 35]]
 
@@ -1902,7 +1902,7 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 3/ The president, in consultation with the university council and the senate, shall nominate three other voting members of the board and submit their list for appointment to the Minister.
 
-- 4/ The  president  of  the  institution  shall  be  a  nonvoting member and secretary of the board.
+- 4/ The president of the institution shall be a non-voting member and secretary of the board.
 
 - 5/ The  members  to  be  nominated  pursuant  to sub-article (2) and (3) of this Article shall be past or present holders of responsible positions and notable personalities especially in teaching or research and in integrity, or be representatives of the customers of the products  and  services  of  the  institution  and whose exceptional knowledge, experience and commitment are such as to enable them to contribute to the attainment of the mission of the institution and the objectives of higher education generally.
 
@@ -2140,13 +2140,13 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 4/ The  candidate  president  and  vice  president  of  a public institution shall have, among others, commendable academic leadership and managerial ability  as  well  as  demonstrable  commitment  to institutional  change  and  development  and  to  the Constitution and government policies.
 
-- 5/ Without  prejudice  to  the  provisions  of  subarticle  (4)  of  this  Article,  further  particulars of requirements and procedures of competition and selection shall be determined by the law establishing the institution and by the board.
+- 5/ Without prejudice to the provisions of sub-article (4) of this Article, further particulars of requirements and procedures of competition and selection shall be determined by the law establishing the institution and by the board.
 
-- 6/ The  terms  of  office  of  the  president  of  a public institution shall be six years and of the vice president four years; provided however, that and without prejudice to other provisions of this Proclamation, they may be repeatedly reappointed.
+- 6/ The terms of office of the president of a public institution shall be six years and of the vice president four years; provided however, that and without prejudice to other provisions of this Proclamation, they may be repeatedly reappointed.
 
-- 7/ The board shall make monitoring reviews on the  performance  of  the  president  and  vice presidents bi-annually and comprehensive indepth reviews every three years in the presence  and  with  the  participation  of  the president and the vice presidents.
+- 7/ The board shall make monitoring reviews on the performance of the president and vice presidents bi-annually and comprehensive in-depth reviews every three years in the presence and with the participation of the president and the vice presidents.
 
-- 8/ No  person  shall  hold  the  position  of  acting president or acting vicepresident for a period of more than 180 days.
+- 8/ No person shall hold the position of acting president or acting vice-president for a period of more than 180 days.
 
 #### 53.    Responsibilities  of  the  President  of  a  Public Institution
 
@@ -2180,27 +2180,27 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 }) uƒUI`ƒ' U`U` ›Óvw'ƒ' Ø^ƒ'  u}sT© 'í'ƒ' }ÖÁm'ƒ'  u›ÑMÓKAƒ  ›c×Ø  ¨<Ö?T'ƒ'  u¨Ü  q×u='ƒ  S`J‹ LÃ  uSSY[ƒ  ¾ƒUI`ƒ  ¡õKA‹  ›Å[ÍËƒ'  K ױ '@~'  Kx`Æ ›p`x  Áe¨e'M&  c=ðkÉU  u}Óv` LÃ  Á¨<LM ፤
 
-- direct and administer the public institution  with  the  aim  of  ensuring  the achievement of its mission;
+- a) direct and administer the public institution with the aim of ensuring the achievement of its mission;
 
-- ensure that organs of the institution and its  community  uphold  the  objectives  of higher  education  and  guiding  values  of the institution;
+- b) ensure that organs of the institution and its community uphold the objectives of higher education and guiding values of the institution;
 
-- ensure that the provisions of this Proclamation and of other laws applicable to the institution are respected;
+- c) ensure that the provisions of this Proclamation and of other laws applicable to the institution are respected;
 
-- ensure  that  the  institution  prepares  high quality  graduates  in  as  many  numbers and  fields  consistent  with  the  needs  of the country;
+- d) ensure that the institution prepares high quality graduates in as many numbers and fields consistent with the needs of the country;
 
-- create and continuously build a conducive institutional environment stimulating learning and research;
+- e) create and continuously build a conducive institutional environment stimulating learning and research;
 
-- ensure that the institution's research and consultancy activities  focus  on national priorities;
+- f) ensure that the institution's research and consultancy activities focus on national priorities;
 
-- ensure  that  the  institution  in  the  pursuit of  its  mission  is  perpetually  connected internationally  as  well  as  with  federal and  state  institutions,  relevant  agencies and business and industry, and associations;
+- g) ensure that the institution in the pursuit of its mission is perpetually connected internationally as well as with federal and state institutions, relevant agencies and business and industry, and associations;
 
-- ensure  that  the  institution  always  keeps abreast national and international developments and positions itself to respond effectively to the country's needs  in  education,  training,  research, consultancy and community services;
+- h) ensure that the institution always keeps abreast national and international developments and positions itself to respond effectively to the country's needs in education, training, research, consultancy and community services;
 
-- ensure that  the  institution has  a  capable system of internal leadership and management in its human resource, organization and performance;
+- i) ensure that the institution has a capable system of internal leadership and management in its human resource, organization and performance;
 
-- design  and  implement,  upon  ultimate approval  by  the  board,  nomination  and appointment systems of academic heads and senate members;
+- j) design and implement, upon ultimate approval by the board, nomination and appointment systems of academic heads and senate members;
 
-- determine and implement, upon approval by the senate and the board, academic unit-anddepartment level governing bodies and structures guided by the principles of relevance and quality of education and research , autonomy, efficacy  and  efficiency of service delivery;
+- k) determine and implement, upon approval by the senate and the board, academic unit-and-department level governing bodies and structures guided by the principles of relevance and quality of education and research, autonomy, efficacy and efficiency of service delivery;
 
 [[END OF PAGE 41]]
 
@@ -2232,27 +2232,27 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 ¶) }sS< Ÿfe}- ¨Ñ·‹ Ò` uT>ÁÅ`Ñ¨<  T'†¨<U  Ó'-<'ƒ  }sS<' Ã¨¡LM ፤
 
-- ensure that employment and official positions are achieved through competition and that removal from office is based on performance evaluation, disciplinary matters and end of tenure of office alone;
+- l) ensure that employment and official positions are achieved through competition and that removal from office is based on performance evaluation, disciplinary matters and end of tenure of office alone;
 
-- ensure that policies, directives and procedures of the institution are designed in conformity with the provisions of this Proclamation, pertinent laws and government policies;
+- m) ensure that policies, directives and procedures of the institution are designed in conformity with the provisions of this Proclamation, pertinent laws and government policies;
 
-- develop and implement institutional standard  measures  and  ensure  that  the academic  and  administrative  operations of the institution are on the basis  of the standards;
+- n) develop and implement institutional standard measures and ensure that the academic and administrative operations of the institution are on the basis of the standards;
 
-- ensure that the institution maintains a healthy balance of income and expenditure and proper books of accounts of all incomes and expenditures;
+- o) ensure that the institution maintains a healthy balance of income and expenditure and proper books of accounts of all incomes and expenditures;
 
-- ensure that board and senate sessions as well  as  of  those  other  leadership  bodies such  as  the  managing  council  and  the university  council  are  well-prepared  for and held regularly;
+- p) ensure that board and senate sessions as well as of those other leadership bodies such as the managing council and the university council are well-prepared for and held regularly;
 
-- resolve  by  peaceful  and  legal  means  all intra-institutional  disputes  and  disputes with third parties, in pursuit of the institution's mission and best interests;
+- q) resolve by peaceful and legal means all intra-institutional disputes and disputes with third parties, in pursuit of the institution's mission and best interests;
 
-- ensure  that  all  fundamental  operations  and substantive transactions of the institution are appropriately  documented  in  text  and  data form as appropriate and that the information is, without prejudice to institutional interests, appropriately  and  readily  accessible  to  endusers;
+- r) ensure that all fundamental operations and substantive transactions of the institution are appropriately documented in text and data form as appropriate and that the information is, without prejudice to institutional interests, appropriately and readily accessible to end-users;
 
-- prepare institutional    plans and    budget, and  ensure  their  implementation  upon approval;
+- s) prepare institutional plans and budget, and ensure their implementation upon approval;
 
-- inform periodically the board, government  and  the  public  about  the state of the institution;
+- t) inform periodically the board, government and the public about the state of the institution;
 
-- build  and maintain a reliable  safety  and security system  that  protects  life  and property in the premises of the institution;
+- u) build and maintain a reliable safety and security system that protects life and property in the premises of the institution;
 
-- represent the institution in all its dealings with third parties;
+- v) represent the institution in all its dealings with third parties;
 
 [[END OF PAGE 42]]
 
@@ -2288,27 +2288,27 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 - 4 /  uT'-¨<U  ¾S'Óeƒ  }sU  ¨<eØ }vv] U¡ƒM -_²=Ç'ƒ ¾T>vM ›Ã·`U::
 
-- open  and  operate  bank  accounts  in  the name of the institution;
+- w) open and operate bank accounts in the name of the institution;
 
-- delegate, as may be necessary, his powers  and  responsibilities  to  the  vice presidents and appropriate heads of academic units;
+- x) delegate, as may be necessary, his powers and responsibilities to the vice presidents and appropriate heads of academic units;
 
-- ensure  that  his  foreign  travels  are  of value to the institution and planned;
+- y) ensure that his foreign travels are of value to the institution and planned;
 
-- discharge  such  other  responsibilities  as may be given to him by the establishing law of the institution and by the board.
+- z) discharge such other responsibilities as may be given to him by the establishing law of the institution and by the board.
 
-- 2/ The president shall devote full time to the requirements of his office; and shall be remunerated  appropriately  for  his  services  in  the form of basic salary and other benefits.
+- 2/ The president shall devote full time to the requirements of his office; and shall be remunerated appropriately for his services in the form of basic salary and other benefits.
 
-- 3/ In the case of absence from duty, the president shall delegate, as a standard practice,  the  academic  vice  president  on  his behalf and, in the case of simultaneous absence of the said vice president, any of the other vice presidents.
+- 3/ In the case of absence from duty, the president shall delegate, as a standard practice, the academic vice president on his behalf and, in the case of simultaneous absence of the said vice president, any of the other vice presidents.
 
-#### 54.  Responsibilities  of  Vice  President  of  a  Public Institution
+#### 54.  Responsibilities of Vice President of a Public Institution
 
-- 1/ The  vice-president  of  a  public  institution, without  prejudice  to  those  responsibilities given to him under the establishing law of the institution, shall have the responsibilities to:
+- 1/ The vice-president of a public institution, without prejudice to those responsibilities given to him under the establishing law of the institution, shall have the responsibilities to:
 
-- advise,  assist  and  support  the  president in the exercise of his responsibilities;
+- a) advise, assist and support the president in the exercise of his responsibilities;
 
-- exercise the responsibilities the president may entrust to him.
+- b) exercise the responsibilities the president may entrust to him.
 
-- 2/ Any public institution may have as many vice presidents as the board determines in consultation  with,  as  the  case  may  be,  the Ministry or the  state organ.
+- 2/ Any public institution may have as many vice presidents as the board determines in consultation with, as the case may be, the Ministry or the state organ.
 
 - 3/ Vice presidents shall devote most of the time to the requirements of their offices and shall be remunerated appropriately for their services in the form of basic salary and other benefits.
 
@@ -2346,31 +2346,31 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 2 /  ¾›e}ÇÅ` "¨<'eK< ueƒ^,Í=¡ Ñ<ÇÄ-‹' -_²=Ç'~ uÒ^ S¾ƒ ›Kv†¨< wKA uT>ÁU'v†¨< K?KA‹ Ñ<ÇÄ‹ LÃ -_´Ç'~' ÁT¡^M& c157'Ç=G<U ¾}sS<' c157'penc?-‹  ¾SŸ}Á' ¾Te}vu]Á' ¾SÑUÑT>Á SÉ[¡ J· ÁÑKÓLM::
 
-#### 55.    Termination  of  Service  of  the  President  and Vice President
+#### 55.    Termination of Service of the President and Vice President
 
-- 1/ The  president  or  vice  president  of  a  public institution may be relieved of his responsibilities by:
+- 1/ The president or vice president of a public institution may be relieved of his responsibilities by:
 
-- resignation;
+- a) resignation;
 
-- release on grounds of incompetence, severe misconduct, illness or upon death;
+- b) release on grounds of incompetence, severe misconduct, illness or upon death;
 
-- absence  from  duty  for  more  than  180 consecutive days with official acquiescence;
+- c) absence from duty for more than 180 consecutive days with official acquiescence;
 
-- absence  from  duty  for  more  than  45 consecutive days without official acquiescence;
+- d) absence from duty for more than 45 consecutive days without official acquiescence;
 
-- expiry of terms of office.
+- e) expiry of terms of office.
 
-- 2/ The  Minister  or  the  head  of  the  concerned  state organ, as the case may  be, may  relieve the president of his post pursuant to the provisions of sub-article (1) of this Article and upon advice by the board, or without such advice if the Minister or the head of the concerned state organ is convinced that it is the right action to take.
+- 2/ The Minister or the head of the concerned state organ, as the case may be, may relieve the president of his post pursuant to the provisions of sub-article (1) of this Article and upon advice by the board, or without such advice if the Minister or the head of the concerned state organ is convinced that it is the right action to take.
 
-- 3/ The board may relieve any vice president of his  post,  pursuant  to  the  provisions  of  subarticle (1) of this Article.
+- 3/ The board may relieve any vice president of his post, pursuant to the provisions of sub-article (1) of this Article.
 
-- 4/ Without  prejudice  to  the  provisions  of  subarticle  (1)  of  this  Article,  the  board may,  as the case may  be, cause the removal or remove the president or any vice president if it determines, through three consecutive monitoring  reviews  or  one  in-depth  review, his continuity in office would be injurious to the institution.
+- 4/ Without prejudice to the provisions of sub-article (1) of this Article, the board may, as the case may be, cause the removal or remove the president or any vice president if it determines, through three consecutive monitoring reviews or one in-depth review, his continuity in office would be injurious to the institution.
 
 #### 56. Managing Council
 
-- 1/ Without prejudice to the power of the president  to  include  other  pertinent  officers, the  president,  the  vice  presidents,  and  the officer  in  charge  of  institution-wide  student affairs  shall  constitute  the  core  members  of the managing council; and the president shall chair the managing council.
+- 1/ Without prejudice to the power of the president to include other pertinent officers, the president, the vice presidents, and the officer in charge of institution-wide student affairs shall constitute the core members of the managing council; and the president shall chair the managing council.
 
-- 2/ The managing council shall advise the president  on  strategic  issues  and  on  other cases that the president believes require collective  examination  as  well  as  serve  as  a forum for monitoring, coordination, and evaluation of institutional operations.
+- 2/ The managing council shall advise the president on strategic issues and on other cases that the president believes require collective examination as well as serve as a forum for monitoring, coordination, and evaluation of institutional operations.
 
 [[END OF PAGE 44]]
 
@@ -2444,21 +2444,7 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 #### $8 .  ¾S'ÓYƒ }sTƒ ¾U¡¡` SÉ[¡
 
-- 5/ The president shall ensure a democratic atmosphere  stimulating  free  expression  of opinions and ideas in sessions of the university  council.  The  president  may  order votes in case substantially competing opinions  emerge  to  ascertain  the  weight  of the competing opinions.
-
-- 6/ The secretary  of  the  managing  council  shall also serve as the non-voting and nonconsultative secretary of the university council.
-
-- 7/ No  member  of  the  university  council  other than the president or a person nominated by the president shall serve as its official spokesperson.
-
-- 8/ Without  prejudice  to  the  provisions  of  this Article, the  university  council  may  adopt  its own rules of procedures.
-
-- 9/ The  provisions  of  this  Article  shall  also  be applicable, as may be appropriate, with respect to private institutions.
-
-#### 58.  Forum of Public Institutions
-
 - 1 /  ¾S'ÓYƒ }sTƒ Ø['‰†¨<' KTe}vu`'  ¾ƒUI`ƒ  SKŸ=Á-‹'' ›c^a‹' KTSdcM' ¾MUÉ M¨<¨<Ø KTÉ[Ó c157' T>'>e,\' uŸõ}- ƒUI`ƒ HÑ^©' ›KU›kó© ¾eƒ^,Í= Ñ<ÇÄ‹' °ÉÑƒ'  G<'@-‹ LÃ KTTŸ` u²=I ›ªÏ °¨<p' ¾}cÖ¨<  ¾U¡¡`  SÉ[¡  K=ÁslS< Ã‹LK<::
-
-- 1/ Public institutions may establish a forum, in accordance  with  this  Proclamation  and  with an  appropriate  name,  to  coordinate  efforts, harmonize academic standards and approaches,  share  experience,  and  to  advise the  Ministry  on  national  and  international strategic issues, trends and conditions of higher education.
 
 - 2 / ¾S'ÓYƒ  }sTƒ  ¾U¡¡`  SÉ[¡ u²=I ›ªÏ Sc[ƒ SSe[~' uT>'>e,\ Ÿ}[ÒÑÖuƒ Ñ>²? ËUa Ãó c157'penc? ÁÅ`ÒM::
 
@@ -2468,13 +2454,27 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 - 5 /  ¾U¡¡` SÉ[Ÿ<  nM  ›kvÃ  u ፕ _²=-Ç''‹ Ñ<v›? Å'w  Sc[ƒ  ucwdu='ƒ ¾}S[Ö¨< ¾S'Óeƒ ¿'>y` ת + ፕ _²=Ç'ƒ ÃJ'M::
 
-- 2/ The  establishment of the forum  shall be effective  as  of  the  date  of  its  registration  by the Ministry upon ascertaining the consistency of its statutes with the provisions of this Proclamation.
+- 5/ The president shall ensure a democratic atmosphere stimulating free expression of opinions and ideas in sessions of the university council. The president may order votes in case substantially competing opinions emerge to ascertain the weight of the competing opinions.
 
-- 3/ The  presidents,  representing  their  respective institutions,  shall  be  members  of  the  forum. Without  prejudice  to  the  provisions  of  subarticle (1) of this  Article,  the  council  of presidents may decide on nomenclature, aims, responsibilities, leadership architecture, procedures,  and rules of the forum.
+- 6/ The secretary of the managing council shall also serve as the non-voting and non-consultative secretary of the university council.
 
-- 4/ The  forum  may  establish  its  own  office  in accordance  with  the  decision  made  by  the council of presidents.
+- 7/ No member of the university council other than the president or a person nominated by the president shall serve as its official spokesperson.
 
-- 5/ The  spokesperson  of  the  forum  shall  be  the incumbent leader of the forum,  who shall be elected in accordance with its rules.
+- 8/ Without prejudice to the provisions of this Article, the university council may adopt its own rules of procedures.
+
+- 9/ The provisions of this Article shall also be applicable, as may be appropriate, with respect to private institutions.
+
+#### 58.  Forum of Public Institutions
+
+- 1/ Public institutions may establish a forum, in accordance with this Proclamation and with an appropriate name, to coordinate efforts, harmonize academic standards and approaches, share experience, and to advise the Ministry on national and international strategic issues, trends and conditions of higher education.
+
+- 2/ The establishment of the forum shall be effective as of the date of its registration by the Ministry upon ascertaining the consistency of its statutes with the provisions of this Proclamation.
+
+- 3/ The presidents, representing their respective institutions, shall be members of the forum. Without prejudice to the provisions of sub-article (1) of this Article, the council of presidents may decide on nomenclature, aims, responsibilities, leadership architecture, procedures, and rules of the forum.
+
+- 4/ The forum may establish its own office in accordance with the decision made by the council of presidents.
+
+- 5/ The spokesperson of the forum shall be the incumbent leader of the forum, who shall be elected in accordance with its rules.
 
 [[END OF PAGE 46]]
 
@@ -2572,13 +2572,13 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 #### 62.  Budget
 
-- 1/ Public  institutions  shall  be  funded  by  the federal  government  or  states  through  blockgrant system based on strategic plan agreements.
+- 1/ Public institutions shall be funded by the federal government or states through block-grant system based on strategic plan agreements.
 
-- 2/ Every public institution shall receive a block grant-budget, agreed upon  in  advance as indicative budget for a five-year period; provided however, that such block-grant budget shall be revised annually.
+- 2/ Every public institution shall receive a block grant-budget, agreed upon in advance as indicative budget for a five-year period; provided however, that such block-grant budget shall be revised annually.
 
-- 3/ Every public institution  shall mobilize  other income as provided for by Articles 66 and 67 of this Proclamation and other legally permitted sources.
+- 3/ Every public institution shall mobilize other income as provided for by Articles 66 and 67 of this Proclamation and other legally permitted sources.
 
-- 4/ Depending  on  the  state  of  its  preparedness, every public institution  may    start  operating under  a  block-grant  system,  depending  on plans adopted by the board and the strategic plan  agreement  as  well  as  on  its  general preparedness, after one year from the effective date of this Proclamation.
+- 4/ Depending on the state of its preparedness, every public institution may start operating under a block-grant system, depending on plans adopted by the board and the strategic plan agreement as well as on its general preparedness, after one year from the effective date of this Proclamation.
 
 [[END OF PAGE 48]]
 
@@ -2610,21 +2610,21 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 - 2 /  QÓ uK?L G<'@ ÁekS×†¨<' G<'@-‹' uËƒ' ›ekÉV  ux`É ¾TìÅp ›c^` c157'Å}Öuk J· ¾S'ÓYƒ  }sU  uçÅkKƒ  ¾Y^ °pÉ SW[ƒ Ñu=¨<' u'í'ƒ ¾SÖkU Swƒ Ã·[ªM::
 
-- 5/ Public institutions shall build their capacities in financial and educational data management to implement properly and efficiently blockgrant  funding  within  the  period  specified  in sub-article (4) of this Article.
+- 5/ Public institutions shall build their capacities in financial and educational data management to implement properly and efficiently block-grant funding within the period specified in sub-article (4) of this Article.
 
-- 6/ The Ministry of Finance and Economic Development  shall  assist  public  institutions in implementing the provisions of this Article.
+- 6/ The Ministry of Finance and Economic Development shall assist public institutions in implementing the provisions of this Article.
 
-- 7/ Any public institution may accept donations from third parties; provided however, that no such  donation  or  subsidy  may  negatively influence the standing, mission and objectives of the institution.
+- 7/ Any public institution may accept donations from third parties; provided however, that no such donation or subsidy may negatively influence the standing, mission and objectives of the institution.
 
-- 8/ Any  public  institution  shall  report  to  the Ministry of Finance and Economic Development and the Ministry or the appropriate state organ receipt of funds from third-parties and its investment incomes.
+- 8/ Any public institution shall report to the Ministry of Finance and Economic Development and the Ministry or the appropriate state organ receipt of funds from third-parties and its investment incomes.
 
 #### 63. Budget Subsidy
 
-- 1/ Any  unutilized  portion  of  allocated  blockgrant of any public institution may remain at the disposal of the institution as budget subsidy.
+- 1/ Any unutilized portion of allocated block-grant of any public institution may remain at the disposal of the institution as budget subsidy.
 
-- 2/ The  institution  shall  use  the  budget  subsidy only as capital budget.
+- 2/ The institution shall use the budget subsidy only as capital budget.
 
-- 3/ The budget subsidy shall be budgeted together with the year's block grant and other institutional income for the year and approved  by  the  board  as  the  institution's total budget.
+- 3/ The budget subsidy shall be budgeted together with the year's block grant and other institutional income for the year and approved by the board as the institution's total budget.
 
 #### 64.  Financial Management
 
@@ -2676,23 +2676,23 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 - 2/ A strategic plan agreement shall, in particular, contain:
 
-- strategic objectives, academic priorities, learning  outputs,  and  institutional  and human resources development;
+- a) strategic objectives, academic priorities, learning outputs, and institutional and human resources development;
 
-- planned research projects and programmes;
+- b) planned research projects and programmes;
 
-- study  and  diversity  of  programmes  and continuing, distance and virtual education;
+- c) study and diversity of programmes and continuing, distance and virtual education;
 
-- the  number  of  students  and  the  number and qualification of academic staff;
+- d) the number of students and the number and qualification of academic staff;
 
-- social goals such as measures to enhance the nation and nationality composition of its academic staff, increase the proportion  of  senior  positions  held  by women, and assistance to disadvantaged sections of its students;
+- e) social goals such as measures to enhance the nation and nationality composition of its academic staff, increase the proportion of senior positions held by women, and assistance to disadvantaged sections of its students;
 
-- indicative  block-grant  budget  commitments made by the government and the institution's commitment to make up, through other sources  of  income,  the  financing  gap  that may occur;
+- f) indicative block-grant budget commitments made by the government and the institution's commitment to make up, through other sources of income, the financing gap that may occur;
 
-- the  indicative  allocations  of  the  blockgrant budget and the funds to be mobilized by the institution for each year of the strategic plan period;
+- g) the indicative allocations of the block-grant budget and the funds to be mobilized by the institution for each year of the strategic plan period;
 
-- contingency  plan  in  the  event  of  nonfulfillment  of  the  anticipated  strategicplan budget;
+- h) contingency plan in the event of non-fulfillment of the anticipated strategic-plan budget;
 
-- appropriate  mechanisms  of  accounting, monitoring, evaluation and reporting.
+- i) appropriate mechanisms of accounting, monitoring, evaluation and reporting.
 
 - 3/ A strategic plan agreement may be amended in  the  event  of  significant  changes  in  the circumstances or assumptions on which it has been based.
 
@@ -2734,37 +2734,37 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - u}sS< ¾Ñu= TeÑÉ`Ïƒ ¾T>Å[ÓKƒ Sªà ፤
 
-- 4/ Public  institutions  shall  conclude  the  next strategic plan agreements, as the case may be, with  the  Ministry  or  the  appropriate  state organ within the current plan period.
+- 4/ Public institutions shall conclude the next strategic plan agreements, as the case may be, with the Ministry or the appropriate state organ within the current plan period.
 
 #### 66.   Income Generation
 
-- 1/ Without  prejudice  to  the  provisions  of  this Proclamation  and  other  applicable  laws,  an income generating enterprise may be established by any public institution upon the request of the president and approval by the board.
+- 1/ Without prejudice to the provisions of this Proclamation and other applicable laws, an income generating enterprise may be established by any public institution upon the request of the president and approval by the board.
 
-- 2/ The enterprise shall have its own  legal personality  and  operate,  like  any  business organization,  in  compliance  with  all  legal requirements.
+- 2/ The enterprise shall have its own legal personality and operate, like any business organization, in compliance with all legal requirements.
 
-- 3/ The initial capital required for the establishment  of  the  enterprise  may  be  a budget allocated by government.
+- 3/ The initial capital required for the establishment of the enterprise may be a budget allocated by government.
 
-- 4/ Without  prejudice  to  sub-article  (3)  of  this Article, the enterprise may have the following sources of income:
+- 4/ Without prejudice to sub-article (3) of this Article, the enterprise may have the following sources of income:
 
-- income  generated  from  the  services  it renders and the activities it carries out;
+- a) income generated from the services it renders and the activities it carries out;
 
-- voluntary contributions made by the staff of the institution;
+- b) voluntary contributions made by the staff of the institution;
 
-- donations;
+- c) donations;
 
-- other lawful sources of income.
+- d) other lawful sources of income.
 
-- 5/ The institution shall use the net profits of the enterprise  in  the  pursuit  of  its  mission  and objectives  in  accordance  with the  provisions of this Proclamation.
+- 5/ The institution shall use the net profits of the enterprise in the pursuit of its mission and objectives in accordance with the provisions of this Proclamation.
 
-- 6/ The  financial  statements  of  the  enterprise shall  be  submitted  to  the  board  within  six months from the end of the fiscal year.
+- 6/ The financial statements of the enterprise shall be submitted to the board within six months from the end of the fiscal year.
 
 #### 67.  Income Fund
 
-- 1/ An income  fund  may  be  set  up  in  a  public institution  by  decision  of  the  board  and,  as the case may be, approval by the Ministry or the appropriate state organ.
+- 1/ An income fund may be set up in a public institution by decision of the board and, as the case may be, approval by the Ministry or the appropriate state organ.
 
 - 2/ Sources of income of the fund shall be:
 
-- contributions made by the income generating enterprise of the institution;
+- a) contributions made by the income generating enterprise of the institution;
 
 [[END OF PAGE 51]]
 
@@ -2800,33 +2800,33 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 2 /  ¾S'Óeƒ }sU ¾ÅwM ›?'ƒ] H>dw ›ÁÁ´' ¾SŸ}M' }kêL ¾J'< }Óv^ƒ Ñu=' ¨Ü-‹' ŸK?KA‹ Ñu=-‹'  ¨Ü-‹  KÃ'  ¾SÁ´  c157' KG<K<U  ¾Ñu='  ¨Ü  Ñ<ÇÄ‹  ¾N=dw ›ÁÁ´  ›ÖnLÃ  Y`¯ƒ'  ¾SŸ}M ÓÈ-‹ Ã·\uM::
 
-- unutilized finance of the fund during the fiscal year;
+- b) unutilized finance of the fund during the fiscal year;
 
-- donations;
+- c) donations;
 
-- other legally permitted sources of income.
+- d) other legally permitted sources of income.
 
-- 3/ The fund may be used for different capacity building  activities  of  the  institution,  prizes and  other  activities  as  shall  be  approved  by the board.
+- 3/ The fund may be used for different capacity building activities of the institution, prizes and other activities as shall be approved by the board.
 
-- 4/ Disbursement of the fund shall comply  with its budgetary appropriations.
+- 4/ Disbursement of the fund shall comply with its budgetary appropriations.
 
 #### 68.  Reporting and Supervision
 
 - 1/ Any public institution shall:
 
-- submit to, as the case may be, the Ministry or the  appropriate  state  organ  duly  evaluated and approved annual performance and audited financial reports based on the strategic  plan  agreement;  and  publish  the educational and expenditure data for the fiscal year as provided for under Article 27 of this Proclamation;
+- a) submit to, as the case may be, the Ministry or the appropriate state organ duly evaluated and approved annual performance and audited financial reports based on the strategic plan agreement; and publish the educational and expenditure data for the fiscal year as provided for under Article 27 of this Proclamation;
 
-- furnish information to the Ministry or the concerned  state  organ  whenever  it  is required to do so.
+- b) furnish information to the Ministry or the concerned state organ whenever it is required to do so.
 
-- 2/ Any  public  institution  may  be  subject  to supervision by the Ministry or the appropriate state organ to ensure its compliance  with  the  law  and  strategic  plan agreements.
+- 2/ Any public institution may be subject to supervision by the Ministry or the appropriate state organ to ensure its compliance with the law and strategic plan agreements.
 
-- 3/ The  Ministry  or  the  appropriate  state  organ may annul decisions of the board, the president or the senate which are contrary to the law, government policy or to the institution's mission and statute.
+- 3/ The Ministry or the appropriate state organ may annul decisions of the board, the president or the senate which are contrary to the law, government policy or to the institution's mission and statute.
 
 #### 69.  Books of Accounts
 
-- 1/ Every public institution shall install an accounting system, including income  and expenditure accounting, and a reporting system, appropriate to its responsibilities, which shall fall  under  the responsibility  and management of the president.
+- 1/ Every public institution shall install an accounting system, including income and expenditure accounting, and a reporting system, appropriate to its responsibilities, which shall fall under the responsibility and management of the president.
 
-- 2/ Every public institution  shall  follow  doubleentry  bookkeeping, keep  costs  and  revenues related  to  supplementary  activities  separate from  other  costs  and  revenues,  and  shall observe general regulations on accounting in all other areas.
+- 2/ Every public institution shall follow double-entry bookkeeping, keep costs and revenues related to supplementary activities separate from other costs and revenues, and shall observe general regulations on accounting in all other areas.
 
 [[END OF PAGE 52]]
 
@@ -2904,21 +2904,21 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - T>'>e,\  ¾T>ÖÃn†¨<'  S[Í-‹  ÁK  U'U  ¡õÁ  T>'>e,\ uT>ðMÓuƒ ›Ã'ƒ' uT>¨e'¨< ¾Ñ>²? ÑÅw ¨<eØ ¾Tp[w&
 
-- ensure  strict  compliance  with  directives issued by the Ministry on admissions of students;
+- a) ensure strict compliance with directives issued by the Ministry on admissions of students;
 
-- ensure  the  minimum  curricula  quality standards, including educational content, pedagogy, student assessment and examination system, and system of grading;
+- b) ensure the minimum curricula quality standards, including educational content, pedagogy, student assessment and examination system, and system of grading;
 
-- perform  regular  annual  self-evaluation and evaluations by students and academic staff on its academic and research performance and make the results  of  the  evaluations  public  to  its community  as well as report to the Agency;
+- c) perform regular annual self-evaluation and evaluations by students and academic staff on its academic and research performance and make the results of the evaluations public to its community as well as report to the Agency;
 
-- maintain a readily accessible list of accredited study programmes  offered, including  the  specific  fields  within  the programmes  in  which  the  institution  is authorized to offer degrees, and form of their  delivery,  enrollment  capacity  and the  standard  length  of  study,  and  the profiles  of  its  academic  staff  and  the modes  of  their  employment;  and  give accurate  information  to  its  students  and the public about the same;
+- d) maintain a readily accessible list of accredited study programmes offered, including the specific fields within the programmes in which the institution is authorized to offer degrees, and form of their delivery, enrollment capacity and the standard length of study, and the profiles of its academic staff and the modes of their employment; and give accurate information to its students and the public about the same;
 
-- ensure  that  its  leadership  and  management structures, modus operandi of the structures, the  leadership  and  management  capabilities of the position occupants, its location, premises and facilities, and the campus environment generally are fit for the purposes of a higher education institution of its status, levels  of  studies,  student  and  staff  numbers, and the nature of the programmes and fields in which it is engaged;
+- e) ensure that its leadership and management structures, modus operandi of the structures, the leadership and management capabilities of the position occupants, its location, premises and facilities, and the campus environment generally are fit for the purposes of a higher education institution of its status, levels of studies, student and staff numbers, and the nature of the programmes and fields in which it is engaged;
 
-- submit  to  the  Agency  its  detailed  plans on education, research and training on a five-yearly basis, and annual up-dates of the plans; and make the plans public;
+- f) submit to the Agency its detailed plans on education, research and training on a five-yearly basis, and annual up-dates of the plans; and make the plans public;
 
-- submit  detailed  annual  reports  to the Agency  on  its  activities  in  education, research, and training at the end of each academic year and publish its educational input and  output data as required by this Proclamation;
+- g) submit detailed annual reports to the Agency on its activities in education, research, and training at the end of each academic year and publish its educational input and output data as required by this Proclamation;
 
-- supply information required by the Ministry free  of  charge  and in  the  form and  within  the  time  the  Ministry  may specify;
+- h) supply information required by the Ministry free of charge and in the form and within the time the Ministry may specify;
 
 [[END OF PAGE 54]]
 
@@ -2952,31 +2952,31 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 3 / ኤጄafii64242 ת ው የግ ـ ُדהּـ ָ ገ תּ ው የውdoubleyodጥ ደafii64242kafrafe ያ ֶْ ው doubleyod ֲאֳ afii64240 ያ נ ጋግጣ ::ָ
 
-- notify the Ministry immediately in case a bankruptcy proceeding is instituted against it;
+- i) notify the Ministry immediately in case a bankruptcy proceeding is instituted against it;
 
-- conduct its operations in accordance with  the  provision  of  this  Proclamation and other applicable laws.
+- j) conduct its operations in accordance with the provision of this Proclamation and other applicable laws.
 
-- 2/ The  annual  report on the activities of a private institution shall include, among others:
+- 2/ The annual report on the activities of a private institution shall include, among others:
 
-- activities  and  results  thereof  performed within the particular academic year;
+- a) activities and results thereof performed within the particular academic year;
 
-- results of performance evaluation of the institution;
+- b) results of performance evaluation of the institution;
 
-- internal developments  that  may  have taken place in the institution in the course of the academic year;
+- c) internal developments that may have taken place in the institution in the course of the academic year;
 
-- a signed diagnostic statement of its state of  general  condition  as  an  institution  of higher education by its supreme governing body, following the end of the academic year.
+- d) a signed diagnostic statement of its state of general condition as an institution of higher education by its supreme governing body, following the end of the academic year.
 
-- 3/ The annual report on activities, the long-term plans  of  the  institution,  and  the  results  of evaluation  of  its  activities  shall  be  made public.
+- 3/ The annual report on activities, the long-term plans of the institution, and the results of evaluation of its activities shall be made public.
 
-- 4/ Notwithstanding the other provisions of this Article and specifically provisions for academic audit, the Agency may conduct, as may be  necessary,  unscheduled reviews  and investigations  of  any  private  institution  and take corrective measures.
+- 4/ Notwithstanding the other provisions of this Article and specifically provisions for academic audit, the Agency may conduct, as may be necessary, unscheduled reviews and investigations of any private institution and take corrective measures.
 
 #### 73.   Internal Regulations of Private Institutions
 
-- 1/ Internal  regulations  of  a  private  institution shall  stipulate  the  governing  bodies  of  the institution, decision-making procedures of academic bodies, academic programmes, rights and obligations of the academic community, and grievance handling procedures.
+- 1/ Internal regulations of a private institution shall stipulate the governing bodies of the institution, decision-making procedures of academic bodies, academic programmes, rights and obligations of the academic community, and grievance handling procedures.
 
-- 2/ Internal  regulations  of  a  private  institution and  their  amendments  shall  not  contravene the provisions of this Proclamation and provisions of  any other applicable law.
+- 2/ Internal regulations of a private institution and their amendments shall not contravene the provisions of this Proclamation and provisions of any other applicable law.
 
-- 3/ The  Agency  shall  ensure  that  any  private institution has  an  appropriate  and  functional internal regulations.
+- 3/ The Agency shall ensure that any private institution has an appropriate and functional internal regulations.
 
 [[END OF PAGE 55]]
 
@@ -3016,31 +3016,31 @@ ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7 q qN 2 ETHIOPICSYLLABL
 
 #### 74.  Requirement for Accreditation
 
-- 1/ Any person who desires to establish, upgrade or modify a private institution shall be required to  secure  an  accreditation  from  the Ministry in accordance with this Proclamation.
+- 1/ Any person who desires to establish, upgrade or modify a private institution shall be required to secure an accreditation from the Ministry in accordance with this Proclamation.
 
-- 2/ Any  institution  which  has  received  accreditation and offers accredited study programmes shall have the  right  to  issue  valid  qualifications  of  higher education to its graduates consistent with accredited study programmes, specific disciplines in the programmes, and its enrollment capacity.
+- 2/ Any institution which has received accreditation and offers accredited study programmes shall have the right to issue valid qualifications of higher education to its graduates consistent with accredited study programmes, specific disciplines in the programmes, and its enrollment capacity.
 
 #### 75.  Application for Accreditation
 
 - 1/ Any person who desires to establish, upgrade or modify a private institution shall submit an application for accreditation to the Agency.
 
-- 2/ An  application  submitted  pursuant  to  subarticle (1) of this Article shall contain:
+- 2/ An application submitted pursuant to sub-article (1) of this Article shall contain:
 
-- name and main address of the institution;
+- a) name and main address of the institution;
 
-- financial capacity of the institution;
+- b) financial capacity of the institution;
 
-- the  name  and  address  of  the  body  to which the institution is  accountable;
+- c) the name and address of the body to which the institution is accountable;
 
-- the  names  and  addresses  of  the  owners of the institution;
+- d) the names and addresses of the owners of the institution;
 
-- vision,  mission  and  objectives  of  the institution;
+- e) vision, mission and objectives of the institution;
 
-- programmes of study and levels of education and training;
+- f) programmes of study and levels of education and training;
 
-- appropriate  curriculum,  the  number  and level  of  qualifications  of  academic  staff and technical and administrative support staff recruited by the institution and soon to be recruited with recruitment plan;
+- g) appropriate curriculum, the number and level of qualifications of academic staff and technical and administrative support staff recruited by the institution and soon to be recruited with recruitment plan;
 
-- details  of  the  available  and  soon  to  be made  available facilities and  services required for conducting education or training  such  as  libraries,  laboratories, classrooms, educational and research facilities, and  the manner in  which  they are maintained;
+- h) details of the available and soon to be made available facilities and services required for conducting education or training such as libraries, laboratories, classrooms, educational and research facilities, and the manner in which they are maintained;
 
 [[END OF PAGE 56]]
 
@@ -3074,31 +3074,31 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 1 /  ›?Ë'c=¨<  ¾k[uKƒ'  ¾c157¨<p'  ðnÉ TSMŸ‰ S`Ua u²=I  ›ªÏ'  ÃI' ›ªÏ KTeðçU u ג ¨Ö< Å'x‹' SS]Á-‹ ¾}SKŸ~ƒ SS²--‹' }sS< TTEL~' ›[ÒÓÙ reshdagesh ـ ገ תּ ጊዜ ውdoubleyodጥ ¾c157¨<p' ðnÆ' Ãc×M::
 
-- admission requirement for new students;
+- i) admission requirement for new students;
 
-- internal regulations of the institution providing for the status, rights and responsibilities of the academic community and grievance handling procedures;
+- j) internal regulations of the institution providing for the status, rights and responsibilities of the academic community and grievance handling procedures;
 
-- system  of  governance  and  management  by which the academic and administrative affairs of the institution shall be conducted;
+- k) system of governance and management by which the academic and administrative affairs of the institution shall be conducted;
 
-- a five-year plan of the institution;
+- l) a five-year plan of the institution;
 
-- investment  and  other  necessary  permits issued  by  the  appropriate  government organs.
+- m) investment and other necessary permits issued by the appropriate government organs.
 
 - 3/ The Agency shall, upon examining the application submitted to it:
 
-- issue  accreditation  where  it  ascertains that the institution satisfies the requirements under this Proclamation and regulations and directives issued for the implementation of this Proclamation;
+- a) issue accreditation where it ascertains that the institution satisfies the requirements under this Proclamation and regulations and directives issued for the implementation of this Proclamation;
 
-- reject  the  application  for  accreditation where  it  finds  that  the  institution  does not  meet  the  requirements  under  this Proclamation and regulations and directives  issued  for  the  implementation of this Proclamation.
+- b) reject the application for accreditation where it finds that the institution does not meet the requirements under this Proclamation and regulations and directives issued for the implementation of this Proclamation.
 
-- 4/ Where the Agency rejects an application for accreditation pursuant to  sub-article (3)(b) of this  Article,  it  shall  notify  the  applicant  in writing about the grounds for the rejection of the application.
+- 4/ Where the Agency rejects an application for accreditation pursuant to sub-article (3)(b) of this Article, it shall notify the applicant in writing about the grounds for the rejection of the application.
 
-- 5/ An  applicant that is denied accreditation pursuant to  sub-article (3)(b) of this Article, may reapply after fulfilling the requirements for accreditation within 90 days from the date of notification of the denial; provided however, that an applicant whose application is  rejected  twice  may  not  reapply  until after one year.
+- 5/ An applicant that is denied accreditation pursuant to sub-article (3)(b) of this Article, may reapply after fulfilling the requirements for accreditation within 90 days from the date of notification of the denial; provided however, that an applicant whose application is rejected twice may not reapply until after one year.
 
-- 6/ The  Agency  shall  make  the  decision  on  the rejection of accreditation public through appropriate media depending on the character of the decision.
+- 6/ The Agency shall make the decision on the rejection of accreditation public through appropriate media depending on the character of the decision.
 
 #### 76.   Issuance of Accreditation
 
-- 1/ Where the Agency, upon examining the application  for  accreditation  submitted  to  it  and ascertaining that the institution satisfies the requirements under this Proclamation and regulations and directives issued for the implementation  of  this  Proclamation,  issue  the accreditation within a reasonable time period.
+- 1/ Where the Agency, upon examining the application for accreditation submitted to it and ascertaining that the institution satisfies the requirements under this Proclamation and regulations and directives issued for the implementation of this Proclamation, issue the accreditation within a reasonable time period.
 
 [[END OF PAGE 57]]
 
@@ -3142,17 +3142,17 @@ u²=I ›ªÏ ›'kê &7 '®<e ›'kê ( 2 ) SW[ƒ ¾c157¨<p' ðnÉ c157'Ç=�
 
 - 2/ The accreditation issued by the Agency shall indicate:
 
-- the name and address of the institution;
+- a) the name and address of the institution;
 
-- the  status,  programmes  and  curriculum of the institution;
+- b) the status, programmes and curriculum of the institution;
 
-- the number and qualification mix of the academic staff;
+- c) the number and qualification mix of the academic staff;
 
-- enrollment  capacity  and  location  of  the campus;
+- d) enrollment capacity and location of the campus;
 
-- the  date  of  issuance  of  the accreditation and its duration of validity;
+- e) the date of issuance of the accreditation and its duration of validity;
 
-- the  name  and  signature  of  the  official issuing the accreditation with the seal of the Agency affixed.
+- f) the name and signature of the official issuing the accreditation with the seal of the Agency affixed.
 
 - 3/ The  Agency  shall  make  public  the  issuance of the accreditation through appropriate media.
 
@@ -3194,47 +3194,47 @@ gA            ØÁ‰L ETHIOPICSYLLABLENA U¶T Uz¤È qÜ_R ^4 መስከረም 7
 
 - 7/ other information required by the Agency  in accordance with the directive to be issued by the Ministry.
 
-#### &9 .  ¾c157¨<p'  ðnÉ  KTÅe  eKT>k`w  TS MŸ‰ ¨<d'@ ›c×Ø
+#### &9 .  ¾c157¨<p'  ðnÉ  KTÅe  eKT>k`w  TSMŸ‰ ¨<d'@ ›c×Ø
 
-#### 79. Decision on Application for Renewal of Accreditation
+- 1 /  ›?Ë'c=¨< u²=I ›ªÏ ›'kê &8 SW[ƒ ¾c157¨<p' ðnÉ c157Édƒ ØÁo c=k`wKƒ uÑUÒT> ¢T>,¨< ›T"Ã'ƒ ፡-
 
-- 1 /  ›?Ë'c=¨< u²=I ›ªÏ ›'kê &8 SW[ƒ ¾c157¨<p'  ðnÉ  c157Édƒ  ØÁo c=k`wKƒ uÑUÒT> ¢T>,¨< ›T"Ã'ƒ ፡-
-
-- 1/ Upon receiving an application for the renewal  of  accreditation  pursuant  to  Article 78  of  this  Proclamation,  the  Agency  shall, through its assessment committee:
-
-- u}sS< ¾k[u¨<' ÓK-ÓUÑT ፣ c'É' K?KA‹  ]þ`'‹'  ÃS[U^M ፤ u'²=G< ¨<eØ ¾}"}~ S[Í-‹'' eƒe+"©  SÓKÝ-‹'  ƒ¡¡K-'ƒ  Á[ÒÓ×M&
+- u}sS< ¾k[u¨<' ÓK-ÓUÑT ፣ c'É' K?KA‹ ]þ`'‹' ÃS[U^M ፤ u'²=G< ¨<eØ ¾}"}~ S[Í-‹'' eƒe+"© SÓKÝ-‹' ƒ¡¡K-'ƒ Á[ÒÓ×M&
 
 - u}sS< ¾T>cÖ< ፕ aÓ^V‹' vÑ'²u SM¡ ፡-
 
 ( 1 )  ¾}sS<'  ›"ÇT>Á©'  ›e}ÇÅ^© SW[} MT'‹'
 
-( 2 )  Y`›} ƒUI`ƒ'' ¾ST` Te}T` Ø^ƒ'' ¾}T]-‹ S[Í-‹''  ¾ƒUI`ƒ  SÑMÑÁ-‹'' }T]-‹ uST` Te}T\ H>Åƒ ¨<eØ  ÁL†¨<'  }dƒö'  ¾SUI^'< wnƒ'  ÚUa ¾}T]-‹ ¾ƒUI`~ Ø^ƒ ÓUÑT''
+( 2 )  Y`›} ƒUI`ƒ'' ¾ST` Te}T` Ø^ƒ'' ¾}T]-‹ S[Í-‹'' ¾ƒUI`ƒ SÑMÑÁ-‹'' }T]-‹ uST` Te}T\ H>Åƒ ¨<eØ ÁL†¨<' }dƒö' ¾SUI^'< wnƒ' ÚUa ¾}T]-‹ ¾ƒUI`~ Ø^ƒ ÓUÑT''
 
-( 3 ) ¾ÉÒ ፍ cÜ c^}™‹ ´`´`' ¾ƒUI`ƒ Å[Í''
+( 3 ) ¾ÉÒፍ cÜ c^}™‹ ´`´`' ¾ƒUI`ƒ Å[Í''
 
 ( 4 )  ¾U`U` e^-‡' SÖ'' ›Óvw'ƒ'
 
 uØMkƒ ÃÑSÓTM&
 
-- 2 /  ›?Ë'c=¨<  uÑUÒT>  ¢T>,¨<  ]þ`ƒ SW[ƒ ፡-
+- 2 /  ›?Ë'c=¨< uÑUÒT> ¢T>,¨< ]þ`ƒ SW[ƒ ፡-
 
-- u²=I  ›ªÏ'  ÃI'  ›ªÏ  KTeðçU u ג ¨Ö<  Å'x‹'  SS]Á-‹  ¾cð\ƒ' SS²--‹  u}sS<  STEL-†¨<' "[ÒÑÖ ¾c157¨<p' ðnÆ c157'Ç=ÅeKƒ ያደ ץ ጋ ָ & ¨ÃU
+- u²=I ›ªÏ' ÃI' ›ªÏ KTeðçU u ג ¨Ö< Å'x‹' SS]Á-‹ ¾cð\ƒ' SS²--‹ u}sS< STEL-†¨<' "[ÒÑÖ ¾c157¨<p' ðnÆ c157'Ç=ÅeKƒ ያደ ץ ጋ ָ & ¨ÃU
 
-- evaluate  the  self-assessment  document and other reports and ascertain the veracity of the information and statistics contained therein;
+#### 79. Decision on Application for Renewal of Accreditation
 
-- taking  into  account  the  nature  of  the institution's programmes, closely scrutinize:
+- 1/ Upon receiving an application for the renewal of accreditation pursuant to Article 78 of this Proclamation, the Agency shall, through its assessment committee:
 
-- the academic and administrative infrastructure  made  available  at  the institution;
+- a) evaluate the self-assessment document and other reports and ascertain the veracity of the information and statistics contained therein;
 
-- the processes of teaching and learning which shall include the curricula, quality of teaching and learning, student support services, student involvement  in  the  teaching-learning processes,  and  student  evaluation  on the quality of education, including on the quality of the academic staff;
+- b) taking into account the nature of the institution's programmes, closely scrutinize:
 
-- list  and  qualifications  of  support staff;
+- (1) the academic and administrative infrastructure made available at the institution;
 
-- scale  and  relevance  of  research activities.
+- (2) the processes of teaching and learning which shall include the curricula, quality of teaching and learning, student support services, student involvement in the teaching-learning processes, and student evaluation on the quality of education, including on the quality of the academic staff;
 
-- 2/  The Agency, based on the report of the assessment committee, shall:
+- (3) list and qualifications of support staff;
 
-- issue renewal of the accreditation where it ascertains  that  the  institution  satisfies  the requirements  under  this  Proclamation  and regulations  and  directives  issued  for  the implementation of this Procllamation; or
+- (4) scale and relevance of research activities.
+
+- 2/ The Agency, based on the report of the assessment committee, shall:
+
+- a) issue renewal of the accreditation where it ascertains that the institution satisfies the requirements under this Proclamation and regulations and directives issued for the implementation of this Procllamation; or
 
 [[END OF PAGE 59]]
 
@@ -3270,31 +3270,31 @@ Federal   Negarit   Gazeta  No. 64    17 September,  2009 ….   Page 5035
 
 - נ )  ¾c157¨<p'  ðnÆ'  ÁÅc¨<'  HLò  eU' ò`T c157' ¾ ኤጄafii64242 ת ው TI}U' SÁ´ ›Kuƒ::
 
-- reject  the  application  for  the  renewal  of accreditation where it finds that the institution  does  not  meet  the  requirements under  this  Proclamation  and  the  regulations and directives issued for the implementation of this Proclamation.
+- b) reject the application for the renewal of accreditation where it finds that the institution does not meet the requirements under this Proclamation and the regulations and directives issued for the implementation of this Proclamation.
 
-- 3/ Where the Agency rejects an application for renewal  of  accreditation  pursuant  to    subarticle (2)(b) of this Article, it shall notify the applicant in writing, together with a detailed statement  explaining  about  the  institution's standing vis-à-vis the requirements and recommending the corrective measures to be taken  by  the  institution within  a  definite period of time.
+- 3/ Where the Agency rejects an application for renewal of accreditation pursuant to sub-article (2)(b) of this Article, it shall notify the applicant in writing, together with a detailed statement explaining about the institution's standing vis-à-vis the requirements and recommending the corrective measures to be taken by the institution within a definite period of time.
 
-- 4/ An applicant that is denied renewal of accreditation  under  sub-article  (2)(b)  of  this Article, may reapply after fulfilling the requirements  for  accreditation  by  taking  the corrective measures suggested by the Agency within the specified time limit.
+- 4/ An applicant that is denied renewal of accreditation under sub-article (2)(b) of this Article, may reapply after fulfilling the requirements for accreditation by taking the corrective measures suggested by the Agency within the specified time limit.
 
 - 5/ The Agency shall make public, through appropriate media, its final decision on rejection of renewal of accreditation.
 
-- 6/ Any institution denied of renewal of accreditation shall take appropriate measures in  order that  the  students  and  trainees  it has admitted shall be transferred to other appropriate  institutions  and  complete  their studies.
+- 6/ Any institution denied of renewal of accreditation shall take appropriate measures in order that the students and trainees it has admitted shall be transferred to other appropriate institutions and complete their studies.
 
 #### 80.   Renewal of Accreditation
 
 - 1/ The renewed accreditation shall indicate:
 
-- name and address of the institution;
+- a) name and address of the institution;
 
-- status of the institution and its programmes and curricula;
+- b) status of the institution and its programmes and curricula;
 
-- number and qualifications of the academic staff;
+- c) number and qualifications of the academic staff;
 
-- enrollment  capacity  and  location  of  the campus;
+- d) enrollment capacity and location of the campus;
 
-- date  of  renewal  of  the  accreditation and its duration of validity;
+- e) date of renewal of the accreditation and its duration of validity;
 
-- name and signature of the official renewing the accreditation with the seal of the Agency affixed.
+- f) name and signature of the official renewing the accreditation with the seal of the Agency affixed.
 
 [[END OF PAGE 60]]
 
@@ -3338,11 +3338,11 @@ Federal   Negarit   Gazeta  No. 64    17 th September,  2009 ….   Page 5036
 
 - 1/ The Agency may revoke the accreditation of a private institution on any one of the following grounds:
 
-- where  it  is  found  that  the  accreditation has  been  given  on  the  basis  of  false information;
+- a) where it is found that the accreditation has been given on the basis of false information;
 
-- where the institution fails to rectify defects within the time fixed in the warning given by the Agency for failure to  satisfy  the  required  standards  or  for contravening the provisions of this Proclamation,  any  other  relevant  law  or regulations  or  directives  issued  for  the implementation of this Proclamation.
+- b) where the institution fails to rectify defects within the time fixed in the warning given by the Agency for failure to satisfy the required standards or for contravening the provisions of this Proclamation, any other relevant law or regulations or directives issued for the implementation of this Proclamation.
 
-- where  the  institution  is  dissolved  or ceases its operations.
+- c) where the institution is dissolved or ceases its operations.
 
 - 2/ A  revocation  of  accreditation  pursuant  to sub-article (1)(a) or (b) of    this Article shall be  made effective  before  the  beginning  of  a new academic year.
 
@@ -3402,9 +3402,9 @@ Federal   Negarit   Gazeta  No. 64    17 th September,  2009 ….   Page 5037
 
 - 2/ The Agency shall issue a substitute accreditation certificate:
 
-- in case of damage, upon the return of the damaged certificate by the applicant;
+- a) in case of damage, upon the return of the damaged certificate by the applicant;
 
-- in  case  of  loss,  having  received  legally acceptable evidence.
+- b) in case of loss, having received legally acceptable evidence.
 
 #### 84. Returning Accreditation Certificate
 
@@ -3420,11 +3420,11 @@ Fees to be paid for accreditation shall be prescribed by directives to be issued
 
 - 1/ The  government  may  give  budget  subsidy  or capacity  building  support  to  non-profit  making private  institutions  that  strive  to  strengthen  the developmental efforts of the country by preparing particularly good quality professionals.
 
-- 2/ The  Ministry  shall specify, by directives, the procedure for non-profit making private institutions  to  apply for  budgetary  subsidy  or capacity building from government and the method of monitoring their use, taking into account:
+- 2/ The Ministry shall specify, by directives, the procedure for non-profit making private institutions to apply for budgetary subsidy or capacity building from government and the method of monitoring their use, taking into account:
 
-- the  number  of  full-time  undergraduate and  graduate  students  enrolled  at  the institution,  and  the  number  of  students who do not pay tuition fees;
+- a) the number of full-time undergraduate and graduate students enrolled at the institution, and the number of students who do not pay tuition fees;
 
-- the number of academic staff  for whom the  institution  is  the  place  of  primary employment;
+- b) the number of academic staff for whom the institution is the place of primary employment;
 
 [[END OF PAGE 62]]
 
@@ -3464,17 +3464,17 @@ T>'>e,\  u²=I  ›ªÏ  K?KA‹  É'ÒÑ@-‹ ¾}cÖ¨< HLò'ƒ c157'Å}Öuk J�
 
 - 4 / u²=I  ›ªÏ'  uS'Óeƒ  þK=c='  c157'ÇeðLÑ>'~  u¾Ñ>²?¨<  uT>Á¨×†¨<  SYð`'‹ SW[ƒ uS'Óe© }sTƒ Å[Í' uS'Óe© }sTƒ  ¨<eØ ¾T>Å[Ñ<ƒ ¾}T]-‹  UÅv  c157'  ¾}T]-‹  puL e`¯~ vÖnLÃ õƒH© SJ'†¨<' Á[ÒÓ×M&
 
-- quality of education in the institution;
+- c) quality of education in the institution;
 
-- past  achievements  of  the  institution  in the area of teaching-learning and research; and
+- d) past achievements of the institution in the area of teaching-learning and research; and
 
-- institution's  own  funds  invested  in  the development of its facilities.
+- e) institution's own funds invested in the development of its facilities.
 
-- 3/ Non-profit  making  private  institutions  may receive earmarked additional subsidy funds:
+- 3/ Non-profit making private institutions may receive earmarked additional subsidy funds:
 
-- to support degree programmes offered in specific fields of study or interdisciplinary studies; or
+- a) to support degree programmes offered in specific fields of study or interdisciplinary studies; or
 
-- as  incentive  if  the  degree  programmes are of a particularly high quality as confirmed by an assessment of the Agency.
+- b) as incentive if the degree programmes are of a particularly high quality as confirmed by an assessment of the Agency.
 
 #### 87. Applicability of the Provisions of this Part
 
@@ -3756,7 +3756,7 @@ S'Óeƒ ›Óvw'ƒ vL†¨< QÑA‹' þK=c=-‹  SW[ƒ  }sTƒ  KƒUI`ƒ ፣ KU`U
 
 #### 94.   Access to Land
 
-Government may make the necessary land available  for  use  by  institutions  for  the  purposes of their education, research and communityservices operations in accordance with applicable laws and policies.
+Government may make the necessary land available for use by institutions for the purposes of their education, research and community-services operations in accordance with applicable laws and policies.
 
 #### 95.   Liability
 
