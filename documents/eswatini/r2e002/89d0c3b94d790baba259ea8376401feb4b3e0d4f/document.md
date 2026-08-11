@@ -16,17 +16,17 @@ JANUARY 2013
 
 ## TABLE OF CONTENTS
 
-- GENERAL BACKGROUND
+- 1. GENERAL BACKGROUND
 
-- RATIONALE FOR VISION AND LONG-TERM DEVELOPMENT STRATEGIES (LTDS)
+- 2. RATIONALE FOR VISION AND LONG-TERM DEVELOPMENT STRATEGIES (LTDS)
 
-- PRINCIPLES OF GOOD VISION: OPTIMAL PROCESS AND RESULT
+- 3. PRINCIPLES OF GOOD VISION: OPTIMAL PROCESS AND RESULT
 
-- SOME COMMON FEATURES OF NATIONAL DEVELOPMENT STRATEGIES
+- 4. SOME COMMON FEATURES OF NATIONAL DEVELOPMENT STRATEGIES
 
-- SOME KEY CONDITIONS FOR LONG-TERM STRATEGIES TO SUCCEED
+- 5. SOME KEY CONDITIONS FOR LONG-TERM STRATEGIES TO SUCCEED
 
-- SWAZILAND VISION 2022 AND NATIONAL DEVELOPMENT STRATEGY (NDS)
+- 6. SWAZILAND VISION 2022 AND NATIONAL DEVELOPMENT STRATEGY (NDS)
 
 - 6.1. Background
 
@@ -38,9 +38,9 @@ JANUARY 2013
 
 - 6.5. Objectives of the NDS review
 
-- STRATEGIC PROCESS FOR NDS REVIEW
+- 7. STRATEGIC PROCESS FOR NDS REVIEW
 
-- INDICATIVE ACTION PLAN FOR THE NDS REVIEW PROCESS
+- 8. INDICATIVE ACTION PLAN FOR THE NDS REVIEW PROCESS
 
 2
 
@@ -50,11 +50,11 @@ JANUARY 2013
 
 ## 1. GENERAL BACKGROUND
 
-National Visions and development strategies are tools for building a nation's future. They are needed in order to stimulate continuous and purposeful development.   A vision's power  lies  in  its  ability  to  motivate  and  align  efforts,  raising  national aspirations  and  providing  a  focus  for  collective  activity.  Although  development strategies  vary  from  country  to  country  and  change  over  time,  they  provide  a definition  of  the  goals  and  priorities  of  socio-economic  development  in  the  longterm and the paths, resources and timeframes for their implementation.
+National Visions and development strategies are tools for building a nation's future. They are needed in order to stimulate continuous and purposeful development.   A vision's power  lies  in  its  ability  to  motivate  and  align  efforts,  raising  national aspirations  and  providing  a  focus  for  collective  activity.  Although  development strategies  vary  from  country  to  country  and  change  over  time,  they  provide  a definition  of  the  goals  and  priorities  of  socio-economic  development  in  the  long-term and the paths, resources and timeframes for their implementation.
 
-In  actual  practice,  a  long-term  national  vision  cannot  be  complete  without  an accompanying strategy, which spells out the actions that are to be taken to meet the long term goals. This strategy should systemically assess the journey made by the country, success stories and lessons learned, identify current and future challenges both  internally  and  externally,  identify  goals  and  objectives  as  well  as  essential resources for achievement, and become the framework for development of set of policies  and  programmes.  The  strategy  must  be  built  on  honest  analysis  of  the strengths and weaknesses of a country on the opportunities that can be seized, and on the possible threats to avoid.
+In  actual  practice,  a  long-term  national  vision  cannot  be  complete  without  an accompanying strategy, which spells out the actions that are to be taken to meet the long term goals. This strategy should systemically assess the journey made by the country, success stories and lessons learned, identify current and future challenges – both  internally  and  externally,  identify  goals  and  objectives  as  well  as  essential resources for achievement, and become the framework for development of set of policies  and  programmes.  The  strategy  must  be  built  on  honest  analysis  of  the strengths and weaknesses of a country on the opportunities that can be seized, and on the possible threats to avoid.
 
-A national vision is a preferred future situation which countries and societies aspire to attain or want to be in the future. On the other hand, no matter how elusive it may be,  a  long  term  national  development  strategy  is  a  consciously  designed  means, method or planned roadmap that enables countries to successfully arrive at the predefined or aspired vision through well conceived and integrated path of development. In the context of sustainable development, a national development strategy  is  a  coordinated,  participatory  and  iterative  process  of  thoughts  and actions to achieve economic, social and environmental objectives in a balanced and integrative manner. At the heart of long term national development strategy is the  process  of  coherent  planning  spanning  both  short-and  medium  term  plans essentially  aimed  at  achieving  the  strategic  goals  of  a  country  with  effective resources allocation.  In brief, a national development strategy is a sin qua non for the realization of a vision and its key attributes.
+A national vision is a preferred future situation which countries and societies aspire to attain or want to be in the future. On the other hand, no matter how elusive it may be,  a  long  term  national  development  strategy  is  a  consciously  designed  means, method or planned roadmap that enables countries to successfully arrive at the pre-defined or aspired vision through well conceived and integrated path of development. In the context of sustainable development, a national development strategy  is  a  coordinated,  participatory  and  iterative  process  of  thoughts  and actions to achieve economic, social and environmental objectives in a balanced and integrative manner. At the heart of long term national development strategy is the  process  of  coherent  planning  spanning  both  short-and  medium  term  plans essentially  aimed  at  achieving  the  strategic  goals  of  a  country  with  effective resources allocation.  In brief, a national development strategy is a sin qua non for the realization of a vision and its key attributes.
 
 3
 
@@ -64,19 +64,21 @@ A national vision is a preferred future situation which countries and societies 
 
 Visioning  -  formulation  of  visions,  long-term  national  development  strategies  is  a quite broadly recognized and widely used tool in government practices worldwide. A vision and a long-term comprehensive development strategy should view and be inclusive of wider pillars of development spectrum like economic, social, environmental issues, etc. Both the national vision and long term strategy should be designed  to  foster  consensus  in  society  regarding  different  development  issues including promotion of private sector initiatives and resource mobilization as well as identify potential risks, prospective solutions through focused mobilization of efforts.
 
-In  the  case  of  Africa,  the  linear  development  path  (following  the  western  style  of development course)  pursued  by  many  African  countries  in  the  immediate  postindependence period  has  not  produced  the  expectations  and  aspirations  of  the populace.  Instead,  contrary  to  expectations,  the  outcome  was  characterized  by mass unemployment, exodus from rural to urban areas, sluggish economic growth, deteriorating social conditions and increasing poverty at alarming rates. With an eye to reverse and rectify this unsatisfactory and undesirable performance, a consensus emerged (in  1990  at  Maastricht,  Netherlands)  on  the  need  to  adopt  a  long  term perspective as an appropriate framework for promoting sustainable development in Africa. Following this, many African countries (including Swaziland), with the support of international partners including UNDP, engaged in the formulation and implementation of their own long term visions and strategies.
+In  the  case  of  Africa,  the  linear  development  path  (following  the  western  style  of development course)  pursued  by  many  African  countries  in  the  immediate  post-independence period  has  not  produced  the  expectations  and  aspirations  of  the populace.  Instead,  contrary  to  expectations,  the  outcome  was  characterized  by mass unemployment, exodus from rural to urban areas, sluggish economic growth, deteriorating social conditions and increasing poverty at alarming rates. With an eye to reverse and rectify this unsatisfactory and undesirable performance, a consensus emerged (in  1990  at  Maastricht,  Netherlands)  on  the  need  to  adopt  a  long  term perspective as an appropriate framework for promoting sustainable development in Africa. Following this, many African countries (including Swaziland), with the support of international partners including UNDP, engaged in the formulation and implementation of their own long term visions and strategies.
 
 ## 2. RATIONALE FOR VISION AND LONG-TERM DEVELOPMENT STRATEGIES(LTDS)
 
 Long-term  strategies  are  increasingly  seen  as  guidelines  for  resource  allocation  at both  macro  and sectoral  levels,  and  as  consistency  frameworks  for  development policies. In some cases, the formulation of national vision or strategy also represents an  opportunity  to  articulate  a  country's  own  priorities  and  its  preferred  style  of growth,  rather  than  leaving  national  policy  to  be  defined  implicitly  by  the  sum  of international donors' priorities.
 
-At the heart of the justification for a strategy is the notion that there exist more than one alternative choices of growth paths for a country. For instance, depending on its potential,  a  country  could  adopt  an  export  promotion  based  strategy  on  private sector driven strategy of growth etc. The coverage of long-term strategies has been gradually broadened beyond macroeconomic issues and now it may include topics such as institutional reforms, decentralization,  governance, environment,  and policies for gender and youth. In addition, there tends to be more emphasis today on sectoral as well as macro policies.  In practice concrete choices of development paths are often analysed within each of these areas and thus a well founded long term  strategy  could  enable  the  country  to  identify  and  define  aits  appropriate development direction.
+At the heart of the justification for a strategy is the notion that there exist more than one alternative choices of growth paths for a country. For instance, depending on its potential,  a  country  could  adopt  an  export  promotion  based  strategy  on  private sector driven strategy of growth etc. The coverage of long-term strategies has been
 
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+gradually broadened beyond macroeconomic issues and now it may include topics such as institutional reforms, decentralization, governance, environment, and policies for gender and youth. In addition, there tends to be more emphasis today on sectoral as well as macro policies. In practice concrete choices of development paths are often analysed within each of these areas and thus a well founded long term strategy could enable the country to identify and define aits appropriate development direction.
 
 There  is  documented  empirical  evidence  that  countries  that  have  grown  rapidly over  two  or  three  generations  have  often  had  clear  strategies  which  demanded strategic  choices  and  careful  sequencing  of  policies  and  implementation.  Often, long-run  growth  and development require  a  long-term vision  of an  ultimate  goal, and corresponding investment in people, in infrastructure and the productive base, and in competent and broad-based institutions with continuous identification of the activities that will act as key drivers to reach the ultimate objective.
 
@@ -86,13 +88,15 @@ The  experiences  of  many  countries  have  proved  that  the  absence  of  a  
 
 The  vision  is  the  basis  for  drawing  up  plans  for  the  government's  work  and  for improving the administrative system in regard to bolstering the planning mechanisms at the different hierarchical levels so as to ensure better coordination in the complex work  of  the  government  itself  and  its  cooperation  with  the  private  sector  and international partners.
 
-Basically, a national vision seeks to actively mobilize the people and other resources towards  the  achievement  of  shared  goals.  A  shared  vision  arouses  people's aspirations  and  creates  the  spark  that  lifts  the  nation  out  of  the  mundane.  In  the processes,  it  instils  the  courage  and  determination  to  rise  to  challenges  at  the individual,  community  and  national  level.  A  vision  is  a  vehicle  of  hope  and  an inspiration for motivating the people to search and work harder for the betterment of their livelihood and for prosperity.
+Basically, a national vision seeks to actively mobilize the people and other resources towards  the  achievement  of  shared  goals.  A  shared  vision  arouses  people's aspirations  and  creates  the  spark  that  lifts  the  nation  out  of  the  mundane.  In  the processes,  it  instils  the  courage  and  determination  to  rise  to  challenges  at  the
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+individual, community and national level. A vision is a vehicle of hope and an inspiration for motivating the people to search and work harder for the betterment of their livelihood and for prosperity.
 
 ## 3. PRINCIPLES OF GOOD VISION : AN OPTIMAL PROCESS AND RESULT
 
@@ -184,7 +188,7 @@ These, among others, include:
 
 - lead role in the formulation, implementation and monitoring of the strategy, which will significantly increase the probability of success. And, the government should exhibit the necessary capacities and capabilities towards this end.
 
- Defining  global,  regional  and  national  context -  In  the  face  of  increasingly interdependent  global  and  regional  economies,  it  is  essential  that  due consideration  be  given  to  such  trends.    To  this  end,  an  assessment  of  the global trends should be carried out and the forthcoming cyclical fluctuations and commodity market instabilities foresighted. Likewise, the regional socioeconomic and political developments and anticipated programmes (including  their  possible  impacts  on  the  national  economy)  need  to  be closely  reviewed.  Then,  all  important  findings  i.e.  both  from  the  global  and regional analyses should be systematically incorporated and built-in into the national long term strategy.
+ Defining  global,  regional  and  national  context -  In  the  face  of  increasingly interdependent  global  and  regional  economies,  it  is  essential  that  due consideration  be  given  to  such  trends.    To  this  end,  an  assessment  of  the global trends should be carried out and the forthcoming cyclical fluctuations and commodity market instabilities foresighted. Likewise, the regional socio-economic and political developments and anticipated programmes (including  their  possible  impacts  on  the  national  economy)  need  to  be closely  reviewed.  Then,  all  important  findings  i.e.  both  from  the  global  and regional analyses should be systematically incorporated and built-in into the national long term strategy.
 
  Assessing  progress  and  defining  future  challenges -  To  identify  a  country's future  challenges  and  potential  areas  for  development,  knowledge  about the current country's development status, development activities accomplished thus far, existing development potentials and the factors that will determine  the country's future  development  are  important. These analyses will enable the country to design alternative policy measures (with proper sequencing and alignment) that will yield the desired results.
 
@@ -202,9 +206,9 @@ development  strategy  should  be  carried  out  gradually,  step  by  step.  As
 
 ## 6. SWAZILAND:  VISION 2022 AND NATIONAL DEVELOPMENT STRATEGY (NDS)
 
-The  process  of  formulating  the  Swaziland  Vision  2022  and  National  Development Strategy  (NDS)  involving  various  stages  took  a  significant  period  of  time  i.e.  19921997. Briefly, the NDS was formulated in1997 and formally rolled out in 1999.  As part of  the  formulation  process,  initially,  views  were  collected  from  the  general  public and extensive consultations as well as detailed analytical reviews of the country's social and economic performances since independence, challenges and opportunities were identified. Following these, the national vision was crafted in the form of National Development Strategy (NDS).
+The  process  of  formulating  the  Swaziland  Vision  2022  and  National  Development Strategy  (NDS)  involving  various  stages  took  a  significant  period  of  time  i.e.  1992-1997. Briefly, the NDS was formulated in1997 and formally rolled out in 1999.  As part of  the  formulation  process,  initially,  views  were  collected  from  the  general  public and extensive consultations as well as detailed analytical reviews of the country's social and economic performances since independence, challenges and opportunities were identified. Following these, the national vision was crafted in the form of National Development Strategy (NDS).
 
-Briefly,  the  NDS  articulates  the  country's  development  vision  and  aspiration  for  25 years  i.e.  1997  -2022.  It  focuses  on  improved  standard  of  living  in  the  country particularly poverty eradication, employment  creation, gender equality and environmental protection. According to the Strategy, by the year 2022 the Kingdom of Swaziland will be in the top 10 % of the human development group of countries founded on sustainable development, social justice and political stability. Furthermore, the NDS aims to eradicate poverty from the country. In practice, the NDS provides  a  long  term  framework  within  which  short  and  medium-term  action programmes  will  be  formulated  by  the  government.  The  Strategy  embraces  the vision,  key  macro,  sectoral  and  sub-sectoral  strategies  presumed  primarily  to advance the country's socio-economic development process. Since its adoption in 1999, the NDS is serving as the overarching national framework that guides all socioeconomic interventions which seek to advance the lives of the Swazi populace.
+Briefly,  the  NDS  articulates  the  country's  development  vision  and  aspiration  for  25 years  i.e.  1997  -2022.  It  focuses  on  improved  standard  of  living  in  the  country particularly poverty eradication, employment  creation, gender equality and environmental protection. According to the Strategy, by the year 2022 the Kingdom of Swaziland will be in the top 10 % of the human development group of countries founded on sustainable development, social justice and political stability. Furthermore, the NDS aims to eradicate poverty from the country. In practice, the NDS provides  a  long  term  framework  within  which  short  and  medium-term  action programmes  will  be  formulated  by  the  government.  The  Strategy  embraces  the vision,  key  macro,  sectoral  and  sub-sectoral  strategies  presumed  primarily  to advance the country's socio-economic development process. Since its adoption in 1999, the NDS is serving as the overarching national framework that guides all socio-economic interventions which seek to advance the lives of the Swazi populace.
 
 ### 6.1. MAJOR ACHIEVEMENTS
 
@@ -216,7 +220,7 @@ Briefly,  the  NDS  articulates  the  country's  development  vision  and  aspir
 
 #### a) Development of Policies and Strategies
 
-On  the  implementation  side  of  the  NDS,  the  government  has  developed  and initiated  a  significant  number  of  sectoral,  sub-sectoral  and  thematic  policies  and strategies (including legislative Acts and Bills like the Constitution) primarily aimed at realizing the ultimate aspirations of Vision 2022 and NDS strategic goals. For instance as  part  of  the  move  to  operationalize  the  NDS,  in  2006,  through  lengthy  and extensive  consultations  as  well  as  broad-based  participation,  the  Government developed and adopted the Poverty Reduction Strategy and Action ProgrammePRSAP (2007-2015). The PRSAP was crafted to serve as a critical means and guide to attain  the  ultimate  long  term  national  vision  and  Millennium  Development  Goals through  conscious  and  concerted  development  planning  and  budgeting.    To strengthen the implementation of the PRSAP, a Sector Wide Approach (SWAp) was adopted and piloted to the planning and budgeting process in four priority sectors, namely agriculture, education, health and water & sanitation.  The Approach is to facilitate  the  development  of  competent  sector  policies  and  strategies  as  well  as ensure proper alignment of intervention programmes with the national development frameworks; thereby achieve better results. Briefly, as far as short-and medium term planning  is  concerned,  a  number  of  national  documents,  including  Sectoral Development Policies and Plans, were produced and implemented during the NDS era.
+On  the  implementation  side  of  the  NDS,  the  government  has  developed  and initiated  a  significant  number  of  sectoral,  sub-sectoral  and  thematic  policies  and strategies (including legislative Acts and Bills like the Constitution) primarily aimed at realizing the ultimate aspirations of Vision 2022 and NDS strategic goals. For instance as  part  of  the  move  to  operationalize  the  NDS,  in  2006,  through  lengthy  and extensive  consultations  as  well  as  broad-based  participation,  the  Government developed and adopted the Poverty Reduction Strategy and Action Programme-PRSAP (2007-2015). The PRSAP was crafted to serve as a critical means and guide to attain  the  ultimate  long  term  national  vision  and  Millennium  Development  Goals through  conscious  and  concerted  development  planning  and  budgeting.    To strengthen the implementation of the PRSAP, a Sector Wide Approach (SWAp) was adopted and piloted to the planning and budgeting process in four priority sectors, namely agriculture, education, health and water & sanitation.  The Approach is to facilitate  the  development  of  competent  sector  policies  and  strategies  as  well  as ensure proper alignment of intervention programmes with the national development frameworks; thereby achieve better results. Briefly, as far as short-and medium term planning  is  concerned,  a  number  of  national  documents,  including  Sectoral Development Policies and Plans, were produced and implemented during the NDS era.
 
 Furthermore,  the  development  of  a  Fiscal  Adjustment  Roadmap  (FAR)  in  2010 added  an  impetus  to  the  policy  architecture  in  the  country,  and  aimed  at addressing  the  fiscal  challenges.  In  order  to  effectively  respond  to  the  adverse impacts  of  the  global  financial  and  economic  crisis,  the  country  developed  the Economic Recovery Strategy (ERS) also aimed at addressing stagnant growth. The country re-launched the Investor Roadmap, which identified the bottlenecks on the ease of doing business in Swaziland. Through the road map the extension of border hours have been realized and the law proposing an extension of operating hours in the business community is currently in parliament. Through the Economic Recovery Strategy  (ERS),  the  Mining  bill  which  is  being  developed  and  awaits  approval  of parliament  will  forge  more  activity  in  the  mining  sector.  The  Iron  Ore  Mine  in Ngwenya and the Gold Mine in Pigg's Peak have recently been opened. The one stop shop is still underway which will help attract more FDIs into the country.
 
@@ -239,13 +243,15 @@ Relatively,  Swaziland  has  made  great  improvements  in terms  of  large  and
 Swaziland  is supplied  with the highest quality of infrastructure.  The  country  possesses  an  extensive  network  of  good  quality  tarred roads and adequate gravel roads. All roads connecting the major towns and main border gates are tarred. Most of the rural settlements are also connected with rural access  roads  and  bridges.  To  accelerate  the  momentum,  a  national  Transport Master Plan that will guide the development of the sector over the next 20 years is expected to be developed.
 
 ##### Education:
-A significant improvement in the education sector has been achieved through a host of government interventions through the introduction of Free Primary Education (FPE), including construction of more classrooms, furniture and employment of more teachers. Since 2002, both primary school enrolment and the Net  Enrolment  Ratio  (NER)  have  increased  significantly.  The  increase  in  primary school enrolment is particularly  an  impressive  achievement  given  the  decrease  in the primary school-aged population between 1997 and 2010 (Swaziland Population and Housing Census [SPHC] 1997 & Swaziland Population Projections 2007-2030) and is a reflection of increasing efforts by the Government of Swaziland to ensure that all children  have  access  to  education  irrespective  of  their  socio-economic  status pursuant  to  the  aspirations  articulated  in  the  Constitution.  Overall,  the  above interventions have resulted in an increase in the Net Enrolment Ratio-NER (includes vulnerable and non-vulnerable children) from 72% in 2002 to 92% in 2010, which is a commendable achievement.  Towards this end, there has been significant increase in the budgetary allocations for education.
+A significant improvement in the education sector has been achieved through a host of government interventions through the introduction of Free Primary Education (FPE), including construction of more classrooms, furniture and employment of more teachers. Since 2002, both primary school enrolment and the
 
 12
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+Net Enrolment Ratio (NER) have increased significantly. The increase in primary school enrolment is particularly an impressive achievement given the decrease in the primary school-aged population between 1997 and 2010 (Swaziland Population and Housing Census [SPHC] 1997 & Swaziland Population Projections 2007-2030) and is a reflection of increasing efforts by the Government of Swaziland to ensure that all children have access to education irrespective of their socio-economic status pursuant to the aspirations articulated in the Constitution. Overall, the above interventions have resulted in an increase in the Net Enrolment Ratio-NER (includes vulnerable and non-vulnerable children) from 72% in 2002 to 92% in 2010, which is a commendable achievement. Towards this end, there has been significant increase in the budgetary allocations for education.
 
 ##### Health:
 The  country  has  significantly  invested  in  the  Health  sector  even  though  it continues to be faced with the challenge of HIV/AIDS. The introduction of ART programme has seen longetivity in the lives of people infected with HIV and the PMTCT programme has realised more children born by infected mothers without having  contracted  the  virus.  The  construction  of  the  TB  hospital  is  a  means  to focus  attention  to  the  challenge  of  this  disease.  Commendable  achievements are attained in the eradication of malaria and child immunization. In the case of malaria,  Swaziland  achieved  a  74%  reduction  between  2000  and  2012  with  a 42% decline from 2011 to 2012.  The  national  thrust  is  to  completely  eradicate malaria by 2015.
@@ -254,13 +260,15 @@ The  country  has  significantly  invested  in  the  Health  sector  even  thoug
 The  government in collaboration  of  development  partners  has made  extensive  efforts to  promote  access  to  potable  water  supply  to  the population. By 2010, access to potable water supply at the national level stood at 67.3%.;  whereas  it  stood  at  60.1%  in  rural  areas  and  91.1%  in  urban  areas.  The coverage of potable water supply increased to 64% of the rural population in 2011 and the target for 2012 is set at 69.7% - basically through the implementation of a wide  range  of  water  supply  projects  including  rolling  out  of  the  water  mapping programme over the country.
 
 ##### Electricity:
-The rural electrification programme is launched to ensure that all parts of the country can access electricity and is continuing with the extension of electricity lines  to  rural  schools,  health  care  facilities,  Tinkhundla  centres,  youth  care  centres, and densely settled communities around the country. Currently, about 44.3 % of the rural population have access to electricity; all clinics in the country and more than 90% of rural schools have electricity. In the year 2010/2011, 2900 households and 412 public  institutions  were  connected  to  the  national  grid.  2075  households  are targeted  for  the  year  2012/2013.  The  Rural  Electrification  Project  has  stimulated income generating activities and improved the quality of life of rural dwellers.
+The rural electrification programme is launched to ensure that all parts of the country can access electricity and is continuing with the extension of electricity lines  to  rural  schools,  health  care  facilities,  Tinkhundla  centres,  youth  care  centres,
 
 13
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+and densely settled communities around the country. Currently, about 44.3 % of the rural population have access to electricity; all clinics in the country and more than 90% of rural schools have electricity. In the year 2010/2011, 2900 households and 412 public institutions were connected to the national grid. 2075 households are targeted for the year 2012/2013. The Rural Electrification Project has stimulated income generating activities and improved the quality of life of rural dwellers.
 
 ##### Social protection:
 Though Swaziland does not have a comprehensive protection system, at present, a policy on social protection is under development and reforms are now focusing to broaden the pension fund to social security system. Due to the adoption of the Constitution in 2005, the country was faced with various obligations in fulfilment of the provisions of the provisional dispensation. These included: 1) State Funded  Primary  Education,  2)  Elderly  Grants,  3)  Phalala  Fund  (Referral  Medical Fund), 4) Financial Support to the Orphaned and Vulnerable Children (OVCs), and Provision of drugs in response to HIV and AIDS challenges as well as Malaria and TB. Other  social  protection  schemes  regardless  of  their  volume  that  involve  both financial transfers and in-kind transfers include: Public Assistance (for disabled poor), Military Pensions (veterans, widows), Grants to handicapped, Grants to Fire Victims, School Feeding Programme, Neighbourhood Care Points, Food Distribution/Food for Work  Pilot,  Health  Fee  Waivers,  Food  by  Prescription  (patients),  agricultural  inputs, etc.   In brief, by applying these mechanisms significant achievements are attained in terms of protecting the vulnerable and disadvantaged groups in the country.
@@ -270,7 +278,7 @@ Although the country is lagging behind in some of the MDGs, at this stage, there
 
 ### 6.2. PREVAILING CHALLENGES
 
-#### Persistent  Poverty  and  Unequal  Income  Distribution:
+#### i) Persistent  Poverty  and  Unequal  Income  Distribution:
 Available  national  reports indicate that the level of poverty increased from 66% in 1995 to 69% in 2000; but dropped to 63% in 2010. Though the slow declining trend (i.e. 6 percentile point within  a  decade)  is  encouraging;  still  poverty  remains  a  great  challenge  for
 
 14
@@ -279,7 +287,7 @@ Available  national  reports indicate that the level of poverty increased from 6
 
 [[START OF PAGE 15]]
 
-Swaziland.    Also,  the  pattern  of  income  distribution  is  so  skewed  with  a  GiniCoefficient approaching to 0.51 % in 2010. Obviously, this needs extra efforts to rectify.
+Swaziland.    Also,  the  pattern  of  income  distribution  is  so  skewed  with  a  Gini-Coefficient approaching to 0.51 % in 2010. Obviously, this needs extra efforts to rectify.
 
 #### ii) Macroeconomic Instability and Slow Economic Growth:
 At present, Swaziland is faced with challenging macroeconomic imbalances partly driven by the global economic decline and shocks. Some of the manifestations of the prevailing macroeconomic imbalances are:
@@ -300,7 +308,7 @@ At present, Swaziland is faced with challenging macroeconomic imbalances partly 
 #### iv) Low  and  Variable Availability of Food  (Food Insecurity):
 Subsistence agriculture  which  is  highly  exposed  to  the  vagaries  of  nature  is  the  main source  of  livelihood  for  about  70%  of  the  Swazi  population.  As  maize  is  the staple food crop for the country its production levels could fairly be used as a proxy indicator for food availability in the country. While this being the case, the  production  of  maize  as  compared  to  national  food  requirements  has been roughly oscillating from 40% in 2006/07 to 73.4% in 2011/12 and 66% in 2012/13. It is apparent that there is strong challenge on how to improve this situation, notably through agricultural diversification and rural transformation.
 
-#### Limited  Economic  Diversification,  and  Excessive  Commodity  and  Market Concentrations:
+#### v) Limited  Economic  Diversification,  and  Excessive  Commodity  and  Market Concentrations:
 Though  Swaziland's  economy  is  relatively diversified as compared to the Region's economies, there remains much to be done in this area.  There is high export commodity (sugar, cotton, pulp, etc) and market concentrations  i.e.  about  90%  of  Swaziland's  exports  are  destined  to  South Africa and 80% of her imports are from the same source; ipso-facto,   there is high  risk  of  instability  and  vulnerability  basically  originating  from  excessive dependency.
 
 15
@@ -319,7 +327,7 @@ Beyond  financial  difficulties,  the  government faces  serious  capacity  cons
 In  Swaziland,  the  rate  of unemployment is very high (especially among the youth groups) for various cumulated reasons. For instance, in 2007 the overall unemployment rate was 28.5  %  and  in  2010  the  rate  moved  up  to  29%.  In  the  case  of  youth,  the unemployment  rate  was  46.8%  in  2007  and  climbed  to  52.2%  in  2010.  The global financial and economic crisis has negatively impacted the employment  situation  in  Swaziland  and  still  will  remain  as  a  key  challenge which the country has to grapple with.
 
 #### ix) HIV/AIDS Pandemic:
-Though maximum  efforts have been  exerted by government  and  development  partners  for  quite  some  time  in  the  fight against HIV/AIDS; still, the issue of HIV/AIDS remains one of the top challenges of the country. The prevalence of HIV/AIDS sharply increased to 42.9% in 2004 from  as  low  as  3.9%  in  1992;  while  stood  at  41.4  %  in  2010.  Approximately 190,000 people in the country are HIV positive, including 15,000 children under the  age  of  15.  Of  these  affected,  69,000  are  on  ARV  treatment.    Partly  in connection  to  this,  there  are  also  high  child  and  maternal  mortality  rates  with decelerating effects on population growth.
+Though maximum  efforts have been  exerted by government  and  development  partners  for  quite  some  time  in  the  fight against HIV/AIDS; still, the issue of HIV/AIDS remains one of the top challenges of the country. The prevalence of HIV/AIDS sharply increased to 42.9% in 2004 from  as  low  as  3.9%  in  1992;  while  stood  at  41.4  %  in  2010.  Approximately 190,000 people in the country are HIV positive, including 15,000 children under the  age  of  15.  Of  these  affected,  69,000  are  on  ARV  treatment.    Partly  in connection  to  this,  there  are  also  high  child  and  maternal  mortality  rates - with decelerating effects on population growth.
 
 #### x) Increasing Vulnerability and Over-Stretched Social Protection Responsibilities:
 For various reasons (man-made and natural hazards), a significant section of the Swazi population is exposed to different types of vulnerability. In this case, orphaned, vulnerable children, disabled, elderly, etc.  need support in terms of  food,  shelter,  health  care,  education  and  other  social  amenities.  Also,
@@ -349,13 +357,13 @@ The prevailling challenges and other macro-imbalances together with the inherent
 
 ### 6.3. JUSTIFICATIONS FOR THE NDS REVIEW
 
- Excessive time-lag for review -  At  this  stage, the NDS is approaching its 15 th year since  formulated  and  no  formal  review  has  thus  far  been  conducted. The experiences of other countries, on the other hand, depict that national visions and strategies are normally reviewed every 3-5 years if they are to be effectively used. In light of this, the NDS review is already over due and there is urgent need to execute it.
+ Excessive time-lag for review -  At  this  stage, the NDS is approaching its 15th year since  formulated  and  no  formal  review  has  thus  far  been  conducted. The experiences of other countries, on the other hand, depict that national visions and strategies are normally reviewed every 3-5 years if they are to be effectively used. In light of this, the NDS review is already over due and there is urgent need to execute it.
 
- Intensification of challenges and emergence of new issues At the time the NDS was formulated a certain set of development - based challenges and constraints were identified and the prime objective for launching the NDS was to overcome these stumbling blocks and re-track the country into a path of sustained development process.  Today, however, there are clear evidences that these challenges instead of improving are getting intense. Not only this, there are also new emergent challenges (e.g. HIV/AIDS, climate change, egovernance,  green  economy,  fiscal  crisis  and  management,  increased external shocks, etc.),  most of them driven directly or indirectly by global and regional forces. In this case, the NDS needs to be reviewed and be flexible enough  to  accommodate  these  sets  of  challenges;  thereby  creating  the ground  for  comprehensive,  integrated  and  conscious  measures  towards addressing these challenges.
+ Intensification of challenges and emergence of new issues - At the time the NDS was formulated a certain set of development - based challenges and constraints were identified and the prime objective for launching the NDS was to overcome these stumbling blocks and re-track the country into a path of sustained development process.  Today, however, there are clear evidences that these challenges instead of improving are getting intense. Not only this, there are also new emergent challenges (e.g. HIV/AIDS, climate change, e-governance,  green  economy,  fiscal  crisis  and  management,  increased external shocks, etc.),  most of them driven directly or indirectly by global and regional forces. In this case, the NDS needs to be reviewed and be flexible enough  to  accommodate  these  sets  of  challenges;  thereby  creating  the ground  for  comprehensive,  integrated  and  conscious  measures  towards addressing these challenges.
 
- Facilitate  review  or  update  of  complementary  policies  and  strategies  In principle,  the  NDS  is  an  overarching  national  framework  to  which  other national,  sectoral  and  thematic  policies  and  strategies  should  be  aligned. These  policies  and  strategies  should  also  be  periodically  and  as  necessary reviewed  and  updated.  To  facilitate  this  process,  the  availability  of  an updated NDS at all times is important.
+ Facilitate  review  or  update  of  complementary  policies  and  strategies - In principle,  the  NDS  is  an  overarching  national  framework  to  which  other national,  sectoral  and  thematic  policies  and  strategies  should  be  aligned. These  policies  and  strategies  should  also  be  periodically  and  as  necessary reviewed  and  updated.  To  facilitate  this  process,  the  availability  of  an updated NDS at all times is important.
 
- Revitalize  national  development  endeavors  and  deepen  engagement  At the  moment,  Swaziland  is  faced  with  static  or      sluggish  trends;  ipso-facto,
+ Revitalize  national  development  endeavors  and  deepen  engagement - At the  moment,  Swaziland  is  faced  with  static  or      sluggish  trends;  ipso-facto,
 
 18
 
@@ -365,13 +373,13 @@ The prevailling challenges and other macro-imbalances together with the inherent
 
 there  is  strong  need  to  do  more  and  successfully  reverse  the  situation  to improve the performance of the economy and the households of her people. In  this  regard,  Swaziland  will  not  be  an  exception  as  many countries  across the globe are overhauling their national frameworks, policies and strategies; mainly driven by the lingering global economic  crisis. Under such a circumstance, the starting point  for  Swaziland  should  be  to  review  the  NDS and update it in such a way it fully caters national and international issues and  enable  the  country  to  be  more  competitive  at  regional  and  global levels.  Also, there is a strong expectation to use the review of the NDS as a good  opportunity  for  renewed  national  awakening,  harmony  and  better hope (Renaissance).
 
- Positioning  for  Post-2015  Development  Agenda  At  the  moment,  different activities aimed at crafting the Post-2015 Development  Agenda are underway at global, regional and national levels including humanitarian and private sector institutions.  Likewise, Swaziland should play a pro-active role to shape the Post-2015 Development Agenda in favor of developing countries in general and safeguard her national interests are well-taken into consideration.    To  effectively  accomplish  this  mission,  the  country  need  to develop a sound national position backed with competent national policies and strategies.
+ Positioning  for  Post-2015  Development  Agenda - At  the  moment,  different activities aimed at crafting the Post-2015 Development  Agenda are underway at global, regional and national levels including humanitarian and private sector institutions.  Likewise, Swaziland should play a pro-active role to shape the Post-2015 Development Agenda in favor of developing countries in general and safeguard her national interests are well-taken into consideration.    To  effectively  accomplish  this  mission,  the  country  need  to develop a sound national position backed with competent national policies and strategies.
 
 ### 6.4. OBJECTIVES OF THE NDS REVIEW
 
-In brief, the prime objective of the NDS review  is to assess and update the NDS by conducting an in depth appraisal of the progress made  thus far in the implementation of the NDS and based on the results produce an updated and wellshared  National  Development  Strategy  that  will  spearhead  the  country's  socioeconomic development directions in the forth coming years. More specifically, the review process aims to:
+In brief, the prime objective of the NDS review  is to assess and update the NDS by conducting an in depth appraisal of the progress made  thus far in the implementation of the NDS and based on the results produce an updated and well-shared  National  Development  Strategy  that  will  spearhead  the  country's  socio-economic development directions in the forth coming years. More specifically, the review process aims to:
 
- Assess  the  progress  made  towards  the  attainment  of  the  Vision  2022  and appraise  the  overall  state  of  implementation  of  the  NDS  from  different perspectives as it  unfolds  the  15 th   year  of  its  endorsement  through  inclusive consultations and broad-based participation;
+ Assess  the  progress  made  towards  the  attainment  of  the  Vision  2022  and appraise  the  overall  state  of  implementation  of  the  NDS  from  different perspectives as it  unfolds  the  15th year  of  its  endorsement  through  inclusive consultations and broad-based participation;
 
 19
 
@@ -520,7 +528,7 @@ As partially indicated above, at the initial stage, the review analysis  may con
 
 [[START OF PAGE 23]]
 
-###### Gender.
+###### i) Gender.
 
 ###### ii) Disadvantaged Groups.
 
@@ -552,7 +560,7 @@ The global development trends are other factors that must be taken into account 
 
 ### 7.7. Appraising Coordination of Strategies and Programmes to Realize the Vision:
 
-This  will  look  over  the  coherence  between  the  vision  attributes  and  the  NDS planning processes -linkages between  short -and  medium  term  plans, programmes and action plans.
+This  will  look  over  the  coherence  between  the  vision  attributes  and  the  NDS planning processes - linkages between  short - and  medium  term  plans, programmes and action plans.
 
 ### 7.8. Consultative  Process  and  Broad-Based  Participation  at  Different  Levels  with Different Stakeholder-Groups:
 
@@ -586,23 +594,23 @@ Overall, the broad consultation and participatory process is intended to cover t
 
 All thematic groups will incorporate emerging (cross cutting) issues in their analysis namely; gender, climate change and environmental issues.
 
-- Public sector and economic management
+- 1. Public sector and economic management
 
-- MEPD
+- a. MEPD
 
-- MoF
+- b. MoF
 
-- MPS
+- c. MPS
 
-- MTAD
+- d. MTAD
 
-- Physical infrastructure
+- 2. Physical infrastructure
 
-- MPWT
+- a. MPWT
 
-- MICT
+- b. MICT
 
-- MoH
+- c. MoH
 
 25
 
@@ -610,67 +618,67 @@ All thematic groups will incorporate emerging (cross cutting) issues in their an
 
 [[START OF PAGE 26]]
 
-- MNRE
+- d. MNRE
 
-- MHUD
+- e. MHUD
 
-- Agriculture, land and rural development
+- 3. Agriculture, land and rural development
 
-- MoA
+- a. MoA
 
-- MNRE
+- b. MNRE
 
-- MTAD
+- c. MTAD
 
-- Economic services
+- 4. Economic services
 
-- MNRE
+- a. MNRE
 
-- MPWT
+- b. MPWT
 
-- MCIT
+- c. MCIT
 
-- MoT
+- d. MoT
 
-- MoF
+- e. MoF
 
-- Education and training
+- 5. Education and training
 
-- MoE
+- a. MoE
 
-- MLSS
+- b. MLSS
 
-- Population, health, gender, disadvantaged groups  and social welfare
+- 6. Population, health, gender, disadvantaged groups and social welfare
 
-- MEPD
+- a. MEPD
 
-- MoH
+- b. MoH
 
-- DPM
+- c. DPM
 
 The consultation will be done at three levels:
 
 ##### Level 1: National
 
-- Public sector
+- 1. Public sector
 
-- Principal Secretaries
+- a. Principal Secretaries
 
-- Directors and heads of departments
+- b. Directors and heads of departments
 
-- Senior staff
+- c. Senior staff
 
-- Private sector
+- 2. Private sector
 
-- Federation Swaziland Employers & Chamber of Commerce (FSE & CC)
+- a. Federation Swaziland Employers & Chamber of Commerce (FSE & CC)
 
-- Federation of Swaziland Business Community (FSBC)
+- b. Federation of Swaziland Business Community (FSBC)
 
-- Small Enterprise Development Corporation (SEDCO)
+- c. Small Enterprise Development Corporation (SEDCO)
 
-- Public Enterprise Unit (PEU)
+- d. Public Enterprise Unit (PEU)
 
-- Micro Finance Unit (MFU)
+- e. Micro Finance Unit (MFU)
 
 26
 
@@ -678,69 +686,69 @@ The consultation will be done at three levels:
 
 [[START OF PAGE 27]]
 
-- Civil Society
+- 3. Civil Society
 
-- CANGO
+- a. CANGO
 
-- Council, Conference and League of churches
+- b. Council, Conference and League of churches
 
-- ACAT
+- c. ACAT
 
-- LDS
+- d. LDS
 
-- WV
+- e. WV
 
-- SFDF
+- f. SFDF
 
-- Save the Children
+- g. Save the Children
 
-- Red Cross
+- h. Red Cross
 
-- Development partners
+- 4. Development partners
 
-- UNDP
+- a. UNDP
 
-- UNFPA
+- b. UNFPA
 
-- UNICEF
+- c. UNICEF
 
-- WHO
+- d. WHO
 
-- UNAIDS
+- e. UNAIDS
 
-- WFP
+- f. WFP
 
-- FAO
+- g. FAO
 
-- EU
+- h. EU
 
 ##### Level 2: Regional
 
-- Regional Administrators and Chiefs
+- 1. Regional Administrators and Chiefs
 
-- Hhohho region
+- a. Hhohho region
 
-- Manzini region
+- b. Manzini region
 
-- Shiselweni region
+- c. Shiselweni region
 
-- Lubombo region
+- d. Lubombo region
 
-- Regional Secretaries and Regional Development Teams
+- 2. Regional Secretaries and Regional Development Teams
 
-- Hhohho region
+- a. Hhohho region
 
-- Manzini region
+- b. Manzini region
 
-- Shiselweni region
+- c. Shiselweni region
 
-- Lubombo region
+- d. Lubombo region
 
 ##### Level 3: Constituency
 
-- Constituency headmen (Tindvuna Tetinkhundla)
+- 1. Constituency headmen (Tindvuna Tetinkhundla)
 
-- Chiefdom advisors (Bucopho)
+- 2. Chiefdom advisors (Bucopho)
 
 27
 
@@ -750,13 +758,13 @@ The consultation will be done at three levels:
 
 3. Members of Parliament
 
-- Hhohho region
+- a. Hhohho region
 
-- Manzini region
+- b. Manzini region
 
-- Shiselweni region
+- c. Shiselweni region
 
-- Lubombo region
+- d. Lubombo region
 
 ##### Consultation  mechanisms:
 The  consultations  are  expected  to  run  through  two channels; viz.:
@@ -782,7 +790,7 @@ As a vision is a strategic basis for resource mobilization and coordination of a
 ### 7.9. Establishment  of  NDS  Review  Coordination  and  Sector/Thematic  Technical Review Teams:
 To  effectively  steer  and  facilitate  the  NDS  review  process  the formation of different teams is important. While there are various options on how to set up teams, the most preferred way used by most countries is to vest special powers  in  entities  inside  the  government  as  Swaziland  had  done  during  the formulation of the NDS.  Obviously, the review of the NDS is a complex process as it  will  involve  the  assessment  of  various  policies  and  strategies  as  well  as extensive  analytical  work  covering  different  macroeconomic  issues,  sectoral and thematic areas including broader consultative and participatory processes. Therefore,  while  MEPD  remains  responsible  for  providing  necessary  guidance and oversight for the implementation and review of the NDS; the establishment of two teams for the forthcoming NDS review process becomes apparent. The proposed  teams  are:  NDS  Review  Coordination  Team,  and  Sectors/Thematic Technical Review Team.
 
-#### NDS Review Coordination Team:
+#### a) NDS Review Coordination Team:
 This team will comprise higher Government Officials (Principal Secretaries). This Team will:
 
  Give directions and guidance on different issues related to the review process
@@ -797,7 +805,7 @@ This team will comprise higher Government Officials (Principal Secretaries). Thi
 
  Chaired by the MEPD PS, is accountable to the Cabinet.
 
-#### Sectors/Thematic  Technical  Review  Teams:
+#### b) Sectors/Thematic Technical Review Teams:
 These  teams  are  basically responsible  to  carry  out  the  qualitative  and  quantitative  analysis  works  of different sectors, sub-sectors,  thematic  areas  as  well  as  macroeconomic aggregates necessary for the review of the NDS and future forecasts. These will involve planning professionals in: Line Ministries, commissions, authorities,
 
 29
@@ -808,18 +816,17 @@ These  teams  are  basically responsible  to  carry  out  the  qualitative  and 
 
 departments,  regional  offices,  academia  and  research  centers  and  other government and semi-government institutions including development partners. Capable representatives of private sector like the chamber of commerce and civil societies could also be members of these teams as deemed necessary. The teams, chaired by the MEPD, are accountable to the NDS Review Coordination Team (detailed mandates, membership and functions need to be worked out).
 
-## 8. INDICATIVE ACTION PLAN FOR THE REVIEW 0F NDS
+## 8. INDICATIVE ACTION PLAN FOR THE REVIEW OF NDS
 
 To avoid unnecessary duplications and maximize effectiveness, once the approval for the NDS review process is gained, a detailed work programme with well-defined and sequenced sets of activities will need to be prepared and put in practice. At this stage, an indicative work prgramme (which may be further detailed) reflecting key activities is developed as shown below (Table 1):
 
+Table 1: Indicative Work Plan for the NDS Review (1st March-29th November 2013):
 Activities | Timeframe
 --- | ---
 8.1. 1. Develop Terms of Reference for consultancy 2. Engage consultant 3. Planning session 4. Dispatch a letter from the Swaziland Government to all stakeholders including development partners informing them about the Cabinet approval to undertake NDS review | February 2013
 8.2. Carry out a situational analysis including assessment of achievements of the key macro, sectoral and sub-sectoral strategies 8.3. Conduct focus group discussions, informative interviews and consultative process including workshops | 4 March-5 April
 8.4. Develop NDS Review Issue Papers and Conduct a sector by sector SWOT Analysis | 8 April-10 May
 8.5. Prepare a set of Development Indicators for Swaziland | 13-20 May
-
-Table 1: Indicative Work Plan for the NDS Review (1 st  March-29 th  November 2013):
 
 30
 
