@@ -26,39 +26,39 @@ BGBl. Nr.  286/1990 (NR: GP XVII IA 374/A AB 1259 S. 142. BR: AB 3861 S. 530.) B
 
 § 2. (1)  Als  förderungswürdige  Aufgaben  zur  Erreichung  der  im  § 1  Abs. 2  bezeichneten  Ziele kommen insbesondere in Betracht:
 
-- Politische und sozial- und wirtschaftskundliche Bildung;
+- a) Politische und sozial- und wirtschaftskundliche Bildung;
 
-- berufliche Weiterbildung;
+- b) berufliche Weiterbildung;
 
-- Vermittlung der Erkenntnisse der Wissenschaften;
+- c) Vermittlung der Erkenntnisse der Wissenschaften;
 
-- Bildung als Hilfe zur Lebensbewältigung;
+- d) Bildung als Hilfe zur Lebensbewältigung;
 
-- sittliche und religiöse Bildung;
+- e) sittliche und religiöse Bildung;
 
-- musische Bildung;
+- f) musische Bildung;
 
-- Nachholung, Fortführung und Erweiterung der Schulbildung;
+- g) Nachholung, Fortführung und Erweiterung der Schulbildung;
 
-- Führung von Volksbüchereien;
+- h) Führung von Volksbüchereien;
 
-- Aus- und Fortbildung von Erwachsenenbildnern und von Volksbibliothekaren;
+- i) Aus- und Fortbildung von Erwachsenenbildnern und von Volksbibliothekaren;
 
-- Bildungsinformation, Bildungsberatung und Bildungswerbung;
+- j) Bildungsinformation, Bildungsberatung und Bildungswerbung;
 
-- Veröffentlichungen über die Erwachsenenbildung und das Volksbüchereiwesen;
+- k) Veröffentlichungen über die Erwachsenenbildung und das Volksbüchereiwesen;
 
-- Errichtung und Erhaltung von wissenschaftlichen Instituten und Durchführung wissenschaftlicher Untersuchungen auf dem Gebiet der Erwachsenenbildung und des Volksbüchereiwesens.
+- l) Errichtung und Erhaltung von wissenschaftlichen Instituten und Durchführung wissenschaftlicher Untersuchungen auf dem Gebiet der Erwachsenenbildung und des Volksbüchereiwesens.
 
-- In die Förderung nach den Bestimmungen dieses Bundesgesetzes sind nicht einzubeziehen:
+(2) In die Förderung nach den Bestimmungen dieses Bundesgesetzes sind nicht einzubeziehen:
 
-- Pflege  des  Volksbrauchtums,  soweit  es  sich  nicht  um  Aufgaben  auf  gesamtösterreichischer Ebene oder um internationale Kontakte handelt;
+- a) Pflege des Volksbrauchtums, soweit es sich nicht um Aufgaben auf gesamtösterreichischer Ebene oder um internationale Kontakte handelt;
 
-- Unterrichtsveranstaltungen von Schulen im Sinne des Privatschulgesetzes;
+- b) Unterrichtsveranstaltungen von Schulen im Sinne des Privatschulgesetzes;
 
-- Veranstaltungen der Glaubensverkündigung im Rahmen des Kultus;
+- c) Veranstaltungen der Glaubensverkündigung im Rahmen des Kultus;
 
-- Veranstaltungen, die der Mitgliederwerbung oder der parteipolitischen Werbung dienen, ferner Bildungsarbeit  im  Sinne  des  Bundesgesetzes  vom  9. Juli  1972,  BGBl.  Nr. 272,  über  die Förderung  staatsbürgerlicher  Bildungsarbeit  im  Bereich  der  politischen  Parteien  sowie  der Publizistik;
+- d) Veranstaltungen, die der Mitgliederwerbung oder der parteipolitischen Werbung dienen, ferner Bildungsarbeit im Sinne des Bundesgesetzes vom 9. Juli 1972, BGBl. Nr. 272, über die Förderung staatsbürgerlicher Bildungsarbeit im Bereich der politischen Parteien sowie der Publizistik;
 
 www.ris.bka.gv.at
 
@@ -76,11 +76,11 @@ e) innerbetriebliche Berufsaus- und -fortbildung.
 
 § 3. (1) Förderungen im Sinne dieses Bundesgesetzes sind
 
-- Zuwendungen privatrechtlicher Art, soweit sie nicht unter lit. b und lit. c fallen,
+- a) Zuwendungen privatrechtlicher Art, soweit sie nicht unter lit. b und lit. c fallen,
 
-- Annuitäten-, Zinsen- oder Kreditkostenzuschüsse sowie
+- b) Annuitäten-, Zinsen- oder Kreditkostenzuschüsse sowie
 
-- Gelddarlehen.
+- c) Gelddarlehen.
 
 (2) Sofern Einrichtungen der Bundesschulen  gegen jederzeitigen Widerruf für  Zwecke  der Erwachsenenbildung überlassen werden, darf diese Überlassung unentgeltlich erfolgen.
 
@@ -88,11 +88,11 @@ e) innerbetriebliche Berufsaus- und -fortbildung.
 
 § 4. Als Empfänger von Förderungen kommen juristische Personen in Betracht,
 
-- die ihren Sitz im Inland haben,
+- a) die ihren Sitz im Inland haben,
 
-- deren Tätigkeit nicht auf Gewinn gerichtet ist und
+- b) deren Tätigkeit nicht auf Gewinn gerichtet ist und
 
-- die  eine  kontinuierliche  und  pädagogisch-planmäßige  Bildungsarbeit  auf  den  Gebieten  der Erwachsenenbildung oder des Volksbüchereiwesens leisten.
+- c) die eine kontinuierliche und pädagogisch-planmäßige Bildungsarbeit auf den Gebieten der Erwachsenenbildung oder des Volksbüchereiwesens leisten.
 
 #### Allgemeine Voraussetzungen für die Förderung
 
@@ -100,7 +100,7 @@ e) innerbetriebliche Berufsaus- und -fortbildung.
 
 (2) Eine Förderung aus Bundesmitteln darf nur insoweit erfolgen, als das Vorhaben ohne Einsatz von Bundesmitteln  nicht  oder  nicht  zur  Gänze  in  Angriff  genommen  oder  durchgeführt  werden  kann.  Eine Förderung darf ferner nur gewährt werden, wenn das Vorhaben  - unter Berücksichtigung der begehrten Bundesmittel - finanziell gesichert ist.
 
-(3) Eine Förderung darf überdies nur unter der Voraussetzung erfolgen, daß der Förderungswerber Gewähr  für  die  Erreichung  des  angestrebten  Erfolges  bietet,  indem  er -  unbeschadet  des  § 6  insbesondere fachlich geeignete Mitarbeiter einsetzt und Methoden anwendet, die der Erwachsenenbildung angemessen sind. Der Besuch von Veranstaltungen muß jedermann offenstehen; er darf  nur  im  Hinblick  auf  erforderliche  Vorkenntnisse  beschränkt  werden.  Die  Teilnahme  an  den Veranstaltungen muß freiwillig sein.
+(3) Eine Förderung darf überdies nur unter der Voraussetzung erfolgen, daß der Förderungswerber Gewähr für die Erreichung des angestrebten Erfolges bietet, indem er - unbeschadet des § 6 - insbesondere fachlich geeignete Mitarbeiter einsetzt und Methoden anwendet, die der Erwachsenenbildung angemessen sind. Der Besuch von Veranstaltungen muß jedermann offenstehen; er darf nur im Hinblick auf erforderliche Vorkenntnisse beschränkt werden. Die Teilnahme an den Veranstaltungen muß freiwillig sein.
 
 (4)  Vor  Gewährung  einer  Förderung  ist  festzustellen,  ob  das  betreffende  Vorhaben  von  mehreren Stellen des Bundes oder einer anderen öffentlich-rechtlichen Körperschaft gefördert wurde oder gefördert werden  soll. Eine Förderung  durch andere Stellen des Bundes  und  andere  öffentlich-rechtliche Körperschaften schließt eine Förderung nach diesem Bundesgesetz nicht aus.
 
@@ -146,13 +146,13 @@ Bundesrecht konsolidiert
 
 § 9. Anläßlich  der  Gewährung  einer  Förderung  ist  zu  vereinbaren,  daß  eine  Zuwendung  nach  § 3 lit. a  und  b  zu  ersetzen  ist  und  ein  noch  nicht  zurückgezahltes  Gelddarlehen  nach  Kündigung vorzeitig fällig  wird  und  beide  vom Tage der Auszahlung an  mit einem  Zinsfuß von 7,3% jährlich zu verzinsen sind, wenn
 
-- der Bund über wesentliche Umstände getäuscht worden ist oder
+- a) der Bund über wesentliche Umstände getäuscht worden ist oder
 
-- das  Vorhaben  durch  ein  Verschulden  des  Förderungsempfängers  nicht  oder  nicht  rechtzeitig durchgeführt worden ist oder nicht durchgeführt werden kann oder
+- b) das Vorhaben durch ein Verschulden des Förderungsempfängers nicht oder nicht rechtzeitig durchgeführt worden ist oder nicht durchgeführt werden kann oder
 
-- die  Förderung  aus  Bundesmitteln widmungswidrig  verwendet  wird  oder  den  Erfolg  des Vorhabens  sichernde  Bedingungen  nicht  eingehalten  oder  trotz  Setzung  einer  angemessenen Nachfrist vorgesehene Berichte nicht erstattet oder Nachweise nicht beigebracht werden oder
+- c) die Förderung aus Bundesmitteln widmungswidrig verwendet wird oder den Erfolg des Vorhabens sichernde Bedingungen nicht eingehalten oder trotz Setzung einer angemessenen Nachfrist vorgesehene Berichte nicht erstattet oder Nachweise nicht beigebracht werden oder
 
-- bei  einer  Förderung  durch  Gewährung  eines  Gelddarlehens  Umstände  eintreten,  die  geeignet sind,  das  Vertrauen  des  Bundes  in  die  Sicherheit  des  Gelddarlehens  zu  erschüttern  und  keine ausreichende Sicherstellung beigebracht wird.
+- d) bei einer Förderung durch Gewährung eines Gelddarlehens Umstände eintreten, die geeignet sind, das Vertrauen des Bundes in die Sicherheit des Gelddarlehens zu erschüttern und keine ausreichende Sicherstellung beigebracht wird.
 
 #### Institute zur Aus- und Fortbildung von Erwachsenenbildnern und von Volksbibliothekaren
 
@@ -182,7 +182,7 @@ Seite 3 von 4
 
 Bundesrecht konsolidiert
 
-- Der Bundesminister für Bildung, Wissenschaft und Kultur kann für die Erbringung hervorragender  Leistungen  auf  dem  Gebiete  der  Erwachsenenbildung  und  des  Volksbüchereiwesens Geldpreise  ausloben.  Die  näheren  Bedingungen,  unter  denen  die  Geldpreise  gewährt  werden,  sind anläßlich der Ausschreibung bekanntzugeben.
+(3) Der Bundesminister für Bildung, Wissenschaft und Kultur kann für die Erbringung hervorragender Leistungen auf dem Gebiete der Erwachsenenbildung und des Volksbüchereiwesens Geldpreise ausloben. Die näheren Bedingungen, unter denen die Geldpreise gewährt werden, sind anläßlich der Ausschreibung bekanntzugeben.
 
 ### ABSCHNITT III
 
@@ -190,15 +190,15 @@ Bundesrecht konsolidiert
 
 § 13. Mit der Vollziehung dieses Bundesgesetzes ist betraut:
 
-- hinsichtlich § 11 Abs. 5 der Bundesminister für Bildung, Wissenschaft und Kultur im Einvernehmen mit dem Bundesminister für Finanzen;
+- 1. hinsichtlich § 11 Abs. 5 der Bundesminister für Bildung, Wissenschaft und Kultur im Einvernehmen mit dem Bundesminister für Finanzen;
 
-- hinsichtlich  der  übrigen  Bestimmungen  der  Bundesminister  für  Bildung,  Wissenschaft  und Kultur.
+- 2. hinsichtlich der übrigen Bestimmungen der Bundesminister für Bildung, Wissenschaft und Kultur.
 
 #### In-Kraft-Treten, Außer-Kraft-Treten
 
 § 14. (1)  § 5  Abs. 1,  § 7  Abs. 1  und  2,  § 11  Abs. 4  und  5,  § 12  Abs. 2  und  3  sowie  § 13  dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2003 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
 
-§ 10 samt Überschrift tritt mit Ablauf des Tages der Kundmachung des Bundesgesetzes BGBl. I Nr. 71/2003 im Bundesgesetzblatt außer Kraft.
+(2) § 10 samt Überschrift tritt mit Ablauf des Tages der Kundmachung des Bundesgesetzes BGBl. I Nr. 71/2003 im Bundesgesetzblatt außer Kraft.
 
 www.ris.bka.gv.at
 
