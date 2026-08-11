@@ -12,7 +12,7 @@ Second Edition - 2005
 
 [[START OF PAGE 2]]
 
-(this page came through the extractor with no text)
+بسم الله الرحمن الرحيم
 
 [[END OF PAGE 2]]
 
@@ -46,7 +46,7 @@ The present ten-year plan takes into consideration factors that reflect society'
 
 - The  urgent  need  to  provide  symmetrical  educational  opportunities  with  a high degree of quality for all citizens in various environments and areas of the Kingdom.
 
-Finally, I express my deepest gratitude to all that have participated in this project with their effort and advice, either as part of the Ministry personnel or outside the Ministry, as well as to all experts and specialists who have been part of the project development through their views and remarks for their positive cooperation that has resulted in the successful completion of this project.
+Finally, I express my deepest gratitude to all that have participated in this project with their effort and advice, either as part of the Ministry personnel or outside the Ministry, as well as to all experts and specialists who have been part of the project development through their views and remarks for their positive co-operation that has resulted in the successful completion of this project.
 
 May Allah reward all with the best, and may He assist us to work for our religion and country's strength. He is the Most Generous.
 
@@ -57,6 +57,21 @@ Minister of Education
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+## Contents
+
+|  | Page Number |
+| --- | --- |
+| Introduction | 4 |
+| Plan determinants | 5 |
+| strategies | 6 |
+| The Ministry of Education Ten-Year Plan in the K.S. A | 7 |
+| The Ministry of Education vision for the next ten years | 12 |
+| Goals and objectives | 13 |
+| Distribution of goals and objectives | 19 |
+| Goals and Objectives Quantity Distribution | 20 |
+| Distribution of Ministry’s Vision Goals, Objectives, Programs for the Next 10 Years | 21 |
+| Sample Aims and Their Programs | 22 |
 
 3
 
@@ -70,15 +85,15 @@ The political leadership in the Kingdom has realized that the basis for its stre
 
 ### Reasons of setting a ten year plan
 
-- t Planning is a strategic option with which the Kingdom cannot dispense and it is considered to be a model tool to analyze and characterize the existing human and material resources to invest them in the least possible time and at the most effective cost to  successfully achieve goals. Moreover, it is an intellectual and technological tool that guides educational decisions and supports and enhances productivity, taking into consideration obstacles and difficulties facing the planning process and the adoption of a scientific approach.
+- Planning is a strategic option with which the Kingdom cannot dispense and it is considered to be a model tool to analyze and characterize the existing human and material resources to invest them in the least possible time and at the most effective cost to successfully achieve goals. Moreover, it is an intellectual and technological tool that guides educational decisions and supports and enhances productivity, taking into consideration obstacles and difficulties facing the planning process and the adoption of a scientific approach.
 
-- t The creation of a comprehensive plan for educational development is considered to be a practical and essential requirement to achieve the Kingdom's strategic goals for general development.
+- The creation of a comprehensive plan for educational development is considered to be a practical and essential requirement to achieve the Kingdom's strategic goals for general development.
 
 Education is considered to be the main source for the formation of the human capital which constitutes the essential element in all aspects of economic development, particularly in the achievement of  high  developmental  economic  rates.  This  implies  that  the educational process is not just a service provided to answer society's demands, but it is also an investment aiming at the improvement of the individual's standard of living and the achievement of the social and economic development of the community. Thus, it is imperative to  correlate  educational  planning with the state's comprehensive plans.
 
-- t The  treatment  of  our  educational  problems  by  the  adoption  of the scientific approach aims at raising the internal competence rates  and  the  performance  level  of  male  and  female  teachers through the creation of programs for professional training and development  and  through  the  revision  of  course  syllabi  and content  assessment.  In  addition,  it  is  important  to  evaluate teaching  methodologies  and  its  approaches.  There  is  also need to provide school buildings with appropriate educational conditions, and to achieve correspondence between educational outcomes  and  labor  markets'  needs.  The  accomplishment  of these goals will result in the excellence of our education, which will bring us closer-Allah willing-to the international area of competition.
+- The treatment of our educational problems by the adoption of the scientific approach aims at raising the internal competence rates and the performance level of male and female teachers through the creation of programs for professional training and development and through the revision of course syllabi and content assessment. In addition, it is important to evaluate teaching methodologies and its approaches. There is also need to provide school buildings with appropriate educational conditions, and to achieve correspondence between educational outcomes and labor markets' needs. The accomplishment of these goals will result in the excellence of our education, which will bring us closer-Allah willing-to the international area of competition.
 
-- t Finally,  the  plan  will  address  the  growing  increase  in  the number of students, both male and female and the demand to face this need and to grant equal educational opportunities with a high degree of  excellence  for  all  citizens  in  the Kingdom  in  various  areas  and regions.
+- Finally, the plan will address the growing increase in the number of students, both male and female and the demand to face this need and to grant equal educational opportunities with a high degree of excellence for all citizens in the Kingdom in various areas and regions.
 
 4
 
@@ -176,9 +191,7 @@ Outcomes correspondence with basics and determinants
 
 - Admission entry & assessment systems development.
 
--
-
-Learning
+- Learning
 
 - Participation between home and school activation.
 
@@ -220,8 +233,6 @@ Basics and determinants
 
 - Teachers.
 
--
-
 - Activities.
 
 Reality Diagnosis
@@ -232,9 +243,7 @@ Reality Diagnosis
 
 - Assistants, administration directors,
 
--
-
-Supervisors
+- Supervisors
 
 - Students & attorneys
 
@@ -270,19 +279,19 @@ The study and analysis of the available scientific sources on work policies, pla
 
 Education policy in the Kingdom of Saudi Arabia.
 
-- w Development plans and their operational plans (boys, girls).
+- Development plans and their operational plans (boys, girls).
 
-- w Population  characteristics  of  the  people  in  the  Kingdom  of Saudi Arabia(1421 H).
+- Population characteristics of the people in the Kingdom of Saudi Arabia(1421 H).
 
-- w Annual statistics reports (boys, girls) (1417-1421 H).
+- Annual statistics reports (boys, girls) (1417-1421 H).
 
-- w Comprehensive  assessment  of  education  in  the  Kingdom  of Saudi Arabia(1421 H).
+- Comprehensive assessment of education in the Kingdom of Saudi Arabia(1421 H).
 
-- w Assessment of literacy and adults' education in the Kingdom of Saudi Arabia 1422 H.
+- Assessment of literacy and adults' education in the Kingdom of Saudi Arabia 1422 H.
 
-- w Education financing and private sector's support and activities in the Kingdom of Saudi Arabia (1419 H).
+- Education financing and private sector's support and activities in the Kingdom of Saudi Arabia (1419 H).
 
-- w Education documents from advanced countries. Many useful indications have been deducted from these documents about the  countries'  past  experiences  to  establish  and  develop  the Ministry of Education's plans and its vision and goals.
+- Education documents from advanced countries. Many useful indications have been deducted from these documents about the countries' past experiences to establish and develop the Ministry of Education's plans and its vision and goals.
 
 ##### 2. Projection study:
 
@@ -308,27 +317,25 @@ To provide a comprehensive report about the reality of educational fields, it wa
 
 These  efforts  resulted  with  the  following  first-stage conclusions:
 
-- w To determine the material, human abilities, and specific needs, requirements,  and  admission  percentages  as  well  as  growth rate  in  each  stage  and  the  education  administrations  in  the Kingdom.
+- To determine the material, human abilities, and specific needs, requirements, and admission percentages as well as growth rate in each stage and the education administrations in the Kingdom.
 
-- w Statistical predictions of expected population growth to estimate the future burden on education.
+- Statistical predictions of expected population growth to estimate the future burden on education.
 
-- w Estimation of qualitative  and quantitative needs for the
+- Estimation of qualitative and quantitative needs for the successful execution of the plan during the next ten years.
 
-successful execution of the plan during the next ten years.
+- To study the changes that may occur in the future and their possible effect on education, and to predict future attitudes resulting from such changes as well as their depth and range.
 
-- w To study the changes that may occur in the future and their possible  effect  on  education,  and  to  predict  future  attitudes resulting from such changes as well as their depth and range.
-
-- w An  accurate  and  comprehensive  survey  of  the  educational system and of its capabilities to accommodate the estimated number  of  students,  teachers,  classes,  etc.  during  the  plan's period.
+- An accurate and comprehensive survey of the educational system and of its capabilities to accommodate the estimated number of students, teachers, classes, etc. during the plan's period.
 
 Such  studies  have  provided  a  comprehensive  and  detailed view of the reality facing the planning process, together with a number of indications and standards to guide the plan's vision and goals.
 
 #### Second Stage: Vision and goal specification:
 
-t This  stage  entailed  the  specification of the basis for the plan  within  the  frame  of  the  Saudi  Community,  Islamic  faith, and political, economic, and social attitudes.  After the efficient examination of the educational system, and its status diagnosis, a  group  of  governing  and  guiding  strategies  were  established to direct education in the Kingdom. The plan's foundation was guided by a vision resulting from the information gathered in the studies. After ensuring the suitability and appropriateness of the plan's vision, the team established general and detailed goals for the ten-year plan. While specifying the goals, the team verified that they be scientifically accurate. Moreover, they also specified the methodology to be adopted to realize the plan's vision. The following matters were taken into consideration:
+- This stage entailed the specification of the basis for the plan within the frame of the Saudi Community, Islamic faith, and political, economic, and social attitudes. After the efficient examination of the educational system, and its status diagnosis, a group of governing and guiding strategies were established to direct education in the Kingdom. The plan's foundation was guided by a vision resulting from the information gathered in the studies. After ensuring the suitability and appropriateness of the plan's vision, the team established general and detailed goals for the ten-year plan. While specifying the goals, the team verified that they be scientifically accurate. Moreover, they also specified the methodology to be adopted to realize the plan's vision. The following matters were taken into consideration:
 
-- w Saudi society's distinguished nature and its Islamic and social privacy.
+- Saudi society's distinguished nature and its Islamic and social privacy.
 
-- w Focus on the student, as a pivot for the educational process and
+- Focus on the student, as a pivot for the educational process and
 
 9
 
@@ -338,21 +345,21 @@ t This  stage  entailed  the  specification of the basis for the plan  within  t
 
 his active, positive role in it.
 
-- w Determination of correspondences between abilities and aspirations while specifying detailed goals.
+- Determination of correspondences between abilities and aspirations while specifying detailed goals.
 
-- w The  vision's  flexibility and its ability to cope with future changes and innovations.
+- The vision's flexibility and its ability to cope with future changes and innovations.
 
 The vision and goals were revised in several meetings with the scientific team and then they were presented to a consultant team which was composed of representatives from society. The vision and goals were sent for consultation to the Ministry's officials headed by his Excellency The Minister in addition to about forty officials in the Educational Work Leadership (male, female) who represent the party that makes educational decisions to achieve goals and objectives.  In addition, the vision and goals were submitted to a group of specialists for  further  analysis  and  suggestions,  to  enrich  the  project,  and  to determine connections between the specializations by perusing them. Once the research main team had collected these views, they proceeded to carefully examine them to extract fundamental remarks from them, and  to  modify  the  original  project  in  view  of  the  new  information gathered.
 
 #### Third Stage: Setting an action plan
 
-At this stage, the vision and goals were  translated into objectives presented in digital images and indicators of the goals to be achieved. Then, detailed work programs and projects were established and organized according to priority. In addition, at this stage, the achievement of co-ordination and integration between the  programs and the projects were taken into consideration, as well  as  the  specification of time to execute the programs, their costs, funding sources, possible changes, and suggested alternatives to  face  them. All these processes were completed in workshops attended by every sector in the Ministry of which themembers of the  main  team  and the  consulting team formed part.
+At this stage, the vision and goals were translated into objectives presented in digital images and indicators of the goals to be achieved. Then, detailed work programs and projects were established and organized according to priority. In addition, at this stage, the achievement of co-ordination and integration between the programs and the projects were taken into consideration, as well as the specification of time to execute the programs, their costs, funding sources, possible changes, and suggested alternatives to face them. All these processes were completed in workshops attended by every sector in the Ministry of which the members of the main team and the consulting team formed part.
 
 #### Fourth Stage: Sending the plan to sectors:
 
-t The Ministry's approval of the plan's goals and programs was followed by a  comprehensive co-ordination process and by the specification of the basic and supporting bodies to execute the plan's programs and projects, to determine specific roles and tasks, and to estimate the supply of human resources and the financial requirements for the execution of such programs and projects in the plan's ten-year period.
+- The Ministry's approval of the plan's goals and programs was followed by a comprehensive co-ordination process and by the specification of the basic and supporting bodies to execute the plan's programs and projects, to determine specific roles and tasks, and to estimate the supply of human resources and the financial requirements for the execution of such programs and projects in the plan's ten-year period.
 
-- t The results (i.e., the indications and features of achievement for each specific program or project) were determined by a team who established achievement measures.
+- The results (i.e., the indications and features of achievement for each specific program or project) were determined by a team who established achievement measures.
 
 In  the  planning  processes,  the  following  aspects  of  the  plan's commitment were taken into consideration:
 
@@ -386,7 +393,7 @@ This  stage  entailed  the  delivery  of  the  ten-year  plan  and  of its  atta
 
 terminology, course for its execution, and follow up measures.
 
-The  Minister  of  education's  decision  no.1581/1/5  dated  17-31424H approved the ten-year plan. The decision stated that the application of the plan be effective in the year 1425H to coincide with the state's eighth development plan.
+The Minister of education's decision no.1581/1/5 dated 17-3-1424H approved the ten-year plan. The decision stated that the application of the plan be effective in the year 1425H to coincide with the state's eighth development plan.
 
 The  decision  commissioned  the  Educational  Planning General Administration the comprehensive preparation of the first year of the plan, and it stated that  the  education administrations  in all areas  and  governorates in the male and female sectors should establish their executive plans for the first year in accordance to the Ministry's comprehensive plan and supported  by  the  experiences of    the  general  administration  of  educational  planning,  whose responsibility also included the publication and distribution of the plan  to  the  concerned  parties and the design of  a computer program  through  the  Ministry's  net,  and  to  be  placed  in  the Ministry's site for the plan's follow up.
 
@@ -553,15 +560,15 @@ Goals | Objectives Number
 
 S. No. | Goals | Objectives | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Programs total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1 | 4-6 aged children's preparation | 5 | 7 | 4 | 3 | 4 | 2 | 21
-2 | Accommodation according to age category | 4 | 7 | 7 | 9 | 4 | 27
-3 | deepening the spirit of loyalty and proud of the country through intellectual awareness based on recognizing issues of the country. | 3 | 5 | 6 | 8 | 19
-4 | Students' preparation | 5 | 7 | 7 | 8 | 3 | 3 | 28
-5 | Evolution of girls' technical education | 2 | 1 | 14 | 15
-6 | Evaluation of special needs education | 7 | 6 | 4 | 4 | 9 | 3 | 2 | 2 | 30
-7 | Educational training, development, & growth | 3 | 3 | 10 | 17 | 30
+1 | 4-6 aged children's preparation | 5 | 7 | 4 | 3 | 4 | 2 |  |  |  |  |  |  |  | 21
+2 | Accommodation according to age category | 4 | 7 | 7 | 9 | 4 |  |  |  |  |  |  |  |  | 27
+3 | deepening the spirit of loyalty and proud of the country through intellectual awareness based on recognizing issues of the country. | 3 | 5 | 6 | 8 |  |  |  |  |  |  |  |  |  | 19
+4 | Students' preparation | 5 | 7 | 7 | 8 | 3 | 3 |  |  |  |  |  |  |  | 28
+5 | Evolution of girls' technical education | 2 | 1 | 14 |  |  |  |  |  |  |  |  |  |  | 15
+6 | Evaluation of special needs education | 7 | 6 | 4 | 4 | 9 | 3 | 2 | 2 |  |  |  |  |  | 30
+7 | Educational training, development, & growth | 3 | 3 | 10 | 17 |  |  |  |  |  |  |  |  |  | 30
 8 | Educational system's sufficiency and improvement | 12 | 4 | 5 | 8 | 3 | 12 | 10 | 2 | 2 | 9 | 6 | 8 | 2 | 71
-9 | Syllabi development | 11 | 10 | 11 | 7 | 7 | 5 | 10 | 5 | 7 | 8 | 3 | 3 | 76
+9 | Syllabi development | 11 | 10 | 11 | 7 | 7 | 5 | 10 | 5 | 7 | 8 | 3 | 3 |  | 76
 
 21
 
@@ -571,16 +578,16 @@ S. No. | Goals | Objectives | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 Distribution of the Ministryʼs Vision Goals, Objectives, and Programs for the Next Ten Years
 
-S. No. | Goals | Objectives | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | P r o g rams Total
+S. No. | Goals | Objectives | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Programs Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-10 | Teachers' competence quality improvement | 9 | 7 | 5 | 7 | 5 | 3 | 5 | 4 | 5 | 13 | 54
-11 | Development of educational environment | 7 | 5 | 4 | 2 | 3 | 6 | 2 | 2 | 25
-12 | Developing information infra-structure | 3 | 6 | 4 | 1 | 11
-13 | Male & Female education and eradication development | 6 | 3 | 1 | 2 | 1 | 4 | 5 | 16
-14 | Ministry's comprehensive administrative development | 6 | 4 | 4 | 2 | 5 | 3 | 3 | 21
-15 | Society's participation expansion | 6 | 3 | 4 | 2 | 2 | 5 | 4 | 20
-16 | Establishing accountability of integral system | 4 | 3 | 6 | 2 | 5 | 16
-487
+10 | Teachers' competence quality improvement | 9 | 7 | 5 | 7 | 5 | 3 | 5 | 4 | 5 | 13 |  |  |  | 54
+11 | Development of educational environment | 7 | 5 | 4 | 2 | 3 | 6 | 2 | 2 |  |  |  |  |  | 25
+12 | Developing information infra-structure | 3 | 6 | 4 | 1 |  |  |  |  |  |  |  |  |  | 11
+13 | Male & Female education and eradication development | 6 | 3 | 1 | 2 | 1 | 4 | 5 |  |  |  |  |  |  | 16
+14 | Ministry's comprehensive administrative development | 6 | 4 | 4 | 2 | 5 | 3 | 3 |  |  |  |  |  |  | 21
+15 | Society's participation expansion | 6 | 3 | 4 | 2 | 2 | 5 | 4 |  |  |  |  |  |  | 20
+16 | Establishing accountability of integral system | 4 | 3 | 6 | 2 | 5 |  |  |  |  |  |  |  |  | 16
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 487
 
 22
 
@@ -593,12 +600,12 @@ S. No. | Goals | Objectives | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 ### Goal: To prepare 4-6-year-old children by considering the kindergarten stage as independent, in its buildings and syllabi, from the general educational stages.
 #### Objectives: Accommodation of children aged 4-6 years old, kindergarten stage children, at a rate of 40% at the end of the plan.
 
-S. No. | Programs | Duration | Requirements | Party in charge | E x t e r n a l support | Objective's achievement indicators
+S. No. | Programs | Duration | Requirements | Party in charge |  | E x t e r n a l support | Objective's achievement indicators
+ |  |  |  | Main | Assisting |  | 
 --- | --- | --- | --- | --- | --- | --- | ---
-Main | Assisting
 1 | Setting childhood national strategy | One year | Employment of qualified personnel Financial support | Saudi Childhood National committee | - All specialized circles - Teachers' colleges - Universities | Universities - Ministry of Labour | Increase rate of this stage's admitted children at an annual rate of 4%. Increase the kindergarten's school number annually Increase the private sector's participation in the establishment and managing of the kindergarten stage. Expanding of admission base at the early childhood stage
-2 | Updating and developing kindergarten related rules & regulations to achieve an increasing rate of accommodation | One year | Specilized experts - Studies and research Financial support | Kindergarten programs administration | Education policy supreme committee's approval - Teachers' colleges | Universities international organisations
-3 | Private sector's support and encouragement to participate in establishing and managing kindergarten schools at an annual rate of 1% | Continuous | Developing the private sector's participation in rules and regulations | National education | Education economics - Kindergarten programs administration | Ministry of Labor - Chambers of Commerce - Ministry of Commerce - Ministry of Civil Service
+2 | Updating and developing kindergarten related rules & regulations to achieve an increasing rate of accommodation | One year | Specilized experts - Studies and research Financial support | Kindergarten programs administration | Education policy supreme committee's approval - Teachers' colleges | Universities international organisations | 
+3 | Private sector's support and encouragement to participate in establishing and managing kindergarten schools at an annual rate of 1% | Continuous | Developing the private sector's participation in rules and regulations | National education | Education economics - Kindergarten programs administration | Ministry of Labor - Chambers of Commerce - Ministry of Commerce - Ministry of Civil Service | 
 
 23
 
@@ -606,15 +613,15 @@ Main | Assisting
 
 [[START OF PAGE 25]]
 
-S. | Requirements | Party in charge | External support | Objectiveʼs achievement indicators
---- | --- | --- | --- | --- | --- | ---
-No. | Programs | Duration | Main | Assisting
-1 | Developing the executive regulation of male & female adult education to increase flexibility to join and exit the educational system | 3 months | Study of the curent regulation and its subsequent development | Adult education | Education Administration | v Issuing of main regulations and systems allow leaving & reentering to the educational system according to specific terms. v -Regression of admission rate under the shadow of flowage of educational system. v - Reduction of illiteracy rate
-2 | Setting rules that encourage students (boys & girls) to select the skills, knowledge, and suitable atitudes and to take tests on them without considering fixed period | 3 months | specialised work team Financial support - seats for higher study - workshops | Adult education | - Educational supervision - Calibrating and assessment - tests - Teacher's college | Universities
-3 | Developing standards of academic ability | Four Years | - Survey study - Establishment of Specialized Committees - Questions bank - Financial support - Systems & requirements | Calibrating and assessment | - Adult educatin - Teacher's college | Universities
-
 ### Goal: Male & Female Education and Illiteracy Eradication
 #### Objectives: 1.To increase the educational system flexibility to allow easy exit and return to it (flow age)
+
+S. No. | Programs | Duration | Requirements | Party in charge |  | E x t e r n a l support | Objectiveʼs achievement indicators
+ |  |  |  | Main | Assisting |  | 
+--- | --- | --- | --- | --- | --- | --- | ---
+1 | Developing the executive regulation of male & female adult education to increase flexibility to join and exit the educational system | 3 months | Study of the curent regulation and its subsequent development | Adult education | Education Administration |  | Issuing of main regulations and systems allow leaving & reentering to the educational system according to specific terms. Regression of admission rate under the shadow of flowage of educational system. Reduction of illiteracy rate
+2 | Setting rules that encourage students (boys & girls) to select the skills, knowledge, and suitable atitudes and to take tests on them without considering fixed period | 3 months | specialised work team Financial support – seats for higher study - workshops | Adult education | - Educational supervision - Calibrating and assessment – tests - Teacher's college | Universities | 
+3 | Developing standards of academic ability | Four Years | - Survey study - Establishment of Specialized Committees - Questions bank - Financial support - Systems & requirements | Calibrating and assessment | - Adult educatin - Teacher's college | Universities | 
 
 24
 
