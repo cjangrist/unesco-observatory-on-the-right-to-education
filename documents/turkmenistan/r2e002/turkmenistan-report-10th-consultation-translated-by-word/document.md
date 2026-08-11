@@ -6,35 +6,37 @@ Country name:
 
 Turkmenistan
 
-Organization  or  organizationresponsible  for  preparing  the report :  Ministry  of Education of Turkmenistan
+Organization or organizationresponsible for preparing the report: Ministry of
+Educationof Turkmenistan
 
 # Information on legislative, judicial, administrative and other measures taken by the State at the national level.
 
-## Ratification of the Convention.
+## 1. Ratification of the Convention.
 
 Is your country a party to the Convention?
 
-No, not considering ratification anytime soon.
+I do
 
-## The  ratification  of  protocols  establishing  a  reconciliation  and  good  offices commission  should  be  responsible  for  finding  a  solution  to  any  disputes  that may arise in the future for States parties to the Convention against Discrimination in Education.
+- No. Turkmenistan is exploring ratification, respectively
+Actively in preparation
 
-Has your country ratified the protocol?
-
-yes I do
-
-No, please briefly explain the difficulties
-
-yes I do
-
-- No. Turkmenistan is exploring ratification, respectively Actively in preparation
-
-Please  give  a  brief  summary  of  the  difficulties that  arise  when  the  ratification  process  is  completed and how to overcome them:
+Please give a brief summary of the difficulties that arise when the ratification process is completed and how to overcome them:
 
 Describe:
 
 Obstacles, whether legal, institutional, political or practical.
 
 The means to overcome them and the extent to which UNESCO can help to complete the process.
+
+No, not considering ratification anytime soon.
+
+## 2. The ratification of protocols establishing a reconciliation and good offices commission should be responsible for finding a solution to any disputes that may arise in the future for States parties to the Convention against Discrimination in Education.
+
+Has your country ratified the protocol?
+
+yes I do
+
+No, please briefly explain the difficulties
 
 [[END OF PAGE 1]]
 
@@ -46,11 +48,11 @@ If your country is a state party to the Convention;
 
 - Does the Convention apply directly to your country's domestic law after ratification?
 
-- ü No, No.
+- No, No.
 
 - If it were not included in the national constitution or national legislation, to be directly applicable?
 
-- ü No, No.
+- No, No.
 
 This provides information on whether the provisions of the Convention are guaranteed by an internal legal instrument. The report should list legal texts (constitution, legislative text or other provisions) adopted to ensure the right to education for all and to ensure equal educational opportunities. Dates and goals must be specified.
 
@@ -74,7 +76,7 @@ If so, the report may list the main texts adopted to ensure the right to educati
 
 [[START OF PAGE 3]]
 
-## Non-disqualifyingand equal opportunities in education in the context of The Sustainable Development Goal 4 (SDG 4)
+## 1. Non-disqualifyingand equal opportunities in education in the context of The Sustainable Development Goal 4 (SDG 4)
 
 Articles  /paragraphs  1  (1),  2  and  3  Conventions  /  Recommendations  provide  for discrimination  and  equal  opportunities  in  education.  This  part  is  part  of  the  main purpose  of  the  Convention/Recommendation,  which  emphasizes  the  state's  duty  to prohibit any form of discrimination in education while promoting equality of educational opportunity.
 
@@ -104,13 +106,15 @@ Turkmen  citizens  are  guaranteed  the  opportunity  to  receive  education  re
 
 The main legal act governing the right to education in Turkmenistan is the Constitution of Turkmenistan. The legal mechanism for implementing the right to education is specified in the Education Act of Turkmenistan on May 4, 2013.
 
-It  should  be  noted  that  Turkmenistan  follows  the  principles  of  universally  accepted international law and is a party to the International Covenant on Economic, Social and Cultural Rights, the Convention on the Rights of the Child, the Convention on the Rights of Persons with Disabilities, the Convention on the Elimination of All Forms of Discrimination against Women, the  Convention on the Elimination of Racial Discrimination, which enshrines the rules of the right to education.
+It should be noted that Turkmenistan follows the principles of universally accepted international law and is a party to the International Covenant on Economic, Social and Cultural Rights, the Convention on the Rights of the Child, the Convention on the Rights of Persons with Disabilities, the Convention on the Elimination of All Forms of Discrimination against Women,
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-Undifferentiated treatment, including with foreigners living in your country.
+the Convention on the Elimination of Racial Discrimination, which enshrines the rules of the right to education.
+
+Undifferentiated treatment, including with foreigners living in yourcountry.
 
 - 1.2 Please indicate the actions your government has taken to ensurethat all levels and types of education in your country are accessible (a few points can be noted):
 
@@ -118,7 +122,8 @@ Undifferentiated treatment, including with foreigners living in your country.
 
 - The rules guarantee equal access to all levels and types of education
 
-- Policies and programmes ensure equal access to all levels and types of education The other one.
+- Policies and programmes ensure equal access to all levels and types of education
+The other one.
 
 Public education policy, along with other principles, is based on the principles of equality of rights of  each  person  in  the  full  realization  of  his  abilities  and  talent,  accessibility  for  every  citizen  of Turkmenistan  of  all  kinds  of  educational  services,  provided  by  the  state  and  continuity  of education and continuity of his steps.
 
@@ -156,12 +161,13 @@ Removing administrative barriers to education7
 
 - Providing flexible learning pathways
 
-Assessing diversity in schools Combating stereotypes and
+Assessing diversity in schools
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
+Combating stereotypes and
 - Providing re-entry programs for young mothers
 
 - Removing all barriers to pregnant girls or young mothers in education
@@ -227,6 +233,8 @@ Turkmenistan's Education Act;
 National Strategy for Early Child Development in Turkmenistan for 2020-2025;
 
 State children's pre-schools;
+Provision on the working commission for the issuance of referrals for admission of children to pre-school institutions;
+Regulations on Parent Education Centres, etc.
 
 [[END OF PAGE 6]]
 
@@ -348,13 +356,15 @@ The other is different
 
 ## 2.4 Adult education and alternative education
 
-Article/  paragraph  4  (c)  Of  the  Convention/  Recommendations  provides  for  adult education and alternative learning. While SDG 4 aims to "ensure inclusive and equitable quality  education  and  promote  lifelong  learning  opportunities  for  all,"  Target  4.6 specifically calls on states to "ensure that all young people and a significant proportion of adults, both men and women, achieve literacy and numeracy." ». In addition, as part of Target 4.4, States should "expand and diversify learning opportunities using a wide range  of  educational  and  educational  methods  so  that  all  young  people  and  adults, especially girls and women, can acquire relevant knowledge, skills and companionsfor decent work and life."».
+Article/ paragraph 4 (c) Of the Convention/ Recommendations provides for adult education and alternative learning. While SDG 4 aims to "ensure inclusive and equitable quality education and promote lifelong learning opportunities for all," Target 4.6 specifically calls on states to "ensure that all young people and a significant proportion of adults, both men and women, achieve literacy and numeracy." ». In addition, as part
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-Please  indicate  what  efforts  your  Government  is  making  to  establish  a  system  of permanent  education  and  equal  access  to  learning  and  training  opportunities  (a  few points can be noted/mentioned):
+of Target 4.4, States should "expand and diversify learning opportunities using a wide range of educational and educational methods so that all young people and adults, especially girls and women, can acquire relevant knowledge, skills and companionsfor decent work and life."».
+
+Please indicate what efforts your Government is making to establish a system of permanent education and equal access to learning and training opportunities (a few points can be noted/mentioned):
 
 Providing education to people who have not received or completed
 
@@ -396,7 +406,8 @@ Building educational institutions;
 
 Equipping and updating the logistics of existing educational institutions; updating textbooks and educational and methodological base taking into account educational policy, international experience, active fundamental documents in the field of education of the country, as well as the development of science and technology, modern technologies of the publishing house;
 
-development  of  higher  education,  opening  of  new  higher  education  institutions,
+development of higher education, opening of new higher education institutions, specialties taking into account the needs of the country's socio-economic development;
+Taking steps to improve the teaching of foreign languages at all levels of
 
 [[END OF PAGE 11]]
 
@@ -486,11 +497,17 @@ Ethnic minorities live in Turkmenistan in a non-compact  area. школьног�
 
 Children of national minorities, like all other citizens living in Turkmenistan, are enrolled in secondary  schools  chosen  by  their  parents  (replacing  them)  based  on  their  choice  of language.
 
-In accordance with the approved curricula, all schools in Turkmenistan are taught Turkmen, Russian and foreign languages from the first grade. In the country's specialized secondary Please provide a brief description With regard to educational standards in minority-run educational institutions, The  information  may  also  cover  language  opportunities,  such  as  accessibility  of instruction in students' native languages, use of language teaching in educational policy, multilingualism, etc.
+In accordance with the approved curricula, all schools in Turkmenistan are taught Turkmen, Russian and foreign languages from the first grade. In the country's specialized secondary schools with an in-depth study of foreign languages, along with the foreign language studied, students are taught a second foreign language from the fourth grade.
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+Please provide a brief description
+
+With regard to educational standards in minority-run educational institutions,
+
+The information may also cover language opportunities, such as accessibility of instruction in students' native languages, use of language teaching in educational policy, multilingualism, etc.
 
 ## 2.10 Refugee and Migrant Rights
 
@@ -502,13 +519,13 @@ In addition, this aspect is also in line with the 4.5 SDGs, which calls on State
 
 Refugees  also  have  equal  rights  with  Turkmen  citizens.  Thus,  under  the  Turkmenistan Refugee Act of 3 June 2017, one of the rights of a person whose application for refugee status  or  additional  protection  is  registered  is  to  receive  pre-school  and  general secondary education on a par with Turkmen citizens (v.8). The Educational Authorities of Turkmenistan  also  provide  access  to  minors  applying  for  refugee  status,  additional  or temporary protection, at their place of temporary residence and in temporary accommodation,  to  study  in  institutions  providing  pre-school  and  general  secondary education, on a par with Turkmen citizens (v.18).
 
-Under Article 15-16 of the Turkmenistan Refugee Act, a person granted refugee status and a
-
-person  granted  additional  protection  enjoys  an  equal  right  to  pre-school  and  general Please summarize the measures taken by national and local authorities to ensure the right of refugees and migrants to education (several points can be noted):
+Under Article 15-16 of the Turkmenistan Refugee Act, a person granted refugee status and a person granted additional protection enjoys an equal right to pre-school and general secondary education on an equal footing with Turkmen citizens.
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+Please summarize the measures taken by national and local authorities to ensure the right of refugees and migrants to education (several points can be noted):
 
 Inclusion in mainstream education
 
