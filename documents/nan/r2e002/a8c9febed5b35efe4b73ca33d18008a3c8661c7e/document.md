@@ -1,142 +1,129 @@
 [[START OF PAGE 1]]
+REPUBLIQUE DU TCHAD
 
-Vu la Constitution ;.
+UNITE-TRAVAIL-PROGRES
 
-L'Assemblee Nationale a delibere et adopte en sa seance du 07 Mai 2007.
+PRESIDENCE DE LA REPUBLIQUE
 
-Le President de la Republique promulgue la loi dont la teneur suit:
+# LOI N° 007/PR/2007
 
-#### Article1'
-La presente loi. determine les principes fondamentaux en matiere de protection des personnes handicapees.
+Portant Protection des Personnes Handicapées
 
-#### Article2.
-La personne handicapee est toute personne se trouvant dans I'incapacite d'assurer par elle-meme en tout ou partie des necessites d'une vie individuelle ou sociale norma Ie du fait d'une deficience congenitale ou acquise, de ses capacites . physiques, sensoriell~s et mentales.
+Vu la Constitution ;
+
+L'Assemblée Nationale a délibéré et adopté en sa séance du 07 Mai 2007.
+
+Le Président de la République promulgue la loi dont la teneur suit :
+
+## TITRE I.- Des Dispositions Générales
+
+#### Article1er-
+La présente loi détermine les principes fondamentaux en matière de protection des personnes handicapées.
+
+#### Article2.-
+La personne handicapée est toute personne se trouvant dans l'incapacité d'assurer par elle-même en tout ou partie des nécessités d'une vie individuelle ou sociale normale du fait d'une déficience congénitale ou acquise, de ses capacités physiques, sensorielles et mentales.
 
 #### Article 3.-
-Cinq(05) categories des personnes handicapees sont a distinguer :
+Cinq (05) catégories des personnes handicapées sont à distinguer :
 
-- personne handicapee Physique/mot~ur :
+- personne handicapée physique/moteur ;
 
-- personne handicapee auditive;
+- personne handicapée auditive ;
 
-- personne' handicapee mentale ;
+- personne handicapée mentale ;
 
-. personne handicapee visuelfe ;
+- personne handicapée visuelle ;
 
-- personna polyhandicape~.
+- personne polyhandicapée.
 
-.
+#### Article4.-
+Les personnes handicapées jouissent des mêmes droits reconnus par la Constitution de la République à tous les citoyens tchadiens.
 
-.
+#### Article 5.-
+Un handicapé jouissant de ses facultés mentales ne peut se voir refuser l'exercice d'une fonction correspondant à sa formation professionnelle.
 
-I
+#### Article 6.-
+L'accessibilité, base fondamentale de la vie des personnes handicapées, doit être adaptée à tous les niveaux des secteurs publics et privés.
 
-#### Article4.
-Les personn,es handicapees jouissent des memes droits reconnus par la Constitution de la Repu,blique a tous les citoyens tchadiens. . ,
-
-#### Article 5.
-l)n handicape jouiss~nt de ses facultes mentales ne peut se voir refuser I'exercice d'une fonctio~ corresppndant a sa formation professionnelle. . j
-
-i '
-#### Article" 6.-
-L'accessibifit~,base (ondamentale de la vie des personnes handicapees, doit etreadaptee a tous :Ies niveaux des secteurs publics et prives.
-
-#### Article 7.-'
-Les personnes handicapees peuvent se constituer en Associations ou Gr<>upeme,nt .d'Associations .. Elle.s peuvent emettre des avis sur les questions de rEinSerti-f: ,.Jt-.rt .
-
-LOIN°
-
-007
-
-IPRl2007
-
------
-#### Article 8.
-La prevention. Ie.' depistage 9u handicap et les soins des personnes handicapees necessitent une attention particuliere de l'Etal.
-
+#### Article 7.-
+Les personnes handicapées peuvent se constituer en Associations ou Groupement d'Associations. Elles peuvent émettre des avis sur les questions de réinsertion.
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+## TITRE II.- Des Droits des Personnes Handicapées
 
-,
+### CHAPITRE 1.- Des droits à la santé
 
-",:
+#### Article 8.-
+La prévention, le dépistage du handicap et les soins des personnes handicapées nécessitent une attention particulière de l'Etat.
 
-.
+#### Article 9.-
+Les personnes handicapées détentrices d'une carte d'invalidité ont droit à une assistance constante à la réduction des frais de soins et de rééducation dans les centres sanitaires publics.
 
-"
+#### Article10.-
+La prise en charge des handicapés congénitaux commence dès la naissance.
 
-.
+#### Article11.-
+Le handicap est traité dans les mêmes conditions tant chez l'adulte que chez l'enfant à n'importe quelle étape de sa survenue.
 
-.
+### CHAPITRE 2.- Des Droits à l'Education et à la Formation
 
-#### Article 9.
-Les personnes handicapees detentrices d'une carte d'invalidite ont droit a iJne assistance constante a la reduction des frais de soins et de reeducation dans les centres sanitaires publics.
+#### Article12.-
+L'Etat et les collectivités territoriales décentralisées doivent créer ou appuyer les institutions spécialisées de formation professionnelle et spécifique aux personnes handicapées.
 
-#### Article1 0·.
-La prise en charge des handicapt1s coogemitaux commence des la naissance.
+#### Article13.-
+Les élèves et étudiants handicapés et ceux des parents handicapés bénéficient d'une assistance de l'Etat et des collectivités territoriales décentralisées dans le cadre de leur scolarité.
 
-#### Articre11.-·
-Le handicap est traite dans les memes conditions tant chez "adulte que chez I'enfant a n'importe quelle eta'pe de sa survenue.
+#### Article14.-
+Il est institué en faveur des personnes handicapées sensorielles un enseignement de courte durée adapté à leur état, en vue de leur préparer une bonne réinsertion dans une classe normale.
 
-#### Article12.
-L'Etat et les' collectivites territoriales decentralisees doivent creer ou appuyer les institutions specialisees de formation professionnelle et specifique aux personnes handicapees.
+### CHAPITRE 3.- Des droits à l'insertion socio-économique
 
-#### Article13.-:
-Les eleves et etudiants handicapes et ceux des parents handicapes bemeficient d'une assistance de f'Etat et des collectivites territoriales decentralisees dans Ie cadre de leur scolarite.
+#### Article15.-
+L'Etat et les collectivités territoriales décentralisées ont le devoir de créer des conditions incitatrices en vue de favoriser l'emploi des personnes handicapées dans les secteurs public et privé.
 
-#### Articre14.
-/I est institue en faveur des personnes handicapees sensorielles un enseignement de courte. duree adapte a leur etat, en vue de leur preparer une bonne reinsertion dans une c1asse norma/e.
+A cet effet, ils leur doivent protection contre toute forme d'exploitation ou de traitement discriminatoire dans l'exercice de leur fonction.
 
-### CHAPITRE3.- Des droits fA I.'insernon socio-economique
+#### Article16.-
+Un assouplissement fiscal est accordé aux entreprises privées employant comme personnel une proportion raisonnable de personnes handicapées.
 
-#### Article15.
-L'Etat et les collectivites territoriales decentralisees ont Ie devoir de creer des conditions incitatrices en vue de favoriser /'emp/oi des personnes handicapees dans les sedeurs public et prive.
-
-A ce t off:et He: leur dON' lent protecti"'" contr!" fr."fr. f'.~~"., .~,_ ··-,-~"'-"" ---_vii J"._" · _.~ ·\.,ii ",,",,&..\-olIW"',\~··"'~~···· ----; .. ------. discriminato/fa dans I'exercice de leuf fonctiofL
-
-#### AFt~cjeib ..
-tJn ~ssot~pHssemen~ f!s~t3j est :?ccorrj;§ 8L~Xef1tfepr!Se~ prhlees emp!cl~ai1~ (;(H11rri8 perSQn!1~itjr~e prf)pori!0n iaisoni18bi2 de per~oiin~~ ha~tji~~p~e'3 . . ~. . .
-
+Il en est de même pour les centres d'appareillage et de rééducation opérant sur le territoire national.
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+### CHAPITRE 4.- Des droits à la culture, aux sports, aux loisirs et à la communication.
 
-### CHAPfTRE 4.Des droits a fa culture, aux sports, aux-Ioisirs et a la communication.
+#### Article17.-
+Les personnes handicapées sont intégrées dans les activités socioculturelles et y participent au même titre que les personnes valides.
 
-#### Article17.
-Les personnes handicapees sont integrees dans les activites socioculturelles et y participent au meme titre que les personnes valides.
+A ce titre, elles bénéficient des avantages qui en résultent et reçoivent en conséquence une formation appropriée dans les domaines musical, théâtral et sportif etc...
 
-A ce titre, elles beneficient des avantages qui en resultent et re~oivent en _consequence une formation appropriee dans les domaines musical, theatral et sportif etc ...
+#### Article18.-
+L'Etat et les collectivités territoriales décentralisées garantissent aux personnes handicapées un appui technique et financier en vue d'assurer leur épanouissement culturel.
 
-#### Article18.
-l'Etat et les collectivites :territoriales decentralisees fJarantissent aux personnes handicapees un appui technique et financier envue - d'assurer leur epanouissement culturel.
+#### Article19.-
+Les personnes handicapées bénéficient du droit à l'information et à la communication.
 
-#### Article19.
-Les personnes handicapees beneficient du droit a I'information et a la communication.
+Un temps d'antenne leur est accordé à titre gratuit par l'ONRTV pour informer et sensibiliser l'opinion publique sur la base d'un programme approprié.
 
-Un temps d'antenne leur est accorde a titre gratuit par I'ONRTV pour informer et sensibiliser I'opinion publique sur la base d'un programme apPiOpfie.
+### CHAPITRE 5.- Des droits au transport, à l'habitat et à la sécurité
 
-#### Arjieie 20.
-Les maTtres d'ouvrages publics dOlvent prevoir des rampes d'acces en etab'lissant des regles dans la construction des edifices et routes pour faciliter I'acces et ia ciiculation des persormes handicapees.
+#### Article 20.-
+Les maîtres d'ouvrages publics doivent prévoir des rampes d'accès en établissant des règles dans la construction des édifices et routes pour faciliter l'accès et la circulation des personnes handicapées.
 
-#### Article 21.~
-L'Etat et ies coiiectivites territoria!es decentralisees doivent accorder une priorife a la construction et it /'equipement des infrastnJctufes devant accueHEr les n r~n"",'-'" i-.. __ .-J:-._~~~os m,..., ·......·. _i-....··. ~e(yUliiJC~ !!a:!u:t...ai".""'.''''' · 'C'lldfC::i.
+#### Article 21.-
+L'Etat et les collectivités territoriales décentralisées doivent accorder une priorité à la construction et à l'équipement des infrastructures devant accueillir les personnes handicapées mentales.
 
-#### Artjcie22.~
-Des Decrets .pris en COfiseii des Ministres fixent ies modaiitt~s d'application de ia presente loi. .
+## TITRE III.- Des Disponibles Finales
 
-#### Artic!e23.
-La presente ioi sera enregistree et pubHee au Journal Officie! de la Republique at execut66 comme ioi de j:Etat. ,..... ,. .
+#### Article22.-
+Des Décrets pris en Conseil des Ministres fixent les modalités d'application de la présente loi.
 
-N'Djamena; Ie GO..M;" -T- -20r.v? J ~~"...a,. _Vi
+#### Article23.-
+La présente loi sera enregistrée et publiée au Journal Officiel de la République et exécutée comme loi de l'Etat.
 
-.
+N'Djamena, le 09 MAI 2007
 
-~
-
-"vf;.!
-
-I
+IDRISS DEBY ITNO
 
 [[END OF PAGE 3]]
