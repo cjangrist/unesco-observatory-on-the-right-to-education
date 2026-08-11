@@ -12,7 +12,7 @@ Undécima consulta de los Estados Miembros sobre la aplicación de la Convenció
 
 ## 1. Introducción
 
-La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza ('la Convención') y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza ('la Recomendación'), que fueron aprobadas por la C onferencia General de la UNESCO en 1960, se ajustan al mandato constitucional de la Organización consistente en 'fomentar el ideal de la igualdad de posibilidades de educación para todos, sin distinción de raza, sexo ni condición social o económica alguna' . La Convención es el primer  instrumento  internacional  jurídicamente  vinculante  centrado  en  el derecho  a  la educación y el único dedicado exclusivamente a tal derecho.
+La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (“la Convención”) y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (“la Recomendación”), que fueron aprobadas por la Conferencia General de la UNESCO en 1960, se ajustan al mandato constitucional de la Organización consistente en “fomentar el ideal de la igualdad de posibilidades de educación para todos, sin distinción de raza, sexo ni condición social o económica alguna”. La Convención es el primer instrumento internacional jurídicamente vinculante centrado en el derecho a la educación y el único dedicado exclusivamente a tal derecho.
 
 El derecho a la educación es uno de los principios clave que sustentan la agenda Educación 2030  y  el  Objetivo  de  Desarrollo  Sostenible 4  (ODS 4),  aprobados  por  la  comunidad internacional  en  2015.  El  ODS 4  busca  garantizar  el  pleno  disfrute  del  derecho  a  la educación  como elemento fundamental para lograr  el  desarrollo  sostenible.  Su  alcance refleja la naturaleza multidimensional del derecho a la educación.
 
@@ -22,13 +22,15 @@ Las presentes directrices tienen por objeto ayudar a los Estados Miembros a prep
 
 ## 2. Alcance de la consulta
 
-Habida  cuenta  de  la  agenda  Educación  2030,  el  seguimiento  de  la  Convención  y  la Recomendación es de vital importancia a fin de garantizar que la educación sea realmente inclusiva  para  todos  y  hacer  frente  a  la  persistencia  de  las  desigualdades  en  cuanto  al acceso, la participación y los resultados del aprendizaje en todos los niveles, especialmente para los grupos más vulnerables. Esto es particularmente cierto en el contexto actual, en el que los países se esfuerzan por recuperarse de la interrupción del aprendizaje causada por la  pandemia  de  COVID-19.  Las  medidas  concretas  adoptadas  por  los  países  en consonancia con sus obligaciones jurídicas en virtud de estos instrumentos contribuyen a la aplicación de la agenda Educación 2030.
+Habida cuenta de la agenda Educación 2030, el seguimiento de la Convención y la Recomendación es de vital importancia a fin de garantizar que la educación sea realmente inclusiva para todos y hacer frente a la persistencia de las desigualdades en cuanto al acceso, la participación y los resultados del aprendizaje en todos los niveles, especialmente para los grupos más vulnerables. Esto es particularmente cierto en el contexto actual, en el que los países se esfuerzan por recuperarse de la interrupción del aprendizaje causada por la pandemia de COVID-19. Las medidas concretas adoptadas por los países en
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Dado que el alcance y el contenido de las obligaciones jurídicas en virtud del derecho a la educación  están  en  consonancia  con  las  diez  metas  del  ODS 4,  se  están  invirtiendo esfuerzos en velar por que las directrices incluyan los componentes de las metas y sean una valiosa contribución al seguimiento de los progresos realizados hacia la consecución de las metas del ODS 4.
+consonancia con sus obligaciones jurídicas en virtud de estos instrumentos contribuyen a la aplicación de la agenda Educación 2030.
+
+Dado que el alcance y el contenido de las obligaciones jurídicas en virtud del derecho a la educación están en consonancia con las diez metas del ODS 4, se están invirtiendo esfuerzos en velar por que las directrices incluyan los componentes de las metas y sean una valiosa contribución al seguimiento de los progresos realizados hacia la consecución de las metas del ODS 4.
 
 La Convención no solo se ajusta plenamente al ODS 4, sino también al contenido normativo sobre  el  derecho  a  la  educación  de  otros  instrumentos  internacionales  de  derechos humanos, como el Pacto Internacional de  Derechos  Económicos, Sociales  y  Culturales (1966), la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (1979), la Convención sobre los Derechos del Niño (1989) y la Convención sobre los Derechos de las Personas con Discapacidad (2006).
 
@@ -42,11 +44,11 @@ Cabe señalar también que las consultas previas sobre la Convención y la Recom
 
 3
 
-> https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_edu cation.pdf.
+> https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_education.pdf.
 
 4
 
-> https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_sum mit.pdf.
+> https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_summit.pdf.
 
 > 5 Marco de Acción de Marrakech | Instituto de la UNESCO para el Aprendizaje a lo Largo de Toda la Vida (unesco.org).
 
@@ -124,11 +126,11 @@ República Bolivariana de Venezuela
 
 Organización  o  entidad  responsable  de  la  preparación  del  informe: Ministerio  del Poder Popular para la Educación
 
-Nombre de la persona de contacto: Nancy Ortuño, Viceministra de Educación - Rosángela  Orozco,  Directora  General  de  la  Oficina  de  Integración  y  Asuntos Internacionales
+Nombre de la persona de contacto: Nancy Ortuño, Viceministra de Educación – Rosángela Orozco, Directora General de la Oficina de Integración y Asuntos Internacionales
 
-Correo electrónico y número de teléfono de la persona de contacto: despachoviceministeriomedia@gmail.com - internacionales.educacion@gmail.com
+Correo electrónico y número de teléfono de la persona de contacto: despachoviceministeriomedia@gmail.com – internacionales.educacion@gmail.com
 
-## Ratificación  y  aplicación  de  la  Convención  relativa  a  la  Lucha  contra  las Discriminaciones en la Esfera de la Enseñanza 10
+## I. Ratificación y aplicación de la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 10
 
 ¿Es su país un Estado Parte en la Convención?
 
@@ -180,9 +182,9 @@ Sí
 
 También puede facilitarse información sobre las autoridades judiciales, administrativas y de otro tipo que tengan competencia en lo que atañe al derecho a la educación.
 
-## Información sobre la aplicación de la Convención y la Recomendación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
+## II. Información sobre la aplicación de la Convención y la Recomendación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
 
-### Hacia un sistema educativo inclusivo y no discriminatorio
+### 1. Hacia un sistema educativo inclusivo y no discriminatorio
 
 A  título  de  referencia,  esta  parte  se  refiere  al  objetivo  principal  de  la  Convención  y  la Recomendación, a saber, subrayar la obligación de los Estados de prohibir toda forma de discriminación en la enseñanza y promover al mismo tiempo la igualdad de oportunidades educativas como lo estipulan los artículos/párrafos 1.1, 2 y 3 de la Convención/Recomendación.
 
@@ -196,7 +198,7 @@ Este aspecto corresponde además a la aspiración general del ODS 4, que tiene p
 
 -En caso afirmativo, indique las referencias.
 
-El marco jurídico interno que maneja la República Bolivariana de Venezuela, garantiza en todos sus ámbitos y ejes transversales, el derecho a la educación sin discriminación de ninguna índole. Se reconoce el derecho a la educación como un derecho humano universal y un deber social fundamental, inalienable e irrenunciable, que promueve el desarrollo del potencial de cada ser humano. En ese sentido, desde nuestra Carta Magna en el capítulo IV relativo a los Derechos Culturales y Educativos, específicamente en los artículos 102 y 103 13 , se inicia todo el andamiaje jurídico que va a blindar y proteger al sistema educativo venezolano. Asimismo, se tiene a la Ley Orgánica de Educación 14 , el Reglamento  de  la  Ley  Orgánica  de  Educación 15 ,  la  Ley  de  Pueblos  y  Comunidades Indígenas, específicamente en el título IV De la Educación y la Cultura en su capítulo 1 16 , entre otras leyes y reglamentos que tengan unapartado para la formación. Es importante destacar,  que  en  todos  estos  instrumentos,  la  no  discriminación  es  un  principio fundamental.
+El marco jurídico interno que maneja la República Bolivariana de Venezuela, garantiza en todos sus ámbitos y ejes transversales, el derecho a la educación sin discriminación de ninguna índole. Se reconoce el derecho a la educación como un derecho humano
 
 > 11 Los mecanismos judiciales desempeñan un papel importante en la aplicación del derecho a la educación, ya que garantizan la responsabilidad jurídica y, de esa forma, contribuyen a la realización en la práctica del derecho a la educación.
 
@@ -205,6 +207,8 @@ El marco jurídico interno que maneja la República Bolivariana de Venezuela, ga
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+universal y un deber social fundamental, inalienable e irrenunciable, que promueve el desarrollo del potencial de cada ser humano. En ese sentido, desde nuestra Carta Magna en el capítulo IV relativo a los Derechos Culturales y Educativos, específicamente en los artículos 102 y 103 13, se inicia todo el andamiaje jurídico que va a blindar y proteger al sistema educativo venezolano. Asimismo, se tiene a la Ley Orgánica de Educación 14, el Reglamento de la Ley Orgánica de Educación 15, la Ley de Pueblos y Comunidades Indígenas, específicamente en el título IV De la Educación y la Cultura en su capítulo 1 16, entre otras leyes y reglamentos que tengan unapartado para la formación. Es importante destacar, que en todos estos instrumentos, la no discriminación es un principio fundamental.
 
 #### 1.1 No discriminación e igualdad en la enseñanza
 
@@ -228,17 +232,17 @@ A título de referencia, este aspecto se abarca principalmente en la meta 4.1 de
 
 - Indique las disposiciones jurídicas pertinentes.
 
-> 13  https://venezuela.justia.com/federales/constitucion-de-la-republica-bolivariana-devenezuela/titulo-iii/capitulo-vi/
+> 13 https://venezuela.justia.com/federales/constitucion-de-la-republica-bolivariana-de-venezuela/titulo-iii/capitulo-vi/
 
-> 14  http://apps.ucab.edu.ve/nap/recursos/LeyOrganicadeEducacion.pdf
+> 14 http://apps.ucab.edu.ve/nap/recursos/LeyOrganicadeEducacion.pdf
 
-15
+> 15 https://www.ceiva.com.ve/CEIVAteca/MarcoLegal/Reglamentos/ReglamentoGeneralLeyOrganicaEducacion.pdf
 
-> https://www.ceiva.com.ve/CEIVAteca/MarcoLegal/Reglamentos/ReglamentoGeneralLeyOrganicaE ducacion.pdf
+> 16 https://www.acnur.org/fileadmin/Documentos/Pueblos_indigenas/ley_organica_indigena_ven.pdf
 
-> 16  https://www.acnur.org/fileadmin/Documentos/Pueblos_indigenas/ley_organica_indigena_ven.pdf 17 Véase el artículo/párrafo 1.1.
+> 17 Véase el artículo/párrafo 1.1.
 
-> 18 En la cual se insta a los Estados a 'aumentar considerablemente a nivel mundial el número de becas disponibles [...] a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y programas técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones'.
+> 18 En la cual se insta a los Estados a “aumentar considerablemente a nivel mundial el número de becas disponibles [...] a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y programas técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones”.
 
 > 19 Constitución, leyes, decretos, reglamentos, circulares, etc.
 
@@ -252,13 +256,17 @@ Ley Orgánica de Educación (2009), Gaceta oficial N.º 5929, Artículo 6 : Todo
 
 Ley Orgánica de los Pueblos y Comunidades Indígenas (2005), Gaceta N.º 38.344.
 
-Artículo 76 . La educación intercultural bilingüe es un régimen educativo específico que se implantará en todos los niveles y modalidades del sistema educativo para los pueblos indígenas, y estará orientado a favorecer la interculturalidad y a satisfacer el régimen está fundamentado  en  la  cultura,  valores,  normas,  idiomas,  tradiciones,  realidad  propia necesidades individuales y colectivas de los pueblos y comunidades indígenas. Este de cada  pueblo  y  comunidad  y  en  la  enseñanza  del  castellano,  los  aportes  científicos, tecnológicos y humanísticos procedentes del 18 acervo cultural de la Nación venezolana y de la humanidad. Todo ello estará desarrollado en los programas de estudio Ley  Orgánica  Contra  de  la  Discriminación  Racial  (2021)  Gaceta  Oficial  N.º  6657 Artículo 17 : En todos los subsistemas, niveles y modalidades del Sistema Educativo se incluirán  contenidos  relativos  a  las  culturas,  historias  y  tradiciones  constitutivas  de  la venezolanidad,  destinados  a  prevenir  y  erradicar  toda  forma  de  discriminación  racial, racismo,  endorracismo  y  la  xenofobia.  Los  órganos  y  entes  competentes  en  materia educativa y cultural deben elaborar y ejecutar planes, programas, proyectos y actividades para promover y difundir conocimientos y valores de aceptación, tolerancia, comprensión y respeto a la diversidad cultural, a fin de erradicar los estereotipos de origen étnico en los instrumentos pedagógicos y didácticos utilizados en el Sistema Educativo . Artículo 7 : El  Estado, en corresponsabilidad con los diferentes actores de la sociedad, personas naturales y jurídicas, de carácter público o privado, tienen el deber de transmitir y difundir mensajes  para  la  prevención  y  erradicación  de  toda  forma  de  discriminación  racial, fomentando el respeto a la diversidad de las culturas y la igualdad de todos los seres humanos ante la ley.
+Artículo 76. La educación intercultural bilingüe es un régimen educativo específico que se implantará en todos los niveles y modalidades del sistema educativo para los pueblos indígenas, y estará orientado a favorecer la interculturalidad y a satisfacer el régimen está fundamentado en la cultura, valores, normas, idiomas, tradiciones, realidad propia necesidades individuales y colectivas de los pueblos y comunidades indígenas. Este de
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-Ley Constitucional Contra el Odio Por la Convivencia Pacífica y la Tolerancia (2017) Gaceta Oficial 41.274 Artículo 9 :    El  Sistema  de  Educación debe garantizar que los centros e instituciones educativos sean espacios de y para la paz, diversidad, tolerancia, igualdad, respeto mutuo y convivencia solidaria. A tal efecto, los Ministerios del Poder Popular con competencia en materia de educación básica y de educación universitaria deben adoptar todas las medidas que sean necesarias y adecuadas para: 1. Incluir dentro de los programas educativos un eje transversal de formación dirigido a la construcción de una cultura  de  paz  y  de  respeto  a  los  derechos  humanos.  2.  Orientar  las  normas  de convivencia y disciplina a promover y garantizar el reconocimiento de la paz, diversidad, la tolerancia, igualdad y el respeto recíproco, así como a prevenir y erradicar toda forma de violencia política, odio e intolerancias.
+cada pueblo y comunidad y en la enseñanza del castellano, los aportes científicos, tecnológicos y humanísticos procedentes del 18 acervo cultural de la Nación venezolana y de la humanidad. Todo ello estará desarrollado en los programas de estudio
+
+Ley Orgánica Contra de la Discriminación Racial (2021) Gaceta Oficial N.º 6657 Artículo 17: En todos los subsistemas, niveles y modalidades del Sistema Educativo se incluirán contenidos relativos a las culturas, historias y tradiciones constitutivas de la venezolanidad, destinados a prevenir y erradicar toda forma de discriminación racial, racismo, endorracismo y la xenofobia. Los órganos y entes competentes en materia educativa y cultural deben elaborar y ejecutar planes, programas, proyectos y actividades para promover y difundir conocimientos y valores de aceptación, tolerancia, comprensión y respeto a la diversidad cultural, a fin de erradicar los estereotipos de origen étnico en los instrumentos pedagógicos y didácticos utilizados en el Sistema Educativo. Artículo 7: El Estado, en corresponsabilidad con los diferentes actores de la sociedad, personas naturales y jurídicas, de carácter público o privado, tienen el deber de transmitir y difundir mensajes para la prevención y erradicación de toda forma de discriminación racial, fomentando el respeto a la diversidad de las culturas y la igualdad de todos los seres humanos ante la ley.
+
+Ley Constitucional Contra el Odio Por la Convivencia Pacífica y la Tolerancia (2017) Gaceta Oficial 41.274 Artículo 9: El Sistema de Educación debe garantizar que los centros e instituciones educativos sean espacios de y para la paz, diversidad, tolerancia, igualdad, respeto mutuo y convivencia solidaria. A tal efecto, los Ministerios del Poder Popular con competencia en materia de educación básica y de educación universitaria deben adoptar todas las medidas que sean necesarias y adecuadas para: 1. Incluir dentro de los programas educativos un eje transversal de formación dirigido a la construcción de una cultura de paz y de respeto a los derechos humanos. 2. Orientar las normas de convivencia y disciplina a promover y garantizar el reconocimiento de la paz, diversidad, la tolerancia, igualdad y el respeto recíproco, así como a prevenir y erradicar toda forma de violencia política, odio e intolerancias.
 
 - Enumere los motivos de discriminación prohibidos en la enseñanza tal y como se recogen en los textos jurídicos.
 
@@ -292,13 +300,19 @@ Se prohíbe todo acto de discriminación racial, racismo, endorracismo y de xeno
 
 -Especifique.
 
-El  Gobierno Bolivariano de Venezuela, a través del Ministerio del Poder Popular para la Educación, en su condición de ente rector de las políticas públicas en materia de inclusión y calidad educativa, asumiendo el compromiso de garantizar la atención adecuada de las modalidades del Sistema Educativo Bolivariano como lo son: la Educación en Frontera, Educación Intercultural y Educación Intercultural Bilingüe, establece planes, programas y proyectos que pretenden garantizar el desarrollo e implementación del funcionamiento adecuado de las políticas públicas educativas, en atención al vivir bien de los pueblos indígenas, comunidades afrodescendientes y de la diversas identidades étnicas y culturales Fundamentado  en los preceptos jurídicos    de  Ley  Orgánica  de  Educación  (2009),  Gaceta  Oficial  N.º  5929, Artículo: Modalidades del Sistema Educativo Artículo 26. Las modalidades del Sistema Educativo son variantes educativas para la atención de las personas que, por sus características y condiciones específicas de su desarrollo integral, cultural, étnico, lingüístico y otras, requieren adaptaciones curriculares  de  forma  permanente  o  temporal  con  el  fin  de  responder  a  las exigencias de los diferentes niveles educativos. Son modalidades: La educación especial, la educación de jóvenes, adultos y adultas, la educación en fronteras, la educación  rural,  la  educación  para  las  artes,  la  educación  militar,  la  educación intercultural, la educación intercultural bilingüe, y otras que sean determinada por reglamento o por ley.
+El Gobierno Bolivariano de Venezuela, a través del Ministerio del Poder Popular para la Educación, en su condición de ente rector de las políticas públicas en materia de inclusión y calidad educativa, asumiendo el compromiso de garantizar la atención adecuada de las modalidades del Sistema Educativo Bolivariano como lo son: la Educación en Frontera, Educación Intercultural y Educación Intercultural Bilingüe, establece planes, programas y proyectos que pretenden garantizar el desarrollo e implementación del funcionamiento adecuado de las políticas públicas educativas, en atención al vivir bien de los pueblos indígenas, comunidades afrodescendientes
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-Ley  Orgánica  de  los  Pueblos  y  Comunidades  Indígenas  (2005),  Gaceta  N.º 38.344  Artículo 78 .  La  educación  intercultural  bilingüe  es  gratuita  en  todos  sus niveles y modalidades y es obligación del Estado la creación y sostenimiento de instituciones y servicios que garanticen este derecho.
+y de la diversas identidades étnicas y culturales Fundamentado en los preceptos jurídicos de Ley Orgánica de Educación (2009), Gaceta Oficial N.º 5929,
+
+Artículo: Modalidades del Sistema Educativo
+
+Artículo 26. Las modalidades del Sistema Educativo son variantes educativas para la atención de las personas que, por sus características y condiciones específicas de su desarrollo integral, cultural, étnico, lingüístico y otras, requieren adaptaciones curriculares de forma permanente o temporal con el fin de responder a las exigencias de los diferentes niveles educativos. Son modalidades: La educación especial, la educación de jóvenes, adultos y adultas, la educación en fronteras, la educación rural, la educación para las artes, la educación militar, la educación intercultural, la educación intercultural bilingüe, y otras que sean determinada por reglamento o por ley.
+
+Ley Orgánica de los Pueblos y Comunidades Indígenas (2005), Gaceta N.º 38.344 Artículo 78. La educación intercultural bilingüe es gratuita en todos sus niveles y modalidades y es obligación del Estado la creación y sostenimiento de instituciones y servicios que garanticen este derecho.
 
 Entre los planes, programas  y proyectos a fines de llevar una educación basada en la práctica de la pedagogía del amor, el  ejemplo y la curiosidad para incentivar en nuestras y nuestros estudiantes una conducta ética del respeto y reivindicación de los  derechos  en  el  ejercicio  de  los  valores  humanos,  creando  acciones  para  la reflexión e importancia de destacar la igualdad y la no discriminación y fortalecer la Interculturalidad; la educación intercultural promueve  y garantiza desde la organización  escolar  y  estudiantil en la escuela y comunidad,  constitución de brigadas  escolares educativas  para la lucha con la discriminación racial, el racismo, la xenofobia, endorracismo  y sus  formas conexas  así como por ejemplo, la Brigada estudiantil José Leonardo Chirino, Brigada estudiantil de los Derechos Humanos desde el sistema de Protección y Desarrollo  Estudiantil y las  Brigadas  de Paz y Convivencia Escolar y comunitaria  desde el establecimiento de normas para la seguridad, protección y convivencia armónica en la escuela.
 
@@ -324,7 +338,7 @@ La República Bolivariana de Venezuela posee un andamiaje jurídico que protege 
 
 [[START OF PAGE 13]]
 
-De acuerdo con la Ley, 'la educación intercultural bilingüe se regirá por una ley especial que desarrollará el diseño curricular, el calendario escolar, los materiales didácticos, la formación y pertinencia de los y las docentes correspondientes a esta mod alidad.'
+De acuerdo con la Ley, “la educación intercultural bilingüe se regirá por una ley especial que desarrollará el diseño curricular, el calendario escolar, los materiales didácticos, la formación y pertinencia de los y las docentes correspondientes a esta modalidad.”
 
 La Ley orgánica de pueblos y comunidades indígenas establece que los planes y programas educativos para  cada  pueblo o comunidad  indígena  basados  en  sus particularidades socio-culturales, valores y tradiciones.
 
@@ -358,11 +372,15 @@ Dentro de la Misión Sucre, nacieron las figuras de las Aldeas Universitarias, e
 
 La pandemia representó un reto en todas las áreas para todos los países del mundo, en el caso de Venezuela no fue la excepción, sin embargo, el sistema educativo se activó  y  se  aplicaron  planes  de  contingencia  para  que  los  niños,  niñas  y adolescentes continuaran con sus estudios. En el marco de ello, para el año escolar 2021-2022 se lanzó el Plan Victoria Bicentenario para el regreso a clases de forma segura usando un plan de flexibilización llamado esquema 7+7 con la modalidad presencial progresiva y alterna, la programación de grupos de atención, según la frecuencia y cantidad de estudiantes por días. Este plan consta de 10 vértices: 1. La bioseguridad,  retorno  seguro  y  progresivo,  2.  Amor  para  mi  maestr@:  Héroes anónimos de la pandemia, 3. Puesta en valor de los espacios educativos: Mi escuela bella, 4. Patria potencia: La Escuela, pilar para el desarrollo nacional, 5. Sociedad y familia: Compromiso vivo de la escuela con el ser humano, 6. Tecnología educativa: Escuelas para la soberanía tecnológica, 7. La escuela hacia un rol geopolítico, 8. La escuela  en  mi  Entorno:  Semillero  para  la  Comuna,  9.  Organización  y  acción: Escuela,  fuente  de  liderazgo  y  encuentro  comunal,  10.  Desarrollo  docente: Educación de calidad.
 
-Dentro de la innovación tecnológica que está transitando el país, la educación ha tomado protagonismo y desde el Ministerio del Poder Popular para la Educación se ha  lanzado  una  estrategia  que  arropa  a  nuestros  ciudadanos  dentro  y  fuera  de nuestras fronteras, es así como nace la plataforma 'Edúcate en Venezuela',  la cua l contiene una serie de recursos educativos digitales interactivos, cursos en todos los niveles  y  modalidades,  experiencias  de  aprendizaje,    dinámicas  y  mucho  más. También está en curso el Plan Edúcate en Venezuela Mujer, programa digital que forma parte de la Gran Misión Venezuela Mujer, el cual tiene como propósito brindar un apoyo económico con el que las ciudadanas puedan empoderarse personal y profesionalmente a través de los planos formativos del Ministerio del Poder Popular para la Educación y Ministerio del Poder Popular para la Educación Universitaria.
+Dentro de la innovación tecnológica que está transitando el país, la educación ha tomado protagonismo y desde el Ministerio del Poder Popular para la Educación se ha lanzado una estrategia que arropa a nuestros ciudadanos dentro y fuera de nuestras fronteras, es así como nace la plataforma “Edúcate en Venezuela”, la cual contiene una serie de recursos educativos digitales interactivos, cursos en todos los niveles y modalidades, experiencias de aprendizaje, dinámicas y mucho más.
+
+También está en curso el Plan Edúcate en Venezuela Mujer, programa digital que forma parte de la Gran Misión Venezuela Mujer, el cual tiene como propósito brindar un apoyo económico con el que las ciudadanas puedan empoderarse personal y
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+profesionalmente a través de los planos formativos del Ministerio del Poder Popular para la Educación y Ministerio del Poder Popular para la Educación Universitaria.
 
 Es así como la República Bolivariana de Venezuela, promueve la inclusión, favorece el progreso y el desarrollo de sus ciudadanos.
 
@@ -454,7 +472,7 @@ El  nuevo  espacio  tecnológico,  cuenta  con  diferentes  ofertas  educativas 
 
 En  ella,  las  usuarias  podrán  encontrar  diferentes  opciones,  entre  ellas:  Inicio, Niveles Educativos, Materiales, Docentes Edúcate en Venezuela, Mujer, Recursos Educativos y Digitales Enlaces.
 
-En cuanto a Niveles Educativos, están disponible la Modalidad de Educación de Jóvenes,  Adultas  y  Adultos  y  la  opción  de  seleccionar  el  plan  de  estudio  para acceder a los recursos, donde están los enlaces a: Escuelas para el empoderamiento; Media General y Media Técnica.
+En cuanto a Niveles Educativos, están disponible la Modalidad de Educación de Jóvenes, Adultas y Adultos y la opción de seleccionar el plan de estudio para
 
 > 23 " Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them" (La estigmatización es el hecho de tratar a alguien o a algo injustamente condenándolo públicamente) (traducción libre del Cambridge Dictionary).
 
@@ -466,7 +484,9 @@ En cuanto a Niveles Educativos, están disponible la Modalidad de Educación de 
 
 [[START OF PAGE 18]]
 
-Igualmente,  la  plataforma  cuenta  con  las  Misiones  Educativas  donde  se  puede seleccionar el plan de estudio como: La Misión Robinson; Misión Ribas; y Misión Sucre.
+acceder a los recursos, donde están los enlaces a: Escuelas para el empoderamiento; Media General y Media Técnica.
+
+Igualmente, la plataforma cuenta con las Misiones Educativas donde se puede seleccionar el plan de estudio como: La Misión Robinson; Misión Ribas; y Misión Sucre.
 
 ¿Qué dificultades se encontraron en lo que se refiere al logro de la igualdad de género  en  la  educación  y  mediante  ella?  De  ser  necesario,  se  pueden  añadir breves datos cuantitativos.
 
@@ -482,7 +502,7 @@ Tenga en cuenta que el matrimonio infantil es una práctica discriminatoria, ya 
 
 - Sírvase hacer referencia a las leyes y disposiciones pertinentes e indicar cuáles son las excepciones a la edad legal para contraer matrimonio, así como la edad mínima absoluta.
 
-En el  Código  Civil  venezolano, en  su  Título  IV  Del  Matrimonio, Capítulo  I De  los  esponsales,  del matrimonio y su celebración, y de los requisitos necesarios para contraerlo, en su sección III, artículo 46 señala que la edad minima para contraer matrimonio para las mujeres será a partir de los catorce (14) años de edad y para el hombre serán los dieciséis (16) años de edad 27 , con previa autorización de sus representantes o en caso contrario, se puede solicitor la autorización por un Tribunal de protección. Sin embargo, la República Bolivariana de Venezuela no promueve el matrimonio infantil en ninguna de sus formas.
+En el Código Civil venezolano, en su Título IV Del Matrimonio, Capítulo I De los esponsales, del matrimonio y su celebración, y de los requisitos necesarios para contraerlo, en su sección III, artículo 46 señala que la edad minima para contraer matrimonio para las mujeres será a partir de los catorce (14) años de edad y para el hombre serán los dieciséis (16) años de edad 27, con previa autorización de sus representantes o en caso contrario, se puede solicitor la autorización por un Tribunal de
 
 > 26 Cabe señalar que, según la recomendación general núm. 31 del Comité para la Eliminación de la Discriminación contra la Mujer y la observación general núm. 18 del Comité de los Derechos del Niño sobre las prácticas nocivas, adoptadas de manera conjunta, "[...] en circunstancias excepcionales se puede permitir el matrimonio de un niño maduro y capaz menor de 18 años, siempre y cuando el niño tenga como mínimo 16 años de edad y tales decisiones las adopte un juez basándose en motivos excepcionales legítimos definidos por la legislación y en pruebas de madurez, sin dejarse influir por la cultura ni la tradición" (párr. 20).
 
@@ -491,6 +511,8 @@ En el  Código  Civil  venezolano, en  su  Título  IV  Del  Matrimonio, Capítu
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+protección. Sin embargo, la República Bolivariana de Venezuela no promueve el matrimonio infantil en ninguna de sus formas.
 
 ##### Minorías nacionales:
 
@@ -528,21 +550,17 @@ En el  Código  Civil  venezolano, en  su  Título  IV  Del  Matrimonio, Capítu
 
 Se garantiza el derecho a la educación propia y natural de la población indígena y diversidad  étnica  y  cultural,  en  situación  de  vulnerabilidad  atendiendo  a  las necesidades educativas y formativas a través del desarrollo de planes, programas y proyectos que responden a las necesidades y particularidades de la comunidad educativa adecuadas a su propia realidad territorial.
 
-> 28 Véase  el  informe  de  la  UNESCO  "The  right  to  education  of  minorities:  Overview  of  States' measures  reported  in  the  10th  Consultation  on  the  1960  Convention  and  Recommendation  against Discrimination in Education", 2023.
+> 28 Véase el informe de la UNESCO "The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education", 2023.
 
-29
+> 29 Véase la nota 15.
 
-30
-
-Véase la nota 15.
-
-Véase la nota 16.
+> 30 Véase la nota 16.
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-Ley Orgánica para la Protección del Niño, Niña y Adolescente (2007) Gaceta 5.58 9. Artículo 36 todos los niños, niñas y adolescentes tienen derecho a tener su propia vida cultural, a profesar y practicar su propia religión o creencia y a emplear su  propio  idioma  especialmente  a  aquellos  pertenecientes  a  minorías  étnicas, religiosas, lingüísticas o indígenas.
+Ley Orgánica para la Protección del Niño, Niña y Adolescente (2007) Gaceta 5.589. Artículo 36 todos los niños, niñas y adolescentes tienen derecho a tener su propia vida cultural, a profesar y practicar su propia religión o creencia y a emplear su propio idioma especialmente a aquellos pertenecientes a minorías étnicas, religiosas, lingüísticas o indígenas.
 
 ¿Con  qué  dificultades  se  ha  tropezado  para  hacer  efectivo  el  derecho  a  la educación  de  las  minorías?  De  ser  necesario,  se  pueden  añadir  breves  datos cuantitativos.
 
@@ -580,11 +598,9 @@ La complejidad territorial donde se encuentran ubicados los pueblos y comunidade
 
 - Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
 
-31
+> 31 Véase la nota 15.
 
-32
-
-Véase la nota 15. Véase la nota 16.
+> 32 Véase la nota 16.
 
 [[END OF PAGE 20]]
 
@@ -592,33 +608,33 @@ Véase la nota 15. Véase la nota 16.
 
 Se  crean  y  desarrollan  políticas  educativas  a  través  de  planes,  programas proyectos dirigidos a la atención de las necesidades  educativas y especificidades de  las  poblaciones  indígenas  en  el  sistema  educativo,  como  por  ejemplo  la implementación  del Proyecto  Educativo  por  Pueblos Indígenas  (PEPI), se realizan consultas previas e informadas a las  autoridades legítimas originarias de los  pueblos  indígenas  (Caciques,  cacicas,  sabias,  sabios,  abuelas,  abuelos, chamanes,  así como docentes de educación intercultural bilingüe …entre otros ) a fin valorar y visibilizar la integración sus aportes en la construcción, organización y desarrollo de sus propios procesos educativos. Se realiza y promueve el respeto y reconocimiento  de  la  organización  territorial,  valores  políticos,  geo  histórico, socioculturales, espirituales, cosmogónicos, pautas de crianza, calendarios socioproductivos,  medicina  tradicional,  gastronomía,  juegos  autóctonos,  usos, costumbres e idioma de los pueblos indígenas en los procesos de enseñanza y aprendizaje. Se realizan programas, proyectos y acciones dirigidos al conocimiento, uso y preservación de los idiomas indígenas, en articulación con los órganos y competencia en la materia, se proponen adecuaciones curriculares en Educación Intercultural Bilingüe en correspondencia con el derecho constitucional de los pueblos indígenas a una educación propia.
 
-Constitución de la República Bolivariana de Venezuela (1999) Artículo 121: Los pueblos indígenas tienen derecho a mantener y desarrollar su identidad étnica y cultural cosmovisión, valores, espiritualidad y sus lugares sagrados y de culto .El estado fomentará la valoración y difusión de las manifestaciones culturales de los pueblos indígenas los cuales tienen derecho a un educación propia y a un régimen educativo  de  carácter  intercultural  y  bilingüe  atendiendo  a  sus  particularidades socioculturales valores y tradicione s.
+Constitución de la República Bolivariana de Venezuela (1999) Artículo 121: Los pueblos indígenas tienen derecho a mantener y desarrollar su identidad étnica y cultural cosmovisión, valores, espiritualidad y sus lugares sagrados y de culto .El estado fomentará la valoración y difusión de las manifestaciones culturales de los pueblos indígenas los cuales tienen derecho a un educación propia y a un régimen educativo de carácter intercultural y bilingüe atendiendo a sus particularidades socioculturales valores y tradiciones.
 
 Artículo 9: El idioma oficial es el castellano. Los idiomas indígenas también son de  uso  oficial  para  los  pueblos  indígenas  y  deben  ser  respetados  en  todo  el territorio  de  la  república  por  constituir  patrimonio  cultural  de  la  nación  y  de  la humanidad.
 
 Ley Orgánica de los Pueblos y Comunidades Indígenas (2005), Gaceta N.º 38.344 Artículo 11. Toda actividad susceptible de afectar directa o indirectamente a los pueblos y comunidades indígenas, deberá ser consultada con los pueblos y comunidades indígenas involucrados. La consulta será de buena fe, tomando en cuenta  los  idiomas  y  la  espiritualidad,  respetando  la  organización  propia,  las autoridades  legítimas  y  los  sistemas  de  comunicación  e  información  de  los integrantes  de  los  pueblos  y  comunidades indígenas  involucrados,  conforme al procedimiento  establecido  en  esta  Ley. Artículo  74. El  Estado  garantiza  a  los pueblos y comunidades indígenas el derecho a su educación propia como proceso de  socialización  y  a  un  régimen  educativo  de  carácter  intercultural  bilingüe, atendiendo a sus particularidades socioculturales, valores, tradiciones y necesidades. Artículo  77. A  los  efectos  de  la  implantación  del  régimen  de educación  intercultural  bilingüe  en  los  pueblos  y  comunidades  indígenas,  los órganos competentes del Estado, con participación de los pueblos y comunidades indígenas, desarrollarán:
 
-- Los planes y programas educativos para cada pueblo o comunidad indígena basados en sus particularidades socio-culturales, valores y tradiciones.
+1. Los planes y programas educativos para cada pueblo o comunidad indígena basados en sus particularidades socio-culturales, valores y tradiciones.
 
-- La uniformidad gramatical de la escritura del idioma de cada pueblo indígena.
+2. La uniformidad gramatical de la escritura del idioma de cada pueblo indígena.
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-- La revitalización sistemática de los idiomas indígenas que se creían extinguidos o que están en riesgo de extinción, mediante la creación de nichos lingüísticos u otros mecanismos idóneos.
+3. La revitalización sistemática de los idiomas indígenas que se creían extinguidos o que están en riesgo de extinción, mediante la creación de nichos lingüísticos u otros mecanismos idóneos.
 
-- La formación integral de docentes indígenas expertos en educación intercultural bilingüe.
+4. La formación integral de docentes indígenas expertos en educación intercultural bilingüe.
 
-- El ajuste del calendario escolar a los ritmos de vida y tiempos propios de cada pueblo o comunidad indígena, sin perjuicio del cumplimiento de los programas respectivos.
+5. El ajuste del calendario escolar a los ritmos de vida y tiempos propios de cada pueblo o comunidad indígena, sin perjuicio del cumplimiento de los programas respectivos.
 
-- La adecuación de la infraestructura de los planteles educativos a las condiciones ecológicas, las exigencias pedagógicas y los diseños arquitectónicos propios de los pueblos y comunidades indígenas.
+6. La adecuación de la infraestructura de los planteles educativos a las condiciones ecológicas, las exigencias pedagógicas y los diseños arquitectónicos propios de los pueblos y comunidades indígenas.
 
-- La creación de bibliotecas escolares y de aulas que incluyan materiales relacionados con los pueblos indígenas de la región y del país.
+7. La creación de bibliotecas escolares y de aulas que incluyan materiales relacionados con los pueblos indígenas de la región y del país.
 
-- La producción y distribución de materiales didácticos y de lectura elaborados en los idiomas indígenas.
+8. La producción y distribución de materiales didácticos y de lectura elaborados en los idiomas indígenas.
 
-- Las demás actividades que se consideren convenientes para la educación intercultural bilingüe en los pueblos y comunidades indígenas.
+9. Las demás actividades que se consideren convenientes para la educación intercultural bilingüe en los pueblos y comunidades indígenas.
 
 Ley Orgánica para la Protección  del Niño , Niña y Adolescente  (2007) Gaceta 5.589.    Artículo  60: El  estado  debe  garantizar  a  todos  los  niños  niñas  y adolescentes  indígenas  regímenes  planes  y  programas  de  educación  integral intercultural  bilingüe  que  promuevan  la  vida  cultural  el  empleo  de  su  propició idioma y el acceso a los conocimientos generales por su propio pueblo o cultura y de otros pueblos indígenas.
 
@@ -728,9 +744,9 @@ Las personas con discapacidad o neurodiversidad son sujetos de derecho en la Rep
 
 Estas barreras impiden acceder a una educación inclusiva si no se abordan aristas que  tienen  que  ver  con  la  accesibilidad  física  en  las  escuelas,  la  escasez  de docentes formados en educación para la atención a la diversidad y la persistencia de actitudes discriminatorias que se constituyen en algunos de los obstáculos que enfrentan estos estudiantes.
 
-38 39
+> 38 Véase la nota 15.
 
-Véase la nota 15. Véase la nota 16.
+> 39 Véase la nota 16.
 
 [[END OF PAGE 24]]
 
@@ -758,11 +774,9 @@ Actualmente desde el Ministerio del Poder Popular para la Educación, atendemos 
 
  X Los planes de estudio están libres de estereotipos 41  y prejuicios
 
-40
+> 40 Véase la nota 15.
 
-41
-
-Véase la nota 15. Véase la nota 16.
+> 41 Véase la nota 16.
 
 [[END OF PAGE 25]]
 
@@ -774,7 +788,7 @@ Véase la nota 15. Véase la nota 16.
 
 ¿Con  qué  dificultades  se  ha  tropezado  para  hacer  efectivo  el  derecho  a  la educación de los educandos de familias pobres? De ser necesario, se pueden añadir breves datos cuantitativos.
 
-### Progresos realizados en la aplicación del derecho a la educación en todos los niveles y formas de educación
+### 2. Progresos realizados en la aplicación del derecho a la educación en todos los niveles y formas de educación
 
 #### 2.1 Atención y educación de la primera infancia
 
@@ -922,10 +936,6 @@ En el  caso de  la  República Bolivariana  de Venezuela  no  se divide  la  edu
 
 [[START OF PAGE 30]]
 
-- Enumere las leyes y políticas pertinentes. Si procede, facilite información sobre los costos  directos  (por  ejemplo,  tasas  de  matrícula  y  académicas)  e  indirectos  (por ejemplo,  derechos  de  examen,  material  escolar,  uniformes,  transporte  y  tasas obligatorias para los padres). Se pueden añadir breves datos cuantitativos.
-
-- Indique si la edad mínima legal para trabajar coincide con la edad de finalización de la educación obligatoria.
-
  El primer ciclo de educación secundaria no es obligatorio
 
  X El primer ciclo de educación secundaria es gratuito
@@ -940,7 +950,11 @@ En el  caso de  la  República Bolivariana  de Venezuela  no  se divide  la  edu
 
  El segundo ciclo de educación secundaria no es gratuito
 
-A fines de referencia, las leyes laborales y las leyes relativas a la educación obligatoria son interdependientes y se refuerzan mutuamente. Si la edad mínima para trabajar es inferior a la edad de finalización de la educación obligatoria, los niños corren el riesgo de abandonar la escuela para trabajar y, por tanto,  de no completar la  educación obligatoria. Por otra parte, si la edad de finalización de la educación obligatoria es inferior a la edad mínima para trabajar, una vez que los niños terminan la educación obligatoria  se  abre  la  puerta  a  la  explotación  infantil  y  a  la  violación  de  las  leyes laborales.
+- Enumere las leyes y políticas pertinentes. Si procede, facilite información sobre los costos directos (por ejemplo, tasas de matrícula y académicas) e indirectos (por ejemplo, derechos de examen, material escolar, uniformes, transporte y tasas obligatorias para los padres). Se pueden añadir breves datos cuantitativos.
+
+- Indique si la edad mínima legal para trabajar coincide con la edad de finalización de la educación obligatoria.
+
+A fines de referencia, las leyes laborales y las leyes relativas a la educación obligatoria son interdependientes y se refuerzan mutuamente. Si la edad mínima para trabajar es inferior a la edad de finalización de la educación obligatoria, los niños corren el riesgo de abandonar la escuela para trabajar y, por tanto, de no completar la educación obligatoria. Por otra parte, si la edad de finalización de la educación obligatoria es inferior a la edad mínima para trabajar, una vez que los niños terminan la educación obligatoria se abre la puerta a la explotación infantil y a la violación de las leyes laborales.
 
 Sí o X No
 
@@ -964,33 +978,33 @@ De acuerdo a la Ley Orgánica para la Protección del Niño, Niña y Adolescente
 
  Otro:
 
-- Explique. Se pueden añadir breves datos cuantitativos.
-
-#### 2.3 Educación de adultos y aprendizaje alternativo
-
-A fines de referencia, en el artículo/párrafo 4.c de la Convención y la Recomendación se  establece  el  derecho  a  la  enseñanza  de  adultos  y  el  aprendizaje  alternativo. Mientras que el ODS 4 consiste en 'garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos', en la meta 4.6 se hace un llamamiento específico a los Estados a 'asegurar que todos los jóvenes y  una proporción considerable de los adultos, tanto hombres como mujeres, estén alfabetizad os y tengan nociones elementales de aritmética'. Además, en el marco de la meta 4.4, se insta a los Estados a 'aumentar y diversificar las oportunidades de aprendizaje, empleando una amplia gama de modalidades de educación y formación, de tal forma que todos los jóvenes y adultos, en especial las niñas y las mujeres, puedan adquirir conocimientos, aptitudes y competencias pertinentes para el trabajo decente y la vida'.
-
-- Indique las medidas que se han adoptado para establecer un sistema de educación permanente  y  ofrecer  un  acceso  equitativo  a  las  oportunidades  de  aprendizaje  y formación ( marque todos los puntos que correspondan ).
-
- X Ofrecer educación para las personas que no hayan cursado o terminado el ciclo completo de enseñanza primaria
-
- X Ofrecer programas de alfabetización
-
- X Ofrecer formación continua (como programas de formación para adquirir conocimientos,  aptitudes,  capacidades  o  competencias  para  el  desarrollo personal y profesional)
-
- X Ofrecer oportunidades de aprendizaje gratuitas
-
- X  Ofrecer  formación  profesional,  incluidos  programas  de  reconversión  y perfeccionamiento profesionales
-
- X Reconocer, validar y certificar el aprendizaje no formal e informal
-
- X Ofrecer orientación profesional y asesoramiento gratuitos
-
  Resultados del aprendizaje mediocres
 
  Poca preparación de los graduados de primaria
 
  Escaso número de docentes que han recibido formación profesional
+
+- Explique. Se pueden añadir breves datos cuantitativos.
+
+#### 2.3 Educación de adultos y aprendizaje alternativo
+
+A fines de referencia, en el artículo/párrafo 4.c de la Convención y la Recomendación se establece el derecho a la enseñanza de adultos y el aprendizaje alternativo. Mientras que el ODS 4 consiste en 'garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos', en la meta 4.6 se hace un llamamiento específico a los Estados a 'asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres como mujeres, estén alfabetizados y tengan nociones elementales de aritmética'. Además, en el marco de la meta 4.4, se insta a los Estados a 'aumentar y diversificar las oportunidades de aprendizaje, empleando una amplia gama de modalidades de educación y formación, de tal forma que todos los jóvenes y adultos, en especial las niñas y las mujeres, puedan adquirir conocimientos, aptitudes y competencias pertinentes para el trabajo decente y la vida'.
+
+- Indique las medidas que se han adoptado para establecer un sistema de educación permanente y ofrecer un acceso equitativo a las oportunidades de aprendizaje y formación (marque todos los puntos que correspondan).
+
+ X Ofrecer educación para las personas que no hayan cursado o terminado el ciclo completo de enseñanza primaria
+
+ X Ofrecer programas de alfabetización
+
+ X Ofrecer formación continua (como programas de formación para adquirir conocimientos, aptitudes, capacidades o competencias para el desarrollo personal y profesional)
+
+ X Ofrecer oportunidades de aprendizaje gratuitas
+
+ X Ofrecer formación profesional, incluidos programas de reconversión y perfeccionamiento profesionales
+
+ X Reconocer, validar y certificar el aprendizaje no formal e informal
+
+ X Ofrecer orientación profesional y asesoramiento gratuitos
 
 [[END OF PAGE 31]]
 
@@ -1068,9 +1082,7 @@ Puede incluir información sobre políticas, protocolos o códigos de conducta.
 
 [[START OF PAGE 34]]
 
- Entornos de aprendizaje estimulantes o inadecuados
-
-poco
+ Entornos de aprendizaje poco estimulantes o inadecuados
 
  Violencia en las escuelas
 
@@ -1124,13 +1136,13 @@ A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recom
 
 De acuerdo con los establecido en el articulado que constituye el decreto Nº 3.651 de fecha 1°  de  noviembre  de  2018,  mediante el  cual  se  crea  la  Universidad  Nacional Experimental  del  Magisterio  "Samuel  Robinson"  (UNEM),  publicado  en  la  Gaceta Oficial de la República Bolivariana de Venezuela N° 41.515 de esa misma fecha.
 
-L a  Universidad Nacional Experimental del Magisterio 'Samuel Robinson' desarrolla programas de formación inicial y permanente de las y los docentes, así como procesos de construcción y socialización de conocimientos socioeducativos.
+La Universidad Nacional Experimental del Magisterio 'Samuel Robinson' desarrolla programas de formación inicial y permanente de las y los docentes, así como procesos de construcción y socialización de conocimientos socioeducativos.
 
 En el proyecto pedagógico que impulsa la UNEM el rol del estudiante, quien es un trabajador de la educación, se diversifica. Ya no es solo el que aprende sino el que brinda, comparte e integra sus experiencias y saberes con el resto de los involucrados en el proceso educativo. Éste debe involucrarse activamente a la comunidad y por ende a prácticas pedagógicas, investigativas, de interacción social y de producción transformadoras desde el inicio del proceso de formación; asumiendo la responsabilidad de su proceso de aprendizaje con valores y aptitudes para el trabajo colaborativo, crítico, reflexivo, que le permita evaluar sus logros y dificultades.
 
 Los Programas Nacionales de Formación y de Formación Avanzada se estructuran sobre las siguientes características:
 
-- Pertinencia socio-académica; b) Formación integral; c) Constitución de redes; d) Articulación extra-académica; e) Investigación como centro de la formación.
+a) Pertinencia socio-académica; b) Formación integral; c) Constitución de redes; d) Articulación extra-académica; e) Investigación como centro de la formación.
 
 ¿Con qué dificultades ha tropezado el personal docente?
 
@@ -1158,9 +1170,7 @@ El Gobierno nacional ha ofrecido grandes oportunidades de estudio a los jóvenes
 
 A fines de referencia, en el artículo/párrafo 5.1.a de la Convención y la Recomendación  se  hace  referencia  al  respeto  de  los  derechos  humanos  y  las libertades fundamentales. Este aspecto se abarca en la meta 4.7 44  de los ODS. Tenga en cuenta que esta sección contribuye al seguimiento general del artículo/párrafo 5.1.a de  la  Convención  y  la  Recomendación  y  que  la  consulta  futura  dedicada  a  la Recomendación sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales  y  la  Educación  relativa  a  los  Derechos  Humanos  y  las  Libertades Fundamentales (1974) // Recomendación sobre [...] (2023) se utilizará específicamente para el seguimiento del indicador 4.7.1 del ODS 4 .
 
-- Indique  las  iniciativas  nacionales  que  se  han  emprendido  para  hacer  que  la educación tienda al pleno desenvolvimiento de la personalidad humana y reforzar el respeto de los derechos humanos y las libertades fundamentales ( marque todos los puntos que correspondan ).
-
-- Proporcione detalles sobre cada una de las medidas adoptadas.
+- Indique las iniciativas nacionales que se han emprendido para hacer que la educación tienda al pleno desenvolvimiento de la personalidad humana y reforzar el respeto de los derechos humanos y las libertades fundamentales (marque todos los puntos que correspondan).
 
  X El plan de estudio incluye la educación en materia de derechos humanos
 
@@ -1168,7 +1178,9 @@ A fines de referencia, en el artículo/párrafo 5.1.a de la Convención y la Rec
 
  Otro:
 
-La Brigada José Leonardo Chirino basada en la organización  estudiantil: tiene el objetivo de generar  espacio de interacción y reflexión  en la relación estudiante, familia, escuela y comunidad desde las prácticas pedagógicas cimarronas, el amor, el ejemplo y la curiosidad, a fin de generar acciones transformadoras basadas en una conducta de la ética  y el  respeto  contribuyendo  a  la  reinvindicación    de  los derechos humanos universales y fundamentales en contra del racismo, endorracismo, la xenofobia,  la vergüenza étnica  y toda forma de discriminación racial  para el reconocimiento y desarrollo  de los pueblos y comunidades indígenas, afrodescendientes y de la diversidad étnica cultural en Venezuela .
+- Proporcione detalles sobre cada una de las medidas adoptadas.
+
+La Brigada José Leonardo Chirino basada en la organización estudiantil: tiene el objetivo de generar espacio de interacción y reflexión en la relación estudiante, familia, escuela y comunidad desde las prácticas pedagógicas cimarronas, el amor, el ejemplo y la curiosidad, a fin de generar acciones transformadoras basadas en una conducta de la ética y el respeto contribuyendo a la reinvindicación de los derechos humanos universales y fundamentales en contra del racismo, endorracismo, la xenofobia, la vergüenza étnica y toda forma de discriminación racial para el reconocimiento y desarrollo de los pueblos y comunidades indígenas, afrodescendientes y de la diversidad étnica cultural en Venezuela .
 
 > 44 En la que se insta a los Estados a 'asegurar que todos los alumnos adquieran los conocimientos teóricos  y  prácticos  necesarios  para  promover  el  desarrollo  sostenible,  entre  otras  cosas  mediante  la educación para el desarrollo sostenible y los estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible'.
 
@@ -1200,13 +1212,9 @@ El Estado venezolano establece la educación laica como principio de religiosida
 
  X Control e inspecciones estatales
 
-45
+> 45 Privada, confesional o gestionada por ONG o agentes comunitarios.
 
-46
-
-Privada, confesional o gestionada por ONG o agentes comunitarios.
-
-Véase el artículo/párrafo 1.1.
+> 46 Véase el artículo/párrafo 1.1.
 
 [[END OF PAGE 37]]
 
@@ -1310,9 +1318,7 @@ En este sentido, se cuenta con la plataforma 'Edúcate en Venezuela' destinada a
 
  Un desarrollo de competencias digitales insuficiente  para  que  las  tecnologías
 
-48
-
-Falta de conexión a Internet, infraestructura básica o dispositivos.
+> 48 Falta de conexión a Internet, infraestructura básica o dispositivos.
 
 [[END OF PAGE 40]]
 
