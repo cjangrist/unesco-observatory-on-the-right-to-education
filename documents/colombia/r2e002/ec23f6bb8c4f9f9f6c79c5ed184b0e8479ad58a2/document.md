@@ -45,13 +45,13 @@ De conformidad con el artículo 67 de la Constitución Política, la educación 
 
 - La formación en el respeto a la vida y a los demás derechos humanos, a la paz, a los principios democráticos, de convivencia, pluralismo, justicia, solidaridad y equidad, así como en el ejercicio de la tolerancia y de la libertad.
 
-- La  formación  para  facilitar  la  participación  de  todos  en  las  decisiones  que  los  afectan  en  la  vi da económica, política, administrativa y cultural de la Nación.
+- La formación para facilitar la participación de todos en las decisiones que los afectan en la vida económica, política, administrativa y cultural de la Nación.
 
 - La formación en el respeto a la autoridad legítima y a la ley, a la cultura nacional, a la historia colombiana y a los símbolos patrios.
 
 - La  adquisición  y  generación  de  los  conocimientos  científicos  y  técnicos  más  avanzados,  humanísticos, históricos, sociales, geográficos y estéticos, mediante la apropiación de hábitos intelectuales adecuados para el desarrollo del saber.
 
-- El  estudio  y  la  comprensión  crítica  de  la  cultura  nacional  y  d e la diversidad étnica y cultural del país, como fundamento de la unidad nacional y de su identidad.
+- El estudio y la comprensión crítica de la cultura nacional y de la diversidad étnica y cultural del país, como fundamento de la unidad nacional y de su identidad.
 
 - El  acceso  al  conocimiento,  la  ciencia,  la  técnica  y  demás  bienes  y  valores  de  la  cultura,  el  fomento  de  la investigación y el estímulo a la creación artística en sus diferentes manifestaciones.
 
@@ -150,7 +150,7 @@ Es objetivo primordial de todos y cada uno de los niveles educativos el desarrol
 
 - Fomentar en la institución educativa, prácticas democráticas para el aprendizaje de los principios y valores de la participación y organización ciudadana y estimular la autonomía y la responsabilidad;
 
-- Desarrollar una sana sexualidad que promueva el conocimiento de sí mismo y la autoestima, la construcción de la  identidad sexual dentro del respeto por la equidad de los sexos, la afectividad, el respeto mutuo y prepararse para una v ida familiar armónica y responsable;
+- Desarrollar una sana sexualidad que promueva el conocimiento de sí mismo y la autoestima, la construcción de la identidad sexual dentro del respeto por la equidad de los sexos, la afectividad, el respeto mutuo y prepararse para una vida familiar armónica y responsable;
 
 - Crear y fomentar una conciencia de solidaridad internacional;
 
@@ -197,7 +197,7 @@ Son objetivos específicos del nivel preescolar:
 
 - El desarrollo de la creatividad, las habilidades y destrezas propias de la edad, como también de su capacidad de aprendizaje; d) La ubicación espacio-temporal y el ejercicio de la memoria;
 
-- El  desarrollo  de  la  c apacidad  para  adquirir  formas  de  expresión,  relación  y  comunicación  y  para  establecer relaciones de reciprocidad y participación, de acuerdo con normas de respeto, solidaridad y convivencia;
+- El desarrollo de la capacidad para adquirir formas de expresión, relación y comunicación y para establecer relaciones de reciprocidad y participación, de acuerdo con normas de respeto, solidaridad y convivencia;
 
 - La participación en actividades lúdicas con otros niños y adultos;
 
@@ -252,7 +252,7 @@ Los cinco (5) primeros grados de la educación básica que constituyen el ciclo 
 
 - El fomento del deseo de saber, de la iniciativa personal frente al conocimiento y frente a la realidad social, así como del espíritu crítico;
 
-- El  desarrollo  de  las  h abilidades  comunicativas  básicas  para  leer,  comprender,  escribir,  escuchar,  hablar  y expresarse correctamente en lengua castellana y también en la lengua materna, en el caso de los grupos étnicos con tradición lingüística propia, así como el fomento de la afición por la lectura;
+- El desarrollo de las habilidades comunicativas básicas para leer, comprender, escribir, escuchar, hablar y expresarse correctamente en lengua castellana y también en la lengua materna, en el caso de los grupos étnicos con tradición lingüística propia, así como el fomento de la afición por la lectura;
 
 - El desarrollo de la capacidad para apreciar y utilizar la lengua como medio de expresión estética;
 
@@ -359,7 +359,7 @@ La formación ética y moral se promoverá en el establecimiento educativo a  tr
 ##### ARTICULO 26. Servicio especial de educación laboral.
 El estudiante que haya cursado o validado todos los grados de la  educación básica, podrá acceder al servicio especial de educación laboral proporcionado por instituciones educativas  o  instituciones  de  capacitación  laboral,  en  donde  podrá  obtener  el  título  en  el  arte  u  oficio  o  el certificado de aptitud ocupacional correspondiente.
 
-El Gobierno Nacional reglamentará lo relativo a la organización y funcionamiento de este servicio que será prestado pro el Estado y por los particulares.
+El Gobierno Nacional reglamentará lo relativo a la organización y funcionamiento de este servicio que será prestado por el Estado y por los particulares.
 
 PARAGRAFO. El Ministerio de Educación Nacional en coordinación con el Instituto Colombiano para el Fomento de la Educación Superior, Icfes, el Servicio Nacional de Aprendizaje, SENA y el sector productivo, establecerá un Sistema  de  Información  y  Orientación  Profesional  y  Ocupacional  que  contribuya  a  la  racionalización  en  la formación de los recursos humanos, según los requerimientos del desarrollo nacional y regional.
 
@@ -426,7 +426,7 @@ Son objetivos específicos de la educación media técnica:
 De conformidad con lo dispuesto en el artículo 138 de esta Ley, la educación media podrá ofrecerse en los mismos establecimientos que imparten educación básica o en  establecimientos  específicamente  aprobados  para  tal  fin,  según  normas  que  establezca  el  Ministerio  de Educación Nacional.
 
 ##### ARTICULO 35. Articulación con la educación superior.
-Al nivel de educación media sigue el nivel de la Educación Superior,  el  cual  se  r egula por la Ley 30 de 1992 y las normas que la modifiquen, adicionen o sustituyan. Este último nivel se clasifica así:
+Al nivel de educación media sigue el nivel de la Educación Superior, el cual se regula por la Ley 30 de 1992 y las normas que la modifiquen, adicionen o sustituyan. Este último nivel se clasifica así:
 
 - Instituciones técnicas profesionales;
 
@@ -457,11 +457,11 @@ Para la  validación  de  niveles  y  grados  de  la  educación  formal,  el  G
 Los estudios que se realicen en las instituciones de educación  no  formal  que  según  la  reglamentación  del  Gobierno  Nacional  lo  ameriten,  serán  reconocidos  para efectos de pago del subsidio familiar, conforme a las normas vigentes.
 
 ##### ARTICULO 40. Programas de educación no formal  a  microempresas.
-El  Plan  Nacional  para  el  desarrollo  de  la microempresa será el encargado de aprobar los programas de capacitación y asesoría a las microempresas, al igual que los programa de apoyo microempresarial.
+El Plan Nacional para el desarrollo de la microempresa será el encargado de aprobar los programas de capacitación y asesoría a las microempresas, al igual que los programas de apoyo microempresarial.
 
 Las  instituciones  capacitadoras  aprobadas  para  adelantar estos programas tendrán carácter de instituciones de educación no formal.
 
-EL Ministerio de Educación Nacional formará parte de las directivas del plan.
+El Ministerio de Educación Nacional formará parte de las directivas del plan.
 
 ##### ARTICULO  41.  Fomento  de  la  educación  no  formal.
 El  Estado  apoyará  y  fomentará  la  educación  no  formal, brindará oportunidades para ingresar a ella y ejercerá un permanente control para que se ofrezcan programas de calidad.
@@ -474,17 +474,18 @@ PARAGRAFO. El tiempo de servicio que presten los docentes en los Centros de Educ
 ### CAPITULO 3
 
 Educación informal
-##### ARTICULO  43.  Definición  de  educación  informal.
-Se  considera  educación  informal  todo  conocimiento  libre  y espontáneamente  adquirido,  proveniente  de  personas,  entidades,  medios  masivos  de  comunicación,  medios impresos, tradiciones, costumbres, comportamientos sociales y otros no estructurados.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-##### ARTICULO 44. Misión de Ios medios de comunicación social.
+##### ARTICULO 43. Definición de educación informal.
+Se considera educación informal todo conocimiento libre y espontáneamente adquirido, proveniente de personas, entidades, medios masivos de comunicación, medios impresos, tradiciones, costumbres, comportamientos sociales y otros no estructurados.
+
+##### ARTICULO 44. Misión de los medios de comunicación social.
 El Gobierno Nacional fomentará la participación de los medios de comunicación e información en los procesos de educación permanente y de difusión de la cultura, de acuerdo con los principios y fines de la educación definidos en la presente Ley, sin perjuicio de la libertad de prensa y de la libertad de expresión e información.
 
-Así  mismo,  adoptará  mecanismos  y  estímulos  que  permitan  la  adecuada  y  eficaz  utilización  de  los  medios  de comunicación masivos corno contribución al mejoramiento de la educación de los colombianos.
+Así mismo, adoptará mecanismos y estímulos que permitan la adecuada y eficaz utilización de los medios de comunicación masivos como contribución al mejoramiento de la educación de los colombianos.
 
 ##### ARTICULO 45. Sistema Nacional de Educación Masiva.
 Créase el Sistema Nacional de Educación Masiva con el fin de satisfacer la demanda de educación continuada, de validación para la educación formal y de difusión artística y cultural. El programa se ejecutará con el uso de medios electrónicos de comunicación o transmisión de datos, tales como la radiodifusión, la televisión, la telemática o cualquier otro que utilice el espectro electromagnético.
@@ -513,11 +514,13 @@ PARAGRAFO PRIMERO. Los Gobiernos Nacional y de las entidades territoriales podr�
 PARAGRAFO SEGUNDO. Las instituciones educativas que en la actualidad ofrecen educación para personas con limitaciones,  la  seguirán  prestando,  adecuándose  y  atendiendo  los  requerimientos  de  la  integración  social  y académica, y desarrollando los programas de apoyo especializado necesarios para la adecuada atención integral de las personas con limitaciones físicas, sensoriales, psíquicas o mentales. Este proceso deberá realizarse en un plazo no mayor de seis (6) años y será requisito esencial para que las instituciones particulares o sin ánimo de lucro puedan contratar con el Estado.
 
 ##### ARTICULO 47. Apoyo y fomento.
-En cumplimiento de lo establecido en los artículos 13 y 68 de la Constitución Política y con sujeción a los planes y programas de desarrollo nacionales y territoriales, el Estado apoyará a las instituciones  y  fomentará  programas  y  experiencias  orientadas  a  la  adecuada  atención  educativa  de  aquellas personas a que se refiere el artículo 46 de esta Ley.
+En cumplimiento de lo establecido en los artículos 13 y 68 de la Constitución Política y con sujeción a los planes y programas de desarrollo nacionales y territoriales, el Estado apoyará a las
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+instituciones y fomentará programas y experiencias orientadas a la adecuada atención educativa de aquellas personas a que se refiere el artículo 46 de esta Ley.
 
 Igualmente fomentará programas y experiencias para la formación de docentes idóneos con este mismo fin.
 
@@ -558,14 +561,16 @@ El Estado ofrecerá a los adultos la posibilidad de validar la educación básic
 
 Las instituciones educativas autorizadas podrán reconocer y validar los conocimientos, experiencias y prácticas de los  adultos,  sin  la  exigencia  de  haber  cursado  determinado  grado  de  escolaridad  formal,  o  los  programas  de educación  no  formal  del  arte  u  oficio  de  que  se  trate,  cumpliendo  los  requisitos  que  para  tal  fin  establezca  el Gobierno Nacional, y con sujeción a la Ley 30 de 1992, o las normas que la modifiquen, adicionen o sustituyan.
 
-##### ARTICULO 53. Programas semipresenciales  para  adultos.
-Los  establecimientos  educativos  de  acuerdo  con  su Proyecto Educativo Institucional, podrán ofrecer programas semipresenciales de educación formal o de educación no  formal  de  carácter  especial,  en  jornada  nocturna,  dirigidos  a  personas  adultas,  con  propósitos  laborales.  El Gobierno Nacional reglamentará tales programas.
+##### ARTICULO 53. Programas semipresenciales para adultos.
+Los establecimientos educativos de acuerdo con su Proyecto Educativo Institucional, podrán ofrecer programas semipresenciales de educación formal o de educación
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-##### ARTICULO 54.  Fomento  a  la  educación  no  formal  para adultos.
+no formal de carácter especial, en jornada nocturna, dirigidos a personas adultas, con propósitos laborales. El Gobierno Nacional reglamentará tales programas.
+
+##### ARTICULO 54. Fomento a la educación no formal para adultos.
 El Ministerio de Educación Nacional fomentará programas no formales de educación de adultos, en coordinación con diferentes entidades estatales y privadas, en particular los dirigidos al sector rural y a las zonas marginadas o de difícil acceso.
 
 Los  Gobiernos  Nacional  y  de  las  entidades  territoriales  fomentarán  la  educación  para  grupos  sociales  con carencias y necesidades de formación básica, de conformidad con lo establecido en el artículo 8° de la Ley 60 de 1993. Lo harán con recursos de sus respectivos presupuestos y a través de contratos con entidades privadas sin ánimo de lucro y de reconocida idoneidad.
@@ -591,7 +596,7 @@ En sus respectivos territorios, la enseñanza de los grupos étnicos con tradici
 El Estado promoverá y fomentará la formación de educadores  en  el  dominio  de  las  culturas  y  lenguas  de  los  grupos  étnicos,  así  como  programas  sociales  de difusión de las mismas.
 
 ##### ARTICULO 59. Asesorías especializadas.
-El Gobierno Nacional a través del Ministerio de Educación Nacional y en concertación con los grupos étnicos prestará asesoría especializada en el desarrollo curricular, en la elaboración de textos y materiales educativos y en la ejecución de programas de investigación y capacitación etnolinguística.
+El Gobierno Nacional a través del Ministerio de Educación Nacional y en concertación con los grupos étnicos prestará asesoría especializada en el desarrollo curricular, en la elaboración de textos y materiales educativos y en la ejecución de programas de investigación y capacitación etnolingüística.
 
 ##### ARTICULO 60. Intervención de organismos internacionales.
 No podrá haber injerencia de organismos internacionales,  públicos  o  privados  en  la  educación  de  los  grupos  étnicos,  sin  la  aprobación  del  Ministerio  de Educación Nacional y sin el consentimiento de las comunidades interesadas.
@@ -600,11 +605,13 @@ No podrá haber injerencia de organismos internacionales,  públicos  o  privado
 Las organizaciones de los grupos étnicos que al momento de entrar en vigencia esta Ley se encuentren desarrollando programas o proyectos educativos, podrán continuar dicha  labor  directamente  o  mediante  convenio  con  el  gobierno  respectivo,  en  todo  caso  ajustados  a  los  planes educativos regionales y locales.
 
 ##### ARTICULO 62. Selección de educadores.
-Las autoridades competentes, en concertación con los grupos étnicos, seleccionarán  a  los  educadores  que  laboren  en  sus  territorios,  preferiblemente,  entre  los  miembros  de  las comunidades  en  ellas  radicados.  Dichos  educadores  deberán  acreditar  formación  en  etnoeducación,  poseer conocimientos básicos del respectivo grupo étnico, en especial de su lengua materna, además del castellano.
+Las autoridades competentes, en concertación con los grupos étnicos, seleccionarán a los educadores que laboren en sus territorios, preferiblemente, entre los miembros de las
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+comunidades en ellas radicados. Dichos educadores deberán acreditar formación en etnoeducación, poseer conocimientos básicos del respectivo grupo étnico, en especial de su lengua materna, además del castellano.
 
 La vinculación, administración y formación de docentes para los grupos étnicos se efectuará de conformidad con el estatuto docente y con las normas especiales vigentes aplicables a tales grupos.
 
@@ -668,7 +675,9 @@ Normas generales
 ##### ARTICULO 72. Plan Nacional de Desarrollo Educativo.
 El Ministerio de Educación Nacional, en coordinación con las  entidades territoriales, preparará por lo menos cada diez (10) años el Plan Nacional de Desarrollo Educativo que incluirá las acciones correspondientes para dar cumplimiento a los mandatos constitucionales y legales sobre la prestación del servicio educativo.
 
-Este  Plan  tendrá  carácter  indicativo,  será  evaluado,  revi sado  permanentemente  y  considerado  en  los  planes nacionales y territoriales de desarrollo. PARAGRAFO. El primer Plan decenal será elaborado en el término de dos (2) años a partir de la promulgación de la presente Ley, cubrirá el período de 1996 a 2005 e incluirá lo pertinente para que se cumplan los requisitos de calidad y cobertura.
+Este Plan tendrá carácter indicativo, será evaluado, revisado permanentemente y considerado en los planes nacionales y territoriales de desarrollo.
+
+PARAGRAFO. El primer Plan decenal será elaborado en el término de dos (2) años a partir de la promulgación de la presente Ley, cubrirá el período de 1996 a 2005 e incluirá lo pertinente para que se cumplan los requisitos de calidad y cobertura.
 ##### ARTICULO  73.  Proyecto  educativo  institucional.
 Con  el  fin  de  lograr  la  formación  integral  del  educando,  cada
 
@@ -709,7 +718,7 @@ PARAGRAFO.  Las  Secretarías  de  Educación  departamentales  o  distritales  
 ##### ARTICULO 78. Regulación del currículo.
 El Ministerio de Educación Nacional diseñará los lineamientos generales de los procesos curriculares y, en la educación formal establecerá los indicadores de logros para cada grado de los niveles educativos, tal como lo fija el artículo 148 de la presente ley.
 
-Los  establecimientos  educativos,  de  conformidad  con  las  d isposiciones  vigentes  y  con  su  Proyecto  Educativo Institucional, atendiendo los lineamientos a que se refiere el inciso primero de este artículo, establecerán su plan de estudios particular que determine los objetivos por niveles, grados y áreas, la metodología, la distribución del tiempo y los criterios de evaluación y administración.
+Los establecimientos educativos, de conformidad con las disposiciones vigentes y con su Proyecto Educativo Institucional, atendiendo los lineamientos a que se refiere el inciso primero de este artículo, establecerán su plan de estudios particular que determine los objetivos por niveles, grados y áreas, la metodología, la distribución del tiempo y los criterios de evaluación y administración.
 
 Cuando  haya  cambios  significativos  en  el  currículo,  el  rector  de  la  institución  educativa  oficial  o  privada  lo presentará a la Secretaría de Educación Departamental o Distrital o a los organismos que hagan sus veces, para que ésta verifique el cumplimiento de los requisitos establecidos en la presente ley.
 
@@ -729,7 +738,7 @@ Evaluación
 ##### ARTICULO  80.  Evaluación  de  la  educación.
 De  conformidad  con  el  artículo  67  de  la  Constitución  Política,  el Ministerio  de  Educación  Nacional,  con  el  fin  de  velar  por  la  calidad,  por  el  cumplimiento  de  los  fines  de  la educación y por la mejor formación moral, intelectual y física de los educandos, establecerá un Sistema Nacional de  Evaluación  de  la  Educación  que  opere  en  coordinación  con  el  Servicio  Nacional  de  Pruebas  del  Instituto Colombiano para el Fomento de la Educación Superior, ICFES, y con las entidades territoriales y sea base para el establecimiento de programas de mejoramiento del servicio público educativo.
 
-El Sistema diseñará y aplicará criterios y procedimientos para evaluar la calidad de la enseñanza que se imparte, el  desempeño profesional del docente y de los docente directivos, los logros de los alumnos, la eficacia de los métodos  pedagógicos,  de  los  textos  y  materiales  empleados,  la  organización  administrativa  y  física  de  las instituciones educativas y la eficiencia de la prestación del servicio.
+El Sistema diseñará y aplicará criterios y procedimientos para evaluar la calidad de la enseñanza que se imparte, el desempeño profesional del docente y de los docentes directivos, los logros de los alumnos, la eficacia de los métodos pedagógicos, de los textos y materiales empleados, la organización administrativa y física de las instituciones educativas y la eficiencia de la prestación del servicio.
 
 Las  instituciones  que  presenten  resultados  deficientes  deben  recibir  apoyo  para  mejorar  los  procesos  y  la prestación del servicio. Aquéllas cuyas deficiencias se deriven de factores internos que impliquen negligencias y/o responsabilidad darán lugar a sanciones por parte de la autoridad administrativa competente.
 
@@ -779,7 +788,7 @@ Los calendarios académicos tendrán la flexibilidad necesaria para  adaptarse  
 
 La educación básica (primaria y secundaria) y media comprende un mínimo de horas efectivas de clase al año, según el reglamento que expida el Ministerio de Educación Nacional.
 
-PARAGRAFO. El Ministerio de Educación Nacional, dentro del plazo máximo de cinco (5) años, reglamentará los calendarios académicos de tal manera que contemplen dos (2) períodos vocacionales uniformes que amplíen las posibilidades  de  formación  integral  escolarizada  o  desescolarizada  y,  además  faciliten  el  aprovechamiento  del tiempo libre y la recreación en familia.
+PARAGRAFO. El Ministerio de Educación Nacional, dentro del plazo máximo de cinco (5) años, reglamentará los calendarios académicos de tal manera que contemplen dos (2) períodos vacacionales uniformes que amplíen las posibilidades de formación integral escolarizada o desescolarizada y, además faciliten el aprovechamiento del tiempo libre y la recreación en familia.
 
 ##### ARTICULO 87. Reglamento o manual de convivencia.
 Los establecimientos educativos tendrán un reglamento o manual de convivencia, en el cual se definan los derechos y obligaciones, de los estudiantes. Los padres o tutores y  los  educandos  al  firmar  la  matrícula  correspondiente  en  representación  de  sus  hijos,  estarán  aceptando  el mismo.
@@ -811,9 +820,9 @@ Formación y capacitación
 El alumno o educando es el centro del proceso educativo y debe participar activamente en su propia formación integral. El Proyecto Educativo Institucional reconocerá este carácter.
 
 ##### ARTICULO 92.  Formación  del  educando.
-La  educación  debe  f avorecer el pleno desarrollo de la personalidad del educando, dar acceso a la cultura, al logro del conocimiento científico y técnico y a la formación de valores éticos, estéticos, morales, ciudadanos y religiosos, que le faciliten la realización de una actividad útil para el desarrollo socioeconómico del país.
+La educación debe favorecer el pleno desarrollo de la personalidad del educando, dar acceso a la cultura, al logro del conocimiento científico y técnico y a la formación de valores éticos, estéticos, morales, ciudadanos y religiosos, que le faciliten la realización de una actividad útil para el desarrollo socioeconómico del país.
 
-Los establecimientos educativos incorporarán en el Proyecto Educativo Institucional acciones pedagógicas para favorecer el desarrollo equilibrado y armónico de las habilidades de los educandos, en e special las capacidades para la toma de decisiones, la adquisición de criterios, el trabajo en equipo, la administración eficiente del tiempo, la asunción de responsabilidades, la solución de conflictos y problemas y las habilidades para la comunicación, la negociación y la participación.
+Los establecimientos educativos incorporarán en el Proyecto Educativo Institucional acciones pedagógicas para favorecer el desarrollo equilibrado y armónico de las habilidades de los educandos, en especial las capacidades para la toma de decisiones, la adquisición de criterios, el trabajo en equipo, la administración eficiente del tiempo, la asunción de responsabilidades, la solución de conflictos y problemas y las habilidades para la comunicación, la negociación y la participación.
 
 ##### ARTICULO  93.  Representante  de  los  estudiantes.
 En  los  Consejos  Directivos  de  los  establecimientos  de educación básica y media del Estado habrá un representante de los estudiantes de los tres (3) últimos grados, escogido por ellos mismos, de acuerdo con el reglamento de cada institución.
@@ -829,7 +838,7 @@ El personero de los estudiantes tendrá las siguientes funciones:
 
 - Presentar ante el rector del establecimiento las solicitudes que considere necesarias para proteger los derechos de los estudiantes y facilitar el cumplimiento de sus deberes.
 
-PARAGRAFO. Las decisiones  respecto  a  las  solicitudes  del  personero  de  los  estudiantes  serán  resueltas  en última instancia por el Consejo directivo el organismo que haga las veces de suprema  autoridad del establecimiento.
+PARAGRAFO. Las decisiones respecto a las solicitudes del personero de los estudiantes serán resueltas en última instancia por el Consejo directivo o el organismo que haga las veces de suprema autoridad del establecimiento.
 
 ##### ARTICULO 95. Matrícula.
 La matrícula es el acto que formaliza la vinculación del educando al servicio educativo. Se  realizará  por  una  sola  vez,  al  ingresar  el  alumno  a  un  establecimiento  educativo,  pudiéndose  establecer renovaciones para cada período académico.
@@ -844,7 +853,7 @@ El  reglamento  interno  de  la  institución  educativa establecerá las condic
 La reprobación por primera vez de un determinado grado por parte del alumno, no será causal de exclusión del respectivo establecimiento, cuando no esté asociada a otra causal expresamente contemplada en el reglamento institucional o manual de convivencia.
 
 ##### ARTICULO  97.  Servicio  social  obligatorio.
-Los  estudiantes  de  educación  media  prestarán  un  servicio  social obligatorio  durante  los  dos  (2)  grados  de  estudios,  de  acuerdo  c on  la  reglamentación  que  expida  el  Gobierno Nacional.
+Los estudiantes de educación media prestarán un servicio social obligatorio durante los dos (2) grados de estudios, de acuerdo con la reglamentación que expida el Gobierno Nacional.
 
 ### CAPITULO 2°
 
@@ -857,8 +866,8 @@ A los cincuenta (50) estudiantes del último grado de educación media que anual
 ##### ARTICULO 100. Seguro de salud estudiantil.
 Los estudiantes que no se hallen amparados por algún sistema de seguridad  social,  en  todos  los  niveles  de  la  educación  formal,  estarán  protegidos  por  un  seguro  colectivo  que ampare su estado físico, en caso de accidente. El Gobierno Nacional reglamentará lo relacionado con la gradualidad en los aportes correspondientes y presentará un plan para lograr la paulatina cobertura.
 ##### ARTICULO 101. Premio al rendimiento estudiantil.
-Los estudiantes de las instituciones educativas estatales que obtengan  en  c ada  grado  los  dos  primeros  lugares  en  rendimiento  académico,  serán  exonerados  del  pago  de matrículas y pensiones correspondientes al siguiente grado.
-##### articulo  102.  Textos  y  materiales  educativos.
+Los estudiantes de las instituciones educativas estatales que obtengan en cada grado los dos primeros lugares en rendimiento académico, serán exonerados del pago de matrículas y pensiones correspondientes al siguiente grado.
+##### ARTICULO 102. Textos y materiales educativos.
 El  Gobierno  Nacional  a  partir  de  1995,  destinará  anualmente  para textos y materiales o equipos educativos para uso de los estudiantes de las instituciones educativas del Estado o contratadas por éste, un monto no menor a la cantidad resultante de multiplicar el equivalente a un salario mínimo legal mensual, por el número total de los educadores oficiales. Estos recursos serán administrados por el fondo de Inversión Social, FIS, por el sistema de cofinanciación con las entidades  territoriales  a  cuyo  cargo  esté  la  prestación  del  servicio  público  educativo,  de  conformidad  con  el reglamento que para el efecto expida el Gobierno Nacional. Los textos escolares que se adquieran, deberán ser definidos de acuerdo con el Proyecto Educativo Institucional y
 
 harán parte de la biblioteca del respectivo establecimiento.
@@ -898,7 +907,7 @@ Unicamente podrán ser nombrados como educadores o funcionarios administrativos 
 
 Los concursos para nombramientos de nuevos docentes serán convocados por los departamentos o distritos; los educadores podrán inscribirse en la entidad territorial convocante y como resultado del proceso saldrá una lista de elegibles,  la  cual  corresponderá  al  número  de  plazas  o  cupos  para  proveer  en  cada  municipio.  El  Ministerio  de Educación  Nacional,  por  intermedio  del Instituto Colombiano para el Fomento de la Educación Superior, ICFES, establecerá un sistema para celebrar los concursos, de tal manera que se asegure la total imparcialidad.
 
-PARAGRAFO PRIMERO. Al personal actualmente vinculado se le respetará la estabilidad laboral y en el caso de bachilleres no escalafonados, tendrán derechos a incorporarse al Escalafón Nacional Docente siempre y cuando llenen  los  requisitos  respectivos,  en  un  plazo  no  mayor  de  dos  (2)  años.  Si  transcurrido  este  plazo  no  se  han escalafonado, serán desvinculados del servicio educativo, salvo los bachilleres que se encuentren prestando sus servicios  docentes  en  zonas  de  difícil  acceso  y  en  proceso  de  profesionalización  comprobado,  en  cuyo  caso contarán con dos años adicionales para tal efecto.
+PARAGRAFO PRIMERO. Al personal actualmente vinculado se le respetará la estabilidad laboral y en el caso de bachilleres no escalafonados, tendrán derecho a incorporarse al Escalafón Nacional Docente siempre y cuando llenen los requisitos respectivos, en un plazo no mayor de dos (2) años. Si transcurrido este plazo no se han escalafonado, serán desvinculados del servicio educativo, salvo los bachilleres que se encuentren prestando sus servicios docentes en zonas de difícil acceso y en proceso de profesionalización comprobado, en cuyo caso contarán con dos años adicionales para tal efecto.
 
 PARAGRAFO SEGUNDO. Los educadores de los servicios educativos estatales tienen el carácter de servidores públicos de régimen especial.
 
@@ -961,7 +970,7 @@ PARAGRAFO. Las escuelas normales debidamente reestructuradas y aprobadas, están
 Con el fin de mantener un mejoramiento continuo de la  calidad  de  los  docentes,  todo  programa  de  formación  de  docentes  debe  estar  acreditado  en  forma  previa,  de acuerdo  con  las  disposiciones  que  fije  el  Consejo  Nacional  de  Educación  Superior,  CESU,  o  el  Ministerio  de Educación Nacional, para el caso de las Normales Superiores.
 
 ##### ARTICULO 114. Función asesora de las instituciones de formación de educadores.
-Las universidades, los centros de  investigación  y  las  demás  instituciones  q ue  se  ocupan  de  la  formación  de  educadores  cooperarán  con  las Secretarías de Educación, o con los organismos que haga sus veces, las asesorarán en los aspectos científicos y técnicos y presentarán propuestas de políticas educativas al Ministerio de Educación Nacional.
+Las universidades, los centros de investigación y las demás instituciones que se ocupan de la formación de educadores cooperarán con las Secretarías de Educación, o con los organismos que hagan sus veces, las asesorarán en los aspectos científicos y técnicos y presentarán propuestas de políticas educativas al Ministerio de Educación Nacional.
 
 ### CAPITULO 3°
 
@@ -1013,7 +1022,7 @@ La Junta Nacional de Escalafón seguirá funcionando de acuerdo con lo estableci
 
 - Dos (2) representantes de los educadores, designados por la asociación de docentes con personería jurídica que agrupe el mayor número de afiliados, y
 
-- Un  (1)  representante  de  las  asociaciones  de  establecimientos  educativos  privados  c on  personería  jurídica, designado según el procedimiento que establezca el reglamento.
+- Un (1) representante de las asociaciones de establecimientos educativos privados con personería jurídica, designado según el procedimiento que establezca el reglamento.
 
 ##### ARTICULO 121. Oficina de escalafón.
 Las oficinas de escalafón harán parte de la estructura de las secretarías de educación de las entidades territoriales respectivas, o de los organismos que hagan sus veces, de acuerdo con lo establecido en el artículo 14 de la Ley 60 de 1993 y cumplirán las siguientes funciones:
@@ -1052,7 +1061,7 @@ Directivos docentes
 Los educadores que ejerzan  funciones  de  dirección,  de coordinación, de supervisión e inspección, de programación y de asesoría, son directivos docentes.
 
 ##### ARTICULO  127.  Autoridad  nominadora  de  los  directivos  docentes.
-Los  rectores  o  directores,  vicerrectores, coordinadores,  supervisores,  directores  de  núcleo  y  demás  directivos  docentes  de  las  instituciones  educativas estatales a que se refiere el Estatuto Docente, serán nombrados por los gobernadores, los alcaldes de distritos o municipios que hayan asumido dicha competencia, previo concurso convocado por el departamento distrito.
+Los  rectores  o  directores,  vicerrectores, coordinadores,  supervisores,  directores  de  núcleo  y  demás  directivos  docentes  de  las  instituciones  educativas estatales a que se refiere el Estatuto Docente, serán nombrados por los gobernadores, los alcaldes de distritos o municipios que hayan asumido dicha competencia, previo concurso convocado por el departamento o distrito.
 
 ##### ARTICULO 128. Requisitos de los cargos de dirección del sector educativo.
 Los cargos de dirección del sector educativo en las entidades territoriales, serán ejercidos por licenciados o profesionales de reconocida trayectoria en materia educativa.
@@ -1060,7 +1069,7 @@ Los cargos de dirección del sector educativo en las entidades territoriales, se
 El nominador  que  contravenga esta disposición será sancionado disciplinariamente de acuerdo con las disposiciones legales vigentes.
 
 ##### ARTICULO 129. Cargos directivos  docentes.
-Las  entidades  territoriales  que  a suman la prestación directa de los servicios  educativos  estatales  podrán  crear  cargos  directivos  docentes,  siempre  y  cuando  las  instituciones educativas lo requieran, con las siguientes denominaciones:
+Las  entidades  territoriales  que  asuman la prestación directa de los servicios  educativos  estatales  podrán  crear  cargos  directivos  docentes,  siempre  y  cuando  las  instituciones educativas lo requieran, con las siguientes denominaciones:
 
 - Rector o director de establecimiento educativo.
 
@@ -1156,7 +1165,7 @@ El  Gobierno  Nacional  fomentará  con  estímulos  especiales,  la  conformaci
 ##### ARTICULO 141. Biblioteca o infraestructura cultural y deportiva.
 Los establecimientos educativos que ofrezcan el servicio por niveles y grados, contarán con una biblioteca, infraestructura para el desarrollo de actividades artísticas y deportivas y un órgano de difusión de carácter académico.
 
-Los  planes  de  desarrollo  nacionales  y  territoriales,  definirán  para  los  establecimientos  educativos  e statales, las inversiones y plazos en que se deberá hacer efectivo lo dispuesto en este artículo.
+Los  planes  de  desarrollo  nacionales  y  territoriales,  definirán  para  los  establecimientos  educativos  estatales, las inversiones y plazos en que se deberá hacer efectivo lo dispuesto en este artículo.
 
 Los establecimientos educativos privados dispondrán del plazo que para el efecto establezca la respectiva entidad territorial, de acuerdo con los criterios que defina el Gobierno Nacional.
 
@@ -1478,7 +1487,7 @@ conformidad con el artículo 6° de la Ley 60 de 1993, el Estatuto Docente y la 
 
 - Darse su propio reglamento.
 
-##### ARTICULO 159.  Composición  de  la  Junta  Departamental  de  Educación,  June.
+##### ARTICULO 159.  Composición  de  la  Junta  Departamental  de  Educación,  JUDE.
 Las  Juntas  Departamentales  de Educación estarán conformadas por:
 
 - El Gobernador del departamento o su delegado quien la presidirá.
@@ -1575,7 +1584,7 @@ Las Juntas Municipales de Educación estarán conformadas por:
 [[START OF PAGE 38]]
 
 ##### ARTICULO 163. Reglamentación.
-El Gobierno Naciorial reglamentará el funcionamiento de las Juntas creadas en este capítulo, y en especial lo relativo a las inhabilidades e incompatibilidades de sus miembros.
+El Gobierno Nacional reglamentará el funcionamiento de las Juntas creadas en este capítulo, y en especial lo relativo a las inhabilidades e incompatibilidades de sus miembros.
 
 #### SECCION SEGUNDA
 
@@ -1701,7 +1710,7 @@ En estos foros participarán:
 
 - Un  representante  de  los  funcionarios  administrativos  del  servicio  educativo  designado  por  la  organización  que tenga el mayor número de afiliados, y
 
-- Un representante del Comité de Linguística Aborigen.
+- Un representante del Comité de Lingüística Aborigen.
 
 PARAGRAFO. Los miembros de la Junta Nacional de Educación, June, asistirán a este foro por derecho propio. Podrán participar representantes de las organizaciones que tengan relación con la educación a nivel nacional, por invitación de la Junta.
 
@@ -1724,7 +1733,7 @@ En  los  términos  del  artículo  211  de  la  Constitución  Política,  el P
 [[START OF PAGE 41]]
 
 ##### ARTICULO  170.  Funciones  y  Competencias.
-Las  funciones  de  inspección,  vigilancia,  control  y  asesoría  de  la educación  y  administración  educativa  serán  ejercidas  por  las  autoridades  del  nivel  nacional  sobre  las  del  nivel departamental  y  del  D istrito  Capital,  por  las  autoridades  del  nivel  departamental  sobre  las  de  orden  distrital  y municipal y por estas últimas sobre las instituciones educativas.
+Las  funciones  de  inspección,  vigilancia,  control  y  asesoría  de  la educación  y  administración  educativa  serán  ejercidas  por  las  autoridades  del  nivel  nacional  sobre  las  del  nivel departamental  y  del  Distrito  Capital,  por  las  autoridades  del  nivel  departamental  sobre  las  de  orden  distrital  y municipal y por estas últimas sobre las instituciones educativas.
 
 ##### ARTICULO  171.  Ejercicio  de  la  Inspección  y  Vigilancia  a  nivel  local.
 Los  gobernadores  y  los  alcaldes  podrán ejercer la inspección y vigilancia a través de las respectivas secretarías de Educación o de los organismos que hagan sus veces.
@@ -1877,29 +1886,47 @@ Todos  los  establecimientos  educativos  privados aprobados con antelación a l
 Los  establecimientos  fundados  con  base  en  acuerdos  internacionales  estarán  sujetos  a  lo  establecido  en  la presente Ley, sin perjuicio del cumplimiento de lo previsto en tales acuerdos.
 
 ##### ARTICULO  195.  Inspección  y  vigilancia  de  los  establecimientos  educativos  privados.
-Los  establecimientos educativos privados estarán sometidos a la suprema inspección y vigilancia del Presidente de la República o de su delegado en los términos establecidos en la presente Ley, con el fin de garantizar la calidad del proceso educativo y la sujeción de la educación a las prescripciones constitucionales y legales.
-### CAPITULO 2°
-Régimen laboral y de contratación
-##### ARTICULO 196. Régimen laboral de los educadores privados.
-El régimen laboral legal aplicable a las relaciones laborales  y  a  las  prestaciones  sociales  de  los  educadores  de  establecimientos  educativos  privados  será  el  del Código Sustantivo del Trabajo.
-##### ARTICULO  197.  Garantía  de  remuneración  mínima  para  educadores  privados.
-El  salario  que  devenguen  los educadores en establecimientos privados no podrá ser  inferior al ochenta por ciento (80%) del señalado para igual categoría a quienes laboren en el sector oficial. La misma proporción regirá para los educadores por horas. PARAGRAFO. Los  establecimientos  educativos  privados  que  se  acojan  a  los  regímenes  de  libertad  vigilada  o controlado de que trata el artículo 202 de esta Ley y que al ser evaluados sus servicios sean clasificados por el Ministerio  de  Educación Nacional en las categorías de base, se sujetarán a lo dispuesto por el reglamento que expida el Gobierno Nacional para la aplicación de la presente norma.
-##### ARTICULO  198.  Contratación  de  educadores  privados.
-Los  establecimientos  educativos  privados,  salvo  las excepciones previstas en la ley, sólo podrán vincular a su planta docente personas de reconocida idoneidad ética y pedagógica, con título en educación, expedido por una universidad o una institución de educación superior. PARAGRAFO. Los establecimientos educativos privados podrán contratar profesionales con título universitario para que  dicten  cátedras  relacionadas  con  su  profesión  o  especialidad  en  la  educación  básica  y  media,  siendo responsabilidad  de  dichas  instituciones  la  correspondiente  preparación  pedagógica.  También  podrán  contratar educadores que provengan del exterior, si reúnen las mismas calidades exigidas para el ejercicio de la docencia en el país. Estos últimos no tendrán que homologar el título para ejercer la cátedra.
-##### ARTICULO 199. Establecimientos educativos bilingües.
-Los establecimientos educativos bilingües privados podrán contratar personas nacionales o extranjeras, que posean título universitario distinto al de profesional en educación para  la  enseñanza  del  segundo  idioma  o  de  asignaturas  en  dicho  idioma,  siempre  y  cuando  el  establecimiento educativo se comprometa a proveer los medios para la preparación pedagógica de este personal.
-##### ARTICULO 200. Contratos con las iglesias y confesiones religiosas.
-El Estado podrá contratar con las iglesias y confesiones  religiosas  que  gocen  de  personería  jurídica,  para  que  presten  servicios  de  educación  en  los establecimientos  educativos.  Sin  perjuicio  de  lo  dispuesto  en  el  artículo  8°  de  la  Ley  60  de  1993,  los  demás requisitos de estos contratos no serán distintos de los exigidos para la contratación entre particulares. PARAGRAFO.  Autorízase  al  Ministerio  de  Educación  Nacional  para  revisar  los  contratos  vigentes  para  la prestación del servicio educativo con las iglesias, comunidades religiosas y confesiones religiosas con el fin de ajustarse  a  las  normas  de  la  presente  Ley,  especialmente  en  lo  relativo  a  la  autonomía  para  la  vinculación  de docentes y directivos docentes.
-### CAPITULO 3°
-Derechos académicos
-##### ARTICULO 201. Matrícula de alumnos en los establecimientos educativos privados.
-De acuerdo con lo dispuesto en el artículo 95 de la presente Ley, los establecimientos educativos privados podrán renovar la matrícula de los alumnos o educandos para cada período académico, mediante contrato que se regirá por las reglas del derecho privado. El contrato deberá establecer, entre otros, los derechos y obligaciones de las partes, las causales de terminación y las condiciones para su renovación.
+Los establecimientos educativos privados estarán sometidos a la suprema inspección y vigilancia del Presidente de la República o de su
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
-(this page came through the extractor with no text)
+delegado en los términos establecidos en la presente Ley, con el fin de garantizar la calidad del proceso educativo y la sujeción de la educación a las prescripciones constitucionales y legales.
+
+### CAPITULO 2°
+
+Régimen laboral y de contratación
+
+##### ARTICULO 196. Régimen laboral de los educadores privados.
+El régimen laboral legal aplicable a las relaciones laborales y a las prestaciones sociales de los educadores de establecimientos educativos privados será el del Código Sustantivo del Trabajo.
+
+##### ARTICULO  197.  Garantía  de  remuneración  mínima  para  educadores  privados.
+El salario que devenguen los educadores en establecimientos privados no podrá ser inferior al ochenta por ciento (80%) del señalado para igual categoría a quienes laboren en el sector oficial. La misma proporción regirá para los educadores por horas.
+
+PARAGRAFO. Los establecimientos educativos privados que se acojan a los regímenes de libertad vigilada o controlado de que trata el artículo 202 de esta Ley y que al ser evaluados sus servicios sean clasificados por el Ministerio de Educación Nacional en las categorías de base, se sujetarán a lo dispuesto por el reglamento que expida el Gobierno Nacional para la aplicación de la presente norma.
+
+##### ARTICULO  198.  Contratación  de  educadores  privados.
+Los establecimientos educativos privados, salvo las excepciones previstas en la ley, sólo podrán vincular a su planta docente personas de reconocida idoneidad ética y pedagógica, con título en educación, expedido por una universidad o una institución de educación superior.
+
+PARAGRAFO. Los establecimientos educativos privados podrán contratar profesionales con título universitario para que dicten cátedras relacionadas con su profesión o especialidad en la educación básica y media, siendo responsabilidad de dichas instituciones la correspondiente preparación pedagógica. También podrán contratar educadores que provengan del exterior, si reúnen las mismas calidades exigidas para el ejercicio de la docencia en el país. Estos últimos no tendrán que homologar el título para ejercer la cátedra.
+
+##### ARTICULO 199. Establecimientos educativos bilingües.
+Los establecimientos educativos bilingües privados podrán contratar personas nacionales o extranjeras, que posean título universitario distinto al de profesional en educación para la enseñanza del segundo idioma o de asignaturas en dicho idioma, siempre y cuando el establecimiento educativo se comprometa a proveer los medios para la preparación pedagógica de este personal.
+
+##### ARTICULO 200. Contratos con las iglesias y confesiones religiosas.
+El Estado podrá contratar con las iglesias y confesiones religiosas que gocen de personería jurídica, para que presten servicios de educación en los establecimientos educativos. Sin perjuicio de lo dispuesto en el artículo 8° de la Ley 60 de 1993, los demás requisitos de estos contratos no serán distintos de los exigidos para la contratación entre particulares.
+
+PARAGRAFO. Autorízase al Ministerio de Educación Nacional para revisar los contratos vigentes para la prestación del servicio educativo con las iglesias, comunidades religiosas y confesiones religiosas con el fin de ajustarse a las normas de la presente Ley, especialmente en lo relativo a la autonomía para la vinculación de docentes y directivos docentes.
+
+### CAPITULO 3°
+
+Derechos académicos
+
+##### ARTICULO 201. Matrícula de alumnos en los establecimientos educativos privados.
+De acuerdo con lo dispuesto en el artículo 95 de la presente Ley, los establecimientos educativos privados podrán renovar la matrícula de los alumnos o educandos para cada período académico, mediante contrato que se regirá por las reglas del derecho privado.
+
+El contrato deberá establecer, entre otros, los derechos y obligaciones de las partes, las causales de terminación y las condiciones para su renovación.
 
 [[END OF PAGE 45]]
 
@@ -1933,11 +1960,17 @@ Para el cálculo de tarifas se tendrán en cuenta los siguientes criterios:
 El Ministerio de Educación Nacional, en coordinación con las entidades territoriales, hará evaluaciones periódicas que permitan la revisión del régimen que venga operando en el establecimiento educativo para su modificación total o parcial.
 
 ##### ARTICULO 203. Cuotas adicionales.
-Los establecimientos educativos no podrán exigir por sí mismos, ni por medio de  las  asociaciones  de  padres  de  familia,  ni  de  otras  organizaciones,  cuotas,  bonos  o  tarifas  adicionales  a  las aprobadas  por  concepto  de  matrículas,  pensiones  y  cobros  periódicos,  salvo  la  excepción  contemplada  en  el inciso segundo de este artículo. Sólo  los  establecimientos  educativ os  privados  sin  ánimo  de  lucro,  podrán  establecer  un  bono  como  aporte  de capital, con destino al mejoramiento del proyecto educativo institucional, siempre y cuando se encuentren bajo el régimen controlado establecido en el artículo 202. En este caso se deberá expedir el título correspondiente. Los establecimientos educativos que en la fecha tengan adoptados sistemas de financiación mediante bonos o aportes  de  capital,  tendrán  un  período  de  cinco  (5)  años  para  ajustarse  gradualmente  a  lo  dispuesto  en  este artículo.
+Los establecimientos educativos no podrán exigir por sí mismos, ni por medio de las asociaciones de padres de familia, ni de otras organizaciones, cuotas, bonos o tarifas adicionales a las
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
+
+aprobadas por concepto de matrículas, pensiones y cobros periódicos, salvo la excepción contemplada en el inciso segundo de este artículo.
+
+Sólo los establecimientos educativos privados sin ánimo de lucro, podrán establecer un bono como aporte de capital, con destino al mejoramiento del proyecto educativo institucional, siempre y cuando se encuentren bajo el régimen controlado establecido en el artículo 202. En este caso se deberá expedir el título correspondiente.
+
+Los establecimientos educativos que en la fecha tengan adoptados sistemas de financiación mediante bonos o aportes de capital, tendrán un período de cinco (5) años para ajustarse gradualmente a lo dispuesto en este artículo.
 
 El Ministerio de Educación Nacional expedirá la reglamentación respectiva.
 
