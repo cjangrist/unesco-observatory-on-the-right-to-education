@@ -20,7 +20,7 @@ The present Guidelines are intended to assist Member States in the preparation o
 
 ### 2. Reporting obligations
 
-There are differences in the legal nature of the obligations under the Convention, as distinguished from those under  the  Recommendation.  The  Convention  has binding  force  and  the  States  Parties  are  obliged  to incorporate  its  provisions  into  their  national  Constitution  or  domestic  law.  The  Recommendation,  nonbinding in nature, has political and moral force. Its adoption sought to take into account the difficulties that certain  states  might  experience,  in  particular  on  account  of  their  federal  structure,  in  ratifying  the Convention.
+There are differences in the legal nature of the obligations under the Convention, as distinguished from those under the Recommendation. The Convention has binding force and the States Parties are obliged to incorporate its provisions into their national Constitution or domestic law. The Recommendation, non-binding in nature, has political and moral force. Its adoption sought to take into account the difficulties that certain states might experience, in particular on account of their federal structure, in ratifying the Convention.
 
 Bearing in mind the differences in wording and in legal scope inherent to the nature of these two categories of instruments, the content of the Recommendation is identical to that of the Convention. Member States are expected to give effect to it in national legislation and education policies.
 
@@ -52,7 +52,7 @@ In the preparation of reports, Member States are kindly requested to provide bri
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member States in the preparation of responses, two series of questions/remarks are presented:
 
-- Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
 > 1 Please note that the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms is used specifically for monitoring SDG target 4.7. The 1960 Convention and Recommendation contribute more generally to the body of evidence for monitoring the targets of SDG4.
 
@@ -60,11 +60,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
-In  their  responses,  Member  States  are  encouraged  to  provide  information  in  a  concise  manner  while preserving substantive and relevant content.
-
-!
+In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
 [[END OF PAGE 3]]
 
@@ -78,9 +76,9 @@ Brazil
 
 Organization or entity responsible for the preparation of the report: Ministry of Education
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -118,7 +116,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 "
 
-#### Ratification  of  the  Protocol 3 instituting  a  Conciliation  and  Good  Offices  Commission  to  be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+#### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -128,7 +126,7 @@ Has your country ratified the Protocol?
 
 "
 
-#### Legal  framework  governing  the  protection  of  rights  guaranteed  in  the  Convention  and  the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 ##### In case your country is a State Party to the Convention:
 
@@ -176,9 +174,9 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information  supplied  could  demonstrate  how  such  policies  and  programmes  comply  with commitments of the right to education under the Recommendation.
 
-### Information on the implementation of the Convention or Recommendation
+### II. Information on the implementation of the Convention or Recommendation
 
-#### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+#### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
 Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation  that  is  to  underscore  the  state  obligation  to  proscribe  any  form  of discrimination in education while promoting equality of educational opportunity.
 
@@ -226,9 +224,9 @@ Please provide a brief description of the relevant legal, regulatory or policy t
 
 - X Other:
 
-- Please indicate the relevant legal, regulatory or policy texts and provide a brief description of the measures taken :
-
 Affirmative action laws and policies
+
+- Please indicate the relevant legal, regulatory or policy texts and provide a brief description of the measures taken:
 
 This notably is covered under SDG target 4.1 and partly target 4.b 6
 
@@ -236,7 +234,7 @@ For issues related to target 4.1, see item 2.2
 
 For issues related to target 4.b see item 2.3
 
-- Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all
+1. Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all
 
 > 6 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
 
@@ -244,11 +242,7 @@ For issues related to target 4.b see item 2.3
 
 [[START OF PAGE 8]]
 
-2.
-
-3.
-
-learners  (including  girls  and  women,  the  economically  and  socially  marginalized,  people  with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
+learners (including girls and women, the economically and socially marginalized, people with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
 
 " Providing financial incentives and fellowships
 
@@ -260,7 +254,7 @@ learners  (including  girls  and  women,  the  economically  and  socially  marg
 
 " Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
-" Providing  re-entry  programmes  for  young mothers
+" Providing re-entry programmes for young mothers
 
 " Eliminating all barriers for pregnant girls or young mothers in education
 
@@ -281,6 +275,10 @@ learners  (including  girls  and  women,  the  economically  and  socially  marg
 " Valuing diversity in schools
 
 " Combatting stereotyping and stigmatisation
+
+2.
+
+3.
 
 - Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
 
@@ -338,7 +336,7 @@ The  laws  that  regulate  the  provision  of  Early  Childhood  Education  are:
 
 In addition, the Brazilian Federal Constitution assures early childhood education, the first stage of basic education, as a duty of the State, its purpose being the integral development of the child from birth to 5 (five) years old, in its physical, psychological, intellectual and social aspects, complementing the action of the family and community in this regard.
 
-The main challenge for the government is the lack of vacancies, especially for children from 0 to 3 year  old.  The  National  Institute  of  Educational  Studies  and  Research  Anísio  Teixeira  (Instituto Nacional de Estudos e Pesquisas Educacionais - INEP), has to publish every two years, among its many legal duties, studies to assess the evolution of the achievement of the goals set in the National Education Plan ( Plano Nacional de Educação - PNE ). According to the data in the Report of the 3r d Monitoring  Cycle  of  PNE's  Targets,  published  this  year,  the  enrolment  in  nursery/daycare correspond  to  32%  (of  the  children  from  0  to  3  years  old)  and  the  enrolment  in  pre-schools correspond to 94% (of the children from 4 to 5 years old).
+The main challenge for the government is the lack of vacancies, especially for children from 0 to 3 year old. The National Institute of Educational Studies and Research Anísio Teixeira (Instituto Nacional de Estudos e Pesquisas Educacionais - INEP), has to publish every two years, among its many legal duties, studies to assess the evolution of the achievement of the goals set in the National Education Plan (Plano Nacional de Educação – PNE). According to the data in the Report of the 3rd Monitoring Cycle of PNE’s Targets, published this year, the enrolment in nursery/daycare correspond to 32% (of the children from 0 to 3 years old) and the enrolment in pre-schools correspond to 94% (of the children from 4 to 5 years old).
 
 ##### 2.2 Universal primary and secondary education
 
@@ -354,7 +352,7 @@ Please indicate the current duration period of compulsory education and the age 
 
 In this part, you may also provide information on the difficulties experienced by your government in the realization of universal access to primary education. Quantitative information could be added.
 
-The  article  4  of  LAW  N°9.394  OF  DECEMBER  20 TH 1996  (N ational  Education  Guidelines and Framework Law - Lei de Diretrizes e Bases da Educação/LDB) and the LAW N°12.796 OF APRIL 4 TH 2013 establish that basic education is compulsory and free of charge from 4 to 17 years old (therefore for the entire period of primary and secondary education).
+The article 4 of LAW N°9.394 OF DECEMBER 20TH 1996 (National Education Guidelines and Framework Law - Lei de Diretrizes e Bases da Educação/LDB) and the LAW N°12.796 OF APRIL 4TH 2013 establish that basic education is compulsory and free of charge from 4 to 17 years old (therefore for the entire period of primary and secondary education).
 
 - Is primary education available free of charge to all?
 
@@ -378,13 +376,7 @@ Moreover, concerning the government's coverage of direct and indirect costs in e
 
 " No: Is your country already engaged in legal and policy reforms to work towards universal and free primary education?
 
-Yes
-
-"
-
-"
-
-No
+" Yes " No
 
 - Please briefly provide information on the reforms taken:
 
@@ -424,9 +416,7 @@ Moreover, concerning the government's coverage of direct and indirect costs in e
 
 - Is secondary education (middle/high) compulsory in your country?
 
-X - Yes No
-
-"
+X - Yes " No
 
 [[END OF PAGE 13]]
 
@@ -448,7 +438,7 @@ No "
 
 - Please provide reference to the relevant laws and provisions:
 
-People under 16 years of age are forbidden to have a work, except in the condition of apprentice from 14 years of age, therefore, by means of an Apprenticeship Contract, as established in article 7, subsection XXXIII, of the Federal Constitution and Art. 428 of the Consolidation of Labor Laws (CLT Decree-Law N°5452/42).
+People under 16 years of age are forbidden to have a work, except in the condition of apprentice from 14 years of age, therefore, by means of an Apprenticeship Contract, as established in article 7, subsection XXXIII, of the Federal Constitution and Art. 428 of the Consolidation of Labor Laws (CLT - Decree-Law N°5452/42).
 
 The Federal Constitution  and  CLT  also  prohibit  nocturnal  (between  22h  and  5h),  dangerous  and unhealthy labor environment for workers under 18 years of age. They allow, from 16 years old until 18 years of age, technical or administrative work, as long as it is performed outside the areas of risk to health and safety, considering their labor activities are not detrimental to their education and their physical, psychological, social and moral development.
 
@@ -609,8 +599,17 @@ In conclusion, higher education in Brazil is accessible on the basis of individu
 In this part, you may also provide information on the difficulties experienced by your government as regards access to higher education and on the progress realized. Quantitative information could be added.
 
 There are student aid programmes for low-income students since 1976, with an increase in scale and scope during the 2000s.
----
-From 1976 to 1999, the "Educational Credit Programme" (Programa Crédito Educativo) financed tuition fees and other expenses for low-income students enrolled in higher education institutions (HEIs). In 1999, the "Student Finance Programme' (Programa de Financiamento Estudantil - FIES) replaced the "Educational Credit Programme" (Programa Crédito Educativo), having considerably expanded (ten times more) its funding from 2010 onwards. Since 2018, FIES has offered 100 000 new loan contracts every year. With the University for All Programme (Programa Universidade para Todos - ProUni), launched in 2004, private HEIs exempt tuition fees for low-income and disabled students in exchange for tax exemptions by the government. A limited number of grants covering subsistence costs are also part of the federal support for students registered in private HEIs. Providing subsistence grant for higher education students in public institutions, which are free of charge, is also a current federal government policy, as well as a policy of state governments for the
+From 1976 to 1999, the "Educational Credit Programme" (Programa Crédito Educativo) financed tuition fees and other expenses for low-income students enrolled in higher education institutions (HEIs). In 1999, the "Student Finance Programme" (Programa de Financiamento Estudantil - FIES) replaced the "Educational Credit Programme" (Programa Crédito Educativo), having considerably expanded (ten times more) its funding from 2010 onwards. Since 2018, FIES has offered 100 000 new loan contracts every year.
+
+With the University for All Programme (Programa Universidade para Todos - ProUni), launched in 2004, private HEIs exempt tuition fees for low-income and disabled students in exchange for tax exemptions by the government. A limited number of grants covering subsistence costs are also part of the federal support for students registered in private HEIs.
+
+Providing subsistence grant for higher education students in public institutions, which are free of charge, is also a current federal government policy, as well as a policy of state governments for the students in public universities under their own administrative and financial responsibility. In 2018, the total grants for students enrolled in public federal HEIs accounted for BRL 1,3 billion and benefited over 330 000 students.
+
+In total, government support for students enrolled in private HEIs benefits almost 25% of the total students enrolled in these institutions. There are also student loans offered by the private HEIs themselves or by other private agents, including the limited assistance in the form of housing, transport, food and study materials. When added, 50% of the 6,4 million students in private HEIs benefit from some type of assistance in 2018. In the public HEIs, which are free of charge, 18% received it.
+
+As far as international students are concerned, Brazil is a center of higher education in Latin America, especially at postgraduate level - even though the country is not as attractive as the United States, Canada, Europe or Australia. Less than 20 000 foreign students are registered in HEIs in Brazil - 0.2% of the total enrolment. Two federal higher education institutions are particularly receptive to international students due to their international vocation: the Federal University of Latin American Integration (Unila) and the University of International Integration of the Afro-Brazilian Lusophony (Unilab). In general, Brazilian institutions are receptive to foreign students (in postgraduate studies, a growing number of programmes are accepting theses and dissertations written in a foreign language). There are assistance initiatives for foreign students, but on a small scale. The federal budget for assistance to foreign students is approximately BRL 6 million per year.
+
+Its worth mentioning that students in vocational education and training - (Ensino e Formação Profissional - EFP) may also benefit from exemption from tuition fees and other types of financial aid that are available under specific policies and regulations. Government support focuses either on the expansion of the EFP system itself and on different forms of support for its students. Their EFP programmes, in private or public institutions, may give degrees called "technological degrees", which are higher education level degrees, in addition to post-secondary certificates after courses for students enrolled in secondary school and courses that do not require specific prior education.
 
 [[END OF PAGE 18]]
 
@@ -650,7 +649,7 @@ Support Programme for the Learning Systems covering Youth and Adult Education (P
 
 In 2017, new editions were launched for the National Programme for Youth Inclusion (Programa Nacional de Inclusão de Jovens - PROJOVEM): supplementary action responsible for raising the level of schooling in basic education, which integrates professional qualification and the development of citizenship. It is aimed at the educational and social inclusion of young people between the ages of 18 and 29, who can read and write but have not completed primary school.  The 2017 edition of ' Projovem Urbano ' was joined by 38 federated entities, comprising 13 states and 25 municipalities, and 'Projovem Campo', 56 federated entities, comprising 11 states and 45 municipalities. It was offered approximately 53 000 vacancies under the Programme.
 
-National Programme for the Integration of Vocational Education with Basic Education in the Youth and Adult Education Modality (Programa Nacional de Integração da Educação Profissional com a Educação Básica na Modalidade de Educação de Jovens e Adultos - PROEJA) embodies: continued training  of  education  professionals;  offer  of  youth  and  adults  education  courses  integrated  to professional qualification; production of pedagogical material; monitoring of permanence and dropouts; research and innovation; and the organization of five regional meetings on the matter.
+National Programme for the Integration of Vocational Education with Basic Education in the Youth and Adult Education Modality (Programa Nacional de Integração da Educação Profissional com a Educação Básica na Modalidade de Educação de Jovens e Adultos - PROEJA) embodies: continued training of education professionals; offer of youth and adults education courses integrated to professional qualification; production of pedagogical material; monitoring of permanence and drop-outs; research and innovation; and the organization of five regional meetings on the matter.
 
 ##### 2.5 Quality education provision and learning environment
 
@@ -698,23 +697,28 @@ Article/Paragraph 4(d) of the Convention/Recommendation provides for the educati
 
 " Measures taken to increase women in leadership positions in education
 
-- Please briefly elaborate further on the measures taken:
-
 " Other:
+
+- Please briefly elaborate further on the measures taken:
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
 According to target 17 of the National Education Plan ( Plano Nacional de Educação - PNE ), Law n°13.005/14, the government seeks to enhance value and recognition of the teaching professionals in the networks of public basic education, equating their average income with that of other professionals with equivalent school education. In 2016, the teaching professionals in public education with a higher education degree earned, in average, 71.5% of the monthly income of other professionals with the same study level. In 2017, this ratio was of 74,9%. In 2018, it raised to 76,5%. In 2019 it reached a 78,1%.
----
 To be a teacher in Brazil, it is necessary to meet some of the requirements provided in the National Education Guidelines and Framework Law (Lei de Diretrizes e Bases da Educação - LDB - Law n° 9.394/1996). In order to be teacher in the last years of primary education and in the whole secondary education the professional must have a higher education degree oriented for the teaching activity (which are called licenciatura) in fields of Pedagogy, Chemistry, Physics, Mathematics, Biological Sciences, Geography or Languages.
+
 The Pedagogy higher education degree enable teachers to act in the early childhood education (nurseries/day care, pre-schools) and in the initial years of primary school. The teacher is responsible for delivering the entire curriculum at this stages. Pedagogy higher education courses also train professionals to work with the management aspects within the school system.
+
 For the early childhood education and in the first years of primary education, it is also admitted professionals with technical training in teaching (Curso Magistério/Ensino Normal), which are not considered higher education degrees.
+
 Bachelor degrees (which differs from licenciatura) do not enable the professionals to teach. In order to act as a teacher in basic education, the holder of a bachelor degree needs pass through a complementing pedagogical course.
+
 To be a teacher in higher education, the professional must have, at least, a Postgraduate level degree Lato Sensu (specialization). In addition, professionals with notorious knowledge, recognized by the education system, can also teach the content of their expertise in the technical and vocational part of a higher education course programme.
-In 2019, its was established the Common National Basis for the Initial Teacher Training for Basic Education (Base Nacional Comum para a Formação Inicial de Professores da Educação Básica - BNC Formação). This basis has established the general skills that every student should develop throughout the pedagogical courses and 'licenciaturas" for their career as teaching professionals.
-Concerning the continuing training of education professionals, in 2017, the Brazilian Ministry of Education (MEC) created the AVAMEC platform (http://avamec.mec.gov.br/), a collaborative virtual learning environment that allows the design, administration and development of various types of training actions (such as distance learning courses, complements to presencial courses, research projects, collaborative projects, and other various forms of distance educational support to the teaching-learning process). In this platform several
+
+In 2019, its was established the Common National Basis for the Initial Teacher Training for Basic Education (Base Nacional Comum para a Formação Inicial de Professores da Educação Básica - BNC Formação). This basis has established the general skills that every student should develop throughout the pedagogical courses and "licenciaturas" for their career as teaching professionals.
+
+Concerning the continuing training of education professionals, in 2017, the Brazilian Ministry of Education (MEC) created the AVAMEC platform (http://avamec.mec.gov.br/), a collaborative virtual learning environment that allows the design, administration and development of various types of training actions (such as distance learning courses, complements to presencial courses, research projects, collaborative projects, and other various forms of distance educational support to the teaching-learning process). In this platform several continuing education programmes are available for teachers and other basic education professionals. The courses can be developed by various partners, including the municipal and state education departments. They are free of charge and open to anyone interested.
 In 2019, the Ministry of Education, in collaboration with state and municipal association of education managers (Consed and Undime, respectively), developed the National Commitment for Basic Education, which contains a set of actions to be implemented in coordination with the federated entities. Stand out among them the "Projeto Forma Brasil - Docente', which aims at elaborating and implementing programmes to increase the quality of initial teacher training, as well as promoting support to the continued training for teachers. In respect to the continuous training, the project plans to: conduct analysis of the teacher training needs: give technical support to teacher training through digital platforms, considering the recent regulatory frameworks, as well as the research and evidence on learning in school environment; and implement a mentorship programme for teachers aiming at improving their teaching practice and students learning.
 
 [[END OF PAGE 22]]
@@ -753,15 +757,15 @@ Human rights and fundamental freedoms are contemplated by the Common National Cu
 
 (...)
 
-- To value the diversity of knowledge and cultural experiences and to appropriate from knowledge and experiences that enable to understand the labor specific relations, and to make choices in line with  the  exercise  of  citizenship  and  with  one's  project  of  life,  with  freedom,  autonomy,  critical conscience and responsibility.
+6. To value the diversity of knowledge and cultural experiences and to appropriate from knowledge and experiences that enable to understand the labor specific relations, and to make choices in line with the exercise of citizenship and with one’s project of life, with freedom, autonomy, critical conscience and responsibility.
 
-- To argue on the basis of facts, data and reliable information in order to formulate, negotiate and defend ideas, points of view and common decisions that respect and promote human rights, socioenvironmental awareness and responsible consumption at the local, regional and global levels, with ethical positioning regarding the care of oneself, others and the planet.
+7. To argue on the basis of facts, data and reliable information in order to formulate, negotiate and defend ideas, points of view and common decisions that respect and promote human rights, socio-environmental awareness and responsible consumption at the local, regional and global levels, with ethical positioning regarding the care of oneself, others and the planet.
 
-- Having self-knowledge, self-appreciation and to take care of one's physical and emotional health, understanding oneself within human diversity and recognizing one's emotions and those of others, with self-criticism and capacity to deal with them.
+8. Having self-knowledge, self-appreciation and to take care of one's physical and emotional health, understanding oneself within human diversity and recognizing one’s emotions and those of others, with self-criticism and capacity to deal with them.
 
-- To  exercise  empathy,  dialogue,  conflict  resolution  and  cooperation,  respecting  oneself  and promoting the respect for others and for the human rights, welcoming and valuing the diversity of individuals  and  social  groups,  their  knowledge,  identities,  cultures  and  potentialities,  without prejudice of any kind.
+9. To exercise empathy, dialogue, conflict resolution and cooperation, respecting oneself and promoting the respect for others and for the human rights, welcoming and valuing the diversity of individuals and social groups, their knowledge, identities, cultures and potentialities, without prejudice of any kind.
 
-- To act on a personal and collective basis with autonomy, responsibility, flexibility, resilience and determination, taking decisions based on ethical, democratic, inclusive, sustainable and solidaritybased principles.
+10. To act on a personal and collective basis with autonomy, responsibility, flexibility, resilience and determination, taking decisions based on ethical, democratic, inclusive, sustainable and solidarity-based principles.
 
 It is important to underline that by including these principles in its general competencies, the BNCC corroborates  the  recommendations  expressed  in  the  National  Guidelines  on  Human  Rights Education, given by Resolution n° 01/2012 of the National Council of Education. It should be noted that states and municipalities are included in the implementation cycle of the BNCC in partnership with the Union.
 
@@ -825,9 +829,9 @@ Information could also cover the language facilities, such as the availability o
 
 ##### 2.10   Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in  education  based  notably  on  national  origin. 13 In  this  context,  a  number  of  Member  States  that participated in the 9 th Consultation reported on measures adopted to ensure refugees' and migrants' right  to  education.  Growing  displacement  and  influx  of  refugees  worldwide  and  the  emergence  of major  educational  challenges  in  this  area,  as  well  as  the  frameworks  recently  adopted  by  the international community, 14 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in  education  based  notably  on  national  origin. 13 In  this  context,  a  number  of  Member  States  that participated in the 9th Consultation reported on measures adopted to ensure refugees’ and migrants’ right  to  education.  Growing  displacement  and  influx  of  refugees  worldwide  and  the  emergence  of major  educational  challenges  in  this  area,  as  well  as  the  frameworks  recently  adopted  by  the international community, 14 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
-Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
+Besides, this aspect also corresponds to SDG target 4.5, which calls on states to “ensure equal access to all levels of education and vocational training for the vulnerable”, including “children in vulnerable situations”, and covers the majority of SDG4 targets.
 
 -  Please  briefly  describe  the  existing  legal  and  policy  framework  that  protects  the  right  to  quality education for refugees and migrants in your country.
 
@@ -835,7 +839,7 @@ Regarding the "Rights of refugees and migrants", thet Law n° 13.445/2017 guaran
 
 It  is  also  important  to  highlight  that  Law  n°  9474/1997,  which  defines  the  mechanisms  for  the implementation  of  the  Refugee  Statute,  in  its  Article  44,  determines  that  "the  recognition  of certificates and diplomas, the requirements for obtaining resident status and entry into academic institutions  at  all  levels  should  be  facilitated,  taking  into  account  the  unfavourable  situation experienced by refugees.
 
-- Please briefly indicate measures adopted by national and local authorities to ensure refugees' and migrants' right to education (several items could be ticked/mentioned):
+- Please briefly indicate measures adopted by national and local authorities to ensure refugees’ and migrants’ right to education (several items could be ticked/mentioned):
 
 " Inclusion in mainstream education
 
@@ -865,17 +869,17 @@ It  is  also  important  to  highlight  that  Law  n°  9474/1997,  which  defin
 
 Please briefly elaborate further on the measures taken:
 
-### Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+### III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-#### Challenges and obstacles
+#### 1. Challenges and obstacles
 
-- 1.1 Please  indicate  and  provide  any  information  on  the  difficulties  encountered  in  the  process  of implementing the key provisions of the Convention/Recommendation (including legal and practical obstacles)  and  on  the  main  issues  that  need  to  be  addressed  for  promoting  further  the  right  to education in your country (several items could be ticked/mentioned):
+1.1 Please  indicate  and  provide  any  information  on  the  difficulties  encountered  in  the  process  of implementing the key provisions of the Convention/Recommendation (including legal and practical obstacles)  and  on  the  main  issues  that  need  to  be  addressed  for  promoting  further  the  right  to education in your country (several items could be ticked/mentioned):
 
-" Challenges  related  to  equitable  access  and  inclusion  in  education  (such  as  poverty  and  socio- economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
+" Challenges  related  to  equitable  access  and  inclusion  in  education  (such  as  poverty  and  socio-economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
 
 " Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
-" Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems - including the lack of reliable data, absence of supportive/ inconsistent/obsolete legal and policy environment, lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
+" Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems – including the lack of reliable data, absence of supportive/inconsistent/obsolete legal and policy environment, lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
 
 [[END OF PAGE 27]]
 
@@ -883,7 +887,7 @@ Please briefly elaborate further on the measures taken:
 
 " Other:
 
-- 1.2 Please  provide  a  brief  assessment  of  the  effectiveness  of  the  methods  introduced  to  remove  the obstacles encountered:
+1.2 Please  provide  a  brief  assessment  of  the  effectiveness  of  the  methods  introduced  to  remove  the obstacles encountered:
 
 #### 2. Awareness-raising
 
@@ -895,7 +899,7 @@ UNESCO governing bodies have underlined the need for awareness raising. Given th
 
 " Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-" Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+" Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
 " Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
