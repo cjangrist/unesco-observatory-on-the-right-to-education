@@ -8,13 +8,13 @@ Fecha Promulgación       :29-05-2015
 
 Organismo                :MINISTERIO DE EDUCACIÓN
 
-Inicio Vigencia          :01-03-2016
-
-Id Norma                 :1078172
-
 Título                   :DE INCLUSIÓN ESCOLAR QUE REGULA LA ADMISIÓN DE LOS Y LAS ESTUDIANTES, ELIMINA EL FINANCIAMIENTO COMPARTIDO Y PROHÍBE EL LUCRO EN ESTABLECIMIENTOS EDUCACIONALES QUE RECIBEN APORTES DEL ESTADO
 
 Tipo Versión             :Con Vigencia Diferida por Fecha     De : 01-03-2016
+
+Inicio Vigencia          :01-03-2016
+
+Id Norma                 :1078172
 
 URL                      :http://www.leychile.cl/N?i=1078172&f=2016-03-01&p=
 
@@ -203,7 +203,7 @@ El sostenedor, como cooperador del Estado en la prestación del servicio educaci
 
 Para estos efectos se entenderá que el financiamiento recibido se destina a fines educativos en el caso de las siguientes operaciones:
 
-- Pago de una remuneración a las personas naturales que ejerzan, de forma permanente y efectiva, funciones de administración superior que sean necesarias para la gestión de la entidad sostenedora respecto de el o los establecimientos educacionales de su dependencia, que se encuentren claramente precisadas en el contrato de trabajo respectivo. Dichas funciones no podrán ser delegadas, en todo o en parte, a personas jurídicas. Se entenderán comprendidas en este numeral las remuneraciones pagadas a las personas naturales que presten servicios en la administración superior de la entidad sostenedora.
+i) Pago de una remuneración a las personas naturales que ejerzan, de forma permanente y efectiva, funciones de administración superior que sean necesarias para la gestión de la entidad sostenedora respecto de el o los establecimientos educacionales de su dependencia, que se encuentren claramente precisadas en el contrato de trabajo respectivo. Dichas funciones no podrán ser delegadas, en todo o en parte, a personas jurídicas. Se entenderán comprendidas en este numeral las remuneraciones pagadas a las personas naturales que presten servicios en la administración superior de la entidad sostenedora.
 
 - ii) Pago de remuneraciones, honorarios y beneficios al personal docente que cumpla funciones directivas, técnico pedagógicas o de aula, y de los asistentes de la educación, que se desempeñen en el o los establecimientos respectivos.
 
@@ -217,19 +217,92 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 5]]
 
-administración del o los establecimientos educacionales. v) Adquisición de toda clase de servicios, materiales e insumos para el buen desarrollo de la gestión educativa, así como recursos didácticos e insumos complementarios que sean útiles al proceso integral de enseñanza y aprendizaje de los y las estudiantes. Tratándose de servicios de personas o entidades técnicas pedagógicas, a que se refiere el artículo 30 de la ley Nº20.248, sólo podrán ser contratadas si sus servicios se encuentran certificados por el Ministerio de Educación y han sido adjudicados por medio de licitación o concurso público, según corresponda. En caso de concursos públicos, deberán ser publicados, a lo menos, en un diario de circulación regional. Los honorarios de dichas personas o entidades serán pagados con la subvención escolar preferencial establecida por la ley Nº20.248. vi) Inversión en activos no financieros necesarios para la prestación del servicio educativo. Inversión en activos financieros de renta fija, siempre que los intereses o réditos sean utilizados para los fines educacionales dispuestos en este artículo y no se afecte de forma alguna la prestación de servicio educativo. vii) Gastos asociados a la mantención y reparación de los inmuebles y muebles a que se refieren los numerales anteriores. viii) Pago de obligaciones garantizadas con hipotecas, contraídas con el solo propósito de adquirir el o los inmuebles en el cual funciona el establecimiento educacional de su dependencia, de conformidad a la letra a) quáter del artículo 6º de esta ley. ix) Pago de créditos bancarios o mutuos cuyo objeto único y exclusivo sea el de invertir el dinero de dicho crédito o mutuo en mejoras necesarias o útiles, sean de infraestructura, equipamiento u otros elementos que sirvan al propósito del proyecto educativo del establecimiento educacional. En caso de que el sostenedor sea propietario de dicha infraestructura, tales créditos o mutuos podrán encontrarse garantizados mediante hipotecas. Si dichas mejoras superan las 1.000 unidades tributarias mensuales se deberá consultar por escrito al Consejo Escolar. x) Gastos que guarden directa relación con la mejora de la calidad del servicio educativo del o los establecimientos educacionales. xi) Gastos consistentes con el proyecto educativo del o los establecimientos educacionales. Tratándose de las remuneraciones señaladas en el numeral i) del inciso segundo, éstas deberán ser pagadas en virtud de un contrato de trabajo que establezca la dedicación temporal y especifique las actividades a desarrollar, y ser razonablemente proporcionadas en consideración a la jornada de trabajo, el tamaño y complejidad del o los establecimientos educacionales, a las remuneraciones que normalmente se paguen en contratos de semejante naturaleza respecto de gestiones educativas de similar entidad, y a los ingresos del establecimiento educacional por concepto de subvención y aportes del Estado, con el objeto de asegurar los recursos para una adecuada prestación del servicio educacional. La Superintendencia de Educación, mediante instrucciones de carácter general, regulará lo dispuesto en el inciso precedente y fiscalizará su cumplimiento. Sin perjuicio de lo anterior, los sostenedores deberán informar a la Superintendencia de Educación cuál o cuáles de sus directores ejercerán las funciones indicadas en el numeral i) del inciso segundo. Por su parte, dicha Superintendencia, en uso de sus atribuciones, podrá solicitar información respecto de la acreditación del cumplimiento de dichas funciones. Las operaciones que se realicen en virtud de los numerales iii), iv), v), vi), vii), viii), ix), x) y xi) del inciso segundo, estarán sujetas a las siguientes restricciones: a) No podrán realizarse con personas relacionadas con los sostenedores o representantes legales del establecimiento, salvo que se trate de personas jurídicas sin fines de lucro o de derecho público que presten permanentemente servicios al o los establecimientos educacionales de dependencia del sostenedor en materias técnico pedagógicas, de capacitación y desarrollo de su proyecto educativo. El sostenedor deberá informar sobre dichas personas a la Superintendencia de Educación. b) Deberán realizarse de acuerdo a las condiciones de mercado para el tipo de operación de que se trate en el momento de celebrar el acto o contrato. Tratándose de operaciones a título oneroso, el precio de la transferencia no podrá ser superior a aquél que prevalece en el mercado. En ejercicio de sus facultades generales de fiscalización y auditoría, la Superintendencia de Educación, tratándose de las operaciones que se desarrollen en virtud de los numerales iii), iv), v), vi), vii), viii), ix), x) y xi) del inciso segundo, podrá solicitar al Servicio de Impuestos Internos que realice las tasaciones que correspondan de conformidad a lo dispuesto en el artículo 64 del Código Tributario. Se prohíbe a los directores o representantes legales de la entidad sostenedora realizar cualquiera de las siguientes acciones: 1) Inducir a los administradores o a quienes ejerzan cargos análogos a rendir cuentas irregulares, presentar informaciones falsas u ocultar información. 2) Tomar en préstamo dinero o bienes de la entidad sostenedora o usar en provecho propio o a favor de personas relacionadas con ellos los bienes, servicios o créditos de la entidad sostenedora. 3) Usar en beneficio propio o de personas relacionadas a ellos, con perjuicio para la entidad sostenedora, las oportunidades comerciales de que tuvieren conocimiento en razón de su cargo. 4) En general, practicar actos contrarios a los estatutos o al fin educacional de la entidad sostenedora o usar su cargo para obtener ventajas indebidas para sí o para personas relacionadas con ellos en perjuicio de la entidad sostenedora y su fin. La infracción de lo dispuesto en este artículo será considerada infracción grave en los términos del artículo 76 de la ley Nº20.529. Un reglamento del Ministerio de Educación, que deberá ser firmado por el Ministro de Hacienda, regulará las materias de que trata este artículo, sin perjuicio de las normas de carácter general que respecto de estas materias deberá dictar la Superintendencia de Educación.
-##### Artículo 3º bis.-
-Para efectos de lo señalado en el artículo anterior, se entenderán por personas relacionadas las siguientes: a) Los miembros o asociados, fundadores, directivos, administradores o representantes legales de la entidad sostenedora y los directivos del establecimiento educacional, de acuerdo a lo dispuesto en la letra a) del artículo 46 del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación. b) Los cónyuges y parientes hasta el tercer grado de consanguinidad o afinidad de cualquiera de las personas indicadas en la letra a). c) Las personas jurídicas en que cualquiera de las personas indicadas en las letras a) y b) anteriores posean directa o indirectamente el 10% o más del capital de ésta, la calidad de directivo o de administrador. d) Las personas naturales o jurídicas que tengan con cualquiera de las personas indicadas en las letras a) y b) negocios en común en cuya propiedad o control influyan en forma decisiva. Sin perjuicio de lo anterior, la Superintendencia de Educación podrá establecer, mediante normas de carácter general, que es relacionada a un sostenedor toda persona natural o jurídica que por relaciones patrimoniales, de administración, de parentesco, de responsabilidad o de subordinación, haga presumir que: i) Sus negocios con la entidad sostenedora son de tal importancia o vinculación estratégica, que originan conflictos de intereses con ésta; ii) Su administración es influenciada determinantemente por la entidad sostenedora, y viceversa, o iii) Por su cargo o posición está en situación de disponer de información de la entidad sostenedora y de su administración, que no haya sido divulgada públicamente por los medios que franquea la ley, y que sea capaz de influir en las decisiones de esa entidad. Para efectos de lo dispuesto en el presente artículo, se aplicarán supletoriamente las normas del Título XV de la ley Nº18.045.
-##### Artículo 3º ter.-
-El que, administrando a cualquier título los recursos públicos u otros que perciba el sostenedor en su calidad de tal, los sustraiga o destine a una finalidad diferente de los fines educativos señalados en el artículo 3º, estará obligado a reintegrarlos al establecimiento educacional, debidamente reajustados conforme a la variación expresada por el Índice de Precios al Consumidor (IPC) en el período comprendido entre el mes anterior a aquel en que se hizo la sustracción o desvío y el mes anterior en que se produjere la restitución. Comprobada la infracción, ésta será sancionada por la Superintendencia de Educación, conforme a las normas del Título III de la ley Nº20.529, con una multa del 50% de la suma sustraída o desviada. Dichos montos en ningún caso podrán ser descontados ni pagados con cargo a cualquiera de los recursos públicos u otros que perciba el sostenedor en su calidad de tal. Las infracciones cometidas en el uso de los recursos a que se refiere el inciso primero del presente artículo generarán, además, las responsabilidades civiles y penales que el ordenamiento jurídico dispone. En este caso, la Superintendencia o el Servicio de Impuestos Internos deberán denunciar al Ministerio Público los hechos de que tomen conocimiento para los fines correspondientes.
-##### Artículo 3º quáter.-
-Los recursos de la subvención escolar y demás aportes que perciba el sostenedor en su calidad de tal podrán distribuirse entre los distintos establecimientos educacionales subvencionados de su dependencia, con el objeto de facilitar el funcionamiento en red de dichos establecimientos, sin perjuicio de lo dispuesto en leyes especiales.".
+administración del o los establecimientos educacionales.
+
+v) Adquisición de toda clase de servicios, materiales e insumos para el buen desarrollo de la gestión educativa, así como recursos didácticos e insumos complementarios que sean útiles al proceso integral de enseñanza y aprendizaje de los y las estudiantes.
+
+Tratándose de servicios de personas o entidades técnicas pedagógicas, a que se refiere el artículo 30 de la ley Nº20.248, sólo podrán ser contratadas si sus servicios se encuentran certificados por el Ministerio de Educación y han sido adjudicados por medio de licitación o concurso público, según corresponda. En caso de concursos públicos, deberán ser publicados, a lo menos, en un diario de circulación regional. Los honorarios de dichas personas o entidades serán pagados con la subvención escolar preferencial establecida por la ley Nº20.248.
+
+vi) Inversión en activos no financieros necesarios para la prestación del servicio educativo.
+
+Inversión en activos financieros de renta fija, siempre que los intereses o réditos sean utilizados para los fines educacionales dispuestos en este artículo y no se afecte de forma alguna la prestación de servicio educativo.
+
+vii) Gastos asociados a la mantención y reparación de los inmuebles y muebles a que se refieren los numerales anteriores.
+
+viii) Pago de obligaciones garantizadas con hipotecas, contraídas con el solo propósito de adquirir el o los inmuebles en el cual funciona el establecimiento educacional de su dependencia, de conformidad a la letra a) quáter del artículo 6º de esta ley.
+
+ix) Pago de créditos bancarios o mutuos cuyo objeto único y exclusivo sea el de invertir el dinero de dicho crédito o mutuo en mejoras necesarias o útiles, sean de infraestructura, equipamiento u otros elementos que sirvan al propósito del proyecto educativo del establecimiento educacional. En caso de que el sostenedor sea propietario de dicha infraestructura, tales créditos o mutuos podrán encontrarse garantizados mediante hipotecas.
+
+Si dichas mejoras superan las 1.000 unidades tributarias mensuales se deberá consultar por escrito al Consejo Escolar.
+
+x) Gastos que guarden directa relación con la mejora de la calidad del servicio educativo del o los establecimientos educacionales.
+
+xi) Gastos consistentes con el proyecto educativo del o los establecimientos educacionales.
+
+Tratándose de las remuneraciones señaladas en el numeral i) del inciso segundo, éstas deberán ser pagadas en virtud de un contrato de trabajo que establezca la dedicación temporal y especifique las actividades a desarrollar, y ser razonablemente proporcionadas en consideración a la jornada de trabajo, el tamaño y complejidad del o los establecimientos educacionales, a las remuneraciones que normalmente se paguen en contratos de semejante naturaleza respecto de gestiones educativas de similar entidad, y a los ingresos del establecimiento educacional por concepto de subvención y aportes del Estado, con el objeto de asegurar los recursos para una adecuada prestación del servicio educacional.
+
+La Superintendencia de Educación, mediante instrucciones de carácter general, regulará lo dispuesto en el inciso precedente y fiscalizará su cumplimiento.
+
+Sin perjuicio de lo anterior, los sostenedores deberán informar a la Superintendencia de Educación cuál o cuáles de sus directores ejercerán las funciones indicadas en el numeral i) del inciso segundo. Por su parte, dicha Superintendencia, en uso de sus atribuciones, podrá solicitar información respecto de la acreditación del cumplimiento de dichas funciones.
+
+Las operaciones que se realicen en virtud de los numerales iii), iv), v), vi), vii), viii), ix), x) y xi) del inciso segundo, estarán sujetas a las siguientes restricciones:
+
+a) No podrán realizarse con personas relacionadas con los sostenedores o representantes legales del establecimiento, salvo que se trate de personas jurídicas sin fines de lucro o de derecho público que presten permanentemente servicios al o los establecimientos educacionales de dependencia del sostenedor en materias técnico pedagógicas, de capacitación y desarrollo de su proyecto educativo. El sostenedor deberá informar sobre dichas personas a la Superintendencia de Educación.
+
+b) Deberán realizarse de acuerdo a las condiciones de mercado para el tipo de operación de que se trate en el momento de celebrar el acto o contrato. Tratándose de operaciones a título oneroso, el precio de la transferencia no podrá ser superior a aquél que prevalece en el mercado.
+
+En ejercicio de sus facultades generales de fiscalización y auditoría, la Superintendencia de Educación, tratándose de las operaciones que se desarrollen en virtud de los numerales iii), iv), v), vi), vii), viii), ix), x) y xi) del inciso segundo, podrá solicitar al Servicio de Impuestos Internos que realice las tasaciones que correspondan de conformidad a lo dispuesto en el artículo 64 del Código Tributario.
+
+Se prohíbe a los directores o representantes legales de la entidad sostenedora
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+realizar cualquiera de las siguientes acciones:
+
+1) Inducir a los administradores o a quienes ejerzan cargos análogos a rendir cuentas irregulares, presentar informaciones falsas u ocultar información.
+
+2) Tomar en préstamo dinero o bienes de la entidad sostenedora o usar en provecho propio o a favor de personas relacionadas con ellos los bienes, servicios o créditos de la entidad sostenedora.
+
+3) Usar en beneficio propio o de personas relacionadas a ellos, con perjuicio para la entidad sostenedora, las oportunidades comerciales de que tuvieren conocimiento en razón de su cargo.
+
+4) En general, practicar actos contrarios a los estatutos o al fin educacional de la entidad sostenedora o usar su cargo para obtener ventajas indebidas para sí o para personas relacionadas con ellos en perjuicio de la entidad sostenedora y su fin.
+
+La infracción de lo dispuesto en este artículo será considerada infracción grave en los términos del artículo 76 de la ley Nº20.529.
+
+Un reglamento del Ministerio de Educación, que deberá ser firmado por el Ministro de Hacienda, regulará las materias de que trata este artículo, sin perjuicio de las normas de carácter general que respecto de estas materias deberá dictar la Superintendencia de Educación.
+
+##### Artículo 3º bis.-
+Para efectos de lo señalado en el artículo anterior, se entenderán por personas relacionadas las siguientes:
+
+a) Los miembros o asociados, fundadores, directivos, administradores o representantes legales de la entidad sostenedora y los directivos del establecimiento educacional, de acuerdo a lo dispuesto en la letra a) del artículo 46 del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación.
+
+b) Los cónyuges y parientes hasta el tercer grado de consanguinidad o afinidad de cualquiera de las personas indicadas en la letra a).
+
+c) Las personas jurídicas en que cualquiera de las personas indicadas en las letras a) y b) anteriores posean directa o indirectamente el 10% o más del capital de ésta, la calidad de directivo o de administrador.
+
+d) Las personas naturales o jurídicas que tengan con cualquiera de las personas indicadas en las letras a) y b) negocios en común en cuya propiedad o control influyan en forma decisiva.
+
+Sin perjuicio de lo anterior, la Superintendencia de Educación podrá establecer, mediante normas de carácter general, que es relacionada a un sostenedor toda persona natural o jurídica que por relaciones patrimoniales, de administración, de parentesco, de responsabilidad o de subordinación, haga presumir que:
+
+i) Sus negocios con la entidad sostenedora son de tal importancia o vinculación estratégica, que originan conflictos de intereses con ésta;
+
+ii) Su administración es influenciada determinantemente por la entidad sostenedora, y viceversa, o
+
+iii) Por su cargo o posición está en situación de disponer de información de la entidad sostenedora y de su administración, que no haya sido divulgada públicamente por los medios que franquea la ley, y que sea capaz de influir en las decisiones de esa entidad.
+
+Para efectos de lo dispuesto en el presente artículo, se aplicarán supletoriamente las normas del Título XV de la ley Nº18.045.
+
+##### Artículo 3º ter.-
+El que, administrando a cualquier título los recursos públicos u otros que perciba el sostenedor en su calidad de tal, los sustraiga o destine a una finalidad diferente de los fines educativos señalados en el artículo 3º, estará obligado a reintegrarlos al establecimiento educacional, debidamente reajustados conforme a la variación expresada por el Índice de Precios al Consumidor (IPC) en el período comprendido entre el mes anterior a aquel en que se hizo la sustracción o desvío y el mes anterior en que se produjere la restitución. Comprobada la infracción, ésta será sancionada por la Superintendencia de Educación, conforme a las normas del Título III de la ley Nº20.529, con una multa del 50% de la suma sustraída o desviada. Dichos montos en ningún caso podrán ser descontados ni pagados con cargo a cualquiera de los recursos públicos u otros que perciba el sostenedor en su calidad de tal.
+
+Las infracciones cometidas en el uso de los recursos a que se refiere el inciso primero del presente artículo generarán, además, las responsabilidades civiles y penales que el ordenamiento jurídico dispone. En este caso, la Superintendencia o el Servicio de Impuestos Internos deberán denunciar al Ministerio Público los hechos de que tomen conocimiento para los fines correspondientes.
+
+##### Artículo 3º quáter.-
+Los recursos de la subvención escolar y demás aportes que perciba el sostenedor en su calidad de tal podrán distribuirse entre los distintos establecimientos educacionales subvencionados de su dependencia, con el objeto de facilitar el funcionamiento en red de dichos establecimientos, sin perjuicio de lo dispuesto en leyes especiales.".
 
 - Modifícase el artículo 5º en el siguiente sentido:
 
@@ -327,7 +400,7 @@ Las medidas de expulsión y cancelación de matrícula sólo podrán aplicarse c
 
 - Intercálanse, en la letra d), los siguientes párrafos séptimo, octavo, noveno, décimo, undécimo y duodécimo:
 
-"Previo al inicio del procedimiento de expulsión o de cancelación de matrícula, el director del establecimiento deberá haber representado a los padres, madres o apoderados, la inconveniencia de las conductas, advirtiendo la posible aplicación de sanciones e implementado a favor de el o la estudiante las medidas de apoyo pedagógico o psicosocial que estén expresamente establecidas en el reglamento interno del establecimiento educacional, las que en todo caso deberán ser pertinentes a la entidad y gravedad de la infracción cometida, resguardando siempre el interés superior del niño o pupilo. No se podrá expulsar o cancelar la matrícula de un estudiante en un período del año escolar que haga imposible que pueda ser matriculado en otro establecimiento educacional. Lo dispuesto en el párrafo precedente no será aplicable cuando se trate de una conducta que atente directamente contra la integridad física o psicológica de alguno de los miembros de la comunidad escolar, de conformidad al Párrafo 3º del Título I del decreto con fuerza de ley Nº2, de 2009, del Misterio de Educación. En ese caso se procederá con arreglo a los párrafos siguientes. Las medidas de expulsión o cancelación de matrícula sólo podrán adoptarse mediante un procedimiento previo, racional y justo que deberá estar contemplado en el reglamento interno del establecimiento, garantizando el derecho del estudiante afectado y,o del padre, madre o apoderado a realizar sus descargos y a solicitar la reconsideración de la medida. La decisión de expulsar o cancelar la matrícula a un estudiante sólo podrá ser adoptada por el director del establecimiento. Esta decisión, junto a sus fundamentos, deberá ser notificada por escrito al estudiante afectado y a su padre, madre o apoderado, según el caso, quienes podrán pedir la reconsideración de la medida dentro de quince días de su notificación, ante la misma autoridad, quien resolverá previa consulta al Consejo de Profesores. El Consejo deberá pronunciarse por escrito, debiendo tener a la vista el o los informes técnicos psicosociales pertinentes y que se encuentren disponibles. Los sostenedores y,o directores no podrán cancelar la matrícula, expulsar o suspender a sus estudiantes por causales que se deriven de su situación socioeconómica o del rendimiento académico, o vinculadas a la presencia de necesidades educativas especiales de carácter permanente y transitorio definidas en el inciso segundo del artículo 9º, que se presenten durante sus estudios. A su vez, no podrán, ni directa ni indirectamente, ejercer cualquier forma de presión madres o apoderados, tendientes a que opten por otro establecimiento en razón de dichas dificultades. En caso que el o la estudiante repita de curso, deberá estarse a lo señalado en el inciso sexto del artículo 11 del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación. El director, una vez que haya aplicado la medida de expulsión o cancelación de matrícula, deberá informar de aquella a la Dirección Regional respectiva de la Superintendencia de Educación, dentro del plazo de cinco días hábiles, a fin de que ésta revise, en la forma, el cumplimiento del procedimiento descrito en los párrafos anteriores. Corresponderá al Ministerio de Educación velar por la reubicación del estudiante afectado por la medida y adoptar las medidas de apoyo
+"Previo al inicio del procedimiento de expulsión o de cancelación de matrícula, el director del establecimiento deberá haber representado a los padres, madres o apoderados, la inconveniencia de las conductas, advirtiendo la posible aplicación de sanciones e implementado a favor de el o la estudiante las medidas de
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -335,7 +408,31 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 9]]
 
-- dirigida a los estudiantes que presenten dificultades de aprendizaje, o a sus padres, necesarias.". j) Reemplázase el párrafo primero de la letra e) por el siguiente: "e) Que entre las exigencias de ingreso, permanencia o participación de los estudiantes en toda actividad curricular o extracurricular relacionada con el proyecto educativo, no figuren cobros ni aportes económicos obligatorios, directos, indirectos o de terceros, tales como fundaciones, corporaciones o entidades culturales deportivas, o de cualquier naturaleza. Sin perjuicio de lo anterior, los padres y apoderados podrán acordar y realizar aportes de carácter voluntario, no regulares, con el objeto de financiar actividades extracurriculares. Los aportes que al efecto se realicen no constituirán donaciones.". k) Reemplázanse los párrafos segundo y tercero de la letra e) por el siguiente: "Asimismo, la exigencia de textos escolares o materiales de estudio determinados, que no sean los proporcionados por el Ministerio de Educación, no podrá condicionar el ingreso o permanencia de un estudiante, por lo que, en caso que éste no pueda adquirirlos, deberán ser provistos por el establecimiento.". l) Agrégase una letra f) bis del siguiente tenor: "f) bis.- Que se establezcan programas especiales de apoyo a aquellos estudiantes que presenten bajo rendimiento académico que afecte su proceso de aprendizaje, así como planes de apoyo a la inclusión, con el objeto de fomentar una buena convivencia escolar, sin perjuicio de lo establecido en la ley Nº20.248.". m) Agrégase una letra f) ter del siguiente tenor:
+apoyo pedagógico o psicosocial que estén expresamente establecidas en el reglamento interno del establecimiento educacional, las que en todo caso deberán ser pertinentes a la entidad y gravedad de la infracción cometida, resguardando siempre el interés superior del niño o pupilo. No se podrá expulsar o cancelar la matrícula de un estudiante en un período del año escolar que haga imposible que pueda ser matriculado en otro establecimiento educacional.
+
+Lo dispuesto en el párrafo precedente no será aplicable cuando se trate de una conducta que atente directamente contra la integridad física o psicológica de alguno de los miembros de la comunidad escolar, de conformidad al Párrafo 3º del Título I del decreto con fuerza de ley Nº2, de 2009, del Misterio de Educación. En ese caso se procederá con arreglo a los párrafos siguientes.
+
+Las medidas de expulsión o cancelación de matrícula sólo podrán adoptarse mediante un procedimiento previo, racional y justo que deberá estar contemplado en el reglamento interno del establecimiento, garantizando el derecho del estudiante afectado y,o del padre, madre o apoderado a realizar sus descargos y a solicitar la reconsideración de la medida.
+
+La decisión de expulsar o cancelar la matrícula a un estudiante sólo podrá ser adoptada por el director del establecimiento. Esta decisión, junto a sus fundamentos, deberá ser notificada por escrito al estudiante afectado y a su padre, madre o apoderado, según el caso, quienes podrán pedir la reconsideración de la medida dentro de quince días de su notificación, ante la misma autoridad, quien resolverá previa consulta al Consejo de Profesores. El Consejo deberá pronunciarse por escrito, debiendo tener a la vista el o los informes técnicos psicosociales pertinentes y que se encuentren disponibles.
+
+Los sostenedores y,o directores no podrán cancelar la matrícula, expulsar o suspender a sus estudiantes por causales que se deriven de su situación socioeconómica o del rendimiento académico, o vinculadas a la presencia de necesidades educativas especiales de carácter permanente y transitorio definidas en el inciso segundo del artículo 9º, que se presenten durante sus estudios. A su vez, no podrán, ni directa ni indirectamente, ejercer cualquier forma de presión dirigida a los estudiantes que presenten dificultades de aprendizaje, o a sus padres, madres o apoderados, tendientes a que opten por otro establecimiento en razón de dichas dificultades. En caso que el o la estudiante repita de curso, deberá estarse a lo señalado en el inciso sexto del artículo 11 del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación.
+
+El director, una vez que haya aplicado la medida de expulsión o cancelación de matrícula, deberá informar de aquella a la Dirección Regional respectiva de la Superintendencia de Educación, dentro del plazo de cinco días hábiles, a fin de que ésta revise, en la forma, el cumplimiento del procedimiento descrito en los párrafos anteriores. Corresponderá al Ministerio de Educación velar por la reubicación del estudiante afectado por la medida y adoptar las medidas de apoyo necesarias.".
+
+j) Reemplázase el párrafo primero de la letra e) por el siguiente:
+
+"e) Que entre las exigencias de ingreso, permanencia o participación de los estudiantes en toda actividad curricular o extracurricular relacionada con el proyecto educativo, no figuren cobros ni aportes económicos obligatorios, directos, indirectos o de terceros, tales como fundaciones, corporaciones o entidades culturales deportivas, o de cualquier naturaleza. Sin perjuicio de lo anterior, los padres y apoderados podrán acordar y realizar aportes de carácter voluntario, no regulares, con el objeto de financiar actividades extracurriculares. Los aportes que al efecto se realicen no constituirán donaciones.".
+
+k) Reemplázanse los párrafos segundo y tercero de la letra e) por el siguiente:
+
+"Asimismo, la exigencia de textos escolares o materiales de estudio determinados, que no sean los proporcionados por el Ministerio de Educación, no podrá condicionar el ingreso o permanencia de un estudiante, por lo que, en caso que éste no pueda adquirirlos, deberán ser provistos por el establecimiento.".
+
+l) Agrégase una letra f) bis del siguiente tenor:
+
+"f) bis.- Que se establezcan programas especiales de apoyo a aquellos estudiantes que presenten bajo rendimiento académico que afecte su proceso de aprendizaje, así como planes de apoyo a la inclusión, con el objeto de fomentar una buena convivencia escolar, sin perjuicio de lo establecido en la ley Nº20.248.".
+
+m) Agrégase una letra f) ter del siguiente tenor:
 
 "f) ter.- Que el reglamento interno a que hace referencia la letra d) de este artículo reconozca expresamente el derecho de asociación, tanto de los y las estudiantes, padres y apoderados, como también del personal docente y asistente de la educación, de conformidad a lo establecido en la Constitución y la ley. En ningún caso el sostenedor podrá obstaculizar ni afectar el ejercicio de este derecho, sin perjuicio de las normas sobre derechos y deberes de la comunidad escolar que se establecen en el decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación.".
 
@@ -355,7 +452,37 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 11]]
 
-Todos los estudiantes que postulen a un establecimiento educacional deberán ser admitidos, en caso de que los cupos disponibles sean suficientes en relación al número de postulaciones. Sólo en los casos de que los cupos disponibles sean menores al número de postulantes, los establecimientos educacionales deberán aplicar un procedimiento de admisión aleatorio definido por éstos, de entre los mecanismos que ponga a su disposición el Ministerio de Educación, que deberán ser objetivos y transparentes. Dicho procedimiento de admisión deberá considerar los siguientes criterios de prioridad en orden sucesivo, para su incorporación directa a la lista de admisión del establecimiento: a) Existencia de hermanas o hermanos que postulen o se encuentren matriculados en el mismo establecimiento. b) Incorporación del 15% de estudiantes prioritarios, de conformidad al artículo 6º, letra a) ter. c) La condición de hijo o hija de un profesor o profesora, asistente de la educación, manipulador o manipuladora de alimentos o cualquier otro trabajador o trabajadora que preste servicios permanentes en el establecimiento educacional. d) La circunstancia de haber estado matriculado anteriormente en el establecimiento educacional al que se postula, salvo que el postulante hubiere sido expulsado con anterioridad del mismo. Si aplicando el procedimiento señalado en el inciso anterior, se presentara el caso que el número de postulantes que cumple con un mismo criterio es superior al número de vacantes que informa el establecimiento, se aplicará respecto de dichos postulantes el sistema de admisión aleatorio definido por el establecimiento. El Ministerio de Educación pondrá a disposición de los establecimientos educacionales un mecanismo para realizar el proceso de admisión, según lo dispuesto en el inciso anterior. Su uso será voluntario. Los establecimientos educacionales deberán informar al Ministerio de Educación el mecanismo aleatorio que aplicarán de conformidad a lo dispuesto en este artículo, así como el día, hora y lugar en que se desarrollará el proceso de admisión. Asimismo, deberán remitir copia de estos antecedentes a la Superintendencia. Una vez realizado dicho proceso, los establecimientos deberán informar, en listas separadas, el total de postulantes en el orden que cada uno de éstos ocupó en el proceso respectivo, de conformidad a lo establecido en el inciso tercero. Corresponderá especialmente a la Superintendencia de Educación la fiscalización de los procesos de admisión, pudiendo, al efecto, visitar los establecimientos educacionales durante las distintas etapas del proceso. Una vez recibida la información señalada en el inciso anterior, el Ministerio de Educación revisará que no se presenten admisiones de un mismo estudiante en distintos establecimientos educacionales y velará porque los cupos se vayan completando acorde a las prioridades de los padres, madres o apoderados, optimizando de manera que los postulantes queden en su más alta preferencia. En caso que el Ministerio de Educación tome conocimiento de antecedentes que puedan constituir una infracción, informará a la Superintendencia de Educación para que ejerza sus atribuciones de conformidad a la ley Nº20.529. La Superintendencia de Educación iniciará un procedimiento sancionatorio si el orden asignado a los estudiantes hace presumir razonablemente que el procedimiento de admisión ha sido realizado incurriendo en discriminaciones arbitrarias. Se considerará infracción grave, en los términos del artículo 76 de la ley Nº20.529, que el sostenedor informe un número de cupos menor que el de los estudiantes formalmente matriculados. Si durante el proceso de revisión de las listas de admisión de los establecimientos educacionales, el Ministerio de Educación constata que un postulante no hubiere sido admitido en ninguna de las opciones escogidas, procederá a registrar a dicho estudiante en el establecimiento educacional más cercano a su domicilio que cuente con cupos disponibles, salvo que hubiere sido expulsado de dicho establecimiento educacional, caso en el cual será registrado en el siguiente más cercano a su domicilio, y así sucesivamente. Con todo, los padres, madres o apoderados que se encuentren en esta situación siempre podrán acogerse a lo dispuesto en el inciso decimocuarto. Finalizado el procedimiento señalado en el presente artículo, el Ministerio de Educación enviará a los establecimientos educacionales sus listas de admisión finales para efectos que éstos comuniquen a los padres, madres y apoderados de la aceptación de los postulantes. En dicha comunicación se establecerá el plazo que tienen para manifestar su aceptación y matricular a los postulantes. Un reglamento del Ministerio de Educación regulará el sistema de registro señalado en el artículo precedente y establecerá el procedimiento de postulación y admisión de los y las estudiantes, así como la determinación de los cupos dentro del establecimiento educacional, considerando las debidas reservas para aquellos o aquellas que pudieran repetir de curso. En particular, definirá la forma en que se registrarán las postulaciones, los procesos mediante los cuales se irán completando las distintas listas de espera y los plazos para las distintas etapas. Asimismo, dicho reglamento establecerá la forma en que los establecimientos comunicarán al Ministerio de Educación y a los padres, madres y apoderados, la información requerida para el proceso de admisión y el resultado de dichos procesos. En caso de que los padres, madres o apoderados no hayan participado en los procesos de postulación, por cualquier causa, podrán solicitar a la Secretaría Regional Ministerial de Educación correspondiente que informe sobre los establecimientos educacionales que, luego de haber realizado el proceso de admisión regulado en el presente artículo, cuenten con cupos disponibles. Los padres, madres y apoderados deberán postular directamente en dichos establecimientos y éstos deberán cumplir con lo dispuesto en el inciso primero y quedarán sujetos a la prohibición señalada en el inciso tercero, ambos del artículo 7º bis. Estos establecimientos deberán registrar estas postulaciones e informarlas al Ministerio de Educación. Artículo 7º quáter.- Los establecimientos educacionales siempre podrán implementar entrevistas con los padres y apoderados de los estudiantes ya matriculados, con la finalidad de entregar operatividad real a la adhesión y compromiso con el proyecto educativo prescrito en el inciso sexto del artículo 7º bis. Artículo 7º quinquies.- El Ministerio de Educación excepcionalmente autorizará para establecer procedimientos especiales de admisión, a partir de 7º año de la educación general básica o el equivalente que determine la ley, a aquellos establecimientos educacionales cuyos proyectos educativos tengan por objeto principal desarrollar aptitudes que requieran una especialización temprana, o a aquellos cuyos proyectos educativos sean de especial o alta exigencia académica, siempre y cuando acrediten:
+Todos los estudiantes que postulen a un establecimiento educacional deberán ser admitidos, en caso de que los cupos disponibles sean suficientes en relación al número de postulaciones.
+
+Sólo en los casos de que los cupos disponibles sean menores al número de postulantes, los establecimientos educacionales deberán aplicar un procedimiento de admisión aleatorio definido por éstos, de entre los mecanismos que ponga a su disposición el Ministerio de Educación, que deberán ser objetivos y transparentes. Dicho procedimiento de admisión deberá considerar los siguientes criterios de prioridad en orden sucesivo, para su incorporación directa a la lista de admisión del establecimiento:
+
+a) Existencia de hermanas o hermanos que postulen o se encuentren matriculados en el mismo establecimiento.
+
+b) Incorporación del 15% de estudiantes prioritarios, de conformidad al artículo 6º, letra a) ter.
+
+c) La condición de hijo o hija de un profesor o profesora, asistente de la educación, manipulador o manipuladora de alimentos o cualquier otro trabajador o trabajadora que preste servicios permanentes en el establecimiento educacional.
+
+d) La circunstancia de haber estado matriculado anteriormente en el establecimiento educacional al que se postula, salvo que el postulante hubiere sido expulsado con anterioridad del mismo.
+
+Si aplicando el procedimiento señalado en el inciso anterior, se presentara el caso que el número de postulantes que cumple con un mismo criterio es superior al número de vacantes que informa el establecimiento, se aplicará respecto de dichos postulantes el sistema de admisión aleatorio definido por el establecimiento.
+
+El Ministerio de Educación pondrá a disposición de los establecimientos educacionales un mecanismo para realizar el proceso de admisión, según lo dispuesto en el inciso anterior. Su uso será voluntario.
+
+Los establecimientos educacionales deberán informar al Ministerio de Educación el mecanismo aleatorio que aplicarán de conformidad a lo dispuesto en este artículo, así como el día, hora y lugar en que se desarrollará el proceso de admisión. Asimismo, deberán remitir copia de estos antecedentes a la Superintendencia. Una vez realizado dicho proceso, los establecimientos deberán informar, en listas separadas, el total de postulantes en el orden que cada uno de éstos ocupó en el proceso respectivo, de conformidad a lo establecido en el inciso tercero. Corresponderá especialmente a la Superintendencia de Educación la fiscalización de los procesos de admisión, pudiendo, al efecto, visitar los establecimientos educacionales durante las distintas etapas del proceso.
+
+Una vez recibida la información señalada en el inciso anterior, el Ministerio de Educación revisará que no se presenten admisiones de un mismo estudiante en distintos establecimientos educacionales y velará porque los cupos se vayan completando acorde a las prioridades de los padres, madres o apoderados, optimizando de manera que los postulantes queden en su más alta preferencia.
+
+En caso que el Ministerio de Educación tome conocimiento de antecedentes que puedan constituir una infracción, informará a la Superintendencia de Educación para que ejerza sus atribuciones de conformidad a la ley Nº20.529.
+
+La Superintendencia de Educación iniciará un procedimiento sancionatorio si el orden asignado a los estudiantes hace presumir razonablemente que el procedimiento de admisión ha sido realizado incurriendo en discriminaciones arbitrarias.
+
+Se considerará infracción grave, en los términos del artículo 76 de la ley Nº20.529, que el sostenedor informe un número de cupos menor que el de los estudiantes formalmente matriculados.
+
+Si durante el proceso de revisión de las listas de admisión de los establecimientos educacionales, el Ministerio de Educación constata que un postulante no hubiere sido admitido en ninguna de las opciones escogidas, procederá a registrar a dicho estudiante en el establecimiento educacional más cercano a su domicilio que cuente con cupos disponibles, salvo que hubiere sido expulsado de dicho establecimiento educacional, caso en el cual será registrado en el siguiente más cercano a su domicilio, y así sucesivamente. Con todo, los padres, madres o apoderados que se encuentren en esta situación siempre podrán acogerse a lo dispuesto en el inciso decimocuarto.
+
+Finalizado el procedimiento señalado en el presente artículo, el Ministerio de Educación enviará a los establecimientos educacionales sus listas de admisión finales para efectos que éstos comuniquen a los padres, madres y apoderados de la aceptación de los postulantes. En dicha comunicación se establecerá el plazo que tienen para manifestar su aceptación y matricular a los postulantes.
+
+Un reglamento del Ministerio de Educación regulará el sistema de registro señalado en el artículo precedente y establecerá el procedimiento de postulación y admisión de los y las estudiantes, así como la determinación de los cupos dentro del establecimiento educacional, considerando las debidas reservas para aquellos o aquellas que pudieran repetir de curso. En particular, definirá la forma en que se registrarán las postulaciones, los procesos mediante los cuales se irán completando
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -363,17 +490,41 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 12]]
 
-- Que cuentan con planes y programas propios destinados específicamente a la implementación de su proyecto educativo, el cual está destinado al desarrollo de aptitudes que requieran de una especialización temprana, o para la especial o alta exigencia académica.
+las distintas listas de espera y los plazos para las distintas etapas. Asimismo, dicho reglamento establecerá la forma en que los establecimientos comunicarán al Ministerio de Educación y a los padres, madres y apoderados, la información requerida para el proceso de admisión y el resultado de dichos procesos.
 
-- Que cuentan con una trayectoria y prestigio en el desarrollo de su proyecto educativo y resultados de excelencia. En el caso de establecimientos de especial o alta exigencia, se considerará el rendimiento académico destacado dentro de su región, su carácter gratuito y selectividad académica.
+En caso de que los padres, madres o apoderados no hayan participado en los procesos de postulación, por cualquier causa, podrán solicitar a la Secretaría Regional Ministerial de Educación correspondiente que informe sobre los establecimientos educacionales que, luego de haber realizado el proceso de admisión regulado en el presente artículo, cuenten con cupos disponibles. Los padres, madres y apoderados deberán postular directamente en dichos establecimientos y éstos deberán cumplir con lo dispuesto en el inciso primero y quedarán sujetos a la prohibición señalada en el inciso tercero, ambos del artículo 7º bis.
 
-- Que cuentan con los recursos materiales y humanos necesarios y suficientes para el desarrollo de su proyecto educativo.
+Estos establecimientos deberán registrar estas postulaciones e informarlas al Ministerio de Educación.
 
-- Que cuentan con una demanda considerablemente mayor que sus vacantes.
+Artículo 7º quáter.- Los establecimientos educacionales siempre podrán implementar entrevistas con los padres y apoderados de los estudiantes ya matriculados, con la finalidad de entregar operatividad real a la adhesión y compromiso con el proyecto educativo prescrito en el inciso sexto del artículo 7º bis.
 
-- La referida autorización sólo podrá otorgarse para un 30% de sus vacantes, según sus características, de conformidad a lo dispuesto en los incisos siguientes.
+Artículo 7º quinquies.- El Ministerio de Educación excepcionalmente autorizará para establecer procedimientos especiales de admisión, a partir de 7º año de la educación general básica o el equivalente que determine la ley, a aquellos establecimientos educacionales cuyos proyectos educativos tengan por objeto principal desarrollar aptitudes que requieran una especialización temprana, o a aquellos cuyos proyectos educativos sean de especial o alta exigencia académica, siempre y cuando acrediten:
 
-En el caso de los establecimientos de especial o alta exigencia, serán autorizados para desarrollar el procedimiento de admisión señalado en los artículos precedentes de entre aquellos postulantes que pertenezcan al 20% de los alumnos de mejor desempeño escolar del establecimiento educacional de procedencia, en la forma que determine el reglamento. Para el caso de los establecimientos educacionales cuyo proyecto educativo desarrolle aptitudes que requieran una especialización temprana, la mencionada autorización se pronunciará específicamente sobre las pruebas que pretenda aplicar el establecimiento, las que evaluarán exclusivamente las aptitudes señaladas y no medirán, directa o indirectamente, características académicas. Con todo, los antecedentes o pruebas a que se refieren los incisos anteriores no podrán considerar, directa o indirectamente, otras características, sean socioeconómicas, religiosas, culturales o de otra índole, que puedan implicar alguna discriminación arbitraria. Para obtener la autorización, el sostenedor interesado deberá presentar una solicitud fundada ante la Secretaría Regional Ministerial de Educación correspondiente, acompañando los antecedentes que la justifiquen, hasta el último día hábil de marzo del año anterior a aquel en que pretenda darle aplicación. La Secretaría Regional Ministerial de Educación dará curso a la solicitud presentada en tiempo y forma, enviando sus antecedentes y el informe que recaiga sobre ella al Ministerio de Educación. De no darse curso, el interesado tendrá un plazo de cinco días para rectificar la solicitud o acompañar los antecedentes correspondientes. Con el mérito de la solicitud, sus antecedentes y el informe de la Secretaría Regional Ministerial de Educación, el Ministerio de Educación resolverá la solicitud, mediante resolución fundada, en el plazo de noventa días. Dicha resolución será revisada en el plazo de noventa días por el Consejo Nacional de Educación. Se entenderá aceptada una solicitud cuando ésta fuere aprobada por el Ministerio de Educación y ratificada dicha decisión por la mayoría absoluta de los miembros en ejercicio del Consejo Nacional de Educación. Estando firme la resolución aprobatoria para adoptar un proceso de admisión especial, ella deberá ser renovada en el plazo de seis años, mediante el mismo procedimiento señalado previamente, manteniéndose su vigencia mientras se sustancie el respectivo procedimiento. Para el caso de los establecimientos educacionales de especial o alta exigencia, deberán demostrar especialmente que han continuado exhibiendo los estándares de excelencia en el rendimiento académico que justificaron la autorización.
+a) Que cuentan con planes y programas propios destinados específicamente a la implementación de su proyecto educativo, el cual está destinado al desarrollo de aptitudes que requieran de una especialización temprana, o para la especial o alta exigencia académica.
+
+b) Que cuentan con una trayectoria y prestigio en el desarrollo de su proyecto educativo y resultados de excelencia. En el caso de establecimientos de especial o alta exigencia, se considerará el rendimiento académico destacado dentro de su región, su carácter gratuito y selectividad académica.
+
+c) Que cuentan con los recursos materiales y humanos necesarios y suficientes para el desarrollo de su proyecto educativo.
+
+d) Que cuentan con una demanda considerablemente mayor que sus vacantes.
+
+La referida autorización sólo podrá otorgarse para un 30% de sus vacantes, según sus características, de conformidad a lo dispuesto en los incisos siguientes.
+
+En el caso de los establecimientos de especial o alta exigencia, serán autorizados para desarrollar el procedimiento de admisión señalado en los artículos precedentes de entre aquellos postulantes que pertenezcan al 20% de los alumnos de mejor desempeño escolar del establecimiento educacional de procedencia, en la forma que determine el reglamento.
+
+Para el caso de los establecimientos educacionales cuyo proyecto educativo desarrolle aptitudes que requieran una especialización temprana, la mencionada autorización se pronunciará específicamente sobre las pruebas que pretenda aplicar el establecimiento, las que evaluarán exclusivamente las aptitudes señaladas y no medirán, directa o indirectamente, características académicas.
+
+Con todo, los antecedentes o pruebas a que se refieren los incisos anteriores no podrán considerar, directa o indirectamente, otras características, sean socioeconómicas, religiosas, culturales o de otra índole, que puedan implicar alguna discriminación arbitraria.
+
+Para obtener la autorización, el sostenedor interesado deberá presentar una solicitud fundada ante la Secretaría Regional Ministerial de Educación correspondiente, acompañando los antecedentes que la justifiquen, hasta el último día hábil de marzo del año anterior a aquel en que pretenda darle aplicación.
+
+La Secretaría Regional Ministerial de Educación dará curso a la solicitud presentada en tiempo y forma, enviando sus antecedentes y el informe que recaiga sobre ella al Ministerio de Educación. De no darse curso, el interesado tendrá un plazo de cinco días para rectificar la solicitud o acompañar los antecedentes correspondientes.
+
+Con el mérito de la solicitud, sus antecedentes y el informe de la Secretaría Regional Ministerial de Educación, el Ministerio de Educación resolverá la solicitud, mediante resolución fundada, en el plazo de noventa días. Dicha resolución será revisada en el plazo de noventa días por el Consejo Nacional de Educación.
+
+Se entenderá aceptada una solicitud cuando ésta fuere aprobada por el Ministerio de Educación y ratificada dicha decisión por la mayoría absoluta de los miembros en ejercicio del Consejo Nacional de Educación.
+
+Estando firme la resolución aprobatoria para adoptar un proceso de admisión
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -381,7 +532,11 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 13]]
 
-Los establecimientos educacionales señalados en este artículo deberán promover la integración y desarrollo armónico de todos sus estudiantes y no podrán, en caso alguno, generar diferencias en la composición de los cursos o niveles sobre la base del resultado del procedimiento de admisión de éstos. Artículo 7º sexies.- La infracción de lo establecido en los artículos 7º bis, 7º ter y 7º quinquies, será sancionada con multa de 50 UTM. En caso de reincidencia, el establecimiento deberá dar aplicación, en lo sucesivo, al mecanismo de admisión aleatorio y transparente que, al efecto, le proporcione el Ministerio de Educación.
+especial, ella deberá ser renovada en el plazo de seis años, mediante el mismo procedimiento señalado previamente, manteniéndose su vigencia mientras se sustancie el respectivo procedimiento. Para el caso de los establecimientos educacionales de especial o alta exigencia, deberán demostrar especialmente que han continuado exhibiendo los estándares de excelencia en el rendimiento académico que justificaron la autorización.
+
+Los establecimientos educacionales señalados en este artículo deberán promover la integración y desarrollo armónico de todos sus estudiantes y no podrán, en caso alguno, generar diferencias en la composición de los cursos o niveles sobre la base del resultado del procedimiento de admisión de éstos.
+
+Artículo 7º sexies.- La infracción de lo establecido en los artículos 7º bis, 7º ter y 7º quinquies, será sancionada con multa de 50 UTM. En caso de reincidencia, el establecimiento deberá dar aplicación, en lo sucesivo, al mecanismo de admisión aleatorio y transparente que, al efecto, le proporcione el Ministerio de Educación.
 
 Artículo 7º septies.- Lo dispuesto en los artículos 7º bis, 7º ter, 7º quáter, 7º quinquies y 7º sexies no será aplicable a los establecimientos de educación especial diferencial ni a los establecimientos educacionales regulares con proyectos de integración escolar, respecto a sus cupos para niños integrados. Ambos tipos de establecimientos considerarán en sus procesos de admisión lo dispuesto en los artículos 9º y 9º bis.
 
@@ -474,25 +629,51 @@ Son corporaciones educacionales las personas jurídicas de derecho privado sin f
 Estas corporaciones serán sostenedoras de establecimientos educacionales y podrán impetrar las subvenciones y aportes estatales con fines educativos de conformidad a la ley.
 
 ###### Artículo 58 B.
-Las corporaciones educacionales se constituirán por medio de escritura pública o por instrumento privado reducido a escritura pública en la que conste el acta de constitución y los estatutos por los cuales deben regirse. El Ministerio de Educación pondrá a disposición de los interesados estatutos tipo para la constitución de una corporación educacional. Se deberá depositar, en la Secretaría Regional Ministerial de Educación que corresponda, copia autorizada del instrumento constitutivo y dos copias de los estatutos de la nueva persona jurídica en el registro especial que se llevará al efecto. La corporación educacional gozará de personalidad jurídica por el solo hecho del depósito, para cuyo efecto dicha Secretaría deberá autorizar una copia en la cual se acreditará fecha del depósito y la inserción en la misma del respectivo número del registro. La Secretaría Regional Ministerial de Educación no podrá negar el registro a una corporación educacional. Con todo, tendrá el plazo de noventa días, contado desde el respectivo depósito, para realizar observaciones a la constitución de la corporación, si faltare algún requisito para constituirla o si los estatutos no se ajustaren a lo prescrito por esta ley o a sus normas complementarias. La corporación educacional deberá subsanar las observaciones formuladas por la Secretaría Regional Ministerial de Educación, dentro del plazo de sesenta días contado desde su notificación, bajo apercibimiento de tener por caducada su personalidad jurídica, por el solo ministerio de la ley, procediendo dicha Secretaría a eliminarla del registro respectivo. En dicho registro se consignarán, además, los representantes y miembros de la corporación educacional, las modificaciones estatutarias, la disolución y la pérdida de la personalidad jurídica cuando correspondiere. Para dar cumplimiento a lo anterior, en caso de modificaciones de los estatutos, aprobadas según los requisitos que éstos establezcan y que sean reducidas a escritura pública, deben ser registradas en el Ministerio de Educación dentro del plazo de treinta días contado desde la fecha de la escritura pública de modificación respectiva. Un reglamento fijará la forma y modalidad en que deberá llevarse el registro, junto con la periodicidad y manera de su actualización.
-###### Artículo 58 C.
-La administración y dirección de la corporación educacional recaerá en uno o más miembros de ésta, quienes serán sus directores. Se deberá elegir entre los miembros del directorio a un presidente, quien será el representante judicial y extrajudicial de la corporación educacional y tendrá las demás atribuciones que fijen los estatutos.
-###### Artículo 58 D.
-Los directores de la corporación educacional no serán remunerados, salvo en los casos establecidos en los numerales i) y ii) del inciso segundo del artículo 3º, debiendo aplicarse a estas remuneraciones lo señalado en los incisos tercero y siguientes del mismo artículo.
-###### Artículo 58 E.
-El Ministerio de Educación dispondrá la cancelación de la personalidad jurídica de las corporaciones educacionales o las entidades individuales educacionales en aquellos casos en que la Superintendencia, en uso de sus atribuciones, constate incumplimientos graves a sus estatutos o a las disposiciones del presente Título. Se cancelará, de pleno derecho, la personalidad jurídica si, transcurrido el plazo de un año contado desde la fecha de obtención de ésta, la nueva corporación educacional no hubiere dado cumplimiento a los requisitos exigidos por la ley para que su o sus establecimientos educacionales obtengan el reconocimiento oficial. Las corporaciones y entidades individuales educacionales que sean sancionadas con la cancelación de su personalidad jurídica serán excluidas del registro al que hace mención el artículo 58 B.
-###### Artículo 58 F.
-Disuelta una corporación educacional, sus bienes deberán ser transferidos a otra persona jurídica sin fines de lucro cuyo fin sea la educación, de conformidad a lo que dispongan sus estatutos, o al Estado, en ambos casos para el cumplimiento del mismo fin. Lo anterior, sin perjuicio de las garantías constituidas sobre dichos bienes y de los derechos de los acreedores de la corporación educacional, de conformidad a la ley.
-###### Artículo 58 G.
-Las corporaciones educacionales, en tanto sostenedoras de establecimientos educacionales, serán fiscalizadas por la Superintendencia de Educación.
-###### Artículo 58 H.
-Una persona natural podrá constituir entidades individuales educacionales, que serán personas jurídicas de derecho privado sin fines de lucro, con personalidad jurídica y patrimonio propio distinto de la persona natural que la constituye, cuyo objeto único sea la educación. Estas entidades serán sostenedoras de establecimientos educacionales y podrán impetrar las subvenciones y aportes estatales con fines educativos, de conformidad a la ley. Estas entidades se constituirán de conformidad a lo señalado en el artículo 58 B de la presente ley. Respecto a las menciones de sus estatutos, deberán incorporar, además de las reguladas en el artículo 548-2 del Título XXXIII del Libro I del Código Civil, la individualización de la persona natural que la constituye, en particular, el nombre, apellidos, nacionalidad, estado civil, edad y domicilio.
+Las corporaciones educacionales se constituirán por medio de escritura pública o por instrumento privado reducido a escritura pública en la que
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+conste el acta de constitución y los estatutos por los cuales deben regirse. El Ministerio de Educación pondrá a disposición de los interesados estatutos tipo para la constitución de una corporación educacional.
+
+Se deberá depositar, en la Secretaría Regional Ministerial de Educación que corresponda, copia autorizada del instrumento constitutivo y dos copias de los estatutos de la nueva persona jurídica en el registro especial que se llevará al efecto. La corporación educacional gozará de personalidad jurídica por el solo hecho del depósito, para cuyo efecto dicha Secretaría deberá autorizar una copia en la cual se acreditará fecha del depósito y la inserción en la misma del respectivo número del registro.
+
+La Secretaría Regional Ministerial de Educación no podrá negar el registro a una corporación educacional. Con todo, tendrá el plazo de noventa días, contado desde el respectivo depósito, para realizar observaciones a la constitución de la corporación, si faltare algún requisito para constituirla o si los estatutos no se ajustaren a lo prescrito por esta ley o a sus normas complementarias.
+
+La corporación educacional deberá subsanar las observaciones formuladas por la Secretaría Regional Ministerial de Educación, dentro del plazo de sesenta días contado desde su notificación, bajo apercibimiento de tener por caducada su personalidad jurídica, por el solo ministerio de la ley, procediendo dicha Secretaría a eliminarla del registro respectivo.
+
+En dicho registro se consignarán, además, los representantes y miembros de la corporación educacional, las modificaciones estatutarias, la disolución y la pérdida de la personalidad jurídica cuando correspondiere. Para dar cumplimiento a lo anterior, en caso de modificaciones de los estatutos, aprobadas según los requisitos que éstos establezcan y que sean reducidas a escritura pública, deben ser registradas en el Ministerio de Educación dentro del plazo de treinta días contado desde la fecha de la escritura pública de modificación respectiva.
+
+Un reglamento fijará la forma y modalidad en que deberá llevarse el registro, junto con la periodicidad y manera de su actualización.
+
+###### Artículo 58 C.
+La administración y dirección de la corporación educacional recaerá en uno o más miembros de ésta, quienes serán sus directores. Se deberá elegir entre los miembros del directorio a un presidente, quien será el representante judicial y extrajudicial de la corporación educacional y tendrá las demás atribuciones que fijen los estatutos.
+
+###### Artículo 58 D.
+Los directores de la corporación educacional no serán remunerados, salvo en los casos establecidos en los numerales i) y ii) del inciso segundo del artículo 3º, debiendo aplicarse a estas remuneraciones lo señalado en los incisos tercero y siguientes del mismo artículo.
+
+###### Artículo 58 E.
+El Ministerio de Educación dispondrá la cancelación de la personalidad jurídica de las corporaciones educacionales o las entidades individuales educacionales en aquellos casos en que la Superintendencia, en uso de sus atribuciones, constate incumplimientos graves a sus estatutos o a las disposiciones del presente Título.
+
+Se cancelará, de pleno derecho, la personalidad jurídica si, transcurrido el plazo de un año contado desde la fecha de obtención de ésta, la nueva corporación educacional no hubiere dado cumplimiento a los requisitos exigidos por la ley para que su o sus establecimientos educacionales obtengan el reconocimiento oficial.
+
+Las corporaciones y entidades individuales educacionales que sean sancionadas con la cancelación de su personalidad jurídica serán excluidas del registro al que hace mención el artículo 58 B.
+
+###### Artículo 58 F.
+Disuelta una corporación educacional, sus bienes deberán ser transferidos a otra persona jurídica sin fines de lucro cuyo fin sea la educación, de conformidad a lo que dispongan sus estatutos, o al Estado, en ambos casos para el cumplimiento del mismo fin. Lo anterior, sin perjuicio de las garantías constituidas sobre dichos bienes y de los derechos de los acreedores de la corporación educacional, de conformidad a la ley.
+
+###### Artículo 58 G.
+Las corporaciones educacionales, en tanto sostenedoras de establecimientos educacionales, serán fiscalizadas por la Superintendencia de Educación.
+
+###### Artículo 58 H.
+Una persona natural podrá constituir entidades individuales educacionales, que serán personas jurídicas de derecho privado sin fines de lucro, con personalidad jurídica y patrimonio propio distinto de la persona natural que la constituye, cuyo objeto único sea la educación. Estas entidades serán sostenedoras de establecimientos educacionales y podrán impetrar las subvenciones y aportes estatales con fines educativos, de conformidad a la ley.
+
+Estas entidades se constituirán de conformidad a lo señalado en el artículo 58 B de la presente ley.
+
+Respecto a las menciones de sus estatutos, deberán incorporar, además de las reguladas en el artículo 548-2 del Título XXXIII del Libro I del Código Civil, la individualización de la persona natural que la constituye, en particular, el nombre, apellidos, nacionalidad, estado civil, edad y domicilio.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -625,6 +806,11 @@ a) Reemplázase su letra a) por la siguiente:
 
 - Sustitúyese la tabla del artículo 14 por la siguiente:
 
+|  | Desde 1º nivel de transición hasta 4º año de la educación básica | 5º y 6º año básico | 7º y 8º básico | Desde 1º hasta 4º año de enseñanza media |
+| --- | --- | --- | --- | --- |
+| A. Establecimientos educacionales autónomos | 2,0328 | 2,0328 | 1,3548 | 1,3548 |
+| B. Establecimientos educacionales emergentes | 1,0164 | 1,0164 | 0,6774 | 0,6774 |
+
 - Agrégase el siguiente artículo 14 bis:
 
 ##### "Artículo 14 bis.-
@@ -633,11 +819,6 @@ La subvención escolar preferencial para los alumnos preferentes será equivalen
 - Modifícase el artículo 15 en el siguiente sentido:
 
 - Reemplázase en el inciso primero la oración que se inicia con las palabras
-
-Desde 1º nivel de transición hasta 4º año de la educación básica | 5º y 6º año básico | 7º y 8º básico | Desde 1º hasta 4º año de enseñanza media
---- | --- | --- | --- | ---
-A. Establecimientos educacionales autónomos | 2,0328 | 2,0328 | 1,3548 | 1,3548
-B. Establecimientos educacionales emergentes | 1,0164 | 1,0164 | 0,6774 | 0,6774
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -731,9 +912,7 @@ El mayor gasto fiscal que represente la aplicación de la presente ley se financ
 La presente ley entrará en vigencia el 1 de marzo de 2016, sin perjuicio de las reglas especiales establecidas en los artículos siguientes. A los establecimientos educacionales que, a la fecha de entrada en vigencia de esta ley, funcionen en inmuebles gravados o hipotecados a favor del Fisco, no se les aplicará el requisito de estar el inmueble libre de gravámenes, que establece la letra a) quáter del artículo 6º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. Esta excepción cesará una vez que se cumpla el período que reste para alzar los gravámenes o hipotecas señalados.
 ### Párrafo 1º
 
-### De la prohibición del lucro en los establecimientos educacionales que reciben aportes del Estado
-#### Artículo segundo.-
-Hasta el 31 de diciembre de 2017, los sostenedores particulares que no estén organizados como una persona jurídica sin fines de lucro y que estén percibiendo la subvención del Estado que regula el decreto con fuerza de ley Nº2, del año 1998, del Ministerio de Educación, podrán transferir la calidad de sostenedor a una persona jurídica de derecho privado sin fines de lucro, sin que les sea aplicable lo señalado en el artículo 46, letra a), párrafo quinto, del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación. El sostenedor que haya adquirido su calidad de tal en conformidad al inciso anterior será el sucesor legal de todos los derechos y obligaciones que la persona transferente haya adquirido o contraído, con ocasión de la prestación del servicio educativo, manteniendo los establecimientos educacionales respecto de los cuales se traspasa la condición de sostenedor, el reconocimiento oficial con que contaren. Quien haya transferido su calidad de sostenedor y la persona jurídica sin fines de lucro que la haya adquirido, serán solidariamente responsables por todas las obligaciones laborales y previsionales, contraídas con anterioridad a la transferencia. En ningún caso la transferencia de la calidad de sostenedor alterará los derechos y obligaciones de los trabajadores, ni la subsistencia de los contratos de trabajo individuales o de los instrumentos colectivos de trabajo que los rijan, los que continuarán vigentes con el nuevo empleador, para todos los efectos legales, como si dicha transferencia no se hubiese producido. Sin perjuicio de lo dispuesto en el inciso segundo, sólo se transferirán las obligaciones que se hayan contraído para la adquisición de bienes esenciales para la prestación del servicio educacional. El sostenedor que haya adquirido su calidad de tal en conformidad a este artículo deberá informar y remitir copia a la Superintendencia de Educación de todos los actos y contratos celebrados de conformidad a lo dispuesto en el inciso anterior. Desde la entrada en vigencia de la presente ley, y hasta el 31 de diciembre de establecidos en el numeral 3) del artículo 2º de la presente ley regirán para los sostenedores que no estén organizados como persona jurídica sin fines de lucro
+### De la prohibición del lucro en los establecimientos educacionales que reciben
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -741,7 +920,22 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 21]]
 
-2017, las modificaciones al uso de los recursos de los establecimientos educacionales respecto de los recursos públicos de que sean beneficiarios.
+aportes del Estado
+
+#### Artículo segundo.-
+Hasta el 31 de diciembre de 2017, los sostenedores particulares que no estén organizados como una persona jurídica sin fines de lucro y que estén percibiendo la subvención del Estado que regula el decreto con fuerza de ley Nº2, del año 1998, del Ministerio de Educación, podrán transferir la calidad de sostenedor a una persona jurídica de derecho privado sin fines de lucro, sin que les sea aplicable lo señalado en el artículo 46, letra a), párrafo quinto, del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación.
+
+El sostenedor que haya adquirido su calidad de tal en conformidad al inciso anterior será el sucesor legal de todos los derechos y obligaciones que la persona transferente haya adquirido o contraído, con ocasión de la prestación del servicio educativo, manteniendo los establecimientos educacionales respecto de los cuales se traspasa la condición de sostenedor, el reconocimiento oficial con que contaren.
+
+Quien haya transferido su calidad de sostenedor y la persona jurídica sin fines de lucro que la haya adquirido, serán solidariamente responsables por todas las obligaciones laborales y previsionales, contraídas con anterioridad a la transferencia.
+
+En ningún caso la transferencia de la calidad de sostenedor alterará los derechos y obligaciones de los trabajadores, ni la subsistencia de los contratos de trabajo individuales o de los instrumentos colectivos de trabajo que los rijan, los que continuarán vigentes con el nuevo empleador, para todos los efectos legales, como si dicha transferencia no se hubiese producido.
+
+Sin perjuicio de lo dispuesto en el inciso segundo, sólo se transferirán las obligaciones que se hayan contraído para la adquisición de bienes esenciales para la prestación del servicio educacional.
+
+El sostenedor que haya adquirido su calidad de tal en conformidad a este artículo deberá informar y remitir copia a la Superintendencia de Educación de todos los actos y contratos celebrados de conformidad a lo dispuesto en el inciso anterior.
+
+Desde la entrada en vigencia de la presente ley, y hasta el 31 de diciembre de 2017, las modificaciones al uso de los recursos de los establecimientos educacionales establecidos en el numeral 3) del artículo 2º de la presente ley regirán para los sostenedores que no estén organizados como persona jurídica sin fines de lucro respecto de los recursos públicos de que sean beneficiarios.
 
 #### Artículo tercero.-
 El sostenedor que haya adquirido tal calidad de conformidad
@@ -751,9 +945,9 @@ a lo dispuesto en el artículo anterior deberá dar cumplimiento a lo establecid
 alzamiento.
 
 #### Artículo cuarto.-
-Sin perjuicio de lo dispuesto en el artículo anterior, los sostenedores que usen el inmueble en que funciona el establecimiento educacional en cualquiera de las calidades contempladas en el literal i) del artículo 46 del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación, podrán continuar ocupando dicho inmueble de conformidad a los incisos siguientes. Los sostenedores que tengan contratos de arrendamiento vigentes al inicio del año escolar 2014, podrán continuar con ellos en las mismas condiciones en ellos
+Sin perjuicio de lo dispuesto en el artículo anterior, los sostenedores que usen el inmueble en que funciona el establecimiento educacional en cualquiera de las calidades contempladas en el literal i) del artículo 46 del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación, podrán continuar ocupando dicho inmueble de conformidad a los incisos siguientes.
 
-señaladas hasta el plazo establecido en los incisos primero y segundo del artículo tercero transitorio, según corresponda. En caso que dichos contratos expiren durante el referido plazo, sólo podrán ser renovados por el tiempo que reste para su cumplimiento, con un canon de arrendamiento que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades. Los demás sostenedores podrán celebrar o continuar con sus contratos de arrendamiento, según corresponda, con un canon de arrendamiento que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades. Los contratos de arrendamiento a que se refieren los incisos anteriores estarán exceptuados de las restricciones respecto de personas relacionadas a que se refiere la letra a) del inciso sexto del artículo 3º y el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. Vencidos los plazos anteriormente señalados, dichos sostenedores podrán celebrar nuevos contratos de arrendamiento, los que deberán sujetarse a las
+Los sostenedores que tengan contratos de arrendamiento vigentes al inicio del año escolar 2014, podrán continuar con ellos en las mismas condiciones en ellos señaladas hasta el plazo establecido en los incisos primero y segundo del artículo
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -761,14 +955,34 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 22]]
 
-- siguientes reglas: 1º No podrán celebrarse con personas relacionadas, de acuerdo a las reglas establecidas en la letra a) del inciso sexto del artículo 3º y en el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, salvo que el arrendador sea una persona jurídica sin fines de lucro o una persona jurídica de derecho público. 2º Deberán estar inscritos en el Conservador de Bienes Raíces correspondiente. 3º Deberán celebrarse con una duración de, a lo menos, ocho años. Tal plazo se renovará automáticamente por igual período, salvo que el arrendador comunique su voluntad de no renovar el contrato antes que resten cuatro años para el término del plazo. Con todo, el arrendatario sólo estará obligado a restituir el inmueble una vez que se cumpla el plazo pactado. 4º La renta máxima mensual de estos contratos no podrá exceder del 11% del avalúo fiscal del inmueble arrendado dividido en 12 mensualidades. Esta renta deberá ser razonablemente proporcionada en consideración a los ingresos del establecimiento educacional por concepto de subvención y aportes del Estado, con el objeto de asegurar una adecuada prestación del servicio educativo. 5º Para efectos de impetrar la subvención educacional, en dichos contratos se deberá estipular de forma expresa que los gastos relativos a mejoras útiles o necesarias del inmueble arrendado son de cargo del dueño del inmueble y deberán ser descontados del canon de arriendo, no pudiendo establecerse estipulación en contrario. El pago de rentas de los contratos de arrendamiento a que se refiere este artículo, se considerará una operación que cumple con los fines educacionales, de conformidad a lo dispuesto en el artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. El propietario podrá solicitar al Servicio de Impuestos Internos la revisión del actual avalúo fiscal del inmueble en donde funciona el establecimiento educacional. La Superintendencia de Educación, en uso de sus atribuciones, fiscalizará el
+tercero transitorio, según corresponda. En caso que dichos contratos expiren durante el referido plazo, sólo podrán ser renovados por el tiempo que reste para su cumplimiento, con un canon de arrendamiento que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades.
 
-- cumplimiento de lo dispuesto en este artículo.
+Los demás sostenedores podrán celebrar o continuar con sus contratos de arrendamiento, según corresponda, con un canon de arrendamiento que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades.
+
+Los contratos de arrendamiento a que se refieren los incisos anteriores estarán exceptuados de las restricciones respecto de personas relacionadas a que se refiere la letra a) del inciso sexto del artículo 3º y el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+
+Vencidos los plazos anteriormente señalados, dichos sostenedores podrán celebrar nuevos contratos de arrendamiento, los que deberán sujetarse a las siguientes reglas:
+
+1º No podrán celebrarse con personas relacionadas, de acuerdo a las reglas establecidas en la letra a) del inciso sexto del artículo 3º y en el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, salvo que el arrendador sea una persona jurídica sin fines de lucro o una persona jurídica de derecho público.
+
+2º Deberán estar inscritos en el Conservador de Bienes Raíces correspondiente.
+
+3º Deberán celebrarse con una duración de, a lo menos, ocho años. Tal plazo se renovará automáticamente por igual período, salvo que el arrendador comunique su voluntad de no renovar el contrato antes que resten cuatro años para el término del plazo. Con todo, el arrendatario sólo estará obligado a restituir el inmueble una vez que se cumpla el plazo pactado.
+
+4º La renta máxima mensual de estos contratos no podrá exceder del 11% del avalúo fiscal del inmueble arrendado dividido en 12 mensualidades. Esta renta deberá ser razonablemente proporcionada en consideración a los ingresos del establecimiento educacional por concepto de subvención y aportes del Estado, con el objeto de asegurar una adecuada prestación del servicio educativo.
+
+5º Para efectos de impetrar la subvención educacional, en dichos contratos se deberá estipular de forma expresa que los gastos relativos a mejoras útiles o necesarias del inmueble arrendado son de cargo del dueño del inmueble y deberán ser descontados del canon de arriendo, no pudiendo establecerse estipulación en contrario.
+
+El pago de rentas de los contratos de arrendamiento a que se refiere este artículo, se considerará una operación que cumple con los fines educacionales, de conformidad a lo dispuesto en el artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+
+El propietario podrá solicitar al Servicio de Impuestos Internos la revisión del actual avalúo fiscal del inmueble en donde funciona el establecimiento educacional.
+
+La Superintendencia de Educación, en uso de sus atribuciones, fiscalizará el cumplimiento de lo dispuesto en este artículo.
 
 #### Artículo quinto.-
 Sin perjuicio de lo dispuesto en el artículo tercero transitorio, los sostenedores regidos por el decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, que, al inicio del año escolar 2014, gestionen establecimientos educacionales con una matrícula no superior a 400 estudiantes considerado el total de establecimientos de su dependencia, podrán acogerse al régimen excepcional que establecen los incisos siguientes. Si al inicio del año escolar 2014 se encontraban ocupando el inmueble en que funciona el establecimiento educacional en virtud de un contrato de arrendamiento celebrado con una persona relacionada, podrán mantener dicho contrato en las mismas condiciones en las que fue celebrado hasta por un plazo de seis años, contado desde que dé cumplimiento a lo dispuesto en el artículo segundo transitorio de la presente ley. En caso que dichos contratos expiren durante el plazo señalado anteriormente, sólo podrán ser renovados por el tiempo que reste para el cumplimento de aquel, con un canon de arrendamiento que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades. Dicho contrato estará exceptuado de las restricciones respecto de personas relacionadas a que se refiere la letra a) del inciso quinto del artículo 3º y el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. Finalizado el plazo señalado en el inciso segundo del presente artículo los sostenedores podrán celebrar un "contrato de uso de infraestructura para fines
 
-educacionales" del bien inmueble en que funciona el establecimiento educacional. Este contrato deberá cumplir con las siguientes reglas:
+educacionales" del bien inmueble en que funciona el establecimiento educacional. Este
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -776,7 +990,29 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 23]]
 
-a) El propietario del bien inmueble se obliga a entregar el uso de éste al sostenedor sin fines de lucro y a solventar los gastos relativos a mejoras útiles o necesarias de dicho inmueble. En ningún caso, ni directa o indirectamente, dichos gastos podrán ser solventados por el sostenedor con cargo a la subvención escolar u otros aportes que reciba en su calidad de tal. b) El sostenedor se obliga a compensar la depreciación de la propiedad pagando una suma que no podrá exceder del 4,2% del avalúo fiscal del inmueble dividido en doce mensualidades, debiendo imputar dicho gasto al numeral vii) del artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. c) Este contrato se mantendrá vigente durante el tiempo que se preste el servicio educacional por parte del sostenedor. Con todo, el propietario podrá, unilateralmente, poner término a dicho contrato informando al sostenedor con una anticipación de cinco años. d) En estos contratos estará siempre incluida la obligación del propietario de, al poner término al contrato, ofrecer el inmueble para su adquisición, de forma preferente, y en orden sucesivo, al sostenedor que lo está usando y al Estado. El propietario deberá comunicar a través de una carta certificada al sostenedor, el término del contrato y la oferta del inmueble para su adquisición. Dicha oferta deberá ser aceptada o rechazada dentro de un plazo de ciento ochenta días desde la recepción de la carta y, en caso que el sostenedor no se manifieste, se entenderá que rechaza la oferta. Si el sostenedor acepta la oferta y adquiere el inmueble, se entenderá que lo pagado corresponde a una operación que cumple con los fines educacionales establecidos en el artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. El inmueble adquirido quedará afecto a fines educativos. Por su parte, si es rechazada la oferta por el sostenedor, el propietario deberá, dentro de los ciento ochenta días anteriores al término del contrato de uso, comunicar al Estado la oferta de venta del inmueble. La compra por el Estado se regirá por las reglas del artículo decimoctavo transitorio. e) Este contrato deberá estar inscrito en el Conservador de Bienes Raíces correspondiente. En caso que el Ministerio de Educación determine que, durante dos años consecutivos, la matrícula total de el o los establecimientos educacionales señalados en el inciso primero supera los 400 estudiantes, el sostenedor tendrá el plazo de dos años contado desde la notificación del Ministerio de Educación, para dar cumplimiento a lo dispuesto en la letra a) quáter del artículo 6º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. El propietario podrá solicitar al Servicio de Impuestos Internos la revisión del actual avalúo fiscal del inmueble en donde funciona el establecimiento educacional. Para efectos de este artículo, se entenderán personas relacionadas las que define la letra a) del inciso sexto del artículo 3º y lo dispuesto en el artículo
+contrato deberá cumplir con las siguientes reglas:
+
+a) El propietario del bien inmueble se obliga a entregar el uso de éste al sostenedor sin fines de lucro y a solventar los gastos relativos a mejoras útiles o necesarias de dicho inmueble. En ningún caso, ni directa o indirectamente, dichos gastos podrán ser solventados por el sostenedor con cargo a la subvención escolar u otros aportes que reciba en su calidad de tal.
+
+b) El sostenedor se obliga a compensar la depreciación de la propiedad pagando una suma que no podrá exceder del 4,2% del avalúo fiscal del inmueble dividido en doce mensualidades, debiendo imputar dicho gasto al numeral vii) del artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+
+c) Este contrato se mantendrá vigente durante el tiempo que se preste el servicio educacional por parte del sostenedor. Con todo, el propietario podrá, unilateralmente, poner término a dicho contrato informando al sostenedor con una anticipación de cinco años.
+
+d) En estos contratos estará siempre incluida la obligación del propietario de, al poner término al contrato, ofrecer el inmueble para su adquisición, de forma preferente, y en orden sucesivo, al sostenedor que lo está usando y al Estado.
+
+El propietario deberá comunicar a través de una carta certificada al sostenedor, el término del contrato y la oferta del inmueble para su adquisición. Dicha oferta deberá ser aceptada o rechazada dentro de un plazo de ciento ochenta días desde la recepción de la carta y, en caso que el sostenedor no se manifieste, se entenderá que rechaza la oferta.
+
+Si el sostenedor acepta la oferta y adquiere el inmueble, se entenderá que lo pagado corresponde a una operación que cumple con los fines educacionales establecidos en el artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. El inmueble adquirido quedará afecto a fines educativos.
+
+Por su parte, si es rechazada la oferta por el sostenedor, el propietario deberá, dentro de los ciento ochenta días anteriores al término del contrato de uso, comunicar al Estado la oferta de venta del inmueble. La compra por el Estado se regirá por las reglas del artículo decimoctavo transitorio.
+
+e) Este contrato deberá estar inscrito en el Conservador de Bienes Raíces correspondiente.
+
+En caso que el Ministerio de Educación determine que, durante dos años consecutivos, la matrícula total de el o los establecimientos educacionales señalados en el inciso primero supera los 400 estudiantes, el sostenedor tendrá el plazo de dos años contado desde la notificación del Ministerio de Educación, para dar cumplimiento a lo dispuesto en la letra a) quáter del artículo 6º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+
+El propietario podrá solicitar al Servicio de Impuestos Internos la revisión del actual avalúo fiscal del inmueble en donde funciona el establecimiento educacional.
+
+Para efectos de este artículo, se entenderán personas relacionadas las que define la letra a) del inciso sexto del artículo 3º y lo dispuesto en el artículo
 
 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
@@ -807,7 +1043,7 @@ segundo del artículo quinto transitorio.
 #### Artículo octavo.-
 Los sostenedores podrán, respecto de los créditos que adquieran con empresas bancarias para los fines a que se refiere el artículo séptimo transitorio, contar con la garantía de la Corporación de Fomento de la Producción, en representación del Fondo señalado en el artículo undécimo transitorio, por el monto total de aquel crédito, y en los términos pactados entre el sostenedor y la empresa bancaria, siempre que se cumpla con las siguientes condiciones: a) Que la operación sea respaldada con una tasación aceptada, mediante resolución, por la Corporación de Fomento de la Producción, sea que esta fuere realizada por la empresa bancaria o por la comisión tasadora a que se refiere el artículo noveno transitorio. b) Que en el respectivo contrato de crédito se estipule expresamente lo siguiente: i. Los supuestos bajo los cuales se perderá el derecho a impetrar la subvención y los casos en que procederá la transferencia de la propiedad.
 
-- Que la propiedad adquirida quedará afecta al servicio educativo de
+ii. Que la propiedad adquirida quedará afecta al servicio educativo de
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -855,13 +1091,17 @@ cupos extraordinarios, en establecimientos educacionales públicos o privados re
 #### Artículo decimocuarto.-
 Autorízase a la Corporación de Fomento de la Producción para que, en representación y con cargo al Fondo, en caso que el sostenedor pierda el derecho a impetrar la subvención de conformidad a los artículos duodécimo y decimotercero transitorios o por cualquier otra causa legal, proceda a pagar las cuotas insolutas del contrato a que hace referencia el artículo octavo transitorio, operando la subrogación en los términos del numeral 5º del artículo 1610 del Código Civil. En todos los casos que el sostenedor pierda el derecho a impetrar la subvención, el Ministerio de Educación oficiará a la Corporación, para que proceda, en representación del Fondo, a dichos pagos y adquiera la propiedad de acuerdo a los incisos siguientes. Tomando conocimiento de la notificación señalada en el inciso anterior, la
 
-Corporación dictará una resolución haciendo efectiva la garantía de pago, la que se notificará por carta certificada al sostenedor. Con el solo mérito de dicha resolución, el Fondo recuperará los recursos públicos destinados al pago del crédito para la compra del inmueble mediante la adquisición de éste para el Fondo, el cual lo inscribirá a su nombre. Esta resolución podrá impugnarse judicialmente de conformidad a lo establecido en el artículo decimoquinto transitorio. La Corporación, en representación del Fondo, dentro del plazo de dos años desde adquirido el inmueble de que trata el inciso anterior, deberá transferirlo al Fisco, de conformidad a los artículos 36 y siguientes del decreto ley Nº1.939, o enajenarlo, mediante subasta pública de conformidad a lo dispuesto en el artículo 2º de la ley Nº19.085. De proceder la subasta, tendrán una primera opción de adjudicación quienes sean sostenedores de establecimientos educacionales regidos por el decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+Corporación dictará una resolución haciendo efectiva la garantía de pago, la que
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+se notificará por carta certificada al sostenedor. Con el solo mérito de dicha resolución, el Fondo recuperará los recursos públicos destinados al pago del crédito para la compra del inmueble mediante la adquisición de éste para el Fondo, el cual lo inscribirá a su nombre. Esta resolución podrá impugnarse judicialmente de conformidad a lo establecido en el artículo decimoquinto transitorio.
+
+La Corporación, en representación del Fondo, dentro del plazo de dos años desde adquirido el inmueble de que trata el inciso anterior, deberá transferirlo al Fisco, de conformidad a los artículos 36 y siguientes del decreto ley Nº1.939, o enajenarlo, mediante subasta pública de conformidad a lo dispuesto en el artículo 2º de la ley Nº19.085. De proceder la subasta, tendrán una primera opción de adjudicación quienes sean sostenedores de establecimientos educacionales regidos por el decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
 #### Artículo decimoquinto.-
 El sostenedor al que se le notifique la resolución señalada en el artículo anterior podrá reclamar de la misma, dentro del plazo de diez días hábiles, contado desde la respectiva notificación, ante la Corte de Apelaciones correspondiente al domicilio del reclamante. La Corte de Apelaciones dará traslado de la reclamación al Ministerio de Educación, notificándolo por oficio y éste dispondrá del plazo de diez días hábiles contado desde que se notifique la reclamación interpuesta, para emitir su informe. Evacuado el traslado por el Ministerio de Educación, o vencido el plazo de que dispone para emitir su informe, el tribunal ordenará traer los autos en relación y la causa se agregará extraordinariamente a la tabla de la audiencia más próxima, previo sorteo de la Sala. La Corte podrá, si lo estima pertinente, abrir un término probatorio que no podrá exceder de siete días, y escuchar los alegatos de las partes. La Corte dictará sentencia dentro del término de quince días. Contra la resolución de la Corte de Apelaciones se podrá apelar ante la Corte Suprema, dentro del plazo de diez días hábiles, la que conocerá en la forma prevista en los
@@ -871,23 +1111,38 @@ incisos anteriores.
 #### Artículo decimosexto.-
 Pagada la última cuota del crédito bancario garantizado, la Corporación dictará, a requerimiento del respectivo sostenedor, una resolución en que conste ello. Los inmuebles adquiridos según las disposiciones de este Párrafo quedarán afectos a fines educativos y no podrán ser destinados a otro fin. Cualquier estipulación contractual o estatutaria en contrario no producirá efecto alguno.
 
-### Párrafo 3º Reglas comunes a los Párrafos anteriores
+### Párrafo 3º
+### Reglas comunes a los Párrafos anteriores
 
 #### Artículo decimoséptimo.-
-El sostenedor que opte por dejar de percibir la subvención deberá comunicar esta decisión por escrito a los padres, madres o apoderados y a la comunidad educativa del establecimiento al inicio del año escolar anterior a aquel en que dejará de percibir subvención. Esta comunicación deberá indicar expresamente si el establecimiento educacional continuará o no en funcionamiento y las medidas que se adoptarán al efecto. por costo de capital adicional, deberá hacer devolución del mismo conforme a la ley
+El sostenedor que opte por dejar de percibir la subvención deberá comunicar esta decisión por escrito a los padres, madres o apoderados y a la comunidad educativa del establecimiento al inicio del año escolar anterior a aquel en que dejará de percibir subvención.
 
-En todo caso, el sostenedor que haya sido beneficiario del aporte suplementario Nº19.532 y su reglamento.
+Esta comunicación deberá indicar expresamente si el establecimiento educacional continuará o no en funcionamiento y las medidas que se adoptarán al efecto.
+
+En todo caso, el sostenedor que haya sido beneficiario del aporte suplementario por costo de capital adicional, deberá hacer devolución del mismo conforme a la ley Nº19.532 y su reglamento.
 
 #### Artículo decimoctavo.-
 En casos excepcionales, debidamente fundados por decreto expedido por el Ministerio de Educación, con la firma del Ministro de Hacienda, y siempre que ello sea estrictamente necesario para garantizar el derecho a la educación de los y las estudiantes, el Estado podrá adquirir aquellos inmuebles en donde funciona un establecimiento educacional, de propiedad de aquel sostenedor que haya manifestado expresamente al Ministerio de Educación su voluntad de no continuar prestando el servicio educacional.
 
-Para ejercer esta facultad, el Estado deberá considerar criterios tales como la matrícula y capacidad de los establecimientos educacionales subvencionados en el ámbito territorial circundante al establecimiento, en los distintos niveles educativos; el cobro por alumno que realicen dichos establecimientos, cuando corresponda; y la categoría a la que están adscritos de acuerdo al artículo 17 de la ley Nº20.529. Asimismo, considerará la eficiencia del inmueble, entendiendo por tal la infraestructura esencial para la prestación del servicio educativo, constituida por aulas, servicios higiénicos, talleres, oficinas administrativas y otras dependencias esenciales. El Estado podrá ejercer esta facultad desde la entrada en vigencia de esta ley. La ley de Presupuestos de cada año dispondrá el monto máximo de recursos que podrá ser destinado a la finalidad prevista en este artículo. En caso de que el sostenedor haya sido beneficiario del aporte suplementario por costo de capital adicional establecido en la ley Nº19.532, que crea el régimen de jornada escolar completa diurna, el precio de la compraventa no podrá exceder el monto que resulte de restar al valor del inmueble, lo que el sostenedor deberá devolver al Fisco conforme a lo dispuesto en el artículo décimo transitorio. Para estos efectos, el valor del inmueble será hasta 1,7 veces el avalúo fiscal de éste. El propietario podrá solicitar al Servicio de Impuestos Internos la revisión del actual avalúo fiscal del inmueble en donde funciona el establecimiento educacional. Mediante un decreto del Ministerio de Educación, que deberá llevar la firma del Ministro de Hacienda, se regularán las materias de que trata el presente artículo.
+Para ejercer esta facultad, el Estado deberá considerar criterios tales como la
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+matrícula y capacidad de los establecimientos educacionales subvencionados en el ámbito territorial circundante al establecimiento, en los distintos niveles educativos; el cobro por alumno que realicen dichos establecimientos, cuando corresponda; y la categoría a la que están adscritos de acuerdo al artículo 17 de la ley Nº20.529. Asimismo, considerará la eficiencia del inmueble, entendiendo por tal la infraestructura esencial para la prestación del servicio educativo, constituida por aulas, servicios higiénicos, talleres, oficinas administrativas y otras dependencias esenciales.
+
+El Estado podrá ejercer esta facultad desde la entrada en vigencia de esta ley. La ley de Presupuestos de cada año dispondrá el monto máximo de recursos que podrá ser destinado a la finalidad prevista en este artículo.
+
+En caso de que el sostenedor haya sido beneficiario del aporte suplementario por costo de capital adicional establecido en la ley Nº19.532, que crea el régimen de jornada escolar completa diurna, el precio de la compraventa no podrá exceder el monto que resulte de restar al valor del inmueble, lo que el sostenedor deberá devolver al Fisco conforme a lo dispuesto en el artículo décimo transitorio.
+
+Para estos efectos, el valor del inmueble será hasta 1,7 veces el avalúo fiscal de éste.
+
+El propietario podrá solicitar al Servicio de Impuestos Internos la revisión del actual avalúo fiscal del inmueble en donde funciona el establecimiento educacional.
+
+Mediante un decreto del Ministerio de Educación, que deberá llevar la firma del Ministro de Hacienda, se regularán las materias de que trata el presente artículo.
 
 #### Artículo decimonoveno.-
 La restricción contemplada en la letra a) del inciso sexto del artículo 3º y lo dispuesto en el artículo 3º bis nuevo que se introducen en el decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, serán aplicables a aquellas personas que, en el plazo de dos años contado hacia atrás desde la publicación de esta ley, hayan cumplido con alguna de las relaciones señaladas en las letras a), b), c) y d) del artículo 3º bis señalado.
@@ -904,7 +1159,9 @@ Los establecimientos educacionales que, a la fecha de publicación de la present
 
 Durante el período en que no se cumpla la condición indicada en el inciso precedente, se mantendrá vigente para dichos establecimientos lo dispuesto en el Título II del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, a excepción de los incisos primero y segundo del artículo 24, el artículo 25 y los incisos primero, segundo, tercero y cuarto del artículo 26. Tampoco serán aplicables a dichos establecimientos, por el plazo anteriormente señalado, las modificaciones introducidas por el artículo segundo numerales 4, letra a); numeral 5, letras j) y k), y numerales 8, 9, 11, 12 y 14.
 
-Con todo, la subvención estatal y los aportes que continúen recibiendo estos establecimientos educacionales estarán afectos al cumplimiento de fines educativos, de conformidad a los artículos 3º y 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, sin perjuicio de lo establecido en el inciso final del artículo segundo transitorio. Sin perjuicio de lo dispuesto en el inciso primero de este artículo, y solamente durante el plazo señalado en el inciso primero del artículo segundo transitorio, aquellos establecimientos cuyos sostenedores no estén constituidos como personas jurídicas sin fines de lucro podrán seguir adscritos al régimen de financiamiento compartido, siempre que efectúen cobros a sus alumnos de acuerdo a lo establecido en los artículos vigésimo segundo, vigésimo tercero y vigésimo quinto transitorios.
+Con todo, la subvención estatal y los aportes que continúen recibiendo estos establecimientos educacionales estarán afectos al cumplimiento de fines educativos, de conformidad a los artículos 3º y 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, sin perjuicio de lo establecido en el inciso final del artículo segundo transitorio.
+
+Sin perjuicio de lo dispuesto en el inciso primero de este artículo, y
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -912,12 +1169,26 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 29]]
 
+solamente durante el plazo señalado en el inciso primero del artículo segundo transitorio, aquellos establecimientos cuyos sostenedores no estén constituidos como personas jurídicas sin fines de lucro podrán seguir adscritos al régimen de financiamiento compartido, siempre que efectúen cobros a sus alumnos de acuerdo a lo establecido en los artículos vigésimo segundo, vigésimo tercero y vigésimo quinto transitorios.
+
 #### Artículo vigésimo segundo.-
 Durante el primer año escolar desde la entrada en vigencia de la presente ley, los establecimientos educacionales de financiamiento compartido que sigan adscritos a este régimen, de acuerdo a lo dispuesto en el artículo vigésimo primero transitorio, podrán efectuar cobros mensuales por alumno, los que en todo caso no podrán exceder al cobro mensual por alumno correspondiente al año escolar 2015, de conformidad a lo informado a los apoderados para dicho año mediante comunicación escrita y a la Secretaría Regional Ministerial de Educación respectiva, según lo dispuesto en el artículo 26 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, convertidos en unidades de fomento, al valor de dicha unidad al día 1 de agosto de 2015.
 
 A contar del inicio del año escolar siguiente, los referidos límites máximos de cobro mensual disminuirán en el mismo monto en que haya aumentado para cada establecimiento el ingreso por subvenciones e incrementos a que se refiere el inciso siguiente, calculado en promedio mensual por alumno del año calendario en que se realice el cálculo, respecto al año calendario inmediatamente anterior. Los montos y cálculos a que se refiere este inciso se contabilizarán en unidades de fomento de acuerdo al valor de dicha unidad al 31 de agosto del año respectivo.
 
-- Para el cálculo del inciso anterior se considerarán las siguientes subvenciones e incrementos: a) Subvención de escolaridad, que regula el artículo 9º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. Para estos efectos, se excluirá el valor de la subvención en U.S.E, por aplicación del factor del artículo 7º de la ley Nº19.933, a que se refiere la tabla de dicho artículo. b) Incremento de zona de la subvención de escolaridad, a que se refiere el artículo 11 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. c) Incremento de ruralidad de la subvención de escolaridad, a que se refiere el artículo 12 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. d) Subvención anual de apoyo al mantenimiento, a que se refiere el artículo 37 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. Se entenderá por ingreso por subvenciones e incrementos, calculado en promedio mensual por alumno, aquél que resulte de dividir el monto total anual de estas subvenciones e incrementos por doce meses y por la asistencia promedio anual, en cada establecimiento. A más tardar el 25 de enero de cada año, el Ministerio de Educación publicará, y notificará en su caso, por comunicación electrónica, a cada establecimiento educacional, el límite máximo de cobro del año escolar siguiente o la obligación de no seguir cobrando el financiamiento compartido, cuando se cumpla la condición indicada en el inciso primero del artículo anterior.
+Para el cálculo del inciso anterior se considerarán las siguientes subvenciones e incrementos:
+
+a) Subvención de escolaridad, que regula el artículo 9º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. Para estos efectos, se excluirá el valor de la subvención en U.S.E, por aplicación del factor del artículo 7º de la ley Nº19.933, a que se refiere la tabla de dicho artículo.
+
+b) Incremento de zona de la subvención de escolaridad, a que se refiere el artículo 11 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+
+c) Incremento de ruralidad de la subvención de escolaridad, a que se refiere el artículo 12 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+
+d) Subvención anual de apoyo al mantenimiento, a que se refiere el artículo 37 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+
+Se entenderá por ingreso por subvenciones e incrementos, calculado en promedio mensual por alumno, aquél que resulte de dividir el monto total anual de estas subvenciones e incrementos por doce meses y por la asistencia promedio anual, en cada establecimiento.
+
+A más tardar el 25 de enero de cada año, el Ministerio de Educación publicará, y notificará en su caso, por comunicación electrónica, a cada establecimiento educacional, el límite máximo de cobro del año escolar siguiente o la obligación de no seguir cobrando el financiamiento compartido, cuando se cumpla la condición indicada en el inciso primero del artículo anterior.
 
 Durante el período de postulación, el sostenedor deberá informar a los padres, madres o apoderados, mediante comunicación escrita, el sistema de exenciones de cobro a que se refiere el artículo 24 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, y la indicación del monto máximo de cobro por financiamiento compartido.
 
@@ -926,7 +1197,7 @@ Mientras no se cumpla la condición dispuesta en el artículo vigésimo primero 
 Un reglamento del Ministerio de Educación, el que deberá ser firmado por el Ministro de Hacienda, regulará los procedimientos mediante los cuales se efectuarán los cálculos y las comunicaciones para dar cumplimiento a lo señalado en el artículo vigésimo primero transitorio y en los incisos precedentes.
 
 #### Artículo vigésimo tercero.-
-Para los establecimientos que sigan adscritos al régimen de financiamiento compartido, de acuerdo a lo dispuesto en el artículo vigésimo primero transitorio, la subvención por alumno para cada nivel y modalidad de enseñanza será el valor que resulte de restar a la subvención que establece el artículo 9º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, obtenida en los términos señalados en los artículos 13 y 14 de dicha ley, las siguientes cantidades calculadas sobre el cobro mensual promedio del establecimiento educacional correspondiente, expresado en unidades de fomento, considerando el valor de ésta al primer día del año escolar correspondiente del pago de la subvención correspondiente:
+Para los establecimientos que sigan adscritos al régimen de financiamiento compartido, de acuerdo a lo dispuesto en el artículo
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -934,7 +1205,13 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 30]]
 
-a) 0% de lo que no sobrepase de 0,44 UF. b) 10% de lo que exceda de 0,44 UF y no sobrepase de 0,88 UF. c) 20% de lo que exceda de 0,88 UF y no sobrepase de 1,75 UF.
+vigésimo primero transitorio, la subvención por alumno para cada nivel y modalidad de enseñanza será el valor que resulte de restar a la subvención que establece el artículo 9º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, obtenida en los términos señalados en los artículos 13 y 14 de dicha ley, las siguientes cantidades calculadas sobre el cobro mensual promedio del establecimiento educacional correspondiente, expresado en unidades de fomento, considerando el valor de ésta al primer día del año escolar correspondiente del pago de la subvención correspondiente:
+
+a) 0% de lo que no sobrepase de 0,44 UF.
+
+b) 10% de lo que exceda de 0,44 UF y no sobrepase de 0,88 UF.
+
+c) 20% de lo que exceda de 0,88 UF y no sobrepase de 1,75 UF.
 
 d) 35% de lo que exceda de 1,75 UF.
 
@@ -950,12 +1227,13 @@ Los establecimientos educacionales que a la fecha de publicación de esta ley es
 
 Asimismo, los sostenedores de establecimientos educacionales que opten por retirarse del régimen de financiamiento compartido no podrán volver a realizar estos cobros.
 
-### Párrafo 5º De los procesos de admisión
+### Párrafo 5º
+### De los procesos de admisión
 
 #### Artículo vigésimo sexto.-
 Facúltase al Presidente de la República para que mediante uno o más decretos con fuerza de ley determine la fecha en que entrará en vigencia lo dispuesto en el numeral 6) del artículo 2º de la presente ley, de conformidad a la gradualidad territorial que determinen los incisos siguientes. Para el primer año de postulación, se realizará el proceso de admisión en una región de menos de 300.000 habitantes, y exclusivamente para el menor nivel o curso que tengan los establecimientos educacionales de dicha región. Para el segundo año de postulación, se realizará dicho proceso de admisión en cuatro regiones de menos de 1.000.000 de habitantes, y exclusivamente para el menor nivel o curso que tengan los establecimientos educacionales de dichas regiones. Para el caso de la región señalada en el inciso anterior, el procedimiento de admisión se extenderá a todos los cursos o niveles. Para el tercer año de postulación, se realizará el procedimiento de admisión en todas las demás regiones del territorio nacional no consideradas en los incisos anteriores, y exclusivamente para el menor nivel o curso que tengan los establecimientos educacionales de dichas regiones. Para el caso de las cuatro regiones señaladas en el inciso anterior, el procedimiento de admisión se extenderá a todos los cursos o niveles. Para el cuarto año de postulación, en todas las regiones del país se aplicará el nuevo procedimiento de admisión. Respecto de aquellos establecimientos educacionales que de acuerdo a un reglamento dictado por el Ministerio de Educación, cumplan con características históricas, de rendimiento académico destacado dentro de su región, que sean gratuitos, que presenten una demanda considerablemente mayor a sus vacantes y que
 
-hayan establecido procedimientos de selección académica a la fecha de publicación de la ley, iniciarán sus procesos de admisión, de acuerdo a la gradualidad siguientes porcentajes.
+hayan establecido procedimientos de selección académica a la fecha de publicación
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
@@ -963,9 +1241,26 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 31]]
 
-territorial a que se refieren los incisos anteriores y de conformidad a los Dichos establecimientos educacionales podrán admitir a sus estudiantes realizando sus pruebas de admisión de la siguiente forma: i) El primer año para el 85% de sus cupos. ii) El segundo año para el 70% de los cupos. iii) El tercer año para el 50% de los cupos. iv) El cuarto año para el 30% de los cupos. v) El quinto año no se podrán realizar pruebas de admisión. Los cupos que no son completados mediante pruebas de admisión deberán serlo mediante el procedimiento descrito en el artículo 7º ter del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. Lo anterior es sin perjuicio de lo dispuesto en el artículo 7º quinquies del mismo decreto con fuerza de ley Nº2. Lo dispuesto en los incisos anteriores no podrá aplicarse hasta sexto año de educación básica inclusive.
+de la ley, iniciarán sus procesos de admisión, de acuerdo a la gradualidad territorial a que se refieren los incisos anteriores y de conformidad a los siguientes porcentajes.
 
-### Párrafo 6º De la subvención escolar preferencial
+Dichos establecimientos educacionales podrán admitir a sus estudiantes realizando sus pruebas de admisión de la siguiente forma:
+
+i) El primer año para el 85% de sus cupos.
+
+ii) El segundo año para el 70% de los cupos.
+
+iii) El tercer año para el 50% de los cupos.
+
+iv) El cuarto año para el 30% de los cupos.
+
+v) El quinto año no se podrán realizar pruebas de admisión.
+
+Los cupos que no son completados mediante pruebas de admisión deberán serlo mediante el procedimiento descrito en el artículo 7º ter del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. Lo anterior es sin perjuicio de lo dispuesto en el artículo 7º quinquies del mismo decreto con fuerza de ley Nº2.
+
+Lo dispuesto en los incisos anteriores no podrá aplicarse hasta sexto año de educación básica inclusive.
+
+### Párrafo 6º
+### De la subvención escolar preferencial
 
 #### Artículo vigésimo séptimo.-
 Para poder impetrar la subvención escolar preferencial para alumnos preferentes y los aportes a los que se refiere la ley Nº20.248 para los alumnos preferentes, los establecimientos que a la fecha de publicación de esta ley sean de financiamiento compartido deberán convertirse en establecimientos educacionales gratuitos. En consecuencia, no podrán efectuar cobro alguno a ninguno de sus estudiantes, por lo que no regirá respecto de éstos lo dispuesto en el Párrafo 2º de estas disposiciones transitorias.
@@ -979,19 +1274,22 @@ Lo dispuesto en el artículo 4º, numeral 6), de esta ley entrará en vigencia a
 #### Artículo trigésimo.-
 Los niveles de tercer y cuarto año de enseñanza media se incorporarán gradualmente a la subvención escolar preferencial de alumnos preferentes y a los aportes adicional y extraordinario correspondientes, señalados en los artículos 14 bis, 20 y 27 de la ley Nº20.248, en la misma gradualidad establecida en el artículo duodécimo transitorio del mismo cuerpo legal.
 
-### Párrafo 7º Disposiciones finales
+### Párrafo 7º
+### Disposiciones finales
 
 #### Artículo trigésimo primero.-
 Lo dispuesto en el numeral 8) del artículo 1º de esta ley no será aplicable a las solicitudes de reconocimiento oficial cuya resolución se encuentre pendiente a la fecha de su entrada en vigencia. Asimismo, dicho numeral no será aplicable a los establecimientos educacionales que soliciten el reconocimiento oficial de conformidad a lo dispuesto en el inciso segundo del artículo 45 del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación.
 
 #### Artículo trigésimo segundo.-
-Los sostenedores particulares que, a la fecha de publicación de la presente ley, no hayan dado cumplimiento al requisito establecido en el literal a) del artículo 46 del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley 20.370 con las normas no derogadas del decreto con fuerza de ley Nº1, de 2005, en conformidad a lo dispuesto en el artículo 1º transitorio del mismo cuerpo legal modificado por la ley Nº20.668, tendrán el plazo establecido en el inciso primero del artículo segundo transitorio para dar cumplimiento a dicho requisito y transferir su calidad de sostenedor en los mismos términos establecidos.
+Los sostenedores particulares que, a la fecha de publicación de la presente ley, no hayan dado cumplimiento al requisito establecido en el literal a) del artículo 46 del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+la ley 20.370 con las normas no derogadas del decreto con fuerza de ley Nº1, de 2005, en conformidad a lo dispuesto en el artículo 1º transitorio del mismo cuerpo legal modificado por la ley Nº20.668, tendrán el plazo establecido en el inciso primero del artículo segundo transitorio para dar cumplimiento a dicho requisito y transferir su calidad de sostenedor en los mismos términos establecidos.
 
 #### Artículo trigésimo tercero.-
 Lo dispuesto en el artículo 2º, número 5, letra n), de la presente ley, será exigible dos años después de su entrada en vigencia.
@@ -1008,15 +1306,13 @@ La Subsecretaría de Educación, mediante resolución fundada, dispondrá la org
 
 Dicha unidad tendrá las siguientes funciones:
 
-- Informar a los sostenedores de las normas establecidas en la presente ley.
+a) Informar a los sostenedores de las normas establecidas en la presente ley.
 
-- Asesorar a los sostenedores sobre los aspectos jurídicos, contables y de gestión que se requieran para el cumplimiento de las nuevas exigencias establecidas
+b) Asesorar a los sostenedores sobre los aspectos jurídicos, contables y de gestión que se requieran para el cumplimiento de las nuevas exigencias establecidas en esta ley.
 
-- en esta ley.
+c) Celebrar convenios con sostenedores u otras personas jurídicas para el cumplimiento de su objeto.
 
-- Celebrar convenios con sostenedores u otras personas jurídicas para el cumplimiento de su objeto.
-
-- Adoptar todas las medidas necesarias que permitan otorgar asesoría técnica a los sostenedores para el cumplimiento de esta ley.
+d) Adoptar todas las medidas necesarias que permitan otorgar asesoría técnica a los sostenedores para el cumplimiento de esta ley.
 
 #### Artículo trigésimo sexto.-
 Las modificaciones introducidas por los numerales 2), letras a), b), d) y e) y los numerales 3), 4), 5) y 6) del artículo 3º de esta ley entrarán en vigencia el primer día del año siguiente al de su publicación. Por otro lado, el reglamento a que hace referencia el artículo 56 de la ley Nº20.529 deberá dictarse dentro del plazo de seis meses contado desde la entrada en vigencia de la presente ley.
@@ -1030,13 +1326,15 @@ El monto anual de este Fondo para los años 2016 a 2019 se establecerá en la le
 
 Mediante decreto del Ministerio de Educación, visado por el Ministerio de Hacienda, se establecerán los mecanismos de distribución de estos recursos, los usos específicos en que se emplearán, y las formas y procedimientos de entrega y rendición de los mismos.
 
-La distribución de estos recursos a las entidades señaladas en el inciso primero se formalizará mediante una o más resoluciones del Ministerio de Educación, copia de las cuales se remitirán a la Dirección de Presupuestos.
+La distribución de estos recursos a las entidades señaladas en el inciso primero se formalizará mediante una o más resoluciones del Ministerio de
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 27-Oct-2015
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+Educación, copia de las cuales se remitirán a la Dirección de Presupuestos.
 
 #### Artículo trigésimo octavo.-
 Dentro de los cinco años siguientes contados desde la entrada en vigencia de la presente ley, el sostenedor de un establecimiento educacional que reciba aportes del Estado podrá efectuar una consulta previa al Director Regional de la respectiva Superintendencia de Educación, con el objeto de determinar si una operación se enmarca dentro de los fines educativos, de conformidad a lo dispuesto por el artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
@@ -1049,23 +1347,23 @@ Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Con
 
 Santiago, 29 de mayo de 2015.- MICHELLE BACHELET JERIA, Presidenta de la República.- Nicolás Eyzaguirre Guzmán, Ministro de Educación.- Rodrigo Valdés Pulido, Ministro de Hacienda.- Jorge Insunza Gregorio De Las Heras, Ministro Secretario General de la Presidencia.
 
-Lo que transcribo a Ud., para su conocimiento.- Atentamente, Valentina Quiroga Canahuate, Subsecretaría de Educación.
+Lo que transcribo a Ud., para su conocimiento.- Atentamente, Valentina Quiroga Canahuate, Subsecretaria de Educación.
 
 # Tribunal Constitucional
 
 ## Proyecto de ley que regula la admisión de los y las estudiantes, elimina el financiamiento compartido y prohíbe el lucro en establecimientos educacionales que reciben aportes del Estado, correspondiente al boletín Nº 9366-04
 
-La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envío el proyecto enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal, ejerciera el control preventivo de constitucionalidad respecto de los artículos 1º, números 1, 2, 3, 4, 6, 7, 8 y 9; 2º, números 5, letras a) y f), y 6; 3º números 2, letra e), y 8, y los artículos segundo, decimoquinto y trigésimo primero transitorios del proyecto de ley y por sentencia de 19 de mayo de 2015, en el proceso Rol Nº 2.781-15-CPR.
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal, ejerciera el control preventivo de constitucionalidad respecto de los artículos 1º, números 1, 2, 3, 4, 6, 7, 8 y 9; 2º, números 5, letras a) y f), y 6; 3º números 2, letra e), y 8, y los artículos segundo, decimoquinto y trigésimo primero transitorios del proyecto de ley y por sentencia de 19 de mayo de 2015, en el proceso Rol Nº 2.781-15-CPR.
 
 ## Se declara:
 
-- Que las normas contenidas en el artículo 1º, números 1), 2), 3), 4), 7) y 9) (exceptuando su letra b)), y en los artículos segundo, décimo quinto, incisos primero y final, y trigésimo primero transitorio, todos del proyecto de ley sometido a control, son constitucionales.
+1. Que las normas contenidas en el artículo 1º, números 1), 2), 3), 4), 7) y 9) (exceptuando su letra b)), y en los artículos segundo, décimo quinto, incisos primero y final, y trigésimo primero transitorio, todos del proyecto de ley sometido a control, son constitucionales.
 
-- Que el artículo 1º, númeral 8), inciso primero, del proyecto de ley sometido a control no es contrario a la Constitución, en el entendido de que el inicio de actividades a que se refiere la norma alude exclusivamente a las propias de la docencia.
+2. Que el artículo 1º, númeral 8), inciso primero, del proyecto de ley sometido a control no es contrario a la Constitución, en el entendido de que el inicio de actividades a que se refiere la norma alude exclusivamente a las propias de la docencia.
 
-- Que no se emite pronunciamiento, en examen preventivo de constitucionalidad, respecto de los artículos 1º, numerales 6), 8), inciso segundo, y 9), letra b); 2º, números 5), letras a) y f), y 6); 3º, numerales 2, letra e) y 8), y los incisos segundo y tercero del artículo décimo quinto transitorio, todos del proyecto de ley bajo análisis, en razón de que dichos preceptos no se refieren a materias propias de Ley Orgánica Constitucional.
+3. Que no se emite pronunciamiento, en examen preventivo de constitucionalidad, respecto de los artículos 1º, numerales 6), 8), inciso segundo, y 9), letra b); 2º, números 5), letras a) y f), y 6); 3º, numerales 2, letra e) y 8), y los incisos segundo y tercero del artículo décimo quinto transitorio, todos del proyecto de ley bajo análisis, en razón de que dichos preceptos no se refieren a materias propias de Ley Orgánica Constitucional.
 
-- Que igualmente el Tribunal no emite pronunciamiento, en sede preventiva de constitucionalidad, sobre el artículo 2º, numerales 1), letra a); 3); 5), letra e); 7), letra a), y 13); el artículo 4º, numeral 13), y los artículos tercero, cuarto, quinto, vigésimo sexto y trigésimo octavo transitorios, todos del proyecto de ley, en consideración a que no versan sobre asuntos propios de Ley Orgánica Constitucional.
+4. Que igualmente el Tribunal no emite pronunciamiento, en sede preventiva de constitucionalidad, sobre el artículo 2º, numerales 1), letra a); 3); 5), letra e); 7), letra a), y 13); el artículo 4º, numeral 13), y los artículos tercero, cuarto, quinto, vigésimo sexto y trigésimo octavo transitorios, todos del proyecto de ley, en consideración a que no versan sobre asuntos propios de Ley Orgánica Constitucional.
 
 Santiago, 19 de mayo de 2015.- Marta de la Fuente Olguín, Secretaria.
 
