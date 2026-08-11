@@ -46,7 +46,7 @@ Dalam Peraturan Pemerintah ini yang dimaksud dengan:
 
 - Urusan Pemerintahan Wajib adalah urusan pemerintahan yang wajib diselenggarakan oleh semua Daerah.
 
-- Pemerintah Pusat adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh Wakil Presiden dan  menteri  sebagaimana  dimaksud  dalam  UndangUndang Dasar Negara Republik Indonesia Tahun 1945.
+- Pemerintah Pusat adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh Wakil Presiden dan  menteri  sebagaimana  dimaksud  dalam  Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
 
 - Daerah  Otonom,  yang  selanjutnya  disebut  Daerah adalah kesatuan masyarakat hukum yang mempunyai batas-batas  wilayah  yang  berwenang  mengatur  dan mengurus urusan pemerintahan dan kepentingan
 
@@ -62,7 +62,7 @@ www.peraturan.go.id
 
 masyarakat setempat menurut prakarsa sendiri berdasarkan aspirasi masyarakat dalam sistem Negara Kesatuan Republik Indonesia.
 
-- Pemerintahan Daerah adalah penyelenggaraan urusan pemerintahan  oleh  Pemerintah  Daerah  dan  Dewan Perwakilan Rakyat Daerah menurut asas otonomi dan tugas pembantuan dengan prinsip otonomi seluas¬luasnya dalam sistem dan prinsip Negara Kesatuan  Republik  Indonesia  sebagaimana  dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+- Pemerintahan Daerah adalah penyelenggaraan urusan pemerintahan  oleh  Pemerintah  Daerah  dan  Dewan Perwakilan Rakyat Daerah menurut asas otonomi dan tugas pembantuan dengan prinsip otonomi seluas-luasnya dalam sistem dan prinsip Negara Kesatuan  Republik  Indonesia  sebagaimana  dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
 
 - Pemerintah  Daerah  adalah  kepala  Daerah  sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin  pelaksanaan  urusan  pemerintahan  yang menjadi kewenangan Daerah.
 
@@ -168,7 +168,7 @@ www.peraturan.go.id
 
 - pendidikan kesetaraan.
 
-- Mutu Pelayanan Dasar untuk setiap Jenis Pelayanan Dasar sebagaimana dimaksud pada ayat (2) dan ayat (3)  ditetapkan  dalam  standar  teknis,  yang  sekurangkurangnya memuat:
+- Mutu Pelayanan Dasar untuk setiap Jenis Pelayanan Dasar sebagaimana dimaksud pada ayat (2) dan ayat (3)  ditetapkan  dalam  standar  teknis,  yang  sekurang-kurangnya memuat:
 
 - standar  jumlah  dan  kualitas  barang  dan/atau jasa;
 
@@ -250,7 +250,7 @@ www.peraturan.go.id
 
 yang  bersifat  peningkatan/promotif  dan  pencegahan/ preventif.
 
-- Mutu Pelayanan Dasar untuk setiap Jenis Pelayanan Dasar sebagaimana dimaksud pada ayat (2) dan ayat (3)  ditetapkan  dalam  standar  teknis,  yang  sekurangkurangnya memuat:
+- Mutu Pelayanan Dasar untuk setiap Jenis Pelayanan Dasar sebagaimana dimaksud pada ayat (2) dan ayat (3)  ditetapkan  dalam  standar  teknis,  yang  sekurang-kurangnya memuat:
 
 - standar  jumlah  dan  kualitas  barang  dan/atau jasa;
 
@@ -326,11 +326,11 @@ dan kementerian/lembaga pemerintah nonkementerian terkait.
 
 - Jenis  Pelayanan  Dasar  pada  SPM  pekerjaan  umum Daerah kabupaten/kota terdiri atas:
 
-- pemenuhan kebutuhan pokok air minum seharihari; dan
+- pemenuhan kebutuhan pokok air minum sehari-hari; dan
 
 - penyediaan pelayanan pengolahan air limbah domestik.
 
-- Mutu Pelayanan Dasar untuk setiap Jenis Pelayanan Dasar sebagaimana dimaksud pada ayat (2) dan ayat (3)  ditetapkan  dalam  standar  teknis,  yang  sekurangkurangnya memuat:
+- Mutu Pelayanan Dasar untuk setiap Jenis Pelayanan Dasar sebagaimana dimaksud pada ayat (2) dan ayat (3)  ditetapkan  dalam  standar  teknis,  yang  sekurang-kurangnya memuat:
 
 - standar  jumlah  dan  kualitas  barang  dan/atau jasa; dan
 
@@ -370,7 +370,7 @@ ditetapkan setelah dikoordinasikan dengan kementerian yang menyelenggarakan urus
 
 - fasilitasi penyediaan rumah yang layak huni bagi masyarakat yang terkena relokasi program Pemerintah Daerah kabupaten/kota.
 
-- Mutu Pelayanan Dasar untuk setiap Jenis Pelayanan Dasar sebagaimana dimaksud pada ayat (2) dan ayat (3)  ditetapkan  dalam  standar  teknis,  yang  sekurangkurangnya memuat:
+- Mutu Pelayanan Dasar untuk setiap Jenis Pelayanan Dasar sebagaimana dimaksud pada ayat (2) dan ayat (3)  ditetapkan  dalam  standar  teknis,  yang  sekurang-kurangnya memuat:
 
 - standar  jumlah  dan  kualitas  barang  dan/atau jasa; dan
 
@@ -430,7 +430,7 @@ masyarakat  Daerah  provinsi  dan  SPM  ketenteraman, ketertiban umum, dan pelin
 
 - pelayanan  penyelamatan  dan  evakuasi  korban kebakaran.
 
-- Mutu Pelayanan Dasar untuk Jenis Pelayanan Dasar sebagaimana  dimaksud  pada  ayat  (2)  dan  ayat  (3) ditetapkan dalam standar teknis, yang sekurangkurangnya memuat:
+- Mutu Pelayanan Dasar untuk Jenis Pelayanan Dasar sebagaimana  dimaksud  pada  ayat  (2)  dan  ayat  (3) ditetapkan dalam standar teknis, yang sekurang-kurangnya memuat:
 
 - standar  jumlah  dan  kualitas  barang  dan/atau jasa;
 
@@ -500,7 +500,7 @@ www.peraturan.go.id
 
 - perlindungan  dan  jaminan  sosial  pada  saat  dan setelah  tanggap  darurat  bencana  bagi  korban bencana kabupaten/kota.
 
-- Mutu Pelayanan Dasar untuk setiap Jenis Pelayanan Dasar sebagaimana dimaksud pada ayat (2) dan ayat (3)  ditetapkan  dalam  standar  teknis,  yang  sekurangkurangnya memuat:
+- Mutu Pelayanan Dasar untuk setiap Jenis Pelayanan Dasar sebagaimana dimaksud pada ayat (2) dan ayat (3)  ditetapkan  dalam  standar  teknis,  yang  sekurang-kurangnya memuat:
 
 - standar  jumlah  dan  kualitas  barang  dan/atau jasa;
 
@@ -596,7 +596,7 @@ memperoleh  barang  dan/atau  jasa  kebutuhan dasar secara minimal; dan
 
 - Penghitungan kebutuhan pemenuhan Pelayanan Dasar sebagaimana dimaksud dalam Pasal 11 ayat (2) huruf  b  dilakukan  dengan  menghitung  selisih  antara jumlah barang dan/atau jasa yang dibutuhkan untuk pemenuhan  Pelayanan  Dasar  dengan  jumlah  barang dan/atau  jasa  yang  tersedia,  termasuk  menghitung selisih  antara  jumlah  sarana  dan  prasarana  yang dibutuhkan untuk pemenuhan Pelayanan Dasar dengan jumlah sarana dan prasarana yang tersedia.
 
-- Dalam hal terdapat penghitungan biaya, penghitungan kebutuhan pemenuhan Pelayanan Dasar sebagaimana dimaksud  pada  ayat  (1)  menggunakan  standar  biaya sesuai dengan ketentuan peraturan perundangundangan.
+- Dalam hal terdapat penghitungan biaya, penghitungan kebutuhan pemenuhan Pelayanan Dasar sebagaimana dimaksud  pada  ayat  (1)  menggunakan  standar  biaya sesuai dengan ketentuan peraturan perundang-undangan.
 
 - Hasil penghitungan kebutuhan pemenuhan Pelayanan Dasar sebagaimana dimaksud pada ayat (1) dan ayat (2) menjadi dasar dalam penyusunan rencana pemenuhan Pelayanan Dasar.
 
@@ -656,7 +656,7 @@ dikoordinasikan  dengan  kementerian/lembaga  pemerintah nonkementerian terkait.
 
 - Laporan penerapan SPM termasuk dalam materi muatan laporan penyelenggaraan Pemerintahan Daerah  dan  disampaikan  sesuai  dengan  ketentuan peraturan perundang-undangan yang mengatur mengenai laporan penyelenggaraan Pemerintahan Daerah.
 
-- Materi  muatan  laporan  penerapan  SPM  sekurangkurangnya terdiri atas:
+- Materi  muatan  laporan  penerapan  SPM  sekurang-kurangnya terdiri atas:
 
 - hasil penerapan SPM;
 
@@ -706,7 +706,7 @@ www.peraturan.go.id
 
 - Bupati  melaksanakan  pembinaan  dan  pengawasan penerapan  SPM  Daerah  kabupaten  oleh  perangkat Daerah kabupaten dan wali kota melaksanakan pembinaan  dan  pengawasan  penerapan  SPM  Daerah kota oleh perangkat Daerah kota.
 
-- Pembinaan  dan  pengawasan  sebagaimana  dimaksud pada  ayat  (1)  sampai  dengan  ayat  (5)  dilaksanakan sesuai dengan ketentuan peraturan perundangundangan  yang  mengatur  mengenai  pembinaan  dan pengawasan penyelenggaraan Pemerintahan Daerah.
+- Pembinaan  dan  pengawasan  sebagaimana  dimaksud pada  ayat  (1)  sampai  dengan  ayat  (5)  dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan  yang  mengatur  mengenai  pembinaan  dan pengawasan penyelenggaraan Pemerintahan Daerah.
 
 www.peraturan.go.id
 
@@ -734,7 +734,7 @@ Pemerintah Daerah Provinsi Daerah Khusus Ibukota Jakarta melaksanakan penerapan 
 
 #### Pasal 22
 
-Pada saat Peraturan Pemerintah ini mulai berlaku, semua pengaturan  mengenai  SPM  yang  diatur  dalam  peraturan perundang-undangan selain peraturan perundangundangan  bidang  Pemerintahan  Daerah,  pelaksanaannya didasarkan pada Peraturan Pemerintah ini.
+Pada saat Peraturan Pemerintah ini mulai berlaku, semua pengaturan  mengenai  SPM  yang  diatur  dalam  peraturan perundang-undangan selain peraturan perundang-undangan  bidang  Pemerintahan  Daerah,  pelaksanaannya didasarkan pada Peraturan Pemerintah ini.
 
 #### Pasal 23
 
@@ -770,14 +770,6 @@ www.peraturan.go.id
 
 2018, No.2
 
-Diundangkan di Jakarta pada tanggal 5 Januari 2018
-
-MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
-
-ttd.
-
-YASONNA H. LAOLY
-
 -23-
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
@@ -789,6 +781,14 @@ PRESIDEN REPUBLIK INDONESIA,
 ttd.
 
 JOKO WIDODO
+
+Diundangkan di Jakarta pada tanggal 5 Januari 2018
+
+MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+
+ttd.
+
+YASONNA H. LAOLY
 
 www.peraturan.go.id
 
