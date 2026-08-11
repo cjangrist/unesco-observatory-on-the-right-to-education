@@ -24,13 +24,15 @@ La nature juridique des obligations découlant de la Convention diffère à plus
 
 Compte tenu des différences de formulation et de portée juridique dues à la nature même de ces deux instruments, la teneur de la Recommandation et celle de la Convention sont identiques. Les États  membres  doivent  donner  effet  à  l'un  ou  l'autre  de  ces  instruments  dans  leur  législation nationale et dans leurs politiques de l'éducation.
 
-Par-dessus tout, les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates  et  sous  la  forme  que  déterminera  la  Conférence  générale,  des  rapports  sur  les  lois,  les règlements et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 » . Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
+Par-dessus tout, les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la forme que déterminera la Conférence générale, des rapports sur les lois, les règlements et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la
 
 1
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ». Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
 
 ## 3. Participation aux consultations
 
@@ -62,9 +64,9 @@ Lors de l'établissement des rapports, il est demandé aux États membres de bie
 
 Afin  de  simplifier  les  principes  directeurs  tout  en  apportant  aux  États  membres  les  indications indispensables pour les guider dans la formulation de leurs réponses, il est proposé deux séries de questions/remarques :
 
-- Des  questions  ouvertes  ou  fermées  auxquelles  les  États  membres  sont  invités  à répondre  directement  à  l'issue  d'un  processus  participatif.  Veuillez  noter  qu'il  est possible, le cas échéant, de fournir des réponses multiples.
+(1) Des questions ouvertes ou fermées auxquelles les États membres sont invités à répondre directement à l'issue d'un processus participatif. Veuillez noter qu'il est possible, le cas échéant, de fournir des réponses multiples.
 
-- Des indications additionnelles visant à aider les États membres à mieux structurer et détailler leurs réponses aux questions ouvertes (y compris des remarques sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
+(2) Des indications additionnelles visant à aider les États membres à mieux structurer et détailler leurs réponses aux questions ouvertes (y compris des remarques sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
 
 Les États membres sont encouragés à répondre de manière concise, tout en veillant à la substance et à la pertinence de leurs réponses.
 
@@ -78,9 +80,9 @@ Nom du pays : Andorre
 
 Organisation(s) ou entité(s) chargée(s) de l'établissement du rapport : Ministère de l'Education et de l'Enseignement Supérieur
 
-## Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l'État au niveau national
+## I. Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l'État au niveau national
 
-### Ratification de la Convention 2
+### 1. Ratification de la Convention 2
 
 Votre pays est-il un État partie à la Convention ?
 
@@ -100,9 +102,9 @@ o En préparation active
 
 Indiquez :
 
-- è les obstacles d'ordre juridique, institutionnel, politique ou pratique
+➔ les obstacles d'ordre juridique, institutionnel, politique ou pratique
 
-- è les  moyens  mis  en  œuvre  pour  les  surmonter  et  dans  quelle  mesure l'UNESCO peut vous aider à mener à bien le processus
+➔ les moyens mis en œuvre pour les surmonter et dans quelle mesure l'UNESCO peut vous aider à mener à bien le processus
 
 o Non, pas de ratification envisagée dans le proche avenir. Veuillez expliquer pourquoi :
 
@@ -116,7 +118,7 @@ http://portal.unesco.org/fr/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-### Ratification du Protocole 3 instituant une Commission de conciliation et de bons offices chargée de rechercher la solution des différends qui naîtraient entre États parties à la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
+### 2. Ratification du Protocole 3 instituant une Commission de conciliation et de bons offices chargée de rechercher la solution des différends qui naîtraient entre États parties à la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
 
 Votre pays a-t-il ratifié le Protocole ?
 
@@ -126,7 +128,7 @@ o X Non :
 
 Compte tenu des moyens limités en ressources humaines, le Ministère des Affaires étrangères ne peut pas envisager pour le moment l'analyse du texte afin de procéder à la ratification dudit Protocole.
 
-### Cadre juridique régissant la protection des droits garantis par la Convention et la Recommandation dans le système juridique national
+### 3. Cadre juridique régissant la protection des droits garantis par la Convention et la Recommandation dans le système juridique national
 
 #### Si votre pays est un État partie à la Convention :
 
@@ -186,11 +188,11 @@ Dans l'affirmative, le rapport pourrait énumérer les principaux textes qui ont
 
 Les informations fournies pourraient montrer en quoi ces politiques et programmes sont conformes  aux  engagements  en  faveur  du  droit  à  l'éducation  souscrits  au  titre  de  la Recommandation.
 
-## Renseignements concernant l'application de la Convention ou de la Recommandation
+## II. Renseignements concernant l'application de la Convention ou de la Recommandation
 
-### Non-discrimination et égalité des chances en matière d'éducation dans le cadre de l'Objectif de développement durable 4 (ODD 4)
+### 1. Non-discrimination et égalité des chances en matière d'éducation dans le cadre de l'Objectif de développement durable 4 (ODD 4)
 
-Les articles / paragraphes 1(1), 2 et 3 de la Convention / Recommandation prévoient la nondiscrimination et l'égalité des chances en matière d'éducation. Cette partie porte sur l'objet principal  de  la  Convention/Recommandation, c'est-à-dire souligner l'obligation qui incombe aux États de proscrire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances en matière d'éducation.
+Les articles / paragraphes 1(1), 2 et 3 de la Convention / Recommandation prévoient la non-discrimination et l'égalité des chances en matière d'éducation. Cette partie porte sur l'objet principal de la Convention/Recommandation, c'est-à-dire souligner l'obligation qui incombe aux États de proscrire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances en matière d'éducation.
 
 Cette obligation correspond à l'ambition globale énoncée dans l'ODD 4, à savoir « assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités  d'apprentissage  tout  au  long  de  la  vie » d'ici  à  2030.  Elle  couvre  donc l'ensemble des cibles de l'ODD 4, mais aussi, plus particulièrement, la cible 4.5 4 .
 
@@ -216,9 +218,9 @@ o Autres :
 
 Veuillez décrire brièvement les textes juridiques, réglementaires ou politiques pertinents qui contiennent des mesures concernant :
 
-- è La non-discrimination en ce qui concerne l'admission des élèves dans les établissements d'enseignement
+➔ La non-discrimination en ce qui concerne l'admission des élèves dans les établissements d'enseignement
 
-- è L'égalité de traitement, notamment pour les ressortissants étrangers résidant dans votre pays
+➔ L'égalité de traitement, notamment pour les ressortissants étrangers résidant dans votre pays
 
 Constitution de la Principauté d'Andorre (1993)
 
@@ -232,7 +234,7 @@ La Loi prévoit à l'article 6 des mesures visant à l'éradication de la violen
 
 « Article 6. Sensibilisation et prévention dans le domaine de l'éducation
 
-- Les mesures de sensibilisation et de prévention dans le domaine de l'éducation sont autant d'outils, d'actions et de politiques menées dans les écoles et les universités dans le but de sensibiliser la population aux causes et aux conséquences de la violence sexiste et de la violence domestique, afin de les prévenir en établissant des modèles pacifiques et égalitaires de coexistence et de respect.
+1. Les mesures de sensibilisation et de prévention dans le domaine de l'éducation sont autant d'outils, d'actions et de politiques menées dans les écoles et les universités dans le but de sensibiliser la population aux causes et aux conséquences de la violence sexiste et de la violence domestique, afin de les prévenir en établissant des modèles pacifiques et égalitaires de coexistence et de respect.
 
 > 4 Qui appelle les États à « éliminer les inégalités entre les sexes dans le domaine de l'éducation et assurer l'égalité d'accès des personnes vulnérables, y compris les personnes handicapées, les autochtones et les enfants en situation vulnérable, à tous les niveaux d'enseignement et de formation professionnelle ».
 
@@ -256,13 +258,13 @@ Les articles 44 et 46 développent le droit à l'éducation.
 
 « Article 44. Droit à l'éducation
 
-- Les enfants et les adolescents ont, depuis leur naissance, le droit à l'éducation au plus haut degré possible  de  façon  à  développer  leur  personnalité,  leurs  aptitudes  et  leurs  capacités  au  niveau maximum de leurs possibilités.
+1. Les enfants et les adolescents ont, depuis leur naissance, le droit à l'éducation au plus haut degré possible de façon à développer leur personnalité, leurs aptitudes et leurs capacités au niveau maximum de leurs possibilités.
 
-- Les enfants et les adolescents ont le droit de recevoir et l'obligation de suivre l'enseignement de base obligatoire, qui comprend le premier et le deuxième degré d'enseignement, et ont également le droit de recevoir l'enseignement aux plus hauts degrés. L'enseignement doit être de qualité et gratuit, selon les termes établis dans les règlements d'application.
+2. Les enfants et les adolescents ont le droit de recevoir et l'obligation de suivre l'enseignement de base obligatoire, qui comprend le premier et le deuxième degré d'enseignement, et ont également le droit de recevoir l'enseignement aux plus hauts degrés. L'enseignement doit être de qualité et gratuit, selon les termes établis dans les règlements d'application.
 
-- Les administrations publiques, dans le cadre de leurs compétences, doivent assurer une formation inclusive et s'occuper également des besoins éducatifs spécifiques des enfants et des adolescents indépendamment  de  leur  condition  ou  circonstance personnelle, familiale ou sociale. Plus précisément, les enfants et les adolescents porteurs de handicap ont le droit de bénéficier d'une éducation sur un pied d'égalité avec le reste des élèves, dans des environnements inclusifs, avec le soutien approprié et les ajustements raisonnables nécessaires à tous les niveaux d'enseignement.
+3. Les administrations publiques, dans le cadre de leurs compétences, doivent assurer une formation inclusive et s'occuper également des besoins éducatifs spécifiques des enfants et des adolescents indépendamment de leur condition ou circonstance personnelle, familiale ou sociale. Plus précisément, les enfants et les adolescents porteurs de handicap ont le droit de bénéficier d'une éducation sur un pied d'égalité avec le reste des élèves, dans des environnements inclusifs, avec le soutien approprié et les ajustements raisonnables nécessaires à tous les niveaux d'enseignement.
 
-- Les  enfants  et  les  adolescents  ont  le  droit  d'être  respectés  comme  personnes  sans  subir  de discrimination, d'humiliation ou de vexation dans le domaine de l'éducation.
+4. Les enfants et les adolescents ont le droit d'être respectés comme personnes sans subir de discrimination, d'humiliation ou de vexation dans le domaine de l'éducation.
 
 Article 46. Inclusion du contenu dans les projets éducatifs et les programmes scolaires
 
@@ -316,19 +318,11 @@ La Convention est un document unique qui reprend tous les droits de l'homme (civ
 
 économiques, sociaux et culturels) relatifs à l'enfant. Elle a été adoptée par l'Assemblée générale
 
-des Nations Unies le 20 novembre 1989.
-
-E
-
-lle est entrée en vigueur en Principauté d'Andorre en
-
-septembre 1995.
+des Nations Unies le 20 novembre 1989. Elle est entrée en vigueur en Principauté d'Andorre en septembre 1995.
 
 Loi qualifiée portant sur l'éducation (1993)
 
-La
-
-Loi développe le droit de chaque personne à l'éducation, droit que la Constitution reconnaît
+La Loi développe le droit de chaque personne à l'éducation, droit que la Constitution reconnaît
 
 comme fondamental et établit la scolarité obligatoire et gratuite jusqu'à l'âge de 16 ans ; le droit
 
@@ -382,6 +376,12 @@ des personnes handicapées de 2006. »
 
 [[START OF PAGE 12]]
 
+L'article 21.2, alinéa a) de la Loi précise que les étudiants ont le droit à l'égalité des chances et à ne subir aucune discrimination.
+
+« Article 21. […] 2. Les étudiants ont droit : a) À bénéficier du droit à l'égalité des chances et à ne subir aucune discrimination. »
+
+Avec la ratification par l'Andorre de la Convention relative aux droits des personnes handicapées, de 2006, et l'inclusion de ses principes dans la Loi, les droits d'accès et de suivi des études d'enseignement supérieur pour les personnes handicapées sont spécifiquement garantis.
+
 #### 1.3
 
 Veuillez indiquer les mesures prises ou qu'il est prévu de prendre dans votre pays pour assurer l'égalité des chances (en ce qui concerne l'accès, la participation et l'achèvement des études), et l'égalité de traitement et pour faciliter l'inclusion de tous les apprenants (y compris les filles et les femmes, les personnes économiquement et socialement marginalisées, les personnes handicapées et les autres groupes vulnérables) dans les processus d'apprentissage (il est possible de cocher/mentionner plusieurs catégories de mesures) :
@@ -410,7 +410,7 @@ o X Cours de langues à l'intention des nouveaux venus (par exemple, les réfugi
 
 o X Levée des obstacles administratifs à l'accès à l'enseignement 7
 
-- o X Création de filières d'apprentissage souples
+o X Création de filières d'apprentissage souples
 
 o X Valorisation de la diversité dans les écoles
 
@@ -418,15 +418,9 @@ o X Lutte contre les stéréotypes et la stigmatisation
 
 o Autres :
 
--  Veuillez  donner  de  plus  amples  détails  sur  les  mesures  prises,  notamment  pour  assurer l'égalité des genres et l'autonomisation des filles et des femmes dans et par l'éducation :
+- Veuillez donner de plus amples détails sur les mesures prises, notamment pour assurer l'égalité des genres et l'autonomisation des filles et des femmes dans et par l'éducation :
 
 En 2020, le ministère en charge des affaires sociales et le ministère en charge de l'éducation ont mis en place un plan de sensibilisation pour l'égalité des sexes adressé aux établissements scolaires. Ce plan offre des orientations dans une perspective sexospécifique qui vise à donner aux professionnels impliqués dans le contexte scolaire, des lignes directrices d'action visant à traiter les garçons et les filles dans un plan
-
-L'article 21.2, aliéna a) de la Loi précise que les étudiants ont le droit à l'égalité des chances et à ne subir aucune discrimination.
-
-« Article 21. […] 2. Les étudiants ont droit : a) À bénéficier du droit à l'égalité des chances et à ne subir aucune discrimination. »
-
-Avec la ratification par l'Andorre de la Convention relative aux droits des personnes handicapées, de 2006, et l'inclusion de ses principes dans la Loi, les droits d'accès et de suivi des études d'enseignement supérieur pour les personnes handicapées sont spécifiquement garantis.
 
 > 7 Parmi les obstacles administratifs à l'accès à l'enseignement figurent, notamment, la non-possession des documents d'identité ou certificats de naissance exigés lors de l'inscription.
 
@@ -694,33 +688,9 @@ o Autres :
 
 - Veuillez décrire brièvement les textes juridiques, réglementaires ou politiques pertinents, y compris les mesures garantissant :
 
-- è qu'aucune discrimination pour des motifs interdits par la Convention/Recommandation ne fait  obstacle  à  l'admission  des  étudiants  dans  les  établissements  d'enseignement supérieur
+➔ qu'aucune discrimination pour des motifs interdits par la Convention/Recommandation ne fait obstacle à l'admission des étudiants dans les établissements d'enseignement supérieur
 
-- è qu'aucun  traitement  différentiel  n'est  appliqué,  notamment  à  l'encontre  des  étudiants d'origine étrangère
-
-Constitution de la Principauté d'Andorre (1993)
-
-L'article 6 précise :
-
-« Article  6.    Toutes  les  personnes  sont  égales  devant  la  loi. Nul  ne  peut  faire  l'objet  d'une discrimination, pour des raisons de naissance, de race, de sexe, d'origine, de religion, d'opinion ou de toute autre condition personnelle ou sociale. »
-
-Loi qualifiée portant sur l'éducation (1993)
-
-L'article  1  alinéa  2  établit  que  toute  personne  a  le  droit  d'accéder  aux  niveaux  d'éducation supérieurs.
-
-« Article  1.2. De  même,  toute  personne  a  le  droit  d'accéder  à  l'enseignement  supérieur,  en fonction de ses compétences et de sa vocation. »
-
-Loi 17/2018 portant sur l'ordonnance du système éducatif andorran
-
-Plus précisément les articles 34 et 35.
-
-« Article 34. L'enseignement postobligatoire comprend les niveaux d'enseignement du baccalauréat  général,  du  baccalauréat  professionnel,  de  l'enseignement  supérieur  et  de l'apprentissage tout au long de la vie.
-
-Article 35. L'enseignement postobligatoire est généralement ouvert aux personnes âgées de plus de seize ans. »
-
-Loi 8/2020 portant sur la modification de la Loi 9/2014 du 3 juin portant sur l'aide aux études
-
-L'exposé de motifs indique que l'éducation est essentielle pour surmonter les inégalités et que le système d'aides vise à atténuer les inégalités socioéconomiques pour faciliter l'accès à l'éducation.
+➔ qu'aucun traitement différentiel n'est appliqué, notamment à l'encontre des étudiants d'origine étrangère
 
 Constitution de la Principauté d'Andorre (1993)
 
@@ -788,7 +758,7 @@ technique et professionnelle de l'enseignement supérieur.
 
 « Article 21. Droits et devoirs des étudiants
 
-- L'étude est un droit et un devoir des étudiants.
+1. L'étude est un droit et un devoir des étudiants.
 
 2. Les étudiants ont le droit :
 
@@ -902,7 +872,7 @@ Arrêté du 27 mars 2019 portant sur la publication des frais d'inscription des 
 
 L'enseignement supérieur en Andorre n'est pas gratuit.
 
-Les  coûts  d'inscription  à  l'enseignement  professionnel  supérieur  sont  de  100,32  €  par  année académique, les études de bàtxelor entre 20 et 25,08 € par crédit ECTS, les études de màste r 31,55 € par crédit ECTS et les études de doctorat, 750 € par année académique. Chaque année, les frais de scolarité sont publiés dans le Bulletin Officiel de la Principauté d'Andorre.
+Les coûts d'inscription à l'enseignement professionnel supérieur sont de 100,32 € par année académique, les études de bàtxelor entre 20 et 25,08 € par crédit ECTS, les études de màster 31,55 € par crédit ECTS et les études de doctorat, 750 € par année académique. Chaque année, les frais de scolarité sont publiés dans le Bulletin Officiel de la Principauté d'Andorre.
 
 Les frais d'inscription sont les mêmes pour les étudiants nationaux et étrangers comme le prévoit l'Arrêté du 8 mars 2020 portant sur la publication des coûts des inscriptions des formations réglées de l'Université d'Andorre pour l'année académique 2019-2020.
 
@@ -1153,7 +1123,6 @@ L'accent est mis sur la fonction formative de l'évaluation en tant qu'outil de 
 [[START OF PAGE 27]]
 
 Autres textes juridiques qui déploient la Loi 17/2018 portant sur l'ordonnance du système éducatif andorran :
----
 Décret portant sur l'ordonnance de l'enseignement de base obligatoire du système éducatif andorran du 25 février 2015
 Décret portant sur l'ordonnance du baccalauréat général du système éducatif andorran du 27 février 2019
 Décret portant sur la création du diplôme de baccalauréat professionnel du 28 novembre 2012
@@ -1162,8 +1131,8 @@ Règlement portant sur l'éducation de base des adultes du 26 juillet 1996
 Afin d'améliorer la qualité de l'éducation, à partir de 2013 le système éducatif andorran a mis en œuvre un nouveau modèle méthodologique fondé sur l'approche par compétences et sur l'apprentissage coopératif.
 Le ministère en charge de l'éducation dispose d'un ensemble de services qui veillent sur la qualité de l'éducation en soutenant les établissements scolaires et en les encadrant.
 Les services axés sur ces objectifs sont :
-évaluations internationales du système éducatif andorran. enseignant.
-• Service des ressources humaines : sélection et gestion du personnel
+• Service de l'inspection et de l'évaluation éducative : évaluations externes et participation à des évaluations internationales du système éducatif andorran.
+• Service des ressources humaines : sélection et gestion du personnel enseignant.
 • Service de la formation, des ressources pédagogiques et de l'Innovation : formation continue du personnel enseignant et l'innovation en matière d'enseignement.
 • Service des programmes scolaires : rédaction et mise à jour des programmes scolaires de la maternelle au lycée.
 Dans le cas des autres systèmes éducatifs présents en Andorre, le soutien du gouvernement de l'Andorre à la qualité de l'éducation est assuré par le biais de Conventions Internationales signées avec l'Espagne et la France (Page 17).
@@ -1232,18 +1201,6 @@ Loi 8/2019 portant sur le Corps d'Éducation
 
 La Loi permet de réguler au rang de Loi, pour la première fois, les droits et devoirs du personnel enseignant du système éducatif andorran, en établissant leur mission, un code de conduite, et en stipulant les conditions d'accès et de carrière professionnelle.
 
-En ce qui concerne l'amélioration des pratiques pédagogiques, le ministère en charge de l'éducation organise chaque année un plan de formation gratuit à l'intention du personnel enseignant du système éducatif andorran en vue de l'accompagnement pour l'implantation d'une méthodologie d'enseignement par compétences du primaire au secondaire supérieur.
-
-Pour  la  maternelle  du  système  éducatif  andorran,  la  formation  a  permis  l'introduction  d'une méthodologie centrée sur la découverte et l'expérimentation des élèves. Chaque mois de juillet, le ministère en charge de l'éducation organise les Journées Pédagogiques, gratuites et ouvertes à la participation  de  l'ensemble  du  personnel  éducatif  des  différents  systèmes  éducatifs  présents  en Andorre,  qui  introduisent  des  nouveautés  pédagogiques  centrées  sur  l'apprentissage  actif  des élèves.
-
-Loi 17/2018 portant sur l'ordonnance du système éducatif andorran
-
-La  Loi  modifie  les  normes  et  qualifications  minimales  requises  pour  exercer  la  profession enseignante, dans le but de les adapter aux nouvelles exigences de l'enseignement par compétences et au marché du travail andorran.
-
-Loi 8/2019 portant sur le Corps d'Éducation
-
-La Loi permet de réguler au rang de Loi, pour la première fois, les droits et devoirs du personnel enseignant du système éducatif andorran, en établissant leur mission, un code de conduite, et en stipulant les conditions d'accès et de carrière professionnelle.
-
 - Y a-t-il eu des cas de discrimination en ce qui concerne la formation du personnel éducatif dans votre pays ?
 
 o Oui : votre Gouvernement a-t-il pris des mesures pour y remédier ?
@@ -1288,9 +1245,9 @@ Il s'agit de mettre en place un véritable parcours civique de l'élève, consti
 
 Toutes les matières contribuent à l'éducation pour la citoyenneté démocratique.
 
-P our cela, les élèves devront apprendre à établir la différence entre les principes universels (les droits de l'homme), les règles de l'État de droit (la loi) et les usages sociaux (la civilité). des
+Pour cela, les élèves devront apprendre à établir la différence entre les principes universels (les droits de l'homme), les règles de l'État de droit (la loi) et les usages sociaux (la civilité).
 
-Les connaissances  nécessaires relèvent notamment  de  l'enseignement scientifique et humanités. L'éducation physique et sportive y contribue également.
+Les connaissances nécessaires relèvent notamment de l'enseignement scientifique et des humanités. L'éducation physique et sportive y contribue également.
 
 L'objectif est de favoriser la compréhension des institutions d'une démocratie vivante par l'acquisition des  principes  qui  fondent  la  Principauté  et  de  permettre  aux  élèves  de  devenir  des  acteurs responsables de notre démocratie.
 
@@ -1332,7 +1289,7 @@ Les  compétences  globales,  l'éducation  aux  droits  de  l'homme  et  l'édu
 
 En accord avec cet objectif, l'Université d'Andorre propose le bàtxelor en sciences de l'éducation.
 
-##### Bàtxelo r (BAC+3) en sciences de l'éducation :
+##### Bàtxelor (BAC+3) en sciences de l'éducation :
 
 Le bàtxelor en sciences de l'éducation permet d'exercer en tant qu'enseignant du premier degré. Les étudiants sont formés aux compétences pour une citoyenneté démocratique et pour l'éducation aux droits de l'homme.
 
@@ -1443,11 +1400,10 @@ Cette rubrique correspond en outre à la cible 4.5, qui appelle les États à «
 -Veuillez décrire succinctement le cadre juridique et politique qui protège le droit des réfugiés et des migrants à une éducation de qualité dans votre pays.
 
 ##### Le droit à l'éducation des migrants et des réfugiés
----
 ###### Contexte
 La langue officielle de la Principauté d'Andorre est le catalan.
 Les résultats du dernier rapport sur les connaissances et usages linguistiques de la population d'Andorre (2018) montrent que le catalan et l'espagnol sont les langues habituelles de la majorité de la population, parlée exclusivement ou combinée. En ce sens, il est nécessaire de tenir compte du fait que la segmentation professionnelle s'analyse en fonction de la nationalité et du niveau de formation requis pour chaque poste de travail.
-En Andorre il y a plus de personnes de nationalité andorrane (et dans certains cas espagnole) qui travaillent comme cadres moyens et supérieurs. Pour ces professions, le catalan est nécessaire et les emplois sont généralement occupés par la population autochtone ou catalane. En outre, parmi les travailleurs non qualifiés, il y a une proportion plus élevée de personnes de nationalité portugaise
+En Andorre il y a plus de personnes de nationalité andorrane (et dans certains cas espagnole) qui travaillent comme cadres moyens et supérieurs. Pour ces professions, le catalan est nécessaire et les emplois sont généralement occupés par la population autochtone ou catalane. En outre, parmi les travailleurs non qualifiés, il y a une proportion plus élevée de personnes de nationalité portugaise et un groupe d'autres nationalités.
 Afin de favoriser l'intégration des migrants, le ministère en charge de la politique linguistique dispense des cours gratuits de catalan (niveaux A1, A2, B1, et groupes de conversation).
 Les cours sont répartis sur différentes tranches horaires (matin, après-midi, soir). Il existe deux types de cours : des cours intensifs (quatre heures par semaine, de septembre à janvier ou de février à juin) et des cours complets (trois heures par semaine, de septembre à juin).
 Des cours de catalan de base et de catalan administratif d'une durée de 20 heures sont aussi proposés aux personnes inscrites au Pôle emploi.
@@ -1546,7 +1502,7 @@ dans le pays, à savoir le catalan, l'espagnol et le français.
 
 À  l'heure  actuelle,  les  systèmes  éducatifs  français  et  espagnol  sont  régis  par  des  Conventions
 
-intenationales signées avec l'Espagne et la France (Page 17).
+internationales signées avec l'Espagne et la France (Page 17).
 
 Signalons  également  que  le  Gouvernement  andorran  a  signé  une  Convention  de  coopération
 
@@ -1554,7 +1510,7 @@ Signalons  également  que  le  Gouvernement  andorran  a  signé  une  Conventi
 
 portugaises au sein des établissements scolaires des trois systèmes  éducatifs, compte tenu de
 
-l'importante commaunauté portugaise qui réside en Principauté d'Andorre.
+l'importante communauté portugaise qui réside en Principauté d'Andorre.
 
 ###### Sur la scolarisation des primo-arrivants
 
@@ -1638,7 +1594,7 @@ Ouvrez-les, ouvrons-nous
 
 Le ministère en charge de l'éducation a adopté un protocole d'accueil des enfants et adolescents
 
-refugiés. Ce protocole prévoit un premier entretien avec la famille, au cours duquel le responsable
+réfugiés. Ce protocole prévoit un premier entretien avec la famille, au cours duquel le responsable
 
 du service de l'inspection présente les différents systèmes éducatifs existant en Andorre.
 
@@ -1660,7 +1616,7 @@ pleine conscience de leur situation particulière et de leur besoin de s'absente
 
 pour suivre des cours de langue.
 
-###### Reconnaissance des qualifications pour les personnes refugiées
+###### Reconnaissance des qualifications pour les personnes réfugiées
 
 Décret  du  17  juin  2020  portant  sur  l'approbation  du  règlement  pour  la  reconnaissance  des
 
@@ -1716,7 +1672,7 @@ o Autres mesures innovantes :
 
 Voir la réponse ci-dessus.
 
-## Moyens mis en place pour sensibiliser les différentes autorités du pays à ces instruments et pour lever les obstacles rencontrés
+## III. Moyens mis en place pour sensibiliser les différentes autorités du pays à ces instruments et pour lever les obstacles rencontrés
 
 ### 1. Difficultés et obstacles
 
