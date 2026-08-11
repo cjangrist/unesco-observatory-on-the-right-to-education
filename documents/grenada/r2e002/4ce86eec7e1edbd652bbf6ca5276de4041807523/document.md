@@ -22,6 +22,44 @@ Grenada 1973 (reinst. 1991, rev. 1992)
 
 Page 2
 
+Preamble 6
+Chapter I: Protection of Fundamental Rights and Freedoms 6
+1. Fundamental rights and freedoms 6
+2. Protection of right to life 7
+3. Protection of right to personal liberty 7
+4. Protection from slavery and forced labour 9
+5. Protection from inhuman treatment 9
+6. Protection from deprivation of property 9
+7. Protection from arbitrary search or entry 11
+8. Provisions to secure protection of law 12
+9. Protection of freedom of conscience 14
+10. Protection of freedom of expression 15
+11. Protection of freedom of assembly and association 15
+12. Protection of freedom of movement 16
+13. Protection from discrimination on the grounds of race, etc 17
+14. Derogations from fundamental rights and freedoms under emergency powers 18
+15. Protection of persons detained under emergency laws 18
+16. Enforcement of protective provisions 19
+17. Declaration of emergency 20
+18. Interpretation and savings 21
+Chapter II: Governor-General 22
+19. Establishment of office of Governor-General 22
+20. Oaths to be taken by Governor-General 22
+21. Acting Governor-General 22
+22. Deputy to Governor-General 22
+Chapter III: Parliament 23
+Part I: Composition of Parliament 23
+23. Establishment of Parliament 23
+24. Composition of Senate 23
+25. Qualifications for appointment as Senator 24
+26. Disqualifications for appointment as Senator 24
+27. Tenure of office of Senators 25
+28. President and Deputy President of Senate 26
+29. House of Representatives 27
+30. Qualifications for membership of House of Representatives 27
+31. Disqualifications for membership of House of Representatives 28
+32. Election of members of House of Representatives 29
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -33,6 +71,45 @@ PDF generated: 17 Jan 2018, 16:14
 Grenada 1973 (reinst. 1991, rev. 1992)
 
 Page 3
+
+33. Tenure of office of members of House of Representatives 29
+34. Speaker and Deputy Speaker 30
+35. Supervisor of Elections 32
+36. Clerks to Houses of Parliament and their staff 33
+37. Determination of questions as to membership of Parliament 33
+Part II: Legislation and Procedure of Parliament 34
+38. Power to make laws 34
+39. Alteration of this Constitution and certain other laws 34
+40. Oath by members of Parliament 36
+41. Presiding in Houses of Parliament 36
+42. Quorum 37
+43. Voting 37
+44. Unqualified persons sitting or voting 37
+45. Mode of exercise of legislative power 37
+46. Restrictions with regard to certain financial measures 38
+47. Restricting on powers of Senate as to money bills 38
+48. Restriction on powers of Senate as to bills other than money bills 39
+49. Provisions relating to sections 46, 47 and 48 40
+50. Regulating of Procedure in Houses of Parliament 40
+Part III: Summoning, Prorogation and Dissolution 40
+51. Sessions of Parliament 40
+52. Prorogation and dissolution of Parliament 41
+53. General elections 41
+Part IV: Delimitation of Constituencies 41
+54. Constituencies 41
+55. Constituency Boundaries Commission 41
+56. Review of Constituency boundaries 43
+Chapter IV: The Executive 44
+57. Exercise of executive authority of Grenada 44
+58. Ministers 44
+59. Cabinet of Ministers 45
+60. Allocation of portfolios to Ministers 46
+61. Performance of functions of Prime Minister during absence or illness 46
+62. Exercise of Governor-General’s functions 46
+63. Governor-General to be informed concerning matters of government 46
+64. Parliamentary Secretaries 47
+65. Oaths to be taken by Ministers, etc 47
+66. Leader of the Opposition 47
 
 [[END OF PAGE 3]]
 
@@ -46,6 +123,45 @@ Grenada 1973 (reinst. 1991, rev. 1992)
 
 Page 4
 
+67. Permanent secretaries 48
+68. Secretary to the Cabinet 48
+69. Constitution of offices, etc 48
+70. Attorney-General 48
+71. Director of Public Prosecutions 49
+72. Prerogative of mercy 50
+73. Advisory committee on Prerogative of Mercy 50
+74. Functions of Advisory Committee 51
+Chapter V: Finance 51
+75. Consolidated Fund 51
+76. Withdrawals from Consolidated Fund or other public funds 51
+77. Authorisation of expenditure from Consolidated Fund by Appropriation law 52
+78. Authorisation of expenditure in advance of appropriation 52
+79. Contingencies Fund 52
+80. Remuneration of certain officers 53
+81. Public debt 53
+82. Director of Audit 53
+Chapter VI: The Public Service 54
+Part I: The Public Service Commission 54
+83. Public Service Commission 54
+84. Appointment, etc., of public officers 56
+Part II: Appointments, etc., to particular offices 57
+85. Appointment, etc., of permanent secretaries and certain other officers 57
+86. Director of Public Prosecutions 57
+87. Director of Audit 59
+88. Appointment, etc., of magistrates, registrars and legal officers 60
+89. Police Force 60
+Part III: The Public Service Board of Appeal 61
+90. Public Service Board of Appeal 61
+91. Appeals in discipline cases 63
+Part IV: Pensions 64
+92. Pensions laws and protection of pensions rights 64
+93. Power to withhold pensions, etc 64
+Chapter VII: Citizenship 66
+94. Persons who become citizens on 7th February 1974 66
+95. Persons entitled to be registered as citizens 66
+96. Persons born in Grenada on or after 7th February 1974 66
+97. Person born outside Grenada on or after 7th February 1974 67
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -57,6 +173,28 @@ PDF generated: 17 Jan 2018, 16:14
 Grenada 1973 (reinst. 1991, rev. 1992)
 
 Page 5
+
+98. Marriage to citizen of Grenada 67
+99. Powers of Parliament 67
+100. Interpretation 67
+Chapter VIII: Judicial Provisions 68
+101. Original Jurisdiction of High Court in constitutional question 68
+102. Reference of constitutional questions to High Court 68
+103. Appeals to Court of Appeal 69
+104. Appeals to Her Majesty in Council 69
+105. Courts order 70
+Chapter IX: Miscellaneous 70
+106. Supreme law 70
+107. Local government 70
+108. Certain questions not to be enquired into in any court 70
+109. Resignations 70
+110. Re-appointments and concurrent appointments 71
+111. Interpretation 71
+Schedule 1 to the Constitution 74
+Part I: Provisions of the Constitution Referred to in Section 39(5) 74
+Part II: Provisions of the Courts Order Referred to in Section 39(5) 74
+Schedule 2 to the Constitution: Rules Relating to Constituencies 74
+Schedule 3 to the Constitution: Forms of Oath 75
 
 [[END OF PAGE 5]]
 
@@ -424,17 +562,32 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-f. shall be permitted to have without payment the assistance of an interpreter if he cannot understand the language used at the trial of the charge, and except with his own consent the trial shall not take place in his absence unless he so conducts himself as to render the continuance of the proceedings in his presence impracticable and the court has ordered him to be removed and the trial to proceed in his absence: Provided that, in such circumstances as may be prescribed by law, the trial may take place in the absence of the person charged so long as no punishment of death or imprisonment (other than imprisonment in default of payment of a fine) is awarded in the event of his conviction.
---- | ---
-3. When a person is tried for any criminal offence, the accused person or any person authorised by him in that behalf shall, if he so requires and subject to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgment a copy for the use of the accused person of any
-• Protection from ex post facto laws | 4. No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that
-• Prohibition of double jeopardy | 5. No person who shows that he has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he could have been convicted at the trial for that offence, save upon the order of a superior court in the course of appeal or review proceedings relating to the conviction or acquittal.
+f. shall be permitted to have without payment the assistance of an interpreter if he cannot understand the language used at the trial of the charge,
+and except with his own consent the trial shall not take place in his absence unless he so conducts himself as to render the continuance of the proceedings in his presence impracticable and the court has ordered him to be removed and the trial to proceed in his absence:
+Provided that, in such circumstances as may be prescribed by law, the trial may take place in the absence of the person charged so long as no punishment of death or imprisonment (other than imprisonment in default of payment of a fine) is awarded in the event of his conviction.
+
+3. When a person is tried for any criminal offence, the accused person or any person authorised by him in that behalf shall, if he so requires and subject to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgment a copy for the use of the accused person of any record of the proceedings made by or on behalf of the court.
+
+· Protection from ex post facto laws
+4. No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed.
+
+· Prohibition of double jeopardy
+5. No person who shows that he has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he could have been convicted at the trial for that offence, save upon the order of a superior court in the course of appeal or review proceedings relating to the conviction or acquittal.
+
 6. No person shall be tried for a criminal offence if he shows that he has been pardoned for that offence.
-• Protection from self-incrimination | 7. No person who is tried for a criminal offence shall be compelled to give evidence at the trial.
+
+· Protection from self-incrimination
+7. No person who is tried for a criminal offence shall be compelled to give evidence at the trial.
+
 8. Any court or other authority prescribed by law for the determination of the existence or extent of any civil right or obligation shall be established by law and shall be independent and impartial; and where proceedings for such a determination are instituted by any person before such a court or other authority, the case shall be given a fair hearing within a reasonable time.
-• Right to public trial | 9. Except with the agreement of all the parties thereto, all proceedings of every court and proceedings for the determination of the existence or extent of any civil right or obligation before any other authority, including the announcement of the decision of the court or other authority, shall be held in public.
+
+· Right to public trial
+9. Except with the agreement of all the parties thereto, all proceedings of every court and proceedings for the determination of the existence or extent of any civil right or obligation before any other authority, including the announcement of the decision of the court or other authority, shall be held in public.
+
 10. Nothing in subsection (9) of this section shall prevent the court or other authority from excluding from the proceedings persons other than the parties thereto and their legal representatives to such extent as the court or other authority-
+
 a. may by law be empowered to do and may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice or in interlocutory proceedings or in the interests of public morality, the welfare of persons under the age of eighteen years or the protection of the private lives of persons concerned in the proceedings; or
+
 b. may by law be empowered or required to do in the interests of defence, public safety or public order.
 
 Grenada 1973 (reinst. 1991, rev. 1992)
@@ -989,17 +1142,19 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Leader of second chamber
+
 
 3.
 
-- If any circumstances such as are referred to in paragraph (d) of subsection (2) of this section arise because any Senator in under sentence of death or imprisonment,  adjudged  to  be  of  unsound  mind,  declared  bankrupt  or convicted or reported guilty of an offence relating to elections and if it is open to the Senator to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform  his  functions  as  a  senator  but,  subject  to  the  provisions  of  this section, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
+- If any circumstances such as are referred to in paragraph (d) of subsection (2) of this section arise because any Senator is under sentence of death or imprisonment,  adjudged  to  be  of  unsound  mind,  declared  bankrupt  or convicted or reported guilty of an offence relating to elections and if it is open to the Senator to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform  his  functions  as  a  senator  but,  subject  to  the  provisions  of  this section, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
 
 Provided  that  the  President  of  the  Senate  may,  at  the  request  of  the Senator, from time to time, extend that period for further periods of thirty days  to  enable  the  member  to  pursue  an  appeal  against  the  decision,  so, however, that extensions of time exceeding in the aggregate one hundred and  fifty  days  shall  not  be  given  without  the  approval,  signified  by resolution, of the Senate.
 
 - If, on the determination of any appeal, such circumstances continue to exist and  no  further  appeal  is  open  to  the  member  or  if,  by  reason  of  the expiration  of  any  period  for  entering  an  appeal  or  notice  thereof  or  the refusal of leave to appeal or for any other reason, it ceases to be open to the Senator to appeal, he shall forthwith vacate his seat.
 
 - If  at  any  time  before  the  Senator  vacates  his  seat  such  circumstances aforesaid cease to exist, his seat shall not become vacant on the expiration of  the  period  referred  to  in  paragraph  (a)  of  this  subsection  and  he  may resume the performance of his functions as a Senator.
+
+· Leader of second chamber
 
 ##### 28. President and Deputy President of Senate
 
@@ -1029,15 +1184,11 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Size of first chamber
 
-· Eligibility for first chamber
-
-· Minimum age for first chamber
-
-5.
 
 - in the case of the Deputy President, if he is elected to be President.
+
+5.
 
 - If,  by  virtue of section 27(3) of this Constitution, the President or Deputy President of the Senate is required to cease to perform his functions as a Senator he shall also cease to perform his functions as President or Deputy President, as the case may be, and those functions shall, until he vacates his seat in the Senate or resumes the performance of the functions of his office, be performed-
 
@@ -1053,13 +1204,19 @@ PDF generated: 17 Jan 2018, 16:14
 
 - The  House  of  Representatives  shall  consist  of  such  number  of  members  as corresponds with the number of constituencies for the time being established for  Grenada  under  section  56  of  this  Constitution,  who  shall  be  elected  in accordance with the provisions of section 32 of this Constitution.
 
+· Size of first chamber
+
 - If a person who is not a member of the House of Representatives is elected to be Speaker of the House he shall, by virtue of holding the office of Speaker, be a member of the House.
 
 ##### 30. Qualifications for membership of House of Representatives
 
+· Eligibility for first chamber
+
 Subject  to  the  provisions  of  section  31  of  this  Constitution,  a  person  shall  be qualified to be elected as a member of the House of Representatives if, and shall not be so qualified unless, he-
 
 - is a Commonwealth citizen who has attained the age of eighteen years;
+
+· Minimum age for first chamber
 
 - has resided in Grenada for a period of twelve months immediately before the  date  of  his  nomination  for  election  or  is  domiciled  and  resident  in Grenada at that date; and
 
@@ -1075,19 +1232,15 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Eligibility for first chamber
 
-· Outside professions of legislators
-
-· Eligibility for first chamber
-
-· Outside professions of legislators
 
 - is  able  to  speak  and,  unless  incapacitated  by  blindness  or  other  physical cause, to read the English language with sufficient proficiency to enable him to take an active part in the proceedings of the House.
 
 ##### 31. Disqualifications for membership of House of Representatives
 
 - No  person  shall  be  qualified  to  be  elected  as  a  member  of  the  House  of Representatives if he-
+
+· Eligibility for first chamber
 
 - is  by  virtue  of  his  own  act,  under  any  acknowledgement  of  allegiance, obedience or adherence to a foreign power or state;
 
@@ -1101,9 +1254,15 @@ PDF generated: 17 Jan 2018, 16:14
 
 - Parliament may provide that a person shall not be qualified to be elected as a member of the House of Representatives if he holds or is acting in any office that is specified by Parliament and the functions of which involve responsibility for, or  in  connection  with,  the  conduct  of  any  election  to  the  House  or  the compilation of any register of voters for the purposes of such an election.
 
+· Outside professions of legislators
+
 - Parliament  may  provide  that  a  person  who  is  convicted  by  any  court  of  any offence that is prescribed by Parliament and that is connected with the election of  members  of  the  House  of  Representatives  or  is  reported  guilty  of  such  an offence by the court trying an election petition shall not be qualified, for such period (not exceeding five years) following his conviction or, as the case may be, following  the  report  of  the  court  as  may  be  so  prescribed,  to  be  elected  as  a member of the House.
 
+· Eligibility for first chamber
+
 - Parliament may provide that, subject to such exceptions and limitations (if any) as Parliament may prescribe, a person shall not be qualified to be elected as a member of the House of Representatives if,-
+
+· Outside professions of legislators
 
 - he holds or is acting in any public office or appointment (either individually or by reference to a class of public office or appointment);
 
@@ -1121,15 +1280,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· First chamber selection
 
-· Claim of universal suffrage
-
-· Secret ballot
-
-· Removal of individual legislators
-
-Attendance by legislators
 
 - he belongs to any police force or to any class of person that is comprised in any such force.
 
@@ -1145,15 +1296,21 @@ Attendance by legislators
 
 - Each of the constituencies into which Grenada is divided in accordance with the provisions  of  section  56  of  this  Constitution  shall  return  one  member  to  the House of Representatives who shall be directly elected in such manner as may, subject to the provisions of this Constitution, be prescribed by or under any law.
 
+· First chamber selection
+
 2.
 
 - Every Commonwealth citizen who has attained the prescribed age and who possesses such qualifications relating to residence or domicile in Grenada as  Parliament  may prescribe shall,  unless  he  is  disqualified  by  Parliament from registration as a voter for the purposes of elections of members of the House  of  Representatives,  be  entitled  to  be  registered  as  such  a  voter under any law in that behalf, and no other person may be so registered.
 
 - Every  person  who  is  registered  as  aforesaid  in  any  constituency  shall, unless he is disqualified by Parliament from voting in that constituency in any election of members of the House of Representatives, be so entitled to vote,  in  accordance  with  the  provisions  of  any  law  in  that  behalf,  and  no other person may so vote.
 
+· Claim of universal suffrage
+
 - The prescribed age for the purposes of this subsection shall be the age of eighteen years.
 
-- In  any  election  of  members of the House of Representative the votes shall be given  by  ballot  in  such  manner  as  not  to  disclose  how  any  particular  person votes.
+- In  any  election  of  members of the House of Representatives the votes shall be given  by  ballot  in  such  manner  as  not  to  disclose  how  any  particular  person votes.
+
+· Secret ballot
 
 ##### 33. Tenure of office of members of House of Representatives
 
@@ -1161,7 +1318,11 @@ Attendance by legislators
 
 - A  member  of  the  House  of  Representatives  shall  also  vacate  his  seat  in  the House-
 
+· Removal of individual legislators
+
 - if  he  is  absent  from  the  sittings  of  the  House  for  such  period  and  in  such circumstances as may be prescribed in the rules of procedure of the House;
+
+· Attendance by legislators
 
 Grenada 1973 (reinst. 1991, rev. 1992)
 
@@ -1175,13 +1336,13 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Leader of first chamber
 
-3.
 
 - if he ceases to be a Commonwealth citizen; or
 
 - subject  to  the  provisions  of  subsection  (3)  of  this  section,  if  any  other circumstances arise that, if he were not such a member, would cause him to be disqualified to be elected as such by virtue of subsection (1) of section 31 of this Constitution or of any law enacted in pursuance of subsection (2), (3) or (4) of that section.
+
+3.
 
 - If any circumstances such as are referred to in paragraph (c) of subsection (2) of this section arise because any member of the House of Representatives is under sentence of death or imprisonment, adjudged to be of unsound mind, declared bankrupt or convicted or reported guilty of an offence relating to elections and if it is open to the member to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform his functions as a member of the House but, subject to the provisions of this section, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
 
@@ -1191,9 +1352,11 @@ Provided that the Speaker may, at the request of the member, from time to time, 
 
 - If  at  any  time  before  the  member  of  the  House  vacates  his  seat  such circumstances aforesaid cease to exist, his seat shall not become vacant on the expiration of the period referred to in paragraph (a) of this subsection and he may resume the performance of his functions as a member of the House.
 
+· Leader of first chamber
+
 ##### 34. Speaker and Deputy Speaker
 
-- When the House of Representatives first meets after any general election and before it proceeds to the despatch of any other business, it shall elect a person to be the Speaker of the House; and if the office of Speaker falls vacant at any time  before  the  net  dissolution  of  Parliament,  the  House  shall  elect  another person to that office.
+- When the House of Representatives first meets after any general election and before it proceeds to the despatch of any other business, it shall elect a person to be the Speaker of the House; and if the office of Speaker falls vacant at any time  before  the  next  dissolution  of  Parliament,  the  House  shall  elect  another person to that office.
 
 - The Speaker may be elected either from among the members of the House of Representatives  who  are  not  Ministers  or  Parliamentary  Secretaries,  or  from among persons who are not members of the House of Representatives: Provided that a person who is not a member of the House of Representatives shall not be elected as Speaker if-
 
@@ -1211,7 +1374,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-7.
+
 
 - he  is  a  person  disqualified  for  election  as  a  member  of  the  House  of Representatives by virtue of section 31(1) of this Constitution or any law enacted in pursuance of subsection (2), (3) or (4) of that section.
 
@@ -1243,6 +1406,8 @@ PDF generated: 17 Jan 2018, 16:14
 
 - if he is elected to be Speaker.
 
+7.
+
 - If,  by  virtue  of  section  33(3)  of  this  Constitution,  the  Speaker  or  Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives he shall also  cease  to  perform  his  functions  as Speaker or Deputy Speaker, as the case may be, and those functions shall, until he vacates his seat in the House or resumes the performance of the functions of his office, be performed-
 
 Grenada 1973 (reinst. 1991, rev. 1992)
@@ -1257,13 +1422,15 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Electoral commission
+
 
 - in  the  case  of  the  Speaker,  by  the  Deputy  Speaker or, if  the  office  of Deputy Speaker is vacant or the Deputy Speaker is required to cease to perform his functions as a member of the House of Representatives by virtue of section 33(3) of this Constitution, by such member of the House  (not  being  a  Minister  or  a  Parliamentary  Secretary)  as  the House may elect for the purpose;
 
 - in the case of the Deputy Speaker, by such member of the House (not being a Minister or a Parliamentary Secretary) as the House may elect for the purpose.
 
 - If the Speaker or Deputy Speaker resumes the performance of his functions as  a  member  of  the  House,  in  accordance  with  the  provisions  of  section 33(3)  of  this  Constitution,  he  shall  also  resume  the  performance  of  his functions as Speaker or Deputy Speaker, as the case may be.
+
+· Electoral commission
 
 ##### 35. Supervisor of Elections
 
@@ -1301,7 +1468,7 @@ PDF generated: 17 Jan 2018, 16:14
 
 Provided  that  the  offices  of  Clerk  to  the  Senate  and  Clerk  to  the  House  of Representatives may be held by the same person.
 
-- Subject  to  the  provisions  of  any  enacted  by  Parliament,  the  office  of  Clerk  of each House of Parliament and the members of his staff shall be offices in the public service.
+- Subject  to  the  provisions  of  any  law  enacted  by  Parliament,  the  office  of  Clerk  of each House of Parliament and the members of his staff shall be offices in the public service.
 
 ##### 37. Determination of questions as to membership of Parliament
 
@@ -1313,15 +1480,15 @@ Provided  that  the  offices  of  Clerk  to  the  Senate  and  Clerk  to  the  H
 
 - any person who has been elected as Speaker of the House of Representatives from among persons who were not members thereof was qualified to be so elected or has vacated the office of Speaker;
 
-- any Senator or member of the House of Representatives has vacated his seat  or  is  required,  under  the  provisions  of  section  27(3)  or  33(3)  of  this Constitution,  to  cease  to  perform  any  of  his  functions  as  a  Senator  or member of the House or Representatives.
+- any Senator or member of the House of Representatives has vacated his seat  or  is  required,  under  the  provisions  of  section  27(3)  or  33(3)  of  this Constitution,  to  cease  to  perform  any  of  his  functions  as  a  Senator  or member of the House of Representatives.
 
-- An application to the High Court for the determination of any question under subsection  (1)  (a)  of  this  section  may  be  made  by  any  person  registered  in  a constituency as a voter in elections of members of the House of Representatives or  by  the  Attorney-General,  and  an  application  to  the  High  Court  for  the determination of any question under subsection (1) (b) of this section may be made  by  any  person  entitled  to  vote  in  the  election  to  which  the  application relates  or  by  any  person  who  was  a  candidate  in  that  election  or  by  the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
+- An application to the High Court for the determination of any question under subsection  (1)  (a)  of  this  section  may  be  made  by  any  person  registered  in  a constituency as a voter in elections of members of the House of Representatives or  by  the  Attorney-General,  and  an  application  to  the  High  Court  for  the determination of any question under subsection (1) (b) of this section may be made  by  any  person  entitled  to  vote  in  the  election  to  which  the  application relates  or  by  any  person  who  was  a  candidate  in  that  election  or  by  the Attorney-General and, if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
 - An application to the High Court for the determination of any question under subsection (1) (c) of this section may be made by any member of the House of Representatives or by the Attorney-General and if it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
 - An application to the High Court for the determination of any question under subsection (1) (d) of this section may be made-
 
-- in  the  case  of  a  Senator,  by  a  member  of  the  senate,  by  any  person registered in a constituency as a voter in elections of members of the House of Representatives or by the Attorney-General;
+- in  the  case  of  a  Senator,  by  a  member  of  the  Senate,  by  any  person registered in a constituency as a voter in elections of members of the House of Representatives or by the Attorney-General;
 
 Grenada 1973 (reinst. 1991, rev. 1992)
 
@@ -1335,9 +1502,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Division of labor between chambers
 
-· Constitution amendment procedure
 
 - in the case of a member of the House of Representatives, by a member of that  House  or  by  any  person  registered  in  a  constituency  as  a  voter  in elections of members of that House or by the Attorney-General,
 
@@ -1351,23 +1516,27 @@ and, if it is made by a person other than the Attorney-General, the Attorney-Gen
 
 - An appeal shall lie as of right to the Court of Appeal from any final decision of the High Court determining such a question as is referred to in subsection (1) of this section.
 
-- No appeal shall lie from any decision of the Court of Appeal in exercise of the jurisdiction  conferred  by  subsection  (6)  of  this  section  and  no  appeal  shall  lie from any decision determining such a question as is referred to in subsection (1) of this section.
+- No appeal shall lie from any decision of the Court of Appeal in exercise of the jurisdiction  conferred  by  subsection  (6)  of  this  section  and  no  appeal  shall  lie from any decision of the High Court in proceedings under this section other than a final decision determining such a question as is referred to in subsection (1) of this section.
 
 - In  the  exercise  of  his  functions  under  this  section,  the  Attorney-General  shall not be subject to the direction or control of any other person or authority.
 
 ### Part II: Legislation and Procedure of Parliament
 
+· Division of labor between chambers
+
 ##### 38. Power to make laws
 
 Subject  to  the  provisions  of  this  Constitution,  Parliament  may  make  laws  for  the peace, order and good government of Grenada.
+
+· Constitution amendment procedure
 
 ##### 39. Alteration of this Constitution and certain other laws
 
 - Parliament may alter any of the provisions of this Constitution or of the Courts Order  or  section  3  of  the  West  Indies  Associated  States  (Appeals  to  Privy Council)  Order  1967(a)  in  the  manner  specified  in  the  following  provisions  of this section.
 
-- A  bill  to  alter  this  constitution  or  the  Courts  Order  or  section  3  of  the  West Indies  Associated  States  (Appeals  to  Privy  Council)  Order  1967  shall  not  be regarded  as  being  passed  by  the  House  of  Representatives  unless  on  its  final reading  in  that  House  the  bill  is  supported  by  the  votes  of  not  less  than two-thirds of all the members of the House.
+- A  bill  to  alter  this  Constitution  or  the  Courts  Order  or  section  3  of  the  West Indies  Associated  States  (Appeals  to  Privy  Council)  Order  1967  shall  not  be regarded  as  being  passed  by  the  House  of  Representatives  unless  on  its  final reading  in  that  House  the  bill  is  supported  by  the  votes  of  not  less  than two-thirds of all the members of the House.
 
-- An amendment made by the Senate to such a bill that has been passed by the House of Representatives shall not be regarded as being agreed to by the House of Representatives for the purpose of section 48 of this Constitution unless such agreement  is  signified  by  resolution  supported  by  the  votes  of  not  less  than two-thirds of all the members of the House Representatives.
+- An amendment made by the Senate to such a bill that has been passed by the House of Representatives shall not be regarded as being agreed to by the House of Representatives for the purpose of section 48 of this Constitution unless such agreement  is  signified  by  resolution  supported  by  the  votes  of  not  less  than two-thirds of all the members of the House of Representatives.
 
 Grenada 1973 (reinst. 1991, rev. 1992)
 
@@ -1381,25 +1550,27 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Referenda
 
-- For the purposes of section 49(4) of this constitution, an amendment of a bill to alter  this  Constitution  or  the  Courts  Order  or  section  3  of  the  West  Indies Associated States (Appeals to Privy Council) Order 1967 shall not be suggested to the Senate by the House of Representatives unless a resolution so to suggest the amendment has been supported by the votes of not less than two-thirds of all the members of the House of Representatives.
 
-- A  bill  to  alter  this  section,  Schedule  1  to  this  Constitution  or  any  of  the provisions of this Constitution specified in Part I of that Schedule or any of the provisions of the Courts Order specified in Part II of that Schedule or section 3 of the West Indies Associated States (appeals to Privy Council) Order 1967 shall not be submitted to the Governor for his assent unless-
+- For the purposes of section 49(4) of this Constitution, an amendment of a bill to alter  this  Constitution  or  the  Courts  Order  or  section  3  of  the  West  Indies Associated States (Appeals to Privy Council) Order 1967 shall not be suggested to the Senate by the House of Representatives unless a resolution so to suggest the amendment has been supported by the votes of not less than two-thirds of all the members of the House of Representatives.
 
-- there  has  been  an  interval  of  not  less  than  ninety  days  between  the introduction of the bill in the House of Representatives and the beginning of  the  proceedings  in  the  House  on  the  section  reading  of  the  bill  in  that House;
+- A  bill  to  alter  this  section,  Schedule  1  to  this  Constitution  or  any  of  the provisions of this Constitution specified in Part I of that Schedule or any of the provisions of the Courts Order specified in Part II of that Schedule or section 3 of the West Indies Associated States (Appeals to Privy Council) Order 1967 shall not be submitted to the Governor-General for his assent unless-
+
+- there  has  been  an  interval  of  not  less  than  ninety  days  between  the introduction of the bill in the House of Representatives and the beginning of  the  proceedings  in  the  House  on  the  second  reading  of  the  bill  in  that House;
 
 - after it has been passed by both Houses of Parliament or, in the case of a bill to  which section 48 of this Constitution applies, after its rejection by the Senate for the second time; and
 
 - the bill has been approved on a referendum, held in accordance with such provision  as  may  be  made  in  that  behalf  by  Parliament,  by  not  less  than two-thirds of all the votes validly cast on that referendum.
 
-- Every person who, at the time when the referendum is held, world be entitled to vote in elections of members of the House of Representatives shall be entitled to vote on a referendum held for the purposes of this section in accordance with such  procedures  as  may  be  prescribed  by  Parliament  for  the  purposes  of  the referendum and no other person shall be entitled so to vote.
+· Referenda
+
+- Every person who, at the time when the referendum is held, would be entitled to vote in elections of members of the House of Representatives shall be entitled to vote on a referendum held for the purposes of this section in accordance with such  procedures  as  may  be  prescribed  by  Parliament  for  the  purposes  of  the referendum and no other person shall be entitled so to vote.
 
 - The conduct of any referendum for the purposes of subsection (5) of this section shall  be  under  the  general  supervision  of  the  Supervisor  of  Elections  and  the provisions of subsections (4), (5) and (6) of section 35 of this Constitution shall apply in relation to the exercise by the Supervisor of Elections or by any other officer of his functions with respect to a referendum as they apply in relation to the exercise of his functions with respect to elections of members of the House of Representatives.
 
 8.
 
-- A bill to alter this Constitution or the Courts Order or section 3 of the West Indies Associated States (Appeals to Privy Council) Order 1967 shall not be submitted to the Governor-General for his assent unless it is accompanied by a certificate under the hand of the Speaker of the House of Representatives (or, if the Speaker is for any reason unable to exercise the functions of his office, the Deputy  Speaker)  that the provisions of subsection  (2),(3)  or  (4),  as  the  case  may  be,  of  this  section  have  been complied with and, where a referendum has been held, by a certificate of the supervisor of Elections stating the results of the referendum.
+- A bill to alter this Constitution or the Courts Order or section 3 of the West Indies Associated States (Appeals to Privy Council) Order 1967 shall not be submitted to the Governor-General for his assent unless it is accompanied by a certificate under the hand of the Speaker of the House of Representatives (or, if the Speaker is for any reason unable to exercise the functions of his office, the Deputy  Speaker)  that the provisions of subsection  (2),(3)  or  (4),  as  the  case  may  be,  of  this  section  have  been complied with and, where a referendum has been held, by a certificate of the Supervisor of Elections stating the results of the referendum.
 
 - The certificate of the Speaker or, as the case may be, the Deputy Speaker under this subsection shall be conclusive that the provisions of subsection (2),  (3)  or  (4)  of  this  section  have  been  complied  with  and  shall  not  be enquired into in any court of law.
 
@@ -1415,23 +1586,25 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Oaths to abide by constitution
+
 
 - In this section-
 
 - references to this Constitution include references to any law that alters this Constitution;
 
-- references to the Courts Order are reference to the West  Indies Associated States Supreme Court Order 1967(a) in so far as it has effect as part  of  the  law  of  Grenada  and  include  references  to  any  law  that  alters that Order in so far as it has such effect;
+- references to the Courts Order are references to the West  Indies Associated States Supreme Court Order 1967(a) in so far as it has effect as part  of  the  law  of  Grenada  and  include  references  to  any  law  that  alters that Order in so far as it has such effect;
 
-- references  to  section  3  of  the  West  Indies  Associated  States  (Appeals  to Privy Council) Order 1967 are references to that section in so far as it has effect as part of the law of Grenada and include reference to any law that alters that section in so far as it has such effect;
+- references  to  section  3  of  the  West  Indies  Associated  States  (Appeals  to Privy Council) Order 1967 are references to that section in so far as it has effect as part of the law of Grenada and include references to any law that alters that section in so far as it has such effect;
 
-- references to altering this Constitution or the Courts Order or section 3 of the West Indies Associated States (Appeals to Privy Council) Order 1967, as case may be, or to altering any provision include references-
+- references to altering this Constitution or the Courts Order or section 3 of the West Indies Associated States (Appeals to Privy Council) Order 1967, as the case may be, or to altering any provision include references-
 
 - to revoking it, with or without re-enactment thereof or the making of different provision in lieu thereof;
 
 - to modifying it, whether by omitting or amending any of its provisions or inserting additional provisions in it or otherwise; and
 
 - to  suspending  its  operation  for  any  period  or  terminating  any  such suspension.
+
+· Oaths to abide by constitution
 
 ##### 40. Oath by members of Parliament
 
@@ -1465,11 +1638,11 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Quorum for legislative sessions
 
-· Approval of general legislation · Initiation of general legislation
 
 - in the absence of the Speaker and the Deputy Speaker, such member of the House  (not  being  a  Minister  or  a  Parliamentary  Secretary)  as  the  House may elect for that purpose.
+
+· Quorum for legislative sessions
 
 ##### 42. Quorum
 
@@ -1477,7 +1650,7 @@ PDF generated: 17 Jan 2018, 16:14
 
 - For the purposes of this section-
 
-- a  quorum  of  the  House  of  Representatives  shall  consist  of  five  members and the Senate shall consist of four members;
+- a  quorum  of  the  House  of  Representatives  shall  consist  of  five  members and a quorum of the Senate shall consist of four members;
 
 - a  person  presiding  at  the  sitting  of  either  House  shall  not  be  included  in reckoning whether there is a quorum of the House present.
 
@@ -1497,7 +1670,11 @@ Provided that in the case of the question of the final reading of a bill such as
 
 - Any prosecution for an offence under this section shall be instituted in the High Court and shall not be so instituted except by the Director of Public Prosecutions.
 
+· Approval of general legislation
+
 ##### 45. Mode of exercise of legislative power
+
+· Initiation of general legislation
 
 - The power of Parliament to make laws shall be exercised by bills passed by the Senate and the House of Representatives (or in the cases mentioned in sections 47 and 48 of this Constitution by the House of Representatives) and assented to by the Governor-General on behalf of Her Majesty.
 
@@ -1513,23 +1690,25 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-Division of labor between chambers
 
-Initiation of general legislation
-
-First chamber reserved policy areas
-
-Second chamber reserved policy areas
 
 - When a bill is submitted to the Governor-General for assent in accordance with the  provisions  of  this  Constitution  he  shall  signify  that  he  assents  or  that  he withholds assent.
 
-- When the Governor-General assents to a bill that has been submitted to him in accordance with the provisions of this constitution the bill shall become law and the Governor-General shall thereupon cause it to be published in the Gazette as law.
+- When the Governor-General assents to a bill that has been submitted to him in accordance with the provisions of this Constitution the bill shall become law and the Governor-General shall thereupon cause it to be published in the Gazette as law.
 
 - No law made by Parliament shall come into operation until it has been published in  the  Gazette but Parliament may postpone the coming into operation of any such law and may make laws with retrospective effect.
 
 ##### 46. Restrictions with regard to certain financial measures
 
 - A bill other than a money bill may be introduced in either House of Parliament; a money bill shall not be introduced in the Senate.
+
+· Division of labor between chambers
+
+· Initiation of general legislation
+
+· First chamber reserved policy areas
+
+· Second chamber reserved policy areas
 
 - Except on the recommendation of the Governor-General signified by a Minister, neither House of Parliament shall-
 
@@ -1543,7 +1722,7 @@ Second chamber reserved policy areas
 
 - proceed upon any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding, would be to make provision for any of those purposes.
 
-##### 47. Restricting on powers of Senate as to money bills
+##### 47. Restrictions on powers of Senate as to money bills
 
 - If a money bill, having been passed by the House of Representatives and sent to the Senate at least one month before the end of the session, is not passed by the Senate without amendment within one month after it is sent to the Senate, the bill shall, unless the House of Representatives otherwise resolves, be presented to the Governor-General for his assent notwithstanding that the Senate has not consented to the bill.
 
@@ -1561,9 +1740,9 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-##### 48. Restriction on powers of Senate as to bills other than money bills
+##### 48. Restrictions on powers of Senate as to bills other than money bills
 
-- This  section  applies  to  any  bill  other  than  a  money  bill  that  is  passed  by  the House of Representatives in two successive sessions (whether or not Parliament is dissolved between those session) and, having been sent to the Senate in each of those sessions at least one month before the end of the session, is rejected by the Senate in each of those sessions.
+- This  section  applies  to  any  bill  other  than  a  money  bill  that  is  passed  by  the House of Representatives in two successive sessions (whether or not Parliament is dissolved between those sessions) and, having been sent to the Senate in each of those sessions at least one month before the end of the session, is rejected by the Senate in each of those sessions.
 
 - A bill to which this section applies shall, on its rejection for the second time by the Senate, unless  the  House  of  Representatives  otherwise  resolves,  be submitted to the Governor-General for assent notwithstanding that the Senate has not consented to the bill:
 
@@ -1593,7 +1772,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Immunity of legislators
+
 
 ##### 49. Provisions relating to sections 46, 47 and 48
 
@@ -1601,7 +1780,7 @@ PDF generated: 17 Jan 2018, 16:14
 
 - For the purposes of section 48 of this Constitution, a bill shall be deemed to be rejected by the Senate if-
 
-- it is passed by the Senate without amendment; or
+- it is not passed by the Senate without amendment; or
 
 - it  is  passed  by  the Senate with any amendment which is not agreed to by the House of Representatives.
 
@@ -1609,15 +1788,17 @@ PDF generated: 17 Jan 2018, 16:14
 
 - Any certificate of the Speaker or Deputy Speaker given under section 48 of this Constitution shall be conclusive for all purposes and shall not be questioned in any court of law.
 
-- Before  giving  any  certificate  under  section  47  or  48  of  this  Constitution  the Speaker or deputy Speaker, as the case may be, shall consult the Attorney-General.
+- Before  giving  any  certificate  under  section  47  or  48  of  this  Constitution  the Speaker or Deputy Speaker, as the case may be, shall consult the Attorney-General.
 
-##### 50. Regulating of Procedure in Houses of Parliament
+##### 50. Regulation of Procedure in Houses of Parliament
 
 - Subject  to  the  provisions  of  this  Constitution,  each  House  of  Parliament  may regulate  its  own  procedure  and  may  in  particular  make  rules  for  the  orderly conduct of its own proceedings.
 
 - Each House  of Parliament may  act notwithstanding any vacancy in its membership (including any vacancy not filled when the House first meets after any  general  election)  and  the  presence  or  participation  of  any  person  not entitled to be present at or to participate in the proceedings of the House shall not invalidate those proceedings.
 
-- Parliament may, for the purpose of the orderly and effective discharge of the business of the Senate and the House of Representatives, make provision for the powers, privileges and immunities of those House and the committees and the members thereof.
+- Parliament may, for the purpose of the orderly and effective discharge of the business of the Senate and the House of Representatives, make provision for the powers, privileges and immunities of those Houses and the committees and the members thereof.
+
+· Immunity of legislators
 
 ### Part III: Summoning, Prorogation and Dissolution
 
@@ -1635,21 +1816,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-Extraordinary legislative sessions
 
-Dismissal of the legislature
-
-Term length for first chamber
-
-Term length of second chamber
-
-Term length for first chamber
-
-Term length of second chamber
-
-Dismissal of the legislature
-
-- Electoral districts
 
 - Each session of Parliament shall be held at such place within Grenada and shall commence at such time as the Governor-General may by Proclamation appoint.
 
@@ -1659,17 +1826,33 @@ Dismissal of the legislature
 
 - The Governor-General may at any time prorogue or dissolve Parliament.
 
-- Subject  to  the  provisions  of  subsection  (3)  of  this  section  Parliament,  unless sooner dissolved, shall continue for five years from the date of the first sitting of parliament after any dissolution and shall then stand dissolved.
+· Extraordinary legislative sessions
 
-- At any time with Her Majesty is at war, Parliament may extend the period of five years specified in subsection (2) of this section for not more than twelve months at a time:
+· Dismissal of the legislature
+
+- Subject  to  the  provisions  of  subsection  (3)  of  this  section  Parliament,  unless sooner dissolved, shall continue for five years from the date of the first sitting of Parliament after any dissolution and shall then stand dissolved.
+
+· Term length for first chamber
+
+· Term length of second chamber
+
+- At any time when Her Majesty is at war, Parliament may extend the period of five years specified in subsection (2) of this section for not more than twelve months at a time:
+
+· Term length for first chamber
+
+· Term length of second chamber
 
 Provided that the life of Parliament shall not be extended under this subsection for more than five years.
 
 - In the exercise of his powers to dissolve Parliament, the Governor-General shall act in accordance with the advice of the Prime Minister:
 
+· Dismissal of the legislature
+
 Provided that-
 
-- if  the  majority of all the members of the House of Representatives pass a resolution  that  they  have  not  confidence  in  the  Government  of  Grenada and the Prime Minister does not within three days either resign or advise a dissolution, the Governor-General, acting in his own deliberate judgment, may dissolve Parliament;
+- if  the  majority of all the members of the House of Representatives pass a resolution  that  they  have  not  confidence  in  the  Government  of  Grenada and the Prime Minister does not within three days either resign or advise a dissolution, the Governor-General, acting in his own deliberate judgment, may dissolve Parliament; and
+
+- if the office of Prime Minister is vacant and the Governor-General, acting in his own deliberate judgment, considers that there is no prospect of his being able within a reasonable time to make an appointment to that office, the Governor-General shall dissolve Parliament.
 
 ##### 53. General elections
 
@@ -1678,6 +1861,8 @@ Provided that-
 - As soon as practicable after every general election the Governor-General shall proceed under section 24 of this Constitution to the appointment of Senators.
 
 ### Part IV: Delimitation of Constituencies
+
+· Electoral districts
 
 ##### 54. Constituencies
 
@@ -1723,7 +1908,7 @@ PDF generated: 17 Jan 2018, 16:14
 
 - the tribunal shall enquire into the matter and report on the facts thereof to the Governor-General and recommend to the Governor-General whether the  member  of  the  Commission  ought  to  be  removed  from  office  for inability as aforesaid or for misbehaviour.
 
-- The Commission may regulate its own procedure, and, with the consent of the Prime Minister, confer powers and impose duties on any public office or on any authority of the Government of Grenada for the purpose of the discharge of its functions.
+- The Commission may regulate its own procedure, and, with the consent of the Prime Minister, confer powers and impose duties on any public officer or on any authority of the Government of Grenada for the purpose of the discharge of its functions.
 
 - The Commission may, subject to its rules of procedure, act notwithstanding any vacancy in its  membership and its proceedings shall not be invalidated by the presence  or  participation  of  any  person  not  entitled  to  be  present  at  or  to participate in those proceedings:
 
@@ -1751,7 +1936,7 @@ PDF generated: 17 Jan 2018, 16:14
 
 - showing the constituencies into which it recommends that Grenada should be divided in order to give effect to the rules set out in Schedule 2 to this Constitution; or
 
-- stating that, in the opinion of the Commission, no alteration if required to the existing number or boundaries of constituencies in order to give effect to the said rules.
+- stating that, in the opinion of the Commission, no alteration is required to the existing number or boundaries of constituencies in order to give effect to the said rules.
 
 - Reports  under  subsection  (1) of this section shall  be  submitted  by  the Commission-
 
@@ -1763,7 +1948,7 @@ PDF generated: 17 Jan 2018, 16:14
 
 - Where any draft Order submitted to the House of Representatives under this section gives effect to any such recommendations with modifications, the Prime Minister shall lay before the House together with the draft Order a statement of the reasons for the modifications.
 
-- If  the  motion  for  the  approval  of  any  draft  Order  laid  before  the  House  of Representatives under this section is rejected by the House, or is withdrawn by leave of the House, the prime Minister shall amend the draft Order and lay the amended draft before the House.
+- If  the  motion  for  the  approval  of  any  draft  Order  laid  before  the  House  of Representatives under this section is rejected by the House, or is withdrawn by leave of the House, the Prime Minister shall amend the draft Order and lay the amended draft before the House.
 
 - If any draft Order laid before the House of Representatives under this section is approved by resolution of the House, the Prime Minister shall submit it to the Governor-General  who  shall  make  an  Order  in  terms  of  the  draft;  and  that Order shall come into force upon the next dissolution of Parliament after it is made.
 
@@ -1781,23 +1966,17 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Name/structure of executive(s)
 
-· Head of government selection
-
-· Cabinet selection
-
-· Head of government removal
-
-· Head of government replacement
 
 ## Chapter IV: The Executive
+
+· Name/structure of executive(s)
 
 ##### 57. Exercise of executive authority of Grenada
 
 - The executive authority of Grenada is vested in Her Majesty.
 
-- Subject to the provision so this Constitution, the executive authority of Grenada may  be  exercise  on  behalf  of  Her  Majesty  by  the  Governor-General  either directly or through officers subordinate to him.
+- Subject to the provisions of this Constitution, the executive authority of Grenada may  be  exercised  on  behalf  of  Her  Majesty  by  the  Governor-General  either directly or through officers subordinate to him.
 
 - Nothing  in  this  section  shall  prevent  Parliament  from  conferring  functions  on persons or authorities other than the Governor-General.
 
@@ -1805,21 +1984,29 @@ PDF generated: 17 Jan 2018, 16:14
 
 - There  shall  be  a  Prime  Minister  of  Grenada,  who  shall  be  appointed  by  the Governor-General.
 
+· Head of government selection
+
 - Whenever the Governor-General has occasion to appoint a Prime Minister he shall  appoint  a  member  of  the  House  of  Representatives  who  appears  to  him likely to command the support of the majority of the members of the House.
 
-- There shall be, in addition to the office of Prime Minister, such other offices of Minister as may be established by Parliament, by the Governor-General, acting in accordance with the advice of the Prime Minister.
+- There shall be, in addition to the office of Prime Minister, such other offices of Minister as may be established by Parliament or, subject to the provisions of any law enacted by Parliament, by the Governor-General, acting in accordance with the advice of the Prime Minister.
 
 - Appointments to the office of Minister, other than the office of Prime Minister, shall be made by the Governor-General, acting in accordance with the advice of the Prime Minister, from among the Senators and the members of the House of Representatives.
 
-- If occasion arises for making an appointment to the office of Prime Minister of any  other  Minster  while  Parliament  is  dissolved,  then,  notwithstanding  any other  provision  of  this  section,  a  person  who  was  a  member  of  the  House  of Representatives immediately before the dissolution may be appointed as Prime Minister  or  any  other  Minster  and  a  person  who  was  a  Senator  immediately before  the  dissolution  may  be  appointed  as  any  Minister  other  than  Prime Minister.
+· Cabinet selection
+
+- If occasion arises for making an appointment to the office of Prime Minister or any  other  Minister  while  Parliament  is  dissolved,  then,  notwithstanding  any other  provision  of  this  section,  a  person  who  was  a  member  of  the  House  of Representatives immediately before the dissolution may be appointed as Prime Minister  or  any  other  Minister  and  a  person  who  was  a  Senator  immediately before  the  dissolution  may  be  appointed  as  any  Minister  other  than  Prime Minister.
 
 - The Governor-General may remove the Prime Minister from office-
+
+· Head of government removal
 
 - if a resolution of no confidence in the Government of Grenada is passed by the majority of all the members of the House of Representatives and the Prime Minister does not within three days either resign from his office or advise a dissolution of Parliament; or
 
 - if, at any time between the holding of a general election of the members of the House of Representatives and the date on which the House first meets thereafter, the Governor-General considers that in consequence of changes in the membership of the House resulting from that election the Prime Minister will not be able to command the support of the majority of the members of the House.
 
 - The office of any Minister shall become vacant-
+
+· Head of government replacement
 
 - if  the  holder  of  the  office  ceases  to  be  a  member  of  either  House  of Parliament otherwise than by reason of the dissolution of Parliament;
 
@@ -1835,17 +2022,13 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-Establishment of cabinet/ministers
 
-Powers of cabinet
-
-Legislative oversight of the executive
 
 - in  the  case  of  the  Prime  Minister,  if,  when  the  House  of  Representatives first  meets  after  the  dissolution  of  Parliament,  he  is  not  then  a  member thereof;
 
 - in  the  case  of  any  other  Minister,  if,  when  the  House  of  Representatives first meets after the dissolution of Parliament, he is not then a member of either House of Parliament; or
 
-- if,  by virtue of section 27(3) of 33(3) of this Constitution, he is required to cease to perform his functions as a member of a House of Parliament.
+- if,  by virtue of section 27(3) or 33(3) of this Constitution, he is required to cease to perform his functions as a member of a House of Parliament.
 
 - The office of a Minister other than the Prime Minister shall become vacant-
 
@@ -1859,11 +2042,17 @@ Legislative oversight of the executive
 
 ##### 59. Cabinet of Ministers
 
-- There shall be a Cabinet of Minister for Grenada which shall consist of the Prime Minister and the other Ministers.
+- There shall be a Cabinet of Ministers for Grenada which shall consist of the Prime Minister and the other Ministers.
 
-- At  any  time  when  the  office  of  Attorney-General  is  a  public  office,  the Attorney-General shall be an ex-officio member of the Cabinet in addition to the Minister.
+· Establishment of cabinet/ministers
 
-- The  functions  of  the  Cabinet  shall  be  to  advise  the  Governor-General  in  the government  of  Grenada  and  the  Cabinet  shall  be  collectively  responsible  to Parliament  for  any  advice  given  to  the  Governor-General  by  or  under  the general authority of the cabinet for all things done by or under the authority of any Minister in the execution of his office.
+- At  any  time  when  the  office  of  Attorney-General  is  a  public  office,  the Attorney-General shall be an ex-officio member of the Cabinet in addition to the Ministers.
+
+- The  functions  of  the  Cabinet  shall  be  to  advise  the  Governor-General  in  the government  of  Grenada  and  the  Cabinet  shall  be  collectively  responsible  to Parliament  for  any  advice  given  to  the  Governor-General  by  or  under  the general authority of the Cabinet and for all things done by or under the authority of any Minister in the execution of his office.
+
+· Powers of cabinet
+
+· Legislative oversight of the executive
 
 - The provisions of subsection (3) of this section shall not apply in relation to-
 
@@ -1891,7 +2080,11 @@ The Governor-General, acting in accordance with the advice of the Prime Minister
 
 ##### 61. Performance of functions of Prime Minister during absence or illness
 
-- Whenever the Prime Minister is absent from Grenada or is by reason of illness unable  to  perform  the  functions  conferred  upon  him  by  this  Constitution  the Governor-General  may  authorise  some  other  Minister  may  perform  those functions until his authority is revoked by the Governor-General.
+- Whenever the Prime Minister is absent from Grenada or is by reason of illness unable  to  perform  the  functions  conferred  upon  him  by  this  Constitution  the Governor-General  may  authorise  some  other  Minister  to  perform  those functions until his authority is revoked by the Governor-General.
+
+- The powers of the Governor-General under this section shall be exercised by him in accordance with the advice of the Prime Minister:
+
+Provided that if the Governor-General, acting in his own deliberate judgment, considers that it is impracticable to obtain the advice of the Prime Minister owing to his absence or illness he may exercise those powers without that advice and in his own deliberate judgment.
 
 ##### 62. Exercise of Governor-General's functions
 
@@ -1923,11 +2116,11 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Oaths to abide by constitution
+
 
 ##### 64. Parliamentary Secretaries
 
-- The  Governor-General,  acting  in  accordance  with  the  advice  of  the  Prime Minister, may appoint Parliamentary Secretaries from among the Senators and members of the House, of Representatives to assist Ministers in the performance of their duties:
+- The  Governor-General,  acting  in  accordance  with  the  advice  of  the  Prime Minister, may appoint Parliamentary Secretaries from among the Senators and members of the House of Representatives to assist Ministers in the performance of their duties:
 
 Provided  that,  if  occasion  arises  for  making  appointments  while  Parliament  is dissolved,  a  person  who  was  a  Senator  or  a  member  of  the  House  of Representatives  immediately  before  the  dissolution  may  be  appointed  as  a Parliamentary Secretary.
 
@@ -1944,6 +2137,8 @@ Provided  that,  if  occasion  arises  for  making  appointments  while  Parliam
 - if,  when the House of Representatives first meets after any dissolution of Parliament, he is not then a member of either House of Parliament; or
 
 - if, by virtue of section 27(3) or 33(3) of this Constitution, he is required to cease to perform his functions as a member of a House of Parliament.
+
+· Oaths to abide by constitution
 
 ##### 65. Oaths to be taken by Ministers, etc
 
@@ -1973,7 +2168,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Attorney general
+
 
 - if  by  virtue  of  the  provisions  of  section  33(3)  of  this  Constitution  he  is required  to  cease  to  perform  his  functions  as  a  member  of  the  House  of Representatives; or
 
@@ -1996,6 +2191,8 @@ Provided  that  two  or  more  government  departments  may  be  placed  under  
 ##### 69. Constitution of offices, etc
 
 Subject to the provisions of this Constitution and of any other law, the Governor-General may constitute  offices  for  Grenada,  make  appointments  to  any such office and terminate any such appointment.
+
+· Attorney general
 
 ##### 70. Attorney-General
 
@@ -2025,7 +2222,7 @@ PDF generated: 17 Jan 2018, 16:14
 
 - The Director of Public Prosecutions shall have power in any case in which he considers it desirable so to do-
 
-- to institute and undertake criminal proceedings against any person before any court (other than a court-martial) in respect of any offence alleged to have been committee by that person;
+- to institute and undertake criminal proceedings against any person before any court (other than a court-martial) in respect of any offence alleged to have been committed by that person;
 
 - to  take  over  and  continue  any  such  criminal  proceedings  that  have  been instituted or undertaken by any other person or authority; and
 
@@ -2039,7 +2236,7 @@ Provided  that  where  any  other  person  or  authority  has  instituted  crimi
 
 - For  the  purpose  of  this  section,  any  appeal  from  a  judgment  in  criminal proceedings before any court or any case stated or question of law reserved for the purpose of any such proceedings, to any other court (including Her Majesty in Council) shall be deemed to be part of those proceedings:
 
-Provided  that  the  power  conferred  on  the  Director  of  Public  prosecutions  by subsection (2) (c) of this section shall not be exercised in relation to any appeal by  a  person  convicted  in  any  criminal  proceedings  or  to  any  case  stated  or question of law reserved at the instance of such a person.
+Provided  that  the  power  conferred  on  the  Director  of  Public  Prosecutions  by subsection (2) (c) of this section shall not be exercised in relation to any appeal by  a  person  convicted  in  any  criminal  proceedings  or  to  any  case  stated  or question of law reserved at the instance of such a person.
 
 - In  the  exercise of the functions vested in him by subsection (2) of this section and by section 44 of this Constitution, the Director of Public Prosecutions shall not be subject to the direction or control of any other person or authority.
 
@@ -2055,23 +2252,25 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Power to pardon
 
-· Advisory bodies to the head of state
 
 ##### 72. Prerogative of mercy
 
 - The Governor-General may, in Her Majesty's name and on Her Majesty's behalf-
 
-- grant  a  pardon,  either  free  of  subject  to  lawful  conditions,  to  any  person convicted of any offence;
+- grant  a  pardon,  either  free  or  subject  to  lawful  conditions,  to  any  person convicted of any offence;
+
+· Power to pardon
 
 - grant to any person a respite, either indefinite or for a specified period, of the execution of any punishment imposed on that person for any offence;
 
-- substitute a less severe form of punishment of any punishment imposed on any person for any offence; or
+- substitute a less severe form of punishment for any punishment imposed on any person for any offence; or
 
 - remit the whole or any part of any punishment imposed on any person for any offence or of any penalty or forfeiture otherwise due to the Crown on account of any offence.
 
 - The powers of the Governor-General under subsection (1) of this section shall be exercised by him in accordance with the advice of such Minister as may for the  time  being  be  designated  by  the  Governor-General,  acting  in  accordance with the advice of the Prime Minister.
+
+· Advisory bodies to the head of state
 
 ##### 73. Advisory committee on Prerogative of Mercy
 
@@ -2149,15 +2348,13 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Budget bills
-
-· Budget bills
-
 ##### 77. Authorisation of expenditure from Consolidated Fund by Appropriation law
+
+· Budget bills
 
 - The  Minister  for  the  time  being  responsible  for  finance  shall  cause  to  be prepared  and  laid  before  the  House  of  Representatives  in  each  financial  year estimates  of  the  revenues  and  expenditure  of  Grenada  for  the  next  following financial year.
 
-- When the estimates of expenditure (other than expenditure charged upon the Consolidated Fund by this Constitution or by any law enacted by Parliament) have  been  approved  by  the  House  of  Representatives,  a  bill,  known  as  an Appropriation bill, shall be introduced in the House, providing for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums, under separate votes for the several required, to the purposes specified therein.
+- When the estimates of expenditure (other than expenditure charged upon the Consolidated Fund by this Constitution or by any law enacted by Parliament) have  been  approved  by  the  House  of  Representatives,  a  bill,  known  as  an Appropriation bill, shall be introduced in the House, providing for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums, under separate votes for the several services required, to the purposes specified therein.
 
 - If in respect of any financial year it is found-
 
@@ -2168,6 +2365,8 @@ PDF generated: 17 Jan 2018, 16:14
 a  supplementary  estimate,  showing  the  sums  required  or  spent,  shall  be  laid before the House of Representatives and, when the supplementary estimate has been  approved  by  the  House,  a  supplementary  Appropriation  bill  shall  be introduced  in  the  house  providing  for  the  issue  of  such  sums  from  the Consolidated Fund and appropriating them to the purposes specified therein.
 
 ##### 78. Authorisation of expenditure in advance of appropriation
+
+· Budget bills
 
 Parliament may make provision under which, if the Appropriation law in respect of any financial year has not come into operation by the beginning of that financial year, the Minister for the time being responsible for finance may authorize the withdrawal of  moneys  from  the  Consolidated  Fund  for  the  purpose  of  meeting  expenditure necessary  to  carry  on  the  services  of  the  Government  of  Grenada  until  the expiration  of  four  months  from  the  beginning  of  that  financial  year  or  the  coming into operation of the law, whichever is the earlier.
 
@@ -2315,8 +2514,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Establishment of judicial council
-
 ##### 84. Appointment, etc., of public officers
 
 - Subject to the provisions of section 91 of this Constitution, the power to appoint persons  to  hold  or  act  in  offices  in  the  public  service  (including  the  power  to confirm appointments), the power to exercise disciplinary control over persons holding  or  acting  in  such  offices  and  the  power  to  remove  such  persons  from office and the power to grant leave shall vest in the Public Service Commission.
@@ -2340,6 +2537,8 @@ PDF generated: 17 Jan 2018, 16:14
 - Before any of the powers conferred by this section are exercised by the Public Service Commission or any other person or authority in relation to the Clerk of the Senate or the Clerk of the House of Representatives or a member of the staff of  either  of  those  Houses,  the  Commission  or  that  person  or  authority  shall consult with the President of the Senate or the Speaker of the House, as the case may be.
 
 - Before  the  Public  Service  Commission  or  any  other  person  or  authority exercises its powers under this section to appoint to or to act in any public office any person who holds or is acting in any office the power to make appointments to  which  is  vested  by  this  Constitution  in  the  Judicial  and  Legal  Services Commission,  the  Public  Service  Commission  or  that  person  or  authority  shall consult with the Judicial and Legal Services Commission.
+
+· Establishment of judicial council
 
 - A  public  officer  shall  not  be  removed  from  office  or  subjected  to  any  other punishment under this section on the grounds of any act done or omitted by him in  the  exercise  of  a  judicial  function  conferred  on  him  unless  the  Judicial  and Legal Services Commission concurs therein.
 
@@ -2435,7 +2634,7 @@ PDF generated: 17 Jan 2018, 16:14
 
 ##### 87. Director of Audit
 
-- The Director of Audit shall be appointed by the Governor-General Director of Audit acting in accordance with the advice of the Public Service Commission.
+- The Director of Audit shall be appointed by the Governor-General acting in accordance with the advice of the Public Service Commission.
 
 - If  the office of Director of Audit is vacant or if the Director of Audit is for any reason  unable  to  exercise  the  functions  of  his  office,  the  Governor-General, acting  in  accordance  with  the  advice  of  the  Public  Service  Commission,  may appoint a person to act as Director of Audit.
 
@@ -2601,6 +2800,8 @@ Provided  that  Parliament  or  (in  the  case  of  the  exercise  of  a  power 
 
 - Subject  to  the  provisions  of  subsection  (4)  of  this  section,  the  Board  may  by regulation make provision for-
 
+- the manner in which and the time within which appeals may be brought;
+
 - the procedure in appeals under this section;
 
 - excepting from the provisions of subsection (1) of this section decisions in respect of public officers holding offices whose emoluments do not exceed such  sum  as  may  be  prescribed  by  the  regulations  or  such  decisions  to exercise disciplinary control, other than decisions to remove from office, as may be so prescribed.
@@ -2697,23 +2898,17 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Requirements for birthright citizenship
-
-Requirements for naturalization
-
-· Requirements for naturalization
-
-· Requirements for naturalization
-
-· Requirements for birthright citizenship
-
 ## Chapter VII: Citizenship
 
 ##### 94. Persons who become citizens on 7th February 1974
 
 - Every  person  who,  having  been  born  in  Grenada  is  on  6th  February  1974  a citizen of the United Kingdom and Colonies shall become a citizen of Grenada on 7th February 1974.
 
+· Requirements for birthright citizenship
+
 - Every person who, on 6th February 1974 is a citizen of the United Kingdom and Colonies-
+
+· Requirements for naturalization
 
 - having become such a citizen under the British Nationality Act 1948 (a) by virtue of his having been naturalised in Grenada as a British subject before that Act came into force; or
 
@@ -2727,6 +2922,8 @@ shall become a citizen of Grenada on 7th February 1974.
 
 - Any person who, before 7th February 1974, has been married to a person-
 
+· Requirements for naturalization
+
 - who  becomes  a  citizen  of  Grenada  by  virtue  of  section  94  of  this Constitution; or
 
 - who, having died before that date, would, but for his death, have become a citizen of Grenada by virtue of that section,
@@ -2735,7 +2932,11 @@ but  whose  marriage  has  been  terminated  by  death  or  dissolution  before 
 
 - Any person who, having been born outside Grenada, is on 6th February 1974 a citizen of the United Kingdom and Colonies and under the age of eighteen years shall, if his father or his mother becomes a citizen of Grenada on 7th February 1974 by virtue of section 94(2) of this Constitution be entitled, upon application being made on his behalf by his parent or guardian before he attains the age of eighteen years or before such later date as may be prescribed by Parliament, to be registered as a citizen of Grenada.
 
+· Requirements for naturalization
+
 - An application for registration under this section shall be made in such manner as may be prescribed, as respects that application, by Parliament.
+
+· Requirements for birthright citizenship
 
 ##### 96. Persons born in Grenada on or after 7th February 1974
 
@@ -2753,16 +2954,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Requirements for birthright citizenship
-
-- Requirements for naturalization
-
-Requirements for naturalization
-
-Conditions for revoking citizenship
-
-Right to renounce citizenship
-
 Provided that a person shall not become a citizen of Grenada by virtue of this section if at the time of his birth-
 
 - neither  of  his  parents  is  a  citizen  of  Grenada  and  his  father  or  mother possesses such immunity from suit and legal process as is accorded to the envoy of a foreign sovereign power accredited to Grenada; or
@@ -2771,7 +2962,11 @@ Provided that a person shall not become a citizen of Grenada by virtue of this s
 
 ##### 97. Person born outside Grenada on or after 7th February 1974
 
+· Requirements for birthright citizenship
+
 A person born outside Grenada on or after 7th February 1974 shall become a citizen of Grenada at the date of his birth if, at that date, his father or his mother is a citizen of  Grenada  otherwise  than  by  virtue  of  this  section  or  section  94(3)  of  this Constitution.
+
+· Requirements for naturalization
 
 ##### 98. Marriage to citizen of Grenada
 
@@ -2781,9 +2976,15 @@ Any person who is married to a citizen  of  Grenada  or  who  has  been  married
 
 - Parliament may make provision for the acquisition of citizenship of Grenada by persons who are not eligible or who are no longer eligible to become citizens of Grenada under the provisions of this Chapter.
 
+· Requirements for naturalization
+
 - Parliament may make provision for depriving of his citizenship of Grenada any person  who  is  a  citizen  of  Grenada  otherwise  than  by  virtue  of  section  94, section 96 or section 97 of this Constitution.
 
+· Conditions for revoking citizenship
+
 - Parliament  may  make  provision  for  the  renunciation  by  any  person  of  his citizenship of Grenada.
+
+· Right to renounce citizenship
 
 ##### 100. Interpretation
 
@@ -2807,10 +3008,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Structure of the courts
-
-· Constitutional interpretation
-
 - For  the  purposes  of  this  Chapter,  a  person  born  aboard  a  registered  ship  or aircraft,  or  aboard  an  unregistered  ship  or  aircraft  of  the  Government  of  any country,  shall  be  deemed  to  have  been  born  in  the  place  in  which  the  ship  or aircraft was registered or, as the case may be, in that country.
 
 - Any reference in this Chapter to the national status of the father of a person at the time of that person's birth shall, in relation to a person born after the death of his father, be construed as a reference to the national status of the father at the  time  of  the  father's  death;  and  where  that  death  occurred  before  7th February 1974 and the birth occurred on or after that date the national status that the father would have had if he had died on that date shall be deemed to be his national status at the time of his death.
@@ -2818,6 +3015,8 @@ PDF generated: 17 Jan 2018, 16:14
 ## Chapter VIII: Judicial Provisions
 
 ##### 101. Original Jurisdiction of High Court in constitutional question
+
+· Structure of the courts
 
 - Subject  to  the  provisions  of  sections  22(2),  39(8),  49(4),  56  and  108  of  this Constitution,  any  person  who  alleges  that  any  provision  of  this  Constitution (other than a provision of Chapter I) has been or is being contravened may, if he has a relevant interest, apply to the High Court for a declaration and for relief under this section.
 
@@ -2833,9 +3032,11 @@ PDF generated: 17 Jan 2018, 16:14
 
 - Nothing  in  this  section  shall  confer  jurisdiction  on  the  High  Court  to  hear  or determine any such question as is referred to in section 37 of this Constitution.
 
+· Constitutional interpretation
+
 ##### 102. Reference of constitutional questions to High Court
 
-- Where any question as to the interpretation of this Constitution arises in any court of law established for Grenada (other than the Court of Appeal, the High Court or a court martial) and the court is of opinion that the question involves a substantial question law the court shall refer the question to the High Court.
+- Where any question as to the interpretation of this Constitution arises in any court of law established for Grenada (other than the Court of Appeal, the High Court or a court martial) and the court is of opinion that the question involves a substantial question of law the court shall refer the question to the High Court.
 
 Grenada 1973 (reinst. 1991, rev. 1992)
 
@@ -2849,17 +3050,13 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Right to appeal judicial decisions
-
-·
-
-Constitutional interpretation
-
-- Right to appeal judicial decisions · Constitutional interpretation
-
 - Where any question is referred to the High Court in pursuance of this section, the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if the decision is the subject of an appeal to the Court of Appeal or Her Majesty in Council, in accordance with the decision of the Court of Appeal or, as the case may be, Her Majesty in Council.
 
+· Right to appeal judicial decisions
+
 ##### 103. Appeals to Court of Appeal
+
+· Constitutional interpretation
 
 Subject to the provisions of section 37(7) of this Constitution, an appeal shall lie from decisions of the High Court to the Court of Appeal as of right in the following cases-
 
@@ -2867,7 +3064,11 @@ Subject to the provisions of section 37(7) of this Constitution, an appeal shall
 
 - final  decisions  given  in  exercise  of  the  jurisdiction  conferred  on  the  High Court by section 16 of this Constitution (which relates to the enforcement of the fundamental rights and freedoms).
 
+· Right to appeal judicial decisions
+
 ##### 104. Appeals to Her Majesty in Council
+
+· Constitutional interpretation
 
 - Subject to the provisions of section 37(7) of this Constitution, an appeal shall lie from decisions of the Court of Appeal to Her Majesty in Council as of right in the following cases-
 
@@ -2901,8 +3102,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
-· Municipal government
-
 ##### 105. Courts order
 
 In  this  Chapter  reference  to  this  Constitution  shall  be  construed  as  including reference to the Courts Order, which, subject to any provision made by Parliament under section 39 of this Constitution, shall continue to have effect as part of the law of Grenada and for that purpose-
@@ -2916,6 +3115,8 @@ In  this  Chapter  reference  to  this  Constitution  shall  be  construed  as  
 ##### 106. Supreme law
 
 This Constitution is the supreme law of Grenada and, subject to the provisions of this Constitution, if any other law is inconsistent with this Constitution, this Constitution shall prevail and the other law shall, to the extent of the inconsistency, be void.
+
+· Municipal government
 
 ##### 107. Local government
 
@@ -3083,7 +3284,7 @@ PDF generated: 17 Jan 2018, 16:14
 
 - Chapter VI (except sections 90 and 91);
 
-- Chapter VII (except section 104);
+- Chapter VIII (except section 104);
 
 - section  111  in  its  application  to  any  of  the  provisions  mentioned  in  the foregoing items of this Schedule; or
 
@@ -3115,11 +3316,11 @@ Page 74
 
 constituteproject.org
 
-· Oaths to abide by constitution
-
 PDF generated: 17 Jan 2018, 16:14
 
 # Schedule 3 to the Constitution: Forms of Oath
+
+· Oaths to abide by constitution
 
 ###### Oath of Allegiance
 
@@ -3147,6 +3348,55 @@ PDF generated: 17 Jan 2018, 16:14
 
 # Topic index
 
+## A
+
+Advisory bodies to the head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Attendance by legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+
+## B
+
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+
+## C
+
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Claim of universal suffrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68, 69
+
+## D
+
+Dismissal of the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Division of labor between chambers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34, 38
+
+## E
+
+Electoral commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Electoral districts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41, 43
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28
+Eligibility for second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 20
+Equality regardless of creed or belief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of origin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of political party . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of skin color . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Establishment of judicial council . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Extradition procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+
+## F
+
+First chamber reserved policy areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 15
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 15
+
 Grenada 1973 (reinst. 1991, rev. 1992)
 
 Page 76
@@ -3159,6 +3409,60 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
 
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 15
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 14
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+## G
+
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 17
+God or other deities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+## H
+
+Head of government removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Head of government replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Head of government selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Human dignity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+## I
+
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37, 38
+
+## L
+
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Leader of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Legislative oversight of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+
+## M
+
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Minimum age for second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Motives for writing constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Municipal government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+## N
+
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22, 44
+
+## O
+
+Oaths to abide by constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22, 36, 47, 75
+Official or national languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Outside professions of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24, 25, 28
+
+## P
+
+Power to deport citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
 Grenada 1973 (reinst. 1991, rev. 1992)
 
 Page 77
@@ -3170,6 +3474,52 @@ Page 77
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
+
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Prohibition of double jeopardy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Prohibition of slavery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Protection from ex post facto laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Protection from false imprisonment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Protection from self-incrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+## Q
+
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
+## R
+
+Referenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 29
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66, 67
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66, 67
+Restrictions on entry or exit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to appeal judicial decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+Right to conscientious objection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Right to examine evidence/ witnesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Right to fair trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Right to join trade unions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 7
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 11
+Right to public trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Right to renounce citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+Right to speedy trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Right to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+## S
+
+Second chamber reserved policy areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Second chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Size of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Size of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Source of constitutional authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
 
 ## T
 
@@ -3184,6 +3534,12 @@ Page 78
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 16:14
+
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Television . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Term length of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Trial in native language of accused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
 
 Grenada 1973 (reinst. 1991, rev. 1992)
 
