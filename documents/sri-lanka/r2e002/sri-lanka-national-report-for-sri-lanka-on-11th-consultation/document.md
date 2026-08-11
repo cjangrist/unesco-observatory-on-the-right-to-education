@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# National Report for Sri Lanka on 11 th  Consultation on Implementation of 1960 Convention and Recommendation against Discrimination in Education
+# National Report for Sri Lanka on 11th Consultation on Implementation of 1960 Convention and Recommendation against Discrimination in Education
 
 ## GENERAL INFORMATION:
 
@@ -12,13 +12,11 @@ Name of contact person: Padmini Ranaweera, Chairman of the National Education Co
 
 Email and telephone number of contact person: chnec2018@gmail.com, pranaweera1234@gmail.com
 
-Telephone number of contact person: +
-
-94 112662039, + 94 773771418
+Telephone number of contact person: + 94 112662039, + 94 773771418
 
 ## I. Ratification and applicability of the Convention against Discrimination in Education
 
-Sri Lanka has accepted the convention and its recommendations on the 11 th August in 1983.
+Sri Lanka has accepted the convention and its recommendations on the 11th August in 1983.
 
 Since 1947 Government of Sri Lanka (GoSL) provides free education from grade One to first degree level in state schools and universities having the national goals of ensuring equity, equality of access and  quality  in  education.  The  Convention  is  directly  applicable  in  the  country's  domestic  law. Constitutional provision on the fundamental right of education of all children in Sri Lanka is applicable in the country's domestic law and the education ordinance no. 31 of 1939 is the only law regarding the right to education in Sri Lanka. According to Part V, Article 37(1) of the ordinance, the Minister of Education has the power to make regulations for the purpose of giving effect to the principles and provisions of the ordinance.
 
@@ -26,7 +24,7 @@ Since 1947 Government of Sri Lanka (GoSL) provides free education from grade One
 
 ### 1. Towards an inclusive non-discriminatory education system
 
-Sri Lankan education system since 1930s has been greatly influenced by the progressive legislative enactments  and  regulations  and  policies  such  as  enactment  of  Education  Ordinance  No.  31  of 1939 1 ,   introduction  of  free  education  along  with  making  in  mother  tongue  as  the  medium  of instruction in primary education in 1945 2 ,   establishment of Central School system to cater for clusters of feeder schools 3 ,  etc. The momentum created was further accelerated by the sound policies and programs developed and implemented since independence in 1948 that have helped not only to promote  access  but  also  to  improve  participation  and  achievement  of  all  students,  with  special attention to those who are excluded, vulnerable, or at risk of being marginalized. Besides that, the children belonging to indigenous people are given the opportunity to attend neighboring state schools, and even pursuing tertiary education at university level, and as such there has not been discrimination towards them in the country. Moreover In the year 2016, Sri Lanka has ratified the 'Convention on the Rights of Persons with Disabilities and the National Secretariat for Persons with Disabilities' and has developed and adopted the inclusive plan for promoting inclusive education from 2019 onwards  {Inclusive Education Plan Sri Lanka (2019-2030)} 4 .
+Sri Lankan education system since 1930s has been greatly influenced by the progressive legislative enactments and regulations and policies such as enactment of Education Ordinance No. 31 of 1939 1 , introduction of free education along with making in mother tongue as the medium of instruction in primary education in 1945 2 , establishment of Central School system to cater for clusters of feeder schools 3 , etc. The momentum created was further accelerated by the sound policies and programs developed and implemented since independence in 1948 that have helped not only to promote access but also to improve participation and achievement of all students, with special attention to those who are excluded, vulnerable, or at risk of being marginalized. Besides that, the children belonging to indigenous people are given the opportunity to attend neighboring state schools, and even pursuing tertiary education at university level, and as such there has not been discrimination
 
 > 1  Education Ordinance, No 31 of 1939, https://www.ilo.org.
 
@@ -39,6 +37,8 @@ Sri Lankan education system since 1930s has been greatly influenced by the progr
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+towards them in the country. Moreover In the year 2016, Sri Lanka has ratified the ‘Convention on the Rights of Persons with Disabilities and the National Secretariat for Persons with Disabilities’ and has developed and adopted the inclusive plan for promoting inclusive education from 2019 onwards {Inclusive Education Plan Sri Lanka (2019–2030)} 4 .
 
 According to the Constitution of Sri Lanka, Sinhala and Tamil are the two national languages. As of the national policy on medium of instruction, all students shall be entitled to be educated through the medium  of  either  of  the  national  languages  in  primary  education  and  beyond.  Therefore,  all government schools, as the national policy provide instructions to students at all levels in their first or home language.  The completion rates of students in all three levels who have their first or home language as language of instruction were satisfactory; 90.0%, 87.0% and 81.3% in 2020 respectively, at primary, lower-secondary and upper secondary levels. Further, the female completion rates were higher than males in 2020 at all 3 levels 5 .
 
@@ -98,7 +98,7 @@ However,  pre-primary  or  early  childhood  education  is  widely  accepted  an
 
 [[START OF PAGE 4]]
 
-According to the UIS data on the gross enrolment ratio of both sexes in pre-primary education were around 70% from 2015 to 2020 15 . Reasons for non-attendance seem to be multifaceted: Children from economically disadvantaged families may have reduced access to quality early childhood development programs due to financial limitations. Children in remote or plantation sector too may have reduced access due to difficult geographical locations. Primary schools in such locations are encouraged to provide space and other facilities to start a pre-primary class to ensure access of those children in preprimary education.
+According to the UIS data on the gross enrolment ratio of both sexes in pre-primary education were around 70% from 2015 to 2020 15 . Reasons for non-attendance seem to be multifaceted: Children from economically disadvantaged families may have reduced access to quality early childhood development programs due to financial limitations. Children in remote or plantation sector too may have reduced access due to difficult geographical locations. Primary schools in such locations are encouraged to provide space and other facilities to start a pre-primary class to ensure access of those children in pre-primary education.
 
 Strengthening  pre-primary  education  with  appropriate  national  policy  backed  by  a  national  legal framework is proposed and piloted in collaboration with provincial authorities as ECE is a devolved subject.  Developing  a  national  curriculum  framework  and  introducing  quality  assurance  and certification  system  are  too  being  proposed  and  piloted  under  the  National  Education  Policy Framework (NEPF) 2023-2033.
 
@@ -160,7 +160,7 @@ Sri Lanka exhibits a low dropout rate in primary education. Out of school rate f
 
 > 18  http://www.statistics.gov.lk/Education/StaticalInformation/SchoolCensus/Summary2022
 
-> 19  Ministry of Education (2020). Education Sector Development Plan   2020 - 2025. Retrieved from https://moe.gov.lk/wpcontent/uploads/2021/11/General-Education-Sector-Development-Plan-2021-2025-1.pdf
+> 19  Ministry of Education (2020). Education Sector Development Plan   2020 - 2025. Retrieved from https://moe.gov.lk/wp-content/uploads/2021/11/General-Education-Sector-Development-Plan-2021-2025-1.pdf
 
 > 20  National Education Commission (2023). National SDG 4 Midterm Review
 
@@ -176,12 +176,12 @@ Out-of-school rate for children of primary school age, both sexes (%) | 0.94 | 0
 
 There is no administration of nationally representative learning assessment at the end of primary education with regard to literacy, and numeracy.
 
-However, department of examination of MOE is conducting a national examination for students in Grade 5 with the intention of awarding bursaries to children with outstanding performance from economically disadvantaged families and selection for admission to secondary education with better facilities.  From  2019-2023  the  percentage  of  students  achieving  or  surpassing  the  Cut-Off  has consistently ranged from 14% to 15%. However, more than 75% of students in each province scored over 70 marks for both papers at the examination held in 2023 (except for the eastern province 69.5%) 21 .
+However, department of examination of MOE is conducting a national examination for students in Grade 5 with the intention of awarding bursaries to children with outstanding performance from economically disadvantaged families and selection for admission to secondary education with better facilities.  From  2019-2023  the  percentage  of  students  achieving  or  surpassing  the  Cut-Off  has consistently ranged from 14% to 15%. However, more than 75% of students in each province scored over 70 marks for both papers at the examination held in 2023 (except for the eastern province - 69.5%) 21 .
 
-2018 | 2019 | 2020 | 2021 | 2022 | 2023
+ | 2018 | 2019 | 2020 | 2021 | 2022 | 2023
 --- | --- | --- | --- | --- | --- | ---
 No. of students sat | 350,191 | 332,168 | 326,264 | 335,158 | 329,668 | 332,949
-% Obtained marks 100 or above (50 or above for each paper) | 57.25 | 66.11 | 48.10 | 47.81 | 45.06
+% Obtained marks 100 or above (50 or above for each paper) |  | 57.25 | 66.11 | 48.10 | 47.81 | 45.06
 % Equal or above the Cut-Off (Qualified to receive bursaries and apply for schools) | 10.32 | 14.35 | 14.46 | 14.18 | 14.64 | 15.22
 
 To maintain the quality of education, the curriculum is revised every 8 years considering the new global  education  trends.  All  the  required  competency  levels,  delivery  methodologies,  minimum compulsory  time  period  for  each  subject  and  co-curricular  activities  are  defined  in  the  national curriculum  with  some  flexibility.  The  government  provides  all  essential  teaching  and  learning resources free of charge, including textbooks, teachers' guides, classrooms, laboratory equipment, and various other physical, financial, and in-kind resources.
@@ -214,7 +214,7 @@ Students who have completed 10 years of age enrol for lower secondary education.
 
 Students who have completed 14 years of age enrol for upper secondary education. Upper Secondary education spans from age 15-18 (Grade 10-13) which is free of charge.
 
-Regulations  to  enforce  compulsory  education  for  the  5-16  age  group  were  introduced  with government Gazette No. 1963/30 dated 20.04.2016. Therefore, lower secondary education (Grade 69) is compulsory but upper secondary education is compulsory only up to age 16 (i.e up to Grade 11).
+Regulations  to  enforce  compulsory  education  for  the  5-16  age  group  were  introduced  with government Gazette No. 1963/30 dated 20.04.2016. Therefore, lower secondary education (Grade 6-9) is compulsory but upper secondary education is compulsory only up to age 16 (i.e up to Grade 11).
 
 As mentioned in the primary education section the government provides a package of welfare services to pupils in schools such as free textbooks, school uniform, meals, transportation etc.
 
@@ -232,7 +232,7 @@ Accordingly, the Government recently introduced a revised set of laws and regula
 
 > 16/#:~:text=Sri%20Lanka%20has%20ratified%20all,%2C%20'hazardous'%20or%20otherwise.
 
-> 24 https://employers.lk/wp-content/uploads/2021/03/10_Shop-and-Office-Employees-Regulation-of-Employment-andRemuneration-Amendment-Act-No.-1-of-2021.pdf
+> 24 https://employers.lk/wp-content/uploads/2021/03/10_Shop-and-Office-Employees-Regulation-of-Employment-and-Remuneration-Amendment-Act-No.-1-of-2021.pdf
 
 7
 
@@ -252,8 +252,8 @@ However, to further improve access to and participation for primary and secondar
 
 The completion rate at lower secondary level was 88.4% in 2018 and it decreased slightly to 87% in 2020. At upper secondary level, it was 80.6% in 2018 and increased marginally to 81.3% in 2020. As per the national benchmark values defined by the Education for All Branch of Ministry of Education, in 2020 Sri Lanka is lagging behind the 2025 target for the completion rates at lower-secondary levels in both sexes while surpassing the national benchmark values defined for upper-secondary education level for 2025 and 2030 29 .
 
-Indicator Name | 2018 | 2019 | 2020 | 2021 | 2022 | Target by 2025 | Target 2030 | by
---- | --- | --- | --- | --- | --- | --- | --- | ---
+Indicator Name | 2018 | 2019 | 2020 | 2021 | 2022 | Target by 2025 | Target by 2030
+--- | --- | --- | --- | --- | --- | --- | ---
 Completion rate of Lower Secondary Education (%) - Both Sexes (%) | 88.4 | 87 | 87 | - | - | 90.2 | 90.3
 Completion rate of Upper Secondary Education (%) - Both Sexes (%) | 80.6 | 81.4 | 81.3 | - | - | 77.2 | 81.1
 
@@ -261,7 +261,7 @@ Completion rate of Upper Secondary Education (%) - Both Sexes (%) | 80.6 | 81.4 
 
 > 26  https://employers.lk/wp-content/uploads/2021/03/4_Factories-Amendment-Act-No.-4-of-2021.pdf
 
-> 27 https://employers.lk/wp-content/uploads/2021/03/7_Minimum-Wages-Indian-Labour-Amendment-Act-No.-3-of2021.pdf
+> 27 https://employers.lk/wp-content/uploads/2021/03/7_Minimum-Wages-Indian-Labour-Amendment-Act-No.-3-of-2021.pdf
 
 > 28  Ministry of Education (2020). Education Sector Development Plan   2020 - 2025
 
@@ -311,7 +311,7 @@ When considering the nature of the national state universities' admissions, the 
 
 In  Sri  Lanka,  education  provided  by  state  universities  is  complimentary,  while  within  the  study duration,  the  government offers scholarship schemes such as Mahapola and Bursary schemes for students from lower-income backgrounds, assuring required financial assistance. In addition, in the recent past, the Sri Lanka Ministry of Education introduced interest-free student loan schemes (IFSLS) to promote student higher education enrollment by non-state Higher Education institutes approved by the Ministry of Education 36 .
 
-Regarding the credit transfer systems, Sri Lanka University Grant Commission Circular 05/2021 37 states clear  criteria  university  applicants  should  follow;  thus,  it  indicates  available  guidelines  within  the national  higher  education  sector.  Based  on  the  mentioned  circular,  university  students  can  credit transfer or take course exemptions for undertaking a short study period in a foreign university, and those who wish to pursue a brief study period within state universities adhere to the mentioned guidelines.  Furthermore,  it  ensures  consistency  between  institutions  for  managing  such  students' requirements.
+Regarding the credit transfer systems, Sri Lanka University Grant Commission Circular 05/2021 37 states clear  criteria  university  applicants  should  follow;  thus,  it  indicates  available  guidelines  within  the national  higher  education  sector.  Based  on  the  mentioned  circular,  university  students  can  credit transfer or take course exemptions for undertaking a short study period in a foreign university, and those who wish to pursue a brief study period within state universities adhere to the mentioned
 
 > 33 Universities Act, No. 16 of 1978. (n.d.). University Grant Commission. Retrieved June 13, 2024, from https://www.ugc.ac.lk/index.php?option=com_content&view=article&id=49&Itemid=195&lang=en
 
@@ -319,7 +319,7 @@ Regarding the credit transfer systems, Sri Lanka University Grant Commission Cir
 
 > 35  National Education Commission. (2023). National SDG4 Mid Term Review
 
-> 36 Ministry  of  Education.  https://www.mohe.gov.lk/index.php?option=com_content&view=article&id=348:interest-freestudent-loan-scheme&catid=48&Itemid=331&lang=en
+> 36 Ministry  of  Education.  https://www.mohe.gov.lk/index.php?option=com_content&view=article&id=348:interest-free-student-loan-scheme&catid=48&Itemid=331&lang=en
 
 > 37  University Grant Commission (2021). Recognition of prior learning, Credit Transfer and lateral entry in the context of SLQF 2015. https://www.ugc.ac.lk/attachments/2272_Comm.%20Circular%2005_2021.pdf
 
@@ -328,6 +328,8 @@ Regarding the credit transfer systems, Sri Lanka University Grant Commission Cir
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+guidelines. Furthermore, it ensures consistency between institutions for managing such students' requirements.
 
 When discussing flexible learning pathways, the Sri Lanka qualification framework (SLQF) is significant in offering a transparent road map for Sri Lankan learners to understand and achieve their lifelong higher  educational  targets.  The  (SLQF)  was  introduced  by  the  University  Grants  Commission  to facilitate  lateral  and  vertical  mobility  and  progression  within  Sri  Lankan  education  and  career pathways 38 . This SLQF consists of 12 levels, providing a clear overview when necessary to reach each qualification level.
 
@@ -341,7 +343,7 @@ When considering the TVET sector, students are less attracted to the sector due 
 
 > 38 University Grant Commission. (2015). Sri Lanka qualification framework (SLQF). https://eugc.ac.lk/qac/downloads/SLQF_2016_en.pdf
 
-> 39 http://www.nvq.gov.lk/Insreg_Home/Insreg_Institute_Select_Search_Results.php?prv=&dist=&gsd=&srch=1&own=&ins= &pnum=&ind=&coun=&sort=REG&sr_status=All
+> 39 http://www.nvq.gov.lk/Insreg_Home/Insreg_Institute_Select_Search_Results.php?prv=&dist=&gsd=&srch=1&own=&ins=&pnum=&ind=&coun=&sort=REG&sr_status=All
 
 > 40  Tertiary and Vocational Education Act No.20 (1990, June)
 
@@ -359,7 +361,7 @@ In addition, government investments in the TVET sector compared to higher educat
 
 #### 2.4 Adult education and alternative learning
 
-Non-formal education programs initiated and coordinated by the Non-Formal Education Branch of the Ministry of Education (NFE/MoE), through MoE Circular No 36/2022, dated 2022/12/03. 'Guidelines on Implementation, Monitoring, and Supervision of Non-Formal Education Programs and the Data Recording Book' 42 has provided guidelines on implementation, monitoring, and supervision of nonformal education programs and data recording which aim to strengthen and expand the non-formal education programs covering a wide range of themes and topics.
+Non-formal education programs initiated and coordinated by the Non-Formal Education Branch of the Ministry of Education (NFE/MoE), through MoE Circular No 36/2022, dated 2022/12/03. 'Guidelines on Implementation, Monitoring, and Supervision of Non-Formal Education Programs and the Data Recording Book' 42 has provided guidelines on implementation, monitoring, and supervision of non-formal education programs and data recording which aim to strengthen and expand the non-formal education programs covering a wide range of themes and topics.
 
 The  NFE/MoE  has  initiated  and  conducted  various  youth  and  adult  literacy  programs,  advocacy initiatives, and capacity development initiatives in liaison with Provincial Education Authorities and Technical and Vocational Training Centres in regular manner 43 . Some examples of these initiatives are:
 
@@ -381,7 +383,7 @@ The  NFE/MoE  has  initiated  and  conducted  various  youth  and  adult  litera
 
 ##### State monitoring and inspections
 
-Establishment of the Evaluation and Quality Assurance Unit at Ministry of Education In 2001, it has established  to  conduct  the  process  Guidelines  for  Internal  Evaluation  in  2005  with  12  National Educational Standards which fit into the four principal themes of I) Equity, II) Quality, III) Resource Efficiency, and IV) Good Governance. Provincial Quality Assurance Units are established in 2005 and it introduced Guidelines on Educational Standards and the compilation of an External Evaluation book in 2007. The existing formal methodology on external and internal evaluation was established with the introduction of Guidelines on National Education Standards in 2009. It has focused on assessing school performances in eight areas; I) students' achievement, II) learning, teaching and assessment, III) formal curriculum management, IV) co-curricular activities, V) student welfare, VI) leadership and management,  VII)  physical  resources  management  and  VIII)  school  and  community.  This  was implemented across all schools through the circular instructions issued by the Ministry of Education, initially in 2008/16 44 , and then again in 2014, circular No. 31/2014 45 .
+Establishment of the Evaluation and Quality Assurance Unit at Ministry of Education In 2001, it has established  to  conduct  the  process  Guidelines  for  Internal  Evaluation  in  2005  with  12  National
 
 > 42  Circular  No  36/2022,  dated  2022/12/03.  'Guidelines  on  Implementation,  Monitoring,  and  Supervision  of  Non-Formal Education Programs and the Data Recording Book', Ministry of Education: Sri Lanka
 
@@ -392,6 +394,8 @@ Establishment of the Evaluation and Quality Assurance Unit at Ministry of Educat
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+Educational Standards which fit into the four principal themes of I) Equity, II) Quality, III) Resource Efficiency, and IV) Good Governance. Provincial Quality Assurance Units are established in 2005 and it introduced Guidelines on Educational Standards and the compilation of an External Evaluation book in 2007. The existing formal methodology on external and internal evaluation was established with the introduction of Guidelines on National Education Standards in 2009. It has focused on assessing school performances in eight areas; I) students' achievement, II) learning, teaching and assessment, III) formal curriculum management, IV) co-curricular activities, V) student welfare, VI) leadership and management, VII) physical resources management and VIII) school and community. This was implemented across all schools through the circular instructions issued by the Ministry of Education, initially in 2008/16 44 , and then again in 2014, circular No. 31/2014 45 .
 
 ##### Health and sanitation
 
@@ -409,7 +413,7 @@ The Sri Lankan government has implemented several Health-Promoting programs as:
 
 Mainly there are two policies have initiated for Promoting Health-Promoting Learning Environments for Health Education in Sri Lanka as:
 
-Obesity Prevention Policy and Guidelines The Family Health Bureau's School Health Unit under the Ministry of Health developed policy, programs, and guidelines aimed at preventing obesity among school children. These were approved by both the Cabinet of Ministers and Parliament, laying the foundation  for  national  Obesity  Prevention  Guidelines.  These  guidelines  provide  schools  with  a framework to promote healthy lifestyles and combat obesity. Furthermore, comprehensive training sessions on obesity prevention (TOT) were held, ensuring broad coverage across all districts.
+Obesity Prevention Policy and Guidelines - The Family Health Bureau's School Health Unit under the Ministry of Health developed policy, programs, and guidelines aimed at preventing obesity among school children. These were approved by both the Cabinet of Ministers and Parliament, laying the foundation  for  national  Obesity  Prevention  Guidelines.  These  guidelines  provide  schools  with  a framework to promote healthy lifestyles and combat obesity. Furthermore, comprehensive training sessions on obesity prevention (TOT) were held, ensuring broad coverage across all districts.
 
 National School Health Policy: The School Health Unit (SHU) of the Family Health Bureau under the Ministry of Health, collaborating with the Ministry of Education, has developed a National School Health  Policy.  This  initiative  seeks  to  enhance  the  emphasis  on  health  education  in  schools  by embracing a comprehensive approach to student well-being. The policy has received endorsement from  the  Secretaries  of  Health  and  Education  and  is  pending  Cabinet  approval  for  complete implementation.
 
@@ -517,7 +521,7 @@ Data  on  child  abuse,  violence,  and  complaints  received  by  education  au
 
 -Further, as stated in the Section on 'Reproductive Health and Personal Hygiene' the general education curriculum includes modules on sex education and reproductive health, and teachers are being trained to deliver this information effectively 54.
 
--School Health Promotion Program conducted by the Ministry of Health jointly with MoE which commenced in 2007 55 has further been strengthened in 2019 though the Circular No. 1/12 of 281 -2019 56 that gave instructions to initiate micronutrient supplementation (i.e. Iron, folic acid and Vit.C) for school children and this initiative has further been complemented by introducing a health insurance scheme that was initiated in 2017 57 .
+-School Health Promotion Program conducted by the Ministry of Health jointly with MoE which commenced in 2007 55 has further been strengthened in 2019 though the Circular No. 1/12 of 28-1 -2019 56 that gave instructions to initiate micronutrient supplementation (i.e. Iron, folic acid and Vit.C) for school children and this initiative has further been complemented by introducing a health insurance scheme that was initiated in 2017 57 .
 
 -In  2020,  the  minimum  age  for  employees  has  been  increased  from  14  to 16 according  to  a Cabinet memorandum 58  to minimize child labour.
 
@@ -527,7 +531,7 @@ Data  on  child  abuse,  violence,  and  complaints  received  by  education  au
 
 ###### Inadequacies in infrastructure facilities and education resources
 
-Many schools  continue  to  face  shortages  in  essential  amenities  like  safe  drinking  water,  genderappropriate restroom facilities, and access to computers and the internet. Moreover, while there is a lack of empirical data, there is evidence indicating deficiencies in providing learning resources for both
+Many schools  continue  to  face  shortages  in  essential  amenities  like  safe  drinking  water,  gender-appropriate restroom facilities, and access to computers and the internet. Moreover, while there is a lack of empirical data, there is evidence indicating deficiencies in providing learning resources for both
 
 > 53 National Child Protection Authority of Sri Lanka (2015-2022) statistics Retrieved May 2,2023 from https://childprotection.gov.lk/index.php/en/resource-centre/statistics-3
 
@@ -611,11 +615,11 @@ The  MoE  defines  the  norms  and  criteria  for  teacher  cadre  reviews  cons
 
 The MoE has introduced a scheme for incentivizing teachers who are deployed to and serve in such schools 61 .  Such  schools  are  managed  by  the  Provincial  Councils  and  annual  allocations  for  the incentives are made through their annual budgets by the Treasury to the Provincial Departments of Education.
 
-The prevailing in-service teacher training system coupled with the provisions the incentives  such as duty leave for attending teacher training programs, payments of participation fees, study leave (fulltime/part-time)  and    course  fee  to  read  for  professional  qualifications  provides  a  promising environment for upgrading teachers' competencies on continuous basis, and it is expected that the proposed TCF will strengthen the system further when it is introduced to and institutionalized in the education system.
+The prevailing in-service teacher training system coupled with the provisions the incentives  such as duty leave for attending teacher training programs, payments of participation fees, study leave (full-time/part-time)  and    course  fee  to  read  for  professional  qualifications  provides  a  promising environment for upgrading teachers' competencies on continuous basis, and it is expected that the proposed TCF will strengthen the system further when it is introduced to and institutionalized in the education system.
 
 ##### Measures  taken  to  promote  diversity  in  the  teaching  workforce,  including  to  redress  gender imbalances at different levels of education.
 
-The prevailing in-service teacher training system coupled with the provisions the incentives  such as duty leave for attending teacher training programs, payments of participation fees, study leave (fulltime/part-time)  and    course  fee  to  read  for  professional  qualifications  provides  a  promising environment for upgrading teachers' competencies on continuous basis, and it is expected that the proposed TCF will strengthen the system further when it is introduced to and institutionalized in the education system
+The prevailing in-service teacher training system coupled with the provisions the incentives  such as duty leave for attending teacher training programs, payments of participation fees, study leave (full-time/part-time)  and    course  fee  to  read  for  professional  qualifications  provides  a  promising environment for upgrading teachers' competencies on continuous basis, and it is expected that the proposed TCF will strengthen the system further when it is introduced to and institutionalized in the education system
 
 ##### Establishment of performance monitoring system
 
@@ -639,7 +643,7 @@ Examples for establishment of performance monitoring system
 
 ###### Relative high percentage of untrained teachers
 
-According to the School Census data of 2021, only 77% of teachers are qualified (graduate-trained and trained teachers). Despite the 'vision for a full graduate teacher cadre' since the mid-2000s, this goal has not yet been fully achieved. Approximately 43% of teachers (104,056 out of 241,054) are nongraduates, although many of them possess NCoE Diploma or TTC certificates. Moreover, even among the  graduate  teachers,  only  66%  (90,371  out  of  136,998)  have  received  professional  training  to become 'trained' graduate teachers. This situation stems from the practice of recruiting university graduates in disciplines other than in education, and thus without having the necessary teaching skills from time to time in large numbers as teachers and delay in providing provisions for them for acquiring post-recruitment professional training at TTC, NIE and Faculties of Education of Universities.
+According to the School Census data of 2021, only 77% of teachers are qualified (graduate-trained and trained teachers). Despite the 'vision for a full graduate teacher cadre' since the mid-2000s, this goal has not yet been fully achieved. Approximately 43% of teachers (104,056 out of 241,054) are non-graduates, although many of them possess NCoE Diploma or TTC certificates. Moreover, even among the  graduate  teachers,  only  66%  (90,371  out  of  136,998)  have  received  professional  training  to become 'trained' graduate teachers. This situation stems from the practice of recruiting university graduates in disciplines other than in education, and thus without having the necessary teaching skills from time to time in large numbers as teachers and delay in providing provisions for them for acquiring post-recruitment professional training at TTC, NIE and Faculties of Education of Universities.
 
 ###### Inadequate coordination among MoE and Teacher Education Institutions
 
@@ -681,7 +685,7 @@ The quality and standards of study programs and institutions of State higher edu
 
 Continued  expansion  of  vocational  and  technical  education  and  training  opportunities  provided through the network of State and non-State TVET institutions and centres. To regulate and improve the  quality  and  standards  of  TVET  training  programs,  and  improve  the  vocational  literacy  and numeracy among youth and adult, the Tertiary and Vocational Education Commission (TVEC) was established in 1991 (through the through Tertiary and Vocational Education Act No. 20 of 1990), and the TVEC has proceeded to introduce National Vocational Qualification Framework (NVQF) in 2004 as a part of its efforts to improve the quality and standards of TEVET programs. In 2018, the TVEC adopted the National Policy on Technical and Vocational Education prescribed by the NEC, and implemented many initiatives which specifically targets disadvantaged youth, disadvantaged/vulnerable women, people with disabilities (including students leaving special education schools), and the economically down-trodden/poor. These efforts were also supported by several foreign funded projects
 
-Furthermore,  interest-free  loan  schemes  are  available  for  students  studying  in  non-state  higher education institutions (NSHEIs) operating with degree-awarding status granted by the MoE. Interestfree Loan Scheme for Non-State Higher Education Institutes (NSHEIs): An interest-free loan scheme has been offered through a State bank (Bank of Ceylon) for students choosing to study in NSHEIs which are operating with degree-awarding status granted by the MoE. By 2022, around 13,864 students studying in NSHEIs have benefited from this scheme. The Treasury pays annual interest to the bank and the students are expected to repay the loan after completing their degree programs and entering the labour market.
+Furthermore,  interest-free  loan  schemes  are  available  for  students  studying  in  non-state  higher education institutions (NSHEIs) operating with degree-awarding status granted by the MoE. Interest-free Loan Scheme for Non-State Higher Education Institutes (NSHEIs): An interest-free loan scheme has been offered through a State bank (Bank of Ceylon) for students choosing to study in NSHEIs which are operating with degree-awarding status granted by the MoE. By 2022, around 13,864 students studying in NSHEIs have benefited from this scheme. The Treasury pays annual interest to the bank and the students are expected to repay the loan after completing their degree programs and entering the labour market.
 
 #### 3.5 Digital education
 
@@ -721,7 +725,7 @@ According to the NEPF 2023-2033, Digital tools such as digitalized content, arti
 
 > 66  https://www.adb.org/sites/default/files/linked-documents/52203-001-sd-01.pdf
 
-> 67 https://pmd.gov.lk/news/ministry-of-education-partners-with-microsoft-to-introduce-artificial-intelligence-into-schooleducation/
+> 67 https://pmd.gov.lk/news/ministry-of-education-partners-with-microsoft-to-introduce-artificial-intelligence-into-school-education/
 
 > 68  https://www.adb.org/sites/default/files/linked-documents/52203-001-sd-01.pdf
 
@@ -785,6 +789,8 @@ The Education Management Information System (EMIS) is a versatile tool in leadin
 
 [[START OF PAGE 26]]
 
+education planning. Hence, the greater use of technology would facilitate the management of the MoE and its agencies efficiently. The main role of the Data Management and Research Branch (DMR) is to collect, collate and analyse, and present data expeditiously. One of its main activities in this regard is conducting and processing the school census. Although the process has been computerized, still there are delays in finalizing and publishing the data, thus making them unavailable for use in decision-making in a timely manner. Therefore, it appears that the current data management system is not very effective for use in education planning.
+
 ## III. Methods  used  to  draw  the  attention  of  the  various  authorities  in  the  country  to  the instruments
 
 It  is  imperative that for achieving success in all ten (10) SDG 4 targets in terms of the benchmark indicators and national benchmark values necessitates the involvement of multiple players: national agencies  such  as  national  level  ministries  and  policy  and  regulatory  agencies,  provincial  levels authorities, all key stakeholders, and international agencies and development partners.
@@ -797,15 +803,7 @@ The key funding agencies include the World Bank (WB) and Asian Development Bank 
 
 > 70  https://sdc.gov.lk/en/agencies/22/50
 
-71
-
-Higher Education for Twenty First Century
-
-(WB/HETC
-
--2010-2016),
-
-https://documents1.worldbank.org/curated/en/297451468335532412/pdf/HETC1Project0I1l0Stage1December022.pdf Modernization  Project  (WB/DEMP) 72 ;  and  Skills  Sector  Enhancement  Program  (ADB/SSEP  -20142022) 73 .  Besides those projects, the Australian Agency for International Development (AusAID) has extended support to Sri Lanka in areas such as gender equality, teaching quality, and overall capacity building in the education sector 74 .
+> 71  Higher Education for Twenty First Century (WB/HETC -2010-2016), https://documents1.worldbank.org/curated/en/297451468335532412/pdf/HETC1Project0I1l0Stage1December022.pdf
 
 26
 
@@ -813,7 +811,9 @@ https://documents1.worldbank.org/curated/en/297451468335532412/pdf/HETC1Project0
 
 [[START OF PAGE 27]]
 
-In addition, many collaborative efforts have been initiated by several UN development agencies in achieving SDG 4 Target. These development partners include the UNDP, UNICEF, UNFPA, UN-Habitat, WHO, FAO, WFP, ILO, UNESCO, USAID, etc. The collaborative efforts between these international agencies  and  Ministry  of  Education,  as  well  as  with  the  Department  of  National  Planning  of  the Ministry of Finance have been crucial for advancing the goal of providing equitable, inclusive and quality education and lifelong learning opportunities in Sri Lanka.
+Modernization Project (WB/DEMP) 72 ; and Skills Sector Enhancement Program (ADB/SSEP -2014-2022) 73 . Besides those projects, the Australian Agency for International Development (AusAID) has extended support to Sri Lanka in areas such as gender equality, teaching quality, and overall capacity building in the education sector 74 .
+
+In addition, many collaborative efforts have been initiated by several UN development agencies in achieving SDG 4 Target. These development partners include the UNDP, UNICEF, UNFPA, UN-Habitat, WHO, FAO, WFP, ILO, UNESCO, USAID, etc. The collaborative efforts between these international agencies and Ministry of Education, as well as with the Department of National Planning of the Ministry of Finance have been crucial for advancing the goal of providing equitable, inclusive and quality education and lifelong learning opportunities in Sri Lanka.
 
 > 72  WB/GEM Project https://projects.worldbank.org/en/projects-operations/project-detail/P163714?lang=en
 
