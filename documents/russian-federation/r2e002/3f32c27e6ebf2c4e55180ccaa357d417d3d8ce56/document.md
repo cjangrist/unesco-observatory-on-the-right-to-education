@@ -30,9 +30,11 @@ L
 
 # Constitution, Laws and Statutes
 
+Constitution, Laws and Statutes
+
 MAIN PAGE > The Russian Government > Constitution, Laws and Statutes
 
-Print Constitution, Laws and Statutes
+Print
 
 ## Constitution of the Russian Federation
 
@@ -327,7 +329,7 @@ Citizens of the Russian Federation shall have the right to assemble peacefully, 
 
 ###### Article 33
 
-Citizens of the Russian Federation shall have the right to appeal in person and make individual and collective appeals to State bodies and local selfgovernment bodies.
+Citizens of the Russian Federation shall have the right to appeal in person and make individual and collective appeals to State bodies and local self-government bodies.
 
 ###### Article 34
 
@@ -716,7 +718,7 @@ Official Website of the Government of the Russian Federation / The Russian Gover
 
 - determination of the status and protection of the State border, territorial sea, air space, the exclusive economic zone and the continental shelf of the Russian Federation;
 
-- the judicial system, public prosecution, criminal, criminal-procedural and criminal-executive legislation, amnesty and remission, civil, civilprocedural and arbitration-procedural legislation, legal regulation of intellectual property;
+- the judicial system, public prosecution, criminal, criminal-procedural and criminal-executive legislation, amnesty and remission, civil, civil-procedural and arbitration-procedural legislation, legal regulation of intellectual property;
 
 - federal collision law;
 
@@ -730,9 +732,7 @@ Official Website of the Government of the Russian Federation / The Russian Gover
 
 - The following shall be within the joint jurisdiction of the Russian Federation and constituent entities of the Russian Federation:
 
-- measures to ensure the correspondence of constitutions and laws of republics, the charters, laws and other normative legal acts of krays, oblasts, cities
-
-- of federal significance, autonomous oblast and autonomous okrugs to the Constitution of the Russian Federation and federal laws;
+- measures to ensure the correspondence of constitutions and laws of republics, the charters, laws and other normative legal acts of krays, oblasts, cities of federal significance, autonomous oblast and autonomous okrugs to the Constitution of the Russian Federation and federal laws;
 
 - protection of human and civil rights and freedoms, protection of the rights of national minorities, ensuring lawfulness, law and order, public security; border zone regimes;
 
@@ -1013,7 +1013,7 @@ The President of the Russian Federation shall have immunity.
 
 - The President of the Russian Federation may be impeached by the Council of Federation only on the basis of charges of high treason or of another grave crime brought by the State Duma and confirmed by a resolution of the Supreme Court of the Russian Federation on the existence of indications of a crime in the actions of the President of the Russian Federation and by a resolution of the Constitutional Court of the Russian Federation confirming that the established procedure for bringing charges has been observed.
 
-- The decision of the State Duma to bring charges and the decision of the Council of Federation to impeach the President must be adopted by twothirds of votes of the total number of members of each chamber on the initiative of not less than one third of deputies of the State Duma and on the basis of a resolution of a special commission set up by the State Duma.
+- The decision of the State Duma to bring charges and the decision of the Council of Federation to impeach the President must be adopted by two-thirds of votes of the total number of members of each chamber on the initiative of not less than one third of deputies of the State Duma and on the basis of a resolution of a special commission set up by the State Duma.
 
 - The decision of the Council of Federation to impeach the President of the Russian Federation must be adopted not later than three months after the State Duma brings charges against the President. If a decision of the Council of Federation is not adopted within this time the charges against the President shall be regarded as having been declined.
 
@@ -1233,7 +1233,7 @@ f) war and peace.
 
 - The State Duma may be dissolved by the President of the Russian Federation in the cases envisaged by Articles 111 and 117 of the Constitution of the Russian Federation.
 
-- In the event that the State Duma is dissolved, the President of the Russian Federation shall announce the date of elections so that a newlyelected State Duma may be convened not later than four months after the dissolution.
+- In the event that the State Duma is dissolved, the President of the Russian Federation shall announce the date of elections so that a newly-elected State Duma may be convened not later than four months after the dissolution.
 
 - The State Duma may not be dissolved on the grounds envisaged in Article 117 of the Constitution of the Russian Federation during the year following its election.
 
@@ -1332,9 +1332,7 @@ The Government of the Russian Federation shall resign its powers before a newly-
 
 - The President of the Russian Federation may decide on the resignation of the Government of the Russian Federation.
 
-- The State Duma may express no confidence in the Government of the Russian Federation. A resolution of no confidence in the Government shall be adopted by a majority of votes of the total number of deputies of the State Duma. After the State Duma has expressed no confidence in the Government of the Russian Federation, the President of the Russian Federation shall have the right to announce the resignation of the Government or to reject the decision of the State Duma.
-
-- In the event that the State Duma expresses no confidence in the Government of the Russian Federation again within three months, the President of the Russian Federation shall announce the resignation of the Government or dissolve the State Duma.
+- The State Duma may express no confidence in the Government of the Russian Federation. A resolution of no confidence in the Government shall be adopted by a majority of votes of the total number of deputies of the State Duma. After the State Duma has expressed no confidence in the Government of the Russian Federation, the President of the Russian Federation shall have the right to announce the resignation of the Government or to reject the decision of the State Duma. In the event that the State Duma expresses no confidence in the Government of the Russian Federation again within three months, the President of the Russian Federation shall announce the resignation of the Government or dissolve the State Duma.
 
 - The Chairman of the Government of the Russian Federation may raise before the State Duma the issue of confidence in the Government of the Russian Federation. If the State Duma returns a vote of no confidence, the President shall within seven days adopt a decision on the resignation of the Government of the Russian Federation or on the dissolution of the State Duma and the announcement of new elections.
 
@@ -1573,7 +1571,7 @@ Responsibilities Constitution, Laws and Statutes Russian Government Commissions 
 
 The Government Executive Office
 
-Heads of the Government Executive Office Structure Responsibilities Regulations and Responsibilites WEB SITE OF THE PRESIDENT OF THE RUSSIAN FEDERATION ENG.KREMLIN.RU ST. PETERSBURG INTERNATIONAL ECONOMIC FORUM 2012.FORUMSPB.COM
+Heads of the Government Executive Office Structure
 
 archive.government.ru/eng/gov/base/54.html
 
@@ -1587,9 +1585,15 @@ archive.government.ru/eng/gov/base/54.html
 
 Official Website of the Government of the Russian Federation / The Russian Government
 
+Responsibilities
+Regulations and Responsibilites
+WEB SITE OF THE PRESIDENT OF THE RUSSIAN FEDERATION ENG.KREMLIN.RU
+ST. PETERSBURG INTERNATIONAL ECONOMIC FORUM 2012.FORUMSPB.COM
 Government of the Russian Federation
 
-Subscribe News Feed (RSS) About This Site
+Subscribe
+News Feed (RSS)
+About This Site
 
 The information posted on this website is licensed under a Creative Common Attribution 3.0
 
