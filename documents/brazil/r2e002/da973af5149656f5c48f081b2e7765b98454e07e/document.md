@@ -4,22 +4,22 @@
 
 L11692
 
-Conversão da MPv nº 411-07
-
 Presidência da República Casa Civil
 
 Subchefia para Assuntos Jurídicos
 
 # LEI Nº 11.692, DE 10 DE JUNHO DE 2008.
 
-Dispõe sobre o Programa Nacional de Inclusão de Jovens Projovem,  instituído  pela  Lei  n o   11.129,  de  30  de  junho  de 2005; altera a Lei n o  10.836, de 9 de janeiro de 2004; revoga dispositivos das Leis n os   9.608,  de  18  de  fevereiro  de  1998, 10.748, de 22 de outubro de 2003, 10.940, de 27 de agosto de 2004,  11.129,  de  30  de  junho  de  2005,  e  11.180,  de  23  de setembro de 2005; e dá outras providências.
+Conversão da MPv nº 411-07
+
+Dispõe sobre o Programa Nacional de Inclusão de Jovens - Projovem, instituído pela Lei nº 11.129, de 30 de junho de 2005; altera a Lei nº 10.836, de 9 de janeiro de 2004; revoga dispositivos das Leis nºs 9.608, de 18 de fevereiro de 1998, 10.748, de 22 de outubro de 2003, 10.940, de 27 de agosto de 2004, 11.129, de 30 de junho de 2005, e 11.180, de 23 de setembro de 2005; e dá outras providências.
 
 O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-## Art. 1 o
-O Programa Nacional de Inclusão de Jovens - Projovem, instituído pela Lei n o  11.129, de 30 de junho de 2005, passa a reger-se, a partir de 1 o  de janeiro de 2008, pelo disposto nesta Lei.
+## Art. 1º
+O Programa Nacional de Inclusão de Jovens - Projovem, instituído pela Lei nº 11.129, de 30 de junho de 2005, passa a reger-se, a partir de 1º de janeiro de 2008, pelo disposto nesta Lei.
 
-## Art. 2 o
+## Art. 2º
 O  Projovem,  destinado  a  jovens  de  15  (quinze)  a  29  (vinte  e  nove)  anos,  com  o  objetivo  de  promover  sua reintegração ao processo educacional, sua qualificação profissional e seu desenvolvimento humano, será desenvolvido por meio das seguintes modalidades:
 
 - I - Projovem Adolescente - Serviço Socioeducativo;
@@ -30,25 +30,25 @@ O  Projovem,  destinado  a  jovens  de  15  (quinze)  a  29  (vinte  e  nove)  a
 
 - IV - Projovem Trabalhador.
 
-## Art. 3 o
+## Art. 3º
 A execução e a gestão do Projovem dar-se-ão por meio da conjugação de esforços da Secretaria-Geral da Presidência da República e dos Ministérios da Educação, do Trabalho e Emprego e do Desenvolvimento Social e Combate à Fome, observada a intersetorialidade, sem prejuízo da participação de outros órgãos e entidades da administração pública federal.
 
-### § 1 o
-Fica instituído o Conselho Gestor do Projovem, coordenado pela Secretaria Nacional de Juventude da SecretariaGeral da Presidência da República e composto pelos Secretários-Executivos dos Ministérios referidos no caput deste artigo e por  1  (um)  Secretário  Nacional  representante  de  cada  um  desses  Ministérios,  a  ser  indicado  pelo  respectivo  Ministro  de Estado.
-### § 2 o
+### § 1º
+Fica instituído o Conselho Gestor do Projovem, coordenado pela Secretaria Nacional de Juventude da Secretaria-Geral da Presidência da República e composto pelos Secretários-Executivos dos Ministérios referidos no caput deste artigo e por 1 (um) Secretário Nacional representante de cada um desses Ministérios, a ser indicado pelo respectivo Ministro de Estado.
+### § 2º
 O Projovem Adolescente - Serviço Socioeducativo será coordenado pelo Ministério do Desenvolvimento Social e Combate à Fome; o Projovem Urbano, pela Secretaria-Geral da Presidência da República; o Projovem Campo - Saberes da Terra, pelo Ministério da Educação; e o Projovem Trabalhador, pelo Ministério do Trabalho e Emprego.
 
-### § 3 o
+### § 3º
 Cada modalidade do Projovem contará com 1 (um) comitê gestor, a ser instituído pelo órgão responsável por sua coordenação, assegurada nele a participação de representantes dos 3 (três) outros órgãos a que se refere o caput deste artigo.
 
-## Art. 4 o
-Para a execução das modalidades tratadas no art. 2 o  desta Lei, a União fica autorizada a transferir recursos aos Estados, ao Distrito Federal e aos Municípios, sem a necessidade de convênio, acordo, contrato, ajuste ou instrumento congênere, mediante depósito em conta-corrente específica, sem prejuízo da devida prestação de contas da aplicação dos recursos.
+## Art. 4º
+Para a execução das modalidades tratadas no art. 2º desta Lei, a União fica autorizada a transferir recursos aos Estados, ao Distrito Federal e aos Municípios, sem a necessidade de convênio, acordo, contrato, ajuste ou instrumento congênere, mediante depósito em conta-corrente específica, sem prejuízo da devida prestação de contas da aplicação dos recursos.
 
-### § 1 o
+### § 1º
 O montante dos recursos financeiros a que se refere esta Lei será repassado em parcelas e calculado com base no número de jovens atendidos, conforme disposto em regulamentação, e destina-se à promoção de ações de elevação da escolaridade e qualificação profissional dos jovens, bem como à contratação, remuneração e formação de profissionais.
 
-### § 2 o
-Os profissionais de que trata o § 1 o  deste artigo deverão ser contratados em âmbito local.
+### § 2º
+Os profissionais de que trata o § 1º deste artigo deverão ser contratados em âmbito local.
 
 www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11692.htm#:~:text=11.,20 de dezembro de 1996
 
@@ -62,46 +62,46 @@ www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11692.htm#:~:text=11.,20 d
 
 L11692
 
-### § 3 o
+### § 3º
 Os órgãos responsáveis pela coordenação das modalidades do Projovem definirão, a cada exercício financeiro, a forma de cálculo, o número e o valor das parcelas a serem repassadas aos Estados, ao Distrito Federal e aos Municípios, bem como as orientações e instruções necessárias à sua execução, observado o montante de recursos disponíveis para este fim, constante da Lei Orçamentária Anual.
 
-### §  4 o
-Nas  modalidades  previstas  nos  incisos  II  e  III  do  caput  do  art.  2 o   desta  Lei,  a  transferência  de  recursos financeiros  será  executada  pelo  Fundo  Nacional  de  Desenvolvimento  da  Educação  -  FNDE,  vinculado  ao  Ministério  da Educação, observada a necessária descentralização dos recursos orçamentários pelos órgãos de que trata o caput do art. 3 o desta Lei.
+### § 4º
+Nas modalidades previstas nos incisos II e III do caput do art. 2º desta Lei, a transferência de recursos financeiros será executada pelo Fundo Nacional de Desenvolvimento da Educação - FNDE, vinculado ao Ministério da Educação, observada a necessária descentralização dos recursos orçamentários pelos órgãos de que trata o caput do art. 3º desta Lei.
 
-### § 5 o
-A modalidade de que trata o inciso I do caput do art. 2 o  desta Lei será ofertada pelo Município que a ela aderir, nos  termos  do  regulamento,  e  co-financiada  pela  União,  Estados,  Distrito  Federal  e  Municípios  por  intermédio  dos respectivos Fundos de Assistência Social, respeitado o limite orçamentário da União e os critérios de partilha estabelecidos pelo  Conselho  Nacional  de  Assistência  Social,  de  acordo  com  o  inciso  IX  do  caput  do  art.  18  da  Lei  n o   8.742,  de  7  de dezembro de 1993.
+### § 5º
+A modalidade de que trata o inciso I do caput do art. 2º desta Lei será ofertada pelo Município que a ela aderir, nos termos do regulamento, e co-financiada pela União, Estados, Distrito Federal e Municípios por intermédio dos respectivos Fundos de Assistência Social, respeitado o limite orçamentário da União e os critérios de partilha estabelecidos pelo Conselho Nacional de Assistência Social, de acordo com o inciso IX do caput do art. 18 da Lei nº 8.742, de 7 de dezembro de 1993.
 
-### §  6 o
+### § 6º
 Os  saldos  dos  recursos  financeiros  recebidos  pelos  órgãos  e  entidades  da  administração  pública  federal, estadual,  municipal  e  do  Distrito  Federal  à  conta  do Projovem, existentes na conta-corrente específica  a  que  se  refere  o caput  deste  artigo  em  31  de  dezembro  de  cada  ano  deverão  ser  aplicados  no  exercício  subseqüente,  com  estrita observância ao objeto de sua transferência, nos termos da legislação vigente.
 
-## Art. 5 o
+## Art. 5º
 Os Estados, o Distrito Federal, os Municípios e as entidades de direito público e privado sem fins lucrativos prestarão conta dos recursos recebidos do Projovem, na forma e prazo definidos em regulamento e nas demais disposições aplicáveis.
 
-## Art.  6 o
-Fica  a  União  autorizada  a  conceder  auxílio  financeiro,  no  valor  de  R$  100,00  (cem  reais)  mensais,  aos beneficiários do Projovem, nas modalidades previstas nos incisos II, III e IV do caput do art. 2 o  desta Lei, a partir do exercício de 2008.
+## Art. 6º
+Fica a União autorizada a conceder auxílio financeiro, no valor de R$ 100,00 (cem reais) mensais, aos beneficiários do Projovem, nas modalidades previstas nos incisos II, III e IV do caput do art. 2º desta Lei, a partir do exercício de 2008.
 
-### § 1 o
+### § 1º
 Na modalidade Projovem Urbano, poderão ser pagos até 20 (vinte) auxílios financeiros.
 
-### § 2 o
+### § 2º
 Na modalidade Projovem Campo - Saberes da Terra, poderão ser pagos até 12 (doze) auxílios financeiros.
 
-### § 3 o
+### § 3º
 Na modalidade Projovem Trabalhador, poderão ser pagos até 6 (seis) auxílios financeiros.
 
-### § 4 o
+### § 4º
 É vedada a cumulatividade da percepção do auxílio financeiro a que se refere o caput deste artigo com benefícios de natureza semelhante recebidos em decorrência de outros programas federais, permitida a opção por um deles.
 
-## Art. 7 o
+## Art. 7º
 O órgão responsável pelas modalidades do Projovem definirá o agente pagador entre uma instituição financeira oficial.
 
-## Art.  8 o
+## Art. 8º
 As  despesas  com  a  execução  do  Projovem  observarão  os  limites  de  movimentação,  de  empenho  e  de pagamento da programação orçamentária e financeira anual.
 
 ### Parágrafo  único.
 O  Poder  Executivo  deverá  compatibilizar  a  quantidade  de  beneficiários  de  cada  modalidade  do Projovem com as dotações orçamentárias existentes.
 
-## Art. 9 o
+## Art. 9º
 O Projovem Adolescente - Serviço Socioeducativo, compreendido entre os serviços de que trata o art. 23 da Lei nº 8.742, de 7 de dezembro de 1993, tem como objetivos:
 
 - I  -  complementar  a  proteção  social  básica  à  família,  criando  mecanismos  para  garantir  a  convivência  familiar  e comunitária; e
@@ -127,7 +127,7 @@ L11692
 
 II - egressos de medida socioeducativa de internação ou em cumprimento de outras medidas socioeducativas em meio aberto, conforme disposto na Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente;
 
-III - em cumprimento ou egressos de medida de proteção, conforme disposto na Lei n o  8.069, de 13 de julho de 1990;
+III - em cumprimento ou egressos de medida de proteção, conforme disposto na Lei nº 8.069, de 13 de julho de 1990;
 
 IV - egressos do Programa de Erradicação do Trabalho Infantil - PETI; ou
 
@@ -137,7 +137,7 @@ V - egressos ou vinculados a programas de combate ao abuso e à exploração sex
 Os jovens a que se referem os incisos II a V do caput deste artigo devem ser encaminhados ao Projovem  Adolescente  -  Serviço  Socioeducativo  pelos  programas  e  serviços  especializados  de  assistência  social  do Município ou do Distrito Federal ou pelo gestor de assistência social, quando demandado oficialmente pelo Conselho Tutelar, pela Defensoria Pública, pelo Ministério Público ou pelo Poder Judiciário.
 
 ## Art. 11.
-O Projovem Urbano tem como objetivo elevar a escolaridade visando à conclusão do ensino fundamental, à qualificação  profissional  e  ao  desenvolvimento  de  ações  comunitárias  com  exercício  da  cidadania,  na  forma  de  curso, conforme previsto no art. 81 da Lei n o  9.394, de 20 de dezembro de 1996.
+O Projovem Urbano tem como objetivo elevar a escolaridade visando à conclusão do ensino fundamental, à qualificação profissional e ao desenvolvimento de ações comunitárias com exercício da cidadania, na forma de curso, conforme previsto no art. 81 da Lei nº 9.394, de 20 de dezembro de 1996.
 
 ## Art. 12.
 O Projovem Urbano atenderá a jovens com idade entre 18 (dezoito) e 29 (vinte e nove) anos, que saibam ler e escrever e não tenham concluído o ensino fundamental.
@@ -145,20 +145,20 @@ O Projovem Urbano atenderá a jovens com idade entre 18 (dezoito) e 29 (vinte e 
 ## Art.  13.
 Poderão  ser  realizadas  parcerias  com  o  Ministério  da  Justiça  e  com  a  Secretaria  Especial  dos  Direitos Humanos  da  Presidência  da  República  para  implantação  do  Projovem  Urbano  nas  unidades  prisionais  e  nas  unidades socioeducativas de privação de liberdade, respectivamente.
 
-### § 1 o
-O disposto no art. 4 o  desta Lei não será aplicado no caso das parcerias citadas no caput deste artigo, podendo ser realizado convênio, acordo, contrato, ajuste ou instrumento congênere.
+### § 1º
+O disposto no art. 4º desta Lei não será aplicado no caso das parcerias citadas no caput deste artigo, podendo ser realizado convênio, acordo, contrato, ajuste ou instrumento congênere.
 
-### §  2 o
+### § 2º
 No  caso  das  unidades  socioeducativas  de  privação  de  liberdade,  poderão  participar  do  Projovem  Urbano adolescentes  em  cumprimento  de  medidas  socioeducativas  de  privação  de  liberdade  que  tenham  idade  mínima  de  15 (quinze) anos.
 
-### § 3 o
+### § 3º
 É assegurada aos jovens que iniciaram o Projovem Urbano nas unidades do sistema prisional ou nas unidades socioeducativas de privação de liberdade a continuidade do curso nas localidades onde existir o Programa.
 
 ## Art. 14.
-O Projovem Campo - Saberes da Terra tem como objetivo elevar a escolaridade dos jovens da agricultura familiar, integrando a qualificação social e formação profissional, na forma do art. 81 da Lei n o  9.394, de 20 de dezembro de 1996,  estimulando  a  conclusão  do  ensino  fundamental  e  proporcionando  a  formação  integral  do  jovem,  na  modalidade educação de jovens e adultos, em regime de alternância, nos termos do regulamento.
+O Projovem Campo - Saberes da Terra tem como objetivo elevar a escolaridade dos jovens da agricultura familiar, integrando a qualificação social e formação profissional, na forma do art. 81 da Lei nº 9.394, de 20 de dezembro de 1996, estimulando a conclusão do ensino fundamental e proporcionando a formação integral do jovem, na modalidade educação de jovens e adultos, em regime de alternância, nos termos do regulamento.
 
 ## Art. 15.
-O Projovem Campo - Saberes da Terra atenderá a jovens com idade entre 18 (dezoito) e 29 (vinte e nove) anos, residentes no campo, que saibam ler e escrever, que não tenham concluído o ensino fundamental e que cumpram os requisitos previstos no art. 3 o  da Lei n o  11.326, de 24 de julho de 2006.
+O Projovem Campo - Saberes da Terra atenderá a jovens com idade entre 18 (dezoito) e 29 (vinte e nove) anos, residentes no campo, que saibam ler e escrever, que não tenham concluído o ensino fundamental e que cumpram os requisitos previstos no art. 3º da Lei nº 11.326, de 24 de julho de 2006.
 
 ## Art.  16.
 O  Projovem  Trabalhador  tem  como  objetivo  preparar  o  jovem  para  o  mercado  de  trabalho  e  ocupações alternativas geradoras de renda, por meio da qualificação social e profissional e do estímulo à sua inserção.
@@ -172,7 +172,7 @@ Nas unidades da Federação e nos Municípios onde existirem programas similares
 ## Art.  19.
 Na  execução  do  Projovem  Trabalhador,  o  Ministério  do  Trabalho  e  Emprego  fica  autorizado,  mediante convênio, a efetuar transferências de contribuições corrente e de capital aos órgãos e entidades da administração  pública federal, estadual e municipal, bem como a entidades de direito público e privado sem fins lucrativos, observada a legislação pertinente.
 
-### § 1 o
+### § 1º
 O regulamento disporá sobre critérios objetivos de habilitação e seleção de entidades privadas sem fins lucrativos para serem executoras do Projovem.
 
 www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11692.htm#:~:text=11.,20 de dezembro de 1996
@@ -187,13 +187,13 @@ www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11692.htm#:~:text=11.,20 d
 
 L11692
 
-### § 2 o
-A habilitação e seleção das entidades referidas no § 1 o  deste artigo serão processadas em estrita conformidade com os princípios básicos da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade e do julgamento objetivo.
+### § 2º
+A habilitação e seleção das entidades referidas no § 1º deste artigo serão processadas em estrita conformidade com os princípios básicos da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade e do julgamento objetivo.
 
 ## Art. 20.
-Os arts. 2 o  e 3 o  da Lei n o  10.836, de 9 de janeiro de 2004, passam a vigorar com a seguinte redação:
+Os arts. 2º e 3º da Lei nº 10.836, de 9 de janeiro de 2004, passam a vigorar com a seguinte redação:
 
-### 'Art. 2 o
+### “Art. 2º
 
 ................................................................................................
 
@@ -208,18 +208,18 @@ II  -  o  benefício  variável,  destinado  a  unidades  familiares  que  se  e
 #### § 2º
 O valor do benefício básico será de R$ 58,00 (cinqüenta e oito reais) por mês, concedido a famílias com renda familiar mensal per capita de até R$ 60,00 (sessenta reais).
 
-#### § 3 o
+#### § 3º
 Serão concedidos a famílias com renda familiar mensal per capita de até R$ 120,00 (cento e vinte reais), dependendo de sua composição:
 
 - I - o benefício variável no valor de R$ 18,00 (dezoito reais); e
 
 - II - o benefício variável, vinculado ao adolescente, no valor de R$ 30,00 (trinta reais).
 
-#### § 4 o
+#### § 4º
 Os benefícios financeiros previstos nos incisos I, II e III do caput deste artigo poderão ser pagos  cumulativamente  às  famílias  beneficiárias,  observados  os  limites  fixados  nos  citados incisos II e III.
 
-#### §  5 o
-A  família  cuja  renda  familiar  mensal  per  capita  esteja  compreendida  entre  os  valores estabelecidos no § 2 o  e no § 3 o  deste artigo receberá exclusivamente os benefícios  a  que  se referem os incisos II e III do caput deste artigo, respeitados os limites fixados nesses incisos.
+#### § 5º
+A família cuja renda familiar mensal per capita esteja compreendida entre os valores estabelecidos no § 2º e no § 3º deste artigo receberá exclusivamente os benefícios a que se referem os incisos II e III do caput deste artigo, respeitados os limites fixados nesses incisos.
 
 ................................................................................................
 
@@ -239,9 +239,9 @@ Os  benefícios  poderão  ser  pagos  por  meio  das  seguintes  modalidades  d
 
 ................................................................................................
 
-................................................................................................' (NR)
+................................................................................................” (NR)
 
-### 'Art. 3 o
+### “Art. 3º
 
 ................................................................................................
 
@@ -258,16 +258,16 @@ www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11692.htm#:~:text=11.,20 d
 L11692
 
 #### Parágrafo único.
-O acompanhamento da freqüência escolar relacionada ao benefício previsto no inciso III do caput do art. 2 o  desta Lei considerará 75% (setenta e cinco por cento) de freqüência, em conformidade  com  o  previsto  no  inciso  VI  do  caput  do  art.  24  da  Lei  n o   9.394,  de  20  de dezembro de 1996.' (NR)
+O acompanhamento da freqüência escolar relacionada ao benefício previsto no inciso III do caput do art. 2º desta Lei considerará 75% (setenta e cinco por cento) de freqüência, em conformidade com o previsto no inciso VI do caput do art. 24 da Lei nº 9.394, de 20 de dezembro de 1996.” (NR)
 
 ## Art. 21.
-Ato do Poder Executivo disporá sobre as demais regras de funcionamento de cada modalidade do Projovem, inclusive no que se refere ao estabelecimento de metas, à avaliação, ao monitoramento e ao controle social, e sobre os critérios  adicionais  a  serem  observados  para  o  ingresso  no  Programa,  bem  como  para  a  concessão,  a  manutenção  e  a suspensão do auxílio a que se refere o art. 6 o  desta Lei.
+Ato do Poder Executivo disporá sobre as demais regras de funcionamento de cada modalidade do Projovem, inclusive no que se refere ao estabelecimento de metas, à avaliação, ao monitoramento e ao controle social, e sobre os critérios adicionais a serem observados para o ingresso no Programa, bem como para a concessão, a manutenção e a suspensão do auxílio a que se refere o art. 6º desta Lei.
 
-### § 1 o
+### § 1º
 Cumpridos os requisitos estabelecidos nesta Lei e na sua regulamentação, ficam asseguradas aos jovens com deficiência as condições que lhes possibilitem a efetiva participação no Projovem.
 
-### § 2 o
-Nos  currículos  dos  cursos  oferecidos  nas  modalidades  de  que  trata  o  art.  2 o   desta  Lei  deverão  ser  incluídas noções básicas  de  comunicação  oral  e  escrita  em  língua  portuguesa,  de  matemática,  de  informática,  de  cidadania  e  de língua estrangeira.
+### § 2º
+Nos currículos dos cursos oferecidos nas modalidades de que trata o art. 2º desta Lei deverão ser incluídas noções básicas de comunicação oral e escrita em língua portuguesa, de matemática, de informática, de cidadania e de língua estrangeira.
 
 ## Art.  22.
 O  Poder  Executivo  deverá  veicular  dados  e  informações  detalhados  sobre  a  execução  orçamentária  e financeira dos Programas Projovem e Bolsa Família, tratados nesta Lei.
@@ -276,22 +276,22 @@ O  Poder  Executivo  deverá  veicular  dados  e  informações  detalhados  sob
 Esta Lei entra em vigor na data de sua publicação.
 
 ### Parágrafo único.
-Aos beneficiários e executores dos Programas disciplinados nas Leis n os  10.748, de 22 de outubro de 2003, 11.129, de 30 de junho de 2005, e 11.180, de 23 de setembro de 2005, ficam assegurados, no âmbito do Projovem, os  seus  direitos,  bem  como  o  cumprimento  dos  seus  deveres,  nos  termos  dos  convênios,  acordos  ou  instrumentos congêneres firmados até 31 de dezembro de 2007.
+Aos beneficiários e executores dos Programas disciplinados nas Leis nºs 10.748, de 22 de outubro de 2003, 11.129, de 30 de junho de 2005, e 11.180, de 23 de setembro de 2005, ficam assegurados, no âmbito do Projovem, os seus direitos, bem como o cumprimento dos seus deveres, nos termos dos convênios, acordos ou instrumentos congêneres firmados até 31 de dezembro de 2007.
 
 ## Art. 24.
-Ficam revogados, a partir de 1 o  de janeiro de 2008:
+Ficam revogados, a partir de 1º de janeiro de 2008:
 
-I - o art. 3 o -A da Lei n o  9.608, de 18 de fevereiro de 1998;
+I - o art. 3º-A da Lei nº 9.608, de 18 de fevereiro de 1998;
 
-II - a Lei n o  10.748, de 22 de outubro de 2003;
+II - a Lei nº 10.748, de 22 de outubro de 2003;
 
-III - os arts. 1 o , 2 o  e 3 o  da Lei n o  10.940, de 27 de agosto de 2004;
+III - os arts. 1º, 2º e 3º da Lei nº 10.940, de 27 de agosto de 2004;
 
-IV - os arts. 1 o  a 8 o  da Lei n o  11.129, de 30 de junho de 2005; e
+IV - os arts. 1º a 8º da Lei nº 11.129, de 30 de junho de 2005; e
 
-V - os arts. 1 o  a 10 da Lei n o  11.180, de 23 de setembro de 2005.
+V - os arts. 1º a 10 da Lei nº 11.180, de 23 de setembro de 2005.
 
-Brasília,  10  de  junho  de 2008; 187 o  da Independência e 120 o  da República.
+Brasília, 10 de junho de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA Tarso Genro Guido Mantega Fernando Haddad André Peixoto Figueiredo Lima Paulo Bernardo Silva Patrus Ananias Dilma Rousseff Luiz Soares Dulci
 
