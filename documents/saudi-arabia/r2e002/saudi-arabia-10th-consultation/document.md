@@ -32,11 +32,13 @@ Most importantly, the reporting obligation under the provisions of Article VII o
 
 In light of the Education 2030 agenda, the monitoring of the implementation of the Convention and the Recommendation is of crucial importance in order to ensure an education that is truly for all and to  counter  persistent  inequalities  in  access,  participation  and  learning  outcomes  at  all  levels, particularly  for  the  most  vulnerable  groups.  Concrete  measures  taken  by  Member  States  in accordance with their legal obligations under these instruments contribute to this process.
 
-As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG4  on  education,  efforts  have  also  been  made  to  ensure  that  the  specific components are included in the guidelines and that the guidelines serve as a valuable monitoring tool for measuring progress towards SDG4 targets. 1 In addition, in view of the educational challenges posed  by  the  influxes  of  refugees  and  displacements  worldwide,  the  guidelines  provide  the opportunity to report on concrete measures taken during the reporting period to include refugees and migrants in their educational systems. An emphasis is also to be placed on legal and policy framework that protects the rights of national minorities.
+As the scope and content of the legal obligations under the right to education are aligned with the 10 targets of SDG4 on education, efforts have also been made to ensure that the specific
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+components are included in the guidelines and that the guidelines serve as a valuable monitoring tool for measuring progress towards SDG4 targets. 1 In addition, in view of the educational challenges posed by the influxes of refugees and displacements worldwide, the guidelines provide the opportunity to report on concrete measures taken during the reporting period to include refugees and migrants in their educational systems. An emphasis is also to be placed on legal and policy framework that protects the rights of national minorities.
 
 The reporting should be as comprehensive as possible and the process needs to be participatory and conducted in cooperation between ministries of education and other ministries dealing with aspects of the right to education. Relevant information from CSOs having education as their main field of activity should also be provided.
 
@@ -54,9 +56,9 @@ In  the  preparation  of  reports,  Member  States  are  kindly  requested  to  
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member States in the preparation of responses, two series of questions/remarks are presented:
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -70,9 +72,9 @@ In their responses, Member States are encouraged to provide information in a con
 
 Country name: Saudi Arabia
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -98,7 +100,7 @@ Describe:
 
 o No, not considering ratification in the near future. Please explain why:
 
-### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -114,7 +116,7 @@ o No, please briefly explain the difficulties encountered:
 
 [[START OF PAGE 5]]
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -154,11 +156,11 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-## Information on the implementation of the Convention or Recommendation
+## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non- discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 [[END OF PAGE 5]]
 
@@ -196,7 +198,7 @@ o Policies and programmes ensure equal access to all levels and types of educati
 
 o Other:
 
-All of Saudi Arabia's regulations derive from Islamic sharī'a law, which imposes justice and equality and prohibits all forms of oppression and discrimination. Among the most important legislative and regulatory texts which emphasize non-discrimination are the following:
+All of Saudi Arabia's regulations derive from Islamic sharī‘a law, which imposes justice and equality and prohibits all forms of oppression and discrimination. Among the most important legislative and regulatory texts which emphasize non-discrimination are the following:
 
 - Saudi regulations guarantee all citizens the right to education free of charge and without discrimination: article 30 of the Basic Law of Governance stipulates that 'the State shall provide public education and is bound to combat illiteracy.'
 
@@ -247,8 +249,6 @@ training curricula geared to their needs.
 - Please indicate the relevant legal, regulatory or policy texts and provide a brief description of the measures taken :
 
 This notably is covered under SDG target 4.1 and partly target 4.b 6
-
-> 6 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
 
 •
 
@@ -308,7 +308,7 @@ addressed to both males and females and entails no discrmination between them, i
 
 embodiment of the principle of equality.
 
-נ
+> 6 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 [[END OF PAGE 7]]
 
@@ -320,9 +320,7 @@ embodiment of the principle of equality.
 
 - Admission  of  candidates  of  other  religions  to  government  and  other  schools,  and absence of discrimination between them.
 
-- 1.3 Please  indicate  the  actions  taken  and  planned  in  your  country  to  ensure  equality  of opportunities (in terms of access, participation and completion), equal treatment and to support the  inclusion  of  all  learners  (including  girls  and  women,  the  economically  and  socially marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
-
-- Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
+- 1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
 
 - o Providing financial incentives and fellowships
 
@@ -334,7 +332,7 @@ embodiment of the principle of equality.
 
 - o Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
-- o Providing  re-entry  programmes  for  young mothers
+- o Providing re-entry programmes for young mothers
 
 - o Eliminating all barriers for pregnant girls or young mothers in education
 
@@ -355,6 +353,8 @@ embodiment of the principle of equality.
 - o Valuing diversity in schools
 
 - o Combatting stereotyping and stigmatisation
+
+- Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
 
 Among the most important measures taken in this regard are:
 
@@ -398,7 +398,7 @@ Minister  of  Justice  Decision  14/T/7969  of  AH  26/4/1441  to  all  courts  
 
 #### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -632,7 +632,7 @@ Saudi Arabia offers annual grants to students from friendly Arab and Islamic Sta
 
 various continents, for study at Saudi universities in various specializations, such as
 
-sharī'a
+sharī‘a
 
 , Arabic language, natural sciences, medical science, etc.
 
@@ -685,10 +685,9 @@ o Other:
 - Please elaborate further on the measures taken:
 
 ##### Building the Saudi National Strategy for Lifelong Learning in Saudi society
---- | ---
 This is a strategy which is aimed at providing Saudi individuals with opportunities for varied and ongoing lifelong learning, cultivation and training for self-realization which ensure that they have a life of dignity and work with competency, which is one of the pillars of the Saudi Vision 2030 strategy, which is aimed at achieving a vibrant, flourishing, advanced community which accompanies the contemporary knowledge society.
 ##### Society without Illiteracy programme
-This is an educational alphabetic literacy programme lasting one academic year. It is implemented in places where there are illiterates in cities and remote villages in both government and private sectors and charitable and reformist associations, Koran- memorization associations, care centres and prisons.
+This is an educational alphabetic literacy programme lasting one academic year. It is implemented in places where there are illiterates in cities and remote villages in both government and private sectors and charitable and reformist associations, Koran-memorization associations, care centres and prisons.
 ##### Programme for the training of female teachers in the psychological characteristics of adults
 
 [[END OF PAGE 15]]
@@ -717,26 +716,29 @@ Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide fo
 
 To provide such quality assessment, please take into account all educational institutions of the same level. You may include information on policies, protocols or codes of conduct.
 
-• | Article 11 of the Draft General Education System provides that 'The Ministry shall determine the necessary criteria to ensure a safe and attractive school environment which is conducive to quality education.'
---- | ---
-• | Paragraph 4 of article 43 of the Draft Education System provides that 'The Ministry, in coordination with the relevant authorities, shall undertake to design prototypes for educational buildings which are geared to the various geographical and climatic environments in Saudi Arabia.'
-• | The authorities concerned with the building of schools in Saudi Arabia ensure that school buildings are executed in accordance with international standards with respect to classroom area, external areas, the number of toilets, the availability of administrative facilities, the pursuit of non-classroom activities, and the existence of emergency exits, making optimum use of materials in construction and finishings, and applying thermal and acoustic insulation. This is apparent from the regulations applied and observed in design and planning criteria for school buildings, which specifically require the application of the following set of criteria and engineering principles: - Saudi Building Code
+- Article 11 of the Draft General Education System provides that 'The Ministry shall determine the necessary criteria to ensure a safe and attractive school environment which is conducive to quality education.'
+
+- Paragraph 4 of article 43 of the Draft Education System provides that 'The Ministry, in coordination with the relevant authorities, shall undertake to design prototypes for educational buildings which are geared to the various geographical and climatic environments in Saudi Arabia.'
+
+- The authorities concerned with the building of schools in Saudi Arabia ensure that school buildings are executed in accordance with international standards with respect to classroom area, external areas, the number of toilets, the availability of administrative facilities, the pursuit of non-classroom activities, and the existence of emergency exits, making optimum use of materials in construction and finishings, and applying thermal and acoustic insulation. This is apparent from the regulations applied and observed in design and planning criteria for school buildings, which specifically require the application of the following set of criteria and engineering principles:
+
+  - Saudi Building Code
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
--Saudi Standards, Metrology and Quality Organization
+- Saudi Standards, Metrology and Quality Organization
 
--International Building Code (IBC)
+- International Building Code (IBC)
 
--Royal British Institute Code (IRBC)
+- Royal British Institute Code (IRBC)
 
--Code of the American Association Of Sewer Service Companies [??]
+- Code of the American Association Of Sewer Service Companies [??]
 
--Code of the American National Fire Protection Association (NFPA) [??]
+- Code of the American National Fire Protection Association (NFPA) [??]
 
--Recommendations of the Code of the U.S. Green Building Council (USGBC)
+- Recommendations of the Code of the U.S. Green Building Council (USGBC)
 
 ##### Initiative on Enhancing Safety and Security Measures in School Buildings
 
@@ -766,17 +768,11 @@ Article/Paragraph  4(d)  of  the  Convention/Recommendation  provides  for  the 
 
 [[START OF PAGE 18]]
 
-Performance monitoring systems
+o Performance monitoring systems
 
-o
+o Measures taken to increase women in leadership positions in education
 
-Measures taken to increase women in leadership positions in education
-
-o
-
-Other:
-
-o
+o Other:
 
 - Please briefly elaborate further on the measures taken:
 
@@ -894,40 +890,6 @@ This is to support the path of faculties of education and redesign it in line wi
 
 The Consultative Council for Teachers was established with a view to strengthening the culture of dialogue and consultation among teachers and to addressing their concerns and suggestions. Its period is two academic years, beginning at the beginning of the academic year. The process of proposing candidates for membership in the Consultative Council takes place in the second term of the academic year preceding the forthcoming session of the Council.
 
-opportunity for vocational educational development at such times. Vocational development has also been highlighted since it is the primary tool for developing educational practices and building the capacity of the educational system. The programme is aimed at offering good-quality development programmes to the holders of educational posts which are geared to their needs and specializations, harnessing their summer holiday time and the return of administrative and educational staff to school.
-
-•
-
-International Teachers' Forum
-
-:
-
-This is aimed at integrating international educational expertise and local expertise in building sound educational practices and strengthening and managing the role of teachers in the classroom environment, enhancing their relationship with their students, and helping them to understand their role in the classroom environment in a precise manner and their role in moving to centralized teaching for students, and understanding twenty-first century skills and the requirements for achieving that in the classroom.
-
-•
-
-Missions and scholarship programmes
-
-:
-
-The Ministry of Education offers holders of educational posts opportunities for missions and scholarships to domestic and foreign universities to meet the needs of the Ministry in the specializations required, thus providing opportunities to complete their higher studies in their preferred specializations, according to the functional needs of the work assigned to them in their sectors.
-
-•
-
-Reform of teacher training programmes in educational colleges
-
-:
-
-This is to support the path of faculties of education and redesign it in line with future requirements. Some policies have been adopted that are intended to achieve the reform of this path. This includes reducing admission rates in colleges of education at the bachelor's or educational diploma levels, and seeking to build a general framework for teacher training in tracks that are consistent with the needs of the general education sector.
-
-•
-
-Consultative Council for Teachers
-
-:
-
-The Consultative Council for Teachers was established with a view to strengthening the culture of dialogue and consultation among teachers and to addressing their concerns and suggestions. Its period is two academic years, beginning at the beginning of the academic year. The process of proposing candidates for membership in the Consultative Council takes place in the second term of the academic year preceding the forthcoming session of the Council.
-
 - Have there been instances of discrimination as regards the training for education personnel in your country?
 
 o Yes: Has your government addressed this issue?
@@ -966,13 +928,13 @@ Yes o No o
 
 - Please provide a brief description:
 
-> 12 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
-
 - On the basis of the the organizational structure and guidelines of the Ministry of Education adopted by Council of Ministers Decision 511 of 7 May 2019, the bodies responsible for private education and its organization in the Ministry of Education are:
 
 - o Agency for Private General Education which is aimed at building a strategic vision focusing on strengthening the private sector partnership in order to offer quality general education which observes global standards of quality in accordance with national constants and in accordance with the general education policy of Saudi Arabia.
 
 - o Agency for Private University Education which is aimed at building a strategic vision focusing on strengthening the private sector partnership in order to offer quality university education which observes global standards of quality in accordance with national constants and in accordance with the general education policy of Saudi Arabia.
+
+> 12 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
 [[END OF PAGE 20]]
 
@@ -990,7 +952,7 @@ No o
 
 The role of government bodies consists in strengthening the contribution of the private sector to offering quality education which observes global standards of quality by means of general supervision of private education and its organization and development. Among the main factors in such organization are:
 
-##### General Education Policy in Saudi Arabia: Part V, Chapter 6, the following articles:
+##### I. General Education Policy in Saudi Arabia: Part V, Chapter 6, the following articles:
 
 -175: The State shall encourage all stages of private education, under the technical and administrative supervision of the relevant educational authorities, as .clarified by the relevant regulations
 
@@ -1006,7 +968,7 @@ The role of government bodies consists in strengthening the contribution of the 
 
 -Help private schools and institutes to achieve the educational objectives from the point of view of supervision and technical support.
 
-##### Regulations for Private Schools promulgated by Council of Ministers Decision 1006 of 1975.
+##### II. Regulations for Private Schools promulgated by Council of Ministers Decision 1006 of 1975.
 
 - Does your country have an education policy framework for minimum educational standards as regards the rights of the parents /legal guardians for providing religious and moral education for their children?
 
@@ -1024,11 +986,7 @@ Article/Paragraph  5(1)(c)  of  the  Convention/Recommendation  provides  for  t
 
 [[START OF PAGE 22]]
 
-- Please indicate the legal, policy and regulatory measures that protect the rights given to national  minorities  to  carry  out  their  own  educational  activities  (several  items  could  be ticked/mentioned):
-
-- Please provide a brief description of the provisions:
-
-- As  regards the educational standards in educational institutions run by minorities, please describe the existing legal and policy framework:
+- Please indicate the legal, policy and regulatory measures that protect the rights given to national minorities to carry out their own educational activities (several items could be ticked/mentioned):
 
 o Constitutional laws and/or legislation protect the right to education of national minorities
 
@@ -1041,6 +999,10 @@ o Teachers are trained to adapt to national minority needs
 o Other:
 
 Saudi Arabia has numerous schools for resident foreign communities, providing education to their children in accordance with the curricula in force under the Regulations for Foreign Schools in Saudi Arabia issued pursuant to Council of Ministers Decision 26 of 1 June 1997 AD. There are over 20 different such curricula taught in Saudi Arabia, including those of the United States of America, the United Kingdom, France, the Philippines, Australia, Pakistan, India, Guinea, Mali, Japan, Sweden, Greece, etc.
+
+- Please provide a brief description of the provisions:
+
+- As regards the educational standards in educational institutions run by minorities, please describe the existing legal and policy framework:
 
 Information could also cover the language facilities, such as the availability of teaching in the mother tongue of the students, use of teaching of languages in education policy, multilinguism, etc.
 
@@ -1059,11 +1021,13 @@ Each foreign school shall have a Board of Directors to look after its interests,
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+to eliminate and prevent discrimination in education based notably on national origin. 14 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
 
@@ -1111,7 +1075,7 @@ out the special form prepared for this purpose to determine their academic level
 
 - Adult Syrians and Yemenis shall be given an opportunity to be admitted to study in night schools and affiliated schools.
 
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
 ### 1. Challenges and obstacles
 
@@ -1127,7 +1091,7 @@ o Other:
 
 - 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
-### Awareness-raising
+### 2. Awareness-raising
 
 [[END OF PAGE 24]]
 
@@ -1143,7 +1107,7 @@ o Dissemination and advocacy of the core content of the Convention/Recommendatio
 
 o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-o Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+o Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
