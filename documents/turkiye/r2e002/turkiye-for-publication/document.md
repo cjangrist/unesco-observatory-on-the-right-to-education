@@ -56,7 +56,7 @@ The following policy documents are main documents in terms of supporting global 
 
 - Presidency Annual Programs: Education policies are determined on the axis of sustainable development goals.
 
-- 11 th Development Plan: Education policies under the title of 'Education' constitute a source as a framework for long-term policy objectives and other policy documents.
+- 11th Development Plan: Education policies under the title of 'Education' constitute a source as a framework for long-term policy objectives and other policy documents.
 
 - Ministry of National Education 2023 Education Vision: It is the policy document that plans the transformation of the Turkish education system.
 
@@ -90,7 +90,7 @@ The official governmental entity to follow the issues about sustainable developm
 
 - Presidency Annual Programs: https://www.sbb.gov.tr/yillik-programlar/
 
-- 11 th Development Plan: https://www.sbb.gov.tr/wpcontent/uploads/2019/07/OnbirinciKalkinmaPlani.pdf
+- 11th Development Plan: https://www.sbb.gov.tr/wp-content/uploads/2019/07/OnbirinciKalkinmaPlani.pdf
 
 - Ministry of National Education 2023 Education Vision: https://2023vizyonu.meb.gov.tr/doc/2023_VIZYON_ENG.pdf
 
@@ -98,7 +98,7 @@ The official governmental entity to follow the issues about sustainable developm
 
 - Basic Law of National Education No.1739: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1739.pdf
 
-- National Action Plan to Combat Violence Against Women https://www.ailevecalisma.gov.tr/ksgm/ulusal-eylem-planlari/kadina-yonelik-siddetlemucadele-ulusal-eylem-plani/
+- National Action Plan to Combat Violence Against Women https://www.ailevecalisma.gov.tr/ksgm/ulusal-eylem-planlari/kadina-yonelik-siddetle-mucadele-ulusal-eylem-plani/
 
 - National Program for Combating Child Labor: https://www.ailevecalisma.gov.tr/cgm/cimup/
 
@@ -106,7 +106,7 @@ The official governmental entity to follow the issues about sustainable developm
 
 - The official website of the Board of Strategy and Budget, Presidency of Republic of Turkey: http://www.surdurulebilirkalkinma.gov.tr/
 
-- TURKEY 2nd VNR Report 2019 Strong Ground towards Common Goals (Interactive) : www.surdurulebilirkalkinma.gov.tr/wp-content/uploads/2019/12/TURKEY-2nd-VNRReport-2019-Strong-Ground-towards-Common-Goals-Interactive.pdf
+- TURKEY 2nd VNR Report 2019 Strong Ground towards Common Goals (Interactive) : www.surdurulebilirkalkinma.gov.tr/wp-content/uploads/2019/12/TURKEY-2nd-VNR-Report-2019-Strong-Ground-towards-Common-Goals-Interactive.pdf
 
 [[END OF PAGE 4]]
 
@@ -114,25 +114,25 @@ The official governmental entity to follow the issues about sustainable developm
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
-
-- Sustainable development plans for Turkey have been prepared based on the international decisions and protocols.
-
-- Five-year development plans are prepared and published by the Presidency of Strategy and Budget, Presidency of Republic of Turkey. The recent eleventh development plan, which covers  the  period  of  time  between  2019  and  2023,  mentions  out  the  vision,  goals  and principles of the plan and determines the educational goals for qualified people and a strong society. In this document, the education goal is given as 'to raise productive and happy individuals  who  have  self-confidence  and  a  sense  of  responsibility,  developed  thinking, perception  and  problem  solving  skills,  strong  artistic  and  aesthetic  feelings;  who  absorb national culture and democratic values; and who are innovative and entrepreneur, prone to using technology, and open to sharing and communication'. The policies and measures are presented based on the conditions and needs of Turkey. In the 11th Development Plan, there is a measure whose number is 536 as 'Sustainable development and inclusive growth; it is possible through effective economic policies aiming at a stable economy and social policies aimed  at  a  peaceful  society  together  and  in  a  coordinated  manner.  The  development
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 2. | Gender equality | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 3. | Human rights | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
-4. | Peace and non- violence | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
+4. | Peace and non-violence | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 5. | Climate change | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 6. | Environmental sustainability | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 7. | Human survival and well-being | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 8. | Sustainable consumption and production | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
+
+- Sustainable development plans for Turkey have been prepared based on the international decisions and protocols.
+
+- Five-year development plans are prepared and published by the Presidency of Strategy and Budget, Presidency of Republic of Turkey. The recent eleventh development plan, which covers  the  period  of  time  between  2019  and  2023,  mentions  out  the  vision,  goals  and principles of the plan and determines the educational goals for qualified people and a strong society. In this document, the education goal is given as 'to raise productive and happy individuals  who  have  self-confidence  and  a  sense  of  responsibility,  developed  thinking, perception  and  problem  solving  skills,  strong  artistic  and  aesthetic  feelings;  who  absorb national culture and democratic values; and who are innovative and entrepreneur, prone to using technology, and open to sharing and communication'. The policies and measures are presented based on the conditions and needs of Turkey. In the 11th Development Plan, there is a measure whose number is 536 as 'Sustainable development and inclusive growth; it is possible through effective economic policies aiming at a stable economy and social policies aimed  at  a  peaceful  society  together  and  in  a  coordinated  manner.  The  development
 
 > 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -142,7 +142,7 @@ KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given lev
 
 perspective of the plan period has been prepared with an approach that includes all segments of the society such as children, youth, women, disabled people and the elderly, who require special policies.'
 
-- The  following  purpose  is  included  in  the  2019-2023  Strategic  Plan  of  the  Ministry  of National  Education,  'All  our  students  will  be  provided  with  the  common  values  of  our civilization  and  humanity  and  knowledge,  skills,  attitudes  and  behaviors  suitable  for  the requirements of the age'. Within the scope of gender equality, there is a strategy in the 20192023 MoNE Strategic Plan, "Studies will be carried out to increase the participation of all students in secondary education, especially girls and groups that require special policies, and to reduce absenteeism and grade repetition." Within the scope of Human Survival and wellbeing, there is a strategy in the 2019-2023 MoNE Strategic Plan "qualification, participation and completion rates in lifelong learning will be increased in order to improve the work and life quality of individuals, and activities related to education and training for our citizens abroad will continue." In addition, many activities are ongoing to support this goal.
+- The  following  purpose  is  included  in  the  2019-2023  Strategic  Plan  of  the  Ministry  of National  Education,  'All  our  students  will  be  provided  with  the  common  values  of  our civilization  and  humanity  and  knowledge,  skills,  attitudes  and  behaviors  suitable  for  the requirements of the age'. Within the scope of gender equality, there is a strategy in the 2019-2023 MoNE Strategic Plan, "Studies will be carried out to increase the participation of all students in secondary education, especially girls and groups that require special policies, and to reduce absenteeism and grade repetition." Within the scope of Human Survival and well-being, there is a strategy in the 2019-2023 MoNE Strategic Plan "qualification, participation and completion rates in lifelong learning will be increased in order to improve the work and life quality of individuals, and activities related to education and training for our citizens abroad will continue." In addition, many activities are ongoing to support this goal.
 
 - 2023 Education Vision was developed in Turkey. The main purpose of the 2023 Education Vision is to raise  science-loving,  skilled,  and  ethical  individuals  who  take  an  interest  in culture and are willing to use present and future skills for the well-being of humanity.
 
@@ -168,7 +168,7 @@ In terms of the importance of basic knowledge, skills and attitudes given in ear
 
 -Raising awareness activities on democratic school culture in and beyond schools will be conducted.
 
-Depending  on  the  Project,  national  dissemination  of  the  results  will  be  realized.  Please  see http://tegm.meb.gov.tr/www/temel-egitimde-demokrasi-kulturunun-guclendirilmesiprojesi/icerik/603 for further details.
+Depending  on  the  Project,  national  dissemination  of  the  results  will  be  realized.  Please  see http://tegm.meb.gov.tr/www/temel-egitimde-demokrasi-kulturunun-guclendirilmesi-projesi/icerik/603 for further details.
 
 Please see https://www.coe.int/en/web/education/competences-for-democratic-culture for the RFCDC which is the main document of the Project.
 
@@ -192,15 +192,15 @@ MoNE 2019-2023 Strategic Plan: https://www.meb.gov.tr/stratejik_plan/
 
 The Eleventh Development Plan:
 
-http://www.surdurulebilirkalkinma.gov.tr/wp-content/uploads/2020/10/On-BirinciKalkinma-Plani.pdf
+http://www.surdurulebilirkalkinma.gov.tr/wp-content/uploads/2020/10/On-Birinci-Kalkinma-Plani.pdf
 
 The Evaluation Report of the Sustainable Development Goals:
 
-http://www.surdurulebilirkalkinma.gov.tr/wp-content/uploads/2020/03/SurdurulebilirKalkinma-Amaclari-Degerlendirme-Raporu_13_12_2019-WEB.pdf
+http://www.surdurulebilirkalkinma.gov.tr/wp-content/uploads/2020/03/Surdurulebilir-Kalkinma-Amaclari-Degerlendirme-Raporu_13_12_2019-WEB.pdf
 
 Sustainable Development Indicators:
 
-http://www.surdurulebilirkalkinma.gov.tr/wp-content/uploads/2020/03/SKg%C3%B6stergeleri-2010-2018.pdf
+http://www.surdurulebilirkalkinma.gov.tr/wp-content/uploads/2020/03/SK-g%C3%B6stergeleri-2010-2018.pdf
 
 The link for the 2018-2019 primary education programs: http://mufredat.meb.gov.tr/Programlar.aspx
 
@@ -210,37 +210,33 @@ The link for the curriculum of the course 'Environmental Education':
 
 [[START OF PAGE 9]]
 
-http://kirikkale.meb.gov.tr/meb_iys_dosyalar/2015_08/27110659_evreeitimiretimprogram. pdf
+http://kirikkale.meb.gov.tr/meb_iys_dosyalar/2015_08/27110659_evreeitimiretimprogram.pdf
 
 National Strategy Document For Combating Desertification:
 
-https://www.tarimorman.gov.tr/CEM/Belgeler/collesme%20belgeleri%20arsiv/Sayfa04/%C 3%87%
+https://www.tarimorman.gov.tr/CEM/Belgeler/collesme%20belgeleri%20arsiv/Sayfa04/%C3%87%C3%96LLE%C5%9EME_16X23.pdf
 
-C3%96LLE%C5%9EME_16X23.pdf
-
-Turkey's National Climate Change Adaptation Strategy and Action Plan (https://webdosya.csb.gov.tr/db/iklim/editordosya/file/eylem%20planlari/uyum_stratejisi_e ylem_plani_EN_Final.pdf)
+Turkey's National Climate Change Adaptation Strategy and Action Plan (https://webdosya.csb.gov.tr/db/iklim/editordosya/file/eylem%20planlari/uyum_stratejisi_eylem_plani_EN_Final.pdf)
 
 Climate Change Action Plan for 2011-2023
 
-(https://webdosya.csb.gov.tr/db/iklim/editordosya/file/eylem%20planlari/uyum_stratejisi_e ylem_plani_EN_Final.pdf)
+(https://webdosya.csb.gov.tr/db/iklim/editordosya/file/eylem%20planlari/uyum_stratejisi_eylem_plani_EN_Final.pdf)
 
 Turkey's Climate Change Strategy 2010-2023
 
 (https://www.gmka.gov.tr/dokumanlar/yayinlar/Turkiye-Iklim-Degisikligi-Stratejisi.pdf)
 
-The link The Republic of Turkey Ministry of Family, Labour and Social Services https://www.ailevecalisma.gov.tr/ksgm/ulusal-eylem-planlari/kadinin-guclenmesi-stratejibelgesi-ve-eylem-plani-2018-2023/
+The link The Republic of Turkey Ministry of Family, Labour and Social Services https://www.ailevecalisma.gov.tr/ksgm/ulusal-eylem-planlari/kadinin-guclenmesi-strateji-belgesi-ve-eylem-plani-2018-2023/
 
-https://www.ailevecalisma.gov.tr/media/6315/kad%C4%B1n%C4%B1ngue%C3%A7lenmesi-strajesi-belgesi-ve-eylem-plan%C4%B1-2018-2023.pdf
+https://www.ailevecalisma.gov.tr/media/6315/kad%C4%B1n%C4%B1n-gue%C3%A7lenmesi-strajesi-belgesi-ve-eylem-plan%C4%B1-2018-2023.pdf
 
-https://www.ailevecalisma.gov.tr/uploads/ksgm/uploads/pages/kadina-yonelik-siddetlemucadele-ulusal-eylem-plani/kadina-yonelik-siddetle-mucadele-ulusal-eylem-plani-20162020-icin-tiklayiniz.pdf
+https://www.ailevecalisma.gov.tr/uploads/ksgm/uploads/pages/kadina-yonelik-siddetle-mucadele-ulusal-eylem-plani/kadina-yonelik-siddetle-mucadele-ulusal-eylem-plani-2016-2020-icin-tiklayiniz.pdf
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 #### *A4.  Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell.
-
-#### *A5 Please  indicate  whether  national  or  sub-national  education  policies,  frameworks  or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -254,6 +250,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 6. | Environmental sustainability | 1 | 1 | 1 | 1
 7. | Human survival and well-being | 1 | 1 | 1 | 1
 8. | Sustainable consumption and production | 1 | 1 | 1 | 1
+
+#### *A5 Please  indicate  whether  national  or  sub-national  education  policies,  frameworks  or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
@@ -322,7 +320,7 @@ Lifelong learning courses programmes:
 
 Sdg-3 health literacy programme
 
-http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Ki%C5%9Fisel%20Geli%C5%9Fim% 20ve%20E%C4%9Fitim_Sa%C4%9Fl%C4%B1k%20Okuryazarl%C4%B1%C4%9F%C4 %B1%20Kurs%20Program%C4%B1.pdf
+http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Ki%C5%9Fisel%20Geli%C5%9Fim%20ve%20E%C4%9Fitim_Sa%C4%9Fl%C4%B1k%20Okuryazarl%C4%B1%C4%9F%C4%B1%20Kurs%20Program%C4%B1.pdf
 
 Sdg-5 Violence Against Women and Prevention of Domestic Violence programme
 
@@ -330,15 +328,35 @@ http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/136-90-2020-0168.00.pdf
 
 Sdg-6 Waste water programme
 
-http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Aile%20ve%20T%C3%BCketici%20 Bilimleri_At%C4%B1k%20sular.pdf
+http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Aile%20ve%20T%C3%BCketici%20Bilimleri_At%C4%B1k%20sular.pdf
 
 Sdg-7 Solar Energy Systems Fundamentals Training Course Program
 
-http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Yenilenebilir%20Enerji%20Teknolojil eri_G%C3%BCne%C5%9F%20Enerjisi%20Sistemleri%20Temel%20E%C4%9Fitimi.pdf Energy Efficiency in Transportation, Time and Safe Traffic Management Training http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Ki%C5%9Fisel%20Geli%C5%9Fim% 20ve%20E%C4%9Fitim_Ula%C5%9F%C4%B1mda%20Enerji%20Verimlili%C4%9Fi%2 0Zaman%20ve%20G%C3%BCvenli%20Trafik%20Y%C3%B6netimi%20KP.pdf Renewable Energy Workshop http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Ki%C5%9Fisel%20Geli%C5%9Fim% 20ve%20E%C4%9Fitim_Yenilenebilir%20Enerji%20At%C3%B6lyesi_136-90-20200166.00.pdf Sdg-11 Development and Adaptation Training for Local Public Transport / Taxi Drivers http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Ula%C5%9Ft%C4%B1rma%20Hizme tleri_%C5%9Eehiri%C3%A7i%20Toplu%20Ula%C5%9F%C4%B1m%20Taksi%20S%C3 %BCr%C3%BCc%C3%BClerine%20Y%C3%B6nelik%20GUE-KP.pdf Urban Living Culture and Urban Behavior Development http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Ki%C5%9Fisel%20Geli%C5%9Fim% 20ve%20E%C4%9Fitim_%C5%9Eehirde%20Ya%C5%9Fama%20K%C3%BClt%C3%BC r%C3%BC%20ve%20Kentsel%20Davran%C4%B1%C5%9F%20Geli%C5%9Ftirme%20E %C4%9Fitimi%20KP.pdf Sdg-13 Fighting Global Climate Change Course Program http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/109000600-0.pdf
+http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Yenilenebilir%20Enerji%20Teknolojileri_G%C3%BCne%C5%9F%20Enerjisi%20Sistemleri%20Temel%20E%C4%9Fitimi.pdf
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+Energy Efficiency in Transportation, Time and Safe Traffic Management Training
+
+http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Ki%C5%9Fisel%20Geli%C5%9Fim%20ve%20E%C4%9Fitim_Ula%C5%9F%C4%B1mda%20Enerji%20Verimlili%C4%9Fi%20Zaman%20ve%20G%C3%BCvenli%20Trafik%20Y%C3%B6netimi%20KP.pdf
+
+Renewable Energy Workshop
+
+http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Ki%C5%9Fisel%20Geli%C5%9Fim%20ve%20E%C4%9Fitim_Yenilenebilir%20Enerji%20At%C3%B6lyesi_136-90-2020-0166.00.pdf
+
+Sdg-11 Development and Adaptation Training for Local Public Transport / Taxi Drivers
+
+http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Ula%C5%9Ft%C4%B1rma%20Hizmetleri_%C5%9Eehiri%C3%A7i%20Toplu%20Ula%C5%9F%C4%B1m%20Taksi%20S%C3%BCr%C3%BCc%C3%BClerine%20Y%C3%B6nelik%20GUE-KP.pdf
+
+Urban Living Culture and Urban Behavior Development
+
+http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/Ki%C5%9Fisel%20Geli%C5%9Fim%20ve%20E%C4%9Fitim_%C5%9Eehirde%20Ya%C5%9Fama%20K%C3%BClt%C3%BCr%C3%BC%20ve%20Kentsel%20Davran%C4%B1%C5%9F%20Geli%C5%9Ftirme%20E%C4%9Fitimi%20KP.pdf
+
+Sdg-13 Fighting Global Climate Change Course Program
+
+http://hbogm.meb.gov.tr/modulerprogramlar/kurslar/109000600-0.pdf
 
 #### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
@@ -361,7 +379,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -376,8 +396,6 @@ Science | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Other (please specify)
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 #### *B4 Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
@@ -401,7 +419,7 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
 3. | Human rights education | 1 | 1 | 1 | 1
-3.1 | equality and non- discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 1
+3.1 | equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 1
 3.2 | human rights values, human dignity, justice, inclusion and participation | 1 | 1 | 1 | 1
 3.3 | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 1 | 1 | 1 | 1
 
@@ -409,7 +427,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 16]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -441,7 +459,7 @@ Source: http://oygm.meb.gov.tr/dosyalar/StPrg/.
 
 #### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
 
-#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -452,7 +470,7 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 1 | 9
 For teachers of other subjects | 1 | 1 | 1 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -473,8 +491,6 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
 
-#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
-
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -484,14 +500,16 @@ Skills | 1 | 1 | 1 | 9
 Values | 1 | 1 | 1 | 9
 Attitudes and behaviours | 1 | 1 | 1 | 9
 
+#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 1
 Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
 Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 0
 Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 0
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 ### D. Student assessment (paras 4 and 5 of the 1974 Recommendation )
 
@@ -517,8 +535,6 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 
 #### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
 
-#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
-
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -531,6 +547,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 6. | Environmental sustainability | 1 | 1 | 1 | 1
 7. | Human survival and well-being | 1 | 1 | 1 | 1
 8. | Sustainable consumption and production | 1 | 1 | 1 | 1
+
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -616,9 +634,9 @@ In  vocational  and  technical  education,  students  gain  the  skills  demande
 
 #### G1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school  education,  etc.  Describe  briefly  the  outcomes and  impact  of such initiatives and provide examples of good practices.
 
-- 1There is an opportunity for people at any age in public education centers. People can take either general or vocational education free of charge. There is 3616 different kind of course programme that includes literature, vocational and language courses.
+1- There is an opportunity for people at any age in public education centers. People can take either general or vocational education free of charge. There is 3616 different kind of course programme that includes literature, vocational and language courses.
 
-- 2Programs aiming to provide knowledge, skills and competence in different fields for all segments of the society are carried out in the continuous education centers within the body of  higher  education  institutions.  Apart  from  academic  programs,  these  centers,  which enable  cooperation with various social segments, public institutions, private sector and international  organizations,  provide  courses,  seminars,  conferences,  vocational  training programs, certificate programs, corporate trainings, language programs and trainings for personal development for all age groups and in all subjects needed. In addition, trainings
+2- Programs aiming to provide knowledge, skills and competence in different fields for all segments of the society are carried out in the continuous education centers within the body of  higher  education  institutions.  Apart  from  academic  programs,  these  centers,  which enable  cooperation with various social segments, public institutions, private sector and international  organizations,  provide  courses,  seminars,  conferences,  vocational  training programs, certificate programs, corporate trainings, language programs and trainings for personal development for all age groups and in all subjects needed. In addition, trainings
 
 [[END OF PAGE 21]]
 
@@ -652,7 +670,9 @@ Depending on the Project, national dissemination of the results will be realized
 
 Let's Eat Healthy Project" is carried out with the aim of providing healthy life skills to early childhood students.
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -662,8 +682,6 @@ Support for programmes hosting foreign students, researchers and/or teachers | 1
 Membership of international networks including ASPnet | 1 | 1 | 1 | 1
 Joint research projects on GCED and/or ESD with foreign institutions | 1 | 1 | 1 | 1
 Other activities (please specify):
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 ### I. Any other comments
 
