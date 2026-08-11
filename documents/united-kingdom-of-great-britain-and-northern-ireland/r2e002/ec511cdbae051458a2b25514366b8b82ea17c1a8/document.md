@@ -26,13 +26,13 @@ The  National  Assembly  for  Wales  makes  the  following  Regulations  in  exe
 
 #### Citation, commencement and application
 
--(1)  These Regulations may be cited as the Child Minding and Day Care (Wales) Regulations 2002 and shall come into force on 1st April 2002.
+1.—(1) These Regulations may be cited as the Child Minding and Day Care (Wales) Regulations 2002 and shall come into force on 1st April 2002.
 
-- These Regulations apply in relation to persons who act as child minders or provide day care on relevant premises in Wales.
+(2) These Regulations apply in relation to persons who act as child minders or provide day care on relevant premises in Wales.
 
 #### Interpretation
 
--(1)  In these Regulations unless the context otherwise requires-
+2.—(1) In these Regulations unless the context otherwise requires—
 
 'the Act'(' y Ddeddf ') means the Children Act 1989;
 
@@ -682,13 +682,12 @@ Status: This is the original version (as it was originally made). This item of l
 
 Document Generated: 2020-09-10
 
-21 March 2002 (16.00)
-
 Status: This is the original version (as it was originally made). This
-
 item of legislation is currently only available in its original format.
 
 Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998( 9 ).
+
+21 March 2002 (16.00)
 
 D. Elis-Thomas
 
@@ -704,11 +703,13 @@ The Presiding Officer of the National Assembly
 
 [[START OF PAGE 14]]
 
-Document Generated: 2020-09-10 This is the original version (as it was originally made). This
+Document Generated: 2020-09-10
 
-Status: item of legislation is currently only available in its original format.
+Status: This is the original version (as it was originally made). This item of legislation is currently only available in its original format.
 
 ## SCHEDULE 1
+
+Regulation 2(1)
 
 ### STATEMENTS OF NATIONAL MINIMUM STANDARDS
 
@@ -726,15 +727,13 @@ Status: item of legislation is currently only available in its original format.
 
 ## SCHEDULE 2
 
-Regulation 2(1)
-
 Regulations 4 and 16
 
 ### INFORMATION REQUIRED IN RESPECT OF PERSONS SEEKING TO ACT AS OR WORK FOR CHILD MINDERS OR PROVIDERS OF DAY CARE
 
-- Proof of identity including a recent photograph.
+1. Proof of identity including a recent photograph.
 
-- Either-
+2. Either—
 
 (a) where the certificate is required for a purpose relating to section 115(5)(e) of the Police Act 1997 (registration under Part XA of the Children Act 1989) ( 10 ) or the position falls within section 115(3) of the Police Act 1997( 11 ), an enhanced criminal record certificate issued under section 115 of that Act in respect of which less than three years have elapsed since it was issued; or
 
@@ -778,47 +777,47 @@ which may be disclosed by virtue of the Rehabilitation of Offenders Act 1974 (Ex
 
 ## SCHEDULE 3
 
+Regulation 18
+
 ### RECORDS TO BE MAINTAINED
 
-- The name, address and telephone number of the registered person, the responsible individual and every other person living, working or employed on the relevant premises.
+1. The name, address and telephone number of the registered person, the responsible individual and every other person living, working or employed on the relevant premises.
 
-- The name, home address and telephone number of any other person who will regularly be in unsupervised contact with the relevant children.
+2. The name, home address and telephone number of any other person who will regularly be in unsupervised contact with the relevant children.
 
-- The name, home address, date of birth and sex of each relevant child.
+3. The name, home address, date of birth and sex of each relevant child.
 
-- In respect of each relevant child, the name, address and telephone number of a parent.
+4. In respect of each relevant child, the name, address and telephone number of a parent.
 
-- In respect of each relevant child, the name and address of the registered medical practitioner with whom the child is registered.
+5. In respect of each relevant child, the name and address of the registered medical practitioner with whom the child is registered.
 
-- A daily record of the names of the relevant children, their hours of attendance and the names of the persons who looked after them.
+6. A daily record of the names of the relevant children, their hours of attendance and the names of the persons who looked after them.
 
-- A record of accidents, serious illness and other significant events occurring on the relevant premises which affected the welfare of relevant children.
+7. A record of accidents, serious illness and other significant events occurring on the relevant premises which affected the welfare of relevant children.
 
-- A record of any medicinal product administered to a relevant child on the relevant premises, including the date and circumstances of its administration, by whom it was administered, including medicinal products which the child is permitted to administer to himself or herself, together with a record of a parent's consent.
+8. A record of any medicinal product administered to a relevant child on the relevant premises, including the date and circumstances of its administration, by whom it was administered, including medicinal products which the child is permitted to administer to himself or herself, together with a record of a parent's consent.
 
-- Any special dietary or health needs or allergy of any relevant child.
+9. Any special dietary or health needs or allergy of any relevant child.
 
-- A statement of the procedure to be followed in the event of a fire or accident.
+10. A statement of the procedure to be followed in the event of a fire or accident.
 
-- A statement of the procedure to be followed where a parent has a complaint about the service provided by the registered person.
+11. A statement of the procedure to be followed where a parent has a complaint about the service provided by the registered person.
 
-- A statement of the arrangements in place for the protection of relevant children, including arrangements to safeguard the children from abuse or neglect and procedures to be followed in the event of allegations of abuse or neglect.
+12. A statement of the arrangements in place for the protection of relevant children, including arrangements to safeguard the children from abuse or neglect and procedures to be followed in the event of allegations of abuse or neglect.
 
-- A statement of the procedure to be followed in the event of a relevant child being lost or not collected.
+13. A statement of the procedure to be followed in the event of a relevant child being lost or not collected.
 
 ## SCHEDULE 4
 
+Regulation 19
+
 ### EVENTS TO BE NOTIFIED TO THE NATIONAL ASSEMBLY
 
--(1)  In the case of child minding, a change of the following persons-
+1.—(1) In the case of child minding, a change of the following persons—
 
 (a) any person looking after children on the relevant premises, or
 
 ( 14 ) S.I. 1975/1023. Relevant amendments have been made by S.I. 1986/1249, S.I.1986/2268 and S.I.2001/1192.
-
-Regulation 19
-
-Regulation 18
 
 15
 
