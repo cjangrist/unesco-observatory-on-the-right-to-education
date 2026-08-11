@@ -31,6 +31,33 @@ T
 ## Arrangement of Clauses
 
 Clause
+PART I - DECLARATION OF RIGHTS 7
+1 Declaration of freedom..................................................................................7
+2 Slavery prohibited.........................................................................................7
+3 Conditions under which foreign labourers may be introduced ........................7
+4 Same law for all classes.................................................................................8
+5 Freedom of Worship .....................................................................................8
+6 Sabbath Day to be kept holy..........................................................................8
+7 Freedom of the press.....................................................................................8
+8 Freedom of petition.......................................................................................9
+9 Habeas Corpus..............................................................................................9
+10 Accused must be tried ...................................................................................9
+11 Procedure on indictment................................................................................9
+12 Accused cannot be tried twice .......................................................................9
+13 Charge cannot be altered ...............................................................................9
+14 Trial to be fair............................................................................................. 10
+15 Court to be unbiased ................................................................................... 10
+16 Premises cannot be searched without warrant .............................................. 10
+17 Government to be impartial......................................................................... 11
+18 Taxation - Compensation to be paid for property taken................................ 11
+19 Expenditure to be voted............................................................................... 11
+20 Retrospective laws ...................................................................................... 11
+21 Army subject to civil law ............................................................................ 11
+22 Guards and Militia ...................................................................................... 12
+23 Disabilities of convict ................................................................................. 12
+24 Public officer not to engage in trade ............................................................ 12
+25 (Repealed by Act 28 of 1978)....................................................................... 12
+26 (Repealed by Act 28 of 1978)....................................................................... 12
 
 to
 
@@ -45,6 +72,48 @@ Page 3
 Arrangement of Clauses CAP. 01.01
 
 Constitution of Tonga
+27 Age of maturity........................................................................................... 12
+28 Qualifications for jurors.............................................................................. 13
+29 Naturalization ............................................................................................. 13
+29A Law may declare specific naturalization...................................................... 13
+PART II - FORM OF GOVERNMENT 13
+30 Form of Government................................................................................... 13
+31 Government................................................................................................ 14
+31A Attorney General ........................................................................................ 14
+32 Succession to the Throne ............................................................................ 14
+33 Heir Apparent may not choose consort........................................................ 15
+34 Coronation oath .......................................................................................... 15
+35 Idiot not to succeed..................................................................................... 16
+36 King commands forces................................................................................ 16
+37 King may grant pardons.............................................................................. 16
+38 King’s relations with Parliament ................................................................. 16
+39 Treaties....................................................................................................... 16
+40 Foreign ministers........................................................................................ 16
+41 King's powers – Signature to Acts............................................................... 17
+42 Prince Regent ............................................................................................. 17
+43 Prince Regent, how appointed..................................................................... 17
+44 King may confer titles................................................................................. 17
+45 Coinage ...................................................................................................... 17
+46 Martial law ................................................................................................. 17
+47 National flag............................................................................................... 18
+48 Royal property............................................................................................ 18
+49 King exempt from action ............................................................................ 18
+PRIVY COUNCIL 18
+50 Constitution and powers of Privy Council ................................................... 18
+THE PRIME MINISTER 18
+50A The Prime Minister..................................................................................... 18
+50B Votes of No Confidence.............................................................................. 19
+CABINET 20
+51 Function, constitution and powers of Cabinet .............................................. 20
+52 Duties of Ministers ..................................................................................... 21
+53 Minister for Finance to report to Parliament ................................................ 21
+54 Governors – how appointed ........................................................................ 21
+55 Powers of Governors................................................................................... 21
+THE LEGISLATIVE ASSEMBLY 21
+56 Power of Legislative Assembly................................................................... 21
+57 Title............................................................................................................ 22
+58 Sessions...................................................................................................... 22
+59 Composition of Legislative Assembly ......................................................... 22
 
 to
 
@@ -59,6 +128,52 @@ Page 4
 Constitution of Tonga
 
 CAP. 01.01 Arrangement of Clauses
+60 Representative members.............................................................................. 22
+61 Speaker....................................................................................................... 22
+62 Rules of procedure ...................................................................................... 23
+63 Qualification of nobles................................................................................ 23
+64 Qualification of electors.............................................................................. 23
+65 Qualification of representatives................................................................... 24
+66 Threats and bribery ..................................................................................... 24
+67 Privilege of nobles ...................................................................................... 24
+68 King's veto precludes discussion ................................................................. 24
+69 Quorum ...................................................................................................... 24
+70 Offences against the Assembly.................................................................... 25
+71 Noble may be deprived of his seat ............................................................... 26
+72 Journal........................................................................................................ 26
+73 Immunity from arrest .................................................................................. 26
+74 Resignation................................................................................................. 26
+75 Impeachment .............................................................................................. 26
+76 Bye-elections .............................................................................................. 27
+77 General elections......................................................................................... 27
+78 Assembly to assess taxation ........................................................................ 27
+79 Amendments to Constitution ....................................................................... 27
+80 Enacting formula......................................................................................... 28
+81 Laws to cover but one subject...................................................................... 28
+82 Constitution is supreme law ........................................................................ 28
+83 Oaths of Councillors and Representatives.................................................... 28
+THE JUDICIARY 29
+83A Rule of Law and Judicial Independence....................................................... 29
+83B The Lord Chancellor ................................................................................... 29
+83C Judicial Appointments and Discipline Panel ................................................ 30
+84 The Courts.................................................................................................. 30
+85 The Court of Appeal ................................................................................... 31
+86 The Supreme Court ..................................................................................... 31
+86A The Land Court........................................................................................... 31
+87 Judges to hold office during good behaviour................................................ 32
+88 Acting Judge............................................................................................... 32
+89 Powers........................................................................................................ 32
+90 Jurisdiction of Supreme Court ..................................................................... 32
+91 Appeals from Supreme Court ...................................................................... 32
+92 Jurisdiction of Court of Appeal ................................................................... 33
+93 (Repealed by Act 23 of 1990)...................................................................... 33
+94 Judge may not hear appeal from own decision............................................. 33
+95 Oath of Judge.............................................................................................. 33
+96 Court fees ................................................................................................... 33
+97 Judge not to receive fine.............................................................................. 34
+98 (Repealed by Act 23 of 1990)....................................................................... 34
+99 Trial by jury................................................................................................ 34
+100 Form of verdict ........................................................................................... 34
 
 to
 
@@ -73,6 +188,26 @@ Page 5
 Arrangement of Clauses CAP. 01.01
 
 Constitution of Tonga
+101 Judge to direct jury ..................................................................................... 34
+102 Lord Chief Justice to report upon criminal statistics .................................... 34
+103 Powers of Magistrates................................................................................. 34
+103A Relief for breach of Constitution ................................................................. 35
+PART III - THE LAND 35
+104 Land vested in Crown – sale prohibited....................................................... 35
+105 Terms of leases........................................................................................... 35
+106 Form of deed .............................................................................................. 35
+107 Existing leases respected............................................................................. 35
+108 Church lands not to be sub-let without permission....................................... 35
+109 Beach frontage............................................................................................ 36
+110 Registration of deeds................................................................................... 36
+111 Law of succession....................................................................................... 36
+112 Estate without heirs to revert to the Crown .................................................. 37
+113 Right to allotments...................................................................................... 37
+114 No lease etc. without consent ...................................................................... 37
+115 Citation....................................................................................................... 37
+SCHEDULE 39
+PROCEDURE FOR APPOINTING A PRIME MINISTER 39
+ENDNOTES 41
 
 to
 
@@ -112,7 +247,7 @@ No person shall serve another against his will except he be undergoing punishmen
 
 Whoever may wish to bring persons from other islands to work for him may make an agreement with them for the number of years they will work for him and a copy
 
-to of the written agreement he makes with them shall be deposited in the Public Offices stating the amount of payment they shall receive the period they shall work and a promise to take them back to their own land. And the Government shall cause such contract  to  be  carried  out  both  on  behalf  of  those  who  engage  and  those  who  are engaged. And such persons being so introduced shall be subject to the laws of the land and shall pay the same Customs duties as all the people  in the Kingdom and taxes as shall be ordained by the King and his Cabinet. 3
+to
 
 2016 Revised Edition
 
@@ -125,6 +260,8 @@ Page 7
 Clause 4  CAP. 01.01
 
 Constitution of Tonga
+
+of the written agreement he makes with them shall be deposited in the Public Offices stating the amount of payment they shall receive the period they shall work and a promise to take them back to their own land. And the Government shall cause such contract to be carried out both on behalf of those who engage and those who are engaged. And such persons being so introduced shall be subject to the laws of the land and shall pay the same Customs duties as all the people in the Kingdom and taxes as shall be ordained by the King and his Cabinet. 3
 
 ## 4 Same law for all classes
 
@@ -140,11 +277,11 @@ The Sabbath Day shall be kept holy in Tonga and no person shall practise his tra
 
 ## 7 Freedom of the press
 
-- It shall be lawful for all people to speak write and print their opinions and no law  shall  ever  be  enacted  to  restrict  this  liberty.  There  shall  be  freedom  of speech  and  of  the  press  for  ever  but  nothing  in  this  clause  shall  be  held  to outweigh the law of defamation, official secrets or the laws for the protection of the King and the Royal Family. 6
+(1) It shall be lawful for all people to speak write and print their opinions and no law shall ever be enacted to restrict this liberty. There shall be freedom of speech and of the press for ever but nothing in this clause shall be held to outweigh the law of defamation, official secrets or the laws for the protection of the King and the Royal Family. 6
 
-- It  shall  be  lawful,  in  addition  to  the  exceptions  set  out  in  sub-clause  (1),  to enact  such  laws  as  are  considered  necessary  or  expedient  in  the  public interest,  national  security,  public  order,  morality,  cultural  traditions  of  the Kingdom,  or  privileges  of  the  Legislative  Assembly  and  to  provide  for contempt of Court and the commission of any offence. 7
+(2) It shall be lawful, in addition to the exceptions set out in sub-clause (1), to enact such laws as are considered necessary or expedient in the public interest, national security, public order, morality, cultural traditions of the Kingdom, or privileges of the Legislative Assembly and to provide for contempt of Court and the commission of any offence. 7
 
-- It shall be lawful to enact laws to regulate the operation of any media. 8
+(3) It shall be lawful to enact laws to regulate the operation of any media. 8
 
 to
 
@@ -182,9 +319,9 @@ No  one  shall  be  tried  again  for  any  offence  for  which  he  has  alread
 
 ## 13 Charge cannot be altered 11
 
-No  one  shall  be  tried  on  any  charge  but  that  which  appears  in  the  indictment, summons or warrant for which he is being brought to trial:
+No one shall be tried on any charge but that which appears in the indictment, summons or warrant for which he is being brought to trial:
 
-to Save and except that -
+to
 
 2016 Revised Edition
 
@@ -197,6 +334,8 @@ Page 9
 Clause 14  CAP. 01.01
 
 Constitution of Tonga
+
+Save and except that —
 
 (a) where the complete commission of the offence charged is  not proved but  the  evidence  establishes  an  attempt  to  commit  that  offence  the accused  may  be  convicted  of  this  attempt  and  punished  accordingly; and
 
@@ -254,9 +393,9 @@ It shall not be lawful to enact any retrospective laws in so far as they may cur
 
 ## 21 Army subject to civil law
 
-Every  soldier  shall  be  subject  to  the  laws  of  the  land  whether  he  belong  to  the Guards, the Artillery or to the Militia in accordance with the twenty-second clause and any soldier  who breaks the law of the  land shall  be tried  in the  courts as any other person. And it shall not be lawful for any officer to quarter any soldier upon
+Every soldier shall be subject to the laws of the land whether he belong to the Guards, the Artillery or to the Militia in accordance with the twenty-second clause and any soldier who breaks the law of the land shall be tried in the courts as any other person. And it shall not be lawful for any officer to quarter any soldier upon
 
-to the premises of anyone except in time of war and then only as may be resolved by the Legislative Assembly.
+to
 
 2016 Revised Edition
 
@@ -269,6 +408,8 @@ Page 11
 Clause 22  CAP. 01.01
 
 Constitution of Tonga
+
+the premises of anyone except in time of war and then only as may be resolved by the Legislative Assembly.
 
 ## 22 Guards and Militia
 
@@ -290,7 +431,7 @@ It shall not be lawful for anyone holding any office under the Government whethe
 
 ## 27 Age of maturity
 
-No person  may succeed to any tofi'a or  any  title  until  he  has  attained  the  age  of twenty  one  years, save for  members of the Royal Family  who  shall be  deemed to have attained maturity at eighteen years of age. 20
+No person may succeed to any tofi‘a or any title until he has attained the age of twenty one years, save for members of the Royal Family who shall be deemed to have attained maturity at eighteen years of age. 20
 
 to
 
@@ -316,9 +457,9 @@ Any foreigner after  he  has  resided  in  the  Kingdom  for  the  space  of  fi
 
 ## 29A  Law may declare specific naturalization 23
 
-- Notwithstanding clause 29 of this Constitution it shall be lawful for the King and  the  Legislative  Assembly  to  enact  specific  laws  declaring  any  persons whether  or  not  they  have  ever  resided  in  Tonga  to  be  or  to  have  become naturalized subjects of Tonga from any date. All persons who are declared to be naturalized subjects of Tonga by any such legislation shall have, and shall be deemed to have had from the effective dates  of their  naturalizations, the same rights and privileges as other foreigners becoming naturalized subjects of Tonga by the grant to them of Certificates of Naturalization.
+(1) Notwithstanding clause 29 of this Constitution it shall be lawful for the King and the Legislative Assembly to enact specific laws declaring any persons whether or not they have ever resided in Tonga to be or to have become naturalized subjects of Tonga from any date. All persons who are declared to be naturalized subjects of Tonga by any such legislation shall have, and shall be deemed to have had from the effective dates of their naturalizations, the same rights and privileges as other foreigners becoming naturalized subjects of Tonga by the grant to them of Certificates of Naturalization.
 
-- For the avoidance of doubt, Clause 20 of this Constitution shall not apply to any laws enacted in pursuance of sub-clause (1).
+(2) For the avoidance of doubt, Clause 20 of this Constitution shall not apply to any laws enacted in pursuance of sub-clause (1).
 
 # PART II - FORM OF GOVERNMENT
 
@@ -342,7 +483,7 @@ Constitution of Tonga
 
 ## 31 Government 25
 
-The Government of this Kingdom is divided into three Bodies-
+The Government of this Kingdom is divided into three Bodies—
 
 1st. The Cabinet;
 
@@ -352,7 +493,7 @@ The Government of this Kingdom is divided into three Bodies-
 
 ## 31A  Attorney General 26
 
-- The  King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall appoint an Attorney General, who shall:
+(1) The King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall appoint an Attorney General, who shall:
 
 (a) be the principal legal advisor to Cabinet and Government;
 
@@ -360,13 +501,13 @@ The Government of this Kingdom is divided into three Bodies-
 
 (c) perform any other functions and duties required under law.
 
-- The Attorney General shall, unless otherwise provided by law, have complete discretion to exercise his legal powers and duties, independently without any interference whatsoever from any person or authority.
+(2) The Attorney General shall, unless otherwise provided by law, have complete discretion to exercise his legal powers and duties, independently without any interference whatsoever from any person or authority.
 
-- The Attorney General shall be a person who is qualified to be a Judge of the Supreme  Court  and  he  shall,  subject  to  any  contractual  arrangements,  hold office during good behaviour.
+(3) The Attorney General shall be a person who is qualified to be a Judge of the Supreme Court and he shall, subject to any contractual arrangements, hold office during good behaviour.
 
-- The  King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall determine the terms of appointment of the Attorney General, and shall have the power to dismiss him.
+(4) The King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall determine the terms of appointment of the Attorney General, and shall have the power to dismiss him.
 
-- In the event of a vacancy in the office of the Attorney General, and pending the  appointment  of  an  Attorney  General  under  sub-clause  (1),  the  King  in Privy Council may appoint a suitably qualified person to be Attorney General ad interim, to hold office until a substantive appointment has been made. Any such appointee shall  have all the powers and privileges and perform all the duties of Attorney General as set forth in this clause. 27
+(5) In the event of a vacancy in the office of the Attorney General, and pending the appointment of an Attorney General under sub-clause (1), the King in Privy Council may appoint a suitably qualified person to be Attorney General ad interim, to hold office until a substantive appointment has been made. Any such appointee shall have all the powers and privileges and perform all the duties of Attorney General as set forth in this clause. 27
 
 ## 32 Succession to the Throne
 
@@ -402,13 +543,13 @@ And  in  the  event  of  there  being  none  to  succeed  according  to  this  l
 
 ## 33 Heir Apparent may not choose consort
 
-- It  shall  not  be  lawful  for  any  member  of  the  Royal  Family  who  is  likely  to succeed to the throne to  marry any person  without the  consent  of the King. And  if  any  person  should  thus  marry  the  marriage  shall  not  be  considered legal 28 and  it shall be  lawful for the King to cancel the right of such person and  his  heirs  to  succeed  to  the  Crown  of  Tonga. 29 And  the  next  person  in succession to him who so marries shall be declared the heir and the offender shall be regarded as dead.
+(1) It shall not be lawful for any member of the Royal Family who is likely to succeed to the throne to marry any person without the consent of the King. And if any person should thus marry the marriage shall not be considered legal28 and it shall be lawful for the King to cancel the right of such person and his heirs to succeed to the Crown of Tonga.29 And the next person in succession to him who so marries shall be declared the heir and the offender shall be regarded as dead.
 
-- The expression 'any member of the Royal Family who is likely to succeed to the throne' in the last preceding sub-clause shall be construed to include all persons  born  in  lawful  marriage  and  related  by  descent  either  lineally  or collaterally  to  the  King  but  not  more  than  twenty  times  removed  from  the King. 30
+(2) The expression “any member of the Royal Family who is likely to succeed to the throne” in the last preceding sub-clause shall be construed to include all persons born in lawful marriage and related by descent either lineally or collaterally to the King but not more than twenty times removed from the King.30
 
 ## 34 Coronation oath
 
-The following oath shall be taken by those who shall succeed to the throne-
+The following oath shall be taken by those who shall succeed to the throne—
 
 to
 
@@ -424,7 +565,7 @@ Clause 35  CAP. 01.01
 
 Constitution of Tonga
 
-'I solemnly  swear  before Almighty  God  to keep  in its integrity the Constitution of Tonga and to govern in conformity with the laws thereof.'.
+“I solemnly swear before Almighty God to keep in its integrity the Constitution of Tonga and to govern in conformity with the laws thereof.”.
 
 ## 35 Idiot not to succeed
 
@@ -464,7 +605,7 @@ Constitution of Tonga
 
 CAP. 01.01 Clause 41
 
-## 41 King's powers - Signature to Acts
+## 41 King's powers – Signature to Acts
 
 The King is the Sovereign of all the Chiefs and all the people. The person  of the King is  sacred.  He  reigns  the  country  but  ministers  are  responsible.  All  Acts  that have  passed  the  Legislative  Assembly  must  bear  the  King's  signature  before  they become law. 36
 
@@ -518,19 +659,19 @@ It shall not be lawful to sue the King in any court for a debt without the conse
 
 ### 50 Constitution and powers of Privy Council 37
 
-- The King shall appoint a Privy Council to provide him with advice. The Privy Council shall be composed of such people whom the King shall see fit to call to his Council.
+(1) The King shall appoint a Privy Council to provide him with advice. The Privy Council shall be composed of such people whom the King shall see fit to call to his Council.
 
-- If any case shall be heard in the Land Court relating to the determination of hereditary estates and titles, it shall be lawful for either party thereto to appeal to  the  King  in  Privy  Council  which  shall  determine  how  the  appeal  shall proceed and the judgment of the King in Privy Council shall be final.
+(2) If any case shall be heard in the Land Court relating to the determination of hereditary estates and titles, it shall be lawful for either party thereto to appeal to the King in Privy Council which shall determine how the appeal shall proceed and the judgment of the King in Privy Council shall be final.
 
-- Privy Council may by Order in Council regulate its own procedures.
+(3) Privy Council may by Order in Council regulate its own procedures.
 
 ## THE PRIME MINISTER
 
 ### 50A  The Prime Minister 38
 
-- The  King  shall  appoint  from  amongst  the  elected  representatives  a  Prime Minister  who  is  recommended  by  the  Legislative  Assembly  in  accordance with  the  procedure  set  out  in  the  Schedule  to,  or  clause  50B  of,  this Constitution.
+(1) The King shall appoint from amongst the elected representatives a Prime Minister who is recommended by the Legislative Assembly in accordance with the procedure set out in the Schedule to, or clause 50B of, this Constitution.
 
-- The Prime Minister shall hold office until -
+(2) The Prime Minister shall hold office until –
 
 (a) another Prime Minister is appointed in accordance with this Constitution;
 
@@ -554,21 +695,21 @@ CAP. 01.01 Clause 50B
 
 (d) he  becomes  ineligible  to  hold  the  office  in  accordance  with  this Constitution or any other law.
 
-- The Prime Minister shall  regularly  and  as  required  report  to  the  King  upon matters  that  have  arisen  with  the  government  and  upon  the  state  of  the country.
+(3) The Prime Minister shall regularly and as required report to the King upon matters that have arisen with the government and upon the state of the country.
 
 ### 50B  Votes of No Confidence 39
 
-- If  the  Legislative  Assembly  passes  a  motion  described  as  a  'Vote  of  no confidence in the Prime Minister' in accordance with this clause, then upon delivery of that resolution to the King by the Speaker, the Prime Minister and all  Ministers  shall  be  deemed  to  have  resigned  and  their  appointments revoked.
+(1) If the Legislative Assembly passes a motion described as a “Vote of no confidence in the Prime Minister” in accordance with this clause, then upon delivery of that resolution to the King by the Speaker, the Prime Minister and all Ministers shall be deemed to have resigned and their appointments revoked.
 
-- A vote of no confidence in the Prime Minister -
+(2) A vote of no confidence in the Prime Minister –
 
-(a) shall  not  be  moved  unless  at  least  5  working  days'  notice  of  the intention to move such a motion has been given to the Speaker; and
+(a) shall not be moved unless at least 5 working days’ notice of the intention to move such a motion has been given to the Speaker; and
 
-(b) shall be of no effect if made within 18 months after a general election has been held, nor within 6 months before the date by which an election shall be held in accordance with clause 77(1), or within 12 months after the  date  on which  the  last  such  motion  was  voted  upon  in  the Legislative Assembly.
+(b) shall be of no effect if made within 18 months after a general election has been held, nor within 6 months before the date by which an election shall be held in accordance with clause 77(1), or within 12 months after the date on which the last such motion was voted upon in the Legislative Assembly.
 
-- If within 48 hours of the revocation of the appointment of the Prime Minister and  all  Ministers  in  accordance  with  sub-clause  (1)  following  a  vote  of  no confidence in the Prime Minister, the Legislative Assembly passes a motion that recommends the appointment of another elected representative as Prime Minister, then upon delivery of that resolution to the King by the Speaker, the King shall appoint the person so nominated as the Prime Minister.
+(3) If within 48 hours of the revocation of the appointment of the Prime Minister and all Ministers in accordance with sub-clause (1) following a vote of no confidence in the Prime Minister, the Legislative Assembly passes a motion that recommends the appointment of another elected representative as Prime Minister, then upon delivery of that resolution to the King by the Speaker, the King shall appoint the person so nominated as the Prime Minister.
 
-- If  no recommendation is delivered to him in accordance with sub-clause (3) following a vote of no confidence in the Prime Minister, the King shall -
+(4) If no recommendation is delivered to him in accordance with sub-clause (3) following a vote of no confidence in the Prime Minister, the King shall –
 
 (a) dissolve the Legislative Assembly and command that a general election be held on a date not more than 90 days thereafter;
 
@@ -594,29 +735,30 @@ Constitution of Tonga
 
 ### 51 Function, constitution and powers of Cabinet 40
 
-- The executive authority of the Kingdom shall vest in the Cabinet, which shall be  collectively  responsible  to  the  Legislative  Assembly  for  the  executive functions of the Government.
+(1) The executive authority of the Kingdom shall vest in the Cabinet, which shall be collectively responsible to the Legislative Assembly for the executive functions of the Government.
 
-- The Cabinet shall consist of the Prime Minister and such other Ministers who are nominated by the Prime Minister and appointed by the King: Provided that -
+(2) The Cabinet shall consist of the Prime Minister and such other Ministers who are nominated by the Prime Minister and appointed by the King:
+Provided that –
 
 (a) the Prime Minister may nominate as Cabinet Ministers not more than 4 persons who are not elected representatives;
 
 (b) the Prime Minister and Cabinet shall be fewer in number than half of the number of elected members of the Legislative Assembly excluding the Speaker.
 
-- A Minister shall retain his position as Minister until -
+(3) A Minister shall retain his position as Minister until –
 
 (a) his appointment is revoked by the King on the recommendation of the Prime Minister or in accordance with clause 50B;
 
-(b) he  dies,  resigns  or  is  dismissed  from  office  following  impeachment under clause 75; or
+(b) he dies, resigns or is dismissed from office following impeachment under clause 75; or
 
-(c) he  becomes  ineligible  to  hold  the  office  in  accordance  with  this Constitution or any other law:
+(c) he becomes ineligible to hold the office in accordance with this Constitution or any other law:
 
-PROVIDED THAT: Following a general election, and when appointed under clause 50B(4)(c), Ministers shall be and remain as caretaker Ministers until their  appointments  are  revoked  or  continued  on  the  recommendation  of  the newly appointed Prime Minister; and during such period caretaker Ministers shall  not  incur  any  unusual  or  unnecessary  expenditure  without  the  written approval of the caretaker Minister for Finance.
+PROVIDED THAT: Following a general election, and when appointed under clause 50B(4)(c), Ministers shall be and remain as caretaker Ministers until their appointments are revoked or continued on the recommendation of the newly appointed Prime Minister; and during such period caretaker Ministers shall not incur any unusual or unnecessary expenditure without the written approval of the caretaker Minister for Finance.
 
-- The Prime Minister may assign and re-assign ministries to and amongst the Cabinet Ministers.
+(4) The Prime Minister may assign and re-assign ministries to and amongst the Cabinet Ministers.
 
-- Each  Minister  shall  draw  up  an  annual  report  to  the  Legislative  Assembly advising  of  the  activities  and  plans  of  his  ministry  and  if  the  Legislative Assembly  shall  wish  to  know  anything  concerning  the  ministry  of  any Minister he shall answer all questions put to him by the Legislative Assembly and report everything in connection with his ministry.
+(5) Each Minister shall draw up an annual report to the Legislative Assembly advising of the activities and plans of his ministry and if the Legislative Assembly shall wish to know anything concerning the ministry of any Minister he shall answer all questions put to him by the Legislative Assembly and report everything in connection with his ministry.
 
-- A  Minister  who  is  not  an  elected  representative  shall  sit  and  vote  in  the Legislative  Assembly and shall, unless  otherwise provided in any  Act, have
+(6) A Minister who is not an elected representative shall sit and vote in the Legislative Assembly and shall, unless otherwise provided in any Act, have
 
 Page 20
 
@@ -634,7 +776,7 @@ CAP. 01.01 Clause 52
 
 all  the  rights,  duties  and  responsibilities  of  an  elected  representative  except that he shall not be entitled to vote in any vote of no confidence in the Prime Minister under clause 50B.
 
-- The term 'executive authority' in sub-clause (1) excludes all powers vested in the King or the King in Council, whether by this Constitution, or any Act of the Legislative Assembly, any subordinate legislation, and Royal Prerogatives.
+(7) The term “executive authority” in sub-clause (1) excludes all powers vested in the King or the King in Council, whether by this Constitution, or any Act of the Legislative Assembly, any subordinate legislation, and Royal Prerogatives.
 
 ### 52 Duties of Ministers
 
@@ -644,9 +786,9 @@ Each  member of the Cabinet shall  have  an  office  in  Nuku'alofa  the  capita
 
 When  the  Legislative  Assembly  shall  meet  the  Treasurer  shall  present  to  the Legislative Assembly on behalf of the Cabinet an account of all moneys which have been received and expended during the current year or since the last meeting of the Assembly and the nature of the receipts and expenditure. 41
 
-### 54 Governors - how appointed
+### 54 Governors – how appointed
 
-The King shall appoint Governors to Ha'apai and Vava'u on the advice of the Prime Minister. 42
+The King shall appoint Governors to Ha'apai and Vava’u on the advice of the Prime Minister. 42
 
 ### 55 Powers of Governors
 
@@ -656,7 +798,7 @@ It shall not be lawful for a Governor to enact any law but he shall be responsib
 
 ### 56 Power of Legislative Assembly
 
-The  King  and  the  Legislative  Assembly  shall  have  power  to  enact  laws,  and  the representatives  of the  nobles and the representatives  of the people shall sit as one House. When the Legislative Assembly shall have agreed upon any Bill which has been read and voted for by a majority three times it shall be presented to the King for  his  sanction  and  after  receiving  his  sanction  and  signature  it  shall  become  law upon  publication.  Votes  shall  be  given  by  raising  the  hand  or  by  standing  up  in division or by saying 'Aye' or 'No'. 44
+The King and the Legislative Assembly shall have power to enact laws, and the representatives of the nobles and the representatives of the people shall sit as one House. When the Legislative Assembly shall have agreed upon any Bill which has been read and voted for by a majority three times it shall be presented to the King for his sanction and after receiving his sanction and signature it shall become law upon publication. Votes shall be given by raising the hand or by standing up in division or by saying “Aye” or “No”. 44
 
 to
 
@@ -682,7 +824,7 @@ The Legislative Assembly shall meet at least once in every twelve calendar month
 
 ### 59 Composition of Legislative Assembly 46
 
-- The Legislative Assembly shall be composed of -
+(1) The Legislative Assembly shall be composed of –
 
 (a) the representatives of the nobles;
 
@@ -690,7 +832,7 @@ The Legislative Assembly shall meet at least once in every twelve calendar month
 
 (c) all members of the Cabinet.
 
-- Cabinet Ministers who are elected representatives shall, unless dismissed after impeachment  under  clause 75, remain as members  of  the Legislative Assembly and representatives in their respective electoral constituency during their appointment as Minister.
+(2) Cabinet Ministers who are elected representatives shall, unless dismissed after impeachment under clause 75, remain as members of the Legislative Assembly and representatives in their respective electoral constituency during their appointment as Minister.
 
 ### 60 Representative members
 
@@ -700,9 +842,9 @@ Provided that the constituency boundaries for the general election of 2010 shall
 
 ### 61 Speaker 48
 
-- The King shall,  within  5  days  after  the  appointment  of  a  Prime  Minister  in accordance with clause 50A following a general election, appoint one of the elected representatives of the nobles on the recommendation of the Legislative Assembly, to be the Speaker of the Legislative Assembly.
+(1) The King shall, within 5 days after the appointment of a Prime Minister in accordance with clause 50A following a general election, appoint one of the elected representatives of the nobles on the recommendation of the Legislative Assembly, to be the Speaker of the Legislative Assembly.
 
-- The Speaker shall remain in office until -
+(2) The Speaker shall remain in office until –
 
 (a) the  King  appoints  an  Interim  Speaker  following  the  next  general election  in  accordance  with  subsection  (8)  of  the  Schedule  to  this Constitution;
 
@@ -724,15 +866,15 @@ CAP. 01.01 Clause 62
 
 (c) he dies, resigns or his appointment is revoked after he ceases to be an elected  representative  of  the  nobles  for  any  reason  other  than  the dissolution of the Legislative Assembly.
 
-- If the Prime Minister, with the approval of at least half of the members of the Legislative Assembly, recommends to the King that the Speaker be removed from office, the King shall revoke the Speaker's appointment and appoint a new Speaker on the recommendation of the Legislative Assembly.
+(3) If the Prime Minister, with the approval of at least half of the members of the Legislative Assembly, recommends to the King that the Speaker be removed from office, the King shall revoke the Speaker’s appointment and appoint a new Speaker on the recommendation of the Legislative Assembly.
 
-- The  King  shall  appoint  a  Speaker  within  7  days  of  the  occurrence  of  a vacancy.
+(4) The King shall appoint a Speaker within 7 days of the occurrence of a vacancy.
 
 ### 62 Rules of procedure 49
 
-- The  Legislative  Assembly  shall  make  its  own  rules  of  procedure  for  the conduct of its meetings.
+(1) The Legislative Assembly shall make its own rules of procedure for the conduct of its meetings.
 
-- Any member of the Legislative Assembly may, in accordance with its rules of procedure -
+(2) Any member of the Legislative Assembly may, in accordance with its rules of procedure –
 
 (a) introduce a Bill in the Assembly;
 
@@ -744,9 +886,9 @@ and  it  shall  be  dealt  with  in  accordance  with  the  Assembly's  rules  o
 
 ### 63 Qualification of nobles
 
-- No person shall succeed to the position of a noble who is insane or imbecile or who is disabled by the twenty-third clause.
+(1) No person shall succeed to the position of a noble who is insane or imbecile or who is disabled by the twenty-third clause.
 
-- Every noble shall be competent to  vote  in an  election for representatives  of the nobles and to sit in the Assembly if chosen according to law.
+(2) Every noble shall be competent to vote in an election for representatives of the nobles and to sit in the Assembly if chosen according to law.
 
 ### 64 Qualification of electors
 
@@ -804,41 +946,40 @@ CAP. 01.01 Clause 70
 
 ### 70 Offences against the Assembly 54
 
-- Any person who -
+(1) Any person who —
 
 (a) acts disrespectfully in the presence of the Legislative Assembly;
 
-(b) by  any  act  or  omission,  interferes  with,  obstructs  or  impedes  the Legislative Assembly in the performance of its function;
+(b) by any act or omission, interferes with, obstructs or impedes the Legislative Assembly in the performance of its function;
 
-(c) interferes  with,  obstructs  or  impedes  any  member  or  officer  of  the Legislative Assembly in the discharge of his duty;
+(c) interferes with, obstructs or impedes any member or officer of the Legislative Assembly in the discharge of his duty;
 
 (d) defames the Legislative Assembly;
 
 (e) threatens any member or his property; or
 
-(f) rescues  a  person  whose  arrest  has  been  ordered  by  the  Legislative Assembly,
+(f) rescues a person whose arrest has been ordered by the Legislative Assembly,
 
-may, by resolution of the Legislative Assembly, be imprisoned for any period not exceeding thirty days and if he is a member of the Assembly he may be suspended from the Assembly for up to thirty days  in substitution for or  in addition to any other penalty. 55
+may, by resolution of the Legislative Assembly, be imprisoned for any period not exceeding thirty days and if he is a member of the Assembly he may be suspended from the Assembly for up to thirty days in substitution for or in addition to any other penalty. 55
 
-(a) A penalty of  imprisonment imposed in accordance with this clause is not  affected  by  a  prorogation,  the  dissolution  or  expiration  of  the Legislative Assembly.
+(2)
+(a) A penalty of imprisonment imposed in accordance with this clause is not affected by a prorogation, the dissolution or expiration of the Legislative Assembly.
 
 (b) A resolution of the Legislative Assembly ordering the imprisonment of a person in accordance with this clause may provide for the discharge of the person from imprisonment.
 
-(c) Notwithstanding  the  power  to imprison  under  sub-clause  (1)  the Legislative Assembly may impose a fine -
+(c) Notwithstanding the power to imprison under sub-clause (1) the Legislative Assembly may impose a fine —
 
 (i) not exceeding $5,000, in the case of a natural person; or
 
 (ii) not exceeding $50,000, in the case of a corporation,
 
-for  an  offence  against  the  Legislative  Assembly  determined  by  the Assembly to have been committed by that person under this clause.
+for an offence against the Legislative Assembly determined by the Assembly to have been committed by that person under this clause.
 
 (d) It shall not be lawful to both imprison and fine a person for an offence under this clause.
 
-(e) The Legislative  Assembly  may give such  directions and authorise the issue of such warrants as are necessary or convenient for carrying this clause into effect.
+(e) The Legislative Assembly may give such directions and authorise the issue of such warrants as are necessary or convenient for carrying this clause into effect.
 
 to
-
-(2)
 
 2016 Revised Edition
 
@@ -870,15 +1011,15 @@ Any representative of the nobles or of the people who may wish to resign his sea
 
 ### 75 Impeachment
 
-- It  shall  be  lawful  for  a  member  of  the  Legislative  Assembly,  of  his  own volition or as the result of a written complaint  made  to him by any Tongan subject, to move the Assembly, in accordance with the rules of procedure, for the  impeachment  of  any  Minister  or  representative  of  the  nobles  or  of  the people for any of the following offences-
+(1) It shall be lawful for a member of the Legislative Assembly, of his own volition or as the result of a written complaint made to him by any Tongan subject, to move the Assembly, in accordance with the rules of procedure, for the impeachment of any Minister or representative of the nobles or of the people for any of the following offences—
 
-Breach of the laws or the resolutions of the Legislative Assembly, maladministration, incompetency, destruction or embezzlement of Government  property,  or  the  performance of acts  which may  lead to difficulties between this and another country. 60
+Breach of the laws or the resolutions of the Legislative Assembly, maladministration, incompetency, destruction or embezzlement of Government property, or the performance of acts which may lead to difficulties between this and another country. 60
 
-- The  impeached  person  shall  be  given  a  copy  of  the  accusation  in  writing seven days before the day of the trial.
+(2) The impeached person shall be given a copy of the accusation in writing seven days before the day of the trial.
 
-- The trial shall be conducted  in accordance  with the  eleventh clause and the Lord Chief Justice shall preside. 61
+(3) The trial shall be conducted in accordance with the eleventh clause and the Lord Chief Justice shall preside. 61
 
-- After the witnesses have been heard the impeached person shall withdraw and the Assembly shall consider their decision and upon a decision being made he shall be brought before the Assembly and the decision announced to him. If he be found guilty it shall be lawful to dismiss him from office but if acquitted
+(4) After the witnesses have been heard the impeached person shall withdraw and the Assembly shall consider their decision and upon a decision being made he shall be brought before the Assembly and the decision announced to him. If he be found guilty it shall be lawful to dismiss him from office but if acquitted
 
 to
 
@@ -902,11 +1043,11 @@ Upon the death or resignation of any representative of the nobles or of the peop
 
 ### 77 General elections 63
 
-- Elections shall ordinarily be held for all the representatives of the nobles and the  people  every  four  years,  and  if  not  earlier  dissolved  the  Legislative Assembly shall stand dissolved at the expiration of four years from the date of the last general election.
+(1) Elections shall ordinarily be held for all the representatives of the nobles and the people every four years, and if not earlier dissolved the Legislative Assembly shall stand dissolved at the expiration of four years from the date of the last general election.
 
-- It  shall  be  lawful  for  the  King,  at  his  pleasure,  to  dissolve  the  Legislative Assembly at any time and command that new elections be held.
+(2) It shall be lawful for the King, at his pleasure, to dissolve the Legislative Assembly at any time and command that new elections be held.
 
-- If  the  Legislative  Assembly  is  dissolved by the King  or by the  operation of sub-clause  (1),  the  King  shall,  after  consultation  with  the  Speaker  of  the Legislative Assembly, fix a date for a general election.
+(3) If the Legislative Assembly is dissolved by the King or by the operation of sub-clause (1), the King shall, after consultation with the Speaker of the Legislative Assembly, fix a date for a general election.
 
 ### 78 Assembly to assess taxation
 
@@ -932,7 +1073,7 @@ Constitution of Tonga
 
 ### 80 Enacting formula
 
-The formula for enacting laws shall be 'Be it enacted by the King and Legislative Assembly of Tonga in the Legislature of the Kingdom as follows:'.
+The formula for enacting laws shall be “Be it enacted by the King and Legislative Assembly of Tonga in the Legislature of the Kingdom as follows:”.
 
 ### 81 Laws to cover but one subject
 
@@ -946,15 +1087,15 @@ This  Constitution  is  the  supreme  law  of  the  Kingdom  and  if  any  other
 
 The following oath shall be taken by the members of the Privy Council:
 
-'I solemnly swear before God that I will be truly loyal to His Majesty King Tupou  VI  the  rightful  King  of  Tonga  and  that  I  will  keep  righteously  and perfectly  the  Constitution  of  Tonga  and  assist  to  the  end  of  my  power  and ability in all things in connection with the Privy Council'.
+“I solemnly swear before God that I will be truly loyal to His Majesty King Tupou VI the rightful King of Tonga and that I will keep righteously and perfectly the Constitution of Tonga and assist to the end of my power and ability in all things in connection with the Privy Council”.
 
 The following oath shall be taken by the ministers:
 
-'I solemnly swear before God that I will be truly loyal to His Majesty King Tupou  VI  the  rightful  King  of  Tonga  and  that  I  will  keep  righteously  and perfectly the Constitution of Tonga and discharge the duties of my department to the end of my ability for the benefit of the King and his Government'.
+“I solemnly swear before God that I will be truly loyal to His Majesty King Tupou VI the rightful King of Tonga and that I will keep righteously and perfectly the Constitution of Tonga and discharge the duties of my department to the end of my ability for the benefit of the King and his Government”.
 
 The following oath shall be taken by the nobles and representatives of the people:
 
-'I solemnly swear before God that I will be truly loyal to His Majesty King Tupou VI the rightful King of Tonga and that I will righteously and perfectly conform to and keep the Constitution of Tonga and zealously discharge my duties as a member of the Legislative Assembly'.
+“I solemnly swear before God that I will be truly loyal to His Majesty King Tupou VI the rightful King of Tonga and that I will righteously and perfectly conform to and keep the Constitution of Tonga and zealously discharge my duties as a member of the Legislative Assembly”.
 
 The members of the Privy Council shall sign their names to the oath and read it in the presence of the King. The ministers, the nobles and representatives of the people shall  sign  their  names  to  the  oath  and  read  it  in  the  presence  of  the  Legislative Assembly. 66
 
@@ -980,7 +1121,7 @@ The  existing  underlying  constitutional  principles  of  the  Rule  of  Law  a
 
 ### 83B  The Lord Chancellor 68
 
-- The  King in Privy Council, after receiving advice from the Judicial Appointments  and  Discipline  Panel,  shall  appoint  a  Lord  Chancellor  who shall have primary responsibility for -
+(1) The King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall appoint a Lord Chancellor who shall have primary responsibility for –
 
 (a) the administration of the courts;
 
@@ -988,11 +1129,11 @@ The  existing  underlying  constitutional  principles  of  the  Rule  of  Law  a
 
 (c) the maintenance of the rule of law; and
 
-(d) such related  matters as are specified  in this Constitution  or any  other Act.
+(d) such related matters as are specified in this Constitution or any other Act.
 
-- The Lord Chancellor shall, unless otherwise provided by law, have complete discretion to exercise his functions, powers and duties, independently without any interference whatsoever from any person or authority.
+(2) The Lord Chancellor shall, unless otherwise provided by law, have complete discretion to exercise his functions, powers and duties, independently without any interference whatsoever from any person or authority.
 
-- The  Lord  Chancellor  may,  with  the  consent  of  the  King  in  Privy  Council, make regulations for the following purposes -
+(3) The Lord Chancellor may, with the consent of the King in Privy Council, make regulations for the following purposes –
 
 (a) to establish an age at which the Attorney General, a Judge, a Magistrate and the Lord Chancellor shall retire from office;
 
@@ -1000,11 +1141,11 @@ The  existing  underlying  constitutional  principles  of  the  Rule  of  Law  a
 
 (c) to provide for administrative arrangements for and related to the Office of the Lord Chancellor.
 
-- The Lord Chancellor shall be a person who is qualified to be a Judge of the Supreme  Court  and  he  shall,  subject  to  any  contractual  arrangements,  hold office during good behaviour.
+(4) The Lord Chancellor shall be a person who is qualified to be a Judge of the Supreme Court and he shall, subject to any contractual arrangements, hold office during good behaviour.
 
-- The  King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall determine the terms of appointment of the Lord Chancellor, and shall have the power to dismiss him.
+(5) The King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall determine the terms of appointment of the Lord Chancellor, and shall have the power to dismiss him.
 
-- In the event of a vacancy in the office of the Lord Chancellor, and pending the appointment  of  a  Lord  Chancellor  under  sub-clause  (1),  the  King  in  Privy Council  may  appoint  a  suitably  qualified  person  to  be  Lord  Chancellor  ad interim,  to  hold  office  only  until  a  substantive  appointment  has  been  made. Any such appointee shall have all the powers and privileges and perform all the  duties  of  the  Lord  Chancellor  as  set  forth  in  this  clause  and  the  Lord Chancellor ad interim shall also be the Chairman of the Judicial Appointments and Discipline Panel constituted under clause 83C. 69
+(6) In the event of a vacancy in the office of the Lord Chancellor, and pending the appointment of a Lord Chancellor under sub-clause (1), the King in Privy Council may appoint a suitably qualified person to be Lord Chancellor ad interim, to hold office only until a substantive appointment has been made. Any such appointee shall have all the powers and privileges and perform all the duties of the Lord Chancellor as set forth in this clause and the Lord Chancellor ad interim shall also be the Chairman of the Judicial Appointments and Discipline Panel constituted under clause 83C. 69
 
 to
 
@@ -1022,7 +1163,7 @@ Constitution of Tonga
 
 ### 83C  Judicial Appointments and Discipline Panel 70
 
-- There is hereby established, as a Committee of the Privy Council, a Judicial Appointments and Discipline Panel comprising -
+(1) There is hereby established, as a Committee of the Privy Council, a Judicial Appointments and Discipline Panel comprising –
 
 (a) the Lord Chancellor, who shall be the Chairman;
 
@@ -1032,13 +1173,13 @@ Constitution of Tonga
 
 (d) the Law Lords, being such persons versed in the law as the King from time to time shall so appoint.
 
-- The Judicial Appointments and Discipline Panel shall recommend to the King in Privy Council -
+(2) The Judicial Appointments and Discipline Panel shall recommend to the King in Privy Council –
 
 (a) the appointment of eminently qualified persons to the Judiciary, and as Lord Chancellor and to any other office that the King requires;
 
 (b) the disciplining of members of the Judiciary;
 
-(c) the  dismissal  of  members  of  the  Judiciary  for  bad  behaviour  through gross misconduct or repeated breaches of the Code of Judicial Conduct;
+(c) the dismissal of members of the Judiciary for bad behaviour through gross misconduct or repeated breaches of the Code of Judicial Conduct;
 
 (d) the remuneration and terms of service of members of the Judiciary;
 
@@ -1048,17 +1189,17 @@ Constitution of Tonga
 
 (g) the appointment of assessors to the Panel of Land Court Assessors.
 
-- At any meeting of the Judicial Appointments and Discipline Panel the quorum shall  be  three,  namely  the  Lord  Chancellor  (or  anyone  appointed  to  act  as Lord Chancellor ad interim);  one  of  the  Lord  Chief  Justice  or  the  Attorney General (or anyone appointed to act as Attorney General ad interim); and not less than one of the Law Lords. 71
+(3) At any meeting of the Judicial Appointments and Discipline Panel the quorum shall be three, namely the Lord Chancellor (or anyone appointed to act as Lord Chancellor ad interim); one of the Lord Chief Justice or the Attorney General (or anyone appointed to act as Attorney General ad interim); and not less than one of the Law Lords. 71
 
 ### 84 The Courts 72
 
-- The judicial power of the Kingdom shall be vested in the superior courts of the Kingdom (namely the Court of Appeal, the Supreme Court, and the Land Court) and a subordinate court namely the Magistrate's Court.
+(1) The judicial power of the Kingdom shall be vested in the superior courts of the Kingdom (namely the Court of Appeal, the Supreme Court, and the Land Court) and a subordinate court namely the Magistrate's Court.
 
-- The Judiciary of the Kingdom shall comprise -
+(2) The Judiciary of the Kingdom shall comprise –
 
 (a) the Lord President of the Court of Appeal and Judges of the Court of Appeal;
 
-(b) the  Lord  Chief  Justice,  who  shall  be  the  professional  Head  of  the Judiciary, and Judges of the Supreme Court;
+(b) the Lord Chief Justice, who shall be the professional Head of the Judiciary, and Judges of the Supreme Court;
 
 (c) the Lord President of the Land Court and Judges of the Land Court; and
 
@@ -1080,9 +1221,9 @@ CAP. 01.01 Clause 85
 
 ### 85 The Court of Appeal 73
 
-- The  Court  of  Appeal  shall  consist  of  the  Lord  President  of  the  Court  of Appeal and of such other judges as may be appointed from time to time by the King  with  the  consent  of  Privy  Council,  after  receiving  advice  from  the Judicial Appointments and Discipline Panel:
+(1) The Court of Appeal shall consist of the Lord President of the Court of Appeal and of such other judges as may be appointed from time to time by the King with the consent of Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel:
 
-Provided that no person shall be appointed unless-
+Provided that no person shall be appointed unless—
 
 (a) he holds, or has held, high judicial office; or
 
@@ -1092,27 +1233,27 @@ Provided that no person shall be appointed unless-
 
 (ii) he has been qualified so to practise for not less than ten years.
 
-- The  King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall determine the terms of appointment of the Judges of the Court of Appeal and may dismiss them.
+(2) The King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall determine the terms of appointment of the Judges of the Court of Appeal and may dismiss them.
 
 ### 86 The Supreme Court 74
 
-- The Supreme Court shall consist of the Lord Chief Justice, who shall be the professional Head of the Judiciary, and such other judges as may be appointed from time to time by the King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel:
+(1) The Supreme Court shall consist of the Lord Chief Justice, who shall be the professional Head of the Judiciary, and such other judges as may be appointed from time to time by the King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel:
 
-Provided that no person shall be appointed unless -
+Provided that no person shall be appointed unless —
 
 (a) he holds, or has held, high judicial office; or
 
 (b)
 
-(i) he is qualified to practise as an advocate in a court in some part of  the  Commonwealth  having  unlimited  jurisdiction  in  civil  or criminal matters; and
+(i) he is qualified to practise as an advocate in a court in some part of the Commonwealth having unlimited jurisdiction in civil or criminal matters; and
 
 (ii) he has been qualified so to practise for not less than ten years.
 
-- The  King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall determine the terms of appointment of the Lord Chief Justice and Judges of the Supreme Court, and may dismiss them.
+(2) The King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall determine the terms of appointment of the Lord Chief Justice and Judges of the Supreme Court, and may dismiss them.
 
 ### 86A  The Land Court 75
 
-- The Land Court shall consist of a Lord President and other Judges, assisted by assessors, as may be appointed from time to time by the King with the consent of Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel.
+(1) The Land Court shall consist of a Lord President and other Judges, assisted by assessors, as may be appointed from time to time by the King with the consent of Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel.
 
 to
 
@@ -1130,7 +1271,7 @@ CAP. 01.01
 
 Constitution of Tonga
 
-- The  King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall determine the terms of appointment of the Lord President and Judges of the Land Court and may dismiss them.
+(2) The King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, shall determine the terms of appointment of the Lord President and Judges of the Land Court and may dismiss them.
 
 ### 87 Judges to hold office during good behaviour 76
 
@@ -1140,9 +1281,9 @@ Provided that it shall be lawful to appoint Judges of the Supreme Court and Cour
 
 ### 88 Acting Judge
 
-- It  shall be  lawful  for the King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, at any time during the illness or  absence  of  any  judge,  or  for  any  other  temporary  purpose  to  appoint  an acting judge for the period during which the judge is ill or absent or for the period necessary to effect the temporary purpose. 77
+(1) It shall be lawful for the King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel, at any time during the illness or absence of any judge, or for any other temporary purpose to appoint an acting judge for the period during which the judge is ill or absent or for the period necessary to effect the temporary purpose. 77
 
-- An acting judge shall have the jurisdiction and powers of, and may exercise all  the  authorities  which  are  vested  in  or  may  be  exercised  by  a  judge  and shall be paid such salary as may be determined by the King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel. 78
+(2) An acting judge shall have the jurisdiction and powers of, and may exercise all the authorities which are vested in or may be exercised by a judge and shall be paid such salary as may be determined by the King in Privy Council, after receiving advice from the Judicial Appointments and Discipline Panel. 78
 
 ### 89 Powers
 
@@ -1154,7 +1295,7 @@ The Supreme Court shall  have  jurisdiction  in  all  cases  in  Law  and  Equit
 
 ### 91 Appeals from Supreme Court
 
-- Subject to the provisions of any Act of the Legislative Assembly relating to appeals  to  the  Court  of  Appeal,  a  party  to  any  proceedings  in  the  Supreme
+(1) Subject to the provisions of any Act of the Legislative Assembly relating to appeals to the Court of Appeal, a party to any proceedings in the Supreme
 
 to
 
@@ -1172,7 +1313,7 @@ CAP. 01.01 Clause 92
 
 Court  or  Land  Court  (excepting  matters  relating  to  the  determination  of hereditary  estates  and  titles)  who  is  aggrieved  by  a  decision  given  in  those proceedings  by  that  Court,  or  a  judge  thereof,  sitting  in  first  instance,  may appeal to the Court of Appeal against such decision. 80
 
-- Except as  may  be  provided  by  any  Act  of  the  Legislative  Assembly,  or  by rules  in  respect  of  limited  classes  of  appeals,  no  appeal  shall  be  finally determined by less than three members of the Court of Appeal. 81
+(2) Except as may be provided by any Act of the Legislative Assembly, or by rules in respect of limited classes of appeals, no appeal shall be finally determined by less than three members of the Court of Appeal. 81
 
 ### 92 Jurisdiction of Court of Appeal
 
@@ -1188,13 +1329,13 @@ It  shall  not  be  lawful  for  any  judge  to  sit  or  adjudicate  upon  an  
 
 The Lord Chief Justice and any other judge shall take the following oath:
 
-'I  swear  in  the  presence  of  God  that  I  will  be  loyal  to  His  Majesty  King Tupou VI the  lawful  King  of  Tonga  and  that  I  will  perform  truly  and  with impartiality my duties as a judge in accordance with the Constitution and the Laws of the Kingdom'.
+“I swear in the presence of God that I will be loyal to His Majesty King Tupou VI the lawful King of Tonga and that I will perform truly and with impartiality my duties as a judge in accordance with the Constitution and the Laws of the Kingdom”.
 
 The judge shall read and sign this oath in the presence of the Cabinet:
 
 Provided that a Lord Chief Justice or any other judge, who is not a Tongan subject, shall take the following oath in lieu of the foregoing oath:
 
-'I swear in the presence of God that I will perform truly and with impartiality my duties as a judge in accordance with the Constitution and the Laws of the Kingdom . 83
+“I swear in the presence of God that I will perform truly and with impartiality my duties as a judge in accordance with the Constitution and the Laws of the Kingdom . 83
 
 ### 96 Court fees
 
@@ -1260,7 +1401,7 @@ The  remedy  for  breach  of  any  provisions  of  the  Constitution  shall  be 
 
 # PART III - THE LAND
 
-## 104 Land vested in Crown - sale prohibited
+## 104 Land vested in Crown – sale prohibited
 
 All the land is the property of the King and he may at pleasure grant to the nobles and  titular  chiefs  or  matabules  one  or  more  estates  to  become  their  hereditary estates.  It  is  hereby  declared  by  this  Constitution  that  it  shall  not  be  lawful  for anyone at any time hereafter whether he be the King or any one of the chiefs or the people of this country to sell any land whatever in the Kingdom of Tonga but they may lease it only in accordance with this Constitution and mortgage it in accordance with  the  Land  Act.  And  this  declaration  shall  become  a  covenant  binding  on  the King and chiefs of this Kingdom for themselves and their heirs and successors for ever . 86
 
@@ -1280,7 +1421,7 @@ This  Constitution  shall  not  affect  any  leases  which  have  been  granted 
 
 No leases of any town site shall in future be granted to any religious body for any purpose unless there are thirty adults, male and female, of such church in that town,
 
-to and it shall not be lawful for any religious body to use such leased lands for other than  religious  purposes  or  to  sub-let  to  any  person  without  the  prior  consent  of Cabinet, and upon satisfactory proof before a Court that any such land has been sublet  without  consent, such  land shall revert to the person from  whom the  land  was leased, or to his successor in title as the case may be. 89
+to
 
 2016 Revised Edition
 
@@ -1293,6 +1434,8 @@ Page 35
 Clause 109  CAP. 01.01
 
 Constitution of Tonga
+
+and it shall not be lawful for any religious body to use such leased lands for other than religious purposes or to sub-let to any person without the prior consent of Cabinet, and upon satisfactory proof before a Court that any such land has been sub-let without consent, such land shall revert to the person from whom the land was leased, or to his successor in title as the case may be. 89
 
 ## 109 Beach frontage
 
@@ -1326,7 +1469,7 @@ CAP. 01.01 Clause 112
 
 Whereas by Tongan custom provision has always been made that an adopted child might  succeed  to  the  estates  and  titles  of  his  adoptive  father  now  therefore  it  is decreed that upon the death of the holder of an estate or title who has inherited such estate or title by virtue of his blood descent from such adopted child the estate and title shall revert to the descendant by blood of the original holder of the estate and title  in  accordance  with  the  provisions  of  this  clause  and  should  there  be  alive  no such descendant by blood the provisions of the one hundred and twelfth clause shall apply .
 
-And whereas by Tongan custom the noble Niukapu forms part of the 'Ulutolu line, now  therefore  it  is  decreed  that  in  the  event  the  holder  of  the  estate  and  title  of Niukapu is  not  a  descendant  by  blood  of  the  original  Niukapu  before  1875,  such estate and title shall revert at the death of such holder to a descendant by blood of the Niukapu line. 92
+And whereas by Tongan custom the noble Niukapu forms part of the ‘Ulutolu line, now therefore it is decreed that in the event the holder of the estate and title of Niukapu is not a descendant by blood of the original Niukapu before 1875, such estate and title shall revert at the death of such holder to a descendant by blood of the Niukapu line. 92
 
 ## 112 Estate without heirs to revert to the Crown
 
@@ -1338,7 +1481,7 @@ Tongan male subjects by birth of or over the age of 16 years may be granted town
 
 ## 114 No lease etc. without consent
 
-No lease, sub-lease, transfer of a lease or of a sub-lease shall be granted-
+No lease, sub-lease, transfer of a lease or of a sub-lease shall be granted—
 
 (a) without  the  prior  consent  of  Cabinet  where  the  term  is  ninety-nine years, or less, or
 
@@ -1384,7 +1527,7 @@ CAP. 01.01 Clause 115
 
 (clause 50A)
 
-- The  Legislative  Assembly  shall  recommend  the  appointment  of  a  Prime Minister as follows -
+(1) The Legislative Assembly shall recommend the appointment of a Prime Minister as follows –
 
 (a) within 10 days from the return of the writs of election after a general election has taken place, the Interim Speaker appointed under subsection (8) of this Schedule shall invite all elected representatives to submit  to  him  their  nominations  for  Prime  Minister  Designate,  to  be duly seconded by 2 other elected representatives and to be received by the  Interim  Speaker  within  14  days  from  the  return  of  the  writs  of election;  and  no  representative  who  has  proposed  or  seconded  a candidate may propose or second any other;
 
@@ -1414,19 +1557,19 @@ Constitution of Tonga
 
 votes cast; and the Interim Speaker shall report to the King that the duly elected  representatives  recommend  the  appointment  of  that  person  as Prime Minister Designate.
 
-- If the representatives fail to make  a  recommendation  to  the  King  in accordance  with  the  procedure  in  subsection  (1)  of  this  Schedule,  the  King may extend any of the times specified and may authorise the Interim Speaker to vary such procedure to enable a recommendation to be made.
+(2) If the representatives fail to make a recommendation to the King in accordance with the procedure in subsection (1) of this Schedule, the King may extend any of the times specified and may authorise the Interim Speaker to vary such procedure to enable a recommendation to be made.
 
-- Upon receipt by the King from the Interim Speaker of the recommendation of the  elected  representatives  under  subsection  (1)  of  this  Schedule,  the  Lord Chamberlain shall then summon the Prime Minister Designate to be appointed by the King.
+(3) Upon receipt by the King from the Interim Speaker of the recommendation of the elected representatives under subsection (1) of this Schedule, the Lord Chamberlain shall then summon the Prime Minister Designate to be appointed by the King.
 
-- The  Prime  Minister  shall  take  his  oath  of  office  before  the  Legislative Assembly at its first sitting.
+(4) The Prime Minister shall take his oath of office before the Legislative Assembly at its first sitting.
 
-- The Legislative Assembly shall also recommend the appointment of a Prime Minister following a vote of no confidence, in the manner provided in clause 50B of this Constitution.
+(5) The Legislative Assembly shall also recommend the appointment of a Prime Minister following a vote of no confidence, in the manner provided in clause 50B of this Constitution.
 
-- In the event of any other vacancy occurring in the office of Prime Minister, except  following  a  vote  of  no  confidence,  the  procedure  specified  in  this Schedule shall be followed to enable the King to appoint a Prime Minister on the  recommendation  of  the  Legislative  Assembly,  but  in  such  case  the Speaker  shall  perform  the  role  of  the  Interim  Speaker  specified  in  this Schedule.
+(6) In the event of any other vacancy occurring in the office of Prime Minister, except following a vote of no confidence, the procedure specified in this Schedule shall be followed to enable the King to appoint a Prime Minister on the recommendation of the Legislative Assembly, but in such case the Speaker shall perform the role of the Interim Speaker specified in this Schedule.
 
-- Any dispute arising out of or in connection with the calling or conduct of any meeting under this Schedule or the election or recommendation of the Prime Minister under this Schedule shall be  determined by  the  Interim Speaker in consultation with the King.
+(7) Any dispute arising out of or in connection with the calling or conduct of any meeting under this Schedule or the election or recommendation of the Prime Minister under this Schedule shall be determined by the Interim Speaker in consultation with the King.
 
-- For  the  purposes  of  this  Schedule,  the  King  shall  within  7  days  of  the declaration of the result of a general election, appoint a person who was not a candidate at the general election to be the Interim Speaker of the Assembly, and such person shall hold office as Interim Speaker until a Speaker is next appointed under clause 61 of this Constitution.
+(8) For the purposes of this Schedule, the King shall within 7 days of the declaration of the result of a general election, appoint a person who was not a candidate at the general election to be the Interim Speaker of the Assembly, and such person shall hold office as Interim Speaker until a Speaker is next appointed under clause 61 of this Constitution.
 
 to
 
@@ -1476,7 +1619,7 @@ Act 3 of 2013 | 3 May 2013
 
 > 6 Amended by Act 23 of 1990
 
-> 7 Inserted by Act 17 of 2003 but NB parts of clause 7(2) were held by the Chief Justice in Taione v Kingdom of Tonga [2005] TLR 67 to be void and in that judgment the Chief Justice concluded that it must read - '(2) It shall be lawful, in addition to the exceptions set out in sub-clause (1), to  enact  such  laws  as  are  considered  necessary  in  national  security,  public  order,  morality, privileges of the Legislative Assembly and to provide for contempt of Court.'
+> 7 Inserted by Act 17 of 2003 but NB parts of clause 7(2) were held by the Chief Justice in Taione v Kingdom of Tonga [2005] TLR 67 to be void and in that judgment the Chief Justice concluded that it must read – “(2) It shall be lawful, in addition to the exceptions set out in sub-clause (1), to enact such laws as are considered necessary in national security, public order, morality, privileges of the Legislative Assembly and to provide for contempt of Court.”
 
 to
 
@@ -1492,7 +1635,7 @@ Endnotes CAP. 01.01
 
 Constitution of Tonga
 
-- 8 Inserted  by  Act  17  of  2003  the  Chief  Justice  in  Taione  v  Kingdom  of  Tonga  [2005]  TLR  67 concluded 'Clause 7(3) of the Constitution is not inconsistent with the entrenching provisions of Clauses 7 and 79 of the Constitution and so is valid, provided that it must be read as subject to the implied term that laws can only be made under it if they are necessary in terms of a pressing social  need,  and  provided  they  are  no  more  than  proportionate  to  the  legitimate  aim  being pursued and do not involve prior restraint of freedom of expression, except in cases of clear and present danger.'
+- 8 Inserted by Act 17 of 2003 the Chief Justice in Taione v Kingdom of Tonga [2005] TLR 67 concluded “Clause 7(3) of the Constitution is not inconsistent with the entrenching provisions of Clauses 7 and 79 of the Constitution and so is valid, provided that it must be read as subject to the implied term that laws can only be made under it if they are necessary in terms of a pressing social need, and provided they are no more than proportionate to the legitimate aim being pursued and do not involve prior restraint of freedom of expression, except in cases of clear and present danger.”
 
 - 9 Amended by Act 8 of 1972
 
@@ -1534,17 +1677,17 @@ Constitution of Tonga
 
 - 28 See G 12/69 and Act 4 of 1970 relating to Her Highness Princess Mele Siuilikutapu
 
-See G 133/80 and Act 7 of 1980 relating to Hon. Fatafehi 'Alaivahamama'o Tuku'aho
+See G 133/80 and Act 7 of 1980 relating to Hon. Fatafehi ‘Alaivahamama‘o Tuku‘aho
 
-- 29 See the Proclamation made on 7 November 1980 at G 165/1980 (also at page S-2 of Cap 2 in the 1988 Revised Edition) which provides -
+- 29 See the Proclamation made on 7 November 1980 at G 165/1980 (also at page S-2 of Cap 2 in the 1988 Revised Edition) which provides —
 
-'TAUFA'AHAU TUPOU IV , by the Grace of God, King of the Kingdom of Tonga, to all to whom these presents shall come, Greetings:
+“TAUFA‘AHAU TUPOU IV, by the Grace of God, King of the Kingdom of Tonga, to all to whom these presents shall come, Greetings:
 
-WHEREAS Clause 33 of the Act of Constitution of Tonga provides that -
+WHEREAS Clause 33 of the Act of Constitution of Tonga provides that —
 
-'It shall not be lawful for any member of the Royal Family who is likely to succeed to the Throne to marry any person without the consent of the King. And if any person should thus marry the marriage shall not be considered legal and it shall be lawful for the King to cancel the right of such person and his heirs to succeed to the Crown of Tonga.'
+“It shall not be lawful for any member of the Royal Family who is likely to succeed to the Throne to marry any person without the consent of the King. And if any person should thus marry the marriage shall not be considered legal and it shall be lawful for the King to cancel the right of such person and his heirs to succeed to the Crown of Tonga.”
 
-AND WHEREAS His Royal Highness Prince Fatafehi 'Alaivahamama'o Tuku'aho the second son of His Majesty who is likely to succeed to the Throne married in the State of Hawaii on the 21st day of July 1980 without the consent of His Majesty the King:
+AND WHEREAS His Royal Highness Prince Fatafehi ‘Alaivahamama‘o Tuku‘aho the second son of His Majesty who is likely to succeed to the Throne married in the State of Hawaii on the 21st day of July 1980 without the consent of His Majesty the King:
 
 to
 
@@ -1560,75 +1703,73 @@ Constitution of Tonga
 
 CAP. 01.01 Endnotes
 
-> 30
+NOW THEREFORE, I, TAUFA‘AHAU TUPOU IV, King of the Kingdom of Tonga, in exercise of my powers under the Act of Constitution of Tonga, DO HEREBY NOTIFY AND PROCLAIM that I CANCEL the rights of His Royal Highness Prince Fatafehi ‘Alaivahamama‘o Tuku‘aho and his heirs to succeed to the Crown of Tonga.
 
-- 31
+WHEREOF let all men take notice and govern themselves accordingly.”
 
-- 32
+- 30 Inserted by Act 3 of 1971
 
-- 33
+- 31 Amended by Act 23 of 1990
 
-- 34
+- 32 Amended by Act 23 of 1990
 
-- 35
+- 33 Substituted by Act 20 of 2010
 
-- 36
+- 34 Law No. 1 of 1914
 
-- 37
+- 35 Amended by Act 20 of 2010
 
-- 38
+- 36 Amended by Act 20 of 2010
 
-- 39
+- 37 Substituted by Act 20 of 2010
 
-- 40
+- 38 Inserted by Act 20 of 2010
 
-- 41
+- 39 Inserted by Act 20 of 2010
 
-- 42
+- 40 Substituted by Act 20 of 2010
 
-- 43
+- 41 Amended by Act 20 of 2010
 
-- 44
+- 42 Substituted by Act 20 of 2010
 
-- 45
+- 43 Amended by Act 20 of 2010
 
-- 46
+- 44 Law 1 of 1914
 
-- 47
+- 45 Law 1 of 1914
 
-- 48
+- 46 Substituted by Act 20 of 2010
 
-- 49
+- 47 Substituted by Act 14 of 2010
 
-- 50
+- 48 Substituted by Act 20 of 2010
 
-- 51
+- 49 Substituted by Act 20 of 2010
 
-- 52
+- 50 Substituted by Act 14 of 2010
 
-- 53
+- 51 Substituted by Act 14 of 2010
 
-- 54
+- 52 Law 1 of 1914
 
-- 55
+- 53 Law 1 of 1914
 
-- 56
+- 54 Substituted by Act 18 of 1999
 
-- 57
+- 55 Amended by Act 20 of 2010
 
-- 58
+- 56 Substituted by Act 20 of 2010
 
-- 59
+- 57 Law 1 of 1914
 
-- 60
+- 58 Law 1 of 1914
 
-61
+- 59 Law 1 of 1914
 
-NOW THEREFORE, I, TAUFA'AHAU TUPOU IV , King of the Kingdom of Tonga, in exercise of my powers under the Act of Constitution of Tonga, DO HEREBY NOTIFY AND PROCLAIM that I CANCEL the rights of His Royal Highness Prince Fatafehi 'Alaivahamama'o Tuku'aho and his heirs to succeed to the Crown of Tonga.
+- 60 Law 1 of 1914
 
-WHEREOF let all men take notice and govern themselves accordingly.'
-
-Inserted by Act 3 of 1971 Amended by Act 23 of 1990 Amended by Act 23 of 1990 Substituted by Act 20 of 2010 Law No. 1 of 1914 Amended by Act 20 of 2010 Amended by Act 20 of 2010 Substituted by Act 20 of 2010 Inserted by Act 20 of 2010 Inserted by Act 20 of 2010 Substituted by Act 20 of 2010 Amended by Act 20 of 2010 Substituted by Act 20 of 2010 Amended by Act 20 of 2010 Law 1 of 1914 Law 1 of 1914 Substituted by Act 20 of 2010 Substituted by Act 14 of 2010 Substituted by Act 20 of 2010 Substituted by Act 20 of 2010 Substituted by Act 14 of 2010 Substituted by Act 14 of 2010 Law 1 of 1914 Law 1 of 1914 Substituted by Act 18 of 1999 Amended by Act 20 of 2010 Substituted by Act 20 of 2010 Law 1 of 1914 Law 1 of 1914 Law 1 of 1914 Law 1 of 1914 Substituted by Act 20 of 2010
+- 61 Substituted by Act 20 of 2010
 
 to
 
