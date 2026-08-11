@@ -120,7 +120,7 @@ The social objectives of the State shall aim at:
 
 #### Article 7
 
-- The Republic of Suriname recognizes and respects the right of nations to selfdetermination and national independence on the basis of equality, sovereignty and mutual benefit.
+- The Republic of Suriname recognizes and respects the right of nations to self-determination and national independence on the basis of equality, sovereignty and mutual benefit.
 
 - The Republic of Suriname promotes the development of the international legal order and supports the peaceful settlement of international disputes.
 
@@ -736,7 +736,7 @@ The National Assembly has the following executive tasks:
 
 - The election of the President and the Vice-President;
 
-- The proposal for nomination to the President of the chairman and vicechairman, the members and the surrogate members of the organ charged with the supervision and control of the expenditure of the state finances;
+- The proposal for nomination to the President of the chairman and vice-chairman, the members and the surrogate members of the organ charged with the supervision and control of the expenditure of the state finances;
 
 - Placing the nominations of the members of the Constitutional Court and their appointed deputies to the President;
 
@@ -1158,7 +1158,7 @@ The President may appoint to a ministerial department one or more Under-Minister
 
 On assuming office, the Ministers and Under-Ministers shall take the following oath or make the following promise before the President:
 
-'I swear (promise) that in order to be appointed Minister (Under-Minister) I have not given or promised, nor will I give or promise, anything, directly or indirectly, to anyone whomsoever, under whatsoever name or pretext.
+“I swear (promise) that in order to be appointed Minister (Under-Minister) I have not given or promised, nor will I give or promise, anything, directly or indirectly, to anyone whomsoever, under whatsoever name or pretext.
 
 I swear (promise) that in order to do or to refrain from doing anything whatsoever in this office, I will not accept, directly or indirectly, any promises or presents from anyone whomsoever.
 
@@ -1170,11 +1170,11 @@ I swear (promise) obedience to the Constitution and all other legal rules.
 
 I swear (promise) allegiance to the Republic of Suriname.
 
-So help me, God Almighty (That I declare and promise).'
+So help me, God Almighty (That I declare and promise).”
 
 #### Article 126
 
-The law regulates the financial provisions for the benefit of the Ministers, the UnderMinisters, and former Ministers and former Under-Ministers and of their surviving relatives.
+The law regulates the financial provisions for the benefit of the Ministers, the Under-Ministers, and former Ministers and former Under-Ministers and of their surviving relatives.
 
 #### Article 127
 
@@ -1296,7 +1296,7 @@ their retirement, for indictable acts committed in discharging their official du
 
 [[START OF PAGE 29]]
 
-- The members of the Judicial Power entrusted with the administration of justice and the Attorney-General with the Court of Justice shall be appointed by the Government, after consultation of the Court of Justice. The appointment of the President, Vice-President, the members of the Court of Justice and the AttorneyGeneral shall be for life.
+- The members of the Judicial Power entrusted with the administration of justice and the Attorney-General with the Court of Justice shall be appointed by the Government, after consultation of the Court of Justice. The appointment of the President, Vice-President, the members of the Court of Justice and the Attorney-General shall be for life.
 
 - The law determines the other conditions for appointment and also the financial provision for their benefit and that of their surviving relatives.
 
@@ -1308,9 +1308,9 @@ their retirement, for indictable acts committed in discharging their official du
 
 - o when they have been placed under legal restraint;
 
-- o if they have been sentenced to an irevocable detention for having committed a punishable act;
-
 - o in case of proven continuous mental disorder;
+
+- o if they have been sentenced to an irevocable detention for having committed a punishable act;
 
 - o if they have been declared bankrupt;
 
@@ -1478,15 +1478,15 @@ The democratic order of the Republic of Suriname comprises inferior government o
 
 - o the concentration of the population;
 
-- o the feasibility of administering the territory;
-
 - o the potential for development;
+
+- o the feasibility of administering the territory;
 
 - o the availability of infrastructure;
 
-- The boundaries of the districts are the boundaries indicated in the decree 'Districtenindeling 1983" (S.B. 1983 Nr. 24).
-
 - o the location of the center of administration.
+
+- The boundaries of the districts are the boundaries indicated in the decree “Districtenindeling 1983" (S.B. 1983 Nr. 24).
 
 ### Third Section REGIONAL REPRESENTATION
 
@@ -1618,9 +1618,9 @@ Repealed.
 
 - The police shall have as task:
 
-a. to maintain public order and domestic security, to prevent violations thereof, and to protect persons and goods. b. to investigate punishable acts and to enforce the observance of regulations,
+a. to maintain public order and domestic security, to prevent violations thereof, and to protect persons and goods.
 
-- the breach of which shall be punishable by law.
+b. to investigate punishable acts and to enforce the observance of regulations, the breach of which shall be punishable by law.
 
 - Without prejudice to the provisions of the previous paragraph, the police can be charged with special tasks to be defined by law.
 
@@ -1666,9 +1666,9 @@ a. to maintain public order and domestic security, to prevent violations thereof
 
 - o the National Assembly
 
-- o the Local Councils.
-
 - o the District Councils;
+
+- o the Local Councils.
 
 - The People's Assembly shall convene for the third vote:
 
