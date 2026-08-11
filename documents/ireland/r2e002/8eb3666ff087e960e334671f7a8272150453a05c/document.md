@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-2013
-
 # Education and Training Sector External Service Delivery Plan 2014 - 2016
+
+2013
 
 DEPARTMENT OF EDUCATION AND SKILLS
 
@@ -11,6 +11,28 @@ DEPARTMENT OF EDUCATION AND SKILLS
 [[START OF PAGE 2]]
 
 ## Contents
+
+1. Introduction........................................................................................................................................2
+1.1 Vision for Shared Services & External Service Delivery...........................................................2
+1.2 Governance Structures ...............................................................................................................3
+1.3 Implementation ...........................................................................................................................5
+2. Department and Agencies................................................................................................................5
+2.1 Introduction and context .............................................................................................................5
+2.2 Operating Environment ...............................................................................................................5
+3. External Service Delivery in the Education and Training Sector.......................................................6
+3.1 External Service Delivery Projects Identified for Consideration...................................................7
+3.2 Facilities Management..................................................................................................................7
+3.3 Financial Control checks on European Social Fund (ESF) expenditure in the Further Education,
+FAS and Higher Education sectors......................................................................................................7
+3.4 Administration of Inspectorate Questionnaires...........................................................................9
+3.5 Registration System for Childcare Practitioners...........................................................................9
+3.6 Administration and Funding of Special Education Schemes.........................................................9
+3.7 Payments in Schools ...................................................................................................................10
+4. Shared Services.................................................................................................................................11
+5. Education and Training Sector External Service Delivery Plan 2014 - 2016...................................11
+6. Human Resource Strategy................................................................................................................12
+APPENDIX 1 Bodies under the aegis of the Department.................................................................13
+APPENDIX 2 List of Out-Sourced Activities in the Education and Training Sector.............................14
 
 1
 
@@ -32,13 +54,9 @@ The Government's Public Service Reform Plan, published in November 2011, sets ou
 
 - Radically reducing our costs to drive better value for money
 
-The Government mandate for the implementation of shared services and external service delivery  is  very  clear  and  comes  directly  from  Government  policy  as  articulated  in  the Programme for Government and in the Public Service Reform Plan.  Public funded bodies across the Education and Training sector will be required to participate in shared service initiatives undertaken across the sector and in the schools, further education and training and higher education sub-sectors.  It is also now mandatory for all Departments to consider the costs and benefits of delivering existing and new services using external providers.
-
-We aim to deliver centralised and outsourced services where these are supported by a strong business case.
-
 ### 1.1 Vision for Shared Services & External Service Delivery
 
-In line with Government policy, shared services and external service delivery models will be core  elements of the Education and Training Sector Reform Programme.  The purpose of implementing these delivery models is to deliver cost savings, efficiencies and other benefits to enable resources to be focused on service delivery.
+In line with Government policy, shared services and external service delivery models will be core elements of the Education and Training Sector Reform Programme. The purpose of implementing these delivery models is to deliver cost savings, efficiencies and other benefits to enable resources to be focused on service delivery.
 
 The mission is to deliver value and benefits to our customers in the Education and Training Sector through:-
 
@@ -51,6 +69,10 @@ The mission is to deliver value and benefits to our customers in the Education a
 - Optimised business processes
 
 - Focus on delivery of results and continuous improvement
+
+The Government mandate for the implementation of shared services and external service delivery is very clear and comes directly from Government policy as articulated in the Programme for Government and in the Public Service Reform Plan. Public funded bodies across the Education and Training sector will be required to participate in shared service initiatives undertaken across the sector and in the schools, further education and training and higher education sub-sectors. It is also now mandatory for all Departments to consider the costs and benefits of delivering existing and new services using external providers.
+
+We aim to deliver centralised and outsourced services where these are supported by a strong business case.
 
 2
 
@@ -242,7 +264,7 @@ The cascade structure for European Social Fund (ESF) management and control was 
 
 #### European Commission requirements for financial checks
 
-The  system  of  checking  applied  by  the  ESF  Intermediates  Bodies  under  the  Irish  cascade system was deemed acceptable by the European Commission and the Audit Authority when it was assessed in 2006 as part of the official Compliance Assessment process for the 20072013 period.  Claims have been paid by the Commission for a number of years on foot of this assessment.    However, the  Commission have now changed their position  in  light  of their recent audit work and that of the Audit Authority.  This reflects a more general shift in attitude by EU auditors in relation to the Structural Funds in recent years following on from a decision to  take  a  stronger,  less  flexible  line  in  dealing  with  audit  findings.    This  arises  from  the difficulties in having the EU Budget signed off by the European Court of Auditors and the high error rates on the Funds in general.
+The system of checking applied by the ESF Intermediates Bodies under the Irish cascade system was deemed acceptable by the European Commission and the Audit Authority when it was assessed in 2006 as part of the official Compliance Assessment process for the 2007-2013 period. Claims have been paid by the Commission for a number of years on foot of this assessment. However, the Commission have now changed their position in light of their recent audit work and that of the Audit Authority. This reflects a more general shift in attitude by EU auditors in relation to the Structural Funds in recent years following on from a decision to take a stronger, less flexible line in dealing with audit findings. This arises from the difficulties in having the EU Budget signed off by the European Court of Auditors and the high error rates on the Funds in general.
 
 #### Checks within the current ESF system unsatisfactory
 
@@ -269,7 +291,7 @@ The Early Years Education Policy Unit is co-located with the Department of Child
 The Department's Special Education Division in Athlone is responsible for the administration and funding of a number of special education schemes. The main schemes are:
 
 #### i. Assistive Technology Scheme
-The objective of the Assistive Technology scheme is to ensure that children with special educational needs have access to the equipment they need to enable them to benefit from the education system.  The scheme provides funding for specialised equipment for
+The objective of the Assistive Technology scheme is to ensure that children with special educational needs have access to the equipment they need to enable them to benefit from the education system. The scheme provides funding for specialised equipment for
 
 9
 
@@ -277,17 +299,15 @@ The objective of the Assistive Technology scheme is to ensure that children with
 
 [[START OF PAGE 11]]
 
-#### ii.
+pupils with disabilities such as radio aids, braillers, computers and CCTVs for example, and the maintenance of such equipment. In 2012, 1,895 grants issued to schools for the purchase of special education equipment at a cost of €1.4m.
 
-The  July  Provision  scheme  funds  an  extended  school  year  or  a  home  tuition programme  for  children  who  have  been  assessed  as  having  a  severe/  profound learning disability or autism.  Four additional weeks tuition during July are provided in either a school-based programme or in the child's home.  5,570 pupils were supported
+#### ii. Administration and funding of autism component of July provision
 
-pupils with disabilities such as radio aids, braillers, computers and CCTVs for example, and the maintenance of such equipment.  In 2012, 1,895 grants issued to schools for the purchase of special education equipment at a cost of €1.4m.
-
-- Administration and funding of autism component of July provision under the July Provision Programme in the 2012/13 school year.
+The July Provision scheme funds an extended school year or a home tuition programme for children who have been assessed as having a severe/ profound learning disability or autism. Four additional weeks tuition during July are provided in either a school-based programme or in the child's home. 5,570 pupils were supported under the July Provision Programme in the 2012/13 school year.
 
 #### iii. Administration of the Home Tuition scheme
 
-The Home Tuition scheme funds a home tuition programme for children who, for a number of reasons such as chronic illness, are unable to attend school. The scheme was extended in recent years to facilitate tuition for children awaiting an educational placement  and  provide  early  education  intervention  for  pre-school  children  with autism.  1,249 pupils were supported under the scheme for the 2012/13 school year at an approximate cost of €9.3m.
+The Home Tuition scheme funds a home tuition programme for children who, for a number of reasons such as chronic illness, are unable to attend school. The scheme was extended in recent years to facilitate tuition for children awaiting an educational placement and provide early education intervention for pre-school children with autism. 1,249 pupils were supported under the scheme for the 2012/13 school year at an approximate cost of €9.3m.
 
 There is potential to outsource the administration and funding of these schemes which would free up resources to focus on other core activities in the Special Education Division.  In Q1 2014 we will further scope the potential for outsourcing this work and subject to the results of this scoping we will proceed to develop a business case for the external service delivery of this work in Q2 2014.
 
