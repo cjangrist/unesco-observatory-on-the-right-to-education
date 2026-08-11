@@ -12,15 +12,15 @@ Accueil  >  Le Bulletin officiel  > Bulletin officiel  >  2014  >  n° 28 du 10 
 
 ### Règlement type départemental des écoles maternelles et élémentaires publiques
 
-NOR : MENE1416234C MENESR - DGESCO
-
+NOR : MENE1416234C
 circulaire n° 2014-088 du 9-7-2014
+MENESR - DGESCO
 
 Texte adressé aux rectrices et recteurs d'académie ; aux inspectrices et inspecteurs d'académie-directrices et directeurs académiques des services de l'éducation nationale ; aux inspectrices et inspecteurs chargés des circonscriptions du premier degré ; aux directrices et directeurs d'école
 
 #### SOMMAIRE
 
-- Organisation et fonctionnement des écoles primaires
+- 1. Organisation et fonctionnement des écoles primaires
 
 - 1.1. Admission et scolarisation
 
@@ -88,7 +88,7 @@ Texte adressé aux rectrices et recteurs d'académie ; aux inspectrices et inspe
 
 - 1.7.3. Intervention des associations
 
-- Droits et obligations des membres de la communauté éducative
+- 2. Droits et obligations des membres de la communauté éducative
 
 - 2.1. Les élèves
 
@@ -100,7 +100,7 @@ Texte adressé aux rectrices et recteurs d'académie ; aux inspectrices et inspe
 
 - 2.5. Les règles de vie à l'école
 
-- Le règlement intérieur de l'école
+- 3. Le règlement intérieur de l'école
 
 https://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=81107
 
@@ -172,9 +172,7 @@ Le directeur d'école est responsable de la tenue du registre des élèves inscr
 
 Conformément aux dispositions de l'article L. 113-1  du code de l'éducation, tout enfant âgé de trois ans au 31 décembre de l'année civile en cours doit pouvoir être accueilli dans une école maternelle ou une classe enfantine, si sa famille en fait la demande. Aucune discrimination ne peut être faite pour l'admission d'enfants étrangers ou de migrants dans les classes maternelles, conformément aux principes rappelés ci-dessus.
 
-L'article L. 113-1 du code de l'éducation prévoit la possibilité d'une scolarisation dans les classes enfantines ou les écoles maternelles des enfants dès l'âge de deux ans révolus. Cela peut conduire à un accueil différé au-delà de la rentrée scolaire en fonction de la date d'anniversaire de l'enfant, comme le précise la circulaire n° 2012-202 du 18 décembre 2012. La scolarisation des enfants de deux ans doit être développée en priorité dans les écoles situées dans un environnement social défavorisé, que ce soit dans les zones urbaines, rurales et de montagne ainsi que dans les départements et régions d'outre-mer. Conformément aux dispositions de l'article D. 113-1 du code de l'éducation ,en l'absence d'école ou de classe maternelle, les enfants de cinq ans dont les parents demandent la scolarisation sont admis à l'école élémentaire dans une section enfantine afin de leur permettre d'entrer dans le cycle des apprentissages fondamentaux prévu à l'article D. 321-2 du code de l'éducation.
-###### 1.1.3. Admission à l'école élémentaire
-L'instruction étant obligatoire pour les enfants français et étrangers des deux sexes à compter de la rentrée scolaire de l'année civile où l'enfant atteint l'âge de six ans (conformément aux articles L. 131-1 et L. 131-5 du code de l'éducation), tous les enfants concernés doivent pouvoir être admis dans une école élémentaire.
+L'article L. 113-1 du code de l'éducation prévoit la possibilité d'une scolarisation dans les classes enfantines ou les écoles maternelles des enfants dès l'âge de deux ans révolus. Cela peut conduire à un accueil différé au-delà de la rentrée scolaire en fonction de la date d'anniversaire de l'enfant, comme le précise la circulaire n° 2012-202 du 18 décembre 2012. La scolarisation
 
 https://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=81107
 
@@ -188,7 +186,15 @@ https://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=81107
 
 MENE1416234C - Ministère de l'Éducation nationale et de la Jeunesse
 
-L'article D. 113-1 du code de l'éducation dispose que les enfants sont scolarisés à l'école maternelle jusqu'à la rentrée scolaire de l'année civile au cours de laquelle ils atteignent l'âge de six ans, âge  de la scolarité obligatoire. Toutefois, les élèves bénéficiant notamment d'un projet personnalisé de scolarisation (conformément à l'article D. 351-5 du code de l'éducation) peuvent poursuivre leur scolarité à l'école maternelle au-delà de l'âge de six ans.
+des enfants de deux ans doit être développée en priorité dans les écoles situées dans un environnement social défavorisé, que ce soit dans les zones urbaines, rurales et de montagne ainsi que dans les départements et régions d'outre-mer.
+
+Conformément aux dispositions de l'article D. 113-1 du code de l'éducation, en l'absence d'école ou de classe maternelle, les enfants de cinq ans dont les parents demandent la scolarisation sont admis à l'école élémentaire dans une section enfantine afin de leur permettre d'entrer dans le cycle des apprentissages fondamentaux prévu à l'article D. 321-2 du code de l'éducation.
+
+###### 1.1.3. Admission à l'école élémentaire
+
+L'instruction étant obligatoire pour les enfants français et étrangers des deux sexes à compter de la rentrée scolaire de l'année civile où l'enfant atteint l'âge de six ans (conformément aux articles L. 131-1 et L. 131-5 du code de l'éducation), tous les enfants concernés doivent pouvoir être admis dans une école élémentaire.
+
+L'article D. 113-1 du code de l'éducation dispose que les enfants sont scolarisés à l'école maternelle jusqu'à la rentrée scolaire de l'année civile au cours de laquelle ils atteignent l'âge de six ans, âge de la scolarité obligatoire. Toutefois, les élèves bénéficiant notamment d'un projet personnalisé de scolarisation (conformément à l'article D. 351-5 du code de l'éducation) peuvent poursuivre leur scolarité à l'école maternelle au-delà de l'âge de six ans.
 
 ###### 1.1.4 Admission des enfants de familles itinérantes
 
@@ -210,11 +216,11 @@ La circulaire n° 2003-135 du 8 septembre 2003 donne toutes les précisions util
 
 ##### 1.2 Organisation du temps scolaire et des activités pédagogiques complémentaires
 
-La durée hebdomadaire de l'enseignement à l'école maternelle et à l'école élémentaire est fixée à l'article D. 521-10 du code de l'éducation. Par ailleurs le décret n° 2014-457 du 7 mai 2014  portant autorisation d'expérimentations relatives à l'organisation des rythmes scolaires dans les écoles maternelles et élémentaires permet, dans le cadre d'une expérimentation autorisée par le recteur, de prévoir une adaptation de la semaine scolaire  à condition de garder au moins cinq matinées et sans dépasser vingtquatre heures hebdomadaires, six heures par jour et trois heures trente par demi-journées. Le nombre d'heures d'enseignement et leur répartition ne doivent pas être modifiés.
+La durée hebdomadaire de l'enseignement à l'école maternelle et à l'école élémentaire est fixée à l'article D. 521-10 du code de l'éducation. Par ailleurs le décret n° 2014-457 du 7 mai 2014 portant autorisation d'expérimentations relatives à l'organisation des rythmes scolaires dans les écoles maternelles et élémentaires permet, dans le cadre d'une expérimentation autorisée par le recteur, de prévoir une adaptation de la semaine scolaire à condition de garder au moins cinq matinées et sans dépasser vingt-quatre heures hebdomadaires, six heures par jour et trois heures trente par demi-journées. Le nombre d'heures d'enseignement et leur répartition ne doivent pas être modifiés.
 
 ###### 1.2.1 Compétence du Dasen et projets locaux d'organisation du temps scolaire
 
-Conformément aux dispositions de l'article D. 521-11 du code de l'éducation, le Dasen arrête l'organisation du temps scolaire de chaque école. Il prend sa décision à partir des projets d'organisation de la semaine scolaire transmis par le conseil d'école intéressé, la commune ou l'établissement public de coopération intercommunale (EPCI [La compétence « Construction, entretien et fonctionnement d'équipements culturels et sportifs et d'équipements de l'enseignement préélémentaire et élémentaire » peut être transférée de la commune à l'établissement public de coopération intercommunale (EPCI) conformément à l'article L. 5214-16 du code général des collectivités térritoriales]). Il doit avoir au préalable recueilli l'avis du maire ou du président de l'EPCI.
+Conformément aux dispositions de l'article D. 521-11 du code de l'éducation, le Dasen arrête l'organisation du temps scolaire de chaque école. Il prend sa décision à partir des projets d'organisation de la semaine scolaire transmis par le conseil d'école intéressé, la commune ou l'établissement public de coopération intercommunale (EPCI [La compétence « Construction, entretien et fonctionnement d'équipements culturels et sportifs et d'équipements de l'enseignement préélémentaire et élémentaire » peut être transférée de la commune à l'établissement public de coopération intercommunale (EPCI) conformément à l'article L. 5214-16 du code général des collectivités territoriales]). Il doit avoir au préalable recueilli l'avis du maire ou du président de l'EPCI.
 
 Si les projets d'organisation des communes ou des EPCI et des conseils d'école ne s'inscrivent pas dans le cadre des principes d'organisation du temps scolaire défini à l'article D. 521-10 du code de l'éducation, l'article D. 521-12 prévoit la possibilité d'une demande de dérogation. Le Dasen peut donner son accord à cette dérogation si elle est justifiée par un projet éducatif territorial et offre des garanties pédagogiques suffisantes.
 
@@ -315,7 +321,6 @@ Les élèves sont repris, à la fin de chaque demi-journée, par la ou les perso
 En cas de négligence répétée des responsables légaux pour que leur enfant soit repris à la sortie de chaque classe aux heures fixées par le règlement intérieur, le directeur d'école leur rappelle qu'ils sont tenus de respecter les dispositions fixées par le règlement intérieur. Si la situation persiste, le directeur d'école engage un dialogue approfondi avec ceux-ci pour prendre en compte les causes des difficultés qu'ils peuvent rencontrer et les aider à les résoudre. La persistance de ces manquements et le bilan du dialogue conduit avec la famille peuvent l'amener à transmettre une information préoccupante au président du conseil général dans le cadre de la protection de l'enfance, selon les modalités prévues par les protocoles départementaux.
 
 ###### 1.4.3 Dispositions particulières à l'école élémentaire
-À l'issue des classes du matin et de l'après-midi, la sortie des élèves s'effectue sous la surveillance d'un enseignant dans la limite de l'enceinte des locaux scolaires, sauf pour les élèves pris en charge, à la demande des personnes responsables, par un service de garde, de restauration scolaire ou de transport, ou par un dispositif d'accompagnement ou par l'accueil périscolaire auquel l'élève est inscrit.
 
 https://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=81107
 
@@ -328,6 +333,8 @@ https://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=81107
 2/21/2020
 
 MENE1416234C - Ministère de l'Éducation nationale et de la Jeunesse
+
+À l'issue des classes du matin et de l'après-midi, la sortie des élèves s'effectue sous la surveillance d'un enseignant dans la limite de l'enceinte des locaux scolaires, sauf pour les élèves pris en charge, à la demande des personnes responsables, par un service de garde, de restauration scolaire ou de transport, ou par un dispositif d'accompagnement ou par l'accueil périscolaire auquel l'élève est inscrit.
 
 Au-delà de l'enceinte des locaux scolaires, les parents assument la responsabilité de leur enfant selon les modalités qu'ils choisissent.
 
@@ -460,7 +467,7 @@ En application de l'article D. 551-6 du code de l'éducation, le directeur d'éc
 
 La communauté éducative, définie par l'article L. 111-3 du code de l'éducation, rassemble, à l'école, les élèves et tous ceux qui, dans l'école ou en relation avec elle, participent à l'accomplissement de ses missions. Elle réunit les personnels de l'école, les parents d'élèves, les collectivités territoriales compétentes pour l'école ainsi que les acteurs institutionnels, économiques et sociaux associés au service public d'éducation.
 
-Tous les membres de cette communauté doivent, lors de leur participation à l'action de l'école, respecter le pluralisme des opinions et les principes de laïcité et neutralité (conformément à l'article L. 141-5-1 du code de l'éducation issu de la loi n° 2004228 du 15 mars 2004) ; ils doivent, en outre, faire preuve d'une totale discrétion sur toutes les informations individuelles auxquelles ils ont pu avoir accès dans le cadre de l'école. Le directeur d'école doit signaler les comportements inappropriés à l'inspecteur de l'éducation nationale chargé de la circonscription.
+Tous les membres de cette communauté doivent, lors de leur participation à l'action de l'école, respecter le pluralisme des opinions et les principes de laïcité et neutralité (conformément à l'article L. 141-5-1 du code de l'éducation issu de la loi n° 2004-228 du 15 mars 2004) ; ils doivent, en outre, faire preuve d'une totale discrétion sur toutes les informations individuelles
 
 https://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=81107
 
@@ -473,6 +480,8 @@ https://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=81107
 2/21/2020
 
 MENE1416234C - Ministère de l'Éducation nationale et de la Jeunesse
+
+auxquelles ils ont pu avoir accès dans le cadre de l'école. Le directeur d'école doit signaler les comportements inappropriés à l'inspecteur de l'éducation nationale chargé de la circonscription.
 
 Le règlement intérieur de l'école rappelle les droits et obligations qui s'imposent à tous les membres de la communauté éducative en prenant en compte les indications ci-dessous.
 
@@ -506,7 +515,7 @@ Dès l'école maternelle, l'enfant s'approprie les règles du « vivre ensemble 
 
 Tout doit être mis en œuvre à l'école pour créer les conditions favorables aux apprentissages et à l'épanouissement de l'enfant. Il est particulièrement important d'encourager et de valoriser les comportements les mieux adaptés à l'activité scolaire : calme, attention, soin, entraide, respect d'autrui. La valorisation des élèves, leur responsabilisation dans la vie collective sont de nature à renforcer leur sentiment d'appartenance à l'école et à installer un climat scolaire serein. À ce titre, diverses formes d'encouragement sont prévues dans le règlement intérieur de l'école, pour favoriser les comportements positifs.
 
-À l'inverse, les comportements qui troublent l'activité scolaire, les manquements au règlement intérieur de l'école, et en particulier toute atteinte à l'intégrité physique ou morale des autres élèves ou des enseignants, donnent lieu à des réprimandes, qui sont portées immédiatement à la connaissance des représentants légaux de l'enfant. Ces réprimandes ne peuvent ellesmêmes en aucun cas porter atteinte à l'intégrité morale ou physique d'un enfant. Elles sont prévues dans le règlement intérieur de l'école. On veillera à ce qu'un élève ne soit pas privé de la totalité de la récréation à titre de punition.
+À l'inverse, les comportements qui troublent l'activité scolaire, les manquements au règlement intérieur de l'école, et en particulier toute atteinte à l'intégrité physique ou morale des autres élèves ou des enseignants, donnent lieu à des réprimandes, qui sont portées immédiatement à la connaissance des représentants légaux de l'enfant. Ces réprimandes ne peuvent elles-mêmes en aucun cas porter atteinte à l'intégrité morale ou physique d'un enfant. Elles sont prévues dans le règlement intérieur de l'école. On veillera à ce qu'un élève ne soit pas privé de la totalité de la récréation à titre de punition.
 
 Les mesures d'encouragement ou de réprimande, de nature différente en fonction de l'âge de l'élève, sont expliquées et connues de tous.
 
@@ -550,7 +559,7 @@ Le règlement intérieur de l'école doit rappeler dans son préambule les princ
 
 ##### 3.2 Le contenu du règlement intérieur d'une école
 
-Le règlement intérieur de l'école  qui est le premier vecteur d'un climat scolaire serein pour l'ensemble de la communauté éducative est établi et revu annuellement par le conseil d'école Il prend en compte les droits et obligations de chacun des membres de la communauté éducative pour déterminer les règles de vie collective qui s'appliquent à tous dans l'enceinte de l'école. Il rappelle les règles de civilité et de comportement. Il ne saurait en aucun cas se réduire à un énoncé des obligations des seuls élèves. Au contraire, il doit permettre de créer les conditions de prise en charge progressive par les élèves euxmêmes de la responsabilité de certaines de leurs activités
+Le règlement intérieur de l'école qui est le premier vecteur d'un climat scolaire serein pour l'ensemble de la communauté éducative est établi et revu annuellement par le conseil d'école Il prend en compte les droits et obligations de chacun des membres de la communauté éducative pour déterminer les règles de vie collective qui s'appliquent à tous dans l'enceinte de l'école. Il rappelle les règles de civilité et de comportement. Il ne saurait en aucun cas se réduire à un énoncé des obligations des seuls élèves. Au contraire, il doit permettre de créer les conditions de prise en charge progressive par les élèves eux-mêmes de la responsabilité de certaines de leurs activités
 
 Il détermine, notamment, les modalités selon lesquelles sont mis en application :
 
