@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -26,11 +26,13 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
 
 In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
 
@@ -42,7 +44,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -118,7 +120,7 @@ Tida Jatta Jarjou
 
 Email and telephone number of contact person: tida.jatta@edugambia.gm Tel: 220 9998002
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -166,7 +168,7 @@ Email and telephone number of contact person: tida.jatta@edugambia.gm Tel: 220 9
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ### 1. Towards an inclusive non-discriminatory education system
 
@@ -184,7 +186,7 @@ Yes
 
 - If yes, please provide reference:
 
-Our  Education  Policy  2016 -2030  and  the  Education  Act  emphasised  on  quality,  nondiscrimination and inclusivity when it comes to education. Education is considered a Right.
+Our Education Policy 2016-2030 and the Education Act emphasised on quality, non-discrimination and inclusivity when it comes to education. Education is considered a Right.
 
 #### 1.1 Non-discrimination and equality in education
 
@@ -196,7 +198,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 [[END OF PAGE 6]]
 
@@ -368,7 +370,7 @@ Other:
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -426,7 +428,7 @@ Other:
 
  Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 'Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -546,6 +548,18 @@ practice, para. 20: ' a marriage of a mature, capable child below 18 years of ag
 
 [[START OF PAGE 13]]
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+- What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
+
+- Funding
+
+- Resistance from some quarters of the country especially in areas where there are huge Quranic memorisation centres
+
+- Early marriage
+
+- Sex and gender based violence
+
 ##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
@@ -580,59 +594,11 @@ We do not have indigenous people in the Gambia
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-- What  challenges  were  encountered  in  realizing  the  right  to  education  of  indigenous  people?  If needed, brief quantitative information may be added.
+- What challenges were encountered in realizing the right to education of indigenous people? If needed, brief quantitative information may be added.
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+> 26 Supra note 15.
 
-- What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
-
-- Funding
-
-- Resistance  from  some  quarters  of  the  country  especially  in  areas  where  there  are  huge Quranic memorisation centres
-
-- Early marriage
-
-- Sex and gender based violence
-
- Legislation provides for the right to education of indigenous people
-
- Policy measures aim to enhance the right to education of indigenous people
-
- Policy elaboration includes consultations with local communities
-
- The right to carry out their own educational activities is legally guaranteed for indigenous people
-
- Educational standards are established for educational institutions run by indigenous people
-
- Positive or affirmative action measures are provided for indigenous people
-
- Other:
-
- Financial incentives and fellowships are provided for indigenous people
-
- Teachers are trained on intercultural education
-
- Teachers are trained to combat stigmatisation 26
-
- Multilingual and intercultural education are supported
-
- Native language instruction is ensured
-
- Adapting curricula and teaching and learning methods to their needs for indigenous people
-
- Curricula are rid of all stereotypes 27 and bias
-
-We do not have indigenous people in the Gambia
-
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-26
-
-27
-
-Supra note 15.
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 13]]
 
@@ -698,8 +664,6 @@ Supra note 16.
 
 [[START OF PAGE 15]]
 
-33
-
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
 
 ##### People with disabilities:
@@ -750,11 +714,9 @@ Supra note 16.
 
 - Mainstreaming of children with mild and moderate disabilities
 
-34
+> 33 Supra note 15.
 
-Supra note 15.
-
-Supra note 16.
+> 34 Supra note 16.
 
 [[END OF PAGE 15]]
 
@@ -820,7 +782,7 @@ Supra note 16.
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre - primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -828,7 +790,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services are accessible on a non- discriminatory basis
+ ECCE services are accessible on a non-discriminatory basis
 
  ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
@@ -892,7 +854,7 @@ ECD gross enrolment rate is less than 50%. It is currently 43.74%
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education - of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education - of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -1126,7 +1088,7 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1268,7 +1230,7 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 #### 3.3 Respect for human rights and fundamental freedoms
 
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation  and  that  the  future  consultation  on  the  1974  Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.1⁴¹ Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
@@ -1344,13 +1306,9 @@ The Constitution of the Gambia
 
 [[START OF PAGE 28]]
 
-
+ School closures
 
-School closures
-
-
-
-Other
+ Other
 
 The Education Act
 
@@ -1398,7 +1356,7 @@ The Education Sector Strategic Plan 2016 - 2030
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1416,11 +1374,7 @@ The Education Sector Strategic Plan 2016 - 2030
 
  Lack of equity and inclusion in digital learning solutions
 
-
-
-inadequate safety measures and IT
-
-- support to respond to issues of child online safety or reduce cyber security risks
+ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
  Other:
 
@@ -1448,7 +1402,7 @@ Our curriculum is in the process of being digitalised. Digitalisation is in prog
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states “to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1496,7 +1450,7 @@ Monitoring is done from the following levels
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
@@ -1542,7 +1496,7 @@ THE GAMBIA
 
 ## Introduction
 
-The Ministry of Basic and Secondary Education is committed to meeting the implementation of the 1960 Convention and Recommendation against Discrimination in Education although  The  Gambia  as  a  Country  has  not  yet  signed  it. However, The Ministry takes issues of discrimination in all its form with utmost seriousness. The Ministry is also aware that discrimination could have a lot of negative impact on the wellbeing and education of students but also in the community especially to those marginalized in the society. Discrimination  based  on  gender,  disability,  tribe,  religion, caste,  culture  and  in  any  of  its  form  is  against  the  human rights of the people but also rights to Education. These and many reasons are why the Ministry of Basic and Secondary Education is working tirelessly with the support of partners to embark on rigorous training and sensitization as well as coming up with legislation and sector policies to promote the existence of a safe and conducive learning environment in all schools across the country. The Ministry worked to address the issue of parity in terms of boys and girls in relation to enrollment, retention, completion and performance in schools.
+The Ministry of Basic and Secondary Education is committed to meeting the implementation of the 1960 Convention and Recommendation against Discrimination in Education although The Gambia as a Country has not yet signed it. However, The Ministry takes issues of discrimination in all its form with utmost seriousness. The Ministry is also aware that discrimination could have a lot of negative impact on the well-being and education of students but also in the community especially to those marginalized in the society. Discrimination based on gender, disability, tribe, religion, caste, culture and in any of its form is against the human rights of the people but also rights to Education. These and many reasons are why the Ministry of Basic and Secondary Education is working tirelessly with the support of partners to embark on rigorous training and sensitization as well as coming up with legislation and sector policies to promote the existence of a safe and conducive learning environment in all schools across the country. The Ministry worked to address the issue of parity in terms of boys and girls in relation to enrollment, retention, completion and performance in schools.
 
 Ministry of Basic and Secondary Education -The Gambia
 
@@ -1572,9 +1526,9 @@ Ministry of Basic and Secondary Education -The Gambia
 
 discriminatory and all-inclusive provision of education underlining in particular gender equity and targeting of the poor and disadvantaged groups, It also provide Respect for the rights of individual, cultural diversity, indigenous languages and knowledge were articulated.
 
-## The  Inclusiveness  of  The  Education  Policy  2016 -2030 Development Process
+## The Inclusiveness of The Education Policy 2016 – 2030 Development Process
 
-The development of the Education Policy 2016 -2030  was premised  on  The  Gambia's  Vision  2020,  Programme  for Accelerated Growth and Employment (PAGE) and the Sustainable  Development  Goals  (SDG)  and  the  National Development Plan 2017-2021, all of which seeks to improve the human capital of the country by reducing the number of people living below the poverty line. The policy development was  also  in  tandem  with  the  global  efforts  on  sustainable development. Thus the theme of the policy consultations was 'Acces sible,  Equitable  and  Inclusive  Quality  Education  for sustainable Development' .
+The development of the Education Policy 2016 – 2030 was premised on The Gambia's Vision 2020, Programme for Accelerated Growth and Employment (PAGE) and the Sustainable Development Goals (SDG) and the National Development Plan 2017-2021, all of which seeks to improve the human capital of the country by reducing the number of people living below the poverty line. The policy development was also in tandem with the global efforts on sustainable development. Thus the theme of the policy consultations was “Accessible, Equitable and Inclusive Quality Education for sustainable Development”.
 
 The participation of all stakeholders in education was central in the policy dialogue process. The process attempted, in a variety of ways, to include children as well as adults; illiterate as well as literate members of the society; national assembly members, government departments; civil society and private sector representatives. Meetings were organised that
 
@@ -1594,7 +1548,7 @@ brought together school children, teachers and parents from both the rural and u
 
 - The expansion of secondary education to absorb a minimum of 70% of the basic education graduates
 
-- Development  of  li fe Formal  Education  skills  and creation of awareness of killer diseases such as HIV/AIDS, malaria, cancer and tuberculosis
+- Development of life Formal Education skills and creation of awareness of killer diseases such as HIV/AIDS, malaria, cancer and tuberculosis
 
 - Provision  of  relevant  vocational  education  and technical training based on labour market intelligence
 
@@ -1644,11 +1598,11 @@ Ministry of Basic and Secondary Education -The Gambia
 
 - The stakeholders  are  ready  to  take  ownership  of the policy
 
-- The policy objectives are harmonised with Vision 2020,  Education  for  All  and  the  SDG  educationrelated goals.
+- The policy objectives are harmonised with Vision 2020, Education for All and the SDG education-related goals.
 
 ## Implementation of the Convention
 
-Although The Gambia did not yet sign the Convention, The Life Skills  Education  Unit  of  the  Ministry  of  Basic  and Secondary Education, has been conducting series of awareness-raising campaigns, training programs and host of other interventions. Since 2021, with the support of partners such as UNICEF, conducted series of trainings for Mother's Club, Peer Health Educators, Administrators, School Management Committees, Police, teachers on Sa fe School. In these  trainings,  issues  of  FGM/C,  Child  Marriage,  Bullying,
+Although The Gambia did not yet sign the Convention, The Life Skills Education Unit of the Ministry of Basic and Secondary Education, has been conducting series of awareness-raising campaigns, training programs and host of other interventions. Since 2021, with the support of partners such as UNICEF, conducted series of trainings for Mother's Club, Peer Health Educators, Administrators, School Management Committees, Police, teachers on Safe School. In these trainings, issues of FGM/C, Child Marriage, Bullying,
 
 Ministry of Basic and Secondary Education -The Gambia
 
@@ -1662,7 +1616,7 @@ Ministry of Basic and Secondary Education -The Gambia
 
 Human Trafficking, and Gender-based Violence. Additionally, knowing  how  students  are  vulnerable,  teachers  and  Peer Health Educators are trained on Guidance and Counselling to curb the social,  academic and emotional stress that students go through.
 
-Moreover,  The  Ministry  of  Basic  and  Secondary  Education through  Gender  Education  Unit  also  embarks  on  rigorous sensitization and training for teachers, Mother's Club, students advocating for girls in STEM Education, Menstrual Health and Management, gender,-based violence and distribution  of  sanitary  or  Menstrual  pads  to  school  to  be handed to girls as well as menstrual hygiene training to help girls manage their Menstrual health and avoid loosing contact hours and the importa nce of girls' education and the creation of  a  conducive  and  safe  learning  environment  were  also discussed. Additionally, with support of partners,  World Bank through the SWEDD plus project has procured bicycles to be distributed  to  vulnerable  girls  at  the  provinces  to  ease travelling  of  girls  to  and  from  school. This  is  done  by emphasizing on the importance of enrollment, retention and completion.
+Moreover, The Ministry of Basic and Secondary Education through Gender Education Unit also embarks on rigorous sensitization and training for teachers, Mother's Club, students advocating for girls in STEM Education, Menstrual Health and Management, gender,-based violence and distribution of sanitary or Menstrual pads to school to be handed to girls as well as menstrual hygiene training to help girls manage their Menstrual health and avoid loosing contact hours and the importance of girls' education and the creation of a conducive and safe learning environment were also discussed. Additionally, with support of partners, World Bank through the SWEDD plus project has procured bicycles to be distributed to vulnerable girls at the provinces to ease travelling of girls to and from school. This is done by emphasizing on the importance of enrollment, retention and completion.
 
 In the areas of discrimination against persons with disability, the Ministry of Basic and Secondary Education through the Early Childhood Development and Inclusive Education
 
@@ -1694,9 +1648,47 @@ Ministry of Basic and Secondary Education -The Gambia
 
 their  academic  needs.  The  table  below  clearly  shows  the picture in the Gambia in terms of availability of schools.
 
+Distribution of Institutions by Management - 2023
+Region | ECD | LBE | UBE | SSE
+Region 1 | 272 | 181 | 98 | 60
+Region 2 | 579 | 424 | 221 | 88
+Region 3 | 200 | 200 | 82 | 30
+Region 4 | 107 | 109 | 39 | 15
+Region 5 | 194 | 206 | 58 | 20
+Region 6 | 204 | 190 | 78 | 24
+National | 1,556 | 1,320 | 576 | 237
+
+Basic (LBE+UBE+SSE) Indicators (Part 1) - 2023
+53.0%
+10.6%
+76.5%
+92.0%
+83.5%
+56.2%
+58.1%
+93.6%
+91.8%
+92.0%
+
+Basic (LBE+UBE+SSE) Indicators (Part 2) - 2023
+14.7%
+14.6%
+61.7%
+41.5%
+39.2%
+72.7%
+82.9%
+
+Number of Institutions by Education Level, 2013 vs 2023
+Education Level | 2013 | 2023
+ECD | 892 | 1,556
+LBE | 789 | 1,320
+UBE | 306 | 576
+SSE | 120 | 237
+
 SOURCE: THE MINISTRY OF BASIC AND SECONDARY STATISTICAL YEAR BOOK 2023
 
-On  the  issues  of  child  marriage , that  also  discriminates against girls in  schools , is  getting  recognize d .  The  Ministry through its interventions with teachers, administrators, school  management  committees,  and  mother's  club  have provided them with a reporting mechanisms in which issues of child marriages are reported to stop it before the process takes place.
+On the issues of child marriage, that also discriminates against girls in schools, is getting recognized. The Ministry through its interventions with teachers, administrators, school management committees, and mother's club have provided them with a reporting mechanisms in which issues of child marriages are reported to stop it before the process takes place.
 
 ### The Second Chance Education Programme
 
@@ -1725,6 +1717,32 @@ Ministry of Basic and Secondary Education -The Gambia
 [[START OF PAGE 43]]
 
 11TH CONSULTATIONS ON THE IMPLEMENTATION OF THE 1960 CONVENTIONAND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
+
+Gross Intake Rates (GIR) - Grade 1 (LBE) by Region - 2023
+115.1% | 113.6% | 111.6% | 111.0% | 106.1% | 93.4% | 86.6%
+
+Gross Enrolment Rates (GER) by Edu. Level - 2013 vs 2023
+Education Level | 2013 | 2023
+ECD | 32.0% | 43.9%
+LBE | 85.7% | 106.7%
+UBE | 66.2% | 72.5%
+SSE | 39.3% | 55.2%
+
+Completion Rates (CR) By Education Level - 2013 vs 2023
+Education Level | 2013 | 2023
+LBE | 69.3% | 82.7%
+UBE | 63.6% | 65.1%
+SSE | 31.5% | 46.6%
+
+Gender Parity Index on the following indicators - 2023
+ECD GER | 1.08
+LBE GIR | 1.12
+LBE GER | 1.15
+LBE CR | 1.21
+UBE GER | 1.28
+UBE CR | 1.35
+SSE GER | 1.36
+SSE CR | 1.39
 
 SOURCE: THE MINISTRY OF BASIC AND SECONDARY STATISTICAL YEAR BOOK 2023
 
@@ -1798,6 +1816,27 @@ Ministry of Basic and Secondary Education -The Gambia
 
 banning  corporal  punishment  in  schools  are  all  geared towards ensuring safe and conducive learning environment as well as the protection of all children, the percentage of girls at all  levels of education have increased. The figure below show the percentage of girls at all levels increasing to more than 50%.
 
+Enrolment Numbers in 2023
+Enrolment by Education Level
+ECD | 136,281
+LBE | 428,053
+UBE | 133,672
+SSE | 85,026
+
+Share of Enrolment by Management Type & Education Level
+(Government, Grant-Aided, Private & Madrassa)
+Education Level | Government | Grant-Aided | Private | Madrassa
+ECD | 35% | 2% | 44% | 19%
+LBE | 60% | 7% | 11% | 22%
+UBE | 60% | 16% | 10% | 14%
+SSE | 32% | 44% | 13% | 11%
+
+Share of Girls Enrolment by Education Level
+ECD Girls | 51.9%
+LBE Girls | 52.9%
+UBE Girls | 55.7%
+SSE Girls | 57.1%
+
 SOURCE: THE MINISTRY OF BASIC AND SECONDARY STATISTICAL YEAR BOOK 2023
 
 ### Preservice  (PRESET)  and  In-service  Training  (INSET)  of Teachers and Teacher Supply
@@ -1852,6 +1891,27 @@ Ministry of Basic and Secondary Education -The Gambia
 
 tables below will better explain this argument.
 
+Teaching Staff in 2023
+Teachers/Facilitators by Education Level
+ECD | 4,609
+LBE | 13,259
+UBE | 6,683
+SSE | 3,768
+
+Teaching Staff Share by Management Type & Education Level
+(Government, Grant-Aided, Private & Madrassa)
+Education Level | Government | Grant-Aided | Private | Madrassa
+ECD | 25% | 2% | 59% | 14%
+LBE | 61% | 6% | 16% | 17%
+UBE | 63% | 10% | 12% | 15%
+SSE | 38% | 33% | 16% | 13%
+
+Share of Qualified Teachers by Education Level
+ECD | Trained 74.7%
+LBE | Qualified 89.7%
+UBE | Qualified 95.2%
+SSE | Qualified 97.8%
+
 SOURCE: THE MINISTRY OF BASIC AND SECONDARY STATISTICAL YEAR BOOK 2023
 
 Ministry of Basic and Secondary Education -The Gambia
@@ -1864,7 +1924,83 @@ Ministry of Basic and Secondary Education -The Gambia
 
 11TH CONSULTATIONS ON THE IMPLEMENTATION OF THE 1960 CONVENTIONAND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
+Teaching Staff Indicators (1) - 2013 vs 2023
+Indicator | 2013 | 2023
+% Qualified Teachers | 84.8% | 92.5%
+% Gambian Teachers | 81.0% | 93.7%
+% Qualif. Gamb. T's (out of Gamb. T's) | 85.4% | 92.4%
+
+Teaching Staff Indicators (2) - 2013 vs 2023
+Indicator | 2013 | 2023
+% Female Teachers | 31.3% | 36.3%
+% Qualified Female Teachers | 88.8% | 94.3%
+% Qualified Gambian Female Teachers | 87.2% | 94.3%
+
+Trend of Pupils per Teacher Ratio (PTR) in LBE - 2013 to 2023
+Public
+Private
+2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023
+
+Proportion of teachers in double-shift by Region - 2023
+Reg.1 | 14.3%
+Reg.2 | 23.2%
+National | 33.4%
+Reg.3 | 51.5%
+Reg.4 | 56.4%
+Reg.6 | 60.3%
+Reg.5 | 73.3%
+
 SOURCE: THE MINISTRY OF BASIC AND SECONDARY STATISTICAL YEAR BOOK 2023
+
+Lower Basic Education - Supply and Demand Diagnosis, by District - in 2023
+Lower Basic - Pupils per Teacher Ratio (PTR)
+Lower Basic - Gross Enrolment Ratio (GER)
+National
+
+Both supply and demand issues
+Fulladu East
+Kantora
+Lower Saloum
+Central Baddibou
+Upper Saloum
+Niamina East
+Niani
+Upper Baddibou
+Niamina Dankunku
+Fulladu West
+Jarra Central
+Sami
+Foni Bintang
+
+Supply constraints
+Wuli
+Sandu
+Jarra East
+Kombo South
+Jarra West
+Foni Jarrol
+
+Demand issue
+Niamina West
+Kombo North
+Upper Niumi
+Jokadu
+
+No major issues of supply or demand
+Foni Kansala
+Lower Niumi
+Foni Brefet
+Kombo East
+Kombo Central
+Kanifing
+Kiang East
+Kiang Central
+Foni B. Karanai
+Kiang West
+Foni Bondali
+Banjul
+
+The analysis shows marked variations by district, reflecting a complex mix of supply and
 
 SOURCE: THE MINISTRY OF BASIC AND SECONDARY STATISTICAL YEAR BOOK 2023
 
@@ -1882,7 +2018,7 @@ Ministry of Basic and Secondary Education -The Gambia
 
 Further, the Early Childhood and Inclusive Education Directorate  was  set  up  in  2021  to  give  more  emphasis  on children under seven and also children with special needs and their  need  for  education.  It  also  speaks  to  the  policy pronouncements of
 
-- Non discrimination
+1. Non discrimination
 
 2. Provision of education for All
 
@@ -1940,7 +2076,7 @@ Ministry of Basic and Secondary Education -The Gambia
 
 ### Adult and Non Formal Education
 
-The Formal education system alone has not been successful in meeting all the manpower-training needs of The Gambia; and indeed, will not ever be able to do so in the near future, especially in our endeavors to achieve all the development targets  enshrined  in  the  National  Development  Plan  2023  2026.  Formal  education  has  been  successful  in  training professional  and  administrative  cadre  of  the  public  and private  sectors,  for  example:  Teachers,  Health  personnel, extension workers, researchers and other important technical and skilled areas for social and economic development.  However,  formal  education  provides  limited skills in small-scale entrepreneurship and elementary business practices, two of the major constraints on rural and national development.
+The Formal education system alone has not been successful in meeting all the manpower-training needs of The Gambia; and indeed, will not ever be able to do so in the near future, especially in our endeavors to achieve all the development targets  enshrined  in  the  National  Development  Plan  2023 - 2026.  Formal  education  has  been  successful  in  training professional  and  administrative  cadre  of  the  public  and private  sectors,  for  example:  Teachers,  Health  personnel, extension workers, researchers and other important technical and skilled areas for social and economic development.  However,  formal  education  provides  limited skills in small-scale entrepreneurship and elementary business practices, two of the major constraints on rural and national development.
 
 Ministry of Basic and Secondary Education -The Gambia
 
@@ -1966,11 +2102,9 @@ Ministry of Basic and Secondary Education -The Gambia
 
 [[START OF PAGE 55]]
 
-❖
-
 11TH CONSULTATIONS ON THE IMPLEMENTATION OF THE 1960 CONVENTIONAND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-- Influence increase in enrolment and retention by providing functional literacy  and  skills  development to mothers' clubs and ECD school readiness programme for parents;
+❖ Influence increase in enrolment and retention by providing functional literacy  and  skills  development to mothers' clubs and ECD school readiness programme for parents;
 
 ❖ Provide Non Formal Education for out-of-school youth for transition to formal schooling;
 
@@ -1978,19 +2112,13 @@ Ministry of Basic and Secondary Education -The Gambia
 
 ❖ Provide access to education for the excluded;
 
-❖
-
-- Provide opportunity for the  Formal Education system to be exposed to more learner centred methodologies and other Non Formal Education participatory techniques;
+❖ Provide opportunity for the  Formal Education system to be exposed to more learner centred methodologies and other Non Formal Education participatory techniques;
 
 ❖ Provision  of  opportunities  for  Non  Formal  Education providers to be trained in some of the tertiary institutions e.g., Gambia College, GTTI,
 
-❖
+❖ Provide opportunities for Non Formal Education graduates to transit into the  Formal Education system
 
-- Provide opportunities for Non Formal Education graduates to transit into the  Formal Education system
-
-❖
-
-- Provide functional literacy for adults
+❖ Provide functional literacy for adults
 
 ### The Performance Management System
 
