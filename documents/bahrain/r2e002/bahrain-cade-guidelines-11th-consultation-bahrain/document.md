@@ -24,7 +24,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -38,13 +38,15 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education3, and the Report on the 2022 Transforming Education Summit4 which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education5 and the Tashkent Declaration on Early Childood Care and Education.6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -54,7 +56,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -64,9 +66,7 @@ The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  C
 
 > 4 https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_summit.pdf
 
-5
-
-Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)
+> 5 Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)
 
 > 6 Tashkent-declaration-ecce-2022.pdf (unesco.org)
 
@@ -84,11 +84,11 @@ The Futures of Education Report calls for a new social contract for education, w
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation  of  the  right  to  education  in  their  country,  identify  specific  challenges,  build constructive dialogue with other actors involved in this field and share good practices.
 
-In the preparation of reports, Member States are encouraged to provide substantive and relevant information  in  a  concise  manner .  In  addition  to  a  description  of  the  constitutional,  legislative, administrative, and  policy framework  established  for  the implementation  of  the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
+In the preparation of reports, Member States are encouraged to provide substantive and relevant information in a concise manner. In addition to a description of the constitutional, legislative, administrative, and policy framework established for the implementation of the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas8, the online monitoring tool for girls' and women's right to education. Information and data regarding countries' education systems are also available through the UNESCO Institute for Statistics database9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -112,9 +112,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 6]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 4
 
@@ -142,79 +142,29 @@ shaikha_b12@moe.gov.bh
 
 0097336188855
 
-# Ratification and applicability of the Convention against Discrimination in Education 10
+# I. Ratification and applicability of the Convention against Discrimination in Education10
 
 - Is your country a State Party to the Convention?
 
- Yes
+☐ Yes
 
-No: Does your country plan to ratify this instrument?
+☒ No: Does your country plan to ratify this instrument?
 
-Yes: Please indicate the stage of ratification process reached by your country and whether assistance is needed:
+☒ Yes: Please indicate the stage of ratification process reached by your country and whether assistance is needed:
 
-There is interest but no concrete action has been taken
+☒ There is interest but no concrete action has been taken
 
-
+☐ The ratification process has been initiated
 
-The ratification process has been initiated
+☐ The ratification process is close to completion
 
-
+▪ Please briefly explain the steps that have been taken and timeline when relevant, any difficulties encountered (legal, institutional, political or practical) in completing the ratification process. And how UNESCO can assist:
 
-The ratification process is close to completion
+Recently, the Bahrain National Commission along with the authorities in the Ministry of Education of Bahrain held a meeting with UNESCO and The UNESCO Regional Office for the Gulf States and Yemen in Doha, to discuss the Right to Education and the implementation of the ratification process of the 1960 convention. The discussions aimed at seeking guidance and expertise from UNESCO to navigate the ratification process and address any challenges that may arise.
 
-- Please  briefly  explain  the  steps  that  have  been  taken  and  timeline  when relevant, any difficulties encountered (legal, institutional, political or practical) in completing the ratification process. And how UNESCO can assist:
+☐ No, not considering ratification. Please explain why:
 
-Recently, the Bahrain National Commission along with the authorities in the Ministry of Education of Bahrain held a meeting with UNESCO and The UNESCO Regional Office for  the  Gulf  States  and  Yemen  in  Doha,  to  discuss  the  Right  to  Education  and  the implementation of the ratification process of the 1960 convention.   The discussions aimed at seeking guidance and expertise from UNESCO to navigate the ratification process and address any challenges that may arise.
-
- No, not considering ratification. Please explain why:
-
-GENERAL INFORMATION:
-
-Country name:
-
-Bahrain
-
-Organization or entity responsible for the preparation of the report:
-
-Ministry of Education
-
-Name of contact person:
-
-Dr. Shaikha Mufeez
-
-Email and telephone number of contact person:
-
-shaikha_b12@moe.gov.bh
-
-0097336188855
-
-- Ratification and applicability of the Convention against Discrimination in Education 10
-
-- Is your country a State Party to the Convention?
-
- Yes
-
-No: Does your country plan to ratify this instrument?
-
-Yes: Please indicate the stage of ratification process reached by your country and whether assistance is needed:
-
-There is interest but no concrete action has been taken
-
-
-
-The ratification process has been initiated
-
-
-
-The ratification process is close to completion
-
-- Please  briefly  explain  the  steps  that  have  been  taken  and  timeline  when relevant, any difficulties encountered (legal, institutional, political or practical) in completing the ratification process. And how UNESCO can assist:
-
-Recently, the Bahrain National Commission along with the authorities in the Ministry of Education of Bahrain held a meeting with UNESCO and The UNESCO Regional Office for  the  Gulf  States  and  Yemen  in  Doha,  to  discuss  the  Right  to  Education  and  the implementation of the ratification process of the 1960 convention.   The discussions aimed at seeking guidance and expertise from UNESCO to navigate the ratification process and address any challenges that may arise.
-
- No, not considering ratification. Please explain why:
-
--Is the Convention directly applicable in your country's domestic law?
+- Is the Convention directly applicable in your country's domestic law?
 
 > 10 https://www.unesco.org/en/legal-affairs/convention-against-discrimination-education
 
@@ -222,29 +172,15 @@ Recently, the Bahrain National Commission along with the authorities in the Mini
 
 [[START OF PAGE 8]]
 
-Yes
+☒ Yes    ☐ No
 
-
+- Have courts, tribunals and/or administrative authorities adjudicated on issues or violations regarding the right to education?11
 
-No
+☐ No
 
-- Have courts, tribunals and/or administrative authorities adjudicated on issues or violations regarding
+☒ Yes: Have the provisions of the Convention been invoked?
 
-the right to education?
-
-11
-
-
-
-No
-
-Yes: Have the provisions of the Convention been invoked?
-
-
-
-Yes
-
-No
+☐ Yes    ☒ No
 
 - Please cite the case law and jurisprudence.
 
@@ -296,7 +232,7 @@ letter accompanied by acknowledgement of the receipt.
 
 ## 1. Towards an inclusive non-discriminatory education system
 
-For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
+For reference: This section relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality
 
 > 11 Judicial mechanisms play an important role in enforcing the right to education by ensuring legal accountability and therefore contributing to the practical realization of the right to education.
 
@@ -306,46 +242,35 @@ For  reference:  This  section  relates  to  the  main  purpose  of  the  Conven
 
 [[START OF PAGE 9]]
 
-It further corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. While it covers all the SDG4 targets, it also specifically covers SDG target 4.5. 12
+of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
--  Please  indicate  whether  the  rights  and  principles  laid  out  in  the  Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
+It further corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. While it covers all the SDG4 targets, it also specifically covers SDG target 4.5.12
 
- Yes
+- Please indicate whether the rights and principles laid out in the Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
 
-No
+☐ Yes    ☒ No
 
 - If yes, please provide reference:
 
-> 12 Which calls on states to ' eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations'.
-
-The Kingdom of Bahrain did not sign the agreement, but it was keen to emphasize the state's commitment to prohibiting all forms of discrimination in education and promoting equality at  the  level  of  learning  opportunities,  in  line  with  the  general  ambition  of  Goal  4  of Sustainable Development to 'ensure comprehensive and equitable quality education and promote lifelong learning opportunities for all.' by 2030, through:
+The Kingdom of Bahrain did not sign the agreement, but it was keen to emphasize the state's commitment to prohibiting all forms of discrimination in education and promoting equality at the level of learning opportunities, in line with the general ambition of Goal 4 of Sustainable Development to 'ensure comprehensive and equitable quality education and promote lifelong learning opportunities for all.' by 2030, through:
 
 ### Achieving parity between the various components of society in education:
-The Kingdom of Bahrain seeks to achieve quality education as one of the goals of sustainable development and to improve its outcomes. The Ministry of Education works  permanently  and  periodically  to  review  its  educational  system  to  enhance equal opportunities among the various components of society, specifically:
-
-•
+The Kingdom of Bahrain seeks to achieve quality education as one of the goals of sustainable development and to improve its outcomes. The Ministry of Education works permanently and periodically to review its educational system to enhance equal opportunities among the various components of society, specifically:
 
 #### Parity between girls and boys in education:
 
-Basic education is free and compulsory. The enrollment rate in the basic and
+Basic education is free and compulsory. The enrollment rate in the basic and secondary levels for both sexes increased by 14%, which led to the elimination of illiteracy, while the enrollment rate in kindergarten reached more than 82%.
 
-secondary  levels  for  both  sexes  increased  by  14%,  which  led  to  the
-
-elimination of illiteracy, while the enrollment rate in kindergarten reached
-
-more than 82%.
-
-- Various  international  reports,  especially  those  issued  by  UNESCO,  have shown that the Kingdom of Bahrain has achieved honorable results that can be summarized in:
+- Various international reports, especially those issued by UNESCO, have shown that the Kingdom of Bahrain has achieved honorable results that can be summarized in:
 
 - A high enrollment rate in the primary stage .
-
 - A high percentage of gender equality .
-
 - Low drop out from the school's rate .
-
-- In this context, the Kingdom of Bahrain has been keen, since 2006, to establish a special section to follow up on the implementation of compulsory  education  for  those  of  compulsory  age  (6-15  years), follow up on those who have dropped out of the same age group, and work to re-enroll them in education, in coordination with the Central  Information  Agency,  Information  Systems  Department  at the Ministry of Education.
+- In this context, the Kingdom of Bahrain has been keen, since 2006, to establish a special section to follow up on the implementation of compulsory education for those of compulsory age (6-15 years), follow up on those who have dropped out of the same age group, and work to re-enroll them in education, in coordination with the Central Information Agency, Information Systems Department at the Ministry of Education.
 
 #### Equality in vocational opportunities between boys and girls: through:
+
+> 12 Which calls on states to 'eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations'.
 
 [[END OF PAGE 9]]
 
@@ -535,61 +460,35 @@ development, by 2030 AD.
 
 ### 1.1 Non-discrimination and equality in education
 
-- Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation 13 , and ensure equal access to all levels and types of education (please tick all that apply):
+- Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation13, and ensure equal access to all levels and types of education (please tick all that apply):
 
-For reference: This notably is covered under SDG target 4.1 and partly target 4.b 14
+For reference: This notably is covered under SDG target 4.1 and partly target 4.b14
 
- Legal texts 15 prohibit discrimination and guarantee equal access to education:
+☐ Legal texts15 prohibit discrimination and guarantee equal access to education:
 
-In pre-primary education (including early learning and care)
-
-In primary education
-
-In secondary education
-
-In technical and vocational education and training
-
-In higher education
-
-In adult education and alternative learning
+☒ In pre-primary education (including early learning and care)
+☒ In primary education
+☒ In secondary education
+☒ In technical and vocational education and training
+☒ In higher education
+☒ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
-> 13 See: Article/Paragraph 1(1).
-
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programme s'.
-
-> 15 Constitution, laws, decrees, regulations, circulars, etc.
-
-Measures  taken  to  prevent  and  eliminate  discrimination  in  education  within  the Kingdom of Bahrain:
+Measures taken to prevent and eliminate discrimination in education within the Kingdom of Bahrain:
 
 The Kingdom of Bahrain is absolutely committed to human rights. Considering the right to education, like all human rights, imposes on the state three levels of duties, namely respect, protection, and entitlement, which we see in various laws of the Kingdom, such as the Constitution, the National Action Charter, and the Education Law, where the right to education is considered one of the basic rights that has been implemented. The Kingdom of Bahrain for consecrating and implementing it in reality and in practice:
 
-- Article  7  of  the  Constitution:  The  state  guarantees  educational  services, imposes compulsory and compulsory education, guarantees the institutions of knowledge and sanctifies them.
-
-•
-
-Chapter One - Paragraph Eight of the National Action Charter; State guarantee
-
-of educational services, imposition of compulsory and compulsory education,
-
-state guarantee of academic freedom....
-
-•
-
-Education Law: Article 1 - Compulsory age: The state guarantees the right to
-
-education when the child reaches the age of six according to the Gregorian date
-
-of the child's birth, and the compulsory age ends when he reaches the age of
-
-fifteen.
-
-•
-
-Article Two/Article Three (points 4, 5, 6 and 8)
+- Article 7 of the Constitution: The state guarantees educational services, imposes compulsory and compulsory education, guarantees the institutions of knowledge and sanctifies them.
+- Chapter One - Paragraph Eight of the National Action Charter; State guarantee of educational services, imposition of compulsory and compulsory education, state guarantee of academic freedom....
+- Education Law: Article 1 - Compulsory age: The state guarantees the right to education when the child reaches the age of six according to the Gregorian date of the child's birth, and the compulsory age ends when he reaches the age of fifteen.
+- Article Two/Article Three (points 4, 5, 6 and 8)
 
 Commitment to these laws is clear in practical application, Article 8 of the Education Law, which imposes penalties on anyone who violates compulsory education.
+
+> 13 See: Article/Paragraph 1(1).
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
+> 15 Constitution, laws, decrees, regulations, circulars, etc.
 
 10
 
@@ -691,15 +590,11 @@ In pre-primary education (including early learning and care)
 
 [[START OF PAGE 14]]
 
-In primary education
-
-In secondary education
-
-In technical and vocational education and training
-
-In higher education
-
-In adult education and alternative learning
+☒ In primary education
+☒ In secondary education
+☒ In technical and vocational education and training
+☒ In higher education
+☒ In adult education and alternative learning
 
 - Please provide details:
 
@@ -849,19 +744,11 @@ possibility of enrollment, possibility of acceptance, and adaptability) to consi
 
 actual right in its laws and educational policies.
 
- Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
+☐ Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
 Attached:
 
-Law No. (
-
-19
-
-) of
-
-2017
-
-regarding the Family law
+Law No. (19) of 2017 regarding the Family law
 
 ### 1.2 Equality of opportunities and inclusion in education
 
@@ -873,105 +760,29 @@ regarding the Family law
 
 [[START OF PAGE 16]]
 
-> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+☒ Legislation provides for inclusive education for all
+☒ Policy measures aim to enhance inclusion in education for all
+☒ Teachers are trained on inclusive education16 and to value diversity
+☒ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
+☐ Other:
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
-
-> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
-
-Legislation provides for inclusive education for
-
-all
-
-Policy measures aim to enhance inclusion in
-
-education for all
-
-Teachers are trained on inclusive education
-
-16
-
-and to value diversity
-
-Initiatives to address discrimination and
-
-promote cultural diversity and mutual
-
-acceptance
-
-
-
-Other:
-
-Multiple and flexible learning pathways
-
-17
-
-are
-
-provided for
-
-Curricula and teaching methods are inclusive
-
-in design
-
-18
-
-Multilingual and intercultural education is
-
-supported
+☒ Multiple and flexible learning pathways17 are provided for
+☒ Curricula and teaching methods are inclusive in design18
+☒ Multilingual and intercultural education is supported
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-The  Legislation  and  policies  embedded  within  the  Kingdom  of  Bahrain's  constitution  and  the
+The Legislation and policies embedded within the Kingdom of Bahrain's constitution and the National Action Charter are maintained to ensure effective alignment with the international accords, especially regarding the educational laws and local policies. The Kingdom of Bahrain acceded to the International Convention on the Elimination of All Forms of Racial Discrimination of 1965 but has not ratified the 1960 Convention Against Discrimination in Education, though it has reported to UNESCO in multiple consultations . In parallel, Article 7 of the 2002 Constitution states that 'The State … guarantees educational and cultural services to its citizens. Education is compulsory and free in the early stages as specified and provided by law. The necessary plan to combat illiteracy is laid down by law.'
 
-National  Action  Charter  are  maintained  to  ensure  effective  alignment  with  the  international
+Furthermore, according to the 6th Article of the 2005 Education Law, 'Basic education is a right of those children who reach the age of six years at the beginning of the academic year. The Kingdom is obliged to provide education for them and their parents or legal guardians are obliged to facilitate this. This shall be for a period of at least nine years of schooling. Accordingly, The Kingdom's Ministry of Education promulgates the requisite laws to govern and uphold the requirement that parents and legal guardians attend their children's school.
 
-accords,  especially  regarding  the  educational  laws  and  local  policies.  The  Kingdom  of  Bahrain
+• Integrating students with disabilities (special needs) into fully equipped schools, to ensure that everyone has access to quality education.
 
-acceded to the International Convention on the Elimination of All Forms of Racial Discrimination
+• MoE provides training programs for all teachers within different aspects to reinforce teaching strategies and cope with new developments in educational field. Training programs are divides into three key categories including educational programs, specialities programs, and support programs.
 
-of 1965 but has not ratified the 1960 Convention Against Discrimination in Education, though it
-
-has
-
-reported
-
-to
-
-UNESCO
-
-in multiple
-
-consultations .
-
-In
-
-parallel,
-
-Article
-
-7
-
-of
-
-the
-
-2002 Constitution states  that
-
-'The  State  …  guarantees  educational  and  cultural  services  to  its
-
-citizens. Education is compulsory and free in the early stages as specified and provided by law. The
-
-necessary plan to combat illiteracy is laid down by law.'
-
-Furthermore, according to the 6th Article of the 2005 Education Law, 'Basic education is a right of those children who reach the age of six years at the beginning of the academic year. The Kingdom is  obliged  to  provide  education  for them  and  their  parents  or  legal  guardians  are  obliged  to facilitate  this.  This  shall  be  for  a  period  of  at  least  nine  years  of  schooling.  Accordingly,  The Kingdom's  Ministry  of  Education  promulgates  the  requisite  laws  to  govern  and  uphold  the requirement that parents and legal guardians attend their children's school.
-
-• Integrating students with disabilities (special needs) into fully equipped schools, to ensure that
-
-everyone has access to quality education.
-
-- MoE provides training programs for all teachers within different aspects to reinforce teaching strategies  and  cope  with  new  developments  in  educational  field.  Training  programs  are divides into three key categories including educational programs, specialities programs, and support programs.
+> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
 14
 
@@ -979,107 +790,41 @@ everyone has access to quality education.
 
 [[START OF PAGE 17]]
 
-> 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
-
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
-
-> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
-
 MoE has established programs aim to support none native Speakers students and enhance their learning capabilities in Arabic Language within government schools
 
-- In general, what challenges were encountered in the implementation of non-discrimination and equal
-
-opportunities principles in education? If needed, brief quantitative information may be added.
+- In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
 none
 
 #### Other relevant general measures, including gender equality
 
-Legislation provides for gender equality in
+☒ Legislation provides for gender equality in education
+☒ Policy measures aim to enhance gender equality
+☒ Gender-responsive education sector planning is undertaken
+☒ Providing positive or affirmative action measures
+☒ Providing financial incentives and fellowships
+☒ Teachers are trained (initial and in-service) on gender equality
+☒ Teachers are trained to combat stigmatisation19
+☒ Other:
 
-education
-
-Policy measures aim to enhance gender
-
-equality
-
-Gender-responsive
-
-education
-
-sector
-
-planning is undertaken
-
-Providing positive or affirmative action
-
-measures
-
-Providing financial incentives and fellowships
-
-Teachers are trained (initial and in-service)
-
-on gender equality
-
-Teachers are trained to combat
-
-stigmatisation
-
-19
-
-Other:
-
-All  barriers  for  pregnant  girls  and  young
-
-mothers
-
-in
-
-education
-
-are
-
-eliminated
-
-to
-
-ensure the continuity of their education
-
-Re-entry programmes for young mothers
-
-are provided for
-
-Ensuring safe and adequate gender-sensitive
-
-sanitation facilities
-
-20
-
-Curricula are rid of all stereotypes
-
-21
-
-and bias
-
-Ensuring gender parity in science,
-
-technology, engineering and mathematics
-
-(STEM)
-
-Ensuring gender parity in technical and
-
-vocational training education and training
-
-(TVET)
+☒ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
+☒ Re-entry programmes for young mothers are provided for
+☒ Ensuring safe and adequate gender-sensitive sanitation facilities20
+☒ Curricula are rid of all stereotypes21 and bias
+☒ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
+☒ Ensuring gender parity in technical and vocational training education and training (TVET)
 
 Pregnant women and mothers
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-The  kingdom  of  Bahrain  Constitution  ensure  gender  equality  within  the  educational system,  hence  equivalent  learning  opportunities  are  offered  to  male  and  females  in Bahrain, as mentioned in   the  7 th article of the 2002 Constitution 'The State … guarantees educational and cultural services to its citizens. Education is compulsory and free in the early stages as specified and provided by law'
+The kingdom of Bahrain Constitution ensure gender equality within the educational system, hence equivalent learning opportunities are offered to male and females in Bahrain, as mentioned in the 7th article of the 2002 Constitution 'The State … guarantees educational and cultural services to its citizens. Education is compulsory and free in the early stages as specified and provided by law'
 
-Gender equality is also evident through the implementation of sustainable development goals within the Kingdom of Bahrain; in alignment with fourth SDG  that ensures inclusive and equitable quality education and promote lifelong learning opportunities for all, Bahrain established a target that state  'By 2030, ensure that all girls and boys have access to quality
+Gender equality is also evident through the implementation of sustainable development goals within the Kingdom of Bahrain; in alignment with fourth SDG that ensures inclusive and equitable quality education and promote lifelong learning opportunities for all, Bahrain established a target that state 'By 2030, ensure that all girls and boys have access to quality
+
+> 19 'Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
+> 20 'Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
 [[END OF PAGE 17]]
 
@@ -1201,37 +946,31 @@ projects related to education with the Supreme Council for Women, and developing
 
 [[START OF PAGE 19]]
 
-> 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: ' a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law  and on the evidence of maturity, without deference to culture and tradition.'
-
 and programs to ensure the effectiveness of the role of Bahraini women in development. The Department of Organizations and Committees Affairs coordinates with the authorities to monitor indicators for implementing the National Plan for the Advancement of Bahraini Women, to ensure the achievement of equal opportunities.
 
-- In The Gender Parity Index (GPI) in SDG4 indicators shows that there are equal
-
-opportunities in teachers training
+- In The Gender Parity Index (GPI) in SDG4 indicators shows that there are equal opportunities in teachers training
 
 - What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
-- Does the legal minimum age for marriage conform to international standards (18 years) 22 :
+- Does the legal minimum age for marriage conform to international standards (18 years)22:
 
 Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
- Yes
+☐ Yes    ☒ No
 
-No
-
-- Please provide reference to the relevant laws and provisions and indicate the exceptions to the
-
-legal age of marriage as well as the absolute minimum age:
+- Please provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age:
 
 According to Law No. 19 of 2017, the marriage age in the Kingdom of Bahrain is 16 years, except that the Ministry of Education provides evening education for students who are unable to study regularly.
 
-Education  is  compulsory  in  the  Kingdom  of  Bahrain  from  the  age  of  6  to  15  years,  as previously mentioned.
+Education is compulsory in the Kingdom of Bahrain from the age of 6 to 15 years, as previously mentioned.
 
-According to the decree-law (25) for 1998, adult learning is available for all Bahraini citizens who are not enrolled in any educational institution, also according to the law (25) Article (9), the law stipulates that 'literacy and adult education is a nat ional responsibility whose goal is to raise the level of awareness within citizens culturally, socially, and professionally and to eliminate illiteracy through different programs.
+According to the decree-law (25) for 1998, adult learning is available for all Bahraini citizens who are not enrolled in any educational institution, also according to the law (25) Article (9), the law stipulates that 'literacy and adult education is a national responsibility whose goal is to raise the level of awareness within citizens culturally, socially, and professionally and to eliminate illiteracy through different programs.
 
 The Ministry of Education offers a variety of types of learning options to pursue continuing education such as basic education, evening schooling, etc
 
-Evening education is designed for people who did not complete their education within all educational levels, it  is set  to  eliminate  literacy  in  the  Kingdom  of  Bahrain.  All  married
+Evening education is designed for people who did not complete their education within all educational levels, it is set to eliminate literacy in the Kingdom of Bahrain. All married
+
+> 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
 
 [[END OF PAGE 19]]
 
@@ -1263,11 +1002,9 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Teachers are trained to combat stigmatisation 24
 
-- o Multilingual and intercultural education are supported
-
-- o Native language instruction is ensured for national minorities
-
-- o Adapting curricula and teaching and learning methods to their needs for national minorities
+o Multilingual and intercultural education are supported
+o Native language instruction is ensured for national minorities
+o Adapting curricula and teaching and learning methods to their needs for national minorities
 
  Curricula are rid of all stereotypes 25 and bias
 
@@ -1279,14 +1016,8 @@ Article (18) of the Constitution of the Kingdom of Bahrain states: 'People are e
 
 Islamic Subject is not compulsory for non-Muslims, MoE provides support programs for non-native  students,  such  as  the  Arabic  language  teaching  program  for  non-native speakers, as well as implementing workshops and training courses, and providing special educational materials.
 
-> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the
-
-> 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
-
-24
-
-> Supra note 15.
-
+> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
+> 24 Supra note 15.
 > 25 Supra note 16.
 
 18
@@ -1297,11 +1028,11 @@ Islamic Subject is not compulsory for non-Muslims, MoE provides support programs
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
-#### Indigenous people:
-
 No challenges
 
- Legislation provides for the right to education of indigenous people
+#### Indigenous people:
+
+☐ Legislation provides for the right to education of indigenous people
 
  Policy measures aim to enhance the right to education of indigenous people
 
@@ -1413,127 +1144,44 @@ No challenges
 
 [[START OF PAGE 23]]
 
-33
-
-34
-
 #### People with disabilities
 
-Legislation provides for their right to
+☒ Legislation provides for their right to education
+☒ Policy measures aim to enhance their right to education
+☒ Inclusion in mainstream schools is ensured
+☒ Special schools are used as resource centers to inclusive schools
+☒ Positive or affirmative action measures are provided
+☒ Financial incentives and fellowships are provided
+☒ Other
 
-education
-
-Policy measures aim to enhance their right to
-
-education
-
-Inclusion in mainstream schools is ensured
-
-Special schools are used as resource centers
-
-to inclusive schools
-
-Positive or affirmative action measures are
-
-provided
-
-Financial incentives and fellowships are
-
-provided
-
-Other
-
-Mainstream teachers are specifically trained
-
-on disabilities
-
-Teachers are trained to combat
-
-stigmatisation
-
-33
-
-Auxiliary assistance is provided
-
-Curricula and teaching and learning
-
-methods are adapted
-
-Curricula are rid of all stereotypes
-
-34
-
-and bias
-
-Education infrastructure and learning
-
-materials are adapted
+☒ Mainstream teachers are specifically trained on disabilities
+☒ Teachers are trained to combat stigmatisation33
+☒ Auxiliary assistance is provided
+☒ Curricula and teaching and learning methods are adapted
+☒ Curricula are rid of all stereotypes34 and bias
+☒ Education infrastructure and learning materials are adapted
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-The Constitution of the Kingdom of Bahrain stipulates ensuring educational services for all groups,
-
-and the Education Law stipulates in Article Five, First Paragraph, 'Providing educational
-
-opportunities for every individual to develop his aptitudes, abilities, and skills to achieve self-
-
-actualization and develop his life and society.' It was also mentioned in Paragraph (10) of the
-
-same Constitution that it is necessary to provide a variety of educational opportunities based on
-
-the diverse needs of individuals, caring for gifted and talented students, and enhancing their
-
-experiences, and caring for slow learners and people with special needs.
+The Constitution of the Kingdom of Bahrain stipulates ensuring educational services for all groups, and the Education Law stipulates in Article Five, First Paragraph, 'Providing educational opportunities for every individual to develop his aptitudes, abilities, and skills to achieve self-actualization and develop his life and society.' It was also mentioned in Paragraph (10) of the same Constitution that it is necessary to provide a variety of educational opportunities based on the diverse needs of individuals, caring for gifted and talented students, and enhancing their experiences, and caring for slow learners and people with special needs.
 
 Ministry of Education initiative to integrate students with disabilities into public schools
+Offer people with disabilities special care, providing them with social support, healthcare, and cultural activities, in addition to training and rehabilitation, and helping them to become more integrated into society and the labor market
 
-Offer people with disabilities special care, providing them with social support, healthcare, and
-
-cultural activities, in addition to training and rehabilitation, and helping them to become more
-
-integrated into society and the labor market
-
-Students with special needs are provided with different resources as supplies to support them
-
-within the school year, in addition to the support given from the teachers during the examination
-
-period.
-
-Students with special needs as (Blind, Deaf and Mute) are given all the support through their
-
-school years, and studies to be competent, also the support is given during the time of the
-
-examination.
-
+Students with special needs are provided with different resources as supplies to support them within the school year, in addition to the support given from the teachers during the examination period.
+Students with special needs as (Blind, Deaf and Mute) are given all the support through their school years, and studies to be competent, also the support is given during the time of the examination.
 For example:
+• Blind students are given exams by using the Braille system
+• Deaf and Mute students are given listening exams instead of reading exams, in addition to the availability of sign language teacher for support.
 
-•
+Reference to Law no. (77) of 2013 Article 31 for salaries and job benefits, an allowance for education, rehabilitation or care of persons with disabilities shall be paid at a rate of (50) or (100) dinars per month to employees performing these tasks in government schools affiliated with the
 
-Blind students are given exams by using the Braille system
-
-•
-
-Deaf and Mute students are given listening exams instead of reading exams, in addition to
-
-the availability of sign language teacher for support.
-
-Reference to Law no. (77) of 2013 Article 31 for salaries and job benefits, an allowance for
-
-education, rehabilitation or care of persons with disabilities shall be paid at a rate of (50) or (100)
-
-dinars per month to employees performing these tasks in government schools affiliated with the
-
-Supra note 15.
-
-Supra note 16.
+> 33 Supra note 15.
+> 34 Supra note 16.
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
-
-> 35 Supra note 15.
-
-> 36 Supra note 16.
 
 Ministry of Education and rehabilitation centers affiliated with the Ministry of Social Development.
 
@@ -1543,51 +1191,26 @@ None
 
 #### Students from poor households:
 
-Financial incentives and fellowships for
+☒ Financial incentives and fellowships for school enrollment are provided
+☒ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
+☐ Positive or affirmative action measures are provided
+☒ Other:
 
-school enrollment are provided
-
-Transport, meals and education material are
-
-subsidised  or  provided  free  of  charge  beyond
-
-compulsory education
-
-
-
-Positive or affirmative action measures are
-
-provided
-
-Other:
-
-
-
-Teachers are trained to combat
-
-stigmatisation
-
-35
-
-
-
-Curricula are rid of all stereotypes
-
-36
-
-and
-
-bias
+☒ Teachers are trained to combat stigmatisation35
+☒ Curricula are rid of all stereotypes36 and bias
 
 - The Kingdom of Bahrain is one of the first countries in the region to introduce formal education, establishing the first school in 1919. Since then, the Kingdom has ranked first regionally and enjoyed a prestigious position internationally, providing education for every member of society without discrimination. International reports have praised Bahrain's achievements, which is 95%, in addition to its high level in the Human Development Index.
 
-- In  line  with  the  "Education  for  All"  principle,  the  Government  provides  free,  high-quality education at public schools to Bahrainis and expatriates. Students with special needs have been integrated into schools, which have the appropriate equipment, tools, and experience to meet their needs.
+- In line with the "Education for All" principle, the Government provides free, high-quality education at public schools to Bahrainis and expatriates. Students with special needs have been integrated into schools, which have the appropriate equipment, tools, and experience to meet their needs.
 
 - Free transportation services are provided for all students in public schools. More than 37,000 students are transported from their homes in various governorates using 650 buses.
 
-- The Ministry  of  Education  pays  particular  attention  to  issues  of  prejudice  and  bullying  and reducing  them  in  schools.  In  response  to  these  behaviours,  the  Ministry  has  been  keen  to provide  high-quality  psychological,  behavioural,  and  social  services  to  all  students  without discrimination.  Lectures  and  training  courses  have  also  been  organized  to  raise  awareness among teachers about the issue and how to deal with it.
+- The Ministry of Education pays particular attention to issues of prejudice and bullying and reducing them in schools. In response to these behaviours, the Ministry has been keen to provide high-quality psychological, behavioural, and social services to all students without discrimination. Lectures and training courses have also been organized to raise awareness among teachers about the issue and how to deal with it.
 
-- The  renewal  and  development  of  curricula  is  carried  out  continuously,  in  line  with  local, regional and global changes and developments, including benefiting from modern educational experiences,  expertise  and  practices  at  the  international  level.  The  curricula  encourage  the inculcation  of  national,  civilizational  and  human  values,  such  as  tolerance,  coexistence, moderation, freedom of expression, dialogue and national unity. Special curricula and courses have also been developed to perpetuate these noble national values, such as the community
+- The renewal and development of curricula is carried out continuously, in line with local, regional and global changes and developments, including benefiting from modern educational experiences, expertise and practices at the international level. The curricula encourage the inculcation of national, civilizational and human values, such as tolerance, coexistence, moderation, freedom of expression, dialogue and national unity. Special curricula and courses have also been developed to perpetuate these noble national values, such as the community
+
+> 35 Supra note 15.
+> 36 Supra note 16.
 
 22
 
@@ -1596,27 +1219,25 @@ bias
 [[START OF PAGE 25]]
 
 service course, which aims to promote volunteer work, tolerance, coexistence and cooperation among secondary school students.
---- | ---
-• | The Ministry of 'Justice, Islamic Affairs and Waqf' and different Banks provide the Ministry of Education with winter aid coupons to be distributed to the students in need from different governmental schools, which are chosen according to their situation.
-• | The Ministry of Education provides students that are need with the main necessities as school uniform, shoes, eyeglasses, school stationary, free school transport, and also pocket money (as coupons for the school canteen)
-• | The Ministry of Education seeks to preserve the psychological well-being of students in need and the underprivileged in the best possible way. The ministry distributes aid vouchers to all students without exception or discrimination, while providing additional support to some needy students through appropriate methods that take into account their psychological circumstances.
+
+• The Ministry of 'Justice, Islamic Affairs and Waqf' and different Banks provide the Ministry of Education with winter aid coupons to be distributed to the students in need from different governmental schools, which are chosen according to their situation.
+• The Ministry of Education provides students that are need with the main necessities as school uniform, shoes, eyeglasses, school stationary, free school transport, and also pocket money (as coupons for the school canteen)
+• The Ministry of Education seeks to preserve the psychological well-being of students in need and the underprivileged in the best possible way. The ministry distributes aid vouchers to all students without exception or discrimination, while providing additional support to some needy students through appropriate methods that take into account their psychological circumstances.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-• | Law No. (27) of 2005 Regarding Education: This law is related to education, one of the rights guaranteed by the Kingdom to all citizens. It covers its most important objectives and principles, the bodies responsible for the educational system and its most important tasks, the ages where education is compulsory, the penalty for depriving children of their right to education, the role of the ministry in eliminating illiteracy, the most important basic materials for education, and the number of school day.
---- | ---
-• | Aligns with the strategic goals of the Ministry of Education in:
-- | Axis: (Improving the quality and efficiency of educational services).
-- | Goal: (Qualitative curricula that meet the requirements of the 21st century and the Economic Vision 2030).
-- | Goal: (Educational opportunities available to all).
-- | The goal of providing quality and comprehensive education and enhancing learning opportunities for all in line with Bahrain's Economic Vision 2030.
+• Law No. (27) of 2005 Regarding Education: This law is related to education, one of the rights guaranteed by the Kingdom to all citizens. It covers its most important objectives and principles, the bodies responsible for the educational system and its most important tasks, the ages where education is compulsory, the penalty for depriving children of their right to education, the role of the ministry in eliminating illiteracy, the most important basic materials for education, and the number of school day.
+• Aligns with the strategic goals of the Ministry of Education in:
+- Axis: (Improving the quality and efficiency of educational services).
+- Goal: (Qualitative curricula that meet the requirements of the 21st century and the Economic Vision 2030).
+- Goal: (Educational opportunities available to all).
+- The goal of providing quality and comprehensive education and enhancing learning opportunities for all in line with Bahrain's Economic Vision 2030.
 
-- What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
+- What challenges were encountered in realizing the right to education of students from poor households? If needed, brief quantitative information may be added.
 
-## Progress made with respect to implementing the right to education across all levels and forms of education
+• Learning disruption due to COVID-19: To overcome this challenge, 9920 laptops were distributed to students from low-income families.
 
-• | Learning disruption due to COVID-19: To overcome this challenge, 9920 laptops were distributed to students from low-income families .
---- | ---
+## 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 [[END OF PAGE 25]]
 
@@ -1624,7 +1245,7 @@ service course, which aims to promote volunteer work, tolerance, coexistence and
 
 ### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -1632,13 +1253,15 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 - Prior to pre-primary education, ECCE services are affordable
 
-- ECCE services are accessible on a nondiscriminatory basis
+- ECCE services are accessible on a non-discriminatory basis
+
+- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
-- The cost of enrollment in ECCE institutions varies, which allows most children from different financial group to join.
+1. The cost of enrollment in ECCE institutions varies, which allows most children from different financial group to join.
 
-- The ministry decision and la ws mentioned below, guarantee the child's right to education and none discrimination, and ensure the appropriate environment for education:
+2. The ministry decision and laws mentioned below, guarantee the child's right to education and none discrimination, and ensure the appropriate environment for education:
 
 - Law 25 of 1998 - private educational and training institutions and related ministerial decisions.
 
@@ -1650,15 +1273,13 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 - Is compulsory and free of charge pre-primary education available?
 
-- Pre-primary education is not compulsory.
-
  Pre-primary education is compulsory. Please provide the age of enrollment and duration:
+
+Pre-primary education is not compulsory.
 
 > 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
 > 38 Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
-
-ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 24
 
@@ -1686,9 +1307,7 @@ Approximate fees range (independent nurseries, and kindergartens)
 
 - Kindergarten: 10BD - 200BD
 
--
-
-Nurseries: 20BD - 100BD
+- Nurseries: 20BD - 100BD
 
 - What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
@@ -1706,15 +1325,15 @@ Low number of professionally trained educators
 
 Lack of support to families
 
-- Early childhood education is not compulsory
+1. Early childhood education is not compulsory
 
-- Early childhood education is not free and there is no financial support for families
+2. Early childhood education is not free and there is no financial support for families
 
 #### To solve challenges:
 
 Early childhood education, licensing, and follow-up directorate Worked on the following projects:
 
-- Currently collaborating with UNESCO to achieve the following:
+1. Currently collaborating with UNESCO to achieve the following:
 
 - ECCE regulatory framework revised and developed
 
@@ -1728,19 +1347,19 @@ Early childhood education, licensing, and follow-up directorate Worked on the fo
 
 - System management and governance (quality assurance)
 
-- Finished project recently (road map for Early Childhood Education affordability and accessibility in Bahrain) with consultation company (Arthur D. Little)
+2. Finished project recently (road map for Early Childhood Education affordability and accessibility in Bahrain) with consultation company (Arthur D. Little)
 
-- Insurance or ECCE, Regulatory framework
+3. Insurance or ECCE, Regulatory framework
 
-- Early intervention for children or special needs proposal
+4. Early intervention for children or special needs proposal
 
-- Cooperated  with  QuadraBay  to  verify  the  validity  of  academic  qualification,  issued  by  higher education institutions
+5. Cooperated with QuadraBay to verify the validity of academic qualification, issued by higher education institutions
 
 - Please elaborate. Brief quantitative information may be added.
 
 ### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 #### Primary education
 
@@ -1808,11 +1427,8 @@ In this part, please provide information on the general availability and accessi
 
 - Please provide the age of enrollment and duration of lower secondary education:
 
-• | Basic education, covering the first nine academic years for students aged approximately between 6 and 14, is mandatory in Bahrain by law. The Ministry of Education ensures that all children in this age group receive appropriate education, either in public or private schools .
---- | ---
-• | This level Known as 'intermediate level' is for children usually aged between 12 and 14.
-Students can only enter this level after successfully completing their elementary education.
-The intermediate level is taught by teachers specialized in individual subjects.
+• Basic education, covering the first nine academic years for students aged approximately between 6 and 14, is mandatory in Bahrain by law. The Ministry of Education ensures that all children in this age group receive appropriate education, either in public or private schools.
+• This level Known as “intermediate level” is for children usually aged between 12 and 14. Students can only enter this level after successfully completing their elementary education. The intermediate level is taught by teachers specialized in individual subjects.
 
 [[END OF PAGE 29]]
 
@@ -1820,7 +1436,7 @@ The intermediate level is taught by teachers specialized in individual subjects.
 
 - Please provide the age of enrollment and duration of upper secondary education:
 
-. They are followed by another three years of secondary education, which includes various tracks.
+• . They are followed by another three years of secondary education, which includes various tracks.
 
 - The final level of school education, the secondary level, prepares students for enrollment in universities  and  higher  institutes,  or  to  directly  enter  the  labour  market.  Lasting  three academic years, it is divided into six semesters. To be accepted into the first semester of secondary education, students are required to have graduated from intermediate school or have an equivalent certificate.
 
@@ -1878,7 +1494,13 @@ Yes                No
 
 Other:
 
-- Increasing the number of students transferring from private schools to public schools, which requires increasing the number of school seats in public schools by 2,400 seats for the academic year.
+ Poor learning outcomes
+
+ Low readiness of primary graduates
+
+ Low number of professionally trained teachers
+
+• Increasing the number of students transferring from private schools to public schools, which requires increasing the number of school seats in public schools by 2,400 seats for the academic year.
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1895,12 +1517,6 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 > 39 Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'.
 
 > 40 Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'.
-
- Poor learning outcomes
-
- Low readiness of primary graduates
-
- Low number of professionally trained teachers
 
 [[END OF PAGE 31]]
 
@@ -1922,19 +1538,17 @@ Rights (1966) further adds that this should be pursued by 'every appropriate mea
 
 - Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
-Other:
+ Other:
 
-#### Public Higher Education is Subsidized by the Government by Almost 90%:
+#### 1. Public Higher Education is Subsidized by the Government by Almost 90%:
 
--Government  subsidies  covering  nearly  90%  of  the  costs  for  University  of Bahrain,  Bahrain  Polytechnic  and  Shaikh  Abdullah  Ben  Khaled  College  for Islamic Studies significantly enhance accessibility for students. By substantially reducing tuition fees, these subsidies make higher education more affordable and  attainable  for  individuals  from  diverse  economic  backgrounds.  This financial  support  helps  to  eliminate  barriers  that  might  otherwise  prevent students from pursuing higher education, thereby increasing enrollment rates and promoting broader participation in academic programs.
+- Government subsidies covering nearly 90% of the costs for University of Bahrain, Bahrain Polytechnic and Shaikh Abdullah Ben Khaled College for Islamic Studies significantly enhance accessibility for students. By substantially reducing tuition fees, these subsidies make higher education more affordable and attainable for individuals from diverse economic backgrounds. This financial support helps to eliminate barriers that might otherwise prevent students from pursuing higher education, thereby increasing enrollment rates and promoting broader participation in academic programs.
 
-#### The Framework of the Recognition of Prior Learning (RPL) has been Initiated (Resolution No. (1) of 2023):
+#### 2. The Framework of the Recognition of Prior Learning (RPL) has been Initiated (Resolution No. (1) of 2023):
 
--The  initiation  of  the  Recognition  of  Prior  Learning  (RPL)  framework  under Resolution No. (1) of 2023 improves accessibility by formally acknowledging and  accrediting  skills  and  knowledge  gained  outside  traditional  educational environments.  Resolution  No.  (1)  allowed  individuals  to  gain  access  to academic programs at higher education institutions based on their previous work experience.
+- The initiation of the Recognition of Prior Learning (RPL) framework under Resolution No. (1) of 2023 improves accessibility by formally acknowledging and accrediting skills and knowledge gained outside traditional educational environments. Resolution No. (1) allowed individuals to gain access to academic programs at higher education institutions based on their previous work experience.
 
--Resolution No. (1) of 2023 also allowed progression from vocational streams to academic  streams  that  enhances  educational  accessibility  by  providing  a flexible pathway for individuals to advance their studies. Students who begin their education in vocational programs can transition to academic programs if they wish to pursue further education. This flexibility ensures that those with practical skills and vocational training have the opportunity to obtain academic qualifications, broadening their career options and supporting their long-term educational goals.
-
-
+- Resolution No. (1) of 2023 also allowed progression from vocational streams to academic streams that enhances educational accessibility by providing a flexible pathway for individuals to advance their studies. Students who begin their education in vocational programs can transition to academic programs if they wish to pursue further education. This flexibility ensures that those with practical skills and vocational training have the opportunity to obtain academic qualifications, broadening their career options and supporting their long-term educational goals.
 
 30
 
@@ -1942,31 +1556,31 @@ Other:
 
 [[START OF PAGE 33]]
 
-#### Arrangements between the Higher Education Council and Ministry of Interior to provide education to inmates different academic opportunities:
+#### 3. Arrangements between the Higher Education Council and Ministry of Interior to provide education to inmates different academic opportunities:
 
 -The arrangements between the Higher Education Council and the Ministry of Interior  are  poised  to  offer  inmates  access  to  different  degree  programs provided by both public and private universities. This initiative introduces a range  of  academic  opportunities  within  correctional  facilities,  aiming  to support  inmates'  academic  and  personal  development  and  improve  their reintegration into society. The programs utilizes the resources and expertise of various institutions to enhance rehabilitation efforts.
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs  (e.g.,  enrollment  fees  and  tuition  fees)  and  indirect  costs  (e.g.,  exam  fees,  university supplies, transport, accommodation). Brief quantitative information may be added.
 
-- Legislative Decree No. (3) of 2005 regarding the Law of Higher Education and No. (31) of 2020 amending some provisions of the Legislative Decree No. (3).
+1. Legislative Decree No. (3) of 2005 regarding the Law of Higher Education and No. (31) of 2020 amending some provisions of the Legislative Decree No. (3).
 
-- Decision No. (206) of 2023 on Organizing the Work of Private Higher Education Institutions:
+2. Decision No. (206) of 2023 on Organizing the Work of Private Higher Education Institutions:
 
 RBHEC20623.pdf (legalaffairs.gov.bh)
 
-- Resolution No. (1) of (2023): Transfer of students between HEIs or continuing their studies to obtain a higher academic degree; Students are allowed, according to the decision, to transfer from vocational programmes to academic programmes in accordance to specific requirements.
+3. Resolution No. (1) of (2023): Transfer of students between HEIs or continuing their studies to obtain a higher academic degree; Students are allowed, according to the decision, to transfer from vocational programmes to academic programmes in accordance to specific requirements.
 
-- Details on entry requirements and tuition fees at the University of Bahrain can be found via the links:
+4. Details on entry requirements and tuition fees at the University of Bahrain can be found via the links:
 
 JOIN UOB - University of Bahrain
 
-University Fee Support -University of Bahrain (uob.edu.bh)
+University Fee Support – University of Bahrain (uob.edu.bh)
 
 STUDYING FEES - University of Bahrain (uob.edu.bh)
 
-No-Poverty Policy -University of Bahrain (uob.edu.bh)
+No-Poverty Policy – University of Bahrain (uob.edu.bh)
 
-- Details on tuition fees at Bahrain Polytechnic can be found via the link:
+5. Details on tuition fees at Bahrain Polytechnic can be found via the link:
 
 Student Fees and Finance - Bahrain Polytechnic
 
@@ -2036,7 +1650,7 @@ Providing education to students imprisoned in criminal cases. According to law n
 
 shall have the right to pursue their education at different levels of education, in accordance with the regulations and procedures issued by Reform and Rehabilitation Institutions.
 
-According to the decree-law (25) for 1998, adult learning is available for all citizens who are not enrolled in any educational institution, also according to the law (25) Article (9), the law stipulates that 'literacy and adult education is a national res ponsibility whose goal is to raise the level of awareness within citizens culturally, socially, and professionally and to eliminate illiteracy through different programs.
+According to the decree-law (25) for 1998, adult learning is available for all citizens who are not enrolled in any educational institution, also according to the law (25) Article (9), the law stipulates that 'literacy and adult education is a national responsibility whose goal is to raise the level of awareness within citizens culturally, socially, and professionally and to eliminate illiteracy through different programs.
 
 - What challenges were encountered in realizing adult learning and education?
 
@@ -2060,7 +1674,7 @@ Motivating adults to continue education.
 
 ## 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 ### 3.1 General measures
 
@@ -2150,9 +1764,7 @@ Establishment of performance monitoring systems.
 
 Measures taken to increase women in leadership positions in education.
 
-
-
-Other:
+ Other:
 
 - Please elaborate on each of the measures taken:
 
@@ -2241,6 +1853,10 @@ Shortages of teaching staff
 
  Other:
 
+o Low quality educational infrastructure and materials
+
+o High student – teacher ratio
+
 - Please elaborate. Brief quantitative information may be added.
 
 - In  the  Kingdom  of  Bahrain,  the  rising  preference  for  government  schools  among students and parents, particularly in the early education stages, as well as the shift from  private  to  public  education,  poses  an  annual  challenge  for  the  Ministry  of Education  in  ensuring  the  availability  of  highly  qualified,  trained,  and  motivated teaching staff. To address this issue, the Ministry of Education in Bahrain has been implementing various solutions, such as increasing investments in the development of educational infrastructure to create a stimulating learning environment equipped with modern technologies. Additionally, continuous training programs for educators are being offered to enhance their teaching skills and interactive techniques, thus meeting the evolving demands of the education sector.
@@ -2249,19 +1865,13 @@ Shortages of teaching staff
 
 ### 3.3 Respect for human rights and fundamental freedoms
 
-- o Low quality educational infrastructure and materials
-
-- o High student -teacher ratio
-
 36
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
 
-> 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
-
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation  and  that  the  future  consultation  on  the  1974  Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
@@ -2269,9 +1879,7 @@ Curriculum includes human rights education.
 
 Educational and/or extracurricular activities are organized on human rights education.
 
-
-
-Other:
+ Other:
 
 •
 
@@ -2321,7 +1929,9 @@ Kingdom of Bahrain has achieved first place in the Arab countries in achieving t
 
 - Please elaborate on each of the measures taken:
 
-• Based on the directives of His Majesty King Hamad bin Isa Al Khalifa to teach the political system to  secondary  school  students  and  what  is  stipulated  in  the  Constitution  of  the  Kingdom  of Bahrain in Article (7-B) and the Education Law on the teaching of national education; In response to that, Ministerial Decision No. 252/ME/2004 was issued on 18/04/2004, and the Ministry of Education  and  Training  decided  to  teach  citizenship  education  as  an  independent  subject  in
+• Based on the directives of His Majesty King Hamad bin Isa Al Khalifa to teach the political system to secondary school students and what is stipulated in the Constitution of the Kingdom of Bahrain in Article (7-B) and the Education Law on the teaching of national education; In response to that, Ministerial Decision No. 252/ME/2004 was issued on 18/04/2004, and the Ministry of Education and Training decided to teach citizenship education as an independent subject in
+
+> 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
 [[END OF PAGE 39]]
 
@@ -2594,39 +2204,7 @@ The Ministry must have approved his employment, and such approval should
 
 be renewed once every two years for non-Bahrainis.
 
-Private schools in Bahrain cater to different needs and beliefs, for example Sacred
-
-Heart School which was established in 1948 is currently in the care of the Apostolic
-
-Carmel Sisters and is permitted to have Sundays off out of respect for the majority of
-
-the faculty
-
-'
-
-s and students
-
-'
-
-religious practice in contrary to other schools where the
-
-week typically starts on Sunday, the large South Asian communities
-
-'
-
-needs are met
-
-through many schools serving them ( around 13 schools) such as the Indian School and
-
-Pakistan School, even though most of the private schools in the Kingdom are co-ed ,
-
-single-gender schools are also available such as Al Iman Schools and Al Falah
-
-Schools as well as Shaikha Hessa Girls
-
-'
-
-School.
+Private schools in Bahrain cater to different needs and beliefs, for example Sacred Heart School which was established in 1948 is currently in the care of the Apostolic Carmel Sisters and is permitted to have Sundays off out of respect for the majority of the faculty’s and students’ religious practice in contrary to other schools where the week typically starts on Sunday, the large South Asian communities’ needs are met through many schools serving them ( around 13 schools) such as the Indian School and Pakistan School, even though most of the private schools in the Kingdom are co-ed , single-gender schools are also available such as Al Iman Schools and Al Falah Schools as well as Shaikha Hessa Girls’ School.
 
 - Please elaborate:
 
@@ -2635,8 +2213,6 @@ School.
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
-
-### 3.5 Digital education
 
  Low quality educational infrastructure and materials
 
@@ -2655,6 +2231,8 @@ establishment of new institutions with affordable fees
 - Please elaborate. Brief quantitative information may be added.
 
 A main challenge is the establishment of new institutions with high quality education and affordable fees for a wide section of the population. The demand on current mid- range fee schools is high and most new investors request a higher fee range to acquire a better return on investment and to maintain international accreditation standards.
+
+### 3.5 Digital education
 
 Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 44 .
 
@@ -2678,7 +2256,7 @@ Regulatory framework establishes minimum education standards for digital educati
 
 [[START OF PAGE 45]]
 
-Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
 Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -2699,11 +2277,11 @@ The My Digital Library initiative is a key component of the Ministry of  Educati
 
 The objectives of the My Digital Library initiative are as follows:
 
-- To  publish  schools'  exemplary  digital  educational  content  on  the  'My  Digital  Library' website, following specific guidelines and policies, to maximize its benefit.
+1. To publish schools' exemplary digital educational content on the 'My Digital Library' website, following specific guidelines and policies, to maximize its benefit.
 
-- To  equip  teachers  and  students  with  the  skills  needed  to  produce  high-quality  digital educational content that meets approved standards.
+2. To equip teachers and students with the skills needed to produce high-quality digital educational content that meets approved standards.
 
-- To  implement  a  policy  with  established  standards  and  indicators  for  evaluating  digital educational  content  produced  by  schools,  ensuring  its  quality  from  both  educational  and technical perspectives.
+3. To implement a policy with established standards and indicators for evaluating digital educational content produced by schools, ensuring its quality from both educational and technical perspectives.
 
 > 45 Lack of internet connection, basic infrastructure or devices.
 
@@ -2715,7 +2293,7 @@ The objectives of the My Digital Library initiative are as follows:
 ##### **My Digital Library Site Usage Policy: **
 1. The author and source of the content must be properly cited, as with any printed material. 2. Content posted on the site may not be used for commercial purposes; this means that neither the content nor products incorporating the content can be sold. 3. Schools are responsible for all content they publish. 4.  Each  user  or  publisher  must  select  the  appropriate  Creative  Commons  license  for  their content. 5. It is prohibited to publish content that is scientifically inaccurate or that discriminates based on religion, gender, race, or language. 6. No advertising or promotional content is allowed within the produced content. 7.  The  site  assumes  no  legal  responsibility  for  any  content  published,  including  errors, defamation, omissions, or inaccuracies in the posted information.
 #### eduNET Educational Portal:
-The eduNET Educational Portal is a national e-learning platform designed to support digital empowerment in education. It serves as a communication bridge between the Ministry of Education's student databases and its various audie nces, including students  across  all  educational  levels,  administrative  and  educational  staff  in  government schools, and parents. The portal provides a range of administrative and educational electronic services, such as displaying student grades, academic schedules, tracking daily attendance and absences, monitoring daily assignments, and more. These services benefit students, teachers, specialists,  school  administrators,  and  parents,  while  also  adhering  to  strict  information security standards. The portal is also available as a mobile application, allowing parents to conveniently access information about their children, such as attendance records and academic results, directly from  their  smartphones.  Additionally,  the  educational  portal  offers  easy  access  to  digital educational  content,  including  electronic  lessons,  resources,  and  enrichment  software  for subjects like science and mathematics. This content includes interactive simulation software that helps students engage with various educational objectives, such as solving mathematical problems or conducting scientific experiments on their own.
+The eduNET Educational Portal is a national e-learning platform designed to support digital empowerment in education. It serves as a communication bridge between the Ministry of Education's student databases and its various audiences, including students across all educational levels, administrative and educational staff in government schools, and parents. The portal provides a range of administrative and educational electronic services, such as displaying student grades, academic schedules, tracking daily attendance and absences, monitoring daily assignments, and more. These services benefit students, teachers, specialists, school administrators, and parents, while also adhering to strict information security standards. The portal is also available as a mobile application, allowing parents to conveniently access information about their children, such as attendance records and academic results, directly from their smartphones. Additionally, the educational portal offers easy access to digital educational content, including electronic lessons, resources, and enrichment software for subjects like science and mathematics. This content includes interactive simulation software that helps students engage with various educational objectives, such as solving mathematical problems or conducting scientific experiments on their own.
 
 44
 
@@ -2798,11 +2376,9 @@ thinking, play a central role in the learning process
 
  Lack of equity and inclusion in digital learning solutions
 
- inadequate safety measures and IT
+ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
-support to respond to issues of child online safety
-
-or reduce cyber security risks
+ Other:
 
  Limited access to internet and/or electricity
 
@@ -2811,8 +2387,6 @@ or reduce cyber security risks
  Difficulty in regulating the use of digital education solutions
 
  Difficulty in sustainably financing digital education solutions at national scale
-
- Other:
 
 [[END OF PAGE 47]]
 
@@ -2828,7 +2402,7 @@ No challenges were encountered in digital education provision
 
 ## 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -2860,9 +2434,9 @@ Ensuring  crisis-sensitive  and  disaster  risk-informed  planning  and  program
 
 - The Kingdom of Bahrain allocates budget to various ministries to cover operational costs, implementation of development projects and programmes. MoE plans and allocates budget for educational and digital infrastructure and other educational projects based on the Ministry of Education's assessment of needs and requirements.
 
-- The Ministry of Education has worked towards developing a systematic framework with a time plan to manage and resist risks and with no reactions. The best methods and procedures are employed to reduce negative effects and address them according to scientific and methodological foundations. Additionally, the risk management and sustainability report is issued every two years. Ministry of Education employees are trained on the procedures to follow during emergencies, ensuring the Ministry is well- prepared to handle disasters and crises effectively.
+- The Ministry of Education has worked towards developing a systematic framework with a time plan to manage and resist risks and with no reactions. The best methods and procedures are employed to reduce negative effects and address them according to scientific and methodological foundations. Additionally, the risk management and sustainability report is issued every two years. Ministry of Education employees are trained on the procedures to follow during emergencies, ensuring the Ministry is well-prepared to handle disasters and crises effectively.
 
-- The Kingdom of Bahrain is considered one of the leading countries in applying modern administrative foundations and principles, through the Cabinet decision issued in September 2011 regarding 'obligating government agencies and companies to implement governance systems and procedures', this was followed by the issuance of the 'Government of Government Institutions' guide in May 201 3, which is a reference for applying the principles and foundations of governance to all government institutions. Accordingly, t he Ministry of Education issued the 'Governance Guide in the Ministry of Education', where tasks were distributed to the relevant departments in the ministry, and they are monitored through the government performance monitoring system to monitor the desired objectives of implementing governance tasks and what was implemented to achieve the principles of governance and prepare annual reports on achievements.
+- The Kingdom of Bahrain is considered one of the leading countries in applying modern administrative foundations and principles, through the Cabinet decision issued in September 2011 regarding 'obligating government agencies and companies to implement governance systems and procedures', this was followed by the issuance of the 'Government of Government Institutions' guide in May 2013, which is a reference for applying the principles and foundations of governance to all government institutions. Accordingly, the Ministry of Education issued the 'Governance Guide in the Ministry of Education', where tasks were distributed to the relevant departments in the ministry, and they are monitored through the government performance monitoring system to monitor the desired objectives of implementing governance tasks and what was implemented to achieve the principles of governance and prepare annual reports on achievements.
 
 - What challenges were encountered in terms of governance?
 
@@ -2870,7 +2444,7 @@ Ensuring  crisis-sensitive  and  disaster  risk-informed  planning  and  program
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
