@@ -28,11 +28,11 @@ Gegenstand / Bezeichnung
 
 #### Errichtung
 
+§ 1. Errichtung und Rechtsstellung
+
 ### 2. Teil
 
 #### Aufgaben
-
-§ 1 . Errichtung und Rechtsstellung
 
 § 2. Aufgaben
 
@@ -46,6 +46,10 @@ Gegenstand / Bezeichnung
 
 § 7. Daten, Datenschutz
 
+### 3.Teil
+
+#### Organe
+
 § 8. Organe des BIFIE
 
 § 9. Direktorium
@@ -56,10 +60,6 @@ Gegenstand / Bezeichnung
 
 § 12. Wissenschaftlicher Beirat
 
-### 3.Teil
-
-#### Organe
-
 www.ris.bka.gv.at
 
 Seite 1 von 11
@@ -69,6 +69,20 @@ Seite 1 von 11
 [[START OF PAGE 2]]
 
 Bundesrecht konsolidiert
+
+### 4. Teil
+
+#### Arbeitsplanung und Berichte
+
+§ 13. Unternehmenskonzept und Dreijahresplan
+
+§ 14. Laufende Planung und Berichtslegung
+
+§ 15. Weitere Berichtspflichten
+
+### 5. Teil
+
+#### Finanzen und Gebarung
 
 § 16. Finanzierung
 
@@ -90,6 +104,10 @@ Bundesrecht konsolidiert
 
 § 23. Überleitung der Bediensteten
 
+### 7. Teil
+
+#### Staatliche Aufsicht
+
 § 24. Aufsicht
 
 ### 8. Teil
@@ -106,31 +124,13 @@ Bundesrecht konsolidiert
 
 ## Text
 
-### 4. Teil
-
-#### Arbeitsplanung und Berichte
-
-§ 13. Unternehmenskonzept und Dreijahresplan
-
-§ 14. Laufende Planung und Berichtslegung
-
-§ 15. Weitere Berichtspflichten
-
-### 5. Teil
-
-#### Finanzen und Gebarung
-
-### 7. Teil
-
-#### Staatliche Aufsicht
-
 ### 1. Teil
 
 #### Errichtung
 
 ##### Errichtung und Rechtsstellung
 
-§ 1. (1)  Zur  Durchführung  von  Untersuchungen  im  Bereich  der  angewandten  Bildungsforschung, zum  Monitoring des Schulsystems, zur Bereitstellung von Informationen für bildungspolitische Entscheidungen sowie zur Begleitung und Implementierung bildungspolitischer  Maßnahmen und deren Evaluation wird ein Bundesinstitut für Bildungsforschung, Innovation und Entwicklung des österreichischen Schulwesens (im Folgenden: BIFIE) errichtet.
+§ 1. (1) Zur Durchführung von Untersuchungen im Bereich der angewandten Bildungsforschung, zum Monitoring des Schulsystems, zur Bereitstellung von Informationen für bildungspolitische Entscheidungen sowie zur Begleitung und Implementierung bildungspolitischer Maßnahmen und deren
 
 www.ris.bka.gv.at
 
@@ -142,21 +142,23 @@ Seite 2 von 11
 
 Bundesrecht konsolidiert
 
+Evaluation wird ein Bundesinstitut für Bildungsforschung, Innovation und Entwicklung des österreichischen Schulwesens (im Folgenden: BIFIE) errichtet.
+
 (2) Das BIFIE ist eine juristische Person des öffentlichen Rechts zur Erfüllung der im § 2 genannten Aufgaben im öffentlichen Interesse. Das BIFIE kann für sich Rechte und Pflichten begründen; für diese trifft den Bund keine Haftung.
 
-- Das BIFIE hat seinen Sitz in Salzburg. Zweigstellen können eingerichtet werden.
+(3) Das BIFIE hat seinen Sitz in Salzburg. Zweigstellen können eingerichtet werden.
 
-- Das BIFIE ist nicht auf Gewinn ausgerichtet. Das Geschäftsjahr ist das Kalenderjahr.
+(4) Das BIFIE ist nicht auf Gewinn ausgerichtet. Das Geschäftsjahr ist das Kalenderjahr.
 
-- Das BIFIE ist vom Direktorium unverzüglich rückwirkend mit Stichtag des Inkrafttretens dieses Bundesgesetzes  zur  Eintragung  im  Firmenbuch  anzumelden.  Über  § 3  des  Firmenbuchgesetzes,  BGBl. Nr. 10/1991, hinaus sind einzutragen und bei Änderungen unverzüglich zur Eintragung einzureichen:
+(5) Das BIFIE ist vom Direktorium unverzüglich rückwirkend mit Stichtag des Inkrafttretens dieses Bundesgesetzes zur Eintragung im Firmenbuch anzumelden. Über § 3 des Firmenbuchgesetzes, BGBl. Nr. 10/1991, hinaus sind einzutragen und bei Änderungen unverzüglich zur Eintragung einzureichen:
 
-- Vollständiger Name des BIFIE und Angabe der Aufgaben gemäß Abs. 1 und § 2;
+1. Vollständiger Name des BIFIE und Angabe der Aufgaben gemäß Abs. 1 und § 2;
 
-- Name und Geburtsdatum der Direktoren und Direktorinnen;
+2. Name und Geburtsdatum der Direktoren und Direktorinnen;
 
-- Name und Geburtsdatum der Mitglieder des Aufsichtsrates;
+3. Name und Geburtsdatum der Mitglieder des Aufsichtsrates;
 
-- der Tag der Einreichung des Jahresabschlusses sowie der Abschlussstichtag.
+4. der Tag der Einreichung des Jahresabschlusses sowie der Abschlussstichtag.
 
 ### 2. Teil
 
@@ -166,15 +168,15 @@ Bundesrecht konsolidiert
 
 § 2. (1)  Das  Aufgaben-  und  Tätigkeitsfeld  des  BIFIE  bezieht  sich  auf  den  gesamten  Bereich  des Schulwesens im Sinne der Art. 14 und 14a Abs. 2 des Bundes-Verfassungsgesetzes, BGBl. Nr. 1/1930, mit Ausnahme der Kindergärten und Horte sowie der Universitäten und Fachhochschulen.
 
-- Als Kernaufgaben des BIFIE sind nach Maßgabe näherer Konkretisierungen in den Dreijahresplänen wahrzunehmen:
+(2) Als Kernaufgaben des BIFIE sind nach Maßgabe näherer Konkretisierungen in den Dreijahresplänen wahrzunehmen:
 
-- Angewandte Bildungsforschung;
+1. Angewandte Bildungsforschung;
 
-- Bildungsmonitoring;
+2. Bildungsmonitoring;
 
-- Qualitätsentwicklung;
+3. Qualitätsentwicklung;
 
-- regelmäßige nationale Bildungsberichterstattung.
+4. regelmäßige nationale Bildungsberichterstattung.
 
 Im  Rahmen  der  Kernaufgaben  des  BIFIE  gemäß  Z 2  und  3  hat  die  Entwicklung,  Implementierung, Auswertung und begleitende Evaluierung der standardisierten, kompetenzorientierten Reifeprüfungen an höheren Schulen zu erfolgen.
 
@@ -184,17 +186,17 @@ Im  Rahmen  der  Kernaufgaben  des  BIFIE  gemäß  Z 2  und  3  hat  die  Entwi
 
 § 3. (1)  Das  BIFIE  hat  bei  der  Wahrnehmung  der  Aufgaben  gemäß  § 2  insbesondere  folgende leitende Grundsätze zu beachten:
 
-- Objektivität und Unparteilichkeit sowie Transparenz;
+1. Objektivität und Unparteilichkeit sowie Transparenz;
 
-- Anwendung  von  Methoden  und  Verfahren  nach  international  anerkannten  wissenschaftlichen Grundsätzen und Standards sowie deren Offenlegung;
+2. Anwendung von Methoden und Verfahren nach international anerkannten wissenschaftlichen Grundsätzen und Standards sowie deren Offenlegung;
 
-- Qualitätsund Rationalisierungsoptimierung auf der Basis von laufenden internen Überprüfungen sowie fünfjährigen externen, unabhängigen Evaluierungen;
+3. Qualitäts- und Rationalisierungsoptimierung auf der Basis von laufenden internen Überprüfungen sowie fünfjährigen externen, unabhängigen Evaluierungen;
 
-- Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit der Gebarung;
+4. Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit der Gebarung;
 
-- Vermeidung  von  Doppelgleisigkeiten  durch  Kooperation  mit  anderen  Einrichtungen  aus  den Bereichen der Bildungsforschung und der Bildungsstatistik wie insbesondere der Bundesanstalt 'Statistik Österreich', Universitäten, Pädagogischen Hochschulen, Fachhochschulen ua.
+5. Vermeidung von Doppelgleisigkeiten durch Kooperation mit anderen Einrichtungen aus den Bereichen der Bildungsforschung und der Bildungsstatistik wie insbesondere der Bundesanstalt „Statistik Österreich“, Universitäten, Pädagogischen Hochschulen, Fachhochschulen ua.
 
-- Die Arbeitnehmer und Arbeitnehmerinnen des BIFIE sind über alle ihnen ausschließlich aus ihrer dienstlichen Tätigkeit bekannt gewordenen Tatsachen zur Verschwiegenheit verpflichtet. § 46 Abs. 1 bis 4 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, ist sinngemäß anzuwenden.
+(2) Die Arbeitnehmer und Arbeitnehmerinnen des BIFIE sind über alle ihnen ausschließlich aus ihrer dienstlichen Tätigkeit bekannt gewordenen Tatsachen zur Verschwiegenheit verpflichtet. § 46 Abs. 1 bis 4 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, ist sinngemäß anzuwenden.
 
 www.ris.bka.gv.at
 
@@ -214,19 +216,19 @@ Bundesrecht konsolidiert
 
 § 5. (1) Das BIFIE kann Tätigkeiten und Arbeiten in seinem fachlichen Wirkungsbereich auf Grund vertraglicher Vereinbarungen mit Dritten übernehmen, wenn die Erfüllung der im öffentlichen Interesse gelegenen Aufgaben gemäß § 2 dadurch nicht beeinträchtigt wird.
 
-- Für Leistungen gemäß Abs. 1 ist vom BIFIE ein Entgelt zu vereinbaren, das zumindest die mit der Vertragserfüllung verbundenen Kosten deckt.
+(2) Für Leistungen gemäß Abs. 1 ist vom BIFIE ein Entgelt zu vereinbaren, das zumindest die mit der Vertragserfüllung verbundenen Kosten deckt.
 
 ##### Zusammenarbeit mit Schulen und der Schulverwaltung
 
 § 6. (1) Forschungsprojekte zur Qualitätssicherung im Schulwesen (zB Überprüfungen der Bildungsstandards, nationale und internationale Surveys oder Assessments) und andere vom zuständigen Regierungsmitglied  im  Rahmen  der  Jahrespläne  genehmigte  Erhebungen  des  BIFIE  werden  in  dessen direktem Auftrag durchgeführt. Bei Erhebungen an Schulen untersteht das BIFIE den Anordnungen des zuständigen Regierungsmitgliedes.
 
-- Die Mitwirkung von Schülern und Schülerinnen an Überprüfungen der Bildungsstandards sowie an nationalen und internationalen Surveys oder Assessments ist für diese verpflichtend und befreit von der  Teilnahme  am  Unterricht  im  unbedingt  erforderlichen  Ausmaß.  Die  Mitwirkung  an  anderen Erhebungen  ist  für  Schüler  und  Schülerinnen  dann  verpflichtend,  wenn  dies  durch  Verordnung  des zuständigen Regierungsmitglieds angeordnet wird. Darüber hinaus sind Schüler und Schülerinnen sowie deren Erziehungsberechtigte am Schulstandort auf geeignete Weise über den Zweck, den Termin und die Mitwirkungspflicht  an  solchen  Erhebungen  zu  informieren.  Wenn  der  Mitwirkung  von  Schülern  und Schülerinnen wichtige schulische Interessen entgegenstehen, hat der Schulleiter oder die Schulleiterin das Einvernehmen mit dem BIFIE bezüglich eines Ersatztermins herzustellen.
+(2) Die Mitwirkung von Schülern und Schülerinnen an Überprüfungen der Bildungsstandards sowie an nationalen und internationalen Surveys oder Assessments ist für diese verpflichtend und befreit von der Teilnahme am Unterricht im unbedingt erforderlichen Ausmaß. Die Mitwirkung an anderen Erhebungen ist für Schüler und Schülerinnen dann verpflichtend, wenn dies durch Verordnung des zuständigen Regierungsmitglieds angeordnet wird. Darüber hinaus sind Schüler und Schülerinnen sowie deren Erziehungsberechtigte am Schulstandort auf geeignete Weise über den Zweck, den Termin und die Mitwirkungspflicht an solchen Erhebungen zu informieren. Wenn der Mitwirkung von Schülern und Schülerinnen wichtige schulische Interessen entgegenstehen, hat der Schulleiter oder die Schulleiterin das Einvernehmen mit dem BIFIE bezüglich eines Ersatztermins herzustellen.
 
 ##### Daten, Datenschutz
 
 § 7. (1) Das BIFIE hat bei der Wahrnehmung  sämtlicher Aufgaben die Grundsätze des Datenschutzes zu wahren.
 
-- Das BIFIE ist berechtigt, bei seinen Untersuchungen Daten aus den gemäß dem Bildungsdokumentationsgesetz,  BGBl. I  Nr. 12/2002,  eingerichteten  Gesamtevidenzen  der  Schüler  und Schülerinnen sowie der Studierenden zu verwenden und vorhandene Auswertungen aus diesen Evidenzen zu nutzen.
+(2) Das BIFIE ist berechtigt, bei seinen Untersuchungen Daten aus den gemäß dem Bildungsdokumentationsgesetz, BGBl. I Nr. 12/2002, eingerichteten Gesamtevidenzen der Schüler und Schülerinnen sowie der Studierenden zu verwenden und vorhandene Auswertungen aus diesen Evidenzen zu nutzen.
 
 ### 3. Teil
 
@@ -236,25 +238,25 @@ Bundesrecht konsolidiert
 
 § 8. (1) Die Organe des BIFIE sind
 
-- das Direktorium,
+1. das Direktorium,
 
-- der Aufsichtsrat und
+2. der Aufsichtsrat und
 
-- der Wissenschaftliche Beirat.
+3. der Wissenschaftliche Beirat.
 
-- Eine Person darf in höchstens einem dieser Organe Mitglied sein.
+(2) Eine Person darf in höchstens einem dieser Organe Mitglied sein.
 
 ##### Direktorium
 
 § 9. (1) Dem Direktorium obliegt die Leitung des BIFIE sowie die Vertretung des BIFIE nach außen. Es ist für die Erfüllung der Forschungs- und Entwicklungsaufgaben des BIFIE gemäß § 2 verantwortlich und  hat  im  kaufmännischen  Bereich  die  Sorgfalts-  und  Offenlegungspflichten  eines  ordentlichen Unternehmers oder einer ordentlichen Unternehmerin anzuwenden und die Grundsätze der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit zu beachten.
 
-- Das Direktorium besteht aus zwei vom zuständigen Regierungsmitglied bestellten Personen. Die Funktionsdauer  beträgt  fünf  Jahre.  Wiederbestellungen  sind  zulässig.  Das  Stellenbesetzungsgesetz, BGBl. I Nr. 26/1998, findet Anwendung.
+(2) Das Direktorium besteht aus zwei vom zuständigen Regierungsmitglied bestellten Personen. Die Funktionsdauer beträgt fünf Jahre. Wiederbestellungen sind zulässig. Das Stellenbesetzungsgesetz, BGBl. I Nr. 26/1998, findet Anwendung.
 
-- Die Mitgliedschaft im Direktorium endet
+(3) Die Mitgliedschaft im Direktorium endet
 
-- durch Ablauf der Funktionsperiode,
+1. durch Ablauf der Funktionsperiode,
 
-- durch Rücktritt,
+2. durch Rücktritt,
 
 www.ris.bka.gv.at
 
@@ -266,23 +268,23 @@ Seite 4 von 11
 
 Bundesrecht konsolidiert
 
-- durch Abberufung oder
+3. durch Abberufung oder
 
-- durch Tod.
+4. durch Tod.
 
-(4)  Ein  Rücktritt  gemäß  Z 2  ist  gegenüber  dem  zuständigen  Regierungsmitglied  zu  erklären  und wird, außer bei Vorliegen wichtiger Gründe, erst nach Ablauf von 30 Tagen wirksam. Eine Abberufung gemäß  Z 3  hat  durch  das  zuständige  Regierungsmitglied  zu  erfolgen,  wenn  der  Direktor  oder  die Direktorin  eine  schwere  Pflichtverletzung  begangen  hat,  strafgerichtlich  rechtskräftig  verurteilt  wurde oder  die  für  eine  ordentliche  Funktionsausübung  erforderliche  körperliche  oder  geistige  Eignung langfristig nicht mehr gegeben ist. Bei Verhinderung eines Direktors oder einer Direktorin über die Dauer von sechs Monaten hinaus kann das zuständige Regierungsmitglied eine geeignete Person vorübergehend, längstens  während  der  Dauer  der  Verhinderung,  mit  der  Funktion  des  Direktors  oder  der  Direktorin betrauen.
+(4) Ein Rücktritt gemäß Z 2 ist gegenüber dem zuständigen Regierungsmitglied zu erklären und wird, außer bei Vorliegen wichtiger Gründe, erst nach Ablauf von 30 Tagen wirksam. Eine Abberufung gemäß Z 3 hat durch das zuständige Regierungsmitglied zu erfolgen, wenn der Direktor oder die Direktorin eine schwere Pflichtverletzung begangen hat, strafgerichtlich rechtskräftig verurteilt wurde oder die für eine ordentliche Funktionsausübung erforderliche körperliche oder geistige Eignung langfristig nicht mehr gegeben ist. Bei Verhinderung eines Direktors oder einer Direktorin über die Dauer von sechs Monaten hinaus kann das zuständige Regierungsmitglied eine geeignete Person vorübergehend, längstens während der Dauer der Verhinderung, mit der Funktion des Direktors oder der Direktorin betrauen.
 
-- Das Direktorium hat insbesondere folgende Aufgaben:
+(5) Das Direktorium hat insbesondere folgende Aufgaben:
 
-- Erstellung einer Institutsordnung;
+1. Erstellung einer Institutsordnung;
 
-- Auswahl und Verfügung über das Personal und die Finanz- und Sachmittel des BIFIE;
+2. Auswahl und Verfügung über das Personal und die Finanz- und Sachmittel des BIFIE;
 
-- Führen eines den Anforderungen des BIFIE entsprechenden kaufmännischen Rechnungswesens unter Berücksichtigung des § 14 und eines internen Kontrollsystems;
+3. Führen eines den Anforderungen des BIFIE entsprechenden kaufmännischen Rechnungswesens unter Berücksichtigung des § 14 und eines internen Kontrollsystems;
 
-- Erstellung  des  Unternehmenskonzeptes,  der  Planungs-  und  Steuerungsdokumente  sowie  der Berichte (§§ 13 bis 15);
+4. Erstellung des Unternehmenskonzeptes, der Planungs- und Steuerungsdokumente sowie der Berichte (§§ 13 bis 15);
 
-- Abschluss von Verträgen.
+5. Abschluss von Verträgen.
 
 (6)  Die  Institutsordnung  (Abs. 5  Z 1)  hat  die  Aufgaben  und  Entscheidungsbefugnisse  der  beiden Direktoren  oder  Direktorinnen  festzulegen  und  voneinander  abzugrenzen.  Dabei  ist  vorzusehen,  dass aufgabenübergreifende  Entscheidungen  sowie  Entscheidungen  von  besonderer  wirtschaftlicher  oder sonstiger Bedeutung, jedenfalls solche gemäß § 11 Abs. 6 Z 5, nur im Einvernehmen beider Direktoren oder Direktorinnen getroffen werden können. In den Fällen, in denen das Einvernehmen nicht hergestellt werden kann, ist der Aufsichtsrat zu befassen und hat dieser die Entscheidung zu treffen.
 
@@ -300,17 +302,17 @@ Bundesrecht konsolidiert
 
 § 11. (1) Es ist ein Aufsichtsrat einzurichten, der aus neun Mitgliedern besteht, von denen
 
-- fünf Mitglieder vom zuständigen Regierungsmitglied zu bestellen sind,
+1. fünf Mitglieder vom zuständigen Regierungsmitglied zu bestellen sind,
 
-- ein Mitglied vom Bundesminister oder von der Bundesministerin für Finanzen zu bestellen ist,
+2. ein Mitglied vom Bundesminister oder von der Bundesministerin für Finanzen zu bestellen ist,
 
-- ein Mitglied vom  Bundesminister  oder  von  der Bundesministerin für Wissenschaft  und Forschung zu bestellen ist,
+3. ein Mitglied vom Bundesminister oder von der Bundesministerin für Wissenschaft und Forschung zu bestellen ist,
 
-- ein Mitglied unter sinngemäßer Anwendung des Arbeitsverfassungsgesetzes, BGBl. Nr. 22/1974, von der betrieblichen Arbeitnehmervertretung zu entsenden ist und
+4. ein Mitglied unter sinngemäßer Anwendung des Arbeitsverfassungsgesetzes, BGBl. Nr. 22/1974, von der betrieblichen Arbeitnehmervertretung zu entsenden ist und
 
-- ein Mitglied von der für die Bediensteten der Unterrichtsverwaltung zuständigen Bundesvertretung der Gewerkschaft Öffentlicher Dienst zu entsenden ist.
+5. ein Mitglied von der für die Bediensteten der Unterrichtsverwaltung zuständigen Bundesvertretung der Gewerkschaft Öffentlicher Dienst zu entsenden ist.
 
-(2)  Die  Mitglieder des Aufsichtsrates sind gegenüber dem jeweils bestellenden oder entsendenden Organ zur umfassenden Auskunftserteilung verpflichtet. Sie haben Anspruch auf Ersatz der Aufwendungen, die ihnen aus Anlass der Ausübung ihrer Funktion erwachsen. Die näheren Bestimmungen über den Ersatz sind durch Verordnung des zuständigen Regierungsmitglieds zu treffen, in der auch ein pauschalierter Aufwandsersatz festgelegt werden kann.
+(2) Die Mitglieder des Aufsichtsrates sind gegenüber dem jeweils bestellenden oder entsendenden Organ zur umfassenden Auskunftserteilung verpflichtet. Sie haben Anspruch auf Ersatz der Aufwendungen, die ihnen aus Anlass der Ausübung ihrer Funktion erwachsen. Die näheren
 
 www.ris.bka.gv.at
 
@@ -322,6 +324,8 @@ Seite 5 von 11
 
 Bundesrecht konsolidiert
 
+Bestimmungen über den Ersatz sind durch Verordnung des zuständigen Regierungsmitglieds zu treffen, in der auch ein pauschalierter Aufwandsersatz festgelegt werden kann.
+
 (3) Die Mitglieder des Aufsichtsrates gemäß  Abs. 1 Z 1 und 2 werden für jeweils eine Funktionsperiode  von  fünf  Jahren  bestellt.  Wiederbestellungen  oder  -entsendungen  sind  zulässig.  Bei vorzeitigem  Ausscheiden  eines  Mitglieds  des  Aufsichtsrates  ist  für  den  Rest  der  Funktionsperiode  ein neues  Mitglied  auf  dieselbe  Art  wie  das  ausgeschiedene  Mitglied  zu  bestellen.  Nach  Ablauf  der Funktionsperiode  hat  der  Aufsichtsrat  die  Geschäfte  so  lange  weiterzuführen,  bis  der  neu  bestellte Aufsichtsrat zusammentritt.
 
 (4) Die Vorsitzende oder der Vorsitzende des Aufsichtsrates sowie dessen Stellvertreter oder dessen Stellvertreterin  werden  aus  dem  Kreis  der  Mitglieder  gemäß  Abs. 1  Z 1  und  2  vom  zuständigen Regierungsmitglied bestellt.
@@ -330,37 +334,37 @@ Bundesrecht konsolidiert
 
 (6) Der Aufsichtsrat hat zumindest vier Mal pro Jahr in Aufsichtsratssitzungen zusammenzutreten. Er hat folgende Aufgaben:
 
-- Erstellung einer Geschäftsordnung und Vorlage derselben an das zuständige Regierungsmitglied zur Kenntnis;
+1. Erstellung einer Geschäftsordnung und Vorlage derselben an das zuständige Regierungsmitglied zur Kenntnis;
 
-- Prüfung  und  Genehmigung  der  Institutsordnung  und  Vorlage  derselben  an  das  zuständige Regierungsmitglied zur Genehmigung;
+2. Prüfung und Genehmigung der Institutsordnung und Vorlage derselben an das zuständige Regierungsmitglied zur Genehmigung;
 
-- Prüfung und Genehmigung  des  Unternehmenskonzeptes  und  des Dreijahresplanes sowie Weiterleitung derselben an das zuständige Regierungsmitglied zur Genehmigung;
+3. Prüfung und Genehmigung des Unternehmenskonzeptes und des Dreijahresplanes sowie Weiterleitung derselben an das zuständige Regierungsmitglied zur Genehmigung;
 
-- Prüfung  und  Genehmigung  des  Jahresplanes  und  des  Jahresberichtes  sowie  Prüfung  der laufenden Quartalsberichte;
+4. Prüfung und Genehmigung des Jahresplanes und des Jahresberichtes sowie Prüfung der laufenden Quartalsberichte;
 
-- Genehmigung des Erwerbes und der Veräußerung von Liegenschaften, Beteiligungen, Unternehmen und Betrieben sowie von Verträgen, deren zu vereinbarendes Gesamtentgelt  den Betrag von 60 000 Euro (brutto) pro Kalenderjahr übersteigt;
+5. Genehmigung des Erwerbes und der Veräußerung von Liegenschaften, Beteiligungen, Unternehmen und Betrieben sowie von Verträgen, deren zu vereinbarendes Gesamtentgelt den Betrag von 60 000 Euro (brutto) pro Kalenderjahr übersteigt;
 
-- Prüfung des Jahresabschlusses und Berichterstattung an das zuständige Regierungsmitglied;
+6. Prüfung des Jahresabschlusses und Berichterstattung an das zuständige Regierungsmitglied;
 
-- Genehmigung der Einrichtung und Schließung von Zweigstellen;
+7. Genehmigung der Einrichtung und Schließung von Zweigstellen;
 
-- Vertretung  des  BIFIE  beim  Abschluss  von  Rechtsgeschäften  zwischen  dem  BIFIE  und  einem Direktor sowie in Rechtsstreitigkeiten des BIFIE mit einem Direktor.
+8. Vertretung des BIFIE beim Abschluss von Rechtsgeschäften zwischen dem BIFIE und einem Direktor sowie in Rechtsstreitigkeiten des BIFIE mit einem Direktor.
 
 (7) Der Aufsichtsrat ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend ist. Der Aufsichtsrat entscheidet mit einfacher Stimmenmehrheit; bei Stimmengleichheit entscheidet die Stimme des bzw. der Vorsitzenden (Dirimierungsrecht). Die Übertragung des Stimmrechts sowie Stimmenthaltung  sind  unzulässig.  In  dringenden  Fällen  kann  schriftlich,  mittels  Telefax  oder  auf geeignetem elektronischen Weg  abgestimmt werden, ohne dass der Aufsichtsrat zusammentritt (Rundlaufverfahren),  wenn  kein  Mitglied  des  Aufsichtsrates  innerhalb  der  vom  Vorsitzenden  oder  von der Vorsitzenden festzulegenden Frist von mindestens drei Arbeitstagen nach Versendung der Unterlagen diesem Verfahren widerspricht. Beschlüsse des Aufsichtsrates, zu deren Umsetzung  zusätzliche Bundesmittel  zu  den  in  § 16  vorgesehenen  Mittel  aufzuwenden  sind,  bedürfen  der  Zustimmung  der Regierungsmitglieder gemäß Abs. 1 Z 1 und 2.
 
-(8) Vom Aufsichtsrat nicht genehmigte Institutsordnungen, Unternehmenskonzepte oder Dreijahrespläne  sind  dem  zuständigen  Regierungsmitglied  mit  einer  Stellungnahme  des  Aufsichtsrates zur  Entscheidung  vorzulegen.  Das  Direktorium  hat  das  Recht,  zu  den  Argumenten  des  Aufsichtrates Stellung zu nehmen.
+(8) Vom Aufsichtsrat nicht genehmigte Institutsordnungen, Unternehmenskonzepte oder Dreijahrespläne sind dem zuständigen Regierungsmitglied mit einer Stellungnahme des Aufsichtsrates zur Entscheidung vorzulegen. Das Direktorium hat das Recht, zu den Argumenten des Aufsichtsrates Stellung zu nehmen.
 
-- Der Aufsichtsrat hat auf Antrag von mindestens vier Mitgliedern Entscheidungen des Direktoriums des BIFIE aufzuheben oder deren Durchführung zu untersagen, wenn diese
+(9) Der Aufsichtsrat hat auf Antrag von mindestens vier Mitgliedern Entscheidungen des Direktoriums des BIFIE aufzuheben oder deren Durchführung zu untersagen, wenn diese
 
-- in Widerspruch zu den Grundsätzen der ordentlichen Haushaltführung stehen oder
+1. in Widerspruch zu den Grundsätzen der ordentlichen Haushaltführung stehen oder
 
-- die Erfüllung des Jahresplanes ernsthaft gefährden oder
+2. die Erfüllung des Jahresplanes ernsthaft gefährden oder
 
-- den Konkretisierungen in den Arbeitsplänen gemäß § 2 Abs. 2 entgegenstehen.
+3. den Konkretisierungen in den Arbeitsplänen gemäß § 2 Abs. 2 entgegenstehen.
 
 ##### Wissenschaftlicher Beirat
 
-§ 12. (1)  Am  BIFIE  ist  ein  wissenschaftlicher  Beirat  (im  Folgenden:  Beirat)  einzurichten.  Dieser besteht  aus  sieben  vom  zuständigen  Regierungsmitglied  für  eine  Funktionsperiode  von  fünf  Jahren  zu bestellenden Mitgliedern, von denen zumindest zwei Mitglieder dem Bildungs- oder Forschungsbereich außerhalb  der  Republik  Österreich  anzugehören  haben  und  weitere  Mitglieder  dem  Bereich  der universitären, hochschulischen und außeruniversitären Forschung anzugehören haben. Bei der Bestellung von vier der sieben Mitglieder ist das Einvernehmen mit dem Bundesminister oder der Bundesministerin für Wissenschaft und Forschung herzustellen.
+§ 12. (1) Am BIFIE ist ein wissenschaftlicher Beirat (im Folgenden: Beirat) einzurichten. Dieser besteht aus sieben vom zuständigen Regierungsmitglied für eine Funktionsperiode von fünf Jahren zu bestellenden Mitgliedern, von denen zumindest zwei Mitglieder dem Bildungs- oder Forschungsbereich außerhalb der Republik Österreich anzugehören haben und weitere Mitglieder dem Bereich der
 
 www.ris.bka.gv.at
 
@@ -372,9 +376,11 @@ Seite 6 von 11
 
 Bundesrecht konsolidiert
 
-(2) Der Beirat sichert das nationale und internationale wissenschaftliche Niveau. Er berät die Organe des BIFIE in der Wahrnehmung aller gesetzlichen Aufgaben, insbesondere bei der Erstellung der Jahresund Dreijahrespläne.
+universitären, hochschulischen und außeruniversitären Forschung anzugehören haben. Bei der Bestellung von vier der sieben Mitglieder ist das Einvernehmen mit dem Bundesminister oder der Bundesministerin für Wissenschaft und Forschung herzustellen.
 
-(2a) Der Beirat ist dem zuständigen Regierungsmitglied umfassend informationsund berichtspflichtig. Er hat insbesondere Gutachten, Empfehlungen, Berichte, Protokolle ua. dem zuständigen  Regierungsmitglied  zur  Kenntnis  zu  bringen  und  dieses  in  Angelegenheiten,  die  in  seinen Aufgabenbereich  fallen,  beratend  zu  unterstützen.  Die  Mitglieder  des  Beirates  sind  gegenüber  dem zuständigen Regierungsmitglied zur umfassenden Auskunftserteilung verpflichtet.
+(2) Der Beirat sichert das nationale und internationale wissenschaftliche Niveau. Er berät die Organe des BIFIE in der Wahrnehmung aller gesetzlichen Aufgaben, insbesondere bei der Erstellung der Jahres- und Dreijahrespläne.
+
+(2a) Der Beirat ist dem zuständigen Regierungsmitglied umfassend informations- und berichtspflichtig. Er hat insbesondere Gutachten, Empfehlungen, Berichte, Protokolle ua. dem zuständigen Regierungsmitglied zur Kenntnis zu bringen und dieses in Angelegenheiten, die in seinen Aufgabenbereich fallen, beratend zu unterstützen. Die Mitglieder des Beirates sind gegenüber dem zuständigen Regierungsmitglied zur umfassenden Auskunftserteilung verpflichtet.
 
 (3) Die zu bestellenden Mitglieder des Beirates haben über hinreichende Kompetenzen in den vom Aufgabenbereich des BIFIE gemäß § 2 Abs. 2 umfassten Bereichen zu verfügen.
 
@@ -412,11 +418,11 @@ Seite 7 von 11
 
 Bundesrecht konsolidiert
 
-- Für  das  erste  Geschäftsjahr  ist  durch  das  zuständige  Regierungsmitglied  ein  provisorischer Jahresplan  zu  erstellen,  der  bis  zur  Genehmigung  des  durch  das  Direktorium  erstellten  Jahresplanes Anwendung findet.
+(3) Für das erste Geschäftsjahr ist durch das zuständige Regierungsmitglied ein provisorischer Jahresplan zu erstellen, der bis zur Genehmigung des durch das Direktorium erstellten Jahresplanes Anwendung findet.
 
-- Das  Unternehmenskonzept  gemäß  § 13  Abs. 1  sowie  die  Pläne  gemäß  § 13  Abs. 3  und  § 14 Abs. 1  sind  unter  Beachtung  der  Prinzipien  der  Sparsamkeit,  Wirtschaftlichkeit  und  Zweckmäßigkeit sowie  der  des  § 16  Abs. 1  und  3  und  unter  Ausnutzung  aller  vorhandenen  Rationalisierungs-  und Synergiepotentiale  zu  erstellen.  Bei  der  Erstellung  sind  weiters  auf  die  Organisationsstrukturen  des BIFIE, die vorhandenen Personal- und Sachmittel, die Investitionen und die Finanzsituation Bedacht zu nehmen.
+(4) Das Unternehmenskonzept gemäß § 13 Abs. 1 sowie die Pläne gemäß § 13 Abs. 3 und § 14 Abs. 1 sind unter Beachtung der Prinzipien der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit sowie der des § 16 Abs. 1 und 3 und unter Ausnutzung aller vorhandenen Rationalisierungs- und Synergiepotentiale zu erstellen. Bei der Erstellung sind weiters auf die Organisationsstrukturen des BIFIE, die vorhandenen Personal- und Sachmittel, die Investitionen und die Finanzsituation Bedacht zu nehmen.
 
-- Das Direktorium hat für die Errichtung eines Planungs- und Berichterstattungssystems zu sorgen, das die Erfüllung der Berichterstattungspflichten durch das BIFIE nach den gesetzlichen Vorschriften und den Vorgaben des Bundesministers oder der Bundesministerin für Finanzen hinsichtlich der Einrichtung eines Beteiligungs- und Finanzcontrollings gewährleistet.
+(5) Das Direktorium hat für die Errichtung eines Planungs- und Berichterstattungssystems zu sorgen, das die Erfüllung der Berichterstattungspflichten durch das BIFIE nach den gesetzlichen Vorschriften und den Vorgaben des Bundesministers oder der Bundesministerin für Finanzen hinsichtlich der Einrichtung eines Beteiligungs- und Finanzcontrollings gewährleistet.
 
 ##### Weitere Berichtspflichten
 
@@ -431,15 +437,15 @@ Bundesrecht konsolidiert
 
 § 16. (1)  Der  Bund,  vertreten  durch  das  zuständige  Regierungsmitglied, leistet dem BIFIE für die Aufwendungen,  die  ihm  in  Erfüllung  seiner  im  öffentlichen  Interesse  gelegenen  Aufgaben  gemäß  § 2 entstehen, für die Jahre 2013 bis 2015 eine Basiszuwendung in der Höhe von jährlich 13 Millionen Euro.
 
-- Der  Bund,  vertreten  durch  das  zuständige  Regierungsmitglied,  hat  dem  BIFIE  jeweils  ein Zwölftel der Basiszuwendung gemäß Abs. 1 zum ersten Tag jeden Monats im Voraus zu überweisen.
+(2) Der Bund, vertreten durch das zuständige Regierungsmitglied, hat dem BIFIE jeweils ein Zwölftel der Basiszuwendung gemäß Abs. 1 zum ersten Tag jeden Monats im Voraus zu überweisen.
 
-- Zusätzlich zu den Zuwendungen gemäß Abs. 1 kann der Bund, vertreten durch das zuständige Regierungsmitglied,  nach  Maßgabe  der  im  Bundesfinanzgesetz  für  diese  Zwecke  vorgesehenen  Mittel erhöhte Aufwendungen unter der Voraussetzung vergüten, dass dies trotz wirtschaftlicher, sparsamer und zweckmäßiger Gebarung des BIFIE und unter Bedachtnahme auf Rationalisierungsmaßnahmen erforderlich ist.
+(3) Zusätzlich zu den Zuwendungen gemäß Abs. 1 kann der Bund, vertreten durch das zuständige Regierungsmitglied, nach Maßgabe der im Bundesfinanzgesetz für diese Zwecke vorgesehenen Mittel erhöhte Aufwendungen unter der Voraussetzung vergüten, dass dies trotz wirtschaftlicher, sparsamer und zweckmäßiger Gebarung des BIFIE und unter Bedachtnahme auf Rationalisierungsmaßnahmen erforderlich ist.
 
 ##### Vermögenswerte
 
 § 17. (1)  Das  Eigentumsrecht  des  Bundes  an  beweglichem  Vermögen,  das  am  Tag  vor  dem Inkrafttreten dieses Bundesgesetzes dem Bundesinstitut für Bildungsforschung, Innovation und Entwicklung  des  Bildungswesens  gemäß  §§ 20a  bis  20d  des  Bundes-Schulaufsichtsgesetzes,  BGBl. Nr. 240/1962, zur Nutzung überlassen ist, geht einschließlich aller zugehörenden Rechte und Rechtsverhältnisse, Forderungen und Schulden mit dem folgenden Tag im Wege der Gesamtrechtsnachfolge auf das BIFIE über und ist von diesem in einem Inventarverzeichnis zu erfassen und zu bewerten.
 
-- Die  Wertansätze  für  das  übergegangene  Vermögen  sind  anlässlich  der  Eröffnungsbilanz festzulegen, die binnen sechs Monaten ab dem Vermögensübergang gemäß Abs. 1 zu erstellen ist. Für die Bestimmung der Wertansätze in der Eröffnungsbilanz besteht keine Bindung an  die Anschaffungs- und Herstellungskosten. Die Wertansätze der technischen Einrichtungen und Anlagen sind entsprechend ihrer Nutzungsmöglichkeit  unter  Berücksichtigung  des  gegenwärtigen  Standes  der  Technik  festzulegen.  Die Eröffnungsbilanz  hat  als  Anlage  eine  zusammenfassende  Darstellung  der  Aktiven  und  Passiven  des BIFIE zu enthalten, die nachvollziehbar und betriebsnotwendig diesem Bereich zuzuordnen und aus der die übergehenden Gläubiger- und Schuldnerpositionen erkennbar sind. Die Anlage hat darüber hinaus alle nicht aus der Bilanz ersichtlichen Vermögenswerte, Rechtsverhältnisse und Belastungen zu enthalten, die zu  den  übergegangenen Einrichtungen gehören. Die Wertansätze der Eröffnungsbilanz  sind durch eine
+(2) Die Wertansätze für das übergegangene Vermögen sind anlässlich der Eröffnungsbilanz festzulegen, die binnen sechs Monaten ab dem Vermögensübergang gemäß Abs. 1 zu erstellen ist. Für die Bestimmung der Wertansätze in der Eröffnungsbilanz besteht keine Bindung an die Anschaffungs- und Herstellungskosten. Die Wertansätze der technischen Einrichtungen und Anlagen sind entsprechend ihrer Nutzungsmöglichkeit unter Berücksichtigung des gegenwärtigen Standes der Technik festzulegen. Die Eröffnungsbilanz hat als Anlage eine zusammenfassende Darstellung der Aktiven und Passiven des BIFIE zu enthalten, die nachvollziehbar und betriebsnotwendig diesem Bereich zuzuordnen und aus der die übergehenden Gläubiger- und Schuldnerpositionen erkennbar sind. Die Anlage hat darüber hinaus alle nicht aus der Bilanz ersichtlichen Vermögenswerte, Rechtsverhältnisse und Belastungen zu enthalten, die zu den übergegangenen Einrichtungen gehören. Die Wertansätze der Eröffnungsbilanz sind durch eine
 
 www.ris.bka.gv.at
 
@@ -453,9 +459,9 @@ Bundesrecht konsolidiert
 
 Wirtschaftsprüferin oder einen Wirtschaftsprüfer zu prüfen und zu bestätigen. Die Eröffnungsbilanz ist zum Firmenbuch einzureichen. § 10 des UGB ist anzuwenden.
 
-- Das zuständige Regierungsmitglied wird ermächtigt, mit dem BIFIE für die von diesem genutzte Räumlichkeiten Miet- oder Untermietverträge abzuschließen.
+(3) Das zuständige Regierungsmitglied wird ermächtigt, mit dem BIFIE für die von diesem genutzte Räumlichkeiten Miet- oder Untermietverträge abzuschließen.
 
-- Alle Vorgänge gemäß diesem Bundesgesetz im Zusammenhang mit der Erlangung der eigenen Rechtspersönlichkeit,  der  Vermögensübertragung bzw. der Einräumung von Rechten, Forderungen und Verbindlichkeiten vom Bund an das BIFIE sind von allen bundesgesetzlich geregelten Gebühren, Steuern und Abgaben befreit.
+(4) Alle Vorgänge gemäß diesem Bundesgesetz im Zusammenhang mit der Erlangung der eigenen Rechtspersönlichkeit, der Vermögensübertragung bzw. der Einräumung von Rechten, Forderungen und Verbindlichkeiten vom Bund an das BIFIE sind von allen bundesgesetzlich geregelten Gebühren, Steuern und Abgaben befreit.
 
 ##### Gebührenbefreiung
 
@@ -477,19 +483,19 @@ Wirtschaftsprüferin oder einen Wirtschaftsprüfer zu prüfen und zu bestätigen
 
 § 21. (1)  Ab  der  Errichtung  des  BIFIE  bis  zur  Konstituierung  des  zu  wählenden  Betriebsrates fungiert der Dienststellenausschuss beim zuständigen Bundesministerium als Vertretung der Arbeitnehmer oder Arbeitnehmerinnen des BIFIE. Er hat für die Ausschreibung von Betriebsratswahlen so  zeitgerecht  Sorge  zu  tragen,  dass  der  neu  gewählte  Betriebsrat  spätestens  neun  Monate  nach  der Errichtung des BIFIE seine Tätigkeit aufnehmen kann.
 
-- Der am  BIFIE nach den Bestimmungen  des Arbeitsverfassungsgesetzes einzurichtende Betriebsrat nimmt hinsichtlich der dem BIFIE zur dauernden Dienstleistung zugewiesenen Beamten und Beamtinnen gleichzeitig die Funktion des Dienststellenausschusses wahr; diese Beamten und Beamtinnen gehören darüber hinaus weiter dem Wirkungsbereich des Zentralausschusses des Bundesministeriums für Unterricht, Kunst und Kultur an.
+(2) Der am BIFIE nach den Bestimmungen des Arbeitsverfassungsgesetzes einzurichtende Betriebsrat nimmt hinsichtlich der dem BIFIE zur dauernden Dienstleistung zugewiesenen Beamten und Beamtinnen gleichzeitig die Funktion des Dienststellenausschusses wahr; diese Beamten und Beamtinnen gehören darüber hinaus weiter dem Wirkungsbereich des Zentralausschusses des Bundesministeriums für Unterricht, Kunst und Kultur an.
 
-- Sämtliche  Arbeitsstätten  des  BIFIE  bilden  einen  einheitlichen  Betrieb  im  Sinne  des  § 34  des Arbeitsverfassungsgesetzes  (ArbVG),  BGBl.  Nr. 22/1974.  § 22a  des  Behinderteneinstellungsgesetzes, BGBl. Nr. 22/1970, findet Anwendung.
+(3) Sämtliche Arbeitsstätten des BIFIE bilden einen einheitlichen Betrieb im Sinne des § 34 des Arbeitsverfassungsgesetzes (ArbVG), BGBl. Nr. 22/1974. § 22a des Behinderteneinstellungsgesetzes, BGBl. Nr. 22/1970, findet Anwendung.
 
 ##### Bundes-Gleichbehandlungsgesetz
 
-§ 22. Auf die Arbeitnehmer und Arbeitnehmerinnen des BIFIE ist das BundesGleichbehandlungsgesetz, BGBl. Nr. 100/1993, sinngemäß anzuwenden.
+§ 22. Auf die Arbeitnehmer und Arbeitnehmerinnen des BIFIE ist das Bundes-Gleichbehandlungsgesetz, BGBl. Nr. 100/1993, sinngemäß anzuwenden.
 
 ##### Überleitung der Bediensteten
 
 § 23. (1) Vertragsbedienstete des Bundes, welche am Tag vor dem Inkrafttreten dieses Bundesgesetzes dem Bundesinstitut für Bildungsforschung, Innovation und Entwicklung des Bildungswesens  gemäß  §§ 20a  bis  20d  des  Bundes-Schulaufsichtsgesetzes,  BGBl.  Nr. 240/1962,  zur dauernden Dienstleistung zugewiesen  sind, werden mit dem  Inkrafttreten dieses Bundesgesetzes Arbeitnehmer und Arbeitnehmerinnen des BIFIE. Ab diesem Zeitpunkt setzt das BIFIE die Rechte und Pflichten des Bundes fort. Für diese Arbeitnehmer und Arbeitnehmerinnen gelten die Bestimmungen des Dienst- und Besoldungsrechtes, insbesondere des Vertragsbedienstetengesetzes 1948, BGBl. Nr. 86, mit der  Maßgabe  weiter,  dass  anstelle  der  im  zitierten  Bundesgesetz  genannten  Organe  des  Bundes  die Organe des BIFIE treten; der Abschluss sondervertraglicher Regelungen gemäß § 36 des Vertragsbedienstetengesetzes 1948 ist nicht mehr zulässig.
 
-(2)  Diese  Arbeitnehmer und Arbeitnehmerinnen haben, wenn sie innerhalb eines Jahres nach dem Inkrafttreten  dieses  Bundesgesetzes  ihre  Bereitschaft  zum  Ausscheiden  aus  ihrem  Arbeitsverhältnis (Abs. 1) erklären, Anspruch auf gleichzeitige Aufnahme in ein Arbeitsverhältnis zum BIFIE nach den zu diesem Zeitpunkt für neu eintretende Arbeitnehmer und Arbeitnehmerinnen gültigen Bestimmungen. Ein Anspruch auf Abfertigung besteht im Zusammenhang  mit diesem Ausscheiden nicht. Die im vorangegangenen  Dienstverhältnis  verbrachte  Dienstzeit  ist  jedoch  für  alle  zeitabhängigen  Rechte  zu berücksichtigen.
+(2) Diese Arbeitnehmer und Arbeitnehmerinnen haben, wenn sie innerhalb eines Jahres nach dem Inkrafttreten dieses Bundesgesetzes ihre Bereitschaft zum Ausscheiden aus ihrem Arbeitsverhältnis (Abs. 1) erklären, Anspruch auf gleichzeitige Aufnahme in ein Arbeitsverhältnis zum BIFIE nach den zu diesem Zeitpunkt für neu eintretende Arbeitnehmer und Arbeitnehmerinnen gültigen Bestimmungen. Ein Anspruch auf Abfertigung besteht im Zusammenhang mit diesem Ausscheiden nicht. Die im
 
 www.ris.bka.gv.at
 
@@ -501,7 +507,9 @@ Seite 9 von 11
 
 Bundesrecht konsolidiert
 
-(3) Beamte und Beamtinnen des Bundes, welche am Tag vor dem Inkrafttreten dieses Bundesgesetzes am Bundesinstitut für Bildungsforschung, Innovation und Entwicklung des Bildungswesens gemäß §§ 20a bis 20d des Bundes-Schulaufsichtsgesetzes, BGBl. Nr. 240/1962, Dienst verrichten, werden mit dem Inkrafttreten dieses Bundesgesetzes in das Bundesministerium für Unterricht, Kunst  und  Kultur  -  Zentralleitung  versetzt  und  gleichzeitig  dem  BIFIE  zur  dauernden  Dienstleistung zugewiesen. Das Direktorium ist in Dienstrechtsangelegenheiten dieser Beamten und Beamtinnen an die Weisungen des zuständigen Regierungsmitglieds gebunden. Das ArbeitnehmerInnenschutzgesetz, BGBl. Nr. 450/1994, findet Anwendung.
+vorangegangenen Dienstverhältnis verbrachte Dienstzeit ist jedoch für alle zeitabhängigen Rechte zu berücksichtigen.
+
+(3) Beamte und Beamtinnen des Bundes, welche am Tag vor dem Inkrafttreten dieses Bundesgesetzes am Bundesinstitut für Bildungsforschung, Innovation und Entwicklung des Bildungswesens gemäß §§ 20a bis 20d des Bundes-Schulaufsichtsgesetzes, BGBl. Nr. 240/1962, Dienst verrichten, werden mit dem Inkrafttreten dieses Bundesgesetzes in das Bundesministerium für Unterricht, Kunst und Kultur – Zentralleitung versetzt und gleichzeitig dem BIFIE zur dauernden Dienstleistung zugewiesen. Das Direktorium ist in Dienstrechtsangelegenheiten dieser Beamten und Beamtinnen an die Weisungen des zuständigen Regierungsmitglieds gebunden. Das ArbeitnehmerInnenschutzgesetz, BGBl. Nr. 450/1994, findet Anwendung.
 
 (4) Die im Abs. 3 genannten Beamten und Beamtinnen haben, wenn sie innerhalb eines Jahres nach dem  Inkrafttreten  dieses  Bundesgesetzes  ihren  Austritt  aus  dem  Bundesdienst  erklären,  Anspruch  auf Aufnahme  in  ein  Arbeitsverhältnis  zum  BIFIE  mit  Wirksamkeit  von  dem  dem  Austritt  folgenden Monatsersten  an  und  nach  den  zu  diesem  Zeitpunkt  für  neu  eintretende  Arbeitnehmerinnen  und Arbeitnehmer gültigen Bestimmungen.  Die beim Bund  verbrachte Dienstzeit ist dabei für alle zeitabhängigen Ansprüche anzurechnen.
 
@@ -536,27 +544,27 @@ Seite 10 von 11
 
 Bundesrecht konsolidiert
 
-- die Einhaltung der Gesetze und Verordnungen, insbesondere die Wahrung des Grundrechtes auf Datenschutz,
+1. die Einhaltung der Gesetze und Verordnungen, insbesondere die Wahrung des Grundrechtes auf Datenschutz,
 
-- die Erfüllung der dem BIFIE nach diesem Bundesgesetz obliegenden Aufgaben und
+2. die Erfüllung der dem BIFIE nach diesem Bundesgesetz obliegenden Aufgaben und
 
-- die Gebarung des BIFIE.
+3. die Gebarung des BIFIE.
 
-- Dem zuständigen Regierungsmitglied obliegt:
+(3) Dem zuständigen Regierungsmitglied obliegt:
 
-- Die Genehmigung der Institutsordnung des BIFIE;
+1. Die Genehmigung der Institutsordnung des BIFIE;
 
-- die Formulierung von Vorgaben zu den Dreijahresplänen;
+2. die Formulierung von Vorgaben zu den Dreijahresplänen;
 
-- die Genehmigung des Unternehmenskonzeptes und der Dreijahrespläne;
+3. die Genehmigung des Unternehmenskonzeptes und der Dreijahrespläne;
 
-- die Entlastung des Aufsichtsrates;
+4. die Entlastung des Aufsichtsrates;
 
-- die Bestellung des Abschlussprüfers oder der Abschlussprüferin des Jahresabschlusses;
+5. die Bestellung des Abschlussprüfers oder der Abschlussprüferin des Jahresabschlusses;
 
-- die Feststellung des Jahresabschlusses und die Entlastung des Direktoriums;
+6. die Feststellung des Jahresabschlusses und die Entlastung des Direktoriums;
 
-- die Beschlussfassung über die Verwendung des Bilanzgewinnes oder Bilanzverlustes.
+7. die Beschlussfassung über die Verwendung des Bilanzgewinnes oder Bilanzverlustes.
 
 ### 8. Teil
 #### Übergangs- und Schlussbestimmungen
@@ -573,26 +581,26 @@ Bundesrecht konsolidiert
 
 § 27. Mit der Vollziehung dieses Bundesgesetzes ist
 
-- hinsichtlich des § 11 Abs. 1 Z 2 und des § 18 der Bundesminister oder die Bundesministerin für Finanzen,
+1. hinsichtlich des § 11 Abs. 1 Z 2 und des § 18 der Bundesminister oder die Bundesministerin für Finanzen,
 
-- hinsichtlich des § 11 Abs. 1 Z 3 der Bundesminister oder die Bundesministerin für Wissenschaft und Forschung,
+2. hinsichtlich des § 11 Abs. 1 Z 3 der Bundesminister oder die Bundesministerin für Wissenschaft und Forschung,
 
-- hinsichtlich  des  § 12  Abs. 1  letzter  Satz  der  Bundesminister  oder  die  Bundesministerin  für Unterricht, Kunst und Kultur im Einvernehmen mit dem Bundesminister oder der Bundesministerin für Wissenschaft und Forschung,
+3. hinsichtlich des § 12 Abs. 1 letzter Satz der Bundesminister oder die Bundesministerin für Unterricht, Kunst und Kultur im Einvernehmen mit dem Bundesminister oder der Bundesministerin für Wissenschaft und Forschung,
 
-- hinsichtlich  des  § 16  der  Bundesminister  oder  die  Bundesministerin  für  Unterricht,  Kunst  und Kultur im Einvernehmen mit dem Bundesminister oder der Bundesministerin für Finanzen und
+4. hinsichtlich des § 16 der Bundesminister oder die Bundesministerin für Unterricht, Kunst und Kultur im Einvernehmen mit dem Bundesminister oder der Bundesministerin für Finanzen und
 
-- im Übrigen der Bundesminister oder die Bundesministerin für Unterricht, Kunst und Kultur betraut.
+5. im Übrigen der Bundesminister oder die Bundesministerin für Unterricht, Kunst und Kultur betraut.
 
 ##### Inkrafttreten
 
 § 28. (1) Dieses Bundesgesetz tritt mit 1. Jänner 2008 in Kraft.
 
-- Art. 1 § 2 Abs. 2 und 3, § 6 Abs. 2, § 7 Abs. 1 und 2, § 16 Abs. 1 sowie § 24 Abs. 2 Z 1 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 113/2009 treten mit 1. Jänner 2010 in Kraft.
+(2) Art. 1 § 2 Abs. 2 und 3, § 6 Abs. 2, § 7 Abs. 1 und 2, § 16 Abs. 1 sowie § 24 Abs. 2 Z 1 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 113/2009 treten mit 1. Jänner 2010 in Kraft.
 
-§ 11 Abs. 6, § 12 Abs. 2a, § 13 Abs. 3, § 14 Abs. 1, § 15 Abs. 1 sowie § 16 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 7/2013 treten mit 1. Jänner 2013 in Kraft.
-
-Seite 11 von 11
+(3) § 11 Abs. 6, § 12 Abs. 2a, § 13 Abs. 3, § 14 Abs. 1, § 15 Abs. 1 sowie § 16 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 7/2013 treten mit 1. Jänner 2013 in Kraft.
 
 www.ris.bka.gv.at
+
+Seite 11 von 11
 
 [[END OF PAGE 11]]
