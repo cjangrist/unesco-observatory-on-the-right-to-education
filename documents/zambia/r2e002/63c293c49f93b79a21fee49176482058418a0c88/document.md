@@ -50,6 +50,25 @@ iii
 
 ## TABLE OF CONTENTS
 
+FOREWORD...................................................................................................ii
+PREFACE......................................................................................................iii
+1.0 INTRODUCTION .............................................................................. 1
+2.0 TECHNICAL EDUCATION, VOCATIONAL AND NTREPRENEURSHIP TRAINING (TEVET): THE PHILOSOPHY AND OBJECTIVES .................. 2
+2.1 THE PHILOSOPHY ........................................................................ 2
+2.2 OBJETIVES OF TRAINING ............................................................. 6
+3.0 POLICY ENVIRONMENT.................................................................... 8
+4.0 ENTREPRENEURSHIP DEVELOPMENT, SELF-EMPLOYMENT AND THE INFORMAL SECTOR......................................................................... 8
+5.0 LEVELS AND OBJECTIVES OF TRAINING ......................................... 10
+5.1 Objectives of training.................................................................. 11
+6.0 ORGANISATION AND MANAGEMENT............................................... 12
+7.0 INPUTS TO THE SYSTEM................................................................ 13
+7.1 Technical management and training staff ..................................... 13
+7.2 Infrastructure, equipment and other requisites ............................. 14
+7.3 Curriculum Development............................................................. 15
+7.4 Monitoring and follow-up services ................................................ 16
+8.0 FINANCING................................................................................... 17
+9.0 CONCLUSION................................................................................ 19
+
 iv
 
 [[END OF PAGE 4]]
@@ -64,7 +83,7 @@ The failure to generate employment opportunities has also been worsened by the i
 
 The existing institutions that provide technical education and vocational training and those that promote the generation of employment do not have the ability and resources to adequately offer skills to the large number of unemployed to enable them to enter the productive sector.  Of particular concern is the problem of large numbers of youth, about two hundred thousand (200,000) per annum, leaving  the  school  system  without  any  opportunities  for  acquiring  skills  for  a productive life.
 
-In  addition,  the  employment  sector  has  not  been  completely  satisfied  with  the quality of trained manpower available for the various operations in the industries that  require  vocational  skills.    This  has  also  been  worsened  by  the  inadequate resources available in institutions  that  offer  vocational  training  to  sustain  highlevel training and meet the expected standards of the employment sector.
+In addition, the employment sector has not been completely satisfied with the quality of trained manpower available for the various operations in the industries that require vocational skills. This has also been worsened by the inadequate
 
 1
 
@@ -72,7 +91,9 @@ In  addition,  the  employment  sector  has  not  been  completely  satisfied  w
 
 [[START OF PAGE 6]]
 
-The  Government  has  therefore  identified  the  need  to  formulate  a  broader national  policy  on  technical  education  and  vocational  training.    The  aim  of  the policy is to improve technical education and vocational training and link it to the requirements  of  the  employment  sector.    The  new  policy  is  broader  in  three respects. First, it incorporates entrepreneurship development.  For this reason, the Policy will be known as the Technical Education, vocational and Entrepreneurship Training (TEVET) Policy.  Second, the new policy encompasses all types of technical education and vocation training like nursing, agriculture, community development and engineering.  Third, it  covers training being conducted at all levels in both the formal and informal sector.
+resources available in institutions that offer vocational training to sustain high-level training and meet the expected standards of the employment sector.
+
+The Government has therefore identified the need to formulate a broader national policy on technical education and vocational training. The aim of the policy is to improve technical education and vocational training and link it to the requirements of the employment sector. The new policy is broader in three respects. First, it incorporates entrepreneurship development. For this reason, the Policy will be known as the Technical Education, vocational and Entrepreneurship Training (TEVET) Policy. Second, the new policy encompasses all types of technical education and vocation training like nursing, agriculture, community development and engineering. Third, it covers training being conducted at all levels in both the formal and informal sector.
 
 ## 2.0 TECHNICAL EDUCATION, VOCATIONAL AND NTREPRENEURSHIP TRAINING (TEVET): THE PHILOSOPHY AND OBJECTIVES
 
@@ -88,7 +109,7 @@ The most important challenge that Technical Education, Vocational and Entreprene
 
 In  1968  the  Commission  for  Technical  Education  and  Vocational  Training  was established to resuscitate and revamp technical education in order to:
 
-- satisfy existing requirement of the public service, industry and commerce;
+- i) satisfy existing requirement of the public service, industry and commerce;
 
 - ii) ensure steady output for the future; and
 
@@ -108,7 +129,7 @@ It is imperative; therefore, that TEVET is designed in such a way that it satisf
 
 [[START OF PAGE 8]]
 
-- to  balance  the  supply  of  skilled  labour  at  all  levels  with  the demands of he economy;
+- i) to balance the supply of skilled labour at all levels with the demands of he economy;
 
 - ii) to  act  as  a  vehicle  for  improved  productivity  and  income generation; and
 
@@ -116,7 +137,7 @@ It is imperative; therefore, that TEVET is designed in such a way that it satisf
 
 These issues are in line with the following Government's broad policy objectives of:
 
-- enhancing  the  capacities  of  the  education  and  training  systems  to develop  curricula  that  will  provide  skills  useful  to  the  labour  market and those which would enable such graduates to enter the productive sector;
+- i) enhancing the capacities of the education and training systems to develop curricula that will provide skills useful to the labour market and those which would enable such graduates to enter the productive sector;
 
 - ii) facilitating the acquisition of the necessary technical skills, i.e. supportive production-oriented skills and basic business and entrepreneurial skills through development strengthening of extension and outreach programmes;
 
@@ -164,7 +185,7 @@ The  general  objectives  that  TEVET  seeks  to  attain  can  be  deduced  from
 
 The economic objectives of the TEVET policy are:-
 
-- to improve the productivity of the labour force in both the formal and informal sectors;
+- i) to improve the productivity of the labour force in both the formal and informal sectors;
 
 - ii) to  promote  entrepreneurship  and  economic  participation  in  both  the formal and informal sectors with the aim of increasing the efficiency of the national economy;
 
@@ -172,7 +193,7 @@ The economic objectives of the TEVET policy are:-
 
 - iv) to provide qualitative training for imparting appropriate vocational skills relevant to the socio-economic development needs of Zambia;
 
-- to  promote  a  rational  use  of  local  resources  in  training  and  posttraining activities of entrepreneurs; and
+- v) to promote a rational use of local resources in training and post-training activities of entrepreneurs; and
 
 - vi) to promote the economic empowerment of the women in our society.
 
@@ -180,7 +201,7 @@ The economic objectives of the TEVET policy are:-
 
 The social objectives of the TEVET policy are:
 
-- to provide skills and opportunities that will respond to Zambia's needs such  as  poverty  alleviation,  improved  housing  and  improved  health care;
+- i) to provide skills and opportunities that will respond to Zambia's needs such as poverty alleviation, improved housing and improved health care;
 
 6
 
@@ -194,13 +215,13 @@ The social objectives of the TEVET policy are:
 
 - iv) to inculcate a culture of entrepreneurship and promote self-reliance in the Zambian society; and
 
-- to  ensure  greater  participation  of  the  women  in  the  development process.
+- v) to ensure greater participation of the women in the development process.
 
 #### 2.2.3 Target Groups for Training
 
 In view of the large number of individuals that require training and the limited resources available, there is a need for an effective TEVET system that will target training  to  those  groups  of  people  that  are  most  likely  to  contribute  more productively to economic growth and development.  The TEVET policy recognizes the following categories of people in our society as the most likely to benefit the country from this training:
 
-- school leavers (i.e. Grade 7, Grade 9 and Grade 12);
+- i) school leavers (i.e. Grade 7, Grade 9 and Grade 12);
 
 - ii) employees in the formal sector;
 
@@ -208,7 +229,7 @@ In view of the large number of individuals that require training and the limited
 
 - iv) the  unemployed  and  underemployed  -  including  employees  in  the informal sector;
 
-- women; and
+- v) women; and
 
 - vi) retrenches.
 
@@ -240,7 +261,7 @@ It  is  widely  recognized  that  the  type  of  training  that  is  being  offe
 
 Therefore,  future  TEVET  Policy  should  aim  at  creating  conditions  for  the development of an entrepreneurial culture and its related skills in response to the following concerns:
 
-- unexploited business opportunities in the economy;
+- i) unexploited business opportunities in the economy;
 
 - ii) under-employment in the informal sector;
 
@@ -248,19 +269,21 @@ Therefore,  future  TEVET  Policy  should  aim  at  creating  conditions  for  t
 
 - iv) rural-urban migration; and
 
-- poverty.
+- v) poverty.
 
 The Government will, aim at enhancing the ability of the labour force to start and run viable growth-oriented business enterprises as a deliberate career alternative.  It  is  government's  intention  to  strengthen  the  capacities  of  the education system, technical education and vocational training institutes.  This will be  done  to  enable  them  to  deliver  quality  training  aimed  at  facilitating  the performance of the informal sector and of the graduates from these institutions wishing to engage in self-employment.
 
 The government also recognizes that there are other important policy issues that are  key  to  enhancing  the  growth  of  entrepreneurship,  the  informal  sector  and self-employment.  Although these issues are outside the domain of the TEVET Policy,  they  will  need  thorough  consideration.    These  issues  include:    Land acquisition, credit facilities and the general education curricula.  The process of policy harmonization will take care of these concerns.  In addition, the new policy will provide for some promotional activities that will be undertaken by the TEVET system.
 
-It is also a fact that the informal sector training is provided at a much lower cost than  that  provided  by  the  informal  and  non-formal  training  institutions.    The TEVET Policy seeks to encourage and foster informal sector training systems by strengthening links between the sector and TEVET training institutes.  Efforts to incorporate  the  needs  of  the  informal  sector  have  begun  in  the  Ministry  of Science,  Technology  and  Vocational  Training  (MSTVT)  with  the  Competence Based Modular Training (CBMT) and proposals for Technology Transfer Programmes and Short Training Programmes.
+It is also a fact that the informal sector training is provided at a much lower cost than that provided by the informal and non-formal training institutions. The
 
 9
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+TEVET Policy seeks to encourage and foster informal sector training systems by strengthening links between the sector and TEVET training institutes. Efforts to incorporate the needs of the informal sector have begun in the Ministry of Science, Technology and Vocational Training (MSTVT) with the Competence Based Modular Training (CBMT) and proposals for Technology Transfer Programmes and Short Training Programmes.
 
 ## 5.0 LEVELS AND OBJECTIVES OF TRAINING
 
@@ -300,7 +323,7 @@ This caters for those attending non-formal training and reflects competence on t
 
 The  levels  of  training  provided  and  the  certification  system  demonstrates  that presently most technical education and vocational training is primarily targeted at the  formal  sector.    Even  institutions  offering  non-formal  training  are  inclined towards  their  graduates  obtaining  formal  qualifications  by  sitting  for  the  said trade test.
 
-Under the present arrangement, there are not automatic linkages between the different levels of training except between the non-formal training and the trade test level.  A person who has completed a crafts course cannot proceed to the next  stage  on  the  basis  of  the  certificate  obtained.    Furthermore,  the  entry requirements for most of these programmes are highly biased in favour of Grade 12 certificate holders.
+Under the present arrangement, there are not automatic linkages between the different levels of training except between the non-formal training and the trade test level. A person who has completed a crafts course cannot proceed to the next stage on the basis of the certificate obtained. Furthermore, the entry
 
 11
 
@@ -308,13 +331,15 @@ Under the present arrangement, there are not automatic linkages between the diff
 
 [[START OF PAGE 16]]
 
-It  is  the  Government's  intention  to  devise  a  system  that  allows  for alternative  channels  of  progression  on  the  basis  of  credits  obtained from completed lower training levels.  In addition, the government will put  in  place  a  TEVET  system  that  is  accessible  to  school  leavers  at various levels of the educational system on the basis of aptitudes and abilities.    To  this  effect  the  new  system  will  give  institutions  the flexibility  to  develop  programmes  that  meet  the  needs  of  their localities and take into account the geo-economy of the areas in which they area located.
+requirements for most of these programmes are highly biased in favour of Grade 12 certificate holders.
+
+It is the Government's intention to devise a system that allows for alternative channels of progression on the basis of credits obtained from completed lower training levels. In addition, the government will put in place a TEVET system that is accessible to school leavers at various levels of the educational system on the basis of aptitudes and abilities. To this effect the new system will give institutions the flexibility to develop programmes that meet the needs of their localities and take into account the geo-economy of the areas in which they area located.
 
 ## 6.0 ORGANISATION AND MANAGEMENT
 
 In  view  of  the  new  challenges  facing  the  vocational  training  system,  there  is need to review its present organizational and management structure so that it is in line with the increased demand for training and a liberalized and private sector led  economy.    At  present,  technical  education  and  vocational  training  is  the responsibility of the Department of Technical Education and Vocational (DVET) as provided for under the Technical Education and Vocational Training Act of 1972. Being  a  government  department,  DVET  may  not  possess  the  flexibility  that  is required for immediately responding to this increased demand.
 
-DVET  has  faced  a  number  of  logistical  and  financial  constraints  that  have hindered the department's efforts to enforce the laid down  registration procedures and regulatory standards.  Consequently, this has affected the quality of vocational training being offered and  has  not put in  place  adequate management  systems  at  both  private  and  government  institutions  providing training.    For  example,  there  is  a  lack  of  coordination  among  government ministries providing vocational training thus creating overlaps and misallocation of resources.
+DVET has faced a number of logistical and financial constraints that have hindered the department's efforts to enforce the laid down registration procedures and regulatory standards. Consequently, this has affected the quality of vocational training being offered and has not put in place adequate
 
 12
 
@@ -322,7 +347,9 @@ DVET  has  faced  a  number  of  logistical  and  financial  constraints  that  
 
 [[START OF PAGE 17]]
 
-The  foregoing  situation  indicates  that  any  programme  that  is  aimed  at  linking technical education and vocational training to the labour market must take into consideration the role that MSTVT will be expected to play in such an initiative.
+management systems at both private and government institutions providing training. For example, there is a lack of coordination among government ministries providing vocational training thus creating overlaps and misallocation of resources.
+
+The foregoing situation indicates that any programme that is aimed at linking technical education and vocational training to the labour market must take into consideration the role that MSTVT will be expected to play in such an initiative.
 
 The Government will review the present organizational and management systems of DVET and technical education and vocational training  institutions  with  a  view  to  strengthening  them  to  meet  the broader  training  needs. Any  change  to  the  system  must  allow  for  the technical education and vocational training system to be adaptable and flexible to the dynamics and social needs of society.  The change must also conform to the liberal  economic  environment  and  increased  private  sector  participation  in various  spheres  of  the  economy.    Appropriate  legislation  will  be  effected  to support a reviewed organizational and management system.
 
@@ -332,7 +359,7 @@ Any system that has inputs inevitably requires inputs.  Further, the quality of 
 
 ### 7.1 Technical management and training staff
 
-TEVET requires staff that possess the necessary technical qualifications, industrial experience, teaching competence and staff that are adequately trained in skills for entrepreneurial development.  The ability of technical education and vocational training system to attract and retain qualified staff is being severely hampered by poor conditions of service and remuneration levels.
+TEVET requires staff that possess the necessary technical qualifications, industrial experience, teaching competence and staff that are adequately trained in skills for entrepreneurial development. The ability of technical education and
 
 13
 
@@ -340,7 +367,9 @@ TEVET requires staff that possess the necessary technical qualifications, indust
 
 [[START OF PAGE 18]]
 
-In  line  with  the  direction  that  TEVET  will  take,  it  is  imperative  that  technical management and staff of the systems should possess the necessary attributes. To  achieve  this  objective,  a  coherent  staff  development  programme  will  be established to improve the skills of the instructors and to enhance the efficiency and  effectiveness  of  the  management  staff  through  specialized  and  short management development programmes. The working environment, remuneration  and  conditions  of  service  of  technical  management  and  training staff will also be improved.
+vocational training system to attract and retain qualified staff is being severely hampered by poor conditions of service and remuneration levels.
+
+In line with the direction that TEVET will take, it is imperative that technical management and staff of the systems should possess the necessary attributes. To achieve this objective, a coherent staff development programme will be established to improve the skills of the instructors and to enhance the efficiency and effectiveness of the management staff through specialized and short management development programmes. The working environment, remuneration and conditions of service of technical management and training staff will also be improved.
 
 For  training  targeted  at  the  informal  sector,  the  major  attributes  of  trainers should be relevant expertise, experienced and instructional abilities.
 
@@ -348,7 +377,7 @@ For  training  targeted  at  the  informal  sector,  the  major  attributes  of 
 
 The  current  physical  structures  of  most  vocational  training  institutions  are dilapidated, insufficient and  not  fully utilized.    The  training  materials  are inadequate  due  to  funding  constraints.    The  training  equipment  and  plant  are worn  out  and  technologically  out-dated.    Furthermore,  the  vocational  training systems have inadequate, poor and in certain instances, non-existent library and information services.
 
-In view of the current economic constraints, which do not allow for the immediate construction of new facilities, the TEVET system will, in the short  run,  support  rehabilitation  of  infrastructure  and  optimize  their use.
+In view of the current economic constraints, which do not allow for the immediate construction of new facilities, the TEVET system will, in the
 
 14
 
@@ -356,7 +385,9 @@ In view of the current economic constraints, which do not allow for the immediat
 
 [[START OF PAGE 19]]
 
-Immediate  consideration  of  using  Zambia  National  Service  (ZNS)  facilities  and former Refugee Camps for provision of TEVET will be made.  In the long run, new institutions will be built in areas where there is an established need.
+short run, support rehabilitation of infrastructure and optimize their use.
+
+Immediate consideration of using Zambia National Service (ZNS) facilities and former Refugee Camps for provision of TEVET will be made. In the long run, new institutions will be built in areas where there is an established need.
 
 Consideration  of  establishing  a  rationalized  system  of  procurement  of  some  of the  training  materials  and  equipment  in  bulk  will  be  made.    The  procurement system  will  also  aim  at  encouraging  collaboration  with  industry  in  acquiring materials and equipment.
 
@@ -368,7 +399,7 @@ To facilitate the process of infrastructural development, the government intends
 
 ### 7.3 Curriculum Development
 
-The  present  vocational  training  system  produces  graduates  whose  knowledge, skills  and  attitudes  do  not  match  the  needs  of  the  present  labour  market. Industry is concerned that, in most cases, the new graduates require on-the-job training  to  bridge  the  gap  between  the  inadequacies  that  are  noted  in  the application of technology, handling of equipment and their practical experience. In  a  number  of  cases,  new  graduates  only  become  productive  after  a  year  of being on-the-job, during which time they are closely supervised.  In some cases employees  feel  that  the  vocational  training  system  is  not  up-to-date  with changing technologies and industrial activities applying in the industry.
+The present vocational training system produces graduates whose knowledge, skills and attitudes do not match the needs of the present labour market. Industry is concerned that, in most cases, the new graduates require on-the-job
 
 15
 
@@ -376,7 +407,9 @@ The  present  vocational  training  system  produces  graduates  whose  knowledg
 
 [[START OF PAGE 20]]
 
-As  part  of  the  efforts  to  redress  this  situation  the  Government  will work towards creating an environment in which the development and review of the curricula is end-user driven through increased coordination between end-users and training institutions.
+training to bridge the gap between the inadequacies that are noted in the application of technology, handling of equipment and their practical experience. In a number of cases, new graduates only become productive after a year of being on-the-job, during which time they are closely supervised. In some cases employees feel that the vocational training system is not up-to-date with changing technologies and industrial activities applying in the industry.
+
+As part of the efforts to redress this situation the Government will work towards creating an environment in which the development and review of the curricula is end-user driven through increased coordination between end-users and training institutions.
 
 The  training  environment  will  foster  linkages  between  industry  and  vocational training  institutions  for  the  purpose  of  industrial  experience  during  training. Industries  providing  industrial  attachment  will  be  considered  for  incentives  by Government.
 
@@ -384,7 +417,7 @@ With regard to training for the informal sector, links between training institut
 
 ### 7.4 Monitoring and follow-up services
 
-One measure of the effectiveness of  the  vocational  training  programme  is  the extent to which the graduates from the training system are able to use the skills acquired productively within the economy.  In the present set up, it has not been possible  to  measure  the  effectiveness  of  training  due  to  ineffective  follow-up, evaluation and inspection services.
+One measure of the effectiveness of the vocational training programme is the extent to which the graduates from the training system are able to use the skills acquired productively within the economy. In the present set up, it has not been
 
 16
 
@@ -392,15 +425,17 @@ One measure of the effectiveness of  the  vocational  training  programme  is  t
 
 [[START OF PAGE 21]]
 
-The  TEVET  Policy  will,  therefore,  provide  for  the  establishment  of  a continuous  internal  and  external  evaluation  system  based  on  an effective tracer mechanism and criteria.  This requires that the system is strengthened and supported with adequate logistics to evaluate the impact of the training system.
+possible to measure the effectiveness of training due to ineffective follow-up, evaluation and inspection services.
+
+The TEVET Policy will, therefore, provide for the establishment of a continuous internal and external evaluation system based on an effective tracer mechanism and criteria. This requires that the system is strengthened and supported with adequate logistics to evaluate the impact of the training system.
 
 ## 8.0 FINANCING
 
 Skills  training  in  the  technical  education  and  vocational  training  system  is presently  heavily  subsidized  by  the  government.    The  fees  that  students  are charged particularly in government institutions are too low to be significant.  The government's  ability  to  maintain  the  momentum  of  expanding  educational establishments has suffered with the general economic decline.  As a result, it has  been  difficult  to  maintain  standards  at  the  government  institutions  now characterized  by  broken  down  infrastructure,  inadequate  teaching  aids,  poor student services and inability to retain high caliber and motivated teaching and administrative support staff.
 
-In most government institutions resources have been diverted to activities which do not give additional value to the delivery and acquisition  of skills.  The nonproductivity  activities  include  boarding  facilities  and  the  unchecked  numbers  of administrative  staff. The  government  intends  to  minimize  boarding facilities and rationalize administration staff and costs.
+In most government institutions resources have been diverted to activities which do not give additional value to the delivery and acquisition of skills. The non-productivity activities include boarding facilities and the unchecked numbers of administrative staff. The government intends to minimize boarding facilities and rationalize administration staff and costs.
 
-In  order  to  increase  and  diversify  sources  of  funding  a  training  fund  will  be established.  More especially, the government intends to shift the greater portion of  the  burden  of  the  cost  of  training  to  the  beneficiaries  including  industry, trainees and the informal sector.  In doing so care will be taken to ensure the stability of funding necessary to maintain a sustainable institutional capacity.
+In order to increase and diversify sources of funding a training fund will be established. More especially, the government intends to shift the greater portion
 
 17
 
@@ -408,9 +443,11 @@ In  order  to  increase  and  diversify  sources  of  funding  a  training  fund
 
 [[START OF PAGE 22]]
 
-The creation  of  a  business  culture  in  the  operations  of  the  TEVET  system  will ensure the development of self-sustaining financing arrangements and efficient use of resources.  In ensuring efficiency in the use of funds, the government also intends to explore, among other things, the possibility of rationalizing boarding facilities; institutionalizing a preventive maintenance culture among students and instructors;  increasing  capacity  utilization  of  training  facilities  and  granting greater autonomy to the application and sourcing of funds to individual training institutions.
+of the burden of the cost of training to the beneficiaries including industry, trainees and the informal sector. In doing so care will be taken to ensure the stability of funding necessary to maintain a sustainable institutional capacity.
 
-With  regard  to  the  demand  for  training  funds,  the  government  recognizes  the need  to  equally  widen  the  range  of  recipients  of  training  funds. The  TEVET Policy  will  ensure  that  all  institutions  and  persons  providing  TEVET  whether formal or informal training - will have equal access to training funds provided that they deliver training in an acceptable manner.
+The creation of a business culture in the operations of the TEVET system will ensure the development of self-sustaining financing arrangements and efficient use of resources. In ensuring efficiency in the use of funds, the government also intends to explore, among other things, the possibility of rationalizing boarding facilities; institutionalizing a preventive maintenance culture among students and instructors; increasing capacity utilization of training facilities and granting greater autonomy to the application and sourcing of funds to individual training institutions.
+
+With regard to the demand for training funds, the government recognizes the need to equally widen the range of recipients of training funds. The TEVET Policy will ensure that all institutions and persons providing TEVET – whether formal or informal training – will have equal access to training funds provided that they deliver training in an acceptable manner.
 
 The  government  also  recognizes  that  a  shift  towards  a  self-sustaining  TEVET financing system will have implications on the ability of the low income groups to have access to training facilities.  The government's intention in this regard is to create opportunities to students from the low income groups to have access to training.    The  TEVET  system  will  consider  offering  scholarships  and  a  student loan scheme as a way of making sure that there are equal opportunities for all in the society.
 
