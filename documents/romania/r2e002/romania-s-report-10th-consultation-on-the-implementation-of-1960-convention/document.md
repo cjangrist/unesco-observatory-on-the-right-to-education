@@ -6,7 +6,7 @@ Tenth consultation of Member States on the application of the Convention and the
 
 ## GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ### 1. Introduction
 
@@ -16,7 +16,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The Convention has been recognized as a cornerstone of Education 2030 agenda. It also represents a  powerful  tool  to  advance  SDG4  by  ensuring  effective  articulation  between  normative  and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ### 2. Reporting obligations
 
@@ -58,9 +58,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -74,9 +74,9 @@ Country name: Romania
 
 Organization or entity responsible for the preparation of the report: Ministry of Education and Research
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -110,7 +110,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -120,7 +120,7 @@ o Yes
 
 No difficulties encountered.
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -174,11 +174,11 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-## Information on the implementation of the Convention or Recommendation
+## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non- discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This  corresponds  to  the  overall  aspiration  of  SDG4  which  aims  to 'ensure  inclusive  and equitable  quality  education  and  promote  lifelong  learning  opportunities  for  all'  by  2030.  It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
@@ -290,7 +290,7 @@ In order to strengthen the legal provisions combatting the school segregation ph
 
 Order no 6.134 / 2016 also provides for the promotion in schools of the inclusive school concept, that is a democratic and friendly school environment which capitalizes on the social, ethnical  and  cultural  diversity,  where  all  children  are  respected  and  integrated  without discrimination and without exclusion based on ethnicity or mother tong, gender, disability / special  educational  needs,  family  social  and  economic  background,  residence  or  school achievements. Preventing and eliminating school segregation phenomena is an imperative condition for the creation of an inclusive school.
 
-Pursuant  to  Order  no  6.134  /  2016  and  in  view  of  its  implementation,  the Order  no. 5633/2019 on the approval of the Methodology for monitoring school segregation in the preuniversity education was adopted.
+Pursuant to Order no 6.134 / 2016 and in view of its implementation, the Order no. 5633/2019 on the approval of the Methodology for monitoring school segregation in the pre-university education was adopted.
 
 #### 1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
 
@@ -316,7 +316,7 @@ At the same time, measures were taken so that 8th grade graduates from previous 
 
 [[START OF PAGE 11]]
 
-- Order no. 4950/2019 on the organization and conduct of the national baccalaureate exam 2020 includes  special  provisions  for  students  with  visual  /  hearing  impairments  /  autism spectrum disorder / specific learning disabilities for which the exam tests are adapted to their specific needs, in order to ensure the equality of chances.
+- Order no. 4950/2019 on the organization and conduct of the national baccalaureate exam - 2020 includes special provisions for students with visual / hearing impairments / autism spectrum disorder / specific learning disabilities for which the exam tests are adapted to their specific needs, in order to ensure the equality of chances.
 
 -Order no. 3,124 / 2017 for approving the Methodology for providing the necessary support to pupils with learning disabilities that regulates the appropriate assessment procedures for detecting pupils' learning disabilities (dyslexia, dysgraphia and dyscalculia), as well as the appropriate  type  of  intervention  in  view  of  providing  them  individualized  and  personalized learning.  This  normative  act  contains  clear  provisions  regarding  the  ways  to  adapt  the examination procedures of the National Evaluation (for pupils graduating the 8th grade) and the National Baccalaureate Exam for pupils with specific learning disabilities.
 
@@ -346,9 +346,7 @@ The Strategy for the Inclusion of Romanian Citizens belonging to the Roma Minori
 
 Please also see the measures included in the following section which also foster the equal access to education.
 
-#### 1.3 Please  indicate  the  actions  taken  and  planned  in  your  country  to  ensure  equality  of opportunities (in terms of access, participation and completion), equal treatment and to support the  inclusion  of  all  learners  (including  girls  and  women,  the  economically  and  socially marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
-
-- Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
+#### 1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
 
 - ý Providing financial incentives and fellowships
 
@@ -360,7 +358,7 @@ Please also see the measures included in the following section which also foster
 
 - o Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
-- o Providing  re-entry  programmes  for  young mothers
+- o Providing re-entry programmes for young mothers
 
 - o Eliminating all barriers for pregnant girls or young mothers in education
 
@@ -382,11 +380,13 @@ Please also see the measures included in the following section which also foster
 
 - ý Combatting stereotyping and stigmatisation
 
+- Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
+
 Please refer to the legislative measures, policies and strategies mentioned at 1.1. and 1.2.
 
 ##### Projects and programs that ensure equal access to education, at all levels and types of education, through specific measures
 
-- The Relevant Curriculum, Open education for all' Project (CRED Project) is a large-scale project,  implemented  between  2017-2020  by  the  Ministry  of  Education  and  Research  in Romania. The general objective of the CRED Project is to prevent the early school leaving by means of systemic measures targeting the innovative and sustainable implementation of
+- The Relevant Curriculum, Open education for all” Project (CRED Project) is a large-scale project, implemented between 2017-2020 by the Ministry of Education and Research in Romania. The general objective of the CRED Project is to prevent the early school leaving by means of systemic measures targeting the innovative and sustainable implementation of
 
 > 7 Administrative barriers to education include, amongst others, lack of identity papers or birth certificates required to enrol.
 
@@ -408,7 +408,7 @@ The second component is addressed to public universities, which are awarded gran
 
 - o The School after School Program is an educational program complementary to the compulsory school program, which offers opportunities for formal and non-formal learning,  the  consolidation  of  skills,  remedial  learning  and  accelerated  learning through educational, recreational and leisure activities and is aimed at both primary school and secondary school pupils.
 
-The Pilot Programme Hot meals in schools was launched in 2016 as a pilot project in 50 preuniversity educational establishments and continued annually. The Programme consists in providing pre-schoolers and pupils, especially those from disadvantaged backgrounds or from vulnerable communities, with a hot meal. The pilot programme had a positive impact in diminishing the drop-out rate, while improving school attendance of pupils and fostering the development of healthy food habits in children.
+The Pilot Programme Hot meals in schools was launched in 2016 as a pilot project in 50 pre-university educational establishments and continued annually. The Programme consists in providing pre-schoolers and pupils, especially those from disadvantaged backgrounds or from vulnerable communities, with a hot meal. The pilot programme had a positive impact in diminishing the drop-out rate, while improving school attendance of pupils and fostering the development of healthy food habits in children.
 
 [[END OF PAGE 13]]
 
@@ -452,11 +452,11 @@ Similarly, children of foreigners having acquired international protection in Ro
 
 ##### Specific measures taken during the COVID 19 sanitary crisis
 
-In the context of the COVID-19 sanitary crisis, which determined an emergency switch to distance learning, the Ministry of Education and Research has taken measures to ensure access to distance learning activities for all students, including those from disadvantaged socio-economic backgrounds, enrolled in pre-university education units. To this end, the Ministry  is  currently  implementing  the  Programme  Home  School,  whose  objective  is  the procurement of electronic devices connected to the internet for the equipment of state preuniversity education units, in view of facilitating distance learning activities for pupils from disadvantaged backgrounds. The Programme, as well as the allocation of the required funds were approved by the Government Decision no 370/2020.
+In the context of the COVID-19 sanitary crisis, which determined an emergency switch to distance learning, the Ministry of Education and Research has taken measures to ensure access to distance learning activities for all students, including those from disadvantaged socio-economic backgrounds, enrolled in pre-university education units. To this end, the Ministry is currently implementing the Programme Home School, whose objective is the procurement of electronic devices connected to the internet for the equipment of state pre-university education units, in view of facilitating distance learning activities for pupils from disadvantaged backgrounds. The Programme, as well as the allocation of the required funds were approved by the Government Decision no 370/2020.
 
 Also, during the confinement period when all education institutions had to suspend their face-to-face activities, the Ministry of Education and Research took the following measures in order to ensure the continuity of education:
 
-- the launch of the online platform Digital pe educred. ro by the Ministry. The Platform centralizes different types of digital resources and useful information, available for free, providing teachers the necessary means to capitalize on the new technologies for  providing  pupils  with  distance  learning  classes.  Thus,  the  platform  provides learning resources, digital tools for developing such resources, collaborative learning platforms, useful communication and remote collaboration tools, as well as learning communities facilitating experience and resource sharing between teachers. At the same time, the teachers and pupils have access to the textbook platform, containing the  digital  version  of  all  textbooks  approved  by  the  Ministry  of  Education  and Research, which can be accessed and downloaded for free: https://www.manuale.edu.ro/.
+- the launch of the online platform Digital pe educred.ro by the Ministry. The Platform centralizes different types of digital resources and useful information, available for free, providing teachers the necessary means to capitalize on the new technologies for providing pupils with distance learning classes. Thus, the platform provides learning resources, digital tools for developing such resources, collaborative learning platforms, useful communication and remote collaboration tools, as well as learning communities facilitating experience and resource sharing between teachers. At the same time, the teachers and pupils have access to the textbook platform, containing the digital version of all textbooks approved by the Ministry of Education and Research, which can be accessed and downloaded for free: https://www.manuale.edu.ro/.
 
 - This measure was accompanied by the launching of the Teleșcoala (Tele-school), an  educational  TV  programme  implemented  by  the  Ministry  of  Education  and Research in partnership with the Romanian Public Television (TVR), offering lessons for  8th  and  12th  grade  pupils,  in  order  to  ensure  continuity  in  preparation  for  the national  exams.  The  lessons  were  broadcasted  from  Monday  to  Friday  on  two
 
@@ -468,17 +468,17 @@ channels - TVR 2 and TVR 3 - and they can also be watched on the Romanian Public
 
 - In  order  to  further  support  the  pupils  taking  national  examinations  this  year,  the Ministry  of  Education  and  Research  in  collaboration  with  the  National  Centre  for Evaluation  and  Examination,  the  national  body  responsible  for  the  elaboration  of national  exam  tests,  made  available  preparation  tests  (including  in  Hungarian, German and Ukrainian). The solutions to these preparation tests were provided and explained during the lessons delivered within the Teleșcoala TV programme.
 
-- Shortly after the closure of schools, the Ministry of Education and Research provided teachers with information and support regarding free licence educational applications (e.g.  the  suite  of  educational  applications  offered  by  Google  and  Microsoft)  and platforms that could be used for the distance learning activities with pupils. In parallel, teachers  were  provided  with  online  training opportunities for building digital competences through live streamed training sessions delivered by e-learning experts within the national project Relevant curriculum, open education for all (CRED). In addition, teachers also benefited from the continued support of the education experts from the Teacher Training Houses (national resource centres for the training and professional  development  of  the  teaching  staff)  located  in  each  county  and  the Municipality of Bucharest, who also provided recommendations on the different elearning tools available.
+- Shortly after the closure of schools, the Ministry of Education and Research provided teachers with information and support regarding free licence educational applications (e.g. the suite of educational applications offered by Google and Microsoft) and platforms that could be used for the distance learning activities with pupils. In parallel, teachers were provided with online training opportunities for building digital competences through live streamed training sessions delivered by e-learning experts within the national project Relevant curriculum, open education for all (CRED). In addition, teachers also benefited from the continued support of the education experts from the Teacher Training Houses (national resource centres for the training and professional development of the teaching staff) located in each county and the Municipality of Bucharest, who also provided recommendations on the different e-learning tools available.
 
-The Ministry of Education and Research maintained permanent contact with the preuniversity educational institutions through the county school inspectorates, who had the obligation to monitor the pupils and teachers throughout the school closure and to report daily to the Ministry.
+The Ministry of Education and Research maintained permanent contact with the pre-university educational institutions through the county school inspectorates, who had the obligation to monitor the pupils and teachers throughout the school closure and to report daily to the Ministry.
 
 - In  addition,  there  were  several  other  initiatives  from  organisations  and  private partners  aimed  at  supporting  the  provision  of  distance  learning,  providing  video lessons on different subjects or topics of interest for pupils, webinars for teachers on the  use  of  digital  tools,  learning  content,  and  other  opportunities  for  personal development.
 
-- A line for psychological support on COVID-19, called 'Ambassador for Community' was also launched, within a partnership between the Ministry and a Romanian nongovernmental organization. The initiative  aimed  at  providing  teachers,  pupils  and parents with free of charge online or on the phone personalized counselling in order to better manage the crisis situation. To this end, two telephone lines, as well an email address were made available.
+- A line for psychological support on COVID-19, called 'Ambassador for Community' was also launched, within a partnership between the Ministry and a Romanian non-governmental organization. The initiative aimed at providing teachers, pupils and parents with free of charge online or on the phone personalized counselling in order to better manage the crisis situation. To this end, two telephone lines, as well an email address were made available.
 
 Within this project a video material was posted each week on the Ministry's online platforms, in which psychologists talked about the solutions that teachers, pupils and teachers could adopt in order to overcome the crisis.
 
-- In order to cater for the needs of technologically disadvantaged pupils and teachers, the Ministry with the support of private partners launched the initiative 'Reaction to Education'(https://narada.ro/reactie-pentru-educatie/rezultate/). The initiative enabled the identification  of  teachers  and  pupils  in  need  of  the  required  material resources for distance learning (such as laptops and internet connection), followed by the provision of such resources.
+- In order to cater for the needs of technologically disadvantaged pupils and teachers, the Ministry with the support of private partners launched the initiative “Reaction to Education”- (https://narada.ro/reactie-pentru-educatie/rezultate/). The initiative enabled the identification of teachers and pupils in need of the required material resources for distance learning (such as laptops and internet connection), followed by the provision of such resources.
 
 The academic environment also joined forces with the Ministry in this respect. The Foundation  of  the  University  of  Agronomic  Sciences  and  Veterinary  Medicine  of Bucharest (USAMV Foundation), runs a project through which high school pupils from disadvantaged communities will receive tablets, with a 24 months free Internet connection.
 
@@ -492,7 +492,7 @@ In addition, the 'Euro200' National Program, implemented since 2004, contributed
 
 Please  note  that  child  marriage  is  a  discriminatory  practice  as  often  girls  can  marry  at  a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
-ý Yes No o
+ý Yes o No
 
 Please provide reference to the relevant laws and provisions:
 
@@ -504,7 +504,7 @@ At para. 2, the same article provides that, for sound reasons, minors aged 16 ma
 
 #### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -536,7 +536,7 @@ The Law of National Education no. 1/2011 as subsequently amended and supplemente
 
 The  strategic  documents  that  coordinate  the  Romanian  education  system,  such  as:  the National  Strategy  for  the  Reduction  of  Early  School  Leaving ;  the National Strategy for lifelong learning 2015 - 2020 ; the National Strategy on the Protection and Promotion of the Rights of the Child , include directions for action and improvement measures for the early childhood education. These refer to ensuring access to quality early childhood education for all children, with a focus on expanding the preschool education and substantially increasing the number of children accessing early childhood education and care, and providing qualified human  resources  (childcare  educators)  in  all  geographical  areas,  especially  in  rural  / disadvantaged areas (through additional teacher training, monthly stipend, etc.); the training of pre-school teachers for the implementation of the specific curriculum and innovative and inclusive teaching-learning methodologies.
 
-In  2020,  a  previously  developed  draft  Strategy  on  early  childhood  education  is  currently being updated in view of approval by decision makers. The draft Strategy sets a number of priorities: improving access to early childhood education, with a focus on support measures for disadvantaged groups; improving the quality of educational services for children aged 06 years old; developing alternative and community options to improve the efficiency of early childhood education services; coordination between education and other sectors in order to develop a convergent early childhood development program.
+In 2020, a previously developed draft Strategy on early childhood education is currently being updated in view of approval by decision makers. The draft Strategy sets a number of priorities: improving access to early childhood education, with a focus on support measures for disadvantaged groups; improving the quality of educational services for children aged 0-6 years old; developing alternative and community options to improve the efficiency of early childhood education services; coordination between education and other sectors in order to develop a convergent early childhood development program.
 
 ##### Curriculum, learning resources and facilities
 
@@ -583,7 +583,6 @@ Please indicate the current duration period of compulsory education and the age 
 In  this  part,  you  may  also  provide  information  on  the  difficulties  experienced  by  your government  in  the  realization  of  universal  access  to  primary  education.  Quantitative information could be added.
 
 In Romania, compulsory education has a duration of 11 years and includes primary, lower secondary (gymnasium) and the first two years of upper secondary education (the Law of National Education no. 1/2011, art. 16, paragraph 1). According to the legislation, compulsory education is full-time education (art. 25, paragraph 2) and only in exceptional situations the education process may be organized part-time. According to the provisions of the Law of National Education no. 1/2011 as subsequently amended and supplemented, primary education in Romania is compulsory and lasts 5 years,
----
 It comprises the preparatory class and grades I-IV, and it is organized for students aged between 6 and 10 years old.
 Children who have turned 6 by the beginning of the school year are enrolled in the preparatory class. At the written request of parents or legal guardians, children who will reach the age of 6 by the end of the calendar year may be enrolled in the preparatory class, if their psychosomatic development is appropriate, as well as children with special educational needs, aged between 6 and 8 years old at the beginning of the school year.
 Regarding the number of students, a primary level classroom is coordinated by one teacher (teacher for primary education) and comprises an average of 20 students (between min. 12 and max. 25 pupils). The Ministry of Education may approve the organization and functioning of classes with a number of pupils below the minimum threshold or above the maximum one established by law in order to respond to specific local conditions (isolated locations, classes taught in the language of national minorities, etc.). In general, the classes are homogeneous in terms of pupils' age.
@@ -596,7 +595,7 @@ For this,  please  list  the  laws  and  policies  that  ensure  the  universal 
 
 According to the Romanian Constitution (art. 32, paragraph 4) and to the Law of National Education no. 1/2011 as subsequently amended and supplemented, the state primary and secondary education is free and accessible to all (art. 9, paragraph 3). The state provides core  funding  for  the  ante-preschoolers,  preschoolers  and  pupils  enrolled  in  the  state education system, as well for those in private and denominational preschool education and in  private  and  denominational  general  compulsory  education,  studying  in  accredited educational establishments, according to the legislation in force. Also, the state ensures the core funding of the accredited private and denominational professional* and high school education. The funding provided is ensured within the limits of the standard cost per pupil, preschooler or ante pre-schooler, respectively (art. 9, paragraph 2).
 
-The Ministry of Education and Research, through its specialized body, establishes annually the standard cost per pupil, a cost that is the basis of the core funding. The core funding of preuniversity education is done according to the principle 'the financial resource follows the pupil',  based  on  which  the  budgetary  allocation  due  to  a  pupil  is  transferred  to  the educational unit where he / she studies.
+The Ministry of Education and Research, through its specialized body, establishes annually the standard cost per pupil, a cost that is the basis of the core funding. The core funding of pre-university education is done according to the principle 'the financial resource follows the pupil', based on which the budgetary allocation due to a pupil is transferred to the educational unit where he / she studies.
 
 *The professional education is part of the initial TVET in Romania.
 
@@ -654,7 +653,7 @@ The upper secondary education has the following structure:
 
 - The high school education, includes grades IX-XII / XIII, with theoretical, aptitude-based and technological routes (fields of specialization). The typical age range of schooling is between 15-18 years old. The average number of pupils per classroom is of 25 pupils (between min. 15 and max. 30 students).
 
-- In addition, the vocational and dual vocational education, respectively, comprise years IIII / IV. The typical age range of schooling is between 15-17 years old.
+- In addition, the vocational and dual vocational education, respectively, comprise years I-III / IV. The typical age range of schooling is between 15-17 years old.
 
 The technological high school education and the vocational education (including the dual system) are part of the technical and vocational education system .
 
@@ -680,11 +679,11 @@ The technological high school education (ISCED-P 354) represents a field of stud
 
 [[START OF PAGE 23]]
 
-When completing compulsory education (at the end of 10 th grade), learners may opt for and enrol in a short VET programme (ISCED-P 352) offering a professional qualification only (EQF 3 through 720 hours of practical training).
+When completing compulsory education (at the end of 10th grade), learners may opt for and enrol in a short VET programme (ISCED-P 352) offering a professional qualification only (EQF 3 through 720 hours of practical training).
 
-The pupils enrolled in professional and technical education with a duration of minimum 3 years are entitled to free board and accommodation in the corresponding school facilities. The same provisions apply to the pupils enrolled in dual education attending a school situated outside the locality of residence. (Law no 1/2011, art. 12, paragraph s8^1 and 9.)
+The pupils enrolled in professional and technical education with a duration of minimum 3 years are entitled to free board and accommodation in the corresponding school facilities. The same provisions apply to the pupils enrolled in dual education attending a school situated outside the locality of residence. (Law no 1/2011, art. 12, paragraphs 8^1 and 9.)
 
-The state supports the vocational education and the technological high school education by conferring recognition of vocational or technological high school studies for nonuniversity tertiary education, the partial funding of the tuition fees within the state postsecondary schools and by providing special scholarships or other form of material support.
+The state supports the vocational education and the technological high school education by conferring recognition of vocational or technological high school studies for non-university tertiary education, the partial funding of the tuition fees within the state post-secondary schools and by providing special scholarships or other form of material support.
 
 The pupils who graduated the technical and vocational education, without completing the high school education, may be included in preparation programmes in view of graduating upper secondary education.
 
@@ -694,7 +693,7 @@ The post-secondary education (non-university tertiary education) (ISCED_p 453), 
 
 Please  note  that  minimum  age  labour  laws  and  those  related  to  compulsory  education interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-Yes o No ý
+o Yes ý No
 
 - Please provide reference to the relevant laws and provisions:
 
@@ -842,7 +841,7 @@ The  main  vulnerable  groups  identified  are  especially  those  at  risk  of 
 
 Regarding the  increase  of  access  to  education ,  the  main  proposed  action  lines  (with reference only to the educational ones) aim at: extending / developing the "School after School" programs at the level of communities where the share of Roma pupils is significant; continuing "Second Chance programs" or functional literacy programs for children, young people  and  adults  (especially  those  who  have  left  school  early);  providing  facilities  and distinct places in high schools/universities for young Roma who wish to attend pre-university (high school, vocational or post-secondary school) and / or university education (including master's and / or doctoral level); facilitating the access of Roma children to dual vocational education; development of counselling and guidance activities, as well as tutoring; designing and  implementing  programs  and  activities  for  parental  education  and  encouraging  the participation  of  Roma  parents  in  their  children's  learning;  carrying  out  extracurricular activities  with  Roma  and  non-Roma  pupils  and  children  in  order  to  learn  /  stimulate interethnic cooperation; providing counselling services to Roma pupils at risk of dropping out of school and to their families.
 
-To  stimulate  employment,  the  main  action  lines  aim  at:  offering  free  information  and professional counselling services to jobseekers; offering free mediation services on vacant or  newly  created  jobs;  providing  free  consultancy  and  assistance  services  for  selfemployment start-ups; organizing professional training courses for job seekers; providing free assessment and certification services for skills acquired non-formally and informally; inclusion in apprenticeship programs at work.
+To stimulate employment, the main action lines aim at: offering free information and professional counselling services to jobseekers; offering free mediation services on vacant or newly created jobs; providing free consultancy and assistance services for self-employment start-ups; organizing professional training courses for job seekers; providing free assessment and certification services for skills acquired non-formally and informally; inclusion in apprenticeship programs at work.
 
 [[END OF PAGE 27]]
 
@@ -854,7 +853,7 @@ Created in the 2000s, the Program has been continued annually and improved in or
 
 In order to support the implementation of the Second chance Program and its adaptation to recent changes in the Romanian education system, a series of national funding programs have been launched aimed at supporting the anti-poverty measures package, within the Human Capital Operational Program (POCU) 2014- 2020.
 
-Another example is the CRED Project Relevant Curriculum, open education for all , 20182021 (mentioned above), co-financed by POCU 2014-2020, which aims to prevent early school  leaving.  One  of  the  project's  main  activities  targets  explicitly  the Second chance Program, by: updating the operating methodologies, developing a new school curriculum (study plans and subject curricula) for the Second chance Program , developing appropriate educational resources and training teachers in specific areas.
+Another example is the CRED Project - Relevant Curriculum, open education for all, 2018-2021 (mentioned above), co-financed by POCU 2014-2020, which aims to prevent early school leaving. One of the project's main activities targets explicitly the Second chance Program, by: updating the operating methodologies, developing a new school curriculum (study plans and subject curricula) for the Second chance Program, developing appropriate educational resources and training teachers in specific areas.
 
 #### 2.5 Quality education provision and learning environment
 
@@ -900,7 +899,7 @@ In the period 2017-2020, the following laws were adopted:
 
 -Law no. 221/2019 amending and supplementing the Law of National Education no 1/2011 prohibits behaviours consisting in physical violence - bullying in educational and training premises  (art.  7,  paragraph  1).The  law  provides  for  the  introduction  of  specific  teacher training modules (art. 56) and defines the notion of  psychological violence - bullying.
 
-The  methodological  norms  for  the  application  of  the  Law  no 221/2019 regarding  the provisions  on  psychological  violence-bullying  were  approved  recently,  by  order  of  the ministry of education and research no. 4.343/2020. The aim is to facilitate the creation of a safe and positive climate in the educational units, based on respect for the person, nondiscrimination, motivation for learning and ensuring the well-being of the ante- preschoolers / preschoolers / pupils. The methodological norms provide a practical tool for professionals working with ante- preschoolers / preschoolers / pupils in the education system, children's families, authorities responsible for protecting children against violence, including bullying and service providers specialized in the rehabilitation of child-victims, witnesses and / or children with aggressive behavior. Promoting activities to prevent and combat all forms of bullying and cyberbullying in the pre-university education system is another objective, along with  the  identification,  reporting  and  intervention,  by  a  multidisciplinary  team,  in  case  of bullying and cyberbullying incidents.
+The methodological norms for the application of the Law no 221/2019 regarding the provisions on psychological violence-bullying were approved recently, by order of the ministry of education and research no. 4.343/2020. The aim is to facilitate the creation of a safe and positive climate in the educational units, based on respect for the person, non-discrimination, motivation for learning and ensuring the well-being of the ante- preschoolers / preschoolers / pupils. The methodological norms provide a practical tool for professionals working with ante- preschoolers / preschoolers / pupils in the education system, children's families, authorities responsible for protecting children against violence, including bullying and service providers specialized in the rehabilitation of child-victims, witnesses and / or children with aggressive behavior. Promoting activities to prevent and combat all forms of bullying and cyberbullying in the pre-university education system is another objective, along with the identification, reporting and intervention, by a multidisciplinary team, in case of bullying and cyberbullying incidents.
 
 -Law  no.  260/2019  amending  and  supplementing  the  Law  of  National  Education  no 1/2011 1establishes the disciplinary liabilities of the teaching, auxiliary and management staff regarding the violation of the conduct norms that prejudice the interest of education and the institution's prestige (art. 280).
 
@@ -956,11 +955,11 @@ Article/Paragraph  4(d)  of  the  Convention/Recommendation  provides  for  the 
 
 [[START OF PAGE 31]]
 
-- Please briefly elaborate further on the measures taken:
-
 - ý Measures taken to increase women in leadership positions in education
 
 - o Other:
+
+- Please briefly elaborate further on the measures taken:
 
 ##### Teachers' average salaries
 
@@ -992,9 +991,9 @@ Concerning continuous training , in Romania, teachers have the obligation to acc
 
 Continuous  training  programs  are  either  determined  by  specific  measures  aiming  at reforming the education system (in which case courses are usually provided free of charge), or at the choice of teachers, in order to better meet the needs of their pupils (in which case the courses are usually paid for by teachers).
 
-Data from recent reports show that teachers in Romania accumulate a number of training hours  above  the  European  average,  and  most  of  trainings  are  paid  by  them.  Also,  the constant participation in professional training courses is a widespread practice among preuniversity teachers in Romania.
+Data from recent reports show that teachers in Romania accumulate a number of training hours above the European average, and most of trainings are paid by them. Also, the constant participation in professional training courses is a widespread practice among pre-university teachers in Romania.
 
-The most recent and important initiative at national level regarding in-service teacher training is the Project Relevant curriculum, open education for all - CRED, carried out between 20172021. One of its major activities currently underway aims to ensure the training of 55,000 teachers in primary and secondary education, in order to successfully implement the new national curriculum, focused on key competencies. Thus, within the project, teachers benefit from free continuous training courses, focused on innovative ways of using the new school curricula in the classroom and on adapting learning activities to the specific needs of pupils, including those at risk of dropping out of school.
+The most recent and important initiative at national level regarding in-service teacher training is the Project Relevant curriculum, open education for all - CRED, carried out between 2017-2021. One of its major activities currently underway aims to ensure the training of 55,000 teachers in primary and secondary education, in order to successfully implement the new national curriculum, focused on key competencies. Thus, within the project, teachers benefit from free continuous training courses, focused on innovative ways of using the new school curricula in the classroom and on adapting learning activities to the specific needs of pupils, including those at risk of dropping out of school.
 
 Besides  the  continuous  training  courses,  teachers  have  at  hand  various  other  ways  for professional development (pedagogical meetings, methodological commissions, transnational mobilities, etc.).
 
@@ -1118,7 +1117,7 @@ Please see the previous Report, section 9. Rights of national minorities, pg. 29
 
 Other relevant normative documents on the rights of national minorities are:
 
--the Law no 33/1995 on the ratification of the Framework Convention for the Protection of National  Minorities,  concluded  in  Strasbourg  on  1 st February  1995 , specifies the commitments made by Romania to promote equal opportunities for access to education at all levels, for persons belonging to national minorities, as well as to ensure appropriate conditions for teacher training, recognizing the right of persons belonging to a national minority to set up and manage their own private education and training institutions;
+- the Law no 33/1995 on the ratification of the Framework Convention for the Protection of National Minorities, concluded in Strasbourg on 1st February 1995, specifies the commitments made by Romania to promote equal opportunities for access to education at all levels, for persons belonging to national minorities, as well as to ensure appropriate conditions for teacher training, recognizing the right of persons belonging to a national minority to set up and manage their own private education and training institutions;
 
 -Ordinance no 137/2000 on the prevention and sanctioning of all forms of discrimination (mentioned herein above) defines discrimination and the acts that constitute discrimination, providing  also  the  sanctioning  of  these  acts,  including  those  that  prevent  access  to education on grounds of nationality or ethnicity.
 
@@ -1138,13 +1137,13 @@ In the pre-university educational system the school subjects specific to the tea
 
 The above-mentioned school subjects regarding music were recently introduced, within the context  of  the  curricular  reform  started  in  2012.  The  corresponding  subject  curriculum includes specific repertoires of songs.
 
-In the same curricular context, the school subject History consolidates the representation of minorities, by means of topics such as: Communities of minorities on the territory of presentday Romania ; Yesterday's and today's childhood in the local community ; Historians and chroniclers on minority personalities ; Historic places in the community: monasteries, streets and historic houses in the community, monuments of the heroes, monuments representative for the ethnic communities in Romania .
+In the same curricular context, the school subject History consolidates the representation of minorities, by means of topics such as: Communities of minorities on the territory of present-day Romania; Yesterday's and today's childhood in the local community; Historians and chroniclers on minority personalities; Historic places in the community: monasteries, streets and historic houses in the community, monuments of the heroes, monuments representative for the ethnic communities in Romania.
 
 In  accordance  with  the  provisions  of  the  Law  on  National  Education,  in  primary  and secondary education provided in the languages of national minorities, the subjects History and Geography of  Romania are  taught in the mother tongue of minorities, using subject curricula and textbooks identical to those used in the classes taught in Romanian, with the obligation  to  transcribe  and  acquire  the  Romanian  toponymy  and  proper  names  in  the Romanian language (art. 46. para. 8).
 
 Along with the necessary legislative support for designing a curriculum with specific features, which would contribute to preserving the identity of minorities, the school subjects included in the curricular areas Man and society (such as History , Civic Education, Geography ) and Arts , in particular, include now more content elements which enable a better knowledge of the cultural specificity of minorities in Romania on behalf of the majority pupils. For example, the school subject History includes topics related to the past of minorities within the entire Romanian history subject curricula (grades IV, VIII and XII). In addition, the aspects related to  minorities  are  emphasized  within  the  topics  on  the  economic,  cultural  and  political relations  with  the  countries  of  origin.  Some  examples  include  topics  such  as: Local autonomies  and  central  institutions  in  the  Romanian  area (IX-XVIII  centuries); Ethnic, confessional  diversity  and  political  solutions  in  modern  Romania ; National  minorities  in twentieth century Romania ; Romania and religious tolerance in the 20th century.
 
-The curriculum at school's decision, mentioned in section 7.Respect for human rights and fundamental freedoms , includes since 2008 the optional course (school subject) the History of minorities in Romania ,  for  pupils in 10 th grade. The subject curriculum was elaborated based on the principle of coexistence and of constant interaction between minorities and the majority.  These  features  have  deeply  marked  the  Romanian  identity,  influencing  many aspects of the social and cultural life, form the first urban structures to the artistic avantgarde of the 20th century; other underlying principles are multiperspectivity and multiculturalism.
+The curriculum at school's decision, mentioned in section 7.Respect for human rights and fundamental freedoms, includes since 2008 the optional course (school subject) the History of minorities in Romania, for pupils in 10th grade. The subject curriculum was elaborated based on the principle of coexistence and of constant interaction between minorities and the majority. These features have deeply marked the Romanian identity, influencing many aspects of the social and cultural life, form the first urban structures to the artistic avant-garde of the 20th century; other underlying principles are multiperspectivity and multiculturalism.
 
 ##### Teachers are trained to adapt to national minority needs
 
@@ -1172,7 +1171,7 @@ The Emergency Ordinance 75/2005 on the quality assurance of education regulates 
 
 Its provisions apply to all education providers that is educational institutions, operating in Romania, as well as to Romanian education organizations legally operating in the territory of other states, according to the relevant regulations in force.
 
-The  ordinance  includes  provisions  regarding  the  methodology  on  education  quality assurance, internal and external education quality assurance, the attributions of the two Romanian quality assurance agencies (the Romanian Agency for Quality Assurance in PreUniversity Education/ARACIP and the Romanian Agency for Quality Assurance in Higher Education/ ARACIS)  and  the  accreditation  of education  providers (i.e. educational institutions) and study programs.
+The ordinance includes provisions regarding the methodology on education quality assurance, internal and external education quality assurance, the attributions of the two Romanian quality assurance agencies (the Romanian Agency for Quality Assurance in Pre-University Education/ARACIP and the Romanian Agency for Quality Assurance in Higher Education/ ARACIS) and the accreditation of education providers (i.e. educational institutions) and study programs.
 
 By Government Decision no. 1534/2008, the reference standards and the performance indicators for the evaluation and quality assurance in pre-university education were approved. These are national standards, which apply to state and private pre-university education.
 
@@ -1194,7 +1193,7 @@ The Law of National Education no. 1/2011 (art. 135) contains provisions on the o
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
 
@@ -1216,7 +1215,7 @@ Within the National Strategy on Immigration for the period 2015-2018, the Action
 
 [[START OF PAGE 39]]
 
-Within this goal, education and training are among the most powerful tools for integration and thus, the access to education and training should be ensured as soon as possible. To this end, a reformed language learning and assessment system for newly arrived migrants is a prerequisite and should be based on promoting inclusive education, improving thirdcountry nationals' skills,  and  removing  barriers  to  the  participation  of  migrant  children  in education. As part of the skill assessment and recognition of qualifications process, it is also envisaged to include third-country nationals in training programs and support activities.
+Within this goal, education and training are among the most powerful tools for integration and thus, the access to education and training should be ensured as soon as possible. To this end, a reformed language learning and assessment system for newly arrived migrants is a prerequisite and should be based on promoting inclusive education, improving third-country nationals' skills, and removing barriers to the participation of migrant children in education. As part of the skill assessment and recognition of qualifications process, it is also envisaged to include third-country nationals in training programs and support activities.
 
 The strategy on vocational education and training in Romania for the period 2016-2020 took into account, when considering the elements that underpin the Strategy, the possibility that a significant emigration flow might entry in Romania, including illiterate persons and persons lacking qualifications. Therefore, the legislative changes pursued have targeted mainly the development of literacy programs for Romanian and foreign citizens which can be delivered both  in  the  classroom  and  online,  as  well  as  measures  fostering  the  participation  of Romanian and foreign citizens in qualification courses, regardless of their level of education. The  strategy  also  includes  measures  aiming  to  make  the  procedure  of  competence recognition more flexible.
 
@@ -1312,7 +1311,7 @@ European Erasmus + projects aim to modernize and internationalize education, tra
 
 European eTwinning projects - provide teachers with an online environment where they can develop and carry out educational projects, in collaboration with colleagues from 37 other European countries (e.g. the project, "Integrating migrant students in schools", 2017, https: // www .etwinning.net / en / pub / highlights / new-group-on-the-community-in.htm).
 
-In Romania, many of the activities targeting refugees and migrants are organized by NGOs which are partners with the General Inspectorate for Immigration. For example, Save the Children Romania Organization has been carrying out social, educational, and recreational activities in reception and accommodation centres for asylum seekers in Romania since 1998. Other such organizations providing educational activities for minors and adults are: Romanian National Council for Refugees, Romanian Forum for Refugees and Migrants, Jesuit Refugee Service - Romania, World Vision Foundation Romania, ICAR Foundation, Ecumenical  Association  of  Romanian  Churches,  Terre  des  hommes  Foundation  Switzerland, Intercultural Institute of Timișoara.
+In Romania, many of the activities targeting refugees and migrants are organized by NGOs which are partners with the General Inspectorate for Immigration. For example, Save the Children Romania Organization has been carrying out social, educational, and recreational activities in reception and accommodation centres for asylum seekers in Romania since 1998. Other such organizations providing educational activities for minors and adults are: Romanian National Council for Refugees, Romanian Forum for Refugees and Migrants, Jesuit Refugee Service - Romania, World Vision Foundation Romania, ICAR Foundation, Ecumenical Association of Romanian Churches, Terre des hommes Foundation - Switzerland, Intercultural Institute of Timișoara.
 
 ##### Financial support
 
@@ -1374,9 +1373,9 @@ Within the EAA and Norwegian grants 2014-2021, the program in the field of home 
 
 [[START OF PAGE 44]]
 
-#### 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
-
 o Other:
+
+#### 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
 Some of the steps taken to eliminate the obstacles encountered include:
 
@@ -1388,7 +1387,7 @@ Some of the steps taken to eliminate the obstacles encountered include:
 
 - building and improving the ECEC infrastructure needed to foster the access to and attendance by all children of preschool education. To this end, the Ministry of Education and Research implements the Project on the Reform of the Early Childhood Education in Romania, financed by the Romanian Government and the Development Bank of the Council of Europe. One component of this Project aims at the construction and furnishing of 384 kindergartens in the time frame 2009-2021. A number of 204 kindergartens have already been accomplished, while 89 are under construction. The procedures for the construction of 91 additional kindergartens are in progress.
 
-- developing intervention programs in schools in the communities facing high dropout rates and school absenteeism (for example: "Let's go to school!' campaign, the project "Social inclusion  through  integrated  services  at  community  level"  carried  out  with  UNICEF's support);
+- developing intervention programs in schools in the communities facing high dropout rates and school absenteeism (for example: "Let's go to school!” campaign, the project "Social inclusion through integrated services at community level" carried out with UNICEF's support);
 
 - implementing the large-scale project Relevant Curriculum, Open education for all (CRED), whose general aim is to prevent the early school leaving of pupils and whose main actions address several important obstacles. As already mentioned hereinabove, within this project a significant number of primary and secondary teachers (55,000 in total) will receive training to prepare them to successfully implement the new curricula and to prepare them on how to deliver learner-cantered learning. Another component of the Project aims at increasing the quality  and  relevance  of  teaching  and  learning  activities  in  schools  with  vulnerable population.
 
