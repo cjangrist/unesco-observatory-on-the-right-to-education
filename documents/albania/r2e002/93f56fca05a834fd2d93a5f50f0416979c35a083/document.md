@@ -206,6 +206,18 @@ mother  tongue,  and  to  unite  in  organizations  and  associations  for  the 
 
 The life of the person is protected by law.
 
+#### Article 22
+
+- Freedom of expression is guaranteed.
+
+- Freedom of the press, radio and television is guaranteed.
+
+- Prior censorship of means of communication is prohibited.
+
+- The law may require authorization to be granted for the operation of radio or television stations.
+
+#### Article 23
+
 - The right to information is guaranteed.
 
 - Everyone has the right, in compliance with law, to obtain information about the activity of state organs, and of persons who exercise state functions.
@@ -238,31 +250,19 @@ No one may be required to perform forced labor, except in cases of the execution
 
 - for failure to comply with the lawful orders of the court or with an obligation set by law;
 
-- when  there  is  a  reasonable  suspicion  that  he  has  committed  a  criminal  offense  or  to  prevent  the commission by him of a criminal offense or his escape after its commission;
+- when there is a reasonable suspicion that he has committed a criminal offense or to prevent the commission by him of a criminal offense or his escape after its commission;
 
-- ç.    for the supervision of a minor for purposes of education or for escorting him to a competent organ;
+- ç. for the supervision of a minor for purposes of education or for escorting him to a competent organ;
 
 - when a person is the carrier of a contagious disease, mentally incompetent and dangerous to society;
 
-- dh.  for illegal entry at state borders or in cases of deportation or extradition.
+- dh. for illegal entry at state borders or in cases of deportation or extradition.
 
 - No one may be deprived of liberty just because he is not in a state to fulfill a contractual obligation.
 
 #### Article 28
 
-- Everyone whose liberty has been taken away has the right to be notified immediately, in a language that he understands, of the reasons for this measure, as well as the accusation made against him.  The person whose liberty has been taken away shall be informed that he has no obligation to make a declaration and has the
-
-#### Article 22
-
-- Freedom of expression is guaranteed.
-
-- Freedom of the press, radio and television is guaranteed.
-
-- Prior censorship of means of communication is prohibited.
-
-- The law may require authorization to be granted for the operation of radio or television stations.
-
-#### Article 23
+- Everyone whose liberty has been taken away has the right to be notified immediately, in a language that he understands, of the reasons for this measure, as well as the accusation made against him. The person whose liberty has been taken away shall be informed that he has no obligation to make a declaration and has the
 
 4
 
@@ -686,7 +686,7 @@ Text approved by referendum on 22 November 1998 and promulgated on 28 November 1
 
 - Deputies may not carry out any profit-making activity that stems from the property of the state or of local government, and may not acquire the property of either of the latter.
 
-- For every violation of paragraph 3 of this article, on the motion of the Speaker of the Assembly or of onetenth of its members, the Assembly decides on sending the case to the Constitutional Court, which decides on the incompatibility.
+- For every violation of paragraph 3 of this article, on the motion of the Speaker of the Assembly or of one-tenth of its members, the Assembly decides on sending the case to the Constitutional Court, which decides on the incompatibility.
 
 #### Article 71
 
@@ -862,7 +862,7 @@ Text approved by referendum on 22 November 1998 and promulgated on 28 November 1
 
 - A candidate for President is proposed to the Assembly by a group of no fewer than 20 deputies.  A deputy is not permitted to propose more than one candidate at the same time.
 
-- The  President  of  the  Republic  if  elected  by  secret  voting  and  without  debate  by  the  Assembly.    The Assembly holds up to five votes for the election of the President. The first vote is held no later than seven days from the beginning of the procedure for the election of the President.    Each  of  the  other  votes  is  held  no  later  than  seven  days  from  the  unsuccessful  end  of  the previous vote.  The voting is considered performed even when no candidate is presented in the competition. New candidates may be presented in the second, third and fourth voting, according to the conditions of
+- The President of the Republic is elected by secret voting and without debate by the Assembly. The Assembly holds up to five votes for the election of the President. The first vote is held no later than seven days from the beginning of the procedure for the election of the President. Each of the other votes is held no later than seven days from the unsuccessful end of the previous vote. The voting is considered performed even when no candidate is presented in the competition. New candidates may be presented in the second, third and fourth voting, according to the conditions of
 
 point 1 of this article.
 
@@ -894,7 +894,7 @@ Text approved by referendum on 22 November 1998 and promulgated on 28 November 1
 
 - 2/1.  The  procedure  for  the  election  of  the  President  begins  no  later  than  60  days  before  the  end  of  the  prior presidential mandate.  When the presidential mandate ends in the six months that precede the end of the mandate of the existing Assembly, the procedure for the election of the President begins no later than 60 days before the end of the mandate of the Assembly.
 
-- The President begins his duties after he takes the oath before the Assembly, but not before the mandate of the President who is leaving has been completed.  The President takes this oath: 'I swear that I will obey the Constitution and laws of the country, I will respect the rights and freedoms of citizens,  I  will  protect  the  independence  of  the  Republic,  and  I  will  serve  the  general  interest  and  the progress of the Albanian People.'  The President may add: 'So help me God!'
+- The President begins his duties after he takes the oath before the Assembly, but not before the mandate of the President who is leaving has been completed. The President takes this oath: “I swear that I will obey the Constitution and laws of the country, I will respect the rights and freedoms of citizens, I will protect the independence of the Republic, and I will serve the general interest and the progress of the Albanian People.” The President may add: “So help me God!”
 
 - A President who resigns before the end of his mandate may not be a candidate in the presidential election that takes place after his resignation.
 
@@ -1044,7 +1044,7 @@ In  cases  of  necessity  and  emergency,  the  Council  of  Ministers  may  iss
 
 - Anyone who is eligible to be a deputy may be appointed a minister.
 
-- A minister  may  not  exercise  any  other  state  activity  or  be  a  director  or  member  of  the  organs  of  profitmaking companies.
+- A minister may not exercise any other state activity or be a director or member of the organs of profit-making companies.
 
 - Members of the Council of Ministers enjoy the immunity of a deputy.
 
@@ -1094,7 +1094,7 @@ Text approved by referendum on 22 November 1998 and promulgated on 28 November 1
 
 - The territorial-administrative division of the units of local government is established by law on the basis of mutual economic needs and interests, and of historical tradition.  Their borders may not be changed without first hearing the opinion of their inhabitants.
 
-- Communes and municipalities are basic units of  local government.  They perform all the duties of  selfgovernment, with the exception of those that are given by law to other units of local government.
+- Communes and municipalities are basic units of local government. They perform all the duties of self-government, with the exception of those that are given by law to other units of local government.
 
 - Self-government in the local units is exercised through their representative organs and local referenda.  The principles and procedures for the conduct of local referenda are provided by law in accordance with article 151, paragraph 2.
 
@@ -1198,9 +1198,7 @@ The Council of Ministers appoints a prefect as its representative in every regio
 
 - The laws and the normative acts of the Council of Ministers, ministers and other central state institutions acquire legal effect only after they are published in the Official Journal.
 
-- 2.
-
-- The promulgation and publication of other normative acts is done in the manner provided by law.
+- 2. The promulgation and publication of other normative acts is done in the manner provided by law.
 
 - International agreements that are ratified by law are promulgated and published according to the procedures contemplated  for  laws.    The  promulgation  and  publication  of  other  international  agreements  is  done according to law.
 
@@ -1300,9 +1298,7 @@ Text approved by referendum on 22 November 1998 and promulgated on 28 November 1
 
 - The President of the Constitutional Court is appointed for a 3-year term from the ranks of its members by the President of the Republic with the consent of the Assembly.
 
-- 5.
-
-- A judge of the Constitutional Court continues in office until the appointment of his successor.
+- 5. A judge of the Constitutional Court continues in office until the appointment of his successor.
 
 #### Article 126
 
@@ -1836,7 +1832,7 @@ Text approved by referendum on 22 November 1998 and promulgated on 28 November 1
 
 #### Article 179
 
-- The mandate of constitutional organs existing on the effective date of this Constitution ends pursuant to the terms  contemplated  by  Law  No.  7491,  dated  29.04.1991,  'On  the  Major  Constitutional  Provisions,'  as amended.
+- The mandate of constitutional organs existing on the effective date of this Constitution ends pursuant to the terms  contemplated  by  Law  No.  7491,  dated  29.04.1991,  “On  the  Major  Constitutional  Provisions,”  as amended.
 
 - The members of the Court of Cassation continue their activity as members of the High Court pursuant to their previous mandate.
 
@@ -1868,7 +1864,7 @@ Text approved by referendum on 22 November 1998 and promulgated on 28 November 1
 
 #### Article 182
 
-Law No. 7491, dated 29.04.1991, 'On the Major Constitutional Provisions' and other constitutional laws are repealed on the effective date of this Constitution.
+Law No. 7491, dated 29.04.1991, “On the Major Constitutional Provisions” and other constitutional laws are repealed on the effective date of this Constitution.
 
 #### Article 183
 
