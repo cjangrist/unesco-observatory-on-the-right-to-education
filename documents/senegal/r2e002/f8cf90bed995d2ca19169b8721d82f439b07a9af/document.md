@@ -4,6 +4,15 @@
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE DU SENEGAL
 
+REPUBLIQUE DU SENEGAL
+PRIMATURE
+SECRETARIAT GENERAL DU GOUVERNEMENT
+JOURNAL OFFICIEL
+AVERTISSEMENT
+ABONNEMENT
+FAQ
+AIDE
+
 >> ACCUEIL | J.O. N° 6207 du Samedi 19 Février 2005
 
 IMPRIMER  |   PRECEDENT
@@ -135,39 +144,39 @@ a) - note sur le but éducatif, professionnel et social de l'établissement et s
 
 b) - plan des locaux à usage de classes, ateliers, laboratoires, dortoirs, foyers, services sanitaires, bibliothèques notamment ;
 
-- note indiquant les titres de diplômes préparés ;
+c) - note indiquant les titres de diplômes préparés ;
 
-- programmes et horaires prévus pour chaque section, faisant ressortir la durée de la formation ;
+d) - programmes et horaires prévus pour chaque section, faisant ressortir la durée de la formation ;
 
--  conditions  de  recrutement  des  élèves  ou  des  auditeurs  accompagnées  de  l'effectif  prévu  par discipline, section, classe et régime (internat, demi-pension, externat) ;
+e) - conditions de recrutement des élèves ou des auditeurs accompagnées de l'effectif prévu par discipline, section, classe et régime (internat, demi-pension, externat) ;
 
--  nombre  d'enseignants  prévus  ainsi  que  leur  qualification  souhaitée  pour  chaque  discipline enseignée ;
+f) - nombre d'enseignants prévus ainsi que leur qualification souhaitée pour chaque discipline enseignée ;
 
-- nombre de classes prévues qui ne peut être inférieur à 2 sections pour le préscolaire, 3 classes pour  l'élémentaire,  2  classes  pour  le  moyen,  2  classes  pour  le  secondaire  et  2  classes  pour  le technique et professionnel ;
+g) - nombre de classes prévues qui ne peut être inférieur à 2 sections pour le préscolaire, 3 classes pour l'élémentaire, 2 classes pour le moyen, 2 classes pour le secondaire et 2 classes pour le technique et professionnel ;
 
--  état  précisant  le  nombre  de  personnes  prévues  pour  occuper  les  emplois  de  direction, d'administration et de surveillance ;
+h) - état précisant le nombre de personnes prévues pour occuper les emplois de direction, d'administration et de surveillance ;
 
-- titre de propriété ou de bail ou un contrat de location à durée indéterminée à la date d'ouverture prévue ;
+i) - titre de propriété ou de bail ou un contrat de location à durée indéterminée à la date d'ouverture prévue ;
 
-- la dénomination et l'adresse exacte de l'établissement.
+j) - la dénomination et l'adresse exacte de l'établissement.
 
 #### 2 - Dossier du déclarant responsable :
 
-- déclaration préalable manuscrite adressée au Ministre chargé de l'Education ;
+a) déclaration préalable manuscrite adressée au Ministre chargé de l'Education ;
 
-- extrait d'acte de naissance ;
+b) extrait d'acte de naissance ;
 
-- certificat de nationalité ;
+c) certificat de nationalité ;
 
-- bulletin n° 3 du casier judiciaire datant de moins de trois mois ;
+d) bulletin n° 3 du casier judiciaire datant de moins de trois mois ;
 
-- copie certifiée conforme des diplômes et curriculum vitae. Au cas où le déclarant responsable ne remplirait  pas  les  critères  académiques,  il  lui  est  fait  obligation  de  s'attacher  les  services  d'un directeur technique ayant les diplômes requis.
+e) copie certifiée conforme des diplômes et curriculum vitae. Au cas où le déclarant responsable ne remplirait pas les critères académiques, il lui est fait obligation de s'attacher les services d'un directeur technique ayant les diplômes requis.
 
-- Le cas échéant, copie des statuts, de la déclaration de constitution du groupement, congrégation que  le  déclarant  représente.  Cette  pièce  doit  être  accompagnée  du  procès-verbal  de  l'assemblée générale ou du conseil de direction de l'organisation considérée ;
+f) Le cas échéant, copie des statuts, de la déclaration de constitution du groupement, congrégation que le déclarant représente. Cette pièce doit être accompagnée du procès-verbal de l'assemblée générale ou du conseil de direction de l'organisation considérée ;
 
-- s'il y a lieu, la preuve que le déclarant ou la personne morale qu'il représente a satisfait aux règles concernant l'établissement des étrangers au Sénégal ;
+g) s'il y a lieu, la preuve que le déclarant ou la personne morale qu'il représente a satisfait aux règles concernant l'établissement des étrangers au Sénégal ;
 
-- la  liste  des  autres  établissements  privés  dont  le  déclarant  responsable  ou  l'organisation  qu'il représente,  a  déjà  demandé  l'ouverture  au  Sénégal  soit  qu'ils  aient  été  régulièrement  ouverts,  ou que  leur  demande  d'ouverture  est  en  cours  soit  qu'ils  aient  été  fermés  par  sanction  de  l'autorité publique ;
+h) la liste des autres établissements privés dont le déclarant responsable ou l'organisation qu'il représente, a déjà demandé l'ouverture au Sénégal soit qu'ils aient été régulièrement ouverts, ou que leur demande d'ouverture est en cours soit qu'ils aient été fermés par sanction de l'autorité publique ;
 
 i) des engagements :
 
@@ -179,7 +188,7 @@ i) des engagements :
 
 - de déposer dans les délais impartis les données statistiques de l'établissement.
 
-- attestation d'un compte en banque indiquant que l'intéressé dispose d'une somme égale au moins au  montant  du  salaire  trimestriel  du  personnel  de  l'établissement  ;  les  dossiers  complets  sont déposés  auprès  des  services  régionaux  compétents,  qui  en  assurent  la  transmission  au  Ministère chargé de l 'Education et délivrent les récépissés de dépôt.
+j) attestation d'un compte en banque indiquant que l'intéressé dispose d'une somme égale au moins au montant du salaire trimestriel du personnel de l'établissement ; les dossiers complets sont déposés auprès des services régionaux compétents, qui en assurent la transmission au Ministère chargé de l 'Education et délivrent les récépissés de dépôt.
 
 ### Art. 4.
 L'établissement commence à fonctionner dès le dépôt de ces deux dossiers, sanctionné par un  récépissé  délivré  par  le  Ministre  chargé  de  l'Education,  après  avis  favorable  du  Ministre compétent.
@@ -215,7 +224,7 @@ Le  déclarant  responsable  dispose  d'un  délai  de  trois  mois  à  partir 
 Si la seconde enquête prévue à l'article 7 n'est pas favorable, l'établissement est fermé au plus tard à la fin de l'année scolaire.
 
 ### Art. 9.
--L'autorisation d'ouvrir un établissement d'enseignement privé s'applique au seul établissement considéré. Toute extension ou tout transfert de cet établissement devra faire l'objet d'une autorisation du Ministre chargé de l'Education.
+L'autorisation d'ouvrir un établissement d'enseignement privé s'applique au seul établissement considéré. Toute extension ou tout transfert de cet établissement devra faire l'objet d'une autorisation du Ministre chargé de l'Education.
 
 ### Art. 10.
 Le déclarant responsable est le correspondant direct de l'administration pour la diffusion de tous les actes officiels concernant l'établissement.
@@ -232,7 +241,7 @@ Le  bénéfice  de  la  reconnaissance  demeure  pour  l'établissement  qui  po
 ## Chapitre II. - Des conditions de contrôle
 
 ### Art. 12.
--Les enquêtes réglementaires (pédagogique et technique) des établissements d'enseignement privés pour l'autorisation ou la reconnaissance, effectuée par le ministère de tutelle, porte notamment sur la moralité du déclarant responsable et du personnel, l'hygiène, la salubrité des locaux, l'exécution des obligations en matière d'enseignement, la conformité de l'enseignement ou de la  formation  dispensée  à  la  constitution,  aux  lois  et  règlements  et  aux  programmes  officiels  de référence.
+Les enquêtes réglementaires (pédagogique et technique) des établissements d'enseignement privés pour l'autorisation ou la reconnaissance, effectuée par le ministère de tutelle, porte notamment sur la moralité du déclarant responsable et du personnel, l'hygiène, la salubrité des locaux, l'exécution des obligations en matière d'enseignement, la conformité de l'enseignement ou de la formation dispensée à la constitution, aux lois et règlements et aux programmes officiels de référence.
 
 Pour  chaque  ministère  technique,  un  arrêté  détermine  les  contenus  et  conditions  de  l'enquête réglementaire.
 
@@ -262,7 +271,7 @@ Dans le premier cas, la déclaration assortie des dossiers du déclarant respons
 Dans le second cas, la déclaration donne la dénomination, l'adresse exacte de l'établissement et le nombre de classes prévues.
 
 ### Art. 16.
-Sont abrogées toutes dispositions contraires au présent décret notamment le décret 671329 du 1er décembre 1967 modifié par le décret 73-996 du 7 novembre 1973 et le décret 98-562 du 26 juin 1998 fixant les conditions d'ouverture et de contrôle des établissements d'enseignement privés.
+Sont abrogées toutes dispositions contraires au présent décret notamment le décret 67-1329 du 1er décembre 1967 modifié par le décret 73-996 du 7 novembre 1973 et le décret 98-562 du 26 juin 1998 fixant les conditions d'ouverture et de contrôle des établissements d'enseignement privés.
 
 ### Art. 17.
 Le Ministre d'Etat, Ministre ddes Sports, le Ministre d'Etat, Ministre de l'Economie maritime, le Ministre d'Etat, Ministre de l'Agriculture et de
@@ -272,6 +281,8 @@ l'Hydraulique, le Ministre de l'Education, le Ministre du Tourisme et des Transp
 Fait à Dakar, le 10 janvier 2005. Abdoulaye WADE. Par le Président de la République : Le Premier Ministre,
 
 Macky SALL.
+
+haut
 
 www.jo.gouv.sn/spip.php?article2852
 
