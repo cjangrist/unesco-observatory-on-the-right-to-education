@@ -1,5 +1,9 @@
 [[START OF PAGE 1]]
 
+LAO PEOPLE'S DEMOCRATIC REPUBLIC PEACE INDEPENDENCE DEMOCRACY UNITY PROSPERITY
+
+________________
+
 President's Office
 
 No. 97/P 24 December 1990
@@ -28,19 +32,19 @@ Acting President of the Lao People's Democratic Republic
 
 Phoumy VONGVICHIT
 
-LAO PEOPLE'S DEMOCRATIC REPUBLIC PEACE INDEPENDENCE DEMOCRACY UNITY PROSPERITY
-
-________________
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-People's Supreme Assembly
-
 LAO PEOPLE'S DEMOCRATIC REPUBLIC PEACE INDEPENDENCE DEMOCRACY UNITY PROSPERITY
 
 ________________
+
+People's Supreme Assembly
+
+No. 07/90/SPA
+
+29 November 1990
 
 # FAMILY LAW
 
@@ -64,15 +68,11 @@ The Family Law aims to:
 
 Men and women have equal rights in all aspects pertaining to family relationships.
 
-Family  relationships  arise  independently  from  the  origins,  socioeconomic status, nationality, ethnicity, educational level, occupation, beliefs, place of residence and others. 2
+Family  relationships  arise  independently  from  the  origins,  socio-economic status, nationality, ethnicity, educational level, occupation, beliefs, place of residence and others. 2
 
 > 1 The term 'firm cell' is a literal translation and is used as a metaphor for 'strong component'.
 
 > 2 The phrase 'and others' is a literal translation of the Lao term and is not subject to further specificity.
-
-No.  07/90/SPA
-
-29 November 1990
 
 1
 
@@ -540,7 +540,7 @@ If the husband or wife lives in the Lao People's Democratic Republic, this law m
 
 Overseas  Lao  desiring  to  adopt  a  child  bearing  Lao  citizenship  and residing abroad must process such adoption at the [relevant] Lao embassy or consulate  in  accordance  with  this  law.  If  the  adoptive  parents  are  not  Lao citizens, the adoption must first be authorised by the relevant authorities of the Lao People's Democratic Republic.
 
-Foreign  individuals,  aliens,  or  apatrids  desiring  to  adopt  children bearing Lao citizenship and residing in the Lao People's Democratic Republic [must  implement  the  provisions  of  this  law;]  Lao  citizens  desiring  to  adopt foreign 19 or apatrid children residing in the Lao People's Democratic Republic must [also] implement the provisions of this law.
+Foreign  individuals,  aliens,  or  apatrids  desiring  to  adopt  children bearing Lao citizenship and residing in the Lao People's Democratic Republic [must  implement  the  provisions  of  this  law;]  Lao  citizens  desiring  to  adopt
 
 > 18 This is a reference to the marriage regulations or procedures to be observed by such embassy or consulate in recognising such marriages.
 
@@ -549,6 +549,8 @@ Foreign  individuals,  aliens,  or  apatrids  desiring  to  adopt  children bear
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+foreign 19 or apatrid children residing in the Lao People's Democratic Republic must [also] implement the provisions of this law.
 
 This law was adopted through unanimous vote cast at the fifth ordinary session of the People's Supreme Assembly (II Legislature) on 29 November 1990, at 15:00.
 
