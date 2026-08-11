@@ -20,7 +20,7 @@ Adoption: 10.06.1999.
 
 Entry into force: 14.07.1999.
 
-The translation of this document is outdated. Translation validity: 07.08.2013.-15.07.2015. Amendments not included: 18.06.2015., 22.03.2018., 21.06.2018.
+The translation of this document is outdated. Translation validity: 07.08.2013.–15.07.2015. Amendments not included: 18.06.2015., 22.03.2018., 21.06.2018.
 
 Text consolidated by Valsts valodas centrs (State Language Centre) with amending laws of: 5 August 1999 [shall come into force from 13 August 1999];
 
@@ -66,17 +66,17 @@ The Saeima 1  has adopted and the President has proclaimed the following Law:
 
 ### Section 1. Terms Used in this Law
 
-- Terms used in this Law correspond to those terms used in the Education Law if this Law does not prescribe otherwise.
+(1) Terms used in this Law correspond to those terms used in the Education Law if this Law does not prescribe otherwise.
 
-- The following terms are used in this Law:
+(2) The following terms are used in this Law:
 
-- certificate of basic education - an educational document attesting to the completion of the basic educational programme;
+1) certificate of basic education - an educational document attesting to the completion of the basic educational programme;
 
-- diploma of general secondary education - an educational document attesting to the completion of the general secondary educational programme;
+2) diploma of general secondary education - an educational document attesting to the completion of the general secondary educational programme;
 
-- certificate - a document attesting to the completion of part of the basic education or general secondary educational programme;
+3) certificate - a document attesting to the completion of part of the basic education or general secondary educational programme;
 
-[9 July 2013];
+4) [9 July 2013];
 
 1/18
 
@@ -84,25 +84,25 @@ The Saeima 1  has adopted and the President has proclaimed the following Law:
 
 [[START OF PAGE 2]]
 
-- subject - a system of knowledge, skills and attitudes developed in conformity with a field of science, technology, and art to be acquired within the framework of a particular educational programme, taking into account scientifically justified peculiarities of the age group of a student;
+5) subject - a system of knowledge, skills and attitudes developed in conformity with a field of science, technology, and art to be acquired within the framework of a particular educational programme, taking into account scientifically justified peculiarities of the age group of a student;
 
-- lesson (class) load - the number of lessons of regular attendance per week included in the educational programme;
+6) lesson (class) load - the number of lessons of regular attendance per week included in the educational programme;
 
-- pedagogical adjustment - an educational programme methodologically and organisationally adjusted to persons of mandatory educational age who need to improve upon their knowledge within the framework of the basic educational programme;
+7) pedagogical adjustment - an educational programme methodologically and organisationally adjusted to persons of mandatory educational age who need to improve upon their knowledge within the framework of the basic educational programme;
 
-- social adjustment - an educational programme methodologically and organisationally adjusted to persons of mandatory educational age with socially deviant behaviour;
+8) social adjustment - an educational programme methodologically and organisationally adjusted to persons of mandatory educational age with socially deviant behaviour;
 
-- extended-day group - the possibility provided by an educational institution for students to receive pedagogical assistance and to spend their leisure time outside mandatory classes in an organised way;
+9) extended-day group - the possibility provided by an educational institution for students to receive pedagogical assistance and to spend their leisure time outside mandatory classes in an organised way;
 
-- report card - a document attesting to the achievements of a student in classes;
+10) report card - a document attesting to the achievements of a student in classes;
 
-- certificate of basic education or general secondary education - a document attesting to the achievements of a student in a subject in which a centralised examination is organised;
+11) certificate of basic education or general secondary education - a document attesting to the achievements of a student in a subject in which a centralised examination is organised;
 
-- centralised examination - an examination developed according to a special methodology and organised according to a single procedure at the national level for the assessment of the educational achievements of students in a particular subject in a basic education and general secondary education programme;
+12) centralised examination - an examination developed according to a special methodology and organised according to a single procedure at the national level for the assessment of the educational achievements of students in a particular subject in a basic education and general secondary education programme;
 
-- evaluation - an attestation of the level of knowledge and skills provided in an educational programme;
+13) evaluation - an attestation of the level of knowledge and skills provided in an educational programme;
 
-- special needs - a necessity to receive such support and rehabilitation, which creates an opportunity for a student to acquire educational programme, taking into account his or her state of health, abilities and level of development.
+14) special needs - a necessity to receive such support and rehabilitation, which creates an opportunity for a student to acquire educational programme, taking into account his or her state of health, abilities and level of development.
 
 [11 October 2007; 1 July 2011; 9 July 2013]
 
@@ -112,21 +112,21 @@ The purpose of this Law is to regulate the activities of persons in State and lo
 
 ### Section 3. Levels and Types of General Education
 
-- General education shall be implemented at the following levels of general education:
+(1) General education shall be implemented at the following levels of general education:
 
-- pre-school education;
+1) pre-school education;
 
-- basic education;
+2) basic education;
 
-- secondary education.
+3) secondary education.
 
-- Specific types of general education shall be the following:
+(2) Specific types of general education shall be the following:
 
-- special education;
+1) special education;
 
-- social adjustment;
+2) social adjustment;
 
-- pedagogical adjustment.
+3) pedagogical adjustment.
 
 ## Chapter II Organisation of General Education
 
@@ -134,9 +134,9 @@ The purpose of this Law is to regulate the activities of persons in State and lo
 
 The Cabinet shall:
 
-- determine the procedures for licensing and accrediting general educational programmes;
+1) determine the procedures for licensing and accrediting general educational programmes;
 
-- establish, reorganise and liquidate State general educational institutions, as well as State special educational
+2) establish, reorganise and liquidate State general educational institutions, as well as State special educational
 
 2/18
 
@@ -144,51 +144,49 @@ The Cabinet shall:
 
 [[START OF PAGE 3]]
 
-2) establish, reorganise and liquidate State general educational institutions, as well as State special educational
-
 institutions upon proposal of the Minister for Education and Science;
 
-[16 June 2009];
+3) [16 June 2009];
 
-- 3 1 ) determine the procedures for calculating and dividing the grant from the State budget for work remuneration of pedagogues of local government general basic educational and general secondary educational institutions;
+3¹) determine the procedures for calculating and dividing the grant from the State budget for work remuneration of pedagogues of local government general basic educational and general secondary educational institutions;
 
-- 3 2 ) determine the procedures for calculating and dividing the grant from the State budget for work remuneration of pre-school education pedagogues of local government educational institutions employed in education of children from fiv e years of age;
+3²) determine the procedures for calculating and dividing the grant from the State budget for work remuneration of pre-school education pedagogues of local government educational institutions employed in education of children from five years of age;
 
-- 3 3 ) determine the procedures for financing work remuneration of pedagogues who implement pre-school educational programmes in private educational institutions provided for children from five years of age until commencing the acquisition of basic education;
+3³) determine the procedures for financing work remuneration of pedagogues who implement pre-school educational programmes in private educational institutions provided for children from five years of age until commencing the acquisition of basic education;
 
-[16 June 2009];
+4) [16 June 2009];
 
-- determine the criteria and procedures for conferring and annulling the status of gymnasium and State gymnasium;
+5) determine the criteria and procedures for conferring and annulling the status of gymnasium and State gymnasium;
 
-- determine the criteria and procedures for enrolling students in boarding schools and special educational institutions, determine the criteria for evaluating and recommending an educational programme corresponding to the needs of the student;
+6) determine the criteria and procedures for enrolling students in boarding schools and special educational institutions, determine the criteria for evaluating and recommending an educational programme corresponding to the needs of the student;
 
-- determine the criteria and procedures for conferring the status of special education development centre to special educational institutions;
+7) determine the criteria and procedures for conferring the status of special education development centre to special educational institutions;
 
-- determine the competence of the pedagogical medical commissions of State and local governments and the professional requirements for members of the commission;
+8) determine the competence of the pedagogical medical commissions of State and local governments and the professional requirements for members of the commission;
 
-- determine the procedures for exempting students from State examinations;
+9) determine the procedures for exempting students from State examinations;
 
-[16 June 2005];
+10) [16 June 2005];
 
-- determine the State general education standards and the subject standards;
+11) determine the State general education standards and the subject standards;
 
-- determine the time and procedures for the course of State test works each school year in compliance with the State general education standards;
+12) determine the time and procedures for the course of State test works each school year in compliance with the State general education standards;
 
-- determine the procedures for evaluating educational achievements in special educational programmes;
+13) determine the procedures for evaluating educational achievements in special educational programmes;
 
-[16 June 2009];
+14) [16 June 2009];
 
-- determine the procedures for educating a student suffering from a long-term illness outside the educational institution;
+15) determine the procedures for educating a student suffering from a long-term illness outside the educational institution;
 
-- determine the beginning and end date of the school year and study semester;
+16) determine the beginning and end date of the school year and study semester;
 
-- determine the mandatory documentation necessary for the organisation of pedagogical process of general educational institutions;
+17) determine the mandatory documentation necessary for the organisation of pedagogical process of general educational institutions;
 
-- determine the procedures for enrolling students in general educational institutions and discharging from them (except boarding schools and special educational institutions) and the mandatory requirements for moving them up into the next grade;
+18) determine the procedures for enrolling students in general educational institutions and discharging from them (except boarding schools and special educational institutions) and the mandatory requirements for moving them up into the next grade;
 
-- 18 1 ) determine the procedures for organising competitions in study subjects;
+18¹) determine the procedures for organising competitions in study subjects;
 
-- perform other functions related to general education laid down in this Law and the Education Law.
+19) perform other functions related to general education laid down in this Law and the Education Law.
 
 [21 November 2002; 16 June 2005; 16 June 2009; 1 December 2009; 1 July 2011; 15 December 2011]
 
@@ -196,11 +194,11 @@ institutions upon proposal of the Minister for Education and Science;
 
 The Ministry of Education and Science shall:
 
-- develop models for general educational programmes and subject programmes;
+1) develop models for general educational programmes and subject programmes;
 
-[16 June 2005];
+2) [16 June 2005];
 
-[16 June 2005];
+3) [16 June 2005];
 
 3/18
 
@@ -208,35 +206,35 @@ The Ministry of Education and Science shall:
 
 [[START OF PAGE 4]]
 
-- organise the development of the content and methodology of general education;
+4) organise the development of the content and methodology of general education;
 
-- evaluate and approve the educational literature to be utilised in the educational process;
+5) evaluate and approve the educational literature to be utilised in the educational process;
 
-[16 June 2005];
+6) [16 June 2005];
 
-[16 June 2005];
+7) [16 June 2005];
 
-[16 June 2005];
+8) [16 June 2005];
 
-[11 October 2007];
+9) [11 October 2007];
 
-[16 June 2005];
+10) [16 June 2005];
 
-[16 June 2005];
+11) [16 June 2005];
 
-[16 June 2005];
+12) [16 June 2005];
 
-[16 June 2005];
+13) [16 June 2005];
 
-[16 June 2005];
+14) [16 June 2005];
 
-[16 June 2005];
+15) [16 June 2005];
 
-[16 June 2005];
+16) [16 June 2005];
 
-[16 June 2005];
+17) [16 June 2005];
 
-- perform other functions laid down in this Law and the Education Law.
+18) perform other functions laid down in this Law and the Education Law.
 
 [21 November 2002; 16 June 2005; 11 October 2007; 1 July 2011]
 
@@ -248,7 +246,7 @@ The Education Law and other laws and regulations govern the competence of local 
 
 ### Section 7. Founding, Reorganisation and Liquidation of a General Educational Institution
 
-- The State, local governments, and other legal or natural persons may found a general educational institution.
+(1) The State, local governments, and other legal or natural persons may found a general educational institution.
 
 (2) A general educational institution shall be reorganised and liquidated by its founder. A State or local government general educational institution shall be reorganised and liquidated in collaboration with the Ministry of Education and Science.
 
@@ -258,21 +256,21 @@ The legal basis for the activities of a general educational institution shall be
 
 ### Section 9. By-law of a General Educational Institution
 
-- The by-law of a general educational institution shall include:
+(1) The by-law of a general educational institution shall include:
 
-- the name and legal address of the educational institution;
+1) the name and legal address of the educational institution;
 
-- the founder of the educational institution and the legal status of the founder;
+2) the founder of the educational institution and the legal status of the founder;
 
-- the purposes, main directions of activity and tasks of the educational institution;
+3) the purposes, main directions of activity and tasks of the educational institution;
 
-- the educational programmes to be implemented in the educational institution;
+4) the educational programmes to be implemented in the educational institution;
 
-- the organisation of the educational process;
+5) the organisation of the educational process;
 
-- the rights and duties of students;
+6) the rights and duties of students;
 
-- the rights and duties of teachers and other employees;
+7) the rights and duties of teachers and other employees;
 
 4/18
 
@@ -280,25 +278,25 @@ The legal basis for the activities of a general educational institution shall be
 
 [[START OF PAGE 5]]
 
-[9 July 2013];
+8) [9 July 2013];
 
-- the establishment procedures and competence of the local government of the educational institution;
+9) the establishment procedures and competence of the local government of the educational institution;
 
-- the establishment procedures and competence of the pedagogical council of the educational institution;
+10) the establishment procedures and competence of the pedagogical council of the educational institution;
 
-- the procedures for accepting internal laws and regulations of the educational institution and the institution or administration official to whom a private individual, upon submitting the relevant submission, may contest an administrative act issued by the educational institution or an actual action thereof;
+11) the procedures for accepting internal laws and regulations of the educational institution and the institution or administration official to whom a private individual, upon submitting the relevant submission, may contest an administrative act issued by the educational institution or an actual action thereof;
 
-- the economic activity of the educational institution;
+12) the economic activity of the educational institution;
 
-- the sources and procedures for financing the educational institution;
+13) the sources and procedures for financing the educational institution;
 
-- the procedures for reorganising and liquidating the educational institution;
+14) the procedures for reorganising and liquidating the educational institution;
 
-- the procedures for accepting the by-law of the educational institution and its amendments;
+15) the procedures for accepting the by-law of the educational institution and its amendments;
 
-- other important regulations which are not in contradiction with this Law, the Education Law and other laws and regulations.
+16) other important regulations which are not in contradiction with this Law, the Education Law and other laws and regulations.
 
-- The by-law of a general educational institution shall be approved by the founder.
+(2) The by-law of a general educational institution shall be approved by the founder.
 
 [16 June 2005; 9 July 2013]
 
@@ -312,39 +310,39 @@ The legal basis for the activities of a general educational institution shall be
 
 - select educational work methods and forms.
 
-- A general educational institution is entitled to perform the following actions independently:
+(3) A general educational institution is entitled to perform the following actions independently:
 
-- implement interest-related educational programmes, continuing educational programmes and other educational programmes;
+1) implement interest-related educational programmes, continuing educational programmes and other educational programmes;
 
-- draft the internal laws and regulations of the institution;
+2) draft the internal laws and regulations of the institution;
 
-- provide catering services;
+3) provide catering services;
 
-- provide services for official accommodation facilities, boarding schools;
+4) provide services for official accommodation facilities, boarding schools;
 
-- perform economic activities and other types of activities if it does not interfere with the implementation of the general educational programme.
+5) perform economic activities and other types of activities if it does not interfere with the implementation of the general educational programme.
 
 [16 June 2005]
 
 ### Section 11. Administration of a General Educational Institution
 
-- A general educational institution shall be managed by the head of the institution.
+(1) A general educational institution shall be managed by the head of the institution.
 
-- The head of a general educational institution shall be responsible for:
+(2) The head of a general educational institution shall be responsible for:
 
-- the implementation of educational programmes;
+1) the implementation of educational programmes;
 
-- the provision of the educational institution with educators;
+2) the provision of the educational institution with educators;
 
-- noting the special needs of students and their education in conformity with special educational programmes;
+3) noting the special needs of students and their education in conformity with special educational programmes;
 
-- ensuring the operations of the educational institution and the execution of the tasks of the institution;
+4) ensuring the operations of the educational institution and the execution of the tasks of the institution;
 
-- the rational utilisation of the financial and material resources of the educational institution;
+5) the rational utilisation of the financial and material resources of the educational institution;
 
-- the conformity with the laws and regulations in the operations of the educational institution.
+6) the conformity with the laws and regulations in the operations of the educational institution.
 
-- The head of a general educational institution shall be hired for the position and released thereof by the founder of the corresponding educational institution.
+(3) The head of a general educational institution shall be hired for the position and released thereof by the founder of the corresponding educational institution.
 
 5/18
 
@@ -358,17 +356,17 @@ The legal basis for the activities of a general educational institution shall be
 
 (1) A pedagogical council shall be formed in basic educational and general educational institutions for dealing with different issues related to educational and pedagogical processes. The pedagogical council shall be presided over by the head of the educational institution and all educators employed in the educational institution and the medical practitioner of the educational institution shall be included in the composition thereof. Meetings of the pedagogical council shall be convened not less frequently than once every six months and its course shall be recorded in the minutes.
 
-- The pedagogical council shall:
+(2) The pedagogical council shall:
 
-- perform an analysis of the pedagogical process and develop proposals for improvement of the results;
+1) perform an analysis of the pedagogical process and develop proposals for improvement of the results;
 
-- discuss organisational issues of the pedagogical process and pedagogical experience;
+2) discuss organisational issues of the pedagogical process and pedagogical experience;
 
-- establish a unified pedagogical position on the basic organisational issues of the pedagogical process;
+3) establish a unified pedagogical position on the basic organisational issues of the pedagogical process;
 
-- propose the initiation of pedagogical and social adjustment programmes in the educational institution;
+4) propose the initiation of pedagogical and social adjustment programmes in the educational institution;
 
-- develop a draft plan for the operation of the educational institution.
+5) develop a draft plan for the operation of the educational institution.
 
 [16 June 2005]
 
@@ -382,37 +380,37 @@ The legal basis for the activities of a general educational institution shall be
 
 Acquisition of a general education, the content and organisation thereof in conformity with the type, level and target group of education shall be specified by the following documents:
 
-- the State general education standard;
+1) the State general education standard;
 
-- 1 1 ) guidelines for the State pre-school education;
+1¹) guidelines for the State pre-school education;
 
-- general education subject standards;
+2) general education subject standards;
 
-- general educational programmes;
+3) general educational programmes;
 
-- general education subject programmes.
+4) general education subject programmes.
 
 [1 December 2009]
 
 ### Section 15. State General Education Standard
 
-- The State general education standard shall determine:
+(1) The State general education standard shall determine:
 
-- the main purposes and tasks of general educational programmes;
+1) the main purposes and tasks of general educational programmes;
 
-- the mandatory content of general education;
+2) the mandatory content of general education;
 
-- the basic principles and procedures for the evaluation of the education acquired by students.
+3) the basic principles and procedures for the evaluation of the education acquired by students.
 
-- The State general education standard shall be mandatory for everyone who draws up and implements general educational programmes, with the exception of pre-school educational programmes.
+(2) The State general education standard shall be mandatory for everyone who draws up and implements general educational programmes, with the exception of pre-school educational programmes.
 
 [21 November 2002]
 
-### Section 15. 1  Guidelines for the State Pre-school Education
+### Section 15.1 Guidelines for the State Pre-school Education
 
-- The guidelines for the State pre-school education shall determine:
+(1) The guidelines for the State pre-school education shall determine:
 
-- the main purposes and tasks of the content of pre-school education;
+1) the main purposes and tasks of the content of pre-school education;
 
 6/18
 
@@ -420,13 +418,13 @@ Acquisition of a general education, the content and organisation thereof in conf
 
 [[START OF PAGE 7]]
 
-- the organisational principles for the pedagogical process of pre-school education;
+2) the organisational principles for the pedagogical process of pre-school education;
 
-- the planned results of the acquisition of pre-school education;
+3) the planned results of the acquisition of pre-school education;
 
-- the basic principles for the evaluation of pre-school education.
+4) the basic principles for the evaluation of pre-school education.
 
-- The guidelines for the State pre-school education shall be mandatory to anyone who develops and implements pre-school educational programmes.
+(2) The guidelines for the State pre-school education shall be mandatory to anyone who develops and implements pre-school educational programmes.
 
 [1 December 2009]
 
@@ -434,31 +432,31 @@ Acquisition of a general education, the content and organisation thereof in conf
 
 The subject standard shall determine:
 
-- the main purposes and tasks of a subject of study;
+1) the main purposes and tasks of a subject of study;
 
-- the mandatory content of a subject;
+2) the mandatory content of a subject;
 
-- the basic requirements regarding the acquisition of a subject;
+3) the basic requirements regarding the acquisition of a subject;
 
-- the forms and methodological techniques for evaluating educational achievements.
+4) the forms and methodological techniques for evaluating educational achievements.
 
 ### Section 17. General Educational Programme
 
 (1) A general educational programme shall be a document which, in accordance with the Education Law, Cabinet regulations and the State general education standard or the guidelines for the State pre-school education, shall specify:
 
-- the main purposes and tasks of an educational programme;
+1) the main purposes and tasks of an educational programme;
 
-- the content of education;
+2) the content of education;
 
-- the implementation plan for an educational programme;
+3) the implementation plan for an educational programme;
 
-- the requirements in relation to a previously acquired education (except for the pre-school educational programmes);
+4) the requirements in relation to a previously acquired education (except for the pre-school educational programmes);
 
-- the criteria and procedures for evaluating an acquired education or the basic principles for the evaluation;
+5) the criteria and procedures for evaluating an acquired education or the basic principles for the evaluation;
 
-- the evaluation and justification of the personnel and financial and material resources necessary for the implementation of an educational programme.
+6) the evaluation and justification of the personnel and financial and material resources necessary for the implementation of an educational programme.
 
-- General educational programmes shall be developed by its implementers, taking into consideration the classification of educational programmes.
+(2) General educational programmes shall be developed by its implementers, taking into consideration the classification of educational programmes.
 
 [21 November 2002; 1 December 2009]
 
@@ -476,13 +474,13 @@ The subject standard shall determine:
 
 (1) A subject programme shall be a component of the general educational programme and shall include:
 
-- the goals and objectives of the subject;
+1) the goals and objectives of the subject;
 
-- the content of the subject;
+2) the content of the subject;
 
-- the plan for acquiring the contents and the period of time anticipated for the acquisition of the subject;
+3) the plan for acquiring the contents and the period of time anticipated for the acquisition of the subject;
 
-- the forms and methods for the evaluation of educational achievements;
+4) the forms and methods for the evaluation of educational achievements;
 
 7/18
 
@@ -490,9 +488,9 @@ The subject standard shall determine:
 
 [[START OF PAGE 8]]
 
-- a list of the teaching materials and methods to be used for the acquisition of the contents of the subject.
+5) a list of the teaching materials and methods to be used for the acquisition of the contents of the subject.
 
-- An educator has the right to draw up a subject programme according to the general education subject standard and the general educational programme, which includes the programme of such subject, or to select a subject programme from the models of subject programmes.
+(2) An educator has the right to draw up a subject programme according to the general education subject standard and the general educational programme, which includes the programme of such subject, or to select a subject programme from the models of subject programmes.
 
 [21 November 2002; 1 July 2011]
 
@@ -500,29 +498,29 @@ The subject standard shall determine:
 
 ### Section 20. Pre-school Educational Programme
 
-- The pre-school educational programme shall ensure the preparation of a student for the acquisition of a basic education, comprising:
+(1) The pre-school educational programme shall ensure the preparation of a student for the acquisition of a basic education, comprising:
 
-- the development of individuality;
+1) the development of individuality;
 
-- intellectual, physical and social development;
+2) intellectual, physical and social development;
 
-- the development of initiative, inquisitiveness, independence and creative activity;
+3) the development of initiative, inquisitiveness, independence and creative activity;
 
-- the strengthening of health;
+4) the strengthening of health;
 
-- psychological preparation for the commencement of the acquisition of a basic education;
+5) psychological preparation for the commencement of the acquisition of a basic education;
 
-- acquisition of the basic skills for using the official language.
+6) acquisition of the basic skills for using the official language.
 
-- The pre-school educational programme shall be acquired by children up to 7 years of age. Acquisition of the preschool educational programme may be prolonged or reduced by one year depending on the state of health and psychological preparedness of the student in conformity with the wishes of parents and the opinion of the family doctor or the psychologist.
+(2) The pre-school educational programme shall be acquired by children up to 7 years of age. Acquisition of the pre-school educational programme may be prolonged or reduced by one year depending on the state of health and psychological preparedness of the student in conformity with the wishes of parents and the opinion of the family doctor or the psychologist.
 
 [21 November 2002; 1 December 2009]
 
-### Section 20. 1  Mandatory Preparation of Children of Pre-school Age
+### Section 20.1 Mandatory Preparation of Children of Pre-school Age
 
-- The preparation of children from five years of age for the acquisition of basic education shall be mandatory.
+(1) The preparation of children from five years of age for the acquisition of basic education shall be mandatory.
 
-- Local governments shall ensure the preparation of children from five years of age for the acquisition of basic education in their administrative territory.
+(2) Local governments shall ensure the preparation of children from five years of age for the acquisition of basic education in their administrative territory.
 
 [1 December 2009]
 
@@ -532,7 +530,7 @@ Local governments shall ensure equal access to pre-school educational institutio
 
 [1 July 2011]
 
-### Section 21. 1 . Mandatory Preparation of a Child of Pre-school Age
+### Section 21.1 Mandatory Preparation of a Child of Pre-school Age
 
 [16 June 2009]
 
@@ -564,7 +562,7 @@ The pre-school educational programme shall be implemented in a pre-school educat
 
 ### Section 25. Provisions Regarding the Founding of a Pre-school Educational Institution
 
-(1) A local government is entitled to found a pre-school educational institution for not less than 10 children of preschool age who live in the administrative territory of the local government if it is requested by parents.
+(1) A local government is entitled to found a pre-school educational institution for not less than 10 children of pre-school age who live in the administrative territory of the local government if it is requested by parents.
 
 (2) A local government is entitled to found a special pre-school educational institution for not less than 8 children of pre-school age with special needs if it is requested by parents.
 
@@ -616,29 +614,29 @@ The pre-school educational programme shall be implemented in a pre-school educat
 
 [[START OF PAGE 10]]
 
-- The basic educational programme may be combined with an educational programme for ethnic minorities, including therein the native language of an ethnic minority, educational content related to the identity of ethnic minorities and the integration of ethnic minorities into Latvian society.
+(5) The basic educational programme may be combined with an educational programme for ethnic minorities, including therein the native language of an ethnic minority, educational content related to the identity of ethnic minorities and the integration of ethnic minorities into Latvian society.
 
 [16 June 2005; 1 July 2011]
 
 ### Section 31. Enrolment of Students in a Basic Educational Institution
 
-- An educational institution implementing basic educational programmes is not entitled to organise entrance examinations for the enrolment of students in grades 1 to 9.
+(1) An educational institution implementing basic educational programmes is not entitled to organise entrance examinations for the enrolment of students in grades 1 to 9.
 
-- When enrolling students in grades 7 to 9, gymnasiums and State gymnasiums are entitled, with the permission of the founder, to organise entrance examinations in conformity with the State basic education standard.
+(2) When enrolling students in grades 7 to 9, gymnasiums and State gymnasiums are entitled, with the permission of the founder, to organise entrance examinations in conformity with the State basic education standard.
 
 [21 July 2000; 16 June 2005]
 
 ### Section 32. Mandatory Basic Education
 
-- The acquisition of basic education shall be mandatory.
+(1) The acquisition of basic education shall be mandatory.
 
-- The acquisition of basic education shall be commenced in the calendar year when the student reaches the age of 7 years.
+(2) The acquisition of basic education shall be commenced in the calendar year when the student reaches the age of 7 years.
 
-- A student is entitled to commence the acquisition of the basic educational programme one year earlier or later depending on his or her state of health and psychological preparedness in conformity with the wishes of parents and the opinion of the family doctor or the opinion of the psychologist.
+(3) A student is entitled to commence the acquisition of the basic educational programme one year earlier or later depending on his or her state of health and psychological preparedness in conformity with the wishes of parents and the opinion of the family doctor or the opinion of the psychologist.
 
-- Institutions in which students aged up to 18 years reside (child care institutions, orphanages, medical treatment institutions, places of imprisonment, accommodation centres for asylum seekers etc.) shall ensure the possibility for the acquisition of the basic educational programme.
+(4) Institutions in which students aged up to 18 years reside (child care institutions, orphanages, medical treatment institutions, places of imprisonment, accommodation centres for asylum seekers etc.) shall ensure the possibility for the acquisition of the basic educational programme.
 
-[16 June 2005]
+(5) [16 June 2005]
 
 [21 November 2002; 16 June 2005; 1 December 2009]
 
@@ -646,21 +644,21 @@ The pre-school educational programme shall be implemented in a pre-school educat
 
 The lesson load per week in one basic educational programme shall not exceed:
 
-- 22 lessons in grade 1;
+1) 22 lessons in grade 1;
 
-- 23 lessons in grade 2;
+2) 23 lessons in grade 2;
 
-- 24 lessons in grade 3;
+3) 24 lessons in grade 3;
 
-- 26 lessons in grade 4;
+4) 26 lessons in grade 4;
 
-- 28 lessons in grade 5;
+5) 28 lessons in grade 5;
 
-- 30 lessons in grade 6;
+6) 30 lessons in grade 6;
 
-- 32 lessons in grade 7;
+7) 32 lessons in grade 7;
 
-- 34 lessons in grades 8 and 9.
+8) 34 lessons in grades 8 and 9.
 
 [16 June 2005]
 
@@ -668,17 +666,17 @@ The lesson load per week in one basic educational programme shall not exceed:
 
 Number of lessons per day in the basic educational programme shall not exceed:
 
-- 5 lessons in grades 1 to 3;
+1) 5 lessons in grades 1 to 3;
 
-- 6 lessons in grades 4 to 5;
+2) 6 lessons in grades 4 to 5;
 
-- 7 lessons in grades 6 to 7;
+3) 7 lessons in grades 6 to 7;
 
-- 8 lessons in grades 8 to 9.
+4) 8 lessons in grades 8 to 9.
 
 ### Section 35. Duration of Lessons in Basic Educational Institutions
 
-The duration of one lesson in grades 1 to 9 shall be 40-45 minutes. The duration of lessons shall be determined by the head of an educational institution.
+The duration of one lesson in grades 1 to 9 shall be 40-45 minutes. The duration of lessons shall be determined by
 
 10/18
 
@@ -694,11 +692,11 @@ the head of an educational institution.
 
 The duration of the school year shall be:
 
-- 34 weeks in grade 1;
+1) 34 weeks in grade 1;
 
-- 35 weeks in grades 2 through 8;
+2) 35 weeks in grades 2 through 8;
 
-- 37 weeks in grade 9.
+3) 37 weeks in grade 9.
 
 ### Section 37. Mandatory Content of Basic Education
 
@@ -706,21 +704,21 @@ The mandatory content of basic education shall be laid down in the State basic e
 
 ### Section 38. Fee for the Acquisition of the Basic Educational Programme
 
-- State and local government basic educational institutions are not entitled to prescribe a fee for the acquisition of the basic educational programme.
+(1) State and local government basic educational institutions are not entitled to prescribe a fee for the acquisition of the basic educational programme.
 
-- Private basic educational institutions are entitled to prescribe a study fee.
+(2) Private basic educational institutions are entitled to prescribe a study fee.
 
 ### Section 39. Documents Regarding the Acquisition of the Basic Educational Programme
 
-- Students shall receive a certificate of general basic education and a report card confirming completion of the general basic educational programme in accordance with the procedures stipulated by the Cabinet.
+(1) Students shall receive a certificate of general basic education and a report card confirming completion of the general basic educational programme in accordance with the procedures stipulated by the Cabinet.
 
-- Evaluation in those subjects in which a centralised examination is organised shall be certified by a basic education certificate. The evaluation of educational achievements in the corresponding subjects reflected in a basic education certificate shall serve as selection criteria for the enrolment of students in secondary level educational programmes if they include the organisation of entrance examinations.
+(2) Evaluation in those subjects in which a centralised examination is organised shall be certified by a basic education certificate. The evaluation of educational achievements in the corresponding subjects reflected in a basic education certificate shall serve as selection criteria for the enrolment of students in secondary level educational programmes if they include the organisation of entrance examinations.
 
-- A certificate shall be issued to a student for the acquisition of a general basic educational programme if:
+(3) A certificate shall be issued to a student for the acquisition of a general basic educational programme if:
 
-- an evaluation has not been obtained in any subject in one year or in any of the State examinations;
+1) an evaluation has not been obtained in any subject in one year or in any of the State examinations;
 
-- the evaluation obtained in two or more subjects in one year or in a State examination in conformity with the procedures for evaluating educational achievements laid down in the State educational standard is lower than a mark of 4. Evaluation in a subject in one year and evaluation in a State examination in the same subject shall be deemed one evaluation.
+2) the evaluation obtained in two or more subjects in one year or in a State examination in conformity with the procedures for evaluating educational achievements laid down in the State educational standard is lower than a mark of 4. Evaluation in a subject in one year and evaluation in a State examination in the same subject shall be deemed one evaluation.
 
 [21 November 2002; 1 July 2011 / Amendment to Paragraph three shall come into force on 1 September 2011. See Paragraph 17 of Transitional Provisions]
 
@@ -728,19 +726,19 @@ The mandatory content of basic education shall be laid down in the State basic e
 
 ### Section 40. General Secondary Educational Institutions
 
-- Depending on the structure of an educational institution and the organisation of the educational process in an educational institution, the types of general secondary educational institutions shall be as follows:
+(1) Depending on the structure of an educational institution and the organisation of the educational process in an educational institution, the types of general secondary educational institutions shall be as follows:
 
-- secondary schools;
+1) secondary schools;
 
-- evening (shift) secondary schools;
+2) evening (shift) secondary schools;
 
-- gymnasiums.
+3) gymnasiums.
 
-- The main purpose of a secondary educational institution shall be the implementation of the basic and general secondary educational programmes.
+(2) The main purpose of a secondary educational institution shall be the implementation of the basic and general secondary educational programmes.
 
-- The main purpose of a gymnasium shall be the implementation of the general secondary educational programmes. A gymnasium is also entitled to implement partial basic educational programmes for grades 7 to 9.
+(3) The main purpose of a gymnasium shall be the implementation of the general secondary educational programmes. A gymnasium is also entitled to implement partial basic educational programmes for grades 7 to 9.
 
-- State gymnasium status shall be granted to an educational institution by the Cabinet. In addition to the implementation of the general secondary educational programme, a State gymnasium shall perform the functions of a regional methodological centre and a centre for the continuing education of educators.
+(4) State gymnasium status shall be granted to an educational institution by the Cabinet. In addition to the implementation of the general secondary educational programme, a State gymnasium shall perform the functions of a regional methodological centre and a centre for the continuing education of educators.
 
 11/18
 
@@ -762,15 +760,15 @@ The mandatory content of basic education shall be laid down in the State basic e
 
 (1) Educational institutions are entitled to develop general secondary educational programmes in the following directions:
 
-- the general education direction, which is specified by the group of educational programmes without particularly emphasised subjects;
+1) the general education direction, which is specified by the group of educational programmes without particularly emphasised subjects;
 
-- the humanities and social direction specified by the group of educational programmes with particularly emphasised humanities subjects and social science subjects;
+2) the humanities and social direction specified by the group of educational programmes with particularly emphasised humanities subjects and social science subjects;
 
-- the mathematics, natural sciences and technology direction determined by the group of educational programmes with particularly emphasised mathematics, natural sciences and technology subjects;
+3) the mathematics, natural sciences and technology direction determined by the group of educational programmes with particularly emphasised mathematics, natural sciences and technology subjects;
 
-- the vocational direction determined by the group of educational programmes with a particularly emphasised vocational orientation.
+4) the vocational direction determined by the group of educational programmes with a particularly emphasised vocational orientation.
 
-- A general secondary educational programme of the corresponding direction may be combined with the educational programme for ethnic minorities, including therein the native language of the ethnic minority, the educational content related to the identity of ethnic minorities and the integration of ethnic minorities into Latvian society.
+(2) A general secondary educational programme of the corresponding direction may be combined with the educational programme for ethnic minorities, including therein the native language of the ethnic minority, the educational content related to the identity of ethnic minorities and the integration of ethnic minorities into Latvian society.
 
 ### Section 43. Mandatory Content of General Secondary Educational Programmes
 
@@ -790,9 +788,9 @@ The duration of a lesson in a general secondary educational institution shall be
 
 The duration of the school year in general secondary educational institutions shall be:
 
-- 35 weeks in grades 10 and 11;
+1) 35 weeks in grades 10 and 11;
 
-- 38 weeks in grade 12.
+2) 38 weeks in grade 12.
 
 ### Section 47. Fee for the Acquisition of the General Secondary Educational Programme
 
@@ -814,7 +812,7 @@ The duration of the school year in general secondary educational institutions sh
 
 1) an evaluation has not been obtained in any subject in one year or in any of the State examinations;
 
-- the evaluation obtained in a subject or in a State examination in conformity with the procedures for evaluating educational achievements of a student laid down in the State educational standard is lower than a mark of 4.
+2) the evaluation obtained in a subject or in a State examination in conformity with the procedures for evaluating educational achievements of a student laid down in the State educational standard is lower than a mark of 4.
 
 (3) An evaluation in those subjects in which a centralised examination is organised, shall be certified by a general secondary education certificate. The evaluation of educational achievements in these subjects reflected in a general secondary education certificate shall serve as selection criteria for the enrolment of students in educational programmes of the highest level.
 
@@ -850,7 +848,7 @@ The duration of the school year in general secondary educational institutions sh
 
 (8) Special educational programmes for students with physical development disorders, mental health disorders or somatic symptom disorders for the acquisition of basic education are provided for nine years.
 
-(9) Acquisition of basic education for partially deaf students who acquire a special educational programme for students with hearing impairments lay last 10 years, but acquisition of secondary education - three years.
+(9) Acquisition of basic education for partially deaf students who acquire a special educational programme for students with hearing impairments may last 10 years, but acquisition of secondary education - three years.
 
 13/18
 
@@ -858,25 +856,25 @@ The duration of the school year in general secondary educational institutions sh
 
 [[START OF PAGE 14]]
 
-- A special basic educational programme for students with visual impairments may last 10 years, but acquisition of secondary education - three years.
+(10) A special basic educational programme for students with visual impairments may last 10 years, but acquisition of secondary education - three years.
 
 [1 July 2011]
 
 ### Section 51. Special Educational Institutions and Classes
 
-- Students with special needs may acquire special educational programmes in special educational institutions or classes.
+(1) Students with special needs may acquire special educational programmes in special educational institutions or classes.
 
-- There shall be the following special educational institutions:
+(2) There shall be the following special educational institutions:
 
-- State special educational institutions under subordination of the Ministry of Education and Science;
+1) State special educational institutions under subordination of the Ministry of Education and Science;
 
-- special educational institutions of the local governments. These shall be special boarding schools (schools), developmental or rehabilitation centres in which mostly students with special needs living in the administrative territory of the respective local government study;
+2) special educational institutions of the local governments. These shall be special boarding schools (schools), developmental or rehabilitation centres in which mostly students with special needs living in the administrative territory of the respective local government study;
 
-- private special educational institutions.
+3) private special educational institutions.
 
-- A special educational class shall be a class in a general educational institution in which students with special needs study. A special educational class may also be opened in an educational institution implementing vocational educational programmes.
+(3) A special educational class shall be a class in a general educational institution in which students with special needs study. A special educational class may also be opened in an educational institution implementing vocational educational programmes.
 
-- A special educational institution shall be granted the status of special developmental centre in accordance with the procedures stipulated by the Cabinet.
+(4) A special educational institution shall be granted the status of special developmental centre in accordance with the procedures stipulated by the Cabinet.
 
 [1 September 2001; 16 June 2005]
 
@@ -888,9 +886,9 @@ Enrolment of students in special educational institutions and the discharge ther
 
 ### Section 53. Integration of Students with Special Needs in General Educational Institutions
 
-- General basic educational and general secondary educational institutions, which have the appropriate provisions, may integrate students with special needs. The requirements to be brought forward for general basic educational and general secondary educational institutions in order to ensure integration of students with special needs in the abovementioned educational institutions shall be determined by the Cabinet.
+(1) General basic educational and general secondary educational institutions, which have the appropriate provisions, may integrate students with special needs. The requirements to be brought forward for general basic educational and general secondary educational institutions in order to ensure integration of students with special needs in the abovementioned educational institutions shall be determined by the Cabinet.
 
-- Access to appropriate support measures for students with special needs who have been integrated in a general educational institution shall be ensured by the educational institution. The educational institutions shall draw up an individual plan for acquisition of an educational programme for each integrated student with special needs.
+(2) Access to appropriate support measures for students with special needs who have been integrated in a general educational institution shall be ensured by the educational institution. The educational institutions shall draw up an individual plan for acquisition of an educational programme for each integrated student with special needs.
 
 [1 July 2011]
 
@@ -902,9 +900,9 @@ There shall be a State pedagogical medical commission and pedagogical medical co
 
 ### Section 55. Evaluation of Educational Achievements in Special Education
 
-- Achievements which a student with special needs has attained during his or her studies shall be evaluated in conformity with the requirements of a special educational programme and taking into account the state of health, skills and development of the student.
+(1) Achievements which a student with special needs has attained during his or her studies shall be evaluated in conformity with the requirements of a special educational programme and taking into account the state of health, skills and development of the student.
 
-- The acquisition of a special educational programme shall be evaluated in the form of description for students with medium serious and serious mental developmental disorders.
+(2) The acquisition of a special educational programme shall be evaluated in the form of description for students with medium serious and serious mental developmental disorders.
 
 [11 October 2007]
 
@@ -936,17 +934,17 @@ Educational institutions of social or pedagogical adjustment shall be general ed
 
 ### Section 60. Founding of Educational Institutions of Social or Pedagogical Adjustment, the Opening of Classes and the Enrolment of Students
 
-- Social adjustment educational institutions shall be under the subordination of the Minister of Education and Science.
+(1) Social adjustment educational institutions shall be under the subordination of the Minister of Education and Science.
 
-- Pedagogical adjustment educational institutions shall be founded by the State, local governments, other legal persons and natural persons.
+(2) Pedagogical adjustment educational institutions shall be founded by the State, local governments, other legal persons and natural persons.
 
-- Any educational institution may open classes for students requiring social or pedagogical adjustment.
+(3) Any educational institution may open classes for students requiring social or pedagogical adjustment.
 
-- Enrolment in social adjustment educational institutions shall be performed in accordance with the procedures laid down in law.
+(4) Enrolment in social adjustment educational institutions shall be performed in accordance with the procedures laid down in law.
 
-- Procedures for enrolment in a pedagogical adjustment educational institution or class and a social adjustment class shall be determined by the founder of the respective institution.
+(5) Procedures for enrolment in a pedagogical adjustment educational institution or class and a social adjustment class shall be determined by the founder of the respective institution.
 
-- It is mandatory for educational institutions in which social or pedagogical adjustment classes are set up to provide an extended working day group for individual work with students studying in these classes.
+(6) It is mandatory for educational institutions in which social or pedagogical adjustment classes are set up to provide an extended working day group for individual work with students studying in these classes.
 
 [21 November 2002; 16 June 2005]
 
@@ -958,13 +956,13 @@ The completion of the education of students who have completed educational progr
 
 ### Section 62. Sources of Funds of General Educational Institutions
 
-- The sources of funds of general educational institutions shall be laid down in this Law, the Education Law, other laws and regulations and the by-law of the respective educational institution.
+(1) The sources of funds of general educational institutions shall be laid down in this Law, the Education Law, other laws and regulations and the by-law of the respective educational institution.
 
-- Accredited special educational programmes shall be financed from the State budget in accordance with the procedures stipulated by the Cabinet.
+(2) Accredited special educational programmes shall be financed from the State budget in accordance with the procedures stipulated by the Cabinet.
 
-- Special purpose grants from the State budget shall cover the following:
+(3) Special purpose grants from the State budget shall cover the following:
 
-- expenditure of the remuneration of educators and the remuneration equivalent thereof for specialists related to
+1) expenditure of the remuneration of educators and the remuneration equivalent thereof for specialists related to
 
 15/18
 
@@ -986,21 +984,21 @@ the educational process in accordance with the procedures stipulated by the Cabi
 
 ## Transitional Provisions
 
-- The Minister for Education and Science shall ensure the development of laws and regulations related to this Law and submit them for approval to the Cabinet within six months from the day of the coming into force of this Law.
+1. The Minister for Education and Science shall ensure the development of laws and regulations related to this Law and submit them for approval to the Cabinet within six months from the day of the coming into force of this Law.
 
-- The first sentence of Section 48, Paragraph three of this Law shall come into force in the 2002/2003 school year, but the second sentence - in the 2003/2004 school year.
+2. The first sentence of Section 48, Paragraph three of this Law shall come into force in the 2002/2003 school year, but the second sentence - in the 2003/2004 school year.
 
 [21 November 2002]
 
-[16 October 2008]
+3. [16 October 2008]
 
-[13 August 1999]
+4. [13 August 1999]
 
-- The Cabinet shall draft regulations for the financing of boarding schools and special educational institutions by 1 September 2000.
+5. The Cabinet shall draft regulations for the financing of boarding schools and special educational institutions by 1 September 2000.
 
 [21 July 2000]
 
-- A gymnasium implementing basic educational programmes at the moment this Law comes into force is entitled to continue implementation of the respective educational programme until 1 September 2003.
+6. A gymnasium implementing basic educational programmes at the moment this Law comes into force is entitled to continue implementation of the respective educational programme until 1 September 2003.
 
 [21 July 2000]
 
@@ -1008,7 +1006,7 @@ the educational process in accordance with the procedures stipulated by the Cabi
 
 [21 July 2000]
 
-- The amendments to Section 26, Paragraph two of this Law (regarding the enrolment of students in special educational institutions or in special groups), amendments to Section 51, Paragraph four of this Law (regarding the conferring of special education developmental centre status), amendments to Section 52 of this Law (regarding the enrolment of students in special educational institutions), amendments to Section 54 of this Law (regarding the pedagogical medical commission) shall come into force on 1 September 2001.
+8. The amendments to Section 26, Paragraph two of this Law (regarding the enrolment of students in special educational institutions or in special groups), amendments to Section 51, Paragraph four of this Law (regarding the conferring of special education developmental centre status), amendments to Section 52 of this Law (regarding the enrolment of students in special educational institutions), amendments to Section 54 of this Law (regarding the pedagogical medical commission) shall come into force on 1 September 2001.
 
 [21 July 2000]
 
@@ -1016,11 +1014,11 @@ the educational process in accordance with the procedures stipulated by the Cabi
 
 [21 November 2002]
 
-- The amendments to Section 33, Clause 1 (regarding lesson load in grade 1) shall come into force on 1 September 2005, but in Clause 2 (regarding lesson load in grade 2) - on 1 September 2006.
+10. The amendments to Section 33, Clause 1 (regarding lesson load in grade 1) shall come into force on 1 September 2005, but in Clause 2 (regarding lesson load in grade 2) - on 1 September 2006.
 
 [16 June 2005]
 
-- In 2009 the remuneration (work remuneration, bonuses, monetary prizes, allowances etc.) determined in accordance with this Law in the State and local government authorities shall be determined in conformity with the Law On Remuneration of Officials and Employees of State and Local Government Authorities in 2009.
+11. In 2009 the remuneration (work remuneration, bonuses, monetary prizes, allowances etc.) determined in accordance with this Law in the State and local government authorities shall be determined in conformity with the Law On Remuneration of Officials and Employees of State and Local Government Authorities in 2009.
 
 [12 December 2008]
 
@@ -1046,7 +1044,7 @@ the educational process in accordance with the procedures stipulated by the Cabi
 
 [1 July 2011]
 
-16. The Cabinet shall issue the regulations provided for in Section 4, Clause 18. 1  of this Law until 31 December 2011.
+16. The Cabinet shall issue the regulations provided for in Section 4, Clause 18.1 of this Law until 31 December 2011.
 
 [1 July 2011]
 
@@ -1088,7 +1086,7 @@ Note. 3  This Law shall come into force on 1 January 2010.
 
 President G. Ulmanis
 
-Rīga, 30 June 1990
+Rīga, 30 June 1999
 
 > 1  The Parliament of the Republic of Latvia
 
