@@ -62,46 +62,46 @@ BE IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as fo
 
 Section
 
-- Definitions
+- 1. Definitions
 
-- Application
+- 2. Application
 
-- Determination of higher education policy
+- 3. Determination of higher education policy
 
 ### CHAPTER 2
 #### COUNCIL ON HIGHER EDUCATION
 
-- Establishment of Council on Higher Education (CHE)
+- 4. Establishment of Council on Higher Education (CHE)
 
-- Functions of CHE
+- 5. Functions of CHE
 
-- Information to be provided to CHE
+- 6. Information to be provided to CHE
 
-- Quality promotion and quality assurance functions of CHE
+- 7. Quality promotion and quality assurance functions of CHE
 
-- Composition of CHE
+- 8. Composition of CHE
 
-- Term of office of members
+- 9. Term of office of members
 
-- Vacation of office by members
+- 10. Vacation of office by members
 
-- Filling of vacancies
+- 11. Filling of vacancies
 
-- Executive officer and employees of CHE
+- 12. Executive officer and employees of CHE
 
-- Executive committee of CHE
+- 13. Executive committee of CHE
 
-- Committees of CHE
+- 14. Committees of CHE
 
-- Meetings of CHE and committees
+- 15. Meetings of CHE and committees
 
-- Funds of CHE
+- 16. Funds of CHE
 
-- Remuneration and allowances of members of CHE and committees
+- 17. Remuneration and allowances of members of CHE and committees
 
-- Annual audit
+- 18. Annual audit
 
-- Annual report
+- 19. Annual report
 
 [[END OF PAGE 4]]
 
@@ -111,126 +111,126 @@ Section
 
 #### PUBLIC HIGHER EDUCATION INSTITUTIONS
 
-- Establishment of public higher education institutions
+- 20. Establishment of public higher education institutions
 
-- Declaration of education institutions as public higher education institutions
+- 21. Declaration of education institutions as public higher education institutions
 
-- Consequences of declaration as public higher education institutions
+- 22. Consequences of declaration as public higher education institutions
 
-- Merger of public higher education institutions
+- 23. Merger of public higher education institutions
 
-- Merger of subdivisions of public higher education institutions
+- 24. Merger of subdivisions of public higher education institutions
 
-- Closure of public higher education institutions
+- 25. Closure of public higher education institutions
 
 ### CHAPTER 4
 
 #### GOVERNANCE OF PUBLIC HIGHER EDUCATION INSTITUTIONS
 
-- Institutional governance structures
+- 26. Institutional governance structures
 
-- Council of public higher education institution
+- 27. Council of public higher education institution
 
-- Senate of public higher education institution
+- 28. Senate of public higher education institution
 
-- Committees of council and senate
+- 29. Committees of council and senate
 
-- Principal of public higher education institution
+- 30. Principal of public higher education institution
 
-- Institutional forum
+- 31. Institutional forum
 
-- Institutional statutes and institutional rules
+- 32. Institutional statutes and institutional rules
 
-- Institutional statutes to be approved or made by Minister
+- 33. Institutional statutes to be approved or made by Minister
 
-- Appointment and conditions of service of employees of public higher education institutions
+- 34. Appointment and conditions of service of employees of public higher education institutions
 
-- Students' representative council
+- 35. Students' representative council
 
-- Disciplinary measures
+- 36. Disciplinary measures
 
-- Admission to public higher education institutions
+- 37. Admission to public higher education institutions
 
-- Co-operation between public higher education institutions
+- 38. Co-operation between public higher education institutions
 
 ### CHAPTER 5
 #### FUNDING OF PUBLIC HIGHER EDUCATION
 
-- Allocation of funds by Minister
+- 39. Allocation of funds by Minister
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- Funds of public higher education institutions
+- 40. Funds of public higher education institutions
 
-- Records to be kept and information to be furnished by council
+- 41. Records to be kept and information to be furnished by council
 
 - 41A. Appointment of administrator
 
 [S. 41A inserted by s. 6 of Act 55 of 1999.]
 
-- Action on failure of council to comply with this Act or certain conditions
+- 42. Action on failure of council to comply with this Act or certain conditions
 
 ### CHAPTER 6
 #### INDEPENDENT ASSESSOR
 
-- Appointment of independent assessment panel
+- 43. Appointment of independent assessment panel
 
-- Appointment of independent assessor
+- 44. Appointment of independent assessor
 
-- Cases where independent assessor may be appointed
+- 45. Cases where independent assessor may be appointed
 
-- Independent assessor may be appointed for two or more public higher education institutions
+- 46. Independent assessor may be appointed for two or more public higher education institutions
 
-- Functions of independent assessor
+- 47. Functions of independent assessor
 
-- Assistance to independent assessor
+- 48. Assistance to independent assessor
 
-- Remuneration and allowances
+- 49. Remuneration and allowances
 
 ### CHAPTER 7
 
 #### PRIVATE HIGHER EDUCATION INSTITUTIONS
 
-- Designation of registrar
+- 50. Designation of registrar
 
-- Registration of private higher education institutions
+- 51. Registration of private higher education institutions
 
-- Application for registration
+- 52. Application for registration
 
-- Requirements for registration
+- 53. Requirements for registration
 
-- Determination of application for registration
+- 54. Determination of application for registration
 
-- Certificate of registration
+- 55. Certificate of registration
 
-- Access to information
+- 56. Access to information
 
-- Records and audits
+- 57. Records and audits
 
-- Amendment of registration
+- 58. Amendment of registration
 
-- Requirements for amendment of registration and determination of application
+- 59. Requirements for amendment of registration and determination of application
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- Conditions for registration
+- 60. Conditions for registration
 
-- Amendment or cancellation of conditions
+- 61. Amendment or cancellation of conditions
 
-- Cancellation of registration
+- 62. Cancellation of registration
 
-- Steps before amendment or cancellation
+- 63. Steps before amendment or cancellation
 
-- Appeal to Minister
+- 64. Appeal to Minister
 
 ### CHAPTER 8
 #### GENERAL
 
-- Name change of public higher education institution
+- 65. Name change of public higher education institution
 
 - 65A. Seat of public higher education institution
 
@@ -238,33 +238,33 @@ Section
 
 - 65C. Honorary degrees
 
-- Offences
+- 66. Offences
 
-- Limitation of liability
+- 67. Limitation of liability
 
-- Delegation of powers
+- 68. Delegation of powers
 
-- Regulations
+- 69. Regulations
 
-- Application of Act when in conflict with other laws
+- 70. Application of Act when in conflict with other laws
 
 ### CHAPTER 9
 
 #### TRANSITIONAL AND OTHER ARRANGEMENTS
 
-- Existing statutes and rules of public higher education institutions
+- 71. Existing statutes and rules of public higher education institutions
 
-- Existing technikons and universities
+- 72. Existing technikons and universities
 
-- Abolition of University and Technikons Advisory Council
+- 73. Abolition of University and Technikons Advisory Council
 
-- Abolition of statutory status of Committee of University Principals, Matriculation Board and Committee of Technikon Principals
+- 74. Abolition of statutory status of Committee of University Principals, Matriculation Board and Committee of Technikon Principals
 
-- Exemption of existing private higher education institutions
+- 75. Exemption of existing private higher education institutions
 
-- Repeal of laws
+- 76. Repeal of laws
 
-- Short title
+- 77. Short title
 
 [[END OF PAGE 7]]
 
@@ -276,15 +276,51 @@ Section
 
 #### 1 Definitions
 
-In this Act, unless the context otherwise indicates'academic employee' means any person appointed to teach or to do research at a public higher education institution and any other employee designated as such by the council of that institution; 'applicant' means any person who makes any application referred to in Chapter 7; 'auditor' means any person registered as such in terms of the Public Accountants' and Auditors' Act, 1991 (Act 80 of 1991); 'CHE' means the Council on Higher Education established by section 4; 'college' means any college established or declared as a college under this Act; 'council' means the governing body of a public higher education institution; 'Department  of  Education' means  the  Government  department  responsible  for  education  at national level; 'Director-General' means the Director-General of the Department of Education; 'employee' means any person employed at a public higher education institution; 'employer' means the council of a public higher education institution; 'financial year' means a year commencing on the first day of April and ending on the thirty-first day of March of the following year; 'foreign juristic person' means a person(i) registered or established as a juristic person in terms of a law of a foreign country; and (ii) recognised or registered as an external company in terms of the Companies Act, 1973 (Act 61 of 1973); [Definition of 'foreign juristic person' inserted by s. 1 (a) of Act 54 of 2000.] 'grade 12' means the highest grade in which education is provided by a school as defined in the South African Schools Act, 1996 (Act 84 of 1996); means all learning programmes leading to qualifications higher than grade 12 or  its  equivalent  in  terms  of  the  National  Qualifications  Framework  as  contemplated  in  the  South  African Qualifications  Authority  Act,  1995  (Act  58  of  1995),  and  includes  tertiary  education  as  contemplated  in
-
-'higher education' Schedule 4 of the Constitution;
+In this Act, unless the context otherwise indicates-
+'academic employee' means any person appointed to teach or to do research at a public higher education institution and any other employee designated as such by the council of that institution;
+'applicant' means any person who makes any application referred to in Chapter 7;
+'auditor' means any person registered as such in terms of the Public Accountants' and Auditors' Act, 1991 (Act 80 of 1991);
+'CHE' means the Council on Higher Education established by section 4;
+'college' means any college established or declared as a college under this Act;
+'council' means the governing body of a public higher education institution;
+'Department of Education' means the Government department responsible for education at national level;
+'Director-General' means the Director-General of the Department of Education;
+'employee' means any person employed at a public higher education institution;
+'employer' means the council of a public higher education institution;
+'financial year' means a year commencing on the first day of April and ending on the thirty-first day of March of the following year;
+'foreign juristic person' means a person-
+(i) registered or established as a juristic person in terms of a law of a foreign country; and
+(ii) recognised or registered as an external company in terms of the Companies Act, 1973 (Act 61 of 1973);
+[Definition of 'foreign juristic person' inserted by s. 1 (a) of Act 54 of 2000.]
+'grade 12' means the highest grade in which education is provided by a school as defined in the South African Schools Act, 1996 (Act 84 of 1996);
+'higher education' means all learning programmes leading to qualifications higher than grade 12 or its equivalent in terms of the National Qualifications Framework as contemplated in the South African Qualifications Authority Act, 1995 (Act 58 of 1995), and includes tertiary education as contemplated in Schedule 4 of the Constitution;
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-'higher education institution' means any institution that provides higher education on a full-time, part-time or distance basis and which is(a) established  or  deemed  to  be  established  as  a  public  higher  education  institution under this Act; (b) declared as a public higher education institution under this Act; or (c) registered or conditionally registered as a private higher education institution under this Act; 'Higher Education Quality Committee' means the committee of the CHE established in terms of section 7 (1); 'institutional forum' means the body contemplated in section 31; 'institutional rules' means any rules made by the council of a public higher education institution under section 32; 'institutional  statute' means  any  statute  made  by  the  council  of  a  public  higher  education institution under section 32; 'local juristic person' means a person established as a juristic person in South Africa in terms of the Companies Act, 1973 (Act 61 of 1973); [Definition of 'local juristic person' inserted by s. 1 (b) of Act 54 of 2000.] 'Minister' means the Minister of Education; 'organ of state' means an organ of state as defined in section 239 of the Constitution; 'prescribed' means prescribed by regulation; 'principal' means the chief executive and accounting officer of a public higher education institution, and includes a vice-chancellor and a rector; 'private higher education  institution' means  any institution registered or conditionally registered as a private higher education institution in terms of Chapter 7; 'public higher education institution' means any higher education institution that is established, deemed to be established or declared as a public higher education institution under this Act; 'registrar' means the registrar referred to in section 50 (1); [Definition of 'registrar' substituted by s. 1 of Act 55 of 1999.] 'SAQA' means  the  South  African  Qualifications  Authority  established  by  section  3  of  the  South African Qualifications Authority Act, 1995 (Act 58 of 1995); 'senate' means the body contemplated in section 28, and includes an academic board; 'student' means any person registered as a student at a higher education institution; 'technikon' means any technikon established, deemed to be established or declared as a technikon under this Act;
+'higher education institution' means any institution that provides higher education on a full-time, part-time or distance basis and which is-
+(a) established or deemed to be established as a public higher education institution under this Act;
+(b) declared as a public higher education institution under this Act; or
+(c) registered or conditionally registered as a private higher education institution under this Act;
+'Higher Education Quality Committee' means the committee of the CHE established in terms of section 7 (1);
+'institutional forum' means the body contemplated in section 31;
+'institutional rules' means any rules made by the council of a public higher education institution under section 32;
+'institutional statute' means any statute made by the council of a public higher education institution under section 32;
+'local juristic person' means a person established as a juristic person in South Africa in terms of the Companies Act, 1973 (Act 61 of 1973);
+[Definition of 'local juristic person' inserted by s. 1 (b) of Act 54 of 2000.]
+'Minister' means the Minister of Education;
+'organ of state' means an organ of state as defined in section 239 of the Constitution;
+'prescribed' means prescribed by regulation;
+'principal' means the chief executive and accounting officer of a public higher education institution, and includes a vice-chancellor and a rector;
+'private higher education institution' means any institution registered or conditionally registered as a private higher education institution in terms of Chapter 7;
+'public higher education institution' means any higher education institution that is established, deemed to be established or declared as a public higher education institution under this Act;
+'registrar' means the registrar referred to in section 50 (1);
+[Definition of 'registrar' substituted by s. 1 of Act 55 of 1999.]
+'SAQA' means the South African Qualifications Authority established by section 3 of the South African Qualifications Authority Act, 1995 (Act 58 of 1995);
+'senate' means the body contemplated in section 28, and includes an academic board;
+'student' means any person registered as a student at a higher education institution;
+'technikon' means any technikon established, deemed to be established or declared as a technikon under this Act;
 
 [[END OF PAGE 9]]
 
@@ -322,13 +358,13 @@ This Act applies to higher education in the Republic of South Africa.
 
 (1) The Minister must determine policy on higher education after consulting the CHE.
 
-- The Minister must-
+(2) The Minister must-
 
 (a) publish such policy by notice in the Gazette; and
 
 (b) table such policy in Parliament.
 
-- The Minister may, in terms of the policy contemplated in subsection (1) and in the interest of the higher education system as a whole, determine the scope and range of operations of-
+(3) The Minister may, in terms of the policy contemplated in subsection (1) and in the interest of the higher education system as a whole, determine the scope and range of operations of-
 
 (a) public higher education institutions;
 
@@ -351,13 +387,42 @@ The Council on Higher Education (CHE) is hereby established as a juristic person
 
 #### 5 Functions of CHE
 
-(1) The CHE may advise the Minister on any aspect of higher education on its own initiative and must(a) advise the Minister on any aspect of higher education at the request of the Minister; (b) arrange and co-ordinate conferences; (c)  subject  to  section  7  (2),  through  its  permanent  committee,  the  Higher  Education  Quality Committee(i) promote quality assurance in higher education; (ii) audit the quality assurance mechanisms of higher education institutions; and (iii) accredit programmes of higher education; (d) publish information regarding developments in higher education, including an annual report on the state of higher education, on a regular basis; (e) promote the access of students to higher education institutions; and (f) perform any other function(i) conferred on or assigned to it in terms of this Act; (ii) delegated or assigned to it by the Minister by notice in the Gazette. (2) The advice contemplated in subsection (1) (a) includes advice on(a)   quality promotion and quality assurance; (b)   research; (c)   the structure of the higher education system; (d) the planning of the higher education system; (e) a mechanism for the allocation of public funds;
+(1) The CHE may advise the Minister on any aspect of higher education on its own initiative and must-
+(a) advise the Minister on any aspect of higher education at the request of the Minister;
+(b) arrange and co-ordinate conferences;
+(c) subject to section 7 (2), through its permanent committee, the Higher Education Quality Committee-
+(i) promote quality assurance in higher education;
+(ii) audit the quality assurance mechanisms of higher education institutions; and
+(iii) accredit programmes of higher education;
+(d) publish information regarding developments in higher education, including an annual report on the state of higher education, on a regular basis;
+(e) promote the access of students to higher education institutions; and
+(f) perform any other function-
+(i) conferred on or assigned to it in terms of this Act;
+(ii) delegated or assigned to it by the Minister by notice in the Gazette.
+(2) The advice contemplated in subsection (1) (a) includes advice on-
+(a) quality promotion and quality assurance;
+(b) research;
+(c) the structure of the higher education system;
+(d) the planning of the higher education system;
+(e) a mechanism for the allocation of public funds;
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-(f) student financial aid; (g) student support services; (h) governance of higher education institutions and the higher education system; and (i) language policy. (3) The Minister must(a)   consider the advice of the CHE; and (b) provide reasons in writing to the CHE if the Minister does not accept the advice. (4) The Minister may act without the advice of the CHE(a)   if the matter is urgent; or (b)   if the CHE has failed to provide the advice within a reasonable time. (5) If the Minister acts without the advice of the CHE the Minister must(a)   notify the CHE of such action; and (b)   provide reasons in writing to the CHE for such action.
+(f) student financial aid;
+(g) student support services;
+(h) governance of higher education institutions and the higher education system; and
+(i) language policy.
+(3) The Minister must-
+(a) consider the advice of the CHE; and
+(b) provide reasons in writing to the CHE if the Minister does not accept the advice.
+(4) The Minister may act without the advice of the CHE-
+(a) if the matter is urgent; or
+(b) if the CHE has failed to provide the advice within a reasonable time.
+(5) If the Minister acts without the advice of the CHE the Minister must-
+(a) notify the CHE of such action; and
+(b) provide reasons in writing to the CHE for such action.
 
 #### 6 Information to be provided to CHE
 
@@ -385,7 +450,7 @@ Every national and provincial department of state, every publicly funded science
 
 #### 8 Composition of CHE
 
-- The CHE consists of-
+(1) The CHE consists of-
 
 (a) a chairperson;
 
@@ -443,13 +508,13 @@ Every national and provincial department of state, every publicly funded science
 
 #### 9 Term of office of members
 
-- The chairperson of the CHE holds office for a period of five years.
+(1) The chairperson of the CHE holds office for a period of five years.
 
-- Every ordinary member of the CHE holds office for a period of four years.
+(2) Every ordinary member of the CHE holds office for a period of four years.
 
-- Any co-opted member of the CHE holds office for a period determined by the CHE.
+(3) Any co-opted member of the CHE holds office for a period determined by the CHE.
 
-- A member of the CHE may not serve for more than two consecutive terms of office.
+(4) A member of the CHE may not serve for more than two consecutive terms of office.
 
 #### 10 Vacation of office by members
 
@@ -521,9 +586,11 @@ A person ceases to be a member of the CHE if he or she-
 
 #### 13 Executive committee of CHE
 
-(1) The CHE must establish an executive committee and determine its functions. (2) The executive committee consists of(a) the chairperson of the CHE; and (b) four other members appointed by the CHE. (3) A decision of the executive committee must be regarded as a decision of the CHE, unless such
-
-decision is revoked at the next meeting of the CHE.
+(1) The CHE must establish an executive committee and determine its functions.
+(2) The executive committee consists of-
+(a) the chairperson of the CHE; and
+(b) four other members appointed by the CHE.
+(3) A decision of the executive committee must be regarded as a decision of the CHE, unless such decision is revoked at the next meeting of the CHE.
 
 (4) Anything done in consequence of a decision of the executive committee before its revocation is not invalid by reason only of the fact that the decision is revoked by the CHE under subsection (3).
 
@@ -553,7 +620,7 @@ decision is revoked at the next meeting of the CHE.
 
 #### 16 Funds of CHE
 
-- The funds of the CHE consist of-
+(1) The funds of the CHE consist of-
 
 (a) money appropriated by Parliament;
 
@@ -561,7 +628,7 @@ decision is revoked at the next meeting of the CHE.
 
 (c) money payable by any person, institution or organ of state for services rendered by the CHE or the Higher Education Quality Committee.
 
-- The CHE-
+(2) The CHE-
 
 (a) must in each financial year, at such time and in such manner as the Minister may determine, submit a statement of its estimated income and expenditure for the ensuing financial year to the Minister for his or her approval granted with the concurrence of the Minister of Finance;
 
@@ -569,11 +636,11 @@ decision is revoked at the next meeting of the CHE.
 
 (c) may not incur any expenditure which exceeds the total amount approved in terms of paragraphs (a) and (b).
 
-- If the Minister does not approve the CHE's statement of its estimated income and expenditure, the Minister must require the CHE to provide a revised statement within a specified period to him or her.
+(3) If the Minister does not approve the CHE's statement of its estimated income and expenditure, the Minister must require the CHE to provide a revised statement within a specified period to him or her.
 
-- The money contemplated in subsection (1) must be used by the CHE in accordance with the approved statement referred to in subsection (2), and any unexpended balance must be carried forward as a credit to the following financial year.
+(4) The money contemplated in subsection (1) must be used by the CHE in accordance with the approved statement referred to in subsection (2), and any unexpended balance must be carried forward as a credit to the following financial year.
 
-- Subject to subsection (4), the CHE may invest any portion of its funds in such manner as the Minister, with the concurrence of the Minister of Finance, may approve.
+(5) Subject to subsection (4), the CHE may invest any portion of its funds in such manner as the Minister, with the concurrence of the Minister of Finance, may approve.
 
 #### 17 Remuneration and allowances of members of CHE and committees
 
@@ -619,7 +686,7 @@ The books of account and financial statements of the CHE must be audited at the 
 
 [Sub-s. (2) deleted by s. 4 (a) of Act 23 of 2001.]
 
-- The notice contemplated in subsection (1) must determine-
+(3) The notice contemplated in subsection (1) must determine-
 
 (a) the date of establishment of the institution;
 
@@ -629,17 +696,17 @@ The books of account and financial statements of the CHE must be audited at the 
 
 (4) Every public higher education institution established, deemed to have been established or declared as a public higher education institution under this Act, is a juristic person.
 
-- Notwithstanding subsection (4), a public higher education institution may not, without the concurrence of the Minister, dispose of or alienate in any manner, any immovable property acquired with the financial assistance of the State or grant to any person any real right therein or servitude thereon.
+(5) Notwithstanding subsection (4), a public higher education institution may not, without the concurrence of the Minister, dispose of or alienate in any manner, any immovable property acquired with the financial assistance of the State or grant to any person any real right therein or servitude thereon.
 
-- The Minister must in the notice contemplated in subsection (1) establish an interim council for a period not exceeding six months, to perform the functions relating to the governance of the institution, except the making of an institutional statute.
+(6) The Minister must in the notice contemplated in subsection (1) establish an interim council for a period not exceeding six months, to perform the functions relating to the governance of the institution, except the making of an institutional statute.
 
 [Sub-s. (6) added by s. 4 (b) of Act 23 of 2001.]
 
-- The Minister may extend the period referred to in subsection (6) once for a further period not exceeding six months.
+(7) The Minister may extend the period referred to in subsection (6) once for a further period not exceeding six months.
 
 [Sub-s. (7) added by s. 4 (b) of Act 23 of 2001.]
 
-- The members of the interim council contemplated in subsection (6) are appointed by the Minister and consist of-
+(8) The members of the interim council contemplated in subsection (6) are appointed by the Minister and consist of-
 
 (a) the chairperson; and
 
@@ -647,11 +714,11 @@ The books of account and financial statements of the CHE must be audited at the 
 
 [Sub-s. (8) added by s. 4 (b) of Act 23 of 2001.]
 
-- The interim council must co- opt three members of the interim management contemplated in subsection (10) (a) and these co-opted members have no voting powers.
+(9) The interim council must co-opt three members of the interim management contemplated in subsection (10) (a) and these co-opted members have no voting powers.
 
 [Sub-s. (9) added by s. 4 (b) of Act 23 of 2001.]
 
-- Apart from the functions contemplated in subsection (6), the interim council must in particular-
+(10) Apart from the functions contemplated in subsection (6), the interim council must in particular-
 
 [[END OF PAGE 19]]
 
@@ -665,19 +732,19 @@ The books of account and financial statements of the CHE must be audited at the 
 
 [Sub-s. (10) added by s. 4 (b) of Act 23 of 2001.]
 
-- Any decision of the interim council which may affect the right of any structure of the public higher education institution, may only be taken after consultation with such structure.
+(11) Any decision of the interim council which may affect the right of any structure of the public higher education institution, may only be taken after consultation with such structure.
 
 [Sub-s. (11) added by s. 4 (b) of Act 23 of 2001.]
 
 #### 21 Declaration of education institutions as public higher education institutions
 
-- The Minister may, after consulting the CHE and by notice in the Gazette, declare any education institution providing higher education as-
+(1) The Minister may, after consulting the CHE and by notice in the Gazette, declare any education institution providing higher education as-
 
 (a) a university, technikon or college; or
 
 (b) a subdivision of a university, technikon or college.
 
-- The notice contemplated in subsection (1) must determine-
+(2) The notice contemplated in subsection (1) must determine-
 
 (a) the date on which the education institution becomes a university, technikon or college or a subdivision of a university, technikon or college, as the case may be;
 
@@ -685,7 +752,7 @@ The books of account and financial statements of the CHE must be audited at the 
 
 (c) the physical location and the official address of the university, technikon or college.
 
-- The Minister may act under subsection (1) only-
+(3) The Minister may act under subsection (1) only-
 
 (a) after consulting-
 
@@ -713,9 +780,9 @@ The books of account and financial statements of the CHE must be audited at the 
 
 [Sub.s (3A) inserted by s. 5 of Act 23 of 2001.]
 
-- Nothing contained in this Act or any other law may be regarded as obliging the Minister to declare an education institution to be a public higher education institution in terms of this section.
+(4) Nothing contained in this Act or any other law may be regarded as obliging the Minister to declare an education institution to be a public higher education institution in terms of this section.
 
-- An education institution may only be declared a public higher education institution after the employer has complied with its obligations in terms of the applicable labour law.
+(5) An education institution may only be declared a public higher education institution after the employer has complied with its obligations in terms of the applicable labour law.
 
 #### 22 Consequences of declaration as public higher education institutions
 
@@ -727,15 +794,15 @@ The books of account and financial statements of the CHE must be audited at the 
 
 (c) any agreement lawfully entered into by or on behalf of the education institution is deemed to have been concluded by the public higher education institution.
 
-- Immovable property devolving upon the public higher education institution in terms of subsection (1) (b) must, subject to the concurrence of the Minister of Finance, be transferred to such institution without payment of transfer duty, stamp duty or other money or costs, but subject to any existing right, encumbrance, duty or trust on or over that property.
+(2) Immovable property devolving upon the public higher education institution in terms of subsection (1) (b) must, subject to the concurrence of the Minister of Finance, be transferred to such institution without payment of transfer duty, stamp duty or other money or costs, but subject to any existing right, encumbrance, duty or trust on or over that property.
 
-- The officer in charge of a deeds office or other office where the immovable property contemplated in subsection (2) is registered must, on submission of the title deed and on application by the public higher education institution, make such endorsements on that title deed and such entries in the registers as may be required to register the transfer concerned.
+(3) The officer in charge of a deeds office or other office where the immovable property contemplated in subsection (2) is registered must, on submission of the title deed and on application by the public higher education institution, make such endorsements on that title deed and such entries in the registers as may be required to register the transfer concerned.
 
-- The declaration of an education institution as a public higher education institution under section 21 (1) does not affect anything lawfully done by the education institution prior to the declaration.
+(4) The declaration of an education institution as a public higher education institution under section 21 (1) does not affect anything lawfully done by the education institution prior to the declaration.
 
 (5) All funds which, immediately prior to the date determined in terms of section 21 (2) (a), were vested in the education institution by virtue of a trust, donation or bequest must be applied by the public higher education institution in accordance with the trust, donation or bequest, as the case may be.
 
-- Notwithstanding subsection (2), any fees charged by the Registrar of Deeds resulting from such transfer must be paid in full or in part from funds appropriated by Parliament for that purpose.
+(6) Notwithstanding subsection (2), any fees charged by the Registrar of Deeds resulting from such transfer must be paid in full or in part from funds appropriated by Parliament for that purpose.
 
 #### 23 Merger of public higher education institutions
 
@@ -743,7 +810,26 @@ The books of account and financial statements of the CHE must be audited at the 
 
 [[START OF PAGE 22]]
 
-- Subject to subsection (2), the Minister may, after consulting the CHE and by notice in the Gazette, merge two or more public higher education institutions into a single public higher education institution. (2) The Minister must(a) give written notice of the intention to merge to the public higher education institutions concerned; (b) publish a notice giving the reasons for the proposed merger in at least one national and one regional newspaper circulating in the area in which the public higher education institutions concerned are situated; (c) give the councils of the public higher education institutions concerned and any other interested persons an opportunity to make representations within at least 90 days of the date of the notice referred to in paragraph (b); (d) consider such representations; and (e) be satisfied that the employers at the public higher education institutions concerned have complied with their obligations in terms of the applicable labour law. (3) The single public higher education institution contemplated in subsection (1) is deemed to be a public higher education institution established under this Act. (4) Section 22 (1) (b) to (6), with the changes required by the context, applies to a merger referred to in subsection (1). (5) he Minister must in the notice contemplated in subsection (1) establish an interim council for a period not exceeding six months, to perform the functions relating to the governance of the single public higher education institution contemplated in subsection (1), except the making of an institutional statute. [Sub-s. (5) added by s. 6 of Act 23 of 2001.] (6) The Minister may extend the period referred to in subsection (5) once for a further period not exceeding six months. [Sub-s. (6) added by s. 6 of Act 23 of 2001.] (7) The members of the interim council contemplated in subsection (5) are appointed by the Minister and consist of(a) the chairperson; and (b) four other members. [Sub-s. (7) added by s. 6 of Act 23 of 2001.] (8) The four members contemplated in subsection (7) (b) (a) must be appointed by the Minister from nominations received from the public higher education institutions concerned; and (b) may not include any member of staff, or student, from the public higher education institutions concerned.
+(1) Subject to subsection (2), the Minister may, after consulting the CHE and by notice in the Gazette, merge two or more public higher education institutions into a single public higher education institution.
+(2) The Minister must-
+(a) give written notice of the intention to merge to the public higher education institutions concerned;
+(b) publish a notice giving the reasons for the proposed merger in at least one national and one regional newspaper circulating in the area in which the public higher education institutions concerned are situated;
+(c) give the councils of the public higher education institutions concerned and any other interested persons an opportunity to make representations within at least 90 days of the date of the notice referred to in paragraph (b);
+(d) consider such representations; and
+(e) be satisfied that the employers at the public higher education institutions concerned have complied with their obligations in terms of the applicable labour law.
+(3) The single public higher education institution contemplated in subsection (1) is deemed to be a public higher education institution established under this Act.
+(4) Section 22 (1) (b) to (6), with the changes required by the context, applies to a merger referred to in subsection (1).
+(5) The Minister must in the notice contemplated in subsection (1) establish an interim council for a period not exceeding six months, to perform the functions relating to the governance of the single public higher education institution contemplated in subsection (1), except the making of an institutional statute.
+[Sub-s. (5) added by s. 6 of Act 23 of 2001.]
+(6) The Minister may extend the period referred to in subsection (5) once for a further period not exceeding six months.
+[Sub-s. (6) added by s. 6 of Act 23 of 2001.]
+(7) The members of the interim council contemplated in subsection (5) are appointed by the Minister and consist of-
+(a) the chairperson; and
+(b) four other members.
+[Sub-s. (7) added by s. 6 of Act 23 of 2001.]
+(8) The four members contemplated in subsection (7) (b) -
+(a) must be appointed by the Minister from nominations received from the public higher education institutions concerned; and
+(b) may not include any member of staff, or student, from the public higher education institutions concerned.
 
 [Sub-s. (8) added by s. 6 of Act 23 of 2001.]
 
@@ -751,11 +837,11 @@ The books of account and financial statements of the CHE must be audited at the 
 
 [[START OF PAGE 23]]
 
-- The interim council must co-opt three members of the interim management contemplated in subsection (10) (a) and these members have no voting powers.
+(9) The interim council must co-opt three members of the interim management contemplated in subsection (10) (a) and these members have no voting powers.
 
 [Sub-s. (9) added by s. 6 of Act 23 of 2001.]
 
-- Apart from the functions contemplated in subsection (5) the interim council must in particular-
+(10) Apart from the functions contemplated in subsection (5) the interim council must in particular-
 
 (a) appoint an interim body to manage the day-to-day activities of the institution;
 
@@ -765,25 +851,25 @@ The books of account and financial statements of the CHE must be audited at the 
 
 [Sub-s. (10) added by s. 6 of Act 23 of 2001.]
 
-- Any decision of the interim council which may affect the right of any structure of the public higher education institution, may only be taken after consultation with such structure.
+(11) Any decision of the interim council which may affect the right of any structure of the public higher education institution, may only be taken after consultation with such structure.
 
 [Sub-s. (11) added by s. 6 of Act 23 of 2001.]
 
 #### 24 Merger of subdivisions of public higher education institutions
 
-- The Minister may, after consulting the CHE and by notice in the Gazette, merge a subdivision of a public higher education institution with another public higher education institution.
+(1) The Minister may, after consulting the CHE and by notice in the Gazette, merge a subdivision of a public higher education institution with another public higher education institution.
 
-- The assets, liabilities, rights and obligations of the subdivision concerned devolve upon the public higher education institution with which the subdivision has merged in a manner agreed by the councils of the public higher education institutions concerned or failing such agreement, in a manner determined by the Minister after consulting such councils.
+(2) The assets, liabilities, rights and obligations of the subdivision concerned devolve upon the public higher education institution with which the subdivision has merged in a manner agreed by the councils of the public higher education institutions concerned or failing such agreement, in a manner determined by the Minister after consulting such councils.
 
-- Sections 22 (2) to (6) and 23 (2), with the changes required by the context, apply to a merger referred to in subsection (1).
+(3) Sections 22 (2) to (6) and 23 (2), with the changes required by the context, apply to a merger referred to in subsection (1).
 
 #### 25 Closure of public higher education institutions
 
-- The Minister may, after consulting the CHE and by notice in the Gazette, close a public higher education institution.
+(1) The Minister may, after consulting the CHE and by notice in the Gazette, close a public higher education institution.
 
-- If a public higher education institution is closed under subsection (1), all assets and liabilities of such public higher education institution must after closure be dealt with according to law by the Minister and any assets remaining after payment of all liabilities vest in the Minister.
+(2) If a public higher education institution is closed under subsection (1), all assets and liabilities of such public higher education institution must after closure be dealt with according to law by the Minister and any assets remaining after payment of all liabilities vest in the Minister.
 
-- Sections 22 (2) to (6) and 23 (2), with the changes required by the context, apply to a closure referred to in subsection (1).
+(3) Sections 22 (2) to (6) and 23 (2), with the changes required by the context, apply to a closure referred to in subsection (1).
 
 ## CHAPTER 4
 
@@ -795,9 +881,9 @@ The books of account and financial statements of the CHE must be audited at the 
 
 #### 26 Institutional governance structures
 
-- Every public higher education institution may appoint a chancellor as its titular head.
+(1) Every public higher education institution may appoint a chancellor as its titular head.
 
-- Every public higher education institution must establish the following structures and offices:
+(2) Every public higher education institution must establish the following structures and offices:
 
 (a) A council;
 
@@ -813,11 +899,11 @@ The books of account and financial statements of the CHE must be audited at the 
 
 (g) such other structures and offices as may be determined by the institutional statute.
 
-- Subject to subsection (4), a structure referred to in subsection (2) (a), (b), (e), (f) and (g) must elect a chairperson, vice-chairperson and other office-bearers from among its members in the manner determined by the institutional statute.
+(3) Subject to subsection (4), a structure referred to in subsection (2) (a), (b), (e), (f) and (g) must elect a chairperson, vice-chairperson and other office-bearers from among its members in the manner determined by the institutional statute.
 
 [Sub-s. (3) substituted by s. 3 (a) of Act 55 of 1999 and by s. 7 of Act 23 of 2001.]
 
-- Notwithstanding the provisions of subsection (3)-
+(4) Notwithstanding the provisions of subsection (3)-
 
 (a) the principal is the chairperson of the senate;
 
@@ -829,21 +915,36 @@ The books of account and financial statements of the CHE must be audited at the 
 
 #### 27 Council of public higher education institution
 
-- The council of a public higher education institution must govern the public higher education institution, subject to this Act and the institutional statute.
+(1) The council of a public higher education institution must govern the public higher education institution, subject to this Act and the institutional statute.
 
 [Sub-s. (1) substituted by s. 8 (a) of Act 23 of 2001.]
 
-- Subject to the policy determined by the Minister, the council, with the concurrence of the senate, must determine the language policy of a public higher education institution and must publish and make it available on request.
+(2) Subject to the policy determined by the Minister, the council, with the concurrence of the senate, must determine the language policy of a public higher education institution and must publish and make it available on request.
 
-- The council, after consultation with the students' representative council, must provide for a suitable structure to advise on the policy for student support services within the public higher education institution.
+(3) The council, after consultation with the students' representative council, must provide for a suitable structure to advise on the policy for student support services within the public higher education institution.
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-- The council of a public higher education institution must consist of(a) the principal; (b) the vice-principal or vice-principals; (c) not more than five persons appointed by the Minister; (d) members of the senate elected by the senate; (e) academic employees of the public higher education institution, elected by such employees; (f) students of the public higher education institution, elected by the students' representative council; (g) employees other than academic employees, elected by such employees of the public higher education institution; and (h) such additional persons as may be determined by the institutional statute. (5) The number of persons contemplated in subsection (4) (b), (d), (e), (f), (g) and (h) and the manner in which they are elected, where applicable, must be determined by the institutional statute or an Act of Parliament. (6) At least 60 per cent of the members of a council must be persons who are not employed by, or students of, the public higher education institution concerned. (7) The members of a council(a) must be persons with knowledge and experience relevant to the objects and governance of the public higher education institution concerned; and (b) must participate in the deliberations of the council in the best interests of the public higher education institution concerned. (8) If 75 per cent or more of the members of the council of a public higher education institution resign at a meeting of council, it is deemed that the council has resigned. [Sub-s. (8) added by s. 8 (b) of Act 23 of 2001.]
+(4) The council of a public higher education institution must consist of-
+(a) the principal;
+(b) the vice-principal or vice-principals;
+(c) not more than five persons appointed by the Minister;
+(d) members of the senate elected by the senate;
+(e) academic employees of the public higher education institution, elected by such employees;
+(f) students of the public higher education institution, elected by the students' representative council;
+(g) employees other than academic employees, elected by such employees of the public higher education institution; and
+(h) such additional persons as may be determined by the institutional statute.
+(5) The number of persons contemplated in subsection (4) (b), (d), (e), (f), (g) and (h) and the manner in which they are elected, where applicable, must be determined by the institutional statute or an Act of Parliament.
+(6) At least 60 per cent of the members of a council must be persons who are not employed by, or students of, the public higher education institution concerned.
+(7) The members of a council-
+(a) must be persons with knowledge and experience relevant to the objects and governance of the public higher education institution concerned; and
+(b) must participate in the deliberations of the council in the best interests of the public higher education institution concerned.
+(8) If 75 per cent or more of the members of the council of a public higher education institution resign at a meeting of council, it is deemed that the council has resigned.
+[Sub-s. (8) added by s. 8 (b) of Act 23 of 2001.]
 
-- If a council resigns as contemplated in subsection (8) a new council must be constituted in terms of the institutional statute of the public higher education institution.
+(9) If a council resigns as contemplated in subsection (8) a new council must be constituted in terms of the institutional statute of the public higher education institution.
 
 [Sub-s. (9) added by s. 8 (b) of Act 23 of 2001.]
 
@@ -915,7 +1016,7 @@ The principal of a public higher education institution is responsible for the ma
 
 (b) perform such functions as determined by the council.
 
-- The institutional forum of a public higher education institution must consist of representatives of-
+(2) The institutional forum of a public higher education institution must consist of representatives of-
 
 (a) the management, as determined by the institutional statute;
 
@@ -939,7 +1040,11 @@ The principal of a public higher education institution is responsible for the ma
 
 #### 32 Institutional statutes and institutional rules
 
-(1) The council of a public higher education institution may make(a) an institutional statute, subject to section 33, to give effect to any matter not expressly prescribed by this Act; and [Para. (a) substituted by s. 12 of Act 23 of 2001.] (b) institutional rules to give effect to the institutional statute. (2) An institutional statute or institutional rules in connection with-
+(1) The council of a public higher education institution may make-
+(a) an institutional statute, subject to section 33, to give effect to any matter not expressly prescribed by this Act; and
+[Para. (a) substituted by s. 12 of Act 23 of 2001.]
+(b) institutional rules to give effect to the institutional statute.
+(2) An institutional statute or institutional rules in connection with-
 
 (a) the composition of the senate may not be amended or repealed except after consultation with such senate;
 
@@ -955,17 +1060,17 @@ The principal of a public higher education institution is responsible for the ma
 
 #### 33 Institutional statutes to be approved or made by Minister
 
-- Any institutional statute must be submitted to the Minister for approval, and if so approved must be published by notice in the Gazette and comes into operation on the date mentioned in such notice.
+(1) Any institutional statute must be submitted to the Minister for approval, and if so approved must be published by notice in the Gazette and comes into operation on the date mentioned in such notice.
 
-- The Minister must table any institutional statute made under section 32 in Parliament as soon as reasonably practicable after it has been published as contemplated in subsection (1).
+(2) The Minister must table any institutional statute made under section 32 in Parliament as soon as reasonably practicable after it has been published as contemplated in subsection (1).
 
 (3) The Minister must make a standard institutional statute, which applies to every public higher education institution that has not made an institutional statute until such time as the council of such public higher education institution makes its own institutional statute under section 32.
 
 #### 34 Appointment and conditions of service of employees of public higher education institutions
 
-- The council of a public higher education institution must appoint the employees of the public higher education institution.
+(1) The council of a public higher education institution must appoint the employees of the public higher education institution.
 
-- Notwithstanding subsection (1) the academic employees of the public higher education institution must be appointed by the council after consultation with the senate.
+(2) Notwithstanding subsection (1) the academic employees of the public higher education institution must be appointed by the council after consultation with the senate.
 
 (3) The council must determine the conditions of service, disciplinary provisions, privileges and functions of the employees of the public higher education institution, subject to the applicable labour law.
 
@@ -987,9 +1092,14 @@ Every student at a public higher institution is subject to such disciplinary mea
 
 #### 37 Admission to public higher education institutions
 
-- Subject to this Act, the council of a public higher education institution, after consulting the senate of the public higher education institution, determines the admission policy of the public higher education institution. (2) The council must publish the admission policy and make it available on request. (3) The admission policy of a public higher education institution must provide appropriate measures for the redress of past inequalities and may not unfairly discriminate in any way. (4) Subject to this Act, the council may, with the approval of the senate(a) determine entrance requirements in respect of particular higher education programmes; (b) determine the number of students who may be admitted for a particular higher education programme and the manner of their selection; (c) determine the minimum requirements for readmission to study at the public higher education institution concerned; and refuse readmission to a student who fails to satisfy such minimum requirements for
-
-(d) readmission.
+(1) Subject to this Act, the council of a public higher education institution, after consulting the senate of the public higher education institution, determines the admission policy of the public higher education institution.
+(2) The council must publish the admission policy and make it available on request.
+(3) The admission policy of a public higher education institution must provide appropriate measures for the redress of past inequalities and may not unfairly discriminate in any way.
+(4) Subject to this Act, the council may, with the approval of the senate-
+(a) determine entrance requirements in respect of particular higher education programmes;
+(b) determine the number of students who may be admitted for a particular higher education programme and the manner of their selection;
+(c) determine the minimum requirements for readmission to study at the public higher education institution concerned; and
+(d) refuse readmission to a student who fails to satisfy such minimum requirements for readmission.
 
 #### 38 Co-operation between public higher education institutions
 
@@ -1013,19 +1123,19 @@ facilitate the co-operation contemplated in subsection (1).
 
 [[START OF PAGE 30]]
 
-- The Minister may, subject to the policy determined in terms of subsection (1), impose-
+(3) The Minister may, subject to the policy determined in terms of subsection (1), impose-
 
 (a) any reasonable condition in respect of an allocation contemplated in subsection (2); and
 
 (b) different conditions in respect of different public higher education institutions, different instructional programmes or different allocations, if there is a reasonable basis for such differentiation.
 
-- The policy referred to in subsection (1) may discriminate in a fair manner between students who are not citizens or permanent residents of the Republic and students who are citizens or permanent residents of the Republic.
+(4) The policy referred to in subsection (1) may discriminate in a fair manner between students who are not citizens or permanent residents of the Republic and students who are citizens or permanent residents of the Republic.
 
 [Sub-s. (4) added by s. 4 of Act 55 of 1999.]
 
 #### 40 Funds of public higher education institutions
 
-- The funds of a public higher education institution consist of-
+(1) The funds of a public higher education institution consist of-
 
 (a) funds allocated by the Minister in terms of section 39;
 
@@ -1049,7 +1159,7 @@ facilitate the co-operation contemplated in subsection (1).
 
 (i) other receipts from whatever source.
 
-(a) Subject to paragraph (b), a public higher education institution may only with a resolution of its council, not taking into account any vacancy that may exist, enter into a loan or an overdraft agreement.
+(2) (a) Subject to paragraph (b), a public higher education institution may only with a resolution of its council, not taking into account any vacancy that may exist, enter into a loan or an overdraft agreement.
 
 (b) An agreement contemplated in paragraph (a) must be approved by the Minister if the agreement, or the sum of loans and overdrafts to be raised in any financial year, exceeds-
 
@@ -1091,7 +1201,7 @@ facilitate the co-operation contemplated in subsection (1).
 
 (c) a balance sheet and cash flow statement.
 
-- The council of a public higher education institution must provide the Minister with such information, in such format, as the Minister may reasonably require.
+(3) The council of a public higher education institution must provide the Minister with such information, in such format, as the Minister may reasonably require.
 
 [Sub-s. (3) substituted by s. 5 of Act 54 of 2000.]
 
@@ -1115,7 +1225,7 @@ facilitate the co-operation contemplated in subsection (1).
 
 (2) If such council thereafter fails to comply with the provision or condition, the Minister may withhold payment of any commensurate portion of any allocation appropriated by Parliament in respect of the public higher education institution concerned.
 
-- Before taking action under subsection (2), the Minister must-
+(3) Before taking action under subsection (2), the Minister must-
 
 (a) give notice to the council of the public higher education institution concerned of the intention so to act;
 
@@ -1123,7 +1233,7 @@ facilitate the co-operation contemplated in subsection (1).
 
 (c) consider such representations.
 
-- If the Minister acts under subsection (2), a report regarding such action must be tabled in Parliament by the Minister as soon as reasonably practicable after such action.
+(4) If the Minister acts under subsection (2), a report regarding such action must be tabled in Parliament by the Minister as soon as reasonably practicable after such action.
 
 ## CHAPTER 6
 
@@ -1131,7 +1241,7 @@ facilitate the co-operation contemplated in subsection (1).
 
 #### 43 Appointment of independent assessment panel
 
-- The CHE must appoint an independent assessment panel consisting of at least three suitable persons who-
+(1) The CHE must appoint an independent assessment panel consisting of at least three suitable persons who-
 
 (a) have knowledge and experience of higher education;
 
@@ -1139,7 +1249,7 @@ facilitate the co-operation contemplated in subsection (1).
 
 (c) comply with any other requirements determined by the CHE.
 
-- A member of the panel contemplated in subsection (1) is appointed for a period of not more than two years, and may be reappointed.
+(2) A member of the panel contemplated in subsection (1) is appointed for a period of not more than two years, and may be reappointed.
 
 [[END OF PAGE 32]]
 
@@ -1205,15 +1315,15 @@ The Minister, with the concurrence of the Minister of Finance, may determine the
 
 #### 50 Designation of registrar
 
-- The Director-General is the registrar of private higher education institutions.
+(1) The Director-General is the registrar of private higher education institutions.
 
 [Sub-s. (1) substituted by s. 7 of Act 55 of 1999.]
 
-- The Minister may designate any other employee of the Department of Education to assist the registrar in the performance of his or her functions in terms of this Act.
+(2) The Minister may designate any other employee of the Department of Education to assist the registrar in the performance of his or her functions in terms of this Act.
 
 [Sub-s. (2) substituted by s. 7 of Act 55 of 1999.]
 
-- The registrar may delegate any of his or her functions in terms of this Act to an employee contemplated in subsection (2).
+(3) The registrar may delegate any of his or her functions in terms of this Act to an employee contemplated in subsection (2).
 
 #### 51 Registration of private higher education institutions
 
@@ -1235,7 +1345,7 @@ An application for registration as a private higher education institution must b
 
 #### 53 Requirements for registration
 
-- The registrar may register an applicant as a private higher education institution if the registrar has reason to believe that the applicant-
+(1) The registrar may register an applicant as a private higher education institution if the registrar has reason to believe that the applicant-
 
 (a) is financially capable of satisfying its obligations to prospective students;
 
@@ -1255,11 +1365,11 @@ An application for registration as a private higher education institution must b
 
 [Sub-s. (1) amended by s. 7 (a) of Act 54 of 2000.]
 
-- The registrar may require further information, particulars and documents in support of any application for registration.
+(2) The registrar may require further information, particulars and documents in support of any application for registration.
 
 #### 54 Determination of application for registration
 
-- The registrar-
+(1) The registrar-
 
 (a) must consider any application for registration as a private higher education institution and any further information, particulars or documents provided by the applicant;
 
@@ -1269,18 +1379,39 @@ An application for registration as a private higher education institution must b
 
 [Sub-s. (1) substituted by s. 8 (a) of Act 54 of 2000.]
 
-- If the registrar decides-
+(2) If the registrar decides-
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
 
-(a) to grant the application, the registrar must(i) enter the applicant's name in the appropriate register of private higher education institutions; (ii) issue a certificate of registration, stating the terms of such registration; (iii) provide the certificate to the applicant; and (iv) as soon as practicable after the decision, publish the certificate of registration in the Gazette; or (b) not to grant the application, the registrar must advise the applicant in writing of the decision and provide the applicant with written reasons for his or her decision. (3) Notwithstanding subsection (1), the registrar may provisionally register an applicant, other than a foreign juristic person, who does not fulfil the requirements for registration contemplated in section 53 if the registrar believes that the applicant will be able to fulfill the relevant requirements within a reasonable period. [Sub-s. (3) substituted by s. 8 (b) of Act 54 of 2000 and by s. 17 (a) of Act 23 of 2001.] (4) If the registrar provisionally registers an applicant under subsection (3), the registrar must(a) determine the period within which the applicant must satisfy the requirements for registration; (b) enter the applicant's name in the appropriate register of private higher education institutions; (c) issue a certificate of provisional registration, stating the terms and the duration of such registration; (d) provide the certificate of provisional registration to the applicant; and (e) as soon as practicable after the decision, publish the certificate of provisional registration in the Gazette. [Sub-s. (4) substituted by s. 17 (a) of Act 23 of 2001.] (5) The registrar may on good cause shown extend the period referred to in subsection (4) (a). (6) If, on the expiry of the period referred to in subsection (4) (a) or any extension thereof, the applicant(a) satisfies the requirements for registration specified by the registrar, the registrar must register the applicant in accordance with subsection (2) (a); or (b) fails to satisfy the requirements for registration specified by the registrar, the applicant's provisional registration lapses. [Para. (b) substituted by s. 17 (b) of Act 23 of 2001.] (7) No independent school as defined in the South African Schools Act, 1996 (Act 84 of 1996), or other private education institution may call itself a university or a technikon or confer a professorship or an honorary degree or use the title of rector, vice-chancellor or chancellor, unless it is registered as a private higher education institution in terms of Chapter 7 and the word 'university' or 'technikon' appears in its name.
+(a) to grant the application, the registrar must-
+(i) enter the applicant's name in the appropriate register of private higher education institutions;
+(ii) issue a certificate of registration, stating the terms of such registration;
+(iii) provide the certificate to the applicant; and
+(iv) as soon as practicable after the decision, publish the certificate of registration in the Gazette; or
+(b) not to grant the application, the registrar must advise the applicant in writing of the decision and provide the applicant with written reasons for his or her decision.
+(3) Notwithstanding subsection (1), the registrar may provisionally register an applicant, other than a foreign juristic person, who does not fulfil the requirements for registration contemplated in section 53 if the registrar believes that the applicant will be able to fulfill the relevant requirements within a reasonable period.
+[Sub-s. (3) substituted by s. 8 (b) of Act 54 of 2000 and by s. 17 (a) of Act 23 of 2001.]
+(4) If the registrar provisionally registers an applicant under subsection (3), the registrar must-
+(a) determine the period within which the applicant must satisfy the requirements for registration;
+(b) enter the applicant's name in the appropriate register of private higher education institutions;
+(c) issue a certificate of provisional registration, stating the terms and the duration of such registration;
+(d) provide the certificate of provisional registration to the applicant; and
+(e) as soon as practicable after the decision, publish the certificate of provisional registration in the Gazette.
+[Sub-s. (4) substituted by s. 17 (a) of Act 23 of 2001.]
+(5) The registrar may on good cause shown extend the period referred to in subsection (4) (a).
+(6) If, on the expiry of the period referred to in subsection (4) (a) or any extension thereof, the applicant-
+(a) satisfies the requirements for registration specified by the registrar, the registrar must register the applicant in accordance with subsection (2) (a); or
+(b) fails to satisfy the requirements for registration specified by the registrar, the applicant's provisional registration lapses.
+[Para. (b) substituted by s. 17 (b) of Act 23 of 2001.]
+(7) No independent school as defined in the South African Schools Act, 1996 (Act 84 of 1996), or other private education institution may call itself a university or a technikon or confer a professorship or an honorary degree or use the title of rector, vice-chancellor or chancellor, unless it is registered as a private
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
+higher education institution in terms of Chapter 7 and the word 'university' or 'technikon' appears in its name.
 [Sub-s. (7) added by s. 8 (c) of Act 54 of 2000.]
 
 #### 55 Certificate of registration
@@ -1297,7 +1428,7 @@ An application for registration as a private higher education institution must b
 
 #### 56 Access to information
 
-- Any person may inspect-
+(1) Any person may inspect-
 
 (a) the register of private higher education institutions; and
 
@@ -1307,7 +1438,7 @@ An application for registration as a private higher education institution must b
 
 #### 57 Records and audits
 
-- Every private higher education institution must, in accordance with generally accepted accounting practice, principles and procedures-
+(1) Every private higher education institution must, in accordance with generally accepted accounting practice, principles and procedures-
 
 (a) keep books and records of income, expenditure, assets and liabilities;
 
@@ -1319,15 +1450,15 @@ An application for registration as a private higher education institution must b
 
 (iii) any other information the registrar may reasonably require.
 
-- Every private higher education institution must, within the period determined by the registrar-
+(2) Every private higher education institution must, within the period determined by the registrar-
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
 
-(a) ensure an annual audit of its books, records of account and financial statements by an auditor, who must conduct the audit in accordance with generally accepted auditing standards; (b) provide to the registrar a certified copy of the auditor's report in respect of the financial statements referred to in subsection (1); and provide to the registrar any additional information, particulars or documents in the manner
-
-(c) determined by the registrar.
+(a) ensure an annual audit of its books, records of account and financial statements by an auditor, who must conduct the audit in accordance with generally accepted auditing standards;
+(b) provide to the registrar a certified copy of the auditor's report in respect of the financial statements referred to in subsection (1); and
+(c) provide to the registrar any additional information, particulars or documents in the manner determined by the registrar.
 
 #### 58 Amendment of registration
 
@@ -1426,18 +1557,17 @@ The registrar may not act under section 61 or 62 unless the registrar-
 
 #### 65A Seat of public higher education institution
 
-(1) The seat of a public higher education institution is the physical location of the institution, as contemplated in sections 20 (3) (c) and 21 (2) (c), where an institution carries out its teaching activities and
-
-must be defined in the institutional statute. (2) Subject to the approval of the Minister, a public higher education institution may conduct its teaching activities beyond the seat contemplated in subsection (1). higher education institution or at a place where the teaching and research activities of another public higher
-
-(3) If the teaching activities contemplated in subsection (2) fall within the seat of another public education institution are conducted, the Minister's approval is subject to consultation with such other public higher education institution.
+(1) The seat of a public higher education institution is the physical location of the institution, as contemplated in sections 20 (3) (c) and 21 (2) (c), where an institution carries out its teaching activities and must be defined in the institutional statute.
+(2) Subject to the approval of the Minister, a public higher education institution may conduct its teaching activities beyond the seat contemplated in subsection (1).
+(3) If the teaching activities contemplated in subsection (2) fall within the seat of another public higher education institution or at a place where the teaching and research activities of another public higher education institution are conducted, the Minister's approval is subject to consultation with such other public higher education institution.
 
 [S. 65A added by s. 24 of Act 23 of 2001.]
 
 #### 65B Degrees, diplomas and certificates
 
-(1) A public higher education institution may, subject to its institutional statute and this Act, award diplomas and certificates and confer degrees. (2) Save as is provided in section 65C, no diploma or certificate may be awarded and no degree may be conferred by a public higher education institution upon any person who has not(a) been registered as a student of such public higher education institution for the period prescribed by the senate of such institution; and
-
+(1) A public higher education institution may, subject to its institutional statute and this Act, award diplomas and certificates and confer degrees.
+(2) Save as is provided in section 65C, no diploma or certificate may be awarded and no degree may be conferred by a public higher education institution upon any person who has not-
+(a) been registered as a student of such public higher education institution for the period prescribed by the senate of such institution; and
 (b) completed the work and attained the standard of proficiency determined through assessment as required by the senate of the public higher education institution, subject to section 7.
 
 [[END OF PAGE 40]]
@@ -1456,7 +1586,7 @@ must be defined in the institutional statute. (2) Subject to the approval of the
 
 #### 66 Offences
 
-- Any person other than a higher education institution, who, without the authority of a higher education institution-
+(1) Any person other than a higher education institution, who, without the authority of a higher education institution-
 
 (a) offers or pretends to offer any higher education programme or part thereof;
 
@@ -1468,7 +1598,7 @@ is guilty of an offence and is liable on conviction to a sentence which may be i
 
 (2) Any person who pretends that a qualification has been awarded to him or her by a higher education institution, whereas in fact no such qualification has been so awarded, is guilty of an offence and is liable on conviction to a sentence which may be imposed for fraud.
 
-- Any person who contravenes section 51 (1) (a), 54 (7) or 55 (2) is guilty of an offence and is liable on conviction to a fine or to imprisonment not exceeding five years or to both such fine and imprisonment.
+(3) Any person who contravenes section 51 (1) (a), 54 (7) or 55 (2) is guilty of an offence and is liable on conviction to a fine or to imprisonment not exceeding five years or to both such fine and imprisonment.
 
 [Sub-s. (3) substituted by s. 10 of Act 54 of 2000.]
 
@@ -1484,7 +1614,7 @@ The State, the CHE and any person appointed in terms of this Act are not liable 
 
 [[START OF PAGE 42]]
 
-- The Minister may, on such conditions as he or she may determine, delegate any of his or her powers under this Act, except the power to make regulations, and assign any of his or her duties in terms of this Act, to-
+(1) The Minister may, on such conditions as he or she may determine, delegate any of his or her powers under this Act, except the power to make regulations, and assign any of his or her duties in terms of this Act, to-
 
 (a) the council of a public higher education institution;
 
@@ -1494,7 +1624,7 @@ The State, the CHE and any person appointed in terms of this Act are not liable 
 
 (d) any organ of state.
 
-- The council of a public higher education institution may, on such conditions as it may determine, delegate any of its powers under this Act or delegated to it in terms of subsection (1), except the power to-
+(2) The council of a public higher education institution may, on such conditions as it may determine, delegate any of its powers under this Act or delegated to it in terms of subsection (1), except the power to-
 
 (a) make an institutional statute;
 
@@ -1506,11 +1636,11 @@ and assign any of its duties in terms of this Act or assigned to it in terms of 
 
 [Sub-s. (2) substituted by s. 11 of Act 54 of 2000.]
 
-- The principal of a public higher education institution may, on such conditions as he or she may determine, delegate any of his or her powers under this Act and assign any of his or her duties in terms of this Act to any other employee of the public higher education institution concerned.
+(3) The principal of a public higher education institution may, on such conditions as he or she may determine, delegate any of his or her powers under this Act and assign any of his or her duties in terms of this Act to any other employee of the public higher education institution concerned.
 
 [Sub-s. (3) added by s. 9 of Act 55 of 1999.]
 
-- The CHE may, on such conditions as it may determine, delegate any of its powers under this Act and assign any of its duties in terms of this Act to any of its committees or employees.
+(4) The CHE may, on such conditions as it may determine, delegate any of its powers under this Act and assign any of its duties in terms of this Act to any of its committees or employees.
 
 [Sub-s. (4) added by s. 9 of Act 55 of 1999.]
 
@@ -1566,17 +1696,17 @@ The existing statute and rules of a public higher education institution in force
 
 [[START OF PAGE 44]]
 
-- The Minister may only make a determination in terms of subsection (2)-
+(3) The Minister may only make a determination in terms of subsection (2)-
 
 (a) after consulting SAQA and the body concerned; and
 
 (b) after the Minister has considered the recommendations made by SAQA and the body concerned, as contemplated in section 15 (2) of the South African Qualifications Authority Act, 1995 (Act 58 of 1995).
 
-- Notwithstanding subsection (3) (b) the Minister may make a determination in terms of subsection (2) if SAQA and the body concerned have not made recommendations as contemplated in subsection (3) (b) within a reasonable period after a written request by the Minister to do so.
+(4) Notwithstanding subsection (3) (b) the Minister may make a determination in terms of subsection (2) if SAQA and the body concerned have not made recommendations as contemplated in subsection (3) (b) within a reasonable period after a written request by the Minister to do so.
 
-- The Committee of University Principals and the Committee of Technikon Principals must determine the manner in which their assets and liabilities are dealt with upon their dissolution as statutory bodies.
+(5) The Committee of University Principals and the Committee of Technikon Principals must determine the manner in which their assets and liabilities are dealt with upon their dissolution as statutory bodies.
 
-- The joint statutes and joint regulations and rules made in terms of the Universities Act, 1955 (Act 61 of 1955), and the Technikons Act, 1993 (Act 125 of 1993), continue to exist until the date or dates contemplated in subsection (2).
+(6) The joint statutes and joint regulations and rules made in terms of the Universities Act, 1955 (Act 61 of 1955), and the Technikons Act, 1993 (Act 125 of 1993), continue to exist until the date or dates contemplated in subsection (2).
 
 #### 75 Exemption of existing private higher education institutions
 
@@ -1586,21 +1716,21 @@ Sections 51 and 66 (3) and (4) do not apply to a person who provides higher educ
 
 (1) The University and Technikons Advisory Council Act, 1983 (Act 99 of 1983), is hereby repealed in its entirety.
 
-- The Universities Act, 1955 (Act 61 of 1955), is hereby repealed in its entirety.
+(2) The Universities Act, 1955 (Act 61 of 1955), is hereby repealed in its entirety.
 
-- The Technikons Act, 1993 (Act 125 of 1993), is hereby repealed in its entirety.
+(3) The Technikons Act, 1993 (Act 125 of 1993), is hereby repealed in its entirety.
 
-- The Tertiary Education Act, 1988 (Act 66 of 1988), is hereby repealed in its entirety.
+(4) The Tertiary Education Act, 1988 (Act 66 of 1988), is hereby repealed in its entirety.
 
-- The Technikons Amendment Act, 1995 (Act 27 of 1995), is hereby repealed in its entirety.
+(5) The Technikons Amendment Act, 1995 (Act 27 of 1995), is hereby repealed in its entirety.
 
 [Sub-s. (5) added by s. 10 of Act 55 of 1999.]
 
-- The Education Policy Act, 1967 (Act 39 of 1967), is hereby repealed in its entirety.
+(6) The Education Policy Act, 1967 (Act 39 of 1967), is hereby repealed in its entirety.
 
 [Sub-s. (6) added by s. 10 of Act 55 of 1999.]
 
-- The University Staff (Education and Training) Act, 1984 (Act 91 of 1984), is hereby repealed in its entirety.
+(7) The University Staff (Education and Training) Act, 1984 (Act 91 of 1984), is hereby repealed in its entirety.
 
 [Sub-s. (7) added by s. 12 of Act 54 of 2000.]
 
@@ -1616,13 +1746,13 @@ This Act is called the Higher Education Act, 1997.
 
 [[START OF PAGE 46]]
 
-# HIGHER EDUCATION AMENDMENT ACT 23 OF 200
+# HIGHER EDUCATION AMENDMENT ACT 23 OF 2001
 
 [ASSENTED TO 30 OCTOBER 2001] [DATE OF COMMENCEMENT: 2 NOVEMBER 2001]
 
 #### 26 Repeal of  laws
 
-- The laws listed in the Schedule are hereby repealed.
+(1) The laws listed in the Schedule are hereby repealed.
 
 (2) Notwithstanding subsection (1), section 3 (4), (5) and (6) of the University of Cape Town (Private) Act, 1999 (Act 8 of 1999), continue to exist as if that Act had not been repealed.
 
@@ -1631,7 +1761,6 @@ This Act is called the Higher Education Act, 1997.
 ### LAWS REPEALED
 
 Rhodes University (Private) Act, 1949 (Act 15 of 1949);
----
 University of the Orange Free State (Private) Act, 1949 (Act 21 of 1949);
 University Laws Amendment Act, 1953 (Act 23 of 1953);
 University of the Witwatersrand, Johannesburg, (Private) Act, 1959 (Act 15 of 1959);
