@@ -40,7 +40,7 @@ BE IT ENACTED by the Parliament of the Republic of South Africa, as follows:-
 
 ## Amendment of section 1 of Act 27 of 1996
 
-- Section 1 of the National Education Policy Act, 1996, is hereby amended-
+1. Section 1 of the National Education Policy Act, 1996, is hereby amended-
 
 (a) by the substitution for the definition of "Director-General" of the following definition:
 
@@ -66,7 +66,7 @@ Legislation Matters
 
 ## Amendment of section 3 of Act 27 of 1996, as amended by section 11 of Act 100 of 1997 and section 4 of Act 48 of 1999
 
-- Section 3 of the National Education Policy Act, 1996, is hereby amended by the substitution in subsection (4)(n) for the words preceding the proviso of the following words:
+2. Section 3 of the National Education Policy Act, 1996, is hereby amended by the substitution in subsection (4)(n) for the words preceding the proviso of the following words:
 
 "control and discipline of [students] learners at education institutions".
 
@@ -78,7 +78,7 @@ Legislation Matters 403
 
 ## Amendment of section 4 of Act 27 of 1996, as amended by section 12 of Act 100 of 1997
 
-- Section 4 of the National Education Policy Act, 1996, is hereby amended-
+3. Section 4 of the National Education Policy Act, 1996, is hereby amended-
 
 (a) by the substitution in paragraph (a) for subparagraph (v) of the following subparagraph:
 
@@ -90,7 +90,7 @@ Legislation Matters 403
 
 ## Amendment of section 1 of Act 84 of 1996, as amended by section 1 of Act 100 of 1997, section 6 of Act 48 of 1999, section 1 of Act 50 of 2002, section 1 of Act 24 of 2005 and section 4 of Act 31 of 2007
 
-- Section 1 of the South African Schools Act, 1996, is hereby amended-
+4. Section 1 of the South African Schools Act, 1996, is hereby amended-
 
 (a) by the insertion in subsection (1) after the definition of "learner" of the following definition:
 
@@ -114,13 +114,13 @@ Legislation Matters
 
 ## Amendment of section 5A of Act 84 of 1996, as inserted by section 5 of Act 31 of 2007
 
-- Section 5A of the South African Schools Act, 1996, is hereby amended by the substitution in subsection (1) for the words preceding paragraph (a) of the following words:
+5. Section 5A of the South African Schools Act, 1996, is hereby amended by the substitution in subsection (1) for the words preceding paragraph (a) of the following words:
 
 "The Minister may, after consultation with the Minister of Finance and the Council of Education Ministers, by regulation prescribe minimum uniform norms and standards for-".
 
 ## Insertion of section 6B in Act 84 of 1996
 
-- The following section is hereby inserted in the South African Schools Act, 1996, after section 6A:
+6. The following section is hereby inserted in the South African Schools Act, 1996, after section 6A:
 
 Legislation Matters 405
 
@@ -130,7 +130,7 @@ Legislation Matters 405
 
 ### "Non-discrimination in respect of official languages
 
-- 6B. The governing body of a public school must ensure that-
+6B. The governing body of a public school must ensure that-
 
 (a) there is no unfair discrimination in respect of any official languages that are offered as subject options contemplated in section 21(1)(b); and
 
@@ -138,7 +138,7 @@ Legislation Matters 405
 
 ## Amendment of section 9 of Act 84 of 1996, as amended by section 7 of Act 48 of 1999 and section 2 of Act 24 of 2005
 
-- Section 9 of the South African Schools Act, 1996, is hereby amended by the addition of the following subsection:
+7. Section 9 of the South African Schools Act, 1996, is hereby amended by the addition of the following subsection:
 
 "(11)(a)  If an appeal in terms of subsection (4) by a learner who has been expelled from a public school is upheld by the Member of the Executive Council, the Member of the Executive Council must ensure that a suitable sanction is then imposed on the learner within 14 days of the date on which the appeal was upheld.
 
@@ -154,11 +154,11 @@ Legislation Matters
 
 ## Amendment of section 12 of Act 84 of 1996
 
-- Section 12 of the South African Schools Act, 1996, is hereby amended by the substitution for subsection (3) of the following subsection:
+8. Section 12 of the South African Schools Act, 1996, is hereby amended by the substitution for subsection (3) of the following subsection:
 
 "(3) (a) A public school may be-
 
-(i) an ordinary public school [or] ;
+(i) an ordinary public school [or];
 
 (ii) a public school for learners with special education needs; or
 
@@ -168,7 +168,7 @@ Legislation Matters
 
 ## Amendment of section 16A of Act 84 of 1996, as inserted by section 8 of Act 31 of 2007
 
-- Section 16A of the South African Schools Act, 1996, is hereby amended by the deletion in subsection (2) of the word "and" at the end of paragraph (f), the insertion in that subsection of the word "and" at the end of paragraph (g) and the addition to that subsection of the following paragraphs:
+9. Section 16A of the South African Schools Act, 1996, is hereby amended by the deletion in subsection (2) of the word "and" at the end of paragraph (f), the insertion in that subsection of the word "and" at the end of paragraph (g) and the addition to that subsection of the following paragraphs:
 
 Legislation Matters 407
 
@@ -178,7 +178,7 @@ Legislation Matters 407
 
 "(h) assist the governing body with the management of the school's funds, which assistance must include-
 
-(I) the provision of information relating to any conditions imposed or directions issued by the Minister, the Member of the Executive Council or the Head of Department in respect of all financial matters of the school contemplated in Chapter 4; and
+(i) the provision of information relating to any conditions imposed or directions issued by the Minister, the Member of the Executive Council or the Head of Department in respect of all financial matters of the school contemplated in Chapter 4; and
 
 (ii) the giving of advice to the governing body on the financial implications of decisions relating to the financial matters of the school;
 
@@ -190,7 +190,7 @@ Legislation Matters 407
 
 ## Amendment of section 19 of Act 84 of 1996
 
-- Section 19 of the South African Schools Act, 1996, is hereby amended by the addition of the following subsections:
+10. Section 19 of the South African Schools Act, 1996, is hereby amended by the addition of the following subsections:
 
 "(3) The norms and standards for school funding must include-
 
@@ -210,7 +210,7 @@ Legislation Matters
 
 (d) criteria for granting a governing body an allocation for contribution towards membership of a recognised governing body association.
 
-(a) The Head of Department may request a recognised governing body association or other appropriate training authority to train members of a governing body of a particular school or group of schools and to build the capacity contemplated in section 25(4).
+(4) (a) The Head of Department may request a recognised governing body association or other appropriate training authority to train members of a governing body of a particular school or group of schools and to build the capacity contemplated in section 25(4).
 
 (b) For the purposes of paragraph (a), the Head of Department-
 
@@ -228,13 +228,13 @@ Legislation Matters 409
 
 ## Insertion of section 33A in Act 84 of 1996
 
-- The following section is hereby inserted in the South African Schools Act, 1996, after section 33:
+11. The following section is hereby inserted in the South African Schools Act, 1996, after section 33:
 
 ### "Prohibition of political activities during school time
 
-- 33A.(1)  No party-political activities may be conducted at a school during school time determined by the governing body of the school in terms of section 20(1)(f).
+33A.(1) No party-political activities may be conducted at a school during school time determined by the governing body of the school in terms of section 20(1)(f).
 
-- The party-political activities contemplated in subsection (1) include, but are not limited to-
+(2) The party-political activities contemplated in subsection (1) include, but are not limited to-
 
 (a) campaigning;
 
@@ -244,9 +244,9 @@ Legislation Matters 409
 
 (d) the hanging or putting up of posters and banners.
 
-- A member of a political party may not, for the purposes of conducting party-political activities, encroach on the school time.
+(3) A member of a political party may not, for the purposes of conducting party-political activities, encroach on the school time.
 
-- A school may not allow the display of material of a party-political nature on its premises unless such partypolitical material is related to the curriculum at the school.".
+(4) A school may not allow the display of material of a party-political nature on its premises unless such party-political material is related to the curriculum at the school.".
 
 Legislation Matters
 
@@ -258,7 +258,7 @@ Legislation Matters
 
 ## Amendment of section 36 of Act 84 of 1996, as amended by section 5 of Act 57 of 2001
 
-- Section 36 of the South African Schools Act, 1996, is hereby amended by the addition of the following subsections:
+12. Section 36 of the South African Schools Act, 1996, is hereby amended by the addition of the following subsections:
 
 "(4) (a) A governing body may, with the approval of the Member of the Executive Council-
 
@@ -268,11 +268,11 @@ Legislation Matters
 
 (b) A governing body may not allow any activity on school property that is hazardous or disruptive to learners or prohibited by this Act.
 
-- For the purposes of subsection (4), 'school property' means immovable property owned by the State, including property contemplated in sections 13 and 55 and any immovable property bought by a school from the school funds or donations to the school.".
+(5) For the purposes of subsection (4), 'school property' means immovable property owned by the State, including property contemplated in sections 13 and 55 and any immovable property bought by a school from the school funds or donations to the school.".
 
 ## Amendment of section 39 of Act 84 of 1996, as amended by section 4 of Act 24 of 2005
 
-- Section 39 of the South African Schools Act, 1996, is hereby amended by the addition of the following subsections:
+13. Section 39 of the South African Schools Act, 1996, is hereby amended by the addition of the following subsections:
 
 Legislation Matters
 
@@ -292,7 +292,7 @@ Legislation Matters
 
 ## Amendment of section 60 of Act 84 of 1996, as amended by section 14 of Act 48 of 1999 and section 12 of Act 31 of 2007
 
-- Section 60 of the South African Schools Act, 1996, is hereby amended by the substitution in subsection (1) for paragraph (a) of the following paragraph:
+14. Section 60 of the South African Schools Act, 1996, is hereby amended by the substitution in subsection (1) for paragraph (a) of the following paragraph:
 
 "(a) Subject to paragraph (b), the State is liable for any delictual or contractual damage or loss caused as a result of any act or omission in connection with any school activity conducted by a public school and for which such public school would have been liable but for the provisions of this section.".
 
@@ -306,11 +306,11 @@ Legislation Matters
 
 ## Amendment of section 1 of Act 76 of 1998, as amended by section 6 of Act 53 of 2000 and section 58 of Act 16 of 2006
 
-- Section 1 of the Employment of Educators Act, 1998, is hereby amended-
+15. Section 1 of the Employment of Educators Act, 1998, is hereby amended-
 
 (a) by the substitution for the definition of "departmental office" of the following definition:
 
-"'departmental office' means any office or institution controlled or administered by the Department of Basic Education or any provincial department of education, but does not include any public school [or adult basic education centre] ;";
+"'departmental office' means any office or institution controlled or administered by the Department of Basic Education or any provincial department of education, but does not include any public school [or adult basic education centre];";
 
 (b) by the substitution for the definition of "Department of Education" of the following definition:
 
@@ -338,11 +338,11 @@ Legislation Matters
 
 ## Substitution of section 2 of Act 76 of 1998, as amended by section 58 of Act 16 of 2006
 
-- The following section is hereby substituted for section 2 of the Employment of Educators Act, 1998:
+16. The following section is hereby substituted for section 2 of the Employment of Educators Act, 1998:
 
 ### "Application of Act
 
-- This Act applies in respect of the employment of educators at-
+2. This Act applies in respect of the employment of educators at-
 
 (a) public schools; and
 
@@ -350,7 +350,7 @@ Legislation Matters
 
 ## Substitution of certain expressions in Act 76 of 1998
 
-- The Employment of Educators Act, 1998, is hereby amended-
+17. The Employment of Educators Act, 1998, is hereby amended-
 
 (a) by the substitution for the expression "Department of Education", wherever it occurs, of the expression "Department of Basic Education"; and
 
@@ -368,11 +368,11 @@ and training", wherever it occurs, of the expression " adult education and train
 
 ## Amendment of section 1 of Act 31 of 2000, as amended by section 19 of Act 31 of 2007
 
-- Section 1 of the South African Council for Educators Act, 2000, is hereby amended-
+18. Section 1 of the South African Council for Educators Act, 2000, is hereby amended-
 
 (a) by the substitution for the definition of "institution" of the following definition:
 
-"'institution' means any school [, further education and training institution or adult learning centre] contemplated in the  South African Schools Act, 1996 (Act No. 84 of 1996);"; and
+"'institution' means any school[, further education and training institution or adult learning centre] contemplated in the South African Schools Act, 1996 (Act No. 84 of 1996);"; and
 
 (b) by the substitution for the definition of "Minister" of the following definition:
 
@@ -380,7 +380,7 @@ and training", wherever it occurs, of the expression " adult education and train
 
 ## Amendment of section 5 of Act 31 of 2000
 
-- Section 5 of the South African Council for Educators Act, 2000, is hereby amended by the substitution in paragraph (b) for subparagraph (iv) of the following subparagraph:
+19. Section 5 of the South African Council for Educators Act, 2000, is hereby amended by the substitution in paragraph (b) for subparagraph (iv) of the following subparagraph:
 
 "(iv) must manage a system for the promotion of the continuing professional development of all educators;".
 
@@ -394,19 +394,19 @@ Legislation Matters
 
 ## Amendment of section 19 of Act 31 of 2000
 
-- Section 19 of the South African Council for Educators Act, 2000, is hereby amended by the insertion in subsection (1) after paragraph (a) of the following paragraph:
+20. Section 19 of the South African Council for Educators Act, 2000, is hereby amended by the insertion in subsection (1) after paragraph (a) of the following paragraph:
 
 "(aA) money appropriated by Parliament;".
 
 ## Amendment of section 1 of Act 58 of 2001, as amended by section 8 of Act 1 of 2004 and section 2 of Act 50 of 2008
 
-- Section 1 of the General and Further Education and Training Quality Assurance Act, 2001, is hereby amended-
+21. Section 1 of the General and Further Education and Training Quality Assurance Act, 2001, is hereby amended-
 
 (a) by the substitution for the definition of "department of education" of the following definition:
 
 "'department of education' means-
 
-(a) the [department] Department of Basic Education, which is responsible for school education at national level [or] ;
+(a) the [department] Department of Basic Education, which is responsible for school education at national level [or];
 
 (b) a department responsible for school education in a province; or
 
@@ -422,15 +422,11 @@ Legislation Matters
 
 [[START OF PAGE 17]]
 
-## Saving
-
-- The provisions of this Act must not be construed as limiting, amending, repealing or otherwise altering the administration and powers and functions entrusted by the legislation identified in item 1.7 of the Schedule to Proclamation No. 44 of 2009, published in Government Gazette No. 32367 of 1 July 2009, to the Minister of Higher Education and Training insofar as the administration and powers and functions pertain to further education and training colleges and adult education and training centres.
-
 "'Director-General', in respect of functions relating to-
 
-(a) school education, means the Director-General [of the department responsible for education at national level] : Basic Education; and
+(a) school education, means the Director-General [of the department responsible for education at national level]: Basic Education; and
 
-(b) further education and training colleges and adult education and training centres, means the DirectorGeneral: Higher Education and Training;"; and
+(b) further education and training colleges and adult education and training centres, means the Director-General: Higher Education and Training;"; and
 
 (c) by the substitution for the definition of "Minister" of the following definition:
 
@@ -439,6 +435,10 @@ Legislation Matters
 (a) school education, means the Minister of Basic Education; and
 
 (b) further education and training colleges and adult education and training centres, means the Minister of Higher Education and Training;".
+
+## Saving
+
+22. The provisions of this Act must not be construed as limiting, amending, repealing or otherwise altering the administration and powers and functions entrusted by the legislation identified in item 1.7 of the Schedule to Proclamation No. 44 of 2009, published in Government Gazette No. 32367 of 1 July 2009, to the Minister of Higher Education and Training insofar as the administration and powers and functions pertain to further education and training colleges and adult education and training centres.
 
 Legislation Matters
 
@@ -450,7 +450,7 @@ Legislation Matters
 
 ## Short title
 
-- This Act is called the Basic Education Laws Amendment Act, 2011.
+23. This Act is called the Basic Education Laws Amendment Act, 2011.
 
 Legislation Matters
 
