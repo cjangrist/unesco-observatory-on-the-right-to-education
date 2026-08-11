@@ -13,7 +13,7 @@ Vu la Constitution, notamment ses articles 26 et 58,
 
 A Décidé ce qui suit :
 
-Est promulguée et sera publiée au Bulletin officiel, àla suite du présent dahir, la loi n° 05-00 relative au statut de l'enseignement préscolaire, adoptée par la Chambre des représentants et la Chambre des conseillers.
+Est promulguée et sera publiée au Bulletin officiel, à la suite du présent dahir, la loi n° 05-00 relative au statut de l'enseignement préscolaire, adoptée par la Chambre des représentants et la Chambre des conseillers.
 
 Fait à Rabat, le 15 safar 1421 (19 mai 2000).
 
@@ -30,9 +30,9 @@ Le Premier ministre, Abderrahman Youssoufi.
 ## Chapitre premier : Dispositions générales
 
 ### Article premier :
-L'enseignement préscolaire est l'étape éducative dispensée par les établissements ouverts aux enfants âgés de quatre ans révolus àsix ans.
+L'enseignement préscolaire est l'étape éducative dispensée par les établissements ouverts aux enfants âgés de quatre ans révolus à six ans.
 
-Il a pour objectif de garantir àtous les enfants marocains le maximum d'égalité de chances pour accéder àl'enseignement scolaire, de faciliter leur épanouissement physique, cognitif et affectif et de développer leur autonomie et leur socialisation par :
+Il a pour objectif de garantir à tous les enfants marocains le maximum d'égalité de chances pour accéder à l'enseignement scolaire, de faciliter leur épanouissement physique, cognitif et affectif et de développer leur autonomie et leur socialisation par :
 
 l'enseignement de versets coraniques aux enfants marocains musulmans ;
 
@@ -40,28 +40,30 @@ l'enseignement des principes et des valeurs morales de l'Islam ;
 
 l'enseignement des valeurs fondamentales, civiques et humaines ;
 
-le développement des capacités sonsorio-motrices, spatio-temporelles, sémiologiques, imaginatives et expressives
+le développement des capacités sensori-motrices, spatio-temporelles, sémiologiques, imaginatives et expressives ;
 
 l'exercice aux activités pratiques et artistiques ;
 
-la préparation àl'apprentissage de la lecture et l'écriture en langue arabe, notamment àtravers la maîtrise de l'expression orale, en s'appuyant sur la langue amazigh ou tout autre dialecte local pour faciliter l'initiation àla lecture et àl'écriture.
+la préparation à l'apprentissage de la lecture et l'écriture en langue arabe, notamment à travers la maîtrise de l'expression orale, en s'appuyant sur la langue amazigh ou tout autre dialecte local pour faciliter l'initiation à la lecture et à l'écriture.
 
 ### Article 2 :
-Les établissements d'enseignement préscolaire sont créés par l'autorité gouvernementale comme ils peuvent être créés, conformément aux dispositions de la présente loi, par toute personne physique ou morale de droit publie ou privé, notamment par :
+Les établissements d'enseignement préscolaire sont créés par l'autorité gouvernementale comme ils peuvent être créés, conformément aux dispositions de la présente loi, par toute personne physique ou morale de droit public ou privé, notamment par :
 
-les collectivités locales les établissements publics ;
+les collectivités locales ;
 
-les associations àbut non lucratif régulièrement constituées.
+les établissements publics ;
+
+les associations à but non lucratif régulièrement constituées.
 
 ### Article 3 :
-Toute ouverture, extension ou modification d'établissement d'enseignement préscolaire est soumise àl'autorisation préalable de l'Académie régionale d'éducation et de formation concernée, délivrée selon les modalités fixées par voie réglementaire.
+Toute ouverture, extension ou modification d'établissement d'enseignement préscolaire est soumise à l'autorisation préalable de l'Académie régionale d'éducation et de formation concernée, délivrée selon les modalités fixées par voie réglementaire.
 
-L'Académie régionale d'éducation et de formation statue sur la demande d'autorisation dans un délai maximum de trente (30) jours àcompter de la date de son dépôt dûment attesté par un récépissé, passé ce délai la demande est réputée acceptée.
+L'Académie régionale d'éducation et de formation statue sur la demande d'autorisation dans un délai maximum de trente (30) jours à compter de la date de son dépôt dûment attesté par un récépissé, passé ce délai la demande est réputée acceptée.
 
 Tout rejet de la demande par l'académie doit être dûment motivé.
 
 ### Article 4 :
-Toute fermeture d'un établissement d'enseignement préscolaire doit être portée àla connaissance des parents ou tuteurs des enfants trois mois au moins avant la fin de l'année scolaire en cours.
+Toute fermeture d'un établissement d'enseignement préscolaire doit être portée à la connaissance des parents ou tuteurs des enfants trois mois au moins avant la fin de l'année scolaire en cours.
 
 Toutefois, si, par suite d'un cas de force majeure, l'activité de l'établissement doit être interrompue en cours d'année, le propriétaire de l'établissement doit en aviser immédiatement l'académie qui assure le fonctionnement de l'établissement par les ressources propres de celui-ci et les moyens dont il dispose, et ce jusqu'à la fin de l'année scolaire.
 
@@ -170,10 +172,10 @@ Est puni d'une amende de mille (1.000 DH) à cinq mille (5.000 DH) dirhams :
 
 En cas de récidive, le minimum et le maximum de l'amende sont respectivement portés à deux mille (2.000 DH) et à dix mille (10.000 DH) dirhams.
 
-Est en état de récidive, toute personne ayant été condamnée par décision devenue irrévocable pour l'une des infractions prévues au présent article a, dans l'année qui suit le prononcé d'une telle décision, commis une infraction de même nature.
+Est en état de récidive, toute personne ayant été condamnée par décision devenue irrévocable pour l'une des infractions prévues au présent article et a, dans l'année qui suit le prononcé d'une telle décision, commis une infraction de même nature.
 
 ### Article 18 :
-En cas de manquement aux prescriptions de la présente loi, portant atteinte aux objectifs fixés à l'article premier cidessus ou aux conditions d'hygiène ou de prévention, l'académie peut, sur la base d'un rapport établi par une commission d'inspection qu'elle désigne à cet effet, retirer l'autorisation accordée à l'établissement par décision motivée.
+En cas de manquement aux prescriptions de la présente loi, portant atteinte aux objectifs fixés à l'article premier ci-dessus ou aux conditions d'hygiène ou de prévention, l'académie peut, sur la base d'un rapport établi par une commission d'inspection qu'elle désigne à cet effet, retirer l'autorisation accordée à l'établissement par décision motivée.
 
 ### Article 19 :
 Outre les diligences des officiers de police judiciaire, les infractions aux dispositions de la présente loi sont constatées par des fonctionnaires assermentés désignés à cet effet par l'académie.
@@ -181,7 +183,7 @@ Outre les diligences des officiers de police judiciaire, les infractions aux dis
 ## Chapitre VI : Dispositions diverses et transitoires.
 
 ### Article 20 :
-Les dispositions de la présente loi ne sont pas applicables aux établissements d'enseignement préscolaire exerçant leur activité dans le cadre d'accords conclu entre le gouvernement du Royaume du Maroc et des gouvernements étrangers ou des organismes internationaux.
+Les dispositions de la présente loi ne sont pas applicables aux établissements d'enseignement préscolaire exerçant leur activité dans le cadre d'accords conclus entre le gouvernement du Royaume du Maroc et des gouvernements étrangers ou des organismes internationaux.
 
 Toutefois, ces établissements demeurent soumis au contrôle de l'Académie régionale d'éducation et de formation quant à leur observation du contenu desdits accords.
 
@@ -191,10 +193,10 @@ Les dispositions de la présente loi ne sont pas applicables aux écoles coraniq
 ### Article 22 :
 Les établissements d'enseignement préscolaire autorisés antérieurement à la date d'entrée en vigueur de la présente loi doivent se conformer à ses dispositions dans un délai n'excédant pas quatre années à compter de la date de publication des textes d'application de la présente loi au " Bulletin officiel ".
 
-Le personnel de direction et les éducateurs en activité dans les établissements d'enseignement préscolaire, qui ne remplissent pas les conditions de qualification pédagogique requises et les conditions prévues aux articles 13 et 14 de la présente loi, doivent régulariser leur situation dans un délai maximum de quatre ans à compter de la date de publication des textes d'application visés au 1 er alinéa ci-dessus.
+Le personnel de direction et les éducateurs en activité dans les établissements d'enseignement préscolaire, qui ne remplissent pas les conditions de qualification pédagogique requises et les conditions prévues aux articles 13 et 14 de la présente loi, doivent régulariser leur situation dans un délai maximum de quatre ans à compter de la date de publication des textes d'application visés au 1er alinéa ci-dessus.
 
 ### Article 23 :
-Sont abrogées toutes dispositions relatives au même objet notamment celles de la loi n° 15-86 formant statut de l' enseignement privé promulguée par le dahir n° 1-87-126 du 6 rabii Il 1412 (15 octobre 1991).
+Sont abrogées toutes dispositions relatives au même objet notamment celles de la loi n° 15-86 formant statut de l'enseignement privé promulguée par le dahir n° 1-87-126 du 6 rabii II 1412 (15 octobre 1991).
 
 _________
 
