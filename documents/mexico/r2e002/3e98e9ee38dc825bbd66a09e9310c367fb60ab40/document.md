@@ -16,13 +16,13 @@ TEXTO VIGENTE
 
 Al  margen  un  sello  con  el  Escudo  Nacional,  que  dice:  Estados  Unidos  Mexicanos.-  Presidencia  de  la República.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA ,  Presidente  de  los  Estados  Unidos  Mexicanos,  a  sus habitantes sabed:
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 
 ## DECRETO
 
-" EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 
 ### SE CREA LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD.
 
@@ -45,7 +45,7 @@ De  manera  enunciativa  y  no  limitativa,  esta  Ley  reconoce  a  las  person
 #### Artículo 2.
 Para los efectos de esta Ley se entenderá por:
 
-- Accesibilidad. Las  medidas  pertinentes  para  asegurar  el  acceso  de  las  personas  con discapacidad,  en  igualdad  de  condiciones  con  las  demás,  al  entorno  físico,  el  transporte,  la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
+I. Accesibilidad. Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
 1 de 24
 
@@ -61,31 +61,31 @@ Secretaría General
 
 Secretaría de Servicios Parlamentarios
 
-- Ajustes  Razonables. Se  entenderán  las  modificaciones  y  adaptaciones  necesarias  y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
-
-- Asistencia Social. Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental  y  social  de  personas  en  estado  de  necesidad,  indefensión,  desventaja  física  y  mental, hasta lograr su incorporación a una vida plena y productiva;
-
-- Ayudas Técnicas. Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar  una  o  más  limitaciones  funcionales,  motrices,  sensoriales  o  intelectuales  de  las personas con discapacidad;
-
-- Comunicación. Se  entenderá  el  lenguaje  escrito,  oral  y  la  lengua  de  señas  mexicana,  la visualización  de  textos,  sistema  Braille,  la  comunicación  táctil,  los  macrotipos,  los  dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y  otros  modos,  medios,  sistemas  y  formatos  aumentativos  o  alternativos  de  comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
-
-- Comunidad de Sordos. Todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral;
-
-- Consejo. Consejo  Nacional  para  el  Desarrollo y  la  Inclusión  de  las  Personas  con Discapacidad;
-
-- Convención. Convención sobre los Derechos de las Personas con Discapacidad;
-
-- Discriminación por motivos de discapacidad. Se entenderá cualquier distinción, exclusión o  restricción  por  motivos  de  discapacidad  que  tenga  el  propósito  o  el  efecto  de  obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos  los  derechos  humanos  y  libertades  fundamentales  en  los  ámbitos  político,  económico, social,  cultural,  civil  o  de  otro  tipo.  Incluye  todas  las  formas  de  discriminación,  entre  ellas,  la denegación de ajustes razonables;
-
-- Diseño universal. Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
-
-- Educación Especial. La educación especial está destinada a individuos con discapacidades transitorias  o  definitivas,  así  como  a  aquellos  con  aptitudes  sobresalientes.  Atenderá  a  los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género;
-
-- Educación  Inclusiva. Es  la  educación  que  propicia  la  integración  de  personas  con discapacidad a  los  planteles  de  educación  básica  regular,  mediante  la  aplicación  de  métodos, técnicas y materiales específicos;
-
-- Estenografía Proyectada. Es el oficio y la técnica de transcribir un monólogo o un diálogo oral  de  manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
-
 Última Reforma DOF 17-12-2015
+
+II. Ajustes Razonables. Se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
+
+III. Asistencia Social. Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+IV. Ayudas Técnicas. Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
+
+V. Comunicación. Se entenderá el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
+
+VI. Comunidad de Sordos. Todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral;
+
+VII. Consejo. Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+
+VIII. Convención. Convención sobre los Derechos de las Personas con Discapacidad;
+
+IX. Discriminación por motivos de discapacidad. Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
+
+X. Diseño universal. Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
+
+XI. Educación Especial. La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género;
+
+XII. Educación Inclusiva. Es la educación que propicia la integración de personas con discapacidad a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos;
+
+XIII. Estenografía Proyectada. Es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
 
 2 de 24
 
@@ -154,11 +154,11 @@ La Administración Pública, de conformidad con su ámbito de competencia, impul
 #### Artículo 5.
 Los principios que deberán observar las políticas públicas, son:
 
-- La equidad;
+I. La equidad;
 
-- La justicia social;
+II. La justicia social;
 
-- La igualdad de oportunidades;
+III. La igualdad de oportunidades;
 
 IV. El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad;
 
@@ -178,6 +178,8 @@ Secretaría General
 
 Secretaría de Servicios Parlamentarios
 
+Última Reforma DOF 17-12-2015
+
 VI. La participación e inclusión plenas y efectivas en la sociedad;
 
 VII. El respeto por la diferencia y la aceptación de la discapacidad como parte de la diversidad y la condición humanas;
@@ -188,30 +190,28 @@ IX. La no discriminación;
 
 X. La igualdad entre mujeres y hombres con discapacidad;
 
-- La transversalidad, y
+XI. La transversalidad, y
 
-- Los demás que resulten aplicables.
+XII. Los demás que resulten aplicables.
 
 #### Artículo  6.
 Son  facultades  del  Titular  del  Poder  Ejecutivo  Federal  en  materia  de  esta  Ley,  las siguientes:
 
-- Establecer las políticas públicas para las personas con discapacidad, a fin de cumplir con las obligaciones derivadas de los tratados internacionales de derechos humanos ratificados  por el estado Mexicano, adoptando medidas legislativas, administrativas  y de otra índole, para  hacer efectivos los derechos de las personas con discapacidad;
+I. Establecer las políticas públicas para las personas con discapacidad, a fin de cumplir con las obligaciones derivadas de los tratados internacionales de derechos humanos ratificados por el estado Mexicano, adoptando medidas legislativas, administrativas y de otra índole, para hacer efectivos los derechos de las personas con discapacidad;
 
 II. Instruir a las dependencias y entidades del Gobierno Federal a que instrumenten acciones en favor de la inclusión social  y  económica de las personas con discapacidad en el marco de las políticas públicas;
 
 III.  Incluir  en  el  Proyecto  de  Presupuesto  de  Egresos  de  la  Federación  los  recursos  para  la implementación  y  ejecución  de  la  política  pública  derivada  de  la  presente  Ley,  tomando  en consideración  la  participación  de  las  entidades  federativas  en  el  reparto  de  estos  recursos,  de conformidad con los ordenamientos legales aplicables;
 
-- Establecer  y  aplicar  las  políticas  públicas  a  través  de  las  dependencias  y  entidades  del Gobierno Federal, que garanticen la equidad  e igualdad de oportunidades a  las  personas  con discapacidad;
+IV. Establecer y aplicar las políticas públicas a través de las dependencias y entidades del Gobierno Federal, que garanticen la equidad e igualdad de oportunidades a las personas con discapacidad;
 
-- Conceder,  de  conformidad  con  las  disposiciones  legales  aplicables,  estímulos  fiscales  a personas  físicas  o  morales  que  realicen  acciones  a  favor  de  las  personas  con  discapacidad, adecuen sus instalaciones en términos de accesibilidad, o de cualquier otra forma se adhieran a las políticas públicas en la materia, en términos de la legislación aplicable;
+V. Conceder, de conformidad con las disposiciones legales aplicables, estímulos fiscales a personas físicas o morales que realicen acciones a favor de las personas con discapacidad, adecuen sus instalaciones en términos de accesibilidad, o de cualquier otra forma se adhieran a las políticas públicas en la materia, en términos de la legislación aplicable;
 
-- Promover la consulta  y participación  de  las  personas  con  discapacidad,  personas  físicas  o morales  y  las  organizaciones  de  la  sociedad  civil  en  la  elaboración  y  aplicación  de  políticas, legislación y programas, con base en la presente Ley;
+VI. Promover la consulta y participación de las personas con discapacidad, personas físicas o morales y las organizaciones de la sociedad civil en la elaboración y aplicación de políticas, legislación y programas, con base en la presente Ley;
 
 VII.  Asegurar  la  participación  de  las  personas  con  discapacidad  y  las  organizaciones  de  la sociedad  civil  en  la  elaboración  de  los  informes  que  el  Gobierno  Mexicano  presentará  a  la Organización de las Naciones Unidas en cumplimiento a la Convención y ante otros organismos internacionales, relacionados con la materia de discapacidad y los derechos humanos;
 
 VIII.  Garantizar  el  desarrollo  integral  de  las  personas  con  discapacidad,  de  manera  plena  y autónoma, en los términos de la presente Ley;
-
-Última Reforma DOF 17-12-2015
 
 5 de 24
 
@@ -225,9 +225,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 17-12-2015
 
-- Fomentar la integración social de las personas con discapacidad, a través del ejercicio de sus derechos civiles y políticos;
+IX. Fomentar la integración social de las personas con discapacidad, a través del ejercicio de sus derechos civiles y políticos;
 
-- Promover el pleno ejercicio de los derechos fundamentales de las personas con discapacidad en condiciones equitativas;
+X. Promover el pleno ejercicio de los derechos fundamentales de las personas con discapacidad en condiciones equitativas;
 
 XI. Impulsar la adopción de acciones afirmativas orientadas a evitar y compensar las desventajas de  una  persona  con  discapacidad  para  participar  plenamente  en  la  vida  política,  económica, social y cultural;
 
@@ -242,17 +242,17 @@ XIII. Las demás que otros ordenamientos le confieran.
 #### Artículo 7.
 La Secretaría de Salud promoverá el derecho de las personas con discapacidad a gozar del  más  alto  nivel  posible  de  salud,  rehabilitación  y  habilitación  sin  discriminación  por  motivos  de discapacidad,  mediante  programas  y  servicios  que  serán  diseñados  y  proporcionados,  considerando criterios  de calidad, especialización, género, gratuidad o precio asequible. Para tal efecto, realizará las siguientes acciones:
 
-- Diseñar,  ejecutar  y  evaluar  programas  de  salud  pública  para  la  orientación,  prevención, detección, estimulación temprana, atención integral o especializada, rehabilitación y habilitación, para las diferentes discapacidades;
+I. Diseñar, ejecutar y evaluar programas de salud pública para la orientación, prevención, detección, estimulación temprana, atención integral o especializada, rehabilitación y habilitación, para las diferentes discapacidades;
 
-- Crear  o  fortalecer  establecimientos  de  salud  y  de  asistencia  social  que  permita  ejecutar  los programas señalados en la fracción anterior, los cuales se extenderán a las regiones rurales y comunidades indígenas, considerando los derechos humanos, dignidad, autonomía y necesidades de las personas con discapacidad;
+II. Crear o fortalecer establecimientos de salud y de asistencia social que permita ejecutar los programas señalados en la fracción anterior, los cuales se extenderán a las regiones rurales y comunidades indígenas, considerando los derechos humanos, dignidad, autonomía y necesidades de las personas con discapacidad;
 
-- Elaborar  e  implementar en coordinación con la Secretaría de Educación Pública, en lo que corresponda, programas de educación, capacitación, formación y especialización para la salud en materia de discapacidad, a fin de que los profesionales de la salud proporcionen a las personas con discapacidad una atención digna y de calidad, sobre la base de un consentimiento libre e informado;
+III. Elaborar e implementar en coordinación con la Secretaría de Educación Pública, en lo que corresponda, programas de educación, capacitación, formación y especialización para la salud en materia de discapacidad, a fin de que los profesionales de la salud proporcionen a las personas con discapacidad una atención digna y de calidad, sobre la base de un consentimiento libre e informado;
 
-- Crear bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido, que sean accesibles a la población con discapacidad;
+IV. Crear bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido, que sean accesibles a la población con discapacidad;
 
-- Fomentar la creación de centros asistenciales, temporales o permanentes, para personas con discapacidad en desamparo, donde sean atendidas en condiciones que respeten su dignidad y sus derechos, de conformidad con los principios establecidos en la presente Ley;
+V. Fomentar la creación de centros asistenciales, temporales o permanentes, para personas con discapacidad en desamparo, donde sean atendidas en condiciones que respeten su dignidad y sus derechos, de conformidad con los principios establecidos en la presente Ley;
 
-- Celebrar  convenios  con  instituciones  educativas  públicas  y  privadas,  para  impulsar  la investigación y conocimiento sobre la materia de discapacidad;
+VI. Celebrar convenios con instituciones educativas públicas y privadas, para impulsar la investigación y conocimiento sobre la materia de discapacidad;
 
 6 de 24
 
@@ -270,26 +270,26 @@ VII. Implementar programas de sensibilización, capacitación y actualización, 
 
 VIII. Establecer servicios de información, orientación, atención y tratamiento psicológico para las personas con discapacidad, sus familias o personas que se encarguen de su cuidado y atención;
 
-- Dictar  las  normas  técnicas  a  que  quedará  sujeta  la  prestación  de  los  servicios  de  salud  y asistencia  social  para  las  personas  con  discapacidad  por  parte  del  sector  público,  social  y privado;
+IX. Dictar las normas técnicas a que quedará sujeta la prestación de los servicios de salud y asistencia social para las personas con discapacidad por parte del sector público, social y privado;
 
-- Crear  programas  de  orientación,  educación,  y  rehabilitación  sexual  y  reproductiva  para  las personas con discapacidad y sus familias;
+X. Crear programas de orientación, educación, y rehabilitación sexual y reproductiva para las personas con discapacidad y sus familias;
 
-- Incorporar de forma gratuita al Seguro Popular a la población con discapacidad, y
+XI. Incorporar de forma gratuita al Seguro Popular a la población con discapacidad, y
 
-- Las demás que dispongan otros ordenamientos.
+XII. Las demás que dispongan otros ordenamientos.
 
 #### Artículo  8.
 El  Consejo,  los  Gobiernos  de  las  Entidades  Federativas  y  de  los  Municipios  podrán celebrar convenios con los sectores privado y social, a fin de:
 
-- Promover los servicios de asistencia social para las personas con discapacidad en todo el país;
+I. Promover los servicios de asistencia social para las personas con discapacidad en todo el país;
 
-- Promover la aportación de recursos materiales, humanos y financieros;
+II. Promover la aportación de recursos materiales, humanos y financieros;
 
-- Procurar la integración y el fortalecimiento de la asistencia pública y privada en la prestación de los servicios de asistencia social dirigidos a las personas con discapacidad;
+III. Procurar la integración y el fortalecimiento de la asistencia pública y privada en la prestación de los servicios de asistencia social dirigidos a las personas con discapacidad;
 
-- Establecer  mecanismos  para  atender  la  demanda  de  servicios  de  asistencia  social  de  las personas con discapacidad, y
+IV. Establecer mecanismos para atender la demanda de servicios de asistencia social de las personas con discapacidad, y
 
-- Los  demás  que  tengan  por  objeto  garantizar  la  prestación  de  servicios  de  asistencia  social para las personas con discapacidad.
+V. Los demás que tengan por objeto garantizar la prestación de servicios de asistencia social para las personas con discapacidad.
 
 #### Artículo 9.
 Queda prohibido cualquier tipo de discriminación contra las personas con discapacidad en el otorgamiento de seguros de salud o de vida.
@@ -316,19 +316,19 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 17-12-2015
 
-- Prohibir cualquier tipo  de  discriminación por motivo  de  discapacidad  en  la  selección, contratación,  remuneración,  tipo  de  empleo,  reinserción,  continuidad,  capacitación,  liquidación laboral, promoción  profesional y asegurar condiciones de trabajo accesibles, seguras y saludables;
+I. Prohibir cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral, promoción profesional y asegurar condiciones de trabajo accesibles, seguras y saludables;
 
-- Diseñar,  ejecutar,  evaluar  y  promover  políticas  públicas  para  la  inclusión  laboral  de  las personas  con  discapacidad  atendiendo  a  su  clasificación,  en  el  sector  público  o  privado,  que protejan la capacitación, empleo, contratación y derechos sindicales, en su caso, de las personas con discapacidad;
+II. Diseñar, ejecutar, evaluar y promover políticas públicas para la inclusión laboral de las personas con discapacidad atendiendo a su clasificación, en el sector público o privado, que protejan la capacitación, empleo, contratación y derechos sindicales, en su caso, de las personas con discapacidad;
 
-- Elaborar  e  instrumentar  el  programa  nacional  de  trabajo  y  empleo  para  las  personas  con discapacidad,  que  comprenda  la  capacitación,  creación  de  agencias  de  integración  laboral, acceso a bolsas de trabajo públicas o privadas, centros de trabajo protegido, talleres, asistencia técnica, formación vocacional o profesional, becas en cualquiera de sus modalidades, inserción laboral  de  las  personas  con  discapacidad  en  la  administración  pública  de  los  tres  órdenes  de gobierno, a través de convenios con los sectores público, social y privado;
+III. Elaborar e instrumentar el programa nacional de trabajo y empleo para las personas con discapacidad, que comprenda la capacitación, creación de agencias de integración laboral, acceso a bolsas de trabajo públicas o privadas, centros de trabajo protegido, talleres, asistencia técnica, formación vocacional o profesional, becas en cualquiera de sus modalidades, inserción laboral de las personas con discapacidad en la administración pública de los tres órdenes de gobierno, a través de convenios con los sectores público, social y privado;
 
-- Proporcionar asistencia técnica y legal a los sectores productivos, social y privado, en materia laboral de discapacidad, que así lo soliciten;
+IV. Proporcionar asistencia técnica y legal a los sectores productivos, social y privado, en materia laboral de discapacidad, que así lo soliciten;
 
-- Revisar las Normas Oficiales Mexicanas a efecto de permitir el pleno acceso y goce de los derechos en materia laboral establecidos por la presente Ley y demás disposiciones aplicables;
+V. Revisar las Normas Oficiales Mexicanas a efecto de permitir el pleno acceso y goce de los derechos en materia laboral establecidos por la presente Ley y demás disposiciones aplicables;
 
-- Fomentar  la  capacitación  y  sensibilización  al  personal  que  trabaje  con  personas  con discapacidad en el sector público o privado;
+VI. Fomentar la capacitación y sensibilización al personal que trabaje con personas con discapacidad en el sector público o privado;
 
-- Promover medidas a efecto de que las obligaciones laborables no interrumpan el proceso de rehabilitación de las personas con discapacidad, y
+VII. Promover medidas a efecto de que las obligaciones laborables no interrumpan el proceso de rehabilitación de las personas con discapacidad, y
 
 VIII. Las demás que dispongan otros ordenamientos.
 
@@ -337,9 +337,9 @@ VIII. Las demás que dispongan otros ordenamientos.
 #### Artículo  12.
 La  Secretaría  de  Educación  Pública  promoverá  el  derecho  a  la  educación  de  las personas  con  discapacidad,  prohibiendo  cualquier  discriminación  en  planteles,  centros  educativos, guarderías o del personal docente o administrativo del Sistema Educativo Nacional. Para tales efectos, realizará las siguientes acciones:
 
-- Establecer en el Sistema Educativo Nacional, el diseño, ejecución y evaluación del programa para  la  educación  especial  y  del  programa  para  la  educación  inclusiva  de  personas  con discapacidad;
+I. Establecer en el Sistema Educativo Nacional, el diseño, ejecución y evaluación del programa para la educación especial y del programa para la educación inclusiva de personas con discapacidad;
 
-- Impulsar  la  inclusión  de  las  personas  con  discapacidad  en  todos  los  niveles  del  Sistema Educativo Nacional, desarrollando y aplicando normas y reglamentos que eviten su discriminación  y  las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
+II. Impulsar la inclusión de las personas con discapacidad en todos los niveles del Sistema Educativo Nacional, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
 
 III. Establecer mecanismos a fin de que las niñas y los niños con discapacidad gocen del derecho a  la  admisión  gratuita  y  obligatoria  así  como  a  la  atención  especializada,  en  los  centros  de desarrollo infantil, guarderías públicas y en guarderías privadas mediante convenios de servicios.
 
@@ -359,19 +359,19 @@ Las  niñas  y  niños  con  discapacidad  no  podrán  ser  condicionados  en  
 
 IV. Incorporar a los docentes y personal asignado que intervengan directamente en la integración educativa  de  personas  con  discapacidad,  al  Sistema  Nacional  de  formación,  actualización, capacitación y superación profesional para maestros de educación básica;
 
-- Establecer que los programas educativos que se transmiten por televisión pública o privada, nacional o local, incluyan tecnologías para texto, audiodescripciones, estenografía proyectada o intérpretes de Lengua de Señas Mexicana;
+V. Establecer que los programas educativos que se transmiten por televisión pública o privada, nacional o local, incluyan tecnologías para texto, audiodescripciones, estenografía proyectada o intérpretes de Lengua de Señas Mexicana;
 
-- Proporcionar a los estudiantes con discapacidad materiales y ayudas técnicas que apoyen su rendimiento  académico,  procurando  equipar  los  planteles  y  centros  educativos  con  libros  en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad;
+VI. Proporcionar a los estudiantes con discapacidad materiales y ayudas técnicas que apoyen su rendimiento académico, procurando equipar los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad;
 
 VII. Incluir la enseñanza del Sistema de Escritura Braille y la Lengua de Señas Mexicana en la educación pública y privada, fomentando la producción y distribución de libros de texto gratuitos en Sistema de Escritura Braille, macrotipos y textos audibles que complementen los conocimientos de los alumnos con discapacidad;
 
 VIII.  Establecer  un  programa  nacional  de  becas  educativas  y  becas  de  capacitación  para personas con discapacidad en todos los niveles del Sistema Educativo Nacional;
 
-- Diseñar e implementar programas de formación y certificación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas Mexicana;
+IX. Diseñar e implementar programas de formación y certificación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas Mexicana;
 
-- Impulsar toda forma de comunicación escrita que facilite al sordo hablante, al sordo señante o semilingüe, el desarrollo y uso de la lengua en forma escrita;
+X. Impulsar toda forma de comunicación escrita que facilite al sordo hablante, al sordo señante o semilingüe, el desarrollo y uso de la lengua en forma escrita;
 
-- Impulsar  programas  de  investigación,  preservación  y  desarrollo  de  la  Lengua  de  Señas Mexicana, de las personas con discapacidad auditiva y de las formas de comunicación de las personas con discapacidad visual;
+XI. Impulsar programas de investigación, preservación y desarrollo de la Lengua de Señas Mexicana, de las personas con discapacidad auditiva y de las formas de comunicación de las personas con discapacidad visual;
 
 XII.  Incorporar  en  el  Sistema  Nacional  de  Ciencia  y  Tecnología  lineamientos  que  permitan  la investigación y el desarrollo de bienes, servicios, equipo e instalaciones de diseño universal;
 
@@ -409,23 +409,23 @@ Los edificios públicos deberán sujetarse a la legislación, regulaciones y Nor
 
 Para tales efectos, el Consejo realizará las siguientes acciones:
 
-- Coordinará con las dependencias y entidades de los tres órdenes de gobierno, la elaboración de  programas  en  materia  de  accesibilidad,  desarrollo  urbano  y  vivienda,  la  promoción  de reformas  legales,  elaboración  de  reglamentos  o  normas  y  la  certificación  en  materia  de accesibilidad a instalaciones públicas o privadas;
+I. Coordinará con las dependencias y entidades de los tres órdenes de gobierno, la elaboración de programas en materia de accesibilidad, desarrollo urbano y vivienda, la promoción de reformas legales, elaboración de reglamentos o normas y la certificación en materia de accesibilidad a instalaciones públicas o privadas;
 
-- Supervisará  la  aplicación  de  disposiciones  legales  o  administrativas,  que  garanticen  la accesibilidad en las instalaciones públicas o privadas, y
+II. Supervisará la aplicación de disposiciones legales o administrativas, que garanticen la accesibilidad en las instalaciones públicas o privadas, y
 
-- Promoverá que las personas con discapacidad que tengan como apoyo para la realización de sus  actividades  cotidianas,  un  perro  guía  o  animal  de  servicio,  tengan  derecho  a  que  éstos accedan y permanezcan con ellos en todos los espacios en donde se desenvuelvan. Asimismo, queda prohibido cualquier restricción mediante la que se impida el ejercicio de este derecho.
+III. Promoverá que las personas con discapacidad que tengan como apoyo para la realización de sus actividades cotidianas, un perro guía o animal de servicio, tengan derecho a que éstos accedan y permanezcan con ellos en todos los espacios en donde se desenvuelvan. Asimismo, queda prohibido cualquier restricción mediante la que se impida el ejercicio de este derecho.
 
 #### Artículo  17.
 Para  asegurar  la  accesibilidad  en  la  infraestructura  básica,  equipamiento  o  entorno urbano y los espacios públicos, se contemplarán entre otros, los siguientes lineamientos:
 
-- Que sea de carácter universal, obligatoria y adaptada para todas las personas;
+I. Que sea de carácter universal, obligatoria y adaptada para todas las personas;
 
-- Que  incluya  el  uso  de  señalización,  facilidades  arquitectónicas,  tecnologías,  información, sistema braille, lengua de señas mexicana, ayudas técnicas, perros guía o animal de servicio y otros apoyos, y
+II. Que incluya el uso de señalización, facilidades arquitectónicas, tecnologías, información, sistema braille, lengua de señas mexicana, ayudas técnicas, perros guía o animal de servicio y otros apoyos, y
 
-- Que la adecuación de las instalaciones públicas sea progresiva.
+III. Que la adecuación de las instalaciones públicas sea progresiva.
 
 #### Artículo 18.
-Las personas con discapacidad tienen derecho a una vivienda digna. Los programas de vivienda del sector público o sector privado deberán incluir proyectos arquitectónicos de construcciones que  consideren  sus  necesidades  de  accesibilidad.  Las  instituciones  públicas  de  vivienda  otorgarán CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios Última Reforma DOF 17-12-2015
+Las personas con discapacidad tienen derecho a una vivienda digna. Los programas de vivienda del sector público o sector privado deberán incluir proyectos arquitectónicos de construcciones que consideren sus necesidades de accesibilidad. Las instituciones públicas de vivienda otorgarán
 
 10 de 24
 
@@ -434,7 +434,10 @@ Las personas con discapacidad tienen derecho a una vivienda digna. Los programas
 [[START OF PAGE 11]]
 
 LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
-
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+Secretaría General
+Secretaría de Servicios Parlamentarios
+Última Reforma DOF 17-12-2015
 facilidades para recibir créditos o subsidios para la adquisición, redención de pasivos y construcción o remodelación de vivienda.
 
 ### Capítulo V Transporte Público y Comunicaciones
@@ -442,15 +445,15 @@ facilidades para recibir créditos o subsidios para la adquisición, redención 
 #### Artículo 19.
 La Secretaría de Comunicaciones y Transportes promoverá el derecho de las personas con  discapacidad,  sin  discriminación  de  ningún  tipo,  al  acceso  al  transporte,  los  sistemas  y  las tecnologías  de  la  información  y  las  comunicaciones,  particularmente  aquellas  que  contribuyan  a  su independencia y desarrollo integral. Para estos efectos, realizará las siguientes acciones:
 
-- Establecer mecanismos de coordinación con autoridades competentes y empresas privadas, a fin  de  elaborar  normas  y  programas  que  garanticen  a  las  personas  con  discapacidad,  la accesibilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público aéreo, terrestre y marítimo;
+I. Establecer mecanismos de coordinación con autoridades competentes y empresas privadas, a fin de elaborar normas y programas que garanticen a las personas con discapacidad, la accesibilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público aéreo, terrestre y marítimo;
 
-- Promover que en la concesión del servicio de transporte público aéreo, terrestre o marítimo, las unidades e instalaciones garanticen a las personas con discapacidad la accesibilidad para el desplazamiento y los servicios, incluyendo especificaciones técnicas y antropométricas, apoyos técnicos o humanos y personal capacitado;
+II. Promover que en la concesión del servicio de transporte público aéreo, terrestre o marítimo, las unidades e instalaciones garanticen a las personas con discapacidad la accesibilidad para el desplazamiento y los servicios, incluyendo especificaciones técnicas y antropométricas, apoyos técnicos o humanos y personal capacitado;
 
-- Promover en el ámbito de su competencia programas y campañas de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía y lugares públicos, así  como  para  evitar  cualquier  tipo  de  discriminación  en  el  uso  del  transporte  público  aéreo, terrestre o marítimo;
+III. Promover en el ámbito de su competencia programas y campañas de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía y lugares públicos, así como para evitar cualquier tipo de discriminación en el uso del transporte público aéreo, terrestre o marítimo;
 
-- Promover la suscripción de convenios con los concesionarios de los medios de comunicación, para difundir una imagen de las personas con discapacidad que sea compatible con el propósito de  ésta  Ley,  e  incorporar  en  la  programación  de  los  canales  de  televisión  programas  de formación, sensibilización y participación de las personas con discapacidad, y
+IV. Promover la suscripción de convenios con los concesionarios de los medios de comunicación, para difundir una imagen de las personas con discapacidad que sea compatible con el propósito de ésta Ley, e incorporar en la programación de los canales de televisión programas de formación, sensibilización y participación de las personas con discapacidad, y
 
-- Promover convenios con los concesionarios del transporte público a fin de que las personas con discapacidad gocen de descuentos en las tarifas de los servicios de transporte público.
+V. Promover convenios con los concesionarios del transporte público a fin de que las personas con discapacidad gocen de descuentos en las tarifas de los servicios de transporte público.
 
 #### Artículo  20.
 Los  medios  de  comunicación  implementarán  el  uso  de  tecnología  y,  en  su  caso,  de intérpretes de la Lengua de Señas Mexicana, que permitan a la comunidad de sordos las facilidades de comunicación y el acceso al contenido de su programación.
@@ -460,7 +463,7 @@ Los  medios  de  comunicación  implementarán  el  uso  de  tecnología  y,  en
 #### Artículo  21.
 La  Secretaría  de  Desarrollo  Social  promoverá  el  derecho  de  las  personas  con discapacidad  a  un  mayor  índice  de  desarrollo  humano  así  como  el  de  sus  familias,  incluyendo alimentación,  vestido  y  vivienda  adecuados  y  a  la  mejora  continua  de  sus  condiciones  de  vida,  sin discriminación por motivos de discapacidad. Para estos efectos, realizará las siguientes acciones:
 
-- Establecer medidas que garanticen el acceso de las personas con discapacidad en todas las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza, en observancia de todas aquellas disposiciones que les sean aplicables de la Ley General de Desarrollo Social;
+I. Establecer medidas que garanticen el acceso de las personas con discapacidad en todas las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza, en observancia de todas aquellas disposiciones que les sean aplicables de la Ley General de Desarrollo Social;
 
 11 de 24
 
@@ -474,11 +477,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 17-12-2015
 
-- Establecer programas para la prestación de servicios de asistencia social para personas con discapacidad en situación de pobreza, abandono  o marginación, incluidos servicios de capacitación, asistencia financiera y servicios de cuidados temporales, los cuales se extenderán a las regiones rurales y comunidades indígenas;
+II. Establecer programas para la prestación de servicios de asistencia social para personas con discapacidad en situación de pobreza, abandono o marginación, incluidos servicios de capacitación, asistencia financiera y servicios de cuidados temporales, los cuales se extenderán a las regiones rurales y comunidades indígenas;
 
-- Promover  la  apertura  de  establecimientos  especializados  para  la  asistencia,  protección  y albergue para personas con discapacidad en situación de pobreza, abandono o marginación, y
+III. Promover la apertura de establecimientos especializados para la asistencia, protección y albergue para personas con discapacidad en situación de pobreza, abandono o marginación, y
 
-- Todas  las  demás  que  tengan  como  objeto  mejorar  las  condiciones  sociales  y  permita potenciar las capacidades de las personas con discapacidad.
+IV. Todas las demás que tengan como objeto mejorar las condiciones sociales y permita potenciar las capacidades de las personas con discapacidad.
 
 ### Capítulo VII Recopilación de datos y Estadística
 
@@ -493,13 +496,13 @@ El  Consejo  en  coordinación  con  el  Instituto  Nacional  de  Estadística  
 #### Artículo 24.
 La Comisión Nacional de Cultura Física y Deporte promoverá el derecho de las personas con discapacidad al deporte. Para tales efectos, realizará las siguientes acciones:
 
-- Formular y aplicar programas  y  acciones  que  garanticen  el  otorgamiento  de  apoyos administrativos,  técnicos,  humanos  y  financieros,  requeridos  para  la  práctica  de  actividades físicas y deportivas a la población con discapacidad, en sus niveles de desarrollo popular, nuevos valores, prospectos, alto rendimiento de primera fuerza y juveniles, máster y paralímpico;
+I. Formular y aplicar programas y acciones que garanticen el otorgamiento de apoyos administrativos, técnicos, humanos y financieros, requeridos para la práctica de actividades físicas y deportivas a la población con discapacidad, en sus niveles de desarrollo popular, nuevos valores, prospectos, alto rendimiento de primera fuerza y juveniles, máster y paralímpico;
 
-- Elaborar  con  las  asociaciones  deportivas  nacionales  de  deporte  adaptado  el  Programa Nacional de Deporte Paralímpico y su presupuesto;
+II. Elaborar con las asociaciones deportivas nacionales de deporte adaptado el Programa Nacional de Deporte Paralímpico y su presupuesto;
 
-- Procurar  el  acceso  y  libre  desplazamiento  de  las  personas  con  discapacidad  en  las instalaciones públicas destinadas a la práctica de actividades físicas, deportivas o recreativas, y
+III. Procurar el acceso y libre desplazamiento de las personas con discapacidad en las instalaciones públicas destinadas a la práctica de actividades físicas, deportivas o recreativas, y
 
-- Las demás que dispongan otros ordenamientos.
+IV. Las demás que dispongan otros ordenamientos.
 
 #### Artículo 25.
 La Secretaría de Cultura promoverá el derecho de las personas con discapacidad a la cultura,  el  desarrollo  de  sus  capacidades  artísticas  y  la  protección  de  sus  derechos  de  propiedad intelectual. Para tales efectos, realizará las siguientes acciones:
@@ -518,41 +521,41 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 17-12-2015
 
-- Establecer  programas  para  apoyar  el  desarrollo  artístico  y  cultural  de  las  personas  con discapacidad;
+I. Establecer programas para apoyar el desarrollo artístico y cultural de las personas con discapacidad;
 
-- Impulsar  que  las  personas  con  discapacidad  cuenten  con  las  facilidades  necesarias  para acceder y disfrutar de los servicios culturales, y
+II. Impulsar que las personas con discapacidad cuenten con las facilidades necesarias para acceder y disfrutar de los servicios culturales, y
 
-- Las demás que dispongan otros ordenamientos.
+III. Las demás que dispongan otros ordenamientos.
 
 #### Artículo 26.
 La Secretaría de Cultura, diseñará y ejecutará políticas y programas orientados a:
 
 Párrafo reformado DOF 17-12-2015
 
-- Generar y difundir entre la sociedad el respeto a la diversidad y participación de las personas con discapacidad en el arte y la cultura;
+I. Generar y difundir entre la sociedad el respeto a la diversidad y participación de las personas con discapacidad en el arte y la cultura;
 
-- Establecer condiciones de inclusión de personas con discapacidad para lograr equidad en la promoción, el disfrute y la producción de servicios artísticos y culturales;
+II. Establecer condiciones de inclusión de personas con discapacidad para lograr equidad en la promoción, el disfrute y la producción de servicios artísticos y culturales;
 
-- Promover las adecuaciones físicas y de señalización necesarias para que tengan el acceso a todo recinto donde se desarrolle cualquier actividad cultural;
+III. Promover las adecuaciones físicas y de señalización necesarias para que tengan el acceso a todo recinto donde se desarrolle cualquier actividad cultural;
 
-- Difundir las actividades culturales;
+IV. Difundir las actividades culturales;
 
-- Impulsar el reconocimiento y el apoyo de su identidad cultural y lingüística específica, incluidas la Lengua de Señas Mexicana y la cultura de los sordos;
+V. Impulsar el reconocimiento y el apoyo de su identidad cultural y lingüística específica, incluidas la Lengua de Señas Mexicana y la cultura de los sordos;
 
-- Establecer  la  capacitación  de  recursos  humanos,  el  uso  de  materiales  y  tecnología  con  la finalidad de lograr su integración en las actividades culturales;
+VI. Establecer la capacitación de recursos humanos, el uso de materiales y tecnología con la finalidad de lograr su integración en las actividades culturales;
 
-- Fomentar  la  elaboración  de  materiales  de  lectura,  inclusive  en  sistema  Braille  u  otros formatos accesibles, y
+VII. Fomentar la elaboración de materiales de lectura, inclusive en sistema Braille u otros formatos accesibles, y
 
-- Las demás que dispongan otros ordenamientos.
+VIII. Las demás que dispongan otros ordenamientos.
 
 #### Artículo 27.
 La Secretaría de Turismo promoverá el derecho de las personas con discapacidad para acceder  a  los  servicios  turísticos,  recreativos  o  de  esparcimiento.  Para  tales  efectos,  realizará  las siguientes acciones:
 
-- Establecer  programas  y  normas  a  fin  de  que  la  infraestructura  destinada  a  brindar  servicios turísticos en el territorio nacional cuente con facilidades de accesibilidad universal;
+I. Establecer programas y normas a fin de que la infraestructura destinada a brindar servicios turísticos en el territorio nacional cuente con facilidades de accesibilidad universal;
 
-- Establecer programas para la promoción turística de las personas con discapacidad, y
+II. Establecer programas para la promoción turística de las personas con discapacidad, y
 
-- Las demás que dispongan otros ordenamientos.
+III. Las demás que dispongan otros ordenamientos.
 
 ### Capítulo IX Acceso a la Justicia
 
@@ -585,13 +588,13 @@ El Poder Ejecutivo Federal y los Gobiernos de las Entidades Federativas, en coor
 #### Artículo  32.
 Las  personas  con  discapacidad  tienen  derecho  a  la  libertad  de  expresión  y  opinión; incluida la  libertad  de  recabar,  recibir  y  facilitar  información  mediante cualquier  forma de comunicación que les facilite una participación e integración en igualdad de condiciones que el resto de la población. Para tales efectos, las autoridades competentes establecerán entre otras, las siguientes medidas:
 
-- Facilitar de manera oportuna y sin costo adicional, la información dirigida al público en general, en formatos accesibles y con las tecnologías adecuadas a los diferentes tipos de discapacidad;
+I. Facilitar de manera oportuna y sin costo adicional, la información dirigida al público en general, en formatos accesibles y con las tecnologías adecuadas a los diferentes tipos de discapacidad;
 
-- Promover la utilización de la Lengua de Señas Mexicana, el Sistema Braille, y otros modos, medios y formatos de comunicación, así como el acceso a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido Internet;
+II. Promover la utilización de la Lengua de Señas Mexicana, el Sistema Braille, y otros modos, medios y formatos de comunicación, así como el acceso a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido Internet;
 
 III.  Las  instituciones  a  cargo  de  servicios  y  programas  sociales  en  materia  de  discapacidad proporcionarán la información y la asesoría requerida para favorecer su desarrollo e integración social, y
 
-- Los  medios  de  comunicación  y  las  instituciones  del  sector  privado  que  prestan  servicios  y suministran información al público en general, la proporcionarán en formatos accesibles y de fácil comprensión a las personas con discapacidad.
+IV. Los medios de comunicación y las instituciones del sector privado que prestan servicios y suministran información al público en general, la proporcionarán en formatos accesibles y de fácil comprensión a las personas con discapacidad.
 
 ### Capítulo XI Lineamientos del Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad
 
@@ -601,9 +604,9 @@ El Gobierno Federal, los Gobiernos de las Entidades Federativas y de los Municip
 #### Artículo 34.
 El Programa deberá cumplir con los siguientes lineamientos generales:
 
-- Se deberá elaborar, revisar, modificar o ratificar y publicar en el Diario Oficial de la Federación en  el  primer  trimestre  del  año  y  para  su  mayor  difusión  será  publicado  en  las  Gacetas  o Periódicos Oficiales de las Entidades Federativas;
+I. Se deberá elaborar, revisar, modificar o ratificar y publicar en el Diario Oficial de la Federación en el primer trimestre del año y para su mayor difusión será publicado en las Gacetas o Periódicos Oficiales de las Entidades Federativas;
 
-- Elaborar el Programa con base en los lineamientos establecidos por la Convención sobre los Derechos de las Personas con Discapacidad y esta Ley;
+II. Elaborar el Programa con base en los lineamientos establecidos por la Convención sobre los Derechos de las Personas con Discapacidad y esta Ley;
 
 14 de 24
 
@@ -617,11 +620,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 17-12-2015
 
-- Establecer con claridad la política pública, metas y objetivos en materia de discapacidad en los tres niveles de gobierno;
+III. Establecer con claridad la política pública, metas y objetivos en materia de discapacidad en los tres niveles de gobierno;
 
-- Cumplir con la normatividad vigente para la elaboración de programas, supervisión, rendición de cuentas y mecanismos de transparencia, y
+IV. Cumplir con la normatividad vigente para la elaboración de programas, supervisión, rendición de cuentas y mecanismos de transparencia, y
 
-- Incluir lineamientos e indicadores de las políticas públicas, estadística, presupuestos, impacto social y todos aquellos que se estimen necesarios para una correcta y eficiente aplicación.
+V. Incluir lineamientos e indicadores de las políticas públicas, estadística, presupuestos, impacto social y todos aquellos que se estimen necesarios para una correcta y eficiente aplicación.
 
 ### Capítulo XII
 
@@ -636,19 +639,19 @@ El Sistema tiene como objeto la coordinación y seguimiento continuo de los prog
 #### Artículo 37.
 El Sistema tendrá los siguientes objetivos:
 
-- Difundir los derechos de las personas con discapacidad;
+I. Difundir los derechos de las personas con discapacidad;
 
-- Promover convenios de colaboración  y coordinación entre las instancias públicas y privadas nacionales e internacionales para el cumplimiento de la presente Ley;
+II. Promover convenios de colaboración y coordinación entre las instancias públicas y privadas nacionales e internacionales para el cumplimiento de la presente Ley;
 
-- Fortalecer los mecanismos de corresponsabilidad, solidaridad y subsidiariedad a favor de las personas con discapacidad;
+III. Fortalecer los mecanismos de corresponsabilidad, solidaridad y subsidiariedad a favor de las personas con discapacidad;
 
-- Impulsar programas y acciones para generar condiciones de igualdad y de equiparación de oportunidades para las personas con discapacidad;
+IV. Impulsar programas y acciones para generar condiciones de igualdad y de equiparación de oportunidades para las personas con discapacidad;
 
-- Promover  entre  los  Poderes  de  la  Unión  y  la  sociedad  civil  acciones  dirigidas  a  mejorar  la condición social de la población con discapacidad;
+V. Promover entre los Poderes de la Unión y la sociedad civil acciones dirigidas a mejorar la condición social de la población con discapacidad;
 
-- Promover  que  en  las  políticas,  programas  o  acciones,  se  impulse  la  toma  de  conciencia respecto de las capacidades, habilidades, aptitudes, méritos y aportaciones de las personas con discapacidad en todos los ámbitos, y
+VI. Promover que en las políticas, programas o acciones, se impulse la toma de conciencia respecto de las capacidades, habilidades, aptitudes, méritos y aportaciones de las personas con discapacidad en todos los ámbitos, y
 
-- Prestar  servicios  de  atención  a  las  personas  con  discapacidad  con  fundamento  en  los principios establecidos en la presente Ley.
+VII. Prestar servicios de atención a las personas con discapacidad con fundamento en los principios establecidos en la presente Ley.
 
 ## Título Tercero
 
@@ -656,7 +659,7 @@ Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapac
 
 ### Capítulo I
 
-Denominación, objeto, domicilio y patrimonio CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
+Denominación, objeto, domicilio y patrimonio
 
 15 de 24
 
@@ -665,7 +668,9 @@ Denominación, objeto, domicilio y patrimonio CÁMARA DE DIPUTADOS DEL H. CONGRE
 [[START OF PAGE 16]]
 
 LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
-
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+Secretaría General
+Secretaría de Servicios Parlamentarios
 Última Reforma DOF 17-12-2015
 
 #### Artículo  38.
@@ -680,9 +685,9 @@ El domicilio del Consejo será la Ciudad de México, Distrito Federal y podrá c
 #### Artículo 41.
 El patrimonio del Consejo se integrará con:
 
-- Los  recursos  que  le  asigne  la  Cámara  de  Diputados  en  el  Presupuesto  de  Egresos  de  la Federación para el Ejercicio Fiscal correspondiente;
+I. Los recursos que le asigne la Cámara de Diputados en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal correspondiente;
 
-- Los bienes muebles e inmuebles que le sean asignados;
+II. Los bienes muebles e inmuebles que le sean asignados;
 
 III. Los bienes que adquiera por cualquier otro título lícito, y
 
@@ -693,19 +698,19 @@ IV. Las aportaciones, donaciones, legados y demás liberalidades que reciba de p
 #### Artículo 42.
 Para el cumplimiento de la presente Ley, el Consejo tendrá las siguientes atribuciones:
 
-- Coordinar y elaborar el Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+I. Coordinar y elaborar el Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
 
-- Enviar el Programa a las Cámaras del Congreso de la Unión para su conocimiento;
+II. Enviar el Programa a las Cámaras del Congreso de la Unión para su conocimiento;
 
-- Promover  el  goce  y  ejercicio  pleno  de  los  derechos  de  las  personas  con  discapacidad,  así como  hacer  de  su  conocimiento  los  canales  institucionales  para  hacerlos  exigibles  ante  la autoridad competente;
+III. Promover el goce y ejercicio pleno de los derechos de las personas con discapacidad, así como hacer de su conocimiento los canales institucionales para hacerlos exigibles ante la autoridad competente;
 
-- Promover la accesibilidad en la infraestructura física de instalaciones públicas y los recursos técnicos, materiales y humanos necesarios para la atención segura y accesible de la población con discapacidad;
+IV. Promover la accesibilidad en la infraestructura física de instalaciones públicas y los recursos técnicos, materiales y humanos necesarios para la atención segura y accesible de la población con discapacidad;
 
-- Promover  la  elaboración,  publicación y difusión  de  estudios,  investigaciones,  obras y materiales sobre el desarrollo e inclusión social, económico, político  y cultural de las personas con discapacidad;
+V. Promover la elaboración, publicación y difusión de estudios, investigaciones, obras y materiales sobre el desarrollo e inclusión social, económico, político y cultural de las personas con discapacidad;
 
-- Promover y fomentar la cultura de la dignidad y respeto de las personas con discapacidad, a través de programas y campañas de sensibilización y concientización;
+VI. Promover y fomentar la cultura de la dignidad y respeto de las personas con discapacidad, a través de programas y campañas de sensibilización y concientización;
 
-- Solicitar  información  a  las  instituciones  públicas,  sociales  y  privadas  que  le  permitan  el cumplimiento de las atribuciones que le confiere la presente Ley;
+VII. Solicitar información a las instituciones públicas, sociales y privadas que le permitan el cumplimiento de las atribuciones que le confiere la presente Ley;
 
 16 de 24
 
@@ -721,21 +726,21 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 VIII. Promover la firma, ratificación y cumplimiento de instrumentos internacionales o regionales en materia de discapacidad;
 
-- Difundir  y  dar  seguimiento  al  cumplimiento  de  las  obligaciones  contraídas  con  gobiernos  e instituciones  de  otros  países  así  como  con  organismos  internacionales  relacionados  con  la discapacidad;
+IX. Difundir y dar seguimiento al cumplimiento de las obligaciones contraídas con gobiernos e instituciones de otros países así como con organismos internacionales relacionados con la discapacidad;
 
-- Celebrar  acuerdos  de  colaboración  con  organismos  públicos  y  privados,  nacionales  e internacionales, para el desarrollo de proyectos que beneficien a las personas con discapacidad;
+X. Celebrar acuerdos de colaboración con organismos públicos y privados, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las personas con discapacidad;
 
-- Suscribir convenios con el sector gubernamental y los sectores productivos y empresariales, para que se otorguen descuentos, facilidades económicas o administrativas en la adquisición de bienes y servicios públicos o privados, a las personas con discapacidad o sus familias;
+XI. Suscribir convenios con el sector gubernamental y los sectores productivos y empresariales, para que se otorguen descuentos, facilidades económicas o administrativas en la adquisición de bienes y servicios públicos o privados, a las personas con discapacidad o sus familias;
 
-- Promover  la  armonización  de  Leyes  y  Reglamentos  a  nivel  federal,  estatal  o  municipal, respecto de las disposiciones establecidas en la Convención sobre los Derechos de las Personas con Discapacidad;
+XII. Promover la armonización de Leyes y Reglamentos a nivel federal, estatal o municipal, respecto de las disposiciones establecidas en la Convención sobre los Derechos de las Personas con Discapacidad;
 
-- Promover  la creación y aplicación de Normas  Oficiales Mexicanas  en  materia  de discapacidad;
+XIII. Promover la creación y aplicación de Normas Oficiales Mexicanas en materia de discapacidad;
 
-- Elaborar, presentar y difundir anualmente el informe de avances y resultados del Programa;
+XIV. Elaborar, presentar y difundir anualmente el informe de avances y resultados del Programa;
 
-- Presentar un informe anual de actividades;
+XV. Presentar un informe anual de actividades;
 
-- Coadyuvar con la Secretaría de Relaciones Exteriores en la elaboración de los informes que el  Estado  Mexicano  presentará  ante  los  organismos  internacionales,  sobre  la  aplicación  y cumplimiento de los instrumentos internacionales en materia de discapacidad, y
+XVI. Coadyuvar con la Secretaría de Relaciones Exteriores en la elaboración de los informes que el Estado Mexicano presentará ante los organismos internacionales, sobre la aplicación y cumplimiento de los instrumentos internacionales en materia de discapacidad, y
 
 XVII. Las demás que se establezcan en esta Ley, su Reglamento, Estatuto Orgánico del Consejo y demás disposiciones aplicables.
 
@@ -744,9 +749,9 @@ XVII. Las demás que se establezcan en esta Ley, su Reglamento, Estatuto Orgáni
 #### Artículo 43.
 La Administración del Consejo corresponde a:
 
-- La Junta de Gobierno, y
+I. La Junta de Gobierno, y
 
-- El Director General.
+II. El Director General.
 
 #### Artículo 44.
 La  Junta  de  Gobierno del Consejo estará integrada por diez representantes del Poder Ejecutivo Federal, uno de la Comisión Nacional de los Derechos Humanos y cinco representantes de la Asamblea Consultiva.
@@ -755,9 +760,9 @@ Párrafo reformado DOF 17-12-2015
 
 Los representantes del Poder Ejecutivo Federal serán los titulares de las siguientes dependencias y entidades:
 
-- Secretaría de Salud;
+I. Secretaría de Salud;
 
-- Secretaría de Desarrollo Social;
+II. Secretaría de Desarrollo Social;
 
 17 de 24
 
@@ -769,21 +774,25 @@ LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
-- Secretaría de Educación Pública;
+Última Reforma DOF 17-12-2015
+
+III. Secretaría de Educación Pública;
 
 III Bis. Secretaría de Cultura;
 
-- Secretaría de Hacienda y Crédito Público;
+Fracción adicionada DOF 17-12-2015
 
-- Secretaría del Trabajo y Previsión Social;
+IV. Secretaría de Hacienda y Crédito Público;
 
-- Secretaría de Comunicaciones y Transportes;
+V. Secretaría del Trabajo y Previsión Social;
 
-- Sistema Nacional para el Desarrollo Integral de la Familia;
+VI. Secretaría de Comunicaciones y Transportes;
 
-- Consejo Nacional para Prevenir la Discriminación, y
+VII. Sistema Nacional para el Desarrollo Integral de la Familia;
 
-- Comisión Nacional de Cultura Física y Deporte.
+VIII. Consejo Nacional para Prevenir la Discriminación, y
+
+IX. Comisión Nacional de Cultura Física y Deporte.
 
 Los integrantes designados por la Asamblea Consultiva durarán en su encargo tres años, pudiendo ser ratificados por otro periodo igual. Este cargo tendrá el carácter de honorífico.
 
@@ -800,17 +809,13 @@ La Junta de Gobierno con la aprobación de la mayoría de sus asistentes, podrá
 #### Artículo 47.
 La Junta de Gobierno tendrá, además de aquellas que establece el artículo 58 de la Ley Federal de las Entidades Paraestatales, las siguientes atribuciones:
 
-- Aprobar el Estatuto Orgánico del Consejo, con base en la propuesta que presente el Director General del Consejo;
+I. Aprobar el Estatuto Orgánico del Consejo, con base en la propuesta que presente el Director General del Consejo;
 
-- Establecer  las  políticas  generales  para  la  conducción  del  Consejo  con  apego  a  esta  Ley, Estatuto Orgánico, al Programa y a los demás ordenamientos que regulen su funcionamiento;
+II. Establecer las políticas generales para la conducción del Consejo con apego a esta Ley, Estatuto Orgánico, al Programa y a los demás ordenamientos que regulen su funcionamiento;
 
-III.  Aprobar los  planes de labores, presupuestos, informes de actividades y estados financieros anuales;
+III. Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
 
-- Aprobar  el  Estatuto  Orgánico,  la  Organización  General  del  Consejo  y  los  Manuales  de procedimientos;
-
-Última Reforma DOF 17-12-2015
-
-Fracción adicionada DOF 17-12-2015
+IV. Aprobar el Estatuto Orgánico, la Organización General del Consejo y los Manuales de procedimientos;
 
 18 de 24
 
@@ -826,9 +831,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 V. Nombrar y remover, a propuesta del Director General del Consejo a los servidores públicos de éste que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquél;
 
-- Expedir y publicar el informe anual de la Junta, y
+VI. Expedir y publicar el informe anual de la Junta, y
 
-- Las demás que le confieran éste y otros ordenamientos aplicables.
+VII. Las demás que le confieran éste y otros ordenamientos aplicables.
 
 #### Artículo 48.
 La Junta de Gobierno sesionará válidamente cuando en la sesión estén presentes más de la mitad de los miembros.
@@ -840,28 +845,28 @@ Las sesiones que celebre la Junta de Gobierno serán ordinarias y extraordinaria
 #### Artículo 49.
 El Director General será designado por el Presidente de la República, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
 
-- Ser  Ciudadano Mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser Ciudadano Mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-- Haber  desempeñado  cargos  de  alto  nivel  decisorio,  cuyo  ejercicio  requiera  conocimientos, experiencia en materia administrativa y en materia de discapacidad, y
+II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos, experiencia en materia administrativa y en materia de discapacidad, y
 
 III. No encontrarse en alguno de los impedimentos que para ser miembro del Órgano de Gobierno señalan  las  fracciones  II,  III,  IV  y  V  del  artículo  19  de  la  Ley  Federal  de  las  Entidades Paraestatales.
 
 #### Artículo 50.
 El Director General del Consejo tendrá, además de aquellas que establece el artículo 59 de la Ley Federal de las Entidades Paraestatales, las siguientes facultades:
 
-- Planear,  organizar,  coordinar,  dirigir,  controlar  y  evaluar  el  funcionamiento  del  Consejo,  con sujeción a las disposiciones aplicables;
+I. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento del Consejo, con sujeción a las disposiciones aplicables;
 
-- Presentar a la consideración de la Junta de Gobierno el proyecto del Programa;
+II. Presentar a la consideración de la Junta de Gobierno el proyecto del Programa;
 
-- Someter a la aprobación de la Junta de Gobierno el informe anual de actividades y el informe sobre el ejercicio presupuestal;
+III. Someter a la aprobación de la Junta de Gobierno el informe anual de actividades y el informe sobre el ejercicio presupuestal;
 
-- Ejecutar los acuerdos y demás disposiciones del Consejo y de la Junta de Gobierno, así como supervisar su cumplimiento por parte de las unidades administrativas competentes del Consejo;
+IV. Ejecutar los acuerdos y demás disposiciones del Consejo y de la Junta de Gobierno, así como supervisar su cumplimiento por parte de las unidades administrativas competentes del Consejo;
 
-- Elaborar el informe anual de actividades, así como el ejercicio presupuestal, éste último previa opinión de la Secretaría de Hacienda y Crédito Público;
+V. Elaborar el informe anual de actividades, así como el ejercicio presupuestal, éste último previa opinión de la Secretaría de Hacienda y Crédito Público;
 
-- Someter a la aprobación de la Junta de Gobierno el proyecto del Estatuto Orgánico;
+VI. Someter a la aprobación de la Junta de Gobierno el proyecto del Estatuto Orgánico;
 
-- Nombrar a los servidores públicos del Consejo, a excepción de aquellos que ocupen los dos niveles jerárquicos inferiores inmediatos al titular;
+VII. Nombrar a los servidores públicos del Consejo, a excepción de aquellos que ocupen los dos niveles jerárquicos inferiores inmediatos al titular;
 
 19 de 24
 
@@ -877,11 +882,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 VIII. Ejercer la representación legal del Consejo, así como delegarla cuando no exista prohibición expresa para ello;
 
-- Celebrar  acuerdos  de  colaboración  con  organismos  nacionales  e  internacionales  para  el desarrollo de las atribuciones del Consejo, de conformidad con las normas aplicables;
+IX. Celebrar acuerdos de colaboración con organismos nacionales e internacionales para el desarrollo de las atribuciones del Consejo, de conformidad con las normas aplicables;
 
-- Proponer a la Junta de Gobierno el tabulador salarial del Consejo, y
+X. Proponer a la Junta de Gobierno el tabulador salarial del Consejo, y
 
-- Las demás que le confieran éste u otros ordenamientos.
+XI. Las demás que le confieran éste u otros ordenamientos.
 
 ### Capítulo IV Asamblea Consultiva
 
@@ -891,27 +896,27 @@ La Asamblea Consultiva es un órgano de asesoría y consulta del Consejo Naciona
 #### Artículo 52.
 La Asamblea Consultiva tendrá las siguientes atribuciones:
 
-- Atender las consultas y formular las opiniones que les sean solicitadas por la Junta de Gobierno o por el Director General del Consejo;
+I. Atender las consultas y formular las opiniones que les sean solicitadas por la Junta de Gobierno o por el Director General del Consejo;
 
-- Emitir opiniones y formular propuestas sobre la aplicación y orientación de la Política Pública para el Desarrollo y la Inclusión de las personas con discapacidad;
+II. Emitir opiniones y formular propuestas sobre la aplicación y orientación de la Política Pública para el Desarrollo y la Inclusión de las personas con discapacidad;
 
-- Impulsar  la  participación  ciudadana  y  de  las  organizaciones  de  y  para  personas  con discapacidad en el seguimiento, operación y evaluación del Programa;
+III. Impulsar la participación ciudadana y de las organizaciones de y para personas con discapacidad en el seguimiento, operación y evaluación del Programa;
 
-- Apoyar al Consejo en la promoción y cumplimiento del Programa;
+IV. Apoyar al Consejo en la promoción y cumplimiento del Programa;
 
-- Proponer  al  Consejo  los  temas  que  por  su  importancia  ameriten  ser  sometidos  a  consulta pública;
+V. Proponer al Consejo los temas que por su importancia ameriten ser sometidos a consulta pública;
 
-- Promover  y  propiciar  la  colaboración  de  organismos  públicos  y  privados,  nacionales  y extranjeros en el desarrollo e inclusión de las personas con discapacidad;
+VI. Promover y propiciar la colaboración de organismos públicos y privados, nacionales y extranjeros en el desarrollo e inclusión de las personas con discapacidad;
 
-- Promover la realización de estudios e investigaciones en la materia;
+VII. Promover la realización de estudios e investigaciones en la materia;
 
-- Recomendar la realización de auditorías a programas prioritarios cuando existan causas que lo ameriten;
+VIII. Recomendar la realización de auditorías a programas prioritarios cuando existan causas que lo ameriten;
 
-- Promover  la  celebración  de  convenios  con  dependencias  del  Ejecutivo  Federal,  entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el desarrollo y la inclusión social de las personas con discapacidad;
+IX. Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el desarrollo y la inclusión social de las personas con discapacidad;
 
-- Informar a la opinión pública sobre los aspectos de interés general relativos al Programa;
+X. Informar a la opinión pública sobre los aspectos de interés general relativos al Programa;
 
-- Integrar  las  comisiones  y  grupos  de  trabajo  que  sean  necesarios  para  el  ejercicio  de  sus atribuciones;
+XI. Integrar las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus atribuciones;
 
 20 de 24
 
@@ -925,18 +930,18 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 17-12-2015
 
-- Nombrar  a  cinco  personas,  propietarios  y  suplentes,  que  formarán  parte  de  la  Junta  de Gobierno, y
+XII. Nombrar a cinco personas, propietarios y suplentes, que formarán parte de la Junta de Gobierno, y
 
 XIII. Las demás que dispongan otros ordenamientos.
 
 #### Artículo 53.
 La Asamblea Consultiva estará integrada por:
 
-- Un representante electo por las organizaciones de y para personas con discapacidad, de cada una de las Entidades Federativas;
+I. Un representante electo por las organizaciones de y para personas con discapacidad, de cada una de las Entidades Federativas;
 
-- Cinco personas entre expertos, académicos o investigadores electos por convocatoria pública realizada en los términos previstos en el Estatuto Orgánico, y
+II. Cinco personas entre expertos, académicos o investigadores electos por convocatoria pública realizada en los términos previstos en el Estatuto Orgánico, y
 
-- Cinco  representantes  de  organizaciones  nacionales  de  y  para  personas  con  discapacidad, electos por un comité que tomará en consideración las diferentes discapacidades y el género que estará  integrado  por  el  Director  General  del  Consejo,  los  Presidentes  de  las  Comisiones  de Atención a Grupos Vulnerables de ambas Cámaras del Congreso de la Unión y el Presidente de la Comisión Nacional de Derechos Humanos.
+III. Cinco representantes de organizaciones nacionales de y para personas con discapacidad, electos por un comité que tomará en consideración las diferentes discapacidades y el género que estará integrado por el Director General del Consejo, los Presidentes de las Comisiones de Atención a Grupos Vulnerables de ambas Cámaras del Congreso de la Unión y el Presidente de la Comisión Nacional de Derechos Humanos.
 
 La Asamblea será presidida por un representante electo de entre sus miembros.
 
@@ -971,7 +976,7 @@ Las relaciones de trabajo del Consejo y su personal se regirán por la Ley Feder
 LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
-
+Última Reforma DOF 17-12-2015
 ## Título Cuarto
 
 ### Capítulo I Responsabilidades y Sanciones
@@ -1004,11 +1009,9 @@ Los representantes a que se refieren las fracciones II y III del artículo  53 d
 ### Séptimo.
 Todos  los  entes  competentes  deberán  desarrollar  las  políticas  públicas  y  acciones señaladas en la presente  Ley,  adoptando  medidas  hasta  el  máximo  de  sus  recursos  disponibles  para lograr, de manera progresiva, el pleno ejercicio de estos derechos en congruencia con la Convención.
 
-México, D.F., a 3 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin ,  Presidente.- Sen. Manlio Fabio  Beltrones  Rivera ,  Presidente.-  Dip. Heron  Escobar  Garcia ,  Secretario.-  Sen. Martha  Leticia Sosa Govea , Secretaria.- Rúbricas. "
+México, D.F., a 3 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de mayo de dos mil once.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora .- Rúbrica.
-
-Última Reforma DOF 17-12-2015
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 
 22 de 24
 
@@ -1028,7 +1031,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
-#### ARTÍCULO SEXTO.
+#### ARTÍCULO SEXTO.-
 Se  REFORMAN  los  artículos  25,  párrafo  primero;  26,  párrafo  primero,  y  44, párrafo primero y se ADICIONA la fracción III Bis al segundo párrafo del artículo 44 de la Ley General para la Inclusión de las Personas con Discapacidad, para quedar como sigue:
 
 ………
@@ -1083,9 +1086,9 @@ Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto
 ##### DÉCIMO.
 Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
-México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva , Presidente.- Sen. Roberto  Gil  Zuarth ,  Presidente.-  Dip. Verónica  Delgadillo  García ,  Secretaria.-  Sen. María  Elena Barrera Tapia , Secretaria.- Rúbricas. "
+México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia  del  Poder  Ejecutivo  Federal,  en  la  Ciudad  de  México,  Distrito  Federal,  a  dieciséis  de diciembre  de  dos  mil  quince.Enrique  Peña  Nieto .-  Rúbrica.-  El  Secretario  de  Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 24 de 24
 
