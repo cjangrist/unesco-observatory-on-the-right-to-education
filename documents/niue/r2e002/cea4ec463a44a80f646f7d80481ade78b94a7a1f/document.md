@@ -8,6 +8,88 @@ Education Act 1989
 
 1989/130 - January 1989
 
+1 Short title
+2 Interpretation
+
+## PART 1
+### CENTRAL ADMINISTRATION
+
+3 Department of Education
+4 Cabinet’s powers and responsibilities
+5 General duties of the Minister
+6 Delegation of Minister’s powers
+7 Director of Education
+8 Appointment of other officers
+9 Delegation of Director’s powers
+10 Expenses of administration to be appropriated by the Assembly
+
+## PART 2
+### LOCAL ADMINISTRATION
+
+11 Prescribing zones of residence
+12 School committees
+13 Qualifications of members of school committees
+14 Vacancies of school committees
+15 Meetings of committees
+16 Committee to have management of school
+17 School funds
+
+## PART 3
+### ESTABLISHMENT OF SCHOOLS
+
+18 Establishment of Government schools
+19 Fees for education
+20 Establishment and registration of private schools
+21 Deregistration of private schools
+22 School principals
+23 Appointment of teachers and other staff
+
+## PART 4
+### ENROLMENT AND ATTENDANCE OF PUPILS
+
+24 Enrolment and attendance to be compulsory
+25 Parents’ responsibilities
+26 Exemption from enrolment
+27 Child be sent to a special school
+28 Penalty for failure to enrol child
+29 Exemption from attendance
+29A Exemption from attendance by children who have attained the age of 14 years
+30 Penalty for irregular attendance
+31 Principal to keep records
+32 Inspection of attendance
+33 Restriction on enrolment
+34 Suspension and expulsion
+35 Forbidding attendance in certain cases
+
+## PART 5
+### SCHOOL CLASSES, HOURS AND TERMS
+
+36 Classification of pupils
+37 Hours and terms of attendance
+
+## PART 6
+### COURSES OF INSTRUCTION
+
+38 Courses in Government schools
+39 Religious instruction
+
+## PART 7
+### INSPECTION OF SCHOOLS
+
+40 Inspection of schools
+41 Schools to be open for inspection
+42 Inspection of school accounts
+
+## PART 8
+### GENERAL PROVISIONS
+
+43 Guidance and counseling
+44 Closing of schools in emergency
+45 Wilful disturbance of schools
+46 Transport assistance
+47 Medical inspection
+48 Regulations
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -48,7 +130,7 @@ In this Act -
 
 (b) Any institution controlled by a religious organisation for the purpose of training persons for the ministry of religion or for admission to a religious order;
 
-'school age' in relation to any child, means any age between the age of 5 years and the age of 16 years or any earlier age at which the child ceases to be required to have his name enrolled on the register of a school under Part 4; or in the case of any child who is deemed by the Director (after special examination by a medical officer or other officer appointed for the purpose) to require special tuition, between such ages as the Director many from time to time determine, but in no case shall any person who has attained the age of 21 years be deemed to be of school age;
+'school age' in relation to any child, means any age between the age of 5 years and the age of 16 years or any earlier age at which the child ceases to be required to have his name enrolled on the register of a school under Part 4; or in the case of any child who is deemed by the Director (after special examination by a medical officer or other officer appointed for the purpose) to require special tuition, between such ages as the Director may from time to time determine, but in no case shall any person who has attained the age of 21 years be deemed to be of school age;
 
 'school committee' means a body of persons established under Part 2.
 
@@ -78,7 +160,7 @@ It shall be the duty of the Minister to promote the education of the people of N
 
 #### 6 Delegation of Minister's powers
 
-- The  Minister  may  by  writing  under  his  hand  either  generally  or particularly, delegate to the Director all or any of the powers which are conferred on the Minister by this Act or any other enactment, including powers delegated under any enactment, but not including the power to delegate under this section or the power to consent to a delegation under section 9.
+(1) The Minister may by writing under his hand either generally or particularly, delegate to the Director all or any of the powers which are conferred on the Minister by this Act or any other enactment, including powers delegated under any enactment, but not including the power to delegate under this section or the power to consent to a delegation under section 9.
 
 (2)    Subject  to  any  general  or  special  directions  given  or  conditions  or restrictions  attached  by  the  Minister,  the  Director  may  exercise  any  powers delegated as aforesaid in the same manner and with the same effect as if they had been conferred on him directly by this section and not by delegation.
 
@@ -86,7 +168,7 @@ It shall be the duty of the Minister to promote the education of the people of N
 
 (4)  Every such delegation shall be revocable at will, and no such delegation shall prevent the exercise of any power by the Minister.
 
-(a) Unless and until any such delegation is revoked, it shall continue in force under tenor.
+(5) (a) Unless and until any such delegation is revoked, it shall continue in force under tenor.
 
 (b) In the event of the Minister by whom any such delegation has been made ceasing to hold office, it shall continue to have effect as if made by the person for the time being holding office as Minister and, in the event of the Director ceasing to hold office, it shall continue to have effect as if made to the person for the time being holding office as Director or, if there is no Director in office or if the Director is absent from duty, to the person for the time being acting as Director.
 
@@ -108,11 +190,11 @@ Niue Laws 2006     Vol 2
 
 #### 9 Delegation of Director's powers
 
-(a) The Director may by writing either generally or particularly delegate to  such  officer  or  officers  or  employee  or  employees  of  the Department as he thinks fit all or any of the powers exercisable by him under this Act or any other enactment, including any powers delegated to him under this Act or any other enactment, but not including this present power of delegation.
+(1) (a) The Director may by writing either generally or particularly delegate to such officer or officers or employee or employees of the Department as he thinks fit all or any of the powers exercisable by him under this Act or any other enactment, including any powers delegated to him under this Act or any other enactment, but not including this present power of delegation.
 
 (b) The Director shall not delegate any power delegated to him by the Minister without the written consent of the Minister:
 
-(2)    Subject  to  any  general  or  special  directions  given  or  conditions  or restrictions attached by the Director, the officer or employee to whom any powers as delegated under this section may exercise those powers in the same manner and with the same effect as if they had been conferred on him directly by this section and not by delegation.
+(2) Subject to any general or special directions given or conditions or restrictions attached by the Director, the officer or employee to whom any powers are delegated under this section may exercise those powers in the same manner and with the same effect as if they had been conferred on him directly by this section and not by delegation.
 
 (3)  Every delegation under this section shall be revocable at will, and no such delegation shall prevent the exercise of any power by the Director.
 
@@ -138,7 +220,7 @@ All amounts payable for the expenses of the Department, and all amounts payable 
 
 #### 12 School committees
 
-(a)  For every Government school established under this Act, there shall be a school committee comprising of 5 members 4 of whom to be elected by the parents whose children attend that school in the manner as may be prescribed by regulations made under this Act.
+(1) (a) For every Government school established under this Act, there shall be a school committee comprising of 5 members 4 of whom to be elected by the parents whose children attend that school in the manner as may be prescribed by regulations made under this Act.
 
 (b)  The Principal of each school shall be an ex officio member of the Committee.
 
@@ -168,7 +250,7 @@ Education Act 1989
 
 (c) A person convicted of any offence punishable by imprisonment, unless he has received a full pardon or has served his sentence or otherwise suffered the penalty imposed upon him.
 
-(a) Subject  to  subsection  (1)  every  parent  whose  child  attends  a Government school shall be eligible to be elected a member of the school committee for that school and no other person shall be so qualified.
+(2) (a) Subject to subsection (1) every parent whose child attends a Government school shall be eligible to be elected a member of the school committee for that school and no other person shall be so qualified.
 
 (b) A parent can only be a member of one school committee at any one time.
 
@@ -262,23 +344,23 @@ Education Act 1989
 
 #### 19 Fees for education
 
-- All education provided in Government schools shall be free.
+(1) All education provided in Government schools shall be free.
 
-- Cabinet may by regulations require fees to be paid in respect of certain schools, institutions or classes of learning and also prescribe the nature and level of fees to be paid.
+(2) Cabinet may by regulations require fees to be paid in respect of certain schools, institutions or classes of learning and also prescribe the nature and level of fees to be paid.
 
 #### 20 Establishment and registration of private schools
 
-- Cabinet  may,  on  the  application of any person or body of persons desirous of establishing a private school, approve the establishment of such school upon such terms and conditions as Cabinet deems fit.
+(1) Cabinet may, on the application of any person or body of persons desirous of establishing a private school, approve the establishment of such school upon such terms and conditions as Cabinet deems fit.
 
-(a) Every such application shall be made to the Director who may require the provision of any further information as the Director may require.
+(2) (a) Every such application shall be made to the Director who may require the provision of any further information as the Director may require.
 
 (b) Upon satisfaction that all relevant information pertaining to the application have been obtained, the Director shall as soon as practicable  forward  the  application,  together  with  any recommendations, to the Minister for consideration by Cabinet.
 
-- On the approval of the application by Cabinet, the Director shall accordingly register the school as a private school and the registration shall be notified by him in the Gazette.
+(3) On the approval of the application by Cabinet, the Director shall accordingly register the school as a private school and the registration shall be notified by him in the Gazette.
 
 #### 21 Deregistration of private schools
 
-- The Minister, with the approval of Cabinet, may cancel the registration of a private school if the Minister is satisfied on advice received from the Director that -
+(1) The Minister, with the approval of Cabinet, may cancel the registration of a private school if the Minister is satisfied on advice received from the Director that -
 
 (a) The school is conducted inefficiently or in a manner which is or is likely to be detrimental to the physical, mental, or moral welfare of the pupils attending; or
 
@@ -304,9 +386,9 @@ Education Act 1989
 
 Niue Laws 2006     Vol 2
 
-- The Principal shall be responsible for the care, safety, control and discipline of each pupil attending that school.
+(3) The Principal shall be responsible for the care, safety, control and discipline of each pupil attending that school.
 
-- The Principal of every Government school, shall in carrying out his duties and functions under this Act or in carrying out such further duties and functions as the Director may direct, be responsible to the Director.
+(4) The Principal of every Government school, shall in carrying out his duties and functions under this Act or in carrying out such further duties and functions as the Director may direct, be responsible to the Director.
 
 #### 23 Appointment of teachers and other staff
 
@@ -320,7 +402,7 @@ There may be appointed by the Niue Public Service Commission such deputy princip
 
 (1) Every child of school age who is in Niue and is ordinarily resident in Niue shall, unless exempted under this Part be enrolled at and shall attend, whenever it is open, the Government school which is appropriate to his zone of residence, or as directed by the Director under section 11(2) or a private school, or a special school or any other form of tuition as the Director deems necessary, during the whole of the period commencing on the child's fifth birthday (or on the next ensuing day on which any such school is open) and ending on the child's sixteenth birthday.
 
-- Notwithstanding subsection (1) any child who will turn 5 during the duration of any school term shall be entitled to enrol at the beginning of that school term.
+(2) Notwithstanding subsection (1) any child who will turn 5 during the duration of any school term shall be entitled to enrol at the beginning of that school term.
 
 #### 25 Parents' responsibilities
 
@@ -328,7 +410,7 @@ It shall be the duty of each parent of any child of school age who is in Niue an
 
 #### 26 Exemption from enrolment
 
-- The parent of any child who has not completed his primary education may apply for and receive from the principal of the Government primary school nearest to his place of residence, a certificate of exemption under this section.
+(1) The parent of any child who has not completed his primary education may apply for and receive from the principal of the Government primary school nearest to his place of residence, a certificate of exemption under this section.
 
 (2) The parent of any child who has completed his primary education may apply for and receive from the principal of the secondary school nearest to his place of residence, a certificate of exemption under this section.
 
@@ -382,7 +464,7 @@ Education Act 1989
 
 (4) Any parent who is dissatisfied with any refusal to grant a certificate of exemption from attendance may appeal to the Director who may confirm or overrule the refusal.
 
-(a) Every certificate of exemption from attendance shall state the ground of the exemption and shall be for such period only as the circumstances require; and no such certificate of exemption shall be granted for a longer period than 3 months, but any such certificate may be renewed for a like period during the continuance of the conditions for which the exemption has been granted.
+(5) (a) Every certificate of exemption from attendance shall state the ground of the exemption and shall be for such period only as the circumstances require; and no such certificate of exemption shall be granted for a longer period than 3 months, but any such certificate may be renewed for a like period during the continuance of the conditions for which the exemption has been granted.
 
 [[END OF PAGE 9]]
 
@@ -394,29 +476,29 @@ Niue Laws 2006     Vol 2
 
 (b) The Director, being satisfied that the conditions for which the exemption has been granted no longer exist, may cancel any such certificate of exemption.
 
-- A child may be exempted from attendance for a period not exceeding 5 school days notwithstanding that no certificate exempting him from attendance has been granted if the Principal of the school attended by him is satisfied that the child has been absent for good and sufficient reason.
+(6) A child may be exempted from attendance for a period not exceeding 5 school days notwithstanding that no certificate exempting him from attendance has been granted if the Principal of the school attended by him is satisfied that the child has been absent for good and sufficient reason.
 
 #### 29A Exemption from attendance by children who have attained the age of 14 years
 
-- The parent of a child who has attained the age of 14 years may apply to the Director for a certificate of exemption from attendance in respect of the child.
+(1) The parent of a child who has attained the age of 14 years may apply to the Director for a certificate of exemption from attendance in respect of the child.
 
-- A certificate of exemption granted under this section exempts the child to whom it relates from attendance at school.
+(2) A certificate of exemption granted under this section exempts the child to whom it relates from attendance at school.
 
 (3) The Director must not grant a certificate of exemption under this section in respect of a child until the Director has satisfied himself that -
 
 (a) The child has been offered employment or training; and
 
-(b It is in the child's best interest that the child should be so employed or trained instead of receiving instruction at a school.
+(b) It is in the child's best interest that the child should be so employed or trained instead of receiving instruction at a school.
 
-- A parent who is dissatisfied with a refusal by the Director to grant a certificate of exemption under this section may appeal to the Minister who may confirm or overrule the refusal.
+(4) A parent who is dissatisfied with a refusal by the Director to grant a certificate of exemption under this section may appeal to the Minister who may confirm or overrule the refusal.
 
-- A certificate of exemption granted under this section must -
+(5) A certificate of exemption granted under this section must -
 
 (a) State the nature of the employment or training that the child is to undertake; and
 
 (b) Be forwarded by the Director to the Minister within the 14 days after its issue.
 
-- The Director may cancel a certificate of exemption granted under this section if the Director is satisfied that -
+(6) The Director may cancel a certificate of exemption granted under this section if the Director is satisfied that -
 
 (a) The child named in the certificate -
 
@@ -430,9 +512,9 @@ Niue Laws 2006     Vol 2
 
 #### 30 Penalty for irregular attendance
 
-- Where any child required by this Act to attend school has been enrolled on the register of a school and does not attend, each parent of the child commits an offence and is liable on conviction to a fine not exceeding 0.5 penalty units for every day on which the child fails to attend school as required by this Act; but no parent shall be liable to a fine exceeding 0.5 penalty units on conviction for a first offence against this section, nor to a fine exceeding 1 penalty unit on conviction for a second or subsequent offence against this section.
+(1) Where any child required by this Act to attend school has been enrolled on the register of a school and does not attend, each parent of the child commits an offence and is liable on conviction to a fine not exceeding 0.5 penalty units for every day on which the child fails to attend school as required by this Act; but no parent shall be liable to a fine exceeding 0.5 penalty units on conviction for a first offence against this section, nor to a fine exceeding 1 penalty unit on conviction for a second or subsequent offence against this section.
 
-- In any prosecution under subsection (1) the onus of proof that any child is not required to attend school shall be on the person charged.
+(2) In any prosecution under subsection (1) the onus of proof that any child is not required to attend school shall be on the person charged.
 
 [[END OF PAGE 10]]
 
@@ -444,9 +526,9 @@ Education Act 1989
 
 #### 31 Principal to keep records
 
-- It  shall  be  the  duty  of  the  principal  of  each  school  to  enrol,  and  to maintain a proper roll of all pupils enrolled at the school, in such form and manner as may be required by the Director.
+(1) It shall be the duty of the principal of each school to enrol, and to maintain a proper roll of all pupils enrolled at the school, in such form and manner as may be required by the Director.
 
-- The principal shall also ensure that the teachers keep proper records of attendance and the principal shall compile a summary of attendance for each school term which shall be forwarded to the Director at the end of each school term.
+(2) The principal shall also ensure that the teachers keep proper records of attendance and the principal shall compile a summary of attendance for each school term which shall be forwarded to the Director at the end of each school term.
 
 #### 32 Inspection of attendance
 
@@ -458,13 +540,13 @@ The Director may, with the approval of the Minister, in order to avoid overcrowd
 
 #### 34 Suspension and expulsion
 
-(a) Notwithstanding the foregoing provisions it shall be lawful for the principal of any Government school to suspend from attendance any child who, from gross misconduct or incorrigible disobedience, may be considered an injurious or dangerous example to other pupils, or whose attendance at school is likely for any serious cause to have detrimental effect upon himself or upon the other pupils.
+(1) (a) Notwithstanding the foregoing provisions it shall be lawful for the principal of any Government school to suspend from attendance any child who, from gross misconduct or incorrigible disobedience, may be considered an injurious or dangerous example to other pupils, or whose attendance at school is likely for any serious cause to have detrimental effect upon himself or upon the other pupils.
 
 (b) No suspension of the pupil who is 14 years and under shall be for a period exceeding one week, except where extended as  provided in this section.
 
-- Where any pupil 14 years and under is suspended from attendance under subsection (1) the following shall apply -
+(2) Where any pupil 14 years and under is suspended from attendance under subsection (1) the following shall apply -
 
-(a) The principal shall immediately notify the parents or guardian of the pupil and the School Committee (if any) of the school of the suspension and the reasons therefore, and shall forward forthwith to the Director a full report of the suspension;
+(a) The principal shall immediately notify the parents or guardian of the pupil and the School Committee (if any) of the school of the suspension and the reasons therefor, and shall forward forthwith to the Director a full report of the suspension;
 
 (b) The Director on receiving the report may, after such enquiry as he considers necessary, either reinstate the pupil conditionally or unconditionally or extend the term of the suspension for such period as it deems fit;
 
@@ -482,7 +564,7 @@ Niue Laws 2006     Vol 2
 
 (3) Where any pupil over 14 years of age is suspended from attendance under subsection (1), the following provisions shall apply -
 
-(a) The principal shall immediately inform the parents or guardian of the pupil and the school committee (if any) of the school of the suspension and the reasons therefore, and shall forward forthwith to the Director a full report of the suspension;
+(a) The principal shall immediately inform the parents or guardian of the pupil and the school committee (if any) of the school of the suspension and the reasons therefor, and shall forward forthwith to the Director a full report of the suspension;
 
 (b) The Director, on receiving the report shall thereupon investigate the matter as he considers necessary and may direct that the pupil be reinstated conditionally or unconditionally, or he may expel the child.
 
@@ -506,7 +588,7 @@ Niue Laws 2006     Vol 2
 
 #### 36 Classification of pupils
 
-The Director shall classify pupils under a system of nomenclature which distinguishes different classes, standard, or forms within schools in accordance with the stage and nature of instruction provided there, and may amend any such classification system.
+The Director shall classify pupils under a system of nomenclature which distinguishes different classes, standards, or forms within schools in accordance with the stage and nature of instruction provided there, and may amend any such classification system.
 
 #### 37 Hours and terms of attendance
 
@@ -526,7 +608,7 @@ Education Act 1989
 
 (2) The period or periods of instruction on any day shall not exceed in total 5 hours for any pupil under the age of 6 years, or 6 hours for any pupil who is 6 years of age or older.
 
-(3) All schools shall be open for periods totaling not less than 200 nor more than 210 days in any calendar.
+(3) All schools shall be open for periods totaling not less than 200 nor more than 210 days in any calendar year.
 
 (4) No school shall remain open for any continuous period or term which exceeds 15 weeks.
 
@@ -550,13 +632,13 @@ Education Act 1989
 
 (e) To continue with the development of bilingualism (Niuean and English).
 
-- All  courses  of  instruction  shall  be  approved  by  the  Minister  after consultation with the Director.
+(2) All courses of instruction shall be approved by the Minister after consultation with the Director.
 
 #### 39 Religious instruction
 
 (1)  Notwithstanding section 38(1) provision may be made with the approval of the Minister for religious instruction to be given to pupils of any Government school for a period not exceeding 30 minutes for any class in any one week.
 
-(a) Such religious instruction shall be observed or conducted under syllabuses which are not contrary to Government policy and are given by voluntary instructors who must be approved by the Minister; and
+(2) (a) Such religious instruction shall be observed or conducted under syllabuses which are not contrary to Government policy and are given by voluntary instructors who must be approved by the Minister; and
 
 (b) Such religious  instruction  shall  be  of  a  non-denominational character; and
 
@@ -604,7 +686,7 @@ Where the buildings or any of them used in connection with any Government school
 
 #### 45 Wilful disturbance of school
 
-Any person who wilfully disturbs any school, or who upbraids, or abuses any teacher or other person engaged in the instruction of pupils in the presence of hearing of the pupils who are then in school, or are then assembled for school purposes whether in school or not, commits, an offence, and shall be liable on conviction to a fine not exceeding 1 penalty unit.
+Any person who wilfully disturbs any school, or who upbraids, or abuses any teacher or other person engaged in the instruction of pupils in the presence or hearing of the pupils who are then in school, or are then assembled for school purposes whether in school or not, commits, an offence, and shall be liable on conviction to a fine not exceeding 1 penalty unit.
 
 [[END OF PAGE 14]]
 
