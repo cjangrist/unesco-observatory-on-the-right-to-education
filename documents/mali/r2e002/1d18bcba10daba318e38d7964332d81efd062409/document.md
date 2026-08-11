@@ -16,13 +16,13 @@ SECRETARIATS GENERAUX
 
 ****************
 
-# PROGRAMME INTERIMAIRE DE RELANCE DU SECTEUR DE L'EDUCATION ET DE LA FORMATION PROFESSIONNELLE
-
-DUREE : 2 ANS (2015-2016)
-
 REPUBLIQUE DU MALI Un Peuple - Un But - Une Foi
 
 ***************
+
+# PROGRAMME INTERIMAIRE DE RELANCE DU SECTEUR DE L'EDUCATION ET DE LA FORMATION PROFESSIONNELLE
+
+DUREE : 2 ANS (2015-2016)
 
 1
 
@@ -44,6 +44,7 @@ CADDE | Cellule d'Appui à La Décentralisation et à la Déconcentration de l'E
 CAF | Centres d'Alphabétisation Fonctionnelle
 CAFE | Centres d'Apprentissages Féminins
 CAP | Centre d'Animation Pédagogique
+ | Certificat d'Aptitudes Professionnelles
 CDI | Centres de Documentation Et d'Information
 CDPE | Centre de Développement De La Petite Enfance
 CED | Centres d'Education Pour Le Développement
@@ -56,6 +57,7 @@ CPS | Cellule de Planification et de Statistiques
 CSCRP | Cadre Stratégique de Croissance et de Réduction de la Pauvreté au Mali
 CT | Collectivités Territoriales
 CUR | Centres Universitaires Régionaux
+CVA | Centres Virtuels d'Apprentissage
 CVF | Centres Virtuels De Formation
 DEF | Diplôme D'Etude Fondamental
 DER | Département d'Etudes et de Recherche
@@ -72,16 +74,18 @@ ENSUP | Ecole Normale Supérieure
 EPT | Education Pour Tous
 ESG | Enseignement Secondaire Général
 ETP | Enseignement Technique et Professionnel
+FAST | Faculté des Sciences et Techniques
 FCRIT | Fonds Compétitif pour la Recherche et l'Innovation Technologique
-FSEG | Gestion
-FTP | Faculté des Sciences Economiques et de Formation Technique et Professionnelle
-Supérieur
-IES | Institutions d'Enseignement
+FMOS | Faculté de Médecine et d'Odontostomatologie
+FSEG | Faculté des Sciences Economiques et de Gestion
+FTP | Formation Technique et Professionnelle
+IES | Institutions d'Enseignement Supérieur
 IFM | Institut de Formation des Maitres
 IGEN | Inspection Générale de l'Education Nationale
-Institut National De Prévoyance Sociale
-INPS
-IPR IPRES | Institut Polytechnique Rural Inspections Pédagogiques Régionales de l'Enseignement Secondaire
+INEE | International Network for Education in Emergencies—Réseau International pour l'Education en Situation d'Urgence
+INPS | Institut National De Prévoyance Sociale
+IPR | Institut Polytechnique Rural
+IPRES | Inspections Pédagogiques Régionales de l'Enseignement Secondaire
 ISA | Institut Des Sciences Appliquées
 
 2
@@ -115,7 +119,7 @@ ULSHB | Université des Langues, des Sciences Humaines de Bamako
 UNICEF | Fonds des Nations Unies pour l'Enfance
 USSGB | Université des Sciences Sociales et de Gestion de Bamako
 USTTB | Université des Sciences, des Techniques et des Technologies de Bamako
-VPN | Réseau Privé Virtuel- Virtual Private Network
+VPN | Réseau Privé Virtuel—Virtual Private Network
 
 3
 
@@ -125,6 +129,41 @@ VPN | Réseau Privé Virtuel- Virtual Private Network
 
 # TABLE DES MATIERES
 
+SIGLES ET ABBREVIATIONS...................................................................................................................... 2
+RESUME............................................................................................................................................................ 6
+COUT DU PROGRAMME .............................................................................................................................. 7
+I. INTRODUCTION ..................................................................................................................................... 8
+II. CONTEXTE PAYS, STRATEGIE ET JUSTIFICATION ................................................................... 9
+2.1. Contexte politique ............................................................................................................................... 9
+2.2. Contexte sécuritaire :.......................................................................................................................... 9
+2.3. Contexte Economique :..................................................................................................................... 10
+2.4. Contexte Sectoriel :........................................................................................................................... 11
+2.5. Défis de la Gouvernance :................................................................................................................. 14
+III. JUSTIFICATION DU PROGRAMME INTERIMAIRE................................................................. 15
+3.1. Objectif De Développement Du Programme :................................................................................ 15
+3.2. Résumé des Composantes : .............................................................................................................. 15
+3.3. Cohérence avec les Stratégies Nationales : ..................................................................................... 17
+3.4. Résultats attendus :........................................................................................................................... 17
+3.5. Indicateurs du programme :............................................................................................................ 18
+IV. DETAIL DES COMPOSANTES ........................................................................................................ 18
+4.1. COMPOSANTE I : AMELIORATION DE LA QUALITE DES ENSEIGNEMENTS/ APPRENTISSAGES ................................................................................................................................... 18
+4.2. COMPOSANTE II : AMELIORATION DE L'ACCES............................................................... 25
+4.3. COMPOSANTE III : RENFORCER LA GOUVERNANCE DU SECTEUR DE L'EDUCATION ET DE LA FORMATION PROFESSIONNELLE.................................................... 38
+IV. DISPOSITIF INSTITUTIONNEL ET MODALITES DE MISE EN ŒUVRE DU PROGRAMME................................................................................................................................................ 46
+4.1. La Coordination Stratégique :............................................................................................................. 47
+4.1.1. Le comité de pilotage :................................................................................................................... 47
+4.1.2. Le Comité Interministériel : ......................................................................................................... 47
+4.1.3. Le Cadre Partenarial : .................................................................................................................. 47
+4.2. L'Equipe Technique :........................................................................................................................... 48
+4.2.1. les Cellules de Planification et de Statistiques............................................................................. 48
+4.2.2. Les Directions des Finances et du Matériel................................................................................. 48
+4.2.3. Les Cellules d'Appui à la Décentralisation et Déconcentration ................................................ 48
+4.2.4. Les AE et les CAP.......................................................................................................................... 48
+4.2.5. La DNP, la DNEF, l'IGEN, la DNESRS, les Rectorats et IES, la DNEFP............................... 49
+4.2.6. Les CAP et les IPRES.................................................................................................................... 49
+V. CADRE DE SUIVI DES RESULTATS................................................................................................. 50
+VII. PRINCIPAUX RISQUES ET MESURES D'ATTENUATION.......................................................... 51
+7.1. La Conception Du Projet ..................................................................................................................... 51
 4
 
 [[END OF PAGE 4]]
@@ -261,7 +300,7 @@ En effet, la situation macroéconomique a été caractérisée par un taux de cr
 
 Le pays devra relever d'énormes défis structurels et politiques avant de pouvoir s'engager sur une voie qui lui permettra d'atteindre un statut de pays à revenu moyen. Le gouvernement a adopté la troisième génération du CSCRP III (2012-2017) au début de l'année 2012 (avant le coup d'Etat). L'objectif primordial du CSCRP III est la réduction de la pauvreté grâce à l'accélération de la croissance d'un taux moyen ambitieux de 7 % par an  à  travers  le  développement  des  infrastructures  et  du  secteur  productif,  la  consolidation  des  réformes structurelles et le renforcement des secteurs sociaux. A cet égard, dès 2012, le budget initial a été totalement harmonisé avec le CSCRP.
 
-Cependant, le taux de croissance réel du PIB  en 2013 s'est élevé à 1,7% contre 0,0% en 2012.  Les taux de croissance économique de ces deux années n'ont pas été suffisamment élevés pour améliorer le niveau de vie des populations, compte tenu de l'accroissement rapide de la population du Mali (3,6% selon le Recensement Général de la Population et de l'Habitat-RGPH 2009). Avec  respectivement 37,9% et 40,0% en 2013, les parts des secteurs primaire et tertiaire restent prédominantes dans le PIB.
+Cependant, le taux de croissance réel du PIB en 2013 s'est élevé à 1,7% contre 0,0% en 2012. Les taux de croissance économique de ces deux années n'ont pas été suffisamment élevés pour améliorer le niveau de vie des populations, compte tenu de l'accroissement rapide de la population du Mali (3,6% selon le Recensement Général de la Population et de l'Habitat—RGPH 2009). Avec respectivement 37,9% et 40,0% en 2013, les parts des secteurs primaire et tertiaire restent prédominantes dans le PIB.
 
 ## 2.4. Contexte Sectoriel :
 
@@ -409,7 +448,7 @@ Les principaux indicateurs pour mesurer les progrès sont : (i) performance des 
 
 Au cours de la décennie 2000-2010, le gouvernement du Mali a mis en œuvre le PRODEC avec l'appui de l'ensemble des acteurs et partenaires du secteur de l'Education et de la Formation Professionnelle en donnant à la question de l'amélioration de la qualité lors de la troisième phase opérationnelle, plus d'importance que par le passé. Ceci a permis d'obtenir des résultats significatifs. Cependant, les redoublements et abandons persistent et les rendements scolaires vus à travers les acquisitions fondamentales restent faibles.
 
-Ainsi, cette composante vise à : (i) améliorer les scores des élèves de l'enseignement fondamental en lectureécriture,  en  mathématiques  et  en sciences d'observation, (ii) consolider les acquis des élèves de l'enseignement secondaire en français en tant que support et objet d'apprentissage, et (iii) améliorer le niveau de qualification professionnelle des apprenants, (iv) adaptation des offres de formation, (v) promotion de la recherche scientifique.
+Ainsi, cette composante vise à : (i) améliorer les scores des élèves de l'enseignement fondamental en lecture-écriture, en mathématiques et en sciences d'observation, (ii) consolider les acquis des élèves de l'enseignement secondaire en français en tant que support et objet d'apprentissage, et (iii) améliorer le niveau de qualification professionnelle des apprenants, (iv) adaptation des offres de formation, (v) promotion de la recherche scientifique.
 
 Ces objectifs  seront  atteints à travers  les  sous-composantes ci-après :
 
@@ -695,7 +734,7 @@ Cette  sous-composante  vise  à  améliorer  la  qualité  de  la  formation  a
 
 [[START OF PAGE 25]]
 
-### Sous composante 1.5. : Recherche -Formation : 0,315 milliard FCFA
+### Sous composante 1.5. : Recherche –Formation : 0,315 milliard FCFA
 
 #### Objectif Général :
 
@@ -1122,7 +1161,7 @@ L'objectif  général  vise  à  améliorer  l'accès  à  l'éducation  par  la
 
 -construction/équipement de la cité universitaire de Kabala ;
 
--extension/équipement Faculté des Sciences et Techniques-Institut Universitaire de Gestion (FASTIUG) ;
+-extension/équipement Faculté des Sciences et Techniques-Institut Universitaire de Gestion (FAST-IUG) ;
 
 -réhabilitation/équipement infrastructures CENOU ;
 
@@ -1168,15 +1207,9 @@ de qualifications professionnelles en relations avec les besoins du marché.
 
 #### Objectifs spécifiques
 
--
+-accueillir des jeunes et adultes analphabètes, non scolarisés et déscolarisés précoces dans les dispositifs de formation professionnelle ;
 
-accueillir des jeunes et adultes analphabètes, non scolarisés et déscolarisés précoces dans les dispositifs
-
-de formation professionnelle ;
-
-appuyer l'insertion professionnelle de ces jeunes formés à travers la mise à disposition de kits et la
-
-formation à l'entreprenariat.
+-appuyer l'insertion professionnelle de ces jeunes formés à travers la mise à disposition de kits et la formation à l'entreprenariat.
 
 #### Résultats attendus
 
@@ -1192,41 +1225,21 @@ structures de formation professionnelle ;
 
 #### Stratégies:
 
--
+-l'accueil des jeunes non scolarisés et déscolarisés dans le dispositif de l'apprentissage de type dual en accord avec les organisations professionnelles ;
 
-l'accueil des jeunes non scolarisés et déscolarisés dans le dispositif de l'apprentissage de type dual en
+-l'accueil des jeunes non scolarisés et déscolarisés dans les dispositifs décentralisé de la formation professionnelle en partenariat avec les Collectivités Territoriales et les organisations professionnelles;
 
-accord avec les organisations professionnelles ;
+-la mise en place d'un dispositif d'accompagnement des jeunes sortants des dispositifs de formation ;
 
-l'accueil  des  jeunes  non  scolarisés  et  déscolarisés  dans  les  dispositifs  décentralisé  de  la  formation
-
-professionnelle en partenariat avec les Collectivités Territoriales et les organisations professionnelles;
-
-la mise en place d'un dispositif d'accompagnement des jeunes sortants des dispositifs de formation ;
-
--
-
--
-
--
-
-le renforcement de l'apprentissage traditionnel.
+-le renforcement de l'apprentissage traditionnel.
 
 #### Activités:
 
--
+-l'identification des filières de formation par régions et localités;
 
-l'identification des filières de formation par régions et localités;
+-l'établissement de conventions avec les organisations professionnelles;
 
--
-
--
-
-l'établissement de conventions avec les organisations professionnelles;
-
-l'élaboration des critères de sélection des apprenants pour chaque dispositif de formation;
-
--
+-l'élaboration des critères de sélection des apprenants pour chaque dispositif de formation;
 
 35
 
@@ -1234,37 +1247,21 @@ l'élaboration des critères de sélection des apprenants pour chaque dispositif
 
 [[START OF PAGE 36]]
 
--
+-l'information et la sensibilisation des jeunes;
 
--
+-la sélection des jeunes ;
 
--
+-l'identification et la sélection des centres de formation et des ateliers d'accueil des jeunes ;
 
--
+-le placement des jeunes dans les ateliers ;
 
--
+-l'organisation des formations complémentaires dans les centres de formation professionnelle ;
 
--
+-la formation à l'entreprenariat des jeunes ;
 
--
+-l'acquisition de kits d'insertion ;
 
--
-
-l'information et la sensibilisation des jeunes;
-
-la sélection des jeunes ;
-
-l'identification et la sélection des centres de formation et des ateliers d'accueil des jeunes ;
-
-le placement des jeunes dans les ateliers ;
-
-l'organisation des formations complémentaires dans les centres de formation professionnelle ;
-
-la formation à l'entreprenariat des jeunes ;
-
-l'acquisition de kits d'insertion ;
-
-l'organisation des missions de suivi/évaluation des formations.
+-l'organisation des missions de suivi/évaluation des formations.
 
 ### Sous composante 2.5. : Evaluation et certification des établissements privés d'enseignement du secteur : 0,535 milliard FCFA
 
@@ -1276,19 +1273,9 @@ privés d'enseignement du préscolaire, du fondamental, du secondaire et du sup�
 
 #### Objectifs spécifiques:
 
--
+-élaborer un manuel de procédures d'évaluation et de certification des établissements privés d'enseignement du préscolaire, du fondamental, du secondaire et de l'enseignement supérieur
 
--
-
-élaborer un manuel de procédures d'évaluation et de certification des établissements
-
-privés d'enseignement du préscolaire, du fondamental, du secondaire et de l'enseignement supérieur
-
-évaluer annuellement les établissements privés d'enseignement du préscolaire, du fondamental et du
-
-secondaire en vue de certifier de nouveaux établissements et/ou de procéder au retrait des certificats
-
-aux anciens établissements qui ne respectent pas les règles.
+-évaluer annuellement les établissements privés d'enseignement du préscolaire, du fondamental et du secondaire en vue de certifier de nouveaux établissements et/ou de procéder au retrait des certificats aux anciens établissements qui ne respectent pas les règles.
 
 #### Résultats attendus :
 
@@ -1306,13 +1293,7 @@ la culture de l'évaluation des établissements privés d'enseignement est insta
 
 Les stratégies suivantes seront développées :
 
--
-
-l'élaboration du manuel de procédures d'évaluation et de certification
-
-privés d'enseignement du préscolaire, du fondamental et du secondaire ;
-
-des établissements
+-l'élaboration du manuel de procédures d'évaluation et de certification des établissements privés d'enseignement du préscolaire, du fondamental et du secondaire ;
 
 36
 
@@ -1420,21 +1401,11 @@ A travers cette sous-composante, le programme vise la mise en place d'un disposi
 
 #### Activités :
 
--
+-étude diagnostique et orientation pour la consolidation et l'extension du Réseau Virtuel Privé (VPN) de la Cellule de Planification et de Statistique (CPS);
 
-étude diagnostique et orientation pour la consolidation et l'extension du Réseau Virtuel Privé (VPN)
+-achat de Téléphones Androïdes, d'ordinateurs de bureau complets, d'ordinateurs portables Macintosh, d'imprimantes, de photocopieurs, de Serveur d'application, de Serveur de donnée et de SQL server 2012 ;
 
-de la Cellule de Planification et de Statistique (CPS);
-
-achat de Téléphones Androïdes, d'ordinateurs de bureau complets, d'ordinateurs portables Macintosh,
-
-d'imprimantes, de photocopieurs, de Serveur d'application, de Serveur de donnée et de SQL server
-
-2012 ;
-
--acquisition  de    deux  lignes  Internet  dédiées  Formule  Pro  512  Kbits/s  pour  le  Centre  National  de Cantines Scolaires (CNCS) (abonnement annuel) ;
-
--
+-acquisition de deux lignes Internet dédiées Formule Pro 512 Kbits/s pour le Centre National de Cantines Scolaires (CNCS) (abonnement annuel) ;
 
 39
 
@@ -1837,25 +1808,26 @@ Le présent dispositif institutionnel est conforme à celui qui sera mis en plac
 # V. CADRE DE SUIVI DES RESULTATS
 
 Objectif général du Programme Intérimaire : Améliorer la qualité des Enseignements/apprentissages, accroître l'accès à l'éducation, et renforcer les capacités de gestion du système.
---- | --- | --- | --- | --- | --- | ---
-Indicateurs de Résultats | Situation de base (2014) | Unité de mesure | Valeurs cibles | Fréquence | Source | Responsable
-Janv. 2015 | Août. 2015 | Févr. 2016 | Sept. 2016
+
+Indicateurs de Résultats | Situation de base (2014) | Unité de mesure | Valeurs cibles |  |  |  | Fréquence | Source | Responsable
+ |  |  | Janv. 2015 | Août. 2015 | Févr. 2016 | Sept. 2016 |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Composante I : Améliorer la qualité des enseignements/apprentissages à tous les niveaux du système pour permettre aux élèves de continuer leurs études ou de s'insérer dans la vie active.
-Pourcentage d'élèves de l'enseignement fondamental réussissant en : - lecture-écriture | % | - | mathématiques
-% d'élèves achevant l'Enseignement secondaire : Bacc général :…… Bacc technique :… CAP :……………. | % | BT | :………………
-Nombre de projets de recherche financés | Nombre
-Taux d'insertion professionnelle des sortants des IES | %
+Pourcentage d'élèves de l'enseignement fondamental réussissant en : - lecture-écriture - mathématiques |  | % |  |  |  |  |  |  | 
+% d'élèves achevant l'Enseignement secondaire : Bacc général :…… Bacc technique :… CAP :……………. BT :……………… |  | % |  |  |  |  |  |  | 
+Nombre de projets de recherche financés |  | Nombre |  |  |  |  |  |  | 
+Taux d'insertion professionnelle des sortants des IES |  | % |  |  |  |  |  |  | 
 Composante II : Améliorer l'accès par la promotion de la question genre, le développement de l'éducation non formelle, la réalisation d'infrastructures pédagogiques, l'évaluation et la certification des établissements privés d'enseignement du préscolaire, fondamental et secondaire, la promotion de l'éducation inclusive.
-Nombre d'enfants supplémentaires inscrits au préscolaire
-Nombre d'apprenants handicapés supplémentaires accueillis dans les écoles classiques
-Nombre filles supplémentaires scolarisées au fond 1 | Nombre
-Nombre d'établissements certifiés : Fond privé :…….. privé :….. | 0 0 | Second
-Nombre de salles de cours réalisées dans l'enseignement supérieur. | 0 | Nombre
+Nombre d'enfants supplémentaires inscrits au préscolaire |  |  |  |  |  |  |  |  | 
+Nombre d'apprenants handicapés supplémentaires accueillis dans les écoles classiques |  |  |  |  |  |  |  |  | 
+Nombre filles supplémentaires scolarisées au fond 1 |  | Nombre |  |  |  |  |  |  | 
+Nombre d'établissements certifiés : Fond privé :…….. Second privé :….. | 0 0 |  |  |  |  |  |  |  | 
+Nombre de salles de cours réalisées dans l'enseignement supérieur. | 0 | Nombre |  |  |  |  |  |  | 
 Composante III : Renforcer la Gouvernance du secteur de l'Education et de la Formation Professionnelle.
-Fonctionnalité des organes de Pilotage | 0 | Oui/non
-Manuel de procédures de certification disponible. | 0 | Oui/non
-Manuel de suivi des établissements disponible | 0 | Oui/non
-Rapport d'audit disponible | 0 | Oui/non
+Fonctionnalité des organes de Pilotage | 0 | Oui/non |  |  |  |  |  |  | 
+Manuel de procédures de certification disponible. | 0 | Oui/non |  |  |  |  |  |  | 
+Manuel de suivi des établissements disponible | 0 | Oui/non |  |  |  |  |  |  | 
+Rapport d'audit disponible | 0 | Oui/non |  |  |  |  |  |  | 
 
 50
 
@@ -1929,9 +1901,9 @@ La mise en place d'un Ministère en Charge de la Réconciliation Nationale tradu
 
 # ANNEXE 1 : SYNTHESE BUDGET ESTIMATIF PAR COMPOSANTE ET SOUS COMPOSANTE
 
-COMPOSANTES/SOUS-COMPOSANTES | MONTANT FCFA | POURCENTAGE
+COMPOSANTES/SOUS-COMPOSANTES | MONTANT FCFA |  |  | POURCENTAGE
+ | 2015 | 2016 | TOTAL | 
 --- | --- | --- | --- | ---
-2015 | 2016 | TOTAL
 COMPOSANTE I : AMELIORATION DE LA QUALITE DES ENSEIGNEMENTS/ APPRENTISSAGES
 Sous-Composante 1.1.: Amélioration des performances des élèves en lecture-écriture, en mathématiques et en sciences d'observation au fondamental | 7,923,062,500 | 7,888,062,500 | 15,811,125,000 | 38.2%
 Sous-Composante 1.2.: Amélioration des acquisitions des élèves de l'enseignement secondaire | 6,673,334,500 | 6,203,334,500 | 12,876,669,000 | 31.1%
