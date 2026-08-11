@@ -22,11 +22,85 @@ ii
 
 # TABLE OF CONTENTS
 
+Acronyms iv
+Executive Summary vii
+CHAPTER ONE: INTRODUCTION AND OVERVIEW
+1.1 Introduction 1
+1.2 Rationale for Revision 1
+1.3 The Education Sector 2
+1.4 The Current Status of Education Sector 3
+CHAPTER TWO: ESDP’S VISION, STRATEGIES, PRINCIPLES AND OUTCOMES
+2.1 The Thrust of ESDP 4
+2.2 Strategic Vision 4
+2.3 Programme Objectives 5
+2.4 Educational Provision and Poverty Reduction 5
+2.5 Principles 6
+2.6 Strategic Policy Objectives 8
+2.7 Immediate Priorities 8
+2.8 Outcomes-Based Clusters 10
+2.9 Strategic Priorities 10
+2.10 Tangible Results 11
+CHAPTER THREE: PRIORITIES AND OPERATIONAL TARGETS
+3.1 Government Commitments 12
+3.2 Education Performance Management Systems 12
+3.3 Professional Development and Incentives 13
+3.4 Equity of Access to Quality Education 14
+3.5 Organisational/Management Structures 15
+3.6 Operational Targets 16
+3.6.1 Capabilities and Values Improvement 16
+3.6.1.1 Basic Education 17
+3.6.1.2 Higher Education 18
+3.7.1.3 Technical Education and Vocational Training 18
+3.7.1.4 Folk Education 19
+3.6.2 Improving Provision and Equity 19
+3.6.2.1 Basic Education 21
+3.6.2.2 Higher education 21
+3.6.2.3 Technical Education and Vocational Training 22
+3.6.2.4 Folk Education 22
+
 i
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+3.6.3 Conducive Teaching and Learning Environment 23
+3.6.3.1 Basic Education 24
+3.6.3.2 Higher Education 25
+3.6.3.3 Technical Education and Vocational Training 25
+3.6.3.4 Folk Education 26
+3.6.4 Macro-Micro Management and Governance 26
+3.6.4.1 Basic Education 28
+3.6.4.2 Higher Education 28
+3.6.4.3 Technical Education and Vocational Training 28
+3.6.4.4 Folk Education 28
+CHAPTER FOUR: KEY RESULT AREAS AND PERFORMANCE MANAGEMENT
+4.1 Outcomes and Cross-cutting Issues 30
+4.2 Service Delivery 30
+4.3 Key Result Areas 30
+4.3.1 Education Leadership Behaviour 30
+4.3.2 Students/Learners and Teachers’ Capabilities/Skills Values 30
+4.3.3 Institutional/School Processes/Incentives 30
+4.3.4 Cost Effectiveness and Cost Efficiency of Outcomes’ Achievement 30
+4.3.5 Consultative Dialogue Machinery and Performance 30
+4.4 ESDP Performance Objectives/Log Frame and Indicators 31
+4.5 ESDP Indicators 31
+4.6 The Education Sector MIS 32
+4.7 Monitoring and Performance Evaluation 32
+4.8 Coherent, Sector-Wide Monitoring 32
+4.8 Objectives of the ESDP Monitoring System 33
+4.9 M&E Capacity Development Needs 33
+4.10 Priority Strategic Actions/Reforms 34
+4.11 Strategic Priorities for Improved Monitoring and Evaluation 34
+CHAPTER FIVE: MANAGEMENT AND DIALOGUE STRUCTURES,
+IMPLEMENTATION AND MONITORING ARRANGEMENTS
+5.1 Institutional Arrangements 35
+5.2 Management Structure 35
+5.3 Science and Technology 36
+5.4 Education Sector Dialogue Structure 36
+ESDP Committee Dialogue Structure 37
+5.4.1 Specific Dialogue Objectives 37
+5.4.2 Principles for Dialogue and Institutional Arrangements 38
 
 ii
 
@@ -34,7 +108,33 @@ ii
 
 [[START OF PAGE 5]]
 
-70
+5.4.3 The Roles and Functions of Dialogue 38
+CHAPTER SIX: EDUCATION SECTOR FINANCING AND COST-EFFECTIVENESS
+6.1 The Financing Framework 39
+6.2 Quantitative Education Sector Developments 39
+6.3 Information-Driven Planning and Monitoring 40
+6.4 Coherent Education Sector Funding 40
+6.5 Required Levels of Education Sector Expenditure 41
+6.6 Social Rates of Return 41
+6.7 Student Loans Scheme 42
+6.8 Unit Costs 42
+6.9 Primary Teacher Training 43
+6.10 School-Level Financing 44
+6.11 Parental and Community Support 44
+6.12 Investment in Workshops, Laboratories and Libraries 44
+6.13 Development Partners’ Support 45
+6.14 ESDP and Sub-Sectoral Planning 45
+6.15 Education Sector Priorities 46
+6.16 Conclusion 47
+ANNEXURE
+ANNEX A: Some Key Policy Documents and Other Relevant Developments since 1997 48
+ANNEX B: ESDP Education Sector SWOT Analysis 49
+ANNEX C: Key Results Areas and Some Possible Indicators 56
+ANNEX D: ESDP Policy Objectives, Current Status, Proposed Targets 58
+ANNEX E: Composition of Committees for Managing ESDP and Educational Dialogue 61
+ANNEX F: Education Sector Projected Enrolment 66
+ANNEX G: Analysis of Funding Gaps 67
+ANNEX H: Education Sector Financial Framework 70
 
 iii
 
@@ -132,9 +232,9 @@ SEDP | Secondary Education Development Programme
 SIIMS | Student Identity and Information Management System
 SLMS | Student Loan Management System
 TA | Technical Assistance
-TCU | Tanzanian Commission for Universities Teacher Development Management Strategy
-TDMS | Tanzanian Educational Authority
-TEA
+TCU | Tanzanian Commission for Universities
+TDMS | Teacher Development Management Strategy
+TEA | Tanzanian Educational Authority
 
 v
 
@@ -171,17 +271,17 @@ The  2006  and  2007  Education  Sector  Reviews  highlighted  some significant 
 
 However, both the ESRs and the MKUKUTA status report identified a number of challenges still facing the education sector.  These include:
 
-(i) increasing  enrolments  at  Pre-Primary,  Secondary,  Folk,  Vocational,  Technical  and Higher Education levels;
+(i) increasing enrolments at Pre-Primary, Secondary, Folk, Vocational, Technical and Higher Education levels;
 
-(iii) increasing  physical facilities and expanding infrastructure at all levels;
+(ii) improving pass rates and reducing the high unit costs per graduate;
 
-(ii) improving pass rates and reducing the high  unit costs per graduate;
+(iii) increasing physical facilities and expanding infrastructure at all levels;
 
 (iv) recruiting and retaining qualified teaching staff at all levels;
 
-(vi) reviewing and developing a curriculum that is demand driven;
+(v) increasing teaching and learning materials and equipment at all levels;
 
-(v) increasing  teaching and learning materials and equipment at all levels;
+(vi) reviewing and developing a curriculum that is demand driven;
 
 (vii) building adequate capacity in governance, management, monitoring and evaluation;
 
@@ -193,25 +293,25 @@ vii
 
 (viii) building adequate capacity of the existing education system to address cross-cutting issues;
 
-(x) ensuring adequate funding of education programmes; and
-
 (ix) ensuring effective linkages and synergies within the education sector;
+
+(x) ensuring adequate funding of education programmes; and
 
 (xi) boosting morale and ability to demonstrate initiatives across the sector.
 
 ESDP's  vision  is  in  line  with  Tanzania  Development  Vision  2025  and  MKUKUTA.  The ESDP  vision  is  to  have  an  upgraded  and  coherently  planned,  managed  and  monitored educational  sector  that  will  develop  human  capital  in  order  to  boost  economic  growth  and eliminate poverty. The intention, therefore, is to invest in:
 
- changing education sector stakeholders' mindsets;
-
  developing an integrated and outcomes-oriented education system;
+
+ changing education sector stakeholders’ mindsets;
 
  building a culture of cherishing human development through hard work, professionalism; entrepreneurship, creativity, innovativeness and ingenuity;
 
- seeking  to  facilitate  the  acquisition  of  the  critical  national  attributes  translating  into measured capabilities possessed by graduates at different levels.
+ fostering among learners a sense of self confidence and high respect for all people irrespective of race, gender, geographical location and disabilities; and
 
- fostering  among  learners  a  sense  of  self  confidence  and  high  respect  for  all  people irrespective of race, gender, geographical location and disabilities; and
+ seeking to facilitate the acquisition of the critical national attributes translating into measured capabilities possessed by graduates at different levels.
 
-The overriding policy principle is to take into account the background of national political and economic aspirations and commitment. ESDP reflects the educational context, including its recent  performances  in  terms  of  outcomes,  achievements  and  cost-effectiveness.  On  these bases, wise choices may be made and sustained strategic investment in the educational subsectors achieved. The corollary principle is that the resource envelope from Government, with support  from  Development  Partners,  reflects  the  commitment  to  an  improved,  revitalised, accountable and outcomes-oriented education sector.
+The overriding policy principle is to take into account the background of national political and economic aspirations and commitment. ESDP reflects the educational context, including its recent performances in terms of outcomes, achievements and cost-effectiveness. On these bases, wise choices may be made and sustained strategic investment in the educational sub-sectors achieved. The corollary principle is that the resource envelope from Government, with support from Development Partners, reflects the commitment to an improved, revitalised, accountable and outcomes-oriented education sector.
 
 ESDP will  promote  effective  and  cost  efficient  provision  of  educational  infrastructure  and ICT. The changes, reforms and interventions will be properly focused on improving learning outputs  and  outcomes,  on  teacher  capability  improvements,  and on  promoting  a  better teaching  and  learning  environment  resulting  in  increased  achievement  and  competences  by learners  and  teachers.  This  can  only  be  achieved  if  governance  and  accountability  are improved through output/outcome performance monitoring.
 
@@ -229,21 +329,21 @@ viii
 
  Conducive Teaching and Learning Environment;
 
- Education Provision in order to increase enrolment at all levels.
-
  Micro-Macro Efficient Management, and
+
+ Education Provision in order to increase enrolment at all levels.
 
 The key result areas of ESDP are:
 
- Students/Learners and Teachers' Capabilities/Skills Values;
-
  Education Leadership;
+
+ Students/Learners and Teachers’ Capabilities/Skills Values;
 
  Institutional/School Incentives Processes;
 
- Consultative Dialogue Machinery and Performance.
+ Cost Effectiveness and Cost Efficiency of Outcomes’ Achievement; and
 
- Cost Effectiveness and Cost Efficiency of Outcomes' Achievement; and
+ Consultative Dialogue Machinery and Performance.
 
 ESDP  will  be  managed  through  four  sub  sectors  namely  Basic  Education,  Technical  and Vocational  Education,  Higher  Education and  Folk  Education.  Each  of  the  sub  sector  is considered  important  as  such  no  sub  sector  will  be  marginalized. The arrangements  will significantly upgrade both sector-wide and sub-sectoral planning and performance management.  Each  of  the sub-sectors  will develop  its plan  and  associated  performance management arrangements. The plans will be related to the four outcome clusters and the five key results areas for which agreed indicators will be objectively verifiable and outcome-based.
 
@@ -275,11 +375,11 @@ The Government of Tanzania (GoT) has the mandate in terms of education sector go
 
 The ESDP management committee structure is as follows:
 
-- Inter-Ministerial Steering Committee (IMSC);
+i. Inter-Ministerial Steering Committee (IMSC);
 
-- Government Education Sector and Thematic Area Working Group(GESTWG);
+ii. Joint Education Sector and Thematic Area Working Group (JESTWG);
 
-- Joint Education Sector and Thematic Area Working Group (JESTWG);
+iii. Government Education Sector and Thematic Area Working Group(GESTWG);
 
 x
 
@@ -287,43 +387,43 @@ x
 
 [[START OF PAGE 13]]
 
-- Ministerial Development Committees:
-
- Folk Education Development Committee (FEDC).
+iv. Ministerial Development Committees:
 
  Education Sector Development Committee (ESDC); and
 
-- Sub- Sector Task Force; and
+ Folk Education Development Committee (FEDC).
 
-- Sub- Sector Technical Working Groups.
+v. Sub- Sector Task Force; and
+
+vi. Sub- Sector Technical Working Groups.
 
 It is generally recognised that resources required for the full implementation of ESDP are far more than the Government of Tanzania can afford. Accordingly:
 
- Contributions from communities, students, parents, civil society, the private sector and Development Partners will be necessary and applied to best effect.
+ Cost-savings and increased efficiencies will be applied throughout the 10-year period covered by this edition of ESDP; and
 
- Cost-savings  and  increased  efficiencies  will  be  applied  throughout  the  10-year period covered by this edition of ESDP; and
+ Contributions from communities, students, parents, civil society, the private sector and Development Partners will be necessary and applied to best effect.
 
 The following assumptions are considered realistic over the 2008-2017 period for the ten  year ESDP phase:
 
-(ii) A real GDP growth rate of between 6-8% per annum;
+(i) The inflation rate averaging around 3.5–4.5% per year;
 
-(i) The inflation rate averaging around 3.5-4.5% per year;
+(ii) A real GDP growth rate of between 6–8% per annum;
 
-(iii) Government  allocating  an  average  of  22%  of  its  total  expenditure  to  the  education sector;
+(iii) Government allocating an average of 22% of its total expenditure to the education sector;
 
-(v) Development  Partners  contributing  to  budget  support  at  20%  more  than  the  level  of contribution in 2006/07, in real terms.
+(iv) Government revenue as a share of GDP averaging 16–17%; and
 
-(iv) Government revenue as a share of GDP averaging 16-17%; and
+(v) Development Partners contributing to budget support at 20% more than the level of contribution in 2006/07, in real terms.
 
 With careful and participative planning, effective performance management, cost-sharing and community participation at all levels and above all a significant transformation in mindset and effective monitoring and evaluation, ESDP can be implemented on that financial basis.
 
 The decentralisation of some educational operational responsibilities to local levels has been extended to cover secondary education. MOEVT will retain the responsibility for educational policy and sector-wide coordination. Also, the MOEVT will work closely with PMO-RALG, MOFEA and LGAs to coordinate  the  flow  of  funds  to  local  levels  and  institutions  for  all education sector activities. The incorporation of all LGAs into IFMS will help upgrade fiscal transparency at that level.
 
-Data on enrolment and  successful  graduating  students  indicate very  low internal  efficiency across the sector: an outcome that will be altered over the coming decade. Each of the subsectors will be required to:
-
- set  ambitious  yet  achievable  indicators  for  the  reduction  of  those  unit  costs  per graduate, ensuring that there is no associated depletion of standards or of quality.
+Data on enrolment and successful graduating students indicate very low internal efficiency across the sector: an outcome that will be altered over the coming decade. Each of the sub-sectors will be required to:
 
  calculate current unit (full) costs per graduate taking all related public investment into account; and
+
+ set ambitious yet achievable indicators for the reduction of those unit costs per graduate, ensuring that there is no associated depletion of standards or of quality.
 
 At an institutional level, this will be done on the basis of variable unit costs per graduate. In addition,  educational  institutions will,  as  a  matter  of  course,  conduct tracer  studies  of  their leavers.
 
@@ -341,6 +441,8 @@ xii
 
 [[START OF PAGE 15]]
 
+# CHAPTER ONE INTRODUCTION AND OVERVIEW
+
 ## 1.1 Introduction
 
 The   Education Sector Development Programme (ESDP) was launched in 1997, and revised in  2001 in order to improve  educational provision for poverty alleviation. It is  a comprehensive programme aimed at a total transformation of the education system into an efficient,  effective,  outcome/output  based  sector.  This  edition  of  ESDP  covers  the  period 2008  through  2017 1 It  reflects  enduring  national  priorities  and  a  determined  response  to existing  educational  conditions  and  requirements  and  is  a  key  part  of  the  systemic  public sector reform that is supporting the National Strategy for Growth and Reduction of Poverty (NSGRP/ MKUKUTA).
@@ -357,8 +459,6 @@ Several factors 1 necessitate  this  comprehensive  revision  of  ESDP  ten  yea
 
 > 1 The several relevant policy statements, studies and other items are listed in Annex A.
 
-# CHAPTER ONE INTRODUCTION AND OVERVIEW
-
 1
 
 [[END OF PAGE 15]]
@@ -367,7 +467,7 @@ Several factors 1 necessitate  this  comprehensive  revision  of  ESDP  ten  yea
 
 In light of the above there was a need not only to revise ESDP's action plans but also the education vision, strategic priorities, costing and dialogue structures of the Programme in line with changing macro and micro socio-economic context and policy terrain.
 
-While ESDP was initiated in 1997 as an effort to translate the Education and Training Policy of 1995 into comprehensive and complementary sub-sector strategies, there was a need to reexamine how the Programme may best act as a concrete policy mechanism for implementing Vision 2025 as well as the Education For All (EFA) and the Millennium Development Goals (MDGs) initiatives, each of which is of great concern to the Government of Tanzania and its Development Partners (DPs).
+While ESDP was initiated in 1997 as an effort to translate the Education and Training Policy of 1995 into comprehensive and complementary sub-sector strategies, there was a need to re-examine how the Programme may best act as a concrete policy mechanism for implementing Vision 2025 as well as the Education For All (EFA) and the Millennium Development Goals (MDGs) initiatives, each of which is of great concern to the Government of Tanzania and its Development Partners (DPs).
 
 In  February  2006,  the  Education  Sector  Review  (ESR)  identified  a  number  of  challenges which needed to be addressed in order to attain successful implementation of the NSGRP, EFA, and MDGs. An Aide-Mémoire and a process Action Plan which required the ESDP be subjected  to  a  full  revision were  endorsed.  It  was  pointed  out  that,  a  revitalisation  of  the ESDP vision, strategic priorities, communication and dialogue structures were required. It  was found that education sector-wide planning and budgeting needed to be linked to the overall planning and budgeting exercise for realising the goals of MKUKUTA.
 
@@ -379,17 +479,17 @@ From the outset, ESDP has embodied a Sector-Wide Approach (SWAP), regarding educ
 
 (i) Pre-Primary Education;
 
-(iii) Secondary Education;
-
 (ii) Primary Education;
+
+(iii) Secondary Education;
 
 (iv) Teacher Education;
 
-(vi) Folk Education;
-
 (v) Adult Education and Non Formal Education
 
-(vii) Technical andVocational Education and Training; and
+(vi) Folk Education;
+
+(vii) Technical and Vocational Education and Training; and
 
 (viii) Higher Education.
 
@@ -409,27 +509,27 @@ The  MKUKUTA Status Report  of  December  2006  also  indicated  a  positive  tr
 
 However, both the ESR and the MKUKUTA status report identified a number of challenges still facing the education sector. These include:
 
-- i increasing  enrolments at Pre-Primary, Primary, Secondary,  Adult  and  Non  Formal, Folk, Vocational, Technical and Higher Education levels;
+i increasing enrolments at Pre-Primary, Primary, Secondary, Adult and Non Formal, Folk, Vocational, Technical and Higher Education levels;
 
-- iii increasing  physical facilities and expanding infrastructure at all levels;
+ii improving pass rates and reducing the high unit costs per graduate;
 
-- ii improving pass rates and reducing the high  unit costs per graduate;
+iii increasing physical facilities and expanding infrastructure at all levels;
 
-- iv recruiting and retaining qualified teaching staff at all levels;
+iv recruiting and retaining qualified teaching staff at all levels;
 
-- vi reviewing and developing a curriculum that is demand driven;
+v increasing teaching and learning materials and equipment at all levels;
 
-- v increasing  teaching and learning materials and equipment at all levels;
+vi reviewing and developing a curriculum that is demand driven;
 
-- vii building adequate capacity in governance, management, monitoring and evaluation;
+vii building adequate capacity in governance, management, monitoring and evaluation;
 
-- ix ensuring effective linkages and synergies within the education sector;
+viii building adequate capacity of the existing education system to address cross-cutting issues;
 
-- viii building adequate capacity of the existing education system to address cross-cutting issues;
+ix ensuring effective linkages and synergies within the education sector;
 
-- x ensuring adequate funding of education programmes; and
+x ensuring adequate funding of education programmes; and
 
-- xi boosting morale and ability to demonstrate initiatives across the sector.
+xi boosting morale and ability to demonstrate initiatives across the sector.
 
 In 2007, an analysis of Strengths, Weaknesses, Opportunities and Challenges (SWOC) was conducted and findings are presented as Annex B.
 
@@ -451,15 +551,15 @@ ESDP is built upon the recognition that a well functioning educational system is
 
  link activities in order to strengthen and improve the education sector;
 
- address poor levels of performance across the sector, thus improving resource utilisation and bringing about better targeting of resources towards sub-sectors; and
-
  ensure that the education sector undergoes purposive reform;
+
+ address poor levels of performance across the sector, thus improving resource utilisation and bringing about better targeting of resources towards sub-sectors; and
 
  achieve a properly managed, better performing and more motivated teaching force as the key catalyst to attaining quality outcomes.
 
- ensure youths, adults, out of school, and vulnerable groups both men and women access knowledge and vocational skills
+ Ensure out of school children, illiterate youth and adults access quality basic learning opportunities
 
- Ensure out of school children, illiterate  youth  and  adults  access  quality  basic    learning opportunities
+ ensure youths, adults, out of school, and vulnerable groups both men and women access knowledge and vocational skills
 
 ## 2.2 Strategic Vision
 
@@ -469,13 +569,13 @@ Education sector is expected to contribute to social and cultural enhancement, n
 
 The intention, therefore, is to invest in:
 
- changing education sector stakeholders' mindsets;
-
  developing an integrated and outcomes-oriented education system;
+
+ changing education sector stakeholders’ mindsets;
 
  building a culture of cherishing human development through hard work, professionalism; entrepreneurship, creativity, innovativeness and ingenuity;
 
- fostering  among  learners  a  sense  of  self  confidence, tolerance  and  high  respect  for  all people irrespective of race, gender, geographical location and disabilities; and
+ fostering among learners a sense of self confidence, tolerance and high respect for all people irrespective of race, gender, geographical location and disabilities; and
 
 4
 
@@ -491,23 +591,23 @@ The intention, therefore, is to invest in:
 
 In view of the experiences and lessons learnt from the implementation of ESDP to date, the Programme's objectives include:
 
-(i) sustaining  and  consolidating  gains  attained  through  the  implementation  of  ESDP (1997), PEDP I (2002-2006), SEDP (2004-2009), and ANFES (2003-2008);
+(i) sustaining and consolidating gains attained through the implementation of ESDP (1997), PEDP I (2002-2006), SEDP (2004-2009), and ANFES (2003-2008);
 
-(iii) upgrading  learning  and  teaching  processes  thus ensuring  access  to  quality  learning programmes with minimal wastage;
+(ii) improving the micro- and macro-management of educational institutions so as to have functioning schools and other relevant institutions in the districts, regions, and communities;
 
-(ii) improving the micro- and macro-management of educational institutions so as to have functioning  schools  and  other  relevant  institutions  in  the districts, regions,  and communities;
+(iii) upgrading learning and teaching processes thus ensuring access to quality learning programmes with minimal wastage;
 
-(iv) reviewing the key areas of educational investment by considering alternative ways of achieving  the  desired  outcomes hence determining  arrangements  that  maximise benefits over costs, thus achieving optimised value for money;
-
-(vi) ensuring  strategic enrolment expansion in areas relevant to the promotion of sound social economic growth and reduction of poverty; good governance and accountability, general improved quality of life and social wellbeing;
+(iv) reviewing the key areas of educational investment by considering alternative ways of achieving the desired outcomes hence determining arrangements that maximise benefits over costs, thus achieving optimised value for money;
 
 (v) ensuring equitable access to quality education at all levels; ensuring skills development and universal literacy for all men and women;
 
-(vii) instituting  and  strengthening  performance  and  outcomes-oriented  monitoring  and evaluation of education provision;
+(vi) ensuring strategic enrolment expansion in areas relevant to the promotion of sound social economic growth and reduction of poverty; good governance and accountability, general improved quality of life and social wellbeing;
 
-(ix) improving linkage  between  strategic  priorities  and  'quick  wins'  so  as to  make available  financial  resources  through  strengthened  and  streamlined  planning  and budgeting  systems  and  process,  thus  benefiting  from  improved  financing  processes, reporting  and  transparency  as  well  as  strategic  resources  allocation  and  budget execution.
+(vii) instituting and strengthening performance and outcomes-oriented monitoring and evaluation of education provision;
 
-(viii) improving the quality and effectiveness of consultative and dialogue structures;  and
+(viii) improving the quality and effectiveness of consultative and dialogue structures; and
+
+(ix) improving linkage between strategic priorities and ‘quick wins’ so as to make available financial resources through strengthened and streamlined planning and budgeting systems and process, thus benefiting from improved financing processes, reporting and transparency as well as strategic resources allocation and budget execution.
 
 ## 2.4 Education Provision and Poverty Reduction
 
@@ -515,9 +615,9 @@ The  envisaged  linkage among  ESDP  input  processes  and output/outcomes  that
 
  human resources and infrastructure development;
 
- delivery of education outputs;
-
  institutional and education sector reforms;
+
+ delivery of education outputs;
 
  delivery of education outcomes; and
 
@@ -531,7 +631,25 @@ For each of those input processes there are corresponding ESDP outputs/outcomes.
 
 [[START OF PAGE 20]]
 
-FIGURE 1:  EDUCATION PROVISION IMPROVEMENT AND POVERTY REDUCTION - THE LINKS AND THE CONTINUUM
+Processes
+
+Poverty Reduction
+
+Delivery of Educational Outcomes
+
+Delivery of Educational Outputs
+
+Institutional & Education Sector Reform
+
+Inputs
+
+Teaching/learning Materials/equipment
+
+Infrastructure
+
+Human Resources
+
+ESDP Level
 
 Job creation and Income generation
 
@@ -545,16 +663,6 @@ Improved Teaching and Learning
 
 Students Graduating
 
-Poverty Reduction
-
-Delivery of Educational
-
-Outcomes
-
-Delivery of
-
-Educational Outputs
-
 Enhanced Teacher Motivation
 
 Decisions made rationally
@@ -563,25 +671,15 @@ Corruption/wastage reduced
 
 Cost Efficiency upgraded
 
+Improved teaching and learning
+
 Class/Lecture rooms/labs built
 
 Schools/Institutions Maintained
 
 Leaders/Teachers/Lecturers Trained
 
-Institutional & Education
-
-Sector Reform
-
-Infrastructure
-
-Human Resources
-
-Teaching/learning
-
-Materials/equipment
-
-Improved teaching and learning
+FIGURE 1: EDUCATION PROVISION IMPROVEMENT AND POVERTY REDUCTION – THE LINKS AND THE CONTINUUM
 
 ## 2.5 Principles
 
@@ -597,35 +695,35 @@ In accordance with Figure 1, the Tanzanian socio-economic context calls for the 
 
 [[START OF PAGE 21]]
 
-(iii) access  to  at  least  basic  levels  of  education  by  all  persons  irrespective  of  gender, physical  disability,  or  parents'/guardians'  income,  social status  and  geographical origins;
+(iii) access to at least basic levels of education by all persons irrespective of gender, physical disability, or parents’/guardians’ income, social status and geographical origins;
 
-(v) success  in  implementing  agreed  upon  action  plans  in  one  sub-sector  never  being allowed to cancel out success in implementing agreed action plans in any  other subsector;
+(iv) sub-sectoral programmes and performance being synchronised and linked through consultative dialogue and pluralistic participation;
 
-(iv) sub-sectoral  programmes  and  performance  being  synchronised  and  linked  through consultative dialogue and pluralistic participation;
+(v) success in implementing agreed upon action plans in one sub-sector never being allowed to cancel out success in implementing agreed action plans in any other sub-sector;
 
-(vi) the  funding  of  prioritised  education  provision  to  be  based on quality  dialogue  and reliable data and on the resource envelopes available year by year, the main objective being to achieve value for money spent;
+(vi) the funding of prioritised education provision to be based on quality dialogue and reliable data and on the resource envelopes available year by year, the main objective being to achieve value for money spent;
 
-(viii) open  learning  also  made  available  to  teachers  so  that  they  may  develop  their understanding and capabilities, allied with enhanced classroom practice;
+(vii) teachers to be assisted through Professional Development Centres to enhance the quality of their teaching and rewarded for taking conscious efforts to gain more qualifications in teaching as part of a vanguard education reform movement;
 
-(vii) teachers  to  be  assisted  through  Professional  Development  Centres  to  enhance  the quality  of  their  teaching  and  rewarded  for  taking  conscious  efforts  to  gain  more qualifications in teaching as part of a vanguard education reform movement;
+(viii) open learning also made available to teachers so that they may develop their understanding and capabilities, allied with enhanced classroom practice;
 
-(ix) teachers and  educators assisted  to  embrace  the  belief  and  principle  that  children and adults can improve their school performance and practical training only if their teachers and educators are made to feel a sense of elevation and dignity, thus turning classrooms and adult centres into Centres of Excellence;
+(ix) teachers and educators assisted to embrace the belief and principle that children and adults can improve their school performance and practical training only if their teachers and educators are made to feel a sense of elevation and dignity, thus turning classrooms and adult centres into Centres of Excellence;
 
-(xi) promoting  institutionalised  public  participation  in  relation  to  quality,  access,  equity, budgeting and financial monitoring, governance and accountability;
+(x) teachers assisted to embrace the principle that the school and teachers themselves cannot be improved from outside but, rather, facilitated to reflect upon their roles as trainers, researchers and scholars to empower themselves to engage in clinical supervision and relevant preparatory practicum;
 
-(x) teachers  assisted  to  embrace  the  principle  that  the  school  and  teachers  themselves cannot be improved from outside but, rather, facilitated to reflect upon their roles as trainers,  researchers  and  scholars  to  empower  themselves  to  engage  in  clinical supervision and relevant preparatory practicum;
+(xi) promoting institutionalised public participation in relation to quality, access, equity, budgeting and financial monitoring, governance and accountability;
 
-(xii) each  of  the  sub-sector to  use  indicators  to  assess  the  attainment  of  objectives  of strategic  monitoring  and  evaluation,  whose  main  purpose  would  be  to  provide continuous feedback as a quality assurance measure, so as to gauge progress and guide budgeting;
-
-(xiv) indicators and  all reporting  data to reflect  the  incidence  of  those  with  special educational needs and the vulnerable (such as orphans and out of school children and youth);
+(xii) each of the sub-sector to use indicators to assess the attainment of objectives of strategic monitoring and evaluation, whose main purpose would be to provide continuous feedback as a quality assurance measure, so as to gauge progress and guide budgeting;
 
 (xiii) indicators and all reporting data to be disaggregated by gender;
 
+(xiv) indicators and all reporting data to reflect the incidence of those with special educational needs and the vulnerable (such as orphans and out of school children and youth);
+
 (xv) coordinate regulatory bodies and strengthen monitoring structures;
 
-(xvii) adopt emerging dialogue perspectives which integrate the Joint Assistance Strategy for Tanzania  (JAST),  the  Public  Expenditure  Review  (PER),  the  Budget  process  and MKUKUTA.
+(xvi) increase commitment and resources from Development Partners and Government, in order to register optimal efficiency and effectiveness; and
 
-(xvi) increase  commitment  and  resources  from Development Partners  and  Government,  in order to register optimal efficiency and effectiveness; and
+(xvii) adopt emerging dialogue perspectives which integrate the Joint Assistance Strategy for Tanzania (JAST), the Public Expenditure Review (PER), the Budget process and MKUKUTA.
 
 The overriding policy principle is to take into account the background of national political and  economic aspirations  and  commitment.  ESDP  also  reflects  the  educational  context, including its recent performances in terms of outcomes, achievements and cost-effectiveness. On  these  bases,  wise  choices  may  be  made  and  sustained  strategic  investment  in the educational sub-sectors achieved.
 
@@ -641,27 +739,27 @@ The corollary principle is that the resource envelope from Government,  with sup
 
 Based upon those principles, the key strategic policy objectives of ESDP are:
 
+(i) educational information is effectively managed and used to make sensible and systematic decisions;
+
 (ii) educational sector teaching and non-teaching staff are conscientious productive workers, adhering to professional conventions, rules and regulations;
 
-(i) educational  information  is  effectively  managed  and  used  to  make  sensible  and systematic decisions;
-
-(iii) the best available teaching talents are recruited, professionally developed  and retained;
-
-(v) teachers and other personnel are appraised, rewarded and sanctioned based on merit;
+(iii) the best available teaching talents are recruited, professionally developed and retained;
 
 (iv) human resources and skills are continuously developed to reflect current and emerging challenges;
 
+(v) teachers and other personnel are appraised, rewarded and sanctioned based on merit;
+
 (vi) a conducive work environment is created and maintained in schools/institutions;
 
-(viii) thematic  improvement  of  expansion/access,  curriculum  relevance,  equity,  quality, management, resources availability and cross-cutting issues are sustained;
+(vii) teachers’ status, pay and other incentives are sufficient to motivate high quality performance;
 
-(vii) teachers'  status,  pay  and  other  incentives  are  sufficient  to  motivate  high  quality performance;
+(viii) thematic improvement of expansion/access, curriculum relevance, equity, quality, management, resources availability and cross-cutting issues are sustained;
 
-(ix) schools/departments/institutions  are  focussed  on  core  educational  functions  and  run economically  in  line  with  budgets,  providing  good  value  for  both  government  and private money;
-
-(xi) the fundamental principle of inclusion at all levels is applied as a key strategy aimed at achieving  universal  and  equitable  access,  backed  up  by  related  teacher  training  and community publicity; and
+(ix) schools/departments/institutions are focussed on core educational functions and run economically in line with budgets, providing good value for both government and private money;
 
 (x) students, parents, community, commerce, industry and other stakeholders are informed and consulted;
+
+(xi) the fundamental principle of inclusion at all levels is applied as a key strategy aimed at achieving universal and equitable access, backed up by related teacher training and community publicity; and
 
 (xii) ESDP and sub-sector plans are widely understood, operating efficiently and effectively, and properly monitored and evaluated, so that lessons are learned and applied.
 
@@ -671,9 +769,9 @@ The strategic policy objectives will be achieved over the forthcoming 10-year pe
 
 Initially,  in  order  to  effect  these  developments, the focus will be on improving educational system functioning through:
 
-(ii) activating the  sub-sectors  to  ensure  the  intra-  and  inter-synchronisation  of  Basic Education,  Higher  Education,  Technical  and  Vocational Education  and Training and Folk Education;
+(i) achieving sector-wide harmonisation and coordination through uniting educational activities within the stakeholder Ministries;
 
-(i) achieving  sector-wide  harmonisation  and  coordination  through uniting  educational activities within the stakeholder Ministries;
+(ii) activating the sub-sectors to ensure the intra- and inter-synchronisation of Basic Education, Higher Education, Technical and Vocational Education and Training and Folk Education;
 
 8
 
@@ -683,15 +781,15 @@ Initially,  in  order  to  effect  these  developments, the focus will be on imp
 
 (iii) the participative development of rolling three-year plans within each of the sub-sectors, each consistent with ESDP and aimed at enhancing that sub-sector within the broader education sector context;
 
-(v) the  establishment  of  delivery  strategies  and  actions  that  emphasize  the  achievement, improvement and evaluation of learning outcomes and outputs;
+(iv) the delineation within sub-sectors of agreed objectively verifiable indicators in relation to outcomes within each key result area, including ‘unit costs per graduate’;
 
-(iv) the delineation within sub-sectors of agreed objectively verifiable indicators in relation to outcomes within each key result area, including 'unit costs per graduate';
+(v) the establishment of delivery strategies and actions that emphasize the achievement, improvement and evaluation of learning outcomes and outputs;
 
-(vi) the adoption of strategic planning and budgeting, including the reassessment on costsbenefits bases of current investment practices (such as teacher housing, laboratory and library  construction, special schools for talented pupils, and student loans) examining alternative approaches and opportunities for public-private partnerships;
+(vi) the adoption of strategic planning and budgeting, including the reassessment on costs-benefits bases of current investment practices (such as teacher housing, laboratory and library construction, special schools for talented pupils, and student loans) examining alternative approaches and opportunities for public-private partnerships;
+
+(vii) the installation of an Education Sector Management Performance System for monitoring educational outputs and outcomes;
 
 (viii) strengthening existing nationally controlled, locally-delivered quality assurance systems; and
-
-(vii) the installation of an Education Sector Management Performance System for monitoring  educational outputs and outcomes;
 
 (ix) reviewing and modernising school/college/institutional management.
 
@@ -723,9 +821,9 @@ ESDP's four clusters that need to be addressed by the sub-sectors are:
 
  Capabilities and Values;
 
- Micro-Macro Efficient Management; and
-
  Conducive Teaching and Learning Environment;
+
+ Micro-Macro Efficient Management; and
 
  Education Provision in order to increase enrolment at all levels.
 
@@ -737,19 +835,19 @@ ESDP is a macro level plan setting out the four major pillars of cluster outcome
 
 The  strategic  priorities  necessary  for  achieving  an  outcome  based-clustering  of  education development include promoting investment in both formal and non-formal education with the view to increasing enrolments and quality and enhancing knowledge stock and skills. These include:
 
-(i) promoting  investment for  improving  teaching,  learning,  and  research;  and  providing libraries and science laboratories 2 ;
+(i) promoting investment for improving teaching, learning, and research; and providing libraries and science laboratories 2;
 
-(iii) improving school and institutional level leadership/management through  provision of professional development programmes and use of performance appraisals;
+(ii) providing relevant and adequate stocks of knowledge and professional skills to teachers, educators, tutors/lecturers;
 
-(ii) providing  relevant  and  adequate  stocks  of  knowledge  and  professional  skills  to teachers, educators,  tutors/lecturers;
+(iii) improving school and institutional level leadership/management through provision of professional development programmes and use of performance appraisals;
 
-(iv) improving central level leadership/management through in-service programmes and onthe-job training;
-
-(vi) improving  academic  research in  higher  education  level,  skills  development and community service programmes at all levels; and
+(iv) improving central level leadership/management through in-service programmes and on-the-job training;
 
 (v) improving equitable education provision and enrolment by expanding capacity through cost-effective means;
 
-(vii) improving access to socio-economic,  geographical,  gender  and  disability  bases  of students at all levels of education.
+(vi) improving academic research in higher education level, skills development and community service programmes at all levels; and
+
+(vii) improving access to socio-economic, geographical, gender and disability bases of students at all levels of education.
 
 > 2 Alternative possibilities such as the distribution of '100-book packs' and 'Science Demonstration Kits' to all schools as stop-gap remedies will be considered: Development Partners or international NGOs may be well-positioned to assist in such initiatives.
 
@@ -765,9 +863,9 @@ The key result areas of ESDP are thus:
 
  educational leadership behaviour change;
 
- schools'/colleges'/institutions' upgraded management, organisation and functioning;
+ teachers’ attitudes, skills, abilities and performance enhancement;
 
- teachers' attitudes, skills, abilities and performance enhancement;
+ schools’/colleges’/institutions’ upgraded management, organisation and functioning;
 
  improved cost-effectiveness of outcome/outputs achievement; and
 
@@ -789,31 +887,31 @@ This  Chapter  takes into  account the  general  considerations  of the  revised
 
 The Government's  commitment  to  investment  in  education  as  a  strategic  action  for addressing human capability and well-being will be achieved through the following strategic actions:
 
-(ii) increasing over time the proportion of expenditure  going to quality  enhancing inputs (e.g. other charges) compared to salary-enhancing expenditure;
-
 (i) increasing public spending of the education sector with basic education (pre-primary, primary and secondary) receiving the highest proportion of the education budget over the period 2008-2017;
 
-(iii) requiring each community to establish Early Childhood Development (ECD) facilities including  Pre-Primary  classes  attached  to  Primary  Schools -  supported  by Local Government;
+(ii) increasing over time the proportion of expenditure going to quality enhancing inputs (e.g. other charges) compared to salary-enhancing expenditure;
 
-(v) setting aside a  significant  budgetary  allocation  for establishment  of  educational infrastructure for promotion of teaching science and technology;
+(iii) requiring each community to establish Early Childhood Development (ECD) facilities including Pre-Primary classes attached to Primary Schools – supported by Local Government;
 
 (iv) vocational and folk education and training continuing to benefit through the skills levy;
 
-(vi) enable learners to  develop  a  reading culture and  the  ability  to  conduct  independent research through access to books and other materials;
+(v) setting aside a significant budgetary allocation for establishment of educational infrastructure for promotion of teaching science and technology;
 
-(viii) strengthening knowledge  and  vocational skills development;
+(vi) enable learners to develop a reading culture and the ability to conduct independent research through access to books and other materials;
 
 (vii) strengthening the provision of opportunities for lifelong learning to promote economic growth and individual fulfilment;
 
-(ix) establishing professional development centres  so  that  in-service  upgrading  can  be delivered nationwide;
+(viii) strengthening knowledge and vocational skills development;
+
+(ix) establishing professional development centres so that in-service upgrading can be delivered nationwide;
+
+(x) provision of in-service training at micro and macro management of educational institutions so as to have functioning schools and other relevant institutions in the regions, councils, and communities; and
 
 (xi) strengthening performance monitoring and quality assurance at all education levels.
 
-(x) provision  of  in-service  training  at  micro  and  macro  management  of  educational institutions  so  as  to  have  functioning  schools  and  other  relevant  institutions  in  the regions, councils, and communities; and
-
 ## 3.2 Education Performance Management Systems
 
-ESDP is  a  determined  attempt  to  realise  the  objectives  of  MKUKUTA which  concentrate upon investing in human capacity enhancement through improved quality education. The aim is  to  have  an  internationally  competitive  labour  force  brought  about  by  channelling effectively resources, thereby safeguarding gains already made in primary, secondary, folk, and vocational education. This process will be managed on the basis of accurate and up-todate information.
+ESDP is a determined attempt to realise the objectives of MKUKUTA which concentrate upon investing in human capacity enhancement through improved quality education. The aim is to have an internationally competitive labour force brought about by channelling effectively resources, thereby safeguarding gains already made in primary, secondary, folk,
 
 12
 
@@ -821,23 +919,25 @@ ESDP is  a  determined  attempt  to  realise  the  objectives  of  MKUKUTA which
 
 [[START OF PAGE 27]]
 
-ESDP will promote effective and cost  efficient  provision  of  educational  infrastructure  and ICT. The changes, reforms and interventions will be properly focused on improving learning outputs  and  outcomes,  on  teacher  capability  improvements,  and  on  promoting  a  better teaching and learning environment resulting in increased achievement and competences by learners  and  teachers.  This  can  only  be  achieved  if  governance  and  accountability  are improved through output/outcome performance monitoring.
+and vocational education. This process will be managed on the basis of accurate and up-to-date information.
+
+ESDP will promote effective and cost efficient provision of educational infrastructure and ICT. The changes, reforms and interventions will be properly focused on improving learning outputs and outcomes, on teacher capability improvements, and on promoting a better teaching and learning environment resulting in increased achievement and competences by learners and teachers. This can only be achieved if governance and accountability are improved through output/outcome performance monitoring.
 
 A  priority  action  within  ESDP is  the  installation  of  Education  Performance Management Systems (EPMS) throughout the sub-sectors (and, as applicable, in all institutions/schools). This includes:
 
-(ii) ensuring  that  the  EPMS  is  consistently  implemented  across the  sub-sectors  and institutions;
+(i) defining and matching education goals, outcomes, strategies and indicators to the national MKUKUTA-related Strategic Budget Allocation System (SBAS);
 
-(i) defining  and  matching  education  goals,  outcomes,  strategies  and  indicators  to  the national MKUKUTA-related Strategic Budget Allocation System (SBAS);
+(ii) ensuring that the EPMS is consistently implemented across the sub-sectors and institutions;
 
-(iii) ensuring that ESDP is linked to the financial resource allocation mechanisms that are coordinated by the Ministry of Finance  and Economic Affairs (MoF & EA);
+(iii) ensuring that ESDP is linked to the financial resource allocation mechanisms that are coordinated by the Ministry of Finance and Economic Affairs (MoF & EA);
 
-(v) ensuring that education stakeholders such as parents, students, Civil Society Organisations (CSOs), private sector and Development Partners, have full opportunities to  comment  upon  the  educational  services  provided  by  institutions/schools with the Government reacting rapidly and responding clearly to those comments;
+(iv) ensuring that EPMS becomes an enabling institutional capacity in the machinery of Education Ministries, Departments and Agencies (MDAs)/Institutions for efficient and effective management of education provision;
 
-(iv) ensuring  that EPMS becomes an  enabling  institutional  capacity  in  the  machinery  of Education Ministries, Departments and Agencies (MDAs)/Institutions for efficient and effective management of education provision;
+(v) ensuring that education stakeholders such as parents, students, Civil Society Organisations (CSOs), private sector and Development Partners, have full opportunities to comment upon the educational services provided by institutions/schools with the Government reacting rapidly and responding clearly to those comments;
 
-(vi) strengthening Monitoring and Evaluation (M&E) systems to ensure that performance indicator  progress  is  tracked  against  agreed  objectives  and  targets  set  in  each  subsector; and
+(vi) strengthening Monitoring and Evaluation (M&E) systems to ensure that performance indicator progress is tracked against agreed objectives and targets set in each sub-sector; and
 
-(vii) ensuring that trends in education quality and access are monitored regularly, through education outcomes' surveys; gauged against the performance plans and that the results are widely disseminated to stakeholders.
+(vii) ensuring that trends in education quality and access are monitored regularly, through education outcomes’ surveys; gauged against the performance plans and that the results are widely disseminated to stakeholders.
 
 ## 3.3 Professional Development and Incentives
 
@@ -879,21 +979,21 @@ The fifth prioritized action will be to strengthen knowledge and vocational skil
 
 ESDP will prioritise expenditures which assist in optimising the attainment of greater access and equity in regional terms with respect to the provision of quality education for all and by promoting human capabilities through:
 
-(ii) provision of school/institution infrastructure with solar panels, and providing bicycles to teachers in selected schools that are located in difficult and hard to reach areas;
-
 (i) consolidating and sustaining the gains achieved from ESDP;
 
-(iii) provision  of  funding  for  teaching  learning  materials  and  equipment  with  special attention to the establishment of community,  school,  district, regional libraries, school/institutions' science facilities as well as workshops on cost-effective basis;
+(ii) provision of school/institution infrastructure with solar panels, and providing bicycles to teachers in selected schools that are located in difficult and hard to reach areas;
 
-(v) provision of student welfare by way of carefully-aimed and cost-effectively administered  student  loans  so  as  to  broaden  the  social  base  of  entrants  to  higher education;
+(iii) provision of funding for teaching learning materials and equipment with special attention to the establishment of community, school, district, regional libraries, school/institutions’ science facilities as well as workshops on cost-effective basis;
 
-(iv) provision  of  teacher  training  and  professional  development  facilities  with  special emphasis on the rehabilitation of teacher training colleges and the utilisation of Teacher Resource Centres (TRCs) and other Professional Development Centres (PDCs);
+(iv) provision of teacher training and professional development facilities with special emphasis on the rehabilitation of teacher training colleges and the utilisation of Teacher Resource Centres (TRCs) and other Professional Development Centres (PDCs);
 
-(vi) strengthening schools'/institutions' management so that they are of sufficient quality to enhance performance and outcomes oriented monitoring and evaluation;
+(v) provision of student welfare by way of carefully-aimed and cost-effectively administered student loans so as to broaden the social base of entrants to higher education;
 
-(viii) Ensuring  the  provision  of  Laboratory  technicians and  workshop  technicians for improved teaching of science, technology education and skills development; and
+(vi) strengthening schools’/institutions’ management so that they are of sufficient quality to enhance performance and outcomes oriented monitoring and evaluation;
 
-(vii) improving  the  quality  of  education  sector  coordination,  consultative  and  dialogue processes  so  as  to  be  able  to  utilise  available  and  budgeted  resources  efficiently  and effectively;
+(vii) improving the quality of education sector coordination, consultative and dialogue processes so as to be able to utilise available and budgeted resources efficiently and effectively;
+
+(viii) Ensuring the provision of Laboratory technicians and workshop technicians for improved teaching of science, technology education and skills development; and
 
 (ix) Recruiting and training library staff.
 
@@ -911,9 +1011,9 @@ Different countries organise and administer the several educational elements in 
 
 (i) construction and rehabilitation of secondary schools;
 
-(iii) administration of primary and secondary schools.
-
 (ii) some adult and non-formal educational programmes; and
+
+(iii) administration of primary and secondary schools.
 
 The decentralised responsibilities will be coordinated by PMO - RALG while MOEVT will retain  the  responsibility  for  educational  policy  and  sector-wide  coordination. Taking  into consideration such developments, the coordination function' will be entrusted to MOEVT to facilitate  effective  ESDP  implementation. PMO  will  remain  with  its  role  of  coordinating Government business across all sectors.
 
@@ -939,35 +1039,35 @@ For  successful  implementation,  ESDP  demands  the  institution  of  a Teacher
 
 The operational targets in this ESDP Capabilities and Values Improvement cluster area will cover the following:
 
-(ii) increase in the number of available and trained teachers, educators and instructors at all levels  (pre-primary,  primary,  secondary,  vocational,  higher,  technical,  folk,  adult)  to reach the national norms of Teacher Pupil Ratio (TPR) by 2017;
-
 (i) increase in the number of young (<7 years) children well-prepared for school and life;
 
-(iii) establish operating PDCs at Basic Education level  by 2012;
+(ii) increase in the number of available and trained teachers, educators and instructors at all levels (pre-primary, primary, secondary, vocational, higher, technical, folk, adult) to reach the national norms of Teacher Pupil Ratio (TPR) by 2017;
 
-(v) establish operating PDCs at Adult, Folk and Vocational education levels by 2012;
+(iii) establish operating PDCs at Basic Education level by 2012;
 
 (iv) establish operating PDCs at Higher Education level by 2012;
 
-(vi) improved knowledge stock on entrepreneurship skills amongst graduating and out-of school youths;
+(v) establish operating PDCs at Adult, Folk and Vocational education levels by 2012;
 
-(viii) increase in research generation/output and dissemination;
+(vi) improved knowledge stock on entrepreneurship skills amongst graduating and out-of school youths;
 
 (vii) increase by at least 100% in the number of home-grown Ph.D. level experts, in areas demonstrated to be of relevance to socio-economic development by 2017;
 
-(ix) all  relevant  higher  education  programmes  offered  to  have  effectively  and  efficiently operating linkages with production and service centres by 2012;
+(viii) increase in research generation/output and dissemination;
 
-(xi) reduce  number  of  illiterate  adults  with  special  attention  /focus from  3  million  in 2006/07 to 500,000 in 2017;
+(ix) all relevant higher education programmes offered to have effectively and efficiently operating linkages with production and service centres by 2012;
 
-(x) at  least  60%  of  learners  who  are  enrolled  at  all  levels  of  education proceed to  next level of education from 2012 onwards;
+(x) at least 60% of learners who are enrolled at all levels of education proceed to next level of education from 2012 onwards;
+
+(xi) reduce number of illiterate adults with special attention /focus from 3 million in 2006/07 to 500,000 in 2017;
 
 (xii) increasing numbers of students/youths who are service oriented and show enterprising skills annually;
 
-(xiv) increasing  numbers  of  community  members who acquire  usable/marketable  skills through Folk Development programmes every year from 2008 onwards; and
-
 (xiii) Reduction, in number of new cases of HIV and AIDS resulting from effective HIV and AIDS education and life-skills programmes to be offered at all levels of education from 2012;
 
-(xv) Teachers'  Resource  Centres  used  increasingly  by  teachers  from  December  2008 onwards.
+(xiv) increasing numbers of community members who acquire usable/marketable skills through Folk Development programmes every year from 2008 onwards; and
+
+(xv) Teachers’ Resource Centres used increasingly by teachers from December 2008 onwards.
 
 These targets and their reporting will be disaggregated by gender.
 
@@ -977,15 +1077,15 @@ From the indicative targets in the Capabilities and Values Improvement area, the
 
 (i) recruit the available trained pre-primary teachers and retain them;
 
-(iii) establish mechanisms for supporting and mentoring newly recruited teachers;
+(ii) recruit and retain the available trained primary school teachers to attain the desired teacher–pupil ratio;
 
-(ii) recruit and  retain the  available  trained  primary  school  teachers  to  attain  the  desired teacher-pupil ratio;
+(iii) establish mechanisms for supporting and mentoring newly recruited teachers;
 
 (iv) introduce community-funded school feeding schemes;
 
-(vi) provide scholarship grants to pupils from low income households;
-
 (v) recruit and retain, the available trained secondary school teachers;
+
+(vi) provide scholarship grants to pupils from low income households;
 
 (vii) recruit and retain available trained special needs teachers for basic education;
 
@@ -997,27 +1097,27 @@ From the indicative targets in the Capabilities and Values Improvement area, the
 
 (viii) introduce pre-primary teacher preparation programmes in teacher training colleges;
 
+(ix) continuously develop pre-primary teachers’ skills to reflect current and emerging challenges;
+
 (x) implement a Teacher Development and Management Strategy (TDMS);
 
-(ix) continuously  develop  pre-primary  teachers'  skills  to  reflect  current  and  emerging challenges;
-
-(xi) establish  Professional Development Centres;
-
-(xiii) enhance the quality of teacher training by instituting curricula reviews;
+(xi) establish Professional Development Centres;
 
 (xii) expand production of diploma teachers by utilising open learning approaches;
 
-(xiv) strengthen in-service courses for up-grading and professional development of secondary school teachers;
+(xiii) enhance the quality of teacher training by instituting curricula reviews;
 
-(xvi) attract, recruit and retain adequate high quality TC tutors;
+(xiv) strengthen in-service courses for up-grading and professional development of secondary school teachers;
 
 (xv) ensure that trainee teachers are effectively mentored during teaching practice and when posted to schools as probationer teachers;
 
+(xvi) attract, recruit and retain adequate high quality TC tutors;
+
 (xvii) enhance cognitive, conceptual and technical skills of both academic staff and students;
 
-(xix) review Adult Education and Non Formal Education Strategy; and
-
 (xviii) harmonise Educational Qualification Framework; and
+
+(xix) review Adult Education and Non Formal Education Strategy; and
 
 (xx) enhance teacher professionalism among teacher educators by enabling teacher educators to join Tanzania Education Society.
 
@@ -1025,39 +1125,39 @@ From the indicative targets in the Capabilities and Values Improvement area, the
 
 (i) rationalise tertiary and higher education by designing and implementing a capability improvement strategy for the sub-sector;
 
-(iii) finalise and implement a teacher professional development strategy;
+(ii) strengthen a sub-sector Education Management Information System (EMIS) that is linked with ESMIS;
 
-(ii) strengthen   a  sub-sector Education Management Information System (EMIS) that is linked with ESMIS;
+(iii) finalise and implement a teacher professional development strategy;
 
 (iv) expand production of degree teachers by utilising open learning approaches;
 
-(vi) enhance teacher professionalism among  teacher educators by enabling teacher educators to join Tanzania Education Society;
-
 (v) expand university level teacher training and its professional development wing;
+
+(vi) enhance teacher professionalism among teacher educators by enabling teacher educators to join Tanzania Education Society;
 
 (vii) enhance the quality of teacher training by instituting curricula reviews;
 
-(ix) strengthen research generation capacity through increased post-graduate enrolment;
+(viii) increase funding for production of home-grown experts including Ph.D. degree graduates;
 
-(viii) increase  funding  for  production  of  home-grown  experts  including  Ph.D.  degree graduates;
+(ix) strengthen research generation capacity through increased post–graduate enrolment;
 
 (x) earmark and allocate funds for building research capacity;
 
-(xii) promote linkages with production and service centres/firms.
-
 (xi) enhance cognitive, conceptual and technical skills of both academic staff and students; and
+
+(xii) promote linkages with production and service centres/firms.
 
 #### 3.6.1.3 Technical and Vocational Education and Training
 
-(ii) promote the quality of teacher training by instituting curricula reviews;
-
 (i) enhance teacher professionalism among teacher educators by enabling teacher educators to join Tanzania Education Society;
 
-(iii) strengthen  cognitive,  conceptual  and  technical  skills  of  both  academic  staff  and students;
+(ii) promote the quality of teacher training by instituting curricula reviews;
 
-(v) harmonise Educational Qualification Framework;
+(iii) strengthen cognitive, conceptual and technical skills of both academic staff and students;
 
 (iv) promote linkages with production and service centres/firms;
+
+(v) harmonise Educational Qualification Framework;
 
 (vi) design TVET Development Programme;
 
@@ -1067,11 +1167,11 @@ From the indicative targets in the Capabilities and Values Improvement area, the
 
 [[START OF PAGE 33]]
 
-(vii) support  privately  owned  Vocational  Training  Centres  at  the  District  level  (PublicPrivate Partnerships);
-
-(ix) integrate and expand the training of vocational and technical education teachers; and
+(vii) support privately owned Vocational Training Centres at the District level (Public-Private Partnerships);
 
 (viii) recruit and retain the available, technical and vocational teachers/ tutors/facilitators;
+
+(ix) integrate and expand the training of vocational and technical education teachers; and
 
 (x) establish a sub-sector-wide Education Management Information System (EMIS) that is linked to ESMIS.
 
@@ -1079,29 +1179,29 @@ From the indicative targets in the Capabilities and Values Improvement area, the
 
 (i) review, re-design and implement a capability improvement strategy for Folk Education;
 
-(iii) harmonise Educational Qualification Framework;
-
 (ii) implement Folk Education Development Programme;
+
+(iii) harmonise Educational Qualification Framework;
 
 (iv) establish a sub-sector-wide Education Management Information System (EMIS) that is linked to ESMIS;
 
-(vi) rehabilitate Folk and Community Development Centres;
-
 (v) recruit and retain the available, folk development tutors/facilitators;
+
+(vi) rehabilitate Folk and Community Development Centres;
 
 (vii) enhance the quality of teacher training by instituting curricula reviews;
 
-(ix) enhance teacher professionalism among teacher educators by enabling teacher educators to join Tanzania Education Society;
-
 (viii) promote linkages with production and service centres; and
 
-(x) strengthen  in-service  courses  for  up-grading  and  professional  development  of Folk Development College facilitators/educators
+(ix) enhance teacher professionalism among teacher educators by enabling teacher educators to join Tanzania Education Society;
+
+(x) strengthen in-service courses for up-grading and professional development of Folk Development College facilitators/educators
 
 ### 3.6 2 Improving Provision and Equity
 
 The  major  challenges  facing  the  education  sector  include  the  upgrading of the  physical facilities  and  infrastructure  at  post-primary,  folk and  vocational  training  levels  to  facilitate expansion of enrolment. These negatively affect education provision and access. In the short to  medium  term  therefore, the  ESDP  will  address  these  challenges  so  as to  increase  the participation rates in these areas by ensuring adequate provision of human and fixed assets. The ESDP enrolment projection is as shown in Annex F
 
-The demographic composition of the student/pupil body is changing very slowly. At the postprimary, folk and vocational levels it does not yet reflect the composition of the population. Equity of access and outcomes still remains a problem, especially for women who are underrepresented in science, engineering, technology and skills development programmes as well as in postgraduate programmes..
+The demographic composition of the student/pupil body is changing very slowly. At the post-primary, folk and vocational levels it does not yet reflect the composition of the population. Equity of access and outcomes still remains a problem, especially for women who are under-represented in science, engineering, technology and skills development programmes as well as in postgraduate programmes..
 
 The  sub-sectors  and  institutions  are  therefore  expected  to  establish equity  targets  with emphasis on the programmes in which rural students, women students and the disabled are under-represented  and  develop  strategies  to  ensure  equity  of  outcomes.  To  achieve  the growth and transformation goals of NSGRP  the  higher education system must  be differentiated and diversified. ESDP will endeavour to ensure diversity through mission and programme differentiation based on the type and range of qualifications offered.
 
@@ -1119,25 +1219,25 @@ The operational targets in this ESDP Improving Provision and Equity cluster area
 
 (i) at least 50% of children receive two years of Pre-Primary education by 2012;
 
-(iii) Special Needs Educational parameters (e.g. kinds and levels of disabilities, orphans and vulnerable  children  etc.) reviewed by  end-2008.    Based  on  these,  set  and  monitor targets for the provision of all levels of basic education to all such children by 2012 4 ;
-
 (ii) Net Enrolment Rate in primary schools increased from 90.5% in 2006 to at least 99% by 2012 and sustained at that level;
 
-(iv) at  least  50%  of  children  aged  14-17  years  are  enrolled  in  ordinary  level  secondary schools by 2012;
+(iii) Special Needs Educational parameters (e.g. kinds and levels of disabilities, orphans and vulnerable children etc.) reviewed by end-2008. Based on these, set and monitor targets for the provision of all levels of basic education to all such children by 2012 4;
 
-(vi) access to and quality of education in the Government and  Non-Government schools/institutions is regulated, with a regulation framework in place by 2012;
+(iv) at least 50% of children aged 14-17 years are enrolled in ordinary level secondary schools by 2012;
 
 (v) at least 30% of the cohort are enrolled in advanced level secondary by 2012;
 
-(vii) achieve  substantially  increased  undergraduate  enrolment  in  Universities,  Technical Colleges and Teachers Training Colleges, including at least 25,000 distance learners by 2017;
+(vi) access to and quality of education in the Government and Non-Government schools/institutions is regulated, with a regulation framework in place by 2012;
 
-(ix) a  strong  correlation  between  numbers  of  students  in  higher  learning  institutions  in various  areas  of  study  and  the  forthcoming  demands  of  industry  and  commerce demonstrated  This will  be  tested  subsequently  by  institution-based  tracer  studies  of graduates;
+(vii) achieve substantially increased undergraduate enrolment in Universities, Technical Colleges and Teachers Training Colleges, including at least 25,000 distance learners by 2017;
 
-(viii) increased  post  graduate  enrolment  in  higher  and  tertiary  education  to  at  least  10,000 full-time students and 5,000 part-time (thesis) students by 2017;
+(viii) increased post graduate enrolment in higher and tertiary education to at least 10,000 full-time students and 5,000 part-time (thesis) students by 2017;
+
+(ix) a strong correlation between numbers of students in higher learning institutions in various areas of study and the forthcoming demands of industry and commerce demonstrated This will be tested subsequently by institution-based tracer studies of graduates;
 
 (x) reduced numbers of young people involved in COBET from around 235,000 in 2006/07 to around 10,000 in 2012, and completely mainstreaming positive COBET innovations into primary/secondary education by 2017; and.
 
-(xi) students  enrolment  in  Folk Eeducation  institutions  increased  to  at  least  150,000  by 2017.
+(xi) students enrolment in Folk Eeducation institutions increased to at least 150,000 by 2017.
 
 These indicative targets will be reviewed and improved upon within the sub-sectors and their reporting will be disaggregated by gender.
 
@@ -1155,45 +1255,45 @@ From  the  indicative  targets  in  the Improving  Provision  and  Equity area t
 
 (i) increase funding for the preparation and provision of teaching and learning materials;
 
-(iii) sustain  the  positive  PEDP construction  programme  of  classrooms,  teacher  houses, sanitation facilities depending on budget constraints and Government targets;
-
 (ii) prepare and implement pre-primary development strategy within the Basic Education context;
 
-(iv) strengthen school based Teachers' Resource Centres;
+(iii) sustain the positive PEDP construction programme of classrooms, teacher houses, sanitation facilities depending on budget constraints and Government targets;
 
-(vi) develop flexible and cost-effective arrangements for teacher housing with community support in order to retain teachers in their working stations;
+(iv) strengthen school based Teachers’ Resource Centres;
 
 (v) provide incentives to rural primary school teachers;
 
-(vii) facilitate  improvement of learning achievement outcomes in rural and geographically difficult and hard to reach areas;
+(vi) develop flexible and cost-effective arrangements for teacher housing with community support in order to retain teachers in their working stations;
+
+(vii) facilitate improvement of learning achievement outcomes in rural and geographically difficult and hard to reach areas;
+
+(viii) cost–effectively rehabilitate and add to available stock of classrooms;
 
 (ix) secure the optimum use of existing school classrooms stock through a combination of complementary use and multi-shift teaching in remote schools;
 
-(viii) cost-effectively rehabilitate and add to available stock of classrooms;
-
 (x) introduce innovative strategies to secure and sustain early participation of pupils from disadvantaged areas, and girls, including targeted incentive schemes and provision of selective boarding facilities in difficult and hard to reach areas;
+
+(xi) undertake secondary school physical capacity and facilities status study so as to facilitate enrolment expansion through optimal utilisation of given existing physical capacities and facilities with minimal extra investment in infrastructural capacity;
 
 (xii) rehabilitate and build libraries and stock these with adequate and appropriate reading materials;
 
-(xi) undertake  secondary  school  physical  capacity  and  facilities  status  study  so  as  to facilitate  enrolment  expansion  through  optimal  utilisation  of  given  existing  physical capacities and facilities with minimal extra investment in infrastructural capacity;
-
 (xiii) enable practical science to be delivered, either through well-stocked science laboratories or by science demonstration kits and practical science camps based upon a cost-benefit analysis of alternatives;
-
-(xv) earmark  and  allocate  funds  for  construction  and  maintenance  of  students'  hostels  in selected schools;
 
 (xiv) provide girl-friendly sanitation facilities in all relevant schools;
 
-(xvi) rehabilitate and construct teachers' houses providing those in remote areas with solar panels;
+(xv) earmark and allocate funds for construction and maintenance of students’ hostels in selected schools;
 
-(xviii) improve facilities and systems of care and support for teachers, non teaching staff and students affected by HIV and AIDS.
+(xvi) rehabilitate and construct teachers’ houses providing those in remote areas with solar panels;
 
 (xvii) improve provision of water and sanitary facilities to schools and training institutions;
 
-(xix)  review and implement preparation of teachers of Adult and Non-formal Education in selected teacher training colleges;
+(xviii) improve facilities and systems of care and support for teachers, non teaching staff and students affected by HIV and AIDS.
+
+(xix) review and implement preparation of teachers of Adult and Non-formal Education in selected teacher training colleges;
+
+(xx) re-design, promote and implement demand driven curriculum for Adult and Non Formal Education; and
 
 (xxi) Provide appropriate technology equipment to Adult and Non-formal Education centres to facilitate efficiency in delivery of services.
-
-(xx) re-design,  promote  and  implement  demand  driven  curriculum  for    Adult  and  Non Formal Education; and
 
 #### 3.6.2.2 Higher Education
 
@@ -1207,37 +1307,37 @@ From  the  indicative  targets  in  the Improving  Provision  and  Equity area t
 
 (ii) provide adequate funding for stocking institutional libraries;
 
-(iv) provide  funding  for  constructing  relevant  disability  friendly  buildings  and  relevant disability friendly teaching and learning materials;
+(iii) improve facilities and systems of care for teachers, non teaching staff and students affected by HIV and AIDS;
 
-(iii) improve  facilities  and  systems  of  care  for  teachers, non  teaching  staff and  students affected by HIV and AIDS;
+(iv) provide funding for constructing relevant disability friendly buildings and relevant disability friendly teaching and learning materials;
 
-(v) earmark  and  allocate  funds  to  build  scientific  research  capacities  and  facilities  to  be awarded on the basis of research plans that are approved;
-
-(vii) provide funding for improving water and sanitary facilities;
+(v) earmark and allocate funds to build scientific research capacities and facilities to be awarded on the basis of research plans that are approved;
 
 (vi) earmark and allocate funds for enhancing the use of ICT applications in teaching and learning, library services, and institutional management;
 
-(viii) review the students' loan system so as to achieve efficiency and broaden the social base of higher education students.
+(vii) provide funding for improving water and sanitary facilities;
+
+(viii) review the students’ loan system so as to achieve efficiency and broaden the social base of higher education students.
 
 #### 3.6.2.3 Technical and Vocational Education and Training
 
 (i) provide and allocate funding for expansion of teaching and learning space;
 
-(iii) improve  facilities  and  systems  of  care  for  teachers,  non  teaching  staff  and  students affected by HIV and AIDS;
-
 (ii) provide adequate funding for stocking institutional libraries;
 
-(iv) provide  funding  for  constructing  relevant  disability  friendly  buildings  and  relevant disability friendly teaching and learning materials;
+(iii) improve facilities and systems of care for teachers, non teaching staff and students affected by HIV and AIDS;
+
+(iv) provide funding for constructing relevant disability friendly buildings and relevant disability friendly teaching and learning materials;
+
+(v) earmark and allocate funds to build scientific research capacities and facilities to be awarded on the basis of research plans that are approved;
 
 (vi) earmark and allocate funds for enhancing the use of ICT applications in teaching and learning, library services, and institutional management;
 
-(v) earmark  and  allocate  funds  to  build  scientific  research  capacities  and  facilities  to  be awarded on the basis of research plans that are approved;
-
 (vii) provide funding for improving water and sanitary facilities;
 
-(ix) rehabilitate a selection of facilities and infrastructure in earmarked VET centers;
+(viii) Introduce the students’ loan system so as to achieve efficiency and broaden the social base of technical education students.
 
-(viii) Introduce the students' loan system so as to achieve efficiency and broaden the social base of technical education students.
+(ix) rehabilitate a selection of facilities and infrastructure in earmarked VET centers;
 
 (x) re-design, promote and implement demand driven curriculum for VET centres; and
 
@@ -1247,15 +1347,15 @@ From  the  indicative  targets  in  the Improving  Provision  and  Equity area t
 
 (i) establish community libraries to strengthen the culture of reading;
 
+(ii) re-design, promote and implement demand driven curriculum for Folk Education Institutions;
+
 (iii) implement FEDP for the improvement of Folk Education provision on equitable bases;
 
-(ii) re-design,  promote  and  implement demand  driven  curriculum  for Folk  Education Institutions;
-
-(iv) rehabilitate  a  selection  of  facilities  and  infrastructure  in  earmarked Folk  Education Institutions;
-
-(vi) utilise Folk Education Institutions to address environmental management and combat the spread of HIV and AIDS in rural areas.
+(iv) rehabilitate a selection of facilities and infrastructure in earmarked Folk Education Institutions;
 
 (v) earmark and allocate funding for purchase of tools, equipment, and related teaching and learning materials in Folk Education Institutions; and
+
+(vi) utilise Folk Education Institutions to address environmental management and combat the spread of HIV and AIDS in rural areas.
 
 22
 
@@ -1287,33 +1387,33 @@ Efforts have been made to upgrade performance through in-service courses of vari
 
 The operational targets in this ESDP Conducive Teaching and Learning Environment cluster area comprise:
 
-(i) steps  taken  to  ensure  that  educational  institutions  are  safe, accessible, violence  free, child friendly, gender sensitive and disability friendly by 2011;
+(i) steps taken to ensure that educational institutions are safe, accessible, violence free, child friendly, gender sensitive and disability friendly by 2011;
+
+(ii) all primary and secondary schools have adequate, competent and skilled teachers by 2012;
 
 (iii) rehabilitation of facilities and infrastructure implemented in all Government Secondary Schools, Teachers Colleges, Folk Colleges and institutions of higher learning by 2012;
 
-(ii) all  primary  and  secondary  schools  have  adequate,  competent  and skilled  teachers  by 2012;
-
 (iv) provision and availability of textbooks and assistive devises improved at all levels of education by 2017;
 
-(vi) improving provision of library services at all levels of learning.
+(v) teachers’ pay reform and strengthening of teacher incentives implemented by 2008; and
 
-(v) teachers' pay reform and strengthening of teacher incentives implemented by 2008; and
+(vi) improving provision of library services at all levels of learning.
 
 From  the  indicative  targets in  the Conducive  Teaching  and  Learning  Environment cluster area the following strategies and activities have been derived for each sub sector.
 
 #### 3.6.3.1 Basic Education
 
-(i) produce  adequate  and  appropriate  teaching  and  learning  materials  for  pre-primary education;
+(i) produce adequate and appropriate teaching and learning materials for pre-primary education;
 
-(iii) orient  pre-primary  school  teachers  to  child-friendly  pedagogy,  including  appropriate practices for girls and those with disabilities;
+(ii) review and update existing pre-primary curricula with the view to meet current and future needs;
 
-(ii) review  and  update  existing  pre-primary  curricula  with  the  view  to  meet  current  and future needs;
+(iii) orient pre-primary school teachers to child-friendly pedagogy, including appropriate practices for girls and those with disabilities;
 
-(iv) produce  adequate  quality  teaching  and  learning  materials  in  primary  schools and secondary schools;
-
-(vi) strengthen the use of the Whole School Development Plan (WSDP) for a wider choice on approved instructional materials;
+(iv) produce adequate quality teaching and learning materials in primary schools and secondary schools;
 
 (v) continue to provide a capitation grant of Tshs 10,000 per primary pupil nationwide and Tshs 5,000 per out of school children subject to review;
+
+(vi) strengthen the use of the Whole School Development Plan (WSDP) for a wider choice on approved instructional materials;
 
 (vii) encourage publishers, booksellers and suppliers to open bookshops, especially in rural areas;
 
@@ -1321,15 +1421,15 @@ From  the  indicative  targets in  the Conducive  Teaching  and  Learning  Envir
 
 (ix) promote child friendly pedagogy through school based in-service training of teachers;
 
-(xi) provide adequate financing for the provision of teaching and learning materials;
+(x) improve the current average Book–Pupil Ratio (BPR) from 1:3 in 2007 to 1:1 in 2017;
 
-(x) improve the current average Book-Pupil Ratio (BPR) from 1:3 in 2007 to 1:1 in 2017;
+(xi) provide adequate financing for the provision of teaching and learning materials;
 
 (xii) enhance capacity to distribute textbooks and other learning and reading materials;
 
-(xiv) enhance the use of ICT application in Teachers Colleges;
-
 (xiii) enhance learner friendly pedagogy by providing sustainable teacher in-service activities;
+
+(xiv) enhance the use of ICT application in Teachers Colleges;
 
 24
 
@@ -1337,65 +1437,67 @@ From  the  indicative  targets in  the Conducive  Teaching  and  Learning  Envir
 
 [[START OF PAGE 39]]
 
-(xv) continue  to aim  at providing a  capitation  grant  of  Tshs.  20,000/=  per  Government secondary school student per year and Tshs. 10,000/= per Non Government secondary school student subject to review;
+(xv) continue to aim at providing a capitation grant of Tshs. 20,000/= per Government secondary school student per year and Tshs. 10,000/= per Non Government secondary school student subject to review;
+
+(xvi) promote a culture of maintenance and rehabilitation of infrastructure and facilities; and
+
+(xvii) Rehabilitate, resource and facilitate Teachers Colleges’ libraries;
 
 (xviii) Review and revise a core curriculum for out of school children and adults in order to systematize the acquisition of literacy, vocational and life skills.
-
-(xvi) promote a culture of maintenance and rehabilitation of infrastructure and facilities; and (xvii) Rehabilitate, resource and facilitate Teachers Colleges' libraries;
 
 #### 3.6.3.2 Higher Education
 
 (i) enhance the quality of the teacher training curriculum and its relevance to PDCs;
 
-(iii) enhance the use of ICT application in Higher Learning Institutions;
+(ii) conduct a comprehensive review of all colleges so as to rehabilitate, refurbish and expand for better teaching, learning and rationalisation;
 
-(ii) conduct  a  comprehensive  review  of  all  colleges  so  as  to  rehabilitate,  refurbish  and expand for better teaching, learning and rationalisation;
+(iii) enhance the use of ICT application in Higher Learning Institutions;
 
 (iv) promote a culture of maintenance and rehabilitation of infrastructure and facilities;
 
-(vi) improve  predictability  of  funding  for Other  Charges  other  than  salaries such  as operating expenses, maintenance and materials;
+(v) incorporate cross–cutting issues in PDCs curriculum;
 
-(v) incorporate cross-cutting issues in PDCs curriculum;
+(vi) improve predictability of funding for Other Charges other than salaries such as operating expenses, maintenance and materials;
 
 (vii) increase funding for teaching and learning materials;
 
-(ix) procure, distribute and stock libraries with up-to date learning and reading materials;
-
 (viii) make rapid progress in pay reform for consolidating the capacity built;
 
-(x) strengthen capacity  for  a  quality  assurance  system  in  teaching  and  learning,  research and community services;
+(ix) procure, distribute and stock libraries with up-to date learning and reading materials;
+
+(x) strengthen capacity for a quality assurance system in teaching and learning, research and community services;
+
+(xi) strengthen students’ course evaluation processes; and
 
 (xii) lecturers upgraded through in-service programmes.
-
-(xi) strengthen students' course evaluation processes; and
 
 #### 3.6.3.3 Technical Education and Vocational Training
 
 (i) enhance the quality of the teacher training curriculum and its relevance to PDCs;
 
-(iii) enhance the use of ICT application in TVET Institutions;
+(ii) conduct a comprehensive review of all colleges so as to rehabilitate, refurbish and expand for better teaching, learning and rationalisation;
 
-(ii) conduct  a  comprehensive  review  of  all  colleges  so  as  to  rehabilitate,  refurbish  and expand for better teaching, learning and rationalisation;
+(iii) enhance the use of ICT application in TVET Institutions;
 
 (iv) promote a culture of maintenance and rehabilitation of infrastructure and facilities;
 
-(vi) improve  predictability  of  funding  for  Other  Charges  other  than  salaries  such  as operating expenses, maintenance, materials;
+(v) incorporate cross–cutting issues in PDCS curriculum;
 
-(v) incorporate cross-cutting issues in PDCS curriculum;
+(vi) improve predictability of funding for Other Charges other than salaries such as operating expenses, maintenance, materials;
 
 (vii) increase funding for teaching and learning materials;
 
-(ix) procure, distribute and stock libraries with up-to date learning and reading materials;
-
 (viii) make rapid progress in pay reform for consolidating the capacity built;
 
-(x) strengthen capacity  for  a  quality  assurance  system  in  teaching  and  learning,  research and community services;
+(ix) procure, distribute and stock libraries with up-to date learning and reading materials;
+
+(x) strengthen capacity for a quality assurance system in teaching and learning, research and community services;
+
+(xi) strengthen students’ course evaluation processes;
 
 (xii) teachers and tutors trained and upgraded through in-service programmes;
 
-(xi) strengthen students' course evaluation processes;
-
-(xiii) expand  learning  opportunities  for  quality education/skills  particularly  for  urban  and rural low and middle income adult learning communities;
+(xiii) expand learning opportunities for quality education/skills particularly for urban and rural low and middle income adult learning communities;
 
 (xiv) improve procurement, marketing and distribution of books in order to enhance access and equity to knowledge/skills by low and middle in come groups; and
 
@@ -1409,17 +1511,17 @@ From  the  indicative  targets in  the Conducive  Teaching  and  Learning  Envir
 
 #### 3.6.3.4 Folk Education
 
-(i) expand  learning  opportunities  for  quality  education/skills  particularly  for  urban  and rural low and middle income adult learning communities;
+(i) expand learning opportunities for quality education/skills particularly for urban and rural low and middle income adult learning communities;
+
+(ii) improve procurement, marketing and distribution of books and assistive devises in order to enhance access and equity to knowledge/skills by low and middle in come groups;
 
 (iii) enhance the use of ICT applications in library services industry;
 
-(ii) improve  procurement,  marketing  and  distribution  of  books and  assistive  devises in order  to  enhance  access  and  equity  to  knowledge/skills  by  low  and  middle  in  come groups;
-
 (iv) provide for adequate and appropriate teaching and learning materials;
 
-(vi) improve workshop facilities and outreach centres;
-
 (v) review folk-development curriculum in liaison with the key stakeholders;
+
+(vi) improve workshop facilities and outreach centres;
 
 (vii) tutors trained and upgraded through in-service programmes; and
 
@@ -1443,9 +1545,9 @@ What is  crucial  to  the  school/college  management  processes  is  the  quali
 
  ensuring that salary payments as well as honoraria for AFNE are promptly and correctly disbursed;
 
- Head Teachers disciplining any teacher not present in her/his class during normal school hours.
-
  Head Teachers and inspection teams informing OUT (or other appropriate body) of any teacher found studying while their classes are unattended; and
+
+ Head Teachers disciplining any teacher not present in her/his class during normal school hours.
 
 Even progress resulting from changes in pedagogy can be effective only through school level instructional leadership. Furthermore, in order to expand access to education and improve on quality in education, significant resources will be committed to education provision.
 
@@ -1455,25 +1557,25 @@ The Examinations Council, School/institution Inspectorate and quality assurance 
 
 The operational targets in this ESDP Macro-Micro Management and Governance cluster area comprise:
 
-(ii) improved PMS/PAF in all institutions and MDAs by 2008;
-
 (i) organisational culture mindset change effected by 2008;
+
+(ii) improved PMS/PAF in all institutions and MDAs by 2008;
 
 (iii) Education Client Service Charters (ECSC) reviewed and/or launched by 2008;
 
-(v) Education  Quality  Assurance  Organs  (EQAOs)  improved  and  functioning  effectively by 2008;
+(iv) consultative dialogue structures within the sector and between the sub-sector both horizontally and vertically strengthened by 2008;
 
-(iv) consultative  dialogue  structures within  the  sector  and  between  the  sub-sector  both horizontally and vertically strengthened by 2008;
+(v) Education Quality Assurance Organs (EQAOs) improved and functioning effectively by 2008;
 
 (vi) Examinations Councils strengthened in setting standards and quality assurance;
 
-(viii) improved/expanded use of ICT in management and governance over the 10-year period;
-
 (vii) Inspectorate bodies geared to monitor and maintain standards in respective education sub-sector;
 
-(ix) improved  facilities  and  systems  of  care  for  teachers,  non  teaching  staff  and  students affected by HIV and AIDS in place by 2008; and
+(viii) improved/expanded use of ICT in management and governance over the 10-year period;
 
-(x) improved  resource  planning  and  budgeting  in  line  with  ESDP  strategies  linked  to SBAS/MKUKUTA annually.
+(ix) improved facilities and systems of care for teachers, non teaching staff and students affected by HIV and AIDS in place by 2008; and
+
+(x) improved resource planning and budgeting in line with ESDP strategies linked to SBAS/MKUKUTA annually.
 
 27
 
@@ -1485,55 +1587,55 @@ From the indicative targets in the Macro-Micro Management and Governance cluster
 
 #### 3.6.4.1 Basic Education
 
-(i) develop a 3-year rolling plan for the Basic Education Sub-Sector forthwith, initially for 2008/09-2010/11, to be evaluated, reviewed and updated annually;
-
-(iii) install Performance Management  System  (PMS)  for  the sub-sector at school/ district/ministry levels;
+(i) develop a 3-year rolling plan for the Basic Education Sub-Sector forthwith, initially for 2008/09–2010/11, to be evaluated, reviewed and updated annually;
 
 (ii) introduce pre-primary education leadership programmes in selected TCs;
 
+(iii) install Performance Management System (PMS) for the sub-sector at school/ district/ministry levels;
+
 (iv) consolidate the leadership capacity/competence building programme in Basic Education;
+
+(v) promote and fund effective schools’ consultative dialogue(s) on effective schools, planning and budgeting, expenditure reviews and reports;
 
 (vi) earmark and allocate funds for secondary school instructional leadership training;
 
-(v) promote  and  fund  effective  schools'  consultative  dialogue(s)  on  effective  schools, planning and budgeting, expenditure reviews and reports;
-
-(vii) strengthen  capacity  of  school  inspectorate  and  supervision  capacity,  covering  the whole of basic education;
-
-(ix) enhance coordination, planning and M&E at Basic Education sub-sector.
+(vii) strengthen capacity of school inspectorate and supervision capacity, covering the whole of basic education;
 
 (viii) earmark and allocate funds for organisational culture change; and
 
+(ix) enhance coordination, planning and M&E at Basic Education sub-sector.
+
 #### 3.6.4.2 Higher Education
 
-(i) develop a 3-year rolling plan for the Higher Education Sub-Sector forthwith, initially for 2008/09-2010/11, to be evaluated, reviewed and updated annually;
+(i) develop a 3-year rolling plan for the Higher Education Sub-Sector forthwith, initially for 2008/09–2010/11, to be evaluated, reviewed and updated annually;
+
+(ii) earmark and allocate funds for affecting organisational culture change;
 
 (iii) design and install PMS for higher education;
 
-(ii) earmark and allocate funds for affecting organisational culture change;
-
 (iv) strengthen supervisory capacity of Higher Education Quality Assurance organs;
-
-(vi) enhance coordination, planning and M&E at Higher Education sub-sector; and
 
 (v) earmark and allocate funds for higher education leadership training;
 
-(vii) promote  and  fund  consultative  dialogue  on  effective Institutions,  planning  and budgeting, expenditure reviews and reports.
+(vi) enhance coordination, planning and M&E at Higher Education sub-sector; and
+
+(vii) promote and fund consultative dialogue on effective Institutions, planning and budgeting, expenditure reviews and reports.
 
 #### 3.6.4.3  Technical and Vocational Education and Training
 
-(i) develop  a  3-year  rolling  plan  for  the TVET Sub-Sector,  forthwith,  initially  for 2008/09-2010/11, to be evaluated, reviewed and updated annually;
-
-(iii) design and install PMS for Technical and Vocational education;
+(i) develop a 3-year rolling plan for the TVET Sub-Sector, forthwith, initially for 2008/09–2010/11, to be evaluated, reviewed and updated annually;
 
 (ii) earmark and allocate funds for affecting organisational culture change;
 
+(iii) design and install PMS for Technical and Vocational education;
+
 (iv) strengthen supervisory capacity of TVET Quality Assurance organs;
+
+(v) earmark and allocate funds for Technical and Vocational Education leadership training;
 
 (vi) enhance coordination, planning and M&E at TVET sub-sector;
 
-(v) earmark  and  allocate  funds  for Technical  and  Vocational  Education  leadership training;
-
-(vii) promote and  fund  consultative  dialogue  on  effective Institutions,  planning  and budgeting, expenditure reviews and reports.
+(vii) promote and fund consultative dialogue on effective Institutions, planning and budgeting, expenditure reviews and reports.
 
 28
 
@@ -1543,13 +1645,13 @@ From the indicative targets in the Macro-Micro Management and Governance cluster
 
 #### 3.6.4.4 Folk Education
 
-(i) develop a 3-year rolling plan for the Folk Education Sub-Sector  forthwith, initially for 2008/09-2010/11, to be evaluated, reviewed and updated annually;
-
-(iii) enhance coordination, planning and M&E at  Folk Education sub-sector;
+(i) develop a 3-year rolling plan for the Folk Education Sub-Sector forthwith, initially for 2008/09–2010/11, to be evaluated, reviewed and updated annually;
 
 (ii) install PMS across the Folk Education sub-sector;
 
-(iv) promote  and  fund  consultative  dialogue  on  effective Folk  Education  Institution's, planning and budgeting and expenditure reviews and reports; and
+(iii) enhance coordination, planning and M&E at Folk Education sub-sector;
+
+(iv) promote and fund consultative dialogue on effective Folk Education Institution’s, planning and budgeting and expenditure reviews and reports; and
 
 (v) strengthen nationwide level of demand-driven Folk Education provision.
 
@@ -1571,7 +1673,7 @@ Education Sector Development Programme is a macro level programme requiring that
 
 ## 4.2 Service Delivery
 
-The  process of  installing  Performance  Management  Systems  (PMS)  in  all  institutions  and education departments will be initiated from the outset of the 10-year period. As part of PMS installation,  the  sub-sectors  and  institutions will  develop/review Education  Client  Service Charters (ECSC). An  ECSC is  a  tool  that will be used  to  monitor  and  measure  education service delivery against set performance indicators, standards and targets. The installation of PMS in the education sector is the principal entry point for introducing reform in the subsectors and institutions, with all of the other initiatives complementing it.
+The process of installing Performance Management Systems (PMS) in all institutions and education departments will be initiated from the outset of the 10-year period. As part of PMS installation, the sub-sectors and institutions will develop/review Education Client Service Charters (ECSC). An ECSC is a tool that will be used to monitor and measure education service delivery against set performance indicators, standards and targets. The installation of PMS in the education sector is the principal entry point for introducing reform in the sub-sectors and institutions, with all of the other initiatives complementing it.
 
 ## 4.3 Key Result Areas
 
@@ -1613,15 +1715,15 @@ The Performance Assessment Framework (2005) notes the indicators that have been 
 
 (i) objectively verifiable;
 
-(iii) related to outputs and outcomes rather than to inputs.
-
 (ii) focused on key results; and
+
+(iii) related to outputs and outcomes rather than to inputs.
 
 In addition the indicators will also:
 
-(ii) assess consequent behaviour change; and
-
 (i) have precise quantities;
+
+(ii) assess consequent behaviour change; and
 
 (iii) cover actual utilization by students of properly equipped laboratories.
 
@@ -1643,9 +1745,9 @@ An Education Sector Management Information System (ESMIS) is being established t
 
 ESDP will have in built monitoring and performance evaluation processes to ensure that its implementation  is  not  only  on  track  but  also  provides  value  for  money.  It  will  also  place emphasis on the quality of performance data that will be collected, stored and analysed, the purpose being:
 
-(ii) to estimate the additional resources required for full ESDP achievement;
-
 (i) to assess the level of achievement in terms of budgeted and allocated resources and funds applied;
+
+(ii) to estimate the additional resources required for full ESDP achievement;
 
 (iii) to ensure that input deliveries, work schedules, targeted outputs and actions/reforms proceed as planned; and
 
@@ -1665,21 +1767,17 @@ MKUKUTA calls for an outcome-oriented approach in the fight against poverty. Thi
 
 Education  sector  planning will  become  information-based  and  ESDP  Monitoring  and Performance Assessment Framework will address the following:
 
-(ii) ability to measure general progress in the sector as a whole;
-
 (i) sector Ministries concentrating on ESMIS activities in their own sub-sectors;
 
-(iii) ability  to  assist  education  planners  and  policy  makers  with  information  based  on decision making; and
+(ii) ability to measure general progress in the sector as a whole;
+
+(iii) ability to assist education planners and policy makers with information based on decision making; and
 
 (iv) ability to provide a clear image of the performance and reform process in the education sector.
 
-Figure 3: ESMIS Process (Information Cycle) for ESDP
-
 Data Gathering
 
-(Institutions
-
-MDAs,
+(Institutions MDAs,
 
 District)
 
@@ -1703,15 +1801,17 @@ Dissemination
 
 (Internal & External)
 
+Figure 3: ESMIS Process (Information Cycle) for ESDP
+
 ## 4.9 Objectives of the ESDP Monitoring System
 
 The  ESDP  monitoring  system  is  designed  to  meet  the  information  needs  of  different educational  stakeholders.  These  include  policy  makers  in  the  education sector Ministries, Departments and Agencies together with Civil Society Organisations, Development Partners, Local Government Authorities and the general public.
 
 The specific objectives of the system are:
 
-(ii) to ensure proper storage, easy access and use by stakeholders;
+(i) to ensure timely availability of complete and user–related data;
 
-(i) to ensure timely availability of complete and user-related data;
+(ii) to ensure proper storage, easy access and use by stakeholders;
 
 (iii) to analyse data and disseminate the findings to stakeholders; and
 
@@ -1721,15 +1821,15 @@ The specific objectives of the system are:
 
 ESDP will pay attention to the outcome-based approach and consequently its implementation will demand the following:
 
-(ii) orientation of skills;
-
 (i) changes in mindset;
+
+(ii) orientation of skills;
 
 (iii) changes in work processes, instruments and procedures; and
 
-These developments are necessary so as to achieve cross-sector collaboration and to register harmonised  performance  of  the  whole  sector.  There  are  therefore  immediate  needs  for
+(iv) staffing and institutional set–up.
 
-(iv) staffing and institutional set-up.
+These developments are necessary so as to achieve cross–sector collaboration and to register harmonised performance of the whole sector. There are therefore immediate needs for
 
 33
 
@@ -1743,15 +1843,15 @@ achieving overall activities/policy  coherence  and  synergy.  There  are  also 
 
 The priority actions and reforms required for establishing the ESDP M&E function comprise:
 
-(ii) systems' development  budget  process  will  be  used  as  a  mechanism  for  resources allocations by capturing priority goals, targets (operational) and outcomes strategies. The  overriding  strategic  action  is  to link  resources  allocation  to  operational  targets with  the MOFEA  development  SBAS  in  order  to have an  Integrated Financial Management System;
+(i) training of key actors at central and local level, institution level, civil society and private sector level in designing, implementing and monitoring of pro-education outcomes policies and strategies;
 
-(i) training  of  key  actors at  central  and  local  level,  institution  level,  civil  society  and private  sector  level  in  designing,  implementing  and  monitoring  of  pro-education outcomes policies and strategies;
+(ii) systems’ development budget process will be used as a mechanism for resources allocations by capturing priority goals, targets (operational) and outcomes strategies. The overriding strategic action is to link resources allocation to operational targets with the MOFEA development SBAS in order to have an Integrated Financial Management System;
 
-(iii) technical assistance: the strategy here is to provide inputs for developing a TA policy that  builds  on  the  national  policy  and  already  accepted  TA  strategies.  The  key characteristics for TA are:
-
- improving the quality of individual capacities;
+(iii) technical assistance: the strategy here is to provide inputs for developing a TA policy that builds on the national policy and already accepted TA strategies. The key characteristics for TA are:
 
  being able to build on national mentoring capacities;
+
+ improving the quality of individual capacities;
 
  being systemic and institutionalised; and
 
@@ -1761,15 +1861,15 @@ The priority actions and reforms required for establishing the ESDP M&E function
 
 The strategic priorities for upgrading the ESDP Education Monitoring and Evaluation (EME) function comprise:
 
-(ii) undertaking  training  programmes  to  strengthen  the  ESDP  performance  management process capacity at Ministry, District and Institutional Level by December 2008;
-
 (i) adopting a broad participatory approach to EME by December 2008;
 
-(iii) improved  quality  and  timeliness  on  the  collection,  processing,  analysing,  storing  and disseminating of data to facilitate monitoring and evaluation by December 2008; and
+(ii) undertaking training programmes to strengthen the ESDP performance management process capacity at Ministry, District and Institutional Level by December 2008;
 
-(v) improved communication and flow of information between sectors, ministries, regions, districts and institutions.
+(iii) improved quality and timeliness on the collection, processing, analysing, storing and disseminating of data to facilitate monitoring and evaluation by December 2008; and
 
 (iv) improved effective utilisation of agreed indicators for ascertaining and monitoring the effectiveness of investment in education sector by December 2008; and
+
+(v) improved communication and flow of information between sectors, ministries, regions, districts and institutions.
 
 34
 
@@ -1787,15 +1887,15 @@ This  Chapter  explains  management  and  dialogue  structures  and  identifies 
 
 Currently  elements of education  Sector  fall  in  two  ministries. However  there  are  several educational  institutions  which  are  scattered  in  other  ministries.    Thus  there  is  a need  to harmonise institutional arrangements to effect efficiency and accountability. The following principles will be observed to harmonise Institutional Arrangement.
 
-(ii) mechanisms for prioritising across the four sub-sectors;
-
 (i) strong coordination across the four sub-sectors;
+
+(ii) mechanisms for prioritising across the four sub-sectors;
 
 (iii) allocation of funds in a manner which helps to translate sector-wide outcome priorities into sector-wide expenditure input priorities;
 
-(v) strong    Inter-Ministerial  Steering  Committee,  Development  Committees, Task Forces and Technical Working Groups; and
+(iv) strong ESDP implementing administrative organ;
 
-(iv) strong  ESDP implementing administrative organ;
+(v) strong Inter-Ministerial Steering Committee, Development Committees, Task Forces and Technical Working Groups; and
 
 (vi) adherence to Sector Wide Approach.
 
@@ -1809,7 +1909,7 @@ The four sub-sectors will have the following mandates:
 
 Basic Education | Higher Education | Technical and Vocational Education | Folk Education
 --- | --- | --- | ---
- Pre-primary  Primary  Secondary  Teacher Education  Adult and Non Formal Education | Universities |  Technical  Vocational | Folk Development
+ Pre-primary  Primary  Secondary  Teacher Education  Adult and Non – Formal Education | Universities |  Technical  Vocational | Folk Development
 
 35
 
@@ -1829,9 +1929,9 @@ The link between Education Sector Ministries and Ministry of Communication, Scie
 
 As  noted  by  the ESR  of  2006  and  2007  the  Education  sector  dialogue  will  focus  on  the following:
 
-(ii) greater consultation on thematic issues for discussion at the stakeholders dialogues;
-
 (i) strengthening consultation within the sector both horizontally between sub-sectors and vertically down to Education Institutions;
+
+(ii) greater consultation on thematic issues for discussion at the stakeholders dialogues;
 
 (iii) adhere to agreed roadmap for the sector review process; and
 
@@ -1847,35 +1947,30 @@ An important element of the education sector dialogue is the committee structure
 
 [[START OF PAGE 51]]
 
-Figure 5:   ESDP COMMITTEE DIALOGUE STRUCTURE
-
 INTERMINISTERIAL STEERING
-
 COMMITTEE
 
 JOINT EDUCATION SECTOR AND THEMATIC
-
 AREA WORKING GROUP
 
-EDUCATION SECTOR DEVELOPMENT
+GOVERNMENT EDUCATION SECTOR AND
+THEMATIC AREA WORKING GROUP
 
+EDUCATION SECTOR DEVELOPMENT
 COMMITTEE (ESDC)
 
-FEDC TASK FORCE
+FOLK EDUCATION DEVELOPMENT
+COMMITTEE (FEDC)
 
 ESDC TASK FORCE
 
-TECHNICAL WORKING GROUPS
+FEDC TASK FORCE
 
 TECHNICAL WORKING GROUPS
 
-GOVERNMENT EDUCATION SECTOR AND
+TECHNICAL WORKING GROUPS
 
-THEMATIC AREA WORKING GROUP
-
-FOLK EDUCATION DEVELOPMENT
-
-COMMITTEE (FEDC)
+Figure 5:   ESDP COMMITTEE DIALOGUE STRUCTURE
 
 ### 5.4.1 Specific Dialogue Objectives
 
@@ -1883,9 +1978,9 @@ The specific objectives of education sector dialogue comprise:
 
 (i) improved realisation of the core focus on outcomes for learners;
 
-(iii) enhanced linkage between planning and budgeting;
-
 (ii) improved quality of education service delivery that is driven by policy choices;
+
+(iii) enhanced linkage between planning and budgeting;
 
 37
 
@@ -1895,55 +1990,55 @@ The specific objectives of education sector dialogue comprise:
 
 (iv) better monitoring and reporting based on a sector wide outcomes assessment framework;
 
-(vi) improved holistic capacity building strategies;
-
 (v) improved alignment of ESDP objectives with other Government reforms;
 
-(vii) strengthened  partnership  around  common  educational  goals  thus  enhancing  mutual accountability; and
+(vi) improved holistic capacity building strategies;
+
+(vii) strengthened partnership around common educational goals thus enhancing mutual accountability; and
 
 (viii) improved information sharing between Government and other education stakeholders.
 
 ### 5.4.2 Principles for Dialogue and Institutional Arrangements
 
-The  recommended  ESDP  dialogue  and  institutional  arrangements  will  encourage  and promote  effective ESDP dialogue.  The  principles  to  be  adopted  in  order  to  guide  the achievement of such effective dialogue are as follows:
+The recommended ESDP dialogue and institutional arrangements will encourage and promote effective ESDP dialogue. The principles to be adopted in order to guide the achievement of such effective dialogue are as follows:
 
 (i) providing accurate information upon which such dialogue may be based;
 
-(iii) education sector stakeholders will participate fully in the dialogue processes;
-
 (ii) the Government is the leader in the education development process;
 
-(iv) openness and frankness will  be practiced by all;
+(iii) education sector stakeholders will participate fully in the dialogue processes;
 
-(vi) dialogue and institutional arrangement transaction costs will be minimised;
+(iv) openness and frankness will be practiced by all;
 
 (v) mutual accountability will prevail; each being accountable to the others at all levels;
 
-(vii) trust and respect will guide the actions of  all;
+(vi) dialogue and institutional arrangement transaction costs will be minimised;
 
-(ix) sufficient cognisance will  be given to overall Government work schedules and timing by the ESDP dialogue and institutional arrangements; and
+(vii) trust and respect will guide the actions of all;
 
-(viii) linkages to  other  government business schedule  and processes in a  given time frame will be observed;
+(viii) linkages to other government business schedule and processes in a given time frame will be observed;
 
-(x) education sector stakeholders will  be provided  with pertinent information and given sufficient time to study and discuss.
+(ix) sufficient cognisance will be given to overall Government work schedules and timing by the ESDP dialogue and institutional arrangements; and
 
-The sector  dialogue will  serve  as  a  tool  for  promoting  education  sector  objectives  and  the achievement of  PER-MKUKUTA  goals.  This  extends  to  the  important  links  with  DPs  as provided  for  in  the  relevant  signed  MoU,  thus  implementing  JAST,  and  according  to  the division of labour with respect to the roles played by all the education provision stakeholders.
+(x) education sector stakeholders will be provided with pertinent information and given sufficient time to study and discuss.
+
+The sector dialogue will serve as a tool for promoting education sector objectives and the achievement of PER-MKUKUTA goals. This extends to the important links with DPs as provided for in the relevant signed MoU, thus implementing JAST, and according to the division of labour with respect to the roles played by all the education provision stakeholders.
 
 ### 5.4.3 The Roles and Functions of Dialogue
 
-Agreement  on  the  different  roles  and  functions  of  the  various  institutions  involved  in implementing  ESDP  will  determine  the  effectiveness  of  the  dialogue  and  institutional arrangements  required for the implementation  of  ESDP.  In  this case, inclusion  and participation of the different actors will be determined by the roles and functions they will perform which include:
+Agreement on the different roles and functions of the various institutions involved in implementing ESDP will determine the effectiveness of the dialogue and institutional arrangements required for the implementation of ESDP. In this case, inclusion and participation of the different actors will be determined by the roles and functions they will perform which include:
 
 (i) implementation and management, provision reasons;
 
-(iii) consultations;
-
 (ii) information provision from relevant areas;
 
-(iv) cross-sectoral learning requirements;
+(iii) consultations;
 
-(vi) rationalised and programmed reporting.
+(iv) cross–sectoral learning requirements;
 
 (v) participatory decision making; and
+
+(vi) rationalised and programmed reporting.
 
 38
 
@@ -1959,9 +2054,9 @@ From the economic perspective ESDP-sets how the limited resources will be utiliz
 
 ## 6.1 The Financing Framework
 
-The National Budget for 2007/08 provides 'TShs. 1,086.1 billion for education, equal to 18 per  cent  of  the  budget' 5 .  GoT  plans  to  collect  TShs.  3,502.5  billion  in  domestic  revenue during  2007/08  'representing  an  increase  of  more  than  30%  on  the  likely  outrun  for 2006/07'.  Along  with  foreign  grants  and  concessional  loans  of  TShs.  2,549.3  billion  and sales  of  assets,  the  total  GoT  budget  for  2007/08  is  TShs.  6,066.8  billion,  which  is  25% higher than the previous budget and equivalent to 31 % of GDP.
+The National Budget for 2007/08 provides “TShs. 1,086.1 billion for education, equal to 18 per cent of the budget”5. GoT plans to collect TShs. 3,502.5 billion in domestic revenue during 2007/08 “representing an increase of more than 30% on the likely outrun for 2006/07”. Along with foreign grants and concessional loans of TShs. 2,549.3 billion and sales of assets, the total GoT budget for 2007/08 is TShs. 6,066.8 billion, which is 25% higher than the previous budget and equivalent to 31 % of GDP.
 
-It  is  generally  recognised  that,  although  the  exercise  of  costing  MKUKUTA  has  not  been completed, resources required for its full implementation are far more than the Government of  Tanzania  can  afford  (perhaps  'twice  the  available  domestic  and  foreign  resources combined'). Within the education sector, the same dire situation applies as shown in Annex G and H. Accordingly:
+It is generally recognised that, although the exercise of costing MKUKUTA has not been completed, resources required for its full implementation are far more than the Government of Tanzania can afford (perhaps “twice the available domestic and foreign resources combined”). Within the education sector, the same dire situation applies as shown in Annex G and H. Accordingly:
 
 (i) Cost-savings and increased efficiencies will be applied throughout the 10-year period from 2008 through 2017; and
 
@@ -1969,17 +2064,17 @@ It  is  generally  recognised  that,  although  the  exercise  of  costing  MKUK
 
 ## 6.2 Quantitative Education Sector Developments
 
-Having  approached  100%  NER  (and  exceeded  100%  GER)  for  the  primary  phase,  ESDP investment over 2008-17 has no simple correlation with enrolments. Many  of the developments  will  be  qualitative -  better  teaching  and  learning,  improved  environments and the stress will be on outputs (graduates) and outcomes (graduates in employment) rather than  inputs  (access). Nevertheless,  some  of  the  suggested  sub-sectoral  targets  have  clear enrolment implications, for example:
+Having approached 100% NER (and exceeded 100% GER) for the primary phase, ESDP investment over 2008-17 has no simple correlation with enrolments. Many of the developments will be qualitative – better teaching and learning, improved environments – and the stress will be on outputs (graduates) and outcomes (graduates in employment) rather than inputs (access). Nevertheless, some of the suggested sub-sectoral targets have clear enrolment implications, for example:
 
 (i) at least 50% of all children receive two years of Pre-Primary education by 2012;
 
-(iii) at  least  50%  of  children  aged  14-17  years  are  enrolled  in  ordinary  level  secondary schools by 2012;
-
 (ii) increase Net Enrolment Rate in primary schools from 97.3% in 2007 to at least 99% by 2012 and sustain at that level;
+
+(iii) at least 50% of children aged 14-17 years are enrolled in ordinary level secondary schools by 2012;
 
 (iv) at least 30% of the cohort are enrolled in advanced level secondary by 2012;
 
-> 5 Minister of Finance's presentation to the National Assembly, 14 th June 2007.
+> 5 Minister of Finance’s presentation to the National Assembly, 14th June 2007.
 
 39
 
@@ -1989,31 +2084,31 @@ Having  approached  100%  NER  (and  exceeded  100%  GER)  for  the  primary  ph
 
 (v) increased undergraduate enrolment in higher and tertiary education to at least 100,000 full time students, 50,000 part-time, and 25,000 distance learners by 2017;
 
+(vi) increased post graduate enrolment in higher and tertiary education to at least 10,000 full-time students and 5,000 part-time students by 2017; and
+
 (vii) increased enrolment to at least 150,000 participants in Folk Education Institutions by 2015.
 
-(vi) increased  post  graduate  enrolment  in  higher  and  tertiary  education  to  at  least  10,000 full-time students and 5,000 part-time students by 2017; and
-
-This  implies  something  of  the  order  of 30% more educational enrolments (in total, spread over the various levels) by 2012 over 2006/07, and something of the order of 38-42% more by 2017 over 2006/07 [see Statistical Appendix]. It is emphasised that this does not imply public expenditure increases of that order and also that - the emphasis being upon outcomes -  it  is  planned  that  the increases  in  graduates  (Standard  VII,  Form  4,  Form  6,  higher education, folk, technical and vocational education) will substantially exceed those percentages.
+This implies something of the order of 30% more educational enrolments (in total, spread over the various levels) by 2012 over 2006/07, and something of the order of 38-42% more by 2017 over 2006/07 [see Statistical Appendix]. It is emphasised that this does not imply public expenditure increases of that order and also that – the emphasis being upon outcomes – it is planned that the increases in graduates (Standard VII, Form 4, Form 6, higher education, folk, technical and vocational education) will substantially exceed those percentages.
 
 ## 6.3 Information-Driven Planning and Monitoring
 
-The necessity for an effective Education Sector Management Information System (ESMIS) is emphasised. At  present,  such  data  are  dispersed  over  several  MDAs.  Moreover, in  the primary sub-sector, data are aggregated at District level and in some instances, not retained locally once the information is transmitted to the headquarters. Lack of reliable and recent data needed for effective management limit ESDP to be information-based.
+The necessity for an effective Education Sector Management Information System (ESMIS) is emphasised. At present, such data are dispersed over several MDAs. Moreover, in the primary sub-sector, data are aggregated at District level and in some instances, not retained locally once the information is transmitted to the headquarters. Lack of reliable and recent data needed for effective management limit ESDP to be information-based.
 
 ## 6.4 Coherent Education Sector Financing
 
-ESMIS over the next two or three years will upgrade the reliability and utility of education sector information, also will unite all education sector activities so as to  make financing and related  analyses  both  simpler  and  more  transparent.  At  present,  public  funding  for  various education sector elements are spread across a number of Votes including those of:
-
-(ii) Ministry  of  Community  Development,  Gender  and  Children  (Folk  and  Community Development Colleges);
+ESMIS over the next two or three years will upgrade the reliability and utility of education sector information, also will unite all education sector activities so as to make financing and related analyses both simpler and more transparent. At present, public funding for various education sector elements are spread across a number of Votes including those of:
 
 (i) Ministry of Education and Vocational Training;
 
+(ii) Ministry of Community Development, Gender and Children (Folk and Community Development Colleges);
+
 (iii) Prime Ministers Office - Regional Administration and Local Government Authorities for Primary Schools, Secondary schools and Kibaha Education Centre;
 
-(v) Regions - social service support (education material, supplies and services).
+(iv) Public Service Commission (Teachers’ Service Commission);
 
-(iv) Public Service Commission (Teachers' Service Commission);
+(v) Regions – social service support (education material, supplies and services).
 
-Amongst  the  problems  that  this  arrangement  creates  is  that  of  determining  just  what  is 'educational expenditure' and what is not. For example, the Ministry-level costs of MCDGC are typically excluded from the calculations although some of the headquarters activities are related to the Ministry's present responsibility for Folk and Community Colleges. Similarly, costs  related  to  the several colleges  administered  by  Ministries  other  than MOEVT  and MCDGC  are  not  usually  included  as  education  sector expenditure.    Likewise teachers' salaries constitute a high proportion of the sector's expenditure and yet several analyses omit them from their calculations.
+Amongst the problems that this arrangement creates is that of determining just what is ‘educational expenditure’ and what is not. For example, the Ministry-level costs of MCDGC are typically excluded from the calculations although some of the headquarters activities are related to the Ministry’s present responsibility for Folk and Community Colleges. Similarly, costs related to the several colleges administered by Ministries other than MOEVT and MCDGC are not usually included as education sector expenditure. Likewise teachers’ salaries constitute a high proportion of the sector’s expenditure and yet several analyses omit them from their calculations.
 
 40
 
@@ -2025,35 +2120,35 @@ The decentralisation of some educational operational responsibilities to local l
 
 (iv) construction and rehabilitation of secondary schools;
 
-(vi) administration of primary and secondary schools.
-
 (v) some adult and non-formal educational programmes; and
 
-MOEVT will retain the responsibility for educational  policy  and  sector-wide coordination. Also, the MOEVT and MCDGC will work closely with PMO-RALG, MOFEA and LGAs to coordinate  the  flow  of  funds  to  local  levels  (and  to  institutions)  for  all  education  sector activities. The incorporation of all LGAs into IFMS will help upgrade fiscal transparency at that level.
+(vi) administration of primary and secondary schools.
+
+MOEVT will retain the responsibility for educational policy and sector-wide coordination. Also, the MOEVT and MCDGC will work closely with PMO-RALG, MOFEA and LGAs to coordinate the flow of funds to local levels (and to institutions) for all education sector activities. The incorporation of all LGAs into IFMS will help upgrade fiscal transparency at that level.
 
 ## 6.5 Required Levels of Education Sector Expenditure
 
-ESDP recognises the need to increase the teaching force remuneration to the level that the economy can  afford.    However,  substantial  increase  of  wage  bill  without  parallel  increase funding of the sector activities would affect the provision of education. Also the programme calls  for investments  in  infrastructure such  as  teachers'  houses,  libraries,  laboratories, workshops, administration blocks and adequate consumables.
+ESDP recognises the need to increase the teaching force remuneration to the level that the economy can afford. However, substantial increase of wage bill without parallel increase funding of the sector activities would affect the provision of education. Also the programme calls for investments in infrastructure such as teachers’ houses, libraries, laboratories, workshops, administration blocks and adequate consumables.
 
-However,  the  sector  is  experiencing  under  funding  condition  of  scarcity.    Full  and  timely implementation of all recommendations will require the use of funds as wisely as possible. The following assumptions are considered realistic over the 2008-2017 period for the ten year ESDP phase:
+However, the sector is experiencing under funding condition of scarcity. Full and timely implementation of all recommendations will require the use of funds as wisely as possible. The following assumptions are considered realistic over the 2008-2017 period for the ten year ESDP phase:
 
-(vii) A real GDP growth rate of between 6-8% per annum;
+(vi) The inflation rate averaging around 3.5–4.5% per year;
 
-(vi) The inflation rate averaging around 3.5-4.5% per year;
+(vii) A real GDP growth rate of between 6–8% per annum;
 
-(viii) Government  allocating  an  average  of  22%  of  its  total  expenditure  to  the  education sector;
+(viii) Government allocating an average of 22% of its total expenditure to the education sector;
 
-(x) Development Partners  contributing  to  budget  support  at  20%  more  than  the  level  of contribution in 2006/07, in real terms.
+(ix) Government revenue as a share of GDP averaging 16–17%; and
 
-(ix) Government revenue as a share of GDP averaging 16-17%; and
+(x) Development Partners contributing to budget support at 20% more than the level of contribution in 2006/07, in real terms.
 
 With careful and participative planning, effective performance management, cost-sharing and community participation at all levels and above all a significant transformation in mindset, ESDP can be implemented on that financial basis.
 
 ## 6.6 Social Rates of Return
 
-Investment  trend  indicates  that  the  highest  social rates  of  return  are  at  the  primary  level 6 . However, there is a growing recognition that benefits begin to have significant effects only after the Basic Education phase has been completed. While Education for All is an accepted goal - and a vital requirement for democratic participation; the phenomenon of unemployed primary leavers, unable to proceed to secondary education and with insufficient marketable skills  to  generate  income, has  negative  effects  both  to  the  individuals and  the society  in general which calls for strengthening skills development to address this adverse phenomenon.
+Investment trend indicates that the highest social rates of return are at the primary level6. However, there is a growing recognition that benefits begin to have significant effects only after the Basic Education phase has been completed. While Education for All is an accepted goal – and a vital requirement for democratic participation; the phenomenon of unemployed primary leavers, unable to proceed to secondary education and with insufficient marketable skills to generate income, has negative effects both to the individuals and the society in general which calls for strengthening skills development to address this adverse phenomenon.
 
-> 6 The  most  recently  available  study  suggests  14%,  9%  and  8%  social  rates  of  return  at  the  primary, secondary and tertiary levels respectively; the corresponding private rates of return being 20%, 16% and 23% (Galabawa, 2005).
+> 6 The most recently available study suggests 14%, 9% and 8% social rates of return at the primary, secondary and tertiary levels respectively; the corresponding private rates of return being 20%, 16% and 23% (Galabawa, 2005).
 
 41
 
@@ -2061,35 +2156,35 @@ Investment  trend  indicates  that  the  highest  social rates  of  return  are 
 
 [[START OF PAGE 56]]
 
-Technology now makes a significant difference to the economic growth of nations and that take-off through technology critically depends upon the extent of higher education. Tanzania does not  perform  well  in  these  areas  compared  with  other  countries  at  a  similar  stage  of development.  Thus ESDP provides for investment across the education sector on all fronts.
+Technology now makes a significant difference to the economic growth of nations and that take-off through technology critically depends upon the extent of higher education. Tanzania does not perform well in these areas compared with other countries at a similar stage of development. Thus ESDP provides for investment across the education sector on all fronts.
 
 ## 6.7 Student Loans Scheme
 
-The Higher Education Students' Loans Board (HESLB) provided a total of 103,000 first-year and continuing students with TShs. 89.9 billion in loans during 2006/07, covering meals and accommodation, books and stationery, tuition fees, field and practical training, research and dissertation, and special faculty requirements.
+The Higher Education Students’ Loans Board (HESLB) provided a total of 103,000 first-year and continuing students with TShs. 89.9 billion in loans during 2006/07, covering meals and accommodation, books and stationery, tuition fees, field and practical training, research and dissertation, and special faculty requirements.
 
-Higher  Education  Students  Loans  Board  (HESLB)  has  made  considerable  progress  in upgrading the scheme's transparency and efficiency over the recent period. Nevertheless, the principle of cost sharing in higher education is yet to be fully accepted by students, parents and  society  in  general.  Since  its  inception  the  Higher Students  Loans  Board  has  been depending on budgetary allocations as a source of funding. In the coming  years the Board will strive at finding alternative source of funding.
+Higher Education Students Loans Board (HESLB) has made considerable progress in upgrading the scheme’s transparency and efficiency over the recent period. Nevertheless, the principle of cost sharing in higher education is yet to be fully accepted by students, parents and society in general. Since its inception the Higher Students Loans Board has been depending on budgetary allocations as a source of funding. In the coming years the Board will strive at finding alternative source of funding.
 
 ## 6.8 Unit Costs Per Graduate
 
 In recent years, with roughly 990,000-1,020,000 students in the cohort some:
 
-(i) 300,000-330,000  pass  the  Primary  School  Leaving  Examination  (PSLE) which  is around 30-33% of the cohort;
-
-(iii) 8,000-10,000 obtain a Grade I or Grade II [around 45% of those sitting] in the Form 6 Examination (ACSEE)  which is around 1% of the cohort; and
+(i) 300,000-330,000 pass the Primary School Leaving Examination (PSLE) which is around 30-33% of the cohort;
 
 (ii) 22,300-23,900 [around 23% of those sitting] obtain a Grade I, II or III in the Form 4 Examination (CSEE) which is around 2.4% of the cohort;
 
+(iii) 8,000-10,000 obtain a Grade I or Grade II [around 45% of those sitting] in the Form 6 Examination (ACSEE) which is around 1% of the cohort; and
+
 (iv) 3,300-4,100 obtain university degree-level qualifications accounting for around 0.4% of the cohort.
 
-Taken  together,  these  represent  low  internal  efficiency  across  the  education  sector as reflected in high unit costs per graduate. Given the emphasis of ESDP on outcome indicators, this is a key measure.
+Taken together, these represent low internal efficiency across the education sector as reflected in high unit costs per graduate. Given the emphasis of ESDP on outcome indicators, this is a key measure.
 
 Within ESDP, each of the sub-sectors will by end-2008:
 
-(ii) set agreed achievable  indicators  for  the  reduction  of  those  unit  costs  per  graduate, ensuring that there is no associated depletion of standards or of quality.
-
 (i) calculate current unit (full) costs per graduate taking all related public investment into account; and
 
-At an institutional  level,  this will  be  done  on  the  basis  of  variable  unit  costs  per  graduate. These agreed indicators will be significant for M&E.
+(ii) set agreed achievable indicators for the reduction of those unit costs per graduate, ensuring that there is no associated depletion of standards or of quality.
+
+At an institutional level, this will be done on the basis of variable unit costs per graduate. These agreed indicators will be significant for M&E.
 
 42
 
@@ -2097,27 +2192,27 @@ At an institutional  level,  this will  be  done  on  the  basis  of  variable  
 
 [[START OF PAGE 57]]
 
-Educational institutions will, as a matter of course, conduct tracer studies of their leavers. ESDP emphasis include, a concerted drive to change mindsets across the sector, involving professionalism,  realism  linked  with  resourcefulness,  and  a  determination  to  overcome problems.  At  the  school  and  institutional  level,  this  involves  ensuring  that  the  educational outcomes are maximised by means of a heightened and more enlightened commitment by parents, teachers, heads of institutions and local government leaders, within the setting of a well-administered education sector with adequate quality assurance. Decreased unit costs per graduate will be one clear indication of how well this is occurring.
+Educational institutions will, as a matter of course, conduct tracer studies of their leavers. ESDP emphasis include, a concerted drive to change mindsets across the sector, involving professionalism, realism linked with resourcefulness, and a determination to overcome problems. At the school and institutional level, this involves ensuring that the educational outcomes are maximised by means of a heightened and more enlightened commitment by parents, teachers, heads of institutions and local government leaders, within the setting of a well-administered education sector with adequate quality assurance. Decreased unit costs per graduate will be one clear indication of how well this is occurring.
 
 At the Ministry level, planners and decision-makers will focus on achieving value for money: maximising outcomes while holding inputs to the minimum level necessary. Several areas have already been addressed, including:
 
-(ii) effectively  applying  community  resources  and  commitment  in  the  construction  of teacher housing; and
-
 (i) gearing teacher remuneration to effective educational achievement;
+
+(ii) effectively applying community resources and commitment in the construction of teacher housing; and
 
 (iii) up grading present student loan arrangements and addressing possible alternatives.
 
-While  additional  education  sector  funding  will be  necessary  over  the  coming  ten  years  of ESDP, a more significant development will be a better-planned, more efficientlyadministered  and  more  carefully-monitored  application  of  that  public  investment,  to  the benefit of Tanzania and its pupils and students.
+While additional education sector funding will be necessary over the coming ten years of ESDP, a more significant development will be a better-planned, more efficiently-administered and more carefully-monitored application of that public investment, to the benefit of Tanzania and its pupils and students.
 
 ## 6.9 Primary Teacher Training
 
-Teacher Education's share of the education sector budget, declined from 2.6% in 1997/98 to less than 1% in 2007/08. The number of trainee teachers fell from 27,700 in 2003 to 19,084 in  2006  and  18,754  in  2007. By  end-2008,  the  expedient  of  placing  trainee  (primary  and secondary)  teachers  within  schools  after  just  one  year  at  College  will  be  objectively evaluated. Without pre-empting the findings of that review, possible conclusions include:
+Teacher Education’s share of the education sector budget, declined from 2.6% in 1997/98 to less than 1% in 2007/08. The number of trainee teachers fell from 27,700 in 2003 to 19,084 in 2006 and 18,754 in 2007. By end-2008, the expedient of placing trainee (primary and secondary) teachers within schools after just one year at College will be objectively evaluated. Without pre-empting the findings of that review, possible conclusions include:
 
-(i) a lack of effective mentoring in the schools to which the trainees are allocated: Head Teachers who perform this role properly should receive bonuses - those who do not should  be  given  coaching  and,  should  the  situation  not  be  remedied,  further  action taken;
-
-(iii) qualifications are gained by trainees whose skills and/or attendance and/or commitment are deficient: this must be remedied at once - the status of 'qualified teacher' should only be awarded to competent teachers with positive attitudes.
+(i) a lack of effective mentoring in the schools to which the trainees are allocated: Head Teachers who perform this role properly should receive bonuses – those who do not should be given coaching and, should the situation not be remedied, further action taken;
 
 (ii) the morale and commitment of the trainee teachers themselves is low: here again, the Head Teacher should provide in-service training and encouragement;
+
+(iii) qualifications are gained by trainees whose skills and/or attendance and/or commitment are deficient: this must be remedied at once – the status of ‘qualified teacher’ should only be awarded to competent teachers with positive attitudes.
 
 More generally, there will be a ladder available to qualified teachers whereby, through open learning, they may upgrade their credentials to graduate status and beyond.
 
@@ -2129,21 +2224,21 @@ More generally, there will be a ladder available to qualified teachers whereby, 
 
 ## 6.10 School-Level Financing
 
-The  construction  and  maintenance  of schools to  some  extent reflects  the  ability  and willingness  of  communities  to  contribute.  Such  support  has  taken  many  forms  and  its continuation  and  intensification  will  remain  necessary  over  the  coming  10-year  period.  In return,  parents  and  the  local  community will  be  entitled  to  a  genuine  role  in  school governance to ensure positive contribution.
+The construction and maintenance of schools to some extent reflects the ability and willingness of communities to contribute. Such support has taken many forms and its continuation and intensification will remain necessary over the coming 10-year period. In return, parents and the local community will be entitled to a genuine role in school governance to ensure positive contribution.
 
-The implementation of ESDP depends upon sound micro financial management, autonomy and  transparency,  especially  at the  school  level.  Relating  the  Whole  School  Development plans and effort to the budget will be given adequate priority through actions which bring on board  and  empower school  committees.  Related  action will  include  taking  measures  to inculcate a sense of being trusted and deserving trust on the part of the teachers and mutual respect between those teaching and those being taught.
+The implementation of ESDP depends upon sound micro financial management, autonomy and transparency, especially at the school level. Relating the Whole School Development plans and effort to the budget will be given adequate priority through actions which bring on board and empower school committees. Related action will include taking measures to inculcate a sense of being trusted and deserving trust on the part of the teachers and mutual respect between those teaching and those being taught.
 
-The  public/ward-based  community  secondary  schools  are  starved  of  operational  financial resources  compared  with  the  situation  in  private/non-government  schools  in  the  same locality. ESDP assumes that communities will contribute at least 20% to construction costs over  the  10-year  period.  However,  the  real  challenge  is  achieving  innovative  school leadership that is able to broaden the base of resources revenue through adoption of principles such as attaching higher liability to contribute to school resources based on higher ability to pay, linked with the greater community benefits accruing from such higher contributions.
+The public/ward-based community secondary schools are starved of operational financial resources compared with the situation in private/non-government schools in the same locality. ESDP assumes that communities will contribute at least 20% to construction costs over the 10-year period. However, the real challenge is achieving innovative school leadership that is able to broaden the base of resources revenue through adoption of principles such as attaching higher liability to contribute to school resources based on higher ability to pay, linked with the greater community benefits accruing from such higher contributions.
 
 ## 6.11 Parental and Community Support
 
-Parents  contribute  the  largest  share  of  basic education,  Folk and  vocational  education recurrent expenditure. For instance, in 2001 while the Government contributed TShs. 20,000 and TShs. 85,000 per primary and secondary pupil respectively, parents spent TShs. 30,000 per primary and TShs. 93,000 per secondary  pupil. In  Folk  Development  Colleges communities  contribute  to  the  tune  of  one  third  of  the  total  tuition  fee. Moreover,  this contribution of the parents and communities in general  is an underestimate as it leaves out important expenses like school uniforms, transport, food/snacks, teaching learning materials and equipment  and medical expenses.
+Parents contribute the largest share of basic education, Folk and vocational education recurrent expenditure. For instance, in 2001 while the Government contributed TShs. 20,000 and TShs. 85,000 per primary and secondary pupil respectively, parents spent TShs. 30,000 per primary and TShs. 93,000 per secondary pupil. In Folk Development Colleges communities contribute to the tune of one third of the total tuition fee. Moreover, this contribution of the parents and communities in general is an underestimate as it leaves out important expenses like school uniforms, transport, food/snacks, teaching learning materials and equipment and medical expenses.
 
-It  is  further  estimated  that  community  contributions  to  the  construction  of  classrooms  and teachers' houses presently account for 20% of total costs. In order to increase this level of support,  typically  delivered  in  terms  of  local  labour  and  sometimes  land,  and  to  raise commitment,  each  school  committee  will  develop  a  plan for  the  provision  of  sufficient classrooms and teacher housing over a set period. Consultation with Government will occur regarding  the  provision  of  materials.  Alongside  this  approach,  action  will  be  taken  to eliminate wastage.
+It is further estimated that community contributions to the construction of classrooms and teachers’ houses presently account for 20% of total costs. In order to increase this level of support, typically delivered in terms of local labour and sometimes land, and to raise commitment, each school committee will develop a plan for the provision of sufficient classrooms and teacher housing over a set period. Consultation with Government will occur regarding the provision of materials. Alongside this approach, action will be taken to eliminate wastage.
 
 ## 6.12 Investment in Workshops, Laboratories and Libraries
 
-Considerable  investment  is  currently  being  made  in  school  laboratories,  workshops  and libraries.  Given  that  there  are  approaching  3,500  Government  secondary  schools  and  VET Institutions,  this  is  a  major  undertaking,  involving  a  high  proportion  of  the  development budget.  Moreover,  providing  these  facilities  has  considerable  operations  and  maintenance implications (equipment, chemicals and other consumables, book stock, laboratory technicians, library staff etc). Some schools and institutions which already have laboratory and workshops buildings are unable to use them effectively due to limited science equipment and materials.
+Considerable investment is currently being made in school laboratories, workshops and libraries. Given that there are approaching 3,500 Government secondary schools and VET Institutions, this is a major undertaking, involving a high proportion of the development budget. Moreover, providing these facilities has considerable operations and maintenance implications (equipment, chemicals and other consumables, book stock, laboratory technicians, library staff etc). Some schools and institutions which already have laboratory and workshops buildings are unable to use them effectively due to limited science equipment and materials.
 
 44
 
@@ -2151,21 +2246,21 @@ Considerable  investment  is  currently  being  made  in  school  laboratories, 
 
 [[START OF PAGE 59]]
 
-As  ESDP  focus on  outcomes, its  objectives  relate  to  students'  involvement  in skills development and science as  practical subjects based on experiments and engendering a love of reading and the ability to conduct independent research. The cost-benefits of this physical investment in relation to such outcomes will be assessed after every three years. Alternative approaches such as the provision of Working tool kits, Science Demonstration Kits and MiniLibrary Book packs and/or the establishment of District Practical Science Camps and income generating groups will also be considered.
+As ESDP focus on outcomes, its objectives relate to students’ involvement in skills development and science as practical subjects based on experiments and engendering a love of reading and the ability to conduct independent research. The cost-benefits of this physical investment in relation to such outcomes will be assessed after every three years. Alternative approaches such as the provision of Working tool kits, Science Demonstration Kits and Mini-Library Book packs and/or the establishment of District Practical Science Camps and income generating groups will also be considered.
 
 ## 6.13 Development Partners Support
 
-Development  Partners have  contributed significantly  towards  Tanzanian  education  mostly through budget support, and it is necessary that this should continue and, if possible, increase over the coming 10 years. The increasingly close and frank relationship between GoT and the DPs,  especially  with  regard  to  the  education  sector,  suggests  that  continued  and  possibly increased  funding  will  be  forthcoming  over  the  2008-17 periods.  During  that  decade,  the Government will endeavour significantly to increase the Education Sector share.
+Development Partners have contributed significantly towards Tanzanian education mostly through budget support, and it is necessary that this should continue and, if possible, increase over the coming 10 years. The increasingly close and frank relationship between GoT and the DPs, especially with regard to the education sector, suggests that continued and possibly increased funding will be forthcoming over the 2008-17 periods. During that decade, the Government will endeavour significantly to increase the Education Sector share.
 
-ESDPs' financial framework is based both in the form of budget support as well as Technical Assistance (TA) as stipulated in the JAST and contributions from Non-State Actors including International  organisations. The support  is  required  to  facilitate  the  successful  and  timely implementation of ESDP.
+ESDPs’ financial framework is based both in the form of budget support as well as Technical Assistance (TA) as stipulated in the JAST and contributions from Non-State Actors including International organisations. The support is required to facilitate the successful and timely implementation of ESDP.
 
 ## 6.14 ESDP and Sub-Sectoral Planning
 
-As  already  stated,  each  of  the  sub-sectors will  develop  its costed  rolling  3-year  plan  and associated performance management arrangements. Maximum benefit will be obtained from the  revised  sub-sectoral  arrangements.  Similarly,  there will  be four  plans  covering  all  of Basic,  Higher,  Technical  and Vocational  and  Folk  education,  taking  advantage  of  the linkages between them, and relating also to market and social requirements and to relevant activities within companies and civil society.
+As already stated, each of the sub-sectors will develop its costed rolling 3-year plan and associated performance management arrangements. Maximum benefit will be obtained from the revised sub-sectoral arrangements. Similarly, there will be four plans covering all of Basic, Higher, Technical and Vocational and Folk education, taking advantage of the linkages between them, and relating also to market and social requirements and to relevant activities within companies and civil society.
 
-These four sub-sector plans will take into account the activities set out in Chapter 3 of this document  and will  be  consistent  with  and  support  the  sector-wide  objectives  set  out  in Chapter  4.  Emerging  through  dialogue,  these  plans  will  be  reviewed  within  MOEVT  and MCDGC  responsible  directorates  and  be  addressed  and  approved  by  the Development Committee,  Government  Education  Sector  and Thematic  Area  Working  Group,  Joint Education Sector and Thematic Area Working Group and finally Inter- Ministerial Steering Committee.
+These four sub-sector plans will take into account the activities set out in Chapter 3 of this document and will be consistent with and support the sector-wide objectives set out in Chapter 4. Emerging through dialogue, these plans will be reviewed within MOEVT and MCDGC responsible directorates and be addressed and approved by the Development Committee, Government Education Sector and Thematic Area Working Group, Joint Education Sector and Thematic Area Working Group and finally Inter- Ministerial Steering Committee.
 
-Agreed  indicators will be  objectively  verifiable  and  outcome-based  and  the  plans will be related to the four outcome clusters:
+Agreed indicators will be objectively verifiable and outcome-based and the plans will be related to the four outcome clusters:
 
 45
 
@@ -2175,39 +2270,39 @@ Agreed  indicators will be  objectively  verifiable  and  outcome-based  and  th
 
 (i) capabilities and values;
 
-(iii) micro-macro efficient management; and
-
 (ii) conducive teaching and learning environment;
+
+(iii) micro-macro efficient management; and
 
 (iv) education provision in order to increase enrolment at all levels.
 
 The plan will address five key result areas;:
 
-(ii) teachers' attitudes, skills, abilities and performance enhancement;
-
 (i) educational leadership behaviour and change;
+
+(ii) teachers’ attitudes, skills, abilities and performance enhancement;
 
 (iii) schools/colleges/institutions upgraded management, organisation and functioning;
 
-(v) valuable consultative mechanisms, dialogue programmes and performance assessment machinery.
-
 (iv) improved cost-effectiveness of outcome/outputs achievement; and
+
+(v) valuable consultative mechanisms, dialogue programmes and performance assessment machinery.
 
 ## 6.15 Education Sector Priorities
 
-All ESDP elements are essential thus no sub-sector will be marginalised. Nevertheless, some education sector developments will be  regarded  as particularly  crucial over the coming 10 years as indicated in Table 1. All investment should be linked to at least one key result area and to one specific outcome cluster.
-
-Capabilities And Values | Conducive teaching and learning environment | Micro-macro efficient management | Education provision to increase enrolment
---- | --- | --- | --- | ---
-Educational leadership behaviour and change | Head Teachers/institutional heads confidently performing leadership roles | Every school/institution to be a Child/learner Friendly School | NECTA reformed to perform sector-wide standards-raising role | Heads and communities act in relation to each (potential) dropout
-Teachers' attitudes, skills, abilities and performance enhancement | Coordinated efforts to improve mindsets | 'Good teachers' identified for bonuses and promotion | Trainee teachers effectively mentored within schools/institutions | Mutual respect between teachers and learners at all levels
-Schools/colleges/ institutions upgraded management, organisation and functioning | Positive involvement of parents and community | Application of 'Whole School/institution' approach | Problems solved through application of initiative at all levels | Suitable provision for students with special educational needs
-Improved cost-effectiveness of outcome/outputs achievement | All schools and FEIs inspected at least twice or once respectively annually | Focus on decreasing 'unit costs per graduate with no lowering of standards | Information-driven sector-wide planning and M&E | Increased utilisation of open learning approaches
-Valuable consultative mechanisms, dialogue programmes and performance assessment machinery | Education Sector Think Tank operational | Tanzanian Education Society operational | Management committees and dialogue structure operational | Strategies designed and implemented for public- private partnerships
+All ESDP elements are essential thus no sub-sector will be marginalised. Nevertheless, some education sector developments will be regarded as particularly crucial over the coming 10 years as indicated in Table 1. All investment should be linked to at least one key result area and to one specific outcome cluster.
 
 Table 1: Some ESDP Priority Developments
 
-As  already  emphasised,  the cross-cutting  issues  of  gender,  disability,  HIV  and AIDS  and environmental protection will be reflected in targets and agreed indicators and will be dealt with in PMS and M&E.
+| | Capabilities And Values | Conducive teaching and learning environment | Micro-macro efficient management | Education provision to increase enrolment |
+|---|---|---|---|---|
+| Educational leadership behaviour and change | Head Teachers/institutional heads confidently performing leadership roles | Every school/institution to be a Child/learner Friendly School | NECTA reformed to perform sector-wide standards-raising role | Heads and communities act in relation to each (potential) dropout |
+| Teachers’ attitudes, skills, abilities and performance enhancement | Coordinated efforts to improve mindsets | ‘Good teachers’ identified for bonuses and promotion | Trainee teachers effectively mentored within schools/institutions | Mutual respect between teachers and learners at all levels |
+| Schools/colleges/institutions upgraded management, organisation and functioning | Positive involvement of parents and community | Application of ‘Whole School/institution’ approach | Problems solved through application of initiative at all levels | Suitable provision for students with special educational needs |
+| Improved cost-effectiveness of outcome/outputs achievement | All schools and FEIs inspected at least twice or once respectively annually | Focus on decreasing ‘unit costs per graduate with no lowering of standards | Information-driven sector-wide planning and M&E | Increased utilisation of open learning approaches |
+| Valuable consultative mechanisms, dialogue programmes and performance assessment machinery | Education Sector Think Tank operational | Tanzanian Education Society operational | Management committees and dialogue structure operational | Strategies designed and implemented for public-private partnerships |
+
+As already emphasised, the cross-cutting issues of gender, disability, HIV and AIDS and environmental protection will be reflected in targets and agreed indicators and will be dealt with in PMS and M&E.
 
 46
 
@@ -2217,7 +2312,7 @@ As  already  emphasised,  the cross-cutting  issues  of  gender,  disability,  H
 
 ## 6.16 Conclusion
 
-This  document  outlines  the Education  Sector  Development  Programme  for  the  coming decade.  Its  effective  implementation  depends  upon  the  enthusiastic  and  well-informed participation of educators, planners, decision-makers, managers, civil society, parents, local communities,  and  Development  Partners.  Its  immediate  impact  will  be  upon  those  who teach/facilitate  and  those  who  learn  and  practice.  Through  their  efforts,  the  longer-term economic, social and cultural consequences will be positive and profound.
+This document outlines the Education Sector Development Programme for the coming decade. Its effective implementation depends upon the enthusiastic and well-informed participation of educators, planners, decision-makers, managers, civil society, parents, local communities, and Development Partners. Its immediate impact will be upon those who teach/facilitate and those who learn and practice. Through their efforts, the longer-term economic, social and cultural consequences will be positive and profound.
 
 47
 
@@ -2231,47 +2326,47 @@ This  document  outlines  the Education  Sector  Development  Programme  for  th
 
  Tanzania Development Vision 2025 (URT, 1998);
 
- National Strategy for Growth and Reduction of Poverty (NSGRP) - MKUKUTA - which was adopted in 2001;
+ National Strategy for Growth and Reduction of Poverty (NSGRP) – MKUKUTA – which was adopted in 2001;
 
  Key sub-sectoral programmes such as PEDP (2002-2006) and SEDP (2004-2009) which were also launched after ESDP commenced;
 
  The institution/recommendations of:
 
-- o the Joint Assistance Strategy for Tanzania (JAST)
+o the Joint Assistance Strategy for Tanzania (JAST)
 
-- o the Public Expenditure Reviews
+o the Education Sector Reviews e.g. ESR of 2006
 
-- o the Education Sector Reviews e.g. ESR of 2006
+o the Public Expenditure Reviews
 
  The SADC Protocol on Education;
 
- The  changing  global  environment  reflected  in  international  conventions  e.g.  MDGs, EFA, WTO conventions especially those  related  to  cross  border  trade  in  services,  the International Convention of Rights of Peoples with Disabilities (ICRPD), other SADC protocols and EAC consultative processes mainly in areas of education standardisation;
+ The changing global environment reflected in international conventions e.g. MDGs, EFA, WTO conventions especially those related to cross border trade in services, the International Convention of Rights of Peoples with Disabilities (ICRPD), other SADC protocols and EAC consultative processes mainly in areas of education standardisation;
 
- The  changing  national  macro  and  micro  socio-economic  context  and  policy  terrain created by the implementation of:
+ The changing national macro and micro socio-economic context and policy terrain created by the implementation of:
 
-- o The Civil Service Reform Programme;
+o The Civil Service Reform Programme;
 
-- o The Financial Services Reform Programme; and
+o The Local Government Reform Programme;
 
-- o The Local Government Reform Programme;
+o The Financial Services Reform Programme; and
 
-- o The Privatisation programme;
+o The Privatisation programme;
 
  The ESR Aide Mémoire of 2006;
 
  Lessons learnt from implementation of:
 
-- o ESDP (1996/97-2001);
+o ESDP (1996/97–2001);
 
-- o PEDP I (2002-2006);
+o ESDP (2001–2006);
 
-- o ESDP (2001-2006);
+o PEDP I (2002–2006);
 
-- o SEDP (2004 -2009); and
+o SEDP (2004 -2009); and
 
-- o FEDP (2007-2011);
+o FEDP (2007-2011);
 
- The  Higher  Education,  Science  and  Technology  Sub-Master  Plans  (2003-2018),  the Education  Sector  Situation  Analysis  (2005)  and  the  emerging  sub-sectoral  education policies and strategic priorities.
+ The Higher Education, Science and Technology Sub-Master Plans (2003-2018), the Education Sector Situation Analysis (2005) and the emerging sub-sectoral education policies and strategic priorities.
 
 48
 
@@ -2279,16 +2374,16 @@ This  document  outlines  the Education  Sector  Development  Programme  for  th
 
 [[START OF PAGE 63]]
 
+# ANNEX B
+
 # ESDP EDUCATION SECTOR SWOT ANALYSIS
 
-OUTCOME AREA | SUB SECTOR | STRENGTHS | WEAKNESSES | OPPORTUNITIES | THREATS
---- | --- | --- | --- | --- | ---
-CAPABILITIES AND VALUES | PRE-PRIMARY EDUCATION |  High social demand  Increasing private provision  Day Care Centre Act |  Lack of National Strategy  Low gross enrolment rates |  Availability of Network of Teacher Training Colleges  Available spare capacity in available primary schools |  Limited capacity for cost sharing  Limited capacity for implementation at local government level
-PRIMARY EDUCATION |  High enrolment rates  Positive achievements of PEDP I related to financing, constructions, institutional arrangements  Pass rate improvement |  Low achievement/attainment  Over crowded classrooms  Weak child-friendly pedagogy  Inadequate non-salary expenditures  Lack of school feeding scheme strategy  Weak school instructional leadership  Weak quality consultative dialogue  Low teacher stock of knowledge  Weak parents - teacher associations (PTAs) |  Available capacity in teacher training colleges for professional backup  Available local government authorities/councils  On going LGR/PSRP  Available support by CBOs/NGOs |  Limited capacity for cost sharing  Limited capacity for school functioning  Perceived lack of relevance of curriculum/ examinations  Negative impact of HIV/AIDS
-SECONDARY EDUCATION |  Available network of teacher training institutions  Available network of distance learning capacity |  Low stock of diploma/graduate teachers' knowledge  Low stock of pupils/student capabilities skills |  Available network of teacher training institutions un utilised  Available capacity for mentoring at school |  Low readiness for secondary education of primary school graduates  Impact of HIV/AIDS
-HIGHER EDUCATION |  Available MSc/MA/PhD trained staff in growing network of Universities and Colleges  Institutional strategic plans for human resources development |  Low policy related research skills and professionalism |  Institutional Linkages for capacity building  Supportive liberalisation policy |  Limited mindset change  Negative impact of HIV/AIDS
-
-# ANNEX B
+| OUTCOME AREA | SUB SECTOR | STRENGTHS | WEAKNESSES | OPPORTUNITIES | THREATS |
+|---|---|---|---|---|---|
+| CAPABILITIES AND VALUES | PRE-PRIMARY EDUCATION |  High social demand  Increasing private provision  Day Care Centre Act |  Lack of National Strategy  Low gross enrolment rates |  Availability of Network of Teacher Training Colleges  Available spare capacity in available primary schools |  Limited capacity for cost sharing  Limited capacity for implementation at local government level |
+| | PRIMARY EDUCATION |  High enrolment rates  Positive achievements of PEDP I related to financing, constructions, institutional arrangements  Pass rate improvement |  Low achievement/attainment  Over crowded classrooms  Weak child-friendly pedagogy  Inadequate non-salary expenditures  Lack of school feeding scheme strategy  Weak school instructional leadership  Weak quality consultative dialogue  Low teacher stock of knowledge  Weak parents – teacher associations (PTAs) |  Available capacity in teacher training colleges for professional backup  Available local government authorities/councils  On going LGR/PSRP  Available support by CBOs/NGOs |  Limited capacity for cost sharing  Limited capacity for school functioning  Perceived lack of relevance of curriculum/examinations  Negative impact of HIV/AIDS |
+| | SECONDARY EDUCATION |  Available network of teacher training institutions  Available network of distance learning capacity |  Low stock of diploma/graduate teachers’ knowledge  Low stock of pupils/student capabilities skills |  Available network of teacher training institutions un utilised  Available capacity for mentoring at school |  Low readiness for secondary education of primary school graduates  Impact of HIV/AIDS |
+| | HIGHER EDUCATION |  Available MSc/MA/PhD trained staff in growing network of Universities and Colleges  Institutional strategic plans for human resources development |  Low policy related research skills and professionalism |  Institutional Linkages for capacity building  Supportive liberalisation policy |  Limited mindset change  Negative impact of HIV/AIDS |
 
 49
 
@@ -2296,11 +2391,11 @@ HIGHER EDUCATION |  Available MSc/MA/PhD trained staff in growing network of 
 
 [[START OF PAGE 64]]
 
-ADULT & NON- FORMAL |  Benefits of policies and strategies  High demand for adult and non-formal capacities |  Inadequate number of qualified trainers  Lack of integrated capacities development blue print |  CSOs/CBOs activities available  Large number of vulnerable youth available |  Lack of adequate sector-wide prioritisation and budgeting  Limited mindset alignment
---- | --- | --- | --- | --- | ---
-FOLK AND VOCATIONALEDUCAT ION |  Network of tutors under VETA  Available Folk Development Capacities Strategy  Availability of well articulated FEDP |  Inadequate number of qualified trainers  Lack of integrated capacities development blue print  Lack of skills development strategy |  CSOs/CBOs activities available  Community support prevalent  Large number of vulnerable youth and women available  Synergies with adult and non-formal education capacities development |  Lack of adequate sector-wide prioritisation and budgeting  Limited mindset alignment
-TECHNICAL EDUCATION |  Available BSc/BA MSc/MA/PhD trained staff in Colleges  |  Lack of Institutional strategic plans for human resources development  Unavailability of Network of Teacher Training Colleges  Availability of Programs in technical Institutions that are not demand driven  Low policy related research skills and professionalism |  Institutional Linkages for capacity building  Supportive liberalisation policy |  Limited mindset change  Negative impact of HIV/AIDS  Ageing profile of instructors
-CONDUCIVE ENVIRONMENT FOR LEARNING AND TECHING | PRE-PRIMARY EDUCATION |  Available non-state/private initiatives |  Lack of formal strategy for T&L material production distribution  Too few qualified teachers  Inadequate exposure to appropriate pedagogy |  Liberalisation policy in materials production  TIE available  TTC personnel available  Private Book- distribution network |  Un rationalised network of pre- primary schools
+| | ADULT & NON-FORMAL |  Benefits of policies and strategies  High demand for adult and non-formal capacities |  Inadequate number of qualified trainers  Lack of integrated capacities development blue print |  CSOs/CBOs activities available  Large number of vulnerable youth available |  Lack of adequate sector-wide prioritisation and budgeting  Limited mindset alignment |
+|---|---|---|---|---|---|
+| | FOLK AND VOCATIONALEDUCATION |  Network of tutors under VETA  Available Folk Development Capacities Strategy  Availability of well articulated FEDP |  Inadequate number of qualified trainers  Lack of integrated capacities development blue print  Lack of skills development strategy |  CSOs/CBOs activities available  Community support prevalent  Large number of vulnerable youth and women available  Synergies with adult and non-formal education capacities development |  Lack of adequate sector-wide prioritisation and budgeting  Limited mindset alignment |
+| | TECHNICAL EDUCATION |  Available BSc/BA MSc/MA/PhD trained staff in Colleges  |  Lack of Institutional strategic plans for human resources development  Unavailability of Network of Teacher Training Colleges  Availability of Programs in technical Institutions that are not demand driven  Low policy related research skills and professionalism |  Institutional Linkages for capacity building  Supportive liberalisation policy |  Limited mindset change  Negative impact of HIV/AIDS  Ageing profile of instructors |
+| CONDUCIVE ENVIRONMENT FOR LEARNING AND TECHING | PRE-PRIMARY EDUCATION |  Available non-state/private initiatives |  Lack of formal strategy for T&L material production distribution  Too few qualified teachers  Inadequate exposure to appropriate pedagogy |  Liberalisation policy in materials production  TIE available  TTC personnel available  Private Book-distribution network |  Un rationalised network of pre-primary schools |
 
 50
 
@@ -2308,11 +2403,11 @@ CONDUCIVE ENVIRONMENT FOR LEARNING AND TECHING | PRE-PRIMARY EDUCATION |  Ava
 
 [[START OF PAGE 65]]
 
-PRIMARY EDUCATION |  Positive PEDP (I)  Positive LGRP achievements  Available whole school Development Plan and budget |  Inadequate leadership for school functioning  Inadequate school libraries support  Lack of school feeding strategy  Low B.P.R.  High P.T.R  Lack of learner friendly pedagogy |  Teacher Resource Centres linked to TTCs and Primary Schools  Familiar language (Kiswahili) being language of learning and teaching in public schools  Private Bookshop/ Teaching Learning Materials network |  Lack of sustained increase in real pay for teachers  General lack of other teachers' incentives  Low in service capacity
---- | --- | --- | --- | ---
-SECONDARY EDUCATION |  Available teachers and learning materials in the market  Available stock of teachers who can be trained |  General lack of teaching learning material in schools  General lack of or unstudied libraries and science laboratories  Lack of learner friendly pedagogy  Lack or poor mastery of language of instruction |  SEDP (2005-2009) available reforms on equity quality and management  Available stock of graduate teacher trainable to manage functioning schools  Private teaching learning materials network |  Lack of sustained increase in real pay of teachers  General lack of other teachers incentives  Lack of teacher professional development strategy
-HIGHER EDUCATION |  Relatively well-stocked libraries  Available human resources development strategies  Strategies for improving learner friendly pedagogy available  ICT equipment and personnel available  Capacity for improving learning and teaching competencies available |  Lack of reading culture  Inadequately stocked bookshops  Overcrowded teaching space  Inadequate research equipment  Lack of or poor mastery of language of instruction  Lack of learner friendly pedagogy |  Unexploited capacity for improving learning and teaching competencies  Under-utilised capacity in teaching space |  Lack of sustained increase in real pay of staff  General lack of other teachers' incentives
-ADULT AND NON FORMAL EDUCATION |  Teaching and Learning materials available in the market |  Weak linkage with MKUKUTA goals  Weak linkage with Folk and Vocational Training Strategies  Weak linkage with OUT |  Tanzania Institute of Adult Education available to provide professional backup  Available ICT network |  Limited mindset change  Lack of sector-wide prioritisation and budgeting
+| | PRIMARY EDUCATION |  Positive PEDP (I)  Positive LGRP achievements  Available whole school Development Plan and budget |  Inadequate leadership for school functioning  Inadequate school libraries support  Lack of school feeding strategy  Low B.P.R.  High P.T.R  Lack of learner friendly pedagogy |  Teacher Resource Centres linked to TTCs and Primary Schools  Familiar language (Kiswahili) being language of learning and teaching in public schools  Private Bookshop/Teaching Learning Materials network |  Lack of sustained increase in real pay for teachers  General lack of other teachers’ incentives  Low in service capacity |
+|---|---|---|---|---|---|
+| | SECONDARY EDUCATION |  Available teachers and learning materials in the market  Available stock of teachers who can be trained |  General lack of teaching learning material in schools  General lack of or unstudied libraries and science laboratories  Lack of learner friendly pedagogy  Lack or poor mastery of language of instruction |  SEDP (2005-2009) available reforms on equity quality and management  Available stock of graduate teacher trainable to manage functioning schools  Private teaching learning materials network |  Lack of sustained increase in real pay of teachers  General lack of other teachers incentives  Lack of teacher professional development strategy |
+| | HIGHER EDUCATION |  Relatively well-stocked libraries  Available human resources development strategies  Strategies for improving learner friendly pedagogy available  ICT equipment and personnel available  Capacity for improving learning and teaching competencies available |  Lack of reading culture  Inadequately stocked bookshops  Overcrowded teaching space  Inadequate research equipment  Lack of or poor mastery of language of instruction  Lack of learner friendly pedagogy |  Unexploited capacity for improving learning and teaching competencies  Under-utilised capacity in teaching space |  Lack of sustained increase in real pay of staff  General lack of other teachers’ incentives |
+| | ADULT AND NON FORMAL EDUCATION |  Teaching and Learning materials available in the market |  Weak linkage with MKUKUTA goals  Weak linkage with Folk and Vocational Training Strategies  Weak linkage with OUT |  Tanzania Institute of Adult Education available to provide professional backup  Available ICT network |  Limited mindset change  Lack of sector-wide prioritisation and budgeting |
 
 51
 
@@ -2320,11 +2415,11 @@ ADULT AND NON FORMAL EDUCATION |  Teaching and Learning materials available i
 
 [[START OF PAGE 66]]
 
-TECHNICAL EDUCATION |  Relatively well-stocked libraries  Capacity for improving learning and teaching competencies available |  Lack of reading culture  Lack of human resources development strategies in non autonomous institutions  Inadequately stocked bookshops  Lack of ICT equipment and personnel  Inadequate and outdated teaching and research equipment  Lack of or poor mastery of language of instruction  Lack of learner friendly pedagogy  Weak linkage with MKUKUTA goals  Weak linkage with Folk and Vocational Training Strategies |  Unexploited capacity for improving learning and teaching competencies  Under-utilised capacity in teaching space |  Lack of sustained increase in real pay of staff  General lack of teachers' incentives  Limited mindset change  Lack of sector-wide prioritisation and budgeting
---- | --- | --- | --- | --- | ---
-FOLK AND VOCATIONAL EDUCATION |  VETA prepared teaching and learning materials available  FEDP programme available |  Inadequate linkage between Folk and Vocational Training Education  Inadequate/Weak linkage with Adult and Non formal Education strategies |  Unexploited synergies between folk and vocational training education learning and teaching material production strategies | 
-IMPROVING PROVISION | PRIMARY EDUCATION |  Positive PEDP (I) achievements in construction programmes  Gender parity in provision achieved |  Persistently high pupil per class room Ratios  Regional/district imbalances persisting in provision  Inadequate teachers' houses, libraries and municipal facilities |  PEDP (II) reform |  Unpredictability in sustainable funding
-SECONDARY |  Available public and private school network |  Dilapidated infrastructure especially in public schools  Inadequate teachers houses  Unavailability of libraries and science laboratories in newly built schools  |  SEDP (2005-2009) reforms  Government prioritisation |  Unsustainable expansion  Un-planned political interference
+| | TECHNICAL EDUCATION |  Relatively well-stocked libraries  Capacity for improving learning and teaching competencies available |  Lack of reading culture  Lack of human resources development strategies in non autonomous institutions  Inadequately stocked bookshops  Lack of ICT equipment and personnel  Inadequate and outdated teaching and research equipment  Lack of or poor mastery of language of instruction  Lack of learner friendly pedagogy  Weak linkage with MKUKUTA goals  Weak linkage with Folk and Vocational Training Strategies |  Unexploited capacity for improving learning and teaching competencies  Under-utilised capacity in teaching space |  Lack of sustained increase in real pay of staff  General lack of teachers’ incentives  Limited mindset change  Lack of sector-wide prioritisation and budgeting |
+|---|---|---|---|---|---|
+| | FOLK AND VOCATIONAL EDUCATION |  VETA prepared teaching and learning materials available  FEDP programme available |  Inadequate linkage between Folk and Vocational Training Education  Inadequate/Weak linkage with Adult and Non formal Education strategies |  Unexploited synergies between folk and vocational training education learning and teaching material production strategies |  |
+| IMPROVING PROVISION | PRIMARY EDUCATION |  Positive PEDP (I) achievements in construction programmes  Gender parity in provision achieved |  Persistently high pupil per class room Ratios  Regional/district imbalances persisting in provision  Inadequate teachers’ houses, libraries and municipal facilities |  PEDP (II) reform |  Unpredictability in sustainable funding |
+| | SECONDARY |  Available public and private school network |  Dilapidated infrastructure especially in public schools  Inadequate teachers houses  Unavailability of libraries and science laboratories in newly built schools  |  SEDP (2005-2009) reforms  Government prioritisation |  Unsustainable expansion  Un-planned political interference |
 
 52
 
@@ -2332,11 +2427,11 @@ SECONDARY |  Available public and private school network |  Dilapidated in
 
 [[START OF PAGE 67]]
 
-HIGHER EDUCATION |  Expanding network of higher institutions  Tertiary institutions  Quality Assurance/Accreditation system in place  Expanding network of in fracture of libraries and laboratories  Expansion in ICT network |  Un rationalised system  Inadequate student welfare support system  Deteriorating in fracture e.g. municipal facilities and teaching space |  High demand for higher education  Higher education policy available  Emerging cross - boarder provision and trade in services |  Un reliable strategies for broadening social base of enrolment  Competition from cross - boarder providers
---- | --- | --- | --- | ---
-ADULT & NON- FORMAL |  Institute of Adult Education structure available  Policy and implementation support structures available |  Lack of coordinated learner support structures at district and regional levels |  Draft adult and non- formal education strategy available  DP support available if strategy linked to MKUKUTA | Reluctance to exploit synergies with folk and vocation training strategies
-FOLK AND VOCATIONAL |  Network of facilities e.g. FTCs/FDCs available  Workshops for practical aspects available |  Synergies in use of infrastructure not adequately exploited |  Policy and Draft Strategy available |  Persistence in constraining and Discouraging Institutional Factors  Persistence in slow adoption of low skills promotion policy
-TECHNICAL EDUCATION |  Expanding network of higher and tertiary institutions  Tertiary institutions  Quality Assurance/Accreditation system in place  |  Un rationalised system  Inadequate student welfare support system  Deteriorating in fracture e.g. teaching facilities and space  Limited infrastructure of libraries and laboratories  |  High demand for tertiary education  Increasing output from secondary education.  Technical education policy available  Emerging cross - boarder provision and trade in services |  Lack of political will and support  Lack of national strategy for broadening social base of enrolment  Competition from cross - boarder providers  Critical under funding  Lack of community support  High costs of equipment and
+| | HIGHER EDUCATION |  Expanding network of higher institutions  Tertiary institutions  Quality Assurance/Accreditation system in place  Expanding network of in fracture of libraries and laboratories  Expansion in ICT network |  Un rationalised system  Inadequate student welfare support system  Deteriorating in fracture e.g. municipal facilities and teaching space |  High demand for higher education  Higher education policy available  Emerging cross – boarder provision and trade in services |  Un reliable strategies for broadening social base of enrolment  Competition from cross – boarder providers |
+|---|---|---|---|---|---|
+| | ADULT & NON-FORMAL |  Institute of Adult Education structure available  Policy and implementation support structures available |  Lack of coordinated learner support structures at district and regional levels |  Draft adult and non-formal education strategy available  DP support available if strategy linked to MKUKUTA | Reluctance to exploit synergies with folk and vocation training strategies |
+| | FOLK AND VOCATIONAL |  Network of facilities e.g. FTCs/FDCs available  Workshops for practical aspects available |  Synergies in use of infrastructure not adequately exploited |  Policy and Draft Strategy available |  Persistence in constraining and Discouraging Institutional Factors  Persistence in slow adoption of low skills promotion policy |
+| | TECHNICAL EDUCATION |  Expanding network of higher and tertiary institutions  Tertiary institutions  Quality Assurance/Accreditation system in place  |  Un rationalised system  Inadequate student welfare support system  Deteriorating in fracture e.g. teaching facilities and space  Limited infrastructure of libraries and laboratories  |  High demand for tertiary education  Increasing output from secondary education.  Technical education policy available  Emerging cross – boarder provision and trade in services |  Lack of political will and support  Lack of national strategy for broadening social base of enrolment  Competition from cross – boarder providers  Critical under funding  Lack of community support  High costs of equipment and |
 
 53
 
@@ -2344,12 +2439,14 @@ TECHNICAL EDUCATION |  Expanding network of higher and tertiary institutions 
 
 [[START OF PAGE 68]]
 
-infrastructure .  Lack of private investment and support
---- | --- | --- | --- | --- | ---
-MACRO-/MICRO- MANAGEMENT AND GOVERNANCE | PRE-PRIMARY EDUCATION |  Private sector modelled management styles adopted in non-state sector |  Low management capacity  Low budgeting prioritisation  Lack of quality assurance measures  Lack of performance management framework work (PMF) |  Un exploited leadership in TTCs/LGAs/NGOs  Early child hood Education and Care (ECEC) policy available | 
-PRIMARY EDUCATION |  Positive results of PEDP (I) management reforms  School committee in place  School Inspectorate system in place  ADEM professional backup available  Skeleton management structure in place |  Lack of Instructional leadership  Low teacher supervision  Ineffective whole school development plan  Lack of EMIS  Lack of clear and effective management appraisal system at school  Lack of Clients' Charter |  NECTA and inspectorate System if reformed  Learning from functioning non-state schools  Alternative PMS in LGR, PSR, MKUKUTA, DPS |  Limited mindset change  Lack of adequate management systems to address effects of HIV/AIDS
-SECONDARY EDUCATION |  School boards in place  Inspectorate system in place  ADEM professional backup  Skeleton management structure in place  Human capital available |  Lack effective decentralisation of functions and decision making  Lack of instructional leadership skills  Lack conceptualisation skills  dysfunctional schools  Weak Strategic Budgeting (SBAS) |  NECTA and Inspectorate system if re-formal  Learning form functioning non-state schools  Human capital if utilised  MOF-SBAS |  Lack of transparency and accountability  Chronic under- funding  Persistence in lack of promotion of role models
-HIGHER EDUCATION |  Management structures in place  Higher education accreditation institution in place  Human capital available  Growing network of EMIS |  Poor central coordination of decentralised management systems  Ineffective management of cost sharing system initiatives  Lack of institutionalised Performance Management System (PMS)  Lack of Client Charter |  Quality Assurance System in place  National policies and strategies in place  Human capital if utilised |  Persistence of chronic under funding  Poor transparency and accountability  Persistence in lack of promotion of role models
+infrastructure.
+ Lack of private investment and support
+
+| MACRO-/MICRO-MANAGEMENT AND GOVERNANCE | PRE-PRIMARY EDUCATION |  Private sector modelled management styles adopted in non-state sector |  Low management capacity  Low budgeting prioritisation  Lack of quality assurance measures  Lack of performance management framework work (PMF) |  Un exploited leadership in TTCs/LGAs/NGOs  Early child hood Education and Care (ECEC) policy available |  |
+|---|---|---|---|---|---|
+| | PRIMARY EDUCATION |  Positive results of PEDP (I) management reforms  School committee in place  School Inspectorate system in place  ADEM professional backup available  Skeleton management structure in place |  Lack of Instructional leadership  Low teacher supervision  Ineffective whole school development plan  Lack of EMIS  Lack of clear and effective management appraisal system at school  Lack of Clients’ Charter |  NECTA and inspectorate System if reformed  Learning from functioning non-state schools  Alternative PMS in LGR, PSR, MKUKUTA, DPS |  Limited mindset change  Lack of adequate management systems to address effects of HIV/AIDS |
+| | SECONDARY EDUCATION |  School boards in place  Inspectorate system in place  ADEM professional backup  Skeleton management structure in place  Human capital available |  Lack effective decentralisation of functions and decision making  Lack of instructional leadership skills  Lack conceptualisation skills  dysfunctional schools  Weak Strategic Budgeting (SBAS) |  NECTA and Inspectorate system if re-formal  Learning form functioning non-state schools  Human capital if utilised  MOF-SBAS |  Lack of transparency and accountability  Chronic under-funding  Persistence in lack of promotion of role models |
+| | HIGHER EDUCATION |  Management structures in place  Higher education accreditation institution in place  Human capital available  Growing network of EMIS |  Poor central coordination of decentralised management systems  Ineffective management of cost sharing system initiatives  Lack of institutionalised Performance Management System (PMS)  Lack of Client Charter |  Quality Assurance System in place  National policies and strategies in place  Human capital if utilised |  Persistence of chronic under funding  Poor transparency and accountability  Persistence in lack of promotion of role models |
 
 54
 
@@ -2357,10 +2454,10 @@ HIGHER EDUCATION |  Management structures in place  Higher education accre
 
 [[START OF PAGE 69]]
 
-ADULT AND NON FORMAL EDUCATION |  Adult Education management Structure in place  Human capital available |  Low rationalisation  Weak EMIS  Weak SBAS |  Persistence of under-funding
---- | --- | --- | --- | ---
-FOLK AND VOCATIONAL EDUCATION |  FTC/FDC and VETA Management Structure in place  FDC boards managed by respective councils supportive  Human capital available |  Weak EMIS  Weak SBAS  Weak cost sharing in FDCs |  Draft of national strategies in place  NGOs, CBOs and FBOs support if exploited  Community Development leadership role available fro FDCs |  Persistence of under-funding
-TECHNICAL EDUCATION |  Technical education accreditation institution in place  Human capital available |  Low budgeting prioritisation  Lack of management structures  Ineffective management of cost sharing system initiatives  Lack of institutionalised Performance Management System (PMS)  Lack of Client Charter  Lack of EMIS |  Quality Assurance System in place  National policies in place  Human capital if utilised  Lack of national strategies |  Persistence of chronic Critical under funding  Poor transparency and accountability  Persistence in lack of promotion of role models  Limited mindset change  Lack of adequate management systems to address effects of HIV/AIDS
+| | ADULT AND NON FORMAL EDUCATION |  Adult Education management Structure in place  Human capital available |  Low rationalisation  Weak EMIS  Weak SBAS | |  Persistence of under-funding |
+|---|---|---|---|---|---|
+| | FOLK AND VOCATIONAL EDUCATION |  FTC/FDC and VETA Management Structure in place  FDC boards managed by respective councils supportive  Human capital available |  Weak EMIS  Weak SBAS  Weak cost sharing in FDCs |  Draft of national strategies in place  NGOs, CBOs and FBOs support if exploited  Community Development leadership role available fro FDCs |  Persistence of under-funding |
+| | TECHNICAL EDUCATION |  Technical education accreditation institution in place  Human capital available |  Low budgeting prioritisation  Lack of management structures  Ineffective management of cost sharing system initiatives  Lack of institutionalised Performance Management System (PMS)  Lack of Client Charter  Lack of EMIS |  Quality Assurance System in place  National policies in place  Human capital if utilised  Lack of national strategies |  Persistence of chronic Critical under funding  Poor transparency and accountability  Persistence in lack of promotion of role models  Limited mindset change  Lack of adequate management systems to address effects of HIV/AIDS |
 
 55
 
@@ -2368,15 +2465,15 @@ TECHNICAL EDUCATION |  Technical education accreditation institution in place
 
 [[START OF PAGE 70]]
 
+# ANNEX C
+
 # KEY RESULT AREAS AND SOME POSSIBLE INDICATORS
 
-Objectives ( Key Result Area) | Scope of Indicators | Examples of Possible Indicators
---- | --- | ---
-1. Education Leadership Behaviour  care for presiding over functioning schools/institutions  are honest and ethical  follow rules and regulations and display professionalism in approach to work  value and display instructional leadership at all levels |  data on ethical complaints elicited and collated by clients and passed on to PCB, Human Rights Commission, Teachers' Service Commission, Inspectorate, relevant educational authorities, school/committee/board  evidence of unethical actions (based upon responses by authorities to complaints: number of teachers reprimanded and demoted officials)  educational delivery surveys, getting parents/students perceptions on education performance: corruption, honesty, work ethics, teacher absenteeism  teacher surveys: teachers' perceptions on discipline within education, corruption, service delivery, performance of leaders, quality/ adequacy of inputs, provision of effective incentives. | At least 80% of parents/community members interviewed respond positively to questions regarding school conditions and Head Teacher's and teachers' commitment and performance, in all Regions from 2012 onwards
-2. Capabilities and Skills of Teachers/tutors/ learners  best available talents recruited and retained  leadership/teachers' skills continuously developed to reflect current and emerging challenges  learners' achievement and attainment levels improved |  data on average qualifications and experience elicited and collated  Education provision and delivery survey to get clients' perception on education leaders/teachers' knowledge and skills  Impact studies on the use of knowledge provided during learning/training  comparative/international monitoring of educational achievements information e.g. SACMEQ, International Testing Services | Significant improvement in school attendance and phase completion (Standard 7; Form IV) in all schools from 2012 onwards
-3. Institutional/school Processes and Incentives  conducive teaching and learning |  data on ratios of resources availability (e.g. TPR, PBR, CPR).  data on salary levels and distribution | At least 80% of primary teachers inspected in Tabora Region from 2012 onwards demonstrate at least three
-
-# ANNEX C
+| Objectives ( Key Result Area) | Scope of Indicators | Examples of Possible Indicators |
+|---|---|---|
+| 1. Education Leadership Behaviour  care for presiding over functioning schools/institutions  are honest and ethical  follow rules and regulations and display professionalism in approach to work  value and display instructional leadership at all levels |  data on ethical complaints elicited and collated by clients and passed on to PCB, Human Rights Commission, Teachers’ Service Commission, Inspectorate, relevant educational authorities, school/committee/board  evidence of unethical actions (based upon responses by authorities to complaints: number of teachers reprimanded and demoted officials)  educational delivery surveys, getting parents/students perceptions on education performance: corruption, honesty, work ethics, teacher absenteeism  teacher surveys: teachers’ perceptions on discipline within education, corruption, service delivery, performance of leaders, quality/ adequacy of inputs, provision of effective incentives. | At least 80% of parents/community members interviewed respond positively to questions regarding school conditions and Head Teacher’s and teachers’ commitment and performance, in all Regions from 2012 onwards |
+| 2. Capabilities and Skills of Teachers/tutors/learners  best available talents recruited and retained  leadership/teachers’ skills continuously developed to reflect current and emerging challenges  learners’ achievement and attainment levels improved |  data on average qualifications and experience elicited and collated  Education provision and delivery survey to get clients’ perception on education leaders/teachers’ knowledge and skills  Impact studies on the use of knowledge provided during learning/training  comparative/international monitoring of educational achievements information e.g. SACMEQ, International Testing Services | Significant improvement in school attendance and phase completion (Standard 7; Form IV) in all schools from 2012 onwards |
+| 3. Institutional/school Processes and Incentives  conducive teaching and learning |  data on ratios of resources availability (e.g. TPR, PBR, CPR).  data on salary levels and distribution | At least 80% of primary teachers inspected in Tabora Region from 2012 onwards demonstrate at least three |
 
 56
 
@@ -2384,11 +2481,11 @@ Objectives ( Key Result Area) | Scope of Indicators | Examples of Possible Indic
 
 [[START OF PAGE 71]]
 
-Objectives ( Key Result Area) | Scope of Indicators | Examples of Possible Indicators
---- | --- | ---
-environment improved, improved teacher motivation, learner friendly pedagogy adopted, improved teacher incentives, improved gender friendly environment, improved disability friendly environment, teachers are appraised, rewarded and sanctioned based on merit and performance, teachers/students' are appraised and counselled. |  data on gender profile  data on disability  job/posts advertised in mass media  level of use of OPRA in education  Management/school performance contract coverage  Education/school surveys involving teachers, learners/community perceptions. | effective teaching methodologies during their lessons Effective practical training during practical sessions
-4. Cost Effectiveness and Cost Efficiency  Focus on core education functions and inputs, institutions/schools/ departments run economically and provide good value for money, institutions/schools/departments are driven by principles of rationality and maximisation |  Data on increase internal efficiency (drop out rates, transition rates, repetition rates, capacity utilisation rates etc.)  Data on savings or increased revenue generation resulting from restructuring institutional functioning  Results of Controller and Auditor General Audits  Education delivery studies focusing on wastage and financial tracking  Results of education public expenditure reviews | Variable unit cost per graduate at ABCDE falls from TShs. 5,200,000 in 2007 to below TShs. 4,600,000 in 2012 and to below TShs. 3,800,000 in 2017 - with no diminution in degree standards
-5. Consultative Dialogue Machinery and Performance  citizens are informed and consulted on education  learners and teachers/tutors are treated fairly and according to needs  institutions are accountable to citizens |  data on frequency of meetings of participatory organs, review reports by stakeholders/ beneficiaries  evaluation of whether client's education charter conditions are being complied with  citizen awareness, responsiveness and willingness to take action on client's charter. | Education Client Charters operational nationwide, understood by communities, and being complied with from 2012 onwards
+| Objectives ( Key Result Area) | Scope of Indicators | Examples of Possible Indicators |
+|---|---|---|
+| environment improved, improved teacher motivation, learner friendly pedagogy adopted, improved teacher incentives, improved gender friendly environment, improved disability friendly environment, teachers are appraised, rewarded and sanctioned based on merit and performance, teachers/students’ are appraised and counselled. |  data on gender profile  data on disability  job/posts advertised in mass media  level of use of OPRA in education  Management/school performance contract coverage  Education/school surveys involving teachers, learners/community perceptions. | effective teaching methodologies during their lessons Effective practical training during practical sessions |
+| 4. Cost Effectiveness and Cost Efficiency  Focus on core education functions and inputs, institutions/schools/departments run economically and provide good value for money, institutions/schools/departments are driven by principles of rationality and maximisation |  Data on increase internal efficiency (drop out rates, transition rates, repetition rates, capacity utilisation rates etc.)  Data on savings or increased revenue generation resulting from restructuring institutional functioning  Results of Controller and Auditor General Audits  Education delivery studies focusing on wastage and financial tracking  Results of education public expenditure reviews | Variable unit cost per graduate at ABCDE falls from TShs. 5,200,000 in 2007 to below TShs. 4,600,000 in 2012 and to below TShs. 3,800,000 in 2017 – with no diminution in degree standards |
+| 5. Consultative Dialogue Machinery and Performance  citizens are informed and consulted on education  learners and teachers/tutors are treated fairly and according to needs  institutions are accountable to citizens |  data on frequency of meetings of participatory organs, review reports by stakeholders/ beneficiaries  evaluation of whether client’s education charter conditions are being complied with  citizen awareness, responsiveness and willingness to take action on client’s charter. | Education Client Charters operational nationwide, understood by communities, and being complied with from 2012 onwards |
 
 57
 
@@ -2400,14 +2497,14 @@ environment improved, improved teacher motivation, learner friendly pedagogy ado
 
 # ESDP Policy objectives, Current Status, Proposed Targets
 
-Current Status | Proposed Target | Proposed Actions
---- | --- | --- | ---
-Policy objective IMPROVING CAPABILITIES SKILLS, VALUES | Pre-Primary  Low enrolment rates  Lack of human capabilities and assets  Lack of formalized relevant curriculum for pre primary teacher training  Lack of capabilities in EMIS |  Increased enrolment rate to about 50% by 2015  Introduce pre-primary teacher training programmes in teacher training colleges starting 2009 |  Introduce pre-primary admission in all primary schools  Introduce pre-primary education teacher curriculum programmes in selected teacher training colleges  Design and integrate pre-primary EMIS into sector - wide EMIS
-Primary  Low achievement/attainment among teachers  Low stock of knowledge among teachers  |  Increased achievement/attainment level to comparable regional/world standards  Implement teachers' professional development strategy by 2009  Evaluated curriculum in place by 2010 |  NECTA and School Inspectorate to design and implement achievement/attainment monitoring scheme/instruments  TIE to evaluate curriculum  Teacher Training Colleges to implement teacher development strategy
-Secondary  Low stock of knowledge by diploma/degree graduate teachers  Low learner attainment/achievement |  Design and implement teacher professional development strategy by 2009  Increased learner attainment/achievement levels to comparable regional/world standards |  University/College to design and implement teacher professional development strategy  NECTA and School Inspectorate to design and implement attainment/achievement monitoring scheme/instruments
-Higher Education  Low policy research skills and professionalism  Low MSc/MA/PhD. enrolment  High attrition rates of academic staff  Low sabbatical/industrial attachments of staff and students |  Improved policy research skills and professionalism  Increase MSc/MA/PhD. enrolment  Reduced attrition rates of academic staff  Increased sabbatical/industrial attachments of staff and students |  Universities/institutions to design strategy for improving policy research skills and professionalism  Universities/institution to design and implement strategy for increasing MSc./MA/Ph.D. enrolment  Universities/institutions to raise retirement age for academic staff and design and implement strategies for staff training   Design strategies for reductive attrition resulting from HIV/AIDS
-Adult and Non-formal  Low linkage with poverty reduction demand and micro enterprise skills |  Improved linkage with poverty reduction demand and micro- enterprise skills |  Evaluate and reform present programmes  Train and hire teachers with relevant stock of knowledge and skills
-Folk, Technical and Vocational  Law of skills progression to higher levels of learning  Inadequate skills and knowledge among tutors  Inadequate skills and |  Harmonized with higher levels of learning  Improved skills and knowledge among tutors  Improved relevance of skills and knowledge offered in rural areas especially to women/girls |  Design and implement harmonized scheme  Design and implement strategy for improving tutor's skills and knowledge  Design and implement strategy for improving relevance of skills and
+| Policy objective | Current Status | Proposed Target | Proposed Actions |
+|---|---|---|---|
+| IMPROVING CAPABILITIES SKILLS, VALUES | Pre-Primary  Low enrolment rates  Lack of human capabilities and assets  Lack of formalized relevant curriculum for pre primary teacher training  Lack of capabilities in EMIS |  Increased enrolment rate to about 50% by 2015  Introduce pre-primary teacher training programmes in teacher training colleges starting 2009 |  Introduce pre-primary admission in all primary schools  Introduce pre-primary education teacher curriculum programmes in selected teacher training colleges  Design and integrate pre-primary EMIS into sector – wide EMIS |
+| | Primary  Low achievement/attainment among teachers  Low stock of knowledge among teachers  |  Increased achievement/attainment level to comparable regional/world standards  Implement teachers’ professional development strategy by 2009  Evaluated curriculum in place by 2010 |  NECTA and School Inspectorate to design and implement achievement/attainment monitoring scheme/instruments  TIE to evaluate curriculum  Teacher Training Colleges to implement teacher development strategy |
+| | Secondary  Low stock of knowledge by diploma/degree graduate teachers  Low learner attainment/achievement |  Design and implement teacher professional development strategy by 2009  Increased learner attainment/achievement levels to comparable regional/world standards |  University/College to design and implement teacher professional development strategy  NECTA and School Inspectorate to design and implement attainment/achievement monitoring scheme/instruments |
+| | Higher Education  Low policy research skills and professionalism  Low MSc/MA/PhD. enrolment  High attrition rates of academic staff  Low sabbatical/industrial attachments of staff and students |  Improved policy research skills and professionalism  Increase MSc/MA/PhD. enrolment  Reduced attrition rates of academic staff  Increased sabbatical/industrial attachments of staff and students |  Universities/institutions to design strategy for improving policy research skills and professionalism  Universities/institution to design and implement strategy for increasing MSc./MA/Ph.D. enrolment  Universities/institutions to raise retirement age for academic staff and design and implement strategies for staff training   Design strategies for reductive attrition resulting from HIV/AIDS |
+| | Adult and Non-formal  Low linkage with poverty reduction demand and micro enterprise skills |  Improved linkage with poverty reduction demand and micro-enterprise skills |  Evaluate and reform present programmes  Train and hire teachers with relevant stock of knowledge and skills |
+| | Folk, Technical and Vocational  Law of skills progression to higher levels of learning  Inadequate skills and knowledge among tutors  Inadequate skills and |  Harmonized with higher levels of learning  Improved skills and knowledge among tutors  Improved relevance of skills and knowledge offered in rural areas especially to women/girls |  Design and implement harmonized scheme  Design and implement strategy for improving tutor’s skills and knowledge  Design and implement strategy for improving relevance of skills and |
 
 58
 
@@ -2415,13 +2512,13 @@ Folk, Technical and Vocational  Law of skills progression to higher levels of
 
 [[START OF PAGE 73]]
 
-Policy objective | Current Status | Proposed Target | Proposed Actions
---- | --- | --- | ---
-knowledge relevant to poverty alleviation in rural areas especially for women | knowledge offered in rural areas especially to women/girls
-IMPROVING CONDUCIVE TEACHING AND LEARNING ENVIORNMENT | Pre-Primary  Inadequate number of qualified teachers  Inadequate exposure to appropriate pedagogy  Inadequate teaching and Learning materials |  Increased number of qualified teachers  Increased exposure to appropriate pedagogy  Increased production and distribution of teaching and learning materials |  Teacher training colleges to design and implement strategy for preparation of adequate numbers of pre-primary schools teachers  Teacher Training Colleges/School Inspectorate to design and implement strategy for continuing in-service teacher professional development for pre-primary school teachers  Promote increased production of teaching and learning material
-Primary  Inadequate leadership skills for school functioning  Low pay and inadequate incentives for teachers  Inadequate teaching and learning materials  Prevalence of non-interactive and non-participatory pedagogy |  Increased leadership skills for school functioning  Increased pay and improved incentives for teachers  Increased Book to Pupil Ratio (BPR)  Increased adoption of interactive and participatory pedagogy |  Design and implement strategy for increasing leadership skills for school functioning among school heads  Implement phased pay and incentives improvement in the context of public service pay reform package beginning from 2008/2009  Exempt from import duty raw materials for production of teaching and learning materials  Initiate and promote teacher instructional leadership at school level and teacher professional development using teacher training Colleges as back-up
-Secondary  Inadequate teaching and learning materials  Poor mastery of language of learning and teaching  Prevalence of non-interactive and non participatory pedagogy  Un-stocked libraries and laboratories  Non-learner friendly pedagogy/environment |  Improved availability of learning and teaching materials  Adoption of appropriate teaching of teaching and learning  Adoption of strategies for exposing teachers to interactive and participatory pedagogy  Adequately stocked libraries and laboratories  Adoption of strategies for promoting learner - friendly pedagogy/environment |  Promote production and distribution of learning and teaching material  Initiate and implement strategy for adoption of appropriate language of learning and teaching  Initiate and implement strategies for exposing teachers to interactive and participatory pedagogy  Increase funding for stocking libraries and laboratories  Promote learner - friendly pedagogy and environment in schools and let teachers appreciate this; 
-Higher Education  Over-crowded teaching space  General lack of teacher incentives  Inadequate books and other teaching and learning materials  Poor mastery of language of teaching and learning |  Improved teaching space  Improved teaching incentives  Increased availability of books and other teaching and learning materials  Improved mastery of language of teaching and learning  Improved process of interactive | Provide funding for teaching space expansion  Implement pay and teacher incentive reform  Prioritize funding for provision of books and other teaching and learning materials  Implement language skills development programmes
+| Policy objective | Current Status | Proposed Target | Proposed Actions |
+|---|---|---|---|
+| | knowledge relevant to poverty alleviation in rural areas especially for women | | knowledge offered in rural areas especially to women/girls |
+| IMPROVING CONDUCIVE TEACHING AND LEARNING ENVIORNMENT | Pre-Primary  Inadequate number of qualified teachers  Inadequate exposure to appropriate pedagogy  Inadequate teaching and Learning materials |  Increased number of qualified teachers  Increased exposure to appropriate pedagogy  Increased production and distribution of teaching and learning materials |  Teacher training colleges to design and implement strategy for preparation of adequate numbers of pre-primary schools teachers  Teacher Training Colleges/School Inspectorate to design and implement strategy for continuing in-service teacher professional development for pre-primary school teachers  Promote increased production of teaching and learning material |
+| | Primary  Inadequate leadership skills for school functioning  Low pay and inadequate incentives for teachers  Inadequate teaching and learning materials  Prevalence of non-interactive and non-participatory pedagogy |  Increased leadership skills for school functioning  Increased pay and improved incentives for teachers  Increased Book to Pupil Ratio (BPR)  Increased adoption of interactive and participatory pedagogy |  Design and implement strategy for increasing leadership skills for school functioning among school heads  Implement phased pay and incentives improvement in the context of public service pay reform package beginning from 2008/2009  Exempt from import duty raw materials for production of teaching and learning materials  Initiate and promote teacher instructional leadership at school level and teacher professional development using teacher training Colleges as back-up |
+| | Secondary  Inadequate teaching and learning materials  Poor mastery of language of learning and teaching  Prevalence of non-interactive and non participatory pedagogy  Un-stocked libraries and laboratories  Non-learner friendly pedagogy/environment |  Improved availability of learning and teaching materials  Adoption of appropriate teaching of teaching and learning  Adoption of strategies for exposing teachers to interactive and participatory pedagogy  Adequately stocked libraries and laboratories  Adoption of strategies for promoting learner – friendly pedagogy/environment |  Promote production and distribution of learning and teaching material  Initiate and implement strategy for adoption of appropriate language of learning and teaching  Initiate and implement strategies for exposing teachers to interactive and participatory pedagogy  Increase funding for stocking libraries and laboratories  Promote learner – friendly pedagogy and environment in schools and let teachers appreciate this;  |
+| | Higher Education  Over-crowded teaching space  General lack of teacher incentives  Inadequate books and other teaching and learning materials  Poor mastery of language of teaching and learning |  Improved teaching space  Improved teaching incentives  Increased availability of books and other teaching and learning materials  Improved mastery of language of teaching and learning  Improved process of interactive |  Provide funding for teaching space expansion  Implement pay and teacher incentive reform  Prioritize funding for provision of books and other teaching and learning materials  Implement language skills development programmes |
 
 59
 
@@ -2429,13 +2526,13 @@ Higher Education  Over-crowded teaching space  General lack of teacher inc
 
 [[START OF PAGE 74]]
 
-Policy objective | Current Status | Proposed Target | Proposed Actions
---- | --- | --- | ---
- Low level of interactive learning  Low student welfare support | learning  Analyzed and strengthened students loan/grant system |  Promote use of ICT in T & L  Commission team to analyze and strengthen students loan grant system
-Adult and Non-formal  Weak linkage with MKUKUTA goals |  Improved linkage with poverty reduction strategy skills |  Review and reform adult education curriculum
-Folk, Technical and Vocational  Obsolete and inadequate training equipment and machinery  Lack of regular curriculum review |  Sustainable funding strategy for folk and vocational training |  Ensure adequate fund in the budget  Develop a national mechanism for utilizing 6% skills development levy effectively
-MACRO-MICRO MANAGEMENT |  Weak decentralization of management functions especially at secondary level  Weak instructional leadership at institutional level  EMIS concentrated in sub- sectors or departments  Difficult to measure general progress in sector  Weak monitoring of GBS  PAF/EMIS not connected to MKUKUTA and outcomes  Low provision of learning facilities for people with disability  Dilapidated infrastructure especially in public institutions  Low provision for utilities and municipal facilities  Weak sector EMIS for facilities/equipment  Lack of financial transparency and accountability  Weak dialogue and management structure |  Decentralized decision making in place  Instructional leadership skills provided to all  Integrated EMIS developed  Strengthened inspectorate and NECTA  Dialogue Structures for GBS/SBAS in place  Reformed general sector management structure/dialogue in place  Strategy for increased provision of teachers' house/other assets in place  Increased funding for provision of libraries and laboratories  Prioritized funding for provision of facilities for disabled  Strategy for increased funding for rehabilitation of dilapidated infrastructure and provision of utilities and municipal facilities  Sector EMIS for facilities/equipment in place |  Implement decentralization reforms at all education levels  Institutional leaders to assume instructional leadership  Concentrate EMIS on the whole sector  Commission studies of reforming inspectorate and NECTA for a full sector PAF  Ministry responsible for education to coordinate establishment of management and dialogue structures
-EDUCATION PROVISION |  Low enrolment rates at pre- primary secondary, folk and higher education  Gender imbalance at higher and tertiary  Low provision for teachers' houses/other assets  Low provision of libraries, workshops and laboratories |  Strategy for public private partnership in education provision in place  Tax privileges and VAT exemptions for increased private investment in education development in place  Girls scholarship schemes for the needy in place |  Initiate and implement strategy for public-private partnership in education provision  Implement tax privileges and VAT exemptions for increased private investment in education development  Initiate and implement girls Scholarship Schemes for the Needy
+| Policy objective | Current Status | Proposed Target | Proposed Actions |
+|---|---|---|---|
+| |  Low level of interactive learning  Low student welfare support | learning  Analyzed and strengthened students loan/grant system |  Promote use of ICT in T & L  Commission team to analyze and strengthen students loan grant system |
+| | Adult and Non-formal  Weak linkage with MKUKUTA goals |  Improved linkage with poverty reduction strategy skills |  Review and reform adult education curriculum |
+| | Folk, Technical and Vocational  Obsolete and inadequate training equipment and machinery  Lack of regular curriculum review |  Sustainable funding strategy for folk and vocational training |  Ensure adequate fund in the budget  Develop a national mechanism for utilizing 6% skills development levy effectively |
+| MACRO-MICRO MANAGEMENT |  Weak decentralization of management functions especially at secondary level  Weak instructional leadership at institutional level  EMIS concentrated in sub-sectors or departments  Difficult to measure general progress in sector  Weak monitoring of GBS  PAF/EMIS not connected to MKUKUTA and outcomes  Low provision of learning facilities for people with disability  Dilapidated infrastructure especially in public institutions  Low provision for utilities and municipal facilities  Weak sector EMIS for facilities/equipment  Lack of financial transparency and accountability  Weak dialogue and management structure |  Decentralized decision making in place  Instructional leadership skills provided to all  Integrated EMIS developed  Strengthened inspectorate and NECTA  Dialogue Structures for GBS/SBAS in place  Reformed general sector management structure/dialogue in place  Strategy for increased provision of teachers’ house/other assets in place  Increased funding for provision of libraries and laboratories  Prioritized funding for provision of facilities for disabled  Strategy for increased funding for rehabilitation of dilapidated infrastructure and provision of utilities and municipal facilities  Sector EMIS for facilities/equipment in place |  Implement decentralization reforms at all education levels  Institutional leaders to assume instructional leadership  Concentrate EMIS on the whole sector  Commission studies of reforming inspectorate and NECTA for a full sector PAF  Ministry responsible for education to coordinate establishment of management and dialogue structures |
+| EDUCATION PROVISION |  Low enrolment rates at pre-primary secondary, folk and higher education  Gender imbalance at higher and tertiary  Low provision for teachers’ houses/other assets  Low provision of libraries, workshops and laboratories |  Strategy for public private partnership in education provision in place  Tax privileges and VAT exemptions for increased private investment in education development in place  Girls scholarship schemes for the needy in place |  Initiate and implement strategy for public-private partnership in education provision  Implement tax privileges and VAT exemptions for increased private investment in education development  Initiate and implement girls Scholarship Schemes for the Needy |
 
 will be conducted after every three years with effect from 2010.
 
@@ -2445,25 +2542,24 @@ will be conducted after every three years with effect from 2010.
 
 [[START OF PAGE 75]]
 
-# EDUCATION SECTOR PROJECTED ENROLMENTS 2008 - 2017
-
 # Annex F
 
-SUB SECTOR | YEARS
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
-Pre- Primary (Year 1& 2) | 1,652,108 | 1,993,055 | 2,344,242 | 2,380,640 | 2,417,718 | 2,455,491 | 2,493,973 | 2,533,180 | 2,583,844 | 2,635,520
-Primary (STD I - VII) | 8,213,523 | 7,970,167 | 7,849,615 | 8,088,516 | 8,326,962 | 8,575,654 | 8,832,712 | 9,088,292 | 9,270,058 | 9,455,459
-Form 1 | 524,768 | 692,996 | 768,444 | 806,866 | 847,210 | 864,154 | 881,437 | 899,066 | 917,047 | 935,388
-Form 2 | 406,212 | 532,921 | 593,555 | 623,233 | 654,394 | 667,482 | 680,832 | 694,449 | 708,338 | 722,504
-Form 3 | 224,251 | 367,622 | 482,293 | 626,981 | 639,521 | 652,311 | 665,357 | 678,664 | 692,238 | 706,082
-Form 4 | 175,999 | 218,645 | 358,431 | 465,960 | 605,748 | 617,863 | 630,221 | 642,825 | 655,682 | 668,795
-Form 5 | 47,335 | 71,984 | 86,802 | 131,071 | 197,917 | 237,501 | 285,001 | 342,001 | 410,401 | 492,481
-Form 6 | 30,690 | 46,247 | 70,328 | 106,195 | 138,054 | 165,665 | 198,798 | 238,557 | 286,268 | 343,522
-Technical Education | 3,544 | 4,253 | 4,678 | 5,146 | 5,660 | 6,227 | 6,849 | 7,534 | 8,288 | 9,116
-Higher Education | 98,915 | 118,698 | 142,437 | 170,925 | 205,110 | 246,132 | 295,358 | 354,430 | 425,316 | 510,379
-Folk Education | 30,845 | 38,861 | 57,146 | 78,420 | 93,100 | 102,410 | 112,651 | 123,916 | 136,308 | 149,938
-Vocational Education and Training | 24,055 | 27,500 | 59,000 | 72,000 | 76,600 | 100,900 | 114,100 | 129,400 | 144,700 | 170,700
+# EDUCATION SECTOR PROJECTED ENROLMENTS 2008 - 2017
+
+| SUB SECTOR | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Pre- Primary (Year 1& 2) | 1,652,108 | 1,993,055 | 2,344,242 | 2,380,640 | 2,417,718 | 2,455,491 | 2,493,973 | 2,533,180 | 2,583,844 | 2,635,520 |
+| Primary (STD I - VII) | 8,213,523 | 7,970,167 | 7,849,615 | 8,088,516 | 8,326,962 | 8,575,654 | 8,832,712 | 9,088,292 | 9,270,058 | 9,455,459 |
+| Form 1 | 524,768 | 692,996 | 768,444 | 806,866 | 847,210 | 864,154 | 881,437 | 899,066 | 917,047 | 935,388 |
+| Form 2 | 406,212 | 532,921 | 593,555 | 623,233 | 654,394 | 667,482 | 680,832 | 694,449 | 708,338 | 722,504 |
+| Form 3 | 224,251 | 367,622 | 482,293 | 626,981 | 639,521 | 652,311 | 665,357 | 678,664 | 692,238 | 706,082 |
+| Form 4 | 175,999 | 218,645 | 358,431 | 465,960 | 605,748 | 617,863 | 630,221 | 642,825 | 655,682 | 668,795 |
+| Form 5 | 47,335 | 71,984 | 86,802 | 131,071 | 197,917 | 237,501 | 285,001 | 342,001 | 410,401 | 492,481 |
+| Form 6 | 30,690 | 46,247 | 70,328 | 106,195 | 138,054 | 165,665 | 198,798 | 238,557 | 286,268 | 343,522 |
+| Technical Education | 3,544 | 4,253 | 4,678 | 5,146 | 5,660 | 6,227 | 6,849 | 7,534 | 8,288 | 9,116 |
+| Higher Education | 98,915 | 118,698 | 142,437 | 170,925 | 205,110 | 246,132 | 295,358 | 354,430 | 425,316 | 510,379 |
+| Folk Education | 30,845 | 38,861 | 57,146 | 78,420 | 93,100 | 102,410 | 112,651 | 123,916 | 136,308 | 149,938 |
+| Vocational Education and Training | 24,055 | 27,500 | 59,000 | 72,000 | 76,600 | 100,900 | 114,100 | 129,400 | 144,700 | 170,700 |
 
 61
 
@@ -2471,28 +2567,28 @@ Vocational Education and Training | 24,055 | 27,500 | 59,000 | 72,000 | 76,600 |
 
 [[START OF PAGE 76]]
 
-# ANALYSIS OF FUNDING GAPS (in Millions of Tshs)
-
 # Annex G
 
-SUB- ECTOR | YEAR/ COST | 2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
+# ANALYSIS OF FUNDING GAPS (in Millions of Tshs)
+
+SUB-SECTOR | YEAR/ COST | 2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Basic Education | Total cost of Education | 1,028,345 | 1,410,207 | 1,454,022 | 1,553,006 | 1,674,478 | 1,695,169 | 1,783,251 | 1,874,454 | 1,968,177 | 2,066,586
-Recurrent Expenditure | 813,513 | 1,115,600 | 1,150,262 | 1,265,288 | 1,328,553 | 1,394,980 | 1,464,729 | 1,537,966 | 1,614,864 | 1,695,607
-Development Expenditure | 214,832 | 294,607 | 303,760 | 287,718 | 345,926 | 300,188 | 318,522 | 336,488 | 353,313 | 370,978
-Total Govnt contribution | 808,544 | 929,825 | 1,069,299 | 1,229,694 | 1,414,148 | 1,509,555 | 1,613,437 | 1,726,773 | 1,850,677 | 1,986,410
-Recurrent Expenditure | 667,324 | 767,423 | 882,536 | 1,014,917 | 1,167,154 | 1,225,512 | 1,286,788 | 1,351,127 | 1,418,683 | 1,489,617
-Development Expenditure | 141,219 | 162,402 | 186,763 | 214,777 | 246,994 | 284,043 | 326,649 | 375,646 | 431,993 | 496,792
-Financing gap | 219,801 | 480,382 | 384,723 | 323,312 | 260,331 | 185,614 | 169,815 | 147,681 | 117,500 | 80,176
-Total cost of Education | 48,241 | 49,552 | 63,029 | 59,147 | 57,000 | 78,163 | 78,548 | 78,054 | 81,957 | 86,055
-Recurrent Expenditure | 43,699 | 39,200 | 49,862 | 46,791 | 45,092 | 61,834 | 62,139 | 61,748 | 64,835 | 68,077
-Development Expenditure | 4,542 | 10,352 | 13,167 | 12,356 | 11,908 | 16,329 | 16,409 | 16,306 | 17,122 | 17,978
-Folk Education | Total Govnt contribution | 3,132 | 3,602 | 4,142 | 4,763 | 5,478 | 6,300 | 7,245 | 8,331 | 9,581 | 11,018
-Recurrent Expenditure | 2,333 | 2,683 | 3,085 | 3,548 | 4,080 | 4,692 | 5,396 | 6,206 | 7,137 | 8,207
-Development Expenditure | 799 | 919 | 1,057 | 1,215 | 1,397 | 1,607 | 1,848 | 2,125 | 2,444 | 2,811
-Financing gap | 45,109 | 45,950 | 58,887 | 54,384 | 51,522 | 71,863 | 71,303 | 69,723 | 72,376 | 75,037
-Higher Education | Total cost of Education | 1,156,791 | 563,420 | 715,882 | 605,465 | 656,918 | 839,053 | 936,094 | 1,075,834 | 1,201,815 | 1,391,702
-Recurrent Expenditure | 915,126 | 445,716 | 566,327 | 478,977 | 519,681 | 663,766 | 740,534 | 851,081 | 950,744 | 1,100,961
+| Basic Education | Total cost of Education | 1,028,345 | 1,410,207 | 1,454,022 | 1,553,006 | 1,674,478 | 1,695,169 | 1,783,251 | 1,874,454 | 1,968,177 | 2,066,586 |
+|  | Recurrent Expenditure | 813,513 | 1,115,600 | 1,150,262 | 1,265,288 | 1,328,553 | 1,394,980 | 1,464,729 | 1,537,966 | 1,614,864 | 1,695,607 |
+|  | Development Expenditure | 214,832 | 294,607 | 303,760 | 287,718 | 345,926 | 300,188 | 318,522 | 336,488 | 353,313 | 370,978 |
+|  | Total Govnt contribution | 808,544 | 929,825 | 1,069,299 | 1,229,694 | 1,414,148 | 1,509,555 | 1,613,437 | 1,726,773 | 1,850,677 | 1,986,410 |
+|  | Recurrent Expenditure | 667,324 | 767,423 | 882,536 | 1,014,917 | 1,167,154 | 1,225,512 | 1,286,788 | 1,351,127 | 1,418,683 | 1,489,617 |
+|  | Development Expenditure | 141,219 | 162,402 | 186,763 | 214,777 | 246,994 | 284,043 | 326,649 | 375,646 | 431,993 | 496,792 |
+|  | Financing gap | 219,801 | 480,382 | 384,723 | 323,312 | 260,331 | 185,614 | 169,815 | 147,681 | 117,500 | 80,176 |
+| Folk Education | Total cost of Education | 48,241 | 49,552 | 63,029 | 59,147 | 57,000 | 78,163 | 78,548 | 78,054 | 81,957 | 86,055 |
+|  | Recurrent Expenditure | 43,699 | 39,200 | 49,862 | 46,791 | 45,092 | 61,834 | 62,139 | 61,748 | 64,835 | 68,077 |
+|  | Development Expenditure | 4,542 | 10,352 | 13,167 | 12,356 | 11,908 | 16,329 | 16,409 | 16,306 | 17,122 | 17,978 |
+|  | Total Govnt contribution | 3,132 | 3,602 | 4,142 | 4,763 | 5,478 | 6,300 | 7,245 | 8,331 | 9,581 | 11,018 |
+|  | Recurrent Expenditure | 2,333 | 2,683 | 3,085 | 3,548 | 4,080 | 4,692 | 5,396 | 6,206 | 7,137 | 8,207 |
+|  | Development Expenditure | 799 | 919 | 1,057 | 1,215 | 1,397 | 1,607 | 1,848 | 2,125 | 2,444 | 2,811 |
+|  | Financing gap | 45,109 | 45,950 | 58,887 | 54,384 | 51,522 | 71,863 | 71,303 | 69,723 | 72,376 | 75,037 |
+| Higher Education | Total cost of Education | 1,156,791 | 563,420 | 715,882 | 605,465 | 656,918 | 839,053 | 936,094 | 1,075,834 | 1,201,815 | 1,391,702 |
+|  | Recurrent Expenditure | 915,126 | 445,716 | 566,327 | 478,977 | 519,681 | 663,766 | 740,534 | 851,081 | 950,744 | 1,100,961 |
 
 62
 
@@ -2500,26 +2596,26 @@ Recurrent Expenditure | 915,126 | 445,716 | 566,327 | 478,977 | 519,681 | 663,76
 
 [[START OF PAGE 77]]
 
-Development Expenditure | 241,665 | 117,704 | 149,555 | 126,488 | 137,237 | 175,287 | 195,560 | 224,753 | 251,071 | 290,741
+|  | Development Expenditure | 241,665 | 117,704 | 149,555 | 126,488 | 137,237 | 175,287 | 195,560 | 224,753 | 251,071 | 290,741 |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Total Govnt contribution | 264,343 | 303,994 | 349,594 | 402,033 | 462,338 | 531,688 | 611,441 | 703,158 | 808,631 | 929,926
-Recurrent Expenditure | 221,249 | 254,436 | 292,602 | 336,492 | 386,966 | 445,011 | 511,762 | 588,527 | 676,806 | 778,327
-Development Expenditure | 43,094 | 49,558 | 56,992 | 65,541 | 75,372 | 86,677 | 99,679 | 114,631 | 131,826 | 151,599
-Financing gap | 892,448 | 259,426 | 366,288 | 203,432 | 194,580 | 307,365 | 324,653 | 372,676 | 393,184 | 461,776
-Total cost Education | of 138,220 | 799,732 | 806,266 | 918,352 | 844,730 | 740,913 | 730,026 | 716,649 | 713,015 | 714,611
-Recurrent Expenditure | 109,344 | 632,660 | 637,829 | 726,499 | 668,257 | 586,129 | 577,516 | 566,934 | 564,059 | 565,322
-Development Expenditure | 28,876 | 167,072 | 168,437 | 191,853 | 176,473 | 154,784 | 152,510 | 149,715 | 148,956 | 149,289
-Total contribution Technical Education | Govnt | 14,900 | 17,135 | 19,705 | 22,661 | 26,060 | 29,969 | 34,465 | 39,634 | 45,579 | 52,416
-Recurrent Expenditure | 12,200 | 14,030 | 16,135 | 18,555 | 21,338 | 24,539 | 28,219 | 32,452 | 37,320 | 42,918
-Development Expenditure | 2,700 | 3,105 | 3,571 | 4,106 | 4,722 | 5,431 | 6,245 | 7,182 | 8,259 | 9,498
-Financing | gap | 123,320 | 782,597 | 786,561 | 895,691 | 818,670 | 710,944 | 695,561 | 677,015 | 667,436 | 662,195
-Total cost Education Recurrent Expenditure Development Expenditure | of | 82,868 | 129,094 | 132,515 | 106,315 | 115,115 | 123,915 | 127,715 | 107,300 | 110,300 | 115,815
-21,600 | 32,700 | 39,500 | 48,300 | 57,100 | 65,900 | 74,700 | 83,500 | 86,500 | 90,825
-Vocational and | 61,268 | 96,394 | 93,015 | 58,015 | 58,015 | 58,015 | 53,015 | 23,800 | 23,800 | 24,990
-Total contribution Education Training | Govnt | 21,000 | 23,927 | 24,826 | 25,792 | 26,834 | 27,962 | 29,186 | 30,398 | 31,728 | 33,314
-Recurrent Expenditure | 21,000 | 21,525 | 22,063 | 22,615 | 23,180 | 23,760 | 24,354 | 24,841 | 25,338 | 26,605
-Development Expenditure | - | 2,402 | 2,763 | 3,177 | 3,654 | 4,202 | 4,832 | 5,557 | 6,390 | 6,710
-Financing gap | 61,868 | 105,167 | 107,689 | 80,523 | 88,281 | 95,953 | 98,529 | 76,902 | 78,572 | 82,501
+|  | Total Govnt contribution | 264,343 | 303,994 | 349,594 | 402,033 | 462,338 | 531,688 | 611,441 | 703,158 | 808,631 | 929,926 |
+|  | Recurrent Expenditure | 221,249 | 254,436 | 292,602 | 336,492 | 386,966 | 445,011 | 511,762 | 588,527 | 676,806 | 778,327 |
+|  | Development Expenditure | 43,094 | 49,558 | 56,992 | 65,541 | 75,372 | 86,677 | 99,679 | 114,631 | 131,826 | 151,599 |
+|  | Financing gap | 892,448 | 259,426 | 366,288 | 203,432 | 194,580 | 307,365 | 324,653 | 372,676 | 393,184 | 461,776 |
+| Technical Education | Total cost of Education | 138,220 | 799,732 | 806,266 | 918,352 | 844,730 | 740,913 | 730,026 | 716,649 | 713,015 | 714,611 |
+|  | Recurrent Expenditure | 109,344 | 632,660 | 637,829 | 726,499 | 668,257 | 586,129 | 577,516 | 566,934 | 564,059 | 565,322 |
+|  | Development Expenditure | 28,876 | 167,072 | 168,437 | 191,853 | 176,473 | 154,784 | 152,510 | 149,715 | 148,956 | 149,289 |
+|  | Total Govnt contribution | 14,900 | 17,135 | 19,705 | 22,661 | 26,060 | 29,969 | 34,465 | 39,634 | 45,579 | 52,416 |
+|  | Recurrent Expenditure | 12,200 | 14,030 | 16,135 | 18,555 | 21,338 | 24,539 | 28,219 | 32,452 | 37,320 | 42,918 |
+|  | Development Expenditure | 2,700 | 3,105 | 3,571 | 4,106 | 4,722 | 5,431 | 6,245 | 7,182 | 8,259 | 9,498 |
+|  | Financing gap | 123,320 | 782,597 | 786,561 | 895,691 | 818,670 | 710,944 | 695,561 | 677,015 | 667,436 | 662,195 |
+| Vocational and Education Training | Total cost of Education | 82,868 | 129,094 | 132,515 | 106,315 | 115,115 | 123,915 | 127,715 | 107,300 | 110,300 | 115,815 |
+|  | Recurrent Expenditure | 21,600 | 32,700 | 39,500 | 48,300 | 57,100 | 65,900 | 74,700 | 83,500 | 86,500 | 90,825 |
+|  | Development Expenditure | 61,268 | 96,394 | 93,015 | 58,015 | 58,015 | 58,015 | 53,015 | 23,800 | 23,800 | 24,990 |
+|  | Total Govnt contribution | 21,000 | 23,927 | 24,826 | 25,792 | 26,834 | 27,962 | 29,186 | 30,398 | 31,728 | 33,314 |
+|  | Recurrent Expenditure | 21,000 | 21,525 | 22,063 | 22,615 | 23,180 | 23,760 | 24,354 | 24,841 | 25,338 | 26,605 |
+|  | Development Expenditure | - | 2,402 | 2,763 | 3,177 | 3,654 | 4,202 | 4,832 | 5,557 | 6,390 | 6,710 |
+|  | Financing gap | 61,868 | 105,167 | 107,689 | 80,523 | 88,281 | 95,953 | 98,529 | 76,902 | 78,572 | 82,501 |
 
 63
 
@@ -2527,14 +2623,14 @@ Financing gap | 61,868 | 105,167 | 107,689 | 80,523 | 88,281 | 95,953 | 98,529 |
 
 [[START OF PAGE 78]]
 
-Total cost of Education | 2,454,465 | 2,952,005 | 3,171,714 | 3,242,285 | 3,348,241 | 3,477,213 | 3,655,634 | 3,852,291 | 4,075,264 | 4,374,768
+| TOTAL | Total cost of Education | 2,454,465 | 2,952,005 | 3,171,714 | 3,242,285 | 3,348,241 | 3,477,213 | 3,655,634 | 3,852,291 | 4,075,264 | 4,374,768 |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Recurrent Expenditure | 1,903,282 | 2,265,876 | 2,443,780 | 2,565,855 | 2,618,683 | 2,772,609 | 2,919,619 | 3,101,229 | 3,281,002 | 3,520,792
-Development Expenditure | 551,183 | 686,129 | 727,934 | 676,430 | 729,558 | 704,603 | 736,016 | 751,063 | 794,262 | 853,976
-Total Govnt TOTAL | 1,111,919 | 1,278,483 | 1,467,566 | 1,684,943 | 1,934,857 | 2,105,474 | 2,295,773 | 2,508,294 | 2,746,196 | 3,013,084
-contribution Recurrent Expenditure | 924,106 | 1,060,097 | 1,216,421 | 1,396,127 | 1,602,718 | 1,723,514 | 1,856,520 | 2,003,153 | 2,165,284 | 2,345,674
-Development Expenditure | 187,812 | 218,386 | 251,145 | 288,816 | 332,139 | 381,960 | 439,253 | 505,142 | 580,912 | 667,410
-Financing gap | 1,342,546 | 1,673,522 | 1,704,148 | 1,557,342 | 1,413,384 | 1,371,739 | 1,359,861 | 1,343,997 | 1,329,067 | 1,361,684
+|  | Recurrent Expenditure | 1,903,282 | 2,265,876 | 2,443,780 | 2,565,855 | 2,618,683 | 2,772,609 | 2,919,619 | 3,101,229 | 3,281,002 | 3,520,792 |
+|  | Development Expenditure | 551,183 | 686,129 | 727,934 | 676,430 | 729,558 | 704,603 | 736,016 | 751,063 | 794,262 | 853,976 |
+|  | Total Govnt contribution | 1,111,919 | 1,278,483 | 1,467,566 | 1,684,943 | 1,934,857 | 2,105,474 | 2,295,773 | 2,508,294 | 2,746,196 | 3,013,084 |
+|  | Recurrent Expenditure | 924,106 | 1,060,097 | 1,216,421 | 1,396,127 | 1,602,718 | 1,723,514 | 1,856,520 | 2,003,153 | 2,165,284 | 2,345,674 |
+|  | Development Expenditure | 187,812 | 218,386 | 251,145 | 288,816 | 332,139 | 381,960 | 439,253 | 505,142 | 580,912 | 667,410 |
+|  | Financing gap | 1,342,546 | 1,673,522 | 1,704,148 | 1,557,342 | 1,413,384 | 1,371,739 | 1,359,861 | 1,343,997 | 1,329,067 | 1,361,684 |
 
 64
 
@@ -2547,28 +2643,28 @@ Financing gap | 1,342,546 | 1,673,522 | 1,704,148 | 1,557,342 | 1,413,384 | 1,37
 # Education Sector Financial Framework 2007/08 - 2016/17
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 A: Resources
-Resources | 2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
-A1 | Total Govt. Expenditure | 6,066,832 | 7,216,130 | 8,298,550 | 9,543,332 | 10,974,832 | 12,621,056 | 14,514,215 | 16,691,347 | 19,195,049 | 22,074,30
-of which | 18.94% | 15.00% | 15.00% | 15.00% | 15.00% | 15.00% | 15.00% | 15.00% | 15.00
-A2 | Recurrent Expenditure | 3,865,736 | 4,726,650 | 5,435,648 | 6,250,995 | 7,188,644 | 8,266,940 | 9,506,981 | 10,933,029 | 12,572,983 | 14,458,93
-A3 | Development Expenditure | 2,201,096 | 2,489,480 | 2,862,902 | 3,292,337 | 3,786,188 | 4,354,116 | 5,007,233 | 5,758,319 | 6,622,066 | 7,615,37
+|  | Resources | 2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 |
+| A1 | Total Govt. Expenditure | 6,066,832 | 7,216,130 | 8,298,550 | 9,543,332 | 10,974,832 | 12,621,056 | 14,514,215 | 16,691,347 | 19,195,049 | 22,074,307 |
+|  | of which |  | 18.94% | 15.00% | 15.00% | 15.00% | 15.00% | 15.00% | 15.00% | 15.00% | 15.00% |
+| A2 | Recurrent Expenditure | 3,865,736 | 4,726,650 | 5,435,648 | 6,250,995 | 7,188,644 | 8,266,940 | 9,506,981 | 10,933,029 | 12,572,983 | 14,458,930 |
+| A3 | Development Expenditure | 2,201,096 | 2,489,480 | 2,862,902 | 3,292,337 | 3,786,188 | 4,354,116 | 5,007,233 | 5,758,319 | 6,622,066 | 7,615,376 |
 Growth in total Govt. expenditure
-A4 | Total Actual Education Expenditure | 2,454,465 | 2,952,005 | 3,171,714 | 3,242,285 | 3,348,241 | 3,477,212 | 3,655,635 | 3,852,292 | 4,075,264 | 4,374,76
+| A4 | Total Actual Education Expenditure | 2,454,465 | 2,952,005 | 3,171,714 | 3,242,285 | 3,348,241 | 3,477,212 | 3,655,635 | 3,852,292 | 4,075,264 | 4,374,768 |
 of which
-A5 | Recurrent Expenditure | 1,903,282 | 2,265,876 | 2,443,780 | 2,565,855 | 2,618,683 | 2,772,609 | 2,919,619 | 3,101,229 | 3,281,002 | 3,520,79
-A6 | Development Expenditure | 551,183 | 686,129 | 727,934 | 676,430 | 729,558 | 704,603 | 736,016 | 751,063 | 794,262 | 853,97
-A7 | Total educ.as % of total Govt.expend | 40.5% | 40.9% | 38.2% | 34.0% | 30.5% | 27.6% | 25.2% | 23.1% | 21.2% | 19.8
-A8 | Total Ceiling of Education Expenditure | 1,111,307 | 1,277,781 | 1,466,758 | 1,684,014 | 1,933,788 | 2,104,245 | 2,294,360 | 2,506,669 | 2,744,327 | 3,010,93
+| A5 | Recurrent Expenditure | 1,903,282 | 2,265,876 | 2,443,780 | 2,565,855 | 2,618,683 | 2,772,609 | 2,919,619 | 3,101,229 | 3,281,002 | 3,520,792 |
+| A6 | Development Expenditure | 551,183 | 686,129 | 727,934 | 676,430 | 729,558 | 704,603 | 736,016 | 751,063 | 794,262 | 853,976 |
+| A7 | Total educ.as % of total Govt.expend | 40.5% | 40.9% | 38.2% | 34.0% | 30.5% | 27.6% | 25.2% | 23.1% | 21.2% | 19.8% |
+| A8 | Total Ceiling of Education Expenditure | 1,111,307 | 1,277,781 | 1,466,758 | 1,684,014 | 1,933,788 | 2,104,245 | 2,294,360 | 2,506,669 | 2,744,327 | 3,010,935 |
 of which
-A9 | Recurrent Expenditure | 924,106 | 1,060,097 | 1,216,421 | 1,396,127 | 1,602,718 | 1,723,514 | 1,856,520 | 2,003,153 | 2,165,284 | 2,345,67
-A10 | Development Expenditure | 187,201 | 217,684 | 250,337 | 287,887 | 331,070 | 380,731 | 437,840 | 503,516 | 579,043 | 665,26
-A11 | Total ceiling of educ.as % of total educ..expend | 18.3% | 17.7% | 17.7% | 17.6% | 17.6% | 16.7% | 15.8% | 15.0% | 14.3% | 13.6
+| A9 | Recurrent Expenditure | 924,106 | 1,060,097 | 1,216,421 | 1,396,127 | 1,602,718 | 1,723,514 | 1,856,520 | 2,003,153 | 2,165,284 | 2,345,674 |
+| A10 | Development Expenditure | 187,201 | 217,684 | 250,337 | 287,887 | 331,070 | 380,731 | 437,840 | 503,516 | 579,043 | 665,261 |
+| A11 | Total ceiling of educ.as % of total educ..expend | 18.3% | 17.7% | 17.7% | 17.6% | 17.6% | 16.7% | 15.8% | 15.0% | 14.3% | 13.6% |
 B: Financing Gap
-B1 | Total Financing Gap | 1,342,546 | 1,674,224 | 1,704,956 | 1,558,271 | 1,414,453 | 1,372,967 | 1,361,275 | 1,345,623 | 1,330,937 | 1,363,83
+| B1 | Total Financing Gap | 1,342,546 | 1,674,224 | 1,704,956 | 1,558,271 | 1,414,453 | 1,372,967 | 1,361,275 | 1,345,623 | 1,330,937 | 1,363,833 |
 of which
-B2 | Recurrent Cost | 979,176 | 1,205,779 | 1,227,359 | 1,169,728 | 1,015,965 | 1,049,095 | 1,063,099 | 1,098,076 | 1,115,718 | 1,175,11
-B3 | Development Cost | 363,982 | 468,445 | 477,597 | 388,543 | 398,488 | 323,872 | 298,176 | 247,547 | 215,219 | 188,71
-B4 | Total Financing Gap (in million USD) | 1128 | 1407 | 1433 | 1309 | 1189 | 1154 | 1144 | 1131 | 1118 | 114
+| B2 | Recurrent Cost | 979,176 | 1,205,779 | 1,227,359 | 1,169,728 | 1,015,965 | 1,049,095 | 1,063,099 | 1,098,076 | 1,115,718 | 1,175,118 |
+| B3 | Development Cost | 363,982 | 468,445 | 477,597 | 388,543 | 398,488 | 323,872 | 298,176 | 247,547 | 215,219 | 188,715 |
+| B4 | Total Financing Gap (in million USD) | 1128 | 1407 | 1433 | 1309 | 1189 | 1154 | 1144 | 1131 | 1118 | 1146 |
 
 65
 
