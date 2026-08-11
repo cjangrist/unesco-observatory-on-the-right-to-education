@@ -2,7 +2,7 @@
 
 # Ley 17.015
 
-## DICTANSE NORMAS REFERENTES A LA EDUCACIOIN INICIAL QUE SE DISPENSA A NIÑOS MENORES DE SEIS AÑOS.
+## DICTANSE NORMAS REFERENTES A LA EDUCACION INICIAL QUE SE DISPENSA A NIÑOS MENORES DE SEIS AÑOS.
 
 El Senado y la Cámara de Representantes de la República Oriental del Uruguay, reunidos en Asamblea General,
 
@@ -16,19 +16,19 @@ Establécese que la educación inicial es la que se dispensa a niños menores de
 
 Serán objetivos generales de la educación inicial:
 
-- Fomentar los procesos de estructuración del pensamiento, de las habilidades cognitivas y destrezas propias de la edad del niño, la capacidad de imaginación y creación, la forma de expresión verbal y no verbal de sus pensamientos y sentimientos.
+- A) Fomentar los procesos de estructuración del pensamiento, de las habilidades cognitivas y destrezas propias de la edad del niño, la capacidad de imaginación y creación, la forma de expresión verbal y no verbal de sus pensamientos y sentimientos.
 
-- Favorecer su maduración sensoriomotora, su crecimiento socioafectivo, las manifestaciones lúdicas y estéticas, el conocimiento de su propio cuerpo y de sus posibilidades de acción para la adquisición progresiva de su autonomía e identidad.
+- B) Favorecer su maduración sensoriomotora, su crecimiento socioafectivo, las manifestaciones lúdicas y estéticas, el conocimiento de su propio cuerpo y de sus posibilidades de acción para la adquisición progresiva de su autonomía e identidad.
 
-- Desarrollar su capacidad de aprendizaje mediante la motivación y el aprestamiento para la adquisición de la lectoescritura y para la solución de problemas de relaciones y operaciones matemáticas básicas.
+- C) Desarrollar su capacidad de aprendizaje mediante la motivación y el aprestamiento para la adquisición de la lectoescritura y para la solución de problemas de relaciones y operaciones matemáticas básicas.
 
-- Fomentar hábitos de alimentación e higiene personal y actitudes que promuevan una vida sana, así como la conservación del medio ambiente.
+- D) Promover los procesos de socialización y el establecimiento de relaciones de reciprocidad, participación y hábitos de convivencia grupal, conforme a criterios de respeto y cooperación.
 
-- Promover los procesos de socialización y el establecimiento de relaciones de reciprocidad, participación y hábitos de convivencia grupal, conforme a criterios de respeto y cooperación.
+- E) Fomentar hábitos de alimentación e higiene personal y actitudes que promuevan una vida sana, así como la conservación del medio ambiente.
 
-- Fortalecer los vínculos entre la institución educativa, la familia y la comunidad.
+- F) Fortalecer los vínculos entre la institución educativa, la familia y la comunidad.
 
-- Coadyuvar en la prevención de los efectos negativos para el normal desarrollo del niño, originados en deficiencias de orden biológico, nutricional, familiar o de contextos de riesgo, mediante programas de educación compensatoria y acciones coordinadas con instituciones especializadas de la comunidad.
+- G) Coadyuvar en la prevención de los efectos negativos para el normal desarrollo del niño, originados en deficiencias de orden biológico, nutricional, familiar o de contextos de riesgo, mediante programas de educación compensatoria y acciones coordinadas con instituciones especializadas de la comunidad.
 
 #### Artículo 3º.
 
@@ -72,9 +72,9 @@ MINISTERIO DE EDUCACION Y CULTURA
 
 Montevideo, 20 de octubre de 1998.
 
-SANGUINETTI.
-
 Cúmplase, acúsese recibo, comuníquese, publíquese e insértese en el Registro Nacional de Leyes y Decretos.
+
+SANGUINETTI.
 
 YAMANDU FAU.
 
