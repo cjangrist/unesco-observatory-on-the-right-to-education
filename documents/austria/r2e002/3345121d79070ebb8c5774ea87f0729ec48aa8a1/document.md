@@ -6,6 +6,10 @@ zur sprachlichen Förderung in elementaren Bildungseinrichtungen
 
 Aktualisierte Version, Juni 2009
 
+Charlotte
+Bühler
+Institut
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -16,13 +20,15 @@ Aktualisierte Version, Juni 2009
 
 [[START OF PAGE 3]]
 
+im Auftrag des Bundesministeriums für Unterricht,
+Kunst und Kultur erstellt durch das Charlotte-Bühler-Institut
+für praxisorientierte Kleinkindforschung
+
 # Bildungsplan-Anteil
 
 zur sprachlichen Förderung in elementaren Bildungseinrichtungen
 
 Aktualisierte Version, Juni 2009
-
-im Auftrag des Bundesministeriums für Unterricht, Kunst und Kultur erstellt durch das Charlotte-Bühler-Institut für praxisorientierte Kleinkindforschung
 
 [[END OF PAGE 3]]
 
@@ -30,17 +36,17 @@ im Auftrag des Bundesministeriums für Unterricht, Kunst und Kultur erstellt dur
 
 ## Wissenschaftliche Leitung
 
-Dr. in  Waltraut Hartmann
+Dr.in Waltraut Hartmann
 
 ## Autorinnen
 
-Dr. in Waltraut  Hartmann und Mag. a  Martina Stoll (Pädagogische Orientierung), Mag. a Lisa  Kneidinger  (Unterstützung  des  Spracherwerbs),  Mag. a Michaela  Hutz  (Zwei-  und  Mehrsprachigkeit), Martina  Pfohl-Chalaupek (Kommunikation und Gesprächskultur, Buchkultur - Literacy - digitale Medien, Sprachförderung durch philosophische Gespräche mit Kindern), Mag. a  Michaela Hajszan (Kommunikation und Gesprächskultur, Buchkultur - Literacy - digitale Medien, Sprachförderung durch philosophische Gespräche mit Kindern, Qualitätsmerkmale für die Sprachförderung), Bakk. Anita Giener und Dr. in Ute Vogl (Transition und Sprachförderung), Dr. in  Luise Hollerer (Beobachtung und Dokumentation der Sprachentwicklung)
+Dr.in Waltraut Hartmann und Mag.a Martina Stoll (Pädagogische Orientierung), Mag.a Lisa Kneidinger (Unterstützung des Spracherwerbs), Mag.a Michaela Hutz (Zwei- und Mehrsprachigkeit), Martina Pfohl-Chalaupek (Kommunikation und Gesprächskultur, Buchkultur – Literacy – digitale Medien, Sprachförderung durch philosophische Gespräche mit Kindern), Mag.a Michaela Hajszan (Kommunikation und Gesprächskultur, Buchkultur – Literacy – digitale Medien, Sprachförderung durch philosophische Gespräche mit Kindern, Qualitätsmerkmale für die Sprachförderung), Bakk. Anita Giener und Dr.in Ute Vogl (Transition und Sprachförderung), Dr.in Luise Hollerer (Beobachtung und Dokumentation der Sprachentwicklung)
 
 ## Projektkoordination und Endredaktion
 
-Mag. a Michaela Hajszan, Mag. a Martina Stoll
+Mag.a Michaela Hajszan, Mag.a Martina Stoll
 
-Wir danken allen Fachexpertinnen und -experten, Institutionen sowie Pädagoginnen und Päda­ gogen, die  im  Rahmen  der  Erstellung  der  Pilotversion  des  Bildungsplan-Anteils  sowie  im Rahmen der Pilotierung Stellungnahmen abgegeben haben, herzlich für ihre Rückmeldungen.
+Wir danken allen Fachexpertinnen und -experten, Institutionen sowie Pädagoginnen und Pädagogen, die im Rahmen der Erstellung der Pilotversion des Bildungsplan-Anteils sowie im Rahmen der Pilotierung Stellungnahmen abgegeben haben, herzlich für ihre Rückmeldungen.
 
 [[END OF PAGE 4]]
 
@@ -50,7 +56,7 @@ Vorwort
 
 ## Professionelle Begleitung beim Spracherwerb
 
-'Ein  Kind  ist  kein  Gefäß,  das  gefüllt,  son­ dern ein Feuer, das entzündet werden will.'
+„Ein Kind ist kein Gefäß, das gefüllt, sondern ein Feuer, das entzündet werden will.“
 
 François Rabelais
 
@@ -58,9 +64,10 @@ Die Ergebnisse der nationalen und internationalen Bildungsforschung zu Fragen de
 
 Im  Jahr  2007  haben  wir  das  Charlotte-Bühler-Institut  für  praxisorientierte  Kleinkindforschung beauftragt, in Abstimmung mit den Ländern, dem Städtebund und dem Gemeindebund für Kinder in elementaren Bildungseinrichtungen einen Orientierungsrahmen für sprachliche Bildung zu erstellen. Nach einer einjährigen Phase der Pilotierung und Einarbeitung von Rückmeldungen aus der Praxis steht die endgültige Version zur Verfügung.
 
-Allen Pädagoginnen und Pädagogen, Eltern und allen fachlich Interessierten möchte ich diesen 'Bildungsplan-Anteil zur sprachlichen Förderung' als Hilfe zur Begleitung der Kinder beim Spracherwerb ans Herz legen und wünsche viel Freude und Erfolg bei der Anwendung.
+Allen Pädagoginnen und Pädagogen, Eltern und allen fachlich Interessierten möchte ich diesen „Bildungsplan-Anteil zur sprachlichen Förderung“ als Hilfe zur Begleitung der Kinder beim Spracherwerb ans Herz legen und wünsche viel Freude und Erfolg bei der Anwendung.
 
-Dr. Claudia Schmied Bundesministerin für Unterricht, Kunst und Kultur
+Dr. Claudia Schmied
+Bundesministerin für Unterricht, Kunst und Kultur
 
 [[END OF PAGE 5]]
 
@@ -68,11 +75,59 @@ Dr. Claudia Schmied Bundesministerin für Unterricht, Kunst und Kultur
 
 Inhalt
 
+Einführung und Überblick 7
+1. Pädagogische Orientierung 9
+1.1 Das Bild vom Kind 9
+1.2 Die Rolle der Pädagoginnen und Pädagogen 9
+1.3 Das Verständnis von Bildung und Kompetenz 10
+1.4 Lernen im Spiel 12
+1.5 Die Bedeutung der Sprachförderung 12
+2. Unterstützung des Spracherwerbs 15
+2.1 Kompetenzen und Bildungsprozesse 16
+2.2 Pädagogische Impulse zur Sprachförderung: Anregungen und Beispiele 17
+2.3 Kooperationsmöglichkeiten mit Familien und Fachkräften 21
+2.4 Leitfragen zur Reflexion 21
+3. Zwei- und Mehrsprachigkeit 23
+3.1 Kompetenzen und Bildungsprozesse 24
+3.2 Pädagogische Impulse zur Sprachförderung: Anregungen und Beispiele 25
+3.3 Kooperationsmöglichkeiten mit Familien und Fachkräften 28
+3.4 Leitfragen zur Reflexion 28
+4. Kommunikation und Gesprächskultur 31
+4.1 Kompetenzen und Bildungsprozesse 32
+4.2 Pädagogische Impulse zur Sprachförderung: Anregungen und Beispiele 32
+4.3 Kooperationsmöglichkeiten mit Familien und Fachkräften 35
+4.4 Leitfragen zur Reflexion 35
+5. Buchkultur – Literacy – digitale Medien 37
+5.1 Kompetenzen und Bildungsprozesse 38
+5.2 Pädagogische Impulse zur Sprachförderung: Anregungen und Beispiele 39
+5.3 Kooperationsmöglichkeiten mit Familien und Fachkräften 43
+5.4 Leitfragen zur Reflexion 43
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 Inhalt
+
+6. Sprachförderung durch philosophische Gespräche mit Kindern 45
+6.1 Kompetenzen und Bildungsprozesse 45
+6.2 Pädagogische Impulse zur Sprachförderung: Anregungen und Beispiele 46
+6.3 Kooperationsmöglichkeiten mit Familien und Fachkräften 49
+6.4 Leitfragen zur Reflexion 49
+7. Transition und Sprachförderung 51
+7.1 Kompetenzen und Bildungsprozesse 52
+7.2 Pädagogische Impulse zur Sprachförderung: Anregungen und Beispiele 53
+7.3 Kooperationsmöglichkeiten mit Familien und Fachkräften 55
+7.4 Leitfragen zur Reflexion 57
+8. Beobachtung und Dokumentation der Sprachentwicklung 59
+8.1 Grundlagen der systematischen Beobachtung 59
+8.2 Beispiele für Verfahren zur Erhebung des Sprachstands 62
+9. Qualitätsmerkmale für die Sprachförderung 65
+9.1 Merkmale der Strukturqualität 65
+9.2 Merkmale der Orientierungsqualität 67
+9.3 Merkmale der Prozessqualität 68
+Summary 71
+Literatur 73
 
 [[END OF PAGE 7]]
 
@@ -90,13 +145,13 @@ Einführung und Überblick
 
 ## Einführung und Überblick
 
-Die elementare Bildung und die Lernprozesse in der frühen Kindheit stehen seit der Veröffentlichung der PISAStudien (Haider & Reiter, 2004; Schreiner, 2007) und des Länderberichts 'Starting Strong' der OECD (2006) wieder im Mittelpunkt der bildungspolitischen Diskussion. Die Empfehlungen der OECD richten sich dahingehend, 'gemeinsame Wertvorstellungen und Bildungsziele, die Österreich für seine jungen Kinder als wichtig erachtet, in einem Rahmenplan zu formulieren' (S. 71).
+Die elementare Bildung und die Lernprozesse in der frühen Kindheit stehen seit der Veröffentlichung der PISA-Studien (Haider & Reiter, 2004; Schreiner, 2007) und des Länderberichts „Starting Strong“ der OECD (2006) wieder im Mittelpunkt der bildungspolitischen Diskussion. Die Empfehlungen der OECD richten sich dahingehend, „gemeinsame Wertvorstellungen und Bildungsziele, die Österreich für seine jungen Kinder als wichtig erachtet, in einem Rahmenplan zu formulieren“ (S. 71).
 
 Den ersten Schritt in diesem Prozess stellt die Entwicklung eines nationalen Bildungsplan-Anteils zur sprachlichen Förderung in elementaren Bildungseinrichtungen dar. Er ist ein Teil des Maßnahmenpakets zur frühen Sprachförderung, das vom BMUKK koordiniert wird.
 
 Aus fachwissenschaftlicher Sicht ist der Bildungsplan-Anteil durch Offenheit, kulturelle Vielfalt und Komplexität gekennzeichnet. Folgende Prinzipien bzw. Leitgedanken werden dabei zugrunde gelegt: Bildung der Gesamtpersönlichkeit,  Entwicklungsangemessenheit  und  Berücksichtigung  des  individuellen  Lerntempos  nach  dem Prinzip der Passung, ganzheitliches Lernen, Bedeutung des Spiels, Integration, Interkulturalität, Genderaspekte, Orientierung an Ressourcen statt an Defiziten, Partizipation von Kindern, Individualisierung und Differenzierung, Sachrichtigkeit, Prozessorientierung sowie Betonung der Bildungspartnerschaft.
 
-Der Bildungsplan-Anteil formuliert Grundlagen für die Arbeit in elementaren Bildungseinrichtungen. Er ist an den kindlichen Fähigkeiten und Kompetenzen orientiert und zielt auf Bildungsprozesse hin, die durch längerfristige pädagogische Interventionen unterstützt werden. Es handelt sich nicht um einen 'Lehrplan', der von jedem Kind mit derselben Geschwindigkeit zu durchlaufen ist. Der Bildungsplan-Anteil soll keinesfalls zu einer Normierung der kindlichen Sprachentwicklung führen. Er ist jedoch Grundlage für die Begleitung, Anregung und Dokumentation der individuellen sprachbezogenen Bildungsprozesse.
+Der Bildungsplan-Anteil formuliert Grundlagen für die Arbeit in elementaren Bildungseinrichtungen. Er ist an den kindlichen Fähigkeiten und Kompetenzen orientiert und zielt auf Bildungsprozesse hin, die durch längerfristige pädagogische Interventionen unterstützt werden. Es handelt sich nicht um einen „Lehrplan“, der von jedem Kind mit derselben Geschwindigkeit zu durchlaufen ist. Der Bildungsplan-Anteil soll keinesfalls zu einer Normierung der kindlichen Sprachentwicklung führen. Er ist jedoch Grundlage für die Begleitung, Anregung und Dokumentation der individuellen sprachbezogenen Bildungsprozesse.
 
 Der Bildungsplan-Anteil für die frühe Sprachförderung bezieht sich auf folgende Aspekte sprachlicher Bildung:
 
@@ -106,7 +161,7 @@ Der Bildungsplan-Anteil für die frühe Sprachförderung bezieht sich auf folgen
 
 - Kommunikation und Gesprächskultur: Sprache wird im Zuge kommunikativer Prozesse erworben, die den gesamten Alltag in elementaren Bildungseinrichtungen durchziehen. Kommunikation geht dabei weit über das gesprochene Wort hinaus und zeichnet sich durch vielfältige non- und paraverbale Ausdrucksformen aus.
 
-- Buchkultur - Literacy - digitale Medien: Das Angebot von Kinderliteratur und die Auseinandersetzung mit Schriftkultur und verschiedenen Medien eignet sich in besonderem Maße zur Anregung von vielfältigen und komplexen sprachbezogenen Bildungsprozessen.
+- Buchkultur – Literacy – digitale Medien: Das Angebot von Kinderliteratur und die Auseinandersetzung mit Schriftkultur und verschiedenen Medien eignet sich in besonderem Maße zur Anregung von vielfältigen und komplexen sprachbezogenen Bildungsprozessen.
 
 Bildungsplan-Anteil © 2009
 
@@ -122,7 +177,7 @@ Einführung und Überblick
 
 - Transition und Sprachförderung: Sprache leistet als Schlüsselkompetenz einen wesentlichen Beitrag zur Bewältigung von Transitionen, z. B. des Übergangs vom Kindergarten in die Volksschule.
 
-Die jeweils angeführten Kompetenzen des Kindes sind als Orientierungsrahmen zu verstehen; sie dienen dazu, individuelle Bildungsangebote zu planen und umzusetzen. Gemeinsam mit dem Kapitel 'Pädagogische Orien­ tierung' und den grundlegenden Ausführungen am Beginn jedes Kapitels zählen sie zum Kernbereich des vorliegenden Bildungsplan-Anteils. Dieser Kernbereich wird durch Leitfragen zur Reflexion komplettiert.
+Die jeweils angeführten Kompetenzen des Kindes sind als Orientierungsrahmen zu verstehen; sie dienen dazu, individuelle Bildungsangebote zu planen und umzusetzen. Gemeinsam mit dem Kapitel „Pädagogische Orientierung“ und den grundlegenden Ausführungen am Beginn jedes Kapitels zählen sie zum Kernbereich des vorliegenden Bildungsplan-Anteils. Dieser Kernbereich wird durch Leitfragen zur Reflexion komplettiert.
 
 Die Anregungen zur Gestaltung der kindlichen Lernumwelt sind exemplarisch zu verstehen. Sie stellen einen Teilausschnitt der Möglichkeiten dar, die in elementaren Bildungseinrichtungen angeboten werden können. Sie sind  keineswegs als  Checkliste  zu  verstehen,  sondern  ergänzen  und  veranschaulichen  das  Grundgerüst  der sprachlichen Bildungs- und Kompetenzbereiche. Erst durch die Professionalität der Pädagoginnen und Pädagogen wird eine Umsetzung vor Ort möglich, die am Potenzial des einzelnen Kindes orientiert ist und die frühe Sprachförderung zu einer Bereicherung werden lässt.
 
@@ -144,7 +199,7 @@ Bildungsplan-Anteil © 2009
 
 Das Bild vom Kind hat sich durch die Erkenntnisse der Entwicklungspsychologie und der Neurobiologie grundlegend verändert. Aufgrund ihrer erstaunlichen Lernfähigkeit in den ersten Lebensjahren wird Kindern ein hohes Maß an Kompetenz und Selbststeuerung zugeschrieben (Kautter, Klein, Laupheimer & Wiegand, 1988; Dornes, 1993; Gopnik, Kuhl & Meltzoff, 2001).
 
-Dem Bildungsplan-Anteil liegt ein Bild vom Kind zugrunde, das die kindliche Kompetenz zur Lebensbewältigung anerkennt. Schon Neugeborene verändern, differenzieren und präzisieren durch neue Erfahrungen ihre Fähigkeiten. Kinder haben physische und psychische Grundbedürfnisse: Sie streben sowohl nach Unabhängigkeit als auch nach Zugehörigkeit, sie sind lernfreudig, neugierig und spontan. Kinder sind bestrebt, die Welt zu erforschen, sie entwickeln eigene Lösungsstrategien und stellen viele Fragen - dies trägt zu ihrer sprachlichen und kognitiven Entwicklung bei. Kinder haben auch ein Bedürfnis nach Kommunikation. In einer kindorientierten, verständnisvollen Umwelt sind sie zur Selbstbestimmung fähig und können ihre personale Kompetenz entwickeln.
+Dem Bildungsplan-Anteil liegt ein Bild vom Kind zugrunde, das die kindliche Kompetenz zur Lebensbewältigung anerkennt. Schon Neugeborene verändern, differenzieren und präzisieren durch neue Erfahrungen ihre Fähigkeiten. Kinder haben physische und psychische Grundbedürfnisse: Sie streben sowohl nach Unabhängigkeit als auch nach Zugehörigkeit, sie sind lernfreudig, neugierig und spontan. Kinder sind bestrebt, die Welt zu erforschen, sie entwickeln eigene Lösungsstrategien und stellen viele Fragen – dies trägt zu ihrer sprachlichen und kognitiven Entwicklung bei. Kinder haben auch ein Bedürfnis nach Kommunikation. In einer kindorientierten, verständnisvollen Umwelt sind sie zur Selbstbestimmung fähig und können ihre personale Kompetenz entwickeln.
 
 Es ist wichtig zu akzeptieren, dass Kindsein - unabhängig vom Erwachsenenleben - eine eigene Qualität hat. Da Kinder eigenständige Persönlichkeiten sind, haben sie auch ein Recht darauf, ihre Gefühle und Bedürfnisse zu äußern, dabei ernst genommen und als gleichberechtigt akzeptiert zu werden.
 
@@ -154,7 +209,7 @@ Erwachsenen fällt die Aufgabe zu, die Lebensumstände der Kinder so zu gestalte
 
 Wenn Kinder als aktiv, kompetent und gleichberechtigt anerkannt werden, dann verändert sich auch die Rolle der Erwachsenen: Sie besteht im Initiieren, Begleiten und Unterstützen der kindlichen Bildungsprozesse.
 
-Eine  grundlegende  Aufgabe  ist  es,  in  elementaren  Bildungseinrichtungen  eine  Atmosphäre  des  Vertrauens, der Geborgenheit und der Akzeptanz zu schaffen. Dazu gehören die Achtung vor der Würde der Kinder und das Respektieren ihrer Rechte. Pädagoginnen und Pädagogen bemühen sich, die Kinder in ihrer Individualität anzunehmen und sie mit ihren Fähigkeiten, Bedürfnissen und persönlichen Vorstellungen zu akzeptieren. Sie ermöglichen den Aufbau zuverlässiger und stabiler Beziehungen zu den Kindern und innerhalb der Gruppe und bringen sich mit ihrer Person in die pädagogische Arbeit ein. Sie fördern die Kommunikations- und Konfliktkultur in elementaren Bildungseinrichtungen, indem sie z. B. bei Bedarf Konflikte aufgreifen und die Kinder unterstützen, selbst Bewältigungsstrategien zu finden. Insbesondere fördern Pädagoginnen und Pädagogen die Eigeninitiative und die Lernprozesse der Kinder. Sie begleiten und ermutigen sie in einer prozessorientierten Arbeit, die eigenen Fähigkeiten zu erproben, Neues zu entdecken und Grenzen zu überwinden. Durch Zurückhaltung und Zurücknahme ermöglichen sie den Kindern das Finden eigener Lösungen für Probleme, statt vorgefertigte Lösungsmuster anzubieten. Indem sich die Pädagoginnen und Pädagogen auf die Interessen und Aktivitäten der Kinder einlassen, werden auch sie zu Lernenden und Forschenden. Im Bewusstsein ihrer pädagogischen Verantwortung an einer Schlüsselstelle der Gesellschaft sind sie bereit, ihre Wertorientierungen und ihr Verhalten immer wieder zu reflektieren.
+Eine grundlegende Aufgabe ist es, in elementaren Bildungseinrichtungen eine Atmosphäre des Vertrauens, der Geborgenheit und der Akzeptanz zu schaffen. Dazu gehören die Achtung vor der Würde der Kinder und das Respektieren ihrer Rechte. Pädagoginnen und Pädagogen bemühen sich, die Kinder in ihrer Individualität anzunehmen und sie mit ihren Fähigkeiten, Bedürfnissen und persönlichen Vorstellungen zu akzeptieren. Sie ermöglichen den Aufbau zuverlässiger und stabiler Beziehungen zu den Kindern und innerhalb der Gruppe und bringen sich mit ihrer Person in die pädagogische Arbeit ein. Sie fördern die Kommunikations- und Konfliktkultur in elementaren Bildungseinrichtungen, indem sie z. B. bei Bedarf Konflikte aufgreifen und die Kinder unterstützen, selbst Bewältigungsstrategien zu finden. Insbesondere fördern Pädagoginnen und Pädagogen die Eigeninitiative und die Lernprozesse der Kinder. Sie begleiten und ermutigen sie in einer prozessorientierten Arbeit,
 
 Bildungsplan-Anteil © 2009
 
@@ -165,6 +220,8 @@ Bildungsplan-Anteil © 2009
 [[START OF PAGE 12]]
 
 1. Pädagogische Orientierung
+
+die eigenen Fähigkeiten zu erproben, Neues zu entdecken und Grenzen zu überwinden. Durch Zurückhaltung und Zurücknahme ermöglichen sie den Kindern das Finden eigener Lösungen für Probleme, statt vorgefertigte Lösungsmuster anzubieten. Indem sich die Pädagoginnen und Pädagogen auf die Interessen und Aktivitäten der Kinder einlassen, werden auch sie zu Lernenden und Forschenden. Im Bewusstsein ihrer pädagogischen Verantwortung an einer Schlüsselstelle der Gesellschaft sind sie bereit, ihre Wertorientierungen und ihr Verhalten immer wieder zu reflektieren.
 
 Pädagoginnen und Pädagogen gestalten aufgrund von fachspezifischem Wissen eine entwicklungs- und bildungsfördernde  Umwelt.  Sie  stellen  Raum,  Zeit,  vielfältige  Materialien  und  Anregungen  zur  Verfügung  und gewähren den Kindern Freiräume, sich entsprechend ihrer eigenen Bedürfnisse mit den Bildungsangeboten auseinanderzusetzen. Inhalte und methodische Gestaltung der Bildungsangebote sind darauf ausgerichtet, Kommunikation zwischen den Kindern und ihrer Umwelt zu ermöglichen. Im Vordergrund steht die Qualität der Bildungsprozesse.
 
@@ -202,7 +259,7 @@ Kompetenz ist die Kapazität einer Person, mit ihren persönlichen Ressourcen un
 
 Die  Entwicklung  von  Kompetenz  wird  als  ein  dynamischer  und  wechselseitiger  Prozess  zwischen  Kind  und Umwelt  verstanden.  Die  Anregung  von  Bildungsprozessen  durch  elementare  Bildungseinrichtungen  und  die Möglichkeiten,  den  Alltag  mitzugestalten  und  Entscheidungen  zu  treffen,  tragen  dazu  bei,  dass  Kinder  sich selbst als effektiv und kompetent erleben. Das Angenommenwerden und die Erfahrung von Wertschätzung der Individualität des Kindes fördern seine Selbstwirksamkeit. Eine höhere kindliche Kompetenz wird wiederum mit gesteigerten Erwartungen von Seiten der Erwachsenen konfrontiert. In diesem spiralförmigen Prozess zeigt sich, dass Kinder sehr wohl im Stande sind, ihre eigene Entwicklung voranzutreiben.
 
-Bildung geht über die reine Wissensvermittlung im Sinne von Sachkompetenz hinaus und schließt die Förderung einer alters- und entwicklungsgemäßen personalen und sozial-kommunikativen Kompetenz sowie der lernmetho­ dischen Kompetenz ein.
+Bildung geht über die reine Wissensvermittlung im Sinne von Sachkompetenz hinaus und schließt die Förderung einer alters- und entwicklungsgemäßen personalen und sozial-kommunikativen Kompetenz sowie der lernmethodischen Kompetenz ein.
 
 Die Förderung der personalen Kompetenz (Selbstkompetenz) beinhaltet, sich selbst und seinen Körper in seiner Gesamtheit emotional, mit allen Sinnen zu erleben und kognitiv zu erfahren. Bildungsangebote sollten daher auf die individuellen Bedürfnisse und Interessen der Kinder eingehen und ihre Selbstständigkeit, ihr Selbstwertgefühl, ihre Kreativität und Neugierde fördern.
 
@@ -234,7 +291,7 @@ Im Spiel vollziehen sich Lernprozesse, die flexibel und offen auf die sich verä
 
 Das Spiel zeichnet sich durch wichtige Merkmale aus (Hartmann, Neugebauer & Rieß, 1988; Hartmann, 2005): Dazu gehören die intrinsische Motivation, mit der die Kinder eine Aktivität wählen, der handelnde Umgang mit den Dingen als Grundlage für das anschauliche Denken, die lustvolle Betätigung und schließlich die sprachliche Kommunikation mit anderen Kindern.
 
-Das Spiel stimuliert aktive und kreative Lernprozesse, auf die weder in elementaren Bildungseinrichtungen noch in der Volksschule verzichtet werden kann. Die grundlegende Bedeutung des 'Lernens im Spiel' ist daher auch im österreichischen Lehrplan für die Volksschule seit dem Jahr 1986 festgeschrieben und dient u. a. dazu, den Schuleintritt zu erleichtern (Lehrplan der Volksschule, 2003, S. 29).
+Das Spiel stimuliert aktive und kreative Lernprozesse, auf die weder in elementaren Bildungseinrichtungen noch in der Volksschule verzichtet werden kann. Die grundlegende Bedeutung des „Lernens im Spiel“ ist daher auch im österreichischen Lehrplan für die Volksschule seit dem Jahr 1986 festgeschrieben und dient u. a. dazu, den Schuleintritt zu erleichtern (Lehrplan der Volksschule, 2003, S. 29).
 
 In den folgenden Kapiteln dieses Bildungsplan-Anteils zur Sprachförderung findet das Spiel als eine wesentliche Lernquelle für Kinder größtmögliche Beachtung.
 
@@ -296,9 +353,9 @@ Bildungsplan-Anteil © 2009
 
 2. Unterstützung des Spracherwerbs
 
-## 2. Unterstützung des Sprach­ erwerbs
+## 2. Unterstützung des Spracherwerbs
 
-Spracherwerb wird durch das Zusammenwirken vielfältiger Prozesse, Strategien und Ressourcen möglich. Das Kind bringt die für den Spracherwerb notwendigen Entwicklungsvoraussetzungen mit, die in Reifungsprozessen ausgebildet werden. Die tatsächliche Entwicklung sprachlicher Kompetenzen 'erfolgt jedoch kulturell über die jeweilige Sprachgemeinschaft' (Günther & Günther, 2007, S. 31). Sprache wird über Interaktionen mit primären und sekundären Bezugspersonen und in der aktiven und selbsttätigen Auseinandersetzung mit der Umwelt erworben.
+Spracherwerb wird durch das Zusammenwirken vielfältiger Prozesse, Strategien und Ressourcen möglich. Das Kind bringt die für den Spracherwerb notwendigen Entwicklungsvoraussetzungen mit, die in Reifungsprozessen ausgebildet werden. Die tatsächliche Entwicklung sprachlicher Kompetenzen „erfolgt jedoch kulturell über die jeweilige Sprachgemeinschaft“ (Günther & Günther, 2007, S. 31). Sprache wird über Interaktionen mit primären und sekundären Bezugspersonen und in der aktiven und selbsttätigen Auseinandersetzung mit der Umwelt erworben.
 
 Folgende Schritte zeichnen den Spracherwerb aus: Das Kind orientiert sich zuerst an Einzelelementen (Phonemen oder Wörtern), reiht diese aneinander, kombiniert sie nach bestimmten Regeln und differenziert diese Regeln aus (Kracht, 2007).
 
@@ -342,7 +399,7 @@ Bildungsplan-Anteil © 2009
 
 - Kinder unterscheiden sich in ihrem Spracherwerb hinsichtlich Lernweise, Lernstil und Lerntempo.
 
-Eine wesentliche Voraussetzung für den Spracherwerb ist das kurzfristige Bereithalten von sprachrelevanten Informationen im Arbeitsgedächtnis. Damit wird es dem Kind möglich, dass es sich auch am Ende eines Satzes noch an den Anfang erinnern kann. Gleichzeitig unterstützt das Arbeitsgedächtnis die Verarbeitung gehörter Inhalte,  also  das  Verstehen  von  Gesprochenem. Mit Hilfe des phonologischen Arbeitsgedächtnisses können einzelne Laute und Wörter aus dem Lautstrom sprachlicher Äußerungen identifiziert werden. Dies ist Teil der phonologischen Bewusstheit. Darunter versteht man 'die Fähigkeit, die Aufmerksamkeit auf die formalen Eigenschaften der gesprochenen Sprache zu lenken, z. B. auf Wörter als Teile von Sätzen, auf Silben als Teile von Wörtern und auf die einzelnen Laute' (Sander & Spanier, 2006, S. 24).
+Eine wesentliche Voraussetzung für den Spracherwerb ist das kurzfristige Bereithalten von sprachrelevanten Informationen im Arbeitsgedächtnis. Damit wird es dem Kind möglich, dass es sich auch am Ende eines Satzes noch an den Anfang erinnern kann. Gleichzeitig unterstützt das Arbeitsgedächtnis die Verarbeitung gehörter Inhalte, also das Verstehen von Gesprochenem. Mit Hilfe des phonologischen Arbeitsgedächtnisses können einzelne Laute und Wörter aus dem Lautstrom sprachlicher Äußerungen identifiziert werden. Dies ist Teil der phonologischen Bewusstheit. Darunter versteht man „die Fähigkeit, die Aufmerksamkeit auf die formalen Eigenschaften der gesprochenen Sprache zu lenken, z. B. auf Wörter als Teile von Sätzen, auf Silben als Teile von Wörtern und auf die einzelnen Laute“ (Sander & Spanier, 2006, S. 24).
 
 Die Begleitung des Spracherwerbs umfasst die Unterstützung der kindlichen Sprachkompetenz und des Sprachbewusstseins. Diese beiden Aspekte müssen in ein sprachförderndes Klima eingebettet sein, in dem das Kind Sprache als Mittel zur Kommunikation und zum Austausch erlebt. Sprachförderung ist als kontinuierliches pädagogisches Angebot (im Sinne eines reichhaltigen Netzes sprachfördernder Anregungen) zu verstehen. Basis dafür ist die Orientierung an den Ressourcen der Kinder: Sprachförderung geht von den beobachteten Stärken der Mädchen und Buben aus und beachtet ihre sprachliche Individualität und ihre entwicklungsbedingten Voraussetzungen (Wahrnehmung, Motorik, Sozialverhalten, Lernmotivation). Sprachbildung ist eng an die aktuellen Bedürfnisse und Interessen der Kinder sowie an konkrete Handlungszusammenhänge gebunden.
 
@@ -446,7 +503,7 @@ Bildungsplan-Anteil © 2009
 
 2. Unterstützung des Spracherwerbs
 
-Hauptsätzen eine Hauptsatz-Nebensatz-Konstruktion bilden; Sätze nicht immer mit dem Subjekt beginnen, um unterschiedliche Aussagen zu erzielen, z. B. 'Weinend stand das Schaf am Zaun' statt 'Das Schaf stand am Zaun und weinte')
+Hauptsätzen eine Hauptsatz-Nebensatz-Konstruktion bilden; Sätze nicht immer mit dem Subjekt beginnen, um unterschiedliche Aussagen zu erzielen, z. B. „Weinend stand das Schaf am Zaun“ statt „Das Schaf stand am Zaun und weinte“)
 
 Alle Mitglieder des pädagogischen Teams sind sich ihrer Rolle als Sprachvorbilder bewusst, indem sie
 
@@ -480,13 +537,13 @@ Materialien, die im Rahmen der Sprachförderung zum Einsatz kommen, sollen einen
 
 - Montessorimaterialien zur Differenzierung von Begriffen
 
-- Materialien für das Symbol- und Rollenspiel (Familienspiel, Dramatisieren, Handpuppenspiel, KleineWelt-Spiel) attraktiv und jederzeit zugänglich anbieten; auf Differenziertheit hinsichtlich Kultur und Geschlecht achten; individuelle Erfahrungen und Interessen der Kinder berücksichtigen
+- Materialien für das Symbol- und Rollenspiel (Familienspiel, Dramatisieren, Handpuppenspiel, Kleine-Welt-Spiel) attraktiv und jederzeit zugänglich anbieten; auf Differenziertheit hinsichtlich Kultur und Geschlecht achten; individuelle Erfahrungen und Interessen der Kinder berücksichtigen
 
 - verschiedene Klangerlebnisse ermöglichen, z. B. durch Aufnahme von Alltags- oder Verkehrsgeräuschen oder verzerrte Sprachaufnahmen
 
 #### 2.2.3 Exemplarische Bildungsangebote
 
-Bei der Planung und Umsetzung von kurzfristigen und prozessorientierten Bildungsangeboten im Rahmen der Sprachförderung  steht  das  Spiel  als  wesentlichste  Lernform  im  Vorschulalter  im  Zentrum.  Sprachfördernde Bildungsangebote müssen methodisch, sozial und medial vielfältig geplant werden, damit sie das erfahrungsgeleitete, entdeckende und handelnde Lernen herausfordern und Bildungsprozesse ganzheitlich unterstützen. Dies bedeutet, den Erfahrungs-, Könnens- und Wissenskontext, den ein Kind mitbringt, zu berücksichtigen. 'Ganzheitliche Sprachförderung umfasst die verschiedenen Ebenen der Sprache: Bildungsangebote beziehen neben verbalen Äußerungen auch Körpersprache und situative Aspekte des Kommunikationsprozesses ein' (Zehnbauer & Jampert, 2007, S. 34).
+Bei der Planung und Umsetzung von kurzfristigen und prozessorientierten Bildungsangeboten im Rahmen der Sprachförderung steht das Spiel als wesentlichste Lernform im Vorschulalter im Zentrum. Sprachfördernde Bildungsangebote müssen methodisch, sozial und medial vielfältig geplant werden, damit sie das erfahrungsgeleitete, entdeckende und handelnde Lernen herausfordern und Bildungsprozesse ganzheitlich unterstützen. Dies bedeutet, den Erfahrungs-, Könnens- und Wissenskontext, den ein Kind mitbringt, zu berücksichtigen. „Ganzheitliche Sprachförderung umfasst die verschiedenen Ebenen der Sprache: Bildungsangebote beziehen neben
 
 18
 
@@ -497,6 +554,8 @@ Bildungsplan-Anteil © 2009
 [[START OF PAGE 21]]
 
 2. Unterstützung des Spracherwerbs
+
+verbalen Äußerungen auch Körpersprache und situative Aspekte des Kommunikationsprozesses ein“ (Zehnbauer & Jampert, 2007, S. 34).
 
 ##### Spiele als sprachfördernde Bildungsangebote
 
@@ -518,7 +577,7 @@ Bildungsplan-Anteil © 2009
 
 - Syntax: Ich sitze im Zug und fahre nach ...
 
-- Lexik/Semantik: Ich seh', ich seh', was du nicht siehst …
+- Lexik/Semantik: Ich seh’, ich seh’, was du nicht siehst …
 
 - Pragmatik/Diskurs: Rollenspiele
 
@@ -528,7 +587,7 @@ Bildungsplan-Anteil © 2009
 
 - Einsatz verschiedener Fragetechniken, um den Gesprächsverlauf zu sichern
 
-- Beachtung einer differenzierten Begriffswahl (z. B. differenzierte Verben wie 'bilden', 'formen' oder 'zubereiten' anstatt des Verbs 'machen' verwenden)
+- Beachtung einer differenzierten Begriffswahl (z. B. differenzierte Verben wie „bilden“, „formen“ oder „zubereiten“ anstatt des Verbs „machen“ verwenden)
 
 - Vorbereitung von Gesprächen zu verschiedenen Themen (Sachgespräche, Konfliktgespräche etc.)
 
@@ -538,15 +597,15 @@ Bildungsplan-Anteil © 2009
 
 - Sprache bei Tieren: Wie verständigen sich Tiere? Welche anderen Möglichkeiten der Mitteilung außer Lautäußerungen nutzen sie?
 
-- Sprache im Märchen: ein Märchen aus verschiedenen Perspektiven erzählen (z. B. Wie würde der Prinz aus dem Märchen 'Rapunzel' den Verlauf der Geschichte darstellen?)
+- Sprache im Märchen: ein Märchen aus verschiedenen Perspektiven erzählen (z. B. Wie würde der Prinz aus dem Märchen „Rapunzel“ den Verlauf der Geschichte darstellen?)
 
 - Kinderkonferenzen
 
 #### 2.2.4 Differenzierung und Individualisierung
 
-Bei der Sprachentwicklung ist auf Differenzierung und Individualisierung in Bezug auf den Entwicklungsstand, die besonderen Begabungen und Interessen sowie auf Auffälligkeiten zu achten. Die Förderung der Sprach­ entwicklung setzt an der individuellen Kompetenz in den jeweiligen sprachlichen Teilqualifikationen des Kindes an und folgt einem ressourcenorientierten Ansatz.
+Bei der Sprachentwicklung ist auf Differenzierung und Individualisierung in Bezug auf den Entwicklungsstand, die besonderen Begabungen und Interessen sowie auf Auffälligkeiten zu achten. Die Förderung der Sprachentwicklung setzt an der individuellen Kompetenz in den jeweiligen sprachlichen Teilqualifikationen des Kindes an und folgt einem ressourcenorientierten Ansatz.
 
-Kinder mit besonderen Begabungen im sprachlichen Bereich fallen durch eine sehr differenzierte Sprache auf. Sie stellen zahlreiche Fragen nach Zusammenhängen und Ursachen. Dieses Interesse sollte durch besondere Bildungsangebote (Vorlesen längerer Erzählungen, Verwenden komplexerer Satzkonstruktionen, Auswahl herausfordernder Materialien, z. B. Erstlesebücher) gezielt berücksichtigt werden.
+Kinder mit besonderen Begabungen im sprachlichen Bereich fallen durch eine sehr differenzierte Sprache auf. Sie stellen zahlreiche Fragen nach Zusammenhängen und Ursachen. Dieses Interesse sollte durch besondere
 
 Bildungsplan-Anteil © 2009
 
@@ -558,6 +617,8 @@ Bildungsplan-Anteil © 2009
 
 2. Unterstützung des Spracherwerbs
 
+Bildungsangebote (Vorlesen längerer Erzählungen, Verwenden komplexerer Satzkonstruktionen, Auswahl herausfordernder Materialien, z. B. Erstlesebücher) gezielt berücksichtigt werden.
+
 Bei Auffälligkeiten in der Sprachentwicklung kann zwischen Sprech- und Kommunikationsstörungen bzw. Aussprach- und Artikulationsstörungen unterschieden werden. In diesen Fällen sind eine differenzierte Beobachtung und gegebenenfalls eine diagnostische Abklärung durch externe Fachkräfte (z. B. Logopädinnen und Logopäden, Sonderkindergartenpädagoginnen und -pädagogen, Psychologinnen und Psychologen) notwendig. Auf Kinder mit einer anderen Erstsprache als Deutsch wird in Kapitel 3 genauer eingegangen.
 
 Kinder im letzten Kindergartenjahr zeigen im Vergleich zu jüngeren Kindern ein verändertes Sprachverhalten. Das Hinterfragen und Suchen von Gemeinsamkeiten und Unterschieden rückt zunehmend in den Vordergrund. Diese Kinder brauchen gezielte Bildungsangebote, die sie z. B. zum Nachdenken über Formen und Strukturen von Sprache herausfordern. Mit Anregungen dieser Art werden auch ihre lernmethodischen und metalinguistischen Kompetenzen gefördert. Pädagoginnen und Pädagogen sollten darüber hinaus die handlungsanleitende Funktion der inneren Sprache, die Kinder im letzten Kindergartenjahr zunehmend nutzen, berücksichtigen. Kinder können innere Dialoge dann als Hilfestellung bei der Problembewältigung einsetzen, wenn sie auf innere Repräsentationen von Ermutigungen und Erklärungen der Erwachsenen zurückgreifen können.
@@ -566,7 +627,7 @@ Kinder im letzten Kindergartenjahr zeigen im Vergleich zu jüngeren Kindern ein 
 
 Die Unterstützung des Spracherwerbs kann als Querschnittsaufgabe in elementaren Bildungseinrichtungen betrachtet werden und bezieht sich auf Angebote in allen Bildungsbereichen.
 
-Der Aufbau von Satzverständnis und Satzgedächtnis hängt eng mit Bewegung zusammen. Kindern mit gut entwickelter Koordinationsfähigkeit und Geschicklichkeit sowie einem guten Gleichgewichtsvermögen gelingt das Verstehen von Sprache, aber auch das Merken von gesprochenen Sätzen leichter (Zimmer, 2005). Daher ist es wichtig, die kindliche Lust und Freude an der Bewegung durch vielfältige Möglichkeiten zu stärken. ­ 'Bewegungsangebote schaffen Sprachanlässe' (Jampert, Leuckefeld, Zehnbauer & Best, 2006, S. 81):
+Der Aufbau von Satzverständnis und Satzgedächtnis hängt eng mit Bewegung zusammen. Kindern mit gut entwickelter Koordinationsfähigkeit und Geschicklichkeit sowie einem guten Gleichgewichtsvermögen gelingt das Verstehen von Sprache, aber auch das Merken von gesprochenen Sätzen leichter (Zimmer, 2005). Daher ist es wichtig, die kindliche Lust und Freude an der Bewegung durch vielfältige Möglichkeiten zu stärken. „Bewegungsangebote schaffen Sprachanlässe“ (Jampert, Leuckefeld, Zehnbauer & Best, 2006, S. 81):
 
 - Bewegungseindrücke, welche für Kinder Herausforderungscharakter haben (z. B. Seilbrücken, Kletterwände, Sprünge aus angemessener Höhe) und interessante Spiele (Detektivspiel, Schatzsuche, Tiefseeabenteuer, Raumfahrt etc.) verlangen nach sprachlichem Ausdruck.
 
@@ -584,7 +645,7 @@ Bildungsplan-Anteil © 2009
 
 2. Unterstützung des Spracherwerbs
 
-Weiters hängt Sprache auch mit dem Bildungsbereich Ästhetik und Gestaltung ,  insbesondere  mit  Musik, zusammen. 'Musikalische Aktivitäten bieten eine Fülle an kommunikativem Potenzial.' (Jampert et al., 2006, ­ S. 53)­  Sprache enthält zahlreiche musikalische Elemente (z. B. wie Klang, Melodie, Rhythmus, Phrasierung), daher sollten in der Sprachförderung folgende musikalische Ebenen beachtet werden:
+Weiters hängt Sprache auch mit dem Bildungsbereich Ästhetik und Gestaltung, insbesondere mit Musik, zusammen. „Musikalische Aktivitäten bieten eine Fülle an kommunikativem Potenzial.“ (Jampert et al., 2006, S. 53) Sprache enthält zahlreiche musikalische Elemente (z. B. wie Klang, Melodie, Rhythmus, Phrasierung), daher sollten in der Sprachförderung folgende musikalische Ebenen beachtet werden:
 
 - Klangwahrnehmung und (Sprach-)Melodie (Prosodie)
 
@@ -598,7 +659,7 @@ Weiters hängt Sprache auch mit dem Bildungsbereich Ästhetik und Gestaltung ,  
 
 #### 2.3.1 Bildungspartnerschaft mit Eltern
 
-Eltern tragen wesentlich zur Förderung der Sprachentwicklung ihrer Kinder bei. Sie begleiten das Kind seit seiner Geburt beim Spracherwerb und sind ein wichtiges Sprachvorbild. In der Kooperation mit der Einrichtung kann dieses elterliche 'Expertenwissen' mit dem Fachwissen der Pädagoginnen und Pädagogen vernetzt werden, sodass die weitere Sprachentwicklung des Kindes von beiden Seiten bestmöglich unterstützt wird.
+Eltern tragen wesentlich zur Förderung der Sprachentwicklung ihrer Kinder bei. Sie begleiten das Kind seit seiner Geburt beim Spracherwerb und sind ein wichtiges Sprachvorbild. In der Kooperation mit der Einrichtung kann dieses elterliche „Expertenwissen“ mit dem Fachwissen der Pädagoginnen und Pädagogen vernetzt werden, sodass die weitere Sprachentwicklung des Kindes von beiden Seiten bestmöglich unterstützt wird.
 
 Elementare Bildungseinrichtungen können Folgendes zur Vernetzung beitragen:
 
@@ -660,7 +721,7 @@ Bildungsplan-Anteil © 2009
 
 ## 3.	Zwei- und Mehrsprachigkeit
 
-Zwei- oder Mehrsprachigkeit liegt dann vor, wenn ein Kind zwei oder mehrere Sprachen täglich als Mittel der sprachlichen Kommunikation einsetzen kann (Günther & Günther, 2007). Dabei können zwei Sprachen gleichzeitig - wie zwei Erstsprachen - erworben werden (simultaner Zweitspracherwerb), etwa wenn beide Sprachen im unmittelbaren Umfeld des Kindes gesprochen werden. Ein späterer Zweitspracherwerb (sukzessiver Zweitspracherwerb, etwa ab dem vierten Lebensjahr) baut auf eine bereits (teilweise) entwickelte Erstsprache auf und findet z. B. dann statt, wenn ein Kind mit einer anderen Erstsprache als Deutsch in eine elementare Bildungseinrichtung eintritt.
+Zwei- oder Mehrsprachigkeit liegt dann vor, wenn ein Kind zwei oder mehrere Sprachen täglich als Mittel der sprachlichen Kommunikation einsetzen kann (Günther & Günther, 2007). Dabei können zwei Sprachen gleichzeitig – wie zwei Erstsprachen – erworben werden (simultaner Zweitspracherwerb), etwa wenn beide Sprachen im unmittelbaren Umfeld des Kindes gesprochen werden. Ein späterer Zweitspracherwerb (sukzessiver Zweitspracherwerb, etwa ab dem vierten Lebensjahr) baut auf eine bereits (teilweise) entwickelte Erstsprache auf und findet z. B. dann statt, wenn ein Kind mit einer anderen Erstsprache als Deutsch in eine elementare Bildungseinrichtung eintritt.
 
 Kracht (2007) spricht von lebensweltlicher Mehrsprachigkeit, wenn z. B. im Leben der Kinder unter Migrationsbedingungen mehreren Sprachen Bedeutung zukommt. Die Kinder sind auf den Gebrauch mehrerer Sprachen angewiesen, um ihr Leben gestalten zu können und handlungsfähig zu sein. Sie sind mit der Entwicklungsaufgabe der Mehrsprachigkeit konfrontiert; Mehrsprachigkeit besitzt für sie Entwicklungs- und Bildungsrelevanz. In der Sprachwissenschaft wird betont, dass Kinder problemlos mit mehreren Sprachen aufwachsen können und eine mehrsprachige Erziehung sogar empfehlenswert und gewinnbringend ist. Das Überwinden einer monolingualen (einsprachigen) Perspektive wird dringend angeraten (Gombos, 2003; Schneider, 2003; Schaner-Wolles, 2005a, 2005b; Ulich, 2000a). Das Erlernen einer Zweitsprache hat ganz allgemein positive Auswirkungen auf die kognitive Entwicklung.
 
@@ -686,11 +747,11 @@ Bildungsplan-Anteil © 2009
 
 3. Zwei- und Mehrsprachigkeit
 
-­ weiterhin in der Familie gefestigt werden und auch in elementaren Bildungseinrichtungen einen hohen Stellenwert besitzen. Dies beugt einer doppelten Halbsprachigkeit vor (Mitroviç, 2004). Der Erstsprache kommt auch für die Persönlichkeitsentwicklung und Identität des Kindes große Bedeutung zu, da sein Selbstkonzept darauf aufbaut. So ist das Recht auf die Familiensprache im Artikel 30 der UN-Kinderrechtskonvention verankert (Generalversammlung der Vereinten Nationen, 1989).
+weiterhin in der Familie gefestigt werden und auch in elementaren Bildungseinrichtungen einen hohen Stellenwert besitzen. Dies beugt einer doppelten Halbsprachigkeit vor (Mitroviç, 2004). Der Erstsprache kommt auch für die Persönlichkeitsentwicklung und Identität des Kindes große Bedeutung zu, da sein Selbstkonzept darauf aufbaut. So ist das Recht auf die Familiensprache im Artikel 30 der UN-Kinderrechtskonvention verankert (Generalversammlung der Vereinten Nationen, 1989).
 
-Die Förderung von Zwei- und Mehrsprachigkeit in elementaren Bildungseinrichtungen geht mit den Prinzi­ pien einer interkulturellen Pädagogik Hand in Hand. 'Interkulturelles Lernen heißt, Unvertrautem mit Neugierde zu begegnen, das Fremde als Bereicherung der eigenen Kultur und als selbstverständlichen Teil des Alltags wahrnehmen und erfahren' (BMWAG 1997, zitiert nach Böhm & Böhm, 1999, S. 35). Interkulturelles Lernen ist ein  mehrdimensionaler  Prozess,  der  sich  sowohl  auf  kognitive  als  auch  auf  soziale  und  emotionale  Aspekte bezieht. Die gesellschaftliche und kulturelle Vielfalt sowie Unterschiede zwischen Menschen werden bewusst wahrgenommen und als Bereicherung für die Bildungsarbeit mit den Kindern gesehen. Dabei gilt es, Klischees, Vorurteile und Verallgemeinerungen kritisch zu hinterfragen. Durch interkulturell geprägte Lernprozesse können sich Einstellungen verändern und Handlungskompetenzen entwickeln, die sich auf vielfältige kulturelle Gegebenheiten beziehen.
+Die Förderung von Zwei- und Mehrsprachigkeit in elementaren Bildungseinrichtungen geht mit den Prinzipien einer interkulturellen Pädagogik Hand in Hand. „Interkulturelles Lernen heißt, Unvertrautem mit Neugierde zu begegnen, das Fremde als Bereicherung der eigenen Kultur und als selbstverständlichen Teil des Alltags wahrnehmen und erfahren“ (BMWAG 1997, zitiert nach Böhm & Böhm, 1999, S. 35). Interkulturelles Lernen ist ein mehrdimensionaler Prozess, der sich sowohl auf kognitive als auch auf soziale und emotionale Aspekte bezieht. Die gesellschaftliche und kulturelle Vielfalt sowie Unterschiede zwischen Menschen werden bewusst wahrgenommen und als Bereicherung für die Bildungsarbeit mit den Kindern gesehen. Dabei gilt es, Klischees, Vorurteile und Verallgemeinerungen kritisch zu hinterfragen. Durch interkulturell geprägte Lernprozesse können sich Einstellungen verändern und Handlungskompetenzen entwickeln, die sich auf vielfältige kulturelle Gegebenheiten beziehen.
 
-### 'Erstsprache' Dialekt
+### „Erstsprache“ Dialekt
 
 Ein Teil der Kinder spricht vor dem Eintritt in eine elementare Bildungseinrichtung den Dialekt des familiären Umfeldes. Dialekt oder Mundart ist die Sprache der vertrauten Umgebung des Kindes. Um sprachliche Identität zu entwickeln, ist es wichtig, dass Kinder auch in ihrer Herkunftssprache sprechen. Pädagoginnen und Pädagogen können in bestimmten Situationen neben der Standardsprache die Mundart verwenden, um die Wertschätzung für den sprachlichen Erfahrungshintergrund des Kindes auszudrücken.
 
@@ -790,7 +851,7 @@ Unterstützende Materialien zur Auseinandersetzung mit verschiedenen Sprachen un
 
 - Bücher, Memory-Spiele, Bilder und Plakate über unterschiedliche Länder und Kulturen
 
-- Bilderbücher ohne Text, die für alle Kinder 'lesbar' sind
+- Bilderbücher ohne Text, die für alle Kinder „lesbar“ sind
 
 - Anschauungsmaterialien zur Begleitung von Bildungsangeboten
 
@@ -840,7 +901,7 @@ Bildungsplan-Anteil © 2009
 
 3. Zwei- und Mehrsprachigkeit
 
-Ziel  ist  es,  dass  die  Kinder  mit  der  Sprachmelodie  einer  weiteren  Sprache  vertraut  werden.  Mittels  Liedern, Reimen und einfachen Texten lernen  sie  eine  neue  Sprache  auf  entwicklungsangemessene  Weise  kennen. Dafür eignet sich beispielsweise eine Handpuppe als 'Gast mit einer anderen Sprache'. Pädagoginnen und Pädagogen sind als Übersetzerinnen und Übersetzer tätig und vermitteln den Kindern erste Wörter und Begriffe. Voraussetzung ist, dass die Erwachsenen die zu vermittelnde Sprache selbst sehr gut beherrschen, daher sind Native Speaker oder mehrsprachiges Personal sowie originalsprachige Medien für das Erlernen einer Fremdsprache ideal.
+Ziel ist es, dass die Kinder mit der Sprachmelodie einer weiteren Sprache vertraut werden. Mittels Liedern, Reimen und einfachen Texten lernen sie eine neue Sprache auf entwicklungsangemessene Weise kennen. Dafür eignet sich beispielsweise eine Handpuppe als „Gast mit einer anderen Sprache“. Pädagoginnen und Pädagogen sind als Übersetzerinnen und Übersetzer tätig und vermitteln den Kindern erste Wörter und Begriffe. Voraussetzung ist, dass die Erwachsenen die zu vermittelnde Sprache selbst sehr gut beherrschen, daher sind Native Speaker oder mehrsprachiges Personal sowie originalsprachige Medien für das Erlernen einer Fremdsprache ideal.
 
 #### 3.2.4 Differenzierung und Individualisierung
 
@@ -858,7 +919,7 @@ Ein sprachlich hochbegabtes Kind wird eine weitere Sprache in raschem Tempo erle
 
 Der Umgang mit Mehrsprachigkeit und unterschiedlichen Kulturen im pädagogischen Alltag wird in verschiedenen Bildungsbereichen sichtbar.
 
-##### Emotionen und soziale Beziehungen , Auseinandersetzung mit Ethik und Gesellschaft:
+##### Emotionen und soziale Beziehungen, Auseinandersetzung mit Ethik und Gesellschaft:
 
 - Kennenlernen anderer Kulturen, Religionen und Lebenskonzepte; Gemeinsamkeiten und Unterschiede bewusst machen
 
@@ -899,8 +960,7 @@ Die Zusammenarbeit mit den Eltern ist ein unverzichtbarer Schlüssel zur kindlic
 - Eltern werden über den Stellenwert der Erstsprache und der Sprachförderung in der Familie für das Erlernen einer zweiten Sprache informiert.
 
 - Zur Vermeidung von Sprachbarrieren stehen bei Bedarf mehrsprachige Kräfte zur Verfügung,
-
-- z. B. zur Übersetzung bei der Anmeldung, bei Elterngesprächen.
+z. B. zur Übersetzung bei der Anmeldung, bei Elterngesprächen.
 
 - Informationen für die Eltern sind in mehreren Sprachen verfasst.
 
@@ -968,7 +1028,7 @@ Bildungsplan-Anteil © 2009
 
 ## 4.	Kommunikation und Gesprächskultur
 
-Kommunikation ist der Austausch von Informationen zwischen zwei oder mehreren Personen. Kommunikations­ prozesse, wie sprechen, sich ausdrücken und mitteilen können sowie zuhören, sind wesentliche Grundlagen sozialer Interaktion. Menschliche Kommunikation reicht weit über das gesprochene Wort hinaus und vollzieht sich auf folgenden Ebenen:
+Kommunikation ist der Austausch von Informationen zwischen zwei oder mehreren Personen. Kommunikationsprozesse, wie sprechen, sich ausdrücken und mitteilen können sowie zuhören, sind wesentliche Grundlagen sozialer Interaktion. Menschliche Kommunikation reicht weit über das gesprochene Wort hinaus und vollzieht sich auf folgenden Ebenen:
 
 - auf der verbalen Ebene
 
@@ -976,7 +1036,7 @@ Kommunikation ist der Austausch von Informationen zwischen zwei oder mehreren Pe
 
 - auf der nonverbalen Ebene (Körpersprache) (Mehl, 2005)
 
-Diese Ebenen sollten übereinstimmen, also kongruent sein. Bei Inkongruenz werden Doppelbotschaften - sogenannte Doublebinds - ausgesandt, die v. a. Kinder irritieren und zu Missverständnissen führen können.
+Diese Ebenen sollten übereinstimmen, also kongruent sein. Bei Inkongruenz werden Doppelbotschaften – sogenannte Doublebinds – ausgesandt, die v. a. Kinder irritieren und zu Missverständnissen führen können.
 
 Nach Watzlawick und Beavin (1997) unterliegen Kommunikationsprozesse bestimmten Prinzipien: Jede Kommunikation hat einen Inhalts- und einen Beziehungsaspekt. Das bedeutet, dass gleichzeitig mit inhaltlichen immer auch emotionale Botschaften vermittelt werden, etwa durch Tonfall oder Mimik. Kommunikation ist ein zirkulärer Prozess, d. h. die Art und Weise, wie eine Botschaft vermittelt wird, löst beim Gegenüber eine bestimmte Reaktion aus, die wiederum die Antwort mitbestimmt. Kommunikationsprozesse sind demnach Wechselprozesse, bei denen die Kommunikationspartnerinnen und -partner durch Inhalt und Qualität ihres Informationsaustausches aufeinander einwirken und einander wechselseitig beeinflussen.
 
@@ -1042,7 +1102,7 @@ Mittels Sprache sowie para- und nonverbaler Ausdrucksformen mit der Umwelt in Be
 
 ### 4.2 Pädagogische Impulse zur Sprachförderung: Anregungen und Beispiele
 
-Wenn Menschen miteinander kommunizieren, geschieht dies nicht nur über Worte, sondern auch über Signale des Körpers. Kinder mit geringen Sprachfertigkeiten in der Erst- oder Zweitsprache Deutsch beachten in der Alltagskommunikation vorerst para- und nonverbale Signale. Wenn diese nicht mit dem Gesprochenen übereinstimmen, orientieren sich Kinder v. a. an der Körpersprache der Erwachsenen. Positive Grundhaltungen der Fachkräfte, wie 'Ich höre dir zu', 'Es ist mir wichtiger, was du sagst, nicht wie du es formulierst', bilden eine tragfähige Basis für Kommunikationsprozesse.
+Wenn Menschen miteinander kommunizieren, geschieht dies nicht nur über Worte, sondern auch über Signale des Körpers. Kinder mit geringen Sprachfertigkeiten in der Erst- oder Zweitsprache Deutsch beachten in der Alltagskommunikation vorerst para- und nonverbale Signale. Wenn diese nicht mit dem Gesprochenen übereinstimmen, orientieren sich Kinder v. a. an der Körpersprache der Erwachsenen. Positive Grundhaltungen der Fachkräfte, wie „Ich höre dir zu“, „Es ist mir wichtiger, was du sagst, nicht wie du es formulierst“, bilden eine tragfähige Basis für Kommunikationsprozesse.
 
 32
 
@@ -1066,9 +1126,9 @@ Kommunikationsprozesse bestimmen den gesamten Alltag in elementaren Bildungseinr
 
 - für Kontakte mit unterschiedlichen Kommunikationspartnerinnen und -partnern sorgen, z. B. mit anderen Kindern, Schulkindern, verschiedenen Erwachsenen etc.
 
-- innere Dialoge anregen, z. B. mittels Handpuppen 'mit sich selbst' sprechen
+- innere Dialoge anregen, z. B. mittels Handpuppen „mit sich selbst“ sprechen
 
-Das Rollenspiel eignet sich besonders zum Nachahmen, Ausprobieren und Üben von Kommunikations­ prozessen:
+Das Rollenspiel eignet sich besonders zum Nachahmen, Ausprobieren und Üben von Kommunikationsprozessen:
 
 - Durch Kommunikation und Aushandeln können eigene Interessen mit den Wünschen der Spielpartnerinnen und -partner in Einklang gebracht werden.
 
@@ -1132,7 +1192,7 @@ Die individuellen Kommunikationserfahrungen der Kinder spielen bei der Planung v
 
 - Möglichkeiten für zweisprachige Dialoge schaffen, z. B. durch Einbeziehen von mehrsprachigen Fachkräften oder Eltern
 
-- auf gendergerechte Anrede von Mädchen und Buben achten: 'Du bist eine einfallsreiche Baumeisterin, ein liebevoller Puppenvater'
+- auf gendergerechte Anrede von Mädchen und Buben achten: „Du bist eine einfallsreiche Baumeisterin, ein liebevoller Puppenvater“
 
 #### 4.2.5 Vernetzungsmöglichkeiten mit anderen Bildungsbereichen
 
@@ -1146,7 +1206,7 @@ Die Auseinandersetzung mit Ethik und Gesellschaft kann durch die Reflexion von K
 
 - rollentypische Körperhaltungen erkennen
 
-- kulturspezifische Kommunikationsformen kennenlernen, z. B. unterschiedliche Begrüßungsund Verabschiedungsrituale
+- kulturspezifische Kommunikationsformen kennenlernen, z. B. unterschiedliche Begrüßungs- und Verabschiedungsrituale
 
 34
 
@@ -1160,7 +1220,7 @@ Bildungsplan-Anteil © 2009
 
 ### 4.3 Kooperationsmöglichkeiten mit Familien und Fachkräften
 
-Respektvolle  und  wertschätzende  Kommunikation  ist  eine  wesentliche  Voraussetzung  für  die  konstruktive ­ Zusammenarbeit mit Eltern und externen Fachkräften.
+Respektvolle und wertschätzende Kommunikation ist eine wesentliche Voraussetzung für die konstruktive Zusammenarbeit mit Eltern und externen Fachkräften.
 
 #### 4.3.1 Bildungspartnerschaft mit Eltern
 
@@ -1244,9 +1304,9 @@ Bildungsplan-Anteil © 2009
 
 [[START OF PAGE 39]]
 
-5. Buchkultur - Literacy digitale Medien
+5. Buchkultur – Literacy – digitale Medien
 
-## 5.	Buchkultur - Literacy digitale Medien
+## 5.	Buchkultur – Literacy – digitale Medien
 
 Sprachliche Bildungsprozesse in elementaren Bildungseinrichtungen sind eng verknüpft mit der Vermittlung und Rezeption von Kinderliteratur und anderen Medien. Durch die Vielfalt an Themen und Illustrationen eignet sich Kinderliteratur in besonderem Maße dazu, auf die individuellen Interessen der Kinder einzugehen. Kinderbücher enthalten Informationen, Anstöße zum Nachdenken und Diskutieren, sprechen Gefühle an und fördern Fantasie und Kreativität. Kinder erleben Rhythmus und Melodie von Sprache bzw. Sprachen in der Geborgenheit und Sicherheit des engen Kontaktes mit vertrauten Bezugspersonen. Die Buchrezeption ist daher eine der effektivsten Formen der Sprachförderung und für den Eintritt von Kindern in die Volksschule relevant: Spätere schulische Leistungen werden wesentlich vom Interesse, der Geduld und der Fähigkeit, sprachlich vermittelte Inhalte zu verstehen und zu interpretieren, mitbestimmt. Das heißt, Texte sollten zunehmend aufgrund sprachstruktureller Eigenschaften, also losgelöst von zusätzlichen Informationen wie Bildern oder Handlungen erschlossen werden. Der Begriff Literacy umfasst alle Erfahrungen, die Kinder im Umgang mit Buch-, Erzähl- und Schriftkultur vor dem eigentlichen Lesen- und Schreibenlernen machen.
 
@@ -1266,7 +1326,7 @@ Bildungsplan-Anteil © 2009
 
 [[START OF PAGE 40]]
 
-5. Buchkultur - Literacy digitale Medien
+5. Buchkultur – Literacy – digitale Medien
 
 ### 5.1 Kompetenzen und Bildungsprozesse
 
@@ -1326,7 +1386,7 @@ Die Auseinandersetzung mit Schriftkultur und verschiedenen Medien regt vielfält
 
 ##### Lernmethodische Kompetenz
 
-- Medien gezielt und zweckgebunden zum Wissenserwerb sowie zur Erweiterung der Sprachund Handlungsfähigkeit einsetzen (Sachbücher, Internet etc.)
+- Medien gezielt und zweckgebunden zum Wissenserwerb sowie zur Erweiterung der Sprach- und Handlungsfähigkeit einsetzen (Sachbücher, Internet etc.)
 
 38
 
@@ -1336,7 +1396,7 @@ Bildungsplan-Anteil © 2009
 
 [[START OF PAGE 41]]
 
-5. Buchkultur - Literacy digitale Medien
+5. Buchkultur – Literacy – digitale Medien
 
 #### Persönlichkeitsentwicklung durch Literatur und digitale Medien
 
@@ -1400,11 +1460,11 @@ Bildungsplan-Anteil © 2009
 
 [[START OF PAGE 42]]
 
-5. Buchkultur - Literacy digitale Medien
+5. Buchkultur – Literacy – digitale Medien
 
 ##### Rollenspiel
 
-Das Rollenspiel ist die häufigste und vielfältigste Spiel- bzw. Lernform in elementaren Bildungseinrichtungen. Kinder können Eindrücke und Erfahrungen, die sie in verschiedenen Lebenszusammenhängen machen - also auch jene mit digitalen Medien, Buchkultur und Schrift - im Rollenspiel umsetzen, üben und festigen.
+Das Rollenspiel ist die häufigste und vielfältigste Spiel- bzw. Lernform in elementaren Bildungseinrichtungen. Kinder können Eindrücke und Erfahrungen, die sie in verschiedenen Lebenszusammenhängen machen – also auch jene mit digitalen Medien, Buchkultur und Schrift – im Rollenspiel umsetzen, üben und festigen.
 
 - Ausstattung des Rollenspielbereichs und anderer Beschäftigungsbereiche mit Materialien, die sich auf Schrift, Lesen, Schreiben und digitale Medien beziehen
 
@@ -1430,13 +1490,13 @@ Die Auseinandersetzung mit Kinderliteratur ist als fixer Bestandteil der Alltags
 
 ##### Medienerziehung
 
-Kinder  erwerben  Basiskompetenzen  im  Umgang  mit  digitalen  Medien  häufig  in  Alltagssituationen.  Darüber ­ hinaus sollten Medienerfahrungen der Kinder als Impulse für Bildungsangebote aufgegriffen werden:
+Kinder erwerben Basiskompetenzen im Umgang mit digitalen Medien häufig in Alltagssituationen. Darüber hinaus sollten Medienerfahrungen der Kinder als Impulse für Bildungsangebote aufgegriffen werden:
 
 - Vielfalt digitaler Medien im Alltag erleben und anwenden lernen: Bewusstseinsbildung hinsichtlich Gesundheit, Sicherheit und sachgerechter Nutzung
 
 - den Alltag dokumentieren: Kinder fotografieren oder filmen einander, benutzen Tonaufnahmegeräte
 
-- individuelle Gespräche, um Rezeptionserfahrungen der Kinder mit digitalen Medien - etwa mit Fernsehsendungen, Computerspielen, Werbung etc. - aufzugreifen, zu thematisieren und zu verarbeiten
+- individuelle Gespräche, um Rezeptionserfahrungen der Kinder mit digitalen Medien – etwa mit Fernsehsendungen, Computerspielen, Werbung etc. – aufzugreifen, zu thematisieren und zu verarbeiten
 
 - den Unterschied zwischen Fiktion und Realität besprechen
 
@@ -1444,7 +1504,7 @@ Kinder  erwerben  Basiskompetenzen  im  Umgang  mit  digitalen  Medien  häufig 
 
 ##### Schrift und Symbole sichtbar machen
 
-Eine  differenzierte  Literacyerziehung  wird  durch  die  Präsenz  von  Schriftsprache  in  allen  Räumlichkeiten  der ­ Einrichtung sowie durch vielfältige Materialien unterstützt (vgl. Hartmann et al., 2009):
+Eine differenzierte Literacyerziehung wird durch die Präsenz von Schriftsprache in allen Räumlichkeiten der Einrichtung sowie durch vielfältige Materialien unterstützt (vgl. Hartmann et al., 2009):
 
 - Namen der Kinder; Beschriftung von Einrichtungsgegenständen in mehreren Sprachen; mehrsprachige schriftliche Willkommensgrüße oder Informationen
 
@@ -1462,7 +1522,7 @@ Bildungsplan-Anteil © 2009
 
 [[START OF PAGE 43]]
 
-5. Buchkultur - Literacy digitale Medien
+5. Buchkultur – Literacy – digitale Medien
 
 ##### Kinderliteratur
 
@@ -1522,7 +1582,7 @@ Bildungsplan-Anteil © 2009
 
 [[START OF PAGE 44]]
 
-5. Buchkultur - Literacy digitale Medien
+5. Buchkultur – Literacy – digitale Medien
 
 #### 5.2.4 Differenzierung und Individualisierung
 
@@ -1540,7 +1600,7 @@ Unterschiedliche Vorerfahrungen der Kinder in Bezug auf Schrift und Medien sind 
 
 #### 5.2.5 Vernetzungsmöglichkeiten mit anderen Bildungsbereichen
 
-Die Förderung sprachlicher Bildungsprozesse mittels unterschiedlicher Medien bietet vielfältige Möglichkeiten für Angebote in den Bereichen Emotionen und soziale Beziehungen sowie Ethik und Gesellschaft :
+Die Förderung sprachlicher Bildungsprozesse mittels unterschiedlicher Medien bietet vielfältige Möglichkeiten für Angebote in den Bereichen Emotionen und soziale Beziehungen sowie Ethik und Gesellschaft:
 
 - Unterstützung der Reflexion und Verarbeitung von Gefühlen durch Bilderbücher, z. B. in besonderen Situationen (Trennung der Eltern, Geburt von Geschwistern etc.)
 
@@ -1552,7 +1612,7 @@ Durch Angebote aus dem Bereich Ästhetik und Gestalten (Rollenspiel, Dramatisier
 
 - Erfahrungen mit Ziffern und Zahlen, Zeiteinheiten etc.
 
-Der sachrichtige Umgang mit Schrift, Schreibwerkzeugen und digitalen Medien steht auch in engem Zusammenhang mit Bewegung und Wahrnehmung :
+Der sachrichtige Umgang mit Schrift, Schreibwerkzeugen und digitalen Medien steht auch in engem Zusammenhang mit Bewegung und Wahrnehmung:
 
 - Möglichkeiten für vielfältige Wahrnehmungserfahrungen über den Tast- und Bewegungssinn schaffen, die u. a. auf das Schreiben vorbereiten (Formen abtasten, nachfahren, Schwungübungen etc.)
 
@@ -1566,13 +1626,13 @@ Bildungsplan-Anteil © 2009
 
 [[START OF PAGE 45]]
 
-5. Buchkultur - Literacy digitale Medien
+5. Buchkultur – Literacy – digitale Medien
 
 ### 5.3 Kooperationsmöglichkeiten mit Familien und Fachkräften
 
 #### 5.3.1 Bildungspartnerschaft mit Eltern
 
-- Vorerfahrungen der Kinder mit Büchern und digitalen Medien erheben z. B.: Werden Bibliotheken besucht? Wie viel sieht das Kind fern?
+- Vorerfahrungen der Kinder mit Büchern und digitalen Medien erheben – z. B.: Werden Bibliotheken besucht? Wie viel sieht das Kind fern?
 
 - Information der Eltern über die Bedeutung des Vorlesens und früher Literacyerfahrungen in der Familiensprache; Angst vor Verschulung nehmen
 
@@ -1580,7 +1640,7 @@ Bildungsplan-Anteil © 2009
 
 - Ressourcen der Familienmitglieder nutzen, z. B. durch Vorlesepatenschaften, Lesen und Schreiben in unterschiedlichen Sprachen und Schriften
 
-- Einbezug der Eltern in die Förderung der Medienkompetenz durch Information und Diskussion; Eltern zum Kennenlernen und Ausprobieren von PC-Software einladen; Nutzung von Fachwissen der Eltern im Bereich 'neue Medien'
+- Einbezug der Eltern in die Förderung der Medienkompetenz durch Information und Diskussion; Eltern zum Kennenlernen und Ausprobieren von PC-Software einladen; Nutzung von Fachwissen der Eltern im Bereich „neue Medien“
 
 #### 5.3.2 Zusammenarbeit mit externen Fachkräften und Institutionen
 
@@ -1604,10 +1664,7 @@ Bildungsplan-Anteil © 2009
 
 - Welche Möglichkeiten zur Verarbeitung ihrer Medienerlebnisse in Spiel und Gespräch finden Kinder in unserer Einrichtung?
 
-·
-
-Welche Anregungen erfahren Kinder, etwas zu schreiben oder zu dokumentieren?
-
+- Welche Anregungen erfahren Kinder, etwas zu schreiben oder zu dokumentieren?
 Welche Rahmenbedingungen finden sie dafür vor?
 
 - Wie werden die Ressourcen der Eltern im Bereich Buch- und Schriftkultur sowie Medienerziehung für die Bildungsarbeit genutzt?
@@ -1624,7 +1681,7 @@ Bildungsplan-Anteil © 2009
 
 [[START OF PAGE 46]]
 
-5. Buchkultur - Literacy digitale Medien
+5. Buchkultur – Literacy – digitale Medien
 
 - Wie weit entspricht das Angebot an Büchern, Bildern und Postern sowie an digitalen Medien dem Alter und Entwicklungsstand, den Interessen und Begabungen sowie dem Lebenshintergrund der Kinder?
 
@@ -1652,7 +1709,7 @@ Kinder forschen, entdecken, experimentieren und gestalten ihre Umwelt. Sie sind 
 
 Philosophische Gespräche mit Kindern zu führen bedeutet, sich gemeinsam und gleichberechtigt mit einem Thema argumentativ auseinanderzusetzen und nach möglichen Antworten zu suchen. Wesentlich ist, dass solche Gespräche eine offene Sichtweise ermöglichen. Philosophieren kann somit als ein Bildungsprozess beschrieben werden, der neue Perspektiven für das eigene Denken und Handeln in Gegenwart und Zukunft aufzeigt (Ebers & Melchers, 2001).
 
-Kinder stellen mitunter existenzielle Fragen, die Erwachsene rasch an die Grenzen ihres Wissens bringen. Oft handelt es sich dabei um fundamentale Themen, die nicht nur durch Sachinformationen zu klären sind, z. B. 'Wann hat die Welt angefangen?' Derartige Fragen von Kindern eignen sich sehr gut als Einstieg zu philosophischen Gesprächen (Petermann, 2004). Bei der Suche nach Antworten sind Kinder auf die Kommunikation mit anderen Menschen angewiesen, die sie in ihren Fragen ernst nehmen und zu einem gleichberechtigten Dialog bereit sind.
+Kinder stellen mitunter existenzielle Fragen, die Erwachsene rasch an die Grenzen ihres Wissens bringen. Oft handelt es sich dabei um fundamentale Themen, die nicht nur durch Sachinformationen zu klären sind, z. B. „Wann hat die Welt angefangen?“ Derartige Fragen von Kindern eignen sich sehr gut als Einstieg zu philosophischen Gesprächen (Petermann, 2004). Bei der Suche nach Antworten sind Kinder auf die Kommunikation mit anderen Menschen angewiesen, die sie in ihren Fragen ernst nehmen und zu einem gleichberechtigten Dialog bereit sind.
 
 Ausreichende Sprachfertigkeiten bilden die Grundlage zum Verständnis und zur Formulierung von Gedanken, Überlegungen und Fragen. Besonders Kinder mit noch geringen sprachlichen Kompetenzen in der Erst- oder Zweitsprache Deutsch brauchen vielfältige Anregungen, um abstrakte Inhalte verstehen und kommunizieren zu können. Diskussionen und Gespräche mit Menschen, die geduldig zuhören und anteilnehmend, aber auch sachlich argumentieren, fördern die Bereitschaft zum Sprechen und die Freude an der Sprache. Die Gesprächskultur, das Denken sowie das Urteilen und Argumentieren bei philosophischen Gesprächen stellen wichtige Grundlagen für spätere Lern- und Bildungsprozesse im Leben dar.
 
@@ -1754,11 +1811,11 @@ Im Tagesablauf können sich vielfältige Anlässe zum Staunen und Philosophieren
 
 - Naturbeobachtungen, wie z. B. Wolken oder Eiskristalle am Fenster
 
-- Spielimpulse durch die Pädagoginnen und Pädagogen: 'Verkehrte-Welt-Spiel', 'Ich bin du und du bist ich' etc.
+- Spielimpulse durch die Pädagoginnen und Pädagogen: „Verkehrte-Welt-Spiel“, „Ich bin du und du bist ich“ etc.
 
 - Erfahren kulturell geprägter Werte und Normen durch Märchen und Erzählungen aus anderen Kulturen, wie z. B. Achtung und Verantwortung gegenüber der Natur
 
-- Beobachtungen der Kinder als Ausgangspunkt für philosophische Gespräche: 'Ist der Regenbogen auch dann noch da, wenn wir ihn nicht mehr sehen?' etc.
+- Beobachtungen der Kinder als Ausgangspunkt für philosophische Gespräche: „Ist der Regenbogen auch dann noch da, wenn wir ihn nicht mehr sehen?“ etc.
 
 - Mögliche Themen philosophischer Gespräche: Haben Töne Farben? Gibt es große und kleine Gefühle? Was ist Glück? etc.
 
@@ -1784,9 +1841,9 @@ Materialien, die zum Staunen, Experimentieren, Nachdenken und Rätseln anregen, 
 
 Philosophische Gespräche mit Kindern können dazu dienen, aktuelle Themen der Bildungsarbeit zu vertiefen, Fragen der Kinder einzubeziehen oder neue Impulse zu setzen:
 
-- Themen aufgreifen, die im Zuge unterschiedlicher Bildungsangebote wiederkehren: 'Was ist Zeit?' oder ­ 'Ich und die anderen' etc.
+- Themen aufgreifen, die im Zuge unterschiedlicher Bildungsangebote wiederkehren: „Was ist Zeit?“ oder „Ich und die anderen“ etc.
 
-- ein 'Buch vom Denken' im Laufe der Kindergartenzeit anlegen
+- ein „Buch vom Denken“ im Laufe der Kindergartenzeit anlegen
 
 - Kinofilme oder Theatervorstellungen zu philosophischen Themen besuchen
 
@@ -1804,7 +1861,7 @@ Bildungsplan-Anteil © 2009
 
 6.	Sprachförderung durch philosophische Gespräche mit Kindern
 
-Philosophieren mit Kindern bedeutet auch, Erkenntnis- und Entwicklungsprozesse der Kinder über einen län­ geren Zeitraum zu verfolgen, z. B.:
+Philosophieren mit Kindern bedeutet auch, Erkenntnis- und Entwicklungsprozesse der Kinder über einen längeren Zeitraum zu verfolgen, z. B.:
 
 - Erleben, dass neue Sichtweisen und Antworten möglich sind
 
@@ -1824,7 +1881,7 @@ Je zurückhaltender oder ungeübter Mädchen und Buben beim Philosophieren sind,
 
 #### 6.2.5 Vernetzungsmöglichkeiten mit anderen Bildungsbereichen
 
-Philosophische Fragestellungen können im Rahmen unterschiedlichster Bildungsprozesse auftreten und stehen häufig in Zusammenhang mit Emotionen und sozialen Beziehungen :
+Philosophische Fragestellungen können im Rahmen unterschiedlichster Bildungsprozesse auftreten und stehen häufig in Zusammenhang mit Emotionen und sozialen Beziehungen:
 
 - Wie unterscheiden sich Menschen, worin gleichen sie sich?
 
@@ -1852,7 +1909,7 @@ Bildungsplan-Anteil © 2009
 
 #### 6.3.1 Bildungspartnerschaft mit Eltern
 
-Besonders in Gruppen mit unterschiedlichen familiären Lebenskonzepten oder Glaubenshintergründen bieten sich philosophische Gespräche als Möglichkeit gemeinsamer spiritueller bzw. existenzieller Grunderfahrungen an. Schon beim Eintritt in eine elementare Bildungseinrichtung sollten Eltern über diese Form der Wertevermittlung - an Stelle oder als Ergänzung religiöser Inhalte - informiert werden. Die Kenntnis der Erwartungen und Vorstellungen der Eltern bringt wichtige Informationen für die Planung pädagogischer Angebote und trägt zur Vermeidung von Missverständnissen und Konflikten bei.
+Besonders in Gruppen mit unterschiedlichen familiären Lebenskonzepten oder Glaubenshintergründen bieten sich philosophische Gespräche als Möglichkeit gemeinsamer spiritueller bzw. existenzieller Grunderfahrungen an. Schon beim Eintritt in eine elementare Bildungseinrichtung sollten Eltern über diese Form der Wertevermittlung – an Stelle oder als Ergänzung religiöser Inhalte – informiert werden. Die Kenntnis der Erwartungen und Vorstellungen der Eltern bringt wichtige Informationen für die Planung pädagogischer Angebote und trägt zur Vermeidung von Missverständnissen und Konflikten bei.
 
 - Information der Eltern über die Bedeutung des Philosophierens, Dokumentation der kindlichen Erkenntnisprozesse für die Eltern
 
@@ -1904,7 +1961,7 @@ Bildungsplan-Anteil © 2009
 
 [[START OF PAGE 52]]
 
-- Sprachförderung durch philosophische Gespräche mit Kindern
+6.	Sprachförderung durch philosophische Gespräche mit Kindern
 
 #### Leitfragen zur Lernumgebung
 
@@ -1944,7 +2001,7 @@ Für erfolgreiche Transitionsbewältigung sind folgende Bedingungen bedeutsam:
 
 Jede Transitionserfahrung beeinflusst die Bewältigung weiterer biografischer Übergänge. Das bedeutet, dass negativ erlebte Transitionen unter Umständen hemmend, positive Erfahrungen hingegen motivierend und unterstützend wirken können. Jede gelungene Transition stärkt das Kind und ermöglicht ihm, weitere Lebenskrisen zu bewältigen. Das Kind entwickelt so seine emotionalen und sozialen Kompetenzen weiter.
 
-Transitionen betreffen nicht nur das Kind, sondern auch seine Familie. Griebel und Niesel (2004) betrachten ­ daher ­ Transitionen als ko-konstruktive Prozesse. Damit ist gemeint, dass sich die Zusammenarbeit aller Betei­ ligten - Familie, Kindergarten und/oder Schule - wesentlich auf das Gelingen von Transitionen auswirkt.
+Transitionen betreffen nicht nur das Kind, sondern auch seine Familie. Griebel und Niesel (2004) betrachten daher Transitionen als ko-konstruktive Prozesse. Damit ist gemeint, dass sich die Zusammenarbeit aller Beteiligten – Familie, Kindergarten und/oder Schule – wesentlich auf das Gelingen von Transitionen auswirkt.
 
 ### Zusammenhang zwischen Transition und Sprache
 
@@ -1968,7 +2025,7 @@ Dies kann gezielt für die individuelle Sprachförderung genützt werden, denn T
 
 - Sprache kann Transitionsprozesse unterstützen und begleiten. Veränderungen, Erwartungen, Befürchtungen, die mit einem neuen Lebensabschnitt einhergehen, sollten von allen Beteiligten (Kindern, Eltern, Pädagoginnen und Pädagogen) ausführlich besprochen, reflektiert und dokumentiert werden.
 
-- Sprache leistet als Schlüsselkompetenz einen wesentlichen Beitrag zum Gelingen von Transitionen, z. B. zur Bewältigung der Nahtstelle zwischen Kindergarten und Schule. Sprache kann in diesem Zusammenhang als 'Mörtel' gesehen werden, der die Brücke stabil macht und einen sicheren Übergang für das Kind gewährleistet.
+- Sprache leistet als Schlüsselkompetenz einen wesentlichen Beitrag zum Gelingen von Transitionen, z. B. zur Bewältigung der Nahtstelle zwischen Kindergarten und Schule. Sprache kann in diesem Zusammenhang als „Mörtel“ gesehen werden, der die Brücke stabil macht und einen sicheren Übergang für das Kind gewährleistet.
 
 - Sprachentwicklung beginnt bereits vor der Geburt und setzt sich bis ins Erwachsenenalter fort. Daher ist ein Ansatz, der Übergänge zwischen den einzelnen Institutionen mitbedenkt, grundlegend für eine umfassende Sprachförderung.
 
@@ -2008,7 +2065,7 @@ Bildungsplan-Anteil © 2009
 
 Transitionssituationen können im Alltag thematisiert und zur Sprachförderung genutzt werden:
 
-- Eintritt in eine elementare Bildungseinrichtung oder Gruppenwechsel: zu Kommunikation einladen, unterstützt durch nonverbale Anteile, einfache Rituale - auch in mehreren Sprachen - einführen, z. B. Begrüßung, Mittagsspruch
+- Eintritt in eine elementare Bildungseinrichtung oder Gruppenwechsel: zu Kommunikation einladen, unterstützt durch nonverbale Anteile, einfache Rituale – auch in mehreren Sprachen – einführen, z. B. Begrüßung, Mittagsspruch
 
 - Transitionen im familiären Umfeld (z. B. Scheidung, Migrationserfahrungen): Auseinandersetzung mit Bildern und Geschichten, die diese Erfahrungen thematisieren, Geschichten nachspielen oder miteinander entwickeln, Erzählen in der Erst- und Zweitsprache der Kinder etc.
 
@@ -2066,13 +2123,13 @@ Unterschiedliche  Erfahrungshorizonte  der  Kinder  bedingen  unterschiedliche  
 
 - die die Sprachkenntnisse erweitern (Konfrontation mit Standardsprache in Liedern, Gedichten, Geschichten und Büchern).
 
-Im Sinne einer Prozessorientierung werden Differenzierung und Individualisierung in der Schule fortgesetzt. In den didaktischen Grundsätzen der Volksschule wird betont, dass alles sprachliche Lernen von den individuellen sprachlichen Vorerfahrungen der Kinder ausgeht, also jenen Erfahrungen, die in Familie und elementaren ­ Bildungseinrichtungen erworben wurden (Lehrplan der Volksschule, 2003).
+Im Sinne einer Prozessorientierung werden Differenzierung und Individualisierung in der Schule fortgesetzt. In den didaktischen Grundsätzen der Volksschule wird betont, dass alles sprachliche Lernen von den individuellen sprachlichen Vorerfahrungen der Kinder ausgeht, also jenen Erfahrungen, die in Familie und elementaren Bildungseinrichtungen erworben wurden (Lehrplan der Volksschule, 2003).
 
 #### 7.2.5 Vernetzungsmöglichkeiten mit anderen Bildungsbereichen
 
 Umfassende Sprachförderung zieht sich auch im Hinblick auf die Bewältigung von Transitionen wie ein roter Faden durch alle Bildungsbereiche.
 
-Die Bewältigung von Transitionen erfordert Kompetenzen im Bereich Emotionen und soziale Beziehungen . Gemeint sind damit u. a. personale Kompetenzen wie Belastbarkeit, Zuversicht, die Fähigkeit, Enttäuschungen zu ertragen sowie neue Situationen angstfrei wahrzunehmen (Krenz, 2003). Sprache ist bei der Aneignung dieser Kompetenzen von Bedeutung:
+Die Bewältigung von Transitionen erfordert Kompetenzen im Bereich Emotionen und soziale Beziehungen. Gemeint sind damit u. a. personale Kompetenzen wie Belastbarkeit, Zuversicht, die Fähigkeit, Enttäuschungen zu ertragen sowie neue Situationen angstfrei wahrzunehmen (Krenz, 2003). Sprache ist bei der Aneignung dieser Kompetenzen von Bedeutung:
 
 - In einem selbstreflexiven Prozess sollte das Kind ein Bewusstsein für die eigenen Emotionen entwickeln. Insbesondere Kinder in Übergangssituationen brauchen eine vertrauensvolle Atmosphäre, in der sie anderen ihre Gefühle, Ängste, Sorgen und Erwartungen mitteilen können.
 
@@ -2098,13 +2155,13 @@ Zur Bewältigung von Transitionen sind Kompetenzen aus dem Bereich Bewegung und 
 
 Erfahrungen aus dem Bereich Natur und Technik spielen sowohl für die sprachlichen Kompetenzen als auch für die Auseinandersetzung mit Transitionen eine bedeutende Rolle:
 
-- Gelegenheiten zu experimentieren, Hypothesen zu formulieren und zu überprüfen ('Wenn ein Regenbogen zu  ­ sehen ist, scheint die Sonne')
+- Gelegenheiten zu experimentieren, Hypothesen zu formulieren und zu überprüfen („Wenn ein Regenbogen zu sehen ist, scheint die Sonne“)
 
 - erforschte Zusammenhänge und Beobachtungen erklären, diskutieren, dokumentieren und präsentieren
 
 - die Sprache der Mathematik im Alltag erfahren (einkaufen, wiegen, messen, Zeitabläufe beobachten)
 
-Transitionen betreffen auch den Bildungsbereich Ethik und Gesellschaft ,  weil  sie  nach einer Auseinandersetzung mit Normen und Regeln verlangen: Gelten in der neuen Lebenssituation andere Regeln? Lassen sich übergreifende Normen identifizieren, die für alle Lebensbereiche Gültigkeit haben? Darüber hinaus ergeben sich für Kinder in Transitionssituationen viele Anlässe, nach dem 'Wie' und dem 'Warum' zu fragen und für sich selbst nach stimmigen Antworten zu suchen.
+Transitionen betreffen auch den Bildungsbereich Ethik und Gesellschaft, weil sie nach einer Auseinandersetzung mit Normen und Regeln verlangen: Gelten in der neuen Lebenssituation andere Regeln? Lassen sich übergreifende Normen identifizieren, die für alle Lebensbereiche Gültigkeit haben? Darüber hinaus ergeben sich für Kinder in Transitionssituationen viele Anlässe, nach dem „Wie“ und dem „Warum“ zu fragen und für sich selbst nach stimmigen Antworten zu suchen.
 
 ### 7.3 Kooperationsmöglichkeiten mit Familien und Fachkräften
 
@@ -2150,7 +2207,7 @@ Bezüglich der Sprachentwicklung ist eine Kooperation mit der Schule bzw. mit de
 
 - Hospitationen der Fachkräfte in den jeweiligen Einrichtungen
 
-Bereits vor Schuleintritt sollten Kinder die Möglichkeit erhalten, Erfahrungen mit der Institution Schule (und Hort), deren Personal sowie deren sprachlichen Anforderungen zu sammeln. Die Kinder kommen mit der 'Sprache der Schule' (Griebel & Niesel, 2004, S. 131) am besten durch folgende Maßnahmen in Kontakt:
+Bereits vor Schuleintritt sollten Kinder die Möglichkeit erhalten, Erfahrungen mit der Institution Schule (und Hort), deren Personal sowie deren sprachlichen Anforderungen zu sammeln. Die Kinder kommen mit der „Sprache der Schule“ (Griebel & Niesel, 2004, S. 131) am besten durch folgende Maßnahmen in Kontakt:
 
 - durch Besichtigung von Schule und Hort
 
@@ -2222,7 +2279,7 @@ Bildungsplan-Anteil © 2009
 
 Bei der Beobachtung und Dokumentation sprachlicher Bildungsprozesse kann zwischen einer ganzheitlichen und einer spezifischen Orientierung unterschieden werden.
 
-Steht das Kind als Gesamtperson im Mittelpunkt, liegt der Schwerpunkt auf dem 'Beachten' und 'ObachtGeben'. Beobachten bedeutet, Kindern mit Achtsamkeit zu begegnen, um die Umgebung mit Angeboten anzureichern, aus denen das Kind selbst wählen kann. Dokumentation findet in diesem Fall verstärkt deskriptiv statt, etwa über Entwicklungsportfolios, bei deren Erstellung Kinder, Pädagoginnen und Pädagogen sowie Eltern einbezogen werden.
+Steht das Kind als Gesamtperson im Mittelpunkt, liegt der Schwerpunkt auf dem „Beachten“ und „Obacht-Geben“. Beobachten bedeutet, Kindern mit Achtsamkeit zu begegnen, um die Umgebung mit Angeboten anzureichern, aus denen das Kind selbst wählen kann. Dokumentation findet in diesem Fall verstärkt deskriptiv statt, etwa über Entwicklungsportfolios, bei deren Erstellung Kinder, Pädagoginnen und Pädagogen sowie Eltern einbezogen werden.
 
 Stehen Teilfunktionen der kindlichen Entwicklung, wie z. B. die Sprache, im Zentrum, wird die Beobachtung spezifisch,  kriterienbezogen  und  förderorientiert.  Sie  kann  dann  etwa  der  Erfassung  des  kindlichen  Sprachentwicklungsstandes in der Erst- und Zweitsprache dienen. Auf dieser Basis werden Angebote gesetzt, um zielorientierte Prozesse zu initiieren und zu fördern. Die Dokumentation wird damit systematisiert und punktuell und setzt entsprechendes Fachwissen der Pädagoginnen und Pädagogen über die kindliche Entwicklung voraus.
 
@@ -2260,10 +2317,10 @@ Bildungsplan-Anteil © 2009
 
 Frage | Erläuterung
 --- | --- | ---
-Ziel | Weshalb wird beobachtet? | Definition von Zielen , welche die Beobachtung verfolgt: Anhaltspunkte für Elterngespräche über den Sprachstand des Kindes finden, Ausmaß für sprachlichen Fördermaßnahmen festlegen etc.
-Fokus | Wer wird beobachtet? Was wird beobachtet? | Definition von Personen und genauen Kriterien , auf die sich die Beobachtung richtet: z. B. sprachliche Fähigkeiten wie Artiku- lation, Wortschatz, Satzkonstruktion, Sprach- verständnis, Kommunikation mit anderen Kindern, mit Erwachsenen etc.
-Form | Wie wird beobachtet? Welches Verfahren wird eingesetzt? | Entscheidung, welche Form der Beobachtung gewählt wird: Teilnehmende Beobachtung : Die beobachtende Person nimmt am Geschehen teil und beobachtet die Kinder während der Durchführung von Aktivi- täten (im Erzählkreis, bei didaktischen Spielen etc.) Nicht teilnehmende Beobachtung : Die be- obachtende Person greift eine gewisse Zeit lang nicht in das Geschehen ein und zieht sich auf die Beobachtungsposition zurück (Kommunikation der Kinder am Verkaufsstand, in der Garderobe etc.). Wird ein standardisiertes Beobachtungs- verfahren wie z. B. BESK 4-5 (Breit & Schneider,
-Rahmen | Wann wird beobachtet? Wie lange wird beobachtet? Wo wird beobachtet? In welchem Setting wird beobachtet? Wer beobachtet? | Definition des Beobachtungsrahmens: Zeitpunkt : z. B. zu verschiedenen Zeiten im Tagesablauf, immer morgens, in der Abholsituation Zeitrahmen : für jedes Kind gleich lang oder dem Handlungsverlauf entsprechend unterschiedlich Ort : in einem Funktionsbereich, in einem Neben- raum etc. Sozialform : Einzelsetting, Klein- oder Gesamt- gruppe etc. Beobachterin/Beobachter : Pädagogin, Päda- goge, Sonderkindergartenpädagogin bzw. -pädagoge, Logopädin, Logopäde, Psychologin, Psychologe etc.
+Ziel | Weshalb wird beobachtet? | Definition von Zielen, welche die Beobachtung verfolgt: Anhaltspunkte für Elterngespräche über den Sprachstand des Kindes finden, Ausmaß für sprachlichen Fördermaßnahmen festlegen etc.
+Fokus | Wer wird beobachtet? Was wird beobachtet? | Definition von Personen und genauen Kriterien, auf die sich die Beobachtung richtet: z. B. sprachliche Fähigkeiten wie Artikulation, Wortschatz, Satzkonstruktion, Sprachverständnis, Kommunikation mit anderen Kindern, mit Erwachsenen etc.
+Form | Wie wird beobachtet? Welches Verfahren wird eingesetzt? | Entscheidung, welche Form der Beobachtung gewählt wird: Teilnehmende Beobachtung: Die beobachtende Person nimmt am Geschehen teil und beobachtet die Kinder während der Durchführung von Aktivitäten (im Erzählkreis, bei didaktischen Spielen etc.) Nicht teilnehmende Beobachtung: Die beobachtende Person greift eine gewisse Zeit lang nicht in das Geschehen ein und zieht sich auf die Beobachtungsposition zurück (Kommunikation der Kinder am Verkaufsstand, in der Garderobe etc.). Wird ein standardisiertes Beobachtungsverfahren wie z. B. BESK 4–5 (Breit & Schneider, 2008a) verwendet?
+Rahmen | Wann wird beobachtet? Wie lange wird beobachtet? Wo wird beobachtet? In welchem Setting wird beobachtet? Wer beobachtet? | Definition des Beobachtungsrahmens: Zeitpunkt: z. B. zu verschiedenen Zeiten im Tagesablauf, immer morgens, in der Abholsituation Zeitrahmen: für jedes Kind gleich lang oder dem Handlungsverlauf entsprechend unterschiedlich Ort: in einem Funktionsbereich, in einem Nebenraum etc. Sozialform: Einzelsetting, Klein- oder Gesamtgruppe etc. Beobachterin/Beobachter: Pädagogin, Pädagoge, Sonderkindergartenpädagogin bzw. -pädagoge, Logopädin, Logopäde, Psychologin, Psychologe etc.
 
 60
 
@@ -2279,7 +2336,7 @@ Bildungsplan-Anteil © 2009
 
 Die Durchführung der Beobachtung folgt dem selbst erstellten Beobachtungsplan. Die Frage der Organisation und der Einbettung der Beobachtung in das Alltagsgeschehen sollte in der Tages-, Wochen- und Monatsplanung berücksichtigt werden.
 
-Beobachtungsfehler werden durch die Durchführung einer Beobachtung anhand des Beobachtungsplans sowie durch die Trennung zwischen objektiver Beobachtung und subjektiver Deutung verringert. In der Fachliteratur wird auf mögliche Fehlerquellen hingewiesen: So beeinflusst ein besonders gut entwickeltes Kind die Beurteilung des nachfolgenden Kindes (Kontrast-Effekt). Ein außergewöhnlich positives wie negatives Merkmal kann die anderen Tendenzen eines Kindes überstrahlen (Überstrahlungseffekt). Erster und letzter Eindruck einer Beobachtung haben großen Einfluss auf das Gesamturteil (Primacy- und Recency-Effekt) - ganz abgesehen von der Tendenz, aufgrund von Sympathie milder zu beurteilen (Milde-Effekt) und aufgrund negativer Erfahrungen eine schlechtere Beurteilung auszusprechen (Strenge-Effekt). Die kritische Auseinandersetzung mit und die Reflexion von solchen Fehlerquellen tragen dazu bei, Fehler gering zu halten (Hebenstreit-Müller & Kühnel, 2004; Bensel & Haug-Schnabel, 2005).
+Beobachtungsfehler werden durch die Durchführung einer Beobachtung anhand des Beobachtungsplans sowie durch die Trennung zwischen objektiver Beobachtung und subjektiver Deutung verringert. In der Fachliteratur wird auf mögliche Fehlerquellen hingewiesen: So beeinflusst ein besonders gut entwickeltes Kind die Beurteilung des nachfolgenden Kindes (Kontrast-Effekt). Ein außergewöhnlich positives wie negatives Merkmal kann die anderen Tendenzen eines Kindes überstrahlen (Überstrahlungseffekt). Erster und letzter Eindruck einer Beobachtung haben großen Einfluss auf das Gesamturteil (Primacy- und Recency-Effekt) – ganz abgesehen von der Tendenz, aufgrund von Sympathie milder zu beurteilen (Milde-Effekt) und aufgrund negativer Erfahrungen eine schlechtere Beurteilung auszusprechen (Strenge-Effekt). Die kritische Auseinandersetzung mit und die Reflexion von solchen Fehlerquellen tragen dazu bei, Fehler gering zu halten (Hebenstreit-Müller & Kühnel, 2004; Bensel & Haug-Schnabel, 2005).
 
 #### 8.1.3	 Dokumentation
 
@@ -2317,7 +2374,7 @@ Die Entscheidung für die Art des Vergleichs ergibt sich aus der Zielsetzung der
 
 #### 8.1.5	 Folgerung
 
-Beobachten, Ordnen, Dokumentieren und Interpretieren liefern die Basis für das weitere pädagogische Vorgehen. Aus den Erkenntnissen der systematischen Beobachtung können pädagogische Interventionen abgeleitet und mit den Eltern gemeinsam pädagogische Ziele erarbeitet werden. Für Kinder mit einer anderen Erstsprache als Deutsch könnte das z. B. die Entscheidung für den Eintritt in eine elementare Bildungseinrichtung, die Aufnahme einer gezielten Förderung der Erstsprache oder eines gezielten Angebots für den Erwerb der Zweitsprache bedeuten. Eine kontinuierliche Beobachtung des Entwicklungsprozesses - die sogenannte Prozess- oder Verlaufsdiagnostik - sollte die Förderung begleiten.
+Beobachten, Ordnen, Dokumentieren und Interpretieren liefern die Basis für das weitere pädagogische Vorgehen. Aus den Erkenntnissen der systematischen Beobachtung können pädagogische Interventionen abgeleitet und mit den Eltern gemeinsam pädagogische Ziele erarbeitet werden. Für Kinder mit einer anderen Erstsprache als Deutsch könnte das z. B. die Entscheidung für den Eintritt in eine elementare Bildungseinrichtung, die Aufnahme einer gezielten Förderung der Erstsprache oder eines gezielten Angebots für den Erwerb der Zweitsprache bedeuten. Eine kontinuierliche Beobachtung des Entwicklungsprozesses – die sogenannte Prozess- oder Verlaufsdiagnostik – sollte die Förderung begleiten.
 
 In manchen Fällen machen die Beobachtungsergebnisse eine gezielte logopädische oder psychologische Diagnostik durch externe Fachkräfte notwendig, etwa wenn mundmotorische bzw. artikulatorische Schwierigkeiten oder Entwicklungsverzögerungen beobachtet werden. Dabei unterscheidet sich die pädagogische Tätigkeit der systematischen Beobachtung von der logopädischen oder klinisch-diagnostischen Abklärung v. a. hinsichtlich der Wahl der Instrumente und des personellen und zeitlichen Aufwands.
 
@@ -2325,9 +2382,9 @@ In manchen Fällen machen die Beobachtungsergebnisse eine gezielte logopädische
 
 Es liegt im Ermessen jeder Pädagogin und jedes Pädagogen, selbst Beobachtungspläne für die Dokumentation kindlicher Sprachkompetenzen in der Erst- und Zweitsprache nach den oben angeführten Kriterien zu erstellen und eine systematische Beobachtung durchzuführen.
 
-Zur Beobachtung des aktuellen Sprachentwicklungsstandes können aber auch folgende Verfahren herange­ zogen werden:
+Zur Beobachtung des aktuellen Sprachentwicklungsstandes können aber auch folgende Verfahren herangezogen werden:
 
-Sismik ist ein Beobachtungsbogen für die systematische Begleitung der Sprachentwicklung von Kindern mit ­ Migrationshintergrund von ca. dreieinhalb Jahren bis zum Schulalter mit Fragen zu Sprache und Literacy (kind­ liche Erfahrungen rund um Buch-, Erzähl-, Reim- und Schriftkultur).
+Sismik ist ein Beobachtungsbogen für die systematische Begleitung der Sprachentwicklung von Kindern mit Migrationshintergrund von ca. dreieinhalb Jahren bis zum Schulalter mit Fragen zu Sprache und Literacy (kindliche Erfahrungen rund um Buch-, Erzähl-, Reim- und Schriftkultur).
 
 Das Begleitheft umfasst: Konzeption des Bogens; praktische Hinweise für das Vorgehen bei der Beobachtung; verschiedene Ebenen der Nutzung (z. B. Reflexion des pädagogischen Angebots, Zusammenarbeit im Team);
 
@@ -2347,9 +2404,9 @@ Seldak ist ein Beobachtungsbogen für die systematische Begleitung der Sprachent
 
 Das Begleitheft enthält eine Einführung in die theoretischen Grundlagen und die Konzeption des Bogens, praktische  Hinweise zum Einsatz, eine Anleitung für die qualitative und quantitative Auswertung sowie vielfältige Anregungen für die Förderung von Literacy (Ulich & Mayr, 2006).
 
-BESK 4-5 ist ein halboffener Fragebogen für Vier- bis Fünfjährige. Der BESK 4-5 kommt während der laufenden pädagogischen Arbeit in einem Kindergarten bzw. einer Kinderbetreuungseinrichtung über ca. einen Monat hinweg zum Einsatz (Breit & Schneider, 2008a).
+BESK 4–5 ist ein halboffener Fragebogen für Vier- bis Fünfjährige. Der BESK 4–5 kommt während der laufenden pädagogischen Arbeit in einem Kindergarten bzw. einer Kinderbetreuungseinrichtung über ca. einen Monat hinweg zum Einsatz (Breit & Schneider, 2008a).
 
-SSFB 4-5 ist ähnlich aufgebaut wie der BESK 4-5. Der Bogen ist für Kinder ohne institutionelle Bildung und Betreuung für die Anwendung im Rahmen eines halbtägigen Schnuppertags im Kindergarten konzipiert (Breit & Schneider, 2008b).
+SSFB 4–5 ist ähnlich aufgebaut wie der BESK 4–5. Der Bogen ist für Kinder ohne institutionelle Bildung und Betreuung für die Anwendung im Rahmen eines halbtägigen Schnuppertags im Kindergarten konzipiert (Breit & Schneider, 2008b).
 
 Beide Verfahren lenken den Blick auf Phonologie, Morphologie, Syntax, Semantik und Pragmatik. Der Beobachtungsprozess wird durch vorgegebene Materialien und eine klare Handreichung angeleitet. Die Autorinnen legen ein Auswertungsprofil vor, das eine Schwerpunktsetzung in der Förderung ermöglicht.
 
@@ -2413,7 +2470,9 @@ Eine qualitätsvolle Gestaltung der Bildungspartnerschaft mit den Eltern sowie d
 
 Der Einsatz mehrsprachigen Personals in elementaren Bildungseinrichtungen entspricht einem besonders hohen Qualitätsstandard und sollte v. a. bei einem großen Anteil an Kindern mit einer anderen Erstsprache als Deutsch angestrebt werden. Dies betrifft neben mehrsprachigen Pädagoginnen und Pädagogen auch Helferinnen und Helfer bzw. Assistentinnen und Assistenten, die häufiger über Migrationserfahrung verfügen. Werden sie vermehrt zur Unterstützung der Bildungsarbeit herangezogen, sind eine entsprechende fachliche Qualifikation und die Möglichkeit zur Fortbildung besonders wichtig.
 
-Die sprachlichen Kompetenzen des mehrsprachigen Personals beziehen sich im Idealfall auf die Erstsprachen der Kinder, wodurch entsprechende Bildungsangebote auch in den Erstsprachen ermöglicht werden. Um die personellen Ressourcen optimal einsetzen zu können, sollten regelmäßig gruppenübergreifende Angebote geplant werden. Eventuell ist auch eine Zusammenarbeit mit anderen Kindergärten möglich. Eine besondere Bedeutung kommt mehrsprachigen Fachkräften im Rahmen der Bildungspartnerschaft mit den Eltern zu. Hier sind v. a. Übersetzungsmöglichkeiten sowie das bessere Verständnis für unterschiedliche kulturelle Hintergründe gefragt. Häufig bieten Kindergärten Fremdsprachenprogramme für z. B. Englisch oder Französisch an. In diesem Zusammenhang könnten auch die Sprachen, die in der Einrichtung ohnehin präsent sind (z. B. Türkisch, Bosnisch), bzw. jene der österreichischen Nachbarländer berücksichtigt werden. Zur Vermittlung sollten möglichst Native Speaker zur Verfügung stehen.
+Die sprachlichen Kompetenzen des mehrsprachigen Personals beziehen sich im Idealfall auf die Erstsprachen der Kinder, wodurch entsprechende Bildungsangebote auch in den Erstsprachen ermöglicht werden. Um die personellen Ressourcen optimal einsetzen zu können, sollten regelmäßig gruppenübergreifende Angebote geplant werden. Eventuell ist auch eine Zusammenarbeit mit anderen Kindergärten möglich. Eine besondere Bedeutung kommt mehrsprachigen Fachkräften im Rahmen der Bildungspartnerschaft mit den Eltern zu. Hier sind v. a. Übersetzungsmöglichkeiten sowie das bessere Verständnis für unterschiedliche kulturelle Hintergründe gefragt.
+
+Häufig bieten Kindergärten Fremdsprachenprogramme für z. B. Englisch oder Französisch an. In diesem Zusammenhang könnten auch die Sprachen, die in der Einrichtung ohnehin präsent sind (z. B. Türkisch, Bosnisch), bzw. jene der österreichischen Nachbarländer berücksichtigt werden. Zur Vermittlung sollten möglichst Native Speaker zur Verfügung stehen.
 
 #### 9.1.3 Qualifikation der Mitarbeiterinnen und Mitarbeiter
 
@@ -2433,7 +2492,7 @@ Bildungsplan-Anteil © 2009
 
 #### 9.1.4 Arbeitsbedingungen für das Personal in elementaren Bildungseinrichtungen
 
-Pädagogische Qualität bezieht sich auch auf befriedigende Arbeitsbedingungen für das Personal in elementaren Bildungseinrichtungen. Diese wirken sich positiv auf die Motivation der Pädagoginnen und Pädagogen sowie auf ihre Bereitschaft zu beruflichem Engagement und regelmäßiger Weiterentwicklung ihrer Professionalität aus. Neben geeigneten Räumlichkeiten für Besprechungen umfassen qualitätsvolle Arbeitsbedingungen u. a. die Möglichkeit zur Fortbildung und Supervision. Diese sollten allen Teammitgliedern - auch Helferinnen und Helfern bzw. Assistentinnen und Assistenten - offenstehen.
+Pädagogische Qualität bezieht sich auch auf befriedigende Arbeitsbedingungen für das Personal in elementaren Bildungseinrichtungen. Diese wirken sich positiv auf die Motivation der Pädagoginnen und Pädagogen sowie auf ihre Bereitschaft zu beruflichem Engagement und regelmäßiger Weiterentwicklung ihrer Professionalität aus. Neben geeigneten Räumlichkeiten für Besprechungen umfassen qualitätsvolle Arbeitsbedingungen u. a. die Möglichkeit zur Fortbildung und Supervision. Diese sollten allen Teammitgliedern – auch Helferinnen und Helfern bzw. Assistentinnen und Assistenten – offenstehen.
 
 Die Prozessqualität in Kindergärten ist wesentlich höher, wenn die Pädagoginnen und Pädagogen über mehr Zeit zur Planung und Reflexion der pädagogischen Arbeit verfügen (Tietze et al., 1998; ECCE Study Group, 1997). Ausreichend kinderdienstfreie Zeit ist auch eine wichtige Voraussetzung für die kontinuierliche und umfassende Dokumentation der Bildungsbiografien  und  der  sprachlichen  Entwicklung  aller  Kinder  sowie  für  regelmäßige Teambesprechungen.
 
@@ -2475,7 +2534,7 @@ Eine durchdachte Gestaltung des Tagesablaufs sowie des Alltags in elementaren Bi
 
 #### 9.3.3 Bildungspartnerschaft
 
-Die Bildungspartnerschaft mit Eltern und Familien ist eine wichtige Säule der Bildungsarbeit in elementaren Bildungseinrichtungen. Bildungsprozesse, die im Wissen um den familiären Hintergrund und die kulturellen Erfahrungen der Kinder angeregt werden, erweisen sich als besonders nachhaltig. Eine kontinuierliche, respektvolle und wertschätzende Kooperation zwischen dem pädagogischen Team und den Eltern trägt dazu bei, dass sich die Kinder in der Einrichtung sicher und geborgen fühlen. Dieses Gefühl ist wiederum eine wichtige Voraussetzung für die Weiterentwicklung sprachlicher Fähigkeiten. In besonderem Maße trifft dies auf junge Kinder zu, sowie auf Kinder mit einer anderen Erstsprache als Deutsch, deren Spracherwerb in der Zweitsprache eventuell erst im Lernumfeld der elementaren Bildungseinrichtung beginnt.
+Die Bildungspartnerschaft mit Eltern und Familien ist eine wichtige Säule der Bildungsarbeit in elementaren Bildungseinrichtungen. Bildungsprozesse, die im Wissen um den familiären Hintergrund und die kulturellen Erfahrungen der Kinder angeregt werden, erweisen sich als besonders nachhaltig. Eine kontinuierliche, respektvolle und wertschätzende Kooperation zwischen dem pädagogischen Team und den Eltern trägt dazu bei, dass sich die Kinder in der Einrichtung sicher und geborgen fühlen. Dieses Gefühl ist wiederum eine wichtige Vorausset-
 
 68
 
@@ -2487,9 +2546,11 @@ Bildungsplan-Anteil © 2009
 
 9.	Qualitätsmerkmale für die Sprachförderung
 
+zung für die Weiterentwicklung sprachlicher Fähigkeiten. In besonderem Maße trifft dies auf junge Kinder zu, sowie auf Kinder mit einer anderen Erstsprache als Deutsch, deren Spracherwerb in der Zweitsprache eventuell erst im Lernumfeld der elementaren Bildungseinrichtung beginnt.
+
 Im Rahmen der Bildungspartnerschaft sollten sich die Pädagoginnen und Pädagogen mit der bisherigen sprachlichen Entwicklung und mit den häuslichen Erfahrungen der Kinder in Bezug auf unterschiedliche Medien auseinandersetzen sowie die Wünsche und Erwartungen der Eltern erheben. Auch diese gelten als Anknüpfungspunkte für die Planung und Gestaltung sprachlicher Bildungsangebote.
 
-Nicht  immer  werden  Bildungsangebote  -  etwa  zum  Philosophieren  oder  zur  frühen  Auseinandersetzung  mit Buchstaben - von den Eltern positiv bewertet. Aus diesem Grund ist es günstig, Eltern u. a. ausführlich über die Sprachentwicklung von Kindern in der Erst- und Zweitsprache, über die Bedeutung früher Literacyerfahrungen, über Buchkultur sowie über Medienpädagogik zu informieren. Bei Familien mit einer anderen Familiensprache als Deutsch und/oder Personen, die ihre (vor)schulische Sozialisation in einem anderen Land erfahren haben, ist darauf zu achten, dass Elterninformationen, wie Briefe, Aushänge, Folder oder die pädagogische Konzeption, von ihnen verstanden werden und eventuell auch in Übersetzung vorliegen.
+Nicht immer werden Bildungsangebote – etwa zum Philosophieren oder zur frühen Auseinandersetzung mit Buchstaben – von den Eltern positiv bewertet. Aus diesem Grund ist es günstig, Eltern u. a. ausführlich über die Sprachentwicklung von Kindern in der Erst- und Zweitsprache, über die Bedeutung früher Literacyerfahrungen, über Buchkultur sowie über Medienpädagogik zu informieren. Bei Familien mit einer anderen Familiensprache als Deutsch und/oder Personen, die ihre (vor)schulische Sozialisation in einem anderen Land erfahren haben, ist darauf zu achten, dass Elterninformationen, wie Briefe, Aushänge, Folder oder die pädagogische Konzeption, von ihnen verstanden werden und eventuell auch in Übersetzung vorliegen.
 
 Bildungsplan-Anteil © 2009
 
@@ -2513,13 +2574,13 @@ Summary
 
 ### Early childhood language education as part of the curriculum in kindergarten
 
-The issues of preschool education and learning processes during early childhood have again been in the centre of educational policy debate since the publication of PISA-studies and of the OECD country report 'Starting Strong' (2006). The OECD experts recommend the elaboration of overall guidelines in order to formulate nation­ wide pedagogical standards for the education of younger children. Consequently, there is a call for an Austrian Curriculum for Early Childhood Education.
+The issues of preschool education and learning processes during early childhood have again been in the centre of educational policy debate since the publication of PISA-studies and of the OECD country report “Starting Strong” (2006). The OECD experts recommend the elaboration of overall guidelines in order to formulate nationwide pedagogical standards for the education of younger children. Consequently, there is a call for an Austrian Curriculum for Early Childhood Education.
 
-From a specialist and scientific point of view such a curriculum is characterised by openness, cultural diversity and complexity. It puts a special emphasis on the following principles and basic ideas: formation of perso­ nality, adequate  development,  holistic  learning,  significance  of  play,  integration,  intercultural  and  gender  aspects, individualization and differentiation, correctness and stress on co-operation among all stakeholders (services, professionals and parents).
+From a specialist and scientific point of view such a curriculum is characterised by openness, cultural diversity and complexity. It puts a special emphasis on the following principles and basic ideas: formation of personality, adequate development, holistic learning, significance of play, integration, intercultural and gender aspects, individualization and differentiation, correctness and stress on co-operation among all stakeholders (services, professionals and parents).
 
 Education starts as soon as a child deals actively with the educational offers of its environment. Thus education is more than a mere transfer of knowledge in the sense of skills. It includes the advancement of self- and social competences that are suited to the respective age and level of development of the child and the promotion of methodological learning competences.
 
-This part of the curriculum stipulates the basics principles for preschool work. It aims at educational processes which are supported by long-term pedagogical interventions. It is far from being a compulsive 'curriculum' that every child has to pass - possibly even within the same timeframe. The present curriculum much rather supplies stimuli for an adequate accompaniment, support and documentation of individual early childhood educational processes. From these processes specific offers that foster development with a view to individualisation can be deduced.
+This part of the curriculum stipulates the basics principles for preschool work. It aims at educational processes which are supported by long-term pedagogical interventions. It is far from being a compulsive “curriculum” that every child has to pass – possibly even within the same timeframe. The present curriculum much rather supplies stimuli for an adequate accompaniment, support and documentation of individual early childhood educational processes. From these processes specific offers that foster development with a view to individualisation can be deduced.
 
 Language training offers that are related to attaining and supporting competences adequate for children are exemplary for pedagogical work. The offers aim at an early identification of special talents, special needs or disabilities and a consequent adequate provision of support.
 
@@ -2541,27 +2602,27 @@ Summary
 
 #### Bilingualism and Multilingualism:
 
-Supporting and accompanying children who are learning an additional language can only succeed if their mother tongue (first language) is duly respected. Therefore the process must go hand in hand with principles of inter­ cultural pedagogy. The importance of dialect and/or idiom are taken into consideration, so that the child can feel at home in a language, respectively identify with it.
+Supporting and accompanying children who are learning an additional language can only succeed if their mother tongue (first language) is duly respected. Therefore the process must go hand in hand with principles of intercultural pedagogy. The importance of dialect and/or idiom are taken into consideration, so that the child can feel at home in a language, respectively identify with it.
 
 #### Communication and conversation culture:
 
-Language is being acquired via communicative processes during the entire time in kindergarten. The definition of communication exceeds oral communication by far - it is characterised by comprehensive and individual forms of expression.
+Language is being acquired via communicative processes during the entire time in kindergarten. The definition of communication exceeds oral communication by far – it is characterised by comprehensive and individual forms of expression.
 
-#### Book culture - literacy - digital media:
+#### Book culture – literacy – digital media:
 
-Providing  children's  books  and  dealing  with  literature  respectively  with  both  analogue  and  digital  media  is extremely­  suitable for initiating diverse and complex language-related educational processes. One of the focal points is to enrich the learning environment with materials that are connected to writing and languages.
+Providing children’s books and dealing with literature respectively with both analogue and digital media is extremely suitable for initiating diverse and complex language-related educational processes. One of the focal points is to enrich the learning environment with materials that are connected to writing and languages.
 
 #### Language training promotion through philosophical discussions:
 
-The daily routine in a kindergarten offers plenty of opportunities to lead philosophical discussions. This helps children to structure their thoughts and put them into words and thus develop their language skills in an atmo­ sphere of equality with others.
+The daily routine in a kindergarten offers plenty of opportunities to lead philosophical discussions. This helps children to structure their thoughts and put them into words and thus develop their language skills in an atmosphere of equality with others.
 
 #### Transition and language training promotion:
 
-Transitions are periods of change in life. Language is one of the key competences that can contribute ­ signifi­ cantly­ to coping successfully with such processes of change in a person's curriculum vitae.
+Transitions are periods of change in life. Language is one of the key competences that can contribute significantly to coping successfully with such processes of change in a person’s curriculum vitae.
 
 For all of these areas of education that are related to language different competences are specified. Children ought to acquire, respectively evolve, them in the course of their language and speech development. Central questions support teaching staff and motivate them to reflect and plan their educational offers. Furthermore exemplary proposals for pedagogical stimuli as well as for a model learning environment are laid down. In addition, this part of the early childhood curriculum formulates suggestions for a successful cooperation of parents, experts and institutions.
 
-The last two chapters ought to be understood as comprehensive explanations: They examine the importance of observation and documentation for planning activities and reflecting language-related educational efforts. In order to ensure that the language-related part of the curriculum is realised, structural and process-orientated quality standards , for example regarding adequate group sizes, child-staff ratios, elaboration of conceptions or stakeholder co-operation, are formulated.
+The last two chapters ought to be understood as comprehensive explanations: They examine the importance of observation and documentation for planning activities and reflecting language-related educational efforts. In order to ensure that the language-related part of the curriculum is realised, structural and process-orientated quality standards, for example regarding adequate group sizes, child-staff ratios, elaboration of conceptions or stakeholder co-operation, are formulated.
 
 72
 
@@ -2577,7 +2638,7 @@ Literatur
 
 Bensel, Joachim & Haug-Schnabel, Gabriele (2005). Kinder beobachten und Entwicklung dokumentieren. Kindergarten heute spezial. Herder.
 
-Blank-Mathieu, Margarete (2006). Gleichheit teilen - geschlechtsbezogene Pädagogik in Kindertageseinrichtungen. In Martin Textor (Hrsg.), Kindergartenpädagogik-Online-Handbuch. [Online im Internet] URL: http://www.Kindergartenpaedagogik.de/154.html [6. 7. 2006]
+Blank-Mathieu, Margarete (2006). Gleichheit teilen – geschlechtsbezogene Pädagogik in Kindertageseinrichtungen. In Martin Textor (Hrsg.), Kindergartenpädagogik-Online-Handbuch. [Online im Internet] URL: http://www.Kindergartenpaedagogik.de/154.html [6. 7. 2006]
 
 BMWAG (Hrsg.) (1997). LIFE. Ideen und Materialien für interkulturelles Lernen (Grundwerk).
 
@@ -2585,9 +2646,9 @@ München: BMWAG.
 
 Böhm, Dietmar, Böhm, Regine & Deiss-Niethammer, Birgit (1999). Handbuch interkulturelles Lernen. Theorie und Praxis für die Arbeit in Kindertageseinrichtungen (3. Auflage). Freiburg: Herder.
 
-Breit, Simone & Schneider, Petra (2008a). BESK 4-5. Beobachtungsbogen zur Erfassung der Sprachkompetenz 4- bis 5-Jähriger in Bildungs- und Betreuungseinrichtungen. Wien: bm:ukk.
+Breit, Simone & Schneider, Petra (2008a). BESK 4–5. Beobachtungsbogen zur Erfassung der Sprachkompetenz 4- bis 5-Jähriger in Bildungs- und Betreuungseinrichtungen. Wien: bm:ukk.
 
-Breit, Simone & Schneider, Petra (2008b). SSFB 4-5. Sprachstandsfeststellungsbogen für 4- bis 5-Jährige ohne institutionelle Bildung und Betreuung im Rahmen eines halbtägigen Schnuppertags im Kindergarten.
+Breit, Simone & Schneider, Petra (2008b). SSFB 4–5. Sprachstandsfeststellungsbogen für 4- bis 5-Jährige ohne institutionelle Bildung und Betreuung im Rahmen eines halbtägigen Schnuppertags im Kindergarten.
 
 Wien: bm:ukk.
 
@@ -2597,7 +2658,7 @@ Carle, Ursula, Grabeleu-Szczes, Dana & Levermann, Simone (2007). Sieh mir zu bei
 
 Christie, James F. (Ed.) (1991). Play and Early Literacy Development. State University of New York Press.
 
-Christie, James & Roskos, Kathleen A. (2007). Play in an era of childhood standards. In Tom Jambor & Jan van Gils (Eds.), Several perspectives on Children's Play. Scientific Reflections for Practioners. AntwerpenAppeldorn: Garant.
+Christie, James & Roskos, Kathleen A. (2007). Play in an era of childhood standards. In Tom Jambor & Jan van Gils (Eds.), Several perspectives on Children’s Play. Scientific Reflections for Practioners. Antwerpen-Appeldorn: Garant.
 
 Crystal, David (1995). Die Cambridge Enzyklopädie der Sprache. Frankfurt am Main: Campus.
 
@@ -2609,7 +2670,7 @@ Frankfurt/M.: Fischer.
 
 Ebers, Thomas & Melchers, Markus (2001). Wie kommen die Bäume in den Wald? Praktisches Philosophieren mit Kindern. Freiburg: Herder.
 
-ECCE Study Group (1997). European Child Care and Education Study: Cross National Analyses of the quality and effects of early childhood programmes on children's development. Freie Universität Berlin.
+ECCE Study Group (1997). European Child Care and Education Study: Cross National Analyses of the quality and effects of early childhood programmes on children’s development. Freie Universität Berlin.
 
 Ehlich, Konrad (2005). Anforderungen an Verfahren der regelmäßigen Sprachstandsfeststellung als Grundlage für die frühe und individuelle Förderung von Kindern mit und ohne Migrationshintergrund. Berlin: Bundesministerium für Bildung und Forschung (BMBF).
 
@@ -2623,19 +2684,19 @@ Bildungsplan-Anteil © 2009
 
 Literatur
 
-Elfe, Angelika (2007). Möglichkeiten und Grenzen der Kooperation von Kindertageseinrichtung und Grundschule auf dem Land. In Ursula Carle, Dana Grabeleu-Szczes & Simone Levermann (Hrsg.), Sieh mir zu beim Brückenbauen. Kinder in Bildungs- und Übergangsprozessen wahrnehmen, würdigen und fördern (S. 76-91). Berlin: Cornelsen Verlag Scriptor.
+Elfe, Angelika (2007). Möglichkeiten und Grenzen der Kooperation von Kindertageseinrichtung und Grundschule auf dem Land. In Ursula Carle, Dana Grabeleu-Szczes & Simone Levermann (Hrsg.), Sieh mir zu beim Brückenbauen. Kinder in Bildungs- und Übergangsprozessen wahrnehmen, würdigen und fördern (S. 76–91). Berlin: Cornelsen Verlag Scriptor.
 
 European Schoolnet (2006). The ICT Impact Report. A review of studies of ICT impact on schools in Europe. European Community. [Online im Internet]
 
-URL: http://ec.europa.eu/education/doc/reports/doc/ictimpact.pdf [15. 1. 2008]s
+URL: http://ec.europa.eu/education/doc/reports/doc/ictimpact.pdf [15. 1. 2008]
 
 Filipp, Sigrun-Heide (1995). Kritische Lebensereignisse (3. Aufl.). Weinheim: Beltz-PVU.
 
-Gartler, Claudia (2008). Die Förderung von Sprache und Schrifterwerb mit Informations- und Kommunika­ tionstechnologien (IKT) im Kindergarten. Unveröffentlichtes Manuskript.
+Gartler, Claudia (2008). Die Förderung von Sprache und Schrifterwerb mit Informations- und Kommunikationstechnologien (IKT) im Kindergarten. Unveröffentlichtes Manuskript.
 
 Generalversammlung der Vereinten Nationen (1989). Die Rechte der Kinder. Ravensburg: Ravensburger Buchverlag.
 
-Gombos,  Georg  (2003). Bildungschance  frühkindliche  Mehrsprachigkeit.  Frühkindlicher  Sprachenerwerb durch mehrsprachige Kindergärten. In James Allan (Hrsg.), Vielerlei Zungen. Mehrsprachigkeit + Spracherwerb + Pädagogik + Psychologie + Literatur + Medien (S. 49-85). Klagenfurt/Celovec: Drava.
+Gombos, Georg (2003). Bildungschance frühkindliche Mehrsprachigkeit. Frühkindlicher Sprachenerwerb durch mehrsprachige Kindergärten. In James Allan (Hrsg.), Vielerlei Zungen. Mehrsprachigkeit + Spracherwerb + Pädagogik + Psychologie + Literatur + Medien (S. 49–85). Klagenfurt/Celovec: Drava.
 
 Gopnik, Alison, Kuhl, Patricia & Meltzoff, Andrew (2001). Forschergeist in Windeln: Wie Ihr Kind die Welt begreift (2. Aufl.). Kreuzlingen: Ariston.
 
@@ -2649,17 +2710,17 @@ Haider, Günther & Reiter, Claudia (Hrsg.) (2004). PISA 2003. Internationaler Ve
 
 Hartmann, Waltraut & Stoll, Martina (2004). Mehr Qualität für Kinder. Qualitätsstandards und Zukunftsperspektiven für den Kindergarten. Wien: öbv & hpt.
 
-Hartmann, Waltraut (2005). Die Bedeutung des Spiels für die Entwicklung des Kindes. In Verlag der Fachzeitschrift Unsere Kinder (Hrsg.), ZeitRaum Kindergarten. Methoden des Kindergartens 1 (S. 106-112). Linz: Verlag der Fachzeitschrift Unsere Kinder.
+Hartmann, Waltraut (2005). Die Bedeutung des Spiels für die Entwicklung des Kindes. In Verlag der Fachzeitschrift Unsere Kinder (Hrsg.), ZeitRaum Kindergarten. Methoden des Kindergartens 1 (S. 106–112). Linz: Verlag der Fachzeitschrift Unsere Kinder.
 
-Hartmann,  Waltraut,  Hajszan,  Michaela,  Pfohl-Chalaupek,  Martina,  Stoll,  Martina  &  Hartel,  ­ Birgit (2009). Sprache, Kommunikation und Literacy im Kindergarten. Wien: hpt.
+Hartmann, Waltraut, Hajszan, Michaela, Pfohl-Chalaupek, Martina, Stoll, Martina & Hartel, Birgit (2009). Sprache, Kommunikation und Literacy im Kindergarten. Wien: hpt.
 
 Hartmann, Waltraut, Neugebauer, Reinhilde und Rieß, Andrea (1988). Spiel und elementares Lernen. Didaktik und Methodik des Spiels in der Grundschule. Wien: Österreichischer Bundesverlag.
 
-Hartmann,  Waltraut,  Stoll,  Martina,  Chisté,  Natalie  &  Hajszan,  Michaela  (2006). Bildungsqualität  im ­ Kindergarten. Transaktionale Prozesse, Methoden, Modelle (1. Aufl. 2000). Wien: öbv & hpt.
+Hartmann, Waltraut, Stoll, Martina, Chisté, Natalie & Hajszan, Michaela (2006). Bildungsqualität im Kindergarten. Transaktionale Prozesse, Methoden, Modelle (1. Aufl. 2000). Wien: öbv & hpt.
 
 Hebenstreit-Müller, Sabine & Kühnel, Barbara (Hrsg.) (2004). Kinderbeobachtung in Kitas. Erfahrungen und Methoden im ersten Early Exellence Centre in Berlin. Berlin: Dohrmann-Verlag.
 
-Hewes, Jane (2007). The value of play in early learning: towards a pedagogy. In Tom Jambor & Jan van Gils (Eds.),  Several  perspectives  on  Children's  Play.  Scientific  Reflections  for  Practioners.  Antwerpen-Appeldorn: Garant .
+Hewes, Jane (2007). The value of play in early learning: towards a pedagogy. In Tom Jambor & Jan van Gils (Eds.), Several perspectives on Children’s Play. Scientific Reflections for Practioners. Antwerpen-Appeldorn: Garant .
 
 Hollerer Luise & Seel, Andrea (2005). Schultütenkinder. Graz: Leykam.
 
@@ -2683,7 +2744,7 @@ Das Kind als Akteur seiner Entwicklung. Idee und Praxis der Selbstgestaltung in 
 
 Kompetenzzentrum der PH OÖ (2008). Bildungsstandards für Sprech- und Sprachkompetenz D+ (unveröffentlichte vorläufige Version 1. 6. 2008).
 
-Kracht, Annette (2007). Mehrsprachigkeit als kindliche Entwicklungsaufgabe - entwicklungstheoretische und pädagogische Perspektiven. Vortrag am 17. Januar 2007 in Wien.
+Kracht, Annette (2007). Mehrsprachigkeit als kindliche Entwicklungsaufgabe – entwicklungstheoretische und pädagogische Perspektiven. Vortrag am 17. Januar 2007 in Wien.
 
 Krenz, Armin (2003). Ist mein Kind schulfähig? Ein Orientierungsbuch (3. Aufl.). München: Kösel.
 
@@ -2691,19 +2752,19 @@ Ledl, Victor (2003). Kinder beobachten und fördern. Eine Handreichung zur gezie
 
 Lehrplan der Volksschule (2003). Herausgegeben von Wilhelm Wolf. Wien: öbv & hpt.
 
-List, Gudula (2006). Die Funktionen von Sprache und Spracherwerb für die kognitive und sozial-kom­ munikative Entwicklung. In Karin Jampert, Kerstin Leuckefeld, Anne Zehnbauer & Petra Best (Hrsg.), Sprachliche Förderung in der Kita. Wie viel Sprache steckt in Musik, Bewegung, Naturwissenschaften und Medien? ­ (S. 15­ -22). Weimar: verlag das netz.
+List, Gudula (2006). Die Funktionen von Sprache und Spracherwerb für die kognitive und sozial-kommunikative Entwicklung. In Karin Jampert, Kerstin Leuckefeld, Anne Zehnbauer & Petra Best (Hrsg.), Sprachliche Förderung in der Kita. Wie viel Sprache steckt in Musik, Bewegung, Naturwissenschaften und Medien? (S. 15–22). Weimar: verlag das netz.
 
 Mairinger, Hans Dieter (2005). Die Sprache des Herzens. Plädoyer für die Mundart.
 
 Unsere Kinder, 5/2005, 10-11.
 
-Mehl,  Christine  (2005). Beobachten  unter  der  Lupe.  In  EntwicklungsRaum  Kindergarten.  Methoden  des ­ Kindergartens 2 (S. 32-39). Linz: Unsere Kinder.
+Mehl, Christine (2005). Beobachten unter der Lupe. In EntwicklungsRaum Kindergarten. Methoden des Kindergartens 2 (S. 32–39). Linz: Unsere Kinder.
 
-Mitroviç, Michael G. (2004). Bilinguale Erziehung im Vorschulalter. In Ilse Wehrmann (Hrsg.), Kindergärten und ihre Zukunft (S. 193-204). Weinheim: Beltz.
+Mitroviç, Michael G. (2004). Bilinguale Erziehung im Vorschulalter. In Ilse Wehrmann (Hrsg.), Kindergärten und ihre Zukunft (S. 193–204). Weinheim: Beltz.
 
 NAEYC (2000). Accreditation criteria and procedures of the National Academy of Early Childhood Programs (rev. ed.). Washington, DC: NAEYC. Swedish Ministry of Education and Science.
 
-Nieder, Gerlinde (2006). 'Brücken bauen' - Übergänge bewältigen: Transitionen in Bildungseinrichtungen gestalten. KIM. Kinder im Mittelpunkt. Der Newsletter des Kindergarten- und Hortreferates, II/2006, 6-7.
+Nieder, Gerlinde (2006). „Brücken bauen“ – Übergänge bewältigen: Transitionen in Bildungseinrichtungen gestalten. KIM. Kinder im Mittelpunkt. Der Newsletter des Kindergarten- und Hortreferates, II/2006, 6–7.
 
 OECD (2006). Starting Strong. Early Childhood Education and Policy. Länderbericht für Österreich. [Online im Internet] URL: www.oecd.org/dataoecd/57/58/36657509.pdf [3. 6. 2008]
 
@@ -2711,15 +2772,15 @@ Petermann, Hans-Bernhard (2004). Kann ein Hering ertrinken? Philosophieren mit B
 
 Weinheim: Beltz.
 
-Rössl, Barbara (2007). Sprachkompetenzmodell für 4;6 bis 5;0-jährige Vorschulkinder. Im Auftrag des ZVB Projektzentrum für Vergleichende Bildungsforschung.
+Rössl, Barbara (2007). Sprachkompetenzmodell für 4;6 bis 5;0-jährige Vorschulkinder. Im Auftrag des ZVB – Projektzentrum für Vergleichende Bildungsforschung.
 
 Rössl, Barbara (2008). Sprachwissenschaftliche Rückmeldung zum Entwurf des Bildungsplan-Anteils. Unveröffentlichtes Manuskript.
 
 Sander, Rita & Spanier, Rita (2006). Sprachentwicklung und Sprachförderung. Grundlagen für die pädagogische Praxis. Kindergarten heute spezial. Freiburg: Herder.
 
-Schaner-Wolles, Chris (2005a). Sprachliche  Entwicklung  des  Kindes  -  Kommunikation  zwischen  Kindern bzw. zwischen Kindern und Erwachsenen. In BMBWK (Hrsg.), Sprachliche Förderung von Kindern im Jahr vor dem Schuleintritt (S. 49-63). Wien: BMBWK.
+Schaner-Wolles, Chris (2005a). Sprachliche Entwicklung des Kindes – Kommunikation zwischen Kindern bzw. zwischen Kindern und Erwachsenen. In BMBWK (Hrsg.), Sprachliche Förderung von Kindern im Jahr vor dem Schuleintritt (S. 49–63). Wien: BMBWK.
 
-Schaner-Wolles, Chris (2005b). Sprachentwicklungsauffälligkeiten: Sprachentwicklungsverzögerungen bzw. -störungen. In BMBWK (Hrsg.), Sprachliche Förderung von Kindern im Jahr vor dem Schuleintritt (S. 78-90). Wien: BMBWK.
+Schaner-Wolles, Chris (2005b). Sprachentwicklungsauffälligkeiten: Sprachentwicklungsverzögerungen bzw. -störungen. In BMBWK (Hrsg.), Sprachliche Förderung von Kindern im Jahr vor dem Schuleintritt (S. 78–90). Wien: BMBWK.
 
 Bildungsplan-Anteil © 2009
 
@@ -2731,15 +2792,17 @@ Bildungsplan-Anteil © 2009
 
 Schneider, Claudia (2005). Qualitätsstandards für geschlechtssensible Pädagogik. Stadt Wien, MA 57.
 
-Schneider, Stefan (2003). Frühkindliche Mehrsprachigkeit aus sprachwissenschaftlicher Sicht. In Allan James (Hrsg.), Vielerlei Zungen. Mehrsprachigkeit + Spracherwerb + Pädagogik + Psychologie + Literatur + Medien (S. 11-48). Klagenfurt/Celovec: Drava.
+Schneider, Stefan (2003). Frühkindliche Mehrsprachigkeit aus sprachwissenschaftlicher Sicht. In Allan James (Hrsg.), Vielerlei Zungen. Mehrsprachigkeit + Spracherwerb + Pädagogik + Psychologie + Literatur + Medien (S. 11–48). Klagenfurt/Celovec: Drava.
 
 Schreiner, Claudia (Hrsg.) (2007). PISA 2006. Internationaler Vergleich von Schülerleistungen. Erste Ergebnisse. Graz: Leykam.
 
-Senatsverwaltung für Bildung, Jugend und Sport (2004). Das Berliner Bildungsprogramm. Berlin: das netz. Siraj-Blatchford, Iram & Siraj-Blatchford, John (2006). Developmentally Appropriate Technology in Early Childhood (DATEC) In Iram Siraj-Blatchford & John Siraj-Blatchford (Eds.), A Guide to developing the ICT curriculum for Early Childhood Education. Trowbridge: Cromwell press Ltd.
+Senatsverwaltung für Bildung, Jugend und Sport (2004). Das Berliner Bildungsprogramm. Berlin: das netz.
 
-Stadelmann, Willi (2004). Frühe Förderung und lebensbegleitendes Lernen im Lichte neuropsychologischer Erkenntnisse. In BMBWK (Hrsg.), Lebenslanges Lernen in der Wissensgesellschaft. Voraussetzungen und Rahmenbedingungen (S. 169-188). Innsbruck: Studienverlag.
+Siraj-Blatchford, Iram & Siraj-Blatchford, John (2006). Developmentally Appropriate Technology in Early Childhood (DATEC) In Iram Siraj-Blatchford & John Siraj-Blatchford (Eds.), A Guide to developing the ICT curriculum for Early Childhood Education. Trowbridge: Cromwell press Ltd.
 
-Tietze, Wolfgang, Meischner, T., Gänsfuss, R., Grenner, Katja, Schuster, Käthe-Maria, Völkel, P .
+Stadelmann, Willi (2004). Frühe Förderung und lebensbegleitendes Lernen im Lichte neuropsychologischer Erkenntnisse. In BMBWK (Hrsg.), Lebenslanges Lernen in der Wissensgesellschaft. Voraussetzungen und Rahmenbedingungen (S. 169–188). Innsbruck: Studienverlag.
+
+Tietze, Wolfgang, Meischner, T., Gänsfuss, R., Grenner, Katja, Schuster, Käthe-Maria, Völkel, P.
 
 & Roßbach, Hans-Günther (1998). Wie gut sind unsere Kindergärten? Eine empirische Untersuchung zur pädagogischen Qualität in deutschen Kindergärten. Neuwied: Luchterhand.
 
@@ -2747,9 +2810,9 @@ Ulich, Michaela & Mayr, Toni (2003). Sismik. Sprachverhalten und Interesse an Sp
 
 Ulich, Michaela & Mayr, Toni (2006). Seldak. Sprachentwicklung und Literacy bei deutschsprachig aufwachsenden Kindern (Beobachtungsbogen und Begleitheft). Freiburg: Herder.
 
-Ulich,  Michaela  (2000a). Fremdsprachen  im  Kindergarten.  Plädoyer  für  eine  bewusstere  Sprach-Kultur. ­ Unsere Kinder, 55, 122-127.
+Ulich, Michaela (2000a). Fremdsprachen im Kindergarten. Plädoyer für eine bewusstere Sprach-Kultur. Unsere Kinder, 55, 122–127.
 
-Ulich, Michaela (2000b). Literacy - sprachliche Bildung im Elementarbereich. kiga heute, 3/2000, 6-18.
+Ulich, Michaela (2000b). Literacy – sprachliche Bildung im Elementarbereich. kiga heute, 3/2000, 6–18.
 
 Wagner, Petra (2004) Sprachliche Bildung und gesellschaftliche Ausgrenzung. Anforderungen an Kindertageseinrichtungen. [Online im Internet]
 
@@ -2757,9 +2820,9 @@ URL: http://www.kinderwelten.net/pdf/29_sprachliche_bildung_und_ausgrenzung.pdf 
 
 Watzlawick, Paul & Beavin, Janet (1997). Einige formale Aspekte der Kommunikation. In Paul Watzlawick & John H. Weakland (Hrsg.), Interaktion. Menschliche Probleme und Familientherapie. München: Piper.
 
-White, R. W. (1959). Motivation reconsidered: The concept of competence. Psychological Review, 66, 297-333.
+White, R. W. (1959). Motivation reconsidered: The concept of competence. Psychological Review, 66, 297–333.
 
-Zehnbauer, Anna & Jampert, Karin (2007). Sprachliche  Bildung  und  Sprachförderung  im  Rahmen  einer ganzheitlichen  Elementarpädagogik.  In  Karin  Jampert,  Petra  Best,  Angela  Guadatiello,  Doris  Holler  &  Anna Zehnbauer.  Schlüsselkompetenz  Sprache.  Sprachliche  Bildung  und  Förderung  im  Kindergarten  (S.  33-37). Berlin: das netz.
+Zehnbauer, Anna & Jampert, Karin (2007). Sprachliche Bildung und Sprachförderung im Rahmen einer ganzheitlichen Elementarpädagogik. In Karin Jampert, Petra Best, Angela Guadatiello, Doris Holler & Anna Zehnbauer. Schlüsselkompetenz Sprache. Sprachliche Bildung und Förderung im Kindergarten (S. 33–37). Berlin: das netz.
 
 Zimmer, Renate. (2005) Bewegung und Sprache. Erarbeitung eines Konzepts zur Verknüpfung des Entwicklungs-  und  Bildungsbereichs  Bewegung mit  der  sprachlichen  Förderung  in  Kindertagesstätten.  Expertise  im Auftrag des Deutschen Jugendinstituts, München. Unveröffentlichtes Manuskript. [Online im Internet]
 
