@@ -20,7 +20,9 @@ Constitutional and Legal Rights
 
 Politics and Decision Making
 
-Gender and Environment Health
+Gender and Environment
+
+Health
 
 5
 
@@ -38,6 +40,42 @@ To eradicate gender discrimination and inequalities in all spheres of life and d
 
 ## TABLE OF CONTENTS
 
+ACRONYMS .....................................................................................................................................................................I
+FOREWORD.....................................................................................................................................................................I
+PREFACE.........................................................................................................................................................................II
+ACKNOWLEDGEMENTS.................................................................................................................................................III
+EXECUTIVE SUMMARY................................................................................................................................................. IV
+1.0 BACKGROUND......................................................................................................................................................1
+1.1. INTRODUCTION.......................................................................................................................................................1
+1.2. THE LEGAL AND POLICY FRAMEWORK..........................................................................................................................2
+2.0 SITUATION ANALYSIS ...............................................................................................................................................3
+2.1. OVERVIEW.............................................................................................................................................................3
+2.2. ANALYSIS OF SPECIFIC AREAS .....................................................................................................................................3
+(i) Gender in Governance (Representation and Participation).......................................................................3
+(ii) Gender in Education and Training: .............................................................................................................4
+(iii) Gender in Productive Resources and Employment:...................................................................................4
+(iv) Gender Based Violence (GBV): ...................................................................................................................6
+(v) Gender in Health and HIV and AIDS:...............................................................................................................6
+(vi) Gender and Peace Building and Conflict Resolution: .................................................................................7
+(vii) Gender, Environment and Climate Change: ..........................................................................................9
+3. THEMATIC AREAS.....................................................................................................................................................10
+4.0. VISION, GOAL, OBJECTIVES AND GUIDING PRINCIPLES ........................................................................................11
+4.1. VISION................................................................................................................................................................11
+4.2. GOAL..................................................................................................................................................................11
+4.3. POLICY OBJECTIVES ...............................................................................................................................................11
+4.4. PRINCIPLES GUIDING THE POLICY .............................................................................................................................12
+5.0. POLICY STRATEGIES ..............................................................................................................................................13
+5.1. GENDER, CONSTITUTIONAL AND LEGAL RIGHTS...........................................................................................................13
+5.3. GENDER, POLITICS AND DECISION MAKING................................................................................................................15
+5.4. GENDER AND HEALTH ............................................................................................................................................16
+5.5. GENDER, EDUCATION AND TRAINING........................................................................................................................17
+5.6. GENDER BASED VIOLENCE ......................................................................................................................................18
+5.7. GENDER, ENVIRONMENT AND CLIMATE CHANGE ........................................................................................................19
+5.8. GENDER, MEDIA, INFORMATION COMMUNICATION AND TECHNOLOGY...........................................................................20
+6.0 INSTITUTIONAL ARRANGEMENTS FOR IMPLEMENTING THE NGP ........................................................................20
+7.0. MONITORING AND EVALUATION .........................................................................................................................23
+8.0 TIMEFRAME OF THE NGP .....................................................................................................................................24
+DEFINITION OF TERMS.................................................................................................................................................24
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -158,9 +196,9 @@ Small to Medium Enterprise
 
 UN
 
-UNDP
-
 United Nation
+
+UNDP
 
 United Nations Development Programme
 
@@ -187,7 +225,6 @@ i
 [[START OF PAGE 5]]
 
 ## FOREWORD
----
 
 (President)
 
@@ -221,7 +258,7 @@ This second National Gender Policy replaces the first National Gender Policy of 
 
 This second NGP seeks to address the shortcomings of the 2004 NGP and the emerging issues prevailing under  the  changing  political,  economic  and  social  contexts  at  local,  regional  and  global  levels.  At international and regional levels, some of the key developments post 2004 that set out new priorities include: (i) the 2005 Beijing+10 global review that made recommendations to areas that required special attention  and  action;  (ii)  the  submission  of  the  combined  State  Party  CEDAW  Report;  (iii)  the development  a  national  follow-  up  plan  on  Rio,  and  (iv)  the  2008  SADC  Protocol  on  Gender  and Development  that  set  out  28  substantive  targets  for  achieving  gender  equality  by  2015.  The  key developments at national level include  (i) the elaborate new Constitutional provisions with a thrust on gender equality; (ii) the Medium Term Plan (2012-2015) the national economic development strategy which  introduces  a  development  paradigm  emphasising  on  gender  responsive  budgets  and  gender mainstreaming  into  economic  activities  and  commits  to  advancing  equal  participation  in  productive sectors;  (iii)  The  indigenisation  drive  which  motivated  the  development  and  implementation  of  the Indigenization and Empowerment Policy; (iv) the 2011 Broad Based Women's Economic Empowerment Framework (BBWEEF), a mechanism for women's economic empowerment applicable across all sectors and levels of society; and (v) the Land Reform programme implemented over the past 10 years, whose gains will, to a great extent, be meaningfully consolidated under new gender policy provisions. Other changes  that  further  pronounce  gender  disparities  include  technology  advancements  and  climate change.
 
-The developments stated above have implications on gender equality and make a new NGP imperative for  the  effective  advancement  of  gender  equality  and  equity.  This  second  National  Gender  Policy therefore seeks to achieve a gender just society where men and women enjoy equality and equity and participate  as  equal  partners  in  the  development  process  of  the  country . The  policy  goal  is 'To eradicate gender discrimination and inequalities in all spheres of life and development.'
+The developments stated above have implications on gender equality and make a new NGP imperative for the effective advancement of gender equality and equity. This second National Gender Policy therefore seeks to achieve a gender just society where men and women enjoy equality and equity and
 
 iv
 
@@ -229,7 +266,9 @@ iv
 
 [[START OF PAGE 9]]
 
-Eight  priority  areas  were  identified  namely:    Gender,  Constitutional  and  Legal  Rights;  Gender  and Economic Empowerment; Gender, Politics and Decision Making; Gender and Health; Gender, Education and Training;  Gender  Based  Violence;  Gender  and  Environment;  and  Gender, Media  and  ICTS.  These thematic areas form the basis for the development of policy objectives and strategies for the period 2013-2017.  This  NGP  is  underpinned  by  principles  of  gender  justice, equality, integration  and inclusiveness.
+participate as equal partners in the development process of the country. The policy goal is “To eradicate gender discrimination and inequalities in all spheres of life and development.”
+
+Eight priority areas were identified namely: Gender, Constitutional and Legal Rights; Gender and Economic Empowerment; Gender, Politics and Decision Making; Gender and Health; Gender, Education and Training; Gender Based Violence; Gender and Environment; and Gender, Media and ICTS. These thematic areas form the basis for the development of policy objectives and strategies for the period 2013-2017. This NGP is underpinned by principles of gender justice, equality, integration and inclusiveness.
 
 v
 
@@ -237,19 +276,25 @@ v
 
 [[START OF PAGE 10]]
 
-## 1.0 | BACKGROUND
---- | ---
+## 1.0 BACKGROUND
 
 ### 1.1. Introduction
----
 
-The quest for gender equity has evolved from advocacy, negotiation and consensus building, awareness rising on the importance of gender equity, to a point where gender considerations are an obligation in development  programming  and  implementation. The second National Gender  Policy for the Government of Zimbabwe replaces the first NGP crafted in 2004. The 2004 NGP was the first policy framework  to  provide  a  gender  perspective  to  the  principle  of  'Growth  with  Equity'  that  had  been adopted by Zimbabwe to address the gender and race inequities. Achievements during the tenure of the 2004 NGP policy are notable. The main achievement was the increase  in  awareness  of  gender  equality  and  equity  as  an  imperative  for  social  justice  and  sound economics.  This  has  seen  earnest  initiatives  for  gender  mainstreaming  across  all  sectors.  The  other achievement  relates  to  the  consolidation  of  the  planning  and  implementation  frameworks  and structures  to  effectively  pursue  the  objectives  of  the  policy.  These  include  among  others,  the establishment  of  the  Gender  Department  within  the  relevant  ministry,  the  establishment  of  Gender Focal Points in all line ministries and parastatals, the development and implementation of the Gender Budgeting  that  saw  the  creation  of  the  Women's  Fund;  the  initiation  of  the  Gender  Responsive Economic  Policy  Management  initiative;  and  the  launch  of  the  BBWEEF.  A  number  of  sector  specific achievements were also recorded e.g. in Education, Health, HIV and AIDS and Governance. There has been  an  emergence  of  new  players  and  strong  partnerships  have  been  forged  between  public  and private sectors, international development agencies and a range of other non state actors. The need for a new Gender Policy is apparent for two main reasons. Firstly, important targets that were set  in  2004  GNP,  the  2008  SADC  Protocol  and  the  Millennium  Development  Goals,  are  yet  to  be achieved. Secondly, new development priorities are emerging at global and regional levels whilst the social, political and economic landscape in Zimbabwe has changed. It is acknowledged that the pathway to gender equity and equality ensues through a process whose course should adhere to ever-changing contexts. The guiding policy frameworks and strategies therefore need to be continuously assessed and reviewed for them to remain relevant and effective within changing contexts. The most notable national landscape  change  is  the  new  Constitution  whose  provision  for  gender  equality  is  very  explicit.  Other priorities are emerging through the 2008 SADC Protocol, the commitments towards addressing Climate Change, Zimbabwe's Land Reform, Economic Recovery Programme, Indigenisation and Empowerment framework  and  other  sector  specific  national  initiatives.  All  these  spell  out  new  commitments  that necessitated a review of the 2004 Policy. The mission for gender equality and equity needs to be aligned to this landscape. This NGP therefore provides a new framework for gender equality and equity. It outlines Zimbabwe's vision  for  a  gender  just  society  and  how  the  nation  should  strive  towards  this  ideal.  It  details  the overarching principles, eight priority thematic areas, policy objectives and strategies. It also defines the institutional  arrangements  through  which  the  policy  will  be  implemented  and  a  framework  for monitoring and evaluating the progress and achievements of this policy.
+The quest for gender equity has evolved from advocacy, negotiation and consensus building, awareness rising on the importance of gender equity, to a point where gender considerations are an obligation in development programming and implementation. The second National Gender Policy for the Government of Zimbabwe replaces the first NGP crafted in 2004. The 2004 NGP was the first policy framework to provide a gender perspective to the principle of “Growth with Equity” that had been adopted by Zimbabwe to address the gender and race inequities.
+
+Achievements during the tenure of the 2004 NGP policy are notable. The main achievement was the increase in awareness of gender equality and equity as an imperative for social justice and sound economics. This has seen earnest initiatives for gender mainstreaming across all sectors. The other achievement relates to the consolidation of the planning and implementation frameworks and structures to effectively pursue the objectives of the policy. These include among others, the establishment of the Gender Department within the relevant ministry, the establishment of Gender Focal Points in all line ministries and parastatals, the development and implementation of the Gender Budgeting that saw the creation of the Women’s Fund; the initiation of the Gender Responsive Economic Policy Management initiative; and the launch of the BBWEEF. A number of sector specific achievements were also recorded e.g. in Education, Health, HIV and AIDS and Governance. There has been an emergence of new players and strong partnerships have been forged between public and private sectors, international development agencies and a range of other non state actors.
+
+The need for a new Gender Policy is apparent for two main reasons. Firstly, important targets that were set in 2004 GNP, the 2008 SADC Protocol and the Millennium Development Goals, are yet to be achieved. Secondly, new development priorities are emerging at global and regional levels whilst the social, political and economic landscape in Zimbabwe has changed. It is acknowledged that the pathway to gender equity and equality ensues through a process whose course should adhere to ever-changing contexts. The guiding policy frameworks and strategies therefore need to be continuously assessed and reviewed for them to remain relevant and effective within changing contexts. The most notable national landscape change is the new Constitution whose provision for gender equality is very explicit. Other priorities are emerging through the 2008 SADC Protocol, the commitments towards addressing Climate Change, Zimbabwe’s Land Reform, Economic Recovery Programme, Indigenisation and Empowerment framework and other sector specific national initiatives. All these spell out new commitments that necessitated a review of the 2004 Policy. The mission for gender equality and equity needs to be aligned to this landscape.
+
+This NGP therefore provides a new framework for gender equality and equity. It outlines Zimbabwe’s vision for a gender just society and how the nation should strive towards this ideal. It details the overarching principles, eight priority thematic areas, policy objectives and strategies. It also defines the
 
 1
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+institutional arrangements through which the policy will be implemented and a framework for monitoring and evaluating the progress and achievements of this policy.
 
 ### 1.2. The Legal and Policy framework
 
@@ -265,7 +310,7 @@ In  2008,  Zimbabwe  ratified  the  protocol  to  the  2003  African  Charter  o
 Zimbabwe  has  made  significant  strides  in  amending  and enacting  legislation  and  has  passed  out  17  pieces  of  legislation  to  advance  the  gender  equality  and equity objective. These include Matrimonial Causes Act (1987); Maintenance Act (1999); Administration of Estate Act (1997); Maintenance Act (1999); Sexual Offences Act (2001), Education Act (2004), Labour Act,  [Chapter 28:01]; Criminal Law Act (2006); Domestic Violence Act (2007).  The 2004 Public Sector Gender Policy put in place Gender Focal Points in all Ministries and parastatals and in 2012 dialogue was initiated to set up a Gender Commission.
 
 #### Zimbabwe's Constitution:
-The Constitution of Zimbabwe adopted in 2013 is widely acknowledged for its firm  commitment  to  gender  equality.  The  affirmative  action  provisions  further  assert  the  new Constitution's  resolve  for  gender  inequality  redress.  The  constitution  reaffirms  earlier  commitments shown by the 2005 Constitutional Amendment # 17 which prohibited discrimination on the grounds of sex. Chapter 2 on National Objectives spells out gender balance as one of the objectives to guide the state, all institutions and agencies of Government. Throughout the statement of 26 national objectives, equality is emphasised and where appropriate women and girls are specifically mentioned. The Bill of Rights  in  Chapter  4  of  the  new  Constitution  recognises  that  men  and  women  have  a  right  to  equal treatment, including right  to equal opportunities in political, economic, cultural and social spheres. It accords to  women the right  to custody  and  guardianship,  and  makes  void  all  laws,  customs,  cultural practices  and  traditions  that  infringe  on  the  rights  of  women  and  girls.  Certain  sections  are  further elaborated to ensure certainty in the application of these rights.
+The Constitution of Zimbabwe adopted in 2013 is widely acknowledged for its firm commitment to gender equality. The affirmative action provisions further assert the new Constitution’s resolve for gender inequality redress. The constitution reaffirms earlier commitments shown by the 2005 Constitutional Amendment # 17 which prohibited discrimination on the grounds of sex. Chapter 2 on National Objectives spells out gender balance as one of the objectives to guide the state, all institutions and agencies of Government. Throughout the statement of 26 national objectives, equality is emphasised and where appropriate women and girls are specifically mentioned. The Bill of Rights in Chapter 4 of the new Constitution recognises that men and women have a right to equal treatment, including right to equal opportunities in political, economic, cultural and social spheres. It
 
 2
 
@@ -273,7 +318,9 @@ The Constitution of Zimbabwe adopted in 2013 is widely acknowledged for its firm
 
 [[START OF PAGE 12]]
 
-The  policy  and  legislative  framework  and  the  prevailing  social,  economic  and  political  developments provide a firm basis to pursue gender equality and equity defined in this NGP.
+accords to women the right to custody and guardianship, and makes void all laws, customs, cultural practices and traditions that infringe on the rights of women and girls. Certain sections are further elaborated to ensure certainty in the application of these rights.
+
+The policy and legislative framework and the prevailing social, economic and political developments provide a firm basis to pursue gender equality and equity defined in this NGP.
 
 ## 2.0 SITUATION ANALYSIS
 
@@ -402,7 +449,7 @@ The statistics show a worsening trend with women in a worse off position. It is 
 #### (vi) Gender  and  Peace  Building  and  Conflict  Prevention,  Management  and  Resolution:
 Peace building and conflict resolution is a fairly new area of emphasis for Zimbabwe. Over the years Zimbabwe has generally enjoyed relative peace and calm hence the issue received less focus. However, peace building and conflict resolution have become central with the increasing need for  tolerance,  acceptance and respect for diversity as the country pursues its commitment to pluralism  in  a  multiparty  and  democratic  state  where  citizens  are  free  to  demand  the recognition of their rights. Women constitute 52% of the population, and over 70% of the rural population, and hence are more likely to be impacted negatively by conflict and lack of peace. The role of women in peace and conflict resolution processes is therefore critical for their social, economic and political empowerment.
 
-A number of international frameworks set out the parameters for implementing peace building recognise  the  important  role  of  women.  These  include  the  United  Nations  Security  Council Resolution (UNSCR) 1325 on Women, Peace and Security of 2000; Convention on the Elimination of  All  Forms  of  Discrimination  Against  Women (CEDAW);  and  United Nations Security Council Resolution  1889,  and  1820  of  2008.  The  main  regional  peace  building  mechanism  that Zimbabwe  is  party  to  the  African  Union  Policy on  Post -  Conflict  Reconstruction  and Development. The role of women in peace-building and conflict-resolution is enshrined in the SADC Gender Protocol, article 28 which states that: 'State Parties shall endeavour to put in place measures to ensure that women have equal representation and participation in key decisionmaking positions in conflict resolution and peace building processes by 2015 in accordance with UNCSR 1325 provision.
+A number of international frameworks set out the parameters for implementing peace building recognise the important role of women. These include the United Nations Security Council
 
 7
 
@@ -410,7 +457,9 @@ A number of international frameworks set out the parameters for implementing pea
 
 [[START OF PAGE 17]]
 
-At  national  level,  realising  the  importance  of  peace  and  reconciliation,  an  Organ  for  National Healing, Reconciliation and Integration was established, under which Zimbabwe National Policy Framework  for  Peace  and  Reconciliation  is  established.  The  framework  provides  for  the establishment of a National Peace and Reconciliation Council (NPRC) made up of nine members, four of whom must be women.  The Constitution makes provision for the establishment of a National Peace and Reconciliation Commission and the Zimbabwe Human Rights Commission.
+Resolution (UNSCR) 1325 on Women, Peace and Security of 2000; Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW); and United Nations Security Council Resolution 1889, and 1820 of 2008. The main regional peace building mechanism that Zimbabwe is party to the African Union Policy on Post – Conflict Reconstruction and Development. The role of women in peace-building and conflict-resolution is enshrined in the SADC Gender Protocol, article 28 which states that: ‘State Parties shall endeavour to put in place measures to ensure that women have equal representation and participation in key decision-making positions in conflict resolution and peace building processes by 2015 in accordance with UNCSR 1325 provision.
+
+At national level, realising the importance of peace and reconciliation, an Organ for National Healing, Reconciliation and Integration was established, under which Zimbabwe National Policy Framework for Peace and Reconciliation is established. The framework provides for the establishment of a National Peace and Reconciliation Council (NPRC) made up of nine members, four of whom must be women. The Constitution makes provision for the establishment of a National Peace and Reconciliation Commission and the Zimbabwe Human Rights Commission.
 
 Although the space for the involvement of women in peace building and conflict resolution has been provided, the participation of women in peace negotiations is low as demonstrated by the following:
 
@@ -454,7 +503,7 @@ Despite  efforts  to  engender  policies  and  ensure  universal  access  and  e
 Language barriers, sexual harassment, patriarchy, cultural norms, and lack of income, education and poverty among women prevent women from positively and optimally utilising media and ICT as a development tool.
 
 #### (viii) Gender, Environment and Climate Change:
-Climate change as a development subject matter is critical  for  Zimbabwe  where  70%  of  the  population  are  small  holder  farmers  and  rely  on agriculture for livelihoods. The economy is agro based, hence subject to climate change risks. The largest  group  of  people  in  farming  activities  are  women  (86%).    Developing  countries  like Zimbabwe are increasingly becoming vulnerable to climate change and environmental degradation  whose  effects  threaten  to  erode  human  freedoms  and  limit  choice.  The  gender differences  between  men  and  women  imply  that  their  vulnerabilities  differ.  Since  women  are already in  a  disadvantaged  position,  effects  of  climate  change  threaten  to  further  increase  the inequality.  The  reliance  of  women on  natural  resources  for  food  and  income,  limited  access to productive  resources,  combined  with  their  disadvantaged  position  in  society  increases  their vulnerability to climate change induced distress. It is also important to note that women have a significant role to play in climate change adaptation and mitigation as they acquired environmental management skills through experience in utilising natural resources. It is therefore imperative  to  make  gender  considerations  in  climate  change  and  environment  conservation strategies.
+Climate change as a development subject matter is critical for Zimbabwe where 70% of the population are small holder farmers and rely on agriculture for livelihoods. The economy is agro based, hence subject to climate change risks. The largest group of people in farming activities are women (86%). Developing countries like Zimbabwe are increasingly becoming vulnerable to climate change and environmental
 
 9
 
@@ -462,7 +511,9 @@ Climate change as a development subject matter is critical  for  Zimbabwe  where
 
 [[START OF PAGE 19]]
 
-Apart from gender mainstreaming, a cross cutting approach to programming, Zimbabwe has not developed any other framework to comprehensively address gender inequalities in environment conservation  and  climate  change  adaptation  and  mitigation.  Zimbabwe  is  drafting  a  Climate Change  National  Response  Strategy  and  is  working  towards  a  Green  Economy,  frameworks  in which strategies to address these inequalities ought to feature. There is need to consider taking a gender approach in design and implementation of policies on how to adapt and mitigate climate change and how men and women can contribute to and benefit from a green economy. This is crucial to effectively address the needs of both men and women as they relate to the Millennium Development Goals (MDGs), in particular, Goal 1, to eradicate extreme poverty and hunger, Goal 3 to promote gender equality and Goal 7 to ensure environmental sustainability.  Women's equal participation  in  climate  change  negotiation  processes  at  local,  national  and  global  levels  will ensure that their needs, perspectives and expertise are equally taken into account.
+degradation whose effects threaten to erode human freedoms and limit choice. The gender differences between men and women imply that their vulnerabilities differ. Since women are already in a disadvantaged position, effects of climate change threaten to further increase the inequality. The reliance of women on natural resources for food and income, limited access to productive resources, combined with their disadvantaged position in society increases their vulnerability to climate change induced distress. It is also important to note that women have a significant role to play in climate change adaptation and mitigation as they acquired environmental management skills through experience in utilising natural resources. It is therefore imperative to make gender considerations in climate change and environment conservation strategies.
+
+Apart from gender mainstreaming, a cross cutting approach to programming, Zimbabwe has not developed any other framework to comprehensively address gender inequalities in environment conservation and climate change adaptation and mitigation. Zimbabwe is drafting a Climate Change National Response Strategy and is working towards a Green Economy, frameworks in which strategies to address these inequalities ought to feature. There is need to consider taking a gender approach in design and implementation of policies on how to adapt and mitigate climate change and how men and women can contribute to and benefit from a green economy. This is crucial to effectively address the needs of both men and women as they relate to the Millennium Development Goals (MDGs), in particular, Goal 1, to eradicate extreme poverty and hunger, Goal 3 to promote gender equality and Goal 7 to ensure environmental sustainability. Women’s equal participation in climate change negotiation processes at local, national and global levels will ensure that their needs, perspectives and expertise are equally taken into account.
 
 Giving equal platforms for decision making in environment management, as well as equal support for  low-carbon  development  and  climate  change  mitigation  and  adaptation  initiatives  would significantly contribute to reducing climate and environmental risks, in particular, the way these impact differently on men and women.
 
@@ -693,59 +744,25 @@ To ensure equal access to education for boys and girls and their retention at al
 
 Zimbabwe recognises that gender based violence, in particular violence against women, constitutes one of the biggest obstacles to women's participation in decision-making and severely limits their ability to participate in economic and social activities. Yet efforts to eliminate GBV are likely to continue to yield limited results due to a number of problems key of which are inadequate services and weak institutions for addressing GBV, poor information communication systems and patriarchal attitude that restrain men from  reporting  incidences  of  abuse.  It  is  imperative  to  ground  all  efforts  to  reduce  GBV  on  policy provisions  particularly  that  aim  to  institute  strong  institutions  and  information  and  communication systems and to shift attitudes on GBV.
 
-#### Policy Objective
+#### Policy Objective:
 
-: To reduce all forms of Gender Based Violence in Zimbabwe
+To reduce all forms of Gender Based Violence in Zimbabwe
 
 #### Policy Strategies
 
-i.
+- Create a supportive a policy and programmatic environment for non-tolerance to all forms of Gender Based Violence (GBV)
 
-Create a supportive a policy and programmatic environment for non-tolerance to all forms of
+- Implement programmes aimed at eradicating all harmful social norms, religious and cultural beliefs, attitudes and practices that legitimize the acceptance of GBV at all levels
 
-Gender Based Violence (GBV)
+- Advocate for, and support initiatives to strengthen institutional mechanisms among multi-sectoral stakeholders (police stations, safe houses, courts, community leadership and other community structures) to create an enabling, safe and non-intimidating environment for provision of all services for GBV including services for care and support of GBV survivors and correctional and rehabilitation services of GBV perpetrators
 
-Implement  programmes  aimed  at  eradicating  all  harmful  social  norms,  religious  and  cultural
+- Institute mechanisms for conducting gender safety audits and gender responsive evidence based research and documentation on all forms of Gender Based Violence
 
-beliefs, attitudes and practices that legitimize the acceptance of GBV at all levels
+- Strengthen institutional and coordination mechanisms for addressing gender based violence at all levels including increased financing towards awareness activities
 
-Advocate  for,  and  support  initiatives  to  strengthen  institutional  mechanisms  among  multi-
+- Promote the integration of GBV issues in the educational curriculum at all levels.
 
-sectoral  stakeholders  (police  stations,  safe  houses,  courts,  community  leadership  and  other
-
-community  structures)  to  create  an  enabling,  safe  and  non-intimidating  environment  for
-
-provision of all services for GBV including services for care and support of GBV survivors and
-
-correctional and rehabilitation services of GBV perpetrators
-
-Institute  mechanisms  for  conducting  gender  safety  audits  and  gender  responsive  evidence
-
-based research and documentation on all forms of Gender Based Violence
-
-Strengthen institutional and coordination mechanisms for addressing gender based violence at
-
-all levels including increased financing towards awareness activities
-
-Promote the integration of GBV issues in the educational curriculum at all levels.
-
-Encourage open platforms for GBV discussions particularly men's forms, establish collaborative
-
-initiatives  to  eliminate  the  attitudes  restraining  men  and  women  from  openly  discussing  and
-
-reporting GBV.
-
-ii.
-
-iii.
-
-iv.
-
-v.
-
-vi.
-
-vii.
+- Encourage open platforms for GBV discussions particularly men's forms, establish collaborative initiatives to eliminate the attitudes restraining men and women from openly discussing and reporting GBV.
 
 18
 
@@ -815,20 +832,13 @@ The  Ministry  of  Women's  Affairs,  Gender  and  Community  Development  has  
 
 The institutional framework below outlines the generic roles and responsibilities of various institutions in implementing this Policy.
 
-Implementing Institution | Responsibilities | Roles and
---- | --- | --- | --- | --- | ---
-Ministry of Women Affairs, Gender and Community Development | Developing a detailed Strategic Action Plan and establishing relevant structures for the implementation of the NGP; Developing a detailed Monitoring and Evaluation Framework and establishing targets and guidelines for achievement of desired results; Coordinating regular collection of gender segregated data on all key success factors, its synthesis, interpretation and dissemination; Mobilising resources and skills necessary for the successful implementation of this policy; Providing technical guidance and supporting all implementing partners and gender focal points across all sectors; State party reporting to regional and international conventions and protocols. Ensuring sector policies and programmes are gender responsive and providing | i. ii. iii. iv. v. vi. in i. | Points | Focal | Gender
-Ministry of Finance | policy in their sectors. Ensuring Treasury support towards implementation of the NGP | gender vii.
-Parliament of Zimbabwe: Relevant Parliamentary | the effective implementation of the national gender policy by engaging in parliamentary debates and passing relevant bills required to achieve gender justice; Providing a legislators' forum for discussion on matters affecting women in the country; | i. Facilitating ii.
-Portifolio Committees & Women's Parliamentary Caucus; | Taking a leading role in promoting the effective participation of women in all political spheres; | iii. iv.
-Anti Violence Council | advocating for donor support for the implementation of the national policy. Conduct research on the status of GBV and disseminate findings stakeholders; Coordinate the provision of services for GBV among stakeholders (safe
-Sensitising all Parliamentarians to the principles of gender equality in the country, regionally and internationally; Supporting in parliament the requests for adequate fiscal support and
-houses/
-Domestic
-to
-i.
-gender
-v. | ii.
+Implementing Institution | Roles and Responsibilities
+--- | ---
+Ministry of Women Affairs, Gender and Community Development | i. Developing a detailed Strategic Action Plan and establishing relevant structures for the implementation of the NGP; ii. Developing a detailed Monitoring and Evaluation Framework and establishing targets and guidelines for achievement of desired results; iii. Coordinating regular collection of gender segregated data on all key success factors, its synthesis, interpretation and dissemination; iv. Mobilising resources and skills necessary for the successful implementation of this policy; v. Providing technical guidance and supporting all implementing partners and gender focal points across all sectors; vi. State party reporting to regional and international conventions and protocols.
+Gender Focal Points in all Sectors and Institutions | i. Ensuring sector policies and programmes are gender responsive and providing technical guidance on integrating gender justice during planning, budgeting, programming, monitoring and evaluation; ii. Monitoring progress towards implementation and achievement of gender policy objectives outlined in this policy; iii. Building in-house capacity of all staff in their respective institutions to ensure systematic integration of gender issues in all sectors; iv. Working closely with multi-sectoral stakeholders on gender compliance in their respective work; v. Collecting package, analyze and disseminate relevant information of gender statistics; vi. Providing progress reports to the relevant forums on the implementation of gender policy in their sectors.
+Ministry of Finance | vii. Ensuring Treasury support towards implementation of the NGP
+Parliament of Zimbabwe: Relevant Parliamentary Portifolio Committees & Women's Parliamentary Caucus; | i. Facilitating the effective implementation of the national gender policy by engaging in parliamentary debates and passing relevant bills required to achieve gender justice; ii. Providing a legislators' forum for discussion on matters affecting women in the country; iii. Taking a leading role in promoting the effective participation of women in all political spheres; iv. Sensitising all Parliamentarians to the principles of gender equality in the country, regionally and internationally; v. Supporting in parliament the requests for adequate fiscal support and advocating for donor support for the implementation of the national gender policy.
+Anti Domestic Violence Council | i. Conduct research on the status of GBV and disseminate findings to stakeholders; ii. Coordinate the provision of services for GBV among stakeholders (safe houses/
 
 21
 
@@ -837,26 +847,17 @@ v. | ii.
 [[START OF PAGE 31]]
 
 shelters);
---- | --- | ---
-iii. | Monitor the implementation of GBV policy outcomes;
-iv. | Report regularly to the Ministry of Women Affairs, Gender and Community Development.
-Gender Commission | i. ii. | Monitor the implementation of gender equality provisions in the Constitution; Investigating possible violations of rights relating to gender and recommending
-iii. | Conducting research into issues relating to gender and social justice, and recommending changes to laws and practices which lead to discrimination based on gender;
-iv. | Advising public and private institutions on steps to be taken to ensure gender equality;
-v. | Identifying and recommending affirmative action programmes to achieve gender equality;
-Gvt. and Private Research Institutions including ZIMSTAT | i. | Developing standardised research methods and tools for collecting gender segregated data and gender equality reporting , monitoring and evaluation;
-ii. | Developing research programmes and mobilising resources for conducting research for successful implementation of the NGP;
-iii. | Contributing to evidence based gender legislation, policy reviews and programmes.
-Women and Men's Forums | i. ii. | Providing platforms for discussions, lobbying and advocacy; Monitoring and evaluation.
-Private Sector | i. ii. | Incorporating NGP priorities in private sector policy, legislation and practice; Implementing the monitoring and evaluation framework in the private sector in line with the gender policy priorities;
-iii. | Ensuring that gender disparities are addressed through equity in employment, access to resources and decision making;
-Developing and implementing corporate social responsibility
-iv. | programmes designed to contribute to the NGP objectives.
-Development Partners | i. | Collaborating with the Ministry of Women Affairs, Gender and Community Development, other relevant Ministries, civil society and
-ii. | Supporting some of the budgetary requirements for the implementation of the national gender policy and other strategies for gender equality;
-iii. | Provide technical support towards implementing NGP priorities.
-Other Recommended Institutions | Local Authorities, Traditional leaders, Political Parties, Media, Human Rights Commission, Judiciary, Public Service Commission and other oversight
 
+ iii. Monitor the implementation of GBV policy outcomes;
+
+ iv. Report regularly to the Ministry of Women Affairs, Gender and Community Development.
+
+Gender Commission | i. Monitor the implementation of gender equality provisions in the Constitution; ii. Investigating possible violations of rights relating to gender and recommending appropriate redress where rights relating to gender have been violated; iii. Conducting research into issues relating to gender and social justice, and recommending changes to laws and practices which lead to discrimination based on gender; iv. Advising public and private institutions on steps to be taken to ensure gender equality; v. Identifying and recommending affirmative action programmes to achieve gender equality;
+Gvt. and Private Research Institutions including ZIMSTAT | i. Developing standardised research methods and tools for collecting gender segregated data and gender equality reporting , monitoring and evaluation; ii. Developing research programmes and mobilising resources for conducting research for successful implementation of the NGP; iii. Contributing to evidence based gender legislation, policy reviews and programmes.
+Women and Men's Forums | i. Providing platforms for discussions, lobbying and advocacy; ii. Monitoring and evaluation.
+Private Sector | i. Incorporating NGP priorities in private sector policy, legislation and practice; ii. Implementing the monitoring and evaluation framework in the private sector in line with the gender policy priorities; iii. Ensuring that gender disparities are addressed through equity in employment, access to resources and decision making; iv. Developing and implementing corporate social responsibility programmes designed to contribute to the NGP objectives.
+Development Partners | i. Collaborating with the Ministry of Women Affairs, Gender and Community Development, other relevant Ministries, civil society and private sector on matters of gender mainstreaming in development programming; ii. Supporting some of the budgetary requirements for the implementation of the national gender policy and other strategies for gender equality; iii. Provide technical support towards implementing NGP priorities.
+Other Recommended Institutions | Local Authorities, Traditional leaders, Political Parties, Media, Human Rights Commission, Judiciary, Public Service Commission and other oversight commissions.
 22
 
 [[END OF PAGE 31]]
