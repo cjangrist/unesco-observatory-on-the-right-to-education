@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# S Si is st te em ma a   d de e   a av va al li ia aç çã ão o Ensino secundário
+# Sistema de avaliação Ensino secundário
 
 Decreto-Lei n°42/03/20 de 20 de Outubro
 
@@ -10,11 +10,11 @@ Decreto-Lei n°42/03/20 de 20 de Outubro
 
 # Decreto-Lei n°42/03/20 de 20 de Outubro
 
-Lei  de  Bases  do  Sistema  Educativo-Lei  nº  103/III/90,  de  29  de  Dezembro,  na  nova redacção  dada  pela  Lei  nº  113/V/99,  de  18  de  Outubro  -  determina  que  o  ensino secundário dá continuidade ao ensino básico e permite o desenvolvimento dos conhecimentos e aptidões obtidos no ciclo de estudos precedente e a aquisição de novas capacidades intelectuais e aptidões físicas necessárias à intervenção criativa na sociedade.
+A Lei de Bases do Sistema Educativo-Lei nº 103/III/90, de 29 de Dezembro, na nova redacção dada pela Lei nº 113/V/99, de 18 de Outubro — determina que o ensino secundário dá continuidade ao ensino básico e permite o desenvolvimento dos conhecimentos e aptidões obtidos no ciclo de estudos precedente e a aquisição de novas capacidades intelectuais e aptidões físicas necessárias à intervenção criativa na sociedade.
 
-O  ensino secundário visa ainda possibilitar a aquisição das bases científicotecnológicas e culturais necessárias ao procedimento dos estudos e ingresso na vida activa e,  em  particular  permite,  pelas  vias  técnica  e  artística,  a  aquisição  de  qualificações profissionais para inserção no mercado de trabalho.
+O ensino secundário visa ainda possibilitar a aquisição das bases científico-tecnológicas e culturais necessárias ao prosseguimento dos estudos e ingresso na vida activa e, em particular permite, pelas vias técnica e artística, a aquisição de qualificações profissionais para inserção no mercado de trabalho.
 
-Sendo  em  conta  a  inadequação  das  normas  por  que  se  rege  actualmente  a avaliação  no  ensino  secundário  e  considerando  a  necessidade  de,  tanto  na  Via  Geral como na Via Técnica, se imprimir o necessário rigor ao processo de avaliação, de modo a que  este  contribua  para  a  promoção  da  qualidade  do  ensino,  torna-se  premente  a aprovação de um novo regime de avaliação das aprendizagens no ensino secundário.
+Tendo em conta a inadequação das normas por que se rege actualmente a avaliação no ensino secundário e considerando a necessidade de, tanto na Via Geral como na Via Técnica, se imprimir o necessário rigor ao processo de avaliação, de modo a que este contribua para a promoção da qualidade do ensino, torna-se premente a aprovação de um novo regime de avaliação das aprendizagens no ensino secundário.
 
 Nestes termos,
 
@@ -50,7 +50,7 @@ A avaliação no ensino secundário processa-se em conformidade com os ciclos em
 
 - Melhorar  o  sistema  educativo,  fornecendo  elementos  para  a  selecção  de métodos e recursos educativos com vista à adequação e reformulação dos programas e das metodologias;
 
-- Orientar a intervenção do professor na sua relação / com os alunos e com os pais e/ou encarregados de educação;
+- Orientar a intervenção do professor na sua relação com os alunos e com os pais e/ou encarregados de educação;
 
 - Ajudar os alunos a seguir o seu próprio processo de aprendizagem;
 
@@ -104,7 +104,7 @@ A avaliação tem as seguintes modalidades, as quais devem harmonizar-se de form
 
 ## Artigo 9° (Avaliação Formativa)
 
-- A avaliação formativa é uma modalidade de avaliação aplicada pelos professores com o fim de determinar a posição do 'aluno ao longo de uma unidade de ensino, no sentido de identificar as dificuldades e de lhes dar solução.
+- A avaliação formativa é uma modalidade de avaliação aplicada pelos professores com o fim de determinar a posição do aluno ao longo de uma unidade de ensino, no sentido de identificar as dificuldades e de lhes dar solução.
 
 - Esta  modalidade  consiste  na  recolha  e  tratamento,  com  carácter  sistemático  e contínuo, dos dados relativos aos vários domínios de aprendizagem, que revelem os conhecimentos, as habilidades, as capacidades e atitudes desenvolvidas.
 
@@ -330,7 +330,7 @@ O  aluno  transita  do  11°  ano  para  o  12°  ano  com  duas  disciplinas  s
 
 (Transição no 2° ciclo da Via Técnica)
 
-O  aluno  no  2°  Ciclo  da  via  técnica  transita  do  9º  ano  para  o  10°  ano  com  duas disciplinas  sem  objectivos  atingidos,  desde  que  nenhuma  delas  seja  anual  ou  especifica obrigatória do curso.
+O aluno no 2° Ciclo da via técnica transita do 9º ano para o 10° ano com duas disciplinas sem objectivos atingidos, desde que nenhuma delas seja anual ou específica obrigatória do curso.
 
 ## Artigo 35°
 
@@ -374,7 +374,7 @@ O  aluno  transita  do  11°  ano  para  o  12°  ano  com  duas  disciplinas  s
 
 - A prova geral interna é elaborada, a nível de cada escola, por professores indicados pelo Subdirector Pedagógico e é realizada na última quinzena do 3° trimestre.
 
-- Para os alunos da via técnica, as provas das disciplinas de carácter essencialmente prático têm uma componente teórica de quarenta por cento e urna componente prática de sessenta por cento.
+- Para os alunos da via técnica, as provas das disciplinas de carácter essencialmente prático têm uma componente teórica de quarenta por cento e uma componente prática de sessenta por cento.
 
 ## Artigo 40° (Prova geral nacional)
 
@@ -382,7 +382,7 @@ O  aluno  transita  do  11°  ano  para  o  12°  ano  com  duas  disciplinas  s
 
 - A  prova  geral  nacional  é  elaborada  pelos  serviços  centrais  competentes  do departamento  governamental  responsável  pela  educação,  sob  proposta  das escolas, e realiza-se no fim do 2° ano do 3° ciclo.
 
-- Para os alunos da via técnica as disciplinas de carácter essencialmente prático, a prova  tem  uma  componente teórica  de  quarenta  por  cento  e  uma  componente prática de sessenta por cento.
+- Para os alunos da via técnica, nas disciplinas de carácter essencialmente prático, a prova tem uma componente teórica de quarenta por cento e uma componente prática de sessenta por cento.
 
 - A prova geral nacional realiza-se:
 
@@ -408,7 +408,7 @@ O  aluno  transita  do  11°  ano  para  o  12°  ano  com  duas  disciplinas  s
 
 [[START OF PAGE 12]]
 
-- ciclo,  depois  de  ouvido  o  aluno,  sendo  maior,  ou  o  respectivo  encarregado  de educação.
+ciclo, depois de ouvido o aluno, sendo maior, ou o respectivo encarregado de educação.
 
 ## Artigo 42° (Aulas de recuperação)
 
@@ -432,7 +432,7 @@ NF = 40% NA/C + 60% NPR
 
 - Na data marcada com uma 1ª chamada;
 
-- Uma semana depois da ia chamada com uma 2ª chamada destinada aos inscritos  que,  por  motivos  ponderosos  devidamente  justificados,  se  viram impossibilitados de prestar prova na data marcada
+- Uma semana depois da 1ª chamada com uma 2ª chamada destinada aos inscritos que, por motivos ponderosos devidamente justificados, se viram impossibilitados de prestar prova na data marcada
 
 ## Artigo 45°
 
@@ -548,9 +548,9 @@ Fica revogada toda a legislação que contrarie o disposto no presente diploma.
 
 Este diploma entra imediatamente em vigor.
 
-Visto a aprovado em Conselho de Ministros.
+Visto e aprovado em Conselho de Ministros.
 
-José Maria Pereira Neves Victor Manuel Barbosa Borges .
+José Maria Pereira Neves — Victor Manuel Barbosa Borges.
 
 Promulgado em 13 de Outubro de 2003.
 
@@ -558,8 +558,8 @@ Publique-se.
 
 O Presidente da República, PEDRO VERONA RODRIGUES PIRES .
 
-Referendado 15 de Outubro de 2003.
+Referendado em 15 de Outubro de 2003.
 
-- O Primeiro Ministro, José Maria Pereira Neves.
+O Primeiro Ministro, José Maria Pereira Neves.
 
 [[END OF PAGE 15]]
