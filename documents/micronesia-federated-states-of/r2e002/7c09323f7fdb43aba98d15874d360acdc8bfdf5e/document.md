@@ -46,6 +46,39 @@ FSM Strategic Plan for Improvement of Education
 
 ## TABLE OF CONTENTS
 
+Executive Summary 1
+Introduction to the FSM and its School System 2
+Location and Geographical Features 2
+Languages in the FSM 4
+Education System 5
+Schools - power and accessibility 6
+Performance of the Educational System 7
+Teacher Background and Competence 8
+Communication Systems 9
+Political System and Compact of Free Association 9
+Economic and Social Factors 9
+Human Resource Development Indicators 11
+Vision for the 21st Century 12
+Organizational Structure and Administrative System 13
+Overview of the Strategic Plan 14
+What is the Strategic Plan to Accomplish? 14
+Philosophy 14
+Mission 16
+Priorities 16
+Guiding Principles 17
+Past Planning and Implementation Issues 18
+Policy Development 20
+Principles of Educational Improvement and Guides for Planning & Evaluation 21
+Developing a National Identity 21
+Standards, Curriculum, Instruction & Materials Development 22
+Overview 22
+Guiding Principles for FSM Language Policy 23
+Standards 25
+Curriculum 26
+Instruction 27
+Materials Development 28
+Principles for Materials Development 29
+
 Education:  Underpinning Economic Growth & Social Development
 
 August 1997
@@ -57,6 +90,34 @@ Page iii
 [[START OF PAGE 4]]
 
 FSM Strategic Plan for Improvement of Education
+
+Assessment & Evaluation 32
+Principles for Assessment and Evaluation 35
+Accountability, Governance & Finance 38
+Accountability 38
+Governance 40
+Finance 42
+Parental and Community Support & Involvement 44
+Accreditation 46
+Professional Development and Certification 47
+Principles of Professional Development 48
+Technical and External Assistance 52
+Systems and System Wide Improvement 54
+Promoting bottom-up Reform 57
+Dropout Strategies 59
+Coordinating Strategies for the Integration of Academic & Vocational Education and
+School-to-Work Coordination 60
+Equity 62
+Postsecondary education and education of the workforce 64
+Linkages between secondary education and COM-FSM 65
+Scholarships 66
+Linkages with the workforce 68
+Facilities 68
+Technology 69
+Data Collection, Analysis, Reporting & Definitions 71
+Monitoring the Plan 71
+Benchmarks and Timelines 73
+Review and Update of Plan 74
 
 Education:  Underpinning Economic Growth & Social Development
 
@@ -192,9 +253,9 @@ FSM Strategic Plan for Improvement of Education
 
 For the purposes of U.S. Federal Education programs, each of the FSM State Departments of Education (Chuuk, Pohnpei, Yap, and Kosrae - SDOE) is considered a Local Educational Agency (LEA) with the FSM National Department of Education (FSM NDOE) functioning as the State Education Agency (SEA).  The FSM NDOE is located in Palikir, Pohnpei State.
 
-The FSM's only Institute of Higher Education is the College of Micronesia-FSM (COMFSM) located in Pohnpei.  COM-FSM offers associated degrees and also conducts a third year program in education.  The University of Guam (UOG) is the Micronesian areas IHE for BA and advanced degrees.  Each LEA in the FSM also has a Individual Degree Plan (IDP) program with UOG for teacher education.
+The FSM's only Institute of Higher Education is the College of Micronesia-FSM (COM-FSM) located in Pohnpei.  COM-FSM offers associated degrees and also conducts a third year program in education.  The University of Guam (UOG) is the Micronesian areas IHE for BA and advanced degrees.  Each LEA in the FSM also has a Individual Degree Plan (IDP) program with UOG for teacher education.
 
-Student enrollment has seen a significant increase in the past decade.  Since 1984 the FSM Education System has increased over 50% in elementary and secondary enrollment..  The increase in enrollment has put a major strain on facilities and financial resource for education in the FSM.  The following table shows enrollment (an expanded listing of enrollment by State, region and school is included in the appendix)  by State for the 19951996 School year.
+Student enrollment has seen a significant increase in the past decade.  Since 1984 the FSM Education System has increased over 50% in elementary and secondary enrollment..  The increase in enrollment has put a major strain on facilities and financial resource for education in the FSM.  The following table shows enrollment (an expanded listing of enrollment by State, region and school is included in the appendix)  by State for the 1995-1996 School year.
 
 FSM Student Enrollment 95/96 School Year
 --- | --- | --- | --- | ---
@@ -377,7 +438,7 @@ The social condition of the FSM can be provided through a series of Human Resour
 
 Basic HRD Indicators: Selected Pacific Nations
 --- | --- | --- | --- | --- | --- | ---
-Adult Lit (%) | Prim Enrollmen t Ratio | IMR | Access to Safe Water (%) | Cash Work Force (%) | Fertility Rate
+ | Adult Lit (%) | Prim Enrollment Ratio | IMR | Access to Safe Water (%) | Cash Work Force (%) | Fertility Rate
 Cooks Is | 99 | 98 | 26 | 99 | 36 | 3.5
 Fiji | 87 | 94 | 17 | 92 | 33 | 3.2
 FSM | 81 | 95 | 51 | 30 | 26 | 6.5
@@ -420,25 +481,27 @@ FSM Strategic Plan for Improvement of Education
 
 Percentage of Rural Population
 
-Marshall Is
-
-Cook Is
-
-Tuvalu
-
-Fiji
-
-Kiribati
-
-Tonga
-
-W. Samoa
-
-Vanuatu
+Country
 
 Solomon Is
 
+Vanuatu
+
+W. Samoa
+
 FSM
+
+Tonga
+
+Kiribati
+
+Fiji
+
+Tuvalu
+
+Cook Is
+
+Marshall Is
 
 0
 
@@ -451,8 +514,6 @@ FSM
 80
 
 100
-
-Country
 
 Percentage
 
@@ -462,27 +523,29 @@ income production.  A major goal of the educational improvement is to address su
 
 Percentage of Labor Force in Agriculture
 
-Niue
-
-Cook Is
-
-Marshall Is
-
-Tuvalu
-
-Fiji
-
-Tonga
-
-W. Samoa
-
-Kiribati
-
-Vanuatu
+Country
 
 Solomon Is
 
+Vanuatu
+
+Kiribati
+
+W. Samoa
+
+Tonga
+
 FSM
+
+Fiji
+
+Tuvalu
+
+Marshall Is
+
+Cook Is
+
+Niue
 
 0
 
@@ -495,8 +558,6 @@ FSM
 80
 
 100
-
-Country
 
 Percentage
 
@@ -590,6 +651,10 @@ Page 15
 
 [[START OF PAGE 20]]
 
+FSM Strategic Plan for Improvement of Education
+
+Federated States of Micronesia Mission, Priorities & Guiding Principles of the Educational System
+
 ### Mission
 
 The Federated States of Micronesia educational system recognizes its shared participation with parents, extended family, and broader social structures in the intellectual, emotional, physical and social development of children.  It will deliver a quality, sustainable basic education system which provides all students with basic skills, thinking skills, and personal qualities; provides for the manpower needs of the Nation; develops a literate population based on the revitalization of local languages and cultures while ensuring high competence in English and other international languages; and collaborates with all sectors of the government and community to fully utilize available human and financial resources in developing the educational foundation required for sustainable economic growth and social development.
@@ -614,10 +679,6 @@ The Federated States of Micronesia educational system recognizes its shared part
 
 Education:  Underpinning Economic Growth & Social Development
 
-FSM Strategic Plan for Improvement of Education
-
-Federated States of Micronesia Mission, Priorities & Guiding Principles of the Educational System
-
 August 1997
 
 Page 16
@@ -634,35 +695,35 @@ for Education Program Design and Decision Making in the Federated States of Micr
 
 To provide guidance in design of programs, projects and in the education decision making process a set of guiding principles have been developed.  The principles are critical considerations which can increase the likelihood of programs and decisions having a positive and major impact on improving the educational system.  The guiding principles for educational improvement in the FSM are:
 
-- A collective vision and mission.
+(1) A collective vision and mission.
 
-- Encouraging wide participation in planning, implementation and evaluation.
+(2) Encouraging wide participation in planning, implementation and evaluation.
 
-- Planning for continuity in educational development which supports the economic growth and social development of the Nation.
+(3) Planning for continuity in educational development which supports the economic growth and social development of the Nation.
 
-- Maximizing multiplier effects.
+(4) Maximizing multiplier effects.
 
-- Establishing networks and building strong communities.
+(5) Establishing networks and building strong communities.
 
-- Catering to community based development of education.
+(6) Catering to community based development of education.
 
-- Establishing and nurturing cells or centers of excellence.
+(7) Establishing and nurturing cells or centers of excellence.
 
-- Nurturing a spirit of commitment.
+(8) Nurturing a spirit of commitment.
 
-- Ensuring accountability and efficiency in resource development and management.
+(9) Ensuring accountability and efficiency in resource development and management.
 
-- Developing enabling policies and organizational systems.
+(10) Developing enabling policies and organizational systems.
 
-- Developing a climate for information-based decisions.
+(11) Developing a climate for information-based decisions.
 
-- Creating an environment of flexibility for responsiveness and adaptation.
+(12) Creating an environment of flexibility for responsiveness and adaptation.
 
-- Creating a structure for personnel development where technical assistance is always within reach.
+(13) Creating a structure for personnel development where technical assistance is always within reach.
 
-- Priority on leadership and leadership development.
+(14) Priority on leadership and leadership development.
 
-- Language and Culture as an integral part of the reform process.
+(15) Language and Culture as an integral part of the reform process.
 
 August 1997
 
@@ -708,7 +769,7 @@ Focus of plans have not been on the teachers, classrooms and students -  Plannin
 
 Recommended corrective action - Evaluate all plans and programs for impact on learning and achievement and how they support teachers and improvement of instruction in the classroom.  Develop performance expectations which will allow assessment and evaluation of programs and impact on improving teaching and learning.  Make effective use of assessment and evaluation in redirection of programs and allocation of human and financial resources.
 
-Conflict between the education system and local culture, tradition and styles of learning A U.S. model of education with emphasis on individual student learning and achievement is in place while community and traditional structures are based on the extended family, consensus building, and the concept of knowledge as a private thing for oneself or clan. Teaching models and training is often at odds with traditional means of learning and decision making.  Community involvement models often do not take into account the extended family or traditional decision making structures in the local communities.
+Conflict between the education system and local culture, tradition and styles of learning - A U.S. model of education with emphasis on individual student learning and achievement is in place while community and traditional structures are based on the extended family, consensus building, and the concept of knowledge as a private thing for oneself or clan. Teaching models and training is often at odds with traditional means of learning and decision making.  Community involvement models often do not take into account the extended family or traditional decision making structures in the local communities.
 
 Recommend corrective action - Develop criteria for review of programs, trainings, and activities to ensure that appropriate content and methods are included which reflect local cultures and values and emphasize the productive sectors (agriculture, marine & fisheries, and tourism). Ensure that community
 
@@ -830,21 +891,21 @@ It is recommended that  development of standards, curriculum and instruction sho
 
 The following are general guidelines for design and implementation of the FSM Language Policy.
 
-- Micronesia will become a multilingual society with high competence (read, write and the ability to converse) in local languages, English, and other international languages.
+1. Micronesia will become a multilingual society with high competence (read, write and the ability to converse) in local languages, English, and other international languages.
 
-- Our languages convey our values, cultures and traditions.
+2. Our languages convey our values, cultures and traditions.
 
-- Our languages areas still strong [however there are trends which indicate language shift and loss], but they must expand and grow if they are to remain strong.
+3. Our languages areas still strong [however there are trends which indicate language shift and loss], but they must expand and grow if they are to remain strong.
 
-- Students should have an opportunity to study and improve upon their local language at elementary, secondary, and postsecondary levels of education in the FSM.
+a) Students should have an opportunity to study and improve upon their local language at elementary, secondary, and postsecondary levels of education in the FSM.
 
-- All local languages need reference grammars and dictionaries.
+b) All local languages need reference grammars and dictionaries.
 
-- Student grammars and dictionaries must be developed at appropriate grade levels.
+c) Student grammars and dictionaries must be developed at appropriate grade levels.
 
-- Local languages must expand to allow new concepts and thoughts to be expressed.
+d) Local languages must expand to allow new concepts and thoughts to be expressed.
 
-- Baseline indicators must be established to measure language competence and improvement.
+e) Baseline indicators must be established to measure language competence and improvement.
 
 Education:  Underpinning Economic Growth & Social Development
 
@@ -858,23 +919,23 @@ Page 23
 
 FSM Strategic Plan for Improvement of Education
 
-- Assessment instruments and evaluation processes must be established for local languages.
+f) Assessment instruments and evaluation processes must be established for local languages.
 
-- Instructional materials, general reading and content specific information should be available in local languages and convey information important to economic and social development of the Nation.
+g) Instructional materials, general reading and content specific information should be available in local languages and convey information important to economic and social development of the Nation.
 
-- Local language should be the foundation for developing thinking and learning skills.  Acquisition of English and other languages should build upon the basic (reading, writing, arithmetic & mathematics) and thinking skills learning in the primary language of the student.  Note that research shows that a solid foundation in the primary language improves academic achievement in a second language.
+4. Local language should be the foundation for developing thinking and learning skills.  Acquisition of English and other languages should build upon the basic (reading, writing, arithmetic & mathematics) and thinking skills learning in the primary language of the student.  Note that research shows that a solid foundation in the primary language improves academic achievement in a second language.
 
-- Competence in the primary State language should be an entry requirement into high school and should be incorporated into high school entrance tests.  Major FSM languages should be offered for study at the College of Micronesia Federated States of Micronesia.
+5. Competence in the primary State language should be an entry requirement into high school and should be incorporated into high school entrance tests.  Major FSM languages should be offered for study at the College of Micronesia - Federated States of Micronesia.
 
-- Students should be introduced to English through materials which are relevant to Micronesia students and convey content information important to the economic and social development of the Nation.  The materials might be locally developed, adapted from newspapers and magazines, South Pacific materials, government or private pamphlets and reports, or other materials which are relevant to the economic, political, and social development of the FSM.
+6. Students should be introduced to English through materials which are relevant to Micronesia students and convey content information important to the economic and social development of the Nation.  The materials might be locally developed, adapted from newspapers and magazines, South Pacific materials, government or private pamphlets and reports, or other materials which are relevant to the economic, political, and social development of the FSM.
 
-- Valid assessment instruments and evaluation processes for English and other international languages must be developed or adopted and the results be the basis for instructional program design, implementation and planning activities.
+7. Valid assessment instruments and evaluation processes for English and other international languages must be developed or adopted and the results be the basis for instructional program design, implementation and planning activities.
 
-- English and other international languages are used as international languages, second languages, and foreign languages in the FSM.  Instructional strategies and materials should be appropriate to the language needs and usage of students. Note:  while English is the official language of the Federated States of Micronesia it is the first language of less than 1% of FSM citizens.
+8. English and other international languages are used as international languages, second languages, and foreign languages in the FSM.  Instructional strategies and materials should be appropriate to the language needs and usage of students. Note:  while English is the official language of the Federated States of Micronesia it is the first language of less than 1% of FSM citizens.
 
-- The primary language of the community should be both the medium and object of instruction in the elementary school.  If the local language is not the primary state language, the primary State language should be taught in the school as a second language.  Transition into English should be based on cognitive skills developed in students primary and/or State language.
+9. The primary language of the community should be both the medium and object of instruction in the elementary school.  If the local language is not the primary state language, the primary State language should be taught in the school as a second language.  Transition into English should be based on cognitive skills developed in students primary and/or State language.
 
-- Instruction in first, second, third and other languages should be based on standards and curriculum frameworks which follow sound research on language acquisition and set a basis for assessments and reporting.
+10. Instruction in first, second, third and other languages should be based on standards and curriculum frameworks which follow sound research on language acquisition and set a basis for assessments and reporting.
 
 Education:  Underpinning Economic Growth & Social Development
 
@@ -888,11 +949,11 @@ Page 24
 
 FSM Strategic Plan for Improvement of Education
 
-- Language maintenance and expansion cannot be addressed only by the school system.  The school system must work in partnership with the community, other government departments and sectors, and traditional systems in the maintenance and expansion of local languages and developing high competence in English and other international languages.  Public education must address the issues of language acquisition and the link between language and economic growth and language, culture and traditions and social problems and development.
+11. Language maintenance and expansion cannot be addressed only by the school system.  The school system must work in partnership with the community, other government departments and sectors, and traditional systems in the maintenance and expansion of local languages and developing high competence in English and other international languages.  Public education must address the issues of language acquisition and the link between language and economic growth and language, culture and traditions and social problems and development.
 
-- Other governmental agencies, community organizations, and businesses should be encouraged to help build a body of knowledge in print, video, & oral medium in local languages and in English appropriate for the FSM.
+12. Other governmental agencies, community organizations, and businesses should be encouraged to help build a body of knowledge in print, video, & oral medium in local languages and in English appropriate for the FSM.
 
-- Teaching staff should be provided training in and demonstrate competence in the language being taught [local languages, English, Japanese, Chinese, etc.) and be provided with training in appropriate teaching strategies and methods for first and second language acquisition.
+13. Teaching staff should be provided training in and demonstrate competence in the language being taught [local languages, English, Japanese, Chinese, etc.) and be provided with training in appropriate teaching strategies and methods for first and second language acquisition.
 
 ### Standards
 
@@ -962,31 +1023,31 @@ Page 26
 
 FSM Strategic Plan for Improvement of Education
 
-- Objective 1. Develop polices for development, implementation and evaluation of curriculum and its impact on student learning and achievement..
+Objective 1. Develop polices for development, implementation and evaluation of curriculum and its impact on student learning and achievement..
 
-- Strategy 1. Expand/develop policies for review/revision/development of curriculum which includes parents, teachers and community involvement.
+Strategy 1. Expand/develop policies for review/revision/development of curriculum which includes parents, teachers and community involvement.
 
-- Strategy 2. Base review/revision/development of curriculum and findings of assessment and evaluation and on the current knowledge of how children learn.
+Strategy 2. Base review/revision/development of curriculum and findings of assessment and evaluation and on the current knowledge of how children learn.
 
-- Strategy 3. Expand/develop policies on training of teachers in new curriculum and its implementation in the classroom.
+Strategy 3. Expand/develop policies on training of teachers in new curriculum and its implementation in the classroom.
 
-- Strategy 4. Expand/develop policies for professional development of new teachers in curriculum and special support mechanisms during their introduction to the classroom.
+Strategy 4. Expand/develop policies for professional development of new teachers in curriculum and special support mechanisms during their introduction to the classroom.
 
-- Strategy 5. Expand/develop mechanisms for evaluation of education's impact on meeting the human development needs of students to be productive citizens and meeting manpower development needs.
+Strategy 5. Expand/develop mechanisms for evaluation of education's impact on meeting the human development needs of students to be productive citizens and meeting manpower development needs.
 
-- Objective 2. Expand/develop support mechanisms to ensure curriculum is implemented in instruction activities.
+Objective 2. Expand/develop support mechanisms to ensure curriculum is implemented in instruction activities.
 
-- Strategy 1. Expand/develop school and in class based  support mechanisms to support instruction through effective use of principals, specialists, master teachers, and other mechanisms.
+Strategy 1. Expand/develop school and in class based  support mechanisms to support instruction through effective use of principals, specialists, master teachers, and other mechanisms.
 
-- Strategy 2. Conduct periodic reviews on the implementation of curriculum to ensure it is in line with standards and priorities of the State and Nation.
+Strategy 2. Conduct periodic reviews on the implementation of curriculum to ensure it is in line with standards and priorities of the State and Nation.
 
-- Objective 3. Reassess all curriculum in light of the need to support economic growth especially in the productive sectors.
+Objective 3. Reassess all curriculum in light of the need to support economic growth - especially in the productive sectors.
 
-- Strategy 1. Ensure that the curriculum provides for instruction on local values and traditions which show the strong linkage between people, the land and the sea.
+Strategy 1. Ensure that the curriculum provides for instruction on local values and traditions which show the strong linkage between people, the land and the sea.
 
-- Strategy 2. Encourage multidisciplinary approaches to developing and supporting values and attitudes in line with the needs for economic growth and social development.
+Strategy 2. Encourage multidisciplinary approaches to developing and supporting values and attitudes in line with the needs for economic growth and social development.
 
-- Strategy 3. Expand/develop mechanisms for community involvement in addresses conflict between traditional values and culture and the needs for economic growth.
+Strategy 3. Expand/develop mechanisms for community involvement in addresses conflict between traditional values and culture and the needs for economic growth.
 
 ### Instruction
 
@@ -1034,7 +1095,7 @@ Strategy 3. Provide training to teachers, principals, parents and the community 
 
 Strategy 4. Develop school policies and procedures which ensure effective learning when teachers are absent and preserve time for core learning activities.
 
-- Strategy 5. Promote thematic units of study which focus on real problems and issues in the Nation, State and community.
+Strategy 5. Promote thematic units of study which focus on real problems and issues in the Nation, State and community.
 
 ### Materials Development
 
@@ -1078,37 +1139,37 @@ Page 29
 
 FSM Strategic Plan for Improvement of Education
 
-- Reference grammars and dictionaries should be available in local languages.
+1. Reference grammars and dictionaries should be available in local languages.
 
-- Instructional dictionaries and grammars should be available in local languages for use at appropriate grade levels.  Initial emphasis is recommended to be placed on development of dictionaries.
+2. Instructional dictionaries and grammars should be available in local languages for use at appropriate grade levels.  Initial emphasis is recommended to be placed on development of dictionaries.
 
-- Children should have materials in their local languages for study in school.
+3. Children should have materials in their local languages for study in school.
 
-- Children's introduction to English and other international languages should be through materials which are appropriate for students age, cultural setting, and in line with economic and social realities in the FSM.
+4. Children's introduction to English and other international languages should be through materials which are appropriate for students age, cultural setting, and in line with economic and social realities in the FSM.
 
-- Materials should be developed in local languages and English to:
+5. Materials should be developed in local languages and English to:
 
-- promote Micronesian customs, beliefs, and values,
+a) promote Micronesian customs, beliefs, and values,
 
-- promote the development of community role models,
+b) promote the development of community role models,
 
-- provide content information on the productive sectors (agriculture, marine, and tourism), and,
+c) provide content information on the productive sectors (agriculture, marine, and tourism), and,
 
-- promote development of National and State identifies.
+d) promote development of National and State identifies.
 
-- give age appropriate materials for students instructional use.
+e) give age appropriate materials for students instructional use.
 
-- ensure provision of quality teaching instructions and training for use of materials be considered part of the materials development process.
+f) ensure provision of quality teaching instructions and training for use of materials be considered part of the materials development process.
 
-- provide content related materials (science, social studies, mathematics) and thematic materials related to agriculture, marine & fisheries, and tourism.
+g) provide content related materials (science, social studies, mathematics) and thematic materials related to agriculture, marine & fisheries, and tourism.
 
-- Materials should be developed in high quality, attractive formats.  Innovative use of information technology might also allow use of 'Print on Demand' whereby materials could be printed at the school or classroom level as needed.  This approach could also allow adaptation of materials to fit local community conditions or to use local pictures and examples in a State or Nation based text.
+6. Materials should be developed in high quality, attractive formats.  Innovative use of information technology might also allow use of 'Print on Demand' whereby materials could be printed at the school or classroom level as needed.  This approach could also allow adaptation of materials to fit local community conditions or to use local pictures and examples in a State or Nation based text.
 
-- Materials should be based on appropriate curriculum and scope and sequenced for maximum impact.  The curriculum and materials should be based on and follow high quality content standards.
+7. Materials should be based on appropriate curriculum and scope and sequenced for maximum impact.  The curriculum and materials should be based on and follow high quality content standards.
 
-- Materials can be print media, audio/visual, computer based or other means of transferring information.
+8. Materials can be print media, audio/visual, computer based or other means of transferring information.
 
-- Innovative processes should be used for materials development.  Students, teachers, other government agencies, and COM-FSM Students should all be considered as potential writers and materials developers.  The FSM NDOE, NLCI and State DOE's should develop processes for rapid development of high qualities material appropriate to local conditions.
+9. Innovative processes should be used for materials development.  Students, teachers, other government agencies, and COM-FSM Students should all be considered as potential writers and materials developers.  The FSM NDOE, NLCI and State DOE's should develop processes for rapid development of high qualities material appropriate to local conditions.
 
 Education:  Underpinning Economic Growth & Social Development
 
@@ -1122,17 +1183,17 @@ Page 30
 
 FSM Strategic Plan for Improvement of Education
 
-- Support systems and materials such as teachers texts and teaching strategies should be developed in coordination with materials development.  Materials should be field or pilot tested with valid assessment and evaluation processes.  Additional follow up and follow through mechanisms should be in place to compile new teaching strategies and support materials over time.
+10. Support systems and materials such as teachers texts and teaching strategies should be developed in coordination with materials development.  Materials should be field or pilot tested with valid assessment and evaluation processes.  Additional follow up and follow through mechanisms should be in place to compile new teaching strategies and support materials over time.
 
-- Professional development in use of instructional materials should be provided to staff on initial presentation of materials and at periodic intervals as new and innovative use of the materials become known.
+11. Professional development in use of instructional materials should be provided to staff on initial presentation of materials and at periodic intervals as new and innovative use of the materials become known.
 
-- Exchange of locally developed materials should be the norm.  This would include local language materials for use in other States and English materials developed in any State as use throughout the FSM.
+12. Exchange of locally developed materials should be the norm.  This would include local language materials for use in other States and English materials developed in any State as use throughout the FSM.
 
-- Materials should be copyrighted by the organization developing the materials, but for acknowledgment purposes only, not for restricted use.
+13. Materials should be copyrighted by the organization developing the materials, but for acknowledgment purposes only, not for restricted use.
 
-- Materials developed by other government agencies, such as R&D, the private sector, religious organizations, etc. should be considered for use in the school system with editing and development of teacher materials as needed. Maximum use should be made of newspaper and magazine articles, government and business pamphlets and reports, and other 'real world' reading materials as the basis of instructional materials.
+14. Materials developed by other government agencies, such as R&D, the private sector, religious organizations, etc. should be considered for use in the school system with editing and development of teacher materials as needed. Maximum use should be made of newspaper and magazine articles, government and business pamphlets and reports, and other 'real world' reading materials as the basis of instructional materials.
 
-- Textbooks and other materials used in schools should be reviewed for their appropriateness not only in skills development, but for values and content information.
+15. Textbooks and other materials used in schools should be reviewed for their appropriateness not only in skills development, but for values and content information.
 
 The National Language and Cultural Institute in cooperation with the Pacific Collection of the Learning Resource Center (LRC) at COM-FSM Palikir Campus, will become a depository for locally developed materials and for materials used in the classrooms of the FSM.  It mandate will be to actively seek out local materials, local languages and English, not only from the education sectors, but other public and private organizations as well.
 
@@ -1156,15 +1217,15 @@ FSM Strategic Plan for Improvement of Education
 
 Strategy 2. Consider effective use of technology in materials development to allow activities such as: a) customizing base materials with photos from the local community, using the best of writing from an age group as the reading program for the upcoming year, printing materials as needed at the school or classroom level as needed, etc.
 
-- Strategy 3. Expand/develop programs such as the Writing Process Training developed by MERC at the University of Guam to a broad base of teachers, principals, and the community to provide the technical capability needed for materials development.
+Strategy 3. Expand/develop programs such as the Writing Process Training developed by MERC at the University of Guam to a broad base of teachers, principals, and the community to provide the technical capability needed for materials development.
 
 Objective 2. The FSM NDOE in cooperation with the COM-FSM and the States will set up a materials exchange program for both local language materials and English.
 
-- Strategy 1. Make effective use of the proposed National Language and Cultural Institution and the existing Pacific Collection at COM-FSM as a focal point for exchange and storage of materials.
+Strategy 1. Make effective use of the proposed National Language and Cultural Institution and the existing Pacific Collection at COM-FSM as a focal point for exchange and storage of materials.
 
-- Strategy 2. Convert all existing materials and developing all new materials in an electronic format to facilitate exchange of materials across the FSM.
+Strategy 2. Convert all existing materials and developing all new materials in an electronic format to facilitate exchange of materials across the FSM.
 
-- Strategy 3. Explore/expand efforts to obtain and exchange materials with South Pacific countries and organizations which are appropriate for: a) developing nations and b) small island settings.
+Strategy 3. Explore/expand efforts to obtain and exchange materials with South Pacific countries and organizations which are appropriate for: a) developing nations and b) small island settings.
 
 ## Assessment & Evaluation
 
@@ -1188,13 +1249,13 @@ FSM Strategic Plan for Improvement of Education
 
 being culturally appropriate.  For effective assessment and evaluation to take place, there will need to be a major redirection in our planning, program design and instructional programs.  The FSM is approaching this issue from the standards orientation.  The overall goal of the FSM Education System is to promote the sustainable economic growth and social development of the Nation.  To implement this overall goal, the education system has seen its role to:
 
-- develop high competence in both local language and English with instruction being based on acquisition of Micronesian values and beliefs,
+1. develop high competence in both local language and English with instruction being based on acquisition of Micronesian values and beliefs,
 
-- develop basic skills, thinking skills and personal qualities of students needed for both economic growth and social development,
+2. develop basic skills, thinking skills and personal qualities of students needed for both economic growth and social development,
 
-- redirect education programs such as career education to promote the FSM productive sectors (agriculture, marine & fisheries, & tourism), and,
+3. redirect education programs such as career education to promote the FSM productive sectors (agriculture, marine & fisheries, & tourism), and,
 
-- provide a highly literate population which can face future and current change with a solid sense of its own worth and values.
+4. provide a highly literate population which can face future and current change with a solid sense of its own worth and values.
 
 How the education system meets these overall needs will be defined in our standards, curriculum and instructional program.  Each of these areas need to ensure that clear expectations for learning need to be established.  Our assessment and evaluation systems will never be adequate without clear directions and expectations.
 
@@ -1223,7 +1284,7 @@ Role of Assessment and Evaluation in the FSM
 Assessment and Evaluation Activity | Uses | Level
 National Standardized Test (NST)
 Overall status of education system |  Report to Congress and the Nation on the status of Education and ability of students to meet content standards  Basis for decision making and planning in the Nation on educational issues  Basis for seeking additional funding for education  Possible basis for distribution of FSM Funds for education improvement  Provides basis for comparison of FSM students against international norms |  National  State  School  Community
-State composite results |   Report to State Legislature, parents and the community on the status of education  Assist in design of curriculum and instructional programs and setting of priority areas for instructional improvement |  State  School  Community
+State composite results |  Report to State Legislature, parents and the community on the status of education  Assist in design of curriculum and instructional programs and setting of priority areas for instructional improvement |  State  School  Community
 Individual School Data |  Determine educational achievement of schools  Report to the community on the status of their children's education  Assist in design of school and community based improvement programs |  School  Community
 Individual Student Data |  Determine educational achievement of students  Report to parents on educational progress of their children  Assist in design of instructional programs for the classroom and |  Classroom  Parents
 
@@ -1251,7 +1312,7 @@ Program Evaluation |  Provides data on impact of program implementation  P
 
 ### Principles for Assessment and Evaluation
 
-- Plans, program design, standards, curriculum, professional development, and instructional activities should have clear visions, goals, and performance expectations which support the development of the Nation, State and individual communities and allow for quality assessment and evaluation to occur.
+1. Plans, program design, standards, curriculum, professional development, and instructional activities should have clear visions, goals, and performance expectations which support the development of the Nation, State and individual communities and allow for quality assessment and evaluation to occur.
 
 Education:  Underpinning Economic Growth & Social Development
 
@@ -1265,27 +1326,27 @@ Page 35
 
 FSM Strategic Plan for Improvement of Education
 
-- Assessment and evaluations activities need to ensure that they are assessing and evaluating the actual goals, objectives and expectations of education system and of individual programs and projects.
+2. Assessment and evaluations activities need to ensure that they are assessing and evaluating the actual goals, objectives and expectations of education system and of individual programs and projects.
 
-- The impact of programs on improving learning and student achievement should be the primary focus of all assessment and evaluation activities.
+3. The impact of programs on improving learning and student achievement should be the primary focus of all assessment and evaluation activities.
 
-- Assessment and evaluation should use a broad set of instruments and/or processes and procedures from standardized tests to portfolios and alternate assessment procedures or instruments.
+4. Assessment and evaluation should use a broad set of instruments and/or processes and procedures from standardized tests to portfolios and alternate assessment procedures or instruments.
 
-- Improved means of assessing student achievement should be developed, but existing data and assessment tools should be used until better instruments are in place.
+5. Improved means of assessing student achievement should be developed, but existing data and assessment tools should be used until better instruments are in place.
 
-- Assessment of teaching and learning should be continuous with accountability established at all levels.
+6. Assessment of teaching and learning should be continuous with accountability established at all levels.
 
-- Programs (in the broader sense:  U.S. Federal Education Programs, 221 (b) Programs, but also regular curriculum activities such as Language Arts, Mathematics, Vocational Education) should be formally evaluated on a regular basis (at least once each 3 years) for their impact on improving student achievement and learning and meeting the educational needs of the FSM.
+7. Programs (in the broader sense:  U.S. Federal Education Programs, 221 (b) Programs, but also regular curriculum activities such as Language Arts, Mathematics, Vocational Education) should be formally evaluated on a regular basis (at least once each 3 years) for their impact on improving student achievement and learning and meeting the educational needs of the FSM.
 
-- Emphasis in assessment and evaluation should be for improvement of learning, not for attachment of blame.  Assess and evaluate the system for improvement purposes, not for attaching blame to individuals or groups.
+8. Emphasis in assessment and evaluation should be for improvement of learning, not for attachment of blame.  Assess and evaluate the system for improvement purposes, not for attaching blame to individuals or groups.
 
-- Evaluation systems for teachers, principals and education support staff need to be improved and actively supported.  Certification systems should focus on improving teaching and learning.
+9. Evaluation systems for teachers, principals and education support staff need to be improved and actively supported.  Certification systems should focus on improving teaching and learning.
 
-- Assessment and evaluation data is public information to be shared with the community while respecting the individual rights of students.
+10. Assessment and evaluation data is public information to be shared with the community while respecting the individual rights of students.
 
-- Assessment and evaluation should show quantifiable 'before and after' data on the impact of programs and improvement efforts.
+11. Assessment and evaluation should show quantifiable 'before and after' data on the impact of programs and improvement efforts.
 
-- Assessment and evaluation in the FSM needs to be looked at as a series of interlocking systems at the National, State, School and Classroom levels.
+12. Assessment and evaluation in the FSM needs to be looked at as a series of interlocking systems at the National, State, School and Classroom levels.
 
 With these principles in mind, the following goals and objectives are set:.
 
@@ -1321,13 +1382,13 @@ Strategy 7. Develop National and State collections of the best writings, project
 
 Objective 2. Formalize State Assessment and Evaluations System for all levels of the State Education System.
 
-- Strategy 1. Include local language assessments on high school entrance tests.
+Strategy 1. Include local language assessments on high school entrance tests.
 
 Strategy 2. Expand/develop assessment instruments which assess interaction and values and attitudes toward the productive sectors.
 
 Strategy 3. Formalize teacher, principal, and support staff evaluation.
 
-Strategy 4. Develop decision making mechanisms which take into account assessment and evaluation data from individual State efforts, NST data, COMFSM entrance tests, and other assessment and evaluation data in allocation of human and financial resources.
+Strategy 4. Develop decision making mechanisms which take into account assessment and evaluation data from individual State efforts, NST data, COM-FSM entrance tests, and other assessment and evaluation data in allocation of human and financial resources.
 
 Objective 3. Develop a formal system for program evaluation on a periodic basis.
 
@@ -1345,19 +1406,19 @@ Page 37
 
 FSM Strategic Plan for Improvement of Education
 
-- Strategy 2. Develop reporting mechanism for internal education use and also for reporting to Congress, State Legislators, parents and the community.
+Strategy 2. Develop reporting mechanism for internal education use and also for reporting to Congress, State Legislators, parents and the community.
 
-- Strategy 3. Make all performance reports for  local and externally funded programs part of the public record.
+Strategy 3. Make all performance reports for  local and externally funded programs part of the public record.
 
-- Strategy 4. Use program evaluation for making changes in program delivery to improve impact of programs on learning and support of learning.
+Strategy 4. Use program evaluation for making changes in program delivery to improve impact of programs on learning and support of learning.
 
 Objective 4. Provide training in analysis of assessment and evaluation data and procedures for development of new assessment tools and evaluation procedures..
 
-- Strategy 1. Make use of Technical Assistance Service providers to move forward training of key education staff in analysis of assessment and evaluation data and procedures for development of new assessment tools and evaluation procedures.
+Strategy 1. Make use of Technical Assistance Service providers to move forward training of key education staff in analysis of assessment and evaluation data and procedures for development of new assessment tools and evaluation procedures.
 
-- Strategy 2. Enhance electronic means of communication for sharing of data and results of assessment.
+Strategy 2. Enhance electronic means of communication for sharing of data and results of assessment.
 
-- Strategy 3. Expand/develop a research program on the most effective assessment evaluation instruments and procedures in Micronesia.
+Strategy 3. Expand/develop a research program on the most effective assessment evaluation instruments and procedures in Micronesia.
 
 ## Accountability, Governance & Finance
 
@@ -1423,17 +1484,17 @@ Page 39
 
 FSM Strategic Plan for Improvement of Education
 
-- Strategy 2. Prepare a report with recommendations on needed changes in institutional systems which impact on the timely delivery of educational programs and projects for consideration by State and National Policy makers.
+Strategy 2. Prepare a report with recommendations on needed changes in institutional systems which impact on the timely delivery of educational programs and projects for consideration by State and National Policy makers.
 
 Strategy 3. Revise/develop policy and procedures in cooperation with State and National Budget and Finance Office on use of U.S. Federal Education Funds to ensure timely use and availability of funds for program purposes.
 
-- Strategy 4. Review and recommend changes on existing mechanism for funds distribution, allotment and draw down to ensure that funds are available when needed for delivery of education programs and projects.
+Strategy 4. Review and recommend changes on existing mechanism for funds distribution, allotment and draw down to ensure that funds are available when needed for delivery of education programs and projects.
 
-- Strategy 5. Provide structured training to program and project managers to ensure accountability for financial manners consistent with authorizing legislation.
+Strategy 5. Provide structured training to program and project managers to ensure accountability for financial manners consistent with authorizing legislation.
 
 Strategy 6. Develop internal procedures for reporting on funds and development and implementation of expenditure plans.
 
-- Strategy 7. Provide training in performance based budgeting for use at the National and State levels.
+Strategy 7. Provide training in performance based budgeting for use at the National and State levels.
 
 Strategy 8. Expand/develop which track human resources allocation and their relation to priorities of education.
 
@@ -1479,13 +1540,13 @@ Strategy 1. The FSM NDOE will develop an action plan which lays out its implemen
 
 Strategy 2. Implementation of the FSM Language Policy.
 
-- Strategy 3. Development of additional enabling policies based on the FSM Language Policy model.
+Strategy 3. Development of additional enabling policies based on the FSM Language Policy model.
 
 Strategy 4. State DOE's are recommended to review existing policies and procedures and review/revise/develop policies which focus on learning and provide the needed support structure for reform to take place.  Policies and procedures are needed in at least:  prioritization of learning as the key to education reform, professional development guidelines, evaluation of staff with special emphasis on in class evaluation and support for teachers, and curriculum and instructional materials development.  The General Principles for Materials Development included in this plan are recommended as the basis for instructional materials development, purchase, and evaluation.
 
 Objective 2. Enforce existing laws, policies, regulations, and codes.
 
-- Strategy 1. Monitoring and reporting plans need to be established at all levels of the school system for the impact of existing laws, policies, regulations and codes.
+Strategy 1. Monitoring and reporting plans need to be established at all levels of the school system for the impact of existing laws, policies, regulations and codes.
 
 Strategy 2. Existing laws, policies, regulations, and codes should be reviewed to ensure alignment with existing resources.
 
@@ -1513,7 +1574,8 @@ A sample of problems faced:
 
  External purchase requisitions can routinely take six months to a year to be completed and materials and equipment arrives,
 
- Internal National/State requisitions can take months before vendors are paid, The net result is that materials and equipment are not available in a timely fashion for implementation of program activities
+ Internal National/State requisitions can take months before vendors are paid,
+The net result is that materials and equipment are not available in a timely fashion for implementation of program activities
 
  Both external and local vendors often will not accept  FSM purchase orders, but require cash advance payments for release of goods,
 
@@ -1645,27 +1707,27 @@ Objective 1. Provide structured training for parents and community to understand
 
 Strategy 1. Provide community education in line with information called for in the FSM Language Policy:
 
-- Provide information on the levels of language competence of FSM students in local languages and English,
+a) Provide information on the levels of language competence of FSM students in local languages and English,
 
-- Provide information on the role of language(s) in economic growth and social development,
+b) Provide information on the role of language(s) in economic growth and social development,
 
-- Provide research information on the how languages are learned.
+c) Provide research information on the how languages are learned.
 
-- Provide information on different methodologies for language instruction.
+d) Provide information on different methodologies for language instruction.
 
-- Provide information on current programs and trends in the school system and community.
+e) Provide information on current programs and trends in the school system and community.
 
-- Explain the concept of a National Language Policy as a Framework for State language policies.
+f) Explain the concept of a National Language Policy as a Framework for State language policies.
 
-- Explain the need for high competence in local languages and English and need not to place one above the other.
+g) Explain the need for high competence in local languages and English and need not to place one above the other.
 
 Strategy 2. Provide career information and associated economic data and projections.
 
-- Strategy 3. Provide assessment and evaluation data to the community on the state of the education system and the level of student learning and achievement.
+Strategy 3. Provide assessment and evaluation data to the community on the state of the education system and the level of student learning and achievement.
 
 Strategy 4. Provide comprehensive training and review of overall goals and objectives of the education system.
 
-- Strategy 5. Provide training and information collection activities on means of improving community's role in improving instruction and learning.
+Strategy 5. Provide training and information collection activities on means of improving community's role in improving instruction and learning.
 
 Objective 2. Develop State and school level plans for increased parent and community involvement in education which take into account the need for a gradual assumption of responsibility and authority, focuses on making changes in the schools which focus on learning, and develops accountability systems which take into account extended family issues and traditional systems of governance and decision making.
 
@@ -1687,7 +1749,7 @@ Strategy 2. Develop school based management plans which incorporate traditional 
 
 Strategy 3. Ensure that school based management programs focus not only on increased local decision making but on mechanisms for the improvement of instruction and learning.
 
-- Strategy 4. Evaluate school based management programs not only on increased involvement of the community, but primarily on the impact of programs on learning and student achievement.
+Strategy 4. Evaluate school based management programs not only on increased involvement of the community, but primarily on the impact of programs on learning and student achievement.
 
 ## Accreditation
 
@@ -1697,9 +1759,9 @@ Goal. By the year 2001, the FSM will develop an accreditation scheme for seconda
 
 Objective 1. Research accreditation schemes and make the information available to all stakeholders in educational improvement.
 
-- Strategy 1. Provide information on accreditation research to planning and improvement groups.
+Strategy 1. Provide information on accreditation research to planning and improvement groups.
 
-- Strategy 2. Provide information on key areas where accreditation requires high standards and delivery systems.
+Strategy 2. Provide information on key areas where accreditation requires high standards and delivery systems.
 
 Objective 2. In the year 2000, establish standards for accreditation of schools.
 
@@ -1745,13 +1807,13 @@ FSM Strategic Plan for Improvement of Education
 
 ### Principles of Professional Development
 
-- Linked to Overall Planning and Priorities Through a Comprehensive State Plan for Professional Development (CSPPD) Training should not be ad hock, but should be based on an overall - comprehensive plan for professional development which reflects the priorities of the State and Nation for economic and social development. The CSPPD should be based on the need for a system wide approach to staff development.  Incorporated into each State's CSPPD should be:  (1) policies on how and when training occurs, decision making processes to determine training priorities, and procedures for selection of training participants; (2) mechanisms for establishment of individual, school or state performance expectations for each training activity or component; (3) mechanisms to provide support for implementation of training including materials, and follow up and follow through at the classroom, school, or work-site by principles, specialists, consultants or other support staff;  (4) directed at developing teacher competencies rather than teacher degrees; and (5) assessment and evaluation procedures based on the performance expectations for the training activity or training component.
+1. Linked to Overall Planning and Priorities Through a Comprehensive State Plan for Professional Development (CSPPD) Training should not be ad hock, but should be based on an overall - comprehensive plan for professional development which reflects the priorities of the State and Nation for economic and social development. The CSPPD should be based on the need for a system wide approach to staff development.  Incorporated into each State's CSPPD should be:  (1) policies on how and when training occurs, decision making processes to determine training priorities, and procedures for selection of training participants; (2) mechanisms for establishment of individual, school or state performance expectations for each training activity or component; (3) mechanisms to provide support for implementation of training including materials, and follow up and follow through at the classroom, school, or work-site by principles, specialists, consultants or other support staff;  (4) directed at developing teacher competencies rather than teacher degrees; and (5) assessment and evaluation procedures based on the performance expectations for the training activity or training component.
 
-- Relevant Professional development needs to be needs based and relevant to improving job performance.  There also needs to be a clear understanding of the impact the training will have on future job performance.  Performance indicators should be used to evaluate the impact of the training on actual job performance. Consideration also needs to be given to the relevance of the content of the training . Content and examples should be appropriate for our Pacific Island - developing Nation setting and to the knowledge level of the audience.   External offers for training assistance should be reviewed to determine if they fit the needs for improvement of work performance.
+2. Relevant Professional development needs to be needs based and relevant to improving job performance.  There also needs to be a clear understanding of the impact the training will have on future job performance.  Performance indicators should be used to evaluate the impact of the training on actual job performance. Consideration also needs to be given to the relevance of the content of the training . Content and examples should be appropriate for our Pacific Island - developing Nation setting and to the knowledge level of the audience.   External offers for training assistance should be reviewed to determine if they fit the needs for improvement of work performance.
 
-- Methods of training Training should also be relevant to the needs of FSM education staff and appropriate for implementation in FSM classrooms and work sites.  It is recommended that for short term (and for portions of long term training) that case studies become a preferred methods for conducting training and staff upgrading.  Case studies would assist in critical analysis of programs and their impact on learning.  Case studies can also allow comprehensive reviews of programs and activities and the need for supporting systems.
+3. Methods of training Training should also be relevant to the needs of FSM education staff and appropriate for implementation in FSM classrooms and work sites.  It is recommended that for short term (and for portions of long term training) that case studies become a preferred methods for conducting training and staff upgrading.  Case studies would assist in critical analysis of programs and their impact on learning.  Case studies can also allow comprehensive reviews of programs and activities and the need for supporting systems.
 
-- Developmental in Structure In general, training should be focused, developmental and sequenced.  Training taken has a whole should move staff to a desired degree of competence as set forth in performance indicators.  The performance indicators should be related to actual improvement of staff work performance.  To be most effective, training needs to be concentrated on a small number of major strands and not a large number of unrelated training activities.
+4. Developmental in Structure In general, training should be focused, developmental and sequenced.  Training taken has a whole should move staff to a desired degree of competence as set forth in performance indicators.  The performance indicators should be related to actual improvement of staff work performance.  To be most effective, training needs to be concentrated on a small number of major strands and not a large number of unrelated training activities.
 
 Education:  Underpinning Economic Growth & Social Development
 
@@ -1765,17 +1827,17 @@ Page 48
 
 FSM Strategic Plan for Improvement of Education
 
-- Local Expertise If professional development is to be long term and developmental in nature, we must have local capability for delivery of training.  The role of our National College needs to be emphasized and the concept of Training of Trainers needs to be actively set in place and in practice.  Local expertise needs to cross State boundaries. When training needs are set we need to look first within our local educational agencies, to COM-FSM and the FSM NDOE, and finally to external technical assistance service providers.  We would also recommend that when external technical assistance service providers are used that the training efforts be shared with local staff.
+5. Local Expertise If professional development is to be long term and developmental in nature, we must have local capability for delivery of training.  The role of our National College needs to be emphasized and the concept of Training of Trainers needs to be actively set in place and in practice.  Local expertise needs to cross State boundaries. When training needs are set we need to look first within our local educational agencies, to COM-FSM and the FSM NDOE, and finally to external technical assistance service providers.  We would also recommend that when external technical assistance service providers are used that the training efforts be shared with local staff.
 
-- Practice based Training is not effective unless it can be successfully incorporated in work and job delivery.  Training should be designed to emphasize how it will affect job performance.
+6. Practice based Training is not effective unless it can be successfully incorporated in work and job delivery.  Training should be designed to emphasize how it will affect job performance.
 
-- Assessment and Evaluation Professional Development must be linked to assessment and evaluation tools. The primary mechanisms for assessment and evaluation should be the performance expectations developed for all training activities or training components.  Assessment and evaluation should be based on what occurs in the classroom or  workplace.  Improved Student Achievement should be the final evaluation tool for professional development and all segments of the education system. Assessment and evaluation data should also be used to determine additional training needs and for modifications in the CSPPD.
+7. Assessment and Evaluation Professional Development must be linked to assessment and evaluation tools. The primary mechanisms for assessment and evaluation should be the performance expectations developed for all training activities or training components.  Assessment and evaluation should be based on what occurs in the classroom or  workplace.  Improved Student Achievement should be the final evaluation tool for professional development and all segments of the education system. Assessment and evaluation data should also be used to determine additional training needs and for modifications in the CSPPD.
 
-- Follow through and follow up Professional development must have mechanisms for follow through and follow up at the school and classroom level.  We cannot expect staff, especially teachers and principals, to implement training without an adequate support structure at the school and in the classroom.  Training activities should be followed up and followed through with materials support, morale support and critical observations by qualified staff.
+8. Follow through and follow up Professional development must have mechanisms for follow through and follow up at the school and classroom level.  We cannot expect staff, especially teachers and principals, to implement training without an adequate support structure at the school and in the classroom.  Training activities should be followed up and followed through with materials support, morale support and critical observations by qualified staff.
 
-- Preferred Sites and Times for Training Training should be considered a year round activity - not just a summer program.  Mechanisms and systems (see especially the section on technology below) should be developed to provided training and support to teachers through out the school year - at the school site.  During the school year, efforts should be made to provide training to teachers prior to or after normal school instruction time.    Training should also be scheduled as close as possible to when it will be used in the classroom or work situation.
+9. Preferred Sites and Times for Training Training should be considered a year round activity - not just a summer program.  Mechanisms and systems (see especially the section on technology below) should be developed to provided training and support to teachers through out the school year - at the school site.  During the school year, efforts should be made to provide training to teachers prior to or after normal school instruction time.    Training should also be scheduled as close as possible to when it will be used in the classroom or work situation.
 
-- Role of Technology and What We can Learn from Industry Technology is not the answer to all problems, but it can be a mechanism for improving the delivery of training and provide mechanisms for follow through and follow up to training at the school site.  Concepts from industry such as 'training on demand' and 'just-in-time learning' should be viewed as models which can have a major impact on improving professional development.  'Training on demand' and 'just-in-time learning' would provide training at the school site, on topics needed immediately for improving work performance.  The concepts also emphasize that technology allows individualization of
+10. Role of Technology and What We can Learn from Industry Technology is not the answer to all problems, but it can be a mechanism for improving the delivery of training and provide mechanisms for follow through and follow up to training at the school site.  Concepts from industry such as 'training on demand' and 'just-in-time learning' should be viewed as models which can have a major impact on improving professional development.  'Training on demand' and 'just-in-time learning' would provide training at the school site, on topics needed immediately for improving work performance.  The concepts also emphasize that technology allows individualization of
 
 Education:  Underpinning Economic Growth & Social Development
 
@@ -1789,13 +1851,13 @@ Page 49
 
 FSM Strategic Plan for Improvement of Education
 
-training programs.  With the move to four school days in many of our States and  the budgetary reductions we need to look for ways to provide training in a cost effective manner which concentrates on the information and skills needed now to improve job performance right now.  Technology can also provide assistance in ensuring training equity.  We should not allow distance and remoteness of our local islands and distance schools to restrict training opportunities.  We need to actively explore information technology solutions to improving communications and training of all staff.  COMFSM should be especially encouraged to explore distance education systems which would allow delivery of training at the school or even the home site of teachers and staff.
+training programs.  With the move to four school days in many of our States and  the budgetary reductions we need to look for ways to provide training in a cost effective manner which concentrates on the information and skills needed now to improve job performance right now.  Technology can also provide assistance in ensuring training equity.  We should not allow distance and remoteness of our local islands and distance schools to restrict training opportunities.  We need to actively explore information technology solutions to improving communications and training of all staff.  COM-FSM should be especially encouraged to explore distance education systems which would allow delivery of training at the school or even the home site of teachers and staff.
 
-- Rewards and Incentives Innovative means should be provided for a rewards and incentive support system.  Research has shown that this is a key component necessary for implementation of change. Program design should seriously consider non monetary rewards and incentives to support professional development
+11. Rewards and Incentives Innovative means should be provided for a rewards and incentive support system.  Research has shown that this is a key component necessary for implementation of change. Program design should seriously consider non monetary rewards and incentives to support professional development
 
-- Self Directed Improvement Programs and support systems which allow teachers to grow on their own or in small groups should be set in place and recognized as valid professional development activities.  These might include greater access to information through a computer network or library system, self directed or small group directed content upgrading through in school seminars, accessing distance education programs over the Internet or through correspondence courses or a combination of the two, or by other means.
+12. Self Directed Improvement Programs and support systems which allow teachers to grow on their own or in small groups should be set in place and recognized as valid professional development activities.  These might include greater access to information through a computer network or library system, self directed or small group directed content upgrading through in school seminars, accessing distance education programs over the Internet or through correspondence courses or a combination of the two, or by other means.
 
-- Equity in Accessing Needed Training All teachers and staff should have access to training as needed to improve student achievement and support services.  Access should not be limited by remote island settings (technology solutions may be possible) or by source of program funding (applications have great flexibility in meeting locally determined priority areas in education).
+13. Equity in Accessing Needed Training All teachers and staff should have access to training as needed to improve student achievement and support services.  Access should not be limited by remote island settings (technology solutions may be possible) or by source of program funding (applications have great flexibility in meeting locally determined priority areas in education).
 
 The Suggested Principles for Professional Development in the FSM are recommended to be used in design, implementation and assessment of professional development systems and programs in the FSM.
 
@@ -1803,11 +1865,11 @@ The Suggested Principles for Professional Development in the FSM are recommended
 
 - Strategy 1. Each State DOE and the National DOE should development comprehensive professional development plans which include:
 
-- policies on how and when training occurs, decision making processes to determine training priorities, and procedures for selection of training participants;
+(1) policies on how and when training occurs, decision making processes to determine training priorities, and procedures for selection of training participants;
 
-- mechanisms for establishment of individual, school or state performance expectations for each training activity or component;
+(2) mechanisms for establishment of individual, school or state performance expectations for each training activity or component;
 
-- mechanisms to provide support for implementation of training including materials, and follow up and follow through at the classroom, school, or work-site by principles, specialists, consultants or other support staff;
+(3) mechanisms to provide support for implementation of training including materials, and follow up and follow through at the classroom, school, or work-site by principles, specialists, consultants or other support staff;
 
 Education:  Underpinning Economic Growth & Social Development
 
@@ -1821,11 +1883,11 @@ Page 50
 
 FSM Strategic Plan for Improvement of Education
 
-- directed at developing teacher competencies rather than teacher degrees, and
+(4) directed at developing teacher competencies rather than teacher degrees, and
 
-- assessment and evaluation procedures based on the performance expectations for the training activity or training component.
+(4) assessment and evaluation procedures based on the performance expectations for the training activity or training component.
 
-Strategy 2. The FSM National Department of Education and the College of Micronesia FSM should assist the State in coordination of common training needs across the Nation to maximize financial and human resources.   Special attention should be given to COMFSM's role in pre service and inserevice training of teachers.  It is recommended that COM-FSM work closely with the NDOE and State DOEs in review/revision of the existing teaching degree and training programs to ensure that they meet instructional and teaching needs of the FSM.
+Strategy 2. The FSM National Department of Education and the College of Micronesia - FSM should assist the State in coordination of common training needs across the Nation to maximize financial and human resources.   Special attention should be given to COM-FSM's role in pre service and inserevice training of teachers.  It is recommended that COM-FSM work closely with the NDOE and State DOEs in review/revision of the existing teaching degree and training programs to ensure that they meet instructional and teaching needs of the FSM.
 
 Strategy 3. The comprehensive plans should be the basis of negotiating long term training agreements with technical assistance service providers such as PREL, Guam and Hawaii UAP and WRRC.
 
@@ -2261,7 +2323,7 @@ Strategy 5. In cooperation with COM-FSM develop preserve training programs for t
 
 Objective 3. Vocational instruction will be delivered in an environment that is appropriate, safe, and conducive to learning in terms of tools, equipment, instructional materials, facilities, and quality of personnel.
 
-Strategy 1.  A cquire appropriate equipment, supplies, tools, and instructional materials.
+Strategy 1.  Acquire appropriate equipment, supplies, tools, and instructional materials.
 
 Strategy 2. Renovate or build Vocational facilities to insure a working/learning environment that meet safety and instructional requirements.
 
@@ -2455,7 +2517,7 @@ Page 66
 
 FSM Strategic Plan for Improvement of Education
 
-Action Step 2. Awarding of scholarships for 3 rd year and beyond should be initially based on demonstration of competence and ability at COMFSM.  Possible minimum criteria could be: at least two semesters at COMFSM  with a GPA of 2.5 or above in 100 or above level courses.
+Action Step 2. Awarding of scholarships for 3 rd year and beyond should be initially based on demonstration of competence and ability at COM-FSM.  Possible minimum criteria could be: at least two semesters at COM-FSM  with a GPA of 2.5 or above in 100 or above level courses.
 
 Action Step 3. COM-FSM main or extension campus personnel should be either members or ex officio members of scholarship boards to provide input on programs and opportunities available at COM-FSM.
 
@@ -2587,7 +2649,7 @@ Strategy 2 :  Encourage COM-FSM to design teacher training programs for delivery
 
 Strategy 3 :  Promote on site support of teachers by DOE staff through information technologies.
 
-Strategy 4 :  Design and implement programs for outer island Internet connection through appropriate technologies, e.g., through use of short wave-computer interconnectivity .
+Strategy 4 :  Design and implement programs for outer island Internet connection through appropriate technologies, e.g., through use of short wave-computer inter-connectivity .
 
 Objective 4 :  Provide for repair and maintenance and upgrading of technological resources.
 
@@ -2619,7 +2681,7 @@ Strategy 3 :  Identify alternate financial and technical resources for expansion
 
 ## Data Collection, Analysis, Reporting & Definitions
 
-Introduction The basis of a results based education system is current and accurate data on student achievement, finances, enrollment, status of facilities, student tracking, and other key pieces of information.  Often results cannot be expressed in measurable terms without baseline data.  The current situation is that while some data is available, it is often in a fragmented state and difficult to obtain.  Additionally, data has often not been analyzed to determine trends and other types of information which can be the basis of educational decision making.
+Introduction - The basis of a results based education system is current and accurate data on student achievement, finances, enrollment, status of facilities, student tracking, and other key pieces of information.  Often results cannot be expressed in measurable terms without baseline data.  The current situation is that while some data is available, it is often in a fragmented state and difficult to obtain.  Additionally, data has often not been analyzed to determine trends and other types of information which can be the basis of educational decision making.
 
 Goal: Develop and implement an educational information management system (IMS).
 
