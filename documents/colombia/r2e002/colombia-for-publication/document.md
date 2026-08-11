@@ -2,23 +2,23 @@
 
 # LAS ORIENTACIONES PARA LA PREPARACIÓN DE LOS INFORMES DE LOS ESTADOS MIEMBROS SOBRE LA APLICACIÓN DE LA RECOMENDACIÓN DE 1974 SOBRE LA EDUCACIÓN PARA LA COMPRENSIÓN, LA COOPERACIÓN Y LA PAZ INTERNACIONALES  Y  LA  EDUCACIÓN  RELATIVA  A  LOS  DERECHOS  HUMANOS Y LAS LIBERTADES FUNDAMENTALES
 
-## Introducción
+## I. Introducción
 
 ### A. Sobre la Recomendación de 1974
 
-- La Recomendación de 1974 de la UNESCO sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades  Fundamentales 1   (la  'Recomendación  de  1974')  tiene  por  objetivo  promover  la educación  internacional  y  la  paz  mundial  mediante  la  comprensión,  la  solidaridad  y  la cooperación. Fue aprobada el 19 de noviembre de 1974 por la Conferencia General de la UNESCO en su 18ª reunión.
+1. La Recomendación de 1974 de la UNESCO sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades Fundamentales1 (la “Recomendación de 1974”) tiene por objetivo promover la educación internacional y la paz mundial mediante la comprensión, la solidaridad y la cooperación. Fue aprobada el 19 de noviembre de 1974 por la Conferencia General de la UNESCO en su 18ª reunión.
 
-- La Recomendación de 1974 se aplica a la educación formal, no formal e informal y a todos los niveles, desde la educación preescolar hasta la terciaria y a la educación de adultos y al aprendizaje permanente. La Conferencia General recomendó que los Estados Miembros apliquen las disposiciones de la Recomendación de 1974 'adoptando las medidas legislativas o  de  otra  índole'  que  proporcionen  apoyo  institucional  (por  ejemplo,  políticas  y  marcos jurídicos)  y  pedagógico  (por  ejemplo,  planes  de  estudios,  formación  docente,  materiales educativos, equipo y evaluación del estudiantado) para su implementación, basándose en los 'objetivos'  mencionados  en  el  párrafo  4  de  la  Recomendación  y  considerados  como  'los principios  rectores  de  la  política  educacional',  a  saber:  una  dimensión  internacional  y  una perspectiva global de la educación, la diversidad cultural, la interdependencia, la comunicación, los derechos y deberes, la solidaridad y la cooperación internacionales, y la solución de los problemas.
+2. La Recomendación de 1974 se aplica a la educación formal, no formal e informal y a todos los niveles, desde la educación preescolar hasta la terciaria y a la educación de adultos y al aprendizaje permanente. La Conferencia General recomendó que los Estados Miembros apliquen las disposiciones de la Recomendación de 1974 “adoptando las medidas legislativas o de otra índole” que proporcionen apoyo institucional (por ejemplo, políticas y marcos jurídicos) y pedagógico (por ejemplo, planes de estudios, formación docente, materiales educativos, equipo y evaluación del estudiantado) para su implementación, basándose en los “objetivos” mencionados en el párrafo 4 de la Recomendación y considerados como “los principios rectores de la política educacional”, a saber: una dimensión internacional y una perspectiva global de la educación, la diversidad cultural, la interdependencia, la comunicación, los derechos y deberes, la solidaridad y la cooperación internacionales, y la solución de los problemas.
 
-- Hoy en día, los principios de la Recomendación de 1974 se aplican igualmente bien a la educación para el desarrollo sostenible (EDS) y a la educación para la ciudadanía mundial (ECM) y, por consiguiente, representan un poderoso instrumento para promover la Agenda 2030 para el Desarrollo Sostenible y, en particular, la meta 4.7, relativa a la promoción del desarrollo sostenible y la educación para la ciudadanía mundial mediante la educación, la meta 12.8, relativa al acceso a la información sobre el desarrollo sostenible, y la meta 13.3, relativa a la educación sobre el cambio climático, de los Objetivos de Desarrollo Sostenible (ODS).
+3. Hoy en día, los principios de la Recomendación de 1974 se aplican igualmente bien a la educación para el desarrollo sostenible (EDS) y a la educación para la ciudadanía mundial (ECM) y, por consiguiente, representan un poderoso instrumento para promover la Agenda 2030 para el Desarrollo Sostenible y, en particular, la meta 4.7, relativa a la promoción del desarrollo sostenible y la educación para la ciudadanía mundial mediante la educación, la meta 12.8, relativa al acceso a la información sobre el desarrollo sostenible, y la meta 13.3, relativa a la educación sobre el cambio climático, de los Objetivos de Desarrollo Sostenible (ODS).
 
-- La  Conferencia  General,  en  su  39ª  reunión,  recomendó  utilizar  el  proceso  de presentación  de  informes  en  el  marco  de  la  Recomendación  de  1974  para  apoyar  la implementación y el seguimiento de la meta 4.7 del ODS 4 (Resolución 39 C/79). [El Consejo Ejecutivo de la UNESCO, en su 209ª reunión, aprobó la utilización de los principios rectores vigentes tanto para el seguimiento de la Recomendación de 1974 como para la recopilación de los datos necesarios para el seguimiento del indicador mundial relativo a los ODS del que se encarga la UNESCO (decisión 209 EX/18.II]:
+4. La Conferencia General, en su 39ª reunión, recomendó utilizar el proceso de presentación de informes en el marco de la Recomendación de 1974 para apoyar la implementación y el seguimiento de la meta 4.7 del ODS 4 (Resolución 39 C/79). [El Consejo Ejecutivo de la UNESCO, en su 209ª reunión, aprobó la utilización de los principios rectores vigentes tanto para el seguimiento de la Recomendación de 1974 como para la recopilación de los datos necesarios para el seguimiento del indicador mundial relativo a los ODS del que se encarga la UNESCO (decisión 209 EX/18.II]:
 
 4.7.1, 12.8.1 y 13.3.1: Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorpora en: a) las políticas nacionales de educación, b) los planes de estudios, c) la formación de docentes y d) la evaluación de los educandos.
 
-- Las  preguntas  marcadas  con  un  asterisco  (*)  se  emplearán  en  el  cálculo  de  los indicadores respectivos (cuadro 1). Según lo aprobado por el Grupo Interinstitucional y de
+5. Las preguntas marcadas con un asterisco (*) se emplearán en el cálculo de los indicadores respectivos (cuadro 1). Según lo aprobado por el Grupo Interinstitucional y de
 
-> 1 http://portal.unesco.org/es/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_ SECTION=201.html.
+> 1 http://portal.unesco.org/es/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html.
 
 [[END OF PAGE 1]]
 
@@ -34,25 +34,27 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Obligaciones en materia de presentación de informes
 
-6. La  Conferencia  General,  en  su  18ª  reunión,  al  aprobar  la  Recomendación  de  1974 recomendó a 'los Estados Miembros que presenten [...] informes relativos al accionar llevado adelante para la aplicación dela presente Recomendación'. Además, de conformidad con el artículo VIII de la Constitución de la UNESCO, '[cada] Estado Miembro someterá [...] informes sobre [...] el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV'.7. Así, se  espera  que  todos  los  Estados  Miembros  de  la  UNESCO presenten informes sobre las medidas que han adoptado para aplicar la Recomendación de 1974, de preferencia completando el siguiente cuestionario. Los informes deberán presentarse cada cuatro años.
+6. La Conferencia General, en su 18ª reunión, al aprobar la Recomendación de 1974 recomendó a “los Estados Miembros que presenten [...] informes relativos al accionar llevado adelante para la aplicación dela presente Recomendación”. Además, de conformidad con el artículo VIII de la Constitución de la UNESCO, “[cada] Estado Miembro someterá [...] informes sobre [...] el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV”.
+
+7. Así, se espera que todos los Estados Miembros de la UNESCO presenten informes sobre las medidas que han adoptado para aplicar la Recomendación de 1974, de preferencia completando el siguiente cuestionario. Los informes deberán presentarse cada cuatro años.
 
 ## II. Orientaciones para completar el cuestionario
 
-- El presente cuestionario y las orientaciones que lo acompañan se dirigen a los Ministros encargados de las relaciones con la UNESCO. Por lo general, los Ministerios de Educación y otras autoridades encargadas de la educación son quienes completan el cuestionario. En la medida de lo posible, las respuestas deberán abarcar la educación en todos los niveles de gobierno, incluidos  los  niveles  subnacionales  cuando  corresponda,  así como  la  educación privada.
+8. El presente cuestionario y las orientaciones que lo acompañan se dirigen a los Ministros encargados de las relaciones con la UNESCO. Por lo general, los Ministerios de Educación y otras autoridades encargadas de la educación son quienes completan el cuestionario. En la medida de lo posible, las respuestas deberán abarcar la educación en todos los niveles de gobierno, incluidos los niveles subnacionales cuando corresponda, así como la educación privada.
 
-- Se alienta a quienes respondan al cuestionario en cada país a que celebren amplias consultas dentro y fuera del gobierno, así como de manera transversal, en particular con los ministerios de Medio Ambiente, instituciones nacionales de derechos humanos, el sector de la educación, los asociados de la sociedad civil y otras instancias, según sea necesario, a fin de reunir la información necesaria.
+9. Se alienta a quienes respondan al cuestionario en cada país a que celebren amplias consultas dentro y fuera del gobierno, así como de manera transversal, en particular con los ministerios de Medio Ambiente, instituciones nacionales de derechos humanos, el sector de la educación, los asociados de la sociedad civil y otras instancias, según sea necesario, a fin de reunir la información necesaria.
 
-- Las respuestas a la séptima consulta deberían abarcar:
+10. Las respuestas a la séptima consulta deberían abarcar:
 
-- el período 2017-2020;
+i) el período 2017-2020;
 
-- ii) la  educación  en  todos  los  niveles  de  la  educación  formal,  desde  la  preescolar hasta la terciaria, así como la educación no formal;
+ii) la educación en todos los niveles de la educación formal, desde la preescolar hasta la terciaria, así como la educación no formal;
 
-- iii) todos los niveles de gobierno encargados de la educación en el país;
+iii) todos los niveles de gobierno encargados de la educación en el país;
 
-- iv) cuando sea posible, la educación privada.
+iv) cuando sea posible, la educación privada.
 
-- Para  ayudar  a  los  países  a  responder  el  cuestionario,  la  UNESCO  ha  elaborado  el siguiente conjunto de temas relacionados con la ECM y la EDS. La lista se basa en un examen de  las  prácticas  comunes  utilizadas  en  muchos  países,  así  como  en  un  análisis  de  las publicaciones pertinentes. Aunque los conceptos de EDS y ECM pueden utilizarse de manera diferente  en  algunos  países,  la  lista  de  temas  recoge  por  lo  general  los  elementos considerados fundamentales de la meta 4.7. Sírvase consultar las definiciones de los términos principales en la sección III antes de completar el cuestionario.
+11. Para ayudar a los países a responder el cuestionario, la UNESCO ha elaborado el siguiente conjunto de temas relacionados con la ECM y la EDS. La lista se basa en un examen de las prácticas comunes utilizadas en muchos países, así como en un análisis de las publicaciones pertinentes. Aunque los conceptos de EDS y ECM pueden utilizarse de manera diferente en algunos países, la lista de temas recoge por lo general los elementos considerados fundamentales de la meta 4.7. Sírvase consultar las definiciones de los términos principales en la sección III antes de completar el cuestionario.
 
 [[END OF PAGE 2]]
 
@@ -60,7 +62,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### Educación para la ciudadanía mundial y educación para el desarrollo sostenible
 
-- Diversidad cultural y tolerancia
+1. Diversidad cultural y tolerancia
 
 - 1.1 Entendimiento internacional o intercultural, solidaridad y cooperación.
 
@@ -68,7 +70,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 1.3 Ciudadanía local, nacional o mundial
 
-- Educación para la igualdad de género
+2. Educación para la igualdad de género
 
 - 2.1 Igualdad de oportunidades basadas en el género
 
@@ -76,7 +78,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 2.3 Roles, identidad y estereotipos de género
 
-- Educación en derechos humanos
+3. Educación en derechos humanos
 
 - 3.1 Igualdad  y  no  discriminación  por  motivos  de  raza,  color,  idioma,  religión, discapacidad,  opinión  política  o  de  otra  índole,  origen  nacional  o  social, nacimiento o cualquier otra condición
 
@@ -84,7 +86,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 3.3 Respeto de los derechos humanos y las libertades fundamentales (tal como son definidos en las convenciones y declaraciones internacionales)
 
-- Paz y no violencia
+4. Paz y no violencia
 
 - 4.1 Relaciones amistosas entre los pueblos y las naciones
 
@@ -92,7 +94,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 4.3 Prevención de todas las formas de violencia, como el acoso, la agresión verbal y la violencia de género
 
-- Educación sobre el cambio climático
+5. Educación sobre el cambio climático
 
 - 5.1 Mitigación
 
@@ -102,7 +104,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 5.4 Alerta temprana
 
-- Sostenibilidad ambiental
+6. Sostenibilidad ambiental
 
 - 6.1 Cuidado del planeta y protección de la naturaleza
 
@@ -110,7 +112,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 6.3 Biodiversidad, agua
 
-- Supervivencia y bienestar humanos
+7. Supervivencia y bienestar humanos
 
 - 7.1 Salud ambiental en la medida en la medida en que se relaciona con el al bienestar humano y la reducción del riesgo de desastres
 
@@ -118,7 +120,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 7.3 Ciudades y comunidades sostenibles
 
-- Consumo y producción sostenibles
+8. Consumo y producción sostenibles
 
 - 8.1 Estilos de vida responsables y sostenibles
 
@@ -136,7 +138,7 @@ Concepto | Definición
 --- | ---
 Temas de la educación para la ciudadanía mundial y la educación para el desarrollo sostenible
 1. Diversidad cultural y tolerancia | Educación sobre y en pro de la diversidad, incluyendo el idioma, el origen étnico, la raza y la religión, así como el desarrollo de la tolerancia, el respeto mutuo y la apreciación de la diversidad cultural. Engloba el diálogo intercultural e interreligioso, la comprensión, la solidaridad y la cooperación, así como la educación ciudadana.
-2. Educación para la igualdad de género | Educación que aborda la cuestión más amplia de la igualdad de género promoviendo nuevas actitudes y patrones de creencias, transformando la manera en que las personas se plantean los papeles tradicionales asignados al género y contribuyendo a construir el cambio sostenible a largo plazo. Examina el modo en que los roles asignados al género, las actividades, las necesidades, las oportunidades y los derechos afectan de manera diferente a los hombres, las mujeres, las niñas y los niños. Se ocupa de las relaciones entre mujeres y varones, su acceso a los recursos y su control sobre ellos y las limitaciones que cada uno enfrenta respecto del otro. Respeta los derechos del estudiantado-mujeres, hombres, niños y niñas- por igual y brinda acceso en condiciones de igualdad a las oportunidades de aprendizaje, los recursos y la protección. Las y los estudiantes se benefician de la educación y son tratados de igual manera en el ámbito educativo, sin las limitaciones impuestas por los estereotipos, los rígidos roles de género y los prejuicios. Abarca la igualdad de oportunidades por motivos de género, la igualdad y la justicia de género, y los roles, la identidad y los estereotipos asignados a cada género.
+2. Educación para la igualdad de género | Educación que aborda la cuestión más amplia de la igualdad de género promoviendo nuevas actitudes y patrones de creencias, transformando la manera en que las personas se plantean los papeles tradicionales asignados al género y contribuyendo a construir el cambio sostenible a largo plazo. Examina el modo en que los roles asignados al género, las actividades, las necesidades, las oportunidades y los derechos afectan de manera diferente a los hombres, las mujeres, las niñas y los niños. Se ocupa de las relaciones entre mujeres y varones, su acceso a los recursos y su control sobre ellos y las limitaciones que cada uno enfrenta respecto del otro. Respeta los derechos del estudiantado–mujeres, hombres, niños y niñas– por igual y brinda acceso en condiciones de igualdad a las oportunidades de aprendizaje, los recursos y la protección. Las y los estudiantes se benefician de la educación y son tratados de igual manera en el ámbito educativo, sin las limitaciones impuestas por los estereotipos, los rígidos roles de género y los prejuicios. Abarca la igualdad de oportunidades por motivos de género, la igualdad y la justicia de género, y los roles, la identidad y los estereotipos asignados a cada género.
 3. Educación en derechos humanos | Educación que promueve el respeto universal y la observancia de todos los derechos humanos y las libertades fundamentales, contribuyendo así, entre otras cosas, a la prevención de los abusos y violaciones de los derechos humanos a través de brindar a las personas conocimientos, habilidades y comprensión, y de desarrollar sus actitudes y comportamientos con el fin de empoderarlos para contribuir a la creación y promoción de una cultura universal de derechos humanos. Incluye la igualdad y la no discriminación, los valores de los derechos humanos, la dignidad, la justicia, la inclusión y la participación, así como el respeto de los derechos humanos y las libertades fundamentales. .
 
 [[END OF PAGE 4]]
@@ -181,10 +183,7 @@ Formación profesional | Educación diseñada para que el estudiantado adquiera 
 
 [[START OF PAGE 8]]
 
-## Información sobre la persona que responde a la encuesta
-
-Colombia
----
+## IV. Información sobre la persona que responde a la encuesta
 
 País:
 
@@ -234,7 +233,7 @@ Expertos del Ministerio de Educación Nacional
 
 Colombia  cuenta  con  un  amplio  marco  normativo  que  promueven  la  educación  para  la ciudadanía y la educación para el desarrollo sostenible. Por mencionar algunas están la ley 115  de  1994  que  en  su  artículo  14  establece  como  temas  de  enseñanza  obligatoria  la enseñanza  de  la  protección  del  ambiente,  la  ecología  y  la  preservación  de  los  recursos naturales, de conformidad con lo establecido en el artículo 67 de la Constitución Política; la  educación  para  la  justicia,  la  paz,  la  democracia,  la  solidaridad,  la  confraternidad,  el cooperativismo y, en general, la formación en los valores humanos, y la educación para la democracia, los derechos humanos y la educación sexual, impartida en cada caso de acuerdo con las necesidades psíquicas, físicas y afectivas de los educandos según la edad de los niños, niñas y adolescentes.
 
-Posterior a esta ley se promulgó la Ley 1620 de 2013 de Convivencia escolar en su Artículo 1°. ' Establece como objetivo contribuir a la formación de ciudadanos activos que aporten a la construcción  de  una  sociedad  democrática,  participativa,  pluralista  e intercultural,  en concordancia con el mandato constitucional y la Ley General de Educación -Ley 115 de 1994mediante  la  creación  del  Sistema  Nacional  de  Convivencia  Escolar  y  Formación  para  los Derechos  Humanos,  la  Educación  para  la  Sexualidad  y  la  Prevención  y  Mitigación  de  la Violencia  Escolar,  que  promueva  y fortalezca  la  formación  ciudadana  y  el  ejercicio  de  los derechos humanos, sexuales y reproductivos de los estudiantes, de los niveles educativos de preescolar,  básica  y  media  y  prevenga  y mitigue  la  violencia  escolar  y  el  embarazo  en  la adolescencia'.
+Posterior a esta ley se promulgó la Ley 1620 de 2013 de Convivencia escolar en su Artículo 1°. “Establece como objetivo contribuir a la formación de ciudadanos activos que aporten a la construcción de una sociedad democrática, participativa, pluralista e intercultural, en concordancia con el mandato constitucional y la Ley General de Educación -Ley 115 de 1994- mediante la creación del Sistema Nacional de Convivencia Escolar y Formación para los Derechos Humanos, la Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar, que promueva y fortalezca la formación ciudadana y el ejercicio de los derechos humanos, sexuales y reproductivos de los estudiantes, de los niveles educativos de preescolar, básica y media y prevenga y mitigue la violencia escolar y el embarazo en la adolescencia”.
 
 La  Ley  1620  de  2013,  retoma  aspectos  fundamentales  que  se  deben  promover  en  los establecimientos educativos oficiales y no oficiales como lo son:
 
@@ -252,7 +251,7 @@ La  Ley  1620  de  2013,  retoma  aspectos  fundamentales  que  se  deben  promo
 
 - Contribuir a la prevención del embarazo adolescente y a la reducción de enfermedades de transmisión sexual.
 
-En este sentido, el Decreto 1965 de 2013 reglamenta el funcionamiento del Sistema Nacional de Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la educación para la  sexualidad  y  la  prevención  y  mitigación  de  la  violencia  escolar;  estableciendo  sus herramientas; Ruta de Atención Integral para la Convivencia Escolar y Sistema de Información Unificado de Convivencia Escolar- SIUCE. Así mismo, brinda lineamientos generales bajo los cuales se deben ajustar los manuales de convivencia de los establecimientos educativos, de acuerdo con lo ordenado en la Ley 1620 de 2013 y otros aspectos relacionados con incentivos y la participación de las entidades del orden Nacional y Territorial que se realiza a través del reconocimiento a los establecimientos educativos en el marco del Foro Educativo Nacional.
+En este sentido, el Decreto 1965 de 2013 reglamenta el funcionamiento del Sistema Nacional de Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la educación para la sexualidad y la prevención y mitigación de la violencia escolar; estableciendo sus herramientas; Ruta de Atención Integral para la Convivencia Escolar y Sistema de Información
 
 > 2 Véase el esquema que figura en el párrafo 11 de la sección II de estas orientaciones.
 
@@ -260,57 +259,59 @@ En este sentido, el Decreto 1965 de 2013 reglamenta el funcionamiento del Sistem
 
 [[START OF PAGE 11]]
 
-De igual forma se promulgó en 2014 la Ley 1734 'Por la cual se establece la Cátedra de Paz en todas las instituciones educativas del país' - y el Decreto Reglamentario 1038 de 2015 'Por el cual se reglamenta la Cátedra de Paz'. Esta ley y su reglamentación plantea como objetivo  principal  'fomentar  el  proceso  de  apropiación  de  conocimientos  y  competencias relacionados con el territorio, la cultura, el contexto económico y social y la memoria histórica, con el propósito de reconstruir el tejido social, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución'. Así mismo, se propone reflexionar y dialogar sobre los siguientes aspectos:
+Unificado de Convivencia Escolar- SIUCE. Así mismo, brinda lineamientos generales bajo los cuales se deben ajustar los manuales de convivencia de los establecimientos educativos, de acuerdo con lo ordenado en la Ley 1620 de 2013 y otros aspectos relacionados con incentivos y la participación de las entidades del orden Nacional y Territorial que se realiza a través del reconocimiento a los establecimientos educativos en el marco del Foro Educativo Nacional.
 
-- Cultura de la paz: se entiende como el sentido y vivencia de los valores ciudadanos, los Derechos Humanos, el Derecho Internacional Humanitario, la participación democrática, la prevención de la violencia y la resolución pacífica de los conflictos;
+De igual forma se promulgó en 2014 la Ley 1734 “Por la cual se establece la Cátedra de Paz en todas las instituciones educativas del país” — y el Decreto Reglamentario 1038 de 2015 “Por el cual se reglamenta la Cátedra de Paz”. Esta ley y su reglamentación plantea como objetivo principal “fomentar el proceso de apropiación de conocimientos y competencias relacionados con el territorio, la cultura, el contexto económico y social y la memoria histórica, con el propósito de reconstruir el tejido social, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución”. Así mismo, se propone reflexionar y dialogar sobre los siguientes aspectos:
 
-- Educación  para  la  paz:  se  entiende  como  la  apropiación  de  conocimientos  y competencias ciudadanas para la convivencia pacífica, la participación democrática, la construcción de equidad, el respeto por la pluralidad, los Derechos Humanos y el Derecho Internacional Humanitario;
+a)Cultura de la paz: se entiende como el sentido y vivencia de los valores ciudadanos, los Derechos Humanos, el Derecho Internacional Humanitario, la participación democrática, la prevención de la violencia y la resolución pacífica de los conflictos;
 
-- Desarrollo sostenible: se entiende como aquel que conduce al crecimiento económico, la elevación de la calidad de la vida y al bienestar social, sin agotar la base de recursos naturales renovables en que se sustenta, ni deteriorar el ambiente o el derecho de las generaciones futuras a utilizarlo para la satisfacción de sus propias necesidades, de acuerdo con el artículo 3° de la Ley 99 de 1993.
+b)Educación para la paz: se entiende como la apropiación de conocimientos y competencias ciudadanas para la convivencia pacífica, la participación democrática, la construcción de equidad, el respeto por la pluralidad, los Derechos Humanos y el Derecho Internacional Humanitario;
+
+c)Desarrollo sostenible: se entiende como aquel que conduce al crecimiento económico, la elevación de la calidad de la vida y al bienestar social, sin agotar la base de recursos naturales renovables en que se sustenta, ni deteriorar el ambiente o el derecho de las generaciones futuras a utilizarlo para la satisfacción de sus propias necesidades, de acuerdo con el artículo 3° de la Ley 99 de 1993.
 
 En este sentido, el Decreto 1038 de 2015 también ordena que las instituciones educativas de preescolar, básica y media incorporen la Cátedra de la Paz en sus planes de estudio dentro de alguna de las siguientes áreas fundamentales:
 
-- Ciencias Sociales, historia, geografía, constitución política y democracia
+1.Ciencias Sociales, historia, geografía, constitución política y democracia
 
-- Ciencias naturales y educación ambiental
+2.Ciencias naturales y educación ambiental
 
-- Educación ética y en valores humanos.
+3.Educación ética y en valores humanos.
 
-Pero  también  invita  a  los  establecimientos  educativos  para  que  a  través  de  las  áreas transversales se desarrolle la catedra de paz.
+Pero también invita a los establecimientos educativos para que a través de las áreas transversales se desarrolle la catedra de paz.
 
 A continuación, se presentan los contenidos básicos que se deberán tener en cuenta para el desarrollo de la cátedra de la Paz:
 
-- Justicia y Derechos Humanos;
+a.Justicia y Derechos Humanos;
 
-- Uso sostenible de los recursos naturales;
+b.Uso sostenible de los recursos naturales;
 
-- Protección de las riquezas culturales y naturales de la Nación.;
+c.Protección de las riquezas culturales y naturales de la Nación.;
 
-- Resolución pacífica de conflictos;
+d.Resolución pacífica de conflictos;
 
-- Prevención del acoso escolar;
+e.Prevención del acoso escolar;
 
-- Diversidad y pluralidad.
+f. Diversidad y pluralidad.
 
-- Participación política.
+g.Participación política.
 
-- Memoria histórica.
+h.Memoria histórica.
 
-- Dilemas morales.
+i. Dilemas morales.
 
-- Proyectos de impacto social.
+j. Proyectos de impacto social.
 
-- Historia de los acuerdos de paz nacionales e internacionales.
+k. Historia de los acuerdos de paz nacionales e internacionales.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- Proyectos de Vida y prevención de riesgos
+l. Proyectos de Vida y prevención de riesgos
 
 Vale  la  pena  recalcar  que  las  instituciones  de  educación  superior,  teniendo  presente  la autonomía universitaria, podrán definir las acciones educativas que permitan a la comunidad académica contar con espacios de aprendizaje, reflexión y diálogo para la vivencia de la paz.
 
-El decreto 1421 de agosto de 2017 por el cual se reglamenta en el marco de la educación inclusiva la atención educativa a la población con discapacidad, en el cual se establece la comprensión o definición del sector educativo sobre lo que es la inclusión en educación: ' un proceso permanente que reconoce, valora y responde de manera pertinente a la diversidad de características, intereses, posibilidades y expectativas de los niñas, niños, adolescentes, jóvenes y adultos, cuyo objetivo es promover su desarrollo, aprendizaje y participación, con pares  de  su  misma  edad,  en  un  ambiente  de  aprendizaje  común,  sin  discriminación  o exclusión alguna, y que garantiza, en el marco de los derechos humanos, los apoyos y los ajustes razonables requeridos en su proceso educativo, a través de prácticas, políticas y culturas que eliminan las barreras existentes en el entorno educativo .' En este sentido la inclusión es la base de la convivencia, de la no discriminación y el no rechazo y que abre las puertas de una educación para todos, para avanzar en una nueva ciudadanía.
+El decreto 1421 de agosto de 2017 por el cual se reglamenta en el marco de la educación inclusiva la atención educativa a la población con discapacidad, en el cual se establece la comprensión o definición del sector educativo sobre lo que es la inclusión en educación: “un proceso permanente que reconoce, valora y responde de manera pertinente a la diversidad de características, intereses, posibilidades y expectativas de los niñas, niños, adolescentes, jóvenes y adultos, cuyo objetivo es promover su desarrollo, aprendizaje y participación, con pares de su misma edad, en un ambiente de aprendizaje común, sin discriminación o exclusión alguna, y que garantiza, en el marco de los derechos humanos, los apoyos y los ajustes razonables requeridos en su proceso educativo, a través de prácticas, políticas y culturas que eliminan las barreras existentes en el entorno educativo.” En este sentido la inclusión es la base de la convivencia, de la no discriminación y el no rechazo y que abre las puertas de una educación para todos, para avanzar en una nueva ciudadanía.
 
 De  manera  explícita  invita  a  reconocer  la  diversidad  como  una  oportunidad  para  el aprendizaje  y  la  convivencia.  Aplica  para  los  niveles  de  preescolar  (transición),  básica primaria, básica secundaria y media.
 
@@ -322,13 +323,13 @@ http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1685356
 
 Decreto reglamentario 1965 de 2013 "Por el cual se reglamenta la Ley 1620 de 2013, que crea el Sistema Nacional de Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar https://www.mineducacion.gov.co/1621/articles-328630_archivo_pdf_Decreto_1965.pdf
 
-Ley 1732 de 2014 Por medio de la cual se establece la catedra de la paz en todas las instituciones educativas' http://www.suinjuriscol.gov.co/viewDocument.asp?ruta=Leyes/1687408
+Ley 1732 de 2014 Por medio de la cual se establece la catedra de la paz en todas las instituciones educativas” http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1687408
 
-Decreto 1038 de 2015 2Por medio de la cual se reglamenta la ley de cátedra de paz'. http://www.sipi.siteal.iipe.unesco.org/sites/default/files/sipi_normativa/decreto_1038_de_201 5_catedra_de_la_paz_-colombia.pdf
+Decreto 1038 de 2015 “Por medio de la cual se reglamenta la ley de cátedra de paz”. http://www.sipi.siteal.iipe.unesco.org/sites/default/files/sipi_normativa/decreto_1038_de_2015_catedra_de_la_paz_-colombia.pdf
 
-Decreto 1421 de 2017, reglamentario de la Ley 1618 de 2013- Estatutaria de discapacidadse puede consultar en:
+Decreto 1421 de 2017, reglamentario de la Ley 1618 de 2013- Estatutaria de discapacidad- se puede consultar en:
 
-http://es.presidencia.gov.co/normativa/normativa/DECRETO%201421%20DEL%2029%20 DE%20AGOSTO%20DE%202017.pdf
+http://es.presidencia.gov.co/normativa/normativa/DECRETO%201421%20DEL%2029%20DE%20AGOSTO%20DE%202017.pdf
 
 [[END OF PAGE 12]]
 
@@ -396,11 +397,9 @@ De acuerdo con lo anterior y el marco normativo antes mencionado el país avanza
 
 #### A3b.  Por  favor  proporcione  los  nombres  completos  de  las  políticas,  marcos  u  objetivos estratégicos de educación a que se hace referencia en el apartado A3a y, de ser posible, los enlaces de Internet a los documentos pertinentes.
 
-Plan Nacional de Desarrollo 2018-2022 'pacto por Colombia, pacto por la equidad' - Ley 1955 de 2019 https://www.dnp.gov.co/DNPN/Plan-Nacional-de-Desarrollo/Paginas/Pilaresdel-PND/Equidad/Educacion-de-calidad-para-un-futuro-con-oportunidades-paratodos%E2%80%8B.aspx
+Plan Nacional de Desarrollo 2018-2022 “pacto por Colombia, pacto por la equidad” - Ley 1955 de 2019 https://www.dnp.gov.co/DNPN/Plan-Nacional-de-Desarrollo/Paginas/Pilares-del-PND/Equidad/Educacion-de-calidad-para-un-futuro-con-oportunidades-para-todos%E2%80%8B.aspx
 
-#### *A4.  Por favor indique qué temas de la ECM y la EDS están contemplados en las políticas, marcos  u  objetivos  estratégicos  de  educación  nacionales  o  subnacionales  que  se aplican a cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
-
-#### *A5.  Por  favor  indique  si  las  políticas,  marcos  u  objetivos  estratégicos  de  educación nacionales  o  subnacionales  prevén  el  mandato  de  integrar  la  ECM  y  la  EDS  en  los siguientes ámbitos, introduciendo el número correspondiente en cada casilla blanca.
+#### *A4.  Por favor indique qué temas de la ECM y la EDS están contemplados en las políticas, marcos u objetivos estratégicos de educación nacionales o subnacionales que se aplican a cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
@@ -415,7 +414,9 @@ Preescolar | Primaria y secundaria | Terciaria | Educación no formal
 7. | Supervivencia y bienestar humanos | 1 | 1 | 1 | 99
 8. | Consumo y producción sostenibles | 1 | 1 | 1 | 1
 
-CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica ( por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
+#### *A5.  Por favor indique si las políticas, marcos u objetivos estratégicos de educación nacionales o subnacionales prevén el mandato de integrar la ECM y la EDS en los siguientes ámbitos, introduciendo el número correspondiente en cada casilla blanca.
+
+CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica (por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
 
 Preescolar | Primaria y secundaria | Terciaria | Educación no formal
 --- | --- | --- | --- | ---
@@ -458,15 +459,11 @@ Finalmente  retoma  en  2020  la evaluación  censal  de  competencias  ciudadan
 
 #### B1b.  Por favor proporcione ejemplos de planes de estudios en los que se transversalicen la ECM y la EDS y, de ser posible, los enlaces de Internet a los documentos pertinentes.
 
-Los materiales, recursos y orientaciones del Ministerio se pueden consultar en: https://contenidos.colombiaaprende.edu.co/aprende-en-casa/educacion-socioemocionalpara-todos-los-niveles
+Los materiales, recursos y orientaciones del Ministerio se pueden consultar en: https://contenidos.colombiaaprende.edu.co/aprende-en-casa/educacion-socioemocional-para-todos-los-niveles
 
 #### *B2.  Por favor indique qué temas de la ECM y la EDS se enseñan como parte del plan de estudios en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
-#### *B3.  Por favor indique en qué asignaturas o campos de estudio se imparten la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
-
-CLAVE:
-
-0 = no, 1 = sí, 9 = no sabe
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
 Preescolar | Primaria y secundaria | Terciaria | Educación no formal
 --- | --- | --- | --- | --- | ---
@@ -479,9 +476,9 @@ Preescolar | Primaria y secundaria | Terciaria | Educación no formal
 7. | Supervivencia y bienestar humanos | 1 | 1 | 1 | 99
 8. | Consumo y producción sostenibles | 1 | 1 | 1 | 99
 
-CLAVE:
+#### *B3.  Por favor indique en qué asignaturas o campos de estudio se imparten la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
 
-0 = no, 1 = sí, 9 = no sabe
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
 Diversidad cultural y tolerancia | Igualdad de género | Derechos humanos | Paz y no violencia | Cambio climático | Sostenibilidad ambiental | Supervivencia y bienestar humanos | Consumo y producción sostenibles
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -498,16 +495,14 @@ Matemáticas | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 
 [[START OF PAGE 18]]
 
-#### *B4.  Por favor indique los enfoques utilizados para la enseñanza de la ECM y la EDS en la enseñanza primaria y secundaria,  introduciendo  el  número  correspondiente  en  cada casilla blanca.
-
-#### B5. Por favor indique qué temas de la educación en derechos humanos se enseñan como parte  del  plan  de  estudios  en  cada  nivel  de  educación,  introduciendo  el  número correspondiente en cada casilla blanca.
-
 Educación religiosa | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 0
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Ciencia | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0
 Estudios sociales | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0
 Estudios integrados | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 Otros (indique cuáles)
+
+#### *B4.  Por favor indique los enfoques utilizados para la enseñanza de la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
@@ -517,6 +512,8 @@ La ECM y la EDS se enseñan como asignaturas separadas | 1
 Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 1
 Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 1
 Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de aprendizaje de la escuela, así como en las experiencias de aprendizaje en la comunidad y la vida fuera de la escuela) | 1
+
+#### B5. Por favor indique qué temas de la educación en derechos humanos se enseñan como parte del plan de estudios en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
@@ -531,12 +528,12 @@ Preescolar | Primaria y secundaria | Terciaria | Educación no formal
 
 [[START OF PAGE 19]]
 
-### Formación docente (incluida la formación de formadores y educadores) (párrafos 4 y 33 a 37 de la Recomendación de 1974)
-
-#### C1a.  Por favor describa de qué manera se transversalizan la ECM y la EDS en la formación inicial  y  en  el  desarrollo  profesional  continuo  de  las  y  los  docentes,  formadores  y educadores. Indique si todos los docentes, formadores y educadores o solo algunos deben recibir formación para enseñar la ECM y la EDS.
-
 fundamentales (definidos en las convenciones y declaraciones internacionales)
 ---
+
+### C. Formación docente (incluida la formación de formadores y educadores) (párrafos 4 y 33 a 37 de la Recomendación de 1974)
+
+#### C1a.  Por favor describa de qué manera se transversalizan la ECM y la EDS en la formación inicial y en el desarrollo profesional continuo de las y los docentes, formadores y educadores. Indique si todos los docentes, formadores y educadores o solo algunos deben recibir formación para enseñar la ECM y la EDS.
 
 Para el desarrollo profesional continuo, es decir para la formación de docentes en ejercicio, cada entidad territorial cuenta con un plan de formación docente que responde entre varias condiciones,  a  las  particularidades  del  territorio,  las  necesidades  de  los  docentes  y  las metas  definidas  en  educación.  El  Ministerio  apoya  en  este  proceso  con  formación  y acompañamiento in situ, que parte de la premisa de que fortaleciendo las competencias socioemocionales en los docentes y poniendo a disposición los materiales existentes con orientaciones de uso, ellos podrán de manera planeada e intencional, estructurar su práctica y su planeación pedagógica para desarrollar estas competencias socioemocionales de sus estudiantes, de diversas maneras: en la disciplina, el proyectos, en interacciones con otros actores de la comunidad.
 
@@ -552,8 +549,6 @@ De  igual  forma  avanza  en  procesos  de  formación  continua  para  el  desa
 
 #### *C2.  Por favor indique si las y los docentes, formadores y educadores reciben formación para la enseñanza de la ECM y la EDS durante la formación inicial o previa al ejercicio de la docencia o mediante el desarrollo profesional continuo. Introduzca el número apropiado en cada casilla blanca.
 
-#### *C3.  Por  favor  indique  sobre  qué  temas  de  la  ECM  y  la  EDS  existe  formación  inicial  o formación  continua  dirigida  a  docentes,  formadores  y  educadores  en  cada  nivel  de educación, introduciendo el número correspondiente en cada casilla blanca.
-
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
 Preescolar | Primaria y secundaria | Terciaria | Educación no formal
@@ -564,6 +559,8 @@ Para docentes de otras asignaturas | 1 | 0 | 0 | 1
 Desarrollo profesional continuo | 1 | 1 | 1 | 1
 Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 1 | 1 | 0 | 1
 Para docentes de otras asignaturas | 1 | 1 | 0 | 1
+
+#### *C3.  Por favor indique sobre qué temas de la ECM y la EDS existe formación inicial o formación continua dirigida a docentes, formadores y educadores en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
@@ -584,12 +581,6 @@ Preescolar | Primaria y secundaria | Terciaria | Educación no formal
 
 #### *C4.  Por favor indique si las y los docentes, formadores y educadores reciben formación para enseñar las siguientes dimensiones del aprendizaje de la ECM y la EDS. Introduzca el número apropiado en cada casilla blanca.
 
-#### *C5.  Por  favor  indique  si  los  docentes,  formadores  y  educadores  reciben  formación  para utilizar los siguientes enfoques para la enseñanza de la ECM y la EDS en los niveles primario y secundario, introduciendo el número correspondiente en cada casilla blanca.
-
-### Evaluación de las y los estudiantes (párrafos 4 y 5 de la Recomendación de 1974)
-
-#### D1a.  Por  favor  describa  de  qué  manera  la  ECM  y  la  EDS  se  tienen  en  cuenta  en  las evaluaciones y exámenes de las y los estudiantes. Indique si se evalúa a los educandos únicamente por sus conocimientos y habilidades relacionados con los temas del examen o también por sus valores, actitudes o comportamientos.
-
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
 Preescolar | Primaria y secundaria | Terciaria | Educación no formal
@@ -598,6 +589,8 @@ Conocimientos | 1 | 1 | 0 | 1
 Habilidades | 1 | 1 | 1 | 1
 Valores | 1 | 1 | 1 | 1
 Actitudes y comportamientos | 1 | 1 | 1 | 1
+
+#### *C5.  Por favor indique si los docentes, formadores y educadores reciben formación para utilizar los siguientes enfoques para la enseñanza de la ECM y la EDS en los niveles primario y secundario, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
@@ -608,6 +601,10 @@ Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asi
 Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 1
 Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de aprendizaje de la escuela, así como en las experiencias de aprendizaje en la comunidad y la vida fuera de la escuela) | 1
 
+### D. Evaluación de las y los estudiantes (párrafos 4 y 5 de la Recomendación de 1974)
+
+#### D1a.  Por favor describa de qué manera la ECM y la EDS se tienen en cuenta en las evaluaciones y exámenes de las y los estudiantes. Indique si se evalúa a los educandos únicamente por sus conocimientos y habilidades relacionados con los temas del examen o también por sus valores, actitudes o comportamientos.
+
 Colombia evalúa las competencias ciudadanas a través de las pruebas Saber en los grados 3, 5, 9 y 11. Dicha prueba retoma los tres grupos de competencias: i) Convivencia y paz, ii) Participación y responsabilidad democrática, iii) Pluralidad, identidad y valoración de las diferencias.
 
 La prueba evalúa el pensamiento ciudadano que abarca además de la institucionalidad política, las problemáticas sociales actuales, enfatizando en el conocimiento y comprensión de la realidad social y el ejercicio de la ciudadanía. En cuanto a las acciones evalúa el rechazo o la aceptación de una determinada situación y actitudes ciudadanas en como las personas actúan en sus relaciones con los demás, con el entorno y con la sociedad.
@@ -617,8 +614,6 @@ La prueba evalúa el pensamiento ciudadano que abarca además de la instituciona
 [[START OF PAGE 22]]
 
 #### *D2.  Por favor indique si los temas de la ECM y la EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
-
-#### *D3.  Por favor indique qué dimensiones del aprendizaje de la ECM y EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
@@ -635,6 +630,8 @@ Preescolar 1 | Primaria y secundaria | Terciaria | Educación no formal
 
 > 1. Colombia no evalúa en preescolar por eso el =0
 
+#### *D3.  Por favor indique qué dimensiones del aprendizaje de la ECM y EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
+
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
 Preescolar | Primaria y secundaria | Terciaria | Educación no formal
@@ -648,7 +645,7 @@ Actitudes y comportamientos | 0 | 1 | 1 | 0
 
 [[START OF PAGE 23]]
 
-### Transversalización de la ECM y la EDS en las leyes y políticas, los planes de estudios, la formación de docentes y la evaluación de las y los estudiantes (párrafos 4 a 5, 7, 10 a 19 y 33 a 37 de la Recomendación de 1974)
+### E. Transversalización de la ECM y la EDS en las leyes y políticas, los planes de estudios, la formación de docentes y la evaluación de las y los estudiantes (párrafos 4 a 5, 7, 10 a 19 y 33 a 37 de la Recomendación de 1974)
 
 #### *E1.  Sobre la base de sus respuestas a las preguntas de las cuatro secciones anteriores (leyes y políticas, planes de estudios, formación de docentes y evaluación de las y los estudiantes), indique por favor en qué medida la ECM y la EDS se transversalizan 5  en: a) las leyes y políticas de educación, b) los planes de estudios, c) la formación docente (incluida  la  formación  de  formadores  y  educadores)  y  d)  la  evaluación  de  las  y  los estudiantes en su país. Introduzca el número apropiado en cada casilla blanca.
 
@@ -660,9 +657,9 @@ La ECM y la EDS no están transversalizadas
 
 1 Parcialmente
 
-Algunos temas de la ECM y la EDS 6  están transversalizados . Seleccione esta opción si la ECM está transversalizada, pero no lo está la EDS (o viceversa).
+Algunos temas de la ECM y la EDS 6 están transversalizados. Seleccione esta opción si la ECM está transversalizada, pero no lo está la EDS (o viceversa).
 
-- 2 Ampliamente
+2 Ampliamente
 
 La mayoría de los temas de la ECM y la EDS están transversalizados.
 
@@ -715,11 +712,11 @@ Actualmente, 4.470 sedes educativas en 952 municipios de todos los departamentos
 
 [[START OF PAGE 25]]
 
-### Educación de adultos (párrafo 30 de la Recomendación de 1974)
+### G. Educación de adultos (párrafo 30 de la Recomendación de 1974)
 
 #### G1. Por favor describa las principales iniciativas que se hayan emprendido para promover la ECM y la EDS en la educación para adultos y en otras formas de educación no formal, como la educación de los jóvenes, la enseñanza extraescolar, etc. Describa brevemente los  resultados  y  el  impacto  de  esas  iniciativas  y  proporcione  ejemplos  de  buenas prácticas.
 
-### Investigación y cooperación internacional (párrafos 41 a 45 de la Recomendación de 1974)
+### H. Investigación y cooperación internacional (párrafos 41 a 45 de la Recomendación de 1974)
 
 #### H1. Por favor describa qué tipo de investigación o experimentación se ha llevado a cabo para mejorar la implementación de la ECM y la EDS. Describa brevemente la forma en que  los  resultados  de  esas  actividades  han  influido  en  las  políticas  educativas,  los planes de estudios y las prácticas de enseñanza.
 
@@ -746,7 +743,7 @@ Otras actividades (especifique cuáles): | 0 | 0 | 0 | 0
 
 ### I.2. Proporcione cualquier otra información o aclaración pertinente sobre la aplicación de la Recomendación de 1974 o la transversalización de la ECM y la EDS en el sistema educativo de su país.
 
-- Es de considerar el artículo 77 de la Ley 115 de 1994 «Por la cual se expide la Ley General de Educación» , sobre la autonomía escolar, el cual establece:
+1. Es de considerar el artículo 77 de la Ley 115 de 1994 «Por la cual se expide la Ley General de Educación», sobre la autonomía escolar, el cual establece:
 
 « ARTÍCULO 77. AUTONOMÍA ESCOLAR. Dentro de los límites fijados por la presente ley y  el  proyecto  educativo  institucional,  las  instituciones  de  educación  formal  gozan  de autonomía para organizar las áreas fundamentales de conocimientos definidas para cada nivel, introducir asignaturas optativas dentro de las áreas establecidas en la ley, adaptar algunas  áreas  a  las  necesidades  y  características  regionales,  adoptar  métodos  de enseñanza  y  organizar  actividades  formativas,  culturales  y  deportivas,  dentro  de  los lineamientos que establezca el Ministerio de Educación Nacional.» (Subrayado fuera de texto).
 
@@ -754,27 +751,27 @@ En atención a lo expuesto, los establecimientos educativos tienen la facultad p
 
 Conforme a ello, el artículo 23 de la misma Ley , establece un marco de distribución de las áreas  obligatorias  y  fundamentales  que  se  deben  impartir  en  los  establecimientos educativos.  Éstas  comprenden  un  mínimo  del  80%  del  plan  de  estudios,  las  cuales  se estructuran de la siguiente manera:
 
-- Ciencias naturales y educación ambiental.
+1. Ciencias naturales y educación ambiental.
 
-- Ciencias sociales, historia, geografía, constitución política y democracia.
+2. Ciencias sociales, historia, geografía, constitución política y democracia.
 
-- Educación ética y en valores humanos.
+3. Educación ética y en valores humanos.
 
-- Educación física, recreación y deportes.
+4. Educación física, recreación y deportes.
 
-- Educación religiosa.
+5. Educación religiosa.
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
-- Humanidades, lengua castellana e idiomas extranjeros.
+6. Humanidades, lengua castellana e idiomas extranjeros.
 
-- Matemáticas.
+7. Matemáticas.
 
-- Tecnología e informática.
+8. Tecnología e informática.
 
-- 9 . Educación artística.
+9. Educación artística.
 
 En  ese  entendido,  el  20%  restante  de  las  horas  de  estudio  que  no  comprendan  las asignaturas  antes  mencionadas,  se  encuentran  definidas  en  el  Proyecto  Educativo Institucional -PEI-. Según el artículo 6° ibidem , el PEI es diseñado, ejecutado y evaluado por  la  comunidad  educativa  esencialmente  para  que  responda  al  contexto  y  a  las necesidades que tienen las instituciones educativas y la comunidad en general. Lo anterior porque lo que se requiere para una región o zona no es necesariamente lo mismo que necesita otra.
 
