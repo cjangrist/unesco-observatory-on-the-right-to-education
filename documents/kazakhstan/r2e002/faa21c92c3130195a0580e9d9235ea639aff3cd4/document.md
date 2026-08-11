@@ -30,7 +30,7 @@ Tasks | Improvement of regulatory framework for operation of national model of e
 ensuring balance of state, public and personal interests in the system of multilevel continuous education.
 --- | ---
 Required resources and sources of funding | Amount of additional state budget spending required for implementation of the Program will make 152,977 million Tenge
-Expected results | Effective and optimal system of education administration; implementation of the principle 'education for everyone during whole lifetime'; high quality and competitive, performance-oriented education; accessibility and continuity of all levels of education; advance development of education as relative to other social areas and economic sectors; positive public opinion about high priority of education sphere as an essential condition of social-economic progress in all fields of public development; effective system of scientific and training-methodological support to all levels of education; formation of professional competent personality, competitive specialist able to solve professional tasks independently and creatively, realize personal and public importance of professional activities, and take responsibility for its results; creation of single educational information environment of educational system; establishment of system of statistic indicators of education, and adequate international statistical standards; establishment and maintenance of system for monitoring and forecasting of educational system development; increase of government support and improvement of labor incentive mechanisms for teachers; social partnership in vocational training of staff; facilitation of scientific and innovation activities in the field of
+Expected results | Effective and optimal system of education administration; implementation of the principle 'education for everyone during whole lifetime'; high quality and competitive, performance-oriented education; accessibility and continuity of all levels of education; advance development of education as relative to other social areas and economic sectors; positive public opinion about high priority of education sphere as an essential condition of social-economic progress in all fields of public development; effective system of scientific and training-methodological support to all levels of education; formation of professional competent personality, competitive specialist able to solve professional tasks independently and creatively, realize personal and public importance of professional activities, and take responsibility for its results; creation of single educational information environment of educational system; establishment of system of statistic indicators of education, and adequate international statistical standards; establishment and maintenance of system for monitoring and forecasting of educational system development; increase of government support and improvement of labor incentive mechanisms for teachers; social partnership in vocational training of staff; facilitation of scientific and innovation activities in the field of education.
 Implementation period | 2005 - 2010
 
 ## Introduction
@@ -157,7 +157,7 @@ pre-school
 
 Operating kindergartens have outdated and worn-out furniture, sports equipment, library fund, toys, books, which visual aids, decreased quality of services.
 
-In  8,260  operating  general  schools  with  over  three  billion  schoolchildren content of education remains factual, and is not oriented at preparing graduates for competent,  responsible, and  creative participation in the life of society. Sate education standards with subject-based approach are outdated.  School training does not  provide  pupils  with  distinct  motivation  in  choice  of  life  path,  interests  and perspectives. Only 30% of senior pupils consciously choose occupation, corresponding with their abilities. Because of lack of competent approach, based on individuality  of  pupils,  in  education,  70%  of  prospective  graduates  have  low  selfesteem  and  aren't  prepared  for  independence  in  life.  Besides,  due  to  insufficient specialization at senior school level  graduates cannot find job.
+In 8,260 operating general schools with over three billion schoolchildren content of education remains factual, and is not oriented at preparing graduates for competent, responsible, and creative participation in the life of society. Sate education standards with subject-based approach are outdated. School training does not provide pupils with distinct motivation in choice of life path, interests and perspectives. Only 30% of senior pupils consciously choose occupation, corresponding with their abilities. Because of lack of competent approach, based on individuality of pupils, in education, 70% of prospective graduates have low self-esteem and aren't prepared for independence in life. Besides, due to insufficient specialization at senior school level graduates cannot find job.
 
 Results  of  complex  testing  show  low  level  of  entrants'  knowledge.  Share  of entrants who received unsatisfactory marks in 2001 is 30%,  in 2002 and 2003 it was
 
@@ -389,7 +389,7 @@ Diagram 5
 
 9
 
-Number of students in prim ary and secondary
+Number of students in primary and secondary
 
 education institutions
 
@@ -443,7 +443,7 @@ Vocational schools (lyceums)            Colleges
 
 year
 
-Training  of  technical  and  service  specialists  has  undergone  redistribution  in economy sectors: there is increase in training of specialists for service sector and nonproduction sector, while demand in technical, construction, and agricultural specialties remains unsatisfied (Diagram 6).
+Training of technical and service specialists has undergone redistribution in economy sectors: there is increase in training of specialists for service sector and non-production sector, while demand in technical, construction, and agricultural specialties remains unsatisfied (Diagram 6).
 
 Diagram 6
 
@@ -769,7 +769,9 @@ Almaty city
 
 Technical  and  vocational  education  programs  do  not  meet  principles  set  by Recommendations on technical and vocational education  (UNESCO, 2001), criteria of International Standard Classification of Education programs (ISCED, 2003).
 
-Market  of  higher  education  services  is  characterized  by  growing  number  of higher  educational  institutions  of  various  forms  of  ownership  and  departmental affiliation, increase in number of students and government educational procurement (Table 1).
+Market of higher education services is characterized by growing number of higher educational institutions of various forms of ownership and departmental affiliation, increase in number of students and government educational procurement (Table 1).
+
+Table 1
 
 School year | Number of higher educational institutions | Number of students | Government procurement (apart from those who continue studying)
 --- | --- | --- | ---
@@ -777,8 +779,6 @@ School year | Number of higher educational institutions | Number of students | G
 2001/2002 | 171 | 514738 | 25265
 2002/2003 | 161 | 590982 | 25465
 2003/2004 | 174 | 656561 | 26465
-
-Table 1
 
 A new generation of state standards for specialties, unifying curricula of junior courses  has  been  established.  A  new  model  of  student  enrollments  has  been introduced, allowing admitting the most talented youth. Higher educational institutions  have  been  given  some  academic  freedom  to  take  into  account  labor market  demand;  scientific  research  activities  have  become  more  active  and  are applied in training; contacts are being established with leading foreign universities.
 
@@ -820,13 +820,15 @@ Adoption of the laws 'On  Education', 'On  Science', 'On  Innovation Activities'
 
 Despite  positive  results,  training  and  certification  of  scientific  staff  does  not fully correspond with the speed of changes in social-economic conditions and does not  facilitate  development  of  scientific  research  in  the  most  breakthrough  areas, defied by the Strategy 'Kazakhstan - 2030'.
 
-Applied research of Kazakshtani scientists is insufficiently oriented at scientific  support  to  basic  industry  sectors:  biotechnology,  information  and  space technologies, advanced processing of hydrocarbon material, petrochemistry, nuclear energy, electronics, communications, and new materials creation.
+Applied research of Kazakshtani scientists is insufficiently oriented at scientific support to basic industry sectors: biotechnology, information and space
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
 13
+
+technologies, advanced processing of hydrocarbon material, petrochemistry, nuclear energy, electronics, communications, and new materials creation.
 
 The  country  has  over  250  research  organizations  of  various  departmemtal affiliation  and  forms  of  ownership,  including  5  national  scientific  centers,  and scientific  capacity  in  55  state  universities  and  112  private  universities,  but  the condition of this sector does not correspond with contemporary tasks. Out of 3,000 doctors and 20,000 candidates of science, only 950 (32%) of doctors and 2,800 (14%) of candidates of science carry out scientific research.
 
@@ -842,13 +844,15 @@ At  the  same  local  educational  science  does  not  sufficiently  study  the 
 
 Most graduating teachers are not willing to work in schools, especially in rural and  ungraded  schools.  At  present  every  fourth  students  studies  teaching  specialty (167,733 persons), but there is a big shortage of qualified teachers, including in rural area  - over 2,000, in cities - over 1,500.
 
-Market economy requires a teacher of new type, having all-round education, broad outlook,  professionally prepared for work in chosen specialty,   and being a good  manager.  He  should  be  multilingual,  know  leading  informational  education technologies and understand students' psychology well.
+Market economy requires a teacher of new type, having all-round education, broad outlook, professionally prepared for work in chosen specialty, and being a
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
 14
+
+good manager. He should be multilingual, know leading informational education technologies and understand students' psychology well.
 
 The country does not have a unified system of further training and retraining of staff.  There  are  relevant  entities  within  some  agencies  and  ministries  (Ministry  of Health, Ministry of Education and Science),  supported primarily by state budget. In sectoral agencies and companies  this work  is done occasionally, and every organization solves this issue independently, while further training and retraining are the most effective and low-costly form of providing staff innovation enterprises, and SMEs.
 
@@ -1104,13 +1108,15 @@ There are also problems in collection, processing and output data in educational
 
 There  are  no  relevant  programs  of  statistical  reporting  through  levels  of education. Impact of information technologies in educational statistics on mechanisms of management decision making has been insufficient, because information technologies has become  providers  of  data  rather than analytical information.
 
-Improvement  of  economic  situation  in  the  country  at  the  beginning  of  new century   has generally had positive effect on the system of education: construction of new  schools  re-started,  network  of  schools  with  Kazakh  and  natives  languages  of instruction is expanding, number of innovational education organizations is increasing;  kindergartens  are  re-established;  funs  are  allocated  for  strengthening  of material-technical bases of schools and universities, industry of school education is revived;  new  educational  programs,  printed  and  electronic  text-books,  and  training methodological manuals are used. Availability of computer equipment in the country is one of the best in CIS, according to UNESCO. Pilot programs of distant education are  made.  System  of  independent  external  assessment  of  learning  achievement  is being introduced: single national testing (SNT), and interim certification of students after  2  (3)  course  (ICS).    However  these  measures  aren't  sufficient  for  radical changes in  educational  system's  condition  and  elimination  of  the  system's  lagging behind  the  needs  of  market  economy  and  open  civil  society  and  criteria  of  equal integration in global space.
+Improvement of economic situation in the country at the beginning of new century has generally had positive effect on the system of education: construction of new schools re-started, network of schools with Kazakh and natives languages of instruction is expanding, number of innovational education organizations is increasing; kindergartens are re-established; funs are allocated for strengthening of material-technical bases of schools and universities, industry of school education is revived; new educational programs, printed and electronic text-books, and training methodological manuals are used. Availability of computer equipment in the country is one of the best in CIS, according to UNESCO. Pilot programs of distant education are made. System of independent external assessment of learning achievement is being introduced: single national testing (SNT), and interim certification of students after 2 (3) course (ICS). However these measures aren't sufficient for radical
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
 17
+
+changes in educational system's condition and elimination of the system's lagging behind the needs of market economy and open civil society and criteria of equal integration in global space.
 
 Current  situation  in  the  field  of  education  requires  measures  for  overcoming negative  phenomena,  implementing  cardinal  organizational  and  structural  reforms, modernization  of  content  of  education  and  improvement  of  quality  of  education, training of specialists in accordance with social-economic and political conditions of the country's development and progressive experience of highly developed countries.
 
@@ -1160,7 +1166,7 @@ At each level of education, general (basic and supplementary) and vocational (ba
 
 Preschool  education  is the first level of  continuous education, creating developing  environment  for  full  value  formation  of  child's  personality,  taking  into account age and individual peculiarities.
 
-Children's right for pre-school education is exercised through network   of preschool  organizations,  orphanages,  pre-school  groups  in  kindergartens  and  boarding schools for orphans and children without parental care, pre-school groups in out-ofschools organizations and complexes 'school-kindergarten'.
+Children's right for pre-school education is exercised through network of pre-school organizations, orphanages, pre-school groups in kindergartens and boarding schools for orphans and children without parental care, pre-school groups in out-of-schools organizations and complexes 'school-kindergarten'.
 
 Organized  education  of  children  with  special  needs  is  carried  out  in  special pre-school organizations and groups and complexes 'school-kindergarten'.
 
@@ -1170,7 +1176,7 @@ Tasks:
 
 Early  coverage  of  children  by  pre-school  organizations  irrespective  of  the social status and place of residence;
 
-Improvement  of  management  structure  and  methodological  support  of  preschool organizations;
+Improvement of management structure and methodological support of pre-school organizations;
 
 Creation of conditions for child's all-round development, acquiring of personal culture fundamentals, corresponding with national spiritual values;
 
@@ -1184,7 +1190,7 @@ Development of system of inclusive education of disabled children;
 
 Ensuring interaction between kindergartens and families to carry out full value development and education of children, protect  their rights, and improve legal  and psychological-educational culture if parents;
 
-Establishment  of  the  system  for  development,  testing,  and  psychologicaleducational  examination  of  pre-school  training-methodological  manuals,  toys,  and games equipment.
+Establishment of the system for development, testing, and psychological-educational examination of pre-school training-methodological manuals, toys, and games equipment.
 
 To have a more complete coverage of children with pre-school education there operate pre-school organizations of various forms of ownership: government-owned and private. With view to support working mothers, large industrial enterprises, farms and national companies shall open kindergartens.
 
@@ -1256,13 +1262,15 @@ Following completion of II stage, students' abilities and level of training will
 
 III stage - secondary general education, specialized education with duration of 2 years, 11-12 grades.
 
-Principally new approach to building III stage of secondary education  consists in  the  following:  teaching  will  be  carried  out  on  the  basis  of  differentiation, integration, and professionalism of content of education. Priority focus of senior level activities  will  be  introduction  of  specialized  study  of  social-humanitarian,  natural science, technical and other directions to fulfill advanced pre-vocational training of students, taking into account peculiarities of their individual educational tracks.
+Principally new approach to building III stage of secondary education consists in the following: teaching will be carried out on the basis of differentiation, integration, and professionalism of content of education. Priority focus of senior level
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
 21
+
+activities will be introduction of specialized study of social-humanitarian, natural science, technical and other directions to fulfill advanced pre-vocational training of students, taking into account peculiarities of their individual educational tracks.
 
 Students of III stage will be given an opportunity to choose forms and methods of  instruction,  individual  educational  programs  with  special  emphasis  on  creative activity  and  creation  of  conditions  for  development  of  their  individual  abilities. Transition  will  be  made  to  move  away  from  focus  on  knowledge  acquisition  to acquiring systemized ideas about the world, society, human being, and striving for their independent expanding and advancing.
 
@@ -1296,7 +1304,7 @@ Expansion  of  the  network  of  special  correctional  organizations  for  disa
 
 Improvement  of  conditions  for  activities  of special  correctional organizations aimed at development of  personality oriented child;
 
-Development systems of inclusive education of disabled children; development, testing, and psychological-educational examination of trainingmethodological manuals, and special equipment.
+Development systems of inclusive education of disabled children; development, testing, and psychological-educational examination of training-methodological manuals, and special equipment.
 
 Moving focus of correctional developing education to early age will allow for maximum effectiveness of the set of correctional activities, resulting in opportunities for disabled children to study with other children of the same age in ordinary general schools.
 
@@ -1344,7 +1352,7 @@ Content  of  educational  programs  of  this  level  provides  for  study  of  g
 
 Educational  programs  on  cultural  and  arts  specialties  are  implemented  with consideration of the principle of early professionalism and peculiarities of content of vocational programs.
 
-Programs of technical and vocational educational for persons, having secondary  general  education, provides for learning of general professional, е economic, and special subjects,  determining future occupation in chosen specialty. Duration  of  training  depends  on  complexity  of  vocational  programs  and  level  of conferred qualification.
+Programs of technical and vocational educational for persons, having secondary general education, provides for learning of general professional, economic, and special subjects, determining future occupation in chosen specialty. Duration of training depends on complexity of vocational programs and level of conferred qualification.
 
 Ensuring high quality training of qualified staff and specialists of technical and service labor will stimulate development industry, construction, SMEs, servicem and economy as a whole.
 
@@ -1430,7 +1438,7 @@ Transfer master training to post-graduate level;
 
 Development and introduction of programs for PhD training;
 
-Development  of  mechanism  for  introduction  of  model  of  training  scientificteaching staff at master level in universities and scientific organizations;
+Development of mechanism for introduction of model of training scientific-teaching staff at master level in universities and scientific organizations;
 
 Introduction of integrated bachelor-master-doctor three-level training, based on accumulating credit technology of education;
 
@@ -1484,7 +1492,7 @@ Increase in funding for further training and retraining of staff at the expense 
 
 27
 
-Development  and  strengthening  of  material-technical, scientific, trainingmethodological, and informational bases of further training and retraining of staff;
+Development  and  strengthening  of  material-technical, scientific, training-methodological, and informational bases of further training and retraining of staff;
 
 Intensification    of  international  cooperation  in  the  domain  of  further  training and retraining of staff;
 
@@ -1548,19 +1556,19 @@ Tasks :
 
 Creation  of  information  infrastructure  of  the  system  of  open  education, including:
 
-- Development of legislative framework;
+1) Development of legislative framework;
 
-- Creation of sectoral information system;
+2) Creation of sectoral information system;
 
-- Development of corporate computer network of educational system  basing on single transport environment of electronic Government of RK;
+3) Development of corporate computer network of educational system  basing on single transport environment of electronic Government of RK;
 
-- Equipping  educational  organizations  with  modern  computer  machines, software and telecommunications;
+4) Equipping  educational  organizations  with  modern  computer  machines, software and telecommunications;
 
-- Ensuring educational organizations' access to  global information resources, first of all to Internet;
+5) Ensuring educational organizations' access to  global information resources, first of all to Internet;
 
 Use of ICT in educational process, including:
 
-- development  and  introduction  of  electronic  text-books    establishment  of educational information resource centers  in Kazakhstan regions;
+1) development  and  introduction  of  electronic  text-books    establishment  of educational information resource centers  in Kazakhstan regions;
 
 [[END OF PAGE 28]]
 
@@ -1616,7 +1624,7 @@ Transform  content  of  education  from  knowledge-focused  to  competent  and p
 
 Define  mechanism  for  development  and  publishing  of  training  literature  for educational organizations of all levels, create opportunity for educational organizations to choose training literature;
 
-Bring material-technical base, subject-space environment and trainingmethodological  support of educational organizations in compliance  with    the requirements of educational process;
+Bring material-technical base, subject-space environment and training-methodological  support of educational organizations in compliance  with    the requirements of educational process;
 
 Strengthen language, information, environmental, economic and legal training of students;
 
@@ -1684,7 +1692,7 @@ Study  of  secondary  educational  programs  will  result  in  Single  National 
 
 Improvements will be made in regulatory and social legal basis,  technologies, psychological,  medical,  and  educational  support  in  identification,  education  and development  of    talented  children.  Management  system  will  be  developed  for formation of intellectual  potential, basing on continuity  of  different  components of education.
 
-Program  of  complex  support  to  talented  children  and  youth  will  be  further implemented;  part-time  schools  for  talented  children  will  open  and  operate  on  the basis of leading universities in the country; cooperation with international and nongovernmental organizations will develop.
+Program  of  complex  support  to  talented  children  and  youth  will  be  further implemented;  part-time  schools  for  talented  children  will  open  and  operate  on  the basis of leading universities in the country; cooperation with international and non-governmental organizations will develop.
 
 With view to improve and modernize system of special education it's proposed to:
 
@@ -1732,7 +1740,7 @@ Create  mechanism  for  encouraging  private  sector  investments  in  the  fiel
 
 Develop  and  introduce  text-books  and  training-methodological  complexes  of new generation;
 
-Carry  out  informatization  of  organizations  of  technical  vocational  and  postsecondary  education;
+Carry  out  informatization  of  organizations  of  technical  vocational  and  post-secondary  education;
 
 [[END OF PAGE 32]]
 
@@ -1796,7 +1804,7 @@ Educational  master  programs  provide  for  scientific-methodological  emphasis
 
 Master  graduates  will  be  granted  academic  degree  of  Master.  Masters  may continue education at doctoral level.
 
-Doctor  training  is  final  educational  level  of  training  scientific  an  scientificteaching staff of higher qualification.
+Doctor  training  is  final  educational  level  of  training  scientific  an  scientific-teaching staff of higher qualification.
 
 All current forms of thesis work will be transformed in PhD.
 
@@ -1838,7 +1846,7 @@ Create  mechanisms  of  immediate  response  to  specific  needs  of  society  i
 
 Increase  funding for  system  of    further  training  and  retraining  of  staff  at  the expense of government and other sources;
 
-Develop  and  strengthen  material-technical,  information,  scientific,  trainingmethodological bases of  system of  further training and retraining of staff;
+Develop  and  strengthen  material-technical,  information,  scientific,  training-methodological bases of  system of  further training and retraining of staff;
 
 [[END OF PAGE 34]]
 
@@ -1886,7 +1894,7 @@ External  assessment  of  educational  organizations  provides  for  procedures 
 
 36
 
-Internal assessment shall be done in the form of self-appraisal (selfcertification), current control of school results, assessment of educational achievements of students carried out in educational organizations.
+Internal assessment shall be done in the form of self-appraisal (self-certification), current control of school results, assessment of educational achievements of students carried out in educational organizations.
 
 Procedures of licensing, certification, and accreditation of educational organizations will be carried out in accordance with legislative acts and regulations of Kazakhstan.
 
@@ -1916,13 +1924,14 @@ RCACQ  will  provide  organizational-methodological  support  to  independent as
 
 To  create  conditions  for  transitions  to  new  model  of  Kazakhstani  education first  of  all  it's  necessary  to  strengthen  economic  basis.  Total  amount  of  additional expenditures requires for implementation of the Program will make  152,977 million Tenge as per base prices of 2004 (Table 2).
 
-2005 | 2006 | 2007 | 2008 | 2009 | 2010 | Всего
---- | --- | --- | --- | --- | --- | --- | ---
-National budget | 3 747,6 | 4 826,8 | 6 431,6
-Local budget | 3 385,6 | 3 718,4 | 4 067,0
-State budget | 7 133,2 | 8 545,2 | 10 498,6 | 41 900,0 | 41 200,0 | 43 700,0 | 152 977,0
+Table 2
+(million Tenge)
 
-Table 2 (million Tenge)
+|  | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | Всего |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| National budget | 3 747,6 | 4 826,8 | 6 431,6 |  |  |  |  |
+| Local budget | 3 385,6 | 3 718,4 | 4 067,0 |  |  |  |  |
+| State budget | 7 133,2 | 8 545,2 | 10 498,6 | 41 900,0 | 41 200,0 | 43 700,0 | 152 977,0 |
 
 Amounts  of  funds  allocated  for    implementation  of  the  Program will  be adjusted during planning of national and local budgets for relevant fiscal year.
 
@@ -1974,23 +1983,23 @@ Regulatory framework and scientific-methodological base will be developed in the
 
 Regulations will be developed for  restructuring rural schools into open social institutes and multifunctional education organizations in order to establish complexes 'school - kindergarten' in them .
 
-With view to achieve new modern quality of pre-school education, corresponding  to  current  and  prospective  needs  of  society,  Republican  ScientificPractical  Center  'Preschool  Childhood  (preparatory  school)'  will  be  established. Task of  the  Center will  be to  develop  and  implement inter-subject  and  inter-sector strategies and approaches to early childhood, carry out research, review performance of  pre-school  education  system,  prepare  state  standards  of  pre-school  education, encourage and activate innovation works, carry out psychological-teaching examination of training-methodological manuals, toys, and game equipment.
+With view to achieve new modern quality of pre-school education, corresponding  to  current  and  prospective  needs  of  society,  Republican  Scientific-Practical  Center  'Preschool  Childhood  (preparatory  school)'  will  be  established. Task of  the  Center will  be to  develop  and  implement inter-subject  and  inter-sector strategies and approaches to early childhood, carry out research, review performance of  pre-school  education  system,  prepare  state  standards  of  pre-school  education, encourage and activate innovation works, carry out psychological-teaching examination of training-methodological manuals, toys, and game equipment.
 
-In  secondary  education  improvements  will  be  made  in  basic  and  specialized content  of  general  schools;  pilot  curricula,  programs,  text  books  and  trainingmethodological complexes will be developed and tested for benefits of transitions to 12-year secondary school.
+In  secondary  education  improvements  will  be  made  in  basic  and  specialized content  of  general  schools;  pilot  curricula,  programs,  text  books  and  training-methodological complexes will be developed and tested for benefits of transitions to 12-year secondary school.
 
 At this stage the task creating performance-oriented secondary education will be solved, and following measures will be taken for this purpose:
 
-- development of educational goals system in the form of expected results, having the following three levels:
+1) development of educational goals system in the form of expected results, having the following three levels:
 
-- а ) national level: striving and ability for self-development, tri-lingual capacity, Eurasian multicultural capacity, sociability, technocratness;
+а) national level: striving and ability for self-development, tri-lingual capacity, Eurasian multicultural capacity, sociability, technocratness;
 
-- б ) level of broad educational areas where, national goals must be specified in the form of key competencies;
+б) level of broad educational areas where, national goals must be specified in the form of key competencies;
 
-- в ) level of educational subjects;
+в) level of educational subjects;
 
-- establishment of system of external progress and final evaluation.
+2) establishment of system of external progress and final evaluation.
 
-- changing  principles  of  organizing  instruction  and  role  of  student  -from passive  'recipient'  of  knowledge  and  skills  to  actively  cognizing  participant  of educational process.
+3) changing  principles  of  organizing  instruction  and  role  of  student  -from passive  'recipient'  of  knowledge  and  skills  to  actively  cognizing  participant  of educational process.
 
 4)  establishment  of  system  of  all-community  participation  in  the  process  of discussions of expected results of  school education and ways of their achievement, basing on monitoring data.
 
@@ -2088,13 +2097,15 @@ Establish  base  of  normative  standardization  documents  in  the  field  of  
 
 Improvement of educational statistics shall facilitate creation of new system of monitoring  of  education  in  Kazakhstan,  based  on  statistical  data  and  information about quality of education.
 
-NSEQA will allow assessing quality of knowledge  through complex exams, developing national system of monitoring quality of education, establishing complex systems of ongoing evaluation of education quality, their components being learning achievements.
+NSEQA will allow assessing quality of knowledge  through complex exams, developing national system of monitoring quality of education, establishing complex
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
 
 41
+
+systems of ongoing evaluation of education quality, their components being learning achievements.
 
 Unbiased tools of external and internal  assessment of education quality will be developed, periodical rating of educational organization will be introduced.
 
@@ -2124,13 +2135,15 @@ Equal  opportunities  will  be  created  for  disabled  children  with  regard  
 
 Through introduction of quality management systems in universities, institutional assessment and accreditation of vocational educational institutions at the level of leading foreign accreditation agencies, implementation of key principles of Bologna declaration and compliance with requirements of WTO will be secured.
 
-Basing on monitoring data, National report on status of education, and results of rating of educational organizations, there will be established system of informing public and economic entities about demand for various professions, availability and quality  of  educational  services  in  different    educational  organizations,  region  and country. Also on this basis education development strategy will be determined.
+Basing on monitoring data, National report on status of education, and results of rating of educational organizations, there will be established system of informing public and economic entities about demand for various professions, availability and
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
 42
+
+quality of educational services in different educational organizations, region and country. Also on this basis education development strategy will be determined.
 
 There will be organized system of open education, including interactive distant technologies of education for educational organizations of various levels, and systems of retraining and further training of staff.
 
