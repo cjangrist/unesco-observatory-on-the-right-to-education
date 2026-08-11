@@ -1,10 +1,8 @@
 [[START OF PAGE 1]]
 
-# National Policy on In School Education
-
 Last revision: 23 March, 2012
 
-# Information and Communication Technology (ICT)
+# National Policy on Information and Communication Technology (ICT) In School Education
 
 Department of School Education and Literacy Ministry of Human Resource Development Government of India 2012
 
@@ -14,11 +12,55 @@ Department of School Education and Literacy Ministry of Human Resource Developme
 
 ## Contents
 
-1. Preamble 2. Vision, Mission and Policy Goals 3. What is ICT? 4. ICT in School Education 4.1      Challenges and issues 4.2      ICT Literacy and Competency enhancement 4.3      ICT enabled teaching learning processes 4.4      Elective Courses at Higher Secondary Level 4.5 ICT for Skill Development (Vocational and Job oriented areas of general Education) 4.6      ICT for Children with Special Needs 4.7      ICT for Open and Distance Learning 5. ICT for School Management 5.1      Automated and ICT managed school processes 5.2      School Management Information System 6. ICT Infrastructure 6.1      Hardware 6.2      Network and Connectivity 6.3      Software 6.4      Enabling Infrastructure 7. Digital Resources 7.1      Digital Content and Resources 7.2      Development of content 7.3      Sharing and Dissemination of Digital Content 7.4      Role of School Library 8. Capacity Building 8.1      Capacity building of In-Service Teachers 8.2      Capacity building through Pre service Teacher Education 8.3      Capacity building of School Heads 8.4      Capacity building of State / District Education Department Personnel 9. Implementing and Managing the Policy 9.1      Programme Monitoring and Evaluation Group (PM & EG) 9.2      Inter-ministerial Group 9.3      National and State level Agencies 9.4      Role of the States 9.5      Programme of Action 9.6      Advisory Group 9.7      Norms, Standards and Procedures 9.8      Models for ICT Infrastructure 9.9      Regulatory Measures 9.10      Incentives 10. Financing and Sustainability 11. Monitoring and Evaluation 11.1      Monitoring 11.2      Evaluation 11.3      Sharing of Results and Findings
-
-- 11.4      Policy Review
-
 Page No.
+
+1. Preamble
+2. Vision, Mission and Policy Goals
+3. What is ICT?
+4. ICT in School Education
+4.1 Challenges and issues
+4.2 ICT Literacy and Competency enhancement
+4.3 ICT enabled teaching learning processes
+4.4 Elective Courses at Higher Secondary Level
+4.5 ICT for Skill Development
+(Vocational and Job oriented areas of general Education)
+4.6 ICT for Children with Special Needs
+4.7 ICT for Open and Distance Learning
+5. ICT for School Management
+5.1 Automated and ICT managed school processes
+5.2 School Management Information System
+6. ICT Infrastructure
+6.1 Hardware
+6.2 Network and Connectivity
+6.3 Software
+6.4 Enabling Infrastructure
+7. Digital Resources
+7.1 Digital Content and Resources
+7.2 Development of content
+7.3 Sharing and Dissemination of Digital Content
+7.4 Role of School Library
+8. Capacity Building
+8.1 Capacity building of In-Service Teachers
+8.2 Capacity building through Pre service Teacher Education
+8.3 Capacity building of School Heads
+8.4 Capacity building of State / District Education Department Personnel
+9. Implementing and Managing the Policy
+9.1 Programme Monitoring and Evaluation Group (PM & EG)
+9.2 Inter-ministerial Group
+9.3 National and State level Agencies
+9.4 Role of the States
+9.5 Programme of Action
+9.6 Advisory Group
+9.7 Norms, Standards and Procedures
+9.8 Models for ICT Infrastructure
+9.9 Regulatory Measures
+9.10 Incentives
+10. Financing and Sustainability
+11. Monitoring and Evaluation
+11.1 Monitoring
+11.2 Evaluation
+11.3 Sharing of Results and Findings
+11.4 Policy Review
 
 [[END OF PAGE 2]]
 
@@ -26,9 +68,9 @@ Page No.
 
 ## 1. Preamble
 
-The National Policy on Education 1986, as modified in 1992, stressed the need to employ educational technology to improve the quality of education. The policy statement led to two major  centrally  sponsored  schemes,  namely,  Educational  Technology  (ET ) and  Computer Literacy  and  Studies  in  Schools (CLASS ) paving  the  way  for  a  more  comprehensive centrally  sponsored  scheme -Information  and  Communication  Technology  @  Schools  in 2004.    Educational  technology  also  found  a  significant  place  in  another  scheme  on upgradation of science education.   The significant role  ICT can playin school education has also been highlighted in the National Curriculum Framework 2005 (NCF) 2005.
+The National Policy on Education 1986, as modified in 1992, stressed the need to employ educational technology to improve the quality of education. The policy statement led to two major centrally sponsored schemes, namely, Educational Technology (ET) and Computer Literacy and Studies in Schools (CLASS) paving the way for a more comprehensive centrally sponsored scheme – Information and Communication Technology @ Schools in 2004. Educational technology also found a significant place in another scheme on upgradation of science education. The significant role ICT can playin school education has also been highlighted in the National Curriculum Framework 2005 (NCF) 2005.
 
-Use  of  ICT  for  quality  improvement  also  figures  in  Government  of  India's  flagship programme on education, Sarva Shiksha Abhiyan (SSA) . Again, ICT has figured comprehensively in the norm of schooling recommended by the Central Advisory Board of Education (CABE), in its report on Universal Secondary Education , in 2005.
+Use of ICT for quality improvement also figures in Government of India's flagship programme on education, Sarva Shiksha Abhiyan (SSA). Again, ICT has figured comprehensively in the norm of schooling recommended by the Central Advisory Board of Education (CABE), in its report on Universal Secondary Education, in 2005.
 
 With the convergence of technologies, it has become imperative to take a comprehensive look  at  all  possible  information  and  communication  technologies  for  improving  school education  in  the  country.  The  comprehensive  choice  of  ICT  for  holistic  development  of education  can  be  built  only  on  a  sound  policy.  The  initiative  of ICT  Policy  in  School Education is  inspired  by  the  tremendous  potential  of  ICT  for  enhancing  outreach  and improving quality of education. This policy endeavours to provide guidelines to assist the States in optimizing the use of ICT in school education within a national policy framework.
 
@@ -36,7 +78,7 @@ With the convergence of technologies, it has become imperative to take a compreh
 
 ### Vision
 
-The ICT Policy in School Education aims at preparing youth to participate creatively in the establishment, sustenance and growth of a knowledge society leading to all round socioeconomic development of the nation and global competitiveness.
+The ICT Policy in School Education aims at preparing youth to participate creatively in the establishment, sustenance and growth of a knowledge society leading to all round socio-economic development of the nation and global competitiveness.
 
 ### Mission
 
@@ -100,15 +142,15 @@ The  challenge  of  developing  alternate  modes  of  education,  continuing  ed
 
 Information  and  Communication  Technologies  have  enabled  the  convergence  of  a  wide array of technology based and technology mediated resources for teaching learning. It has therefore become possible to employ ICT as an omnibus support system for education. The potential  of  ICT  to  respond  to  the  various  challenges  the  Indian  education  system  poses are:
 
-- ICT can be beneficially leveraged to disseminate information about and catalyze adaptation, adoption, translation and distribution of sparse educational resources distributed across various media and forms. This will help promote its widespread availability and extensive use.
+1. ICT can be beneficially leveraged to disseminate information about and catalyze adaptation, adoption, translation and distribution of sparse educational resources distributed across various media and forms. This will help promote its widespread availability and extensive use.
 
-- There is an urgent need to digitize and make available educational audio and video resources, which exist in different languages, media standards and formats.
+2. There is an urgent need to digitize and make available educational audio and video resources, which exist in different languages, media standards and formats.
 
-- Given the scarcity of print resources as well as web content in Indian languages, ICT can be very gainfully employed for digitizing and disseminating existing print resources like books, documents, handouts, charts and posters, which have been used extensively in the school system, in order to enhance its reach and use.
+3. Given the scarcity of print resources as well as web content in Indian languages, ICT can be very gainfully employed for digitizing and disseminating existing print resources like books, documents, handouts, charts and posters, which have been used extensively in the school system, in order to enhance its reach and use.
 
-- ICT can address teacher capacity building, ongoing teacher support and strengthen the school system's ability to manage and improve efficiencies, which have been difficult to address so far due to the size of the school system and the limited reach of conventional methods of training and support.
+4. ICT can address teacher capacity building, ongoing teacher support and strengthen the school system's ability to manage and improve efficiencies, which have been difficult to address so far due to the size of the school system and the limited reach of conventional methods of training and support.
 
-- Using computers and the Internet as mere information delivery devices grossly underutilizes its power and capabilities. There is an urgent need to develop and deploy a large variety of applications, software tools, media and interactive devices in order to promote creative, aesthetic, analytical and problem solving abilities and sensitivities in students and teachers.
+5. Using computers and the Internet as mere information delivery devices grossly underutilizes its power and capabilities. There is an urgent need to develop and deploy a large variety of applications, software tools, media and interactive devices in order to promote creative, aesthetic, analytical and problem solving abilities and sensitivities in students and teachers.
 
 ### 4.2 ICT Literacy and Competency Enhancement
 
@@ -156,7 +198,7 @@ As  each  stage  is  defined  by  competencies  to  be  achieved,  the  pace  is
 
 ### 4.3 ICT enabled teaching - learning processes
 
-- 4.3.1 ICT enabled teaching-learning encompasses a variety of techniques, tools, content and  resources  aimed  at  improving  the  quality  and  efficiency  of  the  teachinglearning process. Ranging from projecting media to support a lesson, to multimedia self-learning modules, to simulations to virtual learning environments, there are a variety of options available to the teacher to utilise various ICT tools for effective pedagogy.  Each  such  device  or  strategy  also  involves  changes  in  the  classroom environment, and its bearing on effectiveness. Availability of a wide range of such teaching-learning  materials  will  catalyse  transformation  of  classrooms  into  ICT Enabled classrooms.
+- 4.3.1 ICT enabled teaching-learning encompasses a variety of techniques, tools, content and resources aimed at improving the quality and efficiency of the teaching-learning process. Ranging from projecting media to support a lesson, to multimedia self-learning modules, to simulations to virtual learning environments, there are a variety of options available to the teacher to utilise various ICT tools for effective pedagogy. Each such device or strategy also involves changes in the classroom environment, and its bearing on effectiveness. Availability of a wide range of such teaching-learning materials will catalyse transformation of classrooms into ICT Enabled classrooms.
 
 - 4.3.2 Teachers  will  participate  in  selection  and  critical  evaluation  of  digital  content  and resources.  They  will  also  be  encouraged  to  develop  their  own  digital  resources, sharing them with colleagues through the digital repositories.
 
@@ -246,9 +288,9 @@ A  school  wide  local  area  network  enables  automation  of  a  variety  of  
 
 There will be two types of Infrastructure:
 
-- xrhombus Core ICT Infrastructure
+- Core ICT Infrastructure
 
-- xrhombus Enabling Infrastructure
+- Enabling Infrastructure
 
 ### 6.1 Hardware
 
@@ -372,7 +414,7 @@ Teachers and students will also be educated about alternate forms of licences li
 
 ### 8.2 Capacity building through Pre-service Teacher Education
 
-- 8.2.1 Teacher  educators  will  be  suitably  oriented  and  trained  to  use  ICT  in  their  preservice  teacher  training  programmes.  They  will  also  be  expected  to  enable  preservice teachers to be sensitised to and practice the use of ICT.
+- 8.2.1 Teacher educators will be suitably oriented and trained to use ICT in their pre-service teacher training programmes. They will also be expected to enable pre-service teachers to be sensitised to and practice the use of ICT.
 
 [[END OF PAGE 14]]
 
