@@ -13,18 +13,97 @@ ISBN 99936-754-0-7
 [[START OF PAGE 3]]
 
 ## Table of contents
+Article 1 ........................................................................................ 1
+Kingdom of Bhutan ..................................................................... 1
+Article 2 ........................................................................................ 2
+The Institution of Monarchy....................................................... 2
+Article 3 ........................................................................................ 9
+Spiritual Heritage ........................................................................ 9
+Article 4 ...................................................................................... 10
+Culture ........................................................................................ 10
+Article 5 ...................................................................................... 11
+Environment............................................................................... 11
+Article 6 ...................................................................................... 12
+Citizenship .................................................................................. 12
+Article 7 ...................................................................................... 13
+Fundamental Rights .................................................................. 13
+Article 8 ...................................................................................... 16
+Fundamental Duties .................................................................. 16
+Article 9 ...................................................................................... 18
+Principles of State Policy ........................................................... 18
+Article 10 .................................................................................... 21
+Parliament .................................................................................. 21
+Article 11 ..................................................................................... 25
+The National Council................................................................. 25
+Article 12 .................................................................................... 26
+The National Assembly .............................................................. 26
+Article 13 .................................................................................... 27
+Passing of Bills ........................................................................... 27
+Article 14 .................................................................................... 28
+Finance, Trade and Commerce................................................. 28
+Article 15 .................................................................................... 30
+Political Parties .......................................................................... 30
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-(this page came through the extractor with no text)
+Article 16 .................................................................................... 34
+Public Campaign Financing ..................................................... 34
+Article 17 .................................................................................... 35
+Formation of Government ........................................................ 35
+Article 18 .................................................................................... 36
+The Opposition Party ................................................................ 36
+Article 19 .................................................................................... 37
+Interim Government.................................................................. 37
+Article 20 .................................................................................... 38
+The Executive ............................................................................. 38
+Article 21 .................................................................................... 39
+The Judiciary ............................................................................. 39
+Article 22 .................................................................................... 42
+Local Governments.................................................................... 42
+Article 23 .................................................................................... 46
+Elections ...................................................................................... 46
+Article 24 .................................................................................... 49
+Election Commission ................................................................. 49
+Article 25 .................................................................................... 50
+The Royal Audit Authority ....................................................... 50
+Article 26 .................................................................................... 51
+The Royal Civil Service Commission ....................................... 51
+Article 27 .................................................................................... 53
+The Anti-Corruption Commission ........................................... 53
+Article 28 .................................................................................... 54
+Defence ........................................................................................ 54
+Article 29 .................................................................................... 55
+The Attorney General ................................................................ 55
+Article 30 .................................................................................... 56
+The Pay Commission ................................................................. 56
+Article 31 .................................................................................... 56
+Holders of Constitutional Offices ............................................. 56
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-(this page came through the extractor with no text)
+Article 32 .................................................................................... 58
+Impeachment .............................................................................. 58
+Article 33 .................................................................................... 58
+Emergency .................................................................................. 58
+Article 34 .................................................................................... 60
+National Referendum ................................................................ 60
+Article 35 .................................................................................... 61
+Amendment & Authoritative Text............................................ 61
+First Schedule ............................................................................. 62
+The National Flag and the National Emblem of Bhutan ....... 62
+The National Flag ...................................................................... 62
+The National Emblem ............................................................... 62
+Second Schedule......................................................................... 63
+The National Anthem of Bhutan .............................................. 63
+Third Schedule ........................................................................... 63
+Oath or Affirmation of Office ................................................... 63
+Fourth Schedule ......................................................................... 63
+Oath or Affirmation of Secrecy ................................................ 63
+Glossary ...................................................................................... 64
 
 [[END OF PAGE 5]]
 
@@ -37,7 +116,7 @@ ISBN 99936-754-0-7
 [[START OF PAGE 7]]
 
 ## Preamble
-WE , the people of Bhutan:
+WE, the people of Bhutan:
 
 BLESSED by the Triple Gem, the protection of our guardian  deities,  the  wisdom  of  our  leaders,  the everlasting  fortunes  of  the  Pelden  Drukpa  and  the guidance of  His  Majesty  the  Druk  Gyalpo  Jigme Khesar Namgyel Wangchuck;
 
@@ -59,23 +138,23 @@ DO HEREBY ordain and adopt this Constitution for the Kingdom of Bhutan on the Fi
 
 ### Kingdom of Bhutan
 
-- Bhutan is a Sovereign Kingdom and the Sovereign power belongs to the people of Bhutan.
+1. Bhutan is a Sovereign Kingdom and the Sovereign power belongs to the people of Bhutan.
 
-- The form of Government shall be that of a Democratic Constitutional Monarchy.
+2. The form of Government shall be that of a Democratic Constitutional Monarchy.
 
-- The international territorial boundary of Bhutan is inviolable and any alteration of areas and boundaries thereof shall be done only with the consent of not less than three-fourths of the total number of members of Parliament.
+3. The international territorial boundary of Bhutan is inviolable and any alteration of areas and boundaries thereof shall be done only with the consent of not less than three-fourths of the total number of members of Parliament.
 
-- The territory of Bhutan shall comprise twenty Dzongkhags with each Dzongkhag consisting of Gewogs and Thromdes. Alteration  of  areas  and  boundaries  of  any  Dzongkhag  or Gewog shall be done only with the consent of not less than three-fourths of the total number of members of Parliament.
+4. The territory of Bhutan shall comprise twenty Dzongkhags with each Dzongkhag consisting of Gewogs and Thromdes. Alteration of areas and boundaries of any Dzongkhag or Gewog shall be done only with the consent of not less than three-fourths of the total number of members of Parliament.
 
-- The National Flag and the National Emblem of Bhutan shall be as specified in the First Schedule of this Constitution.
+5. The National Flag and the National Emblem of Bhutan shall be as specified in the First Schedule of this Constitution.
 
-- The National Anthem of Bhutan shall be as specified in the Second Schedule of this Constitution.
+6. The National Anthem of Bhutan shall be as specified in the Second Schedule of this Constitution.
 
-- The National Day of Bhutan shall be the Seventeenth Day of December of each year.
+7. The National Day of Bhutan shall be the Seventeenth Day of December of each year.
 
-- Dzongkha is the National Language of Bhutan.
+8. Dzongkha is the National Language of Bhutan.
 
-- This Constitution is the Supreme Law of the State.
+9. This Constitution is the Supreme Law of the State.
 
 1
 
@@ -83,22 +162,22 @@ DO HEREBY ordain and adopt this Constitution for the Kingdom of Bhutan on the Fi
 
 [[START OF PAGE 10]]
 
-- All  laws  in  force  in  the  territory  of  Bhutan  at  the  time  of adopting this Constitution shall continue until altered, repealed or amended by Parliament. However, the provisions of any law, whether made before or after the coming into force of this Constitution, which are inconsistent with this Constitution, shall be null and void.
+10. All laws in force in the territory of Bhutan at the time of adopting this Constitution shall continue until altered, repealed or amended by Parliament. However, the provisions of any law, whether made before or after the coming into force of this Constitution, which are inconsistent with this Constitution, shall be null and void.
 
-- The Supreme Court shall be the guardian of this Constitution and the final authority on its interpretation.
+11. The Supreme Court shall be the guardian of this Constitution and the final authority on its interpretation.
 
-- The rights over mineral resources, rivers, lakes and forests shall vest in the State and are the properties of the State, which shall be regulated by law.
+12. The rights over mineral resources, rivers, lakes and forests shall vest in the State and are the properties of the State, which shall be regulated by law.
 
-- There shall be separation of the Executive, the Legislature and the Judiciary and no encroachment of each other's powers is  permissible  except  to  the  extent  provided  for  by  this Constitution.
+13. There shall be separation of the Executive, the Legislature and the Judiciary and no encroachment of each other’s powers is permissible except to the extent provided for by this Constitution.
 
 ## Article 2
 ### The Institution of Monarchy
 
-- His Majesty the Druk Gyalpo is the Head of State and the symbol of unity of the Kingdom and of the people of Bhutan.
+1. His Majesty the Druk Gyalpo is the Head of State and the symbol of unity of the Kingdom and of the people of Bhutan.
 
-- The Chhoe-sid-nyi of Bhutan shall be unified in the person of the Druk Gyalpo who, as a Buddhist, shall be the upholder of the Chhoe-sid.
+2. The Chhoe-sid-nyi of Bhutan shall be unified in the person of the Druk Gyalpo who, as a Buddhist, shall be the upholder of the Chhoe-sid.
 
-- The title to the Golden Throne of Bhutan shall vest in the legitimate descendants of Druk Gyalpo Ugyen Wangchuck as enshrined  in  the  inviolable  and  historic  Gyenja  of  the Thirteenth Day, Eleventh Month of the Earth Monkey Year,
+3. The title to the Golden Throne of Bhutan shall vest in the legitimate descendants of Druk Gyalpo Ugyen Wangchuck as enshrined in the inviolable and historic Gyenja of the Thirteenth Day, Eleventh Month of the Earth Monkey Year,
 
 2
 
@@ -120,7 +199,7 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 (f) Not pass to a person entitled to succeed to the Throne who enters into a marriage with a person other than a natural born citizen of Bhutan.
 
-- The successor  to  the Throne  shall  receive  dar  from  the Machhen of Zhabdrung Ngawang Namgyal at Punakha Dzong and shall be crowned on the Golden Throne.
+4. The successor to the Throne shall receive dar from the Machhen of Zhabdrung Ngawang Namgyal at Punakha Dzong and shall be crowned on the Golden Throne.
 
 3
 
@@ -128,11 +207,11 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 [[START OF PAGE 12]]
 
-- Upon the ascension of the Druk Gyalpo to the Throne, the members of the Royal Family, the members of Parliament and the office holders mentioned in section 19 of this Article shall take an Oath of Allegiance to the Druk Gyalpo.
+5. Upon the ascension of the Druk Gyalpo to the Throne, the members of the Royal Family, the members of Parliament and the office holders mentioned in section 19 of this Article shall take an Oath of Allegiance to the Druk Gyalpo.
 
-- Upon reaching the age of sixty-five years, the Druk Gyalpo shall step down and hand over the Throne to the Crown Prince or Crown Princess, provided the Royal Heir has come of age.
+6. Upon reaching the age of sixty-five years, the Druk Gyalpo shall step down and hand over the Throne to the Crown Prince or Crown Princess, provided the Royal Heir has come of age.
 
-- There shall, subject to the provision of section 9 of this  Article, be a Council of Regency when:
+7. There shall, subject to the provision of section 9 of this Article, be a Council of Regency when:
 
 (a) The successor to the Throne has not attained the age of twenty-one years;
 
@@ -140,7 +219,7 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 (c) It has been resolved by not less than three-fourths of the total number of members of Parliament in a joint sitting that the Druk Gyalpo is unable to exercise the Royal Prerogatives by reason of temporary physical or mental infirmity.
 
-- The Council of Regency shall collectively exercise the Royal Prerogatives and the powers vested in the Druk Gyalpo under this Constitution and shall be composed of:
+8. The Council of Regency shall collectively exercise the Royal Prerogatives and the powers vested in the Druk Gyalpo under this Constitution and shall be composed of:
 
 (a) A senior member of the Royal Family nominated by the Privy Council;
 
@@ -160,15 +239,15 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 [[START OF PAGE 13]]
 
-- In the case speîified under section 7(b) or 7(c) of this Article, the  descendant  of  the  Druk  Gyalpo,  who  is  the  heir presumptive, shall, instead of the Council of Regency, become Regent by right, if the heir presumptive has attained the age of twenty-one years.
+9. In the case specified under section 7(b) or 7(c) of this Article, the descendant of the Druk Gyalpo, who is the heir presumptive, shall, instead of the Council of Regency, become Regent by right, if the heir presumptive has attained the age of twenty-one years.
 
-- The members of the Council of Regency shall take an Oath of Allegiance before Parliament to faithfully discharge their duties.
+10. The members of the Council of Regency shall take an Oath of Allegiance before Parliament to faithfully discharge their duties.
 
-- When the successor to the Throne attains the age of twentyone years or when the Druk Gyalpo resumes the exercise of the Royal Prerogatives under sections 7(a) and 7(b) of this Article, notice shall be given by Proclamation. However, when the  Druk  Gyalpo regains the ability to exercise the Royal Prerogatives under section 7(c) of this Article, notice shall be given to that effect by resolution of Parliament.
+11. When the successor to the Throne attains the age of twenty-one years or when the Druk Gyalpo resumes the exercise of the Royal Prerogatives under sections 7(a) and 7(b) of this Article, notice shall be given by Proclamation. However, when the Druk Gyalpo regains the ability to exercise the Royal Prerogatives under section 7(c) of this Article, notice shall be given to that effect by resolution of Parliament.
 
-- The members of the Royal Family shall be the reigning and past Monarchs, their Queens and the Royal Children born of lawful marriage.
+12. The members of the Royal Family shall be the reigning and past Monarchs, their Queens and the Royal Children born of lawful marriage.
 
-- The Druk Gyalpo and the members of the Royal Family shall be entitled to:
+13. The Druk Gyalpo and the members of the Royal Family shall be entitled to:
 
 (a) Annuities from the State in accordance with a law made by Parliament;
 
@@ -182,11 +261,11 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 [[START OF PAGE 14]]
 
-- There shall be a Privy Council, which shall consist of two members appointed  by  the  Druk  Gyalpo,  one  member nominated by the Lhengye Zhungtshog and one member nominated by the National Council. The Privy Council shall be responsible for:
+14. There shall be a Privy Council, which shall consist of two members appointed by the Druk Gyalpo, one member nominated by the Lhengye Zhungtshog and one member nominated by the National Council. The Privy Council shall be responsible for:
 
 (a) All matters pertaining to the privileges of the Druk Gyalpo and the Royal Family;
 
-(b) All  matters  pertaining  to  the  conduct  of  the  Royal Family;
+(b) All matters pertaining to the conduct of the Royal Family;
 
 (c) Rendering advice to the Druk Gyalpo on matters concerning the Throne and the Royal Family;
 
@@ -194,11 +273,11 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 (e) Any other matter as may be commanded by the Druk Gyalpo.
 
-- The Druk Gyalpo shall not be answerable in a court of law for His actions and His person shall be sacrosanct.
+15. The Druk Gyalpo shall not be answerable in a court of law for His actions and His person shall be sacrosanct.
 
-- The Druk Gyalpo, in exercise of His Royal Prerogatives, may:
+16. The Druk Gyalpo, in exercise of His Royal Prerogatives, may:
 
-(a) Award titles, decorations, dar for Lhengye and NyiKyelma in accordance with tradition and custom;
+(a) Award titles, decorations, dar for Lhengye and Nyi-Kyelma in accordance with tradition and custom;
 
 (b) Grant citizenship, land kidu and other kidus;
 
@@ -208,7 +287,7 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 (e) Exercise powers relating to matters which are not provided for under this Constitution or other laws.
 
-- The Druk Gyalpo may promote goodwill and good relations with other countries by receiving state guests and undertaking state visits to other countries.
+17. The Druk Gyalpo may promote goodwill and good relations with other countries by receiving state guests and undertaking state visits to other countries.
 
 6
 
@@ -216,9 +295,9 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 [[START OF PAGE 15]]
 
-- The Druk Gyalpo shall protect and uphold this Constitution in the best interest and for the welfare of the people of Bhutan.
+18. The Druk Gyalpo shall protect and uphold this Constitution in the best interest and for the welfare of the people of Bhutan.
 
-- The Druk Gyalpo shall, by warrant under His hand and seal, appoint:
+19. The Druk Gyalpo shall, by warrant under His hand and seal, appoint:
 
 (a) The Chief Justice of Bhutan in accordance with section 4 of Article 21;
 
@@ -228,7 +307,7 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 (d) The Drangpons of the High Court in accordance with section 12 of Article 21;
 
-(e) The  Chief  Election  Commissioner  and  Election Commissioners in accordance with section 2 of Article 24;
+(e) The Chief Election Commissioner and Election Commissioners in accordance with section 2 of Article 24;
 
 (f) The Auditor General in accordance with section 2 of Article 25;
 
@@ -260,11 +339,11 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 (q) Dzongdags on the recommendation of the Prime Minister who shall obtain nominations from the Royal Civil Service Commission.
 
-- The Druk Gyalpo shall abdicate  the Throne  for  willful violations of this Constitution or for being subject to permanent mental disability,  on  a  motion  passed  by  a  joint  sitting  of Parliament in accordance with the procedure as laid down in sections 21, 22, 23, 24 and 25 of this Article.
+20. The Druk Gyalpo shall abdicate the Throne for willful violations of this Constitution or for being subject to permanent mental disability, on a motion passed by a joint sitting of Parliament in accordance with the procedure as laid down in sections 21, 22, 23, 24 and 25 of this Article.
 
-- The motion for abdication shall be tabled for discussion at a joint sitting of Parliament if not less than two-thirds of the total number of the members of Parliament submits such a motion based on any of the grounds in section 20 of this Article.
+21. The motion for abdication shall be tabled for discussion at a joint sitting of Parliament if not less than two-thirds of the total number of the members of Parliament submits such a motion based on any of the grounds in section 20 of this Article.
 
-- The Druk Gyalpo may respond to the motion in writing or by addressing the joint sitting of Parliament in person or through a representative.
+22. The Druk Gyalpo may respond to the motion in writing or by addressing the joint sitting of Parliament in person or through a representative.
 
 8
 
@@ -272,22 +351,22 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 [[START OF PAGE 17]]
 
-- The Chief Justice of Bhutan shall preside over the joint sitting of Parliament mentioned in section 21 of this Article.
+23. The Chief Justice of Bhutan shall preside over the joint sitting of Parliament mentioned in section 21 of this Article.
 
-- If, at such joint sitting of Parliament, not less than three-fourths of  the  total  number  of  members  of  Parliament  passes  the motion for abdication, then such a resolution shall be placed before the people in a National Referendum to be approved or rejected.
+24. If, at such joint sitting of Parliament, not less than three-fourths of the total number of members of Parliament passes the motion for abdication, then such a resolution shall be placed before the people in a National Referendum to be approved or rejected.
 
-- On such a resolution being approved by a simple majority of the  total  number  of  votes  cast  and  counted  from  all  the Dzongkhags in the Kingdom, the Druk Gyalpo shall abdicate in favour of the heir apparent.
+25. On such a resolution being approved by a simple majority of the total number of votes cast and counted from all the Dzongkhags in the Kingdom, the Druk Gyalpo shall abdicate in favour of the heir apparent.
 
-- Parliament shall make no laws or exercise its powers to amend the provisions of this Article and section 2 of Article 1 except through a National Referendum.
+26. Parliament shall make no laws or exercise its powers to amend the provisions of this Article and section 2 of Article 1 except through a National Referendum.
 
 ## Article 3
 ### Spiritual Heritage
 
-- Buddhism is the spiritual heritage of Bhutan, which promotes the principles and values of peace, non-violence, compassion and tolerance.
+1. Buddhism is the spiritual heritage of Bhutan, which promotes the principles and values of peace, non-violence, compassion and tolerance.
 
-- The Druk Gyalpo is the protector of all religions in Bhutan.
+2. The Druk Gyalpo is the protector of all religions in Bhutan.
 
-- It  shall  be  the  responsibility  of  religious  institutions  and personalities to promote the spiritual heritage of the country while also ensuring that religion remains separate from politics in Bhutan. Religious institutions and personalities shall remain above politics.
+3. It shall be the responsibility of religious institutions and personalities to promote the spiritual heritage of the country while also ensuring that religion remains separate from politics in Bhutan. Religious institutions and personalities shall remain above politics.
 
 9
 
@@ -295,11 +374,11 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 [[START OF PAGE 18]]
 
-- The Druk Gyalpo shall, on the recommendation of the Five Lopons, appoint a learned and respected monk ordained in accordance with the Druk-lu, with the nine qualities of a spiritual  master  and  accomplished  in  ked-dzog,  as  the  Je Khenpo.
+4. The Druk Gyalpo shall, on the recommendation of the Five Lopons, appoint a learned and respected monk ordained in accordance with the Druk-lu, with the nine qualities of a spiritual master and accomplished in ked-dzog, as the Je Khenpo.
 
-- His Holiness the Je Khenpo shall, on the recommendation of the  Dratshang  Lhentshog,  appoint  monks  with  the  nine qualities of a spiritual master and accomplished in ked-dzog as the Five Lopons.
+5. His Holiness the Je Khenpo shall, on the recommendation of the Dratshang Lhentshog, appoint monks with the nine qualities of a spiritual master and accomplished in ked-dzog as the Five Lopons.
 
-- The members of the Dratshang Lhentshog shall comprise:
+6. The members of the Dratshang Lhentshog shall comprise:
 
 (a) The Je Khenpo as Chairman;
 
@@ -307,14 +386,14 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 (c) The Secretary of the Dratshang Lhentshog who is a civil servant.
 
-- The Zhung Dratshang and Rabdeys shall continue to receive adequate funds and other facilities from the State.
+7. The Zhung Dratshang and Rabdeys shall continue to receive adequate funds and other facilities from the State.
 
 ## Article 4
 ### Culture
 
-- The State shall endeavour to preserve, protect and promote the  cultural  heritage  of  the  country,  including  monuments, places  and  objects  of  artistic  or  historic  interest,  Dzongs, Lhakhangs, Goendeys, Ten-sum, Nyes, language, literature, music, visual arts and religion to enrich society and the cultural life of the citizens.
+1. The State shall endeavour to preserve, protect and promote the cultural heritage of the country, including monuments, places and objects of artistic or historic interest, Dzongs, Lhakhangs, Goendeys, Ten-sum, Nyes, language, literature, music, visual arts and religion to enrich society and the cultural life of the citizens.
 
-- The State shall recognize culture as an evolving dynamic force and shall endeavour to strengthen and facilitate the continued
+2. The State shall recognize culture as an evolving dynamic force and shall endeavour to strengthen and facilitate the continued
 
 10
 
@@ -324,16 +403,16 @@ corresponding to the Seventeenth Day of December, Nineteen Hundred and Seven and
 
 evolution  of  traditional  values  and  institutions  that  are sustainable as a progressive society.
 
-- The State shall conserve and encourage research on local arts, custom, knowledge and culture.
+3. The State shall conserve and encourage research on local arts, custom, knowledge and culture.
 
-- Parliament may enact such legislation as may be necessary to advance the cause of the cultural enrichment of Bhutanese society.
+4. Parliament may enact such legislation as may be necessary to advance the cause of the cultural enrichment of Bhutanese society.
 
 ## Article 5
 ### Environment
 
-- Every  Bhutanese  is  a  trustee  of  the  Kingdom's  natural resources and environment for the benefit of the present and future  generations  and  it  is  the  fundamental  duty  of  every citizen  to  contribute  to  the  protection  of  the  natural environment, conservation of the rich biodiversity of Bhutan and prevention of all forms of ecological degradation including noise, visual and physical pollution through the adoption and support of environment friendly practices and policies.
+1. Every Bhutanese is a trustee of the Kingdom’s natural resources and environment for the benefit of the present and future generations and it is the fundamental duty of every citizen to contribute to the protection of the natural environment, conservation of the rich biodiversity of Bhutan and prevention of all forms of ecological degradation including noise, visual and physical pollution through the adoption and support of environment friendly practices and policies.
 
-- The Royal Government shall:
+2. The Royal Government shall:
 
 (a) Protect, conserve and improve the pristine environment and safeguard the biodiversity of the country;
 
@@ -349,20 +428,20 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 20]]
 
-- The Government shall ensure that, in order to conserve the country's natural resources and to prevent degradation of the ecosystem, a minimum of sixty percent of Bhutan's total land shall be maintained under forest cover for all time.
+3. The Government shall ensure that, in order to conserve the country’s natural resources and to prevent degradation of the ecosystem, a minimum of sixty percent of Bhutan’s total land shall be maintained under forest cover for all time.
 
-- Parliament may enact environmental legislation to ensure sustainable  use  of  natural  resources  and  maintain intergenerational equity and reaffirm the sovereign rights of the State over its own biological resources.
+4. Parliament may enact environmental legislation to ensure sustainable use of natural resources and maintain intergenerational equity and reaffirm the sovereign rights of the State over its own biological resources.
 
-- Parliament may, by law, declare any part of the country to be a National Park, Wildlife Reserve, Nature Reserve, Protected Forest, Biosphere Reserve, Critical Watershed and such other categories meriting protection.
+5. Parliament may, by law, declare any part of the country to be a National Park, Wildlife Reserve, Nature Reserve, Protected Forest, Biosphere Reserve, Critical Watershed and such other categories meriting protection.
 
 ## Article 6
 ### Citizenship
 
-- A person, both of whose parents are citizens of Bhutan, shall be a natural born citizen of Bhutan.
+1. A person, both of whose parents are citizens of Bhutan, shall be a natural born citizen of Bhutan.
 
-- A person, domiciled in Bhutan on or before the Thirty-First of December Nineteen Hundred and Fifty Eight and whose name is registered in the official record of the Government of Bhutan shall be a citizen of Bhutan by registration.
+2. A person, domiciled in Bhutan on or before the Thirty-First of December Nineteen Hundred and Fifty Eight and whose name is registered in the official record of the Government of Bhutan shall be a citizen of Bhutan by registration.
 
-- A person who applies for citizenship by naturalization shall:
+3. A person who applies for citizenship by naturalization shall:
 
 (a) Have lawfully resided in Bhutan for at least fifteen years;
 
@@ -384,20 +463,20 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 (g) Take a solemn Oath of Allegiance to the Constitution as may be prescribed.
 
-- The grant of citizenship by naturalization shall take effect by a Royal Kasho of the Druk Gyalpo.
+4. The grant of citizenship by naturalization shall take effect by a Royal Kasho of the Druk Gyalpo.
 
-- If any citizen of Bhutan acquires the citizenship of a foreign State, his or her citizenship of Bhutan shall be terminated.
+5. If any citizen of Bhutan acquires the citizenship of a foreign State, his or her citizenship of Bhutan shall be terminated.
 
-- Subject to the provisions of this Article and the Citizenship Acts,  Parliament  shall,  by  law,  regulate  all  other  matters relating to citizenship.
+6. Subject to the provisions of this Article and the Citizenship Acts, Parliament shall, by law, regulate all other matters relating to citizenship.
 
 ## Article 7
 ### Fundamental Rights
 
-- All persons shall have the right to life, liberty and security of person and shall not be deprived of such rights except in accordance with the due process of law.
+1. All persons shall have the right to life, liberty and security of person and shall not be deprived of such rights except in accordance with the due process of law.
 
-- A Bhutanese citizen shall have the right to freedom of speech, opinion and expression.
+2. A Bhutanese citizen shall have the right to freedom of speech, opinion and expression.
 
-- A Bhutanese citizen shall have the right to information.
+3. A Bhutanese citizen shall have the right to information.
 
 13
 
@@ -405,23 +484,23 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 22]]
 
-- A Bhutanese citizen shall have the right to freedom of thought, conscience and religion. No person shall be compelled to belong to another faith by means of coercion or inducement.
+4. A Bhutanese citizen shall have the right to freedom of thought, conscience and religion. No person shall be compelled to belong to another faith by means of coercion or inducement.
 
-- There shall be freedom of the press, radio and television and other  forms  of  dissemination  of  information,  including electronic.
+5. There shall be freedom of the press, radio and television and other forms of dissemination of information, including electronic.
 
-- A Bhutanese citizen shall have the right to vote.
+6. A Bhutanese citizen shall have the right to vote.
 
-- A Bhutanese citizen  shall  have  the  right  to  freedom  of movement and residence within Bhutan.
+7. A Bhutanese citizen shall have the right to freedom of movement and residence within Bhutan.
 
-- A Bhutanese citizen shall have the right to equal access and opportunity to join the Public Service.
+8. A Bhutanese citizen shall have the right to equal access and opportunity to join the Public Service.
 
-- A Bhutanese citizen shall have the right to own property, but shall not have the right to sell or transfer land or any immovable property to a person who is not a citizen of Bhutan, except in keeping with laws enacted by Parliament.
+9. A Bhutanese citizen shall have the right to own property, but shall not have the right to sell or transfer land or any immovable property to a person who is not a citizen of Bhutan, except in keeping with laws enacted by Parliament.
 
-- A Bhutanese citizen shall have the right to practice any lawful trade, profession or vocation.
+10. A Bhutanese citizen shall have the right to practice any lawful trade, profession or vocation.
 
-- A Bhutanese citizen shall have the right to equal pay for work of equal value.
+11. A Bhutanese citizen shall have the right to equal pay for work of equal value.
 
-- A Bhutanese citizen shall have the right to freedom of peaceful assembly and freedom of association, other than membership of associations that are harmful to the peace and unity of the country, and shall have the right not to be compelled to belong to any association.
+12. A Bhutanese citizen shall have the right to freedom of peaceful assembly and freedom of association, other than membership of associations that are harmful to the peace and unity of the country, and shall have the right not to be compelled to belong to any association.
 
 14
 
@@ -429,23 +508,23 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 23]]
 
-- Every person in Bhutan shall have the right to material interests resulting from any scientific, literary or artistic production of which he or she is the author or creator.
+13. Every person in Bhutan shall have the right to material interests resulting from any scientific, literary or artistic production of which he or she is the author or creator.
 
-- A person shall not be deprived of property by acquisition or requisition, except for public purpose and on payment of fair compensation in accordance with the provisions of the law.
+14. A person shall not be deprived of property by acquisition or requisition, except for public purpose and on payment of fair compensation in accordance with the provisions of the law.
 
-- All persons are equal before the law and are entitled to equal and  effective  protection  of  the  law  and  shall  not  be discriminated against on the grounds of race, sex, language, religion, politics or other status.
+15. All persons are equal before the law and are entitled to equal and effective protection of the law and shall not be discriminated against on the grounds of race, sex, language, religion, politics or other status.
 
-- A person charged with a penal offence has the right to be presumed innocent until proven guilty in accordance with the law.
+16. A person charged with a penal offence has the right to be presumed innocent until proven guilty in accordance with the law.
 
-- A person shall not be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
+17. A person shall not be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
 
-- A person shall not be subjected to capital punishment.
+18. A person shall not be subjected to capital punishment.
 
-- A person shall not be subjected to arbitrary  or  unlawful interference  with  his  or  her  privacy,  family,  home  or correspondence nor to unlawful attacks on the person's honour and reputation.
+19. A person shall not be subjected to arbitrary or unlawful interference with his or her privacy, family, home or correspondence nor to unlawful attacks on the person’s honour and reputation.
 
-- A person shall not be subjected to arbitrary arrest or detention.
+20. A person shall not be subjected to arbitrary arrest or detention.
 
-- A person shall have the right to consult and be represented by a Bhutanese Jabmi of his or her choice.
+21. A person shall have the right to consult and be represented by a Bhutanese Jabmi of his or her choice.
 
 15
 
@@ -453,7 +532,7 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 24]]
 
-- Notwithstanding the rights conferred by this Constitution, nothing in this Article shall prevent the State from subjecting reasonable restriction by law, when it concerns:
+22. Notwithstanding the rights conferred by this Constitution, nothing in this Article shall prevent the State from subjecting reasonable restriction by law, when it concerns:
 
 (a) The interests of the sovereignty, security, unity and integrity of Bhutan;
 
@@ -467,14 +546,14 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 (f) The rights and freedom of others.
 
-- All persons in Bhutan shall have the right to initiate appropriate proceedings in the Supreme Court or High Court for the enforcement of the rights conferred by this Article, subject to section 22 of this Article and procedures prescribed by law.
+23. All persons in Bhutan shall have the right to initiate appropriate proceedings in the Supreme Court or High Court for the enforcement of the rights conferred by this Article, subject to section 22 of this Article and procedures prescribed by law.
 
 ## Article 8
 ### Fundamental Duties
 
-- A Bhutanese citizen shall preserve, protect and defend the sovereignty, territorial integrity, security and unity of Bhutan and render national service when called upon to do so by Parliament.
+1. A Bhutanese citizen shall preserve, protect and defend the sovereignty, territorial integrity, security and unity of Bhutan and render national service when called upon to do so by Parliament.
 
-- A Bhutanese citizen shall have the duty to preserve, protect and respect the environment, culture and heritage of the nation.
+2. A Bhutanese citizen shall have the duty to preserve, protect and respect the environment, culture and heritage of the nation.
 
 16
 
@@ -482,23 +561,23 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 25]]
 
-- A Bhutanese citizen shall foster tolerance, mutual respect and spirit  of  brotherhood  amongst  all  the  people  of  Bhutan transcending  religious,  linguistic,  regional  or  sectional diversities.
+3. A Bhutanese citizen shall foster tolerance, mutual respect and spirit of brotherhood amongst all the people of Bhutan transcending religious, linguistic, regional or sectional diversities.
 
-- A person shall respect the National Flag and the National Anthem.
+4. A person shall respect the National Flag and the National Anthem.
 
-- A person shall not tolerate or participate in acts of injury, torture or  killing  of  another  person,  terrorism,  abuse  of  women, children or any other person and shall take necessary steps to prevent such acts.
+5. A person shall not tolerate or participate in acts of injury, torture or killing of another person, terrorism, abuse of women, children or any other person and shall take necessary steps to prevent such acts.
 
-- A person shall have the responsibility to provide help, to the greatest possible extent, to victims of accidents and in times of natural calamity.
+6. A person shall have the responsibility to provide help, to the greatest possible extent, to victims of accidents and in times of natural calamity.
 
-- A person shall have the responsibility to safeguard public property.
+7. A person shall have the responsibility to safeguard public property.
 
-- A person  shall  have  the  responsibility  to  pay  taxes  in accordance with the law.
+8. A person shall have the responsibility to pay taxes in accordance with the law.
 
-- Every person shall have the duty to uphold justice and to act against corruption.
+9. Every person shall have the duty to uphold justice and to act against corruption.
 
-- Every person shall have the duty to act in aid of the law.
+10. Every person shall have the duty to act in aid of the law.
 
-- Every person shall have the duty and responsibility to respect and abide by the provisions of this Constitution.
+11. Every person shall have the duty and responsibility to respect and abide by the provisions of this Constitution.
 
 17
 
@@ -509,19 +588,19 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 ## Article 9
 ### Principles of State Policy
 
-- The State shall endeavour to apply the Principles of State Policy set out in this Article to ensure a good quality of life for  the  people  of  Bhutan  in  a  progressive  and  prosperous country that is committed to peace and amity in the world.
+1. The State shall endeavour to apply the Principles of State Policy set out in this Article to ensure a good quality of life for the people of Bhutan in a progressive and prosperous country that is committed to peace and amity in the world.
 
-- The State shall strive to promote those conditions that will enable the pursuit of Gross National Happiness.
+2. The State shall strive to promote those conditions that will enable the pursuit of Gross National Happiness.
 
-- The State shall endeavour to create a civil society free of oppression, discrimination and violence, based on the rule of law, protection of human rights and dignity, and to ensure the fundamental rights and freedoms of the people.
+3. The State shall endeavour to create a civil society free of oppression, discrimination and violence, based on the rule of law, protection of human rights and dignity, and to ensure the fundamental rights and freedoms of the people.
 
-- The State shall endeavour to protect the telephonic, electronic, postal or other communications of all persons in Bhutan from unlawful interception or interruption.
+4. The State shall endeavour to protect the telephonic, electronic, postal or other communications of all persons in Bhutan from unlawful interception or interruption.
 
-- The State shall endeavour to provide justice through a fair, transparent and expeditious process.
+5. The State shall endeavour to provide justice through a fair, transparent and expeditious process.
 
-- The State shall endeavour to provide legal aid to secure justice, which shall not be denied to any person by reason of economic or other disabilities.
+6. The State shall endeavour to provide legal aid to secure justice, which shall not be denied to any person by reason of economic or other disabilities.
 
-- The State shall endeavour to develop and execute policies to minimize inequalities of income, concentration of wealth, and promote equitable distribution  of  public  facilities  among individuals and people living in different parts of the Kingdom.
+7. The State shall endeavour to develop and execute policies to minimize inequalities of income, concentration of wealth, and promote equitable distribution of public facilities among individuals and people living in different parts of the Kingdom.
 
 18
 
@@ -529,21 +608,21 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 27]]
 
-- The State shall endeavour to ensure that all the Dzongkhags are treated with equity on the basis of different needs so that the allocation of national resources results in comparable socioeconomic development.
+8. The State shall endeavour to ensure that all the Dzongkhags are treated with equity on the basis of different needs so that the allocation of national resources results in comparable socio-economic development.
 
-- The State shall endeavour to achieve economic self-reliance and promote open and progressive economy.
+9. The State shall endeavour to achieve economic self-reliance and promote open and progressive economy.
 
-- The  State  shall  encourage  and  foster  private  sector development through fair market competition and prevent commercial monopolies.
+10. The State shall encourage and foster private sector development through fair market competition and prevent commercial monopolies.
 
-- The State shall endeavour to promote those circumstances that would enable the citizens to secure an adequate livelihood.
+11. The State shall endeavour to promote those circumstances that would enable the citizens to secure an adequate livelihood.
 
-- The State  shall  endeavour  to  ensure  the  right  to  work, vocational  guidance  and  training  and  just  and  favourable conditions of work.
+12. The State shall endeavour to ensure the right to work, vocational guidance and training and just and favourable conditions of work.
 
-- The State shall endeavour to ensure the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.
+13. The State shall endeavour to ensure the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.
 
-- The State shall  endeavour to  ensure  the  right  to  fair  and reasonable remuneration for one's work.
+14. The State shall endeavour to ensure the right to fair and reasonable remuneration for one’s work.
 
-- The State shall endeavour to provide education for the purpose of improving and increasing knowledge, values and skills of the entire population with education being directed towards the full development of the human personality.
+15. The State shall endeavour to provide education for the purpose of improving and increasing knowledge, values and skills of the entire population with education being directed towards the full development of the human personality.
 
 19
 
@@ -551,19 +630,19 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 28]]
 
-- The State shall provide free education to all children of school going age up to tenth standard and ensure that technical and professional education is made generally available and that higher education is equally accessible to all on the basis of merit.
+16. The State shall provide free education to all children of school going age up to tenth standard and ensure that technical and professional education is made generally available and that higher education is equally accessible to all on the basis of merit.
 
-- The State shall endeavour to take appropriate measures to eliminate all forms of discrimination and exploitation against women including trafficking, prostitution, abuse, violence, harassment and intimidation at work in both public and private spheres.
+17. The State shall endeavour to take appropriate measures to eliminate all forms of discrimination and exploitation against women including trafficking, prostitution, abuse, violence, harassment and intimidation at work in both public and private spheres.
 
-- The State shall endeavour to take appropriate measures to ensure  that  children  are  protected  against  all  forms  of discrimination  and  exploitation  including  trafficking, prostitution,  abuse,  violence,  degrading  treatment  and economic exploitation.
+18. The State shall endeavour to take appropriate measures to ensure that children are protected against all forms of discrimination and exploitation including trafficking, prostitution, abuse, violence, degrading treatment and economic exploitation.
 
-- The State shall endeavour to promote those conditions that are  conducive  to  co-operation  in  community  life  and  the integrity of the extended family structure.
+19. The State shall endeavour to promote those conditions that are conducive to co-operation in community life and the integrity of the extended family structure.
 
-- The State shall strive to create conditions that will enable the true and sustainable development of a good and compassionate society rooted in Buddhist ethos and universal human values.
+20. The State shall strive to create conditions that will enable the true and sustainable development of a good and compassionate society rooted in Buddhist ethos and universal human values.
 
-- The State shall provide free access to basic public health services in both modern and traditional medicines.
+21. The State shall provide free access to basic public health services in both modern and traditional medicines.
 
-- The State shall endeavour to provide security in the event of sickness and disability or lack of adequate means of livelihood for reasons beyond one's control.
+22. The State shall endeavour to provide security in the event of sickness and disability or lack of adequate means of livelihood for reasons beyond one’s control.
 
 20
 
@@ -571,22 +650,22 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 29]]
 
-- The State shall encourage free participation in the cultural life of the community, promote arts and sciences and foster technological innovation.
+23. The State shall encourage free participation in the cultural life of the community, promote arts and sciences and foster technological innovation.
 
-- The State  shall  endeavour  to  promote  goodwill  and  cooperation with nations, foster respect for international law and treaty obligations, and encourage settlement of international disputes by peaceful means in order to promote international peace and security.
+24. The State shall endeavour to promote goodwill and co-operation with nations, foster respect for international law and treaty obligations, and encourage settlement of international disputes by peaceful means in order to promote international peace and security.
 
 ## Article 10
 ### Parliament
 
-- There shall be a Parliament for Bhutan in which all legislative powers under this Constitution are vested and which shall consist  of  the  Druk  Gyalpo,  the  National  Council  and  the National Assembly.
+1. There shall be a Parliament for Bhutan in which all legislative powers under this Constitution are vested and which shall consist of the Druk Gyalpo, the National Council and the National Assembly.
 
-- Parliament shall ensure that the Government safeguards the interests of the nation and fulfils the aspirations of the people through public review of policies and issues, Bills and other legislations, and scrutiny of State functions.
+2. Parliament shall ensure that the Government safeguards the interests of the nation and fulfils the aspirations of the people through public review of policies and issues, Bills and other legislations, and scrutiny of State functions.
 
-- The election  of  the  members  of  Parliament  shall  be  in accordance with the provisions of the Electoral Laws of the Kingdom.
+3. The election of the members of Parliament shall be in accordance with the provisions of the Electoral Laws of the Kingdom.
 
-- A person shall not be a member of the National Council as well as the National Assembly or a Local Government at the same time.
+4. A person shall not be a member of the National Council as well as the National Assembly or a Local Government at the same time.
 
-- The Druk Gyalpo shall summon the first sitting of Parliament after each general election.
+5. The Druk Gyalpo shall summon the first sitting of Parliament after each general election.
 
 21
 
@@ -594,19 +673,19 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 30]]
 
-- At the commencement of each session of Parliament, the Druk Gyalpo shall be received in a joint sitting of Parliament with Chibdrel Ceremony. Each session shall be opened with a Zhugdrel-phunsum tshog-pai  ten-drel  and  each  session  shall conclude with the Tashi-mon-lam.
+6. At the commencement of each session of Parliament, the Druk Gyalpo shall be received in a joint sitting of Parliament with Chibdrel Ceremony. Each session shall be opened with a Zhug-drel-phunsum tshog-pai ten-drel and each session shall conclude with the Tashi-mon-lam.
 
-- The Druk Gyalpo may address or sit in the proceedings of either  House  or  a  joint  sitting  of  Parliament  as  and  when deemed expedient.
+7. The Druk Gyalpo may address or sit in the proceedings of either House or a joint sitting of Parliament as and when deemed expedient.
 
-- The Druk Gyalpo may send messages to either or both the Houses as deemed expedient.
+8. The Druk Gyalpo may send messages to either or both the Houses as deemed expedient.
 
-- The House receiving the message shall, as early as possible, consider the matter referred to in the message and submit its opinion to the Druk Gyalpo.
+9. The House receiving the message shall, as early as possible, consider the matter referred to in the message and submit its opinion to the Druk Gyalpo.
 
-- The Prime Minister shall present an Annual Report on the state of the nation, including legislative plans and the annual plans and priorities of the Government, to the Druk Gyalpo and to a joint sitting of Parliament.
+10. The Prime Minister shall present an Annual Report on the state of the nation, including legislative plans and the annual plans and priorities of the Government, to the Druk Gyalpo and to a joint sitting of Parliament.
 
-- Both Houses shall determine their rules of procedure, and the proceedings of each House shall be conducted in accordance with its own rules. The rules of procedure in each House shall provide for the appointment of Committees to carry out the business of Parliament.
+11. Both Houses shall determine their rules of procedure, and the proceedings of each House shall be conducted in accordance with its own rules. The rules of procedure in each House shall provide for the appointment of Committees to carry out the business of Parliament.
 
-- The  Speaker  and  the  Chairperson  shall  convene  an extraordinary sitting of Parliament on the command of the Druk Gyalpo if the exigencies of the situation so demand.
+12. The Speaker and the Chairperson shall convene an extraordinary sitting of Parliament on the command of the Druk Gyalpo if the exigencies of the situation so demand.
 
 22
 
@@ -614,19 +693,19 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 31]]
 
-- Each Member of Parliament shall have one vote. In case of equal votes, the Speaker or the Chairperson shall cast the deciding vote.
+13. Each Member of Parliament shall have one vote. In case of equal votes, the Speaker or the Chairperson shall cast the deciding vote.
 
-- The presence of not less than two-thirds of the total number of  members of each House respectively shall constitute a quorum for a sitting of the National Council or the National Assembly.
+14. The presence of not less than two-thirds of the total number of members of each House respectively shall constitute a quorum for a sitting of the National Council or the National Assembly.
 
-- The proceedings of Parliament shall be conducted in public. However, the Speaker or the Chairperson may exclude the press and the public from all or any part of the proceedings if there is a compelling need to do so in the interests of public order, national security or any other situation, where publicity would seriously prejudice public interest.
+15. The proceedings of Parliament shall be conducted in public. However, the Speaker or the Chairperson may exclude the press and the public from all or any part of the proceedings if there is a compelling need to do so in the interests of public order, national security or any other situation, where publicity would seriously prejudice public interest.
 
-- The Speaker shall preside over the proceedings of a joint sitting and the venue for the joint sitting of the Houses shall be the hall of the National Assembly.
+16. The Speaker shall preside over the proceedings of a joint sitting and the venue for the joint sitting of the Houses shall be the hall of the National Assembly.
 
-- When the office of a member of Parliament becomes vacant for any reason other than the expiration of term, an election of a member to fill the vacancy shall be held within ninety days as from the date of the vacancy.
+17. When the office of a member of Parliament becomes vacant for any reason other than the expiration of term, an election of a member to fill the vacancy shall be held within ninety days as from the date of the vacancy.
 
-- The members of Parliament shall take an Oath or Affirmation of  Office,  as  provided  for  in  the  Third  Schedule  of  this Constitution, before assuming their responsibilities.
+18. The members of Parliament shall take an Oath or Affirmation of Office, as provided for in the Third Schedule of this Constitution, before assuming their responsibilities.
 
-- The Prime Minister, the Ministers, the Speaker, the Deputy Speaker,  the  Chairperson  and  Deputy  Chairperson  of  the National Council shall take an Oath or Affirmation of Secrecy, as provided for in the Fourth Schedule of this Constitution, before assuming office.
+19. The Prime Minister, the Ministers, the Speaker, the Deputy Speaker, the Chairperson and Deputy Chairperson of the National Council shall take an Oath or Affirmation of Secrecy, as provided for in the Fourth Schedule of this Constitution, before assuming office.
 
 23
 
@@ -634,15 +713,15 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 32]]
 
-- Every member of Parliament shall maintain the decorum and dignity of the House and shall desist from acts of defamation and use of physical force.
+20. Every member of Parliament shall maintain the decorum and dignity of the House and shall desist from acts of defamation and use of physical force.
 
-- The members of Parliament or any Committee thereof shall be immune from any inquiry, arrest, detention or prosecution on account of any opinion expressed in the course of the discharge of their functions or vote cast in Parliament and no person  shall  be  liable  in  respect  of  any  report,  paper  or proceedings  made  or  published  under  the  authority  of Parliament.
+21. The members of Parliament or any Committee thereof shall be immune from any inquiry, arrest, detention or prosecution on account of any opinion expressed in the course of the discharge of their functions or vote cast in Parliament and no person shall be liable in respect of any report, paper or proceedings made or published under the authority of Parliament.
 
-- The immunities herein granted shall not cover corrupt acts committed by the members in connection with the discharge of their duties or cover other acts of accepting money or any other  valuables  in  consideration  to  speak  or  to  vote  in  a particular manner.
+22. The immunities herein granted shall not cover corrupt acts committed by the members in connection with the discharge of their duties or cover other acts of accepting money or any other valuables in consideration to speak or to vote in a particular manner.
 
-- The concurrence of not less than two-thirds of the total number of members of each House respectively is required to remove the right of immunity of a member.
+23. The concurrence of not less than two-thirds of the total number of members of each House respectively is required to remove the right of immunity of a member.
 
-- The National Assembly and the National Council shall continue for five years from the date of the first sitting of the respective Houses. While the National Council shall complete its  five-year  term,  premature  dissolution  of  the  National Assembly may take place on the recommendation of the Prime Minister to the Druk Gyalpo or in the event of a motion of no confidence vote against the Government being passed in the National Assembly or in accordance with section 12 of Article 15.
+24. The National Assembly and the National Council shall continue for five years from the date of the first sitting of the respective Houses. While the National Council shall complete its five-year term, premature dissolution of the National Assembly may take place on the recommendation of the Prime Minister to the Druk Gyalpo or in the event of a motion of no confidence vote against the Government being passed in the National Assembly or in accordance with section 12 of Article 15.
 
 24
 
@@ -650,22 +729,22 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 33]]
 
-- Except for existing International Conventions, Covenants, Treaties, Protocols and Agreements entered into by Bhutan, which shall continue in force subject to section 10 of Article 1, all International Conventions, Covenants, Treaties, Protocols and Agreements duly acceded to by the Government hereafter, shall  be  deemed  to  be  the  law  of  the  Kingdom  only  upon ratification by Parliament unless it is inconsistent with this Constitution.
+25. Except for existing International Conventions, Covenants, Treaties, Protocols and Agreements entered into by Bhutan, which shall continue in force subject to section 10 of Article 1, all International Conventions, Covenants, Treaties, Protocols and Agreements duly acceded to by the Government hereafter, shall be deemed to be the law of the Kingdom only upon ratification by Parliament unless it is inconsistent with this Constitution.
 
 ## Article 11
 ### The National Council
 
-- The National Council shall consist of twenty-five members comprising:
+1. The National Council shall consist of twenty-five members comprising:
 
 (a) One member elected by the voters in each of the twenty Dzongkhags; and
 
 (b) Five eminent persons nominated by the Druk Gyalpo.
 
-- Besides its legislative functions, the National Council shall act as the House of review on matters affecting the security and sovereignty of the country and the interests of the nation and the people that need to be brought to the notice of the Druk Gyalpo, the Prime Minister and the National Assembly.
+2. Besides its legislative functions, the National Council shall act as the House of review on matters affecting the security and sovereignty of the country and the interests of the nation and the people that need to be brought to the notice of the Druk Gyalpo, the Prime Minister and the National Assembly.
 
-- A candidate to or a member of the National Council shall not belong to any political party.
+3. A candidate to or a member of the National Council shall not belong to any political party.
 
-- At the first sitting after any National Council election, or when necessary to fill a vacancy, the National Council shall elect a Chairperson  and  Deputy  Chairperson  from  among  its members.
+4. At the first sitting after any National Council election, or when necessary to fill a vacancy, the National Council shall elect a Chairperson and Deputy Chairperson from among its members.
 
 25
 
@@ -673,22 +752,22 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 34]]
 
-- The Druk Gyalpo shall, by warrant under His hand and seal, confer Dakyen to the Chairperson.
+5. The Druk Gyalpo shall, by warrant under His hand and seal, confer Dakyen to the Chairperson.
 
-- The National Council shall assemble at least twice a year.
+6. The National Council shall assemble at least twice a year.
 
 ## Article 12
 ### The National Assembly
 
-- The National Assembly shall have a maximum of fifty-five members, elected from each Dzongkhag in proportion to its population, provided that no Dzongkhag shall have less than two members or more than seven members, for which purpose Parliament shall, by law, provide for each Dzongkhag to be divided into constituencies through appropriate delimitation, and for the voters in each constituency directly electing one member to the National Assembly.
+1. The National Assembly shall have a maximum of fifty-five members, elected from each Dzongkhag in proportion to its population, provided that no Dzongkhag shall have less than two members or more than seven members, for which purpose Parliament shall, by law, provide for each Dzongkhag to be divided into constituencies through appropriate delimitation, and for the voters in each constituency directly electing one member to the National Assembly.
 
-- The number of elected members from each Dzongkhag shall be  reapportioned  to  reflect  the  changing  registered  voter population after every ten years, subject to the limitation of a minimum of two and a maximum of seven members from each Dzongkhag.
+2. The number of elected members from each Dzongkhag shall be reapportioned to reflect the changing registered voter population after every ten years, subject to the limitation of a minimum of two and a maximum of seven members from each Dzongkhag.
 
-- At the first sitting after any general election, or when necessary to fill a vacancy, the National Assembly shall elect a Speaker and a Deputy Speaker from among its members.
+3. At the first sitting after any general election, or when necessary to fill a vacancy, the National Assembly shall elect a Speaker and a Deputy Speaker from among its members.
 
-- The Druk Gyalpo shall, by warrant under His hand and seal, confer Dakyen to the Speaker.
+4. The Druk Gyalpo shall, by warrant under His hand and seal, confer Dakyen to the Speaker.
 
-- The National Assembly shall assemble at least twice a year.
+5. The National Assembly shall assemble at least twice a year.
 
 26
 
@@ -699,19 +778,19 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 ## Article 13
 ### Passing of Bills
 
-- A Bill passed by Parliament shall come into force upon Assent of the Druk Gyalpo.
+1. A Bill passed by Parliament shall come into force upon Assent of the Druk Gyalpo.
 
-- Money Bills and financial Bills shall originate only in the National Assembly whereas any other legislative Bill may originate in either House.
+2. Money Bills and financial Bills shall originate only in the National Assembly whereas any other legislative Bill may originate in either House.
 
-- A Bill pending in either House shall not lapse by reason of the prorogation of either House.
+3. A Bill pending in either House shall not lapse by reason of the prorogation of either House.
 
-- A Bill shall be passed by a simple majority of the total number of members of the respective Houses or by not less than twothirds of the total number of members of both Houses present and voting, in the case of a joint sitting.
+4. A Bill shall be passed by a simple majority of the total number of members of the respective Houses or by not less than two-thirds of the total number of members of both Houses present and voting, in the case of a joint sitting.
 
-- Where a Bill has been introduced and passed by one House, it shall present the Bill to the other House within thirty days from the date of passing and that Bill may be passed during the next session of Parliament. In the case of Budget and Urgent Bills, they shall be passed in the same session of Parliament.
+5. Where a Bill has been introduced and passed by one House, it shall present the Bill to the other House within thirty days from the date of passing and that Bill may be passed during the next session of Parliament. In the case of Budget and Urgent Bills, they shall be passed in the same session of Parliament.
 
-- Where the other House also passes the Bill, that House shall submit the Bill to the Druk Gyalpo for Assent within fifteen days from the date of passing of such Bill.
+6. Where the other House also passes the Bill, that House shall submit the Bill to the Druk Gyalpo for Assent within fifteen days from the date of passing of such Bill.
 
-- Where the other House does not pass the Bill, that House shall return  it  to  the  House  in  which  the  Bill  originated  with amendments or objections for re-deliberation. If the Bill is then passed, it shall be presented to the Druk Gyalpo for  Assent within fifteen days from the date of passing of such Bill.
+7. Where the other House does not pass the Bill, that House shall return it to the House in which the Bill originated with amendments or objections for re-deliberation. If the Bill is then passed, it shall be presented to the Druk Gyalpo for Assent within fifteen days from the date of passing of such Bill.
 
 27
 
@@ -719,22 +798,22 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 36]]
 
-- Where the House in which the Bill originated refuses to incorporate such amendments or objections of the other House, it  shall submit the Bill to the Druk Gyalpo, who shall then command the Houses to deliberate and vote on the Bill in a joint sitting.
+8. Where the House in which the Bill originated refuses to incorporate such amendments or objections of the other House, it shall submit the Bill to the Druk Gyalpo, who shall then command the Houses to deliberate and vote on the Bill in a joint sitting.
 
-- Where the other House neither passes nor returns the Bill by the end of the next session, the Bill shall be deemed to have been passed by that House and the House in which the Bill originated shall present the Bill within fifteen days to the Druk Gyalpo for Assent.
+9. Where the other House neither passes nor returns the Bill by the end of the next session, the Bill shall be deemed to have been passed by that House and the House in which the Bill originated shall present the Bill within fifteen days to the Druk Gyalpo for Assent.
 
-- Where the Druk Gyalpo does not grant Assent to the Bill, He shall  return  the  Bill  with  amendments  or  objections  to deliberate and vote on the Bill in a joint sitting.
+10. Where the Druk Gyalpo does not grant Assent to the Bill, He shall return the Bill with amendments or objections to deliberate and vote on the Bill in a joint sitting.
 
-- Upon deliberation and passing of the Bill in a joint sitting, it shall be resubmitted to the Druk Gyalpo for Assent thereto, whereupon Assent shall be granted to the Bill.
+11. Upon deliberation and passing of the Bill in a joint sitting, it shall be resubmitted to the Druk Gyalpo for Assent thereto, whereupon Assent shall be granted to the Bill.
 
 ## Article 14
 ### Finance, Trade and Commerce
 
-- Taxes, fees and other forms of levies shall not be imposed or altered except by law.
+1. Taxes, fees and other forms of levies shall not be imposed or altered except by law.
 
-- There shall  be  a  Consolidated  Fund  into  which  shall  be deposited all public monies not allocated to specific purposes by law and from which expenditure of the State shall be met.
+2. There shall be a Consolidated Fund into which shall be deposited all public monies not allocated to specific purposes by law and from which expenditure of the State shall be met.
 
-- Public money shall not be drawn from the Consolidated Fund except through appropriation in accordance with the law.
+3. Public money shall not be drawn from the Consolidated Fund except through appropriation in accordance with the law.
 
 28
 
@@ -742,19 +821,19 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 37]]
 
-- The Government, in the public interest, may raise loans, make grants or guarantee loans in accordance with the law.
+4. The Government, in the public interest, may raise loans, make grants or guarantee loans in accordance with the law.
 
-- The Government shall exercise proper management of the monetary system and public finance. It shall ensure that the servicing of public debt will not place an undue burden on future generations.
+5. The Government shall exercise proper management of the monetary system and public finance. It shall ensure that the servicing of public debt will not place an undue burden on future generations.
 
-- The Government shall ensure that the  cost  of  recurrent expenditures is met from internal resources of the country.
+6. The Government shall ensure that the cost of recurrent expenditures is met from internal resources of the country.
 
-- A minimum foreign currency reserve that is adequate to meet the cost of not less than one year's essential import must be maintained.
+7. A minimum foreign currency reserve that is adequate to meet the cost of not less than one year’s essential import must be maintained.
 
-- The annual budget, with a report on the budget of the previous fiscal year, shall be presented to the National Assembly by the Finance Minister.
+8. The annual budget, with a report on the budget of the previous fiscal year, shall be presented to the National Assembly by the Finance Minister.
 
-- Where the budget has not been approved by the National Assembly before the beginning of the fiscal year, the preceding budget on current expenses shall be applied until the new one is sanctioned. Revenues shall be collected and disbursements made in accordance with the law in force at the end of the preceding year. However, if one or more parts of the new budget have been approved, they shall be put into effect.
+9. Where the budget has not been approved by the National Assembly before the beginning of the fiscal year, the preceding budget on current expenses shall be applied until the new one is sanctioned. Revenues shall be collected and disbursements made in accordance with the law in force at the end of the preceding year. However, if one or more parts of the new budget have been approved, they shall be put into effect.
 
-- Any expenditure not included in the budget, or in excess of the budget appropriation, as well as the transfer of any fund from one part of the budget to another, shall be made in accordance with the law.
+10. Any expenditure not included in the budget, or in excess of the budget appropriation, as well as the transfer of any fund from one part of the budget to another, shall be made in accordance with the law.
 
 29
 
@@ -762,24 +841,24 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 38]]
 
-- Funds for more than one fiscal year may be appropriated in accordance with the law if the nature of the expenditure so requires. In such a case, each annual successive budget shall include the funds allocated for that year.
+11. Funds for more than one fiscal year may be appropriated in accordance with the law if the nature of the expenditure so requires. In such a case, each annual successive budget shall include the funds allocated for that year.
 
-- Parliament shall establish a relief fund and the Druk Gyalpo shall  have  the  prerogative  to  use  this  fund  for  urgent  and unforeseen humanitarian relief.
+12. Parliament shall establish a relief fund and the Druk Gyalpo shall have the prerogative to use this fund for urgent and unforeseen humanitarian relief.
 
-- The State shall make adequate financial provisions for the independent administration of constitutional bodies.
+13. The State shall make adequate financial provisions for the independent administration of constitutional bodies.
 
-- Unless otherwise provided for under the provisions of this Constitution or any other laws, there shall be free movement of goods and services among all the Dzongkhags.
+14. Unless otherwise provided for under the provisions of this Constitution or any other laws, there shall be free movement of goods and services among all the Dzongkhags.
 
-- Trade and Commerce with foreign nations shall be regulated by law.
+15. Trade and Commerce with foreign nations shall be regulated by law.
 
-- Parliament shall not enact laws that allow monopoly except to safeguard national security.
+16. Parliament shall not enact laws that allow monopoly except to safeguard national security.
 
 ## Article 15
 ### Political Parties
 
-- Political parties shall ensure that national interests prevail over all other interests and, for this purpose, shall provide choices based  on  the  values  and  aspirations  of  the  people  for responsible and good governance.
+1. Political parties shall ensure that national interests prevail over all other interests and, for this purpose, shall provide choices based on the values and aspirations of the people for responsible and good governance.
 
-- Political parties shall promote national unity and progressive economic development and strive to ensure the well-being of the nation.
+2. Political parties shall promote national unity and progressive economic development and strive to ensure the well-being of the nation.
 
 30
 
@@ -787,11 +866,11 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 39]]
 
-- Candidates and political parties shall not resort to regionalism, ethnicity and religion to incite voters for electoral gain.
+3. Candidates and political parties shall not resort to regionalism, ethnicity and religion to incite voters for electoral gain.
 
-- A  political  party  shall  be  registered  by  the  Election Commission  on  its  satisfying  the  qualifications  and requirements set out hereinafter, that:
+4. A political party shall be registered by the Election Commission on its satisfying the qualifications and requirements set out hereinafter, that:
 
-(a) Its  members  shall  be  Bhutanese  citizens  and  not otherwise disqualified under this Constitution;
+(a) Its members shall be Bhutanese citizens and not otherwise disqualified under this Constitution;
 
 (b) Its membership is not based on region, sex, language, religion or social origin;
 
@@ -799,11 +878,11 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 (d) It does not accept money or any assistance other than those contributions made by its registered members, and the amount or value shall be fixed by the Election Commission;
 
-(e) It  does  not  receive  money  or  any  assistance  from foreign sources, be it governmental, non-governmental, private  organizations  or  from  private  parties  or individuals;
+(e) It does not receive money or any assistance from foreign sources, be it governmental, non-governmental, private organizations or from private parties or individuals;
 
 (f) Its members shall bear true faith and allegiance to this Constitution and uphold the sovereignty, territorial integrity, security and unity of the Kingdom;
 
-(g) It  is  established  for  the  advancement of democracy and for the social, economic and political growth of Bhutan; and
+(g) It is established for the advancement of democracy and for the social, economic and political growth of Bhutan; and
 
 (h) It has not been dissolved earlier under the provisions of section 11 of this Article.
 
@@ -813,17 +892,17 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 40]]
 
-- Election to the National Assembly shall be by two political parties  established  through  a  primary  round  of  election  in which all registered political parties may participate.
+5. Election to the National Assembly shall be by two political parties established through a primary round of election in which all registered political parties may participate.
 
-- A primary round of election shall be held to select the two political parties for the general election on the expiry of the term of the National Assembly or in the event of dissolution under section 12 of this Article.
+6. A primary round of election shall be held to select the two political parties for the general election on the expiry of the term of the National Assembly or in the event of dissolution under section 12 of this Article.
 
-- The two political parties obtaining the first and the second highest  number  of  votes  in  the  primary  election  shall  be declared as the two political parties for the purpose of section 5 of this Article to contest in the general election.
+7. The two political parties obtaining the first and the second highest number of votes in the primary election shall be declared as the two political parties for the purpose of section 5 of this Article to contest in the general election.
 
-- The party which wins the majority of seats in the National Assembly in the general election shall be declared as the ruling party and the other as the opposition party. However, in the case of casual vacancy, if the opposition party gains majority of seats in the National Assembly after the bye-election, such party shall be declared as the ruling party.
+8. The party which wins the majority of seats in the National Assembly in the general election shall be declared as the ruling party and the other as the opposition party. However, in the case of casual vacancy, if the opposition party gains majority of seats in the National Assembly after the bye-election, such party shall be declared as the ruling party.
 
-- No election shall be held where the remainder of the term of the National Assembly is less than one hundred and eighty days.
+9. No election shall be held where the remainder of the term of the National Assembly is less than one hundred and eighty days.
 
-- The members of the National Assembly belonging to one party shall not defect to the other party either individually or en bloc.
+10. The members of the National Assembly belonging to one party shall not defect to the other party either individually or en bloc.
 
 32
 
@@ -831,25 +910,25 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 41]]
 
-- A political party shall be dissolved only by declaration of the Supreme Court:
+11. A political party shall be dissolved only by declaration of the Supreme Court:
 
-(a) If  the  objectives  or  activities  of  the  party  are  in contravention of the provisions of this Constitution;
+(a) If the objectives or activities of the party are in contravention of the provisions of this Constitution;
 
-(b) If  it  has  received money or assistance from foreign sources;
+(b) If it has received money or assistance from foreign sources;
 
 (c) On such other grounds as may be prescribed by Parliament or under a law in force; or
 
 (d) On violation of the Electoral Laws.
 
-- Where the ruling party in the  National Assembly stands dissolved under section 11 of this Article or the Government is dismissed under section 24 of Article 10 or under section 7 of Article 17, the National  Assembly shall also stand dissolved and, accordingly, sections 1 to 8 of this Article shall apply.
+12. Where the ruling party in the National Assembly stands dissolved under section 11 of this Article or the Government is dismissed under section 24 of Article 10 or under section 7 of Article 17, the National Assembly shall also stand dissolved and, accordingly, sections 1 to 8 of this Article shall apply.
 
-- During the election of the opposition party under section 14 of  this Article,  the  National Assembly  shall  be  suspended animation and the ruling party and their candidates shall not contest in the elections.
+13. During the election of the opposition party under section 14 of this Article, the National Assembly shall be suspended animation and the ruling party and their candidates shall not contest in the elections.
 
-- Where the original opposition party stands dissolved under this Constitution, an opposition party shall be elected:
+14. Where the original opposition party stands dissolved under this Constitution, an opposition party shall be elected:
 
 (a) Within sixty days from the date of the dissolution of the original opposition party;
 
-(b) From  the  parties  registered  with  the  Election Commission in accordance with section 4 of this Article; and
+(b) From the parties registered with the Election Commission in accordance with section 4 of this Article; and
 
 (c) Through an election held under the Electoral Laws to fill the seats of those constituencies which stood vacant on the dissolution of the original opposition party.
 
@@ -859,20 +938,20 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 42]]
 
-- Upon such election of the opposition party and the seats having been filled up, the National Assembly shall resume thereafter in accordance with the provisions of this Constitution.
+15. Upon such election of the opposition party and the seats having been filled up, the National Assembly shall resume thereafter in accordance with the provisions of this Constitution.
 
-- Parliament shall, by law, regulate the formation, functions, ethical  standards,  and  intra-party  organization  of  political parties and shall ensure the transparency of party funds through regular auditing of their accounts.
+16. Parliament shall, by law, regulate the formation, functions, ethical standards, and intra-party organization of political parties and shall ensure the transparency of party funds through regular auditing of their accounts.
 
 ## Article 16
 ### Public Campaign Financing
 
-- Parliament shall, by law, establish a Public Election Fund into which shall be paid every year such amounts as the Election Commission may consider appropriate to fund registered political parties and their candidates during elections to the National Assembly and candidates to the National Council.
+1. Parliament shall, by law, establish a Public Election Fund into which shall be paid every year such amounts as the Election Commission may consider appropriate to fund registered political parties and their candidates during elections to the National Assembly and candidates to the National Council.
 
-- The payment out of the Public Election Fund shall be made by the Election Commission in a non-discriminatory manner to registered political parties and candidates in accordance with laws made by Parliament.
+2. The payment out of the Public Election Fund shall be made by the Election Commission in a non-discriminatory manner to registered political parties and candidates in accordance with laws made by Parliament.
 
-- The Election Commission shall fix a ceiling for the total expenditure that may be incurred by political parties and their candidates taking part in elections to the National Assembly.
+3. The Election Commission shall fix a ceiling for the total expenditure that may be incurred by political parties and their candidates taking part in elections to the National Assembly.
 
-- The Election Commission shall fix a ceiling for contribution offered  voluntarily  by  any  of  its  registered  members  to  a political party subject to the provisions of the Election Fund Act.
+4. The Election Commission shall fix a ceiling for contribution offered voluntarily by any of its registered members to a political party subject to the provisions of the Election Fund Act.
 
 34
 
@@ -880,22 +959,22 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 43]]
 
-- The funding received by political parties and their candidates shall be subjected to scrutiny and auditing as called for by the Election  Commission in  accordance  with  laws  made  by Parliament or law in force.
+5. The funding received by political parties and their candidates shall be subjected to scrutiny and auditing as called for by the Election Commission in accordance with laws made by Parliament or law in force.
 
 ## Article 17
 ### Formation of Government
 
-- The Druk Gyalpo shall confer Dakyen to the leader or nominee of the party, which wins the majority of seats in the National Assembly, as the Prime Minister.
+1. The Druk Gyalpo shall confer Dakyen to the leader or nominee of the party, which wins the majority of seats in the National Assembly, as the Prime Minister.
 
-- No person shall hold office as Prime Minister for more than two terms.
+2. No person shall hold office as Prime Minister for more than two terms.
 
-- The Druk Gyalpo shall appoint Ministers from among the members of the National Assembly, on the recommendation of the Prime Minister, or shall remove a Minister on the advice of the Prime Minister.
+3. The Druk Gyalpo shall appoint Ministers from among the members of the National Assembly, on the recommendation of the Prime Minister, or shall remove a Minister on the advice of the Prime Minister.
 
-- A candidate for the post of Prime Minister or Minister shall be an elected member of the National Assembly and a natural born citizen of Bhutan.
+4. A candidate for the post of Prime Minister or Minister shall be an elected member of the National Assembly and a natural born citizen of Bhutan.
 
-- Not more than two members elected from the electoral constituencies of the same Dzongkhag shall be entitled to be appointed as Ministers.
+5. Not more than two members elected from the electoral constituencies of the same Dzongkhag shall be entitled to be appointed as Ministers.
 
-- A motion of no confidence against the Government may be moved by not less than one-third of the total  number of members of the National Assembly.
+6. A motion of no confidence against the Government may be moved by not less than one-third of the total number of members of the National Assembly.
 
 35
 
@@ -903,22 +982,22 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 44]]
 
-- A vote of no confidence against the Government, if passed by not less than two-thirds of the total number of members of the National Assembly,  shall  require  the  Government  to  be dismissed by the Druk Gyalpo.
+7. A vote of no confidence against the Government, if passed by not less than two-thirds of the total number of members of the National Assembly, shall require the Government to be dismissed by the Druk Gyalpo.
 
 ## Article 18
 ### The Opposition Party
 
-- The Opposition Party shall play a constructive role to ensure that  the  Government  and  the  ruling  party  function  in accordance with the provisions of this Constitution, provide good governance and strive to promote the national interest and fulfil the aspirations of the people.
+1. The Opposition Party shall play a constructive role to ensure that the Government and the ruling party function in accordance with the provisions of this Constitution, provide good governance and strive to promote the national interest and fulfil the aspirations of the people.
 
-- The Opposition Party shall promote national integrity, unity and harmony, and co-operation among all sections of society.
+2. The Opposition Party shall promote national integrity, unity and harmony, and co-operation among all sections of society.
 
-- The Opposition Party shall endeavour to promote and engage in  constructive  and  responsible  debate  in  Parliament  while providing healthy and dignified opposition to the Government.
+3. The Opposition Party shall endeavour to promote and engage in constructive and responsible debate in Parliament while providing healthy and dignified opposition to the Government.
 
-- The Opposition Party shall not allow party interests to prevail over  the  national  interest.  Its  aim  must  be  to  make  the Government responsible, accountable and transparent.
+4. The Opposition Party shall not allow party interests to prevail over the national interest. Its aim must be to make the Government responsible, accountable and transparent.
 
-- The Opposition Party shall have the right to oppose the elected Government, to articulate alternative policy positions and to question the Government's conduct of public business.
+5. The Opposition Party shall have the right to oppose the elected Government, to articulate alternative policy positions and to question the Government’s conduct of public business.
 
-- The Opposition Party shall aid and support the Government in times of external threat, natural calamities and such other national crises when the security and national interest of the country is at stake.
+6. The Opposition Party shall aid and support the Government in times of external threat, natural calamities and such other national crises when the security and national interest of the country is at stake.
 
 36
 
@@ -929,17 +1008,17 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 ## Article 19
 ### Interim Government
 
-- Whenever the National Assembly is dissolved, the Druk Gyalpo shall appoint an Interim Government to function for a period,  which  shall  not  exceed  ninety  days,  to  enable  the Election Commission to hold free and fair elections.
+1. Whenever the National Assembly is dissolved, the Druk Gyalpo shall appoint an Interim Government to function for a period, which shall not exceed ninety days, to enable the Election Commission to hold free and fair elections.
 
-- The Interim Government shall consist of a Chief Advisor and other Advisors appointed by the Druk Gyalpo within fifteen days after the dissolution of the National Assembly. The Chief Justice of Bhutan shall be appointed as the Chief Advisor.
+2. The Interim Government shall consist of a Chief Advisor and other Advisors appointed by the Druk Gyalpo within fifteen days after the dissolution of the National Assembly. The Chief Justice of Bhutan shall be appointed as the Chief Advisor.
 
-- Upon the appointment of the Interim Government, the Prime Minister and the Ministers who were in office immediately before the National Assembly was dissolved shall resign from office.
+3. Upon the appointment of the Interim Government, the Prime Minister and the Ministers who were in office immediately before the National Assembly was dissolved shall resign from office.
 
-- The Interim Government shall carry out the routine functions of the Government but shall not be entitled to take any policy decisions  or  enter  into  any  agreement  with  foreign governments or organizations.
+4. The Interim Government shall carry out the routine functions of the Government but shall not be entitled to take any policy decisions or enter into any agreement with foreign governments or organizations.
 
-- The Government shall be formed within ninety days from the date of dissolution of the National Assembly.
+5. The Government shall be formed within ninety days from the date of dissolution of the National Assembly.
 
-- The Interim Government shall cease to exist from the date on which the new Prime Minister enters office when the new National Assembly is constituted.
+6. The Interim Government shall cease to exist from the date on which the new Prime Minister enters office when the new National Assembly is constituted.
 
 37
 
@@ -950,15 +1029,15 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 ## Article 20
 ### The Executive
 
-- The Government shall protect and strengthen the sovereignty of the Kingdom, provide good governance, and ensure peace, security, well-being and happiness of the people.
+1. The Government shall protect and strengthen the sovereignty of the Kingdom, provide good governance, and ensure peace, security, well-being and happiness of the people.
 
-- The  Executive  Power  shall  be  vested  in  the  Lhengye Zhungtshog which shall consist of the Ministers headed by the  Prime  Minister.  The  number  of  Ministers  shall  be determined by the number of Ministries required to provide efficient  and  good  governance.  Creation  of  an  additional ministry or reduction of any ministry shall be approved by Parliament. Ministries shall not be created for the purpose only of appointing Ministers.
+2. The Executive Power shall be vested in the Lhengye Zhungtshog which shall consist of the Ministers headed by the Prime Minister. The number of Ministers shall be determined by the number of Ministries required to provide efficient and good governance. Creation of an additional ministry or reduction of any ministry shall be approved by Parliament. Ministries shall not be created for the purpose only of appointing Ministers.
 
-- Subject  to  sections  16  and  19  of Article  2,  the  Lhengye Zhungtshog shall aid and advise the Druk Gyalpo in the exercise  of  His  functions  including  international  affairs, provided that  the  Druk  Gyalpo  may  require  the  Lhengye Zhungtshog to reconsider such advice, either generally or otherwise.
+3. Subject to sections 16 and 19 of Article 2, the Lhengye Zhungtshog shall aid and advise the Druk Gyalpo in the exercise of His functions including international affairs, provided that the Druk Gyalpo may require the Lhengye Zhungtshog to reconsider such advice, either generally or otherwise.
 
-- The Prime Minister shall keep the Druk Gyalpo informed from time  to  time  about  the  affairs  of  the  State,  including international affairs, and shall submit such information and files as called for by the Druk Gyalpo.
+4. The Prime Minister shall keep the Druk Gyalpo informed from time to time about the affairs of the State, including international affairs, and shall submit such information and files as called for by the Druk Gyalpo.
 
-- The Lhengye Zhungtshog shall:
+5. The Lhengye Zhungtshog shall:
 
 (a) Assess the state of affairs arising from developments in the State and society and from events at home and abroad;
 
@@ -974,18 +1053,18 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 (d) Represent the Kingdom at home and abroad.
 
-- The Lhengye Zhungtshog shall promote an efficient civil administration based on the democratic values and principles enshrined in this Constitution.
+6. The Lhengye Zhungtshog shall promote an efficient civil administration based on the democratic values and principles enshrined in this Constitution.
 
-- The Lhengye Zhungtshog shall be collectively responsible to the Druk Gyalpo and to Parliament.
+7. The Lhengye Zhungtshog shall be collectively responsible to the Druk Gyalpo and to Parliament.
 
-- The Executive shall not issue any executive order, circular, rule or notification which is inconsistent with or shall have the effect of modifying, varying or superseding any provision of a law made by Parliament or a law in force.
+8. The Executive shall not issue any executive order, circular, rule or notification which is inconsistent with or shall have the effect of modifying, varying or superseding any provision of a law made by Parliament or a law in force.
 
 ## Article 21
 ### The Judiciary
 
-- The Judiciary shall safeguard, uphold, and administer Justice fairly and independently without fear, favour, or undue delay in  accordance  with  the  Rule  of  Law  to  inspire  trust  and confidence and to enhance access to Justice.
+1. The Judiciary shall safeguard, uphold, and administer Justice fairly and independently without fear, favour, or undue delay in accordance with the Rule of Law to inspire trust and confidence and to enhance access to Justice.
 
-- The judicial authority of Bhutan shall be vested in the Royal Courts of Justice comprising the Supreme Court, the High Court, the Dzongkhag Court, the Dungkhag Court and such other Courts and Tribunals as may be established from time to time by the Druk Gyalpo on the recommendation of the National Judicial Commission.
+2. The judicial authority of Bhutan shall be vested in the Royal Courts of Justice comprising the Supreme Court, the High Court, the Dzongkhag Court, the Dungkhag Court and such other Courts and Tribunals as may be established from time to time by the Druk Gyalpo on the recommendation of the National Judicial Commission.
 
 39
 
@@ -993,21 +1072,21 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 48]]
 
-- The Supreme Court shall be a court of record.
+3. The Supreme Court shall be a court of record.
 
-- The Chief Justice of Bhutan shall be appointed from among the Drangpons of the Supreme Court or from among eminent jurists by the Druk Gyalpo, by warrant under His hand and seal in consultation with the National Judicial Commission.
+4. The Chief Justice of Bhutan shall be appointed from among the Drangpons of the Supreme Court or from among eminent jurists by the Druk Gyalpo, by warrant under His hand and seal in consultation with the National Judicial Commission.
 
-- The Drangpons of the Supreme Court shall be appointed from among the Drangpons of the High Court or from among eminent jurists by the Druk Gyalpo, by warrant under His hand and seal in consultation with the National Judicial Commission.
+5. The Drangpons of the Supreme Court shall be appointed from among the Drangpons of the High Court or from among eminent jurists by the Druk Gyalpo, by warrant under His hand and seal in consultation with the National Judicial Commission.
 
-- The term of office of:
+6. The term of office of:
 
-(a) The Chief Justice of Bhutan shall be five years or until attaining  the  age  of  sixty-five  years,  whichever  is earlier; and
+(a) The Chief Justice of Bhutan shall be five years or until attaining the age of sixty-five years, whichever is earlier; and
 
 (b) The Drangpons of the Supreme Court shall be ten years or until attaining the age of sixty-five years, whichever is earlier.
 
-- The Supreme Court of Bhutan, which shall comprise the Chief Justice  and  four  Drangpons,  shall  be  the  highest  appellate authority to entertain appeals against the judgments, orders, or decisions of the High Court in all matters and shall have the power to review its judgments and orders.
+7. The Supreme Court of Bhutan, which shall comprise the Chief Justice and four Drangpons, shall be the highest appellate authority to entertain appeals against the judgments, orders, or decisions of the High Court in all matters and shall have the power to review its judgments and orders.
 
-- Where a question of law or fact is of such a nature and of such public importance that it is expedient to obtain the opinion of the Supreme Court, the Druk Gyalpo may refer the question to the Supreme Court for its consideration, which shall hear the reference and submit its opinion to Him.
+8. Where a question of law or fact is of such a nature and of such public importance that it is expedient to obtain the opinion of the Supreme Court, the Druk Gyalpo may refer the question to the Supreme Court for its consideration, which shall hear the reference and submit its opinion to Him.
 
 40
 
@@ -1015,17 +1094,17 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 49]]
 
-- The  Supreme  Court  may,  on  its  own  motion  or  on  an application made by the Attorney General or by a party to a case,  withdraw  any  case  pending  before  the  High  Court involving a substantial question of law of general importance relating to the interpretation of this Constitution and dispose off the case itself.
+9. The Supreme Court may, on its own motion or on an application made by the Attorney General or by a party to a case, withdraw any case pending before the High Court involving a substantial question of law of general importance relating to the interpretation of this Constitution and dispose off the case itself.
 
-- The Supreme Court and the High Court may issue such declarations, orders, directions or writs as may be appropriate in the circumstances of each case.
+10. The Supreme Court and the High Court may issue such declarations, orders, directions or writs as may be appropriate in the circumstances of each case.
 
-- The Chief Justice of the High Court shall be appointed from among the Drangpons of the High Court or from among eminent jurists by the Druk Gyalpo, by warrant under His hand and seal,  on  the  recommendation of the National Judicial Commission.
+11. The Chief Justice of the High Court shall be appointed from among the Drangpons of the High Court or from among eminent jurists by the Druk Gyalpo, by warrant under His hand and seal, on the recommendation of the National Judicial Commission.
 
-- The Drangpons of the High Court shall be appointed from among the Drangpons of the Dzongkhag Courts or from among eminent jurists by the Druk Gyalpo, by warrant under His hand and seal,  on  the  recommendation of the National Judicial Commission.
+12. The Drangpons of the High Court shall be appointed from among the Drangpons of the Dzongkhag Courts or from among eminent jurists by the Druk Gyalpo, by warrant under His hand and seal, on the recommendation of the National Judicial Commission.
 
-- The term of office of the Chief Justice and the Drangpons of the High Court shall be ten years or until attaining the age of sixty years, whichever is earlier.
+13. The term of office of the Chief Justice and the Drangpons of the High Court shall be ten years or until attaining the age of sixty years, whichever is earlier.
 
-- The High Court of Bhutan, which shall comprise of a Chief Justice and eight Drangpons, shall be the court of appeal from the Dzongkhag Courts and Tribunals in all matters and shall exercise  original  jurisdiction  in  matters  not  within  the jurisdiction of the Dzongkhag Courts and Tribunals.
+14. The High Court of Bhutan, which shall comprise of a Chief Justice and eight Drangpons, shall be the court of appeal from the Dzongkhag Courts and Tribunals in all matters and shall exercise original jurisdiction in matters not within the jurisdiction of the Dzongkhag Courts and Tribunals.
 
 41
 
@@ -1033,11 +1112,11 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 [[START OF PAGE 50]]
 
-- The independence of the Drangpons of the Supreme Court and the  High  Court  shall  be  guaranteed,  provided  that  a Drangpon may be censured or suspended by a command of the  Druk  Gyalpo  on  the  recommendation  of  the  National Judicial Commission for proven misbehaviour, which, in the opinion of the Commission, does not deserve impeachment.
+15. The independence of the Drangpons of the Supreme Court and the High Court shall be guaranteed, provided that a Drangpon may be censured or suspended by a command of the Druk Gyalpo on the recommendation of the National Judicial Commission for proven misbehaviour, which, in the opinion of the Commission, does not deserve impeachment.
 
-- Parliament may, by law, establish impartial and independent Administrative Tribunals  as  well  as Alternative  Dispute Resolution centres.
+16. Parliament may, by law, establish impartial and independent Administrative Tribunals as well as Alternative Dispute Resolution centres.
 
-- The Druk Gyalpo shall appoint members of the National Judicial Commission by warrant under His hand and seal. The National Judicial Commission shall comprise:
+17. The Druk Gyalpo shall appoint members of the National Judicial Commission by warrant under His hand and seal. The National Judicial Commission shall comprise:
 
 (a) The Chief Justice of Bhutan as Chairperson;
 
@@ -1047,12 +1126,12 @@ evolution  of  traditional  values  and  institutions  that  are sustainable as 
 
 (d) The Attorney General.
 
-- Every person has the right to approach the courts in matters arising out of the Constitution or other laws subject to section 23 of Article 7.
+18. Every person has the right to approach the courts in matters arising out of the Constitution or other laws subject to section 23 of Article 7.
 
 ## Article 22
 ### Local Governments
 
-- Power and authority shall be decentralized and devolved to elected Local Governments to facilitate the direct participation of the people in the development and management of their own social, economic and environmental well-being.
+1. Power and authority shall be decentralized and devolved to elected Local Governments to facilitate the direct participation of the people in the development and management of their own social, economic and environmental well-being.
 
 42
 
