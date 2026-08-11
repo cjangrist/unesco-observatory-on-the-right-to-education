@@ -1,12 +1,48 @@
 [[START OF PAGE 1]]
 
-## PART 1 - PRELIMINARY
-
-REPUBLIC  OF  VANUATU
+REPUBLIC OF VANUATU
 
 # VANUATU NATIONAL TRAINING COUNCIL ACT NO. 13 OF 1999
 
 ## Arrangement of Sections
+
+## PART 1 - PRELIMINARY
+
+1. Interpretation
+
+## PART 2 - VANUATU NATIONAL TRAINING COUNCIL
+
+### Division 1 - Establishment, Functions And Powers
+
+2. Establishment of the Vanuatu National Training Council
+
+3. Functions of the Council
+
+4. Powers of the Council
+
+5. Council to have regard to government policy
+
+### Division 2 - Membership
+
+6. Composition of the Council
+
+7. Chairperson and Deputy Chairperson
+
+8. Removal of members and acting members
+
+9. Terms and conditions
+
+10. Disclosure of interests
+
+### Division 3 - Meetings and Procedures
+
+11. Meetings of the Council
+
+12. Council may regulate its procedures
+
+### Division 4 - Consultative Committee and Other Committees
+
+13. Consultative Committee
 
 1
 
@@ -14,55 +50,57 @@ REPUBLIC  OF  VANUATU
 
 [[START OF PAGE 2]]
 
-- Other committees
+14. Other committees
 
 ## PART 3 - LIST AND REGISTER OF COURSES
 
-- List of courses
+15. List of courses
 
-- The register
+16. The register
 
-- Accreditation
+17. Accreditation
 
-- Period of accreditation and renewal
+18. Period of accreditation and renewal
 
-- Council may accredit a course without application
+19. Council may accredit a course without application
 
-- Course provider to notify Council of changes
+20. Course provider to notify Council of changes
 
-- Offence to provide false information about a course
+21. Offence to provide false information about a course
 
-- Appeal rights
+22. Appeal rights
 
 ## PART 4 - FINANCIAL MATTERS
 
-- Funds of the Council
+23. Funds of the Council
 
-- Council to keep proper accounts
+24. Council to keep proper accounts
 
 ## PART 5 - EXECUTIVE OFFICER AND STAFF
 
-- Executive Officer
+25. Executive Officer
 
-- Functions and powers of the Executive Officer
+26. Functions and powers of the Executive Officer
 
-- Terms and conditions
+27. Terms and conditions
 
-- Staff of the Council
+28. Staff of the Council
 
 ## PART 6 - MISCELLANEOUS
 
-- Annual report
+29. Annual report
 
-- Regulations
+30. Regulations
 
-- Commencement
+31. Commencement
 
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+REPUBLIC OF VANUATU
 
 Assent
 
@@ -100,8 +138,6 @@ In this Act, unless the contrary intention appears:
 
 'register' means the register established under section 22.
 
-REPUBLIC  OF  VANUATU
-
 3
 
 [[END OF PAGE 3]]
@@ -114,9 +150,9 @@ REPUBLIC  OF  VANUATU
 
 #### ESTABLISHMENT OF THE VANUATU NATIONAL TRAINING COUNCIL
 
-(1) The Vanuatu National Training Council is established.
+2. (1) The Vanuatu National Training Council is established.
 
-- The Council:
+(2) The Council:
 
 (a) is a body corporate with perpetual succession; and
 
@@ -126,7 +162,7 @@ REPUBLIC  OF  VANUATU
 
 #### FUNCTIONS OF THE COUNCIL
 
-- The Council has the following functions:
+3. The Council has the following functions:
 
 (a) to promote and co-ordinate effective vocational education and training at all levels within the community, and to provide advice to the Minister on the costs and financing of vocational education and training;
 
@@ -160,13 +196,13 @@ REPUBLIC  OF  VANUATU
 
 (m) such other functions as are conferred on it by or under this Act or any other Act;
 
-(n) such  other  functions  as  the  Minister  may  prescribe  by  notice  in  the Gazette .
+(n) such other functions as the Minister may prescribe by notice in the Gazette.
 
 #### POWERS OF THE COUNCIL
 
-(1) The Council has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
+4. (1) The Council has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 
-- Without limiting subsection (1), the powers include the following:
+(2) Without limiting subsection (1), the powers include the following:
 
 (a) to enter into contracts;
 
@@ -176,7 +212,7 @@ REPUBLIC  OF  VANUATU
 
 #### COUNCIL TO HAVE REGARD TO GOVERNMENT POLICY
 
-- In the performance of its functions and in the exercise of its powers, the Council must  have  regard  to  the  policy  of  the  government  in  relation  to  vocational education and training.
+5. In the performance of its functions and in the exercise of its powers, the Council must have regard to the policy of the government in relation to vocational education and training.
 
 ### Division 2 - Membership
 
@@ -188,17 +224,17 @@ REPUBLIC  OF  VANUATU
 
 #### COMPOSITION OF THE COUNCIL
 
-(1) The Council consists of 8 members.
+6. (1) The Council consists of 8 members.
 
-- The members must include:
+(2) The members must include:
 
-(a) a  person  from  the  Ministry  responsible  for  vocational  education  and training; and
+(a) a person from the Ministry responsible for vocational education and training; and
 
 (b) a person from the Ministry responsible for labour; and
 
 (c) a representative of the Vanuatu Chamber of Commerce and Industry; and
 
-(d) a  representative  of  the  non-formal  education  sector  nominated  by  the Vanuatu Rural Development and Training Centers Association; and
+(d) a representative of the non-formal education sector nominated by the Vanuatu Rural Development and Training Centers Association; and
 
 (e) the principal of the Vanuatu National Institute of Technology; and
 
@@ -208,15 +244,15 @@ REPUBLIC  OF  VANUATU
 
 (h) a representative of tertiary institutions in Vanuatu.
 
-- At least 2 members of the Council must be women.
+(3) At least 2 members of the Council must be women.
 
-- The  Minister  is,  in  consultation  with  a  senior  representative  from  his  or  her Ministry, the Commissioner for Labour and the Vanuatu Chamber of Commerce and Industry, to appoint each member.
+(4) The Minister is, in consultation with a senior representative from his or her Ministry, the Commissioner for Labour and the Vanuatu Chamber of Commerce and Industry, to appoint each member.
 
-- A member holds office for 3 years and is eligible for reappointment.
+(5) A member holds office for 3 years and is eligible for reappointment.
 
-- A person may hold office as a member concurrently with any other office.
+(6) A person may hold office as a member concurrently with any other office.
 
-- A person must not be appointed as a member if he or she:
+(7) A person must not be appointed as a member if he or she:
 
 (a) is a member of Parliament or a member of a local authority; or
 
@@ -260,7 +296,7 @@ REPUBLIC  OF  VANUATU
 
 #### TERMS AND CONDITIONS
 
-(1) A member is not to be paid any fees, salary or allowances for being a member of the Council.
+9. (1) A member is not to be paid any fees, salary or allowances for being a member of the Council.
 
 7
 
@@ -268,35 +304,35 @@ REPUBLIC  OF  VANUATU
 
 [[START OF PAGE 8]]
 
-- However,  a    member  must  be  reimbursed  for  all  reasonable  out  of  pocket expenses, including travel costs, incurred by the member in connection with the performance of his or her duties as a member of the Council.
+(2) However, a member must be reimbursed for all reasonable out of pocket expenses, including travel costs, incurred by the member in connection with the performance of his or her duties as a member of the Council.
 
 #### DISCLOSURE OF INTERESTS
 
-- A member who:
+10. A member who:
 
-(a) has  a  personal  business  interest  in  a  matter  under  consideration  by  the Council; or
+(a) has a personal business interest in a matter under consideration by the Council; or
 
 (b) is likely to have a conflict of interest in relation to the matter;
 
-must  disclose  that  interest  to  the  Council  in  accordance  with  section  16  of  the Leadership Code Act No.2 of 1998.
+must disclose that interest to the Council in accordance with section 16 of the Leadership Code Act No.2 of 1998.
 
 ### Division 3 - Meetings and procedures
 
 #### MEETINGS OF THE COUNCIL
 
-(1) The Council must hold such meetings as are necessary for the performance of its functions.
+11. (1) The Council must hold such meetings as are necessary for the performance of its functions.
 
-- At a meeting a quorum consists of 5 members.
+(2) At a meeting a quorum consists of 5 members.
 
-- Questions arising at a meeting are to be determined by a majority of the votes of the members present and voting.
+(3) Questions arising at a meeting are to be determined by a majority of the votes of the members present and voting.
 
-- If  the  voting  at  a  meeting  is  equal,  the  person  presiding  at  the  meeting  has  a casting vote.
+(4) If the voting at a meeting is equal, the person presiding at the meeting has a casting vote.
 
-- A resolution in writing signed by not less than 5 members is valid and effective as if it had been passed at a meeting of the Council.
+(5) A resolution in writing signed by not less than 5 members is valid and effective as if it had been passed at a meeting of the Council.
 
 #### COUNCIL MAY REGULATE ITS PROCEDURES
 
-- Subject to this Act, the Council may determine and regulate its own procedures.
+12. Subject to this Act, the Council may determine and regulate its own procedures.
 
 ### Division 4- Consultative Committee and other committees
 
@@ -308,17 +344,17 @@ must  disclose  that  interest  to  the  Council  in  accordance  with  section 
 
 #### CONSULTATIVE COMMITTEE
 
-(1) The Council must establish a Consultative Committee within 28 days after the commencement of this Act.
+13. (1) The Council must establish a Consultative Committee within 28 days after the commencement of this Act.
 
-- The Consultative Committee is to provide advice to the Council about:
+(2) The Consultative Committee is to provide advice to the Council about:
 
-(a) matters  of  policy  and  strategic  planning  relating  to  vocational  education and training; and
+(a) matters of policy and strategic planning relating to vocational education and training; and
 
 (b) such other matters as the Council may request.
 
-- The Consultative Committee must meet at least 2 times a year and determine its own procedures.
+(3) The Consultative Committee must meet at least 2 times a year and determine its own procedures.
 
-- The Consultative Committee must have one representative from each of the following bodies:
+(4) The Consultative Committee must have one representative from each of the following bodies:
 
 (a) the Ministry responsible for rural business development;
 
@@ -360,15 +396,17 @@ must  disclose  that  interest  to  the  Council  in  accordance  with  section 
 
 (q) any other interested non-government organisations.
 
-- The Consultative Committee must have 2 representatives from the private sector.
+(5) The Consultative Committee must have 2 representatives from the private sector.
 
 #### OTHER COMMITTEES
 
-(1) The Council may  form such other committees as are necessary for the performance of its functions. (2) A committee is to determine its own procedures. A committee may include among its membership persons who are not members of
+14. (1) The Council may form such other committees as are necessary for the performance of its functions.
+
+(2) A committee is to determine its own procedures.
+
+(3) A committee may include among its membership persons who are not members of the Council or the Consultative Committee.
 
 10
-
-- the Council or the Consultative Committee.
 
 [[END OF PAGE 10]]
 
@@ -378,35 +416,35 @@ must  disclose  that  interest  to  the  Council  in  accordance  with  section 
 
 #### LIST OF COURSES
 
-(1) The Council must establish and maintain a list of courses.
+15. (1) The Council must establish and maintain a list of courses.
 
-- The list  may  contain  such  information  about  a  course  as  the  Council  considers appropriate.
+(2) The list may contain such information about a course as the Council considers appropriate.
 
-- The Council must encourage course providers to provide information about their courses to the Council on a regular basis.
+(3) The Council must encourage course providers to provide information about their courses to the Council on a regular basis.
 
 #### THE REGISTER
 
-(1) The Council must establish a register of accredited courses.
+16. (1) The Council must establish a register of accredited courses.
 
-- The register must include such information in relation to each accredited course as the Council determines in writing.
+(2) The register must include such information in relation to each accredited course as the Council determines in writing.
 
-- The Council is responsible for the form and maintenance of the register.
+(3) The Council is responsible for the form and maintenance of the register.
 
-- The Council must remove from the register any course that ceases to be an accredited course.
+(4) The Council must remove from the register any course that ceases to be an accredited course.
 
-- The Council may publish in the Gazette a copy of the register or part of the register.
+(5) The Council may publish in the Gazette a copy of the register or part of the register.
 
 #### ACCREDITATION
 
-(1) A course provider may apply to the Council for accreditation of a course.
+17. (1) A course provider may apply to the Council for accreditation of a course.
 
-- An application for accreditation of a course must:
+(2) An application for accreditation of a course must:
 
 (a) be in writing and in the form specified by the Council; and
 
 (b) be accompanied by the fee prescribed by the regulations.
 
-- In deciding whether to approve an application, the Council must take into account the following matters:
+(3) In deciding whether to approve an application, the Council must take into account the following matters:
 
 (a) the extent to which the course meets the training needs of the Vanuatu community or labour market;
 
@@ -426,25 +464,25 @@ must  disclose  that  interest  to  the  Council  in  accordance  with  section 
 
 (f) any other matter that the Council considers relevant.
 
-- The  Council  must  approve  or  reject  an  application  within  28  days  after  the application is made.  The Council must give written notice of its decision to the applicant within 14 days after making its decision.
+(4) The Council must approve or reject an application within 28 days after the application is made. The Council must give written notice of its decision to the applicant within 14 days after making its decision.
 
-- If  the  Council  approves  an  application,  the  Council  must  enter  details  of  the course on the register within 7 days after the approval is given.
+(5) If the Council approves an application, the Council must enter details of the course on the register within 7 days after the approval is given.
 
 #### PERIOD OF ACCREDITATION AND RENEWAL
 
-(1) The accreditation of a course:
+18. (1) The accreditation of a course:
 
 (a) remains in force for a period of one year or such longer period as the Council specifies in writing; and
 
 (b) subject to subsection (2), may be renewed on payment of the fee prescribed by the regulations.
 
-- The Council must not renew an accreditation unless it is satisfied that the course continues to meet standards acceptable to the Council.
+(2) The Council must not renew an accreditation unless it is satisfied that the course continues to meet standards acceptable to the Council.
 
 #### COUNCIL MAY ACCREDIT A COURSE WITHOUT APPLICATION
 
-(1) The  Council  may,  by  determination  in  writing,  accredit  a  course  without  an application for accreditation being made.
+19. (1) The Council may, by determination in writing, accredit a course without an application for accreditation being made.
 
-- If the Council makes a determination accrediting a particular course, the Council must enter the course on the register as if an application for accreditation of the course had been made and approved.
+(2) If the Council makes a determination accrediting a particular course, the Council must enter the course on the register as if an application for accreditation of the course had been made and approved.
 
 12
 
@@ -454,21 +492,21 @@ must  disclose  that  interest  to  the  Council  in  accordance  with  section 
 
 #### COURSE PROVIDER TO NOTIFY COUNCIL OF CHANGES
 
-(1) The provider of an accredited course must, within one month after any changes are made to the course that might affect its accreditation, inform the Council in writing of the changes.
+20. (1) The provider of an accredited course must, within one month after any changes are made to the course that might affect its accreditation, inform the Council in writing of the changes.
 
-- A  person  who  fails  to  comply  with  subsection  (1)  is  guilty  of  an  offence punishable on conviction by a fine not exceeding 250,000 Vatu.
+(2) A person who fails to comply with subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding 250,000 Vatu.
 
 #### OFFENCE TO PROVIDE FALSE INFORMATION ABOUT A COURSE
 
-- A course provider who provides false or misleading information about a course to the  Council  is  guilty  of  an  offence  punishable  on  conviction  by  a  fine  not exceeding 500,000 Vatu.
+21. A course provider who provides false or misleading information about a course to the Council is guilty of an offence punishable on conviction by a fine not exceeding 500,000 Vatu.
 
 #### APPEAL RIGHTS
 
-(1) If the Council rejects an application for accreditation of a course, the applicant may appeal to the Minister for a review of the decision.
+22. (1) If the Council rejects an application for accreditation of a course, the applicant may appeal to the Minister for a review of the decision.
 
-- The appeal must be in writing and the appellant must lodge the appeal with the Minister within 14 days after receiving notice of the Council's decision under subsection 17(4).
+(2) The appeal must be in writing and the appellant must lodge the appeal with the Minister within 14 days after receiving notice of the Council's decision under subsection 17(4).
 
-- The Minister may confirm, vary or revoke the Council's decision and must give written notice of his or her decision to the appellant.
+(3) The Minister may confirm, vary or revoke the Council's decision and must give written notice of his or her decision to the appellant.
 
 13
 
@@ -476,33 +514,33 @@ must  disclose  that  interest  to  the  Council  in  accordance  with  section 
 
 [[START OF PAGE 14]]
 
+## PART 4 - FINANCIAL MATTERS
+
 #### FUNDS OF THE COUNCIL
 
-(1) The funds of the Council consist of:
+23. (1) The funds of the Council consist of:
 
 (a) money received by way of fees and charges paid to the Council; and
 
 (b) any other money received by the Council from any other sources.
 
-- The Council is to open and maintain such bank accounts as it considers necessary.
+(2) The Council is to open and maintain such bank accounts as it considers necessary.
 
-- The funds of the Council are to be paid to the credit of such of its bank accounts as the Council determines.
+(3) The funds of the Council are to be paid to the credit of such of its bank accounts as the Council determines.
 
-- The funds of the Council are to be applied:
+(4) The funds of the Council are to be applied:
 
-(a) in payment or discharge of the expenses, charges and obligations incurred or  undertaken  by  the  Council  in  the  performance  of  its  functions  or  the exercise of its powers; and
+(a) in payment or discharge of the expenses, charges and obligations incurred or undertaken by the Council in the performance of its functions or the exercise of its powers; and
 
 (b) in payment of any remuneration payable by the Council.
 
-- The Council may invest any money that is not required for the performance of its functions.
+(5) The Council may invest any money that is not required for the performance of its functions.
 
 #### COUNCIL TO KEEP PROPER ACCOUNTS
 
-(1) The  Council  must  keep  proper  accounting  records  in  relation  to  its  financial affairs,  and  must  have  annual  statements  of  account  prepared  for  each  financial year.
+24. (1) The Council must keep proper accounting records in relation to its financial affairs, and must have annual statements of account prepared for each financial year.
 
 (2) The Council's accounts for each financial year must be audited within 3 months after the end of the financial year by the Auditor General or a person authorised by the Auditor General.
-
-## PART 4 - FINANCIAL MATTERS
 
 14
 
@@ -514,19 +552,19 @@ must  disclose  that  interest  to  the  Council  in  accordance  with  section 
 
 #### EXECUTIVE OFFICER
 
-(1) The Council must appoint a person as the Executive Officer of the Council.
+25. (1) The Council must appoint a person as the Executive Officer of the Council.
 
-- The person appointed as the Executive Officer must:
+(2) The person appointed as the Executive Officer must:
 
 (a) be appointed on merit; and
 
 (b) be able to demonstrate relevant experience and competence in vocational education and training matters.
 
-- The Executive Officer is to be appointed for a period of at least 3 years and may be reappointed.
+(3) The Executive Officer is to be appointed for a period of at least 3 years and may be reappointed.
 
 #### FUNCTIONS AND POWERS OF THE EXECUTIVE OFFICER
 
-- The Executive Officer has the following functions:
+26. The Executive Officer has the following functions:
 
 (a) to manage the continuing development of the Vanuatu national training structure;
 
@@ -534,13 +572,13 @@ must  disclose  that  interest  to  the  Council  in  accordance  with  section 
 
 (c) to promote and market the Council;
 
-(d) to  prepare  high  quality  reports  to  assist  the  Council  in  undertaking  its functions;
+(d) to prepare high quality reports to assist the Council in undertaking its functions;
 
 (e) such other functions as are specified by the Council.
 
 #### TERMS AND CONDITIONS
 
-- The  Council  must  determine  the  terms  and  conditions  of  appointment  of  the Executive Officer not provided for by this Act.
+27. The Council must determine the terms and conditions of appointment of the Executive Officer not provided for by this Act.
 
 15
 
@@ -568,9 +606,11 @@ must  disclose  that  interest  to  the  Council  in  accordance  with  section 
 
 [[START OF PAGE 17]]
 
+## PART 6 - MISCELLANEOUS
+
 #### ANNUAL REPORT
 
-29. (1) The  Council  must,  within  90  days  after  the  end  of  each  financial  year  of  the Council, give a report to the Minister relating to the operations of the Council for that year.
+29. (1) The Council must, within 90 days after the end of each financial year of the Council, give a report to the Minister relating to the operations of the Council for that year.
 
 (2) The Minister must table a copy of the report in the Parliament within 14 sitting days of the Parliament after receiving the report.
 
@@ -586,9 +626,7 @@ must  disclose  that  interest  to  the  Council  in  accordance  with  section 
 
 #### COMMENCEMENT
 
-31 . This Act commences on the day on which it is published in the Gazette .
-
-## PART 6 - MISCELLANEOUS
+31. This Act commences on the day on which it is published in the Gazette.
 
 17
 
