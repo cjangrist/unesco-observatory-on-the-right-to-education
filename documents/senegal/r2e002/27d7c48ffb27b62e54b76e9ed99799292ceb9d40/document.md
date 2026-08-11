@@ -4,13 +4,22 @@
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE DU SENEGAL
 
+REPUBLIQUE DU SENEGAL
+PRIMATURE
+SECRETARIAT GENERAL DU GOUVERNEMENT
+JOURNAL OFFICIEL
+AVERTISSEMENT
+ABONNEMENT
+FAQ
+AIDE
+
 >> ACCUEIL | J.O. N° 6207 du Samedi 19 Février 2005
 
 IMPRIMER  |   PRECEDENT
 
 # DECRET n° 2005-30 du 10 janvier 2005
 
-DECRET n° 2005-30 du 10 janvier 2005 modifiant et complétant l'alinéa 2 de l'article 3 du décret n° 98-563 du 26 juin 1998 fixant les conditions et les titres exigibles des directeurs et du personnel enseignant d' établissements privés du cycle fondamental et du cycle secondaire et professionnel
+DECRET n° 2005-30 du 10 janvier 2005 modifiant et complétant l'alinéa 2 de l'article 3 du décret n° 98-563 du 26 juin 1998 fixant les conditions et les titres exigibles des directeurs et du personnel enseignant d'établissements privés du cycle fondamental et du cycle secondaire et professionnel
 
 Le Président de la République,
 
@@ -36,7 +45,7 @@ Sur le rapport du Ministre de l'Education,
 
 Decrete :
 
-## Article premier.
+## Article premier. -
 Les dispositions de l'article 3 alinéa 2 du décret n° 98-563 du 26 juin 1998 fixant les conditions et les titres exigibles des directeurs et du personnel enseignant des établissements du cycle fondamental et du cycle secondaire et professionnel sont modifiées et complétées comme suit :
 
 « Article. 3. - alinéa 2 : Le dossier de demande d'autorisation d'enseigner ou d'exercer est déposé par voie administrative entre le 15 juillet et le 15 septembre de chaque année.
@@ -47,7 +56,7 @@ Toutefois les dossiers concernant ce personnel doivent être déposés avant la 
 
 Aucune autorisation d'enseigner ne peut être accordée aux personnes occupant un emploi rémunéré ou percevant des subsides de l'Etat ».
 
-## Art. 2.
+## Art. 2. -
 Le Ministre d'Etat, Ministre des Sports, le Ministre d'Etat, Ministre de l'Economie maritime, le Ministre d'Etat, Ministre de l'Agriculture et de l'hydraulique, le Ministre de l'Education, le Ministre de l'Education,  le  Ministre  du  Tourisme  et  des  Transports  aériens,  le  Ministre  de  la  Santé  et  de  la Prévention médicale, le Ministre de la Culture et du Patrimoine historique classé, le Ministre de la Jeunesse,  le  Ministre  de  l'Elevage  sont  chargés,  chacun  en  ce  qui  le  concerne,  de  l'exécution  du présent décret qui sera publié au Journal officiel.
 
 Fait à Dakar, le 10 janvier 2005.
@@ -59,8 +68,6 @@ Fait à Dakar, le 10 janvier 2005.
 - Le Premier Ministre,
 
 - Macky SALL.
-
-© Copyrights Gouvernement du Sénégal - Crédits et Mentions légales - Contact
 
 OK
 
@@ -105,6 +112,10 @@ Tous les Jo
 - UEMOA
 
 - CEDEAO
+
+haut
+
+© Copyrights Gouvernement du Sénégal - Crédits et Mentions légales - Contact
 
 www.jo.gouv.sn/spip.php?article2853
 
