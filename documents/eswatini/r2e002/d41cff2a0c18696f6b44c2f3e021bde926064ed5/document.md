@@ -1,349 +1,354 @@
 [[START OF PAGE 1]]
 
-S"VAZILAND
+SWAZILAND
 
-GOVERNlVlENT GAZETTE
+GOVERNMENT GAZETTE
 
 EXTRAORDINARY
 
-VOL,  XLVIII]
-
-MBAB,t..NE,  Wedn!sday  FEBRUARY 24'\ 20 1 0
+VOL. XLVIII] MBABANE, Wednesday FEBRUARY 24th, 2010 [No. 17
 
 # CONTENTS
 
-[No, 17
+No.                                                                 Page
 
-... . ,I
+PART B - ACT
 
-l'l' OLlSHED B\ · \ l THO HITY
+1. The Free Primary Education Notice, 2010 .................................................. S1
+
+PUBLISHED BY AUTHORITY
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Section
-
-- Short title and commence.Jnent
-
-"'l Interpretalion
-
-- Enrolmei1t offorcign rupil~
-
-- C:!nain foreign pupils may enrol at public primary s::::hoQJs  as olright
-
-~.  F~e $ for for~igil pupi~::
-
-- i J. (l ~r:': !1C~S
-
-SI
-
-# THE FR~E ?RIM.".RY  EDUC.,o,TIOh ACT, 2010
-
-(Act 1'0. I ono I  0)
-
-## AN  ACT ENTITLED
-
-AN  ACT to provide ror the:  implementation ofrne right to Pre'! Primary Education at public schools.  and  for mat[e~s incidental thereto.
-
-ENACTE.D  by the  King and  Parliament of $waziland.
-
-## ARRANGEMENT  OF  SC:CTlONS
-
-I  ASSENT
-
-MSWHlfil King ofSwaziland
-
-·22 00d F  :bruary,  20 J 0
+S1
 
 PART B
+
+# THE FREE PRIMARY EDUCATION ACT, 2010
+
+(Act No. 1 of 2010)
+
+I ASSENT
+
+MSWATI III
+King of Swaziland
+
+22nd February, 2010
+
+## AN ACT ENTITLED
+
+AN ACT to provide for the implementation of the right to Free Primary Education at public schools, and for matters incidental thereto.
+
+ENACTED by the King and Parliament of Swaziland.
+
+## ARRANGEMENT OF SECTIONS
+
+Section
+
+1. Short title and commencement
+
+2. Interpretation
+
+3. Right to Free Primary Education
+
+4. Enrolment of foreign pupils
+
+5. Certain foreign pupils may enrol at public primary schools as of right
+
+6. Fees for foreign pupils
+
+7. Minister may exempt certain foreign pupils from payment of fees.
+
+8. Responsibilities of the State
+
+9. Duties of a parent and pupil
+
+10. Offences
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-52
+S2
 
-- Valid :::XCUS~5 from  anendanc!
+11. Valid excuses from attendance
 
-- J 2. School fe~s lOp  up
+12. School fees top up
 
-?ubiic primary schooi audi;
+13. Public primary school audit
 
-- Transitional  provisions
+14. Transitional provisions
 
-- Regulations
+15. Regulations
 
 SCHEDULE
 
-## .'\N  ACT ENTITLED
+## AN ACT ENTITLED
 
-- AN  ACT  to provide for the impiememation orthe right to  free  primary education a:  pubHc schools and to provide for matt~rs incidental  thereto.
+AN ACT to provide for the implementation of the right to free primary education at public schools and to provide for matters incidental thereto.
 
-ENACTED  by the King and the Parliament ofSwaziland.
+ENACTED by the King and the Parliament of Swaziland.
 
-## Short title and date of  commencement
+## Short title and date of commencement
 
-- This Act shall be ci[ed as the Free Primary Education Ac!., :W I  0 and  shall  be deemed tc· hJ.\': come into force on  the  J U January,  2009.
+1. This Act shall be cited as the Free Primary Education Act, 2010 and shall be deemed to have come into force on the 1st January, 2009.
 
 ## Interpretation
 
-- In  this Act,  unless the context otherwise requires·
+2. In this Act, unless the context otherwise requires -
 
-"Comminee"  means  a School  Committtee established  under  section  13  of the  Education  Ac:, 19&1;
+“Committee” means a School Committee established under section 13 of the Education Act, 1981;
 
-"Chier m~s the chief or  his representative, or the authoriz~ community le3de,:
+“Chief” means the chief or his representative, or the authorized community leader;
 
-"Constitution" means the Constitution of the  Kingdom of S\\'aziland Acl 2005:
+“Constitution” means the Constitution of the Kingdom of Swaziland Act, 2005;
 
-"exempt foreign  pupil"  rn:ans a pupil who  is  for  the  time being exempt under 5~c~ion ;:
+“exempt foreign pupil” means a pupil who is for the time being exempt under section 7;
 
-"fre~ cduc:uion'" mcaJlS th~ education oia Swazi child at primary Ic\'d a':1 pubiic ~h(loJl wi lil0U: lhe par:::nl of  {he child or ~h: child ha\'ing to pay tuition  (ees (0; thai ~,jucatilln:
+“free education” means the education of a Swazi child at primary level at a public school without the parent of the child or the child having to pay tuition fees for that education;
 
-"foieign pupil" at  any time, m~an3 a p:.!rson  who  is  not then  a do.n~;::tic pupil:
+“foreign pupil” at any time, means a person who is not then a domestic pupil;
 
-"head teacher'" me3!lS a h~3d oia public primary schoo!:
+“head teacher” means a head of a public primary school;
 
-"pli::m" i:l rd~;i(lr. !O ~:1Y chii.:L  :n:::J.P.5  :my j):.!iS('In wh;":5 J:ting ;:1 pbc! 0; a par::-:;, O i \d)("\ :.,!~ cu!' , (\dy .:-ol":h ..  "  ch il:i lr..j i~  nato~e to !r.J.l11:ain th~ chi!":;
+“Minister” means the Minister responsible for education;
+
+“parent” in relation to any child, means any person who is acting in place of a parent or who has custody of the child and is liable to maintain the child;
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-SJ
+S3
 
-"p:-imary education"  means formal education in wh Ich  instructi'Ji'L  is given  fr::>m  G,ade  I up to  and inciuding G;ade 7;
+“primary education” means formal education in which instruction is given from Grade 1 up to and including Grade 7;
 
-"primary school"  means a school or a department ofa school which provides primary ~ducatiOi1;
+“primary school” means a school or a department of a school which provides primary education;
 
-"public  school" means a school which  :5  maintained  with  public funds  to  the  extenl of at  least 51 % of its ne!.:ds;
+“public school” means a school which is maintained with public funds to the extent of at least 51% of its needs;
 
-"pupil" in  relation to th: primary school means a person enrolled and receiving instruction at the school;
+“pupil” in relation to the primary school means a person enrolled and receiving instruction at the school;
 
-"special education"  means education or help from  a special school or other like institution;
+“special education” means education or help from a special school or other like institution;
 
-"S\.\'azi child"  means  i3  chiid  who  is  a  citizen  of Swaziland  or who  qualifies  to  be a citizen  of Swaziland  or whose  education  is  wholly  or  mainly  paid  for by a citizen  of $waziland  and  is enrolled at a public primary school.
+“Swazi child” means a child who is a citizen of Swaziland or who qualifies to be a citizen of Swaziland or whose education is wholly or mainly paid for by a citizen of Swaziland and is enrolled at a public primary school.
 
-## Right lo free primary' education
+## Right to free primary education
 
-(I)  Except as  provided in  this Act every Swazi child  enrolled at a public primai)' school  is entitled to free !oucation at that pubiic  primary school beginning with g;ade  I up to and including Grade 7.
+3. (1) Except as provided in this Act every Swazi child enrolled at a public primary school is entitled to free education at that public primary school beginning with grade 1 up to and including Grade 7.
 
-- For the avoidance of doubt, a Swazi child enrolled at a public primary school shaH not be: di5missed or excluded frOill school on  the ground only ~hal the o\'~;nm!:ni has nm paid [he  fees due.
+(2) For the avoidance of doubt, a Swazi child enrolled at a public primary school shall not be dismissed or excluded from school on the ground only that the Government has not paid the fees due.
 
-## Enrolmel1t of  fore;gll pupHs
+## Enrolment of foreign pupils
 
-(I)  Subject to section 5(3)  .·  foreign  pupil shall be enrolled-
+4. (1) Subject to section 5(3), a foreign pupil shall be enrolled -
 
-(a) at  a public school  with  prior consent of the  Committee; and
+(a) at a public school with prior consent of the Committee; and
 
-(b)  in sp:!::a! :!ducation wirh  rh:! consent of  the Committee administering the irmitutioJ~,
+(b) in special education with the consent of the Committee administering the institution.
 
-(~)  Subj~ct (0 this , ,,,"cl, onc~ ~nrolled at  a  public prima;;.' school  or in  special  educarion  a foreign  pupil has  th:! same rights to  remain enrolled anc to  insrr<Jccion. at the. school ::5 J  domestk pupil.
+(2) Subject to this Act, once enrolled at a public primary school or in special education a foreign pupil has the same rights to remain enrolled and to instruction, at the school as a domestic pupil.
 
-,..\.  foreign  pupil snail  not  be  enrolled  at:1  public  schoo!  iirh: pupil's ~nrolrneni h:'.S the eff~ct that  a  Swa:!:i  child  or  exempt  pupil  \\'ho  is  :!millcd  10  enrol  there ~nd ha~ :tpp!itd  fa. earQlmem is ~O, able!o b: :!nrolled,
+(3) A foreign pupil shall not be enrolled at a public school if the pupil's enrolment has the effect that a Swazi child or exempt pupil who is entitled to enrol there and has applied for enrolment is not able to be enrolled.
 
-(-!) Nmv.'itr,standing that  S\\'a.::.i children and ex::.mpl  pupil  1n:l.)' not b~ able  [0 b~ :::nrolld,  3. foreign pupi~ :nay be  :nro;led al  2:  publ:c  5chool.  Oi  in  any  5ubj:!ct. ':l)uf~~, or ?,"gr~mm! 3: ~ pubiic school.  ilthe er.roim~m i~ in  a \,aCfl:1[ p!ace-
+(4) Notwithstanding that Swazi children and exempt pupil may not be able to be enrolled, a foreign pupil may be enrolled at a public school, or in any subject, course, or programme at a public school, if the enrolment is in a vacant place -
 
-- la) lha: tn~ C::l!M1iite~ !5taoij~,hed fer  for;:ign  pupils:  and
+(a) that the Committee established for foreign pupils; and
 
-,0\ who::'! ~on; inu::s :!':Jii::biiiiY is ~:;:p~·nd!m ')11 !h~'  i~::j pcY:loi: by fpr::i~il ~'u?i!s eilr(I;!eJ  in i~,
+(b) whose continued availability is dependent on the fees payable by foreign pupils enrolled in it.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-.~.s soon as  is  pra:ticabJe afte~ a for::ign  pupil  is ~nroll:.:d ai a p'Jbiic  school , the principal shall give the  Committe:::  written notice of·
+S4
 
-{he pupil 's roam::, age, and nationa!iry; and
+(5) As soon as is practicable after a foreign pupil is enrolled at a public school, the principal shall give the Committee written notice of -
 
-(b)  the  day on which the pupil  began (or wil!  begin.! to receive instruclion at  the  school.
+(a) the pupil's name, age, and nationality; and
 
-## Cenain foreign pupils ma)' ertrol a( public prima,), schools as of  right
+(b) the day on which the pupil began (or will begin) to receive instruction at the school.
 
-(I)  Tne  Minister  may from  time  to time, by notice  in  the Gazene, d:::clare  foreign  pupi!s of a specified  kind  or description to  be  entitled to  enrol at public prima!"y schools.
+## Certain foreign pupils may enrol at public primary schools as of right
 
-- The notice referred [0 in  subsection (I),  may be unconditional, or subject to  conditions specified in  it.
+5. (1) The Minister may from time to time, by notice in the Gazette, declare foreign pupils of a specified kind or description to be entitled to enrol at public primary schools.
 
-- Subject to·
+(2) The notice referred to in subsection (1), may be unconditional, or subject to conditions specified in it.
 
-(a)  the conditions (ifar.y) specified  in  the notice; and
+(3) Subject to -
 
-(b) section6.
+(a) the conditions (if any) specified in the notice; and
 
-- a foreign  pupil ofa kind or description fOi the rime being specified in the notice und::r subsectioll (J) has the same rights to enrolment and instruction at public schools as  a domestic pupil.
+(b) section 6,
 
-## Fees/or foreign pupils
+a foreign pupil of a kind or description for the time being specified in the notice under subsection (1) has the same rights to enrolment and instruction at public schools as a domestic pupil.
 
-(1)  The  fees  for  a  foreign  pupil  at  a  public  primar),  school  shall  be  determined  by  the Minister after consultation  with  the following ~
+## Fees for foreign pupils
 
-(a)  the  head  t"!:<lcher  and  the Committee of  that public primary s~hool; and
+6. (1) The fees for a foreign pupil at a public primary school shall be determined by the Minister after consultation with the following -
 
-(b)  Cabinet.
+(a) the head teacher and the Committee of that public primary school; and
 
-[n determining the fees  for a foreign pupil, the Minister shall have regarrltc. th:: vi~ws of Commit1ee on  an  appropria!e  fee  structure.
+(b) Cabinet.
 
-"'"here a foreign  pupil  has rec.eived  instruction  in  a subject.  course,  Oj prog;amm~ a: <! pubiic s:hool without paying the full amount required by subsection (I) in resp'!C'  oi the sub.i:c::. course,  or  programme.  the  Minister  may,  in  any  Court  of c.ompetent juriSdiction, r~co\'e:th~ unde:rpayment from  the  pupil (or.  as  the case requires, a parent oftb! pupil).  !s a debt  due  lO ih ~ /\'Iinister.
+(2) In determining the fees for a foreign pupil, the Minister shall have regard to the views of Committee on an appropriate fee structure.
 
-## Millisrcr nt/~I' cl.:c.mp' certain f(lreign pllpi!s  from payment (I/fecs
+(3) Where a foreign pupil has received instruction in a subject, course, or programme at a public school without paying the full amount required by subsection (1) in respect of the subject, course, or programme, the Minister may, in any Court of competent jurisdiction, recover the underpayment from the pupil (or, as the case requires, a parent of the pupil), as a debt due to the Minister.
 
-,. The ~-rinisl~r may,  by  nmice  in  the  Gazene.  exempt for~ign 1='Il!pils (If <: pa.niccla  .. bnd (1 j d~s:rij)Iion from  the pa)'m~n~ of all or a 5;J!cilic:d prCl!'o:tio:. o~ aiilal!nt (If ill: :!:1lClUn' :~'1;,; i :;! d by 5~~ti\'m 6 to  be  pitid  a:lc.  that s=c~ion ::h.:lll ha\·~ d'f:!ct lccordingiy.
+## Minister may exempt certain foreign pupils from payment of fees
+
+7. The Minister may, by notice in the Gazette, exempt foreign pupils of a particular kind or description from the payment of all or a specified proportion or amount of the amount required by section 6 to be paid and, that section shall have effect accordingly.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-ss
+S5
 
-## Respollsibificies nJfhe Governm(!Ilf
+## Responsibilities of the Government
 
-(I)  Subjec:  to  subs:X.tion  (2),  ior  the  pu;-pose:s  of implem~nting the  right  to  free  primary educaLion, the govemm~nt shall pay 10  each  pubiic primary school. tne  monies specified in th~ Schedule.
+8. (1) Subject to subsection (2), for the purposes of implementing the right to free primary education, the government shall pay to each public primary school, the monies specified in the Schedule.
 
-- The monies referred to  in  subsec.ion (I), shall bc paid by the Governmen! [Q the s:nool account  duly  notified  by  the  principal,  at  the  beginning  of term  one  and  term  twO  after  the principal  has  submitted  to  thl!  Minister [ne number of PUpt!s  entolled a~ the  public  prirr.a!")' school  for  that term and  entitled to  free  primary educa.ion.
+(2) The monies referred to in subsection (1), shall be paid by the Government to the school account duly notified by the principal, at the beginning of term one and term two after the principal has submitted to the Minister the number of pupils enrolled at the public primary school for that term and entitled to free primary education.
 
-- Where a pupil  fails a grade at least two times :onsecu!ively, the Government shall  not be responsible for the fees for that pupil [0 repeat the grade again except in  exceptional circum.stanc:s 10  be  determined  by  the  Committ.:e.
+(3) Where a pupil fails a grade at least two times consecutively, the Government shall not be responsible for the fees for that pupil to repeat the grade again except in exceptional circumstances to be determined by the Committee.
 
-- For the removal of  doubt, any support staff  employed by a public primary school arc  not public officers as ddined under the Constitution.
+(4) For the removal of doubt, any support staff employed by a public primary school are not public officers as defined under the Constitution.
 
-- For the purposes of  this Act, "suppon staff" includes a secrerary. a driver, a cook, a night watchman, a grounds man or any other non~teaching s:aff.
+(5) For the purposes of this Act, “support staff” includes a secretary, a driver, a cook, a night watchman, a grounds man or any other non-teaching staff.
 
-- The Minister may  with the  approval  of  Cabinet,  amend  the Schedule.
+(6) The Minister may with the approval of Cabinet, amend the Schedule.
 
-## Duties of a parent alld  pupil
+## Duties of a parent and pupil
 
-(I)  E\.·cry par~nt shall  infonn the  head  teacher in  writing of  any m:!di::al Of othei condition p~=uliar to his child.
+9. (1) Every parent shall inform the head teacher in writing of any medical or other condition peculiar to his child.
 
-(a)  on  admission of the child at a public pdmary school; or
+(a) on admission of the child at a public primary school; or
 
-- Cb)  as  soon as the parent becomes aware afsuch medical or othCi condition.
+(b) as soon as the parent becomes aware of such medical or other condition.
 
-- It  is  the duty oflhc: par~nt ofev:r), child ta whom this Act applies to cause the child  lO receive education by regular attendance ai  a public primary school.
+(2) It is the duty of the parent of every child to whom this Act applies to cause the child to receive education by regular attendance at a public primary school.
 
-- t3) [t is the dUly oflhe parent of ~very child to  wbom tbisAct applies to ensUi~ tha, the chiid observes the standards approved by  rh'! Commin'!c or lhe  head  teacher as  thc case mJY  b::.  with respect  to  ani  re.
+(3) It is the duty of the parent of every child to whom this Act applies to ensure that the child observes the standards approved by the Committee or the head teacher as the case may be, with respect to attire.
 
-- It is  the  dUiyofthe parent afevery chiid to whom tnisAcl applies 10 :r.sure tha: the child has  the means where n!ce:ssary to  g!t to  and  from  a pubiic primary ::;.:::hool.
+(4) It is the duty of the parent of every child to whom this Act applies to ensure that the child has the means where necessary to get to and from a public primary school.
 
-- Ev::!;y  pupil  enrolled  in  a public primary SChO<.ll  has thl!  f! spor.sib:ii:y 10  .
+(5) Every pupil enrolled in a public primary school has the responsibility to -
 
-- obser\'e ~h! code ofconducr and oth~r ru!:s lnd poiiei::; ofth: school:
+(a) observe the code of conduct and other rules and policies of the school;
 
-(b)  attend d;~sses i::gulady and  puncnlally:
+(b) attend classes regularly and punctually;
+
+(c) participate in the educational programmes in which the pupil is enrolled;
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-so
+S6
 
-· ·
+(d) be diligent in pursuing the prescribed curriculum; and
 
-(d) D~  d~iigent in pursuing the pj'::scrib~d curriculum: and
+(e) observe standards approved by the Committee or the head teacher as the case may be, with respect to -
 
-- I ! ) observe  standards approved by th: Commiu~ or [he  head leach~r as  (he cas! ma\ be,  with  respect [0  . .
+(i) cleanliness and tidiness of the pupil;
 
-- cieanliness and  tidiness afch: pupil;
+(ii) attire;
 
-(ii)  anir:;
+(iii) courtesy; and
 
-(iii)counesy; and
+(iv) respect of the rights of other persons.
 
-(iv)respect of the rights of other persons.
+(6) Every pupil in a public primary school shall take good care of any school property placed at the pupil's disposal and where such property is to be returned, the property shall be returned in good condition on a day and time determined by the head teacher.
 
-- Every pupil  in a public primary school shall take good  care of  any school proper!y p:aced at  the  pupil 's  disposal  and  v,there  such  property is  to  be retumed,  the pr"Operty shall  be returned in  good condition on  a day and 'time determined by the head teacher.
+(7) If a pupil fails to comply with subsection (6), the Committee may claim the value of the property from the parents of the pupil.
 
-- If a  pupil  fails to  comply with  subsection (6), the Corrunitte.e may claim  the  value of  the property from  the  parents  of the  pupil.
+(8) If the property of a public primary school is destroyed, damaged, lost, or converted by the intentional or negligent act of a pupil, the pupil and the pupil's parents are liable in respect of the act of the pupil.
 
-- lf the propert), of  a  public primary school  is  destroyed,  damaged, lost, or convened by the intentional or negligent act ofa pupil, the pupil and the pupil's  parents are liable in  respect of the act of the  pupil.
-
-- If the  prop:rt)' of a public primary school  is  destroyed,  damaged,  lost,  or converted  by the intentional or negl igent act of  two or more pupils acting together, the pupils and  lheir parents are jointly and severally liable  in  respect ofthe ac~ ofth: pupils.
+(9) If the property of a public primary school is destroyed, damaged, lost, or converted by the intentional or negligent act of two or more pupils acting together, the pupils and their parents are jointly and severally liable in respect of the act of the pupils.
 
 ## Offences
 
-(1)  A parent of a child to  whom  this Act  applies. \.vha neglects or refuses to  cauS! the child to attend school, unless the child is excllsed under section 11, commits an offence and is liable on con\'iction to  a  fine  not exceeding El ,000 or  in  default of which,  la  three  months  communir:, services.
+10. (1) A parent of a child to whom this Act applies, who neglects or refuses to cause the child to attend school, unless the child is excused under section 11, commits an offence and is liable on conviction to a fine not exceeding E1,000 or in default of which, to three months community services.
 
-\\rner: a parent is cOllvict~d under subsection (I), the Chiefshall. til'!reafl!,  take ovt:. :lna ensure that the child  in question artends school.
+(2) Where a parent is convicted under subsection (1), the Chief shall, thereafter take over and ensure that the child in question attends school.
 
-- A  citizen  of Sv.'aziiand wbo  falsely  misrepre!'enrs a foreign  pupil  to  b::: ~ Sv,:azi  child commits an offence and is liable, on conviction to a fin~ not exceeding 25000 Oi to im::'iisonment for a peiiod not exceeding six mOnlhs or to both.
+(3) A citizen of Swaziland who falsely misrepresents a foreign pupil to be a Swazi child commits an offence and is liable, on conviction to a fine not exceeding E5000 or to imprisonment for a period not exceeding six months or to both.
 
-## Valid f!-J;Cuscs/or lIOIl attendance
+## Valid excuses for non attendance
 
-- A pupil  is excL!sed  from  sci1oo1  attendan..:c jf·
+11. A pupil is excused from school attendance if -
 
-:.a) the pupil  is !!ilable t(l3.t\~nd bCC~U5,! iiilln!:s5"  d:l.Ilgcr  of!nr-:c!!on.  infmn!0 . suJc:n 01  ::;erious illi1~sS 0f~3.;·!11l 0:"  Olh:!r i·~b.t:': .:aus;?;:
+(a) the pupil is unable to attend because illness, danger of infection, infirmity, sudden or serious illness of parent or other related cause;
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-Si
+S7
 
-(b) th~ pupil  is  suffering from  a phjlsicaJ or  mental  disability that  in th~ opinion  of a registered medica!  practitioner, mak! th~ pupil incapabie ofbe-iog :duC(!ted by ordinary methods of instruction;
+(b) the pupil is suffering from a physical or mental disability that in the opinion of a registered medical practitioner, make the pupil incapable of being educated by ordinary methods of instruction;
 
-(cj  the pupil is granted p~rmission bey the head teacher 10 oe tempo;arily ~b5e;tt for  good and sufficient reasor.s;
+(c) the pupil is granted permission by the head teacher to be temporarily absent for good and sufficient reasons;
 
-(d)  the  pupil  has  been  sl.!spe!ld:;:d  rrom  rhe s::nool and  no!  giv!r:  permission  iD  enrol!  at another school;
+(d) the pupil has been suspended from the school and not given permission to enroll at another school;
 
-(e)  for anyothe.r re2:SO!l  which in  ihe opinion oflhe h~d leacher is a good and 5ufiicicnt reason.
+(e) for any other reason which in the opinion of the head teacher is a good and sufficient reason.
 
-## School  rees lOp lip
+## School fees top up
 
-12. (I)  A Committee ofa public primary school  intending to ask parents la top  up  school  fees over and above the fees paid to the school by the Govenm:nt shall submit a wrinen request. with justification to  the Minister for his  approval  before  implementing such  top  up.
+12. (1) A Committee of a public primary school intending to ask parents to top up school fees over and above the fees paid to the school by the Government shall submit a written request, with justification to the Minister for his approval before implementing such top up.
 
-- The  Committee  shall  only  implement  the top  up  referred  to  in  subsection (Ij after  ii: receives the approval of the Minister, in  writing.
+(2) The Committee shall only implement the top up referred to in subsection (1) after it receives the approval of the Minister, in writing.
 
-## Public Primary SchovlAIldil
+## Public Primary School Audit
 
-(I) For[h~ removal ordoubt, public piimary schoolssh311 be audited in likemann:r as other government institutions by the office of the Auditor General.
+13. (1) For the removal of doubt, public primary schools shall be audited in like manner as other government institutions by the office of the Auditor General.
 
-- Where  the Auditor General  is  unable 10 audit a  public  primary school  in  lerms  of subsection (I), he shall appoint a public or private auditor to conduct the audit on  his behalf and the provisions of the Audit Act, 2005 shall apply during such  audit.
+(2) Where the Auditor General is unable to audit a public primary school in terms of subsection (1), he shall appoint a public or private auditor to conduct the audit on his behalf and the provisions of the Audit Act, 2005 shall apply during such audit.
 
-## Tmasitiollal provisions
+## Transitional provisions
 
-!  4.  (I) The O\'~::1lr;:::H shall  progressively im?iemem  the  iighi  10 fr~~ t)iimary  education :H public prima:")'  .;:chools be£inniil£ initltially with gmde5 one and two in  the s~hoo! y!ar 201 0 and 5ubs~quei\tly grades lhiee ((l s~,\':n 50 as  to  ensure  the successful  impiememation Oflh: righ: 2nd \0  minimise disruptions to  the ro!l-oul proc~ss of the fr~~ education.
+14. (1) The Government shall progressively implement the right to free primary education at public primary schools beginning initially with grades one and two in the school year 2010 and subsequently grades three to seven so as to ensure the successful implementation of the right and to minimise disruptions to the roll-out process of the free education.
 
-- The Govemmeni is inder.mitied from any iiabiiity jesultiilgoi ariSing. from any failu;~ to·
+(2) The Government is indemnified from any liability resulting or arising from any failure to -
 
-(il) commence 10 !mplcmzm [h~ right lO  iree prima:}' education at public primary 5chocd3 ciuiing the s~h(1o J  y:ar :!009;
+(a) commence to implement the right to free primary education at public primary schools during the school year 2009;
 
-(b)  to  roll-,··U(  the fr~:' :dUCl!it1~ {o; an Giad:s u;:- to ;Jd~ 7 on comm::ncem::Jl{ of &.:5 Act.
-
-"
+(b) to roll-out the free education for all Grades up to Grade 7 on commencement of this Act.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-ss
-
-,
-
-'
+S8
 
 ## Regulations
 
-15.  Toe Minister may make regulations pr~scribing anyo:hing  und'!r this Act which  is  necessarv or convenient to  be prescribed  for the  bene; carrying out of the objects and purpO.ie of  this Ac~, or 10 give  force and  effec[ 10 its  provisions.
+15. The Minister may make regulations prescribing anything under this Act which is necessary or convenient to be prescribed for the better carrying out of the objects and purpose of this Act, or to give force and effect to its provisions.
 
 ## SCHEDULE
 
-(Under Section S)
+(Under Section 8)
 
-### FEE STRUCTU/G  FOR FREE PRIMAR\'EDUCATION (PER CHILD) (? '" '1 )
+### FEE STRUCTURE FOR FREE PRIMARY EDUCATION
 
-Expenditure elements | 1 Grade I | Grade 2 | Grade 3 | Grade 4 | 1 Grade 61 | Grade 7
+(PER CHILD) (2009)
+
+Expenditure elements | Grade 1 | Grade 2 | Grade 3 | Grade 4 | Grade 5 | Grade 6 | Grade 7
 --- | --- | --- | --- | --- | --- | --- | ---
-School fees | I so | 80 | 80 | , 80 | , 80 | I 80 | 80
-Sdl001 feeding | 1150 | 150 | I 150 | 1 150 | 1 r;o 1 | 150
-Wages: night watchman, cook, secretary ete | 150 | 150 | 150 | 150 | 150 | 150
-Services I utiiitits: ~~, electricity, telephone | 60 | 60 | 60 | 60 | 60 | 60 | 60
-Maintenance | I 80 | 80 | 80 | 80 | 80 | SO 1 | 80
-Bank charges | I ! 5 I | 15 | 15 | 15 | !5 | 15 I | 1 ;
-Examination fee | 0 | o | o | o | o | Q I | 340
-Home e~(lnOmiC5 fees | o | o | o | o | 30 | ;0 | 70
-Agricu Jtur~ fee | o | o | o | 30 | 40
-Practical ans G)-GS | I 1 o | o | ~o | o | o
-
-·
-
-I
+School fees | 80 | 80 | 80 | 80 | 80 | 80 | 80
+School feeding | 150 | 150 | 150 | 150 | 150 | 150 | 150
+Wages: night watchman, cook, secretary etc | 150 | 150 | 150 | 150 | 150 | 150 | 150
+Services / utilities: Water, electricity, telephone | 60 | 60 | 60 | 60 | 60 | 60 | 60
+Maintenance | 80 | 80 | 80 | 80 | 80 | 80 | 80
+Bank charges | 15 | 15 | 15 | 15 | 15 | 15 | 15
+Examination fee | 0 | 0 | 0 | 0 | 0 | 0 | 340
+Home economics fees | 0 | 0 | 0 | 0 | 30 | 70 | 70
+Agriculture fee | 0 | 0 | 0 | 0 | 30 | 40 | 40
+Practical arts G3-G5 | 0 | 0 | 20 | 20 | 20 | 0 | 0
 
 [[END OF PAGE 9]]
 
@@ -351,12 +356,9 @@ I
 
 S9
 
-,
+Sports fee | 25 | 25 | 25 | 25 | 25 | 25 | 25
+Total fees (at current prices-excludes building Fund) | E.560 | E.560 | E.580 | E.580 | E.640 | E.670 | E.1010
 
-I
-
-Spans fee | ?- -) | 25 | 25 | 25 | I 25 | 25 | I ~5
---- | --- | --- | --- | --- | --- | --- | ---
-Total fees (a. current prices- excludes building Fund) | 1':.560 | E.560 | E.580 | f.580 | r | £.670 | I £.1010 I
+The Government Printer, Mbabane
 
 [[END OF PAGE 10]]
