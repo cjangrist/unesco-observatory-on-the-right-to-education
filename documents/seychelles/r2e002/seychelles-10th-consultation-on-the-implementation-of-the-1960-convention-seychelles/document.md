@@ -2,7 +2,7 @@
 
 # SEYCHELLES
 
-## 10 th Consultation on the Implementation of the 1960 Convention and Recommendation against Discrimination in Education   (2020)
+## 10th Consultation on the Implementation of the 1960 Convention and Recommendation against Discrimination in Education   (2020)
 
 SEYCHELLES NATIONAL COMMISSION FOR UNESCO
 
@@ -13,6 +13,53 @@ SEYCHELLES NATIONAL COMMISSION FOR UNESCO
 [[START OF PAGE 2]]
 
 # LIST OF ACRONYMS
+
+A Level Advanced Level
+ACS Accreditation certification Section
+ALDEC Adult Learning and Distance Education Centre
+ANHRD Agency for National Human Resource Development
+APHI Association for People with Hearing Impairment
+ASP Agency for Social Protection
+ATP Aspiring Teacher Programme
+BLM Blended Learning Mode
+CEDAW Convention on the Elimination of All Forms of Discrimination against Women
+DELF Diplôme D’études en Langue Française
+DICT Department of Information Communications Technology
+EMIS Education Management Information System
+GCE General Certificate in Education
+ICT Information and Communication Technology
+IECD Institute of Early Childhood Development
+IGCSE International General Certificate of Secondary Education
+ISCED International Standard Classification of Education
+ISO/FDIS International Standard for Building Construction 21542).
+MEHRD Ministry of Education and Human Resource Development
+NBS National Bureau of Statistics
+NIHSS National Institute for Health and Social Studies
+NISTI National Institute for Science, Technology and Innovation
+NQF National Qualifications Framework
+PC Professional Centres
+PPBB Programme Performance Based Budgeting
+PSCE Personal Social and Citizenship Education
+RPL Recognition of Prior Learning
+S.I.T.E Seychelles Institute of Teacher Education
+SADC Southern African Development Community
+SBSA Seychelles Institute of Business studies and Accounting
+SEACMEQ Southern and East African Consortium for Monitoring Educational Quality
+SEC School for the Exceptional Child
+SEND Special Education Needs and Disabilities
+SIAD Seychelles Institute of Art and Design
+SIAH Seychelles Institute of Agricultural and Horticulture
+SIALS Seychelles Integrated Adult Learning Survey
+SIDOL Seychelles Institute of Distance and Open Learning
+SIT Seychelles Institute of Technology
+SMA Seychelles Maritime Academy
+SQA Seychelles Qualifications Authority
+STA Seychelles Tourism Academy
+STEM Science, Technology, Engineering and Mathematics
+Tertiary Education Act (2011)
+TEC Tertiary Education Commission
+TGMI The Guy Morel Management Institute
+TMDP Teacher Management Development Policy
 
 2
 
@@ -60,7 +107,11 @@ Tertiary Education Commission (TEC)
 
 ## OTHERS:
 
-APHI Association for People with Hearing Impairment Human Rights Commission Ministry of Family Affairs Ministry of Employment, Immigration and Civil Status National Bureau of Statistics
+APHI Association for People with Hearing Impairment
+Human Rights Commission
+Ministry of Family Affairs
+Ministry of Employment, Immigration and Civil Status
+National Bureau of Statistics
 
 NISTI National Institute for Science, Technology and Innovation
 
@@ -135,7 +186,7 @@ No, not considering ratification in the near future. Please explain why:
 
 N/A
 
-## Ratification  of  the  Protocol 2 instituting  a  Conciliation  and  Good  Offices  Commission  to  be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+## 2. Ratification of the Protocol 2 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -145,13 +196,13 @@ NO please briefly explain the difficulties encountered:
 
 Reason unknown.
 
-## Legal  framework  governing  the  protection  of  rights  guaranteed  in  the  Convention  and  the Recommendation in the national legal system
+## 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention :
 
-- I ☑ YES
-
-No
+- Is the Convention directly applicable in your country?
+☑ YES
+☐ No
 
 - If  not,  has  it  been  incorporated  into  the  national  Constitution  or  domestic  law  so  as  to  be  directly applicable?
 
@@ -189,14 +240,10 @@ Laws of Seychelles CAP 42 Constitution of the Republic of Seychelles (1993)
 
 ##### Right to education
 
-- 40 . All persons are entitled to receive an educational programme appropriate to their needs in accordance with this Act and regulations made thereunder
-
-(1) The Principal Secretary shall provide every child of compulsory school age or any person who is a resident of Seychelles with an educational programme in accordance with this Act.
-
-- 2 In implementing subsection (1), The Principal Secretary shall-
-
+40. All persons are entitled to receive an educational programme appropriate to their needs in accordance with this Act and regulations made thereunder
+41. (1) The Principal Secretary shall provide every child of compulsory school age or any person who is a resident of Seychelles with an educational programme in accordance with this Act.
+(2) In implementing subsection (1), The Principal Secretary shall-
 (a) enroll the child in an educational programme offered by the Ministry
-
 (b) direct the child to attend an educational programme offered by another educational institution where it is reasonable to do so.
 
 ##### Compulsory school attendance
@@ -362,13 +409,10 @@ Goal 2 calls for the investment in education which will in turn lead to signific
 
 ##### Special Education
 
-- 15 (1) The Minister shall provide special education programmes for students of compulsory school age who, by reason of intellectual, communicative, behavioural, physical or multiple exceptionalities , are in need of special education.
-
-( 2 )  A student who is entitled to a special education programme shall have the programme delivered in the least restrictive and most enabling environment '
-
-- The  Special  Education  programmes  shall  be  developed  in  consultation  with  the  professionals  or experts in the field, having regard to the educational needs and rights of children;
-
-- The Special Education programmes, may, on such terms and conditions as the Principal Secretary deem appropriate, be extended to students beyond compulsory school age.
+15 (1) The Minister shall provide special education programmes for students of compulsory school age who, by reason of intellectual, communicative, behavioural, physical or multiple exceptionalities, are in need of special education.
+(2) A student who is entitled to a special education programme shall have the programme delivered in the least restrictive and most enabling environment “
+(3) The Special Education programmes shall be developed in consultation with the professionals or experts in the field, having regard to the educational needs and rights of children;
+(4) The Special Education programmes, may, on such terms and conditions as the Principal Secretary deem appropriate, be extended to students beyond compulsory school age.
 
 In line with these regulations there is:
 
@@ -426,7 +470,7 @@ The Association founded in 2005 is run by deaf and hearing members. The main obj
 
 Ministry of Education and Human Resource Development:
 
-##### Guidelines For The Management of The Dedicated Fund By Schools (September 2018)
+##### a) Guidelines For The Management of The Dedicated Fund By Schools (September 2018)
 
 Following the implementation of its Macro-Economic Reform Programme in 2008, Government decided to allocate funds to all state schools to ensure that no child is deprived of the necessities likely to affect school attendance.  A yearly allocation was made according to the size of schools; small and medium sized schools, and large and extra-large schools.
 
@@ -436,17 +480,15 @@ The Dedicated Funds makes provision for snacks, meals, uniform, bus fares, and a
 
 ☑ Providing positive or affirmative action measures
 
-- For A Level students  (Upper secondary) A monthly allowance of Rs 800 (equivalent of USD dollars 40) is available
-
-- For Professional Centres (PCs)  a monthly allowance of Rs  800-1200  (equivalent of USD dollars 40-60 is provided depending on the year of study of the student
-
-- For students from the other main islands who are residing at the Students Youth Hostel on Mahé, main island, for further studies not available education on other islands), a monthly allowance of Rs 1200 (equivalent of USD dollars 60 ).
+b) For A Level students (Upper secondary) A monthly allowance of Rs 800 (equivalent of USD dollars 40) is available
+c) For Professional Centres (PCs) a monthly allowance of Rs 800-1200 (equivalent of USD dollars 40-60 is provided depending on the year of study of the student
+d) For students from the other main islands who are residing at the Students Youth Hostel on Mahé, main island, for further studies not available education on other islands), a monthly allowance of Rs 1200 (equivalent of USD dollars 60).
 
 #### 2) Financial Assistance for Learners in Non-Compulsory Education
 
 Monthly  payment  of  assistance  child-minders'  salary  government's  incentive:  (non-compulsory education)
 
-- Since 2016 ,  the  government has been providing financial assistance to registered childcares to support them in the implementation of national standards to raise quality of service and ensure children are well cared.
+a) Since 2016, the government has been providing financial assistance to registered childcares to support them in the implementation of national standards to raise quality of service and ensure children are well cared.
 
 11
 
@@ -454,7 +496,7 @@ Monthly  payment  of  assistance  child-minders'  salary  government's  incentiv
 
 [[START OF PAGE 12]]
 
-- Since 2020, the Financial Assistance for Parents accessing a registered childcare service is a new initiative providing financial support to help parents meet the costs of childcare for children from 4 months of age (16 weeks) to 3 years (36 months). (Refer to Institute of Early Childhood Child Development (IECD) website for guidelines)
+b) Since 2020, the Financial Assistance for Parents accessing a registered childcare service is a new initiative providing financial support to help parents meet the costs of childcare for children from 4 months of age (16 weeks) to 3 years (36 months). (Refer to Institute of Early Childhood Child Development (IECD) website for guidelines)
 
 ☑ Ensuring inclusion in mainstream schools for all learners (Refer to Inclusive Policy above)
 
@@ -466,9 +508,9 @@ Mechanisms  are  in  place  to  encourage  more  women  and  girls  to  study  S
 
 As part of the National Policy and Strategy 2016-2025, the National Institute for Science, Technology and Innovation  (NISTI)  is  working  in  collaboration  with  the  Ministry  of  Education  and  Human  Resource Development  (MEHRD) to organize activities to inspire the youth in the choice of careers for STEM to help reverse the trend of poor performance in STEM-related subjects.
 
-The strategy starts with building awareness of the importance of STEM in the local context through extracurricular activities at schools, which include;
+The strategy starts with building awareness of the importance of STEM in the local context through extra-curricular activities at schools, which include;
 
-- Opening of Science, Technology and Innovation clubs in all schools.
+1. Opening of Science, Technology and Innovation clubs in all schools.
 
 2. Putting in place STEM programmes around the frontier technologies, which include robotics, Artificial Intelligence (AI), Unmanned Aerial Vehicles, Renewable Energy, Block chain, Biotechnology and other technologies that are relevant to the Seychelles context.
 
@@ -500,7 +542,7 @@ There are two Pregnancy Support policies; one for Secondary ( compulsory educati
 
 ###### Aims
 
-The Teenage Pregnancy Polic y in place since 2005 aims to provide procedures , guidelines, and regulations for schools, the Student services section in the Ministry and the parents to assist them in decision making, and providing support for young girls who become pregnant before completing their formal education cycle. On one hand, the Ministry's aim is to prevent teenage pregnancy and make provision for educational services for the pregnant student. On the other hand, it establishes prevention measures in the (Personal Social and Citizenship Education (PSCE) lessons and support of school counsellors.
+The Teenage Pregnancy Policy in place since 2005 aims to provide procedures , guidelines, and regulations for schools, the Student services section in the Ministry and the parents to assist them in decision making, and providing support for young girls who become pregnant before completing their formal education cycle. On one hand, the Ministry's aim is to prevent teenage pregnancy and make provision for educational services for the pregnant student. On the other hand, it establishes prevention measures in the (Personal Social and Citizenship Education (PSCE) lessons and support of school counsellors.
 
 The policy provides for continued access to education after delivery based on the student's choice. (Refer to Policy on MEHRD Website)
 
@@ -540,7 +582,7 @@ Main Policy Objectives:
 
 - 3.4.1. Ensure the mainstreaming of gender perspectives into all policies, structures, systems, programmes and activities  in  order  to  make  them  gender  responsive  and  contribute  to  the  effective  achievement  of sustainable socio-economic and political development.
 
-- 3.4.2. Harmonise legislative and administrative frameworks with international and (sub) regional genderrelated instruments to achieve set targets on gender equality and equity.
+- 3.4.2. Harmonise legislative and administrative frameworks with international and (sub) regional gender-related instruments to achieve set targets on gender equality and equity.
 
 - 3.4.3. Provide an overarching framework to guide State and Non State Actors (NSAs) in the attainment of gender equality and equity.
 
@@ -570,7 +612,7 @@ Implementation of recommendations from those studies is ongoing. According to na
 
 Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
-Yes ☑ No
+Yes ☑ No ☐
 
 Please provide reference to the relevant laws and provisions:
 
@@ -584,11 +626,11 @@ Qualifications and conditions necessary for contracting marriage:
 
 Age of parties
 
-- A male person under the age of eighteen years or a female under the age of fifteen years cannot contract marriage.  But the Minister may for grave causes authorise any person under the above age to contract marriage.
+40. A male person under the age of eighteen years or a female under the age of fifteen years cannot contract marriage. But the Minister may for grave causes authorise any person under the above age to contract marriage.
 
 Consent
 
-- There is no marriage when there is no consent
+41. There is no marriage when there is no consent
 
 For the past 20 years or more Seychelles Civil Status office has not registered any marriage under age for parental consent.
 
@@ -634,9 +676,9 @@ The Institute known as the Institute of Early Childhood Development is a body co
 
 -implement, monitor and evaluate early childhood development programmes and projects;
 
-Since 2016 to date, as the regulator for childminding service, the Institute has registered 81 childminders which span across the country. Prior to registration of their service, the childminders attend a series of preregistration and sensitisation training sessions on ten mandatory and quality national standards offered by the IECD. These national standards are part of the IECD National Standards for Childminding Regulation (2016).
+Since 2016 to date, as the regulator for childminding service, the Institute has registered 81 childminders which span across the country. Prior to registration of their service, the childminders attend a series of pre-registration and sensitisation training sessions on ten mandatory and quality national standards offered by the IECD. These national standards are part of the IECD National Standards for Childminding Regulation (2016).
 
-In addition, Childminders have opportunities to participate in ongoing professional development trainings on specific areas of need following their registration with IECD. Currently, the IECD is working in close partnership with the Seychelles Institute of Teacher Education (S.ITE) to develop an accredited and awardbearing training programme for current and prospective childcare providers in the country. The training will be offered on a full and part-time basis, by S.IT.E and it will be effective in 2021. This will boost the capacity of workforce and help to raise the quality of service provision in early childhood care and education sector.
+In addition, Childminders have opportunities to participate in ongoing professional development trainings on specific areas of need following their registration with IECD. Currently, the IECD is working in close partnership with the Seychelles Institute of Teacher Education (S.ITE) to develop an accredited and award-bearing training programme for current and prospective childcare providers in the country. The training will be offered on a full and part-time basis, by S.IT.E and it will be effective in 2021. This will boost the capacity of workforce and help to raise the quality of service provision in early childhood care and education sector.
 
 The average age of childminder's assistant is 33 years.
 
@@ -658,12 +700,12 @@ Grand total | 76 | 197 | 210 | 197 | 680
 and Staff in Registered Childminding Establishments, by Gender, 2020
 
 Table 2 Number of Staff in Registered Childminding Establishments, by Gender, 2020
+ | Average Age | 2019 |  | 2020 | 
+ |  | Female | Male | Female | Male
 --- | --- | --- | --- | --- | ---
-Average Age | 2019 | 2020
-Female | Male | Female | Male
 No. of Childminders | 48 | 82 | 01 | 81 | 00
-No. Assistant | - | 69 | 11 | 66 | 11
-Grand total | 151 | 12 | 147 | 11
+No. Assistant Childminders | - | 69 | 11 | 66 | 11
+Grand total |  | 151 | 12 | 147 | 11
 
 IECD Statistics 2020
 
@@ -675,7 +717,7 @@ Moreover, with the introduction of the Government's New Financial Assistance for
 
 The difficulties being faced in this sector is the lack of childcare facilities (including day care centres) in the communities for working parents. However, it is worth noting that Government is placing emphasis on building facilities in local districts to bring the service closer to the community and improve accessibility by service users. In total, as at December 2019, there were 28 Day Care centres, of which facilities for 14 centres where owned by Government. From January 2020 to date the number of registered Day Centres stands at 29. Government has built four (4) new Day Care centres and will be operational during the last quarter of 2020. In addition, the Government is planning to build another five Day Care centres to ease the increasing demands for the service, at least in the short to medium term beyond 2020.
 
-- Pre-primary education is free of charge for all: Please provide the duration:
+☐ Pre-primary education is free of charge for all: Please provide the duration:
 
 - Please list the laws and policies that ensure the availability of pre-primary education for all and provide information on the difficulties experienced by your government in the realization of access to pre-primary education. Brief quantitative information could be added .
 
@@ -695,14 +737,13 @@ Source: EMIS Education Statistics Booklet, December 2019
 
 The table below shows the number of pupils enrolled by gender and number of classrooms in State and Private Crèches, 2019.
 
+Table 3 Total Number of Pupils Enrolled by Gender and Number of Classrooms in State and Private Crèches, 2019
 Year one | Year 2 | Crèche
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Schools | Male | Female | Total | Classes | Male | Female | Total | Classes | Male | Female | Total | Classes | Teacher /Pupil ratio
 State | 660 | 638 | 1298 | 73 | 683 | 631 | 1314 | 73 | 1343 | 1269 | 2612 | 146 | 18
 Private | 115 | 114 | 229 | 9 | 107 | 118 | 225 | 8 | 222 | 232 | 454 | 17 | 27
 Grand Total | 775 | 752 | 1527 | 82 | 790 | 749 | 1539 | 81 | 1565 | 1501 | 3066 | 163 | 19
-
-Table 3 Total Number of Pupils Enrolled by Gender and Number of Classrooms in State and Private Crèches, 2019
 
 Source: EMIS Education Statistics Booklet, December 2019
 
@@ -716,9 +757,7 @@ provide '12 years of free, publicly funded, inclusive, equitable, quality primar
 
 - Is primary education compulsory in your country?
 
-☑ Yes
-
-No
+☑ Yes ☐ No
 
 ##### Laws of Seychelles CAP 42 Constitution of the Republic of Seychelles
 
@@ -779,11 +818,8 @@ No compulsory levies on parents.
 
 Lunch which is optional, is available through a subsidized school meal service (Rs 5 equivalent of USD 0.25 ).
 
-No: Is your country already engaged in legal and policy reforms to work towards universal and free primary education?
-
-Yes
-
-No
+☐ No: Is your country already engaged in legal and policy reforms to work towards universal and free primary education?
+☐ Yes ☐ No
 
 - Please briefly provide information on the reforms taken:
 
@@ -799,13 +835,15 @@ In this part, please provide information on the general availability and accessi
 
 5 Years
 
-Access to lower (S1-S3) and middle (S4-S5) Secondary education is free and compulsory. Whereas access to high/upper secondary is selective and free. Access to TVET is provided through relevant programme of study at the level of S1-S5. Technical and Vocational Education is available in all the professional centres. (Refer to Professional Centres section 2.3)
+Access to lower (S1-S3) and middle (S4-S5) Secondary education is free and compulsory. Whereas access to high/upper secondary is selective and free. Access to TVET is provided through relevant programme of
 
 19
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+study at the level of S1-S5. Technical and Vocational Education is available in all the professional centres. (Refer to Professional Centres section 2.3)
 
 Please list the laws and policies that ensure the and describe whether direct and indirect costs are covered (such as free availability of secondary education)
 
@@ -819,7 +857,7 @@ The Seychelles Government has approved the setting up of a new National Technica
 
 Exam fees and schools supplies are all free.   Material for school uniforms is sold at a subsidized rate. (Rs 25 per metre (equivalent of USD 1.25 )
 
-Transport costs (See above).  (Rs 02 one way (equivalent of 10 cents) concern students who live within 3 kilometres from the school. No compulsory levies on parents.  Secondary students are provided with a Bus pass with an annual subsidized contribution of SR 125/- (equivalent to USD 6.26 ) from parents.
+Transport costs (See above). (Rs 02 one way (equivalent of 10 cents) concern students who live within 3 kilometres from the school. No compulsory levies on parents. Secondary students are provided with a Bus pass with an annual subsidized contribution of SR 125/- (equivalent to USD 6.20) from parents.
 
 For  secondary regional schools, transportation subsidized fees are available for students residing 3km or more away from the regional secondary schools under the responsibility of the ASP.
 
@@ -855,11 +893,11 @@ Not all schools have the necessary facilities to accommodate all categories of s
 
 [[START OF PAGE 21]]
 
-No: What are the measures your government intends to take to ensure free secondary
+☐ No: What are the measures your government intends to take to ensure free secondary
 
 N/A
 
-No: What are the measures your government intends to take to ensure free secondary education?
+☐ No: What are the measures your government intends to take to ensure free secondary education?
 
 -Ensure quality monitoring of the Law. Laws exist
 
@@ -877,7 +915,8 @@ The Minister may, by order in writing, designate a member of the staff of a scho
 
 An attendance officer who has reasonable cause to believe that a person is acting in contravention of section 57, on presenting his or her authority, may at any time - (a) enter any premises and make such enquiries as are necessary to determine whether a child of compulsory school age is frequenting, visiting, residing or employed on, the premises; and (b) stop and question any child who appears to be of compulsory school age but is not at school. 61.
 
-- In this part, you may also provide information on the difficulties experienced by your government in the realization of universal access to secondary education. Quantitative information could be added. Is secondary education (middle/high) compulsory in your country?
+- In this part, you may also provide information on the difficulties experienced by your government in the realization of universal access to secondary education. Quantitative information could be added.
+Is secondary education (middle/high) compulsory in your country?
 
 No
 
@@ -887,7 +926,7 @@ High also referred as Upper Secondary education in Seychelles is not compulsory.
 
 Table 9 below illustrates the total number of Students Enrolled at SALS 2019 State Upper Secondary) ( 74% females & 26% males)
 
-T able 9 : Total Number of Students Enrolled SALS 2019 Upper Secondary)
+Table 9 : Total Number of Students Enrolled SALS 2019 Upper Secondary)
 --- | --- | --- | --- | --- | --- | --- | ---
 MODE | Year 1 | Year 2 | TOTAL | Grand Total
 Male | Female | Male | Female | Male | Female
@@ -929,7 +968,7 @@ Additional information
 
 ##### LAWS OF SEYCHELLES CAP 42 Constitution of the Republic of Seychelles 1993
 
-worker' means a person of the age 15 years and above in employment in Seychelles or on a Seychelles ship or aircraft or employed in Seychelles for service in an agency of the Government or diplomatic mission of Seychelles abroad and a trainee;
+worker” means a person of the age 15 years and above in employment in Seychelles or on a Seychelles ship or aircraft or employed in Seychelles for service in an agency of the Government or diplomatic mission of Seychelles abroad and a trainee;
 
 ###### Right of minors
 
@@ -949,9 +988,7 @@ Please note in 2019 out of 1088 students enrolled in S 5 (Fifth year of Secondar
 
 Source EMIS, Education Statistics Booklet December 2019
 
-Yes
-
-No
+Yes ☐ No ☐
 
 - Please provide reference to the relevant laws and provisions:
 
@@ -999,6 +1036,51 @@ The  general  trend  for  enrolment  at  the  level  of  Professional  Centres, 
 
 ##### Functions of the Act 2011
 
+(2) The TEC shall make recommendations to the relevant authorities on —
+- the development of tertiary education;
+- the charters of tertiary education institutions;
+- the implementation of procedures and standards set by the Seychelles Qualifications Authority;
+- policies and guidelines on tertiary education institutions functioning jointly or in association with one another in or outside Seychelles;
+- the performance of tertiary education institutions and their use of funds provided by the Government or otherwise; and
+- policies and guidelines on the involvement of tertiary education institutions in business activities.
+
+5.(1) Tertiary education institutions shall, for the purposes of this Act, consist of Universities and Professional Centres.”
+
+##### PART 4 - PROFESSIONAL CENTRES (Tertiary Education Act (2011)
+
+###### Tertiary Non University
+
+28.(1) The Minister shall establish Professional Centres on the recommendation of the Tertiary Education Commission.
+
+With the following functions:
+
+(2) Professional Centres shall be responsible for preparing trades persons and technicians of practical orientation capable of working in specific fields of work.
+
+(5) “The main goals of a Professional Centre :
+
+(a) create conditions and provide instructions for learners to acquire the relevant qualifications in vocational, technical, technological and applied scientific subjects;
+
+(b) promote and facilitate conditions for lifelong learning;
+
+(c) consult representatives of business and industries with a view to developing basic applied research of relevance to Seychelles, the region and globally;
+
+- Professional Centres:
+
+1. Seychelles Tourism Academy (STA)
+2. Seychelles Institute of Art and Design (SIAD)
+3. Seychelles Maritime Academy (SMA)
+4. Seychelles Institute for Distance and Open Learning Centre (SIDOL)
+5. Seychelles Institute of Technology (SIT)
+6. Seychelles Institute of Agricultural and Horticulture (SIAH)
+7. National Institute for Health and Social Studies (NIHSS)
+8 Seychelles Institute of Business studies and Accounting (SBSA)
+9 Seychelles Institute of Teacher Education (S.I.T.E.)
+10 The Guy Morel Management Institute (TGMI)
+
+Entrepreneurship education is now in all the PCs so that graduates have relevant skills.
+
+In the Learner rights and responsibilities Policy which governs PCs), it is stated at
+
 24
 
 [[END OF PAGE 24]]
@@ -1009,7 +1091,7 @@ The  general  trend  for  enrolment  at  the  level  of  Professional  Centres, 
 
 'Learners have a right to be free from illegal discrimination and sexual harassment.' Members of the Professional Centre (PC) community have certain rights and responsibilities, including an obligation to deal ethically and fairly with other members and to not discriminate or harass. (Learner Rights and Responsibilities Policy, 2019).
 
-- In the Pregnancy Policy it is stated at 1 . 'The Professional Centre values the diversity of its learner population and is strongly committed to creating and sustaining a positive learning experience for all'.
+b) In the Pregnancy Policy it is stated at 1. “The Professional Centre values the diversity of its learner population and is strongly committed to creating and sustaining a positive learning experience for all”.
 
 The Policy aims to 'assist and support learners who are about to become parents or have become parents during the period of their training programme of study with the Professional Centre.'
 
@@ -1019,11 +1101,9 @@ The Policy aims to 'assist and support learners who are about to become parents 
 
 ' promote gender balance and equality of opportunity among learners and employees of the University.'
 
-- 34.(1)   The conditions governing the admission of learners to a tertiary education institution shall be specified in its charter.
-
-- Persons shall have the right to apply for admission to one or more tertiary education institutions.
-
-- The Minister may, on the advice of the Tertiary Education Commission, make regulations in respect of the admission of foreign learners.
+34.(1) The conditions governing the admission of learners to a tertiary education institution shall be specified in its charter.
+(2) Persons shall have the right to apply for admission to one or more tertiary education institutions.
+(3) The Minister may, on the advice of the Tertiary Education Commission, make regulations in respect of the admission of foreign learners.
 
 Please note the Cabinet of Ministers has approved the policy framework for protection of foreign learners to be further developed into a regulation.
 
@@ -1034,14 +1114,13 @@ In 2019, there were 1032 learners (767 females and 265 males) enrolled in the Un
 
 The table below shows the number and percentage of learners enrolled in UniSey by Mode, by Year Level and by Gender, 2019
 
+Table 25: Number and Percentage Of Learners Enrolled In Unisey By Mode, by Year Level and by Gender, 2019
 YEAR 1 | YEAR 2 | YEAR 3 | TOTAL | Grand Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 MODE | M | F | M | F | M | F | M | F
-Full time | 58 (6%) | 92 (9% | 53 (5%) | 101 (10%) | 28 (3%) | 93 (9%) | 139 (13%) | 286 (28%) | 425 (41%)
+Full time | 58 (6%) | 92 (9%) | 53 (5%) | 101 (10%) | 28 (3%) | 93 (9%) | 139 (13%) | 286 (28%) | 425 (41%)
 Part time | 68 (7%) | 229 (22%) | 56 (5%) | 239 (23%) | 2 (0%) | 13 (1%) | 126 (12%) | 481 (47%) | 607 (59%)
-Grand Tota l | 126 12% | 321 31% | 109 11% | 340 33% | 30 3% | 106 10% | 265 26% | 767 74% | 1032 100%
-
-Table 25: Number and Percentage Of Learners Enrolled In Unisey By Mode, by Year Level and by Gender, 2019
+Grand Total | 126 12% | 321 31% | 109 11% | 340 33% | 30 3% | 106 10% | 265 26% | 767 74% | 1032 100%
 
 25
 
@@ -1053,9 +1132,9 @@ Source: EMIS Education Statistics Booklet, December 2019
 
 The table below shows the number and percentage of learners enrolled in UniSey by Mode, by Year Level and by Gender, 2019
 
-Table 11: Total Number of Students (Full-Time, Part-Time & Apprenticeship) Enrolled in Tertiary Non- University Education and Training Institutions by Gender and by Year, 2019
+Table 11: Total Number of Students (Full-Time, Part-Time & Apprenticeship) Enrolled in Tertiary Non-University Education and Training Institutions by Gender and by Year, 2019
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Professional Centres | Male | Female | Male | Female | Male | Female | Male | Female | Grand
+Professional Centres | Male | Female | Male | Female | Male | Female | Male | Female | Grand Total
 (10) | Y 1 | Y1 | Y 2 | Y2 | Y3 | Y3 | Total | Total
 Grand total | 432 | 851 | 290 | 492 | 82 | 244 | 804 | 1587 | 2391
 
@@ -1130,11 +1209,9 @@ A total of 307 scholarships ( 94 males and 213 females ) were approved for the y
 
 Source: EMIS Education Statistics Booklet, December 2019
 
-☑
+☑ Higher education is accessible through positive or affirmative action measures
 
-☑
-
-Higher education is accessible through positive or affirmative action measures Higher education is accessible through credit transfer system between states
+☑ Higher education is accessible through credit transfer system between states
 
 It  is  to  be  noted  that  at  the  South  African  Development  Community  ( SADC) level,  the  Seychelles qualifications  framework has been aligned with the SADC qualifications framework since 2019 which means that Seychelles qualifications can be recognized more easily in SADC countries.
 
@@ -1182,13 +1259,17 @@ Short courses and Literacy classes offer short modular skills oriented courses. 
 
 Literacy courses at Levels 1, 2 and 3 in either English, French, Seychellois Creole or Numeracy (Local level) are available.
 
-☑ Provision of education for persons who have not received or completed the whole period of their primary education Free Literacy classes in the community in English, French, Creole and numeracy are available in the districts for youth and adults According to the Seychelles Integrated Adult Learning Survey (SIALS) Initiated in 2008, the percentage of participants  considered  as  not  literate  or  not  numerate  was  2.8  and  6.1,  respectively,  giving  a  national literacy rate of 97.2% and numeracy rate of 93.9%.
+☑ Provision of education for persons who have not received or completed the whole period of their primary education
 
 28
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+Free Literacy classes in the community in English, French, Creole and numeracy are available in the districts for youth and adults
+
+According to the Seychelles Integrated Adult Learning Survey (SIALS) Initiated in 2008, the percentage of participants considered as not literate or not numerate was 2.8 and 6.1, respectively, giving a national literacy rate of 97.2% and numeracy rate of 93.9%.
 
 ☑ Provision of literacy programmes
 
@@ -1321,7 +1402,7 @@ Provision is made in the Education (Amendment) Act 2017 for assessment.
 
 87. (1) The Minister may make regulations for carrying into effect the principles and provisions of this Act. (2) Without prejudice to the generality of subsection (1), the Minister may make regulations providing for
 
--
+—
 
 (u) the manner of conducting examinations in schools and educational institutions including examinations for improvement of grades;
 
@@ -1457,7 +1538,7 @@ A comprehensive description of the ATP programme will be broadcast on the media 
 
 Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  the  respect  for  human  rights  and fundamental freedoms. This is covered under SDG target 4.7. 12 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms will be used specifically for monitoring SDG4 indicator 4.7.1.
 
-The Seychellois Charter of Fundamental Human Rights and Freedoms (Chapter 3 of the Constitution of the Republic of Seychelles 1993), which incorporates many of the principles of International Human Rights instruments, guarantees 25 rights equally applicable to both men and women. Article 48 of the Constitution provides for the fundamental human rights and freedoms in Seychelles to be interpreted ' 'in such a way as not to be inconsistent with any international obligations of Seychelles.
+The Seychellois Charter of Fundamental Human Rights and Freedoms (Chapter 3 of the Constitution of the Republic of Seychelles 1993), which incorporates many of the principles of International Human Rights instruments, guarantees 25 rights equally applicable to both men and women. Article 48 of the Constitution provides for the fundamental human rights and freedoms in Seychelles to be interpreted ‘’in such a way as not to be inconsistent with any international obligations of Seychelles.
 
 The Seychelles Constitution Laws of Seychelles guarantees that:
 
@@ -1467,16 +1548,16 @@ Seychelles has ratified the following Human Rights Treaties:
 
 TITLE | Accession | Ratification | Entry into force
 --- | --- | --- | ---
-International Convention on the Elimination of All Forms of Racial Discrimination | 07.03.78 | 07.04.78
-International Covenant on Economic, Social and Cultural Rights | 05.08.92 | 05.11.92
-International Covenant on Civil and Political Rights | 05.05.92 | 05.08.92
-Convention on the Elimination of All Forms of Discrimination against Women 04.06.92A/ 04.06.92E | 04.06.92 | 04.06.92
-Convention against torture and other cruel, inhuman or degrading treatment or punishment | 04.06.92 A | 04.06.92 E
-Convention on the Rights of the Child | 07.09.90 | 06.12.90
-International Convention on the Protection of the Rights of all Migrant Workers and Members of their Family | 15.12.94 | 01.04.95
-Convention on the Rights of Persons with Disabilities 30.03. 07 Signature | 2.10.09 | 1.11.09
-African Charter on the Rights and Welfare of the Child 1990 | 27.02.92 | 29.11.99
-African Union Youth Charter 2006 Article 13 Education and Skills Development. | 11.02.11
+International Convention on the Elimination of All Forms of Racial Discrimination | 07.03.78 |  | 07.04.78
+International Covenant on Economic, Social and Cultural Rights | 05.08.92 |  | 05.11.92
+International Covenant on Civil and Political Rights | 05.05.92 |  | 05.08.92
+Convention on the Elimination of All Forms of Discrimination against Women 04.06.92A/ 04.06.92E | 04.06.92 |  | 04.06.92
+Convention against torture and other cruel, inhuman or degrading treatment or punishment | 04.06.92 A |  | 04.06.92 E
+Convention on the Rights of the Child | 07.09.90 |  | 06.12.90
+International Convention on the Protection of the Rights of all Migrant Workers and Members of their Family | 15.12.94 |  | 01.04.95
+Convention on the Rights of Persons with Disabilities 30.03. 07 Signature |  | 2.10.09 | 1.11.09
+African Charter on the Rights and Welfare of the Child 1990 |  | 27.02.92 | 29.11.99
+African Union Youth Charter 2006 Article 13 Education and Skills Development. | 11.02.11 |  | 
 
 Source: Seychelles Department of Foreign Affairs
 
@@ -1606,7 +1687,8 @@ Education (Amendment) Act 2017 (S1 43 of 2005) Education (Private Educational In
 
 'private educational institution' means a private school or educational institution or class regularly attended by 5 or more students whether on a part-time or full time basis which is owned, managed and financed by an individual or a body incorporate or unincorporate and is registered under this Act;
 
-- This Act applies to every private or educational institution providing services relating to (a) formal early childhood education;
+17. This Act applies to every private or educational institution providing services relating to –
+(a) formal early childhood education;
 
 (b) primary education;
 
@@ -1616,7 +1698,7 @@ Education (Amendment) Act 2017 (S1 43 of 2005) Education (Private Educational In
 
 The  Law  further  lists  of  requirements  such  as  classrooms,  equipment,  sanitary  facilities,  registers, conditions of premises…admission of students
 
-(22)The Principal Secretary shall upon receipt of an application under subsection (1) cause the private school or educational institution to be inspected
+(2) The Principal Secretary shall upon receipt of an application under subsection (1) cause the private school or educational institution to be inspected
 
 (3)  Where a private school or educational institution in respect of which an application is made under subsection (1) has been inspected, the Minister shall, subject to any condition that he may specify, approve the registration of the school or educational institution if he is satisfied.
 
@@ -1644,9 +1726,11 @@ No legal document on discrimination but it is stipulated in the Education (Amend
 
 39. (1) Where a complaint is made by an interested party that a private school or educational institution has refused to admit a child or has expelled a student on account of the race, religion, or political affiliation of, or on any other unreasonable ground of discrimination relating to, the child, student or parent, the Principal secretary shall hold an inquiry into the complaint.
 
-- The Principal Secretary shall communicate his or her determination in writing to the complainant and the relevant private school or educational institution and the determination may include such directions to the proprietor of the private school or educational institution as may be necessary to redress the grievance complained of.
+(2) The Principal Secretary shall communicate his or her determination in writing to the complainant and the relevant private school or educational institution and the determination may include such directions to the proprietor of the private school or educational institution as may be necessary to redress the grievance complained of.
 
 The table shows the total number of students and classes by gender in private and Primary and Secondary schools, 2019
+
+Table 5 Total Number of Students and classes by Gender in Private Primary Schools, 2019
 
 School | Gender | Total | Classes | Pupil/class ratio
 --- | --- | --- | --- | --- | ---
@@ -1658,7 +1742,7 @@ Trotters' Stop | 37 | 52 | 89 | 5 | 18
 Vijay International | 41 | 65 | 106 | 6 | 18
 Private Total | 563 | 650 | 1213 | 47 | 26
 
-Table 5 Total Number of Students and classes by Gender in  Private Primary Schools, 2019
+Table 7 Total Number of Students and classes by Gender in Private Secondary Schools, 2019
 
 School | Gender | Total | Classes | Pupil/ class ratio
 --- | --- | --- | --- | --- | ---
@@ -1668,8 +1752,6 @@ Independent School | 174 | 186 | 360 | 15 | 24
 International School of Seychelles | 120 | 133 | 253 | 10 | 25
 Vijay International | 47 | 43 | 90 | 5 | 18
 Private Total | 377 | 412 | 789 | 35 | 23
-
-Table 7 Total Number of Students and classes by Gender in  Private Secondary Schools, 2019
 
 Source:
 
@@ -1773,9 +1855,9 @@ N/A
 
 Please briefly elaborate further on the measures taken:
 
-# II1. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+# III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-## Challenges and obstacles
+## 1. Challenges and obstacles
 
 ### 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
@@ -1827,7 +1909,7 @@ ii) The development and consolidation of school governance process through delin
 
 - iv)  Work  is  being  undertaken  in  collaboration  with  the  Department  of  Information  Communications Technology (DICT) to put in place a more robust EMIS for more reliable data to inform decision making for policies sand regulatory frameworks.
 
-- The revision of SQA Act will bring about improvement in quality assurance measures and strategies.
+- v) The revision of SQA Act will bring about improvement in quality assurance measures and strategies.
 
 ## 2.  Awareness-raising
 
