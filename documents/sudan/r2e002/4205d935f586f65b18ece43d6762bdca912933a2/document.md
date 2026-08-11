@@ -50,7 +50,7 @@ Natural resources under or on the surface of the earth and in the territorial wa
 
 #### Article 10 Zakat and fiscal levies
 
-Zakat is a financial duty, levied by the State, 1and the law shall regulate the manner of collection, expenditure and management thereof. Trusts, charities and self-aid are voluntary resources encouraged by the State and regulated by law, which as well regulates in a fair manner taxes, fees and other levies.
+Zakat is a financial duty, levied by the State, and the law shall regulate the manner of collection, expenditure and management thereof. Trusts, charities and self-aid are voluntary resources encouraged by the State and regulated by law, which as well regulates in a fair manner taxes, fees and other levies.
 
 #### Article 11 Social justice and mutual aid
 
@@ -74,7 +74,7 @@ The State shall care for the institution of the family, facilitate marriage and 
 
 #### Article 16 Morals and unity of the society
 
-The State shall endeavour by law and directive policies to purge society from corruption, crime, delinquency, liquor among Muslims, and to promote the society as a whole towards good norms, noble customs and vertious morals, and towards such as may encourage the individual to actively and effectively participate in the life of society and guide the same towards rallying those around him for good collective gain, solidarity and fraternity by the firm divine cord in a way that preserves unity of the country, stability of governance and progress towards civilized renaissance and higher ideals.
+The State shall endeavour by law and directive policies to purge society from corruption, crime, delinquency, liquor among Muslims, and to promote the society as a whole towards good norms, noble customs and virtuous morals, and towards such as may encourage the individual to actively and effectively participate in the life of society and guide the same towards rallying those around him for good collective gain, solidarity and fraternity by the firm divine cord in a way that preserves unity of the country, stability of governance and progress towards civilized renaissance and higher ideals.
 
 #### Article 17 Foreign policy
 
@@ -82,19 +82,22 @@ The foreign policy of the Republic of the Sudan shall be conducted in dignity, i
 
 #### Article 18 Religiousness
 
-Those in service in the State and public life shall envisage the dedication thereof for the worship of God, wherein muslims stick to the scripture and tradition, and all shall maintain religious motivation and give due regard to such spirit in plans, laws, policies and official business in the political economic, social and cultural fields in order to prompt public life towards its objectives, and adjust them towards justice and uprightness to be directed towards the grace of God in The Hereafter.
+Those in service in the State and public life shall envisage the dedication thereof for the worship of God, wherein muslims stick to the scripture and tradition, and all shall maintain religious motivation and give due regard to such spirit in plans, laws, policies and official business in the political economic, social and
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+cultural fields in order to prompt public life towards its objectives, and adjust them towards justice and uprightness to be directed towards the grace of God in The Hereafter.
 
 #### Article 19 Observance of directive principles
 
 The directive principles are general objectives which State organs and employees seek and are means that are guided by. They are not defined rules controlled by constitutional adjudication ; however, they are principles that the executive organ is guided by in its projects and are observed by the legislative organ in laws, recommendations and control measures, and for which, would aim all who are in the service of the State.
 
-## PART 2THE FREEDOMS SANCTITIES ROGHTS AND DUTIES
+## PART 2-
 
-### CHAPTER I - FREEEDOMS, SANCTITIES AND RIGHTS
+## THE FREEDOMS SANCTITIES RIGHTS AND DUTIES
+
+### CHAPTER I - FREEDOMS, SANCTITIES AND RIGHTS
 
 #### Article 20 Freedom and sanctity of life
 
@@ -102,7 +105,7 @@ Every human being shall have the right to life, freedom, safety of person and di
 
 #### Article 21 Right to equality
 
-All people are equal before the courts of law. Sudanese are and duties as regards to functions of public life ; and there shall be no discrimination only by reason of race, sex or religious creed . They are equal in eligibility for public posts and offices not being discriminated on the basis of wealth.
+All people are equal before the courts of law. Sudanese are equal in rights and duties as regards to functions of public life ; and there shall be no discrimination only by reason of race, sex or religious creed . They are equal in eligibility for public posts and offices not being discriminated on the basis of wealth.
 
 #### Article 22 Sanctity of nationality
 
@@ -118,13 +121,13 @@ Every human being shall have the right of freedom of conscience and religious cr
 
 #### Article 25 Freedom of thought and expression
 
-There shall be guaranteed for citizens the freedom of pursuing any science or adopting any doctrine of opinion or thought without coercion by authority ; and there shall be guaranteed the freedom of expression, reception of information publication and the press without prejudice security, order, safety and public morals, all as regulated by law.
+There shall be guaranteed for citizens the freedom of pursuing any science or adopting any doctrine of opinion or thought without coercion by authority ; and there shall be guaranteed the freedom of expression, reception of information, publication and the press without prejudice to security, order, safety and public morals, all as regulated by law.
 
 #### Article 26 Freedom of association and organization
 
-- Citizens shall have the right of association-and organization for cultural social, economic, professional or trade union purposes without restriction save in accordance with the law.
+(1) Citizens shall have the right of association-and organization for cultural social, economic, professional or trade union purposes without restriction save in accordance with the law.
 
-- There shall be guaranteed for citizens the right to organize political association ; and shall not be restricted save by the condition of consultative decision making and democracy in the leadership of the
+(2) There shall be guaranteed for citizens the right to organize political association ; and shall not be restricted save by the condition of consultative decision making and democracy in the leadership of the
 
 [[END OF PAGE 3]]
 
@@ -160,9 +163,9 @@ No person shall be incriminated or punished for an act save in accordance with a
 
 #### Article 33 Sanctity from death save in justice
 
-- No death penalty shall be inflicted, save as retribution or punishment for extremely serious offences by law.
+(1) No death penalty shall be inflicted, save as retribution or punishment for extremely serious offences by law.
 
-- No death penalty shall be inflicted for offences committed by a person under eighteen years of age ; and such penalty shall be executed upon neither pregnant nor suckling women, save after two years of lactation ; nor shall the same be inflicted upon a person who passed seventy years of age other than in retribution and prescribed penalties (hudud).
+(2) No death penalty shall be inflicted for offences committed by a person under eighteen years of age ; and such penalty shall be executed upon neither pregnant nor suckling women, save after two years of lactation ; nor shall the same be inflicted upon a person who passed seventy years of age other than in retribution and prescribed penalties (hudud).
 
 #### Article 34 Protection of freedoms sanctities and rights
 
@@ -170,7 +173,7 @@ Every aggrieved person who has exhausted means of grievance and complaint to the
 
 #### Article 35
 
-- Every citizen shall:-
+(1) Every citizen shall:-
 
 (a) owe allegiance to the Republic of the Sudan not to an enemy thereof ;
 
@@ -194,7 +197,7 @@ and practical obligations ;
 
 (h) exercise rights and freedoms guaranteed for him in the good guidance of public work and for selecting leaderships for the community and the State.
 
-- The duties of a citizen shall be a general obligation observed by conscience and by the vigilant society. They are the source of policies and legislations upon which a legal obligation secured by sanction may be imposed.
+(2) The duties of a citizen shall be a general obligation observed by conscience and by the vigilant society. They are the source of policies and legislations upon which a legal obligation secured by sanction may be imposed.
 
 #### Article 36 The President of the Republic
 
@@ -214,17 +217,15 @@ There shall be required for eligibility for nomination for the Presidency of the
 
 #### Article 38 Nomination and election
 
-- Every member of the electorate may nominate whoever he deems fit for the Presidency of the Republic ; provided that the candidate shall be seconded in accordance with the law.
+(1) Every member of the electorate may nominate whoever he deems fit for the Presidency of the Republic ; provided that the candidate shall be seconded in accordance with the law.
 
-(2) The winning candidate for the President's office is the one who obtains the highest number of votes;
+(2) The winning candidate for the President's office is the one who obtains the highest number of votes; provided that the votes shall be more than fifty percent of the total votes of the polling electorate
 
-provided that the votes shall be more than fifty percent of the total votes of the polling electorate
-
-- Where the percentage mentioned in Sub-article (2) has not been achieved, polling shall be repeated between the two candidates who have obtained highest number of votes.
+(3) Where the percentage mentioned in Sub-article (2) has not been achieved, polling shall be repeated between the two candidates who have obtained highest number of votes.
 
 #### Article 39 Postponement of the elections of the Presidency of the Republic
 
-Where the election of the President of the Republic is not possible for any compelling reasons as decided by the General Elections Board it shall as urgently as possible return to elections, and the mean-time the incumbent President of the Republic shall continue as President and his tenure shall automatically extended pending conducting the election and untiltaking by the elected President of the oath of assumption of office.
+Where the election of the President of the Republic is not possible for any compelling reasons as decided by the General Elections Board it shall as urgently as possible return to elections, and in the mean-time the incumbent President of the Republic shall continue as President and his tenure shall automatically be extended pending conducting the election and until taking by the elected President of the oath of assumption of office.
 
 #### Article 40 Oath of assuming the Presidency of the Republic
 
@@ -238,7 +239,7 @@ The term of office of the President of the Republic shall be five years, commenc
 
 #### Article 42 Vacation of the office or absence of the President of the Republic
 
-- The office of the President of the Republic shall fall vacant in any of the following cases:-
+(1) The office of the President of the Republic shall fall vacant in any of the following cases:-
 
 (a) expiry of the term of office ;
 
@@ -250,7 +251,7 @@ The term of office of the President of the Republic shall be five years, commenc
 
 (c) disabling mental or physical infirmity by resolution of the National Assembly ; (d) removal from office in accordance with the provisions of the Constitution ; (e) acceptance of his resignation by the National Assembly. (2) If the President of the Republic is absent or his office falls vacant, his first Vice-President shall temporarily assume the functions of the Presidency of the Republic pending the return of the President or the election of a new President. (3) Upon vacation of office of the President, elections for the Presidency of the Republic shall be
 
-- conducted within a period of sixty days of such date.
+conducted within a period of sixty days of such date.
 
 #### Article 43 Functions of the President of the Republic
 
@@ -264,11 +265,13 @@ powers, to:(a) appoint holders' of constitutional federal posts ; (b) preside ov
 
 The President of the Republic shall appoint two vice- Presidents having the same qualification of the President, and appoint assistants and advisers, and define their seniorities and functions. Each one of them shall take before the President the oath taken by the President.
 
-#### Article 45 Criminal responsibilitv of the President of the Republic
+#### Article 45 Criminal responsibility of the President of the Republic
 
-The criminal responsibility of the President of the Republic shall be as follows:1. no criminal proceedings shall be initiated against him save by a permission to be issued by the National Assembly in writing ; (b) the proceedings provided for in paragraph (a) shall be initiated before the Constitutional Court ; (c) any decision of criminal conviction shall be submitted to the National Assembly to take such action with respect to the same, as they may deem appropriate ; (d) the Assembly may, by the majority of two-thirds of members remove the President of the Republic form office in case of conviction of the offence of treason or any other offence involving honour or
-
-- honesty.
+The criminal responsibility of the President of the Republic shall be as follows:-
+(a) no criminal proceedings shall be initiated against him save by a permission to be issued by the National Assembly in writing ;
+(b) the proceedings provided for in paragraph (a) shall be initiated before the Constitutional Court ;
+(c) any decision of criminal conviction shall be submitted to the National Assembly to take such action with respect to the same, as they may deem appropriate ;
+(d) the Assembly may, by the majority of two-thirds of members remove the President of the Republic from office in case of conviction of the offence of treason or any other offence involving honour or honesty.
 
 #### Article 46 Contesting acts of the President of the Republic
 
@@ -280,7 +283,7 @@ Any person aggrieved by the acts of the President of the Republic, may contest t
 
 (1) There shall be established a Council of Ministers of a number to be appointed by the President of the Republic.
 
-- The Council of Ministers shall have the supreme federal executive authority in the State in accordance with the provisions of the Constitution and the law, and the decisions thereof shall be adopted by
+(2) The Council of Ministers shall have the supreme federal executive authority in the State in accordance with the provisions of the Constitution and the law, and the decisions thereof shall be adopted by
 
 [[END OF PAGE 6]]
 
@@ -290,31 +293,39 @@ consultation and unanimity and where not possible by majority, and the decisions
 
 #### Article 48 Oath of the minister
 
-The Minister shall upon his appointment and before assuming the functions of his office take the following oath before the President of the Republic:detached of any fanaticism or personal fancy ; and swear by Almighty God, to respect the Constitution
+The Minister shall upon his appointment and before assuming the functions of his office take the following oath before the President of the Republic:-
 
-" I swear by Almighty God, to assume my office as a minister in the worship and obedience of God performing my duties diligently and honestly and striving for the order and progress of the country, and the law and accept consultancy and advice, and God to what I say is witness ."
+" I swear by Almighty God, to assume my office as a minister in the worship and obedience of God performing my duties diligently and honestly and striving for the order and progress of the country, detached of any fanaticism or personal fancy ; and swear by Almighty God, to respect the Constitution and the law and accept consultancy and advice, and God to what I say is witness ."
 
 #### Article 49 Functions and powers of the Council of Ministers
 
-- The Council of Ministers shall have the following functions and powers:(a) general planning for the procession of authority, objectives, stages and measures of the State ; (b) approval of the higher policies of any federal ministry or ministerial sector ; (c) assuming the executive and administrative business of any ministry or ministerial sector as may be provided by law or the decision of the Council. (d) initiation of draft international conventions and agreements, legislative bills - provisional decrees general budgets and any such measures as may be submitted to the National Assembly (e) requiring reports about ministerial executive performance and questioning of a minister in the light of the reports thereof or the policies of the Council of Ministers ; (f) requiring reports on States' executive performance for enlightenment and co-ordination with respect to any State and for check and decision on matters that are concurrent or elegated by the federal authority ; (g) making regulations to organize its work ; (h) performing any public political role by statement or mobilization of the movement of the people for the objectives of the public policy and public life ;
-
-- any other functions or powers conferred thereupon by law.
+The Council of Ministers shall have the following functions and powers:-
+(a) general planning for the procession of authority, objectives, stages and measures of the State ;
+(b) approval of the higher policies of any federal ministry or ministerial sector ;
+(c) assuming the executive and administrative business of any ministry or ministerial sector as may be provided by law or the decision of the Council.
+(d) initiation of draft international conventions and agreements, legislative bills - provisional decrees - general budgets and any such measures as may be submitted to the National Assembly
+(e) requiring reports about ministerial executive performance and questioning of a minister in the light of the reports thereof or the policies of the Council of Ministers ;
+(f) requiring reports on States' executive performance for enlightenment and co-ordination with respect to any State and for check and decision on matters that are concurrent or delegated by the federal authority ;
+(g) making regulations to organize its work ;
+(h) performing any public political role by statement or mobilization of the movement of the people for the objectives of the public policy and public life ;
+(i) any other functions or powers conferred thereupon by law.
 
 #### Article 50 Functions of the minister
 
-- The Minister shall have functions and powers by law or delegation. (2) The Minister shall be the highest responsible authority in his ministry and his decisions shall prevail therein The Council of Ministers may amend or cancel the same. (3) The President of the Republic may suspend the decision of a minister pending submitting the same to the Council of Ministers. (4) There shall be between a federal and State's minister a relation of co ordination, co-operation and
-
-- complementation of the federal and State's roles.
+(1) The Minister shall have functions and powers by law or delegation.
+(2) The Minister shall be the highest responsible authority in his ministry and his decisions shall prevail therein The Council of Ministers may amend or cancel the same.
+(3) The President of the Republic may suspend the decision of a minister pending submitting the same to the Council of Ministers.
+(4) There shall be between a federal and State's minister a relation of co-ordination, co-operation and complementation of the federal and State's roles.
 
 #### Article 51 Several and joint responsibility of ministers
 
-- The Minister shall be responsible for the business of his ministry to the President of the Republic, the Council of Ministers and the National Assembly.
+(1) The Minister shall be responsible for the business of his ministry to the President of the Republic, the Council of Ministers and the National Assembly.
 
-- Ministers shall be jointly responsible the executive performance to the National Assembly.
+(2) Ministers shall be jointly responsible for the executive performance to the National Assembly.
 
 #### Article 52 Prohibition of commercial business
 
-The President of the Republic , any of his vice- Presidents, assistants or advisers and the minister shall not their tenure practice any private profession or commercial business with the State.
+The President of the Republic , any of his vice- Presidents, assistants or advisers and the minister shall not during their tenure practice any private profession or commercial business with the State.
 
 #### Article 53 Vacancy of the office of minister
 
@@ -332,25 +343,25 @@ Deliberations of the Council of Ministers shall be confidential ; and whatever g
 
 #### Article 55 Contesting ministerial acts
 
-An aggrieved. person may contest any of the acts of the federal Council of Ministers or a minister:-
+An aggrieved person may contest any of the acts of the federal Council of Ministers or a minister:-
 
-- before the Constitutional Court in any contest of excess against the constitutional Federal system or the constitutional freedoms, sanctities and rights ;
+(a) before the Constitutional Court in any contest of excess against the constitutional Federal system or the constitutional freedoms, sanctities and rights ;
 
 (b) before a court in any contest of excess against the law.
 
 #### Article 56 The Governor - eligibility and election
 
-- There shall be a Governor for each State, elected by the people in the State in accordance with the Constitution and the law.
+(1) There shall be a Governor for each State, elected by the people in the State in accordance with the Constitution and the law.
 
-- There shall be required for whoever is a candidate for the office of the Governor, the same conditions of eligibility of a candidate for the Presidency of the Republic.
+(2) There shall be required for whoever is a candidate for the office of the Governor, the same conditions of eligibility of a candidate for the Presidency of the Republic.
 
-- There shall be established a nomination college for the office of the Governor to be composed of members of the National Assembly, as deputies from State, members of the States Assembly and chairmen of localities in the State to present to the President of Republic a list of nomination for governorship of not less than six candidates, before sixty days of the expiry of the term of the incumbent Governor.
+(3) There shall be established a nomination college for the office of the Governor to be composed of members of the National Assembly, as deputies from State, members of the States Assembly and chairmen of localities in the State to present to the President of Republic a list of nomination for governorship of not less than six candidates, before sixty days of the expiry of the term of the incumbent Governor.
 
-- The President of the Republic shall select three candidates form the list and submit them to the General Elections Board for decision as to their eligibility for the office, and they shall be the candidates who shall be presented for general elections in the State.
+(4) The President of the Republic shall select three candidates from the list and submit them to the General Elections Board for decision as to their eligibility for the office, and they shall be the candidates who shall be presented for general elections in the State.
 
-- The winning candidate for assumption of Governor's office shall be the one who obtained more than fifty percent of the total number of votes cast.
+(5) The winning candidate for assumption of Governor's office shall be the one who obtained more than fifty percent of the total number of votes cast.
 
-- Where the percentage mentioned in Sub-article (5) is not obtained, polling shall be repeated between the two candidates who have obtained the highest number of votes.
+(6) Where the percentage mentioned in Sub-article (5) is not obtained, polling shall be repeated between the two candidates who have obtained the highest number of votes.
 
 #### Article 57 Postponement of the Governor's elections
 
@@ -392,7 +403,7 @@ The Governor shall have the following functions, to:-
 
 (c) supervise generally the security of the state and co-ordinate its good administration ;
 
-- represent the State.
+(d) represent the State.
 
 [[END OF PAGE 8]]
 
@@ -408,17 +419,13 @@ Provisions of the criminal responsibility of the President of the Republic shall
 
 #### Article 64 The Council of Ministers
 
-- There shall be established a council of ministers for the State.
+(1) There shall be established a council of ministers for the State.
 
-- There shall apply to the State's executive authority the provisions
+(2) There shall apply to the State's executive authority the provisions set out in Articles 47(2), 48 and 49, save initiating draft international conventions and agreements and that it only assumes the affairs of the State and submits legislative bills to the State Assembly.
 
-- set out in Articles 47(2), 48 and 49, save initiating draft international conventions and agreements and that it only assumes the affairs of the State and submits legislative bills to the State Assembly.
+(3) Powers of the State minister shall be the same powers of the federal minister set out in Article 50, Sub-articles (1), (2) and (3), except that the Governor takes the place of the President of the Republic.
 
-- Powers of the State minister shall be the same powers of the federal minister set out in Article 50,
-
-- Sub-articles (1), (2) and (3), except that the Governor takes the place of the President of the Republic.
-
-- There shall apply to the State's executive authority the provisions set out in Articles 50 to 55, except that the Governor takes the place of the President of the Republic.
+(4) There shall apply to the State's executive authority the provisions set out in Articles 50 to 55, except that the Governor takes the place of the President of the Republic.
 
 #### Article 65 Sources of legislation
 
@@ -426,27 +433,27 @@ Islamic law and the consensus of the nation, by referendum, Constitution and cus
 
 #### Article 66 Referendum
 
-- The President of the Republic or the National Assembly by resolution of half the members may refer to referendum any matter that expresses higher values, the national will or public interests.
+(1) The President of the Republic or the National Assembly by resolution of half the members may refer to referendum any matter that expresses higher values, the national will or public interests.
 
-- The General Elections Board shall conduct the referendum of all the electorate, and the subject submitted for referendum would achieve the confidence of the people by obtaining more than half the number of votes cast.
+(2) The General Elections Board shall conduct the referendum of all the electorate, and the subject submitted for referendum would achieve the confidence of the people by obtaining more than half the number of votes cast.
 
-- Any resolution which has achieved the consent of the people by referendum shall have authority above the law. Thus, it shall not be annulled save by another referendum or by a resolution of two-thirds of the members of the National Assembly.
+(3) Any resolution which has achieved the consent of the people by referendum shall have authority above the law. Thus, it shall not be annulled save by another referendum or by a resolution of two-thirds of the members of the National Assembly.
 
 #### Article 67 The National Assembly - Composition
 
-- There shall be established an elected National Assembly to assume the legislative authority and any other powers by virtue of the Constitution.
+(1) There shall be established an elected National Assembly to assume the legislative authority and any other powers by virtue of the Constitution.
 
-- The National Assembly shall be composed of a number of members, elected by direct, special or indirect general election as follows:-
+(2) The National Assembly shall be composed of a number of members, elected by direct, special or indirect general election as follows:-
 
 (a) seventy five percent (75%), of full membership by way of general direct suffrage from the geographical constituencies which are divided by fair representation of the population in the country;
 
 (b) twenty five percent (25%), of full membership by special or indirect suffrage in representation of women and scientific and professional classes representing States or national electoral colleges , as may be prescribed by law.
 
-- Where it is not possible by decision of the General Elections Board to conduct elections for the National Assembly for compelling security reasons in any constituency or college, the President of the Republic may appoint a member to occupy the seat in the National Assembly pending conducting elections as urgently as possible.
+(3) Where it is not possible by decision of the General Elections Board to conduct elections for the National Assembly for compelling security reasons in any constituency or college, the President of the Republic may appoint a member to occupy the seat in the National Assembly pending conducting elections as urgently as possible.
 
-#### Article 68 Conditions of membership of the National As8embly
+#### Article 68 Conditions of membership of the National Assembly
 
-- There shall be required for eligibility for membership of the National Assembly, that the candidate shall be:-
+(1) There shall be required for eligibility for membership of the National Assembly, that the candidate shall be:-
 
 (a) Sudanese ;
 
@@ -456,7 +463,7 @@ Islamic law and the consensus of the nation, by referendum, Constitution and cus
 
 (d) not previously during the last seven years convicted of an offence involving honour or honesty.
 
-- Whoever is a member in a State Assembly or assumes the office of Governor, or is a member of a
+(2) Whoever is a member in a State Assembly or assumes the office of Governor, or is a member of a
 
 [[END OF PAGE 9]]
 
@@ -466,9 +473,14 @@ State Council of Ministers shall not be eligible for nomination for membership o
 
 #### Article 69 Lapse of membership the National Assembly
 
-(1) Membership of the National Assembly shall lapse by a resolution passed by the Assembly in any of the following cases:(a) disabling mental or physical infirmity ; (b) conviction of an offence involving honour or honesty ; (c) absence from attending one full session of the sittings of the Assembly without permission or acceptable excuse ; (d) written resignation announced in the Assembly ; (e) death.
+(1) Membership of the National Assembly shall lapse by a resolution passed by the Assembly in any of the following cases:-
+(a) disabling mental or physical infirmity ;
+(b) conviction of an offence involving honour or honesty ;
+(c) absence from attending one full session of the sittings of the Assembly without permission or acceptable excuse ;
+(d) written resignation announced in the Assembly ;
+(e) death.
 
-- Upon the vacancy of the seat of a member his successor shall be elected, as the case may be within a period of sixty days as may be possible.
+(2) Upon the vacancy of the seat of a member his successor shall be elected, as the case may be within a period of sixty days as may be possible.
 
 #### Article 70 Seat of the National Assembly
 
@@ -476,9 +488,8 @@ The National Assembly shall convene at its seat in Umdurman ; and the Speaker ma
 
 #### Article 71 Oath of members of the National Assembly
 
-Every member of the National Assembly shall, before exercising his functions take the following oath before the Assembly:" I swear by Almighty God to assume the assignments of representing the people as a member of the Nati9nal Assembly in obedience of God, performing my duties with every strength and honesty, being truthful and perseverent in attendance and deliberation, detached of any fanaticism or personal fancy, giving due regard to the requirements of the office, preserving the safety of the country and interests of
-
-the people, respecting the Constitution, law and conventions, and God to what I say is witness. "
+Every member of the National Assembly shall, before exercising his functions take the following oath before the Assembly:-
+" I swear by Almighty God to assume the assignments of representing the people as a member of the National Assembly in obedience of God, performing my duties with every strength and honesty, being truthful and perseverent in attendance and deliberation, detached of any fanaticism or personal fancy, giving due regard to the requirements of the office, preserving the safety of the country and interests of the people, respecting the Constitution, law and conventions, and God to what I say is witness. "
 
 #### Article 72 Term of the National Assembly
 
@@ -488,7 +499,7 @@ The term of the National Assembly shall be four years commencing from the date o
 
 (1) The National Assembly represents the popular will, in legislation, planning, control and questioning of the Executive and in the general social and political mobilization. Without prejudice to the generality of the foregoing, it shall assume the following functions, to : (a) pass plans, programmes and policies relating to the State and the society ; (b) pass the draft constitutional amendments and pass legislative bills and provisional decrees ; (c) pass the general budget of revenues and expenditure ; (d) pass bills ratifying international conventions and agreements ; (e) monitor the performance of the Executive ; (f) initiate or participate in the political and social mobilization ; (g) issue resolutions on public affairs. (2) The National Assembly may, in the course of executing its functions, monitoring of executive performance, recommend to the President of the Republic to remove any federal minister where the Assembly after subjecting him to the procedure of interrogation resolves by a majority of its members that
 
-- he has lost the confidence of the Assembly.
+he has lost the confidence of the Assembly.
 
 #### Article 74 Immunity of members of the National Assembly
 
@@ -502,19 +513,19 @@ Save where he is in the very act of crime, no criminal proceedings shall be init
 
 [[START OF PAGE 11]]
 
-- The Assembly shall determine the beginning and end of every session of sittings.
+(2) The Assembly shall determine the beginning and end of every session of sittings.
 
-- The Assembly shall convene for an emergency session upon a resolution thereof on the request of half of its members or upon a call from the President of the Republic.
+(3) The Assembly shall convene for an emergency session upon a resolution thereof on the request of half of its members or upon a call from the President of the Republic.
 
 #### Article 76 Leaders of the National Assembly
 
-- The National Assembly shall have a Speaker to be elected from among its members at the first sitting ;
+(1) The National Assembly shall have a Speaker to be elected from among its members at the first sitting ;
 
-- The Speaker of the National Assembly shall preside sittings, control the public order and supervise the administrative affairs of the Assembly; and shall represent the Assembly inside and outside the Sudan.
+(2) The Speaker of the National Assembly shall preside sittings, control the public order and supervise the administrative affairs of the Assembly; and shall represent the Assembly inside and outside the Sudan.
 
-- The Assembly shall select, in accordance with the regulations, all its leaders to deputize for the Speaker, to lead deliberation, preside committees or to assume other functions.
+(3) The Assembly shall select, in accordance with the regulations, all its leaders to deputize for the Speaker, to lead deliberation, preside committees or to assume other functions.
 
-- The Speaker of the Assembly shall, upon approval of the Assembly, appoint a secretary general from non-members. The Secretary General shall assume the preparatory and administrative affairs of the Assembly under the supervision of the Speaker.
+(4) The Speaker of the Assembly shall, upon approval of the Assembly, appoint a secretary general from non-members. The Secretary General shall assume the preparatory and administrative affairs of the Assembly under the supervision of the Speaker.
 
 #### Article 77 Committees of the National Assembly
 
@@ -526,7 +537,7 @@ The National Assembly shall, on the initiative of the Speaker, make regulations 
 
 #### Article 79 Quorum of convening of the National Assembly
 
-The quorum of convening of the National Assembly shall not be attained save by the attendance of onethird of its members unless the subject is a legislation in its final presentation, or the Speaker decides the importance of the subject on the agenda, whereupon the quorum shall not be attained save by the attendance of half the members.
+The quorum of convening of the National Assembly shall not be attained save by the attendance of one-third of its members unless the subject is a legislation in its final presentation, or the Speaker decides the importance of the subject on the agenda, whereupon the quorum shall not be attained save by the attendance of half the members.
 
 #### Article 80 Sittings open
 
@@ -542,9 +553,9 @@ Members in the National Assembly shall freely and responsibly express their opin
 
 #### Article 83 Address by the President of the Republic or a minister
 
-- The President of the Republic may address the National Assembly in person or by way of a message. He may request the opinion of the Assembly on any subject and the Assembly shall grant the response to such request priority over the other business.
+(1) The President of the Republic may address the National Assembly in person or by way of a message. He may request the opinion of the Assembly on any subject and the Assembly shall grant the response to such request priority over the other business.
 
-- A federal minister may request to address the National Assembly, and the Assembly shall provide the opportunity for that as urgently as possible.
+(2) A federal minister may request to address the National Assembly, and the Assembly shall provide the opportunity for that as urgently as possible.
 
 #### Article 84 Addressing questions - requesting statements
 
@@ -572,17 +583,17 @@ The National Assembly or any of its committees may summon any public official or
 
 (1) The bill presented to the National Assembly shall be submitted for first presentation by citing the title for tabling it before the Assembly, it shall thereafter be presented the second presentation for deliberation focused on the general features and purports thereof for passing it on point of principle. If it has been so passed, there shall be a third presentation for deliberation in detail and introducing any amendments and passing the same Then the bill shall in its final form be presented a final presentation without involving the core of the provisions thereof, but to pass the same section by section then to pass it as a whole ; (2) The Speaker of the Assembly shall refer the bill after its first presentation to the concerned committee to present a general evaluation report in preparation for the second presentation for deliberation and passing it on point of principle, then to present a report on such amendments as the committee may or may not have passed in preparation for the third presentation for deliberation on the details of the bill and passing any amendments. The Speaker of the Assembly may also refer it to the concerned committee to present a report involving a final drafting of the provisions of the bill in preparation for its final presentation to pass the same by section and as a whole.
 
-- The Speaker or the concerned committee, may submit the bill to any body of competence outside the Assembly for consideration and reporting on the legitimacy and rationale thereof, or to any body having interest to consider and report upon the impact and acceptability of the same.
+(3) The Speaker or the concerned committee, may submit the bill to any body of competence outside the Assembly for consideration and reporting on the legitimacy and rationale thereof, or to any body having interest to consider and report upon the impact and acceptability of the same.
 
-- The Assembly may by a special procedural resolution as a general commission or by summary procedure decide upon the bill submitted to it.
+(4) The Assembly may by a special procedural resolution as a general commission or by summary procedure decide upon the bill submitted to it.
 
 #### Article 89 Coming of law into force
 
-- No bill which has been passed by the National Assembly shall become a law in force, save when the same has been signed by the President of the Republic or upon lapse of thirty days after submitting it to him, and he neither signs nor decides to have it revised.
+(1) No bill which has been passed by the National Assembly shall become a law in force, save when the same has been signed by the President of the Republic or upon lapse of thirty days after submitting it to him, and he neither signs nor decides to have it revised.
 
-- Where the Assembly passes the bill with provisions not acceptable to the President of the Republic, he may decide to have the same revised by returning it to the Assembly accompanied by comments and the Assembly may thereupon give due regard thereto and amend the bill and submit it to him once more or may neglect the same.
+(2) Where the Assembly passes the bill with provisions not acceptable to the President of the Republic, he may decide to have the same revised by returning it to the Assembly accompanied by comments and the Assembly may thereupon give due regard thereto and amend the bill and submit it to him once more or may neglect the same.
 
-- Where the President of the Republic returns the bill for revision and the bill is passed again by the Assembly with the same provisions by the majority of two-thirds of members, it shall thereupon become law in force.
+(3) Where the President of the Republic returns the bill for revision and the bill is passed again by the Assembly with the same provisions by the majority of two-thirds of members, it shall thereupon become law in force.
 
 #### Article 90 Provisional ordinances
 
@@ -592,9 +603,9 @@ The National Assembly or any of its committees may summon any public official or
 
 [[START OF PAGE 13]]
 
-- Every law annulled or amended according to a provisional ordinance which has become null and void, shall be revived into force from the date of annulment of the provisional ordinance.
+(3) Every law annulled or amended according to a provisional ordinance which has become null and void, shall be revived into force from the date of annulment of the provisional ordinance.
 
-- The Assembly may delegate to the President of the Republic the power to ratify by a republican decree having the force of promulgated law without a subsequent ratification by the National Assembly, the power to ratify international conventions and agreements in the absence of the Assembly ; provided that the same shall be deposited before the Assembly after its convening.
+(4) The Assembly may delegate to the President of the Republic the power to ratify by a republican decree having the force of promulgated law without a subsequent ratification by the National Assembly, the power to ratify international conventions and agreements in the absence of the Assembly ; provided that the same shall be deposited before the Assembly after its convening.
 
 #### Article 91 General budget bill
 
@@ -626,7 +637,7 @@ The Council of Ministers shall present to the National Assembly during the six m
 
 #### Article 95 Delegation of the power of subsidiary legislation
 
-The National Assembly may by law delegate to President of the Republic, the Council of Ministers or any Public body, the powerto make any regulations, rules, orders or any other subsidiary instruments having the force of law ; provided that such subsidiary legislations shall be tabled before the Assembly, and are subject to annulment or amendment by a resolution in accordance with the provisions of the regulations.
+The National Assembly may by law delegate to President of the Republic, the Council of Ministers or any Public body, the power to make any regulations, rules, orders or any other subsidiary instruments having the force of law ; provided that such subsidiary legislations shall be tabled before the Assembly, and are subject to annulment or amendment by a resolution in accordance with the provisions of the regulations.
 
 #### Article 96 Authority of the business of the National Assembly
 
@@ -638,7 +649,7 @@ There shall be established in each State an elected Assembly for the State to as
 
 #### Article 98 Provisions of the State Assembly
 
-Taking into consideration that its the Assembly of the State concerned, that the Governor takes the place of the President and the State Minister takes the place of a federal Minister, there shall govern every State's Assembly the same constitutional provisions which govern the National Assembly, as follows:(a) the Assembly, and composition ( Article 67) ; (b) conditions of membership of the Assembly ( Article 68 (1)), and shall not be qualified for nomination to the State Assembly whoever is a member of the National Assembly or the Assembly of another State or holds a federal ministerial office ; (c) lapse of membership of the Assembly ( Article 69 (1) and (2)) ; (d) seat of Assembly ( Article 70), taking into consideration that its seat at the capital of the State ; (e) oath of members of the Assembly ( Article 71) ; (f) term of the Assembly ( Article 72) ; (g) functions of the Assembly (Article 73 ), except drafting constitutional amendment and ratification of international conventions and agreements ; (h) immunity of members of the Assembly ( Article 74) ; (i) convening and sessions of the Assembly ( Article 75) ; (j) leaders of the Assembly ( Article 76); (k) committees of the Assembly ( Article 77) ; (I) regulations of the Assembly ( Article 78) ; (m) quorum of convening of the Assembly ( Article 79) ; (n) sittings open ( Article 80) ; (o) passing resolutions ( Article 81) ; (p) freedom of expression in the Assembly ( Article 82) ; (q) address by the President of the Republic or a minister ( Article 83 ) ; (r) addressing questions - request of statements ( Article 84) ; (s) interrogation of a minister ( Article 85 ) ; (t) summons of persons and inquiry ( Article 86): (u) tabling bills ( Article 87) ; (v) procedure of presentation and consideration of the bill (Article 88) ; (w) coming of law into force ( Article 89) ; (x) provisional ordinances ( Article 90) ; (y) general budget bill (Article 91) ; (z) special financial bills ( Article 92) ;
+Taking into consideration that its the Assembly of the State concerned, that the Governor takes the place of the President and the State Minister takes the place of a federal Minister, there shall govern every State's Assembly the same constitutional provisions which govern the National Assembly, as follows:- (a) the Assembly, and composition ( Article 67) ; (b) conditions of membership of the Assembly ( Article 68 (1)), and shall not be qualified for nomination to the State Assembly whoever is a member of the National Assembly or the Assembly of another State or holds a federal ministerial office ; (c) lapse of membership of the Assembly ( Article 69 (1) and (2)) ; (d) seat of Assembly ( Article 70), taking into consideration that its seat at the capital of the State ; (e) oath of members of the Assembly ( Article 71) ; (f) term of the Assembly ( Article 72) ; (g) functions of the Assembly (Article 73 ), except drafting constitutional amendment and ratification of international conventions and agreements ; (h) immunity of members of the Assembly ( Article 74) ; (i) convening and sessions of the Assembly ( Article 75) ; (j) leaders of the Assembly ( Article 76); (k) committees of the Assembly ( Article 77) ; (l) regulations of the Assembly ( Article 78) ; (m) quorum of convening of the Assembly ( Article 79) ; (n) sittings open ( Article 80) ; (o) passing resolutions ( Article 81) ; (p) freedom of expression in the Assembly ( Article 82) ; (q) address by the President of the Republic or a minister ( Article 83 ) ; (r) addressing questions - request of statements ( Article 84) ; (s) interrogation of a minister ( Article 85 ) ; (t) summons of persons and inquiry ( Article 86): (u) tabling bills ( Article 87) ; (v) procedure of presentation and consideration of the bill (Article 88) ; (w) coming of law into force ( Article 89) ; (x) provisional ordinances ( Article 90) ; (y) general budget bill (Article 91) ; (z) special financial bills ( Article 92) ;
 
 [[END OF PAGE 14]]
 
@@ -652,7 +663,9 @@ Taking into consideration that its the Assembly of the State concerned, that the
 
 (ziv) authority of the business of the Assembly ( Article 96).
 
-## PART 5THE JUDICIAL SYSTEM
+## PART 5-
+
+## THE JUDICIAL SYSTEM
 
 #### Article 99 The Judiciary
 
@@ -664,7 +677,7 @@ The Judiciary shall be responsible for the performance of its work before the Pr
 
 #### Article 101 Independence of judges
 
-- Judges are independent in the performance of their duties and have fill judicial competence with respect to their functions ; and they shall not be influenced in their judgments.
+(1) Judges are independent in the performance of their duties and have full judicial competence with respect to their functions ; and they shall not be influenced in their judgments.
 
 - A judge shall be guided by the principle of the supremacy of the Constitution and the law and he shall protect this principle, giving due regard to the establishment of justice in thoroughness and impartiality without fear or favour.
 
@@ -688,13 +701,13 @@ The judicial structure shall consist of a supreme court, appeal courts and court
 
 - The law shall determine the terms of service , discipline and immunities of judges.
 
-- No judge shall be removed save under disciplinary measures and upon a recommendation form the Supreme Council of the Judiciary.
+(4) No judge shall be removed save under disciplinary measures and upon a recommendation from the Supreme Council of the Judiciary.
 
 #### Article 105 The Constitutional Court
 
-- There shall be established an independent Constitutional Court ; and the President of the Republic shall appoint its president and members form persons of high experience in matters of justice, with the approval of the National Assembly.
+(1) There shall be established an independent Constitutional Court ; and the President of the Republic shall appoint its president and members from persons of high experience in matters of justice, with the approval of the National Assembly.
 
-- The Constitutional Court shall be the custodian of the Constitution, and shall have the jurisdiction to consider and adjudge any matter relating td the following:-
+(2) The Constitutional Court shall be the custodian of the Constitution, and shall have the jurisdiction to consider and adjudge any matter relating to the following:-
 
 [[END OF PAGE 15]]
 
@@ -704,17 +717,19 @@ The judicial structure shall consist of a supreme court, appeal courts and court
 
 #### Article 106 Public legal counsels and attorneys
 
-Legal Counsels working in the public service and attorneys shall strive to express the values of justice, truth, legality, protection of public and private rights, tender advice and render legal services to the State and citizens, and shall perform their functions truthfully and imparually in accordance with the Constitution and the law.
+Legal Counsels working in the public service and attorneys shall strive to express the values of justice, truth, legality, protection of public and private rights, tender advice and render legal services to the State and citizens, and shall perform their functions truthfully and impartially in accordance with the Constitution and the law.
 
 #### Article 107 Advocacy
 
 (1) The profession of advocacy shall be established to express the values of justice, the righteousness and legality, fend off injustice and seek conciliation between adversaries, observe neutrality in the just proof of right, impartiality in pursuit of the truth and facilitate legal aid for the needy in accordance with the provisions of the law. (2) The law shall regulate the conditions for the practice of the profession
 
-## PART 6THE FEDERAL SYSTEM
+## PART 6-
+
+## THE FEDERAL SYSTEM
 
 #### Article 108 The division of the Sudan into States
 
-The Republic of the Sudan shall be divided into states each state shall have a capital, as follows:(a) Upper Nile state ; capital is Malakal ; (b) Red Sea state ; capital is Port Sudan ; (c) Bahr - AI-Jabal state ; capital is Juba ; (d) Lakes state ; capital is Rumbek ; (e) Gezira state ; capital is Wad Medani; (f) Jungoli state ; capital is Bor ; (g) South Darfur state ; capital is Nyal; (h) South Kordufan state ; capital is Kadugli ; (i) Khartoum state ; capital is Khartoum ; (j) Sennar state ; capital is Sinja; (k) East Equatoria state ; capital is Kapoita ; (l) North Bahr-Al-Ghazal state ; capital is Awil ; (m) North Darfur state ; capital is AL -Fashir ; (n) North Kordufan state ; capital is Al-Obied ; (o) Northern state ; capital is Dongula ; (p) West Equatoria state ; capital is Yambio ; (q) West Bahr-Al-Ghazal state ; capital isWau ; (r) West Darfur state ; capital is Geneina ; (s) West Kordufan state ; capital is Al -Fula ; (t) Gedarif state ; capital is Gedarif ; (u) Kassala state ; capital is Kassala ; (v) River Nile state ; capital is M-Damar ; (w) White Nile state ; capital is Rabak ; (x) Blue Nile state ; capital is Al-Damazin ; (y) Warap state ; capital is Warap ;
+The Republic of the Sudan shall be divided into states each state shall have a capital, as follows:(a) Upper Nile state ; capital is Malakal ; (b) Red Sea state ; capital is Port Sudan ; (c) Bahr - Al-Jabal state ; capital is Juba ; (d) Lakes state ; capital is Rumbek ; (e) Gezira state ; capital is Wad Medani; (f) Jungoli state ; capital is Bor ; (g) South Darfur state ; capital is Nyala; (h) South Kordufan state ; capital is Kadugli ; (i) Khartoum state ; capital is Khartoum ; (j) Sennar state ; capital is Sinja; (k) East Equatoria state ; capital is Kapoita ; (l) North Bahr-Al-Ghazal state ; capital is Awil ; (m) North Darfur state ; capital is AL -Fashir ; (n) North Kordufan state ; capital is Al-Obied ; (o) Northern state ; capital is Dongula ; (p) West Equatoria state ; capital is Yambio ; (q) West Bahr-Al-Ghazal state ; capital is Wau ; (r) West Darfur state ; capital is Geneina ; (s) West Kordufan state ; capital is Al -Fula ; (t) Gedarif state ; capital is Gedarif ; (u) Kassala state ; capital is Kassala ; (v) River Nile state ; capital is Al-Damar ; (w) White Nile state ; capital is Rabak ; (x) Blue Nile state ; capital is Al-Damazin ; (y) Warap state ; capital is Warap ;
 
 (z) Unity state ; capital is Bantio.
 
@@ -728,7 +743,7 @@ Boundaries of States shall be as they are on the day on which the Constitution c
 
 #### Article 110 Federal powers
 
-Federal organs shall exercise the power for planning, legislation and execution in the following affairs :(a) defence, armed forces, police, security and disciplined people's forces ; (b) the Sudan international borders and settlement of border disputes between states ; (c) nationality, passports, immigration and aliens' affairs ; (d) foreign relations ; (e) rules of general elections for constitutional, federal, state and local institutions ; (f) advocacy ; (g) general professions organized by federal laws ; (h) currency, financial, fiscal and credit policies ; (i) specifications, weights, measures and dates and times ; (1) federal financial resources ; (k) foreign trade ; (I) national projects, corporations and companies ; (m) federal lands and natural resources, mineral and subterranean wealth ; (n) inter states waters ; (o) national electricity projects ; (p) federal air transport, inter states land and sea routes and inter states federal transport and communications (q) epidemics ; and general disasters ; (r) archeology and archeological sites.
+Federal organs shall exercise the power for planning, legislation and execution in the following affairs :-(a) defence, armed forces, police, security and disciplined people's forces ; (b) the Sudan international borders and settlement of border disputes between states ; (c) nationality, passports, immigration and aliens' affairs ; (d) foreign relations ; (e) rules of general elections for constitutional, federal, state and local institutions ; (f) advocacy ; (g) general professions organized by federal laws ; (h) currency, financial, fiscal and credit policies ; (i) specifications, weights, measures and dates and times ; (j) federal financial resources ; (k) foreign trade ; (l) national projects, corporations and companies ; (m) federal lands and natural resources, mineral and subterranean wealth ; (n) inter states waters ; (o) national electricity projects ; (p) federal air transport, inter states land and sea routes and inter states federal transport and communications (q) epidemics ; and general disasters ; (r) archeology and archeological sites.
 
 #### Article 111 State powers
 
@@ -736,17 +751,17 @@ The State organs, each within the boundaries of the State shall exercise the pow
 
 #### Article 112 Concurrent powers
 
-(1) Each of the federal organs throughout the Sudan and State organs, as to what concern the State, shall exercise power in the following affairs, in accordance with federal legislations:(a) public service ; (b) public counsels and attorneys ; (c) local government ; 4. information, culture and means of publication ; (e) education and scientific research ; (f) health ; (g) social welfare ; (h)economic policy ; (i) co-operation ; (j) industry ;
+(1) Each of the federal organs throughout the Sudan and State organs, as to what concern the State, shall exercise power in the following affairs, in accordance with federal legislations:(a) public service ; (b) public counsels and attorneys ; (c) local government ; (d) information, culture and means of publication ; (e) education and scientific research ; (f) health ; (g) social welfare ; (h)economic policy ; (i) co-operation ; (j) industry ;
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-(k) quarries ; (I) border trade ; (m) building development planning and housing ; (n) survey ; (o) statistics ; (p) environment ; (q) tourism ; (r) Meteorology. (2) There shall be established by a federal law, councils representing the federal and States' executive authorities to assume division and planning of lands and forests between the federal authority and the States. (3) The residual powers not mentioned in the division of federal and State or concurrent powers shall be deemed to be concurrent
+(k) quarries ; (l) border trade ; (m) building development planning and housing ; (n) survey ; (o) statistics ; (p) environment ; (q) tourism ; (r) Meteorology. (2) There shall be established by a federal law, councils representing the federal and States' executive authorities to assume division and planning of lands and forests between the federal authority and the States. (3) The residual powers not mentioned in the division of federal and State or concurrent powers shall be deemed to be concurrent
 
 #### Article 113 Federal financial resources
 
-The federal financial resources shall be:(a) customs revenues and the revenues of international ports and airports ; (b) companies profits tax, personal income tax and stamp duty of federal and inter state dealings ; (c) profits of national projects; provided that there shall be allocated to the states to which they extend a percentage as the law may specify ; (d) federal industries' excise duty ; (e) expatriates' taxes and foreign institutions and activities taxes ; (t) any such other taxes or fees that do not affect the State's or the local government resources ; (g) grants, loans and credit facilities.
+The federal financial resources shall be:(a) customs revenues and the revenues of international ports and airports ; (b) companies profits tax, personal income tax and stamp duty of federal and inter state dealings ; (c) profits of national projects; provided that there shall be allocated to the states to which they extend a percentage as the law may specify ; (d) federal industries' excise duty ; (e) expatriates' taxes and foreign institutions and activities taxes ; (f) any such other taxes or fees that do not affect the State's or the local government resources ; (g) grants, loans and credit facilities.
 
 #### Article 114 State's financial resources
 
@@ -758,11 +773,9 @@ The localities' financial resources shall be:(a) estates tax ; (b) sales tax ; (
 
 #### Article 116 Federal Government Chamber
 
-- There shall be established by law federal government chamber, under the supervision of the President
+(1) There shall be established by law federal government chamber, under the supervision of the President of the Republic to assume, with respect to the process of the federal and State government co-ordination, communication and organization of conferences between Governors and States' organs and the Presidency and federal organs.
 
-of the Republic to assume, with respect to the process of the federal and State government coordination, communication and organization of conferences between Governors and States' organs and the Presidency and federal organs. (2) There shall be established under the supervision of the Federal Government Chamber a fund to be contributed to by the federal budget and budgets of able States to support the needy States according to fair criteria that give due regard to the size of population, level of development and other factors as the
-
-- law may regulate.
+(2) There shall be established under the supervision of the Federal Government Chamber a fund to be contributed to by the federal budget and budgets of able States to support the needy States according to fair criteria that give due regard to the size of population, level of development and other factors as the law may regulate.
 
 #### Article 117 National immunities
 
@@ -788,41 +801,41 @@ The States shall supply federal organs with data and information whenever the sa
 
 #### Article 120 Request for deferral of legislation
 
-The National Assembly and the State's Assembly may request each other to deferr the passing of any bill, pending expressing the opinion thereon, where the bill has a national or special impact on the state.
+The National Assembly and the State's Assembly may request each other to defer the passing of any bill, pending expressing the opinion thereon, where the bill has a national or special impact on the state.
 
 #### Article 121 Exchange of laws
 
 The National Assembly shall exchange with the State's Assembly and States' Assemblies shall exchange between them, the laws they promulgate.
 
-## PART 7OTHER SYSTEMS AND ORGANS
+## PART 7-
+
+## OTHER SYSTEMS AND ORGANS
 
 #### Article 122 People's Armed Forces
 
-- The People's Armed Forces are military forces of national composition ; their mission is the protection, security, preservation of the safety and participation in the construction of the nation , they also protect the achievements of the people, and the civilisational orientation of the national community. They also safeguard the constitutional order.
+(1) The People's Armed Forces are military forces of national composition ; their mission is the protection, security, preservation of the safety and participation in the construction of the nation , they also protect the achievements of the people, and the civilisational orientation of the national community. They also safeguard the constitutional order.
 
-- The law shall regulate the order of the People's Armed Forces and the reserve forces, the terms of service and emoluments of the member thereof.
+(2) The law shall regulate the order of the People's Armed Forces and the reserve forces, the terms of service and emoluments of the member thereof.
 
-- The law shall regulate the establishment and constitution of military courts, their forms , jurisdiction, powers and procedure, and shall also regulate military legal ser.
+(3) The law shall regulate the establishment and constitution of military courts, their forms , jurisdiction, powers and procedure, and shall also regulate military legal service.
 
 #### Article 123 Police Forces
 
-- The Police Forces are regular forces of national composition whose mission is to serve the security of the country and citizens, combat crime, protect property, prevent disasters and preserve the morality and conduct of the society and the public order.
+(1) The Police Forces are regular forces of national composition whose mission is to serve the security of the country and citizens, combat crime, protect property, prevent disasters and preserve the morality and conduct of the society and the public order.
 
-- The Police Forces shall be regulated by the federal authority as to planning, preparation and training, and supervision of sectors thereof.
+(2) The Police Forces shall be regulated by the federal authority as to planning, preparation and training, and supervision of sectors thereof. The States shall supervise some sectors within the State. In a state of emergency supervision of all shall be under federal authorities.
 
-The States shall supervise some sectors within the State. In a state of emergency supervision of all shall be under federal authorities.
-
-- The law shall specify the order, functions, terms of service and the relation between the federal and State's organs and sectors of the Police Forces.
+(3) The law shall specify the order, functions, terms of service and the relation between the federal and State's organs and sectors of the Police Forces.
 
 #### Article 124 Security Forces
 
-- Security Forces are national regular forces whose mission is to care for the internal and external security of the Sudan, monitor relevant events, analyze the significance and dangers of the same and recommend protection measures.
+(1) Security Forces are national regular forces whose mission is to care for the internal and external security of the Sudan, monitor relevant events, analyze the significance and dangers of the same and recommend protection measures.
 
-- The law shall organize the order of the Security Forces and terms of service of their members.
+(2) The law shall organize the order of the Security Forces and terms of service of their members.
 
 #### Article 125 Popular Forces
 
-- The State may establish voluntary popular military forces for the people's defence or security, and
+(1) The State may establish voluntary popular military forces for the people's defence or security, and
 
 [[END OF PAGE 19]]
 
@@ -830,57 +843,55 @@ The States shall supervise some sectors within the State. In a state of emergenc
 
 may also establish other disciplined forces to be composed of Sudanese individuals, and work under the command of the Armed Forces or the Police for the needs of defence, security, order and other public functions.
 
-- The law shall specify the order of the popular forces, their duties and the relations of the federal and State supervision.
+(2) The law shall specify the order of the popular forces, their duties and the relations of the federal and State supervision.
 
 #### Article 126 Public Service
 
-- The Public Service is all those employees in the State to carry out the functions assigned to them.
+(1) The Public Service is all those employees in the State to carry out the functions assigned to them.
 
-- The State shall abide by fairness in assigning public posts on the basis of academic and practical qualification with regard to due balance.
+(2) The State shall abide by fairness in assigning public posts on the basis of academic and practical qualification with regard to due balance.
 
-- The law shall organize the duties of the public service and shall as well determine the terms of service and the rights of the employees.
+(3) The law shall organize the duties of the public service and shall as well determine the terms of service and the rights of the employees.
 
 #### Article 127 Employees Justice Chamber
 
-- There shall be established by federal or State law an Employees Justice Chamber for employees in public service, having competence to consider and determine the grievances of employees ; and the law shall specify its functions and powers The supervision and appointment of the president of the Chamber shall be by the President of the Republic or the Governor as the case may be.
+(1) There shall be established by federal or State law an Employees Justice Chamber for employees in public service, having competence to consider and determine the grievances of employees ; and the law shall specify its functions and powers. The supervision and appointment of the president of the Chamber shall be by the President of the Republic or the Governor as the case may be.
 
-- Decisions of the Employees Justice Chamber shall be final, not to be reviewed by courts.
+(2) Decisions of the Employees Justice Chamber shall be final, not to be reviewed by courts.
 
 #### Article 128 General Elections Board
 
-- There shall be established an independent organ to be known as the " General Elections Board " . Its chairman and members shall be appointed by the President of the Republic with the approval of the National Assembly. They shall be persons of efficiency, impartiality and propriety. The Board shall be responsible to the President of the Republic and the National Assembly for its work.
+(1) There shall be established an independent organ to be known as the " General Elections Board " . Its chairman and members shall be appointed by the President of the Republic with the approval of the National Assembly. They shall be persons of efficiency, impartiality and propriety. The Board shall be responsible to the President of the Republic and the National Assembly for its work.
 
-- The Board shall be the sole and only body to assume the following functions:-
+(2) The Board shall be the sole and only body to assume the following functions:-
 
 (a) preparation of the general electoral roll, and its revision annually ;
 
-(b) conduct of the elections for the Presidency of the Republic,
+(b) conduct of the elections for the Presidency of the Republic, deputies in the National and State Assemblies and in local councils in accordance with the law ;
 
-deputies in the National and State Assemblies and in local councils in accordance with the law ;
-
-- any general referendum in accordance with the Constitution ;
+(c) any general referendum in accordance with the Constitution ;
 
 (d) fair and equal introduction of candidates to the electorate in the means of public address and communication ;
 
 (e) any other electoral functions as the law may specify or the President of the Republic may assign to the Board.
 
-- The law shall specify the rules, powers, procedure and terms of service of employees of the General Elections Board.
+(3) The law shall specify the rules, powers, procedure and terms of service of employees of the General Elections Board.
 
-- The law shall organize the system of the general electoral roll, the general rules and measures of elections and the procedure of conducting the same.
+(4) The law shall organize the system of the general electoral roll, the general rules and measures of elections and the procedure of conducting the same.
 
 #### Article 129
 
-- There shall be established an independent organ to be known as the, " General Auditing Chamber " . Its president who is the Auditor General and all other members of leadership of the Chamber shall be appointed by the President of the Republic with the approval of the National Assembly. The leadership shall be responsible to the President of the Republic and the National Assembly.
+(1) There shall be established an independent organ to be known as the, " General Auditing Chamber " . Its president who is the Auditor General and all other members of leadership of the Chamber shall be appointed by the President of the Republic with the approval of the National Assembly. The leadership shall be responsible to the President of the Republic and the National Assembly.
 
-- The General Auditing Chamber shall assume auditing of the accounts of the federal executive organs, the National Assembly, and the Judiciary, as will as federal public organs, institutions, corporations and companies.
+(2) The General Auditing Chamber shall assume auditing of the accounts of the federal executive organs, the National Assembly, and the Judiciary, as well as federal public organs, institutions, corporations and companies.
 
-- The President of the Republic may assign to the General Auditing Chamber, the auditing of the accounts of the States, on of any other private or public body.
+(3) The President of the Republic may assign to the General Auditing Chamber, the auditing of the accounts of the States, or of any other private or public body.
 
-- The law shall organize the General Auditing Chamber and specify the functions and terms of service of its employees.
+(4) The law shall organize the General Auditing Chamber and specify the functions and terms of service of its employees.
 
 #### Article 130
 
-- There shall be established an independent organ, to be known as the " Public Grievances and Corrections Board ". Its president and members shall be appointed by the President of the Republic with the approval of the National Assembly from persons of efficiency and propriety. The Board shall be
+(1) There shall be established an independent organ, to be known as the " Public Grievances and Corrections Board ". Its president and members shall be appointed by the President of the Republic with the approval of the National Assembly from persons of efficiency and propriety. The Board shall be
 
 [[END OF PAGE 20]]
 
@@ -888,29 +899,31 @@ deputies in the National and State Assemblies and in local councils in accordanc
 
 responsible to the President of the Republic and the Assembly.
 
-- Without prejudice to the jurisdiction of the Judiciary, the Board shall work at the federal level to clear away grievances, assure efficiency and purity in the practice of the State and in systems, or the final executive or administrative acts, and also to extend justice after the final decisions of the institutions of justice.
+(2) Without prejudice to the jurisdiction of the Judiciary, the Board shall work at the federal level to clear away grievances, assure efficiency and purity in the practice of the State and in systems, or the final executive or administrative acts, and also to extend justice after the final decisions of the institutions of justice.
 
-- The Board shall work in co-ordination with the various organs of the State and submit its recommendations to the President of the Republic, the National Assembly or any public organ.
+(3) The Board shall work in co-ordination with the various organs of the State and submit its recommendations to the President of the Republic, the National Assembly or any public organ.
 
-- The law shall regulate the functions, procedure and terms of service of the employees of the Board.
+(4) The law shall regulate the functions, procedure and terms of service of the employees of the Board.
 
-- There shall be established public grievances and corrections boards in the States by state law observing accordance with the foregoing provisions.
+(5) There shall be established public grievances and corrections boards in the States by state law observing accordance with the foregoing provisions.
 
-## PART 8STATE OF EMERGENCY AND DECLARATION OF WAR
+## PART 8-
+
+## STATE OF EMERGENCY AND DECLARATION OF WAR
 
 #### Article 131 Declaration of the state of emergency
 
-- The President of the Republic may, upon the occurrence or approach of any emergent danger, whether it is war, invasion, blockade disaster or epidemics, as may threaten the country, or any part thereof or the safety or economy of the same, declare the state of emergency in the country, or in any part thereof, in accordance with the Constitution and the law.
+(1) The President of the Republic may, upon the occurrence or approach of any emergent danger, whether it is war, invasion, blockade disaster or epidemics, as may threaten the country, or any part thereof or the safety or economy of the same, declare the state of emergency in the country, or in any part thereof, in accordance with the Constitution and the law.
 
-- The declaration of the state of emergency shall be submitted to the National Assembly within fifteen days of its issue. When the Assembly is not in session, an emergency meeting shall be convoked.
+(2) The declaration of the state of emergency shall be submitted to the National Assembly within fifteen days of its issue. When the Assembly is not in session, an emergency meeting shall be convoked.
 
-- When the National Assembly approves the declaration of the state of emergency, there shall continue the effect of any law as may have been standing for the state of emergency or any exceptional order.
+(3) When the National Assembly approves the declaration of the state of emergency, there shall continue the effect of any law as may have been standing for the state of emergency or any exceptional order.
 
 #### Article 132 Powers of the President of the Republic
 
 The President of the Republic may during the state of emergency take by virtue of law or exceptional order any of the following measures:-
 
-(a) to suspend part or all the provisions provided for in the constitutional freedoms, sanctities and rights Chapter. There shall not therein be infringement of the freedom from slavery or torture, right of nondiscrimination only for race, sex or religious creed, the right and sanctity in litigation or the right of innocence and defence ;
+(a) to suspend part or all the provisions provided for in the constitutional freedoms, sanctities and rights Chapter. There shall not therein be infringement of the freedom from slavery or torture, right of non-discrimination only for race, sex or religious creed, the right and sanctity in litigation or the right of innocence and defence ;
 
 (b) to dissolve or suspend any of the State organs or suspend such powers, as may be conferred upon the States under the Constitution. The President of the Republic shall assume the functions of such organs and exercise the powers or prescribe the manner in which the affairs of the State concerned may be managed ;
 
@@ -918,9 +931,9 @@ The President of the Republic may during the state of emergency take by virtue o
 
 #### Article 133 Powers of the National Assembly
 
-- The National Assembly may approve the extension of the state of emergency.
+(1) The National Assembly may approve the extension of the state of emergency.
 
-- The President of the Republic shall submit to the Assembly every exceptional measures as he may take for the state of emergency and the Assembly may pass, amend or revoke any exceptional order.
+(2) The President of the Republic shall submit to the Assembly every exceptional measures as he may take for the state of emergency and the Assembly may pass, amend or revoke any exceptional order.
 
 #### Article 134 Duration of state of emergency
 
@@ -940,7 +953,9 @@ The President of the Republic shall declare war whenever he decides that the cou
 
 [[START OF PAGE 22]]
 
-## PART 9GENERAL AND TRANSITIONAL PROVISIONS
+## PART 9-
+
+## GENERAL AND TRANSITIONAL PROVISIONS
 
 #### Article 136 Salaries and emoluments
 
@@ -948,9 +963,9 @@ The law shall prescribe the salaries, emoluments, privileges and remuneration pe
 
 #### Article 137 Repeal and saving
 
-- There shall be repealed as from the date of the Constitution coming into force all the Constitutional Decrees.
+(1) There shall be repealed as from the date of the Constitution coming into force all the Constitutional Decrees.
 
-- Notwithstanding the provisions of Sub article (1), the 14th. Constitutional Decree (Implementation of the Peace Agreement), 1997, shall remain in force, and shall expire upon termination of the transitional period mentioned therein.
+(2) Notwithstanding the provisions of Sub article (1), the 14th. Constitutional Decree (Implementation of the Peace Agreement), 1997, shall remain in force, and shall expire upon termination of the transitional period mentioned therein.
 
 #### Article 138 Constitution coming into force
 
@@ -958,11 +973,11 @@ The Constitution shall come into force after approval by the people in the refer
 
 #### Article 139 Amendment of the Constitution
 
-- The President of the Republic, one-third of the members of the National Assembly or one-third of the States' Assemblies shall have the right to propose amendment of the Constitution.
+(1) The President of the Republic, one-third of the members of the National Assembly or one-third of the States' Assemblies shall have the right to propose amendment of the Constitution.
 
-- The National Assembly shall pass the text of amendment by the majority of two-thirds of members and the amendment shall come into force.
+(2) The National Assembly shall pass the text of amendment by the majority of two-thirds of members and the amendment shall come into force.
 
-- The text of the amendment passed in accordance with Sub-article (2), shall not come into force where it amends the provisions of the basic fundamentals, save after the same is also passed by the people in a referendum and signed by the President of the Republic. The basic provisions and fundamentals are:-
+(3) The text of the amendment passed in accordance with Sub-article (2), shall not come into force where it amends the provisions of the basic fundamentals, save after the same is also passed by the people in a referendum and signed by the President of the Republic. The basic provisions and fundamentals are:-
 
 (a) Islamic law and the legislative consensus of the people by the referendum, the Constitution or custom are the prevalent sources of law ;
 
@@ -976,26 +991,30 @@ The Constitution shall come into force after approval by the people in the refer
 
 (f) the judicial and justice system exercise their function independently to settle disputes and has a supreme power to consider and decide the constitutionality of laws that affect the balance of the federal system or the constitutional freedoms, sanctities and rights ;
 
-(g) the Southern Sudan has a transitional system for a term, during which the same is federal and coordinatory for the Southern States, and shall expire by the exercise of the right of self-determination.
+(g) the Southern Sudan has a transitional system for a term, during which the same is federal and co-ordinatory for the Southern States, and shall expire by the exercise of the right of self-determination.
 
 #### Article 140 Continuation of offices organs and laws
 
-- The President of the Republic , who is incumbent upon the Constitution coming into force shall continue with functions and powers in accordance with the Constitution, and his tenure shall expire by termination of the term of five years as of the day of his assumption of Presidency.
+(1) The President of the Republic , who is incumbent upon the Constitution coming into force shall continue with functions and powers in accordance with the Constitution, and his tenure shall expire by termination of the term of five years as of the day of his assumption of Presidency.
 
-- The National Assembly in power upon the Constitution coming into force shall continue with functions and powers in accordance with the Constitution, and its tenure shall expire by the end of the term of four years as of the day of convening the first sitting.
+(2) The National Assembly in power upon the Constitution coming into force shall continue with functions and powers in accordance with the Constitution, and its tenure shall expire by the end of the term of four years as of the day of convening the first sitting.
 
-- The Governors who are incumbent upon the Constitution coming into force shall continue in office with functions and powers in accordance with the Constitution, and their tenure shall expire by the end of the
+(3) The Governors who are incumbent upon the Constitution coming into force shall continue in office with functions and powers in accordance with the Constitution, and their tenure shall expire by the end of the
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-term of four years as of the day of assumption of governorship. (4) The States' Assemblies in power upon the Constitution coming into force shall continue with functions and powers in accordance with the Constitution, and the term of each Assembly shall expire as the President of the Republic may decide. (5) Until the issue of new measures in accordance with the provisions of the Constitution, all laws shall
+term of four years as of the day of assumption of governorship.
+(4) The States' Assemblies in power upon the Constitution coming into force shall continue with functions and powers in accordance with the Constitution, and the term of each Assembly shall expire as the President of the Republic may decide.
+(5) Until the issue of new measures in accordance with the provisions of the Constitution, all laws shall continue, and all current constitutional organs, and all persons holding public offices or posts shall continue to exercise functions and powers in accordance with the Constitution.
 
-- continue, and all current constitutional organs, and all persons holding public offices or posts shall continue to exercise functions and powers in accordance with the Constitution.
+## Procedures
 
-## Procedures * The original draft of the Constitution of the Republic of The Sudan in Arabic has been passed by the National Assembly on the 28th of March 1998. * The President of the Republic has signed his agreement there to on the 29th of March 1998.
+* The original draft of the Constitution of the Republic of The Sudan in Arabic has been passed by the National Assembly on the 28th of March 1998.
 
-- The Draft was handed over by the National Assembly to the General Elections Board on the 1st of April 1998 to present it to the people of the Sudan for referendum.
+* The President of the Republic has signed his agreement there to on the 29th of March 1998.
+
+* The Draft was handed over by the National Assembly to the General Elections Board on the 1st of April 1998 to present it to the people of the Sudan for referendum.
 
 [[END OF PAGE 23]]
