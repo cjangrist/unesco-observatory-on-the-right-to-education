@@ -3,7 +3,7 @@
 # CONSTITUTION OF THE REPUBLIC OF PALAU
 
 ## PALAU CONSTITUTIONAL CONVENTION
-January 28 - April 2, 1979
+January 28 – April 2, 1979
 
 Koror, Republic of Palau
 
@@ -21,11 +21,11 @@ II.  SOVEREIGNTY AND SUPREMACY..................................................
 
 III.  CITIZENSHIP ......................................................................................................................................3
 
-IV.  FUNDAMENTAL RIGHTS ................................................................................................................5
+IV.  FUNDAMENTAL RIGHTS ................................................................................................................3
 
 V.  TRADITIONAL RIGHTS.....................................................................................................................5
 
-VI.  RESPONSIBILITIES OF THE NATIONALGOVERNMENT...........................................................5
+VI.  RESPONSIBILITIES OF THE NATIONAL GOVERNMENT...........................................................5
 
 VII.  SUFFRAGE.........................................................................................................................................5
 
@@ -51,13 +51,15 @@ XV.  TRANSITION.................................................................
 
 # PREAMBLE
 
-In exercising our inherent sovereignty, We, the people of Palau Proclaim and reaffirm our immemorial right To be supreme in these islands of Palau, our homeland We renew our dedication to preserve and enahce our traditional heritage Our national identify and Our respect for peace, freedom and justice for all man. In establishing this Constitution Of the sovereign Republic of Palau, We venture into the future With full reliance on our own efforts And the divine guidance of Almighty God
+In exercising our inherent sovereignty, We, the people of Palau Proclaim and reaffirm our immemorial right To be supreme in these islands of Palau, our homeland We renew our dedication to preserve and enhance our traditional heritage Our national identity and Our respect for peace, freedom and justice for all mankind. In establishing this Constitution Of the sovereign Republic of Palau, We venture into the future With full reliance on our own efforts And the divine guidance of Almighty God
 
 - 1 -
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+# ARTICLE I
 
 ## TERRITORY
 
@@ -86,13 +88,13 @@ Any law, act of government, or agreement to which a government of Palau is a par
 ### Section 3.
 Major governmental powers including but not limited to defense, security, or foreign affairs may be delegated by treaty, compact, or other agreement between the sovereign Republic of Palau and another sovereign nation or international organization, provided such treaty, compact or agreement shall be approved by not less than two-thirds (2/3) of the members of each house of the Olbiil Era Kelulau and by a majority of the votes cast in a nationwide referendum conducted for such purpose, provided, that any such agreement which authorizes use, testing, storage or disposal of nuclear, toxic chemical, gas or biological weapons intended for use in warfare shall require approval of not less than three-fourths (3/4) of the votes cast in such referendum.
 
-# ARTICLE I
-
 - 2 -
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+# ARTICLE III
 
 ## CITIZENSHIP
 
@@ -100,13 +102,13 @@ Major governmental powers including but not limited to defense, security, or for
 A person who is a citizen of the Trust Territory of the Pacific Islands immediately prior to the effective date of this Constitution and who has at least one parent of recognized Palauan ancestry is a citizen of Palau.
 
 ### Section 2.
-A person born of parents, one or both of whom are citizens of Palau is a citizen of Palau by birth, and shall remain a citizen of Palau so long as the person in not or does not become a citizen of any other nation.
+A person born of parents, one or both of whom are citizens of Palau is a citizen of Palau by birth, and shall remain a citizen of Palau so long as the person is not or does not become a citizen of any other nation.
 
 ### Section 3.
 A citizen of Palau who is a citizen of another nation shall, within three (3) years after his eighteenth (18) birthday, or within three (3) years after the effective date of this Constitution, whichever is later, renounce his citizenship of the other nation and register his intent to remain a citizen of Palau.  If he fails to comply with this requirement, he shall be deprived of Palauan citizenship.
 
 ### Section 4.
-A person born of parents, one or both of whom are recognized Palauan ancestry, shall have the right to enter and reside in Palau and to enjoy other rights and privileges as provided by law, which shall include the right to petition to become a naturalized citizen of Palau; provided, that prior to becoming a naturalized citizen, a person must renounce his citizenship of another nation.  There shall be no citizenship by naturalization except pursuant to this section.
+A person born of parents, one or both of whom are of recognized Palauan ancestry, shall have the right to enter and reside in Palau and to enjoy other rights and privileges as provided by law, which shall include the right to petition to become a naturalized citizen of Palau; provided, that prior to becoming a naturalized citizen, a person must renounce his citizenship of another nation.  There shall be no citizenship by naturalization except pursuant to this section.
 
 ### Section 5.
 The Olbiil Era Kelulau shall adopt uniform laws for admission and exclusion of noncitizens of Palau.
@@ -116,7 +118,7 @@ The Olbiil Era Kelulau shall adopt uniform laws for admission and exclusion of n
 ## FUNDAMENTAL RIGHTS
 
 ### Section 1.
-The government shall take no action to deny or impair the freedom of conscience or of philosophical or religious belief of any person nor take any action to compel, prohibit or hinder the exercise of religion.  The government shall not recognize or establish a national religion, but may provide assistance to private or parochial school on a fair and equitable basis for nonreligious purposes.
+The government shall take no action to deny or impair the freedom of conscience or of philosophical or religious belief of any person nor take any action to compel, prohibit or hinder the exercise of religion.  The government shall not recognize or establish a national religion, but may provide assistance to private or parochial schools on a fair and equitable basis for nonreligious purposes.
 
 ### Section 2.
 The government shall take no action to deny or impair the freedom of expression or press.  No bona fide reporter may be required by the government to divulge or be jailed for refusal to divulge information obtained in the course of a professional investigation.
@@ -126,8 +128,6 @@ The government shall take no action to deny or impair the right of any person to
 
 ### Section 4.
 Every person has the right to be secure in his person, house, papers and effects against entry, search and seizure.
-
-# ARTICLE III
 
 - 3 -
 
@@ -188,7 +188,7 @@ The national government shall take positive action to attain these national obje
 
 ## SUFFRAGE
 
-A citizen of Palau eighteen (18) years of age or older may vote in national and state elections.  The Olbiil Era Kelulau shall prescribe a minimum period of residence and provide for voter registration for national elections. Each state shall prescribe a minimum period of residence and provide for voter registration for state election.  A citizen who is in prison, serving a sentence for a felony, or mentally incompetent as determined by a court may not vote.  Voting shall be by secret ballot.
+A citizen of Palau eighteen (18) years of age or older may vote in national and state elections.  The Olbiil Era Kelulau shall prescribe a minimum period of residence and provide for voter registration for national elections. Each state shall prescribe a minimum period of residence and provide for voter registration for state elections.  A citizen who is in prison, serving a sentence for a felony, or mentally incompetent as determined by a court may not vote.  Voting shall be by secret ballot.
 
 # ARTICLE VIII
 
@@ -253,7 +253,7 @@ The President or Vice President may be removed from office by a recall.  A recal
 [[START OF PAGE 9]]
 
 ### Section 11.
-The Vice President shall succeed to the office of President if it becomes vacant.  If the vacancy occurs due to death, resignation or disability and more than on hundred and eighty (180) days remain in the term, a national election for the offices of the President and Vice President for the remaining term shall be held within two months of such vacancy.  In the event that the offices of both the President and Vice President become vacant, the order of succession to the presidency shall be as follows:  presiding officer of the Senate, presiding officer of the House of Delegates, and then as provided by law.
+The Vice President shall succeed to the office of President if it becomes vacant.  If the vacancy occurs due to death, resignation or disability and more than one hundred and eighty (180) days remain in the term, a national election for the offices of the President and Vice President for the remaining term shall be held within two months of such vacancy.  In the event that the offices of both the President and Vice President become vacant, the order of succession to the presidency shall be as follows:  presiding officer of the Senate, presiding officer of the House of Delegates, and then as provided by law.
 
 ### Section 12.
 The President may introduce legislative measures in the Olbiil Era Kelulau.
@@ -308,7 +308,7 @@ The Olbiil Era Kelulau shall have the following powers:
 
 - to ratify treaties by a vote of a majority of the members of each house;
 
-- to approve presidential appointment by a vote of not less than two-thirds (2/3) of the members of the Senate;
+- to approve presidential appointments by a vote of not less than two-thirds (2/3) of the members of the Senate;
 
 - to establish diplomatic immunities;
 
@@ -378,7 +378,7 @@ Each house of the Olbiil Era Kelulau shall elect a presiding officer by a majori
 The Olbiil Era Kelulau may enact no law except by bill.  Each house of the Olbiil Era Kelulau shall establish a procedure for the enactment of bills into law.  No bill may become a law unless it has been adopted by a majority of the members of each house present on three (3) separate readings, each reading to be held on a separate day.  No bill may become a law unless it contains the following enacting clause:  THE PEOPLE OF PALAU REPRESENTED IN THE OLBIIL ERA KELULAU DO ENACT AS FOLLOWS:
 
 ### Section 15.
-A bill adopted by each house of the Olbiil Era Kelulau shall be presented to the President and shall become law when signed by the President.  If the President vetoes a bill, it shall be returned to each house of the Olbiil Era Kelulau within fifteen (15) calendar days with a statement of reasons for the veto.  The President may reduce or veto an item in an appropriation bill and sign the remainder of the bill, returning the item reduced or vetoed to each house within fifteen (15) calendar days together with the reason for his action; or refer a bill to each house with recommendations for amendment.  A bill no signed, vetoed, or referred within fifteen (15) calendar days of presentation to the President shall become law.  A bill or item of a bill vetoed or reduced by the President may be considered by each house within thirty (30) calendar days of its return and shall become law as originally adopted upon approval of not less than two-thirds (2/3) of the members of each house.  The Olbiil Era Kelulau, by the approval of a majority of the members present of each house, may pass a bill referred by the President in accordance with the President's recommendation for change and return it to the President for reconsideration.  The President may not refer a bill for amendment a second time.
+A bill adopted by each house of the Olbiil Era Kelulau shall be presented to the President and shall become law when signed by the President.  If the President vetoes a bill, it shall be returned to each house of the Olbiil Era Kelulau within fifteen (15) calendar days with a statement of reasons for the veto.  The President may reduce or veto an item in an appropriation bill and sign the remainder of the bill, returning the item reduced or vetoed to each house within fifteen (15) calendar days together with the reason for his action; or refer a bill to each house with recommendations for amendment.  A bill not signed, vetoed, or referred within fifteen (15) calendar days of presentation to the President shall become law.  A bill or item of a bill vetoed or reduced by the President may be considered by each house within thirty (30) calendar days of its return and shall become law as originally adopted upon approval of not less than two-thirds (2/3) of the members of each house.  The Olbiil Era Kelulau, by the approval of a majority of the members present of each house, may pass a bill referred by the President in accordance with the President's recommendation for change and return it to the President for reconsideration.  The President may not refer a bill for amendment a second time.
 
 - 9 -
 
@@ -433,7 +433,7 @@ All justices of the Supreme Court and judges of the National Court shall hold th
 A justice of the Supreme Court may be impeached only for the commission of treason, bribery, other high crimes, or improper practices, or on the grounds of his inability to discharge the functions of his office upon a vote of not less than two-thirds (2/3) of the members of each house of the Olbiil Era Kelulau.  The judges of the National Court and the inferior courts may be impeached by a majority vote of the members of each house of the Olbiil Era Kelulau.  During his impeachment or removal proceedings, a justice or judge may not exercise the power of his office. A justice or judge shall forfeit his office upon conviction of a felony or any high crime.
 
 ### Section 11.
-The justices and judges shall receive compensation as prescribed by law.  Such compensation shall no be diminished during their term of office.
+The justices and judges shall receive compensation as prescribed by law.  Such compensation shall not be diminished during their term of office.
 
 ### Section 12.
 The Chief Justice of the Supreme Court shall be the administrative head of the unified judicial system.  He may assign judges from one geographical department or functional division of a court to another department or division of that court and he may assign judges for temporary service in another court.  The Chief Justice shall appoint with the approval of the Associate Justices, an administrative director to supervise the administrative operation of the judicial system.
@@ -487,7 +487,7 @@ There shall be a National Treasury and a state treasury for each of the states. 
 
 ### Section 3.
 
-- The President shall submit an annual unified national bidget to the Olbiil Era Kelulau for consideration and approval.  The Olbiil Era Kelulau may amend or modify the annual budget as submitted by the President.  Except appropriation bills recommended by the President for immediate passage or to cover the operational expenses of the Olbiil Era Kelulau, no appropriation bill may be enacted by the Olbiil Era Kelulau until a bill appropriating money for the budget has been enacted.
+- The President shall submit an annual unified national budget to the Olbiil Era Kelulau for consideration and approval.  The Olbiil Era Kelulau may amend or modify the annual budget as submitted by the President.  Except appropriation bills recommended by the President for immediate passage or to cover the operational expenses of the Olbiil Era Kelulau, no appropriation bill may be enacted by the Olbiil Era Kelulau until a bill appropriating money for the budget has been enacted.
 
 - The chief executive of each state shall submit, with the assistance of the national government, an annual budget to the state legislature for consideration and approval.  The state legislature may amend or modify the annual budget as submitted by the chief executive of the state.  Except appropriation bills recommended by the chief executive of the state for immediate passage or to cover the operational expenses of the state legislature, no appropriation bill may be enacted by a state legislature until a bill appropriating money for the budget has been enacted.
 
@@ -543,13 +543,13 @@ Only citizens of Palau and corporations wholly owned by citizens of Palau may ac
 No tax shall be imposed on land.
 
 ### Section 10.
-The national government shall, within five (5) years of the effective date of this Constitution, provide for the return to the original owners of their heirs of any land which became part of the public lands as a result of the acquisition by previous occupying powers or their nationals through force, coercion, fraud, or without just compensation or adequate consideration.
+The national government shall, within five (5) years of the effective date of this Constitution, provide for the return to the original owners or their heirs of any land which became part of the public lands as a result of the acquisition by previous occupying powers or their nationals through force, coercion, fraud, or without just compensation or adequate consideration.
 
 ### Section 11.
 The provisional capital shall be located in Koror; provided that not later than ten (10) years after the effective date of this Constitution, the Olbiil Era Kelulau shall designate a place in Babeldaob to be the permanent capital.
 
 ### Section 12.
-The national government shall have exclusive power to regulate importation of firearms and ammunition.  No persons except armed forces personnel law fully in Palau and law enforcement officers acting in an official capacity shall have the right to possess firearms or ammunition unless authorized by legislation which is approved in a nationwide referendum by a majority of the votes cast on the issue.
+The national government shall have exclusive power to regulate importation of firearms and ammunition.  No persons except armed forces personnel lawfully in Palau and law enforcement officers acting in an official capacity shall have the right to possess firearms or ammunition unless authorized by legislation which is approved in a nationwide referendum by a majority of the votes cast on the issue.
 
 ### Section 13.
 Subject to Section 12, the Olbiil Era Kelulau shall enact laws within one hundred and eighty (180) days after the effective date of this Constitution:
@@ -571,14 +571,14 @@ Subject to Section 12, the Olbiil Era Kelulau shall enact laws within one hundre
 ### Section 1.
 An amendment to this Constitution may be proposed by a Constitutional Convention, popular initiative, or by the Olbiil Era Kelulau, as provided herein:
 
-- at least once every fifteen (15) years, the Olbiil Era Kelulau may submit to the voters the question: 'Shall there be a Convention to revise or amend the Constitution?'.  If a majority of the votes cast upon the question is in the affirmative, a Constitution Convention shall be convened within six (6) months thereafter, in a manner prescribed by law;
+- at least once every fifteen (15) years, the Olbiil Era Kelulau may submit to the voters the question: “Shall there be a Convention to revise or amend the Constitution?”.  If a majority of the votes cast upon the question is in the affirmative, a Constitution Convention shall be convened within six (6) months thereafter, in a manner prescribed by law;
 
 - by petition signed by not less than twenty-five percent (25%) of the registered voters; or
 
 - by resolution adopted by not less than three-fourths (3/4) of the members of each House of the Olbiil Era Kelulau.
 
 ### Section 2.
-A proposed amendment to this Constitution shall become effective when approved in the next regular general election by a majority of the votes cast on that amendment and in not less than three-fourth (3/4) of the states.
+A proposed amendment to this Constitution shall become effective when approved in the next regular general election by a majority of the votes cast on that amendment and in not less than three-fourths (3/4) of the states.
 
 # ARTICLE XV
 
@@ -661,7 +661,7 @@ There shall be a Post Convention Committee on Transitional Matters which shall c
 
 - the Fifth Senatorial District shall be composed of Ngardmau, Ngaremlengui, Ngatpang and Aimeliik and shall have two (2) senators;
 
-- the Sixth Senatorial District shall be Koror and shall have seven (7) senator;
+- the Sixth Senatorial District shall be Koror and shall have seven (7) senators;
 
 - the Seventh Senatorial District shall be Peleliu and shall have one (1) senator;
 
@@ -677,13 +677,35 @@ There shall be a Post Convention Committee on Transitional Matters which shall c
 
 IN WITNESS WHEREOF, we, the Delegates to this Convention assembled at the Palau Legislature Building in Koror this 2nd day of April in the year of our Lord One Thousand Nine Hundred and Seventy Nine, have hereunto subscribed our names,
 
+Ngchesar
+
+/s/ Moses Ramarui (d)
+
+/s/ Bonifacio Basio Basilius
+
+Sonsorol
+
+/s/ Mariano W. Carlos
+
+Ngatpang
+
+/s/ Msa-Aki N. Emesiochel
+
+Attest: /s/ Jonathan Koshiba
+
+Convention Secretary
+
 Aimeliik
 
-/s/ Alfonso Rebochong Oiterong (d) /s/ Masami Siksei (d)
+/s/ Alfonso Rebochong Oiterong (d)
+
+/s/ Masami Siksei (d)
 
 Angaur
 
-/s/ Victorio Ucherbelau /s/ Carlos Hiroshi Salii
+/s/ Victorio Ucherbelau
+
+/s/ Carlos Hiroshi Salii
 
 Ngardmau
 
@@ -699,7 +721,11 @@ Ngarchelong
 
 Ngaraard
 
-/s/ Laurentino Ulechong /s/John Sadao Tarkong /s/Sadang Silmai
+/s/ Laurentino Ulechong
+
+/s/ John Sadao Tarkong
+
+/s/ Sadang Silmai
 
 Ngaremlengui
 
@@ -707,29 +733,23 @@ Ngaremlengui
 
 /s/ Haruo Ngiraked Wilter
 
-Ngchesar
+Tobi
 
-/s/ Moses Ramarui (d)
+/s/ Pablo Kiyoshi (d)
 
-/s/ Bonifacio Basio Basilius
+Ngiwal
 
-Sonsorol
+/s/ Raymond Ulochong (d)
 
-/s/ Mariano W. Carlos
-
-Ngatpang
-
-/s/ Msa-Aki N. Emesiochel
-
-Attest: /s/ Jonathan Koshiba Convention Secretary
+/s/ Hideo E. Termeteet
 
 Airai
 
-/s/Singichi Ikesakes(d)
+/s/ Singichi Ikesakes (d)
 
-* Baules Sechelong(d)
+* Baules Sechelong (d)
 
-* Anthony H.Polloi(d)
+* Anthony H. Polloi (d)
 
 Kayangel
 
@@ -737,7 +757,9 @@ Kayangel
 
 Melekeok
 
-/s/ Andres Demei (d) /s/ Huana Rengulbai
+/s/ Andres Demei (d)
+
+/s/ Huana Rengulbai
 
 Koror
 
@@ -757,23 +779,15 @@ Koror
 
 /s/ Kaleb Udui (d)
 
-*  Joshua Koshiba
+* Joshua Koshiba
 
 Peleliu
 
 /s/ Tosiwo Nakamura (d)
 
-/s/ Yukio M. Shmull /s/ Haruo I. Remeliik (d)
+/s/ Yukio M. Shmull
 
-Tobi
-
-/s/ Pablo Kiyoshi (d)
-
-Ngiwal
-
-/s/ Raymond Ulochong (d)
-
-/s/ Hideo E. Termeteet
+/s/ Haruo I. Remeliik (d)
 
 - 18 -
 
