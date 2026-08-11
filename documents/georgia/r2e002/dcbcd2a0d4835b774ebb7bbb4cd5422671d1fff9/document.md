@@ -4,7 +4,7 @@ Order No 120/N Of the Minister of Education and Science of Georgia 10 December 2
 
 # On the Approval of the National Qualifications Framework
 
-Commensurate with  Paragraph  1(f 1 )  of  Article  26  of  the  Law  of  Georgia  on  General Education, Paragraph  1  of  Article  20 2 of  the  Law  of  Georgia  of  Professional  Education, Paragraphs 1 (n) and 1(o 4 ) of Article 7 of the Law of Georgia on Higher Education, Article 61 of the General Administrative Code of Georgia, and Paragraph 2(l) of Article 3 of the Regulation, approved by Resolution No.37 of the Government of Georgia on the Approval of the Regulation of the Ministry of Education and Science of Georgia, dated 21 May 2004, I hereby order:
+Commensurate with Paragraph 1(f¹) of Article 26 of the Law of Georgia on General Education, Paragraph 1 of Article 20² of the Law of Georgia of Professional Education, Paragraphs 1(n) and 1(o⁴) of Article 7 of the Law of Georgia on Higher Education, Article 61 of the General Administrative Code of Georgia, and Paragraph 2(l) of Article 3 of the Regulation, approved by Resolution No.37 of the Government of Georgia on the Approval of the Regulation of the Ministry of Education and Science of Georgia, dated 21 May 2004, I hereby order:
 
 - The  General  Education  Qualifications  Framework  shall  hereby  be  approved  as  per Annex 1;
 
@@ -78,7 +78,7 @@ D.Shashkin
 
 - A  person having  a  document  certifying  completion  of  general  secondary  education  is entitled to enter a higher education institution.
 
-- Followingcompletion of the basic cycle a person is also entitled to enrol for a vocational educational programme.
+- Following completion of the basic cycle a person is also entitled to enrol for a vocational educational programme.
 
 ### Article 3. Qualifications' Descriptor
 
@@ -216,7 +216,7 @@ D.Shashkin
 
 - making judgments - ability  to  identify  simple  tasks  revealed  during  the  working  process  with due consideration of superior's directions;
 
-- Communication skills - ability to communicate both orally and in writing about the professionrelated  simple  matters,  basic  knowledge  of  information  and  communications  technologies,  and also of a foreign language;
+- Communication skills - ability to communicate both orally and in writing about the profession-related simple matters, basic knowledge of information and communications technologies, and also of a foreign language;
 
 - Learning skills -  ability to learn under supervision;
 
@@ -248,7 +248,7 @@ D.Shashkin
 
 - Making  judgments - ability to  use, evaluate and analyse known sources of information for the solution of problems arisen in different situations;
 
-- Communication skills - ability to communicate both orally and in writing on profession- related matters  in different situations;  ability  to  efficiently  use  information  and  communications technologies;, ability to use foreign language in practice;
+- Communication skills - ability to communicate both orally and in writing on profession-related matters in different situations; ability to efficiently use information and communications technologies;, ability to use foreign language in practice;
 
 - Learning  skills -ability  to  take  responsibility  over  own  learning  within  the  context  of predetermined tasks;
 
@@ -406,7 +406,7 @@ D.Shashkin
 
 - Making judgments - Ability to select and interpret field specific data, also to analyse abstract  data  and/or  situations  using  standards  and  certain  selected  methods,  ability  to  make sound judgement;
 
-- Communication skills - Ability to prepare a detailed written report on ideas, current problems and solutions to them and to communicate information orally to specialists and nonspecialists in  the  Georgian  and foreign languages; ability to creatively use modern information and communication technologies;
+- Communication skills - Ability to prepare a detailed written report on ideas, current problems and solutions to them and to communicate information orally to specialists and non-specialists in the Georgian and foreign languages; ability to creatively use modern information and communication technologies;
 
 - Learning  skills  -  Ability  to  evaluate  own  learning  process  in  a  coherent  and comprehensive manner; ability to identify further learning needs;
 
@@ -458,7 +458,7 @@ D.Shashkin
 
 -Major and two minors.
 
-- The  title  of  a  qualification  of  the  second  cycle  educational  programme  includes  the term  'Master'  together  with  the  specification  of  the  direction,  field/specialty  or/and  subfield/sub-specialty.  A  Master's  programme  includes  a  teaching  component  and  qualification thesis prepared on the basis of independent research. It is desirable for a master's programme to include practical components as well.
+- The title of a qualification of the second cycle educational programme includes the term 'Master' together with the specification of the direction, field/specialty or/and sub-field/sub-specialty. A Master's programme includes a teaching component and qualification thesis prepared on the basis of independent research. It is desirable for a master's programme to include practical components as well.
 
 - The title of a qualification of the third cycle educational programme includes the term 'Doctor'  together  with the  specification  of  the  direction  or/and  field/specialty.  A  doctoral educational  programme  includes  learning  and  practical  components.  It  is  completed  by  the development and public defence of a qualification thesis prepared on the basis of independent research.
 
@@ -474,7 +474,7 @@ D.Shashkin
 
 Direction | Field/Specialty | Subfield/Specialisation | Professional Specialisation
 --- | --- | --- | ---
-01. Agricultural- | 0101 Agricultural Sciences | 010101 Agricultural ecology 010102 Agricultural chemistry / Soil science 010103 Agrotechnology 010104 Agrobiotechnology 010105 Plant selection-genetics 010106 Plant protection 010107 Fruit, vegetable and vine growing technique 010108 Technology of medicinal herb growing 010109 Organic Agriculture 010110 Technology of silkworm growing | 010151 Silkworm breeder 010152 Gardener (of decorative plants) 010153 Market-gardener 010154 Viticulturist 010155 Plant grower 010156 Tea grower 010157 Fruit grower 010158 (Medicinal, aromatic) Plant processor 010159 Plant protection engineer 010160 Foodstuff producer 010161 Land-reclamation specialist (soil-conservation specialist, water- conservation specialist) 010162 Pesticides and Agro-chemicals engineer 010163 Glass-house specialist
+01. Agricultural- | 0101 Agricultural Sciences | 010101 Agricultural ecology 010102 Agricultural chemistry / Soil science 010103 Agrotechnology 010104 Agrobiotechnology 010105 Plant selection-genetics 010106 Plant protection 010107 Fruit, vegetable and vine growing technique 010108 Technology of medicinal herb growing 010109 Organic Agriculture 010110 Technology of silkworm growing | 010151 Silkworm breeder 010152 Gardener (of decorative plants) 010153 Market-gardener 010154 Viticulturist 010155 Plant grower 010156 Tea grower 010157 Fruit grower 010158 (Medicinal, aromatic) Plant processor 010159 Plant protection engineer 010160 Foodstuff producer 010161 Land-reclamation specialist (soil-conservation specialist, water-conservation specialist) 010162 Pesticides and Agro-chemicals engineer 010163 Glass-house specialist
 0102 Veterinary | 010201 Certified Veterinarian (one-cycle) | 010251 Veterinary treatment specialist (of petty animals: dogs, cats, etc; farm animals and poultry; exotic animals, birds and fish, etc.)
 0103 Animal husbandry | 010301 Merchandising of animal husbandry products and raw materials 010302 Breeding of farm animals 010303 Feeding of farm animals 010304 Ichthyology 010305 Production of animal husbandry products | 010351 Cynologist 010352 Zootechnician (horse breeding, sheep breeding, rabbit-breeding, etc.) 010353 Apiarist 010354 Fish farmer 010355 Fisher 010356 Artificial insemination engineer 010357 Incubation operator 010358 Pre-processor of animal
 
@@ -495,7 +495,7 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 
 0202 Marketing | 020201 International marketing 020202 Marketing survey 020203 Sales management 020204 Publicity and public relations | 020251 Commercial Agent 020252 Trade broker (real estate, etc.) 020253 Publicity agent 020254 Insurance agent 020255 Shop assistant
 --- | --- | ---
-0203 Management | 020301 Tourism and hospitality management 020302 Art management 020303 Healthcare management 020304 Pharmacy management 020305 Agribusiness management 020306 Education management 020307 International business management 020308 IT management 020309 Mining and Geology management 020310 Technologies management 020311 Hydraulic engineering construction management 020312 Construction management 020313 Transport management 020314 Energy management 020315 Media management 020316 Logistics and forwarding 020317 Real estate administration 020318 Business communications management 020319 Telecommunications management 020320 Innovations management 020321 Production and operations management 020322 Human resources management 020323 Mechanical engineering management 020324 Chemical and food production management 020325 Metallurgy management 020326 Small business management | 020351 Procurement agent 020352 Customs clearance agent 020353 Customs representative 020354 Carrier (Forwarder) 020355 Flight-attendant/steward 020356 Office-manager (secretary- advisor) 020357 Event organizer 020358 Human resources manager 020359 Clerk 020360 Small business manager 020361 Agricultural business manager 020362 TV-radio producer
+0203 Management | 020301 Tourism and hospitality management 020302 Art management 020303 Healthcare management 020304 Pharmacy management 020305 Agribusiness management 020306 Education management 020307 International business management 020308 IT management 020309 Mining and Geology management 020310 Technologies management 020311 Hydraulic engineering construction management 020312 Construction management 020313 Transport management 020314 Energy management 020315 Media management 020316 Logistics and forwarding 020317 Real estate administration 020318 Business communications management 020319 Telecommunications management 020320 Innovations management 020321 Production and operations management 020322 Human resources management 020323 Mechanical engineering management 020324 Chemical and food production management 020325 Metallurgy management 020326 Small business management | 020351 Procurement agent 020352 Customs clearance agent 020353 Customs representative 020354 Carrier (Forwarder) 020355 Flight-attendant/steward 020356 Office-manager (secretary-advisor) 020357 Event organizer 020358 Human resources manager 020359 Clerk 020360 Small business manager 020361 Agricultural business manager 020362 TV-radio producer
 
 [[END OF PAGE 16]]
 
@@ -516,25 +516,25 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 handicapped people 030253 Driving teacher
 --- | --- | --- | ---
 Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
-04. Engineering | 0401 Computing/ Informatics | 040101 Information technologies 040102 Information systems 040103 Computer engineering 040104 Computer sciences 040105 Program engineering 040106 Interdisciplinary informatics 040107 Computing sciences | 040151 Internet Technologist (Web- specialist) 040152 Computer graphic artist 040153 IT Technologist 040154 Computer Network and System Technician 040155 Software developer
+04. Engineering | 0401 Computing/Informatics | 040101 Information technologies 040102 Information systems 040103 Computer engineering 040104 Computer sciences 040105 Program engineering 040106 Interdisciplinary informatics 040107 Computing sciences | 040151 Internet Technologist (Web-specialist) 040152 Computer graphic artist 040153 IT Technologist 040154 Computer Network and System Technician 040155 Software developer
 0402 Telecommunications | 040251 Telecommunications network assembling and system exploitation operator 040252 Radio-television system maintenance and exploitation operator 040253 Telecommunications technician
-0403 Instrument-making, automation and control systems | 040301 Automation and control systems 040302 Biomedical engineering 040303 Measurement appliances, quality control and assurance appliances | 040351 Engineer of bio-medical appliances 040352 Microprocessor equipment engineer 040353 Engineer of measurement appliances 040354 Engineer of automation and control systems 040355 Engineer of mobile- communication appliances
+0403 Instrument-making, automation and control systems | 040301 Automation and control systems 040302 Biomedical engineering 040303 Measurement appliances, quality control and assurance appliances | 040351 Engineer of bio-medical appliances 040352 Microprocessor equipment engineer 040353 Engineer of measurement appliances 040354 Engineer of automation and control systems 040355 Engineer of mobile-communication appliances
 0404 Engineering physics | 040401 Microelectronics and optoelectronics 040402 Physical and technical analysis 040403 Diagnostics of materials and structures 040404 Nanotechnology | 040451 Engineer of microelectronics and optoelectronics technologies and equipment
-0405 Energy and p ower engineering | 040501 Heat-and-power engineering | 040551 Gas-fuel station operator
+0405 Energy and power engineering | 040501 Heat-and-power engineering | 040551 Gas-fuel station operator
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-040502 Hydro-power engineering 040503 Power engineering 040504 Electrical engineering and industrial electronics 040505 Electrical mechanics | 040552 Thermoelectric power station boiler and measurement-controlling equipment operator 040553 Heating engineer 040554 Hydro-power and pumping station operator 040555 Hydro-power engineering equipment and pipeline system operator-fitter 040556 Dispatching equipment and automatic machinery specialist 040557 Electrician 040558 Relay and blocking automatic machinery engineer 040559 Diagnostician-repairer of electronic and digital appliances 040560 Fibre-optic cable network administration engineer 040561 Electric drive and power supply equipment specialist 040562 Mechanical electrician 040563 Power engineering specialist- fitter 040564 Technician of a power engineering centre 040565 Steam generator and combined tube service operator
+040502 Hydro-power engineering 040503 Power engineering 040504 Electrical engineering and industrial electronics 040505 Electrical mechanics | 040552 Thermoelectric power station boiler and measurement-controlling equipment operator 040553 Heating engineer 040554 Hydro-power and pumping station operator 040555 Hydro-power engineering equipment and pipeline system operator-fitter 040556 Dispatching equipment and automatic machinery specialist 040557 Electrician 040558 Relay and blocking automatic machinery engineer 040559 Diagnostician-repairer of electronic and digital appliances 040560 Fibre-optic cable network administration engineer 040561 Electric drive and power supply equipment specialist 040562 Mechanical electrician 040563 Power engineering specialist-fitter 040564 Technician of a power engineering centre 040565 Steam generator and combined tube service operator
 --- | --- | ---
-0406 Construction | 040601 Civil and industrial engineering 040602 Fluvial h ydraulic engineering 040603 Hydraulic construction of hydro-power stations 040604 Construction of sea facilities 040605 Construction technology 040606 Construction materials 040607 Soil mechanics and foundations 040608 Bridge and tunnel construction 040609 Railway construction | 040651 Site engineer 040652 Brick-layer 040653 P lasterer 040654 Tile-layer 040655 P ainter 040656 I nsulator 040657 Manufacturer and fitter of plastic-metal and aluminum doors and windows 040658 M etal and soft roof tile layer
+0406 Construction | 040601 Civil and industrial engineering 040602 Fluvial hydraulic engineering 040603 Hydraulic construction of hydro-power stations 040604 Construction of sea facilities 040605 Construction technology 040606 Construction materials 040607 Soil mechanics and foundations 040608 Bridge and tunnel construction 040609 Railway construction | 040651 Site engineer 040652 Brick-layer 040653 Plasterer 040654 Tile-layer 040655 Painter 040656 Insulator 040657 Manufacturer and fitter of plastic-metal and aluminum doors and windows 040658 Metal and soft roof tile layer
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-040610 Motorway and airdrome construction 040611 Water supply and water discharge 040612 Testing of construction and technical expertise 040613 Computer designing in construction 040614 Air heating and ventilation 040615 Construction and exploitation of airports | 040659 reinforced concretor (fitter, molder, concretor) 040660 B uilding elements assembler 040661 Border layer and paver 040662 Drainage system specialist 040663 Carpenter 040664 Floor layer 040665 Gypsum plasterboard specialist 040666 Builder of surface and underground transport facilities 040667 Railway layer 040668 Builder-engineer of motorways and airdromes 040669 hydraulic engineer 040670 Water supply and water discharge engineer 040671 Computer engineering (AutoCad) operator 040672 Air heating and ventilation engineer 040673 Gas supply system fitter 040674 Heating and hot-water supply system fitter 040675 Air heating and ventilation system fitter 040676 Sanitary engineer-fitter 040677 Hydraulics engineer 040678 Airport construction engineer
+040610 Motorway and airdrome construction 040611 Water supply and water discharge 040612 Testing of construction and technical expertise 040613 Computer designing in construction 040614 Air heating and ventilation 040615 Construction and exploitation of airports | 040659 reinforced concretor (fitter, molder, concretor) 040660 Building elements assembler 040661 Border layer and paver 040662 Drainage system specialist 040663 Carpenter 040664 Floor layer 040665 Gypsum plasterboard specialist 040666 Builder of surface and underground transport facilities 040667 Railway layer 040668 Builder-engineer of motorways and airdromes 040669 hydraulic engineer 040670 Water supply and water discharge engineer 040671 Computer engineering (AutoCad) operator 040672 Air heating and ventilation engineer 040673 Gas supply system fitter 040674 Heating and hot-water supply system fitter 040675 Air heating and ventilation system fitter 040676 Sanitary engineer-fitter 040677 Hydraulics engineer 040678 Airport construction engineer
 --- | --- | ---
 0407 Transport | 040701 Motorway transport 040702 Railway transport 040703 Special purpose transport 040704 Transport logistics | 040751 Driver-forwarder 040752 Electrician of railway power supply economy 040753 Electrician of railway rolling stock park 040754 Railway forwarder 040755 Alarm, centralization and blocking engineer 040756 wagon depot mechanical
 
@@ -544,7 +544,7 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 
 engineer 040757 Engine driver 040758 Navigator 040759 flight engineer (flight mechanic, flight operator) 040760 Aircraft radio operator 040761 Radio-navigation engineer 040762 Belt conveyor and escalator operator 040763 Operator of railways servicing machinery 040764 Cable ways operator 040765 Assembler and repairer of cable ways 040766 Logistics operator at carrier companies 040767 Motorcar repairer electrician 040768 Motor-vehicle diagnostician 040769 Chassis technician 040770 Engine repairer 040771 Tinsmith-painter 040772 Motor-vehicle locksmith 040773 Car driver (of various classes) 040774 Excavator driver 040775 Hoisting crane operator 040776 Electric locomotive driver
 --- | --- | ---
-0408 Mechanics engineering and technology | 040801 Car building technology 040802 Machinery mechanics, Technological machinery and automated complexes 040803 Mechatronics 040804 Designing and production of aircrafts 040805 Designing and production of motorcars and tractors 040806 Lifting-transport, building and road- building machinery | 040851 Locksmith 040852 Machine-operator 040853 Mechanical engineer 040854 construction-road railroad machinery and appliances technician 040855 agricultural appliances technician 040856 Aircraft mechanic 040857 Parachute and emergency rescue equipment
+0408 Mechanics engineering and technology | 040801 Car building technology 040802 Machinery mechanics, Technological machinery and automated complexes 040803 Mechatronics 040804 Designing and production of aircrafts 040805 Designing and production of motorcars and tractors 040806 Lifting-transport, building and road-building machinery | 040851 Locksmith 040852 Machine-operator 040853 Mechanical engineer 040854 construction-road railroad machinery and appliances technician 040855 agricultural appliances technician 040856 Aircraft mechanic 040857 Parachute and emergency rescue equipment
 
 [[END OF PAGE 21]]
 
@@ -552,7 +552,7 @@ engineer 040757 Engine driver 040758 Navigator 040759 flight engineer (flight me
 
 040858 Aviation armament mechanic
 --- | --- | ---
-0409 Industrial engineering and technology | 040901 Publishing and polygraphic technologies 040902 Timber materials processing and production technique and technologies 040903 Food industry technological equipment 040904 Light industry machinery, production design and technology 040905 Refrigerating machinery and technology | 040851 Polygraphist (imposer, printer, binder, colour separator, etc.) 040852 Joiner 040853 Technician of wood production- procession industry 040854 Food industry machinery operator 040855 Refrigerator equipment engineer 040856 Furniture-maker 040857 Tanner, leather garment chemical cleaning and dying specialist 040858 Industrial engineering specialist
+0409 Industrial engineering and technology | 040901 Publishing and polygraphic technologies 040902 Timber materials processing and production technique and technologies 040903 Food industry technological equipment 040904 Light industry machinery, production design and technology 040905 Refrigerating machinery and technology | 040851 Polygraphist (imposer, printer, binder, colour separator, etc.) 040852 Joiner 040853 Technician of wood production-procession industry 040854 Food industry machinery operator 040855 Refrigerator equipment engineer 040856 Furniture-maker 040857 Tanner, leather garment chemical cleaning and dying specialist 040858 Industrial engineering specialist
 0410 Chemical and biological engineering | 041001 Chemical technology 041002 Biological technology 041003 Food production engineering 041004 Oil and gas refinery technology 041005 Technology of pharmaceutical preparations 041006 Perfumery and cosmetic production engineering | 041051 Bacteriological laboratory assistant 041052 Laboratory assistant for chemical analysis of substances and materials 041053 Galvanizer operator 041054 Sorter inspector of glass and ceramics items 041055 Decorative glazer 041056 Plastic caster 041057 Expert of chemical and food products 041058 Operator of chemical industry 041059 Food production specialist 041060 Pharmaceuticals production specialist 041061 Perfumery and cosmetics production specialist 041062 Oil and gas refining specialist 041063 Biotechnological production specialist 041064 Chemical production specialist
 0411 Metallurgy | 041101 Metallurgy of ferrous and non-ferrous metals | 041151 Caster
 
@@ -590,7 +590,7 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 
 Sciences | 050102 Applied mathematics
 --- | --- | ---
-0502 Physics | 050201 Theoretical physics 050202 Experimental physics 050203 Astronomy 050204 Nanophysics 050205 Radio- physics 050206 Micro-and Nano-electronics 050207 Applier electrodynamics 050208 Physics of non-linear phenomena 050209 Geo physics 050210 (Elementary) particle physics 050211 Fundamental physics 050212 Applied physics 050213 Condensed matter physics 050214 Astrophysics 050215 Nuclear physics 050216 Atomic physics 050217 Solid-state physics 050218 Plasma physics 050219 Optics 050220 Radio engineering and electrical engineering 050221 Laser physics 050222 Hydro-physics 050223 Wave physics 050224 Statistic physics and thermodynamics | 050251 Physical and mechanical analyst (lab assistant) 050252 Spectral analyst 050253 Ultrasound engineer 050254 Dosimetrist 050255 Astronomer-observer 050256 Engineering geophysicist 050257 Hydrology engineer 050258 Radiometrist 050259 R adiolocation engineer
+0502 Physics | 050201 Theoretical physics 050202 Experimental physics 050203 Astronomy 050204 Nanophysics 050205 Radio-physics 050206 Micro-and Nano-electronics 050207 Applier electrodynamics 050208 Physics of non-linear phenomena 050209 Geophysics 050210 (Elementary) particle physics 050211 Fundamental physics 050212 Applied physics 050213 Condensed matter physics 050214 Astrophysics 050215 Nuclear physics 050216 Atomic physics 050217 Solid-state physics 050218 Plasma physics 050219 Optics 050220 Radio engineering and electrical engineering 050221 Laser physics 050222 Hydro-physics 050223 Wave physics 050224 Statistic physics and thermodynamics | 050251 Physical and mechanical analyst (lab assistant) 050252 Spectral analyst 050253 Ultrasound engineer 050254 Dosimetrist 050255 Astronomer-observer 050256 Engineering geophysicist 050257 Hydrology engineer 050258 Radiometrist 050259 Radiolocation engineer
 0503 Chemistry | 050301 Inorganic chemistry 050302 Organic chemistry 050303 Physical and analytical chemistry 050304 Polymeric materials 050305 Chemical analysis 050306 Chemistry of macromolecules 050307 Bioorganic chemistry 050308 Biophysical chemistry
 0504 Biology / Life Sciences | 050401 Morphology (Cytology, Histology, Anatomy) | 050451 Bioengineer
 
@@ -600,7 +600,7 @@ Sciences | 050102 Applied mathematics
 
 050402 Biodiversity 050403 Evolution Biology 050404 Physiology (plant, human, animal) 050405 Zoology 050406 Botany 050407 Microbiology 050408 Applied biosciences (biotechnologies) 050409 Neurosciences 050410 Immunology 050411 Molecular biology 050412 Virology 050413 Biochemistry 050414 Cell biology 050415 Development biology 050416 Genetics 050417 Hydrobiology 050418 Biological testing 050419 Biogeography
 --- | --- | --- | ---
-0505 Geography | 050501 H ydrology 050502 Meteorology 050503 Physical geography 050504 Geomorphology 050505 Cartography | 050551 Engineering c artographer 050552 Tophographer 050553 Engineering h ydro- meteorologist
+0505 Geography | 050501 Hydrology 050502 Meteorology 050503 Physical geography 050504 Geomorphology 050505 Cartography | 050551 Engineering cartographer 050552 Tophographer 050553 Engineering hydro-meteorologist
 0506 Geology | 050601 Petrology and volcanology 050602 Geology of ores and deposits 050603 Palaeontology 050604 Stratigraphy 050605 Regional geology 050606 Prospecting geophysics 050607 Mineralogy
 0507 Interdisciplinary Natural Sciences | 050701 Biophysics
 Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
@@ -614,7 +614,7 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 --- | --- | --- | ---
 0602 International Law | 060201 Humanitarian law 060202 Law of Seas 060203 International human rights law 060204 International contract law
 0603 Private/Business Law | 060301 Contractual law 060302 Bank law 060303 Insurance law 060304 Company law 060305 Securities law 060306 Labour law 060307 Consumer law 060308 Bankruptcy law 060309 Competition law 060310 Intellectual property law
-0604 Criminal law | 060401 Forensics 060402 International criminal law | 0604051 Forensic expert (photo- fingerprint expert)
+0604 Criminal law | 060401 Forensics 060402 International criminal law | 0604051 Forensic expert (photo-fingerprint expert)
 0605 Public law | 060501 Constitutional law 060502 Human rights law 060503 Administrative law 060504 Education law 060505 Tax law 060506 Health law 060507 Municipal law
 Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 08. Social Sciences | 0701 Economics | 070101 Economic policy 070102 Macroeconomics 070103 Microeconomics 070104 International economics 070105 Econometrics
@@ -624,13 +624,13 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 
 [[START OF PAGE 29]]
 
-070202 Nationalism and ethnics research 070203 Conflict settlement science 070204 S ecurity studies
+070202 Nationalism and ethnics research 070203 Conflict settlement science 070204 Security studies
 --- | --- | --- | ---
-0703 Mass media/ Journalism | 070301 Media surveys 070302 Public relations | 0703051 TV and radio reporter 0703052 Photo reporter 0703053 Correspondent 0703054 News operator-cutter
+0703 Mass media/Journalism | 070301 Media surveys 070302 Public relations | 0703051 TV and radio reporter 0703052 Photo reporter 0703053 Correspondent 0703054 News operator-cutter
 0704 Public geography
 0705 International relations
-0706 Sociology | 070601 Media communications sociology 070602 Social sciences' research methods 070603 Gender studies 070604 Social and cultural studies 070605 Demography
-0707 Psychology | 070701 labour and organization psychology 070702 Children and adult psychology 070703 Psycho-diagnosing and advice 070704 Development psychology 070705 Social psychology 070706 Political psychology 070707 Culture psychology 070708 Sport psychology 070709 Clinical p sychology 070710 Health psychology 070711 Human psychology 070712 Mood psychology 070713 Education psychology 070714 Psychometry
+0706 Sociology | 070601 Media communications sociology 070602 Social sciences’ research methods 070603 Gender studies 070604 Social and cultural studies 070605 Demography
+0707 Psychology | 070701 labour and organization psychology 070702 Children and adult psychology 070703 Psycho-diagnosing and advice 070704 Development psychology 070705 Social psychology 070706 Political psychology 070707 Culture psychology 070708 Sport psychology 070709 Clinical psychology 070710 Health psychology 070711 Human psychology 070712 Mood psychology 070713 Education psychology 070714 Psychometry
 0708 Cultural heritage | 070801 Museum studies 070802 Library studies 070803 Rarities studies 070804 Manuscript studies | 081051 Registrar 081052 Librarian 081053 Preparation specialist 081054 Exhibits conveyer
 Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 09. Fine Arts | 0801 Audiovisual arts | 080101 Photography | 080151 TV-film director
@@ -664,7 +664,7 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 09. Healthcare | 0901 Medicine | 090101 Certified physician (one-cycle) | 090151 Operator of medical and pharmaceutical appliances 090152 Optician 090153 Medical cosmetologist
 0902 Dentistry | 090201 Certified dentist (one-cycle) | 090251 Dentist
-0903 Pharmacy | 090301 Industrial pharmacy 090302 Pharmaceutical analysis 090303 Pharmaceutical cosmetology and perfumery 090304 Veterinary pharmacy 090305 Biopharmacy | 090351 Pharmacist's assistant
+0903 Pharmacy | 090301 Industrial pharmacy 090302 Pharmaceutical analysis 090303 Pharmaceutical cosmetology and perfumery 090304 Veterinary pharmacy 090305 Biopharmacy | 090351 Pharmacist’s assistant
 0904 Public Health | 090401 Environmental medicine 090402 Epidemiology 090403 Medical ecology 090404 Health promotion 090405 Public health and healthcare policy
 0905 Nursing (nurse/midwife) | 090651 Nurse, Geriatrics
 0905 Physical medicine and rehabilitation | 090501 Cardiopulmonary rehabilitation 090502 Paediatric rehabilitation 090503 Rehabilitation of damaged cerebrum 090504 Rehabilitation of damaged spinal | 090551 Masseur 090552 Acupuncturist 090553 Prosthetist 090554 Beauty therapy (Spa)
@@ -689,7 +689,7 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 
 100507 Russian philology 100508 Scandinavian philology 100509 Classical philology 100510 Byzantine philology 100511 New Greek philology 100512 Yiddish-Aramaic philology 100513 Arabic philology 100514 Turkish philology 100515 Persian philology 100516 Linguistics 100517 Comparative linguistics 100518 Georgian linguistics 100519 Lexicography 100520 Theory of literature and comparative study of literature 100521 Translation studies 100522 History of Georgian literature 100523 Abkhazian philology
 --- | ---
-1106 Philosophy | 100601Culture philosophy 100602 Policy philosophy 100603 Religion philosophy 100604 Metaphysics and Epistemology 100605 Philosophical anthropology 100606 Language philosophy 100607 Science philosophy 100608 Logic 100609 Aesthetics 100610 Philosophy of morality and applied ethics 100611 History of philosophy
+1106 Philosophy | 100601 Culture philosophy 100602 Policy philosophy 100603 Religion philosophy 100604 Metaphysics and Epistemology 100605 Philosophical anthropology 100606 Language philosophy 100607 Science philosophy 100608 Logic 100609 Aesthetics 100610 Philosophy of morality and applied ethics 100611 History of philosophy
 1107 Fine Arts/History and theory of fine arts | 100701 Theatre science 100702 Cinema science 100703 Choreology 100704 Musicology
 
 [[END OF PAGE 34]]
@@ -702,7 +702,7 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 11. Interdisciplinary fields or specialties | 1101 Architecture | 110101 Construction architecture and urban planning 110102 Interior and design 110103 Landscape architecture | 110151 Architect-engineer (graphic artist) 110152 Model-maker
 1102 Ecology / Environmental studies | 110201 Applied ecology 110202 Preservation biology 110203 Environmental protection 110204 Nature management 110205 Nature planning
 1103 Culture Studies
-1104 Region studies, amongst them with relevant modification of a sub- field/specialisation | 110401 Eastern studies 110402 American studies 110403 Assyrian studies 110404 British studies 110405 European studies 110406 Caucasian studies 110407 East European studies 110408 Ukrainian studies 110409 Slavic studies 110410 Iranistics/Iranian studies 110411 Arabistics/Arabian studies 110412 Turkish studies 110413 Polonistics 110414 Russian studies 110415 Georgian studies (foreign-language programme: Georgian studies/Kartvelian studies)
+1104 Region studies, amongst them with relevant modification of a sub-field/specialisation | 110401 Eastern studies 110402 American studies 110403 Assyrian studies 110404 British studies 110405 European studies 110406 Caucasian studies 110407 East European studies 110408 Ukrainian studies 110409 Slavic studies 110410 Iranistics/Iranian studies 110411 Arabistics/Arabian studies 110412 Turkish studies 110413 Polonistics 110414 Russian studies 110415 Georgian studies (foreign-language programme: Georgian studies/Kartvelian studies)
 
 [[END OF PAGE 35]]
 
@@ -711,13 +711,13 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 110416 Armenian studies 110417 Sinology 110416 Yiddish-Aramaic studies
 --- | --- | ---
 1105 Anthropology | 110501 Education anthropology 110502 Policy anthropology 110503 Cultural and social anthropology
-1106 Restoration / Conservation | 110601 Architectural restoration 110602 Restoration of fine arts' items 110603 Restoration of small arts' items | 110501 Restorer of architectural elements 110502 Restorer of paintings 110503 Restorer of cloths 110504 Restorer of wooden items 110505 Restorer of polygraph works
+1106 Restoration / Conservation | 110601 Architectural restoration 110602 Restoration of fine arts’ items 110603 Restoration of small arts’ items | 110501 Restorer of architectural elements 110502 Restorer of paintings 110503 Restorer of cloths 110504 Restorer of wooden items 110505 Restorer of polygraph works
 1107 Social work | 110751 Social worker
 1108 Liberal Arts
 1109 Public governance
 1110 Maritime Sciences (Marine Navigation/ Marine Engineering / Marine Electrical Engineering) | 111001 Sea operations 111002 Sea technologies | 111051 Deck Rating Seafarer 111052 Engine-Room Rating Seafarer 111053 Stevedore
 1111 Gender
-1112 Sport | 130601Sport's physiology 130602 Sport's psychology | 130651 Trainer/couch (with the indication of the field) 130652 Referee (with the indication of the field) 130653 Rescuer 130654 Diver
+1112 Sport | 130601 Sport’s physiology 130602 Sport’s psychology | 130651 Trainer/couch (with the indication of the field) 130652 Referee (with the indication of the field) 130653 Rescuer 130654 Diver
 
 [[END OF PAGE 36]]
 
@@ -727,14 +727,14 @@ Direction | Field/Specialty | Subfield/Subspecialty | Professional Qualification
 
 ## Procedure of Formation of Qualifications
 
-### Article   1.   Introduction   of   Amendments   to   the   List   of   Directions,   Fields/Specialties,   Subfields/Specializations or Professional Specialization
+### Article 1. Introduction of Amendments to the List of Directions, Fields/Specialties, Sub-fields/Specializations or Professional Specialization
 
-- Only the qualifications, compatible with relevant qualifications of directions, fields/specialties,  sub-fields/specializations,  envisaged  by  Annex  4  of  this  Order  can  be  awarded  in Georgia commensurate with the procedure established by law.
+1. Only the qualifications, compatible with relevant qualifications of directions, fields/specialties, sub-fields/specializations, envisaged by Annex 4 of this Order can be awarded in Georgia commensurate with the procedure established by law.
 
-- An  educational programme  of a direction, field/specialty, sub-field/specialization, not envisaged  by  Annex  4  of  this  Order  can  be  implemented  only  when  the  relevant  institution  has obtained an explicit approval from the LEPL- National Centre for Educational Quality Enhancement upon  authorisation,  accreditation  of  the  programme  concerned  or  submission  of  a  self-evaluation report.
+2. An educational programme of a direction, field/specialty, sub-field/specialization, not envisaged by Annex 4 of this Order can be implemented only when the relevant institution has obtained an explicit approval from the LEPL- National Centre for Educational Quality Enhancement upon authorisation, accreditation of the programme concerned or submission of a self-evaluation report.
 
-- In  the  case  envisaged  by  Paragraph  2  of  this  Article  the  LEPL-  National  Centre  for Educational Quality Enhancement shall submit a proposal to the Ministry of Education and Science of  Georgia  concerning  the  introduction  of  an  addition  to  the  List  of  Directions,  Fields/Specialties, Sub-fields/Specializations or Professional Specialization.
+3. In the case envisaged by Paragraph 2 of this Article the LEPL- National Centre for Educational Quality Enhancement shall submit a proposal to the Ministry of Education and Science of Georgia concerning the introduction of an addition to the List of Directions, Fields/Specialties, Sub-fields/Specializations or Professional Specialization.
 
-- Introduction of an addition to the List of Directions, Fields/Specialties, Subfields/Specializations or Professional Specialization shall be construed as a precondition for awarding the relevant qualification.
+4. Introduction of an addition to the List of Directions, Fields/Specialties, Sub-fields/Specializations or Professional Specialization shall be construed as a precondition for awarding the relevant qualification.
 
 [[END OF PAGE 37]]
