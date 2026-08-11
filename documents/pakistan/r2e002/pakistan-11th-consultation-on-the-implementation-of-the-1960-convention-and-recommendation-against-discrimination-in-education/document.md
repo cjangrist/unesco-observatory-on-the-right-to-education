@@ -1,5 +1,5 @@
 [[START OF PAGE 1]]
-
+T
 # 11th consultation on the implementation of the 1960 Convention and Recommendation against Discrimination in Education
 
 ## GENERAL INFORMATION:
@@ -14,7 +14,7 @@ Mr. Aftab Muhammad Khan
 
 Email and telephone number of contact person: pncuibd@dsl.net.pk
 
-## Ratification and applicability of the Convention against Discrimination in Education 1
+## I. Ratification and applicability of the Convention against Discrimination in Education 1
 - Is your country a State Party to the Convention?
 
 ✔ Yes
@@ -83,11 +83,11 @@ Yes,  the  provisions  of  the  Convention  and  Recommendation  against  Discri
 
 Information  could  also  be  given  about  the  judicial,  administrative  and  other  competent authorities having jurisdiction with respect to the right to education.
 
-The  Article  25A  of  the  constitution  of  the  Pakistan  states  that  ' The  State  shall  provide unrestricted and obligatory edification to all children between the ages of five and sixteen in such manner as may be determined by law," rendering to this constitution. '
+The Article 25-A of the constitution of the Pakistan states that “The State shall provide unrestricted and obligatory edification to all children between the ages of five and sixteen in such manner as may be determined by law," rendering to this constitution.”
 
 The State shall remove illiteracy and provide unrestricted and obligatory secondary edification within the minimum possible period," reads Article¬37 (b), which addresses the promotion of social justice and the elimination of social problems.
 
-'The State shall provide basic necessities of life, such as food, clothing, housing, edification, and medical relief, for all citizens, regardless of sex, caste, creed, or race, as are permanently or temporarily unable to earn their livelihood on account o f infirmity, sickness, or unemployment,' reads Article¬38 (d) -Promotion of the Social and Economic Well-Being of the People.
+“The State shall provide basic necessities of life, such as food, clothing, housing, edification, and medical relief, for all citizens, regardless of sex, caste, creed, or race, as are permanently or temporarily unable to earn their livelihood on account of infirmity, sickness, or unemployment,” reads Article¬38 (d) – Promotion of the Social and Economic Well-Being of the People.
 
 The National Education Policy (NEP) 2009 and the Right to Education Act aim to ensure equal access to education for all citizens.
 
@@ -107,15 +107,15 @@ Balochistan High Court Date of hearing: 12 September 2013. Decided 23October 201
 
 Per Article 25 A, the State must ensure all children go to school. Merely constructing a school and providing free textbooks would not be enough to get children to school, creation of right environment was needed
 
-- 2014 C L C 1810 Const. Petition 440 of 2011 Maher Gul vs Government of Balochistan Education Department Balochistan High Court Date of hearing and decision: 7 July 2014
+3. 2014 C L C 1810 Const. Petition 440 of 2011 Maher Gul vs Government of Balochistan Education Department Balochistan High Court Date of hearing and decision: 7 July 2014
 
 Under Article 25A, children have a right to free and compulsory education in Balochistan.
 
-- 2015 P L C (C.S.) 1503 Writ Petition 15320 of 2014 Muhammad Iqbal vs Government of Punjab Lahore High Court Decided on 19 March 2015
+4. 2015 P L C (C.S.) 1503 Writ Petition 15320 of 2014 Muhammad Iqbal vs Government of Punjab Lahore High Court Decided on 19 March 2015
 
 Per Article 25A, the State is bound to provide free and compulsory education to all children from age 5 to 16.
 
-- 2015 P L C (C.S.) 1026 Writ Petitions 20304 & 28577 of 2013 Amanullah vs Federation of Pakistan Lahore High Court Decided on 13 January 2015
+5. 2015 P L C (C.S.) 1026 Writ Petitions 20304 & 28577 of 2013 Amanullah vs Federation of Pakistan Lahore High Court Decided on 13 January 2015
 
 Per the petition, Feeder Teachers contributed to providing the fundamental right of compulsory education to all children between ages 5 and 16 (Article 25A). There was a responsibility to safeguard constitutional guarantees to minor citizens of the country.
 
@@ -193,21 +193,21 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 Legal texts 6 prohibit discrimination and guarantee equal access to education:
 
-- In pre-primary education (including early learning and care)
+✔ In pre-primary education (including early learning and care)
 
-- In primary education
+✔ In primary education
 
-- In secondary education
+✔ In secondary education
 
-- In technical and vocational education and training
+✔ In technical and vocational education and training
 
-- In higher education
+✔ In higher education
 
-- In adult education and alternative learning
+✔ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
-Pakistan's constitutional provisions, such as Articles 25 -A, 37-b, and 35, ensure free and compulsory education, promote literacy, and provide equal educational rights without discrimination. These align with SDG goals and the Convention on Discrimination in Education. Initiatives like the TVET framework, scholarships for deprived areas and high-performing students, technological support for university students, and increased higher education budgets further reinforce these commitments.
+Pakistan's constitutional provisions, such as Articles 25-A, 37-b, and 35, ensure free and compulsory education, promote literacy, and provide equal educational rights without discrimination. These align with SDG goals and the Convention on Discrimination in Education. Initiatives like the TVET framework, scholarships for deprived areas and high-performing students, technological support for university students, and increased higher education budgets further reinforce these commitments.
 
 In Punjab, several legal frameworks safeguard educational equality:
 
@@ -229,7 +229,7 @@ In Punjab, several legal frameworks safeguard educational equality:
 
 > 4 See: Article/Paragraph 1(1).
 
-> 5 Which  calls  on  states  to  'substantially  expand  globally  the  number  of  scholarships  available  […]  for enrolment  in  higher  education,  including  vocational  training  and  information  and  communications technology, technical, engineering and scientific programme s'.
+> 5 Which  calls  on  states  to  'substantially  expand  globally  the  number  of  scholarships  available  […]  for enrolment  in  higher  education,  including  vocational  training  and  information  and  communications technology, technical, engineering and scientific programmes'.
 
 > 6 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -261,17 +261,17 @@ Additionally, the Punjab Non-Formal Education Policy (2019) targets out-of-schoo
 
 -Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
-- In pre-primary education (including early learning and care)
+✔ In pre-primary education (including early learning and care)
 
-- In primary education
+✔ In primary education
 
-- In secondary education
+✔ In secondary education
 
-- In technical and vocational education and training
+✔ In technical and vocational education and training
 
-- In higher education
+✔ In higher education
 
-- In adult education and alternative learning
+✔ In adult education and alternative learning
 
 - Please provide details:
 
@@ -305,17 +305,17 @@ These efforts are aligned with Sustainable Development Goals (SDGs) and aim to r
 
 -Combating discrimination in terms of curriculum:
 
-- In pre-primary education (including early learning and care)
+✔ In pre-primary education (including early learning and care)
 
-- In primary education
+✔ In primary education
 
-- In secondary education
+✔ In secondary education
 
-- In technical and vocational education and training
+✔ In technical and vocational education and training
 
-- In higher education
+✔ In higher education
 
-- In adult education and alternative learning
+✔ In adult education and alternative learning
 
 - Please provide details:
 
@@ -343,13 +343,15 @@ These efforts ensure that the curriculum remains inclusive and free from discrim
 
 The Literacy & Non Formal Basic Education (NFBE) Department, Punjab, Pakistan has taken the following measures to eliminate discrimination in education and ensure equal access to all levels and types of education:
 ##### Literacy Programs
----
+
 Targeted Literacy Initiatives: Focus on marginalized communities, including women, minorities, and persons with disabilities.
 Literacy Training: Provide training to literacy instructors on inclusive pedagogy and diversity.
 Literacy Materials: Develop and distribute inclusive literacy materials reflecting diverse perspectives.
+##### Non-Formal Education (NFE) Initiatives
 NFE Centers: Establish NFE centers in marginalized areas to provide education to out-of-school children and youth.
 NFE Curriculum: Develop and implement an inclusive NFE curriculum addressing diverse needs.
 NFE Teacher Training: Provide training to NFE teachers on inclusive pedagogy and diversity.
+##### Vocational Training
 Vocational Training Programs: Offer vocational training programs promoting economic empowerment and self-sufficiency.
 Inclusive Vocational Training: Ensure vocational training programs are accessible and inclusive for marginalized groups.
 ##### Policy and Legislation
@@ -379,28 +381,27 @@ Monitoring and Evaluation: Established a monitoring and evaluation system to ens
 
 ##### General measures:
 
-- Legislation provides for inclusive education for all
+✔ Legislation provides for inclusive education for all
 
-- Policy measures aim to enhance inclusion in education for all
+✔ Policy measures aim to enhance inclusion in education for all
 
-- teachers are trained on inclusive education and to value diversity
+✔ teachers are trained on inclusive education and to value diversity
 
-- Initiatives to address discrimination and promote cultural diversity and mutual acceptance
+✔ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
+
+✔ Multiple and flexible learning pathways 7 are provided for
+
+✔ Curricula and teaching methods are inclusive in design 8
+
+✔ Multilingual and intercultural education is supported
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-Pakistan has made significant strides in promoting inclusive education in line with Article 25A. The State shall provide free and compulsory education to all children of the age of five to sixteen years in such manner as may be determined by law . The Inclusive Education Strategy (IES 2019-2024), supported by the FCDO, focuses on  children  with  mild  to  moderate  disabilities  using  international  classifications.  The strategy covers eight thematic areas, with the School Education Department (SED), Punjab leading  the  initiative.  NGOs  like  SOS  Children's  Village  and  The  Citizens  Foundation contribute through  digital learning solutions  and  scholarships such  as the  Ehsaas
+Pakistan has made significant strides in promoting inclusive education in line with Article 25A. The State shall provide free and compulsory education to all children of the age of five to sixteen years in such manner as may be determined by law. The Inclusive Education Strategy (IES 2019-2024), supported by the FCDO, focuses on children with mild to moderate disabilities using international classifications. The strategy covers eight thematic areas, with the School Education Department (SED), Punjab leading the initiative. NGOs like SOS Children's Village and The Citizens Foundation contribute through digital learning solutions and scholarships such as the Ehsaas
 
-> 7 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels,  strengthened  links  between  formal  and  non-formal  structures,  and  recognition,  validation  and accreditation  of  the  knowledge,  skills  and  competencies  acquired  through  nonformal  and  informal education' ( Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and  diverse learning modalities (online,  in-person, full-time,  part-time,  etc.)  to respond to individual needs and interests.
+> 7 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 8 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
-
-- Multiple and flexible learning pathways 7 are provided for
-
-- Curricula and teaching methods are inclusive in design 8
-
-- Multilingual and intercultural education is supported
-
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
@@ -423,7 +424,7 @@ The  Literacy  &  Non  formal  Basic  Education  (NFBE)  Department,  Punjab,  P
 
 - Provide training to NFE teachers on inclusive pedagogy and diversity.
 
-Offer vocational training programs promoting economic empowerment and selfsufficiency.
+Offer vocational training programs promoting economic empowerment and self-sufficiency.
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal  opportunities  principles  in  education?  If  needed,  brief  quantitative  information  may  be added.
 
@@ -471,15 +472,15 @@ Offer vocational training programs promoting economic empowerment and selfsuffic
 
 ##### Other relevant general measures, including gender equality
 
-- Legislation provides for gender equality in education
+✔ Legislation provides for gender equality in education
 
-- Policy measures aim to enhance gender equality
+✔ Policy measures aim to enhance gender equality
 
-- Gender-responsive education sector planning is undertaken
+✔ Gender-responsive education sector planning is undertaken
 
  Providing positive or affirmative action measures
 
-- Providing financial incentives and fellowships
+✔ Providing financial incentives and fellowships
 
  Teachers are trained (initial and in-service) on gender equality
 
@@ -487,15 +488,15 @@ Offer vocational training programs promoting economic empowerment and selfsuffic
 
  All  barriers  for  pregnant  girls  and  young mothers  in  education  are  eliminated  to ensure the continuity of their education
 
-- Re-entry programmes for young mothers are provided for
+✔ Re-entry programmes for young mothers are provided for
 
-- Ensuring safe and adequate gender- sensitive sanitation facilities 10
+✔ Ensuring safe and adequate gender-sensitive sanitation facilities 10
 
-- Curricula are rid of all stereotypes 11 and bias
+✔ Curricula are rid of all stereotypes 11 and bias
 
-- Ensuring gender parity in science, technology, engineering and mathematics (STEM)
+✔ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
-- Ensuring gender parity in technical and vocational training education and training (TVET)
+✔ Ensuring gender parity in technical and vocational training education and training (TVET)
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -563,19 +564,31 @@ Punjab Marriage at Early Age (Prohibition) Act, 2016: Prohibits marriage below t
 
 For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities.
 
-- Legislation provides for the right to education of national minorities
+✔ Legislation provides for the right to education of national minorities
 
-- Policy measures aim to enhance the right to education of national minorities
+✔ Policy measures aim to enhance the right to education of national minorities
 
-- Policy elaboration includes consultations with local communities
+✔ Policy elaboration includes consultations with local communities
 
-- The right to carry out their own educational activities is legally guaranteed for national minorities
+✔ The right to carry out their own educational activities is legally guaranteed for national minorities
 
-- Educational standards are established for educational institutions run by national minorities
+✔ Educational standards are established for educational institutions run by national minorities
 
-- Positive or affirmative action measures are provided for national minorities
+✔ Positive or affirmative action measures are provided for national minorities
 
-- Financial incentives and fellowships are provided for national minorities
+✔ Financial incentives and fellowships are provided for national minorities
+
+✔ Teachers are trained on intercultural education
+
+✔ Teachers are trained to combat stigmatisation 13
+
+✔ Multilingual and intercultural education are supported
+
+✔ Native language instruction is ensured for national minorities
+
+✔ Adapting curricula and teaching and learning methods to their needs for national minorities
+
+✔ Curricula are rid of all stereotypes 14 and bias
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -583,39 +596,27 @@ Pakistan has several laws and policies that ensure equality and non-discriminati
 
 ###### Key Legal Provisions :
 
-- Article 22 of the Constitution: No person shall be required to participate in religious instruction or ceremonies of a religion other than their own. No citizen can be denied admission to any publicly funded educational institution based on race, religion, caste, or place of birth.
+1. Article 22 of the Constitution: No person shall be required to participate in religious instruction or ceremonies of a religion other than their own. No citizen can be denied admission to any publicly funded educational institution based on race, religion, caste, or place of birth.
 
-- Constitution of Pakistan (1973) : Guarantees equal educational rights for minorities.
+2. Constitution of Pakistan (1973) : Guarantees equal educational rights for minorities.
 
-- Minorities Act (1959) : Protects minority rights, including access to education.
+3. Minorities Act (1959) : Protects minority rights, including access to education.
 
-- Punjab Free and Compulsory Education Act (2013) : Ensures education for minority students.
+4. Punjab Free and Compulsory Education Act (2013) : Ensures education for minority students.
 
 ###### Provisions for Minority Education :
 
-- Reserved seats for minority students in public educational institutions.
+5. Reserved seats for minority students in public educational institutions.
 
-- Special facilities like separate hostels and dietary arrangements.
+6. Special facilities like separate hostels and dietary arrangements.
 
-- Protection from harassment and discrimination in educational environments.
+7. Protection from harassment and discrimination in educational environments.
 
-- Introduction of exclusive Curricula for Minorities for 07 religions i.e Christianity, Hinduism, Sikhism, Bahai, Kalasha,
+8. Introduction of exclusive Curricula for Minorities for 07 religions i.e Christianity, Hinduism, Sikhism, Bahai, Kalasha,
 
 > 13 Supra note 15.
 
 > 14 Supra note 16.
-
-- Teachers are trained on intercultural education
-
-- Teachers are trained to combat stigmatisation 13
-
-- Multilingual and intercultural education are supported
-
-- Native language instruction is ensured for national minorities
-
-- Adapting curricula and teaching and learning methods to their needs for national minorities
-
-- Curricula are rid of all stereotypes 14 and bias
 
 [[END OF PAGE 13]]
 
@@ -625,9 +626,9 @@ Pakistan has several laws and policies that ensure equality and non-discriminati
 
 Zoroastrianism and Buddhism is also encouraging people from other religion to send their children to Muslim schools where they have separate textbooks on Ethics and their relevant religion and they are not being imposed to learn Islamiat.
 
-- Government of Pakistan is also taking initiative to support transgender and they are getting education through Non-Formal Education set up in BECS.
+9. Government of Pakistan is also taking initiative to support transgender and they are getting education through Non-Formal Education set up in BECS.
 
-- For those underprivileged children who could not attend school on time, GoP has started A ccelerated Learning Program (ALP) in non Formal Education setup. Similarly Government has also introduced Middle Tech and Metric Tech Programs for Child laborer in order to equip them with appropriate skills that can help them to earn a respectable livelihood.
+10. For those underprivileged children who could not attend school on time, GoP has started Accelerated Learning Program (ALP) in non Formal Education setup. Similarly Government has also introduced Middle Tech and Metric Tech Programs for Child laborer in order to equip them with appropriate skills that can help them to earn a respectable livelihood.
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
@@ -649,37 +650,37 @@ Lack of Representation: Limited representation of minorities in educational inst
 
 ##### Indigenous people:
 
-- Legislation provides for the right to education of indigenous people
+✔ Legislation provides for the right to education of indigenous people
 
-- Policy measures aim to enhance the right to education of indigenous people
+✔ Policy measures aim to enhance the right to education of indigenous people
 
-- Policy elaboration includes consultations with local communities
+✔ Policy elaboration includes consultations with local communities
 
-- The right to carry out their own educational activities is legally guaranteed for indigenous people
+✔ The right to carry out their own educational activities is legally guaranteed for indigenous people
+
+✔ Financial incentives and fellowships are provided for indigenous people
+
+✔ Teachers are trained on intercultural education
+
+✔ Teachers are trained to combat stigmatisation 15
+
+✔ Multilingual and intercultural education are supported
+
+✔ Native language instruction is ensured
 
 > 15 Supra note 15.
-
-- Financial incentives and fellowships are provided for indigenous people
-
-- Teachers are trained on intercultural education
-
-- Teachers are trained to combat stigmatisation 15
-
-- Multilingual and intercultural education are supported
-
-- Native language instruction is ensured
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-- Educational standards are established for educational institutions run by indigenous people
+✔ Educational standards are established for educational institutions run by indigenous people
 
-- Positive or affirmative action measures are provided for indigenous people
+✔ Positive or affirmative action measures are provided for indigenous people
 
-- Adapting curricula and teaching and learning methods to their needs for indigenous people
+✔ Adapting curricula and teaching and learning methods to their needs for indigenous people
 
-- Curricula are rid of all stereotypes 16 and bias
+✔ Curricula are rid of all stereotypes 16 and bias
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -733,8 +734,6 @@ Although there are some initiatives, like financial incentives, fellowships, and
 
 -16 -
 
-18
-
  Teachers are specifically trained to ensure their inclusion
 
  Teachers are trained to combat stigmatisation 18
@@ -745,7 +744,7 @@ Although there are some initiatives, like financial incentives, fellowships, and
 
 UNHCR Pakistan provides Afghan refugee students access to free primary and in some area s secondary etc education through 153 schools ,48 satellite  classes 55home schools and  13  early  childhood  education  centres  in  refugee  village  .Since  2002,  the United States has  provided  more  than  $273  million  (nearly  Rs  62  billion)  in  humanitarian assistance for Afghan refugees in Pakistan and Pakistani host community.
 
-- MoFEPT initiative of I nsurance of Public Sector Educational Building in the wake of disasters Owing to Natural hazards ensuring that Education/Schools cannot be closed. In Sindh, because of climatic changes, heavy monsoon rains and floods, high rate of underage girls have been reported to get married since the 2022 deluge. So securing educational infrastructure can help them in a way that the education will remain continue in the flood affected area and girls would not be pushed towards forced child marriage because of the school closure in such times.
+- MoFEPT initiative of Insurance of Public Sector Educational Building in the wake of disasters Owing to Natural hazards ensuring that Education/Schools cannot be closed. In Sindh, because of climatic changes, heavy monsoon rains and floods, high rate of underage girls have been reported to get married since the 2022 deluge. So securing educational infrastructure can help them in a way that the education will remain continue in the flood affected area and girls would not be pushed towards forced child marriage because of the school closure in such times.
 
 - Elimination of Form B Requirement for Admission in Federal Government Schools in the area of Current Educational Policies for facilitating Education Access. This initiative leads to facilitate accommodation of lot of displaced people i.e Afghan refugees and people dislocated because of floods and earth quake who don't have requisite documents with them.
 
@@ -759,7 +758,7 @@ UNHCR Pakistan provides Afghan refugee students access to free primary and in so
 
 No,  specific  measures  for  climate-displaced  persons  in  Pakistan  have  not  been  widely adopted. While there are general frameworks and policies for managing displacement, there is  limited  focus  on  addressing  the  unique  needs  of  those  displaced  specifically  due  to
 
-> Supra note 15.
+> 18 Supra note 15.
 
 [[END OF PAGE 16]]
 
@@ -813,9 +812,7 @@ Challenges  in  realizing  the  right  to  education  for  migrants,  refugees, 
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-Pakistan  has  made  significant  strides  in  promoting  inclusive  education  in  line  with  Article 25A. The State shall provide free and compulsory education to all children of the age of five to sixteen years in such manner as may be determined by
-
-law .  The Inclusive Education Strategy (IES 2019-2024), supported by the FCDO, focuses on children with mild to moderate disabilities using international classifications. The strategy covers eight thematic areas, with the School Education Department (SED), Punjab leading the initiative. The  Higher  Education  Commission  (HEC)  has  also  mandated  the  installation  of  ramps  in educational institutions, reinforcing Pakistan's commitment to inclusive education.
+Pakistan has made significant strides in promoting inclusive education in line with Article 25A. The State shall provide free and compulsory education to all children of the age of five to sixteen years in such manner as may be determined by law. The Inclusive Education Strategy (IES 2019-2024), supported by the FCDO, focuses on children with mild to moderate disabilities using international classifications. The strategy covers eight thematic areas, with the School Education Department (SED), Punjab leading the initiative. The Higher Education Commission (HEC) has also mandated the installation of ramps in educational institutions, reinforcing Pakistan's commitment to inclusive education.
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
@@ -883,7 +880,7 @@ Despite policies aimed at providing free education, hidden costs such as uniform
 
 - High Dropout Rates : Elevated dropout rates, particularly among girls and rural communities.
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
@@ -893,7 +890,7 @@ Despite policies aimed at providing free education, hidden costs such as uniform
 
 -20 -
 
-For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance ofECCE over the years. The Committee on the Rights of the Child initia lly  recognized  'the  right  to  education  during  early  childhood  as  beginning  at  birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action  and  Cooperation 25 and  more  recently,  the  Tashkent  Declaration  and  Commitments  to Action for Transforming Early Childhood Care and Education 26 .  In  the  current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 25 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 26. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”.
 
 -  Please  indicate  the  measures  taken to  ensure  access  to  quality  ECCE (several  items  may be ticked):
 
@@ -901,7 +898,7 @@ For reference: Early childhood care and education (ECCE) is not explicitly provi
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services are accessible on a non- discriminatory basis
+ ECCE services are accessible on a non-discriminatory basis
 
  ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
@@ -933,7 +930,7 @@ In Pakistan, pre-primary education is generally free of charge in public schools
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
-- What challenges were encountered in realizing early childhood care and education and pre- primary education?
+- What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
  Limited access
 
@@ -951,13 +948,13 @@ In Pakistan, pre-primary education is generally free of charge in public schools
 
 - Please elaborate. Brief quantitative information may be added.
 
-In Pakistan, the realization of early childhood care and education (ECCE) and preprimary  education  faces  multiple  challenges,  including  limited  access  due  to inadequate infrastructure and insufficient public  schools, particularly  in  rural  and marginalized areas. Issues of equity and inclusion persist, with children from lowincome  families,  girls,  and  those  with  disabilities  facing  significant  barriers. Additionally,  the  quality  of  programs  is  often  poor,  with  outdated  curricula  and inadequate learning environments, leading to poor learning outcomes and insufficient preparation for primary education. The sector also struggles with a low number of professionally trained educators, which affects the delivery of effective teaching, while a lack of support to families, especially in disadvantaged communities,  hampers  their  ability  to  engage  in  and  prioritize  early  learning opportunities for their children.
+In Pakistan, the realization of early childhood care and education (ECCE) and pre-primary education faces multiple challenges, including limited access due to inadequate infrastructure and insufficient public schools, particularly in rural and marginalized areas. Issues of equity and inclusion persist, with children from low-income families, girls, and those with disabilities facing significant barriers. Additionally, the quality of programs is often poor, with outdated curricula and inadequate learning environments, leading to poor learning outcomes and insufficient preparation for primary education. The sector also struggles with a low number of professionally trained educators, which affects the delivery of effective teaching, while a lack of support to families, especially in disadvantaged communities, hampers their ability to engage in and prioritize early learning opportunities for their children.
 
 Currently  608581  learners  are  enrolled  in  the  19430  school  established  by  the Literacy & NFBE department in the Punjab
 
 #### 2.2 Primary and secondary education
 
-For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide “12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.”
 
 ##### Primary education
 
@@ -1059,7 +1056,7 @@ In  Pakistan,  lower  secondary  (grades  6-8)  and  education  are  intended  t
 
 For reference: The employment  laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-Yeso No o
+Yes o No o
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
 
@@ -1115,7 +1112,7 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 
  Higher education is accessible through credit transfer system between states
 
- ✔ Higher education allows for multiple and flexible learning pathways (flexible entry and re- entry, recognition, validation, and accreditation of knowledge and skills acquired through non- formal and informal education).
+ ✔ Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct  costs  (e.g.,  enrolment  fees  and  tuition  fees)  and  indirect  costs  (e.g.,  exam  fees, university  supplies,  transport,  accommodation).  Brief  quantitative  information  may  be added.
 
@@ -1141,13 +1138,15 @@ In realizing higher education in Pakistan, several challenges have been encounte
 
 #### 2.4 Adult education and alternative learning
 
-For  reference:  Article/Paragraph  4(c)  of  the  Convention/Recommendation  provides  for  adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.'
+For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to “ensure inclusive and equitable quality
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
--26 -
+– 26 –
+
+education and promote lifelong learning opportunities for all”, target 4.6 specifically calls on states to “ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy”. Furthermore, under target 4.4, states are called “to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.”
 
 - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked):
 
@@ -1201,13 +1200,11 @@ Primary: 39, Middle: 25, High :30
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly  highlighted  in  SDG  target  4.a  that  recommends  state s  to  'build  and  upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to “build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all”.
 
 #### 3.1 General measures
 
-- Please  indicate  whether  the  legal  or  regulatory  framework  lays  out  the  conditions  and  minimum education standards for the establishment and functioning of public education institutions regarding:
-
-- Please elaborate on each of the measures taken:
+- Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
  ✔ State monitoring and inspections
 
@@ -1223,15 +1220,19 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
  ✔ School fees (if relevant)
 
+- Please elaborate on each of the measures taken:
+
 You may include information on policies, protocols or codes of conduct.
 
-National Plan of Action (2001-2015):Developed to fulfill the Education for All Dakar Framework  commitments,  this  plan  focused  on  improving  access  to  education  for disadvantaged groups, especially girls and women, enhancing community participation, and raising the quality of basic education. It projected that 5.06 million of the 6.7 million primary-aged out-of-school children would be enrolled by 2016, with an estimated cost of PKR 189 billion.National Education Policy (2009): Aims to address gender and ruralurban disparities in education, revitalizing the education system to meet international commitments,  including  those  related  to  Education  for  All  (EFA)  and  Millennium Development Goals (MDGs).
+National Plan of Action (2001-2015):Developed to fulfill the Education for All Dakar Framework commitments, this plan focused on improving access to education for disadvantaged groups, especially girls and women, enhancing community participation, and raising the quality of basic education. It projected that 5.06 million of the 6.7 million
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
--28 -
+– 28 –
+
+primary-aged out-of-school children would be enrolled by 2016, with an estimated cost of PKR 189 billion.National Education Policy (2009): Aims to address gender and rural-urban disparities in education, revitalizing the education system to meet international commitments, including those related to Education for All (EFA) and Millennium Development Goals (MDGs).
 
 What challenges were encountered in realizing quality education?
 
@@ -1275,8 +1276,6 @@ For  reference:  Article/Paragraph  4(d)  of  the  Convention/Recommendation  pr
 
 [[START OF PAGE 29]]
 
-- Please elaborate on each of the measures taken:
-
  Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.
 
  ✔ Establishment of performance monitoring systems.
@@ -1285,7 +1284,9 @@ For  reference:  Article/Paragraph  4(d)  of  the  Convention/Recommendation  pr
 
  Other:
 
-The  Pakistan Teacher Education  and  Professional  Development  Program  (PTEPDP) conducted a Performance Gap Analysis and Training Needs Assessment (TNA) of public sector teacher training institutions. The TNA evaluated various aspects, including the quality of  education,  efficiency  in  delivering  training,  resource  needs,  curriculum  relevance,  and professional development opportunities. Consultants visited 24 institutions, including those offering  Primary  Teaching  Certificate  (PTC)  and  Certificate  of  Teaching  (CT)  courses, graduate and postgraduate programs, Provincial Institutes of Teacher Education (PITEs), the University of Education Punjab, and Bureaus of Curriculum in several provinces. They used individual and group interviews, supported by a 142-item questionnaire, to gather information. Key  concerns  identified  included  overlapping  roles  between  Bureaus  of  Curriculum  and PITEs,  a  lack  of  interaction  and  coordination  among  institutions,  and  insufficient  regular budgetary allocations for in-service training, with most funding coming from government aid projects and donor agencies like UNICEF and UNESCO.
+- Please elaborate on each of the measures taken:
+
+The Pakistan Teacher Education and Professional Development Program (PTEPDP) conducted a Performance Gap Analysis and Training Needs Assessment (TNA) of public sector teacher training institutions. The TNA evaluated various aspects, including the quality of education, efficiency in delivering training, resource needs, curriculum relevance, and professional development opportunities. Consultants visited 24 institutions, including those offering Primary Teaching Certificate (PTC) and Certificate of Teaching (CT) courses, graduate and postgraduate programs, Provincial Institutes of Teacher Education (PITEs), the University of Education Punjab, and Bureaus of Curriculum in several provinces. They used individual and group interviews, supported by a 142-item questionnaire, to gather information. Key concerns identified included overlapping roles between Bureaus of Curriculum and PITEs, a lack of interaction and coordination among institutions, and insufficient regular budgetary allocations for in-service training, with most funding coming from government aid projects and donor agencies like UNICEF and UNESCO.
 
 - What challenges were encountered in the education personnel?
 
@@ -1297,37 +1298,37 @@ The  Pakistan Teacher Education  and  Professional  Development  Program  (PTEPD
 
  Other:
 
-- o ✔ Low quality educational infrastructure and materials
+o✔ Low quality educational infrastructure and materials
 
-- o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
 In Pakistan, education personnel face several challenges that affect the quality of education:
 
-- Teacher Shortage : Many schools struggle to recruit enough teaching staff to meet the growing educational demand, leading to overcrowded classrooms and compromised education quality.
+1. Teacher Shortage: Many schools struggle to recruit enough teaching staff to meet the growing educational demand, leading to overcrowded classrooms and compromised education quality.
 
-- Lack of Qualified Teachers : A significant number of educators lack sufficient training and professional development, impacting teaching effectiveness and motivation.
+2. Lack of Qualified Teachers: A significant number of educators lack sufficient training and professional development, impacting teaching effectiveness and motivation.
 
-- Limited Training Opportunities : Insufficient training centers restrict opportunities for teachers to improve their skills and stay updated on best practices.
+3. Limited Training Opportunities: Insufficient training centers restrict opportunities for teachers to improve their skills and stay updated on best practices.
 
-- Poor Infrastructure and Resources : Schools often face outdated textbooks, inadequate facilities, and subpar classroom environments, hindering learning.
+4. Poor Infrastructure and Resources: Schools often face outdated textbooks, inadequate facilities, and subpar classroom environments, hindering learning.
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
--30 -
+– 30 –
 
-- High Student-Teacher Ratios : Overcrowded classrooms prevent teachers from giving individualized attention, negatively affecting student engagement and outcomes.
+5. High Student-Teacher Ratios: Overcrowded classrooms prevent teachers from giving individualized attention, negatively affecting student engagement and outcomes.
 
 Efforts to address these challenges include:
 
-- Monitoring and Reporting Systems : The Literacy & NFBE Department has equipped 700 staff with Android phones for real-time monitoring and reporting on teacher presence and student outcomes.
+• Monitoring and Reporting Systems: The Literacy & NFBE Department has equipped 700 staff with Android phones for real-time monitoring and reporting on teacher presence and student outcomes.
 
-- Centralized MIS System : A system has been set up for quick, data-driven policy decisions and comparative analysis.
+• Centralized MIS System: A system has been set up for quick, data-driven policy decisions and comparative analysis.
 
-- Digital Literacy Initiatives : Around 300 tablets have been distributed to teachers in Rajanpur and Dera Ghazi Khan districts to promote digital literacy as part of the Punjab government's vision.
+• Digital Literacy Initiatives: Around 300 tablets have been distributed to teachers in Rajanpur and Dera Ghazi Khan districts to promote digital literacy as part of the Punjab government’s vision.
 
 #### 3.3 Respect for human rights and fundamental freedoms
 
@@ -1367,7 +1368,7 @@ Policies  such  as  the  Punjab  Private  Educational  Institutions  (Promotion 
 
 Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
 
-In  Pakistan,  legal  provisions  do  provide  for  the  rights  of  parents  and  legal  guardians  to provide  religious  and  moral  education  to  their  children.  The  Constitution  of  Pakistan guarantees  the  right  to  education  and  recognizes  the  role  of  parents  in  their  ch ildren's upbringing, including religious and moral education. The 1973 Constitution, under Article 22, ensures that no one shall be compelled to receive religious instruction or take part in any religious ceremony if it conflicts with their beliefs. Additionally, various education policies and provincial regulations support the inclusion of religious and moral education as part of the broader educational framework, reflecting the importance of parental rights in shaping their children's educational experiences according to their values and beliefs.
+In Pakistan, legal provisions do provide for the rights of parents and legal guardians to provide religious and moral education to their children. The Constitution of Pakistan guarantees the right to education and recognizes the role of parents in their children’s upbringing, including religious and moral education. The 1973 Constitution, under Article 22, ensures that no one shall be compelled to receive religious instruction or take part in any religious ceremony if it conflicts with their beliefs. Additionally, various education policies and provincial regulations support the inclusion of religious and moral education as part of the broader educational framework, reflecting the importance of parental rights in shaping their children’s educational experiences according to their values and beliefs.
 
 > 30 Private, faith-based, NGOs, community actors.
 
@@ -1377,11 +1378,11 @@ In  Pakistan,  legal  provisions  do  provide  for  the  rights  of  parents  an
 
 [[START OF PAGE 32]]
 
--32 -
+– 32 –
 
 - Please elaborate:
 
-In Pakistan, the legal and regulatory framework for non-state educational institutions, such as the Punjab Private Educational Institutions (Promotion and Regulation) Ordinance and the Sindh Private Educational Institutions (Regulation and Control) Ordinance, covers several key areas to ensure quality and safety. These include the mandatory registration of schools with relevant authorities and regular state monitoring and inspections to ensure compliance with standards. It sets requirements for the qualifications of teachers and mandates adherence to  health  and  sanitation  guidelines  to  maintain  a  safe  and  healthy  environment.  Safety measures are emphasized to protect children from violence and harassment, including genderbased  violence,  both  in  and  around  schools.  The  framework  also  addresses  standards  for infrastructure,  curriculum,  student-teacher  ratios,  school  fees,  and  procedures  for  school closures,  ensuring  that  non-state  institutions  provide  a  regulated  and  conducive  learning environment.
+In Pakistan, the legal and regulatory framework for non-state educational institutions, such as the Punjab Private Educational Institutions (Promotion and Regulation) Ordinance and the Sindh Private Educational Institutions (Regulation and Control) Ordinance, covers several key areas to ensure quality and safety. These include the mandatory registration of schools with relevant authorities and regular state monitoring and inspections to ensure compliance with standards. It sets requirements for the qualifications of teachers and mandates adherence to health and sanitation guidelines to maintain a safe and healthy environment. Safety measures are emphasized to protect children from violence and harassment, including gender-based violence, both in and around schools. The framework also addresses standards for infrastructure, curriculum, student-teacher ratios, school fees, and procedures for school closures, ensuring that non-state institutions provide a regulated and conducive learning environment.
 
 - What challenges were encountered in non-state education provision?
 
@@ -1399,7 +1400,7 @@ In Pakistan, the legal and regulatory framework for non-state educational instit
 
 - Please elaborate. Brief quantitative information may be added.
 
-In non-state education provision in Pakistan, several challenges have emerged. There is lowquality educational infrastructure and materials in some non-state institutions, which affects the learning environment. The low number of professionally trained teachers impacts the effectiveness of education, as many educators lack the necessary qualifications and training. High student-teacher ratios in overcrowded classrooms further strain teaching effectiveness and limit individual attention. There are also issues of equity and inclusion, with non-state schools sometimes failing to cater to students from disadvantaged backgrounds. Additionally, weak government regulatory and monitoring capacity makes it difficult to ensure that non-state providers meet required standards and maintain quality.
+In non-state education provision in Pakistan, several challenges have emerged. There is low-quality educational infrastructure and materials in some non-state institutions, which affects the learning environment. The low number of professionally trained teachers impacts the effectiveness of education, as many educators lack the necessary qualifications and training. High student-teacher ratios in overcrowded classrooms further strain teaching effectiveness and limit individual attention. There are also issues of equity and inclusion, with non-state schools sometimes failing to cater to students from disadvantaged backgrounds. Additionally, weak government regulatory and monitoring capacity makes it difficult to ensure that non-state providers meet required standards and maintain quality.
 
 #### 3.5 Digital education
 
@@ -1439,7 +1440,7 @@ In Pakistan, measures to ensure the provision of quality digital education inclu
 
 [[START OF PAGE 34]]
 
--34 -
+– 34 –
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
@@ -1447,9 +1448,7 @@ In Pakistan, measures to ensure the provision of quality digital education inclu
 
  Lack of equity and inclusion in digital learning solutions
 
- inadequate safety measures and IT
-
-- support  to  respond  to  issues  of  child  online safety or reducecyber security risks
+ inadequate safety measures and IT support to respond to issues of child online safety or reducecyber security risks
 
  Other:
 
@@ -1471,7 +1470,7 @@ In  Pakistan,  the  challenges  encountered  in  digital  education  provision  
 
 ### 4 Strengthening governance systems
 
-For reference:  The  Education  2030  Framework  for  Action  states  "to  ensure  quality  education  and conditions  for  effective  education  outcomes,  governments  should  strengthen  education  systems  by instituting and  improving  appropriate, effective and  inclusive governance  and  accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures  and  mechanisms;  and  institutional  management  arrangements,  as  well  as  ensure  that robust, timely and accessible data a re available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1497,31 +1496,31 @@ For reference:  The  Education  2030  Framework  for  Action  states  "to  ensur
 
 - Please elaborate on each of the measures taken:
 
-In  Pakistan,  governance  in  education  has  been  strengthened  through  several  key measures. The 18th Constitutional Amendment decentralized education responsibilities  to  provincial  governments,  allowing  for  more  localized  decisionmaking. Each province has its own education department, and national policies provide a framework for improvement. Regulatory bodies such as the Bureaus of Curriculum and Provincial Institutes of Teacher Education oversee curriculum and teacher training. Monitoring and evaluation systems track performance and ensure standards are met, while educational reforms address quality and access issues. Public-private partnerships are encouraged to enhance resources and service delivery, and Education Management  Information  Systems  (EMIS)  aid  in  data  management  for  informed decision-making. Legislative frameworks ensure free and compulsory education, set standards for institutions, and promote transparency and accountability.
+In Pakistan, governance in education has been strengthened through several key measures. The 18th Constitutional Amendment decentralized education responsibilities to provincial governments, allowing for more localized decision-making. Each province has its own education department, and national policies provide a framework for improvement. Regulatory bodies such as the Bureaus of Curriculum and Provincial Institutes of Teacher Education oversee curriculum and teacher training. Monitoring and evaluation systems track performance and ensure standards are met, while educational reforms address quality and access issues. Public-private partnerships are encouraged to enhance resources and service delivery, and Education Management Information Systems (EMIS) aid in data management for informed decision-making. Legislative frameworks ensure free and compulsory education, set standards for institutions, and promote transparency and accountability.
 
 - What challenges were encountered in terms of governance?
 
--✔ Budgetary constraints
+-✔Budgetary constraints
 
--✔ Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
+-✔Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
--P oor dialogue with teachers' trade unions
+-Poor dialogue with teachers’ trade unions
 
 -Other:
 
+Absence of supportive/ inconsistent/obsolete legal and policy environment
+
+-✔Lack or weakness of monitoring systems – including the lack of reliable data
+
 - Please elaborate. Brief quantitative information may be added.
 
-In  Pakistan,  governance  in  education  faces  several  challenges  including  budgetary constraints  that  limit  resources  for  effective  implementation.  There  is  a  lack  of involvement  from  relevant  stakeholders  and  poor  cooperation  and  coordination  at various levels, which hinders effective policy execution. Additionally, poor dialogue with  teachers'  trade  unions  prevents  addressing  educators'  issues  adequately.  The
-
-- Absence of supportive/ inconsistent/obsolete legal and policy environment
-
--✔ Lack or weakness of monitoring systems -including the lack of reliable data
+In Pakistan, governance in education faces several challenges including budgetary constraints that limit resources for effective implementation. There is a lack of involvement from relevant stakeholders and poor cooperation and coordination at various levels, which hinders effective policy execution. Additionally, poor dialogue with teachers' trade unions prevents addressing educators' issues adequately. The
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
 
--36 -
+– 36 –
 
 education  sector  also  suffers  from  an  inconsistent  or  outdated  legal  and  policy environment, and there is a weakness in monitoring systems, including unreliable data, which affects the ability to oversee and enhance educational quality effectively.
 
