@@ -2,7 +2,9 @@
 
 LAWS OF GUYANA
 
-University of Guyana 3 Cap. 39:02
+University of Guyana Cap. 39:02 3
+
+L.R.O. 3/1998
 
 # CHAPTER 39:02 UNIVERSITY OF GUYANA ACT
 
@@ -10,85 +12,82 @@ University of Guyana 3 Cap. 39:02
 
 SECTION
 
-- Short title.
+1. Short title.
 
-- Interpretation.
+2. Interpretation.
 
-- Incorporation.
+3. Incorporation.
 
-- Aims.
+4. Aims.
 
-- Eligibility.
+5. Eligibility.
 
-- No religious, political or racial test.
+6. No religious, political or racial test.
 
-- Authorities.
+7. Authorities.
 
-- Colleges.
+8. Colleges.
 
-- Chancellor.
+9. Chancellor.
 
-- Pro-Chancellor.
+10. Pro-Chancellor.
 
-- Principal and Vice Chancellor.
+11. Principal and Vice Chancellor.
 
-- Teachers.
+12. Teachers.
 
-- Council.
+13. Council.
 
-- Academic Board.
+14. Academic Board.
 
-- Disciplinary powers of Academic Board.
+15. Disciplinary powers of Academic Board.
 
-- Vacancies   in   Council   or   Academic  Board  not   to  affect competence.
+16. Vacancies in Council or Academic Board not to affect competence.
 
-- Guild of Graduates.
+17. Guild of Graduates.
 
-- Power to confer degrees, etc.
+18. Power to confer degrees, etc.
 
-- Site of University.
+19. Site of University.
 
-- Statutes.
+20. Statutes.
 
-- Regulations.
+21. Regulations.
 
 __________
 
-An Act to provide for the establishment and incorporation of the University of Guyana and for matters connected therewith. 6 of 1993
+An Act to provide for the establishment and incorporation of the University of Guyana and for matters connected therewith. 6 of 1963
 
 [19TH APRIL, 1963]
 
 ## Short title.
-- This Act may be cited as the University of Guyana Act.
-
-L.R.O. 3/1998
+1. This Act may be cited as the University of Guyana Act.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-4
-
-Cap. 39:02
-
 LAWS OF GUYANA
 
-University of Guyana
+4 Cap. 39:02 University of Guyana
 
 ## Interpretation.
-[21 of 1977] |
-2. In this Act-
---- | ---
+[21 of 1977]
+2. In this Act—
+“Council” and “Academic Board” respectively mean the Council and Academic Board of the University;
+“Chancellor” means the Chancellor of the University;
+“Principal and Vice Chancellor” means the Principal and Vice Chancellor of the University;
+“Pro-Chancellor” means the Pro-Chancellor of the University;
+“Statutes” means Statutes made under this Act;
+“University” means the University of Guyana.
+
 ## Incorporation.
-[21 of 1977] |
-3. There shall be and there is hereby constituted and founded a University by the name and style of 'University of Guyana' by which name the Chancellor, Pro-Chancellor, Principal and Vice Chancellor and all other persons who are for the time being members of the University pursuant to this Act and the Statutes shall be and are hereby constituted and incorporated into one body politic and corporate with the power to assume Armorial Bearings and to take, purchase, hold and also to grant, demise or otherwise dispose of movable and immovable property.
+[21 of 1977]
+3. There shall be and there is hereby constituted and founded a University by the name and style of “University of Guyana” by which name the Chancellor, Pro-Chancellor, Principal and Vice Chancellor and all other persons who are for the time being members of the University pursuant to this Act and the Statutes shall be and are hereby constituted and incorporated into one body politic and corporate with the power to assume Armorial Bearings and to take, purchase, hold and also to grant, demise or otherwise dispose of movable and immovable property.
 ## Aims.
-|
 4. The aims of the University are to provide a place of education, learning and research of a standard required and expected of a university of the highest standard, and to secure the advancement of knowledge and the diffusion and extension of arts, sciences and learning throughout Guyana.
 ## Eligibility.
-|
-5. Men and women shall be eligible for admission to and as students of the University and for appointment to any Authority, or employment of or under the University.
-office
+5. Men and women shall be eligible for admission to and as students of the University and for appointment to any Authority, office or employment of or under the University.
 
 [[END OF PAGE 2]]
 
@@ -96,11 +95,9 @@ office
 
 LAWS OF GUYANA
 
-University of Guyana
+University of Guyana Cap. 39:02 5
 
-Cap. 39:02
-
-5
+L.R.O. 3/1998
 
 ## No religious political or racial test.
 
@@ -114,9 +111,7 @@ Cap. 39:02
 
 ## Colleges.
 
-[21Interpreta-
-
-tion. of 1977]
+[21 of 1977]
 
 8. There may be established from time to time Colleges of Arts and  Sciences,  Medicine,  Engineering,  Agriculture,  Education  and such other Colleges authorised by the Council.
 
@@ -130,7 +125,7 @@ tion. of 1977]
 
 (3) The  first  Chancellor  shall  be  Edgar  Mortimer  Duke, Esquire, C.B.E., LL.B.
 
-## ProChancellor.
+## Pro-Chancellor.
 [21 of 1977]
 
 10. (1) The Pro-Chancellor shall be elected by the Council from among  members  of  the  Council  to  hold  that  office  for  the  period prescribed by the Statutes.
@@ -144,19 +139,13 @@ tion. of 1977]
 
 (2) The first Principal and Vice Chancellor shall be Lancelot Hogben, Esquire, M.A., D.Sc., F.R.S., LL.D.
 
-L.R.O. 3/1998
-
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-6
-
-Cap. 39:02
-
 LAWS OF GUYANA
 
-University of Guyana
+6 Cap. 39:02 University of Guyana
 
 ## Teachers.
 
@@ -165,9 +154,9 @@ University of Guyana
 ## Council.
 [5 of 1965 O. 14/1965 21 of 1977 19 of 1993 14 of 1995]
 
-13. (l) Subject to this Act, the Council shall have power to do or provide  for  any  act  or  thing  in  relation  to  the  University  which  it considers necessary or expedient in its capacity as the governing body of  the  University,  and  the  conferring  of  particular  powers  on  the Council by other provisions of this Act shall not be taken to limit the generality of this section.
+13. (1) Subject to this Act, the Council shall have power to do or provide for any act or thing in relation to the University which it considers necessary or expedient in its capacity as the governing body of the University, and the conferring of particular powers on the Council by other provisions of this Act shall not be taken to limit the generality of this section.
 
-(2) The  Council  shall  consist  of  the  following  twenty-six members-
+(2) The Council shall consist of the following twenty-six members—
 
 (a) the Chancellor, the Pro-Chancellor and the Principal and Vice-Chancellor;
 
@@ -199,13 +188,11 @@ University of Guyana
 
 LAWS OF GUYANA
 
-University of Guyana
+University of Guyana Cap. 39:02 7
 
-Cap. 39:02
+L.R.O. 3/1998
 
-7
-
-(m)  six  persons  to  be  nominated  by  the  Chancellor  of whom one shall be from each of the following-
+(m) six persons to be nominated by the Chancellor of whom one shall be from each of the following—
 
 (i)  the  Association  of  Universities  and  Colleges  of Canada;
 
@@ -233,21 +220,15 @@ Cap. 39:02
 ## Disciplinary powers of Academic Board.
 [21 of 1977]
 
-15. The Academic Board shall have power to deprive any person on whom the University has conferred  any  Degree,  Diploma  or  other academic distinction who shall have been convicted of a crime, or in its
-
-L.R.O. 3/1998
+15. The Academic Board shall have power to deprive any person on whom the University has conferred any Degree, Diploma or other academic distinction who shall have been convicted of a crime, or in its
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-8
-
-Cap. 39:02
-
 LAWS OF GUYANA
 
-University of Guyana
+8 Cap. 39:02 University of Guyana
 
 opinion shall have been guilty of dishonourable or scandalous conduct, of any Degree, Diploma or other academic distinction conferred by the University,  and  of  all  privileges  enjoyed  by  him  in  virtue  thereof, subject to such right of appeal to the Council and from the decision of the Council to the Chancellor as may be provided by the Statutes.  The Academic Board shall have the power to restore to any person any Degree, Diploma or other academic distinction of which he may have been deprived in any case where it considers it fit to do so.
 
@@ -263,7 +244,7 @@ opinion shall have been guilty of dishonourable or scandalous conduct, of any De
 
 ## Power to confer degrees, etc.
 
-18. The University shall be both a teaching and an examining body and  shall,  subject  to  this  Act  and  the  Statutes,  have  the  following powers, rights and duties-
+18. The University shall be both a teaching and an examining body and shall, subject to this Act and the Statutes, have the following powers, rights and duties—
 
 (a) to grant and confer, under conditions laid down by the University, Degrees and other academic distinctions to and on  persons  who  shall  have  pursued  a  course  of  study approved  by  the  University  and  shall  have  passed  the examinations or other tests prescribed by the University;
 
@@ -279,11 +260,9 @@ opinion shall have been guilty of dishonourable or scandalous conduct, of any De
 
 LAWS OF GUYANA
 
-University of Guyana
+University of Guyana Cap. 39:02 9
 
-Cap. 39:02
-
-9
+L.R.O. 3/1998
 
 (e)  to  confer  Honorary  Degrees  and  other  distinctions, provided that all Degrees and other distinctions so conferred shall be conferred and held subject to any provisions which are or may be made in reference thereto by the University;
 
@@ -299,23 +278,17 @@ Cap. 39:02
 
 (k) to institute Professorships, Readerships, Lectureships, and any other such offices, required by the University and to appoint to such offices;
 
-(1)  to  institute  and  award  Fellowships,  Scholarships, Studentships, Exhibitions, Bursaries and Prizes;
+(l) to institute and award Fellowships, Scholarships, Studentships, Exhibitions, Bursaries and Prizes;
 
 (m) to establish and maintain and to administer and govern institutions for the residence of the students of the University whether College Halls or Houses, and to license and supervise such institutions and other places of residence whether maintained by the University or not so maintained;
-
-L.R.O. 3/1998
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-10
-
-Cap. 39:02
-
 LAWS OF GUYANA
 
-University of Guyana
+10 Cap. 39:02 University of Guyana
 
 (n) to make provision for research and advisory services and with these objects to enter into such arrangements with other institutions or with public bodies as may be thought desirable;
 
