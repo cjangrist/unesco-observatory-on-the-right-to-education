@@ -1,5 +1,6 @@
 [[START OF PAGE 1]]
-
+Biblioteca del Congreso Nacional de Chile
+Legislación chilena
 Tipo Norma               :Ley 20536
 
 Fecha Publicación        :17-09-2011
@@ -31,11 +32,11 @@ Introdúcense las siguientes modificaciones en el decreto con fuerza de ley Nº 
 
 - 1.- Modifícase el artículo 15 del siguiente modo:
 
-- Intercálase en su inciso segundo, a continuación de la locución "proyecto educativo", lo siguiente: ", promover la buena convivencia escolar y prevenir toda forma de violencia física o psicológica, agresiones u hostigamientos, conforme a lo establecido en el Párrafo 3º de este Título,".
+- a) Intercálase en su inciso segundo, a continuación de la locución "proyecto educativo", lo siguiente: ", promover la buena convivencia escolar y prevenir toda forma de violencia física o psicológica, agresiones u hostigamientos, conforme a lo establecido en el Párrafo 3º de este Título,".
 
-- Agrégase el siguiente inciso tercero:
+- b) Agrégase el siguiente inciso tercero:
 
-"Aquellos establecimientos que no se encuentren legalmente obligados a constituir dicho organismo deberán crear un Comité de Buena Convivencia Escolar u otra entidad de similares características, que cumpla las funciones de promoción y prevención señaladas en el inciso anterior. Todos los establecimientos educacionales deberán contar con un encargado de convivencia escolar, que será responsable de la implementacíón de las medidas que determinen el Consejo Escolar o el Comité de Buena Convivencia Escolar, según corresponda, y que deberán constar en un plan de gestión.".
+"Aquellos establecimientos que no se encuentren legalmente obligados a constituir dicho organismo deberán crear un Comité de Buena Convivencia Escolar u otra entidad de similares características, que cumpla las funciones de promoción y prevención señaladas en el inciso anterior. Todos los establecimientos educacionales deberán contar con un encargado de convivencia escolar, que será responsable de la implementación de las medidas que determinen el Consejo Escolar o el Comité de Buena Convivencia Escolar, según corresponda, y que deberán constar en un plan de gestión.".
 
 - 2.- Agrégase, en su Título Preliminar, el siguiente Párrafo 3º:
 
@@ -50,13 +51,18 @@ Se entenderá por buena convivencia escolar la coexistencia armónica de los mie
 Se entenderá por acoso escolar toda acción u omisión constitutiva de agresión u hostigamiento reiterado, realizada fuera o dentro del establecimiento educacional por estudiantes que, en forma individual o colectiva, atenten en contra de otro estudiante, valiéndose para ello de una situación de superioridad o de indefensión del estudiante afectado, que provoque en este último, maltrato, humillación o fundado temor de verse expuesto a un mal de carácter grave, ya sea por medios tecnológicos o cualquier otro medio, tomando en cuenta su edad y condición.
 
 ###### Artículo 16 C.
-Los alumnos, alumnas, padres, madres, apoderados, profesionales y asistentes de la educación, así como los equipos docentes y directivos de los establecimientos educacionales deberán propiciar un clima escolar que promueva la buena convivencia de manera de prevenir todo tipo de acoso escolar.
+Los alumnos, alumnas, padres, madres, apoderados, profesionales y asistentes de la educación, así como los equipos docentes y directivos de los
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 23-May-2018
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Biblioteca del Congreso Nacional de Chile
+Legislación chilena
+
+establecimientos educacionales deberán propiciar un clima escolar que promueva la buena convivencia de manera de prevenir todo tipo de acoso escolar.
 
 ###### Artículo 16 D.
 Revestirá especial gravedad cualquier tipo de violencia física o psicológica, cometida por cualquier medio en contra de un estudiante integrante de la comunidad educativa, realizada por quien detente una posición de autoridad, sea director, profesor, asistente de la educación u otro, así como también la ejercida por parte de un adulto de la comunidad educativa en contra de un estudiante.
@@ -72,7 +78,7 @@ El personal directivo, docente, asistentes de la educación y las personas que c
 
 "f) Contar con un reglamento interno que regule las relaciones entre el establecimiento y los distintos actores de la comunidad escolar. Dicho reglamento, en materia de convivencia escolar, deberá incorporar políticas de prevención, medidas pedagógicas, protocolos de actuación y diversas conductas que constituyan falta a la buena convivencia escolar, graduándolas de acuerdo a su menor o mayor gravedad. De igual forma, establecerá las medidas disciplinarias correspondientes a tales conductas, que podrán incluir desde una medida pedagógica hasta la cancelación de la matrícula. En todo caso, en la aplicación de dichas medidas deberá garantizarse en todo momento el justo procedimiento, el cual deberá estar establecido en el reglamento.".
 
-#### Artículo transitorio.-
+#### "Artículo transitorio.-
 Los establecimientos educacionales que no estén legalmente obligados a constituir el Consejo Escolar deberán crear un Comité de Buena Convivencia Escolar u otra entidad de similares características en el plazo de seis meses a contar de la publicación de esta ley.".
 
 Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
@@ -87,14 +93,15 @@ La Secretaria del Tribunal Constitucional, quien suscribe, certifica que el Sena
 
 ##### Se declara:
 
-- Que la norma del número 3.- del artículo único permanente del proyecto de ley sometido a control es constitucional.
+1) Que la norma del número 3.- del artículo único permanente del proyecto de ley sometido a control es constitucional.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 23-May-2018
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
-
+Biblioteca del Congreso Nacional de Chile
+Legislación chilena
 2) Que esta Magistratura no emitirá pronunciamiento respecto de las normas contenidas en los números 1.- y 2.- del artículo único permanente ni tampoco respecto del artículo transitorio de la iniciativa, por no regular materias que la Constitución Política estime propias de ley orgánica constitucional.
 
 Santiago, 1º de septiembre de 2011.- Marta de la Fuente Olguín, Secretaria.
