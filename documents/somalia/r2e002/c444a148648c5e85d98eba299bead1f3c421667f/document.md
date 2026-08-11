@@ -2,15 +2,18 @@
 
 The Federal Republic of Somalia
 
+جمهورية الصومال الفيدرالية
+
 # Provisional Constitution
 
-Adopted August 1, 2012 Mogadishu, Somalia This is an unofficial translation of the copy of the officially signed and stamped version of the Provisional Constitution as submitted to the House of the People of the Federal Parliament on 07 September 2012.
+Adopted August 1, 2012
+Mogadishu, Somalia
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-(this page came through the extractor with no text)
+This is an unofficial translation of the copy of the officially signed and stamped version of the Provisional Constitution as submitted to the House of the People of the Federal Parliament on 07 September 2012.
 
 [[END OF PAGE 2]]
 
@@ -20,6 +23,41 @@ THE FEDERAL REPUBLIC OF SOMALIA
 
 ## Contents
 
+CHAPTER 1: DECLARATION OF THE FEDERAL REPUBLIC OF SOMALIA
+Article 1. The Federal Republic of Somalia ......................................................................................................... 1
+Article 2. State and Religion.................................................................................................................................... 1
+Article 3. Founding Principles................................................................................................................................ 1
+Article 4. Supremacy of the Constitution............................................................................................................. 1
+Article 5. Official Languages................................................................................................................................... 2
+Article 6. The Flag and National Symbols............................................................................................................ 2
+Article 7. The Territory of the Federal Republic of Somalia ............................................................................ 2
+Article 8. The People and the Citizenship ............................................................................................................ 3
+Article 9. The Capital City of the Nation............................................................................................................. 3
+CHAPTER 2: FUNDAMENTAL RIGHTS AND THE DUTIES OF THE CITIZEN
+Title One: General Principles Of Human Rights...........................................................3
+Article 10. Human Dignity ........................................................................................................................................ 3
+Article 11. Equality ..................................................................................................................................................... 3
+Article 12. Application of the Fundamental Rights.............................................................................................. 4
+Title Two: Rights, Basic Personal Liberties and Limitations.........................................4
+Article 13. Right to Life ............................................................................................................................................. 4
+Article 14. Slavery, Servitude and Forced Labour.................................................................................................. 4
+Article 15. Liberty and Security of the Person....................................................................................................... 4
+Article 16. Freedom of Association......................................................................................................................... 4
+Article 17. Freedom of Religion and Belief ........................................................................................................... 4
+Article 18. Freedom of Expression and Opinions................................................................................................ 5
+Article 19. Inviolability of Home............................................................................................................................. 5
+Article 20. Freedom of Assembly, Demonstration, Protest, and Petition......................................................... 5
+Article 21. Freedom of Movement and Residence................................................................................................ 5
+Article 22. Right of Political Participation.............................................................................................................. 5
+Article 23. Freedom of Trade, Occupation, and Profession ............................................................................... 5
+Article 24. Labour Relations...................................................................................................................................... 6
+Article 25. Environment............................................................................................................................................ 6
+Article 26. Property .................................................................................................................................................... 6
+Article 27. Economic and Social Rights.................................................................................................................. 6
+Article 28. Family Care............................................................................................................................................... 6
+Article 29. Children .................................................................................................................................................... 7
+Article 30. Education.................................................................................................................................................. 7
+Article 31. Language and Culture............................................................................................................................. 8
 i
 
 [[END OF PAGE 3]]
@@ -28,6 +66,36 @@ i
 
 PROVISIONAL CONSTITUTION
 
+Article 32. Right of Access to Information .......................................................................................................... 8
+Article 33. Just Administrative Decisions................................................................................................................ 8
+Article 34. Access to Courts and legal defence ...................................................................................................... 8
+Article 35. The Rights of the Accused.................................................................................................................... 8
+Article 36. Extradition of the Accused and Criminals.......................................................................................... 9
+Article 37. Refugees and Asylum.............................................................................................................................. 9
+Article 38. Limitation of Rights ............................................................................................................................... 9
+Article 39. Redress of Violations of Human Rights............................................................................................. 10
+Article 40. Interpretation of the Fundamental Rights.......................................................................................... 10
+Article 41. Human Rights Commission .................................................................................................................. 10
+Title 3: Duties of Citizens ...............................................................................................10
+Article 42. Duties of the Citizens............................................................................................................................. 10
+CHAPTER 3: LAND, PROPERTY AND ENVIRONMENT
+Article 43. Land........................................................................................................................................................... 11
+Article 44. Natural Resources .................................................................................................................................. 12
+Article 45. Environment............................................................................................................................................ 12
+CHAPTER 4: REPRESENTATION OF THE PEOPLE
+Title One: General Principles of Representation of the People.....................................12
+Article 46. The Power of the People ...................................................................................................................... 12
+Title Two: Elections ........................................................................................................13
+Article 47. Electoral System and Political Parties .................................................................................................. 13
+CHAPTER 5: DEVOLUTION OF THE POWERS OF STATE IN THE FEDERAL REPUBLIC OF SOMALIA
+Title One: Structure and Principles of Collaboration of the Levels of Government......13
+Article 48. The Structure of the Government....................................................................................................... 13
+Article 49. The Number and Boundaries of the Federal Member States and Districts.................................. 13
+Article 50. Principles of Federalism in the Federal Republic of Somalia .......................................................... 14
+Article 51. Collaborative Relationships Between the Various Levels of Government in the Federal Republic of Somalia ................................................................................................................................................ 14
+Article 52. Cooperative Relationships Between the Various Federal Member State Governments .............. 15
+Article 53. International Negotiations..................................................................................................................... 16
+Article 54. Allocation of powers.............................................................................................................................. 16
 ii
 
 [[END OF PAGE 4]]
@@ -36,8 +104,42 @@ ii
 
 THE FEDERAL REPUBLIC OF SOMALIA
 
-CHAPTER 6:  THE FEDERAL PARLIAMENT
-
+CHAPTER 6: THE FEDERAL PARLIAMENT
+Title One: General Provisions .........................................................................................16
+Article 55. The Houses of the Federal Parliament................................................................................................ 16
+Article 56. Performance of the Federal Parliament............................................................................................... 16
+Article 57. Joint Sittings............................................................................................................................................. 16
+Article 58. Membership Criteria for the Federal Parliament................................................................................ 17
+Article 59. Disqualification of Membership of the Federal Parliament.............................................................. 17
+Article 60. Term of Office ........................................................................................................................................ 18
+Article 61. Responsibilities of Members of the Federal Parliament................................................................... 18
+Article 62. Joint Committees of the Federal Parliament....................................................................................... 18
+Title Two: The House Of The People Of The Federal Parliament...............................18
+Article 63. The Legislative Powers of the House of the People......................................................................... 18
+Article 64. The Number of the Members of the House of the People ............................................................ 19
+Article 65. The Speaker and Deputy Speakers of the House of the People of the Federal Parliament ...... 19
+Article 66. Sessions of the House of the People of the Federal Parliament .................................................... 19
+Article 67. Dissolution of the House of the People of the Federal Parliament............................................... 20
+Article 68. Rules of Procedure of the House of the People of the Federal Parliament................................. 20
+Article 69. The Powers of the House of the People of the Federal Parliament.............................................. 20
+Article 70. The Immunity of the Members of the House of the People of the Federal Parliament ........... 21
+Title Three: The Legislative Powers Of The Upper House Of The Federal Parliament
+......................................................................................................................21
+Article 71. The Upper House of the Federal Parliament ..................................................................................... 21
+Article 72. The Number of Members of the Upper House of the Federal Parliament ................................. 22
+Article 73. The Speaker and Deputy Speaker of the Upper House of the Federal Parliament..................... 22
+Article 74. Sessions of the Upper House of the Federal Parliament ................................................................. 22
+Article 75. Rules of Procedure of the Upper House of the Federal Parliament.............................................. 23
+Article 76. Decision-making in the Upper House of the Federal Parliament................................................... 23
+Article 77. Presence of Ministers in the Sessions of the Upper House of the Federal Parliament.............. 23
+Article 78. The Immunity of the Members of the Upper House of the Federal Parliament ........................ 23
+Title Four: Legislative Procedures In Parliament...........................................................24
+Article 79. Draft Legislation...................................................................................................................................... 24
+Article 80. Initiating New Laws................................................................................................................................ 24
+Article 81. Political Resolutions ............................................................................................................................... 24
+Article 82. Draft Laws Initiated in the House of the People of the Federal Parliament ................................ 24
+Article 83. Draft Laws Initiated in the Upper House of the Federal Parliament ............................................ 25
+Article 84. Publishing and Keeping Records of Laws.......................................................................................... 26
 iii
 
 [[END OF PAGE 5]]
@@ -46,6 +148,42 @@ iii
 
 PROVISIONAL CONSTITUTION
 
+Article 85. Assent to Legislation .............................................................................................................................. 27
+Article 86. Challenging Legislation........................................................................................................................... 27
+CHAPTER 7: THE PRESIDENT OF THE FEDERAL REPUBLIC
+Article 87. The President of the Federal Republic of Somalia ........................................................................... 27
+Article 88. Eligibility Criteria for the position of President of the Federal Republic of Somalia ................. 28
+Article 89. Election of the President of the Federal Republic of Somalia ....................................................... 28
+Article 90. The Responsibilities and Powers of the President of the Federal Republic of Somalia ............. 29
+Article 91. Term of Office of the President of the Federal Republic of Somalia........................................... 29
+Article 92. Impeachment and Discharging of Duties of the President of the Federal Republic of Somalia
+....................................................................................................................................................................30
+Article 93. Resignation of the President of the Federal Republic of Somalia.................................................. 30
+Article 94. Acting President of the Federal Republic of Somalia....................................................................... 30
+Article 95. Vacancy in the Office of the President of the Federal Republic of Somalia ................................ 30
+Article 96. Oath of the President of the Federal Republic of Somalia ............................................................. 31
+CHAPTER 8: THE EXECUTIVE BRANCH
+Article 97. The Council of Ministers....................................................................................................................... 31
+Article 98. Criteria for Membership of the Council of Ministers ...................................................................... 31
+Article 99. Responsibilities of the Council of Ministers...................................................................................... 32
+Article 100. Responsibilities and Powers of the Prime Minister........................................................................... 32
+Article 101. Deputy Prime Minister........................................................................................................................... 32
+Article 102. Functions of the Minister, Deputy-Minister, and State Minister ................................................... 32
+Article 103. Caretaker Government........................................................................................................................... 32
+Article 104. Oath........................................................................................................................................................... 33
+CHAPTER 9: THE JUDICIAL AUTHORITY
+Article 105. The Judicial Authority of the Federal Republic of Somalia ............................................................. 33
+Article 106. Judicial Independence............................................................................................................................. 33
+Article 107. Judicial Procedure.................................................................................................................................... 33
+Article 108. National Court Structure ....................................................................................................................... 33
+Article 109. The Proceedings of the National Courts............................................................................................ 34
+Article 109A. The Judicial Service Commission ......................................................................................................... 34
+Article 109B. The Formation of the Constitutional Court....................................................................................... 35
+Article 109C. The Powers of the Constitutional Court............................................................................................. 35
+CHAPTER 10: THE INDEPENDENT COMMISSIONS
+Article 110. General Principles................................................................................................................................... 36
+Article 111. The Formation of Independent Commissions.................................................................................. 36
+Article 111A. The Judicial Service Commission: ........................................................................................................ 36
 iv
 
 [[END OF PAGE 6]]
@@ -54,6 +192,39 @@ iv
 
 THE FEDERAL REPUBLIC OF SOMALIA
 
+Article 111B. The Human Rights Commission .......................................................................................................... 36
+Article 111C. The Anti-Corruption Commission....................................................................................................... 37
+Article 111D. Parliamentary Service Commission ...................................................................................................... 38
+Article 111E. Boundaries and Federation Commission............................................................................................. 38
+Article 111F. Inter-state Commission .......................................................................................................................... 39
+Article 111G. National Independent Electoral Commission .................................................................................... 39
+Article 111H. National Security Commission.............................................................................................................. 40
+Article 111I. Truth and Reconciliation Commission ................................................................................................ 40
+Article 111J. The Office of the Ombudsman............................................................................................................ 41
+Article 112. Appointment of Independent Commissions at the Federal Level.................................................. 42
+Article 113. Regulations of Independent Commissions......................................................................................... 42
+Article 114. The Independent Offices....................................................................................................................... 42
+CHAPTER 11: CIVIL SERVICE
+Article 115. Civil Service Values................................................................................................................................. 42
+Article 116. Protection of the rights of civil servants ............................................................................................ 42
+Article 117. Appointment of High Ranking Officials............................................................................................ 42
+Article 118. Civil Servants and Public Employees................................................................................................... 43
+Article 119. Civil Service.............................................................................................................................................. 43
+CHAPTER 12: FEDERAL MEMBER STATES
+Article 120. Institutions of the Federal Member States ....................................................................................... 43
+Article 121. Principles for Constitutions................................................................................................................... 43
+CHAPTER 13: PUBLIC FINANCE
+Article 122. Principles of Public Finance.................................................................................................................. 44
+Article 123. The Federal Central Bank ...................................................................................................................... 44
+Article 124. Federal Legislation on Financial Matters............................................................................................. 44
+Article 125. The National Reserve ............................................................................................................................. 45
+CHAPTER 14: PEACE AND SECURITY
+Article 126. Security of the Federal Republic of Somalia ...................................................................................... 45
+Article 127. Principles for the Security Forces......................................................................................................... 45
+Article 128. Abuse of Powers..................................................................................................................................... 46
+Article 129. The Office of the Ombudsman............................................................................................................ 46
+Article 130. Security Agencies Laws .......................................................................................................................... 46
+Article 131. State of Emergency ................................................................................................................................ 46
 v
 
 [[END OF PAGE 7]]
@@ -63,7 +234,25 @@ v
 PROVISIONAL CONSTITUTION
 
 CHAPTER 15: FINAL AND TRANSITIONAL PROVISIONS
-
+Title One: Amending The Constitution .........................................................................47
+Article 132. Provisions Applicable to an Amendment to the Constitution Proposed After the Expiry of the First Term of the Federal Parliament................................................................................................... 47
+Article 133. Provisions Applicable to an Amendment to the Provisional Constitution Schedule One (C), or a Law Mentioned in Schedule One (D) of this Constitution, Proposed Before the Expiry of the First Term of the Federal Parliament: The Oversight Committee.................................................. 48
+Article 134. Provisions Applicable to an Amendment to the Constitution Proposed Before the Expiry of the First Term of the Federal Parliament: The Review and Implementation Commission............... 50
+Article 135. Mandates and Prescribed Timelines for Priority Institutions and Independent Commissions the Federal Parliament Shall Establish........................................................................................................ 51
+Article 136. Adoption of a Constitutional Amendment During the First Term of the House of the People; Adoption of the Final Constitution. .................................................................................................... 51
+Article 137. Review of the Constitution of the Federal Republic of Somalia After Ratification by Referendum .................................................................................................................................................................... 52
+Title Two: Miscellaneous Provisions...............................................................................52
+Article 138. Coming Into Effect of this Constitution ............................................................................................ 52
+Article 139. Continuation of the Laws...................................................................................................................... 53
+Article 140. International Obligations....................................................................................................................... 53
+Article 141. Referendums............................................................................................................................................ 53
+Article 142. Existing Federal Member States in Somalia ........................................................................................ 53
+Article 143. Repeal of the Transitional Federal Charter......................................................................................... 53
+SCHEDULES
+SCHEDULE ONE (A) – THE SOMALI FLAG............................................................54
+SCHEDULE ONE (B) – THE SOMALI EMBLEM.....................................................54
+SCHEDULE ONE (C) – TRANSITION: PROPOSED AMENDMENTS TO THE CONSTITUTION IN THE FIRST TERM OF THE SOMALI FEDERAL PARLIAMENT ............................................................................................55
+SCHEDULE ONE (D) – PRIORITY LAWS TO BE ENACTED IN THE FIRST TERM OF THE FEDERAL PARLIAMENT ............................................55
 vi
 
 [[END OF PAGE 8]]
@@ -98,7 +287,7 @@ THE FEDERAL REPUBLIC OF SOMALIA
 
 - The Federal Republic of Somalia is founded upon the fundamental principles of power sharing in a federal system.
 
-- The Constitution of the Federal Republic of Somalia promotes human rights, the rule of law, general standards of int e r n a t i o n a l  law , justice, participatory consultative and inclusive government, and the separation of powers between the legislature, executive and an independent judiciary, in order to ensure accountability, efficiency and responsiveness to the interests of the people.
+- The Constitution of the Federal Republic of Somalia promotes human rights, the rule of law, general standards of international law, justice, participatory consultative and inclusive government, and the separation of powers between the legislature, executive and an independent judiciary, in order to ensure accountability, efficiency and responsiveness to the interests of the people.
 
 - Women must be included, in an effective way, in all national institutions, in particular all elected and appointed positions across the three branches of government and in national independent commissions.
 
@@ -126,7 +315,7 @@ The official language of the Federal Republic of Somalia is Somali (Maay and Max
 
 - The emblem of the Federal Republic of Somalia, as shown in section B of Schedule One, is a blue shield with a gold frame, in the centre of which is a silver-coated, five-pointed star. The shield is surmounted by a decorated emblem with five golden heads, with two lateral ones halved. The shield is borne from the sides by two leopards facing each other under the lower point of the shield, along with two palm leaves, which are interlaced with a white ribbon.
 
-- Somalia has a national anthem which is ' Qolobaa Calankeed'
+- Somalia has a national anthem which is “Qolobaa Calankeed”
 
 - The Federal Member States of the Federal Republic of Somalia shall have their own flags and national symbols in accordance with the federal system.
 
@@ -944,7 +1133,7 @@ THE FEDERAL REPUBLIC OF SOMALIA
 
 - Before assuming office, the Speaker shall relinquish any official position in a political party, and shall be strictly neutral in the performance of his or her functions.
 
-- The Speaker and his or her deputies shall be elected through a secret ballot by a majority vote of the members of the House of the People of the Federal Parliament, and may be removed by a twothirds majority vote of the members of the House of the People of the Federal Parliament.
+- The Speaker and his or her deputies shall be elected through a secret ballot by a majority vote of the members of the House of the People of the Federal Parliament, and may be removed by a two-thirds majority vote of the members of the House of the People of the Federal Parliament.
 
 #### Article 66. Sessions of the House of the People of the Federal Parliament
 
@@ -1078,7 +1267,7 @@ The members of the Upper House of the Federal Parliament shall be elected throug
 
 (a) The number of Federal Member States of the Federal Republic of Somalia;
 
-(b) That all Federal Member States shall have an equal number of representatives in the UpperHouse of the Federal Parliament; and
+(b) That all Federal Member States shall have an equal number of representatives in the Upper House of the Federal Parliament; and
 
 (c) That the members of the Upper House of the Federal Parliament shall be representative of all communities of the Federal Republic of Somalia.
 
@@ -1788,7 +1977,7 @@ THE FEDERAL REPUBLIC OF SOMALIA
 
 (a) To promote and strengthen measures to prevent and combat corruption more efficiently and effectively;
 
-(b) The advancement, facilitation and support of international co-operation related to anticorruption policies; and
+(b) The advancement, facilitation and support of international co-operation related to anti-corruption policies; and
 
 (c) To promote integrity, accountability, and proper management of public matters and property.
 
@@ -2542,9 +2731,9 @@ PROVISIONAL CONSTITUTION
 
 # SCHEDULES
 
-## SCHEDULE ONE (A) - THE SOMALI FLAG
+## SCHEDULE ONE (A) – THE SOMALI FLAG
 
-## SCHEDULE ONE (B) - THE SOMALI EMBLEM
+## SCHEDULE ONE (B) – THE SOMALI EMBLEM
 
 54
 
@@ -2554,7 +2743,7 @@ PROVISIONAL CONSTITUTION
 
 THE FEDERAL REPUBLIC OF SOMALIA
 
-## SCHEDULE ONE (C) - TRANSITION: PROPOSED AMENDMENTS TO THE CONSTITUTION IN THE FIRST TERM OF THE FEDERAL PARLIAMENT
+## SCHEDULE ONE (C) – TRANSITION: PROPOSED AMENDMENTS TO THE CONSTITUTION IN THE FIRST TERM OF THE FEDERAL PARLIAMENT
 
 In terms of Article 133 and 134, the Somali Federal Parliament shall propose and enact amendments to this Provisional Constitution, in conformity with agreements negotiated between the Federal Government and the Existing Federal Member States and new Federal Member States, including but not limited to the following:
 
@@ -2580,7 +2769,7 @@ In terms of Article 133 and 134, the Somali Federal Parliament shall propose and
 
 - To Articles 131, concerning states of emergency.
 
-## SCHEDULE ONE (D) - PRIORITY LAWS TO BE ENACTED IN THE FIRST TERM OF THE FEDERAL PARLIAMENT
+## SCHEDULE ONE (D) – PRIORITY LAWS TO BE ENACTED IN THE FIRST TERM OF THE FEDERAL PARLIAMENT
 
 The Drafting Commission shall prioritize drafting projects concerning new laws, in conformity with agreements negotiated between the Federal Government and the existing Federal Member States and new Federated States, including but not limited to the following:
 
@@ -2622,7 +2811,7 @@ PROVISIONAL CONSTITUTION
 
 - A law in terms of Article 130, concerning the security forces;
 
-- Laws in terms of Article 130, establishing specialized bodies as necessary to deal with antiterrorism, anti-piracy, human trafficking and other organized crime;
+- Laws in terms of Article 130, establishing specialized bodies as necessary to deal with anti-terrorism, anti-piracy, human trafficking and other organized crime;
 
 - A law in terms of Article 130, regulating the structure and functions of the federal police;
 
