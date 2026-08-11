@@ -32,7 +32,7 @@ Chapter IV Teachers
 
 Chapter V Education and Teaching
 
-Chapter VI Guarantee of Operating Funds Chapter VII Legal Liabilities Chapter VIII Supplementary Provisions
+Chapter VI Guarantee of Operating Funds
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 
@@ -45,6 +45,10 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 1/31/2020
 
 Compulsory Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+
+Chapter VII Legal Liabilities
+
+Chapter VIII Supplementary Provisions
 
 ## Chapter I General Provisions
 
@@ -85,7 +89,7 @@ The parents or other statutory guardians of school-age children and adolescents 
 
 The schools lawfully carrying out compulsory education shall complete the educational and teaching tasks as required and ensure the educational and teaching quality.
 
-Social organizations and individuals shall create a good environment for schoolage children and adolescents to receive compulsory education.
+Social organizations and individuals shall create a good environment for school-age children and adolescents to receive compulsory education.
 
 ### Article 6
 The State Council and the local people's governments at the county level and above shall reasonably allocate the educational resources, promote balanced development of compulsory education, improve the conditions of weak schools, take measures to ensure implementation of the compulsory education policy in rural areas and areas inhabited by ethnic minority groups, and guarantee that school-age children and adolescents from families with financial difficulties and disabled school-age children and adolescents receive compulsory education.
@@ -180,7 +184,7 @@ The construction of schools shall conform to the standards of the State on runni
 Where necessary, the people's government at the county level may set up boarding schools so as to ensure that the school-age children and adolescents who are dwelling in scattered areas receive compulsory education.
 
 ### Article 18
-The administrative department of education of the State Council and the people's governments of the provinces, autonomous regions, and municipalities directly under the Central Government shall, where necessary, set up schools (classes) in economically developed areas so as to enrol school-age children and adolescents of ethnic minorities.
+The administrative department of education of the State Council and the people's governments of the provinces, autonomous regions, and
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 
@@ -194,6 +198,8 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 
 Compulsory Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
 
+municipalities directly under the Central Government shall, where necessary, set up schools (classes) in economically developed areas so as to enrol school-age children and adolescents of ethnic minorities.
+
 ### Article 19
 The local people's governments at the county level or above shall, where necessary, set up schools (classes) of special education so as to provide compulsory education to the school-age children and adolescents who have eyesight, hearing and intellectual impairments. The schools (classes) of special education shall have places and facilities which suit the study, recovery and living features of the children with disabilities.
 
@@ -206,7 +212,7 @@ The local people's governments at the county level or above shall, where necessa
 The juvenile delinquents who fail to finish compulsory education and the minors who are subject to mandatory education measures shall be given compulsory education. The essential operating funds shall be ensured by the people's government.
 
 ### Article 22
-The people's governments at the county level or above and the administrative departments of education thereof shall promote the balanced development among schools, shall narrow the gap of school-running conditions among different schools and shall not divide schools into key schools and nonkey schools. No school may set up key classes and non-key classes.
+The people's governments at the county level or above and the administrative departments of education thereof shall promote the balanced development among schools, shall narrow the gap of school-running conditions among different schools and shall not divide schools into key schools and non-key schools. No school may set up key classes and non-key classes.
 
 None of the people's governments at the county level or above and the administrative department of education thereof may, under any pretext or in any disguise, change the nature of a public school.
 
@@ -244,7 +250,7 @@ For a student who violates the school management rules, the school shall critici
 ## Chapter IV Teachers
 
 ### Article 28
-Teachers shall be entitled to the rights as prescribed by the law, shall perform the duties prescribed by the law, shall be worthy of the name teacher, and shall be devoted to the people's educational cause.
+Teachers shall be entitled to the rights as prescribed by the law, shall perform the duties prescribed by the law, shall be worthy of the name teacher,
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 
@@ -257,6 +263,8 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 1/31/2020
 
 Compulsory Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+
+and shall be devoted to the people's educational cause.
 
 The whole society shall respect teachers.
 
@@ -305,7 +313,7 @@ The State encourages graduates from colleges and universities to work as volunte
 The educational and teaching work shall be in line with the education rules and the characters of the physical and mental development of students, be geared to all students, impart knowledge and enlighten people, integrate moral education, intellectual education, physical education and aesthetic education in the educational and teaching activities; and to focus on the cultivation of the students' independent thinking ability, creation and practice ability so as to promote the all-round development of students.
 
 ### Article 35
-The administrative department of education of the State Council shall, according to the physical and mental development of school-age children and adolescents as well as the actual circumstances, determine the teaching system, the educational and teaching contents and the curricula; and to reform the examination system, improve the measures for the recruitment of students by senior middle schools, and push forward the implementation of qualityoriented education.
+The administrative department of education of the State Council shall, according to the physical and mental development of school-age children and adolescents as well as the actual circumstances, determine the teaching system, the educational and teaching contents and the curricula; and to reform
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 
@@ -318,6 +326,8 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 1/31/2020
 
 Compulsory Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+
+the examination system, improve the measures for the recruitment of students by senior middle schools, and push forward the implementation of quality-oriented education.
 
 The schools and teachers shall carry out the educational and teaching activities according to the educational and teaching contents and the curricula as determined so as to ensure the basic quality requirements as prescribed by the State.
 
@@ -335,7 +345,7 @@ A textbook shall be compiled in accordance with the national education policies 
 No functionary of any state organ or examiner of textbooks may participate in the compilation of any textbook or do so in any disguised form.
 
 ### Article 39
-The State shall adopt the textbook examination and approval system. The measures for the examination and approval of textbooks shall be formulated by the department of education administrative of the State Council.
+The State shall adopt the textbook examination and approval system. The measures for the examination and approval of textbooks shall be formulated
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 
@@ -348,6 +358,8 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 1/31/2020
 
 Compulsory Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+
+by the department of education administrative of the State Council.
 
 No one may publish or use any textbook that fails to be examined and approved.
 
@@ -367,7 +379,7 @@ The State Council and the people's governments at all levels shall integrate the
 The increase rate of the treasury funds appropriated by the State Council and the local people's governments at all levels for the implementation of the compulsory education policy shall be higher than that of the current income of treasury so as to ensure the gradual increase of the average compulsory funds based on the number of attending students as well as the gradual increase of the salaries of the school staff and the average public-use operating fund for students.
 
 ### Article 43
-The basic standards on the average public-use operating funds for students of schools shall be formulated by the public finance department of the State Council jointly with the administrative department of education, and shall be adjusted according to the status of economic and social development at the opportune time. The formulation and adjustment of the basic standards on the average public-use operating funds for students of schools shall satisfy the basic needs for education and teaching.
+The basic standards on the average public-use operating funds for students of schools shall be formulated by the public finance department of the
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 
@@ -380,6 +392,8 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 1/31/2020
 
 Compulsory Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+
+State Council jointly with the administrative department of education, and shall be adjusted according to the status of economic and social development at the opportune time. The formulation and adjustment of the basic standards on the average public-use operating funds for students of schools shall satisfy the basic needs for education and teaching.
 
 The people's governments of the provinces, autonomous regions, municipalities directly under the Central Government shall, in light of the actual circumstances of their respective administrative areas, formulate standards on the average public-use operating funds for school students, which shall not be lower than the national standards.
 
@@ -442,7 +456,7 @@ Compulsory Education Law of the People's Republic of China - Ministry of Educati
 Where any of the relevant departments of the State Council or any of the local people's governments at all levels fails to perform the function of guaranteeing the operating funds for compulsory education by violating Chapter VI of this Law, the State Council or the superior local people's governments shall order it to make corrections within a time limit. If the circumstances are serious, an administrative sanction shall be given to the directly liable person-in-charge and other directly liable persons.
 
 ### Article 52
-Where any of the local people's governments at the county level or above is under any of the following circumstances, the people's government at the upper level shall order it to make corrections. If the circumstances are serious, an administrative sanction shall be given to the directly liable person-incharge and other directly liable persons:
+Where any of the local people's governments at the county level or above is under any of the following circumstances, the people's government at the upper level shall order it to make corrections. If the circumstances are serious, an administrative sanction shall be given to the directly liable person-in-charge and other directly liable persons:
 
 - It fails to formulate and adjust plans on the setup of schools under the relevant provisions of the State;
 
@@ -486,7 +500,7 @@ Where any school or teacher violates the Education Law or Teachers Law in the co
 ### Article 56
 Where a school charges any fee in violation of the provisions of the State, the administrative department of education of the people's governments at the county level shall order it to refund the charges and a sanction given to the directly liable person-in-charge and other directly liable persons-in-charge in accordance with the law.
 
-Where a school publicizes commodities or services to students for benefits, it shall be criticized by the administrative department of education of the people's government at the county level by circulating a notice. The illegal gains, if any, shall be confiscated. The directly liable persons-in-charge and other directly liable persons shall be given a sanction.
+Where a school publicizes commodities or services to students for benefits, it shall be criticized by the administrative department of education of the people's
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 
@@ -499,6 +513,8 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191391.html
 1/31/2020
 
 Compulsory Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+
+government at the county level by circulating a notice. The illegal gains, if any, shall be confiscated. The directly liable persons-in-charge and other directly liable persons shall be given a sanction.
 
 Where any of the functionaries of the State organs or textbook examiners participates in the compilation of any textbook or does so in disguise, the peoples' government at the county level or above or its administrative department of education shall, in light of its respective functions and authorisations, order him/her to make corrections within a time limit and give him/her an administrative sanction, and shall confiscate the illegal gains, if any.
 
