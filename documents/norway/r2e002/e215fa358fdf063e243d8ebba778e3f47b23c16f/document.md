@@ -54,7 +54,7 @@ As soon as the King has attained the age prescribed by law, he shall make a publ
 
 ### Article 9
 
-As soon as the King, being of age, accedes to the Government, he shall take the following oath before the Storting: 'I promise and swear that I will govern the Kingdom of Norway in accordance with its Constitution and Laws; so help me God, the Almighty and Omniscient.'
+As soon as the King, being of age, accedes to the Government, he shall take the following oath before the Storting: “I promise and swear that I will govern the Kingdom of Norway in accordance with its Constitution and Laws; so help me God, the Almighty and Omniscient.”
 
 [[END OF PAGE 2]]
 
@@ -63,6 +63,8 @@ As soon as the King, being of age, accedes to the Government, he shall take the 
 If the Storting is not in session at the time, the oath shall be made in writing in the Council of State and be repeated solemnly by the King at the first subsequent Storting.
 
 ### Article 10
+
+(Repealed)
 
 ### Article 11
 
@@ -83,8 +85,6 @@ Husband and wife, parent and child or two siblings may never sit at the same tim
 During his travels within the realm, the King may delegate the administration of the realm to the Council of State. The Council of State shall conduct the Government in the King's name and on his behalf. It shall scrupulously observe the provisions of this Constitution, as well as such particular directives in conformity therewith as the King may instruct.
 
 The matters of business shall be decided by voting, where in the event of the votes being equal, the Prime Minister, or in his absence the highest-ranking Member of the Council of State who is present, shall have two votes.
-
-(Repealed)
 
 [[END OF PAGE 3]]
 
@@ -136,7 +136,9 @@ The King shall choose and appoint, after consultation with his Council of  State
 
 ### Article 22
 
-The Prime Minister and the other Members of the Council of State, together with the state secretaries, may be dismissed by the King without any prior court judgment, after he has heard the opinion of the Council of State on the subject. The same applies to senior officials employed in government ministries or in the diplomatic or consular service, the highestranking civil officials, commanders of regiments and other military formations,  commandants  of  fortresses  and  officers  commanding  warships. Whether  pensions  should  be  granted  to  senior  officials  thus  dismissed shall be determined by the next Storting. In the interval they shall receive two thirds of their previous pay.
+The Prime Minister and the other Members of the Council of State, together with the state secretaries, may be dismissed by the King without any prior court judgment, after he has heard the opinion of the Council of State on the subject. The same applies to senior officials employed in government ministries or in the diplomatic or consular service, the highest-ranking civil officials, commanders of regiments and other military formations, commandants of fortresses and officers commanding warships.
+
+Whether pensions should be granted to senior officials thus dismissed shall be determined by the next Storting. In the interval they shall receive two thirds of their previous pay.
 
 [[END OF PAGE 5]]
 
@@ -218,8 +220,6 @@ The King shall make provisions concerning titles for those who are entitled to s
 
 [[START OF PAGE 9]]
 
-(Repealed)
-
 ### Article 35
 
 As soon as the heir to the throne has completed her or his eighteenth year, she or he is entitled to take a seat in the Council of State, although without a vote or responsibility.
@@ -235,6 +235,8 @@ If he or she acts contrary to this rule, they and their descendants forfeit thei
 The Royal Princes and Princesses shall not personally be answerable to anyone other than the King, or whomever he decrees to sit in judgment on them.
 
 ### Article 38
+
+(Repealed)
 
 ### Article 39
 
@@ -254,13 +256,15 @@ If the King is absent from the realm unless commanding in the field, or if  he  
 
 ### Article 42
 
+(Repealed)
+
 ### Article 43
 
 The election of trustees to conduct the Government on behalf of the King during his minority shall be undertaken by the Storting.
 
 ### Article 44
 
-The Princess or Prince who, in the cases mentioned in Article 41, conducts the Government shall make the following oath in writing before the Storting:  'I  promise  and  swear  that  I  will  conduct  the  Government  in accordance  with  the  Constitution  and  the  Laws,  so  help  me  God,  the Almighty and Omniscient.'
+The Princess or Prince who, in the cases mentioned in Article 41, conducts the Government shall make the following oath in writing before the Storting: “I promise and swear that I will conduct the Government in accordance with the Constitution and the Laws, so help me God, the Almighty and Omniscient.”
 
 If the Storting is not in session at the time, the oath shall be made in the Council of State and later be presented to the next Storting.
 
@@ -272,9 +276,7 @@ As soon as their conduct of the Government ceases, they shall submit to the King
 
 ### Article 46
 
-If the persons concerned fail to summon the Storting immediately in accordance  with  Article  39,  it  becomes  the  unconditional  duty  of  the Supreme  Court,  as  soon  as  four  weeks  have  elapsed,  to  arrange  for  the Storting to be summoned.
-
-(Repealed)
+If the persons concerned fail to summon the Storting immediately in accordance with Article 39, it becomes the unconditional duty of the Supreme Court, as soon as four weeks have elapsed, to arrange for the Storting to be summoned.
 
 [[END OF PAGE 10]]
 
@@ -310,19 +312,17 @@ The rules on the keeping of the electoral register and on the registration in th
 
 [[START OF PAGE 12]]
 
-(Repealed)
-
-(Repealed)
-
 ### Article 52
+
+(Repealed)
 
 ### Article 53
 
 The right to vote is lost by persons:
 
-- sentenced for criminal offences, in accordance with the relevant provisions laid down by law;
+a) sentenced for criminal offences, in accordance with the relevant provisions laid down by law;
 
-- entering  the  service  of  a  foreign  power  without  the  consent  of  the Government.
+b) entering the service of a foreign power without the consent of the Government.
 
 ### Article 54
 
@@ -333,6 +333,8 @@ Elections shall be held every fourth year. They shall be concluded by the end of
 Elections  shall  be  conducted  in  the  manner  prescribed  by  law.  Disputes regarding the right to vote shall be settled by the Election Commission, whose decision may be appealed to the Storting.
 
 ### Article 56
+
+(Repealed)
 
 ### Article 57
 
@@ -392,17 +394,17 @@ Members of the Council of State may not attend meetings of the Storting  as  rep
 
 It is the duty of anyone who is elected as a Member of the Storting to accept such election, unless they:
 
-- are elected outside the constituency in which he is entitled to vote.
+a) are elected outside the constituency in which he is entitled to vote.
 
-- have as a Member attended all the sessions of the Storting following
+b) have as a Member attended all the sessions of the Storting following
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-- the previous election.
+the previous election.
 
-- are a member of a political party and are elected on a list of candidates which has not been issued by that party.
+d) are a member of a political party and are elected on a list of candidates which has not been issued by that party.
 
 Rules for the time within which and the manner in which anyone who has the right to refuse election shall assert this right shall be prescribed by law.
 
@@ -430,10 +432,6 @@ The  Members  elected  in  the  aforesaid  manner  shall  constitute  the Storti
 
 [[START OF PAGE 16]]
 
-(Repealed)
-
-(Repealed)
-
 ### Article 68
 
 The Storting shall as a rule assemble on the first weekday in October every year in the capital of the realm, unless the King, by reason of extraordinary circumstances, such as hostile invasion or infectious disease, designates another town in the realm for the purpose. Such a decision must be publicly announced in good time.
@@ -444,11 +442,15 @@ When the Storting is not assembled, it may be summoned by the King if he finds i
 
 ### Article 70
 
+(Repealed)
+
 ### Article 71
 
 The Members of the Storting function as such for four successive years.
 
 ### Article 72
+
+(Repealed)
 
 ### Article 73
 
@@ -468,35 +470,35 @@ When the proceedings of the Storting have been opened, the Prime Minister and th
 
 It devolves upon the Storting:
 
-- to enact and repeal laws; to impose taxes, duties, customs and other public charges, which shall not, however, remain operative beyond 31 December of the succeeding year, unless they are expressly renewed by a new Storting;
+a) to enact and repeal laws; to impose taxes, duties, customs and other public charges, which shall not, however, remain operative beyond 31 December of the succeeding year, unless they are expressly renewed by a new Storting;
 
-- to raise loans in the name of the realm;
+b) to raise loans in the name of the realm;
 
-- to supervise the monetary system of the realm;
+c) to supervise the monetary system of the realm;
 
-- to appropriate the moneys necessary to meet government expenditure;
+d) to appropriate the moneys necessary to meet government expenditure;
 
-- to decide how much shall be paid annually to the King for the Royal Household,  and  to  determine  the  Royal  Family's  appanage,  which may not, however, consist of real property;
+e) to decide how much shall be paid annually to the King for the Royal Household, and to determine the Royal Family's appanage, which may not, however, consist of real property;
 
-- to have submitted to it the records of the Council of State, and all public reports and documents;
+f) to have submitted to it the records of the Council of State, and all public reports and documents;
 
-- to have communicated to it the treaties which the King, on behalf of the State, has concluded with foreign powers;
+g) to have communicated to it the treaties which the King, on behalf of the State, has concluded with foreign powers;
 
-- to have the right to require anyone, the King and the Royal Family excepted, to appear before it on matters of State; the exception does not, however, apply to the Royal Princes and Princesses if they hold any public office;
+h) to have the right to require anyone, the King and the Royal Family excepted, to appear before it on matters of State; the exception does not, however, apply to the Royal Princes and Princesses if they hold any public office;
 
-- to review the provisional lists of salaries and pensions and to make therein such alterations as it deems necessary;
+i) to review the provisional lists of salaries and pensions and to make therein such alterations as it deems necessary;
 
-- to  appoint  five  auditors,  who  shall  annually  examine  the  State  Accounts and publish extracts of the same in print, for which purpose the Accounts shall be submitted to the auditors within six months of the end of the year for which the appropriations of the Storting have been made, and to adopt provisions concerning the procedure for authorising the accounts of government accounting officials;
+k) to appoint five auditors, who shall annually examine the State Accounts and publish extracts of the same in print, for which purpose the Accounts shall be submitted to the auditors within six months of the end of the year for which the appropriations of the Storting have been made, and to adopt provisions concerning the procedure for authorising the accounts of government accounting officials;
 
-- to appoint a person, not a Member of the Storting, in a manner prescribed  by  law,  to  supervise  the  public  administration  and  all  who
+l) to appoint a person, not a Member of the Storting, in a manner prescribed by law, to supervise the public administration and all who
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-- work in its service, to assure that no injustice is done against the individual citizen;
+work in its service, to assure that no injustice is done against the individual citizen;
 
-- to naturalise aliens.
+m) to naturalise aliens.
 
 ### Article 76
 
@@ -534,7 +536,7 @@ Within this time the King shall communicate his decision with regard to  the  Bi
 
 ### Article 81
 
-All  Acts  (with  the  exception  of  those  mentioned  in  Article  79)  are drawn up in the name of the King, under the Seal of the Realm of Norway, and in the following terms: 'We, X, make it publicly known: that the decision of the Storting of the date stated has been laid before Us: (here follows the  decision).  In  consequence  whereof  We  have  assented  to  and  confirmed, as We hereby do assent to and confirm the same as Law under Our Hand and the Seal of the Realm.'
+All Acts (with the exception of those mentioned in Article 79) are drawn up in the name of the King, under the Seal of the Realm of Norway, and in the following terms: “We, X, make it publicly known: that the decision of the Storting of the date stated has been laid before Us: (here follows the decision). In consequence whereof We have assented to and confirmed, as We hereby do assent to and confirm the same as Law under Our Hand and the Seal of the Realm.”
 
 ### Article 82
 
@@ -584,6 +586,8 @@ The Supreme Court shall consist of a President and at least four other Members.
 
 ### Article 89
 
+(Repealed)
+
 ### Article 90
 
 The judgments of the Supreme Court may in no case be appealed.
@@ -596,9 +600,7 @@ No one may be appointed a Member of the Supreme Court before reaching 30 years o
 
 ### Article 92
 
-The authorities of the State shall respect and ensure human rights as they  are  expressed  in  this  Constitution  and  in  the  treaties  concerning human rights that are binding for Norway.
-
-(Repealed)
+The authorities of the State shall respect and ensure human rights as they are expressed in this Constitution and in the treaties concerning human rights that are binding for Norway.
 
 [[END OF PAGE 21]]
 
@@ -652,6 +654,8 @@ No human being must be subject to unfair or disproportionate differential treatm
 
 ### Article 99
 
+(Repealed)
+
 ### Article 100
 
 There shall be freedom of expression.
@@ -663,8 +667,6 @@ Everyone shall be free to speak their mind frankly on the administration of the 
 Prior censorship and other preventive measures may not be applied unless so required in order to protect children and young persons from the harmful influence of moving pictures. Censorship of letters may only be imposed in institutions.
 
 Everyone has a right of access to documents of the State and municipalities and a right to follow the proceedings of the courts and democratically elected bodies. Limitations to this right may be prescribed by law to protect the privacy of the individual or for other weighty reasons.
-
-(Repealed)
 
 [[END OF PAGE 23]]
 
@@ -688,15 +690,15 @@ The  authorities  of  the  state  shall  ensure  the  protection  of  personal i
 
 ### Article 103
 
+(Repealed)
+
 ### Article 104
 
 Children have the right to respect for their human dignity. They have the right to be heard in questions that concern them, and due weight shall be attached to their views in accordance with their age and development.
 
 For actions and decisions that affect children, the best interests of the child shall be a fundamental consideration.
 
-Children have the right to protection of their personal integrity. The authorities  of  the  state  shall  create  conditions  that  facilitate  the  child's development, including ensuring that the child is provided with the necessary economic, social and health security, preferably within their own family.
-
-(Repealed)
+Children have the right to protection of their personal integrity. The authorities of the state shall create conditions that facilitate the child's development, including ensuring that the child is provided with the necessary economic, social and health security, preferably within their own family.
 
 [[END OF PAGE 24]]
 
@@ -713,6 +715,8 @@ Everyone who resides legally in the realm may move freely within the borders of 
 No one may be denied the right to leave the realm, unless so required out of consideration for effective legal proceedings or the performance of military  service.  Norwegian  citizens  may  not  be  refused  entry  into  the realm.
 
 ### Article 107
+
+The allodial right and the right of primogeniture shall not be abolished.
 
 ### Article 108
 
@@ -754,13 +758,13 @@ Infringement of the authorities against the individual must be founded on the la
 
 To senior official posts in the State may be appointed only Norwegian citizens, men or women, who speak the language of the country, and who:
 
-- either were born in the realm of parents who were then Norwegian subjects;
+- a) either were born in the realm of parents who were then Norwegian subjects;
 
-- or were born in a foreign country of Norwegian parents who were not at that time subjects of another State;
+- b) or were born in a foreign country of Norwegian parents who were not at that time subjects of another State;
 
-- or hereafter have resided for ten years in the realm;
+- c) or hereafter have resided for ten years in the realm;
 
-- or have been naturalised by the Storting.
+- d) or have been naturalised by the Storting.
 
 Others  may,  however,  be  appointed  as  teachers  at  universities  and institutions of higher learning, as medical practitioners and as consuls in places abroad.
 
@@ -770,7 +774,7 @@ Others  may,  however,  be  appointed  as  teachers  at  universities  and insti
 
 ### Article 115
 
-In order to safeguard international peace and security or to promote the international rule of law and cooperation, the Storting may, by a threefourths majority, consent that an international organisation to which Norway belongs or will belong shall have the right, within specified fields, to exercise powers which in accordance with this Constitution are normally vested in the authorities of the state, although not the power to alter this Constitution. For the Storting to grant such consent, at least two thirds of its Members shall be present, as required for proceedings for amending the Constitution.
+In order to safeguard international peace and security or to promote the international rule of law and cooperation, the Storting may, by a three-fourths majority, consent that an international organisation to which Norway belongs or will belong shall have the right, within specified fields, to exercise powers which in accordance with this Constitution are normally vested in the authorities of the state, although not the power to alter this Constitution. For the Storting to grant such consent, at least two thirds of its Members shall be present, as required for proceedings for amending the Constitution.
 
 The provisions of this Article do not apply in cases of membership in an international organisation whose decisions only have application for Norway exclusively under international law.
 
