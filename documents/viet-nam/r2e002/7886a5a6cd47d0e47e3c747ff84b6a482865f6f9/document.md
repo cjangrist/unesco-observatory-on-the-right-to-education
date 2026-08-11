@@ -6,14 +6,6 @@ No:
 
 11/2005/L/CtN
 
-The Education Law
-
-Adopted by the National Assembly of the Socialist Republic of Vietnam, Eleventh Legislature, Seventh Session, on 14 June 2005.
-
-president of the SOCIALIST REPUBLIC OF VIETNAM (signed)
-
-Tran Duc Luong
-
 Socialist republic of vietnam Independence - Freedom - Happiness
 
 Ha Noi, 27 June 2005
@@ -31,6 +23,16 @@ Pursuant to Article 91 of the Law on the organisation of the National Assembly;
 Pursuant  to  Article  50  of  the  Law  on  the  promulgation  of  Statutory  Legal Documents,
 
 hereby promulgates
+
+The Education Law
+
+Adopted by the National Assembly of the Socialist Republic of Vietnam, Eleventh Legislature, Seventh Session, on 14 June 2005.
+
+president of the SOCIALIST REPUBLIC OF VIETNAM
+
+(signed)
+
+Tran Duc Luong
 
 1
 
@@ -88,7 +90,7 @@ The goals of educational are to educate the Vietnamese into comprehensively deve
 
 - Educational levels and training qualifications of the national educational system include:
 
-- Early childhood education with crÌches and kindergartens;
+- Early childhood education with crèches and kindergartens;
 
 - General education with primary education, lower secondary education, and upper secondary education;
 
@@ -268,7 +270,7 @@ The  objectives  of early childhood  education  are  to  help  children  develop
 
 #### Article 23. Requirements on contents and methods of early childhood education
 
-- The  contents  of  early  childhood  education  must  be  suited  to  the  psychophysiological  development  of  children,  balanced  between  nurturing,  caring  and educating,  with  a  view  to  helping  children  develop  a  harmonious,  healthy,  and active  body;  know  how  to  respect,  love  and  regard  grand-parents,  parents, teachers, and elderly persons; be attached to brothers, sisters, and friends; be frank, forthright, natural, aesthetically sensitive and intellectually inquisitive.
+- The  contents  of  early  childhood  education  must  be  suited  to  the  psycho-physiological  development  of  children,  balanced  between  nurturing,  caring  and educating,  with  a  view  to  helping  children  develop  a  harmonious,  healthy,  and active  body;  know  how  to  respect,  love  and  regard  grand-parents,  parents, teachers, and elderly persons; be attached to brothers, sisters, and friends; be frank, forthright, natural, aesthetically sensitive and intellectually inquisitive.
 
 - The  main  method  in  early  childhood  education  is  to  help  children  develop comprehensively through organising play activities while giving special attention to example posing, encouraging and promoting.
 
@@ -282,11 +284,11 @@ The  objectives  of early childhood  education  are  to  help  children  develop
 
 Institutions of early childhood education include:
 
-CrÌches for children from 3 months to 3 years of age;
+Crèches for children from 3 months to 3 years of age;
 
 Kindergarten schools and classes for children from 3 years to 6 years of age;
 
-Young  sprout  schools  are  those  that  combine  crÌches  and  kindergartens,  for children from 3 months to 6 years of age.
+Young  sprout  schools  are  those  that  combine  crèches  and  kindergartens,  for children from 3 months to 6 years of age.
 
 ### Section 2. General education
 
@@ -391,7 +393,7 @@ Professional education consists of:
 
 #### Article 33. Objectives of professional education
 
-The objectives of professional education are to educate potential labourers who will  be  equipped  with  knowledge,  professional  skills  at  different  levels,  with morals, professional ethics, discipline awareness,  industrialised habits  and physical health, thus providing working people with employability, selfemployability  or  ability  to  further  study  to  improve  professional  qualifications, meeting  the needs  of socio-economic  development,  national  defence  and security.
+The objectives of professional education are to educate potential labourers who will  be  equipped  with  knowledge,  professional  skills  at  different  levels,  with morals, professional ethics, discipline awareness,  industrialised habits  and physical health, thus providing working people with employability, self-employability  or  ability  to  further  study  to  improve  professional  qualifications, meeting  the needs  of socio-economic  development,  national  defence  and security.
 
 Professional  upper  secondary  education  is  directed  towards  the  training  of working people with basic knowledge and practical skills of a profession, having ability  to  work  independently  and  creatively  as  well  as  to  apply  technology  into work.
 
@@ -415,7 +417,7 @@ Vocational  training  is  directed  towards  the  training  of  technical  worke
 
 The  Minister  of  Education  and  Training,  in  co-ordination  with  other  relevant Ministers and Heads of ministry-equivalent agencies, based on the appraisals of the  Sector  Review  Council  for  Programme  of  Professional  Upper  Secondary Education,  shall  define  the  core  programme  for  professional  upper  secondary education  which  includes  content  structure,  number  of  subjects,  duration  of  the subjects,  proportion  of  theory  and  practice,  ensuring  the  objectives  for  each subject  and  profession  to  be  trained.  Professional  upper  secondary  education schools shall define their own training programmes based on the core programme.
 
-Head of the State agency in charge of management of vocational training, in coordination  with  other  relevant  ministers  and  heads  of  agencies  equivalent  to ministry,  based  on  the  review  of  the  Sector  Review  Council  for  Programme  of Vocational Training, shall define the core programme for each vocational training level,  including  content  structure,  number  of  subjects,  duration  of  the  subjects, proportion  of  theory  and  practice,  ensuring  the  objectives  for  each  subject  and profession  to  be  trained.  Vocational  training  institutions  shall  define  their  own vocational training programmes based on the core programme.
+Head of the State agency in charge of management of vocational training, in co-ordination  with  other  relevant  ministers  and  heads  of  agencies  equivalent  to ministry,  based  on  the  review  of  the  Sector  Review  Council  for  Programme  of Vocational Training, shall define the core programme for each vocational training level,  including  content  structure,  number  of  subjects,  duration  of  the  subjects, proportion  of  theory  and  practice,  ensuring  the  objectives  for  each  subject  and profession  to  be  trained.  Vocational  training  institutions  shall  define  their  own vocational training programmes based on the core programme.
 
 - Syllabi  of  professional  education  shall  concretise  requirements  on  contents  of knowledge and skills  defined  in  educational  programme  for  each  subject,  field, profession,  and  training  qualification  of  professional  education,  meeting  the requirements of methods of professional education.
 
@@ -651,7 +653,7 @@ The educational contents of the programme as defined in item d, paragraph 1 of t
 
 examination according to the regulations set out by the Minister of Education and Training.
 
-The authority in issuing continuing education diplomas is the same as provided for that defined in Article 31, 37, and 43 of this Law.<<<<<<<
+The authority in issuing continuing education diplomas is the same as provided for that defined in Article 31, 37, and 43 of this Law.
 
 - Learners who have completed educational programmes as defined in items a, b, and c, paragraph 1, Article 45 of this Law, and have met the criteria set out by the Ministry  of  Education  and  Training  are  eligible  to  take  the  examination;  and  if meeting the requirements will be issued with the continuing education certificates.
 
@@ -683,7 +685,7 @@ Conditions, procedures and authority to establish schools or to give permission 
 
 [[START OF PAGE 23]]
 
-- Schools  of  State  agencies,  political  organisations,  socio-political  organisations have  the  responsibility  to  educate  and  train  civil  servants.  Schools  of  people's armed  forces have the responsibility to educate and train officers,  noncommissioned officers, professional staff and defence workers; to foster leaders and  state  managers  on  functions  and  knowledge  of  national  defence  and security.
+- Schools  of  State  agencies,  political  organisations,  socio-political  organisations have  the  responsibility  to  educate  and  train  civil  servants.  Schools  of  people's armed  forces have the responsibility to educate and train officers,  non-commissioned officers, professional staff and defence workers; to foster leaders and  state  managers  on  functions  and  knowledge  of  national  defence  and security.
 
 - The  Government  shall  give  detailed  provisions  on  schools  of  State  agencies, political organisations, socio-political organisations and people's armed forces.
 
@@ -701,7 +703,7 @@ Conditions, procedures and authority to establish schools or to give permission 
 
 - Authority in the establishment of public schools and authority of giving permission for establishment of people-founded and private schools are as follows:
 
-- Chairman  of  district  People's  Committee  shall  make  decisions  for  crÌches, kindergartens,  primary  schools,  lower  secondary  schools,  and  semi-boarding general education schools for ethnic children;
+- Chairman  of  district  People's  Committee  shall  make  decisions  for  crèches, kindergartens,  primary  schools,  lower  secondary  schools,  and  semi-boarding general education schools for ethnic children;
 
 - Chairman  of  provincial  People's  Committee  shall  make  decisions  for  upper secondary  schools,  boarding  general  education  schools  for  ethnic  children; professional upper secondary education schools under provincial administration.
 
@@ -713,7 +715,7 @@ Conditions, procedures and authority to establish schools or to give permission 
 
 [[START OF PAGE 24]]
 
-- The  Minister  of  Education  and  Training  shall  make  decisions  for  colleges,  preuniversity  schools;  Head  of  the  State  agency  in  charge  of  management  of vocational training shall make decisions for vocational colleges;
+- The  Minister  of  Education  and  Training  shall  make  decisions  for  colleges,  pre-university  schools;  Head  of  the  State  agency  in  charge  of  management  of vocational training shall make decisions for vocational colleges;
 
 - đ )   The Prime Minister shall make decisions for universities.
 
@@ -857,7 +859,7 @@ Professional  upper  secondary  schools,  colleges  and  universities  are  give
 
 #### Article 61.  Boarding  general  education  schools  and  semi-boarding  general  education schools for ethnic minorities,  pre-university schools
 
-- The  State  shall  establish  boarding  general  education  schools,  semi-boarding general education schools, and pre-university schools for ethnic minority children, and/or  children  of  long-term  resident  families  in  areas  with  extreme  socioeconomic difficulties to help prepare human resources for these areas.
+- The  State  shall  establish  boarding  general  education  schools,  semi-boarding general education schools, and pre-university schools for ethnic minority children, and/or  children  of  long-term  resident  families  in  areas  with  extreme  socio-economic difficulties to help prepare human resources for these areas.
 
 27
 
@@ -939,13 +941,13 @@ The  Government  shall  provide  detailed  regulations  on  preferential  polici
 
 - Other educational institutions in the national educational system consist of:
 
-- Groups of baby sitters, crÌche; independent classes include kindergarten classes, illiteracy  eradication  classes,  foreign  language  classes,  informatics  classes, classes for disadvantaged children who are unable to attend schools, classes for disabled and handicapped children, vocational training classes and professional upper  secondary  education  classes  organised  within  production,  business  and service enterprises.
+- Groups of baby sitters, crèche; independent classes include kindergarten classes, illiteracy  eradication  classes,  foreign  language  classes,  informatics  classes, classes for disadvantaged children who are unable to attend schools, classes for disabled and handicapped children, vocational training classes and professional upper  secondary  education  classes  organised  within  production,  business  and service enterprises.
 
 - Centres for general technical education and professional orientation;  vocational training centres; continuing educational centres; community learning centres;
 
 - Scientific research institutes with permission to offer programs at doctoral level, or in co-ordination with universities to offer programs at master level.
 
-- Scientific research institutes, upon receiving the Government's permission to coordinate  with  universities  to  offer  programs  at  master  level,  are  responsible  to sign contracts with the universities to implement their educational programmes.
+- Scientific research institutes, upon receiving the Government's permission to co-ordinate  with  universities  to  offer  programs  at  master  level,  are  responsible  to sign contracts with the universities to implement their educational programmes.
 
 - The  Minister  of  Education  and  Training  shall  promulgate  regulations  on  the organisation and operation of other educational institutions as defined in point b, paragraph  1  of  this  Article;  regulations  on  the  organisational  and  operational
 
@@ -1045,7 +1047,7 @@ Teachers are prohibited from having the following behaviours:
 
 #### Article 76. Vietnamese Teachers' Day
 
-Annually, the 20 th of November is the Vietnamese Teachers' Day.
+Annually, the 20th of November is the Vietnamese Teachers' Day.
 
 ### Section 2. Education and training for teachers
 
@@ -1073,7 +1075,7 @@ Annually, the 20 th of November is the Vietnamese Teachers' Day.
 
 - Pedagogical institutions shall be given priority in teacher recruitment, allocation of administrators, investment in infrastructure and dormitories, as well as availability of funding.
 
-- Pedagogical institutions have dormitories, schools or establishments for traineeteachers' practice.
+- Pedagogical institutions have dormitories, schools or establishments for trainee-teachers' practice.
 
 33
 
@@ -1101,7 +1103,7 @@ Teachers  will  receive  salary,  professional  allowances  and  other  allowanc
 
 - Teachers and educational administrators working at specialised schools, schools for gifted students, boarding general education schools or semi-boarding general education  schools  for ethnic minorities, pre-university schools, schools  for disabled  and  handicapped  persons,  re-education  schools  and  other  special schools shall receive allowances and other preferential rewards as stipulated by the Government.
 
-- Teachers  and  educational  administrators  working  in  areas  with  extreme  socioeconomic  difficulties  shall  be  facilitated  by  the  People's  Committees  at  various levels  concerning  housing  and  shall  receive  allowances  and  other  preferential rewards as stipulated by the Government.
+- Teachers  and  educational  administrators  working  in  areas  with  extreme  socio-economic  difficulties  shall  be  facilitated  by  the  People's  Committees  at  various levels  concerning  housing  and  shall  receive  allowances  and  other  preferential rewards as stipulated by the Government.
 
 - The State shall elaborate policies to rotate teachers and educational administrators working in areas with extreme socio-economic difficulties, encourage and provide preferential rewards to teachers and educational administrators working in more favourable areas to move into areas with extreme
 
@@ -1123,7 +1125,7 @@ socio-economic  difficulties;  facilitate  teachers  in  these  areas  to  settl
 
 - Children at pre-school education institutions;
 
-- Pupils at general education establishments, vocational training classes, vocational  training  centres,  professional  upper  secondary  schools  and  preuniversity schools;
+- Pupils at general education establishments, vocational training classes, vocational  training  centres,  professional  upper  secondary  schools  and  pre-university schools;
 
 - Students at colleges and universities;
 
@@ -1229,7 +1231,7 @@ extreme socio-economic difficulties, homeless orphans, disabled and handicapped 
 
 #### Article 90. Admission by form of nomination
 
-- The  State  shall  grant  admission  for  students  in  areas  with  extreme  socioeconomic difficulties  into  colleges,  universities  or  professional  upper  secondary schools  by  means  of  nomination,  in  order  to  educate  human  resources,  civil servants for these areas;
+- The  State  shall  grant  admission  for  students  in  areas  with  extreme  socio-economic difficulties  into  colleges,  universities  or  professional  upper  secondary schools  by  means  of  nomination,  in  order  to  educate  human  resources,  civil servants for these areas;
 
 The State shall set aside nomination quotas for some ethnic minorities with no or few  officials  having  obtained  degrees/diplomas  from  colleges,  universities  or professional upper secondary schools; make policies to create admission source based  on  favourable  conditions  for  students  of  these  ethnic  minorities  to  enter general education ethnic boarding-schools and increase pre-university period.
 
@@ -1285,11 +1287,11 @@ Parents or guardians shall have the following rights:
 
 [[START OF PAGE 40]]
 
-Representative committee for the pupils' parents is annually established at preschool and general education level, nominated by parents or guardians in each class  or  school  to  liaison  with  schools  in  the  implementation  of  its  educational operations. This committee shall not be established at inter-school or administrative level.
+Representative committee for the pupils' parents is annually established at pre-school and general education level, nominated by parents or guardians in each class  or  school  to  liaison  with  schools  in  the  implementation  of  its  educational operations. This committee shall not be established at inter-school or administrative level.
 
 #### Article 97. Responsibility of society
 
-- State agencies, political organisations, socio-political organisations, sociopolitical-professional organisations, social organisations, socio-professional organisations, professional organisations, economic organisations, people's armed forces units and all citizens shall have the following responsibilities:
+- State agencies, political organisations, socio-political organisations, socio-political-professional organisations, social organisations, socio-professional organisations, professional organisations, economic organisations, people's armed forces units and all citizens shall have the following responsibilities:
 
 - Helping  schools  in  organising  educational  and  research  activities;  facilitating teachers and learners in visits, practice and research;
 
@@ -1558,7 +1560,7 @@ Political and social activists of international prestige, teachers and scientist
 ## Chapter IX IMPLEMENTING PROVISIONS
 
 #### Article 119. Implementation effect
-This Law takes effect from 1 st January 2006.
+This Law takes effect from 1st January 2006.
 
 47
 
@@ -1572,7 +1574,7 @@ This Law will replace the 1998 Education Law.
 
 The  Government  shall  provide  detailed  guidance  on  the  implementation  of  this Law.
 
-This  Law  was  passed  by  the  National  Assembly  of  the  Socialist  Republic  of  Vietnam, Eleventh Legislature, Seventh Session, 14 th June 2005.
+This  Law  was  passed  by  the  National  Assembly  of  the  Socialist  Republic  of  Vietnam, Eleventh Legislature, Seventh Session, 14th June 2005.
 
 Chairman of the National Assembly
 
