@@ -9,6 +9,7 @@ National Human Rights Commission Republic of Korea
 [[START OF PAGE 2]]
 
 National Human Rights Commission Act of the Republic of Korea
+1
 
 # NATIONAL HUMAN RIGHTS COMMISSION ACT
 
@@ -48,15 +49,15 @@ The definitions of terms used in this Act shall be as follows:
 
 ### Article 4 (Scope of Application)
 
-This Act shall apply to all citizens of the Republic of Korea and all foreigners residing therein.
-
-1
+This Act shall apply to all citizens of the Republic of Korea and all foreigners residing
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 National Human Rights Commission Act of the Republic of Korea
+2
+therein.
 
 ## CHAPTER II ORGANIZATION AND OPERATION OF COMMISSION
 
@@ -86,13 +87,12 @@ National Human Rights Commission Act of the Republic of Korea
 
 (5) When the president of the Commission performs duties related to the budget of the Commission, he/she shall be deemed to be the head of a central government office under the provision of Article 14 of the Budget and Accounts Act.
 
-2
-
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
 National Human Rights Commission Act of the Republic of Korea
+3
 
 ### Article 7 (Term of Office of President and Commissioners)
 
@@ -136,13 +136,12 @@ A commissioner shall not be removed from his/her office against his/her will unl
 
 For two years after a commissioner retires from his/her office,  he/she  shall  neither  be appointed  to  be  a  public  official  other  than  a  public  official  for  education  nor  run  for  a candidate  in  any  election  under  the  Act  on  the  Election  of  Public  Officials  and  the Prevention of Election Malpractices.
 
-3
-
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
 National Human Rights Commission Act of the Republic of Korea
+4
 
 ### Article 12 (Subcommittees)
 
@@ -182,13 +181,12 @@ The proceedings of the Commission shall be made public: Provided , That they may
 
 (2)  The  composition,  authority  and  deliberation  procedure  of  the  disciplinary  committee, kinds  and  effects  of  disciplinary  actions  and  other  necessary  matters  therefore  shall  be prescribed by the rule of the Commission.
 
-4
-
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 National Human Rights Commission Act of the Republic of Korea
+5
 
 ### Article 18 (Organization and Operation of Commission)
 
@@ -232,13 +230,12 @@ The Commission shall perform duties falling under the following subparagraphs:
 
 If  a  related  state  organ  prepares  a  governmental  report  under  the  provisions  of  any international treaty on human rights, it shall hear opinions of the Commission.
 
-5
-
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 National Human Rights Commission Act of the Republic of Korea
+6
 
 ### Article 22 (Submission of Materials and Reference for Information)
 
@@ -260,9 +257,9 @@ National Human Rights Commission Act of the Republic of Korea
 
 (2) A  commissioner, who  visits and investigates under paragraph (1),  may  be accompanied  by  members  of  the  staff  of  the  Commission  and  experts,  who  are  deemed necessary to perform their duties, and may delegate the investigation on any matter to them by specifying its scope. In this case, the experts as so delegated shall, if investigating the said matter, be accompanied by members of the staff of the Commission.
 
-(3) The commissioner, member of the staff of the Commission or expert, who visits and investigates under paragraph (2)(hereinafter referred to as the 'commissioner, etc.' in this Article), shall show the interested persons an identification verifying his/her authority to do so, and the head or administrator of a detention or protective facility visited and investigated by the commissioner, etc. shall immediately provide conveniences necessary for such visit and investigation.
+(3) The commissioner, member of the staff of the Commission or expert, who visits and investigates under paragraph (2)(hereinafter referred to as the “commissioner, etc.” in this Article), shall show the interested persons an identification verifying his/her authority to do so, and the head or administrator of a detention or protective facility visited and investigated by the commissioner, etc. shall immediately provide conveniences necessary for such visit and investigation.
 
-(4) The commissioner, etc., who visits and investigates under paragraph (2), may hold an interview with staff members concerned or detainees of the relevant detention or protective facility (hereinafter referred to as a 'facility detainee') and also may have them present oral or written statements or opinions.
+(4) The commissioner, etc., who visits and investigates under paragraph (2), may hold an interview with staff members concerned or detainees of the relevant detention or protective facility (hereinafter referred to as a “facility detainee”) and also may have them present oral or written statements or opinions.
 
 (5)  Staff  members  concerned  of  the  relevant  detention  or  protective  facility  may  be present  at  an  interview  with  detainees  held  by  the  commissioner,  etc.: Provided ,  That  it shall be prohibited to record the contents of the said interview.
 
@@ -270,15 +267,15 @@ National Human Rights Commission Act of the Republic of Korea
 
 ### Article 25 (Recommendation of Improvement or Rectification of Policies and Practices)
 
-(1)  The  Commission  may,  if  deemed  necessary  to  protect  and  promote  human  rights, recommend related  entities  to  improve  or  rectify  specific  policies  and  practices,  or  may present opinions thereon.
-
-6
+(1) The Commission may, if deemed necessary to protect and promote human rights,
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 National Human Rights Commission Act of the Republic of Korea
+7
+recommend related entities to improve or rectify specific policies and practices, or may present opinions thereon.
 
 (2) The heads of related entities receiving any recommendation under paragraph (1) shall respect and endeavor to implement the said recommendation.
 
@@ -312,17 +309,17 @@ National Human Rights Commission Act of the Republic of Korea
 
 ### Article 28 (Presentation of Opinions to Courts and Constitutional Court)
 
-(1)  In  case  a  trial,  which  significantly  affects  the  protection  and  promotion  of  human rights, is pending, the Commission may, if requested by a court or the Constitutional Court or if deemed necessary by the Commission, present its opinions on de jure matters to the competent division of the court or the Constitutional Court.
-
-7
+(1) In case a trial, which significantly affects the protection and promotion of human rights, is pending, the Commission may, if requested by a court or the Constitutional Court
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
 National Human Rights Commission Act of the Republic of Korea
+8
+or if deemed necessary by the Commission, present its opinions on de jure matters to the competent division of the court or the Constitutional Court.
 
-(2) In case a trial with respect to matters investigated or dealt with by the Commission under  the  provisions  of  Chapter      is  pending, it  may,  if  requested  by  a  court  or  the Constitutional Court or if deemed necessary by the Commission, present the opinions on de facto and de jure matters to the competent division of the court or the Constitutional Court.
+(2) In case a trial with respect to matters investigated or dealt with by the Commission under the provisions of Chapter Ⅳ is pending, it may, if requested by a court or the Constitutional Court or if deemed necessary by the Commission, present the opinions on de facto and de jure matters to the competent division of the court or the Constitutional Court.
 
 ### Article 29 (Preparation, etc. of Report)
 
@@ -344,15 +341,15 @@ National Human Rights Commission Act of the Republic of Korea
 
 2. In case there exists a discriminatory act of any violation of the right of equality by a juristic person, organization or private individual.
 
-(2)  The  term  "discriminatory  act  of  violating  the  right  of  equality"  means  any  of  the following acts of unreasonable discrimination on the ground of gender, religion, disability, age,  social  status,  regional,  national  or  ethnic  origin,  physical  condition  such  as  features marital  status,  pregnancy  or  delivery,  family  status,  race,  skin  color,  thought  or  political opinion,  criminal  record  of  which  effective  term  of  the  punishment  has  expired,  sexual orientation, or history of diseases: Provided ,  That if the favorable treatment for particular persons  (including  groups  of  particular  persons;  hereinafter  the  same  shall  apply)  is excluded from the scope of discriminatory acts by any other Act, such favorable treatment shall not be deemed to be a discriminatory act:
-
-8
+(2) The term "discriminatory act of violating the right of equality" means any of the following acts of unreasonable discrimination on the ground of gender, religion, disability, age, social status, regional, national or ethnic origin, physical condition such as features marital status, pregnancy or delivery, family status, race, skin color, thought or political opinion, criminal record of which effective term of the punishment has expired, sexual orientation, or history of diseases: Provided, That if the favorable treatment for particular
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 National Human Rights Commission Act of the Republic of Korea
+9
+persons (including groups of particular persons; hereinafter the same shall apply) is excluded from the scope of discriminatory acts by any other Act, such favorable treatment shall not be deemed to be a discriminatory act:
 
 1.  Any  act  of  favorably  treating,  excluding,  differentiating  or  unfavorably  treating  a particular person in employment (including recruitment, appointment, training, assignment of  tasks,  promotion,  payment  of  wages  and  payment  of  commodities  other  than  wages, financing, age limit, retirement, and dismissal, etc.);
 
@@ -376,15 +373,15 @@ National Human Rights Commission Act of the Republic of Korea
 
 (5) With respect to the visit to the relevant detention or protective facility and receipt of any petition by a commissioner, etc. under paragraph (4) of this Article, Article 24 (3) and (4) of this Act shall apply mutatis mutandis .
 
-(6)  The  staff  of  the  relevant  detention  or  protective  facility  shall  not  participate  in  an interview  which  a  commissioner,  etc.  holds  with  detainees  who  have  filed  petitions (including  those  who  intend  to  do  so),  or  shall  not  hear  or  record  the  contents  of  such interview: Provided , That the said staff may watch them at a distance of visibility.
-
-9
+(6) The staff of the relevant detention or protective facility shall not participate in an interview which a commissioner, etc. holds with detainees who have filed petitions (including those who intend to do so), or shall not hear or record the contents of such
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
 National Human Rights Commission Act of the Republic of Korea
+10
+interview: Provided, That the said staff may watch them at a distance of visibility.
 
 (7)  The  public  official  concerned,  etc.  shall  not  peruse  a  written  petition  or  document prepared by a detainee for the purpose of the presentation thereof to the Commission.
 
@@ -396,21 +393,21 @@ National Human Rights Commission Act of the Republic of Korea
 
 1. In case the contents of a petition do not fall under the scope of the matters subject to the investigation of the Commission;
 
-- In case the contents of a petition are deemed manifestly false or ill-founded;
+2. In case the contents of a petition are deemed manifestly false or ill-founded;
 
-- In case a petition is filed by any person other than a victim, but it is manifest that the victim does not desire the investigation thereof;
+3. In case a petition is filed by any person other than a victim, but it is manifest that the victim does not desire the investigation thereof;
 
 4. In case a petition is filed after one or more years have elapsed since the facts causing the  petition  happened: Provided ,  That  this  shall  not  apply  to  the  case  that  the  statutory limitation for public or civil prosecution with respect to such facts is not completed and that the Commission determines to investigate;
 
 5. In case at the time when a petition is filed to the Commission, with respect to the facts causing the petition, a trial at a court or the Constitutional Court, a criminal investigation by an  investigation  agency  or  a  procedure  for  the  relief  of  rights  under  any  other  Act  is  in progress or terminated: Provided ,  That  this  shall  not  apply  if  the  Commission  receives  a petition against cases identical with those falling under crimes of Articles 123 through 125 of the Criminal Act which are being investigated by the investigation agency;
 
-- In case a petition is filed under any pseudonym or anonym;
+6. In case a petition is filed under any pseudonym or anonym;
 
-- In case the Commission deems it improper to investigate a petition;
+7. In case the Commission deems it improper to investigate a petition;
 
-- In case a petition is withdrawn by the detainee who files it;
+8. In case a petition is withdrawn by the detainee who files it;
 
-- In case a petition, with the facts identical with any other petition which has already been dismissed by the Commission, is filed;
+9. In case a petition, with the facts identical with any other petition which has already been dismissed by the Commission, is filed;
 
 10.  In  case  the  purport  of  a  petition  is  contrary  to  the  final  judgment  of  a  court  or decision of the Constitutional Court on the facts causing the petition.
 
@@ -422,19 +419,16 @@ National Human Rights Commission Act of the Republic of Korea
 
 ### Article 33 (Other Remedies and Transfer)
 
-10
-
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
 National Human Rights Commission Act of the Republic of Korea
+11
 
 (1) In case the Commission deems that the contents of a petition show a clear purport to file a  petition  to  any  relevant  state  organ  with  authority,  according  to  the  procedure  for remedies as prescribed by any other Act, it shall transfer, without delay, such petition to such state organ.
 
-(2) In case, after the Commission initiates an investigation on a petition under Article 30 (1), a criminal investigation on the
-
-petition  with  the  same  facts  causing  the  petition  is  initiated  by  another  petition  or accusations  of  relevant  victims,  the  said  petition  shall  be  delivered  to  the  competent investigation agency.
+(2) In case, after the Commission initiates an investigation on a petition under Article 30 (1), a criminal investigation on the petition with the same facts causing the petition is initiated by another petition or accusations of relevant victims, the said petition shall be delivered to the competent investigation agency.
 
 (3)  In  case  the  Commission  delivers  a  petition  under  paragraphs  (1)  and  (2),  it  shall, without  delay,  inform  the  petitioner  and  those  related  entities  to  which  the  petition  is delivered shall, if requested by the Commission, inform the Commission of the results of disposition thereof.
 
@@ -464,13 +458,12 @@ petition  with  the  same  facts  causing  the  petition  is  initiated  by  ano
 
 (2) The Commission may, if deemed necessary for the investigation, have a commissioner,  etc.  visit  any  relevant  place  or  facility  to  conduct  an  on-site  inspection  or evaluation of any place, facility or material. In this case, a commissioner, etc. may require any party concerned or related person to present himself/herself and hear his/her statement at such place or facility.
 
-11
-
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
 National Human Rights Commission Act of the Republic of Korea
+12
 
 (3) Any person who is required to submit a written statement under paragraph (1) 1 shall submit it within 14 days.
 
@@ -482,7 +475,7 @@ National Human Rights Commission Act of the Republic of Korea
 
 (7)  If  the  Commission  requests  the  head  of  any  related  state  organ  to  submit  relevant materials  or  articles  or  intends  to  conduct  an  on-site  inspection  or  evaluation  of  the  said materials or articles or relevant facilities, the head may reject such submission, inspection or  evaluation  by  clearly  explaining  to  the  Commission  that  those  materials,  articles  or facilities fall under any of the following subparagraphs. In this case, the Commission may request the head to identify any necessary matters and the head shall faithfully comply with such request:
 
-1.  In  case  of  the  state's  classified  information  having  a  substantial  effect  on  national security or diplomatic relations; or
+1. In case of the state’s classified information having a substantial effect on national security or diplomatic relations; or
 
 2. Any case as deemed to be liable to cause a serious obstacle to any criminal investigation or trial in pending.
 
@@ -496,15 +489,15 @@ National Human Rights Commission Act of the Republic of Korea
 
 (1)  A  commissioner  and  a  conciliation  member  under  the  provision  of  Article  41 (hereinafter referred to as the "commissioner" in this Article) shall, if falling under any of the  following  subparagraphs,  be  excluded  from  the  participation  in  the  deliberation  and resolution on the relevant petition:
 
-1.  In  case  the  commissioner  or  any  person  who  is  or  was  his/her  spouse  is  the  party concerned of the relevant petition or holds any rights or obligations jointly with the party concerned;
-
-12
+1. In case the commissioner or any person who is or was his/her spouse is the party concerned of the relevant petition or holds any rights or obligations jointly with the party
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
 National Human Rights Commission Act of the Republic of Korea
+13
+concerned;
 
 2. In case the commissioner is or was a blood relative of the party concerned of the relevant petition;
 
@@ -522,9 +515,9 @@ National Human Rights Commission Act of the Republic of Korea
 
 (1)  The Commission shall dismiss a petition if the contents thereof fall under any of the following subparagraphs as a result of investigation:
 
-- In case the contents are false;
+1. In case the contents are false;
 
-- In case the contents are not related to any act of violating human rights subject to the investigation; and
+2. In case the contents are not related to any act of violating human rights subject to the investigation; and
 
 3. In case it is deemed that any further remedy is not required because the injury related to the petition has already been relieved.
 
@@ -542,13 +535,12 @@ With respect to any petition the investigation of which is in progress or comple
 
 (3)  Two  of  the  conciliation  members  shall  be  commissioned  by  the  Commission  from among the commissioners and the other member from among the persons who fall under any of  the  following  subparagraphs:  The  latter  shall  be  commissioned  to  work  part-time and one of three conciliation members shall be qualified as an attorney-at-law:
 
-13
-
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
 National Human Rights Commission Act of the Republic of Korea
+14
 
 1. Persons who have professional knowledge and experience on human rights affairs and whose  term  of  service  related  to  human  rights  in  a  state  organ  or  non-governmental organization is ten years or more;
 
@@ -586,15 +578,15 @@ The  conciliation  under  the  provision  of  Article  42  (2)  and  the  decisi
 
 ### Article 44 (Recommendation of Remedies, etc.)
 
-(1) If the Commission deems that there occurred any violation of human rights as a result of the investigation of any petition, it may recommend the respondent or the head of the organ  or  organization  to  which  he/she  belongs  or  the  supervisory  institution  thereof (hereinafter referred to as the "institution, etc. to which the respondent belongs") any of the following subparagraphs:
-
-14
+(1) If the Commission deems that there occurred any violation of human rights as a result
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
 National Human Rights Commission Act of the Republic of Korea
+15
+of the investigation of any petition, it may recommend the respondent or the head of the organ or organization to which he/she belongs or the supervisory institution thereof (hereinafter referred to as the "institution, etc. to which the respondent belongs") any of the following subparagraphs:
 
 1. Implementation of remedial measures under subparagraphs of Article 42 (4); and
 
@@ -624,13 +616,12 @@ National Human Rights Commission Act of the Republic of Korea
 
 (2)  Legal  aid  under  paragraph  (1)  shall  not  be  requested  against  the  explicit  will  of  the relevant victim.
 
-15
-
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
 National Human Rights Commission Act of the Republic of Korea
+16
 
 (3) Necessary matters concerning the procedures, contents and methods of legal aid under paragraph (1) shall be prescribed by the rule of the Commission.
 
@@ -666,13 +657,12 @@ The Commission may release the contents and results of any investigation and con
 
 Any person shall not exercise the authority of the Commission by falsely pretending to be a commissioner or its staff.
 
-16
-
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
 National Human Rights Commission Act of the Republic of Korea
+17
 
 ### Article 52 (Prohibition of Disclosure of Secret)
 
@@ -706,13 +696,12 @@ No person other than the Commission shall use the name of the National Human Rig
 
 (1)  A  person  who  falls  under  any  of  the  following  subparagraphs  shall  be  punished  by imprisonment for not more than 5 years or by a fine not exceeding 30 million won:
 
-17
-
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
 National Human Rights Commission Act of the Republic of Korea
+18
 
 1. A person who assaults or intimidates a commissioner or staff member of the Commission who performs affairs thereof;
 
@@ -720,7 +709,7 @@ National Human Rights Commission Act of the Republic of Korea
 
 3. A person who obstructs the performance of duties of a commissioner or staff member of the Commission by any deceitful plan; and
 
-4. A person who destroys, falsifies or alters any evidence related to the case of the violation of any other person's human rights subject to the investigation by the Commission under Chapter   of this Act, or uses any such evidence as so falsified or altered.
+4. A person who destroys, falsifies or alters any evidence related to the case of the violation of any other person's human rights subject to the investigation by the Commission under Chapter Ⅳ of this Act, or uses any such evidence as so falsified or altered.
 
 (2) If blood relatives or the head of house of any person, or family members living with him/her commit a crime under paragraph (1) 4 for him/her, they shall not be punished.
 
@@ -748,13 +737,12 @@ A person who violates the provisions of Article 31 (6) or (7) shall be punished 
 
 Any person other than a public official from among the commissioners of the Commission shall  be  deemed  to  be  a  public  official  in  the  application  of  penal  provisions  under  the Criminal Act or any other Act.
 
-18
-
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
 National Human Rights Commission Act of the Republic of Korea
+19
 
 ### Article 63 (Fine for Negligence)
 
@@ -784,18 +772,15 @@ National Human Rights Commission Act of the Republic of Korea
 
 (3) (Enactment of Presidential Decree) The president of the Commission may recommend the Prime  Minister  to submit  the draft of the Presidential  Decree  concerning  the enforcement of this Act.
 
-19
-
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
 National Human Rights Commission Act of the Republic of Korea
+20
 
 ## Disclaimer
 
 In case there is any divergence in interpreting the National Human Rights Commission Act between the Korean and English versions, the Korean version shall prevail.
-
-20
 
 [[END OF PAGE 21]]
