@@ -40,11 +40,11 @@ State power is unity with delegation of power to, and co-ordination among State 
 
 #### Article 3
 
-The State ensures and constantly fosters the people's rights as masters in all spheres, realises the targets of building a prosperous life for its people, a strong country and an equitable, democratic and civilised society, ensuring the well-being, freedom and happiness of all citizens as well as conditions for their allround development, and severely punishes all infringements on the interests of the nation and of the people.
+The State ensures and constantly fosters the people's rights as masters in all spheres, realises the targets of building a prosperous life for its people, a strong country and an equitable, democratic and civilised society, ensuring the well-being, freedom and happiness of all citizens as well as conditions for their all-round development, and severely punishes all infringements on the interests of the nation and of the people.
 
 #### Article 4
 
-The Communist Party of Vietnam, the vanguard of the Vietnamese working class and loyal representative of the interests of the working class, the working people and the whole nation, who adheres to MarxismLeninism and Ho Chi Minh's thought, is the force assuming leadership of the State and society.
+The Communist Party of Vietnam, the vanguard of the Vietnamese working class and loyal representative of the interests of the working class, the working people and the whole nation, who adheres to Marxism-Leninism and Ho Chi Minh's thought, is the force assuming leadership of the State and society.
 
 All organisations of the Party shall operate within the framework of the Constitution and the law.
 
@@ -130,7 +130,7 @@ The Socialist Republic of Vietnam pursues a policy of peace, friendship and expa
 
 The State builds an independent and self-reliant economy through promoting internal strength, actively integrating into the world's economy and conducting industrialisation and modernisation of the country.
 
-The State adopts consistent policies on development of a socialist-oriented market economy. The multisectoral structure of the economy with diversified types of production and business organisation is based on ownership of the entire people along with collective and private ownership, of which the first two and the second are the cornerstone.
+The State adopts consistent policies on development of a socialist-oriented market economy. The multi-sectoral structure of the economy with diversified types of production and business organisation is based on ownership of the entire people along with collective and private ownership, of which the first two and the second are the cornerstone.
 
 #### Article 16
 
@@ -138,7 +138,7 @@ The economic policies of the State are to build a strong country with prosperous
 
 The  economic  sectors  constitute  important  components  of  the  socialist-oriented  market  economy. Individuals and organizations from different economic sectors may conduct production and business in industries and trades permitted by law; may jointly carry out long-term development and co-operation, and shall be equal and shall compete in accordance with the law.
 
-The State fosters the establishment, development and step-by-step completion of all kinds of socialistoriented markets.
+The State fosters the establishment, development and step-by-step completion of all kinds of socialist-oriented markets.
 
 #### Article 17
 
@@ -265,7 +265,7 @@ Work in the field of information, press, radio, television, cinema, publishing, 
 
 The State and society preserve and develop the national cultural heritage; historical or revolutionary monuments, cultural relics, works of art and beauty-spots shall be maintained, restored, protected and their impact fostered.  Due attention shall also be granted to preservation and museum work.
 
-All acts causing damage to or prejudicial to historical or revolutionary monuments, works of art and beautyspots are strictly prohibited.
+All acts causing damage to or prejudicial to historical or revolutionary monuments, works of art and beauty-spots are strictly prohibited.
 
 #### Article 35
 
@@ -301,7 +301,7 @@ Scientific and technological development is a primary national policy.
 
 Science and technology play a key role in the socio-economic development of the country.
 
-The State is to work out and implement a national policy on science and technology; build an advanced science and technology; ensure the harmonious development of the various kinds of science, study and receive world scientific and technological achievements so as to build up a scientific rationale for policyand law-making, renew our technologies, develop the productive forces, upgrade our management ability, ensure the quality and pace of development of the economy and thus contribute to ensure national security and defence.
+The State is to work out and implement a national policy on science and technology; build an advanced science and technology; ensure the harmonious development of the various kinds of science, study and receive world scientific and technological achievements so as to build up a scientific rationale for policy- and law-making, renew our technologies, develop the productive forces, upgrade our management ability, ensure the quality and pace of development of the economy and thus contribute to ensure national security and defence.
 
 #### Article 38
 
@@ -603,7 +603,7 @@ The National Assembly is the highest representative body of the people, the high
 
 The National Assembly is the only body vested with constitutional and legislative powers.
 
-The  National  Assembly  decides  on  fundamental  domestic  and  foreign  policies,  on  national  socioeconomic,  defence  and  security  tasks  and  on  the  main  principles  governing  the  organisation  and functioning of the State apparatus and the social relations and activities of citizens.
+The National Assembly decides on fundamental domestic and foreign policies, on national socio-economic, defence and security tasks and on the main principles governing the organisation and functioning of the State apparatus and the social relations and activities of citizens.
 
 The National Assembly exercises the right of supreme supervision of all State activities.
 
@@ -611,27 +611,27 @@ The National Assembly exercises the right of supreme supervision of all State ac
 
 The National Assembly has the following duties and powers:
 
-- To draw up and amend the Constitution; to make and amend laws; to decide on the program for the building of Vietnamese laws and decrees.
+1. To draw up and amend the Constitution; to make and amend laws; to decide on the program for the building of Vietnamese laws and decrees.
 
-- To exercise the right to supreme supervision over the observance of the Constitution, laws and resolutions  of  the  National  Assembly;  to  examine  reports  by  the  President,  the  Standing Committee of the National Assembly, the Government, the Supreme People's Court and the People's Inspectorate General on their respective activities.
+2. To exercise the right to supreme supervision over the observance of the Constitution, laws and resolutions  of  the  National  Assembly;  to  examine  reports  by  the  President,  the  Standing Committee of the National Assembly, the Government, the Supreme People's Court and the People's Inspectorate General on their respective activities.
 
-- To decide on the national socio-economic development plan.
+3. To decide on the national socio-economic development plan.
 
-- To decide on national financial and monetary policies, to decide on estimates of the State budget and allocation of the Central budget, to ratify State budget finalisation reports; to determine, revise and repeal the various kinds of taxes.
+4. To decide on national financial and monetary policies, to decide on estimates of the State budget and allocation of the Central budget, to ratify State budget finalisation reports; to determine, revise and repeal the various kinds of taxes.
 
-- To decide on State policies on ethnic minorities and on religions;
+5. To decide on State policies on ethnic minorities and on religions;
 
-- To  determine  the  organisation  and  activities  of  the  National  Assembly;  the  President,  the Government, the People's Court, the People's Inspectorate and local authorities;
+6. To  determine  the  organisation  and  activities  of  the  National  Assembly;  the  President,  the Government, the People's Court, the People's Inspectorate and local authorities;
 
-- To elect, suspend and revoke the President, the Vice-President, the Chairman and Vice-Chairmen and the members of the Standing Committee of the National Assembly, the Prime Minister of the Government; the Chief Justice of the Supreme People's Court, the Chief Prosecutor of the People's Inspectorate General; to ratify the appointment, suspension and revocation of DeputyPrime Ministers, Ministers and other members of the Government upon the proposal of the Prime Minister;  to  ratify  the  list  of  members  of  the  Defence  and  Security  Council  proposed  by  the President; and to take a vote of confidence in favour of officials elected or approved by the National Assembly.
+7. To elect, suspend and revoke the President, the Vice-President, the Chairman and Vice-Chairmen and the members of the Standing Committee of the National Assembly, the Prime Minister of the Government; the Chief Justice of the Supreme People's Court, the Chief Prosecutor of the People's Inspectorate General; to ratify the appointment, suspension and revocation of Deputy-Prime Ministers, Ministers and other members of the Government upon the proposal of the Prime Minister;  to  ratify  the  list  of  members  of  the  Defence  and  Security  Council  proposed  by  the President; and to take a vote of confidence in favour of officials elected or approved by the National Assembly.
 
-- To decide on the institution and dissolution of the Ministries and other Government bodies at the same level; creation, fusion, division of provinces and cities directly under the central authority and modification of their boundaries, institution and dissolution of special administrative economic units;
+8. To decide on the institution and dissolution of the Ministries and other Government bodies at the same level; creation, fusion, division of provinces and cities directly under the central authority and modification of their boundaries, institution and dissolution of special administrative economic units;
 
-- To abrogate texts adopted by the President the Standing Committee of the National Assembly, the Government, the Prime Minister of the Government, the Supreme People's Court and the People's  Inspectorate  General  which  are  incompatible  with  the  Constitution,  the  laws  and resolutions of the National Assembly.
+9. To abrogate texts adopted by the President the Standing Committee of the National Assembly, the Government, the Prime Minister of the Government, the Supreme People's Court and the People's  Inspectorate  General  which  are  incompatible  with  the  Constitution,  the  laws  and resolutions of the National Assembly.
 
-- To grant general amnesties.
+10. To grant general amnesties.
 
-- To determine ranks in the armed forces, diplomatic service and other State ranks; to determine medals, decorations and honorific State titles.
+11. To determine ranks in the armed forces, diplomatic service and other State ranks; to determine medals, decorations and honorific State titles.
 
 © Allens Arthur Robinson - Vietnam Laws Online Database on www.vietnamlaws.com
 
@@ -641,11 +641,11 @@ The National Assembly has the following duties and powers:
 
 [[START OF PAGE 16]]
 
-- To decide on matters of war and peace, to determine the state of emergency and other special measures aimed at ensuring national defence and security.
+12. To decide on matters of war and peace, to determine the state of emergency and other special measures aimed at ensuring national defence and security.
 
-- To decide on fundamental foreign policies, to ratify or nullify international treaties signed directly by the President; to ratify or nullify the signature of or accession to international treaties upon the proposal of the President.
+13. To decide on fundamental foreign policies, to ratify or nullify international treaties signed directly by the President; to ratify or nullify the signature of or accession to international treaties upon the proposal of the President.
 
-- To decide on the holding of popular referendums.
+14. To decide on the holding of popular referendums.
 
 #### Article 85
 
@@ -709,19 +709,19 @@ The Standing Committee of each legislature of the National Assembly shall discha
 
 The Standing Committee of the National Assembly shall have the following duties and powers:
 
-- To make public and preside over the election of representatives to the National Assembly.
+1. To make public and preside over the election of representatives to the National Assembly.
 
-- To  organise  the  preparation,  convening  and  chairmanship  of  the  sessions  of  the  National Assembly.
+2. To  organise  the  preparation,  convening  and  chairmanship  of  the  sessions  of  the  National Assembly.
 
-- To explain the Constitution, laws and ordinances;
+3. To explain the Constitution, laws and ordinances;
 
-- To issue decrees on issues assigned by the National Assembly.
+4. To issue decrees on issues assigned by the National Assembly.
 
-- To  supervise  the  implementation  of  the  Constitution,  laws  and  resolutions  of  the  National Assembly, decrees and resolutions of the Standing Committee of the National Assembly; to supervise activities of the Government, the Supreme People's Court, the People's Inspectorate General; to suspend the implementation of texts adopted by the Government, the Prime Minister, the Supreme People's Court, the People's Inspectorate General which are incompatible with the Constitution, laws and resolutions of the National Assembly and submit to decision of the National Assembly recommendations on the abrogation of those texts; to abrogate texts adopted by the Government, the Prime Minister, the Supreme People's Court, the People's Inspectorate General, which are incompatible with decrees and resolutions of the Standing Committee of the National Assembly.
+5. To  supervise  the  implementation  of  the  Constitution,  laws  and  resolutions  of  the  National Assembly, decrees and resolutions of the Standing Committee of the National Assembly; to supervise activities of the Government, the Supreme People's Court, the People's Inspectorate General; to suspend the implementation of texts adopted by the Government, the Prime Minister, the Supreme People's Court, the People's Inspectorate General which are incompatible with the Constitution, laws and resolutions of the National Assembly and submit to decision of the National Assembly recommendations on the abrogation of those texts; to abrogate texts adopted by the Government, the Prime Minister, the Supreme People's Court, the People's Inspectorate General, which are incompatible with decrees and resolutions of the Standing Committee of the National Assembly.
 
-- To supervise and guide activities of the People's Councils; to repeal improper resolutions of the People's Councils of provinces and cities under the central authority; to dissolve the People's Councils of provinces and cities under the central authority if they cause serious damage to the interests of the people.
+6. To supervise and guide activities of the People's Councils; to repeal improper resolutions of the People's Councils of provinces and cities under the central authority; to dissolve the People's Councils of provinces and cities under the central authority if they cause serious damage to the interests of the people.
 
-- To direct,  harmonize and coordinate activities of the Council of Ethnic Nationalities and the various Committees of the National Assembly; to guide and ensure necessary conditions for the activities of representatives to the  National Assembly.
+7. To direct,  harmonize and coordinate activities of the Council of Ethnic Nationalities and the various Committees of the National Assembly; to guide and ensure necessary conditions for the activities of representatives to the  National Assembly.
 
 © Allens Arthur Robinson - Vietnam Laws Online Database on www.vietnamlaws.com
 
@@ -731,13 +731,13 @@ The Standing Committee of the National Assembly shall have the following duties 
 
 [[START OF PAGE 18]]
 
-- To decide on proclamation of a state of war in case of aggression during any time the National Assembly cannot be in session and to report the proclamation to the National Assembly for consideration and determination at its earliest session.
+8. To decide on proclamation of a state of war in case of aggression during any time the National Assembly cannot be in session and to report the proclamation to the National Assembly for consideration and determination at its earliest session.
 
-- To decide in a total or partial mobilisation; to proclaim a national or local state of emergency;
+9. To decide in a total or partial mobilisation; to proclaim a national or local state of emergency;
 
-- To conduct the external relations of the National Assembly.
+10. To conduct the external relations of the National Assembly.
 
-- To hold a popular referendum as decided by the National Assembly.
+11. To hold a popular referendum as decided by the National Assembly.
 
 #### Article 92
 
@@ -751,7 +751,7 @@ The adoption of decrees and resolutions of the Standing Committee of the Nationa
 
 #### Article 94
 
-The National Assembly elects the Council of Ethnic Nationalities, which consists of a Chairman, vicechairmen, and other members.
+The National Assembly elects the Council of Ethnic Nationalities, which consists of a Chairman, vice-chairmen, and other members.
 
 The Council of Ethnic Nationalities studies and makes recommendations to the National Assembly on questions of ethnic nationalities; exercises the right to supervise the implementation of policies on ethnic nationalities, of programmes and plans for socio-economic development of mountainous areas  and ethnic minority areas.
 
@@ -849,11 +849,11 @@ The term of office of the President is co-extensive with that of each legislatur
 
 The President has the following duties and powers:
 
-- To promulgate the Constitution, law and ordinances.
+1. To promulgate the Constitution, law and ordinances.
 
-- To assume command of the People's armed forces and the position of Chairman of the Council for National Defence and Security.
+2. To assume command of the People's armed forces and the position of Chairman of the Council for National Defence and Security.
 
-- To recommend to the National Assembly the election, removal or dismissal of the Vice President, the Prime Minister, Chief Justice of the Supreme People's Court, and Chief Prosecutor of the People's Inspectorate General.
+3. To recommend to the National Assembly the election, removal or dismissal of the Vice President, the Prime Minister, Chief Justice of the Supreme People's Court, and Chief Prosecutor of the People's Inspectorate General.
 
 © Allens Arthur Robinson - Vietnam Laws Online Database on www.vietnamlaws.com
 
@@ -863,23 +863,23 @@ The President has the following duties and powers:
 
 [[START OF PAGE 21]]
 
-- To appoint, remove and dismiss Deputy Prime Ministers, Ministers and other members of the Government on the basic of resolutions of the National Assembly.
+4. To appoint, remove and dismiss Deputy Prime Ministers, Ministers and other members of the Government on the basic of resolutions of the National Assembly.
 
-- To  proclaim  decisions  on  declaration  of  the  state  of  war,  to  sign  decrees  granting  general amnesties on the basis of resolution of the National Assembly or of the Standing Committee of the National Assembly.
+5. To  proclaim  decisions  on  declaration  of  the  state  of  war,  to  sign  decrees  granting  general amnesties on the basis of resolution of the National Assembly or of the Standing Committee of the National Assembly.
 
-- Following resolutions of the National Assembly's Standing Committee, to proclaim decisions on general or local mobilisation; to declare a state of emergency; in the case where the National Assembly's Standing Committee fails to convene, to proclaim a state of emergency in the whole country or in localities.
+6. Following resolutions of the National Assembly's Standing Committee, to proclaim decisions on general or local mobilisation; to declare a state of emergency; in the case where the National Assembly's Standing Committee fails to convene, to proclaim a state of emergency in the whole country or in localities.
 
-- To recommend to the Standing Committee of the National Assembly to review ordinances within 10 days of their approval; if these ordinances or resolutions are still approved by the National Assembly's Standing Committee but the President does not concur, they can be submitted by the President to the National Assembly for decision at the earliest session.
+7. To recommend to the Standing Committee of the National Assembly to review ordinances within 10 days of their approval; if these ordinances or resolutions are still approved by the National Assembly's Standing Committee but the President does not concur, they can be submitted by the President to the National Assembly for decision at the earliest session.
 
-- To appoint, remove and dismiss the Deputy Chief Justice, Judges of the Supreme People's Court, the Deputy Chief Prosecutor and members of the People's Inspectorate General.
+8. To appoint, remove and dismiss the Deputy Chief Justice, Judges of the Supreme People's Court, the Deputy Chief Prosecutor and members of the People's Inspectorate General.
 
-- To decide on granting of senior officers' ranks and titles in the armed forces, ambassadorial titles and ranks, and State titles and ranks in other fields, and to decide on conferral of State awards, orders, medals and other honorific State titles.
+9. To decide on granting of senior officers' ranks and titles in the armed forces, ambassadorial titles and ranks, and State titles and ranks in other fields, and to decide on conferral of State awards, orders, medals and other honorific State titles.
 
-- To appoint or recall extraordinary and plenipotentiary diplomatic representatives of the Socialist Republic of Vietnam, to receive foreign extraordinary and plenipotentiary diplomatic representatives;  to  conduct  on  behalf  of  the  State  of  the  Socialist  Republic  of  Vietnam negotiations and sign international treaties with foreign Heads of State; to submit international treaties directly signed to the National Assembly for ratification; and to decide on ratification of, or accession to international treaties, except where they must be submitted to the National Assembly for determination.
+10. To appoint or recall extraordinary and plenipotentiary diplomatic representatives of the Socialist Republic of Vietnam, to receive foreign extraordinary and plenipotentiary diplomatic representatives;  to  conduct  on  behalf  of  the  State  of  the  Socialist  Republic  of  Vietnam negotiations and sign international treaties with foreign Heads of State; to submit international treaties directly signed to the National Assembly for ratification; and to decide on ratification of, or accession to international treaties, except where they must be submitted to the National Assembly for determination.
 
-- To decide on the granting, withdrawal or deprivation of Vietnamese citizenship.
+11. To decide on the granting, withdrawal or deprivation of Vietnamese citizenship.
 
-- To sign decrees granting special amnesties.
+12. To sign decrees granting special amnesties.
 
 #### Article 104
 
@@ -959,27 +959,27 @@ The Chairman of the Central  Committee of the Vietnam Fatherland Front, the Chai
 
 The Government has the following duties and powers:
 
-- To lead the work of ministries, organs at the Ministerial level and bodies under the Government's authority, of People's committees at all levels; build and perfect the unified administrative State apparatus  from  the  centre  to  the  grassroots  level;  direct  and  control  the  implementation  by People's Councils of the texts of higher state organs; create favourable conditions for People's Councils to discharge their duties and exercise their powers as defined by law; train, foster, deploy and employ the body of State officials and employees.
+1. To lead the work of ministries, organs at the Ministerial level and bodies under the Government's authority, of People's committees at all levels; build and perfect the unified administrative State apparatus  from  the  centre  to  the  grassroots  level;  direct  and  control  the  implementation  by People's Councils of the texts of higher state organs; create favourable conditions for People's Councils to discharge their duties and exercise their powers as defined by law; train, foster, deploy and employ the body of State officials and employees.
 
-- To ensure the implementation of the Constitution and the laws by State offices, economic, social organisations,  armed  forces  units  and  citizens;  organise    and  direct  the  dissemination  of information and education on the Constitution and the law among the people.
+2. To ensure the implementation of the Constitution and the laws by State offices, economic, social organisations,  armed  forces  units  and  citizens;  organise    and  direct  the  dissemination  of information and education on the Constitution and the law among the people.
 
-- To  submit  draft  laws,  statutes  and  other  bills  to  the  National  Assembly  and  the  National Assembly's Standing Committee.
+3. To  submit  draft  laws,  statutes  and  other  bills  to  the  National  Assembly  and  the  National Assembly's Standing Committee.
 
-- To undertake unified management of the building up and development of the national economy implement the national financial and monetary policies; to ensure the management and effective utilisation of property of the entire people; develop culture, education, health care, science and technology; implement the plan and the State budget.
+4. To undertake unified management of the building up and development of the national economy implement the national financial and monetary policies; to ensure the management and effective utilisation of property of the entire people; develop culture, education, health care, science and technology; implement the plan and the State budget.
 
-- To take measures to protect the legitimate rights and interests of citizens and create conditions for them to exercise their rights and fulfil their obligations, take measures to protect property and the interests of the State and society, to protect the environment.
+5. To take measures to protect the legitimate rights and interests of citizens and create conditions for them to exercise their rights and fulfil their obligations, take measures to protect property and the interests of the State and society, to protect the environment.
 
-- To consolidate and strengthen the national defence of the entire people, ensure national security social  order  and  safety;  build  the  people's  armed  forces,  enforce  mobilisation,  the  state  of emergency and other necessary measures of defend the homeland.
+6. To consolidate and strengthen the national defence of the entire people, ensure national security social  order  and  safety;  build  the  people's  armed  forces,  enforce  mobilisation,  the  state  of emergency and other necessary measures of defend the homeland.
 
-- To organise and administer the compilation of national inventories and statistics; the inspection and  control  work  of  the  State;  to  fight  against  bureaucracy  and  corruption  within  the  State apparatus; to address citizens complaints and denunciations.
+7. To organise and administer the compilation of national inventories and statistics; the inspection and  control  work  of  the  State;  to  fight  against  bureaucracy  and  corruption  within  the  State apparatus; to address citizens complaints and denunciations.
 
-- To undertake unified management of the foreign affair of the State; on behalf of the Socialist Republic of Vietnam to negotiate and sign international treaties except as provided in Clause 10 of Article 103; on behalf of the Government to negotiate,  sign, accede to and approve international treaties; direct the implementation of international treaties which the Socialist Republic of Vietnam has signed of acceded to; to protect the interests of the State and the legitimate interests of Vietnamese organisations and citizens abroad.
+8. To undertake unified management of the foreign affair of the State; on behalf of the Socialist Republic of Vietnam to negotiate and sign international treaties except as provided in Clause 10 of Article 103; on behalf of the Government to negotiate,  sign, accede to and approve international treaties; direct the implementation of international treaties which the Socialist Republic of Vietnam has signed of acceded to; to protect the interests of the State and the legitimate interests of Vietnamese organisations and citizens abroad.
 
-- To carry out social, ethnic and religious policies.
+9. To carry out social, ethnic and religious policies.
 
-- To decide the modification of the boundaries of administrative units below the level of provinces and cities directly under the central authority.
+10. To decide the modification of the boundaries of administrative units below the level of provinces and cities directly under the central authority.
 
-- To coordinate with the Vietnam Fatherland Front and popular organisations in the discharge of its own  duties  and  powers;  create  favourable  conditions  for  those  organisations  to  function effectively.
+11. To coordinate with the Vietnam Fatherland Front and popular organisations in the discharge of its own  duties  and  powers;  create  favourable  conditions  for  those  organisations  to  function effectively.
 
 #### Article 113
 
@@ -997,17 +997,17 @@ The term of the Government is co-extensive with that of each legislature of the 
 
 The Prime Minister of the Government has the following duties and powers:
 
-- To direct the work of the Government, members of the Government, People's committees at all levels, and to preside over all meetings of the Government.
+1. To direct the work of the Government, members of the Government, People's committees at all levels, and to preside over all meetings of the Government.
 
-- To  make  recommendations  to  the  National  Assembly  on  the  establishment  or  abolition  of Ministries and agencies at ministerial level; to submit proposals on the nomination, removal or dismissal of Deputy Prime Ministers, Ministers and other members of the Government to the National Assembly.
+2. To  make  recommendations  to  the  National  Assembly  on  the  establishment  or  abolition  of Ministries and agencies at ministerial level; to submit proposals on the nomination, removal or dismissal of Deputy Prime Ministers, Ministers and other members of the Government to the National Assembly.
 
-- To  appoint,  remove  or  dismiss  vice  Ministers  and  equivalent  position-holders;  to  ratify  the elections; to remove, transfer or dismiss the Chairman, Vice Chairmen of the People's committees of provinces and cities directly under the central authority.
+3. To  appoint,  remove  or  dismiss  vice  Ministers  and  equivalent  position-holders;  to  ratify  the elections; to remove, transfer or dismiss the Chairman, Vice Chairmen of the People's committees of provinces and cities directly under the central authority.
 
-- To suspend the implementation of or to abrogate decisions, instructions, circulars of Ministers and other members of the Government; decisions, instructions of people's committees and chairmen of people's committee of provinces and cities directly under central authority that contravene the Constitution, laws and texts of the State agencies at higher levels.
+4. To suspend the implementation of or to abrogate decisions, instructions, circulars of Ministers and other members of the Government; decisions, instructions of people's committees and chairmen of people's committee of provinces and cities directly under central authority that contravene the Constitution, laws and texts of the State agencies at higher levels.
 
-- To suspend the implementation of resolutions of people's councils of provinces and cities directly under the central authority that contravene the Constitution, laws and texts of the State agencies at  higher  levels  and  make  recommendations  for  abrogation  of  the  former  by  the  Standing Committee of the National Assembly;
+5. To suspend the implementation of resolutions of people's councils of provinces and cities directly under the central authority that contravene the Constitution, laws and texts of the State agencies at  higher  levels  and  make  recommendations  for  abrogation  of  the  former  by  the  Standing Committee of the National Assembly;
 
-- To report to the people through the mass media on important issues that the Government has to address.
+6. To report to the people through the mass media on important issues that the Government has to address.
 
 #### Article 115
 
@@ -1251,7 +1251,7 @@ All other legal documents must be consistent with the Constitution.
 
 Only  the  National  Assembly  has  the  power  to  amend  the  Constitution.    Any  amendments  to  the Constitution shall require, for their adoption, a majority vote of not less than two thirds of the total number of deputies to the National Assembly.
 
-This Constitution was unanimously adopted by Legislature VII of the National Assembly of the Socialist Republic of Vietnam at its 11th session on 15 April 1992 (and amended by Resolution 51-2001-QH10 of Legislature X of the National Assembly at its 10 th Session on 25 December 2001).
+This Constitution was unanimously adopted by Legislature VII of the National Assembly of the Socialist Republic of Vietnam at its 11th session on 15 April 1992 (and amended by Resolution 51-2001-QH10 of Legislature X of the National Assembly at its 10th Session on 25 December 2001).
 
 Chairman of the National Assembly
 
