@@ -2783,9 +2783,7 @@ Parágrafo único. Logo que cesse o estado de defesa ou o estado de sítio, as m
 
 § 6º As polícias militares e corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-se, juntamente com as polícias civis, aos Governadores dos Estados, do Distrito Federal e dos Territórios.
 
-a
-
-§ 7º A lei disciplinará a organização e o funcionamento dos órgãos responsáveis pela segurança pública, de maneira a garantir eficiência de suas atividades.
+§ 7º A lei disciplinará a organização e o funcionamento dos órgãos responsáveis pela segurança pública, de maneira a garantir a eficiência de suas atividades.
 
 § 8º Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei.
 
@@ -2817,9 +2815,32 @@ a
 
 [[START OF PAGE 27]]
 
-- II - regular as limitações constitucionais ao poder de tributar; III -estabelecer normas gerais em matéria de legislação tributária, especialmente sobre: a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes; b) obrigação, lançamento, crédito, prescrição e decadência tributários; c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas. Art. 147. Competem à União, em Território Federal, os impostos estaduais e, se o Território não for dividido em Municípios, cumulativamente, os impostos municipais; ao Distrito Federal cabem os impostos municipais. Art. 148. A União, mediante lei complementar, poderá instituir empréstimos compulsórios: I -para atender a despesas extraordinárias, decorrentes de calamidade pública, de guerra externa ou sua iminência; II -no caso de investimento público de caráter urgente e de relevante interesse nacional, observado o disposto no art. 150, III, b. Parágrafo único. A aplicação dos recursos provenientes de empréstimo compulsório será vinculada à despesa que fundamentou sua instituição. Art. 149. Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, § 6º, relativamente às contribuições a que alude o dispositivo. poderão instituir contribuição, cobrada de seus servidores, para o custeio, em benefício destes, de sistemas de previdência
+- II - regular as limitações constitucionais ao poder de tributar;
 
-Parágrafo único. Os Estados, o Distrito Federal e os Municípios e assistência social.
+- III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:
+
+- a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes;
+
+- b) obrigação, lançamento, crédito, prescrição e decadência tributários;
+
+- c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas.
+
+###### Art. 147.
+Competem à União, em Território Federal, os impostos estaduais e, se o Território não for dividido em Municípios, cumulativamente, os impostos municipais; ao Distrito Federal cabem os impostos municipais.
+
+###### Art. 148.
+A União, mediante lei complementar, poderá instituir empréstimos compulsórios:
+
+- I - para atender a despesas extraordinárias, decorrentes de calamidade pública, de guerra externa ou sua iminência;
+
+- II - no caso de investimento público de caráter urgente e de relevante interesse nacional, observado o disposto no art. 150, III, b.
+
+Parágrafo único. A aplicação dos recursos provenientes de empréstimo compulsório será vinculada à despesa que fundamentou sua instituição.
+
+###### Art. 149.
+Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, § 6º, relativamente às contribuições a que alude o dispositivo.
+
+Parágrafo único. Os Estados, o Distrito Federal e os Municípios poderão instituir contribuição, cobrada de seus servidores, para o custeio, em benefício destes, de sistemas de previdência e assistência social.
 
 #### Seção II - Das Limitações do Poder de Tributar
 
@@ -2831,9 +2852,9 @@ Parágrafo único. Os Estados, o Distrito Federal e os Municípios e assistênci
 
 - III - cobrar tributos:
 
-- em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado;
+- a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado;
 
-- no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou;
+- b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou;
 
 - IV - utilizar tributo com efeito de confisco;
 
@@ -2841,31 +2862,36 @@ Parágrafo único. Os Estados, o Distrito Federal e os Municípios e assistênci
 
 - VI - instituir impostos sobre:
 
-- patrimônio, renda ou serviços, uns dos outros;
+- a) patrimônio, renda ou serviços, uns dos outros;
 
-- templos de qualquer culto;
+- b) templos de qualquer culto;
 
-- patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei;
+- c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei;
 
-- livros, jornais, periódicos e o papel destinado a sua impressão.
+- d) livros, jornais, periódicos e o papel destinado a sua impressão.
 
 § 1º A vedação do inciso III, b, não se aplica aos impostos previstos nos arts. 153, I, II, IV e V, e 154, II.
 
 § 2º A vedação do inciso VI, a, é extensiva às autarquias e às fundações instituídas e mantidas pelo poder público, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes.
 
-§ 3º As vedações do inciso VI, a, e do parágrafo anterior não se aplicam ao patrimônio, à renda e aos serviços relacionados com
+§ 3º As vedações do inciso VI, a, e do parágrafo anterior não se aplicam ao patrimônio, à renda e aos serviços relacionados com exploração de atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados, ou em que haja contraprestação ou pagamento de preços ou tarifas pelo usuário, nem exoneram o promitente comprador da obrigação de pagar imposto relativamente ao bem imóvel.
 
-- exploração de atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados, ou em que nem exoneram o promitente comprador da obrigação de pagar
+§ 4º As vedações expressas no inciso VI, alíneas b e c, compreendem somente o patrimônio, a renda e os serviços relacionados com as finalidades essenciais das entidades nelas mencionadas.
 
-- haja contraprestação ou pagamento de preços ou tarifas pelo usuário, imposto relativamente ao bem imóvel. § 4º As vedações expressas no inciso VI, alíneas b e c, compreendem somente o patrimônio, a renda e os serviços relacionados com as finalidades essenciais das entidades nelas mencionadas. § 5º A lei determinará medidas para que os consumidores sejam esclarecidos acerca dos impostos que incidam sobre mercadorias e serviços. § 6º Qualquer anistia ou remissão que envolva matéria tributária ou previdenciária só poderá ser concedida através de lei específica,
+§ 5º A lei determinará medidas para que os consumidores sejam esclarecidos acerca dos impostos que incidam sobre mercadorias e serviços.
 
-- federal, estadual ou municipal.
+§ 6º Qualquer anistia ou remissão que envolva matéria tributária ou previdenciária só poderá ser concedida através de lei específica, federal, estadual ou municipal.
 
 Art. 151. É vedado à União:
 
-- I - instituir tributo que não seja uniforme em todo o território nacional Estado, ao Distrito Federal ou a Município, em detrimento outro, admitida a concessão de incentivos fiscais destinados a
+- I - instituir tributo que não seja uniforme em todo o território nacional ou que implique distinção ou preferência em relação a Estado, ao Distrito Federal ou a Município, em detrimento de outro, admitida a concessão de incentivos fiscais destinados a promover o equilíbrio do desenvolvimento sócio-econômico entre as diferentes regiões do País;
 
-- ou que implique distinção ou preferência em relação a de promover o equilíbrio do desenvolvimento sócio-econômico entre as diferentes regiões do País; II -tributar a renda das obrigações da dívida pública dos Estados, do Distrito Federal e dos Municípios, bem como a remuneração e os proventos dos respectivos agentes públicos, em níveis superiores aos que fixar para suas obrigações e para seus agentes; III - instituir isenções de tributos da competência dos Estados, do Distrito Federal ou dos Municípios. Art. 152. É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino.
+- II - tributar a renda das obrigações da dívida pública dos Estados, do Distrito Federal e dos Municípios, bem como a remuneração e os proventos dos respectivos agentes públicos, em níveis superiores aos que fixar para suas obrigações e para seus agentes;
+
+- III - instituir isenções de tributos da competência dos Estados, do Distrito Federal ou dos Municípios.
+
+###### Art. 152.
+É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino.
 
 #### Seção III - Dos Impostos da União
 
@@ -2911,11 +2937,16 @@ Art. 153. Compete à União instituir impostos sobre:
 
 [[START OF PAGE 28]]
 
-- I -trinta por cento para o Estado, o Distrito Federal ou o
+- I - trinta por cento para o Estado, o Distrito Federal ou o Território, conforme a origem;
 
-- Território, conforme a origem; II - setenta por cento para o Município de origem. Art. 154. A União poderá instituir: I - mediante lei complementar, impostos não previstos no artigo anterior, desde que sejam não cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta Constituição; impostos competência tributária, os quais serão suprimidos, gradativamente, cessadas as
+- II - setenta por cento para o Município de origem.
 
-- II -na iminência ou no caso de guerra externa, extraordinários, compreendidos ou não em sua causas de sua criação.
+###### Art. 154.
+A União poderá instituir:
+
+- I - mediante lei complementar, impostos não previstos no artigo anterior, desde que sejam não cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta Constituição;
+
+- II - na iminência ou no caso de guerra externa, impostos extraordinários, compreendidos ou não em sua competência tributária, os quais serão suprimidos, gradativamente, cessadas as causas de sua criação.
 
 #### Seção IV - Dos Impostos dos Estados e do Distrito Federal
 
@@ -2923,11 +2954,11 @@ Art. 153. Compete à União instituir impostos sobre:
 
 - I - impostos sobre:
 
-- transmissão causa mortis e doação, de quaisquer bens ou direitos;
+- a) transmissão causa mortis e doação, de quaisquer bens ou direitos;
 
-- operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior;
+- b) operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior;
 
-- propriedade de veículos automotores;
+- c) propriedade de veículos automotores;
 
 - II - adicional de até cinco por cento do que for pago à União por pessoas físicas ou jurídicas domiciliadas nos respectivos territórios, a título do imposto previsto no art. 153, III, incidente sobre lucros, ganhos e rendimentos de capital.
 
@@ -2937,11 +2968,11 @@ Art. 153. Compete à União instituir impostos sobre:
 
 - II - relativamente a bens móveis, títulos e créditos, compete ao Estado onde se processar o inventário ou arrolamento, ou tiver domicílio o doador, ou ao Distrito Federal;
 
-- III -terá a competência para sua instituição regulada por lei complementar:
+- III - terá a competência para sua instituição regulada por lei complementar:
 
-- se o doador tiver domicílio ou residência no exterior;
+- a) se o doador tiver domicílio ou residência no exterior;
 
-- se o de cujus possuía bens, era residente ou domiciliado ou teve o seu inventário processado no exterior;
+- b) se o de cujus possuía bens, era residente ou domiciliado ou teve o seu inventário processado no exterior;
 
 - IV - terá suas alíquotas máximas fixadas pelo Senado Federal.
 
@@ -2949,63 +2980,63 @@ Art. 153. Compete à União instituir impostos sobre:
 
 - I - será não cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços com o montante cobrado nas anteriores pelo mesmo ou outro Estado ou pelo Distrito Federal;
 
-- II -a isenção ou não-incidência, salvo determinação em contrário da legislação:
+- II - a isenção ou não-incidência, salvo determinação em contrário da legislação:
 
-- não implicará crédito para compensação com o montante devido nas operações ou prestações seguintes;
+- a) não implicará crédito para compensação com o montante devido nas operações ou prestações seguintes;
 
-- acarretará a anulação do crédito relativo às operações anteriores;
+- b) acarretará a anulação do crédito relativo às operações anteriores;
 
-- III -poderá ser seletivo, em função da essencialidade das mercadorias e dos serviços;
+- III - poderá ser seletivo, em função da essencialidade das mercadorias e dos serviços;
 
 - IV - resolução do Senado Federal, de iniciativa do Presidente da República ou de um terço dos Senadores, aprovada pela maioria absoluta de seus membros, estabelecerá as alíquotas aplicáveis às operações e prestações, interestaduais e de exportação;
 
 - V - é facultado ao Senado Federal:
 
-- estabelecer alíquotas mínimas nas operações internas, mediante resolução de iniciativa de um terço e aprovada pela maioria absoluta de seus membros;
+- a) estabelecer alíquotas mínimas nas operações internas, mediante resolução de iniciativa de um terço e aprovada pela maioria absoluta de seus membros;
 
-- fixar alíquotas máximas nas mesmas operações para resolver conflito específico que envolva interesse de Estados, mediante resolução de iniciativa da maioria absoluta e aprovada por dois terços de seus membros;
+- b) fixar alíquotas máximas nas mesmas operações para resolver conflito específico que envolva interesse de Estados, mediante resolução de iniciativa da maioria absoluta e aprovada por dois terços de seus membros;
 
 - VI - salvo deliberação em contrário dos Estados e do Distrito Federal, nos termos do disposto no inciso XII, g, as alíquotas internas, nas operações relativas à circulação de mercadorias e nas prestações de serviços, não poderão ser inferiores às previstas para as operações interestaduais;
 
-- VII - em relação às operações e prestações que destinem bens e serviços a consumidor final localizado em outro Estado, adotarse-á:
+- VII - em relação às operações e prestações que destinem bens e serviços a consumidor final localizado em outro Estado, adotar-se-á:
 
-- a alíquota interestadual, quando o destinatário for contribuinte do imposto;
+- a) a alíquota interestadual, quando o destinatário for contribuinte do imposto;
 
-- a alíquota interna, quando o destinatário não for contribuinte dele;
+- b) a alíquota interna, quando o destinatário não for contribuinte dele;
 
-- VIII -na hipótese da alínea a do inciso anterior, caberá ao Estado da localização do destinatário o imposto correspondente à diferença entre a alíquota interna e a interestadual;
+- VIII - na hipótese da alínea a do inciso anterior, caberá ao Estado da localização do destinatário o imposto correspondente à diferença entre a alíquota interna e a interestadual;
 
 - IX - incidirá também:
 
-- sobre a entrada de mercadoria importada do exterior, ainda quando se tratar de bem destinado a consumo ou ativo fixo do estabelecimento, assim como sobre serviço prestado no exterior, cabendo o imposto ao Estado onde estiver situado o estabelecimento destinatário da mercadoria ou do serviço;
+- a) sobre a entrada de mercadoria importada do exterior, ainda quando se tratar de bem destinado a consumo ou ativo fixo do estabelecimento, assim como sobre serviço prestado no exterior, cabendo o imposto ao Estado onde estiver situado o estabelecimento destinatário da mercadoria ou do serviço;
 
-b) sobre o valor total da operação, quando mercadorias forem fornecidas com serviços não compreendidos na competência tributária dos Municípios;
+- b) sobre o valor total da operação, quando mercadorias forem fornecidas com serviços não compreendidos na competência tributária dos Municípios;
 
 - X - não incidirá:
 
-- sobre operações que destinem ao exterior produtos industrializados, excluídos os semi-elaborados definidos em lei complementar;
+- a) sobre operações que destinem ao exterior produtos industrializados, excluídos os semi-elaborados definidos em lei complementar;
 
-- sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica;
+- b) sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica;
 
-- sobre o ouro, nas hipóteses definidas no art. 153, § 5º;
+- c) sobre o ouro, nas hipóteses definidas no art. 153, § 5º;
 
 - XI - não compreenderá, em sua base de cálculo, o montante do imposto sobre produtos industrializados, quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configure fato gerador dos dois impostos;
 
 - XII - cabe à lei complementar:
 
-- definir seus contribuintes;
+- a) definir seus contribuintes;
 
-- dispor sobre substituição tributária;
+- b) dispor sobre substituição tributária;
 
-- disciplinar o regime de compensação do imposto;
+- c) disciplinar o regime de compensação do imposto;
 
-- fixar, para efeito de sua cobrança e definição do estabelecimento responsável, o local das operações relativas à circulação de mercadorias e das prestações de serviços;
+- d) fixar, para efeito de sua cobrança e definição do estabelecimento responsável, o local das operações relativas à circulação de mercadorias e das prestações de serviços;
 
-- excluir da incidência do imposto, nas exportações para o exterior, serviços e outros produtos além dos mencionados no inciso X, a;
+- e) excluir da incidência do imposto, nas exportações para o exterior, serviços e outros produtos além dos mencionados no inciso X, a;
 
-- prever casos de manutenção de crédito, relativamente à remessa para outro Estado e exportação para o exterior, de serviços e de mercadorias;
+- f) prever casos de manutenção de crédito, relativamente à remessa para outro Estado e exportação para o exterior, de serviços e de mercadorias;
 
-- regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados.
+- g) regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados.
 
 § 3º À exceção dos impostos de que tratam o inciso I, b, do caput deste artigo e os arts. 153, I e II, e 156, III, nenhum outro tributo incidirá sobre operações relativas a energia elétrica, combustíveis líquidos e gasosos, lubrificantes e minerais do País.
 
@@ -3070,15 +3101,15 @@ Parágrafo único. As parcelas de receita pertencentes aos Municípios, menciona
 ###### Art. 159.
 A União entregará:
 
-- I -do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados, quarenta e sete por cento na seguinte forma:
+- I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados, quarenta e sete por cento na seguinte forma:
 
-- vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
+- a) vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
 
-- vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios;
+- b) vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios;
 
-- três por cento, para aplicação em programas de financiamento ao setor produtivo das Regiões Norte, Nordeste e Centro-Oeste, através de suas instituições financeiras de caráter regional, de acordo com os planos regionais de desenvolvimento, ficando assegurada ao semi-árido do Nordeste a metade dos recursos destinados à região, na forma que a lei estabelecer;
+- c) três por cento, para aplicação em programas de financiamento ao setor produtivo das Regiões Norte, Nordeste e Centro-Oeste, através de suas instituições financeiras de caráter regional, de acordo com os planos regionais de desenvolvimento, ficando assegurada ao semi-árido do Nordeste a metade dos recursos destinados à região, na forma que a lei estabelecer;
 
-- II -do produto da arrecadação do imposto sobre produtos industrializados, dez por cento aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
+- II - do produto da arrecadação do imposto sobre produtos industrializados, dez por cento aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
 
 § 1º Para efeito de cálculo da entrega a ser efetuada de acordo com o previsto no inciso I, excluir-se-á a parcela da arrecadação do imposto de renda e proventos de qualquer natureza pertencente aos Estados, ao Distrito Federal e aos Municípios, nos termos do disposto nos arts. 157, I, e 158, I.
 
@@ -3094,7 +3125,7 @@ Parágrafo único. Essa vedação não impede a União de condicionar a entrega 
 
 - I -definir valor adicionado para fins do disposto no art. 158, parágrafo único, I;
 
-- II - estabelecer normas sobre a entrega dos recursos de que trata o art. 159, especialmente sobre os critérios de rateio dos fundos previstos em seu inciso I, objetivando promover o equilíbrio sócioeconômico entre Estados e entre Municípios;
+- II - estabelecer normas sobre a entrega dos recursos de que trata o art. 159, especialmente sobre os critérios de rateio dos fundos previstos em seu inciso I, objetivando promover o equilíbrio sócio-econômico entre Estados e entre Municípios;
 
 - III -dispor sobre o acompanhamento, pelos beneficiários, do cálculo das quotas e da liberação das participações previstas nos arts. 157, 158 e 159.
 
@@ -3154,7 +3185,7 @@ Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
 
 - legislação tributária e estabelecerá a política de aplicação das agências financeiras oficiais de fomento.
 
-§ 3º O Poder Executivo publicará, até trinta dias após encerramento de cada bimestre, relatório resumido da execução orçamentária.
+§ 3º O Poder Executivo publicará, até trinta dias após o encerramento de cada bimestre, relatório resumido da execução orçamentária.
 
 § 4º Os planos e programas nacionais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual e apreciados pelo Congresso Nacional.
 
@@ -3166,11 +3197,7 @@ Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
 
 - III -o orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculados, da administração direta ou indireta, bem como os fundos e fundações instituídos e mantidos pelo poder público.
 
-§ 6º O projeto de lei orçamentária será acompanhado demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia.
-
-o
-
-de
+§ 6º O projeto de lei orçamentária será acompanhado de demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia.
 
 § 7º Os orçamentos previstos no § 5º, I e II, deste artigo, compatibilizados com o plano plurianual, terão entre suas funções a de reduzir desigualdades inter-regionais, segundo critério populacional.
 
@@ -3196,27 +3223,23 @@ de
 
 - I - sejam compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias;
 
-- II -indiquem os recursos necessários, admitidos apenas os provenientes de anulação de despesa, excluídas as que incidam sobre:
+- II - indiquem os recursos necessários, admitidos apenas os provenientes de anulação de despesa, excluídas as que incidam sobre:
 
-- dotações para pessoal e seus encargos;
+- a) dotações para pessoal e seus encargos;
 
-- serviço da dívida;
+- b) serviço da dívida;
 
-- transferências tributárias constitucionais para Estados, Municípios e o Distrito Federal; ou
+- c) transferências tributárias constitucionais para Estados, Municípios e o Distrito Federal; ou
 
 - III - sejam relacionadas:
 
-- com a correção de erros ou omissões; ou
+- a) com a correção de erros ou omissões; ou
 
-- com os dispositivos do texto do projeto de lei.
+- b) com os dispositivos do texto do projeto de lei.
 
 § 4º As emendas ao projeto de lei de diretrizes orçamentárias não poderão ser aprovadas quando incompatíveis com o plano plurianual.
 
-§ 5º O Presidente da República poderá enviar mensagem
-
-ao
-
-- Congresso Nacional para propor modificação nos projetos a que se refere este artigo enquanto não iniciada a votação, na comissão mista, da parte cuja alteração é proposta.
+§ 5º O Presidente da República poderá enviar mensagem ao Congresso Nacional para propor modificação nos projetos a que se refere este artigo enquanto não iniciada a votação, na comissão mista, da parte cuja alteração é proposta.
 
 § 6º Os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual serão enviados pelo Presidente da República ao Congresso Nacional, nos termos da lei complementar a que se refere o art. 165, § 9º.
 
@@ -3247,9 +3270,7 @@ São vedados:
 
 § 1º Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize a inclusão, sob pena de crime de responsabilidade.
 
-no
-
-§ 2º Os créditos especiais e extraordinários terão vigência exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subseqüente.
+§ 2º Os créditos especiais e extraordinários terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subseqüente.
 
 § 3º A abertura de crédito extraordinário somente será admitida para atender a despesas imprevisíveis e urgentes, como as decorrentes de guerra, comoção interna ou calamidade pública, observado o disposto no art. 62.
 
@@ -3308,9 +3329,9 @@ São consideradas:
 
 - II - estabelecer, sempre que considerar um setor imprescindível ao desenvolvimento tecnológico nacional, entre outras condições e requisitos:
 
-- a exigência de que o controle referido no inciso II do caput se estenda às atividades tecnológicas da empresa, assim entendido o exercício, de fato e de direito, do poder decisório para desenvolver ou absorver tecnologia;
+- a) a exigência de que o controle referido no inciso II do caput se estenda às atividades tecnológicas da empresa, assim entendido o exercício, de fato e de direito, do poder decisório para desenvolver ou absorver tecnologia;
 
-- percentuais de participação, no capital, de pessoas físicas domiciliadas e residentes no País ou entidades de direito público interno.
+- b) percentuais de participação, no capital, de pessoas físicas domiciliadas e residentes no País ou entidades de direito público interno.
 
 § 2º Na aquisição de bens e serviços, o poder público dará tratamento preferencial, nos termos da lei, à empresa brasileira de capital nacional.
 
@@ -3324,9 +3345,7 @@ São consideradas:
 
 § 3º A lei regulamentará as relações da empresa pública com o Estado e a sociedade.
 
-à
-
-§ 4º A lei reprimirá o abuso do poder econômico que vise dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros.
+§ 4º A lei reprimirá o abuso do poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros.
 
 § 5º A lei, sem prejuízo da responsabilidade individual dos dirigentes da pessoa jurídica, estabelecerá a responsabilidade desta, sujeitando-a às punições compatíveis com sua natureza, nos atos praticados contra a ordem econômica e financeira e contra a economia popular.
 
@@ -3402,9 +3421,7 @@ IV - a utilização de embarcações de pesca e outras.
 
 § 3º A navegação de cabotagem e a interior são privativas de embarcações nacionais, salvo caso de necessidade pública, segundo dispuser a lei.
 
-ou
-
-Art. 179. A União, os Estados, o Distrito Federal e os Municípios dispensarão às microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação redução destas por meio de lei.
+Art. 179. A União, os Estados, o Distrito Federal e os Municípios dispensarão às microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação ou redução destas por meio de lei.
 
 Art. 180. A União, os Estados, o Distrito Federal e os Municípios promoverão e incentivarão o turismo como fator de desenvolvimento social e econômico.
 
@@ -3494,9 +3511,7 @@ VIII - a habitação para o trabalhador rural.
 
 - Art. 188. A destinação de terras públicas e devolutas será compatibilizada com a política agrícola e com o plano nacional de reforma agrária.
 
-a
-
-§ 1º A alienação ou a concessão, a qualquer título, de terras públicas com área superior a dois mil e quinhentos hectares pessoa física ou jurídica, ainda que por interposta pessoa, dependerá de prévia aprovação do Congresso Nacional.
+§ 1º A alienação ou a concessão, a qualquer título, de terras públicas com área superior a dois mil e quinhentos hectares a pessoa física ou jurídica, ainda que por interposta pessoa, dependerá de prévia aprovação do Congresso Nacional.
 
 § 2º Excetuam-se do disposto no parágrafo anterior as alienações ou as concessões de terras públicas para fins de reforma agrária.
 
@@ -3526,9 +3541,9 @@ Parágrafo único. Os imóveis públicos não serão adquiridos por usucapião.
 
 - III - as condições para a participação do capital estrangeiro nas instituições a que se referem os incisos anteriores, tendo em vista, especialmente:
 
-- os interesses nacionais;
+- a) os interesses nacionais;
 
-- os acordos internacionais;
+- b) os acordos internacionais;
 
 - IV - a organização, o funcionamento e as atribuições do Banco Central e demais instituições financeiras públicas e privadas;
 
@@ -3562,9 +3577,7 @@ Parágrafo único. Os imóveis públicos não serão adquiridos por usucapião.
 
 - I - universalidade da cobertura e do atendimento;
 
-- II -uniformidade e equivalência dos benefícios e serviços populações urbanas e rurais;
-
-às
+- II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais;
 
 - III - seletividade e distributividade na prestação dos benefícios e serviços;
 
@@ -3578,7 +3591,7 @@ Parágrafo único. Os imóveis públicos não serão adquiridos por usucapião.
 
 - Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:
 
-- I -dos empregadores, incidente sobre a folha de salários, faturamento e o lucro;
+- I - dos empregadores, incidente sobre a folha de salários, o faturamento e o lucro;
 
 - II - dos trabalhadores;
 
@@ -3590,9 +3603,7 @@ Parágrafo único. Os imóveis públicos não serão adquiridos por usucapião.
 
 § 3º A pessoa jurídica em débito com o sistema da seguridade social, como estabelecido em lei, não poderá contratar com o poder público nem dele receber benefícios ou incentivos fiscais ou creditícios.
 
-§ 4º A lei poderá instituir outras fontes destinadas a garantir manutenção ou expansão da seguridade social, obedecido o disposto no art. 154, I.
-
-a
+§ 4º A lei poderá instituir outras fontes destinadas a garantir a manutenção ou expansão da seguridade social, obedecido o disposto no art. 154, I.
 
 § 5º Nenhum benefício ou serviço da seguridade social poderá ser criado, majorado ou estendido sem a correspondente fonte de custeio total.
 
@@ -3612,9 +3623,7 @@ a
 
 - I -descentralização, com direção única em cada esfera de governo;
 
-- II -atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais;
-
-o
+- II - atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais;
 
 33
 
@@ -3666,13 +3675,11 @@ Art. 199. A assistência à saúde é livre à iniciativa privada.
 
 - IV -proteção ao trabalhador em situação de desemprego involuntário;
 
-- V pensão por morte de segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, obedecido o disposto no § 5º e no art. 202.
+- V - pensão por morte de segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, obedecido o disposto no § 5º e no art. 202.
 
-da
+§ 1º Qualquer pessoa poderá participar dos benefícios da previdência social, mediante contribuição na forma dos planos previdenciários.
 
-§ 1º Qualquer pessoa poderá participar dos benefícios previdência social, mediante contribuição na forma dos planos previdenciários.
-
-§ 2º É assegurado o reajustamento dos benefícios para preservarlhes, em caráter permanente, o valor real, conforme critérios definidos em lei.
+§ 2º É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios definidos em lei.
 
 § 3º Todos os salários de contribuição considerados no cálculo de benefício serão corrigidos monetariamente.
 
@@ -3746,7 +3753,7 @@ da
 
 - VII - garantia de padrão de qualidade.
 
-- Art. 207. As universidades gozam de autonomia didáticocientífica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão.
+- Art. 207. As universidades gozam de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão.
 
 - Art. 208. O dever do Estado com a educação será efetivado mediante a garantia de:
 
@@ -3784,9 +3791,7 @@ da
 
 - Art. 211. A União, os Estados, o Distrito Federal e os Municípios organizarão em regime de colaboração seus sistemas de ensino.
 
-aos
-
-§ 1º A União organizará e financiará o sistema federal de ensino e o dos Territórios, e prestará assistência técnica e financeira Estados, ao Distrito Federal e aos Municípios para o desenvolvimento de seus sistemas de ensino e o atendimento prioritário à escolaridade obrigatória.
+§ 1º A União organizará e financiará o sistema federal de ensino e o dos Territórios, e prestará assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios para o desenvolvimento de seus sistemas de ensino e o atendimento prioritário à escolaridade obrigatória.
 
 § 2º Os Municípios atuarão prioritariamente no ensino fundamental e pré-escolar.
 
@@ -3850,9 +3855,7 @@ aos
 
 § 2º Cabem à administração pública, na forma da lei, a gestão da documentação governamental e as providências para franquear sua consulta a quantos dela necessitem.
 
-§ 3º A lei estabelecerá incentivos para a produção e conhecimento de bens e valores culturais.
-
-o
+§ 3º A lei estabelecerá incentivos para a produção e o conhecimento de bens e valores culturais.
 
 § 4º Os danos e ameaças ao patrimônio cultural serão punidos, na forma da lei.
 
@@ -3922,7 +3925,7 @@ o
 
 - Art. 221. A produção e a programação das emissoras de rádio e televisão atenderão aos seguintes princípios:
 
-- I -preferência a finalidades educativas, artísticas, culturais informativas;
+- I - preferência a finalidades educativas, artísticas, culturais e informativas;
 
 - II -promoção da cultura nacional e regional e estímulo à produção independente que objetive sua divulgação;
 
@@ -3930,9 +3933,7 @@ o
 
 - IV - respeito aos valores éticos e sociais da pessoa e da família.
 
-- Art. 222. A propriedade de empresa jornalística e de radiodifusão sonora e de sons e imagens é privativa de brasileiros natos ou naturalizados há mais de dez anos, aos quais caberá responsabilidade por sua administração e orientação intelectual.
-
-a
+- Art. 222. A propriedade de empresa jornalística e de radiodifusão sonora e de sons e imagens é privativa de brasileiros natos ou naturalizados há mais de dez anos, aos quais caberá a responsabilidade por sua administração e orientação intelectual.
 
 § 1º É vedada a participação de pessoa jurídica no capital social de empresa jornalística ou de radiodifusão, exceto a de partido político e de sociedades cujo capital pertença exclusiva e nominalmente a brasileiros.
 
@@ -3968,9 +3969,7 @@ a
 
 - V - controlar a produção, a comercialização e o emprego de técnicas, métodos e substâncias que comportem risco para a vida, a qualidade de vida e o meio ambiente;
 
-- VI promover a educação ambiental em todos os níveis de ensino e a conscientização pública para a preservação do meio ambiente;
-
-e
+- VI - promover a educação ambiental em todos os níveis de ensino e a conscientização pública para a preservação do meio ambiente;
 
 36
 
@@ -4042,7 +4041,7 @@ e
 
 § 6º Os filhos, havidos ou não da relação do casamento, ou por adoção, terão os mesmos direitos e qualificações, proibidas quaisquer designações discriminatórias relativas à filiação.
 
-§ 7º No atendimento dos direitos da criança e do adolescente levarse-á em consideração o disposto no art. 204.
+§ 7º No atendimento dos direitos da criança e do adolescente levar-se-á em consideração o disposto no art. 204.
 
 - Art. 228. São penalmente inimputáveis os menores de dezoito anos, sujeitos às normas da legislação especial.
 
@@ -4062,11 +4061,9 @@ e
 
 § 2º As terras tradicionalmente ocupadas pelos índios destinam-se a sua posse permanente, cabendo-lhes o usufruto exclusivo das riquezas do solo, dos rios e dos lagos nelas existentes.
 
-§ 3º O aproveitamento dos recursos hídricos, incluídos os potenciais energéticos, a pesquisa e a lavra das riquezas minerais em terras indígenas só podem ser efetivados com autorização do Congresso Nacional, ouvidas as comunidades afetadas, ficandolhes assegurada participação nos resultados da lavra, na forma da lei.
+§ 3º O aproveitamento dos recursos hídricos, incluídos os potenciais energéticos, a pesquisa e a lavra das riquezas minerais em terras indígenas só podem ser efetivados com autorização do Congresso Nacional, ouvidas as comunidades afetadas, ficando-lhes assegurada participação nos resultados da lavra, na forma da lei.
 
-§ 4º As terras de que trata este artigo são inalienáveis indisponíveis, e os direitos sobre elas, imprescritíveis.
-
-e
+§ 4º As terras de que trata este artigo são inalienáveis e indisponíveis, e os direitos sobre elas, imprescritíveis.
 
 § 5º É vedada a remoção dos grupos indígenas de suas terras, salvo, ad referendum do Congresso Nacional, em caso de catástrofe ou epidemia que ponha em risco sua população, ou no interesse da soberania do País, após deliberação do Congresso Nacional, garantido, em qualquer hipótese, o retorno imediato logo que cesse o risco.
 
@@ -4124,39 +4121,7 @@ trata o caput deste artigo, para depósito nas contas individuais dos
 
 participantes.
 
-§
-
-3º
-
-Aos empregados
-
-contribuem que para
-
-Programa
-
-o
-
-Programa
-
-de
-
-dois Formação salários percebam de de Integração do Patrimônio mínimos de empregadores que Social ou para do Servidor remuneração mensal,
-
-o
-
-Público, até
-
-é assegurado
-
-o
-
-pagamento de um salário mínimo anual, computado neste valor o
-
-rendimento das contas individuais, no caso daqueles que já
-
-participavam dos referidos programas, até a data da promulgação
-
-desta Constituição.
+§ 3º Aos empregados que percebam de empregadores que contribuem para o Programa de Integração Social ou para o Programa de Formação do Patrimônio do Servidor Público, até dois salários mínimos de remuneração mensal, é assegurado o pagamento de um salário mínimo anual, computado neste valor o rendimento das contas individuais, no caso daqueles que já participavam dos referidos programas, até a data da promulgação desta Constituição.
 
 § 4º O financiamento do seguro-desemprego receberá uma contribuição adicional da empresa cujo índice de rotatividade da força de trabalho superar o índice médio da rotatividade do setor, na forma estabelecida por lei.
 
@@ -4180,11 +4145,7 @@ Art. 243. As glebas de qualquer região do País onde forem localizadas culturas
 
 imediatamente expropriadas e especificamente destinadas ao assentamento de colonos, para o cultivo de produtos alimentícios e medicamentosos, sem qualquer indenização ao proprietário e sem prejuízo de outras sanções previstas em lei.
 
-Parágrafo único. Todo e qualquer bem de valor econômico apreendido em decorrência do tráfico ilícito de entorpecentes drogas afins será confiscado e reverterá em benefício instituições e pessoal especializados no tratamento e recuperação de viciados e no aparelhamento e custeio de atividades de fiscalização, controle, prevenção e repressão do crime de tráfico dessas substâncias.
-
-e
-
-de
+Parágrafo único. Todo e qualquer bem de valor econômico apreendido em decorrência do tráfico ilícito de entorpecentes e drogas afins será confiscado e reverterá em benefício de instituições e pessoal especializados no tratamento e recuperação de viciados e no aparelhamento e custeio de atividades de fiscalização, controle, prevenção e repressão do crime de tráfico dessas substâncias.
 
 - Art. 244. A lei disporá sobre a adaptação dos logradouros, dos edifícios de uso público e dos veículos de transporte coletivo atualmente existentes a fim de garantir acesso adequado às pessoas portadoras de deficiência, conforme o disposto no art. 227, § 2º.
 
@@ -4234,7 +4195,7 @@ IN MEMORIAM: Alair Ferreira -Antônio Farias -Fábio Lucena -Norberto Schwantes 
 
 § 2º Na ausência de norma legal específica, caberá ao Tribunal Superior Eleitoral editar as normas necessárias à realização das eleições de 1988, respeitada a legislação vigente.
 
-§ 3º Os atuais parlamentares federais e estaduais eleitos VicePrefeitos, se convocados a exercer a função de Prefeito, não perderão o mandato parlamentar.
+§ 3º Os atuais parlamentares federais e estaduais eleitos Vice-Prefeitos, se convocados a exercer a função de Prefeito, não perderão o mandato parlamentar.
 
 § 4º O número de Vereadores por Município será fixado, para a representação a ser eleita em 1988, pelo respectivo Tribunal Regional Eleitoral, respeitados os limites estipulados no art. 29, IV, da Constituição.
 
@@ -4280,9 +4241,9 @@ Até que seja promulgada a lei complementar a que se refere o art. 7º, I, da Co
 
 - II - fica vedada a dispensa arbitrária ou sem justa causa:
 
-- do empregado eleito para cargo de direção de comissões internas de prevenção de acidentes, desde o registro de sua candidatura até um ano após o final de seu mandato;
+- a) do empregado eleito para cargo de direção de comissões internas de prevenção de acidentes, desde o registro de sua candidatura até um ano após o final de seu mandato;
 
-- da empregada gestante, desde a confirmação da gravidez até cinco meses após o parto.
+- b) da empregada gestante, desde a confirmação da gravidez até cinco meses após o parto.
 
 § 1º Até que a lei venha a disciplinar o disposto no art. 7º, XIX, da Constituição, o prazo da licença-paternidade a que se refere o inciso é de cinco dias.
 
@@ -4384,7 +4345,7 @@ Os servidores públicos civis da União, dos Estados, do Distrito Federal e dos 
 § 3º O disposto neste artigo não se aplica aos professores de nível superior, nos termos da lei.
 
 ###### Art. 20.
-Dentro de cento e oitenta dias, proceder-se-á à revisão dos direitos dos servidores públicos inativos e pensionistas e à atualização dos proventos e pensões a eles devidos, a fim de ajustálos ao disposto na Constituição.
+Dentro de cento e oitenta dias, proceder-se-á à revisão dos direitos dos servidores públicos inativos e pensionistas e à atualização dos proventos e pensões a eles devidos, a fim de ajustá-los ao disposto na Constituição.
 
 ###### Art. 21.
 Os juízes togados de investidura limitada no tempo, admitidos mediante concurso público de provas e títulos e que
@@ -4417,7 +4378,7 @@ II - alocação ou transferência de recursos de qualquer espécie.
 
 - II - decorrido o prazo definido no inciso anterior, e não havendo apreciação, os decretos-leis ali mencionados serão considerados rejeitados;
 
-- III -nas hipóteses definidas nos incisos I e II, terão plena validade os atos praticados na vigência dos respectivos decretosleis, podendo o Congresso Nacional, se necessário, legislar sobre os efeitos deles remanescentes.
+- III - nas hipóteses definidas nos incisos I e II, terão plena validade os atos praticados na vigência dos respectivos decretos-leis, podendo o Congresso Nacional, se necessário, legislar sobre os efeitos deles remanescentes.
 
 § 2º Os decretos-leis editados entre 3 de setembro de 1988 e a promulgação da Constituição serão convertidos, nesta data, em medidas provisórias, aplicando-se-lhes as regras estabelecidas no art. 62, parágrafo único.
 
@@ -4429,9 +4390,7 @@ No prazo de um ano a contar da promulgação da Constituição, o Congresso Naci
 § 2º Apurada irregularidade, o Congresso Nacional proporá ao Poder Executivo a declaração de nulidade do ato e encaminhará o processo ao Ministério Público Federal, que formalizará, no prazo de sessenta dias, a ação cabível.
 
 ###### Art. 27.
-O Superior Tribunal de Justiça será instalado sob presidência do Supremo Tribunal Federal.
-
-a
+O Superior Tribunal de Justiça será instalado sob a presidência do Supremo Tribunal Federal.
 
 § 1º Até que se instale o Superior Tribunal de Justiça, o Supremo Tribunal Federal exercerá as atribuições e competências definidas na ordem constitucional precedente.
 
@@ -4463,17 +4422,15 @@ a
 
 § 10. Compete à Justiça Federal julgar as ações nela propostas até a data da promulgação da Constituição, e aos Tribunais Regionais Federais, bem como ao Superior Tribunal de Justiça, julgar as ações rescisórias das decisões até então proferidas pela Justiça Federal, inclusive daquelas cuja matéria tenha passado à competência de outro ramo do Judiciário.
 
-ao
-
 ###### Art. 28.
-Os juízes federais de que trata o art. 123, § 2º, da Constituição de 1967, com a redação dada pela Emenda Constitucional nº 7, de 1977, ficam investidos na titularidade de varas na seção judiciária para a qual tenham sido nomeados ou designados; na inexistência de vagas, proceder-se-á desdobramento das varas existentes.
+Os juízes federais de que trata o art. 123, § 2º, da Constituição de 1967, com a redação dada pela Emenda Constitucional nº 7, de 1977, ficam investidos na titularidade de varas na seção judiciária para a qual tenham sido nomeados ou designados; na inexistência de vagas, proceder-se-á ao desdobramento das varas existentes.
 
 Parágrafo único. Para efeito de promoção por antiguidade, o tempo de serviço desses juízes será computado a partir do dia de sua posse.
 
 ###### Art. 29.
 Enquanto não aprovadas as leis complementares relativas ao Ministério Público e à Advocacia-Geral da União, o Ministério Público Federal, a Procuradoria-Geral da Fazenda Nacional, as Consultorias Jurídicas dos Ministérios, as Procuradorias e Departamentos Jurídicos de autarquias federais com representação própria e os membros das Procuradorias das universidades fundacionais públicas continuarão a exercer suas atividades na área das respectivas atribuições.
 
-§ 1º O Presidente da República, no prazo de cento e vinte dias, encaminhará ao Congresso Nacional projeto de lei complementar dispondo sobre a organização e o funcionamento da AdvocaciaGeral da União.
+§ 1º O Presidente da República, no prazo de cento e vinte dias, encaminhará ao Congresso Nacional projeto de lei complementar dispondo sobre a organização e o funcionamento da Advocacia-Geral da União.
 
 § 2º Aos atuais Procuradores da República, nos termos da lei complementar, será facultada a opção, de forma irretratável, entre as carreiras do Ministério Público Federal e da Advocacia-Geral da União.
 
@@ -4510,9 +4467,7 @@ O sistema tributário nacional entrará em vigor a partir do primeiro dia do qui
 
 - III -o percentual relativo ao Fundo de Participação dos Municípios, a partir de 1989, inclusive, será elevado à razão de meio ponto percentual por exercício financeiro, até atingir o estabelecido no art. 159, I, b.
 
-§ 3º Promulgada a Constituição, a União, os Estados, o Distrito Federal e os Municípios poderão editar as leis necessárias aplicação do sistema tributário nacional nela previsto.
-
-à
+§ 3º Promulgada a Constituição, a União, os Estados, o Distrito Federal e os Municípios poderão editar as leis necessárias à aplicação do sistema tributário nacional nela previsto.
 
 § 4º As leis editadas nos termos do parágrafo anterior produzirão efeitos a partir da entrada em vigor do sistema tributário nacional previsto na Constituição.
 
@@ -4547,7 +4502,7 @@ III - seis décimos por cento na Região Centro-Oeste, através do Banco do Bras
 ###### Art. 35.
 O disposto no art. 165, § 7º, será cumprido de forma progressiva, no prazo de até dez anos, distribuindo-se os recursos entre as regiões macroeconômicas em razão proporcional à população, a partir da situação verificada no biênio 1986-87.
 
-§ 1º Para aplicação dos critérios de que trata este artigo, excluemse das despesas totais as relativas:
+§ 1º Para aplicação dos critérios de que trata este artigo, excluem-se das despesas totais as relativas:
 
 I - aos projetos considerados prioritários no plano plurianual;
 
@@ -4584,9 +4539,7 @@ Para efeito do cumprimento das disposições constitucionais que impliquem varia
 Parágrafo único. O Congresso Nacional deverá votar no prazo de doze meses a lei complementar prevista no art. 161, II.
 
 ###### Art. 40.
-É mantida a Zona Franca de Manaus, com suas características de área livre de comércio, de exportação importação, e de incentivos fiscais, pelo prazo de vinte e cinco anos, a partir da promulgação da Constituição.
-
-e
+É mantida a Zona Franca de Manaus, com suas características de área livre de comércio, de exportação e importação, e de incentivos fiscais, pelo prazo de vinte e cinco anos, a partir da promulgação da Constituição.
 
 Parágrafo único. Somente por lei federal podem ser modificados os critérios que disciplinaram ou venham a disciplinar a aprovação dos projetos na Zona Franca de Manaus.
 
@@ -4630,7 +4583,7 @@ Parágrafo único. O disposto neste artigo aplica-se também:
 
 I -às operações realizadas posteriormente à decretação dos regimes referidos no caput deste artigo;
 
-- II -às operações de empréstimo, financiamento, refinanciamento, assistência financeira de liquidez, cessão ou subrogação de créditos ou cédulas hipotecárias, efetivação de garantia de depósitos do público ou de compra de obrigações passivas, inclusive as realizadas com recursos de fundos que tenham essas destinações;
+- II - às operações de empréstimo, financiamento, refinanciamento, assistência financeira de liquidez, cessão ou sub-rogação de créditos ou cédulas hipotecárias, efetivação de garantia de depósitos do público ou de compra de obrigações passivas, inclusive as realizadas com recursos de fundos que tenham essas destinações;
 
 III - aos créditos anteriores à promulgação da Constituição;
 
@@ -4642,10 +4595,8 @@ IV -aos créditos das entidades da administração pública anteriores à promul
 
 [[START OF PAGE 45]]
 
-o
-
 ###### Art. 47.
-Na liquidação dos débitos, inclusive suas renegociações e composições posteriores, ainda que ajuizados, decorrentes de quaisquer empréstimos concedidos por bancos e por instituições financeiras, não existirá correção monetária desde que empréstimo tenha sido concedido:
+Na liquidação dos débitos, inclusive suas renegociações e composições posteriores, ainda que ajuizados, decorrentes de quaisquer empréstimos concedidos por bancos e por instituições financeiras, não existirá correção monetária desde que o empréstimo tenha sido concedido:
 
 - I - aos micro e pequenos empresários ou seus estabelecimentos no período de 28 de fevereiro de 1986 a 28 de fevereiro de 1987;
 
@@ -4692,10 +4643,8 @@ A lei disporá sobre o instituto da enfiteuse em imóveis urbanos, sendo faculta
 ###### Art. 50.
 Lei agrícola a ser promulgada no prazo de um ano disporá, nos termos da Constituição, sobre os objetivos e instrumentos de política agrícola, prioridades, planejamento de safras, comercialização, abastecimento interno, mercado externo e instituição de crédito fundiário.
 
-no
-
 ###### Art. 51.
-Serão revistos pelo Congresso Nacional, através de comissão mista, nos três anos a contar da data da promulgação da Constituição, todas as doações, vendas e concessões de terras públicas com área superior a três mil hectares, realizadas período de 1º de janeiro de 1962 a 31 de dezembro de 1987.
+Serão revistos pelo Congresso Nacional, através de comissão mista, nos três anos a contar da data da promulgação da Constituição, todas as doações, vendas e concessões de terras públicas com área superior a três mil hectares, realizadas no período de 1º de janeiro de 1962 a 31 de dezembro de 1987.
 
 § 1º No tocante às vendas, a revisão será feita com base exclusivamente no critério de legalidade da operação.
 
@@ -4717,7 +4666,7 @@ Ao ex-combatente que tenha efetivamente participado de operações bélicas dura
 
 - I -aproveitamento no serviço público, sem a exigência de concurso, com estabilidade;
 
-- II -pensão especial correspondente à deixada por segundotenente das Forças Armadas, que poderá ser requerida a qualquer tempo, sendo inacumulável com quaisquer rendimentos recebidos dos cofres públicos, exceto os benefícios previdenciários, ressalvado o direito de opção;
+- II - pensão especial correspondente à deixada por segundo-tenente das Forças Armadas, que poderá ser requerida a qualquer tempo, sendo inacumulável com quaisquer rendimentos recebidos dos cofres públicos, exceto os benefícios previdenciários, ressalvado o direito de opção;
 
 - III -em caso de morte, pensão à viúva ou companheira ou dependente, de forma proporcional, de valor igual à do inciso anterior;
 
@@ -4732,9 +4681,7 @@ Parágrafo único. A concessão da pensão especial do inciso II substitui, para
 ###### Art. 54.
 Os seringueiros recrutados nos termos do Decreto-Lei nº 5.813, de 14 de setembro de 1943, e amparados pelo Decreto-Lei nº 9.882, de 16 de setembro de 1946, receberão, quando carentes, pensão mensal vitalícia no valor de dois salários mínimos.
 
-a
-
-§ 1º O benefício é estendido aos seringueiros que, atendendo apelo do Governo brasileiro, contribuíram para o esforço de guerra, trabalhando na produção de borracha, na Região Amazônica, durante a Segunda Guerra Mundial.
+§ 1º O benefício é estendido aos seringueiros que, atendendo a apelo do Governo brasileiro, contribuíram para o esforço de guerra, trabalhando na produção de borracha, na Região Amazônica, durante a Segunda Guerra Mundial.
 
 § 2º Os benefícios estabelecidos neste artigo são transferíveis aos dependentes reconhecidamente carentes.
 
@@ -4744,7 +4691,7 @@ a
 Até que seja aprovada a lei de diretrizes orçamentárias, trinta por cento, no mínimo, do orçamento da seguridade social, excluído o seguro-desemprego, serão destinados ao setor de saúde.
 
 ###### Art. 56.
-Até que a lei disponha sobre o art. 195, I, a arrecadação decorrente de, no mínimo, cinco dos seis décimos percentuais correspondentes à alíquota da contribuição de que trata o DecretoLei nº 1.940, de 25 de maio de 1982, alterada pelo Decreto-Lei nº 2.049, de 1º de agosto de 1983, pelo Decreto nº 91.236, de 8 de maio de 1985, e pela Lei nº 7.611, de 8 de julho de 1987, passa a integrar a receita da seguridade social, ressalvados, exclusivamente no exercício de 1988, os compromissos assumidos com programas e projetos em andamento.
+Até que a lei disponha sobre o art. 195, I, a arrecadação decorrente de, no mínimo, cinco dos seis décimos percentuais correspondentes à alíquota da contribuição de que trata o Decreto-Lei nº 1.940, de 25 de maio de 1982, alterada pelo Decreto-Lei nº 2.049, de 1º de agosto de 1983, pelo Decreto nº 91.236, de 8 de maio de 1985, e pela Lei nº 7.611, de 8 de julho de 1987, passa a integrar a receita da seguridade social, ressalvados, exclusivamente no exercício de 1988, os compromissos assumidos com programas e projetos em andamento.
 
 ###### Art. 57.
 Os débitos dos Estados e dos Municípios relativos às contribuições previdenciárias até 30 de junho de 1988 serão liquidados, com correção monetária, em cento e vinte parcelas mensais, dispensados os juros e multas sobre eles incidentes, desde que os devedores requeiram o parcelamento e iniciem seu pagamento no prazo de cento e oitenta dias a contar da promulgação da Constituição.
@@ -4785,9 +4732,9 @@ As entidades educacionais a que se refere o art. 213, bem como as fundações de
 A lei criará o Serviço Nacional de Aprendizagem Rural nos moldes da legislação relativa ao Serviço Nacional de Aprendizagem Industrial e ao Serviço Nacional de Aprendizagem do Comércio , sem prejuízo das atribuições dos órgãos públicos que atuam na área.
 
 ###### Art. 63.
-É criada uma comissão composta de nove membros, sendo Executivo, para promover as comemorações do centenário proclamação da República e da promulgação da primeira Constituição republicana do País, podendo, a seu
+É criada uma comissão composta de nove membros, sendo três do Poder Legislativo, três do Poder Judiciário e três do Poder Executivo, para promover as comemorações do centenário da proclamação da República e da promulgação da primeira Constituição republicana do País, podendo, a seu critério, desdobrar-se em tantas subcomissões quantas forem necessárias.
 
-- três do Poder Legislativo, três do Poder Judiciário e três do Poder da critério, desdobrar-se em tantas subcomissões quantas forem necessárias. Parágrafo único. No desenvolvimento de suas atribuições, a comissão promoverá estudos, debates e avaliações sobre a evolução política, social, econômica e cultural do País, podendo articular-se com os governos estaduais e municipais e com instituições públicas e privadas que desejem participar dos eventos.
+Parágrafo único. No desenvolvimento de suas atribuições, a comissão promoverá estudos, debates e avaliações sobre a evolução política, social, econômica e cultural do País, podendo articular-se com os governos estaduais e municipais e com instituições públicas e privadas que desejem participar dos eventos.
 
 ###### Art. 64.
 A Imprensa Nacional e demais gráficas da União, dos Estados, do Distrito Federal e dos Municípios, da administração direta ou indireta, inclusive fundações instituídas e mantidas pelo
