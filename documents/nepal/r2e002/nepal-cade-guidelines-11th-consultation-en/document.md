@@ -12,7 +12,7 @@
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -42,7 +42,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -52,9 +52,7 @@ The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  C
 
 > 4 https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_summit.pdf
 
-5
-
-> Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)
+> 5 Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)
 
 > 6 Tashkent-declaration-ecce-2022.pdf (unesco.org)
 
@@ -70,11 +68,11 @@ The Futures of Education Report calls for a new social contract for education, w
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation  of  the  right  to  education  in  their  country,  identify  specific  challenges,  build constructive dialogue with other actors involved in this field and share good practices.
 
-In the preparation of reports, Member States are encouraged to provide substantive and relevant information  in  a  concise  manner .  In  addition  to  a  description  of  the  constitutional,  legislative, administrative, and  policy framework  established  for  the implementation  of  the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
+In the preparation of reports, Member States are encouraged to provide substantive and relevant information in a concise manner. In addition to a description of the constitutional, legislative, administrative, and policy framework established for the implementation of the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls' and women's right to education. Information and data regarding countries' education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -98,9 +96,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 4]]
 
@@ -116,7 +114,7 @@ Name of contact person: Baikuntha Prasad Aryal
 
 Email and telephone number of contact person: baikunthaparyal@gmail.com +977 9851138744
 
-# Ratification and applicability of the Convention against Discrimination in Education 10
+# I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -168,7 +166,7 @@ Yes: Have the provisions of the Convention been invoked?
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-# Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+# II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ## 1. Towards an inclusive non-discriminatory education system
 
@@ -248,7 +246,7 @@ Every  citizen shall have  the  right to become  literate, to get  early  childh
 
 - Please provide details:
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -296,7 +294,7 @@ Mobilization of variety of CSOs for advocacy and awareness campaign by doing MOU
 
  Curricula and teaching methods are inclusive in design 18
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  co mpetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -348,7 +346,7 @@ Economic disparities among the people, geographical disparities are facing now. 
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 'Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -392,7 +390,7 @@ Please note that child marriage is a discriminatory practice as often girls can 
 
 - Please provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age:
 
-Muluki Aparadh Samhita Ain 2074BS - https://lawcommission.gov.np/np/wp- content/uploads/2021/01/%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A5%81%E0%A4%95 %E0%A5%80-%E0%A4%85%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%A7-
+Muluki Aparadh Samhita Ain 2074BS - https://lawcommission.gov.np/np/wp-content/uploads/2021/01/%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A5%81%E0%A4%95%E0%A5%80-%E0%A4%85%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%A7-
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
@@ -402,7 +400,7 @@ Muluki Aparadh Samhita Ain 2074BS - https://lawcommission.gov.np/np/wp- content/
 
 [[START OF PAGE 11]]
 
-%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE- %E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AA.pdf
+%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE-%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AA.pdf
 
 #### National minorities:
 
@@ -644,11 +642,11 @@ Constitution, Education Act and Regulation, Comprehensive Education Policy, Free
 
 Social Exclusion, Financial Constraints, Health and Nutrition, Child Labor, Lack of Parental Involvement
 
-## Progress made with respect to implementing the right to education across all levels and forms of education
+## 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 ### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -656,7 +654,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services are accessible on a non- discriminatory basis
+ ECCE services are accessible on a non-discriminatory basis
 
  ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
@@ -708,7 +706,7 @@ Almost ECD teachers are female, the marriage of the female teachers and their mi
 
 ### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 #### Primary education
 
@@ -776,8 +774,6 @@ Four years secondary education for the age of 13-16.
 
 - Please provide the age of enrolment and duration of upper secondary education:
 
-- What challenges were encountered in realizing secondary education?
-
 Four years secondary education for the age of 13-16.
 
 - Is lower and upper secondary education compulsory and free of charge?
@@ -814,11 +810,11 @@ For reference: The employment laws and those related to compulsory education are
 
 Constitution, Education Act and Regulation, , Free and compulsory Education Act, The Act Relating to Children, 2018, Education Sector Plan (SESP), Labor Act.
 
+- What challenges were encountered in realizing secondary education?
+
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
-
-### 2.3 Higher education
 
  Limited access
 
@@ -840,7 +836,9 @@ Link of knowledge with skill and employability, Abroad migration after completei
 
 - Please elaborate. Brief quantitative information may be added.
 
-National  assessment  of  Student  Achievement  shows  the  learning  outcomes  of  Secondary education is very poor and decresing trend in the recent years. Annually about 200 thousands graduates are going abroad for serching better education and better job.
+National assessment of Student Achievement shows the learning outcomes of Secondary education is very poor and decresing trend in the recent years. Annually about 200 thousands graduates are going abroad for serching better education and better job.
+
+### 2.3 Higher education
 
 For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39 , and target 4.4 40 . Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
 
@@ -946,7 +944,7 @@ Major challenge is the accriodiattion of the knowledge and skills from nonformal
 
 ## 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 ### 3.1 General measures
 
@@ -1010,8 +1008,6 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 [[START OF PAGE 23]]
 
-### 3.3 Respect for human rights and fundamental freedoms
-
  Teacher training is provided without discrimination.
 
  Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
@@ -1050,7 +1046,9 @@ Minimum qualification has defined to be a teacher and there is a robust mechanis
 
 - Please elaborate. Brief quantitative information may be added.
 
-Still  big  number  of  teachers  are  required  as  per  the  class  and  student's  ratio.  Low  quality educational infrastructure and the absence of regular mentoring and supervision system and pedagogical teacher support system is not in function, as a result lack of motivation among the teachers for their profession.
+Still big number of teachers are required as per the class and student's ratio. Low quality educational infrastructure and the absence of regular mentoring and supervision system and pedagogical teacher support system is not in function, as a result lack of motivation among the teachers for their profession.
+
+### 3.3 Respect for human rights and fundamental freedoms
 
 [[END OF PAGE 23]]
 
@@ -1168,7 +1166,7 @@ Digital  Nepal  Framework,  ICT  in  Education  Masterplan,  Computer  Science  
 
 - Please elaborate on each of the measures taken:
 
-> 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
+> 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment.
 
 > 45 Lack of internet connection, basic infrastructure or devices.
 
@@ -1204,7 +1202,7 @@ Thera are major four challenges in digital education in Nepal: ICT infrastructur
 
 ## 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states “to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1238,13 +1236,13 @@ https://cehrd.gov.np/file_data/mediacenter_files/media_file-17-428622471.pdf
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
  Other:
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
