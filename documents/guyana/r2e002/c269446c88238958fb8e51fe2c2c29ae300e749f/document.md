@@ -46,29 +46,30 @@ Over the next ten years the providers and stakeholders of TVET will have meaning
 
 In Guyana and the Caribbean Region, the use of the title Technical/Vocational Education and Training (Tech/Voc) was discontinued. It was replaced by the title Technical and Vocational Education and Training (TVET). This title must, therefore, be recognized as the official title for the field of Vocational Education and Training. The following definitions were taken from the Caribbean Glossary of Technical and Vocational Education and Training Terms (1991):
 
-## TECHNICAL AND VOCATIONAL EDUCATION
-developing the particular skills and related knowledge required by a specific occupation
+## i. TECHNICAL AND VOCATIONAL EDUCATION
 
-The broad objectives of Technical and Vocational Education distinguish it from Technical and Vocational Training or Occupational Training which is directed to or group of occupations.
+The broad objectives of Technical and Vocational Education distinguish it from Technical and Vocational Training or Occupational Training which is directed to developing the particular skills and related knowledge required by a specific occupation or group of occupations.
 
 ## ii. EDUCATION AND TRAINING, FORMAL
 
 Systematic education and training programmes which normally take place in schools and other institutions within the regular school and university system.
 
-## EDUCATION AND TRAINING, NON-FORMAL
+## iii. EDUCATION AND TRAINING, NON-FORMAL
 Education and training which takes place within industry and in institutions outside of
 
 the regular school and university system. It includes apprenticeship and part time programmes.
 
 ## iv. EDUCATION AND TRAINING - INFORMAL
 
-The life - long process of learning which goes on continuously and casually for each individual and where knowledge, skills and attitudes are acquired through experience and contact with others.
+The life - long process of learning which goes on continuously and casually for each individual and where knowledge, skills and attitudes are acquired through experience
 
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+and contact with others.
 
 ## v. TRAINING
 
@@ -114,7 +115,7 @@ The training of craftsmen which was done mainly through the apprenticeship syste
 
 - the training of middle and senior level skilled personnel overseas.
 
-As a consequence of this policy, the Government Technical Institute was established in 1951. In the years that followed several other major institutions were established. These include the Guyana School of Agriculture (1963), the Guyana Industrial Training Centre (1968) and the New Amsterdam Technical Institute (1971). Some of the main industrial undertakings in Guyana, including sugar and bauxite, also established their own Training Centres. In addition, training was further expanded with the establishment of the Guyana National Service and some small Training Centres such as the Guyana Electricity Corporation Training Centre, and the Guyana Telecommunications Corporation Training Centre.
+As a consequence of this policy, the Government Technical Institute was established in 1951. In the years that followed several other major institutions were established. These include the
 
 5
 
@@ -122,19 +123,23 @@ As a consequence of this policy, the Government Technical Institute was establis
 
 [[START OF PAGE 6]]
 
+Guyana School of Agriculture (1963), the Guyana Industrial Training Centre (1968) and the New Amsterdam Technical Institute (1971). Some of the main industrial undertakings in Guyana, including sugar and bauxite, also established their own Training Centres. In addition, training was further expanded with the establishment of the Guyana National Service and some small Training Centres such as the Guyana Electricity Corporation Training Centre, and the Guyana Telecommunications Corporation Training Centre.
+
 In the early 1970s the Faculty of Technology was established at the University of Guyana. This input enabled the University to train persons at the Diploma and later at the Degree level in limited fields of engineering. This development can be seen as an up-grading of the policy that was employed in the 1950s.
 
 In 1996 the Linden Technical Training Complex now known as the Linden Technical Institute was handed over to the Ministry of Education by GuyMine. The Essequibo Technical Institute at Anna Regina, Region Two was established in 2001 and the Upper Corentyne Industrial Training Centre at Kingston, Corriverton was established in 2006. Two other Vocational Training Institutions are to be established very shortly. One will be at Groenveldt, Leonora, Region Three and the other at Mahaicony, East Coast Demerara, Region Five. These institutions will address the policy of equality of access in addition to the alleviation of the skills needs of the highly populated regions.
 
 Students of the hinterland regions are awarded scholarships each year to pursue studies in Technical and Vocational Education and Training Programmes at institutions in the Coastal Regions.
 
-In 1973 the Community High Schools were established. Such schools were secondary institutions specially established with curricula that were designed to provide occupational skills necessary for the economic development of the communities in which they were located and concomitantly, the country as a whole. Academic and pre-vocational education subjects were taught for the first three years of the programme, after which students wrote the Secondary Schools' Proficiency Examination (SSPE) Part One. Those students, who were academically inclined, were transferred to a general secondary school so that they could pursue a more academically biased programme after being successful at the Secondary Schools Proficiency Examination about the age of fourteen (14) years. Transfer was entirely dependent on the desire of the student. Those successful students who remained were required to specialize in a pre-vocational education subject for which they had individually, shown the necessary aptitude and interest. The Secondary Schools' Proficiency Examination (SSPE) Part Two was written at the end of the programme in the fourth year.
+In 1973 the Community High Schools were established. Such schools were secondary institutions specially established with curricula that were designed to provide occupational skills necessary for the economic development of the communities in which they were located and concomitantly, the country as a whole. Academic and pre-vocational education subjects were taught for the first three years of the programme, after which students wrote the Secondary Schools' Proficiency Examination (SSPE) Part One. Those students, who were academically inclined, were transferred to a general secondary school so that they could pursue a more academically biased programme after being successful at the Secondary
 
 6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+Schools Proficiency Examination about the age of fourteen (14) years. Transfer was entirely dependent on the desire of the student. Those successful students who remained were required to specialize in a pre-vocational education subject for which they had individually, shown the necessary aptitude and interest. The Secondary Schools' Proficiency Examination (SSPE) Part Two was written at the end of the programme in the fourth year.
 
 Some of the students who successfully pursued this programme were employed in industry as apprentices. Some requested to pursue further studies at the post-secondary institutions while a minority gained employment in their family businesses.
 
@@ -146,7 +151,7 @@ The depression experienced in the economy particularly in the 1980s impacted neg
 
 In 2004 Tecsult International Limited conducted a survey of the Technical and Vocational Education and Training System for the Caribbean Development Bank. In looking at the capacity of the system as it pertains to lecturers/instructors they reported that ' A high percentage of Instructors are deficient in technical skills, pedagogical skills or both '.
 
-As it pertains to tools and equipment they found that ' Tools and equipment at the TIs are out of date, unserviceable or unavailable ' . They further stated that ' The status of current inventory was so bad that a strategic decision was taken not to list and describe every piece of antiquated equipment in 15 PICs, 7 TIs and the UG ' .
+As it pertains to tools and equipment they found that ' Tools and equipment at the TIs are out of date, unserviceable or unavailable ' . They further stated that ' The status of current
 
 7
 
@@ -154,9 +159,11 @@ As it pertains to tools and equipment they found that ' Tools and equipment at t
 
 [[START OF PAGE 8]]
 
+inventory was so bad that a strategic decision was taken not to list and describe every piece of antiquated equipment in 15 PICs, 7 TIs and the UG ' .
+
 A mission from the Caribbean Development Bank visited Guyana during November 14-15, 2006. After visiting three Technical Institutions, they reported that ' The labs and workshops visited are poorly equipped with antiquated tools and machinery many of which are non functional '.
 
-In addition, initial technical teacher training for lecturers/instructors at the post-secondary level which is being offered at the Government Technical Institute (GTI) needs to be better organized and the programme accredited. Initial technical teacher training at the prevocational level that is offered by the Cyril Potter College of Education is not meeting the needs of the system both in terms of the quantity and quality of the graduates.
+In addition, initial technical teacher training for lecturers/instructors at the post-secondary level which is being offered at the Government Technical Institute (GTI) needs to be better organized and the programme accredited. Initial technical teacher training at the pre-vocational level that is offered by the Cyril Potter College of Education is not meeting the needs of the system both in terms of the quantity and quality of the graduates.
 
 The prevailing economic climate does not allow desirable levels of expenditure on Technical and Vocational Education and Training. While funds are provided for the maintenance of the physical plants of the post-secondary institutions and the establishment of new institutions the further development of infrastructure, the retooling of facilities and the acquisition of adequate training materials are now critical and continue to contribute to the decline of the TVET System. These factors exist while both old and new industries alike are equipped with modern facilities. Consequently, employers continue to demand to have an enlightened and skilled workforce.
 
@@ -166,25 +173,25 @@ The prevailing economic climate does not allow desirable levels of expenditure o
 
 [[START OF PAGE 9]]
 
-### MOTTO
+# Section A
 
-:
+## The Council for TVET
+
+### MOTTO:
 
 Excellence in Standards and Quality.
 
-### VISION
-
-:
+### VISION:
 
 The vision of the Council for TVET is:
 
 To ensure a Competent Labour Force to meet the changing demands of global competitiveness.
 
-### MISSION :
+### MISSION:
 
 The Mission of the Council for TVET is instructive in terms of the expected performance of the TVET System nationally. It states as follows:
 
-The work force preparation in Guyana is committed to ensure that Business  and Industry are provided at all levels of occupational standards with workers  who are competent to provide a high quality of products and services as  demanded by global competitiveness.
+The work force preparation in Guyana is committed to ensure that Business and Industry are provided at all levels of occupational standards with workers who are competent to provide a high quality of products and services as demanded by global competitiveness.
 
 The Council for TVET was established by an Act of Parliament on July 22, 2004. The Constitution of the Council as articulated in the Technical and Vocational Education and Training Act of 2004 is as follows:
 
@@ -197,10 +204,6 @@ The Council for TVET was established by an Act of Parliament on July 22, 2004. T
 - from the Ministry of Education and the public, appearing to him as having had experiences of and shown capacity in matters relating to Technical and Vocational Education and Training;
 
 - the Director shall be an ex-officio member of the Council.
-
-# Section A
-
-## The Council for TVET
 
 9
 
@@ -248,7 +251,7 @@ The functions of the Council are:
 
 [[START OF PAGE 11]]
 
-- considers need assistance of such facilities and in doing so shall have regard to any facility otherwise available to those persons;
+considers need assistance of such facilities and in doing so shall have regard to any facility otherwise available to those persons;
 
 - to promote the use of the distance mode of delivery for technical programmes;
 
@@ -290,7 +293,7 @@ iii. ensure that the establishment of private post-secondary institutions by per
 
 - collects information on competencies and emerging trends in the labour market from a variety of sources, including longitudinal studies, and not confined only to traditional occupational classifications.
 
-- ensure that the standard of functional literacy and numeracy is  substantially improved including the  number of graduates from the science and technology programmes;     and
+- ensure that the standard of functional literacy and numeracy is substantially improved
 
 12
 
@@ -298,11 +301,13 @@ iii. ensure that the establishment of private post-secondary institutions by per
 
 [[START OF PAGE 13]]
 
+including the number of graduates from the science and technology programmes; and
+
 - ensure that the ten year plan for Technical and Vocational Education and Training also takes into account the effects of globalization on the economy; the current world economic recession as well as migration of Guyana's citizens.
 
 In  addition,  the  following  inputs  will  be  invaluable in  the quest  to  develop  a  cadre  of  fully trained  persons  such  as  craftpersons,  technologists  and  technicians  as  part  of  the  human capital necessary to impact positively on production and productively:
 
-- training for employment will be intensified by the Ministry of Education through its Technical and Vocational Education and Training programmes in the secondary schools, practical instruction centres and the post- secondary institutions, as well as its special intensive new skills occupational programmes such as, skills for life and skills up-grading training activities which will be offered at both the secondary and postsecondary levels;
+- training for employment will be intensified by the Ministry of Education through its Technical and Vocational Education and Training programmes in the secondary schools, practical instruction centres and the post-secondary institutions, as well as its special intensive new skills occupational programmes such as, skills for life and skills up-grading training activities which will be offered at both the secondary and post-secondary levels;
 
 - the Ministry of Labour through the Board of Industrial Training will contribute to this national effort by its apprenticeship and the youth empowerment skills training programmes;
 
@@ -336,13 +341,15 @@ Increased human and infrastructural development activities at all levels of the 
 
 The development of a modern workforce and the realization of a reservoir of available skills must be seen as a national priority. In the development of such a workforce the curriculum for both the formal and non-formal systems must be upgraded. To this end, a national system of Competency Based Modularized Curriculum will be implemented. Each occupational programme will focus on the development of labour competencies based on the manpower needs of employers.
 
-As we prepare to confront the challenges of the future, there is a consciousness that 'knowledge becomes the basis of human labour but it also becomes increasingly evident that knowledge must be in context and relevant. Education becomes the centre of a new society, and what definitely distinguishes the poor from the rich - be they individuals or countries - is not only whether they have less capital but also whether they have less knowledge and what they have  is of poorer quality. People who cannot produce or consume relevant knowledge run an extremely high risk of exclusion.' The Formujer Programme (2004).
+As we prepare to confront the challenges of the future, there is a consciousness that 'knowledge becomes the basis of human labour but it also becomes increasingly evident that knowledge must be in context and relevant. Education becomes the centre of a new society, and what definitely distinguishes the poor from the rich - be they individuals or
 
 14
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+countries - is not only whether they have less capital but also whether they have less knowledge and what they have is of poorer quality. People who cannot produce or consume relevant knowledge run an extremely high risk of exclusion.' The Formujer Programme (2004).
 
 15
 
@@ -362,13 +369,15 @@ The courses that are being offered by all TVET  institutions will be reviewed an
 
 ### II. CURRICULUM EVALUATION
 
-Curriculum evaluation will be conducted on a formal and informal basis. It must be viewed as an integral part of curriculum implementation. Each new curriculum will be evaluated as a matter of policy. The evaluation process that will be employed will be determined by the curriculum developers. However, for national curriculum a thorough investigation will be done involving context, input, process and product evaluation. While the evaluators can employ one of several techniques in the evaluative process, for national curriculum the evaluators must employ the quantitative and naturalistic techniques.
+Curriculum evaluation will be conducted on a formal and informal basis. It must be viewed as an integral part of curriculum implementation. Each new curriculum will be evaluated as a matter of policy. The evaluation process that will be employed will be determined by the curriculum developers. However, for national curriculum a thorough investigation will be done involving context, input, process and product evaluation. While the evaluators can
 
 16
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+employ one of several techniques in the evaluative process, for national curriculum the evaluators must employ the quantitative and naturalistic techniques.
 
 ### III. PROGRAMME CONTENT
 
@@ -408,7 +417,7 @@ The development of competencies must be promoted, with the involvement of the so
 
 ### V. COMPETENCY BASED MODULARIZED TRAINING
 
-Competency Based Modularized Training will be introduced in both the formal and nonformal systems. The modules will be designed to meet students'/trainees' needs and at the same time develop knowledge, skills, attitudes, values and other attributes that are considered critical towards the attainment of successful and satisfying employment. Entrepreneurial studies will also be offered in these modular programmes. The approach and the flexibility that will be employed with modular training will enable employers to benefit immensely from it.
+Competency Based Modularized Training will be introduced in both the formal and non-formal systems. The modules will be designed to meet students'/trainees' needs and at the same time develop knowledge, skills, attitudes, values and other attributes that are considered critical towards the attainment of successful and satisfying employment. Entrepreneurial studies will also be offered in these modular programmes. The approach and the flexibility that will be employed with modular training will enable employers to benefit immensely from it.
 
 ### VI. FACILITIES AND OCCUPATIONAL STANDARDS
 
@@ -450,7 +459,7 @@ Technical teacher training at the Cyril Potter College of Education and the Gove
 
 - technical teachers who are pursuing initial training will be required to serve short periods of internship  in industry to up-grade their practical skills in specific  areas  of their specialization;
 
-- the initial training programme  for lecturers/instructors of the post-secondary institution at the Government Technical Institute (GTI) will be reorganised and upgraded to conform  with the regulations that govern such training, thus, enabling it to qualify for accreditation by the Ministry of Education or the Accreditation Council;
+- the initial training programme for lecturers/instructors of the post-secondary institution at the Government Technical Institute (GTI) will be reorganised and up-graded to conform with the regulations that govern such training, thus, enabling it to qualify for accreditation by the Ministry of Education or the Accreditation Council;
 
 - the National Centre for Education Resource Development  be used for the hosting and delivery of up-grading and up-dating programmes for technical teachers;
 
@@ -484,7 +493,7 @@ The training of apprentices throughout the country will be standardized. This me
 
 The Council will ensure that the minimum contact hours to be completed by each Lecturer/Instructor, Senior Lecturer and Principal/Administrator of the post-secondary institutions are adhered to by all administrative and teaching staff. The Council will also ensure that Principals/Administrators monitor this very important requirement to ensure compliance.
 
-The impending introduction of Competency-based Modularized Curriculum at the postsecondary institutions will demand that greater attention be paid to the individual student/trainee. Monitoring and documenting of his or her progress must be done on a continuous basis.
+The impending introduction of Competency-based Modularized Curriculum at the post-secondary institutions will demand that greater attention be paid to the individual student/trainee. Monitoring and documenting of his or her progress must be done on a continuous basis.
 
 21
 
@@ -522,7 +531,7 @@ Each post secondary institution will organize and manage its own work experience
 
 ### VI. POST-SECONDARY LEVEL EXAMINATIONS
 
-The Council for TVET will expand the services of the Guyana Technical Education Examinations to issue the CVQ and trade testing in the non-formal sector. If considered necessary, the name of the Guyana Technical Education Examinations will be changed. The examinations will be controlled by a Board with wide powers to ensure efficient and effective administration of all examinations. The Board's work will be carried out by a Secretariat.
+The Council for TVET will expand the services of the Guyana Technical Education Examinations to issue the CVQ and trade testing in the non-formal sector. If considered necessary, the name of the Guyana Technical Education Examinations will be changed. The
 
 23
 
@@ -530,11 +539,13 @@ The Council for TVET will expand the services of the Guyana Technical Education 
 
 [[START OF PAGE 24]]
 
+examinations will be controlled by a Board with wide powers to ensure efficient and effective administration of all examinations. The Board's work will be carried out by a Secretariat.
+
 Persons considered suitably qualified for training in measurement and evaluation will be identified, trained and placed in the Testing and Certification Unit of the Secretariat of the Council for TVET.
 
 All the post-secondary institutions will be required to prepare their students/trainees to meet the standards of the Guyana Technical Education Examinations and the Caribbean Vocational Qualifications (CVQ). Recognition will be given to a course of study if the institution that is offering it meets the requirements of the examining body and the Council for TVET. These include areas such as accommodation, staffing, conditions of entry, length and content of course, approved facilities and occupational standards etc.
 
-Apprentices will be required to satisfy the requirements of the Guyana Technical Education Examination and the Caribbean Vocational Qualification (CVQ) in both the formal and onthe-job aspects of their programme.
+Apprentices will be required to satisfy the requirements of the Guyana Technical Education Examination and the Caribbean Vocational Qualification (CVQ) in both the formal and on-the-job aspects of their programme.
 
 ### VII. SUPERVISION BY EDUCATION OFFICERS
 
@@ -636,7 +647,7 @@ In addition to formal programmes, short internship programmes both locally and o
 
 - ensure that instructors/trainers of Technical and Vocational Education and Training for occupational  fields have relevant qualifications in their field of specialization;
 
-- ensue that s killed professionals working outside education are invited to teach in TVET institutions  in order to link the classrooms more closely to the workplace.
+- ensue that skilled professionals working outside education are invited to teach in TVET institutions in order to link the classrooms more closely to the workplace.
 
 - develop quality standards for lecturers/instructors and create the opportunities for lecturers/instructors to meet such standards; and
 
@@ -694,13 +705,15 @@ The Council for Technical and Vocational Education and Training will license and
 
 ### IX. ESTABLISHMENT OF NEW SCHOOLS/INSTITUTIONS
 
-When the need for new technical and vocational education institution is identified, whether through research or social demand the Ministry of Education and the Council for TVET will consider such demand, and if feasible establish such an institution. Existing structures that house the workshops and laboratories of practical instruction centres which do not satisfy today's criteria in terms of accommodation for laboratory, library and workshop facilities along with adequate sanitary facilities etc. will be modernized.
+When the need for new technical and vocational education institution is identified, whether through research or social demand the Ministry of Education and the Council for TVET will
 
 31
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+consider such demand, and if feasible establish such an institution. Existing structures that house the workshops and laboratories of practical instruction centres which do not satisfy today’s criteria in terms of accommodation for laboratory, library and workshop facilities along with adequate sanitary facilities etc. will be modernized.
 
 A study will be undertaken to determine the feasibility of the establishment of additional industrial training centres in some of the regions. In addition, the use of Mobile Training Units in remote areas of the coast and the hinterland to deliver programmes at the pre-vocational education level and where appropriate at the post-secondary level will also be investigated and implemented by the Ministry of Education in collaboration with the regions that will be the beneficiaries if found to be feasible.
 
@@ -736,7 +749,7 @@ Accreditation of courses and post-secondary/tertiary institutions is the respons
 
 ### XIII. SAFETY
 
-The law governing Occupational Health and Safety and its regulations will inform the day-today safety practices of the post-secondary institutions, the practical instruction centres and the practical instruction departments as well as laboratories. Safety in the workshops, laboratories, school farms and even classrooms will be given a higher priority in the future. The Manual for the Organization and Management of Workshops/Laboratories in the Technical and Vocational Education and Training institutions must be used on a daily basis. Safety will also be stressed in the curriculum for the initial training of technical teachers. In addition, workshops and seminars will be held from time-to-time to continually sensitize technical teachers, their support staff and supervisors about safe working practices. Appropriate safety posters and stickers will be used in workshops and laboratories as constant reminders of good safety habits to the users and visitors of such facilities.
+The law governing Occupational Health and Safety and its regulations will inform the day-to-day safety practices of the post-secondary institutions, the practical instruction centres and the practical instruction departments as well as laboratories. Safety in the workshops, laboratories, school farms and even classrooms will be given a higher priority in the future. The Manual for the Organization and Management of Workshops/Laboratories in the Technical and Vocational Education and Training institutions must be used on a daily basis. Safety will also be stressed in the curriculum for the initial training of technical teachers. In addition, workshops and seminars will be held from time-to-time to continually sensitize technical teachers, their support staff and supervisors about safe working practices. Appropriate safety posters and stickers will be used in workshops and laboratories as constant reminders of good safety habits to the users and visitors of such facilities.
 
 33
 
@@ -750,7 +763,7 @@ Students/Trainees records at all the post-secondary institutions under the Minis
 
 ### XV. REWARDS AND INCENTIVES
 
-The Ministry of Education will expand on the award of rewards and incentives to the postsecondary institutions for outstanding performances. Awards and incentives will now be given to students/trainees; members of administrative staff; members of the tutorial staff; members of the clerical and other support staff and the institution itself. The incentives that are to be awarded will take various forms. The recommendations for the award of such incentives will be made by the Board of Governors.
+The Ministry of Education will expand on the award of rewards and incentives to the post-secondary institutions for outstanding performances. Awards and incentives will now be given to students/trainees; members of administrative staff; members of the tutorial staff; members of the clerical and other support staff and the institution itself. The incentives that are to be awarded will take various forms. The recommendations for the award of such incentives will be made by the Board of Governors.
 
 ### XVI. SECURITY
 
@@ -772,7 +785,7 @@ At the primary level, the exposure continues through an integrated curriculum ap
 
 At the secondary level, pre-vocational education is offered in secondary departments of primary schools, practical instruction departments of secondary schools and practical instruction centres.
 
-The Government through the Ministry of Education will completely restructure the secondary education programme in Guyana with the main focus on the phasing out of the Community High Schools. This restructuring will also see the expansion of the multiple path ways through the Secondary Competency Certificate Programme.  This will have a positive impact on prevocational education in the secondary sector because of its mode of delivery which must be consistent with the strategies that are employed with Competency Based Modularized Programmes.
+The Government through the Ministry of Education will completely restructure the secondary education programme in Guyana with the main focus on the phasing out of the Community High Schools. This restructuring will also see the expansion of the multiple path ways through the Secondary Competency Certificate Programme. This will have a positive impact on pre-vocational education in the secondary sector because of its mode of delivery which must be consistent with the strategies that are employed with Competency Based Modularized Programmes.
 
 Students will be permitted to progress at their own pace. The secondary reform will also entail the production of texts, teaching materials and the development of strategies to deal with children in the above-average and below average ability ranges.
 
@@ -788,15 +801,15 @@ Beyond grade nine students will be engaged in the pre-vocational education subje
 
 The weighting of the pre-vocational education subjects offered at the practical instruction departments of secondary schools, and the practical instruction centres will be adjusted. For the first three years, each student will be exposed to a double period of tuition in each subject area. This arrangement will permit the acquisition of skills and competencies that will assist in determining whether the student will pursue a technical and vocational education subject option leading to the Caribbean Examination Council (CXC) and or the Secondary Competency Certificate Programme (SCCP) as well as the Caribbean Advance Proficiency Examination (CAPE).
 
-Students pursuing the Caribbean Examination Council (CXC) programme in a particular prevocational education subject area will be exposed to tuition of four to six periods, while those pursuing the SCCP will be exposed to forty percent of the total timetable in the particular prevocational discipline.
+Students pursuing the Caribbean Examination Council (CXC) programme in a particular pre-vocational education subject area will be exposed to tuition of four to six periods, while those pursuing the SCCP will be exposed to forty percent of the total timetable in the particular pre-vocational discipline.
 
 ### II. PRE-VOCATIONAL SUBJECT AREAS
 
 The subject areas that are offered in the pre-vocational education programmes are:
 
-TITLE OF SUBJECT AREAS | SUBJECTS
+TITLE OF SUBJECT AREAS | SUBJECTS |
 --- | --- | ---
-SCCP | CXC
+ | SCCP | CXC
 Agricultural Science | Crops, Livestock, Agriculture Engineering. | The Business of Farming, Crop Production, Animal Production, Horticulture*, Animal Management* (*Double Award).
 Visual Arts | Art, Fabric Decoration, Fibre Craft, Leather Craft. | Ceramics, Drawing, Imaginative Composition, Graphic Design, Print
 
@@ -806,11 +819,10 @@ Visual Arts | Art, Fabric Decoration, Fibre Craft, Leather Craft. | Ceramics, Dr
 
 [[START OF PAGE 37]]
 
-Making, 3-Dimensional Design, Fibre Arts, Surface/Textile Decoration, Leather Craft and Decorative Craft.
---- | --- | ---
+ |  | Making, 3-Dimensional Design, Fibre Arts, Surface/Textile Decoration, Leather Craft and Decorative Craft.
 Home Economics | Catering, Garment Construction, Household Management, Cosmetology, Interior Decorating, Care of Special Groups Day-Care/Elderly. | Food and Nutrition, Clothing and Textiles, and Home Management.
-Industrial Technology | Technical Drawing, Bench Fitting, Carpentry, Joinery, Electrical Installation, Masonry, Plumbing, Metal Machining, Motor Vehicle, Sheet Metal Work, Welding. | Electrical and Electronic Technology, Mechanical Engineering Technology , Building Technology - Woods/Construction, and Technical Drawing.
-Business Education | Electronic Process Documentation, Management, Office Administration, Typewriting, Principles of Accounts, Principles of Business, Accounts, Economics, and Information Technology.
+Industrial Technology | Technical Drawing, Bench Fitting, Carpentry, Joinery, Electrical Installation, Masonry, Plumbing, Metal Machining, Motor Vehicle, Sheet Metal Work, Welding. | Electrical and Electronic Technology, Mechanical Engineering Technology , Building Technology – Woods/Construction, and Technical Drawing.
+Business Education |  | Electronic Process Documentation, Management, Office Administration, Typewriting, Principles of Accounts, Principles of Business, Accounts, Economics, and Information Technology.
 
 ### III. AGRICULTURAL SCIENCE
 
@@ -834,11 +846,9 @@ This subject area is compulsory for all students at secondary schools up to and 
 
 ### V. INDUSTRIAL TECHNOLOGY
 
-At the secondary school level all students up to grade nine will be exposed to Industrial for Industrial Technology will pursue one or more subjects of their choice.
+At the secondary school level all students up to grade nine will be exposed to Industrial Technology as a compulsory subject area. At the end of the third year those students who opt for Industrial Technology will pursue one or more subjects of their choice.
 
-As in the other subject areas, a cumulative record will be kept on each student. This will also be used in the evaluative process.
-
-Technology as a compulsory subject area. At the end of the third year those students who opt provide useful information for would-be employers. Additionally, the SCCP assessment will
+As in the other subject areas, a cumulative record will be kept on each student. This will provide useful information for would-be employers. Additionally, the SCCP assessment will also be used in the evaluative process.
 
 Like other pre-vocational education subject areas the third year Annual Examination, as well as, a cumulative record card for each student will be used to provide useful information for the selection of students in the pre-vocational stream in Industrial Technology. At the end of the fourth year most students would have completed the Secondary Competency Certificate Programme and towards the end of the fifth year, students will write the Caribbean Secondary Education Certificate Examination by the Caribbean Examinations Council.
 
@@ -862,13 +872,15 @@ This subject area is introduced at Grade nine in secondary schools. The students
 
 Practical instruction centres are institutions which provide pre-vocational education programmes in Agricultural Science, Home Economics and Industrial Technology. They are Grade 'A', Grade 'B' or Grade 'C' centres according to the number of students who attend them. Practical instruction centres provide training in the required subject area or areas where there are little or no facilities in the secondary schools within easy access of such centres.
 
-Practical instruction centres will also facilitate the continuing education programmes organized by the Adult Education Association, the Board of Industrial Training or the Ministry of Education. In this way special programmes will be offered to out-of-school youth leading to recognized certification and self-employable skills. One such programme is the Skills for Life Programme which was established to train out-of-school youth.
+Practical instruction centres will also facilitate the continuing education programmes organized by the Adult Education Association, the Board of Industrial Training or the Ministry of Education. In this way special programmes will be offered to out-of-school youth
 
 39
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
+
+leading to recognized certification and self-employable skills. One such programme is the Skills for Life Programme which was established to train out-of-school youth.
 
 40
 
@@ -920,7 +932,7 @@ As such the Government of Guyana through the Ministry of Education, the Ministry
 
 - promote a national programme of computer education and training for the primary, secondary and post-secondary levels;
 
-- promote the implementation of Entrepreneurship Education at all postsecondary institutions and those practical instruction centres and practical instruction departments offering the Secondary Competency Certificate Programme and the Skills for Life Programme;   and
+- promote the implementation of Entrepreneurship Education at all post-secondary institutions and those practical instruction centres and practical instruction departments offering the Secondary Competency Certificate Programme and the Skills for Life Programme; and
 
 - ensure that all students get better information and guidance about the choices available to them as they progress from the general education system to the post-secondary Technical and Vocational Education and Training System.
 
