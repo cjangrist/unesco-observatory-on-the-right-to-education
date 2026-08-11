@@ -1,6 +1,13 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+KINGDOM OF CAMBODIA
+NATION RELIGION KING
+
+Ministry of Education, Youth and Sport
+
+# Policy on Higher Education Vision 2030
+
+April 2014
 
 [[END OF PAGE 1]]
 
@@ -20,11 +27,52 @@ April 2014
 
 ## Table of Contents
 
+Page
+Preface 1
+1. Introduction 2
+2. Vision 3
+3. Goals 3
+4. Objectives 3
+5. Strategies 3
+6. Action Plan 5
+6.1. Organizational Structure 5
+6.1.1. The Supreme National Council of Education 5
+6.1.2. Technical Working Group on Higher Education (TWG-HE) 5
+6.1.3. Implementing Ministries and Institutes 5
+6.1.3.1. The Ministry of Education, Youth and Sport 5
+6.1.3.2. Higher Education Institutions 5
+6.1.3.3. The Accreditation Committee of Cambodia 6
+6.1.3.4. Parents and Students 6
+6.1.3.5. Development Partners including Civil Society organizations 6
+6.2. Legal Framework 6
+6.3. Financial Support 6
+6.4. Capacity Development 7
+6.5. Project Implementation 7
+6.6. Monitoring and Evaluation 7
+7. CONCLUSION 7
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-(this page came through the extractor with no text)
+## Preface
+
+Higher Education plays an important role in human resource development and it is a key sub-sector contributing to socio-economic development of each nation. Realizing this value, the Royal Government of Cambodia has regarded Higher Education as an important sub-sector for developing human capital which enables the development of Cambodia towards high-middle income country and high income country in the future. This far-sighted vision of the Royal Government is clearly reflected in the Rectangular Strategies-Phase III. Linking to the Strategies, many reforms are being carried out to improve quality of, and equitable access to, higher education so as to produce graduates who will become both economically competitive and socially responsible.
+
+Globalization and regional integration have significant impacts on all sectors of Cambodian economy; therefore, higher education development needs to adapt and conform to global and regional trends. Responding to this context, the Ministry of Education, Youth and Sport has formulated Cambodian Higher Education Vision 2030 aiming at identifying long-term direction and clear roadmap for development of this sub-sector.
+
+Cambodian Higher Education Vision 2030 will ensure comprehensive equity and access for students, efficient and smooth coordination and management of higher education, necessary mechanisms to support higher education system, and development of human resources who will contribute fully to national development. This policy document also lists down key Strategies and Action Plan for successful implementation of the Vision.
+
+The Ministry wishes to thanks any individuals and institutions involved in developing this document.
+
+The Ministry strongly hopes that all concerned institutions, development partners and stakeholders continue to contribute to and support the implementation of the Vision to ensure its success in strengthening the quality of higher education in Cambodia.
+
+Phnom Penh, 04 April, 2014
+Minister of Education, Youth and Sport
+
+Dr. HANG CHUON NARON
+
+1
 
 [[END OF PAGE 4]]
 
@@ -94,7 +142,7 @@ To develop a good governance system and higher education mechanisms that ensure 
 
 - 5.3.1. HEIs  are  licensed  to  operate  only  if  they  can  demonstrate  having  appropriate infrastructure, human resources, financial strength, management structures, development  plans,  and  internal  quality  assurance  processes  that  ensure  high quality program delivery to students.
 
-- 5.3.2. Build HEIs' capacity to meet national standards on governance and management based on regional and international guidelines.
+- 5.3.2. Build HEIs’ capacity to meet national standards on governance and management based on regional and international guidelines.
 
 - 5.3.3. Develop minimum standards to make Cambodian undergraduate and postgraduate programs comparable with regional and international standards.
 
@@ -124,9 +172,9 @@ To develop a good governance system and higher education mechanisms that ensure 
 
 - 5.7.2. Develop a plan to improve governance and management in the higher education sector;
 
-- 5.7.3. Develop  a  plan  for  the  creation  of  a  'model'  university  in  Cambodia  which operates autonomously and with high quality.
+- 5.7.3. Develop a plan for the creation of a “model” university in Cambodia which operates autonomously and with high quality.
 
-### 5.8. Ensure that relevant ministries and agencies coordinate and collaborate to maximise the impact of HE on Cambodia's economic, industrial, commercial, agricultural, social and cultural development.
+### 5.8. Ensure that relevant ministries and agencies coordinate and collaborate to maximise the impact of HE on Cambodia’s economic, industrial, commercial, agricultural, social and cultural development.
 
 4
 
@@ -150,11 +198,11 @@ To  enable  the  management  and  implementation  of  the  policy,  three  level
 
 The Supreme National Council of Education, based on the Education Law - Article 5, has the following responsibilities:
 
-- Propose long-term education policy & strategies aimed at meeting social & economic development needs of the Royal Government;
+- A. Propose long-term education policy & strategies aimed at meeting social & economic development needs of the Royal Government;
 
-- Overall  assessment  of  education,  technical  &  professional  training  carried  out  in Cambodia;
+- B. Overall assessment of education, technical & professional training carried out in Cambodia;
 
-- Seek resources for education.
+- C. Seek resources for education.
 
 #### 6.1.2. Technical Working Group on Higher Education (TWG-HE)
 
@@ -170,11 +218,11 @@ The Ministry of Education Youth and Sport has the critical role of coordination 
 
 Higher Education Institutions have responsibilities as follows:
 
-- Develop the HEI mission, strategic plan and capacity development plan consistent with the HE Strategic Plan and Action Plan;
+- A. Develop the HEI mission, strategic plan and capacity development plan consistent with the HE Strategic Plan and Action Plan;
 
-- Establish  internal  quality  assurance  mechanisms  and  conduct  regular  internal  selfassessment of the management  and  programmes  according  to regulations and guidelines provided by the Ministry of Education, Youth and Sport;
+- B. Establish internal quality assurance mechanisms and conduct regular internal self-assessment of the management and programmes according to regulations and guidelines provided by the Ministry of Education, Youth and Sport;
 
-- Submit  self-assessment  reports  to  ACC  for  accreditation.  Strengthen  the  monitoring system  within  the  HE  Monitoring  Framework,  prepare  annual  progress  reports  and submit them to the Ministry of Education, Youth and Sport;
+- C. Submit self-assessment reports to ACC for accreditation. Strengthen the monitoring system within the HE Monitoring Framework, prepare annual progress reports and submit them to the Ministry of Education, Youth and Sport;
 
 5
 
@@ -182,29 +230,29 @@ Higher Education Institutions have responsibilities as follows:
 
 [[START OF PAGE 9]]
 
-- Participate in the HE Annual Operational Planning and Review process;
+- D. Participate in the HE Annual Operational Planning and Review process;
 
-- Strengthen  financial  management  and  procurement  systems  within  the  HEI  assuring the proper use of all resources to improve the quality of programmes offered;
+- E. Strengthen financial management and procurement systems within the HEI assuring the proper use of all resources to improve the quality of programmes offered;
 
-- Strengthen  organizational  governance  and  human  resources  management  and  ensure sufficient capacity to use the authority given under the HEI autonomy and accountability framework;
+- F. Strengthen organizational governance and human resources management and ensure sufficient capacity to use the authority given under the HEI autonomy and accountability framework;
 
-- Build  twinning  programmes or  networks  with  HEIs  abroad  and  collaborate  with  the private sector;
+- G. Build twinning programmes or networks with HEIs abroad and collaborate with the private sector;
 
-- Promote research activities that a) support improvement in the quality of teaching and learning;  b)  address  priority  subjects  c)  solve  local  development  issues  d)  lead  to increased economic growth.
+- H. Promote research activities that a) support improvement in the quality of teaching and learning; b) address priority subjects c) solve local development issues d) lead to increased economic growth.
 
-##### 6.1.3.3 . The Accreditation Committee of Cambodia
+##### 6.1.3.3. The Accreditation Committee of Cambodia
 
 The Accreditation Committee of Cambodia (ACC) has responsibilities as follows:
 
-- Establish and implement the progress of higher education accreditation systems;
+- A. Establish and implement the progress of higher education accreditation systems;
 
-- Coordinate  with  the  relevant  ministries  in  the  development  and  implementation  of accreditation systems;
+- B. Coordinate with the relevant ministries in the development and implementation of accreditation systems;
 
-- Conduct external assessments of the performance of HEIs against minimum standards and  post the results of the external assessments on  its website for public  information;
+- C. Conduct external assessments of the performance of HEIs against minimum standards and post the results of the external assessments on its website for public information;
 
-- Participate as a member of the Higher Education Sub-sector Working Group.
+- D. Participate as a member of the Higher Education Sub-sector Working Group.
 
-##### 6.1.3.4 . Parents and Students
+##### 6.1.3.4. Parents and Students
 
 Parents and Students have the right to actively and fully express their concerns about higher education in order to improve the quality of programme provision. They have the right to receive academic information and records from relevant academic institutions.
 
@@ -218,11 +266,11 @@ The Education Law provides comprehensive legal provisions for the higher educati
 
 ### 6.3. Financial Support
 
-The  development  of  the  higher  education  sub-sector  requires  sufficient  financial resources and effective use of those resources to enable the implementation of the Policy and HE Strategic  Plan.  In  the  current  context  of  financial  constraint,  the  higher  education  subsector needs to put emphasis on key innovative interventions within the next five years which call for more effective use of financial resources. Those interventions could include:
+The development of the higher education sub-sector requires sufficient financial resources and effective use of those resources to enable the implementation of the Policy and HE Strategic Plan. In the current context of financial constraint, the higher education sub-sector needs to put emphasis on key innovative interventions within the next five years which call for more effective use of financial resources. Those interventions could include:
 
-- Strengthening  HEIs  autonomy,  accountability  and  financial  management  systems assuring the resources for high quality provision of higher education programmes. This intervention  not  only  increases  student  enrolment  in  higher  education  but  increases institutional revenues and produces skilled graduates;
+- A. Strengthening HEIs autonomy, accountability and financial management systems assuring the resources for high quality provision of higher education programmes. This intervention not only increases student enrolment in higher education but increases institutional revenues and produces skilled graduates;
 
-- Strengthen research, innovation capacity and activities that will have a direct effect on the  capability  of  graduates  to  enter  into  the  ever-changing  labour  market  as  well  as
+- B. Strengthen research, innovation capacity and activities that will have a direct effect on the capability of graduates to enter into the ever-changing labour market as well as
 
 6
 
@@ -230,11 +278,11 @@ The  development  of  the  higher  education  sub-sector  requires  sufficient  
 
 [[START OF PAGE 10]]
 
-generate  financial  resources  for  the  HEI  from  development  partners  and  the  private sector.  The findings of such research and innovation activities will also contribute to economic growth;
+generate financial resources for the HEI from development partners and the private sector. The findings of such research and innovation activities will also contribute to economic growth;
 
-- Strengthen  higher  education  systems  in  planning;  regulating  and  supporting  HEI development; governance; monitoring and review; financial management and reporting.
+- C. Strengthen higher education systems in planning; regulating and supporting HEI development; governance; monitoring and review; financial management and reporting.
 
-- Build  higher  education  capacity  to  generate  more  financial  resources  from  public income, development partners, and civil society organizations.
+- D. Build higher education capacity to generate more financial resources from public income, development partners, and civil society organizations.
 
 ### 6.4. Capacity Development
 
@@ -248,21 +296,21 @@ The  Ministry  of  Education,  Youth  and  Sport  will  consult  with  the  Mini
 
 To  ensure  this  policy  will  be  successfully  implemented,  it  is  necessary  to  have  a monitoring and evaluation system that focuses on achievement of:
 
-- x Measurable targets and strategies  in the higher education strategic plan;
+- Measurable targets and strategies in the higher education strategic plan;
 
-- x Results against targets.
+- Performance Indicators in the higher education strategic plan;
 
-- x Performance Indicators in  the higher education strategic plan;
+- Results against targets.
 
 ## 7. CONCLUSION
 
-The achievement and consolidation of an effective primary and secondary education sub-sector, the shift in economic structure and labour market need together with the need for regional  and  global  integration  urged  the  Cambodian  government  to  revisit  its  higher education sub-sector. Within this context, higher education was given more priority in ESP 2014-2018  compared  with  its  ESP  predecessors.  The  new  priority  given  to  the  higher education sub-sector is also in line with 'Human Resource Development' strategy, one of the four pillars of the Royal Government Rectangular Strategy III. To enable the implementation of  the  Policy  on  Vision  for  Higher  Education  2030,  the  Royal  Government  of  Cambodia ensures implementation of the following tasks:
+The achievement and consolidation of an effective primary and secondary education sub-sector, the shift in economic structure and labour market need together with the need for regional and global integration urged the Cambodian government to revisit its higher education sub-sector. Within this context, higher education was given more priority in ESP 2014-2018 compared with its ESP predecessors. The new priority given to the higher education sub-sector is also in line with “Human Resource Development” strategy, one of the four pillars of the Royal Government Rectangular Strategy III. To enable the implementation of the Policy on Vision for Higher Education 2030, the Royal Government of Cambodia ensures implementation of the following tasks:
 
-- x Establishment of Supreme National Council of Education;
+- Establishment of Supreme National Council of Education;
 
-- x Establishment of a HE Technical Working Group and Secretariat;
+- Establishment of a HE Technical Working Group and Secretariat;
 
-- x Approval of the National Policy on Vision for Higher Education 2030 followed by the development of a HE Strategic Plan and Action Plan 2014-2018.
+- Approval of the National Policy on Vision for Higher Education 2030 followed by the development of a HE Strategic Plan and Action Plan 2014-2018.
 
 Concerned  ministries,  government  agencies,  higher  education  institutions,  and  development partners,  including  civil  society  organizations,  shall  contribute  to  the  dissemination  of  the National Policy on Vision for Higher Education 2030 and implement the HE Strategic Plan and Action Plan 2014-2018.
 
