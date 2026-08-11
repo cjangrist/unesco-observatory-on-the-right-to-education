@@ -8,7 +8,7 @@ OF JUNE 5, 1953
 
 OF MARCH 27, 1953
 
-1
+
 
 [[END OF PAGE 1]]
 
@@ -16,7 +16,7 @@ OF MARCH 27, 1953
 
 The Constitutional Act of Denmark of June 5, 1953 Published by the Folketing Copenhagen 1999 The text is identical with that of Fact Sheet/Denmark (010279/7) of the Royal Danish Ministry of Foreign Affairs Layout by Peter Bysted Design A/S and Mary Imer Sørensen Printed by J.H. Schultz Grafisk A/S ISBN 87-89756-31-2
 
-2
+
 
 [[END OF PAGE 2]]
 
@@ -110,13 +110,15 @@ The King shall appoint and dismiss the Prime Minister and the other Ministers. H
 
 (1) A Minister shall not remain in office after the Folketing has approved a vote of no confidence in him.
 
-(2) When the Folketing passes a vote of no confidence in the Prime Minister, he shall ask for the dismissal of the Ministry unless writs are to be issued for a general election. Where a vote of censure has been passed on a Ministry, or it has asked for its dismissal, it shall continue in office until a new Ministry has been appointed. Ministers who remain in office as aforesaid shall perform only what may be necessary to ensure the uninterrupted conduct of official business.
+(2) When the Folketing passes a vote of no confidence in the Prime Minister, he shall ask for the dismissal of the Ministry unless writs are to be issued for a general election. Where a vote of censure has been passed on a Ministry, or it has asked for its dismissal, it shall continue in office until a new Ministry has been appointed. Ministers who remain in office as aforesaid shall per-
 
 6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+form only what may be necessary to ensure the uninterrupted conduct of official business.
 
 ### § 16
 
@@ -234,13 +236,15 @@ The Folketing shall consist of one assembly of not more than one hundred and sev
 
 (1) The members of the Folketing shall be elected by general and direct ballot.
 
-(2) Rules for the exercise of the suffrage shall be laid down by the Election Act, which, to secure equal representation of the various opinions of the electorate, shall prescribe the manner of election and decide whether proportional representation shall be adopted with or without elections in single-member constituencies.
+(2) Rules for the exercise of the suffrage shall be laid down by the Election Act, which, to secure equal representation of the various opinions of the electorate, shall prescribe the manner of election and decide whether proportional representa-
 
 12
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+tion shall be adopted with or without elections in single-member constituencies.
 
 (3) In determining the number of seats to be allotted to each area account shall be taken of the number of inhabitants, the number of electors, and the density of population.
 
@@ -310,13 +314,15 @@ The Folketing shall meet in the place where the Government has its seat, except 
 
 ### § 39
 
-The President of the Folketing shall convene the meetings of the Folketing, stating the Order of the Day. The President shall convene a meeting of the Folketing upon a request being made in writing by at least two-fifths of the members of the Folketing or the Prime Minister, stating the Order of the Day.
+The President of the Folketing shall convene the meetings of the Folketing, stating the Order of the Day. The President shall convene a meeting of the
 
 15
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+Folketing upon a request being made in writing by at least two-fifths of the members of the Folketing or the Prime Minister, stating the Order of the Day.
 
 ### § 40
 
@@ -342,11 +348,11 @@ Ministers shall be entitled to attend the sittings of the Folketing ex officio a
 
 (1) Where a Bill has been passed by the Folketing, one-third of the members of the Folketing may, within three weekdays from the final passing of the Bill, request of the President that the Bill be submitted to a referendum. Such request shall be made in writing and signed by the members making the request.
 
-(2) Except in the instance mentioned in subsection (7), no Bill which may be submitted to a referendum (see sub-section (6)), shall receive the Royal Assent before the expiration of the time limit stated in sub-section (1), or before a referendum requested as aforesaid has taken place.
+(2) Except in the instance mentioned in sub-section (7), no Bill which may be submitted to a referendum (see sub-section (6)), shall receive the Royal Assent before the expiration of the time limit stated in sub-section (1), or before a referendum requested as aforesaid has taken place.
 
 (3) Where a referendum on a Bill has been requested the Folketing may, within a period of five weekdays from the final passing of the Bill, resolve that the Bill shall be withdrawn.
 
-(4) Where the Folketing has made no resolution in accordance with sub-section (3), notice that the Bill is to be submitted to a referendum shall be given without delay to the Prime Minister, who shall then cause the Bill to be published together with a statement that a referendum is to be held. The referendum shall be held, in accordance with the decision of the Prime Minister, not less than twelve and not more than eighteen weekdays after the publication of the Bill.
+(4) Where the Folketing has made no resolution in accordance with sub-section (3), notice that the Bill is to be submitted to a referendum shall be given without delay to the Prime Minister, who shall then cause the Bill to be published together with a statement that a referendum is to be held. The referendum shall be held, in accordance with the decision of the Prime Minister, not less than
 
 17
 
@@ -354,17 +360,21 @@ Ministers shall be entitled to attend the sittings of the Folketing ex officio a
 
 [[START OF PAGE 18]]
 
+twelve and not more than eighteen weekdays after the publication of the Bill.
+
 (5) At the referendum votes shall be cast for or against the Bill. For the Bill to be rejected, a majority of the electors who vote and not less than thirty per cent of all persons who are entitled to vote, shall have voted against the Bill.
 
 (6) Finance Bills, Supplementary Appropriation Bills, Provisional Appropriation Bills, Government Loan Bills, Civil Servants (Amendment) Bills, Salaries and Pensions Bills, Naturalization Bills, Expropriation Bills, Taxation (Direct and Indirect) Bills, as well as Bills introduced for the purpose of discharging existing treaty obligations shall not be submitted to decision by referendum. This provision shall also apply to the Bills referred to in sections 9, 8, 10, and 11, and to such resolutions as are provided for in section 19, if existing in the form of a law, unless it has been prescribed by a special Act that such resolutions shall be submitted to referendum. Amendments to the Constitutional Act shall be governed by the rules laid down in section 88.
 
-(7) In an emergency a Bill which may be submitted to a referendum may receive the Royal Assent immediately after it has been passed, provided that the Bill contains a provision to this effect. Where, under the rules of sub-section (1), onethird of the members of the Folketing request a referendum on the Bill or on the Act to which the Royal Assent has been given, such referendum shall be held in accordance with the above rules. Where the Act is rejected by the referendum an announcement to that effect shall be made by the Prime Minister without undue delay, and not later than fourteen days after the referendum was held. From the date of such announcement the Act shall become ineffective.
+(7) In an emergency a Bill which may be submitted to a referendum may receive the Royal Assent immediately after it has been passed, provided that the Bill contains a provision to this effect. Where, under the rules of sub-section (1), one-third of the members of the Folketing request a referendum on the Bill or on the Act to which the
 
 18
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+Royal Assent has been given, such referendum shall be held in accordance with the above rules. Where the Act is rejected by the referendum an announcement to that effect shall be made by the Prime Minister without undue delay, and not later than fourteen days after the referendum was held. From the date of such announcement the Act shall become ineffective.
 
 (8) Rules for referenda, including the extent to which referenda shall be held in the Faroe Islands and in Greenland, shall be laid down by statute.
 
@@ -382,13 +392,15 @@ No taxes shall be imposed, altered, or repealed except by statute; nor shall any
 
 (1) A Finance Bill for the next fiscal year shall be submitted to the Folketing not later than four months before the beginning of such fiscal year.
 
-(2) Where it is expected that the reading of the Finance Bill for the next fiscal year will not be completed before the commencement of that fiscal year, a Provisional Appropriation Bill shall be laid before the Folketing.
+(2) Where it is expected that the reading of the Finance Bill for the next fiscal year will not be completed before the commencement of that fiscal
 
 19
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+year, a Provisional Appropriation Bill shall be laid before the Folketing.
 
 ### § 46
 
@@ -454,13 +466,15 @@ The members of the Folketing shall be bound solely by their own consciences and 
 
 ### § 57
 
-No member of the Folketing shall be prosecuted or imprisoned in any manner whatsoever without the consent of the Folketing, unless he is taken in flagrante delicto. Outside the Folketing no member shall be held liable for his utterances in the Folketing save by the consent of the Folketing.
+No member of the Folketing shall be prosecuted or imprisoned in any manner whatsoever without the consent of the Folketing, unless he is taken in flagrante delicto. Outside the Folketing
 
 22
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+no member shall be held liable for his utterances in the Folketing save by the consent of the Folketing.
 
 ### § 58
 
@@ -500,13 +514,15 @@ The administration of justice shall always remain independent of executive autho
 
 ### § 63
 
-(1) The courts of justice shall be empowered to decide any question relating to the scope of the executive's authority; though any person wishing to question such authority shall not, by taking the case to the courts of justice, avoid temporary compliance with orders given by the executive authority.
+(1) The courts of justice shall be empowered to decide any question relating to the scope of the
 
 24
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+executive's authority; though any person wishing to question such authority shall not, by taking the case to the courts of justice, avoid temporary compliance with orders given by the executive authority.
 
 (2) Questions relating to the scope of the executive's authority may by statute be referred for decision to one or more administrative courts, except that an appeal against the decision of the administrative courts shall be referred to the highest court of the Realm. Rules governing this procedure shall be laid down by statute.
 
@@ -518,13 +534,14 @@ In the performance of their duties the judges shall be governed solely by the la
 
 (1) In the administration of justice all proceedings shall to the widest possible extent be public and oral.
 
-(2) Laymen shall participate in criminal proceedings. The cases and the form in which such participation shall take place, including which cases shall be tried by jury, shall be provided for by statute.
+(2) Laymen shall participate in criminal proceedings. The cases and the form in which such participation shall take place, including which cases
 
 25
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+shall be tried by jury, shall be provided for by statute.
 
 ## PART VII
 
@@ -586,13 +603,14 @@ The dwelling shall be inviolable. House search, seizure, and examination of lett
 
 (1) The right of property shall be inviolable. No person shall be ordered to surrender his property except where required in the public interest. It shall be done only as provided by statute and against full compensation.
 
-(2) Where a Bill has been passed relating to the expropriation of property, one-third of the members of the Folketing may, within three weekdays from the final passing of such Bill, demand that it shall not be presented for the Royal Assent until new elections to the Folketing have been held and the Bill has again been passed by the Folketing assembling thereafter.
+(2) Where a Bill has been passed relating to the expropriation of property, one-third of the mem-
 
 28
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+bers of the Folketing may, within three weekdays from the final passing of such Bill, demand that it shall not be presented for the Royal Assent until new elections to the Folketing have been held and the Bill has again been passed by the Folketing assembling thereafter.
 
 (3) Any question of the legality of an act of expropriation, and the amount of compensation, may be brought before the courts of justice. The hearing of issues relating to the amount of the compensation may by statute by referred to courts of justice established for such purpose.
 
@@ -602,7 +620,7 @@ Any restraint on the free and equal access to trade, which is not based on the p
 
 ### § 75
 
-(1) In order to advance the public interest, efforts shall be made to guarantee work for every ablebodied citizen on terms that will secure his existence.
+(1) In order to advance the public interest, efforts shall be made to guarantee work for every able-bodied citizen on terms that will secure his existence.
 
 (2) Any person unable to support himself or his dependants shall, where no other person is responsible for his or their maintenance, be entitled to receive public assistance, provided that he shall comply with the obligations imposed by statute in such respect.
 
@@ -726,13 +744,14 @@ On the death of a King who leaves no issue entitled to succeed to the throne, th
 
 ## § 4
 
-Where there is no person entitled to succeed to the throne under the rules of sections 2 and 3, the throne shall pass to the then nearest collateral line of the descendants of King Christian X and Queen Alexandrine, in accordance with the lineal descent, and with precedence correspondingly for men over women, and for the elder over the younger as laid down in sections 2 and 3.
+Where there is no person entitled to succeed to the throne under the rules of sections 2 and 3, the throne shall pass to the then nearest collateral line of the descendants of King Christian X and
 
 34
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+Queen Alexandrine, in accordance with the lineal descent, and with precedence correspondingly for men over women, and for the elder over the younger as laid down in sections 2 and 3.
 
 ## § 5
 
