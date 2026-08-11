@@ -1,37 +1,62 @@
 [[START OF PAGE 1]]
 
-REGISTERED NO.  DL--(I'Q04/000712003--12
+रजिस्ट्री सं॰ डी॰ एल॰—(एन)04/0007/2003—12
+REGISTERED NO. DL—(N)04/0007/2003—12
 
-OiQIEf((Uj
+भारत का राजपत्र
+The Gazette of India
 
-EX'IRAORDINARY
+असाधारण
+EXTRAORDINARY
 
-'11'1 n--1
+भाग II—खण्ड 1
+PART II—Section 1
 
-PART llSection 1
+प्राधिकार से प्रकाशित
+PUBLISHED BY AUTHORITY
 
-'!llftrlliR  'V 'RlftR!
+सं॰ 30] नई दिल्ली, शुक्रवार, जून 8, 2012/ज्येष्ठ 18, 1934 (शक)
+No. 30] NEW DELHI, FRIDAY, JUNE 8, 2012/JYAISTHA 18, 1934 (SAKA)
 
-PUBLISHED  BY AtJIHORITY
-
-"'~.  ~ "ff8, 20121 ~ 18,  1934  (11'1;) NEWDEUII, FRIDAY, JUNE 8, 2012/ JYAISTHA 18,1934 (SAKA)
-
-~301 No. 30)
-
-lU '11'1 'if  f'A ~ftllr  ~;mitt~ fll; ~  ~ ~  ~ l"i  'if  \WI 011 WI Seponte paglna is given to this Part in order that it may be filed  11 a separate compilation.
+इस भाग में भिन्न पृष्ठ संख्या दी जाती है जिससे कि यह अलग संकलन के रूप में रखा जा सके।
+Separate paging is given to this Part in order that it may be filed as a separate compilation.
 
 # MINISTRY OF LAW AND JUSTICE
 ## (Legislative Department)
 
-New Delhi, 8 June, 20 12/Jyaistha 18, 1934 (Saka)
+New Delhi, 8 June, 2012/Jyaistha 18, 1934 (Saka)
 
-The  following  Act of Parliament received  the  assent  of the  President  on  the 7th June, 2012, and is hereby published for general information:-
+The following Act of Parliament received the assent of the President on the 7th June, 2012, and is hereby published for general information:—
 
-# THE NATIONAL INSTITUTES OF TECHNOLOGY (AMENDMENT) ACT,2012
+# THE NATIONAL INSTITUTES OF TECHNOLOGY (AMENDMENT) ACT, 2012
 
 No. 28 OF 2012
 
-An Act to amend the National Institutes ofTechnology  Act, 2007.
+An Act to amend the National Institutes of Technology Act, 2007.
+
+[7th June, 2012]
+
+BE it enacted by Parliament in the Sixty-third Year of the Republic of India as follows:—
+
+## Short title and commencement.
+
+1. (1) This Act may be called the National Institutes of Technology (Amendment) Act, 2012.
+
+(2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.
+
+29 of 2007.
+
+## Amendment of long title.
+
+2. In the National Institutes of Technology Act, 2007 (hereinafter referred to as the principal Act), in the long title, for the words “certain institutions of technology”, the words “certain institutions of technology, science education and research” shall be substituted.
+
+## Amendment of section 1.
+
+3. In section 1 of the principal Act, in sub-section (1), for the words “National Institutes of Technology”, the words “National Institutes of Technology, Science Education and Research” shall be substituted.
+
+## Amendment of section 2.
+
+4. In section 2 of the principal Act, for the words “the Schedule”, the words “the First Schedule and the Second Schedule” shall be substituted.
 
 [[END OF PAGE 1]]
 
@@ -39,238 +64,239 @@ An Act to amend the National Institutes ofTechnology  Act, 2007.
 
 2
 
-TilE GAZETTE OF INDIA EXTRAORDINARY
+THE GAZETTE OF INDIA EXTRAORDINARY
 
-[PARTU-
+[PART II—
 
-## Amendment  of section 3.
+## Amendment of section 3.
 
-5. In section 3 of  the principal Act,-
+5. In section 3 of the principal Act,—
 
-(I) in  clause (c),  for  the words ''the  Schedule"  at  both the places  where they occur, the words "the First Schedule and the Second Schedule" shall be substi1Uted;
+(i) in clause (c), for the words “the Schedule” at both the places where they occur, the words “the First Schedule and the Second Schedule” shall be substituted;
 
-(h) in clause (d), after the word and figures "section 30", the words, brackets, figures  and letter "or sub-section (I) of section 30A,  as the case may be," shall be inserted;
+(ii) in clause (d), after the word and figures “section 30”, the words, brackets, figures and letter “or sub-section (1) of section 30A, as the case may be,” shall be inserted;
 
-(lir} in clause (g), for the words "the Schedule", the words "the First Schedule and the  Second Schedule" shall be substituted;
+(iii) in clause (g), for the words “the Schedule”, the words “the First Schedule and the Second Schedule” shall be substituted;
 
-(tv) in clause (k), for the words "the Schedule", the words "the First Schedule and the  Second Schedule" shall be substituted;
+(iv) in clause (k), for the words “the Schedule”, the words “the First Schedule and the Second Schedule” shall be substituted;
 
-(v) in clause (m),  for the words "the Schedule", the words "the First Schedule and the  Second Schedule" shall be substituted.
+(v) in clause (m), for the words “the Schedule”, the words “the First Schedule and the Second Schedule” shall be substituted.
 
-## Amendment  or section 4.
-6.  In section 4  of  the principal Act, in sub-section (1}, for the words ''the  Schedule", the words ''the  First Schedule and the  Second Schedule" shall be substituted.
+## Amendment of section 4.
+
+6. In section 4 of the principal Act, in sub-section (1), for the words “the Schedule”, the words “the First Schedule and the Second Schedule” shall be substituted.
 
 ## Amendment of section 6.
 
-- lnsection6 of  the principal  Act, in sub-section (I), in clause (h), the words "and the Deputy Director" shall be omitted.
+7. In section 6 of the principal Act, in sub-section (1), in clause (h), the words “and the Deputy Director” shall be omitted.
 
-## Amendment of section II.
+## Amendment of section 11.
 
-## Insertion of new section llA.
+8. In section 11 of the principal Act,—
 
-### Board  of InstituteS  of Second Schedule.
+(i) for the word “Institute” wherever it occurs, the words “Institute mentioned in the First Schedule” shall be substituted;
 
-- In section 11  of  the principal Act,-
+(ii) in clause (e), the word “and” occurring at the end shall be omitted;
 
-( t) for the word "Institute" wherever it occurs, the words "Institute menticmed in the First Schedule" shall be substituted;
+(iii) after clause (f), the following clause shall be inserted, namely:—
 
-(tl) in clause (e), the word "and" occurring at the end shall be omitted;
+“(g) the Director of the Indian Institute of Technology in whose zone the Institute is located, or his nominee, not below the rank of a Professor.”.
 
-(iir} after clause (jj, the following clause shall be inserted, namely:-
+## Insertion of new section 11A.
 
-"(g) the Director of  the Indian Institute of  Technology in whose zone the Institute is located, or his nominee, not below the rank of  a Professor.".
+### Board of Institutes of Second Schedule.
 
-- After section 11 of  the principal Act, the following section shall be inserted, namely:-
+9. After section 11 of the principal Act, the following section shall be inserted, namely:—
 
-"llA. The Board of every Institute mentioned in the Second  Schedule shall consist of  the following members, namely:-
+“11A. The Board of every Institute mentioned in the Second Schedule shall consist of the following members, namely:—
 
-( a) the Chairperson to be nominated by the Visitor;
+(a) the Chairperson to be nominated by the Visitor;
 
-(b) Secretary, Department of  Higher Education, Government of India,  or his nominee not below the rank of the  Joint Secretary to the  Government of India, ex officio;
+(b) Secretary, Department of Higher Education, Government of India, or his nominee not below the rank of the Joint Secretary to the Government of India, ex officio;
 
-(c) Director of  the Institute, ex officio;
+(c) Director of the Institute, ex officio;
 
-(d) Director of Indian lnstituteofScience, Bangalore, ex officio;
+(d) Director of Indian Institute of Science, Bangalore, ex officio;
 
-(e) Director of  one of  the Indian Institutes ofTechnology, to be nominated by the Central Government;
+(e) Director of one of the Indian Institutes of Technology, to be nominated by the Central Government;
 
-(j) two Secretaries to the Government of India, to be nominated by the Central Government representing its Scientific or Industrial Ministries;
+(f) two Secretaries to the Government of India, to be nominated by the Central Government representing its Scientific or Industrial Ministries;
 
-(g) Chief  Secretary of  the State in which the Institute is located, or his noillinee not below the rank of  the Joint Sec@IBJy !9  _the: Government of  India, ex officio; ··
+(g) Chief Secretary of the State in which the Institute is located, or his nominee not below the rank of the Joint Secretary to the Government of India, ex officio;
 
-(h) two professors of  the Institute to be nominated by the Senate;
+(h) two professors of the Institute to be nominated by the Senate;
 
-(r) two eminent scientists, tobe nominated by the Council, having special knowledge or practical experience in respect of  education, engineering or science, one of  whom shall be a woman; and  .
+(i) two eminent scientists, to be nominated by the Council, having special knowledge or practical experience in respect of education, engineering or science, one of whom shall be a woman; and
 
-(j) Financial Advl<or,  Ministry  of Human  Resource  Development, ex officio. ".
+(j) Financial Advisor, Ministry of Human Resource Development, ex officio.”.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-SEC.  I]
+SEC. 1]
 
-THEGAZETTEOFINDIAEXTRAORDINARY
+THE GAZETTE OF INDIA EXTRAORDINARY
 
 3
 
-- IO.Io section 12 ofthe principa!Act,-
+## Amendment of section 12.
 
-(z) in clause (c), after the figures "II", the words, brackets, letters and figures "and clause (h) of  section  II  A" shall be inserted;
+10. In section 12 of the principal Act,—
 
-(iz) in clause (d), after the word and figures "section II", the words, figures and letter "or section II A, as the case may be," shall be inserted;
+(i) in clause (c), after the figures “11”, the words, brackets, letters and figures “and clause (h) of section 11A” shall be inserted;
 
-(iiz) in clause(/), after the figures" 11 ",the words, brackets, letters and figures "lllld clauses (c) and (h) of  section II  A" shall be inserted.
+(ii) in clause (d), after the word and figures “section 11”, the words, figures and letter “or section 11A, as the case may be,” shall be inserted;
 
-- In section 17 of  the principa!Act,-
+(iii) in clause (f), after the figures “11”, the words, brackets, letters and figures “and clauses (c) and (h) of section 11A” shall be inserted.
 
-(a) in sub-section(/), the words "and Deputy Director''  shall be omitted;
+## Amendment of section 17.
 
-(b) for sub-section (5), the following sub-section shall be substituted, namely:-
+11. In section 17 of the principal Act,—
 
-"(5) The Deputy Director of  every Institute shall  be appointed in  such manner and on such terms and conditions as may be laid down by the Statutes and shall exercise such powers and perform such duties as may be assigned to him by this Act or the Statutes or by the Director.".
+(a) in sub-section (1), the words “and Deputy Director” shall be omitted;
 
-- 12 In section 24 of  the principal Act, the words "and Deputy Director" shall be omitted.
+(b) for sub-section (5), the following sub-section shall be substituted, namely:—
 
-- In section 30 of  the principal Act, in sub-section (/), for the word "Schedule", the words "First Schedule" shall be substituted.
+“(5) The Deputy Director of every Institute shall be appointed in such manner and on such terms and conditions as may be laid down by the Statutes and shall exercise such powers and perform such duties as may be assigned to him by this Act or the Statutes or by the Director.”.
 
-" 14.  After  section  30 of the principal Act,  the  following  section  shall  be  inserted, namely:-
+## Amendment of section 24.
 
-"30A.  (/) With effect from  such  date  as the Central  Government may,  by notification,  specify  in  this  behalf,  there  shall be  established  fer  all  the  Institutes specified in column 3 of  the Second Schedule, a  central body to be called the Council.
+12. In section 24 of the principal Act, the words “and Deputy Director” shall be omitted.
 
-- The Council under sub-section(/) shall consist of  the following members, namely:-
+## Amendment of section 30.
 
-(a) the Minister in charge of the Ministry or Department of the Central Government having administrative control of  the technical education, ex officio, Chairman· '
+13. In section 30 of the principal Act, in sub-section (1), for the word “Schedule”, the words “First Schedule” shall be substituted.
 
-(b) the Secretary to the Government of  India in charge of  the Ministry or Department of the Central  Government having administrative control of the technical education, ex officio, Vice-Chairman;
+## Insertion of new section 30A.
 
-(c)  the  Chairperson of every  Board of the  Institutes  mentioned  in  the Second Schedule, ex officio;
+### Establishment of Council for the Institutes of Second Schedule.
 
-(d) the Director of every  Institute  mentioned  in the  Second  Schedule, ex officio;
+14. After section 30 of the principal Act, the following section shall be inserted, namely:—
+
+“30A. (1) With effect from such date as the Central Government may, by notification, specify in this behalf, there shall be established for all the Institutes specified in column 3 of the Second Schedule, a central body to be called the Council.
+
+(2) The Council under sub-section (1) shall consist of the following members, namely:—
+
+(a) the Minister in charge of the Ministry or Department of the Central Government having administrative control of the technical education, ex officio, Chairman;
+
+(b) the Secretary to the Government of India in charge of the Ministry or Department of the Central Government having administrative control of the technical education, ex officio, Vice-Chairman;
+
+(c) the Chairperson of every Board of the Institutes mentioned in the Second Schedule, ex officio;
+
+(d) the Director of every Institute mentioned in the Second Schedule, ex officio;
 
 (e) the Chairman, University Grants Commission, ex officio;
 
-(j) the Director General, Council of Scientific and  Industrial  Research, ex officio;
+(f) the Director General, Council of Scientific and Industrial Research, ex officio;
 
-(g) four Secretaries to the Government of  India to represent the Ministries or Departments of  the Centtal GoVtifali.mt<!ealilrg with bio-technology, atomic energy, information technology and space, ex officio;
+(g) four Secretaries to the Government of India to represent the Ministries or Departments of the Central Government dealing with bio-technology, atomic energy, information technology and space, ex officio;
 
-(h) the  Chairman,  Defence  Research  and  Development Organisation, ex officio;
+(h) the Chairman, Defence Research and Development Organisation, ex officio;
 
-(i) not less than three, but not more than five persons to be nominated by the Visitor, at least one of  whom shall be a woman, having special knowledge or practical experience in respect of  education, industry, science or technology;
-
-## Amendment of section 12.
-
-## Amendment  of section 17.
-
-## Amendment of section 24.
-## Amendment of section  30.
-
-## Insertion of new section JOA.
-
-### Establishment of Council  for the Institutes of Second Schedule.
+(i) not less than three, but not more than five persons to be nominated by the Visitor, at least one of whom shall be a woman, having special knowledge or practical experience in respect of education, industry, science or technology;
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-11ffi OAZEITEOF INDIA EXTRAORDINARY
-
-[PARr I!-
-
 4
 
-(/) three members of Parliament, of whom two shall be chosen by the House of  the People and ooe by the Council of  States:
+THE GAZETTE OF INDIA EXTRAORDINARY
 
-Provided that the office of  member of the Council shall not disqualify its holderforbeingchosen as or for being, amemberofeither House of Parliament;
+[PART II—
 
-(k) two Secretaries to the State Government, from amongst the Ministries or Departments of  that Government dealing with teclmical education where the Institute is located, ex officio;
+(j) three members of Parliament, of whom two shall be chosen by the House of the People and one by the Council of States:
 
-(1)  Financial Adviser, dealing with the  Human  Resource  Development Milristry or Departments of  that Government dealing with technical education where the Institute is located, ex officio; and
+Provided that the office of member of the Council shall not disqualify its holder for being chosen as or for being, a member of either House of Parliament;
 
-(m) one officer  not below the rank of  the Joint ~retaryto the Government of India  in  the  Ministry  or  Department of the  Central  Government having administrative  control  of  the scientific or  technical  education, ex afficlo, Member-Secretary.".
+(k) two Secretaries to the State Government, from amongst the Ministries or Departments of that Government dealing with technical education where the Institute is located, ex officio;
 
-Amendment 15. In section 31  of the  principal Act,  in  sub-section (2),  after  the  word  and of section  31. figures  usection 30", the  words.  brackets,  letters  and  figures  "and  clause  (}1  of sub-section (2) of  section 30A" shall be inserted.
+(l) Financial Adviser, dealing with the Human Resource Development Ministry or Departments of that Government dealing with technical education where the Institute is located, ex officio; and
 
-## Amendment of section 3  7 .
+(m) one officer not below the rank of the Joint Secretary to the Government of India in the Ministry or Department of the Central Government having administrative control of the scientific or technical education, ex officio, Member-Secretary.”.
 
-## Transitional provisions  in respect of Institutes  of Second Schedule.
+## Amendment of section 31.
 
-## Power to remove difficUlties.
+15. In section 31 of the principal Act, in sub-section (2), after the word and figures “section 30”, the words, brackets, letter and figures “and clause (j) of sub-section (2) of section 30A” shall be inserted.
 
-16. In section 3  7 of  the principal Act,-
+## Amendment of section 37.
 
-(I) in clause (a), after the words "every Institute", the words ''mentioned  in the First Schedule" shall be inserted;
+16. In section 37 of the principal Act,—
 
-(il) after clause (b),.the following clauses shall be inserted, namely:-
+(i) in clause (a), after the words “every Institute”, the words “mentioned in the First Schedule” shall be inserted;
 
-"(  c)  recruitment process  and disciplinary  proceedings,  which  had commenced before the commencement of  the National InstiMes ofTechnology (Amendment) Act, 2012,  shall be completed, mutatis mutandis, in accordance with the relevant provisions in force immediately before such commencement.
+(ii) after clause (b), the following clauses shall be inserted, namely:—
 
-Explanation.-Recruitment process  for  a post may  be  taken  to  have commenced from the date of  publication of  the advertisement inviting application for the post, and disciplinary proceedings against an employee of  the Institute may be taken to have commenced on the date of  issue of  charge sheet for major penalty or show cause notice for minor penalty to such employee;
+“(c) recruitment process and disciplinary proceedings, which had commenced before the commencement of the National Institutes of Technology (Amendment) Act, 2012, shall be completed, mutatis mutandis, in accordance with the relevant provisions in force immediately before such commencement.
 
-(d)  all  matters,  which  are  meant to  be  provided  through  Statutes  and Ordinances under sections 25 and 27, respectively, shall, till such Statutes and Ordinances are made, be governed, mutatis mutandis, by the  corresponding provisions in force immediately before the commencement of  1his Act.".
+Explanation.—Recruitment process for a post may be taken to have commenced from the date of publication of the advertisement inviting application for the post, and disciplinary proceedings against an employee of the Institute may be taken to have commenced on the date of issue of charge sheet for major penalty or show cause notice for minor penalty to such employee;
 
-17. Notwithstanding anything contained in  this Act-
+(d) all matters, which are meant to be provided through Statutes and Ordinances under sections 25 and 27, respectively, shall, till such Statutes and Ordinances are made, be governed, mutatis mutandis, by the corresponding provisions in force immediately before the commencement of this Act.”.
 
-(a) the Board of every Institute specified in the Second Schedule functioning as  such immediately before the  commencement of this Act shall continue to  so function until a new Board is constituted for that Institute under this Act, but on the  constitution of a new  Board under this Act, members  of the  Board holding office before such constitution shall cease to hold office;
+## Transitional provisions in respect of Institutes of Second Schedule.
 
-(b) every Senate constituted in  relation  to  every  Institute  before  the commencement of this Act shall be deemed to be the Senate constituted under this Act unless a Senate is constituted under this Act for that Ins($te but on the constitution of  new Senate under this Act, members of  the Senate holding office beforesuch constitution shall "~lease to  hold-office.
+17. Notwithstanding anything contained in this Act—
 
-18. (I) If any  difficulty arises in giving effect to the provisions of the National Institutes  of Technology  (Amendment) Act,  2012, the  Central Government  may,  by order published  in the  Official Gazette,  make such provisions not  inconsistent  with  the provisions of this Act as may appear to it to be necessary or expedient for  removing the difficulty:
+(a) the Board of every Institute specified in the Second Schedule functioning as such immediately before the commencement of this Act shall continue to so function until a new Board is constituted for that Institute under this Act, but on the constitution of a new Board under this Act, members of the Board holding office before such constitution shall cease to hold office;
+
+(b) every Senate constituted in relation to every Institute before the commencement of this Act shall be deemed to be the Senate constituted under this Act unless a Senate is constituted under this Act for that Institute but on the constitution of new Senate under this Act, members of the Senate holding office before such constitution shall cease to hold office.
+
+## Power to remove difficulties.
+
+18. (1) If any difficulty arises in giving effect to the provisions of the National Institutes of Technology (Amendment) Act, 2012, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to it to be necessary or expedient for removing the difficulty:
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-SFC.  I]
+SEC. 1]
 
-THE GAZETIE Of INDIA EXTRAORDINARY
+THE GAZETTE OF INDIA EXTRAORDINARY
 
 5
 
-~
+Provided that no such order shall be made after the expiry of a period of two years from the date of commencement of this Act.
 
-.
+(2) Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.
 
-Provided that no such order shall be made after the expiry of  a period of  two years from the date of  commencement of  this Act.
+## Amendment of Schedule.
 
-- Every order made under this section shall, as soon as may be after it is made, be laid before each House of  Parliament.
+19. (1) The Schedule to the principal Act shall be numbered as the First Schedule and in the First Schedule as so numbered, after Sl. No. 20 and the entries relating thereto, the following shall be inserted, namely:—
 
-- I  9.  (/)The  Schedule to the principal Act shall be numbered as the First Schedule and in the First Schedule as so numbered, after Sl. No~ 20 and the entries relating thereto, the following shall be inserted, namely·-
-
-"21. | National Institute of Technology, Goa, Society | Nationallnstitute of Technology, Goa.
---- | --- | ---
+“21. | National Institute of Technology, Goa, Society | National Institute of Technology, Goa.
 22. | National Institute of Technology, Puducherry Society | National Institute of Technology, Puducherry.
-23~ | National Institute of Technology, Delhi Society | National Institute of Technology, Delhi.
+23. | National Institute of Technology, Delhi Society | National Institute of Technology, Delhi.
 24. | National Institute of Technology, Sumari (Srinagar), Uttarakhand Society | National Institute of Technology, Uttarakhand.
-25~ | National Institute of Technology, Sohra (Megbalaya) Society | National Institute of Technology, Meghalaya.
-26. | National Institute of Technology, Mizoram Society | National Institute of Technology, Mizonun.
-'2:1. | National Institute of Technology, Manipur Society | National Institute of Technology, Manipur~
+25. | National Institute of Technology, Sohra (Meghalaya) Society | National Institute of Technology, Meghalaya.
+26. | National Institute of Technology, Mizoram Society | National Institute of Technology, Mizoram.
+27. | National Institute of Technology, Manipur Society | National Institute of Technology, Manipur.
 28. | National Institute of Technology, Nagaland Society | National Institute of Technology, Nagaland.
 29. | National Institute of Technology, Arunachal Pradesh Society | National Institute of Technology, Arunachal Pradesh.
-30. | National Institute of Technology, Sikkim | National Institute of Technology, Sikkim.".
+30. | National Institute of Technology, Sikkim | National Institute of Technology, Sikkim.”.
 
-(2) After the FtrSt Schedule as so numbered, the following  Schedule shall be inserted, namely:-
+(2) After the First Schedule as so numbered, the following Schedule shall be inserted, namely:—
 
-## "THE SECOND SCHEDULE
+## “THE SECOND SCHEDULE
+
+[See sections 3(g), (m), 4(1) and 11A]
+
+### LIST OF INDIAN INSTITUTES OF SCIENCE EDUCATION RESEARCH
 
 Sl. No. | Society | Corresponding Institute
 --- | --- | ---
-I | 2 | 3
-I. | Indian Institute of Science Education and Research, Kolkata Society | Indian Institute of Science Education and Research, Kolkata.
-2 | Indian Institute of Science Education and Research, Pune Society | Indian Institute of Science Education and Research, Pune.
-3. | Indian Institute of Science Education and Research, Mohali Society | Indian Institute of Science Education and Research, MohalL
+1 | 2 | 3
+1. | Indian Institute of Science Education and Research, Kolkata Society | Indian Institute of Science Education and Research, Kolkata.
+2. | Indian Institute of Science Education and Research, Pune Society | Indian Institute of Science Education and Research, Pune.
+3. | Indian Institute of Science Education and Research, Mohali Society | Indian Institute of Science Education and Research, Mohali.
 4. | Indian Institute of Science Education and Research, Bhopal Society | Indian Institute of Science Education and Research, Bhopal.
-5. | Indian Institute of Science Education and Research, Thiruvananthapuram Society | Indian Institute of Science Education and Research, Thiruvananthapuram."~
+5. | Indian Institute of Science Education and Research, Thiruvananthapuram Society | Indian Institute of Science Education and Research, Thiruvananthapuram.”.
 
-[See sections 3(g), (m), 4(/) and II  A]
-### LIST OF INDIAN INSTITUTES OF SCIENCE  EDUCATION RE5EAROI
+V. K. BHASIN,
+Secretary to the Govt. of India.
 
-V. K. BHASIN, Secretary to the ovt~ of India~
-
-PRINTED BY DIRECTORATE or PRlNTING AT GOVERNMENT OF INDIA PRESS, MINTO ROAD, NEW DELHI AND PUBLISHED BY TilE CONIROLLER OF  PUBLICATIONS. DELH1, 2012.
-
-## Amendment of Schedule~
-
-M IPMRN0-1480 l(S3H-6-2012~
+PRINTED BY DIRECTORATE OF PRINTING AT GOVERNMENT OF INDIA PRESS, MINTO ROAD, NEW DELHI AND
+PUBLISHED BY THE CONTROLLER OF PUBLICATIONS, DELHI, 2012.
+GMGIPMRND—1480GI(S3)—8-6-2012.
 
 [[END OF PAGE 5]]
