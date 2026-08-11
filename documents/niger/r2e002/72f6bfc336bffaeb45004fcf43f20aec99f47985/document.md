@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+# PRÉAMBULE
+
 Nous, Peuple nigérien souverain
 
 -Résolu à  consolider  les  acquis  de  la  République  et  de  l'indépendance  nationale  proclamées respectivement  le  18  décembre  1958  et  le  3  août  1960  ainsi  que  ceux  de  la  Conférence  nationale souveraine qui a réuni du 29 juillet au 3 novembre 1991 l'ensemble des forces vives de la Nation ;
@@ -32,8 +34,6 @@ L'Etat du Niger est une République indépendante et souveraine.
 Toute atteinte à la forme Républicaine de l'Etat et aux institutions démocratiques est un crime de haute trahison puni comme tel par la loi.
 
 La capitale de la République du Niger est Niamey.
-
-# PRÉAMBULE
 
 [[END OF PAGE 1]]
 
@@ -111,7 +111,7 @@ La  Cour  constitutionnelle  veille  à  la  régularité  des  opérations  de 
 ### Art. 7 -
 Le suffrage est direct ou indirect. Il est universel, libre, égal et secret.
 
-Sont électeurs, dans les conditions déterminées par la loi, les Nigériens des deux (2) sexes, âgés de dixhuit  (18)  ans  accomplis  au  jour  du  scrutin  ou  mineurs  émancipés,  jouissant  de  leurs  droits  civils  et politiques.
+Sont électeurs, dans les conditions déterminées par la loi, les Nigériens des deux (2) sexes, âgés de dix-huit (18) ans accomplis au jour du scrutin ou mineurs émancipés, jouissant de leurs droits civils et politiques.
 
 ### Art. 8 -
 La République du Niger est un Etat de droit.
@@ -308,7 +308,7 @@ L'Etat  a  le  devoir  d'assurer  la  traduction  et  la  diffusion  en  langues
 Il  garantit  l'enseignement  de  la  Constitution,  des  droits  humains  et  l'éducation  civique  à  tous  les niveaux de formation.
 
 ### Art. 44 -
-Une Commission nationale veille à la promotion et à l'effectivité des droits et des libertés cidessus consacrés.
+Une Commission nationale veille à la promotion et à l'effectivité des droits et des libertés ci-dessus consacrés.
 
 La Commission nationale des droits humains est une autorité administrative indépendante.
 
@@ -443,13 +443,13 @@ En cas de décès, la vacance est constatée par la Cour constitutionnelle saisi
 
 En cas de démission, la vacance est constatée par la Cour constitutionnelle saisie par le Président de la République démissionnaire.
 
-Il  est  procédé  à  de  nouvelles  élections  présidentielles  quarante-cinq  (45)  jours,  au  moins  et  quatrevingt-dix (90) jours, au plus, après l'ouverture de la vacance.
+Il est procédé à de nouvelles élections présidentielles quarante-cinq (45) jours, au moins et quatre-vingt-dix (90) jours, au plus, après l'ouverture de la vacance.
 
 Lorsque le président de l'Assemblée nationale assure l'intérim du Président de la République dans les conditions énoncées aux alinéas ci-dessus, il ne peut, sauf démission de sa part ou renonciation à l'intérim, se  porter  candidat  aux  élections  présidentielles.  Il  exerce  les  attributions  dévolues  au  Président  de  la République, à l'exception de celles prévues aux articles 59, 60 et 61.
 
 En cas de démission du président de l'Assemblée nationale ou de renonciation à l'intérim de sa part, l'intérim du Président de la République est assuré par les vice-présidents de l'Assemblée nationale, dans l'ordre de préséance.
 
-En  cas  de  mise  en  accusation  du  Président  de  la  République  devant  la  Haute  Cour  de  justice,  son intérim est assuré par le président de la Cour constitutionnelle qui exerce toutes les fonctions de Président de la République, à l'exception de celles mentionnées à l'alinéa 8 du présent article. II ne peut se porter candidat aux élections présidentielles.
+En cas de mise en accusation du Président de la République devant la Haute Cour de justice, son intérim est assuré par le président de la Cour constitutionnelle qui exerce toutes les fonctions de Président de la République, à l'exception de celles mentionnées à l'alinéa 8 du présent article. Il ne peut se porter candidat aux élections présidentielles.
 
 ### Art. 54 -
 En cas de maladie grave dûment constatée par un collège de trois (3) médecins désignés par le  bureau  de  l'Assemblée  nationale  sur  proposition  de  l'Ordre  des  médecins,  la  Cour  constitutionnelle, saisie par les deux tiers (2/3) des membres de l'Assemblée nationale, constate l'empêchement absolu du Président de la République et prononce la vacance.
@@ -643,7 +643,7 @@ Le  Gouvernement  est  responsable  devant  l'Assemblée  nationale  dans  les  
 A son entrée en fonction et après délibération du Conseil des ministres, le Premier ministre fait une déclaration de politique générale devant l'Assemblée nationale.
 
 ### Art. 77 :
-Les actes du Président de la République autres que ceux prévus à l'alinéa 1 er  de l'article 56 et aux articles 60, 61,67 et 92 sont contresignés par le Premier ministre et, le cas échéant, par les ministres responsables.
+Les actes du Président de la République autres que ceux prévus à l'alinéa 1er de l'article 56 et aux articles 60, 61,67 et 92 sont contresignés par le Premier ministre et, le cas échéant, par les ministres responsables.
 
 ### Art. 78 :
 Dans les sept (7) jours de leur entrée en fonction, le Premier ministre et les ministres doivent remettre  au  président  de  la  Cour  des  comptes  la  déclaration  écrite  sur  l'honneur  de  leurs  biens.  Cette déclaration fait l'objet d'une mise à jour annuelle et à la cessation des fonctions.
@@ -1467,9 +1467,8 @@ Le Président de la République négocie et ratifie les traités et les accords 
 Les  traités  de  défense  et  de  paix,  les  traités  et  accords  relatifs  aux  organisations internationales, ceux qui modifient les lois internes de l'Etat et ceux qui portent engagement financier de l'Etat, ne peuvent être ratifiés qu'à la suite d'une loi autorisant leur ratification.
 ### Art.  170 :
 Si  la  Cour  constitutionnelle  saisie  par  le  Président  de  la  République,  le  président  de l'Assemblée nationale, le Premier ministre ou un dixième (1/10) des députés, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de le ratifier ne peut intervenir qu'après révision de la Constitution.
-### Art. 171
-
-: Les traités ou accords régulièrement ratifiés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve pour chaque accord ou traité de son application par l'autre partie.
+### Art. 171 :
+Les traités ou accords régulièrement ratifiés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve pour chaque accord ou traité de son application par l'autre partie.
 
 # TITRE XI : DE LA COOPÉRATION ET DE L'ASSOCIATION AVEC LES ETATS
 
@@ -1563,13 +1562,15 @@ La législation actuellement en vigueur reste applicable, en ce qu'elle n'a rien
 # TITRE XIV : DES DISPOSITIONS FINALES
 
 ### Art.  183 :
-La  présente  Constitution  sera  adoptée  par  référendum.  Elle  entrera  en  vigueur  dès  sa promulgation par le Président du Conseil suprême pour la restauration de la démocratie, Chef de l'Etat dans  les  huit  (8)  jours  suivant  la  proclamation  des  résultats  définitifs  du  référendum  par  le  Conseil constitutionnel de Transition, sous réserve des dispositions transitoires ci-dessus.
+La présente Constitution sera adoptée par référendum. Elle entrera en vigueur dès sa promulgation par le Président du Conseil suprême pour la restauration de la démocratie, Chef de l'Etat
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
 28
+
+dans les huit (8) jours suivant la proclamation des résultats définitifs du référendum par le Conseil constitutionnel de Transition, sous réserve des dispositions transitoires ci-dessus.
 
 ### Art.  184 :
 Les  lois  organiques  et  les  autres  lois  d'application  prévues  par  la  présente  Constitution devront être adoptées obligatoirement dans les deux (2) premières années de la première législature.
