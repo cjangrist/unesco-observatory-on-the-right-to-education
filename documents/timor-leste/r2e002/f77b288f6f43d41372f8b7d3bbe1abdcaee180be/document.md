@@ -2,31 +2,51 @@
 
 Jornal da República
 
-Quarta-Feira, 29  de Outubro  de 2008
+Quarta-Feira, 29 de Outubro de 2008
 
-Série I , N.°  40
+Série I, N.° 40
 
 PUBLICAÇÃO OFICIAL DA REPÚBLICA DEMOCRÁTICA DE TIMOR - LESTE
 
+$ 2.50
+
 # SUMÁRIO
 
-# LEI  N.º 14/2008
+PARLAMENTO NACIONAL :
+LEI N.º 14/2008 de 29 de Outubro
+Lei de Bases da Educação ................................................... 2641
 
-# LEI  DE  BASES  DA  EDUCAÇÃO
+GOVERNO:
+DECRETO-LEI N.º 38/2008 de 29 de Outubro
+Estatuto da Defensoria Pública ....................................... 2658
+
+DECRETO-LEI Nº 39/2008 de 29 de outubro
+Estatuto Orgânico do Laboratório Nacional de Saúde ...... 2668
+
+DECRETO-LEI N.º 40/2008 de 29 de Outubro
+Regime das Licenças e das Faltas dos Trabalhadores da
+Administração Pública .................................................... 2674
+
+DECRETO-LEI N.° 41/2008 de 29 de Outubro
+Comissão de Leilões ............................................................. 2679
+
+# LEI N.º 14/2008
+
+# LEI DE BASES DA EDUCAÇÃO
 
 de 29 de Outubro
 
 ## Preâmbulo
 
-O artigo 59.° da Constituição da RDTL atribui ao Estado a criação de um sistema público de ensino básico universal, obrigatório e, na medida das possibilidades, gratuito.  Afirma igualmente que o Estado reconhece e fiscaliza o ensino privado e cooperativo. A Lei Fundamental garante a todos os cidadãos o direito e a igualdade de oportunidades de ensino e formação profissional, o acesso aos graus mais elevados do ensino, da investigação científica e da criação artística, para além do direito à fruição e à criação culturais, bem como o dever de preservar, defender e valorizar o património cultural.
+O artigo 59.° da Constituição da RDTL atribui ao Estado a criação de um sistema público de ensino básico universal, obrigatório e, na medida das possibilidades, gratuito. Afirma igualmente que o Estado reconhece e fiscaliza o ensino privado e cooperativo. A Lei Fundamental garante a todos os cidadãos o direito e a igualdade de oportunidades de ensino e formação profissional, o acesso aos graus mais elevados do ensino, da investigação científica e da criação artística, para além do direito à fruição e à criação culturais, bem como o dever de preservar, defender e valorizar o património cultural.
 
-da universalização do ensino básico de nove anos de escolaridade obrigatória e gratuita, o reforço da garantia da igualdade de oportunidades de acesso e sucesso escolares e a previsão de  medidas  destinadas  a  proporcionar  uma  escolaridade efectiva a todos os cidadãos assente em padrões de qualidade, são marcos importantes desta lei.
+A lei de bases da educação representa um passo decisivo no sentido do estabelecimento de um quadro legal de referência para a organização, orientação, regulação e desenvolvimento do sistema educativo emergente das profundas mudanças que o País atravessa desde a sua independência. A consagração da universalização do ensino básico de nove anos de escolaridade obrigatória e gratuita, o reforço da garantia da igualdade de oportunidades de acesso e sucesso escolares e a previsão de medidas destinadas a proporcionar uma escolaridade efectiva a todos os cidadãos assente em padrões de qualidade, são marcos importantes desta lei.
 
-Assim, o Parlamento Nacional decreta, nos termos da alínea l) do n.º 2 do artigo 95.º da Constituição da República de TimorLeste, para valer como lei, o seguinte:
+Assim, o Parlamento Nacional decreta, nos termos da alínea l) do n.º 2 do artigo 95.º da Constituição da República de Timor-Leste, para valer como lei, o seguinte:
 
-## CAPÍTULO  I ÂMBITO, PRINCÍPIOS  E  OBJECTIVOS FUNDAMENTAIS
+## CAPÍTULO I ÂMBITO, PRINCÍPIOS E OBJECTIVOS FUNDAMENTAIS
 
-### SECÇÃO  I ÂMBITO  E  PRINCÍPIOS  GERAIS
+### SECÇÃO I ÂMBITO E PRINCÍPIOS GERAIS
 
 ##### Artigo 1.º Âmbito e definição
 
@@ -34,13 +54,9 @@ Assim, o Parlamento Nacional decreta, nos termos da alínea l) do n.º 2 do arti
 
 - O sistema educativo é o conjunto de meios pelo qual se concretiza o direito à educação, que se exprime pela garantia de uma permanente acção formativa orientada para favorecer o desenvolvimento global da personalidade, o progresso social e a democratização da sociedade
 
-- O sistema educativo é desenvolvido através de estruturas e  de  acções  diversificadas,  por  iniciativa  e  sob  responsabilidade de diferentes instituições e entidades públicas, particulares  e  cooperativas,  que  entre  si  cooperam  na manutenção de uma rede equilibrada e actualizada de ofertas educativas, capaz de proporcionar os conhecimentos, as aptidões e os valores necessários à plena realização individual e profissional na sociedade contemporânea.
+- O sistema educativo é desenvolvido através de estruturas e de acções diversificadas, por iniciativa e sob responsabilidade de diferentes instituições e entidades públicas, particulares e cooperativas, que entre si cooperam na manutenção de uma rede equilibrada e actualizada de ofertas educativas, capaz de proporcionar os conhecimentos, as aptidões e os valores necessários à plena realização individual e profissional na sociedade contemporânea.
 
-- Compete ao Estado assegurar a disponibilidade de docentes com a formação qualificada adequada e demais recursos humanos, bem como das infra-estruturas e meios financeiros necessários  com  vista  a  garantir  uma  educação  de qualidade.
-
-A lei de bases da educação representa um passo decisivo no sentido do estabelecimento de um quadro legal de referência para a organização, orientação, regulação e desenvolvimento do sistema educativo emergente das profundas mudanças que o País atravessa desde a sua independência. A consagração
-
-Série I, N.° 40
+- Compete ao Estado assegurar a disponibilidade de docentes com a formação qualificada adequada e demais recursos humanos, bem como das infra-estruturas e meios financeiros necessários com vista a garantir uma educação de qualidade.
 
 - A presente lei é aplicável a todo o território nacional.
 
@@ -48,11 +64,7 @@ Série I, N.° 40
 
 - A todos os cidadãos é garantido o direito à educação e à
 
-Quarta-Feira, 29  de Outubro  de 2008
-
-$ 2.50
-
-Página  2641
+Página 2641
 
 [[END OF PAGE 1]]
 
@@ -63,8 +75,6 @@ Jornal da República
 cultura nos termos da Constituição da República e da lei.
 
 - O direito à educação é concretizado através de uma efectiva acção formativa ao longo da vida, com vista à consolidação de uma vivência livre, responsável e democrática, destinada a, no respeito pela dignidade humana, promover:
-
-- A política educativa visa orientar o sistema de educação e de ensino por forma a responder às necessidades da sociedade timorense, em resultado de uma análise quantitativa e qualitativa com vista ao desenvolvimento global, pleno e harmonioso da personalidade dos indivíduos, incentivando a formação de cidadãos livres, responsáveis e autónomos.
 
 - O desenvolvimento da personalidade e a valorização individual assente no mérito;
 
@@ -92,11 +102,13 @@ cultura nos termos da Constituição da República e da lei.
 
 - Compete ao Estado licenciar, avaliar e fiscalizar o ensino particular e cooperativo nos termos legais.
 
-### SECÇÃO  II OBJECTIVOS  FUNDAMENTAIS
+### SECÇÃO II OBJECTIVOS FUNDAMENTAIS
 
 ##### Artigo 4.º Política Educativa
 
-- A política educativa prossegue objectivos nacionais per manentes,  pressupondo  uma  elaboração  e  uma  concretização transparente e consistente.
+- A política educativa prossegue objectivos nacionais permanentes, pressupondo uma elaboração e uma concretização transparente e consistente.
+
+- A política educativa visa orientar o sistema de educação e de ensino por forma a responder às necessidades da sociedade timorense, em resultado de uma análise quantitativa e qualitativa com vista ao desenvolvimento global, pleno e harmonioso da personalidade dos indivíduos, incentivando a formação de cidadãos livres, responsáveis e autónomos.
 
 - A política educativa é da responsabilidade do Governo, no respeito pela Constituição da República e da presente lei.
 
@@ -162,7 +174,7 @@ A Comissão Nacional da Educação desempenha, nos termos da lei, funções cons
 
 - A educação escolar compreende o ensino básico, o ensino secundário e o ensino superior , integra modalidades especiais e inclui actividades de ocupação de tempos livres.
 
-- A educação extra-escolar engloba actividades de alfabetização e de educação de base, bem como de aperfei-çoamento e actualização cultural e científica, e realiza-se num quadro aberto  de  iniciativas  múltiplas,  diversificadas  e  complementares.
+- A educação extra-escolar engloba actividades de alfabetização e de educação de base, bem como de aperfeiçoamento e actualização cultural e científica, e realiza-se num quadro aberto de iniciativas múltiplas, diversificadas e complementares.
 
 - A  formação  profissional  prossegue  acções  destinadas  à integração ou ao desenvolvimento profissional dinâmico, pela aquisição ou aprofundamento de conhecimentos e de competências necessárias ao desempenho profissional específico.
 
@@ -214,7 +226,7 @@ Jornal da República
 
 - Incumbe ao Estado assegurar a existência de uma rede de serviço público de educação pré-escolar .
 
-- A rede de educação pré-escolar é constituída pelos jardinsde-infância das administrações locais e de outras entidades particulares  e  cooperativas,  colectivas  ou  individuais, nomeadamente instituições particulares de solidariedade social, associações de pais, associações de moradores, organizações cívicas ou confessionais e associações sindicais ou de empregadores.
+- A rede de educação pré-escolar é constituída pelos jardins-de-infância das administrações locais e de outras entidades particulares e cooperativas, colectivas ou individuais, nomeadamente instituições particulares de solidariedade social, associações de pais, associações de moradores, organizações cívicas ou confessionais e associações sindicais ou de empregadores.
 
 - Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais da educação pré-escolar , nomeadamente quanto ao seu funcionamento e  aos  seus  conteúdos  educativos,  apoiando,  avaliando, inspeccionando e fiscalizando a sua execução.
 
@@ -230,9 +242,7 @@ Jornal da República
 
 - As crianças que completem os seis anos de idade entre 1 de Janeiro e 31 de Março podem ingressar no ensino básico, se houver disponibilidade de vagas.
 
-- As situações não abrangidas nos números 2 e 3 do presente artigo são objecto de análise e decisão por parte dos ser-
-
-viços regionais de educação competentes.
+- As situações não abrangidas nos números 2 e 3 do presente artigo são objecto de análise e decisão por parte dos serviços regionais de educação competentes.
 
 - A obrigatoriedade de frequência do ensino básico termina no final do ano lectivo em que o aluno completa dezassete anos de idade.
 
@@ -256,7 +266,7 @@ viços regionais de educação competentes.
 
 - Desenvolver o conhecimento e o apreço pelos valores característicos da identidade, línguas oficiais e nacionais, história e cultura timorenses, numa perspectiva de humanismo universalista e de solidariedade e cooperação entre os povos;
 
-- Proporcionar experiências que favoreçam a maturidade cívica e sócio-afectiva, promovendo a criação de atitudes e de hábitos tendentes à relação e à cooperação, bem como à intervenção autónoma, consciente e res-
+- Proporcionar experiências que favoreçam a maturidade cívica e sócio-afectiva, promovendo a criação de atitudes e de hábitos tendentes à relação e à cooperação, bem como à intervenção autónoma, consciente e
 
 Página  2644
 
@@ -270,7 +280,7 @@ Série I, N.° 40
 
 Jornal da República
 
-ponsável, nos planos familiar , comunitário e ambiental, visando a formação para uma cidadania plena e democrática;
+responsável, nos planos familiar, comunitário e ambiental, visando a formação para uma cidadania plena e democrática;
 
 - Assegurar às crianças com necessidades educativas específicas, devidas, designadamente, a deficiências físicas e mentais, condições adequadas ao seu desenvolvimento e pleno aproveitamento das suas capacidades;
 
@@ -346,29 +356,7 @@ Jornal da República
 
 - Assegurar a existência de hábitos de trabalho, individual e em grupo, e fomentar o desenvolvimento de atitudes de reflexão metódica, de abertura de espírito, de sensibilidade e de disponibilidade e adaptação à mudança.
 
-- Todos os cursos do ensino secundário contêm componentes de formação de sentido técnico, tecnológico e profissionalizante e de línguas e cultura timorenses adequadas à natureza dos diversos cursos.
-
-- Deve garantir-se a permeabilidade adequada entre os cursos predominantemente orientados para a vida activa e os cursos orientados predominantemente para o prossegui-mento de estudos no ensino superior universitário.
-
-- A conclusão com aproveitamento do ensino secundário confere o direito a um diploma que certifica a formação adquirida, devendo igualmente ser certificado, quando solicitado,  o  aproveitamento obtido em qualquer ano, sendo que nos casos dos cursos predominantemente orientados para a inserção na vida activa, a certificação incide sobre a qualificação  obtida  para  efeitos  do  exercício  de  uma profissão ou grupo de profissões.
-
-- No ensino secundário cada professor é responsável, em princípio, por uma disciplina.
-
-- Podem ser criadas escolas especializadas, destinadas ao ensino e prática de cursos de natureza técnica e tecnológica ou de índole artística.
-
-- Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais do ensino secundário, nomeadamente quanto ao seu funcionamento e  aos  seus  conteúdos  educativos,  apoiando,  avaliando, inspeccionando e fiscalizando a sua execução.
-
-#### SUBSECÇÃO   III ENSINO  SUPERIOR
-
-##### Artigo 17.º Âmbito e objectivos
-
-- O ensino superior compreende o ensino universitário e o ensino técnico.
-
-- São objectivos do ensino superior:
-
 ##### Artigo 16.º Organização do ensino secundário
-
-- Estimular a criação cultural e o desenvolvimento do espírito científico e do pensamento reflexivo;
 
 - Os cursos do ensino secundário têm a duração de três anos.
 
@@ -377,6 +365,28 @@ Jornal da República
 - Cursos gerais, de natureza humanística e científica, predominantemente orientados para o prosseguimento de estudos no ensino superior universitário, permitindo também o ingresso no ensino superior técnico;
 
 - Cursos de formação vocacional, de natureza técnica e tecnológica ou profissionalizante ou de natureza artística, predominantemente orientados para a inserção na vida activa, que possibilitam o acesso tanto ao ensino superior técnico como ao ensino superior universitário.
+
+- Todos os cursos do ensino secundário contêm componentes de formação de sentido técnico, tecnológico e profissionalizante e de línguas e cultura timorenses adequadas à natureza dos diversos cursos.
+
+- Deve garantir-se a permeabilidade adequada entre os cursos predominantemente orientados para a vida activa e os cursos orientados predominantemente para o prosseguimento de estudos no ensino superior universitário.
+
+- A conclusão com aproveitamento do ensino secundário confere o direito a um diploma que certifica a formação adquirida, devendo igualmente ser certificado, quando solicitado, o aproveitamento obtido em qualquer ano, sendo que nos casos dos cursos predominantemente orientados para a inserção na vida activa, a certificação incide sobre a qualificação obtida para efeitos do exercício de uma profissão ou grupo de profissões.
+
+- No ensino secundário cada professor é responsável, em princípio, por uma disciplina.
+
+- Podem ser criadas escolas especializadas, destinadas ao ensino e prática de cursos de natureza técnica e tecnológica ou de índole artística.
+
+- Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais do ensino secundário, nomeadamente quanto ao seu funcionamento e aos seus conteúdos educativos, apoiando, avaliando, inspeccionando e fiscalizando a sua execução.
+
+#### SUBSECÇÃO III ENSINO SUPERIOR
+
+##### Artigo 17.º Âmbito e objectivos
+
+- O ensino superior compreende o ensino universitário e o ensino técnico.
+
+- São objectivos do ensino superior:
+
+- Estimular a criação cultural e o desenvolvimento do espírito científico e do pensamento reflexivo;
 
 - Formar diplomados nas diferentes áreas do conhecimento, aptos para a inserção em sectores profissionais e para a participação no desenvolvimento da sociedade timorense, e colaborar na sua formação contínua;
 
@@ -406,7 +416,7 @@ Jornal da República
 
 - O ensino superior universitário, orientado por uma constante perspectiva de investigação e criação do saber , visa proporcionar uma ampla preparação científica de base, sobre a qual vai assentar uma sólida formação técnica e cultural, tendo em vista garantir elevada autonomia individual na relação com o conhecimento, incluindo a possibilidade da sua aplicação, designadamente para efeitos de inserção profissional, e fomentar o desenvolvimento das capacidades de concepção, de inovação e de análise crítica.
 
-- O  ensino  superior  técnico,  dirigido  por  uma constante pers-pectiva  de  compreensão  e  solução  de  problemas concretos, visa proporcionar uma preparação científica orientada, sobre a qual vai assentar uma sólida formação técnica  e  cultural,  tendo  em  vista  garantir  relevante autonomia na relação com o conhecimento aplicado ao exercício de actividades profissionais e participação activa em acções de desenvolvimento.
+- O ensino superior técnico, dirigido por uma constante perspectiva de compreensão e solução de problemas concretos, visa proporcionar uma preparação científica orientada, sobre a qual vai assentar uma sólida formação técnica e cultural, tendo em vista garantir relevante autonomia na relação com o conhecimento aplicado ao exercício de actividades profissionais e participação activa em acções de desenvolvimento.
 
 ##### Artigo 18.º Acesso
 
@@ -626,15 +636,15 @@ carácter mais ou menos prolongado, decorrentes da interacção entre factores a
 
 - O ensino artístico especializado destina-se a pessoas com aptidões específicas para as artes, que pretendam desenvolver e aprofundar linguagens artísticas, nomeadamente nas áreas das belas artes, das artes do espectáculo, do audiovisual e multimédia, do design e das artes aplicadas.
 
-mação de excelência e respostas diversificadas à procura individual orientada para o aprofundamento de linguagens artísticas específicas, bem como criar as bases necessárias ao desenvolvimento pessoal da maturidade artística, tendo em consideração a precocidade e a sequencialidade exigidas pelas diferentes artes.
+- O ensino artístico especializado visa proporcionar uma formação de excelência e respostas diversificadas à procura individual orientada para o aprofundamento de linguagens artísticas específicas, bem como criar as bases necessárias ao desenvolvimento pessoal da maturidade artística, tendo em consideração a precocidade e a sequencialidade exigidas pelas diferentes artes.
 
-- O ensino artístico especializado abrange o ensino básico, o ensino secundário e o ensino superior , desenvolvendo-se de forma integrada ou articulada com estes.
+- O ensino artístico especializado abrange o ensino básico, o ensino secundário e o ensino superior, desenvolvendo-se de forma integrada ou articulada com estes.
 
 - Os planos de estudos do ensino artístico especializado são organizados de acordo com as exigências próprias de cada nível de ensino, de modo a adequar a formação artística especializada aos desafios da contemporaneidade e aos contextos culturais e artísticos, mediante recurso, em cada área artística, a composição curricular específica, que privilegie a inovação, a experimentação e a prática artísticas.
 
-- Os diplomas e certificados atribuídos ao ensino artístico especializado de nível básico e secundário conferem as mesmas qualificações e possibilidades de prosseguimento de  estudos  que  os  diplomas  e  certificados  obtidos  nos correspondentes níveis da modalidade geral de educação escolar.
+- Os diplomas e certificados atribuídos ao ensino artístico especializado de nível básico e secundário conferem as mesmas qualificações e possibilidades de prosseguimento de estudos que os diplomas e certificados obtidos nos correspondentes níveis da modalidade geral de educação escolar.
 
-- Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais do ensino artístico  especializado,  nomeadamente  quanto  ao  seu funcionamento e aos seus aspectos pedagógicos, didácticos e técnicos, apoiando, avaliando, inspeccionando e fiscalizando a sua execução.
+- Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais do ensino artístico especializado, nomeadamente quanto ao seu funcionamento e aos seus aspectos pedagógicos, didácticos e técnicos, apoiando, avaliando, inspeccionando e fiscalizando a sua execução.
 
 ##### Artigo 31.º Ensino recorrente
 
@@ -644,9 +654,9 @@ mação de excelência e respostas diversificadas à procura individual orientad
 
 - O ensino recorrente é ministrado, predominantemente, em regime nocturno e as formas de acesso e os planos e métodos de estudos são organizados de modo adequado aos grupos etários a que se destinam, à experiência de vida entretanto adquirida e ao nível de conhecimentos demonstrados.
 
-- O ensino recorrente atribui os mesmos diplomas e certificados que os conferidos pelos ensinos básico e secundário, sem prejuízo de poder distinguir , no processo de avaliação e certificação, qualificações que permitem o prosseguimento de estudos e qualificações que não permitem esse prosseguimento.
+- O ensino recorrente atribui os mesmos diplomas e certificados que os conferidos pelos ensinos básico e secundário, sem prejuízo de poder distinguir, no processo de avaliação e certificação, qualificações que permitem o prosseguimento de estudos e qualificações que não permitem esse prosseguimento.
 
-2.   O ensino artístico especializado visa proporcionar uma for5.  Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais do ensino recorrente, nomeadamente quanto ao seu funcionamento e  aos  seus  aspectos  pedagógicos  e  técnicos,  apoiando, avaliando, inspeccionando e fiscalizando a sua execução.
+- Compete ao Governo, através do ministério responsável
 
 Página  2650
 
@@ -659,6 +669,8 @@ Série I, N.° 40
 [[START OF PAGE 11]]
 
 Jornal da República
+
+pela política educativa, definir as normas gerais do ensino recorrente, nomeadamente quanto ao seu funcionamento e aos seus aspectos pedagógicos e técnicos, apoiando, avaliando, inspeccionando e fiscalizando a sua execução.
 
 ##### Artigo 32.º Educação a distância
 
@@ -678,7 +690,7 @@ Jornal da República
 
 - Compete ao Estado promover a relevância social da educação extra-escolar, em particular organizando sistemas que permitam reconhecer, validar e certificar as competências e os saberes adquiridos.
 
-- Constituem objectivos fundamentais da educação extraescolar:
+- Constituem objectivos fundamentais da educação extra-escolar:
 
 - Eliminar o analfabetismo, literal e funcional;
 
@@ -688,13 +700,11 @@ Jornal da República
 
 - Assegurar a ocupação criativa dos tempos livres com actividades de natureza cultural;
 
-- Favorecer atitudes de solidariedade social e de parti-
+- Favorecer atitudes de solidariedade social e de participação na vida da comunidade.
 
-cipação na vida da comunidade.
+- As acções de educação extra-escolar podem realizar-se em estruturas de extensão cultural do sistema escolar ou em sistemas abertos, com recurso, neste caso, aos meios de comunicação típicos da educação a distância.
 
-- As acções de educação extra-escolar podem realizar -se em estruturas de extensão cultural do sistema escolar ou em sistemas abertos, com recurso, neste caso, aos meios de comunicação típicos da educação a distância.
-
-- Incumbe ao Estado promover e apoiar a educação extraescolar, pertencendo as iniciativas de educação extra-escolar à administração central e local e a outras entidades particulares  ou  cooperativas,  colectivas  ou  individuais, nomeadamente instituições particulares de solidariedade social, associações de pais, associações de estudantes e organismos juvenis, associações culturais e recreativas, associações de moradores, associações de educação popular, organizações cívicas ou confessionais e comissões de trabalhadores e associações sindicais ou de empregadores.
+- Incumbe ao Estado promover e apoiar a educação extra-escolar, pertencendo as iniciativas de educação extra-escolar à administração central e local e a outras entidades particulares ou cooperativas, colectivas ou individuais, nomeadamente instituições particulares de solidariedade social, associações de pais, associações de estudantes e organismos juvenis, associações culturais e recreativas, associações de moradores, associações de educação popular, organizações cívicas ou confessionais e comissões de trabalhadores e associações sindicais ou de empregadores.
 
 - A política educativa atende à dimensão formativa da programação televisiva e radiofónica, devendo o serviço público de televisão e de rádio assegurar a existência de programação formativa, plural e diversificada.
 
@@ -850,7 +860,7 @@ Será realizado o acompanhamento do saudável crescimento e desenvolvimento dos 
 
 ##### Artigo 43.º Acreditação
 
-A acreditação consiste no reconhecimento formal do Estado da qualidade de um estabelecimento de ensino, após uma avaliação contínua, objectiva e contextualizada a esse mesmo estabelecimento.
+A acreditação consiste no reconhecimento formal do Estado
 
 Série I, N.° 40
 
@@ -863,6 +873,8 @@ Página  2653
 [[START OF PAGE 14]]
 
 Jornal da República
+
+da qualidade de um estabelecimento de ensino, após uma avaliação contínua, objectiva e contextualizada a esse mesmo estabelecimento.
 
 ##### Artigo 44.º Estatísticas da educação
 
@@ -884,11 +896,11 @@ As estatísticas da educação são instrumentos fundamentais para a formulaçã
 
 ##### Artigo 46.º Princípios e organização gerais
 
-- A administração e a gestão do sistema educativo devem respeitar  os  princípios  de  democraticidade  e  de  participação, com vista à prossecução de objectivos, pedagógicos e educativos, de formação social e cívica, de responsabilidade, de transparência e de avaliação de desempenho individual e colectivo.
+- A administração e a gestão do sistema educativo devem respeitar os princípios de democraticidade e de participação, com vista à prossecução de objectivos, pedagógicos e educativos, de formação social e cívica, de responsabilidade, de transparência e de avaliação de desempenho individual e colectivo.
 
-regional e local,  devendo valorizar o princípio da subsidiariedade, pela descentralização de competências nas administrações locais.
+- A administração educativa desenvolve-se ao nível central, regional e local, devendo valorizar o princípio da subsidiariedade, pela descentralização de competências nas administrações locais.
 
-- A  administração  educativa  deve  assegurar  a  plena participação das comunidades educativas locais, mediante adequados graus de participação, em especial dos professores,  dos  alunos,  dos  pais  e  respectivas  associações  e das administrações locais, bem como de instituições representativas das actividades sociais, económicas, culturais e científicas.
+- A administração educativa deve assegurar a plena participação das comunidades educativas locais, mediante adequados graus de participação, em especial dos professores, dos alunos, dos pais e respectivas associações e das administrações locais, bem como de instituições representativas das actividades sociais, económicas, culturais e científicas.
 
 - A organização e o funcionamento da administração educativa resulta da lei, no respeito pelos números anteriores, que adopta as adequadas formas de desconcentração e descentralização administrativa, garantindo a necessária unidade de acção e eficácia, através do ministério responsável pela política educativa, ao qual compete, em especial, as funções de:
 
@@ -916,7 +928,7 @@ regional e local,  devendo valorizar o princípio da subsidiariedade, pela desce
 
 - O funcionamento das escolas orienta-se por uma perspectiva de integração comunitária, sendo, nesse sentido, favorecida a fixação local dos respectivos docentes.
 
-- A administração educativa desenvolve-se ao nível central, 8.   O ensino particular e cooperativo rege-se por legislação e
+- O ensino particular e cooperativo rege-se por legislação e
 
 Página  2654
 
@@ -936,7 +948,7 @@ estatuto próprios, que devem subordinar-se aos princípios da presente lei.
 
 - A administração e a gestão dos estabelecimentos de educação e de ensino deve fazer-se de forma a fomentar o desenvolvimento de centros de excelência e de competências educativas e, assim, a qualidade das aprendizagens, bem como a aprofundar as condições para uma gestão eficiente e eficaz dos recursos educativos disponíveis.
 
-- A administração e a gestão pode fazer -se ainda na base de agrupamentos de escolas, de forma a favorecer também a integração vertical dos projectos educativos.
+- A administração e a gestão pode fazer-se ainda na base de agrupamentos de escolas, de forma a favorecer também a integração vertical dos projectos educativos.
 
 - Em cada estabelecimento de educação e de ensino, ou respectivos agrupamentos, a administração e a gestão orientam-se por princípios de participação democrática de quem integra  o  processo  educativo,  de  responsabilidade,  de transparência e de avaliação do desempenho, individual e colectivo,  tendo  em  consideração as especificidades de cada nível de educação e de ensino.
 
@@ -950,7 +962,7 @@ estatuto próprios, que devem subordinar-se aos princípios da presente lei.
 
 - Os estabelecimentos do ensino superior gozam de autonomia científica, pedagógica e cultural, sem prejuízo da avaliação da qualidade do desempenho científico e pedagógico das instituições e da respectiva acreditação.
 
-- As universidades e os institutos politécnicos públicos gozam ainda de autonomia estatutária, cientifica, pedagógica, administrativa, financeira, disciplinar e patrimonial, sem prejuízo da acção fiscalizadora do Estado.
+- As universidades e os institutos politécnicos públicos gozam ainda de autonomia estatutária, científica, pedagógica, administrativa, financeira, disciplinar e patrimonial, sem prejuízo da acção fiscalizadora do Estado.
 
 - A autonomia dos estabelecimentos de ensino superior deve orientar-se pelo desenvolvimento da região e do País e pela efectiva elevação do nível educativo, científico e cultural dos timorenses.
 
@@ -974,7 +986,7 @@ estatuto próprios, que devem subordinar-se aos princípios da presente lei.
 
 - A formação de educadores e professores assenta nas seguintes modalidades principais:
 
-Formação inicial de nível superior , que proporcione a informação, os métodos e as técnicas, científicos e pedagógicos, de base, bem como a formação pessoal e social adequadas ao exercício da função;
+Formação inicial de nível superior, que proporcione a
 
 Série I, N.° 40
 
@@ -987,6 +999,8 @@ Página  2655
 [[START OF PAGE 16]]
 
 Jornal da República
+
+informação, os métodos e as técnicas, científicos e pedagógicos, de base, bem como a formação pessoal e social adequadas ao exercício da função;
 
 Formação contínua, que complementa e actualiza a formação inicial, numa perspectiva de formação permamente, suficientemente diversificada, de modo a assegurar o complemento, aprofundamento e actualização de conhecimentos e de competências profissionais relevantes e a possibilitar a mobilidade e a progressão na carreira, assim como a requalificação na mesma carreira;
 
@@ -1008,21 +1022,19 @@ Formação contínua, que complementa e actualiza a formação inicial, numa per
 
 - Formação participada, que conduza a uma prática reflexiva  e  continuada  de  auto-informação  e  auto-aprendizagem.
 
-- Compete ao Governo, aprovar por decreto-lei, o regime de formação de educadores e professores, definindo, nomeadamente, os requisitos dos cursos de formação inicial de professores, os perfis de competência e de formação, bem como as características de um período de indução e respectiva avaliação, para ingresso na carreira docente, os padrões de qualidade, as qualificações para o exercício de outras funções educativas, nomeadamente educação especial, administração escolar ou educacional, organização e desenvolvimento curricular, supervisão pedagógica e for mação de formadores.
+- Compete ao Governo, aprovar por decreto-lei, o regime de formação de educadores e professores, definindo, nomeadamente, os requisitos dos cursos de formação inicial de professores, os perfis de competência e de formação, bem como as características de um período de indução e respectiva avaliação, para ingresso na carreira docente, os padrões de qualidade, as qualificações para o exercício de outras funções educativas, nomeadamente educação especial, administração escolar ou educacional, organização e desenvolvimento curricular, supervisão pedagógica e formação de formadores.
 
 - O Estado pode apoiar a formação contínua dos docentes em exercício de funções nos estabelecimentos de ensino particular e cooperativo que se integrem na rede de ofertas de educação e de ensino de serviço público.
 
 ##### Artigo 50.º Princípios das carreiras do pessoal docente e do pessoal não docente
 
-- Os professores, educadores, pessoal não docente das es-
-
-colas e outros profissionais da educação têm direito a retribuição e carreira compatíveis com as suas habilitações e responsabilidades profissionais, sociais e culturais, nos termos legais.
+- Os professores, educadores, pessoal não docente das escolas e outros profissionais da educação têm direito a retribuição e carreira compatíveis com as suas habilitações e responsabilidades profissionais, sociais e culturais, nos termos legais.
 
 - A progressão nas carreiras está necessariamente ligada à avaliação do desempenho de toda a actividade desenvolvida, individualmente ou em grupo, na instituição educativa, no plano da educação e do ensino e da prestação de outros serviços à comunidade, bem como às qualificações profissionais, pedagógicas e científicas.
 
 - A todos os educadores, professores, pessoal não docente das escolas e outros profissionais da educação é reconhecido o direito e o dever à formação contínua relevante para o desempenho das respectivas funções, em complemento do dever permanente e continuado de auto-informação e auto-aprendizagem.
 
-- O pessoal não docente das escolas deve possuir como habilitação mínima o ensino básico ou equivalente, devendolhe  ser  proporcionada  uma  formação  complementar adequada.
+- O pessoal não docente das escolas deve possuir como habilitação mínima o ensino básico ou equivalente, devendo-lhe ser proporcionada uma formação complementar adequada.
 
 ## CAPÍTULO  VII RECURSOS  MATERIAIS  E  FINANCEIROS
 
@@ -1034,7 +1046,7 @@ colas e outros profissionais da educação têm direito a retribuição e carrei
 
 - No reconhecimento do valor do ensino particular e cooperativo, o Estado tem em consideração, no ordenamento da rede de ofertas de educação e de ensino de serviço público, e numa perspectiva de racionalização de recursos e de promoção da qualidade das ofertas educativas, os estabelecimentos de educação e de ensino particular e cooperativo existentes ou a criar.
 
-- O Estado apoia financeiramente, mediante contrato e nos termos legais, o ensino particular e cooperativo, tendo em consideração a escolha das famílias, quando, integrandose os respectivos estabelecimentos na rede de ofertas de educação e de ensino de serviço público, prossigam os objectivos de desenvolvimento da educação.
+- O Estado apoia financeiramente, mediante contrato e nos termos legais, o ensino particular e cooperativo, tendo em consideração a escolha das famílias, quando, integrando-se os respectivos estabelecimentos na rede de ofertas de educação e de ensino de serviço público, prossigam os objectivos de desenvolvimento da educação.
 
 ##### Artigo 52. º Planeamento da rede de ofertas educativas
 
@@ -1122,7 +1134,7 @@ Jornal da República
 
 - O Governo elaborará um plano de emergência de construção e  recuperação de edifícios escolares e o seu apetrechamento, no sentido de serem satisfeitas as necessidades da rede escolar, com prioridade para o ensino básico.
 
-- O regime de transição da estrutura actual da educação escolar para a prevista na presente lei é aprovado por decretolei,  com  acompanhamento  da  Comissão  Nacional  da Educação.
+- O regime de transição da estrutura actual da educação escolar para a prevista na presente lei é aprovado por decreto-lei, com acompanhamento da Comissão Nacional da Educação.
 
 - A transição referida no número anterior não pode prejudicar os direitos adquiridos por professores, alunos e pessoal não docente das escolas.
 
@@ -1176,7 +1188,7 @@ O Presidente da República,
 
 __________________
 
-Dr. José Ramos Hor ta
+Dr. José Ramos Horta
 
 # DECRETO-LEI N.º 38/2008
 
@@ -1186,7 +1198,7 @@ de 29  de Outubro
 
 A Constituição garante no seu artigo 26º, o acesso de todos aos tribunais para a defesa dos seus direitos e interesses legalmente protegidos, assegurando que a Justiça deve ser promovida independentemente dos meios económicos dos titulares.
 
-Nesta fase de desenvolvimento do país, mostra-se necessário a criação de uma Defensoria Pública que permita o amplo acesso aos tribunais a todos os que dele careçam, no exercício dos seus direitos constitucionalmente consagrados.
+Nesta fase de desenvolvimento do país, mostra-se necessário a criação de uma Defensoria Pública que permita o amplo acesso aos tribunais a todos os que dele careçam, no exercício dos
 
 Página  2658
 
@@ -1200,6 +1212,8 @@ Série I, N.° 40
 
 Jornal da República
 
+seus direitos constitucionalmente consagrados.
+
 O interesse social  deve  nortear  o  exercício  da  assistência jurídica, judiciária e extra judicial, nos termos do artigo 135º da Constituição, e assim ser o princípio orientador da Defensoria Pública, essencial à boa administração da Justiça na salvaguarda dos direitos e legítimos interesses dos cidadãos.
 
 Desta forma, importa que o Estado disponha de uma instituição que prime pela qualidade técnica e que tenha um quadro amplo de competências, garantias e prerrogativas para poder assegurar o patrocínio jurídico dos interesses e direitos dos cidadãos.
@@ -1212,17 +1226,33 @@ Assim,
 
 O Governo decreta, nos termos do n.° 3 do artigo 115.° da Constituição da República, para valer como lei o seguinte :
 
-## CAPÍTULO  I DISPOSIÇÕES  GERAIS
+## CAPÍTULO I DISPOSIÇÕES GERAIS
 
-- O patrocínio dos cidadãos que a ela recorram, em qualquer processo de mediação ou de arbitragem em TimorLeste;
+##### Artigo 1.º Estatuto
+
+- A Defensoria Pública é um serviço público, responsável pela prestação de assistência jurídica, judicial e extrajudicial, integral e gratuita, aos mais necessitados.
+
+- Sem prejuízo da sua independência técnico-funcional, a Defensoria Pública é tutelada pelo Ministério da Justiça.
+
+- A Defensoria Pública rege-se pela presente lei e pelos regulamentos e regras deontológicas que ela própria criar no âmbito das suas funções e das suas competências.
+
+##### Artigo 2.º Competência
+
+- Cabe à Defensoria Pública assegurar o acesso aos tribunais e o acesso ao direito a todos que a ela recorram, nos termos deste diploma.
+
+- Compete à Defensoria Pública, exercer e prestar, nos termos deste diploma, designadamente:
+
+- O patrocínio judiciário das pessoas que a ela recorram em qualquer tribunal de Timor-Leste, qualquer que seja a natureza do processo e qualquer que seja a posição processual das partes;
+
+- O patrocínio dos cidadãos que a ela recorram, em qualquer processo de mediação ou de arbitragem em Timor-Leste;
 
 - O patrocínio dos cidadãos que a ela recorram em qualquer procedimento extra-judicial tendente a compor interesses legítimos em litígio;
 
-- O patrocínio dos cidadãos que a ela recorram em qualquer procedimento judicial ou extra-  judicial tendente a promover a conciliação das partes em litígio;
+- O patrocínio dos cidadãos que a ela recorram em qualquer procedimento judicial ou extra- judicial tendente a promover a conciliação das partes em litígio;
 
-- A representação dos cidadãos que a ela recorram perante quaisquer órgãos ou serviços do Estado, designadamente o corpo polícial, os serviços prisionais, os serviços fiscais,  os  serviços  aduaneiros,  os  serviços de imigração, os serviços de segurança social, os serviços de registo, os serviços de notariado e os serviços de protecção do consumidor;
+- A representação dos cidadãos que a ela recorram perante quaisquer órgãos ou serviços do Estado, designadamente o corpo polícial, os serviços prisionais, os serviços fiscais, os serviços aduaneiros, os serviços de imigração, os serviços de segurança social, os serviços de registo, os serviços de notariado e os serviços de protecção do consumidor;
 
-- As  funções  de  representante do ausente, incerto ou incapaz em substituição do ministério público, nos casos previstos na lei;
+- As funções de representante do ausente, incerto ou incapaz em substituição do ministério público, nos casos previstos na lei;
 
 - Serviços de consulta jurídica;
 
@@ -1230,15 +1260,9 @@ O Governo decreta, nos termos do n.° 3 do artigo 115.° da Constituição da Re
 
 - A Defensoria Pública exerce a sua função quaisquer que sejam as partes em litígio, mesmo que esta seja o Estado ou outra pessoa colectiva de direito público.
 
-##### Artigo 1.º Estatuto
-
 ##### Artigo 3.º Natureza obrigatória dos serviços
 
 A Defensoria Pública não pode recusar-se a prestar os seus serviços desde que para tal seja solicitada.
-
-- A Defensoria Pública é um serviço público, responsável pela prestação de assistência jurídica, judicial e extrajudicial, integral e gratuita, aos mais necessitados.
-
-- Sem prejuízo da sua independência técnico-funcional, a Defensoria Pública é tutelada pelo Ministério da Justiça.
 
 ##### Artigo 4.º Gratuidade
 
@@ -1253,16 +1277,6 @@ Os serviços prestados pela Defensoria Pública são gratuitos.
 - Goza ainda do direito à assistência da Defensoria Pública todo aquele que é remetido pelo tribunal para fins de patrocínio oficioso.
 
 - Os beneficiários da assistência da Defensoria Pública gozam de isenção de custas no processo respectivo, salvo se o
-
-- A Defensoria Pública rege-se pela presente lei e pelos regulamentos e regras deontológicas que ela própria criar no âmbito das suas funções e das suas competências.
-
-##### Artigo 2.º Competência
-
-- Cabe à Defensoria Pública assegurar o acesso aos tribunais e o acesso ao direito a todos que a ela recorram, nos termos deste diploma.
-
-- Compete à Defensoria Pública, exercer e prestar , nos termos deste diploma, designadamente:
-
-- O patrocínio judiciário das pessoas que a ela recorram em qualquer tribunal de Timor-Leste, qualquer que seja a natureza do processo e qualquer que seja a posição processual das partes;
 
 Série I, N.° 40
 
@@ -1426,7 +1440,7 @@ Jornal da República
 
 - Compete à Inspecção da Defensoria Pública proceder , nos termos da lei, a inspecções, inquéritos e sindicâncias aos serviços da Defensoria Pública e à instrução de processos disciplinares, em conformidade com as deliberações do Conselho Superior da Defensoria Pública ou por iniciativa do Defensor Público Geral.
 
-- Complementarmente, os serviços de inspecção destinamse a colher informações sobre o serviço e mérito dos defensores.
+- Complementarmente, os serviços de inspecção destinam-se a colher informações sobre o serviço e mérito dos defensores.
 
 - A inspecção destinada a colher informações sobre o serviço e mérito dos defensores e os inquéritos e processos disciplinares não podem ser conduzidos por inspectores de categoria ou antiguidade inferior à dos defensores inspeccionados.
 
@@ -1440,7 +1454,7 @@ A orgânica, o quadro e o estatuto dos serviços de apoio técnico e administrat
 
 ##### Artigo 17.° Estrutura
 
-- A Defensoria Pública Distrital é dirigida por um Defensor Público Distrital que é responsável pela direcção, coorde-
+- A Defensoria Pública Distrital é dirigida por um Defensor Público Distrital que é responsável pela direcção,
 
 Série I, N.° 40
 
@@ -1454,7 +1468,7 @@ Página  2661
 
 Jornal da República
 
-nação e fiscalização da actividade dos defensores inscritos no respectivo gabinete distrital.
+coordenação e fiscalização da actividade dos defensores inscritos no respectivo gabinete distrital.
 
 - O Defensor Público Distrital é nomeado, por períodos de três anos, pelo Conselho Superior da Defensoria Pública, de entre os Defensores Públicos de primeira classe, e substituído, nas suas faltas e impedimentos, pelo Defensor Público mais antigo da classe mais elevada.
 
@@ -1494,9 +1508,9 @@ Compete ao Defensor Público Distrital:
 
 - Cumprir os demais requisitos previstos no Estatuto da Função Pública.
 
-- Os defensores públicos estagiários não fazem parte da car-
+- Os defensores públicos estagiários não fazem parte da
 
-reira da defensoria pública e exercem a função jurisdicional até ao termo da duração do estágio, salvo deliberação do Conselho Superior da Defensoria Pública em contrário.
+carreira da defensoria pública e exercem a função jurisdicional até ao termo da duração do estágio, salvo deliberação do Conselho Superior da Defensoria Pública em contrário.
 
 ##### Artigo 20.º Categorias
 
@@ -1616,7 +1630,7 @@ Os defensores públicos são classificados pelo Conselho Superior da Defensoria 
 
 ##### Artigo 35.° Elementos  a serem considerados na classificação
 
-- Nas classificações são considerados os resultados de ins-
+- Nas classificações são considerados os resultados de
 
 Série I, N.° 40
 
@@ -1630,7 +1644,7 @@ Página  2663
 
 Jornal da República
 
-pecções anteriores, inquéritos, sindicâncias ou processos disciplinares, tempo de serviço, trabalhos publicados na área do direito, relatórios anuais e quaisquer elementos complementares que estejam na posse do Conselho Superior da Defensoria Pública.
+inspecções anteriores, inquéritos, sindicâncias ou processos disciplinares, tempo de serviço, trabalhos publicados na área do direito, relatórios anuais e quaisquer elementos complementares que estejam na posse do Conselho Superior da Defensoria Pública.
 
 - São igualmente tidos em conta o volume de serviço a cargo do defensor público e as condições de trabalho.
 
@@ -1656,7 +1670,7 @@ Os defensores gozam do estatuto especial que é previsto na presente lei, sendo-
 
 ##### Artigo 39.° Direitos do Defensor Público-Geral
 
-Para além do previsto no artigo seguinte, o Defensor PúblicoGeral tem direito a:
+Para além do previsto no artigo seguinte, o Defensor Público-Geral tem direito a:
 
 - Viatura;
 
@@ -1700,7 +1714,7 @@ Quando colocados ou transferidos, por motivos que não sejam de natureza discipl
 
 ##### Artigo 44.º Ajudas de custo
 
-Aos defensores são devidas ajudas de custo sempre que se desloquem em servico para fora do distrito judicial onde se encontrem a exercer funções.
+Aos defensores são devidas ajudas de custo sempre que se desloquem em serviço para fora do distrito judicial onde se encontrem a exercer funções.
 
 ##### Artigo 45.º Casa de habitação
 
@@ -1718,7 +1732,7 @@ Série I, N.° 40
 
 Jornal da República
 
-de habitacão mobilada, mediante o pagamento de uma contrapartida mensal, a fixar pelo Ministro da Justiça, ouvido o Conselho Superior da Defensoria Pública, de montante não superior a um décimo da sua remuneração.
+de habitação mobilada, mediante o pagamento de uma contrapartida mensal, a fixar pelo Ministro da Justiça, ouvido o Conselho Superior da Defensoria Pública, de montante não superior a um décimo da sua remuneração.
 
 - Os defensores que não disponham de casa de habitação nos termos do número anterior , têm direito a um subsídio mensal de habitação, cujo montante é fixado pelo Ministro da  Justiça,  ouvido  o  Conselho  Superior  da  Defensoria Pública.
 
@@ -1774,7 +1788,7 @@ Aos defensores é vedado:
 
 - O direito de exigir dos seus superiores que as instruções destes sejam reduzidas a escrito sempre que as mesmas se afigurem ilegais ou contrárias às regras próprias da instituição;
 
-- Obter de quaisquer autoridades públicas ou seus agentes, incluindo as polícias, quaisquer documentos, certidões ou informações que repute necessárias ou úteis ao exercicio das suas funções;
+- Obter de quaisquer autoridades públicas ou seus agentes, incluindo as polícias, quaisquer documentos, certidões ou informações que repute necessárias ou úteis ao exercício das suas funções;
 
 - Não ser preso, senão por ordem judicial escrita, salvo em caso de flagrante delito devendo nesta circunstância ser feita imediata comunicação ao Defensor Público Geral.
 
@@ -1850,9 +1864,7 @@ Jornal da República
 
 ##### Artigo 55.° Repreensão registada
 
-- A pena de repreensão registada consiste na censura reduzi-
-
-da a escrito destinada a prevenir o defensor de que a acção ou omissão é de molde a causar perturbação no exercício das funções ou de nele se repercutir de forma incompatível com a dignidade que lhe é exigível.
+- A pena de repreensão registada consiste na censura reduzida a escrito destinada a prevenir o defensor de que a acção ou omissão é de molde a causar perturbação no exercício das funções ou de nele se repercutir de forma incompatível com a dignidade que lhe é exigível.
 
 - A pena de repreensão registada é aplicável a faltas de pequena gravidade susceptíveis de causar perturbação no exercício das funções ou de nele se repercutir de forma incompatível com a dignidade que lhe é exigível.
 
@@ -1928,9 +1940,7 @@ exercia funções na data da prática da infracção, quando o defensor punido n
 
 ##### Artigo 61.° Medida da pena
 
-- Na determinação da medida da pena atende-se à gravidade do facto, à culpa do agente, à sua personalidade e às circuns-
-
-tâncias que deponham a seu favor ou contra si.
+- Na determinação da medida da pena atende-se à gravidade do facto, à culpa do agente, à sua personalidade e às circunstâncias que deponham a seu favor ou contra si.
 
 - A pena pode ser especialmente atenuada, aplicando-se a pena de escalão inferior, quando existam circunstâncias anteriores ou posteriores à infracção ou contemporâneas dela que diminuam acentuadamente a gravidade do facto ou a culpa do agente.
 
@@ -2026,7 +2036,7 @@ _______________
 
 de 29 de outubro
 
-# ESTATUTO  ORGÂNICO  DO  LABORA TÓRIO NACIONAL  DE  SAÚDE
+# ESTATUTO  ORGÂNICO  DO  LABORATÓRIO NACIONAL  DE  SAÚDE
 
 O Estatuto Orgânico do Ministério da Saúde, aprovado pelo Decreto-Lei n.º1/2008 de 16 de Janeiro, refere-se no artigo 17º ao Laboratório Nacional de Saúde, como serviço integrado na administração indirecta do estado, com a natureza de pessoa colectiva de direito público dotada de personalidade jurídica e de  autonomia  administrativa,  financeira  e  patrimonial, decorrendo  do  disposto  no  nº3  do  mesmo  artigo  17º,  a necessidade de, aprovar o seu estatuto orgânico;
 
@@ -2042,7 +2052,7 @@ O presente diploma aprova o regime jurídico aplicável ao Laboratório Nacional
 
 - O LNS é uma pessoa colectiva de direito público, que reveste a modalidade de instituto público, dotada de autonomia administrativa e financeira, e patrimonio próprio, sujeita à tutela e superintêndencia do Ministro da Saúde.
 
-- O LNS rege-se pelo presente diploma e pelas disposições legais que lhes sejam directamente aplicáveis, pelas normas do Serviço Nacional de Saúde e, subsidiariamente, pelas normas aplicáveis aos or ganismos  da Administração Indirecta do Estado.
+- O LNS rege-se pelo presente diploma e pelas disposições legais que lhes sejam directamente aplicáveis, pelas normas do Serviço Nacional de Saúde e, subsidiariamente, pelas normas aplicáveis aos organismos da Administração Indirecta do Estado.
 
 ##### Artigo 3º Atribuições e Competências
 
@@ -2108,9 +2118,7 @@ O LNS deve, no exercício da sua actividade, actuar de acordo com os seguintes p
 
 - Respeito pelos direitos dos utentes;
 
-- Prontidão e qualidade da assistência prestada, de harmo-
-
-nia com os meios de acção disponíveis;
+- Prontidão e qualidade da assistência prestada, de harmonia com os meios de acção disponíveis;
 
 - Aproveitamento eficiente e legítimo de todos os recursos humanos e materiais disponíveis, com vista à obtenção do máximo de eficácia;
 
@@ -2278,9 +2286,7 @@ O conselho de administração pode ser dissolvido por determinação do Ministro
 
 ##### Artigo 16º Competências do Presidente
 
-- Compete  especialmente  ao  presidente  do  Conselho  de
-
-Administração do LNS:
+- Compete especialmente ao presidente do Conselho de Administração do LNS:
 
 - Submeter ao Ministro da saúde os assuntos sujeitos à sua superintendência e tutela;
 
@@ -2306,7 +2312,7 @@ Administração do LNS:
 
 - Compete ao fiscal único a fiscalização interna da gestão financeira do Laboratório Nacional de Saúde, e em especial:
 
-- V erificar a legalidade dos actos de caracter financeiro do conselho de administração, a sua conformidade com o presente diploma e demais normas aplicáveis ao LNS, designadamente as normas aplicáveis aos organismos integrados  na  administração  indirecta  do  estado dotados de autonomia administrativa, financeira e patrimonial;
+- Verificar a legalidade dos actos de caracter financeiro do conselho de administração, a sua conformidade com o presente diploma e demais normas aplicáveis ao LNS, designadamente as normas aplicáveis aos organismos integrados na administração indirecta do estado dotados de autonomia administrativa, financeira e patrimonial;
 
 - Acompanhar a execução dos planos de actividade e orçamentos;
 
@@ -2460,11 +2466,9 @@ Jornal da República
 
 ##### Artigo 26º Recursos Humanos
 
-- Ao pessoal do LNS aplica-se o regime da Função Pública,
+- Ao pessoal do LNS aplica-se o regime da Função Pública, podendo os especialistas, analistas e técnicos de laboratório ser contratatos ao abrigo do regime do contrato individual de trabalho.
 
-podendo os especialistas, analistas e técnicos de laboratório ser contratatos ao abrigo do regime do contrato individual de trabalho.
-
-- Os profissionais de saúde que prestam serviço no LNS são registados no Ministério da Saúde nos termos do DecretoLei nº 14/2004, de 1 de Setembro.
+- Os profissionais de saúde que prestam serviço no LNS são registados no Ministério da Saúde nos termos do Decreto-Lei nº 14/2004, de 1 de Setembro.
 
 ## CAPITULO  V DISPOSIÇÕES  FINAIS  E  TRANSITÓRIAS
 
@@ -2520,7 +2524,7 @@ Jornal da República
 
 de 29 de Outubro
 
-# REGIME  DAS  LICENÇAS  E  DAS  F ALTAS  DOS TRABALHADORES DA   ADMINISTRAÇÃO  PÚBLICA
+# REGIME  DAS  LICENÇAS  E  DAS  FALTAS  DOS TRABALHADORES DA   ADMINISTRAÇÃO  PÚBLICA
 
 A aprovação de um regime que ordene e discipline as licenças e faltas dos funcionários e agentes da Administração é exigido pelo Estatuto da Função Pública, Lei número 8/2004, de 16 de Junho, que apenas estabeleceu os tipos de licença existentes. Toda  a  regulamentação  foi  cometida  ao  Governo  por autorização.
 
@@ -2762,7 +2766,7 @@ Salvo nos casos de baixa hospitalar, o funcionário ou agente deve ser submetido
 
 - Tenha atingido o limite anual de quinze dias úteis de faltas por doença e não se encontre apto a regressar ao serviço;
 
-- A actuação do funcionário ou agente indicie um compor tamento fraudulento, independentemente do número de faltas por doença;
+- A actuação do funcionário ou agente indicie um comportamento fraudulento, independentemente do número de faltas por doença;
 
 - O comportamento do funcionário ou agente indicie perturbação  física  ou  psíquica  que  comprometa  o  normal desempenho das suas funções.
 
@@ -3020,9 +3024,9 @@ A Comissão de Leilões tem por missão definir os critérios e procedimentos ne
 
 - Definir as modalidades de venda de bens patrimoniais do Estado, designadamente:
 
-- V enda em hasta pública por proposta em carta fechada, que será a regra;
+- Venda em hasta pública por proposta em carta fechada, que será a regra;
 
-- ii)   V enda por ajuste directo;
+- ii)   Venda por ajuste directo;
 
 - iii)  Vendas condicionadas a sectores licenciados para o efeito que presenciam os actos de venda;
 
@@ -3086,6 +3090,24 @@ Os membros da Comissão de Leilões, que é composta por um presidente, um vice-
 
 ##### Artigo 5.º Sessões
 
+- A Comissão de Leilões funcionará nas instalações da Direcção Nacional do Património do Estado, onde também terão lugar as reuniões, salvo se pela maioria dos seis membros for decidido em contrário e com a regularidade de sessões ordinárias que internamente for definida nas mesmas condições.
+
+- O presidente convocará as reuniões extraordinárias com a antecedência mínima de 3 dias úteis, salvo caso de urgência justificada.
+
+- A Comissão de Leilões decide e aprova todos os actos por maioria simples.
+
+##### Artigo 6.º Articulação e colaboração
+
+- De modo a assegurar a sua eficiência, os membros da Comissão de Leilões mantêm entre si estreita articulação e colaboração no exercício das suas funções.
+
+- A Comissão de Leilões pode solicitar a colaboração de outros departamentos e organismos nacionais para realizar as atribuições que lhe estão cometidas.
+
+## CAPÍTULO  III DISPOSIÇÕES  FINAIS
+
+##### Artigo 7.º Divisão de Património e Leilão
+
+Compete à Divisão de Património e Leilão, através do Director Nacional do Património do Estado, proceder à organização e execução das vendas patrimoniais, de acordo com as indicações da Comissão de Leilões.
+
 ##### Artigo 8.º Regimes especiais
 
 - A Comissão de Leilões pode intervir ou participar em outros actos públicos de venda de mercadorias por ordem judicial, a pedido da Direcção Nacional dos Impostos ou da Direcção Nacional das Alfândegas.
@@ -3104,31 +3126,13 @@ _____________________
 
 Kay Rala Xanana Gusmão
 
-- A Comissão de Leilões funcionará nas instalações da Direcção Nacional do Património do Estado, onde também terão  lugar  as  reuniões,  salvo  se  pela  maioria  dos  seis membros for decidido em contrário e com a regularidade de sessões ordinárias que internamente for definida nas mesmas condições.
-
 A Ministra das Finanças,
 
 __________
 
 Emília Pires
 
-- O Ministro das Infra-Estruturas,
-
-- O presidente convocará as reuniões extraordinárias com a antecedência mínima de 3 dias úteis, salvo caso de urgência justificada.
-
-- A Comissão de Leilões decide e aprova todos os actos por maioria simples.
-
-##### Artigo 6.º Articulação e colaboração
-
-- De  modo a assegurar a sua eficiência, os membros da Comissão de Leilões mantêm entre si estreita articulação e colaboração no exercício das suas funções.
-
-- A Comissão de Leilões pode solicitar a colaboração de outros departamentos e organismos nacionais para realizar as atribuições que lhe estão cometidas.
-
-## CAPÍTULO  III DISPOSIÇÕES  FINAIS
-
-##### Artigo 7.º Divisão de Património e Leilão
-
-Compete à Divisão de Património e Leilão, através do Director Nacional do Património do Estado, proceder à organização e execução das vendas patrimoniais, de acordo com as indicações da Comissão de Leilões.
+O Ministro das Infra-Estruturas,
 
 ________________
 
