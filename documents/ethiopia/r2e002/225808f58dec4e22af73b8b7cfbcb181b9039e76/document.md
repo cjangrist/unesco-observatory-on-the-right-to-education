@@ -24,6 +24,8 @@ Have therefore adopted, on 8 December 1994 this constitution through representat
 
 [[START OF PAGE 2]]
 
+## CHAPTER ONE GENERAL PROVISIONS
+
 ### Article 1
 
 #### Nomenclature of the State
@@ -62,7 +64,7 @@ The national anthem of Ethiopia, to be determined by law, shall reflect the idea
 
 - Members of  the  Federation  may  by  law  determine  their  respective  working languages.
 
-## CHAPTER ONE GENERAL PROVISIONS
+
 
 [[END OF PAGE 2]]
 
@@ -793,6 +795,8 @@ There shall be two Federal Houses: The House of Peoples' Representatives and the
 
 [[START OF PAGE 20]]
 
+### PART ONE THE HOUSE OF PEOPLES' REPRESENTATIVES
+
 #### Article 54
 
 ##### Members of the House of Peoples' Representatives
@@ -825,7 +829,7 @@ There shall be two Federal Houses: The House of Peoples' Representatives and the
 
 - Consistent  with  the  provision  of  sub-Article  1  of  this  Article,  the  House  of Peoples'  Representatives  shall  enact  specific  laws  on  the  following  matters:
 
-### PART ONE THE HOUSE OF PEOPLES' REPRESENTATIVES
+
 
 [[END OF PAGE 20]]
 
@@ -941,6 +945,8 @@ Laws deliberated upon and passed by the House shall be submitted to the Nation's
 
 [[START OF PAGE 24]]
 
+### PART TWO THE HOUSE OF THE FEDERATION
+
 #### Article 61
 
 ##### Members of the House of the Federation
@@ -977,7 +983,7 @@ Laws deliberated upon and passed by the House shall be submitted to the Nation's
 
 - It  shall  elect  the  Speaker  and  the  Deputy  Speaker  of  the  House,  and  it  shall adopt rules of procedure and internal administration.
 
-### PART TWO THE HOUSE OF THE FEDERATION
+
 
 [[END OF PAGE 24]]
 
@@ -1034,6 +1040,7 @@ No one may be a member of the House of Peoples' Representatives and of the House
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+## CHAPTER SEVEN THE PRESIDENT OF THE REPUBLIC
 
 ### Article 69
 
@@ -1075,11 +1082,12 @@ The President of the Federal Democratic Republic of Ethiopia is the Head of Stat
 
 - He  shall,  in  accordance  with  conditions  and  procedures  established  by  law, grant pardon.
 
-## CHAPTER SEVEN THE PRESIDENT OF THE REPUBLIC
+
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+## CHAPTER EIGHT THE EXECUTIVE
 
 ### Article 72
 
@@ -1119,7 +1127,7 @@ The President of the Federal Democratic Republic of Ethiopia is the Head of Stat
 
 - He  supervises  the  conduct  and  efficiency  of  the  Federal  administration  and takes such corrective measures as are necessary.
 
-## CHAPTER EIGHT THE EXECUTIVE
+
 
 [[END OF PAGE 27]]
 
@@ -1203,7 +1211,7 @@ The President of the Federal Democratic Republic of Ethiopia is the Head of Stat
 
 - States  shall  establish  State  Supreme,  High  and  First-Instance  Courts. Particulars shall be determined by law.
 
-- Special or ad hoc courts which take judicial powers away form the regular courts or institutions legally empowered to exercise judicial functions and which do not follow legally prescribed procedures shall not be established.
+- Special or ad hoc courts which take judicial powers away from the regular courts or institutions legally empowered to exercise judicial functions and which do not follow legally prescribed procedures shall not be established.
 
 - Pursuant to sub-Article 5 of Article 34 the House of Peoples' Representatives and State Councils can establish or give official recognition  to  religious  and  customary  courts.  Religious  and  customary courts that had state recognition and functioned prior to the adoption of the Constitution  shall  be  organized  on  the  basis  of  recognition  accorded  to them by this Constitution.
 
@@ -1217,7 +1225,7 @@ The President of the Federal Democratic Republic of Ethiopia is the Head of Stat
 
 - Judicial Powers, both at Federal and State levels, are vested in the courts.
 
-- Courts of any level shall be free from any interference of influence of any governmental body, government official or from any other source.
+- Courts of any level shall be free from any interference or influence of any governmental body, government official or from any other source.
 
 - Judges  shall  exercise  their  functions  in  full  independence  and  shall  be directed solely by the law.
 
@@ -1247,7 +1255,7 @@ The President of the Federal Democratic Republic of Ethiopia is the Head of Stat
 
 (a) The Federal Supreme Court has a power of cassation over any final court  decision  containing  a  basic  error  of  law.  Particulars  shall  be determined by law.
 
-(b) The State Supreme Court has power of causation over any final court decision  on  State  matters  which  contains  a  basic  error  of  law. Particulars shall be determined by law.
+(b) The State Supreme Court has power of cassation over any final court decision on State matters which contains a basic error of law. Particulars shall be determined by law.
 
 [[END OF PAGE 30]]
 
@@ -1324,6 +1332,7 @@ The President of the Federal Democratic Republic of Ethiopia is the Head of Stat
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+## CHAPTER TEN NATIONAL POLICY PRINCIPLES AND OBJECTIVES
 
 ### Article 85
 
@@ -1363,7 +1372,7 @@ The President of the Federal Democratic Republic of Ethiopia is the Head of Stat
 
 - The armed forces shall carry out their functions free of any partisanship to any political organization(s).
 
-## CHAPTER TEN NATIONAL POLICY PRINCIPLES AND OBJECTIVES
+
 
 [[END OF PAGE 33]]
 
@@ -1413,9 +1422,11 @@ The President of the Federal Democratic Republic of Ethiopia is the Head of Stat
 
 #### Cultural Objectives
 
-- Government shall have the duty to support, on the basis of equality, the growth and enrichment of cultures and traditions that are compatible with fundamental rights, human dignity, democratic norms and ideals, and the provisions Constitution.
+- Government shall have the duty to support, on the basis of equality, the growth and enrichment of cultures and traditions that are compatible with fundamental rights, human dignity, democratic norms and ideals, and the provisions of the Constitution.
 
-- Government and all Ethiopian citizens shall have the duty to protect the country's  natural  endowment,  historical  sites  and  objects.Government shall have the duty, to the extent of the its resources permit, to support the development of the arts, science and technology.
+- Government and all Ethiopian citizens shall have the duty to protect the country's natural endowment, historical sites and objects.
+
+- Government shall have the duty, to the extent its resources permit, to support the development of the arts, science and technology.
 
 ### Article 92
 
@@ -1437,13 +1448,13 @@ The President of the Federal Democratic Republic of Ethiopia is the Head of Stat
 
 (a)  The  Council  of  Ministers  of  the  Federal  Government  shall  have  the power to decree a state of emergency, should an external invasion, a break down  of  law  and  order  which  endangers  the  Constitutional  order  and which cannot be controlled by the regular law enforcement agencies and personnel, a natural disaster, or an epidemic occur.
 
-(b) Sate executives can decree a State-Wide state of emergency should a natural  disaster  or  an  epidemic  occur.  Particulars  shall  be  determined  in State Constitutions to be promulgated in conformity with this Constitution.
+(b) State executives can decree a State-Wide state of emergency should a natural disaster or an epidemic occur. Particulars shall be determined in State Constitutions to be promulgated in conformity with this Constitution.
 
 - A state of emergency declared in accordance with sub-Article 1(a) of this Article:
 
 (a) If declared when the House of Peoples' Representatives is in session, the decree shall be submitted to the House within forty-eight hours of its declaration. The decree, if not approved by a two-thirds majority vote of members of the House of Peoples' Representatives, shall be repealed forthwith.
 
-(b) Subject  to  the  required  vote  of  approval  set  out  in  (a)  of  this  subArticle, the decree declaring a state of emergency when the House of
+(b) Subject to the required vote of approval set out in (a) of this sub-Article, the decree declaring a state of emergency when the House of
 
 [[END OF PAGE 35]]
 
@@ -1467,7 +1478,7 @@ Peoples'  Representatives  is  not  in  session  shall  be  submitted  to  it wi
 
 (b) To  inspect  and  follow  up  that  no  measure  taken  during  the  state  of emergency is inhumane.
 
-(c)  To  recommend  to  the  Prime  Minister  or  to  the  Council  of  Ministers corrective measures if it finds and case of inhumane treatment.
+(c) To recommend to the Prime Minister or to the Council of Ministers corrective measures if it finds any case of inhumane treatment.
 
 (d) To ensure the prosecution of perpetrators of inhumane acts.
 
@@ -1484,6 +1495,7 @@ Peoples'  Representatives  is  not  in  session  shall  be  submitted  to  it wi
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+assistance and loans do not hinder the proportionate development of States. The Federal Government shall have the power to audit and inspect the proportionate development of States.
 
 ### Article 95
 
@@ -1519,7 +1531,7 @@ The  Federal  Government  and  the  States  shall  share  revenue  taking  the  
 
 - States shall levy and collect income taxes on employees of the State and of private enterprises.
 
-- States shall determine and collect fees for land usufractuary rights.
+- States shall determine and collect fees for land usufructuary rights.
 
 - States shall levy and collect taxes on the incomes of private farmers and farmers incorporated in cooperative associations.
 
@@ -1527,7 +1539,7 @@ The  Federal  Government  and  the  States  shall  share  revenue  taking  the  
 
 - States  shall  levy  and  collect  taxes  on  income  from  transport  services rendered on waters within their territory.
 
-assistance  and  loans  do  not  hinder  the  proportionate  development  of States. The Federal Government shall have the power to audit and inspect the proportionate development of States.
+
 
 [[END OF PAGE 37]]
 
@@ -1537,7 +1549,7 @@ assistance  and  loans  do  not  hinder  the  proportionate  development  of Sta
 
 - States shall levy and collect profit, sales, excise and personal income taxes on income of enterprises owned by the States.
 
-- Consistent with the provisions sub-Article 3 of Article 98, States shall levy and collect taxes on income derived from mining operations, and royalties and land rentals on such operations.
+- Consistent with the provisions of sub-Article 3 of Article 98, States shall levy and collect taxes on income derived from mining operations, and royalties and land rentals on such operations.
 
 - They  shall  determine  and  collect  fees  and  charges  relating  to  licenses issued and services rendered by State organs.
 
@@ -1551,7 +1563,7 @@ assistance  and  loans  do  not  hinder  the  proportionate  development  of Sta
 
 - They shall jointly levy and collect taxes on the profits of companies and on dividends due to shareholders.
 
-- They shall jointly levy and collect taxes on incomes derived from largescale mining and all petroleum and gas operations, and royalties on such operations.
+- They shall jointly levy and collect taxes on incomes derived from large-scale mining and all petroleum and gas operations, and royalties on such operations.
 
 ### Article 99
 
@@ -1563,7 +1575,7 @@ The House of the Federation and the House of Peoples' Representatives shall, in 
 
 #### Directives on Taxation
 
-- In exercising their taxing powers, Sates and the Federal Government shall ensure that any tax is related to the source of revenue taxed and that it is determined following proper considerations.
+- In exercising their taxing powers, States and the Federal Government shall ensure that any tax is related to the source of revenue taxed and that it is determined following proper considerations.
 
 - They shall ensure that the tax does not adversely affect their relationship and that the rate and amount of taxes shall be commensurate with services the taxes help deliver.
 
@@ -1605,7 +1617,7 @@ The House of the Federation and the House of Peoples' Representatives shall, in 
 
 - The annual budget of the Commission shall be submitted for approval to the House of Peoples' Representatives.
 
-- A  national  populations  census  shall  be  conducted  every  ten  years.  The House of the Federation shall determine the boundaries of constituencies on the basis of the census results and a proposal submitted to the House by the National Election Board.
+- A national population census shall be conducted every ten years. The House of the Federation shall determine the boundaries of constituencies on the basis of the census results and a proposal submitted to the House by the National Election Board.
 
 - The Commission shall be accountable to the House of Peoples' Representatives.  It  shall  submit  to  the  House  periodic  reports  on  the conduct of its programs and activities.
 
@@ -1631,7 +1643,7 @@ Any proposal for constitutional amendment, if supported by two-thirds majority v
 
 (c)  When  the  House  of  the  Federation,  by  a  two-thirds  majority  vote, approves the proposed amendment.
 
-- All provisions of this Constitution other than those specified in subArticle 1 of this Article can be amended only in the following manner:
+- All provisions of this Constitution other than those specified in sub-Article 1 of this Article can be amended only in the following manner:
 
 (a)  When  the  House  of  Peoples'  Representatives  and  the  House  of  the Federation,  in  a  joint  session,  approve  a  proposed  amendment  by  a two-thirds majority vote; and
 
