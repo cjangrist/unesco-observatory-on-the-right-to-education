@@ -10,13 +10,13 @@ The  Democratic  People's  Republic  of  Korea  is  the  socialist  motherland  
 
 The great leader Comrade Kim Il Sung is the founder of the Democratic People's Republic of Korea and the father of socialist Korea.
 
-Comrade Kim Il Sung authored the immortal Juche idea and, by organizing and leading the antiJapanese revolutionary struggle under its banner, created the glorious revolutionary traditions and achieved the historic cause of national restoration. On the basis of laying a solid foundation for the  building  of  an  independent  and  sovereign  State  in  the  political,  economic,  cultural  and military fields, he founded the Democratic People's Republic of Korea.
+Comrade Kim Il Sung authored the immortal Juche idea and, by organizing and leading the anti-Japanese revolutionary struggle under its banner, created the glorious revolutionary traditions and achieved the historic cause of national restoration. On the basis of laying a solid foundation for the building of an independent and sovereign State in the political, economic, cultural and military fields, he founded the Democratic People's Republic of Korea.
 
-Having put forward Juche-oriented revolutionary lines, Comrade Kim Il Sung wisely led various stages of social revolution and construction work, thus strengthening and developing the Republic into a socialist country centred on the masses, into a socialist State which is independent, selfsufficient and self-reliant in defence.
+Having put forward Juche-oriented revolutionary lines, Comrade Kim Il Sung wisely led various stages of social revolution and construction work, thus strengthening and developing the Republic into a socialist country centred on the masses, into a socialist State which is independent, self-sufficient and self-reliant in defence.
 
 Comrade Kim Il Sung elucidated the fundamental principles of the building and activities of the State,  established  the  best  State  and  social  system,  the  best  mode  of  politics  and  system  and methods of administering  society,  and  laid  solid  foundations  for  the  prosperity  of  the  socialist motherland and for the inheritance and consummation of the revolutionary cause of Juche.
 
-Regarding 'The people are my God' as his maxim, Comrade Kim Il Sung always mixed with the people, devoted his whole life to them and turned the whole of society into a large family which is united in one mind by taking care of the people and leading them through his noble benevolent politics.
+Regarding “The people are my God” as his maxim, Comrade Kim Il Sung always mixed with the people, devoted his whole life to them and turned the whole of society into a large family which is united in one mind by taking care of the people and leading them through his noble benevolent politics.
 
 The  great  leader  Comrade  Kim  Il  Sung  is  the  sun  of  the  nation  and  the  lodestar  of  national reunification. Regarding the reunification of the country as the supreme national task, Comrade Kim Il Sung devoted all his efforts and care for its realization. He made the Republic a powerful bastion for national reunification. At the same time, he set forth the fundamental principle and ways  of  national  reunification  and  developed  the  movement  for  national  reunification  into  a nationwide  movement,  opening  the  way  for  achieving  the  cause  of  reunification  through  the united efforts of the whole nation.
 
@@ -26,7 +26,7 @@ The  great  leader  Comrade  Kim  Il  Sung  is  the  sun  of  the  nation  and  
 
 The  great  leader  Comrade  Kim  Il  Sung  clarified  the  basic  ideals  of  the  foreign  policy  of  the Democratic  People's  Republic  of  Korea.  On  the  basis  of  this,  he  expanded  and  developed  the country's foreign relations and ensured that the international prestige of the Republic was exalted. As  a  veteran  statesman  in  the  world,  Comrade  Kim  Il  Sung  opened  up  the  new  era  of independence,  carried  out  energetic  activities  for  the  strengthening  and  development  of  the socialist movement and the non-aligned movement, as well as for world peace and for friendship among the peoples and made an imperishable contribution to the cause of human independence.
 
-Comrade Kim Il Sung was a genius in ideology and theory, a master of leadership art, an evervictorious iron-willed brilliant commander, a great revolutionary and statesman and a great man.
+Comrade Kim Il Sung was a genius in ideology and theory, a master of leadership art, an ever-victorious iron-willed brilliant commander, a great revolutionary and statesman and a great man.
 
 The great idea of Comrade Kim Il Sung and the great achievements made under his leadership are the  lasting  treasures  of  the  Korean  revolution  and  the  basic  guarantee  for  the  prosperity  of  the Democratic People's Republic of Korea.
 
@@ -46,7 +46,7 @@ The  Democratic  People's  Republic  of  Korea  is  a  revolutionary  State  whi
 The Democratic People's Republic of Korea is guided in its activities by the Juche idea  and  the  Songun  idea,  a  world  outlook  centred  on  people,  a  revolutionary ideology for achieving the independence of the masses of the people.
 
 #### Art. 4
-The  sovereignty  of  the  Democratic  People's  Republic  of  Korea  resides  in  the workers, peasants, soldiers, working intellectuals and all other working people. The  working  people  exercise  State  power  through  their  representative  organs-the Supreme People's Assembly and local People's Assemblies at all levels.
+The sovereignty of the Democratic People's Republic of Korea resides in the workers, peasants, soldiers, working intellectuals and all other working people. The working people exercise State power through their representative organs–the Supreme People's Assembly and local People's Assemblies at all levels.
 
 #### Art. 5
 All  State  organs  in  the  Democratic  People's  Republic  of  Korea  are  formed  and function on the principle of democratic centralism.
@@ -69,14 +69,12 @@ The social system of the Democratic People's Republic of Korea is a people-centr
 The  State  shall  defend  the  interests  of  the  workers,  peasants,  soldiers,  working intellectuals and all other working people who have been freed from exploitation and oppression and become the masters of the State and society, and respect and protect human rights.
 
 #### Art. 9
-The  Democratic  People's  Republic  of  Korea  shall  strive  to  achieve  the  complete victory  of  socialism  in  the  northern  half  of  Korea  by  strengthening  the  people's power  and  vigorously  performing  the  three  revolutions-ideological,  technological and  cultural-and  reunify  the  country  on  the  principle  of  independence,  peaceful reunification and great national unity.
+The Democratic People's Republic of Korea shall strive to achieve the complete victory of socialism in the northern half of Korea by strengthening the people's power and vigorously performing the three revolutions–ideological, technological and cultural–and reunify the country on the principle of independence, peaceful reunification and great national unity.
 
 #### Art. 10
-The  Democratic  People's  Republic  of  Korea  is  underpinned  by  the  politicoworking class.
+The Democratic People's Republic of Korea is underpinned by the politico-ideological unity of all the people based on the worker-peasant alliance led by the working class.
 
-- ideological  unity  of  all  the  people  based  on  the  worker-peasant  alliance  led  by  the The State shall revolutionize all the members of society, and assimilate them to the
-
-working class by intensifying the ideological revolution, and shall turn the whole of society into a collective, united in a comradely way.
+The State shall revolutionize all the members of society, and assimilate them to the working class by intensifying the ideological revolution, and shall turn the whole of society into a collective, united in a comradely way.
 
 #### Art. 11
 The  Democratic  People's  Republic  of  Korea  shall  conduct  all  activities  under  the leadership of the Workers' Party of Korea.
@@ -106,11 +104,11 @@ Independence, peace and friendship are the basic ideals of the foreign policy an
 independence, and resolutely support and encourage the struggles of all people who oppose  all  forms  of  aggression  and  interference  and  fight  for  their  countries' independence and national and class emancipation.
 
 #### Art. 18
-The  law  of  the  Democratic  People's  Republic  of  Korea  reflects  the  wishes  and interests  of  the  working  people  and  is  a  basic  instrument  for  State  administration. Respect  for  the  law  and  strict  adherence  to  and  execution  of  it  is  the  duty  of  all institutions, enterprises, organizations and citizens.
+The law of the Democratic People's Republic of Korea reflects the wishes and interests of the working people and is a basic instrument for State administration.
 
-- The  State  shall  perfect  the  system  of  socialist  law  and  promote  the  socialist  law-
+Respect for the law and strict adherence to and execution of it is the duty of all institutions, enterprises, organizations and citizens.
 
-abiding life.
+The State shall perfect the system of socialist law and promote the socialist law-abiding life.
 
 ## CHAPTER II THE ECONOMY
 
@@ -146,17 +144,17 @@ Private property is property owned and consumed by individual citizens. Private 
 The  Democratic  People's  Republic  of  Korea  regards  the  steady  improvement  of  the material and cultural standards of the people as the supreme principle of its activities. The  increasing  material  wealth  of  society  in  our  country,  where  taxes  have  been abolished, is used entirely to promote the well-being of the working people. The State shall provide all the working people with every condition for obtaining food, clothing and housing.
 
 #### Art. 26
-The independent national economy of the Democratic People's Republic of Korea is a
+The independent national economy of the Democratic People's Republic of Korea is a solid foundation for the people's happy socialist life and for the country's prosperity.
 
-- solid foundation for the people's happy socialist life and for the country's prosperity. The  State,  adhering  to  the  line  of  building  a  socialist,  independent  national  economy, shall  endeavour  to  promote  the  national  economy  on  a  Juche-oriented,  modern  and scientific basis so as to make the national economy a highly developed, Juche-oriented economy and build material and technical foundations commensurate with a completely socialist society.
+The State, adhering to the line of building a socialist, independent national economy, shall endeavour to promote the national economy on a Juche-oriented, modern and scientific basis so as to make the national economy a highly developed, Juche-oriented economy and build material and technical foundations commensurate with a completely socialist society.
 
 #### Art. 27
 The  technological  revolution  is  a  basic  link  for  developing  the  socialist  economy. The  State  shall  conduct  all  economic  activities  giving  primary  preference  to  technical development at all times, push ahead with scientific and technological development and the  technical  renovation  of  the  national  economy  and  vigorously  promote  the  mass technical innovation movement so as to free the working people from difficult, tiresome labour and to narrow the distinctions between physical and mental labour.
 
 #### Art. 28
-The State shall industrialize and modernize agriculture through the rural technical
+The State shall industrialize and modernize agriculture through the rural technical revolution and improve the role of the county and its guidance and assistance to rural areas in order to eliminate the difference between town and countryside and the class distinction between workers and peasants.
 
-- revolution and improve the role of the county and its guidance and assistance to rural areas in order to eliminate the difference between town and countryside and the class distinction between workers and peasants. The State shall undertake, at its own expense, the building of production facilities for cooperative farms and modern houses in the countryside.
+The State shall undertake, at its own expense, the building of production facilities for cooperative farms and modern houses in the countryside.
 
 [[END OF PAGE 5]]
 
@@ -195,9 +193,9 @@ The State shall ensure a high rate of growth in production and a balanced develo
 [[START OF PAGE 7]]
 
 #### Art. 35
-The Democratic People's Republic of Korea shall compile and implement the State
+The Democratic People's Republic of Korea shall compile and implement the State budget according to the national economic development plan.
 
-- budget according to the national economic development plan. The State shall systematically increase its material accumulation and expand and develop socialist property by intensifying the campaign for increased production and greater economy and by exercising strict financial control in all spheres.
+The State shall systematically increase its material accumulation and expand and develop socialist property by intensifying the campaign for increased production and greater economy and by exercising strict financial control in all spheres.
 
 #### Art. 36
 In the Democratic People's Republic of Korea foreign trade is conducted by the State organs and enterprises, and social, cooperative organizations. The State shall develop foreign trade on the principles of complete equality and mutual benefit.
@@ -301,12 +299,12 @@ The requirements for becoming a citizen of the Democratic People's Republic of K
 A citizen is under the protection of the Democratic People's Republic of Korea regardless of domicile.
 
 #### Art. 63
-In the Democratic People's Republic of Korea the rights and duties of citizens are based on the collectivist principle: 'One for all and all for one.'
+In the Democratic People's Republic of Korea the rights and duties of citizens are based on the collectivist principle: “One for all and all for one.”
 
 #### Art. 64
 The State shall effectively guarantee the genuine democratic rights and freedoms as well as the material and cultural well-being of all its citizens.
 
-- In the Democratic People's Republic of Korea the rights and freedoms of citizens shall be amplified with the consolidation and development of the socialist system.
+In the Democratic People's Republic of Korea the rights and freedoms of citizens shall be amplified with the consolidation and development of the socialist system.
 
 [[END OF PAGE 9]]
 
@@ -331,14 +329,14 @@ Citizens have freedom of religious belief. This right is granted through the app
 #### Art. 69
 Citizens are entitled to submit complaints and petitions.
 
-- The  State  shall  investigate  and  deal  with  complaints  and  petitions  impartially  as
-
-stipulated by law.
+The State shall investigate and deal with complaints and petitions impartially as stipulated by law.
 
 #### Art. 70
-- Citizens have the right to work. All  able-bodied  citizens  may  choose  occupations  in  accordance  with  their  wishes  and
+Citizens have the right to work.
 
-skills and are provided with stable jobs and working conditions. Citizens work according to their abilities and are paid in accordance with the quantity and quality of their work.
+All able-bodied citizens may choose occupations in accordance with their wishes and skills and are provided with stable jobs and working conditions.
+
+Citizens work according to their abilities and are paid in accordance with the quantity and quality of their work.
 
 #### Art. 71
 Citizens  have  the  right  to  relaxation.  This  right  is  ensured  by  the  establishment  of working  hours,  and  the  provision  of  holidays,  paid  leave,  accommodation  at  health resorts  and  holiday  homes  at  State  expense  and  by  a  growing  network  of  cultural facilities.
@@ -352,7 +350,7 @@ Citizens  have  the  right  to  education.  This  right  is  ensured  by  an  ad
 #### Art. 74
 Citizens are free to engage in scientific, literary and artistic pursuits.
 
-- The State shall grant benefits to inventors and innovators.
+The State shall grant benefits to inventors and innovators.
 
 Copyrights, inventions and patents shall be protected by law.
 
@@ -407,7 +405,7 @@ Citizens shall constantly increase their revolutionary vigilance and devotedly f
 
 #### Art. 86
 
-- National defence is the supreme duty and honour of citizens. Citizens shall defend the country and serve in the armed forces as required by law.
+National defence is the supreme duty and honour of citizens. Citizens shall defend the country and serve in the armed forces as required by law.
 
 ## CHAPTER VI STATE ORGANS
 
@@ -428,33 +426,33 @@ The Supreme People's Assembly is elected for a term of five years. A new Supreme
 #### Art. 91
 The Supreme People's Assembly has the authority to:
 
-- amend or supplement the Constitution;
+1) amend or supplement the Constitution;
 
-- adopt, amend or supplement laws;
+2) adopt, amend or supplement laws;
 
-- approve the major laws adopted by the Presidium of the Supreme People's Assembly, when the Supreme People's Assembly is not in session;
+3) approve the major laws adopted by the Presidium of the Supreme People's Assembly, when the Supreme People's Assembly is not in session;
 
-- establish the basic principles of the State's domestic and foreign policies;
+4) establish the basic principles of the State's domestic and foreign policies;
 
-- elect or recall the Chairman of the National Defence Commission of the Democratic People's Republic of Korea;
+5) elect or recall the Chairman of the National Defence Commission of the Democratic People's Republic of Korea;
 
-- elect or recall the President of the Presidium of the Supreme People's Assembly;
+6) elect or recall the President of the Presidium of the Supreme People's Assembly;
 
-- elect or recall the First Vice-Chairman, Vice-Chairmen and members of the National Defence Commission on the recommendation of the Chairman of the National Defence Commission of the Democratic People's Republic of Korea;
+7) elect or recall the First Vice-Chairman, Vice-Chairmen and members of the National Defence Commission on the recommendation of the Chairman of the National Defence Commission of the Democratic People's Republic of Korea;
 
-- elect or recall the Vice-Presidents, Honorary Vice-Presidents, Secretary and members of the Presidium of the Supreme People's Assembly;
+8) elect or recall the Vice-Presidents, Honorary Vice-Presidents, Secretary and members of the Presidium of the Supreme People's Assembly;
 
-- elect or recall the Premier of the Cabinet;
+9) elect or recall the Premier of the Cabinet;
 
-- appoint the Vice-Premiers, Chairmen, Ministers and other members of the Cabinet on the recommendation of the Premier of the Cabinet;
+10) appoint the Vice-Premiers, Chairmen, Ministers and other members of the Cabinet on the recommendation of the Premier of the Cabinet;
 
-- appoint or remove the Prosecutor General of the Supreme Public Prosecutors Office;
+11) appoint or remove the Prosecutor General of the Supreme Public Prosecutors Office;
 
-- elect or recall the President of the Supreme Court;
+12) elect or recall the President of the Supreme Court;
 
-- elect or recall the Chairmen, Vice-Chairmen and members of the Committees of the Supreme People's Assembly;
+13) elect or recall the Chairmen, Vice-Chairmen and members of the Committees of the Supreme People's Assembly;
 
-- 14)deliberate  and  approve  the  State  plan  for  the  development  of  the  national  economy
+14) deliberate and approve the State plan for the development of the national economy
 
 [[END OF PAGE 12]]
 
@@ -488,7 +486,7 @@ The first session of each Supreme People's Assembly elects the Credentials Commi
 #### Art. 97
 The Supreme People's Assembly issues laws, ordinances and decisions.
 
-- Laws,  ordinances  and  decisions  of  the  Supreme  People's  Assembly  are  adopted  when more than half of the deputies attending signify approval by a show of hands. The Constitution is amended or supplemented with the approval of more than two-thirds of the total number of deputies to the Supreme People's Assembly.
+Laws, ordinances and decisions of the Supreme People's Assembly are adopted when more than half of the deputies attending signify approval by a show of hands. The Constitution is amended or supplemented with the approval of more than two-thirds of the total number of deputies to the Supreme People's Assembly.
 
 #### Art. 98
 The Supreme People's Assembly appoints the Bills Committee, the Budget Committee and other Committees.
@@ -520,17 +518,17 @@ The Chairman of the National Defence Commission of the Democratic People's Repub
 #### Art. 103
 The Chairman of the National Defence Commission of the Democratic People's Republic of Korea has the following duties and authority to:
 
-- direct the overall affairs of the State;
+1) direct the overall affairs of the State;
 
-- personally guide the work of the National Defence Commission;
+2) personally guide the work of the National Defence Commission;
 
-- appoint or remove key cadres in the field of national defence;
+3) appoint or remove key cadres in the field of national defence;
 
-- ratify or rescind major treaties concluded with other countries;
+4) ratify or rescind major treaties concluded with other countries;
 
-- exercise the right of granting special pardon;
+5) exercise the right of granting special pardon;
 
-- proclaim a state of emergency, a state of war and mobilization order within the country.
+6) proclaim a state of emergency, a state of war and mobilization order within the country.
 
 #### Art. 104
 The Chairman of the National Defence Commission of the Democratic People's Republic of Korea issues orders.
@@ -548,7 +546,7 @@ The National Defence Commission is the supreme defence leadership body of State 
 [[START OF PAGE 15]]
 
 #### Art. 107
-The National Defence Commission consists of the Chairman, the First ViceChairman, Vice-Chairmen and members.
+The National Defence Commission consists of the Chairman, the First Vice-Chairman, Vice-Chairmen and members.
 
 #### Art. 108
 The term of office of the National Defence Commission is the same as that of the Supreme People's Assembly.
@@ -556,7 +554,7 @@ The term of office of the National Defence Commission is the same as that of the
 #### Art. 109
 The National Defence Commission has the following duties and authority to:
 
-- map  out  important  policies  of  the  State  for  carrying  out  the  Songun-based revolutionary line;
+1) map out important policies of the State for carrying out the Songun-based revolutionary line;
 
 2) direct the whole armed forces and defence building of the State;
 
@@ -580,21 +578,17 @@ The National Defence Commission is accountable to the Supreme People's Assembly.
 The Presidium of the Supreme People's Assembly is the highest organ of State power when the Supreme People's Assembly is not in session.
 
 #### Art. 113
-The Presidium of the Supreme People's Assembly consists of the President, VicePresidents, Secretary and members.
+The Presidium of the Supreme People's Assembly consists of the President, Vice-Presidents, Secretary and members.
 
 #### Art. 114
-The  Presidium  of  the  Supreme  People's  Assembly  may  have  a  few  Honorary
+The Presidium of the Supreme People's Assembly may have a few Honorary Vice-Presidents.
 
-- Vice-Presidents. Honorary  Vice-Presidents  of  the  Presidium  of  the  Supreme  People's  Assembly
-
-may be deputies to the Supreme People's Assembly who have participated in the work of State building for a long time and rendered distinguished service.
+Honorary Vice-Presidents of the Presidium of the Supreme People's Assembly may be deputies to the Supreme People's Assembly who have participated in the work of State building for a long time and rendered distinguished service.
 
 #### Art. 115
-The  term  of  office  of  the  Presidium  of  the  Supreme  People's  Assembly  is  the
+The term of office of the Presidium of the Supreme People's Assembly is the same as that of the Supreme People's Assembly.
 
-- same as that of the Supreme People's Assembly. The Presidium of the Supreme People's Assembly continues its work until a new Presidium  is  elected,  even  after  the  term  of  the  Supreme  People's  Assembly
-
-expires.
+The Presidium of the Supreme People's Assembly continues its work until a new Presidium is elected, even after the term of the Supreme People's Assembly expires.
 
 [[END OF PAGE 15]]
 
@@ -658,9 +652,9 @@ The  Presidium  of  the  Supreme  People's  Assembly  convenes  Plenary  Meeting
 Committee consists of the President, Vice-Presidents and Secretary.
 
 #### Art. 119
-The  Plenary  Meeting  of  the  Presidium  of  the  Supreme  People's  Assembly
+The Plenary Meeting of the Presidium of the Supreme People's Assembly deliberates and decides on important matters arising in fulfilling the duties of the Presidium and exercising its authority.
 
-- deliberates and decides on important matters arising in fulfilling the duties of the Presidium and exercising its authority. The  Meeting  of  the  Permanent  Committee  deliberates  and  decides  on  matters entrusted to it by the Plenary Meeting.
+The Meeting of the Permanent Committee deliberates and decides on matters entrusted to it by the Plenary Meeting.
 
 #### Art. 120
 The Presidium of the Supreme People's Assembly issues decrees, decisions and directives.
@@ -677,25 +671,27 @@ The Presidium of the Supreme People's Assembly is accountable to the Supreme Peo
 The Cabinet is the administrative and executive body of the highest State power and organ of overall State administration.
 
 #### Art. 124
-The  Cabinet  consists  of  the  Premier,  Vice-Premiers,  Chairmen,  Ministers  and
+The Cabinet consists of the Premier, Vice-Premiers, Chairmen, Ministers and other members as required.
 
-- other members as required. The term of office of the Cabinet is the same as that of the Supreme People's Assembly.
+The term of office of the Cabinet is the same as that of the Supreme People's Assembly.
 
 #### Art. 125
 
-- The Cabinet has the following duties and authority to: 1) adopt measures for the implementation of State policies;
+The Cabinet has the following duties and authority to:
 
-2)  adopt,  amend  or  supplement  the  regulations  on  State  administration  on  the basis of the Constitution and the laws;
+1) adopt measures for the implementation of State policies;
 
-3)  direct  the  work  of  the  Commissions  and  Ministries  of  the  Cabinet,  organs directly under its authority and local People's Committees;
+2) adopt, amend or supplement the regulations on State administration on the basis of the Constitution and the laws;
 
-4)  establish  or  abolish  organs  directly under  its  authority,  major  administrative and  economic  bodies  and  enterprises,  and  adopt  measures  for  improving  State administration bodies;
+3) direct the work of the Commissions and Ministries of the Cabinet, organs directly under its authority and local People's Committees;
 
-- draft  the  State  plan  for  the  development  of  the  national  economy  and  adopt measures to put it into effect;
+4) establish or abolish organs directly under its authority, major administrative and economic bodies and enterprises, and adopt measures for improving State administration bodies;
 
-- compile the State budget and adopt measures to implement it;
+5) draft the State plan for the development of the national economy and adopt measures to put it into effect;
 
-7) organize and execute the work of industry, agriculture, construction, transport, post  and  telecommunications,  commerce,  foreign  trade,  land  administration, municipal  administration,  education,  science,  culture,  health  service,  physical culture and sport, labour administration, protection of environment, tourism, and so on;
+6) compile the State budget and adopt measures to implement it;
+
+7) organize and execute the work of industry, agriculture, construction, transport, post and telecommunications, commerce, foreign trade, land administration, municipal administration, education, science, culture, health service, physical culture and sport, labour administration, protection of environment, tourism, and so on;
 
 [[END OF PAGE 17]]
 
@@ -743,7 +739,7 @@ The Commissions and Ministries of the Cabinet supervise and guide the work of th
 [[START OF PAGE 19]]
 
 #### Art. 135
-The  Commissions  and  Ministries  of  the  Cabinet  run  committee  meetings  and cadre meetings The committee meeting and cadre meeting deliberate and decide on the measures for the implementation of the decisions and directives of the Cabinet and other important matters.
+The Commissions and Ministries of the Cabinet run committee meetings and cadre meetings. The committee meeting and cadre meeting deliberate and decide on the measures for the implementation of the decisions and directives of the Cabinet and other important matters.
 
 #### Art. 136
 The Commissions and Ministries of the Cabinet issue directives.
@@ -761,9 +757,19 @@ The  term  of  office  of  the  People's  Assembly  of  a  province  (or  munici
 
 #### Art. 140
 
-- The local People's Assembly has the following duties and authority to:
+The local People's Assembly has the following duties and authority to:
 
-- deliberate  and  approve  the  local  plan  for  the  development  of  the  national economy and the report on its implementation; 2) deliberate and approve the local budget and the report on its implementation; 3) adopt measures to observe State laws in the area concerned; 4) elect or recall the Chairman, Vice-Chairmen, Secretary and members of the People's Committee at the corresponding level; 5)  elect  or  recall  the  Judges  and  People's  Assessors  of  the  Court  at  the corresponding level; 6) rescind unwarranted decisions and directives of the People's Committee at the corresponding level and the People's Assemblies and People's Committees at lower levels.
+1) deliberate and approve the local plan for the development of the national economy and the report on its implementation;
+
+2) deliberate and approve the local budget and the report on its implementation;
+
+3) adopt measures to observe State laws in the area concerned;
+
+4) elect or recall the Chairman, Vice-Chairmen, Secretary and members of the People's Committee at the corresponding level;
+
+5) elect or recall the Judges and People's Assessors of the Court at the corresponding level;
+
+6) rescind unwarranted decisions and directives of the People's Committee at the corresponding level and the People's Assemblies and People's Committees at lower levels.
 
 #### Art. 141
 The  local  People's  Assembly  convenes  regular  and  extraordinary  sessions. Regular sessions are convened once or twice a year by the People's Committee at the corresponding level. Extraordinary  sessions  are  convened  when  the  People's  Committee  at  the corresponding level deems them necessary or at the request of a minimum of one-third of the total number of deputies.
@@ -779,7 +785,7 @@ The local  People's  Assembly  requires  a  quorum  of  at  least  two-thirds  o
 The local People's Assembly elects its Speaker. The Speaker presides over the sessions.
 
 #### Art. 144
-The local People's Assembly issues decisions
+The local People's Assembly issues decisions.
 
 ### SECTION 7. THE LOCAL PEOPLE'S COMMITTEE
 
@@ -792,27 +798,29 @@ The local People's Committee consists of the Chairman, Vice-Chairmen, Secretary 
 corresponding People's Assembly.
 
 #### Art. 147
-The local People's Committee has the following duties and authority to: 1) convene sessions of the People's Assembly;
+The local People's Committee has the following duties and authority to:
+
+1) convene sessions of the People's Assembly;
 
 2) organize the election of deputies to the People's Assembly;
 
 3) work with the deputies to the People's Assembly;
 
-4)  implement  the  decisions  and  directives  of  the  corresponding  local  People's Assembly and the People's Committees at higher levels, the laws, ordinances and decisions of the Supreme People's Assembly, the 5) orders of the Chairman of the National Defence Commission of the Democratic People' Republic of Korea, the decisions and directives of the National  Defence  Commission,  the  decrees, decisions and directives of the Presidium of the Supreme People's Assembly and the decisions and directives of the Cabinet and the Commissions and Ministries of the Cabinet;
+4) implement the decisions and directives of the corresponding local People's Assembly and the People's Committees at higher levels, the laws, ordinances and decisions of the Supreme People's Assembly, the orders of the Chairman of the National Defence Commission of the Democratic People's Republic of Korea, the decisions and directives of the National Defence Commission, the decrees, decisions and directives of the Presidium of the Supreme People's Assembly and the decisions and directives of the Cabinet and the Commissions and Ministries of the Cabinet;
 
-organize and carry out all administrative affairs in the given area;
+5) organize and carry out all administrative affairs in the given area;
 
-6) draft the local plan for the development of the national economy and 7) adopt measures to implement it;
+6) draft the local plan for the development of the national economy and adopt measures to implement it;
 
-compile the local budget and adopt measures for its implementation;
+7) compile the local budget and adopt measures for its implementation;
 
-8) adopt measures to maintain public order, protect the property and interests of the State  and  social,  cooperative  organizations  and  safeguard  the  rights  of  citizens  in the given area;
+8) adopt measures to maintain public order, protect the property and interests of the State and social, cooperative organizations and safeguard the rights of citizens in the given area;
 
 9) inspect and control the establishment of order in State administration in the given area;
 
 10) direct the work of the People's Committees at lower levels;
 
-11)  rescind  unwarranted  decisions  and  directives  of  the  People's  Committees  at lower  levels,  and  suspend  the  implementation  of  unwarranted  decisions  of  the People's Assemblies at lower levels.
+11) rescind unwarranted decisions and directives of the People's Committees at lower levels, and suspend the implementation of unwarranted decisions of the People's Assemblies at lower levels.
 
 [[END OF PAGE 20]]
 
@@ -831,9 +839,9 @@ The local People's Committee issues decisions and directives.
 The local People's Committee may have non-permanent committees to assist it in its work.
 
 #### Art. 152
-The  local  People's  Committee  is  accountable  to  the  corresponding  People's Assembly.
+The local People's Committee is accountable to the corresponding People's Assembly.
 
-- The local People's Committee is subordinate to the People's Committees at higher levels, the Cabinet and the Presidium of the Supreme People's Assembly.
+The local People's Committee is subordinate to the People's Committees at higher levels, the Cabinet and the Presidium of the Supreme People's Assembly.
 
 ### SECTION 8. THE PUBLIC PROSECUTORS OFFICE AND THE COURT
 
@@ -849,9 +857,9 @@ Public  prosecutors  are  appointed  or  removed  by  the  Supreme  Public  Pros
 #### Art. 156
 The functions of the Public Prosecutors Office are to:
 
-- ensure the strict observance of State laws by institutions, enterprises, organizations and citizens; 2)  ensure  that  the  decisions  and  directives  of  State  bodies  conform  with  the
+1) ensure the strict observance of State laws by institutions, enterprises, organizations and citizens;
 
-Constitution, the laws, ordinances and decisions of the Supreme People's Assembly, the orders of the Chairman of the National Defence Commission of the Democratic People's  Republic  of  Korea,  the  decisions  and  directives  of  the  National  Defence Commission, the decrees, decisions and directives of the Presidium of the Supreme People's Assembly, and the decisions and directives of the Cabinet;
+2) ensure that the decisions and directives of State bodies conform with the Constitution, the laws, ordinances and decisions of the Supreme People's Assembly, the orders of the Chairman of the National Defence Commission of the Democratic People's Republic of Korea, the decisions and directives of the National Defence Commission, the decrees, decisions and directives of the Presidium of the Supreme People's Assembly, and the decisions and directives of the Cabinet;
 
 [[END OF PAGE 21]]
 
@@ -866,12 +874,12 @@ Investigation  and  prosecution  are  conducted  under  the  unified  direction 
 The  Supreme  Public  Prosecutors  Office  is  accountable  to  the  Supreme  People's Assembly  and  to  the  Presidium  of  the  Supreme  People's  Assembly  when  the Supreme People's Assembly is not in session.
 
 #### Art. 159
-Justice is  administered  by  the  Supreme  Court,  the  Court  of  a  province  (or municipality  directly  under  central  authority),  the  City  (or  District)  or  County People's  Courts,  and  the  Special  Court  Verdicts  are  delivered  in  the  name  of  the Democratic People's Republic of Korea.
+Justice is administered by the Supreme Court, the Court of a province (or municipality directly under central authority), the City (or District) or County People's Courts, and the Special Court. Verdicts are delivered in the name of the Democratic People's Republic of Korea.
 
 #### Art. 160
-The term of office of the President of the Supreme Court is the same as that of the
+The term of office of the President of the Supreme Court is the same as that of the Supreme People's Assembly.
 
-- Supreme People's Assembly. The term of office of Judges and People's Assessors of the Supreme Court, the Court of  a  province  (or  municipality  directly  under  central  authority)  and  the  City  (or District) or County People's Courts is the same as that of the People's Assembly at the corresponding level.
+The term of office of Judges and People's Assessors of the Supreme Court, the Court of a province (or municipality directly under central authority) and the City (or District) or County People's Courts is the same as that of the People's Assembly at the corresponding level.
 
 #### Art. 161
 The  President  and  Judges  of  the  Special  Court  are  appointed  or  removed  by  the Supreme Court. The People's Assessors of the Special Court are elected by the soldiers of the unit concerned or by employees at their meetings.
@@ -906,13 +914,13 @@ The  Supreme  Court  is  accountable  to  the  Supreme  People's  Assembly  and 
 ## CHAPTER VII EMBLEM, FLAG, ANTHEM AND CAPITAL
 
 #### Art. 169
-The  national  emblem  of  the  Democratic  People's  Republic  of  Korea  bears  the design  of  a  grand  hydroelectric  power  station  under  Mt.  Paektu,  the  sacred mountain of the revolution, and the beaming light of a five-pointed red star, with ears of rice forming an oval frame, bound with a red ribbon bearing the inscription 'The Democratic People's Republic of Korea.'
+The national emblem of the Democratic People's Republic of Korea bears the design of a grand hydroelectric power station under Mt. Paektu, the sacred mountain of the revolution, and the beaming light of a five-pointed red star, with ears of rice forming an oval frame, bound with a red ribbon bearing the inscription “The Democratic People's Republic of Korea.”
 
 #### Art. 170
 The  national  flag  of  the  Democratic  People's  Republic  of  Korea  consists  of  a central red panel, bordered both above and below by a narrow white stripe and a broad blue stripe. The central red panel bears a five-pointed red star within a white circle near the hoist. The ratio of the width to the length is 1:2.
 
 #### Art. 171
-The  national  anthem  of  the  Democratic  People's  Republic  of  Korea  is  'The Patriotic Song.'
+The national anthem of the Democratic People's Republic of Korea is “The Patriotic Song.”
 
 #### Art. 172
 The capital of the Democratic People's Republic of Korea is Pyongyang.
