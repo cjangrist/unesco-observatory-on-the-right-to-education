@@ -2,6 +2,8 @@
 
 PDF generated: 29 Jan 2019, 23:19
 
+CONSTITUTE
+
 constituteproject.org
 
 # Gabon's Constitution of 1991 with Amendments through 2011
@@ -19,6 +21,25 @@ constituteproject.org
 PDF generated: 29 Jan 2019, 23:19
 
 ## Table of contents
+
+Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+PRELIMINARY TITLE: OF FUNDAMENTAL PRINCIPLES AND RIGHTS . . . . . . . . 3
+FIRST TITLE: OF THE REPUBLIC AND ITS SOVERIEGNTY . . . . . . . . . . . . . . . . . . 6
+TITLE II: OF THE EXECUTIVE POWER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+I. OF THE PRESIDENT OF THE REPUBLIC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+II. OF THE GOVERNMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+TITLE III: OF THE LEGISLATIVE POWER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+TITLE IV: OF THE RELATIONSHIP BETWEEN THE EXECUTIVE AND
+LEGISLATIVE POWERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+TITLE V: OF THE JUDICIAL POWER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+TITLE VI: OF THE CONSTITUTIONAL COURT . . . . . . . . . . . . . . . . . . . . . . . . . 23
+TITLE VII: OF THE NATIONAL COUNCIL OF COMMUNICATION . . . . . . . . . . 26
+TITLE VIII: OF THE ECONOMIC AND SOCIAL COUNCIL . . . . . . . . . . . . . . . . . 28
+TITLE IX: OF THE LOCAL COLLECTIVITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+TITLE X: OF INTERNATIONAL TREATIES AND ACCORDS . . . . . . . . . . . . . . . . 30
+TITLE XI: OF THE ACCORDS OF COOPERATION AND ASSOCIATION . . . . . . . 31
+TITLE XII: OF THE REVISION OF THE CONSTITUTION . . . . . . . . . . . . . . . . . . . 31
+TITLE XIII: OF FINAL AND TRANSITORY DISPOSITIONS . . . . . . . . . . . . . . . . . 32
 
 Gabon 1991 (rev. 2011)
 
@@ -470,7 +491,9 @@ PDF generated: 29 Jan 2019, 23:19
 
 · Oaths to abide by constitution
 
-· Head of state replacement administrative authority.
+· Head of state replacement
+
+administrative authority.
 
 If there is a dispute, the Court's decision must take place within a maximum delay of fifteen (15) days from the eighth (8th) day following the announcement of election results.
 
@@ -714,7 +737,9 @@ PDF generated: 29 Jan 2019, 23:19
 
 · Cabinet selection
 
-· Head of government powers Constitutional Court.
+· Head of government powers
+
+Constitutional Court.
 
 The President will inform the nation of such measure by direct communication.
 
@@ -1788,7 +1813,7 @@ The  Economic  and  Social  Council  may  also  proceed  to  analyze  current  i
 
 The Economic and Social Council may nominate one of its members, at the request of the President of the Republic, the Government and the presidents of the Chambers of  Parliament,  to  expose  before  these  institutions  the  Council's  opinion  on  the projects or positions of law it receives.
 
-The Government and Parliament are obligated, when they are called upon, to give a response to the opinions and reports formulated by the Economic and Social Council within a maximum delay of three (3) months for the Government, and before the end of their current session for Parliament.
+The Government and Parliament are obligated, when they are called upon, to give a response to the opinions and reports formulated by the Economic and Social Council within a maximum delay of three (3) months for the Government, and before the end
 
 Gabon 1991 (rev. 2011)
 
@@ -1802,7 +1827,9 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
-The Economic and Social Council receives a certified copy of all laws, ordinances and decrees  at  the  moment  of  their  promulgation.  It  ensures  the  execution  of  the Government's  decisions  related  to  the  economic  and  social  organization  of  the country.
+of their current session for Parliament.
+
+The Economic and Social Council receives a certified copy of all laws, ordinances and decrees at the moment of their promulgation. It ensures the execution of the Government's decisions related to the economic and social organization of the country.
 
 #### Article 108
 
@@ -1996,6 +2023,54 @@ PDF generated: 29 Jan 2019, 23:19
 
 ## Topic index
 
+### A
+
+Access to higher education . . . 5
+Advisory bodies to the head of state . . . 12
+Approval of general legislation . . . 11
+
+### B
+
+Balanced budget . . . 18
+Budget bills . . . 18, 21
+
+### C
+
+Cabinet removal . . . 10, 14, 22
+Cabinet selection . . . 10, 13
+Census . . . 5, 23
+Claim of universal suffrage . . . 7, 8, 15
+Compensation of legislators . . . 15
+Constitution amendment procedure . . . 20, 31
+Constitutional court powers . . . 13, 23, 24, 27, 30
+Constitutional court selection . . . 24
+Constitutional court term length . . . 24
+Constitutional court term limits . . . 24
+Constitutional interpretation . . . 23, 24
+Constitutionality of legislation . . . 11, 23, 24
+
+### D
+
+Deputy executive . . . 10
+Designation of commander in chief . . . 12
+Dismissal of the legislature . . . 11
+Division of labor between chambers . . . 21
+Duty to obey the constitution . . . 5
+Duty to pay taxes . . . 5
+Duty to serve in the military . . . 5
+Duty to work . . . 4
+
+### E
+
+Economic plans . . . 18
+Eligibility for cabinet . . . 14
+Eligibility for const court judges . . . 25
+Eligibility for first chamber . . . 15
+Eligibility for head of government . . . 14
+Eligibility for head of state . . . 8
+Eligibility for second chamber . . . 15
+Emergency provisions . . . 7, 12, 14, 16, 18, 19
+
 Gabon 1991 (rev. 2011)
 
 Page 33
@@ -2007,6 +2082,55 @@ Page 33
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
+
+Equality regardless of creed or belief . . . 6
+Equality regardless of gender . . . 6
+Equality regardless of origin . . . 6
+Equality regardless of race . . . 4, 6
+Equality regardless of religion . . . 4, 6
+Establishment of cabinet/ministers . . . 13
+Establishment of constitutional court . . . 23
+Establishment of judicial council . . . 25
+Extraordinary legislative sessions . . . 8, 12, 16, 19
+
+### F
+
+First chamber reserved policy areas . . . 20
+First chamber selection . . . 7, 15, 17
+Foreign affairs representative . . . 12, 30
+Free education . . . 5
+Freedom of association . . . 4
+Freedom of expression . . . 3
+Freedom of movement . . . 3, 4
+Freedom of opinion/thought/conscience . . . 3
+Freedom of press . . . 26
+Freedom of religion . . . 3, 4
+
+### G
+
+General guarantee of equality . . . 6
+God or other deities . . . 3
+
+### H
+
+Head of government decree power . . . 19
+Head of government powers . . . 13, 14, 19
+Head of government removal . . . 10, 22
+Head of government replacement . . . 22
+Head of government selection . . . 10
+Head of government term length . . . 8, 14
+Head of government term limits . . . 14
+Head of government's role in the legislature . . . 14
+Head of state decree power . . . 8, 19
+Head of state powers . . . 11, 12
+Head of state replacement . . . 9
+Head of state selection . . . 7, 8
+Head of state term length . . . 8
+Head of state term limits . . . 8
+
+### I
+
+Immunity of legislators . . . 15
 
 Gabon 1991 (rev. 2011)
 
@@ -2020,6 +2144,58 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
+Inalienable rights . . . 3
+Initiation of general legislation . . . 20
+International human rights treaties . . . 3
+International law . . . 4, 13, 23, 24, 30
+International organizations . . . 12, 30, 31
+
+### J
+
+Joint meetings of legislative chambers . . . 31
+
+### L
+
+Leader of first chamber . . . 16
+Leader of second chamber . . . 16
+Legal status of treaties . . . 24, 30
+Legislative committees . . . 20, 21, 22
+Legislative oversight of the executive . . . 21, 22
+Length of legislative sessions . . . 16
+Limits on removing head of government . . . 22
+
+### M
+
+Media commission . . . 26
+Min age of const court judges . . . 25
+Minimum age for second chamber . . . 15
+Minimum age of head of government . . . 14
+Minimum age of head of state . . . 8
+Motives for writing constitution . . . 3
+Municipal government . . . 17, 18, 30
+
+### N
+
+Name/structure of executive(s) . . . 7, 14
+National anthem . . . 6
+National capital . . . 6
+National flag . . . 6
+National motto . . . 6
+
+### O
+
+Oaths to abide by constitution . . . 9, 10
+Official or national languages . . . 6
+Organic laws . . . 20, 21, 23
+Outside professions of legislators . . . 14, 15
+
+### P
+
+Power to declare/approve war . . . 19
+Power to pardon . . . 12
+Powers of cabinet . . . 13, 14, 19
+Presumption of innocence in trials . . . 6
+
 Gabon 1991 (rev. 2011)
 
 Page 35
@@ -2032,9 +2208,52 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
+Prohibited political parties . . . 4
+Prohibition of cruel treatment . . . 3
+Prohibition of torture . . . 3
+Protection from expropriation . . . 4
+Protection from unjustified restraint . . . 6
+Protection of environment . . . 4, 18, 28
+Protection of language use . . . 6
+Public or private sessions . . . 17
+Publication of deliberations . . . 17
+
 ### R
 
+Radio . . . 26
+Reference to art . . . 18, 27
+Reference to fraternity/solidarity . . . 5
+Reference to science . . . 27
+Referenda . . . 6, 11, 30, 31
+Regulation of evidence collection . . . 4
+Removal of individual legislators . . . 16
+Replacement of legislators . . . 15, 16
+Requirements for birthright citizenship . . . 17
+Restrictions on political parties . . . 7
+Restrictions on voting . . . 7
+Right to counsel . . . 3, 6
+Right to culture . . . 5, 18, 26
+Right to development of personality . . . 3
+Right to form political parties . . . 4, 7
+Right to found a family . . . 4
+Right to join trade unions . . . 4, 18
+Right to marry . . . 4
+Right to own property . . . 4
+Right to privacy . . . 3, 4
+Right to rest and leisure . . . 4
+Right to speedy trial . . . 6
+Right to strike . . . 18
+Right to transfer property . . . 17
+Right to work . . . 4, 18
+Rights of children . . . 5
+
 ### S
+
+Scheduling of elections . . . 8, 11
+Second chamber reserved policy areas . . . 20
+Second chamber selection . . . 7, 15, 17
+Secret ballot . . . 7
+Selection of active-duty commanders . . . 12
 
 Gabon 1991 (rev. 2011)
 
@@ -2047,6 +2266,31 @@ Page 36
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
+
+Separation of church and state . . . 5, 6
+Source of constitutional authority . . . 3
+State operation of the media . . . 26
+State support for children . . . 4
+State support for the disabled . . . 4
+State support for the elderly . . . 4
+Structure of legislative chamber(s) . . . 15
+
+### T
+
+Telecommunications . . . 3, 17, 26
+Television . . . 26
+Term length for first chamber . . . 15
+Term length of second chamber . . . 15
+Treaty ratification . . . 30
+Type of government envisioned . . . 6
+
+### U
+
+Unamendable provisions . . . 31
+
+### V
+
+Veto override procedure . . . 11
 
 Gabon 1991 (rev. 2011)
 
