@@ -6,7 +6,7 @@ Tenth consultation of Member States on the application of the Convention and the
 
 # GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ## 1. Introduction
 
@@ -16,7 +16,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG4 by ensuring effective articulation between normative and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ## 2. Reporting obligations
 
@@ -58,9 +58,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -74,9 +74,9 @@ Country name: Estonia
 
 Organization or entity responsible for the preparation of the report: Ministry of Education and Research
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -110,7 +110,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -118,7 +118,7 @@ o Yes
 
 ☒ No, please briefly explain the difficulties encountered:
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is not a State Party to the Convention:
 
@@ -150,9 +150,9 @@ https://volinik.ee/en/sul-on-mure/public-sector-representative/haridus-avs-en/
 
 ## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
@@ -206,7 +206,7 @@ Report on human rights and human rights' values in Estonian school and in educat
 
 This notably is covered under SDG target 4.1 and partly target 4.b 6
 
-With referral to the 9 th Estonian report, The right to acquire education is guaranteed by the Education Act, the Pre-school Child Care Institutions Act,  the  Basic  Schools  and  Upper Secondary Schools Act, the Private Schools Act, the Vocational Educational Institutions Act, the Institutions of Professional Higher Education Act and the Universities Act.
+With referral to the 9th Estonian report, The right to acquire education is guaranteed by the Education Act, the Pre-school Child Care Institutions Act, the Basic Schools and Upper Secondary Schools Act, the Private Schools Act, the Vocational Educational Institutions Act, the Institutions of Professional Higher Education Act and the Universities Act.
 
 Equal opportunities exist for acquiring basic, secondary, vocational and higher education as well as participating in hobby education. Under the Education Act, basic education (grades 1-9)  is  compulsory  for  school-age  children.  Obligation  to  attend  school  also  applies  to children of foreign citizens and people with undetermined citizenship residing in Estonia.
 
@@ -226,7 +226,7 @@ Last, the Basic Schools and Upper Secondary Schools Act:
 
 §6, art. 1 states the following: 'Upon organisation of studies, the state, owners of schools and schools adhere to the following principles:
 
-- general education of good quality adheres to the principles of inclusive education and is equally available to all persons regardless of their social and economic background, nationality, gender, place of residence or special educational needs';
+1) general education of good quality adheres to the principles of inclusive education and is equally available to all persons regardless of their social and economic background, nationality, gender, place of residence or special educational needs';
 
 § 27, articles 1-3 state:
 
@@ -288,7 +288,7 @@ A need for enhanced support and special support is assessed by an external advis
 
 According to the recommendation of the external advisory team and with the written parental consent, the school provides the student with enhanced support or special support, studies at home for health reasons, non-stationary studies with regard to the student who is under the obligation to attend school, reduces and replaces the learning outcomes provided for in the national curriculum in one or more subjects, recommends the application of studies for students  with  mild  learning  difficulties,  students  with  moderate  learning  difficulties  and students with severe and profound learning difficulties, or releases the student from having to study a mandatory subject.
 
-Enhanced support is applied to a student who, due to their permanent learning difficulty or psychical or behavioural disorder or another health condition or disability, needs a constant support specialist service and an individual curriculum in one, more or all subjects, or parttime studies individually or in a group, or individual support during studies in the class, or studies in a special class.
+Enhanced support is applied to a student who, due to their permanent learning difficulty or psychical or behavioural disorder or another health condition or disability, needs a constant support specialist service and an individual curriculum in one, more or all subjects, or part-time studies individually or in a group, or individual support during studies in the class, or studies in a special class.
 
 Special  support  is  applied  to  a  student  who,  due  to  their  severe  and  permanent  mental disorder,  intellectual  or  mental  disability  or  multiple  disabilities  needs  disability-specific organisation of studies, study environment, study methodology, study aids and a constant support specialist service combined with social or health services or both in order to be able to participate in studies; part-time studies individually or in a group or constant individual support in a class or studies in a special class.
 
@@ -324,7 +324,7 @@ A support specialist:
 
 - cooperates, where required, with medical, rehabilitation, social care, etc. specialists for providing the child with the required support.
 
-Source: https://eacea.ec.europa.eu/national-policies/eurydice/content/special-educationneeds-provision-within-mainstream-education-20_en
+Source: https://eacea.ec.europa.eu/national-policies/eurydice/content/special-education-needs-provision-within-mainstream-education-20_en
 
 ##### Training teachers on inclusive education:
 Teacher training curricula are drawn up on the basis  of  the  Universities  Act,  the  Standard  of  Higher  Education  and  the  Framework Requirements  for  Teacher  Training.  According  to  the  higher  education  standard,  the objectives  and  learning  outcomes  of  higher  education  curricula  must  correspond  to  the requirements and tendencies of international legislation governing the respective profession and if a occupational standard exists, take account of the acquisition and implementation of the knowledge and skills described in it.
@@ -427,14 +427,14 @@ The vocational teacher level 6 includes also 'supporting colleagues' as an addit
 
 The  occupational  standards  for  teachers  have  been  developed  in  the  framework  of  the Estonian vocational system providing description of levels that comply with those specified in the European qualification framework.
 
-(Source: https://eacea.ec.europa.eu/national-policies/eurydice/content/initial-educationteachers-working-early-childhood-and-school-education-23_en)
+(Source: https://eacea.ec.europa.eu/national-policies/eurydice/content/initial-education-teachers-working-early-childhood-and-school-education-23_en)
 
 ##### Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET):
 
-In Estonia, there are various initiatives by private and third sector actors, as well as stateinitiated activities to increase girls' interest towards ICT. As all of these initiatives are recent, their impact is yet to be evaluated. These initiatives include HK Unicorn Squad (developed as a private initiative), aiming to increase girls' (aged 7-14) interest towards technical fields, robotics and STEM fields; Tech Sisters (third sector initiative), aiming to increase girls' and womens' interest towards IT and technology; Digigirls, developed for girls (grades 7-12), is a  series  of  events,  mostly  as  workshops,  to  introduce  ICT  fields,  designing  apps,  web environments  etc;  and  StartIT  (an  initiative  of  the  Ministry  of  Economic  Affairs  and Communications,  to  encourage  girls  and  young  women  to  study  and  work  in  IT  fields. Several general state-initiated awareness-raising programmes have also been initiated.
+In Estonia, there are various initiatives by private and third sector actors, as well as state-initiated activities to increase girls' interest towards ICT. As all of these initiatives are recent, their impact is yet to be evaluated. These initiatives include HK Unicorn Squad (developed as a private initiative), aiming to increase girls' (aged 7-14) interest towards technical fields, robotics and STEM fields; Tech Sisters (third sector initiative), aiming to increase girls' and womens' interest towards IT and technology; Digigirls, developed for girls (grades 7-12), is a series of events, mostly as workshops, to introduce ICT fields, designing apps, web environments etc; and StartIT (an initiative of the Ministry of Economic Affairs and Communications, to encourage girls and young women to study and work in IT fields. Several general state-initiated awareness-raising programmes have also been initiated.
 
 ##### Providing auxiliary assistance :
-Special education may be considered appropriate with children who need very specific organisation of studies and implementation of resourceintensive support measures.
+Special education may be considered appropriate with children who need very specific organisation of studies and implementation of resource-intensive support measures.
 
 The following special groups may be formed in preschool child care institutions for children with special developmental needs:
 
@@ -454,9 +454,9 @@ The following special groups may be formed in preschool child care institutions 
 
 In order to achieve the goals formulated in the student's curriculum and provide the student with the required support, study assistance or level-based groups or special classes may be formed in addition to ordinary classes. Studies in a study assistance group, level-based group or special class must be reasoned based on the needs of the student and limited in terms of the time, and attention must be paid to the recommendations of the coordinator of the studies of the student with special needs or those of the external advisory team or both. Upon teaching a student who needs special support in an ordinary class, the recommendations of the external advisory team must be taken into account. The head of school decides the admission to a study assistance or level-based group or special class.
 
-For a student who, due to severe or persistent mental disorder, has been referred to a longterm rehabilitation service, one-to-one teaching can be applied. Although in some cases the application of one-to-one teaching is the only option, it must be used for the minimum time needed. In any event, it is important to try, if possible, to involve the student in the work of a smaller group and also in the lessons of an ordinary class.
+For a student who, due to severe or persistent mental disorder, has been referred to a long-term rehabilitation service, one-to-one teaching can be applied. Although in some cases the application of one-to-one teaching is the only option, it must be used for the minimum time needed. In any event, it is important to try, if possible, to involve the student in the work of a smaller group and also in the lessons of an ordinary class.
 
-(Source: https://eacea.ec.europa.eu/national-policies/eurydice/content/separate-specialeducation-needs-provision-early-childhood-and-school-education-20_en)
+(Source: https://eacea.ec.europa.eu/national-policies/eurydice/content/separate-special-education-needs-provision-early-childhood-and-school-education-20_en)
 
 ##### Adapting education infrastructure, eliminating administrative barriers to education:
 
@@ -490,7 +490,7 @@ The national curriculum for basic schools provides for the cases where a school 
 
 Additional studies may be offered to the students who have graduated from basic school under  the  simplified  national  curriculum  for  basic  schools  and  the  students  who  have graduated from basic school under the national curriculum for basic schools but, due to their special educational needs, need to be provided with additional preparation and support in order  to  continue  with  their  studies  or  move  to  the  labour  market.  Students  who  have obtained a basic school graduation certificate in the same year and who are not ready to continue their studies or enter the labour market or who were not admitted to the desired educational institution are admitted to additional studies. The duration of additional studies is one academic year.
 
-Source: https://eacea.ec.europa.eu/national-policies/eurydice/content/separate-specialeducation-needs-provision-early-childhood-and-school-education-20_en
+Source: https://eacea.ec.europa.eu/national-policies/eurydice/content/separate-special-education-needs-provision-early-childhood-and-school-education-20_en
 
 ##### Providing language classes to newcomers (e.g. refugees)
 
@@ -550,7 +550,7 @@ The following possibilities exist as additional possibilities and measures for t
 
 Vocational educational institutions provide, if required, additional Estonian language training to the students whose mother tongue is other than Estonian.
 
-Source: https://eacea.ec.europa.eu/national-policies/eurydice/content/support-measureslearners-early-childhood-and-school-education-20_en
+Source: https://eacea.ec.europa.eu/national-policies/eurydice/content/support-measures-learners-early-childhood-and-school-education-20_en
 
 ##### Valuing diversity in schools, combatting stereotyping and stigmatisation:
 
@@ -574,13 +574,13 @@ Family Law Act:
 
 § 1.  Prerequisites for contraction of marriage
 
-- Only adults may get married.
+(2) Only adults may get married.
 
 ### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
 #### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre- primary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -792,8 +792,6 @@ Article/Paragraph 4(c) of the Convention/Recommendation provides for adult educa
 
 - Please indicate the efforts made by your government to establish a system of continuing education and equitable access to learning and training opportunities (several items could be ticked/mentioned):
 
-- Please elaborate further on the measures taken:
-
 ☒ Provision of education for persons who have not received or completed the whole period of their primary education
 
 o Provision of literacy programmes
@@ -807,6 +805,8 @@ o Provision of literacy programmes
 ☒ Provision of professional training and qualifications
 
 o Other:
+
+- Please elaborate further on the measures taken:
 
 With referral to the previous report, adult education is divided into formal education, informal work-related training and retraining and popular adult education: https://www.hm.ee/en/activities/adult-education
 
@@ -856,7 +856,7 @@ Article/Paragraph  4(d)  of  the  Convention/Recommendation  provides  for  the 
 
 ☒ Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels)
 
-☒ I nitial training and continuous professional development is provided
+☒ Initial training and continuous professional development is provided
 
 ☒ Minimum standards and qualifications are required for the teaching profession
 
@@ -900,15 +900,15 @@ A teacher's working time is calculated and a teacher is remunerated on the basis
 
 The minimum salary for teachers of classes for students with special educational needs and for  teachers  of  state  schools  that  require  special  educational  conditions  are  somewhat higher.
 
-Sources: https://eacea.ec.europa.eu/national-policies/eurydice/content/conditions-serviceteachers-working-early-childhood-and-school-education-23_en, https://eacea.ec.europa.eu/national-policies/eurydice/content/teachers-and-education-staff-23_en
+Sources: https://eacea.ec.europa.eu/national-policies/eurydice/content/conditions-service-teachers-working-early-childhood-and-school-education-23_en, https://eacea.ec.europa.eu/national-policies/eurydice/content/teachers-and-education-staff-23_en
 
 - Have there been instances of discrimination as regards the training for education personnel in your country?
 
-o Yes: Has your government addressed this issue?
+☐ Yes: Has your government addressed this issue?
 
-o Yes
+☐ Yes
 
-o No
+☐ No
 
 ☒ No
 
@@ -922,7 +922,7 @@ Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  t
 
 ☒ Educational and/or extracurricular activities are organized on human rights education
 
-o Other:
+☐ Other:
 
 #### 2.8 Private education
 
@@ -930,13 +930,13 @@ Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide fo
 
 - Does your country have a regulatory framework relating to the establishment and functioning of private educational institutions?
 
-> 12 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
+> 12 Which calls on states to “ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development”.
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
-Yes ☒ No o
+Yes ☒ No ☐
 
 - Please provide a brief description:
 
@@ -944,7 +944,7 @@ Private Schools Act: This Act applies to legal persons in private law as a resul
 
 - Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 13 explicitly apply to private educational institutions?
 
-Yes ☒ No o
+Yes ☒ No ☐
 
 - Please briefly describe what laws, regulations or policies guarantee that the development of private education does not generate discrimination and that private schools offer a relevant alternative in your country:
 
@@ -952,9 +952,7 @@ Private Schools Act, The Constitution of the Republic of Estonia
 
 - Does your country have an education policy framework for minimum educational standards as regards the rights of the parents /legal guardians for providing religious and moral education for their children?
 
-Yes
-
-o No ☒
+Yes ☐ No ☒
 
 #### 2.9 Rights of national minorities
 
@@ -970,13 +968,13 @@ Article/Paragraph  5(1)(c)  of  the  Convention/Recommendation  provides  for  t
 
 ☒ Teachers are trained to adapt to national minority needs
 
-o Other:
+☐ Other:
 
 - Please provide a brief description of the provisions:
 
 According to the Republic of Estonia Education Act, the objectives of education are to:
 
-- create favourable conditions for the development of the individual, the family and the Estonian  nation,  also  for  ethnic  minorities,  and  economic,  political  and  cultural  life  in
+1) create favourable conditions for the development of the individual, the family and the Estonian  nation,  also  for  ethnic  minorities,  and  economic,  political  and  cultural  life  in
 
 > 13 See: Article/Paragraph 1(1).
 
@@ -986,9 +984,9 @@ According to the Republic of Estonia Education Act, the objectives of education 
 
 Estonian society and also nature conservation, within the context of the global economy and global culture;
 
-- shape individuals who respect and abide by the law;
+2) shape individuals who respect and abide by the law;
 
-- create opportunities for everyone to engage in lifelong learning.
+3) create opportunities for everyone to engage in lifelong learning.
 
 Please see 1.3. for further information regarding language instruction for national minorities.
 
@@ -1002,13 +1000,13 @@ Among language facilities for students whose native language is not Estonian, th
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9th Consultation  reported  on measures adopted to ensure refugees’ and migrants’ right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
-Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
+Besides, this aspect also corresponds to SDG target 4.5, which calls on states to “ensure equal access to all levels of education and vocational training for the vulnerable”, including “children in vulnerable situations”, and covers the majority of SDG4 targets.
 
 - Please briefly describe the existing legal and policy framework that protects the right to quality education for refugees and migrants in your country.
 
-According to the Constitution of the Republic of Estonia, § 37: Everyone has the right to education. Education for school-age children is compulsory to the extent specified by the law, and is free of charge in general schools established by the national government and by local authorities.
+According to the Constitution of the Republic of Estonia, § 37: Everyone has the right to education. Education for school-age children is compulsory to the extent specified by the
 
 > 14 Articles/Paragraphs 1 and 3.
 
@@ -1018,7 +1016,9 @@ According to the Constitution of the Republic of Estonia, § 37: Everyone has th
 
 [[START OF PAGE 29]]
 
-- Please briefly indicate measures adopted by national and local authorities to ensure refugees' and migrants' right to education (several items could be ticked/mentioned):
+law, and is free of charge in general schools established by the national government and by local authorities.
+
+- Please briefly indicate measures adopted by national and local authorities to ensure refugees’ and migrants’ right to education (several items could be ticked/mentioned):
 
 ☒ Inclusion in mainstream education
 
@@ -1028,35 +1028,35 @@ According to the Constitution of the Republic of Estonia, § 37: Everyone has th
 
 ☒ Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
 
-o Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
+☐ Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
 
-o Accelerated learning programmes
+☐ Accelerated learning programmes
 
-o Non-formal and/or alternative education programmes
+☐ Non-formal and/or alternative education programmes
 
 ☒ Financial support
 
-o Other innovative measures:
+☐ Other innovative measures:
 
 Please briefly elaborate further on the measures taken:
 
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-### Challenges and obstacles
+### 1. Challenges and obstacles
 
 #### 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
-o Challenges related to equitable access and inclusion in education (such as poverty and socio-economic  factors,  cultural  and  traditional  attitudes,  remoteness,  migration  and displacement, etc.)
+☐ Challenges related to equitable access and inclusion in education (such as poverty and socio-economic  factors,  cultural  and  traditional  attitudes,  remoteness,  migration  and displacement, etc.)
 
-o Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
+☐ Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-o Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems - including the lack of reliable data, absence of supportive/ inconsistent/obsolete  legal  and  policy  environment,  lack  of  involvement  of  relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
+☐ Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems – including the lack of reliable data, absence of supportive/ inconsistent/obsolete  legal  and  policy  environment,  lack  of  involvement  of  relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
 
-o Other:
+☐ Other:
 
 #### 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
@@ -1066,14 +1066,14 @@ UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.
 
 - Have activities been carried out to draw the attention of the various authorities of the country to the Convention/Recommendation and their provisions about the right to education and to raise awareness  of the principles of non-discrimination and equality of educational opportunities? (several items could be ticked/mentioned)
 
-o Translation  of  the  Convention/Recommendation  into  the  national  and  possibly  local languages
+☐ Translation  of  the  Convention/Recommendation  into  the  national  and  possibly  local languages
 
-o Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
+☐ Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+☐ Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
-o Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+☐ Activities undertaken  or supported by the  National  Commission  to  promote  non-discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
 
-o Other:
+☐ Other:
 
 [[END OF PAGE 30]]
