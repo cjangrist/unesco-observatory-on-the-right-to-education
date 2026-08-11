@@ -74,11 +74,11 @@ Polish Committee for UNESCO / Polski Komitet do spraw UNESCO /
 
 ## Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation)
 
 #### A1a. Please  describe any  specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 1  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
-The preamble of the Act of 14 December 2016 Education Law stipulates that education in the Republic of Poland is a common good of the whole society, it is guided by the principles contained in the Constitution of the Republic of Poland, as well as the indications laid out in the Universal Declaration  of  Human  Rights,  International  Covenant  on  Civil  and  Political  Rights,  and  the Convention on the Rights of the Child. The education system in Poland shall provide inter alias:
+The preamble of the Act of 14 December 2016 – Education Law stipulates that education in the Republic of Poland is a common good of the whole society, it is guided by the principles contained in the Constitution of the Republic of Poland, as well as the indications laid out in the Universal Declaration  of  Human  Rights,  International  Covenant  on  Civil  and  Political  Rights,  and  the Convention on the Rights of the Child. The education system in Poland shall provide inter alias:
 
 -shaping pro-social attitudes with pupils, including through the possibility of participation in volunteering activities, conducive to active participation in social life;
 
@@ -86,7 +86,7 @@ The preamble of the Act of 14 December 2016 Education Law stipulates that educat
 
 -dissemination of knowledge among children and youth on the principles of rational nutrition and prevention of food waste;
 
--shaping entrepreneurship attitudes in pupils conducive to active participation in economic life, including through the application of innovative programme, organisational, or methodological solutions in the education process (article 1 of the Act of 14 December Education Law ).
+-shaping entrepreneurship attitudes in pupils conducive to active participation in economic life, including through the application of innovative programme, organisational, or methodological solutions in the education process (article 1 of the Act of 14 December – Education Law).
 
 ##### Educational (upbringing) function of the school
 
@@ -96,7 +96,7 @@ The aim of upbringing is to support the pupils in comprehensive development aime
 
 In 2019, the regulations also introduced the obligation to conduct an annual diagnosis of students' developmental  needs  in  the  school  environment,  including  protective  and  risk  factors,  with particular emphasis on the risks associated with the use of psychotropic substances, substitutes and new psychoactive substances. The head of the school or facility or an employee of the school or facility authorized by the head is responsible for the diagnosis.
 
-The educational and preventive program is adopted by the parents' council in agreement with the pedagogical  council.  Therefore,  it  is  the  parents  who  have  a  significant  impact  on  programs, projects,  undertakings,  and  initiatives,  including  those  implemented  in  cooperation  with  nongovernmental organizations, in accordance with the earlier definition of the areas of intervention.
+The educational and preventive program is adopted by the parents' council in agreement with the pedagogical  council.  Therefore,  it  is  the  parents  who  have  a  significant  impact  on  programs, projects,  undertakings,  and  initiatives,  including  those  implemented  in  cooperation  with  non-governmental organizations, in accordance with the earlier definition of the areas of intervention.
 
 > 1 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -126,7 +126,7 @@ The Integrated Skills Strategy 2030 (detailed part). Policy to develop skills in
 
 ##### Children and youth participation in sociall life
 
-The Council of Children and Youth of the Republic of Poland to the Minister of Education and Science ( Rada Dzieci i Młodzieży Rzeczypospolitej Polskiej przy Ministrze Edukacji i Nauki Narodowej  -  earlier Minister of National Education) has  been  operating  since  2016  https://www.gov.pl/web/edukacja-i-nauka/rada-dzieci-i-mlodziezy-rzeczypospolitej-polskiej-przyministrze-edukacji-i-nauki.  The  Council's  tasks  include  expressing  opinions  and  submitting proposals on issues concerning children and adolescents in the scope of matters covered by the department of government administration for education and upbringing, in particular presenting opinions on planned changes and proposals of solutions, as well as promoting patriotic and civic attitudes and activity of young people in public life, who play a key role in creating civil society. The Council consists of 16 members and their deputies appointed by the Minister of Education and Science, one member and one deputy from each province.
+The Council of Children and Youth of the Republic of Poland to the Minister of Education and Science (Rada Dzieci i Młodzieży Rzeczypospolitej Polskiej przy Ministrze Edukacji i Nauki Narodowej - earlier Minister of National Education) has been operating since 2016 – https://www.gov.pl/web/edukacja-i-nauka/rada-dzieci-i-mlodziezy-rzeczypospolitej-polskiej-przy-ministrze-edukacji-i-nauki. The Council's tasks include expressing opinions and submitting proposals on issues concerning children and adolescents in the scope of matters covered by the department of government administration for education and upbringing, in particular presenting opinions on planned changes and proposals of solutions, as well as promoting patriotic and civic attitudes and activity of young people in public life, who play a key role in creating civil society. The Council consists of 16 members and their deputies appointed by the Minister of Education and Science, one member and one deputy from each province.
 
 [[END OF PAGE 4]]
 
@@ -136,29 +136,29 @@ In September 2019, the Council for Dialogue with the Young Generation was establ
 
 The tasks of the of the Council for Dialogue with the Young Generation shall include in particular:
 
-- expressing opinions on issues concerning the application of the Act of 24 April 2003 on Public Benefit  Activity  and  Volunteer  Work (Dziennik  Ustaw  [ Polish  Journal  of  Laws ]  of  2020, item1057) in the scope concerning the young generation;
+1) expressing opinions on issues concerning the application of the Act of 24 April 2003 on Public Benefit Activity and Volunteer Work (Dziennik Ustaw [Polish Journal of Laws] of 2020, item1057) in the scope concerning the young generation;
 
-- expressing  opinions  on  drafts  of  legal  acts  and  government  programmes  in  the  scope concerning the young generation;
+2) expressing opinions on drafts of legal acts and government programmes in the scope concerning the young generation;
 
-- initiating and supporting actions aimed at increasing the level of civic participation of young people in the Republic of Poland;
+3) initiating and supporting actions aimed at increasing the level of civic participation of young people in the Republic of Poland;
 
-- creation  of  a  dialogue  forum  between  non-governmental  organisations  and  other  social institutions and public authorities in the scope concerning the young generation;
+4) creation of a dialogue forum between non-governmental organisations and other social institutions and public authorities in the scope concerning the young generation;
 
-- supporting  the  activities  of  civil  dialogue  institutions  acting  for  the  benefit  of  the  young generation,  including  children  and  youth,  with  particular  emphasis  on  youth  councils  of communes.
+5) supporting the activities of civil dialogue institutions acting for the benefit of the young generation, including children and youth, with particular emphasis on youth councils of communes.
 
 Council for Dialogue with the Young Generation consists, inter alias, of representatives of the President of the Republic of Poland, Commissioner for Child Rights, President of the Council of Ministers,  minister  responsible  for  education  and  upbringing  matters,  minister  responsible  for higher education and science matters, minister responsible for physical culture matters; Chair of the Public Benefit Committee, local government units, non-governmental organisations, unions and agreements of non-governmental organisations and entities listed in the Article 3 (3) of the Act  of  24  April  2003 on  Public  Benefit  Activity  and  Volunteer  Work ,  and  youth  councils  of communes, and the Parliament of the Students of the Republic of Poland (Parlament Studentów Rzeczypospolitej Polskiej).
 
-On 23 September 2020, the Regulation of the Council of Ministers of 22 September 2020 on the appointment of the Government Plenipotentiary for Youth Policy (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1631) entered into force https://dziennikustaw.gov.pl/DU/2020/1631. The Plenipotentiary's tasks include:
+On 23 September 2020, the Regulation of the Council of Ministers of 22 September 2020 on the appointment of the Government Plenipotentiary for Youth Policy (Dziennik Ustaw [Polish Journal of Laws] of 2020, item 1631) entered into force https://dziennikustaw.gov.pl/DU/2020/1631. The Plenipotentiary’s tasks include:
 
-- initiating activities and  cooperation  with government  administration  authorities, local government  bodies,  and  non-governmental  organisations  in  the  scope  of  activities  that increase the involvement of young people in public life;
+1) initiating activities and cooperation with government administration authorities, local government bodies, and non-governmental organisations in the scope of activities that increase the involvement of young people in public life;
 
-- coordinating dialogue between the government administration and socio-economic partners, non-governmental organisations, and local government authorities in the field of initiatives in the area of youth policy;
+2) coordinating dialogue between the government administration and socio-economic partners, non-governmental organisations, and local government authorities in the field of initiatives in the area of youth policy;
 
-- monitoring the work undertaken by government administration bodies and local government authorities in matters related to the situation of young people in Poland;
+3) monitoring the work undertaken by government administration bodies and local government authorities in matters related to the situation of young people in Poland;
 
-- cooperation with the Council for Dialogue with the Young Generation in the field of issuing opinions on draft legal acts and presenting recommendations on the activities of government administration bodies and local government authorities in matters concerning youth;
+4) cooperation with the Council for Dialogue with the Young Generation in the field of issuing opinions on draft legal acts and presenting recommendations on the activities of government administration bodies and local government authorities in matters concerning youth;
 
-- coordinating the preparation and implementation - based on consultations conducted with a broad circle of stakeholders - a strategic document concerning state's actions in the area of youth policy.
+5) coordinating the preparation and implementation – based on consultations conducted with a broad circle of stakeholders – a strategic document concerning state's actions in the area of youth policy.
 
 On  31  March  2020,  the  Regulation  of  the  Minister  of  Climate  of  30  March  2020  on  the establishment  of  the Youth  Climate  Council (Dziennik  Urzędowy  Mininistra  Klimatu  [ Official Journal of the Minister of Climate ] of 2020, item 20) entered into force. The Youth Climate Council is an advisory body to the minister responsible for climate matters. The scope of the Council's activities  includes  expressing  opinions  on  issues  covered  by  government  administration departments  on  climate  and  energy,  in  particular  presenting  opinions  on  planned  changes  in policies,  strategies  and  legislative  changes  in the  scope  of the  competence of the Minister of Climate,  including  proposals  of  solutions.  The  Council  consists  of  32  members  aged  13-26, selected from among candidacies submitted as part of the recruitment process organised by the Ministry of Climate. The council members were nominated pursuant to the decision of the minister responsible for climate matters of 8 September 2020 on the nomination of the Youth Climate Council members.
 
@@ -168,33 +168,33 @@ On  31  March  2020,  the  Regulation  of  the  Minister  of  Climate  of  30  M
 
 1  June  2020  the  Minister  of  Environment  and  the  Commissioner  for  Child  Rights  signed  an agreement on the establishment of the Youth Ecological Council . The Council is composed of 32  persons  aged  13-21  recruited  from  all  over  Poland.  The  first  meeting  took  place  on  30 September 2020 during the Green Forum of the Youth . The meetings are scheduled to be held at least once a quarter, with the participation of the minister responsible for environment matters and the Commissioner for Child Rights. The competences of the Youth Ecological Council include expressing opinions on matters covered by government administration activities concerning the environment,  in  particular  presenting  opinions  on  planned  changes  in  policies,  strategies  and legislative  changes  in  the  scope  of  competence  of  the  minister  responsible  for  environment matters, including proposals of solutions. Apart from the advisory competence, the Council have a budget  (PLN  32  thousand,  provided by State Forests) which  may  allocate towards implementation of pro-ecological activities of children and youth. Project substantive partners are: State Forests (Lasy Państwowe), National Parks (Parki Narodowe) and the National Geological Institute (Państwowy Instytut Geologiczny) .
 
-On 31 December 2020 the regulation of the Minister of Justice of 21 December 2020 on the appointment of Youth Council of Justice (Dz iennik Urzędowy Ministra Sprawiedliwości [ Official Journal of the Minister of Justice ] of 2020, item 264) https://www.gov.pl/web/sprawiedliwosc/poz532. The aim of the Youth Justice Council is, above all, to create and promote attitudes focused on active cooperation in the development and building of legal awareness among young people, as well as involving young people in the dialogue on the judiciary and legal education in Poland. In addition, the Council will support activities undertaken by the Minister of Justice in the field of youth, at the same time undertaking initiatives that will serve to promote free legal aid and free civic counseling. The Council will consist of 12 to 24 members, aged 16-26, selected from among candidacies submitted as part of the recruitment process. The first round of recruitment started on 4 January and will have been carried out on 31 January 2021.
+On 31 December 2020 the regulation of the Minister of Justice of 21 December 2020 on the appointment of Youth Council of Justice (Dziennik Urzędowy Ministra Sprawiedliwości [Official Journal of the Minister of Justice] of 2020, item 264) https://www.gov.pl/web/sprawiedliwosc/poz-532. The aim of the Youth Justice Council is, above all, to create and promote attitudes focused on active cooperation in the development and building of legal awareness among young people, as well as involving young people in the dialogue on the judiciary and legal education in Poland. In addition, the Council will support activities undertaken by the Minister of Justice in the field of youth, at the same time undertaking initiatives that will serve to promote free legal aid and free civic counseling. The Council will consist of 12 to 24 members, aged 16-26, selected from among candidacies submitted as part of the recruitment process. The first round of recruitment started on 4 January and will have been carried out on 31 January 2021.
 
 #### A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
-- Act of 14 December 2016 - Education Law (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 910 - https://dziennikustaw.gov.pl/DU/2020/910 - with further amendments)
+1) Act of 14 December 2016 – Education Law (Dziennik Ustaw [Polish Journal of Laws] of 2020, item 910 – https://dziennikustaw.gov.pl/DU/2020/910 - with further amendments)
 
-- Regulation of the Minister of National Education of 14 February 2017 on the core curriculum for pre-school education and general education in primary schools, including for pupils with moderate  or  severe  intellectual  disability,  general  education  for  stage-one  sectoral  VET schools,  general  education  for  special  schools  preparing  for  employment,  and  general education for post-secondary schools (Dziennik Ustaw [ Polish Journal of Laws ] of 2017, item 356) - https://dziennikustaw.gov.pl/DU/rok/2017/pozycja/356 - with further amendments.
+2) Regulation of the Minister of National Education of 14 February 2017 on the core curriculum for pre-school education and general education in primary schools, including for pupils with moderate or severe intellectual disability, general education for stage-one sectoral VET schools, general education for special schools preparing for employment, and general education for post-secondary schools (Dziennik Ustaw [Polish Journal of Laws] of 2017, item 356) – https://dziennikustaw.gov.pl/DU/rok/2017/pozycja/356 - with further amendments.
 
-- Regulation of the Minister of National Education of 30 January 2018 on the core curriculum for upper secondary schools, technical upper secondary schools, and second-stage sectoral VET schools (Dziennik Ustaw [ Polish Journal of Laws ] of 2018, item 467) -https://dziennikustaw.gov.pl/DU/rok/2018/pozycja/467 - with further amendments.
+3) Regulation of the Minister of National Education of 30 January 2018 on the core curriculum for upper secondary schools, technical upper secondary schools, and second-stage sectoral VET schools (Dziennik Ustaw [Polish Journal of Laws] of 2018, item 467) - https://dziennikustaw.gov.pl/DU/rok/2018/pozycja/467 - with further amendments.
 
-- Regulation of the Minister of Higher Education and Science of 25 July 2019 on the standard of education preparing for the teaching profession (Dziennik Ustaw [ Polish Journal of Laws ] of 2918, item 1450) - https://dziennikustaw.gov.pl/DU/rok/2019/pozycja/1450 - with further amendments.
+4) Regulation of the Minister of Higher Education and Science of 25 July 2019 on the standard of education preparing for the teaching profession (Dziennik Ustaw [Polish Journal of Laws] of 2918, item 1450) – https://dziennikustaw.gov.pl/DU/rok/2019/pozycja/1450 - with further amendments.
 
-- Regulation  of  the  Minister  of  National  Education  of  28  May  2019  on  teacher  training institutions - https://dziennikustaw.gov.pl/DU/rok/2019/pozycja/1045
+5) Regulation of the Minister of National Education of 28 May 2019 on teacher training institutions – https://dziennikustaw.gov.pl/DU/rok/2019/pozycja/1045
 
-- Integrated Skills Strategy 2030  (general part) -https://efs.men.gov.pl/zintegrowanastrategia-umiejetnosci-2030-czesc-ogolna/
+6) Integrated Skills Strategy 2030 (general part) – https://efs.men.gov.pl/zintegrowana-strategia-umiejetnosci-2030-czesc-ogolna/
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- Integrated Skills Strategy 2030 (detailed part). Policy on the skills development in line with the idea of lifelong learning -  https://www.gov.pl/web/edukacja-i-nauka/zintegrowana-strategiaumiejetnosci-2030-czesc-szczegolowa--dokument-przyjety-przez-rade-ministrow
+7) Integrated Skills Strategy 2030 (detailed part). Policy on the skills development in line with the idea of lifelong learning – https://www.gov.pl/web/edukacja-i-nauka/zintegrowana-strategia-umiejetnosci-2030-czesc-szczegolowa--dokument-przyjety-przez-rade-ministrow
 
-- Strategy for Responsible Development -https://www.gov.pl/web/funduszeregiony/informacje-o-strategii-na-rzecz-odpowiedzialnego-rozwoju
+8) Strategy for Responsible Development – https://www.gov.pl/web/fundusze-regiony/informacje-o-strategii-na-rzecz-odpowiedzialnego-rozwoju
 
-- Government programmes supporting the development of civil society -https://niw.gov.pl/nasze-programy/
+9) Government programmes supporting the development of civil society – https://niw.gov.pl/nasze-programy/
 
-- Act of 24 April 2003 on Public Benefit Activity and Volunteer Work (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1057) - https://dziennikustaw.gov.pl/DU/2020/1057
+10) Act of 24 April 2003 on Public Benefit Activity and Volunteer Work (Dziennik Ustaw [Polish Journal of Laws] of 2020, item 1057) – https://dziennikustaw.gov.pl/DU/2020/1057
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
@@ -260,7 +260,7 @@ Textbook development | 99 | 99 | 99 | 99
 Teacher education and training | 99 | 99 | 99 | 99
 Assessment of student outcomes | 99 | 99 | 99 | 99
 
-### Curriculum (paras 4 and 10-19 of the 1974 Recommendation )
+### B. Curriculum (paras 4 and 10-19 of the 1974 Recommendation)
 
 #### B1a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate  whether  topics  are  taught  as  standalone  subjects  or  are  integrated  into  the curricula of other subjects. Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -291,7 +291,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0
@@ -306,8 +308,6 @@ Science | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1
 Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Other (please specify)
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 10]]
 
@@ -343,19 +343,19 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
-The content of GCED and ESD is present in the scope specified in the provisions of the Regulation of the Minister of Science and Higher Education of 25 July 2019 on the standard of education preparing for the teaching profession (Dziennik Ustaw [Polish Journal of Laws] of 2019, item 1450, as amended). The regulation is the basis for the creation of teacher education programs for fulltime and postgraduate studies by universities.
+The content of GCED and ESD is present in the scope specified in the provisions of the Regulation of the Minister of Science and Higher Education of 25 July 2019 on the standard of education preparing for the teaching profession (Dziennik Ustaw [Polish Journal of Laws] of 2019, item 1450, as amended). The regulation is the basis for the creation of teacher education programs for full-time and postgraduate studies by universities.
 
 The  obligatory  tasks  of  public  in-service  training  institutions  run  by  local  government  (the voivodeship, poviat or commune) include organizing and providing in-service training for teachers, inter alias, on the implementation of the core curricula, including the development of curricula. Therefore, in-service teacher training institutions conduct teacher training to implement all the content contained in the core curricula defined for individual subjects and types of classes at individual educational stages.
 
 Teachers  receive  proposals  of  training  /  improvement  in  the  field  of  global  education  and sustainable development, including:
 
--in the Education Development Centre (ORE  a nationwide education institution, subordinated to the Ministry of National Education),
+-in the Education Development Centre (ORE - a nationwide education institution, subordinated to the Ministry of National Education),
 
 -in local vocational training institutions,
 
 -through the activities of the Global Education Coordinators network (run by ORE),
 
--as part of the "Etyka nie tylko dla Smyka' [ Ethics not only for Kid ] programmme.
+-as part of the "Etyka nie tylko dla Smyka” [Ethics not only for Kid] programmme.
 
 The  proposed  forms  of  professional  development  take  into  account  the  issues  (in  terms  of knowledge, values, attitudes and behaviour) concerning:
 
@@ -377,7 +377,7 @@ Currently, the CEO implements approx. 37 educational programmes, including:
 
 -programs that introduce activating teaching methods, formative assessment and develop teacher collaboration, changing the school's work culture;
 
--programs encouraging students to undertake activities in the field of: voluntary work, selfgovernance and entrepreneurship at school and in the local environment;
+-programs encouraging students to undertake activities in the field of: voluntary work, self-governance and entrepreneurship at school and in the local environment;
 
 -global and ecological education programs explaining how the modern world works, how to take care of it and of the environment and on each other responsibly;
 
@@ -420,10 +420,6 @@ For teachers of other subjects | 1 | 1 | 1 | 1
 
 #### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
-
-#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
-
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -437,6 +433,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 1 | 1
 8. | Sustainable consumption and production | 1 | 1 | 1 | 1
 
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -446,20 +444,22 @@ Skills | 1 | 1 | 1 | 1
 Values | 1 | 1 | 1 | 1
 Attitudes and behaviours | 1 | 1 | 1 | 1
 
+#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 0
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 0
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 1
+Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 1
+Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 0
+Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 1
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-### Student assessment (paras 4 and 5 of the 1974 Recommendation )
+### D. Student assessment (paras 4 and 5 of the 1974 Recommendation)
 
 #### D1a.  Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills  related  to  the  topics  being  tested  or  also  on  their  values,  attitudes  and/or behaviours.
 
@@ -467,9 +467,7 @@ The teaching content included in the core curriculum is also the requirements fo
 
 To verify the learning outcomes achieved in education preparing for the teaching profession in studies and postgraduate  studies,  in  accordance  with  the  standard,  diverse  forms  of  checking  are  used.  They  are adequate to the category of knowledge, skills or social competences to which these effects relate (written exams, oral exams, direct observation of the future teacher while performing activities appropriate for a given  professional  task).  The  method  of  organization  of  education,  also  in  terms  of  verification  of  the achieved learning outcomes, is the responsibility of the entity providing the education.
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
-
-#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -484,14 +482,16 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 0 | 1 | 1 | 9
 8. | Sustainable consumption and production | 0 | 1 | 1 | 9
 
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Knowledge | 0 | 1 | 1 | 9
 Skills | 0 | 1 | 1 | 9
 Values | 0 | 1 | 1 | 9
 Attitudes and behaviours | 0 | 1 | 1 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 15]]
 
@@ -544,7 +544,7 @@ Sub-national
 
 [[START OF PAGE 17]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical and vocational education and training (paras 25-29 of the 1974 Recommendation)
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
@@ -566,28 +566,28 @@ The  Institute  is  a  government  executive  agency  that  operates  programs  
 
 Currently, the Institute is developing 6 programs to support the creation of a strong civil society:
 
-- The NGO Emergency Support Programme - it gives a financial aid for organizations that have been affected by the coronavirus epidemic. The aim of this programme is an ad hoc  institutional  support  for  organizations  and  assistance  in  initiating  local  actions  to combat  the  effects  of  the  epidemic  (https://niw.gov.pl/nasze-programy/program-covid19/);
+(1) The NGO Emergency Support Programme – it gives a financial aid for organizations that have been affected by the coronavirus epidemic. The aim of this programme is an ad hoc institutional support for organizations and assistance in initiating local actions to combat the effects of the epidemic (https://niw.gov.pl/nasze-programy/program-covid-19/);
 
-- Civic Initiatives Fund - subsidy programme for non-governmental organizations, under which  projects  aimed  at  increasing  the  involvement  of  citizens  and  non-governmental organizations in public life are co-financed (https://niw.gov.pl/nasze-programy/fio/);
+(2) Civic Initiatives Fund – subsidy programme for non-governmental organizations, under which projects aimed at increasing the involvement of citizens and non-governmental organizations in public life are co-financed (https://niw.gov.pl/nasze-programy/fio/);
 
-- Civil Society Organizations Development Programme for 2018-2030 - programme of direct support for the development of Polish civic organizations, including those dealing with adult education (https://niw.gov.pl/nasze-programy/proo/);
+(3) Civil Society Organizations Development Programme for 2018-2030 – programme of direct support for the development of Polish civic organizations, including those dealing with adult education (https://niw.gov.pl/nasze-programy/proo/);
 
-- Corps of Solidarity - programme for 2018-2030 aimed at comprehensive support for a long-term volunteerism and relationship between a volunteer and an institution using its services (https://niw.gov.pl/nasze-programy/korpus-solidarnosci/);
+(4) Corps of Solidarity – programme for 2018-2030 aimed at comprehensive support for a long-term volunteerism and relationship between a volunteer and an institution using its services (https://niw.gov.pl/nasze-programy/korpus-solidarnosci/);
 
-- Programme  of  Support  for  the  Development  of  Polish  Scout  and  Scouting Organizations for 2018-2030 -  it  is  a  new form of support for scouting organizations, which are an important partner of the state in activities for the development and education
+(5) Programme of Support for the Development of Polish Scout and Scouting Organizations for 2018-2030 – it is a new form of support for scouting organizations, which are an important partner of the state in activities for the development and education
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-of young people. Scouting activity is referring to the achievements of the world scouting and the Polish scouting movement (https://niw.gov.pl/nasze-programy/program-wsparciaharcerstwa/);
+of young people. Scouting activity is referring to the achievements of the world scouting and the Polish scouting movement (https://niw.gov.pl/nasze-programy/program-wsparcia-harcerstwa/);
 
-- Program for Supporting the Development of Folk Universities for 2020-2030 - the Council of Ministers adopted this program in June 2020. The aim of this program is to develop adult education in the form of Grundtvigian folk universities (https://niw.gov.pl/nasze-programy/uniwersytety-ludowe/).
+(6) Program for Supporting the Development of Folk Universities for 2020-2030 – the Council of Ministers adopted this program in June 2020. The aim of this program is to develop adult education in the form of Grundtvigian folk universities (https://niw.gov.pl/nasze-programy/uniwersytety-ludowe/).
 
 ##### Examples of best practices of the civil society involvement in the area of GCED and ESD:
 
 ###### Akademia  Edukacji  Antydyskryminacyjnej
-(Academy  of  Anti-Discrimnation  Education)  -  a cyclical  course  for  teachers,  educators  of  informal  education  https://ajcf.pl/akademia-edukacjiantydyskryminacyjnej-5/ . The course equips teachers with knowledge and skills to teach respect and confront hatred. During 6 weekend sessions participants learn to identify and respond to prejudice including, but not limited to, racism, antisemitism, homophobia and anti-Roma racism. During the Academy participants:
+(Academy of Anti-Discrimnation Education) - a cyclical course for teachers, educators of informal education https://ajcf.pl/akademia-edukacji-antydyskryminacyjnej-5/ . The course equips teachers with knowledge and skills to teach respect and confront hatred. During 6 weekend sessions participants learn to identify and respond to prejudice including, but not limited to, racism, antisemitism, homophobia and anti-Roma racism. During the Academy participants:
 
 -examine  the  mechanisms  of  stereotyping,  prejudice  and  discrimination  including  their manifestations in classrooms
 
@@ -600,20 +600,22 @@ Organizers - Auschwitz Jewish Center, in partnership with Towards Dialogue Found
 ###### Szkolne Grupy Praw Człowieka Amnesty International
 (Amnesty International School Groups of  Human  Rights)  https://amnesty.org.pl/co-robimy/edukacja/szkolne-grupy/  -  bring  together young people who, with the support of a teacher (a group tutor), promote human rights in their school and local community. The tutor, as well as the Group's coordinator (a person selected from among young people), remains in contact with the Amnesty International office, which supports the Group in its activities.
 
-###### Pro gram Szkoła Dialogu Forum Dialogu
+###### Program Szkoła Dialogu Forum Dialogu
 (School of Dialogue programme) http://dialog.org.pl/szkola-dialogu/pl/dla-szkol-7/dla-nauczyciela/  -  Forum  for  Dialogue  is  the largest and oldest Polish non-governmental organization engaging in Polish/Jewish dialogue. In the School of Dialogue programmme they educate Polish youth about local Polish/Jewish heritage and inspire them to act. The educational program aims to get students of secondary-level schools acquainted with the history of Jews in Poland as well with their contribution to the social, cultural and economic development of the country and their own towns. Participants explore their local Jewish history and culture and then present what they've learned to other local residents through various activities organized within the town.
 
 ###### Program Szkoła z Klasą 2.0
 (Classy School 2.0) https://www.szkolazklasa.org.pl/programy/szkola-z-klasa/ -a comprehensive school development  program,  based  on  design  thinking  approach,  which  helps  schools  to  become modern  and  engaged  learning  environments.  The  main  goals  are  to  develop  students responsibility,  enhance  empowerment,  develop  creativity  and  collaboration.  The  program supports teachers  and directors through on-site  trainings,  workshops  and  online  coaching  for every school. The program operates since 2002, including schools of all educational levels from all  over  Poland.  It  has  already  involved  over  9000  schools,  120  000  teachers  and  a  million students. Program is operated by Szkoła z Klasą Foundation with the support of Polish-American Freedom Foundation and in cooperation with the Centre for Citizenship Education.
 
-###### Tydzień  Konstytucyjny
-(Constitution  Week) http://stowarzyszenieholda.pl/projekty/tydzienkonstytucyjny/  -  project  operated  by Stowarzyszenie  im. Hołdy .  As  part  of  the  project,  legal practitioners conduct lessons on the importance of the Constitution in the lives of citizens. All this to show how much the Constitution influences the daily affairs of each of us. Lawyers also talk about the law, hate speech, or conduct workshops so that children see how the law works in practice and how it can affect their lives. Since 2016, 8 editions have been held, in which approx. 4,000 lawyers conducted classes for approx. 20,000 students from over 2,500 schools across Poland.
+###### Tydzień Konstytucyjny
+(Constitution Week) http://stowarzyszenieholda.pl/projekty/tydzien-konstytucyjny/ - project operated by Stowarzyszenie im. Hołdy. As part of the project, legal
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation )
+practitioners conduct lessons on the importance of the Constitution in the lives of citizens. All this to show how much the Constitution influences the daily affairs of each of us. Lawyers also talk about the law, hate speech, or conduct workshops so that children see how the law works in practice and how it can affect their lives. Since 2016, 8 editions have been held, in which approx. 4,000 lawyers conducted classes for approx. 20,000 students from over 2,500 schools across Poland.
+
+### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation)
 
 #### H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
@@ -640,7 +642,7 @@ Other activities (please specify):
 
 #### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
 
-##### Ref. point A2, point B2 and point B5, column 'Tertiary education' :
+##### Ref. point A2, point B2 and point B5, column „Tertiary education”:
 
 The  information  concerns  education  in  particular  fields  of  study  covered  by  the  standard  of education preparing for the teaching profession.
 
@@ -660,7 +662,7 @@ Pursuant  to  the  provisions  of  the  Education  Law  Act,  pedagogical  super
 
 The UNESCO Associated Schools Network (UNESCO ASPnet) has been operating in Poland since 1956. It currently has 110 member schools and 5 schools that have completed the candidate period and are waiting for certification.
 
-The aim of the network is to enable its members to develop a sense of belonging to a global community in their students. Currently, one of the priorities of ASPnet is to disseminate knowledge about the Sustainable Development Goals (SDGs) adopted in 2015 in the 2030 Agenda and to support  activities  aimed  at  achieving  them.  ASPnet  focuses  in  particular  on  Objective  4.7  including  Education  for  Informed  World  Citizens  (GCED)  and  Education  for  Sustainable Development (ESD).
+The aim of the network is to enable its members to develop a sense of belonging to a global community in their students. Currently, one of the priorities of ASPnet is to disseminate knowledge about the Sustainable Development Goals (SDGs) adopted in 2015 in the 2030 Agenda and to support activities aimed at achieving them. ASPnet focuses in particular on Objective 4.7 - including Education for Informed World Citizens (GCED) and Education for Sustainable Development (ESD).
 
 [[END OF PAGE 20]]
 
@@ -680,13 +682,13 @@ Member of ASPnet commit to:
 
 ##### Ref. point C and point E
 
-The regulations governing the area of higher education and science guarantee the autonomy of Polish universities, including broad program autonomy. The Act of July 20, 2018 Law on Higher Education and Science (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 85, with further amendments), in force from October 1, 2018, increased the independence of universities and put more emphasis on improving the quality of education.
+The regulations governing the area of higher education and science guarantee the autonomy of Polish universities, including broad program autonomy. The Act of July 20, 2018 – Law on Higher Education and Science (Dziennik Ustaw [Polish Journal of Laws] of 2020, item 85, with further amendments), in force from October 1, 2018, increased the independence of universities and put more emphasis on improving the quality of education.
 
 The general requirements for the study program are specified in the provisions of the Regulation of the Minister of Science and Higher Education of September 27, 2018 on studies (Journal of Laws, item 1861, as amended). In the current system, the Minister of Education and Science does not have the competence to introduce specific content or subjects to study programs in the fields of study provided by universities.
 
-System  solutions  for  establishing  study  programs  in  the  fields  of  study  grant  universities  the freedom to shape the didactic offer and establish study programs. Study programs are assessed and improved by the university. Moreover, an external evaluation is systematically performed the institution evaluating the quality of the studies is the Polish Accreditation Committee. Only in the case of 11 professions (doctor, dentist, pharmacist, nurse, midwife, laboratory diagnostician, physiotherapist, paramedic, veterinarian, architect, teacher), the curriculum must comply with the education standards specified in the regulation of the minister responsible for higher education and science. These education standards constitute a set of rules and requirements in the field of education regarding the method of organization of education, persons conducting this education, general and specific learning outcomes, as well as the method of verification of the achieved learning  outcomes  (in  most  cases,  the  need  to  define  education  standards  results  from  the obligation to implement the law to the Polish legal system).
+System solutions for establishing study programs in the fields of study grant universities the freedom to shape the didactic offer and establish study programs. Study programs are assessed and improved by the university. Moreover, an external evaluation is systematically performed - the institution evaluating the quality of the studies is the Polish Accreditation Committee. Only in the case of 11 professions (doctor, dentist, pharmacist, nurse, midwife, laboratory diagnostician, physiotherapist, paramedic, veterinarian, architect, teacher), the curriculum must comply with the education standards specified in the regulation of the minister responsible for higher education and science. These education standards constitute a set of rules and requirements in the field of education regarding the method of organization of education, persons conducting this education, general and specific learning outcomes, as well as the method of verification of the achieved learning outcomes (in most cases, the need to define education standards results from the obligation to implement the law to the Polish legal system).
 
-There are no specific regulations or special study programs for the training of academic teachers. Nevertheless, attention should be paid to the preamble of the Act of July 20, 2018 Law on Higher Education  and  Science ,  which  refers  to  learning  the  truth  and  transferring  knowledge  from generation to generation, as well as conducting scientific activity based on the indicated principles:
+There are no specific regulations or special study programs for the training of academic teachers. Nevertheless, attention should be paid to the preamble of the Act of July 20, 2018 – Law on Higher Education and Science, which refers to learning the truth and transferring knowledge from generation to generation, as well as conducting scientific activity based on the indicated principles:
 
 -each scientist is responsible for the quality and reliability of research and for educating the young generation,
 
@@ -700,7 +702,7 @@ The  Ministry  of  Climate  and  Environment  carries  out  projects  in  the  f
 
 [[START OF PAGE 22]]
 
-The activities carried out by the Ministry of Climate and Environment are primarily activities in the field of informal education, where the assumed learning process takes place throughout the life of  the  individual,  based  on  experience  and  through  daily  activities,  as  well  as  the  nature  of activities  in the field  of non-formal education, e.g. by organizing online workshops. The target groups of the information and educational activities initiated by the Ministry are, in the first place, adults, e.g. running households, and in the second - school youth and educators. Educational activities are based on the provisions of the Act of 27 April 2001 Environmental Protection Law (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1219, with further amendments), in which the aspect of environmental education is raised, as well as in strategic dimension, in the provisions of the State Environmental Policy 2030 - development strategy in the field of environment and water  management ( Polityka  ekologiczna  państwa  2030 -  strategia  rozwoju  w  obszarze środowiska  i  gospodarki  wodnej  PEP2030),  in  which  the  detailed  objective  /  direction  of intervention with a horizontal dimension was indicated: Environment and education. Developing ecological  competences  (knowledge,  skills  and  attitudes)  of  the  society".  In  accordance  with PEP2030, activities implemented under the above-mentioned direction of intervention contribute to the implementation of SDGs: 2, 4, 6, 11, 12, 13 and 14.
+The activities carried out by the Ministry of Climate and Environment are primarily activities in the field of informal education, where the assumed learning process takes place throughout the life of the individual, based on experience and through daily activities, as well as the nature of activities in the field of non-formal education, e.g. by organizing online workshops. The target groups of the information and educational activities initiated by the Ministry are, in the first place, adults, e.g. running households, and in the second - school youth and educators. Educational activities are based on the provisions of the Act of 27 April 2001 – Environmental Protection Law (Dziennik Ustaw [Polish Journal of Laws] of 2020, item 1219, with further amendments), in which the aspect of environmental education is raised, as well as in strategic dimension, in the provisions of the State Environmental Policy 2030 - development strategy in the field of environment and water management (Polityka ekologiczna państwa 2030 - strategia rozwoju w obszarze środowiska i gospodarki wodnej PEP2030), in which the detailed objective / direction of intervention with a horizontal dimension was indicated: Environment and education. Developing ecological competences (knowledge, skills and attitudes) of the society". In accordance with PEP2030, activities implemented under the above-mentioned direction of intervention contribute to the implementation of SDGs: 2, 4, 6, 11, 12, 13 and 14.
 
 The  strategic  basis  for  educational  activities,  in  the  formal  and  non-formal  dimension,  are documents focused on the formal education path and the professional qualifications development
 
@@ -730,23 +732,24 @@ The 2019 UNICEF research 8  shows that 1/3 of parents do not know whether the in
 
 The child's rights have been included for years in future teachers' training curriculum, still only 45% of them deem the knowledge obtained at the university adequate 9 .
 
-The results of the UNICEF research correspond to the analysis contained in the Integrated Skills Strategy 2030, which states, inter alia, that ' in formal education, too little attention is paid to shaping social competences and attitudes related to them. The promotion of individual progress, common in the Polish educational system, discourages cooperation,  while  research  indicates better  results  of  group  activities  participants than  of  individual  ones.  The  'handing  in'  style  of teaching which is still dominant in Polish schools and which insufficiently uses the potential of group  work  does  not  help  the  development  of  social  competences.    Both  in  the  relationship between teachers and students, between the principal and teachers, and between the supervising institutions  and  the  school  itself,  the  dominance  of  control,  evaluation  and  requirements  over support, cooperation and trust is noticeable 10 .
+The results of the UNICEF research correspond to the analysis contained in the Integrated Skills Strategy 2030, which states, inter alia, that “ in formal education, too little attention is paid to shaping social competences and attitudes related to them. The promotion of individual progress, common in the Polish educational system, discourages cooperation, while research indicates better results of group activities participants than of individual ones. The “handing in” style of teaching which is still dominant in Polish schools and which insufficiently uses the potential of group work does not help the development of social competences. Both in the relationship between teachers and students, between the principal and teachers, and between the supervising institutions and the school itself, the dominance of control, evaluation and requirements over support, cooperation and trust is noticeable 10 .
 
 Based  on  our  experience  in  conducting  long-term  education  on  human  rights,  both  among students and teachers, we can conclude that knowledge of human rights and civic education is treated very formally, not to say superficially, as if the understanding and use of knowledge and skills were irrelevant. Generally, students know the names of international documents, the dates of their creation, can name a few laws, but do not really understand what these rights mean in everyday life. For example, that human rights result from the relationship between power authority and the individual, and the authority has a duty to respect their rights, that they cannot limit them without  appropriate  statutory  provisions,  and  these  must  comply  with  standards,  etc.  This conclusion seems to be confirmed by the opinions of academic teachers.
 
 Recommendations  included  in  the  alternative  report  show  significant differences in the assessment of the state  of  education  on  human  rights  and  civic  education  by  the  Ministry  of National Education and by non-governmental organizations 11 :
 
-'Conducting systematic child's rights education among children as well as professionals working with children and for their benefit.'
+“Conducting systematic child’s rights education among children as well as professionals working with children and for their benefit.”
 
-'Expanding teaching content regarding civic education by information showing children and youth mechanisms of involvement in social life, motivating and preparing them for full-value engagement in decision-making.'
+“Expanding teaching content regarding civic education by information showing children and youth mechanisms of involvement in social life, motivating and preparing them for full-value engagement in decision-making.”
 
-'Proactive conduct by the government of activities to combat all manifestations of discrimination.' 'Implementing systemic anti-discrimination education.'
+“Proactive conduct by the government of activities to combat all manifestations of discrimination.”
+“Implementing systemic anti-discrimination education.”
 
 > 8 Prawa dziecka z perspektywy dzieci, rodziców i nauczycieli. Raport z badań. UNICEF Polska 2019 https://unicef.pl/co-robimy/publikacje
 
 > 9 Prawa dziecka z perspektywy dzieci, rodziców i nauczycieli. Raport z badań. UNICEF Polska 2019 https://unicef.pl/co-robimy/publikacje
 
-> 10 Zintegrowana Strategia Umiejętności 2030, page 52 https://efs.men.gov.pl/zintegrowana-strategiaumiejetnosci-2030-czesc-ogolna/
+> 10 Zintegrowana Strategia Umiejętności 2030, page 52 https://efs.men.gov.pl/zintegrowana-strategia-umiejetnosci-2030-czesc-ogolna/
 
 > 11  https://fdds.pl/wp-content/uploads/2020/09/Alternative-Report-Poland.pdf - pages 5 and 10
 
