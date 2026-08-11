@@ -1,6 +1,5 @@
 [[START OF PAGE 1]]
-
-ONZIEME ANNEE. N° 260-261.                                      MERCREDI 27 AOUT 1969.
+ONZIÈME ANNÉE. N° 260-261.                                                        MERCREDI 27 AOÛT 1969.
 
 JOURNAL OFFICIEL
 DE LA
@@ -9,248 +8,222 @@ RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 ABONNEMENTS ET RECUEILS ANNUELS
 
 Abonnements :
-Ordinaire ........................................ 3 000 fr CFA
-Par avion Mauritanie ............................. 4 000 fr CFA
-France ex-communauté ............................. 5 000 fr CFA
-autres pays ...................................... 6 000 fr CFA
-Le numéro. D'après le nombre de pages et les frais d'expédition.
+Ordinaire : 3 000 fr CFA par an
+Par avion Mauritanie : 4 000 fr CFA
+France ex-communauté : 5 000 fr CFA
+autres pays : 6 000 fr CFA
+Le numéro : d'après le nombre de pages et les frais d'expédition.
 Recueils annuels de lois et règlements : 3 000 fr CFA (frais d'expédition en sus).
 
 BIMENSUEL
-PARAISSANT le 1er et 3e MERCREDI de CHAQUE MOIS
+PARAISSANT LE 1er ET 3e MERCREDI DE CHAQUE MOIS
 
 POUR LES ABONNEMENTS ET LES ANNONCES
 S'adresser à la direction du Journal Officiel,
 B.P. 188, Nouakchott (Mauritanie).
-Les abonnements et les annonces
-sont payables d'avance.
+Les abonnements et les annonces sont payables d'avance.
 Compte Chèque Postal n° 391 Nouakchott.
 
 ANNONCES ET AVIS DIVERS
-La ligne (hauteur 8 points) ............ 100 fr CFA
-(Il n'est jamais compté moins de 500 fr CFA
-pour les annonces.)
-Les annonces doivent être remises au plus tard
-un mois avant la parution du journal.
+La ligne (hauteur 8 points) : 100 fr CFA
+(Il n'est jamais compté moins de 500 fr CFA pour les annonces.)
+Les annonces doivent être remises au plus tard un mois avant la parution du journal.
 
 # SOMMAIRE
 
-# I. — LOIS ET ORDONNANCES.
+## I. — LOIS ET ORDONNANCES.
 
-26 juillet 1969 ... Loi n° 69.265 fixant les règles de gestion des personnels de la Sûreté nationale. ........ 294
-26 juillet 1969 ... Loi n° 69.266 portant réforme du statut des cadis ....................................... 295
-26 juillet 1969 ... Loi n° 69.267 modifiant la loi n° 67.169 portant statut général de la Fonction publique ... 298
-1er août 1969 ..... Loi n° 69.269 portant réorganisation de l'enseignement du second degré .................. 299
-1er août 1969 ..... Loi n° 69.270 portant interdiction des jeux de hasard destinés à procurer un gain ....... 300
-1er août 1969 ..... Loi n° 69.271 modifiant l'article 19-6° du Code de procédure pénale ...................... 300
+26 juillet 1969 ... Loi n° 69.265 fixant les règles de gestion des personnels de la Sûreté nationale. — 294
+26 juillet 1969 ... Loi n° 69.266 portant réforme du statut des cadis. — 295
+26 juillet 1969 ... Loi n° 69.267 modifiant la loi n° 67.169 portant statut général de la Fonction publique. — 298
+1er août 1969 ... Loi n° 69.269 portant réorganisation de l'enseignement du second degré. — 299
+1er août 1969 ... Loi n° 69.270 portant interdiction des jeux de hasard destinés à procurer un gain. — 300
+1er août 1969 ... Loi n° 69.271 modifiant l'article 19-6° du Code de procédure pénale. — 300
 
-# II. — DECRETS, ARRETES, DECISIONS, CIRCULAIRES.
+## II. — DÉCRETS, ARRÊTÉS, DÉCISIONS, CIRCULAIRES.
 
 Présidence de la République :
 
 Actes divers :
-
-7 août 1969 ...... Décret n° 69.295 portant nomination d'un chef du service des Etudes et de la Législation par intérim .... 301
+7 août 1969 ... Décret n° 69.295 portant nomination d'un chef du service des Études et de la Législation par intérim. — 301
 
 Secrétariat général à l'Information.
 
 Actes réglementaires :
+1er août 1969 ... Décret n° 69.276 érigeant en direction le service de l'Information. — 301
+6 août 1969 ... Décret n° 69.279 portant création d'un Comité d'orientation de la politique financière. — 301
 
-1er août 1969 .... Décret n° 69.276 érigeant en direction le service de l'Information ........ 301
-
-6 août 1969 ...... Décret n° 69.279 portant création d'un Comité d'orientation de la politique financière .... 301
-
-Ministère des Affaires étrangères
+Ministère des Affaires étrangères :
 
 Actes réglementaires :
-
-30 juillet 1969 ... Décret n° 69.268 modifiant le décret 68.129 du 3 avril 1968 fixant les attributions du ministre des Affaires étrangères et l'organisation de l'administration centrale du ministère des Affaires étrangères ........ 301
+30 juillet 1969 ... Décret n° 69.268 modifiant le décret n° 68.129 du 3 avril 1968 fixant les attributions du ministre des Affaires étrangères et l'organisation de l'administration centrale du ministère des Affaires étrangères. — 301
 
 Actes divers :
-
-7 août 1969 ...... Décret n° 69.285 portant nomination d'un consul général à Bamako ........ 301
+7 août 1969 ... Décret n° 69.285 portant nomination d'un consul général à Bamako. — 301
 
 Ministère de la Défense nationale :
 
 Actes réglementaires :
-
-24 juillet 1969 ... Décret n° 69.264 modifiant le décret n° 62.207 du 10 novembre 1962 fixant les conditions d'attributions des logements, de l'ameublement aux personnels militaires de l'armée et de la gendarmerie nationale ........ 301
+24 juillet 1969 ... Décret n° 69.264 modifiant le décret n° 62.207 du 10 novembre 1962 fixant les conditions d'attributions des logements, de l'ameublement aux personnels militaires de l'armée et de la gendarmerie nationale. — 301
 
 Actes divers :
-
-8 août 1969 ...... Décision n° 757 arrêtant la liste des officiers de l'armée nationale autorisés à se présenter à l'examen du brevet de capitaine, session de septembre 1969 ........ 302
-
+8 août 1969 ... Décision n° 757 arrêtant la liste des officiers de l'armée nationale autorisés à se présenter à l'examen du brevet de capitaine, session de septembre 1969. — 302
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
 292
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
 Ministère du Commerce, des Transports :
 
 Actes réglementaires :
+25 juillet 1969 ... Arrêté n° 501 fixant la composition de la commission de retrait des permis de conduire. — 302
+30 juillet 1969 ... Arrêté n° 513 portant ouverture à la circulation aérienne publique de l'aérodrome de Chinguetti. — 302
+6 août 1969 ... Décret n° 69.280 modifiant le décret n° 65.048 du 25 février 1965 rendant exécutoires les décisions prises par le Comité de l'union douanière des états de l'Afrique de l'Ouest. — 302
 
-25 juillet 1969 ... Arrêté n° 501 fixant la composition de la commission de retrait des permis de conduire ........ 302
-30 juillet 1969 ... Arrêté n° 513 portant ouverture à la circulation aérienne publique de l'aérodrome de Chinguetti ........ 302
-6 août 1969 ...... Décret n° 69.280 modifiant le décret n° 65.048 du 25 février 1965 rendant exécutoires les décisions prises par le Comité de l'union douanière des états de l'Afrique de l'Ouest ........ 302
-
-Ministère de l'Equipement :
+Ministère de l'Équipement :
 
 Actes réglementaires :
-
-6 août 1969 ...... Décret n° 69.284 ratifiant le contrat de financement passé entre le gouvernement de la Mauritanie d'une part, et la Communauté économique européenne et la Banque européenne d'investissement d'autre part ........ 303
-7 août 1969 ...... Décret n° 69.287 portant nomination d'un chef de service ........ 303
+6 août 1969 ... Décret n° 69.284 ratifiant le contrat de financement passé entre le gouvernement de la Mauritanie d'une part, et la Communauté économique européenne d'investissement d'autre part. — 303
+7 août 1969 ... Décret n° 69.287 portant nomination d'un chef de service. — 303
 
 Ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique :
 
 Actes réglementaires :
-
-26 mai 1969 ...... Arrêté n° 328 portant ouverture d'un concours pour le recrutement de trois journalistes ........ 303
-22 juillet 1969 ... Arrêté n° 464 portant ouverture des concours d'entrée au cycle d'études « B » de l'Ecole nationale d'administration pour l'année 1969 ........ 304
-22 juillet 1969 ... Arrêté n° 465 portant ouverture des concours d'entrée au cycle d'études « A » de l'Ecole nationale d'administration pour l'année 1969 ........ 306
-23 juillet 1969 ... Arrêté n° 487 portant ouverture des concours d'entrée au cycle d'études « C » de l'Ecole nationale d'administration pour l'année 1969 ........ 308
+26 mai 1969 ... Arrêté n° 328 portant ouverture d'un concours pour le recrutement de trois journalistes. — 303
+22 juillet 1969 ... Arrêté n° 464 portant ouverture des concours d'entrée au cycle d'études « B » de l'École nationale d'administration pour l'année 1969. — 304
+22 juillet 1969 ... Arrêté n° 465 portant ouverture des concours d'entrée au cycle d'études « A » de l'École nationale d'administration pour l'année 1969. — 306
+23 juillet 1969 ... Arrêté n° 487 portant ouverture des concours d'entrée au cycle d'études « C » de l'École nationale d'administration pour l'année 1969. — 308
 
 Actes divers :
-
-17 juillet 1969 ... Arrêté n° 453 portant titularisation de mouçaïds ........ 311
-17 juillet 1969 ... Arrêté n° 456 portant titularisation de trois moniteurs ........ 311
-17 juillet 1969 ... Arrêté n° 457 portant démission d'un fonctionnaire ........ 311
-22 juillet 1969 ... Arrêté n° 466 portant intégration d'un mouçaïd ........ 311
-22 juillet 1969 ... Arrêté n° 468 portant nomination d'un instituteur adjoint ........ 312
-22 juillet 1969 ... Arrêté n° 470 portant intégration d'un moniteur ........ 312
-22 juillet 1969 ... Arrêté n° 471 portant intégration d'un sous-intendant ........ 312
-22 juillet 1969 ... Arrêté n° 473 fixant la liste des candidats autorisés à subir les épreuves du concours direct des assistants d'élevage à l'école de Bamako ........ 312
-22 juillet 1969 ... Arrêté n° 475 portant exclusion définitive de l'E.N.A. de certains élèves, fonctionnaires et fonctionnaires élèves ........ 312
-22 juillet 1969 ... Arrêté n° 477 portant titularisation de quelques instituteurs et mouallims ........ 312
-22 juillet 1969 ... Arrêté n° 478 portant intégration d'un infirmier breveté ........ 313
-22 juillet 1969 ... Arrêté n° 479 fixant la liste des candidats autorisés à subir les épreuves du concours d'entrée à l'Ecole africaine de la météorologie et de l'aviation civile à Niamey ........ 313
-23 juillet 1969 ... Arrêté n° 489 portant titularisation d'un instituteur adjoint ........ 313
-23 juillet 1969 ... Arrêté n° 490 portant titularisation d'un fonctionnaire ........ 313
-23 juillet 1969 ... Arrêté n° 491 portant intégration d'un mouçaïd ........ 313
-23 juillet 1969 ... Arrêté n° 492 portant titularisation d'un mouçaïd ........ 313
-23 juillet 1969 ... Arrêté n° 493 autorisant M. Bâ Waly à se présenter au concours d'accès du cycle « C » du Centre de formation et de vulgarisation de Kaédi ........ 313
-23 juillet 1969 ... Arrêté n° 494 portant démission d'un fonctionnaire ........ 313
-23 juillet 1969 ... Arrêté n° 497 fixant la liste des candidats autorisés à subir les épreuves du concours direct des agents de police ........ 313
-24 juillet 1969 ... Arrêté n° 499 portant intégration d'un ingénieur des travaux des eaux et forêts ........ 314
-28 juillet 1969 ... Arrêté n° 506 portant classement général des élèves de deuxième année du cycle « C » de l'Ecole nationale d'administration pour l'année 1969 ........ 314
-28 juillet 1969 ... Arrêté n° 507 portant classement général des élèves de deuxième année du cycle d'études « B » de l'Ecole nationale d'administration pour l'année 1969 ........ 314
-29 juillet 1969 ... Arrêté n° 510 portant titularisation d'un moniteur ........ 314
-1er août 1969 .... Décret n° 69.273 portant nomination du directeur de la Fonction publique par intérim ........ 314
-1er août 1969 .... Décret n° 69.274 portant nomination d'un secrétaire général par intérim ........ 315
-1er août 1969 .... Décret n° 69.275 modifiant le décret n° 68.332 du 16 décembre 1968 relatif à l'organisation centrale du ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique ........ 315
-1er août 1969 .... Rectificatif n° 516 à l'arrêté n° 269 du 21 avril 1969 portant intégration de vingt-deux mouallims sortant de l'école normale ........ 315
-
+17 juillet 1969 ... Arrêté n° 453 portant titularisation de mouçaïds. — 311
+17 juillet 1969 ... Arrêté n° 456 portant titularisation de trois moniteurs. — 311
+17 juillet 1969 ... Arrêté n° 457 portant démission d'un fonctionnaire. — 311
+22 juillet 1969 ... Arrêté n° 466 portant intégration d'un mouçaïd. — 311
+22 juillet 1969 ... Arrêté n° 468 portant nomination d'un instituteur adjoint. — 312
+22 juillet 1969 ... Arrêté n° 470 portant intégration d'un moniteur. — 312
+22 juillet 1969 ... Arrêté n° 471 portant intégration d'un sous-intendant. — 312
+22 juillet 1969 ... Arrêté n° 473 fixant la liste des candidats autorisés à subir les épreuves du concours direct des assistants d'élevage à l'école de Bamako. — 312
+22 juillet 1969 ... Arrêté n° 475 portant exclusion définitive de l'E.N.A. de certains élèves, fonctionnaires et fonctionnaires élèves. — 312
+22 juillet 1969 ... Arrêté n° 477 portant titularisation de quelques instituteurs et mouallims. — 312
+22 juillet 1969 ... Arrêté n° 478 portant intégration d'un infirmier breveté. — 313
+22 juillet 1969 ... Arrêté n° 479 fixant la liste des candidats autorisés à subir les épreuves du concours d'entrée à l'École africaine de la météorologie et de l'aviation civile à Niamey. — 313
+23 juillet 1969 ... Arrêté n° 489 portant titularisation d'un instituteur adjoint. — 313
+23 juillet 1969 ... Arrêté n° 490 portant titularisation d'un fonctionnaire. — 313
+23 juillet 1969 ... Arrêté n° 491 portant intégration d'un mouçaïd. — 313
+23 juillet 1969 ... Arrêté n° 492 portant titularisation d'un mouçaïd. — 313
+23 juillet 1969 ... Arrêté n° 493 autorisant M. Bâ Waly à se présenter au concours d'accès du cycle « C » du Centre de formation et de vulgarisation de Kaédi. — 313
+23 juillet 1969 ... Arrêté n° 494 portant démission d'un fonctionnaire. — 313
+23 juillet 1969 ... Arrêté n° 497 fixant la liste des candidats autorisés à subir les épreuves du concours direct des agents de police. — 313
+24 juillet 1969 ... Arrêté n° 499 portant intégration d'un ingénieur des travaux des eaux et forêts. — 314
+28 juillet 1969 ... Arrêté n° 506 portant classement général des élèves de la deuxième année du cycle « C » de l'École nationale d'administration pour l'année 1969. — 314
+28 juillet 1969 ... Arrêté n° 507 portant classement général des élèves de deuxième année du cycle d'études « B » de l'École nationale d'administration pour l'année 1969. — 314
+29 juillet 1969 ... Arrêté n° 510 portant titularisation d'un moniteur. — 314
+1er août 1969 ... Décret n° 69.273 portant nomination du directeur de la Fonction publique par intérim. — 314
+1er août 1969 ... Décret n° 69.274 portant nomination d'un secrétaire général par intérim. — 315
+1er août 1969 ... Décret n° 69.275 modifiant le décret n° 68.332 du 16 décembre 1968 relatif à l'organisation centrale du ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique. — 315
+1er août 1969 ... Rectificatif n° 516 à l'arrêté n° 269 du 21 avril 1969 portant intégration de vingt-deux mouallims sortant de l'école normale. — 315
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 293
 
-2 août 1969 ..... Arrêté n° 517 portant intégration d'un mouçaïd sortant de l'école normale ........ 315
-6 août 1969 ..... Arrêté n° 520 portant démission d'un moniteur ........ 315
-6 août 1969 ..... Rectificatif n° 522 aux arrêtés n° 006 du 3 janvier 1969, 183 du 15 mars 1969 portant intégration de mouçaïds dans le cadre de l'enseignement public ........ 315
-7 août 1969 ..... Arrêté n° 524 portant validation des services militaires des ouvriers de T.P. ........ 315
-8 août 1969 ..... Arrêté n° 525 portant intégration d'un élève fonctionnaire dans le cadre de l'administration générale ........ 315
-8 août 1969 ..... Arrêté n° 526 portant intégration d'un élève fonctionnaire dans le cadre de l'administration générale ........ 315
-9 août 1969 ..... Arrêté n° 528 portant intégration d'un élève fonctionnaire sortant de l'E.N. ........ 316
-11 août 1969 .... Rectificatif n° 530 à l'arrêté n° 575 du 8 novembre 1967 ........ 316
-11 août 1969 .... Arrêté n° 531 portant intégration de deux ingénieurs des travaux d'élevage ........ 316
-11 août 1969 .... Arrêté n° 533 portant titularisation d'un instituteur adjoint ........ 316
-11 août 1969 .... Rectificatif n° 534 à l'arrêté n° 42 du 10 janvier 1969 portant intégration de M. Mohamed ould Khoubah, professeur licencié ........ 316
-11 août 1969 .... Arrêté n° 535 portant titularisation de deux instituteurs ........ 316
-11 août 1969 .... Arrêté n° 536 accordant une disponibilité à un fonctionnaire ........ 316
-11 août 1969 .... Arrêté n° 538 portant titularisation de deux moniteurs ........ 316
-12 août 1969 .... Rectificatif n° 539 à l'arrêté n° 20 du 6 janvier 1969 portant intégration de M. Sid'Ahmed ould Deye, professeur certifié ........ 316
-14 août 1969 .... Arrêté n° 541 portant intégration de trois élèves fonctionnaires sortant de l'Ecole nationale d'administration ........ 317
-14 août 1969 .... Rectificatif n° 542 à l'arrêté n° 261 du 6 mai 1968 et au rectificatif n° 391 du 22 juillet 1968 ........ 317
-14 août 1969 .... Rectificatif n° 543 à l'arrêté n° 547 du 21 octobre 1967 ........ 317
-14 août 1969 .... Arrêté n° 544 portant intégration de deux élèves fonctionnaires sortant de l'Ecole nationale d'administration ........ 317
-18 août 1969 .... Arrêté n° 547 portant suspension de deux fonctionnaires ........ 317
-18 août 1969 .... Arrêté n° 548 portant intégration d'un élève fonctionnaire dans le cadre des secrétaires d'administration générale ........ 317
-19 août 1969 .... Arrêté n° 549 portant réintégration d'un mouallim ........ 317
-19 août 1969 .... Arrêté n° 553 portant intégration des élèves contrôleurs des douanes sortant de l'Ecole nationale d'administration ........ 318
-19 août 1969 .... Arrêté n° 554 portant réintégration d'un secrétaire d'administration générale ........ 318
-19 août 1969 .... Arrêté n° 555 portant nomination d'un élève infirmier d'Etat ........ 318
+2 août 1969 ... Arrêté n° 517 portant intégration d'un mouçaïd sortant de l'école normale. — 315
+6 août 1969 ... Arrêté n° 520 portant démission d'un moniteur. — 315
+6 août 1969 ... Rectificatif n° 522 aux arrêtés n° 006 du 3 janvier 1969, 183 du 15 mars 1969 portant intégration de mouçaïds dans le cadre de l'enseignement public. — 315
+7 août 1969 ... Arrêté n° 524 portant validation des services militaires des ouvriers de T.P. — 315
+8 août 1969 ... Arrêté n° 525 portant intégration d'un élève fonctionnaire dans le cadre de l'administration générale. — 315
+8 août 1969 ... Arrêté n° 526 portant intégration d'un élève fonctionnaire dans le cadre de l'administration générale. — 315
+9 août 1969 ... Arrêté n° 528 portant intégration d'un élève fonctionnaire sortant de l'E.N. — 316
+11 août 1969 ... Rectificatif n° 530 à l'arrêté n° 575 du 8 novembre 1967. — 316
+11 août 1969 ... Arrêté n° 531 portant intégration de deux ingénieurs des travaux d'élevage. — 316
+11 août 1969 ... Arrêté n° 533 portant titularisation d'un instituteur adjoint. — 316
+11 août 1969 ... Rectificatif n° 534 à l'arrêté n° 42 du 10 janvier 1969 portant intégration de M. Mohamed ould Khoubah, professeur licencié. — 316
+11 août 1969 ... Arrêté n° 535 portant titularisation de deux instituteurs. — 316
+11 août 1969 ... Arrêté n° 536 accordant une disponibilité à un fonctionnaire. — 316
+11 août 1969 ... Arrêté n° 538 portant titularisation de deux moniteurs. — 316
+12 août 1969 ... Rectificatif n° 539 à l'arrêté n° 20 du 6 janvier 1969 portant intégration de M. Sid'Ahmed ould Deye, professeur certifié. — 316
+14 août 1969 ... Arrêté n° 541 portant intégration de trois élèves fonctionnaires sortant de l'École nationale d'administration. — 317
+14 août 1969 ... Rectificatif n° 542 à l'arrêté n° 261 du 6 mai 1968 et au rectificatif n° 391 du 22 juillet 1968. — 317
+14 août 1969 ... Rectificatif n° 543 à l'arrêté n° 547 du 21 octobre 1967. — 317
+14 août 1969 ... Arrêté n° 544 portant intégration de deux élèves fonctionnaires sortant de l'École nationale d'administration. — 317
+18 août 1969 ... Arrêté n° 547 portant suspension de deux fonctionnaires. — 317
+18 août 1969 ... Arrêté n° 548 portant intégration d'un élève fonctionnaire dans le cadre des secrétaires d'administration générale. — 317
+19 août 1969 ... Arrêté n° 549 portant réintégration d'un mouallim. — 317
+19 août 1969 ... Arrêté n° 553 portant intégration des élèves contrôleurs des douanes sortant de l'École nationale d'administration. — 318
+19 août 1969 ... Arrêté n° 554 portant réintégration d'un secrétaire d'administration générale. — 318
+19 août 1969 ... Arrêté n° 555 portant nomination d'un élève infirmier d'État. — 318
 
 Ministère des Finances :
 
 Actes réglementaires :
-
-1er août 1969 .... Décrets n° 69.272 modifiant l'article 2 du décret n° 68.092 du 16 mars 1968 relatif à l'organisation de l'administration centrale du ministère des Finances ........ 318
-7 août 1969 ..... Arrêté n° 523 portant modification de l'arrêté n° 10.427 du 23 juillet 1966 relatif au barème des conditions générales applicables par les banques installées sur le territoire de la République islamique de Mauritanie ........ 319
-19 août 1969 .... Arrêté n° 556 portant approbation du budget de la Chambre de commerce pour l'année 1969 ........ 319
+1er août 1969 ... Décret n° 69.272 modifiant l'article 2 du décret n° 68.092 du 16 mars 1968 relatif à l'organisation de l'administration centrale du ministère des Finances. — 318
+7 août 1969 ... Arrêté n° 523 portant modification de l'arrêté n° 10.427 du 23 juillet 1966 relatif au barème des conditions générales applicables par les banques installées sur le territoire de la République islamique de Mauritanie. — 319
+19 août 1969 ... Arrêté n° 556 portant approbation du budget de la Chambre de commerce pour l'année 1969. — 319
 
 Actes divers :
-
-7 août 1969 ..... Décret n° 69.286 portant nomination d'un chef de division ........ 319
-15 août 1969 .... Décision n° 1.599 portant nomination d'un agent comptable à l'établissement maritime de Nouakchott ........ 319
-18 août 1969 .... Arrêté n° 546 approuvant divers actes de cession de terrains sis à Nouakchott ........ 319
+7 août 1969 ... Décret n° 69.286 portant nomination d'un chef de division. — 319
+15 août 1969 ... Décision n° 1.599 portant nomination d'un agent comptable à l'établissement maritime de Nouakchott. — 319
+18 août 1969 ... Arrêté n° 546 approuvant divers actes de cession de terrains sis à Nouakchott. — 319
 
 Ministère de l'Industrialisation et des Mines :
 
 Actes divers :
-
-23 juillet 1969 ... Arrêté n° 498 autorisant la Société communautaire de stockage de Nouadhibou (S.C.S.N.) à installer et exploiter à Nouadhibou un dépôt d'hydrocarbures liquides de première classe ........ 319
-8 août 1969 ..... Arrêté n° 527 portant abrogation d'un arrêté d'autorisation d'ouverture d'un établissement dangereux, insalubre ou incommode rangé dans la deuxième classe (n° 43) ........ 320
-13 août 1969 .... Arrêté n° 540 autorisant la société Shell-Sénégal à installer et exploiter à Kaédi, IVe région, un dépôt de liquides inflammables de première et de deuxième catégories rangé dans la deuxième classe des établissements dangereux, insalubres ou incommodes (n° 258) ........ 321
+23 juillet 1969 ... Arrêté n° 498 autorisant la Société communautaire de stockage de Nouadhibou (S.C.S.N.) à installer et exploiter à Nouadhibou un dépôt d'hydrocarbures liquides de première classe. — 319
+8 août 1969 ... Arrêté n° 527 portant abrogation d'un arrêté d'autorisation d'ouverture d'un établissement dangereux, insalubre ou incommode rangé dans la deuxième classe (n° 43). — 320
+13 août 1969 ... Arrêté n° 540 autorisant la société Shell-Sénégal à installer et exploiter à Kaédi, IVe région, un dépôt de liquides inflammables de première et de deuxième catégories rangé dans la deuxième classe des établissements dangereux, insalubres ou incommodes (n° 258). — 321
 
 Ministère de l'Intérieur :
 
 Actes réglementaires :
-
-6 août 1969 ..... Décret n° 69.278 portant modification des limites territoriales de départements de la IVe région et rattachant l'arrondissement de Jedr-El-Mohguen au département de Rosso ........ 321
-6 août 1969 ..... Décret n° 69.282 portant création d'un poste d'adjoint au préfet d'Akjoujt ........ 321
-19 août 1969 .... Décret n° 550 rattachant les collectivités au département d'Aoujeft ........ 322
-19 août 1969 .... Arrêté n° 551 rattachant des collectivités et des tribus du département de Beyla ........ 322
+6 août 1969 ... Décret n° 69.278 portant modification des limites territoriales de départements de la IVe région et rattachant l'arrondissement de Jedr-El-Mohguen au département de Rosso. — 321
+6 août 1969 ... Décret n° 69.282 portant création d'un poste d'adjoint au préfet d'Akjoujt. — 321
+19 août 1969 ... Décret n° 550 rattachant les collectivités au département d'Aoujeft. — 322
+19 août 1969 ... Arrêté n° 551 rattachant des collectivités et des tribus du département de Beyla. — 322
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
 294
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
-19 août 1969 .... Arrêté n° 552 rattachant des collectivités au département de Keur-Nacène ........ 322
+19 août 1969 ... Arrêté n° 552 rattachant des collectivités au département de Keur-Nacène. — 322
 
 Actes divers :
-
-9 juin 1969 ..... Arrêté n° 376 portant autorisation d'ouverture d'un bar ........ 323
-25 juillet 1969 ... Arrêté n° 504 portant titularisation d'un élève garde ........ 323
-5 août 1969 ..... Décision n° 1.473 portant rectificatif à la décision 1.276 portant désignation de membres du jury ........ 323
-6 août 1969 ..... Décret n° 69.283 portant nomination d'un chef de subdivision ........ 323
-7 août 1969 ..... Décret n° 69.288 portant nomination des préfets ........ 323
-7 août 1969 ..... Décret n° 69.289 portant nomination de l'adjoint administratif au gouverneur de la IIIe région ........ 323
-7 août 1969 ..... Décret n° 69.290 portant nomination de l'adjoint administratif au gouverneur de la IVe région ........ 323
+9 juin 1969 ... Arrêté n° 376 portant autorisation d'ouverture d'un bar. — 323
+25 juillet 1969 ... Arrêté n° 504 portant titularisation d'un élève garde. — 323
+5 août 1969 ... Décision n° 1.473 portant rectificatif à la décision 1.276 portant désignation de membres du jury. — 323
+6 août 1969 ... Décret n° 69.283 portant nomination d'un chef de subdivision. — 323
+7 août 1969 ... Décret n° 69.288 portant nomination des préfets. — 323
+7 août 1969 ... Décret n° 69.289 portant nomination de l'adjoint administratif au gouverneur de la IIIe région. — 323
+7 août 1969 ... Décret n° 69.290 portant nomination de l'adjoint administratif au gouverneur de la IVe région. — 323
 
 Ministère de la Justice :
 
 Actes divers :
-
-7 août 1969 ..... Décret n° 69.294 portant intégration de cadis stagiaires ........ 323
-23 août 1969 .... Décision n° 1.693 portant affectation d'un secrétaire de greffe de parquet ........ 323
-30 juillet 1969 ... Arrêté n° 514 portant affectation de certains magistrats ........ 323
+7 août 1969 ... Décret n° 69.294 portant intégration de cadis stagiaires. — 323
+23 août 1969 ... Décision n° 1.693 portant affectation d'un secrétaire de greffe de parquet. — 323
+30 juillet 1969 ... Arrêté n° 514 portant affectation de certains magistrats. — 323
 
 Ministère de la Planification et du Développement rural :
 
 Actes divers :
-
-23 juillet 1969 ... Décision n° 1.352 infligeant une sanction à un fonctionnaire ........ 324
-1er août 1969 .... Décret n° 69.291 portant délégation de signature ........ 324
+23 juillet 1969 ... Décision n° 1.352 infligeant une sanction à un fonctionnaire. — 324
+1er août 1969 ... Décret n° 69.291 portant délégation de signature. — 324
 
 Ministère de la Santé et des Affaires sociales :
 
 Actes divers :
-
-7 août 1969 ..... Décret n° 69.291 portant délégation de signature ........ 325
+7 août 1969 ... Décret n° 69.291 portant délégation de signature. — 325
 
 IV. — ANNONCES.
-
-Nos 139 à Nos 156 ........ 325
+Nos 139 à Nos 156. — 325
 
 # I. — LOIS ET ORDONNANCES
 
@@ -282,7 +255,7 @@ ART. 7. — La cessation définitive des fonctions entraînant la perte de la qu
 5° Démission régulièrement acceptée ;
 6° Admission à la retraite ;
 
-ART. 8. — Les frais résultant des poursuites judiciaires engagées avec l'accord du ministre de l'Intérieur pour la défense des personnels de la Sûreté nationale à l'occasion de l'exercice de leurs fonctions sont à la charge du budget de l'Etat.
+ART. 8. — Les frais résultant des poursuites judiciaires engagées avec l'accord du ministre de l'Intérieur pour la défense des personnels de la Sûreté nationale à l'occasion de l'exercice de leurs fonctions sont à la charge du budget de l'État.
 
 ART. 9. — A titre exceptionnel il peut être décidé, par décret, sur proposition du ministre de l'Intérieur, du reclassement dans un autre corps de la Fonction publique des personnels de la Sûreté nationale blessés en service et dont l'inaptitude physique aura été médicalement constatée. Les modalités de ce reclassement seront précisées par voie de décret.
 
@@ -291,12 +264,12 @@ ART. 9. — A titre exceptionnel il peut être décidé, par décret, sur propos
 [[START OF PAGE 5]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 295
 
 ART. 10. — Toutes dispositions antérieures contraires à celles de la présente loi, et notamment la loi n° 65.036 du 11 février 1965, sont abrogées.
 
-ART. 11. — La présente loi sera exécutée comme loi de l'Etat.
+ART. 11. — La présente loi sera exécutée comme loi de l'État.
 
 Fait à Nouakchott, le 26 juillet 1969.
 
@@ -346,7 +319,7 @@ ART. 12. — Les parents et alliés jusqu'au degré d'oncle et neveu inclusiveme
 ART. 13. — Toute manifestation d'hostilité au principe et à la forme du gouvernement de la République est interdite aux cadis : de même que toute démonstration de nature politique incompatible avec la réserve que leur imposent leurs fonctions.
 Est également interdite aux cadis toute action de nature à arrêter ou entraver le fonctionnement des juridictions.
 
-ART. 14. — Indépendamment des règles fixées par le Code pénal, les cadis sont protégés contre les menaces et attaques de quelque nature que ce soit, dont ils peuvent faire l'objet dans l'exercice ou à l'occasion de l'exercice de leurs fonctions. L'Etat doit réparer le préjudice direct qui en résulte, dans tous les cas non prévus par la législation des pensions.
+ART. 14. — Indépendamment des règles fixées par le Code pénal, les cadis sont protégés contre les menaces et attaques de quelque nature que ce soit, dont ils peuvent faire l'objet dans l'exercice ou à l'occasion de l'exercice de leurs fonctions. L'État doit réparer le préjudice direct qui en résulte, dans tous les cas non prévus par la législation des pensions.
 En cas de poursuite contre les cadis, il est instruit, conformément aux articles 588 et suivants du Code de procédure pénale.
 
 ART. 15. — Les cadis ne peuvent, en dehors de leurs fonctions, être requis pour d'autres services publics que le service militaire ou tous autres services que la loi leur impose.
@@ -367,7 +340,7 @@ ART. 19. — Les règles du statut général de la Fonction publique s'appliquen
 [[START OF PAGE 6]]
 
 296
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
 ### CHAPITRE II
@@ -375,12 +348,12 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 #### Recrutement.
 
 ART. 20. — Les candidats aux fonction de cadis doivent remplir les conditions suivantes :
-1° Etre de nationalité mauritanienne ;
+1° Être de nationalité mauritanienne ;
 2° Jouir de leurs droits civiques et être de parfaite moralité ;
 3° Se trouver en position régulière au regard des lois sur le recrutement de l'armée ;
 4° Remplir les conditions d'aptitude physique nécessaire à l'exercice de leurs fonctions et être reconnus indemnes ou définitivement guéris de toute affection donnant droit à un congé de longue durée ;
-5° Etre âgé de vingt-trois ans au moins et de quarante ans au plus ;
-6° Etre titulaire de deux certificats en droit ou d'un diplôme équivalent ou avoir satisfait aux épreuves d'un concours dont les modalités sont fixées par décret.
+5° Être âgé de vingt-trois ans au moins et de quarante ans au plus ;
+6° Être titulaire de deux certificats en droit ou d'un diplôme équivalent ou avoir satisfait aux épreuves d'un concours dont les modalités sont fixées par décret.
 
 ART. 21. — Les candidats admis sont nommés cadis suppléants intérimaires par décret pris sur propositions du ministère de la Justice, après avis de la commission d'avancement et de discipline des cadis.
 Ils sont soumis à une période probatoire de trois ans, années pendant lesquelles ils doivent nécessairement exercer les fonctions auxquelles ils ont été affectés et suivent une formation théorique et pratique.
@@ -440,7 +413,7 @@ ART. 33. — Les sanctions disciplinaires applicables aux cadis sont :
 [[START OF PAGE 7]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 297
 
 7° La mise à la retraite d'office ou l'admission à cesser définitivement ses fonctions lorsque le cadi n'a pas droit à une pension de retraite ;
@@ -479,7 +452,7 @@ ART. 45. — La décision rendue est notifiée au cadi intéressé en la forme a
 #### De la commission d'avancement et de discipline.
 
 ART. 46. — La commission d'avancement et de discipline des cadis comprend :
-— Le contrôleur d'Etat, président ;
+— Le contrôleur d'État, président ;
 — Le président ou le vice-président du Tribunal de première instance de Nouakchott ;
 — Le chef du service de l'administration judiciaire ;
 — Deux cadis, membres titulaires et deux cadis membres suppléants désignés par leurs collègues pour la durée de l'année judiciaire, parmi les cadis du premier et du deuxième grade (dont un au moins doit être du premier grade) ou, à défaut, parmi les cadis membres du troisième grade.
@@ -514,7 +487,7 @@ ART. 51. — Les cadis en activité ont droit chaque année à un congé avec tr
 [[START OF PAGE 8]]
 
 298
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
 Ils peuvent bénéficier également de congé de maladie, de congé de longue durée pour maladie et de congé pour concours ou examens dans les conditions prévues pour les autres fonctionnaires.
@@ -566,7 +539,7 @@ Les cadis en fonction conserveront leurs avantages de solde acquis au jour de la
 
 ART. 62. — Sont abrogées toutes dispositions contraires à la présente loi, notamment la loi n° 63.142 du 19 juillet 1968 portant statut des cadis et les lois n° 64.006 du 13 janvier 1964, n° 65.126 du 20 juillet 1965 et n° 66.168 du 4 août 1966.
 
-ART. 63. — La présente loi sera exécutée comme loi de l'Etat.
+ART. 63. — La présente loi sera exécutée comme loi de l'État.
 
 Fait à Nouakchott, le 26 juillet 1969.
 
@@ -595,7 +568,7 @@ Les dispositions de l'article 23 et du troisième alinéa de l'article 45 ainsi 
 [[START OF PAGE 9]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 299
 
 » b) Soit dans la même catégorie et doté d'un échelonnement indiciaire inférieur à celui du corps postulé. Dans ce cas, les dispositions de l'alinéa 2 de l'article 32 ci-après ne sont pas opposables aux candidats.
@@ -614,7 +587,7 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 » La femme fonctionnaire placée en position de disponibilité en application des dispositions du présent article conserve ses droits à l'avancement et à la retraite, sous réserve dans ce dernier cas de s'acquitter des retenues pour pensions civiles. »
 
 ### ART. 3.
-La présente loi sera exécutée comme loi de l'Etat.
+La présente loi sera exécutée comme loi de l'État.
 
 Fait à Nouakchott, le 26 juillet 1969.
 
@@ -647,13 +620,13 @@ L'enseignement secondaire est gratuit. Les manuels et fournitures scolaires indi
 Tout châtiment corporel est strictement interdit.
 
 ##### ART. 5.
-Le règlement intérieur des établissements secondaires sera établi par arrêté du ministre de l'Education nationale.
+Le règlement intérieur des établissements secondaires sera établi par arrêté du ministre de l'Éducation nationale.
 
 ##### ART. 6.
-Dans tous les exercices scolaires autorisés, la responsabilité civile de l'Etat se substitue à celle du personnel de l'Enseignement pour tout dommage causé aux élèves. Cette substitution n'exclut pas le recours de l'Etat contre le personnel en cause dans le cas où une faute professionnelle pourrait lui être imputée.
+Dans tous les exercices scolaires autorisés, la responsabilité civile de l'État se substitue à celle du personnel de l'Enseignement pour tout dommage causé aux élèves. Cette substitution n'exclut pas le recours de l'État contre le personnel en cause dans le cas où une faute professionnelle pourrait lui être imputée.
 
 ##### ART. 7.
-Seules les autorités scolaires et les autorités politiques et administratives dont la compétence est reconnue par le ministre de l'Education nationale ont droit d'accès dans les établissements scolaires du second degré.
+Seules les autorités scolaires et les autorités politiques et administratives dont la compétence est reconnue par le ministre de l'Éducation nationale ont droit d'accès dans les établissements scolaires du second degré.
 
 ### TITRE II
 
@@ -673,7 +646,7 @@ Les établissements de l'enseignement secondaire comprennent :
 L'enseignement secondaire est mixte lorsque le nombre d'élèves de chaque sexe est insuffisant pour justifier l'ouverture d'établissements spéciaux de garçons et de filles.
 
 ##### ART. 11.
-La construction, l'équipement, l'entretien des bâtiments scolaires et des logements du personnel, la rémunération du personnel sont à la charge de l'Etat ou des collectivités publiques.
+La construction, l'équipement, l'entretien des bâtiments scolaires et des logements du personnel, la rémunération du personnel sont à la charge de l'État ou des collectivités publiques.
 
 ### TITRE III
 
@@ -687,7 +660,7 @@ Nul ne peut suivre les cours de première année du premier cycle s'il n'a été
 [[START OF PAGE 10]]
 
 300
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
 ##### ART. 13.
@@ -711,7 +684,7 @@ A l'issue du premier cycle, les élèves sont orientés en fonction de leurs apt
 Les études du second cycle secondaire sont sanctionnées par le baccalauréat.
 
 ##### ART. 17.
-Un redoublement peut être autorisé dans chaque cycle. Toutefois, des dérogations pourront être prises, en faveur des élèves des classes terminales, par le ministre de l'Education nationale.
+Un redoublement peut être autorisé dans chaque cycle. Toutefois, des dérogations pourront être prises, en faveur des élèves des classes terminales, par le ministre de l'Éducation nationale.
 Les élèves peuvent, en cours de scolarité, être exclus définitivement par décision ministérielle pour l'un des motifs suivants :
 — état physique ou mental incompatible avec le travail scolaire ;
 — comportement compromettant le bon fonctionnement de l'établissement.
@@ -724,7 +697,7 @@ Les élèves peuvent, en cours de scolarité, être exclus définitivement par d
 Chaque établissement d'enseignement secondaire est dirigé par un proviseur ou un directeur auquel est adjoint un personnel administratif et enseignant en nombre suffisant pour que l'enseignement soit dispensé dans les meilleures conditions.
 
 ##### ART. 19.
-Un Conseil national de l'Education créé par décret est consulté par le ministre de l'Education nationale pour toutes questions d'intérêt national concernant l'enseignement du second degré.
+Un Conseil national de l'Éducation créé par décret est consulté par le ministre de l'Éducation nationale pour toutes questions d'intérêt national concernant l'enseignement du second degré.
 
 ### TITRE VI
 
@@ -750,7 +723,7 @@ ART. 3. — La preuve des infractions visées aux articles premier et 2 de la pr
 
 ART. 4. — Sont abrogées toutes dispositions contraires à la présente loi.
 
-ART. 5. — La présente loi sera exécutée comme loi de l'Etat.
+ART. 5. — La présente loi sera exécutée comme loi de l'État.
 
 Fait à Nouakchott, le 1er août 1969.
 
@@ -771,20 +744,20 @@ Fait à Nouakchott, le 1er août 1969.
 
 Moktar ould DADDAH.
 
-# II. — DECRETS, ARRETES, DECISIONS, CIRCULAIRES.
+# II. — DÉCRETS, ARRÊTÉS, DÉCISIONS, CIRCULAIRES.
 
 Présidence de la République :
 
 Actes réglementaires :
 
-DECRET n° 69.279 du 6 août 1969 portant création d'un Comité d'orientation de la politique financière.
+DÉCRET n° 69.279 du 6 août 1969 portant création d'un Comité d'orientation de la politique financière.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 301
 
 ARTICLE PREMIER. — Il est créé un Comité d'orientation de la politique financière présidé par le Président de la République et composé des membres suivants :
@@ -803,7 +776,7 @@ ART. 5. — Le ministre de la Planification et du Développement rural et le min
 
 ###### ACTES DIVERS :
 
-DECRET n° 69.295 du 7 août 1969 portant nomination d'un chef du service des études et de la législation par intérim.
+DÉCRET n° 69.295 du 7 août 1969 portant nomination d'un chef du service des études et de la législation par intérim.
 
 ARTICLE PREMIER. — M. de Rivaz Jean, conseiller à la Cour suprême, est chargé de l'intérim du service des études et de la législation pendant le congé administratif de M. Maroille Joseph, à compter du 15 août 1969.
 
@@ -811,9 +784,9 @@ ART. 2. — Le secrétaire général de la Présidence de la République est cha
 
 ###### Secrétariat général à l'Information.
 
-###### ACTES REGLEMENTAIRES :
+###### ACTES RÉGLEMENTAIRES :
 
-DECRET n° 69.276 du 1er août 1969 érigeant en direction le service de l'Information.
+DÉCRET n° 69.276 du 1er août 1969 érigeant en direction le service de l'Information.
 
 ARTICLE PREMIER. — Le service de l'Information du secrétariat général à l'Information est érigé en direction.
 
@@ -821,9 +794,9 @@ ART. 2. — Le secrétaire général de la Présidence de la République est cha
 
 ###### Ministère des Affaires étrangères
 
-###### ACTES REGLEMENTAIRES :
+###### ACTES RÉGLEMENTAIRES :
 
-DECRET n° 69.268 du 30 juillet 1969 modifiant le décret n° 68.129 du 3 avril 1968 fixant les attributions du ministre des Affaires étrangères et l'organisation de l'Administration centrale du ministère des Affaires étrangères.
+DÉCRET n° 69.268 du 30 juillet 1969 modifiant le décret n° 68.129 du 3 avril 1968 fixant les attributions du ministre des Affaires étrangères et l'organisation de l'Administration centrale du ministère des Affaires étrangères.
 
 ARTICLE PREMIER. — L'article 2 du décret n° 68.129 du 3 avril 1968, fixant les attributions du ministre et l'organisation de l'Administration centrale du ministère des Affaires étrangères est abrogé et remplacé par les dispositions suivantes :
 
@@ -840,7 +813,7 @@ ART. 2. — L'Administration centrale du ministère des Affaires étrangères co
 
 ###### ACTES DIVERS :
 
-DECRET n° 69.285 du 7 août 1969 portant nomination d'un Consul général à Bamako.
+DÉCRET n° 69.285 du 7 août 1969 portant nomination d'un Consul général à Bamako.
 
 ARTICLE PREMIER. — M. Moulaye el Hassen, instituteur adjoint stagiaire de 1er échelon (ind. 400) précédemment chef de protocole au ministère des Affaires étrangères est nommé temporairement en qualité de faisant fonction de Consul général de la République islamique de Mauritanie à Bamako (République du Mali).
 
@@ -850,9 +823,9 @@ ART. 3. — Le ministre des Finances, le ministre des Affaires étrangères et l
 
 ###### Ministère de la Défense nationale :
 
-###### ACTES REGLEMENTAIRES :
+###### ACTES RÉGLEMENTAIRES :
 
-DECRET n° 69.264 du 24 juillet 1969 modifiant le décret n° 62.207 du 10 novembre 1962 fixant les conditions d'attribution des logements, de l'ameublement aux personnels militaires de l'Armée et de la Gendarmerie nationale.
+DÉCRET n° 69.264 du 24 juillet 1969 modifiant le décret n° 62.207 du 10 novembre 1962 fixant les conditions d'attribution des logements, de l'ameublement aux personnels militaires de l'Armée et de la Gendarmerie nationale.
 
 ARTICLE PREMIER. — Le décret n° 62.207 du 10 novembre 1962 fixant les conditions d'attribution du logement et de l'ameublement aux personnels militaires de l'Armée et de la Gendarmerie nationale est modifié ainsi qu'il suit :
 
@@ -866,17 +839,16 @@ ART. 3. — Le ministre de la Défense nationale est chargé de l'exécution du 
 [[START OF PAGE 12]]
 
 302
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 23 juillet 1969
 
 ###### ACTES DIVERS :
 
-DECISION n° 757 du 8 août 1969 arrêtant la liste des officiers de l'Armée nationale autorisés à se présenter à l'examen du brevet de capitaine, session de septembre 1969.
+DÉCISION n° 757 du 8 août 1969 arrêtant la liste des officiers de l'Armée nationale autorisés à se présenter à l'examen du brevet de capitaine, session de septembre 1969.
 
 ARTICLE UNIQUE. — Sont admis à se présenter à l'examen du brevet de capitaine, session septembre 1969, les officiers dont les noms suivent :
 
 ###### Armée nationale :
-
 — Lieutenant Souedatt ould Ouedat ;
 — Lieutenant Thiam el Hadj ;
 — Lieutenant Niang Ibra Demba ;
@@ -889,22 +861,21 @@ ARTICLE UNIQUE. — Sont admis à se présenter à l'examen du brevet de capitai
 — Lieutenant Anne Amadou Babaly.
 
 ###### Gendarmerie nationale :
-
 — Lieutenant Sao Samba.
 
-ART. 2. — Le chef d'Etat-major national et le chef de corps de la Gendarmerie nationale sont chargés chacun en ce qui le concerne, de l'exécution de la présente décision.
+ART. 2. — Le chef d'État-major national et le chef de corps de la Gendarmerie nationale sont chargés chacun en ce qui le concerne, de l'exécution de la présente décision.
 
-ARRETE D'ADDITIF n° 0529 du 11 août 1969 à l'article premier de l'arrêté n° 321 du 16 mai 1969 portant admission dans la Gendarmerie nationale d'un officier de réserve.
+ARRÊTÉ D'ADDITIF n° 0529 du 11 août 1969 à l'article premier de l'arrêté n° 321 du 16 mai 1969 portant admission dans la Gendarmerie nationale d'un officier de réserve.
 
 ARTICLE PREMIER. — La liste des officiers de réserve déclarés admis à suivre les cours d'une école d'application de Gendarmerie par l'article premier de l'arrêté 321 du 16 mai 1969 est complétée comme suit : après le sous-lieutenant Ney ould Abdel Malek, ajouter : sous-lieutenant Mohamed Lémine ould Zein.
 
-ART. 2. — Le chef d'Etat-major national et le chef de corps de la Gendarmerie nationale sont chargés, chacun en ce qui le concerne de l'exécution du présent additif.
+ART. 2. — Le chef d'État-major national et le chef de corps de la Gendarmerie nationale sont chargés, chacun en ce qui le concerne de l'exécution du présent additif.
 
 ###### Ministère du Commerce et des Transports :
 
-###### ACTES REGLEMENTAIRES :
+###### ACTES RÉGLEMENTAIRES :
 
-ARRETE n° 0501 du 25 juillet 1969 fixant la composition de la commission de retrait des permis de conduire.
+ARRÊTÉ n° 0501 du 25 juillet 1969 fixant la composition de la commission de retrait des permis de conduire.
 
 ARTICLE PREMIER. — La commission technique de retrait de permis de conduire prévue au chapitre II de l'annexe XIV de l'arrêté n° 6.138 du 24 juillet 1956, portant Code de la route est composée comme suit :
 — Le directeur des Transports ou son adjoint : président ;
@@ -920,11 +891,11 @@ ART. 2. — La commission se réunira le premier jeudi de chaque mois à 9 heure
 
 ART. 3. — Le directeur des Transports est chargé de l'exécution du présent arrêté qui, abrogeant les dispositions des arrêtés n° 10.457 du 18 octobre 1963 et 10.594 du 13 novembre 1964.
 
-ARRETE n° 0513 du 30 juillet 1969 portant ouverture à la circulation aérienne publique de l'aérodrome de Chinguetti.
+ARRÊTÉ n° 0513 du 30 juillet 1969 portant ouverture à la circulation aérienne publique de l'aérodrome de Chinguetti.
 
 ARTICLE PREMIER. — L'aérodrome de Chinguetti dont les coordinations sont :
-20°29 N
-12°23 W,
+20° 29 N
+12° 23 W,
 est ouvert à la circulation aérienne publique.
 
 ART. 2. — Les bureaux d'informations aéronautiques (B.I.A.) des aérodromes principaux de la République islamique de Mauritanie sont chargés de renseigner les exploitants et les utilisateurs éventuels des caractéristiques et des conditions d'utilisation de cet aérodrome.
@@ -953,42 +924,42 @@ Largeur : 20 mètres.
 — Dégagements : très satisfaisants. A 300 mètres à est-nord-est de l'extrémité de piste 025°. Dénivellation d'environ 12 mètres au-dessus de la piste.
 — Utilisation : accessible aux aéronefs du type DC 3.
 
-DECRET n° 69.280 du 6 août 1969 modifiant le décret n° 65.048 du 25 février 1965 rendant exécutoires les décisions prises par le Comité de l'Union douanière des Etats de l'Afrique de l'ouest.
+DÉCRET n° 69.280 du 6 août 1969 modifiant le décret n° 65.048 du 25 février 1965 rendant exécutoires les décisions prises par le Comité de l'Union douanière des États de l'Afrique de l'ouest.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 303
 
-ARTICLE PREMIER. — L'article premier du décret n° 65.048 du 25 février 1965 rendant exécutoires les décisions prises par le Comité de l'Union douanière des Etats de l'Afrique de l'ouest est modifié comme suit :
-« Les décisions 17 à 25/UD/64 prises le 3 décembre 1964 à Cotonou par le Comité de l'Union douanière des Etats de l'Afrique de l'ouest sont rendues exécutoires. Toutefois, en ce qui concerne la décision n° 17/UD/64 du 3 décembre 1964, la restriction ou la prohibition pourra frapper toutes marchandises dont l'importation ou l'exportation porte préjudice aux intérêts de l'économie mauritanienne. »
+ARTICLE PREMIER. — L'article premier du décret n° 65.048 du 25 février 1965 rendant exécutoires les décisions prises par le Comité de l'Union douanière des États de l'Afrique de l'ouest est modifié comme suit :
+« Les décisions 17 à 25/UD/64 prises le 3 décembre 1964 à Cotonou par le Comité de l'Union douanière des États de l'Afrique de l'ouest sont rendues exécutoires. Toutefois, en ce qui concerne la décision n° 17/UD/64 du 3 décembre 1964, la restriction ou la prohibition pourra frapper toutes marchandises dont l'importation ou l'exportation porte préjudice aux intérêts de l'économie mauritanienne. »
 
 ART. 2. — Le ministre du Commerce et des Transports et le ministre des Finances sont chargés de l'exécution du présent décret.
 
-###### Ministère de l'Equipement :
+###### Ministère de l'Équipement :
 
-###### ACTES REGLEMENTAIRES :
+###### ACTES RÉGLEMENTAIRES :
 
-DECRET n° 69.284 du 6 août 1969 ratifiant le contrat de financement passé entre le gouvernement de la Mauritanie d'une part, et la Communauté économique européenne et la Banque européenne d'investissement d'autre part.
+DÉCRET n° 69.284 du 6 août 1969 ratifiant le contrat de financement passé entre le gouvernement de la Mauritanie d'une part, et la Communauté économique européenne et la Banque européenne d'investissement d'autre part.
 
 ARTICLE PREMIER. — Est ratifié le contrat de financement et ses annexes signés à Luxembourg le 26 juin 1969 par le représentant du gouvernement de la Mauritanie d'une part, et les représentants de la Communauté économique européenne et de la Banque européenne d'investissement d'autre part, relatifs au financement de l'extension du wharf de Nouakchott.
 
 ###### ACTES DIVERS :
 
-DECRET n° 69.287 du 7 août 1969 portant nomination d'un chef de service.
+DÉCRET n° 69.287 du 7 août 1969 portant nomination d'un chef de service.
 
-ARTICLE PREMIER. — M. Daffa Bakary, ingénieur de 3e classe, 5e échelon (ind. 740), est nommé chef du service de l'entretien et du fonctionnement au ministère de l'Equipement pour compter du 4 juillet 1969.
+ARTICLE PREMIER. — M. Daffa Bakary, ingénieur de 3e classe, 5e échelon (ind. 740), est nommé chef du service de l'entretien et du fonctionnement au ministère de l'Équipement pour compter du 4 juillet 1969.
 
-ART. 2. — Le ministre des Finances, le ministre de l'Equipement et le ministre de l'Enseignement technique sont chargés, chacun en ce qui le concerne de l'exécution du présent décret.
+ART. 2. — Le ministre des Finances, le ministre de l'Équipement et le ministre de l'Enseignement technique sont chargés, chacun en ce qui le concerne de l'exécution du présent décret.
 
-Ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique :
+###### Ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique :
 
-###### ACTES REGLEMENTAIRES :
+###### ACTES RÉGLEMENTAIRES :
 
-ARRETE n° 328 du 26 mai 1969 portant ouverture d'un concours pour le recrutement de trois journalistes.
+ARRÊTÉ n° 328 du 26 mai 1969 portant ouverture d'un concours pour le recrutement de trois journalistes.
 
 ARTICLE PREMIER. — Un concours pour l'accès au cycle d'études pour la formation des journalistes de l'école supérieure de journalisme de Lille et du centre de formation de journalisme de Paris aura lieu les 28 et 29 mai 1969.
 
@@ -999,9 +970,9 @@ ART. 3. — Ce concours est ouvert exclusivement aux nationaux mauritaniens ayan
 ART. 4. — Les dossiers des candidatures doivent comporter les pièces ci-après :
 — une demande manuscrite timbrée à 250 francs ;
 — un acte de naissance ou jugement supplétif ;
-— une extrait du casier judiciaire datant de moins de trois (3) mois,
+— un extrait du casier judiciaire datant de moins de trois (3) mois ;
 — une copie de diplôme ou une attestation de scolarité ;
-— un certificat de nationalité mauritanienne,
+— un certificat de nationalité mauritanienne ;
 — un certificat médical.
 Les dossiers doivent parvenir au ministère de l'Enseignement technique, de la Formation des Cadres et de la Fonction publique avant le 26 mai 1969 délai de rigueur.
 
@@ -1009,7 +980,7 @@ ART. 5. — Les épreuves de concours se dérouleront comme suit :
 
 ###### 1. Mercredi 28 mai 1969.
 
-Heure | Epreuve | Durée | Coefficient
+Heure | Épreuve | Durée | Coefficient
 --- | --- | --- | ---
 7 h 1/2 à 8 h 1/2 | Dictée | 1 h | 1
 9 h à 10 h | Exercice de style | 1 h | 1
@@ -1018,7 +989,7 @@ Heure | Epreuve | Durée | Coefficient
 
 ###### 2. Jeudi 29 mai 1969.
 
-Heure | Epreuve | Durée | Coefficient
+Heure | Épreuve | Durée | Coefficient
 --- | --- | --- | ---
 7 h 1/2 à 9 h 1/2 | Questions d'actualité | 2 h | 4
 10 h à 12 h | Composition sur un sujet général | 2 h | 4
@@ -1028,22 +999,21 @@ Heure | Epreuve | Durée | Coefficient
 ART. 6. — La commission de surveillance est composée ainsi qu'il suit :
 
 ###### MM. :
-
 — Marçais, directeur des études, représentant le ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique ;
 — Khalihly ould Louly, chef des bourses et examens, membre ;
 — Ebnou ould Ebnou Abden, directeur de l'Information, membre.
 
-ART. 7. — Les candidats doivent souscrire l'engagement de servir l'Etat pendant au moins dix ans et de rembourser les dépenses résultant de leur entretien si, pour un motif autre qu'un cas de force majeure, ils ne respectaient pas cet engagement. Ils sont également tenus à ce remboursement en cas de démission durant la scolarité ou d'exclusion de l'établissement pour des raisons autres que l'insuffisance des résultats ou l'inaptitude physique.
+ART. 7. — Les candidats doivent souscrire l'engagement de servir l'État pendant au moins dix ans et de rembourser les dépenses résultant de leur entretien si, pour un motif autre qu'un cas de force majeure, ils ne respectaient pas cet engagement. Ils sont également tenus à ce remboursement en cas de démission durant la scolarité ou d'exclusion de l'établissement pour des raisons autres que l'insuffisance des résultats ou l'inaptitude physique.
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
 304
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
-ARRETE n° 464 du 22 juillet 1969 portant ouverture des concours d'entrée au cycle d'études « B » de l'école nationale d'administration pour l'année 1969.
+ARRÊTÉ n° 464 du 22 juillet 1969 portant ouverture des concours d'entrée au cycle d'études « B » de l'école nationale d'administration pour l'année 1969.
 
 ###### I. — DES DISPOSITIONS GÉNÉRALES.
 
@@ -1054,11 +1024,9 @@ ART. 2. — Ces concours sont exclusivement ouverts aux nationaux mauritaniens. 
 ART. 3. — Le nombre de places offertes par série et concours est de :
 
 ###### Série juridique :
-
 Quarante-cinq (45) places dont trente (30) pour le concours direct et quinze (15) pour le concours professionnel.
 
 Série technique :
-
 Quatre (4) places dont deux (2) pour le concours direct et deux (2) pour le concours professionnel.
 
 ART. 4. — A l'intention des candidats, seront ouvertes par série les sections suivantes :
@@ -1066,12 +1034,12 @@ Série juridique : Administration générale, Comptabilité, Douanes, Impôts.
 Série technique : Postes et Télécommunications (service technique).
 
 ART. 5. — Au cas où le nombre de candidats ayant obtenu le total des points exigés pour être admis selon les dispositions de l'article 26 du décret 68.271 susvisé, est supérieur au nombre de places mises au concours, le jury établit une liste complémentaire.
-Les candidats figurant sur les listes complémentaires sont appelés dans l'ordre du classement à occuper les places qui deviendraient vacantes à la suite de démissions intervenues dans le mois suivant l'entrée à l'Ecole.
+Les candidats figurant sur les listes complémentaires sont appelés dans l'ordre du classement à occuper les places qui deviendraient vacantes à la suite de démissions intervenues dans le mois suivant l'entrée à l'École.
 Au cas où le nombre des candidats ayant obtenu le total des points exigés pour être admis selon les dispositions citées à l'alinéa précédent, serait inférieur au nombre de places mises à l'un des concours, les places non pourvues au titre de ce concours seront reportées sur l'autre dans la mesure où elles pourront être dévolues, dans l'ordre de classement, à des candidats figurant sur une liste complémentaire de report de places, établie par le jury.
 
 ###### II. — LES DOSSIERS DE CANDIDATURES.
 
-ART. 6. — Les dossiers de candidature constitués par les intéressés doivent parvenir à M. le Directeur de l'Ecole nationale d'Administration, boîte postale 252, à Nouakchott, avant le 30 septembre 1969 à 18 heures.
+ART. 6. — Les dossiers de candidature constitués par les intéressés doivent parvenir à M. le Directeur de l'École nationale d'Administration, boîte postale 252, à Nouakchott, avant le 30 septembre 1969 à 18 heures.
 
 ART. 7. — Pour les candidats n'ayant pas la qualité de fonctionnaire, ni celle d'agent non titulaire, ces dossiers doivent comporter les pièces suivantes :
 — Une demande d'inscription établie sur papier libre, datée et signée par le candidat, précisant son adresse et le choix de la section postulée. Cette demande doit être timbrée à 250 F CFA ;
@@ -1111,7 +1079,7 @@ ART. 12. — Sera exclu immédiatement du concours tout candidat qui :
 [[START OF PAGE 15]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 305
 
 ART. 13. — Les compositions sont faites sur des feuilles de papier mises à la disposition des candidats. Les épreuves écrites sont anonymes. Chaque candidat fait figurer en tête de chacune de ses compositions, dans le cadre de la souche détachable réservée à cet effet, ses nom, prénoms, date et lieu de naissance et signature.
@@ -1126,10 +1094,10 @@ ART. 16. — Après avoir numéroté toutes les compositions, les membres de la 
 Les compositions sont réunies à part dans une ou plusieurs enveloppes.
 
 ART. 17. — Les enveloppes des souches et des compositions doivent être fermées et signées par les membres de la commission de surveillance et porter dans la partie centrale les mentions suivantes :
-Concours (direct ou professionnel) pour l'accès au cycle B de l'Ecole nationale d'Administration.
+Concours (direct ou professionnel) pour l'accès au cycle B de l'École nationale d'Administration.
 Série (juridique ou technique).
 Section ..............................
-Epreuve de ..........................
+Épreuve de ..........................
 
 ART. 18. — Un procès-verbal de chaque séance est établi et signé par les membres de la commission de surveillance.
 
@@ -1192,40 +1160,38 @@ ART. 22. — Les fonctions des membres de jury et de commission de surveillance 
 
 ART. 23. — Les concours d'entrée en cycle B de l'école nationale d'Administration se dérouleront suivant les preuves, coefficients, dates et horaires ci-après.
 
-I. — SÉRIE JURIDIQUE.
-
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
 306
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
 ###### I. — Série juridique.
 
-Concours | Epreuves | Coeff. | Dates | Horaires
+Concours | Épreuves | Coeff. | Dates | Horaires
 --- | --- | --- | --- | ---
-DIRECT | Ecrites d'admissibilité : Composition portant sur un sujet d'ordre général. | 4 | 27 oct. 69 | 8 h à 11 h
-DIRECT | Epreuve de synthèse | 3 | 28 oct. 69 | 9 h à 11 h
-DIRECT | Epreuve de maths | 1 | 29 oct. 69 | 9 h à 10 h
+DIRECT | Écrites d'admissibilité : Composition portant sur un sujet d'ordre général. | 4 | 27 oct. 69 | 8 h à 11 h
+DIRECT | Épreuve de synthèse | 3 | 28 oct. 69 | 9 h à 11 h
+DIRECT | Épreuve de maths | 1 | 29 oct. 69 | 9 h à 10 h
 DIRECT | Orale d'admission : Entretien avec le jury | 2 | Fixée par jury | 15 mn par candidat
-PROFESSIONNEL | Ecrites d'admissibilité : Composition portant sur un sujet d'ordre général. | 3 | 27 oct. 69 | 8 h à 11 h
+PROFESSIONNEL | Écrites d'admissibilité : Composition portant sur un sujet d'ordre général. | 3 | 27 oct. 69 | 8 h à 11 h
 PROFESSIONNEL | Composition portant sur un sujet de géo. humaine et économique | 1 | 28 oct. 69 | 9 h à 11 h
-PROFESSIONNEL | Epreuve pratique de résumé ou de rédaction d'une note à partir d'un dossier | 4 | 29 oct. 69 | 8 h à 11 h
+PROFESSIONNEL | Épreuve pratique de résumé ou de rédaction d'une note à partir d'un dossier | 4 | 29 oct. 69 | 8 h à 11 h
 PROFESSIONNEL | Orale d'admission : Entretien avec le jury | 2 | Fixée par jury | 15 mn par candidat
 
 ###### II. — Série technique.
 
-Concours | Epreuves | Coeff. | Dates | Horaires
+Concours | Épreuves | Coeff. | Dates | Horaires
 --- | --- | --- | --- | ---
-DIRECT | Ecrites d'admissibilité : Epreuve de synthèse | 2 | 27 oct. 69 | 9 h à 11 h
-DIRECT | Epreuve de science physique ou de maths | 2 | 28 oct. 69 | 9 h à 11 h
-DIRECT | Epreuve de maths | 4 | 29 oct. 69 | 8 h à 11 h
+DIRECT | Écrites d'admissibilité : Épreuve de synthèse | 2 | 27 oct. 69 | 9 h à 11 h
+DIRECT | Épreuve de science physique ou de maths | 2 | 28 oct. 69 | 9 h à 11 h
+DIRECT | Épreuve de maths | 4 | 29 oct. 69 | 8 h à 11 h
 DIRECT | Orale d'admission : Entretien avec le jury | 2 | Fixée par jury | 15 mn par candidat
-PROFESSIONNEL | Ecrites d'admissibilité : Composition portant sur un sujet d'ordre général. | 3 | 27 oct. 69 | 8 h à 11 h
-PROFESSIONNEL | Epreuve de maths | 1 | 28 oct. 69 | 9 h à 11 h
-PROFESSIONNEL | Epreuve pratique de résumé ou de rédaction d'une note à partir d'un dossier | 4 | 29 oct. 69 | 8 h à 11 h
+PROFESSIONNEL | Écrites d'admissibilité : Composition portant sur un sujet d'ordre général. | 3 | 27 oct. 69 | 8 h à 11 h
+PROFESSIONNEL | Épreuve de maths | 1 | 28 oct. 69 | 9 h à 11 h
+PROFESSIONNEL | Épreuve pratique de résumé ou de rédaction d'une note à partir d'un dossier | 4 | 29 oct. 69 | 8 h à 11 h
 PROFESSIONNEL | Orale d'admission : Entretien avec le jury | 2 | Fixée par jury | 15 mn par candidat
 
 ART. 24. — Les dates des épreuves orales seront fixées ultérieurement par les présidents des jurys.
@@ -1242,7 +1208,7 @@ ART. 28. — L'épreuve pratique de résumé de rédaction d'une note à partir 
 
 ART. 29. — L'entretien avec le jury portera sur des questions d'ordre général ou sur l'examen d'un texte (lecture, résumé et discussion).
 
-ARRETE n° 465 du 22 juillet 1969 portant ouverture des concours d'entrée au cycle d'études A' de l'école nationale d'Administration pour l'année 1969.
+ARRÊTÉ n° 465 du 22 juillet 1969 portant ouverture des concours d'entrée au cycle d'études A' de l'école nationale d'Administration pour l'année 1969.
 
 ###### I. — DES DISPOSITIONS GÉNÉRALES.
 
@@ -1264,12 +1230,12 @@ Au cas où le nombre des candidats ayant obtenu le total de points exigés pour 
 [[START OF PAGE 17]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 307
 
 ### II. — LES DOSSIERS DE CANDIDATURES.
 
-ART. 6. — Les dossiers de candidatures constitués par les intéressés doivent parvenir à M. le Directeur de l'Ecole nationale d'Administration, B.P. 252, Nouakchott, avant le 15 septembre 1969 à 18 heures.
+ART. 6. — Les dossiers de candidatures constitués par les intéressés doivent parvenir à M. le Directeur de l'École nationale d'Administration, B.P. 252, Nouakchott, avant le 15 septembre 1969 à 18 heures.
 
 ART. 7. — Pour les candidats n'ayant pas la qualité de fonctionnaire, ni celle d'agent non titulaire, ces dossiers doivent comporter les pièces suivantes :
 1° Une demande d'inscription établie sur papier libre, datée et signée par le candidat, précisant son adresse et le choix de la section postulée. Cette demande doit être timbrée à 250 francs.
@@ -1302,7 +1268,7 @@ ART. 12. — Sera exclu immédiatement du concours tout candidat qui :
 — ne se présentera pas lors de l'appel des candidats ;
 — sera trouvé porteur de notes ou documents relatifs aux matières du concours ;
 — aura été surpris pendant la durée des épreuves à communiquer ou à se faire communiquer des renseignements quelconques ou des documents non prévus par les règlements ;
-— qui ferait figurer sur sa composition et en-dehors du cadre de la souche détachable, ses noms, prénoms, signature ou tout autre signe distinctif.
+— qui ferait figurer sur sa composition et en dehors du cadre de la souche détachable, ses noms, prénoms, signature ou tout autre signe distinctif.
 
 ART. 13. — Les compositions sont faites sur des feuilles de papier mises à la disposition des candidats.
 Les épreuves écrites sont anonymes.
@@ -1318,10 +1284,10 @@ ART. 16. — Après avoir numéroté toutes les compositions, les membres de la 
 Les compositions sont réunies à part dans une ou plusieurs enveloppes.
 
 ART. 17. — Les enveloppes des souches et compositions doivent être fermées et signées par les membres de la commission de surveillance et porter dans la partie centrale les mentions suivantes :
-Concours (direct ou professionnel) pour l'accès au cycle A' de l'Ecole nationale d'Administration.
+Concours (direct ou professionnel) pour l'accès au cycle A' de l'École nationale d'Administration.
 Série (juridique ou technique)
 Section ..............................
-Epreuve de ..........................
+Épreuve de ..........................
 
 ART. 18. — Un procès-verbal de chaque séance est établi et signé par les membres de la commission de surveillance.
 
@@ -1332,7 +1298,7 @@ ART. 19. — Le procès-verbal, les enveloppes des souches et des compositions d
 [[START OF PAGE 18]]
 
 308
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
 ART. 20. — La liste des admis et les éventuelles listes complémentaires sont souverainement établies par le jury. Ces listes sont transmises au ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique, qui fixe par arrêté, la liste des candidats admis.
@@ -1362,20 +1328,20 @@ ART. 22. — Les fonctions de membres de jury et de commission de surveillance s
 
 ###### V. — DU DÉROULEMENT DES ÉPREUVES.
 
-ART. 23. — Les concours d'entrée au cycle A' de l'Ecole nationale d'Administration se dérouleront suivant les épreuves, coefficients, dates et horaires ci-après.
+ART. 23. — Les concours d'entrée au cycle A' de l'École nationale d'Administration se dérouleront suivant les épreuves, coefficients, dates et horaires ci-après.
 
-Concours | Epreuves | Coeff. | Dates | Horaires
+Concours | Épreuves | Coeff. | Dates | Horaires
 --- | --- | --- | --- | ---
 DIRECT | Composition portant sur un sujet de culture générale | 4 | 3 nov. 1969 | 8 h à 12 h
-DIRECT | Epreuve de synthèse | 3 | 4 nov. 1969 | 8 h à 11 h
+DIRECT | Épreuve de synthèse | 3 | 4 nov. 1969 | 8 h à 11 h
 DIRECT | Compositions portant sur un sujet d'ordre juridique ou économique | 3 | 5 nov. 1969 | 8 h à 11 h
 DIRECT | Orale : conversation avec le jury | 3 | 6 nov. 1969 | 20 minutes par candidat
 PROFESSIONNEL | Composition sur un sujet de culture générale | 3 | 3 nov. 1969 | 8 h à 11 h
 PROFESSIONNEL | Composition sur un sujet d'ordre juridique ou économique | 2 | 4 nov. 1969 | 8 h à 11 h
-PROFESSIONNEL | Epreuve pratique de synthèse ou de rédaction d'un rapport à partir d'un dossier | 4 | 5 nov. 1969 | 8 h à 12 h
+PROFESSIONNEL | Épreuve pratique de synthèse ou de rédaction d'un rapport à partir d'un dossier | 4 | 5 nov. 1969 | 8 h à 12 h
 PROFESSIONNEL | Orale : conversation avec le jury | 2 | 6 nov. 1969 | 20 minutes par candidat
 
-ART. 24. — L'indication des salles dans lesquelles se dérouleront les épreuves ainsi que l'ordre de passage pour l'entretien avec le jury seront portés à la connaissance des candidats par voie d'affichage à l'Ecole d'Administration.
+ART. 24. — L'indication des salles dans lesquelles se dérouleront les épreuves ainsi que l'ordre de passage pour l'entretien avec le jury seront portés à la connaissance des candidats par voie d'affichage à l'École d'Administration.
 
 ART. 25. — Les frais de déplacement sont à la charge des candidats.
 
@@ -1387,13 +1353,13 @@ ART. 27. — L'épreuve pratique de synthèse ou de rédaction d'un rapport à p
 
 ART. 28. — L'entretien avec le jury portera sur des questions d'ordre général ou sur l'examen d'un texte (lecture, résumé et discussion).
 
-ARRETE n° 487 du 23 juillet 1969, portant ouverture des concours d'entrée au cycle d'études C de l'Ecole nationale d'Administration pour l'année 1969.
+ARRÊTÉ n° 487 du 23 juillet 1969, portant ouverture des concours d'entrée au cycle d'études C de l'École nationale d'Administration pour l'année 1969.
 
-I. — DES DISPOSITIONS GÉNÉRALES.
+-I. — DES DISPOSITIONS GÉNÉRALES.
 
-ARTICLE PREMIER. — Les concours directs et professionnels d'entrée au cycle d'études C de l'Ecole nationale d'Administration, séries juridique et technique sont ouverts pour l'année 1969 dans les conditions prévues aux dispositions générales du titre III du décret 68.271 du 2 septembre 1968 susvisé.
+ARTICLE PREMIER. — Les concours directs et professionnels d'entrée au cycle d'études C de l'École nationale d'Administration, séries juridique et technique sont ouverts pour l'année 1969 dans les conditions prévues aux dispositions générales du titre III du décret 68.271 du 2 septembre 1968 susvisé.
 
-ART. 2. — Ces concours sont exclusivement ouverts aux nationaux Mauritaniens. Ils auront lieu à l'Ecole nationale d'Administration à Nouakchott, du 27 au 29 octobre 1969 inclus.
+ART. 2. — Ces concours sont exclusivement ouverts aux nationaux Mauritaniens. Ils auront lieu à l'École nationale d'Administration à Nouakchott, du 27 au 29 octobre 1969 inclus.
 
 ART. 3. — Le nombre de places offertes par série et concours est de :
 Série juridique : trente-cinq (35) places dont vingt-trois (23) pour le concours direct et douze (12) pour le concours professionnel.
@@ -1404,7 +1370,7 @@ Série technique : six (6) places dont quatre (4) pour le concours direct et deu
 [[START OF PAGE 19]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 309
 
 ART. 4. — A l'intention des candidats, seront ouvertes par série les sections suivantes :
@@ -1417,7 +1383,7 @@ Au cas où le nombre des candidats ayant obtenu le total des points exigés pour
 
 ###### II. — LES DOSSIERS DES CANDIDATURES.
 
-ART. 6. — Les dossiers de candidature constitués par les intéressés doivent parvenir à M. le Directeur de l'Ecole nationale d'Administration, B.P. 252, Nouakchott, avant le 15 septembre 1969 à 18 heures.
+ART. 6. — Les dossiers de candidature constitués par les intéressés doivent parvenir à M. le Directeur de l'École nationale d'Administration, B.P. 252, Nouakchott, avant le 15 septembre 1969 à 18 heures.
 
 ART. 7. — Pour les candidats n'ayant pas la qualité de fonctionnaire, ni celle d'agent non titulaire, ces dossiers doivent comporter les pièces suivantes :
 — Une demande d'inscription établie sur papier libre, datée et signée par le candidat, précisant son adresse et le choix de la section postulée et un timbre à 250 francs ;
@@ -1467,7 +1433,7 @@ ART. 16. — Après avoir numéroté toutes les compositions, les membres de la 
 [[START OF PAGE 20]]
 
 310
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
 Les compositions sont réunies à part dans une ou plusieurs enveloppes.
@@ -1475,7 +1441,7 @@ Les compositions sont réunies à part dans une ou plusieurs enveloppes.
 ART. 17. — Les enveloppes des souches et des compositions doivent être fermées et signées par les membres de la commission de surveillance et porter dans sa partie centrale les mentions suivantes :
 Concours (direct ou professionnel) pour l'accès au cycle C de l'E.N.A., série (juridique ou technique).
 Section : ............................
-Epreuve de ..........................
+Épreuve de ..........................
 
 ART. 18. — Un procès-verbal de chaque séance est établi et signé par les membres de la commission de surveillance.
 
@@ -1528,17 +1494,17 @@ ART. 22. — Les fonctions de membres de jury et de commission de surveillance s
 
 ###### V. — DU DÉROULEMENT DES ÉPREUVES.
 
-ART. 23. — Ces concours d'entrée au cycle d'études « C » de l'Ecole nationale d'administration se dérouleront suivant les épreuves, coefficients, dates et horaires ci-après :
+ART. 23. — Ces concours d'entrée au cycle d'études « C » de l'École nationale d'administration se dérouleront suivant les épreuves, coefficients, dates et horaires ci-après :
 
 ###### I. — Série juridique.
 
-Concours | Epreuves | Coeff. | Dates | Horaires
+Concours | Épreuves | Coeff. | Dates | Horaires
 --- | --- | --- | --- | ---
-DIRECT | Ecrite d'admissibilité. Etude d'un texte portant sur un sujet d'ordre général | 3 | 27 oct. 1969 | 8 à 11 h
+DIRECT | Écrite d'admissibilité. Étude d'un texte portant sur un sujet d'ordre général | 3 | 27 oct. 1969 | 8 à 11 h
 DIRECT | Résumé de texte | 3 | 28 oct. 1969 | 9 à 11 h
-DIRECT | Epreuve de math | 1 | 29 oct. 1969 | 9 à 10 h
+DIRECT | Épreuve de math | 1 | 29 oct. 1969 | 9 à 10 h
 DIRECT | Orale d'admission. Entretien avec le jury | 1 | fixé par jury | 10 mn par candidat
-PROFESSIONNEL | Ecrites d'admissibilité. Etude d'un texte portant sur un sujet d'ordre général | 2 | 27 oct. 1969 | 9 à 11 h
+PROFESSIONNEL | Écrites d'admissibilité. Étude d'un texte portant sur un sujet d'ordre général | 2 | 27 oct. 1969 | 9 à 11 h
 PROFESSIONNEL | Composition portant sur un sujet de géographie de la R.I.M. et de l'Afrique | 2 | 28 oct. 1969 | 9 à 11 h
 PROFESSIONNEL | Résumé d'un document administratif | 3 | 29 oct. 1969 | 8 à 11 h
 PROFESSIONNEL | Orales d'admission. Entretien avec le jury | 1 | fixé par jury | 10 mn par candidat
@@ -1548,26 +1514,26 @@ PROFESSIONNEL | Orales d'admission. Entretien avec le jury | 1 | fixé par jury 
 [[START OF PAGE 21]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 311
 
 ###### II. — Série technique.
 
-Concours | Epreuves | Coeff. | Dates | Horaires
+Concours | Épreuves | Coeff. | Dates | Horaires
 --- | --- | --- | --- | ---
-DIRECT | Ecrite d'admissibilité. Etude d'un texte portant sur un sujet d'ordre général | 2 | 27 oct. 1969 | 9 à 11 h
-DIRECT | Epreuve de géographie physique | 2 | 28 oct. 1969 | 9 à 11 h
-DIRECT | Epreuve de mathématiques | 3 | 29 oct. 1969 | 8 à 11 h
+DIRECT | Écrite d'admissibilité. Étude d'un texte portant sur un sujet d'ordre général | 2 | 27 oct. 1969 | 9 à 11 h
+DIRECT | Épreuve de géographie physique | 2 | 28 oct. 1969 | 9 à 11 h
+DIRECT | Épreuve de mathématiques | 3 | 29 oct. 1969 | 8 à 11 h
 DIRECT | Orale d'admission. Entretien avec le jury | 1 | fixé par jury | 10 mn par candidat
-PROFESSIONNEL | Ecrite d'admissibilité. Etude d'un texte portant sur un sujet d'ordre général | 2 | 27 oct. 1969 | 9 à 11 h
-PROFESSIONNEL | Epreuve de mathématiques | 2 | 28 oct. 1969 | 9 à 11 h
+PROFESSIONNEL | Écrite d'admissibilité. Étude d'un texte portant sur un sujet d'ordre général | 2 | 27 oct. 1969 | 9 à 11 h
+PROFESSIONNEL | Épreuve de mathématiques | 2 | 28 oct. 1969 | 9 à 11 h
 PROFESSIONNEL | Résumé d'un document administratif à caractère technique | 3 | 28 oct. 1969 | 8 à 11 h
 PROFESSIONNEL | Orale d'admission. Entretien avec le jury | 1 | fixé par jury | 10 mn par candidat
 
 ART. 24. — Les épreuves des concours d'accès à la section « Justice » (tribunaux de cadis) auront lieu en langue arabe.
 Les dates des épreuves orales seront fixées ultérieurement par les présidents des jurys.
 
-ART. 25. — L'indication des salles dans lesquelles se dérouleront les épreuves, ainsi que l'ordre de passage pour l'entretien avec le jury seront portés à la connaissance des candidats par voie d'affichage à l'Ecole nationale d'administration.
+ART. 25. — L'indication des salles dans lesquelles se dérouleront les épreuves, ainsi que l'ordre de passage pour l'entretien avec le jury seront portés à la connaissance des candidats par voie d'affichage à l'École nationale d'administration.
 
 ART. 26. — Les frais de déplacement sont à la charge des candidats.
 
@@ -1581,7 +1547,7 @@ ART. 29. — L'entretien avec le jury portera sur des questions d'ordre généra
 
 ###### ACTES DIVERS :
 
-ARRETE n° 453 du 17 juillet 1969 portant titularisation de mouçaïds.
+ARRÊTÉ n° 453 du 17 juillet 1969 portant titularisation de mouçaïds.
 
 ARTICLE PREMIER. — Les mouçaïds stagiaires ci-après qui ont satisfait aux épreuves pratiques et orales du C.A.E.A. sont titularisés et nommés mouçaïds de 1er échelon (indice 300) pour compter des dates ci-dessous :
 — M. Sidi Mohamed ould Bani pour compter du 8 février 1965, A.C. néant,
@@ -1593,12 +1559,11 @@ Mouçaïd de 3e échelon (indice 360) pour compter du 2 mars 1969, A.C. néant.
 
 ART. 2. — Le présent arrêté prend effet le 1er janvier 1969.
 
-ARRETE n° 456 du 17 juillet 1969 portant titularisation de trois moniteurs.
+ARRÊTÉ n° 456 du 17 juillet 1969 portant titularisation de trois moniteurs.
 
 ARTICLE PREMIER. — Les moniteurs stagiaires depuis le 1er octobre 1965 ci-après qui ont satisfait aux épreuves pratiques et orales du certificat d'aptitudes des moniteurs (C.A.M.) sont titularisés et nommés moniteurs de 1er échelon (indice 300) pour compter des dates ci-dessous :
 
 ###### MM. :
-
 — Diawara Dama, pour compter du 21 avril 1969, A.C. néant ;
 — Mohamed El Hacen ould Mohamedine, pour compter du 2 janvier 1966, A.C. néant.
 — Sy Samba, pour compter du 15 décembre 1965, A.C. néant.
@@ -1611,11 +1576,11 @@ Moniteur de 3e échelon (indice 360) pour compter du 15 décembre 1969, A.C. né
 
 ART. 3. — Le présent arrêté prend effet le 1er janvier 1969.
 
-ARRETE n° 457 du 17 juillet 1969 portant démission d'un fonctionnaire.
+ARRÊTÉ n° 457 du 17 juillet 1969 portant démission d'un fonctionnaire.
 
 ARTICLE PREMIER. — Est acceptée, pour compter du 13 juin 1969, la démission de son emploi présentée par M. Mohamed El Hafed ould Ajioine, agent de police de 3e échelon (ind. 195).
 
-ARRETE n° 466 du 22 juillet 1969 portant intégration d'un mouçaïd.
+ARRÊTÉ n° 466 du 22 juillet 1969 portant intégration d'un mouçaïd.
 
 ARTICLE PREMIER. — M. El Mounir ould Mohamed ould Tolba, titulaire du certificat d'aptitude à l'enseignement de l'arabe (C.A.E.A.), est intégré dans le cadre de l'enseignement public. Il est nommé mouçaïd stagiaire (indice 300) pour compter du 16 octobre 1968 conformément à l'article 25 du décret n° 62.027 du 17 janvier 1962 susvisé.
 
@@ -1624,46 +1589,45 @@ ARTICLE PREMIER. — M. El Mounir ould Mohamed ould Tolba, titulaire du certific
 [[START OF PAGE 22]]
 
 312
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
-ARRETE n° 468 du 22 juillet 1969 portant nomination d'un instituteur adjoint.
+ARRÊTÉ n° 468 du 22 juillet 1969 portant nomination d'un instituteur adjoint.
 
 ARTICLE PREMIER. — M. Sambou Ibrahim, moniteur de 2e échelon depuis le 1er octobre 1967, qui a satisfait aux épreuves écrites, pratiques et orales du C.E.A.P. est nommé et titularisé instituteur adjoint de 1er échelon (indice 400) pour compter du 1er octobre 1968, A.C. néant.
 
-ARRETE n° 470 du 22 juillet 1969 portant intégration d'un moniteur.
+ARRÊTÉ n° 470 du 22 juillet 1969 portant intégration d'un moniteur.
 
 ARTICLE PREMIER. — M. Sidi ould Mohamed ould Ethmane, moniteur contractuel reçu à l'examen d'intégration des moniteurs, est intégré dans le cadre de l'enseignement public. Il est nommé moniteur de 3e échelon (indice 360) pour compter du 1er octobre 1966, AC. néant, conformément à l'article 78, 3e alinéa, du décret n° 62.027 du 17 janvier 1962 susvisé.
 Il passe moniteur de 4e échelon (indice 390) pour compter du 1er octobre 1968.
 
 ART. 2. — Le présent arrêté prend effet au point de vue solde le 1er janvier 1969.
 
-ARRETE n° 471 du 22 juillet 1969 portant intégration d'un sous-intendant.
+ARRÊTÉ n° 471 du 22 juillet 1969 portant intégration d'un sous-intendant.
 
 ARTICLE PREMIER. — M. Wane Mamadou, titulaire du diplôme de fin de stage d'intendant, est intégré dans le cadre de l'enseignement public, conformément à l'article 41 du décret n° 62.027 du 17 janvier 1962 susvisé.
 Il est nommé sous-intendant de 1er échelon (ind. 560) stagiaire pour compter du 23 décembre 1968.
 
-ARRETE n° 473 du 22 juillet 1969 fixant la liste des candidats autorisés à subir les épreuves du concours direct des assistants d'élevage à l'école de Bamako.
+ARRÊTÉ n° 473 du 22 juillet 1969 fixant la liste des candidats autorisés à subir les épreuves du concours direct des assistants d'élevage à l'école de Bamako.
 
 ARTICLE PREMIER. — Les candidats dont les noms suivent sont autorisés à se présenter aux épreuves du concours pour le recrutement des assistants d'élevage organisé par l'arrêté n° 395 du 16 juin 1969 susvisé.
 
 ###### MM. :
-
 Hamady Demba N'Diaye ;
 Mohamed El Moctar ould Itawal Oumrou ;
 El Joud ould Saleck ;
 Sy Dahirou Falil ;
 Bou Gueye.
 
-ARRETE n° 475 du 22 juillet 1969 portant exclusion définitive de l'E.N.A. de certains élèves, fonctionnaires et fonctionnaires élèves.
+ARRÊTÉ n° 475 du 22 juillet 1969 portant exclusion définitive de l'E.N.A. de certains élèves, fonctionnaires et fonctionnaires élèves.
 
-ARTICLE PREMIER. — Les élèves-fonctionnaires et fonctionnaires-élèves de l'Ecole nationale d'administration ci-dessous sont exclus pour insuffisance de l'établissement à compter du 1er juillet 1969 en application de l'article 28 de la loi n° 67.169 du 18 juillet 1967 complétée par la loi n° 69.064 du 25 janvier 1969 susvisée.
+ARTICLE PREMIER. — Les élèves-fonctionnaires et fonctionnaires-élèves de l'École nationale d'administration ci-dessous sont exclus pour insuffisance de l'établissement à compter du 1er juillet 1969 en application de l'article 28 de la loi n° 67.169 du 18 juillet 1967 complétée par la loi n° 69.064 du 25 janvier 1969 susvisée.
 
 Fonctionnaires-élèves :
 Mohamed Fall ould Lemrabott ;
 Moustapha ould Khady.
 
-Elèves-fonctionnaires :
+Élèves-fonctionnaires :
 Mohamed ould Hamed ;
 Kane Abdine Baila ;
 Lo Souleymane ;
@@ -1671,12 +1635,11 @@ Ibrahima Gueye.
 
 ART. 2. — MM. Mohamed Fall ould Lemrabott et Moustapha ould Khady seront remis à la disposition de leurs départements d'origine pour compter de la même date.
 
-ARRETE n° 477 du 22 juillet 1969 portant titularisation de quelques instituteurs et mouallim.
+ARRÊTÉ n° 477 du 22 juillet 1969 portant titularisation de quelques instituteurs et mouallim.
 
 ARTICLE PREMIER. — Les élèves instituteurs ci-dessous qui ont satisfait aux épreuves pratiques du brevet supérieur de capacité option « français et arabe (B.S.C.) » sont titularisés et nommés instituteurs et mouallim de 1er échelon (indice 560) pour compter des dates ci-après :
 
 ###### MM. :
-
 — Mohamed ould Brahim, pour compter du 9 décembre 1968, A.C. néant ;
 — Sakho Mamadou Dickall, pour compter du 6 décembre 1968, A.C. néant.
 — Mohamed Ghaly ould Ahmed, pour compter du 16 décembre 1968, A.C. néant.
@@ -1708,17 +1671,18 @@ ARTICLE PREMIER. — Les élèves instituteurs ci-dessous qui ont satisfait aux 
 [[START OF PAGE 23]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 313
 
-ARRETE n° 478 du 22 juillet 1969 portant intégration d'un infirmier breveté.
+ARRÊTÉ n° 478 du 22 juillet 1969 portant intégration d'un infirmier breveté.
 
-ARTICLE PREMIER. — M. Gueye Mamadou, élève infirmier ayant satisfait aux épreuves de l'examen de sortie de l'Ecole nationale des agents sanitaires est intégré dans le cadre de la Santé publique. Il est nommé infirmier breveté de 2e classe, 1er échelon (indice 280) pour compter du 1er juillet 1968, A.C. néant, conformément à l'article 31 de la loi n° 67.169 du 18 juillet 1967 susvisée.
+ARTICLE PREMIER. — M. Gueye Mamadou, élève infirmier ayant satisfait aux épreuves de l'examen de sortie de l'École nationale des agents sanitaires est intégré dans le cadre de la Santé publique. Il est nommé infirmier breveté de 2e classe, 1er échelon (indice 280) pour compter du 1er juillet 1968, A.C. néant, conformément à l'article 31 de la loi n° 67.169 du 18 juillet 1967 susvisée.
 
-ARRETE n° 479 du 22 juillet 1969 fixant la liste des candidats autorisés à subir les épreuves du concours d'entrée à l'école africaine de la Météorologie et de l'Aviation civile à Niamey.
+ARRÊTÉ n° 479 du 22 juillet 1969 fixant la liste des candidats autorisés à subir les épreuves du concours d'entrée à l'école africaine de la Météorologie et de l'Aviation civile à Niamey.
 
 ARTICLE PREMIER. — Les candidats ci-après sont autorisés à subir les épreuves du concours du stage préparatoire organisé par l'arrêté n° 367/METFCFP du 6 juin 1969 susvisé :
 
+MM. :
 N'Diaye Hamadi Semba ;
 Sy Dahirou Falil ;
 Gueye Abou ;
@@ -1726,7 +1690,7 @@ Ba Saidou Adama ;
 Dia Djibril ;
 Ali Bourou ould El Waer.
 
-ARRETE n° 489 du 23 juillet 1969 portant titularisation d'un instituteur adjoint.
+ARRÊTÉ n° 489 du 23 juillet 1969 portant titularisation d'un instituteur adjoint.
 
 ARTICLE PREMIER. — M. Si Mohamed Lemine, instituteur adjoint stagiaire depuis le 1er octobre 1964, qui a satisfait aux épreuves pratiques et orales du C.E.A.P., est titularisé et nommé instituteur adjoint de 1er échelon (indice 400) pour compter du 1er octobre 1965, A.C. néant.
 Il passe instituteur adjoint de 2e échelon (indice 460) pour compter du 1er octobre 1967, A.C. néant.
@@ -1734,7 +1698,7 @@ Instituteur adjoint de 3e échelon (indice 500) pour compter du 1er octobre 1969
 
 ART. 2. — Le présent arrêté prend effet le 1er janvier 1969.
 
-ARRETE n° 490 du 23 juillet 1969 portant titularisation d'un fonctionnaire.
+ARRÊTÉ n° 490 du 23 juillet 1969 portant titularisation d'un fonctionnaire.
 
 ARTICLE PREMIER. — M. Ahmed ould Sidi Brahim, agent des P.T.T. de 2e classe, 1er échelon stagiaire (indice 250) depuis le 1er janvier 1962 ayant accompli dix-huit ans d'âge, est titularisé et nommé agent d'exploitation de 2e classe, 1er échelon (indice 250) pour compter du 1er janvier 1965, A.C. néant.
 Il est reclassé agent d'exploitation de 2e classe, 2e échelon (indice 260) pour compter du 1er janvier 1967, A.C. néant.
@@ -1742,31 +1706,30 @@ Agent de 2e classe, 3e échelon (indice 280) pour compter du 1er janvier 1969, A
 
 ART. 2. — Le présent arrêté prend effet le 1er janvier 1969.
 
-ARRETE n° 491 du 23 juillet 1969 portant intégration d'un mouçaïd.
+ARRÊTÉ n° 491 du 23 juillet 1969 portant intégration d'un mouçaïd.
 
 ARTICLE PREMIER. — M. Seydna Oumar ould Abdallahi Atigh El Hasen, titulaire du certificat d'aptitude à l'enseignement arabe (C.A.E.A.) est intégré dans le cadre de l'enseignement public. Il est nommé mouçaïd stagiaire (indice 300) pour compter du 16 octobre 1968, conformément à l'article 25 du décret n° 62.027 du 17 janvier 1962 susvisé.
 
-ARRETE n° 492 du 23 juillet 1969 portant titularisation d'un mouçaïd.
+ARRÊTÉ n° 492 du 23 juillet 1969 portant titularisation d'un mouçaïd.
 
 ARTICLE PREMIER. — M. Mohamed Abdellah ould El Moctar, mouçaïd stagiaire depuis le 5 janvier 1965, qui a satisfait aux épreuves pratiques du certificat d'aptitude à l'enseignement de l'arabe (C.A.E.A.), est titularisé et nommé mouçaïd de 1er échelon (indice 300) pour compter du 6 mars 1967, A.C. néant.
 Il passe : mouçaïd de 2e échelon (indice 330) pour compter du 6 mars 1969, A.C. néant.
 
 ART. 2. — Le présent arrêté prend effet le 1er janvier 1969.
 
-ARRETE n° 493 du 23 juillet 1969 autorisant M. Bâ Waly à se présenter au concours d'accès du cycle « C » du Centre de formation et de vulgarisation de Kaédi.
+ARRÊTÉ n° 493 du 23 juillet 1969 autorisant M. Bâ Waly à se présenter au concours d'accès du cycle « C » du Centre de formation et de vulgarisation de Kaédi.
 
 ARTICLE PREMIER. — M. Bâ Waly Aly est autorisé à se présenter aux épreuves du concours d'accès au cycle « C » du Centre de formation et de vulgarisation agricole de Kaédi.
 
-ARRETE n° 494 du 23 juillet 1969 portant démission d'un fonctionnaire.
+ARRÊTÉ n° 494 du 23 juillet 1969 portant démission d'un fonctionnaire.
 
 ARTICLE PREMIER. — Est acceptée, pour compter du 10 juin 1969, la démission de son emploi présentée par M. Abidine ould Beyrouk, moniteur stagiaire.
 
-ARRETE n° 497 du 23 juillet 1969 fixant la liste des candidats autorisés à subir les épreuves du concours direct des agents de police.
+ARRÊTÉ n° 497 du 23 juillet 1969 fixant la liste des candidats autorisés à subir les épreuves du concours direct des agents de police.
 
 ARTICLE PREMIER. — Les candidats dont les noms suivent sont autorisés à subir les épreuves du concours direct pour le recrutement des agents de police prévu par arrêté n° 405/METFCFP/DFP du 21 juin 1969.
 
 ###### MM. :
-
 1. Sidoumou ould Kouma ;
 2. Diarra Oumar ;
 3. Mohamed Mahmoud ould Aleyatt ;
@@ -1775,7 +1738,7 @@ ARTICLE PREMIER. — Les candidats dont les noms suivent sont autorisés à subi
 6. Taer ould Aboubekrine ;
 7. Dah ould Eleya ;
 8. Hacen ould M'Reizig ;
-9. Brahim ould Saïd ;
+9. Brahim ould Said ;
 10. Sidi ould Gaya ;
 11. Amadou Mamadou Diop ;
 12. Sid'Ahmed ould H'Jour ;
@@ -1790,7 +1753,7 @@ ARTICLE PREMIER. — Les candidats dont les noms suivent sont autorisés à subi
 [[START OF PAGE 24]]
 
 314
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
 18. El Housseine ould Mohamed Lemine ;
@@ -1813,13 +1776,13 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 35. Boubou Hamady ;
 36. Khalihli ould Hamoïty.
 
-ARRETE n° 499 du 24 juillet 1969 portant intégration d'un ingénieur des travaux des Eaux et Forêts.
+ARRÊTÉ n° 499 du 24 juillet 1969 portant intégration d'un ingénieur des travaux des Eaux et Forêts.
 
 ARTICLE PREMIER. — M. Touré Abdourahmane, titulaire du diplôme de l'école nationale des cadres ruraux du Sénégal, est intégré dans le cadre des Eaux et Forêts. Il est nommé ingénieur stagiaire des travaux des Eaux et Forêts de 1er échelon (indice 560) pour compter du 15 mai 1969, conformément à l'article 30, alinéa premier et 31 du décret n° 62.028 du 17 janvier 1962 susvisé.
 
-ARRETE n° 0506 du 28 juillet 1969 portant classement général des élèves de la deuxième année du cycle d'études « C » de l'Ecole nationale d'administration pour l'année 1969.
+ARRÊTÉ n° 0506 du 28 juillet 1969 portant classement général des élèves de la deuxième année du cycle d'études « C » de l'École nationale d'administration pour l'année 1969.
 
-ARTICLE PREMIER. — A l'issue de leur scolarité à l'Ecole nationale d'administration, le classement général des élèves du cycle d'études « C » ayant obtenu une moyenne générale égale ou supérieure à dix sur vingt, est établi comme suit par série, section et ordre de mérite.
+ARTICLE PREMIER. — A l'issue de leur scolarité à l'École nationale d'administration, le classement général des élèves du cycle d'études « C » ayant obtenu une moyenne générale égale ou supérieure à dix sur vingt, est établi comme suit par série, section et ordre de mérite.
 Série juridique.
 
 A. — Section « Administration générale » :
@@ -1837,19 +1800,18 @@ B. — Section « Postes et Télécommunications » :
 
 MM. :
 — Niengue Ahmed ;
-— Mohamed Abdallahi ould Haibilyty ;
+— Mohamed Abdallahi ould Haïbilyty ;
 — Moctar ould Abdy ;
 — Diop Moussa Demba ;
 — Mohamed ould Brahim ;
 — Mohamed ould Boushab.
 
-ART. 2. — Les intéressés, déclarés certifiés de l'Ecole nationale d'administration, exerceront selon l'ordre du classement leur choix parmi les emplois offerts dans les différentes administrations.
+ART. 2. — Les intéressés, déclarés certifiés de l'École nationale d'administration, exerceront selon l'ordre du classement leur choix parmi les emplois offerts dans les différentes administrations.
 Ces emplois sont ceux fixés par l'article n° 428/MET.FC.FP/DFP du 4 juillet 1969 susvisé.
 
-ARRETE n° 0507 du 28 juillet 1969 portant classement général des élèves de deuxième année du cycle d'études « B » de l'Ecole nationale d'administration pour l'année 1969.
+ARRÊTÉ n° 0507 du 28 juillet 1969 portant classement général des élèves de deuxième année du cycle d'études « B » de l'École nationale d'administration pour l'année 1969.
 
-ARTICLE PREMIER. — A l'issue de leur scolarité à l'Ecole nationale d'administration, le classement général des élèves du cycle d'études « B », ayant obtenu une moyenne générale égale ou supérieure à dix sur vingt est établi comme suit par série, section et ordre de mérite.
-
+ARTICLE PREMIER. — A l'issue de leur scolarité à l'École nationale d'administration, le classement général des élèves du cycle d'études « B », ayant obtenu une moyenne générale égale ou supérieure à dix sur vingt est établi comme suit par série, section et ordre de mérite.
 Série juridique.
 
 A. — Section « Administration générale » :
@@ -1875,7 +1837,6 @@ MM. :
 — Seydina Aly ould Sidi.
 
 C. — Section « Postes et Télécommunications », service général :
-
 — Mamadou Baïdy Sall ;
 — Abdourahmane Ba ;
 — Oumar Traoré ;
@@ -1883,14 +1844,14 @@ C. — Section « Postes et Télécommunications », service général :
 — Youba Fall ;
 — Mohamed Abdallah ould Meissa.
 
-ART. 2. — Les intéressés, déclarés brevetés de l'Ecole nationale d'administration, exerceront selon l'ordre du classement, leur choix dans les différentes administrations utilisatrices des corps auxquels donne vocation leur section.
+ART. 2. — Les intéressés, déclarés brevetés de l'École nationale d'administration, exerceront selon l'ordre du classement, leur choix dans les différentes administrations utilisatrices des corps auxquels donne vocation leur section.
 Ces emplois sont ceux fixés par l'arrêté n° 428/MET.FC.FP/DFP du 4 juillet susvisé.
 
-ARRETE n° 0510 du 29 juillet 1969 portant titularisation d'un moniteur.
+ARRÊTÉ n° 0510 du 29 juillet 1969 portant titularisation d'un moniteur.
 
 ARTICLE PREMIER. — M. Soumare Hademou, moniteur stagiaire depuis le 12 juin 1963, qui a satisfait aux épreuves pratiques et orales du certificat d'aptitude aux fonctions de moniteur (C.A.M.), est titularisé et nommé moniteur de 1er échelon (indice 300) pour compter du 24 janvier 1969, A.C. néant.
 
-DECRET n° 69.273 du 1er août 1969 portant nomination du directeur de la Fonction publique par intérim.
+DÉCRET n° 69.273 du 1er août 1969 portant nomination du directeur de la Fonction publique par intérim.
 
 ARTICLE PREMIER. — M. Baro Moctar, instituteur de 4e échelon (indice 700), est nommé directeur, par intérim, de la Fonction publique, pour compter du 10 juillet 1969.
 
@@ -1899,18 +1860,18 @@ ARTICLE PREMIER. — M. Baro Moctar, instituteur de 4e échelon (indice 700), es
 [[START OF PAGE 25]]
 
 27 août 1969
-JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 315
 
 ART. 2. — Le ministre des Finances et le ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
 
-DECRET n° 69.274 du 1er août 1969 portant nomination d'un secrétaire général par intérim.
+DÉCRET n° 69.274 du 1er août 1969 portant nomination d'un secrétaire général par intérim.
 
 ARTICLE PREMIER. — M. Diop Ousseynou, professeur de 8e échelon (ind. 1100), est nommé secrétaire général par intérim du ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique, pour la période du 15 juillet 1969 au 31 juillet 1969.
 
 ART. 2. — Le ministre des Finances et le ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
 
-DECRET n° 69.275 du 1er août 1969 modifiant le décret n° 68.332 du 16 décembre 1968 relatif à l'organisation centrale du ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique.
+DÉCRET n° 69.275 du 1er août 1969 modifiant le décret n° 68.332 du 16 décembre 1968 relatif à l'organisation centrale du ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique.
 
 ARTICLE PREMIER. — L'article 3 du décret n° 68.332 du 16 décembre 1968 fixant les attributions du ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique et l'organisation de l'administration centrale de son département est abrogé et remplacé par les dispositions suivantes :
 
@@ -1929,18 +1890,18 @@ ARTICLE PREMIER. — L'article 3 du décret n° 68.332 du 16 décembre 1968 fixa
 
 ART. 2. — Le ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique est chargé de l'application du présent décret.
 
-RECTIFICATIF n° 0516 du 1er août 1969 à l'arrêté n° 269 du 21 avril 1969 portant intégration de vingt-deux mouallims sortant de l'Ecole normale.
+RECTIFICATIF n° 0516 du 1er août 1969 à l'arrêté n° 269 du 21 avril 1969 portant intégration de vingt-deux mouallims sortant de l'École normale.
 
 ARTICLE PREMIER. — L'article premier de l'arrêté n° 269/METFCFP/DFP du 21 avril 1969 est rectifié en ce qui concerne El Moustapha ould Horma :
-— Au lieu de : El Moustapha ould Horma,
+— Au lieu de : El Moustapha ould Horma.
 — Lire : El Mountaka ould Mohameden ould Horma.
 Le reste sans changement.
 
-ARRETE n° 0517 du 2 août 1969 portant intégration d'un mouçaïd sortant de l'Ecole normale.
+ARRÊTÉ n° 0517 du 2 août 1969 portant intégration d'un mouçaïd sortant de l'École normale.
 
 ARTICLE PREMIER. — M. Mohamed ould Yacoub, titulaire du certificat d'aptitude à l'enseignement arabe (C.A.E.A.), est intégré dans le cadre de l'Enseignement public. Il est nommé mouçaïd stagiaire (ind. 300) pour compter du 16 octobre 1968, conformément à l'article 25 du décret n° 62.027 du 17 janvier 1962 susvisé.
 
-ARRETE n° 0520 du 6 août 1969 portant démission d'un moniteur.
+ARRÊTÉ n° 0520 du 6 août 1969 portant démission d'un moniteur.
 
 ARTICLE PREMIER. — Est acceptée, pour compter du 13 juin 1969, la démission de son emploi présentée par M. N'Diaye Abou Diagaraf, moniteur de 2e échelon (indice 330).
 
@@ -1951,23 +1912,23 @@ Au lieu de : respectivement du 10 décembre 1968 et 15 novembre 1968,
 Lire : 16 octobre 1968.
 Le reste sans changement.
 
-ARRETE n° 0524 du 7 août 1969 portant validation des services militaires d'un ouvrier des travaux publics.
+ARRÊTÉ n° 0524 du 7 août 1969 portant validation des services militaires d'un ouvrier des travaux publics.
 
 ARTICLE PREMIER. — Il est attribué à M. Sy Hamet, ouvrier spécialisé de 5e échelon (indice 360), un rappel pour services militaires effectués du 10 décembre 1941 au 22 juin 1943 soit : un an six mois douze jours.
 
 ART. 2. — Il est reclassé pour compter du 1er janvier 1969 :
 Ouvrier spécialisé de 6e échelon (indice 380), S.M. cinq mois douze jours.
 
-ARRETE n° 0525 du 8 août 1969 portant intégration d'un élève fonctionnaire dans le cadre de l'Administration générale.
+ARRÊTÉ n° 0525 du 8 août 1969 portant intégration d'un élève fonctionnaire dans le cadre de l'Administration générale.
 
-ARTICLE PREMIER. — M. Ba Sidy Amadou, élève fonctionnaire de l'Ecole nationale d'administration, est intégré dans le cadre de l'administration générale.
+ARTICLE PREMIER. — M. Ba Sidy Amadou, élève fonctionnaire de l'École nationale d'administration, est intégré dans le cadre de l'administration générale.
 Il est nommé et titularisé secrétaire d'administration générale de 3e classe, 1er échelon (indice 250) pour compter du 1er juillet 1969, conformément à l'article 31 de la loi n° 67.169 du 18 juillet 1967 susvisée.
 
-ART. 2. — L'intéressé reste à la charge du ministère de l'Equipement jusqu'au 31 décembre 1969.
+ART. 2. — L'intéressé reste à la charge du ministère de l'Équipement jusqu'au 31 décembre 1969.
 
-ARRETE n° 0526 du 8 août 1969 portant intégration d'un élève fonctionnaire dans le cadre de l'administration générale.
+ARRÊTÉ n° 0526 du 8 août 1969 portant intégration d'un élève fonctionnaire dans le cadre de l'administration générale.
 
-ARTICLE PREMIER. — M. Mohameden ould Abeid, élève fonctionnaire de l'Ecole nationale d'administration, est intégré dans le cadre de l'administration générale.
+ARTICLE PREMIER. — M. Mohameden ould Abeid, élève fonctionnaire de l'École nationale d'administration, est intégré dans le cadre de l'administration générale.
 
 [[END OF PAGE 25]]
 
@@ -1975,421 +1936,352 @@ ARTICLE PREMIER. — M. Mohameden ould Abeid, élève fonctionnaire de l'Ecole n
 
 316
 
-JOURNAL OFFICIEL  DE LA REPUBLIQUE  ISLAMIQUE  DE MAURITANIE
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
 27 août 1969
 
-II  est nommé et titularisé secrétaire de I'administration qenéfl9 de -3. classe,  t*" écheton  (indice  250) poui  ;;ôt* d" ler  jr"r,illet  1969 conformément  à l,arricle 31 dé  h  loi  ni iZ.iOd du 18 juillet 1967 susvisée.
+Il est nommé et titularisé secrétaire de l'administration générale de 3e classe, 1er échelon (indice 250) pour compter du 1er juillet 1969 conformément à l'article 31 de la loi n° 67.169 du 18 juillet 1967 susvisée.
 
-Anr. 2. -L'intéressé  reste à la charge  du ministère des Finances jusqu'au  31 décembre 1969.
+ART. 2. — L'intéressé reste à la charge du ministère des Finances jusqu'au 31 décembre 1969.
 
-ARRETE n" 0528 du 9 août 1969 portant  intégration d,o*t élèue fonctionnaire  sortant de t,EcoTe  nationale- d,administratioi.
+ARRÊTÉ n° 0528 du 9 août 1969 portant intégration d'un élève fonctionnaire sortant de l'École nationale d'administration.
 
-Anrrcre 'REMTER. -M. Soumare  Diabe, élève fonctionnaire de fEcole nationale d'administration,  est intégré  dans le cadie de I'administfation  générale.
+ARTICLE PREMIER. — M. Soumare Diabe, élève fonctionnaire de l'École nationale d'administration, est intégré dans le cadre de l'administration générale.
 
-Il  èst nommé et titularisé secrétaire de l,administration gâÉ.4S  de-3' classe, 1u." échelon  (indice 250), pour "orrrpt., à.l l"'  juillet 1969,  conformément  à I'article 3l-dô  ta toi n; OZ.tOg du 18 juillet 1967 susvisée.
+Il est nommé et titularisé secrétaire de l'administration générale de 3e classe, 1er échelon (indice 250), pour compter du 1er juillet 1969, conformément à l'article 31 de la loi n° 67.169 du 18 juillet 1967 susvisée.
 
-RECTIFICATIF  n" 0530 du lI  août 1969  à l,arrêté n" 575 du 8 novembre  1967.
+RECTIFICATIF n° 0530 du 11 août 1969 à l'arrêté n° 575 du 8 novembre 1967.
 
 Les allocations familiales sont au compte du budget de la République islamique de Mauritanie.
 
-Lire  : Dans  cette position  I'intéressé  percevra  :
+Lire : Dans cette position l'intéressé percevra :
 
-I" Au compte  du F.A.C.
+1° Au compte du F.A.C. :
 
-une allocation  mensuelle  de 15 000 francs  c.F.A.  soit 300 francs français.
+Une allocation mensuelle de 15 000 francs C.F.A. soit 300 francs français.
 
-Au compte  de ta Répu.blique islamique  de Mattritanie:
+Au compte de la République islamique de Mauritanie :
 
-Une indemnité de première  mise d'équipement  de 25 000 francs C.F.A., son traitement  de base,  majorée  du complément spécial ?u,t-ag1  de I0 % plus  une indemnité différentielle pour  sa bburse à 40 000 frrancs  C.F.A.
+Une indemnité de première mise d'équipement de 25 000 francs C.F.A., son traitement de base, majorée du complément spécial au taux de 10 % plus une indemnité différentielle pour sa bourse à 40 000 francs C.F.A.
 
-Eventuellement  les allocations  familiales.
+Éventuellement les allocations familiales.
 
-o-
+ARRÊTÉ n° 0531 du 11 août 1969 portant intégration de deux ingénieurs des travaux d'élevage.
 
-ARRETE n" 0531 du ll  aoîtt  1969 portant  intégration de deux ingénieurs des travaux d'élevage.
+ARTICLE PREMIER. — Les élèves ingénieurs ci-après, diplômés de l'École nationale des cadres ruraux de Bambey (Sénégal), sont intégrés dans le cadre de l'élevage, des pêches maritimes et animales. Ils sont nommés ingénieurs stagiaires des travaux d'élevage de 2e classe, 1er échelon (indice 560) pour compter du 1er juillet 1969, conformément à l'article 28 du décret n° 62.028 du 17 janvier 1962 susvisé :
 
-Anrrcræ IREMTER. -Les élèves  ingénieurs ci-après, diplômés de lEcole nationale  des cadres ruraux de Bambey (Sénégal), sont intégÉs dans le cadre de l'élevage,  des pêches  maritimei et animales. Ils sont nommés ingénieurs stagiaires  des travaux d'élevage de ? classe,  l'" échelon  (indice 560) pour compter du l"-  juillet 1969,  conformément à I'article 28 du décret  n; 62.028 du 17 janvier  1962 susvisé:
+M. Diagana Elimane ;
+M. Sibidé Biri Boubacar.
 
-M. Diagana Elimane;
+ARRÊTÉ n° 0533 du 11 août 1969 portant titularisation d'un instituteur adjoint.
 
-- Sibidé Biri Boubacar.
+ARTICLE PREMIER. — M. Moctar ould Mohamed, moniteur de 6e échelon, qui a satisfait aux épreuves écrites, pratiques et orales du C.E.A.P., est nommé et titularisé instituteur adjoint de 1er échelon (indice 400) pour compter du 22 juin 1966, A.C. néant.
 
-ARRETE n' 0533 du 7l août 1969 portant titularisation  d'un instituteur  adjoint.
+— Il passe : instituteur adjoint de 2e échelon (indice 460) pour compter du 22 juin 1968, A.C. néant.
 
-Anrlcrn  pREÀflrR. -M. Moctar ould Mohamed, moniteur de 6' échelon,-tui  a satisfait  aux épreuves écrites, pratiques et orales du c.E.a.P.,  est nommé et titularisé instiiuieur  àaioittt de 1" échelon (indice  400) pour compter du 22  !,in  1966," A.a. néant.
+ART. 2. — Le présent arrêté prend effet au point de vue solde le 1er janvier 1969.
 
--Il  passe:  instituteur adjoint  de ?  échelon  (indice 460) pour compter  du 22 juin 1968, A.C. néant.
+RECTIFICATIF n° 0534 du 11 août 1969 à l'arrêté n° 042 du 10 janvier 1969 portant intégration de M. Mohamed ould Khouba, professeur licencié.
 
-_  Anr. 2. -Le présent  arrêté prend effet au point de vue solde le 1""  ianvier  1969.
+La date d'effet de l'arrêté n° 042 du 10 janvier 1969 est rectifiée comme suit :
 
-RECTIFICATIF  n" 0534 du 7L août 1969  à r'arrêté n" 042 du l-0..  ianvi-er 1969 portant  intégration  de M. U"n"*"à'-oîtà trnouoah,  professeur  licencié.
+Au lieu de : 2 décembre 1968,
+Lire : 1er novembre 1968.
+Le reste sans changement.
 
--,La date d'effet de l,arrêté n" 042 d.u l0  janvie  r 1969 est rectinee comme suit:
+ARRÊTÉ n° 0535 du 11 août 1969 portant titularisation de deux instituteurs.
 
-Au lieu de: 2 décembre 196g. Lire  : 1", novembre  196g.
+ARTICLE PREMIER. — MM. Oumar Moussa et Sy Hamady Samba, instituteurs stagiaires depuis le 1er juillet 1968, qui ont satisfait aux épreuves pratiques du brevet supérieur de capacité (B.S.C.), option française, sont titularisés et nommés instituteurs de 1er échelon (indice 560) pour compter du 8 novembre 1968, A.C. néant.
 
-l-e reste sans changement.
+ART. 2. — Ils sont mis en position de stage pour suivre la formation des professeurs de collège d'enseignement général à l'École normale supérieure de Dakar pour une durée de deux ans à compter du 20 novembre 1968.
 
-ARRETE z" 0535 du ll  août 1969 portant  titularisation  de d,eux instituteurs.
+ART. 3. — Dans cette position, ils percevront chacun :
+— leur solde de base majorée du complément spécial au taux de 10 % ;
+— une indemnité de première mise d'équipement de 50 000 francs C.F.A. plus éventuellement les allocations familiales ;
+— les frais de transport tant à l'aller qu'au retour sont à la charge de la République islamique de Mauritanie.
 
-Anrrcrn  pRzurER. -MM. Oumar Moussa et Sy Hamady Samba, insti.r ':teurs  stagiaires  depuis  re 1"" juiler  ilosl qui  oîr"liriuii 1y9."":l:s pratiques  dr1 lreye!  supérieur de'càpacitÈ aB.S-.ôl; 9pu9O  rrançatse, sont titularisés  et nommés instituteurs  dé 1'-' échelon  (indice  560)  pour compter  d;-8-;;;";;r"-iSô"eË. neant-.
+ARRÊTÉ n° 0536 du 11 août 1969 accordant une disponibilité à un fonctionnaire.
 
-- Anr. 2. -Ils sont mis en position de.stage pour suivre.  Ia f,gTîrtl1 de_s,  professeurs  de èollège  aÈnseigîe*""i e.érrèràf -â r.trcore normale  supérieure de Dakar  pour  une durée-de deux ans à compter du 20 novembre  196g. ^
+ARTICLE PREMIER. — Est renouvelée, sur sa demande, pour une période d'un an, la disponibilité accordée à M. Bakar ould Ahmedou, instituteur adjoint de 5e échelon (indice 580), pour compter du 1er juillet 1969.
 
-- Anr. 3. -Dans cette position,  ils percevront  chacun : -leur solde de base majorée dri comple**i--rp?"iuf  u" taux de 10 %;
+ART. 2. — Il devra solliciter sa réintégration deux mois avant l'expiration de la période susvisée.
 
-; -les frais  de transport  tant à t'atter qu'au-i"t."r-r""ïâ  r" charge de la République islamique  de Uâuritanie.
+ARRÊTÉ n° 0538 du 11 août 1969 portant titularisation de deux moniteurs.
 
--une indemnité de première  mise d,équipement de 50 000 francs-  C.F.A. plus éventuellement  les allocatioïs  familiatei -
+ARTICLE PREMIER. — Les moniteurs stagiaires ci-après, qui ont satisfait aux épreuves pratiques et orales du C.A.M., sont titularisés et nommés moniteurs de 1er échelon (indice 300) pour compter des dates ci-dessous :
 
-o
+— M. Mohamed El Hasen ould Yahya ould Mohamedine, pour compter du 2 janvier 1966, A.C. néant,
+Passe : moniteur de 2e échelon (indice 330) pour compter du 2 janvier 1968, A.C. néant.
+— M. Sy Oumar, pour compter du 21 avril 1969, A.C. néant.
 
-ARRETE n  0536 du ll  août 1969 accordant  une d.isponibitité à un  fonctionnaire.
+RECTIFICATIF n° 0539 du 12 août 1969 à l'arrêté n° 020 du 6 janvier 1969 portant intégration de M. Sid'Ahmed ould Deye, professeur certifié.
 
--AnrrcrE.pREMrER. -Frt  renouvelée, sur sa demande, pour une pgrioa: d'un an, la disponibilité accordée  à M. BaÈar  ould Ahmedou,  instiruteur ?gi_oint de 5" echelon (indice  t80l,  d"i compter du le" juillet 1969.
-
-- Anr..2. -Il devra solliciter  sa réintégration  deux mois avant l'expiration  de Ia période susvisée.
-
-ARRETE  tt' 0538 du ll  août 1969 portant  titularisation  d.e d.eux moniteurs.
-
-Anrrcte IREMTER. -Les moniteurs stagiaires ci_après,  qui ont satisfait aux épreuves pratiques  et oralei du C.A.ù., d"Ëi-tit". Iarisés  et nommés moniteurl  de r'"" échelon (indice'300i  ù; compter  des dates ci-dessous  :
-
--- M. Mohamed El Hasen ould  yahya  ould Mohamedine, pour compter du 2 janvier 1966, A.C. néant,
-
--M. Sy Oumar,  pour compter du 2l avrtl 1969,  A.C. néant.
-
-Passe  : moniteur  de 2. échelon  (indice 33ô) pour cômpter  du 2  janvier  1968, A.C. néant.
-
-a
-
-RECTIFICATIF  n" 0539 du t2 août 1969  à t'ariêté n" 020 du 6 janvier 1969 portant  intégration  de M. Sid,Ahmed  ould Deye, professeur  certifié.
-
-La date de l'arrêté n 020 du 6 janvier 1969 susvisé esr rectifiée  comme suit:
+La date de l'arrêté n° 020 du 6 janvier 1969 susvisé est rectifiée comme suit :
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
-2l août 1969
+27 août 1969
 
-JOURNAL OFFICIEL  DE LA REPUB
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
 317
 
-Au lieu de ' let novembre  1968, Lire: 2 sePtembre  1968. Le reste sans changement'
+Au lieu de : 1er novembre 1968,
+Lire : 2 septembre 1968.
+Le reste sans changement.
 
-ARRETE  n" A54I du 14 août L969 portant  intéEration 'de  trois élève s f onct ionnair i  i  ;;;;;"t -àe' t' E cole nat iônale  d' admini s' tration.
+ARRÊTÉ n° 0541 du 14 août 1969 portant intégration de trois élèves fonctionnaires sortant de l'École nationale d'administration.
 
-intéerés  dans le cadre de I'adminisionc-tionnaires  de I'Ecole  nationale ARTTCLE  PREMTER; -Sont tration  générale  les élèves d'administration  ci-aPrès  :
+ARTICLE PREMIER. — Sont intégrés dans le cadre de l'administration générale les élèves fonctionnaires de l'École nationale d'administration ci-après :
 
-MM. Brahim ould Bodde; Brahim ould Ismail; Cheikna  ould Sidi AIY'
+MM. Brahim ould Bodde ;
+Brahim ould Ismaïl ;
+Cheikna ould Sidi Aly.
 
-Ils sont nornmés  et titularisés  rédacteurs de I'administrati""' een?;"f  é'-âi__?- classe,  lu" écheJon .(ind' 420) pour compter 4r, 1*r juillet fSeS, coni;riléÀent  à l'article 31 de la loi n" 67'169 du 18 juillet 1967 susvisée'
+Ils sont nommés et titularisés rédacteurs de l'administration générale de 2e classe, 1er échelon (ind. 420) pour compter du 1er juillet 1969, conformément à l'article 31 de la loi n° 67.169 du 18 juillet 1967 susvisée.
 
-Anr. 2. -M. Brahim  ould Bodde reste à-la  charge  du ministè;^à;  lilntérieur  jusqu'au 31 décembre  1969'
+ART. 2. — M. Brahim ould Bodde reste à la charge du ministère de l'Intérieur jusqu'au 31 décembre 1969.
 
-RECTIFICATIF  n" 0542 du 14 août -1969.à I'arrêté n'  261' du ^--à:nii tsoS et au r'ittftcattf n" 39t du 22  iuillet  1968.
+RECTIFICATIF n° 0542 du 14 août 1969 à l'arrêté n° 261 du 6 mai 1968 et au rectificatif n° 391 du 22 juillet 1968.
 
-Les dispositions  de I'article  2 de l'arcëté n'  261 du 6 mai  1968 susvisé sont modifié. ";;;; suit pour compter  du 1"" juillet 1968'
+Les dispositions de l'article 2 de l'arrêté n° 261 du 6 mai 1968 susvisé sont modifiées comme suit pour compter du 1er juillet 1968.
 
-Au'lieu de: Dans cette  position Ba Abdorul Karim  continuera a p".*t.rt  1u *ta" âï-u-*Ë  Àài"Ie9  9* complément  spécial au taux de l0 % "t â;"""-i"Àemnité  différentielle  destinée à Dorter  sa bourse " 4ô0d0  n ôù' de laquelle sera déduite iIir""",i""  meniuette  de 25 850 accordée  par le  gouvernement tunisien,
+Au lieu de : Dans cette position Ba Abdoul Karim continuera à percevoir sa solde de base majorée du complément spécial au taux de 10 % et d'une indemnité différentielle destinée à porter sa bourse à 40 000 F C.F.A. de laquelle sera déduite l'allocation mensuelle de 25 850 accordée par le gouvernement tunisien,
 
-Lire: Dans cette position  I'intéressé  percevra  :
+Lire : Dans cette position l'intéressé percevra :
 
-- l"  Compte  riu  gouvernement  tunisien:
+1° Compte du gouvernement tunisien :
+— Une allocation mensuelle de 25 850 F.
+— Une indemnité de première mise d'équipement de 28 842 F C.F.A.
 
--* une indemnité  Ë;;;;;t; mise d'équipement  de 28 842 F c.F.A.
+2° Au compte de la République islamique de Mauritanie :
+— Sa solde de base majorée du complément spécial au taux de 10 %.
 
-- Une allocation  mensuelle  de 25 850. F'
+Éventuellement les allocations familiales.
+Le reste sans changement.
 
-- 2"AucomptedeIaRépubtiqueislamiquedeMautitanie:
+RECTIFICATIF n° 0543 du 14 août 1969 à l'arrêté n° 547 du 21 octobre 1967.
 
--Sasoldedebasemajo:éeducomplémentspécialau au taux de l0 %.
+Au lieu de : Dans cette position l'intéressé percevra une allocation mensuelle de 300 F, versée par le F.A.C., est complétée jusqu'à concurrence de 800 F en total par une indemnité différentielle versée par la République islamique de Mauritanie.
 
-Eventuellement les allocations  familiales'
+Chapitre 13. — I. « Les allocations familiales sont au compte du budget de Mauritanie.
 
-Le reste sans changement'
+Lire : Dans cette position l'intéressé percevra :
 
-REC:TIFICATIF n" 0543 du 14 aoîtt  1969 à t'arrêté n" 547 du 2l octobre  1967.
+1° Au compte du F.A.C. :
+Une allocation mensuelle de 15 000 F C.F.A. soit 300 F.
 
-Au lieu de :  Dans cette  posrtion f intéressé percevra une allo cation mensuelle  de iôO f,  versée  par la F'A'C" est complétée jusqu'à concurrence  i""Aôd  f-en totar par une indemnité  différentielle  versee put 'î nép"Ufiq""  islamique  de Mauritanie'
+2° Au compte de la République islamique de Mauritanie :
+Chapitre 10-8-7 :
+Une indemnité de première mise d'équipement de 25 000 F C.F.A.
+Son traitement de base majoré du complément spécial au taux de 10 % plus une indemnité différentielle pour porter sa bourse à 40 000 F C.F.A.
+Éventuellement les allocations familiales.
+Le reste sans changement.
 
-Chapitre  13. -I'.u Les allocations  familiales  sont au compte du budget de Mauritame'
+ARRÊTÉ n° 0544 du 14 août 1969 portant intégration de deux élèves fonctionnaires sortant de l'École nationale d'Administration.
 
-Lire :  Dans cette  position l'intéressé  percevra:
+ARTICLE PREMIER. — Sont intégrés dans le cadre de l'Administration générale les élèves fonctionnaires de l'École nationale d'Administration ci-après :
 
-I" Au com4te  du F'A'C"'
+— M. Mohamed Abdallahi ould Sid'Ahmed, imputation budgétaire : 10.21.1 ;
+— Mlle Diagana Mariam, imputation budgétaire : 10.15.2.
 
-Une allocation  mensuelle  de 15 000 F C'FA' soit 300 F'
+Ils sont nommés et titularisés secrétaires de l'administration générale de 3e classe, 1er échelon (ind. 250), pour compter du 1er juillet 1969, conformément à l'article 31 de la loi 67.169 du 18 juillet 1967 susvisée.
 
-----
+ARRÊTÉ n° 0547 du 18 août 1969 portant suspension de deux fonctionnaires.
 
--
+ARTICLE PREMIER. — M. Sidi ould Abeïdna, adjoint technique de 2e classe, 2e échelon (ind. 460), et M. Cheikh ould Bilal, assistant météo de 2e classe, 3e échelon (ind. 300), sont suspendus pour compter du 14 juillet 1969 de leurs fonctions conformément à l'article 60 de la loi n° 67.169 du 18 juillet 1967 complétée par la loi n° 69.064 du 25 janvier 1969 portant statut général de la Fonction publique.
 
-2" Au compte  de la Répubtique islamique de Mauritanie:
+ART. 2. — Cette suspension est privatrice de toute rémunération, exception faite des allocations familiales le cas échéant.
 
-;ii1Ï"*1ï, de première mise d'équipement de 25 000 F c.F.A.
+ART. 3. — Le présent arrêté sera notifié aux intéressés.
 
-Êtà"i""ftement les allocations  familiales'
+ARRÊTÉ n° 548 du 18 août 1969 portant intégration d'un élève fonctionnaire dans le cadre des secrétaires d'administration générale.
 
-Sontraitementdebasemajoré-drr,complémentspécialau turr"-a"  10 % plus une indemn-ité  différentielle  pour porter  sa bourse à 40 000 F C.F.A. "-
+ARTICLE PREMIER. — M. Mohamed Fall ould Malloum, élève fonctionnaire de l'École nationale d'Administration, est intégré dans le cadre de l'administration générale.
 
-Ie reste sans changeme'r'
+Il est nommé et titularisé secrétaire de l'administration générale de 3e classe, 1er échelon (ind. 250) pour compter du 1er juillet 1968, conformément à l'article 31 de la loi n° 67.169 du 18 juin 1967 susvisée.
 
-ARRETE n" 0544 du 14 élèves fonctionnaires nistration. août L969 portant intégration de deux *iiïto"t-. aà l'Ecole  rùtionale  d'Admi-
+ARRÊTÉ n° 0549 du 19 août 1969 portant réintégration d'un mouaîlim.
 
-ARrrcLE  PREMTER. -. Sont intégrés  dans lé  cadre de I'Adrni- nistration  générâle  r"t efeîàs iàtt""tio"t'uit"s  de I'Ecole nationale d'Administration  ci-aPrès  :
+ARTICLE PREMIER. — M. Moustapha ould Habibourrahmane, mouçaïd démissionnaire de son emploi depuis le 1er juillet 1965, est réintégré dans le cadre de l'enseignement public pour compter du 16 octobre 1968.
 
-- tre  : géta -M. Mohamed  Abdallahi  ould Sid'Ahmed'  imputation  budaire :  10.21.1 ;
-
--Ils sont nollr*e. et titularisés  s99réiai^r.e^1 d: l.ld*:lllf iÎÎ *é#:"Ëi"":Ï'Ëi;:; Fiï"t;;P"--!':1; tl9);tî';lTfiË 1T i:"':liifu"ir6i,'#i;';é*;;;-; i'u]J"t" :t 'aô  ra roi 67'16e du 18 iuillet  1967 susvisée'
-
-- Mrre Diagana  Mariam,  imputation  budgétaire:  10'15'2'
-
-a
-
-ARRETE  n" 0547' du 18 aoîtt  1969 portant suspension de deux fonctionnaires.
-
-AnrrcI-s  pREMTER. -M. Sidi ould Abe'idna'  adjoint-.techniqTe de ? classe, Î  échelon ii"a'  +OOl, et M' Cheikh  ould Bilal'  assistant météo  ae Z' crassà,"I;  e"-iér""  (ind' 300)' sont .suspendus ;;;;;;"rlu r+  3"iriàt-rxo de leurs  forctions  conformément ;"r;';i"b1;0-de  ta tàiîî-oi'ios du 18 juillet 1%7 complétée  par la loi n'  69.064  du zs  l""tiàï-rgïs i"it""t statut  général  de la Fonction Publique.
-
-- Aer. 2. -Cette suspension est privatrice de toute rénum6 ration, exception f"itJi;';i1""àtiotit  familiales  le cas échéant'
-
-Anr. 3. -Le présent arrêté sera notifié aux intéressés'
-
-ARRETE n" 548 du 18 août 1969  portant.  intéeration  d'un élève f onctionnair  e dans' ti"  i"ai "" a[t-' s ic rét air eé  d' administr  ation générale'
-
--a---------------Anrrcrs  PREMTER. -M' Mohamed  Fall'ould Malloum' élève fonctionnaire  de l'Ecole nuii*âf"  d'Àdministration' est intégré à;;-i"-^;;àie de I'administration génétare'
-
-II  est nommé et titularisé'  secrétaire-  de I'administration sénérale  de 3" classe, i'" Z"tteio"  (ind' 250) oour  cornpter  du i''" iuillet  1968, conforËé*;;-;  i'"tticle  31'dè ta toi n"  67'169 à" ï8-i;i"  196?  susvisée
-
-ARRETE  n"  0549 du 19 aoîtt  L969 portant téintégration d'un mouaîlim'
-
-Airr.  2. -L'intéressé  ayant effectué  un stase de deux ans au Caire est nommé "t tit"#;îÀ"""iri* de l"'-échelorr  (ind' 560) iË"ï "ïÀpt"r du 16 octobre  1968'
-
-I  Habibourrahmane' Anttcle  PREMTER. -M' Moustapha  oult mouçaid  démissionnat;  d; ;;;"fbi depuis le 1" juillet 1965' ËrîîËî"îegté-âân.  r" "uàt"!" t'""seignement  public pour compter du 16 octobre  1968'
+ART. 2. — L'intéressé ayant effectué un stage de deux ans au Caire est nommé et titularisé mouallim de 1er échelon (ind. 560) pour compter du 16 octobre 1968.
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-3t8
+318
 
-louRNe  olFictEl  pE  u un rsloMreuE DE MAURTTANTE
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
-27 aoùt 1969
+27 août 1969
 
-ARRETE  n' 0553 du 1g août 7g6g portant  intégration des érèves contrôleurs des Douanes  sortani de l,Ecole-nationale  dAd;; . nistration.
+ARRÊTÉ n° 0553 du 19 août 1969 portant intégration des élèves contrôleurs des Douanes sortant de l'École nationale d'Administration.
 
--Anrrcrn rREMTER. ; Sonl intégrés  dans le "uare a"s Douanes Ies éIèves foncrionnaires  de l'EËore "aiio"ur" o eami"iiiruiion ci-après :
+ARTICLE PREMIER. — Sont intégrés dans le cadre des Douanes les élèves fonctionnaires de l'École nationale d'Administration ci-après :
 
-###### MM.:
+###### MM. :
+— Kane Yahya Mamadou ;
+— Sidi Mohamed ould Ely ;
+— Ahmed ould Khlil ;
+— Dallahi ould Hadj Brahim ;
+— Moulaye Ely ould Nah ;
+— Mamadou Camara ;
+— Sall Souleymane ;
+— Begnoug ould El Hadi ;
+— Mohamed ould Ely Toueizigui ;
+— Seydina Aly ould Sidy.
 
--Kane Yahya Mamadou;
+Ils sont nommés et titularisés contrôleurs des Douanes de 2e classe, 1er échelon (ind. 420) pour compter du 1er juillet 1969 conformément à l'article 31 de la loi n° 67.169 du 18 juillet 1967 susvisée.
 
-- Ahmed ould Khlil;
+ARRÊTÉ n° 0554 du 19 août 1969 portant réintégration d'un secrétaire d'administration générale.
 
--Sidi Mohamed ould Ely;
+ARTICLE PREMIER. — M. Moustapha ould Ahmed, secrétaire d'administration générale de 3e classe 2e échelon (ind. 260), exclu temporairement de ses fonctions pour une durée d'un mois (1), pour compter du 10 juillet 1969, par arrêté n° 452/METFCFP du 16 juillet 1969 susvisé, est réintégré pour compter du 11 août 1969.
 
--Moulaye  Ely ould Nah;
+ART. 2. — Le présent arrêté sera notifié à l'intéressé.
 
---Dallahi  ould Hadj Brahim;
+ARRÊTÉ n° 0555 du 19 août 1969 portant nomination d'un élève infirmier d'État.
 
-- Mamadou  Camara;
+ARTICLE PREMIER. — M. Sow Moussa Demba, infirmier de 2e classe, 3e échelon (ind. 340), admis aux épreuves de l'examen de sortie de l'École nationale de la Santé publique, est nommé et titularisé infirmier d'État de 1er échelon (ind. 430) pour compter du 1er juin 1969, conformément à l'article 31 de la loi n° 67.169 du 18 juillet 1967 susvisée. A.C. néant.
 
---Begnoug  ould El Hadi;
+###### Ministère des Finances :
 
--Sall Soule5rmane ;
+###### ACTES RÉGLEMENTAIRES :
 
--Mohamed  ould Ely Toueizigiui;
+ARRÊTÉ n° 523 du 7 août 1969 portant modification de l'arrêté n° 10.427 du 23 juillet 1966, relatif au barème des conditions générales applicables par les banques installées sur le territoire de la République islamique de Mauritanie.
 
-Ils sont nommés et titularisés  contrôleurs  des Douanes de 2'classe.l"" échelon (ind,.420)  po,r. "oÀptà au f"";uifferl*l c-onfo-rmément  à l'arricle  31 de ia loi n" OZ.tOg  d" lg juill;l iià? susvlsee.
+ARTICLE PREMIER. — Les dispositions relatives à la rémunération des bons de caisse, telles qu'elles figurent au barème annexé à l'arrêté n° 10.427 du 23 juillet 1966, sont modifiées comme suit :
 
-o_
+— Bons de caisse (toutes coupures 5 000 F minimum).
+— à 6 mois ................................ 3,50 %
+— à 1 an .................................. 4,00 %
+— à 2 ans ................................. 4,25 %
+— à 3 ans ................................. 4,50 %
 
-ARRETE  n" 0554 du. 19 août 1969 potant réihtégration  d,un s  ecrétaire  d' administration  généralè.
+Les bons de caisses peuvent être rachetés par les établissements émetteurs, sous déduction d'un escompte calculé à un taux, pour la période restant à courir, qui ne peut être au taux nominal du bon + 1 %, ni inférieur au taux nominal du bon.
 
-Anrrclp rREMTER. -_M.  Moustapha ould Ahmed, secrétaire dfadministration  générale  de 3. "iasse 2l échelon'  ti"à. -Xô1, exclu _temporairement  de ses fonctions pour une durée  d,un 1Tgt:_g), pour compter_  g-l 10 juillet 196b, par arrêté n" iSZ/ METFCFP du 16 iuiltet 1969 sus;isa, "ri,ét"feere p"i **pi"i. du 1l août 1969.
+ART. 2. — Le tableau des commissions de transferts, tel qu'il figure au barème annexé à l'arrêté n° 10.427 du 23 juillet 1966, est modifié ainsi qu'il suit :
 
-- Anr. 2. : Le présent  arrêté sera notifié à l,intéressé.
+c) À l'intérieur de l'Union monétaire :
 
-o_
+Au départ des places non bancables.
+— Sur places bancables : 1 ‰ (minimum de perception : 100 F)
 
-AR|E-TE a' 0555 du 19 août 1969 portant nomination d,un élèr.te infirmier  d'Etat.
+ART. 3. — Le présent arrêté sera applicable suivant la procédure d'urgence définie par le décret n° 50.029 du 25 mai 1959.
 
-^ Anrrcre  eREMTER. -M. Sow Moussa Demba, infirmier  de 2' classe,  3. échelon  (ind. 340),  aA*ir tu"* ép..rro", de l,examen de sortie  de I'Ecole nationale  de ta Sanie publique, ".r rro-*Ë et titularisé inûrmier d'Etat de r'" écheion  ri".i. +loi-po", -co.mpter du 1u'' juin 1969,  conformément  à l'article  gr'aË-iâ roi n" 67.r6e  au ir  iutnet'1e67-;;.;;;"  î.cl;é"r;.'-
+DÉCRET n° 69.272 du 1er août 1969 modifiant l'article 2 du décret n° 68.092 du 16 mars 1968 relatif à l'organisation de l'administration centrale du ministère des Finances.
 
-###### Ministère  des Finances  :
+ARTICLE PREMIER. — L'article 2 du décret n° 68.092 du 16 mars 1968 fixant les attributions du ministre des Finances et l'organisation de l'administration centrale du ministère des Finances est abrogé et remplacé par les dispositions suivantes :
 
-.
+ART. 2. — L'administration centrale du ministère des Finances comprend :
 
-###### ACTES RECLEMENTAIRES:
-
-ARRETE  n 523 du 7 août 1969 portant  mod.ification  de l,arrêté n".70.427  du 23 juittet 1966,  relatil  au barème d.es cond.itions générales  applicables  par les banques instalrées  sur le terri_ toire de la Répubtique islamique de Mauritanie.
-
-Anrrcre rREMTER. -Les dispositions relatives  à la rémunération  des bons de caisse, telles qu'elles  figurent  au barème annexé  à t'arr€té  n" 10.427  du ,,  luiller  1926,  sont  *;;;Àé* comme  suit:
-
-- Bons de caisse (toutes coupures  5 000 F minimum).
-
-- à 6 mois 3,50 %
-
--à l  an .....
-
-- à 2 ans .. ..... :......  :..... :.. :.....  :. i:,i, "(;
-
--à3ans.. ...:... ... S,SO%
-
--Seydina Aly ould Sidy.
-
-F.u
-
--=__--
-
-Les bons de caisses peuvent  être  rachetés  par les établisse_ ments  émetreurs'  sous déduction  a',rn  .r"o*fË Jt#î";; taux, pour la période  restant  à courir, qui ne peut  être  au taux nominal  du bon  + 1 %, ni inférieur  uir-lur.rl<  nominal  du bonl
-
-' Anr. 2. -Le tableau  des commissions  de transferts,  tel qu,il figure  au barème  annexé  à l,arrêté n" tO.îzz  du 23 juillet 1966, est modifié  ainsi qu,ii  suit:
-
-- A I'intérieur  de I'IJnion  monétaire:
-
-Au départ des places  non bancables.
-
--Sur places  bancables  : 1 960 (minimum  de perception  : I00 F)
-
-Anr. 3. -Le présent  arrété .sera applicable  suivant  Ia procédure  d'urgence  définie par re décret ,ri so.ozs  du 25 mai 1959.
-
-__-.-__--_o
-
-DECRET  n" 69.272  du 1.", août 1969 modifiant  l,article  2 tlu décret  n" 68.092  du 16.mars  1968  ,"iàif  a t,organisation  de l'administration  centrale  du ministère  d", Fin;;,;;;."'"" :"-
-
-,  -Anrrcrr  pREMTER. -I ,article 2 du décret  n.. 6g.092du  16 mars 1968 fixant  les attributions  du -i"i.i."-à", Finarices  et l,orga_ nisation  de 'administration centrale  au Àinistere  des Finances est abrogé  et remplacé par les aisposiiiôns  *;*;;,
-
-Anr' 2' -L'administration  centrale  du minist&e des Finances comprend:
-
--Ie Secrétariat  général;
-
--le service  du budget  et des comptes  ;
-
--Ia direction des  ,Finances, comprenant :
-
-- la division  de la comptabilité;
-
--la division de Ia solde;
-
-, -la division  des dépenie, "ogugé"r;
-
--la division  du. matériel;
-
--la direction  des Douanes,  comprenant:
-
--Ia division des pensions  et de la dette publique.
-
--Ia division  des inspections  et vérifications;
-
--la division  du contentieux  et du personnel.
-
--régimes spéciaux;
-
-- la division  de la cJmptuUifità-"i-à"s
-
--la direction des Contributions  diverses,  comprenant:
-
--la -Ia division  de Ia fiscalité centralisee;
-
--la division de fiscalité  déconcentrée; -'
-
--la direction  de la Trésorerie générale,  comprenant:
-
--Ia division  de Ia dépense;
-
--la division  de Ia comptabilité ;
-
-- la division  de la recette;
-
--- la division  de la Caisse  des dépôts et consignations  et des pensions;
-
--la division  de l,apurement.
-
--le service  des Domaines,  de l,Enregistrement  et du Timbre, comprenant: -
-
--Ia division  de l,enregistrement j
-
--la division  de f.a section foncière  et cadastrale;
-
-:-  Ia division  de la conservation  des hypothèques  et cle Ia propriété  foncière;
-
--Ia division  de l,inspection  domaniale.
+— le Secrétariat général ;
+— la direction des Finances, comprenant :
+  — le service du budget et des comptes ;
+  — la division de la comptabilité ;
+  — la division des dépenses engagées ;
+  — la division de la solde ;
+  — la division du matériel ;
+  — la division des pensions et de la dette publique.
+— la direction des Douanes, comprenant :
+  — la division des inspections et vérifications ;
+  — la division de la comptabilité et des régimes spéciaux ;
+  — la division du contentieux et du personnel.
+— la direction des Contributions diverses, comprenant :
+  — la division de la fiscalité déconcentrée ;
+  — la division de la fiscalité centralisée ;
+— la direction de la Trésorerie générale, comprenant :
+  — la division de la comptabilité ;
+  — la division de la dépense ;
+  — la division de la recette ;
+  — la division de la Caisse des dépôts et consignations et des pensions ;
+  — la division de l'apurement.
+— le service des Domaines, de l'Enregistrement et du Timbre, comprenant :
+  — la division de l'enregistrement ;
+  — la division de la conservation des hypothèques et de la propriété foncière ;
+  — la division de la section foncière et cadastrale ;
+  — la division de l'inspection domaniale.
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-23 jutllet 1969
+23 juillet 1969
 
-JOURNAL  OFFICIEL DE LA REPUBL
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
 319
 
-ARRETE n" 0556 du L9 aoîtt  1969 portant  aO\.ro!1t1on  du builget de la Chambre  de commerce  pour l'année  1969'
+ARRÊTÉ n° 0556 du 19 août 1969 portant approbation du budget de la Chambre de commerce pour l'année 1969.
 
-Anrrcle  PREMTER. -Est approuvé le budget de la Chambre de';;;;;e pour I'exercice  1969' artëté en recettes  et  en àép"rra". à la. somme  de :  soixante tieize  millions sept cent ;;il;; tt"ir" *il" guatre  cent trente-huit  francs  (73J73'438)'
+ARTICLE PREMIER. — Est approuvé le budget de la Chambre de commerce pour l'exercice 1969, arrêté en recettes et en dépenses à la somme de : soixante treize millions sept cent soixante treize mille quatre cent trente-huit francs (73.773.438).
 
-Anr. 2.'-  Le directeur de la Chambre de commerce  et Ie Trésorier  général t""i "ftutgét de I'exécution du présent arrêté'
+ART. 2. — Le directeur de la Chambre de commerce et le Trésorier général sont chargés de l'exécution du présent arrêté.
 
-'  ACTES DIVERS:
+###### ACTES DIVERS :
 
-DECRET  n" 69.286 du 7 aoîtt  1969 portant nomination d'un chel de dirtision.
+DÉCRET n° 69.286 du 7 août 1969 portant nomination d'un chef de division.
 
-Anrrcm  PREMTER. -M' Abdallahi ould Sidoumou'  adjoint des .";;;"fr;;ï; a" z:'"rutt!,  i'"" échelon  (ind' 340) est nommé chef de la division "d*i;i;;i""et frnanôière  à la  présidence Ëï" ilit"biiq""  a compter  du 4  iuillet  1969'
+ARTICLE PREMIER. — M. Abdallahi ould Sidoumou, adjoint des services financiers de 2e classe, 1er échelon (ind. 340) est nommé chef de la division administrative et financière à la présidence de la République à compter du 4 juillet 1969.
 
-Anr. 2. -Le ministre  des Finances'  le' ministre de l'Ensei' gn#.ît1".hdq";;-a";  F";^tio"  des cadres et de la Fonction oublique et le Secrétaire  général  de- la Présidence de la Réputiil;l;;"h;sét;ht"""""" "" qui le concerne'  de I'exécution ào-p."t""t  décret.
+ART. 2. — Le ministre des Finances, le ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique et le Secrétaire général de la Présidence de la République sont chargés chacun en ce qui le concerne, de l'exécution du présent décret.
 
-o
+DÉCISION n° 1599 du 15 août 1969 portant nomination d'un agent comptable à l'établissement maritime de Nouakchott.
 
-DECISION n"  LSgg du 15 août 1969 portant rtomination  d'om agent comptabte  a--l'éiablissement  maritime  de Nauakchott'
+ARTICLE PREMIER. — M. Bal Mamadou, rédacteur de 2e classe des services financiers, précédemment en service au ministère des Finances est nommé agent comptable de l'établissement maritime de Nouakchott pour compter du 21 juillet 1969.
 
-Anrtcm PREMTER. -M. Bal Mamadou'  rédacteur de ? classe d".ï;;;;";--noàrrci"ts,  précédemment  en  -service au ministère des Finance. "rt ,to#ttie agent comptable  de lëtablissement â*iim. -à. Nouakchàtt  poir compter  du 2l  juillet 1969'
+ARRÊTÉ n° 0546 du 18 août 1969 approuvant divers actes de cession de terrains sis à Nouakchott.
 
-ARRETE n" 0546 du 18 août 1969 approuvant  dit'ters actes de ---'r"rrlon de terrains  sis à Nouakclntt'
+ARTICLE PREMIER. — Sont approuvés les actes de cession des lots de terrains sis à Nouakchott (morcellement des titres fonciers nos 167 et 199 du cercle du Trarza), consentis à divers occupants énumérés au tableau ci-joint.
 
-Anrrcrn  PREI\IrER. -Sont a-pprouvés  les, -actes de cession  des lots de terrains  sis a Nouakàttôtt  (*ot"ellement  des titres fonciers n'"  167 et 199 d"-;;;i;àu' Trapa)'  consentis à  divers â1"pu"tt-enumérés  au tableau  ci-joint'
+ART. 2. — Le chef du Service des Domaines est chargé de l'exécution du présent arrêté.
 
-Anr. 2. -te chef du Service  des Domaines  est chargé de l'exécution du Présent  arrêté'
+Zone | Ilot et lot | Attributaires | N° autorisation occuper | Prix | Superficie | Mise en valeur
+Résidentielle | Z 22 | Kane Ibrahima. | 507, du 11 mars 1968 | 44 040 | 7 a 24 ca | 3 500 000
+— | Z 9 | Guisset Abou Dialel. | 161, du 3 févr. 1963 | 42 000 | 7 a | 3 500 000
+— | V 73 | B. M. D. | 462, du 22 avr. 1967 | 79 920 | 10 a 50 ca | 3 500 000
+— | P 19 | Sidna ould Cheikh Talebbouya. | 470, du 22 avr. 1967 | 45 000 | 7 a 50 ca | 3 500 000
+— | K 13 | R. Oliveri. | 451, du 10 oct. 1966 | 70 920 | 12 a 82 ca | 3 500 000
+— | M 34 | El Alia Mint Agga. | 554, du 4 sept. 1968 | 172 800 | 8 a 64 ca | 3 500 000
+— | O 75-79 | Abdellahi ould Daddah. | 374, du 8 mai 1964 | 150 360 | 25 a 06 ca | 6 000 000
+— | O 78 | Souleymane Koita. | 495, du 8 sept. 1967 | 44 280 | 7 a 38 ca | 3 500 000
+— | L 76 | Souleymane Koita. | 483, du 8 juin 1967 | 24 000 | 4 a | 1 000 000
+— | L 11 | Mohamed ould Awah. | 272, du 17 mars 1964 | 21 600 | 3 a 60 ca | 1 000 000
+— | L 34 | Mohamed ould Bedatt. | 193, du 9 nov. 1963 | 21 600 | 3 a 60 ca | 1 000 000
+— | L 65 | Diakite Bamody. | 301, du 17 avr. 1964 | 21 060 | 3 a 51 ca | 1 000 000
+— | L 90 | Macassoube Mettou. | 233, du 17 avr. 1964 | 21 060 | 3 a 51 ca | 1 000 000
+— | L 68 | Sidi Mohamed ould Zeidane. | 344, du 7 août 1964 | 21 060 | 3 a 51 ca | 1 000 000
+Médina | J 45-46 | Mohamed Salem ould Sidha. | 1 002 du 6 juill. 1962 | 500 | 3 a |
+— | III 92-A | Mohamed ould Samba. | 1 560 du 27 févr. 1968 | 5 060 | 2 a 53 ca |
+— | III 161 | Fatimetou mint Kidih. | 1 518 du 17 juin 1965 | 500 | 04 a 05 ca |
+— | III 37-A | Abou Dialel Guisset. | 1 035 du 29 déc. 1965 | 500 | 02 a 53 ca |
+— | III 162 | Ely ould Blal. | 1 611 du 7 juin 1965 | 500 | 03 a 38 ca |
+Extension Nord-Ksar | I 139 | Sidi ould Najim. | 170 du 16 juin 1966 | 2 020 | 02 a 14 ca |
 
-*llot et lot | N" autorisation occuper | Supetlicie | I Mir" "o ,o|"u,
---- | --- | --- | --- | --- | ---
-Résidentielle ; Médina .; Extsr-sion Nord-Ksar | Z z v P K M o o L L L L L L J III III III III 22 9 73 19 13 34 75:79 78 ./o 11 34 65 90 68 4546 92-A 161 37-A 162 139 | Kane Ibrahima' Guisset Àbou Dialel' B, M. D. Sidna ould Cheikh TalebbouYa' R. Oliveri. El Alia Mint Agsa. Àbdellahi ould Daddah' SouleYmane Koita' Soulevmane Koita. Mohamed ould Awah' Mohamed ould Bedatt' Diakite BamodY. Macassoube Mettou' - -diâi tu"rtu-"d ould Zeidane' niôttam"a Salem ould Sidha' Mohamed ould Samba' Fatimetou mint Kidih' Abou Dialel Guisset' Elv ould Blal. Siâi ould Najim. | 507. du 11 mars 1968 râi ir 'n'Xi:,iifr 451. du 10 oct. 1966 '#, ïîi',#i ËË 483. du 8 juin 1967 272'. drt 17 mars 1964 193. du 9 nov. 1963 301, du 17 avr. 1964 233. du l7 avr. 1964 -i44. du 7 aoùt 1964 I ifij du 6 juill. 1962 l;fg ti ?i 'j""''l Ë:i l3î? âî ?,1fi lffi; 170 du 16 juin 1966 | 44 040 42 000 799m 45 000 70920 r72 800 150 360 M280 24 000 21ffi 21 6N 21 060 2lw 2tw 500 5 060 500 500 500 2020 | 7 a24 ca 7a : 10a50ca 7a50ca 12a82ca 8a64ca 25 aM ca 7 a38 ca 4a 3a60ca 3a60ca 3a51ca 3a5lca 3a5lca 3a 2a53ca 04a05ca 02 a53 ca 03a38ca 02a14ca
+###### Ministère de l'Industrialisation et des Mines :
 
-###### Ministère  de l'Industrialisation  et des Mines  :
+###### ACTES DIVERS :
 
-###### ACTES  DTVERS:
+ARRÊTÉ n° 498 du 23 juillet 1969 autorisant la Société communautaire de stockage de Nouadhibou (S.C.S.N.) à installer et exploiter à Nouadhibou un dépôt d'hydrocarbures liquides de première classe.
 
-' ARRETE ns 498 du 23  iuiltet  1969 autorisan,It ta Société  communautair e de st ockaâi "âïN âiïaniboa  .(S'C'S'N') à  inst aller' et exptoiter a No*oÏiifo""'  ïi'-ieeot  d;hydrocarbures liquides dà  première classe'
+SECTION I. — Dispositions générales.
 
-AnncrE  PREMTER' -La Société  communautaire  de stockage de Nouadhibo., .iupJ'îeJo-ÀtÈ"  l'c'S.'N' est -autorisé" d-11: îà "ËtîJiiili"u -n*e"i ài-"piei'  à  installer  à  Nouadhibou'  sur une parcelle  faisant p*ti;-Ë;"iiit"-t"ttci"t numéro  18' un dépôt de liquides  inRammaui"s-âe  fremicre  classe'  constitué  par:
+ARTICLE PREMIER. — La Société communautaire de stockage de Nouadhibou ci-après dénommée S.C.S.N. est autorisée dans les conditions fixées ci-après, à installer à Nouadhibou, sur une parcelle faisant partie du titre foncier numéro 18, un dépôt de liquides inflammables de première classe, constitué par :
 
-Deux Éservoirs  aériens  de 250 m3 destinés au stoekage a'"t.àttc"  aviation;
+Deux réservoirs aériens de 250 m³ destinés au stockage d'essence aviation ;
+Un réservoir aérien de 250 m³ destiné au stockage d'essence automobile ;
+Deux réservoirs aériens de 250 m³ destinés au stockage de pétrole (pétrole lampant et carburéacteur) ;
+Deux réservoirs aériens respectivement de 1 600 et 180 m³ destinés au stockage de gas-oil et fuel domestique (diesel-oil) ;
+Un réservoir aérien de 2 660 m³ destiné au stockage de fuel-oil.
 
---O"t* réservoirs  aériens de 250 m3 destinés au stockage  de paT"Ë'tpèiiàle lampant et çarburéacteur)  ;
+Ce dépôt sera approvisionné par mer au moyen d'une canalisation allant jusqu'au port.
 
-Un réservoir  aérien de 250 m3 destiné au stockage  d'essence autoÀobile;
+Il sera directement branché sur une installation de distribution à la pêche sur le port.
 
-Deux  réservoirs  aériens  respectivement  de 1600 et 180 m' destinés au stockage Ë;;Jtf ;i  tu"I  d"*ustique  (diesel-oil);
-
-Ce dépôt sera approvisionné  par mer au moyen d'une canalisation  allant  jusqu'au  Port'
-
-Un léseryoir  aérien at  ZSîO m3 destiné  au stockage  de fuel-oil.
-
-Il  sera directement  branché sur une rnstallation  de distribution à la Pêche sur le Port'
-
-Il  sera muni  'd'instalùtions  perrnettant  le chargement  des camions-citernes'
-
-t,
-
-k,
-
-lt
-
-I
+Il sera muni d'installations permettant le chargement des camions-citernes.
 
 [[END OF PAGE 29]]
 
@@ -2397,185 +2289,153 @@ I
 
 320
 
-JOURNAT OFFTCTEL  Dp.H  RhpugllglJE  ISLAMTQUE  DE MAURTTANTE
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
-27 aoltt 1969
+27 août 1969
 
-_,1:1. ?. ,-C. {epOi  sera situé  er installé conformémenr  aux prans  er a la notice joints  à la,demande..  Tout projet  a" m"Jification  de ces prani devra uuu"iià-.earisatiôn "r.irË-rËËË d'une déctaration  au ministère  â"-1,r"à".il;ii."u;"ïHi Mines (direction  des Mines et de Ia GeJàgie).
+ART. 2. — Ce dépôt sera situé et installé conformément aux plans et à la notice joints à la demande. Tout projet de modification de ces plans devra avant sa réalisation faire l'objet d'une déclaration au ministère de l'Industrialisation et des Mines (direction des Mines et de la Géologie).
 
-- Anr. 3. -L,installation  projetée.appartient  à la première classe  des étabrissementr  autig"i.,r*,  i"iiruor""  ou incommodes. Elle figure sous  le nu.rnqrq. iSg, "iiî{"-i, paragraphe  < a > cle la nomenclature  annexée  à l,ar#té  gà"e.ui'";  l.ùAlMâu r+ ,"ï tembre 1955, portant  classement  aËsaits etàbii;;;;;rË r'T ùv'
+ART. 3. — L'installation projetée appartient à la première classe des établissements dangereux, insalubres ou incommodes. Elle figure sous le numéro 259, article 2, paragraphe « a » de la nomenclature annexée à l'arrêté général n° 7.148/M du 14 septembre 1955, portant classement desdits établissements.
 
-- Anr. 4. -Toirtes le.s 5é.gentions,,manipulations et expéditions dhydrocarbures  seront faites autant  ffi-possibre  à ra rutnière du jour.  Si un autre  éclairage est nécàssaire,  il ne p.;;;;;;; assure que par des lampes_életcriques  à ineandescei;.  pir;J;; sous globe étanche. L,installation  iera conform;  ;;;;';;; tion_s d9 l'article 153 du règlemenr à""è*e  a f,arrete'gZnJrâf n" 5.926/Tp du 2g octobre  tD5O.
+ART. 4. — Toutes les réceptions, manipulations et expéditions d'hydrocarbures seront faites autant que possible à la lumière du jour. Si un autre éclairage est nécessaire, il ne pourra être assuré que par des lampes électriques à incandescence placées sous globe étanche. L'installation sera conforme aux prescriptions de l'article 153 du règlement annexé à l'arrêté général n° 5.926/TP du 28 octobre 1950.
 
-, Anr. 5. -Une consigne d,incendie  ,"ru ét"bli",  elle définira le matériel  d'extinction -qui doit ."  tràru.. dans l'enceinte du dépôt et les manæuvres  ,à  exécut".  e'  cà,  àË";;";;; i; nom des personnes  désignées  pour y prendre  part.  Elle pr"...i* des essais _périodiques,  au rnoins  setaertrieti,  a".ti"èr'a -"ârrî tater que Ie matériel  est en.bon état et que  t" p"..o.rrr.i-"s1 préparé  à en faire usase.
+ART. 5. — Une consigne d'incendie sera établie, elle définira le matériel d'extinction qui doit se trouver dans l'enceinte du dépôt et les manœuvres à exécuter en cas d'incendie avec le nom des personnes désignées pour y prendre part. Elle prescrira des essais périodiques, au moins semestriels, destinés à constater que le matériel est en bon état et que le personnel est préparé à en faire usage.
 
-Des extincteurs  à p9u$re  judicieusement  répartis seront placés  à l'intérieur  du âepôt.
+Des extincteurs à poudre judicieusement répartis seront placés à l'intérieur du dépôt.
 
-Des tas de sable avec pelle  seront également aménagés  à
+Des tas de sable avec pelle seront également aménagés à l'intérieur.
 
-l'intérieur.
+ART. 6. — Il est interdit d'allumer du feu, d'en apporter et de fumer dans le dépôt ou à proximité.
 
-Anr. 6. -Il  est interdit d,allumer  du feu, d,en apporter  et de fumer dans le dépôt ou a p.oximite.--
+Cette interdiction sera affichée en français et en arabe sur la clôture et à l'intérieur du dépôt.
 
--c-gt1e  interdiction  sera affichée en français  et en arabe sur la clôture  et à llntérieur  du dépôt.
+Un préposé responsable sera désigné pour assister aux entrées et aux sorties d'hydrocarbures et d'une façon générale à chaque ouverture du dépôt.
 
-entrées et aux sorties d,hydrocarbures  ét  O,"ne facàn-;;;é."I; à chaqrre  ouverture du dépôt.
+ART. 7. — Le dépôt sera protégé par une clôture d'une hauteur de 2 mètres minimum. Son accès sera interdit à toute personne étrangère au service.
 
-U1 nréOosé  responsable serà  désigné  pour assister aux
+ART. 8. — Le sol alentour des cuves sera aménagé en cuvette de rétention imperméable, de capacité suffisante pour qu'en cas de rupture d'un réservoir les liquides inflammables ne puissent pas s'écouler au dehors.
 
-. Anr..7. -Le dépôt se_ra protégé  par une  clôlure  dtune hauteur de 2 mètres minimum. Son accèi  jera  interdit  a t"i" p"rr""iâ étrangère  au service.
+ART. 9. — L'établissement devra satisfaire à tous les règlements en vigueur relatifs aux établissements dangereux, insalubres ou incommodes, notamment aux « Règles d'aménagement intérieur des dépôts d'hydrocarbures » approuvées par la Commission interministérielle des dépôts d'hydrocarbures dans sa séance du 20 avril 1948.
 
--enr. 8. -Le sol alentour des cuves  sera aménagé  en cuvette de rétention  imperméable,  de capacité suffi.sante pour qu,en  cas de rupture d'un réservoir les liqïid".  i"nuà-"UÈ, ""'p"ir.è"i pas s'écouler  au dehors.
+D'une manière générale, et indépendamment des prescriptions spéciales prévues ci-dessus, l'établissement sera soumis aux dispositions réglementaires concernant l'urbanisme, l'hygiène et la sécurité des travailleurs.
 
-- Anr. 9. -L'établissement  devra satisfaire  à tous les rèslem€nts en  .vigueur  relatifs aux établiss";;;t,  d;;;;;;,'trr"j;Iu-bres  ou incommodes,  notamment  aux * Règles  d,fi;;;g";;; Tl9î:"..d9s dgnpts.  d'hydrocarbur"r,  upp.ôrrvées par  Ë ô;; mrsslon rnterministérieile  des dépôts d'hydrocarbuies  dans sa séance du 20 avril 1948.
+ART. 10. — Le dépôt ne pourra être mis en service qu'après constatation de l'observation des prescriptions ci-dessus par un agent de l'inspection des Établissements classés désigné par le directeur des Mines et de la Géologie.
 
-..^P^'rl:._T_anière générale,_  et indépendamment  des- prescrip uons-.  specrales prévues ci_dessus, I'établissement  sera soumis 1li ^di  : g9.i1ion  s réglementaires  concernant I'urbanismg  lh-t;;;;
+Par la suite, il pourra être visité à n'importe quel moment par les agents de l'inspection des établissements classés.
 
-et Ia secunte des travailleurs.
+ART. 11. — Ce dépôt sera soumis aux taxes en vigueur en matière d'établissements dangereux, insalubres ou incommodes. La surface imposable à ce titre est réputée égale à 8 075 m².
 
-- Anr, lp. --Le dépôt ne pouna  être  mis en service qu,après constatation  de l'observation  des prescriptionr  ciaessus-'p#ïi ig:^1td" I'inspection des Etablissèments-  classés désigné tù,lË olrecteur  cles Mines et de la Géoloeie.
+ART. 12. — Cet établissement est inscrit sous le n° 255 du registre spécial de la direction des Mines et de la Géologie.
 
-Par la suite,  il  pgurra être  visiË à n,importe  quel mornent
+SECTION II. — Dispositions particulières.
 
-par,les agents  de I'inspection  des établissement,  ifuiJr.-^---^"
+ART. 13. — Le dépôt sera banalisé, la S.C.S.N. devra fournir du passage à toute société qui en fera la demande à condition :
 
-_^fy: 1,1:.;,.C" dépôt sera soumis aux taxes en vigueur  en matrere  d'établissements dangereux,  insalubres  ou incommodes. La surface  imposable  à ce titre esi réputée  égale  à  g075  m,.-'
+— Que le nouvel utilisateur justifie en Mauritanie de postes de vente au détail et non pas uniquement de fournitures à des industries consommatrices ou à des navires.
 
-- Anr. 12. -Cet établissement est inscrit sous  le'n" 255 du registre  spécial de la direction  des Mines et de Ia Géolosiè.
+— Qu'il accepte d'acquérir dans la S.C.S.N. une part des investissements réévalués engagés dans la construction du dépôt, de façon qu'une fois cette opération réalisée, chaque participation soit égale.
 
-Srcrron  IL  _
+Cependant, dans le cas où le nouvel utilisateur n'accepterait pas de devenir actionnaire de la S.C.S.N. comme prévu ci-dessus, tout en justifiant de postes de vente au détail, le droit de passage en dépôt qui lui serait consenti serait égal au taux homologué officiellement, majoré d'un pourcentage à déterminer d'accord partie entre le gouvernement et la S.C.S.N.
 
-Dispositions particulières
+En contrepartie, la Mauritanie s'engage à concéder à la S.C.S.N. pendant une période de dix années à compter de la date d'ouverture du dépôt, et pour tous les produits dont le stockage prévu à l'article premier aura été réalisé, l'exclusivité pour l'importation, la réception, le stockage et la distribution à partir du dépôt des hydrocarbures destinés à la consommation publique et privée de Nouadhibou et de ses environs (activités terrestres, activités aériennes et activités marines). Toutefois, cette exclusivité ne s'appliquera pas aux consommations de la Mi.FER.MA.
 
-,.- tlt. 13. -Le dépôt .sera banalisé,  la S.C.S.N.  devra  fournir €ru  passage  à toute société  qui  en rerâ  u àemande  à conditi*n:
+Par ailleurs, la S.C.S.N. est tenue pendant la même période de dix ans de financer et réaliser les équipements et extensions nécessaires à la satisfaction des besoins de la zone de desserte du dépôt. Si de tels investissements étaient réalisés postérieurement à la deuxième année d'ouverture du dépôt, une nouvelle période d'exclusivité de dix ans serait décomptée pour l'ensemble du dépôt à partir de la date d'achèvement des nouveaux investissements, sans que la durée totale de l'exclusivité puisse dépasser vingt ans à compter de la date de mise en service du dépôt.
 
--Que Ie nouvel  utilisateirr justiûe  en Mauritanie,  de postes de.venre  au détail  èt:gl pas uniquement  de fo";;iir,;;-;;;; industriçÀ  consommatnces  ou à des navires.
+ART. 14. — La ou les sources d'approvisionnement du dépôt seront déterminées en accord avec l'administration. Toutefois, les sources d'approvisionnement des produits destinés aux consommateurs livrés sous contrats internationaux resteront au choix des distributeurs. Une structure de prix ex-dépôt (pour tous les produits livrés) sera présentée à l'approbation de l'administration selon une périodicité qui sera fixée en accord avec la direction des Mines.
 
-._..:.9: r_t- accepte.  d,acquérir  dans  la S.C.S.N.  une part des rnvesrrssements  réévalu^és  engagés  dans  la """rtr".-tiâ" ,lï 3:?:119. façon. qu'une rots "eite-opé;;" réatisée,  chaque.par, trctpation  soit égale.
+SECTION III. — Dispositions diverses.
 
-Cependant,  dans le gas gù le _nouvel utilisateur n,accepterait pas de devenir actionnaire  de la S.C.S.ti. "o*_" prévu  ci_dessus, tout en justifiant de _postes de vente  u., détuil-  Ë à;;^Ë;;;: :1Ce.en  jegô-{  Oui lui serait consenri  serait égal au taux  hÀ;_ lo.gué officiellement,  majoré A,un pourclntag"  à  déterminer d'accord partie  entre le "gouve.nËm;r-;;
+ART. 15. — Toutes dispositions antérieures contraires au présent arrêté, notamment l'arrêté n° 93/HCIM/MI du 27 février 1967 autorisant la Société Mobil Oil de l'A.O. à installer à Nouadhibou un dépôt d'hydrocarbures classé sous le n° 233 sont annulées.
 
-^ ^Er -contrepartie, la Mauritanie  s,engage  à  concjder  à  la S.C.S.N. pendant  une .période à" ai-àiie". à compter  de Ja date d'ouverrure  clu dèpôt,  et p""r--t""I'r",  p6à;iil-;"; i; stocka'e  prévu  à llarticie  p..*iè"  u".Iïre "euUre, l,exclusivité pour l'importation,  la- recôption,  f" ,io"f.uge  et Ia distribution à partir  du dépôt des hydrôarbures  à;.;i"é-; a ra conîom;;;i;; publique  et privée  de  .Nouadhib; "i;;'';;s environs (activités terrestres,  activités  aériennes "t u"iiuiier marines).  Toutefois, cette-exclusivité  ne s,appliquera  pu. u.r* -"o.r"ommations de la Mi.FER.MA.
+ART. 16. — Le Secrétaire général du ministère de l'Industrialisation et des Mines est chargé de l'exécution du présent arrêté.
 
-Ia S.C.S.N.
+ARRÊTÉ n° 0527 du 8 août 1960 portant abrogation d'un arrêté d'autorisation d'ouverture d'un établissement dangereux, insalubre ou incommode rangé dans la 2e classe (n° 43).
 
-Par ailleurs,  tu S.9.1.I, €st  renue pendant  la même  période de dix ans de financer  et réarisei  iËr  Ëàuiî"-"nrs et extensions nécessaires  à la satisfaction.  cles  u"roi.,J-à'"  ra zone  de desserte du dépôt.  Si de rels investisièmànl"'ËLËit réarisés  postérieu_ rement à la deuxième-  année d,ouvertuie-Ju  AepOt,  une nouvelle période  d'exclusivité  de dix u"" i"iàit-àéËàmptee pour 'ensemP-T-E^{31>9Ià partir  a"- ra àui"-âà"îù""*"nt  des nouveaux rnvestlssements,  sans que la durée totare  de I'exclusivrté-ili..; dépasser vingt ans à compter de la daie de mise en service du dépôt.
-
-Anr. 14. -La ou les_ sources  d,approvisionnemenl  du dépôt seront déterminées  en accord  u"à"-rTuJàiïistration.  Toutefôis. ll1^-.".tr"9. d'ap-provrsronnement  des produits  destinés  aux consommateurs  livrés  sous contrats  iniernati""u;;  ;;i.r;;; au choix des distributeurs.  Une ,t*"i".Ë'îË prix ex_d.épôt (pour tous les produits  livrés).sera.prere"ie"  I'làiproUation  de l,admi_ nistration  selon une périodiJi;;-;;;".Jr"i*e" en accord avec
-
-la direction  des Mines.
-
-SrcrroN  III.
-
-Anr. 15. _ Toutes dispositions  antéfieures  contraires au,pré_ senr arrêté, notammenr_  I,arrêté "" siTHërÀ, /Mi. d"-  ù ?;"Ë;; 1967  autorisanr  la qo.igle U-"Uif  Oif'la! ra.O.  à instalter  à Nouadhibou  un dépôt a rtvà.à.".u,iË, îasse sous le n" 233 sont annulées.
-
--Dispositions  dhterses.
-
-ARr. 16. -Le secrétaire général  du ministère de l,rnd.ustriaIisation "''.' ï" "1*';uj1;1,''"  t:  Èid;'ï;Ëi'l
-
-ARRETE  n" 0527 d.u  g  août 196û portantt  abrogation  tun arrêté d' aut orisation d, ouv ertur e d, un' ét  ablii  siment  dangereux,  insatubré  ou incommode  rangé iais--ià*i"-'âorr"  (;:-i;;-, "*-
-
-Anrrcrn rREMTER. -Lrarrêté n" 5/MI du 6 janvier  1954 aute risant'les  Etabrissements  Devès "t ôirà"--"T  à installer  et exploiter à Kaédi un dépôt de riquides  i"nu--ÂuLid;;Ët iË;; ti;. classe  des établissements  cr;ssés à;;;ËrË""]-i"r"r"bres ou incomlnodes  et inscrit sous  Ie n" 43 du."g-irt."-lpe"ial  de ra direction des Mines est abrogé pour compter  de Ia d;;;.tiiéË#.#HË:
+ARTICLE PREMIER. — L'arrêté n° 5/MI du 6 janvier 1954 autorisant les Établissements Devès et Chaumet à installer et exploiter à Kaédi un dépôt de liquides inflammables rangé dans la 2e classe des établissements classés dangereux, insalubres ou incommodes et inscrit sous le n° 43 du registre spécial de la direction des Mines est abrogé pour compter de la date du présent arrêté.
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-27 aoùt 1969
+27 août 1969
 
-Jo uRNAL'  oFFTcIEL; oe' lA' RepuBlrelu E lsr,n'uttoun' on'  ry4+jry114ry1
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
 321
 
-: ; ARir.  2. -: Les Etablissements  Devès et Chaumet  sont dispênsés 'd€:  verser  pour  ceÏ établissement les frais d'inspection et de contrôle  à iompter du 1'"* janvier  1967'
+ART. 2. — Les Établissements Devès et Chaumet sont dispensés de verser pour cet établissement les frais d'inspection et de contrôle à compter du 1er janvier 1967.
 
-- Anr. 3. -Le Secrétaire général  du ministère de l'Industria usatiàn  éi  des Mines est chargé de l,application  du présent  arrêté.
+ART. 3. — Le Secrétaire général du ministère de l'Industrialisation et des Mines est chargé de l'application du présent arrêté.
 
-ARRETE n" 0540 du L3 aoîtt  1969 autorisant  la Société  S.hell'--iiieiA à installer'et à exploiter à Kaédi, 4' région, un dépôt âi  ti'siiaes  inflammables -de ltre "1 2. catégories rangé dans 'ii z"' classe  des établissements  dangereux,  insalubres  ou incommodes  (n" 258).
+ARRÊTÉ n° 0540 du 13 août 1969 autorisant la Société Shell-Sénégal à installer et à exploiter à Kaédi, 4e région, un dépôt de liquides inflammables de 1re et 2e catégories rangé dans la 2e classe des établissements dangereux, insalubres ou incommodes (n° 258).
 
-An.rrcI-BPREMIER._LasociétéShelt-Sénégalestautoriséeà i"rîuii"i.t  à exploiter  à Kaédi sur le lot n' 6 du titre foncier  n" 7 "" âzpàr  de liquides inflammables  de 1"" et 2" catégories constitué  par :
+ARTICLE PREMIER. — La société Shell-Sénégal est autorisée à installer et à exploiter à Kaédi sur le lot n° 6 du titre foncier n° 7 un dépôt de liquides inflammables de 1re et 2e catégories constitué par :
 
---  _
+— un réservoir de 15 000 litres simplement enfoui destiné au stockage de l'essence,
+— un réservoir de 10 000 litres en fosse maçonnée destiné au stockage de l'essence,
+— un réservoir de 10 000 litres en fosse maçonnée, compartimenté, destiné au stockage de l'essence (4 000 l) et du pétrole (6 000 l),
+— un réservoir de 10 000 litres simplement enfoui destiné au stockage du gas-oil.
 
--un réservoir  de  15 000 litres  simplement  enfoui  destiné au stockage de l'essence,
+ART. 2. — Ce dépôt sera situé et installé conformément aux plans et à la notice joints à la demande. Tout projet de modification de ces plans devra avant sa réalisation faire l'objet d'une autorisation du ministre chargé des Mines.
 
--rÏn réservoir de l0 000 litres en fosse maçonnée'  compa.rtimente  destiné au stockage  de l'essence  (4 000 l) et du pétrole 6 000 l), -  -  -
+ART. 3. — L'installation projetée appartient à la 2e classe des établissements dangereux, insalubres ou incommodes. Elle figure sous le n° 259, article A, paragraphe « 2 », alinéa « b » de la nomenclature annexée à l'arrêté général n° 7.148/M du 14 septembre 1955, portant classement desdits établissements.
 
-"" Ëservoir oe t0 ôoo  litres en fosse maçonnée destiné  au stockage  de l'essence,
+ART. 4. — Toutes les réceptions, manipulations et expéditions d'hydrocarbures seront faites autant que possible à la lumière du jour. Si un autre éclairage est nécessaire, il ne pourra être assuré que par des lampes électriques à incandescence placées sous globe étanche. L'installation sera conforme aux prescriptions de l'article 153 du règlement annexé à l'arrêté général n° 5.926/TP du 28 octobre 1950.
 
-;; réservoir  de 10 000 litres  simplement  enfoui destiné au stockage  du  gas'oil'
+ART. 5. — Une consigne d'incendie sera établie, elle définira le matériel d'extinction qui devra se trouver dans l'enceinte du dépôt et les manœuvres à exécuter en cas d'incendie ainsi que le nom des personnes désignées pour y prendre part. Elle prescrira des essais périodiques, au moins semestriels, destinés à constater que le matériel est en bon état et que le personnel est préparé à en faire usage.
 
-- Anr. 2. -Ce dépôt sera situé et installé conformément  aux otun, et à la notice  joints à la demande' Tout proj-et de-modiffili*o;'d" ;"; pt.rri d"u.u  avant sa réalisation faire I'objet dL,.t" urto.isation  du ministre  chargé  des Mines'
+Des extincteurs judicieusement répartis seront placés à l'intérieur du dépôt.
 
-- Anr. 3. -_  L'installation  projetée  appartient à la 2" cl1s.:e des établissements dangereui, insalubres ou incommodes'  F'lle frô.;" t;;; Ë n'  259, àrticte  A,  .paragraphe  " 2 u' lliné3- I b. ' de la nomenclat,rr"-'anrrexée à l'ârrëté  généry1  n" 7'148/M  du
+Des tas de sable meuble avec pelles seront également aménagés à l'intérieur du dépôt.
 
-- i+ ,"pt.."u.e  1g55, portant classement  desdits  établissements.
+ART. 6. — Il est interdit d'allumer du feu, d'en apporter et de fumer dans le dépôt ou à proximité.
 
-- Anr. 4. -Toutes les réceptions,  manipulations  et expéditions d hydrocarbures  seront faites autant Oue possift:  à-11--t:*f:: du jour, Si un autre éclairage est nécessaire, il ne pourra etre ;;,i;J  q"" par des -tampes Zlectriqles à incandescence -9]11-9 ious  gldbe ètanche.  L'installation  Sera conforme  aux prescrrpiloÀ -4" l'article 153 du règlement  annexé à l'arrêté général
+Cette interdiction sera affichée en français et en arabe à proximité du dépôt.
 
-- n" 5.926/1P du 28 octobre 1950.
+Un préposé responsable sera désigné pour assister aux entrées et aux sorties d'hydrocarbures et d'une façon générale à chaque ouverture du dépôt.
 
-- Anr. 5. -Une consigne d'incendie sera établie'  elle définira r" '*àie.i"r o eitinction-  qui devra se trouver dans l'enceinte du dépôt et les manæuvrès à exécuter en cas d'incendie  ainsi que le nom des p".t""""t  désignées  poyr y prendre.  part'.Elle ;;;;t;-à;, ..rài,  périodiquesl au moins semestriels'  destinés ;';;.;;";;";l; -^teti"iTtt en bon état et que le personnel est préparé  à en faire usage'
+ART. 7. — L'établissement devra satisfaire à tous les règlements en vigueur relatifs aux établissements dangereux, insalubres ou incommodes.
 
-Des tas de sable meuble  avec pelles seront également  aménagés à l'intérieur  du déPôt'
+D'une manière générale, l'établissement sera soumis aux dispositions réglementaires concernant l'urbanisme, l'hygiène et la sécurité des travailleurs.
 
-Des extincte.rt,  :taici"uïment  répartis  seront  placés à I'intérieur du déPôt.
+ART. 8. — Le dépôt ne pourra être mis en service qu'après constatation de l'observation des prescriptions ci-dessus par un agent de l'Inspection des établissements classés désigné par le directeur des Mines et de la Géologie.
 
-- Anr. 6. -Il  est interdit  d'allumer  du feu' d'en apporter  et a" i"À"t  dans le dépôt ou à proximité'
+Par la suite, il pourra être visité à n'importe quel moment par les agents de l'Inspection des établissements classés.
 
-'  Un prépose responsable  sera désigné  p-our assister  aux entrées "t ",r*'"oiti"s d'hydr;;;bures  et d'urre façon'générale  à chaque ouverture du déPôt.
+ART. 9. — Cet établissement est inscrit sous le n° 258 du registre spécial de la direction des Mines et de la Géologie.
 
-Cette interdiction'sera  afficÈée  en français et en arabe  à proximité du déPôt.
+ART. 10. — Ce dépôt donnera lieu chaque année à la perception des taxes afférentes aux établissements dangereux, insalubres ou incommodes. Ces taxes, calculées sur une surface de 200 m² seront acquises pour l'année quelle que soit la durée de fonctionnement ou d'utilisation de l'établissement.
 
-- Anr. 7. -L'établissement  devra  satisfaire  à  tous les règlements  'en  vigueur ."iàtift 'aux  établissements  dangereux'  insa-
+ART. 11. — Les récépissés de déclaration d'ouverture d'établissements classés n° 352/MD/MIG du 23 août 1965, n° 354/MD/MIG du 23 août 1965 et n° 342/MD/MI du 16 septembre 1966 sont annulés.
 
-D'une manière  générale,  l'établissement  sera soumis  aux disooiaiË-, ï?,e1"*à";"rrl, "1r,""rr,urrt I'urbanisme,  I'hygiène et la èécurité  des travailleurs'
+ART. 12. — Le Secrétaire général du ministère de l'Industrialisation et des Mines est chargé de l'exécution du présent arrêté.
 
-- lubres ou incommodes'
+###### Ministère de l'Intérieur :
 
-Â*r. 8. -Le d.épôt ne pourra être  mi3 en service  qu'apres "orrriâtutio' de I'obiervation  des prescriptions cidessus  par u1{r ;;;;;-Ë iTnspection  des établissèments  classés désigné  par le ;i;;;t";r des ^Mines et de la Géologie'
+###### ACTES RÉGLEMENTAIRES :
 
---'ù;
+DÉCRET n° 69.278 du 6 août 1969 portant modification des limites territoriales de départements de la sixième région et rattachant l'arrondissement de Jedr-El-Mohguen au département de Rosso.
 
-là  suite, il  pourra être  visité à n'importe.  quel moment par les agents de I'Inspection  des établissements classes'
+ARTICLE PREMIER. — Les limites territoriales du département de Rosso, qui relève de la sixième région, sont modifiées ainsi qu'il suit :
 
-Anr. 9. -Cet établissement est-inscrit  sous. t"^1:,-2ll  d" registre  spécial de la direction  des Mines et de la treologle'
+À l'ouest : (limites avec le département de Keur-Macène) ;
 
-.Anr.10._Cedépôtdonneralieuchaqueannéeàlapercep tion-âes  taxes aeéient"r. un* étabtissernents  dairgereul,  io.1 lubres ou incornmodes.-ô".  lu*"t, calculées sur une surface  de iio';';';;;-;",ù;;; p;"; ru""é" -99"!9. qtre soit la durée de fà""t1""""-ent  ou d'ufilisation  de l'établissement'
+Au nord : (limites avec le département de Méderdra) :
+— une ligne imaginaire partant du village de Tiguamatine (département de Rosso), situé sur la route nationale n° 2, passant par Bouhajra (département de Rosso) et par Tite (département de Rosso) et rejoignant la piste Rosso-Boutilimit au puits de Bafraîchiya (département de R'Kiz).
 
-Anr. 1.1. : Les récépissés de déclaration d'ouverture  {l-él+P]S: ,"-ïr,J.-ijussés n' si-z7n'roln'r1c  ay  ?|-août 1965' n" 354/MD/ MIG du 23 août tsoi-Lt'-":- lcitNtotMlt  du 16 septembre  1966 sont annulés.
+À l'est : (limites avec le département de R'Kiz) une ligne imaginaire partant de Bafréichiya et suivant le méridien 15° 30' au fleuve Sénégal.
 
-Anr.  12. trialisation arrêté. -Le Secrétaire  général  du ministgre  {e I'Induset d;; ùi""t "tt àtrargé de l'èxécution  du  présent
+Au sud : la frontière entre la République du Sénégal et la Mauritanie.
 
-c
+ART. 2. — L'arrondissement de Jedr-El-Mohguen, créé par décret n° 65.099 du 4 juin 1965, précédemment rattaché au département de R'Kiz, relève du département de Rosso.
 
-###### Ministère de l'Intérieur  :
+ART. 3. — Les limites territoriales du département de R'Kiz sont modifiées ainsi qu'il suit :
 
-###### ACTES RECLEMENTAIRES  :
+À l'ouest : les limites orientales du département de Rosso ainsi qu'il est dit à l'article premier du présent décret ; du puits de Bafréichiya à Benayamoz, les limites avec le département de Méderdra sans changement.
 
-DECRET n"  69-278  du 6 août 1969 por,tant  modification  des limites  territoriales  de départements  de-Ia sixième  tégion  et rattachant l'arrondissem"àt d" Jedr-Et-Mohguen au départe' ment de Rosso.
+Au nord : les limites ainsi qu'elles sont fixées par l'alinéa 2 de l'article premier du décret n° 66.024 du 27 janvier 1966. Les puits de Boutembeskite et de Boutoueidima, précédemment rattachés au département de R'Kiz, relèvent du département de Boutilimit.
 
-AnrrcLn  PREMTER. -Les limites territorlales  du département A" -no."o, qui relève  de la sixième  région'  sont modifiées ainsi qu'il suit  :
-
-A l'ouest :  (limites  avec le département de Keur-Macène)  ;
-
-Au nord:  (limites avec le département  de Méderdra):
-
-- A l'est:  (lirnites  url"" t"  département  de R'Kiz) une ligne imaginaire  partant A" nuftei"niyt  et suivani le méridien 15' 30'
-
-. -une ligne imaginaire  partant du village de Tiguamatine (dépJ;;;;--àa n"t"""1,  situé sur,la-route  nationale  n" 2'  pas,àrrt  p"r Bouhajra  (département de Rosso) et par Tite (département de Rosso) et rejoignant la  pistè-. RossoBoutilimit  au priit a. Bafraichiya  (département de R'Kiz)'
-
-""  iî:7::iiu?l""r,ur"  entre la République du Sénégal  et la Mauritanie.
-
-- Anr. 2. -L'arrondissement  de Jedr-El-Mohguen'  créé -par décret n" 65.099 du 4 juin 1965' précédemment-rattaché au âepu*"t""",  de R'Kiz, relève  du département  de Rosso'
-
-- Anr'3._LeslimitesterritorialesdudépartementdeR'Krz sont modifiées ainsi qu'il suit  :
-
-Au noril: les limites ainsi  qri'elles  sont fixées  par l'alinéa  2 de farticte  premier  du décret i" ee'OZq du 27  janvier  1966; Les p"f"  J"  Btutembeskite  et de Boutoueidima'  précédemment rattachés au département de RTfiz' relèvent  du département  de Boutilimit.
-
-A î,ouest..  les limites orientales  du département.  de Rosso "t*t ';;îî-estàit  à  I'article  premiel du présent décret-;.  du ;;il â;  Bafreichiya  à Benavamoz'  les limites avec le dépariement de Méderdra sans changement'
-
-Au sul et à l'est.' sans changement'
+Au sud et à l'est : sans changement.
 
 [[END OF PAGE 31]]
 
@@ -2583,259 +2443,191 @@ Au sul et à l'est.' sans changement'
 
 322
 
-JOTJRNAL OFFICIEL  qE U  REPUBLIQUE ISLIIMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
-27 aoùt 1969
+27 août 1969
 
-Anr. 4. -Les limites  territoriales  du département de Méderdra sont modifiées ainsi qu,il suit:
+ART. 4. — Les limites territoriales du département de Méderdra sont modifiées ainsi qu'il suit :
 
-At'ouest.'la côte de I'océan  A,tlantique  entre, au Sud  la limite du département de Keur-Macène  et, ari nord, la limite  du dépar_ tement de Beyla.
+À l'ouest : la côte de l'océan Atlantique entre, au Sud la limite du département de Keur-Macène et, au nord, la limite du département de Beyla.
 
-Au sud .. les limites nord du département de Keur_Macène jusqu'à  Tiguematine; de ce point, la limite Nord du département de Rosso.
+Au sud : les limites nord du département de Keur-Macène jusqu'à Tiguematine ; de ce point, la limite Nord du département de Rosso.
 
-A t'est.. les limites avec  Ie département de R'Kiz (sans chan_ gement)  et les limites  âvec  le département de Boutilimit. suivant une ligne imaginaire en ligne brisée partant de Benyâmoz passant par Tin-Mohamed  (Boutilimit)  et aboutissant  à Aoudach (département  de Beyla).
+À l'est : les limites avec le département de R'Kiz (sans changement) et les limites avec le département de Boutilimit, suivant une ligne imaginaire en ligne brisée partant de Benyamoz passant par Tin-Mohamed (Boutilimit) et aboutissant à Aoudach (département de Beyla).
 
-Au nord..  les limites  sud du département de Beyla.
+Au nord : les limites sud du département de Beyla.
 
-Anr. 5. -Les limites territoriales du limit sont modifiées ainsi qu,il suit : département de Bouti
+ART. 5. — Les limites territoriales du département de Boutilimit sont modifiées ainsi qu'il suit :
 
-A l'ouest,.  les limites orientales  du Le reste sans changement. département  de Beyla.
+À l'ouest : les limites orientales du département de Beyla.
+Le reste sans changement.
 
-DECRET  n" 69.282 du 6 août 1969 portant  création cl'un poste d'adioint au préfet  d,Akjouit.
+DÉCRET n° 69.282 du 6 août 1969 portant création d'un poste d'adjoint au préfet d'Akjoujt.
 
-Anrrcrn IREMTER. -Il  est  cr# un poste d,adjoint  au préfet du département dhkjoujt.
+ARTICLE PREMIER. — Il est créé un poste d'adjoint au préfet du département d'Akjoujt.
 
-Le titulaire de ce poste  est nommé  par décret sur proposition  du ministre de l,Intérieur
+Le titulaire de ce poste est nommé par décret sur proposition du ministre de l'Intérieur.
 
--Anr. 2. -L'adjoint au préfet réside obligatoirement  au cheflieu dr.l département.
+ART. 2. — L'adjoint au préfet réside obligatoirement au chef-lieu du département.
 
-, L'adjoint remplace  de plein d.roit le préfet  en cas d,absence ou d'empêchement.
+Il assiste le préfet. Celui-ci peut lui consentir une délégation de signature dont il fixe l'étendue.
 
-. Il  assiste  tf nr{fe1. Celuici peut  Iui consentir  une délégation de signature dont il fixe l'étendue.
+L'adjoint remplace de plein droit le préfet en cas d'absence ou d'empêchement.
 
-Il  devient dans ce cas et pour la durée  de I'absence  ou cle I'empêchement  détenteur  de tous les pouvoirs  du préfet  et en assume les responsabilités,
+Il devient dans ce cas et pour la durée de l'absence ou de l'empêchement détenteur de tous les pouvoirs du préfet et en assume les responsabilités.
 
-Anr. 3. -L'adjoint au préfet bénéficie  des indemnités et des prestations  en nature allouées  aux chefs d,arrondissement  par Ie décret n" 69.001  du 2 janvier 1969.
+ART. 3. — L'adjoint au préfet bénéficie des indemnités et des prestations en nature allouées aux chefs d'arrondissement par le décret n° 69.001 du 2 janvier 1969.
 
-Il  porte l'uniforme  des chefs d,arrondissement  fixé décret.  n" 69.076  du 5 février 1969  et reçoit  I'indemnité à cet effet par ledit décret. par le prévue
+Il porte l'uniforme des chefs d'arrondissement fixé par le décret n° 69.076 du 5 février 1969 et reçoit l'indemnité prévue à cet effet par ledit décret.
 
-Anr. 4. -Le ministre de l,Intérieur,  le ministre chargé de Ia Fonction publique  et le ministre des Finances sont chareés de l'exécution du présent décret.
+ART. 4. — Le ministre de l'Intérieur, le ministre chargé de la Fonction publique et le ministre des Finances sont chargés de l'exécution du présent décret.
 
-ARRETE  n" 0550 du 19 aoû.t 1969 rattachant  les coltecti,itités .  au département d'Aoujeft.
+ARRÊTÉ n° 0550 du 19 août 1969 rattachant les collectivités au département d'Aoujeft.
 
-Anrrcle nREMTER. -Les fractions, ci-après désignées,  sont rattachées au département d'Aoujeft  :
+ARTICLE PREMIER. — Les fractions, ci-après désignées, sont rattachées au département d'Aoujeft :
 
-Fractions de:
+Fractions de :
+Smacid Aoujeft, Oulad Elemine, Lemhaisser Saffra, Lemhaisser Chouna, Idaoua El Hadj, Ahel Chmoud, Megroud, Moucheurs, Ahel Sidi Abdellah (moins Ehel Moustapha), Oulad Boulehya, Ghoudhoufs, Ahel Cheikh ould Bakar, Ahel Sid Ahmed Soufarès, Oulad Sassi, Ahel Lafrak, Mechdouf Lembaje, Mechdouf Lemarna.
 
-Smacid  Aoujeft,  Oulad Elemine,  Lemhaisser  Saffra,  Lemhais191 ,Chguna, Idaoua El Hadj, Ahel Chmoud,  Megroud,  Moucheurs, Ahèl Sidi Abdellah (moins  Ehel Mcustapha), Oulad Boulehya, Ghoudhoufs,  Ahel Cheikh ould Bakar,  Ahel Sid Ahmed SoufarLs, Oulad Sassi, Ahel Lafrak, Mechdouf Lembaje, Mechdouf Lemarna.
+ART. 2. — Le Secrétaire général du ministère de l'Intérieur et le Gouverneur de la VIIe Région sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
 
-AIt.^?.  -  Le Secrétaire général.  du ministère d.e |,Intérieur et le Gouverneur  de la VII" Région sont chargés, chacon  en ce qui le concerne, de I'exécution  àu présent  arr€té.
+ARRÊTÉ n° 0551 du 19 août 1969 rattachant des collectivités et des tribus au département de Beyla.
 
-ARRETE  n" 0551  du 19 août 1969 rattachant.  des collectivités et des tribus.au  département  de Beyla,
+ARTICLE PREMIER. — Les tribus et collectivités, désignés ci-après, sont rattachées au département de Beyla :
 
-Anrrcru rREMTER. -Les tribus et collectivités, désignés  ci_ après, soxt rattachées au département  de Beyla :
-
-- l" P:récéd.emmènt  rattachées  au département de Nouakchott:
+1° Précédemment rattachées au département de Nouakchott :
 
 Tribus | Fractions
---- | --- | ---
-- | Kouaffif. Kohel.
-Lemzazga. | - - | Ehel Ghadour.
-Medlech. | - - - - | Ehel Brahimeït. Ehel Mohamed Moloud. Ehel Ebba. Idojennala.
-Ehel ldaghoudia. | - - | Ahel Egda Yahya. Ahel Babouk.
-Ichouganine. | - - | Ahel Voudia. Ahel Elemine. Méi2ani.
-Ehel Amar Egde Biya. | - - - - - - | Ahel Ahel Bah. Ahel Mohamed Hamou. Ahel Bah Eyoub. Ahel Habib. AheI Moctar.
-- - - | Ehel Ahmed Amar. Ehel Abdallahi. Ehel Mahamen. Ehel Mahamen Seding.
-- - - | Ehel Abiboullahi. Idemijine. Ehel Moctar
-- | Lahi. Ehel
-- | Moctar. Ehel Abbass.
-- | Mohameden.
-Ahel
--
-Ehel
-Hacen.
+Euleb. | Kouaffif ; Kohel ; Ehel Ghadour.
+Lemzazga. | Ehel Brahimeït ; Ehel Mohamed Moloud ; Ehel Ebba.
+Medlech. | Idojennala ; Ahel Mohameden Mahamd. ; Iido Amar.
+Ehel Idaghoudia. | Ahel Egda Yahya ; Ahel Babouk ; Ahel Voudia.
+Ichouganine. | Ahel Elemine ; Ahel Méïzani ; Ahel Bah ; Ahel Mohamed Hamou ; Ahel Bah Eyoub ; Ahel Habib ; Ahel Moctar.
+Ehel Amar Egde Biya. | Ehel Ahmed Amar ; Ehel Abdallahi ; Ehel Mahamen ; Ehel Mahamen Seding.
+Ehel Bouboubeïni. | Ehel Abiboullahi ; Idemijine ; Ehel Moctar Lahi ; Ehel Moctar ; Ehel Abbass ; Ahel Mohameden ; Ehel Hacen.
 
--
+2° Précédemment rattachées au département de Méderdra :
 
-- ratta.chées au département  de Méderd.ra: 2" Précédemment
+Tribu | Fractions
+Ideighoub. | Ahel Meine ; Ahel Malainine Ido ; Ehel Etfagha Moussa.
 
-Tribu Fractions Ahel Meine.
+3° Précédemment rattachées au département de Boutilimit :
 
--Ehel Etfagha  Moussa.
-
---Ahel Malainine Ido.
-
-rattachées au département d.e Boutilimit: 3" Précédemment
-
-Tribus Fractîons Ahel Ababek.
-
--Ahel Mazouz..
-
-Ideighoub.
-
-Idghmadek:
-
-i
+Tribus | Fractions
+Idghmadek: | Ahel Abâbek ; Ahel Mazouz.
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-27 AOTI 1969
+27 août 1969
 
-JOURNAL OFFICIEL  DE LA REPUBLIQUE  ISLAùTIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
-Tagounanet.
+323
 
-'!
+Idghmadek (suite) :
+— Oulad Boukhiar.
+— Ehel Mouneidi.
+— Ehel Ahemed Taek.
+— Ehel Aïnina.
+— Oulad Khiar.
+— Ehel Mabrouk.
+— Ehel Mabrouk.
+— Ehel Abass.
+— Ehel Mohamedou Bah.
+— Ehel Moustaph.
+— Ahel Moctar.
 
-- Oulad  Boukhiar.
+Tagounanet :
+— Ahel Leimath.
+— Ahel Moctar.
+— Idat Chfagha Ahel Mokh.
+— Oulad Ben Obek.
+— El Moctar Eyoub.
+— N'Guirda.
+— Ehel Ahmed M'Baye.
+— Ehel Ahmed Zein.
+— Ehel Zein Lemrabott.
+— Ehel Kouneïn.
+— Ehel Sleimana.
+— Ehel Moustaph.
+— Oulad Yahya Youssouf.
+— Oulad Yahya Ehel Zein.
+— Ehel Kane.
+— Idbemghar.
+— Ehel Khattar.
+— Ehel Taleb Elemine.
+— Ehel Abdi.
+— Oulad Boukhatar.
 
--Ehel Ahemed Taek.
+ART. 2. — Le secrétaire général du ministère de l'Intérieur et le gouverneur de la VIe Région sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
 
---Ehel Mouneidi.
+ARRÊTÉ n° 552 du 19 août 1969, rattachant des collectivités au département de Keur-Macène.
 
-- Ehel Ainina.
+ARTICLE PREMIER. — Les collectivités et tribus désignées ci-après, sont rattachées au département de Keur-Macène :
 
--Ehel Mabrouk.
-
--Oulad Khiar.
-
--Ehel Mabrouk.
-
---Ehel Mohamedou Bah.
-
--Ehel Abass.
-
-- Ehel Moustaph.
-
---Ahel Moctar.
-
-- Ahel Leimath.
-
---Idat Chfagha  Ahel Mokh.
-
--Ahel Moctai.
-
-- Oulad Ben Obek.
-
-. NrGuirda.
-
---El Mqctar  Eyoub.
-
-- Ehel Ahmed Zein.
-
----  Ehel Ahmed  M'Bave.
-
---Ehel Zein Lemrabott.
-
--._  Ehel Sleimana.
-
-- Ehel Kounein.
-
--Ehel Moustaph.
-
-- Oulad Yahya Ehel Zein.
-
--Oulad  Yahya Youssouf.
-
---Idbemghar,
-
--Ehel Kane.
-
-- Khattar.
-
--Ehel Abdi.
-
--.Ehel Ehel Taleb Elemine.
-
---Oulad Boukhatar.
-
-- Anr. 2. -Le secrétaire général  du ministère  de I'Intérieur et lé gouverneur  de la VI" Région sont çhargés, chacun  en ce qui le concerne,  de I'exécution du présent arrêté.
-
-ARRETE n? 552 du 19 août 1g69, rattachant d.es collecti,ttités au département de Keur-Macène.
-
-Anrrcle 'REMTER. Les collectivités et tribus désignées  ciaprès,  sont rattachées au département de Keur_Macène:
-
-1" Précédemment rattachées au d.épartement d.e Rosso:
+1° Précédemment rattachées au département de Rosso :
 
 Village de Keur-Macène.
-
-Fractions de Taghredent, Oulad Akchar, Ehel Louli. Ehel Deirik, Ehel N'Diak, Ehel Hamoni, Ehel  youba,  Ehel Etfagha, Oulaâ Mohamed,  Ehel Amar, Ehel Moustaph,  Ideidem  f,  ÈSai Boubek, Ehel Egdel  ame, Ehel N,Deria.
+Fractions de Taghredent, Oulad Akchar, Ehel Louli, Ehel Deirik, Ehel N'Diak, Ehel Hamoni, Ehel Youba, Ehel Etfagha, Oulad Mohamed, Ehel Amar, Ehel Moustaph, Ideidem I, Egdi Boubek, Ehel Egdel ame, Ehel N'Deria.
 
 Village de Dara.
+Fractions de Ehel Edga Eoubek, Ehel Etmane, Ehel Elfagha Ahmed, Chorfa Sidi Yaraf.
 
-Fractions de Ehel Edga Eoubek, Ehel F,tmane,  Ehel Elfagha Ahmed,  Chorfa  Sidi Yaraf;
+Fractions de Ehel Meyssarat, Oulad M'Barek II.
 
-Fractions de Ehel Meyssarat, Oulad  M,Barek II.
-
+Villages de N'Diago, Ndiémer, M'Boyo, Thiong, Diawos.
 Fractions de Ehel Mohamed Lamar.
 
-Villages  de N'Diago, Ndiémer, M,Boyo, Thiong,  Diawos.
-
-Villages  de Idjiwadj I, Idjiwadj II.
+Villages de Idjiwadj I, Idjiwadj II.
+Fractions de Ehel Egde Biyaye, Ehel N'Gourame.
 
 Village de Gad M'Barka.
+Fractions de Ehel Bouhoubeini, Ehel Chabane, Ehel Egd-Boubek, Oulad Choueikh.
 
-Fractions de Ehel Egde Biyaye, Ehet N,Gourame.
-
-Fractions  de Ehel Bouhoubeini,  Ehel Chabane, Ehel Egd_Bou-bek, Oulad Choueikh.
-
-Village  de Peulh  Bariel..
-
-Fraction  de Chef Mohamedine.
+Village de Peulh Bariel.
+Fraction de Chef Mohamedine.
 
 Village de Ghahra M'Barka.
-
 Fraction de Oulad Bousba.
 
-- Z" Précédemment  rattachées au départe,ment  de Méderdra:
+2° Précédemment rattachées au département de Méderdra :
 
-_-Tribu..  Idaoudj  ; t'ractions..  Ahel Moussa, Ahel Mahayna,  Ahel Yahyan Aoubeck,  Ahel Doff, Ahel Mahan ould Dlemine,'Ahel Abhard.
+Tribu : Idaoudj ; fractions : Ahel Moussa, Ahel Mahayna, Ahel Yahyan Aoubeck, Ahel Doff, Ahel Mahan ould Dlemine, Ahel Abhard.
 
-3" Prëcédemment  rattachées  au département de Nouakchott :
+3° Précédemment rattachées au département de Nouakchott :
 
-__ flOu; Tandgha  ; fractions:  Ahel Oubeid Ejda Mostaph, Ahel Voudié (clan Ahel Misk),  Ahel Mahamine Abdir
+Tribu : Tandgha ; fractions : Ahel Oubeïd Ejda Mostaph, Ahel Voudié (clan Ahel Misk), Ahel Mahamine Abdi.
+Tribu : El Methlouthé ; fractions : Idaj Balla, M'Derje Gourare.
+Tribu : Ah. Boubabéïni ; fractions : Ahel Moktar, Ahel N'Gourane, Ahel Abass.
+Tribu : Ichouganène ; fractions : Ahel Moktar, Ahel Elemine.
 
-Tribu : Ah. Boubabéini;  fractionl  air"t Moktar, Ahel N,Gou_
+ART. 2. — Le secrétaire général du ministère de l'Intérieur et le gouverneur de la VIe Région sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
 
-Tribu: El Methlouthé;  fractionsr Idaj Balla, M'Derje Gourare.
+###### ACTES DIVERS :
 
-rane,  Àhel  Abass.
+ARRÊTÉ n° 376 du 9 juin 1969, portant autorisation d'ouverture d'un bar.
 
-Tribu  : Ichouganène  ; t'ractions: Ahel Moktar, Ahel Elemine.
+ARTICLE PREMIER. — M. Guessan Antonin, né en 1938 à Bonua (Côte-d'Ivoire), domicilié à Nouakchott, est autorisé à exploiter, en qualité de propriétaire, un bar-restaurant à Akjoujt.
 
-- Anr. 2. -Le secrétaire  général  du ministère de l,Intérieur  et le gouverneur de la VI" Région  sont chargés, chacun "" "; ;;i i; concerne,  de l'exécution  du présent  arrêté..
+ART. 2. — Sont autorisées à être servies dans ledit établissement les boissons alcoolisées et alcooliques, telles qu'elles sont définies à l'article 20 du décret n° 65.003 du 21 janvier 1965.
 
-###### ACTES DIVERS:
+ART. 3. — Toute mutation dans la personne du propriétaire du fonds, ainsi que le transfert de cet établissement dans un autre lieu devra faire l'objet d'une nouvelle demande d'autorisation conformément aux dispositions de l'article 2 précité.
 
-ARRETE  n" 376 du 9  iuin  1969, portant autorisation d'ouverture d'un bar.
+ARRÊTÉ n° 504 du 25 juillet 1969, portant titularisation d'un élève-garde.
 
-Anrrcu eREMTER. -M. Guessan Antonin, né  en l93g à Bonua (Côte-d'Ivoire),  domicilié à NouaichJ;;;  ;Jrire'É"  ;"ïir;; en qualité  de propriétaire,  un bar_r:estaurant  à Akjouji
+ARTICLE PREMIER. — Pour compter du 1er juillet 1969, est titularisé à l'emploi de garde nationale de 1er échelon, l'élève-garde national Dicko Cheikh, matricule 1863, en service à la fanfare de Nouakchott.
 
-Anr. 2. -Sont autorisées  à être  servies dans ledit établissement les boissons alcoolisées "t ut"ortiq.rÀ,;;il";;;,"iË'.o.'t définies  à I'articte  20 du déiret  n. OS.Oôiâu  )l  janvier  1965.
+ARRÊTÉ n° 514 du 30 juillet 1969, portant affectation de certains magistrats.
 
-Anr. 3. -Toute mutation dans Ia personne  du propriétaire  du fonds, ainsi ,que le transfert  ae cei eiàùli.r"*""t  dans un autre lieu- devra  faire |objet  d'une nouveile demande  à;""trri*li." contorrnément aux dispositions de I'article 2 précité.
+ARTICLE PREMIER. — Les juges suppléants intérimaires dont le nom suit reçoivent pour compter du 1er septembre 1969 les affectations suivantes :
 
-o_
+— M. Fall Mohamed el Moustaphe, juge de section d'Atar est nommé juge de section de Néma (création).
+— M. Taleb Khyar ould Bounéma, juge suppléant intérimaire, en service à Nouadhibou, est affecté à la section de Néma (droit musulman).
+— M. Ahmedna ould Mohamed Malik, juge suppléant intérimaire, précédemment en service à Atar est affecté en qualité de juge à la suite au tribunal de première instance de Nouakchott (droit musulman).
 
-ARRETE n" 504 du 25  iuittet  1969, portant titularisation  d,un éIève-garde.
-
-AnrrcLe eREMTER. -Pour compter du 1"" juillet fSOS, e;t titularisé  à l'emploi de gaTde  nationale  de ler échelon,  f,éfeul_ garde na.tional  Dicko  Cheikh, matricule  1g63,  en ,"*i"" a fu fanfare de Nouakchott.
-
-o
-
-ARRETE n" 514 du 30  iuiltet  1.969, portant  affectation de certains magistrats.
-
-.A,nrrcr,B  PREMIER. -T.es  juges  suppléants  intérimaires  dont Ie nom suit reçoivent pour compter  du 1"" septembre 1969 Ies affectations suivantes:
-
--M. Fall Mohamed el Moustaphe,  juge  de section d,Atar est nommé juge de section de Néma  (création).
-
--Y. T:l:! Khyal ould Bounéma, juge  suppléanr intérimaire, en service  à Nouadhibou, est affecté  à la section de Néma  (droif musulman).
-
--M. Ahmedna ould Mohamed Malik, juge suppléant intérilnaire,  précédemment en service à Atar est ahectâ ên  qualité de juge  à la suite au tribunal de première instance  de Nôuakchott (droit musulman).
-
-Anr. 2. -Les frais de déplacement des intéressés  sont à la charge du budget  de I'Etat, chapitre  13, article p""rrri"".-----  -- DECISION  n' 1.473 du 5 août 1969, portant tectificatil  à la deci' -  -.idn 1.276,  portant désignation de membres du  iury  du concours pour le recrutement  de cadis.
+ART. 2. — Les frais de déplacement des intéressés sont à la charge du budget de l'État, chapitre 13, article premier.
 
 [[END OF PAGE 33]]
 
@@ -2843,183 +2635,189 @@ Anr. 2. -Les frais de déplacement des intéressés  sont à la charge du budget
 
 324
 
-JOUR.NAL OFFICIEL  DE T.A REPUBLTQUE ISLAMIQUE DE MAURITANIE
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
-27 aoû;t 1969
+27 août 1969
 
-ARTICLE PREMIER. _  L,article  premier de la décision susvisée au ti  juittet 1969  portant  désignation de membres  du jury est modifiée comme suit:
+DÉCISION n° 1.473 du 5 août 1969, portant rectificatif à la décision 1.276, portant désignation de membres du jury du concours pour le recrutement de cadis.
 
-<  Article  premier  nouveau. -Sont désignés  bomme membres a" :.*ô  ïiril-i,ârti"t"  t6 de.l'arrêré du 26 mai 1969 susvisé les masistrats dont le nom suit :
+ARTICLE PREMIER. — L'article premier de la décision susvisée du 18 juillet 1969 portant désignation de membres du jury est modifiée comme suit :
 
-'-ïM. Iù;Ë"â-s.i"À ould Addoud,  vice-présidenr du Tribunal de première  instance.
+« Article premier nouveau. — Sont désignés comme membres du jury visé à l'article 16 de l'arrêté du 26 mai 1969 susvisé les magistrats dont le nom suit :
 
-- Anr.2.-,M.TourabouldAbdelKader,chefdeserviceadj.oin.t, cnatgè des problèmes  musulmans  assurera le secrÉtariat  de la commission.
+» M. Mohamed Salem ould Addoud, vice-président du Tribunal de première instance.
 
-Le reste sans changernent.
+ART. 2. — M. Tourab ould Abdel Kader, chef de service adjoint, chargé des problèmes musulmans assurera le secrétariat de la commission.
 
-DECRET n" 69.283 du 6 août 1969, portont nomination  d'un chef -di iubdivision.
+Le reste sans changement.
 
-,
+DÉCRET n° 69.283 du 6 août 1969, portant nomination d'un chef de subdivision.
 
-Anrrcrp  PREMTER. -Le capitaine  Ahmed Salem ould.Sidi'  com*uta-à"i  Aurmes de Bir-Môgrhein  est noinmé  cumulativement ;;;;;; 6;;ii;"t, chef de Ia subdivision de Bir-Mogrhein  du 1". avril au 31 décembre  1968.
+ARTICLE PREMIER. — Le capitaine Ahmed Salem ould Sidi, commandant d'armes de Bir-Moghrein est nommé cumulativement avec ses fonctions, chef de la subdivision de Bir-Moghrein du 1er avril au 31 décembre 1968.
 
-- Anr. 2. -Le ministre  de l'Intérieur,  le ministre  de la Défense nationàte,  le ministre  dàs  Finances .sont chargés' chacun  en ce qui i. "ott""itt", de l'exécution du présent  décret'
+ART. 2. — Le ministre de l'Intérieur, le ministre de la Défense nationale, le ministre des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
 
---a DECRET  n" 69.288  du7 aoùt 1969, portant nomination  des préfets'
+DÉCRET n° 69.288 du 7 août 1969, portant nomination des préfets.
 
-Anrrcl-e  PREMTER. -M. Atrmed ould Mohameden Fall' inspecteur-ie  police contractuel,  est nommé  préfet de Nouadhibou'
+ARTICLE PREMIER. — M. Ahmed ould Mohameden Fall, inspecteur de police contractuel, est nommé préfet de Nouadhibou.
 
-- Anr. 2. -M. Wane Birane Abdoulaye,  chej de bureau de I'Admi,ririiàti""  de 3. classel 4' é"h"lo''  (indice 670),  est nommé  préfet de Timbedra.
+ART. 2. — M. Wane Birane Abdoulaye, chef de bureau de l'Administration de 3e classe, 4e échelon (indice 670), est nommé préfet de Timbedra.
 
-- Arr.  3. -M. Yahya  ould Menkouss, administrateur  de 3' classe' + é"ft"f""  (inàice  fôfOl àtt nomryé adjoint  au gouverneur  de la ir-iiîùî"';;; i"térfi,  cumulativemént  avec ses fonctions  de préfet d'Æoun Fl Atrouss'
+ART. 3. — M. Yahya ould Menkouss, administrateur de 3e classe, 4e échelon (indice 1010) est nommé adjoint au gouverneur de la IIe Région par intérim, cumulativement avec ses fonctions de préfet d'Aïoun El Atrouss.
 
-- Anr. 4. -M, Hachem  ould Guelaye,  rédacteur d'administration générale  de ? classe,'-i'lôtt"r""  <iâdit"  560) est nommé Prefet de Tichitt.
+ART. 4. — M. Hachem ould Guelaye, rédacteur d'administration générale de 2e classe, 4e échelon (indice 560) est nommé préfet de Tichitt.
 
-- Anr. 5. -M. Sass ould Guig, réd-ac-teur de l'administration neoir"i"â"  Î  classe, i  e"tt"io"  (iiAice  520),  précédemment  adjoint il;;î;;.ï;-Ë tri;  neeio",  est nommé préfet de Kiffa'
+ART. 5. — M. Sass ould Guig, rédacteur de l'administration générale de 2e classe, 3e échelon (indice 520), précédemment adjoint au gouverneur de la IIIe Région, est nommé préfet de Kiffa.
 
-- Anr. 6, -Le ministre  des Finzinces' le ministre  de l'Intérieur et ie ministrJe  I'EnsËignement technique' d; la. normatio-1 !9; ;;d;;;iâ; ia-Fonction -publiqug, sont chargés'. chacun  eir ce qur Ë;;;;;aà t'"*e"utiott  dtl ptét"ttt  décret  qui  gren{  effet pour ;;;;;;tâut".  de prises  de services  des intéressés"
+ART. 6. — Le ministre des Finances, le ministre de l'Intérieur et le ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique, sont chargés, chacun en ce qui le concerne de l'exécution du présent décret qui prend effet pour compter des dates de prises de services des intéressés.
 
------'--'---"-j_---
+DÉCRET n° 69.289 du 7 août 1969, portant nomination de l'adjoint administratif au gouverneur de la IIIe Région.
 
-DECRET n'  69'289 du| août 1969,  portant nomination  de l'adioint --àA*irbtrotif att gouverneur de Ia III' Région'
+ARTICLE PREMIER. — Le commandant M'Bareck ould Bouna Moktar est nommé adjoint administratif au gouverneur de la IIIe Région pour compter du 4 juillet 1969.
 
-ARTTcLE  PREMTER. -Le commandant  M'Bareck  ould Bouna pr"Ëà.-Ëtt ^;oÀ;é aajoint-aaministrylit^ au gouverneur  de la III'Région  pour comptêr  du 4 juillet 1969'
+ART. 2. — Le ministre des Finances, le ministre de l'Intérieur et le ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
 
-. Anr. 2. -I-e ministre  dès Finances,  le ministre  de l'Intérieur et le ministre  de l'Enseignement technique, de la Formation  des cadres  et de la Fonction-publique  sont chargés, chacun  en ce qui le concerne,  de l'exécution du présent décret.
+###### Ministère de la Justice :
 
---o Ministère de la  Justice  :
+###### ACTES DIVERS :
 
-###### ACTES  DIVERS:
+DÉCRET n° 69.290 du 7 août 1969, portant nomination de l'adjoint administratif au gouverneur de la IVe Région.
 
-DECHET  n' 69.290 du 7 août 1969, portant nomination  de l'adioint administratif  aLt goul)erneut  de la IV" Région-
+ARTICLE PREMIER. — M. Amar ould M'Meida, ingénieur des travaux agricoles de 4e échelon (indice 740) est nommé cumulativement avec ses fonctions de directeur du centre de formation et de vulgarisation agricoles de Kaédi, adjoint économique au gouverneur de la IVe Région pour compter du 4 juillet 1969.
 
-Anrrcm  PREMTER. -M. Amar ould M'Meida, ingénieur  ,des travaux agricoles de 4. échelon (indice  740) est nommé cumulatiuè*"rrt uu-""  ,", fonctions  de directeur du centre de formation  et de vulgarisation agricoles de Kaédi, adjoint- économique au  go{r' verneu-r de la IV' Région pour compter  du 4 juillet 1969'-
+ART. 2. — Le ministre des Finances, le ministre de l'Intérieur et le ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
 
-- Anr. 2. -Le ministre  des Finances,  le ministre  de I'Intérierrr "t ie mioist." de l'Enseignement technique; de la Formation des ;;dr";; de la Fonction-publique  sont chargés, chacun  en ce qui le concerne,  de l'exécution du présent décret'
+DÉCRET n° 69.294 du 7 août 1969, portant intégration de cadis stagiaires.
 
-a-
+ARTICLE PREMIER. — Les candidats dont le nom suit déclarés définitivement admis au concours pour le recrutement de cadis organisé par l'arrêté n° 336 du 26 mai 1969 susvisé, sont nommés cadis stagiaires de 3e classe (indice 335) et astreints à un stage d'un an à compter du jour de leur prise de service effective.
 
--------DECRETn"69.294du|aoîttlg6g,portantintégrationdeca'dis stagiaires.
+MM. Neine ould Bah, El Mahfoud ould Hamoud ould Lemrabott, Mohamed Ahmed ould Limam, Mohamed ould Ahmed Mid.
 
--
+ART. 2. — Avant d'entrer en fonction, les intéressés prêteront serment dans les conditions déterminées à l'article 6 de la loi susvisée portant statut des cadis.
 
-ARTICLEPREMIER._Lescandidatsdontlenomsuitdéclarés définitivement  admis âu concours pour le recrutement  de cadis ôiÀâ"iie  par l'arrêté n' 336 du 26 mai 1969 susvisé,  sont nommés "râirlt"ËiÀires de  .3"  classe  (indice 335) et astreints à un stale d'un an fcompter du jour de leur prise de service effective'
+ART. 3. — Le garde des Sceaux, ministre de la Justice est chargé de l'application du présent décret.
 
--MM. Neine'ould B;h, El Mahfoud  ould Hamoud  ould LemraUoti, tvtoframed  Ahmed ôuld  Limam, Mohamed ould Ahmed Mid'
+DÉCISION n° 1.693 du 23 août 1969, portant affectation d'un secrétaire de greffe et parquet.
 
-- Anr. 2. -Avant d'entrer en fonction, les intéræssés  prêt9ro-n1 serment  dans les conditions déterminées  à I'article 6 de la loisusvisée portant statut des cadis.
+ARTICLE PREMIER. — M. Dedda ould Hamadi, secrétaire des greffes et parquets de 2e classe, 3e échelon (indice 380) précédemment en service à la section judiciaire d'Atar, est nommé greffier en chef de la section de Néma (création).
 
-- Anr. 3. -Le garde des Sceaux,  ministre  de la Justice est ctrarge ae t'applicaTion  du présent  décret.
+ART. 2. — Les frais de déplacement de l'intéressé sont à la charge du budget de l'État, chapitre 13, article 1.
 
-DECISION  n" 1.693 du 23 août 1969, portant affectation  d'un de greffe  et  Parquet.
+ART. 3. — La présente décision prend effet pour compter du 1er septembre 1969.
 
-- t";. Z. -f"t  frais de déplacement- de I'intéressé  sont à la charge du budget de I'Etat, chapitre  13, article l'
+###### Ministère de la Planification et du Développement rural :
 
-.secrétaire Anrtcr-n  PREMTER. -M. Dedda ould Hamadi, secrétaire -des g..ll". et parquets  de 2'classê,  3" échelon (indice  380) précédemfi"nt "n tË*ii" à la section  judiciaire  d'Atar,  est nommé  greffier en chef de Ia section de Néma  (création)' --
+###### ACTES DIVERS :
 
-- Àit.  3. -L;  présente décision  prend effet pour compter du 1"" septembre  1969.
+DÉCISION n° 1.352 du 23 juillet 1969, infligeant une sanction à un fonctionnaire.
 
-Ministère  de la Planilication  et du Développement rural:
+ARTICLE PREMIER. — Une exclusion temporaire d'un mois est infligée à M. Mohamed oud Yedaly ould Wah, infirmier d'élevage de 3e échelon (indice 340) en service à M'Bout.
 
-###### ACTES DIVERS:
-
-DE1ISI2Nn"|.352du23iuittet|g6g,inftigeantunesanctionà un fonctionnaire.
-
-Ànrrcrn  PREMTER. -Une exclusion.  temporaire d'un mois est inflisée  à  M. Mohamed  oud Yedaly ould wah, infirmier  d'élevage de 3i ecneton  (indice 340) en service à M'Bout'
-
-- Anr. 2. -La présente décision  qui prend effet  pour compter de la date de notification  à I'intéressé.
+ART. 2. — La présente décision qui prend effet pour compter de la date de notification à l'intéressé.
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
 
-27 aotû  t969
+27 août 1969
 
-JOURNAL  OFFryIEL  DÊ LA REPUBLIQUE ISLAMIQUE  DE- MAURITîNIE
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
 325
 
-: --lllaires  sociales  : Ministère  de la Santé'  du Travail  et des  p----
+###### Ministère de la Santé, du Travail et des Affaires sociales :
 
-###### AC'I'ES  DIVERS:
+###### ACTES DIVERS :
 
-DELCRET n"  69'291 du|  aoîtt  1969' portant  ctétégation  de signatur.e'
+DÉCRET n° 69.291 du 7 août 1969, portant délégation de signature.
 
-Anrrcr.B pREr\rrER. -Le ministT:.d"  P :îi:?"1Ïrl:îî1t::.::: ëffi ';][+'**ii'1'*iffi ,;;*,ffi  ii*'u::
+ARTICLE PREMIER. — Le ministre de la Santé, du Travail et des Affaires sociales est autorisé à déléguer sa signature au directeur administratif de l'hôpital à l'effet de signer les actes courants de dépenses et d'achats, dans le cadre des crédits mis à sa disposition pour le fonctionnement du centre hospitalier.
 
-avail  et des Affaires Anr. 3' . L:,i:Ï:'jï"3"rt*::l';j'i llffi;',  ;;;un  en ce sociales  et  te -1i]lstTfu;iËil;; ce décret. oui le concerne  oe r a
+ART. 2. — La signature du délégataire désigné à l'article premier ci-dessus sera communiquée en spécimen double à l'ordonnateur délégué et au contrôleur financier.
 
-Anr.  2. -La signature  du délégataire dé:'fî"Jtl3iti'5$i mier  ci-dessus  sera communiquég'  "o-:tP^:"tt H;;;ùécué  et au contrôleur  financrer'
+ART. 3. — Le ministre de la Santé, du Travail et des Affaires sociales et le ministre des Finances sont chargés, chacun en ce qui le concerne de l'application de ce décret.
 
-###### IV. --  ANNONCES.
+###### IV. — ANNONCES.
 
-N"  139.
+N° 139.
 
-Etude  de M" -fion, I-<t-r:Ïu3ii.t. de Justice' Greffier  en chef'  notaire  à Nouakchott'  r
+Étude de Me Diop Khalidou,
+Greffier en chef, notaire à Nouakchott, Palais de Justice.
 
-###### SOCIETE  MAURITANIENNE  D'EQUIPEMENT "- -
+###### SOCIÉTÉ MAURITANIENNE D'ÉQUIPEMENT
+###### ET D'AMÉNAGEMENT (SO.M.E.A.)
 
-###### ET  p'lrvrir'rnaeMnNT  (so'M'E'A')
+Société anonyme au capital de 3.000.000 de francs.
+Siège social : Nouakchott.
 
-Société  anonyme  au capital de:^'*ft de francs' >rège  social  : Nouakchott'
+I. — Suivant acte sous seing privé, en date à Nouakchott, du 4 août 1969, il a été établi les statuts d'une société anonyme, ayant pour dénomination sociale Société mauritanienne d'équipement et d'aménagement (SO.M.E.A.) et dont le siège social est à Nouakchott.
 
-rs seing  privé'  en date  à  Ngg?kchotlf  1: I.  -  Suivant.,u"t",Ttà,'î'î"J  .tut,rt..  d'une  société  anonyme' 4 août 1969,.i1 "  ."i:;î".;ciate  Societe-mauritanienne d'équrpeavant  pour dél:^T:T:lîisô.irî.e.a.l et dont le siège social  est  a ment et d'aménagemel
+Cette société constituée pour une durée de quatre-vingt-dix-neuf ans à compter du 15 août 1969, a pour objet : toutes activités industrielles et commerciales se rapportant à l'équipement économique et touristique, génie civil, construction, représentation, commerce etc.
 
-commerce francs,  divisé  en c.ent ;H"ïr*iffi  :"tifi iià?aiiirii:i"rlr,txi*;:î;'ift .".  du  quart  lors  d.e ra souscnfligil:' le surl 'a'"'
+Le capital social a été fixé à 3 000 000 de francs, divisé en cent cinquante actions de 20 000 francs chacune, à souscrire et à libérer du quart lors de la souscription et le surplus suivant les appels de fonds du conseil d'administration.
 
--+ï:,â"".il'i[l;l$:ïâ:.ïr,r#i.ipïfi *î:{i"':""î1* eénérale  aurait  Ia ta ËHéïî;;',  ;.  i t p.ï f^t ï  :î  :Tï,:,|:JJ," ?Ë'' u. ;; ;;  serve  s,  géné' sôit  Pour  être'verset iurr*-o.t  sPéciaux'
+La Société est administrée par un conseil, composé de trois membres au moins et de douze au plus.
 
-ration  de souscrrPtlon Qu'elle  a nommé ""*"'" premiers  administrateurs années:  MM': ! f,r^,,ôL -'-
+Il a été stipulé, sous l'article 41 des statuts, que l'assemblée générale aurait la faculté de prélever toute somme sur le solde bénéficiaire, soit pour être reportée à nouveau sur l'exercice suivant, soit pour être versée à un ou plusieurs fonds de réserves, généraux ou spéciaux.
 
-; l  ":,:T^b:î* ::*i: î"#nîï lî.ïi:n* l.:^ la  déclapour'six
+II. — Suivant acte reçu par Me Diop Khalidou, notaire à Nouakchott, le 14 août 1969, M. Didi ould Soueydi fondateur de la Société, a déclaré que les 150 actions de 20.000 francs chacune, composant le capital social, ont été entièrement souscrites par sept personnes et qu'il a été versé, par chaque souscripteur, une somme égale au 1/4 du montant des actions par lui souscrites, soit, au total, une somme de 750.000 francs.
 
-o,u,  ourd. Soueydi, :"#ffiTÂîï," Jft:ffiii:li,
+À l'appui de cette déclaration, le fondateur a représenté audit notaire un original des statuts et un état des souscriptions et versements qui sont demeurés annexés audit acte.
 
-'rilÏîiîà;rat:r;f
+III. — Du procès-verbal d'une délibération prise le 15 août 1969 par l'assemblée générale constitutive des actionnaires de la Société, il appert :
 
-N'  140.
+Que l'assemblée générale a reconnu la sincérité de la déclaration de souscription et de versement sus-énoncée ;
 
-Etude  de M" Greffier  en chef'  notaire  à ,3iil-5ffi1Ï3Tiu,. u" Iustice'
+Qu'elle a nommé comme premiers administrateurs pour six années : MM. :
+Didi ould Soueydi, commerçant à Nouakchott ;
+Abdou ould Maham, commerçant à Nouakchott ;
+Mohamed Lemine ould Berou, commerçant ;
+Hadaya ould Taya, fonctionnaire.
+Lesquels ont accepté lesdites fonctions.
 
-###### uNroN MAuRrrANrE"-i.i.^fÈïïpRIsE DE BArtMENrs
+Qu'elle a nommé, comme commissaires aux comptes titulaire et suppléant :
+MM. Ahmed ould Taya, Mohamed ould Ahmed.
+Lesquels ont accepté lesdites fonctions.
 
-.":i;l.,'liéréconstitué"poer,^'n:-1ï:"î*î,tËîliîïliti$Ë;l ,.,; ; ;.  a comp til 9,T,T,i:ÏLltfl;i"1,?iii  UæËmen t écono-  | indus trielles  e t commercrÎ::  :  if --";; struction,  représentatron' ïiî;;';;-iouristique' génie civil'  constru( etc'
+Et qu'elle a approuvé les statuts et déclaré la Société définitivement constituée.
 
-îï{|3;;X':ffi#.'ru::i'fi" conseir,  càmposé  de trois
+Il a été déposé, le 16 août 1969, au greffe du tribunal de commerce de Nouakchott :
+— deux originaux des statuts ;
+— deux expéditions de la déclaration notariée de souscription et de versement ;
+— et deux copies certifiées des délibérations de l'assemblée générale constitutive du 15 août 1969.
 
-"nJ,t,i""'ï{::âi"{iî$i#.i.{;1ïi*f,i,"{jffi:t"$r, sà"iete,  a déclaré.qYtr;:i";;J été  entÈrr ,re souscripteur,  une composant t"  t?Ptl?],,iîËtZ n"rre,  par cha< Iloi'p"ttottt'es et.qu'rt  a ::5:;"h#'u"iiàtit  par lui  souscrrtes'
+Pour extrait et mention,
+Le notaire :
+DIOP Khalidou.
 
-::i,4i'.#,Ë**:'L*lil'?;ijot3"'iilL'l"i,"nlu,*,u",u,. i-i'iiq11ilg,*!ifu i,.'*itii:,,'ï"1ii"""'iiiiil"';' versements qui sont /erserrrçrrrù  Y"' --
+N° 140.
 
-rrise  le  15  août-  1969 . '- al 4'uns  délibérati31  I actionnaires de  ra IIr'  - Du  P{9"èt--t:1o-î1"*  îËirtit"tive des par l'assemblée . genet ^Société, il  aPPert:
+Étude de Me Diop Khalidou,
+Greffier en chef, notaire à Nouakchott, Palais de Justice.
 
-"' "ïiiï,xnlîîjlj{g';*r" ; Siège
+###### UNION MAURITANIENNE D'ENTREPRISE DE BATIMENTS
+###### (U.M.E.B.)
 
-###### TITUTION  DE SOCIETE
+Société à responsabilité limitée
+au capital social de 1 250 000 de francs.
+Siège social : Nouakchott-Ksar.
 
-"iïrrTki;-iiittt'g#*Xf--lfiq*'"tl'tU"iru: .î-t""tcuttt,  domicilie'  1,,t"i'ià:l;î;itott, o"t  établi  une to?:t: i"*T:*#ii,îÏ'i;Hi["'âàiif":i'#:Hd;s.iuivantes:
+###### CONSTITUTION DE SOCIÉTÉ
 
-tu'iur'g's'l'  -"'rn de bâtiments  et de travaux  publics  etc' ' Obiet :  Constructrc
+Suivant acte reçu par Me Diop Khalidou, greffier en chef, notaire à Nouakchott, le 20 août 1969, MM. Abdallahi ould Efkin, commerçant, domicilié à Nouakchott, Meouloud ould Mohamedou, commerçant, domicilié à Nouakchott, ont établi une société à responsabilité limitée présentant les caractéristiques suivantes :
 
-Dénominatio"  t U"tti'""t"tanienne d'entreprise  de bâtiments
+Dénomination : Union mauritanienne d'entreprise de bâtiments (U.M.E.B.).
+Objet : Construction de bâtiments et de travaux publics etc.
+Siège social : Nouakchott-Ksar.
+Durée : quatre-vingt-dix-neuf années à compter du 20 août 1969.
 
-i:iirur*#tt*******'* Le caPital  socral  a deux cent  cinquante  1 ment libérées  et reP? ..  , ,r^r: ^,,rr
+Le capital social a été fixé à 1 250 000 francs ; il est divisé en deux cent cinquante parts de cinq mille francs chacune intégralement libérées et réparties entre les associés proportionnellement à leurs apports.
 
-Ï'il-'Jï;;sr gerée et administru" pï  y,*'$:tJî:1.,"T:t Ifkih sui  a, à  cet  enet'  la  signature socrart
+La Société est gérée et administrée par M. Abdallahi ould Ifkih qui a, à cet effet, la signature sociale et les pouvoirs les plus étendus.
 
-Tx * iîî"=t* L?iâïï.  i?lï"h?î#% :'{il'"':}'ii? liJÈ, jo""'::,1"-î::',"âïîîl"i.l"ll:"i1,:tsocial'
+Entre les associés, les parts sont librement cessibles, mais elles ne peuvent être cédées à des personnes étrangères à la société qu'avec le consentement de la majorité des associés représentant au moins les trois quarts du capital social.
 
-sentant  au molns  rçs ;i-:iîi-:tidi*i:ïd','#:ï*lç1"*t't*''É ::i;ii;';" r'ssocié  décédé'
-
-Abdou "Ytg M?lTiia" iË;;: ;ommerçant  ; Mohamed  Lemrne  oYrq 3-ç::::;---
-
-3",""liiil3iEl:.rl*auxcompresrituraire Lesquels ot'  Tl"n"t'*îî càmmisSaires , Qu'elle  a nomme' I
-
-'
-
-Le notaire: DroP' Khalidou'
-
-o--s."ff;;;-#fii;;'ri"o I'acte  de Ia société,ïl îfJeposées  au  I *" ,*. ommerce  de Nouakchotr,  Ie zo îJar"îgâï.I Deuxexpéditionsd'eI,acte.|.|à.^^:l.!-27août|969
+La société n'est pas dissoute par le décès, l'interdiction ou la faillite d'un associé. En cas de décès d'un des associés, elle continuera entre les associés survivants et les héritiers et représentants de l'associé décédé.
 
 [[END OF PAGE 35]]
 
@@ -3027,215 +2825,210 @@ o--s."ff;;;-#fii;;'ri"o I'acte  de Ia société,ïl îfJeposées  au  I *" ,*. o
 
 326
 
-AURITANIE
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
-Le notaire-
+27 août 1969
 
-,,,",. I
+Deux expéditions de l'acte de la société ont été déposées au greffe du tribunal de commerce de Nouakchott, le 26 août 1969.
 
-I
+Pour insertion et mention,
+Le notaire :
+DIOP Khalidou.
 
-I
+N° 141.
 
-I
+Étude de Me Diop Khalidou,
+Greffier en chef, notaire à Nouakchott, Palais de Justice.
 
-I  rv. r++. rv'  r++
+###### ENTREPRISE AFRICAINE
+###### DE MENUISERIE ET DE CONSTRUCTION
+###### (E.A.M.C.)
 
-I
+Société à responsabilité limitée au capital de 1 550 000 francs.
+Siège social : Nouakchott-Ksar.
 
-/
+###### CONSTITUTION DE SOCIÉTÉ
 
-N; 141.
+Suivant acte reçu par Me Diop Khalidou, greffier en chef, notaire à Nouakchott, le 11 août 1969, MM. Mohamedou ould Ebnou, commerçant, domicilié à Nouakchott-Ksar, Mohamed Mahmoud ould Abnou, commerçant, domicilié à Nouakchott-Ksar, ont établi une société à responsabilité limitée présentant les caractéristiques suivantes :
 
-###### ENTRE'RISE  AFR'CAINE DE MENUISERII_ET  DE  coNsrRucrroN
+Dénomination : Entreprise africaine de menuiserie et de construction (E.A.M.C.).
+Objet : Entreprise de construction et de travaux publics, menuiserie, représentation et consignation de toutes marchandises etc.
+Siège social : Nouakchott-Ksar.
+Durée : quatre-vingt-dix-neuf années à compter du 11 août 1969.
 
-société  à responsabr,,,n ,,,lll't"l''""",* siège  sociar:  Nouakchàt"il.#. 1550000  francs.
+Le capital social a été fixé à 1 550 000 francs, il est divisé en cent cinquante-cinq parts de 10 000 francs chacune intégralement libérées et réparties entre les associés proportionnellement à leurs apports.
 
-###### coNsrrrurroN  DE  .o.rrrr
+La société est gérée et administrée par M. Mohamedou ould Ebnou qui a, à cet effet, la signature sociale et les pouvoirs les plus étendus.
 
-,-.?f:_"T:,ition iËn*i ^_...-,*:rig1 !E;A.M.c.): reprise  africaine  de  m enuiserie  et de cons-
+Entre les associés, les parts sont librement cessibles, mais elles ne peuvent être cédées à des personnes étrangères à la société qu'avec le consentement de la majorité des associés représentant au moins les trois quarts du capital social.
 
--=-_-
+La société n'est pas dissoute par le décès, l'interdiction ou la faillite d'un associé. En cas de décès d'un associé, elle continuera entre les associés survivants et les héritiers et représentants de l'associé décédé.
 
-###### rNscRrprroN  Arr  ppnrcrn^ ^-IN_scRtPTtoN  Au REcrsrRE  Du coMMERcE
+Deux expéditions de l'acte de la société ont été déposées au greffe du tribunal de commerce de Nouakchott, le 15 août 1969.
 
--. *"  *" û1;r^iîË.:iiiïrli'"#T'ilï'ff Suivant  acte recu notaire  a rvàï'tËiàî pf #' Diop'^Khalid ll:"1,.._;.rc;;;,0,, ,:  r août  r*r,  ,iif,l'nflïïiii.:i iiïl  / moud ould Abnou. ":3:']ié à  NouakcÉoil :lËî*Ï.*i::#"'#iîrî:l'"T'r,rri*i,I3*Lfi5,.,r /
+Pour insertion et mention,
+Le notaire :
+DIOP Khalidou.
 
-I
+N° 142.
 
-|
+###### INSCRIPTION AU REGISTRE DU COMMERCE
 
--,.r^o^9j", l EntrepÉse  de construction  et de _ I nuiserie,'"p'e.ôiuÏo;";",",:Ï"i::i'l^3,9"travauxpubIics,me.| etc. _ __--_n  er consignation  de tout"s  mu.";;;d;î  |  u"
+Suivant déclaration d'immatriculation au registre du commerce en date du 11 août 1969, déposée au greffe du tribunal de commerce de Nouakchott, le sieur Rebours André, né le 4 avril 1946 à Paris-14e, domicilié à Nouakchott, y exerçant un commerce de coiffure, est inscrit sous le n° 631 analytique.
 
-iiig^ :.:rr, Nouakchott_Ksar.
+Pour insertion et publication,
+Le greffier en chef :
+DIOP Khalidou.
 
-P:.^"-*'..nyurr-;iËil;;'"ï*,ao" à  ^^*^. Le-capitât  r""i"Ï'â'ËrË-Ëiii;l:.:fr^"11Rt"r du Ir août ,nun.  I ,i"iïtr1jî1{'îi;";*iiintutïTgr"'"rÏ:îjiiJliiHTî lrwrçes  etreparties  €ntre  les "..::;::11'" u nn^F+ô '|rre,es  ",."tieTiiàp;1il'ffi;:fr""îi:i"iffii
+N° 143.
 
-1
+###### INSCRIPTION AU REGISTRE DU COMMERCE
 
-/ .. . i *-:fl"Î5*:tl": d'immatricu'1']": u' 1*,",'"  du com. I  commerce  n^ ^ij.j j,^?,"Ût  1969,  déposee  au sreffe  rr,r t,.i,..--^r , 'ilï1"11Ïgî.{-i*.i}if$#f;;-É,i:-'i{ m*""  e;"Ëiàr-'!ii'i,
+Suivant déclaration d'immatriculation au registre du commerce en date du 11 août 1969, déposée au greffe du tribunal de commerce de Nouakchott, le sieur Cherif ould Boukhary, né en 1917 à Tidjikdja, domicilié à Nouakchott, y exerçant un commerce général, est inscrit sous le n° 632 analytique.
 
-orop  Khalidou.
+Pour insertion et publication,
+Le greffier en chef :
+DIOP Khalidou.
 
-'ou,-in,..tioo.'],1'0,,"",,-,
+N° 144.
 
-"!ùv.rrrtun AU RE'ISTRE  ou coruueRôe vrLN*
+###### INSCRIPTION AU REGISTRE DU COMMERCE
 
-n-ii*lî ;':iË:,:i"':Ëil1ïi,1fl,ï;,',!i";,x*"{g t+s.
+Suivant déclaration d'immatriculation au registre du commerce en date du 11 août 1969, déposée au greffe du tribunal de commerce de Nouakchott, le sieur Mohamed Moustapha, né en 1936 à Nouakchott, domicilié à Nouakchott, y exerçant un commerce général, est inscrit sous le n° 633 analytique.
 
-^ Suivant  décrarati^.  r,i*--  . . I ::'=  :ë"jîTi?,î'1i#:::::3ï": urracune  intégralement  I  commerce  de N.,,oL'^;::',"":,oeposée  âu  areffe-rt,,  iti,l*^ï"'jt-/ ;Jiï:':"':#i*iff"'i,,ir;.xîî'r:f,"î.i:j+itii:'ftiîr *'  ail;Ji:':'f':'"i"[.1"ï'.:iî'Ë'l{ i;i;::ii*"X#"#;
+Pour insertion et publication,
+Le greffier en chef :
+DIOP Khalidou.
 
-/
+N° 145.
 
-P'u';:;:":;àî::Ï;î^
+###### INSCRIPTION AU REGISTRE DU COMMERCE
 
-tfH;f;îî:if"ji1#îi,',riÈ*T:.J,:î/
+Suivant déclaration d'immatriculation au registre du commerce en date du 16 août 1969, déposée au greffe du tribunal de commerce de Nouakchott, le sieur Mohamed Ben M'Bareck Mohamed, né en 1922 à Aid El Kinse, domicilié à Rosso, y exerçant un commerce général, est inscrit sous le n° 634 analytique.
 
-;Rîâ""rf;iiï'"Tï"%ffi'""."1".?;ffi ;:;-,*,,,",*i /
+Pour insertion et publication,
+Le greffier en chef :
+DIOP Khalidou.
 
-N.  142.
+N° 146.
 
--INscRtPrIoN  AU RE'ISTRE  Du coMMERcE
+###### INSCRIPTION AU REGISTRE DU COMMERCE
 
-I  ment économir___ --:"  "'  çvurmercrales .9..rappo.tu"ii'r,equip"_ I  '"o.n.;;;;;#:ff1,''.,?Hi:ii?,ffiïf  :ï,,,iïiËi5,â'','n,.,0", Lrçrue'  est  tnscrite  .".'.  t. tJ?ËiiiiriiïïS: ::*ï'*/*fiy*idæ*gî#nl+o'tirij
+Suivant déclaration d'immatriculation au registre du commerce en date du 18 août 1969, déposée au greffe du tribunal de commerce de Nouakchott, la Société mauritanienne d'équipement et d'aménagement (SO.M.E.A.), société anonyme au capital de trois millions de francs ayant son siège social à Nouakchott et pour objet : toutes activités industrielles et commerciales se rapportant à l'équipement économique et touristique, génie civil, construction, étude, représentation, commerce, est inscrite sous le n° 635 analytique.
 
-;ï::ïjj,ff
+Pour insertion et publication,
+Le greffier en chef :
+DIOP Khalidou.
 
-ô
+N° 147.
 
-----
+###### INSCRIPTION AU REGISTRE DU COMMERCE
 
-###### INSCRTPTION  AU REGTSTRE  DU  COMMERCE
-
-I
-
-I
-
-* "'
-
--- Pour insertion  et publicatiorf, Drop  Khatidou. "e  -srelfier en chef :
-
-###### INscRrprroN  AU REcrsrRE  DU coMMERcE
-
-/ / _,fr*ïSffi*ru ;,l.Ëî,,:î,rufrfu
-
-Suivant  déclaration  d,im*^+-:^_,  .. merce en date  du ,, l.j'ia*atricuration  ; ;";;; du en-- I *çdtii*r$;-ii:l i'iifiï$"'n'.iili;:'fl'''f{"ff*' / ' sous  i;"';"*u,lïôffiunt'";;;"'ilË
-
-'"'  ;,;Eh':,Ë#;î-"
-
-| Suivant  déclaration "d,immatriculation -.rùurlr  sous  le n" 632 anatytiàue.
-
-###### rNscRrprroN  AU  REcrsrRE  DU coMMERcE
-
-'"';:";,n,":::î:;:'""'
-
-Drop  Khalidou.
-
-pour  inserri"" ", ;";;;;
+Suivant déclaration d'immatriculation au registre du commerce en date du 18 août 1969, déposée au greffe du tribunal de commerce de Nouakchott, l'Entreprise africaine de menuiserie et de construction (E.A.M.C.), société à responsabilité limitée au
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-27  aoû D69
+27 août 1969
 
-N" 149.
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
-N" 15I.
+327
 
-_  -.-*qqrùsù  efC.,  eSt
+capital de un million cinq cent cinquante mille francs, ayant son siège social à Nouakchott-Ksar et pour objet : Entreprise de construction et de travaux publics, menuiserie, représentation, participation et consignation de toutes marchandises etc., est inscrite sous le n° 636 analytique.
 
-Pour  insertion  et publication, Le greffier  en  cher. Drop  KhaHdou.
+Pour insertion et publication,
+Le greffier en chef :
+DIOP Khalidou.
 
-I
+N° 148.
 
-I
+###### INSCRIPTION AU REGISTRE DU COMMERCE
 
-/
+Suivant déclaration d'immatriculation au registre du commerce en date du 27 mars 1969, déposée au greffe du tribunal de commerce de Nouakchott, la Société générale d'entreprise mauritanienne (SO.G.E.MA.), S.A.R.L. au capital de un million de francs dont le siège social est à Nouakchott, et en vertu du procès-verbal de l'assemblée générale des associés en date du 27 mars 1969, l'article 11 des statuts a été modifié et M. Baba ould Beyrouk est nommé gérant de ladite société en remplacement de M. Mohamed Lemine ould Beyrouk. Cette modification a été effectuée au n° 512 analytique.
 
-I
+Pour insertion et publication,
+Le greffier en chef :
+DIOP Khalidou.
 
-###### INSCRIPTION AU REGISTRE  DU COMMERCE
+N° 149.
 
-Pour  insertion  et publication,
+###### INSCRIPTION AU REGISTRE DU COMMERCE
 
-**.  ,23^sr"1yi1, en chef  :
+Suivant déclaration d'immatriculation au registre du commerce en date du 18 août 1969, déposée au greffe du tribunal de commerce de Nouakchott, l'agence d'Akjoujt de la Société Nobels Peelman, S.A. dont le siège social est à Belgique : Sint-Niklaas, rue du Gazomètre, 101, est inscrite sous le n° 637 analytique.
 
-r*o ould Doussou  Oit nav.
+Pour insertion et publication,
+Le greffier en chef :
+DIOP Khalidou.
 
-###### FRIGORIFIQUES  SURVIF
+N° 150.
 
-\
+###### INSCRIPTION AU REGISTRE DU COMMERCE
 
-" " ""ii:::!""  {;îriôî'ïlln .l1#jn8.,  o qe.rrar
+Suivant déclaration d'immatriculation au registre du commerce en date du 26 août 1969, déposée au greffe du tribunal de commerce de Nouakchott, l'Union mauritanienne d'entreprise de bâtiments (U.M.E.B.) S.A.R.L. au capital de un million deux cent cinquante mille francs, ayant son siège social à Nouakchott-Ksar et pour objet : Construction de bâtiments et de travaux publics etc., est inscrite sous le n° 638 analytique.
 
-siège  social  : Nouadhibo,,  ;;;:,ï:"
+Pour insertion et publication,
+Le greffier en chef :
+DIOP Khalidou.
 
-*.a.  *"tro"?i(RéPublique islan  ' rrvtique  n" rzz'  aerffiÏffirle Mauritanie).
+N° 151.
 
-;",;4{t-?i;ri';:"ï'ï,p;i3ftlti*d#,,*
-
-N. ls3.
-
-###### FRIGORIFTQUES SURVIF
-
-Société à u" .ulTui'i." ifi '#iX'#ilité  Iimitée Siège  sociar;.:t;,te I10000000  o"  r*;"t c.r.a.
-
-R.c  "-.,].ll_ !*noubJique  istamique  de R.c.  analyriqu" "",rii",vi:iffir,:e Mauritanie).
-
-Frigori.:^"^r.  ;tu to-tal  345 pàrrs qcs  ourîrr, acte  en "",1i: llPLfnanr  dans  Ia s.A.R.L. riques  survil-;;Ë fff  :ili: H"3,ffil?g,,ti
-
-l1r 3gte.soys  seing fl:T{f  :U:i.Ë}.'3'J5riî?."r1T,,îu.:1:.1dy.7mfl  re6e,enre. _,i;:;_,:ln"_,:t;;ii:.,îr:ËX",,il,î;rî*ilr,lTj'f,r"dfi:: ques.vandamrn" riî".À. vandamme  f -";*ii rfilil.": Q^:-_,_^-^.."  ro  llit1rs. P4I.ts ;
-
-N" 154.
-
-l'" avrit  lg69 nouakchott  (R.I.l,t.l. o"  rnoïifl"T,.lî*,:iïj*ï;"?: i:
-
-LE TnrsuN,{r,
-
--":iriiîî ?*,î:i"  il. jofr lrad i  c  t  o i rem en  r, en m a t  ière corn  _
-
-{"" âi;;#Jfr  ;;:i#t:t"i*":',*ikrim,*+*i:;r
-
-fffi #Ë,:#ffi x;*iirfl,f  $tri:î}:ïffif
-
-ffi
-
-Dent  47x7xon"e  à la requête des  assocîés  demand.eurs,
-
-N" 152.
-
-Pour  insertion  et publication,
-
-_________<)____--
-
-Le 3reffier  en chef: Drop  Khafidou.
-
-###### INSCRIPTIC
-
-***. ';*l+*****{'*s*
-
-N' 150.
-
-Le greffier  en chef: Drop  Khalidou.
-
-p*.  ,o.".,,oi";ffiï*,
-
--....:--O----___.
-
-###### AU RE'ISTRE  DU coMMERcE
-
--*:*-rtt"T}^ fiffid'*ii,Ë*îf3iiHiffiiffi
-
-Pour  insertion  et publication.
-
-Lie _grefiier  en chef : Drop  Khalidou.
-
-TRIBUNAL  DE NOUAKCHOTT (Section  de Kaédi).
+TRIBUNAL DE NOUAKCHOTT
+(Section de Kaédi).
 
 AVIS
 
-.^j:tl:^"t déclaradon  aux  fins rt,im_-+-:^__. .. sommerce  en dare  o"  r3i",{',"ïrf;ïAî,#i?j'::f: ye1s1.re  de ru gr-crr€  OU  tribUnal N' lss'
+Suivant déclaration aux fins d'immatriculation au registre du commerce en date du 18 août 1969, déposée au greffe du tribunal de commerce de Kaédi, le même jour, le sieur Sidi Abdallah ould Ahmedou, né en 1948 à Tidjidja, domicilié à Kaédi, y exerçant un commerce général, est inscrit sous le n° 14 analytique.
+
+Pour insertion et publication,
+Le greffier en chef :
+MOHAMED ould DOUSSOU Dit EBY.
+
+N° 152.
+
+###### FRIGORIFIQUES SURVIF
+
+Société à responsabilité limitée
+au capital de 110 000 000 de francs C.F.A.
+Siège social : Nouadhibou (République islamique de Mauritanie).
+R.C. analytique n° 122 de Nouakchott.
+
+Par acte sous seing privé, en date à Paris du 5 avril 1969, enregistré, M. André Guelfi a cédé à M. Jacques Vandamme, cinq parts lui appartenant dans la S.A.R.L. Frigorifiques Survif.
+
+Acte signifié par exploit de Me Diakite, huissier à Nouadhibou, le 13 juin 1969.
+
+N° 153.
+
+###### FRIGORIFIQUES SURVIF
+
+Société à responsabilité limitée
+au capital de 110 000 000 de francs C.F.A.
+Siège social : Nouadhibou (République islamique de Mauritanie).
+R.C. analytique n° 122 de Nouakchott.
+
+Par acte sous seing privé, en date à Paris du 7 mai 1969, enregistré, M. André Guelfi a cédé à la société Aframi 210 parts ; société Somac 104 parts ; M. Gaston Vandamme 18 parts ; M. Jacques Vandamme 13 parts.
+
+Soit au total 345 parts lui appartenant dans la S.A.R.L. Frigorifiques Survif, acte en cours de signification.
+
+N° 154.
+
+Extrait du jugement n° 25 du 1er avril 1969
+du Tribunal de première instance de Nouakchott (R.I.M.).
+
+LE TRIBUNAL,
+
+Statuant publiquement, contradictoirement, en matière commerciale et en premier ressort ;
+
+Ordonne la dissolution de la société du commerce général d'Importation et d'Exportation de Mauritanie (SOCIEM) à la requête de tous les associés et du gérant statutaire Yahya ould Bouamatou ould Sbaye ;
+
+Ordonne que le dispositif du présent jugement concernant la dissolution de la société SOCIEM soit publié dans un journal d'annonces légales, aux frais des associés demandeurs, dès l'expiration des délais de recours ;
+
+Désigne le gérant statutaire Yahya ould Bouamatou ould Sbaye en qualité de liquidateur et le sieur Moulaye ould el Hassane Mohamed en qualité de coliquidateur avec pouvoir de réaliser les biens mobiliers et immobiliers de la SOCIEM, de régler son passif et les droits des tiers et de répartir éventuellement le reliquat entre les associés au prorata de leurs apports.
+
+Dit que les opérations de liquidation ne peuvent être effectuées qu'après publication de l'extrait du présent dispositif dans le journal d'annonces légales.
+
+Dont annonce à la requête des associés demandeurs.
 
 [[END OF PAGE 37]]
 
@@ -3243,88 +3036,65 @@ AVIS
 
 328
 
-JOURNAL  OFFICIEL  DE TA RBPUBLIOUB  ISLAI\,II DE MAURITANIE
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
 27 août 1969
 
-22' nrcul'  u"utts'  Dakar  (Sénégal)'
+N° 155.
 
-###### nDucIAIRE  FRAN.E  TTtl:::"NEcAL
+###### FIDUCIAIRE FRANCE AFRIQUE SÉNÉGAL
+22, rue des Essarts, Dakar (Sénégal).
 
-.I  ENTREPRISE  GENERALE  ATLANTIQUE U
+###### « ENTREPRISE GÉNÉRALE ATLANTIQUE »
 
-Siège  sociar lï:Ïffi :T:[:*ïî-lisramique de Mauritanre  l'
+Société à responsabilité limitée
+au capital de 80 000 000 de francs C.F.A.
+Siège social : Nouadhibou (République islamique de Mauritanie).
+R.C. Atar n° 3.
 
-ilît-#ï*:i:**
+Messieurs les associés sont convoqués en assemblée générale à caractère mixte au siège social à Nouadhibou, le samedi 8 novembre 1969 à 10 heures, sur l'ordre du jour suivant :
 
-î:iîËxîr'iiËï*ïi?ïâî*'Ïf
+— Constatation de la réalisation de l'augmentation de capital de 79 500 000 décidée en 1966 ;
+— Approbation des actes de cessions de parts sociales intervenues à ce jour et ratification des décisions de la gérance, quant à celles-ci ;
+— Présentation du rapport du gérant sur la marche de la société au 31 décembre 1968 ;
+— Approbation des comptes et quitus à la gérance ;
+— Affectation des résultats ;
+— Augmentation de capital par voie de conversion de créances en parts sociales ;
+— Questions diverses.
 
-*rîT'i&ry1n"^',,a::a*".::ià"$"î:â3Ï,Ëi:îàffi;
+Tout associé peut prendre part aux délibérations.
+Les mandataires d'associés doivent être eux-mêmes associés, et sont tenus de déposer leurs pouvoirs, au siège social.
 
-- venues  â-ce  jour et ratlrlçaLrv
+Emile BECK, gérant.
 
-:i:iË"ï'or"" o" ,qqporr  du  gérant  sur la  marche  de la
+N° 156.
 
-*"re,âï"li  g.:"^.lii l31i;.",  et  quitus  à  ra  gérance;
+###### SOCIÉTÉ INDUSTRIELLE DE LA GRANDE PÊCHE
 
-- æTi*,{.1"i"':;stl;x"ï" uo" u" conversion  de créances
+Société anonyme au capital de 82 540 000 francs C.F.A.
+Siège social : Nouadhibou - B.P. 11.
+R.C. : Nouakchott 44.
 
-""  1''tïiff:iË#J:,-  l"* ..,"  uu,u
+Par une délibération extraordinaire du 30 juin 1969, les actionnaires de la SOCIÉTÉ INDUSTRIELLE DE LA GRANDE PÊCHE ont décidé d'augmenter le capital de quarante et un millions deux cent soixante-dix mille francs C.F.A. (41 270 000) pour le porter à quatre-vingt-deux millions cinq cent quarante mille francs C.F.A. (82 540 000) par voie d'incorporation au capital de réserves et de reconstitution.
 
-Em'e  Bncr,  gérant.
+Le capital est divisé en vingt mille six cent trente-cinq actions (20 635) de deux mille francs (2 000) chacune.
 
-r"";-;;;*1"":lf:"#Îâ:J.1iffiï":'"|fffi *Ëassociés'et ,"ff;ff"tiiË:ff
+Les actionnaires ont en conséquence modifié l'article 6 des statuts fixant le capital social.
 
------O
+Deux copies du procès-verbal des délibérations de ladite assemblée ont été déposées au greffe du tribunal de commerce de Nouadhibou le 27 août 1969.
 
-N'
-
-###### LA GRANDE  PECHE SOCTETE  INDUSTRIELLE  DE
-
-^f, ^ 82540000  francs  u'r'n' Société  anonyme  au capital  de
-
-Siège  social:
-
-Nouadhibou  - B'P'  11'
-
-R.C':  Nouakchott 44'
-
-' .:,; .*:i#ï"t38ËiËi'iiliiii"Hi""":*Ï.igii';î':iifi :ii ËË I **:t:ï J"ï,"""'ilô:ii}î"*;'1f"X,f  ï,,i; deux  cent  soixan-te-or^oeuîmillions  cinq L:k  â#:'Ët-Siffi;^n;;";;ie d'incorporation au  caprtar
-
-Tæ#î"r, i;ffii";ïtrnttrente'cin"*:*:' (20 635)  de deux  mrttt
-
-.rJ,iirli*à"t Deuxcopies.*ï::';l'?,Xt-:"iitÏn*:î"'oi""H';""ï:"Ï; 'i:î":.îl':f ,3?''"iîi'*'
-
-^^-oÉ^rrence modifié  l'article  6  des Les  actionnaires ont  en  conséquence  urv le caPital  social'
-
-Pour  insertion:
-
-Le Conseil  d' administ  ration'
+Pour insertion :
+Le Conseil d'administration.
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
 
-}
+BISCAYE FRÈRES
+IMPRIMEURS
+22, RUE DU PEUGUE
+BORDEAUX (FRANCE)
 
-I
-
-I
-
-I
-
-I
-
-I
-
-I
-
-r
-
-BISCAYE FRERËS IMPRII'dËURS 22, RUE DU PEUGUE
-
-BORDEAUX  (FRANCÉ)
-
-imprimeur  1383. Dépôt légal : 4e trimestre  1969.
+3467. N° imprimeur 1383. Dépôt légal : 4e trimestre 1969.
 
 [[END OF PAGE 39]]
