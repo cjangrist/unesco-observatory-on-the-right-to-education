@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -26,13 +26,15 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -42,7 +44,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -100,9 +102,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 4
 
@@ -122,7 +124,7 @@ Email and telephone number of contact person: E-mail: emma.jansson@gov.se. Phone
 
 8 405 10 00.
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -180,7 +182,7 @@ A pupil had had certain difficulties in his schooling, mainly regarding social i
 
 The Supreme Court concludes in its decision that it should be required that a deviation from the requirements of the Education Act should have led to concrete consequences for the accessibility of the pupil with a disability in order to be a question of discrimination. The Supreme Court also makes statements on how the assessment of whether a person belongs to the group of persons with disabilities should be made and on the application of a provision on the burden of proof in the Discrimination Act.
 
-In the current case, the school had concluded that the pupil needed special support but failed to analyze which support measures were needed, to design an action plan that contained such measures and to arrange special support for the pupil. The consequences of this were that for six months the pupil did not receive the kind of support that was needed to be able to function satisfactorily at school. The pupil's absence was therefore at a high level and the pupil missed large parts of his education during the period. According to the Supreme Court, this constituted such concrete negative consequences of the deviations from the requirements of the Education Act that discrimination had taken place. The municipality is therefore ordered to pay discrimination compensation to the pupil.
+In the current case, the school had concluded that the pupil needed special support but failed to analyze which support measures were needed, to design an action plan that contained such measures and to arrange special support for the pupil. The consequences of this were that for six months the pupil did not receive the kind of support that was needed to be able to function satisfactorily at school. The pupil's absence was therefore at a high level and the pupil missed large parts of his education during the period. According to the Supreme Court,
 
 > 11 Judicial mechanisms play an important role in enforcing the right to education by ensuring legal accountability and therefore contributing to the practical realization of the right to education.
 
@@ -189,6 +191,8 @@ In the current case, the school had concluded that the pupil needed special supp
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+this constituted such concrete negative consequences of the deviations from the requirements of the Education Act that discrimination had taken place. The municipality is therefore ordered to pay discrimination compensation to the pupil.
 
 Diskriminering när skolelev inte fick tillräckligt stöd - Sveriges Domstolar
 
@@ -258,7 +262,7 @@ According to the Instrument of Government (Regeringsformen), which forms part of
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -338,11 +342,12 @@ The persons referred to in Section 2, second paragraph 5, are only entitled to e
 
 Political goals and national strategies are set to strengthen the activities of the educational sector with regards to equality and equity.
 
-Additional information Sweden is also party to the UN Convention on the Rights of Persons with Disabilities.
+Additional information
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+Sweden is also party to the UN Convention on the Rights of Persons with Disabilities.
 
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
@@ -408,7 +413,7 @@ education efforts (A2022/00844).
 
 In 2022, the Equality Ombudsman was tasked, in collaboration with the Ombudsman for Children, to carry out special information efforts on where children, students and guardians can turn to when someone has been subjected to discrimination or abusive treatment at school.
 
-In May 2024, the Equality Ombudsman was tasked with a mission to developand disseminate awareness about Afro-Swedish students' exposure to racism and discrimination in primary and secondary school. The knowledge should be aimed towards e.g., staff and principals in schools.
+In May 2024, the Equality Ombudsman was tasked with a mission to develop- and disseminate awareness about Afro-Swedish students' exposure to racism and discrimination in primary and secondary school. The knowledge should be aimed towards e.g., staff and principals in schools.
 
 In June 2023, the Swedish Schools Inspectorate was tasked to examine how schools work with the recent changes in the national curricula in all school forms as for the teaching on sexuality, consent and relationships. The task includes explicitly how schools work on preventing intolerance such as racism and LGBTI-phobia. This applies throughout the school system, including adult education.
 
@@ -420,13 +425,15 @@ It  is  up  to  each  higher  education  institution  to  interpret  and  descri
 
 The Swedish Council for Higher Education shall promote widening participation to higher education.
 
-Between 2019-2022 The Swedish Higher Education Authority (Universitetskanslerämbetet)  conducted  a  thematic  evaluation  of  widening participation, based on a task from the government. This evaluation has given higher education institutions (HEI) the opportunity to analyze and evaluate their work  with  widening  access  in  order  to  define  their  strengths,  weaknesses, opportunities and challenges, and also receive feedback on the work. The report was published in February 2022 and includes several recommendations on how the HEI:s should strengthened their work (Universitets och högskolors arbete med  att  främja  och  bredda  rekryteringen  till  högre  utbildning  Tematisk utvärdering, ref 411-00545-19).
+Between 2019-2022 The Swedish Higher Education Authority (Universitetskanslerämbetet) conducted a thematic evaluation of widening participation, based on a task from the government. This evaluation has given higher education institutions (HEI) the opportunity to analyze and evaluate their work with widening access in order to define their strengths, weaknesses,
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-Support for students with disabilities: The Government has allocated national funds for targeted educational support for students with disabilities in the study situation  (Stockholms  University  annual  appropriation  directive  for  2024). Through a national system, students with permanent disabilities can apply for support for studies at Swedish universities and colleges. This support can be, for example,  note-taking  support,  a  mentor  or  adaptation  of  examinations.  The Swedish Council for Higher Education administers the national system. Stockholm University is tasked by the Government to collect information on the higher education institutions' costs for targeted educational support for students with disabilities in the study situation, and also to distribute the national funds allocated for this purpose (Stockholm university annual report 2023, p. 27-28). There is also the possibility for universities and colleges to apply for funds from The National Agency for Special Needs Education and Schools (Specialpedagogiska skolmyndigheten).
+opportunities and challenges, and also receive feedback on the work. The report was published in February 2022 and includes several recommendations on how the HEI:s should strengthened their work (Universitets och högskolors arbete med att främja och bredda rekryteringen till högre utbildning Tematisk utvärdering, ref 411-00545-19).
+
+Support for students with disabilities: The Government has allocated national funds for targeted educational support for students with disabilities in the study situation (Stockholms University annual appropriation directive for 2024). Through a national system, students with permanent disabilities can apply for support for studies at Swedish universities and colleges. This support can be, for example, note-taking support, a mentor or adaptation of examinations. The Swedish Council for Higher Education administers the national system. Stockholm University is tasked by the Government to collect information on the higher education institutions' costs for targeted educational support for students with disabilities in the study situation, and also to distribute the national funds allocated for this purpose (Stockholm university annual report 2023, p. 27-28). There is also the possibility for universities and colleges to apply for funds from The National Agency for Special Needs Education and Schools (Specialpedagogiska skolmyndigheten).
 
 Financial support for students: Financial Support for students is intended to make it easier to study and thereby contribute to a high level of participation in education.  All  domestic  students  and  some  categories  of  foreign  students  are entitled to student finance, but there are minimum performance requirements, in  terms  of  the  number  of  credits  achieved,  for  continued  financial  support. Student finance consists of a combination of study grants and study loans at low interest  rates  (Studiestödsförordning  (2000:655),  kap  3).  Most  students  in Sweden finance their studies with the help of financial support from the state to cover their living expenses. Some universities offer scholarships or financial aid for students based on academic performance or specific needs or other criteria. Various  private  foundations  and  organizations  offer  scholarships  for  both Swedish and international students.
 
@@ -448,7 +455,7 @@ Financial support for students: Financial Support for students is intended to ma
 
 ##### Pre-primary, primary and secondary education
 
-The curriculum for pre-primary and primary school as well as upper secondary education and municipal adult education states that no one should be subjected to discrimination or other degrading treatment on the grounds of gender, ethnic affiliation, religion or other belief system, transgender identity or its expression, sexual  orientation,  age  or  disability.  All  such  tendencies  should  be  actively combated.  Xenophobia  and  intolerance  must  be  confronted  with  knowledge, open discussion and active measures.
+The curriculum for pre-primary and primary school as well as upper secondary education and municipal adult education states that no one should be subjected to discrimination or other degrading treatment on the grounds of gender, ethnic affiliation, religion or other belief system, transgender identity or its expression,
 
 14
 
@@ -456,7 +463,9 @@ The curriculum for pre-primary and primary school as well as upper secondary edu
 
 [[START OF PAGE 15]]
 
-In July 2022, there were changes in the curricula for pre-primary-, primary school as well as corresponding school forms. The changes include, among other things, new writings intended to strengthen the school's work in combating all forms of discrimination,  including  racism.  In  the  curricula  it  is  stated  that  all  forms  of intolerance  and  oppression,  for  example  racism,  sexism  and  honour-related violence and oppression, must be prevented and responded to with knowledge and active efforts.
+sexual orientation, age or disability. All such tendencies should be actively combated. Xenophobia and intolerance must be confronted with knowledge, open discussion and active measures.
+
+In July 2022, there were changes in the curricula for pre-primary-, primary school as well as corresponding school forms. The changes include, among other things, new writings intended to strengthen the school's work in combating all forms of discrimination, including racism. In the curricula it is stated that all forms of intolerance and oppression, for example racism, sexism and honour-related violence and oppression, must be prevented and responded to with knowledge and active efforts.
 
 According to the Swedish Education Act and Discrimination Act, school staff are obliged to take active measures against all forms of discrimination, violence, and intolerance  as  for  example  racism  and  sexism  in  school.  Please  see  more information above.
 
@@ -520,7 +529,7 @@ Please  also  find  examples  of  policies,  programmes  and  initiatives  that 
 
 > 17 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 18 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  co mpetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 18 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 19 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -550,21 +559,23 @@ As  elaborated  on  further  in  the  following  sections,  there  are  prevaili
 
 It  is  also  more common for pupils with disabilities to state that they have been exposed to abusive treatment in school. Pupils with disabilities also generally feel more unsafe in school. The same applies to girls and women, LGBTQI-pupils and pupils with a foreign background.
 
-References: Skolverkets lägesbedömning, s. 15, 22 och 31f: Skolverkets bedömning av läget i skolväsendet 2023 - Skolverket The Swedish National Council of Adult Education (Folkbildningsrådet) is an NGO tasked with distributing national public grants to study associations and folk high schools (liberal adult education, folkbildningen ) 20 . For 2024, the Government allocates appr. 4 billion SEK in grants to liberal adult education via the Swedish National Council of Adult Education . The Government has initiated a gradual adjustment of the state subsidy for study associations, resulting in a reduction of 250 million SEK in the budget for 2024, followed by further reductions of 100 million  SEK  in  2025  and  150  million  SEK  in  2026.  For  2024,  the  state  subsidy  to  study associations amounts to appr. 1.7 billion SEK. The state subsidy to folk high schools has been increased by 100 million SEK per year from 2024. For 2024, the state subsidy to folk high schools amounts to appr. 2,4 billion SEK. The study associations and folk high schools have also received several temporary state grants that ended after 2022 (amounting to a total of 572 million SEK in 2022).
+References: Skolverkets lägesbedömning, s. 15, 22 och 31f: Skolverkets bedömning av läget i skolväsendet 2023 - Skolverket
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-The Swedish National Council of Adult Education reports that the reduced resources for study associations and folk high schools have limited the opportunities to create meeting places and learning across Sweden, which hinders the inclusion of people far from normative society -for whom more outreach, trust-building, and motivational work efforts are needed in order to lower thresholds.
+The Swedish National Council of Adult Education (Folkbildningsrådet) is an NGO tasked with distributing national public grants to study associations and folk high schools (liberal adult education, folkbildningen) 20. For 2024, the Government allocates appr. 4 billion SEK in grants to liberal adult education via the Swedish National Council of Adult Education. The Government has initiated a gradual adjustment of the state subsidy for study associations, resulting in a reduction of 250 million SEK in the budget for 2024, followed by further reductions of 100 million SEK in 2025 and 150 million SEK in 2026. For 2024, the state subsidy to study associations amounts to appr. 1.7 billion SEK. The state subsidy to folk high schools has been increased by 100 million SEK per year from 2024. For 2024, the state subsidy to folk high schools amounts to appr. 2,4 billion SEK. The study associations and folk high schools have also received several temporary state grants that ended after 2022 (amounting to a total of 572 million SEK in 2022).
+
+The Swedish National Council of Adult Education reports that the reduced resources for study associations and folk high schools have limited the opportunities to create meeting places and learning across Sweden, which hinders the inclusion of people far from normative society – for whom more outreach, trust-building, and motivational work efforts are needed in order to lower thresholds.
 
 ##### Discrimination in the field of education in Sweden
 
-Between 2021-2023 the Equality Ombudsman received 2237 complaints about the discrimination complaints in the area of education is disability followed by ethnicity. See the complaints data report for further information: Statistik 2015 -2023: Statistik över anmälningar som inkom till Diskrimineringsombudsmannen 2015 -2023 (do.se) (only available in Swedish).
+Between 2021-2023 the Equality Ombudsman received 2237 complaints about discrimination in the area of education. The most common discrimination ground among the discrimination complaints in the area of education is disability followed by ethnicity. See the complaints data report for further information: Statistik 2015–2023: Statistik över anmälningar som inkom till Diskrimineringsombudsmannen 2015–2023 (do.se) (only available in Swedish).
 
-According to the same report, The State of discrimination in Sweden report 2023, pupils are subjected to sexual harassment at school.
+According to The State of discrimination in Sweden report 2023 (The state of discrimination 2023 | DO), many pupils experience discrimination related to ethnicity or religion during their time at school. The report further shows that people who, based on their appearance, can be assumed to have a certain ethnicity or religion are subjected to harassment, unfounded suspicion, and aggression in various contexts. This may involve people who wear visible signs of a particular ethnicity or religion, such as Roma women and women who wear veils. But it can also involve people who for other reasons are assumed to belong to a certain ethnicity or religion.
 
-discrimination in the area of education. The most common discrimination ground among According to The State of discrimination in Sweden report 2023 (The state of discrimination 2023 | DO), many pupils experience discrimination related to ethnicity or religion during their time at school. The report further shows that people who, based on their appearance, can be assumed to have a certain ethnicity or religion are subjected to harassment, unfounded suspicion, and aggression in various contexts. This may involve people who wear visible signs of a particular ethnicity or religion, such as Roma women and women who wear veils. But it can also involve people who for other reasons are assumed to belong to a certain ethnicity or religion. many
+According to the same report, The State of discrimination in Sweden report 2023, many pupils are subjected to sexual harassment at school.
 
 The report also highlights discrimination against pupils with neurodevelopmental disorders, NDs. A major problem is that pupils do not receive the support and adaptations they need to achieve the learning objectives. Another problem described is that pupils are harassed by school staff or other pupils. The report notes an interplay between harassment related to ethnicity and pupils with NDs not receiving the support to which they are entitled (The state of discrimination 2023 | DO, page 89).
 
@@ -592,19 +603,19 @@ The report also highlights discrimination against pupils with neurodevelopmental
 
 ☐ Teachers are trained to combat stigmatisation 21
 
-☒ All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
+☐ Other:
+
+☒ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
 ☒ Re-entry programmes for young mothers are provided for
 
-☒ Ensuring safe and adequate gender- sensitive sanitation facilities 22
+☒ Ensuring safe and adequate gender-sensitive sanitation facilities 22
 
 ☒ Curricula are rid of all stereotypes 23 and bias
 
 ☒ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
 ☐ Ensuring gender parity in technical and vocational training education and training (TVET)
-
-☐ Other:
 
 As  regards  the  Instrument  of  Government  (Regeringsformen),  which  forms  part  of  the Swedish Constitution, and the Discrimination Act (2008:567), please see 1.1 above.
 
@@ -620,7 +631,7 @@ The  Government's  memorandum  states,  among  other  things,  that  those  who 
 
 > 21 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 22 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 22 'Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 23 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -636,7 +647,7 @@ The  Government's  development  programme  for  gender  mainstreaming  in  gover
 
 The Swedish government is working on a strategy to strengthen STEM throughout the whole education system, from pre-school to PhD. Sweden needs more students to choose to study within programmes in upper secondary school where they gain both knowledge and  interest  for  further  studies  in  natural  sciences  and  technology.  We  also  need  to encourage more women to apply to and graduate from these programmes to ensure that more students complete their studies in engineering programmes in higher education. The strategy will be presented by the end of the year.
 
-'Tekniksprå n get' is an internship program in which young people for four months have the  opportunity  to  do  a  work  placement  in  engineering.  Through  the  investment,  the interest  among  young  women  and  men  in  engineering  education  has  broadened.  The Swedish  National  Agency  for  Education's  evaluation  of  the  initiative  shows  that  the Technology Leap has been beneficial for the young people who participate in the effort, and especially  for  women.  The  government  therefore  proposes  that  the  investment  be strengthened and extended.
+“Tekniksprånget” is an internship program in which young people for four months have the opportunity to do a work placement in engineering. Through the investment, the interest among young women and men in engineering education has broadened. The Swedish National Agency for Education's evaluation of the initiative shows that the Technology Leap has been beneficial for the young people who participate in the effort, and especially for women. The government therefore proposes that the investment be strengthened and extended.
 
 ###### Higher education
 
@@ -658,29 +669,33 @@ Sweden´s national quality assurance agency, The Swedish Higher Education Author
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-- What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
-
 In both compulsory school and upper secondary school, the differences in the knowledge results between girls and boys and women and men, respectively, are noticeable, and where girls and women have higher grades and complete their studies to a greater extent than boys and men. There are also clear differences in the results between students with a foreign background and students with a Swedish background and between students with different socio-economic backgrounds. It is a development that emphasizes the importance of the school's compensatory mission.
----
+
 Several of the school's course and subject syllabuses describe how gender equality should be included in the teaching, both directly and indirectly. It can, for example, be about sexuality and reproduction or questions about identity, gender equality, relationships, love and responsibility in biology. In August 2018, the Government issued an ordinance on a revised curriculum for preschools. The new curriculum (Lpfö18) has been prepared by the National Agency for Education and entered into force on 1 July 2019. The Government's memorandum states, among other things, that those who work in preschool must promote the equal value of all people, equality between women and men, girls and boys. No child shall be subjected to discrimination in preschool on the grounds of sex, transgender identity or expression, ethnicity, religion or other belief, disability, sexual orientation or age, in the child or anyone related to the child, or to other abusive treatment. All such tendencies must be actively counteracted. The new curriculum for preschool contains, among other things, clearer provisions regarding gender equality, integrity and highlights the children's language development.
 
-There are still differences in knowledge results between girls and boys and women and men, both in compulsory school and upper secondary school, where girls and women have higher grades  and  complete  their  studies  to  a  greater  extent  than  boys  and  men.  There  are  also differences in the results in international studies, even if they are small and not visible in all subjects. The difference in the share of pupils that become eligible for a national program in upper secondary school has however decreased over time and is now the lowest it has been since the start of the data series in 1998. The difference was 1,2 percentage points in 2023 (girls 85,8 per cent and boys 84,2 per cent) compared to 2,7 in 2020 (girls 87,0 per cent and boys 84,3 per cent). The share of pupils finishing their upper secondary school degree within the stipulated three  years  is  also  generally  higher  for  women  than  it  is  for  men.  For  vocational  program
+- What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
+
+There are still differences in knowledge results between girls and boys and women and men, both in compulsory school and upper secondary school, where girls and women have higher grades and complete their studies to a greater extent than boys and men. There are also differences in the results in international studies, even if they are small and not visible in all subjects. The difference in the share of pupils that become eligible for a national program in upper secondary school has however decreased over time and is now the lowest it has been since the start of the data series in 1998. The difference was 1,2 percentage points in 2023 (girls 85,8 per cent and boys 84,2 per cent) compared to 2,7 in 2020 (girls 87,0 per cent and boys 84,3 per cent). The share of pupils finishing their upper secondary school degree within the stipulated three years is also generally higher for women than it is for men. For vocational program
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
 generally however, the share is higher for men. There is a clear connection between the gender distribution and the share of women and men finishing with a degree in three years. Pupils of the overrepresented sex in a national program tend to finish their degree in a larger extent. There are clear differences in the gender distribution for almost all national programs in upper secondary school.
----
+
 Even if most pupils feel safe in schools and don´t experience abusive treatment, there are clear differences between girls and boys and women and men. Girls and women in a larger extent state that they are subjected to abusive treatment by other pupils and that they feel unsafe and lonely in school. Girls also to a larger than boys extent state that they feel stressed by schoolwork.
-According to the NGO, the Swedish National Council of Adult Education (Folkbildningsrådet), women are overrepresented in liberal adult education provided by study associations and folk high schools. With reduced funds, they report that participation is decreasing - making it more difficult for the study associations to include and reach out to men. As young men - more often than women - increasingly lack trust in democracy and are attracted by misogynistic and nationalist messages, engaging them in democratic learning is vital. In the activities of study associations, men are more often found in cultural activities, especially music activities which are directly affected negatively by the budget cuts with many music centres being at risk of closing down. 24 See page 18 for information regarding the conditions for liberal adult
-The State of Discrimination in Sweden 2023 report by the Equality Ombudsman highlight that many girls feel sexually harassed at school. In 2023, 12 % of all reported cases of discrimination in the field of education filed to the Equality Ombudsman concerned sexual harassment. The field of education is thus overrepresented when it comes to reports of sexual harassment, which can be compared to 7 % regardless of social area (Statistik 2015 - 2023: Statistik över anmälningar som inkom till Diskrimineringsombudsmannen 2015 - 2023 (do.se), figure 15, page 43).
+
+According to the NGO, the Swedish National Council of Adult Education (Folkbildningsrådet), women are overrepresented in liberal adult education provided by study associations and folk high schools. With reduced funds, they report that participation is decreasing – making it more difficult for the study associations to include and reach out to men. As young men – more often than women – increasingly lack trust in democracy and are attracted by misogynistic and nationalist messages, engaging them in democratic learning is vital. In the activities of study associations, men are more often found in cultural activities, especially music activities which are directly affected negatively by the budget cuts with many music centres being at risk of closing down. 24 See page 18 for information regarding the conditions for liberal adult education in Sweden.
+
+The State of Discrimination in Sweden 2023 report by the Equality Ombudsman highlight that many girls feel sexually harassed at school. In 2023, 12 % of all reported cases of discrimination in the field of education filed to the Equality Ombudsman concerned sexual harassment. The field of education is thus overrepresented when it comes to reports of sexual harassment, which can be compared to 7 % regardless of social area (Statistik 2015–2023: Statistik över anmälningar som inkom till Diskrimineringsombudsmannen 2015–2023 (do.se), figure 15, page 43).
+
 In 2023, the Equality Ombudsman claimed compensation in four cases of sexual harassment in the field of education. Three of these cases took place in school and one in preschool. In all these cases girls were sexually harassed by male teachers. In all of the cases the Equality Ombudsman claimed financial compensation which was paid from the responsible entity to the girls/women exposed to sexual harassment.
+
 The cases investigated by the Equality Ombudsman related to sexual harassment in school are also a way of drawing attention to and point to the fact that schools are responsible for preventing sexual harassment in school. Not fulfilling this responsibility could lead to serious consequences.
 
 - Does the legal minimum age for marriage conform to international standards (18 years) 25 :
 
-> 24  Statistics on participation, including for men and women, can be found in the annual report "Samlad bedömning'. It can be downloaded here: www.folkbildningsradet.se/media/d0udge41/folkbildningsradets-samlade-bedomningfolkbildningens-betydelse-for-samhallet-2023.pdf.
+> 24 Statistics on participation, including for men and women, can be found in the annual report "Samlad bedömning". It can be downloaded here: www.folkbildningsradet.se/media/d0udge41/folkbildningsradets-samlade-bedomning-folkbildningens-betydelse-for-samhallet-2023.pdf.
 
 > 25 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: ' a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law  and on the evidence of maturity, without deference to culture and tradition.'
 
@@ -762,13 +777,15 @@ There is also sectoral legislation that lays down specific rights for the nation
 
 Preschool and preschool class should contribute to give children the opportunity to develop both the Swedish language and their mother tongue. On 1 January 2019, an amendment to the Education Act (2010:800) entered into force, enhancing the right to preschool education in Finnish, Meänkieli and Sami in municipalities that fall within an administrative area. According to Chapter 8, Section 12b of the Education Act, a home municipality that is within an administrative area under the Act on National Minorities and National Minority Languages must offer children whose parents or guardians so request, a place in a preschool where all or a significant part of the education is conducted respectively in Finnish, Meänkieli or Sami. It also states that parents or guardians applying for a preschool place for their child must be asked whether they wish to have a place in such a preschool.
 
-Changes to the Education Act which entered into force on 1 July 2015 gave pupils who belong to any of the national minorities a stronger right to mother tongue tuition in their national minority language. In 2014 the National Agency for Education was commissioned by the Government to draw up proposals for specified syllabi content for compulsory school, compulsory school for pupils with learning disabilities, special school and Sami school in the subject mother tongue for the national minority languages Finnish, Romani Chib, Meänkieli and Yiddish -as first and as second languages. The Agency reported back on 8 September 2015 and the syllabi entered into force on 1 July 2016.
+Changes to the Education Act which entered into force on 1 July 2015 gave pupils who belong to any of the national minorities a stronger right to mother tongue tuition in
 
 24
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+their national minority language. In 2014, the National Agency for Education was commissioned by the Government to draw up proposals for specified syllabi content for compulsory school, compulsory school for pupils with learning disabilities, special school and Sami school in the subject mother tongue for the national minority languages Finnish, Romani Chib, Meänkieli and Yiddish – as first and as second languages. The Agency reported back on 8 September 2015 and the syllabi entered into force on 1 July 2016.
 
 According to the Education Act pupils who belong to one of the five national minorities in compulsory and upper secondary school in Sweden are entitled to mother tongue tuition even if the language does not represent the daily means of interaction in the pupil's home.
 
@@ -784,13 +801,15 @@ The government has decided to allocate more time to the socially oriented subjec
 
 According to the curriculum, education in preschool must lay the foundation for the children's understanding of different languages and cultures, including the languages and cultures of the national minorities. Children who belong to the national minorities, which include the indigenous Sami people, must also be supported in their language development in their national minority language and promoted in their development of a cultural identity. The preschool must thereby contribute to protecting and promoting the languages and cultures of the national minorities.
 
-In upper secondary school, which in Sweden includes both higher education preparatory programmes and vocational programmes, prior knowledge to the national minority language is required. However, this requirement will be removed as from 1 July 2025. In both compulsory and upper secondary school, the education provider is obliged to organise mother tongue tuition in the national minority languages even if only one pupil at the school applies for tuition in the language concerned. However, the requirement that a suitable teacher must be available also applies to the national minority languages.
+In upper secondary school, which in Sweden includes both higher education preparatory programmes and vocational programmes, prior knowledge to the national minority language is required. However, this requirement will be removed as from 1 July 2025. In both compulsory and upper secondary school, the education provider is
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-Upper secondary school pupils, who belong to one of the national minorities are, as mentioned, entitled to teaching in their mother tongue even if the language does not represent the daily means of interaction in the pupil's home. As from 1 July 2025 pupils will no longer need to have good knowledge of the language. Pupils can also study their national minority language -Finnish, Sami, Yiddish, Meänkieli or Romani Chib -as a language option at upper secondary school. Studies can start at a level based on  the pupil's existing skills.
+obliged to organise mother tongue tuition in the national minority languages even if only one pupil at the school applies for tuition in the language concerned. However, the requirement that a suitable teacher must be available also applies to the national minority languages.
+
+Upper secondary school pupils, who belong to one of the national minorities are, as mentioned, entitled to teaching in their mother tongue even if the language does not represent the daily means of interaction in the pupil’s home. As from 1 July 2025 pupils will no longer need to have good knowledge of the language. Pupils can also study their national minority language – Finnish, Sami, Yiddish, Meänkieli or Romani Chib – as a language option at upper secondary school. Studies can start at a level based on the pupil’s existing skills.
 
 ###### Jewish studies
 
@@ -814,11 +833,11 @@ The  Swedish  National  Agency  for  Education  has  been  tasked  in  2024  and
 
 The Government has recently increased its funding to the University  of  Gothenburg which, via the Segerstedt Institute, spreads knowledge of working methods to combat antisemitism for actors who play an important role in combating antisemitism among children and young people, such as teachers and head teachers.
 
-The Government has commissioned the Swedish National Agency for Education to carry out a national study on antisemitism with the aim of investigating children's, pupils' and staff's experiences of contemporary antisemitic expressions, incidents and attitud es in the school system 2024-2025. The assignment also includes to describe how the school system works to counter antisemitism.
+The Government has commissioned the Swedish National Agency for Education to carry out a national study on antisemitism with the aim of investigating children’s, pupils’ and staff’s experiences of contemporary antisemitic expressions, incidents and attitudes in the school system 2024-2025. The assignment also includes to describe how the school system works to counter antisemitism.
 
 The National Agency for Education offers via its website updated support in teaching about  national  minorities  and  support  in  the  work  against  racism,  intolerance  and standing up for the equal value of all people. The Swedish National Agency for Education provides,  among  other  things,  material  that  gives  teachers  support  in  being  able  to handle controversial issues in the classroom. There is also support in how the school can  work  with  active  measures  and  to  investigate  whether  there  are  risks  of discrimination, harassment or sexual harassment in its own activities.
 
-The NGO, the Swedish National Council of Adult Education, points out that the tool ' the Democracy  Ladder ' , described in section 1.1, continues to also include study associations. Several folk high schools have tested the  tool, which helps to make the work systematic, to identify the school's specific challenges, and to create a work plan. The work engages the entire school, from management to participants, and focuses on everything from strengthening critical thinking to democratic working methods - and counteracting discrimination.
+The NGO, the Swedish National Council of Adult Education, points out that the tool “the Democracy Ladder”, described in section 1.1, continues to also include study associations. Several folk high schools have tested the tool, which helps to make the work systematic, to identify the school's specific challenges, and to create a work plan. The work engages the entire school, from management to participants, and focuses on everything from strengthening critical thinking to democratic working methods – and counteracting discrimination.
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
@@ -828,7 +847,7 @@ The Swedish National Agency for Education has produced a competence development 
 
 In  order  to  increase  the  availability  of  qualified  teachers,  the  Swedish  National  Agency  for Education has been offering distance learning for Sámi teachers at Sámi allaskuvla in Norway since autumn 2018. The education consists of four university courses of 7.5 university credits in Sami and is conducted at quarter speed.
 
-The NGO, Swedish National Council of Adult Education, reports that one of their study associations with Muslim orientation faces growing anti-Muslim opinions and increased mistrust which could have a negative impact on their operations. www.folkbildningsradet.se/om-folkbildningsradet/publikationer-och- remissvar/rapporter/rapporter-2019/nar-tilliten-provas.
+The NGO, Swedish National Council of Adult Education, reports that one of their study associations with Muslim orientation faces growing anti-Muslim opinions and increased mistrust which could have a negative impact on their operations. www.folkbildningsradet.se/om-folkbildningsradet/publikationer-och-remissvar/rapporter/rapporter-2019/nar-tilliten-provas.
 
 There are also further details on the situation for Muslim civil society in the report 'Kartläggning av hot och hat mot det civila samhället' (Mapping threats and hatred against Civil Society) from MUCF. : Kartläggning av hot och hat mot det civila samhället | MUCF
 
@@ -878,13 +897,9 @@ Activities are regulated by the Education Act. The Sámi Education Board may als
 
 There are five Sámi schools, all located in municipalities in the administrative area of protecting  and  promoting  the  Sámi  languages  in  correspondence  to  the  Minority Language  Act.  Teaching  in  Sámi  schools  is  conducted  in  three  variants  of  the  Sámi language, Lule Sámi, Northern Sámi and Southern Sámi, as both a first and a second
 
-> Supra note 15.
+> 29 Supra note 15.
 
-> Supra note 16.
-
-29
-
-30
+> 30 Supra note 16.
 
 28
 
@@ -893,8 +908,9 @@ There are five Sámi schools, all located in municipalities in the administrativ
 [[START OF PAGE 29]]
 
 language, and in Swedish, as both a first and a second language. There are preschools and out-of-school centres at all Sámi schools.
----
+
 ###### Integrated sámi education
+
 The education act (Chapter 10 §7a) states that a principal of a compulsory school may organize Sámi education in their primary school for students who may fulfill part of their compulsory schooling in the Sami school, if the principal and the Sami School Board enter into an agreement to that effect. Sami teaching refers to teaching with Sami elements and teaching in Sami in addition to the teaching organized as mother tongue teaching in Sami.
 The education for the students referred to in chapter 10 §7a must be integrated with the corresponding education for other students in primary school. Sami teaching may be scheduled outside of the guaranteed teaching time.
 The education act also states that students who have a language other than Swedish as their daily language of communication with one or both guardians, parts of the teaching in grades 1 - 6 may be organized in this language. For students with Finnish as a social language, such teaching may also be organized in grades 7 - 9.
@@ -903,7 +919,7 @@ During the total time that the student receives bilingual education, no more tha
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  indigenous  people?  If needed, brief quantitative information may be added.
 
 As the regulations are structured today, it is required that a teacher meets the requirements to obtain an authorization to teach a subject in primary school in order to obtain authorization to teach the corresponding subject and grades in the Sami school. To get one authorization to teach a subject in the Sami school therefore requires that the subject is in compulsory school. The subject of Sami is not in primary school and the Swedish National Agency for Education can therefore not legitimize and give authorization to teach the subject of Sami in the Sami school. This has been investigated and elucidated, among other things, in the ministry memorandum "Authority in the subject Sami and certain curriculum changes for increased security and study peace" U2020/00232/S.
----
+
 The NGO, Swedish National Council of Adult Education expresses concern that decreasing funds will jeopardize ongoing and effective initiatives. The Government has tasked the Swedish National Council of Adult Education to allocate funds for liberal adult education to revitalise national minority languages, including Sami languages. During the first half of 2022, 7.5 million SEK were available for distribution, followed by 9.5 million SEK per year in 2023 and 2024. Of the 29 projects funded in 2023, 16 included activities to strengthen Sami languages. However, 2024 is the final year these funds will be allocated. See page 18 for information regarding the conditions for liberal adult education in Sweden.
 
 [[END OF PAGE 29]]
@@ -950,7 +966,7 @@ The NGO, Swedish National Council of Adult Education expresses concern that decr
 
 Chapter 29, Section 2 and 3 of the Education Act (2010:800) stipulates that children who are asylum seekers have the right to attend preschool, preschool class, compulsory education and upper secondary school if started before the year of 18. From 1 July 2013, the Act also stipulates that children who are staying in Sweden without a legal permit are entitled to education in preschool class, compulsory education and upper secondary school if started before the year of 18.
 
-Swedish tuition for immigrants' forms part of the public adult education system in Sweden. The purpose of the scheme is to provide learners with basic Swedish language skills. It also aims to give adult immigrants who cannot read or write a chance to acquire these skills. Immigrants must be given the opportunity to develop their ability to communicate in Swedish -orally and in writing -in  everyday situations, social settings and working life. Swedish for immigrants must also prepare learners for further studies.
+Swedish tuition for immigrants’ forms part of the public adult education system in Sweden. The purpose of the scheme is to provide learners with basic Swedish language skills. It also aims to give adult immigrants who cannot read or write a chance to acquire these skills. Immigrants must be given the opportunity to develop their ability to communicate in Swedish – orally and in writing – in everyday situations, social settings and working life. Swedish for immigrants must also prepare learners for further studies.
 
 > 31 ' Trapped  populations  are  those  who  are  unable  to  migrate  to  safe  locations  and  remain  trapped  in  locations vulnerable to the impacts of climate hazards' ( UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
 
@@ -968,7 +984,7 @@ Swedish tuition for immigrants' forms part of the public adult education system 
 
 [[START OF PAGE 31]]
 
-Municipalities are required to offer Swedish language instruction to all adult immigrants who lack basic Swedish language skills. Instruction should normally begin within three months of registration of residence  in  the  municipality.  Depending  on  the  learn er's educational background and previous knowledge, she or he is placed in one of three differently paced study tracks, with the right to progress to course D in study track 3, regardless of which track she or he started in.
+Municipalities are required to offer Swedish language instruction to all adult immigrants who lack basic Swedish language skills. Instruction should normally begin within three months of registration of residence in the municipality. Depending on the learner’s educational background and previous knowledge, she or he is placed in one of three differently paced study tracks, with the right to progress to course D in study track 3, regardless of which track she or he started in.
 
 On behalf of the Government, the National Agency for Education implements initiatives to strengthen the quality of education for children and students who are new arrivals or have a mother tongue other than Swedish (U2019 / 03787 / S). The assignment includes school forms from preschool to adult education.
 
@@ -996,7 +1012,7 @@ Higher education in Sweden is free from tuitions fees for Swedish citizens, citi
 
 ###### Compulsory education
 
-Proposition 2014/15:45 Education for newly arriving students -reception and schooling.
+Proposition 2014/15:45 Education for newly arriving students – reception and schooling.
 
 A formal definition of 'new arrival' was proposed to be made legally active in the Education Act: a new arrival is one who has started their education after the autumn term of their seventh birthday;  a  student  is  no  longer  considered  a  new  arrival  four  years  after  starting  their education in Sweden. Additional proposals were made concerning new arrival's integration into the school system: new arrivals were expected to be evaluated and given an appropriate placement and study plan (in correspondence to their abilities, educational background etc.) within two months of arrival. New arrivals with especially weak skills were recommended to be  placed  in  preparatory  schooling  until  the  student  be  deemed  adequately  prepared  for 'regular' schooling or had been in preparatory schooling for two years, whichever occurred first. The proposition was ratified January 2016.
 
@@ -1008,7 +1024,7 @@ The secondary school's national program is open to young people who live in Swed
 
 Refugees who have arrived in Sweden will have their application for asylum assessed by the Swedish Migration board. As this process may take time, it may take a long time before they receive a residence permit. During the application period they are generally required to pay tuition fees for higher education studies. This may deter them from pursuing higher education.
 
-People who have fled war zones for example may not have access to documentation regarding their qualifications. This makes it very difficult for them to apply to universities in Sweden as eligibility requirements are generally assessed based on previous qualifications, such as upper secondary school grades and previous university studies. Universities have the right to make exemptions regarding an applican t's eligibility, but it will generally be difficult for a person without  documentation  to  prove  that  they  have  the  necessary  qualifications.  The  Swedish Council for Higher Education (UHR), which is the government authority responsible for the assessment of foreign qualifications, has developed a website that can show what a specific qualification in one country is equal to in Sweden. However, it is up to the university to which a person has applied to decide on whether to admit a person based on solely the description of a qualification that the person claims to have.
+People who have fled war zones for example may not have access to documentation regarding their qualifications. This makes it very difficult for them to apply to universities in Sweden as eligibility requirements are generally assessed based on previous qualifications, such as upper secondary school grades and previous university studies. Universities have the right to make exemptions regarding an applicant’s eligibility, but it will generally be difficult for a person without documentation to prove that they have the necessary qualifications. The Swedish Council for Higher Education (UHR), which is the government authority responsible for the assessment of foreign qualifications, has developed a website that can show what a specific qualification in one country is equal to in Sweden. However, it is up to the university to which a person has applied to decide on whether to admit a person based on solely the description of a qualification that the person claims to have.
 
 ###### Other
 
@@ -1050,9 +1066,7 @@ The  NGO,  the  Swedish  National  Council  of  Adult  Education,  expresses  co
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-The Swedish school system is based on the idea of inclusion. The current government has strengthened its investments in support measures for pupils with special needs, including children with disabilities, with state grants to increase the number of special needs teachers and special educational support measures. In 2023, the Government decided on investments for these purposes with 600 million SEK, 900 million SEK in 2024. The government estimates 1 billion SEK in 2025. Over the last years the number of graduated special needs teachers have increased. To support the recruitment of student health service personnel,
-
-the government invests 150 million SEK every year.
+The Swedish school system is based on the idea of inclusion. The current government has strengthened its investments in support measures for pupils with special needs, including children with disabilities, with state grants to increase the number of special needs teachers and special educational support measures. In 2023, the Government decided on investments for these purposes with 600 million SEK, 900 million SEK in 2024. The government estimates 1 billion SEK in 2025. Over the last years the number of graduated special needs teachers have increased. To support the recruitment of student health service personnel, the government invests 150 million SEK every year.
 
 In 2023, the Government tasked the National Agency for Education and the National Agency for Special Needs Education and Schools to strengthen their support for pupils with neurodevelopmental disorders, by providing teacher training activities. The agencies, together with researchers, have developed training materials for this purpose.
 
@@ -1092,113 +1106,37 @@ Upper secondary education consists of both preparatory programmes for higher edu
 
 [[START OF PAGE 35]]
 
-for students with severe physical disabilities. Here, students are guaranteed personal care,
+for students with severe physical disabilities. Here, students are guaranteed personal care, boarding houses, treatment and training.
 
-boarding houses, treatment and training.
-
-The National Agency for Special Needs Education and Schools, SPSM, ensures that children,
-
-young people and adults
-
--
-
-regardless of functional ability
-
--
-
-have adequate conditions to
-
-fulfil their educational goals. This is done through special needs support, education in
-
-special needs schools, accessible teaching materials and government funding.
+The National Agency for Special Needs Education and Schools, SPSM, ensures that children, young people and adults – regardless of functional ability – have adequate conditions to fulfil their educational goals. This is done through special needs support, education in special needs schools, accessible teaching materials and government funding.
 
 ###### Education for adults with intellectual impairment
 
-Education  for  adults  with  intellectual  impairment  is  another  part  of  the  public  adult
-
-education  system.  This  scheme,  which  is  divided  into  basic  adult  education  and  upper
-
-secondary level education, is intended for adults with intellectual impairment or acquired
-
-brain injury.
+Education for adults with intellectual impairment is another part of the public adult education system. This scheme, which is divided into basic adult education and upper secondary level education, is intended for adults with intellectual impairment or acquired brain injury.
 
 ###### Higher Education
 
-The Government has allocated national funds for targeted educational support for students
-
-with disabilities in the study situation (Stockholm university annual report 2023, p 27-28).
-
-Through a national system, students with permanent disabilities can apply for support for
-
-studies at Swedish universities and colleges. This support can be, for example, note-taking
-
-support, a mentor or adaptation of examinations. The Swedish Council for Higher
-
-Education administers the national system. Stockholm University is tasked by the
-
-government to collect information on the higher education institutions' costs for targeted
-
-educational support for students with disabilities in the study situation, and also to
-
-distribute the national funds allocated for this purpose. There is also the possibility for
-
-universities and colleges to apply for funds from The National Agency for Special Needs
-
-Education and Schools, SPSM.
+The Government has allocated national funds for targeted educational support for students with disabilities in the study situation (Stockholm university annual report 2023, p 27-28). Through a national system, students with permanent disabilities can apply for support for studies at Swedish universities and colleges. This support can be, for example, note-taking support, a mentor or adaptation of examinations. The Swedish Council for Higher Education administers the national system. Stockholm University is tasked by the government to collect information on the higher education institutions' costs for targeted educational support for students with disabilities in the study situation, and also to distribute the national funds allocated for this purpose. There is also the possibility for universities and colleges to apply for funds from The National Agency for Special Needs Education and Schools, SPSM.
 
 ###### Folkbildning
 
-Folkbildning  is  a  form  of  non-formal  learning  and  an  umbrella  term  for  a  variety  of
+Folkbildning is a form of non-formal learning and an umbrella term for a variety of educational formats conducted at folk high schools and study associations. Study associations and folk high schools are a vital part of Swedish democracy and the educational framework. Currently, there are 9 study associations and 155 folk high schools in Sweden that are all eligible for state funding. The study associations offer activities in all 290 Swedish municipalities. The folk high schools currently offer long courses (two or more weeks) in 151 municipalities.
 
-educational
-
-formats  conducted  at
-
-folk
-
-high
-
-schools
-
-and  study
-
-associations.
-
-Study
-
-associations and folk high schools are a vital part of Swedish democracy and the educational
-
-framework.
-
-Currently, there are 9 study associations and 155 folk high schools in Sweden
-
-that are all eligible for state funding. The study associations offer activities in all 290 Swedish
-
-municipalities. The folk high schools currently offer long courses (two or more weeks) in
-
-151 municipalities.
-
-The general classes at folk high schools are designed for students with incomplete primary
-
-or secondary education. Some of the classes are especially aimed for example for students
-
-with disabilities or other mother tongues than Swedish. In the general classes on secondary
-
-education level 45 % of the participants had a disability (2023).
+The general classes at folk high schools are designed for students with incomplete primary or secondary education. Some of the classes are especially aimed for example for students with disabilities or other mother tongues than Swedish. In the general classes on secondary education level 45 % of the participants had a disability (2023).
 
 Sweden is also party to the UN Convention on the Rights of Persons with Disabilities.
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
 Due to regulatory matters it is difficult to have statistics regarding children, pupils and adults with disabilities.
----
-In order to design interventions to support children and pupils with disabilities in the school system, we need better and systematically collected data. In particular, we need to be able to follow developments over time and have better means of accessing children's/ custodians' experiences of the child's situation in school. Pupils with disabilities experience more school
+
+In order to design interventions to support children and pupils with disabilities in the school system, we need better and systematically collected data. In particular, we need to be able to follow developments over time and have better means of accessing children’s/ custodians’ experiences of the child’s situation in school. Pupils with disabilities experience more school
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
 
-stress and bullying than children without disabilities. This is stated in the Public Health Agency's report 'Children with disabilities -living conditions, lifestyle and health'. In the past five years, the Equality Ombudsman (DO) has received an average of approximately 270 notifications per year about discrimination related to disability in the field of education. Pupils with disabilities have a greater risk of extensive school absences than other pupils. The School Inspectorate writes in a quality review that in the reporting cases concerning extensive absences, attention is drawn to a certain overrepresentation of pupils with neurodevelopmental disorders.
+stress and bullying than children without disabilities. This is stated in the Public Health Agency's report ”Children with disabilities - living conditions, lifestyle and health”. In the past five years, the Equality Ombudsman (DO) has received an average of approximately 270 notifications per year about discrimination related to disability in the field of education. Pupils with disabilities have a greater risk of extensive school absences than other pupils. The School Inspectorate writes in a quality review that in the reporting cases concerning extensive absences, attention is drawn to a certain overrepresentation of pupils with neurodevelopmental disorders.
 
 In Compulsory school for pupils with Intellectual Disabilities only 9.8 % of the teachers have the correct teaching credentials in the schoolyear of 2023/24. Furthermore, there is an increase of pupils in compulsory schools for pupils with intellectual disabilities. Since 2018/19 there has been an increase from 1% to 1,4% of the total part of pupils in the compulsory school that receive their teaching according to curriculum for the compulsory school for pupils with intellectual disabilities.
 
@@ -1206,11 +1144,7 @@ One significant challenge is the weak connection between upper secondary school 
 
 Due to reduced government grants, the NGO Swedish National Council of Adult Education, notes that folk high schools struggle with maintaining quality activities aimed at participants who  may  need  extra  resources  such  as  individuals  with  neuropsychiatric  disorders,  NDs, participants  with  intellectual  disabilities,  multiple  disabilities,  or  those  who  need  personal support even after the school day has ended (for participants studying at boarding schools). For these groups the folk high schools are an important alternative and complement to the regular school system and participation in folk high schools is increasingly popular among individuals with neuropsychiatric disorders, NDs.
 
-The conditions for state grants to liberal adult education require work on accessibility and special support for people with disabilities. The state grant systems are designed to support such  work.  Surveys  show  that  the  majority  of  people  with  disabilities  find  the  activities accessible  to  them.  There  are  certain  study  associations  and  folk  high  schools  that  are particularly  good  at  accommodating  participants  with  disabilities.  Liberal  adult  education offers a wide range of activities that support democratic participation, provide community and personal  development,  and  strengthen  self-determination  and  independence.  This  also involves  offering  adapted  activities  to  succeed  in  gaining  eligibility  for  higher  studies,  or activities that enable rehabilitation and reorientation after an injury or illness, such as aphasia
-
-(www.folkbildningsradet.se/media/d0udge41/folkbildningsradets-samlade-bedomningfolkbildningens-betydelse-for-samhallet-2023.pdf.).  See  page  18  for  information  regarding  the
-
-conditions for liberal adult education in Sweden.
+The conditions for state grants to liberal adult education require work on accessibility and special support for people with disabilities. The state grant systems are designed to support such work. Surveys show that the majority of people with disabilities find the activities accessible to them. There are certain study associations and folk high schools that are particularly good at accommodating participants with disabilities. Liberal adult education offers a wide range of activities that support democratic participation, provide community and personal development, and strengthen self-determination and independence. This also involves offering adapted activities to succeed in gaining eligibility for higher studies, or activities that enable rehabilitation and reorientation after an injury or illness, such as aphasia (www.folkbildningsradet.se/media/d0udge41/folkbildningsradets-samlade-bedomning-folkbildningens-betydelse-for-samhallet-2023.pdf.). See page 18 for information regarding the conditions for liberal adult education in Sweden.
 
 Notes from the two governmental agencies the Swedish Equality Ombudsman (DO) and the Swedish Agency for Participation (MFD):
 
@@ -1226,7 +1160,7 @@ It is significantly more common that people with disabilities have a pre-seconda
 
 People with disabilities are also over-represented to not complete upper secondary education, 11 % compared to 4 % in the population at large (Uppföljning av funktionshinderspolitiken 2023 (mfd.se), page 33-34 and Statistiska Centralbyrån (2023), Undersökningarna av levnadsförhållanden (ULF) 2022).
 
-59 % of the 856 complaints about discrimination in the area of education received in 2023 concerned disability. The number of complaints have increased from around 300 in 2021 to about  500  in  2023  (Statistik  2015 -2023:  Statistik  över  anmälningar  som  inkom  till Diskrimineringsombudsmannen 2015 -2023 (do.se), figure 15, page 43, figure 16, page 44).
+59 % of the 856 complaints about discrimination in the area of education received in 2023 concerned disability. The number of complaints have increased from around 300 in 2021 to about 500 in 2023 (Statistik 2015–2023: Statistik över anmälningar som inkom till Diskrimineringsombudsmannen 2015–2023 (do.se), figure 15, page 43, figure 16, page 44).
 
 Students with disabilities generally feel worse at school, run a higher risk of being bullied and report psychological problems to a greater extent. Especially boys with disability report poorer well-being  at  school  and  more  illegitimate  absenteeism  than  girls  with  disabilities.  A particularly vulnerable group in this context are children with neuropsychiatric impairments who have an increased risk of mental illness  during  school,  and  they  are  overrepresented among students who do not receive passing grades (Uppföljning av funktionshinderspolitiken 2023 (mfd.se).
 
@@ -1234,7 +1168,7 @@ A large proportion of complaints about discrimination related to disability conc
 
 In  complaints  filed  with  DO,  in  DO's  supervisory  work,  and  in  dialogue  with  civil  society organisations, it has emerged that many schools are failing to meet the need for extra adaptation or special support to pupils with neurodevelopmental disorders, NDs, which they are entitled to according to the Education Act. The consequence is that they are given poorer conditions for achieving the school's learning objectives and receiving a proper schooling. If the school does not ensure that pupils' needs for extra adaptation and special support are met, pupils may be discriminated against in the form of inadequate accessibility. During the period 2021-2023 the Equality Ombudsman claimed compensation in five cases of discrimination in education related to disability (The state of discrimination 2023 | DO).
 
-For example, in 2023 the Equality Ombudsman filed a claim for compensation on half a million Swedish  krona  (approximately  44 000  euros)  for  a  case  concerning  discrimination  from second grade to eight grade of a pupil with ND, since the pupil's right to edu cation was not met in most of his primary education due to the school had not fulfilled its responsibility.
+For example, in 2023 the Equality Ombudsman filed a claim for compensation on half a million Swedish krona (approximately 44 000 euros) for a case concerning discrimination from second grade to eight grade of a pupil with ND, since the pupil’s right to education was not met in most of his primary education due to the school had not fulfilled its responsibility.
 
 Investigations into special support for students take too long, and it can take a long time before the support measures are put in place. Many students do not receive support to that extent either which they would need, which for many students means they do not reach the knowledge requirements in school (Uppföljning av funktionshinderspolitiken 2023 (mfd.se).
 
@@ -1250,13 +1184,11 @@ hallway to let out 'excess energy'. It may also involve a pupil being excluded f
 
 - Complaints of discrimination and DO's dialogue with civil society show that pupils with NDs are sometimes not accepted to be enrolled in schools because of their disability. There are also cases where pupils with NDs have been treated differently when applying to a particular school. This may involve a school telling a pupil or the pupil's guardian that the school already has a certain number of pupils with NDs and that the school does not have the capacity to accept additional pupils with NDs.
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
 ##### Students from poor households:
 
 ☐ Financial incentives and fellowships for school enrolment are provided
 
-☒ Transport, meals and education material are subsidised  or  provided  free  of  charge  beyond compulsory education
+☒ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
 ☐ Positive or affirmative action measures are provided
 
@@ -1266,17 +1198,17 @@ hallway to let out 'excess energy'. It may also involve a pupil being excluded f
 
 ☒ Curricula are rid of all stereotypes 39 and bias
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
 ###### Compulsory school
 
-Regarding students from poor households in Sweden the education act as well as the syllabus in general emphasizes equity and equality as core values. In Sweden educational equity means that teaching shall be adapted to the circumstances and needs of each pupil. It shall promote pupils continued learning and knowledge development regardless of their socio- economic background and based on previous experiences, language, and knowledge. The Education Act stipulates that education in each type of school and in school-age education must be of equal quality, regardless of where in the country it is provided.
+Regarding students from poor households in Sweden the education act as well as the syllabus in general emphasizes equity and equality as core values. In Sweden educational equity means that teaching shall be adapted to the circumstances and needs of each pupil. It shall promote pupils continued learning and knowledge development regardless of their socio-economic background and based on previous experiences, language, and knowledge. The Education Act stipulates that education in each type of school and in school-age education must be of equal quality, regardless of where in the country it is provided.
 
 Educational equity does however not mean that education should be the same everywhere or that school resources should be allocated equally. The different circumstances and needs of the pupils must be considered. Each school has a special responsibility for pupils who, for various reasons, have difficulties achieving the objectives of their education. This could for example pertain to those children who are from less advantaged backgrounds. Thus, teaching can never be structured in the same way for everyone. Schools must actively and consciously promote the equal rights and opportunities of pupils, regardless of gender affiliation.
 
 > 38 Supra note 15.
 
-39
-
-> Supra note 16.
+> 39 Supra note 16.
 
 38
 
@@ -1316,17 +1248,15 @@ Some  universities  offer  scholarships  or  financial  aid  for  students  base
 
 -  What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-The results from Pisa 2022 reaffirmed that overall pupils from socio-economically disadvantaged backgrounds tends to perform on average lower when it comes to reading, mathematics and science. The education act clearly spells out that schools have a responsibility to  compensate  for pupils' backgrounds,  but  it  is  also  clear  that  at  least  on  an  aggregated national level that goal has not been reached. Several initiatives have been taken to address the issue of pupils from socio-economically disadvantaged backgrounds over the years. Some key initiatives include the state grant for equity, cooperation for the best possible schools as well as  some  more  recent  initiatives  to  introduce  school  during  holidays,  improved  working conditions for teachers in socioeconomically disadvantaged areas as well as a public enquiry into minimum school resource allocations.  Having said that, it is still important to note that Pisa also tells us that in both Sweden and on average across the OECD class sizes are smaller and  teacher  density  is  higher  at  schools  where  the  socio-economic  composition  is  less favorable compared to schools there the composition is more favorable.The NGO, Swedish National Council of Adult Education, reports that folk high schools and study associations offer activities in all municipalities, reaching people from all walks of life. However, with reduced funding it will become increasingly difficult to maintain affordable or free activities across the country (www.folkbildningsradet.se/media/d0udge41/folkbildningsradets-samladebedomning-folkbildningens-betydelse-for-samhallet-2023.pdf,  page  44-49,  appendix  Study associations: tables S3A-S3D, Folk high schools: tables F3A-F3D). See page 18 for information regarding the conditions for liberal adult education in Sweden.
+The results from Pisa 2022 reaffirmed that overall pupils from socio-economically disadvantaged backgrounds tends to perform on average lower when it comes to reading, mathematics and science. The education act clearly spells out that schools have a responsibility to compensate for pupils’ backgrounds, but it is also clear that at least on an aggregated national level that goal has not been reached. Several initiatives have been taken to address the issue of pupils from socio-economically disadvantaged backgrounds over the years. Some key initiatives include the state grant for equity, cooperation for the best possible schools as well as some more recent initiatives to introduce school during holidays, improved working conditions for teachers in socioeconomically disadvantaged areas as well as a public enquiry into minimum school resource allocations. Having said that, it is still important to note that Pisa also tells us that in both Sweden and on average across the OECD class sizes are smaller and teacher density is higher at schools where the socio-economic composition is less favorable compared to schools there the composition is more favorable.The NGO, Swedish National Council of Adult Education, reports that folk high schools and study associations offer activities in all municipalities, reaching people from all walks of life. However, with reduced funding it will become increasingly difficult to maintain affordable or free activities across the country (www.folkbildningsradet.se/media/d0udge41/folkbildningsradets-samlade-bedomning-folkbildningens-betydelse-for-samhallet-2023.pdf, page 44-49, appendix Study associations: tables S3A-S3D, Folk high schools: tables F3A-F3D). See page 18 for information regarding the conditions for liberal adult education in Sweden.
 
 ### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 40 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized ‘the right to education during early childhood as beginning at birth’ (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 40 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and
 
-40
-
-> Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
+> 40 Which states that ‘ECCE is part of the right to education and the main foundation for holistic human development’.
 
 40
 
@@ -1334,7 +1264,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 [[START OF PAGE 41]]
 
-Education 41 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+Education41. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to ‘the provision of at least one year of free and compulsory pre-primary education’.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -1342,7 +1272,7 @@ Education 41 . In the current context of the Education 2030 agenda, under SDG ta
 
 ☒ Prior to pre-primary education, ECCE services are affordable
 
-☒ ECCE services are accessible on a non- discriminatory basis
+☒ ECCE services are accessible on a non-discriminatory basis
 
 ☒ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
@@ -1360,7 +1290,7 @@ Children in Sweden have the right to accessible and affordable Early Childhood E
 
 ☐ Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
-In accordance with Chapter 9, Section 8 of Education Act (2010:800), the education in pre- school (class)  shall  be  free  of  charge.  Pupils  must  have  free  access  to  books  and  other teaching tools needed for a timely education and be offered nutritious school meals. Fees in connection with the application for a place may not be charged. For information about duration, see above question concerning duration.
+In accordance with Chapter 9, Section 8 of Education Act (2010:800), the education in pre-school (class) shall be free of charge. Pupils must have free access to books and other teaching tools needed for a timely education and be offered nutritious school meals. Fees in connection with the application for a place may not be charged. For information about duration, see above question concerning duration.
 
 > 41 Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
 
@@ -1368,7 +1298,7 @@ In accordance with Chapter 9, Section 8 of Education Act (2010:800), the educati
 
 [[START OF PAGE 42]]
 
-There is a maximum fee for ECCE services. This means that a ceiling is set on the fees payable by parents for their children. The fee charged may be no more than between one and three percent of the family's income, depending on how many children the family has. There is also an absolute cap of approximately 1,600 Swedish kronor (145 EUR) per child and  month.  The  fees  account  for  about  7  %  of  the  total  costs  for  preschool.  Each municipality must ensure that children are offered preschool and must ensure that the education  meets  the  requirements  s et  in  the  preschool's  regulations.  Preschool  can  be offered through independent education providers. Municipalities must distribute funds to the  independent  education  providers  on  the  same  grounds  that  apply  when  allocating resources  to  their  own  preschools.  Municipalities  must  also  inspect  the  independent preschools and make sure that they meet the requirements.
+There is a maximum fee for ECCE services. This means that a ceiling is set on the fees payable by parents for their children. The fee charged may be no more than between one and three percent of the family’s income, depending on how many children the family has. There is also an absolute cap of approximately 1,600 Swedish kronor (145 EUR) per child and month. The fees account for about 7 % of the total costs for preschool. Each municipality must ensure that children are offered preschool and must ensure that the education meets the requirements set in the preschool’s regulations. Preschool can be offered through independent education providers. Municipalities must distribute funds to the independent education providers on the same grounds that apply when allocating resources to their own preschools. Municipalities must also inspect the independent preschools and make sure that they meet the requirements.
 
 ☐ Pre-primary education is not free.
 
@@ -1396,7 +1326,7 @@ The curriculum is a binding ordinance and applies to both municipal and independ
 
 [[START OF PAGE 43]]
 
-The curriculum is based on fundamental values, tasks of preschools and on the foundations for lifelong learning. It incorporates some of the fundamental characteristics of Swedish preschool -the  child  as  an  active,  competent  and  exploring  being,  project  and  theme oriented working approaches, and the democratic perspective on the child's acquisition of knowledge and learning.
+The curriculum is based on fundamental values, tasks of preschools and on the foundations for lifelong learning. It incorporates some of the fundamental characteristics of Swedish preschool – the child as an active, competent and exploring being, project and theme oriented working approaches, and the democratic perspective on the child’s acquisition of knowledge and learning.
 
 ###### Policy examples:
 
@@ -1406,7 +1336,7 @@ Municipalities  must  also  provide  a  reserved  preschool  place  for  childre
 
 The government has also established a new state subsidy for the purchase of fiction and non-fiction books. In total, preschools and schools have the opportunity to receive SEK 176 million SEK, which corresponds to approximately 1.2 million new books. The application period is 1 October to 1 November 2024. During 2024, the state grant can be used for preschool, preschool class and primary school. From 2025, it will also be possible to apply for state grants for middle school, junior high school and upper secondary school.
 
-In  2023,  the  Government appointed an inquiry that will present proposals on how the admission requirements for teacher and preschool teacher training can be raised, how subject teacher training can be strengthened and how the training can have an increased focus on subject knowledge, cognitive science and practical methodology. The inquiry is to present their proposals no later than 29 th  November 2024.
+In 2023, the Government appointed an inquiry that will present proposals on how the admission requirements for teacher and preschool teacher training can be raised, how subject teacher training can be strengthened and how the training can have an increased focus on subject knowledge, cognitive science and practical methodology. The inquiry is to present their proposals no later than 29th November 2024.
 
 - What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
@@ -1424,7 +1354,7 @@ In  2023,  the  Government appointed an inquiry that will present proposals on h
 
 ☐ Lack of support to families
 
-Due to the COVID-pandemic, some children were deemed to have been affected negatively in their language development in preschool and thus were less well prepared for primary school. Most significantly children from households where Swedish isn't the langua ge of interaction.
+Due to the COVID-pandemic, some children were deemed to have been affected negatively in their language development in preschool and thus were less well prepared for primary school. Most significantly children from households where Swedish isn’t the language of interaction.
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1438,7 +1368,7 @@ Most children attend preschool in Sweden, 96 per cent of four- to five-year-olds
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide ‘12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.’
 
 ###### Primary education
 
@@ -1492,7 +1422,9 @@ Foundation literacy
 
 Numeracy
 
-Social and emotional learning Others
+Social and emotional learning
+
+Others
 
 ☒ Disparity in learning outcomes
 
@@ -1516,11 +1448,11 @@ In this part, please provide information on the general availability and accessi
 
 - Please provide the age of enrolment and duration of lower secondary education:
 
-- Please provide the age of enrolment and duration of upper secondary education:
-
 13
 
-Upper secondary school is open to young people who have completed their primary school education and who are starting their upper secondary education during the period up to and including the first calendar semester of the year they turn 20.  The national programmes are intended to be completed in three academic years. The upper secondary school for individuals with learning disabilities is intended to be completed over four academic years.
+- Please provide the age of enrolment and duration of upper secondary education:
+
+Upper secondary school is open to young people who have completed their primary school education and who are starting their upper secondary education during the period up to and including the first calendar semester of the year they turn 20. The national programmes are intended to be completed in three academic years. The upper secondary school for individuals with learning disabilities is intended to be completed over four academic years.
 
 - Is lower and upper secondary education compulsory and free of charge?
 
@@ -1598,8 +1530,6 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
 
-- Please list the relevant laws and policies. Where applicable, provide information on the direct costs  (e.g.,  enrolment  fees  and  tuition  fees)  and  indirect  costs  (e.g.,  exam  fees,  university supplies, transport, accommodation). Brief quantitative information may be added.
-
 ☒ Higher education is free of charge
 
 ☐ Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)
@@ -1614,7 +1544,9 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 ☐ Other:
 
-Regarding tuition fees, please see answer 2.1 (People on the move (migrants, refugees, asylum-seekers,  stateless  persons  and  internally  displaced  persons)  and  trapped populations). General entry requirements for first- and second-cycle studies normally include a degree from a university preparatory upper-secondary programme. But there are several other roads into higher education in Sweden. Upper-secondary vocational degrees  can  also  provide  qualification  in  some  circumstances,  and  there  are  good options for meeting entry requirements through studies in municipal adult education for upper-secondary qualifications. Prior learning can also meet basic entry requirements if the person is judged to be able to benefit from the education (The Higher Education Ordinance (1993:100), chapter 7.
+- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, university supplies, transport, accommodation). Brief quantitative information may be added.
+
+Regarding tuition fees, please see answer 2.1 (People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations). General entry requirements for first- and second-cycle studies normally include a degree from a university preparatory upper-secondary programme. But there are several other roads into higher education in Sweden. Upper-secondary vocational degrees can also provide qualification in some circumstances, and there are good options for meeting entry requirements through studies in municipal adult education for upper-secondary qualifications. Prior learning can also meet basic entry requirements if the person is judged to be able to benefit from the education (The Higher Education Ordinance (1993:100), chapter 7.
 
 Regarding financial support please see answer 1.1. (Financial Support for students).
 
@@ -1707,13 +1639,14 @@ It may, for some, be a financial issue and for others that the education is not 
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to ‘build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all’.
 
 50
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all”.
 
 #### 3.1 General measures
 
@@ -1743,11 +1676,11 @@ You may include information on policies, protocols or codes of conduct.
 
 According to the Education Act (2010:800), all pupils should be given the guidance and encouragement they need in their learning and in their personal development process. The guidance and encouragement should be based on the pupil's personal capabilities for them to develop as much as possible according to the educational goals. See more information regarding the curriculum above.
 
-Sweden's  education  system  is  highly  decentralised,  however  it  is  steered  by  goals  and learning outcomes  defined  at the central level. The  government  has  the  overall responsibility and sets the framework for education at all levels, but it's the municipalit ies that are responsible for organising most of the education.
+Sweden's education system is highly decentralised, however it is steered by goals and learning outcomes defined at the central level. The government has the overall responsibility and sets the framework for education at all levels, but it's the municipalities that are responsible for organising most of the education.
 
-Parallel to the municipal schools, Sweden also has a system of grant-aided independent schools. That is, both municipal and independent schools at the compulsory level are grantaided and free of charge.
+Parallel to the municipal schools, Sweden also has a system of grant-aided independent schools. That is, both municipal and independent schools at the compulsory level are grant-aided and free of charge.
 
-It  is  the  municipality's  job  to  allocate  resources  to  approved  grant -aided  independent schools for the children that participate in its' activities.
+It is the municipality's job to allocate resources to approved grant-aided independent schools for the children that participate in its' activities.
 
 The Swedish Schools Inspectorate monitors the quality of the education and makes sure that regulations are followed.
 
@@ -1819,7 +1752,7 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - Please elaborate on each of the measures taken:
 
-The  Swedish  education  system  is  highly  decentralized.  Therefore,  local  education providers hold the main responsibility for the health and conditions of their teaching staff. These conditions are usually established through negotiations between teachers' unions and the employer or the employer's organisation .
+The Swedish education system is highly decentralized. Therefore, local education providers hold the main responsibility for the health and conditions of their teaching staff. These conditions are usually established through negotiations between teachers' unions and the employer or the employer's organisation.
 
 - What challenges were encountered in the education personnel?
 
@@ -1833,7 +1766,7 @@ The  Swedish  education  system  is  highly  decentralized.  Therefore,  local  
 
 ☐ Low quality educational infrastructure and materials
 
-☒ High student - teacher ratio
+☒ High student – teacher ratio
 
 There is a general shortage of qualified teachers and preschool teachers in Sweden. The shortage is most obvious in schools for children with learning disabilities. The is also a disparity between schools in rural and urban areas as well as between different schools. Qualified teachers to a lesser extent teach in schools were pupils have less favourable background and where they perhaps are most needed.
 
@@ -1933,7 +1866,7 @@ Not relevant
 
 ###### Pre-primary, primary, secondary school and upper secondary school
 
-Parallel  to  the  municipal  schools,  Sweden  also  has  a  system  of  grant-aided independent schools.  Both  municipal  and independent  schools  at  the compulsory level  and  upper  secondary  level  are  grant-aided  and  free  of  charge.  It  is  the municipality's job to allocate resources to approved grant -aided independent schools for the children that participate in its' activities. The Swedish Schools Inspectorate monitors the quality of the education and makes sure that regulations are followed. That is, the state governs education through a series of statutes, government orders, curricula  and  syllabuses.  These  contain  aims  and  guidelines  for  all  aspects  of education,  and  everyone  working  in  the  school  system,  whether  it  is  public  or independent,  is  obliged  to  work  towards  common  goals  and  objectives,  thereby guaranteeing education of uniform value. Due to the nature of Sweden's decentralised system,  education  providers have great  responsibility in  organising their work to achieve the goals set up by the government and the Swedish Riksdag. Independent  schools  follow  the  same  Education  Act  and  curricula  as  municipal schools, are tax-funded with school vouchers, and are not allowed to charge fees.
+Parallel to the municipal schools, Sweden also has a system of grant-aided independent schools. Both municipal and independent schools at the compulsory level and upper secondary level are grant-aided and free of charge. It is the municipality's job to allocate resources to approved grant-aided independent schools for the children that participate in its' activities. The Swedish Schools Inspectorate monitors the quality of the education and makes sure that regulations are followed. That is, the state governs education through a series of statutes, government orders, curricula and syllabuses. These contain aims and guidelines for all aspects of education, and everyone working in the school system, whether it is public or independent, is obliged to work towards common goals and objectives, thereby guaranteeing education of uniform value. Due to the nature of Sweden's decentralised system, education providers have great responsibility in organising their work to achieve the goals set up by the government and the Swedish Riksdag. Independent schools follow the same Education Act and curricula as municipal schools, are tax-funded with school vouchers, and are not allowed to charge fees.
 
 Qualifications of teachers: Teachers in compulsory and upper secondary school must have  a  teaching  license  to  be  permanently  employed  and  be  allowed  to  grade. Preschool  teachers  must  have  a  preschool  teacher's  license  to  be  permanently employed. In order to be allowed to teach, both identification and authorization are usually required.
 
@@ -1945,7 +1878,7 @@ Qualifications of teachers: Teachers in compulsory and upper secondary school mu
 
 ###### Higher education
 
-Private organisations, in Swedish legislation called ' independent education providers, can only issue qualifications regulated in the Higher Education Ordinance (1993:100)  after  permission  from  the  government.  This  is  regulated  in  the  Act concerning authority to award certain qualifications (1993:792). In it is stated that programmes of study offered by independent education providers must fulfil the general requirements for qualifications set out in the Higher Education Act, which form the basis for curricula in higher education in Sweden. Independent education providers are also obliged to take part in the monitoring and evaluation of courses and programmes, and they are required to produce an annual report on quality.
+Private organisations, in Swedish legislation called ‘independent education providers, can only issue qualifications regulated in the Higher Education Ordinance (1993:100) after permission from the government. This is regulated in the Act concerning authority to award certain qualifications (1993:792). In it is stated that programmes of study offered by independent education providers must fulfil the general requirements for qualifications set out in the Higher Education Act, which form the basis for curricula in higher education in Sweden. Independent education providers are also obliged to take part in the monitoring and evaluation of courses and programmes, and they are required to produce an annual report on quality.
 
 - What challenges were encountered in non-state education provision?
 
@@ -1953,7 +1886,7 @@ Private organisations, in Swedish legislation called ' independent education pro
 
 ☐ Low number of professionally trained teachers
 
-☐ High student - teacher ratio
+☐ High student – teacher ratio
 
 ☐ Other:
 
@@ -1989,7 +1922,7 @@ The Education Act (chapter 9, para 8, chapter 10 para 10, chapter 11 para 13, ch
 
 When it comes to upper secondary school, the Education Act (chapter 15 para 17 and chapter  18  para  17)  states  that  students  must  have  free  access  to  textbooks,  other learning  materials  and  other  learning  tools  that  are  needed  for  good  knowledge development in accordance with the goals of the education. However, the principal may decide that the students must pay for individual tools.
 
-For municipal adult education, the Education Act (chapter 20 paragraphs 7, 7a and 7 b) states that students must have free access to textbooks, other learning materials and other learning tools that are needed for good knowledge development in accordance with the goals of the education. However, the principal may decide that learning tools that each student has for their own use and may keep as their property must be acquired by the students themselves or offered for fees that at most correspond to the principal ' s acquisition costs. When it comes to education in Swedish for immigrants, the Education Act states that students must have free access to textbooks, other learning materials and other learning tools that are needed for good knowledge development in accordance with the goal of the education. However, the principal may decide that the students must pay for individual learning tools of their own.
+For municipal adult education, the Education Act (chapter 20 paragraphs 7, 7a and 7 b) states that students must have free access to textbooks, other learning materials and other learning tools that are needed for good knowledge development in accordance with the goals of the education. However, the principal may decide that learning tools that each student has for their own use and may keep as their property must be acquired by the students themselves or offered for fees that at most correspond to the principal’s acquisition costs. When it comes to education in Swedish for immigrants, the Education Act states that students must have free access to textbooks, other learning materials and other learning tools that are needed for good knowledge development in accordance with the goal of the education. However, the principal may decide that the students must pay for individual learning tools of their own.
 
 The use of digital tools is also present throughout the compulsory school curricula, the upper secondary school curricula and the municipal adult education curricula.
 
@@ -2010,7 +1943,7 @@ Annex 2 (System of Qualifications) of the Higher Education Ordinance (1993:100) 
 
 ☐ Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
-☐ Measures  to  remove  barriers  to  accessing  digital  content 48 ,  including  ensuring  access  to curriculum-aligned  digital  content  available  on  free,  public,  multi-modal  national  platforms;  high- quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+☐ Measures to remove barriers to accessing digital content 48 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
 ☒ Digital  skills  incorporated  into  pre-  and  in-service  teacher  and  leadership  training  curricula  to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 
@@ -2092,7 +2025,7 @@ Access to digital devices and tools is generally sufficient in schools in Sweden
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -2134,19 +2067,19 @@ Quality  assurance  and  compliance  in  higher  education  is  performed  by  t
 
 ☐ Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
-☐ P oor dialogue with teachers' trade unions
+☐ Poor dialogue with teachers' trade unions
 
 ☒ Other:
 
 ☐ Absence of supportive/ inconsistent/obsolete legal and policy environment
 
-☐ Lack or weakness of monitoring systems - including the lack of reliable data
+☐ Lack or weakness of monitoring systems – including the lack of reliable data
 
 The responsibility for the provision of education lies with the municipalities and independent education providers. As stated, there is a disparity in the capacity, preconditions, and resources in providing quality education. An increased responsibility for the provision of education ad allocation of resources from the state level might be needed if a more equitable education of high quality for all children and pupils is to be achieved.
 
 ###### Higher education
 
-Most higher education in Sweden is performed by public higher education institutions. But non- public higher education institutions which are officially recognised must also follow national regulations and the regulations issued by the Government in connection with the public funding that  many  of  them  receive.  In  higher  education  governance  there  is  therefore  a  continuing
+Most higher education in Sweden is performed by public higher education institutions. But non-public higher education institutions which are officially recognised must also follow national regulations and the regulations issued by the Government in connection with the public funding that many of them receive. In higher education governance there is therefore a continuing
 
 62
 
@@ -2154,7 +2087,7 @@ Most higher education in Sweden is performed by public higher education institut
 
 [[START OF PAGE 63]]
 
-discussion  regarding  the  complexities  of  balancing  governance  with  the  higher  education institutions ' academic freedom and institutional autonomy.
+discussion regarding the complexities of balancing governance with the higher education institutions’ academic freedom and institutional autonomy.
 
 - Please elaborate. Brief quantitative information may be added.
 
