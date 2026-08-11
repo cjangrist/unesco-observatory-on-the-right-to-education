@@ -50,7 +50,7 @@ Adopted by the Constitutional Assembly in a joint meeting on 15 February 1922
 
 # THE CONSTITUTION OF THE REPUBLIC OF LATVIA
 
-The State of Latvia, proclaimed on 18 November 1918, has been established by uniting historical Latvian lands and on the basis of the unwavering will of the Latvian nation to have its own State and its inalienable right of selfdetermination in order to guarantee the existence and development of the Latvian nation, its language and culture throughout the centuries, to ensure freedom and promote welfare of the people of Latvia and each individual.
+The State of Latvia, proclaimed on 18 November 1918, has been established by uniting historical Latvian lands and on the basis of the unwavering will of the Latvian nation to have its own State and its inalienable right of self-determination in order to guarantee the existence and development of the Latvian nation, its language and culture throughout the centuries, to ensure freedom and promote welfare of the people of Latvia and each individual.
 
 The people of Latvia won their State in the War of Liberation. They consolidated the system of government and adopted the Constitution in a freely elected Constitutional Assembly.
 
@@ -70,9 +70,9 @@ God, bless Latvia!
 
 [[START OF PAGE 2]]
 
-[19 June 2014]
-
 God, bless Latvia!
+
+[19 June 2014]
 
 ## Chapter I General Provisions
 
@@ -116,7 +116,7 @@ All citizens of Latvia who enjoy full rights of citizenship and, who on election
 
 ### 9.
 
-Any citizen of Latvia, who enjoys full rights of citizenship and, who is more than twenty-one years of age on the first day of elections may be elected to the Saeima .
+Any citizen of Latvia, who enjoys full rights of citizenship and, who is more than twenty-one years of age on the first day of elections may be elected to the Saeima.
 
 ### 10.
 
@@ -136,15 +136,15 @@ The newly elected Saeima shall hold its first sitting on the first Tuesday in No
 
 ### 13.
 
-Should elections for the Saeima , by reason of the dissolution of the previous Saeima , be held at another time of the year, the Saeima so elected shall convene not later than one month after its election, and its mandate shall expire upon the convening of the new Saeima on the first Tuesday in November following the elapse of three years after such election.
+Should elections for the Saeima, by reason of the dissolution of the previous Saeima, be held at another time of the year, the Saeima so elected shall convene not later than one month after its election, and its mandate shall expire upon the convening of the new Saeima on the first Tuesday in November following the elapse of three years after such election.
 
 [4 December 1997]
 
 ### 14.
 
-Not less than one tenth of electors has the right to initiate a national referendum regarding recalling of the Saeima . If the majority of voters and at least two thirds of the number of the voters who participated in the last elections of the Saeima vote in the national referendum regarding recalling of the Saeima , then the Saeima shall be deemed recalled. The right to initiate a national referendum regarding recalling of the Saeima may not be exercised one year after the convening of the Saeima and one year before the end of the term of office of the Saeima , during the last six months of the term of office of the President, as well as earlier than six months after the previous national referendum regarding recalling of the Saeima .
+Not less than one tenth of electors has the right to initiate a national referendum regarding recalling of the Saeima. If the majority of voters and at least two thirds of the number of the voters who participated in the last elections of the Saeima vote in the national referendum regarding recalling of the Saeima, then the Saeima shall be deemed recalled. The right to initiate a national referendum regarding recalling of the Saeima may not be exercised one year after the convening of the Saeima and one year before the end of the term of office of the Saeima, during the last six months of the term of office of the President, as well as earlier than six months after the previous national referendum regarding recalling of the Saeima.
 
-The electors may not recall any individual member of the Saeima .
+The electors may not recall any individual member of the Saeima.
 
 [8 April 2009]
 
@@ -160,7 +160,7 @@ The Saeima shall hold its sittings in Rīga, and only in extraordinary circumsta
 
 ### 16.
 
-The Saeima shall elect a Presidium that shall be composed of a Chairperson, two Deputies and Secretaries. The Presidium shall function continuously during the mandate of the Saeima .
+The Saeima shall elect a Presidium that shall be composed of a Chairperson, two Deputies and Secretaries. The Presidium shall function continuously during the mandate of the Saeima.
 
 ### 17.
 
@@ -172,7 +172,7 @@ The Saeima itself shall review the qualifications of its members.
 
 A person elected to the Saeima shall acquire the mandate of a Member of the Saeima if such person gives the following solemn promise:
 
-"I, upon assuming the duties of a Member of the Saeima , before the people of Latvia, do swear (solemnly promise) to be loyal to Latvia, to strengthen its sovereignty and the Latvian language as the only official language, to defend Latvia as an independent and democratic State, and to fulfil my duties honestly and conscientiously. I undertake to observe the Constitution and laws of Latvia."
+"I, upon assuming the duties of a Member of the Saeima, before the people of Latvia, do swear (solemnly promise) to be loyal to Latvia, to strengthen its sovereignty and the Latvian language as the only official language, to defend Latvia as an independent and democratic State, and to fulfil my duties honestly and conscientiously. I undertake to observe the Constitution and laws of Latvia."
 
 [30 April 2002]
 
@@ -182,7 +182,7 @@ The Presidium shall convene sessions of the Saeima and schedule regular and extr
 
 ### 20.
 
-The Presidium shall convene sittings of the Saeima if requested by the President, the Prime Minister, or not less than one third of the members of the Saeima .
+The Presidium shall convene sittings of the Saeima if requested by the President, the Prime Minister, or not less than one third of the members of the Saeima.
 
 ### 21.
 
@@ -192,7 +192,7 @@ The Saeima shall establish rules of order to provide for its internal operations
 
 ### 22.
 
-Sittings of the Saeima shall be public. The Saeima may decide by a majority vote of not less than two-thirds of the members present to sit in closed session, if so requested by ten members of the Saeima , or by the President, the Prime Minister, or a Minister.
+Sittings of the Saeima shall be public. The Saeima may decide by a majority vote of not less than two-thirds of the members present to sit in closed session, if so requested by ten members of the Saeima, or by the President, the Prime Minister, or a Minister.
 
 ### 23.
 
@@ -204,7 +204,7 @@ The Saeima shall make decisions by an absolute majority of votes of the members 
 
 ### 25.
 
-The Saeima shall establish committees and determine the number of members and their duties. Committees have the right to require of individual Ministers or local government authorities information and explanations necessary for the work of the committees, and the right to invite to their sittings responsible representatives from the relevant ministries or local government authorities to furnish explanations. Committees may also carry on their work between sessions of the Saeima .
+The Saeima shall establish committees and determine the number of members and their duties. Committees have the right to require of individual Ministers or local government authorities information and explanations necessary for the work of the committees, and the right to invite to their sittings responsible representatives from the relevant ministries or local government authorities to furnish explanations. Committees may also carry on their work between sessions of the Saeima.
 
 ### 26.
 
@@ -224,11 +224,11 @@ Members of the Saeima may not be called to account by any judicial, administrati
 
 ### 29.
 
-Members of the Saeima shall not be arrested, nor shall their premises be searched, nor shall their personal liberty be restricted in any way without the consent of the Saeima . Members of the Saeima may be arrested if apprehended in the act of committing a crime. The Presidium shall be notified within twenty-four hours of the arrest of any member of the Saeima ; the Presidium shall raise the matter at the next sitting of the Saeima for decision as to whether the member shall continue to be held in detention or be released. When the Saeima is not in session, pending the opening of a session, the Presidium shall decide whether the member of the Saeima shall remain in detention.
+Members of the Saeima shall not be arrested, nor shall their premises be searched, nor shall their personal liberty be restricted in any way without the consent of the Saeima. Members of the Saeima may be arrested if apprehended in the act of committing a crime. The Presidium shall be notified within twenty-four hours of the arrest of any member of the Saeima; the Presidium shall raise the matter at the next sitting of the Saeima for decision as to whether the member shall continue to be held in detention or be released. When the Saeima is not in session, pending the opening of a session, the Presidium shall decide whether the member of the Saeima shall remain in detention.
 
 ### 30.
 
-Without the consent of the Saeima , criminal prosecution may not be commenced against its member.
+Without the consent of the Saeima, criminal prosecution may not be commenced against its member.
 
 [19 May 2016]
 
@@ -250,7 +250,7 @@ Members of the Saeima have the right to refuse to give evidence:
 
 ### 32.
 
-Members of the Saeima may not, either personally or in the name of another person, receive government contracts or concessions. The provisions of this Article shall apply to Ministers even if they are not members of the Saeima .
+Members of the Saeima may not, either personally or in the name of another person, receive government contracts or concessions. The provisions of this Article shall apply to Ministers even if they are not members of the Saeima.
 
 ### 33.
 
@@ -270,7 +270,7 @@ The Saeima shall elect the President for a term of four years.
 
 ### 36.
 
-The President shall be elected by open ballot with a majority of the votes of not less than fifty-one members of the Saeima .
+The President shall be elected by open ballot with a majority of the votes of not less than fifty-one members of the Saeima.
 
 [4 October 2018]
 
@@ -282,7 +282,7 @@ Any person who enjoys full rights of citizenship and who has attained the age of
 
 ### 38.
 
-The office of the President shall not be held concurrently with any other office. If the person elected as President is a member of the Saeima , he or she shall resign his or her mandate as a member of the Saeima .
+The office of the President shall not be held concurrently with any other office. If the person elected as President is a member of the Saeima, he or she shall resign his or her mandate as a member of the Saeima.
 
 ### 39.
 
@@ -292,7 +292,7 @@ The same person shall not hold office as President for more than eight consecuti
 
 ### 40.
 
-The President, upon taking up the duties of office, at a sitting of the Saeima , shall take the following solemn oath: "I swear that all of my work will be dedicated to the welfare of the people of Latvia. I will do everything in my power to promote the prosperity of the Republic of Latvia and all who live here. I will hold sacred and will observe the Constitution of Latvia and the laws of the State. I will act justly towards all and will fulfil my duties conscientiously."
+The President, upon taking up the duties of office, at a sitting of the Saeima, shall take the following solemn oath: "I swear that all of my work will be dedicated to the welfare of the people of Latvia. I will do everything in my power to promote the prosperity of the Republic of Latvia and all who live here. I will hold sacred and will observe the Constitution of Latvia and the laws of the State. I will act justly towards all and will fulfil my duties conscientiously."
 
 [3 May 2007]
 
@@ -306,11 +306,11 @@ The President shall be the Commander-in-Chief of the armed forces of Latvia. Dur
 
 ### 43.
 
-The President shall declare war on the basis of a decision of the Saeima .
+The President shall declare war on the basis of a decision of the Saeima.
 
 ### 44.
 
-The President has the right to take whatever steps are necessary for the military defence of the State should another state declare war on Latvia or an enemy invade its borders. Concurrently and without delay, the President shall convene the Saeima , which shall decide as to the declaration and commencement of war.
+The President has the right to take whatever steps are necessary for the military defence of the State should another state declare war on Latvia or an enemy invade its borders. Concurrently and without delay, the President shall convene the Saeima, which shall decide as to the declaration and commencement of war.
 
 ### 45.
 
@@ -320,7 +320,7 @@ The President has the right to grant clemency to criminals against whom judgment
 
 ### 46.
 
-The President has the right to convene and to preside over extraordinary meetings of the Cabinet and to determine the agenda of such meetings.
+The President has the right to convene and to preside over extraordinary meetings of the Cabinet and to
 
 4/9
 
@@ -328,27 +328,29 @@ The President has the right to convene and to preside over extraordinary meeting
 
 [[START OF PAGE 5]]
 
+determine the agenda of such meetings.
+
 ### 47.
 
 The President has the right to initiate legislation.
 
 ### 48.
 
-The President shall be entitled to propose the dissolution of the Saeima . Following this proposal, a national referendum shall be held. If in the referendum more than half of the votes are cast in favour of dissolution, the Saeima shall be considered dissolved, new elections called, and such elections held no later than two months after the date of the dissolution of the Saeima .
+The President shall be entitled to propose the dissolution of the Saeima. Following this proposal, a national referendum shall be held. If in the referendum more than half of the votes are cast in favour of dissolution, the Saeima shall be considered dissolved, new elections called, and such elections held no later than two months after the date of the dissolution of the Saeima.
 
 ### 49.
 
-If the Saeima has been dissolved or recalled, the mandate of the members of the Saeima shall continue to be in effect until the convening of the newly elected Saeima , but the former Saeima may only hold sittings upon the request of the President. The President shall determine the agenda of such sittings of the Saeima . New elections shall take place not earlier than one month and not later than two months after recalling of the Saeima .
+If the Saeima has been dissolved or recalled, the mandate of the members of the Saeima shall continue to be in effect until the convening of the newly elected Saeima, but the former Saeima may only hold sittings upon the request of the President. The President shall determine the agenda of such sittings of the Saeima. New elections shall take place not earlier than one month and not later than two months after recalling of the Saeima.
 
 [8 April 2009]
 
 ### 50.
 
-If in the referendum more than half of the votes are cast against the dissolution of the Saeima , then the President shall be deemed to be removed from office, and the Saeima shall elect a new President to serve for the remaining term of office of the President so removed.
+If in the referendum more than half of the votes are cast against the dissolution of the Saeima, then the President shall be deemed to be removed from office, and the Saeima shall elect a new President to serve for the remaining term of office of the President so removed.
 
 ### 51.
 
-Upon the proposal of not less than half of all of the members of the Saeima , the Saeima may decide, in closed session and with a majority vote of not less than two-thirds of all of its members, to remove the President from office. Following such a decision, the Saeima shall elect a new President without delay.
+Upon the proposal of not less than half of all of the members of the Saeima, the Saeima may decide, in closed session and with a majority vote of not less than two-thirds of all of its members, to remove the President from office. Following such a decision, the Saeima shall elect a new President without delay.
 
 ### 52.
 
@@ -394,11 +396,11 @@ The Cabinet shall deliberate draft laws prepared by individual ministries as wel
 
 ### 62.
 
-If the State is threatened by an external enemy, or if an internal insurrection which endangers the existing political system arises or threatens to arise in the State or in any part of the State, the Cabinet has the right to proclaim a state of emergency and shall inform the Presidium within twenty-four hours and the Presidium shall, without delay, present such decision of the Cabinet to the Saeima .
+If the State is threatened by an external enemy, or if an internal insurrection which endangers the existing political system arises or threatens to arise in the State or in any part of the State, the Cabinet has the right to proclaim a state of emergency and shall inform the Presidium within twenty-four hours and the Presidium shall, without delay, present such decision of the Cabinet to the Saeima.
 
 ### 63.
 
-Ministers, even if they are not members of the Saeima , and responsible government officials authorised by a Minister, have the right to attend sittings of the Saeima and its committees and to submit additions and amendments to draft laws.
+Ministers, even if they are not members of the Saeima, and responsible government officials authorised by a Minister, have the right to attend sittings of the Saeima and its committees and to submit additions and amendments to draft laws.
 
 5/9
 
@@ -410,11 +412,11 @@ Ministers, even if they are not members of the Saeima , and responsible governme
 
 ### 64.
 
-The Saeima , and also the people, have the right to legislate, in accordance with the procedures, and to the extent, provided for by this Constitution.
+The Saeima, and also the people, have the right to legislate, in accordance with the procedures, and to the extent, provided for by this Constitution.
 
 ### 65.
 
-Draft laws may be submitted to the Saeima by the President, the Cabinet or committees of the Saeima , by not less than five members of the Saeima , or, in accordance with the procedures and in the cases provided for in this Constitution, by one-tenth of the electorate.
+Draft laws may be submitted to the Saeima by the President, the Cabinet or committees of the Saeima, by not less than five members of the Saeima, or, in accordance with the procedures and in the cases provided for in this Constitution, by one-tenth of the electorate.
 
 ### 66.
 
@@ -422,7 +424,7 @@ Annually, before the commencement of each financial year, the Saeima shall deter
 
 If the Saeima makes a decision that involves expenditures not included in the Budget, then this decision must also allocate funds to cover such expenditures.
 
-After the end of the budgetary year, the Cabinet shall submit an accounting of budgetary expenditures for the approval of the Saeima .
+After the end of the budgetary year, the Cabinet shall submit an accounting of budgetary expenditures for the approval of the Saeima.
 
 ### 67.
 
@@ -430,13 +432,13 @@ The Saeima shall determine the size of the armed forces of the State during peac
 
 ### 68.
 
-All international agreements, which settle matters that may be decided by the legislative process, shall require ratification by the Saeima .
+All international agreements, which settle matters that may be decided by the legislative process, shall require ratification by the Saeima.
 
 Upon entering into international agreements, Latvia, with the purpose of strengthening democracy, may delegate a part of its State institution competencies to international institutions. The Saeima may ratify international agreements in which a part of State institution competencies are delegated to international institutions in sittings in which at least two-thirds of the members of the Saeima participate, and a two-thirds majority vote of the members present is necessary for ratification.
 
-Membership of Latvia in the European Union shall be decided by a national referendum, which is proposed by the Saeima .
+Membership of Latvia in the European Union shall be decided by a national referendum, which is proposed by the Saeima.
 
-Substantial changes in the terms regarding the membership of Latvia in the European Union shall be decided by a national referendum if such referendum is requested by at least one-half of the members of the Saeima .
+Substantial changes in the terms regarding the membership of Latvia in the European Union shall be decided by a national referendum if such referendum is requested by at least one-half of the members of the Saeima.
 
 [8 May 2003]
 
@@ -452,13 +454,13 @@ The President shall proclaim adopted laws in the following manner: "The Saeima (
 
 ### 71.
 
-Within ten days of the adoption of a law by the Saeima , the President, by means of a written and reasoned request to the Chairperson of the Saeima , may require that a law be reconsidered. If the Saeima does not amend the law, the President then may not raise objections a second time.
+Within ten days of the adoption of a law by the Saeima, the President, by means of a written and reasoned request to the Chairperson of the Saeima, may require that a law be reconsidered. If the Saeima does not amend the law, the President then may not raise objections a second time.
 
 [23 September 2004]
 
 ### 72.
 
-The President has the right to suspend the proclamation of a law for a period of two months. The President shall suspend the proclamation of a law if so requested by not less than one-third of the members of the Saeima . This right may be exercised by the President, or by one-third of the members of the Saeima , within ten days of the adoption of the law by the Saeima . The law thus suspended shall be put to a national referendum if so requested by not less than one-tenth of the electorate. If no such request is received during the aforementioned two-month period, the law shall then be proclaimed after the expiration of such period. A national referendum shall not take place, however, if the Saeima again votes on the law and not less than three-quarters of all members of the Saeima vote for the adoption of the law.
+The President has the right to suspend the proclamation of a law for a period of two months. The President shall suspend the proclamation of a law if so requested by not less than one-third of the members of the Saeima. This right may be exercised by the President, or by one-third of the members of the Saeima, within ten days of the adoption of the law by the Saeima. The law thus suspended shall be put to a national referendum if so requested by not less than one-tenth of the electorate. If no such request is received during the aforementioned two-month period, the law shall then be proclaimed after the expiration of such period. A national referendum shall not take place, however, if the Saeima again votes on the law and not less than three-quarters of all members of the Saeima vote for the adoption of the law.
 
 [23 September 2004]
 
@@ -468,7 +470,7 @@ The Budget and laws concerning loans, taxes, customs duties, railroad tariffs, m
 
 ### 74.
 
-A law adopted by the Saeima and suspended pursuant to the procedures specified in Article seventy-two shall be repealed by national referendum if the number of voters is at least half of the number of electors as participated in be repealed by national referendum if the number of voters is at least half of the number of electors as participated in the previous Saeima election and if the majority has voted for repeal of the law.
+A law adopted by the Saeima and suspended pursuant to the procedures specified in Article seventy-two shall be repealed by national referendum if the number of voters is at least half of the number of electors as participated in
 
 6/9
 
@@ -476,11 +478,13 @@ A law adopted by the Saeima and suspended pursuant to the procedures specified i
 
 [[START OF PAGE 7]]
 
+be repealed by national referendum if the number of voters is at least half of the number of electors as participated in the previous Saeima election and if the majority has voted for repeal of the law.
+
 [21 March 1933]
 
 ### 75.
 
-Should the Saeima , by not less than a two thirds majority vote, determine a law to be urgent, the President may not request reconsideration of such law, it may not be submitted to national referendum, and the adopted law shall be proclaimed no later than the third day after the President has received it.
+Should the Saeima, by not less than a two thirds majority vote, determine a law to be urgent, the President may not request reconsideration of such law, it may not be submitted to national referendum, and the adopted law shall be proclaimed no later than the third day after the President has received it.
 
 ### 76.
 
@@ -494,7 +498,7 @@ If the Saeima has amended the first, second, third, fourth, sixth or seventy-sev
 
 ### 78.
 
-Electors, in number comprising not less than one tenth of the electorate, have the right to submit a fully elaborated draft of an amendment to the Constitution or of a law to the President, who shall present it to the Saeima . If the Saeima does not adopt it without change as to its content, it shall then be submitted to national referendum.
+Electors, in number comprising not less than one tenth of the electorate, have the right to submit a fully elaborated draft of an amendment to the Constitution or of a law to the President, who shall present it to the Saeima. If the Saeima does not adopt it without change as to its content, it shall then be submitted to national referendum.
 
 ### 79.
 
@@ -532,7 +536,7 @@ Judicial appointments shall be confirmed by the Saeima and they shall be irrevoc
 
 ### 85.
 
-In Latvia, there shall be a Constitutional Court, which, within its jurisdiction as provided for by law, shall review cases concerning the conformity of laws with the Constitution, as well as other cases conferred within the jurisdiction thereof by law. The Constitutional Court is entitled to declare laws or other enactments or parts thereof invalid. The Saeima shall confirm the appointment of judges to the Constitutional Court for the term provided for by law, with a majority of the votes of not less than fifty-one members of the Saeima .
+In Latvia, there shall be a Constitutional Court, which, within its jurisdiction as provided for by law, shall review cases concerning the conformity of laws with the Constitution, as well as other cases conferred within the jurisdiction thereof by law. The Constitutional Court is entitled to declare laws or other enactments or parts thereof invalid. The Saeima shall confirm the appointment of judges to the Constitutional Court for the term provided for by law, with a majority of the votes of not less than fifty-one members of the Saeima.
 
 [19 September 2013]
 
@@ -628,13 +632,15 @@ The State shall protect the freedom of previously announced peaceful meetings, s
 
 ### 104.
 
-Everyone has the right to address submissions to State or local government institutions and to receive a materially responsive reply. Everyone has the right to receive a reply in the Latvian language.
+Everyone has the right to address submissions to State or local government institutions and to receive a
 
 8/9
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+materially responsive reply. Everyone has the right to receive a reply in the Latvian language.
 
 [30 April 2002]
 
