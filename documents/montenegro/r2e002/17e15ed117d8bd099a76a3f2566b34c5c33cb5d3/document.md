@@ -1,5 +1,20 @@
 [[START OF PAGE 1]]
 
+# OPŠTI ZAKON O OBRAZOVANJU I VASPITANJU
+
+(Objavljen u "Sl. listu RCG", br. 64 od 28. novembra 2002, 31/05, 49/07, "Sl. listu Crne Gore", br. 4 od 17. januara 2008, 21/09, 45/10, 40/11, 45/11, 36/13, 39/13, 44/13)
+
+## I OSNOVNE ODREDBE
+### Sadržaj zakona
+
+#### Član 1
+
+Ovim zakonom uređuju se organizacija i uslovi za obavljanje obrazovnog i vaspitnog rada u oblastima: predškolskog vaspitanja i obrazovanja, osnovnog obrazovanja i vaspitanja, srednjeg opšteg obrazovanja, stručnog obrazovanja, vaspitanja i obrazovanja lica sa posebnim potrebama i obrazovanja odraslih.
+
+### Ciljevi
+
+#### Član 2
+
 Obrazovanje i vaspitanje ima za cilj da:
 
 - obezbijedi mogućnost za svestrani razvoj pojedinca, bez obzira na pol, životno doba, socijalno i kulturno porijeklo, nacionalnu i vjersku pripadnost i tjelesnu i psihičku konstituciju;
@@ -36,28 +51,15 @@ Obrazovanje i vaspitanje je djelatnost od javnog interesa.
 
 #### Član 5
 
-U javnoj ustanovi i u ustanovi kojoj je dodijeljena koncesija za izvođenje javno važećeg obrazovnog programa, obrazovanje i vaspitanje je svjetovnog karaktera. U ustanovi iz stava 1 ovog člana nije dozvoljeno religijsko djelovanje osim u ustanovama koje su licencirane kao
+U javnoj ustanovi i u ustanovi kojoj je dodijeljena koncesija za izvođenje javno važećeg obrazovnog programa, obrazovanje i vaspitanje je svjetovnog karaktera.
 
-srednje vjerske škole.
-
-# OPŠTI ZAKON O OBRAZOVANJU I VASPITANJU
-
-(Objavljen u "Sl. listu RCG", br. 64 od 28. novembra 2002, 31/05, 49/07, "Sl. listu Crne Gore", br. 4 od 17. januara 2008, 21/09, 45/10, 40/11, 45/11, 36/13, 39/13, 44/13)
-
-## I OSNOVNE ODREDBE
-### Sadržaj zakona
-
-#### Član 1
-
-Ovim zakonom uređuju se organizacija i uslovi za obavljanje obrazovnog i vaspitnog rada u oblastima: predškolskog vaspitanja i obrazovanja, osnovnog obrazovanja i vaspitanja, srednjeg opšteg obrazovanja, stručnog obrazovanja, vaspitanja i obrazovanja lica sa posebnim potrebama i obrazovanja odraslih.
-
-### Ciljevi
-
-#### Član 2
+U ustanovi iz stava 1 ovog člana nije dozvoljeno religijsko djelovanje osim u ustanovama koje su licencirane kao srednje vjerske škole.
 
 #### Član 5a
 
-Srednje vjerske škole koje izvode javno važeće obrazovne programe imaju status srednjih škola. Javne isprave (diplome) koje izdaju ustanove iz stava 1 ovog člana su javno važeće i uvažavaju se za nastavak obrazovanja.
+Srednje vjerske škole koje izvode javno važeće obrazovne programe imaju status srednjih škola.
+
+Javne isprave (diplome) koje izdaju ustanove iz stava 1 ovog člana su javno važeće i uvažavaju se za nastavak obrazovanja.
 
 ### Autonomija ustanove
 
@@ -67,15 +69,15 @@ Srednje vjerske škole koje izvode javno važeće obrazovne programe imaju statu
 
 [[START OF PAGE 2]]
 
-Ustanova je autonomna u obavljanju svoje djelatnosti, u skladu sa zakonom. U ustanovi nije dozvoljeno političko (stranačko) organizovanje i djelovanje i korišćenje prostora ustanove u te
+Ustanova je autonomna u obavljanju svoje djelatnosti, u skladu sa zakonom.
 
-svrhe.
-
-Djelatnost javne ustanove je neprofitabilna.
+U ustanovi nije dozvoljeno političko (stranačko) organizovanje i djelovanje i korišćenje prostora ustanove u te svrhe.
 
 ### Neprofitabilnost
 
 #### Član 7
+
+Djelatnost javne ustanove je neprofitabilna.
 
 ### Dostupnost
 
@@ -151,6 +153,8 @@ Ustanova sarađuje sa zdravstvenim ustanovama pri sprovođenju zdravstvene zašt
 
 #### Član 15a
 
+(Prestao da važi).
+
 ### Nadzor
 
 #### Član 16
@@ -166,8 +170,6 @@ Obezbjeđivanje i unaprjeđivanje kvaliteta obrazovno-vaspitnog rada obavlja ust
 ### Pojmovnik
 
 #### Član 18
-
-(Prestao da važi).
 
 Pojedini izrazi u ovom zakonu imaju značenje:
 
@@ -311,9 +313,9 @@ Smještaj, ishranu i vaspitanje učenika koji se obrazuju van mjesta prebivališ
 
 #### Član 28
 
-### Osnivanje Nacionalnog savjeta
-
 (Brisan)
+
+### Osnivanje Nacionalnog savjeta
 
 [[END OF PAGE 5]]
 
@@ -357,6 +359,8 @@ obrazovanja, osnovnog obrazovanja i vaspitanja, srednjeg opšteg i stručnog obr
 
 #### Član 32. do 37.
 
+(Brisani).
+
 ## IV EKSTERNO UTVRĐIVANJE I OBEZBJEĐIVANJE KVALITETA
 ### Zavod za školstvo
 
@@ -393,8 +397,6 @@ Zavod za školstvo u oblastima predškolskog vaspitanja i obrazovanja, osnovnog 
 - obavlja savjetodavni rad;
 
 - organizuje stručno usavršavanje nastavnika i obuku direktora;
-
-(Brisani).
 
 [[END OF PAGE 7]]
 
@@ -693,11 +695,21 @@ Ustanovom upravlja školski odbor. Izuzetno od stava 1 ovog člana, ustanovom iz
 
 #### Član 74
 
-Članovi školskog, odnosno upravnog odbora biraju se na četiri godine osim predstavnika roditelja koji se biraju na dvije godine. Školski, odnosno upravni odbor konstituiše se na prvoj sjednici, koju saziva direktor ustanove. Postupak za konstituisanje školskog, odnosno upravnog odbora pokreće se najkasnije dva mjeseca prije isteka mandata školskog, odnosno upravnog odbora. Ako se školski, odnosno upravni odbor javne ustanove ne konstituiše u roku od 30 dana nakon isteka mandata, ministar, na predlog direktora ili nadležne inspekcije, može imenovati školski, odnosno upravni odbor, ali najduže na period do šest mjeseci. Predsjednik i članovi školskog, odnosno upravnog odbora obavljaju poslove iz svoje nadležnosti bez naknade.
+Članovi školskog, odnosno upravnog odbora biraju se na četiri godine osim predstavnika roditelja koji se biraju na dvije godine.
+
+Školski, odnosno upravni odbor konstituiše se na prvoj sjednici, koju saziva direktor ustanove.
+
+Postupak za konstituisanje školskog, odnosno upravnog odbora pokreće se najkasnije dva mjeseca prije isteka mandata školskog, odnosno upravnog odbora.
+
+Ako se školski, odnosno upravni odbor javne ustanove ne konstituiše u roku od 30 dana nakon isteka mandata,
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+ministar, na predlog direktora ili nadležne inspekcije, može imenovati školski, odnosno upravni odbor, ali najduže na period do šest mjeseci.
+
+Predsjednik i članovi školskog, odnosno upravnog odbora obavljaju poslove iz svoje nadležnosti bez naknade.
 
 ### Privremeni školski odbor
 
@@ -737,6 +749,42 @@ Direktor javne ustanove bira se na period od četiri godine. Direktoru javne ust
 
 [[START OF PAGE 15]]
 
+#### Član 79
+
+Lice izabrano za direktora dužno je da završi odgovarajući oblik osposobljavanja i usavršavanja za direktora ustanove.
+
+Osposobljavanje i usavršavanje iz stava 1 ovog člana organizuje Zavod za školstvo i Centar.
+
+### Izbor i razrješenje direktora
+
+#### Član 80
+
+Direktor javne ustanove bira se na osnovu javnog konkursa i podnesenog programa razvoja javne ustanove.
+
+Konkurs za izbor direktora raspisuje školski, odnosno upravni odbor dva mjeseca prije isteka mandata direktora.
+
+Kandidat za direktora je dužan da, uz prijavu na konkurs, priloži i program razvoja javne ustanove.
+
+Program razvoja javne ustanove podnosi kandidat za direktora na osnovu izvještaja o evaluaciji i samoevaluaciji obrazovno-vaspitnog rada javne ustanove.
+
+Direktora privatne ustanove bira i razrješava osnivač.
+
+Direktora javne ustanove bira i razrješava ministar.
+
+Javna ustanova dostavlja kompletnu dokumentaciju ministru, u roku od sedam dana od dana završetka konkursa.
+
+### Vršilac dužnosti direktora
+
+#### Član 81
+
+Ako direktoru javne ustanove prestane dužnost, a na konkursu se ne izabere direktor, ministar imenuje vršioca dužnosti direktora najduže na period do šest mjeseci.
+
+Vršiocu dužnosti direktora javne ustanove miruje radni odnos na poslovima sa kojih je imenovan.
+
+### Nadležnosti direktora
+
+#### Član 82
+
 Direktor ustanove:
 
 - planira, organizuje i rukovodi radom ustanove;
@@ -773,7 +821,7 @@ Direktor je dužan obrazovati Komisiju iz stava 1 tačke 14 ovog člana u roku o
 
 Zahtjevom za provjeru znanja učenika može se tražiti izuzeće predmetnog nastavnika iz Komisije.
 
-- U sastavu Komisije mora biti najmanje jedan član koji ne radi u toj ustanovi.
+U sastavu Komisije mora biti najmanje jedan član koji ne radi u toj ustanovi.
 
 Ocjena Komisije je konačna.
 
@@ -782,8 +830,6 @@ Direktor ustanove podnosi školskom, odnosno upravnom odboru izvještaj o radu, 
 ### Prestanak dužnosti direktora
 
 #### Član 82a
-
-### Zamjenjivanje direktora
 
 Dužnost direktora ustanove prestaje:
 
@@ -795,25 +841,7 @@ Dužnost direktora ustanove prestaje:
 
 - prestankom radnog odnosa.
 
-#### Član 79
-
-Lice izabrano za direktora dužno je da završi odgovarajući oblik osposobljavanja i usavršavanja za direktora ustanove. Osposobljavanje i usavršavanje iz stava 1 ovog člana organizuje Zavod za školstvo i Centar.
-
-### Izbor i razrješenje direktora
-
-#### Član 80
-
-Direktor javne ustanove bira se na osnovu javnog konkursa i podnesenog programa razvoja javne ustanove. Konkurs za izbor direktora raspisuje školski, odnosno upravni odbor dva mjeseca prije isteka mandata direktora. Kandidat za direktora je dužan da, uz prijavu na konkurs, priloži i program razvoja javne ustanove. Program razvoja javne ustanove podnosi kandidat za direktora na osnovu izvještaja o evaluaciji i samoevaluaciji obrazovno-vaspitnog rada javne ustanove. Direktora privatne ustanove bira i razrješava osnivač. Direktora javne ustanove bira i razrješava ministar. Javna ustanova dostavlja kompletnu dokumentaciju ministru, u roku od sedam dana od dana završetka konkursa.
-
-### Vršilac dužnosti direktora
-
-#### Član 81
-
-Ako direktoru javne ustanove prestane dužnost, a na konkursu se ne izabere direktor, ministar imenuje vršioca dužnosti direktora najduže na period do šest mjeseci. Vršiocu dužnosti direktora javne ustanove miruje radni odnos na poslovima sa kojih je imenovan.
-
-### Nadležnosti direktora
-
-#### Član 82
+### Zamjenjivanje direktora
 
 [[END OF PAGE 15]]
 
@@ -898,7 +926,7 @@ Izuzetno od stava 1 ovog člana, u ustanovi iz oblasti predškolskog vaspitanja 
 
 #### Član 88
 
-Nastavničko vijeće sačinjavaju nastavnici, vaspitači, direktor, pomoćnici direktora i stručni saradnici. Odjeljenjsko vijeće sačinjavaju nastavnici, vaspitači i stručni saradnici koji učestvuju u izvođenju obrazovnovaspitnog rada u odjeljenju. Stručni aktiv nastavnika sačinjavaju nastavnici istog nastavnog predmeta ili dva, odnosno više srodnih nastavnih predmeta. Stručno vijeće sačinjavaju direktor, pomoćnik direktora, vaspitači, vaspitači saradnici, vaspitači defektolozi, stručni saradnici i saradnici. Stručni aktiv u predškolskoj ustanovi sačinjavaju, po pravilu, vaspitači, vaspitači defektolozi, vaspitači saradnici i saradnici vaspitnih grupa djece približno istih godina starosti koji učestvuju u izvođenju određenih programa.
+Nastavničko vijeće sačinjavaju nastavnici, vaspitači, direktor, pomoćnici direktora i stručni saradnici. Odjeljenjsko vijeće sačinjavaju nastavnici, vaspitači i stručni saradnici koji učestvuju u izvođenju obrazovno-vaspitnog rada u odjeljenju. Stručni aktiv nastavnika sačinjavaju nastavnici istog nastavnog predmeta ili dva, odnosno više srodnih nastavnih predmeta. Stručno vijeće sačinjavaju direktor, pomoćnik direktora, vaspitači, vaspitači saradnici, vaspitači defektolozi, stručni saradnici i saradnici. Stručni aktiv u predškolskoj ustanovi sačinjavaju, po pravilu, vaspitači, vaspitači defektolozi, vaspitači saradnici i saradnici vaspitnih grupa djece približno istih godina starosti koji učestvuju u izvođenju određenih programa.
 
 ### Nadležnosti nastavničkog, odnosno stručnog vijeća
 
@@ -1161,7 +1189,7 @@ Nastavnik kojem je prestao radni odnos u slučaju iz tač. 2, 5, 9 i 10 ovog čl
 
 #### Član 112
 
-Nastavnici imaju pravo i obavezu da se stručno usavršavaju iz različitih oblasti kroz programe stručnog usavršavanja. Programe stručnog usavršavanja nastavnika donosi Nacionalni savjet, na predlog Zavoda za školstvo, odnosno Centra. Autor programa za stručno usavršavanje nastavnika može biti pravno ili fizičko lice koje obavlja obrazovnovaspitnu ili naučno-istraživačku djelatnost, licencirane ustanove visokog obrazovanja i strukovna udruženja nastavnika. Izuzetno od stava 3 ovog člana, autor programa za stručno usavršavanje nastavnika ne može biti lice koje je zaposleno u Ministarstvu, Zavodu za školstvo, Centru, Ispitnom centru, kao i član Nacionalnog savjeta. Prioritetne oblasti stručnog usavršavanja nastavnika za pet godina određuje Ministarstvo, na predlog ustanova, Zavoda za školstvo i Centra. Organizaciju stručnog usavršavanja nastavnika i način izbora autora programa iz stava 3 ovog člana propisuje Ministarstvo.
+Nastavnici imaju pravo i obavezu da se stručno usavršavaju iz različitih oblasti kroz programe stručnog usavršavanja. Programe stručnog usavršavanja nastavnika donosi Nacionalni savjet, na predlog Zavoda za školstvo, odnosno Centra. Autor programa za stručno usavršavanje nastavnika može biti pravno ili fizičko lice koje obavlja obrazovno-vaspitnu ili naučno-istraživačku djelatnost, licencirane ustanove visokog obrazovanja i strukovna udruženja nastavnika. Izuzetno od stava 3 ovog člana, autor programa za stručno usavršavanje nastavnika ne može biti lice koje je zaposleno u Ministarstvu, Zavodu za školstvo, Centru, Ispitnom centru, kao i član Nacionalnog savjeta. Prioritetne oblasti stručnog usavršavanja nastavnika za pet godina određuje Ministarstvo, na predlog ustanova, Zavoda za školstvo i Centra. Organizaciju stručnog usavršavanja nastavnika i način izbora autora programa iz stava 3 ovog člana propisuje Ministarstvo.
 
 [[END OF PAGE 22]]
 
@@ -1202,7 +1230,7 @@ Vjerodostojnost javne isprave ustanova ovjerava pečatom. Pečat ustanove je kru
 
 #### Član 117a
 
-Ustanova vodi bazu podataka u okviru Informacionog sistema obrazovanja Crne Gore (MEIS), kojim upravlja Ministarstvo. Lični podaci upisani u bazu iz stava 1 ovog člana prikupljaju se, obrađuju, čuvaju i koriste za potrebe obrazovnovaspitnog rada ustanova i Ministarstva, u skladu sa zakonom.
+Ustanova vodi bazu podataka u okviru Informacionog sistema obrazovanja Crne Gore (MEIS), kojim upravlja Ministarstvo. Lični podaci upisani u bazu iz stava 1 ovog člana prikupljaju se, obrađuju, čuvaju i koriste za potrebe obrazovno-vaspitnog rada ustanova i Ministarstva, u skladu sa zakonom.
 
 [[END OF PAGE 23]]
 
@@ -1220,6 +1248,8 @@ Oblik i način vođenja pedagoške evidencije i sadržinu javnih isprava iz čl.
 
 #### Član 119 do 128
 
+(Prestali da važe).
+
 ## XVI PRAVA I OBAVEZE IZ OBLASTI UČENIČKOG STANDARDA
 ### Prava učenika
 
@@ -1230,8 +1260,6 @@ Prava iz oblasti učeničkog standarda ostvaruju se u skladu sa ovim zakonom. Pr
 ### Vrste prava
 
 #### Član 130
-
-(Prestali da važe).
 
 Učenik ima pravo na: 1) smještaj i ishranu u domu; 2) stipendiju za talentovane; 2a) stipendiju za deficitarne kvalifikacije; 3) participaciju prevoza.
 
@@ -1334,7 +1362,7 @@ Izuzetno od odredbe stava 1 ovog člana, za finansiranje potreba iz tač. 2, 3 i
 
 [[START OF PAGE 26]]
 
-(Brisan).
+
 
 ### Finansiranje iz budžeta opštine
 
@@ -1396,6 +1424,7 @@ Međusobna prava i obaveze između privatne ustanove i države, uređuju se ugov
 
 #### Član 140
 
+(Brisan).
 ### Ograničenje finansiranja
 
 #### Član 141
@@ -1414,6 +1443,7 @@ Naknadu za školarinu po učeniku, odnosno djetetu u privatnoj ustanovi određuj
 
 #### Član 143
 
+(Brisan)
 ### Obezbjeđenje sredstava koncesionaru
 
 #### Član 144
@@ -1466,7 +1496,7 @@ Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u ustanovi nov�
 
 Postojeće ustanove i druge organizacije, koje obavljaju obrazovno-vaspitnu djelatnost po dosadašnjim propisima, uskladiće svoju organizaciju, rad i opšte akte sa odredbama ovog zakona, u roku od godinu dana od dana stupanja na snagu ovog zakona. Do donošenja opštih akata iz stava 1 ovog člana primjenjivaće se postojeći akti, ako nijesu u suprotnosti sa zakonom.
 
-(Brisan)
+
 
 [[END OF PAGE 27]]
 
