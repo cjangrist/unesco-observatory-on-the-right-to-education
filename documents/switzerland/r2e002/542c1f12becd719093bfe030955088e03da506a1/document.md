@@ -20,31 +20,31 @@ vu les art. 63 et 64 de la Constitution fédérale 1 , vu le message du Conseil 
 
 2  Pour promouvoir la qualité de l'enseignement et de la recherche, elle encourage:
 
-- la  création  de  réseaux  et  de  centres  de  compétences  dans  le  domaine  des hautes écoles;
+- a. la création de réseaux et de centres de compétences dans le domaine des hautes écoles;
 
-- la compétition entre les hautes écoles universitaires;
+- b. la compétition entre les hautes écoles universitaires;
 
-- la  création  de  conditions  propices  à  la  coopération  internationale  dans  le domaine des hautes écoles;
+- c. la création de conditions propices à la coopération internationale dans le domaine des hautes écoles;
 
-- la valorisation des connaissances acquises par la recherche.
+- d. la valorisation des connaissances acquises par la recherche.
 
 #### Art. 2 Objectifs particuliers de la Confédération
 
 1  La Confédération encourage des mesures propres à:
 
-- permettre aux étudiants d'entreprendre les études de leur choix, sous réserve des conditions d'immatriculation et des dispositions y relatives de l'accord intercantonal universitaire du 20 février 1997 3 ;
+- a. permettre aux étudiants d'entreprendre les études de leur choix, sous réserve des conditions d'immatriculation et des dispositions y relatives de l'accord intercantonal universitaire du 20 février 1997 3 ;
 
-- réaliser l'égalité entre femmes et hommes à tous les échelons universitaires;
+- b. réaliser l'égalité entre femmes et hommes à tous les échelons universitaires;
 
-- faciliter le passage des étudiants entre les hautes écoles universitaires;
+- c. faciliter le passage des étudiants entre les hautes écoles universitaires;
 
 RO 2000 948
 
 - 1 RS 101
 
-- 3 RO 1999 1503
-
 - 2 FF 1999 271
+
+- 3 RO 1999 1503
 
 414.20
 
@@ -58,11 +58,11 @@ RO 2000 948
 
 Haute école
 
-- faciliter l'assurance qualité;
+- d. faciliter l'assurance qualité;
 
-- assurer la comparabilité des coûts, des prestations et des filières d'études;
+- e. assurer la comparabilité des coûts, des prestations et des filières d'études;
 
-- 4 renforcer  le  droit  de  participation  des  étudiants  et  du  corps  intermédiaire dans les universités 5 .
+- f. 4 renforcer le droit de participation des étudiants et du corps intermédiaire dans les universités 5 .
 
 2  Elle applique ce faisant le principe de l'unité de l'enseignement et de la recherche.
 
@@ -76,9 +76,9 @@ Haute école
 
 La  Confédération  participe  à  la  politique  universitaire  en  assumant  la  charge  des EPF et:
 
-- en allouant des aides financières sous la forme de subventions de base, de contributions aux investissements et de contributions liées à des projets en faveur des universités cantonales et des institutions universitaires reconnues;
+- a. en allouant des aides financières sous la forme de subventions de base, de contributions aux investissements et de contributions liées à des projets en faveur des universités cantonales et des institutions universitaires reconnues;
 
-- en prenant de concert avec les cantons universitaires, en vertu d'une convention  de  coopération,  des  mesures  visant  à  coordonner  les  activités  dans  le domaine des hautes écoles universitaires.
+- b. en prenant de concert avec les cantons universitaires, en vertu d'une convention de coopération, des mesures visant à coordonner les activités dans le domaine des hautes écoles universitaires.
 
 ## Chapitre 2 Organisation
 
@@ -88,15 +88,15 @@ La  Confédération  participe  à  la  politique  universitaire  en  assumant  
 
 2  La Conférence universitaire suisse est composée:
 
-- de deux représentants de la Confédération;
+- a. de deux représentants de la Confédération;
 
-- d'un représentant de chacun des cantons universitaires;
+- b. d'un représentant de chacun des cantons universitaires;
 
-- de deux représentants des cantons non universitaires.
+- c. de deux représentants des cantons non universitaires.
 
 - 4 Introduite par le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1 er  mai 2004 (RO 2004 2013 2014; FF 2003 2067).
 
-- 5 Rectifié par la Commission de rédaction de l'Ass. féd. [art. 33 al. 1 LREC RO 1974 1051].
+- 5 Rectifié par la Commission de rédaction de l'Ass. féd. [art. 33 al. 1 LREC – RO 1974 1051].
 
 2
 
@@ -114,17 +114,17 @@ Aide aux universités - Loi
 
 1  La  convention  de  coopération  peut  déclarer  la  Conférence  universitaire  suisse compétente pour:
 
-- édicter  des  directives  sur  la  durée  normale  des  études  et  la  reconnaissance des acquis et des qualifications qui lient toutes les parties concernées;
+- a. édicter des directives sur la durée normale des études et la reconnaissance des acquis et des qualifications qui lient toutes les parties concernées;
 
-- octroyer des contributions liées à des projets;
+- b. octroyer des contributions liées à des projets;
 
-- évaluer périodiquement l'attribution des pôles de recherche nationaux dans l'optique de la répartition des tâches entre les universités sur le plan national;
+- c. évaluer périodiquement l'attribution des pôles de recherche nationaux dans l'optique de la répartition des tâches entre les universités sur le plan national;
 
-- reconnaître des institutions ou des filières d'études;
+- d. reconnaître des institutions ou des filières d'études;
 
-- édicter des directives sur l'évaluation de l'enseignement et de la recherche;
+- e. édicter des directives sur l'évaluation de l'enseignement et de la recherche;
 
-- édicter des directives relatives à la valorisation des connaissances acquises par la recherche.
+- f. édicter des directives relatives à la valorisation des connaissances acquises par la recherche.
 
 2  La  Conférence  universitaire  suisse  émet  à  l'adresse  de  la  Confédération  et  des cantons universitaires des recommandations relatives à la collaboration, à la planification pluriannuelle et à la répartition des tâches dans le domaine des hautes écoles universitaires.
 
@@ -134,11 +134,11 @@ Aide aux universités - Loi
 
 2  A cet effet, la Confédération et les cantons universitaires instituent un organe indépendant qui exécute les tâches suivantes à l'intention de la Conférence universitaire suisse:
 
-- définir  les  exigences  liées  à  l'assurance  qualité  et  vérifier  régulièrement qu'elles sont remplies;
+- a. définir les exigences liées à l'assurance qualité et vérifier régulièrement qu'elles sont remplies;
 
-- formuler des propositions en vue de mettre en place à l'échelle nationale une procédure permettant d'agréer les institutions qui souhaitent obtenir l'accréditation soit pour elles-mêmes, soit pour certaines de leurs filières d'études;
+- b. formuler des propositions en vue de mettre en place à l'échelle nationale une procédure permettant d'agréer les institutions qui souhaitent obtenir l'accréditation soit pour elles-mêmes, soit pour certaines de leurs filières d'études;
 
-- vérifier à la lumière des directives arrêtées par la Conférence universitaire la légitimité de l'accréditation.
+- c. vérifier à la lumière des directives arrêtées par la Conférence universitaire la légitimité de l'accréditation.
 
 > 3  La convention de coopération fixe les modalités techniques concernant notamment l'organisation et le financement.
 
@@ -166,11 +166,11 @@ La  Conférence  universitaire  suisse  collabore  avec  les  instances  nationa
 
 La Conférence universitaire suisse consulte les milieux intéressés sur des questions importantes de la politique universitaire suisse, en particulier:
 
-- les instances dirigeantes des hautes écoles universitaires;
+- a. les instances dirigeantes des hautes écoles universitaires;
 
-- le corps professoral, le corps intermédiaire et les étudiants;
+- b. le corps professoral, le corps intermédiaire et les étudiants;
 
-- les organisations de l'économie.
+- c. les organisations de l'économie.
 
 ## Chapitre 3 Financement
 
@@ -180,25 +180,25 @@ La Conférence universitaire suisse consulte les milieux intéressés sur des qu
 
 1  Une université peut avoir droit à une subvention lorsque:
 
-- elle comprend plusieurs facultés ou domaines d'études;
+- a. elle comprend plusieurs facultés ou domaines d'études;
 
-- ses activités d'enseignement et de recherche sont d'un niveau universitaire;
+- b. ses activités d'enseignement et de recherche sont d'un niveau universitaire;
 
-- elle offre dans la majorité de ses facultés ou domaines d'études une formation complète validée par un examen final.
+- c. elle offre dans la majorité de ses facultés ou domaines d'études une formation complète validée par un examen final.
 
 2  Une institution peut avoir droit à une subvention lorsque:
 
-- elle remplit des tâches relevant de la formation initiale ou continue et de la recherche au niveau universitaire;
+- a. elle remplit des tâches relevant de la formation initiale ou continue et de la recherche au niveau universitaire;
 
-- son rattachement à une université n'est pas indiqué.
+- b. son rattachement à une université n'est pas indiqué.
 
 3  Des aides financières peuvent être allouées aux universités ou aux institutions qui:
 
-- fournissent  des  prestations  d'un  haut  niveau  de  qualité,  contrôlées  par l'organe  d'assurance  qualité  et  reconnues  par  la  Conférence  universitaire suisse;
+- a. fournissent des prestations d'un haut niveau de qualité, contrôlées par l'organe d'assurance qualité et reconnues par la Conférence universitaire suisse;
 
-- adhèrent à la répartition des tâches proposée par la Conférence universitaire suisse;
+- b. adhèrent à la répartition des tâches proposée par la Conférence universitaire suisse;
 
-- appliquent le principe de la reconnaissance mutuelle des unités de cours;
+- c. appliquent le principe de la reconnaissance mutuelle des unités de cours;
 
 4
 
@@ -210,9 +210,9 @@ Aide aux universités - Loi
 
 414.20
 
-- mettent en œuvre des mesures visant à exploiter les résultats scientifiques et à favoriser leur diffusion;
+- d. mettent en œuvre des mesures visant à exploiter les résultats scientifiques et à favoriser leur diffusion;
 
-- fournissent les données statistiques nécessaires en matière d'éducation.
+- e. fournissent les données statistiques nécessaires en matière d'éducation.
 
 #### Art. 12 Procédure
 
@@ -226,19 +226,19 @@ Aide aux universités - Loi
 
 1  La Confédération alloue des aides financières sous les formes suivantes:
 
-- subventions de base;
+- a. subventions de base;
 
-- contributions aux investissements;
+- b. contributions aux investissements;
 
-- contributions supplémentaires liées à des projets.
+- c. contributions supplémentaires liées à des projets.
 
 2  Elle peut allouer des aides financières à des institutions communes des hautes écoles universitaires lorsque celles-ci assument des tâches d'intérêt national. Ces aides représentent au plus 50 % des charges d'exploitation.
 
 3  L'Assemblée fédérale autorise:
 
-- par  voie  d'arrêté  fédéral  simple  couvrant  une  période  pluriannuelle  le  plafond de dépenses pour les subventions de base;
+- a. par voie d'arrêté fédéral simple couvrant une période pluriannuelle le plafond de dépenses pour les subventions de base;
 
-- les crédits d'engagement pour les contributions aux investissements et pour les contributions supplémentaires liées à des projets.
+- b. les crédits d'engagement pour les contributions aux investissements et pour les contributions supplémentaires liées à des projets.
 
 ### Section 3 Subventions de base
 
@@ -302,9 +302,9 @@ Aide aux universités - Loi
 
 2  Les contributions sont versées pour:
 
-- l'achat, la construction ou la transformation de bâtiments lorsque le montant des dépenses dépasse 3 millions de francs;
+- a. l'achat, la construction ou la transformation de bâtiments lorsque le montant des dépenses dépasse 3 millions de francs;
 
-- l'acquisition et l'installation d'appareils scientifiques, de machines et d'engins  et  de  moyens  informatiques  lorsque  le  montant  des  dépenses dépasse 300 000 francs.
+- b. l'acquisition et l'installation d'appareils scientifiques, de machines et d'engins et de moyens informatiques lorsque le montant des dépenses dépasse 300 000 francs.
 
 3  Les contributions sont versées pour des projets rationnels qui satisfont aux principes de la répartition des tâches et de la collaboration entre les hautes écoles.
 
@@ -312,11 +312,11 @@ Aide aux universités - Loi
 
 - 5  Ne donnent pas droit à une contribution, en particulier:
 
-- l'acquisition et l'équipement de terrains;
+- a. l'acquisition et l'équipement de terrains;
 
-- l'entretien des bâtiments;
+- b. l'entretien des bâtiments;
 
-- les taxes, les amortissements et les intérêts.
+- c. les taxes, les amortissements et les intérêts.
 
 #### Art. 19 Calcul et versement des contributions
 
@@ -358,11 +358,11 @@ Haute école
 
 1  Le Conseil fédéral est habilité à conclure dans le domaine universitaire des accords sur:
 
-- la coopération internationale;
+- a. la coopération internationale;
 
-- l'encouragement de la mobilité internationale;
+- b. l'encouragement de la mobilité internationale;
 
-- la participation à des programmes internationaux.
+- c. la participation à des programmes internationaux.
 
 2  Il tient compte des compétences des cantons et veille à leurs intérêts.
 
@@ -434,9 +434,9 @@ Date de l'entrée en vigueur: 1 er  avril 2000 13
 
 > 11 Abrogés par le ch. II 18 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1 er  août 2008 (RO 2008 3437 3452; FF 2007 5789).
 
-> 13 ACF du 13 mars 2000 (RO 2000 957)
-
 > 12 Introduit par le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1 er  janv. 2008 (RO 2008 307; FF 2007 1149).
+
+> 13 ACF du 13 mars 2000 (RO 2000 957)
 
 9
 
