@@ -28,15 +28,15 @@ institution;
 
 - 3-1) methodic department - structural subdivision of management bodies of education, providing organization and methodological support, analysis and assessment of results rating of educational process, generalization and dissemination of innovative educational experience that contributes to the creative growth of teaching staff and their professional self-realization;
 
-- bachelor - academic degree, awarded to persons, mastered appropriate educational programs of higher education;
+- 4) bachelor - academic degree, awarded to persons, mastered appropriate educational programs of higher education;
 
-- preprofile training - purposeful pedagogical support of choosing by the student the secondary education of individual educational path;
+- 5) preprofile training - purposeful pedagogical support of choosing by the student the secondary education of individual educational path;
 
 - 5-1) profession-oriented school - educational institution, implementing an educational training program of general secondary education;
 
-- specialized education - a process of differentiation and individualization of training , organization of educational process, taking into account the interests, aptitudes and abilities of students;
+- 6) specialized education - a process of differentiation and individualization of training , organization of educational process, taking into account the interests, aptitudes and abilities of students;
 
-- international scholarship 'Bolashak' -scholarship, established by the President of the Republic of Kazakhstan for training the citizens of the Republic of Kazakhstan in the leading foreign higher education institutions by full-time course of study or interning by scientific, pedagogic, engineering and technical, medical workers in the foreign organizations;
+- 7) international scholarship 'Bolashak' -scholarship, established by the President of the Republic of Kazakhstan for training the citizens of the Republic of Kazakhstan in the leading foreign higher education institutions by full-time course of study or interning by scientific, pedagogic, engineering and technical, medical workers in the foreign organizations;
 
 - 7-1) voucher and modular system of continuing education - a form of continuing education, providing the educator with possibility of choice of organization, content and term of apprenticeship, financing on the basis of per capita standard, established by the state and executed in the form of name document (voucher), provided with definite sum of money;
 
@@ -46,21 +46,21 @@ institution;
 
 - 7-4) special conditions for obtainment of education - conditions for obtainment of education, including the special educational training programs and special teaching methods, technical and other means, living environment, as well as medical, social and other services, without which is impossible gaining of general education and professional educational training programs by individuals with disabilities;
 
-- intermediate attestation of students - procedure, conducting in order of assessing the quality of learning the content of part or all volume of one educational subject after completion of its study;
+- 8) intermediate attestation of students - procedure, conducting in order of assessing the quality of learning the content of part or all volume of one educational subject after completion of its study;
 
-- final attestation of students - procedure, conducting in order of determination the extent of learning by them the volume of educational subjects, provided by the state obligatory standards of relevant educational level;
+- 9) final attestation of students - procedure, conducting in order of determination the extent of learning by them the volume of educational subjects, provided by the state obligatory standards of relevant educational level;
 
-- educational grant - target sum of money, provided to the students on conditions, established by the legislation of the Republic of Kazakhstan to pay for higher education;
+- 10) educational grant - target sum of money, provided to the students on conditions, established by the legislation of the Republic of Kazakhstan to pay for higher education;
 
 - 10-1) educational loan - money, provided to the borrower by financial organizations to pay for education on conditions of timing, payment and repayment;
 
-- educational activity - process of purposeful, pedagogically established, sequential interaction of subjects of education, in the course of which the tasks of training, development and education of personality are solved;
+- 11) educational activity - process of purposeful, pedagogically established, sequential interaction of subjects of education, in the course of which the tasks of training, development and education of personality are solved;
 
-- educational monitoring - systematic observation, analysis, assessment and prediction of the state and dynamics of changes of the results and conditions of implementation of educational processes, contingent of students, network, as well as rating indicators of achievement of activity of organizations of education;
+- 12) educational monitoring - systematic observation, analysis, assessment and prediction of the state and dynamics of changes of the results and conditions of implementation of educational processes, contingent of students, network, as well as rating indicators of achievement of activity of organizations of education;
 
-- an authorized body in the field of education - central executive body of the Republic of Kazakhstan, carrying out management and cross-sector coordination in the field of education;
+- 13) an authorized body in the field of education - central executive body of the Republic of Kazakhstan, carrying out management and cross-sector coordination in the field of education;
 
-- national system of estimating the quality of education - a set of institutional
+- 14) national system of estimating the quality of education - a set of institutional
 
 [[END OF PAGE 2]]
 
@@ -68,15 +68,15 @@ institution;
 
 - structures, procedures, forms and methods of establishing conformity of quality of education to the state obligatory standards of education, needs of individual, society and the state;
 
-- nostrification of documents confirming education - procedure, conducting in order of determination of equivalence of documents, issued to the persons, educated in other states, in international or foreign educational institutions (their branches);
+- 15) nostrification of documents confirming education - procedure, conducting in order of determination of equivalence of documents, issued to the persons, educated in other states, in international or foreign educational institutions (their branches);
 
-- accreditation of organizations of education - procedure of recognition of accreditation body of compliance of educational services with the established standards ( regulations) of accreditation in order of provision of objective information about its quality and approval existence of effective mechanisms of its increase;
+- 16) accreditation of organizations of education - procedure of recognition of accreditation body of compliance of educational services with the established standards ( regulations) of accreditation in order of provision of objective information about its quality and approval existence of effective mechanisms of its increase;
 
-- state attestation of educational organization - procedure, conducting in order of control of compliance of educational services, provided by organizations of education, with the requirements of the state of obligatory standard;
+- 17) state attestation of educational organization - procedure, conducting in order of control of compliance of educational services, provided by organizations of education, with the requirements of the state of obligatory standard;
 
 - 17-1) special status of educational organization - special regime of functioning, providing possibility of self-determination of order of admission to the training, implementation of self-developed educational training programs, use of own regulations and standards in the field of educational, scientific and methodical activity, issuance of documents concerning education of own sample;
 
-- upper secondary school - educational institution, implementing general education and additional educational training programs of primary, basic secondary and general secondary education, providing expanded and profound education on socio-humanities and other fields of study in accordance with aptitudes and abilities of students;
+- 18) upper secondary school - educational institution, implementing general education and additional educational training programs of primary, basic secondary and general secondary education, providing expanded and profound education on socio-humanities and other fields of study in accordance with aptitudes and abilities of students;
 
 - 18-1) scientific and methodical work - type of activity, based on scientific achievements and advanced educational experience and directed to improving the functioning and development of continuing education;
 
@@ -86,11 +86,11 @@ institution;
 
 - 18-4) doctorate - professional educational training program of postgraduate study, directed to the training of scientific and pedagogical staff with conferment of a higher degree of doctor of philosophy (PhD), doctor on profile;
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
+- 19) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
+- 20) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- general education school - educational institution, implementing general education and additional educational training programs of primary, basic secondary and general secondary education, as well as education programs of additional education of students and pupils;
+- 21) general education school - educational institution, implementing general education and additional educational training programs of primary, basic secondary and general secondary education, as well as education programs of additional education of students and pupils;
 
 - 21-1) higher technical school - educational institution, implementing integrated educational training programs of technical and professional, post-secondary education;
 
@@ -98,9 +98,9 @@ institution;
 
 - 21-3) inclusive education - co-education and training of individuals with disabilities, providing an equal access with other categories of students to the relevant educational training programs of education, special pedagogic and social support of development by providing the special conditions;
 
-- innovative and educational consortium - voluntary equal association on the basis of joint operation agreement, wherein the higher education institutions, scientific organizations and other legal entitis, engaged in production, associate intellectual, financial and other resources for training of highly trained professionals on the basis of fundamental, applied scientific researches and technological innovations;
+- 22) innovative and educational consortium - voluntary equal association on the basis of joint operation agreement, wherein the higher education institutions, scientific organizations and other legal entitis, engaged in production, associate intellectual, financial and other resources for training of highly trained professionals on the basis of fundamental, applied scientific researches and technological innovations;
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (
+- 23) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (
 
 [[END OF PAGE 3]]
 
@@ -108,39 +108,39 @@ institution;
 
 shall be enforced upon expiry of ten calendar days after its first official publication); 24) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- institute - higher education institution, implementing educational training programs of higher education;
+- 25) institute - higher education institution, implementing educational training programs of higher education;
 
-- institutional accreditation - an assessment of activity of educational organization on qualitative representation of educational programs in accordance with the stated status;
+- 26) institutional accreditation - an assessment of activity of educational organization on qualitative representation of educational programs in accordance with the stated status;
 
 - 26-1) integrated educational training programs - educational training programs, developed on the basis of combining of relevant substantive aspects of educational training programs;
 
-- boarding school organizations - educational organizations, providing the state guarantees of rights to education the relevant categories of persons with provision of place of residence;
+- 27) boarding school organizations - educational organizations, providing the state guarantees of rights to education the relevant categories of persons with provision of place of residence;
 
-- internship - a form of one or two-year training of students of medical higher education institutions within the basic medical education;
+- 28) internship - a form of one or two-year training of students of medical higher education institutions within the basic medical education;
 
 - 28-1) adaptation centers of minors - organizations, being managed by bodies of education, providing reception and temporary alimony of neglected and street children at the age from three to eighteen years for establishment of parents or other legal representatives, children, being left without parental care or persons, substituting them, in the case of impossibility of their timely organization, children, taken away upon direct threat to their life or health by tutorship and guardianship authority from parents (one of them) or other persons, in care of which they are, children, directed to the special organizations of education, as well as children, being in difficult real-life situation due to abusive treatment, led to the social maladjustment and social deprivation;
 
-- professional orientation - provision of information and consulting assistance to the students in exercising its rights in the field of educational and professional possibilities, free and informed choice of profession and place of study in accordance with the professional interests, individual abilities and psychophysiological characteristics;
+- 29) professional orientation - provision of information and consulting assistance to the students in exercising its rights in the field of educational and professional possibilities, free and informed choice of profession and place of study in accordance with the professional interests, individual abilities and psychophysiological characteristics;
 
 - 29-1) professional training - a part of system of technical and professional education, providing implementation of professional educational training programs with reduced period of study in training of specialists of technical and service work;
 
-- an assessment of professional degree of training - determination of quality of conformance of skill level (ability) of graduate of organizations of education, implementing educational training programs of technical and professional, post-secondary education to execution of work within the relevant type of professional activity;
+- 30) an assessment of professional degree of training - determination of quality of conformance of skill level (ability) of graduate of organizations of education, implementing educational training programs of technical and professional, post-secondary education to execution of work within the relevant type of professional activity;
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
+- 31) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
+- 32) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- complex test - a form of examination, conducted simultaneously by several educational subject with application of information technologies;
+- 33) complex test - a form of examination, conducted simultaneously by several educational subject with application of information technologies;
 
-- clinical base - clinic of higher education institution or public health organization, operating on the basis of local public health organizations, having a high level of material and technical basis, carrying out training and retraining of doctors, scientific personnel and providing all types of medical assistance on the basis of modern methods of organization and methodical, educational, medical diagnostic and research scientific work;
+- 34) clinical base - clinic of higher education institution or public health organization, operating on the basis of local public health organizations, having a high level of material and technical basis, carrying out training and retraining of doctors, scientific personnel and providing all types of medical assistance on the basis of modern methods of organization and methodical, educational, medical diagnostic and research scientific work;
 
-- college - an educational institution, implementing educational training programs of general secondary and technical and professional education or post-secondary education;
+- 35) college - an educational institution, implementing educational training programs of general secondary and technical and professional education or post-secondary education;
 
 - 35-1) cooperative learning - on the forms of organization of professional staff training, based on corporate responsibility of the state, employers and educational institutions;
 
-- credit technology of training - training on the basis of choice and self-planning of students of subsequence study of subjects with the use of credit as unitized volume unit of educational work of students and teacher;
+- 36) credit technology of training - training on the basis of choice and self-planning of students of subsequence study of subjects with the use of credit as unitized volume unit of educational work of students and teacher;
 
-- quota of reception - limited number of volume of the state educational order, as well as educational grants, awarded for reception in organization, giving technical and professional
+- 37) quota of reception - limited number of volume of the state educational order, as well as educational grants, awarded for reception in organization, giving technical and professional
 
 [[END OF PAGE 4]]
 
@@ -152,37 +152,37 @@ shall be enforced upon expiry of ten calendar days after its first official publ
 
 - 37-2) associated professor (assistant professor), professor - academic titles, awarded by the authorized body in the field of education upon the application of higher education institution or scientific organization;
 
-- distance education technologies - education, carrying out with application of information and telecommunication means upon mediate (in the distance) or incompletely mediate interaction of student and teaching employee;
+- 38) distance education technologies - education, carrying out with application of information and telecommunication means upon mediate (in the distance) or incompletely mediate interaction of student and teaching employee;
 
 - 38-1) non-school organization of additional education - training and educational organization, implementing educational training programs of additional education of students and pupils;
 
-- additional education - a process of education and training carried out in order of satisfaction of comprehensive needs of student and pupils;
+- 39) additional education - a process of education and training carried out in order of satisfaction of comprehensive needs of student and pupils;
 
-- lyceum - educational institution, implementing general education and additional educational training programs of basic secondary and general secondary education, providing enhanced and profound natural mathematical education of students in accordance with their aptitudes and abilities;
+- 40) lyceum - educational institution, implementing general education and additional educational training programs of basic secondary and general secondary education, providing enhanced and profound natural mathematical education of students in accordance with their aptitudes and abilities;
 
-- magister - academic degree, awarded to persons, mastered professional education programs of postgraduate study;
+- 41) magister - academic degree, awarded to persons, mastered professional education programs of postgraduate study;
 
 - 41-1) magistrand - a person, studying in a master's degree;
 
 - 41-2) master's degree programme - professional educational training program of postgraduate education, directed to the training of scientific and pedagogical staff with awarding of academic degree 'magister' in the relevant profession;
 
-- specialized accreditation - quality assessment of separate education programs, implemented by educational organization;
+- 42) specialized accreditation - quality assessment of separate education programs, implemented by educational organization;
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
+- 43) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- state scholarship - a scholarship, established by the President of the Republic of Kazakhstan and (or) the Government of the Republic of Kazakhstan;
+- 44) state scholarship - a scholarship, established by the President of the Republic of Kazakhstan and (or) the Government of the Republic of Kazakhstan;
 
-- state educational order - volume of services on nursery education and training, financing by the state, on training, continuing education and retraining of qualified employers and specialist for meet the requirements of economy, reproduction of qualified personnel and intellectual potential of society, as well as on training and methodological support of the education system;
+- 45) state educational order - volume of services on nursery education and training, financing by the state, on training, continuing education and retraining of qualified employers and specialist for meet the requirements of economy, reproduction of qualified personnel and intellectual potential of society, as well as on training and methodological support of the education system;
 
 - 45-1) state final exam - one of the form of final attestation of students in the organizations of general secondary education, being a necessary condition for receipt by them a document of the state-recognized, certifying on graduation of general secondary education;
 
-- education program - a program, determining on each educational subject (subject) of content and scope of knowledge, skill, experience and competence, subject to learning;
+- 46) education program - a program, determining on each educational subject (subject) of content and scope of knowledge, skill, experience and competence, subject to learning;
 
-- curriculum - a document, regulating a list and volume of educational subjects ( subjects) of relevant educational level, procedure of its learning and form of control;
+- 47) curriculum - a document, regulating a list and volume of educational subjects ( subjects) of relevant educational level, procedure of its learning and form of control;
 
-- educational and clinical center - structural subdivision of medical higher education institution, equipped by state-of-the-art equipment, phantoms and moulages and designed to learning and control of practical (clinical) experiences of students and (or) medical workers;
+- 48) educational and clinical center - structural subdivision of medical higher education institution, equipped by state-of-the-art equipment, phantoms and moulages and designed to learning and control of practical (clinical) experiences of students and (or) medical workers;
 
-- secondary education - guaranteed by the Constitution of the Republic of Kazakhstan on education, obtained by the citizens in the results of learning of general education training programs of primary, basic secondary and general secondary education in accordance with the
+- 49) secondary education - guaranteed by the Constitution of the Republic of Kazakhstan on education, obtained by the citizens in the results of learning of general education training programs of primary, basic secondary and general secondary education in accordance with the
 
 [[END OF PAGE 5]]
 
@@ -192,41 +192,41 @@ state obligatory standards of education;
 
 - 49-1) grant 'The best organization of secondary education' - money, annually allocated to the state organizations of secondary education by the local executive bodies of region, city of republican significance and capital according to the results of competition on the basis of rating indicators;
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 10.07.2012 No. 36-V(shall be enforced upon expiry of ten calendar days after its first official publication);
+- 50) Is excluded by the Law of the Republic of Kazakhstan dated 10.07.2012 No. 36-V(shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- residency - a form of obtainment of profound postgraduate medical education on clinical professions;
+- 51) residency - a form of obtainment of profound postgraduate medical education on clinical professions;
 
 - 51-1) listener of residency - a specialist, providing educational and training programs of profound postgraduate medical education on clinical professions;
 
-- spiritual (religious) educational organization - educational institutions, implementing professional education programs of training of ministers of church;
+- 52) spiritual (religious) educational organization - educational institutions, implementing professional education programs of training of ministers of church;
 
-- scholarship - a sum of money, providing for student for partial covering expenses for meals, residence and obtaining of educational material;
+- 53) scholarship - a sum of money, providing for student for partial covering expenses for meals, residence and obtaining of educational material;
 
 - 53-1) a student - a person, studying in educational organization, implementing educational training programs of technical and professional post-secondary and higher education ;
 
 - 53-2) exemplary school (resource center) - organization of general secondary education, on the basis of which educational resources of nearest ungraded schools for short-term sessional lessons and intermediate and final attestation of students in order of providing an access to the quality education for students of ungraded schools is consolidated;
 
-- university - higher education institution, implementing educational training programs of higher education, doctorate in three or more groups of professions, performing basic and applied researches, being scientific and methodical center;
+- 54) university - higher education institution, implementing educational training programs of higher education, doctorate in three or more groups of professions, performing basic and applied researches, being scientific and methodical center;
 
-- college - educational institution, implementing educational training programs of secondary and general secondary, technical and professional or post-secondary education in the field of culture and art;
+- 55) college - educational institution, implementing educational training programs of secondary and general secondary, technical and professional or post-secondary education in the field of culture and art;
 
-- common national testing - one of the form of final attestation of students in organizations of general secondary education, combined with entrance examinations in educational organization, giving a post-secondary or higher education;
+- 56) common national testing - one of the form of final attestation of students in organizations of general secondary education, combined with entrance examinations in educational organization, giving a post-secondary or higher education;
 
 - 56-1) national higher education institution - higher education institution, being a leading scientific and methodical center of country, having a special status;
 
 - 56-2) national research university - higher education institution, having a special status and development program for five years, approved by the Government of the Republic of Kazakhstan, implementing self-developed educational training programs of higher and postgraduate education in three or more groups of professions using the results of basic and applied research for generation and transfer of new knowledge;
 
-- doctor of philosophy (PhD), doctor on profile - degree level, awarded to persons, mastered professional educational training programs of doctorate on relevant professions and defended a dissertation;
+- 57) doctor of philosophy (PhD), doctor on profile - degree level, awarded to persons, mastered professional educational training programs of doctorate on relevant professions and defended a dissertation;
 
 - 57-1) international school - educational organization, implementing self-developed integrated educational programs, passing authorization in Organization of International Baccalaureate or international institutional accreditation;
 
-- ungraded school - general education school with narrow school enrolment, combined with class-outfits and specific form of organization of training sessions;
+- 58) ungraded school - general education school with narrow school enrolment, combined with class-outfits and specific form of organization of training sessions;
 
-- testing site - educational organization, implementing educational training programs in the test regime for approval of new pedagogic technologies and educational training programs ;
+- 59) testing site - educational organization, implementing educational training programs in the test regime for approval of new pedagogic technologies and educational training programs ;
 
-- external studies - a form of education, upon which the students independently learn the educational subjects of relevant educational program without regular attendance;
+- 60) external studies - a form of education, upon which the students independently learn the educational subjects of relevant educational program without regular attendance;
 
-- elite education - education, obtained by specialized educational training programs, implemented in specialized organizations of education for gifted persons.
+- 61) elite education - education, obtained by specialized educational training programs, implemented in specialized organizations of education for gifted persons.
 
 Footnote. Article 1 as amended by the Laws of the Republic of Kazakhstan dated 24.10.2011
 
@@ -238,35 +238,35 @@ No. 487-IV (shall be enforced upon expiry of ten calendar days after its first o
 
 ### Article 2. The legislation of the Republic of Kazakhstan in the field of education
 
-- The legislation of the Republic of Kazakhstan on education is based on the Constitution of the Republic of Kazakhstan and consists of this Law and other regulatory legal acts of the Republic of Kazakhstan.
+- 1. The legislation of the Republic of Kazakhstan on education is based on the Constitution of the Republic of Kazakhstan and consists of this Law and other regulatory legal acts of the Republic of Kazakhstan.
 
-- If the international treaty, ratified by the Republic of Kazakhstan establishes the other rules, than those provided by this Law, the rules of international treaty shall be applied.
+- 2. If the international treaty, ratified by the Republic of Kazakhstan establishes the other rules, than those provided by this Law, the rules of international treaty shall be applied.
 
 ### Article 3. Principles of the state policy in the field of education
 
-- Basic principles of the state policy in the field of education shall be:
+- 1. Basic principles of the state policy in the field of education shall be:
 
-- equality of rights of all to obtain the quality education;
+- 1) equality of rights of all to obtain the quality education;
 
-- priority of development of educational system;
+- 2) priority of development of educational system;
 
-- accessibility of education of all levels for population in recognition of mentality, psychophysiological and individual peculiarities of each person;
+- 3) accessibility of education of all levels for population in recognition of mentality, psychophysiological and individual peculiarities of each person;
 
-- secular, humanistic and developed nature of education, priority of civil and national values, life and health of person, free personality development;
+- 4) secular, humanistic and developed nature of education, priority of civil and national values, life and health of person, free personality development;
 
-- respect of human rights and freedoms;
+- 5) respect of human rights and freedoms;
 
-- stimulation of education of personality and development of giftedness;
+- 6) stimulation of education of personality and development of giftedness;
 
-- continuity of process of education, secure continuity of its levels;
+- 7) continuity of process of education, secure continuity of its levels;
 
-- unity of training, education and development;
+- 8) unity of training, education and development;
 
-- democratic nature of management of education, transparency of activity of educational system;
+- 9) democratic nature of management of education, transparency of activity of educational system;
 
-- variety of organizations of education on forms of ownership, training forms and education, direction of education.
+- 10) variety of organizations of education on forms of ownership, training forms and education, direction of education.
 
-- Creation and activity of organizational structures of political parties and religious organizations (associations) in organizations of education shall be prohibited.
+- 2. Creation and activity of organizational structures of political parties and religious organizations (associations) in organizations of education shall be prohibited.
 
 Footnote. Article 3 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
@@ -276,7 +276,7 @@ Footnote. Article 3 as amended by the Law of the Republic of Kazakhstan dated 24
 
 The Government of the Republic of Kazakhstan shall: 1) develop and realize the state policy on development of education; 2) Is excluded by the Law of the Republic of Kazakhstan dated 03.07.2013 No. 124-V (shall be enforced upon expiry of ten calendar days after its first official publication); 3) form a system of continuous monitoring of current and long-term requirements of the labor market in staff;
 
-- provide participation in social partners in solution of problems of professional
+- 4) provide participation in social partners in solution of problems of professional
 
 [[END OF PAGE 7]]
 
@@ -292,17 +292,17 @@ The Government of the Republic of Kazakhstan shall: 1) develop and realize the s
 
 - the self-employment, releasing from obligations or termination of obligation on development by citizens, specified in paragraph 17 of Article 47 of this Law, learning on the basis of the state educational order;
 
-- introduce presentation to the President of the Republic of Kazakhstan on approval of the list of higher education institution, chief executive officers of which are appointed by the President of the Republic of Kazakhstan, and procedure of their appointment, attestation and dismissal from office;
+- 23) introduce presentation to the President of the Republic of Kazakhstan on approval of the list of higher education institution, chief executive officers of which are appointed by the President of the Republic of Kazakhstan, and procedure of their appointment, attestation and dismissal from office;
 
-- approve the state obligatory standards of education of relevant educational levels; 24-1) approve the amounts of quota of reception upon entering to the study in educational organization, implementing professional educational training programs of technical and professional, post-secondary and higher education, on presentation of the authorized body in the field of education;
+- 24) approve the state obligatory standards of education of relevant educational levels; 24-1) approve the amounts of quota of reception upon entering to the study in educational organization, implementing professional educational training programs of technical and professional, post-secondary and higher education, on presentation of the authorized body in the field of education;
 
-- approve the model rules of reception to the study in educational organization, implementing general educational training programs of primary, basic secondary, general secondary education, professional training programs of technical and professional post-secondary, higher and postgraduate education;
+- 25) approve the model rules of reception to the study in educational organization, implementing general educational training programs of primary, basic secondary, general secondary education, professional training programs of technical and professional post-secondary, higher and postgraduate education;
 
 - 25-1) determine the amount, resources, types and procedure of provision of social assistance to the citizens, specified in the second part of paragraph 4 of Article 8 of this Law;
 
-- 29) Is excluded by the Law of the Republic of Kazakhstan dated 29.09.2014 No. 239-V (shall be enforced upon expiry of ten calendar days after its first official publication);
+- 26) - 29) Is excluded by the Law of the Republic of Kazakhstan dated 29.09.2014 No. 239-V (shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- exercise other functions, imposed on it by the Constitution, the Laws of the Republic of Kazakhstan and acts of the President of the Republic of Kazakhstan.
+- 30) exercise other functions, imposed on it by the Constitution, the Laws of the Republic of Kazakhstan and acts of the President of the Republic of Kazakhstan.
 
 Footnote. Article 4 as amended by the Laws of the Republic of Kazakhstan dated 05.07.2011 No. 452-IV (shall be enforced from 13.10.2011); dated 15.07.2011 No. 461-IV (shall be enforced from 30.01.2012); dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication); dated 13.02.2012 No. 553-IV (shall be enforced upon expiry of ten calendar days after its first official publication); dated 03.07.2013 No. 124-V ( shall be enforced upon expiry of ten calendar days after its first official publication); dated 29.09.2014 No. 239-V(shall be enforced upon expiry of ten calendar days after its first official publication);
 
@@ -310,21 +310,21 @@ Footnote. Article 4 as amended by the Laws of the Republic of Kazakhstan dated 0
 
 An authorized body in the field of education shall execute the following powers:
 
-- ensure observance of constitutional rights and freedoms of citizens in the field of education;
+- 1) ensure observance of constitutional rights and freedoms of citizens in the field of education;
 
 - 1-1) carry out coordination and methodological guideline of local executive bodies in the field of education;
 
-- implement a unified state policy in the field of education, carry out cross-sector coordination, develop and implement international programs in the field of education and science;
+- 2) implement a unified state policy in the field of education, carry out cross-sector coordination, develop and implement international programs in the field of education and science;
 
 - 2-1) approve distribution of the state educational order for training of specialists with higher education in the master's programme and doctorate in terms of professions;
 
-- provide society and state with objective information on system condition of education and efficiency of its activity by training and publication of annual national report on the status of development of education;
+- 3) provide society and state with objective information on system condition of education and efficiency of its activity by training and publication of annual national report on the status of development of education;
 
-- carry out educational monitoring and information support of the system of education management, approve the rules of organization and functioning of unified information system of education;
+- 4) carry out educational monitoring and information support of the system of education management, approve the rules of organization and functioning of unified information system of education;
 
-- carry out management of quality of education, methodical and methodological quality maintenance of educational services, provided by the organizations of education;
+- 5) carry out management of quality of education, methodical and methodological quality maintenance of educational services, provided by the organizations of education;
 
-- organize development of the state obligatory standards of education of the relevant
+- 6) organize development of the state obligatory standards of education of the relevant
 
 [[END OF PAGE 9]]
 
@@ -338,11 +338,11 @@ educational levels, approve the model educational training programs and model cu
 
 - 6-3) determine the types and forms of documents on education of the state - recognized and procedure of their issuance;
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
+- 7) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
 - 7-1) organize development and approve the model curriculums and programs of children's music schools, children's schools of design and children's art school;
 
-- issue the licenses and (or) applications to the right of carrying out of educational activity:
+- 8) issue the licenses and (or) applications to the right of carrying out of educational activity:
 
 legal entities, implementing general education programs of primary, basic secondary, general secondary education;
 
@@ -366,7 +366,7 @@ legal entities, implementing spiritual educational programs;
 
 - 8-4) approve the rules of holding of a competition for the awarding of grant ' Best organization of secondary education' with establishment of procedure and amount of its provision;
 
-- conduct the state attestation of organizations of education irrespective of their form of ownership and departmental affiliation, implementing educational programs:
+- 9) conduct the state attestation of organizations of education irrespective of their form of ownership and departmental affiliation, implementing educational programs:
 
 nursery education and training, primary, basic secondary and general secondary education;
 
@@ -376,59 +376,59 @@ higher and postgraduate education (except for medical and pharmaceutical educati
 
 - 9-1) determine the basic higher education institution, carrying out innovative activity and introducing scientific findings in production;
 
-- specify requirements and procedure of recognition of accreditation bodies, as well as foreign, and form register of recognized accreditation bodies, accredited organizations and educational training programs;
+- 10) specify requirements and procedure of recognition of accreditation bodies, as well as foreign, and form register of recognized accreditation bodies, accredited organizations and educational training programs;
 
-- develop the model rules of reception to the study in educational organization, implementing general educational training programs of primary, basic secondary, general secondary education, professional training programs of technical and professional post-secondary, higher and postgraduate education;
+- 11) develop the model rules of reception to the study in educational organization, implementing general educational training programs of primary, basic secondary, general secondary education, professional training programs of technical and professional post-secondary, higher and postgraduate education;
 
-- develop and approve the rules of conducting of the unified national test and complex test;
+- 12) develop and approve the rules of conducting of the unified national test and complex test;
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-- determine the lists of professions and specialties for the personnel training by types of professional training programs and approve occupational classifications and specialties in coordination with interested ministers, other central executive bodies, employers and other social partners;
+- 13) determine the lists of professions and specialties for the personnel training by types of professional training programs and approve occupational classifications and specialties in coordination with interested ministers, other central executive bodies, employers and other social partners;
 
-- determine terms for beginning and completion of academic year in organizations of education irrespective of their form of ownership and departmental affiliation;
+- 14) determine terms for beginning and completion of academic year in organizations of education irrespective of their form of ownership and departmental affiliation;
 
-- establish the list of professions and specialties, reception of which in part-time, evening tuition and in the form of external are not allowed, and issue a permit to study in the form of external in organizations of education, providing higher education;
+- 15) establish the list of professions and specialties, reception of which in part-time, evening tuition and in the form of external are not allowed, and issue a permit to study in the form of external in organizations of education, providing higher education;
 
-- develop the rules of transfer and reinstatement of students by types of educational organization;
+- 16) develop the rules of transfer and reinstatement of students by types of educational organization;
 
-- develop procedure of provision of study leaves to the students in organizations of education;
+- 17) develop procedure of provision of study leaves to the students in organizations of education;
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
+- 18) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- approve the model rules of conducting of current control of progress, intermediate and final attestation of students;
+- 19) approve the model rules of conducting of current control of progress, intermediate and final attestation of students;
 
-- develop and approve estimation rules of level of professional degree of training and award by professions (specialties) of technical and service work;
+- 20) develop and approve estimation rules of level of professional degree of training and award by professions (specialties) of technical and service work;
 
-- establish procedure of recognition and nostrification of documents on education;
+- 21) establish procedure of recognition and nostrification of documents on education;
 
-- develop and approve the rules on organization of order, storage, recording and issuance of document forms of the state-recognized on education and (or) qualification and ensuring by them the educational organization, implementing professional training programs of higher and postgraduate education and carry out control of their use;
+- 22) develop and approve the rules on organization of order, storage, recording and issuance of document forms of the state-recognized on education and (or) qualification and ensuring by them the educational organization, implementing professional training programs of higher and postgraduate education and carry out control of their use;
 
-- develop and approve the forms of strictly accountable documents, used by organizations of education in educational activity, establish requirements to drawing up of documents on education; approve the forms of certificate, issued to the persons, not completed education;
+- 23) develop and approve the forms of strictly accountable documents, used by organizations of education in educational activity, establish requirements to drawing up of documents on education; approve the forms of certificate, issued to the persons, not completed education;
 
-- approve the forms of model agreement of rendering of educational services and model agreement to conduct professional practice;
+- 24) approve the forms of model agreement of rendering of educational services and model agreement to conduct professional practice;
 
 - 24-1) develop and approve the model agreement on educational storage contribution;
 
-- carry out management and coordinate conducting of teaching and instructional research , approve the rules of organization and carrying out of teaching and instructional research, rules of organization of teaching situation on credit method of education and develop the rules of organization of teaching situation on distant educational technologies;
+- 25) carry out management and coordinate conducting of teaching and instructional research , approve the rules of organization and carrying out of teaching and instructional research, rules of organization of teaching situation on credit method of education and develop the rules of organization of teaching situation on distant educational technologies;
 
 - 25-1) develop and approve the rules of organization of activity of preparatory departments ofhigher education institutions of the Republic of Kazakhstan;
 
 - 25-2) create teaching associations in related groups of specialties and approve provision on their activity upon higher education institutions;
 
-- provide the republican organizations of secondary education, as well as nationals, studying in foreign schools with textbooks and teaching materials in accordance with international agreements;
+- 26) provide the republican organizations of secondary education, as well as nationals, studying in foreign schools with textbooks and teaching materials in accordance with international agreements;
 
 - 26-1) organize development and approve the regulations of equipping and furnishing organizations of preschool, primary, basic secondary, general secondary, technical and professional education;
 
-- develop and approve the rules of organization of work on training, expertize, approbation and conducting of monitoring, publication of textbooks, teaching materials and study guides and organize this work;
+- 27) develop and approve the rules of organization of work on training, expertize, approbation and conducting of monitoring, publication of textbooks, teaching materials and study guides and organize this work;
 
 - 27-1) form and approve the list of textbooks, teaching materials, guides and other supplementary books, as well as in electronic media;
 
-- organize conducting of non-school measures of republican significance;
+- 28) organize conducting of non-school measures of republican significance;
 
-- develop and approve the rules of organization and conducting of Presidential Olympiad by subjects of natural - mathematical cycle, republican Olympiads and competitions of scientific projects on general subjects, republican competitions of performers and competitions
+- 29) develop and approve the rules of organization and conducting of Presidential Olympiad by subjects of natural - mathematical cycle, republican Olympiads and competitions of scientific projects on general subjects, republican competitions of performers and competitions
 
 [[END OF PAGE 11]]
 
@@ -460,49 +460,49 @@ Footnote. Article 5 as amended by the Laws of the Republic of Kazakhstan dated 1
 
 [[START OF PAGE 14]]
 
-- Local executive bodies of region shall:
+- 2. Local executive bodies of region shall:
 
 1) Is excluded by the Law of the Republic of Kazakhstan dated 03.07.2013 No. 124-V (shall be enforced upon expiry of ten calendar days after its first official publication);
 
 - 1-1) realize the state policy in the field of education;
 
-- ensure provision of technical and professional, post-secondary education;
+- 2) ensure provision of technical and professional, post-secondary education;
 
-- provide training of children on special general education training programs;
+- 3) provide training of children on special general education training programs;
 
-- provide training of gifted children in the specialized organizations of education;
+- 4) provide training of gifted children in the specialized organizations of education;
 
-- organize the order and ensuring the organizations of education, implementing general education training programs of basic secondary, general secondary education and professional training programs of technical and professional, post-secondary education, document forms of the state-recognized on education and carry out control of their use;
+- 5) organize the order and ensuring the organizations of education, implementing general education training programs of basic secondary, general secondary education and professional training programs of technical and professional, post-secondary education, document forms of the state-recognized on education and carry out control of their use;
 
 5-1) Is excluded by the Law of the Republic of Kazakhstan dated 13.06.2013 No. 102-V ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- create, reorganize and liquidate the state organizations of education, implementing professional training programs of technical and professional, post-secondary education, specialized and special general education training programs, as well as children's and youth sports schools in the manner established by the legislation of the Republic of Kazakhstan in coordination with the authorized body in the field of education;
+- 6) create, reorganize and liquidate the state organizations of education, implementing professional training programs of technical and professional, post-secondary education, specialized and special general education training programs, as well as children's and youth sports schools in the manner established by the legislation of the Republic of Kazakhstan in coordination with the authorized body in the field of education;
 
 7)-7-2) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of six months after its first official publication);
 
-- approve the state educational order for the training of specialists with technical, professional, post-secondary education;
+- 8) approve the state educational order for the training of specialists with technical, professional, post-secondary education;
 
 - 8-1) place the state educational order for the training of specialists with technical and professional education in recognition of proposals of National chamber of entrepreneurs of the Republic of Kazakhstan;
 
-- organize participation of students in the common national testing;
+- 9) organize participation of students in the common national testing;
 
-- carry out logistical support of the state organizations of education, implementing professional training programs of technical and professional, post-secondary education, as well as special and specialized general education training programs (except for organizations of education in correctional institutions of correctional system);
+- 10) carry out logistical support of the state organizations of education, implementing professional training programs of technical and professional, post-secondary education, as well as special and specialized general education training programs (except for organizations of education in correctional institutions of correctional system);
 
-- direct funds for providing financial and material assistance to the students and pupils of the of the state educational institutions from the families, having a right to receipt the state targeted social assistance, as well as from families, not receiving the state targeted social assistance, in which the average income below the amount of minimum living wage , and orphaned children, children, being left without parental care, living in families, children from families, requiring emergency care in the results of emergency situations, and other categories of students and pupils, determined by collegial body of management of educational organization, in the amount not less than one percent of the budget funds, allocated for the current maintenance of general education schools;
+- 11) direct funds for providing financial and material assistance to the students and pupils of the of the state educational institutions from the families, having a right to receipt the state targeted social assistance, as well as from families, not receiving the state targeted social assistance, in which the average income below the amount of minimum living wage , and orphaned children, children, being left without parental care, living in families, children from families, requiring emergency care in the results of emergency situations, and other categories of students and pupils, determined by collegial body of management of educational organization, in the amount not less than one percent of the budget funds, allocated for the current maintenance of general education schools;
 
-- provide acquisition and delivery of textbooks and teaching materials in hard copy and electronic format for organizations of education, implementing on the basis of the state order of professional educational training programs of technical and professional education, as well as specialized and special general education training programs;
+- 12) provide acquisition and delivery of textbooks and teaching materials in hard copy and electronic format for organizations of education, implementing on the basis of the state order of professional educational training programs of technical and professional education, as well as specialized and special general education training programs;
 
-- ensure organization and conducting of school Olympiads and competitions of scientific projects on general subjects, competitions of performers and competitions of profession skill of regional scale;
+- 13) ensure organization and conducting of school Olympiads and competitions of scientific projects on general subjects, competitions of performers and competitions of profession skill of regional scale;
 
-- ensure additional education of children, carried out at the regional level;
+- 14) ensure additional education of children, carried out at the regional level;
 
-- organize retraining of staff and continuing education of employees of the state organizations of education, financed at the expense of budget funds;
+- 15) organize retraining of staff and continuing education of employees of the state organizations of education, financed at the expense of budget funds;
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 29.09.2014 No. 239-V(shall be enforced upon expiry of ten calendar days after its first official publication);
+- 16) Is excluded by the Law of the Republic of Kazakhstan dated 29.09.2014 No. 239-V(shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- ensure rehabilitation and social adaptation of children and teenagers with the problems in development;
+- 17) ensure rehabilitation and social adaptation of children and teenagers with the problems in development;
 
-- carry out the social security of orphaned children, children, being left without
+- 18) carry out the social security of orphaned children, children, being left without
 
 [[END OF PAGE 14]]
 
@@ -510,21 +510,21 @@ Footnote. Article 5 as amended by the Laws of the Republic of Kazakhstan dated 1
 
 parental care according to the established procedure;
 
-- organize free and subsidized meals of separate categories of students in the manner provided by the legislation of the Republic of Kazakhstan;
+- 19) organize free and subsidized meals of separate categories of students in the manner provided by the legislation of the Republic of Kazakhstan;
 
-- contribute employment of persons, graduated on the basis of the state educational order of educational organization, implementing professional training programs of technical and professional, post-secondary education;
+- 20) contribute employment of persons, graduated on the basis of the state educational order of educational organization, implementing professional training programs of technical and professional, post-secondary education;
 
 - 20-1) annually represent the applications on staffing requirements in countryside with subsequent employment according to the presented applications, to the authorized bodies in the field of education and health care service until 15 April;
 
-- make proposals to the maslikhat on travel privilege of students by public transport;
+- 21) make proposals to the maslikhat on travel privilege of students by public transport;
 
-- appoint a chief executive officer of regional body of management of education in coordination with the authorized body in the field of education;
+- 22) appoint a chief executive officer of regional body of management of education in coordination with the authorized body in the field of education;
 
 - 22-1) carry out educational monitoring;
 
-- maintain the Centers of adaptation of minors;
+- 23) maintain the Centers of adaptation of minors;
 
-- provide conditions for the persons, maintained in the Centers of adaptation of minors ;
+- 24) provide conditions for the persons, maintained in the Centers of adaptation of minors ;
 
 - 24-1) provide assistance to the school boards;
 
@@ -540,67 +540,67 @@ parental care according to the established procedure;
 
 - 24-7) develop and approve the model rules of internal order of organization of education; 25) exercise other powers, imposed on the local executive bodies by the legislation of the Republic of Kazakhstan in the interests local state management.
 
-- Local executive body of the city of republican significance and the capital shall:
+- 3. Local executive body of the city of republican significance and the capital shall:
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 03.07.2013 No. 124-V (shall be enforced upon expiry of ten calendar days after its first official publication);
+- 1) Is excluded by the Law of the Republic of Kazakhstan dated 03.07.2013 No. 124-V (shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- organize registration of children of preschool and school age, their education until obtainment them secondary education;
+- 2) organize registration of children of preschool and school age, their education until obtainment them secondary education;
 
-- organize and provide secondary education, including evening (shift-type) tuition, and secondary education, provided through the educational organization of boarding school type;
+- 3) organize and provide secondary education, including evening (shift-type) tuition, and secondary education, provided through the educational organization of boarding school type;
 
-- provide obtainment of technical and professional, post-secondary education;
+- 4) provide obtainment of technical and professional, post-secondary education;
 
-- create, reorganize and liquidate the state organizations of education, implementing educational training programs of nursery education and training, primary, basic secondary and general secondary, technical and professional, post-secondary education, additional education of children, as well as the state organizations of education, implementing the special and specialized general education training programs in the manner established by the legislation of the Republic of Kazakhstan;
+- 5) create, reorganize and liquidate the state organizations of education, implementing educational training programs of nursery education and training, primary, basic secondary and general secondary, technical and professional, post-secondary education, additional education of children, as well as the state organizations of education, implementing the special and specialized general education training programs in the manner established by the legislation of the Republic of Kazakhstan;
 
--6-2) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of six months after its first official publication);
+- 6) -6-2) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of six months after its first official publication);
 
-- approve the state educational order for the training of specialties with technical and professional, post-secondary education;
+- 7) approve the state educational order for the training of specialties with technical and professional, post-secondary education;
 
 - 7-1) approve the state educational order for the nursery education and training, the amount of per capita financing and parental payment;
 
-- organize participation of students in a common national testing;
+- 8) organize participation of students in a common national testing;
 
-- organize acquisition and delivery of textbooks and teaching materials for the state organizations of education, implementing general education training programs of primary, basic secondary, general secondary education, professional training programs of technical and professional education, as well as specialized and special general education training programs;
+- 9) organize acquisition and delivery of textbooks and teaching materials for the state organizations of education, implementing general education training programs of primary, basic secondary, general secondary education, professional training programs of technical and professional education, as well as specialized and special general education training programs;
 
-- provide additional education for children;
+- 10) provide additional education for children;
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-- direct funds for rendering financial and material assistance to the students and pupils of the of the state educational institutions from the families, having a right to receipt the state targeted social assistance, as well as from families, not receiving the state targeted social assistance, in which the average income below the amount of minimum living wage , and orphaned children, children, being left without parental care, living in families, children from families, requiring emergency care in the results of emergency situations, and other categories of students and pupils, determined by collegial body of management of educational organization, in the amount not less than one percent of the budget funds, allocated for the current maintenance of general education schools;
+- 11) direct funds for rendering financial and material assistance to the students and pupils of the of the state educational institutions from the families, having a right to receipt the state targeted social assistance, as well as from families, not receiving the state targeted social assistance, in which the average income below the amount of minimum living wage , and orphaned children, children, being left without parental care, living in families, children from families, requiring emergency care in the results of emergency situations, and other categories of students and pupils, determined by collegial body of management of educational organization, in the amount not less than one percent of the budget funds, allocated for the current maintenance of general education schools;
 
-- carry out logistical support of the state organizations of education (except for organizations of education in correctional institutions of correctional system) and organizations of nursery education and training;
+- 12) carry out logistical support of the state organizations of education (except for organizations of education in correctional institutions of correctional system) and organizations of nursery education and training;
 
-- provide training on special general education training programs;
+- 13) provide training on special general education training programs;
 
-- provide training of gifted children in the specialized organizations of education;
+- 14) provide training of gifted children in the specialized organizations of education;
 
-- ensure organization and conducting of school Olympiads and competitions of scientific projects on general subjects, competitions of performers and competitions of profession skill in the scale of the city of republican significance, the capital;
+- 15) ensure organization and conducting of school Olympiads and competitions of scientific projects on general subjects, competitions of performers and competitions of profession skill in the scale of the city of republican significance, the capital;
 
-- ensure examination of mental health of children and teenagers and providing of psychological, medical and pedagogical counselling assistance to the public;
+- 16) ensure examination of mental health of children and teenagers and providing of psychological, medical and pedagogical counselling assistance to the public;
 
-- ensure rehabilitation and social adaptation of children and teenagers with the problems in development;
+- 17) ensure rehabilitation and social adaptation of children and teenagers with the problems in development;
 
-- organize retraining of staff and continuing education of employees of the state organizations of education, financed at the expense of budget funds;
+- 18) organize retraining of staff and continuing education of employees of the state organizations of education, financed at the expense of budget funds;
 
-- carry out the social security of orphaned children, children, being left without parental care according to the established procedure;
+- 19) carry out the social security of orphaned children, children, being left without parental care according to the established procedure;
 
-- organize medical service of students and pupils of organizations of education, except for preschool, in the manner established by the legislation of the Republic of Kazakhstan;
+- 20) organize medical service of students and pupils of organizations of education, except for preschool, in the manner established by the legislation of the Republic of Kazakhstan;
 
-- organize free and subsidized meals of separate categories of students and pupils in the manner provided by the legislation of the Republic of Kazakhstan;
+- 21) organize free and subsidized meals of separate categories of students and pupils in the manner provided by the legislation of the Republic of Kazakhstan;
 
-- contribute employment of persons, graduated on the basis of the state educational order of educational organization, implementing professional training programs of technical and professional, post-secondary education;
+- 22) contribute employment of persons, graduated on the basis of the state educational order of educational organization, implementing professional training programs of technical and professional, post-secondary education;
 
-- make proposals to the maslikhat on travel privilege of students by public transport;
+- 23) make proposals to the maslikhat on travel privilege of students by public transport;
 
-- provide the necessary methodical and counselling assistance to the organizations of nursery education and training;
+- 24) provide the necessary methodical and counselling assistance to the organizations of nursery education and training;
 
 - 24-1) organize development and approve the rules of activity of psychological service in organizations of secondary education;
 
 - 24-2) develop and approve the model rules of internal order of organization of education;
 
-- appoint the chief executive officers of management of education in coordination with the authorized body in the field of education;
+- 25) appoint the chief executive officers of management of education in coordination with the authorized body in the field of education;
 
 - 25-1) organize the order and ensuring the organizations of education, implementing general education training programs of basic secondary, general secondary education and professional programs of technical and professional, post-secondary education, document forms of the state-recognized on education and carry out control of their use;
 
@@ -622,69 +622,69 @@ parental care according to the established procedure;
 
 - 25-8) provide material and technical basis of district methodic departments, institute for continuing education;
 
-- maintain the Centers of adaptation of minors;
+- 26) maintain the Centers of adaptation of minors;
 
-- provide conditions for the persons, maintained in the Centers of adaptation of minors ;
+- 27) provide conditions for the persons, maintained in the Centers of adaptation of minors ;
 
-- exercise other powers, imposed on the local executive bodies by the legislation of the Republic of Kazakhstan in the interests local state management.
+- 28) exercise other powers, imposed on the local executive bodies by the legislation of the Republic of Kazakhstan in the interests local state management.
 
-- Local executive body of district (city of regional significance):
+- 4. Local executive body of district (city of regional significance):
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 03.07.2013 No. 124-V (shall be enforced upon expiry of ten calendar days after its first official publication);
+- 1) Is excluded by the Law of the Republic of Kazakhstan dated 03.07.2013 No. 124-V (shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- ensure provision of primary, basic secondary and general secondary education, including evening (shift-type) tuition, and general secondary education, provided through the organization of boarding school type;
+- 2) ensure provision of primary, basic secondary and general secondary education, including evening (shift-type) tuition, and general secondary education, provided through the organization of boarding school type;
 
-- organize participation of students in a common national testing;
+- 3) organize participation of students in a common national testing;
 
-- organize registration of children of preschool and school age, their education until obtainment them secondary education;
+- 4) organize registration of children of preschool and school age, their education until obtainment them secondary education;
 
-- create, reorganize and liquidate the state organizations of education, implementing general educational training programs of primary, basic secondary and general secondary education, except for the state organizations of education, implementing the special and specialized general education training programs, as well as general education training programs of nursery education and training and additional educational programs for children, in the manner established by the legislation of the Republic of Kazakhstan;
+- 5) create, reorganize and liquidate the state organizations of education, implementing general educational training programs of primary, basic secondary and general secondary education, except for the state organizations of education, implementing the special and specialized general education training programs, as well as general education training programs of nursery education and training and additional educational programs for children, in the manner established by the legislation of the Republic of Kazakhstan;
 
 6)-6-2 ) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of six months after its first official publication);
 
-- support and provide assistance in logistical support of the state organizations of education, implementing general education training programs of primary, basic secondary and general secondary education (except for organizations of education in correctional institutions of correctional system);
+- 7) support and provide assistance in logistical support of the state organizations of education, implementing general education training programs of primary, basic secondary and general secondary education (except for organizations of education in correctional institutions of correctional system);
 
-- organize acquisition and delivery of textbooks and teaching materials to the organizations of education, implementing general education training programs of preschool training, primary, basic secondary, general secondary education;
+- 8) organize acquisition and delivery of textbooks and teaching materials to the organizations of education, implementing general education training programs of preschool training, primary, basic secondary, general secondary education;
 
 - 8-1) approve the state educational order for the nursery education and training, the amount of per capita financing and parental payment;
 
 - 8-2) provide material and technical basis of district methodic departments;
 
-- provide additional education for children;
+- 9) provide additional education for children;
 
-- ensure organization and conducting of school Olympiads and competitions of scientific projects on general subjects, competitions of regional (city) scale;
+- 10) ensure organization and conducting of school Olympiads and competitions of scientific projects on general subjects, competitions of regional (city) scale;
 
-- direct funds for providing financial and material assistance to the students and pupils of the of the state educational institutions from the families, having a right to receipt the state targeted social assistance, as well as from families, not receiving the state targeted social assistance, in which the average income below the amount of minimum living wage , and orphaned children, children, being left without parental care, living in families, children from families, requiring emergency care in the results of emergency situations, and other categories of students and pupils, determined by collegial body of management of educational organization, in the amount not less than one percent of the budget funds, allocated for the current maintenance of general education schools;
+- 11) direct funds for providing financial and material assistance to the students and pupils of the of the state educational institutions from the families, having a right to receipt the state targeted social assistance, as well as from families, not receiving the state targeted social assistance, in which the average income below the amount of minimum living wage , and orphaned children, children, being left without parental care, living in families, children from families, requiring emergency care in the results of emergency situations, and other categories of students and pupils, determined by collegial body of management of educational organization, in the amount not less than one percent of the budget funds, allocated for the current maintenance of general education schools;
 
-- carry out the social security of orphaned children, children, being left without parental care, their compulsory employment and provision of housing according to the established procedure;
+- 12) carry out the social security of orphaned children, children, being left without parental care, their compulsory employment and provision of housing according to the established procedure;
 
-- organize medical service of students and pupils of organizations of education, except for preschool, in the manner established by the legislation of the Republic of Kazakhstan;
+- 13) organize medical service of students and pupils of organizations of education, except for preschool, in the manner established by the legislation of the Republic of Kazakhstan;
 
-- organize free and subsidized meals of separate categories of students and pupils in the manner provided by the legislation of the Republic of Kazakhstan;
+- 14) organize free and subsidized meals of separate categories of students and pupils in the manner provided by the legislation of the Republic of Kazakhstan;
 
-- contribute employment of persons, graduated in the organizations of education;
+- 15) contribute employment of persons, graduated in the organizations of education;
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-- contribute provision of housing and living conditions of young professionals, came to the work in the educational organization, being in countryside;
+- 16) contribute provision of housing and living conditions of young professionals, came to the work in the educational organization, being in countryside;
 
-- make proposals to the maslikhat on travel privilege of students by public transport;
+- 17) make proposals to the maslikhat on travel privilege of students by public transport;
 
-- provide the necessary methodical and counselling assistance to the organizations of nursery education and training;
+- 18) provide the necessary methodical and counselling assistance to the organizations of nursery education and training;
 
-- appoint the chief executive officers of district (city) departments of education in coordination with the local executive bodies of region;
+- 19) appoint the chief executive officers of district (city) departments of education in coordination with the local executive bodies of region;
 
 - 19-1) carry out educational monitoring;
 
 - 19-2) organize the order and ensuring the organizations of education, implementing general education training programs of basic secondary, general secondary education, document forms of the state-recognized on education and carry out control of their use;
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
+- 20) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
+- 21) Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- 1-1) carry out staffing support of the state organizations of education;
+- 21-1) carry out staffing support of the state organizations of education;
 
 - 21-2) provide methodological guideline by psychological service in the organizations of education;
 
@@ -692,15 +692,15 @@ parental care according to the established procedure;
 
 - 21-4) ensure examination of mental health of children and teenagers and providing of psychological, medical and pedagogical counselling assistance to population;
 
-- exercise other powers, imposed on the local executive bodies by the legislation of the Republic of Kazakhstan in the interests local state management.
+- 22) exercise other powers, imposed on the local executive bodies by the legislation of the Republic of Kazakhstan in the interests local state management.
 
-- Akim of district in the city, city of regional, district significance, rural settlement, village, rural district shall:
+- 5. Akim of district in the city, city of regional, district significance, rural settlement, village, rural district shall:
 
-- organize registration of children of preschool and school age;
+- 1) organize registration of children of preschool and school age;
 
 - 1-1) maintain exemplary schools (resource centers);
 
-- ensure nursery education and training, as well as organize medical service in the organizations of nursery education and training in the manner established by the legislation of the Republic of Kazakhstan.
+- 2) ensure nursery education and training, as well as organize medical service in the organizations of nursery education and training in the manner established by the legislation of the Republic of Kazakhstan.
 
 In the case of absence of schools in inhabited locality, akim of rural settlement,
 
@@ -710,9 +710,9 @@ Footnote. Article 6 as amended by the Laws of the Republic of Kazakhstan dated 2
 
 ### Article 7. Information support of management bodies of educational system
 
-- A unified information system of education, making possibilities of efficient management of education, shall be created and being in force in order of timely provision the management bodies with educational system of complete, reliable comparable information in the Republic of Kazakhstan.
+- 1. A unified information system of education, making possibilities of efficient management of education, shall be created and being in force in order of timely provision the management bodies with educational system of complete, reliable comparable information in the Republic of Kazakhstan.
 
-- A unified information system of education shall include the data of educational monitoring, statistical observations, and other data, received by the authorized body in the
+- 2. A unified information system of education shall include the data of educational monitoring, statistical observations, and other data, received by the authorized body in the
 
 [[END OF PAGE 18]]
 
@@ -722,11 +722,11 @@ field of education, local executive bodies, organizations of education in the pr
 
 ### Article 8. State guarantees in the field of education
 
-- Right to education shall be secured by the state by development of educational system, improvement of legal basis of its functioning and creation of necessary socio-economic conditions for obtainment education in accordance with the Constitution of the Republic of Kazakhstan.
+- 1. Right to education shall be secured by the state by development of educational system, improvement of legal basis of its functioning and creation of necessary socio-economic conditions for obtainment education in accordance with the Constitution of the Republic of Kazakhstan.
 
 The state control of the quality of education provided by creation and functioning of national system of education quality evaluation.
 
-- The state shall ensure obtainment of free preschool, primary, basic secondary and general secondary education by the citizens of the Republic of Kazakhstan, as well as on a competitive base in accordance with the state educational order of free technical and professional, post-secondary, higher and postgraduate education, if education of each of these levels the citizen gets for the first time, except for the educational institutions of special state bodies and organizations of education of law enforcement bodies.
+- 2. The state shall ensure obtainment of free preschool, primary, basic secondary and general secondary education by the citizens of the Republic of Kazakhstan, as well as on a competitive base in accordance with the state educational order of free technical and professional, post-secondary, higher and postgraduate education, if education of each of these levels the citizen gets for the first time, except for the educational institutions of special state bodies and organizations of education of law enforcement bodies.
 
 Foreigners and persons without citizenship, permanently residing in the Republic of Kazakhstan, as well as arrived to the Republic of Kazakhstan in order of family reunification, shall have a right to obtain of preschool, primary, basic secondary and general secondary education, equally with the citizens of the Republic of Kazakhstan, in the manner established by the authorized body in the field of education.
 
@@ -734,37 +734,37 @@ Foreigners and persons without citizenship, permanently residing in the Republic
 
 - A right to obtain free technical and professional, post-secondary, higher and postgraduate education on a competitive base in accordance with the state educational order shall be determined by international treaties of the Republic of Kazakhstan.
 
-- In order of ensure the availability of obtainment technical and professional, post-secondary, higher and postgraduate education shall be created conditions for the development of the State educational storage system and non-state educational credit.
+- 3. In order of ensure the availability of obtainment technical and professional, post-secondary, higher and postgraduate education shall be created conditions for the development of the State educational storage system and non-state educational credit.
 
 The state shall take measures on creation of the system of guaranteeing of educational credits, disbursed by the financial organizations.
 
-- The state shall compensate for maintenance expenses of citizens of the Republic of Kazakhstan, being in need of social assistance in whole or in part, in the period of obtainment education by them.
+- 4. The state shall compensate for maintenance expenses of citizens of the Republic of Kazakhstan, being in need of social assistance in whole or in part, in the period of obtainment education by them.
 
 To the categories of citizens of the Republic of Kazakhstan, to whom is rendered the social assistance, shall include:
 
-- orphaned children, children, being left without parental care;
+- 1) orphaned children, children, being left without parental care;
 
-- children with disabilities in development, disabled persons and person disabled from childhood, disabled children;
+- 2) children with disabilities in development, disabled persons and person disabled from childhood, disabled children;
 
-- children from families with many children;
+- 3) children from families with many children;
 
-- children, being in the centers of temporary isolation, adaptation and rehabilitation of minors;
+- 4) children, being in the centers of temporary isolation, adaptation and rehabilitation of minors;
 
-- children, residing in the boarding schools of general and sanatory type, boarding-schools under schools;
+- 5) children, residing in the boarding schools of general and sanatory type, boarding-schools under schools;
 
-- children, educating and training in the specialized boarding school organizations of education for the gifted children;
+- 6) children, educating and training in the specialized boarding school organizations of education for the gifted children;
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-- pupils of boarding school organizations;
+- 7) pupils of boarding school organizations;
 
-- children from families, having a right to receipt the state targeted social assistance , as well as from families, not receiving the state targeted social assistance, in which the average income below the amount of minimum living wage;
+- 8) children from families, having a right to receipt the state targeted social assistance , as well as from families, not receiving the state targeted social assistance, in which the average income below the amount of minimum living wage;
 
-- children, who on the state of health are educated by programs of primary, basic secondary, general secondary education at home or in the organizations, rendering sanatory assistance, as well as rehabilitation treatment and medical rehabilitation for a long period;
+- 9) children, who on the state of health are educated by programs of primary, basic secondary, general secondary education at home or in the organizations, rendering sanatory assistance, as well as rehabilitation treatment and medical rehabilitation for a long period;
 
-- other categories of citizens, determined by the Laws of the Republic of Kazakhstan.
+- 10) other categories of citizens, determined by the Laws of the Republic of Kazakhstan.
 
 - 4-1. The state shall compensate for expenses for meals of separate categories of students in whole or in part in the manner provided by the legislation of the Republic of Kazakhstan.
 
@@ -772,23 +772,23 @@ The effect of the legislation of the Republic of Kazakhstan on the state purchas
 
 Kazakhstan.
 
-- Individual free education at home or in the organizations, providing sanatory assistance, as well as rehabilitation treatment and medical rehabilitation shall be organized for the citizens, who on the state of health may not attend organizations of primary, basic secondary, general secondary education for a long period.
+- 5. Individual free education at home or in the organizations, providing sanatory assistance, as well as rehabilitation treatment and medical rehabilitation shall be organized for the citizens, who on the state of health may not attend organizations of primary, basic secondary, general secondary education for a long period.
 
-- The state, achieving purposes of inclusive education, shall provide the special conditions for obtainment by them education, correction of disturbances of development and social adaptation at all levels of education to the citizens with disabilities in development.
+- 6. The state, achieving purposes of inclusive education, shall provide the special conditions for obtainment by them education, correction of disturbances of development and social adaptation at all levels of education to the citizens with disabilities in development.
 
-- The state shall guarantee functioning of ungraded schools and boarding school organizations for the provision of a right to obtain primary, basic secondary, general secondary education by the children, residing in the inhabited localities with less number of residents.
+- 7. The state shall guarantee functioning of ungraded schools and boarding school organizations for the provision of a right to obtain primary, basic secondary, general secondary education by the children, residing in the inhabited localities with less number of residents.
 
-- The state shall create the necessary conditions to the gifted citizens of the Republic of Kazakhstan for obtainment elite education, as well as abroad.
+- 8. The state shall create the necessary conditions to the gifted citizens of the Republic of Kazakhstan for obtainment elite education, as well as abroad.
 
 Footnote. Article 8 as amended by the Laws of the Republic of Kazakhstan dated 22.07.2011 No. 478-IV (shall be enforced upon expiry of ten calendar days after its first official publication); dated 24.10.2011 No. 487-IV(shall be enforced upon expiry of ten calendar days after its first official publication); dated 13.02.2012 No. 553-IV (shall be enforced upon expiry of ten calendar days after its first official publication); dated 14.01.2013 No. 68-V ( shall be enforced upon expiry of ten calendar days after its first official publication); dated 21.05.2013 No. 93-V (shall be enforced upon expiry of ten calendar days after its first official publication); dated 14.01.2014 No. 161-V (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 ### Article 9. Language of training and education
 
-- Language policy in the organizations of education shall be carried out in accordance with the Constitution of the Republic of Kazakhstan and the legislation of the Republic of Kazakhstan on languages.
+- 1. Language policy in the organizations of education shall be carried out in accordance with the Constitution of the Republic of Kazakhstan and the legislation of the Republic of Kazakhstan on languages.
 
-- All organizations of education, irrespective of their form of ownership, shall provide the students with knowledge of Kazakh language as the state, as well as learning of Russian languages in accordance with the state obligatory standards of relevant educational level.
+- 2. All organizations of education, irrespective of their form of ownership, shall provide the students with knowledge of Kazakh language as the state, as well as learning of Russian languages in accordance with the state obligatory standards of relevant educational level.
 
-- Right to obtain education in a native language shall be provided by creation upon present of possibility of relevant organizations of education, classes, groups, as well as conditions of their functioning
+- 3. Right to obtain education in a native language shall be provided by creation upon present of possibility of relevant organizations of education, classes, groups, as well as conditions of their functioning
 
 Creation of relevant organizations of education, classes, groups with the state language shall be the priority orientation.
 
@@ -796,25 +796,25 @@ Creation of relevant organizations of education, classes, groups with the state 
 
 [[START OF PAGE 21]]
 
-- The state and Russian languages shall be the compulsory subjects, including in a list of subjects upon conducting of common national testing.
+- 4. The state and Russian languages shall be the compulsory subjects, including in a list of subjects upon conducting of common national testing.
 
 Footnote. Article 9 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 ### Article 9-1. Accreditation of organizations of education
 
-- Accreditation of educational organization shall be carried out on a voluntary basis. Educational organization is independent in choosing the accreditation body.
+- 1. Accreditation of educational organization shall be carried out on a voluntary basis. Educational organization is independent in choosing the accreditation body.
 
-- Decision on conducting of accreditation or on refusal in conducting of accreditation shall be accepted by the accreditation body on the results of consideration of applications by the educational organization and represented documents, the list of which is determined by the accreditation body.
+- 2. Decision on conducting of accreditation or on refusal in conducting of accreditation shall be accepted by the accreditation body on the results of consideration of applications by the educational organization and represented documents, the list of which is determined by the accreditation body.
 
 Conditions and terms of conducting of accreditation shall be determined in the agreement on conducting of accreditation between educational organization and accreditation body.
 
-- Accreditation body shall conduct institutional or specialized accreditation in accordance with its standards (regulations) of accreditation.
+- 3. Accreditation body shall conduct institutional or specialized accreditation in accordance with its standards (regulations) of accreditation.
 
-- Accreditation of educational organization shall be conducted at the expense of educational organization.
+- 4. Accreditation of educational organization shall be conducted at the expense of educational organization.
 
-- Educational organization shall have a right to undergo the national and international institutional, specialized accreditation in the accreditation bodies, entered in the register of the authorized body.
+- 5. Educational organization shall have a right to undergo the national and international institutional, specialized accreditation in the accreditation bodies, entered in the register of the authorized body.
 
-- Institutes for continuing education shall have a right to undergo accreditation on a regular basis in accordance with the legislation of the Republic of Kazakhstan.
+- 6. Institutes for continuing education shall have a right to undergo accreditation on a regular basis in accordance with the legislation of the Republic of Kazakhstan.
 
 Footnote. Chapter 2 is supplemented by Article 9-1in accordance with the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
@@ -824,13 +824,13 @@ Footnote. Chapter 2 is supplemented by Article 9-1in accordance with the Law of 
 
 Educational system of the Republic of Kazakhstan shall represent a set of interactive:
 
-- state obligatory standards of education and educational training programs, securing continuity of educational levels;
+- 1) state obligatory standards of education and educational training programs, securing continuity of educational levels;
 
-- organizations of education, irrespective of their form of ownership, types and kind, implementing educational programs;
+- 2) organizations of education, irrespective of their form of ownership, types and kind, implementing educational programs;
 
-- management bodies of education and relevant infrastructure, as well as organizations of academic and scientific-methodological support, carrying out of educational monitoring;
+- 3) management bodies of education and relevant infrastructure, as well as organizations of academic and scientific-methodological support, carrying out of educational monitoring;
 
-- associations of the subjects of educational activity.
+- 4) associations of the subjects of educational activity.
 
 Footnote. Article 10 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
@@ -838,7 +838,7 @@ Footnote. Article 10 as amended by the Law of the Republic of Kazakhstan dated 2
 
 The tasks of educational system shall be:
 
-- creation of necessary conditions for obtainment quality education, directed to formation, development and professional achievement of personhood on the basis of national
+- 1) creation of necessary conditions for obtainment quality education, directed to formation, development and professional achievement of personhood on the basis of national
 
 [[END OF PAGE 21]]
 
@@ -846,31 +846,31 @@ The tasks of educational system shall be:
 
 human values, the achievements of science and practice;
 
-- development of creative, spiritual and physical abilities of the individual, the formation of sound foundations of morality and healthy life, enriching intelligence by creation conditions for the development of individuality;
+- 2) development of creative, spiritual and physical abilities of the individual, the formation of sound foundations of morality and healthy life, enriching intelligence by creation conditions for the development of individuality;
 
-- education of citizenship and patriotism, love for their Native country-Republic of Kazakhstan, respect to the symbols of state and state language, veneration of national traditions, impatience to any anticonstitutional and unsocial demonstrations;
+- 3) education of citizenship and patriotism, love for their Native country-Republic of Kazakhstan, respect to the symbols of state and state language, veneration of national traditions, impatience to any anticonstitutional and unsocial demonstrations;
 
-- education of personality with active citizenship, formation of needs to participate in socio-political, economic and cultural life of republic, conscious attitude of personality to their rights and obligations;
+- 4) education of personality with active citizenship, formation of needs to participate in socio-political, economic and cultural life of republic, conscious attitude of personality to their rights and obligations;
 
-- inclusion to the achievement of domestic and world culture; study of history, customs and traditions of Kazakh and other peoples of the republic; acquisition of the state, Russian, foreign languages;
+- 5) inclusion to the achievement of domestic and world culture; study of history, customs and traditions of Kazakh and other peoples of the republic; acquisition of the state, Russian, foreign languages;
 
-- ensuring improvement of social status of teaching employees;
+- 6) ensuring improvement of social status of teaching employees;
 
-- extension of autonomy, independence of educational organization, democratization of education management;
+- 7) extension of autonomy, independence of educational organization, democratization of education management;
 
-- functioning of national evaluation system of quality, corresponding with the needs of society and economy;
+- 8) functioning of national evaluation system of quality, corresponding with the needs of society and economy;
 
-- introduction and effective use of the new technologies of education, as well as credit , distant, information and communication, assisting to the rapid adaptation of professional education to the changing needs of society and the labor market;
+- 9) introduction and effective use of the new technologies of education, as well as credit , distant, information and communication, assisting to the rapid adaptation of professional education to the changing needs of society and the labor market;
 
-- development of educational systems during lifetime, providing interrelation between general training, training on the job and requirements of the labour market and helping all people make the most use of their personal potential in a society, based on knowledge and competence;
+- 10) development of educational systems during lifetime, providing interrelation between general training, training on the job and requirements of the labour market and helping all people make the most use of their personal potential in a society, based on knowledge and competence;
 
-- integration of education, science and industry;
+- 11) integration of education, science and industry;
 
-- providing professional motivation of students;
+- 12) providing professional motivation of students;
 
-- ensuring priority development and professional education by active interaction with employers and other social partners;
+- 13) ensuring priority development and professional education by active interaction with employers and other social partners;
 
-- creation of special conditions for obtainment education by persons with disabilities.
+- 14) creation of special conditions for obtainment education by persons with disabilities.
 
 Footnote. Article 11 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
@@ -878,17 +878,17 @@ Footnote. Article 11 as amended by the Law of the Republic of Kazakhstan dated 2
 
 Educational level in the Republic of Kazakhstan on the basis of principle of continuity and continuation of educational training programs shall include the following educational levels: 1) nursery education and training;
 
-- primary education;
+- 2) primary education;
 
-- basic secondary education;
+- 3) basic secondary education;
 
-- secondary education (basic secondary education, technical and professional education);
+- 4) secondary education (basic secondary education, technical and professional education);
 
-- post-secondary education;
+- 5) post-secondary education;
 
-- higher education;
+- 6) higher education;
 
-- postgraduate education.
+- 7) postgraduate education.
 
 ## Chapter 4. CONTENT OF EDUCATION
 
@@ -904,53 +904,53 @@ The content of education shall be determined by the educational training program
 
 ### Article 14. Educational training programs
 
-- Educational training programs depending on the content and their direction ( appointment) shall be divided into:
+- 1. Educational training programs depending on the content and their direction ( appointment) shall be divided into:
 
-- general education (model, working);
+- 1) general education (model, working);
 
-- professional (model, working);
+- 2) professional (model, working);
 
-- additional.
+- 3) additional.
 
 Model training programs shall be developed in accordance with the requirements of the state obligatory standards of education.
 
 Working training programs shall be developed on the basis of relevant model curriculums and model training programs.
 
-- General education training programs shall be directed to the tasks solution of formation of general personal culture, adaptation of personality to life in society, to provide a basis for informed choice of learning of profession, specialty.
+- 2. General education training programs shall be directed to the tasks solution of formation of general personal culture, adaptation of personality to life in society, to provide a basis for informed choice of learning of profession, specialty.
 
 Depending on the content, the general education training programs shall be divided into the training programs:
 
-- nursery education and training;
+- 1) nursery education and training;
 
-- primary education;
+- 2) primary education;
 
-- basic secondary education;
+- 3) basic secondary education;
 
-- general secondary education.
+- 4) general secondary education.
 
 Specialized educational training programs, profound education of separate subjects of training programs shall be developed for more complete development of potentiality of gifted persons.
 
 Special educational training programs, considering peculiarities of development and potentiality of students and pupils, determined in recognition of psychological, medical and pedagogical counselling shall be developed for the separate categories of persons.
 
-- Professional training programs are directed to the training of specialists of technical, service and administrative work in the direction of professional activity in the branches of economy, subsequent increase of professional and general education level of personality.
+- 3. Professional training programs are directed to the training of specialists of technical, service and administrative work in the direction of professional activity in the branches of economy, subsequent increase of professional and general education level of personality.
 
 Depending on the content, the professional training programs shall be divided into the training programs:
 
-- technical and professional education;
+- 1) technical and professional education;
 
-- post-secondary education;
+- 2) post-secondary education;
 
-- higher education;
+- 3) higher education;
 
-- postgraduate education.
+- 4) postgraduate education.
 
-- Educational training programs of additional education shall provide creation of conditions for the development of personal self-determination, creativity of students, realization of their abilities, adaptation to life in society, formation of civil consciousness , general culture, healthy life, organization of meaningful leisure.
+- 4. Educational training programs of additional education shall provide creation of conditions for the development of personal self-determination, creativity of students, realization of their abilities, adaptation to life in society, formation of civil consciousness , general culture, healthy life, organization of meaningful leisure.
 
-- Experimental educational training programs, realizing in the organizations of education, working in the regime of experiment (testing sites) shall be developed for approbation of new technologies of education, introduction of new content of education.
+- 5. Experimental educational training programs, realizing in the organizations of education, working in the regime of experiment (testing sites) shall be developed for approbation of new technologies of education, introduction of new content of education.
 
-- Integrated educational training programs shall be developed by organizations of education. Integrated educational training programs may be interdisciplinary and interlevel, interuniversity and international.
+- 6. Integrated educational training programs shall be developed by organizations of education. Integrated educational training programs may be interdisciplinary and interlevel, interuniversity and international.
 
-- Model training programs on military specialties shall be approved by the head of
+- 7. Model training programs on military specialties shall be approved by the head of
 
 [[END OF PAGE 23]]
 
@@ -958,39 +958,39 @@ Depending on the content, the professional training programs shall be divided in
 
 relevant state body by agreement with the authorized body in the field of education.
 
-- Model training programs on medical and pharmaceutical specialties shall be approved by the authorized body in the field of health care service by agreement with the authorized body in the field of education.
+- 8. Model training programs on medical and pharmaceutical specialties shall be approved by the authorized body in the field of health care service by agreement with the authorized body in the field of education.
 
-- Educational organization shall have a right to realize the educational training programs of different levels upon possession of a license, unless otherwise provided by the Laws of the Republic of Kazakhstan.
+- 9. Educational organization shall have a right to realize the educational training programs of different levels upon possession of a license, unless otherwise provided by the Laws of the Republic of Kazakhstan.
 
 Footnote. Article 14 as amended by the Laws of the Republic of Kazakhstan dated 19.01.2011 No. 395-IV (shall be enforced upon expiry of ten calendar days after its first official publication); dated 24.10.2011 No. 487-IV(shall be enforced upon expiry of ten calendar days after its first official publication); dated 10.07.2012 No. 36-V(shall be enforced upon expiry of ten calendar days after its first official publication).
 
 ### Article 15. General education training programs of nursery education and education
 
-- General education training programs of nursery education and training shall be developed on the basis of the state obligatory standards of nursery education in recognition of specific for children of preschool age the types of activity.
+- 1. General education training programs of nursery education and training shall be developed on the basis of the state obligatory standards of nursery education in recognition of specific for children of preschool age the types of activity.
 
-- General education training programs of nursery education and training shall:
+- 2. General education training programs of nursery education and training shall:
 
-- secure continuity and continuity of preschool and primary education in recognition of principle of the unity of education, training, development and health improvement of children;
+- 1) secure continuity and continuity of preschool and primary education in recognition of principle of the unity of education, training, development and health improvement of children;
 
-- be oriented to realization of potentialities, bents, capabilities, abilities of each child and training it to learning of educational program of primary education on the basis of individual approach in recognition of peculiarities of development and state of health.
+- 2) be oriented to realization of potentialities, bents, capabilities, abilities of each child and training it to learning of educational program of primary education on the basis of individual approach in recognition of peculiarities of development and state of health.
 
-- General education of training programs of preschool education shall form basic skills of reading, writing, accounts and language communication experience and provide creation of equal starting conditions for learning of primary education.
+- 3. General education of training programs of preschool education shall form basic skills of reading, writing, accounts and language communication experience and provide creation of equal starting conditions for learning of primary education.
 
 ### Article 16. General education training programs of primary, basic secondary and general secondary education
 
-- General education training programs of primary education are directed to formation of personality of child, development of its individual abilities, positive motivation and skills in educational activity, experience of language communication, creative self-realization, culture of behavior for the following learning of educational programs of the basic school. The term of learning of general education training program of primary education - four
+- 1. General education training programs of primary education are directed to formation of personality of child, development of its individual abilities, positive motivation and skills in educational activity, experience of language communication, creative self-realization, culture of behavior for the following learning of educational programs of the basic school. The term of learning of general education training program of primary education - four
 
 years.
 
-- General education training programs of basic secondary education are directed to the learning of basic foundations of science, formation their high culture of interpersonal and inter-ethnic communication, self-determination of personality and professional orientation by students.
+- 2. General education training programs of basic secondary education are directed to the learning of basic foundations of science, formation their high culture of interpersonal and inter-ethnic communication, self-determination of personality and professional orientation by students.
 
 General education training program shall include preprofile training of students. Learning of the content of each subject shall be terminated on the level of basic secondary education.
 
-The term of learning of general education training program of basic secondary education five years.
+The term of learning of general education training program of basic secondary education - five years.
 
 Upon transition to the twelve-year education, the term of learning of general education training program of basic secondary education - six years.
 
-- General education training programs of general secondary education shall be developed on the basis of differentiation, integration and professional orientation of the content of education with introduction of profile education on natural mathematical education and socio-humanities directions.
+- 3. General education training programs of general secondary education shall be developed on the basis of differentiation, integration and professional orientation of the content of education with introduction of profile education on natural mathematical education and socio-humanities directions.
 
 [[END OF PAGE 24]]
 
@@ -1002,11 +1002,11 @@ publication).
 
 ### Article 17. Educational training programs of technical and professional education
 
-- Technical and professional education shall be the component part of the level of secondary education and directed to the training of qualified employers and specialties of mid-tier on the basic directions of public utility professional activity.
+- 1. Technical and professional education shall be the component part of the level of secondary education and directed to the training of qualified employers and specialties of mid-tier on the basic directions of public utility professional activity.
 
-- Educational training programs of technical and professional education depending on their content and skill level of training of students shall be divided into educational training programs:
+- 2. Educational training programs of technical and professional education depending on their content and skill level of training of students shall be divided into educational training programs:
 
-- providing personnel training by mass professions of technical and service work.
+- 1) providing personnel training by mass professions of technical and service work.
 
 The content of educational training programs shall provide:
 
@@ -1014,11 +1014,11 @@ learning of integrated courses on general subjects, being profiled for learning 
 
 - assignment of established level of professional qualification (grade, class, category) on particular profession by students;
 
-- providing learning of complex (secondary) professions and practical skills of execution of work in all branches of economy, related with high technologies and professional activity.
+- 2) providing learning of complex (secondary) professions and practical skills of execution of work in all branches of economy, related with high technologies and professional activity.
 
 The content of educational training programs shall provide: learning of general education, general humanities, economical, general professional, special disciplines, passing industrial training and professional practice on acquirement and reinforcement of professional skills; assignment of higher level of professional qualification on particular profession by students;
 
-- ensuring training f specialties of mid-tier.
+- 3) ensuring training f specialties of mid-tier.
 
 The content of educational training program shall provide learning of integrated educational training programs of technical and professional education with educational training programs of 1-2 courses of high educational institutions.
 
@@ -1026,11 +1026,11 @@ An achieved level of professional qualification (grade, class, category) on part
 
 - A qualification of specialist of mid-tier shall be awarded to the students upon completion of a complete course of training and passing of final attestation.
 
-- Educational training programs of technical and professional education on specialties of culture and art shall be developed in recognition of principle of early professionalism and peculiarities of training of students on specified specialties. Duration of training depends on complexity of training programs and level of confer qualification and shall be determined by the relevant state obligatory standards of education.
+- 3. Educational training programs of technical and professional education on specialties of culture and art shall be developed in recognition of principle of early professionalism and peculiarities of training of students on specified specialties. Duration of training depends on complexity of training programs and level of confer qualification and shall be determined by the relevant state obligatory standards of education.
 
-- Educational training programs of technical and professional education for the citizens , having general secondary education, shall provide learning general professional, economical, special disciplines and execution of education and production works, determining future professional activity by chosen specialty.
+- 4. Educational training programs of technical and professional education for the citizens , having general secondary education, shall provide learning general professional, economical, special disciplines and execution of education and production works, determining future professional activity by chosen specialty.
 
-- Educational training programs of technical and professional education shall consist of the programs of theoretical and industrial training and professional practice.
+- 5. Educational training programs of technical and professional education shall consist of the programs of theoretical and industrial training and professional practice.
 
 Footnote. Article 17 is in the wording of the Law of the Republic of Kazakhstan dated
 
@@ -1042,7 +1042,9 @@ Footnote. Article 17 is in the wording of the Law of the Republic of Kazakhstan 
 
 ### Article 18. Specialized general education training programs
 
-Specialized general education training programs shall be developed on the basis of general education training programs of basic secondary, general secondary education and directed to the profound education of elements of science, culture, art, sport, military art, development of their creative potential and abilities. Specialized general education training programs shall be realized in the specialized organizations of education for the gifted children, as well as in the organizations of education with profound preliminary military training in the specialized schools of the Ministry of Defence of the Republic of Kazakhstan.
+Specialized general education training programs shall be developed on the basis of general education training programs of basic secondary, general secondary education and directed to the profound education of elements of science, culture, art, sport, military art, development of their creative potential and abilities.
+
+Specialized general education training programs shall be realized in the specialized organizations of education for the gifted children, as well as in the organizations of education with profound preliminary military training in the specialized schools of the Ministry of Defence of the Republic of Kazakhstan.
 
 ### Article 19. Special educational training programs
 
@@ -1072,13 +1074,15 @@ The term of learning of professional training programs of post-secondary educati
 
 [[START OF PAGE 27]]
 
-service and administrative work. Footnote. Article 20 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
+service and administrative work.
+
+Footnote. Article 20 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 ### Article 21. Professional training programs of higher education
 
-- Professional training programs of higher education are directed to the training of specialists with awarding of qualification and (or) academic degree 'bachelor', subsequent level increase of their professional training.
+- Professional training programs of higher education are directed to the training of specialists with awarding of qualification and (or) academic degree “bachelor”, subsequent level increase of their professional training.
 
-Persons, completed training on professional training program of higher education with awarding of academic degree 'bachelor', may hold positions, for which availability of higher education is provided by the qualification requirements.
+Persons, completed training on professional training program of higher education with awarding of academic degree “bachelor”, may hold positions, for which availability of higher education is provided by the qualification requirements.
 
 - The content of professional training programs of higher education shall provide study of cycle of general education disciplines, cycle of basic disciplines, cycle of major, as well as passing of professional practice on the relevant specialties.
 
@@ -1154,13 +1158,13 @@ Nazarbayev Intellectual Schools".
 
 - 3-1. Admission to the study in the autonomous organizations shall be carried out in the manner determined by the specified organizations, without use of the procedures of common national testing.
 
-- Citizens of the Republic of Kazakhstan shall have a right to the awarding of international scholarship 'Bolashak' on a competitive basis for obtainment postgraduate education in the leading foreign higher education institutions on full-time course of study in accordance with the list of specialties, annually approved in the manner established by the legislation of the Republic of Kazakhstan.
+- Citizens of the Republic of Kazakhstan shall have a right to the awarding of international scholarship “Bolashak” on a competitive basis for obtainment postgraduate education in the leading foreign higher education institutions on full-time course of study in accordance with the list of specialties, annually approved in the manner established by the legislation of the Republic of Kazakhstan.
 
-An agreement for study on international scholarship 'Bolashak' shall be concluded with the citizens of the Republic of Kazakhstan, to whom are awarded international scholarship ' Bolashak'.
+An agreement for study on international scholarship “Bolashak” shall be concluded with the citizens of the Republic of Kazakhstan, to whom are awarded international scholarship “Bolashak”.
 
 - Upon holding of a competition for obtainment of educational grants, as well as to the nomination in a composition of students by the state educational order for the personnel training with technical and professional, post-secondary and higher education, the priority right shall have:
 
-- persons, awarded with badge 'Altyn belgi';
+- persons, awarded with badge “Altyn belgi”;
 
 - persons, having the documents on education of autonomous organizations of education;
 
@@ -1204,7 +1208,9 @@ Footnote. Article 26 as amended by the Laws of the Republic of Kazakhstan dated 
 
 ### Article 27. The forms of obtainment education
 
-Depending on the content of educational training programs in recognition of the needs and possibilities of personality, creation of conditions of accessibility of obtainment of each educational level of training shall be carried out in the form of full-time, evening, part-time , external and distance mode of study for children with disabilities. Footnote. Article 27 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
+Depending on the content of educational training programs in recognition of the needs and possibilities of personality, creation of conditions of accessibility of obtainment of each educational level of training shall be carried out in the form of full-time, evening, part-time, external and distance mode of study for children with disabilities.
+
+Footnote. Article 27 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 ### Article 28. Organization of educational process
 
@@ -1212,11 +1218,9 @@ Depending on the content of educational training programs in recognition of the 
 
 - The basic organization of educational process shall be the planning and registration of teaching and educational work, carrying out by the educational organization.
 
-Planning of teaching and educational work shall ensure timely and quality implementation
+Planning of teaching and educational work shall ensure timely and quality implementation of curriculums and programs in a full volume.
 
-of curriculums and programs in a full volume. Planning of teaching and educational work in the organizations of education shall be
-
-carried out by approval of the schedule of educational process for the academic year and timetable of theoretical and practical trainings.
+Planning of teaching and educational work in the organizations of education shall be carried out by approval of the schedule of educational process for the academic year and timetable of theoretical and practical trainings.
 
 [[END OF PAGE 30]]
 
@@ -1286,7 +1290,11 @@ Footnote. Article 29 as amended by the Law of the Republic of Kazakhstan dated 2
 
 - Nursery education shall be carried out from five years in the form of pre-school training of children to the study in the school.
 
-Pre-school training is compulsory and shall be carried out in the family, pre-school organizations, pre-school classes of general education schools, lycees and upper secondary schools. Pre-school training in the state organizations of education shall be free. Footnote. Article 30 is in the wording of the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
+Pre-school training is compulsory and shall be carried out in the family, pre-school organizations, pre-school classes of general education schools, lycees and upper secondary schools.
+
+Pre-school training in the state organizations of education shall be free.
+
+Footnote. Article 30 is in the wording of the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 ### Article 31. Primary, basic secondary and general secondary education
 
@@ -1298,13 +1306,21 @@ Pre-school training is compulsory and shall be carried out in the family, pre-sc
 
 [[START OF PAGE 33]]
 
-- the school, ungraded school, upper secondary school, lyceum, profession-oriented school. 3. Exclusion of children up to sixteen years old from the state organization of secondary education shall be admitted in exceptional cases by the decision of body of the state management of educational organization for commission of unlawful acts, gross and repeated infringement of charter of educational organization. Decision on exclusion of orphaned children and children, being left without parental care shall be accepted with the consent of tutorship and guardianship authority. Footnote. Article 31 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official
+the school, ungraded school, upper secondary school, lyceum, profession-oriented school.
 
-publication).
+- Exclusion of children up to sixteen years old from the state organization of secondary education shall be admitted in exceptional cases by the decision of body of the state management of educational organization for commission of unlawful acts, gross and repeated infringement of charter of educational organization.
+
+Decision on exclusion of orphaned children and children, being left without parental care shall be accepted with the consent of tutorship and guardianship authority.
+
+Footnote. Article 31 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 ### Article 32. Technical and professional education
 
-- Technical and professional education shall be carried out in the specialized schools, colleges and higher technical schools on the basis of basic secondary and (or) general secondary education. Teaching situation in the organizations of technical and professional education shall include theoretical practice and industrial training, executed in the learning and practice classes, instructional farms and training grounds under the supervision of master of vocational training. 2. Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication).
+- Technical and professional education shall be carried out in the specialized schools, colleges and higher technical schools on the basis of basic secondary and (or) general secondary education.
+
+Teaching situation in the organizations of technical and professional education shall include theoretical practice and industrial training, executed in the learning and practice classes, instructional farms and training grounds under the supervision of master of vocational training.
+
+- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 Footnote. Article 32 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
@@ -1316,11 +1332,13 @@ Footnote. Article 32 as amended by the Law of the Republic of Kazakhstan dated 2
 
 - Professional training shall be carried out at the expense of employer or other funds, not prohibited by the legislation of the Republic of Kazakhstan in accordance with the agreement of education.
 
-The forms, content and volume of professional training shall be determined by the employer on the basis of current educational training programs on relevant profession. Education in enterprise, retraining in other specialty, cooperative learning on the basis of corporate responsibility and traineeship shall be related to the forms of professional
+The forms, content and volume of professional training shall be determined by the employer on the basis of current educational training programs on relevant profession.
 
-- training. 4. The relevant skill level on particular specialty shall be awarded to the persons, pass out qualification examination according to the estimates of professional preparedness and shall be issued a certificate (certificate) on awarding of qualification of established standard form . Footnote. Chapter 5 is supplemented by Article 32-1 in accordance with the Law of the
+Education in enterprise, retraining in other specialty, cooperative learning on the basis of corporate responsibility and traineeship shall be related to the forms of professional training.
 
-Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
+- The relevant skill level on particular specialty shall be awarded to the persons, pass out qualification examination according to the estimates of professional preparedness and shall be issued a certificate (certificate) on awarding of qualification of established standard form.
+
+Footnote. Chapter 5 is supplemented by Article 32-1 in accordance with the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 [[END OF PAGE 33]]
 
@@ -1328,7 +1346,11 @@ Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expir
 
 ### Article 33. Post-secondary education
 
-Professional training programs of post-secondary education shall be realized in the organizations of education, the basic type of which is a college. Training of specialists on professional training programs of post-secondary education shall be carried out on specialties, the list of which is approved by the authorized body in the field of education. Footnote. Article 33 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
+Professional training programs of post-secondary education shall be realized in the organizations of education, the basic type of which is a college.
+
+Training of specialists on professional training programs of post-secondary education shall be carried out on specialties, the list of which is approved by the authorized body in the field of education.
+
+Footnote. Article 33 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 ### Article 34. Higher technical schools
 
@@ -1342,7 +1364,7 @@ Footnote. Article 34 is excluded by the Law of the Republic of Kazakhstan dated 
 
 The basic types of higher educational institutions shall be the national research university, national higher education institution, research university, university, academy, institute and equated to them (conservatory, higher school, academy).
 
-- A qualification and (or) academic degree 'bachelor' shall be awarded to the student, pass out the final attestation on learning of professional training program of higher education .
+- A qualification and (or) academic degree “bachelor” shall be awarded to the student, pass out the final attestation on learning of professional training program of higher education.
 
 - Higher education institutions shall have a right to create and (or) enter into innovative and educational consortium for implementation of educational programs and conducting of scientific and applied researches.
 
@@ -1350,7 +1372,11 @@ Footnote. Article 35 as amended by the Laws of the Republic of Kazakhstan dated 
 
 ### Article 36. Postgraduate education
 
-- Postgraduate education shall be acquired by the citizens, having higher education. 2. Postgraduate education shall be carried out in the master's programme and doctorate of higher education institutions and scientific organizations, as well as by direction of grant-holders of international scholarship 'Bolashak' for the study in the leading foreign higher education institutions on full-time course of study in accordance with the list of specialties, annually approved in the manner established by the legislation of the Republic of Kazakhstan. Implementation of professional educational training programs of postgraduate education on military and other specialties shall be carried out in the graduate military course of higher military and special educational institutions.
+- Postgraduate education shall be acquired by the citizens, having higher education.
+
+- Postgraduate education shall be carried out in the master’s programme and doctorate of higher education institutions and scientific organizations, as well as by direction of grant-holders of international scholarship “Bolashak” for the study in the leading foreign higher education institutions on full-time course of study in accordance with the list of specialties, annually approved in the manner established by the legislation of the Republic of Kazakhstan.
+
+Implementation of professional educational training programs of postgraduate education on military and other specialties shall be carried out in the graduate military course of higher military and special educational institutions.
 
 - Personnel training in the Master's programme shall be carried out on the basis of
 
@@ -1370,9 +1396,11 @@ An academic degree of master on relevant specialty shall be awarded to the stude
 
 - Postgraduate medical and pharmaceutical education shall include a residency, Master's programme and doctorate.
 
-Profound training on clinical specialties with duration of education from two to four years depending on the specialty shall be carried out in the residency. Provision on residency shall be approved by the authorized body in the field of health care service. Footnote. Article 36 as amended by the Laws of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication); dated 13.02.2012 No. 553-IV(shall be enforced upon expiry of ten
+Profound training on clinical specialties with duration of education from two to four years depending on the specialty shall be carried out in the residency.
 
-calendar days after its first official publication).
+Provision on residency shall be approved by the authorized body in the field of health care service.
+
+Footnote. Article 36 as amended by the Laws of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication); dated 13.02.2012 No. 553-IV(shall be enforced upon expiry of ten calendar days after its first official publication).
 
 ### Article 37. An additional education
 
@@ -1384,17 +1412,17 @@ Educational services on educational training programs of additional education sh
 
 An adult education shall be carried out by the educational organizations, as well as legal entities, having structural subdivisions, implementing additional educational training programs.
 
-- Continuing education and retraining of staff shall be carried out in the educational organizations, implementing educational training programs of additional education, scientific organizations and institutes of continuing education, in the production and upon interning by scientific, pedagogical, engineering and technical, medical employees in the foreign organizations on international scholarship 'Bolashak'.
+- Continuing education and retraining of staff shall be carried out in the educational organizations, implementing educational training programs of additional education, scientific organizations and institutes of continuing education, in the production and upon interning by scientific, pedagogical, engineering and technical, medical employees in the foreign organizations on international scholarship “Bolashak”.
 
 - Continuing education of executive staff, pedagogical and scientific employees of educational organizations shall be carried out at least once every five years.
 
 - Continuing education and retraining of medical and pharmaceutical staff shall be carried out in the medical organizations of education and science.
 
-- Citizens of the Republic of Kazakhstan shall have a right to participate in the competition for the awarding of international scholarship 'Bolashak' for interning.
+- Citizens of the Republic of Kazakhstan shall have a right to participate in the competition for the awarding of international scholarship “Bolashak” for interning.
 
-Scientific supervisor of the winner of Presidential Olympiad shall have a right to the priority right upon equality of scores for the awarding of international scholarship 'Bolashak' for interning.
+Scientific supervisor of the winner of Presidential Olympiad shall have a right to the priority right upon equality of scores for the awarding of international scholarship “Bolashak” for interning.
 
-An agreement for interning on international scholarship 'Bolashak' shall be concluded with the citizens of the Republic of Kazakhstan, to whom an international scholarship 'Bolashak ' is awarded.
+An agreement for interning on international scholarship “Bolashak” shall be concluded with the citizens of the Republic of Kazakhstan, to whom an international scholarship “Bolashak” is awarded.
 
 [[END OF PAGE 35]]
 
@@ -1430,9 +1458,11 @@ Obligations and responsibilities of educational organizations, being the bases o
 
 - Educational organization, having a license, undergoing the state attestation and implementing educational training programs of basic secondary, general secondary, technical and professional, post-secondary, higher, postgraduate education, shall issue the documents confirming education of the state-recognized to the citizens, passing final attestation.
 
-Educational organization, passing the specialized accreditation in the accreditation bodies, introduced in the register of accreditation bodies, accredited by the educational organizations and educational training programs shall have a right to issue the documents confirming education of own samples on accredited educational training programs (specialties). Requirements for filling of documents confirming education of the state-recognized shall be determined by the authorized body in the field of education. Documents confirming education of autonomous educational organizations shall be equated
+Educational organization, passing the specialized accreditation in the accreditation bodies, introduced in the register of accreditation bodies, accredited by the educational organizations and educational training programs shall have a right to issue the documents confirming education of own samples on accredited educational training programs (specialties).
 
-to the documents confirming education of the state-recognized.
+Requirements for filling of documents confirming education of the state-recognized shall be determined by the authorized body in the field of education.
+
+Documents confirming education of autonomous educational organizations shall be equated to the documents confirming education of the state-recognized.
 
 - 1-1. Educational organization, having the special status may issue the documents confirming education of own sample.
 
@@ -1442,15 +1472,15 @@ to the documents confirming education of the state-recognized.
 
 [[START OF PAGE 37]]
 
-- shall be the necessary condition for continuation study in the educational organizations of subsequent level.
+shall be the necessary condition for continuation study in the educational organizations of subsequent level.
 
 - A certificate of established standard form shall be issued to the citizens, not completed education or not undergone the final attestation.
 
 - Documents confirming education, issued by the foreign educational organizations shall be recognized in the territory of the Republic of Kazakhstan on the basis of international treaties (agreements).
 
-- In the absence of international treaties (agreements), nostrification of documents confirming education, received by the citizens in the foreign educational organizations and issuance of relevant certificates to them shall be carried out in the manner established by the authorized body in the field of education.
+In the absence of international treaties (agreements), nostrification of documents confirming education, received by the citizens in the foreign educational organizations and issuance of relevant certificates to them shall be carried out in the manner established by the authorized body in the field of education.
 
-- Documents confirming education, issued by the foreign higher educational institutions, scientific centers and laboratories to the citizens of the Republic of Kazakhstan - possessor of international scholarship 'Bolashak', shall be recognized in the Republic of Kazakhstan without passing of recognition procedure and nostrification.
+- Documents confirming education, issued by the foreign higher educational institutions, scientific centers and laboratories to the citizens of the Republic of Kazakhstan – possessor of international scholarship “Bolashak”, shall be recognized in the Republic of Kazakhstan without passing of recognition procedure and nostrification.
 
 Footnote. Article 39 as amended by the Laws of the Republic of Kazakhstan dated 19.01.2011 No. 395-IV (shall be enforced upon expiry of ten calendar days after its first official publication); dated 24.10.2011 No. 487-IV(shall be enforced upon expiry of ten calendar days after its first official publication).
 
@@ -1460,9 +1490,11 @@ Footnote. Article 39 as amended by the Laws of the Republic of Kazakhstan dated 
 
 - Educational organizations shall be the legal entities, which implement one or several educational training programs and (or) ensure the content and education of students, pupils, irrespective of the form of ownership and status, individual entrepreneurs without legal education, implementing the programs of nursery education and training.
 
-Educational organizations shall be created by individuals and legal entities ( incorporators) in accordance with the legislation of the Republic of Kazakhstan. An activity of educational organizations shall be regulated by the model rules of activity of educational organizations of relevant type and charters, developed on their basis. An activity of individual entrepreneurs without legal education, implementing educational programs of nursery education and training shall be regulated by the model rules of activity of
+Educational organizations shall be created by individuals and legal entities (incorporators) in accordance with the legislation of the Republic of Kazakhstan.
 
-educational organizations of relevant type.
+An activity of educational organizations shall be regulated by the model rules of activity of educational organizations of relevant type and charters, developed on their basis.
+
+An activity of individual entrepreneurs without legal education, implementing educational programs of nursery education and training shall be regulated by the model rules of activity of educational organizations of relevant type.
 
 - A right to maintenance of educational activity shall occur in the educational organization:
 
@@ -1596,7 +1628,7 @@ No. 487-IV (shall be enforced upon expiry of ten calendar days after its first o
 
 - Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
 
-- award to the students in higher education institutions of academic degree 'bachelor' and 'master';
+- award to the students in higher education institutions of academic degree “bachelor” and “master”;
 
 - introduction of modern forms of professional training of staff.
 
@@ -1612,9 +1644,9 @@ Footnote. Article 43 as amended by the Laws of the Republic of Kazakhstan dated 
 
 - Direct management of educational organization shall carry out its head.
 
-- Head of educational organization shall be appointed to a post and released from office in the manner established by the legislation of the Republic of Kazakhstan, except for the chief executive officers of separate state higher education institutions, procedure of appointment and dismissal of which is determined by the President of the Republic of Kazakhstan .
+- Head of educational organization shall be appointed to a post and released from office in the manner established by the legislation of the Republic of Kazakhstan, except for the chief executive officers of separate state higher education institutions, procedure of appointment and dismissal of which is determined by the President of the Republic of Kazakhstan.
 
-- The list of the state higher education institutions, chief executive officers of which are appointed and dismissed by the President of the Republic of Kazakhstan, shall be approved by the President of the Republic of Kazakhstan.
+The list of the state higher education institutions, chief executive officers of which are appointed and dismissed by the President of the Republic of Kazakhstan, shall be approved by the President of the Republic of Kazakhstan.
 
 The heads of the state organization of secondary education in the legal form of organization of the state institution shall be appointed to the post on a competitive basis.
 
@@ -1638,11 +1670,11 @@ The forms of collective leadership of educational organization may be a council 
 
 [[START OF PAGE 41]]
 
-- council) educational organization, school boards, pedagogical, methodical ( educational-methodical, scientific and methodological) councils and other forms, model rules of organization of work of which, including procedure of their election is approved by the authorized body in the field of education.
+council) educational organization, school boards, pedagogical, methodical (educational-methodical, scientific and methodological) councils and other forms, model rules of organization of work of which, including procedure of their election is approved by the authorized body in the field of education.
 
 - 9-1. Representative of National charter of entrepreneurs of the Republic of Kazakhstan shall enter on agreement into the composition of collegial body of management of the state organization of technical and professional education, except for the autonomous organizations of education.
 
-- This Article shall be distributed to the educational organization, created in the legal form of organization of the state enterprise on the right of economic management with supervisory board, in a part, not contradicted to the provisions, established by the Law of the Republic of Kazakhstan 'On the state-owned property'.
+- This Article shall be distributed to the educational organization, created in the legal form of organization of the state enterprise on the right of economic management with supervisory board, in a part, not contradicted to the provisions, established by the Law of the Republic of Kazakhstan “On the state-owned property”.
 
 Footnote. Article 44 as amended by the Laws of the Republic of Kazakhstan dated 01.03.2011 No. 414-IV (shall be enforced from the date of its official publication); dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication); dated 04.07.2013 No. 130-V (shall be enforced upon expiry of ten calendar days after its first official publication).
 
@@ -1760,15 +1792,15 @@ educational form to another;
 
 - Citizens, graduated educational organizations irrespective of their form of ownership, shall have equal rights upon entrance to the educational organization of following level.
 
-- 6-1. Certificates on results of common national testing for participation in the competition for reception of educational grants shall be issued to the persons, received a document on education upon completion of 'Nazarbayev Intellectual Schools' and international schools by the authorized body in the field of education. Scores of certificates shall be established by transfer of evaluation (scores) on-scale, approved by the authorized body in the field of education.
+- 6-1. Certificates on results of common national testing for participation in the competition for reception of educational grants shall be issued to the persons, received a document on education upon completion of “Nazarbayev Intellectual Schools” and international schools by the authorized body in the field of education. Scores of certificates shall be established by transfer of evaluation (scores) on-scale, approved by the authorized body in the field of education.
 
-- 6-2. The winners of international Olympiads and competitions on scientific projects ( scientific competitions) on general subjects of last three years, as well as participants of these international Olympiads and competitions of scientific projects (scientific competitions) on general subjects of current year (except for the graduates, pretended to the reception of attestation of special sample and sign 'Altyn belgi') shall obtain the certificates on results of common national testing, issued by the authorized body in the field of education, on the basis of transfer of evaluation to the scores of certificates. The scale of transfer the annual estimates of students to the scores of certificates shall be approved by the authorized body in the field of education.
+- 6-2. The winners of international Olympiads and competitions on scientific projects (scientific competitions) on general subjects of last three years, as well as participants of these international Olympiads and competitions of scientific projects (scientific competitions) on general subjects of current year (except for the graduates, pretended to the reception of attestation of special sample and sign “Altyn belgi”) shall obtain the certificates on results of common national testing, issued by the authorized body in the field of education, on the basis of transfer of evaluation to the scores of certificates. The scale of transfer the annual estimates of students to the scores of certificates shall be approved by the authorized body in the field of education.
 
 - The state grant may be paid to the students, interns, candidates for a master's degree , candidates for a doctor's degree, listener of residency, listeners of preparatory departments of higher education institutions, students in the educational organizations on the state order on full-time course of study (except for the students of vocational schools). Rules of appointment and payment of the state grant, as well as its amounts shall be approved by the Government of the Republic of Kazakhstan.
 
 The state scholarship shall be paid to the most gifted candidates for a master's degree of higher education institutions and students of higher education institutions of the Republic of Kazakhstan on full-time course of study on the basis of decisions of academic councils of higher education institutions.
 
-Persons having sight and hearing disabilities, orphaned children and children, being left without parental care and being under the wardship (guardianship), as well as students and candidate for a master's degree, having on the results of regular intermediate attestation of students only the marks 'five', shall have a right to reception of enhanced state grant, the amount of which is determined by the Government of the Republic of Kazakhstan.
+Persons having sight and hearing disabilities, orphaned children and children, being left without parental care and being under the wardship (guardianship), as well as students and candidate for a master's degree, having on the results of regular intermediate attestation of students only the marks “five”, shall have a right to reception of enhanced state grant, the amount of which is determined by the Government of the Republic of Kazakhstan.
 
 Scholarships, approved by the individuals and legal entities shall be appointed to the students on full-time course of study in the organizations of technical and professional, post-secondary, higher and postgraduate education.
 
@@ -1854,7 +1886,13 @@ In order of health care maintaining of students, pupils of educational organizat
 
 - Class times in the educational organizations shall provide break of sufficient duration to nutrition and active rest of students and pupils.
 
-Conditions for arrangements for feeding of students shall be created in the educational organizations. Quality control for nutrition shall be imposed on the bodies of health care services. 6. Responsibility for creation of healthy and safe environment of learning, upbringing, labour and rest in the educational organizations shall be imposed on their heads. Footnote. Article 48 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
+Conditions for arrangements for feeding of students shall be created in the educational organizations.
+
+Quality control for nutrition shall be imposed on the bodies of health care services.
+
+- Responsibility for creation of healthy and safe environment of learning, upbringing, labour and rest in the educational organizations shall be imposed on their heads.
+
+Footnote. Article 48 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 [[END OF PAGE 45]]
 
@@ -1890,11 +1928,11 @@ Footnote. Article 49 as amended by the Law of the Republic of Kazakhstan dated 2
 
 ### Article 50. Status of teaching employee
 
-- Persons, engaged in educational work, linked with education and upbringing of students in the educational organizations, as well as in the other organizations, implementing
+- Persons, engaged in educational work, linked with education and upbringing of students in the educational organizations, as well as in the other organizations, implementing educational programs shall be referred to the teaching employees.
 
-educational programs shall be referred to the teaching employees. Teaching employees of the state educational organizations shall be the civil servants. 2. The state shall recognize the special status of teaching employees in the society and
+Teaching employees of the state educational organizations shall be the civil servants.
 
-- create conditions for carrying out of professional activity.
+- The state shall recognize the special status of teaching employees in the society and create conditions for carrying out of professional activity.
 
 ### Article 51. Rights, obligations and responsibility of teaching employee
 
@@ -1952,9 +1990,9 @@ Teaching employee may be brought to responsibility, provided by the Laws of the 
 
 - Involvement of teaching employees to the types of work, not related to the performance of their professional obligations, except for the cases, provided by the Laws of the Republic of Kazakhstan, shall be prohibited.
 
-Paragraph 5 is in the wording of the Law of the Republic of Kazakhstan dated 03.07.2014
+Note of RCLI!
 
-Note of RCLI! No. 227-V (shall be enforced from 01.01.2015).
+Paragraph 5 is in the wording of the Law of the Republic of Kazakhstan dated 03.07.2014 No. 227-V (shall be enforced from 01.01.2015).
 
 - Persons, to whom educational work is prohibited by court verdict or medical report, as well as having a criminal record, which is not canceled or released in the manner established by the Law, shall not be allowed to the work in the educational organizations.
 
@@ -2012,7 +2050,19 @@ Annual teaching loads of higher-education teaching personnel of higher education
 
 - Total number of higher-education teaching personnel of the state higher education institutions upon determination of the state educational order shall be calculated on the basis of average relationship of:
 
-1) students and teachers (average number of students per one teacher) accordingly: 8:1 - for full-time course of study (for the medical higher education institution - 6:1); 16:1 - for evening tuition; 32:1 - part-time education; 2) candidates for a master's degree and teachers - 4:1; 3) candidates for a doctor's degree and teachers - 3:1.
+- Total number of higher-education teaching personnel of the state higher education institutions upon determination of the state educational order shall be calculated on the basis of average relationship of:
+
+- students and teachers (average number of students per one teacher) accordingly:
+
+8:1 – for full-time course of study (for the medical higher education institution – 6:1);
+
+16:1 – for evening tuition;
+
+32:1 - part-time education;
+
+- candidates for a master's degree and teachers – 4:1;
+
+- candidates for a doctor's degree and teachers – 3:1.
 
 Footnote. Article 52 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011
 
@@ -2028,7 +2078,7 @@ No. 487-IV (shall be enforced upon expiry of ten calendar days after its first o
 
 - dwelling place, as well as housing and (or) residence hall, in accordance with the legislation of the Republic of Kazakhstan;
 
-- annually paid labour leave with duration of 56 calendar days for the teaching employees and persons of organizations of secondary, general, technical and professional, post-secondary, higher and postgraduate education, equated to them; 42 calendar days - for the teaching employees of organizations of education and methodological support, preschool and additional education;
+- annually paid labour leave with duration of 56 calendar days for the teaching employees and persons of organizations of secondary, general, technical and professional, post-secondary, higher and postgraduate education, equated to them; 42 calendar days – for the teaching employees of organizations of education and methodological support, preschool and additional education;
 
 - To the teaching employees of education, working in the rural localities, by the decision of local executive bodies shall be:
 
@@ -2036,7 +2086,7 @@ No. 487-IV (shall be enforced upon expiry of ten calendar days after its first o
 
 - simultaneously paid a monetary compensation to cover expenses for public services and purchase of fuel for accommodation heating at the expense of budget funds in the amounts, established by the decision of local executive bodies;
 
-(Is excluded by the Law of the Republic of Kazakhstan dated 24.12.2008 No. 111-IV ( shall be enforced from 01.01.2009).
+- (Is excluded by the Law of the Republic of Kazakhstan dated 24.12.2008 No. 111-IV (shall be enforced from 01.01.2009).
 
 - 2-1. Additional measures of social support, provided by the legislation of the Republic of Kazakhstan shall be provided to the teaching employees of education, working in the rural localities.
 
@@ -2046,9 +2096,9 @@ No. 487-IV (shall be enforced upon expiry of ten calendar days after its first o
 
 - benefit for health improvement once in a calendar year upon provision them of a regular labour leave in the amount, determined by the labour legislation of the Republic of Kazakhstan in the state educational organizations;
 
-- holder of the title 'Best University teacher' - the state grant in the amount of 2000fold of monthly calculation index, direction of expenditure of which is determined by the Government of the Republic of Kazakhstan;
+- holder of the title “Best University teacher” – the state grant in the amount of 2000-fold of monthly calculation index, direction of expenditure of which is determined by the Government of the Republic of Kazakhstan;
 
-- holder of the title 'Best teacher' - reward in the amount of 1000-fold of monthly calculation index.
+- holder of the title “Best teacher” – reward in the amount of 1000-fold of monthly calculation index.
 
 Footnote. Article 53 as amended by the Laws of the Republic of Kazakhstan dated 24.12.2008 No. 111-IV (shall be enforced from 01.01.2009); dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
@@ -2072,9 +2122,7 @@ of educational services, provided by the educational organizations.
 
 - Quality management of education shall be carried out by making of management decisions at all levels on the basis of results of educational monitoring.
 
-- Educational monitoring shall be carried out by use of complex of statistical and analytical estimated figures for external and internal quality evaluation of educational system
-
-.
+- Educational monitoring shall be carried out by use of complex of statistical and analytical estimated figures for external and internal quality evaluation of educational system.
 
 - External evaluation of educational achievements is the one of the types irrespective of educational organizations of monitoring of quality of training.
 
@@ -2082,11 +2130,11 @@ External evaluation of educational achievements shall be carried out in order of
 
 - External evaluation of educational achievements shall be conducted after completion of basic secondary, general secondary and higher education:
 
-in the basic school (after 9 (10) class) - in order pf determination of further learning paths;
+in the basic school (after 9 (10) class) – in order pf determination of further learning paths;
 
-in the secondary (profession-oriented ) school - in order of evaluation of the level of educational achievements;
+in the secondary (profession-oriented) school – in order of evaluation of the level of educational achievements;
 
-- in higher education - selectively, in order of monitoring of learning of training program in the direction of education.
+in higher education – selectively, in order of monitoring of learning of training program in the direction of education.
 
 - The list of organizations of basic secondary, general secondary education and specialties of higher education, on which the external evaluation of educational achievements is conducted, shall be determined by the authorized body in the field of education.
 
@@ -2114,9 +2162,9 @@ Footnote. Article 55 as amended by the Law of the Republic of Kazakhstan dated 2
 
 - Licensing of educational activity of legal entities, implementing educational training programs of technical and professional, post-secondary education shall be carried out on qualifications in accordance with classifiers of professions of technical and professional post-secondary education.
 
-Licensing of educational activity of legal entities, implementing educational training programs of higher and postgraduate study shall be carried out by professions in accordance with classifiers of professions of higher and postgraduate study. Upon that the reference number, name, term of apprenticeship by professions or
+Licensing of educational activity of legal entities, implementing educational training programs of higher and postgraduate study shall be carried out by professions in accordance with classifiers of professions of higher and postgraduate study.
 
-qualification shall be specified in the annexes to the license.
+Upon that the reference number, name, term of apprenticeship by professions or qualification shall be specified in the annexes to the license.
 
 - A licenser shall create consultative and advisory body for collegial and public examination of issues of issuance of license, re-licensing in connection with reorganization of educational organization.
 
@@ -2126,9 +2174,9 @@ qualification shall be specified in the annexes to the license.
 
 - In the case of reorganization of educational organization by changing of its type, their license and (or) annex to the license shall subject to reissuance in the case of confirmation of conformity of qualifying requirements, newly resulted from reorganization of educational organization, presenting upon licensing of relevant type and (or) subtype of educational activity.
 
-In the case of reorganization of educational organization, financed at the expense of budget funds, a licenser shall conduct an inspection of compliance of reorganized educational organization with the qualifying requirements before conducting of reorganization. After conducting of reorganization, a licentiate shall file an application for re-licensing, and license shall issue a license and annex to the license on the grounds of verification for compliance with the qualifying requirements, early conducted by the licenser. the form, approved by the Government of the Republic of Kazakhstan, a document, approved the
+In the case of reorganization of educational organization, financed at the expense of budget funds, a licenser shall conduct an inspection of compliance of reorganized educational organization with the qualifying requirements before conducting of reorganization. After conducting of reorganization, a licentiate shall file an application for re-licensing, and license shall issue a license and annex to the license on the grounds of verification for compliance with the qualifying requirements, early conducted by the licenser.
 
-For re-licensing and (or) annex to the license, a licentiate shall file an application on payment of license fee, as well as:
+For re-licensing and (or) annex to the license, a licentiate shall file an application on the form, approved by the Government of the Republic of Kazakhstan, a document, approved the payment of license fee, as well as:
 
 - copies of documents, containing information on changes, constituting a ground for re-licensing and (or) annex to the license;
 
@@ -2156,7 +2204,7 @@ Footnote. Article 57 as amended by the Law of the Republic of Kazakhstan dated 1
 
 - Reception of notifications on commencement or termination of carrying out of activity in the scope of nursery education and training shall be carried out by the authorized body in the field of education.
 
-Footnote. Chapter 8 is supplemented by Article 57-1 in accordance with the Law of the Republic of Kazakhstan dated 05.2014 No. 203-V (shall be enforced upon expiry of six months after its first official publication).
+Footnote. Chapter 8 is supplemented by Article 57-1 in accordance with the Law of the Republic of Kazakhstan dated 16.05.2014 No. 203-V (shall be enforced upon expiry of six months after its first official publication).
 
 ### Article 58. Accreditation of educational organizations
 
@@ -2176,7 +2224,7 @@ Footnote. Article 58 is excluded by the Law of the Republic of Kazakhstan dated 
 
 - the state attestation of educational organizations;
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication);
+- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication);
 
 - control of observance of the legislation of the Republic of Kazakhstan on education and qualified requirements, specified to the educational activity.
 
@@ -2190,7 +2238,7 @@ The state attestation of organizations of medical and pharmaceutical education s
 
 First state attestation shall be conducted in the newly created:
 
-- educational organizations, implementing general education training programs of primary , basic secondary, general secondary education, after four years;
+- educational organizations, implementing general education training programs of primary, basic secondary, general secondary education, after four years;
 
 - educational organizations, implementing professional training programs of technical and professional, post-secondary, higher and postgraduate education, no later than the year of first turn-out;
 
@@ -2206,9 +2254,9 @@ self-evaluation and represent materials of self-evaluation to the state manageme
 
 - Attestation of the branches of foreign educational organizations and international educational organizations shall be carried out in accordance with this Law, unless otherwise established by the international treaties, ratified by the Republic of Kazakhstan.
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication).
+- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
-- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV ( shall be enforced upon expiry of ten calendar days after its first official publication).
+- Is excluded by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 - Control of observance of the legislation of the Republic of Kazakhstan on education and on permissions and notifications by the educational organizations shall be carried out in the form of verifications and other forms.
 
@@ -2226,11 +2274,11 @@ self-evaluation and represent materials of self-evaluation to the state manageme
 
 - carry out an activity until the violations are eliminated and activity is resumed by the authorized body in the field of education.
 
-- 8-4. Educational organization, implementing educational programs of nursery education and training, carrying out an activity in a notification requirement shall subject to the verification in accordance with the Law of the Republic of Kazakhstan 'On the state control and supervision in the Republic of Kazakhstan'.
+- 8-4. Educational organization, implementing educational programs of nursery education and training, carrying out an activity in a notification requirement shall subject to the verification in accordance with the Law of the Republic of Kazakhstan “On the state control and supervision in the Republic of Kazakhstan”.
 
-An authorized body in the field of education shall have a right to suspend an activity of educational organizations, carrying out an activity in a notification requirement in the manner provided by the legislation of the Republic of Kazakhstan on administrative infractions. Upon non-elimination of violations, identified in the result of verification and (or) state attestation by the subjects, providing services on nursery education and training, an authorized body in the field of education shall exclude an educational organization from the register of notifications on commencement or termination of carrying out of activity on nursery
+An authorized body in the field of education shall have a right to suspend an activity of educational organizations, carrying out an activity in a notification requirement in the manner provided by the legislation of the Republic of Kazakhstan on administrative infractions.
 
-education and training.
+Upon non-elimination of violations, identified in the result of verification and (or) state attestation by the subjects, providing services on nursery education and training, an authorized body in the field of education shall exclude an educational organization from the register of notifications on commencement or termination of carrying out of activity on nursery education and training.
 
 - 9-10. Is excluded by the Law of the Republic of Kazakhstan dated 17.07.2009 No. 188 (the order of enforcement see Article 2).
 
@@ -2326,17 +2374,17 @@ The list of services, linked with the state educational order shall be approved 
 
 - average cost of training expenses of one specialist.
 
-Upon placement of the state educational order for the training of specialists with
-
-technical and professional, post-secondary, higher or postgraduate education in the state institutions of education shall be specified administrator of budget programs and name of educational organization.
+Upon placement of the state educational order for the training of specialists with technical and professional, post-secondary, higher or postgraduate education in the state institutions of education shall be specified administrator of budget programs and name of educational organization.
 
 Training of specialists in the educational institutions and (or) their branches, created in the manner provided by paragraph 4 of Article 65 of this Law, as well as training of foreigners and persons without citizenship in the preparatory divisions of higher education institutions shall be also included to the state educational order.
 
 - 5-1. Financing of personnel training with higher education on the basis of educational grant shall be carried out in the educational organizations, past institutional accreditation in the accredited bodies, introduced in the register of accreditation bodies, accredited by the educational organizations and educational training programs.
 
-Financing of personnel training on separate specialties of higher education on the basis of educational grant shall be carried out in the educational organizations, past the specialized accreditation on these specialties in the accredited bodies, introduced in the register of accreditation bodies, accredited by the educational organizations and educational training programs. Financing of personnel training on the specialties of postgraduate education on the basis of educational order shall be carried out in the educational organizations, past the institutional accreditation in the accredited bodies, introduced in the register of accreditation bodies, accredited by the educational organizations and educational training programs. Financing of personnel training on separate specialties of postgraduate education on the basis of educational order shall be carried out in the educational organizations, past the specialized accreditation on these specialties in the accredited bodies, introduced in the register of accreditation bodies, accredited by the educational organizations and educational
+Financing of personnel training on separate specialties of higher education on the basis of educational grant shall be carried out in the educational organizations, past the specialized accreditation on these specialties in the accredited bodies, introduced in the register of accreditation bodies, accredited by the educational organizations and educational training programs.
 
-training programs.
+Financing of personnel training on the specialties of postgraduate education on the basis of educational order shall be carried out in the educational organizations, past the institutional accreditation in the accredited bodies, introduced in the register of accreditation bodies, accredited by the educational organizations and educational training programs.
+
+Financing of personnel training on separate specialties of postgraduate education on the basis of educational order shall be carried out in the educational organizations, past the specialized accreditation on these specialties in the accredited bodies, introduced in the register of accreditation bodies, accredited by the educational organizations and educational training programs.
 
 - The state educational order, placed in the organizations of nursery education and training shall contain the number of pupils and average cost of expenses for one pupil.
 
@@ -2366,7 +2414,7 @@ The state institutions of education, implementing professional training programs
 
 - The state institutions of education shall have a right to provide the following goods (works, services) in excess of requirements of the state general education standards of education on a paid basis with conclusion of agreement on rendering of paid services on:
 
-- implementing of additional educational programs (development of children and teenager' s crafts, aptitude and interests in the field of sport, culture and art, continuing education of specialists);
+- implementing of additional educational programs (development of children and teenager’ s crafts, aptitude and interests in the field of sport, culture and art, continuing education of specialists);
 
 - organizations of supportive lessons with separate students on subjects (disciplines and cycle of disciplines) in excess of study time, allocated by curriculum and programs;
 
@@ -2394,7 +2442,13 @@ The state institutions of education, implementing professional training programs
 
 [[START OF PAGE 57]]
 
-and students (pupil), his (her) parents and other legal representatives shall be regulated by the agreement. In the case of payment of expenses to the students for all period of studies simultaneously at the time of conclusion of an agreement, payment amount is unchanged until the end of the study period. Upon progress payments of education the payment amount may be changed no more than once a year in the case of salary increase and in recognition of inflation index. Footnote. Article 63 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
+and students (pupil), his (her) parents and other legal representatives shall be regulated by the agreement.
+
+In the case of payment of expenses to the students for all period of studies simultaneously at the time of conclusion of an agreement, payment amount is unchanged until the end of the study period.
+
+Upon progress payments of education the payment amount may be changed no more than once a year in the case of salary increase and in recognition of inflation index.
+
+Footnote. Article 63 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
 ### Article 64. Development of material and technical basis of educational organizations
 
@@ -2402,9 +2456,9 @@ and students (pupil), his (her) parents and other legal representatives shall be
 
 - Educational organizations shall have a right to possess and use property in the manner determined by the legislation of the Republic of Kazakhstan. The state property of educational organization shall not subject to exemption or use for the purposes, contradicted to the basic objectives of educational organizations.
 
-- Privatization of educational organizations shall be carried out in accordance with the Law of the Republic of Kazakhstan 'On the state-owned property' and in coordination with the authorized body in the field of education.
+- Privatization of educational organizations shall be carried out in accordance with the Law of the Republic of Kazakhstan “On the state-owned property” and in coordination with the authorized body in the field of education.
 
-- State institutions of secondary education, awarded a grant on a competitive base 'The best organization of secondary education' shall spend a grant for material and technical, scientific-methods support of educational process.
+- State institutions of secondary education, awarded a grant on a competitive base “The best organization of secondary education” shall spend a grant for material and technical, scientific-methods support of educational process.
 
 Footnote. Article 64 as amended by the Laws of the Republic of Kazakhstan dated 01.03.2011 No. 414-IV (shall be enforced from the date of its official publication); dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
 
@@ -2414,11 +2468,11 @@ Footnote. Article 64 as amended by the Laws of the Republic of Kazakhstan dated 
 
 - International cooperation of the Republic of Kazakhstan in the field of education shall be carried out on the basis of the legislation of the Republic of Kazakhstan and international treaties of the Republic of Kazakhstan.
 
-- Educational organization in accordance with specificity of their work shall have a right to establish direct contacts with foreign organizations of education, science and culture , international organizations and funds, conclude bilateral and multilateral agreements on cooperation, participate in the international programs of exchange of students, candidates for a master's degree, candidates for a doctor's degree, teaching and scientific employees, enter into international non-governmental organizations (associations) in the field of education.
+- Educational organization in accordance with specificity of their work shall have a right to establish direct contacts with foreign organizations of education, science and culture, international organizations and funds, conclude bilateral and multilateral agreements on cooperation, participate in the international programs of exchange of students, candidates for a master's degree, candidates for a doctor’s degree, teaching and scientific employees, enter into international non-governmental organizations (associations) in the field of education.
 
-Military and special educational institutions shall have a right to carry out training of
+Military and special educational institutions shall have a right to carry out training of specialists from the number of foreign citizens in accordance with the international treaties and contracts.
 
-specialists from the number of foreign citizens in accordance with the international treaties and contracts. Educational organizations shall have a right to engage in external economic activity in the manner determined by the legislation of the Republic of Kazakhstan and charter of educational organizations.
+Educational organizations shall have a right to engage in external economic activity in the manner determined by the legislation of the Republic of Kazakhstan and charter of educational organizations.
 
 [[END OF PAGE 57]]
 
@@ -2452,7 +2506,7 @@ Violation of the legislation of the Republic of Kazakhstan in the field of educa
 
 ### Article 68. Enforcement of this Law
 
-- This Law shall be enforced upon expiry of ten calendar days after its first official publication, except for the second part of paragraph 2 of Article 8, item of second paragraph 6 , items of second and fifth subparagraph 1) of paragraph 7, subparagraph 2), 3) of paragraph 8 of Article 52 and subparagraph 1), 3) of paragraph 3 of Article 53, which enters into force from 1 January, 2008.
+- This Law shall be enforced upon expiry of ten calendar days after its first official publication, except for the second part of paragraph 2 of Article 8, item of second paragraph 6, items of second and fifth subparagraph 1) of paragraph 7, subparagraph 2), 3) of paragraph 8 of Article 52 and subparagraph 1), 3) of paragraph 3 of Article 53, which enters into force from 1 January, 2008.
 
 - Persons, being admitted to the study with appropriate terms of education in the educational organizations before entering into force of this Law, shall complete training on educational programs, being in force as of the date of admission to the training, with issuance
 
@@ -2460,9 +2514,14 @@ Violation of the legislation of the Republic of Kazakhstan in the field of educa
 
 [[START OF PAGE 59]]
 
-of a document on education of established standard form, being in force as of the date of admission to the training. 3. Shall be considered to have lost force the Law of the Republic of Kazakhstan dated 7 June, 1999 'On Education' (Bulletin of the Parliament of the Republic of Kazakhstan, 1999, No. 13, Article 429; No. 23, Article 927; 2001, No. 13-14, Article 173; No. 24, Article 338; 2004, No. 18, Article 111; No. 23, Article 142; 2006, No. 1, Article 5; No. 3, Article 22; No. 12, Article 71; No. 15, Article 92; 2007, No. 2, Article 18; No. 9, Article 67). Footnote. Article 68 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
+of a document on education of established standard form, being in force as of the date of admission to the training.
 
-The President of the Republic of Kazakhstan
+- Shall be considered to have lost force the Law of the Republic of Kazakhstan dated 7 June, 1999 “On Education” (Bulletin of the Parliament of the Republic of Kazakhstan, 1999, No. 13, Article 429; No. 23, Article 927; 2001, No. 13-14, Article 173; No. 24, Article 338; 2004, No. 18, Article 111; No. 23, Article 142; 2006, No. 1, Article 5; No. 3, Article 22; No. 12, Article 71; No. 15, Article 92; 2007, No. 2, Article 18; No. 9, Article 67).
+
+Footnote. Article 68 as amended by the Law of the Republic of Kazakhstan dated 24.10.2011 No. 487-IV (shall be enforced upon expiry of ten calendar days after its first official publication).
+
+The President
+of the Republic of Kazakhstan
 
 © 2012. Republican Center of Legal Information of the Ministry of Justice RSE on the basis of economic control rights
 
