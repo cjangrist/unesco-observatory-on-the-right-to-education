@@ -1,0 +1,17613 @@
+[[START OF PAGE 1]]
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+# Education and Inspections Act 2006
+
+## 2006 CHAPTER 40
+
+An Act to make provision about primary, secondary and further education and about training;  to  make  provision  about  food  or  drink  provided  on  school  premises  or  in connection with the provision of education or childcare; to provide for the establishment of  an  Office  for  Standards  in  Education,  Children's  Services  and  Skills  and  the appointment of Her Majesty's Chief Inspector of Education, Children's Services and Skills and make provision about the functions of that Office and that Chief Inspector; to provide for the amendment of references to local education authorities and children's services authorities; to amend section 29 of the Leasehold Reform Act 1967 in relation to university bodies; and for connected purposes. [8th November 2006]
+
+BE IT ENACTED by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:-
+
+## PART 1
+
+### EDUCATION FUNCTIONS OF LOCAL AUTHORITIES
+
+#### 1 Duties in relation to high standards and the fulfilment of potential
+
+For section 13A of EA 1996 substitute-
+
+##### ' 13A Duty to promote high standards and the fulfilment of potential
+
+- A [ F1 local authority ] shall ensure that their functions relating to the provision of education to which this section applies are (so far as they are capable of being so exercised) exercised by the authority with a view to-
+
+(a) promoting high standards,
+
+(b) in the case of a [ F1 local authority ] in England, ensuring fair access to educational opportunity, and
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+2
+
+Education and Inspections Act 2006 (c. 40) Part 1 - Education functions of local authorities
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(c) promoting the fulfilment by every child concerned of his educational potential.
+
+- This section applies to education for-
+
+(a) children of compulsory school age (whether at school or otherwise); and
+
+(b) children under or over that age who are registered as pupils at schools maintained by the authority,
+
+and in subsection (1) 'functions' means functions of whatever nature.
+
+- In this section 'child' means a person under the age of 20.'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+I1 S. 1 in force at 25.5.2007 for E. by S.I. 2007/935, art. 6(a)
+
+I2 S. 1 in force at 30.6.2008 for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1
+
+#### 2 Duties in relation to diversity and choice
+
+In section 14 of EA 1996 (functions of [ F1 local authorities ] in relation to the provision of primary and secondary education) after subsection (3) insert-
+
+'(3A) A [ F1 local authority ] in England shall exercise their functions under this section with a view to-
+
+(a) securing diversity in the provision of schools, and
+
+(b) increasing opportunities for parental choice.'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+- I3 S. 2 in force at 25.5.2007 by S.I. 2007/935, art. 7(a)
+
+#### 3 Duty to consider parental representations
+
+After section 14 of EA 1996 insert-
+
+##### ' 14A Duty of [ F1 local authority] to consider parental representations
+
+- Where a [ F1 local authority ] in England receive any representation from a parent of a qualifying child as to the exercise by the authority of their functions under section 14, the authority shall-
+
+(a) consider the representation and what action (if any) to take in response to it, and
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 1 - Education functions of local authorities
+
+Document Generated: 2020-04-22
+
+3
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) within a reasonable time provide the parent with a statement setting out-
+
+(i) any action which the authority propose to take in response to the representation, or
+
+(ii) where the authority are of the opinion that no such action is necessary, their reasons for being of that opinion.
+
+- In subsection (1) 'qualifying child', in relation to a [ F1 local authority ] , means any child in the authority's area who is of or under compulsory school age.
+
+- Subsection (1) does not apply in relation to any representation which-
+
+(a) appears to the [ F1 local authority ] to be frivolous or vexatious, or
+
+(b) is the same as, or similar to, a representation previously received by the authority from the same person.
+
+- In exercising their functions under this section, a [ F1 local authority ] must have regard to any guidance given from time to time by the Secretary of State.'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+- I4 S. 3 in force at 25.5.2007 by S.I. 2007/935, art. 7(a)
+
+#### 4 Duty to identify children not receiving education
+
+- In  Chapter  2  of  Part  6  of  EA  1996  (school  attendance)  before  the  cross-heading preceding section 437 insert-
+
+##### 'Children not receiving suitable education
+
+###### 436A Duty to make arrangements to identify children not receiving education
+
+- A [ F1 local authority ] must make arrangements to enable them to establish (so far as it is possible to do so) the identities of children in their area who are of compulsory school age but-
+
+(a) are not registered pupils at a school, and
+
+(b) are not receiving suitable education otherwise than at a school.
+
+- In exercising their functions under this section a [ F1 local authority ] must have regard to any guidance given from time to time by the Secretary of State.
+
+- In this Chapter, 'suitable education', in relation to a child, means efficient full-time education suitable to his age, ability and aptitude and to any special educational needs he may have.'
+
+- In  section  437  of  EA  1996,  in  subsection  (8)  omit  the  definition  of  'suitable education'.
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+4
+
+Education and Inspections Act 2006 (c. 40) Part 1 - Education functions of local authorities
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In  section  580  of  EA  1996  (index)  for  the  entry  in  the  second  column  which relates  to  the  expression  'suitable  education  (in  Chapter  2  of  Part  6)'  substitute  ' section 436A(3) '.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+- I5 S. 4 in force at 27.2.2007 for E. by S.I. 2006/3400, art. 6(a)
+
+- I6 S. 4 in force at 1.9.2009 for W. by S.I. 2009/1027, art. 3(a)
+
+#### F2 5 School improvement partners
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F2 S. 5 repealed (15.11.2011) by Education Act 2011 (c. 21), ss. 33(1) , 82(1)(a)
+
+#### 6 Functions in respect of youth work, recreation etc
+
+- Before section 508 of EA 1996 (functions of [ F3 local authority ] in respect of facilities for  recreation  and  social  and  physical  training),  and  immediately  after  the  crossheading which precedes that section, insert-
+
+##### 507A [ F3 ' Local authorities] in England: functions in respect of recreational and training facilities for children under 13
+
+- A [ F1 local authority ] in  England must secure that the facilities for primary and secondary education provided for their area include adequate facilities for recreation and social and physical training for children who have not attained the age of 13.
+
+- For the purposes of subsection (1) a [ F1 local authority ] may-
+
+(a) establish, maintain and manage, or assist the establishment, maintenance and management of-
+
+(i) camps, holiday classes, playing fields, play centres, and
+
+(ii) other places, including playgrounds, gymnasiums and swimming  baths  not  appropriated  to  any  school  or  other educational institution,
+
+at which facilities for recreation and social and physical training are available for persons receiving primary or secondary education;
+
+(b) organise games, expeditions and other activities for such persons; and
+
+(c) defray, or contribute towards, the expenses of such games, expeditions and other activities.
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+Education and Inspections Act 2006 (c. 40) Part 1 - Education functions of local authorities
+
+Document Generated: 2020-04-22
+
+5
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- When making arrangements for the provision of facilities or the organisation of activities in the exercise of their powers under subsection (2), a [ F1 local authority ] must, in particular, have regard to the expediency of co-operating with any voluntary societies or bodies whose objects include the provision of facilities or the organisation of activities of a similar character.
+
+##### 507B [ F3 Local authorities] in England: functions in respect of leisure-time activities etc for persons aged 13 to 19 and certain persons aged 20 to 24
+
+(1) A [ F1 local authority ] in England must, so far as reasonably practicable, secure for qualifying young persons in the authority's area access to-
+
+(a) sufficient educational leisure-time activities which  are  for the improvement  of  their  well-being,  and  sufficient  facilities  for  such activities; and
+
+(b) sufficient recreational leisure-time activities  which  are  for  the improvement  of  their  well-being,  and  sufficient  facilities  for  such activities.
+
+(2) 'Qualifying young persons', for the purposes of this section, are-
+
+(a) persons who have attained the age of 13 but not the age of 20; and
+
+(b) persons who have attained the age of 20 but not the age of 25 and have a learning difficulty (within the meaning of section 13(5)(a) and (6) of the Learning and Skills Act 2000).
+
+(3) For the purposes of subsection (1)(a)-
+
+(a) 'sufficient  educational  leisure-time  activities'  which  are  for  the improvement  of  the  well-being  of  qualifying  young  persons  in the authority's area must include sufficient educational leisure-time activities which are for the improvement of their personal and social development, and
+
+(b) 'sufficient  facilities  for  such  activities'  must  include  sufficient facilities  for  educational  leisure-time  activities  which  are  for  the improvement of the personal and social development of qualifying young persons in the authority's area.
+
+- References in the remaining provisions of this section to 'positive leisuretime activities' are references to any activities falling within paragraph (a) or (b) of subsection (1).
+
+(5) For the purposes of subsection (1) a [ F1 local authority ] may -
+
+(a) provide facilities for positive leisure-time activities;
+
+(b) assist others in the provision of such facilities;
+
+(c) make  arrangements  for  facilitating  access  for  qualifying  young persons to such facilities;
+
+(d) organise positive leisure-time activities;
+
+(e) assist others in the organisation of such activities;
+
+(f) make  arrangements  for  facilitating  access  for  qualifying  young persons to such activities;
+
+(g) enter  into  agreements  or  make  arrangements  with  any  person  in connection with anything done or proposed to be done under any of paragraphs (a) to (f);
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+6
+
+Education and Inspections Act 2006 (c. 40) Part 1 - Education functions of local authorities
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(h) take any other action which the authority think appropriate.
+
+(6) For the purposes of subsection (5)-
+
+(a) the provision mentioned in paragraph (a) may include establishing, maintaining  and  managing  places  at  which  facilities  for  positive leisure-time activities are provided;
+
+(b) the assistance mentioned in paragraphs (b) and (e) may include the provision of financial assistance;
+
+(c) the arrangements mentioned in paragraphs (c) and (f) may include the provision of transport, of financial assistance or of information to any person.
+
+(7) Before taking any action for the purposes of subsection (1) ('the proposed action'), a [ F1 local authority ] must-
+
+(a) consider whether it is expedient for the proposed action to be taken by another person, and
+
+(b) where the authority consider that it is so expedient, take all reasonable steps to enter into an agreement or make arrangements with such a person for that purpose.
+
+- For the purposes of subsection (7)(a) a [ F1 local authority ] must consult such persons as the authority think appropriate as to whether it is expedient for the proposed action to be taken by another person.
+
+(9) In exercising their functions under this section a [ F1 local authority ] must-
+
+(a) take steps to ascertain the views of qualifying young persons in the authority's area about-
+
+(i) positive leisure-time activities, and facilities for such activities, in the authority's area;
+
+(ii) the need for any additional such activities and facilities; and
+
+(iii) access to such activities and facilities; and
+
+(b) secure that the views of qualifying young persons in the authority's area are taken into account.
+
+(10) A [ F1 local authority ] in England must-
+
+(a) publicise  information  about  positive  leisure-time  activities,  and facilities for such activities, in the authority's area, and
+
+(b) keep the information publicised under paragraph (a) up to date.
+
+- A [ F1 local  authority ] may  charge  in  respect  of  anything  provided  by  the authority  under  this  section  where  the  provision  is  to  a  qualifying  young person (whether or not in the authority's area).
+
+- In exercising their functions under this section a [ F1 local authority ] must have regard to any guidance given from time to time by the Secretary of State.
+
+(13) In this section-
+
+'recreation' includes physical training (and 'recreational' is to be construed accordingly);
+
+'sufficient', in relation to activities or facilities, means sufficient having regard to quantity;
+
+'well-being', in relation to a person, means his well-being so far as relating to- Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+7
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) physical and mental health and emotional well-being;
+
+(b) protection from harm and neglect;
+
+(c) education, training and recreation;
+
+(d) the contribution made by him to society;
+
+(e) social and economic well-being.'
+
+- Schedule 1 contains amendments related to the provision made by subsection (1).
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+- I7 S. 6 in force at 8.1.2007, see s. 188(2)
+
+## PART 2
+
+### ESTABLISHMENT, DISCONTINUANCE OR ALTERATION OF SCHOOLS
+
+### Establishment of new schools
+
+#### [ F4 6A Requirement to seek proposals for establishment of new Academies
+
+- If a local authority in England think a new school needs to be established in their area, they must seek proposals for the establishment of an Academy.
+
+- The  local  authority  must  specify  a  date  by  which  any  proposals  sought  under subsection (1) must be submitted to them.
+
+- After the specified date, the local authority must notify the Secretary of State-
+
+(a) of  the  steps  they  have  taken  to  seek  proposals  for  the  establishment  of  an Academy, and
+
+(b) of any proposals submitted to them as a result before the specified date, or of the fact that no such proposals have been submitted to them before that date.
+
+- A notification under subsection (3) must-
+
+(a) identify a possible site for the Academy, and
+
+(b) specify such matters as may be prescribed. ]
+
+##### Textual Amendments
+
+- F4 S. 6A inserted (1.2.2012 for specified purposes, 1.9.2012 for specified purposes) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 2 ; S.I. 2012/84, art. 3 (with art. 4); S.I. 2012/2213, art. 2
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+8
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 7 Invitation for proposals for establishment of new schools
+
+- A [ F1 local authority ] in  England may [ F5 with the consent of the Secretary of State ] publish a notice under this section inviting proposals from persons other than [ F1 local authorities ] for the establishment of any new school falling within subsection (2).
+
+- The schools falling within this subsection are-
+
+(a) a foundation, voluntary or foundation special school, other than one providing education  suitable  only  to  the  requirements  of  persons  above  compulsory school age, or
+
+(b) an [ F6 Academy school ] .
+
+- A notice under this section must-
+
+(a) identify a possible site for the school,
+
+(b) state whether or not the proposed school is to be a special school,
+
+(c) specify a date, being a date after the prescribed interval, by which proposals must be submitted,
+
+(d) specify such other matters as may be prescribed, and
+
+(e) be published in the prescribed manner.
+
+- Proposals made pursuant to a notice under this section must-
+
+(a) contain the prescribed information, and
+
+(b) be submitted to the [ F1 local authority ] before the date specified in the notice.
+
+- After the date specified in a notice published by a [ F1 local authority ] under this section, the authority-
+
+(a) must publish under this section any proposals submitted pursuant to the notice in accordance with subsection (4), F7 ...
+
+- F7 (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+F8
+
+(5A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- Regulations may prescribe-
+
+(a) the time within which proposals under this section must be published, [ F9 and ]
+
+(b) the manner in which they must be published, F10 ...
+
+- F10 (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- Schedule 2 has effect in relation to the consideration, approval and implementation of proposals under this section.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F5 Words in s. 7(1) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 3(a) ; S.I. 2012/84, art. 3 (with art. 4)
+
+- F6 Words in s. 7(2)(b) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 16(2) ; S.I. 2012/924, art. 2
+
+- F7 S. 7(5)(b) and word omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 3(b) ; S.I. 2012/84, art. 3 (with art. 4)
+
+- F8 S. 7(5A) omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 3(c) ; S.I. 2012/84, art. 3 (with art. 4)
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+Education and Inspections Act 2006 (c. 40) Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+9
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- F9 Word in s. 7(6)(a) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 3(d) ; S.I.
+
+- F10 S. 7(6)(c) and word omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para.
+
+- C1 S. 7 modified (E.) (25.5.2007) by The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007 (S.I. 2007/1288), reg. 1(1), Sch. 7 Pt. 1
+
+- C2 S. 7 modified (28.1.2014) by The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109), reg. 1, Sch. 4 Pt. 1
+
+2012/84, art. 3 (with art. 4) 3(d) ; S.I. 2012/84, art. 3 (with art. 4)
+##### Modifications etc. (not altering text)
+##### Commencement Information
+I8 S. 7 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+#### [ F11 7A Withdrawal of notices under section 7
+
+- This section applies where a local authority have published a notice under section 7.
+
+- At any time before the date specified in the notice-
+
+(a) the local authority may withdraw it, with the consent of the Secretary of State, or
+
+(b) the Secretary of State may direct the local authority to withdraw it. ]
+
+- F11 S. 7A inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 4 ; S.I. 2012/84, art. 3
+
+##### Textual Amendments
+(with art. 4)
+
+#### F12 8 Proposals under section 7 relating to community or community special schools
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F12 S. 8 repealed (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 5 ; S.I. 2012/84, art. 3 (with art. 4)
+##### Commencement Information
+I9 S. 8 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+#### 9 Consultation and publicity in relation to notice and proposals under section 7
+
+- Before publishing a notice under section 7, the [ F1 local authority ] must consult such persons as appear to the authority to be appropriate; and in discharging their duty under this subsection the authority must have regard to any guidance given from time to time by the Secretary of State.
+
+- Regulations may require the [ F1 local authority ] to take prescribed steps for the purpose of promoting public awareness of any proposals published by them under section 7.
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+10
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+##### Commencement Information
+I10 S. 9 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+#### 10 Publication of proposals with consent of Secretary of State
+
+- A [ F1 local authority ] in England may with the consent of the Secretary of State publish under  this  section  their  proposals  to  establish [ F13 a  new  community,  community special, foundation or foundation special school, which-
+
+(a) is  not  to  be  one  providing  education  suitable  only  to  the  requirements  of persons above compulsory school age, and
+
+(b) is to replace one or more maintained schools, except where section 11(A2) applies or in a case within section 11(A3). ]
+
+- Any persons ('proposers') may with the consent of the Secretary of State publish under this section their proposals to establish (otherwise than pursuant to a notice under section 7) a new foundation, voluntary [ F14 controlled ] or  foundation special school in England other than-
+
+(a) one providing education suitable only to the requirements of persons above compulsory school age, or
+
+(b) one in relation to which proposals fall to be published under section 11 by virtue of subsection [ F15 (2) ] of that section.
+
+- Proposals under this section must-
+
+(a) contain such information, and
+
+(b) be published in such manner,
+
+as may be prescribed.
+
+- Before publishing any proposals under this section, the [ F1 local authority ] or proposers (as the case may be) must consult such persons as appear to them to be appropriate; and in discharging their duty under this subsection the authority or proposers must have regard to any guidance given from time to time by the Secretary of State.
+
+- Where any proposals are published under subsection (2), the proposers must submit the  proposals  in  accordance  with  regulations  to  the [ F1 local  authority ] who  it  is proposed should maintain the school.
+
+- Schedule 2 has effect in relation to the consideration, approval and implementation of proposals under this section.
+
+##### Textual Amendments
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2) F13 Words in s. 10(1) substituted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 6(2) ; S.I. 2012/84, art. 3 (with art. 4) ; S.I.
+
+- F14 Word in s. 10(2) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 6(3)(a) 2012/84, art. 3 (with art. 4)
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+11
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- F15 Word in s. 10(2)(b) substituted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 6(3) (b) ; S.I. 2012/84, art. 3 (with art. 4)
+
+##### Modifications etc. (not altering text)
+
+- C3 S. 10 modified (E.) (25.5.2007) by The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007 (S.I. 2007/1288), reg. 1(1), Sch. 7 Pt. 2
+
+- C4 S. 10 modified (28.1.2014) by The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109), reg. 1, Sch. 4 Pt. 2
+
+- I11 S. 10 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+##### Commencement Information
+
+#### 11 Publication of proposals to establish maintained schools: special cases
+
+[ F16 (A1) Subsection (A2) applies where a local authority in England publish a notice under section 7 (notice inviting proposals for establishment of new schools), and-
+
+(a) no proposals are made pursuant to the notice, or
+
+(b) proposals  are  made  pursuant  to  the  notice  but  none  of  the  proposals  are approved under Schedule 2 or result in Academy arrangements being entered into.
+
+(A2) The local authority may publish under this section proposals of their own to establish a new community, community special, foundation or foundation special school, which is not to be one providing education suitable only to the requirements of persons above compulsory school age.
+
+(A3) Where a local authority in England propose to establish a new community, community special, foundation or foundation special school, which-
+
+(a) is to be a primary school, and
+
+(b) is to replace a maintained infant school and a maintained junior school,
+
+the authority must publish their proposals under this section. ]
+
+- Where a [ F1 local authority ] in England propose to establish-
+
+(a) a new maintained nursery school, or
+
+- F17 (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+the authority must publish their proposals under this section.
+
+[ F18 (1A) Where any persons ('proposers') propose to establish a new voluntary aided school in England, they may publish their proposals under this section. ]
+
+- Where any persons ('proposers') propose to establish a new foundation, voluntary [ F19 controlled ] or foundation special school in England which-
+
+- F20 (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[ F21 (aa) is  to  replace  one  or  more  foundation  or  voluntary  schools  which  have  a religious character, ]
+
+(b) is to replace an independent school that is not an Academy, a city technology college or a city college for the technology of the arts, or
+
+(c) in the case of a new foundation special school, is to replace a non-maintained special school,
+
+they must publish their proposals under this section.
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+12
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+[ F22 (2A) For  the  purposes  of  subsection  (2)(aa),  a  new  foundation  or  voluntary  controlled school replaces a foundation or voluntary school which has a religious character if it is proposed that the new school-
+
+(a) should have the same religious character,
+
+(b) should have a different religious character, or
+
+(c) should not have a religious character. ]
+
+- A new foundation, voluntary [ F23 controlled ] or foundation special school is not to be regarded for the purposes of subsection (2)(b) as replacing an independent school unless-
+
+(a) the independent school has been registered under [ F24 Chapter 1 of Part 4 of the  Education  and  Skills  Act  2008  (regulation  of  independent  educational institutions in England) ] for a continuous period of at least two years ending with the date of the publication of the proposals under this section, and
+
+(b) it is proposed that the independent school should continue in existence but should then close as an independent school immediately before the proposals are implemented.
+
+- A new foundation special school is not to be regarded for the purposes of subsection (2) (c) as replacing a non-maintained special school unless-
+
+(a) the non-maintained special school has been approved under section 342 of EA 1996 (approval of non-maintained special schools) for a continuous period of at least two years ending with the date of the publication of the proposals, and
+
+(b) it  is  proposed  that  the  non-maintained  special  school  should  continue in  existence  but  should  then  close  as  a  non-maintained  special  school immediately before the proposals are implemented.
+
+- Proposals under this section must-
+
+(a) contain such information, and
+
+(b) be published in such manner,
+
+as may be prescribed.
+
+- Before publishing any proposals under this section, the authority or proposers (as the case may be) must consult such persons as appear to them to be appropriate; and in discharging their duty under this subsection the authority or proposers must have regard to any guidance given from time to time by the Secretary of State.
+
+- Where any proposals are published under subsection [ F25 (1A) or ] (2), the proposers must submit the proposals in accordance with regulations to the [ F1 local authority ] who it is proposed should maintain the school.
+
+- Schedule 2 has effect in relation to the consideration, approval and implementation of proposals under this section.
+
+[ F26 In this section-
+
+'maintained  infant  school'  means  a  maintained  school  that  provides primary  education  suitable  to  the  requirements  of  children  of  compulsory school age who have not attained the age of 8;
+
+'maintained  junior  school'  means  a  maintained  school  that  provides primary  education  suitable  to  the  requirements  of  junior  pupils  who  have attained the age of 7;
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+Education and Inspections Act 2006 (c. 40) Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+13
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+'non-maintained special school' means a school which is approved under section 342 of EA 1996. ]
+
+##### Textual Amendments
+F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2) F16 S. 11(A1)-(A3) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 7(2) ; S.I. 2012/84, art. 3 (with art. 4) F17 S. 11(1)(b) repealed (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 126(5), 269(4), Sch. 16 Pt. 3 ; S.I. 2009/3317, art. 2, Sch. F18 S. 11(1A) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 7(3) ; S.I. 2012/84, art. 3 (with art. 4) F19 Word in s. 11(2) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 7(4)(a) ; S.I. 2012/84, art. 3 (with art. 4) F20 S. 11(2)(a) repealed (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 126(5), 269(4), Sch. 16 Pt. 3 ; S.I. 2009/3317, art. 2, Sch. F21 S. 11(2)(aa) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 7(4)(b) ; S.I. 2012/84, art. 3 (with art. 4) F22 S. 11(2A) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 7(5) ; S.I. 2012/84, art. 3 (with art. 4) F23 Word in s. 11(3) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 7(6) ; S.I. 2012/84, art. 3 (with art. 4) F24 Words in s. 11(3)(a) substituted (5.1.2015) by Education and Skills Act 2008 (c. 25), s. 173(4), Sch. 1 para. 38(2) ; S.I. 2014/3364, art. 2(z) F25 Words in s. 11(7) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 7(7) ; S.I. 2012/84, art. 3 (with art. 4) F26 S. 11(9) substituted (1.2.2012 for certain purposes) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 7(8) ; S.I. 2012/84, art. 3 (with art. 4) F27 Word in s. 11(9) substituted (5.1.2015) by Education and Skills Act 2008 (c. 25), s. 173(4), Sch. 1 para. 38(3) ; S.I. 2014/3364, art. 2(z)
+##### Modifications etc. (not altering text)
+C5 S. 11 modified (E.) (25.5.2007) by The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007 (S.I. 2007/1288), reg. 1(1), Sch. 7 Pt. 2 C6 S. 11 modified (28.1.2014) by The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109), reg. 1, Sch. 4 Pt. 2
+##### Commencement Information
+I12 S. 11 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+#### 12 Establishment of school as federated school
+
+- Proposals under-
+
+(a) section 7, 10 or 11, or
+
+- F28 (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+for the establishment of a new [ F29 maintained ] school in England may relate to the establishment of the school as a federated school.
+
+- In this section 'federated school' has the meaning given by section 24(2) of EA 2002.
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+14
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+- F28 S. 12(1)(b) repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a)(b), Sch. 1 para. 57, Sch. 2 Pt. 1 (with art. 2(3)) F29 Word in s. 12(1) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 9 ; S.I. 2012/84, art. 3 (with art. 4)
+##### Commencement Information
+
+I13 S. 12 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+#### 13 Schools established outside area of relevant [ F3 local authority]
+
+Regulations may modify the provisions of sections 7 to 12 and Schedule 2 in their application to cases where-
+
+(a) in the case of proposals published under section 7, the school is proposed to be established in an area in England other than that of the [ F1 local authority ] who published the notice under that section, or
+
+(b) in  the  case  of  proposals  published  under  section  10  or  11,  the  school  is proposed to be established in an area in England other than that of the [ F1 local authority ] who it is proposed should maintain the school.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Modifications etc. (not altering text)
+
+- C7 S. 13 modified (E.) (11.3.2009) by The Local Government (Structural Changes) (Further Transitional and Supplementary Provision and Miscellaneous Amendments) Regulations 2009 (S.I. 2009/276), regs. 1(1), 3(4) (with reg. 1(2))
+
+##### Commencement Information
+
+- I14 S. 13 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+#### 14 [ F3 Local authority] in England not to establish school in Wales
+
+No  proposals  may  be  published  under  this  Part  or  any  other  enactment  for  the establishment of a school in Wales which is proposed to be maintained by a [ F1 local authority ] in England.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+15
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I15 S. 14 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+### Discontinuance of schools
+
+#### 15 Proposals for discontinuance of schools maintained by [ F1 local authority]
+
+- Where a [ F1 local authority ] in England propose to discontinue-
+
+(a) a community, foundation or voluntary school,
+
+(b) a community or foundation special school, or
+
+(c) a maintained nursery school,
+
+the authority must publish their proposals under this section.
+
+(2) Where the governing body of-
+
+(a) a foundation or voluntary school in England, or
+
+(b) a foundation special school in England,
+
+propose to discontinue the school, the governing body must publish their proposals under this section.
+
+- Proposals under this section must-
+
+(a) contain such information, and
+
+(b) be published in such manner,
+
+as may be prescribed.
+
+- The matters to which the relevant body must have regard in formulating any proposals under this section in relation to a rural primary school include-
+
+(a) the likely effect of the discontinuance of the school on the local community,
+
+(b) the availability, and likely cost to the [ F1 local authority ] , of transport to other schools,
+
+(c) any increase in the use of motor vehicles which is likely to result from the discontinuance of the school, and the likely effects of any such increase, and
+
+(d) any alternatives to the discontinuance of the school;
+
+and in considering these matters the relevant body must have regard to any guidance given from time to time by the Secretary of State.
+
+- Where  any  proposals  are  published  under  subsection  (2),  the  persons  making  the proposals must submit the proposals in accordance with regulations to the [ F1 local authority ] .
+
+- Schedule 2 has effect in relation to the consideration, approval and implementation of proposals published under this section.
+
+- In this section-
+
+(a) 'the relevant body' means the [ F1 local authority ] mentioned in subsection (1) or the governing body mentioned in subsection (2) (as the case may be);
+
+(b) 'rural primary school' means a primary school designated as such for the purposes of this section by an order made by the Secretary of State.
+
+- In this Part any reference to a [ F1 local authority ] -
+
+(a) discontinuing a school, or
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+16
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) implementing proposals to discontinue a school (whether published by the authority or the governing body),
+
+is a reference to the authority ceasing to maintain the school.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Modifications etc. (not altering text)
+
+- C8 Ss. 15-17 excluded (29.7.2010) by Academies Act 2010 (c. 32), ss. 6(9) , 19(2); S.I. 2010/1937, art. 2, Sch. 1
+
+##### Commencement Information
+
+- I16 S. 15 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+#### 16 Consultation in relation to proposals under section 15
+
+- Before publishing any proposals under section 15 which relate to a school which is a rural primary school or a community or foundation special school, the relevant body must consult-
+
+(a) the registered parents of registered pupils at the school,
+
+(b) in the case of the rural primary school-
+
+(i) the [ F1 local authority ] (where they are not the relevant body),
+
+(ii) where the [ F1 local authority ] are a county council, any district council for the area in which the school is situated, and
+
+(iii) any parish council for the area in which the school is situated,
+
+(c) in the case of a community or foundation special school, any [ F1 local authority ] which maintain [ F30 an EHC plan or ] a statement under section 324 of EA 1996 (statement of special educational needs) in respect of a registered pupil at the school, and
+
+(d) such other persons as appear to the relevant body to be appropriate.
+
+- Before publishing any other proposals under section 15, the relevant body must consult such persons as appear to them to be appropriate.
+
+- In discharging their duty under subsection (1) or (2) the relevant body must have regard to any guidance given from time to time by the Secretary of State.
+
+- In this section 'the relevant body' and 'rural primary school' have the same meaning as in section 15.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F30 Words in s. 16(1)(c) inserted (1.9.2014) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 3 para. 81 ; S.I. 2014/889, art. 7(a)
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+17
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Modifications etc. (not altering text)
+C8 Ss. 15-17 excluded (29.7.2010) by Academies Act 2010 (c. 32), ss. 6(9) , 19(2); S.I. 2010/1937, art. 2, Sch. 1
+##### Commencement Information
+I17 S. 16 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+#### 17 Direction requiring discontinuance of community or foundation special school
+
+- The Secretary of State may, if he considers it expedient to do so in the interests of the health, safety or welfare of pupils at a community or foundation special school in England, give a direction to the [ F1 local authority ] by whom the school is maintained requiring the school to be discontinued on a date specified in the direction.
+
+- A  direction  under  subsection  (1)  may  require  the [ F1 local  authority ] to  notify  any persons or class of persons specified in the direction.
+
+- Before giving a direction under subsection (1), the Secretary of State must consult-
+
+(a) the [ F1 local authority ] ,
+
+(b) any  other [ F1 local  authority ] who  would  in  his  opinion  be  affected  by  the discontinuance of the school,
+
+(c) in the case of a foundation special school which has a foundation, the person who appoints the foundation governors, and
+
+(d) such other persons as the Secretary of State considers appropriate.
+
+(4) On giving a direction under subsection (1), the Secretary of State must give notice in
+
+writing of the direction to the governing body of the school and its head teacher.
+
+- Where  a [ F1 local  authority ] are  given  a  direction  under  subsection  (1),  they  must discontinue the school in question on the date specified in the direction; and nothing in section 15 or 28 applies to any such discontinuance of the school under this section.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Modifications etc. (not altering text)
+
+- C8 Ss. 15-17 excluded (29.7.2010) by Academies Act 2010 (c. 32), ss. 6(9) , 19(2); S.I. 2010/1937, art. 2, Sch. 1
+
+- C9 S. 17 modified (E.) (11.3.2009) by The Local Government (Structural Changes) (Further Transitional and Supplementary Provision and Miscellaneous Amendments) Regulations 2009 (S.I. 2009/276), regs. 1(1), 3(4) (with reg. 1(2))
+
+##### Commencement Information
+
+- I18 S. 17 in force at 25.5.2007 by S.I. 2007/935, art. 7(b)
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+18
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+### Alterations to schools
+
+#### 18 Alterations that may be made under section 19
+
+- Regulations may prescribe alterations to maintained schools that may be implemented in pursuance of proposals published under section 19.
+
+- The prescribed alterations must include any alteration that involves one or more of the following-
+
+(a) in  the  case  of  a  school  falling  within  any  of  the  categories  set  out  in section 20(1) of SSFA 1998, any change in the category within which the school falls (other than a change prevented by subsection (4)(c) to (f) of this section),
+
+(b) the acquisition by a foundation or foundation special school of a foundation established otherwise than under SSFA 1998, and
+
+(c) in the case of a school whose instrument of government does not provide for a majority of the governing body to be foundation governors, any change in the instrument of government which results in the majority of governors being foundation governors.
+
+- The prescribed alterations may include other alterations of any nature (other than those prevented by subsection (4)).
+
+- None of the following alterations may be made to a maintained school-
+
+(a) any change in the religious character of the school;
+
+(b) any change whereby the school would acquire or lose a religious character;
+
+(c) any change of category from foundation or voluntary school to community school;
+
+(d) any change of category from foundation special school to community special school;
+
+(e) any change of category from mainstream school to community or foundation special school or from community or foundation special school to mainstream school;
+
+(f) any change from maintained nursery school to any other kind of maintained school, or from any other kind of maintained school to maintained nursery school.
+
+- In subsection (4)(e) 'mainstream school' means community, foundation or voluntary school.
+
+##### Commencement Information
+I19 S. 18(1)-(3) in force at 1.4.2007 by S.I. 2007/935, art. 5(b) I20 S. 18(4)(5) in force at 25.5.2007 by S.I. 2007/935, art. 7(c)
+
+#### 19 Publication of proposals for alteration of school
+
+- Where-
+
+(a) the [ F1 local authority ] propose to make a prescribed alteration to a maintained school, and
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+19
+
+- Where-
+
+(a) the  governing  body  of  a  maintained  school  propose  to  make  a  prescribed alteration to the school, and
+
+(b) in the case of a community school, a community special school or a maintained nursery school, the prescribed alteration is designated by regulations under this subsection as one capable of being proposed by the governing body,
+
+the governing body must publish their proposals under this section.
+
+- If at any time the governing body of a voluntary aided school are unable or unwilling to carry out their obligations under Schedule 3 to SSFA 1998 (funding of foundation, voluntary and foundation special schools), they must publish proposals under this section for the school to become either a voluntary controlled school or a foundation school, as the governing body may determine.
+
+- This section has effect subject to section 20.
+
+- In this section-
+
+'prescribed  alteration',  in  relation  to  a  maintained  school,  means  an alteration prescribed under section 18;
+
+'relevant age group' has the same meaning as in SSFA 1998.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) the prescribed alteration is one that under subsection (2) is capable of being proposed by a [ F1 local authority ] ,
+
+the authority must publish their proposals under this section.
+
+(2) A prescribed alteration is capable of being proposed by a [ F1 local authority ] if-
+
+(a) in the case of a community school, a community special school or a maintained nursery  school,  it  is  an  alteration  designated  by  regulations  under  this subsection as one capable of being proposed by the [ F1 local authority ] ,
+
+(b) in the case of a foundation or voluntary school, it consists of any one or more of the following-
+
+(i) an enlargement of the premises,
+
+(ii) an increase in the number of pupils in any relevant age group,
+
+(iii) the  establishment  or  discontinuance  of  educational  provision  for pupils with special educational needs, and
+
+(iv) the establishment of educational provision suitable to the requirements of pupils over compulsory school age, and
+
+(c) in the case of a foundation special school, it consists of any one or more of the following-
+
+(i) an enlargement of the premises,
+
+(ii) an increase in the number of pupils for whom the school is organised to make provision, and
+
+(iii) a change in the type of special educational needs for which the school is organised to make provision.
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
+20
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I21 S. 19 in force at 25.5.2007 by S.I. 2007/935, art. 7(d)
+
+#### 20 Restriction on power of governing body to publish foundation proposals
+
+- The governing body of a school specified in the first column of the Table below may not publish proposals under section 19 for a prescribed alteration of a kind specified in the second column, except with the consent of-
+
+(a) the trustees of the school, and
+
+(b) the person or persons by whom the foundation governors are appointed.
+
+##### TABLE
+
+School | Prescribed alteration
+--- | ---
+1. A foundation school which, immediately before the commencement date, was a foundation school having a foundation. | A relevant change in the instrument of government.
+2. A voluntary school. | A change of category from voluntary controlled school or voluntary aided school to foundation school.
+3. A foundation school which, having been a voluntary school immediately before the commencement date, changed category to foundation school on or after that date. | A relevant change in the instrument of government.
+
+- For the purposes of this section, a 'relevant change' in the instrument of government of a school is a change which results in the majority of governors being foundation governors.
+
+- In this section-
+
+'the commencement date' means the day on which this Part comes into force, otherwise than merely for the purpose of enabling orders or regulations to be made;
+
+'prescribed  alteration',  in  relation  to  a  maintained  school,  means  an alteration prescribed under section 18.
+
+##### Commencement Information
+
+I22 S. 20 in force at 25.5.2007 by S.I. 2007/935, art. 7(d)
+
+#### 21 Proposals under section 19: procedure
+
+- Regulations may make provision about the publication and determination of proposals under section 19 ('proposals').
+
+- The provision that may be made includes provision-
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+21
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) about  the  information  to  be  included  in,  or  provided  in  relation  to,  the proposals;
+
+(b) about consultation on the proposals;
+
+(c) about the manner in which proposals are to be published under section 19;
+
+(d) for the making of objections to or comments on the proposals;
+
+(e) requiring  the  proposals  to  be  considered  with  related  proposals  published under section 19 or any other enactment;
+
+(f) for  the  consideration  and  determination  of  the  proposals  by  a  prescribed person (who may be the person who published the proposals);
+
+(g) for  the  referral  of  proposals  to  the  adjudicator  in  prescribed  cases  for consideration and determination by him (instead of by a person prescribed by virtue of paragraph (f));
+
+(h) for the referral of proposals to the adjudicator, at the request of a prescribed person, after their initial determination by a person other than the adjudicator;
+
+(i) for the approval of proposals with or without modification;
+
+(j) for the making in prescribed cases of a conditional approval;
+
+(k) for the withdrawal of proposals;
+
+(l) as  to  the  manner  in  which,  and  time  within  which,  anything  required  or authorised by the regulations must be done.
+
+- The regulations may confer functions on the [ F1 local authority ] , on any other [ F1 local authority ] affected by the proposals, on the governing body of the school concerned and on the adjudicator.
+
+- Regulations made by virtue of subsection (2)(g) may enable the Secretary of State by direction to require proposals to be referred to the adjudicator.
+
+- In  relation  to  any  proposals  for  a  school  to  cease  to  be  an  establishment  which admits pupils of one sex only, regulations under this section may enable the [ F1 local authority ] or the adjudicator to make a transitional exemption order for the purposes of [ F31 paragraphs 3 and 4 of Schedule 11 to the Equality Act 2010 (single-sex schools turning co-educational) ] , and to vary or revoke any order so made.
+
+- The regulations may require any person exercising functions under the regulations to have regard to any guidance given from time to time by the Secretary of State.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F31 Words in s. 21(5) substituted by 2010 c. 15, Sch. 26 Pt. 1 para. 93 (as inserted (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 6 (see S.I. 2010/2317, art. 2))
+
+##### Commencement Information
+
+I23 S. 21 in force at 1.4.2007 by S.I. 2007/935, art. 5(c)
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+22
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 22 Right of governing body to determine own foundation proposals
+
+- Subsection  (3)  applies  to  proposals  which  are  published  under  section  19  by  the governing body of a community, voluntary controlled or community special school and relate only to-
+
+(a) a  change  of  category  from  community  or  voluntary  controlled  school  to foundation school, without the acquisition of a foundation or a relevant change in the instrument of government, or
+
+(b) a change of category from community special school to foundation special school, without the acquisition of a foundation.
+
+- For the purposes of this section a 'relevant change' in the instrument of government of a school is a change which results in the majority of governors being foundation governors.
+
+- In relation to proposals to which  this subsection applies, regulations  under section 21-
+
+(a) must provide for the proposals to be determined by the governing body, and
+
+(b) may not make any provision under subsection (2)(g) or (h) of that section enabling the proposals to be referred to the adjudicator.
+
+(4) Subsection (5) applies to-
+
+(a) proposals which are published under section 19 by the governing body of a  community  or  voluntary  controlled  school  and  relate  only  to  a  change of  category  from  community  or  voluntary  controlled  school  to  foundation school, together with the acquisition of a foundation or a relevant change in the instrument of government (or both),
+
+(b) proposals  which  are  published  under  that  section  by  the  governing  body of  a  community  special  school  and  relate  only  to  a  change  of  category from community special school to foundation special school, together with the  acquisition  of  a  foundation  or  together  with  both  the  acquisition  of  a foundation and a relevant change in the instrument of government, and
+
+(c) proposals which are published under that section by the governing body of a foundation or foundation special school and relate only to the acquisition of a foundation or a relevant change in the instrument of government (or both).
+
+- In relation to proposals to which  this subsection applies, regulations  under section 21-
+
+(a) must provide for the proposals to be determined by the governing body unless the [ F1 local  authority ] exercise  the  right  conferred  on  them  by  regulations made by virtue of section 23(1), and
+
+(b) may not make any provision  under  subsection  (2)(g)  or  (h)  of  section  21 enabling a person other than the [ F1 local authority ] to require the proposals to be referred to the adjudicator.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+I24 S. 22 in force at 1.4.2007 by S.I. 2007/935, art. 5(c)
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+23
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 23 Rights of interested bodies in relation to proposals under section 21
+
+- Any  regulations  under  section  21  which  enable  any  proposals  falling  within subsection (2) which are published by the governing body of the school to which they relate to be determined by the governing body must include provision by virtue of subsection (2)(g) of that section enabling the [ F1 local authority ] to require the proposals to be referred to the adjudicator.
+
+- Proposals  fall  within  this  section  if  the  proposed  alteration  would  result  in  a community, voluntary controlled or foundation school or community or foundation special school becoming either or both of the following-
+
+(a) a  foundation  or  foundation  special  school  having  a  foundation  established otherwise than under SSFA 1998;
+
+(b) a foundation or foundation special school whose instrument of government provides for the majority of governors to be foundation governors.
+
+- Regulations under section 21 may restrict the matters to which a [ F1 local authority ] may  have  regard  in  deciding  whether  to  require  proposals  to  be  referred  to  the adjudicator  in  accordance  with  provision  included  in  the  regulations  by  virtue  of subsection (1).
+
+- If  regulations  under  section  21  provide  for  any  proposals,  other  than  proposals  to which  section  22(3)  or  (5)  applies,  to  be  determined  by  a  person  other  than  the adjudicator,  the  regulations  must  include  provision  by  virtue  of  section  21(2)(h) enabling each of the following persons to require the proposals to be referred to the adjudicator after their initial determination by the other person-
+
+(a) the Diocesan Board of Education for any diocese of the Church of England any part of which is comprised in the area of the authority,
+
+(b) the bishop of any diocese of the Roman Catholic Church any part of which is comprised in the area of the authority, and
+
+- F32 (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- If  regulations  under  section  21  provide  for  any  proposals  published  by  a [ F1 local authority ] in relation to a foundation or voluntary school or a foundation special school to be determined by the [ F1 local authority ] , the regulations must include provision by virtue of subsection (2)(h) of that section enabling each of the following persons to require the proposals to be referred to the adjudicator after their initial determination by the authority-
+
+(a) the governing body of the school, and
+
+(b) the trustees of the school.
+
+- In this section 'proposals' means proposals under section 19.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F32 S. 23(4)(c) repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a)(b), Sch. 1 para. 58, Sch. 2 Pt. 1 (with art. 2(3))
+
+##### Commencement Information
+
+I25 S. 23 in force at 1.4.2007 by S.I. 2007/935, art. 5(c)
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+24
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 24 Proposals under section 19: implementation
+
+- Regulations may make provision in connection with the implementation of-
+
+(a) proposals under section 19 which have been approved in accordance with regulations under section 21, or
+
+(b) proposals under section 19 in respect of which approval in accordance with those regulations is not required, and which the person making the proposals has determined to implement.
+
+(2) Regulations under this section may, in particular-
+
+(a) enable a prescribed person to determine in prescribed cases that proposals are not to be implemented or are to be implemented with modifications,
+
+(b) enable prescribed matters relating to the implementation of proposals to be referred to the adjudicator in prescribed cases, and
+
+(c) make provision about the manner in which, and time within which, anything required or authorised by the regulations must be done.
+
+- Regulations under this section relating to an alteration falling within subsection (2) (a), (b) or (c) of section 18 may include provision with respect to-
+
+(a) the revision or replacement of the school's instrument of government and the reconstitution of its governing body,
+
+(b) the transfer of property, rights and liabilities (including such a transfer to or from a foundation body or trustees),
+
+(c) the transfer of staff, and
+
+(d) any transitional matters.
+
+- Regulations  made  under  this  section  by  virtue  of  subsection  (3)(b)  in  relation  to an alteration falling within section 18(2)(a) may, in particular, make provision with respect to-
+
+(a) restricting the disposal by a local authority of land which is used or held for the purposes of a school in relation to which proposals to change category are, or may be, published under section 19, as from-
+
+(i) the date of publication of such proposals, or
+
+(ii) such other time as may be prescribed,
+
+(b) restricting the taking of action by virtue of which any such land would cease to be so used or held to any extent,
+
+(c) the consequences of any contravention of any such restriction as is mentioned in paragraph (a) or (b), and
+
+(d) conferring on any prescribed body such functions as may be prescribed with respect to any such contravention.
+
+- Regulations made under this section by virtue of subsection (3)(b) in relation to an alteration falling within section 18(2)(a) may also make provision with respect to-
+
+(a) the division and apportionment of property, rights and liabilities any part of which fall to be transferred by or under the regulations where the property has been used or held, or the rights or liabilities have been acquired or incurred, for the purposes of more than one school or for the purposes of one or more schools and for other purposes,
+
+(b) excluding from transfer in certain circumstances property, rights and liabilities which would otherwise fall to be transferred under any such transfer,
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+25
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(c) identifying and defining the property, rights and liabilities which fall to be transferred,
+
+(d) requiring prescribed persons to enter into agreements and execute instruments,
+
+(e) the resolution of disputes relating to a transfer,
+
+(f) the construction of agreements,
+
+(g) the position of third parties affected by a transfer,
+
+(h) the production or delivery of documents, or the provision of information, by a prescribed person to another prescribed person, and
+
+(i) enabling a certificate issued by a prescribed person to be conclusive evidence as to whether or not any property, rights or liabilities were transferred by virtue of the regulations.
+
+- Regulations  under  this  section  may  require  any  prescribed  person,  in  exercising functions under the regulations, to have regard to any guidance given from time to time by the Secretary of State.
+
+- Regulations under this section may, in particular, make provision corresponding to that  made  by,  or  that  which  may  be  made  by  regulations  under,  any  provision  of paragraphs 21 to 31 of Schedule 2 (implementation of proposals for establishment or discontinuance).
+
+- A school's change of category in pursuance of proposals published under section 19 is not to be taken as authorising any change in the religious character of the school, or the acquisition or loss of religious character.
+
+[ F33 (9) In subsection (4) 'local authority' includes a non-metropolitan district council for an area for which there is a county council. ]
+
+F33 S. 24(9) inserted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(4)
+
+##### Textual Amendments
+##### Commencement Information
+I26 S. 24 in force at 1.4.2007 by S.I. 2007/935, art. 5(c)
+
+### Removal of foundation or reduction in foundation governors
+
+#### 25 Proposals for removal of foundation or reduction in foundation governors
+
+- This  section  applies  to  any  foundation  or  foundation  special  school  having  a foundation if either or both of the following conditions is met.
+
+- Condition A is that the school was established (whether or not as a foundation or foundation special school) in pursuance of proposals falling to be implemented under Schedule 2.
+
+- Condition B is that the school acquired its foundation in pursuance of proposals falling to be implemented under regulations under section 24.
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
+26
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The governing body of any foundation or foundation special school to which this section applies may at any time publish proposals under this section for either or both of the following alterations to the school-
+
+(a) the removal of the foundation, or
+
+(b) the alteration of the instrument of government in such a way that foundation governors will cease to constitute the majority of governors.
+
+- A prescribed proportion of the governors of a foundation or foundation special school to which this section applies may in the prescribed manner require the governing body of the school to publish proposals under this section for either or both of the alterations mentioned in subsection (4).
+
+- Subsection (5) does not require the governing body of a foundation or foundation special school to publish proposals under this section-
+
+(a) at any time within a prescribed period beginning with the date on which-
+
+(i) proposals for the establishment of the school were implemented under Schedule 2, or
+
+(ii) proposals for the acquisition of a foundation, for a relevant change in  the  instrument  of  government  or  for  a  change  of  category  to foundation  school  or  foundation  special  school  were  implemented under regulations under section 24, or
+
+(b) at  any  time  within  a  prescribed  period  beginning  with  the  date  on  which previous proposals published under this section in pursuance of a requirement under subsection (5) were rejected by the governing body in accordance with regulations under section 26.
+
+- In subsection (6)(a)(ii) 'relevant change', in relation to the instrument of government of a school, is to be read in accordance with section 22(2).
+
+- In  this  section  'foundation'  means  a  foundation  established  otherwise  than  under SSFA 1998.
+
+##### Commencement Information
+I27 S. 25(1)-(4) (8) in force at 25.5.2007 by S.I. 2007/935, art. 7(e)
+
+I28 S. 25(5)-(7) in force at 1.4.2007 by S.I. 2007/935, art. 5(d)
+
+#### 26 Proposals under section 25: procedure
+
+- Regulations may make provision about the publication and determination of proposals under section 25.
+
+- The provision that may be made includes provision-
+
+(a) about  the  information  to  be  included  in,  or  provided  in  relation  to,  the proposals;
+
+(b) about consultation on the proposals;
+
+(c) about the manner in which proposals are to be published under section 25;
+
+(d) for the making of objections to or comments on the proposals;
+
+(e) for the withdrawal of proposals in prescribed cases;
+
+(f) for the consideration of the proposals by the governing body;
+
+(g) enabling the governing body to approve or reject the proposals;
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+27
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(h) enabling the governing body to reject any proposals published in pursuance of a requirement under section 25(5) ('required proposals') only by a decision made with the support of a prescribed proportion of the governors;
+
+(i) for  the  approval  of  required  proposals  given  in  the  prescribed  manner  by a  prescribed  proportion  of  the  governors  to  be  treated  as  approval  by  the governing body;
+
+(j) for the approval of proposals either without modifications or in prescribed cases with modifications of a prescribed kind;
+
+(k) as to the manner in which, and time within which, anything authorised or required by the regulations must be done.
+
+- Regulations under this section may in prescribed cases-
+
+(a) require the governing body to ensure that matters relating to-
+
+(i) any transfer which may be required by virtue of subsection (2)(b) of section 27, or
+
+(ii) any payment which might be required by virtue of subsection (4) or (5) of that section,
+
+are agreed or determined before the proposals are published, and
+
+(b) enable  or  require  any  such  matter  to  be  referred  to  the  adjudicator  for determination before the proposals are published.
+
+- Regulations  under  this  section  may  require  any  prescribed  person,  in  exercising functions under the regulations, to have regard to any guidance given from time to time by the Secretary of State.
+
+##### Commencement Information
+I29 S. 26 in force at 1.4.2007 by S.I. 2007/935, art. 5(e)
+
+#### 27 Proposals under section 25: implementation
+
+- Regulations may make provision in connection with the implementation of proposals under section 25 which have been approved in accordance with regulations under section 26.
+
+- Regulations under this section may, in particular-
+
+(a) make provision for the revision or replacement of the school's instrument of government and the reconstitution of its governing body;
+
+(b) make provision for the transfer of property, rights and liabilities;
+
+(c) make provision about the manner in which, and time within which, anything required or authorised by the regulations must be done.
+
+- Regulations made by virtue of subsection (2)(b) may make provision about any of the matters mentioned in section 24(5)(a) to (i).
+
+- Where-
+
+(a) any land forming part of the school premises ('the excluded land') is not transferred to the governing body, and
+
+(b) the governing body, a [ F1 local authority ] or a prescribed person has incurred capital expenditure in relation to the excluded land or in relation to other land
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
+28
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+the proceeds of the disposal of which were used to acquire or enhance the value of the excluded land,
+
+regulations under this section may authorise or require the foundation to pay any part of the value of the excluded land to the governing body, the [ F1 local authority ] or a prescribed person.
+
+- Where-
+
+(a) any  land  forming  part  of  the  school  premises  ('the  transferred  land')  is transferred to the governing body, and
+
+(b) the foundation has incurred capital expenditure in relation to the transferred land or in relation to other land the proceeds of the disposal of which were used to acquire or enhance the value of the transferred land,
+
+regulations under this section may authorise or require the governing body to pay any part of the value of the transferred land to the foundation.
+
+- Regulations  under  this  section  may  require  any  prescribed  person,  in  exercising functions under the regulations, to have regard to any guidance given from time to time by the Secretary of State.
+
+- The implementation of proposals under section 25 is not to be taken as authorising any change in the religious character of the school or the loss of religious character.
+
+- In  this  section  'foundation'  means  a  foundation  established  otherwise  than  under SSFA 1998.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+I30 S. 27(1)-(6) (8) in force at 1.4.2007 by S.I. 2007/935, art. 5(f)
+
+I31 S. 27(7) in force at 25.5.2007 by S.I. 2007/935, art. 7(f)
+
+### General
+
+#### 28 Restriction on establishment, alteration or discontinuance of schools
+
+- Except in pursuance of proposals falling to be implemented under this Part F34 ...-
+
+(a) no maintained school may be established or discontinued;
+
+(b) no prescribed alteration may be made to a maintained school.
+
+- In subsection (1)(b) 'prescribed alteration', in relation to a maintained school, means an alteration prescribed under section 18.
+
+- Subsection (1) has effect subject to-
+
+(a) sections 17(5) and 68(4) (which relate to powers of the Secretary of State to require a maintained school to be discontinued), F35 ...
+
+(b) section  30(9)  of  SSFA  1998  (notice  by  governing  body  to  discontinue foundation or voluntary school) [ F36 , and
+
+(c) section 6(2) of the Academies Act 2010 (requirement to cease to maintain school in respect of which Academy order has effect). ]
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+29
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Except  in  pursuance  of  proposals  falling  to  be  implemented  under  section  27,  no alteration  falling  within  section  25(4)(a)  or  (b)  may  be  made  to  a  foundation  or foundation special school.
+
+##### Textual Amendments
+- F34 Words in s. 28(1) repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a)(b), Sch. 1 para. 59, Sch. 2 Pt. 1 (with art. 2(3)) F35 Word in s. 28(3) omitted (29.7.2010) by virtue of Academies Act 2010 (c. 32), s. 19(2), Sch. 2 para. 20 ; S.I. 2010/1937, art. 2, Sch. 1 F36 S. 28(3)(c) and word inserted (29.7.2010) by Academies Act 2010 (c. 32), s. 19(2), Sch. 2 para. 20 ; S.I. 2010/1937, art. 2, Sch. 1
+##### Commencement Information
+I32 S. 28 in force at 25.5.2007 by S.I. 2007/935, art. 7(g)
+
+#### 29 Abolition of school organisation committees
+
+Section 24 of, and Schedule 4 to, SSFA 1998 (which require [ F1 local authorities ] in England to establish a school organisation committee for their area) cease to have effect.
+
+##### Textual Amendments
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+##### Commencement Information
+
+I33 S. 29 in force at 25.5.2007 by S.I. 2007/935, art. 7(g)
+
+#### 30 Amendments relating to school organisation
+
+Schedule 3 contains amendments relating to school organisation.
+
+##### Commencement Information
+I34 S. 30 in force at 25.5.2007 by S.I. 2007/935, art. 7(g)
+
+#### 31 Transitional provisions
+
+- The Secretary of State may by regulations make such transitional provision as he considers appropriate in connection with the commencement of this Part.
+
+- Regulations under this section may, in particular, make provision with respect to-
+
+(a) the determination or implementation of proposals made under the previous enactments,
+
+(b) references made to school organisation committees or adjudicators under the previous enactments.
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
+30
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 2 - Establishment, discontinuance or alteration of schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- This section does not limit the powers conferred by section 183.
+
+- In this section 'the previous enactments' means-
+
+(a) sections 28, 28A, 29, 31 and 35 of, and Schedules 6 and 8 to, SSFA 1998 (establishment, alteration, discontinuance or change of category of schools) so far as applying to England, and
+
+(b) sections 66 and 67 of, and Schedules 10 and 11 to, EA 2005.
+
+##### Commencement Information
+
+I35 S. 31 in force at 1.4.2007 by S.I. 2007/935, art. 5(g)
+
+#### 32 Interpretation of Part 2
+
+- In this Part, except where the contrary intention appears-
+
+'adjudicator' is to be read in accordance with section 25(3) of SSFA 1998;
+
+'discontinue', in relation to a maintained school, is to be read in accordance with section 15(8);
+
+'foundation', in relation to a foundation or voluntary school, has (subject to sections 25(8) and 27(8)) the meaning given by section 21(3) of SSFA 1998;
+
+' [ F1 local authority ] ', in relation to a school maintained (or proposed to be maintained) by a [ F1 local authority ] , means that authority;
+
+'maintain', in relation to a maintained school, has the same meaning as in SSFA 1998;
+
+'maintained school' means any of the following schools in England-
+
+(a) a community, foundation or voluntary school,
+
+(b) a community or foundation special school, or
+
+(c) a maintained nursery school;
+
+'prescribed' means prescribed by regulations;
+
+'regulations' means regulations made under this Part by the Secretary of State.
+
+- For the purposes of this Part, a foundation or voluntary school has a religious character if it is designated by order under section 69(3) of SSFA 1998 as a school having such a character.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+I36 S. 32 in force at 1.4.2007 by S.I. 2007/935, art. 5(g)
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
+Education and Inspections Act 2006 (c. 40) Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+31
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+## PART 3
+
+### FURTHER PROVISIONS ABOUT MAINTAINED SCHOOLS
+
+### Foundation, voluntary and foundation special schools
+
+#### 33 Requirements as to foundations
+
+- After section 23 of SSFA 1998 insert-
+
+##### ' 23A Foundation and foundation special schools: requirements as to foundations
+
+- This section applies to any foundation or foundation special school having a foundation if any one or more of the following conditions is met.
+
+- Condition A is that the school was established as a foundation or foundation special  school  in  pursuance  of  proposals  falling  to  be  implemented  under Schedule 2 to the Education and Inspections Act 2006.
+
+- Condition B is that the school-
+
+(a) acquired its foundation, or
+
+(b) became a school whose instrument of government provides for the majority of governors to be foundation governors,
+
+in pursuance of proposals falling to be implemented under regulations under section 24 of that Act.
+
+- Condition C is that the school changed category from voluntary aided school to  foundation  school  in  pursuance  of  proposals  falling  to  be  implemented under  regulations  under  section  24  of  that  Act  and  has  an  instrument of  government  providing  for  the  majority  of  governors  to  be  foundation governors.
+
+- No institution may act as the foundation of a school to which this section applies unless-
+
+(a) it is a body corporate of a prescribed description,
+
+(b) it is a charity (whether by virtue of section 23(3) or otherwise), and
+
+(c) it has as its purpose, or one of its purposes, the advancement of the education of pupils at the school or schools in respect of which it acts as the foundation.
+
+- The foundation of a school to which this section applies shall, in carrying out its functions in relation to the school, promote community cohesion.
+
+- Where any members of the foundation are to be local authorities or persons appointed  by  local  authorities,  the  proportion  of  voting  rights  exercisable by  such  members  must  not  exceed  20  per  cent.  of  the  total  voting  rights exercisable by members.
+
+- Where  any  of  the  charity  trustees  in  relation  to  the  foundation  are  to  be appointed by local authorities-
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
+32
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) the  proportion  of  the  charity  trustees  who  are  appointed  by  local authorities must not exceed 20 per cent. of the total number of charity trustees, and
+
+(b) the voting rights exercisable by the charity trustees who are appointed by local authorities must not exceed 20 per cent. of the total voting rights exercisable by charity trustees.
+
+- Regulations may disqualify persons from acting as charity trustee in relation to a school to which this section applies.
+
+- In this section and section 23B-
+
+'charity' has the same meaning as in the Charities Act 1993;
+
+'charity  trustee',  in  relation  to  a  school  to  which  this  section applies, means any individual who is for the purposes of the Charities Act 1993 a charity trustee in relation to the school's foundation;
+
+'foundation' means a foundation established otherwise than under this Act;
+
+'institution' has the same meaning as in the Charities Act 1993; 'purpose' includes object.
+
+##### 23B Powers of Secretary of State in relation to charity trustees of foundations
+
+- Regulations may make provision enabling the Secretary of State in prescribed cases by direction-
+
+(a) to remove any charity trustee of a school to which section 23A applies, even though the person is not disqualified by virtue of subsection (9) of that section;
+
+(b) to appoint a person to be a charity trustee of such a school (whether in place of a trustee removed by him under paragraph (a) or otherwise).
+
+- Regulations under subsection (1) may make provision as to the effect of a direction given by the Secretary of State under the regulations, and may in particular provide for any such direction to have the same effect as an order of the Charity Commission for England and Wales under section 18 of the Charities Act 1993 for the removal or appointment of a charity trustee.
+
+- Nothing  in  this  section  affects  the  powers  of  the  Charity  Commission  for England and Wales under any enactment.'
+
+- In relation to any time before the commencement of section 1A(1) of the Charities Act 1993 (c. 10) (which provides for the establishment of the Charity Commission for England and Wales as a body corporate), any reference in section 23B of SSFA 1998 (as inserted by subsection (1) of this section) to the Charity Commission for England and Wales is to be read as a reference to the Charity Commissioners for England and Wales.
+
+##### Commencement Information
+I37 S. 33 in force at 1.4.2007 for specified purposes by S.I. 2007/935, art. 5(h)
+
+I38 S. 33 in force at 25.5.2007 in so far as not already in force by S.I. 2007/935, art. 7(h)
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+33
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 34 Parent councils for certain foundation or foundation special schools
+
+After section 23 of EA 2002 insert-
+
+##### ' 23A Parent councils
+
+- A school is for the purposes of this section a 'qualifying school' if-
+
+(a) it is a foundation or foundation special school in England,
+
+(b) it  has  a  foundation  established  otherwise  than  under  the  School Standards and Framework Act 1998, and
+
+(c) the instrument of government for the school provides that the majority of governors are to be foundation governors.
+
+- The governing body of any qualifying school must establish in accordance with regulations a body to be known as a parent council.
+
+- The purpose of a parent council is to advise the governing body on matters relating to the conduct of the school and the exercise by the governing body of their powers under section 27.
+
+- Regulations may make provision as to-
+
+(a) the person or persons by whom, and the manner in which, members of a parent council are to be elected or appointed,
+
+(b) eligibility for election or appointment,
+
+(c) the duration of membership, and
+
+(d) meetings and proceedings of a parent council.
+
+- Regulations-
+
+(a) must require the majority of members of a parent council to be parent members, and
+
+(b) may enable a person who is not the parent of a registered  pupil  to be a member of a parent council if appointed in accordance with the regulations by the parent members.
+
+- Regulations may confer functions relating to parent councils on the governing bodies of qualifying schools.
+
+- The governing body of a qualifying school must, in exercising their functions under this section with respect to the school's parent council, have regard to any guidance given from time to time by the Secretary of State.
+
+- The reference in subsection (1)(b) to a foundation is to be read in accordance with section 21 of the School Standards and Framework Act 1998.
+
+- In this section 'parent member', in relation to a parent council, means a member of the council who is the parent of a registered pupil at the school.'
+
+##### Commencement Information
+
+I39 S. 34 in force at 25.5.2007 by S.I. 2007/935, art. 7(i)
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
+34
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 35 Funding of voluntary aided schools: meaning of 'capital expenditure'
+
+- Part 2 of Schedule 3 to SSFA 1998 (funding of voluntary aided schools) is amended as follows.
+
+- In  paragraph  3,  as  it  applies  in  relation  to  England,  omit  sub-paragraph  (3)  (the definition of 'capital expenditure' for the purposes of the Schedule).
+
+- After paragraph 9 insert-
+
+##### 9A ' Meaning of 'capital expenditure'
+
+- This  paragraph  applies  for  the  purposes  of  this  Schedule  as  it  applies  in relation to England.
+
+- Subject to sub-paragraphs (3) and (4), references in this Schedule to capital expenditure, in relation to an appropriate body or the promoters, in the case of a voluntary aided school, are references to-
+
+(a) expenditure of the body or, as the case may be, the promoters which falls to be capitalised in accordance with proper accounting practices, or
+
+(b) expenditure  which  would  fall  to  be  so  capitalised  were  it  to  be incurred by the body or, as the case may be, the promoters.
+
+- The Secretary of State may by regulations prescribe classes or descriptions of expenditure which are to be treated for the purposes of this Schedule as being, or as not being, capital expenditure in relation to-
+
+(a) any  appropriate  body,  or  any  prescribed  class  or  description  of appropriate body;
+
+(b) any promoters, or any prescribed class or description of promoters.
+
+(4) The Secretary of State may by direction provide that, in the case of a particular voluntary aided school-
+
+(a) expenditure of a particular appropriate body which is expenditure of a particular class or description;
+
+(b) expenditure  of  particular  promoters  which  is  expenditure  of  a particular class or description,
+
+is to be treated for the purposes of this Schedule as being, or as not being, capital  expenditure  in  relation  to  that  body,  or  as  the  case  may  be,  those promoters.
+
+- Directions  under  sub-paragraph  (4)  may  be  expressed  to  have  effect  in specified circumstances or subject to specified conditions.
+
+- In  this  paragraph  an  'appropriate  body',  in  the  case  of  a  voluntary  aided school, means-
+
+(a) the governing body of the school, or
+
+(b) a  relevant  body  in  relation  to  the  school  (within  the  meaning  of paragraph 5).
+
+##### 9B
+- (1) For the purposes of paragraph 9A, 'proper accounting practices', in relation to an appropriate body or the promoters, in the case of a voluntary aided school, means those accounting practices-
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+35
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) which, whether by virtue of any enactment or by reference to any generally  recognised  published  code  or  otherwise,  are  regarded  as proper accounting practices to be followed in the keeping of accounts by the appropriate body, or as the case may be, the promoters, or
+
+(b) which, whether by virtue of any enactment or by reference to any generally  recognised  published  code  or  otherwise,  are  regarded  as proper accounting practices to be followed in the keeping of accounts by the [ F1 local authority ] .
+
+- In  the  event  of  conflict  between  the  accounting  practices  falling  within paragraph (a) of sub-paragraph (1) and those falling within paragraph (b) of that sub-paragraph, only those falling within paragraph (a) are to be regarded as proper accounting practices.
+
+- In  this  paragraph  an  'appropriate  body',  in  the  case  of  a  voluntary  aided school, has the same meaning as in paragraph 9A.'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+I40 S. 35 in force at 1.4.2007 for specified purposes by S.I. 2007/935, art. 5(i)
+
+I41 S. 35 in force at 25.5.2007 in so far as not already in force by S.I. 2007/935, art. 7(j)
+
+#### 36 Disposals and changes of use of land
+
+Schedule 4 contains amendments of-
+
+(a) Schedule 22 to SSFA 1998 (disposals of land by foundation, voluntary or foundation special schools and disposals on discontinuance), and
+
+(b) section 77 of that Act (control of disposals or changes of use of school playing fields in relation to England),
+
+and amendments which are consequential to those amendments.
+
+##### Commencement Information
+
+I42 S. 36 in force at 25.5.2007 by S.I. 2007/935, art. 7(k)
+
+#### 37 Staff at foundation or voluntary schools with religious character
+
+- In section 58 of SSFA 1998 (appointment and dismissal of certain teachers at schools with a religious character), omit subsection (4) (which prevents the head teacher of a foundation or voluntary controlled school being a reserved teacher).
+
+- In section 60 of SSFA 1998 (staff at foundation or voluntary school with religious character)-
+
+(a) in subsection (4), after '(whether foundation or voluntary controlled)' insert ' in a case where the head teacher is not to be a reserved teacher ', and
+
+(b) in subsection (6), after 'voluntary aided school' insert ' in Wales '.
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
+36
+
+Education and Inspections Act 2006 (c. 40) Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+- I43 S. 37 in force at 1.9.2008 for E. by S.I. 2008/1971, art. 2(a) (with art. 3) I44 S. 37(1)(2)(a) in force at 30.6.2008 for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1
+
+### General duties of governing body
+
+#### 38 General duties of governing body of maintained school
+
+- In  section  21  of  EA  2002  (general  responsibility  for  conduct  of  school)  after subsection (4) insert-
+
+'(5) The  governing  body  of  a  maintained  school  shall,  in  discharging  their functions relating to the conduct of the school-
+
+(a) promote the well-being of pupils at the school, and
+
+(b) in the case of a school in England, promote community cohesion.
+
+- The  governing  body  of  a  maintained  school  shall,  in  discharging  those functions, have regard to any relevant children and young people's plan.
+
+- In discharging those functions, the governing body of a maintained school in England shall also have regard to any views expressed by parents of registered pupils.
+
+- In this section 'well-being'-
+
+(a) in relation to a pupils at a school in England, means their well-being so  far  as  relating  to  the  matters  mentioned  in  section  10(2)  of  the Children Act 2004, and
+
+(b) in relation to pupils at a school in Wales, means their well-being so far as relating to the matters mentioned in section 25(2) of that Act.
+
+- In this section 'relevant children and young people's plan' means-
+
+(a) in relation to a school in England-
+
+(i) any plan published by the [ F1 local authority ] under section 17 of the Children Act 2004 (children and young people's plans: England), or
+
+(ii) in  a  case  where  the [ F1 local  authority ] are  not  required  by regulations under that section to prepare and publish a plan, any  plan  which  is  published  by  the  authority  and  sets  out their  strategy  for  discharging  their  functions  in  relation  to children and relevant young persons within the meaning of that section, and
+
+(b) in relation to a school in Wales-
+
+(i) any plan published by the [ F1 local authority ] under section 26 of the Children Act 2004 (children and young people's plans: Wales), or
+
+(ii) in  a  case  where  the [ F1 local  authority ] are  not  required  by regulations under that section to prepare and publish a plan, any  plan  which  is  published  by  the  authority  and  sets  out their  strategy  for  discharging  their  functions  in  relation  to
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+37
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+children and relevant young persons within the meaning of that section.'
+
+- In section 28 of that Act (limit on power to provide community facilities etc.), after subsection (4) insert-
+
+'(4A) In  exercising  the  power  under  section  27(1),  the  governing  body  of  a maintained  school  shall  have  regard  to  any  relevant  children  and  young people's plan.
+
+(4B) In  subsection  (4A)  'relevant  children  and  young  people's  plan'  has  the meaning given by section 21(9).
+
+(4C) In  exercising  the  power  under  section  27(1),  the  governing  body  of  a maintained school in England shall also have regard to any views expressed by parents of registered pupils in circumstances where subsection (4)(a)(iii) does not apply.'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+- I45 S. 38 in force at 1.9.2008 for W. by S.I. 2008/1429, art. 3(3), Sch. Pt. 3
+
+- I46 S. 38(1) in force at 25.5.2007 for specified purposes for E. by S.I. 2007/1271, art. 2
+
+- I47 S. 38(1) in force at 1.9.2007 for E. in force in so far as not already in force by S.I. 2007/1801, art. 3(a)
+
+- I48 S. 38(2) in force at 25.5.2007 for E. by S.I. 2007/1271, art. 3
+
+### School admissions
+
+#### 39 General restriction on selection by ability
+
+- No admission arrangements for a community, foundation or voluntary school may make provision for selection by ability unless-
+
+(a) they  make  provision  for  one  of  the  permitted  forms  of  such  selection mentioned in section 99(2) of SSFA 1998, or
+
+(b) the school is a grammar school.
+
+- For the purposes of subsection (1) a school's admission arrangements make provision for selection by ability if they make provision for all or any of the pupils who are to be admitted to the school in any relevant age group to be so admitted by reference to ability.
+
+- In this section-
+
+'ability' means either general ability or ability in any particular subject or subjects;
+
+'admission arrangements' has the meaning given by section 88(2) of SSFA 1998;
+
+'grammar school' has the meaning given by section 104(7) of SSFA 1998;
+
+'relevant age group' has the meaning given by section 142(1) of SSFA 1998.
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
+38
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In section 99 of SSFA 1998-
+
+(a) omit subsection (1) (which is re-enacted as subsection (1) of this section), and
+
+(b) in subsection (2) after 'are' insert ' for the purposes of section 39(1) of the Education and Inspections Act 2006 '.
+
+##### Commencement Information
+I49 S. 39 in force at 27.2.2007 for E. by S.I. 2006/3400, art. 6(b) I50 S. 39 in force at 30.6.2008 for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1
+
+#### 40 Code for school admissions
+
+- Section 84 of SSFA 1998 (code of practice) is amended in accordance with subsections (2) to (7).
+
+- In subsection (1)-
+
+(a) for 'a code of practice containing such practical guidance' substitute ' a code for school admissions containing such provision ', and
+
+(b) after paragraph (b) insert-
+
+'(ba) admission forums,'.
+
+- In subsection (2), for the words from 'include' to 'other matters' substitute ' impose requirements,  and  may  include  guidelines  setting  out  aims,  objectives  and  other matters, '.
+
+- In subsection (3), for 'to have regard to' substitute ' to act in accordance with '.
+
+- In subsection (5), omit 'of practice' (in each place where it occurs).
+
+- In subsection (6), after the definitions of 'admission arrangements' and 'the admission authority' insert-
+
+''admission  forum'  means  a  forum  established  under  section  85A, including a joint admission forum established in pursuance of regulations under subsection (3)(c) of that section;'.
+
+- In the heading, and in the italic cross-heading immediately before section 84, for 'of practice' substitute ' for school admissions '.
+
+- In section 85 of SSFA 1998 (making and approval of code of practice)-
+
+(a) in subsection (1) omit 'of practice', and
+
+(b) for  the  heading  substitute  '  Making  and  approval  of  code  for  school admissions '.
+
+- In  relation  to  a  code  for  school  admissions  issued  under  section  84(1)  of  SSFA 1998 after the passing of this Act, the requirement to consult which is imposed by section 85(2) of SSFA 1998 may be satisfied by consultation undertaken before the passing of this Act, even though the code takes account (to any extent) of any provision made by this Act.
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+39
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+- I51 S. 40 in force at 12.12.2006 for E. by S.I. 2006/2990, art. 2(a) (with arts. 3, 4) (as amended (17.1.2008) by S.I. 2008/54, arts. 1(1), 2)
+
+- I52 S. 40 in force at 1.9.2008 for W. by S.I. 2008/1429, art. 3(3), Sch. Pt. 3 (with art. 4)
+
+#### 41 Role of admission forums
+
+F37
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F37 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F37 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F37 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F37 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F37 (6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- In section 89 (procedure for determining admission arrangements) for subsection (10) substitute-
+
+'(10) In this section, 'the appropriate bodies', in relation to an admission authority, means-
+
+(a) the  bodies  or  persons  whom  they  were  required  to  consult  under subsection (2), or would but for subsection (2A) have been required to consult, and
+
+(b) in  the  case  of  an  admission  authority  for  a  maintained  school  in England, the admission forum for the area of the [ F1 local authority ] in which the school is situated.'
+
+- In section 90 (reference of objections to adjudicator or Secretary of State)-
+
+(a) in subsection (1) for paragraph (b) substitute-
+
+'(b) an appropriate body wishes to make an objection about those arrangements, and', and
+
+(b) after subsection (10) insert-
+
+'(11) In this section, 'appropriate body' means, in relation to the admission arrangements determined by an admission authority-
+
+(a) any  body  or  person  whom  the  admission  authority  were required  to  consult  under  subsection  (2)  of  section  89,  or would  but  for  subsection  (2A)  of  that  section  have  been required to consult, and
+
+(b) in  the  case  of  admission  arrangements  determined  by  an admission authority for a maintained school in England, the admission  forum  for  the  area  of  the [ F1 local  authority ] in which the school is situated.'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
+40
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+F37 S. 41(1)-(6) omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 10 para. 3 ; S.I. 2012/84, art. 3
+##### Commencement Information
+I53 S. 41 in force at 27.2.2007 by S.I. 2006/3400, art. 7(a)
+
+#### 42 Support for parental preferences
+
+In section 86 of SSFA 1998 (parental preferences) after subsection (1) insert-
+
+'(1A) A [ F1 local authority ] in England shall provide advice and assistance to parents of  children  in  the  area  of  the  authority  in  connection  with  the  preferences expressed or to be expressed by them in accordance with the arrangements made under subsection (1).'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+I54 S. 42 in force at 27.2.2007 by S.I. 2006/3400, art. 7(b)
+
+#### 43 Duty of governing body to implement decisions relating to admissions
+
+- In section 88 of SSFA 1998 (admission authorities and admission arrangements), after subsection (1) insert-
+
+'(1A) Where  the  admission  authority  for  a  community  or  voluntary  controlled school  is  the [ F1 local  authority ] ,  it  is  the  duty  of  the  governing  body  to implement any decision relating to the admission of pupils to the school which is taken by or on behalf of the admission authority.
+
+(1B) Subsection (1A) does not affect-
+
+(a) any right of appeal which the governing body may have by virtue of arrangements made in pursuance of section 95(2) (appeals in relation to  children to whom section 87(2) applies, other than looked after children in England),
+
+(b) any right to refer the matter to the adjudicator which the governing body  may  have  by  virtue  of  section  95A(3)  (references  to  the adjudicator in relation to looked after children in England to whom section 87(2) applies), or
+
+(c) the application of section 101(2A) or section 109(2).'
+
+- In section 86(2) of SSFA 1998 (duty to comply with parental preference) for 'a [ F1 local authority ] and the governing body of a maintained school' substitute ' the admission authority for a maintained school '.
+
+- In section 89C of SSFA 1998 (co-ordinated schemes for admission arrangements)-
+
+(a) in  subsection  (3)  for  'by  virtue  of  this  section'  substitute  '  by  virtue  of section 89B ', and
+
+(b) after subsection (3) insert-
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+41
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+'(3A) Where any decision as to whether a child is to be granted or refused admission to a maintained school is (by virtue of regulations under subsection  (3))  made  by  the [ F1 local  authority ] although  they  are not the admission authority, the governing body of the school must implement the decision.'
+
+- In  section  94(1)  of  SSFA  1998  (responsibility  of  local  authority  to  make  appeal arrangements) in paragraph (b) for the words from the beginning to 'the authority' substitute ' in a case where the governing body of a community or voluntary controlled school maintained by the authority are the admission authority '.
+
+##### Textual Amendments
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+I55 S. 43 in force at 8.1.2007 for E. by S.I. 2006/3400, art. 2(a) I56 S. 43 in force at 30.6.2008 for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1
+
+#### 44 Prohibition on interviews
+
+After section 88 of SSFA 1998 insert-
+
+##### ' 88A Prohibition on interviews
+
+- No admission arrangements for a maintained school may require or authorise any interview with an applicant for admission to the school or his parents, where the interview is to be taken into account (to any extent) in determining whether the applicant is to be admitted to the school.
+
+- If the maintained school is one at which boarding accommodation is provided for pupils, subsection (1) does not apply in relation to any interview intended to assess the suitability of an applicant for a boarding place.
+
+- Where the admission arrangements for a maintained school make provision for a permitted form of selection by aptitude, subsection (1) does not prevent the arrangements from requiring or authorising any audition or other oral or practical test to be carried out in relation to an applicant solely for the purpose of ascertaining the applicant's aptitude in accordance with the arrangements.
+
+- In  this  section,  'permitted  form  of  selection  by  aptitude'  is  to  be  read  in accordance with section 99(4).'
+
+##### Commencement Information
+I57 S. 44 in force at 27.2.2007 for E. by S.I. 2006/3400, art. 6(c) I58 S. 44 in force at 30.6.2008 for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
+42
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 45 Admission arrangements for schools with religious character: consultation and objections
+
+In section 89 of SSFA 1998 (procedure for determining admission arrangements) in subsection (2)-
+
+(a) omit the 'and' at the end of paragraph (c), and
+
+(b) after paragraph (d) insert 'and
+
+(e) in the case of a foundation or voluntary school which has a religious character for the purposes of Part 2, such body or person representing the religion or religious denomination in question as may be prescribed.'
+
+##### Commencement Information
+I59 S. 45 in force at 8.1.2007 for E. by S.I. 2006/3400, art. 2(b) I60 S. 45 in force at 30.6.2008 for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1
+
+#### F38 46 Restrictions on alteration of admission arrangements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F38 S. 46 repealed (26.1.2009) by Education and Skills Act 2008 (c. 25), s. 173(4), Sch. 2 ; S.I. 2008/3077, art. 4(h)(vii)
+##### Commencement Information
+
+I61 S. 46 in force at 27.2.2007 by S.I. 2006/3400, art. 7(c)
+
+#### 47 Objections to admission arrangements
+
+- Section 90 of SSFA 1998 (reference of objections to adjudicator or Secretary of State) is amended as follows.
+
+- After subsection (5) insert-
+
+'(5A) Where  the  adjudicator  or  the  Secretary  of  State  is  required  by  virtue  of subsection (3)(a) or (b) or (5)(c) to decide whether to uphold an objection to admission arrangements, he may consider whether it would be appropriate for changes to be made to any aspect of the admission arrangements, whether or not he would be required to do so for the purpose of determining the objection.
+
+(5B) In the case of any objection referred to him under this section, the adjudicator or the Secretary of State (as the case may be) must publish a report containing the following-
+
+(a) his decision on the objection,
+
+(b) any decision he has made on whether it would be appropriate for changes to be made to the admission arrangements, whether in the light of his decision on the objection or otherwise,
+
+(c) if,  in  relation to a maintained school in England, he considers that any  change  required  ought  not  to  be  protected  under  section  90A
+
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+43
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- for the number of school years prescribed under section 90A(2), that section 90A is not to apply to that change or that the change will be protected only for such lesser number of school years as he may specify, and
+
+(d) his reasons for the decisions mentioned in paragraphs (a) to (c).
+
+(5C) Where the adjudicator or the Secretary of State (as the case may be) decides that  it  would  be  appropriate  for  changes  to  be  made  to  the  admission arrangements, his decision may specify the modifications that are to be made to the arrangements.'
+
+- Subsections (6) and (7) are omitted.
+
+- For subsection (8) substitute-
+
+'(8) The  decisions  of  the  adjudicator  or  the  Secretary  of  State  mentioned  in subsection (5B)(a) and (b) shall, in relation to the admission arrangements in question, be binding on the admission authority and on all persons by whom an objection may be made under subsection (1) or (2); and, if the adjudicator or the Secretary of State has decided that it would be appropriate for changes to be made to the admission arrangements, those arrangements shall forthwith be revised by the admission authority in such a way as to give effect to the decision.'
+
+(b) in paragraph (c) for 'any matters required to be published under subsection (7) are' substitute ' a report required to be published under subsection (5B) is '.
+
+- Omit subsection (10) (which has the effect of requiring certain cases to be referred by the adjudicator to the Secretary of State).
+
+##### Textual Amendments
+F39 S. 47(5)(a) repealed (26.1.2009) by Education and Skills Act 2008 (c. 25), s. 173(4), Sch. 2 ; S.I. 2008/3077, art. 4(h)(vii)
+##### Commencement Information
+I62 S. 47 in force at 27.2.2007 for E. by S.I. 2006/3400, art. 6(d) I63 S. 47 in force at 30.6.2008 for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1
+
+- In subsection (9)-
+
+- F39 (a)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 48 Looked after children to whom section 87(2) of SSFA 1998 applies
+
+- In  section  95  of  SSFA  1998  (appeals  relating  to  children  to  whom  section  87(2) applies) after subsection (2) insert-
+
+'(2A) Subsection (2) does not apply in relation to a decision made by or on behalf of a [ F1 local authority ] in England to admit to a school a child who is looked after by a local authority in England (provision for references to the adjudicator in relation to such a decision being made by section 95A).'
+
+- After that section insert-
+
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
+44
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### ' 95A References relating to looked after children to whom section 87(2) applies
+
+- This section applies where-
+
+(a) a [ F1 local  authority ] in  England  are  the  admission  authority  for  a community or voluntary controlled school, and
+
+(b) a decision is made by or on behalf of the authority to admit to the school a child who, at the time when the decision is made, is looked after  by  a  local  authority  in  England  and  to  whom  (at  that  time) section 87(2) applies.
+
+- The [ F1 local authority ] must give notice of the decision to the governing body of the school.
+
+- The  governing  body  of  the  school  may,  within  the  period  of  seven  days beginning with the day on which they are notified of the decision, refer the matter to the adjudicator.
+
+- A reference under subsection (3) may only be made on the ground that the admission of the child to the school would seriously prejudice the provision of efficient education or the efficient use of resources.
+
+- If  the  adjudicator  determines  that  the  admission  of  the  child  to  the  school would have the effect mentioned in subsection (4)-
+
+(a) the decision to admit the child to the school shall cease to have effect, but
+
+(b) the  adjudicator  may  determine  that  another  maintained  school  in England is to be required to admit the child.
+
+- A  determination  under  subsection  (5)(b)  may  only  be  made  with  the agreement of the local authority who look after the child.
+
+- A determination under subsection (5)(b) may not be made if-
+
+(a) the child is permanently excluded from the other school, or
+
+(b) the  admission  of  the  child  to  the  other  school  would  seriously prejudice the provision of efficient education or the efficient use of resources.
+
+- If the adjudicator determines under subsection (5)(b) that another school is to be required to admit the child-
+
+(a) the  admission authority for the school shall admit the child to the school, and
+
+(b) if the admission authority are not the governing body of the school, the admission authority shall give notice in writing to the governing body and head teacher of the school of the adjudicator's decision.
+
+- Regulations may make provision-
+
+(a) requiring  the  adjudicator  to  consult  prescribed  persons  or  persons of  a  prescribed  description  before  making  any  determination  in connection with a reference under this section;
+
+(b) requiring an admission authority for a maintained school to provide information which-
+
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
+
+Education and Inspections Act 2006 (c. 40) Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+45
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(i) falls within a prescribed description, and
+
+(ii) is requested by the adjudicator for the purposes of any such determination.'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+I64 S. 48 in force at 8.1.2007 by S.I. 2006/3400, art. 3(a)
+
+#### 49 Procedure for giving directions under section 96 of SSFA 1998
+
+In section 97 of SSFA 1998 (procedure for giving directions under section 96)-
+
+(a) in subsection (2)(b)-
+
+(i) for 'the Secretary of State' (in both places where it occurs) substitute ' the appropriate authority ', and
+
+(ii) for 'his determination' substitute ' its determination ',
+
+(b) in  subsection  (3),  for  'the  Secretary  of  State'  substitute  '  the  appropriate authority ',
+
+(c) in subsection (4)-
+
+(i) for 'the Secretary of State' substitute ' the appropriate authority ',
+
+(ii) for 'if he does so' substitute ' if it does so ', and
+
+(iii) in  paragraph  (a)(ii)  for  'the  Secretary  of  State's'  substitute  '  the appropriate authority's ',
+
+(d) in subsection (5) for 'The Secretary of State' substitute ' The appropriate authority ', and
+
+(e) after subsection (6) insert-
+
+'(6A) In this section, 'the appropriate authority' means-
+
+(a) in relation to a [ F1 local authority ] in England, the adjudicator, and
+
+(b) in relation to a [ F1 local authority ] in Wales, the Assembly.'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+I65 S. 49 in force at 8.1.2007 by S.I. 2006/3400, art. 3(b)
+
+#### 50 Direction to admit looked after child to specified school
+
+- After section 97 of SSFA 1998 insert-
+
+[[END OF PAGE 45]]
+
+[[START OF PAGE 46]]
+
+46
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### ' 97A Direction to admit looked after child to specified school
+
+- A local authority in England may, in relation to a child looked after by them, give a direction under this section to the admission authority for any school in England other than a school for which the local authority are the admission authority.
+
+- A direction under this section shall not specify a school from which the child is permanently excluded.
+
+- Where a school is specified in a direction under this section, the admission authority shall admit the child to the school.
+
+- Subsection (3) does not affect any power to exclude from a school a pupil who is already a registered pupil there.
+
+##### 97B Procedure for giving direction under section 97A
+
+- Before deciding to give a direction under section 97A, the local authority shall consult the admission authority for the school they propose to specify in the direction.
+
+- The  admission  authority  for  the  school  shall,  within  the  period  of  seven days beginning with the day on which they are consulted as mentioned in subsection (1), inform the local authority whether they are willing to admit the child to the school without being directed to do so by the authority.
+
+- Where  the  local  authority  decide  to  give  a  direction  under  section  97A specifying a school-
+
+(a) they shall, before doing so, serve a notice in writing of their decision on-
+
+(i) the admission authority for the school,
+
+(ii) if the school is a community or voluntary controlled school and the governing body of the school are not the admission authority, the governing body of the school,
+
+(iii) if the school is maintained by a [ F1 local authority ] who are not the authority proposing to give the direction and are not the admission authority, the [ F1 local authority ] who maintain the school, and
+
+(iv) the head teacher of the school, and
+
+(b) they  shall  not  give  the  direction  until  the  period  for  referring  the matter to the adjudicator under subsection (4) has expired and, if it is  so  referred,  until  the  adjudicator  has  made  such  determinations under this section as it appears to him to be appropriate to make in connection with the reference.
+
+- The following persons-
+
+(a) the admission authority on whom  a  notice is served under subsection (3)(a)(i), and
+
+(b) in  the  case  of  a  notice  relating  to  a  child  to  whom  (at  the  time  of service of the notice) section 87(2) applies, the governing body of
+
+[[END OF PAGE 46]]
+
+[[START OF PAGE 47]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+47
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+a community or voluntary controlled school on whom the notice is served under subsection (3)(a)(ii), may, within the period of seven days beginning with the day on which the notice was served, refer the matter to the adjudicator and, if they do so, shall inform the local authority. (5) A reference under subsection (4) may only be made on the ground that the admission of the child to the school would seriously prejudice the provision of efficient education or the efficient use of resources. (6) If  the  adjudicator  determines  that  the  admission  of  the  child  to  the  school would have the effect mentioned in subsection (5)(a) the local authority may not give a direction under section 97A that the school admit the child, but (b) the adjudicator may determine that another school in England is to be required to admit the child. (7) A  determination  under  subsection  (6)(b)  may  only  be  made  with  the agreement of the local authority who look after the child. (8) A determination under subsection (6)(b) may not be made if(a) the child is permanently excluded from the other school, or (b) the  admission  of  the  child  to  the  other  school  would  seriously prejudice the provision of efficient education or the efficient use of resources. (9) If the adjudicator determines under subsection (6)(b) that another school is to be required to admit the child, then(a) if the local authority referred to in subsection (1) are the admission authority for that school they shall(i) admit the child to the school, and (ii) give notice in writing to the governing body and head teacher of the school of the adjudicator's decision, and (b) in any other case, the local authority shall specify that school in their direction under section 97A. (10) A direction under section 97A shall be given by notice in writing and a copy of the notice shall be given by the local authority to the head teacher of the school.' (2) In section 84 of SSFA 1998, after subsection (6) (which defines terms used in Chapter 1 of Part 3 of that Act) insert'(7) In this Chapter, references to a child who is looked after by a local authority are to be read in accordance with section 22(1) of the Children Act 1989.' F40 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (4) In section 143 of SSFA 1998 (index) after the entry relating to 'child (in Chapter 1 of Part 3 but not in sections 96 and 97)' insert- Status: This version of this Act contains provisions that are prospective.
+
+'child looked after by a local authority (in Chapter 1 of Part 3) section 84(7).'
+
+[[END OF PAGE 47]]
+
+[[START OF PAGE 48]]
+
+48
+
+Education and Inspections Act 2006 (c. 40) Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+
+- F1
+
+F40 S. 50(3) repealed (26.1.2009) by Education and Skills Act 2008 (c. 25), s. 173(4), Sch. 2 2008/3077, art. 4(h)(vii)
+
+- Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2) ; S.I.
+
+##### Commencement Information
+
+I66 S. 50 in force at 8.1.2007 by S.I. 2006/3400, art. 3(c)
+
+#### 51 Directions to admit child to specified school: supplementary provisions
+
+- In section 94 of SSFA 1998 (appeal arrangements: general), in subsection (1)(a) after 'section 96' insert ' or 97A '.
+
+- In section 96 of SSFA 1998 (direction to admit child to specified school)-
+
+(a) in  subsection  (3)  for  'the  Secretary  of  State'  substitute  '  the  appropriate authority (within the meaning of section 97) ', and
+
+(b) in subsection (8) for 'section 97' substitute ' sections 97 to 97C '.
+
+- After section 97B of SSFA 1998 (inserted by section 50) insert-
+
+##### ' 97C Determinations under section 97 or 97B: supplemental
+
+Regulations may make provision in relation to England-
+
+(a) requiring  the  adjudicator  to  consult  prescribed  persons  or  persons of  a  prescribed  description  before  making  any  determination  in connection with a reference under section 97 or 97B;
+
+(b) requiring an admission authority for a school to provide information which-
+
+(i) falls within a prescribed description, and
+
+(ii) is requested by the adjudicator for the purposes of any such determination.'
+
+##### Commencement Information
+
+I67 S. 51 in force at 8.1.2007 by S.I. 2006/3400, art. 3(d)
+
+#### 52 Power of Assembly to make regulations about looked after children
+
+- After section 97C of SSFA 1998 (inserted by section 51) insert-
+
+[[END OF PAGE 48]]
+
+[[START OF PAGE 49]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+49
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### 'Looked after children in Wales
+
+###### 97D Power of Assembly to make regulations about admission of looked after children
+
+- The Assembly may by regulations make provision about the admission of children looked after by local authorities in Wales ('looked after children') to maintained schools in Wales.
+
+- Regulations  under  subsection  (1)  may  include  provision  requiring  the admission authorities for such schools-
+
+(a) to  include  in  their  admission  arrangements such provision relating to  the  admission  of  looked  after  children  as  may  be  prescribed, which may in particular include provision for securing that, subject to prescribed exceptions, such children are to be offered admission in preference to other children;
+
+(b) to admit looked after children in prescribed circumstances, subject to prescribed exceptions.
+
+- Regulations  under  subsection  (1)  may  provide  that  any  of  the  preceding provisions of this Chapter-
+
+(a) shall not apply in relation to looked after children;
+
+(b) shall apply in relation to such children with prescribed modifications.'
+
+F41
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F41 S. 52(2) repealed (26.1.2009) by Education and Skills Act 2008 (c. 25), s. 173(4), Sch. 2 ; S.I. 2008/3077, art. 4(h)(vii)
+
+##### Commencement Information
+
+I68 S. 52 in force at 8.1.2007, see s. 188(2)
+
+#### 53 Schools with pre-1998 arrangements for selection by ability or aptitude
+
+- Section  100  of  SSFA  1998  (permitted  selection:  pre-existing  arrangements)  is amended as follows.
+
+- In subsection (1) for the words from 'so long as' to the end of the subsection substitute 'so long as-
+
+(a) the proportion of selective admissions in any relevant age group does not exceed the permitted proportion (as defined by subsection (1A)), and
+
+(b) there is no significant change in the basis of selection.'
+
+- After subsection (1) insert-
+
+'(1A) In subsection (1)(a), 'the permitted proportion', in relation to any relevant age group, means the lowest proportion of selective admissions provided for
+
+[[END OF PAGE 49]]
+
+[[START OF PAGE 50]]
+
+50
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+by the school's admission arrangements at any time since the beginning of the 1997-1998 school year.'
+
+##### Commencement Information
+I69 S. 53 in force at 27.2.2007 for E. by S.I. 2006/3400, art. 6(e) I70 S. 53 in force at 30.6.2008 for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1
+
+#### 54 Pupil banding
+
+- In section 101 of SSFA 1998 (permitted selection: pupil banding)-
+
+(a) in subsection (1)-
+
+(i) for 'subsections (2) to (4)' substitute ' subsections (2) and (2A) ', and
+
+(ii) after 'a maintained school' insert ' in England or Wales ',
+
+(b) after subsection (1) insert-
+
+'(1A) Subject to subsections (2) and (2A), the admission authority for a maintained school in England may make provision for selection by ability to the extent that the arrangements are designed to secure-
+
+(a) that  in  any  year  the  pupils  admitted  to  the  school  in  any relevant age group are representative of all levels of ability among such one of the following groups as the admission arrangements may specify ('the reference group')-
+
+(i) children  who  are  applicants  for  admission  in  that age group to any of two or more schools (including the  school  in  question)  in  the  area  of  the [ F1 local authority ] ,
+
+(ii) children in that age group who live in the area of the [ F1 local authority ] , or
+
+(iii) children in that age group who live in England, and
+
+(b) that  no  level  of  ability  is  substantially  over-represented or  substantially  under-represented  by  comparison  with  its representation in the reference group.',
+
+(c) in subsection (2) for 'Subsection (1)' substitute ' Subsection (1) or (1A) ',
+
+(d) after subsection (2) insert-
+
+'(2A) If the admission authority for a maintained school in England is the [ F1 local authority ] , the authority may only introduce such provision for selection by ability as is mentioned in subsection (1) or (1A) with the consent of the governing body of the school.',
+
+F42 (e)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) in subsection (4), for the words from the beginning to 'any school' substitute '  In  the  case  of  a  school  in  Wales,  admission  arrangements  to  which subsection (1) applies are not authorised ', and
+
+(g) in subsection (5), for 'subsection (1)' substitute ' subsection (1) or (1A) '.
+
+- In section 102 of SSFA 1998 (permitted selection: aptitude for particular subjects), in subsection (3), for 'section 101(1)' substitute ' section 101(1) or (1A) '.
+
+- In  section  103  of  SSFA  1998  (permitted  selection:  introduction,  variation  or abandonment of provision for such selection)-
+
+[[END OF PAGE 50]]
+
+[[START OF PAGE 51]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+51
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) in subsection (2) for 'constitutes a prescribed alteration for the purposes of section 28' substitute 'constitutes-
+
+(a) in relation to England, a prescribed alteration for the purposes of section 18 of the Education and Inspections Act 2006, and
+
+(b) in relation to Wales, a prescribed alteration for the purposes of section 28', and
+
+(b) in subsection (3) -
+
+(i) for 'section 101(1)' substitute ' section 101(1) or (1A) ', and
+
+(ii) for 'the objectives mentioned in section 101(1)(a) and (b)' substitute  '  the  objectives  mentioned  in  section  101(1)(a)  and  (b), section  101(1A)(a)(i)  and  (b),  section  101(1A)(a)(ii)  and  (b)  or section 101(1A)(a)(iii) and (b) '.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F42 S. 54(1)(e) omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(2) ; S.I. 2013/1800, art. 3(j)
+
+##### Commencement Information
+I71 S. 54(1)(2)(3)(b) in force at 8.1.2007 by S.I. 2006/3400, art. 3(e)
+
+I72 S. 54(3)(a) in force at 25.5.2007 by S.I. 2007/935, art. 7(l)
+
+### Miscellaneous
+
+#### 55 Right of sixth-form pupils to be excused from attendance at religious worship
+
+- Section 71 of SSFA 1998 (which, in relation to religious education and attendance at religious worship, makes provision for exceptions and special arrangements, and for special schools) is amended as follows.
+
+- For subsection (1) substitute-
+
+'(1) If the parent of a pupil at a community, foundation or voluntary school requests that he may be wholly or partly excused from receiving religious education given at the school in accordance with the school's basic curriculum, the pupil shall be so excused until the request is withdrawn.
+
+(1A) If the parent of any pupil at a community, foundation or voluntary school other than a sixth-form pupil requests that he may be wholly or partly excused from attendance at religious worship at the school, the pupil shall be so excused until the request is withdrawn.
+
+(1B) If a sixth-form pupil requests that he may be wholly or partly excused from attendance  at  religious  worship  at  a  community,  foundation  or  voluntary school, the pupil shall be so excused.'
+
+- In subsection (2), for 'subsection (1)' substitute ' subsections (1) to (1B) '.
+
+- In subsection (3), after 'subsection (1)' insert ' or (1A) '.
+
+- In subsection (5), after 'voluntary school' insert ' and is not a sixth-form pupil '.
+
+[[END OF PAGE 51]]
+
+[[START OF PAGE 52]]
+
+52
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 3 - Further provisions about maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- After subsection (5) insert-
+
+'(5A) Where a sixth-form pupil who is a boarder at a community, foundation or voluntary school requests that he be permitted-
+
+(a) to  receive  religious  education  in  accordance  with  the  tenets  of  a particular religion or religious denomination outside school hours, or
+
+(b) to attend worship in accordance with such tenets on Sundays or other days exclusively set apart for religious observance by the religious body to which the pupil belongs,
+
+the governing body shall make arrangements for giving the pupil reasonable opportunities for doing so.'
+
+- In subsection (6), after 'subsection (5)' insert ' or (5A) '.
+
+- For subsection (7) substitute-
+
+'(7) Regulations shall make provision for ensuring that, so far as practicable, every pupil attending a community or foundation special school-
+
+(a) receives religious education unless withdrawn from receiving such education in accordance with the wishes of his parent, and
+
+(b) attends religious worship unless withdrawn from attendance at such worship-
+
+(i) in the case of a sixth-form pupil, in accordance with his own wishes, and
+
+(ii) in  any  other  case,  in  accordance  with  the  wishes  of  his parent.'
+
+- After subsection (7) insert-
+
+'(8) In this section 'sixth-form pupil' means any pupil who-
+
+(a) has ceased to be of compulsory school age, and
+
+(b) is  receiving  education  suitable  to  the  requirements  of  pupils  over compulsory school age.'
+
+##### Commencement Information
+I73 S. 55 in force at 9.2.2009 for W. by S.I. 2009/49, art. 2 I74 S. 55(1)-(7) in force at 1.9.2007 for E. by S.I. 2007/1801, art. 3(b) I75 S. 55(8)(9) in force at 25.6.2007 for E. by S.I. 2007/1801, art. 2
+
+#### 56 Charges for music tuition
+
+- In  section  451  of  EA  1996 (prohibition of charges for provision of education) for subsection (3) substitute-
+
+'(3) Regulations may prescribe circumstances in which subsection (2) does not apply in relation to tuition in singing or in playing a musical instrument.'
+
+- In section 456 of EA 1996 (regulation of permitted charges), in subsection (6), after 'tuition in' insert ' singing or in '.
+
+[[END OF PAGE 52]]
+
+[[START OF PAGE 53]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+53
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I76 S. 56 in force at 25.5.2007 for E. by S.I. 2007/935, art. 6(b) (with transitional provisions and savings in S.I. 2007/1271, art. 5)
+
+#### 57 School funding
+
+Schedule 5 contains amendments of Chapter 4 of Part 2 of SSFA 1998 (financing of maintained schools).
+
+##### Commencement Information
+I77 S. 57 in force at 8.2.2007 for E. by S.I. 2006/3400, art. 4(a) I78 S. 57 in force at 15.3.2010 for specified purposes for W. by S.I. 2010/736, art. 2(a)
+
+I79 S. 57 in force at 2.4.2010 for W. in so far as not already in force by S.I. 2010/736, art. 3(a)
+
+#### F43 58 Removal of requirement to issue code of practice as to relationships between local authorities and maintained schools in England etc
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F43 S. 58 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 34(2) ; S.I. 2014/178, art. 2(g) (with art. 3)
+
+## PART 4
+
+### SCHOOLS CAUSING CONCERN: ENGLAND
+
+### Introduction
+
+#### 59 Meaning of 'maintained school' and 'eligible for intervention'
+
+- In this Part 'maintained school' means any of the following schools in England-
+
+(a) a community, foundation or voluntary school,
+
+(b) a community or foundation special school, or
+
+(c) a maintained nursery school.
+
+- In this Part, references to a school being 'eligible for intervention' are to be read in accordance with-
+
+section 60 ( [ F44 performance standards and safety warning notice ] ),
+
+[ F45 section 60A (teachers' pay and conditions warning notice), ]
+
+[ F46 section 60B (coasting schools), ]
+
+section 61 (school requiring significant improvement), and section 62 (school requiring special measures).
+
+[[END OF PAGE 53]]
+
+[[START OF PAGE 54]]
+
+54
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+
+- F44 Words in s. 59(2) substituted (12.1.2010) by virtue of Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 2(2) ; S.I. 2009/3317, art. 2, Sch.
+
+- F45 Words in s. 59(2) inserted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 2(3) ; S.I. 2009/3317, art. 2, Sch.
+
+- F46 Words in s. 59(2) inserted (5.9.2016 for specified purposes, 11.1.2017 in so far as not already in force) by Education and Adoption Act 2016 (c. 6), ss. 1(2) , 19(2); S.I. 2016/866, reg. 2; S.I. 2017/6, reg. 2(a)
+
+##### Commencement Information
+
+I80 S. 59 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+### Schools that are eligible for intervention
+
+#### 60 [ F47 Performance standards and safety warning notice]
+
+[ F48 (1) A maintained school is by virtue of this section eligible for intervention if-
+
+(a) a  relevant  authority  have  given  the  governing  body  a  warning  notice  in accordance with subsection (2),
+
+(b) the period for compliance specified in the notice ('the compliance period') has expired,
+
+(c) the governing body have failed to comply, or secure compliance, with the notice to the relevant authority's satisfaction by the end of the compliance period, and
+
+(d) the relevant authority have given reasonable notice in writing to the governing body that the authority proposes to exercise the authority's powers under any one or more of sections 63 to 69 (whether or not the notice is combined with a notice under section 62(2A)(c) of SSFA 1998). ]
+
+- A [ F49 relevant  authority ] may  give  a  warning  notice  to  the  governing  body  of  a maintained school where the authority are satisfied-
+
+(a) that the standards of performance of pupils at the school are unacceptably low, and are likely to remain so unless the authority exercise their powers under this Part, or
+
+(b) that there has been a serious breakdown in the way the school is managed or governed which is prejudicing, or likely to prejudice, such standards of performance, or
+
+(c) that  the  safety  of  pupils  or  staff  of  the  school  is  threatened  (whether  by  a breakdown of discipline or otherwise).
+
+- For the purposes of subsection (2)(a) the standards of performance of pupils at a school are low if they are low by reference to any one or more of the following-
+
+(a) the  standards  that  the  pupils  might  in  all  the  circumstances  reasonably  be expected to attain,
+
+(b) where relevant, the standards previously attained by them, or
+
+(c) the standards attained by pupils at comparable schools.
+
+- For  the  purposes  of  this  section  a  'warning  notice'  is  a  notice  in  writing  by  the [ F49 relevant authority ] setting out-
+
+(a) the matters on which the conclusion mentioned in subsection (2) is based,
+
+[[END OF PAGE 54]]
+
+[[START OF PAGE 55]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+55
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) the action which they require the governing body to take in order to remedy those matters,
+
+(c) [ F50 the compliance period for the purposes of subsection (1)(c), ] and
+
+(d) the action which the [ F49 relevant authority ] are minded to take (under one or more of sections 63 to [ F51 69 ] or otherwise) if the governing body fail to take the required action.
+
+[ F52 (4A) If a local authority are notified that the Secretary of State has given a warning notice to the governing body of a maintained school the local authority may not give a warning notice unless or until the Secretary of State informs them that they may.
+
+(4B) If the Secretary of State gives a warning notice to the governing body of a maintained school, any earlier warning notice given to the maintained school by the local authority ceases to have effect from that time. ]
+
+- The [ F49 relevant authority ] must, at the same time as giving the governing body the warning notice, give a copy of the notice to each of the following persons-
+
+(a) the Chief Inspector,
+
+(b) the head teacher of the school,
+
+(c) in the case of a Church of England school or a Roman Catholic Church school, the appropriate diocesan authority, and
+
+(d) in the case of a foundation or voluntary school, the person who appoints the foundation governors.
+
+[ F54 (6A) If a local authority give a warning notice to the governing body of a maintained school they must, at the same time, give a copy of it to the Secretary of State.
+
+(6B) If the Secretary of State gives a warning notice to the governing body of a maintained school the Secretary of State must, at the same time, give a copy of it to the local authority. ]
+
+[ F56 (10) In this section 'relevant authority' means-
+
+(a) the local authority, or
+
+(b) the Secretary of State. ]
+
+F53
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F55 (7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F55 (8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F55 (9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+- F47 S. 60 title substituted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 3 ; S.I. 2009/3317, art. 2, Sch.
+
+- F48 S. 60(1) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 2(2)(b) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1))
+
+- F49 Words in s. 60 substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 2(2)(a) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1))
+
+- F50 S. 60(4)(c) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 2(2)(c) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1))
+
+[[END OF PAGE 55]]
+
+[[START OF PAGE 56]]
+
+56
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+F51 Word in s. 60(4)(d) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 2(2)(d) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1)) F52 S. 60(4A)(4B) inserted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 2(2)(e) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1)) F53 S. 60(5) omitted (18.4.2016) by virtue of Education and Adoption Act 2016 (c. 6), ss. 2(2)(f) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1)) F54 S. 60(6A)(6B) inserted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 2(2)(g) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1)) F55 S. 60(7)-(9) omitted (18.4.2016) by virtue of Education and Adoption Act 2016 (c. 6), ss. 2(2)(h) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1)) F56 S. 60(10) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 2(2)(i) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1))
+##### Commencement Information
+I81 S. 60 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+#### [ F57 60A Teachers' pay and conditions warning notice
+
+[ F58 (1) A maintained school is by virtue of this section eligible for intervention if-
+
+(a) the  local  authority  have  given  the  governing  body  a  warning  notice  in accordance with subsection (2),
+
+(b) the period for compliance specified in the notice ('the compliance period') has expired,
+
+(c) the governing body have failed to comply, or secure compliance, with the notice to the local authority's satisfaction by the end of the compliance period, and
+
+(d) the local authority have given reasonable notice in writing to the governing body that the authority proposes to exercise the authority's powers under any one or more of sections 64 to 66. ]
+
+- A [ local authority ] may give a warning notice to the governing body of a maintained school where the authority are satisfied that-
+
+(a) the governing body have failed to comply with a provision of an order under section 122 of EA 2002 (teachers' pay and conditions) that applies to a teacher at the school, or
+
+(b) the governing body have failed to secure that the head teacher of the school complies with such a provision.
+
+- In  subsection  (2)  references  to  an  order  under  section  122  of  EA  2002  include  a document by reference to which provision is made in such an order.
+
+- For the purposes of this section a 'warning notice' is a notice in writing by the [ local authority ] setting out-
+
+(a) the matters on which the conclusion mentioned in subsection (2) is based,
+
+(b) the action which they require the governing body to take in order to remedy those matters,
+
+(c) [ F59 the compliance period for the purposes of subsection (1)(c), ] and
+
+(d) the action which the [ local authority ] are minded to take (under one or more of sections 64 to 66 or otherwise) if the governing body fail to take the required action.
+
+F60
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[END OF PAGE 56]]
+
+[[START OF PAGE 57]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+57
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The [ local authority ] must, at the same time as giving the governing body the warning notice, give a copy of the notice to each of the following persons-
+
+[ F61 (za) the Secretary of State,
+
+]
+
+(a) the head teacher of the school,
+
+(b) in the case of a Church of England school or a Roman Catholic Church school, the appropriate diocesan authority, and
+
+(c) in the case of a foundation or voluntary school, the person who appoints the foundation governors.
+
+- F62 (7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F62 (8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F62 (9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F62 (10) ] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+- F57 S. 60A inserted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 4 ; S.I. 2009/3317, art. 2, Sch.
+
+- F58 S. 60A(1) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 3(2)(a) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(2))
+
+- F59 S. 60A(4)(c) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 3(2)(b) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(2))
+
+- F60 S. 60A(5) omitted (18.4.2016) by virtue of Education and Adoption Act 2016 (c. 6), ss. 3(2)(c) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(2))
+
+- F61 S. 60A(6)(za) inserted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 3(2)(d) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(2))
+
+- F62 Ss. 60A(7)-(10) omitted (18.4.2016) by virtue of Education and Adoption Act 2016 (c. 6), ss. 3(2)(e) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(2))
+
+#### [ F63 60B Coasting schools
+
+- A maintained school is by virtue of this section eligible for intervention if-
+
+(a) the school is coasting, and
+
+(b) the Secretary of State has notified the governing body that it is coasting.
+
+- The Secretary of State may by regulations provide that this section does not apply in relation to a school of a description specified in the regulations.
+
+- The Secretary of State must by regulations define what 'coasting' means in relation to a school to which this section applies. ]
+
+##### Textual Amendments
+
+F63 S. 60B inserted (5.9.2016 for specified purposes, 11.1.2017 in so far as not already in force) by Education and Adoption Act 2016 (c. 6), ss. 1(3) , 19(2); S.I. 2016/866, reg. 2; S.I. 2017/6, reg. 2(a)
+
+[[END OF PAGE 57]]
+
+[[START OF PAGE 58]]
+
+58
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Modifications etc. (not altering text)
+
+C10 S. 60B excluded (11.1.2017) by The Coasting Schools (England) Regulations 2017 (S.I. 2017/9), regs. 1, 3(1)
+
+#### 61 School requiring significant improvement
+
+A maintained school is by virtue of this section eligible for intervention if-
+
+(a) following an inspection of the school under Chapter 1 of Part 1 of EA 2005, the Chief Inspector has given notice under section 13(3)(a) of that Act in a case falling within section 13(1)(b) of that Act (school requiring significant improvement), and
+
+(b) where any subsequent inspection of the school has been made under Chapter 1 of Part 1 of that Act, the notice has not been superseded by-
+
+(i) the  person  making  the  subsequent  inspection  making  a  report stating that in his opinion the school no longer requires significant improvement, or
+
+(ii) the  Chief  Inspector  giving  the  Secretary  of  State  a  notice  under section 13(3)(a) of that Act in a case falling within section 13(1)(a) of that Act (school requiring special measures).
+
+##### Modifications etc. (not altering text)
+
+C11 Ss. 61, 62 applied by S.I. 2007/2979, Sch. 1 para. 23C(1A) (as inserted (27.6.2016) by The Education (Pupil Referral Units) (Application of Enactments) (England) (Amendment) Regulations 2016 (S.I. 2016/608), regs. 1, 3(a) )
+
+##### Commencement Information
+
+I82 S. 61 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+#### 62 School requiring special measures
+
+A maintained school is by virtue of this section eligible for intervention if-
+
+(a) following an inspection of the school under Chapter 1 of Part 1 of EA 2005, the Chief Inspector has given notice under section 13(3)(a) of that Act in a case falling within section 13(1)(a) of that Act (school requiring special measures), and
+
+(b) where any subsequent inspection of the school has been made under Chapter 1 of Part 1 of that Act, the person making it did not state that in his opinion special measures were not required to be taken in relation to the school.
+
+##### Modifications etc. (not altering text)
+C11 Ss. 61, 62 applied by S.I. 2007/2979, Sch. 1 para. 23C(1A) (as inserted (27.6.2016) by The Education (Pupil Referral Units) (Application of Enactments) (England) (Amendment) Regulations 2016 (S.I. 2016/608), regs. 1, 3(a) )
+
+##### Commencement Information
+
+I83 S. 62 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+[[END OF PAGE 58]]
+
+[[START OF PAGE 59]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+59
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+### Intervention by [ F1 local authority ]
+
+#### 63 Power of [ F3 local authority] to require governing body to enter into arrangements
+
+- If at any time a maintained school is eligible for intervention [ F64 other than by virtue of section 60A ] , then (subject to subsection (3)) the [ F1 local authority ] may, with a view to improving the performance of the school, give the governing body of the school a notice requiring the governing body-
+
+(a) to enter into a contract or other arrangement with a specified person (who may be the governing body of another school) for the provision to the governing body of specified services of an advisory nature,
+
+(b) to  make  specified  arrangements  authorised  by  section  26  of  EA  2002 (collaboration between schools) with the governing body of such other school as may be specified,
+
+(c) to make specified arrangements authorised by regulations under section 166 of  this  Act  (collaboration  arrangements:  maintained  schools  and  further education bodies) with a further education body within the meaning of that section, or
+
+(d) to take specified steps for the purpose of creating or joining a federation, as defined by section 24(2) of EA 2002.
+
+- Before exercising the power conferred by subsection (1), the [ F1 local authority ] must consult-
+
+(a) the governing body of the school,
+
+(b) in  the  case  of  a  foundation  or  voluntary  school  which  is  a  Church  of England school or a Roman Catholic Church school, the appropriate diocesan authority, and
+
+(c) in the case of any other foundation or voluntary school, the person or persons by whom the foundation governors are appointed.
+
+- Where the school is eligible for intervention by virtue of section 60 (school subject to [ F65 performance standards and safety warning ] ), the power conferred by subsection (1) is  only  exercisable  within  the  period  of  two  months  following  the  end  of  the compliance period (as defined by [ F66 section 60(1)(b) ] ).
+
+- A notice under subsection (1)(a) may require the contract or other arrangement to contain specified terms and conditions.
+
+##### Textual Amendments
+F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3) F64 Words in s. 63(1) inserted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 5(2) ; S.I. 2009/3317, art. 2, Sch. F65 Words in s. 63(3) substituted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 5(3) ; S.I. 2009/3317, art. 2, Sch. F66 Words in s. 63(3) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 2(3) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1))
+##### Commencement Information
+
+I84 S. 63 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+[[END OF PAGE 59]]
+
+[[START OF PAGE 60]]
+
+60
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 64 Power of [ F3 local authority] etc. to appoint additional governors
+
+- If  at  any  time  a  maintained  school  is  eligible  for  intervention,  then  (subject  to [ F67 subsection  (2) ] )  the [ F1 local  authority ] may  appoint  such  number  of  additional governors as they think fit.
+
+F68
+
+(1A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- Where the school is eligible for intervention by virtue of section 60 (school subject to [ F69 performance standards and safety warning) or 60A (school subject to teachers' pay and conditions warning) ] , the power conferred by subsection (1) is only exercisable within the period of two months following the end of the compliance period (as defined by [ F70 section 60(1)(b) ][ F71 or as the case may be [ F72 section 60A(1)(b) ]] ).
+
+- In  relation  to  any  appointment  made  by  the [ F1 local  authority ] by  virtue  of subsection (1) to the governing body of a school, the instrument of government for the school has effect as if (despite anything in regulations under section 19 of EA 2002) it provided for the [ F1 local authority ] to appoint such number of additional governors as they think fit.
+
+- If at any time-
+
+(a) a  voluntary  aided  school  other  than  one  falling  within  section  61  or  62 is  eligible  for  intervention  by  virtue  of  section  60  (school  subject  to [ F73 performance  standards  and  safety  warning)  or  60A  (school  subject  to teachers' pay and conditions warning) ] , and
+
+(b) the [ F1 local  authority ] have  exercised  their  power  to  appoint  additional governors under subsection (1), [ F74 and ]
+
+[ F74 (c) the  Secretary  of  State  has  not  exercised  the  power  under  section  67  in connection with the same warning notice, ]
+
+the  appropriate  appointing  authority  may  appoint  such  number  of  additional foundation governors as is equal to the number of additional governors appointed by the authority.
+
+- Any additional foundation governors appointed under subsection (4)-
+
+(a) shall cease to hold office at the time when the additional governors appointed by the authority cease to do so; and
+
+(b) shall not be eligible for re-appointment except where, and to the extent that, those governors are re-appointed.
+
+- If at any time-
+
+(a) a voluntary aided school is eligible for intervention by virtue of section 61 (school requiring significant improvement) or section 62 (school requiring special measures),
+
+(b) the Secretary of State has not exercised his power under section 67 (power to appoint additional governors) in connection with the same inspection falling within section 61(a) or 62(a),
+
+(c) the Secretary of State has not exercised his power under section 68 (power to direct closure of school), and
+
+(d) the appropriate appointing authority have received a notice in writing from the  Secretary  of  State  informing  them  that  he  has  received  a  notice  under section 13(3)(a) of EA 2005 from the Chief Inspector,
+
+the  appropriate  appointing  authority  may  appoint  such  number  of  additional foundation governors as they think fit.
+
+[[END OF PAGE 60]]
+
+[[START OF PAGE 61]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+61
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In the case of any appointment made by virtue of subsection (4) or (6) to the governing body of a school, the instrument of government for the school has effect as if (despite anything in regulations under section 19 of EA 2002) the instrument provided for the appropriate appointing authority to appoint such number of additional foundation governors as they are authorised to appoint under subsection (4) or (6) (as the case may be).
+
+- Subject  to  subsection  (9),  references  in  this  section  to  the  appropriate  appointing authority in relation to any voluntary aided school are references-
+
+(a) to the appropriate diocesan authority, if it is a Church of England school or a Roman Catholic Church school; or
+
+(b) in any other case, to the person or persons by whom the foundation governors are appointed.
+
+- Where, in the case of any voluntary aided school not falling within subsection (8)(a), there are different powers to appoint foundation governors, references in this section to the appropriate appointing authority are references-
+
+(a) to all those persons who have any such power acting jointly, or
+
+(b) if they are unable to agree, to such of them acting jointly, or such one of them, as the Secretary of State may, after consulting all those persons, determine.
+
+##### Textual Amendments
+F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3) F67 Words in s. 64(1) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 6(2)(a) , 19(2); S.I. 2016/466, reg. 2 F68 S. 64(1A) omitted (18.4.2016) by virtue of Education and Adoption Act 2016 (c. 6), ss. 6(2)(b) , 19(2); S.I. 2016/466, reg. 2 F69 Words in s. 64(2) substituted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 6(4)(a) ; S.I. 2009/3317, art. 2, Sch. F70 Words in s. 64(2) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 2(4) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1)) F71 Words in s. 64(2) inserted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 6(4)(b) ; S.I. 2009/3317, art. 2, Sch. F72 Words in s. 64(2) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 3(3) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(2)) F73 Words in s. 64(4)(a) substituted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 6(5)(a) ; S.I. 2009/3317, art. 2, Sch. F74 S. 64(4)(c) and word inserted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 6(5)(b) ; S.I. 2009/3317, art. 2, Sch.
+##### Commencement Information
+I85 S. 64 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+#### 65 Power of [ F3 local authority] to provide for governing body to consist of interim executive members
+
+- If at any time a maintained school is eligible for intervention, the [ F1 local authority ] may, with the consent of the Secretary of State, give the governing body a notice in writing stating that, as from a date specified in the notice, the governing body are to
+
+[[END OF PAGE 61]]
+
+[[START OF PAGE 62]]
+
+62
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+be constituted in accordance with Schedule 6 (governing bodies consisting of interim executive members).
+
+- Before exercising the power conferred by subsection (1), the [ F1 local authority ] must consult-
+
+(a) the governing body of the school,
+
+(b) in  the  case  of  a  foundation  or  voluntary  school  which  is  a  Church  of England school or a Roman Catholic Church school, the appropriate diocesan authority, and
+
+(c) in the case of any other foundation or voluntary school, the person or persons by whom the foundation governors are appointed.
+
+##### Textual Amendments
+F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+##### Commencement Information
+
+I86 S. 65 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+#### 66 Power of [ F3 local authority] to suspend right to delegated budget
+
+- If at any time-
+
+(a) a maintained school is eligible for intervention, and
+
+(b) the school has a delegated budget within the meaning of Part 2 of SSFA 1998,
+
+- then (subject to subsection (2)) the [ F1 local authority ] may, by giving the governing body of the school notice in writing of the suspension, suspend the governing body's right to a delegated budget with effect from the receipt of the notice by the governing body.
+
+- Where the school is eligible for intervention by virtue of section 60 (school subject to [ F75 performance standards and safety warning) or 60A (school subject to teachers' pay and conditions warning) ] , the power conferred by subsection (1) is only exercisable within the period of two months following the end of the compliance period (as defined by [ F76 section 60(1)(b) ][ F77 or as the case may be [ F78 section 60A(1)(b) ]] ).
+
+- A copy of a notice given under subsection (1) must be given to the head teacher of the school at the same time as the notice is given to the governing body.
+
+- A suspension imposed under this section shall have effect for the purposes of Chapter 4 of Part 2 of SSFA 1998 as if made under paragraph 1 of Schedule 15 to that Act.
+
+##### Textual Amendments
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+- F75 Words in s. 66(2) substituted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 7(a) ; S.I. 2009/3317, art. 2, Sch.
+
+- F76 Words in s. 66(2) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 2(5) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1))
+
+- F77 Words in s. 66(2) inserted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 7(b) ; S.I. 2009/3317, art. 2, Sch.
+
+[[END OF PAGE 62]]
+
+[[START OF PAGE 63]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+63
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+F78 Words in s. 66(2) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 3(4) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(2))
+##### Commencement Information
+I87 S. 66 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+### Intervention by Secretary of State
+
+#### [ F79 66A Power of Secretary of State to require governing body to enter into arrangements
+
+- If at any time a maintained school is eligible for intervention other than by virtue of section 60A, then (subject to subsection (3)) the Secretary of State may, with a view to improving the performance of the school, give the governing body of the school a notice requiring the governing body-
+
+(a) to enter into a contract or other arrangement with a specified person (who may be the governing body of another school) for the provision to the governing body of specified services of an advisory nature,
+
+(b) to  make  specified  arrangements  authorised  by  section  26  of  EA  2002 (collaboration between schools) with the governing body of such other school as may be specified,
+
+(c) to make specified arrangements authorised by regulations under section 166 of  this  Act  (collaboration  arrangements:  maintained  schools  and  further education bodies) with a further education body within the meaning of that section, or
+
+(d) to take specified steps for the purpose of creating or joining a federation, as defined by section 24(2) of EA 2002.
+
+- Before exercising the power conferred by subsection (1), the Secretary of State must consult-
+
+(a) the governing body of the school,
+
+(b) in  the  case  of  a  foundation  or  voluntary  school  which  is  a  Church  of England school or a Roman Catholic Church school, the appropriate diocesan authority, and
+
+(c) in the case of any other foundation or voluntary school, the person or persons by whom the foundation governors are appointed.
+
+- Where the school is eligible for intervention by virtue of section 60 (school subject to performance standards and safety warning), the power conferred by subsection (1) is only exercisable within the period of two months following the end of the compliance period (as defined by section 60(1)(b)).
+
+- A notice under subsection (1)(a) may require the contract or other arrangement to contain specified terms and conditions. ]
+
+##### Textual Amendments
+F79 S. 66A inserted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 4 , 19(2); S.I. 2016/466, reg. 2
+
+[[END OF PAGE 63]]
+
+[[START OF PAGE 64]]
+
+64
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 67 Power of Secretary of State to appoint additional governors
+
+- If at any time a maintained school is eligible for intervention F80 ..., the Secretary of State may appoint such number of additional governors as he thinks fit; and he may nominate one of those governors to be the chairman of the governing body in place of any person who has been elected as chairman of that body.
+
+- Before making any such appointment, the Secretary of State must consult-
+
+(a) the [ F1 local authority ] ,
+
+(b) the governing body of the school,
+
+(c) in  the  case  of  a  foundation  or  voluntary  school  which  is  a  Church  of England school or a Roman Catholic Church school, the appropriate diocesan authority, and
+
+(d) in the case of any other foundation or voluntary school, the person or persons by whom the foundation governors are appointed.
+
+(3) A governor appointed under this section-
+
+(a) shall hold office as governor for such term, and
+
+(b) if nominated as chairman of the governing body, shall be chairman of that body for such period,
+
+as the Secretary of State may determine.
+
+- The Secretary of State may pay to any governor appointed under this section such remuneration and allowances as the Secretary of State may determine.
+
+- In  relation  to  any  appointment  made  by  the  Secretary  of  State  by  virtue  of subsection (1) to the governing body of a school, the instrument of government for the school shall have effect as if (despite anything in regulations under section 19 of EA 2002) it provided for the Secretary of State to appoint such number of additional governors as he thinks fit.
+
+- Where the Secretary of State has exercised his power under this section in relation to a school, then-
+
+(a) in any such case-
+
+(i) the [ F1 local authority ] may not exercise their power under section 66(1) or paragraph 1 of Schedule 15 to SSFA 1998 to suspend the governing body's right to a delegated budget, and
+
+(ii) if they have already exercised either of those powers, the Secretary of State must, if requested to do so by the governing body, revoke the suspension; and
+
+(b) in the case of a voluntary aided school, nothing in regulations under section 19 of  EA  2002  is  to  be  read  as  authorising  the  appointment  of  foundation governors for the purpose of outnumbering the other governors as augmented by those appointed by the Secretary of State under this section.
+
+- The revocation of a suspension under subsection (6)(a)-
+
+(a) must be notified to the [ F1 local authority ] in writing, and
+
+(b) takes effect from such date as is specified in that notification.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+[[END OF PAGE 64]]
+
+[[START OF PAGE 65]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+65
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+F80 Words in s. 67(1) repealed (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 8, Sch. 16 Pt. 6 ; S.I. 2009/3317, art. 2, Sch.
+##### Commencement Information
+I88 S. 67 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+#### 68 Power of Secretary of State to direct closure of school
+
+- If at any time a maintained school is eligible for intervention [ F81 other than by virtue of section 60A ] , the Secretary of State may give a direction to the [ F1 local authority ] requiring the school to be discontinued on a date specified in the direction.
+
+- Before giving a direction under subsection (1), the Secretary of State must consult-
+
+(a) the [ F1 local authority ] and the governing body of the school,
+
+(b) in  the  case  of  a  foundation  or  voluntary  school  which  is  a  Church  of England school or a Roman Catholic Church school, the appropriate diocesan authority,
+
+(c) in the case of any other foundation or voluntary school, the person or persons by whom the foundation governors are appointed,
+
+- F82 (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) such other persons as the Secretary of State considers appropriate.
+
+- On giving a direction under subsection (1) the Secretary of State must give notice in writing of the direction to the governing body of the school and its head teacher.
+
+- Where the [ F1 local authority ] are given a direction under subsection (1), they must discontinue the school in question on the date specified in the direction; and nothing in  sections  15  to  17  of  this  Act  or  in  section  30  of  SSFA  1998  applies  to  their discontinuance of the school under this section.
+
+- In this section any reference to the discontinuance of a maintained school is a reference to the [ F1 local authority ] ceasing to maintain it.
+
+##### Textual Amendments
+F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2) F81 Words in s. 68(1) substituted (17.11.2011) by Education Act 2011 (c. 21), ss. 44(2) , 82(3); S.I. 2011/2750, art. 2 F82 S. 68(2)(d) repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a)(b), Sch. 1 para. 60, Sch. 2 Pt. 1 (with art. 2(3))
+##### Modifications etc. (not altering text)
+C12 S. 68 applied (with modifications) (E.) (1.2.2008) by The Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007 (S.I. 2007/2979), reg. 1(1), Sch. 1 para. 23
+##### Commencement Information
+
+I89 S. 68 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+[[END OF PAGE 65]]
+
+[[START OF PAGE 66]]
+
+66
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 69 Power of Secretary of State to provide for governing body to consist of interim executive members
+
+- If at any time a maintained school is eligible for intervention F83 ... ,the Secretary of State may give the governing body a notice in writing stating that, as from the date specified in the notice, the governing body are to be constituted in accordance with Schedule 6 (governing bodies consisting of interim executive members).
+
+- Before exercising the power conferred by subsection (1), the Secretary of State must consult-
+
+(a) the [ F1 local authority ] ,
+
+(b) the governing body of the school,
+
+(c) in  the  case  of  a  foundation  or  voluntary  school  which  is  a  Church  of England school or a Roman Catholic Church school, the appropriate diocesan authority, and
+
+(d) in the case of any other foundation or voluntary school, the person or persons by whom the foundation governors are appointed.
+
+- The Secretary of State need not consult the persons mentioned in subsection (2)(b), (c) and (d) if the [ F1 local authority ] have consulted them under subsection (2) of section 65 in relation to a proposed notice under subsection (1) of that section.
+
+[ F84 (4) Subsection (2) does not apply if an Academy order has effect in respect of the school. ]
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F83 Words in s. 69(1) repealed (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 9, Sch. 16 Pt. 6 ; S.I. 2009/3317, art. 2, Sch.
+
+- F84 S. 69(4) inserted (29.7.2010) by Academies Act 2010 (c. 32), s. 19(2), Sch. 2 para. 21 ; S.I. 2010/1937, art. 2, Sch. 1
+
+##### Modifications etc. (not altering text)
+
+- C13 S. 69 applied (with modifications) by S.I. 2007/2978 reg. 24(1) (as inserted (1.9.2012) by The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825), regs. 1(1), 2(10) )
+
+##### Commencement Information
+
+I90 S. 69 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+#### F85 69A Power of Secretary of State to direct local authority to give performance standards and safety warning notice
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F85 S. 69A omitted (18.4.2016) by virtue of Education and Adoption Act 2016 (c. 6), ss. 2(6) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1))
+
+[[END OF PAGE 66]]
+
+[[START OF PAGE 67]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+67
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### [ F86 69B Power of Secretary of State to direct [local authority] to give teachers' pay and conditions warning notice
+
+- This section applies if the Secretary of State thinks that the conditions in subsections (2) and (3) are met.
+
+- The  condition  is  that  there  are  reasonable  grounds  for  a [ local  authority ] to  give a warning notice to the governing body of a maintained school under section 60A (teachers' pay and conditions warning notice).
+
+- The condition is that one of the following applies-
+
+(a) the authority have not given a warning notice to the governing body under section 60A on those grounds;
+
+(b) the authority have done so, but in inadequate terms;
+
+- F87 (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) the school has become eligible for intervention on those grounds by virtue of section 60A, but the period of two months following the end of the compliance period (as defined by section [ F88 60A(1)(b) ] ) has ended.
+
+- The Secretary of State may direct the [ local authority ] to consider giving a warning notice to the governing body under section 60A in the terms specified in the direction.
+
+- If the Secretary of State gives a direction under subsection (4) to a [ local authority ] in respect of a governing body, the authority must-
+
+(a) give a copy of the direction to the governing body before the end of the period of 2 working days beginning with the day on which the direction is given,
+
+(b) when it does so, invite the governing body to give the authority a written response before the end of the period of 7 working days beginning with the day on which the direction is given, and
+
+(c) give the Secretary of State the authority's written response, and any response received from the governing body in accordance with paragraph (b), before the end of the period of 10 working days beginning with the day on which the direction is given.
+
+- The [ local authority ] 's response to the direction must do one of the following-
+
+(a) state that the authority have decided to give a warning notice to the governing body in the specified terms;
+
+(b) state  that  the  authority  have  decided  not  to  give  a  warning  notice  to  the governing body in those terms.
+
+- If the response states that the authority have decided to give a warning notice to the governing body in the specified terms, the authority must-
+
+(a) give the warning notice to the governing body in those terms before the end of the period of 5 working days beginning with the day on which the response is given (and withdraw any previous warning notice given to the governing body under section 60A), and
+
+(b) on the same day as they do so, give the Secretary of State a copy of the notice.
+
+- If the response states that the authority have decided not to give a warning notice to the governing body in the specified terms-
+
+(a) the response must set out the authority's reasons for the decision, and
+
+[[END OF PAGE 67]]
+
+[[START OF PAGE 68]]
+
+68
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) the Secretary of State may direct the authority to give the warning notice to the governing body in those terms (and to withdraw any previous warning notice given to the governing body under section 60A).
+
+- If the Secretary of State directs the authority under subsection (8)(b) to give a warning notice to the governing body in the specified terms, the authority must-
+
+(a) comply with the direction under subsection (8)(b) before the end of the period of 5 working days beginning with the day on which that direction is given, and
+
+(b) on the same day as they do so, give the Secretary of State a copy of the notice.
+
+- Subsections (7)(b) and (9)(b) apply in addition to section 60A(6).
+
+- A direction under this section must be in writing. ]
+
+##### Textual Amendments
+F86 Ss. 69A, 69B inserted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 13 para. 10 ; S.I. 2009/3317, art. 2, Sch. F87 S. 69B(3)(c) omitted (18.4.2016) by virtue of Education and Adoption Act 2016 (c. 6), ss. 3(5)(a) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(2)) F88 Word in s. 69B(3)(d) substituted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 3(5)(b) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(2))
+
+### Governing bodies consisting of interim executive members: further provisions
+
+#### 70 Governing bodies consisting of interim executive members
+
+Schedule 6 has effect in relation to any school in respect of which a notice has been given-
+
+(a) under section 65(1) by the [ F1 local authority ] , or
+
+(b) under section 69(1) by the Secretary of State.
+
+##### Textual Amendments
+F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+##### Commencement Information
+
+I91 S. 70 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+### [ F89 Interaction between different intervention powers etc
+
+##### Textual Amendments
+F89 Ss. 70A-70C and cross-heading inserted (18.4.2016) by Education and Adoption Act 2016 (c. 6), ss. 6(3) , 19(2); S.I. 2016/466, reg. 2
+
+[[END OF PAGE 68]]
+
+[[START OF PAGE 69]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 4 - Schools causing concern: England
+
+Document Generated: 2020-04-22
+
+69
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 70A Duties for local authorities and Secretary of State to notify each other
+
+- A local authority must notify the Secretary of State before exercising a power under section 63, 64 or 66 in relation to a maintained school.
+
+- The Secretary of State must notify the local authority before exercising a power under any of sections 66A to 69 in relation to a maintained school.
+
+#### 70B Restriction on use of local authority intervention powers
+
+- This section applies where a local authority are notified that the Secretary of State intends to exercise a power under any of sections 66A to 69 in relation to a maintained school.
+
+- The local authority may not use any of their powers under section 63, 64 or 66 in relation to the school unless or until the Secretary of State notifies them that they may.
+
+#### 70C Secretary of State's power to take over responsibility for interim executive members
+
+- This  section  applies  where  a  local  authority  have  given  the  governing  body  of  a maintained school a notice under section 65 (governing body to consist of interim executive members).
+
+- The Secretary of State may take over responsibility for arrangements in connection with the interim executive members by giving notice to the local authority and, where the Secretary of State does so-
+
+(a) the notice given by the local authority in accordance with section 65 is to be treated as having been given by the Secretary of State in accordance with section 69, and
+
+(b) anything done by or in relation to the local authority under Schedule 6 is to be treated as having been done by or in relation to the Secretary of State. ]
+
+### Amendments relating to schools causing concern
+
+#### 71 Amendments relating to schools causing concern
+
+Schedule 7 contains amendments related to the provisions of this Part.
+
+Commencement Information I92 S. 71 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+### Supplementary
+
+#### 72 Duty of [ F3 local authority] to have regard to guidance
+
+A [ F1 local authority ] must, in exercising their functions under this Part, have regard to any guidance given from time to time by the Secretary of State.
+
+[[END OF PAGE 69]]
+
+[[START OF PAGE 70]]
+
+70
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 5 - Curriculum and entitlements
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+I93 S. 72 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+#### 73 Interpretation of Part 4
+
+In this Part-
+
+'appropriate diocesan authority' has the same meaning as in SSFA 1998;
+
+'Chief  Inspector'  means  Her  Majesty's  Chief  Inspector  of  Education, Children's Services and Skills;
+
+'Church of England school' and 'Roman Catholic Church school' have the same meaning as in SSFA 1998;
+
+'eligible  for  intervention',  in  relation  to  a  maintained  school,  has  the meaning given by section 59(2);
+
+'maintained school' has the meaning given by section 59(1). F90 ...
+
+##### Textual Amendments
+
+F90 Words in s. 73 omitted (18.4.2016) by virtue of Education and Adoption Act 2016 (c. 6), ss. 2(7) , 19(2); S.I. 2016/466, reg. 2 (with reg. 4(1))
+
+##### Commencement Information
+
+I94 S. 73 in force at 1.4.2007 by S.I. 2007/935, art. 5(j)
+
+## PART 5
+
+### CURRICULUM AND ENTITLEMENTS
+
+#### 74 Curriculum requirements for the fourth key stage
+
+- For section 85 of EA 2002 (curriculum requirements for fourth key stage) substitute-
+
+##### ' 85 Curriculum requirements for the fourth key stage
+
+- For  the  fourth  key  stage,  the  National  Curriculum  for  England  shall comprise-
+
+(a) the core and other foundation subjects,
+
+(b) work-related learning, and
+
+(c) in relation to any pupil, such other courses of study as are necessary to  satisfy  the  entitlements  conferred  on  him  by  subsection (5) and section 85A.
+
+[[END OF PAGE 70]]
+
+[[START OF PAGE 71]]
+
+Education and Inspections Act 2006 (c. 40) Part 5 - Curriculum and entitlements Document Generated: 2020-04-22
+
+71
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The National Curriculum for England shall specify programmes of study in relation to each of the core and other foundation subjects for the fourth key stage.
+
+- The following are the core subjects for the fourth key stage-
+
+(a) mathematics,
+
+(b) English, and
+
+(c) science.
+
+(4) The following are the other foundation subjects for the fourth key stage-
+
+(a) information and communication technology,
+
+(b) physical education, and
+
+(c) citizenship.
+
+- A pupil in the fourth key stage is entitled, if he so elects, to follow a course of study in science which leads to such qualification or set of qualifications as the governing body may choose from among those-
+
+(a) approved under section 98 of the Learning and Skills Act 2000 for the purposes of section 96 of that Act, and
+
+(b) specified by the Secretary of State by order for the purposes of this subsection.
+
+- In  the  exercise  of  their  functions  under  this  Part  so  far  as  those  functions relate by virtue of this section to work-related learning a [ F1 local authority ] , governing body or head teacher shall have regard to any guidance issued from time to time by the [ F91 Secretary of State ] .
+
+- In this section 'work-related learning' means planned activity designed to use the context of work to develop knowledge, skills and understanding useful in work, including learning through the experience of work, learning about work and working practices and learning the skills for work.
+
+##### 85A Entitlement areas for the fourth key stage
+
+- A pupil in the fourth key stage is also entitled to [ F92 follow a course of study in a subject within each of such one or more of the four entitlement areas specified in subsection (2) as the pupil may choose. ]
+
+- The entitlement areas referred to in subsection [ F93 (1) ] are-
+
+(a) arts, comprising-
+
+(i) art and design,
+
+(ii) music,
+
+(iii) dance,
+
+(iv) drama, and
+
+(v) media arts,
+
+(b) design and technology (comprising only that subject),
+
+(c) humanities, comprising-
+
+(i) geography, and
+
+(ii) history, and
+
+[[END OF PAGE 71]]
+
+[[START OF PAGE 72]]
+
+72
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 5 - Curriculum and entitlements
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(d) modern foreign languages, comprising any modern foreign language specified in an order made by the Secretary of State or, if the order so specifies, any modern foreign language.
+
+- An order under subsection (2)(d) may-
+
+(a) specify  circumstances  in  which  a  language  is  not  to  be  treated  as falling within subsection (2)(d), and
+
+(b) provide for the determination under the order of any question arising as to whether a particular language is a modern foreign language.
+
+- The  entitlement  conferred  on  a  pupil  by  this  section  is  to  be  taken  to  be satisfied [ F94 if a course of study in a subject within each of the entitlement areas specified in subsection (2) is made available to the pupil by or on behalf of the school at which the pupil is a registered pupil. ]
+
+- In the exercise of their functions by virtue of this Part in relation to courses of study falling within subsection [ F95 (1) ] , a [ F1 local authority ] , governing body or head teacher shall have regard to any guidance issued from time to time by the Secretary of State F96 ....
+
+- In this section 'course of study' means [ F97 a course of education or training which leads to such qualification as the governing body may choose from among those approved under section 98 of the Learning and Skills Act 2000 for the purposes of section 96 of that Act.' ]
+
+- In section 86 of EA 2002 (power to alter or remove requirements for fourth key stage)
+
+-
+
+(a) in paragraph (a), for 'section 85,' substitute ' sections 85 and 85A, ',
+
+(b) in paragraph (b), for 'that section is' substitute ' those sections are ', and
+
+(c) renumber the section as so amended as subsection (1) of the section and at the end insert-
+
+'(2) An order under this section may make such amendments of this Act as appear to the Secretary of State to be necessary or expedient in connection with the provision made by virtue of subsection (1).'
+
+F98
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- Until the commencement of subsection (1), section 85 of EA 2002 has effect with the following modifications-
+
+(a) in subsection (1) after 'other foundation subjects' insert ' , the entitlement conferred by subsection (3A) ', and
+
+(b) after subsection (3) insert-
+
+'(3A) A pupil in the fourth key stage is entitled, if he so elects, to follow a course of study in science which leads to such qualification or set of qualifications as the governing body may choose from among those-
+
+(a) approved under section 98 of the Learning and Skills Act 2000 for the purposes of section 96 of that Act, and
+
+(b) specified by the Secretary of State by order for the purposes of this subsection.'
+
+- Any order made (by virtue of subsection (4) of this section) under section 85(3A) of EA 2002 before the commencement of subsection (1) of this section is to have effect
+
+[[END OF PAGE 72]]
+
+[[START OF PAGE 73]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+73
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+from that commencement as if made under subsection (5) of section 85 (as substituted by subsection (1)).
+
+##### Textual Amendments
+F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2) F91 Words in s. 74(1) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 8 para. 20(a) ; S.I. 2012/924, art. 2 F92 Words in s. 74(1) substituted (15.1.2012) by Education Act 2011 (c. 21), ss. 31(2)(a) , 82(2)(b) F93 Word in s. 74(1) substituted (15.1.2012) by Education Act 2011 (c. 21), ss. 31(2)(b) , 82(2)(b) F94 Words in s. 74(1) substituted (15.1.2012) by Education Act 2011 (c. 21), ss. 31(2)(c) , 82(2)(b) F95 Word in s. 74(1) substituted (15.1.2012) by Education Act 2011 (c. 21), ss. 31(2)(d) , 82(2)(b) F96 Words in s. 74(1) omitted (1.4.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 8 para. 20(b) ; S.I. 2012/924, art. 2 F97 Words in s. 74(1) substituted (15.1.2012) by Education Act 2011 (c. 21), ss. 31(2)(e) , 82(2)(b) F98 S. 74(3) omitted (15.1.2012) by virtue of Education Act 2011 (c. 21), ss. 31(3) , 82(2)(b)
+##### Commencement Information
+I95 S. 74(4) in force at 1.4.2007 by S.I. 2007/935, art. 5(k)
+
+PROSPECTIVE
+
+#### F99 75 Education and training to satisfy entitlements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+; S.I. 2010/303, art. 3, Sch. 2 (with arts. 13, 14) (as amended
+
+F99 S. 75 repealed (1.4.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 6 para. 59, Sch. 16 Pt. 2 (30.3.3010) by S.I. 2010/1151, art. 22)
+
+## PART 6
+
+### SCHOOL TRAVEL AND SCHOOL FOOD
+
+### Travel to schools etc
+
+#### 76 [ F3 Local authorities] in England: duty to promote sustainable modes of travel etc
+
+After section 508 of EA 1996 insert-
+
+##### [ F3 ' Local authorities] in England: duty to promote sustainable modes of travel etc
+
+- A [ F1 local authority ] in England must-
+
+[[END OF PAGE 73]]
+
+[[START OF PAGE 74]]
+
+74
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) prepare for each academic year a document containing their strategy to promote the use of sustainable modes of travel to meet the school travel needs of their area ('a sustainable modes of travel strategy'),
+
+(b) publish  the  strategy  in  such  manner  and  by  such  time  as  may  be prescribed, and
+
+(c) promote the use of sustainable modes of travel to meet the school travel needs of their area.
+
+- Before preparing a sustainable modes of travel strategy, an authority must in particular-
+
+(a) assess the school travel needs of their area, and
+
+(b) assess the facilities and services for sustainable modes of travel to, from and within their area.
+
+'Sustainable modes of travel' are modes of travel which the authority consider may improve either or both of the following-
+
+(a) the physical well-being of those who use them;
+
+(b) the environmental well-being of the whole or a part of their area.
+
+- The 'school travel needs' of a [ F1 local authority ] 's area are-
+
+(a) the needs of children and persons of sixth form age in the authority's area as regards travel mentioned in subsection (5), and
+
+(b) the needs of other children and persons of sixth form age as regards travel mentioned in subsection (6).
+
+- The needs of children and persons of sixth form age in the authority's area as regards travel referred to in subsection (4)(a) are their needs as regards travel to and from-
+
+(a) schools at which they receive or are to receive education or training,
+
+(b) institutions within the further education sector at which they receive or are to receive education or training, or
+
+(c) any  other  places  where  they  receive  or  are  to  receive  education  by virtue of arrangements made in pursuance of section 19(1).
+
+- The needs of other children and persons of sixth form age as regards travel referred to in subsection (4)(b) are their needs as regards travel to and from-
+
+(a) schools at which they receive or are to receive education or training,
+
+(b) institutions within the further education sector at which they receive or are to receive education or training, or
+
+(c) any  other  places  where  they  receive  or  are  to  receive  education  by virtue of arrangements made in pursuance of section 19(1),
+
+in so far as that travel relates to travel within the authority's area.
+
+- The Secretary of State must issue, and may from time to time revise, guidance in relation to the discharge by a [ F1 local authority ] of  their duties under this section.
+
+- Before issuing or revising guidance under subsection (7), the Secretary of State must consult such persons as he considers appropriate.
+
+- In discharging their duties under this section an authority must-
+
+(a) consult such persons as they consider appropriate, and
+
+[[END OF PAGE 74]]
+
+[[START OF PAGE 75]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+75
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) have regard to any guidance given from time to time by the Secretary of State under subsection (7).
+
+- References in this section to persons of sixth form age are to be construed in accordance with subsection (1) of section 509AC.
+
+- In this section, 'academic year' has the same meaning as in section 509AC in the case of [ F1 local authorities ] in England.'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+- I96 S. 76 in force at 1.4.2007 by S.I. 2007/935, art. 5(l)
+
+#### 77 [ F3 Local authorities] in England: provision of travel arrangements etc for children
+
+- After section 508A of EA 1996 (inserted by section 76 above) insert-
+
+##### [ F3 ' Local authorities] in England: travel arrangements for eligible children
+
+- A [ F1 local authority ] in England must make, in the case of an eligible child in the authority's area to whom subsection (2) applies, such travel arrangements as they consider necessary in order to secure that suitable home to school travel arrangements, for the purpose of facilitating the child's attendance at the relevant educational establishment in relation to him, are made and provided free of charge in relation to the child.
+
+- This subsection applies to an eligible child if-
+
+(a) no travel arrangements relating to travel in either direction between his  home and the relevant educational establishment in relation to him, or in both directions, are provided free of charge in relation to him by any person who is not the authority, or
+
+(b) such travel arrangements are provided free of charge in relation to him by any person who is not the authority but those arrangements, taken  together  with  any  other  such  travel  arrangements  which are  so  provided,  do  not  provide  suitable  home  to  school  travel arrangements  for  the  purpose  of  facilitating  his  attendance  at  the relevant educational establishment in relation to him.
+
+'Home to school travel arrangements', in relation to an eligible child, are travel arrangements relating to travel in both directions between the child's home and the relevant educational establishment in question in relation to that child.
+
+'Travel arrangements', in relation to an eligible child, are travel arrangements of any description and include-
+
+[[END OF PAGE 75]]
+
+[[START OF PAGE 76]]
+
+76
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) arrangements for the provision of transport, and
+
+(b) any of the following arrangements only if they are made with the consent of a parent of the child-
+
+(i) arrangements  for  the  provision  of  one  or  more  persons to  escort  the  child  (whether  alone  or  together  with  other children) when travelling to or from the relevant educational establishment in relation to the child;
+
+(ii) arrangements for the payment of the whole or any part of a person's reasonable travelling expenses;
+
+(iii) arrangements for the payment of allowances in respect of the use of particular modes of travel.
+
+'Travel  arrangements',  in  relation  to  an  eligible  child,  include  travel arrangements of any description made by any parent of the child only if those arrangements are made by the parent voluntarily.
+
+'Travel arrangements', in relation to an eligible child, do not comprise or include travel arrangements which give rise to additional costs and do not include appropriate protection against those costs.
+
+- For the purposes of subsection (6)-
+
+(a) travel  arrangements  give  rise  to  additional  costs  only  if  they  give rise  to  any  need  to  incur  expenditure  in  order  for  the  child  to take  advantage  of  anything  provided  for  him  in  pursuance  of  the arrangements, and
+
+(b) travel arrangements include appropriate protection against those costs only if they include provision for any expenditure that needs to be incurred for the purpose mentioned in paragraph (a) in the case of the child to be met by the person by whom the arrangements are made.
+
+- Travel  arrangements  are  provided  free  of  charge  if  there  is  no  charge  for anything provided in pursuance of the arrangements.
+
+- Schedule 35B has effect for the purposes of defining 'eligible child' for the purposes of this section.
+
+- References to a 'relevant educational establishment', in relation to an eligible child, are references to-
+
+(a) in the case of a child who is an eligible child by virtue of falling within any of paragraphs 2, 4, 6, 9, 11 and 12 of Schedule 35B, the qualifying school (within the meaning of that Schedule) at which the child is a registered pupil referred to in the paragraph in question, and
+
+(b) in  the  case  of  a  child  who  is  an  eligible  child  by  virtue  of  falling within any of paragraphs 3, 5, 7, 10 and 13 of Schedule 35B, the place other than a school, where the child is receiving education by virtue of arrangements made in pursuance of section 19(1), referred to in the paragraph in question.
+
+- Regulations  may  modify  subsections  (1)  and  (2)  to  provide  for  their application  in  cases  where  there  is  more  than  one  relevant  educational establishment in relation to a child.
+
+[[END OF PAGE 76]]
+
+[[START OF PAGE 77]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+77
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### [ F3 Local authorities] in England: travel arrangements etc for other children
+
+- A [ F1 local authority ] in England may make such school travel arrangements as they consider necessary, in relation to any child in the authority's area to whom this section applies, for the purpose of facilitating the child's attendance at any relevant educational establishment in relation to the child.
+
+- This section applies to a child who is not an eligible child for the purposes of section 508B.
+
+'School  travel arrangements',  in  relation to such  a child, are travel arrangements  relating  to  travel  in  either  direction  between  his  home  and any  relevant  educational  establishment  in  relation  to  the  child,  or  in  both directions.
+
+'Travel arrangements', in relation to such a child, are travel arrangements of any description and include-
+
+(a) arrangements for the provision of transport, and
+
+(b) any of the following arrangements only if they are made with the consent of a parent of the child-
+
+(i) arrangements  for  the  provision  of  one  or  more  persons to  escort  the  child  (whether  alone  or  together  with  other children) when travelling to or from any relevant educational establishment in relation to the child;
+
+(ii) arrangements for the payment of the whole or any part of a person's reasonable travelling expenses;
+
+(iii) arrangements for the payment of allowances in respect of the use of particular modes of travel.
+
+- A [ F1 local  authority ] in  England  may  pay,  in  the  case  of  a  child  in  the authority's  area  to  whom  this  section  applies  and  in  relation  to  whom  no arrangements are made by the authority under subsection (1), the whole or any part, as they think fit, of a person's reasonable travelling expenses in relation to that child's travel in either direction between his home and any relevant educational establishment in relation to the child, or in both directions.
+
+- References to a 'relevant educational establishment', in relation to a child to whom this section applies, are references to-
+
+(a) any school at which he is a registered pupil,
+
+(b) any  institution  within  the  further  education  sector  at  which  he  is receiving education, or
+
+(c) any place other than a school where he is receiving education by virtue of arrangements made in pursuance of section 19(1).
+
+##### 508D Guidance etc in relation to sections 508B and 508C
+
+- The Secretary of State must issue, and may from time to time revise, guidance in relation to the discharge by a [ F1 local authority ] of their functions under sections 508B and 508C.
+
+[[END OF PAGE 77]]
+
+[[START OF PAGE 78]]
+
+78
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Before issuing or revising guidance under subsection (1), the Secretary of State must consult such persons as he considers appropriate.
+
+- In discharging their functions under sections 508B and 508C an authority must have regard to any guidance given from time to time by the Secretary of State under subsection (1).
+
+- Regulations  may  require  a [ F1 local  authority ] to  publish,  at  such  times and  in  such  manner  as  may  be  prescribed,  such  information  as  may  be prescribed with respect to the authority's policy and arrangements relating to the discharge of their functions under section 508B or 508C.'
+
+- Schedule 8 (which inserts Schedule 35B to EA 1996) has effect.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+- I97 S. 77(1) in force at 1.4.2007 for specified purposes by S.I. 2007/935, art. 5(m)
+
+I98 S. 77(1) in force at 1.9.2007 in so far as not already in force by S.I. 2007/1801, art. 4(b)
+
+I99 S. 77(2) in force at 1.9.2007 for specified purposes by S.I. 2007/1801, art. 4(c)
+
+I100 S. 77(2) in force at 1.9.2008 in so far as not already in force by S.I. 2008/1971, art. 2(b)
+
+#### 78 [ F3 Local authorities] in England: school travel schemes
+
+- After section 508D of EA 1996 (inserted by section 77 above) insert-
+
+##### [ F3 ' Local authorities] in England: school travel schemes
+
+- Schedule 35C has effect in relation to school travel schemes.
+
+- Where a school travel scheme is in force under Schedule 35C, the [ F1 local authority ] in England by which the scheme is made must give effect to the scheme by-
+
+(a) making the arrangements which are set out in the scheme as described in paragraph 2(1) of that Schedule as arrangements to be made by the authority,
+
+(b) complying with the requirement of the scheme described in paragraph 2(5)  of  that  Schedule  (requirement  to  make  suitable  alternative arrangements),
+
+(c) complying with the requirement of the scheme described in paragraph 3 of that Schedule (travel arrangements for eligible children), and
+
+(d) complying with the scheme's policy applicable to charging and any other requirements of the scheme.
+
+- Where a school travel scheme is in force under Schedule 35C, the [ F1 local authority ] in England by which the scheme is made do not have any functions under section 508B or 508C in relation to children in their area.
+
+[[END OF PAGE 78]]
+
+[[START OF PAGE 79]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+79
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The Secretary of State must issue, and may from time to time revise, guidance in relation to the discharge by a [ F1 local authority ] in  England of any duty under subsection (2) or of any functions under Schedule 35C.
+
+- Before issuing or revising guidance under subsection (4), the Secretary of State must consult such persons as he considers appropriate.
+
+- In discharging any duty under subsection (2) and in exercising any functions under  Schedule  35C,  a [ F1 local  authority ] in  England  must  have  regard to  any  guidance  given  from  time  to  time  by  the  Secretary  of  State  under subsection (4).'
+
+- Schedule 9 (which inserts Schedule 35C to EA 1996) has effect.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+I101 S. 78 in force at 1.4.2007 by S.I. 2007/935, art. 5(n)
+
+#### 79 Piloting of school travel scheme provisions
+
+- The school travel scheme provisions are to be piloted in accordance with regulations made by the Secretary of State.
+
+- Regulations under subsection (1) may, in particular, provide for there to be a limit on the number of school travel schemes which may be in force while the school travel scheme provisions are being piloted.
+
+- In this section, 'the school travel scheme provisions' means section 508E of, and Schedule 35C to, EA 1996.
+
+Commencement Information I102 S. 79 in force at 1.4.2007 by S.I. 2007/935, art. 5(n)
+
+#### 80 Power to repeal school travel scheme provisions etc
+
+- The  Secretary  of  State  must  prepare  and  publish,  before  1st  January  2012,  an evaluation  of  the  operation  and  effect  of  school  travel  schemes  approved  under Schedule 35C to EA 1996.
+
+- The Secretary of State may by order provide for the school travel scheme provisions to cease to have effect F100 ... from such date as may be specified in the order.
+
+- The earliest date which may be specified under subsection (2) is 1st August 2012.
+
+- The latest date which may be specified under subsection (2) is 1st August 2015.
+
+[[END OF PAGE 79]]
+
+[[START OF PAGE 80]]
+
+80
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Power to make an order under this section includes power to make consequential amendments and repeals in any enactment, including this Act and enactments passed or made after the passing of this Act.
+
+- In this section, 'the school travel scheme provisions' means section 508E of, and Schedule 35C to, EA 1996.
+
+##### Textual Amendments
+F100 Words in s. 80(2) repealed (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(5), Sch. 3 Pt. 1
+##### Commencement Information
+
+I103 S. 80 in force at 1.4.2007 by S.I. 2007/935, art. 5(n)
+
+PROSPECTIVE
+
+#### F101 81 [Local authorities] in England: provision of transport etc for certain adult learners
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F101 S. 81 repealed (1.4.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 57(5), 269(4), Sch. 16 Pt. 1 ; S.I. 2010/303, art. 3, Sch. 2 (with art. 8)
+
+#### 82 Amendments of section 444 of EA 1996 in relation to school travel
+
+- Section 444 of EA 1996 (offence of failing to secure regular attendance at school of registered pupil) is amended as follows.
+
+- After subsection (3) insert-
+
+'(3A) Subsections (3B) and (3D) apply where the child's home is in England.
+
+(3B) The child shall not be taken to have failed to attend regularly at the school if the parent proves that-
+
+(a) the [ F1 local  authority ] have  a  duty  to  make  travel  arrangements in  relation  to  the  child  under  section  508B(1)  for  the  purpose  of facilitating  the  child's  attendance  at  the  school  and  have  failed  to discharge that duty, or
+
+(b) the [ F1 local  authority ] have  a  duty  to  make  travel  arrangements  in relation to the child by virtue of subsection (2)(c) of section 508E (school  travel  schemes)  for  the  purpose  of  facilitating  the  child's attendance at the school and have failed to discharge that duty.
+
+(3C) For the purposes of subsection (3B)-
+
+[[END OF PAGE 80]]
+
+[[START OF PAGE 81]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+81
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) the reference to 'travel arrangements' in paragraph (a) has the same meaning as in section 508B, and
+
+(b) the reference to 'travel arrangements' in paragraph (b) has the same meaning as in paragraph 3 of Schedule 35C.
+
+(3D) Where the school is an independent school which is not a qualifying school, the child shall not be taken to have failed to attend regularly at the school if the parent proves-
+
+(a) that the school is not within walking distance of the child's home,
+
+(b) that  no  suitable  arrangements  have  been  made  by  the [ F1 local authority ] for boarding accommodation for him at or near the school, and
+
+(c) that  no  suitable  arrangements  have  been  made  by  the [ F1 local authority ] for  enabling  him  to  become  a  registered  pupil  at  a qualifying school nearer to his home.
+
+(3E) For  the  purposes  of  subsection  (3D),  'qualifying  school'  has  the  same meaning as it has for the purposes of Schedule 35B (meaning of 'eligible child' for the purposes of section 508B).
+
+(3F) Subsection (4) applies where the child's home is in Wales.'
+
+- In subsection (5) for 'subsection (4)' substitute ' subsections (3D) and (4) '.
+
+- In subsection (6) for 'subsection (4)' substitute ' subsections (3B), (3D) and (4) '.
+
+- The amendments made by this section do not apply in relation to any failure of a child to attend at a school or other place in relation to which section 444 of EA 1996 applies which occurs on a day before this section comes into force.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+I104 S. 82 in force at 1.9.2007 by S.I. 2007/1801, art. 4(d)
+
+#### 83 Learning and Skills Council for England: transport etc for persons of sixth form age
+
+F102
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- In section 509AB of EA 1996 (further provision about transport policy statements)-
+
+(a) in subsection (5), for the words from 'by the Secretary' to the end substitute 'under this section-
+
+(a) by the Learning and Skills Council for England F103 ...
+
+F103
+
+(b)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .',
+
+F103 (b)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+F103
+
+(c)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+F104
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[END OF PAGE 81]]
+
+[[START OF PAGE 82]]
+
+82
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In section 18 of the Learning and Skills Act 2000 (c. 21) (supplementary functions of Learning and Skills Council for England), after subsection (5) insert-
+
+'(6) The Secretary of State may by order confer or impose on the Council such powers or duties falling within subsection (7) as he thinks fit.
+
+- A power or duty falls within this subsection if it is exercisable in connection with-
+
+(a) the  Secretary  of  State's  function  under  section  509AA(9)  of  the Education  Act  1996  (power  to  direct [ F3 local  authority ] to  make arrangements  additional to those specified in transport policy statement), or
+
+(b) any function of the Secretary of State under any of sections 496 to 497B of the Education Act 1996 as regards anything done, proposed to be done or omitted to be done by a [ F1 local authority ] in England under section 509AA or 509AB of that Act.'
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+- F102 S. 83(1) repealed (6.3.2009) by Learner Travel (Wales) Measure 2008 (nawm 2), s. 28(2), Sch. 2 ; S.I. 2009/371, art. 2(1), Sch. Pt. 1
+
+- F103 Words in s. 83(2) repealed (6.3.2009) by Learner Travel (Wales) Measure 2008 (nawm 2), s. 28(2), Sch. 2 ; S.I. 2009/371, art. 2(1), Sch. Pt. 1
+
+- F104 S. 83(3) repealed (6.3.2009) by Learner Travel (Wales) Measure 2008 (nawm 2), s. 28(2), Sch. 2 ; S.I. 2009/371, art. 2(1), Sch. Pt. 1
+
+##### Commencement Information
+
+I105 S. 83 in force at 1.4.2007 by S.I. 2007/935, art. 5(o) (with art. 8(6)(7))
+
+#### 84 [ F3 Local authorities] in England: duty to have regard to religion or belief in exercise of travel functions
+
+After section 509AC of EA 1996 insert-
+
+##### [ F3 ' Local authorities] in England: duty to have regard to religion or belief in exercise of travel functions
+
+- A [ F1 local authority ] in  England must have regard, amongst other things, in exercising any of their travel functions in relation to or in connection with the travel of a person or persons to or from a school, institution or other place, to any wish of a parent of such a person for him to be provided with education or training at a particular school, institution or other place where that wish is based on the parent's religion or belief.
+
+- The 'travel functions' of a [ F1 local authority ] in  England are their functions under any of the following provisionssection 508A (duty to promote sustainable modes of travel etc);
+
+[[END OF PAGE 82]]
+
+[[START OF PAGE 83]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+83
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+section 508B (travel arrangements for eligible children); section 508C (travel arrangements etc for other children); section 508E and Schedule 35C (school travel schemes); section 508F (transport etc for certain adult learners);
+
+section 509AA (transport etc for persons of sixth form age).
+
+- For the purposes of this section-
+
+(a) 'religion' means any religion,
+
+(b) 'belief' means any religious or philosophical belief,
+
+(c) a reference to religion includes a reference to lack of religion, and
+
+(d) a reference to belief includes a reference to lack of belief.'
+
+##### Textual Amendments
+F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+##### Commencement Information
+I106 S. 84 in force at 1.4.2007 for specified purposes by S.I. 2007/935, art. 5(p)
+I107 S. 84 in force at 1.9.2007 for specified purposes by S.I. 2007/1801, art. 4(e)
+
+#### 85 Further amendments relating to travel to schools etc
+
+Schedule 10 contains further amendments relating to travel to schools and other places where education or training is received.
+
+##### Commencement Information
+I108 S. 85 in force at 1.4.2007 for specified purposes by S.I. 2007/935, art. 5(q)
+I109 S. 85 in force at 1.9.2007 for specified purposes by S.I. 2007/1801, art. 4(f)
+
+### Food and drink provided on school premises etc
+
+#### 86 Provision of food and drink on school premises etc
+
+- For section 114 of SSFA 1998 (nutritional standards for school lunches) and the crossheading preceding it substitute-
+
+##### 'Food and drink provided on school premises etc
+
+##### 114A Requirements for food and drink provided on school premises etc
+
+- Regulations may prescribe requirements which, subject to such exceptions as may be provided for by or under the regulations, are to be complied with in connection with-
+
+[[END OF PAGE 83]]
+
+[[START OF PAGE 84]]
+
+84
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) food or drink provided on the premises of any school maintained by a [ F1 local authority ] , or
+
+(b) food or drink provided at a place other than school premises by a [ F1 local authority ] or the governing body of a school maintained by such an authority to any registered pupil at the school.
+
+(2) Regulations under this section may in particular-
+
+(a) specify nutritional standards, or other nutritional requirements, which are to be complied with;
+
+(b) require that drinking water is to be available, free of charge, on the premises of any school maintained by a [ F1 local authority ] ;
+
+(c) require  that  specified  descriptions  of  food  or  drink  are  not  to  be provided.
+
+- Requirements prescribed by virtue of subsection (1)(a) do not apply to food or drink brought on to the premises of a school maintained by a [ F1 local authority ] where the food or drink is brought on to those premises by any person for his own consumption.
+
+- Where a [ F1 local authority ] or the governing body of a school maintained by such an authority provide food or drink-
+
+(a) to anyone on the premises of the school, or
+
+(b) to  any  registered  pupil  at  the  school  at  a  place  other  than  school premises,
+
+that authority or, as the case may be, that governing body must secure that any applicable provisions of the regulations are complied with.
+
+- Subsection (4) applies whether the food or drink is provided in pursuance of any statutory requirement or otherwise.
+
+- Where-
+
+(a) food or drink is provided on the premises of a school maintained by a [ F1 local authority ] ,
+
+(b) the  provision  is  by  a  person  ('X')  other  than  the  authority  or  the governing body of the school, and
+
+(c) X  uses  or  occupies  the  whole  or  a  part  of  the  premises  in circumstances  related  to  a  use  or  occupation  agreement  made (whether by X or any other person) with the authority or the governing body,
+
+that authority or, as the case may be, that governing body must secure that any applicable provisions of the regulations are complied with.
+
+- A 'use or occupation agreement', in relation to the premises of a school, is an agreement or other arrangement relating to the use or occupation of the whole or any part of the premises.
+
+- Without prejudice to the generality of section 138(7), regulations under this section may prescribe-
+
+(a) different requirements in relation to different classes or descriptions of school as specified in the regulations;
+
+(b) different requirements in connection with food or drink provided by or to different classes or descriptions of person as specified in the regulations;
+
+[[END OF PAGE 84]]
+
+[[START OF PAGE 85]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 6 - School travel and school food
+
+Document Generated: 2020-04-22
+
+85
+
+F105
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(c) requirements  which  apply  during  different  periods  of  the  day  as specified in the regulations.
+
+- A 'place other than school premises' means a place other than the premises of any school maintained by a [ F1 local authority ] .
+
+- References in this section to food or drink provided by a [ F1 local authority ] or the governing body of a school include references to food or drink provided in pursuance of an agreement or other arrangement made by such an authority or body for the provision of food or drink.'
+
+- In  section  512(4)  of  EA  1996  ( [ F3 local  authority ] functions  concerning  provision of  meals),  for  'section  114(2)  of  the  School  Standards  and  Framework  Act  1998 (lunches provided by [ F3 local authorities ] to meet nutritional standards)' substitute ' section 114A(4) of the School Standards and Framework Act 1998 (requirements for food and drink provided on school premises etc) '.
+
+- Any regulations made under section 114 of SSFA 1998 which have effect immediately before the commencement of this section have effect after that commencement as if made under section 114A of that Act (as substituted by subsection (1)).
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+#### 87 Power to charge for provision of meals etc
+
+- In section 512ZA of EA 1996 (duty of [ F3 local authority ] to charge for meals etc)-
+
+(a) in subsection (1), for 'shall' substitute ' may ',
+
+(b)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) in the heading, for 'Duty' substitute ' Power '.
+
+- In section 533 of EA 1996 (duties of governing bodies with respect to provision of school meals etc)-
+
+(a) in subsection (3), for the words from 'shall' to the end substitute ' may charge for anything so provided. ',
+
+- F106 (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) in the heading, for 'Duties' substitute ' Functions '.
+
+##### Textual Amendments
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+F105 S. 87(1)(b) omitted (4.5.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(3), Sch. 5 para. 34(3)(a)
+
+F106 S. 87(2)(b) omitted (4.5.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(3), Sch. 5 para. 34(3)(b)
+
+[[END OF PAGE 85]]
+
+[[START OF PAGE 86]]
+
+86
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 7 - Discipline, behaviour and exclusion
+
+Chapter 1 - School Discipline
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+## PART 7
+
+### DISCIPLINE, BEHAVIOUR AND EXCLUSION
+
+## CHAPTER 1
+
+### SCHOOL DISCIPLINE
+
+### Certain schools required to have behaviour policy
+
+#### 88 Responsibility of governing body for discipline
+
+- The governing body of a relevant school must ensure that policies designed to promote good behaviour and discipline on the part of its pupils are pursued at the school.
+
+(2) In particular, the governing body-
+
+(a) must  make,  and  from  time  to  time  review,  a  written  statement  of  general principles  to  which  the  head  teacher  is  to  have  regard  in  determining  any measures under section 89(1), and
+
+(b) where they consider it desirable that any particular measures should be so determined by the head teacher or that he should have regard to any particular matters-
+
+(i) shall notify him of those measures or matters, and
+
+(ii) may give him such guidance as they consider appropriate.
+
+- Before making or revising the statement required by subsection (2)(a) the governing body must consult (in such manner as appears to them to be appropriate)-
+
+(a) the head teacher,
+
+(b) such other persons who work at the school (whether or not for payment) as it appears to the governing body to be appropriate to consult,
+
+(c) parents of registered pupils at the school, and
+
+(d) registered pupils at the school.
+
+(4) In exercising their functions under subsection (2) the governing body must have regard to any guidance given from time to time-
+
+(a) in relation to England, by the Secretary of State, and
+
+(b) in relation to Wales, by the Assembly.
+
+(5) In this section and section 89-
+
+'relevant school' means-
+
+(a) a community, foundation or voluntary school,
+
+(b) a community or foundation special school,
+
+(c) a maintained nursery school,
+
+(d) a pupil referral unit, or
+
+(e) a  school  approved  by  the  Secretary  of  State  or  the  Assembly  under section 342 of EA 1996 (approval of non-maintained special schools);
+
+'governing body', in relation to a school approved by the Secretary of State or the Assembly under section 342 of EA 1996, means the proprietor of the school.
+
+[[END OF PAGE 86]]
+
+[[START OF PAGE 87]]
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion
+
+Chapter 1 - School Discipline
+
+Document Generated: 2020-04-22
+
+87
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Modifications etc. (not altering text)
+C14 S. 88 applied (with modifications) (25.5.2007) by The School Governance (New Schools) (England) Regulations 2007 (S.I. 2007/958), regs. 1, 30
+##### Commencement Information
+I110 S. 88 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(a)
+I111 S. 88 in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(a)
+
+#### 89 Determination by head teacher of behaviour policy
+
+- The head teacher of a relevant school must determine measures to be taken with a view to-
+
+(a) promoting, among pupils, self-discipline and proper regard for authority,
+
+(b) encouraging good behaviour and respect for others on the part of pupils and, in particular, preventing all forms of bullying among pupils,
+
+(c) securing that the standard of behaviour of pupils is acceptable,
+
+(d) securing  that  pupils  complete  any  tasks  reasonably  assigned  to  them  in connection with their education, and
+
+(e) otherwise regulating the conduct of pupils.
+
+- The  head  teacher [ F107 of  a  relevant  school  in  England ] must  in  determining  such measures-
+
+(a) act  in  accordance  with  the  current  statement  made  by  the  governing  body under section 88(2)(a), and
+
+(b) have regard to any notification or guidance given to him under section 88(2) (b).
+
+[ F108 (2A) The head teacher of a relevant school in Wales must in determining such measures-
+
+(a) act  in  accordance  with  the  current  statement  made  by  the  governing  body under section 88(2)(a),
+
+(b) have regard to any notification or guidance given to him under section 88(2) (b), and
+
+(c) require pupils at the school to comply with the travel behaviour code made by the Welsh Ministers under section 12 of the Learner Travel (Wales) Measure 2008. ]
+
+[ F109 In relation to a relevant school in England, the ] standard of behaviour which is to be regarded as acceptable must be determined by the head teacher, so far as it is not determined by the governing body.
+
+[ F110 (3A) In relation to a relevant school in Wales, the standard of behaviour which is to be regarded as acceptable must be determined by the head teacher, so far as it is not determined by-
+
+(a) the governing body, or
+
+(b) the Welsh Ministers. ]
+
+- The measures which the head teacher determines under subsection (1) must include the making of rules and provision for disciplinary penalties (as defined by section 90).
+
+[[END OF PAGE 87]]
+
+[[START OF PAGE 88]]
+
+88
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 7 - Discipline, behaviour and exclusion
+
+Chapter 1 - School Discipline
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+[ F111 (4A) In relation to a school in England, rules made under subsection (4) must identify the items for which a search may be made. ]
+
+- The measures which the head teacher [ F112 of a relevant school in England ] determines under subsection (1) may, to such extent as is reasonable, include measures to be taken with a view to regulating the conduct of pupils at a time when they are not on the premises of the school and are not under the lawful control or charge of a member of the staff of the school.
+
+[ F113 (5A) The measures which the head teacher of a relevant school in Wales determines under subsection (1) may, to such extent as is reasonable and not required by subsection (2A) (c), include measures to be taken with a view to regulating the conduct of pupils at a time when they are not on the premises of the school and are not under the lawful control or charge of a member of the staff of the school. ]
+
+- The measures determined by the head teacher under subsection (1) must be publicised by him in the form of a written document as follows-
+
+(a) he must make the measures generally known within the school and to parents of registered pupils at the school, and
+
+(b) he must in particular, at least once in every school year, take steps to bring them to the attention of all such pupils and parents and all persons who work at the school (whether or not for payment).
+
+##### Textual Amendments
+F107 Words in s. 89(2) inserted (4.1.2010) by Learner Travel (Wales) Measure 2008 (nawm 2), ss. 13(2) , 28(2); S.I. 2009/2819, art. 2(2)(a)
+F108 S. 89(2A) inserted (4.1.2010) by Learner Travel (Wales) Measure 2008 (nawm 2), ss. 13(3) , 28(2); S.I. 2009/2819, art. 2(2)(a)
+F109 Words in s. 89(3) substituted (4.1.2010) by Learner Travel (Wales) Measure 2008 (nawm 2), ss. 13(4) , 28(2); S.I. 2009/2819, art. 2(2)(a)
+F110 S. 89(3A) inserted (4.1.2010) by Learner Travel (Wales) Measure 2008 (nawm 2), ss. 13(5) , 28(2); S.I. 2009/2819, art. 2(2)(a)
+F111 S. 89(4A) inserted (1.4.2012) by Education Act 2011 (c. 21), ss. 2(7) , 82(3); S.I. 2012/924, art. 2
+F112 Words in s. 89(5) inserted (4.1.2010) by Learner Travel (Wales) Measure 2008 (nawm 2), ss. 13(6) , 28(2); S.I. 2009/2819, art. 2(2)(a)
+F113 S. 89(5A) inserted (4.1.2010) by Learner Travel (Wales) Measure 2008 (nawm 2), ss. 13(7) , 28(2); S.I. 2009/2819, art. 2(2)(a)
+##### Commencement Information
+I112 S. 89 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(a)
+I113 S. 89(1)-(3) (5)(6) in force at 1.1.2009 for W. by S.I. 2009/2545, art. 3(2)(a) (with art. 4)
+I114 S. 89(4) in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(b)
+
+### Enforcement of discipline (including compliance with instructions)
+
+#### 90 Meaning of 'disciplinary penalty'
+
+- In this Chapter, 'disciplinary penalty' means a penalty imposed on a pupil, by any school at which education is provided for him, where his conduct falls below the standard which could reasonably be expected of him (whether because he fails to
+
+[[END OF PAGE 88]]
+
+[[START OF PAGE 89]]
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion
+
+Chapter 1 - School Discipline
+
+Document Generated: 2020-04-22
+
+89
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+follow a rule in force at any such school or an instruction given to him by a member of its staff or for any other reason).
+
+- In subsection (1), the reference to conduct, in relation to a pupil, includes-
+
+(a) conduct which occurs at a time when the pupil is not on the premises of a school and is not under the lawful control or charge of a member of the staff of a school, but only to the extent that it is reasonable for the school imposing the penalty to regulate the pupil's conduct at such a time, and
+
+(b) conduct which consists of a failure by the pupil to comply with a penalty previously imposed on him.
+
+##### Commencement Information
+I115 S. 90 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(a)
+I116 S. 90 in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(c)
+
+#### 91 Enforcement of disciplinary penalties: general
+
+- This section applies in relation to a disciplinary penalty imposed on a pupil by any school at which education is provided for him, other than a penalty which consists of exclusion.
+
+- The imposition of the disciplinary penalty is lawful if the following three conditions are satisfied.
+
+- The first condition is that the imposition of the penalty on the pupil-
+
+(a) is not in breach of any statutory requirement or prohibition, and
+
+(b) is reasonable in all the circumstances.
+
+- The  second  condition  is  that  the  decision  to  impose  the  penalty  on  the  pupil  was made-
+
+(a) by any paid member of the staff of the school, except in circumstances where the head teacher has determined that the member of staff is not permitted to impose the penalty on the pupil, or
+
+(b) by any other member of the staff of the school, in circumstances where the head teacher has authorised the member of the staff to impose the penalty on the pupil and it was reasonable for the head teacher to do so.
+
+- The third condition is that the decision to impose the penalty was made, and any action taken on behalf of the school to implement the decision was taken-
+
+(a) on the premises of the school, or
+
+(b) elsewhere at a time when the pupil was under the lawful control or charge of a member of staff of the school.
+
+- In determining for the purposes of subsection (3)(b) whether the imposition of the penalty is reasonable, the following matters must be taken into account-
+
+(a) whether the imposition of the penalty constitutes a proportionate punishment in the circumstances of the case, and
+
+(b) any special circumstances relevant to its imposition on the pupil which are known to the person imposing it (or of which he ought reasonably to be aware) including in particular-
+
+(i) the pupil's age,
+
+[[END OF PAGE 89]]
+
+[[START OF PAGE 90]]
+
+90
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 7 - Discipline, behaviour and exclusion
+
+Chapter 1 - School Discipline
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(ii) any special educational needs he may have,
+
+(iii) any disability he may have, and
+
+(iv) any religious requirements affecting him.
+
+- For the purposes of subsection (6)(b)(iii) a pupil has a disability if he has a disability for the purposes of the [ F114 Equality Act 2010 ] .
+
+- A determination or authorisation by the head teacher for the purpose of subsection (4) (a) or (b) may be made-
+
+(a) in relation to a particular member of staff or members of staff of a particular description;
+
+(b) in relation to a particular disciplinary penalty or disciplinary penalties of a particular description;
+
+(c) in relation to a particular pupil or pupils of a particular description or generally in relation to pupils.
+
+- Where the disciplinary penalty is detention outside school sessions, this section has effect subject to section 92.
+
+- Nothing in this section authorises anything to be done in relation to a pupil which constitutes the giving of corporal punishment within the meaning of section 548 of EA 1996.
+
+- This section is not to be construed as restricting what may lawfully be done apart from this section.
+
+- In this section, 'paid member of the staff', in relation to a school, means any member of  the  staff  who  works  at  the  school  for  payment,  whether  under  a  contract  of employment or a contract for services; and, for this purpose, it is immaterial whether the contract of employment or contract for services is made with the governing body or proprietor of the school or with any other person.
+
+##### Textual Amendments
+F114 Words in s. 91(7) substituted by 2010 c. 15, Sch. 26 Pt. 1 para. 94 (as inserted (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 6 (see S.I. 2010/2317, art. 2))
+##### Commencement Information
+I117 S. 91 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(a)
+I118 S. 91 in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(c)
+
+#### 92 Enforcement of disciplinary penalties: detention outside school sessions
+
+- This section applies in relation to a disciplinary penalty which consists of the detention of a pupil outside school sessions.
+
+- In relation to a disciplinary penalty to which this section applies, subsection (2) of section 91 has effect as if it required the following additional conditions to be satisfied, as well as the conditions set out in subsections (3) to (5) of that section.
+
+- The additional conditions are-
+
+(a) that the pupil has not attained the age of 18,
+
+[[END OF PAGE 90]]
+
+[[START OF PAGE 91]]
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion Chapter 1 - School Discipline
+
+Document Generated: 2020-04-22
+
+91
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) that the head teacher of the school has previously determined, and has made generally known within the school and to parents of registered pupils at the school,  that  the  detention  of  pupils  outside  school  sessions  is  one  of  the measures that may be taken with a view to regulating the conduct of pupils,
+
+(c) that the detention is on a permitted day of detention, and
+
+(d) that [ F115 , in relation to a pupil at a school in Wales, ] the pupil's parent has been given at least 24 hours' notice in writing that the detention is due to take place.
+
+- The additional conditions set out in subsection (3)(a), (c) and (d) do not apply in the case of a detention during a break between school sessions on the same day.
+
+- If arrangements have to be made for the pupil to travel to school for the purposes of the detention or to travel home after the detention, then in determining for the purposes of the condition in subsection (3) of section 91 whether the imposition of the detention is reasonable, subsection (6) of that section is to be read as if it also required the question whether suitable travelling arrangements can reasonably be made by his parent to be taken into account.
+
+- Section 572 of EA 1996, which provides for the methods by which notices may be served under that Act, does not preclude a notice under subsection (3)(d) from being given to the parent by any effective method.
+
+- This section is not to be construed as restricting what may lawfully be done apart from this section.
+
+- In this section, 'permitted day of detention', in relation to a pupil, means any of the following days-
+
+(a) a school day, other than a day on which the pupil has leave to be absent, and for this purpose 'leave' means leave granted by a person authorised to do so by the governing body or proprietor of the school;
+
+(b) a Saturday or Sunday during a school term, other than a Saturday or Sunday which falls during, or at a weekend immediately preceding or immediately following, a half-term break;
+
+(c) a day (whether or not during a school term) which is set aside wholly or mainly for the performance of duties by members of the staff of the school other than teaching, other than such a day which is excluded by regulations made-
+
+(i) in relation to England, by the Secretary of State, and
+
+(ii) in relation to Wales, by the Assembly.
+
+##### Textual Amendments
+F115 Words in s. 92(3)(d) inserted (15.1.2012) by Education Act 2011 (c. 21), ss. 5 , 82(3); S.I. 2012/84, art. 2
+##### Modifications etc. (not altering text)
+C15 S. 92(3)(b) modified (1.9.2013) by The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793), regs. 1(1), 12
+C16 S. 92(3)(d) modified (1.9.2013) by The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793), regs. 1(1), 12
+##### Commencement Information
+I119 S. 92 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(a)
+
+[[END OF PAGE 91]]
+
+[[START OF PAGE 92]]
+
+92
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 7 - Discipline, behaviour and exclusion Chapter 1 - School Discipline
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+I120
+
+S. 92(1)-(7) (8)(a)(c) in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(d)
+
+### Use of reasonable force
+
+#### 93 Power of members of staff to use force
+
+- A person to whom this section applies may use such force as is reasonable in the circumstances for the purpose of preventing a pupil from doing (or continuing to do) any of the following, namely-
+
+(a) committing any offence,
+
+(b) causing personal injury to, or damage to the property of, any person (including the pupil himself), or
+
+(c) prejudicing the maintenance of good order and discipline at the school or among any pupils receiving education at the school, whether during a teaching session or otherwise.
+
+- This section applies to a person who is, in relation to a pupil, a member of the staff of any school at which education is provided for the pupil.
+
+- The power conferred by subsection (1) may be exercised only where-
+
+(a) the member of the staff and the pupil are on the premises of the school in question, or
+
+(b) they are elsewhere and the member of the staff has lawful control or charge of the pupil concerned.
+
+- Subsection (1) does not authorise anything to be done in relation to a pupil which constitutes the giving of corporal punishment within the meaning of section 548 of EA 1996.
+
+- The powers conferred by subsection (1) are in addition to any powers exercisable apart from this section and are not to be construed as restricting what may lawfully be done apart from this section.
+
+- In  this  section,  'offence'  includes  anything  that  would  be  an  offence  but  for  the operation  of  any  presumption  that  a  person  under  a  particular  age  is  incapable  of committing an offence.
+
+##### Commencement Information
+I121 S. 93 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(a)
+I122 S. 93 in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(e)
+
+### Confiscation from pupils
+
+#### 94 Defence where confiscation lawful
+
+- This section applies where, as a disciplinary penalty-
+
+(a) an item which a pupil has with him or in his possessions is seized, and
+
+(b) the item is retained for any period or is disposed of.
+
+[[END OF PAGE 92]]
+
+[[START OF PAGE 93]]
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion
+
+Chapter 1 - School Discipline
+
+Document Generated: 2020-04-22
+
+93
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- A person who seizes, retains or disposes of the item is not liable in any proceedings in respect of-
+
+(a) the seizure, retention or disposal (as the case may be), or
+
+(b) any damage or loss which arises in consequence of it,
+
+if he proves that the seizure, retention or disposal (as the case may be) was lawful (whether or not by virtue of section 91).
+
+- Nothing in this section applies where an item is seized under section [ F116 550ZC or ] 550AA of EA 1996 (provision as to what is to be done with such an item being made by that section).
+
+- This section is not to be construed as preventing any person relying on any defence on which he is entitled to rely apart from this section.
+
+##### Textual Amendments
+F116 Words in s. 94(3) inserted (1.9.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 242(3) , 269(4); S.I. 2010/303, art. 6, Sch. 5 (as amended (26.7.2010) by S.I. 2010/1891, art. 2(2) (with art. 3))
+##### Commencement Information
+I123 S. 94 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(a)
+I124 S. 94 in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(e)
+
+### Interpretation of Chapter 1
+
+#### 95 Interpretation of Chapter 1
+
+In this Chapter-
+
+'disciplinary penalty' has the meaning given by section 90;
+
+'member of the staff', in relation to a school, means-
+
+(a) any teacher who works at the school, and
+
+(b) any other person who, with the authority of the head teacher, has lawful control or charge of pupils for whom education is being provided at the school;
+
+'possessions',  in  relation  to  a  pupil,  includes  any  goods  over  which  he appears to have control.
+
+##### Commencement Information
+I125 S. 95 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(a)
+I126 S. 95 in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(e)
+
+[[END OF PAGE 93]]
+
+[[START OF PAGE 94]]
+
+94
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+### Repeals
+
+#### 96 Repeals consequential on provisions of Chapter 1
+
+The following provisions (which are superseded by sections 88 to 93) cease to have effect-
+
+(a) sections 550A and 550B of EA 1996;
+
+(b) section 61 of SSFA 1998.
+
+##### Commencement Information
+I127 S. 96 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(a)
+I128 S. 96(a) in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(f)
+I129 S. 96(b) in force at 1.1.2009 for specified purposes for W. by S.I. 2009/2545, art. 3(2)(b)
+I130 S. 96(b) in force at 31.10.2010 for W. in so far as not already in force by S.I. 2010/2543, art. 2(f)
+
+## CHAPTER 2
+
+### PARENTAL RESPONSIBILITIES AND EXCLUDED PUPILS
+
+### Parenting contracts and parenting orders
+
+#### 97 Parenting contracts
+
+- Section 19 of the Anti-social Behaviour Act 2003 (c. 38) (parenting contracts in cases of exclusion from school or truancy) is amended as follows.
+
+- After subsection (1) insert-
+
+'(1A) This section also applies where a [ F1 local authority ] or the governing body of a relevant school have reason to believe that a child who is a registered pupil at a relevant school has engaged in behaviour connected with the school which-
+
+(a) has caused, or is likely to cause-
+
+(i) significant disruption to the education of other pupils, or
+
+(ii) significant detriment to the welfare of the child himself or of other pupils or to the health or safety of any staff, or
+
+(b) forms part of a pattern of behaviour which (if continued) will give rise to a risk of future exclusion from the school on disciplinary grounds.
+
+(1B) For the purposes of subsection (1A) the child's behaviour is connected with the school to the extent that it consists of-
+
+(a) conduct at the school, or
+
+(b) conduct elsewhere in circumstances in which it would be reasonable for the school to regulate his conduct.'
+
+- In subsection (6), after 'subsection (1)' insert ' or (1A) '.
+
+- In the heading to the section, and in the italic cross-heading immediately before the section, for 'exclusion from' substitute ' misbehaviour at '.
+
+[[END OF PAGE 94]]
+
+[[START OF PAGE 95]]
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion
+
+Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+95
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+##### Commencement Information
+I131 S. 97 in force at 1.9.2007 for E. by S.I. 2007/1801, art. 3(c)
+I132 S. 97 in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(g)
+
+#### 98 Parenting orders in case of exclusion or misbehaviour
+
+- Section  20  of  the  Anti-social  Behaviour  Act  2003  (parenting  orders  in  case  of exclusion from school) is amended as follows.
+
+- In subsection (1), for 'This section' substitute ' Subsection (2) '.
+
+- In subsection (2), for 'A [ F1 local authority ] ' substitute ' A relevant body '.
+
+- After subsection (2) insert-
+
+'(2A) A relevant body may also apply to a magistrates' court for a parenting order in respect of a pupil at a relevant school if-
+
+(a) it  appears  to  the  body  making  the  application  that  the  pupil  has engaged  in  behaviour  which  would  warrant  the  exclusion  of  the pupil from the school on disciplinary grounds for a fixed period or permanently, and
+
+(b) such  conditions  as  may  be  prescribed  in  regulations  made  by  the appropriate person are satisfied.
+
+(2B) For the purposes of subsection (2A), there are to be disregarded-
+
+(a) any practice restricting the use of exclusion at a particular school, or at schools of a particular description, and
+
+(b) any grounds that might exist for not excluding the pupil, to the extent that those grounds relate to his education or welfare after exclusion.'
+
+- For subsection (3) substitute-
+
+'(3) If an application is made under subsection (2) or (2A), the court may make a parenting order in respect of a pupil if it is satisfied-
+
+(a) in the case of an application under subsection (2A), that the pupil has engaged in behaviour of the kind mentioned in that subsection, and
+
+(b) in any case, that the making of the order would be desirable in the interests of improving the behaviour of the pupil.'
+
+- After subsection (8) insert-
+
+'(9) In this section 'a relevant body' means-
+
+(a) a [ F1 local authority ] ,
+
+(b) the governing body of any relevant school in England at which the pupil to whom the application relates is a pupil or from which he has been excluded.'
+
+- In the heading, after 'exclusion' insert ' or potential exclusion '.
+
+[[END OF PAGE 95]]
+
+[[START OF PAGE 96]]
+
+96
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+##### Commencement Information
+I133 S. 98 in force at 1.9.2007 for E. by S.I. 2007/1801, art. 3(c)
+I134 S. 98 in force at 31.10.2010 for specified purposes for W. by S.I. 2010/2543, art. 2(h)
+I135 S. 98 in force at 5.1.2011 for W. in so far as not already in force by S.I. 2010/2543, art. 3(a)
+
+#### 99 Parenting contracts and parenting orders: further provisions
+
+- The Anti-social Behaviour Act 2003 (c. 38) is amended as follows.
+
+- In section 21 (parenting orders: supplemental)-
+
+(a) in subsection (1)(a), after 'subsection (1)' insert ' or (1A) ',
+
+(b) after subsection (1) insert-
+
+'(1A) In  deciding  whether  to  make  a  parenting  order  under  section  20, a  court  must  also  take  into  account  any  failure  by  the  parent without reasonable excuse to attend a reintegration interview under section 102 of the Education and Inspections Act 2006 (reintegration interview in case of fixed period exclusion) when requested to do so in accordance with regulations under that section.',
+
+(c) omit subsection (4), and
+
+(d) in subsection (5), after 'authorities,' insert ' governing bodies '.
+
+- After section 22 insert-
+
+##### ' 22A Parenting contracts and parenting orders: further provisions
+
+- The appropriate person may by regulations make further provision about the exercise by [ F1 local authorities ] and the governing bodies of relevant schools of their functions relating to-
+
+(a) parenting contracts under section 19, and
+
+(b) parenting orders under section 20.
+
+- The provision that may be made under subsection (1) includes-
+
+(a) provision limiting the power of a [ F1 local authority ] to  enter into a parenting contract, or apply for a parenting order, in prescribed cases where-
+
+(i) the school by reference to which the contract is entered into or the application is made is not in the area of the authority, or
+
+(ii) the child by reference to whom the contract is entered into or the application is made does not reside in that area;
+
+(b) provision as to which governing body may apply for a parenting order in cases where a pupil has been admitted to a relevant school after being permanently excluded from another;
+
+(c) provision  requiring  one [ F1 local  authority ] or  governing  body  to consult with another before taking any prescribed step;
+
+[[END OF PAGE 96]]
+
+[[START OF PAGE 97]]
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion
+
+Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+97
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(d) provision authorising or requiring the provision of information by one [ F1 local authority ] or governing body to another;
+
+(e) provision  as  to  how  the  costs  associated  with  parenting  contracts entered into by [ F1 local authorities ] or governing bodies of relevant schools or the costs associated with the requirements of parenting orders under section 20 (including in each case the costs of providing counselling or guidance programmes) are to be met.
+
+- In subsection (2), 'prescribed' means prescribed by regulations made by the appropriate person under subsection (1).'
+
+- In section 24 (interpretation)-
+
+(a) for 'sections 19 to 21' substitute ' sections 19 to 22A ', and
+
+(b) after the definition of 'child of compulsory school age' insert-
+
+''governing  body',  in  relation  to  a  relevant  school  which  is  an Academy,  a  city  technology  college  or  a  city  college  for  the technology of the arts, means the proprietor of the school, as defined by section 579(1) of the 1996 Act;'.
+
+##### Textual Amendments
+F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+##### Commencement Information
+I136 S. 99 in force at 1.9.2007 for E. by S.I. 2007/1801, art. 3(c) (with art. 5(2))
+I137 S. 99 in force at 31.10.2010 for specified purposes for W. by S.I. 2010/2543, art. 2(h)
+I138 S. 99 in force at 5.1.2011 for W. in so far as not already in force by S.I. 2010/2543, art. 3(a)
+
+### Excluded pupils
+
+#### 100 Duty of governing body or proprietor where pupil excluded for fixed period
+
+- Except in prescribed cases, the governing body of a relevant school in England must make arrangements  for  the  provision  of  suitable  full-time  education  for  pupils  of compulsory  school  age  who  are  excluded  from  the  school  for  a  fixed  period  on disciplinary grounds.
+
+- The education referred to in subsection (1) must be provided from a day that, in relation to the pupil concerned, is determined in accordance with regulations.
+
+- The  education  must  not  be  provided  at  the  school  unless  it  is  provided  there  in pursuance of arrangements which-
+
+(a) are made jointly with the governing body of at least one other relevant school, and
+
+(b) make provision for the education of pupils excluded on disciplinary grounds from any of the schools that are parties to the arrangements.
+
+- In determining what arrangements to make under subsection (1) in the case of any pupil, a governing body must have regard to any guidance given from time to time by the Secretary of State.
+
+[[END OF PAGE 97]]
+
+[[START OF PAGE 98]]
+
+98
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 7 - Discipline, behaviour and exclusion
+
+Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made
+
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In this section-
+
+'governing body', in relation to a relevant school which is an [ F117 Academy school, an alternative provision Academy, ] a city technology college or a city college for the technology of the arts, means proprietor;
+
+'prescribed' means prescribed by regulations;
+
+'regulations' means regulations made by the Secretary of State;
+
+'relevant school' does not include a pupil referral unit;
+
+'suitable full-time education', in relation to a pupil, means efficient fulltime  education  suitable  to  his  age,  ability  and  aptitude  and  to  any  special educational needs he may have.
+
+##### Textual Amendments
+F117 Words in s. 100(5) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 16(3) ; S.I. 2012/924, art. 2
+##### Commencement Information
+I139 S. 100 in force at 1.9.2007 by S.I. 2007/1801, art. 4(g)
+
+#### 101 Duty of [ F1 local authority] in relation to excluded pupils
+
+- Section 19 of EA 1996 (exceptional provision of education in pupil referral units or elsewhere) is amended as follows.
+
+- After subsection (3) insert-
+
+'(3A) In relation to England, the duty imposed by subsection (1) includes, except in prescribed cases, a duty to make arrangements for the provision of suitable full-time education at school or otherwise than at school for-
+
+(a) children  of  compulsory  school  age  who  have  been  permanently excluded  on  disciplinary  grounds  from  relevant  schools  or  pupil referral units, and have not subsequently been admitted to schools other than pupil referral units, and
+
+(b) children  of  compulsory  school  age  who  are  excluded  for  a  fixed period on disciplinary grounds from any pupil referral unit maintained by the authority.
+
+(3B) The education referred to in subsection (3A) must be provided from a day that,  in  relation  to  the  pupil  concerned,  is  determined  in  accordance  with regulations.'
+
+- For subsection (6) substitute-
+
+'(6) In this section-
+
+'relevant school' means-
+
+(a) a maintained school,
+
+(b) an Academy,
+
+(c) a city technology college, or
+
+(d) a city college for the technology of the arts;
+
+'suitable education', in relation to a child or young person, means efficient  education  suitable  to  his  age,  ability  and  aptitude  and  to Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 98]]
+
+[[START OF PAGE 99]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 7 - Discipline, behaviour and exclusion
+
+Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+99
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+any special educational needs he may have (and 'suitable full-time education' is to be read accordingly).'
+
+##### Textual Amendments
+F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+##### Commencement Information
+I140 S. 101 in force at 1.9.2007 by S.I. 2007/1801, art. 4(g)
+
+#### 102 Reintegration interviews
+
+- Regulations may require the head teacher of a relevant school in prescribed cases to  request  any  parent  of  a  temporarily  excluded  pupil  to  attend  an  interview  ('a reintegration interview') at the school with the head teacher of the school or any other person authorised by the head teacher.
+
+- The purpose of a reintegration interview is to assist the reintegration of the pupil after the period of exclusion and to promote the improvement of his behaviour.
+
+- Regulations under this section may make provision about the time within which any reintegration interview must be held, the procedure for arranging the interview and the notification of any request to the parent.
+
+- In this section-
+
+'prescribed' means prescribed by regulations;
+
+'regulations' means regulations made-
+
+(a) in relation to England, by the Secretary of State, or
+
+(b) in relation to Wales, by the Assembly;
+
+'a temporarily excluded pupil' means a pupil who is or has been excluded on disciplinary grounds for a fixed period.
+
+##### Commencement Information
+I141 S. 102 in force at 1.9.2007 for E. by S.I. 2007/1801, art. 3(d)
+I142 S. 102 in force at 31.10.2010 for specified purposes for W. by S.I. 2010/2543, art. 2(i)
+I143 S. 102 in force at 5.1.2011 for W. in so far as not already in force by S.I. 2010/2543, art. 3(b)
+
+#### 103 Duty of parent in relation to excluded pupil
+
+- This section applies where-
+
+(a) a  pupil  of  compulsory  school  age  ('the  excluded  pupil')  is  excluded  on disciplinary grounds from a relevant school in England, whether for a fixed period or permanently, and
+
+(b) notice under section 104 has been given to a parent of the pupil.
+
+- The parent of the excluded pupil must ensure that the pupil is not present in a public place at any time during school hours on a day which-
+
+[[END OF PAGE 99]]
+
+[[START OF PAGE 100]]
+
+100
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) is  one  of  the  first  five  school  days  to  which  the  exclusion  mentioned  in subsection (1)(a) relates or, where that exclusion is for a fixed period of five days or less, any of the days to which the exclusion relates, and
+
+(b) is stated in the notice under section 104 to be a day on which the parent is subject to this subsection.
+
+- If the excluded pupil is present in a public place at any time during school hours on a school day falling within subsection (2), the parent commits an offence.
+
+- It is a defence for a person charged with an offence under subsection (3) to prove that he had a reasonable justification for his failure to comply with the duty imposed by subsection (2).
+
+- A person guilty of an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+- Proceedings for an offence under subsection (3) may not be instituted except by a [ F1 local authority ] .
+
+- Where the excluded pupil is excluded during the course of a school day but before the beginning of any afternoon session on that day, that day is to be treated for the purposes of subsection (2)(a) as the first day to which the exclusion relates.
+
+- In this section-
+
+'parent', in relation to a pupil, does not include any person who is not an individual;
+
+'public place' means-
+
+(a) any highway, and
+
+(b) any place to which at the material time the public or any section of the public have access, on payment or otherwise, as of right or by virtue of express or implied permission;
+
+'school  hours'  means  any  time  during  a  school  session  of  the  school referred to in subsection (1)(a) or during a break between sessions of that school on the same day.
+
+##### Textual Amendments
+F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+##### Commencement Information
+I144 S. 103 in force at 1.9.2007 by S.I. 2007/1801, art. 4(h)
+
+#### 104 Notice to parent relating to excluded pupil
+
+- The head teacher of a relevant school in England, on excluding from the school a pupil of compulsory school age, must give the parent by the prescribed time a notice in writing complying with subsections (2) and (3) and containing such other information as may be prescribed.
+
+- Where the appropriate authority are or will be obliged under the relevant enactment to make arrangements for the provision of full-time education for the excluded pupil during his exclusion, or intend to do so without being so obliged, the notice must
+
+[[END OF PAGE 100]]
+
+[[START OF PAGE 101]]
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion
+
+Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+101
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+specify the first day on which full-time education is to be provided for the excluded pupil.
+
+- The notice must specify as days on which the parent is to be subject to section 103(2) each school day beginning with the first school day to which the exclusion relates and ending with the earliest of the following-
+
+(a) where a day is specified under subsection (2), the school day preceding that day,
+
+(b) the fifth school day to which the exclusion relates, and
+
+(c) the last school day to which the exclusion relates.
+
+- Subsection (7) of section 103 applies for the purposes of subsection (3) as it applies for the purposes of subsection (2)(a) of that section.
+
+- Where  the  appropriate  authority  are  a [ F1 local  authority ] ,  they  must  provide  the head teacher with such information as will enable the head teacher to give a notice complying with subsection (2).
+
+- Section 572 of EA 1996, which provides for the methods by which notices may be served under that Act, does not preclude a notice under this section from being given to the parent of the excluded pupil by any effective method.
+
+- Regulations  may  enable  a  notice  under  this  section  to  be  combined  with  a  notice required by virtue of section 52(3)(a) of EA 2002 (which relates to the exclusion of pupils from maintained schools).
+
+- In this section-
+
+'the appropriate authority' means-
+
+(a) in the case of a permanent exclusion or an exclusion from a pupil referral unit, a [ F1 local authority ] ,
+
+(b) in the case of an exclusion for a fixed period from a maintained school, the governing body of the school, and
+
+(c) in  the  case  of  an  exclusion  for  a  fixed  period  from  a  relevant  school which is an [ F118 Academy school, an alternative provision Academy, ] a city technology college or a city college for the technology of the arts, the proprietor of the school;
+
+'prescribed' means prescribed by regulations;
+
+'regulations' means regulations made by the Secretary of State;
+
+'the relevant enactment' means-
+
+(a) where the appropriate authority is a [ F1 local authority ] , section 19 of EA 1996, and
+
+(b) in any other case, section 100 of this Act.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+- F118 Words in s. 104(8) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 16(4) ; S.I. 2012/924, art. 2
+
+[[END OF PAGE 101]]
+
+[[START OF PAGE 102]]
+
+102
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Modifications etc. (not altering text)
+
+C17 S. 104 modified (18.5.2012) by The Wiltshire Council (Arrangements for the Provision of Suitable Education) Order 2012 (S.I. 2012/1107), arts. 1(2)(a), 7 (with art. 5)
+##### Commencement Information
+I145 S. 104 in force at 1.9.2007 by S.I. 2007/1801, art. 4(h)
+
+#### 105 Penalty notice in respect of presence of excluded pupil in public place
+
+- Where an authorised officer has reason to believe that a person has committed an offence under section 103(3), he may give the person a penalty notice in respect of the offence.
+
+- A penalty notice is a notice offering the person the opportunity of discharging any liability to conviction for the offence under section 103(3) to which the notice relates by payment of a penalty in accordance with the notice.
+
+- Where a person is given a penalty notice, proceedings for the offence to which the notice relates may not be instituted before the end of such period as may be prescribed.
+
+- Where a person is given a penalty notice, he cannot be convicted of the offence to which the notice relates if he pays a penalty in accordance with the notice.
+
+- Sums received by a [ F1 local authority ] under this section may be used by the authority for the purposes of any of their functions which may be specified in regulations but, to the extent that they are not so used, must be paid in accordance with regulations to the Secretary of State.
+
+- In this section-
+
+'authorised officer' means-
+
+(a) a constable,
+
+(b) an officer of a [ F1 local authority ] in England who is authorised by the authority to give penalty notices, or
+
+(c) an authorised staff member; 'authorised staff member' means-
+
+(a) a head teacher of a relevant school in England, or
+
+(b) a member of the staff of a relevant school in England who is authorised by the head teacher of the school to give penalty notices;
+
+'regulations' means regulations made by the Secretary of State.
+
+##### Textual Amendments
+F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+##### Commencement Information
+I146 S. 105 in force at 1.9.2007 by S.I. 2007/1801, art. 4(h)
+
+#### 106 Penalty notices: supplemental
+
+- Regulations may make-
+
+[[END OF PAGE 102]]
+
+[[START OF PAGE 103]]
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion
+
+Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+103
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) provision as to the form and content of penalty notices;
+
+(b) provision as to the monetary amount of any penalty and the time by which it is to be paid;
+
+(c) provision for determining the [ F1 local authority ] to whom a penalty is payable;
+
+(d) provision as to the methods by which penalties may be paid;
+
+(e) provision as to the records which are to be kept in relation to penalty notices;
+
+(f) provision as to the persons who may be authorised by a [ F1 local authority ] or a head teacher to give penalty notices;
+
+(g) provision  limiting  the  circumstances  in  which  authorised  officers  of  a prescribed description may give penalty notices;
+
+(h) provision for or in connection with the withdrawal, in prescribed circumstances, of a penalty notice, including-
+
+(i) repayment of any amount by way of penalty under a penalty notice which is withdrawn, and
+
+(ii) prohibition of the institution or continuation of proceedings for the offence to which the withdrawn notice relates;
+
+(i) provision for a certificate-
+
+(i) purporting to be signed by or on behalf of a prescribed person, and
+
+(ii) stating that payment of any amount paid by way of penalty was or, as the case may be, was not received on or before a date specified in the certificate,
+
+to be received in evidence of the matters so stated;
+
+(j) provision as to the action to be taken if a penalty is not paid in accordance with a penalty notice;
+
+(k) provision for or in connection with the preparation of codes of conduct in relation to the giving of penalty notices;
+
+(l) such other provision in relation to penalties or penalty notices as the Secretary of State thinks necessary or expedient.
+
+- Without prejudice to the generality of subsection (1) or section 181(2)(a), regulations under subsection (1)(b) may make provision for penalties of different amounts to be payable in different cases (including provision for the penalty payable under a penalty notice to differ according to the time by which it is paid).
+
+[ F1 Local authorities ] , head teachers and authorised officers must, in carrying out their functions in relation to penalty notices, have regard to any guidance which is given by the Secretary of State from time to time in relation to penalty notices.
+
+- In this section -
+
+'penalty' means a penalty under a penalty notice;
+
+'penalty notice' has the meaning given by section 105(2);
+
+and other expressions have the same meaning as in section 105.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+[[END OF PAGE 103]]
+
+[[START OF PAGE 104]]
+
+104
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I147 S. 106 in force at 1.9.2007 by S.I. 2007/1801, art. 4(h)
+
+#### 107 Penalty notices: amendments of Police Reform Act 2002
+
+- The Police Reform Act 2002 (c. 30) is amended as follows.
+
+F119
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- F119 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- In paragraph 1(2) of Schedule 5 (powers of accredited persons to issue fixed penalty notices), after paragraph (ab) insert-
+
+'(ac) the power of a constable to give a penalty notice under section 105 of the Education and Inspections Act 2006 (penalty notice in respect of presence of excluded pupil in public place);'.
+
+- In paragraph 1(4) of that Schedule, after 'sub-paragraph (2)(ab)' insert ' or (ac) '.
+
+- In paragraph 2(4) of that Schedule, after 'paragraph 1(2)(ab)' insert ' or (ac) '.
+
+##### Textual Amendments
+
+F119 S. 107(2)(3) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 20(a) ; S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+
+##### Commencement Information
+I148 S. 107 in force at 1.9.2007 by S.I. 2007/1801, art. 4(h)
+
+#### 108 Removal of excluded pupils to designated premises
+
+- Section  16  of  the  Crime  and  Disorder  Act  1998  (c.  37)  (removal  of  truants  to designated premises) is amended in accordance with subsections (2) to (6).
+
+- In subsection (2)-
+
+(a) for 'subsection (3)' substitute ' subsections (3) and (3ZA) ', and
+
+(b) for 'that subsection' substitute ' each of those subsections '.
+
+- After subsection (3) insert-
+
+'(3ZA) If a constable has reasonable cause to believe that a child or young person found by him in a public place in a specified area during a specified period and during school hours-
+
+(a) is of compulsory school age,
+
+(b) has been excluded on disciplinary grounds from a relevant school for a fixed period or permanently,
+
+(c) remains excluded from that school,
+
+(d) has not subsequently been admitted as a pupil to any other school, and
+
+(e) has no reasonable justification for being in the public place,
+
+- the constable may remove the child or young person to designated premises.'
+
+[[END OF PAGE 104]]
+
+[[START OF PAGE 105]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 7 - Discipline, behaviour and exclusion
+
+Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+105
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- After subsection (3A) insert-
+
+'(3B) In subsection (3ZA), 'school hours' means any time during a school session of the school referred to in paragraph (b) of that subsection or during a break between sessions of that school on the same day.'
+
+- In subsection (5), after the definition of 'public place' insert-
+
+''relevant school' has the meaning given by section 111 of the Education and Inspections Act 2006;'.
+
+F120
+
+- In the heading, after 'truants' insert ' and excluded pupils '. (7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F120 S. 108(7) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 20(b) ; S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+##### Commencement Information
+I149 S. 108 in force at 1.9.2007 for E. by S.I. 2007/1801, art. 3(e)
+I150 S. 108 in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(j)
+
+### School attendance
+
+#### 109 Failure to secure school attendance
+
+- In section 444 of EA 1996 (offence of failing to secure regular attendance at school of registered pupil), in subsection (1A), omit 'without reasonable justification'.
+
+- After that subsection insert-
+
+'(1B) It is a defence for a person charged with an offence under subsection (1A) to prove that he had a reasonable justification for his failure to cause the child to attend regularly at the school.'
+
+- In subsection (2) of that section, for '(3)' substitute ' (2A) '.
+
+- After that subsection insert-
+
+'(2A) The child shall not be taken to have failed to attend regularly at the school by reason of his absence from the school at any time if the parent proves that at that time the child was prevented from attending by reason of sickness or any unavoidable cause.'
+
+- In subsection (3) of that section-
+
+(a) at the end of paragraph (a) insert ' or ', and
+
+(b) omit paragraph (b) and the 'or' immediately following it.
+
+- In  subsection  (6)  of  that  section,  for  'the  parent  shall  be  acquitted  if  he  proves' substitute ' it is a defence for the parent to prove '.
+
+[[END OF PAGE 105]]
+
+[[START OF PAGE 106]]
+
+106
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 7 - Discipline, behaviour and exclusion
+
+Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In subsection (7) of that section, for 'at a time when he was not' substitute ' unless the parent proves that at that time the child was '.
+
+- After that subsection insert-
+
+'(7A) Where-
+
+(a) a child of compulsory school age has been excluded for a fixed period on disciplinary grounds from a school in England which is-
+
+(i) a maintained school,
+
+(ii) a pupil referral unit,
+
+(iii) an Academy,
+
+(iv) a city technology college, or
+
+(v) a city college for the technology of the arts,
+
+(b) he remains for the time being a registered pupil at the school,
+
+(c) the appropriate authority make arrangements for the provision of fulltime education for him at the school during the period of exclusion, and
+
+(d) notice in writing of the arrangements has been given to the child's parent,
+
+the exclusion does not affect the application of subsections (1) to (7) to the child's attendance at the school on any day to which the arrangements relate.
+
+(7B) In subsection (7A)(c) 'the appropriate authority' means-
+
+(a) in relation to a maintained school, the governing body of the school,
+
+(b) in relation to a pupil referral unit, the [ F1 local authority ] , and
+
+(c) in relation to any school mentioned in subsection (7A)(a)(iii) to (v), the proprietor of the school.'
+
+- In  subsection  (6)  of  section  444ZA  of  EA  1996  (application  of  section  444  to alternative  educational  provision),  for  'the  parent  shall  be  acquitted  if  he  proves' substitute ' it is a defence for the parent to prove '.
+
+- In  section  16  of  the  Crime  and  Disorder  Act  1998  (c.  37),  in  subsection  (4)  for the words from 'unless' to the end substitute ' unless the child or young person is prevented from attending by sickness or other unavoidable cause or the absence falls within subsection (3) (leave or day set apart for religious observance) of section 444 of the Education Act 1996 '.
+
+- The amendments made by this section, and the entry in Part 1 of Schedule 18 relating to  section  444  of  EA  1996,  do  not  apply  in  relation  to  any  failure  to  attend  at  a school, or other place in relation to which that section applies, which occurs before the commencement of the amendment in question.
+
+##### Textual Amendments
+
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+
+##### Commencement Information
+
+I151 S. 109(8) in force at 1.9.2007 by S.I. 2007/1801, art. 4(i)
+
+[[END OF PAGE 106]]
+
+[[START OF PAGE 107]]
+
+Education and Inspections Act 2006 (c. 40) Part 7 - Discipline, behaviour and exclusion
+
+Chapter 2 - Parental responsibilities and excluded pupils
+
+Document Generated: 2020-04-22
+
+107
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 110 Sums received under section 444A of EA 1996
+
+In section 444A of EA 1996 (penalty notice in respect of failure to secure regular attendance at school of registered pupil) for subsection (6) substitute-
+
+'(6) Sums received by a [ F1 local authority ] under this section may be used by the authority  for  the  purposes  of  any  of  its  functions  which  may  be  specified in  regulations  but,  to  the  extent  that  they  are  not  so  used,  must  be  paid  in accordance with regulations to the Secretary of State.'
+
+##### Textual Amendments
+- F1 Words in Pts. 1-7 substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(2)
+##### Commencement Information
+I152 S. 110 in force at 1.9.2007 by S.I. 2007/1801, art. 4(i)
+
+### Interpretation of Chapter 2
+
+#### 111 Meaning of 'maintained school' and 'relevant school' in Chapter 2
+
+In this Chapter-
+
+'maintained school' means-
+
+(a) a community, foundation or voluntary school,
+
+(b) a community or foundation special school, or
+
+(c)
+
+- a pupil referral unit; 'relevant school' means-
+
+(a) a maintained school,
+
+(b) [ F121 an Academy school,
+
+(ba) an alternative provision Academy, ]
+
+(c) a city technology college, or
+
+(d) a city college for the technology of the arts.
+
+##### Textual Amendments
+F121 Words in s. 111 substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 16(5) ; S.I. 2012/924, art. 2
+
+[[END OF PAGE 107]]
+
+[[START OF PAGE 108]]
+
+108
+
+Education and Inspections Act 2006 (c. 40) Part 8 - Inspections Chapter 1 - The Office and the Chief Inspector Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+## PART 8
+
+### INSPECTIONS
+
+## CHAPTER 1
+
+### THE OFFICE AND THE CHIEF INSPECTOR
+
+### The Office
+
+#### 112 The Office for Standards in Education, Children's Services and Skills
+
+- There  is  to  be  a  body  corporate  known  as  the  Office  for  Standards  in  Education, Children's Services and Skills.
+
+- In this Part that body is referred to as 'the Office'.
+
+- The Office is to perform its functions on behalf of the Crown.
+
+- Schedule 11 makes further provision about the Office.
+
+##### Commencement Information
+I153 S. 112(1)-(3) in force at 12.12.2006 by S.I. 2006/2990, art. 2(b)
+I154 S. 112(4) in force at 12.12.2006 for specified purposes by S.I. 2006/2990, art. 2(c)
+I155 S. 112(4) in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(r)
+
+### The Chief Inspector and other inspectors
+
+#### 113 Her Majesty's Chief Inspector of Education, Children's Services and Skills
+
+- Her Majesty may by Order in Council appoint a person to the office of Her Majesty's Chief Inspector of Education, Children's Services and Skills.
+
+- In this Part the holder of that office is referred to as 'the Chief Inspector'.
+
+- The Chief Inspector is to be a member of the Office (see paragraph 1 of Schedule 11).
+
+- The  Chief  Inspector  holds  and  vacates  office  in  accordance  with  the  terms  of  his appointment.
+
+- Those terms are to be determined by the Secretary of State.
+
+- But the Chief Inspector-
+
+(a) must not be appointed for a term of more than five years,
+
+(b) may at any time resign by giving written notice to the Secretary of State, and
+
+(c) may be removed from office by Her Majesty on the grounds that he is unable or unfit to carry out the duties of his office.
+
+- The previous appointment of a person as Chief Inspector does not affect his eligibility for appointment.
+
+[[END OF PAGE 108]]
+
+[[START OF PAGE 109]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 1 - The Office and the Chief Inspector
+
+Document Generated: 2020-04-22
+
+109
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The office of Her Majesty's Chief Inspector of Schools in England is abolished.
+
+- But any person holding that office immediately before the appointed day is to become, as from that day, Her Majesty's Chief Inspector of Education, Children's Services and Skills.
+
+- As from the appointed day-
+
+(a) the Order in Council by which such a person was appointed has effect as if it  were  an  Order  in  Council under subsection (1) appointing him as Chief Inspector, and
+
+(b) the terms of his appointment have effect as if determined under subsection (5).
+
+- In this section 'the appointed day' means the day appointed under section 188 for the coming into force of this section.
+
+##### Commencement Information
+
+I156 S. 113 partly in force; s. 113 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1)
+
+I157 S. 113 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(s)
+
+#### 114 Her Majesty's Inspectors of Education, Children's Services and Skills
+
+- Her Majesty may by Order in Council appoint persons as Her Majesty's Inspectors of Education, Children's Services and Skills.
+
+- In this Part a person so appointed is referred to as an 'HMI'.
+
+- An HMI is to serve, in accordance with the terms of his appointment, as a member of the staff of the Office.
+
+- Those terms are to be determined by the Chief Inspector.
+
+- A person's appointment as HMI ends when he ceases to serve as a member of the staff of the Office.
+
+- Any person who-
+
+(a) is one of Her Majesty's Inspectors of Schools in England immediately before the appointed day, and
+
+(b) is then serving as member of the staff of Her Majesty's Chief Inspector of Schools in England or of the Adult Learning Inspectorate,
+
+is to become, as from that day, one of Her Majesty's Inspectors of Education, Children's Services and Skills.
+
+- As from the appointed day-
+
+(a) the Order in Council by which such a person was appointed has effect as if it were an Order in Council under subsection (1) appointing him as an HMI, and
+
+(b) the terms of his appointment have effect as if determined under subsection (4).
+
+- In this section 'the appointed day' means the day appointed under section 188 for the coming into force of this section.
+
+[[END OF PAGE 109]]
+
+[[START OF PAGE 110]]
+
+110
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 1 - The Office and the Chief Inspector
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I158 S. 114 partly in force; s. 114 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1)
+
+I159 S. 114 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(s)
+
+#### 115 Further provision about Chief Inspector and other inspectors etc.
+
+Schedule 12 makes further provision about the Chief Inspector and persons acting on his behalf.
+
+##### Commencement Information
+I160 S. 115 in force at 1.4.2007 by S.I. 2007/935, art. 5(s)
+
+### Functions: the Office
+
+#### 116 Functions of the Office
+
+- The Office has the following functions-
+
+(a) to determine strategic priorities for the Chief Inspector in connection with the performance of his functions;
+
+(b) to determine strategic objectives and targets relating to such priorities; and
+
+(c) to secure that the Chief Inspector's functions are performed efficiently and effectively.
+
+- The Office is to have such other functions in connection with the performance of the Chief Inspector's functions as may be assigned to it by the Secretary of State.
+
+##### Modifications etc. (not altering text)
+C18 S. 116(1)(a) modified (temp.) (12.12.2006) by Office for Standards in Education, Children's Services and Skills (Transitional Provisions) Regulations 2006 (S.I. 2006/2991), regs. 1(1), 2(a)
+##### Commencement Information
+I161 S. 116(1)(a)(b) in force at 12.12.2006 by S.I. 2006/2990, art. 2(d)
+I162 S. 116(1)(c)(2) in force at 1.4.2007 by S.I. 2007/935, art. 5(t)
+
+#### 117 Performance of Office's functions
+
+- The Office is to perform its functions for the general purpose of encouraging-
+
+(a) the improvement of activities within the Chief Inspector's remit,
+
+(b) the carrying on of such activities as user-focused activities, and
+
+(c) the efficient and effective use of resources in the carrying on of such activities.
+
+- In performing its functions the Office is to have regard to-
+
+(a) the need to safeguard and promote the rights and welfare of children;
+
+[[END OF PAGE 110]]
+
+[[START OF PAGE 111]]
+
+Education and Inspections Act 2006 (c. 40) Part 8 - Inspections Chapter 1 - The Office and the Chief Inspector Document Generated: 2020-04-22
+
+111
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+[ F122 (aa) any matters raised by the Children's Commissioner with the Office or the Chief Inspector; ]
+
+(b) views  expressed  by  relevant  persons  about  activities  within  the  Chief Inspector's remit;
+
+(c) levels of satisfaction with such activities on the part of relevant persons;
+
+(d) the need to promote the efficient and effective use of resources in the carrying on of such activities;
+
+(e) the  need  to  ensure  that  action  by  the  Chief  Inspector  in  relation  to such  activities  is  proportionate  to  the  risks  against  which  it  would  afford safeguards;
+
+(f) any developments in approaches to inspection or regulatory action; and
+
+(g) best practice amongst persons performing functions comparable to those of the Chief Inspector.
+
+- In  performing  its  functions  the  Office  must  also  have  regard  to  such  aspects  of government policy as the Secretary of State may direct.
+
+(4) In this section-
+
+(a) 'children' means persons under the age of 18;
+
+(b) 'relevant persons', in relation to activities within the Chief Inspector's remit, means persons who have an interest in such activities, whether-
+
+(i) as persons for whose benefit they are carried on, or
+
+(ii) as parents (if they are carried on for the benefit of children), or
+
+(iii) as employers;
+
+(c) 'parents' includes persons-
+
+(i) who are not parents of children but have parental responsibility for them (within the meaning of the Children Act 1989 (c. 41)), or
+
+(ii) who have care of children.
+
+- Subsection  (6)  provides  for  the  interpretation,  for  the  purposes  of  this  Part,  of references to activities within the Chief Inspector's remit and related expressions.
+
+(6) For those purposes-
+
+(a) 'activities' includes-
+
+(i) the provision of any form of education, training or care,
+
+(ii) the provision of any form of services or facilities, and
+
+(iii) the performance of any function;
+
+(b) activities are within the Chief Inspector's remit-
+
+(i) if he exercises any inspection function in relation to them, or
+
+(ii) if they are services of the kind provided by persons in respect of whom he is the registration authority by virtue of any enactment; and
+
+(c) references to persons for whose benefit activities are carried on are, in relation to activities within paragraph (a)(i) or (ii), references to persons for whom the education, training or care is provided, or (as the case may be) for whom the services or facilities are provided.
+
+##### Textual Amendments
+
+F122 S. 117(2)(aa) inserted (1.4.2014) by Children and Families Act 2014 (c. 6), ss. 116(2)(a) , 139(5)
+
+[[END OF PAGE 111]]
+
+[[START OF PAGE 112]]
+
+112
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 1 - The Office and the Chief Inspector
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I163 S. 117 in force at 12.12.2006 by S.I. 2006/2990, art. 2(e)
+
+### Functions: the Chief Inspector
+
+#### 118 Functions of the Chief Inspector
+
+- The Chief Inspector has the general duty of keeping the Secretary of State informed about-
+
+(a) the  quality  of  activities  within  the  Chief  Inspector's  remit  and  (where appropriate) the standards achieved by those for whose benefit such activities are carried on,
+
+(b) improvements in the quality of such activities and in any such standards,
+
+(c) the  extent  to  which  such  activities  are  being  carried  on  as  user-focused activities, and
+
+(d) the efficient and effective use of resources in the carrying on of such activities and services.
+
+- If requested to do so by the Secretary of State, the Chief Inspector must provide the Secretary of State with information or advice on such matters relating to activities within the Chief Inspector's remit as are specified in the request.
+
+- The Chief Inspector may at any time give advice to the Secretary of State on any matter connected with any activities within his remit, including advice relating to a particular establishment, institution or agency.
+
+- The Chief Inspector is to have such other functions in connection with activities within his remit as may be assigned to him by the Secretary of State.
+
+- Subsection (6) applies where the Chief Inspector is requested under subsection (2) to provide the Secretary of State with information or advice on matters relating to activities within the Chief Inspector's remit.
+
+- Any enactment by virtue of which-
+
+(a) an  inspection  may  be  conducted  by  the  Chief  Inspector  in  relation  to  the activities in question (whether or not in pursuance of any duty), or
+
+(b) any power of entry is exercisable by him in relation to those activities,
+
+is to have effect, with any necessary modifications, so as to enable him to conduct an inspection, or exercise any such power, for the purpose of complying with the request.
+
+- In subsection (6) any reference to a power of entry includes a reference to a power to  inspect  documents  or  a  power  conferred  in  connection  with  the  inspection  of documents.
+
+- Nothing in this section prejudices the operation of any other enactment relating to functions of the Chief Inspector.
+
+##### Commencement Information
+I164 S. 118 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+[[END OF PAGE 112]]
+
+[[START OF PAGE 113]]
+
+Education and Inspections Act 2006 (c. 40) Part 8 - Inspections
+
+Chapter 1 - The Office and the Chief Inspector
+
+Document Generated: 2020-04-22
+
+113
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 119 Performance of Chief Inspector's functions
+
+- The  Chief  Inspector  is  to  perform  his  functions  for  the  general  purpose  of encouraging-
+
+(a) the improvement of activities within the Chief Inspector's remit,
+
+(b) the carrying on of such activities as user-focused activities, and
+
+(c) the efficient and effective use of resources in the carrying on of such activities.
+
+(2) The Chief Inspector must ensure-
+
+(a) that his functions are performed efficiently and effectively, and
+
+(b) that, so far as practicable, those functions are performed in a way that responds to-
+
+(i) the  needs  of  persons  for  whose  benefit  activities  within  the  Chief Inspector's remit are carried on, and
+
+(ii) the views expressed by other relevant persons about such activities.
+
+- In performing his functions the Chief Inspector must have regard to-
+
+(a) the matters mentioned in section 117(2);
+
+[ F123 (aa) any matters raised by the Children's Commissioner with the Chief Inspector; ] and
+
+(b) such aspects of government policy as the Secretary of State may direct.
+
+- In this section 'relevant persons' has the same meaning as in section 117.
+
+##### Textual Amendments
+
+F123 S. 119(3)(aa) inserted (1.4.2014) by Children and Families Act 2014 (c. 6), ss. 116(2)(b) , 139(5)
+
+##### Commencement Information
+
+I165 S. 119 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+### The Children's Rights Director
+
+#### F124 120 Children's Rights Director
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F124 S. 120 repealed (1.4.2014) by Children and Families Act 2014 (c. 6), ss. 116(1) , 139(5)
+
+### Annual reports etc.
+
+#### 121 Annual and other reports to Secretary of State
+
+- The Chief Inspector must make an annual report to the Secretary of State.
+
+- The  Secretary  of  State  must  lay  a  copy  of  any  such  report  before  each  House  of Parliament.
+
+[[END OF PAGE 113]]
+
+[[START OF PAGE 114]]
+
+114
+
+Education and Inspections Act 2006 (c. 40) Part 8 - Inspections Chapter 2 - General transfer of functions Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The Chief Inspector may make to the Secretary of State such other reports relating to matters which fall within the scope of the Chief Inspector's functions as he considers appropriate.
+
+- The Chief Inspector may arrange for any report made by him under this section to be published in such manner as he considers appropriate.
+
+##### Commencement Information
+
+I166 S. 121 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+## CHAPTER 2
+
+### GENERAL TRANSFER OF FUNCTIONS
+
+#### 122 General transfer of functions to the Chief Inspector
+
+- Subject to the following provisions of this Part, the functions of the existing Chief Inspector  under  or  by  virtue  of  any  enactment  are  transferred  to  the  new  Chief Inspector.
+
+- In this section-
+
+'the  existing  Chief  Inspector'  means  Her  Majesty's  Chief  Inspector  of Schools in England, and
+
+'the  new  Chief  Inspector'  means  the  Chief  Inspector  appointed  under Chapter 1 of this Part.
+
+##### Commencement Information
+I167 S. 122 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+## CHAPTER 3
+
+### INSPECTION OF FURTHER EDUCATION AND TRAINING ETC.
+
+### Education and training to which this Chapter applies
+
+#### 123 Education and training to which this Chapter applies
+
+- This Chapter applies to the following kinds of education and training-
+
+(a) secondary education provided in institutions which are in England and are within the further education sector;
+
+(b) further education for persons aged 16 or over but under 19 which is provided in  such  institutions  and  wholly  or  partly  funded  by  the [ F125 Secretary  of State ] F126 ...;
+
+[ F127 (ba) education provided in 16 to 19 Academies; ]
+
+[[END OF PAGE 114]]
+
+[[START OF PAGE 115]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 3 - Inspection of Further Education and Training etc.
+
+Document Generated: 2020-04-22
+
+115
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(c) further education for persons aged 19 or over which is wholly or partly funded by the [ F128 Secretary of State ] F129 ...;
+
+(d) further education for persons aged under 19 which is provided by [ F130 local authorities ] in England;
+
+(e) further  education  for  persons  aged  19  or  over  which  is  funded  by  such authorities;
+
+[ F131 (ea) further education for persons aged 19 or over which is wholly or partly funded by a combined authority; ]
+
+(f) training for persons aged 16 or over which is funded by the Secretary of State under section 2 of the Employment and Training Act 1973 (c. 50);
+
+(g) training for persons aged 16 or over if it is training the whole or part of which takes  place  at  the  premises  of  an  employer  and  which  is  wholly  or  partly funded by the [ F132 Secretary of State ] F133 ...;
+
+(h) such other education or training as may be prescribed by regulations made by the Secretary of State.
+
+- The training which may be prescribed by regulations under subsection (1)(h) includes training of or for teachers, lecturers, trainers or other persons engaged in the provision of education or training falling within subsection (1)(a) to (g).
+
+- If regulations made by the Secretary of State so provide-
+
+(a) the provision of information, advice or guidance falling within [ F134 section F135 ...  100(1)(j)  of  the  Apprenticeships,  Skills,  Children  and  Learning  Act 2009 ] , or
+
+(b) the  provision  of  any  description  of  such  information,  advice  or  guidance specified in the regulations,
+
+is to be treated for the purposes of this Chapter as training to which it applies.
+
+- In this Chapter-
+
+(a) 'further education' and 'secondary education' have the same meanings as in EA 1996, and
+
+(b) any reference to institutions which are within the further education sector is to be read in accordance with section 91(3) of the Further and Higher Education Act 1992 (c. 13).
+
+[ F136 (5) In this section 'combined authority' means a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009. ]
+
+##### Textual Amendments
+F125 Words in s. 123(1)(b) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 30(2) ; S.I. 2012/924, art. 2 F126 Words in s. 123(1)(b) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 51 F127 S. 123(1)(ba) inserted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 16(6) ; S.I. 2012/924, art. 2 F128 Words in s. 123(1)(c) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 30(2) ; S.I. 2012/924, art. 2 F129 Words in s. 123(1)(c) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 51
+
+[[END OF PAGE 115]]
+
+[[START OF PAGE 116]]
+
+116
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 3 - Inspection of Further Education and Training etc.
+
+Document Generated: 2020-04-22
+
+F137
+
+F138
+
+[
+
+F139
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- F130 Words in s. 123(1)(d) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(6)
+
+- F131 S. 123(1)(ea) inserted (6.11.2018) by The Greater Manchester Combined Authority (Adult Education Functions) Order 2018 (S.I. 2018/1141), arts. 1(1), 9(2)
+
+- F132 Words in s. 123(1)(g) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 30(2) ; S.I. 2012/924, art. 2
+
+- F133 Words in s. 123(1)(g) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 51
+
+- F134 Words in s. 123(3)(a) substituted (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a), Sch. 1 para. 61(c) (with art. 2(3))
+
+- F135 Words in s. 123(3)(a) omitted (1.4.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 30(3) ; S.I. 2012/924, art. 2
+
+- F136 S. 123(5) inserted (6.11.2018) by The Greater Manchester Combined Authority (Adult Education Functions) Order 2018 (S.I. 2018/1141), arts. 1(1), 9(3)
+
+##### Commencement Information
+
+- I168 S. 123 partly in force; s. 123 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1)
+
+- I169 S. 123 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(u)
+
+### Inspection
+
+#### 124 Inspection of education and training to which this Chapter applies
+
+- The Chief Inspector must conduct-
+
+(a) inspections of such education or training to which this Chapter applies as may be specified by the Secretary of State, and
+
+(b) inspections of such class of education or training to which this Chapter applies as may be so specified.
+
+- The  inspections  are  to  be  conducted  at  such  intervals  as  may  be  specified  by  the Secretary of State.
+
+- On  completing  an  inspection  under  this  section,  the  Chief  Inspector  must  make  a written report on it.
+
+- The report-
+
+(a) must state whether the Chief Inspector considers the education or training inspected to be of a quality adequate to meet the reasonable needs of those receiving it, and
+
+(b) may deal with such other matters as he considers relevant.
+
+- The Chief Inspector must send copies of the report to-
+
+(a) the Secretary of State,
+
+(b)
+
+]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ba)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) any [ F140 local  authority  in  England ] providing  funds  for  the  education  or training inspected, and
+
+(d) the provider of the education or training inspected.
+
+[[END OF PAGE 116]]
+
+[[START OF PAGE 117]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 3 - Inspection of Further Education and Training etc.
+
+Document Generated: 2020-04-22
+
+117
+
+F146
+
+[
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Copies  may  also  be  sent  to  such  other  persons  as  the  Chief  Inspector  considers appropriate.
+
+- The Chief Inspector must arrange for the report to be published in such manner as he considers appropriate.
+
+##### Textual Amendments
+
+- F137 S. 124(5)(b) omitted (1.4.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 31 ; S.I. 2012/924, art. 2
+
+- F138 S. 124(5)(b)(ba) substituted for s. 124(5)(b) (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a), Sch. 1 para. 62 (with art. 2(3))
+
+- F139 S. 124(5)(ba) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 52
+
+- F140 Words in s. 124(5)(c) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(7)
+
+##### Commencement Information
+
+I170 S. 124 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 125 Inspection of further education institutions
+
+- The Chief Inspector must inspect all institutions within the further education sector [ F141 , and all 16 to 19 Academies, ][ F142 subject to subsection (1A) ] .
+
+[ F143 (1A) The Secretary of State may by regulations provide that the duty of the Chief Inspector in subsection (1) does not apply to prescribed categories of institution in prescribed circumstances.
+
+(1B) An  institution  to  which  the  duty  in  subsection  (1)  does  not  apply  by  virtue  of regulations under subsection (1A) is an 'exempt institution'. ]
+
+[ F144 Inspections under subsection (1) ] are to be conducted at such intervals as may be specified by the Secretary of State.
+
+- On  completing  an  inspection  under  this  section,  the  Chief  Inspector  must  make  a written report on it.
+
+- The report-
+
+(a) must state whether the Chief Inspector considers the education or training inspected to be of a quality adequate to meet the reasonable needs of those receiving it,
+
+[ F145 (aa) must, in a case where it relates to an institution within the further education sector, comment on the careers guidance provided to relevant students at the institution, ] and
+
+(b) may deal with such other matters as he considers relevant.
+
+- The Chief Inspector must send copies of the report to-
+
+(a) the Secretary of State,
+
+F147
+
+(b)
+
+]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ba) F148 ... and
+
+[[END OF PAGE 117]]
+
+[[START OF PAGE 118]]
+
+118
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 3 - Inspection of Further Education and Training etc.
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(c) the provider of the education or training inspected.
+
+- Copies  may  also  be  sent  to  such  other  persons  as  the  Chief  Inspector  considers appropriate.
+
+- The Chief Inspector must arrange for the report to be published in such manner as he considers appropriate.
+
+[ F149 (8) In this section-
+
+'careers  guidance'  includes  guidance  about  undertaking  any  training, education, employment or occupation;
+
+'relevant student' means a student-
+
+(a) who is aged under 19, or
+
+(b) who  is  aged  19  or  over  and  is  someone  for  whom  an  EHC  plan  is maintained. ]
+
+##### Textual Amendments
+F141 Words in s. 125(1) inserted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para. 16(7) ; S.I. 2012/924, art. 2 F142 Words in s. 125(1) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(2)(a) , 82(1)(d) F143 S. 125(1A)(1B) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(2)(b) , 82(1)(d) F144 Words in s. 125(2) substituted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(2)(c) , 82(1)(d) F145 S. 125(4)(aa) inserted (2.1.2018) by Technical and Further Education Act 2017 (c. 19), ss. 41(2) , 47(2); S.I. 2017/1055, reg. 3(d) F146 S. 125(5)(b) omitted (1.4.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 32 ; S.I. 2012/924, art. 2 F147 S. 125(5)(b)(ba) substituted for s. 125(5)(b) (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a), Sch. 1 para. 63 (with art. 2(3)) F148 S. 125(5)(ba) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 53 F149 S. 125(8) inserted (2.1.2018) by Technical and Further Education Act 2017 (c. 19), ss. 41(3) , 47(2); S.I. 2017/1055, reg. 3(d)
+##### Commencement Information
+I171 S. 125 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 126 Other inspections
+
+- The  Chief  Inspector  may  inspect  any  education  or  training  to  which  this  Chapter applies (in a case where he is not required to do so by virtue of any provision of this Chapter).
+
+[ F150 (1A) The Chief Inspector must inspect an exempt institution if requested to do so by the Secretary of State. ]
+
+- The Chief Inspector may inspect any education or training to which this Chapter does not apply if-
+
+(a) it is further education (whether for persons aged 16 or over but under 19, or for persons aged 19 or over) or training for persons aged 16 or over, and
+
+[[END OF PAGE 118]]
+
+[[START OF PAGE 119]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 3 - Inspection of Further Education and Training etc.
+
+119
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) he is requested to conduct the inspection by the provider of the education or training.
+
+[ F151 (2A) On completing an inspection under subsection (1) or (1A) conducted in response to a request from the Secretary of State or any other person or body, the Chief Inspector must-
+
+(a) make a written report on the inspection;
+
+(b) arrange for the report to be published in such manner as the Chief Inspector considers appropriate. ]
+
+- On completing an inspection under this section [ F152 conducted in any other case ] , the Chief Inspector may-
+
+(a) make a written report on it;
+
+(b) arrange  for  the  report  to  be  published  in  such  manner  as  he  considers appropriate.
+
+- If the Chief Inspector makes a report of an inspection conducted under subsection (1) [ F153 or (1A) ] , he must send copies of the report to-
+
+(a) the Secretary of State,
+
+(c) any [ F157 local  authority  in  England ] providing  funds  for  the  education  or training inspected, and
+
+(d) the provider of the education or training inspected.
+
+- Copies  may  also  be  sent  to  such  other  persons  as  the  Chief  Inspector  considers appropriate.
+
+[ F158 (5A) In the case of an inspection conducted under subsection (1) in response to a request from the provider of the education or training concerned, the Chief Inspector may charge the provider for the cost of the inspection. ]
+
+- In  the  case  of  an  inspection  conducted  under  subsection  (2)  the  Chief  Inspector may charge the provider of the education or training concerned for the cost of the inspection.
+
+- For the purposes of that subsection it is immaterial whether the education or training concerned is provided in the United Kingdom or elsewhere.
+
+[ F159 (8) In this section 'exempt institution' has the meaning given by section 125(1B). ]
+
+F154 [ F155 (b) ] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F156 (ba) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F150 S. 126(1A) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(4) , 82(1)(d) F151 S. 126(2A) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(5) , 82(1)(d) F152 Words in s. 126(3) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(6) , 82(1)(d) F153 Words in s. 126(4) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(7) , 82(1)(d) F154 S. 126(4)(b) omitted (1.4.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 33 ; S.I. 2012/924, art. 2 F155 S. 126(4)(b)(ba) substituted for s. 126(4)(b) (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a), Sch. 1 para. 64 (with art. 2(3)) F156 S. 126(4)(ba) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 54
+
+[[END OF PAGE 119]]
+
+[[START OF PAGE 120]]
+
+120
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 3 - Inspection of Further Education and Training etc.
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+F157 Words in s. 126(4)(c) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(7) F158 S. 126(5A) inserted (1.2.2012) by Education Act 2011 (c. 21), ss. 42(8) , 82(3); S.I. 2012/84, art. 3 F159 S. 126(8) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(9) , 82(1)(d)
+##### Commencement Information
+I172 S. 126 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 127 Action plans
+
+- This section applies where the Chief Inspector publishes a report of an inspection conducted under section 124 or 125 or section 126(1) [ F160 or (1A) ] .
+
+- The provider of the education or training which is the subject of the report must prepare a written statement of-
+
+(a) the action which he proposes to take in the light of the report, and
+
+(b) the period within which he proposes to take that action.
+
+- That person must-
+
+(a) publish  the  statement  within  such  period,  and  in  such  manner,  as  may  be prescribed by regulations made by the Secretary of State; and
+
+(b) send copies of it to such persons as may be so prescribed.
+
+- The requirements of subsection (2) may be waived by the Chief Inspector.
+
+##### Textual Amendments
+F160 Words in s. 127(1) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(10) , 82(1)(d)
+##### Commencement Information
+I173 S. 127 partly in force; s. 127 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1)
+
+I174 S. 127 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(u)
+
+#### 128 Area inspections
+
+- If requested to do so by the Secretary of State, the Chief Inspector must inspect-
+
+(a) the quality and availability of a specified description of education or training, in a specified area in England, for persons who are aged 15 or over but under 19;
+
+(b) the standards achieved by those receiving that education or training; and
+
+(c) whether  the  financial  resources  made  available  to  those  providing  that education  and  training  are  managed  efficiently  and  used  in  a  way  which provides value for money.
+
+- The Chief Inspector may conduct such an inspection without being requested to do so.
+
+- Subsection (4) applies if financial resources have been applied by-
+
+[ F161 (a) the [ F162 Secretary of State ] , ] (aa) F163 ... or (b) a [ F164 local authority in England ] ,
+
+[[END OF PAGE 120]]
+
+[[START OF PAGE 121]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 3 - Inspection of Further Education and Training etc.
+
+Document Generated: 2020-04-22
+
+121
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+in respect of education or training which is being inspected under this section.
+
+- In such a case the inspection may extend to considering whether the application of those resources in that way-
+
+(a) constituted an efficient and effective use of the resources for the purpose of meeting the needs of persons within subsection (1)(a) as regards education or training of the kind in question, and
+
+(b) was appropriate to secure value for money.
+
+- The education or training that may be made the subject of an inspection under this section ('an area inspection') is-
+
+(a) any education or training to which this Chapter applies, or
+
+(b) any  other  education  or  training  within  the  scope  of  the  Chief  Inspector's functions.
+
+- A provider of education or training which is the subject of an area inspection must provide  the  Chief  Inspector  with  any  information  reasonably  requested  by  him  in connection with the inspection.
+
+- Any [ F165 local authority in England ] whose area is wholly or partly within the area which is the subject of an area inspection must provide the Chief Inspector with any information reasonably requested by him in connection with the inspection.
+
+- In subsection (1)(a) the reference to persons who are aged 15 includes persons-
+
+(a) for whom education is being provided at a school, and
+
+(b) who will attain that age in the current school year;
+
+- and for this purpose 'school' and 'school year' have the same meanings as in EA 1996.
+
+##### Textual Amendments
+
+- F161 S. 128(3)(a)(aa) substituted for s. 128(3)(a) (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a), Sch. 1 para. 65 (with art. 2(3))
+
+- F162 Words in s. 128(3)(a) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 34 ; S.I. 2012/924, art. 2
+
+- F163 S. 128(3)(aa) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 55
+
+- F164 Words in s. 128(3)(b) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(7)
+
+- F165 Words in s. 128(7) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(7)
+
+##### Modifications etc. (not altering text)
+
+- C19 S. 128(3)(4) applied (9.11.2015) by The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792), reg. 1(1), Sch. para. 2
+
+- C20 (S.I. 2015/1792), reg. 1(1), Sch. para. 2
+
+S. 128(6)(7) applied (9.11.2015) by The Children Act 2004 (Joint Area Reviews) Regulations 2015
+
+##### Commencement Information
+
+I175 S. 128 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+[[END OF PAGE 121]]
+
+[[START OF PAGE 122]]
+
+122
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 3 - Inspection of Further Education and Training etc.
+
+Document Generated: 2020-04-22
+
+F166
+
+[
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 129 Reports of area inspections
+
+- On completing an area inspection conducted under section 128, the Chief Inspector must make a written report on it.
+
+- The Chief Inspector must send copies of the report to-
+
+(a) the Secretary of State,
+
+F167
+
+(b)
+
+]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ba) F168 ... and
+
+(c) each [ F169 local authority in England ] whose area is wholly or partly within the area subject to the inspection.
+
+- Copies  may  also  be  sent  to  such  other  persons  as  the  Chief  Inspector  considers appropriate.
+
+- The Chief Inspector must arrange for the report to be published in such manner as he considers appropriate.
+
+##### Textual Amendments
+
+- F166 S. 129(2)(b) omitted (1.4.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 35 ; S.I. 2012/924, art. 2
+
+- F167 S. 129(2)(b)(ba) substituted for s. 129(2)(b) (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a), Sch. 1 para. 66 (with art. 2(3))
+
+- F168 S. 129(2)(ba) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 56
+
+- F169 Words in s. 129(2)(c) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(7)
+
+##### Commencement Information
+
+I176 S. 129 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 130 Action plans following area inspections
+
+- This section applies where the Chief Inspector publishes a report of an area inspection conducted under section 128.
+
+F170
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- The Secretary of State may direct a [ F171 local  authority  in  England ] whose area is wholly or partly within the area covered by the report to prepare a written statement of-
+
+(a) the action which they propose to take in the light of the report, and
+
+(b) the period within which they propose to take that action.
+
+- In preparing a statement under subsection F172 ... (3) F173 ... the authority must consult such persons as the Secretary of State may direct.
+
+- The F174 ... authority must-
+
+(a) publish  the  statement  within  such  period,  and  in  such  manner,  as  may  be prescribed by regulations made by the Secretary of State; and
+
+(b) send copies of it to such persons as may be so prescribed.
+
+[[END OF PAGE 122]]
+
+[[START OF PAGE 123]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 3 - Inspection of Further Education and Training etc.
+
+123
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+F175 (6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F170 S. 130(2) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 57(2) F171 Words in s. 130(3) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(7) F172 Words in s. 130(4) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 57(3)(a) F173 Words in s. 130(4) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 57(3)(b) F174 Words in s. 130(5) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 57(4) F175 S. 130(6) omitted (1.4.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 36(4) ; S.I. 2012/924, art. 2
+##### Commencement Information
+I177 S. 130 partly in force; s. 130 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1) I178 S. 130 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(u)
+
+### Powers of entry etc.
+
+#### 131 Power of entry
+
+- This  section  applies  to  an  inspection  conducted  by  the  Chief  Inspector  under  this Chapter, other than one conducted under section 126(2).
+
+- When conducting such an inspection, the Chief Inspector may, at any reasonable time, enter-
+
+(a) any premises on which the education or training inspected is provided;
+
+(b) any premises of the provider of that education or training which are used in connection with its provision.
+
+- In respect of education or training provided by an employer in the workplace, the power of entry conferred by subsection (2) may be exercised only if the employer has been given reasonable notice in writing.
+
+##### Modifications etc. (not altering text)
+C21 S. 131 applied (9.11.2015) by The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792), reg. 1(1), Sch. para. 2
+##### Commencement Information
+I179 S. 131 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+[[END OF PAGE 123]]
+
+[[START OF PAGE 124]]
+
+124
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 3 - Inspection of Further Education and Training etc.
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 132 Power to inspect documents, etc.
+
+- This section applies to any inspection conducted by the Chief Inspector under this Chapter, other than one conducted under section 126(2).
+
+- If  the  Chief  Inspector  considers  it  necessary  or  expedient  for  the  purposes  of  the inspection, he may inspect, take copies of, or take away any documents relating to the education or training inspected which are on any premises in relation to which he exercises his power of entry under section 131.
+
+- The power in subsection (2) includes-
+
+(a) power to require any person holding or accountable for any documents kept on the premises to produce them, and
+
+(b) in relation to any such documents kept by means of a computer, power to require them to be produced in a form in which they are legible and can be taken away.
+
+- In connection with inspecting any such documents the Chief Inspector-
+
+(a) may obtain access to, and inspect and check the operation of, any computer and associated apparatus or material which he considers is or has been in use in connection with the documents; and
+
+(b) may require a person within subsection (5) to afford him such reasonable assistance as he may require for that purpose.
+
+- A person is within this subsection if he is-
+
+(a) the person by whom or on whose behalf the computer is or has been used, or
+
+(b) a person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material.
+
+- The  powers  conferred  by  this  section  may  be  exercised  by  the  Chief  Inspector  at reasonable times only; and a person may not be required to do anything in pursuance of any provision of this section otherwise than at a reasonable time.
+
+- Any person who without reasonable excuse-
+
+(a) obstructs the exercise of any power conferred by section 131 or this section, or
+
+(b) fails to comply with any requirement imposed under this section,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+##### Modifications etc. (not altering text)
+C22 S. 132 applied (9.11.2015) by The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792), reg. 1(1), Sch. para. 2
+##### Commencement Information
+I180 S. 132 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+### Other provisions
+
+#### 133 Framework for inspections
+
+- The Chief Inspector must devise-
+
+[[END OF PAGE 124]]
+
+[[START OF PAGE 125]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 4 - Inspection ... of Local Authorities in England
+
+Document Generated: 2020-04-22
+
+125
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) a common set of principles applicable to all inspections conducted under this Chapter, or
+
+(b) two  or  more  common  sets  of  principles  each  of  which  is  applicable  to  a particular description of such inspections.
+
+- A set of principles devised under subsection (1)(a) or (b) is referred to in this section as a 'framework'.
+
+- If the Chief Inspector devises two or more frameworks under subsection (1)(b), he must  ensure  that,  taken  together,  they  cover  all  inspections  conducted  under  this Chapter.
+
+- The  Chief  Inspector  must  publish  a  framework  in  such  manner  as  he  considers appropriate.
+
+- The Chief Inspector may at any time revise a framework.
+
+- The Chief Inspector must publish a revised framework in such manner as he considers appropriate.
+
+##### Commencement Information
+
+I181 S. 133 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 134 Abolition of Adult Learning Inspectorate
+
+- The Adult Learning Inspectorate is abolished on the appointed day.
+
+- In this section 'the appointed day' means the day appointed under section 188 for the coming into force of this section.
+
+##### Commencement Information
+
+I182 S. 134 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+## CHAPTER 4
+
+### F176 INSPECTION ... OF LOCAL AUTHORITIES IN ENGLAND
+
+##### Textual Amendments
+F176 Words in Pt. 8 Ch. 4 heading omitted (18.7.2012) by virtue of The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879), arts. 1, 4(2)
+
+### Functions to which this Chapter applies
+
+#### 135 Functions to which this Chapter applies and related activities
+
+- This Chapter applies to the following functions of a local authority in England-
+
+[[END OF PAGE 125]]
+
+[[START OF PAGE 126]]
+
+126
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 4 - Inspection ... of Local Authorities in England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) the functions conferred on the authority under Part 1 of the Childcare Act 2006 (c. 21),
+
+[ F177 (b) the education functions of the authority (as defined in section 579(1) of EA 1996), ]
+
+(c) the functions conferred on the authority under sections 10, 12 and 17 to 19 of the Children Act 2004 (c. 31),
+
+(d) the social services functions (within the meaning of the Local Authority Social Services Act 1970 (c. 42)) of the authority, so far as relating to persons aged under 18,
+
+(e) (whether or not within paragraph (d)) functions conferred on or exercisable by the authority under the Children Act 1989 (c. 41), the Adoption (Intercountry Aspects)  Act  1999  (c.  18) [ F178 ,  the  Adoption  and  Children  Act  2002  or section 2 of the Children and Social Work Act 2017 ] and functions continuing to be exercisable by the authority under the Adoption Act 1976 (c. 36), F179 ...
+
+[ F180 (ea) any function conferred on the local authority under section 2 of the Childcare Act 2016; and ]
+
+(f) such other functions of the authority as may be prescribed by regulations made by the Secretary of State.
+
+- In this Chapter 'related activity', in relation to a function to which this Chapter applies, means (subject to subsections (3) and (4)) anything done in any place by, or pursuant to  arrangements  made  by,  the  authority  under  section  2(1)(a)  or  (b)  of  the  Local Government Act 2000 (c. 22) (promotion of economic and social well-being) [ F181 or section 1 of the Localism Act 2011 (local authority's general power of competence) ] which is similar in nature to anything which could be done by the authority in the performance of the function in question.
+
+- In relation to a function within subsection (1)(c), (d) or (e), anything done as mentioned in subsection (2) is a 'related activity' only if it is done in relation to or for the benefit of-
+
+(a) persons aged under 18,
+
+(b) persons aged 18 or over in relation to whom the authority have functions under any of sections 23C to 24D of the Children Act 1989, or
+
+(c) persons not within paragraph (a) or (b) in connection with adoption or special guardianship.
+
+In paragraph (c) 'special guardianship' means special guardianship under sections 14A to 14G of the Children Act 1989.
+
+- In relation to a function prescribed by regulations under subsection (1)(f), anything done as mentioned in subsection (2) is a 'related activity' only if it is prescribed as such by the regulations.
+
+- On the coming into force of this Chapter the Commission for Social Care Inspection is to cease to have functions under Chapter 5 of Part 2 of the Health and Social Care (Community Health and Standards) Act 2003 (c. 43) in relation to anything which may be inspected by the Chief Inspector under this Chapter.
+
+##### Textual Amendments
+
+F177 S. 135(1)(b) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 14(8)
+
+[[END OF PAGE 126]]
+
+[[START OF PAGE 127]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 4 - Inspection ... of Local Authorities in England
+
+Document Generated: 2020-04-22
+
+127
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- F178 Words in s. 135(1)(e) substituted (1.4.2018) by Children and Social Work Act 2017 (c. 16), s. 70(2),
+
+- F179 Word in s. 135(1)(e) omitted (10.1.2017) by virtue of The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257), regs. 1(2), 43(a)
+
+- F180 S. 135(1)(ea) inserted (10.1.2017) by The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257), regs. 1(2), 43(b)
+
+- F181 Words in s. 135(2) inserted (28.3.2012) by The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961), art. 1(2), Sch. 1 para. 8
+
+##### Commencement Information
+- I183 S. 135 partly in force; s. 135 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1)
+
+- I184 S. 135 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(u)
+
+Sch. 2 para. 3 ; S.I. 2018/346, reg. 4(aa)
+
+### Inspections F182 ...
+
+##### Textual Amendments
+
+F182 Words in s. 136 cross-heading omitted (18.7.2012) by virtue of The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879), arts. 1, 4(3)
+
+#### 136 Inspection of local authorities in England
+
+- The Chief Inspector may inspect-
+
+(a) the overall performance by any local authority in England of the functions to which this Chapter applies, or
+
+(b) the performance by any such authority of any particular function or functions comprised in the functions to which this Chapter applies.
+
+- An inspection under subsection (1) of the performance by an authority of any function must include an inspection of any related activity.
+
+- When requested to do so by the Secretary of State, the Chief Inspector must conduct an inspection under this section in relation to the local authority specified in the request.
+
+- Such a request may specify particular matters which the Chief Inspector must inspect.
+
+##### Commencement Information
+
+I185 S. 136 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 137 Reports of inspections under section 136
+
+- On completing an inspection under section 136, the Chief Inspector must make a written report on the matters which were the subject of the inspection.
+
+- The Chief Inspector must send copies of the report to-
+
+(a) the local authority in England which was inspected, and
+
+(b) the Secretary of State.
+
+[[END OF PAGE 127]]
+
+[[START OF PAGE 128]]
+
+128
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 4 - Inspection ... of Local Authorities in England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Where an authority receive a copy of a report under this section, they must prepare a written statement of-
+
+(a) the action which they propose to take in the light of the report, and
+
+(b) the period within which they propose to take that action.
+
+- The authority must publish-
+
+(a) the report, and
+
+(b) the statement prepared under subsection (3),
+
+within such period, and in such manner, as may be prescribed by regulations made by the Secretary of State.
+
+- Such regulations may provide for the authority to charge a reasonable fee for providing a person with a copy of a document published under subsection (4).
+
+- The Chief Inspector may arrange for any report under this section to be published in such manner as he considers appropriate.
+
+##### Commencement Information
+
+I186 S. 137 partly in force; s. 137 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1)
+
+I187 S. 137 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(u)
+
+#### F183 138 Annual reviews of local authorities in England
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F183 S. 138 repealed (18.7.2012) by The Legislative Reform (Annual Review of Local Authorities) Order
+
+2012 (S.I. 2012/1879), arts. 1, 3
+
+### Powers of entry etc.
+
+#### 139 Power of entry
+
+- This section applies to-
+
+(a) any inspection conducted by the Chief Inspector under section 136, F184 ...
+
+- F184 (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- The Chief Inspector may, at any reasonable time, enter any premises for the purposes of the inspection F185 ..., other than any premises excluded by subsection (3).
+
+- The premises excluded by this subsection are any domestic premises that are not a school (within the meaning of EA 1996).
+
+##### Textual Amendments
+
+F184 S. 139(1)(b) and word omitted (18.7.2012) by virtue of The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879), arts. 1, 4(4)(a)
+
+[[END OF PAGE 128]]
+
+[[START OF PAGE 129]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 4 - Inspection ... of Local Authorities in England
+
+Document Generated: 2020-04-22
+
+129
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+F185 Words in s. 139(2) omitted (18.7.2012) by virtue of The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879), arts. 1, 4(4)(b)
+##### Modifications etc. (not altering text)
+C23 S. 139 applied (9.11.2015) by The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792), reg. 1(1), Sch. para. 1
+##### Commencement Information
+I188 S. 139 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 140 Power to inspect documents, etc.
+
+- This section applies to-
+
+(a) any inspection conducted by the Chief Inspector under section 136, F186 ...
+
+F186
+
+(b)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- If  the  Chief  Inspector  considers  it  necessary  or  expedient  for  the  purposes  of  the inspection F187 ..., he may do any of the following-
+
+(a) inspect, take copies of, or take away any documents which-
+
+(i) relate to the performance by the local authority being inspected F188 ... of  any  function  to  which  this  Chapter  applies,  or  to  any  related activity, and
+
+(ii) are on any premises in relation to which he exercises his power of entry under section 139,
+
+(b) inspect or take away any other item which is on the premises,
+
+(c) interview in private-
+
+(i) any person working on the premises, or
+
+(ii) (subject  to  subsection  (3))  any  person  accommodated  or  cared  for there, and
+
+(d) make any other examination into the state and management of the premises and treatment of persons accommodated or cared for there.
+
+- Subsection (2)(c)(ii) does not apply unless consent to the interview is given by or on behalf of the person concerned.
+
+- The power in subsection (2)(a) includes-
+
+(a) power to require any person holding or accountable for any documents kept on the premises to produce them, and
+
+(b) in relation to documents kept by means of a computer, power to require them to be produced in a form in which they are legible and can be taken away.
+
+(5) In connection with inspecting any such documents, the Chief Inspector-
+
+(a) may obtain access to, and inspect and check the operation of, any computer and associated apparatus or material which he considers is or has been in use in connection with the documents, and
+
+(b) may require a person within subsection (6) to afford him such reasonable assistance as he may require for that purpose.
+
+- A person is within this subsection if he is-
+
+(a) the person by whom or on whose behalf the computer is or has been used, or
+
+[[END OF PAGE 129]]
+
+[[START OF PAGE 130]]
+
+130
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 4 - Inspection ... of Local Authorities in England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) a person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material.
+
+- The Chief Inspector may-
+
+(a) require any person to afford him such facilities and assistance with respect to matters within the person's control as are necessary to enable him to exercise his powers under section 139 or this section, and
+
+(b) take such measurements and photographs and make such recordings as he considers necessary to enable him to exercise those powers.
+
+- The  powers  conferred  by  this  section  may  be  exercised  by  the  Chief  Inspector  at reasonable times only; and a person may not be required to do anything in pursuance of any provision of this section otherwise than at a reasonable time.
+
+- Any person who without reasonable excuse-
+
+(a) obstructs the exercise of any power conferred by section 139 or this section, or
+
+(b) fails to comply with any requirement imposed under this section,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+##### Textual Amendments
+- F186 S. 140(1)(b) and word omitted (18.7.2012) by virtue of The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879), arts. 1, 4(5)(a)
+
+- F187 Words in s. 140(2) omitted (18.7.2012) by virtue of The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879), arts. 1, 4(5)(b)(i)
+
+- F188 Words in s. 140(2)(a)(i) omitted (18.7.2012) by virtue of The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879), arts. 1, 4(5)(b)(ii)
+
+##### Modifications etc. (not altering text)
+C24 S. 140 applied (9.11.2015) by The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792), reg. 1(1), Sch. para. 1
+
+##### Commencement Information
+I189 S. 140 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+### Supplementary
+
+#### 141 Power to require information etc.
+
+- The  Chief  Inspector  may  at  any  time  require  any  person  within  subsection  (2)  to provide him with any information, documents or other items-
+
+(a) which relates or relate to the performance by a local authority in England of any of the functions to which this Chapter applies or any related activity, and
+
+(b) which the Chief Inspector considers it necessary or expedient to have for the purposes of, or in connection with, the performance by him of any function under this Chapter.
+
+- The persons within this subsection are-
+
+(a) the local authority;
+
+(b) any person with whom the authority have entered into arrangements-
+
+[[END OF PAGE 130]]
+
+[[START OF PAGE 131]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 5 - Inspection of CAFCASS functions
+
+131
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(i) in  the  performance  of  any  of  the  functions  to  which  this  Chapter applies, or
+
+(ii) in connection with any related activity.
+
+- The power in subsection (1) includes, in relation to documents kept by means of a computer, power to require them to be produced in a form in which they are legible and can be taken away.
+
+- Any person who without reasonable excuse fails to comply with any requirement imposed  by  virtue  of  this  section  is  guilty  of  an  offence  and  liable  on  summary conviction to a fine not exceeding level 4 on the standard scale.
+
+##### Modifications etc. (not altering text)
+C25 S. 141 applied (9.11.2015) by The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792), reg. 1(1), Sch. para. 1
+##### Commencement Information
+I190 S. 141 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 142 Interpretation etc.
+
+- In this Chapter 'related activity', in relation to a function of a local authority to which this Chapter applies, has the meaning given by section 135(2) to (4).
+
+- For the purposes of this Chapter, references to the performance by a local authority in England of any function include references to-
+
+(a) anything done in any place by the authority in the performance of the function, and
+
+(b) anything done in any place by another person pursuant to arrangements made by the authority in the performance of the function.
+
+- This Chapter applies in relation to the Isles of Scilly subject to such modifications as may be specified by order made by the Secretary of State.
+
+##### Commencement Information
+I191 S. 142 partly in force; s. 142 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1) I192 S. 142 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(u)
+
+## CHAPTER 5
+
+### INSPECTION OF CAFCASS FUNCTIONS
+
+#### 143 Inspection of CAFCASS functions
+
+- The Chief Inspector must inspect the performance of CAFCASS functions.
+
+- On  completing  an  inspection  under  this  section,  the  Chief  Inspector  must  make  a written report on it.
+
+[[END OF PAGE 131]]
+
+[[START OF PAGE 132]]
+
+132
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 5 - Inspection of CAFCASS functions
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The Chief Inspector must send copies of the report to-
+
+(a) the Secretary of State, and
+
+(b) CAFCASS.
+
+- The Chief Inspector must arrange for the report to be published in such manner as he considers appropriate.
+
+- In this Chapter-
+
+(a) 'CAFCASS' means the Children and Family Court Advisory and Support Service, and
+
+(b) 'CAFCASS functions' means the functions of CAFCASS and its officers.
+
+##### Commencement Information
+I193
+
+S. 143 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 144 Power of entry
+
+- This  section  applies  to  an  inspection  conducted  by  the  Chief  Inspector  under section 143.
+
+- The  Chief  Inspector  may,  at  any  reasonable  time,  enter  for  the  purposes  of  the inspection-
+
+(a) any premises occupied by CAFCASS,
+
+(b) any premises occupied by any organisation with whom arrangements have been made under section 13 of the 2000 Act (other powers of CAFCASS) in respect of the performance of any CAFCASS functions, and so occupied in connection with the performance of any such functions, or
+
+(c) any premises occupied by any individual in connection with the performance of  functions  of  an  officer  of  the  Service  in  accordance  with  arrangements under that section.
+
+- Subsection (2) does not confer a power of entry to any part of any domestic premises.
+
+- In this section and section 145 'officer of the Service' is to be construed in accordance with section 11(3) of the 2000 Act (establishment of CAFCASS).
+
+- In this section 'the 2000 Act' means the Criminal Justice and Court Services Act 2000 (c. 43).
+
+##### Modifications etc. (not altering text)
+C26 S. 144 applied (9.11.2015) by The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792), reg. 1(1), Sch. para. 4
+##### Commencement Information
+I194 S. 144 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+[[END OF PAGE 132]]
+
+[[START OF PAGE 133]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 5 - Inspection of CAFCASS functions
+
+Document Generated: 2020-04-22
+
+133
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 145 Power to inspect documents, etc.
+
+- This  section  applies  to  any  inspection  conducted  by  the  Chief  Inspector  under section 143.
+
+- If  the  Chief  Inspector  considers  it  necessary  or  expedient  for  the  purposes  of  the inspection,  he  may  inspect,  take  copies  of,  or  take  away  any  documents  kept  by CAFCASS, or otherwise relating to the performance of CAFCASS functions, which-
+
+(a) are on any premises in relation to which he exercises his power of entry under section 144, or
+
+(b) are kept by an officer of the Service on domestic premises.
+
+(3) The power in subsection (2) includes-
+
+(a) power to require any person holding or accountable for any documents kept on the premises to produce them, and
+
+(b) in relation to documents kept by means of a computer, power to require them to be produced in a form in which they are legible and can be taken away.
+
+(4) In connection with inspecting any such documents the Chief Inspector-
+
+(a) may obtain access to, and inspect and check the operation of, any computer and associated apparatus or material which he considers is or has been in use in connection with the documents; and
+
+(b) may require a person within subsection (6) to afford him such reasonable assistance as he may require for that purpose.
+
+- Where any such computer, apparatus or material is kept on domestic premises-
+
+(a) subsection (4) does not apply, but
+
+(b) the Chief Inspector may require a person within subsection (6) to give him possession of it for the purpose of inspecting it and checking its operation.
+
+- A person is within this subsection if he is-
+
+(a) the person by whom or on whose behalf the computer is or has been used, or
+
+(b) a person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material.
+
+- Where the Chief Inspector takes possession of anything under subsection (5)-
+
+(a) he may retain it for as long as he considers that it is necessary to retain it for the purposes of the inspection under section 143, but
+
+(b) once he considers that it is no longer necessary to retain it for those purposes, he must arrange for it to be returned to the person from whose possession it was taken.
+
+- The  powers  conferred  by  this  section  may  be  exercised  by  the  Chief  Inspector  at reasonable times only; and a person may not be required to do anything in pursuance of any provision of this section otherwise than at a reasonable time.
+
+##### Modifications etc. (not altering text)
+C27 S. 145 applied (9.11.2015) by The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792), reg. 1(1), Sch. para. 4
+##### Commencement Information
+I195 S. 145 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+[[END OF PAGE 133]]
+
+[[START OF PAGE 134]]
+
+134
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 6 - Further provisions relating to functions of Chief Inspector
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+## CHAPTER 6
+
+### FURTHER PROVISIONS RELATING TO FUNCTIONS OF CHIEF INSPECTOR
+
+### Functions
+
+#### 146 Inspection of secure training centres [ F189 and secure colleges]
+
+- The Chief Inspector and the Secretary of State may make arrangements for the Chief Inspector to conduct inspections of secure training centres [ F190 and secure colleges ] in England.
+
+- Inspections under this section shall be on such terms, including terms as to payments to be made to the Chief Inspector in respect of such inspections, as the Chief Inspector and the Secretary of State may agree in the arrangements.
+
+F191 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F189 Words in s. 146 heading inserted (20.3.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 9 para. 22(2) ; S.I. 2015/778, art. 2(1)(c) F190 Words in s. 146(1) inserted (20.3.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 9 para. 22(3) ; S.I. 2015/778, art. 2(1)(c) F191 S. 146(3) omitted (20.3.2015) by virtue of Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 9 para. 22(4) ; S.I. 2015/778, art. 2(1)(c)
+##### Commencement Information
+I196 S. 146 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 147 Inspection of premises in connection with adoption and fostering functions
+
+- The  Secretary  of  State  may  by  regulations  require  the  Chief  Inspector  to  arrange for premises which are used by a local authority in England in their performance of relevant functions to be inspected on such occasions or at such intervals as may be specified in the regulations.
+
+- An inspection under this section is to be regarded for all purposes as undertaken under section 136.
+
+- In  this  section  'relevant  functions',  in  relation  to  a  local  authority,  has  the  same meaning as in Part 3 of the Care Standards Act 2000 (c. 14).
+
+##### Commencement Information
+I197 S. 147 partly in force; s. 147 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1) I198 S. 147 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(u)
+
+[[END OF PAGE 134]]
+
+[[START OF PAGE 135]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 6 - Further provisions relating to functions of Chief Inspector
+
+135
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 148 Transfer of certain CSCI functions to the Chief Inspector
+
+- The functions of the CSCI under Part 2 of the Care Standards Act 2000 (registration and standards) as the registration authority in relation to-
+
+(a) children's homes,
+
+(b) residential family centres,
+
+(c) fostering agencies,
+
+(d) voluntary adoption agencies, and
+
+(e) adoption support agencies,
+
+are transferred to the Chief Inspector.
+
+- The Chief Inspector shall make available to the public information about services of the kind provided by persons for whom he is [ F192 (in accordance with subsection (1)) ] the registration authority under Part 2 of the Care Standards Act 2000.
+
+- The functions of the CSCI under sections 65 and 87 to 87D of the Children Act 1989 (c.  41)  (functions  relating  to  children's  homes,  boarding  schools  and  colleges)  are transferred to the Chief Inspector.
+
+- In this section 'the CSCI' means the Commission for Social Care Inspection.
+
+##### Textual Amendments
+F192 Words in s. 148(2) repealed (1.4.2011 for E.) by Children and Young Persons Act 2008 (c. 23), ss. 4(4), 44(4), Sch. 4 (with s. 6); S.I. 2010/2981, art. 4(l)
+##### Commencement Information
+I199 S. 148 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 149 Interaction with other authorities
+
+Schedule 13 contains provisions authorising or requiring the Chief Inspector to take certain action in relation to other authorities, including the carrying out of inspections under arrangements with them.
+
+##### Commencement Information
+I200 S. 149 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+### General provisions
+
+#### 150 Evidence of authority
+
+- This  section  applies  to  any  person  exercising  (in  accordance  with  paragraph  9  of Schedule 12)-
+
+(a) any  power  of  entry  conferred  on  the  Chief  Inspector  by  virtue  of  any enactment,
+
+(b) any power to inspect documents so conferred, or
+
+(c) any power so conferred in connection with the inspection of documents.
+
+[[END OF PAGE 135]]
+
+[[START OF PAGE 136]]
+
+136
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 6 - Further provisions relating to functions of Chief Inspector
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Any such person must, if so required, produce a duly authenticated document showing his authority to exercise the power concerned.
+
+- Nothing in this section applies in relation to any exercise of the power conferred by section 141(1).
+
+##### Commencement Information
+
+I201 S. 150 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 151 Publication of inspection reports
+
+- For  the  purposes  of  the  law  of  defamation,  a  report  made  by  the  Chief  Inspector which-
+
+(a) is published under any enactment, or
+
+(b) is  not  so  published  but  is  made  in  pursuance  of  his  functions  under  any enactment,
+
+is privileged unless its publication is shown to have been made with malice.
+
+- Where by virtue of any enactment the Chief Inspector has power to arrange for a report made by him to be published in a manner determined by him, he may (if he considers it appropriate to do so) arrange for the report to be published by electronic means only.
+
+- Nothing in this section-
+
+(a) limits any privilege subsisting apart from subsection (1), or
+
+(b) prejudices the generality of any power of the Chief Inspector subsisting apart from subsection (2).
+
+##### Modifications etc. (not altering text)
+
+S. 151 applied by 2005 c. 18, s. 10A(4) (as inserted (12.1.2010) by Apprenticeships, Skills, Children
+
+C28 and Learning Act 2009 (c. 22), ss. 225(2) , 269(4); S.I. 2009/3317, art. 2, Sch.)
+
+##### Commencement Information
+
+I202 S. 151 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 152 Combined reports
+
+- Nothing in any enactment prevents the Chief Inspector from-
+
+(a) combining in a single document two or more reports which are required to be made by him under any enactment or enactments, or
+
+(b) combining in a single document one or more such reports and one or more reports which are required to be made by one or more other persons under any enactment or enactments,
+
+and (in either case) combining the substantive reports to such extent as he considers appropriate.
+
+- In this section such a document is referred to as a 'combined report'.
+
+- Where a combined report is made, any reference in any enactment-
+
+[[END OF PAGE 136]]
+
+[[START OF PAGE 137]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+137
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) to the publication of a report, or
+
+(b) to the giving or making available to any person of a copy of a report,
+
+is to be read, so far as necessary, as a reference to the publication of the combined report, or to the giving or making available to that person of a copy of the combined report.
+
+- The Chief Inspector may arrange for a combined report to be published in any manner he considers appropriate, but this subsection does not limit any duty as to publication imposed by any enactment.
+
+- The provisions of section 151 apply to a combined report (whether or not they would otherwise so apply).
+
+##### Commencement Information
+
+I203 S. 152 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+#### 153 Use of information
+
+Information obtained by the Chief Inspector in connection with any of his functions may be used by him in connection with any of his other functions.
+
+##### Commencement Information
+
+I204 S. 153 in force at 1.4.2007 by S.I. 2007/935, art. 5(u)
+
+## CHAPTER 7
+
+### MISCELLANEOUS AND SUPPLEMENTARY
+
+### Miscellaneous
+
+#### F193 154 Duty to report on contribution of certain schools to community cohesion
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F193 S. 154 repealed (15.11.2011) by Education Act 2011 (c. 21), ss. 41(2) , 82(1)(c)
+
+#### 155 Payment of annual fee to the Chief Inspector by local authorities
+
+- Regulations made by the Secretary of State may require a local authority in England to pay to the Chief Inspector an annual fee in respect of the discharge by the authority of any of their relevant functions specified in the regulations.
+
+- The regulations must specify-
+
+(a) the amount of the fee, and
+
+[[END OF PAGE 137]]
+
+[[START OF PAGE 138]]
+
+138
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) the time at which it is to be paid.
+
+- The Chief Inspector may make a scheme under subsection (4) that is to have effect at a time when no regulations are in force under subsection (1).
+
+- A scheme under this subsection ('a scheme') may provide for a local authority in England to be required to pay to the Chief Inspector an annual fee in respect of the discharge by the authority of any of their relevant functions specified in the scheme.
+
+- The amount of the fee payable by virtue of a scheme is to be such as may be specified in, or calculated or determined under, the scheme.
+
+- A scheme may include provision-
+
+(a) for different fees to be paid in different cases or classes of case;
+
+(b) for the amount of a fee to be determined by the Chief Inspector in accordance with specified factors;
+
+(c) for the time by which a fee must be paid;
+
+(d) for varying or revoking a previous scheme.
+
+- Before making a scheme the Chief Inspector must consult such persons as he considers appropriate.
+
+- The Chief Inspector must arrange for a scheme to be published in such manner as he considers appropriate.
+
+- A local authority in England must provide the Chief Inspector with such information as he requires for the purpose of determining the amount of a fee payable by the authority by virtue of a scheme.
+
+- A fee payable by virtue of this section may be recovered summarily as a civil debt.
+
+- But subsection (10) is not to be read as prejudicing any other method of recovery.
+
+- In  this  section  'relevant  functions',  in  relation  to  a  local  authority,  has  the  same meaning as in Part 3 of the Care Standards Act 2000 (c. 14).
+
+##### Commencement Information
+
+I205 S. 155 partly in force; s. 155 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1)
+
+I206 S. 155 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(v)
+
+#### F194 156 Removal of HMICA's duty to inspect performance of Assembly's functions relating to family proceedings
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F194 S. 156 repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 21 (with art. 2)
+
+[[END OF PAGE 138]]
+
+[[START OF PAGE 139]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 8 - Inspections
+
+Chapter 7 - Miscellaneous and supplementary
+
+139
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+### Supplementary
+
+#### 157 Minor and consequential amendments
+
+Schedule 14 contains minor and consequential amendments relating to the provision made by this Part.
+
+##### Commencement Information
+I207 S. 157 in force at 1.4.2007 by S.I. 2007/935, art. 5(w)
+
+#### 158 Transitional provisions and savings
+
+Schedule 15 contains-
+
+(a) provision for the transfer of staff, property, rights and liabilities in connection with the establishment of the Office, and
+
+(b) other transitional provisions and savings.
+
+##### Commencement Information
+I208 S. 158 in force at 12.12.2006 for specified purposes by S.I. 2006/2990, art. 2(f) I209 S. 158 in force at 1.4.2007 for specified purposes by S.I. 2007/935, art. 5(x)
+
+#### 159 Interpretation of Part 8
+
+- In this Part-
+
+'activities within the Chief Inspector's remit' and related expressions are to be construed in accordance with section 117(6);
+
+F195
+
+...
+
+'the  Chief  Inspector'  means  Her  Majesty's  Chief  Inspector  of  Education, Children's Services and Skills; F196 ...
+
+'document' means anything in which information of any description is recorded, including personal records as defined by section 12 of the Police and Criminal Evidence Act 1984 (c. 60);
+
+'domestic  premises'  means  premises  which  are  used  wholly  or  mainly  as  a private dwelling;
+
+'functions' includes powers and duties;
+
+an  'HMI'  means  one  of  Her  Majesty's  Inspectors  of  Education,  Children's Services and Skills;
+
+'local authority in England' means-
+
+(a) a county council in England;
+
+(b) a metropolitan district council;
+
+(c) a  non-metropolitan  district  council  for  an  area  for  which  there  is  no county council;
+
+(d) a London borough council;
+
+(e) the Common Council of the City of London (in their capacity as a local authority);
+
+[[END OF PAGE 139]]
+
+[[START OF PAGE 140]]
+
+140
+
+Education and Inspections Act 2006 (c. 40) Part 9 - Miscellaneous Chapter 7 - Miscellaneous and supplementary Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(f) the Council of the Isles of Scilly;
+
+'the Office' means the Office for Standards in Education, Children's Services and Skills;
+
+'the  registration  authority'  means  the  person  exercising  functions  relating  to registration. F197
+
+...
+
+- In this Part any reference to the carrying on of activities as 'user-focused' activities is a reference to the carrying on of the activities in a way that focuses on the needs of those for whose benefit the activities are carried on.
+
+##### Textual Amendments
+
+F195 Words in s. 159(1) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 58
+
+F196 Words in s. 159(1) repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a)(b), Sch. 1 para. 68(a), Sch. 2 Pt. 1 (with art. 2(3))
+
+F197 Words in s. 159(1) omitted (1.4.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 37 ; S.I. 2012/924, art. 2
+
+##### Commencement Information
+
+I210 S. 159 in force at 12.12.2006 by S.I. 2006/2990, art. 2(g)
+
+## PART 9
+
+### MISCELLANEOUS
+
+### Investigation of complaints by Chief Inspector
+
+#### 160 Power of Chief Inspector to investigate complaints by parents about schools
+
+After section 11 of EA 2005 insert-
+
+### 'Investigation of complaints
+
+#### 11A Power of Chief Inspector to investigate complaints about schools
+
+- The Chief Inspector may investigate a qualifying complaint if he thinks it is appropriate to do so-
+
+(a) for the purpose of determining whether it is or may be appropriate to have regard to the matters raised by the complaint in carrying out any of his functions in relation to schools in England, and
+
+(b) in  particular,  for  the  purpose  of  determining,  in  the  light  of  the complaint-
+
+(i) when to carry out an inspection under section 5 (insofar as the timing of such an inspection is within his discretion), and
+
+(ii) whether  it  would  be  appropriate  to  carry  out  an  inspection under section 8(2).
+
+[[END OF PAGE 140]]
+
+[[START OF PAGE 141]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 9 - Miscellaneous
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+141
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(2) A complaint is a qualifying complaint if-
+
+(a) it is about a matter relating to a relevant school and that matter(i) falls within a prescribed description, and (ii) does not fall within any prescribed exception, (b) it is made in writing to the Chief Inspector, and (c) it is made by a person who satisfies prescribed conditions.
+
+(3) The  conditions  prescribed  for  the  purposes  of  subsection  (2)(c)  may,  in particular, require that the person has, before making the complaint to the Chief Inspector, taken advantage of other procedures of a prescribed description for dealing with the complaint.
+
+(4) Regulations  may  enable  the  Chief  Inspector  to  determine  that  a  condition prescribed for the purposes of subsection (2)(c) by virtue of subsection (3) is not to apply in relation to a person making a complaint.
+
+(5) In  this  section,  'relevant  school'  means  any  of  the  schools  mentioned  in paragraphs (a) to (g) of section 5(2).
+
+#### 11B Investigations under section 11A
+
+- This section applies where a qualifying complaint is made to the Chief Inspector by a person who is a registered parent of a registered pupil at the school to which the complaint relates.
+
+- If the Chief Inspector so requests for the purposes of an investigation of the complaint, the governing body of the school to which the complaint relates must provide him with-
+
+(a) such information held by them as may be specified or described in the Chief Inspector's request, and
+
+(b) such other information held by them as they consider may be relevant to the investigation.
+
+- If  the  complaint  relates  to  a  maintained  school  and  the  Chief  Inspector  so requests  for  the  purposes  of  an  investigation  of  the  complaint,  the  local education authority who maintain the school must provide him with-
+
+(a) such information held by them as may be specified or described in the Chief Inspector's request, and
+
+(b) such other information held by them as they consider may be relevant to the investigation.
+
+- If, for the purposes of an investigation of the complaint, it appears to the Chief Inspector to be appropriate to hold a meeting for registered parents of registered pupils at the school to which the complaint relates-
+
+(a) he must give notice to that effect to-
+
+(i) the governing body of the school (unless the school falls within sub-paragraph (ii)), or
+
+(ii) if  the  school  is  a  maintained  school  which  does  not  have  a delegated budget, the local education authority who maintain the school, and
+
+[[END OF PAGE 141]]
+
+[[START OF PAGE 142]]
+
+142
+
+Education and Inspections Act 2006 (c. 40)
+
+Chapter 7 - Miscellaneous and supplementary
+
+Part 9 - Miscellaneous Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) on being so notified, the governing body or (as the case may be) the local education authority must co-operate with the Chief Inspector in the making of arrangements for the meeting.
+
+(5) In particular, the governing body or (as the case may be) the local education authority must if so requested by the Chief Inspector-
+
+(a) allow the meeting to be held on the premises of the school,
+
+(b) fix a date for the meeting which is consistent with any request made by the Chief Inspector for that purpose, and
+
+(c) take such steps as are specified by the Chief Inspector to give-
+
+(i) the registered parents of registered pupils at the school, and
+
+(ii) if  the  school  is  a  maintained  school  which  has  a  delegated budget, the local education authority who maintain the school,
+
+such notice as the Chief Inspector may specify of the date, time and place of the meeting and of its purpose.
+
+(6) The following persons (in addition to the registered parents of registered pupils at the school) may attend a meeting held in pursuance of subsection (5)-
+
+(a) a representative of the governing body of the school, and
+
+(b) if  the  school  is  a  maintained  school,  a  representative  of  the  local education authority who maintain the school.
+
+(7) In this section-
+
+'governing body', in relation to a relevant school which is not a maintained school, means the proprietor of the school;
+
+'maintain', in relation to school, has the same meaning as in the School Standards and Framework Act 1998;
+
+'maintained school' means a community, foundation or voluntary school,  a  community  or  foundation  special  school  or  a  maintained nursery school;
+
+'qualifying complaint' is to be read in accordance with section 11A(2);
+
+'relevant school' has the meaning given by section 11A(5).
+
+#### 11C Reports of investigations
+
+(1) This section applies where, for the purposes of an investigation of a qualifying complaint to which section 11B applies the Chief Inspector-
+
+(a) requests  information  as  mentioned  in  subsection  (2)  or  (3)  of  that section, or
+
+(b) gives notice in pursuance of subsection (4)(a) of that section that he considers  it  appropriate  to  hold  a  meeting  for  registered  parents  of registered pupils at the school to which the complaint relates.
+
+(2) The Chief Inspector may, if he considers it appropriate to do so, prepare a report of the outcome of the investigation by him of the complaint.
+
+(3) If the Chief Inspector prepares a report under subsection (2) he must send a copy of the report to-
+
+(a) the  governing  body  of  the  school  (unless  the  school  falls  within paragraph (b)), or
+
+[[END OF PAGE 142]]
+
+[[START OF PAGE 143]]
+
+Education and Inspections Act 2006 (c. 40) Part 9 - Miscellaneous
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+143
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) if the school is a maintained school which does not have a delegated budget, the local education authority who maintain the school.
+
+- The body to whom a report is sent under subsection (3) must, if so requested by the Chief Inspector, provide a copy of the report to the registered parents of registered pupils at the school to which the complaint relates.
+
+- In this section, 'governing body' and 'qualifying complaint' have the same meaning as in section 11B.'
+
+##### Commencement Information
+
+I211 S. 160 in force at 28.3.2007 by S.I. 2007/935, art. 3
+
+### Powers to facilitate innovation
+
+#### 161 Powers to facilitate innovation
+
+In Schedule 16-
+
+(a) Part 1 contains amendments of Chapter 1 of Part 1 of EA 2002 (powers to facilitate innovation), including amendments removing the restriction on the duration of the powers conferred by that Chapter; and
+
+(b) Part 2 contains a consequential amendment.
+
+### References to 'local education authority' or 'children's services authority'
+
+#### 162 Power to repeal references to 'local education authority' and 'children's services authority' etc
+
+- Subject to subsection (5), the Secretary of State may by order-
+
+(a) make such provision as appears to him to be appropriate for the purpose of-
+
+(i) repealing any reference in any statutory provision to a local education authority  (however  expressed)  in  so  far  as  it  relates  to  such  an authority in England or such an authority in Wales, or to both, and
+
+(ii) replacing it, where it appears to him to be appropriate, with a reference (however expressed) to, as the case may be, an English local authority or a Welsh local authority, or to both;
+
+(b) make such provision as appears to him to be appropriate for the purpose of-
+
+(i) repealing  any  reference  in  any  statutory  provision  to  a  children's services  authority  (however  expressed)  in  so  far  as  it  relates  to a  children's  services  authority  in  England  or  a  children's  services authority in Wales, or to both, and
+
+(ii) replacing it, where it appears to him to be appropriate, with a reference (however expressed) to, as the case may be, an English local authority or a Welsh local authority, or to both;
+
+(c) make such provision as appears to him to be appropriate in consequence of or in connection with any provision made by virtue of paragraph (a) or (b), or of both those paragraphs.
+
+[[END OF PAGE 143]]
+
+[[START OF PAGE 144]]
+
+144
+
+Education and Inspections Act 2006 (c. 40)
+
+Chapter 7 - Miscellaneous and supplementary
+
+Part 9 - Miscellaneous Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- An  order  under  subsection  (1)  may  make  provision  modifying  any  enactment whenever  passed  or  made  (including  this  Act),  and  may,  in  particular,  make provision-
+
+(a) modifying references (however expressed) in any statutory provision to the functions of a local education authority, or the functions of a local authority (however defined) in its capacity as a local education authority, where the references wholly or partly relate to a local education authority in England or a local education authority in Wales;
+
+(b) modifying statutory provisions which consist of or include provision requiring or  authorising  consultation,  co-operation,  communication  or  other  action between a local education authority in England and an English local authority or between a local education authority in Wales and a Welsh local authority;
+
+(c) modifying statutory provisions which consist of or include provision imposing a  duty  on  a  local  education  authority  in  England  or  on  a  local  education authority in Wales where the duty imposed is similar to a duty imposed by that or any other statutory provision on, as the case may be, an English local authority or a Welsh local authority;
+
+(d) modifying statutory provisions which consist of or include provision imposing a  duty  on  an  English  local  authority  or  on  a  Welsh  local  authority  where the duty imposed is similar to a duty imposed by that or any other statutory provision on, as the case may be, a local education authority in England or a local education authority in Wales;
+
+(e) repealing statutory provisions which are spent or have ceased to be of any practical utility.
+
+- The following powers to make provision by order under subsection (1) are exercisable by the Assembly as well as by the Secretary of State-
+
+(a) the power to make provision under paragraph (a) of that subsection in relation to  any  reference  in  any  statutory  provision  to  a  local  education  authority (however expressed) in so far as it relates to such an authority in Wales,
+
+(b) the power to make provision under paragraph (b) of that subsection in relation to any reference in any statutory provision to a children's services authority (however expressed) in so far as it relates to a children's services authority in Wales, and
+
+(c) the  power  to  make  provision  under  paragraph  (c)  of  that  subsection  in consequence  of  or  in  connection  with  any  provision  made  by  virtue  of the  powers  under  paragraph  (a)  or  (b)  of  that  subsection  mentioned  in paragraph (a) or (b) above, or by virtue of both those powers.
+
+- The Secretary of State must not make an order under subsection (1), except with the consent of the Assembly, which contains provision made wholly or partly by virtue of any of the powers to make provision under that subsection mentioned in any of paragraphs (a) to (c) of subsection (3).
+
+- An order under subsection (1) may make provision which is within the legislative competence of the Scottish Parliament only in consequence of provision made under such an order which is outside that competence.
+
+[ F198 (5A) The Welsh Ministers may by order-
+
+(a) make such provision as appears to them to be appropriate for the purpose of-
+
+(i) repealing any reference in a Measure of the National Assembly for Wales to a [ local authority ] (however expressed), and
+
+[[END OF PAGE 144]]
+
+[[START OF PAGE 145]]
+
+Education and Inspections Act 2006 (c. 40) Part 9 - Miscellaneous Chapter 7 - Miscellaneous and supplementary Document Generated: 2020-04-22
+
+145
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(ii) replacing  it,  where  it  appears  to  them  to  be  appropriate,  with  a reference (however expressed) to a Welsh local authority;
+
+(b) make such provision as appears to them to be appropriate in consequence of or in connection with any provision made by virtue of paragraph (a). ]
+
+[ F198 (5B) An  order  under  subsection  (5A)  may  make  provision  modifying  any  enactment whenever passed or made, and may, in particular, make provision of the kind specified in paragraphs (a) to (e) of subsection (2). ]
+
+- In this section-
+
+'children's services authority in England' and 'children's services authority in Wales' have the same meaning as in the Children Act 2004 (c. 31);
+
+'English local authority' means-
+
+(a) a county council in England,
+
+(b) a metropolitan district council,
+
+(c) a  non-metropolitan  district  council  for  an  area  for  which  there  is  no county council,
+
+(d) a London borough council,
+
+(e) the Common Council of the City of London, or
+
+(f) the Council of the Isles of Scilly;
+
+'modify' includes amend or repeal;
+
+'statutory provision' means-
+
+(a) any provision of this or any other Act, including any Act passed after this Act, and
+
+(b) any provision of subordinate legislation, including any such legislation made under, or after the passing of, this Act;
+
+'Welsh local authority' means a county council or county borough council in Wales.
+
+[ F199 (7) In interpreting paragraphs (a) to (e) of subsection (2) for the purposes  of subsection (5B), 'statutory provision' also includes any provision of a Measure of the National Assembly for Wales, including any Measure passed after the Education (Wales) Measure 2009. ]
+
+##### Textual Amendments
+F198 S. 162(5A)(5B) substituted for s. 162(5A) (E.W.) (9.12.2009) by Education (Wales) Measure 2009 (nawm 5), s. 26(2), Sch. para. 11 F199 S. 162(7) inserted (E.W.) (9.12.2009) by Education (Wales) Measure 2009 (nawm 5), s. 26(2), Sch. para. 12
+##### Commencement Information
+I212 S. 162 in force at 8.1.2007, see s. 188(2)
+
+### Provision of advice by adjudicator
+
+#### 163 Provision of advice by adjudicator
+
+In section 25 of SSFA 1998 (adjudicators) after subsection (3) insert- Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+[[END OF PAGE 145]]
+
+[[START OF PAGE 146]]
+
+146
+
+Education and Inspections Act 2006 (c. 40) Part 9 - Miscellaneous Chapter 7 - Miscellaneous and supplementary Document Generated: 2020-04-22
+
+'(3A) When asked to do so by the Secretary of State, an adjudicator must give advice to the Secretary of State on such matters relating to the admission of pupils to relevant schools as the Secretary of State may specify.
+
+(3B) The adjudicator may, for the purposes of providing such advice to the Secretary of  State,  request  any  of  the  following  persons  to  provide  him  with  such information held by them as the adjudicator may specify-
+
+(a) the admission authority (within the meaning of Chapter 1 of Part 3) of a community, foundation or voluntary school;
+
+(b) the proprietor of any other relevant school.
+
+(3C) A person so requested by the adjudicator to provide information must comply with the request.
+
+(3D) In subsections (3A) and (3B), 'relevant school' means a school in England falling within any of paragraphs (a) to (f) of section 5(2) of the Education Act 2005.'
+
+##### Commencement Information
+
+I213 S. 163 in force at 8.1.2007 by S.I. 2006/3400, art. 3(f)
+
+### Information about children receiving publicly-funded education
+
+#### 164 Information about children receiving funded education outside school
+
+After section 537A of EA 1996 (provision of information about individual pupils) insert-
+
+#### ' 537B Provision of information about children receiving funded education outside school
+
+- Regulations  may  make  provision  requiring  a  person  who  provides  funded education to provide to the relevant person such individual child information as may be prescribed.
+
+- In subsection (1), 'the relevant person' means one or more of the following-
+
+(a) the Secretary of State, and
+
+(b) any prescribed person.
+
+- Where any person within paragraph (b) of subsection (2) receives information by virtue of subsection (1), the Secretary of State may require that person to provide any such information-
+
+(a) to him, or
+
+(b) to any prescribed person.
+
+- The Secretary of State may provide any individual child information-
+
+(a) to any information collator,
+
+(b) to any prescribed person, or
+
+(c) to any person falling within a prescribed category.
+
+[[END OF PAGE 146]]
+
+[[START OF PAGE 147]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 9 - Miscellaneous
+
+Chapter 7 - Miscellaneous and supplementary
+
+147
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Any information collator-
+
+(a) may provide any individual child information-
+
+(i) to the Secretary of State,
+
+(ii) to any other information collator, or
+
+(iii) to the person who provides the funded education for the child or children to whom the information relates, and
+
+(b) may, at such times as the Secretary of State may determine, provide such individual child information as may be prescribed-
+
+(i) to any prescribed person, or
+
+(ii) to any person falling within a prescribed category.
+
+- Any person holding any individual child information (other than the Secretary of State or an information collator) may provide that information to-
+
+(a) the Secretary of State,
+
+(b) any information collator, or
+
+(c) any prescribed person.
+
+- No information received under or by virtue of this section shall be published in any form which includes the name of the child or children to whom it relates.
+
+- Regulations under this section may provide that, in such circumstances as may be prescribed, the provision of information to a person other than the Secretary of State is to be treated, for the purposes of any provision of such regulations or this section, as compliance with any requirement imposed by or by virtue of any such provision and relating to the provision of information to the Secretary of State.
+
+- In this section-
+
+'child' means a person under the age of 19;
+
+'funded education' means education provided under arrangements made by a local education authority in pursuance of the duties imposed by  section  19(1)  and  (4)  (duty  to  make  special  arrangements  for provision  of  education  for  children  of  compulsory  school  age  and young  persons  who  may  otherwise  not  receive  suitable  education), other than such education provided at a school;
+
+'individual child information' means information relating to and identifying individual children for whom funded education is being or has been provided, whether obtained under subsection (1) or otherwise;
+
+'information collator' means any body which, for the purposes of or in connection with the functions of the Secretary of State relating to funded education, is responsible for collating or checking information relating to children for whom such education is provided.'
+
+##### Commencement Information
+I214 S. 164 in force at 28.3.2007 for E. by S.I. 2007/935, art. 2 I215 S. 164 in force at 1.9.2009 for W. by S.I. 2009/1027, art. 3(b)
+
+[[END OF PAGE 147]]
+
+[[START OF PAGE 148]]
+
+148
+
+Education and Inspections Act 2006 (c. 40) Part 9 - Miscellaneous Chapter 7 - Miscellaneous and supplementary Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+### Further education
+
+#### 165 Power of members of staff of further education institutions to use force
+
+After section 85B of the Further and Higher Education Act 1992 (c. 13) insert-
+
+#### ' 85C Power of members of staff to use force
+
+- A member of the staff of an institution which is within the further education sector may use such force as is reasonable in the circumstances for the purpose of preventing a student at the institution from doing (or continuing to do) any of the following, namely-
+
+(a) committing any offence,
+
+(b) causing personal injury to, or damage to the property of, any person (including the student himself), or
+
+(c) prejudicing  the  maintenance  of  good  order  and  discipline  at  the institution  or  among  any  of  its  students,  whether  during  a  teaching session or otherwise.
+
+- The power conferred by subsection (1) may be exercised only where-
+
+(a) the  member of the staff  and  the  student  are  on  the  premises  of  the institution, or
+
+(b) they are elsewhere and the member of the staff has lawful control or charge of the student.
+
+- Subsection (1) does not authorise anything to be done in relation to a student which constitutes  the  giving  of  corporal  punishment  within  the  meaning  of section 548 of the Education Act 1996.
+
+- The  powers  conferred  by  subsection  (1)  are  in  addition  to  any  powers exercisable apart from this section and are not to be construed as restricting what may lawfully be done apart from this section.
+
+- In  this  section,  'member  of  the  staff',  in  relation  to  an  institution  within the further education sector, means any person who works at that institution whether or not as its employee.'
+
+##### Commencement Information
+I216 S. 165 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(b)
+
+#### 166 Collaboration arrangements: maintained schools and further education bodies
+
+- Regulations may enable-
+
+(a) the governing body of a maintained school, whether alone or together with other such governing bodies, to make collaboration arrangements with one or more further education bodies;
+
+(b) a  further  education  body,  whether  alone  or  together  with  other  further education  bodies,  to  make  collaboration  arrangements  with  the  governing body of a maintained school or the governing bodies of two or more such schools;
+
+[[END OF PAGE 148]]
+
+[[START OF PAGE 149]]
+
+Education and Inspections Act 2006 (c. 40) Part 9 - Miscellaneous Chapter 7 - Miscellaneous and supplementary Document Generated: 2020-04-22
+
+149
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(c) a further education body to make collaboration arrangements with one or more further education bodies.
+
+'Collaboration arrangements' are arrangements for any of the functions of any of the bodies who make the arrangements ('the collaborating bodies') to be discharged jointly or by a joint committee of those bodies.
+
+(3) Regulations may make provision as to-
+
+(a) the  establishment  by  the  collaborating  bodies  of  a  joint  committee  of those bodies for the purposes of discharging any functions in pursuance of collaboration arrangements made by them ('a joint committee');
+
+(b) the appointment of persons to serve on a joint committee (including provision as to the restrictions or other requirements relating to any such appointments) and their removal from office;
+
+(c) the appointment of a clerk to a joint committee (including provision as to the restrictions or other requirements relating to any such appointment) and his removal from office;
+
+(d) the appointment by a joint committee of one of their number to act as clerk for the purposes of a meeting where the clerk fails to attend;
+
+(e) rights of persons to attend meetings of a joint committee;
+
+(f) restrictions on persons taking part in proceedings of a joint committee;
+
+(g) other matters relating to the constitution or procedure of a joint committee.
+
+(4) Regulations may make provision as to-
+
+(a) the functions of collaborating bodies which may or may not be discharged jointly, or by a joint committee, in pursuance of collaboration arrangements;
+
+(b) the manner in which such functions are to be discharged jointly, or by a joint committee, in pursuance of collaboration arrangements;
+
+(c) any  other  matters  which  are  relevant  to  the  discharge  of  functions  by  the collaborating bodies jointly, or as the case may be, by a joint committee in pursuance of such arrangements.
+
+(5) Regulations may provide that any enactment relating to-
+
+(a) the  functions  of  the  collaborating  bodies  which  are  to  be  discharged  in pursuance of collaboration arrangements, or
+
+(b) the governing bodies, or as the case may be the further education bodies, by whom those functions are to be discharged,
+
+is to have effect subject to all necessary modifications in its application in relation to those functions and the bodies by whom they are to be discharged.
+
+(6) In this section-
+
+'further education body' means-
+
+(a) a  further  education  corporation  (as  defined  by  section  17(1)  of  the Further and Higher Education Act 1992 (c. 13)) [ F200 in England ] ,
+
+(aa) [ F201 a sixth form college corporation (as defined in section 90 of that Act), ] or
+
+(b) the governing body of a designated institution (as defined  by section 28(4) of that Act) [ F202 in England ] which is a body incorporated by virtue of section 143(4) of the Learning and Skills Act 2000 (c. 21);
+
+[[END OF PAGE 149]]
+
+[[START OF PAGE 150]]
+
+150
+
+Education and Inspections Act 2006 (c. 40) Part 9 - Miscellaneous Chapter 7 - Miscellaneous and supplementary Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+'maintained school' means [ F203 a school in England which is ] a community, foundation or voluntary school, a community or foundation special school or a maintained nursery school;
+
+'regulations' means regulations made by the Secretary of State (in relation to England) F204 ....
+
+##### Textual Amendments
+F200 Words in s. 166(6) inserted (16.11.2012) by Education (Wales) Measure 2011 (nawm 7), ss. 9(4)(a)(i) , 33(2); S.I. 2012/2656, art. 2 F201 Words in s. 166(6) inserted (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a), Sch. 1 para. 104 (with art. 2(3)) F202 Words in s. 166(6) inserted (16.11.2012) by Education (Wales) Measure 2011 (nawm 7), ss. 9(4)(a)(ii) , 33(2); S.I. 2012/2656, art. 2 F203 Words in s. 166(6) inserted (16.11.2012) by Education (Wales) Measure 2011 (nawm 7), ss. 9(4)(b) , 33(2); S.I. 2012/2656, art. 2 F204 Words in s. 166(6) omitted (16.11.2012) by virtue of Education (Wales) Measure 2011 (nawm 7), ss. 9(4)(c) , 33(2); S.I. 2012/2656, art. 2
+##### Commencement Information
+I217 S. 166 in force at 1.4.2007 for E. by S.I. 2007/935, art. 4(b) I218 S. 166 in force at 30.6.2008 for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1
+
+### Early years provision
+
+#### 167 Consultation with young pupils
+
+In section 176 of EA 2002 (consultation with pupils), in subsection (3)-
+
+(a) in the definition of 'maintained school', for 'or a community or foundation special school' substitute ' , a community or foundation special school or a maintained nursery school ', and
+
+(b) omit  the  definition  of  'pupil'  (which  excludes  children  who  are  being provided with nursery education).
+
+##### Commencement Information
+I219 S. 167 in force at 1.9.2007 for E. by S.I. 2007/1801, art. 3(f) I220 S. 167 in force at 31.10.2010 for W. by S.I. 2010/2543, art. 2(k)
+
+#### 168 Maintained nursery schools: amendment of sections 496 and 497 of EA 1996
+
+- In  section  496  of  EA  1996  (power  of  Secretary  of  State  to  prevent  unreasonable exercise of functions by [ F3 local authority ] or governing body), in subsection (2)(b), for 'or any community or foundation special school' substitute ' , of any community or foundation special school, or of any maintained nursery school '.
+
+- In  section  497  of  EA  1996  (Secretary  of  State's  general  default  powers),  in subsection (2)(b), for 'or any community or foundation special school' substitute ' , of any community or foundation special school, or of any maintained nursery school '.
+
+[[END OF PAGE 150]]
+
+[[START OF PAGE 151]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 9 - Miscellaneous
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+151
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+I221 S. 168 in force at 8.1.2007, see s. 188(2)
+
+### Independent schools
+
+#### 169 Prohibition on participation in management of independent school
+
+After section 167 of EA 2002 insert-
+
+### 'Prohibition on participation in management of independent schools
+
+#### 167A Prohibition on participation in management of independent schools
+
+- The appropriate authority may direct that a person-
+
+(a) may not take part in the management of an independent school;
+
+(b) may take part in the management of an independent school only in circumstances specified in the direction;
+
+(c) may take part in the management of an independent school only if conditions specified in the direction are satisfied.
+
+- A direction under this section may be given in respect of a person only on one or more prescribed grounds connected with the suitability of persons to take part in the management of an independent school.
+
+- Regulations  may  prescribe  the  procedure  for  giving  a  direction  under  this section (including provision about notification of persons who are subject to directions).
+
+- The appropriate authority may vary or revoke a direction under this section in prescribed cases.
+
+- Regulations may prescribe the grounds on which a person subject to a direction under this section may seek to have it varied or revoked under subsection (4).
+
+- In this section and sections 167B to 167D, 'appropriate authority' means-
+
+(a) in relation to England, the registration authority or such other public authority as may be prescribed;
+
+(b) in  relation  to  Wales,  the  registration  authority  or  such  other  public authority as may be prescribed.
+
+#### 167B Directions under section 167A: appeals
+
+- A person in respect of whom a direction has been given under section 167A may appeal to the Tribunal established under section 9 of the Protection of Children Act 1999-
+
+(a) against the decision to give the direction;
+
+[[END OF PAGE 151]]
+
+[[START OF PAGE 152]]
+
+152
+
+Education and Inspections Act 2006 (c. 40) Part 9 - Miscellaneous Chapter 7 - Miscellaneous and supplementary Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) against a decision not to vary or revoke the direction.
+
+(2) Regulations may-
+
+(a) provide that the Tribunal may not entertain an appeal under this section insofar  as  the  appellant's  case  is  inconsistent  with  his  having  been convicted of an offence;
+
+(b) prescribe circumstances in which the Tribunal shall allow an appeal under this section;
+
+(c) prescribe the powers available to the Tribunal on allowing an appeal under this section.
+
+#### 167C Directions under section 167A: information
+
+(1) The Secretary of State may provide to the appropriate authority any information relating to a person which is held by the Secretary of State in connection with his functions-
+
+(a) under  the  Protection  of  Children  Act  1999,  except  section  9  (the Tribunal);
+
+(b) under Part 7 of the Care Standards Act 2000;
+
+(c) under sections 142 to 144 of this Act;
+
+(d) as registration authority under this Part.
+
+- The National Assembly for Wales may provide to the appropriate authority any information relating to a person which is held by the Assembly in connection with its functions as registration authority under this Part.
+
+- The Independent Barring Board may provide to the appropriate authority any information  relating  to  a  person  which  is  held  by  the  Board  in  connection with its functions and which appears to it to be relevant to the exercise by the appropriate authority of its functions under sections 167A to 167C.
+
+- The  appropriate  authority  may  provide  to  the  Independent  Barring  Board, the  General  Teaching  Council  for  England,  the  General  Teaching  Council for  Wales,  the  Secretary  of  State  or  the  National  Assembly  for  Wales  any information relating to a person which is held by the appropriate authority in connection with its functions under section 167A.
+
+#### 167D Directions under section 167A: notification
+
+(1) Where the appropriate authority in relation to England gives a direction under section 167A(1), or varies or revokes any such direction, it must notify-
+
+(a) the registration authority in relation to England (unless the appropriate authority is the registration authority), and
+
+(b) the  registration  authority  in  relation  to  Wales  and  (if  different)  the appropriate authority in relation to Wales.
+
+(2) Where the appropriate authority in relation to Wales gives a direction under section 167A(1), or varies or revokes any such direction, it must notify-
+
+(a) the registration authority in relation to Wales (unless the appropriate authority is the registration authority), and
+
+(b) the registration authority in relation to England and (if different) the appropriate authority in relation to England.'
+
+[[END OF PAGE 152]]
+
+[[START OF PAGE 153]]
+
+Education and Inspections Act 2006 (c. 40) Part 9 - Miscellaneous
+
+Chapter 7 - Miscellaneous and supplementary
+
+153
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I222 S. 169 in force at 12.10.2009 for W. by S.I. 2009/2545, art. 3(1)(a)
+
+#### 170 Prohibition on participation in management: supplementary
+
+- In  section  169  of  EA  2002  (unsuitable  persons),  for  the  words  from  'any  work' onwards substitute  '  work  of  a  prescribed  kind  is  subject  to  a  direction,  order  or decision  of  a  prescribed  description  made  under  any  prescribed  enactment  having effect in any part of the United Kingdom '.
+
+- In section 113BA of the Police Act 1997 (c. 50) (suitability information relating to children), at the end of subsection (2) insert-
+
+'(e) whether the applicant is subject to a direction under section 167A of the Education Act 2002 (prohibition on participation in management of independent school).'
+
+- In  section  9  of  the  Protection  of  Children  Act  1999  (c.  14)  (the  Tribunal),  in subsection (2) after paragraph (b) insert-
+
+'(ba) on an appeal under section 167B of the Education Act 2002;'.
+
+##### Commencement Information
+I223 S. 170 in force at 12.10.2009 for W. by S.I. 2009/2545, art. 3(1)(b) I224 S. 170(2) in force at 8.9.2014 by S.I. 2014/2380, art. 2
+
+#### 171 Prohibition on participation in management: transitional provision
+
+- A person falls within this subsection if-
+
+(a) immediately  before  the  relevant  day  he  is  subject  to  a  direction  under section 142 of EA 2002 given on grounds prescribed for the purposes of this section, and
+
+(b) prescribed  conditions  (which  may  include  conditions  relating  to  decisions taken on or after the relevant day by the [ F205 Disclosure and Barring Service ] under the Safeguarding Vulnerable Groups Act 2006) are satisfied in relation to him.
+
+- Regulations may provide that, as from a time specified in or determined in accordance with  the  regulations,  persons  who  fall  within  subsection  (1)  are  to  be  treated  for prescribed purposes as if the direction given under section 142 of EA 2002 were a direction given by the appropriate authority under section 167A of that Act.
+
+- Regulations may make provision in connection with the determination of any appeal under  subsection  (1)  of  section  144  of  EA  2002,  or  application  for  review  under subsection (2) of that section, which is pending on the relevant day.
+
+- Regulations  under  subsection  (3)  may,  in  particular,  provide  for  an  appeal,  or application for review, under section 144 of EA 2002 to be treated as an appeal under section 167B of that Act.
+
+- In this section-
+
+[[END OF PAGE 153]]
+
+[[START OF PAGE 154]]
+
+154
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 9 - Miscellaneous
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+'appropriate authority' has the same meaning as in section 167A of EA 2002;
+
+'prescribed' means prescribed by regulations under this section;
+
+'regulations' means regulations made [ F206 by the Welsh Ministers; ]
+
+'the relevant day' means the day on which section 167A of EA 2002 comes into force.
+
+##### Textual Amendments
+F205 Words in s. 171(1)(b) substituted (1.12.2012) by The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006), arts. 1(1), 13(1) (2)(f) (with Pt. 4) F206 Words in s. 171(5) substituted (5.1.2015) by Education and Skills Act 2008 (c. 25), s. 173(4), Sch. 1 para. 40(2) ; S.I. 2014/3364, art. 2(z)
+
+##### Commencement Information
+
+I225 S. 171 in force at 12.10.2009 for W. by S.I. 2009/2545, art. 3(1)(c)
+
+#### 172 Offences relating to independent schools
+
+- Part 10 of EA 2002 (independent schools) is amended as follows.
+
+- After section 168 insert-
+
+#### ' 168A Proceedings for offences
+
+No proceedings for an offence under this Chapter shall be instituted except by or with the consent of the registration authority.
+
+#### 168B Offences by bodies corporate
+
+- Where an offence under this Chapter committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of-
+
+(a) any director, manager, secretary or other similar officer of the body corporate, or
+
+(b) any person who was purporting to act in any such capacity,
+
+he (as well as the body corporate) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+- Where  the  affairs  of  a  body  corporate  are  managed  by  its  members, subsection  (1)  applies  in  relation  to  the  acts  and  defaults  of  a  member  in connection with his functions of management as it applies to a director of a body corporate.
+
+#### 168C Offences by unincorporated bodies
+
+- Proceedings for an offence alleged to have been committed under this Chapter by an unincorporated body are to be brought in the name of that body (and not in that of any of its members) and, for the purposes of any such proceedings, any rules of court relating to the service of documents have effect as if that body were a corporation.
+
+[[END OF PAGE 154]]
+
+[[START OF PAGE 155]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 9 - Miscellaneous
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+155
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- A fine imposed on an unincorporated body on its conviction of an offence under this Chapter is to be paid out of the funds of that body.
+
+- If  an  unincorporated  body  is  charged  with  an  offence  under  this  Chapter, section 33 of the Criminal Justice Act 1925 and Schedule 3 to the Magistrates' Courts Act 1980 (procedure on charge of an offence against a corporation) apply as they do in relation to a body corporate.
+
+- Where an offence under this Chapter committed by an unincorporated body (other than a partnership) is proved to have been committed with the consent or  connivance  of,  or  to  be  attributable  to  any  neglect  on  the  part  of,  any officer of the body or any member of its governing body, he as well as the body is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+- Where an offence under this Chapter committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.'
+
+- In section 159 (unregistered schools), omit subsection (3).
+
+- Sections  168B  and  168C  of  EA  2002  do  not  have  effect  in  relation  to  offences committed before the commencement of this section.
+
+##### Commencement Information
+
+I226
+
+S. 172 in force at 8.1.2007, see s. 188(2)
+
+### Special educational needs
+
+#### 173 Special educational needs co-ordinators
+
+In section 317 of EA 1996 (duties of governing body or [ F3 local authority ] in relation to pupils with special educational needs) after subsection (3) insert-
+
+'(3A) The  governing  body  of  a  community,  foundation  or  voluntary  school  or a  maintained  nursery  school  shall  designate  a  member  of  the  staff  at  the school  (to  be  known  as  the  'special  educational  needs  co-ordinator')  as having responsibility for co-ordinating the provision for pupils with special educational needs.
+
+(3B) Regulations may-
+
+(a) require the governing bodies of schools falling within subsection (3A) to ensure that special educational needs co-ordinators have prescribed qualifications or prescribed experience (or both), and
+
+(b) confer on the governing bodies of those schools other functions relating to special educational needs co-ordinators.'
+
+[[END OF PAGE 155]]
+
+[[START OF PAGE 156]]
+
+156
+
+Education and Inspections Act 2006 (c. 40) Part 9 - Miscellaneous
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+I227 S. 173 in force at 8.1.2007 for E. by S.I. 2006/3400, art. 2(c)
+
+#### 174 Time limits relating to statements of special educational needs
+
+- Chapter 1 of Part 4 of EA 1996 (children with special educational needs) is amended as follows.
+
+- In Schedule 26 (making of assessments under section 323), in paragraph 3(3)(a) after 'or 329A' insert ' , or under regulations under sub-paragraph (1)(b), '.
+
+- In Schedule 27 (making and maintenance of statements under section 324)-
+
+(a) in paragraph 5, for sub-paragraph (3) substitute-
+
+'(3) Regulations may provide that, where a local education authority are under a duty (subject to compliance with the preceding requirements of  this  Schedule)  to  make  a  statement,  the  duty  to  make  the statement, or any step required to be taken for or in connection with the  performance  of  the  duty  or  the  maintenance  of  the  statement (including any step in relation to the amendment of the statement) must,  subject  to  prescribed  exceptions,  be  performed  within  the prescribed period.', and
+
+(b) in paragraph 11, after sub-paragraph (2A) insert-
+
+'(2B) Where the local education authority determine to cease to maintain a statement following a periodic review or a re-assessment review, regulations may provide that a notice under sub-paragraph (2)(a) must be given within the prescribed period beginning with the date of the review.'
+
+- Any regulations which were made under Schedule 26 or 27 to EA 1996 and are in force immediately before the commencement of this section are to have effect as from that time as if made under that Schedule as amended by subsection (2) or (3) (as the case may be).
+
+##### Commencement Information
+I228 S. 174 in force at 8.1.2007, see s. 188(2)
+
+### Other miscellaneous provisions
+
+#### 175 Miscellaneous amendments relating to Wales
+
+Schedule 17 contains further amendments relating to Wales.
+
+[[END OF PAGE 156]]
+
+[[START OF PAGE 157]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 9 - Miscellaneous
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+157
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I229 S. 175 in force at 30.6.2008 by S.I. 2008/1429, art. 3(2), Sch. Pt. 2
+
+#### F207 176 Support schemes relating to education and training for persons aged 10 to 15
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F207 S. 176 repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a)(b), Sch. 1 para. 69, Sch. 2 Pt. 1 (with art. 2(3))
+##### Commencement Information
+
+I230 S. 176 in force at 1.4.2007 by S.I. 2007/935, art. 5(y)
+
+#### 177 University bodies: amendment of section 29 of Leasehold Reform Act 1967
+
+- Section 29 of the Leasehold Reform Act 1967 (c. 88) (which enables university bodies in certain circumstances to reserve rights for future development in relation to land sold or let by them) is amended as follows.
+
+- In subsection (6), omit the words from 'but a university body' to the end.
+
+- In subsection (6B), for the words from 'includes' to the end substitute-
+
+'(a) includes  development  by  a  related  university  body  (within  the meaning of section 28(6)(b) above); and
+
+(b) must  be  development  for  the  purposes  (other  than  investment purposes) of the university body or any such related university body.'
+
+- Where immediately before the date on which this section comes into force-
+
+(a) a university body have applied for consent under subsection (6) of section 29 of the Leasehold Reform Act 1967, and
+
+(b) the application has yet to be determined,
+
+consent under that subsection shall continue to be required; and for that purpose the amendments made by subsections (2) and (3) above shall be disregarded.
+
+##### Commencement Information
+
+I231 S. 177 in force at 8.1.2007, see s. 188(2)
+
+[[END OF PAGE 157]]
+
+[[START OF PAGE 158]]
+
+158
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 10 - General
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+## PART 10
+
+### GENERAL
+
+#### F208 178 Framework power relating to Wales
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F208 S. 178 repealed (25.5.2007) by The National Assembly for Wales (Legislative Competence) (Conversion of Framework Powers) Order 2007 (S.I. 2007/910), arts. 1(2), 5(a) (with art. 2)
+
+##### Commencement Information
+
+I232 S. 178 in force at 8.1.2007, see s. 188(2)
+
+#### F209 179 Restrictions on framework power conferred by section 178
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F209 S. 179 repealed (25.5.2007) by The National Assembly for Wales (Legislative Competence) (Conversion of Framework Powers) Order 2007 (S.I. 2007/910), arts. 1(2), 5(a) (with art. 2)
+
+##### Commencement Information
+
+I233 S. 179 in force at 8.1.2007, see s. 188(2)
+
+#### 180 Functions to be exercisable by National Assembly for Wales
+
+- Any function conferred on the Secretary of State by virtue of the amendments made by the provisions mentioned in subsection (2), so far as exercisable in relation to Wales, is to be taken to have been transferred to the Assembly by an Order in Council under section 22 of the Government of Wales Act 1998 (c. 38).
+
+- Those provisions are-
+
+section 4 (duty to identify children not receiving education); sections 40 to 54 (school admissions);
+
+[ F210 section 55 (right of sixth-form pupils to opt out of religious worship); ]
+
+section 56 (charges for music tuition);
+
+section 86 (provision of food and drink on school premises etc);
+
+section 164 (provision of information about children receiving funded education outside school);
+
+section 168 (maintained nursery schools: amendment of sections 496 and 497 of EA 1996);
+
+section 173 (special educational needs co-ordinators);
+
+section 174 (time limits relating to statements of special educational needs);
+
+Schedule 5 (funding of maintained schools).
+
+[[END OF PAGE 158]]
+
+[[START OF PAGE 159]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 10 - General
+
+Chapter 7 - Miscellaneous and supplementary
+
+159
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+F210 Words in s. 180(2) inserted (retrospectively) by Education and Skills Act 2008 (c. 25), s. 173(1)(g), Sch. 1 para. 88
+
+#### 181 Orders and regulations: general provisions
+
+[ F211 Any power of the Secretary of State or the Welsh Ministers to make an order or regulations under this Act is exercisable by statutory instrument. ]
+
+- Any power of the Secretary of State or [ F212 the Welsh Ministers ] to make an order or regulations under this Act includes power-
+
+(a) to make different provision for different cases or areas,
+
+(b) to make provision generally or in relation to specific cases, and
+
+(c) to make such incidental, supplementary, transitional or saving provision as the Secretary of State or [ F213 the Welsh Ministers think ] fit.
+
+##### Textual Amendments
+F211 S. 181(1) substituted (E.W.) (6.3.2009) by Learner Travel (Wales) Measure 2008 (nawm 2), ss. 23(3) (a) , 28(2); S.I. 2009/371, art. 2(1), Sch. Pt. 1 F212 Words in s. 181(2) substituted (E.W.) (6.3.2009) by Learner Travel (Wales) Measure 2008 (nawm 2), ss. 23(3)(b)(i) , 28(2); S.I. 2009/371, art. 2(1), Sch. Pt. 1 F213 Words in s. 181(2)(c) substituted (E.W.) (6.3.2009) by Learner Travel (Wales) Measure 2008 (nawm 2), ss. 23(3)(b)(ii) , 28(2); S.I. 2009/371, art. 2(1), Sch. Pt. 1
+
+#### 182 Parliamentary control of orders and regulations
+
+- Subject to subsection (2), any statutory instrument containing regulations or an order made under this Act by the Secretary of State is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+- Subsection (1) does not apply to-
+
+(a) an  order  under  section  15(7)(b)  (designation  of  primary  school  as  rural primary school for purposes of sections 15 and 16),
+
+[ F214 (aa) regulations to which subsection (2A) applies, ]
+
+(b) an order under section 188(3) (commencement), or
+
+(c) an instrument to which subsection (3) applies.
+
+[ F215 (2A) This subsection applies to regulations made under section 125(1A) (power to prescribe institutions exempt from inspection), apart from the first regulations to be made under that subsection. ]
+
+- A statutory instrument which contains (alone or with other provisions)-
+
+(a) an  order  under  section  80  (power  to  repeal  the  school  travel  scheme provisions),
+
+[ F216 (aza) the first regulations to be made under section 60B(3) (regulations defining 'coasting' in relation to a school), ]
+
+[ F217 (aa) regulations to which subsection (2A) applies, ]
+
+[[END OF PAGE 159]]
+
+[[START OF PAGE 160]]
+
+160
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 10 - General
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) an order under section 162 (power to repeal references to 'local education authority' and 'children's services authority' etc) which amends or repeals any provision of a public general Act, or
+
+(c) regulations under section 183 which amend or repeal any provision of an Act,
+
+may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+##### Textual Amendments
+F214 S. 182(2)(aa) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(11)(a) , 82(1)(d)
+
+F215 S. 182(2A) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(11)(b) , 82(1)(d)
+
+- F216 S. 182(3)(aza) inserted (E.W.) (5.9.2016 for specified purposes, 11.1.2017 in so far as not already in force) by Education and Adoption Act 2016 (c. 6), ss. 1(4) , 19(2); S.I. 2016/866, reg. 2; S.I. 2017/6, reg. 2(a)
+
+F217 S. 182(3)(aa) inserted (15.11.2011) by Education Act 2011 (c. 21), ss. 42(11)(c) , 82(1)(d)
+
+#### [ F218 182A Assembly control of orders and regulations
+
+- Any  statutory  instrument  containing  an  order  made  under  section  162(5A)  by  the Welsh Ministers may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the Assembly.
+
+- Paragraphs  33  to  35  of  Schedule  11  to  the  Government  of  Wales  Act  2006  make provision  about  the  Assembly  procedures  that  apply  to  any  statutory  instrument containing regulations or an order made in exercise of functions conferred upon the Assembly by this Act that have been transferred to the Welsh Ministers by virtue of paragraph 30 of that Schedule. ]
+
+##### Textual Amendments
+F218 S. 182A inserted (6.3.2009) by Learner Travel (Wales) Measure 2008 (nawm 2), ss. 23(4) , 28(2); S.I. 2009/371, art. 2(1), Sch. Pt. 1
+
+#### 183 Power to make consequential and transitional provision etc
+
+- The Secretary of State may by regulations make-
+
+(a) any supplementary, incidental or consequential provision, and
+
+(b) any transitional or saving provision,
+
+that he considers necessary or expedient for the purposes of, in consequence of, or for giving full effect, to any provision of this Act.
+
+- Regulations under this section may in particular-
+
+(a) provide for any provision of this Act which comes into force before another provision has come into force to have effect, until that other provision has come into force, with specified modifications;
+
+(b) amend or repeal any provision of-
+
+(i) an Act passed before or in the same Session as this Act, or
+
+(ii) subordinate legislation made before the passing of this Act.
+
+[[END OF PAGE 160]]
+
+[[START OF PAGE 161]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 10 - General
+
+Chapter 7 - Miscellaneous and supplementary
+
+161
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Nothing  in  this  section  limits  the  power  by  virtue  of  section  181(2)  to  include transitional or saving provision in an order under section 188(3) (commencement).
+
+- The amendments that may be made by virtue of subsection (2)(b) are in addition to those that are made by, or may be made under, any other provision of this Act.
+
+#### 184 Repeals
+
+The  enactments  specified  in  Schedule  18  (which  include  spent  enactments)  are repealed to the extent specified.
+
+##### Commencement Information
+I234 S. 184 partly in force; s. 184 in force at 8.11.2006 for certain purposes see s. 188(1); s. 184 in force at 8.1.2007 for certain purposes see s. 188(2) I235 S. 184 in force at 12.12.2006 for specified purposes by S.I. 2006/2990, art. 2(h) I236 S. 184 in force at 8.1.2007 for specified purposes for E. by S.I. 2006/3400, art. 2(d) I237 S. 184 in force at 8.1.2007 for specified purposes by S.I. 2006/3400, art. 3(g) I238 S. 184 in force at 8.2.2007 for specified purposes for E. by S.I. 2006/3400, art. 4(b) I239 S. 184 in force at 27.2.2007 for specified purposes for E. by S.I. 2006/3400, art. 6(f) I240 S. 184 in force at 27.2.2007 for specified purposes by S.I. 2006/3400, art. 7(d) I241 S. 184 in force at 1.4.2007 for specified purposes for E. by S.I. 2007/935, art. 4(c) I242 S. 184 in force at 1.4.2007 for specified purposes by S.I. 2007/935, art. 5(z) I243 S. 184 in force at 25.5.2007 for specified purposes for E. by S.I. 2007/935, art. 6(c) I244 S. 184 in force at 25.5.2007 for specified purposes by S.I. 2007/935, art. 7(m) I245 S. 184 in force at 1.9.2007 for specified purposes for E. by S.I. 2007/1801, art. 3(g) I246 S. 184 in force at 1.9.2007 for specified purposes by S.I. 2007/1801, art. 4(j) I247 S. 184 in force at 30.6.2008 for specified purposes for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1 I248 S. 184 in force at 30.6.2008 for specified purposes by S.I. 2008/1429, art. 3(2), Sch. Pt. 2 I249 S. 184 in force at 1.9.2008 for specified purposes for W. by S.I. 2008/1429, art. 3(3), Sch. Pt. 3 I250 S. 184 in force at 1.1.2009 for specified purposes for W. by S.I. 2009/2545, art. 3(2)(c) I251 S. 184 in force at 1.9.2009 for specified purposes for W. by S.I. 2009/1027, art. 3(c) I252 S. 184 in force at 2.4.2010 for specified purposes for W. by S.I. 2010/736, art. 3(b) I253 S. 184 in force at 31.10.2010 for specified purposes for W. by S.I. 2010/2543, art. 2(l)
+
+#### 185 Financial provisions
+
+- There is to be paid out of money provided by Parliament-
+
+(a) any expenditure incurred by virtue of this Act by the Office for Standards in Education, Children's Services and Skills or by a Minister of the Crown, and
+
+(b) any increase attributable to this Act in the sums payable under any other Act out of money so provided.
+
+- There are to be paid into the Consolidated Fund-
+
+(a) sums  received  by  Her  Majesty's  Chief  Inspector  of  Education,  Children's Services and Skills by virtue of this or any other Act, and
+
+(b) sums received by a Minister of the Crown by virtue of this Act.
+
+#### 186 Abbreviations of Acts
+
+In this Act- Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+[[END OF PAGE 161]]
+
+[[START OF PAGE 162]]
+
+162
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 10 - General
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+'EA 1996' means the Education Act 1996 (c. 56); 'EA 2002' means the Education Act 2002 (c. 32); 'EA 2005' means the Education Act 2005 (c. 18);
+
+'SSFA 1998' means the School Standards and Framework Act 1998 (c. 31).
+
+#### 187 General interpretation
+
+(1) In this Act'the Assembly' means the National Assembly for Wales; 'community  or  foundation  special  school'  means  a  community  special school or a foundation special school; 'enactment' includes an enactment comprised in subordinate legislation; 'subordinate legislation' has the same meaning as in the Interpretation Act 1978 (c. 30).
+
+- Subject  to  subsection  (4),  EA  1996  and  the  provisions  of  this  Act  specified  in subsection (3) are to be read as if those provisions were contained in EA 1996.
+
+- The provisions of this Act referred to in subsection (2) are-
+
+F219
+
+(a)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) Part 2 (establishment, alteration or discontinuance of schools in England);
+
+(c) section 39 (general restriction on selection by ability);
+
+(d) Part 4 (schools causing concern: England);
+
+(e) Part 7 (discipline, behaviour and exclusion);
+
+(f) section  166  (collaboration  arrangements:  maintained  schools  and  further education bodies).
+
+- Where  an  expression  is  given  for  the  purposes  of  any  provision  falling  within subsection (3) a meaning different from that given to it for the purposes of EA 1996, the meaning given for the purposes of that provision is to apply instead of the one given for the purposes of that Act.
+
+- Unless the context otherwise requires, any reference in this Act or in any Act amended by  this  Act  to  a  community,  foundation  or  voluntary  school  or  a  community  or foundation special school is to such a school within the meaning of SSFA 1998.
+
+##### Textual Amendments
+F219 S. 187(3)(a) omitted (15.11.2011) by virtue of Education Act 2011 (c. 21), ss. 33(2) , 82(1)(a)
+
+#### 188 Commencement
+
+- The following provisions come into force on the day on which this Act is passedsections 86 and 87 (provision of food and drink on school premises etc.);
+
+section 109 (failure to secure school attendance), except subsection (8);
+
+section 111 (interpretation of Chapter 2 of Part 7);
+
+any  provision  of  Part  8  (inspections)  so  far  as  it  confers  power  to  make subordinate legislation;
+
+section 161 (powers to facilitate innovation);
+
+section 180 (functions to be exercisable by Assembly);
+
+[[END OF PAGE 162]]
+
+[[START OF PAGE 163]]
+
+Education and Inspections Act 2006 (c. 40) Part 10 - General Chapter 7 - Miscellaneous and supplementary Document Generated: 2020-04-22
+
+163
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+sections 181 and 182 (subordinate legislation);
+
+section 183 (power to make consequential and transitional provision etc.);
+
+sections 185 to 187, this section and sections 189 to 191;
+
+Schedule 16;
+
+Part 1 of Schedule 18, and section 184 so far as relating to that Part.
+
+- The following provisions come into force at the end of the period of two months beginning with the day on which this Act is passed-
+
+section 6 (functions of [ F3 local authorities ] in England in respect of youth work, recreation etc.);
+
+section 52 (power of Assembly to make regulations about looked after children); section 58 (code of practice as to relationships between [ F3 local authorities ] and maintained schools in England, etc.);
+
+section  162  (power  to  repeal  references  to  'local  education  authority'  and 'children's services authority', etc.);
+
+section 168 (maintained nursery schools: amendment of sections 496 and 497 of EA 1996);
+
+section 172 (offences relating to independent schools);
+
+section 174 (time limits relating to statements of special educational needs);
+
+section 177 (university bodies: amendment of section 29 of Leasehold Reform Act 1967);
+
+sections 178 and 179 (framework power relating to Wales);
+
+Schedule 1;
+
+Part 2 of Schedule 18, and section 184 so far as relating to that Part.
+
+- The remaining provisions of this Act come into force in accordance with provision made by the appropriate authority (as defined by section 189) by order.
+
+- F3 Words in Act substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Textual Amendments
+
+#### 189 The appropriate authority by whom commencement order is made
+
+- This  section  has  effect  for  determining  who  is  the  appropriate  authority  for  the purposes of section 188(3).
+
+- In relation to the provisions specified in subsection (3), the appropriate authority is-
+
+(a) in relation to England, the Secretary of State, and
+
+(b) in relation to Wales, the Assembly.
+
+- Those provisions are-
+
+section 1 (duties in relation to high standards and fulfilment of potential);
+
+section 4 (duty to identify children not receiving education);
+
+in section 37 (staff at foundation or voluntary schools with religious character), subsections (1) and (2)(a);
+
+section 38 (general duties of governing body of maintained school);
+
+section 39 (general restriction on selection by ability);
+
+[[END OF PAGE 163]]
+
+[[START OF PAGE 164]]
+
+164
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 10 - General
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+section 40 (code for school admissions);
+
+section  43  (duty  of  governing  body  to  implement  decisions  relating  to admissions);
+
+section 44 (prohibition on interviews);
+
+section  45  (admission  arrangements  for  schools  with  religious  character: consultation and objections);
+
+section 47 (objections to admission arrangements);
+
+section  53  (schools  with  pre-1998  arrangements  for  selection  by  ability  or aptitude);
+
+section 55 (right of sixth-form pupils to be excused from attendance at religious worship);
+
+section 56 (charges for music tuition);
+
+section 57 (school funding);
+
+Chapter 1 of Part 7 (school discipline);
+
+sections 97, 98 and 99 (parenting contracts and parenting orders);
+
+section 102 (reintegration interviews);
+
+section 108 (removal of excluded pupils to designated premises);
+
+section 164 (provision of information about children receiving funded education outside school);
+
+section 165 (power of members of staff of further education institutions to use force);
+
+section  166  (collaboration  arrangements:  maintained  schools  and  further education bodies);
+
+section 167 (consultation with young pupils);
+
+sections 169 to 171 (prohibition on participation in management of independent schools);
+
+section 173 (special educational needs co-ordinators);
+
+Schedule 5.
+
+- In relation to the provisions specified in subsection (5), the appropriate authority is the Assembly.
+
+- Those provisions are-
+
+section  156  (removal  of  duty  to  inspect  performance  of  certain  Assembly functions);
+
+section 175 (miscellaneous amendments relating to Wales);
+
+Schedule 17;
+
+the repeal in Part 5 of Schedule 18 of section 38 of the Children Act 2004 (c. 31), and section 184 so far as relating to that repeal.
+
+- In relation to a repeal contained in Part 6 of Schedule 18, and section 184 so far as relating  to  such  a  repeal,  the  appropriate  authority  is  the  appropriate  authority  for the  purposes  of  section  188(3)  in  relation  to  the  provision  on  which  the  repeal  is consequential.
+
+- In relation to the other provisions to which section 188(3) applies, the appropriate authority is the Secretary of State.
+
+[[END OF PAGE 164]]
+
+[[START OF PAGE 165]]
+
+Education and Inspections Act 2006 (c. 40)
+
+Part 10 - General
+
+Chapter 7 - Miscellaneous and supplementary
+
+Document Generated: 2020-04-22
+
+165
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### 190 Extent
+
+- Subject to subsections (2) and (3), this Act extends to England and Wales only.
+
+- The following provisions extend also to Scotland and Northern Ireland-
+
+section 162;
+
+sections 181 and 182;
+
+sections 185 to 189, this section and section 191.
+
+- Any amendment or repeal made by this Act, other than any amendment made by paragraph 2 of Schedule 10, has the same extent as the enactment amended or repealed.
+
+#### 191 Short title
+
+- This Act may be cited as the Education and Inspections Act 2006.
+
+- This Act is to be included in the list of Education Acts set out in section 578 of EA 1996.
+
+[[END OF PAGE 165]]
+
+[[START OF PAGE 166]]
+
+166
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 1 - Amendments related to section 6
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+# S C H E D U L E S
+
+## SCHEDULE 1
+
+### AMENDMENTS RELATED TO SECTION 6
+
+F220 ...
+
+##### Textual Amendments
+
+F220 Sch. 1 para. 1 crossheading repealed by 2010 c. 15, Sch. 27 Pt 1 (as substituted (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 2 (see S.I. 2010/2317, art. 2))
+
+F221
+
+1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F221 Sch. 1 para. 1 repealed by 2010 c. 15, Sch. 27 Pt 1 (as substituted (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 2 (see S.I. 2010/2317, art. 2))
+
+#### Education Act 1996 (c. 56)
+
+- 2 EA 1996 is amended as follows.
+
+##### Commencement Information
+
+I254 Sch. 1 para. 2 in force at 8.1.2007, see s. 188(2)
+
+- 3 In section 312 (meaning of 'special educational needs'), in subsection (2), after 'or 15B' insert ' or section 507B '.
+
+- 4 In section 508 (functions in respect of facilities for recreation etc.)-
+
+(a) in subsections (1) and (1A), after 'local education authority' insert ' in Wales ', and
+
+(b) in the heading, for 'Functions' substitute ' [ F3 local authorities ] in Wales: functions '.
+
+##### Commencement Information
+I255 Sch. 1 para. 3 in force at 8.1.2007, see s. 188(2)
+
+Section 6
+
+[[END OF PAGE 166]]
+
+[[START OF PAGE 167]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+167
+
+1
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+
+- F3 Words  in  Act  substituted  (5.5.2010)  by  The  Local  Education  Authorities  and  Children's  Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+I256 Sch. 1 para. 4 in force at 8.1.2007, see s. 188(2)
+
+- 5 In section 510 (provision of clothing), in subsection (4)(c), for 'made available for them by the authority under section 508(2)' substitute ' secured by the authority under section 507A or 507B (if the authority are in England) or made available by the authority for such persons under section 508(2) (if the authority are in Wales) '.
+
+##### Commencement Information
+
+I257 Sch. 1 para. 5 in force at 8.1.2007, see s. 188(2)
+
+- 6 In section 547 (nuisance or disturbance on school premises), in subsection (2A)(a), for 'section 508' substitute ' section 507A or 507B (if the authority are in England) or section 508 (if the authority are in Wales) '.
+
+##### Commencement Information
+
+I258 Sch. 1 para. 6 in force at 8.1.2007, see s. 188(2)
+
+## SCHEDULE 2
+
+Sections 7, 10, 11 and 15
+
+### PROPOSALS FOR ESTABLISHMENT OR DISCONTINUANCE OF SCHOOLS IN ENGLAND
+
+##### Modifications etc. (not altering text)
+
+- C29 Sch. 2 modified (E.) (25.5.2007) by The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007 (S.I. 2007/1288), reg. 1(1), Sch. 7
+
+- C30 Sch. 2 modified (28.1.2014) by The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109), reg. 1, Sch. 4 Pt. 2
+
+- C31 Sch. 2 modified (28.1.2014) by The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109), reg. 1, Sch. 4 Pt. 1
+
+#### PART 1
+
+##### INTRODUCTORY
+
+###### Application of Schedule
+
+- This Schedule applies to proposals published under section 7, 10, 11 or 15.
+
+[[END OF PAGE 167]]
+
+[[START OF PAGE 168]]
+
+168
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Accordingly, in this Schedule, unless a contrary intention appears, 'proposals' means proposals published under any of those sections.
+
+##### Modifications etc. (not altering text)
+
+C32 Sch. 2 para. 1 applied (with modifications) (E.) (25.5.2007) by The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007 (S.I. 2007/1288), reg. 1(1), Sch. 6 C33 Sch. 2 para. 1 applied (with modifications) (28.1.2014) by The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109), reg. 1, Sch. 3 para. 1
+
+##### Commencement Information
+
+I259 Sch. 2 para. 1 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### 'The relevant authority'
+
+- 2 In this Schedule 'the relevant authority' means-
+
+(a) in the case of proposals under section 7, the local education authority who published the notice under that section, and
+
+(b) in  the  case  of  proposals  under section 10, 11 or 15, the local education authority who maintain the school or (in the case of a new school) who it is proposed should maintain the school.
+
+##### Modifications etc. (not altering text)
+
+- C34 Sch. 2 para. 2 applied (with modifications) (E.) (25.5.2007) by The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007 (S.I. 2007/1288), reg. 1(1), Sch. 6
+
+- C35 Sch. 2 para. 2 applied (with modifications) (28.1.2014) by The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109), reg. 1, Sch. 3 para. 2
+
+##### Commencement Information
+
+I260 Sch. 2 para. 2 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### 'Proposers'
+
+- 3 In this Schedule 'proposers', in relation to any proposals, means the persons who made the proposals, but does not include a local education authority.
+
+##### Commencement Information
+
+I261 Sch. 2 para. 3 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### [ F222 'Academy proposals' and 'non-Academy proposals'
+
+##### Textual Amendments
+F222 Sch. 2 para. 3A and cross-heading inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(2) ; S.I. 2012/84, art. 3 (with art. 4)
+
+[[END OF PAGE 168]]
+
+[[START OF PAGE 169]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+169
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+3A In this Schedule-
+
+(a) 'Academy proposals' means proposals under section 7 for the establishment of [ F223 an Academy school ] , and
+
+(b) 'non-Academy  proposals'  means  proposals  under  section  7  for  the establishment of a school falling within subsection (2)(a) of that section. ]
+
+##### Textual Amendments
+F223 Words in Sch. 2 para. 3A(a) substituted (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 13 para.
+16(8) ; S.I. 2012/924, art. 2
+
+###### References to persons by whom proposals are made
+
+4 For the purposes of this Schedule-
+
+(a) proposals under section 7 are to be taken to be made by the person who submitted them to the relevant authority under subsection (4)(b) of that section, F224 ... and
+
+(b) proposals under section 10, 11 or 15 are to be taken to be made by the persons who published them.
+
+##### Textual Amendments
+F224 Words in Sch. 2 para. 4(a) omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(3) ; S.I. 2012/84, art. 3 (with art. 4)
+##### Commencement Information
+I262 Sch. 2 para. 4 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Objections and comments
+
+5 Regulations may make provision-
+
+(a) for the making of objections or comments in relation to the proposals within a prescribed period to the relevant authority, and
+
+(b) requiring  the  relevant  authority,  in  any  case  where  proposals  are [ F225 to be considered by the Secretary of State or ] the adjudicator, to forward to [ F226 the Secretary of State or (as the case may be) ] the adjudicator objections or  comments  made  in  relation  to  the  proposals  in  accordance  with  the regulations.
+
+##### Textual Amendments
+F225 Words in Sch. 2 para. 5(b) substituted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(4)(a) ; S.I. 2012/84, art. 3 (with art. 4) F226 Words in Sch. 2 para. 5(b) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(4)(b) ; S.I. 2012/84, art. 3 (with art. 4)
+##### Modifications etc. (not altering text)
+C36 Sch. 2 para. 5 applied (with modifications) (E.) (25.5.2007) by The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007 (S.I. 2007/1288), reg. 1(1), Sch. 6
+
+[[END OF PAGE 169]]
+
+[[START OF PAGE 170]]
+
+170
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+C37 Sch. 2 para. 5 applied (with modifications) (28.1.2014) by The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109), reg. 1, Sch. 3 para. 3
+##### Commencement Information
+I263 Sch. 2 para. 5 in force at 1.4.2007 by S.I. 2007/935, art. 5(aa)
+
+#### PART 2
+
+##### F227 CONSIDERATION OF PROPOSALS ...
+
+##### Textual Amendments
+F227 Words in Sch. 2 Pt. 2 heading omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(5) ; S.I. 2012/84, art. 3 (with art. 4)
+
+###### [ F228 Consideration of proposals ]
+
+##### Textual Amendments
+F228 Sch. 2 para. 6 heading substituted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(6) ; S.I. 2012/84, art. 3 (with art. 4)
+
+[ F229 5A (1) Academy proposals do not require consideration under paragraph 8 (see paragraph 7A instead).
+
+- If proposals under section 7 consist wholly of non-Academy proposals, the proposals require consideration under paragraph 8.
+
+- If  proposals  under  section  7  include  both  Academy  proposals  and  non-Academy proposals, the non-Academy proposals do not require consideration under paragraph 8 unless and until paragraph 7A(5) or (6) applies. ]
+
+##### Textual Amendments
+F229 Sch. 2 para. 5A inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(7) ; S.I. 2012/84, art. 3 (with art. 4)
+
+6
+
+All proposals under section F230 ... 10 or 11 require consideration under paragraph 8.
+
+##### Textual Amendments
+F230 Words in Sch. 2 para. 6 omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(8) ; S.I. 2012/84, art. 3 (with art. 4)
+##### Commencement Information
+I264 Sch. 2 para. 6 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+- 7 (1) Proposals  under  section  15  require  consideration  under  paragraph  8  unless  subparagraph (2) applies.
+
+[[END OF PAGE 170]]
+
+[[START OF PAGE 171]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+171
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Proposals under section 15 fall to be dealt with under paragraph 19 (and do not require consideration under paragraph 8) if the proposals were made by the relevant authority and either-
+
+(a) no objections were made in relation to the relevant proposals in accordance with regulations under paragraph 5, or
+
+(b) all  objections  so  made  were  withdrawn  in  writing  within  the  period prescribed as that within which any objections must be made.
+
+[ F231 7A (1) This  paragraph  applies  where  proposals  under  section  7  consist  of  or  include Academy proposals.
+
+- The Secretary of State must decide whether to enter into Academy arrangements as a result of any of the Academy proposals.
+
+- The Secretary of State must notify the relevant authority of a decision under subparagraph (2).
+
+- Sub-paragraphs (5) and (6) apply where the proposals under section 7 include nonAcademy proposals.
+
+- If the Secretary of State decides not to enter into Academy arrangements as a result of any of the Academy proposals, the non-Academy proposals require consideration under paragraph 8.
+
+- In any other case, the Secretary of State may direct that all or any of the non-Academy proposals require consideration under paragraph 8. ]
+
+##### Commencement Information
+I265 Sch. 2 para. 7 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+##### Textual Amendments
+F231 Sch. 2 para. 7A inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(9) ; S.I. 2012/84, art. 3 (with art. 4)
+
+F232
+
+...
+
+##### Textual Amendments
+F232 Sch. 2 para. 8 heading omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(10) ; S.I. 2012/84, art. 3 (with art. 4)
+
+- 8 (1) Proposals which require consideration under this paragraph, other than proposals to which paragraph 10 applies, must be considered in the first instance by the relevant authority.
+
+- Sub-paragraphs  (3)  and  (4)  apply  in  relation  to  the  relevant  authority  unless  the authority is required by any of paragraphs 10 to 13 and 15 to refer the proposals to the adjudicator.
+
+[[END OF PAGE 171]]
+
+[[START OF PAGE 172]]
+
+172
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+9
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In a case where the proposals were published under section 7 and two or more sets of proposals were published, the authority may-
+
+(a) reject all the proposals,
+
+(b) approve any of the proposals without modification, or
+
+(c) approve any of the proposals with such modifications as the authority think desirable, after consulting such persons as may be prescribed.
+
+- In any other case, the authority may-
+
+(a) reject the proposals,
+
+(b) approve the proposals without modification, or
+
+(c) approve  the  proposals  with  such  modifications  as  the  authority  think desirable, after consulting such persons as may be prescribed.
+
+- Any approval given under this paragraph may be expressed to take effect only if an event specified in the approval occurs by a date so specified; and regulations may prescribe the events that may be so specified.
+
+- When deciding whether or not to give any approval under this paragraph, the relevant authority must have regard to any guidance given from time to time by the Secretary of State.
+
+Commencement Information
+
+I266 Sch. 2 para. 8 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Consideration of proposals that are related to other proposals
+
+F233
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[ F234 (2) Where  proposals  within  sub-paragraph  (2A)  appear  to  the  relevant  authority  to be  related  to  other  proposals  within  that  sub-paragraph  that  have  not  yet  been determined, the authority must consider the proposals together.
+
+(2A) The proposals within this sub-paragraph are-
+
+(a) proposals under section 7 that require consideration by the authority under paragraph 8;
+
+(b) proposals under section 10, 11 or 15. ]
+
+- In deciding for the purposes of this paragraph whether proposals are related to other proposals, the relevant authority must have regard to any guidance given from time to time by the Secretary of State.
+
+Textual Amendments
+
+F233 Sch. 2 para. 9(1) repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a)(b), Sch. 1 para. 70(a), Sch. 2 Pt. 1 (with art. 2(3))
+
+F234 Sch. 2 para. 9(2)(2A) substituted for Sch. 2para. 9(2) (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(11) ; S.I. 2012/84, art. 3 (with art. 4)
+
+[[END OF PAGE 172]]
+
+[[START OF PAGE 173]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+173
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I267 Sch. 2 para. 9 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Duty to refer to adjudicator certain proposals made by or involving relevant authority
+
+- 10 (1) The relevant authority must refer to the adjudicator, within a prescribed time-
+
+[ F235 (a) all the proposals published under section 7 in response to a notice under that section and which-
+
+(i) would  otherwise  require  consideration  by  the  authority  under paragraph 8, and
+
+(ii) consist  of  or  include  proposals  which  relate  to  the  establishment of  a  foundation  school  with  a  foundation  falling  within  subparagraph (2); ]
+
+(b) any proposals under section 10 or 11 which-
+
+(i) are made by the relevant authority, or
+
+(ii) relate to the establishment of a foundation school with a foundation falling within sub-paragraph (2).
+
+- A foundation falls within this sub-paragraph if it is to be established otherwise than under SSFA 1998 and any of the following applies-
+
+(a) the relevant authority or any person appointed by the relevant authority is to be a member of the foundation,
+
+(b) any person appointed by the relevant authority is to be a [ F236 charity trustee (within the meaning of the Charities Act 2011) ] of the foundation, or
+
+(c) any voting rights  in  the  foundation  are  to  be  exercisable  by  the  relevant authority or persons appointed by the relevant authority.
+
+- Regulations may make provision for the making by the relevant authority to the adjudicator of objections to any proposals which are required to be referred to the adjudicator under this paragraph.
+
+##### Textual Amendments
+F235 Sch. 2 para. 10(1)(a) substituted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(12) ; S.I. 2012/84, art. 3 (with art. 4) F236 Words in Sch. 2 para. 10(2)(b) substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 110 (with s. 20(2), Sch. 8)
+##### Commencement Information
+I268 Sch. 2 para. 10 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Duty to refer proposals to adjudicator in prescribed cases
+
+- 11 Regulations  may  make  provision  requiring  the  relevant  authority  in  prescribed cases  to  refer  to  the  adjudicator  within  a  prescribed  time  proposals  requiring consideration under paragraph 8 (or in the case of proposals under section 7 all the  proposals  requiring  consideration  under  that  paragraph),  together  with  any comments made on the proposals (or in the case of proposals under section 7, any of the proposals) by the authority.
+
+[[END OF PAGE 173]]
+
+[[START OF PAGE 174]]
+
+174
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I269 Sch. 2 para. 11 in force at 1.4.2007 by S.I. 2007/935, art. 5(aa)
+
+###### Duty to refer proposals to adjudicator in pursuance of direction by Secretary of State
+
+- 12 (1) The Secretary of State may at any time give a direction to a local education authority requiring them to refer to the adjudicator by a specified time-
+
+(a) any proposals which have been published by the authority under section 7 [ F237 and which require consideration under paragraph 8 ] but which, at the time when the direction is given, have not been determined by the authority [ F238 under that paragraph ] , and
+
+(b) all  subsequent  proposals  published  by  the  authority  under  that  section [ F239 and which require consideration under paragraph 8, ] until the direction is revoked,
+
+together with any comments made on any of the proposals by the authority.
+
+F240 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F240 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F237 Words in Sch. 2 para. 12(1)(a) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(13)(a)(i) ; S.I. 2012/84, art. 3 (with art. 4) F238 Words in Sch. 2 para. 12(1)(a) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(13)(a)(ii) ; S.I. 2012/84, art. 3 (with art. 4) F239 Words in Sch. 2 para. 12(1)(b) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(13)(b) ; S.I. 2012/84, art. 3 (with art. 4) F240 Sch. 2 para. 12(2)(3) omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(13)(c) ; S.I. 2012/84, art. 3 (with art. 4)
+##### Commencement Information
+I270 Sch. 2 para. 12 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Duty to refer proposals to adjudicator where determination delayed
+
+- 13 If by the end of such period as may be prescribed the relevant authority have not determined whether to give any approval under paragraph 8(3) or (4), they must within a prescribed time refer to the adjudicator-
+
+(a) in the case mentioned in paragraph 8(3), all the proposals published under section 7 [ F241 and which require consideration under paragraph 8 ] , and
+
+(b)
+
+- in the case mentioned in paragraph 8(4), the proposals concerned,
+
+together with any comments made on the proposals by the authority.
+
+##### Textual Amendments
+F241 Words in Sch. 2 para. 13(a) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(14) ; S.I. 2012/84, art. 3 (with art. 4)
+
+[[END OF PAGE 174]]
+
+[[START OF PAGE 175]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+175
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Modifications etc. (not altering text)
+
+C38 Sch. 2 para. 13 applied (with modifications) (E.) (25.5.2007) by The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007 (S.I. 2007/1288), reg. 1(1), Sch. 6
+
+- C39 Sch. 2 para. 13 applied (with modifications) (28.1.2014) by The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109), reg. 1, Sch. 3 para. 4
+
+##### Commencement Information
+
+I271 Sch. 2 para. 13 in force at 1.4.2007 by S.I. 2007/935, art. 5(aa)
+
+###### Reference to adjudicator at request of aggrieved person after determination under paragraph 8(4)
+
+- 14 (1) The  relevant  authority  must  if  so  requested  within  a  prescribed  time  by  any relevant person refer to the adjudicator within a prescribed time any proposals under section 10, 11 or 15 which the relevant authority have determined under paragraph 8(4), together with any reasons given by the authority for their determination.
+
+- The following are relevant persons for the purposes of sub-paragraph (1)-
+
+(a) the Diocesan Board of Education for any diocese of the Church of England any part of which is comprised in the area of the relevant authority;
+
+(b) the bishop of any diocese of the Roman Catholic Church any part of which is comprised in the area of the relevant authority;
+
+(c) in the case of proposals made under section 10 or 11 by a person other than the relevant authority and rejected by the authority under paragraph 8(4)(a), the proposers;
+
+(d) in the case of proposals published under section 15, the governing body or trustees of any foundation, voluntary or foundation special school which is the subject of the proposals;
+
+- F242 (e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F242 Sch. 2 para. 14(2)(e) repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(a)(b), Sch. 1 para. 70(c), Sch. 2 Pt. 1 (with art. 2(3))
+
+##### Modifications etc. (not altering text)
+
+- C40 Sch. 2 para. 14 applied (with modifications) (E.) (25.5.2007) by The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007 (S.I. 2007/1288), reg. 1(1), Sch. 6
+
+- C41 Sch. 2 para. 14 applied (with modifications) (28.1.2014) by The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109), reg. 1, Sch. 3 para. 5
+
+##### Commencement Information
+
+I272 Sch. 2 para. 14 in force at 1.4.2007 by S.I. 2007/935, art. 5(aa)
+
+###### Duty to refer related proposals
+
+15 Where the relevant authority are required under any of paragraphs 10 to 14 or under Schedule 7 to the Learning and Skills Act 2000 to refer any proposals ('the relevant Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes proposals') to the adjudicator, the authority must also within a prescribed time refer to the adjudicator-
+
+[[END OF PAGE 175]]
+
+[[START OF PAGE 176]]
+
+176
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+(a) any other proposals under section 7, 10, 11 or 15 which relate to the area of the relevant authority and which by virtue of paragraph 9(2) fall to be considered with the relevant proposals, and
+
+(b) where the relevant proposals are referred to the adjudicator by virtue of paragraph 14, any other proposals under section 10, 11 or 15 which by virtue of paragraph 9(2) were determined by the relevant authority with the relevant proposals.
+
+##### Commencement Information
+
+I273 Sch. 2 para. 15 in force at 1.4.2007 by S.I. 2007/935, art. 5(aa)
+
+###### Withdrawal of proposals before determination
+
+- 16 (1) Nothing in paragraph 8(1) to (4) prevents the proposers by whom any proposals have been made from withdrawing those proposals by notice in writing-
+
+(a) to the relevant authority, and
+
+(b) in a case where the proposals have been referred to the adjudicator, also to the adjudicator,
+
+at any time before the proposals are determined under paragraph 8 by the authority or by the adjudicator.
+
+- Nothing in paragraph 8(1) to (4) prevents the relevant authority from withdrawing any  proposals  made  by  the  authority  themselves  by  notice  in  writing  to  the adjudicator at any time before the proposals are determined under paragraph 8 by the adjudicator.
+
+##### Commencement Information
+I274 Sch. 2 para. 16 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Effect of referring proposals to adjudicator
+
+- 17 (1) Where any proposals are referred to the adjudicator under any provision of this Part of this Schedule-
+
+(a) he  must  consider  the  proposals  or,  in  a  case  where  the  proposals  have previously been determined by the relevant authority, must consider them afresh,
+
+(b) the following provisions of paragraph 8 apply to him in connection with his decision on the proposals as they apply to the relevant authority-
+
+(i) sub-paragraph (3) or (4) (as the case requires), and
+
+(ii) sub-paragraphs (5) and (6), and
+
+(c) paragraph 9 applies to him as it applies to the relevant authority.
+
+PROSPECTIVE
+
+[[END OF PAGE 176]]
+
+[[START OF PAGE 177]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+177
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The revocation of a direction under paragraph 12(1) does not affect the determination by the adjudicator of any proposals referred to him before the revocation.
+
+F243 ...
+
+##### Textual Amendments
+F243 Sch. 2 para. 18 and heading omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(15) ; S.I. 2012/84, art. 3 (with art. 4)
+
+F243 18
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### Determination whether to implement proposals not requiring consideration under paragraph 8
+
+- 19 (1) Where any proposals have been made under section 15 by the relevant authority and paragraph 7 does not require the proposals to be considered under paragraph 8, the authority must (subject to the following provisions of this paragraph) determine whether the proposals should be implemented.
+
+- Any determination under sub-paragraph (1) must be made within a prescribed period.
+
+- The requirement to make a determination under sub-paragraph (1) only applies if, at the time when the proposals fall to be considered, the relevant authority are satisfied that the proposals do not relate to any proposals under section 113A of the Learning and Skills Act 2000 (c. 21) which fall to be determined by the Secretary of State but have not yet been determined by him.
+
+- The requirement to make a determination under sub-paragraph (1) does not apply where the proposals appear to the relevant authority to be related to-
+
+(a) other proposals published under section 15 and not yet determined,
+
+[ F244 (aa) proposals  published  under  section  7  that  require  consideration  under paragraph 8 and are not yet determined, ]
+
+(b) proposals published under section F245 ... 10 or 11 and not yet determined, or
+
+(c) proposals published under Schedule 7 to the Learning and Skills Act 2000 and not yet determined.
+
+- In deciding for the purposes of this paragraph whether proposals are related to other proposals, the relevant authority must have regard to any guidance given from time to time by the Secretary of State.
+
+- Where, in the case of any proposals falling within sub-paragraph (1)-
+
+(a) the authority fail to make a determination under that sub-paragraph within the period mentioned in sub-paragraph (2), or
+
+(b) the requirement to make such a determination does not apply by virtue of sub-paragraph (3) or (4),
+
+the proposals require consideration under paragraph 8 and, in a case falling within paragraph (a), must be referred to the adjudicator.
+
+[[END OF PAGE 177]]
+
+[[START OF PAGE 178]]
+
+178
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+- 21 (1) Where-
+
+(a) any proposals have been approved under paragraph 8, or
+
+(b) the relevant authority have determined under paragraph 19 to implement any proposals,
+
+then  (subject  to  the  following  provisions  of  this  paragraph)  the  proposals  must be  implemented,  in  the  form  in  which  they  were  so  approved  or  determined,  in accordance with this Part of this Schedule.
+
+- The relevant authority may, at the request of the proposers who made the proposals referred to in sub-paragraph (1), or, where the proposals were made by the authority themselves, on their own initiative-
+
+(a) modify the proposals after consulting such persons as may be prescribed, and
+
+(b) where any approval was given in accordance with paragraph 8(5), specify a later date by which the event in question must occur.
+
+- If,  after  consulting  such  persons  as  may  be  prescribed,  the  relevant  authority  are satisfied-
+
+(a) that implementation of the proposals would be unreasonably difficult, or
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+F244 Sch. 2 para. 19(4)(aa) inserted (1.2.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(16) (a) ; S.I. 2012/84, art. 3 (with art. 4) F245 Word and comma in Sch. 2 para. 19(4)(b) omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(16)(b) ; S.I. 2012/84, art. 3 (with art. 4)
+##### Commencement Information
+I275 Sch. 2 para. 19 in force at 1.4.2007 by S.I. 2007/935, art. 5(aa)
+
+###### Provision of information
+
+- 20 Regulations may require one or more of the following-
+
+(a) the proposers (if any),
+
+(b) the relevant authority, and
+
+(c) the adjudicator,
+
+to provide such information relating to the proposals to such persons, and at such times, as may be prescribed.
+
+##### Commencement Information
+
+I276 Sch. 2 para. 20 in force at 1.4.2007 by S.I. 2007/935, art. 5(aa)
+
+#### PART 3
+
+##### IMPLEMENTATION OF PROPOSALS
+
+###### Requirement to implement proposals
+
+[[END OF PAGE 178]]
+
+[[START OF PAGE 179]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+179
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) that circumstances have so altered since approval was given under paragraph 8 that implementation of the proposals would be inappropriate,
+
+the  authority  may  determine  that  sub-paragraph  (1)  is  to  cease  to  apply  to  the proposals.
+
+- The  relevant  authority  may  only  make  a  determination  under  sub-paragraph  (3) where proposals that they should do so have been published, in accordance with regulations, by the authority or proposers who made the proposals referred to in subparagraph (1); and regulations may provide for any of the provisions of sections 7 to 12, sections 15 and 16 and Parts 1 and 2 of this Schedule to have effect in relation to any such further proposals with or without modifications.
+
+- The  relevant  authority  must  in  prescribed  cases  refer  to  the  adjudicator  by  a prescribed  time  any  matter  which  would  otherwise  fall  to  be  determined  by  the authority under this paragraph.
+
+- If by the end of such period as may be prescribed the relevant authority have failed to take any step required by this paragraph, the authority must refer the matter to the adjudicator by the prescribed time.
+
+- Where any matter is referred to the adjudicator under this paragraph-
+
+(a) the  relevant  authority  may  refer  to  the  adjudicator  with  the  matter  their comments on it,
+
+(b) the adjudicator must consider the matter afresh, and
+
+(c) such of the provisions of sub-paragraphs (2) to (4) above as are relevant shall apply to him in connection with his decision on that matter as they apply to the authority.
+
+##### Commencement Information
+I277 Sch. 2 para. 21 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Proposals not falling to be implemented
+
+- 22 (1) Where,  by  virtue  of  paragraph  21(3),  paragraph  21(1)  ceases  to  apply  to  any proposals, those proposals are to be treated for the purposes of this Schedule as if they had been rejected under paragraph 8.
+
+- Where-
+
+(a) any approval under paragraph 8 was given in accordance with paragraph 8(5), and
+
+(b) the  event  specified  under  paragraph  8(5)  does  not  occur  by  the  date  in question (whether as specified under that provision or as specified under paragraph 21(2)(b)),
+
+paragraph 21(1) ceases to apply to the proposals.
+
+- Where,  by  virtue  of  sub-paragraph  (2),  paragraph  21(1)  ceases  to  apply  to  any proposals approved by the relevant authority under paragraph 8 and not referred to the adjudicator, those proposals must be considered afresh by the authority under that paragraph.
+
+- Where,  by  virtue  of  sub-paragraph  (2),  paragraph  21(1)  ceases  to  apply  to  any proposals  approved  by  the  adjudicator  under  paragraph  8,  those  proposals  must
+
+[[END OF PAGE 179]]
+
+[[START OF PAGE 180]]
+
+180
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+be  considered  afresh  by  him  under  that  paragraph  (and  paragraph  17  applies accordingly).
+
+##### Commencement Information
+I278 Sch. 2 para. 22 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Proposals relating to community schools, community special schools or maintained nursery schools
+
+- 23 (1) This paragraph applies to proposals which fall to be implemented under paragraph 21 and relate to a community school, a community special school or a maintained nursery school or to a proposed such school.
+
+- The proposals must be implemented by the relevant authority.
+
+##### Commencement Information
+I279 Sch. 2 para. 23 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Proposals relating to foundation or voluntary controlled schools
+
+- 24 (1) This paragraph applies to proposals which fall to be implemented under paragraph 21 and relate to a foundation or voluntary controlled school or a proposed such school.
+
+- Proposals made by the relevant authority must be implemented by the authority.
+
+- Proposals  made  by  proposers  (including,  in  particular,  such  proposals  so  far  as relating to the provision of the site for a proposed school) must be implemented by the relevant authority and by the proposers, respectively, to such extent as the proposals provide for each of them to do so.
+
+##### Commencement Information
+I280 Sch. 2 para. 24 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Proposals relating to voluntary aided school
+
+- 25 (1) This paragraph applies to proposals which fall to be implemented under paragraph 21 and relate to a voluntary aided school or a proposed voluntary aided school.
+
+- The proposals must be implemented-
+
+(a) so far as relating to the provision of any relevant premises for a proposed school, by the relevant authority,
+
+(b) in the case of proposals under section 15 made by proposers, by the proposers and the relevant authority, and
+
+(c) otherwise by the proposers or, in the case of proposals made by the relevant authority, by the relevant authority.
+
+- In sub-paragraph (2) 'relevant premises' means-
+
+[[END OF PAGE 180]]
+
+[[START OF PAGE 181]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+181
+
+F246 27
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) in the case of proposals published under section 7, the site specified in the notice under that section or playing fields, and
+
+(b) in any other case, playing fields.
+
+- Nothing in sub-paragraph (2) requires the relevant authority to provide any playing fields where-
+
+(a) a  new  voluntary  aided  school  is  to  be  established  in  place  of  one  or more existing independent, foundation or voluntary schools falling to be discontinued on or before the date of implementation of the proposals, and
+
+(b) those playing fields-
+
+(i) were part of the premises of any of the existing schools (whether it was an independent school or a foundation or voluntary school), and
+
+(ii) (if it was a foundation or voluntary school) were not provided by the authority.
+
+##### Commencement Information
+I281 Sch. 2 para. 25 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Proposals relating to foundation special schools
+
+- 26 (1) This paragraph applies to proposals which fall to be implemented under paragraph 21 and relate to a foundation special school or a proposed foundation special school.
+
+- Where the proposals were made by the relevant authority, they must be implemented by the authority.
+
+- Proposals made by proposers (including, in particular, proposals so far as relating to the provision of the site for a proposed school) must be implemented by the relevant authority and by the proposers, respectively, to such extent as the proposals provide for each of them to do so.
+
+##### Commencement Information
+I282 Sch. 2 para. 26 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Proposals relating to Academy
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F246 Sch. 2 para. 27 omitted (1.2.2012) by virtue of Education Act 2011 (c. 21), s. 82(3), Sch. 11 para. 10(17) ;
+S.I. 2012/84, art. 3 (with art. 4)
+
+[[END OF PAGE 181]]
+
+[[START OF PAGE 182]]
+
+182
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### PART 4
+
+##### PROVISION OF PREMISES AND OTHER ASSISTANCE IN CONNECTION WITH ESTABLISHMENT OF NEW SCHOOL
+###### Provision of site and buildings for proposed foundation, voluntary controlled or foundation special school
+28 (1) This paragraph applies where a local education authority are required(a) by virtue of paragraph 24(2) or (3) to provide a site for a proposed foundation or voluntary controlled school, or (b) by virtue of paragraph 26(2) or (3) to provide a site for a proposed foundation special school. (2) The authority must transfer their interest in the site and in any buildings on the site which are to form part of the school's premises(a) to the school's trustees, to be held by them on trust for the purposes of the school, or (b) if  the  school  has  no  trustees,  to  the  school's  foundation  body  or  (in  the absence of such a body) to the governing body, to be held by that body for the relevant purposes. (3) If any doubt or dispute arises as to the persons to whom the authority are required to make the transfer, it must be made to such persons as the adjudicator thinks proper. (4) The authority must pay to the persons to whom the transfer is made their reasonable costs in connection with the transfer. (5) Where(a) a transfer is made under this paragraph, and (b) the transfer is made to persons who possess, or are or may become entitled to, any sum representing proceeds of the sale of other premises which have been used for the purposes of the school, those persons must notify the local education authority that paragraph (b) applies to them; and they or their successors must pay to the local education authority so much of that sum as, having regard to the value of the interest transferred, may be determined to be just, either by agreement between them and the authority or, in default of agreement, by the adjudicator. (6) In  sub-paragraph  (5)(b)  the  reference  to  proceeds  of  the  sale  of  other  premises includes a reference to(a) consideration for the creation or disposition of any kind of interest in other premises, including rent, and (b) interest which has accrued in respect of any such consideration; and for the purposes of any agreed determination under sub-paragraph (5) regard must be had to any guidance given from time to time by the Secretary of State. (7) Any sum paid under sub-paragraph (5) is to be treated for the purposes of section 14 of the Schools Sites Act 1841 (which relates to the sale or exchange of land held on trust for the purposes of a school) as a sum applied in the purchase of a site for the school.
+
+[[END OF PAGE 182]]
+
+[[START OF PAGE 183]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 2 - Proposals for establishment or discontinuance of schools in England
+
+Document Generated: 2020-04-22
+
+183
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- A determination may be made under sub-paragraph (5) in respect of any property subject to a trust which has arisen under section 1 of the Reverter of Sites Act 1987 (c. 15) (right of reverter replaced by trust for sale) if, and only if-
+
+(a) the determination is made by the adjudicator, and
+
+(b) he  is  satisfied  that  steps  have  been  taken  to  protect  the  interests  of  the beneficiaries under the trust.
+
+- Sub-paragraph (5) is to apply for the purpose of compensating the authority notified under that sub-paragraph only in relation to such part of the sum mentioned in subparagraph (5)(b) (if any) as remains after the application of paragraphs A1 to A16 or 1 to 3 of Schedule 22 to SSFA 1998 to that sum.
+
+- In this paragraph-
+
+'the relevant purposes' means-
+
+(a) in relation to a transfer to a school's foundation body, the purposes of the schools comprising the group for which that body acts, and
+
+(b) in relation to a transfer to a school's governing body, the purposes of the school;
+
+'site'  does  not  include  playing  fields  but  otherwise  includes  any  site which is to form part of the premises of the school in question.
+
+##### Modifications etc. (not altering text)
+C42 Sch. 2 para. 28 applied by 2000 c. 21, Sch. 7A para. 5(1) (as substituted (25.5.2007) by Education and Inspections Act 2006 (c. 40), s. 188(3), Sch. 3 para. 46 ; S.I. 2007/935, art. 7(o))
+##### Commencement Information
+I283 Sch. 2 para. 28 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Grants in respect of certain expenditure relating to proposed voluntary aided school
+
+29
+
+- This paragraph applies where any proposers are required by virtue of paragraph 25(2) to implement proposals involving the establishment of a new voluntary aided school.
+
+- Paragraph 5 of Schedule 3 to SSFA 1998 applies in relation to the new school as it applies in relation to an existing voluntary aided school.
+
+- In the application of that paragraph in relation to a new voluntary aided school-
+
+(a) the  references  to  the  governing  body,  in  relation  to  any  time  before  the governing body are constituted, are to be read as references to the proposers;
+
+(b) where requirements are imposed in relation to grant paid by virtue of this paragraph to the proposers, the requirements must be complied with by the governing body, when they are constituted, as well as by the proposers.
+
+##### Commencement Information
+I284 Sch. 2 para. 29 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+[[END OF PAGE 183]]
+
+[[START OF PAGE 184]]
+
+184
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+1
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+###### Assistance for proposers of proposed voluntary aided school
+
+- 30 A local education authority may give to persons required by virtue of paragraph 25(2)  to  implement  proposals  involving  the  establishment  of  a  voluntary  aided school such assistance as the authority think fit in relation to the carrying out by those persons of any obligation arising by virtue of that provision.
+
+##### Commencement Information
+I285 Sch. 2 para. 30 in force at 25.5.2007 by S.I. 2007/935, art. 7(n)
+
+###### Duty to transfer interest in premises provided under paragraph 30
+
+- 31 (1) Where assistance under paragraph 30 consists of the provision of any premises for use for the purposes of a school, the local education authority must transfer their interest in the premises-
+
+(a) to the trustees of the school to be held on trust for the purposes of the school, or
+
+(b) if the school has no trustees, to the school's foundation body, to be held by that body for the relevant purposes.
+
+- If any doubt or dispute arises as to the persons to whom the authority are required to make the transfer it must be made to such persons as the adjudicator thinks proper.
+
+- The authority must pay to the persons to whom the transfer is made their reasonable costs in connection with the transfer.
+
+- In this paragraph 'the relevant purposes' means, in relation to a transfer to a school's foundation body, the purposes of the schools comprising the group for which that body acts.
+
+##### Modifications etc. (not altering text)
+
+- C43 Sch. 2 para. 31 applied by 2000 c. 21, Sch. 7A para. 7(2) (as substituted (25.5.2007) by Education and Inspections Act 2006 (c. 40), s. 188(3), Sch. 3 para. 46 ; S.I. 2007/935, art. 7(o))
+
+##### Commencement Information
+
+I286 Sch. 2 para. 31 in force at 25.5.2007 by S.I. 2007/935,
+
+art. 7(n)
+
+## SCHEDULE 3
+
+### AMENDMENTS RELATING TO SCHOOL ORGANISATION
+
+#### Local Government Act 1972 (c. 70)
+
+In section 177 of the Local Government Act 1972 (provisions supplementary to sections 173 to 176), omit subsection (1A)(b) (which relates to school organisation committees).
+
+Section 30
+
+[[END OF PAGE 184]]
+
+[[START OF PAGE 185]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+185
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I287 Sch. 3 para. 1 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+#### Local Government Act 1974 (c. 7)
+
+- 2 In section 25  of  the  Local  Government  Act  1974  (authorities  subject  to investigation), in subsection (5)-
+
+(a) omit paragraph (a) (which relates to school organisation committees), and
+
+(b) in  paragraph  (c),  for  'that  Act'  substitute  '  the  School  Standards  and Framework Act 1998 '.
+
+Commencement Information
+
+I288 Sch. 3 para. 2 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+F247
+
+...
+
+##### Textual Amendments
+F247 Sch. 3 para. 3 crossheading repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 2 (see S.I. 2010/2317, art. 2))
+
+F248 3
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F248 Sch. 3 para. 3 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 2 (see S.I. 2010/2317, art. 2))
+
+#### Diocesan Boards of Education Measure 1991 (No. 2)
+
+- 4 (1) Section 3 of the Diocesan Boards of Education Measure 1991 (transactions for which advice or consent of the Board is required) is amended as follows.
+
+- In subsection (1)-
+
+(a) for paragraphs (a) and (b) substitute-
+
+'(a) publishing  proposals  for  any  prescribed  alteration  to  the school-
+
+(i) in the case of a school in England, under section 19(3) of the Education and Inspections Act 2006 ('the 2006 Act'), or
+
+(ii) in the case of a school in Wales, under section 28(2) (b)  of  the  School  Standards  and  Framework  Act 1998 ('the 1998 Act');
+
+(b) publishing proposals for the discontinuance of the school-
+
+[[END OF PAGE 185]]
+
+[[START OF PAGE 186]]
+
+186
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+5
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(i) in the case of a school in England, under section 15(2) of the 2006 Act, or
+
+(ii) in the case of a school in Wales, under section 29(2) of the 1998 Act;',
+
+(b) in paragraphs (c) and (cc) for 'that Act' substitute ' the 1998 Act ', and
+
+(c) for paragraph (d) substitute-
+
+'(d) in the case of a school in Wales, publishing proposals for changing the category of the school under paragraph 2 or 3 of Schedule 8 to the 1998 Act; or'.
+
+- After subsection (1) insert-
+
+'(1A) The governing body of a church school in England shall not, unless it has obtained the consent in writing of the Board for the diocese in which the school is situated, publish proposals under section 19 of the 2006 Act-
+
+(a) where the school is a voluntary school, for a change of category to foundation school, or
+
+(b) where  the  school  is  a  foundation  school,  for  a  change  in  the instrument of government which results in the majority of governors being foundation governors.
+
+(1B) Subsection  (1)(a)(i)  does  not  apply  in  any  case  where  by  virtue  of subsection (1A) the consent of the Board is required.'
+
+- In subsection (6), for 'subsection (2)' substitute ' subsection (1A) or (2) '.
+
+- Section 7 of the Diocesan Boards of Education Measure 1991 (powers of Board to give directions to governing bodies of voluntary aided church schools) is amended as follows.
+
+- In subsection (1) for paragraphs (a) to (c) substitute-
+
+'(a) the making of any prescribed alteration to the school-
+
+(i) in  the  case  of  a  school  in  England,  under  Part  2  of  the Education and Inspections Act 2006 ('the 2006 Act'), or
+
+(ii) in the case of a school in Wales, under Chapter 2 of Part 2 of the School Standards and Framework Act 1998 ('the 1998 Act'), or
+
+(b) the discontinuance of the school-
+
+(i) in the case of a school in England, under Part 2 of the 2006 Act or section 30 of the 1998 Act, or
+
+(ii) in the case of a school in Wales, under Chapter 2 of Part 2 of the 1998 Act, or
+
+(c) in the case of a school in Wales, changing the school's category in accordance with paragraph 2 or 3 of Schedule 8 to the 1998 Act,'.
+
+- In subsection (1A), for 'under paragraph 2 or 3 of Schedule 8 to that Act' substitute ' under section 19(3) of the 2006 Act or paragraph 2 or 3 of Schedule 8 to the 1998 Act '.
+
+##### Commencement Information
+
+I289 Sch. 3 para. 4 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+[[END OF PAGE 186]]
+
+[[START OF PAGE 187]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+187
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In subsection (3)-
+
+(a) in paragraph (a), for 'under section 28(2)(b) of the School Standards and Framework Act 1998' substitute ' under section 19(3) of the 2006 Act or section 28(2)(b) of the 1998 Act ',
+
+(b) in paragraph (b)-
+
+(i) at the beginning insert ' in the case of a school in Wales ', and
+
+(ii) for 'that Act' substitute ' the 1998 Act ', and
+
+(c) for 'the provisions of that Act' substitute ' the provisions of the 1998 Act and the 2006 Act '.
+
+##### Commencement Information
+
+I290 Sch. 3 para. 5 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+#### Further and Higher Education Act 1992 (c. 13)
+
+- 6 (1) Section 58 of the Further and Higher Education Act 1992 (reorganisation of schools involving establishment of further education corporation) is amended as follows.
+
+- In subsection (3), for paragraph (b) substitute-
+
+'(b) a  prescribed  alteration  within  the  meaning  of  the  relevant  school organisation provision has been made to the school,'.
+
+- After that subsection insert-
+
+'(4) In subsection (3)(b) 'the relevant school organisation provision' means-
+
+(a) in relation to England, section 18 of the Education and Inspections Act 2006, and
+
+(b) in  relation  to  Wales,  section  28  of  the  School  Standards  and Framework Act 1998.'
+
+##### Commencement Information
+I291 Sch. 3 para. 6 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+#### Education Act 1996 (c. 56)
+
+- 7 (1) Section 5 of EA 1996 (primary schools, secondary schools and middle schools) is amended as follows.
+
+- For subsection (3) substitute-
+
+'(3) In this Act 'middle school' means a school which, in pursuance of proposals published under any of the enactments specified in subsection (3A), has been established as, or altered so as to become, a school for providing full-time education suitable to the requirements of pupils who-
+
+(a) have attained a specified age below 10 years and six months, and
+
+(b) are under a specified age above 12 years.
+
+(3A) The enactments mentioned in subsection (3) are-
+
+(a) in relation to England-
+
+[[END OF PAGE 187]]
+
+[[START OF PAGE 188]]
+
+188
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(i) section 28 or 28A of, or paragraph 5 of Schedule 7 to, the School Standards and Framework Act 1998,
+
+(ii) section  66  of,  or  paragraph  7  of  Schedule  11  to,  the Education Act 2005, and
+
+(iii) section 7, 10, 11 or 19 of the Education and Inspections Act 2006;
+
+(b) in relation to Wales, section 28 of, or paragraph 5 of Schedule 7 to, the School Standards and Framework Act 1998.'
+
+##### Commencement Information
+
+I292 Sch. 3 para. 7 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 8 In section 332B of EA 1996 (resolution of disputes), in subsection (8)(c), for 'a city academy' substitute ' an Academy '.
+
+##### Commencement Information
+I293 Sch. 3 para. 8 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 9 (1) Section 394 of EA 1996 (determination of cases in which requirement for Christian collective worship is not to apply) is amended as follows.
+
+- In subsection (8), for '(by virtue of section 35 of, and Schedule 8 to, the School Standards  and  Framework  Act  1998)'  substitute  '  (by  virtue  of  the  relevant enactments) '.
+
+- After that subsection insert-
+
+'(9) In subsection (8) 'the relevant enactments' means-
+
+(a) in  relation  to  England,  sections  18  to  24  of  the  Education  and Inspections Act 2006;
+
+(b) in relation to Wales, section 35 of, and Schedule 8 to, the School Standards and Framework Act 1998.'
+
+##### Commencement Information
+
+I294 Sch. 3 para. 9 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 10 (1) Section 529 of EA 1996 (power to accept gifts on trust for educational purposes) is amended as follows.
+
+- After subsection (1) insert-
+
+'(1A) Any intention on the part of a local education authority in England that a school should be vested in the authority as trustees shall be treated for the purposes of sections 7, 10 and 11 of the Education and Inspections Act 2006 as an intention to establish a new community school, community special school or maintained nursery school (so that proposals for that purpose shall be published in accordance with those sections); and Schedule 2 to that Act (proposals for establishment or discontinuance of schools in England) shall apply accordingly.'
+
+[[END OF PAGE 188]]
+
+[[START OF PAGE 189]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+189
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In subsection (2)-
+
+(a) after 'local education authority' insert ' in Wales ',
+
+(b) omit '(other than a nursery school or a special school)', and
+
+(c) for  the  words  from  'the  purposes  of'  to  the  end  substitute  '  for  the purposes of sections  28  and  31  of  the  School  Standards  and  Framework Act 1998 as an intention to establish a new community school, community special  school  or  maintained  nursery  school  (so  that  proposals  for  that purpose shall be published as required by those sections); and Schedule 6 to that Act (statutory proposals concerning schools in Wales: procedure and implementation) shall apply accordingly. '
+
+- In subsection (3)-
+
+(a) after 'subsection' insert ' (1A) or ', and
+
+(b) at  the  end  insert  '  ,  a  community  special  school or a maintained nursery school. '
+
+##### Commencement Information
+I295 Sch. 3 para. 10 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 11 (1) Section 530 of EA 1996 (compulsory purchase of land) is amended as follows.
+
+- In subsection (1), for paragraph (c) substitute-
+
+'(c) is required for the purposes of an Academy (whether established or to be established).'
+
+- In subsection (3), for the words from 'borne by them' to the end substitute 'borne by them-
+
+(a) in  the  case  of  an  authority  in  England,  under  paragraph  7(1)  of Schedule 7A to the Learning and Skills Act 2000 (power to give assistance  in  relation  to  carrying  out  of  obligations  under  that Schedule) or under any provision of regulations under section 24 of  the  Education  and  Inspections  Act  2006  (implementation  of proposals  under  section  19  of  that  Act)  which  by  virtue  of subsection (7) of section 24  of that Act  authorises a local education authority to provide assistance to the governing body of a voluntary aided school in connection with the implementation of the obligations of the governing body under the regulations, or
+
+(b) in  the  case  of  an  authority  in  Wales,  under  paragraph  18  of Schedule  6  to  the  School  Standards  and  Framework  Act  1998 (power  to  give  assistance  to  governing  body  of  voluntary  aided school in carrying out statutory proposals) (including that provision as applied by any enactment).'
+
+- 12 (1) In Schedule 35A to EA 1996 (Academies: land) paragraph 1 is amended as follows.
+
+##### Commencement Information
+I296 Sch. 3 para. 11 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+[[END OF PAGE 189]]
+
+[[START OF PAGE 190]]
+
+190
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In  sub-paragraph  (2)(b),  for  the  words  from  'published'  onwards  substitute  ' published under section 7 of the Education and Inspections Act 2006 (invitation for proposals for establishment of new schools) as a possible site for a new school '.
+
+- In  sub-paragraph  (3)(d),  for  the  words  from  'published'  onwards  substitute  ' published under section 7 of the Education and Inspections Act 2006 '.
+
+##### Commencement Information
+I297 Sch. 3 para. 12 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+#### School Standards and Framework Act 1998 (c. 31)
+
+- 13 (1) Section 20 of SSFA 1998 (new categories of maintained schools) is amended as follows.
+
+- In subsection (2), for 'Schedule 8', wherever occurring, substitute ' the change of category provisions '.
+
+- After subsection (2) insert-
+
+'(2A) In subsection (2) 'the change of category provisions' means-
+
+(a) in the case of a school in England, Schedule 8 to this Act or sections 18 to 24 of the Education and Inspections Act 2006, and
+
+(b) in the case of a school in Wales, Schedule 8 to this Act.'
+
+- 14 In section 21 of SSFA 1998 (kinds of foundation and voluntary schools and types of foundations), in subsection (6)-
+
+(a) in  paragraph  (a),  after  'Schedule  8'  insert  '  or  under  section  19  of  the Education and Inspections Act 2006 ',
+
+(b) in paragraph (f)-
+
+(i) in sub-paragraph (i), after 'Schedule 8' insert ' or under section 19 of the Education and Inspections Act 2006 ',
+
+##### Commencement Information
+I298 Sch. 3 para. 13 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+F249
+
+(ii)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) in sub-paragraph (iii), after 'voluntary school' insert ' in Wales ',
+
+(c) in paragraph (h), after 'his consent' insert ' or to the disposal of which paragraph A9 of Schedule 22 would apply ', and
+
+(d) in paragraph (i), omit 'school organisation committees and'.
+
+##### Textual Amendments
+- F249 Sch. 3 para. 14(b)(ii) omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+##### Commencement Information
+I299 Sch. 3 para. 14 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+[[END OF PAGE 190]]
+
+[[START OF PAGE 191]]
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+191
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- 15 In  section  22  of  SSFA  1998  (maintenance  and  other  funding  of  schools)  for subsection (2) substitute-
+
+'(2) Subsection (1) has effect subject to any statutory provision authorising the discontinuance of a maintained school or maintained nursery school.'
+
+- 16 In section 25 of SSFA 1998 (adjudicators), in subsection (2), for 'or Part 2 of the Education Act 2005' substitute ' or Part 2 of the Education and Inspections Act 2006 '.
+
+- 17 Omit section 27 of SSFA 1998 (power to require committees or adjudicators for Wales).
+
+##### Commencement Information
+I300 Sch. 3 para. 15 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+##### Commencement Information
+I301 Sch. 3 para. 16 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+##### Commencement Information
+I302 Sch. 3 para. 17 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+F250
+
+18
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F250 Sch. 3 para. 18 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+- 19 Omit  section  28A  of  SSFA  1998  (proposals  for  establishment  of  community, foundation or voluntary school maintained by English local education authority).
+
+- 21 In section 30 of SSFA 1998 (notice by governing body to discontinue foundation or voluntary school) for subsection (9) substitute-
+
+'(9) Nothing  in  any  of  the  following  provisions  applies  in  relation  to  the discontinuance under this section of a foundation or voluntary school-
+
+##### Commencement Information
+I303 Sch. 3 para. 19 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+F251 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F251 Sch. 3 para. 20 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+[[END OF PAGE 191]]
+
+[[START OF PAGE 192]]
+
+192
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) sections 29 and 33 of this Act (which relate to Wales), and
+
+(b) sections 15 and 28 of the Education and Inspections Act 2006 (which relate to England).'
+
+##### Commencement Information
+
+I304 Sch. 3 para. 21 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+F252 22
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F252 Sch. 3 paras. 22-26 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+F252 23
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F252 Sch. 3 paras. 22-26 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+F252 24
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F252 Sch. 3 paras. 22-26 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+F252 25
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F252 Sch. 3 paras. 22-26 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+F252 26
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F252 Sch. 3 paras. 22-26 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+- 27 (1) Section 79 of SSFA 1998 (stamp duty) is amended as follows.
+
+- In subsection (1)-
+
+(a) omit the word 'or' at the end of paragraph (b), and
+
+(b) at the end of paragraph (c) insert ', or
+
+[[END OF PAGE 192]]
+
+[[START OF PAGE 193]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+193
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(d) any regulations made under section 24 of the Education and Inspections Act 2006 by virtue of subsection (3)(b) of that section.'.
+
+- In subsection (3), for 'subsection (1)' substitute ' subsection (1)(a) to (c) '.
+
+##### Commencement Information
+I305 Sch. 3 para. 27 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 28 In section 82 of SSFA 1998 (modification of trust deeds), in subsection (1), for 'or the Education Act 2002' substitute ' , the Education Act 2002 or the Education and Inspections Act 2006 '.
+
+##### Commencement Information
+I306 Sch. 3 para. 28 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 29 (1) Section 109 of SSFA 1998 (proposals by governing body of grammar school to end selective admission arrangements) is amended as follows.
+
+- In subsection (2)-
+
+(a) for 'for the purposes of section 28' substitute ' under section 18 of the 2006 Act ', and
+
+(b) for 'that section' substitute ' section 19 of the 2006 Act '.
+
+- In subsection (3)-
+
+(a) in paragraph (a), for 'section 28 or Schedule 6' substitute ' sections 19 to 24 of the 2006 Act or regulations under those sections ', and
+
+(b) in paragraph (b), for 'section 28' substitute ' section 19 of the 2006 Act '.
+
+- In subsection (4)-
+
+(a) for 'section 28' substitute ' section 19 of the 2006 Act ', and
+
+(b) for  'paragraph  5  or  10  of  Schedule  6'  substitute  '  regulations  under section 24 of that Act '.
+
+- After subsection (5) insert-
+
+'(6) In  this  section  'the  2006  Act'  means  the  Education  and  Inspections  Act 2006.'
+
+##### Commencement Information
+I307 Sch. 3 para. 29 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 30
+
+In section 143 of SSFA 1998 (index)-
+
+(a) in the entry beginning 'promoters'-
+
+(i) after 'Part II' insert ' in relation to Wales ', and
+
+(ii) omit 'or 28A(2)'
+
+(b) omit the entry beginning 'school organisation committee'.
+
+[[END OF PAGE 193]]
+
+[[START OF PAGE 194]]
+
+194
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I308 Sch. 3 para. 30 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 31 (1) Schedule 3 to SSFA 1998 (funding of foundation, voluntary and foundation special schools) is amended as follows.
+
+- In paragraph 2(2), for paragraph (a) substitute-
+
+'(a) apply in relation to the provision of any site or buildings which-
+
+(i) in the case of a school in England, the authority or the person by whom any proposals were made are required to provide by  virtue  of  Part  3  of  Schedule  2  to  the  Education  and Inspections Act 2006 (provision of premises in connection with proposals for establishment of school) or by virtue of regulations under section 24 of that Act (implementation of proposals for alteration of school), or
+
+(ii) in the case of a school in Wales, the authority or promoters  are  required  to  provide  by  virtue  of  Part  3 of  Schedule  6  (provision  of  premises  in  connection  with statutory proposals); or'.
+
+- At the beginning of Part 2 insert-
+
+##### 'Interpretation of Part
+
+- 2A In this Part of this Schedule 'promoters', in relation to a school in England, means persons who are for the purposes of Schedule 2 to the Education and  Inspections  Act  2006  the  proposers  in  relation  to  proposals  for  the establishment of the school.'
+
+##### Commencement Information
+
+I309 Sch. 3 para. 31 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 32 In Schedule 5 to SSFA 1998 (adjudicators), in paragraph 5(1) for 'or under Part 2 of the Education Act 2005' substitute ' or under Part 2 of the Education and Inspections Act 2006 '.
+
+##### Commencement Information
+I310 Sch. 3 para. 32 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+F253 33
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F253 Sch. 3 paras. 33-36 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+F253 34
+
+[[END OF PAGE 194]]
+
+[[START OF PAGE 195]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+195
+
+F253 35
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+
+F253 Sch. 3 paras. 33-36 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+#### Learning and Skills Act 2000 (c. 21)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F253 Sch. 3 paras. 33-36 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+F253 36
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F253 Sch. 3 paras. 33-36 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+F254 37
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F254 Sch. 3 paras. 37-45 repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(b), Sch. 2 Pt. 1 (with art. 2(3))
+
+F254 38
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F254 Sch. 3 paras. 37-45 repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(b), Sch. 2 Pt. 1 (with art. 2(3))
+
+F254 39
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F254 Sch. 3 paras. 37-45 repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(b), Sch. 2 Pt. 1 (with art. 2(3))
+
+F254 40
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[END OF PAGE 195]]
+
+[[START OF PAGE 196]]
+
+196
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+F254 Sch. 3 paras. 37-45 repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(b), Sch. 2 Pt. 1 (with art. 2(3))
+
+F254 41
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F254 Sch. 3 paras. 37-45 repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(b), Sch. 2 Pt. 1 (with art. 2(3))
+
+F254 42
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F254 Sch. 3 paras. 37-45 repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(b), Sch. 2 Pt. 1 (with art. 2(3))
+
+F254 43
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F254 Sch. 3 paras. 37-45 repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(b), Sch. 2 Pt. 1 (with art. 2(3))
+
+F254 44
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F254 Sch. 3 paras. 37-45 repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(b), Sch. 2 Pt. 1 (with art. 2(3))
+
+F254 45
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F254 Sch. 3 paras. 37-45 repealed (1.4.2010) by The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080), art. 1(2)(b), Sch. 2 Pt. 1 (with art. 2(3))
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+F255 46
+
+[[END OF PAGE 196]]
+
+[[START OF PAGE 197]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+197
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+
+F255 Sch. 3 para. 46 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+#### Education Act 2002 (c. 32)
+
+- 47 (1) Section 129 of EA 2002 (transfer of employment) is amended as follows.
+
+- In subsection (1)(a), for the words from 'section' to '1998' substitute ' the relevant school organisation provisions (as defined by subsection (6)) '.
+
+- After subsection (5) insert-
+
+'(6) In subsection (1)(a) 'the relevant school organisation provisions' means-
+
+(a) in relation to England, section 28, 28A or 31 of the School Standards and Framework Act 1998, section 66 of the Education Act 2005 or section 7 or 11 of the Education and Inspections Act 2006, and
+
+(b) in relation to Wales, section 28 or 31 of the School Standards and Framework Act 1998.'
+
+- 48 In  Schedule  1  to  EA  2002  (incorporation  and  powers  of  governing  body),  in paragraph 5 (dissolution of governing body) for sub-paragraph (2) substitute-
+
+##### Commencement Information
+
+I311 Sch. 3 para. 47 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+'(2) In this paragraph 'the discontinuance date' means-
+
+(a) in relation to a school in England, whichever of the following is relevant-
+
+(i) the date on which proposals for discontinuing the school are  implemented  under  Part  3  of  Schedule  2  to  the Education and Inspections Act 2006 or under Schedule 7 or 7A to the Learning and Skills Act 2000,
+
+(ii) the  date  on  which  the  school  is  discontinued  under section 30 of the 1998 Act, or
+
+(iii) the date specified in a direction given under section 17(1) or 68(1) of the Education and Inspections Act 2006;
+
+(b) in relation to a school in Wales, whichever of the following is relevant-
+
+(i) the date on which proposals for discontinuing the school are implemented under Part 3 of Schedule 6 to the 1998 Act or under Schedule 7 or 7A to the Learning and Skills Act 2000,
+
+(ii) the  date  on  which  the  school  is  discontinued  under section 30 of the 1998 Act, or
+
+(iii) the date specified in a direction given under section 19(1) or 32(1) of the 1998 Act.'.
+
+[[END OF PAGE 197]]
+
+[[START OF PAGE 198]]
+
+198
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 3 - Amendments relating to school organisation
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I312 Sch. 3 para. 48 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+#### Education Act 2005 (c. 18)
+
+- 49 Omit sections 64 to 67 of EA 2005 (which relate to school organisation in England).
+
+Commencement Information I313 Sch. 3 para. 49 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+F256 50
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F256 Sch. 3 para. 50 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(3) ; S.I. 2013/1800, art. 3(j)
+
+- 51 In section 69 of EA 2005 ( [ F3 local authority ] not to establish school on opposite side of Welsh border), omit paragraph (a).
+
+##### Textual Amendments
+
+- F3 Words  in  Act  substituted  (5.5.2010)  by  The  Local  Education  Authorities  and  Children's  Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+I314 Sch. 3 para. 51 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 52 Omit section 73 of EA 2005 (interpretation of Part 2).
+
+##### Commencement Information
+
+I315 Sch. 3 para. 52 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+- 53 Omit Schedules 10 and 11 to EA 2005 (which relate to school organisation  in England).
+
+Commencement Information I316 Sch. 3 para. 53 in force at 25.5.2007 by S.I. 2007/935, art. 7(o)
+
+[[END OF PAGE 198]]
+
+[[START OF PAGE 199]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+199
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+## SCHEDULE 4
+
+### DISPOSALS AND CHANGES OF USE OF LAND
+
+#### PART 1
+
+##### AMENDMENTS TO SCHEDULE 22 TO SSFA 1998
+
+- 1 Schedule 22 to SSFA 1998 (disposal of land by foundation, voluntary or foundation special schools and disposals on discontinuance) is amended as follows.
+
+##### Commencement Information
+I317 Sch. 4 para. 1 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+2
+
+Before Part 1 of the Schedule insert-
+
+#### ' PART A1
+
+##### FOUNDATION, VOLUNTARY AND FOUNDATION SPECIAL SCHOOLS IN ENGLAND: DISPOSALS OF LAND
+
+###### Disposal of land by governing body of foundation, voluntary or foundation special school
+
+- A1 (1) This  paragraph  applies  to  any  disposal  by  the  governing  body  of  a foundation, voluntary or foundation special school in England of-
+
+(a) any land acquired under a transfer under section 201(1)(a) of the Education Act 1996,
+
+(b) any land acquired under any of the following-
+
+- paragraph 2 of Schedule 3; paragraph 16 of Schedule 6 (including that provision as applied by any enactment); paragraph 5(4)(c), 5(4B)(d) or 8A of this Schedule; any regulations made under paragraph 5 of Schedule 8; paragraph  28(2)  of  Schedule  2  to  the  Education  and Inspections Act 2006 (including that provision as applied by any enactment), (c) any land acquired under any regulations made undersection 24 of the Education and Inspections Act 2006 by virtue of subsection (3)(b) of that section, or section 27 of that Act by virtue of subsection (2)(b) of that section, (d) any land acquired from a foundation body, (e) any land acquired from the Funding Agency for Schools,
+
+(f) any land acquired, or enhanced in value, wholly or partly by means  of  any  maintenance,  special  purpose  or  capital  grant (within the meaning of Chapter 6 of Part 3 of the Education Act 1996),
+
+Section 36
+
+[[END OF PAGE 199]]
+
+[[START OF PAGE 200]]
+
+200
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(g) any land acquired, or enhanced in value, wholly or partly by means  of  any  grant  made  on  or  after  1st  April  2007  by  the Secretary of State under paragraph 5 of Schedule 3 (including that provision as applied by any enactment) in relation to which notice is given in accordance with paragraph A27, (h) any land acquired, or enhanced in value, wholly or partly by means of expenditure incurred for the purposes of the school and treated by the local education authority as expenditure of a capital nature, or (i) any land acquired, or enhanced in value, wholly or partly with the proceeds of disposal of any land acquired or enhanced in value as mentioned in any of paragraphs (a) to (h). (2) But this paragraph does not apply to any disposal which(a) is made by the governing body of a foundation or foundation special school after the commencement of this sub-paragraph, and (b) is a disposal to the trustees of the school made on the school becoming a school with a foundation established otherwise than under this Act. (3) Sub-paragraph  (1)(h)  does  not  apply  in  the  case  of  any  expenditure incurred on or after the appointed day unless the authority(a) prepared an appropriate statement in relation to the expenditure, and (b) sent a copy of the statement to the governing body either before, or no later than 12 months after, the expenditure was incurred. (4) An 'appropriate statement' in relation to expenditure is a statement in writing which(a) contains details of the amount of the expenditure, the acquisition or works funded (or to be funded) by such expenditure, and the total cost (or estimated total cost) of that acquisition or those works, and (b) indicates that the expenditure was being treated by the authority as expenditure of a capital nature. A2 (1) This  paragraph  applies  to  a  disposal  of  land  to  which  paragraph  A1 applies if, or to the extent that, it comprises a disposal of non-playing field land. (2) 'Non-playing field land' means land which does not include playing fields within the meaning of section 77. (3) Accordingly,  in  this  paragraph,  paragraphs  A3  to  A5  and  paragraph A19(a) references to the disposal are to the disposal by the governing body of the non-playing field land, and (b) references to the land are to that non-playing field land. (4) The governing body must give the local education authority notice of their intention to dispose of the land. (5) That notification must specify- Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 200]]
+
+[[START OF PAGE 201]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+201
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) the relevant capital expenditure upon which it is proposed the publicly funded proceeds of disposal are to be used, and
+
+(b) the estimated amount of the proceeds of disposal. (6) For  the  purposes  of  this  paragraph  and  paragraphs  A3  and  A4,  the 'publicly funded proceeds of disposal' means the proceeds of disposal which are attributable to the land having been acquired or enhanced in value, or both, as the case may be, as mentioned in the relevant paragraph or paragraphs of sub-paragraph (1) of paragraph A1. (7) The authority may, within the requisite period, give the governing body any or all of the following(a) notice of their objection to the disposal, giving reasons for their objection; (b) notice  of  their  objection  to  the  proposed  use  of  the  publicly funded proceeds of disposal, giving reasons for their objection; (c) notice of their claim to the whole or a part of the publicly funded proceeds of disposal. (8) The 'requisite period' means the period of 6 weeks beginning with the date upon which the governing body gave notification of the disposal to the authority under sub-paragraph (4). (9) A notice given under sub-paragraph (7) may be withdrawn at any time by the authority giving the governing body notice to that effect. (10) The  governing  body  may  not  make  the  disposal  within  the  requisite period unless within that period(a) the authority give the governing body notice that they relinquish any right to give notice under sub-paragraph (7)(a) in relation to the disposal, or (b) in a case where the authority give notice of their objection to the disposal in accordance with sub-paragraph (7)(a), the relevant requirements in relation to such a notice are met. (11) If  the  authority  give  notice  of  their  objection  to  the  disposal  in accordance with sub-paragraph (7)(a), the governing body may not make the disposal on or after the expiry of the requisite period until the relevant requirements in relation to such a notice are met. (12) The  'relevant  requirements'  in  relation  to  a  notice  given  under  subparagraph (7)(a) are met if(a) the adjudicator has approved the disposal on a reference made under paragraph A3(1), or (b) the  authority  have  withdrawn  notice  of  their  objection  to  the disposal in accordance with sub-paragraph (9). (13) If the authority give either or both of the following notices in relation to the disposal in accordance with sub-paragraph (7)-
+
+(a) notice  of  their  objection  to  the  proposed  use  of  the  publicly funded proceeds of disposal under sub-paragraph (7)(b);
+
+(b) notice of their claim to the whole or a part of the publicly funded proceeds of disposal under sub-paragraph (7)(c),
+
+[[END OF PAGE 201]]
+
+[[START OF PAGE 202]]
+
+202
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+the governing body may not use the publicly funded proceeds of disposal until the relevant requirements in relation to each notice so given are met. (14) The  'relevant  requirements'  in  relation  to  a  notice  given  under  subparagraph (7)(b) are met if(a) the relevant capital expenditure upon which the publicly funded proceeds  of  disposal  are  to  be  used  has  been  determined  in accordance with paragraph A3(2), or (b) the  authority  have  withdrawn  notice  of  their  objection  to  the proposed  use  of  the  publicly  funded  proceeds  of  disposal  in accordance with sub-paragraph (9). (15) The  'relevant  requirements'  in  relation  to  a  notice  given  under  subparagraph (7)(c) are met if(a) the 'appropriate amount' has been determined in accordance with paragraph A3(3), or (b) the authority have withdrawn notice of their claim in accordance with sub-paragraph (9). A3 (1) Where the authority give the governing body notice of their objection to the disposal in accordance with paragraph A2(7)(a), the governing body  or  the  authority  may  refer  the  matter  to  the  adjudicator  for  a determination by him as to whether he approves the disposal. (2) Where the authority give the governing body notice of their objection to  the  proposed  use  of  the  publicly  funded  proceeds  of  disposal  in accordance with paragraph A2(7)(b), the relevant capital expenditure upon which those proceeds are to be used is to be determined(a) by agreement between the governing body and the authority, or (b) by the adjudicator where(i) the governing body or the authority refer the matter to him for determination, and (ii) by the time of his determination the matter has not been determined by agreement between the governing body and the authority. (3) Where  the  authority  give  the  governing  body  notice  of  their  claim to  the  whole  or  a  part  of  the  publicly  funded  proceeds  of  disposal in accordance with paragraph A2(7)(c), the amount of those proceeds which it is appropriate for the governing body to pay to the authority (the 'appropriate amount') is to be determined(a) by agreement between the governing body and the authority, or (b) by the adjudicator where(i) the governing body or the authority refer the matter to him for determination, and (ii) by the time of his determination the matter has not been determined by agreement between the governing body and the authority. (4) Before making a reference to the adjudicator under sub-paragraph (1), (2)(b) or (3)(b), the governing body or, as the case may be, the authority,
+
+must give the other notice of their intention to make the reference.
+
+[[END OF PAGE 202]]
+
+[[START OF PAGE 203]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+203
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- On a reference under sub-paragraph (1), (2)(b) or (3)(b), the adjudicator may determine the proportion (if any) of the proceeds of disposal that are or will be the publicly funded proceeds of disposal.
+
+- A4 (1) This paragraph applies where the disposal is made. (2) The governing body must notify the authority that the disposal has been made and of the amount of the proceeds of disposal. (3) Where(a) the authority gave notice of their claim to the whole or a part of the publicly funded proceeds of disposal in accordance with paragraph A2(7)(c), and (b) the 'appropriate amount' has been determined in accordance with paragraph A3(3) to be an amount greater than zero, the governing body must pay the 'appropriate amount' to the authority. (4) The  governing  body  must  ensure  that  the  remaining  publicly  funded proceeds of disposal are used on the agreed relevant capital expenditure. (5) If  the  amount  of  the  remaining  publicly  funded  proceeds  of  disposal exceeds the amount of the agreed relevant capital expenditure, then the governing body must ensure that the surplus amount is used on relevant capital expenditure. (6) The 'agreed relevant capital expenditure' means(a) in a case where(i) no  notice  of  objection  to  the  proposed  use  of  the publicly funded proceeds of disposal was given by the authority in accordance with paragraph A2(7)(b), or (ii) such a notice was so given and was then withdrawn in accordance with paragraph A2(9), the relevant capital expenditure specified in the notification of the disposal given to the authority under paragraph A2(4), and (b) in  a  case  where  such  notice  of  objection  was  so  given  and was not withdrawn, the relevant capital expenditure upon which the  publicly  funded  proceeds  of  disposal  are  to  be  used  as determined in accordance with paragraph A3(2). (7) The  'remaining  publicly  funded  proceeds  of  disposal'  means  the amount of the publicly funded proceeds of disposal which remains after deducting the 'appropriate amount' (if any) determined in accordance with paragraph A3(3). (8) Sub-paragraphs  (3),  (4)  and  (5)  are  subject  to  paragraph  A2(13) (restriction on use of publicly funded proceeds of disposal where notices given under paragraph A2(7)(b) or (c)). A5 (1) This paragraph applies where-
+
+(a) the authority gave notice of their objection to the disposal in accordance with paragraph A2(7)(a), and
+
+(b) the  adjudicator  has  determined  that  he  does  not  approve  the disposal.
+
+[[END OF PAGE 203]]
+
+[[START OF PAGE 204]]
+
+204
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(2) The governing body may apply to the adjudicator for an order to be made by him requiring the land or any part of the land to be transferred to such local authority as he may specify subject to the payment by that authority of such sum by way of consideration (if any) as he determines to be appropriate. (3) Before making an application under sub-paragraph (2), the governing body must give the local education authority notice of their intention to make the application. A6 (1) For the purposes of paragraphs A2 to A4, 'relevant capital expenditure', in relation to a disposal of land by the governing body of a foundation, voluntary  or  foundation  special  school,  means  capital  expenditure  in relation to the premises of(a) the school, (b) any existing foundation, voluntary or foundation special school, city technology college, city college for the technology of the arts, or Academy, or (c) any  proposed  foundation,  voluntary  or  foundation  special school, or Academy. (2) For  the  purposes  of  sub-paragraph  (1)(c)  it  is  irrelevant  whether proposals have yet been published under any enactment in respect of the proposed school or Academy in question.
+
+###### Disposal of land by foundation body
+
+A7 (1) This paragraph applies to any disposal by a foundation body in England of(a) any land acquired under any of the followingparagraph 2, 4 or 9 of Schedule 3; paragraph 16 or 20 of Schedule 6 (including that provision as applied by any enactment); paragraph 5 or 6 of Schedule 21; paragraph 5(4B)(d) of this Schedule; any regulations made under paragraph 5 of Schedule 8, (b) any land acquired under any of the followingparagraph 8(5) of Schedule 8 to the Education Act 2002; paragraph 14(5) of Schedule 10 to the Education Act 2005; paragraph 28(2) or 31(1) of Schedule 2 to the Education and  Inspections  Act  2006  (including  that  provision  as applied by any enactment); any regulations made under section 24 of that Act by virtue of subsection (3)(b) of that section; any regulations made under section 27 of that Act by virtue of subsection (2)(b) of that section, (c) any  land  acquired  from  the  governing  body  of  a  maintained school, (d) any land acquired from another foundation body, Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 204]]
+
+[[START OF PAGE 205]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+205
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(e) any land acquired, or enhanced in value, wholly or partly by means of any grant provided by the Secretary of State on or after the appointed day other than a grant made on or after 1st April 2007 under paragraph 5 of Schedule 3 (including that provision as applied by any enactment), (f) any land acquired, or enhanced in value, wholly or partly by means  of  any  grant  made  on  or  after  1st  April  2007  by  the Secretary of State under paragraph 5 of Schedule 3 (including that provision as applied by any enactment) in relation to which notice is given in accordance with paragraph A27, (g) any land acquired, or enhanced in value, wholly or partly by means of expenditure incurred for the purposes of any of the schools  comprising  the  group  for  which  the  body  acts  and treated  by  the  local  education  authority  as  expenditure  of  a capital nature, or (h) any land acquired, or enhanced in value, wholly or partly with the proceeds of disposal of any land acquired or enhanced in value as mentioned in any of paragraphs (a) to (g). (2) A 'foundation body in England' means a foundation body where each of the schools comprising the group of schools for which the foundation body acts is maintained by a local education authority in England. (3) But this paragraph does not apply to any disposal which(a) is made by a foundation body after the commencement of this sub-paragraph, and (b) is a disposal to the trustees of a foundation or foundation special school  made  on  the  school  leaving  the  group  for  which  the foundation body acts and becoming a school with a foundation established otherwise than under this Act. (4) Sub-paragraph  (1)(g)  does  not  apply  in  the  case  of  any  expenditure incurred on or after the appointed day unless the authority(a) prepared an appropriate statement in relation to the expenditure, and (b) sent a copy of the statement to the foundation body either before, or no later than 12 months after, the expenditure was incurred. (5) An 'appropriate statement' in relation to expenditure is a statement in writing which(a) contains details of the amount of the expenditure, the acquisition or works funded (or to be funded) by such expenditure, and the total cost (or estimated total cost) of that acquisition or those works, and (b) indicates that the expenditure was being treated by the authority as expenditure of a capital nature. A8 (1) This  paragraph  applies  to  a  disposal  of  land  to  which  paragraph  A7 applies if, or to the extent that, it comprises a disposal of non-playing field land. (2) 'Non-playing field land' means land which does not include playing
+
+- fields within the meaning of section 77.
+
+[[END OF PAGE 205]]
+
+[[START OF PAGE 206]]
+
+206 Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(3) Accordingly, in this paragraph, paragraphs A9 to A11 and paragraph A19(a) references to the disposal are to the disposal by the foundation body of the non-playing field land, and (b) references to the land are to that non-playing field land. (4) The foundation body must give the local education authority notice of its intention to dispose of the land. (5) That notification must specify(a) the relevant capital expenditure upon which it is proposed the publicly funded proceeds of disposal are to be used, and (b) the estimated amount of the proceeds of disposal. (6) For  the  purposes  of  this  paragraph  and  paragraphs  A9  and  A10,  the 'publicly funded proceeds of disposal' means the proceeds of disposal which are attributable to the land having been acquired or enhanced in value, or both, as the case may be, as mentioned in the relevant paragraph or paragraphs of sub-paragraph (1) of paragraph A7. (7) The authority may, within the requisite period, give the foundation body any or all of the following(a) notice of their objection to the disposal, giving reasons for their objection; (b) notice  of  their  objection  to  the  proposed  use  of  the  publicly funded proceeds of disposal, giving reasons for their objection; (c) notice of their claim to the whole or a part of the publicly funded proceeds of disposal. (8) The 'requisite period' means the period of 6 weeks beginning with the date upon which the foundation body gave notification of the disposal to the authority under sub-paragraph (4). (9) A notice given under sub-paragraph (7) may be withdrawn at any time by the authority giving the foundation body notice to that effect. (10) The foundation body may not make the disposal within the requisite period unless within that period(a) the authority give the foundation body  notice that they relinquish any right to give notice under sub-paragraph (7)(a) in relation to the disposal, or (b) in a case where the authority give notice of their objection to the disposal in accordance with sub-paragraph (7)(a), the relevant requirements in relation to such a notice are met. (11) If  the  authority  give  notice  of  their  objection  to  the  disposal  in accordance  with  sub-paragraph  (7)(a),  the  foundation  body  may  not make the disposal on or after the expiry of the requisite period until the relevant requirements in relation to such a notice are met. (12) The  'relevant  requirements'  in  relation  to  a  notice  given  under  subparagraph (7)(a) are met if- Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 206]]
+
+[[START OF PAGE 207]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+207
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) the adjudicator has approved the disposal on a reference made under paragraph A9(1), or (b) the  authority  have  withdrawn  notice  of  their  objection  to  the disposal in accordance with sub-paragraph (9). (13) If the authority give either or both of the following notices in relation to the disposal in accordance with sub-paragraph (7)(a) notice  of  their  objection  to  the  proposed  use  of  the  publicly funded proceeds of disposal under sub-paragraph (7)(b); (b) notice of their claim to the whole or a part of the publicly funded proceeds of disposal under sub-paragraph (7)(c), the  foundation  body  may  not  use  the  publicly  funded  proceeds  of disposal  until  the  relevant  requirements  in  relation  to  each  notice  so given are met. (14) The  'relevant  requirements'  in  relation  to  a  notice  given  under  subparagraph (7)(b) are met if(a) the relevant capital expenditure upon which the publicly funded proceeds  of  disposal  are  to  be  used  has  been  determined  in accordance with paragraph A9(2), or (b) the  authority  have  withdrawn  notice  of  their  objection  to  the proposed  use  of  the  publicly  funded  proceeds  of  disposal  in accordance with sub-paragraph (9). (15) The  'relevant  requirements'  in  relation  to  a  notice  given  under  subparagraph (7)(c) are met if(a) the 'appropriate amount' has been determined in accordance with paragraph A9(3), or (b) the authority have withdrawn notice of their claim in accordance with sub-paragraph (9). A9 (1) Where the authority give the foundation body notice of their objection to the disposal in accordance with paragraph A8(7)(a), the foundation body  or  the  authority  may  refer  the  matter  to  the  adjudicator  for  a determination by him as to whether he approves the disposal. (2) Where the authority give the foundation body notice of their objection to  the  proposed  use  of  the  publicly  funded  proceeds  of  disposal  in accordance with paragraph A8(7)(b), the relevant capital expenditure upon which those proceeds are to be used is to be determined(a) by agreement between the foundation body and the authority, or (b) by the adjudicator where(i) the  foundation  body  refers  or  the  authority  refer  the matter to him for determination, and (ii) by the time of his determination the matter has not been determined by agreement between the foundation body and the authority. (3) Where  the  authority  give  the  foundation  body  notice  of  their  claim to  the  whole  or  a  part  of  the  publicly  funded  proceeds  of  disposal in accordance with paragraph A8(7)(c), the amount of those proceeds which it is appropriate for the foundation body to pay to the authority
+
+(the 'appropriate amount') is to be determined- Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+[[END OF PAGE 207]]
+
+[[START OF PAGE 208]]
+
+208
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+(a) by agreement between the foundation body and the authority, or (b) by the adjudicator where(i) the  foundation  body  refers  or  the  authority  refer  the matter to him for determination, and (ii) by the time of his determination the matter has not been determined by agreement between the foundation body and the authority. (4) Before making a reference to the adjudicator under sub-paragraph (1), (2)(b) or (3)(b), the foundation body or, as the case may be, the authority, must give the other notice of its or their intention to make the reference. (5) On a reference under sub-paragraph (1), (2)(b) or (3)(b), the adjudicator may determine the proportion (if any) of the proceeds of disposal that are or will be the publicly funded proceeds of disposal. A10 (1) This paragraph applies where the disposal is made. (2) The foundation body must notify the authority that the disposal has been made and of the amount of the proceeds of disposal. (3) Where(a) the authority gave notice of their claim to the whole or a part of the publicly funded proceeds of disposal in accordance with paragraph A8(7)(c), and (b) the 'appropriate amount' has been determined in accordance with paragraph A9(3) to be an amount greater than zero, the foundation body must pay the 'appropriate amount' to the authority. (4) The foundation body must ensure that the remaining publicly funded proceeds of disposal are used on the agreed relevant capital expenditure. (5) If  the  amount  of  the  remaining  publicly  funded  proceeds  of  disposal exceeds the amount of the agreed relevant capital expenditure, then the foundation body must ensure that the surplus amount is used on relevant capital expenditure. (6) The 'agreed relevant capital expenditure' means(a) in a case where(i) no  notice  of  objection  to  the  proposed  use  of  the publicly funded proceeds of disposal was given by the authority in accordance with paragraph A8(7)(b), or (ii) such a notice was so given and was then withdrawn in accordance with paragraph A8(9), the relevant capital expenditure specified in the notification of the disposal given to the authority under paragraph A8(4), and (b) in  a  case  where  such  notice  of  objection  was  so  given  and was not withdrawn, the relevant capital expenditure upon which the  publicly  funded  proceeds  of  disposal  are  to  be  used  as determined in accordance with paragraph A9(2). (7) The  'remaining  publicly  funded  proceeds  of  disposal'  means  the
+
+amount of the publicly funded proceeds of disposal which remains after Status:
+
+[[END OF PAGE 208]]
+
+[[START OF PAGE 209]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+209
+
+This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+deducting the 'appropriate amount' (if any) determined in accordance with paragraph A9(3). (8) Sub-paragraphs  (3),  (4)  and  (5)  are  subject  to  paragraph  A8(13) (restriction on use of publicly funded proceeds of disposal where notices given under paragraph A8(7)(b) or (c)). A11 (1) This paragraph applies where(a) the authority gave notice of their objection to the disposal in accordance with paragraph A8(7)(a), and (b) the  adjudicator  has  determined  that  he  does  not  approve  the disposal. (2) The foundation body may apply to the adjudicator for an order to be made by him requiring the land or any part of the land to be transferred to such local authority as he may specify subject to the payment by that authority of such sum by way of consideration (if any) as he determines to be appropriate. (3) Before making an application under sub-paragraph (2), the foundation body must give the local education authority notice of its intention to make the application. A12 (1) For the purposes of paragraphs A8 to A10, 'relevant capital expenditure',  in  relation  to  a  disposal  of  land  by  a  foundation  body, means capital expenditure in relation to the premises of(a) any of the schools comprising the group for which the body acts, (b) any existing foundation, voluntary or foundation special school, city technology college, city college for the technology of the arts, or Academy, or (c) any  proposed  foundation,  voluntary  or  foundation  special school, or Academy. (2) For  the  purposes  of  sub-paragraph  (1)(c)  it  is  irrelevant  whether proposals have yet been published under any enactment in respect of the proposed school or Academy in question.
+
+###### Disposal of land by trustees of foundation, voluntary or foundation special school
+
+A13 (1) This  sub-paragraph  applies  to  any  disposal  by  the  trustees  of  a foundation, voluntary or foundation special school in England of(a) any land acquired under section 60, 61 or 70 of the Education Act 1996, (b) any land acquired under any of the followingparagraph 2 of Schedule 3; paragraph 16 of Schedule 6 (including that provision as applied by any enactment); paragraph 5(4B)(d) of this Schedule; any regulations made under paragraph 5 of Schedule 8, (c) any land acquired under any of the followingparagraph 4 or 9 of Schedule 3;
+
+[[END OF PAGE 209]]
+
+[[START OF PAGE 210]]
+
+210
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+paragraph 20 of Schedule 6 (including that provision as applied by any enactment), (d) any land acquired under any of the followingparagraph 8(5) of Schedule 8 to the Education Act 2002; paragraph 14(5) of Schedule 10 to the Education Act 2005; paragraph 28(2) or 31(1) of Schedule 2 to the Education and  Inspections  Act  2006  (including  that  provision  as applied by any enactment); any regulations made under section 24 of that Act by virtue of subsection (3)(b) of that section, (e) any land acquired, or enhanced in value, wholly or partly by means of expenditure incurred on or after the appointed day for the purposes of the school and treated by the local education authority as expenditure of a capital nature, (f) any land acquired from the Funding Agency for Schools, (g) any land acquired, or enhanced in value, wholly or partly by means of(i) any  maintenance,  special  purpose  or  capital  grant (within  the  meaning  of  Chapter  6  of  Part  3  of  the Education Act 1996), or (ii) any grant paid under section 216(2) of that Act, (h) any land acquired wholly or partly with the proceeds of disposal of  any  land  acquired  or  enhanced  in  value  as  mentioned  in paragraph (f) or (g), (i) any land acquired, or enhanced in value, wholly or partly by means of any grant made in pursuance of a special agreement (as defined by section 32(5) of the Education Act 1996), (j) any land acquired, or enhanced in value, wholly or partly by means  of  any  grant  made  on  or  after  1st  April  2007  by  the Secretary of State under paragraph 5 of Schedule 3 (including that provision as applied by any enactment) in relation to which notice is given in accordance with paragraph A27, or (k) any land acquired, or enhanced in value, wholly or partly with the proceeds of disposal of any land acquired or enhanced in value as mentioned in paragraph (j). (2) This  sub-paragraph  applies  to  any  disposal  by  the  trustees  of  a foundation or foundation special school in England of(a) any land acquired by the trustees from the governing body of the school or of another foundation or foundation special school which was land(i) acquired by the governing body under a transfer under section 201(1)(a) of the Education Act 1996, (ii) acquired  by  the  governing  body  under  any  of  the provisions mentioned in sub-paragraph (1)(b) or under paragraph 8A of this Schedule, or (iii) acquired by the governing body, or enhanced in value, wholly or partly with the proceeds of disposal of land acquired as mentioned in sub-paragraph (i) or (ii), or Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 210]]
+
+[[START OF PAGE 211]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+211
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) any land acquired, or enhanced in value, wholly or partly with the proceeds of disposal of any land acquired as mentioned in sub-paragraph (1)(b). (3) This sub-paragraph applies to any disposal by the trustees of a voluntary school in England of(a) any land acquired by the trustees from the governing body of the school which was land acquired by the governing body(i) under a transfer under section 201(1)(a) of the Education Act 1996, or (ii) wholly or partly with the proceeds of disposal of any land so acquired, and transferred by the governing body to be held on trust by the trustees, or (b) in the case of a school to which sub-paragraph (4) applies, any land acquired, or enhanced in value, wholly or partly by means of expenditure incurred under section 63 or 64 of the Education Act 1996. (4) This  sub-paragraph  applies  to  a  voluntary  aided  school  which  was, immediately before the appointed day, a controlled school within the meaning of the Education Act 1996. (5) Sub-paragraph  (1)(e)  does  not  apply  in  the  case  of  any  expenditure unless the authority(a) prepared an appropriate statement in relation to the expenditure, and (b) sent a copy of the statement to the trustees either before, or no later than 12 months after, the expenditure was incurred. (6) An 'appropriate statement' in relation to expenditure is a statement in writing which(a) contains details of the amount of the expenditure, the acquisition or works funded (or to be funded) by such expenditure, and the total cost (or estimated total cost) of that acquisition or those works, and (b) indicates that the expenditure was being treated by the authority as expenditure of a capital nature. (7) Where  the  trustees  of  a  foundation,  voluntary  or  foundation  special school  wish,  in  the  case  of  any  land  held  by  them  for  the  purposes of  the  school,  to  use  the  land  for  purposes  not  connected  with  the provision of education in maintained schools the preceding provisions of  this  paragraph  and  paragraphs  A14  to  A16  apply  (subject  to  the modifications specified in paragraphs A14(18), A15(5) and A16(9)) as if any such change of use of the land were a disposal of the land. A14 (1) This paragraph applies to a disposal of land to which sub-paragraph (1), (2) or (3) of paragraph A13 applies. (2) But this paragraph only applies to a disposal if, or to the extent that, it comprises a disposal of non-playing field land which does not fall within
+
+- sub-paragraph (5).
+
+[[END OF PAGE 211]]
+
+[[START OF PAGE 212]]
+
+212
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(3) 'Non-playing field land' means land which does not include playing fields within the meaning of section 77. (4) Accordingly, in this paragraph, paragraphs A15 to A17 and paragraph A19(a) references to the disposal are to the disposal by the trustees of the non-playing field land, and (b) references to the land are to that non-playing field land. (5) A disposal of non-playing field land falls within this sub-paragraph if it is a disposal of(a) land acquired under section 60 or 61 of the Education Act 1996, or (b) land acquired under paragraph 2 or 4 of Schedule 3 to this Act, by the trustees of an institution which is, or has at any time been, within the further education sector (as defined by section 4(3) of the Education Act 1996). (6) The  trustees  must  give  the  local  education  authority  notice  of  their intention to dispose of the land. (7) That notification must specify(a) the relevant capital expenditure upon which it is proposed the publicly funded proceeds of disposal are to be used, and (b) the estimated amount of the proceeds of disposal. (8) For the purposes of this paragraph and paragraphs A15 and A16, the 'publicly funded proceeds of disposal' means the proceeds of disposal which are attributable to the land having been acquired or enhanced in value, or both, as the case may be, as mentioned in the relevant paragraph or paragraphs of sub-paragraph (1), (2) or (3) of paragraph A13. (9) The authority may, within the requisite period, give the trustees any or all of the following(a) notice of their objection to the disposal, giving reasons for their objection; (b) notice  of  their  objection  to  the  proposed  use  of  the  publicly funded proceeds of disposal, giving reasons for their objection; (c) notice of their claim to the whole or a part of the publicly funded proceeds of disposal. (10) The 'requisite period' means the period of 6 weeks beginning with the date  upon  which  the  trustees  gave  notification  of  the  disposal  to  the authority under sub-paragraph (6). (11) A notice given under sub-paragraph (9) may be withdrawn at any time by the authority giving the trustees notice to that effect. (12) The trustees may not make the disposal within the requisite period unless within that period(a) the authority give the trustees notice that they relinquish any right to give notice under sub-paragraph (9)(a) in relation to the disposal, or Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 212]]
+
+[[START OF PAGE 213]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+213
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) in a case where the authority give notice of their objection to the disposal in accordance with sub-paragraph (9)(a), the relevant requirements in relation to such a notice are met. (13) If  the  authority  give  notice  of  their  objection  to  the  disposal  in accordance with sub-paragraph (9)(a), the trustees may not make the disposal on or after the expiry of the requisite period until the relevant requirements in relation to such a notice are met. (14) The  'relevant  requirements'  in  relation  to  a  notice  given  under  subparagraph (9)(a) are met if(a) the adjudicator has approved the disposal on a reference made under paragraph A15(1), or (b) the  authority  have  withdrawn  notice  of  their  objection  to  the disposal in accordance with sub-paragraph (11). (15) If the authority give either or both of the following notices in relation to the disposal in accordance with sub-paragraph (9)(a) notice  of  their  objection  to  the  proposed  use  of  the  publicly funded proceeds of disposal under sub-paragraph (9)(b); (b) notice of their claim to the whole or a part of the publicly funded proceeds of disposal under sub-paragraph (9)(c), the trustees may not use the publicly funded proceeds of disposal until the relevant requirements in relation to each notice so given are met. (16) The  'relevant  requirements'  in  relation  to  a  notice  given  under  subparagraph (9)(b) are met if(a) the relevant capital expenditure upon which the publicly funded proceeds  of  disposal  are  to  be  used  has  been  determined  in accordance with paragraph A15(2), or (b) the  authority  have  withdrawn  notice  of  their  objection  to  the proposed  use  of  the  publicly  funded  proceeds  of  disposal  in accordance with sub-paragraph (11). (17) The  'relevant  requirements'  in  relation  to  a  notice  given  under  subparagraph (9)(c) are met if(a) the 'appropriate amount' has been determined in accordance with paragraph A15(3), or (b) the authority have withdrawn notice of their claim in accordance with sub-paragraph (11). (18) In  its  application  in  the  case  of  a  disposal  of  land  to  which  subparagraph (1),  (2)  or  (3)  of  paragraph  A13  applies  by  virtue  of  subparagraph (7) of that paragraph, this paragraph is modified as follows(a) in sub-paragraph (7) for paragraphs (a) and (b) substitute 'the purposes for which it is proposed the land is to be used', (b) in sub-paragraph (9)(i) omit paragraphs (a) and (c), and (ii) in  paragraph  (b),  for  'proposed  use  of  the  publicly funded  proceeds  of  disposal'  substitute  'proposed purposes for which the land is to be used', (c) in sub-paragraph (15)- Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 213]]
+
+[[START OF PAGE 214]]
+
+214
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(i) for 'proposed use of the publicly funded proceeds of disposal' substitute 'proposed purposes for which the land is to be used', and (ii) for  'use  the  publicly  funded  proceeds  of  disposal' substitute 'use the land for purposes not connected with the provision of education in maintained schools', and (d) in sub-paragraph (16)(i) for 'relevant capital expenditure  upon  which  the publicly funded proceeds of disposal are to be used has' substitute 'purposes for which the land is to be used have', and (ii) for 'proposed use of the publicly funded proceeds of disposal' substitute 'proposed purposes for which the land is to be used'. A15 (1) Where the authority give the trustees notice of their objection to the disposal  in  accordance  with  paragraph  A14(9)(a),  the  trustees  or  the authority may refer the matter to the adjudicator for a determination by him as to whether he approves the disposal. (2) Where the authority give the trustees notice of their objection to the proposed use of the publicly funded proceeds of disposal in accordance with paragraph A14(9)(b), the relevant capital expenditure upon which those proceeds are to be used is to be determined(a) by agreement between the trustees and the authority, or (b) by the adjudicator where(i) the trustees or the authority refer the matter to him for determination, and (ii) by the time of his determination the matter has not been determined by agreement between the trustees and the authority. (3) Where the authority give the trustees notice of their claim to the whole or  a  part  of  the  publicly  funded  proceeds  of  disposal  in  accordance with  paragraph  A14(9)(c),  the  amount  of  those  proceeds  which  it  is appropriate for the trustees or their successors to pay to the authority (the 'appropriate amount') is to be determined(a) by agreement between the trustees and the authority, or (b) by the adjudicator where(i) the trustees or the authority refer the matter to him for determination, and (ii) by the time of his determination the matter has not been determined by agreement between the trustees and the authority. (4) Before making a reference to the adjudicator under sub-paragraph (1), (2)(b) or (3)(b), the trustees or, as the case may be, the authority, must give the other notice of their intention to make the reference. (5) On a reference under sub-paragraph (1), (2)(b) or (3)(b), the adjudicator may determine the proportion (if any) of the proceeds of disposal that are or will be the publicly funded proceeds of disposal.
+
+[[END OF PAGE 214]]
+
+[[START OF PAGE 215]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+215
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+A16
+
+(6) In the application of this paragraph in the case of a disposal of land to which sub-paragraph (1), (2) or (3) of paragraph A13 applies by virtue of sub-paragraph (7) of that paragraph, sub-paragraph (2) is modified as follows(a) for 'proposed use of the publicly funded proceeds of disposal' substitute 'proposed purposes for which the land is to be used', and (b) for 'relevant capital expenditure upon which those proceeds are to be used is' substitute 'purposes for which the land is to be used are'. (1) This paragraph applies where the disposal is made. (2) The trustees must notify the authority that the disposal has been made and of the amount of the proceeds of disposal. (3) Where(a) the authority gave notice of their claim to the whole or a part of the publicly funded proceeds of disposal in accordance with paragraph A14(9)(c), and (b) the 'appropriate amount' has been determined in accordance with paragraph A15(3) to be an amount greater than zero, the trustees or their successors must pay the 'appropriate amount' to the authority. (4) The trustees and their successors must ensure that the remaining publicly funded  proceeds  of  disposal  are  used  on  the  agreed  relevant  capital expenditure. (5) If  the  amount  of  the  remaining  publicly  funded  proceeds  of  disposal exceeds the amount of the agreed relevant capital expenditure, then the trustees and their successors must ensure that the surplus amount is used on relevant capital expenditure. (6) The 'agreed relevant capital expenditure' means(a) in a case where(i) no  notice  of  objection  to  the  proposed  use  of  the publicly funded proceeds of disposal was given by the authority in accordance with paragraph A14(9)(b), or (ii) such a notice was so given and was then withdrawn in accordance with paragraph A14(11), (b)
+
+the relevant capital expenditure specified in the notification of the disposal given to the authority under paragraph A14(6), and in  a  case  where  such  notice  of  objection  was  so  given  and was not withdrawn, the relevant capital expenditure upon which the  publicly  funded  proceeds  of  disposal  are  to  be  used  as determined in accordance with paragraph A15(2).
+
+(7) The  'remaining  publicly  funded  proceeds  of  disposal'  means  the amount of the publicly funded proceeds of disposal which remains after deducting the 'appropriate amount' (if any) determined in accordance with paragraph A15(3).
+
+[[END OF PAGE 215]]
+
+[[START OF PAGE 216]]
+
+216
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(8) Sub-paragraphs  (3),  (4)  and  (5)  are  subject  to  paragraph  A14(15) (restriction on use of publicly funded proceeds of disposal where notices given under paragraph A14(9)(b) or (c)). (9) In  its  application  in  the  case  of  a  disposal  of  land  to  which  subparagraph (1),  (2)  or  (3)  of  paragraph  A13  applies  by  virtue  of  subparagraph (7) of that paragraph, this paragraph is modified as follows(a) in sub-paragraph (2) omit the words from 'and of the amount' to the end, (b) in sub-paragraph (4) for 'remaining publicly funded proceeds of disposal are used on the agreed relevant capital expenditure' substitute 'land is used for the agreed purposes', (c) omit sub-paragraph (5), and (d) in sub-paragraph (6)(i) for  'agreed  relevant  capital  expenditure'  substitute 'agreed purposes', (ii) for 'proposed use of the publicly funded proceeds of disposal' substitute 'proposed purposes for which the land is to be used', (iii) for 'relevant capital expenditure' substitute 'proposed purposes', and (iv) for 'relevant capital expenditure  upon  which  the publicly funded proceeds of disposal are to be used' substitute 'purposes for which the land is to be used'. A17 (1) This paragraph applies where(a) the authority gave notice of their objection to the disposal in accordance with paragraph A14(9)(a), and (b) the  adjudicator  has  determined  that  he  does  not  approve  the disposal. (2) The trustees may apply to the adjudicator for an order to be made by him requiring the land or any part of the land to be transferred to such local authority as he may specify subject to the payment by that authority of such sum by way of consideration (if any) as he determines to be appropriate. (3) Before making an application under sub-paragraph (2), the trustees must give the local education authority notice of their intention to make the application. A18 (1) For the purposes of paragraphs A14  to A16, 'relevant capital expenditure',  in  relation  to  a  disposal  of  land  by  the  trustees  of a  foundation,  voluntary  or  foundation  special  school,  means  capital expenditure in relation to the premises of(a) the school, (b) any existing foundation, voluntary or foundation special school, city technology college, city college for the technology of the arts, or Academy, or (c) any  proposed  foundation,  voluntary  or  foundation  special
+
+- school, or Academy.
+
+[[END OF PAGE 216]]
+
+[[START OF PAGE 217]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+217
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(2) For  the  purposes  of  sub-paragraph  (1)(c)  it  is  irrelevant  whether proposals have yet been published under any enactment in respect of the proposed school or Academy in question.
+
+###### Duty to have regard to guidance etc
+
+A19 (1) A local education authority, a governing body, a foundation body and trustees must have regard, in particular, to any guidance given from time to time by the Secretary of State(a) in determining whether to give a notice, or make a reference or application to the adjudicator, under any of paragraphs A2 to A17, or (b) in  determining  the  publicly  funded  proceeds  of  disposal  or the  'appropriate  amount'  for  the  purposes  of  any  of  those paragraphs. (2) In  determining  any  matter  for  the  purposes  of  any  of  the  provisions mentioned in sub-paragraph (1), the adjudicator must have regard, in particular, to any guidance given from time to time by the Secretary of State. (3) In  addition  to  having  regard  to  guidance  as  required  under  subparagraph (1)(b) or (2), a local education authority, a governing body, a foundation body, trustees and the adjudicator, must also have regard, in particular, to the factors mentioned in sub-paragraph (4) in determining any of the following for the purposes of any of paragraphs A2 to A17(a) the publicly funded proceeds of disposal; (b) the 'appropriate amount'; (c) the  amount  of  the  consideration  (if  any)  to  be  paid  under paragraph A5, A11 or A17. (4) The factors referred to in sub-paragraph (3) are(a) in the case of any disposal, the value of the land as at the date of the determination, (b) in the case of any disposal, any enhancement in value of the land attributable to expenditure on the land by the local education authority or a relevant person, (c) in the case of any disposal, any expenditure on the land by a relevant person, (d) in the case of any disposal, any relevant payments made by a relevant person to the local education authority or the Secretary of State, (e) in the case of any disposal, to the extent that they do not fall within  paragraph  (c)  or  (d),  any  payments  in  respect  of  the acquisition of the land, and (f) in  the  case  of  a  disposal  falling  within  paragraph  A1(1)(i), paragraph A7(1)(h) or paragraph A13(1)(h) or (k), (2)(a)(iii) or (b), or (3)(a)(ii), the extent to which the proceeds of disposal mentioned in the provision in question were publicly funded proceeds of disposal as defined for the purposes of paragraph
+
+A2, A8 or A14, as the case may be.
+
+[[END OF PAGE 217]]
+
+[[START OF PAGE 218]]
+
+218
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(5) A 'relevant person' means(a) in the case of a disposal to which paragraph A2 or A14 applies, the governing body or the trustees of the school in question, and (b) in  the  case  of  a  disposal  to  which  paragraph  A8  applies,  the foundation body in question. (6) A 'relevant payment' means(a) in the case of any disposal, a payment in respect of the current school site or sites to which the land relates, (b) in the case of any disposal, a payment under any of the following provisionsparagraph 2(6) of Schedule 3; paragraph 16(5) of Schedule 6 (including that provision as applied by any enactment); section 60(4) of the Education Act 1996; paragraph  28(5)  of  Schedule  2  to  the  Education  and Inspections Act 2006 (including that provision as applied by any enactment), and (c) in  the  case  of  a  disposal  of  land  falling  within  any  of  the following provisionsparagraph A1(1)(f) or (g); paragraph A7(1)(e) or (f); paragraph A13(1)(g), (i) or (j), a payment in respect of the grant mentioned in the provision in question. (7) The  reference  in  sub-paragraph  (5)(a)  to  the  governing  body  or  the trustees of the school in question includes(a) where  the  school  was  established  in  pursuance  of  proposals published  under  section  28(2)  or  28A(2),  the  persons  who published the proposals, (b) where  the  school  was  established  in  pursuance  of  proposals published  under  section  70  of  the  Education  Act  2002  or section  66  of  the  Education  Act  2005  which  were  made  by persons other than a local education authority, the persons by whom the proposals were made, and (c) where  the  school  was  established  in  pursuance  of  proposals published under any of sections 7, 10 and 11 of the Education and  Inspections  Act  2006,  any  persons,  other  than  a  local education authority, by whom the proposals were treated for the purposes of Schedule 2 to that Act as having been made. (8) The reference in sub-paragraph (5)(b) to the foundation body in question includes(a) where  the  school  or  any  of  the  schools  to  which  the  land in  question relates was established in pursuance of proposals published  under  section  28(2)  or  28A(2),  the  persons  who published the proposals, (b) where  the  school  or  any  of  the  schools  to  which  the  land in  question relates was established in pursuance of proposals published  under  section  70  of  the  Education  Act  2002  or Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 218]]
+
+[[START OF PAGE 219]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+219
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+section  66  of  the  Education  Act  2005  which  were  made  by persons other than a local education authority, the persons by whom the proposals were made, and (c) where  the  school  or  any  of  the  schools  to  which  the  land in  question relates was established in pursuance of proposals published under any of sections 7, 10 and 11 of the Education and  Inspections  Act  2006,  any  persons,  other  than  a  local education authority, by whom the proposals were treated for the
+
+purposes of Schedule 2 to that Act as having been made.
+
+###### Power to vary or revoke determinations or orders
+
+A20 (1) A determination made by the adjudicator on a reference made to him under any of paragraphs A3 to A15 may be varied or revoked by a further determination made by him if(a) the matter is referred to him by a relevant person in relation to the determination, and (b) before making  the further determination, the adjudicator consults such persons as he considers appropriate. (2) A 'relevant person' in relation to a determination means(a) the local education authority, governing body, foundation body or trustees who made the reference to the adjudicator in relation to which the determination was made, or (b) any other of those persons who could have made that reference. (3) In determining whether to make a reference to the adjudicator under subparagraph (1)(a), a relevant person must have regard, in particular, to any guidance given from time to time by the Secretary of State. (4) An order made by the adjudicator on an application under paragraph A5, A11 or A17 may be varied or revoked by a further order made by him if(a) an application for its variation or revocation is made to him by an appropriate person in relation to the order, and (b) before making the further order, the adjudicator consults such persons as he considers appropriate. (5) An 'appropriate person' in relation to an order made under paragraph A5, A11 or A17 means(a) the governing body, the foundation body or the trustees, as the case may be, who applied for the order, (b) the local education authority, or (c) if different from that authority, the local authority to whom land is required to be transferred under the order. (6) In  determining  whether  to  make  an  application  to  the  adjudicator under sub-paragraph (4)(a), an appropriate person must have regard, in particular, to any guidance given from time to time by the Secretary of State. (7) Paragraph A19 applies in relation to the further determination by the
+
+adjudicator, by virtue of sub-paragraph (1) or (4), of any matter for the Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 219]]
+
+[[START OF PAGE 220]]
+
+220
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+purposes of any of paragraphs A2 to A17 as it applies in relation to the original determination of the matter.
+
+###### Meaning of 'capital expenditure'
+
+A21 (1) This paragraph applies to the references to capital expenditure in the definition of 'relevant capital expenditure' in paragraphs A6, A12 and A18. (2) Subject to sub-paragraphs (3) and (4), such references are references to(a) in the case of paragraph A6, expenditure which, if it were to be incurred by the governing body, would fall to be capitalised in accordance with proper accounting practices; (b) in the case of paragraph A12, expenditure which, if it were to be incurred by the foundation body, would fall to be capitalised in accordance with proper accounting practices; (c) in  the  case  of  paragraph  A18,  expenditure  which,  if  it  were to  be  incurred  by  the  trustees,  would  fall  to  be  capitalised  in accordance with proper accounting practices. (3) The Secretary of State may  by  regulations  prescribe  classes  or descriptions of expenditure which are to be treated(a) for  the  purposes  of  paragraph  A6  as  being,  or  as  not  being, capital expenditure of any governing body, or any prescribed class or description of governing body; (b) for the purposes of paragraph A12 as being, or as not being, capital expenditure of any foundation body, or any prescribed class or description of foundation body; (c) for the purposes of paragraph A18 as being, or as not being, capital expenditure of any trustees, or any prescribed class or description of trustee. (4) The Secretary of State may by direction provide that(a) expenditure of a particular governing body, which is expenditure of a particular class or description, is to be treated for  the  purposes  of  paragraph  A6  as  being,  or  as  not  being, capital expenditure of that body; (b) expenditure of a particular foundation body, which is expenditure of a particular class or description, is to be treated for the purposes of paragraph A12 as being, or as not being, capital expenditure of that body; (c) expenditure  of  particular  trustees,  which  is  expenditure  of  a particular class or description, is to be treated for the purposes of paragraph A18 as being, or as not being, capital expenditure of those persons. (5) Directions under sub-paragraph (4) may be expressed to have effect in specified circumstances or subject to specified conditions. A22 (1) For the purposes of paragraph A21, 'proper accounting practices', in relation to a governing or foundation body, or to trustees, means those
+
+accounting practices- Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 220]]
+
+[[START OF PAGE 221]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+221
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) which,  whether  by  virtue  of  any  enactment  or  by  reference to  any  generally  recognised published code or otherwise, are regarded as proper accounting practices to be followed in the keeping of accounts by that body, or as the case may be, those persons, or (b) which,  whether  by  virtue  of  any  enactment  or  by  reference to  any  generally  recognised published code or otherwise, are regarded as proper accounting practices to be followed in the keeping of accounts by the relevant local education authority. (2) The  'relevant  local  education  authority'  means  the  local  education authority to whom notice of the disposal in question is required to be given under paragraph A2, A8 or A14. (3) In the event of conflict between the accounting practices falling within paragraph (a) of sub-paragraph (1) and those falling within paragraph (b) of that sub-paragraph, only those falling within paragraph (a) are to be
+
+- regarded as proper accounting practices.
+
+###### Land required by local education authority for certain purposes
+
+A23 (1) A local education authority in England may apply to the adjudicator for a transfer order under this paragraph in relation to publicly funded land which(a) is held for the purposes of a foundation, voluntary or foundation special school by the governing body of the school, (b) is held by a foundation body for the purposes of the group of schools for which it acts, or (c) is  held,  or  held  on  trust,  for  the  purposes  of  a  foundation, voluntary  or  foundation  special  school  by  the  trustees  of  the school. (2) A  transfer  order  is  an  order  requiring  the  land  in  relation  to  which it  is  made  to  be  transferred  by  the  body  or  trustees  holding  it  to  the authority, subject to the payment by the authority of such sum by way of consideration (if any) as the adjudicator determines to be appropriate. (3) In determining whether to make an application under sub-paragraph (1) for  a  transfer  order,  a  local  education  authority  must  have  regard,  in particular, to any guidance given from time to time by the Secretary of State. (4) Before  making  an  application  under  sub-paragraph  (1)  for  a  transfer order in relation to publicly funded land, the authority must give the body or trustees holding the land notice of the authority's intention to make the application. (5) An application under sub-paragraph (1) must state the purpose for which the  land  to  which  it  relates  is  required  by  the  authority  ('the  stated purpose'). (6) In  relation  to  the  content  of  such  an  application,  a  local  education authority must have regard, in particular, to any guidance given from time to time by the Secretary of State.
+
+[[END OF PAGE 221]]
+
+[[START OF PAGE 222]]
+
+222
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(7) Where an application is made under sub-paragraph (1) for a transfer order in relation to publicly funded land, the adjudicator may make a transfer order if he is satisfied that(a) the land is not required for the purposes of the school or, as the case may be, the schools in the group, (b) the land is required by the authority for the stated purpose, (c) the stated purpose is a qualifying purpose, and (d) it is appropriate for the land to be used for that purpose. (8) For  the  purposes  of  sub-paragraph  (7)(c)  the  stated  purpose  is  a qualifying  purpose  if  it  falls  within  one  or  more  of  the  following descriptions of purpose(a) the land is required for the purposes of any school or institution which is, or is to be, maintained by the authority, or which they have power to assist; (b) the land is otherwise required for the purposes of the exercise of any of the functions of the authority; (c) the land is required for the provision of children's services by or on behalf of the local authority who are that authority in the exercise of any of the relevant functions of that local authority. (9) For the purposes of sub-paragraph (8)(c)'children's services' are services provided for or in relation to any of the following persons (whether or not they are also provided for or in relation to any other persons)(a) children; (b) persons aged 18 or 19; (c) persons  over  the  age  of  19  who  are  receiving  services under sections 23C to 24D of the Children Act 1989; (d) persons over the age of 19 but under the age of 25 who have a learning difficulty, within the meaning of section 13 of  the  Learning  and  Skills  Act  2000,  and  are  receiving services under that Act; 'relevant  functions'  means  the  functions  described  in  any  of paragraphs (a), (c), (d) or (e) of subsection (1) of section 135 of the Education and Inspections Act 2006. (10) Before making a transfer order the adjudicator must consult the body or trustees holding the land in relation to which the application for the transfer order is made. (11) In determining whether to make a transfer order, the adjudicator must have regard, in particular, to any guidance given from time to time by the Secretary of State. (12) Where a transfer order is made, the authority must use the land to which it relates for the stated purpose. (13) A transfer order made by the adjudicator may be varied or revoked by a further order made by the adjudicator if(a) an application for its variation or revocation is made to him by
+
+- a relevant person in relation to the order, and
+
+[[END OF PAGE 222]]
+
+[[START OF PAGE 223]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+223
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+A24
+
+(b) before making the further order, the adjudicator consults such persons as he considers appropriate. (14) A 'relevant person' in relation to a transfer order means(a) the local education authority who applied for the transfer order, or (b) the body or trustees who held the land to which the order relates. (15) In determining whether to make an application to the adjudicator under sub-paragraph (13)(a), a relevant person must have regard, in particular, to any guidance given from time to time by the Secretary of State. (16) Sub-paragraph (11) applies in relation to the making of a further order by virtue of sub-paragraph (13) as it applies in relation to the making of the original transfer order. (1) For  the  purposes  of  paragraph  A23,  land  held  for  the  purposes  of  a foundation,  voluntary  or  foundation  special  school  by  the  governing body of the school is 'publicly funded land' if it is(a) land acquired under a transfer under section 201(1)(a) of the Education Act 1996, (b) land acquired under any of the followingparagraph 2 of Schedule 3; paragraph 16 of Schedule 6 (including that provision as applied by any enactment); paragraph 5(4)(c), 5(4B)(d) or 8A of this Schedule; any regulations made under paragraph 5 of Schedule 8; paragraph  28(2)  of  Schedule  2  to  the  Education  and Inspections Act 2006 (including that provision as applied by any enactment), (c) land acquired under any regulations made undersection 24 of the Education and Inspections Act 2006 by virtue of subsection (3)(b) of that section, or section 27 of that Act by virtue of subsection (2)(b) of that section, (d) land acquired from a foundation body, (e) land acquired from the Funding Agency for Schools, (f) land acquired wholly by means of(i) any  maintenance,  special  purpose  or  capital  grant (within  the  meaning  of  Chapter  6  of  Part  3  of  the Education Act 1996), or (ii) any  grant  paid  under  any  regulations  made  under paragraph 4 of Schedule 32 to this Act other than a grant paid under such regulations to the governing body of a voluntary aided school, (g) land acquired wholly or partly by means of any grant made on or after 1st April 2007 by the Secretary of State under paragraph 5  of  Schedule  3  (including  that  provision  as  applied  by  any enactment) in relation to which notice is given in accordance
+
+with paragraph A27, Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 223]]
+
+[[START OF PAGE 224]]
+
+224
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(h) land  acquired  wholly  by  means  of  expenditure  incurred  for the purposes of the school and treated by the local education authority as expenditure of a capital nature, or (i) land acquired wholly with the proceeds of disposal of any land acquired as mentioned in any of paragraphs (a) to (h). (2) Sub-paragraph  (1)(h)  does  not  apply  in  the  case  of  any  expenditure incurred on or after the appointed day unless the authority(a) prepared an appropriate statement in relation to the expenditure, and (b) sent a copy of the statement to the governing body either before, or no later than 12 months after, the expenditure was incurred. (3) An 'appropriate statement' in relation to expenditure is a statement in writing which(a) contains details of the amount of the expenditure, the acquisition or works funded (or to be funded) by such expenditure, and the total cost (or estimated total cost) of that acquisition or those works, and (b) indicates that the expenditure was being treated by the authority as expenditure of a capital nature. A25 (1) For the purposes of paragraph A23, land held by a foundation body for the purposes of the group of schools for which it acts is 'publicly funded land' if it is(a) land acquired under any of the followingparagraph 2, 4 or 9 of Schedule 3; paragraph 16 or 20 of Schedule 6 (including that provision as applied by any enactment); paragraph 5 or 6 of Schedule 21; paragraph 5(4B)(d) of this Schedule; any regulations made under paragraph 5 of Schedule 8, (b) land acquired under any of the followingparagraph 8(5) of Schedule 8 to the Education Act 2002; paragraph 14(5) of Schedule 10 to the Education Act 2005; paragraph 28(2) or 31(1) of Schedule 2 to the Education and  Inspections  Act  2006  (including  that  provision  as applied by any enactment); any regulations made under section 24 of that Act by virtue of subsection (3)(b) of that section; any regulations made under section 27 of that Act by virtue of subsection (2)(b) of that section, (c) land acquired from the governing body of a maintained school, (d) land acquired from another foundation body, (e) land acquired wholly by means of(i) any grant provided by the Secretary of State on or after the appointed day other than a grant made on or after 1st April 2007 under paragraph 5 of Schedule 3 (including that provision as applied by any enactment), or Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 224]]
+
+[[START OF PAGE 225]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+225
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(ii) any  grant  paid  under  any  regulations  made  under paragraph 4 of Schedule 32 to this Act other than a grant paid under such regulations to the governing body of a voluntary aided school, (f) land acquired wholly or partly by means of any grant made on or after 1st April 2007 by the Secretary of State under paragraph 5  of  Schedule  3  (including  that  provision  as  applied  by  any enactment) in relation to which notice is given in accordance with paragraph A27, (g) land acquired wholly by means of expenditure incurred for the purposes of any of the schools comprising the group for which the  body  acts  and  treated  by  the  local  education  authority  as expenditure of a capital nature, or (h) land acquired wholly with the proceeds of disposal of any land acquired as mentioned in any of paragraphs (a) to (g). (2) Sub-paragraph  (1)(g)  does  not  apply  in  the  case  of  any  expenditure incurred on or after the appointed day unless the authority(a) prepared an appropriate statement in relation to the expenditure, and (b) sent a copy of the statement to the foundation body either before, or no later than 12 months after, the expenditure was incurred. (3) An 'appropriate statement' in relation to expenditure is a statement in writing which(a) contains details of the amount of the expenditure, the acquisition or works funded (or to be funded) by such expenditure, and the total cost (or estimated total cost) of that acquisition or those works, and (b) indicates that the expenditure was being treated by the authority as expenditure of a capital nature. A26 (1) For the purposes of paragraph A23, land held, or held on trust, for the purposes of a foundation, voluntary or foundation special school by the trustees of the school is 'publicly funded land' if it is(a) land acquired under section 60, 61 or 70 of the Education Act 1996, (b) land acquired under any of the followingparagraph 2 of Schedule 3; paragraph 16 of Schedule 6 (including that provision as applied by any enactment); paragraph 5(4B)(d) of this Schedule; any regulations made under paragraph 5 of Schedule 8, (c) land acquired under any of the followingparagraph 4 or 9 of Schedule 3; paragraph 20 of Schedule 6 (including that provision as applied by any enactment), (d) land acquired under any of the followingparagraph 8(5) of Schedule 8 to the Education Act 2002; paragraph 14(5) of Schedule 10 to the Education Act 2005;
+
+[[END OF PAGE 225]]
+
+[[START OF PAGE 226]]
+
+226
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+paragraph 28(2) or 31(1) of Schedule 2 to the Education and  Inspections  Act  2006  (including  that  provision  as applied by any enactment); any regulations made under section 24 of that Act by virtue of subsection (3)(b) of that section, (e) land acquired wholly by means of expenditure incurred on or after the appointed day for the purposes of the school and treated by  the  local  education  authority  as  expenditure  of  a  capital nature, (f) land acquired from the Funding Agency for Schools, (g) land acquired wholly by means of(i) any  maintenance,  special  purpose  or  capital  grant (within  the  meaning  of  Chapter  6  of  Part  3  of  the Education Act 1996), (ii) any grant paid under section 216(2) of that Act, or (iii) any  grant  paid  under  any  regulations  made  under paragraph 4 of Schedule 32 to this Act other than a grant paid under such regulations to the governing body of a voluntary aided school, (h) land acquired wholly or partly by means of any grant made on or after 1st April 2007 by the Secretary of State under paragraph 5  of  Schedule  3  (including  that  provision  as  applied  by  any enactment) in relation to which notice is given in accordance with paragraph A27, (i) land acquired wholly with the proceeds of disposal of any land acquired as mentioned in any of paragraphs (f) to (h), or (j) land acquired wholly by means of any grant made in pursuance of  a  special  agreement  (as  defined  by  section  32(5)  of  the Education Act 1996). (2) For the purposes of paragraph A23, land held, or held on trust, for the purposes of a foundation or foundation special school by the trustees of the school is also 'publicly funded land' if it is(a) land acquired by the trustees from the governing body of the school or of another foundation or foundation special school which was land(i) acquired by the governing body under a transfer under section 201(1)(a) of the Education Act 1996, (ii) acquired  by  the  governing  body  under  any  of  the provisions mentioned in sub-paragraph (1)(b) or under paragraph 8A of this Schedule, or (iii) acquired  by  the  governing  body  wholly  with  the proceeds of disposal of land acquired as mentioned in sub-paragraph (i) or (ii), or (b) land acquired wholly with the proceeds of disposal of any land acquired as mentioned in sub-paragraph (1)(b). (3) For the purposes of paragraph A23, land held, or held on trust, for the purposes  of  a  voluntary  school  by  the  trustees  of  the  school  is  also 'publicly funded land' if it is(a) land acquired by the governing body of the school- Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 226]]
+
+[[START OF PAGE 227]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+227
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(i) under a transfer under section 201(1)(a) of the Education Act 1996, or (ii) wholly  with  the  proceeds  of  disposal  of  any  land  so acquired, and transferred by the governing body to be held on trust by the trustees, or (b) in  the  case  of  a  school  to  which  sub-paragraph  (4)  applies, land acquired wholly by means of expenditure incurred under section 63 or 64 of the Education Act 1996. (4) This  sub-paragraph  applies  to  a  voluntary  aided  school  which  was, immediately before the appointed day, a controlled school within the meaning of the Education Act 1996. (5) Land held, or held on trust, for the purposes of a foundation, voluntary or foundation special school by the trustees of the school is not 'publicly funded land' for the purposes of paragraph A23 if it is(a) land acquired under section 60 or 61 of the Education Act 1996, or (b) land acquired under paragraph 2 or 4 of Schedule 3 to this Act, by the trustees of an institution which is, or has at any time been, within the further education sector (as defined by section 4(3) of the Education Act 1996). (6) Sub-paragraph  (1)(e)  does  not  apply  in  the  case  of  any  expenditure unless the authority(a) prepared an appropriate statement in relation to the expenditure, and (b) sent a copy of the statement to the trustees either before, or no later than 12 months after, the expenditure was incurred. (7) An 'appropriate statement' in relation to expenditure is a statement in writing which(a) contains details of the amount of the expenditure, the acquisition or works funded (or to be funded) by such expenditure, and the total cost (or estimated total cost) of that acquisition or those works, and (b) indicates that the expenditure was being treated by the authority
+
+- as expenditure of a capital nature.
+
+###### Notice in relation to grants under paragraph 5 of Schedule 3
+
+A27 (1) Where a grant is made on or after 1st April 2007 by the Secretary of State under paragraph 5 of Schedule 3 (including that provision as applied by any enactment), the Secretary of State may within the relevant period give the body or other persons to whom the grant is made notice that(a) any land acquired, or enhanced in value, wholly or partly by means of the grant is land falling within paragraph A1(1)(g), A7(1)(f) and A13(1)(j), and (b) any land acquired wholly or partly by means of the grant is land
+
+- falling within paragraph A24(1)(g), A25(1)(f) and A26(1)(h).
+
+[[END OF PAGE 227]]
+
+[[START OF PAGE 228]]
+
+228
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The 'relevant period' means the period of 6 months beginning with the date upon which the grant is made.'
+
+- 3
+
+##### Commencement Information
+I318 Sch. 4 para. 2 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+In the heading to Part 1 of the Schedule after 'SCHOOLS' insert ' IN WALES '.
+
+##### Commencement Information
+I319 Sch. 4 para. 3 in force at 25.5.2007 by S.I. 2007/935, art. 7(p) (with art. 8(5))
+
+- 4 (1) Paragraph 1 is amended as follows.
+
+- In sub-paragraph (1)-
+
+(a) after 'foundation special school' insert ' in Wales ', and
+
+(b) omit paragraph (c).
+
+- In sub-paragraph (1A)(b) for 'falling within section 21(1)(a)' substitute ' established otherwise than under this Act '.
+
+- In sub-paragraphs (2) and (3) for 'Secretary of State' substitute ' Assembly '.
+
+- In sub-paragraph (3)-
+
+(a) for 'his' substitute ' its ',
+
+(b) for 'he', wherever occurring, substitute ' the Assembly ', and
+
+(c) for 'him' substitute ' the Assembly '.
+
+- 5 (1) Paragraph 2 is amended as follows.
+
+- In sub-paragraph (1)-
+
+(a) after 'by a foundation body' insert ' in Wales ',
+
+(b) in paragraph (a) omit the words from 'or acquired' to the end, and
+
+(c) in paragraph (d) for 'Secretary of State' substitute ' Assembly '.
+
+- After that sub-paragraph insert-
+
+'(1A) A 'foundation body in Wales' means a foundation body where each of the schools comprising the group of schools for which the foundation body acts is maintained by a local education authority in Wales.'
+
+- In sub-paragraphs (2) and (3) for 'Secretary of State' substitute ' Assembly '.
+
+- In sub-paragraph (3)-
+
+(a) for 'his' substitute ' its ', and
+
+(b) for 'he', wherever occurring, substitute ' the Assembly '.
+
+##### Commencement Information
+I320 Sch. 4 para. 4 in force at 25.5.2007 by S.I. 2007/935, art. 7(p) (with art. 8(5))
+
+[[END OF PAGE 228]]
+
+[[START OF PAGE 229]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+229
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I321 Sch. 4 para. 5 in force at 25.5.2007 by S.I. 2007/935, art. 7(p) (with art. 8(5))
+
+- 6 (1) Paragraph 2A is amended as follows.
+
+- In sub-paragraph (1) after 'trustees of a foundation or foundation special school' insert ' in Wales '.
+
+- In sub-paragraphs (3) and (4) for 'Secretary of State' substitute ' Assembly '.
+
+- In sub-paragraph (4)-
+
+(a) for 'his' substitute ' its ', and
+
+(b) for 'he', wherever occurring, substitute ' the Assembly '.
+
+- In sub-paragraph (6) after 'foundation special school' insert ' in Wales '.
+
+- 7 (1) Paragraph 3 is amended as follows.
+
+- In sub-paragraph (1)-
+
+(a) after 'foundation special school' insert ' in Wales ',
+
+(b) in paragraph (a) omit the words from 'or acquired' to the end,
+
+(c) omit paragraph (d), and
+
+(d) in paragraph (f) omit '(d) or'.
+
+- In sub-paragraph (2) after 'voluntary aided school' insert ' in Wales '.
+
+- In sub-paragraphs (3) and (4) for 'Secretary of State' substitute ' Assembly '.
+
+- In sub-paragraph (8) omit '(d),'.
+
+- In sub-paragraph (9)-
+
+(a) for 'Secretary of State', wherever occurring, substitute ' Assembly ', and
+
+(b) for 'he' substitute ' the Assembly '.
+
+- In sub-paragraph (12) after 'foundation special school' insert ' in Wales '.
+
+- 8 (1) Paragraph 4 is amended as follows.
+
+- In sub-paragraph (1)-
+
+(a) after 'local education authority' insert ' in Wales ', and
+
+(b) for 'Secretary of State' substitute ' Assembly '.
+
+- In sub-paragraph (2)-
+
+(a) for 'Secretary of State' substitute ' Assembly ', and
+
+##### Commencement Information
+I322 Sch. 4 para. 6 in force at 25.5.2007 by S.I. 2007/935, art. 7(p) (with art. 8(5))
+
+##### Commencement Information
+I323
+
+Sch. 4 para. 7 in force at 25.5.2007 by S.I. 2007/935, art. 7(p) (with art. 8(5))
+
+[[END OF PAGE 229]]
+
+[[START OF PAGE 230]]
+
+230
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) for 'he' substitute ' the Assembly '.
+
+- 9 (1) Paragraph 5 is amended as follows.
+
+- In sub-paragraph (1)(b)-
+
+(a) for 'Secretary of State' substitute ' appropriate authority ', and
+
+(b) for sub-paragraphs (i) and (ii) substitute-
+
+'(i) under section 19(1) requiring a foundation, voluntary or foundation special school in Wales to be discontinued,
+
+(ii) under section 32(1) requiring a foundation special school in Wales to be discontinued,
+
+(iii) under section 68(1) of the Education and Inspections Act 2006 requiring a foundation, voluntary or foundation special school in England to be discontinued, or
+
+(iv) under section 17(1) of that Act requiring a foundation special school in England to be discontinued.'
+
+- In sub-paragraph (2) for the words from 'Secretary of State' to the end substitute 'appropriate authority for it to exercise its powers under sub-paragraph (4) below in relation to-
+
+(a) if  the  school  is  in  England,  any  land  falling  within  paragraphs (a)  to  (i)  of  paragraph  A1(1)  other  than  land  falling  within  subparagraph (2A), or
+
+(b) if the school is in Wales, any land falling within paragraphs (a) to (f) of paragraph 1(1),
+
+##### Commencement Information
+I324 Sch. 4 para. 8 in force at 25.5.2007 by S.I. 2007/935, art. 7(p) (with art. 8(5))
+
+which is held by the body for the purposes of the school. '
+
+- After sub-paragraph (2) insert-
+
+'(2A) Land falls within this sub-paragraph if it is-
+
+(a) land falling within paragraph (g) of paragraph A1(1) by virtue of being land enhanced in value as mentioned in that paragraph, or
+
+(b) land falling within paragraph (i) of paragraph A1(1) by virtue of being land acquired, or enhanced in value, wholly or partly with the proceeds of disposal of any land falling within paragraph (a) above.
+
+(2B) If the school is in England and the governing body dispose of any land falling within sub-paragraph (2A) which is held by them for the purposes of the school, paragraph A1 shall apply to them.'
+
+- In sub-paragraph (3) for the words from 'Secretary of State' to the end substitute 'appropriate authority for it to exercise its powers under sub-paragraph (4) below in relation to-
+
+[[END OF PAGE 230]]
+
+[[START OF PAGE 231]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+231
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) if  the  school  is  in  England,  any  land  falling  within  paragraphs (a)  to  (h)  of  paragraph  A7(1)  other  than  land  falling  within  subparagraph (3A), or (b) if the school is in Wales, any land falling within paragraphs (a) to (f) of paragraph 2(1), which is held by the body for the purposes of the schools comprising the group. ' (6) After sub-paragraph (3) insert'(3A) Land falls within this sub-paragraph if it is(a) land falling within paragraph (f) of paragraph A7(1) by virtue of being land enhanced in value as mentioned in that paragraph, or (b) land falling within paragraph (h) of paragraph A7(1) by virtue of being land acquired, or enhanced in value, wholly or partly with the proceeds of disposal of any land falling within paragraph (a) above. (3B) If the school is in England and the foundation body disposes of any land falling within sub-paragraph (3A) which is held by it for the purposes of the schools comprising the group, paragraph A7 shall apply to it.' (7) In sub-paragraph (4)(a) for 'Secretary of State' substitute ' appropriate authority ', (b) for paragraph (a) substitute'(a) require  the  land  or  any  part  of  the  land  to  be  transferred to  such  local  authority  as  the  appropriate  authority  may specify,  subject  to  the  payment  by  that  local  authority  of such sum by way of consideration (if any) as the appropriate authority determines to be appropriate;', (c) in paragraph (b) for 'him' and 'he' substitute ' the appropriate authority ', and (d) in paragraph (c) for 'he' substitute ' the appropriate authority '. (8) After sub-paragraph (4) insert'(4ZA) Where the school is in England, the trustees of the school shall apply to the appropriate authority for it to exercise its powers under sub-paragraph (4B) in relation to any land falling within paragraph A13(1), (2) or (3), other than land falling within sub-paragraph (4ZB), which is held by the trustees for the purposes of the school. (4ZB) Land falls within this sub-paragraph if it is(a) land falling within paragraph (j) of paragraph A13(1) by virtue of being land enhanced in value as mentioned in that paragraph, or (b) land falling within paragraph (k) of paragraph A13(1) by virtue of being land acquired, or enhanced in value, wholly or partly with the proceeds of disposal of any land falling within paragraph (a) above.' (9) In sub-paragraph (4A)(a) after 'Where the school' insert ' is in Wales and ', and (b) for  'Secretary  of  State  for  him  to  exercise  his'  substitute  '  appropriate authority for it to exercise its '.
+
+(10) In sub-paragraph (4B)- Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+[[END OF PAGE 231]]
+
+[[START OF PAGE 232]]
+
+232
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+(a) after 'under sub-paragraph' insert ' (4ZA) or ',
+
+(b) for 'Secretary of State' substitute ' appropriate authority ',
+
+(c) for paragraph (a) substitute-
+
+'(a) require  the  land  or  any  part  of  the  land  to  be  transferred to  such  local  authority  as  the  appropriate  authority  may specify,  subject  to  the  payment  by  that  local  authority  of such sum by way of consideration (if any) as the appropriate authority determines to be appropriate;',
+
+(d) in paragraph (b) for the words from 'for the purposes of another' to the end substitute '-
+
+(i) in the case of a school in England, for the purposes of  another  foundation,  voluntary  or  foundation special school, or
+
+(ii) in the case of a school in Wales, for the purposes of another foundation or foundation special school or for the purposes of a voluntary school,
+
+direct the trustees to exercise that power in such manner as the appropriate authority may specify; ',
+
+(e) in paragraph (c) after 'sub-paragraph' insert ' (4ZA) or, as the case may be, ', and
+
+(f) in  paragraphs  (c)  and  (d)  for  'he',  wherever  occurring,  substitute  '  the appropriate authority '.
+
+- In sub-paragraph (5)-
+
+(a) after '(3)' insert ' , (4ZA) ', and
+
+(b) for 'Secretary of State' substitute ' appropriate authority '.
+
+- After that sub-paragraph insert-
+
+'(5A) Where the school is in England and the trustees of the school-
+
+(a) dispose of any land falling within sub-paragraph (4ZB), or
+
+(b) wish  to  use  any  such  land  for  purposes  not  connected  with  the provision of education in maintained schools,
+
+paragraph A13 shall apply to them.'
+
+- In sub-paragraph (6) after 'Where' insert ' the school is in Wales and '.
+
+- 10 (1) Paragraph 6 is amended as follows.
+
+- In sub-paragraph (1) for 'Secretary of State's' substitute ' appropriate authority's '.
+
+- In sub-paragraph (2)-
+
+(a) for 'Secretary of State' substitute ' appropriate authority ',
+
+(b) for 'he', wherever occurring, substitute ' the appropriate authority ',
+
+(c) for  'the  authority',  wherever  occurring,  substitute  '  the  local  education authority ', and
+
+##### Commencement Information
+I325 Sch. 4 para. 9 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+[[END OF PAGE 232]]
+
+[[START OF PAGE 233]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+233
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(d) for 'him' substitute ' the appropriate authority '.
+
+- After sub-paragraph (3) insert-
+
+'(3A) Where the school is in England and the trustees of the school-
+
+(a) dispose of any land falling within paragraph A13(1), (2) or (3), or
+
+(b) wish  to  use  any  such  land  for  purposes  not  connected  with  the provision of education in maintained schools,
+
+paragraph A13 shall apply to them.'
+
+- In sub-paragraph (4) after 'Where' insert ' the school is in Wales and '.
+
+- 11 In paragraph 7, in sub-paragraphs (2)(ii), (3)(c) and (6), for 'Secretary of State' substitute ' appropriate authority '.
+
+- 12 In paragraph 8(2)-
+
+(a) for 'Secretary of State' substitute ' appropriate authority ',
+
+(b) for 'he', wherever occurring, substitute ' the appropriate authority ',
+
+(c) for 'him' substitute ' the appropriate authority ', and
+
+(d) for  'the  authority',  wherever occurring, substitute ' the local education authority '.
+
+- 13
+
+##### Commencement Information
+I326 Sch. 4 para. 10 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+##### Commencement Information
+I327 Sch. 4 para. 11 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+##### Commencement Information
+I328 Sch. 4 para. 12 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+After paragraph 8 insert-
+
+#### ' PART 2A
+
+##### MAINTAINED SCHOOL: TRANSFER OF LAND FROM TRUSTEE TO GOVERNING BODY
+
+- 8A (1) This  paragraph  applies  where  the  trustee  of  one  or  more  foundation  or foundation  special  schools  to  which  section  23A  (requirements  as  to foundations) applies is a body corporate.
+
+- Where-
+
+(a) the body corporate has under any enactment passed a resolution for its winding up,
+
+(b) a court has made an order for the winding up of the body corporate,
+
+(c) the  body  corporate  has  been  removed  under  subsection  (4)  of section 3 of the Charities Act 1993 from the register of charities kept under that section, or
+
+[[END OF PAGE 233]]
+
+[[START OF PAGE 234]]
+
+234
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(d) prescribed conditions relating to the ability of the body corporate to pay its debts or to its continued existence as a body corporate or as a charity are met,
+
+the Secretary of State may make an order under this paragraph.
+
+- Conditions may be prescribed under sub-paragraph (2)(d) by reference to the opinion of the Secretary of State as to any prescribed matter.
+
+- An order under this paragraph is an order directing that any land falling within paragraph A13(1)(b) or (2) held by the body corporate on trust for one or more foundation or foundation special schools to which section 23A applies is to be transferred to, and by virtue of the order vest in-
+
+(a) the governing body of the school, or
+
+(b) where the land is held on trust for two or more schools, such of the governing bodies of the schools as the Secretary of State thinks proper.
+
+(5) In a case where-
+
+(a) proposals to establish a new foundation or foundation special school fall  to  be  implemented  under  Schedule  2  to  the  Education  and Inspections Act 2006, and
+
+(b) the local education authority have before the school opening date transferred land to be held on trust for the school,
+
+references in this paragraph to a foundation or foundation special school include references to a proposed such school, references to a governing body include references to a proposed governing body and for the purpose of subparagraph (1) section 23A is to be taken to apply to the proposed school if it would apply to the school when it is established.
+
+- In this paragraph-
+
+'charity' has the same meaning as in the Charities Act 1993;
+
+'foundation'  means  a  foundation  established  otherwise  than under this Act.'
+
+##### Commencement Information
+I329 Sch. 4 para. 13 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+- 14 In paragraph 9(1)-
+
+(a) after 'paragraph' insert ' A5, A11, A17, A23, ', and
+
+(b) for 'or 8(2)(b)' substitute ' , 8(2)(b) or 8A '.
+
+- 15 (1) Paragraph 10 is amended as follows.
+
+- In sub-paragraph (1) after paragraph (d) insert-
+
+##### Commencement Information
+I330 Sch. 4 para. 14 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+'(e)
+
+'the appropriate authority' means-
+
+(i) in relation to a school in England, the Secretary of State, and
+
+[[END OF PAGE 234]]
+
+[[START OF PAGE 235]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+235
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(ii) in relation to a school in Wales, the Assembly.'
+
+- In sub-paragraph (3) after 'paragraphs' insert ' A1(1), A13(1), (2) or (3)(a), A24 to A26, '.
+
+- In sub-paragraph (4) after 'paragraphs' insert ' A1(1), A13(1), '.
+
+- In sub-paragraph (5) for 'paragraph 1(1)' substitute ' paragraphs A1(1) and 1(1) '.
+
+- 16 (1) Paragraph 11 is amended as follows.
+
+- For paragraph (a) of sub-paragraph (1) substitute-
+
+'(a) subject to sub-paragraph (7), 'capital expenditure' means expenditure  of  the  governing  body  in  question  which  falls  to  be capitalised in accordance with proper accounting practices;'.
+
+- In paragraph (b) of that sub-paragraph for 'that Order' substitute ' the Regulatory Reform (Voluntary Aided Schools Liabilities and Funding) (England) Order 2002 '.
+
+- In sub-paragraph (4) for the words from ', either by agreement' to the end substitute
+
+##### Commencement Information
+I331 Sch. 4 para. 15 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+'-
+
+(a) by agreement between the authority and the relevant body, or
+
+(b) by the adjudicator where-
+
+(i) the authority or the relevant body refer the matter to him for determination, and
+
+(ii) by the time of his determination, the matter has not been determined  by  agreement  between  the  authority  and  the relevant body.'
+
+- After sub-paragraph (4) insert-
+
+'(4A) In determining whether to make a reference to the adjudicator under subparagraph (4)(b), the authority or, as the case may be, the relevant body, must have regard, in particular, to any guidance given from time to time by the Secretary of State.
+
+(4B) Before making a reference to the adjudicator under sub-paragraph (4)(b), the authority or, as the case may be, the relevant body, must give the other notice of their intention to make the reference.'
+
+- In sub-paragraph (5)-
+
+(a) for 'Secretary of State' substitute ' adjudicator ', and
+
+(b) after 'particular' insert ' to any guidance given from time to time by the Secretary of State and '.
+
+- After sub-paragraph (5) insert-
+
+'(5A) A determination made by the adjudicator on a reference made to him under sub-paragraph (4)(b) may be varied or revoked by a further determination made by him if-
+
+[[END OF PAGE 235]]
+
+[[START OF PAGE 236]]
+
+236
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) the matter is referred to him by the local education authority or the
+
+relevant body, and
+
+(b) before making the further determination, the adjudicator consults such persons as he considers appropriate.
+
+(5B) In determining whether to make a reference to the adjudicator under subparagraph (5A)(a), the local education authority or the relevant body must have regard, in particular, to any guidance given from time to time by the Secretary of State.
+
+(5C) Sub-paragraph (5) applies in relation  to  the  further  determination  of  any matter by the adjudicator, by virtue of sub-paragraph (5A), as it applies in relation to the original determination of the matter.'
+
+- After sub-paragraph (6) insert-
+
+'(7) The Secretary of State may-
+
+(a) by  regulations  prescribe  classes  or  descriptions  of  expenditure which are to be treated for the purposes of this paragraph as being, or as not being, capital expenditure of any governing body or of any prescribed class or description of governing body;
+
+(b) by direction provide that expenditure of a particular governing body which is  expenditure  of  a  particular  class  or  description  is  to  be treated for the purposes of this paragraph as being, or as not being, capital expenditure of that body.
+
+- Directions under sub-paragraph (7)(b) may be expressed to have effect in specified circumstances or subject to specified conditions.'
+
+##### Commencement Information
+I332 Sch. 4 para. 16 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+17
+
+After paragraph 11 insert-
+
+'12 (1) For the purposes of paragraph 11(1)(a), 'proper accounting practices', in relation to a governing body, means those accounting practices-
+
+(a) which, whether by virtue of any enactment or by reference to any generally  recognised  published  code  or  otherwise,  are  regarded as  proper  accounting  practices  to  be  followed  in  the  keeping  of accounts by the governing body, or
+
+(b) which, whether by virtue of any enactment or by reference to any generally  recognised  published  code  or  otherwise,  are  regarded as  proper  accounting  practices  to  be  followed  in  the  keeping  of accounts by the local education authority.
+
+(2) In  the  event  of  conflict  between  the  accounting  practices  falling  within paragraph (a) of sub-paragraph (1) and those falling within paragraph (b) of that sub-paragraph, only those falling within paragraph (a) are to be regarded as proper accounting practices.'
+
+[[END OF PAGE 236]]
+
+[[START OF PAGE 237]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+237
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I333 Sch. 4 para. 17 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+#### PART 2
+
+##### AMENDMENTS TO SECTION 77 OF SSFA 1998
+
+- 18 (1) Section 77 of SSFA 1998 (control of disposals or changes of use of school playing fields in relation to England) is amended as follows.
+
+- In subsection (1)-
+
+(a) for 'Except' substitute ' Subject to subsections (2A) and (2B), except ', and
+
+(b) after 'a body' insert ' or trustees '.
+
+- For subsection (2) substitute-
+
+'(2) Subsection (1) applies to-
+
+(a) a local authority;
+
+(b) the governing body of a maintained school;
+
+(c) a foundation body;
+
+(d) the trustees of a foundation, voluntary or foundation special school.'
+
+- After subsection (2) insert-
+
+'(2A) Subsection (1) applies in the case of a disposal by the trustees of a foundation, voluntary or foundation special school, only if the disposal is of land falling within paragraph A13(1), (2) or (3) of Schedule 22.
+
+(2B) Subsection (1) does not apply-
+
+(a) to a disposal in pursuance of a transfer order under paragraph A23 of that Schedule, or
+
+(b) to a disposal to which paragraph 5 or 6 of Schedule 22 (disposals on discontinuance) applies.'
+
+- In subsection (3)-
+
+(a) for 'Except' substitute ' Subject to subsections (4) and (4A), except ',
+
+(b) for 'a local authority' substitute ' a body or trustees to whom subsection (1) applies ', and
+
+(c) for 'falling within subsection (1)' substitute ' which falls within subsection (1) or is excluded from that subsection by subsection (2B)(a) or (b) '.
+
+- In subsection (4) omit 'by a local authority'.
+
+- After subsection (4) insert-
+
+'(4A) Subsection (3) applies in relation to the trustees of a foundation, voluntary or foundation special school only if the playing fields in question are land falling within paragraph A13(1), (2) or (3) of Schedule 22.'
+
+- In subsection (7), at the appropriate place, insert-
+
+[[END OF PAGE 237]]
+
+[[START OF PAGE 238]]
+
+238
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 4 - Disposals and changes of use of land
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+''maintained school' includes a maintained nursery school;'.
+
+##### Commencement Information
+I334 Sch. 4 para. 18 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+#### PART 3
+
+##### CONSEQUENTIAL AMENDMENTS
+
+- 19 In section 75(2) of SSFA 1998 (transfer of land by governing body to trustees) after 'Paragraph' insert ' A1 or '.
+
+- 21 In section 138 of SSFA 1998 (orders and regulations), in subsection (2)(b) (orders not made by statutory instrument), for 'or 7(3)(c)' substitute ' , 7(3)(c) or 8A '.
+
+- 22 In  Schedule  3  to  SSFA  1998  (funding  of  foundation,  voluntary  and  foundation special schools), in paragraph 2, in sub-paragraph (10), after 'paragraphs' insert ' A1 to A16 or '.
+
+- 23 In Schedule 32 to SSFA 1998 (transitional provisions and savings), in paragraph 4(4)-
+
+(a) in paragraph (a) for 'paragraph 1(1)(d)' substitute ' paragraphs A1(1)(f) and 1(1)(d) ',
+
+(b) in paragraph (b) for 'paragraph 2(1)(d)' substitute ' paragraphs A7(1)(e) and 2(1)(d) ', and
+
+(c) in paragraph (c) for 'paragraph 3(1)(e)' substitute ' paragraphs A13(1)(g) and 3(1)(e) '.
+
+##### Commencement Information
+I335 Sch. 4 para. 19 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+F257 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F257 Sch. 4 para. 20 repealed (19.7.2007) by Finance Act 2007 (c. 11), Sch. 27 Pt. 4(3)
+##### Commencement Information
+I336 Sch. 4 para. 20 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+##### Commencement Information
+I337 Sch. 4 para. 21 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+##### Commencement Information
+I338 Sch. 4 para. 22 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+[[END OF PAGE 238]]
+
+[[START OF PAGE 239]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 5 - Funding of maintained schools
+
+Document Generated: 2020-04-22
+
+239
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I339 Sch. 4 para. 23 in force at 25.5.2007 by S.I. 2007/935, art. 7(p)
+
+## SCHEDULE 5
+
+### FUNDING OF MAINTAINED SCHOOLS
+
+- 1 In section 17(6) of SSFA 1998 (power of [ F3 local authority ] to  suspend right to delegated budget), omit the words from 'but' onwards.
+
+- F3 Words  in  Act  substituted  (5.5.2010)  by  The  Local  Education  Authorities  and  Children's  Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+- 2 (1) Section 47A of SSFA 1998 (schools forums) is amended as follows.
+
+- In  subsection  (3)(b),  for  the  words  from  'function'  to  the  end  substitute  '  other function that may be imposed on the schools forum by or under this Chapter '.
+
+- Omit subsection (6) (which enables regulations under subsection (5) of that section to enable the Secretary of State or the Assembly to remove a non-schools member from membership of a schools forum).
+
+- For subsection (9) substitute-
+
+'(9) In this section 'relevant authority', in relation to a schools forum, means the local education authority by whom the forum is established.'
+
+- 3 (1) Section 48 of SSFA 1998 (local education authorities' financial schemes) is amended as follows.
+
+- In subsection (1), for 'prepare' substitute ' maintain '.
+
+- In subsection (3), for 'prepared' substitute ' maintained '.
+
+- In subsection (4), omit the words from 'the approval' to 'and for'.
+
+- In subsection (5), for the words from 'the scheme prepared' to the end substitute ' the scheme for the time being maintained under this section '.
+
+I340 Sch. 5 para. 1 in force at 8.2.2007 for E. by S.I. 2006/3400, I341 Sch. 5 para. 1 in force at 2.4.2010 for W. by S.I. 2010/736, art. 3(c)
+
+##### Textual Amendments
+##### Commencement Information
+art. 4(c)
+
+##### Commencement Information
+I342 Sch. 5 para. 2 in force at 8.2.2007 for E. by S.I. 2006/3400, art. 4(c) I343 Sch. 5 para. 2 in force at 2.4.2010 for W. by S.I. 2010/736, art. 3(c)
+
+Section 57
+
+[[END OF PAGE 239]]
+
+[[START OF PAGE 240]]
+
+240
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 5 - Funding of maintained schools
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I344 Sch. 5 para. 3 in force at 8.2.2007 for E. by S.I. 2006/3400, art. 4(c) I345 Sch. 5 para. 3 in force at 15.3.2010 for specified purposes for W. by S.I. 2010/736, art. 2(b) (with art. 4) I346 Sch. 5 para. 3 in force at 2.4.2010 for W. in so far as not already in force by S.I. 2010/736, art. 3(c) (with art. 4)
+
+- 4 In section 49 of SSFA 1998 (maintained schools to have delegated budgets) for subsections (2) and (3) substitute-
+
+'(2) A  new  school  shall  have  a  delegated  budget  from  a  date  determined  in accordance with regulations.
+
+(2A) Regulations under subsection (2) may-
+
+(a) enable  the  date  that  would  otherwise  apply  by  virtue  of  the regulations  to  be  varied  in  accordance  with  the  regulations,  on the application of the local education authority, by the authority's schools forum or by the Secretary of State, and
+
+(b) make provision about the respective powers of the schools forum and the Secretary of State in relation to any application to vary that date.'
+
+- 5 (1) Schedule 14 to SSFA 1998 (approval, imposition and revision of local education authority schemes) is amended as follows.
+
+- For the heading substitute ' REVISION OF LOCAL EDUCATION AUTHORITY SCHEMES '.
+
+- For the italic heading immediately before paragraph 1 substitute ' Publication of schemes '.
+
+- In paragraph 1-
+
+(a) omit sub-paragraphs (1) to (6), and
+
+(b) for sub-paragraph (7) substitute-
+
+'(7) A scheme  maintained by a local education authority  under section  48(1)  shall  be  published  in  such  manner  as  may  be prescribed-
+
+(a) on its coming into force as revised under this Schedule, and
+
+(b) on such other occasions as may be prescribed.'
+
+- For paragraph 2 substitute-
+
+'2A(1) A local education authority may, in accordance with this paragraph, revise the whole or part of the scheme maintained by them under section 48(1).
+
+##### Commencement Information
+I347 Sch. 5 para. 4 in force at 8.2.2007 for E. by S.I. 2006/3400, art. 4(c) I348 Sch. 5 para. 4 in force at 15.3.2010 for specified purposes for W. by S.I. 2010/736, art. 2(b) (with art. 4) I349 Sch. 5 para. 4 in force at 2.4.2010 for W. in so far as not already in force by S.I. 2010/736, art. 3(c) (with art. 4)
+
+[[END OF PAGE 240]]
+
+[[START OF PAGE 241]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 5 - Funding of maintained schools
+
+Document Generated: 2020-04-22
+
+241
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In revising the scheme, the local education authority shall take into account any guidance given by the Secretary of State, whether-
+
+(a) generally, or
+
+(b) in  relation  to  that  authority  or  any  class  or  description  of  local education authorities to which that authority belongs,
+
+as to the provisions the Secretary of State regards as appropriate for inclusion in the scheme.
+
+(3) As regards any proposed variation of the scheme, the authority-
+
+(a) shall  first  consult  the  governing  body  and  head  teacher  of  every school  maintained  by  the  authority  (within  the  meaning  of  this Chapter), and
+
+(b) shall then submit a copy of their proposals to the authority's schools forum for their approval.
+
+- 2B (1) Regulations  may  make  provision  preventing  schemes  as  revised  from coming  into  force  unless  they  are  approved  in  accordance  with  the regulations  by  the  local  education  authority's  schools  forum  or  by  the Secretary of State.
+
+- The regulations may in particular-
+
+(a) prescribe  circumstances  in  which  proposals  which  have  been submitted  to  a  local  education  authority's  schools  forum  may  be submitted to the Secretary of State,
+
+(b) enable  the  schools  forum  or  the  Secretary  of  State  to  approve proposals with modifications, and
+
+(c) enable the schools forum or the Secretary of State, in giving their or his approval, to specify the date on which the scheme as revised is to come into force.'
+
+- 6 In Schedule 15 to SSFA 1998 (suspension of financial delegation), the following provisions (which confer on the governing body a right to appeal to the Secretary of State or the Assembly or relate to that right of appeal) are omitted-
+
+(a) paragraph 1(4) and (6),
+
+(b) paragraph 2(5), and
+
+(c) paragraph 3.
+
+##### Commencement Information
+I350 Sch. 5 para. 5 in force at 8.2.2007 for E. by S.I. 2006/3400, art. 4(c) I351 Sch. 5 para. 5 in force at 15.3.2010 for specified purposes for W. by S.I. 2010/736, art. 2(b) (with art. 4) I352 Sch. 5 para. 5 in force at 2.4.2010 for W. in so far as not already in force by S.I. 2010/736, art. 3(c) (with art. 4)
+
+##### Commencement Information
+I353 Sch. 5 para. 6 in force at 8.2.2007 for E. by S.I. 2006/3400, art. 4(c) I354 Sch. 5 para. 6 in force at 2.4.2010 for W. by S.I. 2010/736, art. 3(c)
+
+[[END OF PAGE 241]]
+
+[[START OF PAGE 242]]
+
+242
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 6 - Governing bodies consisting of interim executive members
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+## SCHEDULE 6
+
+### GOVERNING BODIES CONSISTING OF INTERIM EXECUTIVE MEMBERS
+
+##### Modifications etc. (not altering text)
+
+- C44 Sch. 6 applied (with modifications) by S.I. 2007/2978, reg. 24(2), Sch. 4 (as inserted (1.9.2012) by The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825), regs. 1(1), 2(10) )
+
+###### Interpretation of Schedule
+
+Section 70
+
+- 1 (1) In this Schedule-
+
+'the appropriate authority' means-
+
+(a) where this Schedule applies by virtue of a notice under section 65(1), the local education authority who gave the notice, and
+
+(b) where this Schedule applies by virtue of a notice under section 69(1), the Secretary of State;
+
+'existing governors', in relation to a school in respect of which a notice under  section  65(1)  or  69(1)  has  been  given,  means  the  governors  who hold office immediately before the governing body becomes constituted in accordance with this Schedule;
+
+'the interim period', in relation to a school in respect of which a notice under section 65(1) or 69(1) has been given, means the period during which the governing body is constituted in accordance with this Schedule;
+
+'a  normally  constituted  governing  body'  means  a  governing  body constituted in accordance with regulations made by virtue of section 19 of EA 2002 (governing bodies).
+
+- In  this  Schedule  any  reference  to  the  discontinuance  of  a  maintained  school  is  a reference to the local education authority ceasing to maintain it.
+
+##### Commencement Information
+
+I355 Sch. 6 para. 1 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Governing body to consist of members appointed by appropriate authority
+
+- 2 (1) The  governing  body  of  the  school  shall  consist  of  members  appointed  by  the appropriate authority, instead of being constituted in accordance with regulations made by virtue of section 19 of EA 2002.
+
+- In the following provisions of this Schedule-
+
+(a) the  governing  body  as  constituted  in  accordance  with  this  Schedule  is referred to as 'the interim executive board', and
+
+(b) the  members  of  the  governing  body  as  so  constituted  are  referred  to  as 'interim executive members'.
+
+[[END OF PAGE 242]]
+
+[[START OF PAGE 243]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 6 - Governing bodies consisting of interim executive members
+
+Document Generated: 2020-04-22
+
+243
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I356 Sch. 6 para. 2 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Effect of notice under section 65(1) or 69(1)
+
+- 3 (1) On the date specified in the notice under section 65(1) or 69(1), the existing governors vacate office.
+
+- Sub-paragraph (1) does not prevent the appointment of an existing governor as an interim executive member.
+
+- During the interim period, any reference in any provision contained in, or made under, the Education Acts to a governor or foundation governor of a school has effect, in relation to the school, as a reference to an interim executive member.
+
+- During the  interim  period,  section  83  of  SSFA  1998  (modification  of  provisions making governors of foundation or voluntary school ex officio trustees) has effect in relation to the school with the substitution for paragraphs (a) to (c) of a reference to the interim executive members.
+
+##### Commencement Information
+
+I357 Sch. 6 para. 3 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Interim executive members
+
+- 4 (1) The number of interim executive members must not be less than two.
+
+- The initial appointment of interim executive members must be made so as to take effect on the date specified in the relevant notice.
+
+- The appropriate authority may appoint further interim executive members at any time during the interim period.
+
+##### Commencement Information
+
+I358 Sch. 6 para. 4 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+- 5 (1) Every appointment of an interim executive member must be made by an instrument in writing setting out the terms of his appointment.
+
+- An interim executive member-
+
+(a) holds office in accordance with the terms of his appointment and subject to paragraph 18, and
+
+(b) may at any time be removed from office by the appropriate authority for incapacity or misbehaviour.
+
+- The  terms  of  appointment  of  an  interim  executive  member  may  provide  for  his appointment to be terminable by the appropriate authority by notice.
+
+[[END OF PAGE 243]]
+
+[[START OF PAGE 244]]
+
+244
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 6 - Governing bodies consisting of interim executive members
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I359 Sch. 6 para. 5 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+[ F258 5A Where the appropriate authority is a local authority the Secretary of State may give the local authority directions about-
+
+(a) who to appoint as interim executive members;
+
+(b) how many people to appoint as interim executive members;
+
+(c) the terms of appointment of interim executive members;
+
+(d) the  termination  of  any  appointment  in  accordance  with  provision  made under paragraph 5. ]
+
+##### Textual Amendments
+F258 Sch.  6  para.  5A  inserted  (18.4.2016)  by  Education  and  Adoption  Act  2016  (c.  6), ss.  5 ,  19(2);  S.I. 2016/466, reg. 2
+
+###### Duty of appropriate authority to inform other persons
+
+- 6 (1) The appropriate authority must give a copy of the notice under section 65(1) or 69(1) and of every instrument of appointment of an interim executive member-
+
+(a) to every interim executive member,
+
+(b) to every existing governor of the school,
+
+(c) where  the  local  education  authority  are  the  appropriate  authority,  to  the Secretary of State,
+
+(d) where  the  Secretary  of  State  is  the  appropriate  authority,  to  the  local education authority,
+
+(e) in the case of a foundation or voluntary school which is a Church of England school  or  a  Roman  Catholic  Church  school,  to  the  appropriate  diocesan authority, and
+
+(f) in  the  case  of  any  other  foundation or voluntary school, to the person or persons by whom the foundation governors are appointed.
+
+- A  failure  to  comply  with  sub-paragraph  (1)  does  not  invalidate  the  notice  or appointment.
+
+##### Commencement Information
+I360 Sch. 6 para. 6 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Power to specify duration of interim period
+
+- 7 The appropriate authority may in the notice under section 65(1) or 69(1) specify the duration of the interim period.
+
+##### Commencement Information
+I361 Sch. 6 para. 7 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+[[END OF PAGE 244]]
+
+[[START OF PAGE 245]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 6 - Governing bodies consisting of interim executive members
+
+Document Generated: 2020-04-22
+
+245
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+###### Chairman
+
+- 8 The appropriate authority may nominate one of the interim executive members to be chairman of the interim executive board.
+
+##### Commencement Information
+I362 Sch. 6 para. 8 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Remuneration and allowances
+
+- 9 The  appropriate  authority  may  pay  to  any  interim  executive  member  such remuneration and allowances as the appropriate authority may determine.
+
+##### Commencement Information
+I363 Sch. 6 para. 9 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Duty of interim executive board
+
+- 10 (1) During the interim period, the interim executive board shall conduct the school so as to secure, so far as is practicable to do so, the provision of a sound basis for future improvement in the conduct of the school.
+
+- Sub-paragraph (1) is without prejudice to the other duties of the interim executive board as governing body.
+
+##### Commencement Information
+I364 Sch. 6 para. 10 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Proceedings of interim executive board
+
+- 11 (1) The interim executive board may determine their own procedure.
+
+- The interim executive board may make such arrangements as they think fit for the discharge of their functions by any other person.
+
+##### Commencement Information
+I365 Sch. 6 para. 11 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Effect on suspension of delegated budget
+
+- 12 (1) If, immediately before the date specified in the notice under section 65(1) or 69(1), the school does not have a delegated budget, the suspension of the governing body's right to a delegated budget is by virtue of this sub-paragraph revoked with effect from that date.
+
+- If a notice under paragraph 1 of Schedule 15 to SSFA 1998 (suspension of delegated budget for mismanagement etc) has been given to the governing body before the date
+
+[[END OF PAGE 245]]
+
+[[START OF PAGE 246]]
+
+246
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 6 - Governing bodies consisting of interim executive members
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+specified in a notice under section 65(1) or 69(1) but has not yet taken effect, the notice under that paragraph ceases to have effect on that date.
+
+- During the interim period, the local education authority may not exercise the power conferred by section 66 (power to suspend right to delegated budget).
+
+- Sub-paragraph (1) is to be construed in accordance with section 49(7) of SSFA 1998.
+
+##### Commencement Information
+
+I366 Sch. 6 para. 12 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Exclusion of certain statutory provisions
+
+- 13 (1) Regulations  made  by  virtue  of  subsection  (2)  or  (3)  of  section  19  of  EA  2002 (governing bodies) shall not apply in relation to the interim executive board.
+
+- The  instrument  of  government  of  the  school  shall  not,  so  far  as  it  relates  to  the constitution of the governing body, have effect in relation to the interim executive board.
+
+##### Commencement Information
+I367 Sch. 6 para. 13 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+- 14 During the interim period-
+
+(a) the  local  education  authority  may  not  exercise  any  power  conferred  by section 64 (power to appoint additional governors), and
+
+(b) the Secretary of State may not exercise any power conferred by section 67 (power to appoint additional governors).
+
+##### Commencement Information
+I368 Sch. 6 para. 14 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Closure of school
+
+- 15 (1) At  any  time  during  the  interim  period,  the  interim  executive  board  may,  if  they think fit, make a report to the local education authority and the Secretary of State recommending  that  the  school  be  discontinued,  and  stating  the  reasons  for  that recommendation.
+
+- The interim executive board may not-
+
+(a) publish under section 15(2) proposals to discontinue the school, or
+
+(b) serve notice under section 30 of SSFA 1998.
+
+- 16 (1) Where during the interim period-
+
+##### Commencement Information
+I369 Sch. 6 para. 15 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+[[END OF PAGE 246]]
+
+[[START OF PAGE 247]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 6 - Governing bodies consisting of interim executive members
+
+Document Generated: 2020-04-22
+
+247
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) the  Secretary  of  State  gives  a  direction  under  section  17(1)  or  68(1)  in relation to the school, or
+
+(b) the local education authority determine to discontinue the school,
+
+the interim period is to continue until the discontinuance date, even where it would otherwise end before that date.
+
+(2) In this paragraph 'the discontinuance date' means-
+
+(a) the date on which proposals for discontinuing the school are implemented under Part 4 of Schedule 2,
+
+(b) the date on which the school is discontinued under section 30 of SSFA 1998, or
+
+(c) the date specified in the direction under section 17(1) or 68(1), as the case may be.
+
+##### Commencement Information
+
+I370 Sch. 6 para. 16 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Notice of resumption of government by normally constituted governing body
+
+- 17 (1) Where-
+
+(a) the notice under section 65(1) or 69(1) did not specify the duration of the interim period, and
+
+(b) paragraph 16 does not apply,
+
+the  appropriate  authority  may  give  notice  to  the  persons  mentioned  in  subparagraph  (2)  specifying  a  date  on  which  the  governing  body  are  to  become  a normally constituted governing body.
+
+- The persons referred to in sub-paragraph (1) are-
+
+(a) every interim executive member,
+
+(b) where  the  local  education  authority  are  the  appropriate  authority,  the Secretary of State,
+
+(c) where the Secretary of State is the appropriate authority, the local education authority,
+
+(d) in the case of a foundation or voluntary school which is a Church of England school  or  a  Roman  Catholic  Church  school,  the  appropriate  diocesan authority, and
+
+(e) in the case of any other foundation or voluntary school, the person or persons by whom the foundation governors are appointed.
+
+##### Commencement Information
+I371 Sch. 6 para. 17 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Time when interim executive members cease to hold office
+
+- 18 (1) The interim executive members vacate office-
+
+(a) in a case where paragraph 16 applies, on the discontinuance date within the meaning of that paragraph,
+
+[[END OF PAGE 247]]
+
+[[START OF PAGE 248]]
+
+248
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 7 - Amendments relating to schools causing concern
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) in  a  case  where  that  paragraph  does  not  apply  and  the  notice  under section 65(1) or 69(1) specified the duration of the interim period, at the end of the specified period, and
+
+(c) in any case, on the date specified under paragraph 17(1).
+
+- Sub-paragraph (1) does not prevent the termination of the appointment of an interim executive member at any earlier time under paragraph 5(2)(b) or in accordance with the terms of his appointment.
+
+##### Commencement Information
+I372 Sch. 6 para. 18 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+###### Establishment of normally constituted governing body
+
+- 19 (1) Where interim executive members are to vacate office on the date referred to in paragraph 18(1)(b) or (c), the local education authority must make arrangements providing for the constitution of the governing body on and after that date.
+
+- The  Secretary  of  State  may  by  regulations  make  provision  with  respect  to  the transition from an interim executive board to a normally constituted governing body, and may in connection with that transition-
+
+(a) modify any provision made under any of sections 19, 20 and 23 of EA 2002 or by Schedule 1 to that Act,
+
+(b) apply any such provision with or without modifications, and
+
+(c) make provision corresponding to or similar to any such provision.
+
+- The provision that may be made by virtue of sub-paragraph (2) includes, in particular, provision enabling governors to be elected or appointed, and to exercise functions, before the end of the interim period.
+
+##### Commencement Information
+I373 Sch. 6 para. 19 in force at 1.4.2007 by S.I. 2007/935, art. 5(bb)
+
+## SCHEDULE 7
+
+### AMENDMENTS RELATING TO SCHOOLS CAUSING CONCERN
+
+#### PART 1
+
+##### PRINCIPAL AMENDMENTS
+
+###### Statement to be prepared by [ F3 local authority ] following adverse report on maintained school
+
+- 1 (1) Section 15 of EA 2005 (measures to be taken by local education authority following inspection  report  stating  that  school  requires  special  measures  or  significant improvement) is amended as follows.
+
+Section 71
+
+[[END OF PAGE 248]]
+
+[[START OF PAGE 249]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 7 - Amendments relating to schools causing concern
+
+Document Generated: 2020-04-22
+
+249
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(2) In subsection (1), for 'This section' substitute ' Subsection (2) '. (3) For subsection (2) substitute'(2) The local education authority must(a) consider what action to take in the light of the report, (b) consider what arrangements to make for the purpose of informing registered parents of the proposed action, ascertaining their views on the proposed action and taking account of those views, (c) consider whether those arrangements are to include the appointment of a specified person for that purpose, (d) prepare a written statement(i) of  the  action  they  propose  to  take,  and  the  period  within which they propose to take that action, or, if they do not propose to take such action, of their reasons for not doing so, and (ii) of the arrangements they propose to make for the purpose mentioned in paragraph (b), and (e) send a copy of the statement prepared under paragraph (d) to(i) the Chief Inspector, (ii) in  the  case  of  a  voluntary  aided  school,  the  person  who appoints  the  foundation  governors  and  (if  different)  the appropriate appointing authority, and (iii) such other persons as the Secretary of State may specify. (2A) Subsection (2B) applies where(a) the  local  education  authority  have  prepared  a  statement  under subsection (2) in relation to a school, (b) it appears to the Secretary of State, on the basis of a report of an interim inspection of the school by the Chief Inspector, that the case has become urgent, and (c) no  subsequent  inspection  of  the  school  has  been  made  under section 5. (2B) The Secretary of State may by notice require the local education authority to(a) consider  the  action  to  be  taken  in  the  light  of  the  report  of  the interim inspection and the arrangements to be made for the purpose mentioned in subsection (2)(b), (b) prepare a written statement(i) of  the  action  they  propose  to  take,  and  the  period  within which they propose to take that action, or, if they do not propose to take such action, of their reasons for not doing so, and (ii) of the arrangements they propose to make for the purpose mentioned in subsection (2)(b), and (c) send a copy of the statement to the Secretary of State and to the persons mentioned in subsection (2)(e)(i) to (iii).
+
+[[END OF PAGE 249]]
+
+[[START OF PAGE 250]]
+
+250
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 7 - Amendments relating to schools causing concern
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(2C) For the purposes of subsections (2A) and (2B) an 'interim inspection' is an inspection under section 8 in respect of which no election under section 9 is made.'
+
+- In subsection (3) for 'the statement' substitute ' a statement under subsection (2) or (2B) '.
+
+- After subsection (3) insert-
+
+'(4) In performing their functions under subsections (2)(a), (b), (c) and (d) and (2B)(a)  and  (b),  the  local  education  authority  must  have  regard  to  any guidance given from time to time by the Secretary of State.'
+
+##### Commencement Information
+I374 Sch. 7 para. 1 in force at 1.4.2007 by S.I. 2007/935, art. 5(cc)
+
+###### Statement to be prepared by proprietor following adverse report on non-maintained school
+
+- 2 (1) Section 17 of EA 2005 (statement to be prepared by proprietor of school other than maintained school) is amended as follows.
+
+- In subsection (1)-
+
+(a) at the beginning insert ' Subsection (1A) applies ', and
+
+(b) omit all the words following paragraph (b).
+
+- After subsection (1) insert-
+
+'(1A) The proprietor must-
+
+(a) consider what action to take in the light of the report,
+
+(b) consider what arrangements to make for the purpose of informing registered parents of the proposed action, ascertaining their views on the proposed action and taking account of those views,
+
+(c) consider whether those arrangements are to include the appointment of a specified person for that purpose, and
+
+(d) prepare a written statement-
+
+(i) of the action the proprietor proposes to take, and the period within which he proposes to take that action, or, if he does not propose to take such action, of his reasons for not doing so, and
+
+(ii) of the arrangements he proposes to make for the purpose mentioned in paragraph (b).
+
+(1B) Subsection (1C) applies where-
+
+(a) the proprietor of a school has prepared a statement under subsection (1A) in relation to the school,
+
+(b) it appears to the Secretary of State, on the basis of a report of an interim inspection of the school by the Chief Inspector, that the case has become urgent, and
+
+(c) no  subsequent  inspection  of  the  school  has  been  made  under section 5.
+
+[[END OF PAGE 250]]
+
+[[START OF PAGE 251]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 7 - Amendments relating to schools causing concern
+
+Document Generated: 2020-04-22
+
+251
+
+F259 3
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(1C) The Secretary of State may by notice require the proprietor to-
+
+(a) consider  the  action  to  be  taken  in  the  light  of  the  report  of  the interim inspection and the arrangements to be made for the purpose mentioned in subsection (1A)(b), and
+
+(b) prepare a written statement-
+
+(i) of the action the proprietor proposes to take, and the period within which he proposes to take that action, or, if he does not propose to take such action, of his reasons for not doing so, and
+
+(ii) of the arrangements the proprietor proposes to make for the purpose mentioned in subsection (1A)(b)'.
+
+(1D) For the purposes of subsections (1B) and (1C) an 'interim inspection' is an inspection under section 8 in respect of which no election under section 9 is made.'
+
+- In subsection (3)-
+
+(a) for 'such a statement' substitute ' a statement under subsection (1A) or (1C) ', and
+
+(b) before the word 'and' at the end of paragraph (a) insert-
+
+'(aa) in  the  case  of  a  statement  under  subsection  (1C),  to  the Secretary of State,'.
+
+- After subsection (4) insert-
+
+'(5) In performing his functions under subsections (1A)(a), (b), (c) and (d) and (1C)(a) and (b), the proprietor must have regard to any guidance given from time to time by the Secretary of State.'
+
+##### Commencement Information
+
+I375 Sch. 7 para. 2 in force at 1.4.2007 by S.I. 2007/935, art. 5(cc)
+
+#### PART 2
+
+##### MINOR AND CONSEQUENTIAL AMENDMENTS
+
+#### School Standards and Framework Act 1998 (c. 31)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013
+
+F259 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+F259 4
+
+[[END OF PAGE 251]]
+
+[[START OF PAGE 252]]
+
+252
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 7 - Amendments relating to schools causing concern
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+F259 5
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+F259 6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+F259 7
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+F259 8
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+F259 9
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+F259 10
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+F259 11
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[END OF PAGE 252]]
+
+[[START OF PAGE 253]]
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 7 - Amendments relating to schools causing concern
+
+Document Generated: 2020-04-22
+
+253
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+F259 12
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+F259 13
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+F259 14
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F259 Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+- 15 In section 142 of SSFA 1998 (interpretation), in subsection (4)-
+
+(a) after 'this Act' insert ' (or Part 4 of the Education and Inspections Act 2006) ', and
+
+(b) in paragraph (b), after 'section 16(6) or (8)' insert ' or of section 64(4) or (6) of the Education and Inspections Act 2006 '.
+
+##### Commencement Information
+
+I376 Sch. 7 para. 15 in force at 1.4.2007 by S.I. 2007/935, art. 5(cc)
+
+F260 16
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F260 Sch. 7 para. 16 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+F261 17
+
+[[END OF PAGE 253]]
+
+[[START OF PAGE 254]]
+
+254
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 7 - Amendments relating to schools causing concern
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+Sch. 7 para. 17 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013
+
+F261 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+#### Learning and Skills Act 2000 (c. 21)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+F262 18
+
+##### Textual Amendments
+
+F262 Sch. 7 para. 18 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+#### Education Act 2002 (c. 32)
+
+- 19 In section 25 of EA 2002 (federations: supplementary provisions), in subsection (1) -
+
+(a) before paragraph (a) insert-
+
+'(za) Part 4 of the Education and Inspections Act 2006 (schools causing concern: England),', and
+
+F263 (b)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F263 Sch. 7 para. 19(b) omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+- 20 After section 62 of EA 2002 insert-
+
+###### ' 62A Power to require [ F3 local authority] in England to obtain advisory services
+
+' 62A ' 62A Power to require [ F3 local authority] in England to obtain advisory services
+
+- This section applies where-
+
+(a) one  or  more  schools  maintained  by  a  local  education  authority in  England  are  for  the  purposes  of  Part  4  of  the  Education  and Inspections Act 2006 (schools causing concern: England) eligible for intervention by virtue of either of the following provisions of that Act-
+
+(i) section 61 (school requiring significant improvement), or
+
+(ii) section 62 (school requiring special measures), and
+
+(b) it  appears  to  the  Secretary  of  State  that  the  local  education authority-
+
+(i) have  not  been  effective  or  are  unlikely  to  be  effective  in eliminating  deficiencies  in  the  conduct  of  that  school  or those schools,
+
+[[END OF PAGE 254]]
+
+[[START OF PAGE 255]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 7 - Amendments relating to schools causing concern
+
+Document Generated: 2020-04-22
+
+255
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(ii) are unlikely to be effective in eliminating deficiencies in the conduct of other schools which may in the future fall within paragraph (a), or
+
+(iii) maintain  a  disproportionate  number  of  schools  falling within that paragraph.
+
+- The Secretary of State may direct the local education authority to enter into a contract or other arrangement with a person specified in the direction, or a person falling within a class so specified, for the provision to the authority or the governing body of any school maintained by them (or both) of specified services of an advisory nature.
+
+- The  direction  may  require  the  contract  or  other  arrangement  to  contain specified terms and conditions.
+
+- In this section 'school' means a community, foundation or voluntary school, a community or foundation special school or a maintained nursery school.
+
+- Any direction given under this section shall be enforceable, on an application made on behalf of the Secretary of State, by a mandatory order.'
+
+##### Textual Amendments
+
+- F3 Words  in  Act  substituted  (5.5.2010)  by  The  Local  Education  Authorities  and  Children's  Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+I377 Sch. 7 para. 20 in force at 1.4.2007 by S.I. 2007/935, art. 5(cc)
+
+F264 21
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F264 Sch. 7 para. 21 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(2) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+- 22 (1) Section 64 (provisions supplementary to section 63) is amended as follows.
+
+- In subsections (1) and (2), for 'section 63' substitute ' section 62A or 63 '.
+
+- In subsection (7)-
+
+(a) in  the  definition  of  'the  advisory  services'  for  'section  63'  substitute  ' section 62A or 63 ', and
+
+(b) in the definition of 'the relevant person', in paragraph (a) for 'section 63(2)' substitute ' section 62A(2) or 63(2) '.
+
+- In the heading, for 'section 63' substitute ' sections 62A and 63 '.
+
+##### Commencement Information
+I378
+
+Sch. 7 para. 22 in force at 1.4.2007 by S.I. 2007/935, art. 5(cc)
+
+[[END OF PAGE 255]]
+
+[[START OF PAGE 256]]
+
+256
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 8 - Travel to schools etc: meaning of 'eligible child'
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### Education Act 2005 (c. 18)
+
+- 23 In  section  5  of  EA  2005  (duty  to  inspect  schools  at  prescribed  intervals),  in subsection (4)(c), for 'section 19 or 32 of that Act' substitute ' section 17 or 68 of the Education and Inspections Act 2006 '.
+
+##### Commencement Information
+
+I379 Sch. 7 para. 23 in force at 1.4.2007 by S.I. 2007/935, art. 5(cc)
+
+- 24 In section 18 of EA 2005 (interpretation of Chapter 2 of Part 1), in paragraph (a) of the definition of 'appropriate appointing authority', omit ', a Church in Wales school'.
+
+##### Commencement Information
+
+I380 Sch. 7 para. 24 in force at 1.4.2007 by S.I. 2007/935, art. 5(cc)
+
+## SCHEDULE 8
+
+### TRAVEL TO SCHOOLS ETC: MEANING OF 'ELIGIBLE CHILD'
+
+##### Commencement Information
+
+I381 Sch. 8 in force at 1.9.2007 for specified purposes by S.I. 2007/1801, art. 4(k)
+
+I382 Sch. 8 in force at 1.9.2008 in so far as not already in force by S.I. 2008/1971, art. 2(b)
+
+After Schedule 35A to EA 1996 insert-
+
+#### 'SCHEDULE 35B
+
+Section 77
+
+Section 508B
+
+##### MEANING OF 'ELIGIBLE CHILD' FOR PURPOSES OF SECTION 508B
+
+- 1 For the purposes of section 508B (travel arrangements for eligible children) an 'eligible child' means a child who falls within any of paragraphs 2 to 7 or 9 to 13.
+
+###### Children with special educational needs, a disability or mobility problems
+
+- 2 A child falls within this paragraph if-
+
+(a) he is of compulsory school age and is any of the following-
+
+- a child with special educational needs;
+
+- a disabled child;
+
+- a child with mobility problems,
+
+(b) he is a registered pupil at a qualifying school which is within walking distance of his home,
+
+(c) no suitable arrangements have been made by the local education authority for enabling him to become a registered pupil at a qualifying school nearer to his home, and
+
+(d) having regard to whichever of the following are relevant-
+
+[[END OF PAGE 256]]
+
+[[START OF PAGE 257]]
+
+Education and Inspections Act 2006 (c. 40) 257
+
+SCHEDULE 8 - Travel to schools etc: meaning of 'eligible child'
+
+Document Generated: 2020-04-22
+
+Status:
+
+This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+his special educational needs; his disability; his mobility problems, he  cannot  reasonably  be  expected  to  walk  to  the  school  mentioned  in paragraph (b). 3 A child falls within this paragraph if(a) he is of compulsory school age and is any of the followinga child with special educational needs; a disabled child; a child with mobility problems, (b) he is receiving education at a place other than a school by virtue of arrangements made in pursuance of section 19(1), and (c) having regard to whichever of the following are relevanthis special educational needs; his disability; his mobility problems, he cannot reasonably be expected to walk to that place.
+###### Children who cannot reasonably be expected to walk because of nature of routes
+4 A child falls within this paragraph if(a) he is of compulsory school age and is a registered pupil at a qualifying school which is within walking distance of his home, (b) no suitable arrangements have been made by the local education authority for enabling him to become a registered pupil at a qualifying school nearer to his home, and (c) having regard to the nature of the routes which he could reasonably be expected to take, he cannot reasonably be expected to walk to the school mentioned in paragraph (a). 5 A child falls within this paragraph if(a) he is of compulsory school age and is receiving education at a place other than a school by virtue of arrangements made in pursuance of section 19(1), and (b) having regard to the nature of the routes which he could reasonably be expected to take, he cannot reasonably be expected to walk to that place.
+###### Children outside walking distance where no suitable alternative arrangements made
+6 A child falls within this paragraph if(a) he is of compulsory school age and is a registered pupil at a qualifying school which is not within walking distance of his home, (b) no suitable arrangements have been made by the local education authority for boarding accommodation for him at or near the school, and (c) no suitable arrangements have been made by the local education authority for enabling him to become a registered pupil at a qualifying school nearer to his home. 7 A child falls within this paragraph if- Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 257]]
+
+[[START OF PAGE 258]]
+
+258
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 8 - Travel to schools etc: meaning of 'eligible child'
+
+Document Generated: 2020-04-22
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) he is of compulsory school age and is receiving education at a place other than a school by virtue of arrangements made in pursuance of section 19(1),
+
+(b) that place is not within walking distance of his home,
+
+(c) no suitable arrangements have been made by the local education authority for boarding accommodation for him at or near that place, and
+
+(d) no suitable arrangements have been made by the local education authority for enabling him to become a registered pupil at a qualifying school nearer to his home.
+
+8 (1) Where-
+
+(a) a child of compulsory school age has been excluded from a relevant school,
+
+(b) he remains for the time being a registered pupil at the school, and
+
+(c) he is required by the appropriate authority for the school to attend at a place outside  the  school  premises  for  the  purpose  of  receiving  any  instruction  or training,
+
+paragraph 6 has effect as if the place at which the child is required to attend were a qualifying school and the child were a registered pupil at that school (and not at the school mentioned in paragraph (b)).
+
+(2) For the purposes of sub-paragraph (1)-
+
+(a) 'relevant  school'  and  'appropriate  authority'  have  the  same  meaning  as  in section 444ZA (application of section 444 to alternative educational provision), and
+
+(b) subsection  (3)  of  that  section  applies  in  relation  to  that  sub-paragraph  as  it applies in relation to subsection (2) of that section.
+
+###### Children entitled to free school meals etc
+
+- 9 A child falls within this paragraph if-
+
+(a) he has attained the age of 8 but not the age of 11,
+
+(b) he is a registered pupil at a qualifying school which is more than two miles from his home,
+
+(c) no suitable arrangements have been made by the local education authority for enabling him to become a registered pupil at a qualifying school nearer to his home, and
+
+(d) the appropriate condition is met in relation to him.
+
+- 10 A child falls within this paragraph if-
+
+(a) he has attained the age of 8 but not the age of 11,
+
+(b) he is receiving education at a place other than a school by virtue of arrangements made in pursuance of section 19(1),
+
+(c) that place is more than two miles from his home, and
+
+(d) the appropriate condition is met in relation to him.
+
+- 11 A child falls within this paragraph if-
+
+(a) he has attained the age of 11,
+
+(b) he is a registered pupil at a qualifying school which is more than two miles, but not more than six miles, from his home,
+
+(c) there are not three or more suitable qualifying schools which are nearer to his home, and
+
+(d) the appropriate condition is met in relation to him.
+
+[[END OF PAGE 258]]
+
+[[START OF PAGE 259]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 8 - Travel to schools etc: meaning of 'eligible child'
+
+Document Generated: 2020-04-22
+
+259
+
+Status:
+
+This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) he is a registered pupil at a qualifying school which is more than two miles, but not more than fifteen miles, from his home,
+
+(c) his parent has expressed a wish, based on the parent's religion or belief, for him to be provided with education at that school,
+
+(d) having regard to the religion or belief on which the parent's wish is based, there is no suitable qualifying school which is nearer to the child's home, and
+
+(b) he is receiving education at a place other than a school by virtue of arrangements made in pursuance of section 19(1),
+
+(c) that place is more than two miles, but not more than six miles, from his home,
+
+- For the purposes of paragraphs 9 to 13, the appropriate condition is met in relation to
+
+- Condition A is met if the child is within section 512ZB(4) (provision of free school
+
+- 12 A child falls within this paragraph if(a) he has attained the age of 11, (e) the appropriate condition is met in relation to him. 13 A child falls within this paragraph if(a) he has attained the age of 11, and (d) the appropriate condition is met in relation to him. 14 a child if condition A or condition B is met. lunches and milk).
+
+- Condition B is met if-
+
+(a) a parent of the child, with whom the child is ordinarily resident, is a person to whom working tax credit is awarded, and
+
+(b) the award is at the rate which is the maximum rate for the parent's case or, in the case of an award to him jointly with another, at the rate which is the maximum
+
+- rate for their case.
+###### Meaning of 'qualifying school' etc
+15 (1) The definitions in sub-paragraphs (2) to (5) apply for the purposes of this Schedule. (2) 'Qualifying school' in relation to a child means(a) a community, foundation or voluntary school, (b) a community or foundation special school, (c) a school approved under section 342 (non-maintained special schools), (d) a pupil referral unit, (e) a maintained nursery school, or (f) a city technology college, a city college for the technology of the arts or an Academy. (3) In relation to a child with special educational needs, an independent school, other than a college or Academy falling within sub-paragraph (2)(f), is also a 'qualifying school' if(a) it  is  the  only  school  named  in  the  statement  maintained  for  the  child  under section 324, or
+
+(b) it is one of two or more schools named in that statement and of those schools it is the nearer or nearest to the child's home.
+
+[[END OF PAGE 259]]
+
+[[START OF PAGE 260]]
+
+260
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 9 - School travel schemes
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+'Disabled child' means a child who has a disability for the purposes of the Disability Discrimination Act 1995, and 'disability' is to be construed accordingly.
+
+(5) 'Walking distance' has the meaning given by section 444(5). (6) 'Religion' and 'belief' are to be read in accordance with section 509AD(3).
+
+- In the case of a child who is a registered pupil at both a pupil referral unit and at a school other than a unit, references in this Schedule to the school at which he is a registered pupil are to be read as references to the unit.'
+
+## SCHEDULE 9
+
+### SCHOOL TRAVEL SCHEMES
+
+Section 78
+
+Section 508E
+
+##### Commencement Information
+
+I383 Sch. 9 in force at 1.4.2007 by S.I. 2007/935, art. 5(dd)
+
+After Schedule 35B to EA 1996 (inserted by section 77 above) insert-
+
+#### 'SCHEDULE 35C
+
+##### SCHOOL TRAVEL SCHEMES
+
+###### Power to make scheme
+
+- 1 (1) A local education authority in England may make a school travel scheme for their area.
+
+- Before making a school travel scheme, a local education authority must consult such persons as the authority consider appropriate.
+
+###### Arrangements to be included in scheme
+
+- 2 (1) A school travel scheme must set out (in general terms) what arrangements in connection with the attendance of children in the authority's area receiving education-
+
+(a) at schools,
+
+(b) at any institution within the further education sector, or
+
+(c) at any other place by virtue of arrangements made in pursuance of section 19(1),
+
+the scheme authority consider it appropriate to be made in relation to travel to and from such places.
+
+- Those arrangements are to be either or both of the following-
+
+(a) arrangements to be made by the authority;
+
+(b) arrangements to be made by any other persons.
+
+- A school travel scheme may include travel arrangements of any description and may, in particular, include-
+
+(a) arrangements for the provision of transport;
+
+[[END OF PAGE 260]]
+
+[[START OF PAGE 261]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 9 - School travel schemes
+
+Document Generated: 2020-04-22
+
+261
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) any  of  the  following  arrangements  only  if  made  with  the  relevant  parental consent-
+
+(i) arrangements for the provision of one or more persons to escort a child (whether alone or together with other children) when travelling to or from any of the places mentioned in any of paragraphs (a) to (c) of subparagraph (1);
+
+(ii) arrangements for the payment of the whole or any part of a person's reasonable travelling expenses;
+
+(iii) arrangements for the payment of allowances in respect of the use of particular modes of travel;
+
+(c) arrangements to facilitate or promote the use of particular modes of travel.
+
+- The reference in sub-paragraph (3) to the relevant parental consent is to the consent of a parent of each child in relation to whom the arrangements in question are made.
+
+- A school travel scheme must require that if any arrangements set out in the scheme involve arrangements to be made by any person other than the scheme authority and those arrangements-
+
+(a) are not made by that person or by any other persons, or
+
+(b) are so made but are not given effect to in compliance with the requirements of the scheme,
+
+the scheme authority must make suitable alternative arrangements.
+
+###### Travel arrangements for 'eligible children'
+
+- 3 (1) A school travel scheme must require that, in the case of an eligible child in the scheme authority's area to whom sub-paragraph (2) applies, the authority must make such travel arrangements as they consider necessary in order to secure that suitable home to school travel arrangements, for the purpose of facilitating the child's attendance at the relevant educational establishment in relation to him, are made in relation to the child.
+
+- This sub-paragraph applies to an eligible child if-
+
+(a) no travel arrangements relating to travel in either direction between his home and  the  relevant  educational  establishment  in  relation  to  him,  or  in  both directions, are provided in relation to him by any person who is not the scheme authority, or
+
+(b) such travel arrangements are provided in relation to him by any person who is not the scheme authority but those arrangements, taken together with any other such travel arrangements which are so provided, do not provide suitable home to school travel arrangements for the purpose of facilitating his attendance at the relevant educational establishment in relation to him.
+
+'Home  to  school  travel  arrangements',  in  relation  to  an  eligible  child,  are  travel arrangements relating to travel in both directions between the child's home and the relevant educational establishment in question in relation to that child.
+
+'Travel arrangements', in relation to an eligible child, are travel arrangements of any description and include-
+
+(a) arrangements for the provision of transport, and
+
+(b) any of the following arrangements only if they are made with the consent of a parent of the child-
+
+[[END OF PAGE 261]]
+
+[[START OF PAGE 262]]
+
+262
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 9 - School travel schemes
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(i) arrangements for the provision of one or more persons to escort the child (whether alone or together with other children) when travelling to
+
+or from the relevant educational establishment in relation to the child;
+
+(ii) arrangements for the payment of the whole or any part of a person's reasonable travelling expenses;
+
+(iii) arrangements for the payment of allowances in respect of the use of particular modes of travel.
+
+'Travel arrangements', in relation to an eligible child, include travel arrangements of any description made by any parent of the child only if those arrangements are made by the parent voluntarily.
+
+- Regulations may modify sub-paragraphs (1) and (2) to provide for their application in cases where there is more than one relevant educational establishment in relation to a child.
+
+- 4 (1) For the purposes of paragraph 3, an 'eligible child' is a child who falls within any of the following paragraphs of Schedule 35B-
+
+(a) paragraph 2 or 3 (children of compulsory school age with special educational needs, a disability or mobility problems);
+
+(b) paragraph 4 or 5 (children of compulsory school age who cannot reasonably be expected to walk because of the nature of the routes);
+
+(c) paragraph 6 or 7 (children of compulsory school age who live outside walking distance and for whom no suitable alternative arrangements are made);
+
+(d) paragraph 9, 10, 11, 12 or 13 (children aged 8 or over who are entitled to free school meals etc).
+
+- References in paragraph 3 to the 'relevant educational establishment', in relation to an eligible child, are references to-
+
+(a) in the case of a child who is an eligible child by virtue of falling within any of paragraphs 2, 4, 6, 9, 11 and 12 of Schedule 35B, the qualifying school at which the child is a registered pupil referred to in the paragraph in question, and
+
+(b) in the case of a child who is an eligible child by virtue of falling within any of  paragraphs  3,  5,  7,  10  and  13  of  Schedule  35B,  the  place  other  than  a school, where the child is receiving education by virtue of arrangements made in pursuance of section 19(1), referred to in the paragraph in question.
+
+###### Charges
+
+- 5 (1) A school travel scheme must set out the policy applicable to charging in relation to anything provided in pursuance of the scheme.
+
+- The policy to be set out under sub-paragraph (1) must include provision to the effect that anything provided in pursuance of the scheme for a protected child is provided free of charge.
+
+- The policy to be set out under sub-paragraph (1) must include provision to the effect mentioned in sub-paragraph (3) of paragraph 7 in relation to any child falling within sub-paragraph (1) or (2) of that paragraph.
+
+- 6 (1) For the purposes of paragraph 5, a 'protected child' is a child of compulsory school age in the scheme authority's area who falls within any of sub-paragraphs (2) to (4).
+
+[[END OF PAGE 262]]
+
+[[START OF PAGE 263]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 9 - School travel schemes
+
+Document Generated: 2020-04-22
+
+263
+
+7
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(2) A child falls within this sub-paragraph if he is a child falling within any of the following paragraphs of Schedule 35B(a) paragraph 2 or 3 (children of compulsory school age with special educational needs, a disability or mobility problems); (b) paragraph 4 or 5 (children of compulsory school age who cannot reasonably be expected to walk because of nature of routes). (3) A child falls within this sub-paragraph if he is within section 512ZB(4) (provision of free school lunches and milk). (4) A child falls within this sub-paragraph if(a) a parent of the child, with whom the child is ordinarily resident, is a person to whom working tax credit is awarded, and (b) the award is at the rate which is the maximum rate for the parent's case or, in the case of an award to him jointly with another, at the rate which is the maximum rate for their case. (1) For the purposes of paragraph 5(3), a child falls within this sub-paragraph if(a) he is of compulsory school age and is any of the followinga child with special educational needs; a disabled child; a child with mobility problems, (b) he  is  a  registered  pupil  at  a  qualifying  school  which  is  not  within  walking distance of his home, and (c) no suitable arrangements have been made by the local education authority for enabling him to become a registered pupil at a qualifying school nearer to his home. (2) For the purposes of paragraph 5(3), a child falls within this sub-paragraph if(a) he is of compulsory school age and is any of the followinga child with special educational needs; a disabled child; a child with mobility problems, (b) he is receiving education at a place other than a school by virtue of arrangements made in pursuance of section 19(1), and (c) that place is not within walking distance of his home. (3) The effect referred to in paragraph 5(3) is that the amount payable in respect of anything provided in pursuance of the scheme for a child falling within sub-paragraph (1) or (2) is not to exceed the amount (if any) which would be payable under the scheme if(a) he were a child who is not a child with special educational needs, a disabled child or a child with mobility problems, (b) in the case of a child falling within sub-paragraph (1), he were registered as a pupil at his nearest qualifying school, and (c) he took full advantage of any arrangements under the scheme for the provision of transport for persons of his description. (4) In  sub-paragraph  (3)(b),  the  reference  to  the  child's  nearest  qualifying  school  is  to whichever of the following is the nearest to his home to provide education for persons of his age who are not children with special educational needs, disabled children or
+
+- children with mobility problems-
+
+[[END OF PAGE 263]]
+
+[[START OF PAGE 264]]
+
+264
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 9 - School travel schemes
+
+Document Generated: 2020-04-22
+
+12
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) a community school,
+
+(b) a foundation school,
+
+(c) a voluntary school,
+
+(d) an Academy,
+
+(e) a city technology college, and
+
+(f) a city college for the technology of the arts.
+
+- 8 Any sum payable in respect of a charge for anything provided by the scheme authority in pursuance of arrangements made by that authority in pursuance of a school travel scheme is to be recoverable summarily as a civil debt.
+
+- 9 (1) This paragraph applies if a school travel scheme will give rise to any need to incur expenditure in  order  for  a  child  to  take  advantage  of  anything  provided  for  him  in pursuance of the scheme.
+
+- The scheme must include provision for any expenditure that needs to be incurred for the purpose mentioned in sub-paragraph (1) in the case of a protected child to be met by the scheme authority.
+
+'Protected child' has the meaning given for the purposes of paragraph 5.
+
+###### Commencement of scheme
+
+- 10 (1) A school travel scheme is not to come into force unless approved by the Secretary of
+
+State.
+
+- A school travel scheme which has been approved by the Secretary of State is to come into force in accordance with directions given by the Secretary of State.
+
+- The earliest date on which a school travel scheme may come into force is 31 August 2007.
+
+###### Amendment or revocation of scheme
+
+11 (1) The scheme authority may amend or revoke a school travel scheme.
+
+- Before  amending  a  school  travel  scheme,  the  scheme  authority  must  consult  such persons as they consider appropriate.
+
+- The power of amendment under sub-paragraph (1) is exercisable only with the consent of the Secretary of State.
+
+- The Secretary of State may consent to the exercise of the power of amendment under sub-paragraph (1) on an application by the scheme authority specifying the proposed exercise of the power.
+
+- If  on  an  application  under  sub-paragraph  (4)  the  Secretary  of  State  consents  to  the exercise of the power of amendment under sub-paragraph (1), the scheme authority must exercise the power accordingly.
+
+- Any amendment under this paragraph is to come into force in accordance with directions given by the Secretary of State.
+
+###### Provision of information
+
+(1) The scheme authority must- Status: This version of this Act contains provisions that are prospective.
+
+[[END OF PAGE 264]]
+
+[[START OF PAGE 265]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 10 - Further amendments relating to travel to schools etc
+
+Document Generated: 2020-04-22
+
+265
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) make such reports and returns to the Secretary of State, and
+
+(b) compile and give to the Secretary of State such information,
+
+as  the  Secretary  of  State  may  require  for  any  of  the  purposes  mentioned  in  subparagraph (2).
+
+- Those purposes are-
+
+(a) the purpose of monitoring the operation or effect of a school travel scheme approved under this Schedule;
+
+(b) the purpose of preparing or publishing an evaluation under section 80 of the Education and Inspections Act 2006.
+
+###### Guidance
+
+- 13 (1) The Secretary of State must issue, and may from time to time revise, guidance as to the matters which he will take into account in exercising his power under paragraph 10(1) or 11(3).
+
+- Before issuing or revising guidance under sub-paragraph (1), the Secretary of State must consult such persons as he considers appropriate.
+
+###### Interpretation
+
+- 14 In this Schedule-
+
+'disabled  child'  means  a  child  who  has  a  disability  for  the  purposes  of the  Disability  Discrimination  Act  1995,  and  'disability'  is  to  be  construed accordingly;
+
+'qualifying  school'  has  the  same  meaning  as  it  has  for  the  purposes  of Schedule 35B;
+
+'scheme authority', in relation to a school travel scheme, means the local education authority by which the scheme is made;
+
+'walking distance' has the meaning given by section 444(5).'
+
+## SCHEDULE 10
+
+### FURTHER AMENDMENTS RELATING TO TRAVEL TO SCHOOLS ETC
+
+#### Public Passenger Vehicles Act 1981 (c. 14)
+
+In section 46 of the Public Passenger Vehicles Act 1981 (fare-paying passengers on school buses), in subsection (3), in the definition of 'free school transport'-
+
+(a) after 'under' insert ' section 508B(1), section 508C(1), section 508F(1), ' and
+
+(b) after '1996,' insert-
+
+'(aa) in  pursuance  of  arrangements  made  by  the  authority  in pursuance of a scheme made by them under Schedule 35C to that Act (school travel schemes),'.
+
+Section 85
+
+- 1
+
+[[END OF PAGE 265]]
+
+[[START OF PAGE 266]]
+
+266
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 10 - Further amendments relating to travel to schools etc
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I384 Sch. 10 para. 1 in force at 1.9.2007 for specified purposes by S.I. 2007/1801, art. 4(l)
+
+#### Transport Act 1985 (c. 67)
+
+- 2 (1) Section 6 of the Transport Act 1985 (registration of local services) is amended as follows.
+
+- In subsection (1) after 'London local service' insert ' nor a service which falls within subsection (1A) below '.
+
+- After subsection (1) insert-
+
+'(1A) A service falls within this subsection if conditions A and B are satisfied in relation to it.
+
+(1B) Condition A is satisfied if the service is provided in pursuance of-
+
+(a) the obligation placed on a local education authority by section  508B(1),  section  508F(1),  section  509(1)  or  (1A),  or section 509AA(7)(b) or (9)(a) of the Education Act 1996 (provision of transport etc);
+
+(b) the  exercise  of  the  power  of  a  local  education  authority  under section 508C(1) of that Act; or
+
+(c) arrangements made by a local education authority in pursuance of a scheme made by them under Schedule 35C to that Act (school travel schemes).
+
+(1C) Condition  B  is  satisfied  if  the  service  is  for  the  carriage  of  any  of  the following persons (and no other)-
+
+(a) a person receiving education or training at premises to or from which transport is provided in pursuance of the obligation, the exercise of the power or the arrangements, as the case may be, mentioned in paragraph (a), (b) or (c) of subsection (1B);
+
+(b) a person supervising or escorting any such person while he is using such transport;
+
+(c) a person involved with the provision of education or training at any such premises.'
+
+Commencement Information
+
+I385 Sch. 10 para. 2 in force at 1.9.2007 for specified purposes by S.I. 2007/1801, art. 4(l)
+
+#### Education Act 1996 (c. 56)
+
+- 3 In section 455(1) of EA 1996 (permitted charges), in paragraph (c), for '509(2)' substitute ' 508B(1), 508F(3) or 509(2), or section 508E(2)(d) and paragraph 5(2) of Schedule 35C, '.
+
+[[END OF PAGE 266]]
+
+[[START OF PAGE 267]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 11 - The Office for Standards in Education, Children's Services and Skills
+
+Document Generated: 2020-04-22
+
+267
+
+Status:
+
+This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I386 Sch. 10 para. 3 in force at 1.9.2007 for specified purposes by S.I. 2007/1801, art. 4(l)
+
+F265
+
+4
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F265 Sch. 10 para. 4 repealed (4.1.2010) by Learner Travel (Wales) Measure 2008 (nawm 2), s. 28(2), Sch. 2 ; S.I. 2009/2819, art. 2(1)(d)
+##### Commencement Information
+I387 Sch. 10 para. 4 in force at 1.9.2007 by S.I. 2007/1801, art. 4(l) (with art. 5(1))
+
+- 5 In section 509AB of EA 1996 (further provision about transport policy statements)
+
+-
+
+F266
+
+(a) after subsection (3) insert-
+
+'(3A) In considering whether or not it is necessary to make arrangements for  those  purposes  in  relation  to  a  particular  person,  a  local education authority in England shall have regard (amongst other things) to the nature of the route, or alternative routes, which he could reasonably be expected to take.', and
+
+(b)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F266 Sch. 10 para. 5(b) repealed (6.3.2009) by Learner Travel (Wales) Measure 2008 (nawm 2), s. 28(2), Sch. 2 ; S.I. 2009/371, art. 2(1), Sch. Pt. 1
+##### Commencement Information
+I388 Sch. 10 para. 5 in force at 1.4.2007 by S.I. 2007/935, art. 5(ee)
+
+## SCHEDULE 11
+
+Section 112
+
+### THE OFFICE FOR STANDARDS IN EDUCATION, CHILDREN'S SERVICES AND SKILLS
+
+##### Modifications etc. (not altering text)
+C45 Sch. 11 modified (temp.) (12.12.2006) by Office for Standards in Education, Children's Services and Skills (Transitional Provisions) Regulations 2006 (S.I. 2006/2991), regs. 1(1), 2(b)
+
+###### Membership
+
+- 1 The Office is to consist of-
+
+(a) a chairman appointed by the Secretary of State;
+
+[[END OF PAGE 267]]
+
+[[START OF PAGE 268]]
+
+268
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 11 - The Office for Standards in Education, Children's Services and Skills
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) not  less  than  5  and  not  more  than  10  other  members  appointed  by  the Secretary of State ('the appointed members'); and
+
+(c) the Chief Inspector.
+
+##### Commencement Information
+I389 Sch. 11 para. 1 in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(i)
+
+###### Terms of appointment
+
+- 2 (1) The chairman and the appointed members hold and vacate office in accordance with the terms of their respective appointments.
+
+- Sub-paragraph (1) has effect subject to the following provisions of this Schedule.
+
+- Section 113 makes provision for the holding and vacation of office by the Chief Inspector.
+
+- 3 A person appointed as chairman or appointed member-
+
+(a) must not be appointed for a term of more than five years,
+
+(b) may at any time resign by giving written notice to the Secretary of State, and
+
+(c) may be removed from office by the Secretary of State on the grounds that he is unable or unfit to carry out the duties of his office.
+
+- 4 The previous appointment of a person as chairman or appointed member does not affect his eligibility for appointment to either office.
+
+##### Commencement Information
+I390 Sch. 11 para. 2(1) in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(i) I391 Sch. 11 para. 2(2) in force at 12.12.2006 for specified purposes by S.I. 2006/2990, art. 2(i)(ii) I392 Sch. 11 para. 2(2) in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(ff) I393 Sch. 11 para. 2(3) in force at 1.4.2007 by S.I. 2007/935, art. 5(ff)
+
+##### Commencement Information
+I394 Sch. 11 para. 3 in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(ii)
+
+##### Commencement Information
+I395 Sch. 11 para. 4 in force at 1.4.2007 by S.I. 2007/935, art. 5(ff)
+
+###### Remuneration of members
+
+- 5 (1) The  Office  must  pay  to  the  chairman  and  each  of  the  appointed  members  such remuneration and allowances as may be determined by the Secretary of State.
+
+- The Office must, if required to do so by the Secretary of State-
+
+[[END OF PAGE 268]]
+
+[[START OF PAGE 269]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 11 - The Office for Standards in Education, Children's Services and Skills
+
+Document Generated: 2020-04-22
+
+269
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(a) pay  such  pension,  allowances  or  gratuities  as  may  be  determined  by  the Secretary of State to or in respect of a person who is or has held office as chairman or appointed member; or
+
+(b) make such payments as may be so determined towards provision for the payment of a pension, allowances or gratuities to or in respect of such a person.
+
+- If,  where  a  person  ceases  to  hold  office  as  chairman  or  appointed  member,  the Secretary of State determines that there are special circumstances which make it right that he should receive compensation, the Office must pay to him such amount by way of compensation as the Secretary of State may determine.
+
+- Paragraph 1 of Schedule 12 makes provision for the payment to the Chief Inspector of remuneration etc.
+
+##### Commencement Information
+I396 Sch. 11 para. 5(1) in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(ii) I397 Sch. 11 para. 5(2)-(4) in force at 1.4.2007 by S.I. 2007/935, art. 5(ff)
+
+###### Staff
+
+- 6 (1) The Office has power to appoint staff-
+
+(a) for the purposes of the performance of its own functions, and
+
+(b) for the purposes of the performance of functions of the Chief Inspector.
+
+- But that power is exercisable only by the Chief Inspector acting on behalf of the Office.
+
+- The  conditions  of  service  of  persons  appointed  under  this  paragraph  are  to  be determined by the Chief Inspector, subject to the approval of the Minister for the Civil Service.
+
+- The management of the staff of the Office is to be the responsibility of the Chief Inspector.
+
+- Nothing in this paragraph is to be read as preventing any delegation by the Chief Inspector under paragraph 9 of Schedule 12.
+
+##### Commencement Information
+I398 Sch. 11 para. 6(1)-(4) in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(ii) I399 Sch. 11 para. 6(5) in force at 1.4.2007 by S.I. 2007/935, art. 5(ff)
+
+###### Committees
+
+- 7 (1) The  Office  may  establish  committees,  and  any  committee  so  established  may establish sub-committees.
+
+- The members of a committee of the Office may include persons who are not members of the Office (and the members of a sub-committee may include persons who are not members of the committee or of the Office).
+
+[[END OF PAGE 269]]
+
+[[START OF PAGE 270]]
+
+270
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 11 - The Office for Standards in Education, Children's Services and Skills
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The  Office  may  make  arrangements  for  the  payment  of  such  remuneration  and allowances as it thinks fit to any person who-
+
+(a) is a member of a committee or sub-committee, but
+
+(b) is not a member of the Office.
+
+##### Commencement Information
+I400 Sch. 11 para. 7(1) in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(ii) I401 Sch. 11 para. 7(2)(3) in force at 1.4.2007 by S.I. 2007/935, art. 5(ff)
+
+###### Procedure etc.
+
+- 8 (1) The Office may make such provision as it thinks fit to regulate-
+
+(a) its own proceedings (including quorum), and
+
+(b) the procedure (including quorum) of its committees and sub-committees.
+
+- The  validity  of  any  proceedings  of  the  Office,  or  any  of  its  committees  or  subcommittees, is not affected by-
+
+(a) any vacancy in the office of chairman or in the membership of the Office or (as the case may be) of the committee or sub-committee, or
+
+(b) any defect in the appointment of the chairman or any other member of the Office or (as the case may be) of any member of the committee or subcommittee.
+
+##### Commencement Information
+I402 Sch. 11 para. 8 in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(ii)
+
+###### Performance of functions
+
+- 9 Anything authorised or required to be done by the Office may be done by-
+
+(a) any member of the Office who is authorised for the purpose by the Office, whether generally or specially, or
+
+(b) any  committee  or  sub-committee  of  the  Office  which  has  been  so authorised.
+
+##### Commencement Information
+I403 Sch. 11 para. 9 in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(ii)
+
+###### Execution of documents
+
+- 10 The application of the seal of the Office must be authenticated by the signature of-
+
+(a) any member of the Office, or
+
+(b) some other person who has been authorised for that purpose by the Office, whether generally or specially.
+
+[[END OF PAGE 270]]
+
+[[START OF PAGE 271]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 11 - The Office for Standards in Education, Children's Services and Skills
+
+Document Generated: 2020-04-22
+
+271
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I404 Sch. 11 para. 10 in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(ii)
+
+###### Evidence
+
+- 11 The Documentary Evidence Act 1868 (c. 37) shall have effect in relation to the Office as if-
+
+(a) the Office were included in the first column of the Schedule to that Act,
+
+(b) any member or other person authorised to act on behalf of the Office were mentioned in the second column of that Schedule, and
+
+(c) the regulations referred to in that Act included any document issued by or under the authority of the Office.
+
+##### Commencement Information
+I405 Sch. 11 para. 11 in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(ii)
+
+###### Supplementary powers
+
+- 12 (1) The Office has power-
+
+(a) to enter into contracts,
+
+(b) to acquire, and dispose of, land or other property, and
+
+(c) to arrange for the provision of accommodation,
+
+in connection with the performance of its own functions or in connection with the performance of functions of the Chief Inspector.
+
+- But those powers are exercisable only by the Chief Inspector acting on behalf of the Office.
+
+- The management of any property or accommodation held or used in connection with the performance of any of the functions mentioned in sub-paragraph (1) is to be the responsibility of the Chief Inspector.
+
+- Nothing in this paragraph is to be read as preventing any delegation by the Chief Inspector under paragraph 9 of Schedule 12.
+
+- 13 (1) The  Office  may  do  anything  that  it  considers  is  necessary  or  expedient  for  the purposes of, or in connection with, its functions.
+
+- But to the extent that paragraph 6 or 12 makes provision for restricting the exercise of any such power, the power is accordingly exercisable subject to any such restriction.
+
+##### Commencement Information
+I406 Sch. 11 para. 12(1)-(3) in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(ii) I407 Sch. 11 para. 12(4) in force at 1.4.2007 by S.I. 2007/935, art. 5(ff)
+
+[[END OF PAGE 271]]
+
+[[START OF PAGE 272]]
+
+272
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 12 - The Chief Inspector and other inspectors etc.
+
+Document Generated: 2020-04-22
+
+1
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I408 Sch. 11 para. 13 in force at 12.12.2006 by S.I. 2006/2990, art. 2(i)(ii)
+
+## SCHEDULE 12
+
+### THE CHIEF INSPECTOR AND OTHER INSPECTORS ETC.
+
+#### PART 1
+
+##### THE CHIEF INSPECTOR
+
+###### Remuneration, pensions etc. of Chief Inspector
+
+- The Office is to pay the Chief Inspector such remuneration, and such travelling and other allowances, as the Secretary of State may determine.
+
+- In the case of any Chief Inspector determined by the Secretary of State, the Office is to pay-
+
+(a) such pension, allowance or gratuity to or in respect of him, or
+
+(b) such  contributions  or  payments  towards  provision  for  such  a  pension, allowance or gratuity,
+
+as the Secretary of State may determine.
+
+- If, when any person ceases to hold office as Chief Inspector, the Secretary of State determines that there are special circumstances which make it right that he should receive compensation, the Office may pay to him such sum by way of compensation as the Secretary of State may determine.
+
+- Service as Chief Inspector is one of the kinds of service to which a scheme under section 1 of the Superannuation Act 1972 (c. 11) can apply.
+
+- The Office must pay to the Minister for the Civil Service, at such times as he may direct, such sums as he may determine in respect of any increase attributable to subparagraph (4) in the sums payable out of money provided by Parliament under that Act.
+
+Commencement Information I409 Sch. 12 para. 1 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Temporary appointment of Chief Inspector; performance of functions during vacancy or incapacity etc.
+
+- 2 (1) If  there  is  a  vacancy  in  the  office  of  Chief  Inspector,  the  Secretary  of  State  may appoint a person to be Chief Inspector during such period (not exceeding one year) as he thinks fit.
+
+- Any such appointment is to be on such terms as the Secretary of State may determine.
+
+Section 115
+
+[[END OF PAGE 272]]
+
+[[START OF PAGE 273]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 12 - The Chief Inspector and other inspectors etc.
+
+Document Generated: 2020-04-22
+
+273
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Those  terms  may  include  provision  for  the  Secretary  of  State  to  terminate  the appointment before the time when it would otherwise end.
+
+- 3 (1) The Chief Inspector may designate an HMI to perform his functions during any period when he is absent or unable to act.
+
+- If (at a time when no designation is in force under sub-paragraph (1)) it appears to the chairman of the Office that the Chief Inspector is, as a result of any incapacity-
+
+(a) unable to act, and
+
+(b) unable to make a designation under that sub-paragraph,
+
+##### Commencement Information
+I410 Sch. 12 para. 2 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+the chairman may designate an HMI to perform the Chief Inspector's functions so long as he remains in office and is unable to act.
+
+- For  the  purposes  of  this  paragraph  the  Chief  Inspector's  functions  include  his functions as a member of the Office.
+
+Commencement Information I411 Sch. 12 para. 3 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Execution of documents
+
+- 4 The application of the Chief Inspector's seal must be authenticated by the signature of-
+
+(a) the Chief Inspector, or
+
+(b) some other person who has been authorised for that purpose by the Chief Inspector, whether generally or specially.
+
+Commencement Information I412 Sch. 12 para. 4 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Evidence
+
+- 5 The Documentary Evidence Act 1868 (c. 37) shall have effect in relation to the Chief Inspector as if-
+
+(a) he were mentioned in the first column of the Schedule to that Act,
+
+(b) he and any person authorised to act on his behalf were mentioned in the second column of that Schedule, and
+
+(c) the regulations referred to in that Act included any document issued by him or any such person.
+
+[[END OF PAGE 273]]
+
+[[START OF PAGE 274]]
+
+274
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 12 - The Chief Inspector and other inspectors etc.
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I413 Sch. 12 para. 5 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Ancillary powers
+
+- 6 The Chief Inspector may do anything that he considers necessary or expedient for the purposes of, or in connection with, his functions.
+
+##### Commencement Information
+
+I414 Sch. 12 para. 6 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Nature of functions conferred on Chief Inspector
+
+- 7 (1) Functions  conferred  on  the  Chief  Inspector  by  virtue  of  this  Part  or  any  other enactment  are  conferred  on  him  in  his  capacity  as  holder  of  the  office  of  Chief Inspector and not in his capacity as a member of the Office.
+
+- Sub-paragraph (1) does not apply to any function of the Chief Inspector under-
+
+(a) section 114(4),
+
+(b) paragraph 6 or 12 of Schedule 11, or
+
+(c) paragraph 3 of this Schedule.
+
+- References in this Part to functions of the Chief Inspector are references to functions conferred on him in his capacity as holder of the office of Chief Inspector.
+
+This is subject to paragraph 3(3).
+
+- Any proceedings brought in respect of any such function of the Chief Inspector are to be brought against the Chief Inspector in his capacity as holder of that office.
+
+##### Commencement Information
+I415 Sch. 12 para. 7 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Relationship between Chief Inspector and the Office
+
+- 8 (1) For all purposes relating to the government department constituted by the Office, the Chief Inspector is to be regarded-
+
+(a) as  part  of  that  government  department,  whether  acting  in  his  capacity  as holder of the office of Chief Inspector or in his capacity as a member of the Office, and
+
+(b) as performing his functions (in whatever capacity) on behalf of it.
+
+- Sub-paragraph  (1)  applies  subject  to  any  provision  made  by  virtue  of  subparagraph (3).
+
+- The Secretary of State may by order make such provision as he considers appropriate for-
+
+(a) supplementing or modifying the effect of sub-paragraph (1), or
+
+[[END OF PAGE 274]]
+
+[[START OF PAGE 275]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 12 - The Chief Inspector and other inspectors etc.
+
+Document Generated: 2020-04-22
+
+275
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) prescribing other matters in connection with responsibilities of the Chief Inspector  in  relation  to  the  Office  or  otherwise  connected  with  the relationship between them.
+
+(4) Such an order may in particular provide-
+
+(a) for allocating functions, property, rights or liabilities as between the Office and the Chief Inspector;
+
+(b) for conferring on the Chief Inspector responsibilities in relation to property, rights or liabilities of the Office, including responsibilities as to the conduct of proceedings;
+
+(c) for  the  capacity  in  which  the  Chief  Inspector  is  to  discharge  any  such functions or responsibilities.
+
+##### Commencement Information
+
+I416 Sch. 12 para. 8 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+#### PART 2
+
+##### INSPECTORS ETC. ACTING ON BEHALF OF CHIEF INSPECTOR
+
+###### Delegation of functions
+
+- 9 (1) Anything authorised or required by or under any enactment to be done by the Chief Inspector may be done by-
+
+(a) any HMI,
+
+(b) any other member of the staff of the Office, F267 ...
+
+(c) any additional inspector, [ F268 or ]
+
+[ F268 (d) any inspection administrator, ]
+
+who is authorised generally or specially for the purpose by the Chief Inspector.
+
+- But sub-paragraph (1) has effect subject to-
+
+(a) sub-paragraph (3) below and paragraphs 10(2) [ F269 , 11(4) and 11A(3) ] , and
+
+(b) any contrary provision made by any enactment.
+
+- The making of any report of an inspection of a school under section 5 of EA 2005 which states the opinion that special measures are required to be taken in relation to the school must be personally authorised by-
+
+(a) the Chief Inspector, or
+
+(b) an HMI who is authorised by the Chief Inspector for the purposes of this sub-paragraph.
+
+- Without prejudice to the generality of sub-paragraph (1) above, references to the Chief Inspector-
+
+(a) in section 10 of EA 2005 (power of entry for purposes of inspection under s. 5 or 8), or
+
+(b) in any other enactment by virtue of which any power of entry is exercisable by the Chief Inspector, or otherwise having effect in connection with any such power of entry,
+
+[[END OF PAGE 275]]
+
+[[START OF PAGE 276]]
+
+276
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 12 - The Chief Inspector and other inspectors etc.
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+include  references  to  any  person  authorised  to  act  on  his  behalf  under  subparagraph (1).
+
+- In sub-paragraph (4) the reference to any power of entry includes a reference to a power to inspect documents or a power conferred in connection with the inspection of documents.
+
+##### Textual Amendments
+F267 Word in Sch. 12 para. 9(1)(b) repealed (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 226(2), 269(4), Sch. 16 Pt. 8 ; S.I. 2009/3317, art. 2, Sch. F268 Sch. 12 para. 9(1)(d) and word inserted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 226(2) , 269(4); S.I. 2009/3317, art. 2, Sch. F269 Words in Sch. 12 para. 9(2)(a) substituted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 226(3) , 269(4); S.I. 2009/3317, art. 2, Sch.
+##### Commencement Information
+I417 Sch. 12 para. 9 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Inspectors etc. to have necessary qualifications, experience and skills
+
+- 10 (1) This paragraph applies where-
+
+(a) an HMI,
+
+(b) a member of the staff of the Office, F270 ...
+
+(c) an additional inspector, [ F271 or ]
+
+[ F271 (d) an inspection administrator, ]
+
+is authorised to act on behalf of the Chief Inspector in connection with the carrying out of any of the activities within his remit.
+
+- The Chief Inspector must ensure that the person concerned has such qualifications, experience and skills as are necessary to secure that he is able to perform the function, or (as the case may be) assist with its performance, in an effective manner.
+
+F270 Word in Sch. 12 para. 10(1)(b) repealed (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 226(4), 269(4), Sch. 16 Pt. 8 ; S.I. 2009/3317, art. 2, Sch. F271 Sch. 12 para. 10(1)(d) and word inserted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 226(4) , 269(4); S.I. 2009/3317, art. 2, Sch.
+
+##### Textual Amendments
+##### Commencement Information
+I418 Sch. 12 para. 10 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Additional inspectors
+
+- 11 (1) The Chief Inspector may enter into arrangements with such persons as he thinks fit for them to assist him in the performance of his functions in a particular case or class of case.
+
+[[END OF PAGE 276]]
+
+[[START OF PAGE 277]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 12 - The Chief Inspector and other inspectors etc.
+
+Document Generated: 2020-04-22
+
+277
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- The  Chief  Inspector  may  also  enter  into  arrangements  with  persons  ('inspection service providers') under which they provide the services of inspectors to carry out inspections on behalf of the Chief Inspector.
+
+- A  person  assisting  the  Chief  Inspector  in  pursuance  of  arrangements  under  subparagraph (1) or (2) is to be known as an additional inspector.
+
+- The  Chief  Inspector  may  not  authorise  an  additional  inspector  to  conduct  an inspection of a school under section 5 of EA 2005 unless-
+
+(a) the inspection is to be supervised by an HMI, or
+
+(b) the additional inspector has previously conducted an inspection under that section under the supervision of an HMI to the satisfaction of the HMI.
+
+- In  sub-paragraph  (4)(b)  the  reference  to  an  HMI  is,  in  relation  to  an  inspection conducted before the commencement of this paragraph, to be read as a reference to one of Her Majesty's Inspectors of Schools in England.
+
+##### Commencement Information
+I419 Sch. 12 para. 11 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Inspection administrators
+
+[ F272 11A (1) The Chief Inspector may enter into arrangements with inspection service providers under which they provide the services of persons to provide administrative support in connection with the carrying out of inspections.
+
+- A person providing administrative support in pursuance of arrangements under subparagraph (1) is to be known as an inspection administrator.
+
+- The Chief Inspector may not authorise an inspection administrator to conduct an inspection. ]
+
+##### Textual Amendments
+F272 Sch. 12 para. 11A inserted (12.1.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), ss. 226(5) , 269(4); S.I. 2009/3317, art. 2, Sch.
+
+###### Provisions relating to additional inspectors provided by inspection service providers
+
+- 12 (1) This paragraph applies to arrangements made with inspection service providers under paragraph 11(2) ('ISP arrangements').
+
+- In  pursuance  of  his  duty  under  paragraph  10(2),  so  far  as  applying  to  additional inspectors provided under ISP arrangements, the Chief Inspector-
+
+(a) must publish in such manner as he thinks fit, and
+
+(b) may from time to time revise,
+
+a statement of the matters mentioned in sub-paragraph (3).
+
+- The matters are-
+
+(a) the qualifications or experience (or both) that are to be required of additional inspectors provided under ISP arrangements, and
+
+[[END OF PAGE 277]]
+
+[[START OF PAGE 278]]
+
+278
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 13 - Interaction with other authorities
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) the standards that such additional inspectors are to be required to meet in the exercise of their functions and the skills that they are to be required to demonstrate in the exercise of those functions.
+
+- ISP arrangements must be made on terms that require the inspection service provider to secure compliance with any requirements that are for the time being published under sub-paragraph (2).
+
+- Where the Chief Inspector has entered into any ISP arrangements, he must publish, at intervals of not more than 12 months, a list of the names of the persons who are, at a specified date, currently notified to him by the inspection service provider as persons with whom the provider proposes to make arrangements for the carrying out of inspections on behalf of the Chief Inspector.
+
+##### Commencement Information
+I420 Sch. 12 para. 12 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+## SCHEDULE 13
+
+### INTERACTION WITH OTHER AUTHORITIES
+
+###### Inspection authorities and inspection functions
+
+1
+
+- In this Schedule references to inspection authorities are to be read in accordance with sub-paragraph (2) or (3), as the case may be.
+
+- For the purposes of paragraph 4 or 5 the inspection authorities are-
+
+(a) Her Majesty's Chief Inspector of Prisons,
+
+(b) Her Majesty's Chief Inspector of Constabulary,
+
+(c) Her Majesty's Chief Inspector of the Crown Prosecution Service,
+
+(d) [ F273 Her Majesty's Chief Inspector of Probation for England and Wales ][ F274 , and ]
+
+F275
+
+(e)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+F276
+
+(f)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[ F277 (g) the Care Quality Commission, F278 ... ]
+
+- F278 (h) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- For the purposes of paragraph 6 the inspection authorities are-
+
+(a) Her Majesty's Chief Inspector of Prisons,
+
+(b) Her Majesty's Inspectors of Constabulary,
+
+(c) Her Majesty's Chief Inspector of the Crown Prosecution Service,
+
+(d) [ F279 Her Majesty's Inspectorate of Probation for England and Wales ] ,
+
+F280
+
+(e)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[ F281 (f) the Care Quality Commission. ]
+
+- In this Schedule 'inspection functions' means functions relating to, or connected with, inspections.
+
+Section 149
+
+[[END OF PAGE 278]]
+
+[[START OF PAGE 279]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 13 - Interaction with other authorities
+
+Document Generated: 2020-04-22
+
+279
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+F273 Words  in  Sch.  13  para.  1(2)(d)  substituted  (1.4.2008)  by  The  Offender  Management  Act  2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), Sch. 1 para. 27(2)(g) F274 Word in Sch. 13 para. 1(2)(d) inserted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 69(2)(a)(i) ; S.I. 2015/841, art. 3(x) F275 Sch. 13 para. 1(2)(e) repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 22(a) (with art. 2) F276 Sch. 13 para. 1(2)(f) repealed (1.4.2009) by Health and Social Care Act 2008 (c. 14), s. 170(3)(4), Sch. 5 para. 81(2)(a), Sch. 15 Pt. 1 ; S.I. 2009/462, art. 2(1), Sch. 1 paras. 35(bb)36 F277 Sch. 13 para. 1(2)(g) substituted (1.4.2009) by Health and Social Care Act 2008 (c. 14), s. 170(3)(4), Sch. 5 para. 81(2)(b) ; S.I. 2009/462, art. 2(1), Sch. 1 para. 35(bb) F278 Sch. 13 para. 1(2)(h) omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 69(2)(a)(ii) ; S.I. 2015/841, art. 3(x) F279 Words  in  Sch.  13  para.  1(3)(d)  substituted  (1.4.2008)  by  The  Offender  Management  Act  2007 (Consequential Amendments) Order 2008 (S.I. 2008/912), Sch. 1 para. 26(2)(h) F280 Sch. 13 para. 1(3)(e) repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 22(b) (with art. 2) F281 Sch. 13 para. 1(3)(f) substituted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 69(2)(b) ; S.I. 2015/841, art. 3(x)
+##### Modifications etc. (not altering text)
+C46 Sch. 13 para. 1 modified (temp.) (1.10.2008) by The Health and Social Care Act 2008 (Consequential Amendments and Transitory Provisions) Order 2008 (S.I. 2008/2250), arts. 1(1), 3(13)
+##### Commencement Information
+I421 Sch. 13 para. 1 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Public authorities
+
+- 2 (1) In this Schedule 'public authority'-
+
+(a) includes any person certain of whose functions are functions of a public nature, but
+
+(b) does not include either House of Parliament or a person exercising functions in connection with proceedings in Parliament.
+
+- Subject to paragraph 8(3), references in this Schedule to a public authority do not include a public authority outside the United Kingdom.
+
+##### Commencement Information
+I422 Sch. 13 para. 2 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Delegation of inspection functions to public authorities
+
+- 3 (1) The Chief Inspector may delegate any of his inspection functions (to such extent as he may determine) to another public authority.
+
+[[END OF PAGE 279]]
+
+[[START OF PAGE 280]]
+
+280
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 13 - Interaction with other authorities
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- If  the  carrying  out  of  an  inspection  is  delegated  under  sub-paragraph  (1)  it  is nevertheless to be regarded for the purposes of any enactment as carried out by the Chief Inspector.
+
+##### Commencement Information
+I423 Sch. 13 para. 3 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Inspection programmes and inspection frameworks
+
+- 4 (1) The Chief Inspector must from time to time, or at such times as the Secretary of State may specify by order, prepare-
+
+(a) a  document  setting  out  what  inspections  he  proposes  to  carry  out  (an 'inspection programme');
+
+(b) a document setting out the manner in which he proposes to carry out his functions of inspecting and reporting (an 'inspection framework').
+
+- Before preparing an inspection programme or an inspection framework the Chief Inspector must consult-
+
+(a) the Secretary of State,
+
+(b) the inspection authorities, and
+
+(c) any other person or body specified by an order made by the Secretary of State;
+
+and he shall send to each of those persons or bodies a copy of each programme or framework once it is prepared.
+
+- The Secretary of State may by order specify the form that inspection programmes or inspection frameworks are to take.
+
+- The Chief Inspector may determine that any document or combination of documents prepared  for  the  purposes  of  any  other  enactment  or  enactments  is  to  be  treated as a document prepared for the purposes of sub-paragraph (1)(b) (so long as any requirements applying under or by virtue of this paragraph are complied with in relation to the document or documents concerned).
+
+##### Commencement Information
+I424 Sch. 13 para. 4 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Inspections by other inspectors of institutions within Chief Inspector's remit
+
+- 5 (1) If-
+
+(a) an inspection authority is proposing to carry out an inspection that would involve inspecting a specified institution, and
+
+(b) the Chief Inspector considers that the proposed inspection would impose an unreasonable burden on that institution, or would do so if carried out in a particular manner,
+
+the Chief Inspector must, subject to sub-paragraph (5), give a notice to that authority requiring it not to carry out the proposed inspection, or not to carry it out in that manner.
+
+[[END OF PAGE 280]]
+
+[[START OF PAGE 281]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 13 - Interaction with other authorities
+
+Document Generated: 2020-04-22
+
+281
+
+6
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In sub-paragraph (1)(a) 'specified institution' means a person or body specified by order made by the Secretary of State.
+
+- A person or body may be specified under sub-paragraph (2) only if the person or body-
+
+(a) discharges functions or carries on other activities in relation to which the Chief Inspector exercises inspection functions by virtue of any enactment, or
+
+(b) is a person or body in respect of whom the Chief Inspector is the registration authority by virtue of any enactment.
+
+- A person or body may be specified under sub-paragraph (2) in relation to particular functions that it has.
+
+In the case of a person or body so specified, sub-paragraph (1)(a) is to be read as referring to an inspection that would involve inspecting the discharge of any of its functions in relation to which it is specified.
+
+- The Secretary of State may by order specify cases or circumstances in which a notice need not, or may not, be given under this paragraph.
+
+- Where a notice is given under this paragraph, the proposed inspection is not to be carried out, or (as the case may be) is not to be carried out in the manner mentioned in the notice.
+
+This is subject to sub-paragraph (7).
+
+- The Secretary of State, if satisfied that the proposed inspection-
+
+(a) would not impose an unreasonable burden on the institution in question, or
+
+(b) would not do so if carried out in a particular manner,
+
+may give consent to the inspection being carried out, or being carried out in that manner.
+
+- The Secretary of State may by order make provision supplementing that made by this paragraph, including in particular-
+
+(a) provision about the form of notices;
+
+(b) provision prescribing the period within which notices are to be given;
+
+(c) provision prescribing circumstances in which notices are, or are not, to be made public;
+
+(d) provision for revising or withdrawing notices;
+
+(e) provision for setting aside notices not validly given.
+
+##### Commencement Information
+I425 Sch. 13 para. 5 in force at 1.4.2007 by S.I. 2007/935,
+
+art. 5(gg)
+
+###### Co-operation
+
+The Chief Inspector must co-operate with-
+
+(a) the inspection authorities, and
+
+(b) any other public authority specified by order made by the Secretary of State,
+
+where  it  is  appropriate  to  do  so  for  the  efficient  and  effective  exercise  of  his functions.
+
+[[END OF PAGE 281]]
+
+[[START OF PAGE 282]]
+
+282
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 13 - Interaction with other authorities
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I426 Sch. 13 para. 6 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Joint action
+
+- 7 The  Chief  Inspector  may  act  jointly  with  another  public  authority  where  it  is appropriate to do so for the efficient and effective exercise of his functions.
+
+##### Commencement Information
+I427 Sch. 13 para. 7 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Advice or assistance for other public authorities
+
+- 8 (1) The  Chief  Inspector  may,  if  he  thinks  it  appropriate  to  do  so,  provide  advice  or assistance to another public authority for the purpose of the exercise by that authority of its functions.
+
+[ F282 (1A) The  Chief  Inspector  may  do  anything  the  Chief  Inspector  thinks  appropriate  to facilitate the carrying out of an inspection under section 10 of the Local Government Act 1999 (inspection of best value authorities). ]
+
+[ F283 (2) Anything  done  under  this  paragraph  may  be  done  on  such  terms  as  the  Chief Inspector thinks fit. ]
+
+- In this paragraph the reference to another public authority includes a public authority in the Channel Islands or the Isle of Man.
+
+##### Textual Amendments
+F282 Sch. 13 para. 8(1A) inserted (4.4.2014) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 69(3)(a) ; S.I. 2014/900, art. 2(l)(v) F283 Sch. 13 para. 8(2) substituted (4.4.2014) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 69(3)(b) ; S.I. 2014/900, art. 2(l)(v)
+##### Commencement Information
+I428 Sch. 13 para. 8 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Inspections carried out under arrangements
+
+- 9 (1) The Chief Inspector may make arrangements with a public authority for the carrying out by him-
+
+(a) in England or Wales, or
+
+(b) in Northern Ireland,
+
+of inspections of any institution or matter which he is not required or authorised to carry out by virtue of any other enactment.
+
+- The Chief Inspector may make arrangements with a public authority or the relevant overseas  authority  for  the  carrying  out  by  him  outside  the  United  Kingdom  of inspections of any institution or matter.
+
+[[END OF PAGE 282]]
+
+[[START OF PAGE 283]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+283
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+'The relevant overseas authority' means the authority in the jurisdiction concerned that is responsible for the institution or other matter.
+
+- Inspections  under  this  paragraph  may  be  carried  out  on  such  terms  as  the  Chief Inspector thinks fit.
+
+##### Commencement Information
+I429 Sch. 13 para. 9 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Charges
+
+- 10 The Chief Inspector may, with the consent of the Secretary of State, enter into arrangements for charges to be made-
+
+(a) for [ F284 doing anything ] under paragraph 8; or
+
+(b) for carrying out inspections under paragraph 9.
+
+##### Textual Amendments
+F284 Words in Sch. 13 para. 10(a) substituted (4.4.2014) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 69(4) ; S.I. 2014/900, art. 2(l)(v)
+##### Commencement Information
+I430 Sch. 13 para. 10 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+## SCHEDULE 14
+
+### MINOR AND CONSEQUENTIAL AMENDMENTS RELATING TO PART 8
+
+###### Public Records Act 1958 (c. 51)
+
+- 1 In  Part  2  of  the  Table  in  paragraph  3  of  Schedule  1  to  the  Public  Records  Act 1958 (definition of public records) omit the entry relating to the Adult Learning Inspectorate.
+
+##### Commencement Information
+I431 Sch. 14 para. 1 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Parliamentary Commissioner Act 1967 (c. 13)
+
+- 2 In  Schedule  2  to  the  Parliamentary  Commissioner  Act  1967  (departments etc. subject to investigation)-
+
+(a) omit the entries relating to the Adult Learning Inspectorate and the Office of Her Majesty's Chief Inspector of Schools in England, and
+
+(b) at  the  appropriate  place  insert-  '  Office  for  Standards  in  Education, Children's Services and Skills. '
+
+Section 157
+
+[[END OF PAGE 283]]
+
+[[START OF PAGE 284]]
+
+284
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I432 Sch. 14 para. 2 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Superannuation Act 1972 (c. 11)
+
+- 3 In Schedule 1 to the Superannuation Act 1972 (kinds of employment etc. referred to in section 1)-
+
+(a) omit the entry relating to the Adult Learning Inspectorate, and
+
+(b) for 'Her Majesty's Chief Inspector of Schools in England' substitute ' Her Majesty's Chief Inspector of Education, Children's Services and Skills '.
+
+##### Commencement Information
+I433 Sch. 14 para. 3 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Employment and Training Act 1973 (c. 50)
+
+- 4 In section 10B(1) of the Employment and Training Act 1973 (inspection)-
+
+(a) for 'Her Majesty's Chief Inspector of Schools in England' substitute ' Her Majesty's Chief Inspector of Education, Children's Services and Skills ',
+
+(b) omit paragraphs (a) and (b), and
+
+(c) in paragraph (c) for 'those services' substitute ' services in England in pursuance of section 8 or 9 '.
+
+##### Commencement Information
+
+I434 Sch. 14 para. 4 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### House of Commons Disqualification Act 1975 (c. 24)
+
+- 5 (1) Schedule 1 to the House  of Commons  Disqualification  Act  1975  (offices disqualifying for membership) is amended as follows.
+
+- In Part 2 (bodies of which all members are disqualified) insert at the appropriate place- ' The Office for Standards in Education, Children's Services and Skills. '
+
+- In Part 3 (other disqualifying offices) omit the entries relating to any member of the Adult Learning Inspectorate and to Her Majesty's Chief Inspector of Schools in England.
+
+##### Commencement Information
+I435 Sch. 14 para. 5 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+
+- 6 (1) Schedule  1  to  the  Northern  Ireland  Assembly  Disqualification  Act  1975  (offices disqualifying for membership) is amended as follows.
+
+[[END OF PAGE 284]]
+
+[[START OF PAGE 285]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+285
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In Part 2 (bodies of which all members are disqualified) insert at the appropriate place- ' The Office for Standards in Education, Children's Services and Skills. '
+
+- In Part 3 (other disqualifying offices) omit the entry relating to Her Majesty's Chief Inspector of Schools in England.
+
+##### Commencement Information
+I436 Sch. 14 para. 6 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Race Relations Act 1976 (c. 74)
+
+- 7 In Part 2 of Schedule 1A to the Race Relations Act 1976 (bodies and other persons subject  to  general  statutory  duty)  omit  the  entry  relating  to  the  Adult  Learning Inspectorate.
+
+##### Commencement Information
+I437 Sch. 14 para. 7 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Education Reform Act 1988 (c. 40)
+
+- 8 In  section  226(2)(b)  (services  for  schools  in  other  member  States  providing education for British children) for 'by, or under the direction of, one or more of Her Majesty's Inspectors of Schools for England' substitute ' by Her Majesty's Chief Inspector of Education, Children's Services and Skills '.
+
+##### Commencement Information
+I438 Sch. 14 para. 8 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Children Act 1989 (c. 41)
+
+- 9 The Children Act 1989 has effect subject to the following amendments.
+
+##### Commencement Information
+
+I439 Sch. 14 para. 9 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 10 Omit section 26ZA (representations: further consideration).
+
+- 11 In section 26A(2A) (advocacy services) omit '26ZA or'.
+
+##### Commencement Information
+I440 Sch. 14 para. 10 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 285]]
+
+[[START OF PAGE 286]]
+
+286
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I441 Sch. 14 para. 11 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 12 In section 65(6)(a) (persons disqualified from carrying on, or being employed in, children's homes) for 'the Commission for Social Care Inspection' substitute ' Her Majesty's Chief Inspector of Education, Children's Services and Skills '.
+
+##### Commencement Information
+
+I442 Sch. 14 para. 12 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 13 In  section  79B(1)  (other  definitions  etc.)  for  'Her  Majesty's  Chief  Inspector  of Schools  in  England'  substitute  '  Her  Majesty's  Chief  Inspector  of  Education, Children's Services and Skills '.
+
+##### Commencement Information
+
+I443 Sch. 14 para. 13 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 14 In section 79N (general functions of Chief Inspector) omit subsections (1) to (3) and (6).
+
+##### Commencement Information
+
+I444 Sch. 14 para. 14 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 15 In section 79R (reports of inspections) omit subsection (4).
+
+##### Commencement Information
+
+I445 Sch. 14 para. 15 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 16 (1) Section 87 (welfare of children in boarding schools and colleges) is amended as follows.
+
+- In subsection (4)-
+
+(a) for 'the Commission are' substitute ' the Chief Inspector for England is ', and
+
+(b) for 'college, they shall' substitute ' college in England, he shall '.
+
+- In subsection (4A), after 'school or college' insert ' in Wales '.
+
+- In subsections (9A) to (9C)-
+
+(a) for 'the Commission', wherever occurring, substitute ' the Chief Inspector for England ', and
+
+(b) for 'it must' substitute ' that authority must '.
+
+- In subsection (10)-
+
+(a) in the definition of 'appropriate authority', for 'the Commission for Social Care Inspection' substitute ' the Chief Inspector for England ',
+
+[[END OF PAGE 286]]
+
+[[START OF PAGE 287]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+287
+
+F286 18
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+(b) at the appropriate place insert-
+
+''the  Chief  Inspector  for  England'  means  Her  Majesty's  Chief Inspector of Education, Children's Services and Skills;', and
+
+(c) omit the definition of 'the Commission'.
+
+##### Commencement Information
+
+I446 Sch. 14 para. 16 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+F285 17
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F285 Sch. 14 para. 17 omitted (6.4.2016) by virtue of The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 236
+
+###### Further and Higher Education Act 1992 (c. 13)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F286 Sch. 14 para. 18 repealed (18.4.2008) by Further Education and Training Act 2007 (c. 25), s. 32(5), Sch.
+2 ; S.I. 2008/1065, art. 2(e)
+##### Commencement Information
+I447 Sch. 14 para. 18 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Education Act 1994 (c. 30)
+
+- 19 (1) Section 18B (inspection of teacher training) is amended as follows.
+
+- In  subsection  (1)  for  'Her  Majesty's  Chief  Inspector  of  Schools  in  England' substitute  '  Her  Majesty's  Chief  Inspector  of  Education,  Children's  Services  and Skills '.
+
+- For subsection (2) substitute-
+
+'(2) If  requested to do so by the Secretary of State, the Chief Inspector must inspect and report on such one or more relevant training providers in England as may be specified in the Secretary of State's request.'
+
+- In subsection (3) omit paragraph (a).
+
+- In subsection (4) omit the words from 'and subsections (2) to (4)' onwards.
+
+- In subsection (10) for 'paragraph 5(1) or (2) of Schedule 1 to the 2005 Act' substitute ' paragraph 9(1) of Schedule 12 to the Education and Inspections Act 2006 '.
+
+- In subsection (11) for the words from 'sections' onwards substitute ' paragraph 9(1) of that Schedule. '
+
+[[END OF PAGE 287]]
+
+[[START OF PAGE 288]]
+
+288
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I448 Sch. 14 para. 19 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Education Act 1997 (c. 44)
+
+- 20 The Education Act 1997 has effect subject to the following amendments.
+
+##### Commencement Information
+
+I449 Sch. 14 para. 20 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+F287 21
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F287 Sch. 14 para. 21 repealed (1.4.2010 for E., 1.11.2010 for W.) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 16 Pt. 4 ; S.I. 2010/1151, art. 2, Sch. 1; S.I. 2010/2413, art. 2(a)
+
+- 22 (1) Section 38 (inspection of [ F3 local authorities ] ) is amended as follows.
+
+- Omit subsection (2) (inspection of [ F3 local authorities ] in England).
+
+- In subsection (5) (persons conducting inspections)-
+
+(a) in paragraph (a) omit 'England or (as the case may require)', and
+
+(b) in paragraph (b) omit 'paragraph 2 of Schedule 1 to the Education Act 2005 or (as the case requires)' and for 'that Act' substitute ' the Education Act 2005 '.
+
+- In subsection (7) (definitions)-
+
+(a) for '41' substitute ' 41A ', and
+
+(b) omit paragraph (a).
+
+##### Textual Amendments
+
+- F3 Words  in  Act  substituted  (5.5.2010)  by  The  Local  Education  Authorities  and  Children's  Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 14(3)
+
+##### Commencement Information
+
+I450 Sch. 14 para. 22 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 23 In section 39(4) (reports of inspections under s. 38 etc.)-
+
+(a) omit the words from 'section 11(2)' to 'Wales,',
+
+(b) for 'that Act' substitute ' the Education Act 2005 ', and
+
+(c) omit 'section 11(2) or, as the case may be,'.
+
+##### Commencement Information
+
+I451 Sch. 14 para. 23 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 288]]
+
+[[START OF PAGE 289]]
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+289
+
+F289 26
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+24 Omit section 41 (inspections involving collaboration of Audit Commission).
+
+##### Commencement Information
+
+I452 Sch. 14 para. 24 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+F288 25
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F288 Sch. 14 para. 25 repealed (1.4.2010) by Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), s. 269(4), Sch. 16 Pt. 4 ; S.I. 2010/1151, art. 2, Sch. 1
+
+##### Commencement Information
+
+I453 Sch. 14 para. 25 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Audit Commission Act 1998 (c. 18)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F289 Sch. 14 paras. 26-28 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2 ; S.I. 2015/841, art. 3(a) (with arts. 5-8, Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+
+F289 27
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F289 Sch. 14 paras. 26-28 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2 ; S.I. 2015/841, art. 3(a) (with arts. 5-8, Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+
+F289 28
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F289 Sch. 14 paras. 26-28 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2 ; S.I. 2015/841, art. 3(a) (with arts. 5-8, Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+
+F290 29
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F290 Sch. 14 para. 29 repealed (31.1.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 18 Pt. 10 ; S.I. 2008/172, art. 2(1)(u)(i)
+
+##### Commencement Information
+
+I454 Sch. 14 para. 29 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 289]]
+
+[[START OF PAGE 290]]
+
+290
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+F291 30
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F291 Sch. 14 para. 31 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2 ; S.I. 2015/841, art. 3(a) (with arts. 5-8, Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+
+F291 31 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+F291 Sch. 14 para. 31 repealed (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 1 Pt. 2 ; S.I. 2015/841, art. 3(a) (with arts. 5-8, Sch.) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+
+###### Data Protection Act 1998 (c. 29)
+
+- 32 In section 31(6) of the Data Protection Act 1998 (personal data exempt from subject information provisions) omit '', 26ZA''.
+
+##### Commencement Information
+I455 Sch. 14 para. 32 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### School Standards and Framework Act 1998 (c. 31)
+
+- 33 SSFA 1998 has effect subject to the following amendments.
+
+- 34 In section 139(2)(b) (payments into Consolidated Fund) omit 'Her Majesty's Chief Inspector of Schools in England, or'.
+
+- 35 (1) Schedule 26 (inspection of nursery education) is amended as follows.
+
+- In  paragraph  2(1)(a)  for  'Her  Majesty's  Chief  Inspector  of  Schools  in  England' substitute  '  Her  Majesty's  Chief  Inspector  of  Education,  Children's  Services  and Skills '.
+
+- In paragraph 13A omit sub-paragraph (4).
+
+- In paragraph 14 omit sub-paragraph (1).
+
+##### Commencement Information
+I456 Sch. 14 para. 33 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+##### Commencement Information
+I457 Sch. 14 para. 34 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 290]]
+
+[[START OF PAGE 291]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+291
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I458 Sch. 14 para. 35 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Protection of Children Act 1999 (c. 14)
+
+- 36 In section 2A(2) of the Protection of Children Act 1999 (persons who may refer individuals  for  inclusion  in  list  of  those  unsuitable  to  work  with  children)  for paragraph (c) substitute-
+
+'(c) Her Majesty's Chief Inspector of Education, Children's Services and Skills.'
+
+##### Commencement Information
+I459 Sch. 14 para. 36 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Local Government Act 1999 (c. 27)
+
+- 37 In section 25(2) of the Local Government Act 1999 (coordination of inspections, &c) for paragraph (c) substitute-
+
+'(c) Her Majesty's Chief Inspector of Education, Children's Services and Skills;'.
+
+##### Commencement Information
+I460 Sch. 14 para. 37 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Care Standards Act 2000 (c. 14)
+
+- 38 The Care Standards Act 2000 has effect subject to the following amendments.
+
+- 39 In section 5(1) (registration authorities) for paragraph (a)(ii) substitute-
+
+'(ii) the  CSCI,  in  the  case  of  care  homes,  domiciliary  care agencies and nurses agencies;
+
+(iii) Her  Majesty's  Chief  Inspector  of  Education,  Children's Services and  Skills (referred to in this Act  as 'the CIECSS'),  in  the  case  of  children's  homes,  residential family centres, fostering agencies,  voluntary  adoption agencies and adoption support agencies;'.
+
+- 40 (1) Section 8 (general functions of the Assembly) is amended as follows.
+
+##### Commencement Information
+I461 Sch. 14 para. 38 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+##### Commencement Information
+I462 Sch. 14 para. 39 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 291]]
+
+[[START OF PAGE 292]]
+
+292
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- For subsection (3) substitute-
+
+'(3) The  Assembly  shall  have  such  additional  functions  in  relation  to  Part  II services provided in Wales as may be specified in regulations made by the Assembly.
+
+(3A) But the only functions which may be so specified in relation to a particular Part II service are functions which-
+
+(a) by virtue of section 5A(7) are exercisable by the CHAI;
+
+(b) by virtue of section 5B(7) are exercisable by the CSCI; or
+
+(c) by virtue of section 118(4) of the Education and Inspections Act 2006 are exercisable by the CIECSS,
+
+in relation to the corresponding Part II service provided in England.'
+
+- In  the  subsection  (6)  inserted  by  section  109  of  the  Health  and  Social  Care (Community Health and Standards) Act 2003 (c. 43) for paragraph (b) substitute-
+
+'(b) any other functions exercisable by the Assembly corresponding to functions exercisable-
+
+(i) by the CSCI in relation to England; or
+
+(ii) by  the  CIECSS  under  section  147  of  the  Education  and Inspections Act 2006.'
+
+- The  subsection  (6)  inserted  by  paragraph  18(3)  of  Schedule  9  to  the  Health  and Social Care (Community Health and Standards) Act 2003 (c. 43) is renumbered as subsection (7).
+
+- 41 In  section  10(6)  (inquiries  relating  to  exercise  of  functions  by  Assembly)  for paragraph (b) substitute-
+
+'(b) any other functions exercisable by the Assembly corresponding to functions exercisable-
+
+(i) by the CHAI, the CSCI or the CIECSS under this Act in relation to England; or
+
+(ii) by  the  CIECSS  under  section  147  of  the  Education  and Inspections Act 2006.'
+
+##### Commencement Information
+I463 Sch. 14 para. 40 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+##### Commencement Information
+I464 Sch. 14 para. 41 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 42 In section 11(4) (keeping of registers) for 'or the CSCI' substitute ' , the CSCI or the CIECSS '.
+
+##### Commencement Information
+I465 Sch. 14 para. 42 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 292]]
+
+[[START OF PAGE 293]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+293
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- 43 In section 12(2) (applications for registration) for 'or the CSCI' substitute ' , the CSCI or the CIECSS '.
+
+##### Commencement Information
+I466 Sch. 14 para. 43 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 44 In section 15(3)(a) (fees for applications by registered persons) for 'or the CSCI' substitute ' , the CSCI or the CIECSS '.
+
+##### Commencement Information
+I467 Sch. 14 para. 44 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 45 In section 16(3)(a) (annual fee payable by persons registered under Part 2) for 'or the CSCI' substitute ' , the CSCI or the CIECSS '.
+
+##### Commencement Information
+I468 Sch. 14 para. 45 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 46 In section 22(7)(i)(i) (fees in respect of notifications) for 'or the CSCI' substitute ' , the CSCI or the CIECSS '.
+
+##### Commencement Information
+I469 Sch. 14 para. 46 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 47 In section 29(1)(a) (proceedings for offences) for 'or the CSCI' (in the first place) substitute ' , the CSCI or the CIECSS '.
+
+##### Commencement Information
+I470 Sch. 14 para. 47 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 48 In  section  31(7)  (requirement to arrange for inspection of premises) for 'or the CSCI' substitute ' , the CSCI or the CIECSS '.
+
+- 49 In  section  36A  (voluntary  adoption  agencies:  distribution  of  functions)  for  'the CSCI' (in each place) substitute ' the CIECSS '.
+
+##### Commencement Information
+I471 Sch. 14 para. 48 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+##### Commencement Information
+I472 Sch. 14 para. 49 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 293]]
+
+[[START OF PAGE 294]]
+
+294
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- 50 In section 42(5) (power to extend application of Part 2) for 'or the CSCI' substitute ' , the CSCI or the CIECSS '.
+
+##### Commencement Information
+I473 Sch. 14 para. 50 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 51 Omit  section  45(4)  (inspection  of  premises  used  in  discharge  of  adoption  and fostering functions).
+
+##### Commencement Information
+
+I474 Sch. 14 para. 51 in force at 1.4.2007 by S.I. 2007/935,
+
+art. 5(gg)
+
+- 52 In section 55(3)(e) (persons who may be treated as social care workers)-
+
+(a) after 'the CSCI' insert ' , the Office for Standards in Education, Children's Services and Skills ',
+
+(b) for 'or section 88' substitute ' , section 88 ', and
+
+(c) after 'Act 2003' insert ' or section 139 of the Education and Inspections Act 2006 '.
+
+##### Commencement Information
+I475 Sch. 14 para. 52 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 53 (1) Section 113A (fees payable under Part 2) is amended as follows.
+
+- In subsection (1)-
+
+(a) for 'and the CSCI' substitute ' , the CSCI and the CIECSS ', and
+
+(b) after 'to it' insert ' or him '.
+
+- For subsection (3) substitute-
+
+'(3) Before  making  any  provision  under  subsection  (1),  the  CHAI,  the  CSCI or  the  CIECSS  must  consult  such  bodies  as  appear  to  it  or  him  to  be representative of the persons liable to pay the fee.'
+
+- In subsection (5) for 'or the CSCI' substitute ' , the CSCI or the CIECSS '.
+
+- In subsection (6)-
+
+(a) for 'or the CSCI' substitute ' , the CSCI or the CIECSS ', and
+
+(b) after 'body' insert ' or person '.
+
+- 54 In section 121(13) (interpretation), at the appropriate place in the Table insert- ' the CIECSS Section 5. '
+
+##### Commencement Information
+I476 Sch. 14 para. 53 in force at 1.4.2007 by S.I. 2007/935,
+
+art. 5(gg)
+
+[[END OF PAGE 294]]
+
+[[START OF PAGE 295]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+295
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I477 Sch. 14 para. 54 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Learning and Skills Act 2000 (c. 21)
+
+- 55 The Learning and Skills Act 2000 has effect subject to the following amendments.
+
+##### Commencement Information
+I478 Sch. 14 para. 55 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 56
+
+Omit sections 52 to 72 (inspections in England).
+
+##### Commencement Information
+I479 Sch. 14 para. 56 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 57 (1) Section  82  (inspections  of  education  and  training  provided  under  1973  Act arrangements) is amended as follows.
+
+- In  subsection  (1)  for  'the  Adult  Learning  Inspectorate'  substitute  '  the  Chief Inspector for England '.
+
+- In  subsection  (4)  for  the  words  from  'the  Adult  Learning  Inspectorate'  onwards substitute ' the Chief Inspector for England must be given to that Chief Inspector. '
+
+- In  subsection  (5)  for  'The  Adult  Learning  Inspectorate'  substitute  '  The  Chief Inspector for England ' and for 'it' substitute ' he '.
+
+- After subsection (6) add-
+
+'(7) In this section 'the Chief Inspector for England' means Her Majesty's Chief Inspector of Education, Children's Services and Skills.'
+
+##### Commencement Information
+I480 Sch. 14 para. 57 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 58 Omit-
+
+(a) section 90 (preliminary transfers: FEFC for England), and
+
+(b) section 92(4)(b) and (c) (transfers: England).
+
+- 59 In section 94(2) (stamp duty) for 'section 90 or 92' substitute ' section 92 '.
+
+##### Commencement Information
+I481 Sch. 14 para. 58 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 295]]
+
+[[START OF PAGE 296]]
+
+296
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I482 Sch. 14 para. 59 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 60 In section 95(1)(b) (contracts of employment) for 'section 90 or 92' substitute ' section 92 '.
+
+##### Commencement Information
+
+I483 Sch. 14 para. 60 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+F292 61
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F292 Sch. 14 para. 61 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 23(4) ; S.I. 2013/1800, art. 3(j)
+
+- 62 In section 118(1) (inspection)-
+
+(a) for 'Her Majesty's Chief Inspector of Schools in England' substitute ' Her Majesty's Chief Inspector of Education, Children's Services and Skills ',
+
+(b) omit paragraphs (a) and (b), and
+
+(c) in paragraph (c) for 'those services' substitute ' services in pursuance of section 114(1) '.
+
+##### Commencement Information
+
+I484 Sch. 14 para. 62 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 63 In section 150(4)(a) (Wales) omit '90,'.
+
+##### Commencement Information
+I485 Sch. 14 para. 63 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 64 Omit section 151(2) (transitional provisions).
+
+##### Commencement Information
+I486 Sch. 14 para. 64 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 65 Omit Schedule 6 (the Adult Learning Inspectorate).
+
+##### Commencement Information
+
+I487 Sch. 14 para. 65 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+F293 66
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[END OF PAGE 296]]
+
+[[START OF PAGE 297]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+297
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+Sch. 14 para. 66 omitted (1.10.2013) by virtue of School Standards and Organisation (Wales) Act 2013
+
+F293 (anaw 1), s. 100(4), Sch. 5 para. 23(4) ; S.I. 2013/1800, art. 3(j)
+
+- 67 Omit Part 3 of Schedule 10 (transitional provisions).
+
+##### Commencement Information
+I488 Sch. 14 para. 67 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Regulation of Investigatory Powers Act 2000 (c. 23)
+
+- 68 In Part 2 of Schedule 1 (relevant authorities for purposes only of section 28) for paragraph 27B and the cross-heading preceding it substitute-
+
+'HM Chief Inspector of Education, Children's Services and Skills
+
+27B Her Majesty's Chief Inspector of Education, Children's Services and Skills.'
+
+##### Commencement Information
+I489 Sch. 14 para. 68 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Freedom of Information Act 2000 (c. 36)
+
+- 69 (1) Schedule 1 to the Freedom of Information Act 2000 (public authorities) is amended as follows.
+
+- In Part 1-
+
+(a) at  the  end  of  paragraph  1  insert  '  other  than  the  Office  for  Standards  in Education, Children's Services and Skills ', and
+
+(b) after that paragraph insert-
+
+'1A The  Office  for  Standards  in  Education,  Children's  Services  and Skills, in respect of information held for purposes other than those of  the  functions  exercisable  by  Her  Majesty's  Chief  Inspector  of Education, Children's Services and Skills by virtue of section 5(1) (a)(iii) of the Care Standards Act 2000.'
+
+- In Part 6 omit the entry relating to the Adult Learning Inspectorate.
+
+##### Commencement Information
+I490 Sch. 14 para. 69 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Education Act 2002 (c. 32)
+
+- 70 EA 2002 has effect subject to the following amendments.
+
+[[END OF PAGE 297]]
+
+[[START OF PAGE 298]]
+
+298
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I491 Sch. 14 para. 70 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 71 In section 1(3) (purpose and interpretation of Chapter 1) for 'Her Majesty's Chief Inspector  of  Schools  in  England'  substitute  '  Her  Majesty's  Chief  Inspector  of Education, Children's Services and Skills '.
+
+##### Commencement Information
+
+I492 Sch. 14 para. 71 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 72 In section 151 (childcare functions of HM Chief Inspector and National Assembly for Wales) in subsections (1) and (2) for 'Her Majesty's Chief Inspector of Schools in England' substitute ' Her Majesty's Chief Inspector of Education, Children's Services and Skills '.
+
+##### Commencement Information
+
+I493 Sch. 14 para. 72 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 73 (1) Section 162A (power to inspect registered schools in England) is amended as follows.
+
+- Omit subsection (4).
+
+- In  subsection  (5)  for  'Her  Majesty's  Chief  Inspector  of  Schools  in  England' substitute  '  Her  Majesty's  Chief  Inspector  of  Education,  Children's  Services  and Skills '.
+
+##### Commencement Information
+
+I494 Sch. 14 para. 73 in force at 1.4.2007 by S.I. 2007/935,
+
+art. 5(gg)
+
+74 In section 162B (inspections under section 162A: supplementary) omit subsection (8).
+
+##### Commencement Information
+I495 Sch. 14 para. 74 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 75 In section 171 (interpretation of Chapter 1), in the definition of 'Chief Inspector', for  'Her  Majesty's  Chief  Inspector  of  Schools  in  England'  substitute  '  Her Majesty's Chief Inspector of Education, Children's Services and Skills '.
+
+##### Commencement Information
+I496 Sch. 14 para. 75 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 298]]
+
+[[START OF PAGE 299]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+299
+
+F294 77
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+###### Adoption and Children Act 2002 (c. 38)
+
+- 76 In section 99 of the Adoption and Children Act 2002 (proceedings for offences) for 'the Commission for Social Care Inspection' substitute ' Her Majesty's Chief Inspector of Education, Children's Services and Skills '.
+
+##### Commencement Information
+
+I497 Sch. 14 para. 76 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Courts Act 2003 (c. 39)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F294 Sch. 14 paras. 77-81 repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 23 (with art. 2)
+
+F294 78
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F294
+
+Sch. 14 paras. 77-81 repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 23 (with art. 2)
+
+F294 79
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F294 Sch. 14 paras. 77-81 repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 23 (with art. 2)
+
+F294 80
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F294 Sch. 14 paras. 77-81 repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 23 (with art. 2)
+
+F294 81
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[END OF PAGE 299]]
+
+[[START OF PAGE 300]]
+
+300
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Textual Amendments
+
+F294 Sch. 14 paras. 77-81 repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 23 (with art. 2)
+
+###### Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+
+- 82 The Health and Social Care (Community Health and Standards) Act 2003 has effect subject to the following amendments.
+
+##### Commencement Information
+
+I498 Sch. 14 para. 82 in force at 1.4.2007 by S.I. 2007/935,
+
+art. 5(gg)
+
+- 83 In  section  76(2)  (matters  to  which  the  CSCI  is  to  have  particular  regard  in  the exercise of certain functions)-
+
+(a) in paragraph (d) at the end insert ' and ', and
+
+(b) omit paragraphs (f) and (g).
+
+##### Commencement Information
+I499 Sch. 14 para. 83 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 84 Omit section 77(3) (advice as to standards prepared and published under section 23 of the Care Standards Act 2000 (c. 14)).
+
+##### Commencement Information
+I500 Sch. 14 para. 84 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 85 (1) Section 79 (annual reviews) is amended as follows.
+
+- For subsection (2) substitute-
+
+'(2) After conducting a review under subsection (1) in respect of a local authority the CSCI must award a performance rating to that authority in respect of all  the  English local authority social services provided by, or pursuant to arrangements made by, that authority.'
+
+- Omit subsection (7).
+
+- 86 Omit section 80(5) (duty to take into account standards prepared and published under section 23 of the Care Standards Act 2000).
+
+##### Commencement Information
+
+I501 Sch. 14 para. 85 in force at 1.4.2007 by S.I. 2007/935,
+
+art. 5(gg)
+
+[[END OF PAGE 300]]
+
+[[START OF PAGE 301]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+301
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I502 Sch. 14 para. 86 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+In section 81(2) (duties of the CSCI on awarding lowest performance rating) for
+
+- 87 'section 79(2)(a) or (b)' substitute ' section 79(2) '.
+
+##### Commencement Information
+I503 Sch. 14 para. 87 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+88 For section 96 substitute-
+
+' 96 Additional functions
+
+' 96 ' 96 Additional functions
+
+- The  Assembly  shall  have  such  additional  functions  in  relation  to  the provision of Welsh local authority social services as-
+
+(a) correspond to functions within subsection (2), and
+
+(b) are specified by the Assembly in regulations.
+
+(2) The functions within this subsection are-
+
+(a) functions conferred on the CSCI by or under this Act, and
+
+(b) functions relating to the provision of relevant services and assigned to Her Majesty's Chief Inspector of Education, Children's Services and Skills under section 118(4) of the Education and Inspections Act 2006.
+
+- In subsection (2)(b) 'relevant services' means services which immediately before the coming into force of Chapter 4 of Part 8 of the Education and Inspections Act 2006 were English local authority social services for the purposes of this Part of this Act.'
+
+##### Commencement Information
+I504 Sch. 14 para. 88 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 89 Omit section 110 (transfer to the CSCI of functions under section 87 of the Children Act 1989).
+
+##### Commencement Information
+I505 Sch. 14 para. 89 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+90
+
+Omit section 112 (inspection of secure training centres by the CSCI).
+
+##### Commencement Information
+I506 Sch. 14 para. 90 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 301]]
+
+[[START OF PAGE 302]]
+
+302
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- 91 (1) Section 120 (co-operation etc.) is amended as follows.
+
+- After subsection (1) insert-
+
+'(1A) The CHAI and the CSCI must each co-operate with the CIECSS where it seems to the CHAI or the CSCI (as the case may be) appropriate to do so for the efficient and effective discharge of-
+
+(a) its functions; and
+
+(b) the  functions  of  the  CIECSS  under  Chapter  4  of  Part  8  of  the Education and Inspections Act 2006.'
+
+- In subsection (2) after 'each other' insert ' or the CIECSS '.
+
+- For subsection (3) substitute-
+
+'(3) The CHAI may delegate to the CSCI or the CIECSS any of its functions to be exercised by the CSCI or the CIECSS (as the case may be) on its behalf.
+
+(3A) The CSCI may delegate to the CHAI or the CIECSS any of its functions to be exercised by the CHAI or the CIECSS (as the case may be) on its behalf.'
+
+- In subsection (4) for 'whenever they consider' substitute ' with the other or with the CIECSS whenever the CHAI or the CSCI (as the case may be) considers '.
+
+- After that subsection add-
+
+'(5) In  this  section  'the  CIECSS'  means  Her  Majesty's  Chief  Inspector  of Education, Children's Services and Skills.'
+
+- 92 In section 133(1)(a) (failure in discharge of functions: CSCI) omit 'or the Children Act 1989 (c. 41)'.
+
+- 93 (1) Section 148 (interpretation of Part 2) is amended as follows.
+
+- At  the  end  of  the  definition  of  'English  local  authority  social  service'  add-  ' but  does  not  include  anything  which  may  be  inspected  by  Her  Majesty's  Chief Inspector of Education, Children's Services and Skills under Chapter 4 of Part 8 of the Education and Inspections Act 2006. '
+
+- At the end of the definition of 'social services functions' add 'but (in relation to a local authority in England) does not include-
+
+(a) functions  within  section  135(1)(d)  or  (e)  of  the  Education  and Inspections Act 2006, or
+
+(b) functions prescribed by regulations under section 135(1)(f) of that Act.'
+
+##### Commencement Information
+I507 Sch. 14 para. 91 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+##### Commencement Information
+I508 Sch. 14 para. 92 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 302]]
+
+[[START OF PAGE 303]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+303
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I509 Sch. 14 para. 93 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 94
+
+In Schedule 7 (CSCI: supplementary) omit paragraph 5(2).
+
+##### Commencement Information
+I510 Sch. 14 para. 94 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Children Act 2004 (c. 31)
+
+- 95 The Children Act 2004 has effect subject to the following amendments.
+
+- 96 (1) Section 20 (joint area reviews) is amended as follows.
+
+- In subsection (4) omit paragraphs (b) and (c).
+
+- In subsection (7)-
+
+(a) for 'subsection (7)(a) of section 2 of the School Inspections Act 1996 (c. 57)' substitute ' subsection (1) of section 121 of the Education and Inspections Act 2006 ', and
+
+(b) for 'subsection (7)(b)' substitute ' subsection (3) '.
+
+- 97 In section 23 (sections 20 to 22: interpretation) for subsection (5) substitute-
+
+##### Commencement Information
+I511 Sch. 14 para. 95 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+##### Commencement Information
+I512 Sch. 14 para. 96 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+'(5) 'The Chief Inspector of Schools' means Her Majesty's Chief Inspector of
+
+- Education, Children's Services and Skills.'
+
+##### Commencement Information
+I513 Sch. 14 para. 97 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Education Act 2005 (c. 18)
+
+- 98 EA 2005 has effect subject to the following amendments.
+
+##### Commencement Information
+I514 Sch. 14 para. 98 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+[[END OF PAGE 303]]
+
+[[START OF PAGE 304]]
+
+304
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- 99 Omit sections 1 to 4 (appointment and functions of Her Majesty's Chief Inspector of Schools in England, etc.).
+
+##### Commencement Information
+I515 Sch. 14 para. 99 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+100 For section 8 substitute-
+
+' 8 Other inspections
+
+' 8 ' 8 Other inspections
+
+- If  requested to do so by the Secretary of State, the Chief Inspector must inspect  and  report  on  such  school,  or  class  of  school,  in  England  as  is specified in the request.
+
+- The Chief Inspector may inspect any school in England in circumstances where he is not required to do so by section 5 or subsection (1) above.'
+
+##### Commencement Information
+
+I516 Sch. 14 para. 100 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 101 In section 9 (power of Chief Inspector to treat other inspection as s. 5 inspection) omit '2(2)(b) or'.
+
+##### Commencement Information
+
+I517 Sch. 14 para. 101 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 102 In section 11 (publication of inspection reports) omit subsections (2) to (4).
+
+##### Commencement Information
+
+I518 Sch. 14 para. 102 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+103 In  section  12  (interpretation  of  Chapter  1)  for  'Her  Majesty's  Chief  Inspector of Schools in England' substitute ' Her Majesty's Chief Inspector of Education, Children's Services and Skills '.
+
+##### Commencement Information
+I519 Sch. 14 para. 103 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+104
+
+In  section  18  (interpretation  of  Chapter  2)  for  'Her  Majesty's  Chief  Inspector of Schools in England' substitute ' Her Majesty's Chief Inspector of Education, Children's Services and Skills '.
+
+[[END OF PAGE 304]]
+
+[[START OF PAGE 305]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+305
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I520 Sch. 14 para. 104 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 105 (1) Section 59 (combined reports) is amended as follows.
+
+- After subsection (2) insert-
+
+'(2A) Subsection (2) does not apply so as to authorise the making of a combined report by the Chief Inspector for England (as to which section 152 of the Education and Inspections Act 2006 applies instead).'
+
+- In subsection (4) after 'Chief Inspector' insert ' for Wales '.
+
+- After that subsection add-
+
+'(5) In this section-
+
+'the  Chief  Inspector  for  England'  means  Her  Majesty's  Chief Inspector of Education, Children's Services and Skills; and
+
+'the  Chief  Inspector  for  Wales'  means  Her  Majesty's  Chief Inspector of Education and Training in Wales.'
+
+##### Commencement Information
+I521 Sch. 14 para. 105 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+106 In section 100(1) (interpretation of Part 3) in the definition of 'the Chief Inspector for England', for 'Her Majesty's Chief Inspector of Schools in England' substitute ' Her Majesty's Chief Inspector of Education, Children's Services and Skills '.
+
+##### Commencement Information
+
+I522 Sch. 14 para. 106 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+107 Omit Schedule 1 (provisions relating to HM Chief Inspector of Schools in England).
+
+##### Commencement Information
+
+I523 Sch. 14 para. 107 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+###### Childcare Act 2006 (c. 21)
+
+- 108 The Childcare Act 2006 has effect subject to the following amendments.
+
+##### Commencement Information
+I524 Sch. 14 para. 108 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+109 Omit section 14 (inspection).
+
+[[END OF PAGE 305]]
+
+[[START OF PAGE 306]]
+
+306
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 14 - Minor and consequential amendments relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I525 Sch. 14 para. 109 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 110
+
+- Omit section 31 (general functions of Chief Inspector).
+
+##### Commencement Information
+
+I526 Sch. 14 para. 110 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 111 In section 50 (report of inspections) omit subsection (4).
+
+##### Commencement Information
+
+I527 Sch. 14 para. 111 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+112
+
+In section 61 (report of inspections) omit subsection (4).
+
+##### Commencement Information
+
+I528 Sch. 14 para. 112 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 113 (1) Section 77 (powers of entry) is amended as follows.
+
+- In  subsections  (1)  and  (2)  omit  'A  person  authorised  for  the  purposes  of  this subsection by'.
+
+- In subsection (3) for 'Authorisation' substitute ' An authorisation given by the Chief Inspector under paragraph 9(1) of Schedule 12 to the Education and Inspections Act 2006 in relation to his functions '.
+
+- Omit subsection (7).
+
+##### Commencement Information
+
+I529 Sch. 14 para. 113 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+- 114 (1) Section 79 (power of constable to assist in exercise of powers of entry) is amended as follows.
+
+- In subsection (1) for 'A person authorised for the purpose of subsection (1) or (2) of section 77' substitute ' The Chief Inspector '.
+
+- In subsection (2)-
+
+(a) for 'authorised person' substitute ' Chief Inspector ', and
+
+(b) for 'that person' substitute ' the Chief Inspector '.
+
+Commencement Information I530 Sch. 14 para. 114 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+115
+
+Omit section 80 (combined reports).
+
+[[END OF PAGE 306]]
+
+[[START OF PAGE 307]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 15 - Transitional provisions and savings relating to Part 8
+
+Document Generated: 2020-04-22
+
+307
+
+1
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I531 Sch. 14 para. 115 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+116 Omit section 81 (information to be included in annual reports).
+
+##### Commencement Information
+
+I532 Sch. 14 para. 116 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+117 In section 98(1) (interpretation of Part 3), in the definition of 'the Chief Inspector', for  'Her  Majesty's  Chief  Inspector  of  Schools  in  England'  substitute  '  Her Majesty's Chief Inspector of Education, Children's Services and Skills '.
+
+##### Commencement Information
+I533 Sch. 14 para. 117 in force at 1.4.2007 by S.I. 2007/935, art. 5(gg)
+
+## SCHEDULE 15
+
+### TRANSITIONAL PROVISIONS AND SAVINGS RELATING TO PART 8
+
+###### Staff transfer schemes
+
+- The Secretary of State may make a scheme (a 'staff transfer scheme') providing-
+
+(a) for an employee of the ALI or the CSCI to become a member of the staff of the Office;
+
+(b) for  his  contract  of  employment  to  have  effect  (subject  to  any  necessary modifications) as his conditions of service as a member of the staff of the Office;
+
+(c) for the transfer to the Office of the rights, powers, duties and liabilities of the ALI or the CSCI under or in connection with the employee's contract of employment;
+
+(d) for anything done (or having effect as if done) before that transfer by or in relation to the ALI or the CSCI in respect of such a contract or the employee to be treated as having been done by or in relation to the Office.
+
+- A staff transfer scheme may provide for a period before a person became a member of the staff of the Office to count as a period during which he was a member of its staff (and for the operation of the scheme not to be treated as having interrupted the continuity of that period).
+
+- A staff transfer scheme may provide for an employee of the ALI or the CSCI who would otherwise become a member of the staff of the Office not to become such a member of staff if he gives notice objecting to the operation of the scheme in relation to him.
+
+Section 158
+
+[[END OF PAGE 307]]
+
+[[START OF PAGE 308]]
+
+308
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 15 - Transitional provisions and savings relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- A staff transfer scheme may provide for any person who would be treated (whether by an enactment or otherwise) as being dismissed by the operation of the scheme not to be so treated.
+
+- A staff transfer scheme may provide for-
+
+(a) section 3 of the Act of Settlement (1700 c. 2),
+
+(b) section 6 of the Aliens Restriction (Amendment) Act 1919 (c. 92), and
+
+(c) any rules prescribing requirements as to nationality which must be satisfied in the case of persons employed in a civil capacity under the Crown,
+
+not to apply in relation to service as a member of the staff of the Office by a person who becomes a member of its staff pursuant to the scheme.
+
+##### Commencement Information
+I534 Sch. 15 para. 1 in force at 1.4.2007 by S.I. 2007/935, art. 5(hh)
+
+###### Property transfer schemes
+
+- 2 (1) The Secretary of State may make a scheme (a 'property transfer scheme') providing for the transfer to the Office or the new Chief Inspector of any property, rights or liabilities of any of the following-
+
+(a) the existing Chief Inspector;
+
+(b) the Secretary of State;
+
+(c) the Lord Chancellor;
+
+(d) the ALI;
+
+(e) the CSCI.
+
+- A property transfer scheme may provide for the transfer to a person other than the Office or the new Chief Inspector of any property, rights or liabilities of the ALI not transferred pursuant to sub-paragraph (1).
+
+- A property transfer scheme may-
+
+(a) create rights, or impose liabilities, in relation to property or rights transferred by virtue of the scheme;
+
+(b) provide for things done by or in relation to persons mentioned in paragraphs (a) to (e) of sub-paragraph (1) in connection with any property, rights or liabilities transferred by the scheme to be treated as done, or to be continued, by or in relation to the person to whom the property, rights or liabilities in question are transferred;
+
+(c) apportion property, rights and liabilities;
+
+(d) make provision about the continuation of legal proceedings.
+
+- The things that may be transferred by a property transfer scheme include-
+
+(a) property, rights and liabilities that could not otherwise be transferred;
+
+(b) property acquired, and rights and liabilities arising, after the making of the scheme.
+
+[[END OF PAGE 308]]
+
+[[START OF PAGE 309]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 15 - Transitional provisions and savings relating to Part 8
+
+Document Generated: 2020-04-22
+
+309
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I535 Sch. 15 para. 2 in force at 1.4.2007 by S.I. 2007/935, art. 5(hh)
+
+###### Continuity of exercise of functions etc.
+
+- 3 (1) Anything which-
+
+(a) has been done (or has effect as if done) by or in relation to the existing Chief Inspector, and
+
+(b) is in force immediately before the appointed day,
+
+is to be treated as done by or in relation to the new Chief Inspector.
+
+- Anything (including any legal proceedings) which-
+
+(a) relates to any function transferred to, or otherwise made exercisable by, the new Chief Inspector under this Part, and
+
+(b) is in the process of being done by or in relation to the existing Chief Inspector immediately before the appointed day,
+
+may be continued by or in relation to the new Chief Inspector.
+
+- Nothing in sub-paragraph (1) or (2)-
+
+(a) applies  to  anything  in  relation  to  which  provision  may  be  made  under paragraph 2(3)(b), or
+
+(b) affects the validity of anything done by the existing Chief Inspector.
+
+- In this paragraph 'the appointed day' means the day appointed under section 188 for the coming into force of section 113.
+
+- 4 (1) A scheme made by the Secretary of State may make provision corresponding to the provision made by paragraph 3 in relation to things done, having effect as if done, or in the process of being done by-
+
+##### Commencement Information
+
+I536 Sch. 15 para. 3 in force at 1.4.2007 by S.I. 2007/935, art. 5(hh)
+
+F295
+
+(a)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) the ALI,
+
+(c) the Chief Inspector of Adult Learning, or
+
+(d) the CSCI.
+
+- Such a scheme may provide for things to be treated as done, or to be continued, by or in relation to the Chief Inspector or the Office.
+
+- This paragraph does not apply to anything in relation to which provision may be made under paragraph 1(1)(d).
+
+##### Textual Amendments
+F295 Sch. 15 para. 4(1)(a) repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 24(a) (with art. 2)
+
+[[END OF PAGE 309]]
+
+[[START OF PAGE 310]]
+
+310
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 15 - Transitional provisions and savings relating to Part 8
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+I537 Sch. 15 para. 4 in force at 1.4.2007 by S.I. 2007/935, art. 5(hh)
+
+###### Schemes: supplementary
+
+- 5 A  staff  transfer  scheme,  a  property  transfer  scheme  or  a  scheme  made  under paragraph 4 may contain supplementary, incidental, transitional and consequential provision.
+
+##### Commencement Information
+I538 Sch. 15 para. 5 in force at 1.4.2007 by S.I. 2007/935, art. 5(hh)
+
+###### Saving for previous transfer schemes
+
+- 6 Paragraphs 58 and 60 of Schedule 14 to this Act (and the corresponding entries in Part 5 of Schedule 18 to this Act) do not affect-
+
+(a) any  provision  of  a  scheme  made  under  section  90(1)  or  92(1)  of  the Learning and Skills Act 2000 (c. 21) which has effect immediately before the coming into force of those paragraphs;
+
+(b) the operation of section 95 of that Act in relation to rights and liabilities under a contract of employment transferred by virtue of such a scheme.
+
+##### Commencement Information
+I539 Sch. 15 para. 6 in force at 1.4.2007 by S.I. 2007/935, art. 5(hh)
+
+###### Preparation for performance of functions by the new Chief Inspector
+
+- 7 (1) The Secretary of State may by regulations confer on the Office and the existing Chief Inspector such powers, and impose on them such duties, as the Secretary of State considers necessary or expedient for the purpose of preparing for the performance by the new Chief Inspector of his functions.
+
+- Regulations under sub-paragraph (1) may be made at any time before the day on which the new Chief Inspector acquires his functions.
+
+- The  ALI,  the  Chief  Inspector  of  Adult  Learning,  the  CSCI  and  the  court administration inspectors must give such assistance to the Office and the existing Chief  Inspector  as  is  reasonably  required  for  the  purpose  of  preparing  for  the performance by the new Chief Inspector of his functions.
+
+- In this paragraph references to the new Chief Inspector's functions are to the functions conferred on him by virtue of this Part.
+
+##### Commencement Information
+I540 Sch. 15 para. 7 partly in force; Sch. 15 para. 7 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see s. 188(1) I541 Sch. 15 para. 7 in force at 12.12.2006 in so far as not already in force by S.I. 2006/2990, art. 2(j)
+
+[[END OF PAGE 310]]
+
+[[START OF PAGE 311]]
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 16 - Powers to facilitate innovation
+
+Document Generated: 2020-04-22
+
+311
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+###### First annual report of the new Chief Inspector
+
+- 8 (1) The first annual report made by the new Chief Inspector under section 121 is to be a report in respect of the year beginning with the day after the end of the last year for which the existing Chief Inspector made a report under section 3 of EA 2005.
+
+- That report is to include a report on the exercise by the existing Chief Inspector of his functions during any period-
+
+(a) beginning with the day mentioned in sub-paragraph (1), and
+
+(b) ending with the day before his office was abolished.
+
+Commencement Information I542 Sch. 15 para. 8 in force at 1.4.2007 by S.I. 2007/935, art. 5(hh)
+
+###### Interpretation
+
+9 In this Schedule-
+
+'the ALI' means the Adult Learning Inspectorate;
+
+'the existing Chief Inspector' means Her Majesty's Chief Inspector of Schools in England;
+
+'the  new Chief Inspector' means the Chief Inspector appointed under Chapter 1 of this Part;
+
+F296
+
+...
+
+'the CSCI' means the Commission for Social Care Inspection.
+
+##### Textual Amendments
+F296 Sch. 15 para. 9 entry repealed (18.9.2012) by The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401), art. 1(2)(3), Sch. 1 para. 24(b) (with art. 2)
+##### Commencement Information
+
+I543 Sch. 15 para. 9 in force at 12.12.2006 for specified purposes by S.I. 2006/2990, art. 2(j)
+
+I544 Sch. 15 para. 9 in force at 1.4.2007 in so far as not already in force by S.I. 2007/935, art. 5(hh)
+
+## SCHEDULE 16
+
+### POWERS TO FACILITATE INNOVATION
+
+#### PART 1
+
+##### AMENDMENTS OF CHAPTER 1 OF PART 1 OF EA 2002
+
+- 1 (1) Section 1 of EA 2002 (purpose and interpretation of Chapter 1 of Part 1) is amended as follows.
+
+Section 161
+
+[[END OF PAGE 311]]
+
+[[START OF PAGE 312]]
+
+312
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 16 - Powers to facilitate innovation
+
+Document Generated: 2020-04-22
+
+2
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- In subsection (1)(a) and (b), for 'the educational standards achieved by children' substitute ' educational standards '.
+
+- In subsection (2)-
+
+(a) for 'the educational standards achieved by children' substitute ' educational standards ', and
+
+(b) in paragraph (b), for 'children' substitute ' pupils or students '.
+
+(4) In subsection (3)-
+
+(a) after the definition of 'education legislation' insert-
+
+''maintained school' means-
+
+(a) a community, foundation or voluntary school,
+
+(b) a community or foundation special school, or
+
+(c) a maintained nursery school;',
+
+(b) for the definition of 'qualifying body' substitute-
+
+''qualifying body' means-
+
+(a) a local education authority,
+
+(b) an Education Action Forum,
+
+(c) a qualifying foundation,
+
+(d) the governing body of a maintained school,
+
+(e) the head teacher of a maintained school,
+
+(f) the proprietor of an Academy, a city technology college or a city college for the technology of the arts,
+
+(g) the proprietor of any special school that is not maintained by  a  local  education  authority  but  is  for  the  time  being approved by the Secretary of State or the National Assembly for Wales under section 342 of the Education Act 1996, or
+
+(h) the  governing  body  of  an  institution  within  the  further education sector;', and
+
+(c) after the definition of 'qualifying body' insert-
+
+''qualifying  foundation'  means  the  foundation,  as  defined  by subsection  (3)(a)  of  section  21  of  the  School  Standards  and Framework  Act  1998,  of  any  foundation  or  foundation  special school  that  for  the  purposes  of  that  section  has  a  foundation established otherwise than under that Act;', and
+
+(d) omit the definition of 'qualifying school'.
+
+- Section 2 of EA 2002 (power to suspend statutory requirements etc.) is amended as follows.
+
+- After subsection (1) insert-
+
+'(1A) Where the applicant is or includes a qualifying foundation, references in paragraphs  (a)  to  (d)  of  subsection  (1)  to  the  applicant  (so  far  as  they would  otherwise  be  read  as  references  to  the  qualifying  foundation)  are to  be  read  as  references  to  the  governing  bodies  of  all  or  any  of  the foundation or foundation special schools in respect of which the applicant is the foundation.'
+
+[[END OF PAGE 312]]
+
+[[START OF PAGE 313]]
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 16 - Powers to facilitate innovation
+
+Document Generated: 2020-04-22
+
+313
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+- Omit subsections (7) and (8).
+
+- 3 (1) Section 4 of EA 2002 (applications for orders under section 2) is amended as follows.
+
+- In subsection (1) after 'section 2' insert ' ('an application for an order') '.
+
+- After subsection (1) insert-
+
+'(1A) No application for an order may be made by the head teacher of a maintained school without the consent of the governing body of the school.'
+
+- In subsection (2)-
+
+(a) for 'such an application' substitute ' an application for an order ',
+
+(b) after paragraph (a) insert-
+
+'(aa) in the case of a qualifying foundation, consult the governing body  of  each  foundation  or  foundation  special  school to  which  the  application  relates  and  the  local  education authority who maintain the school,', and
+
+(c) for paragraph (b) substitute-
+
+'(b) in the case of the governing body of a maintained school, consult-
+
+(i) the  local  education  authority  who  maintain  the school, and
+
+(ii) where  the  school  is  a  foundation  school  with  a qualifying foundation, that foundation, and'.
+
+#### PART 2
+
+##### CONSEQUENTIAL AMENDMENT
+
+- 4 In section 24 of the Anti-social Behaviour Act 2003 (c. 38), for the definition of 'relevant school' substitute-
+
+''relevant school' means-
+
+(a) a community, foundation or voluntary school,
+
+(b) a community or foundation special school,
+
+(c) a maintained nursery school as defined in section 22(9) of the School Standards and Framework Act 1998,
+
+(d) a pupil referral unit as defined in section 19(2) of the 1996 Act,
+
+(e) an Academy,
+
+(f) a city technology college, or
+
+(g) a city college for the technology of the arts,'.
+
+[[END OF PAGE 313]]
+
+[[START OF PAGE 314]]
+
+314
+
+Education and Inspections Act 2006 (c. 40)
+
+SCHEDULE 17 - Miscellaneous amendments relating to Wales
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+## SCHEDULE 17
+
+Section 175
+
+### MISCELLANEOUS AMENDMENTS RELATING TO WALES
+
+###### Schools in Wales causing concern: warning notice by local education authority
+F297 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+Sch. 17 para. 1 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013
+
+F297 (anaw 1), s. 100(4), Sch. 5 para. 9(3) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+###### [ F3 Local authority ] 's reserve power to prevent breakdown of discipline
+
+- 2 [ F298 In section 62 of SSFA 1998 ( [ F3 local authority ] 's reserve power to prevent a breakdown of discipline) in subsection (3)(c), for 'either or both of sections 16 and 17' substitute ' any one or more of sections 16, 16A and 17 '. ]
+
+##### Textual Amendments
+F298 Sch. 17 para. 2 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(3) ; S.I. 2014/178, art. 2(f) (with art. 3)
+##### Commencement Information
+
+I545 Sch. 17 para. 2 in force at 30.6.2008 by S.I. 2008/1429, art. 3(2), Sch. Pt. 2
+
+###### Orders and regulations made by Assembly under SSFA 1998
+
+- 3 (1) Section 138 of SSFA 1998 (orders and regulations) is amended as follows.
+
+- In subsection (1), after 'the Secretary of State' insert ' or the Assembly '.
+
+- In subsection (3), after 'regulations' insert ' made by the Secretary of State '.
+
+- In subsection (7), after 'the Secretary of State' insert ' or the Assembly '.
+
+Commencement Information I546 Sch. 17 para. 3 in force at 30.6.2008 by S.I. 2008/1429, art. 3(2), Sch. Pt. 2
+
+###### Meaning of 'the Assembly' in SSFA 1998
+
+- 4 In section 142(1) of SSFA 1998 (general interpretation), before the definition of 'Church in Wales school' insert-
+
+''the Assembly' means the National Assembly for Wales;'.
+
+[[END OF PAGE 314]]
+
+[[START OF PAGE 315]]
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 18 - Repeals
+
+Document Generated: 2020-04-22
+
+315
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### Commencement Information
+
+I547 Sch. 17 para. 4 in force at 30.6.2008 by S.I. 2008/1429, art. 3(2), Sch. Pt. 2
+
+- 5 In section 143 of SSFA 1998 (index), after the entry for 'area' insert-
+
+'Assembly
+
+##### Commencement Information
+
+I548 Sch. 17 para. 5 in force at 30.6.2008 by S.I. 2008/1429, art. 3(2), Sch. Pt. 2
+
+###### Power of Assembly to require [ F3 local authority ] to obtain advisory services
+F299 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Textual Amendments
+
+F299 Sch. 17 para. 6 omitted (20.2.2014) by virtue of School Standards and Organisation (Wales) Act 2013 (anaw 1), s. 100(4), Sch. 5 para. 9(3) ; S.I. 2014/178, art. 2(f) (with art. 3)
+
+## SCHEDULE 18
+
+Section 184
+
+### REPEALS
+
+Short title and chapter | Extent of repeal
+--- | ---
+Education Act 1996 (c. 56) | In section 444- in subsection (1A), the words 'without reasonable justification', and in subsection (3), paragraph (b) and the word 'or' immediately following it.
+Education Act 2002 (c. 32) | In section 1(3), the definition of 'qualifying school'. Section 2(7) and (8). In Schedule 21, paragraph 54.
+
+#### PART 1
+##### REPEALS COMING INTO FORCE ON ROYAL ASSENT
+
+section 142(1)'.
+
+[[END OF PAGE 315]]
+
+[[START OF PAGE 316]]
+
+316
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 18 - Repeals
+
+Document Generated: 2020-04-22
+
+Status:
+
+This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+#### PART 2
+
+##### REPEALS COMING INTO FORCE IN ACCORDANCE WITH SECTION 188(2)
+
+##### Commencement Information
+
+I549 Sch. 18 Pt. 2 in force at 8.1.2007, see s. 188(2)
+
+Short title and chapter
+
+Extent of repeal
+
+Leasehold Reform Act 1967 (c. 88)
+
+In section 29(6), the words from 'but a university body' to the end.
+
+Employment Act 1989 (c. 38)
+
+Section 26.
+
+Section 28(4)(b).
+
+Education Act 1996 (c. 56)
+
+In section 569-
+
+in subsection (2), the words 'other than regulations under section 492', and subsection (3).
+
+School Standards and Framework Act 1998 (c. 31)
+
+Section 127(5) and (6).
+
+Education Act 2002 (c. 32)
+
+Section 159(3).
+
+In Schedule 21, paragraph 110(3).
+
+Education Act 2005 (c. 18)
+
+In Schedule 9, paragraph 21.
+
+#### PART 3
+
+##### SCHOOL ORGANISATION
+
+##### Commencement Information
+
+I550
+
+Sch. 18 Pt. 3 in force at 25.5.2007 by S.I. 2007/935, art. 7(q)
+
+Short title and chapter
+
+Extent of repeal
+
+Local Government Act 1972 (c. 70)
+
+Section 177(1A)(b).
+
+Local Government Act 1974 (c. 7)
+
+Section 25(5)(a).
+
+Education Act 1996 (c. 56)
+
+In section 529(2), the words '(other than a nursery school or a special school)'.
+
+School Standards and Framework Act 1998
+
+In section 21(6)(i), the words 'school organisation committees and'.
+
+Section 24.
+
+Section 27.
+
+In section 28-
+
+in subsection (1)(d), the words from 'in the case' to 'Wales,';
+
+[[END OF PAGE 316]]
+
+[[START OF PAGE 317]]
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 18 - Repeals
+
+Document Generated: 2020-04-22
+
+317
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+in subsection (2)(b), the words from 'or of' to 'in England,'; subsections (2A) and (2B); subsection (6); in subsection (7), the words from the beginning to 'in Wales,'; in subsection (8), the words '(for both England and Wales)'; and in subsection (9), the words 'subsection (6) and'. Section 28A. In section 29in subsection (4B), paragraph (c) and in paragraph (d), the words 'parish council or'; subsection (5); in subsection (6), the words from the beginning to 'in Wales'; in subsection (7), the words '(for both England and Wales)'; and in subsection (8), the words 'subsection (5) and'. In section 31subsection (5); in subsection (6), the words from the beginning to 'in Wales'; in subsection (7), the words '(5) or'; and in subsection (8), the words '(for both England and Wales)'. In section 33(4), the words '28A,'. In section 79(1), the word 'or' at the end of paragraph (b). In section 138(4), the words '29(9A),'. In section 143in the entry beginning 'promoters', the words 'or 28A(2)', and the entry beginning 'school organisation committee'. Schedule 4. In Schedule 6paragraphs 1 to 5; in paragraph 6, the words from 'which relate' to the end; in paragraph 11, the words '5 or'; in paragraph 12(2), the words ', 28A(1)'; in paragraph 13, in sub-paragraph (2), the words ', 28A(1)', and in subparagraph (3)(a) the words 'or 28A(2)'; in paragraph 14(3), the words 'or 28A(2)'; and
+
+[[END OF PAGE 317]]
+
+[[START OF PAGE 318]]
+
+318
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 18 - Repeals
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+paragraph 21 and the heading immediately preceding it. In Schedule 30, paragraphs 45 and 146(b).
+
+Learning and Skills Act 2000 (c. 21)
+
+In section 113(3)(b), the words ', any school organisation committee'.
+
+In Schedule 7-
+
+in paragraph 32, in sub-paragraph (2),
+
+the definition of 'the school
+
+organisation committee', and sub-
+
+paragraph (3);
+
+paragraph 35(5) and (6).
+
+In Schedule 9, paragraph 82.
+
+Race Relations (Amendment) Act 2000
+
+(c. 34)
+
+In Schedule 2, paragraph 30.
+
+Special Educational Needs and Disability Act 2001 (c. 10) In Schedule 8, paragraph 23(2).
+
+Education Act 2002 (c. 32)
+
+Section 73.
+
+In Schedule 21, paragraph 53.
+
+Education Act 2005 (c. 18)
+
+Sections 64 to 67.
+
+In section 68(1), in paragraph (a) the words ',
+
+28A', and paragraphs (d) and (e).
+
+Section 69(a).
+
+Section 73.
+
+Schedules 10 and 11.
+
+In Schedule 12, paragraphs 1(2), 2, 3, 5, 6 and 9 to 12.
+
+#### PART 4
+
+##### SCHOOLS CAUSING CONCERN
+
+##### Commencement Information
+
+I551 Sch. 18 Pt. 4 in force at 1.4.2007 by S.I. 2007/935, art. 5(ii)
+
+Short title and chapter
+
+Extent of repeal
+
+School Standards and Framework Act 1998 (c. 31) | In section 14, subsections (1A) and (4)(b). Section 15(7). In section 16(3)(a) and (9)(a), the words '13(3)(a) or'. In section 16A(2)(a), the words '13(3)(a) or'. In section 17(3), the words '13(3)(a) or'. Section 19(2)(ca).
+--- | ---
+Learning and Skills Act 2000 (c. 21) | In Schedule 7, paragraph 13. In Schedule 9, paragraphs 78 and 79.
+
+[[END OF PAGE 318]]
+
+[[START OF PAGE 319]]
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 18 - Repeals
+
+Document Generated: 2020-04-22
+
+319
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+Education Act 2002 (c. 32) | In section 63(5), the words 'of the Secretary of State or, as the case may be,'.
+--- | ---
+Education Act 2005 (c. 18) | In section 17(1), all the words following paragraph (b). In section 18, in paragraph (a) of the definition of 'the appropriate appointing authority', the words ', a Church in Wales school'. In Schedule 5, paragraph 3(14).
+
+#### PART 5
+
+##### INSPECTIONS
+
+##### Commencement Information
+
+I552 Sch. 18 Pt. 5 in force at 1.4.2007 for specified purposes by S.I. 2007/935, art. 5(ii)
+
+I553 Sch. 18 Pt. 5 in force at 30.6.2008 for specified purposes by S.I. 2008/1429, art. 3(2), Sch. Pt. 2
+
+Short title and chapter | Extent of repeal
+--- | ---
+Public Records Act 1958 (c. 51) | In Schedule 1, in Part 2 of the Table in paragraph 3, the entry relating to the Adult Learning Inspectorate.
+Parliamentary Commissioner Act 1967 (c. 13) | In Schedule 2, the entries relating to the Adult Learning Inspectorate and the Office of Her Majesty's Chief Inspector of Schools in England.
+Superannuation Act 1972 (c. 11) | In Schedule 1, the entry relating to the Adult Learning Inspectorate.
+Employment and Training Act 1973 (c. 50) | Section 10B(1)(a) and (b).
+House of Commons Disqualification Act 1975 (c. 24) | In Schedule 1, in Part 3, the entries relating to any member of the Adult Learning Inspectorate and to Her Majesty's Chief Inspector of Schools in England.
+Northern Ireland Assembly Disqualification Act 1975 (c. 25) | In Schedule 1, in Part 3, the entry relating to Her Majesty's Chief Inspector of Schools in England.
+Race Relations Act 1976 (c. 74) | In Schedule 1A, in Part 2, the entry relating to the Adult Learning Inspectorate.
+Children Act 1989 (c. 41) | Section 26ZA. In section 26A(2A), '26ZA or'. In section 79N, subsections (1) to (3) and (6). In section 79R(4). In section 87(10), the definition of 'the Commission'.
+
+[[END OF PAGE 319]]
+
+[[START OF PAGE 320]]
+
+320
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 18 - Repeals
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+Further and Higher Education Act 1992 (c. 13)
+
+Section 57(3)(c) and (d).
+
+Education Act 1994 (c. 30)
+
+In section 18B, subsection (3)(a), and in subsection (4) the words from 'and subsections (2) to (4)' onwards.
+
+Education Act 1997 (c. 44)
+
+In section 38, subsection (2), in subsection (5)(a) the words 'England or (as the case may require)', in subsection (5) (b) the words 'paragraph 2 of Schedule 1 to the Education Act 2005 or (as the case requires)', and subsection (7)(a). In section 39(4), the words from 'section 11(2)' to 'Wales,' and 'section 11(2) or, as the case may be,'. Section 41.
+
+Audit Commission Act 1998 (c. 18)
+
+In Schedule 1, paragraph 8(2)(e).
+
+Data Protection Act 1998 (c. 29)
+
+In section 31(6), ', 26ZA'.
+
+School Standards and Framework Act 1998 (c. 31)
+
+In section 139(2)(b), the words 'Her England, or'.
+
+Majesty's Chief Inspector of Schools in In Schedule 26, paragraphs 13A(4) and
+
+14(1).
+
+Care Standards Act 2000 (c. 14)
+
+Section 45(4).
+
+Learning and Skills Act 2000 (c. 21)
+
+Sections 52 to 72.
+
+Section 90.
+
+Section 92(4)(b) and (c).
+
+Section 118(1)(a) and (b).
+
+In section 150(4)(a), '90,'.
+
+Section 151(2).
+
+Schedule 6.
+
+In Schedule 10, Part 3.
+
+Freedom of Information Act 2000 (c. 36)
+
+In Schedule 1, in Part 6, the entry relating to the Adult Learning Inspectorate.
+
+Education Act 2002 (c. 32)
+
+Section 162A(4).
+
+Section 162B(8).
+
+Section 178(3).
+
+Courts Act 2003 (c. 39)
+
+Section 58(6).
+
+Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+
+Section 76(2)(f) and (g).
+
+Section 77(3).
+
+Section 79(7).
+
+Section 80(5).
+
+Section 110.
+
+Section 112.
+
+Section 116(1).
+
+In section 133(1)(a), the words 'or the
+
+Children Act 1989 (c. 41)'.
+
+In Schedule 7, paragraph 5(2).
+
+[[END OF PAGE 320]]
+
+[[START OF PAGE 321]]
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 18 - Repeals
+
+Document Generated: 2020-04-22
+
+321
+
+Status:
+
+This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+In Schedule 9, paragraphs 10, 18(2), 26 and 32. Public Audit (Wales) Act 2004 (c. 23) In Schedule 2, paragraph 18. Children Act 2004 (c. 31) Section 20(4)(b) and (c). Section 24. Section 38. Education Act 2005 (c. 18) Sections 1 to 4. In section 5(5), the word 'and' at the end of paragraph (e). In section 9, '2(2)(b) or'. Section 11(2) to (4). Schedule 1. In Schedule 7, paragraphs 1 and 4(5). In Schedule 9, paragraph 5. Childcare Act 2006 (c. 21) Section 14. Section 31. Section 50(4). Section 61(4). In section 77, in each of subsections (1) and (2) the words 'A person authorised for the purposes of this subsection by', and subsection (7). Sections 80 and 81.
+
+#### PART 6
+
+##### OTHER REPEALS
+
+##### Commencement Information
+I554 Sch. 18 Pt. 6 in force at 12.12.2006 for specified purposes for E. by S.I. 2006/2990, art. 2(k) I555 Sch. 18 Pt. 6 in force at 8.1.2007 for specified purposes for E. by S.I. 2006/3400, art. 2(e) I556 Sch. 18 Pt. 6 in force at 8.1.2007 for specified purposes by S.I. 2006/3400, art. 3(h) I557 Sch. 18 Pt. 6 in force at 8.2.2007 for specified purposes for E. by S.I. 2006/3400, art. 4(d) I558 Sch. 18 Pt. 6 in force at 27.2.2007 for specified purposes for E. by S.I. 2006/3400, art. 6(g) I559 Sch. 18 Pt. 6 in force at 27.2.2007 for specified purposes by S.I. 2006/3400, art. 7(e) I560 Sch. 18 Pt. 6 in force at 1.4.2007 for specified purposes for E. by S.I. 2007/935, art. 4(d) I561 Sch. 18 Pt. 6 in force at 25.5.2007 for specified purposes by S.I. 2007/935, art. 7(q) I562 Sch. 18 Pt. 6 in force at 25.5.2007 for specified purposes for E. by S.I. 2007/935, art. 6(d) I563 Sch. 18 Pt. 6 in force at 1.9.2007 for specified purposes for E. by S.I. 2007/1801, art. 3(h) I564 Sch. 18 Pt. 6 in force at 1.9.2007 by S.I. 2007/1801, art. 4(m) (with art. 5(2)) I565 Sch. 18 Pt. 6 in force at 30.6.2008 for specified purposes for W. by S.I. 2008/1429, art. 3(1), Sch. Pt. 1 I566 Sch. 18 Pt. 6 in force at 1.9.2008 for specified purposes for W. by S.I. 2008/1429, art. 3(3), Sch. Pt. 3 I567 Sch. 18 Pt. 6 in force at 1.1.2009 for specified purposes for W. by S.I. 2009/2545, art. 3(2)(d) I568 Sch. 18 Pt. 6 in force at 1.9.2009 for specified purposes for W. by S.I. 2009/1027, art. 3(d) I569 Sch. 18 Pt. 6 in force at 2.4.2010 for specified purposes for W. by S.I. 2010/736, art. 3(d) (with art. 4) I570 Sch. 18 Pt. 6 in force at 31.10.2010 for specified purposes for W. by S.I. 2010/2543, art. 2(m)
+
+[[END OF PAGE 321]]
+
+[[START OF PAGE 322]]
+
+322
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 18 - Repeals
+
+Document Generated: 2020-04-22
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+Short title and chapter
+
+Extent of repeal
+
+Education Act 1996 (c. 56) In section 437(8), the definition of 'suitable education'. In section 509(1B)the words 'the Learning and Skills Council for England or', and in paragraph (b), the words '13 or'. Sections 550A and 550B. Education Act 1997 (c. 44) Sections 4 and 5. School Standards and Framework Act 1998 (c. 31) Section 5. In section 17(6), the words from 'but' onwards. Section 47A(6). In section 48(4), the words from 'the approval' to 'and for'. Section 58(4). Section 61. In section 77(4), the words 'by a local authority'. In section 84(5), the words 'of practice', in each place where they occur. In section 85(1), the words 'of practice'. In section 85Ain subsection (1), the word 'and' at the end of paragraph (a), and in subsection (3), the word 'and' at the end of paragraph (b). In section 89(a) in subsection (1A) the words '(within the meaning of section 22 of the Children Act 1989)', and (b) in subsection (2) the word 'and' at the end of paragraph (c). Section 90(6), (7) and (10). Section 99(1). In Schedule 3, in paragraph 3 as it applies in relation to England, sub-paragraph (3). In Schedule 14, paragraph 1(1) to (6). In Schedule 15, paragraphs 1(4) and (6), 2(5) and 3. In Schedule 22paragraph 1(1)(c); in paragraph 2(1)(a), the words from 'or acquired' to the end; in paragraph 3(1)(a), the words from 'or acquired' to the end; paragraph 3(1)(d); in paragraph 3(1)(f), the words '(d) or'; and in paragraph 3(8), the words '(d),'. Education Act 2002 (c. 32) In section 176(3), the definition of 'pupil'.
+
+[[END OF PAGE 322]]
+
+[[START OF PAGE 323]]
+
+Education and Inspections Act 2006 (c. 40) SCHEDULE 18 - Repeals
+
+Document Generated: 2020-04-22
+
+323
+
+Status: This version of this Act contains provisions that are prospective.
+
+Changes to legislation: Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+In Schedule 21, paragraph 118(3)(b) and (4) (a)(ii).
+
+Anti-social Behaviour Act 2003 (c. 38)
+
+Section 21(4).
+
+Education Act 2005 (c. 18)
+
+In Schedule 12, paragraph 15.
+
+Childcare Act 2006 (c. 21)
+
+In Schedule 2, paragraph 42.
+
+[[END OF PAGE 323]]
+
+[[START OF PAGE 324]]
+
+324
+
+Education and Inspections Act 2006 (c. 40) Document Generated: 2020-04-22
+
+Status:
+
+This version of this Act contains provisions that are prospective.
+
+Changes to legislation:
+
+Education and Inspections Act 2006 is up to date with all changes known to be in force on or before 22 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations.
+
+View outstanding changes
+
+##### Changes and effects yet to be applied to :
+-s. 88(1) words inserted by 2015 c. 20 Sch. 16 para. 1(3) -s. 88(2) words inserted by 2015 c. 20 Sch. 16 para. 1(4) -s. 88(4)(a) and word omitted by 2015 c. 20 Sch. 16 para. 1(5)(a) -s. 88(4)(b) words omitted by 2015 c. 20 Sch. 16 para. 1(5)(b) -s. 88(5) word substituted by 2008 c. 25 Sch. 1 para. 39(a) -s. 88(5) word substituted by 2008 c. 25 Sch. 1 para. 39(b) -s. 89(2) omitted by 2015 c. 20 Sch. 16 para. 1(6)(a) -s. 89(3) words omitted by 2015 c. 20 Sch. 16 para. 1(6)(b) -s. 162(5A)(b) words inserted by 2010 nawm 1 Sch. 1 para. 20(b) -s. 167 repealed by 2010 nawm 1 Sch. 2 -s. 173 omitted by 2018 anaw 2 Sch. 1 para. 6(j)(i) -s. 174 omitted by 2018 anaw 2 Sch. 1 para. 6(j)(ii) -Sch. 2 para. 19 coming into force by S.I. 2007/935 art. 7(n) (Amendment not applied to legislation.gov.uk. The words ", 19" in art. 7(n) omitted (19.4.2007) by virtue of S.I. 2007/1271, art. 4. Sch. 2 para. 19 already brought wholly into force on 1.4.2007 by S.I. 2007/935, art. 5(aa).) -Sch. 14 para. 62 repealed by 2008 c. 25 Sch. 2 -Sch. 14 para. 73(3) repealed by 2008 c. 25 Sch. 2 -Sch. 14 para. 75 repealed by 2008 c. 25 Sch. 2 -specified provision(s) amendment to earlier commencing SI 2006/2990 art. 4 by S.I. 2008/54 art. 2 -specified provision(s) amendment to earlier commencing SI 2007/935 art. 7(n) by S.I. 2007/1271 art. 4 -specified provision(s) transitional provisions for earlier commencing SI 2007/935 by S.I. 2007/1271 art. 5
+
+##### Changes and effects yet to be applied to the whole Act associated Parts and Chapters:
+###### Whole provisions yet to be inserted into this Act (including any effects on those provisions):
+
+-s. 11A inserted by 2010 c. 26 s. 7 -s. 88(A1) inserted by 2015 c. 20 Sch. 16 para. 1(2) -s. 93A inserted by 2009 c. 22 s. 246 -s. 93A(7) words inserted by S.I. 2016/413 reg. 235 (This amendment comes into force on the day that section 93A of the Education and Inspections Act 2006 (c. 40)comes into force. That provision is still prospective) -s. 162(5A)(aa) inserted by 2010 nawm 1 Sch. 1 para. 20(a)
+
+[[END OF PAGE 324]]
