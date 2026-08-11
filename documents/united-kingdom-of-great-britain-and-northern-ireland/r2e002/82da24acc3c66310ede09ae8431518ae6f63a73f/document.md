@@ -2,6 +2,20 @@
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 2003 is up to date with all changes known to be in force on or before 03 August 2017. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details)
 
+STATUTORY INSTRUMENTS
+
+2003 No. 424 (N.I. 12)
+
+# The Education and Libraries (Northern Ireland) Order 2003
+
+-      -      -      -      -      -
+
+27th February 2003
+
+## PART I
+
+### INTRODUCTORY
+
 ##### Title and commencement
 
 1. -(1)  This Order may be cited as the Education and Libraries (Northern Ireland) Order 2003.
@@ -35,20 +49,6 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 200
 2. -(1)  The Interpretation Act (Northern Ireland) 1954 (c.33) applies to this Order as it applies to an Act of the Assembly.
 
 (2)  In this Order-
-
-STATUTORY INSTRUMENTS
-
-2003 No. 424 (N.I. 12)
-
-# The Education and Libraries (Northern Ireland) Order 2003
-
--      -      -      -      -      -
-
-## PART I
-
-### INTRODUCTORY
-
-27th February 2003
 
 [[END OF PAGE 1]]
 
@@ -150,7 +150,9 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 200
 
 ###### Annotations:
 
-- F3 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), s. 7(2)(c) , Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F4 2003 NI 12
+- F3 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), s. 7(2)(c) , Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b)
+
+- F4 2003 NI 12
 
 - F5 Words in art. 3(6)(a) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), s. 7(2)(c) , Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
@@ -278,7 +280,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 200
 
 (b) after the end of each financial year to prepare and publish a statement of-
 
-(i) resources actually used in that year for the purposes of all relevant. . . schools; and Changes to legislation: The Education and Libraries (Northern Ireland) Order 2003 is up to date with all changes known to be in force on or before 03 August 2017. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details)
+(i) resources actually used in that year for the purposes of all relevant. . . schools; and
 
 5
 
@@ -288,9 +290,11 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 200
 
 Document Generated: 2017-08-03
 
+Changes to legislation: The Education and Libraries (Northern Ireland) Order 2003 is up to date with all changes known to be in force on or before 03 August 2017. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details)
+
 (ii) resources so used which were used, or are treated by [ F3 the Authority ] as having been used, for the purposes of each such school.
 
-- A statement prepared under this Article shall-
+(2)  A statement prepared under this Article shall-
 
 (a) be prepared in such form and at such times, and
 
@@ -298,7 +302,7 @@ Document Generated: 2017-08-03
 
 as may be required by or under the scheme.
 
-[ F3 The Authority ] shall furnish-
+(3) [ F3 The Authority ] shall furnish-
 
 (a) the Board of Governors of each relevant school, and
 
@@ -322,13 +326,13 @@ with a copy of each statement prepared by [ F3 the Authority ] under this Articl
 
 ##### Interpretation of this Part
 
--(1)  In this Part-
+8. -(1)  In this Part-
 
 (a) references to a school which has a delegated budget are references to a school managed by a Board of Governors to which [ F3 the Authority ] has for the time being delegated the management of the school's budget share in pursuance of the scheme;
 
 (b) the Board of Governors of a school to which [ F3 the Authority ] is required by the scheme to delegate the management of the school's budget share is said to have a right to a delegated budget.
 
-- In this Part-
+(2)  In this Part-
 
 'the scheme' means the common funding scheme under Article 3;
 
@@ -336,7 +340,7 @@ F8
 
 ...
 
-- References in this Part-
+(3)  References in this Part-
 
 (a) to a school's budget share are to be construed in accordance with Article 4(3);
 
@@ -367,6 +371,8 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 200
 - F8 Words in art. 8(2) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), s. 7(2)(c) , Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
 ##### Article 9-Amendments
+
+F9
 
 ## PART III
 ### BOARDS: FINANCE AND THE DUTY OF BEST VALUE
@@ -400,8 +406,6 @@ F10 Words in art. 17(1) substituted (23.3.2007) by Education (Northern Ireland) 
 ##### Child protection measures
 
 18. -(1)  It shall be the duty of the Board of Governors of a grant-aided school-
-
-F9
 
 7
 
@@ -543,7 +547,9 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 200
 
 ###### Annotations:
 
-F3 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), s. 7(2)(c) , Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F12 Words in art. 22(1) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), s. 7(2)(c) , Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
+- F3 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), s. 7(2)(c) , Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b)
+
+- F12 Words in art. 22(1) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), s. 7(2)(c) , Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
 #### Miscellaneous
 
@@ -621,7 +627,7 @@ and any such scheme or instrument shall have effect accordingly.
 
 'voting members' has the same meaning as Article 122 of the 1989 Order.
 
-- In this Article 'appoint' includes nominate and choose.
+(9)  In this Article 'appoint' includes nominate and choose.
 
 ##### Development proposals for grant aided schools
 
@@ -685,19 +691,17 @@ F15
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- In Article 11 of the 1998 Order (school performance targets) in paragraph (3) (persons and bodies to be consulted before regulations are made under that Article) in sub-paragraph (c) for the words 'every grant-aided school appearing to it to be affected' there shall be substituted ' a sample of affected schools '.
+(3)  In Article 11 of the 1998 Order (school performance targets) in paragraph (3) (persons and bodies to be consulted before regulations are made under that Article) in sub-paragraph (c) for the words 'every grant-aided school appearing to it to be affected' there shall be substituted ' a sample of affected schools '.
 
-- After that paragraph there shall be inserted-
+(4)  After that paragraph there shall be inserted-
 
 '(3A)  In paragraph (3)(c) 'a sample of affected schools' means a number of grant-aided schools selected by the Department as being a representative sample of all such schools affected by the regulations.' .
 
 ###### Annotations:
 
-- F14 Art. 27(1) repealed (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)),
+- F14 Art. 27(1) repealed (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(2), Sch. 3 Pt. I
 
-- F15 Art. 27(2) repealed (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)),
-
-arts. 1(2), 44(2), Sch. 3 Pt. I arts. 1(2), 44(2), Sch. 3 Pt. I
+- F15 Art. 27(2) repealed (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(2), Sch. 3 Pt. I
 
 12
 
@@ -723,7 +727,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 200
 
 29. -(1)  In Article 79 of the 1986 Order in paragraph (1) (travelling and subsistence payments to members of boards and others to be on such conditions and at such rates as the Department may determine) the words ' , on such conditions and at such rates as the Department may determine, ' shall be omitted.
 
-- After that paragraph there shall be inserted-
+(2)  After that paragraph there shall be inserted-
 
 '(1A)  Payments under paragraph (1) shall be made at such rates and on such conditions as may be-
 
@@ -737,7 +741,7 @@ F16
 
 (4)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -815,7 +819,7 @@ F17 Art. 31 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12)
 
 34. In Article 83 of the 1998 Order for paragraph (2) there shall be substituted-
 
-'(2)  A board may arrange for secondary education to be provided by an institution of further education- Changes to legislation: The Education and Libraries (Northern Ireland) Order 2003 is up to date with all changes known to be in force on or before 03 August 2017. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details)
+'(2)  A board may arrange for secondary education to be provided by an institution of further education-
 
 14
 
@@ -824,6 +828,8 @@ F17 Art. 31 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12)
 [[START OF PAGE 15]]
 
 Document Generated: 2017-08-03
+
+Changes to legislation: The Education and Libraries (Northern Ireland) Order 2003 is up to date with all changes known to be in force on or before 03 August 2017. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details)
 
 (a) on behalf of the Board of Governors of a grant-aided school in its area, to meet the needs of any registered pupils at the school who are in key stage 4; or
 
@@ -871,7 +877,7 @@ cannot  be  justified  in  any  proceedings  on  the  ground  that  it  was  giv
 
 any person (including the child himself).
 
-- In this Article-
+(5)  In this Article-
 
 'child' means a person under the age of 18;
 
@@ -965,7 +971,7 @@ to the Department of Culture, Arts and Leisure as that Department may reasonably
 
 F21 (6)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- A body to which this paragraph applies shall-
+(7)  A body to which this paragraph applies shall-
 
 (a) make such reports and returns; and
 
@@ -1015,7 +1021,6 @@ F23 Art. 38 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12)
 (2)  Regulations under this Order may contain such incidental, supplementary and transitional provisions as appear to the Department to be appropriate.
 
 ##### Article 40-Amendments and repeals
-Changes to legislation: The Education and Libraries (Northern Ireland) Order 2003 is up to date with all changes known to be in force on or before 03 August 2017. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details)
 
 17
 
@@ -1024,6 +1029,8 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 200
 [[START OF PAGE 18]]
 
 Document Generated: 2017-08-03
+
+Changes to legislation: The Education and Libraries (Northern Ireland) Order 2003 is up to date with all changes known to be in force on or before 03 August 2017. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details)
 
 ## Schedule 1-Amendments
 
