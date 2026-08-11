@@ -6,9 +6,9 @@ Direction de la coopération et des relations internationales
 
 # Contribution du ministère de l'éducation nationale à la Dixième consultation sur l'application de la Convention et de la Recommandation de 1960 concernant la lutte contre la discrimination dans le domaine de l'enseignement
 
-## Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l'Etat au niveau national
+## I. Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l'Etat au niveau national
 
-### 1Ratification de la Convention :
+### 1- Ratification de la Convention :
 
 Votre pays est-il un État partie à la Convention ?
 
@@ -204,7 +204,7 @@ Ces deux enseignements obligatoires et gratuits , permettent aux élèves d'acqu
 
 -  L'enseignement moyen :  d'une durée de quatre (4)  ans, il est dispensé dans des collèges d'enseignement moyen. Il permet aux élèves d'apprendre à observer, analyser, raisonner et résoudre des problèmes. Cet enseignement est sanctionné par un examen final ouvrant droit à la délivrance d'un diplôme appelé "Brevet d'Enseignement Moyen", permettant à l'élève d'accéder soit à l'enseignement secondaire général et technologique, soit à l'enseignement et la formation professionnels, en fonction de ses vœux et conformément aux critères retenus par les procédures d'orientation.
 
--L'enseignement secondaire général et technologique : dispensé dans des lycées, l'enseignement  secondaire  général  et  technologique  représente  l'étape  de  scolarité  postobligatoire  dont  la  durée  est  de  trois  ( 3) ans.  Il  constitue,  dans  le  cursus  de  l'élève,  non seulement la voie académique en aval de l'enseignement obligatoire, mais aussi un cycle de diversité, d'orientation et d'initiation soit pour accéder à l'enseignement universitaire, soit pour intégrer l'enseignement et la formation professionnels, ou encore pour poursuivre les études par correspondance par le biais de l'Office National de l'Education et de la Formation à Distance (ONEFD).
+-L'enseignement secondaire général et technologique : dispensé dans des lycées, l'enseignement  secondaire  général  et  technologique  représente  l'étape  de  scolarité  post-obligatoire  dont  la  durée  est  de  trois  ( 3) ans.  Il  constitue,  dans  le  cursus  de  l'élève,  non seulement la voie académique en aval de l'enseignement obligatoire, mais aussi un cycle de diversité, d'orientation et d'initiation soit pour accéder à l'enseignement universitaire, soit pour intégrer l'enseignement et la formation professionnels, ou encore pour poursuivre les études par correspondance par le biais de l'Office National de l'Education et de la Formation à Distance (ONEFD).
 
 L'enseignement secondaire général et technologique est organisé en une (1) année de tronc commun (tronc commun lettres et tronc commun sciences et technologie) et deux années de filières (filières générales et technologiques) reliées entre elles par un système de passerelles permettant des réorientations en cours de scolarité. La fin de scolarité de l'enseignement secondaire  général  et  technologique  est  sanctionnée  par  le  baccalauréat  d'enseignement secondaire. Les élèves admis au baccalauréat peuvent postuler à la poursuite d'études et de formations supérieures.
 
@@ -234,7 +234,7 @@ Cycle primaire | Cycle moyen | Cycle secondaire | Total
 
 L'Etat algérien  œuvre  en  permanence  à  l'amélioration  des niveaux  d'alphabétisation  des adultes, et notamment des femmes et à assurer à tous un accès équitable aux programmes d'éducation de base et d'éducation permanente.
 
-Le  préambule  de  la  loi  d'orientation  sur  l'éducation  nationale    nº  08-04  du  23  janvier 2008 ) indique que l'enseignement pour adultes qui englobe l'alphabétisation, la postalphabétisation et l'enseignement à distance constitue une sorte d'école de la deuxième chance qui permet aux personnes qui ne bénéficient pas d'un enseignement scolaire ou qui aspirent à l'amélioration  de  leur  niveau  culturel,  de  développer  leurs  connaissances,  de  compléter  leur formation,  de  faciliter  éventuellement  leur  conversion  professionnelle  ou  d'accéder  à  une promotion socioprofessionnelle.
+Le  préambule  de  la  loi  d'orientation  sur  l'éducation  nationale    nº  08-04  du  23  janvier 2008 ) indique que l'enseignement pour adultes qui englobe l'alphabétisation, la post-alphabétisation et l'enseignement à distance constitue une sorte d'école de la deuxième chance qui permet aux personnes qui ne bénéficient pas d'un enseignement scolaire ou qui aspirent à l'amélioration  de  leur  niveau  culturel,  de  développer  leurs  connaissances,  de  compléter  leur formation,  de  faciliter  éventuellement  leur  conversion  professionnelle  ou  d'accéder  à  une promotion socioprofessionnelle.
 
 L'article  73 de  la  loi  d'orientation  sur  l'éducation  nationale stipule  que "  L'enseignement pour adultes a pour mission d'assurer l'alphabétisation et l'évolution constante du niveau d'enseignement et de culture générale des citoyens...".
 
@@ -244,13 +244,15 @@ Le défi majeur de l'Etat est d'éradiquer totalement l'alphabétisation pour la
 
 La nouvelle vision de l'éducation nationale consiste à recentrer l'action pédagogique sur le développement de compétences et habiletés chez l'apprenant favorisant son épanouissement sur les plans intellectuel, affectif et social, par la maîtrise des langages fondamentaux et les technologies de l'information et de la communication.
 
-Pour cela, le secteur de l'éducation nationale a adopté une démarche qui favorise la concertation, l'adhésion  et  la  participation  de  l'ensemble  des  acteurs  pédagogiques  afin  de  créer  un  climat scolaire serein, exempt de violence et d'assurer de meilleurs conditions de travail pédagogique et des  pratiques  d'enseignement/apprentissage.  Ceci  se  traduit  notamment  par  les  mesures suivantes :
+Pour cela, le secteur de l'éducation nationale a adopté une démarche qui favorise la concertation, l'adhésion  et  la  participation  de  l'ensemble  des  acteurs  pédagogiques  afin  de  créer  un  climat
 
 7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+scolaire serein, exempt de violence et d'assurer de meilleurs conditions de travail pédagogique et des  pratiques  d'enseignement/apprentissage.  Ceci  se  traduit  notamment  par  les  mesures suivantes :
 
 - Renforcer  les  capacités  d'accueil  par  la  construction  des  infrastructures  pédagogiques  et  des structures de soutien ;
 
@@ -340,7 +342,7 @@ Les établissements privés d'éducation et d'enseignement ne développent aucun
 
 Veuillez indiquer les mesures juridiques, politiques et règlementaires qui protègent les droits reconnus aux minorités nationales de mettre en œuvre leurs propres activités éducatives.
 
-…..
+.....
 
 #### 2.10/ Droits des réfugiés et des migrants :
 
@@ -348,11 +350,11 @@ Veuillez indiquer les mesures juridiques, politiques et règlementaires qui prot
 
 L'Etat garantit l'égalité des chances en matière de conditions de scolarisation et de poursuite des études après l'enseignement obligatoire pour les enfants d'étrangers résidant en Algérie ( les enfants réfugiés et les enfants migrants), cet enseignement est assuré systématiquement à tout enfant en âge de la scolarité qui le sollicite sans aucune contrainte administrative. Pour cela,  des  mesures  ont  été  prises  à  l'effet  de  faciliter  l'inscription  de  ces  enfants,  elles  se résument comme suit :
 
--Pour les enfants atteignant l'âge de 6 ans, ils sont inscrits en 1 ère année primaire ;
+-Pour les enfants atteignant l'âge de 6 ans, ils sont inscrits en 1ère année primaire ;
 
--Pour  les  enfants  qui  dépassent  l'âge  d'entrée  en  1 ère année  primaire  et  possédant  des documents attestant leur scolarité antérieure, une équivalence de niveau leur est attribuée par les services du Ministère de l'Education Nationale et sont, par conséquent, inscrits dans les classes correspondant à leur niveau de scolarité ;
+-Pour  les  enfants  qui  dépassent  l'âge  d'entrée  en  1ère année  primaire  et  possédant  des documents attestant leur scolarité antérieure, une équivalence de niveau leur est attribuée par les services du Ministère de l'Education Nationale et sont, par conséquent, inscrits dans les classes correspondant à leur niveau de scolarité ;
 
--Pour  les  enfants  qui  dépassent  l'âge  d'entrée  en  1 ère année  primaire  et  dépourvus  de documents scolaires susceptibles de justifier leur scolarité antérieure, ils sont soumis à des tests de connaissances pour déterminer le niveau scolaire auquel ils seront affectés.
+-Pour  les  enfants  qui  dépassent  l'âge  d'entrée  en  1ère année  primaire  et  dépourvus  de documents scolaires susceptibles de justifier leur scolarité antérieure, ils sont soumis à des tests de connaissances pour déterminer le niveau scolaire auquel ils seront affectés.
 
 Les  enfants  réfugiés  et  les  enfants  migrants  jouissent  des  mêmes  droits  que  les  enfants Algériens en termes de scolarité et d'aide sociale. Les nécessiteux bénéficient de la prime de scolarité, de la gratuité des manuels et des fournitures scolaires, du transport scolaire, de la restauration et de la couverture sanitaire.
 
