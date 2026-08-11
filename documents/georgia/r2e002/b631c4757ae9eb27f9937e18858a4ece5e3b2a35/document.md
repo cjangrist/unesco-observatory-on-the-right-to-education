@@ -154,7 +154,7 @@ educational  program  (program  accreditation)  meet  the  requirements  set  fo
 
 [[START OF PAGE 6]]
 
-- The primary goals of higher education in Georgia are as follows:
+1. The primary goals of higher education in Georgia are as follows:
 
 (a) To promote the development of Georgian and World cultural values, orientation towards the ideals of democracy and humanism essential for the existence and development of a civil society;
 
@@ -166,7 +166,7 @@ educational  program  (program  accreditation)  meet  the  requirements  set  fo
 
 (e) To encourage the mobility of students and academic personnel of higher education institutions.
 
-- To achieve the goals set forth in the first section of this article the state shall ensure:
+2. To achieve the goals set forth in the first section of this article the state shall ensure:
 
 (a) Accessibility and openness of higher education; academic freedom in teaching, learning and research;
 
@@ -194,7 +194,7 @@ educational  program  (program  accreditation)  meet  the  requirements  set  fo
 
 (j) Creation of other conditions that will assist in achieving the goals set forth in the first section of this article.
 
-- To achieve the goals set forth in the first section of this article the higher education institution shall:
+3. To achieve the goals set forth in the first section of this article the higher education institution shall:
 
 (a) Prepare a person for professional activities requiring application of both theoretical knowledge and research skills;
 
@@ -218,7 +218,7 @@ educational  program  (program  accreditation)  meet  the  requirements  set  fo
 
 (k) Ensure the creation of other conditions that will assist in achieving the goals set forth in the first section of this article.
 
-- Restriction of academic freedom is admissible only in the following cases:
+3. Restriction of academic freedom is admissible only in the following cases:
 
 (a) Freedom in research - in organizational issues and in defining priorities;
 
@@ -232,7 +232,7 @@ educational  program  (program  accreditation)  meet  the  requirements  set  fo
 
 (c) Freedom in learning - in organizing study process and providing the high quality education.
 
-- No structural units of political and religious organizations may be established in a higher education institution.
+4. No structural units of political and religious organizations may be established in a higher education institution.
 
 ### Article 4. Language of Higher Education
 
@@ -250,7 +250,7 @@ The Parliament of Georgia shall:
 
 ### Article 6. Powers of the Government of Georgia in the Sphere of Higher Education
 
-- The Government of Georgia shall:
+1. The Government of Georgia shall:
 
 (a) Implement the state policy in the sphere of higher education;
 
@@ -266,11 +266,11 @@ The Parliament of Georgia shall:
 
 [[START OF PAGE 9]]
 
-- The Prime-Minister of Georgia, upon the proposal of the Ministry of Education and Science of Georgia, shall appoint the directors of the following legal entities of public law: the State Accreditation Service of Educational Institutions and National Examination Center.
+2. The Prime-Minister of Georgia, upon the proposal of the Ministry of Education and Science of Georgia, shall appoint the directors of the following legal entities of public law: the State Accreditation Service of Educational Institutions and National Examination Center.
 
 ### Article 7. Powers of the Ministry of Education and Science of Georgia in the Sphere of Higher Education
 
-- The Ministry of Education and Science of Georgia shall:
+1. The Ministry of Education and Science of Georgia shall:
 
 (a) Implement a unified policy in the sphere of higher education;
 
@@ -286,7 +286,7 @@ The Parliament of Georgia shall:
 
 (g) Develop and approve statutes for the legal entities of public law: National Examination Center and the State Accreditation Service for Higher Education Institutions;
 
-(h) Upon the proposal of the Senate and based on the Law of Georgia on Normative Acts, approve the charter of a higher education institution having the status of legal entity of public law and issue a conclusion on the draft charter of the legal entity of public law sports and fine arts higher education institution;
+(h) Upon the proposal of the Senate and based on the Law of Georgia on Normative Acts, approve the charter of a higher education institution having the status of legal entity of public law and issue a conclusion on the draft charter of the legal entity of public law – sports and fine arts higher education institution;
 
 (i) Upon the proposals of the National Examination Center, approve a unified national examinations statute and examination schedule, the documents of total scores and absolute ranking of unified national examination results, conditions of enrollment in the higher education institutions of Georgia for those persons who received full general education abroad, activities in support of undertaking the unified national examinations within the framework of a social program and in support of foreign citizens wishing to receive higher education in Georgia;
 
@@ -310,7 +310,7 @@ The Parliament of Georgia shall:
 
 (p) Discharge other functions as prescribed by the Georgian legislation and the ministry's statute.
 
-- The Ministry of Education and Science of Georgia, in accordance with the established rule, shall enter into the Education Institutions Registry the data about the Rector, the Chancellor, and Senate Speaker of a higher education institution having the status of legal entity of public law by observing the following requirements:
+2. The Ministry of Education and Science of Georgia, in accordance with the established rule, shall enter into the Education Institutions Registry the data about the Rector, the Chancellor, and Senate Speaker of a higher education institution having the status of legal entity of public law by observing the following requirements:
 
 (a) All data shall be registered within one month following its receipt;
 
@@ -342,17 +342,17 @@ In accordance with this law, the Ministry of Culture, Monuments Protection and S
 
 ### Article 9. Types of Higher Education Institutions and Organizational/legal Structure
 
-- The types of higher education institution in Georgia are as follows:
+1. The types of higher education institution in Georgia are as follows:
 
 (a) University;
 
 (b) Institute (School of Higher Education).
 
-- A higher education institution may exist as a legal entity of public or private law.
+2. A higher education institution may exist as a legal entity of public or private law.
 
 ### Article 10. Division of Competences at a Higher Education Institution
 
-- A higher education institution, in compliance with this law, shall:
+1. A higher education institution, in compliance with this law, shall:
 
 (a) Approve study, research and creative work policies of the faculties;
 
@@ -372,7 +372,7 @@ In accordance with this law, the Ministry of Culture, Monuments Protection and S
 
 (f) Manage the institution's finances and property in accordance with Georgian legislation.
 
-- Higher education institution's faculty, in compliance with this law, shall:
+2. Higher education institution's faculty, in compliance with this law, shall:
 
 (a) Develop main directions of study, research and creative work, design relevant programs and plans;
 
@@ -388,17 +388,17 @@ In accordance with this law, the Ministry of Culture, Monuments Protection and S
 
 ### Article 11. Higher Education Institution having the Status of Legal Entity of Public Law
 
-- The state may establish a higher education institution only with the status of legal entity of public law.
+1. The state may establish a higher education institution only with the status of legal entity of public law.
 
-- The Ministry of Education and Science of Georgia shall exert state control over the legal entities of public law referred to in section 1 of this article, except for fine arts and sports higher education institutions, in accordance with the procedures prescribed by this law and the Law of Georgia on Legal Entities of Public Law. The Ministry of Culture, Monuments Protection and Sports of Georgia shall implement state control over the fine arts and sports higher education institutions.
+2. The Ministry of Education and Science of Georgia shall exert state control over the legal entities of public law referred to in section 1 of this article, except for fine arts and sports higher education institutions, in accordance with the procedures prescribed by this law and the Law of Georgia on Legal Entities of Public Law. The Ministry of Culture, Monuments Protection and Sports of Georgia shall implement state control over the fine arts and sports higher education institutions.
 
-- An act of government of Georgia on establishing a higher education institution having the status of legal entity of public law shall indicate the name, type, purpose, and the list of property to be conveyed to this higher education institution.
+3. An act of government of Georgia on establishing a higher education institution having the status of legal entity of public law shall indicate the name, type, purpose, and the list of property to be conveyed to this higher education institution.
 
 ### Article 12. Higher Education Institution having the Status of Legal Entity of Private Law
 
-- A higher education institution may be established with the status of legal entity of private law as prescribed by the Law of Georgia on Entrepreneurs and the Civil Code of Georgia.
+1. A higher education institution may be established with the status of legal entity of private law as prescribed by the Law of Georgia on Entrepreneurs and the Civil Code of Georgia.
 
-- The state and local self-government bodies may not be founders, interest holders (shareholders) or members of such higher education institutions that are established as legal entities of private law.
+2. The state and local self-government bodies may not be founders, interest holders (shareholders) or members of such higher education institutions that are established as legal entities of private law.
 
 12
 
@@ -406,31 +406,31 @@ In accordance with this law, the Ministry of Culture, Monuments Protection and S
 
 [[START OF PAGE 13]]
 
-- The rules prescribed by the Chapters IV, V (with exception of articles 32 and 35) and XIV shall not apply to the higher education institutions established as legal entities of private law.
+3. The rules prescribed by the Chapters IV, V (with exception of articles 32 and 35) and XIV shall not apply to the higher education institutions established as legal entities of private law.
 
 ### Article 13. Reorganization and Liquidation of Higher Education Institutions
 
-- A higher education institution may be reorganized or liquidated in accordance with relevant provisions of the Laws of Georgia on Entrepreneurs and on Legal Entities of Public Law, this law, and the Civil Code of Georgia.
+1. A higher education institution may be reorganized or liquidated in accordance with relevant provisions of the Laws of Georgia on Entrepreneurs and on Legal Entities of Public Law, this law, and the Civil Code of Georgia.
 
-- A higher education institution having the status of legal entity of public law may be reorganized or liquidated by the government of Georgia in accordance with Georgian legislation, upon the proposal of the Ministry of Education and Science of Georgia.
+2. A higher education institution having the status of legal entity of public law may be reorganized or liquidated by the government of Georgia in accordance with Georgian legislation, upon the proposal of the Ministry of Education and Science of Georgia.
 
 ## Chapter IV Structure of Higher Education Institution Having the Status of Legal Entity of Public Law
 
 ### Article 14. Structure of Higher Education Institution
 
-- A higher education institution is made up of the basic educational units - faculties, higher education institution's library/libraries and support structural units: office of the Rector, office of the Chancellor, Chancellery 1 and secretariats of management bodies;
+1. A higher education institution is made up of the basic educational units - faculties, higher education institution's library/libraries and support structural units: office of the Rector, office of the Chancellor, Chancellery 1 and secretariats of management bodies;
 
-- The institution's charter and a statute of a relevant structural unit shall prescribe rules for the activities of higher education institution's units. The charter of the higher education institution may also define other structural units of this institution or the faculties as well as rules for their activities.
+2. The institution's charter and a statute of a relevant structural unit shall prescribe rules for the activities of higher education institution's units. The charter of the higher education institution may also define other structural units of this institution or the faculties as well as rules for their activities.
 
-- The management of higher education institution's branch shall be implemented in accordance to the Georgian legislation and the charter of the institution, ensuring the representation of students and professors in the branch management bodies and the existence of quality provision mechanisms.
+3. The management of higher education institution's branch shall be implemented in accordance to the Georgian legislation and the charter of the institution, ensuring the representation of students and professors in the branch management bodies and the existence of quality provision mechanisms.
 
-- In accordance to the rules prescribed by Georgia's international agreements and Georgian legislation, the branch of a foreign higher education institution shall acquire a licensure and/or accreditation in order to operate on the Georgian territory.
+4. In accordance to the rules prescribed by Georgia's international agreements and Georgian legislation, the branch of a foreign higher education institution shall acquire a licensure and/or accreditation in order to operate on the Georgian territory.
 
 ### Article 15. Management of Higher Education Institution
 
-- The higher education institution's management bodies comprise: Academic Council, Senate, Rector, Chancellor and the Quality Provision Service.
+1. The higher education institution's management bodies comprise: Academic Council, Senate, Rector, Chancellor and the Quality Provision Service.
 
-- The management bodies of faculties comprise: Faculty Council, Dean, and Faculty Quality Provision Service.
+2. The management bodies of faculties comprise: Faculty Council, Dean, and Faculty Quality Provision Service.
 
 > 1 Chancellary is the office at an university, ministries and other agencies where official letters are sent and received
 
@@ -442,7 +442,7 @@ In accordance with this law, the Ministry of Culture, Monuments Protection and S
 
 ### Article 16. Principles of Management of Higher Education Institution
 
-- A higher education institution shall ensure:
+1. A higher education institution shall ensure:
 
 (a) Publicity and accessibility for all interested persons to the decisions of its management bodies, reports and decrees of the Rector and the Chancellor;
 
@@ -454,19 +454,19 @@ In accordance with this law, the Ministry of Culture, Monuments Protection and S
 
 (e) Fairness and transparency of elections and the publicity of competitions held at a higher education institution;
 
-- Neither the higher education institution's charter, nor statutes of individual faculties may envisage any provisions restricting the above principles.
+2. Neither the higher education institution's charter, nor statutes of individual faculties may envisage any provisions restricting the above principles.
 
 ### Article 17. Elections to the Higher Education Institution's Senate
 
-- A higher education institution's representative body shall be the Senate of the higher education institution, which shall be elected from the basic structural units of a higher education institution - faculties, based on the representation. Senate members shall be elected separately from the students and the academic personnel in proportion to their number at each basic structural unit.  The minimum number of Senate members should not be less than two times the Academic Council members, which is prescribed by the charter of the institution;
+1. A higher education institution's representative body shall be the Senate of the higher education institution, which shall be elected from the basic structural units of a higher education institution - faculties, based on the representation. Senate members shall be elected separately from the students and the academic personnel in proportion to their number at each basic structural unit.  The minimum number of Senate members should not be less than two times the Academic Council members, which is prescribed by the charter of the institution;
 
-- The Senate shall be elected from within the higher education institution on the basis of general, direct and equal elections, by secret ballot, in accordance with the procedures prescribed by the higher education institution's charter.
+2. The Senate shall be elected from within the higher education institution on the basis of general, direct and equal elections, by secret ballot, in accordance with the procedures prescribed by the higher education institution's charter.
 
-- Senate's term of service shall coincide with the duration of a basic teaching level and shall be indicated in the charter.
+3. Senate's term of service shall coincide with the duration of a basic teaching level and shall be indicated in the charter.
 
-- Students shall comprise one-third of the entire body of the Senate. An assistant professor, who is a doctoral student, participates in the elections as a student. While calculating the number of students the rounding takes place to the advantage of the students.
+4. Students shall comprise one-third of the entire body of the Senate. An assistant professor, who is a doctoral student, participates in the elections as a student. While calculating the number of students the rounding takes place to the advantage of the students.
 
-- The Senate shall include a representative from the higher education institution's library/libraries as prescribed by the higher education institution's charter. The Senate may also include the alumni of the higher education institution and the representatives of the
+5. The Senate shall include a representative from the higher education institution's library/libraries as prescribed by the higher education institution's charter. The Senate may also include the alumni of the higher education institution and the representatives of the
 
 14
 
@@ -476,15 +476,15 @@ In accordance with this law, the Ministry of Culture, Monuments Protection and S
 
 public according to the rules and the proportion prescribed by the higher education institution charter.
 
-- Termination of academic and/or employment links between professors and students on the one hand and the higher education institution on the other hand, shall be the grounds for the termination of their membership in the Senate.
+6. Termination of academic and/or employment links between professors and students on the one hand and the higher education institution on the other hand, shall be the grounds for the termination of their membership in the Senate.
 
-- In the case of pre-term termination of powers of the Senate member for the rest of the period of his/her term, the position shall be occupied by the candidate who in the last elections received the biggest number of votes after the terminated member.  If there is no such candidate, new elections shall be held to fill the vacant position for the same term.
+7. In the case of pre-term termination of powers of the Senate member for the rest of the period of his/her term, the position shall be occupied by the candidate who in the last elections received the biggest number of votes after the terminated member.  If there is no such candidate, new elections shall be held to fill the vacant position for the same term.
 
-- Neither administrative or support staff nor the members of the Academic Council may be elected to the Senate.
+8. Neither administrative or support staff nor the members of the Academic Council may be elected to the Senate.
 
 ### Article 18. Authority of Senate
 
-- The Senate, in compliance with this law, shall:
+1. The Senate, in compliance with this law, shall:
 
 (a) Develop the higher education institution's charter with the participation of the Academic Council and present said charter to the Ministry of Education and Science of Georgia for approval;
 
@@ -518,17 +518,17 @@ public according to the rules and the proportion prescribed by the higher educat
 
 (m) Exercise other powers conferred to it by the Georgian legislation.
 
-- The higher education institution's charter shall prescribe procedures for organizing and holding the Senate sessions.
+2. The higher education institution's charter shall prescribe procedures for organizing and holding the Senate sessions.
 
-- The Senate may proceed with approving the budget, electing a Chancellor and approving the annual report of the Chancellor, with the majority vote of all its members;
+3. The Senate may proceed with approving the budget, electing a Chancellor and approving the annual report of the Chancellor, with the majority vote of all its members;
 
-- The powers of the Senate may be terminated before its term of service expires in the case provided for in section 3 of article 74 of this law.
+4. The powers of the Senate may be terminated before its term of service expires in the case provided for in section 3 of article 74 of this law.
 
 ### Article 19. Speaker of the Senate of Higher Education Institution
 
-- The Senate sessions shall be organized and presided over by a Speaker of the Senate.  The Speaker shall be elected from among the members of the Senate and his/her term of office shall not be longer than that of a Senate [member?].  The term of the Speaker's office shall be indicated in the higher education institution's charter.
+1. The Senate sessions shall be organized and presided over by a Speaker of the Senate.  The Speaker shall be elected from among the members of the Senate and his/her term of office shall not be longer than that of a Senate [member?].  The term of the Speaker's office shall be indicated in the higher education institution's charter.
 
-- The following reasons shall be the grounds for pre-term termination of the powers of Senate Speaker:
+2. The following reasons shall be the grounds for pre-term termination of the powers of Senate Speaker:
 
 (a) His/her own will;
 
@@ -546,7 +546,7 @@ public according to the rules and the proportion prescribed by the higher educat
 
 ### Article 20. Elections of the Academic Council of Higher Education Institution
 
-- The Academic Council of higher education institution shall be the highest representative body of a higher education institution. They shall be elected by the members of the faculties'
+1. The Academic Council of higher education institution shall be the highest representative body of a higher education institution. They shall be elected by the members of the faculties'
 
 16
 
@@ -556,17 +556,17 @@ public according to the rules and the proportion prescribed by the higher educat
 
 academic personnel and those representatives of students' self-governance who are the members of faculty council, on the basis of direct, free and equal elections, by secret ballot.
 
-- Each faculty has an equal number of representatives in the Academic Council. This number shall be provided in the higher education institution charter.
+2. Each faculty has an equal number of representatives in the Academic Council. This number shall be provided in the higher education institution charter.
 
-- Only professors may be elected as the members of the Academic Council.
+3. Only professors may be elected as the members of the Academic Council.
 
-- The term of service of the Academic Council members shall coincide with the duration of basic education level and shall be indicated in the charter.
+4. The term of service of the Academic Council members shall coincide with the duration of basic education level and shall be indicated in the charter.
 
-- One-third of the Academic Council membership shall be renewed upon the completion of a halftime of basic educational level.
+5. One-third of the Academic Council membership shall be renewed upon the completion of a halftime of basic educational level.
 
 ### Article 21. Powers of the Academic Council of Higher Education Institution
 
-- The Academic Council, in compliance with this law, shall:
+1. The Academic Council, in compliance with this law, shall:
 
 (a) Draft and approve the higher education institution's strategic development plans;
 
@@ -610,15 +610,15 @@ academic personnel and those representatives of students' self-governance who ar
 
 (r) Exercise other powers conferred to it by Georgian legislation.
 
-- The powers of the Academic Council may be terminated before its term of service expires in the case provided for in section 3 of article 74 of this law.
+2. The powers of the Academic Council may be terminated before its term of service expires in the case provided for in section 3 of article 74 of this law.
 
 ### Article 22. Rector of Higher Education Institution
 
-- The Rector shall be the highest academic authority of a higher education institution, serve as a chair of the Academic Council, represent the higher education institution in academic and research spheres both domestically and internationally and be entitled to enter into agreements and make deals on behalf of the higher education institution. When a deal or an agreement concerns financial and economic matters, it should also be signed by the Chancellor.
+1. The Rector shall be the highest academic authority of a higher education institution, serve as a chair of the Academic Council, represent the higher education institution in academic and research spheres both domestically and internationally and be entitled to enter into agreements and make deals on behalf of the higher education institution. When a deal or an agreement concerns financial and economic matters, it should also be signed by the Chancellor.
 
-- The Rector shall be elected by the majority vote of Academic Council members, through secret ballot.  The Rector's term of office shall be defined by the higher education institution's charter, provided this term does not exceed the term of service of Academic Council. A Rector can be elected a professor of this or another accredited higher education institution.
+2. The Rector shall be elected by the majority vote of Academic Council members, through secret ballot.  The Rector's term of office shall be defined by the higher education institution's charter, provided this term does not exceed the term of service of Academic Council. A Rector can be elected a professor of this or another accredited higher education institution.
 
-- Academic Council of a higher education institution shall publicize the announcement regarding the registration for the candidates of Rector no later than one month prior to the launch of registration and three months prior to holding the elections based on the rules prescribed by the legislation and institution's charter, observing transparency and the principles of equal and fair competition.
+3. Academic Council of a higher education institution shall publicize the announcement regarding the registration for the candidates of Rector no later than one month prior to the launch of registration and three months prior to holding the elections based on the rules prescribed by the legislation and institution's charter, observing transparency and the principles of equal and fair competition.
 
 18
 
@@ -626,23 +626,23 @@ academic personnel and those representatives of students' self-governance who ar
 
 [[START OF PAGE 19]]
 
-- The same person may be elected to the office of Rector for not more than two consecutive terms.
+4. The same person may be elected to the office of Rector for not more than two consecutive terms.
 
-- The person holding the office of Chancellor at a higher education institution may be elected as a Rector of the same institution only after completion of one full term as a Chancellor following the termination of his/her powers as a Chancellor.
+5. The person holding the office of Chancellor at a higher education institution may be elected as a Rector of the same institution only after completion of one full term as a Chancellor following the termination of his/her powers as a Chancellor.
 
-- While selecting candidacies for the Rector's office prior to the elections, the Academic Council evaluates action plans submitted by each candidate.
+6. While selecting candidacies for the Rector's office prior to the elections, the Academic Council evaluates action plans submitted by each candidate.
 
 ### Article 23. Chancellor of Higher Education Institution
 
-- The Chancellor is the highest administrative manager at a higher education institution in the sphere of financial issues, material and human resources and represents the institution in financial and economic relationships.
+1. The Chancellor is the highest administrative manager at a higher education institution in the sphere of financial issues, material and human resources and represents the institution in financial and economic relationships.
 
-- The Chancellor is nominated by the Academic Council and approved by the Senate, through secret ballot, in accordance with the procedures prescribed in this law.  The Academic Council may nominate the same person only twice. In case of the Senate's repeated refusal to elect a nominee, the Academic Council shall propose a new candidacy for the Chancellor's office.
+2. The Chancellor is nominated by the Academic Council and approved by the Senate, through secret ballot, in accordance with the procedures prescribed in this law.  The Academic Council may nominate the same person only twice. In case of the Senate's repeated refusal to elect a nominee, the Academic Council shall propose a new candidacy for the Chancellor's office.
 
-- The term of office of the Chancellor shall not be longer than four years.
+3. The term of office of the Chancellor shall not be longer than four years.
 
-- The same person may be elected to the office of the Chancellor for two consecutive terms only.
+4. The same person may be elected to the office of the Chancellor for two consecutive terms only.
 
-- The person holding the office of Rector at a higher education institution may be elected as the Chancellor of the same institution only after completion of one full term as Rector following the termination of his/her powers as a Rector.
+5. The person holding the office of Rector at a higher education institution may be elected as the Chancellor of the same institution only after completion of one full term as Rector following the termination of his/her powers as a Rector.
 
 ### Article 24. Powers of the Chancellor
 
@@ -672,9 +672,9 @@ academic personnel and those representatives of students' self-governance who ar
 
 (i) Discharges other functions as defined by the charter.
 
-- The Chancellor shall be accountable to the Senate and the Academic Council.
+2. The Chancellor shall be accountable to the Senate and the Academic Council.
 
-- Apart from general reasons for dismissal, the Chancellor's powers may be terminated on the following grounds:
+3. Apart from general reasons for dismissal, the Chancellor's powers may be terminated on the following grounds:
 
 (a) The Senate's repeated refusal to approve the annual report and the budget;
 
@@ -682,15 +682,15 @@ academic personnel and those representatives of students' self-governance who ar
 
 ### Article 25. Quality Provision Service of Higher Education Institution
 
-- The study and research activity of a higher education institution, as well as the process of upgrading the personnel qualifications, is subject to systematic evaluation in which the students also take part and the results of which shall be public and available for any interested person.
+1. The study and research activity of a higher education institution, as well as the process of upgrading the personnel qualifications, is subject to systematic evaluation in which the students also take part and the results of which shall be public and available for any interested person.
 
-- With the purpose of ensuring systematic evaluation of study and research activities of a higher education institution, as well as upgrading personnel qualifications, there shall be established a Quality Provision Service at a higher education institution that shall operate on the basis of the institution's charter.
+2. With the purpose of ensuring systematic evaluation of study and research activities of a higher education institution, as well as upgrading personnel qualifications, there shall be established a Quality Provision Service at a higher education institution that shall operate on the basis of the institution's charter.
 
-- The Quality Provision Service of a higher education institution closely cooperates with the similar services of foreign higher education institutions in order to establish the transparent criteria for quality control and develop the methodology for meeting these criteria;
+3. The Quality Provision Service of a higher education institution closely cooperates with the similar services of foreign higher education institutions in order to establish the transparent criteria for quality control and develop the methodology for meeting these criteria;
 
-- The head of the higher education institution's Quality Provision Service is nominated by the Academic Council and approved by the Senate.
+4. The head of the higher education institution's Quality Provision Service is nominated by the Academic Council and approved by the Senate.
 
-- Cooperation between the higher education institution's Quality Provision Service and the quality provision services of individual faculties is regulated by the institution's charter.
+5. Cooperation between the higher education institution's Quality Provision Service and the quality provision services of individual faculties is regulated by the institution's charter.
 
 20
 
@@ -698,29 +698,29 @@ academic personnel and those representatives of students' self-governance who ar
 
 [[START OF PAGE 21]]
 
-- The higher education institution's Quality Provision Service ensures the provision of highquality teaching by introducing modern methods of teaching, learning and evaluation (modules, credit systems, etc.) and prepares self-evaluation for the accreditation process.
+6. The higher education institution's Quality Provision Service ensures the provision of high-quality teaching by introducing modern methods of teaching, learning and evaluation (modules, credit systems, etc.) and prepares self-evaluation for the accreditation process.
 
 ### Article 26. Higher Education Institution's Budget
 
-- The higher education institution's budget shall be approved by the Senate upon the proposal of the Chancellor.
+1. The higher education institution's budget shall be approved by the Senate upon the proposal of the Chancellor.
 
-- The Chancellor, together with the faculties and other structural units of a higher education institution, shall draft the budget of a higher education institution and, with the consent of the Academic Council, present it to the Senate for approval.
+2. The Chancellor, together with the faculties and other structural units of a higher education institution, shall draft the budget of a higher education institution and, with the consent of the Academic Council, present it to the Senate for approval.
 
-- The Senate shall review the proposed budget and either approve or return it to the Chancellor with relevant remarks.
+3. The Senate shall review the proposed budget and either approve or return it to the Chancellor with relevant remarks.
 
-- If the Chancellor agrees with the Senate's remarks, the Senate shall approve the budget amended according to the remarks.
+4. If the Chancellor agrees with the Senate's remarks, the Senate shall approve the budget amended according to the remarks.
 
-- If the Chancellor disagrees with the Senate's remarks, he/she may return the first draft for approval to the Senate together with the Academic Council's suggestions and substantiated remarks.
+5. If the Chancellor disagrees with the Senate's remarks, he/she may return the first draft for approval to the Senate together with the Academic Council's suggestions and substantiated remarks.
 
-- The Senates repeated refusal to approve the budget shall result in the termination of the Chancellor's powers. The budget shall then be approved upon the proposal of a newly elected Chancellor.
+6. The Senates repeated refusal to approve the budget shall result in the termination of the Chancellor's powers. The budget shall then be approved upon the proposal of a newly elected Chancellor.
 
 ### Article 27. Faculty and Faculty Council
 
-- A Faculty shall be the basic structural unit of a higher education institution.  The faculty may be comprised of the teaching, research ( Lehrstuhl, research institute, laboratory, clinic, special program, etc.) and support (library and other) structural units.
+1. A Faculty shall be the basic structural unit of a higher education institution.  The faculty may be comprised of the teaching, research ( Lehrstuhl, research institute, laboratory, clinic, special program, etc.) and support (library and other) structural units.
 
-- Faculty Council shall be the representative body of a faculty, which shall consist of all the academic personnel of the faculty and the representatives of students' self-governance, or in accordance to the rules prescribed by the higher education institution's charter - elected representatives of the academic personnel and the students' self-governance.
+2. Faculty Council shall be the representative body of a faculty, which shall consist of all the academic personnel of the faculty and the representatives of students' self-governance, or in accordance to the rules prescribed by the higher education institution's charter - elected representatives of the academic personnel and the students' self-governance.
 
-- The number of student self-governance representatives in the Faculty Council shall be defined by the faculty statute and shall not be less than 1/4 of the entire membership of the Council.
+3. The number of student self-governance representatives in the Faculty Council shall be defined by the faculty statute and shall not be less than 1/4 of the entire membership of the Council.
 
 ### Article 28. Powers of the Faculty Council
 
@@ -748,9 +748,9 @@ The Faculty Council shall:
 
 ### Article 29. Dean of the Faculty
 
-- Faculty Council shall elect a Dean for the term prescribed by the higher education institution charter, which shall not be longer than four years. The same person may be elected as Dean for not more than two consecutive terms. Faculty Council shall publicize the announcement on registration of the candidates for Dean's office no later than one month prior to the launch of registration and two months prior to holding the elections based on the rules set forth in the legislation and higher education institution charter, observing the principles of transparency, equal and fair competition.
+1. Faculty Council shall elect a Dean for the term prescribed by the higher education institution charter, which shall not be longer than four years. The same person may be elected as Dean for not more than two consecutive terms. Faculty Council shall publicize the announcement on registration of the candidates for Dean's office no later than one month prior to the launch of registration and two months prior to holding the elections based on the rules set forth in the legislation and higher education institution charter, observing the principles of transparency, equal and fair competition.
 
-- A Dean must hold the academic degree of  doctor.
+2. A Dean must hold the academic degree of  doctor.
 
 3. The Dean shall:
 
@@ -778,25 +778,25 @@ The Faculty Council shall:
 
 ### Article 30. Dissertation Council
 
-- Dissertation Council is a body that is established at a faculty and awards the academic degree of a doctor.
+1. Dissertation Council is a body that is established at a faculty and awards the academic degree of a doctor.
 
-- Procedures for staffing of the dissertation council and election of its Chair are defined by the statute that shall be approved by the Academic Council upon the proposal of the Faculty Council. The dissertation council shall be comprised of all professors and associate professors of the faculty having an academic doctors degree. The charter of the higher education institution may define the rules and conditions for inviting a professor or an associate professor to the faculty dissertation council from another higher education institution;
+2. Procedures for staffing of the dissertation council and election of its Chair are defined by the statute that shall be approved by the Academic Council upon the proposal of the Faculty Council. The dissertation council shall be comprised of all professors and associate professors of the faculty having an academic doctors degree. The charter of the higher education institution may define the rules and conditions for inviting a professor or an associate professor to the faculty dissertation council from another higher education institution;
 
-- Dissertation Council operates according to the statute approved by the Academic Council upon the proposal of the Faculty Council and awards the degree of doctor in the fields indicated in this statute;
+3. Dissertation Council operates according to the statute approved by the Academic Council upon the proposal of the Faculty Council and awards the degree of doctor in the fields indicated in this statute;
 
-- The higher education institution is entitled to sign a contract with a research institution to implement doctoral study programs.
+4. The higher education institution is entitled to sign a contract with a research institution to implement doctoral study programs.
 
 ### Article 31. Faculty Quality Provision Service
 
-- With the purpose of ensuring systematic evaluation of quality of academic and research activities of the faculty as well as upgrading the personnel qualifications, there shall be established a Quality Provision Service that shall operate on the basis of the faculty's statute.
+1. With the purpose of ensuring systematic evaluation of quality of academic and research activities of the faculty as well as upgrading the personnel qualifications, there shall be established a Quality Provision Service that shall operate on the basis of the faculty's statute.
 
-- The Faculty Quality Provision Service closely cooperates with the similar services of foreign countries and foreign higher education institutions in order to ensure transparent criteria for quality control and develop methodology for meeting these criteria.
+2. The Faculty Quality Provision Service closely cooperates with the similar services of foreign countries and foreign higher education institutions in order to ensure transparent criteria for quality control and develop methodology for meeting these criteria.
 
-- The Faculty Council shall approve the head of the Faculty Quality Provision Service.
+3. The Faculty Council shall approve the head of the Faculty Quality Provision Service.
 
-- The Faculty Quality Provision Service promotes high quality education by introducing modern methods of teaching, learning and evaluation (modules, credit systems, etc.) and prepares self-evaluation for the accreditation process.
+4. The Faculty Quality Provision Service promotes high quality education by introducing modern methods of teaching, learning and evaluation (modules, credit systems, etc.) and prepares self-evaluation for the accreditation process.
 
-- Any member of the Faculty Council having the academic degree of a doctor may be a member of the Faculty Quality Provision Service.
+5. Any member of the Faculty Council having the academic degree of a doctor may be a member of the Faculty Quality Provision Service.
 
 23
 
@@ -804,7 +804,7 @@ The Faculty Council shall:
 
 [[START OF PAGE 24]]
 
-## Personnel of Higher Education Institution having the Status of the Legal Entity of Public
+## Chapter V Personnel of Higher Education Institution having the Status of the Legal Entity of Public Law
 
 ### Article 32. Personnel
 
@@ -812,31 +812,31 @@ A higher education institution shall have academic, administrative and support p
 
 ### Article 33. Academic Personnel of Higher Education Institution
 
-- The academic personnel of a higher education institution shall consist of professors.
+1. The academic personnel of a higher education institution shall consist of professors.
 
-- The body of professors shall consist of professors, associate professors and assistant professors.
+2. The body of professors shall consist of professors, associate professors and assistant professors.
 
-- Professors shall be involved and/or lead the study process and research.
+3. Professors shall be involved and/or lead the study process and research.
 
-- The limit of a professor's teaching load shall be defined by the Academic Council and approved by the Senate.
+4. The limit of a professor's teaching load shall be defined by the Academic Council and approved by the Senate.
 
 ### Article 34. Rules for Filling Academic Position
 
-- An academic position may be filled only on the basis of open competition based on the principles of transparent, equal and fair competition.
+1. An academic position may be filled only on the basis of open competition based on the principles of transparent, equal and fair competition.
 
-- The  date  and  conditions  of  competition  shall  be  made  public  in  accordance  with  the procedures  prescribed  by  the  Georgian  legislation  and  the  higher  education  institution's charter  not  later  than  one  month  prior  to  the  registration  and  two  months  prior  to  the competition.
+2. The  date  and  conditions  of  competition  shall  be  made  public  in  accordance  with  the procedures  prescribed  by  the  Georgian  legislation  and  the  higher  education  institution's charter  not  later  than  one  month  prior  to  the  registration  and  two  months  prior  to  the competition.
 
-- The rules for competition shall be defined by Academic Council and approved by the Senate of a higher education institution.
+3. The rules for competition shall be defined by Academic Council and approved by the Senate of a higher education institution.
 
 ### Article 35. Conditions for Filling Academic Positions
 
-- For the position of professor there shall be selected a person who holds the academic degree of a doctor and who has at least six years of experience in teaching and research;additional conditions shall be defined by the Academic Council and approved by the Senate of a higher education institution.
+1. For the position of professor there shall be selected a person who holds the academic degree of a doctor and who has at least six years of experience in teaching and research;additional conditions shall be defined by the Academic Council and approved by the Senate of a higher education institution.
 
-- For the position of associated professor there shall be selected a person who holds the academic degree of a doctor; additional conditions shall be defined by the Academic Council and approved by the Senate of a higher education institution.
+2. For the position of associated professor there shall be selected a person who holds the academic degree of a doctor; additional conditions shall be defined by the Academic Council and approved by the Senate of a higher education institution.
 
-- For the position of assistant professor there can be selected a doctor or a doctoral student.
+3. For the position of assistant professor there can be selected a doctor or a doctoral student.
 
-Chapter V Law
+
 
 24
 
@@ -844,17 +844,17 @@ Chapter V Law
 
 [[START OF PAGE 25]]
 
-- For the performing specialties of fine arts and sports higher education institutions, the conditions for filling the academic positions on the basis of open competition shall be defined by the Academic Council of a respective higher education institution and approved by the Senate, which shall then be reflected in the charter of the relevant higher education institution.
+4. For the performing specialties of fine arts and sports higher education institutions, the conditions for filling the academic positions on the basis of open competition shall be defined by the Academic Council of a respective higher education institution and approved by the Senate, which shall then be reflected in the charter of the relevant higher education institution.
 
 ### Article 36. Employment Relationships of Academic Personnel
 
-- The employment contract with academic personnel shall be concluded for the term defined by the Labor legislation.
+1. The employment contract with academic personnel shall be concluded for the term defined by the Labor legislation.
 
-- No person who has reached the age of 65 may be elected to an academic position at a higher education institution having the status of legal entity of public law.
+2. No person who has reached the age of 65 may be elected to an academic position at a higher education institution having the status of legal entity of public law.
 
 ### Article 37. Rights of Academic Personnel
 
-- Academic personnel shall have the right to:
+1. Academic personnel shall have the right to:
 
 (a) Take part in the higher education institution management in accordance with this law and the institution's charter;
 
@@ -866,7 +866,7 @@ Chapter V Law
 
 (e) Exercise other powers conferred to him/her by this law and the Georgian legislation.
 
-- Academic personnel shall have the following duties:
+2. Academic personnel shall have the following duties:
 
 (a) To comply with the requirements of the higher education institution's charter;
 
@@ -876,7 +876,7 @@ Chapter V Law
 
 (d) After upgrading the qualifications, present a report on the works and activities carried out.
 
-- A higher education institution shall ensure freedom of teaching and research for all academic personnel and create proper conditions for their work.
+3. A higher education institution shall ensure freedom of teaching and research for all academic personnel and create proper conditions for their work.
 
 25
 
@@ -902,23 +902,25 @@ Academic personnel may be dismissed on the following grounds:
 
 ### Article 39. Academic Ranks
 
-- In recognition of special service, the Academic Council may award scientists/scholars and public figures who are the citizens of foreign countries the rank of Honorary Doctor.
+1. In recognition of special service, the Academic Council may award scientists/scholars and public figures who are the citizens of foreign countries the rank of Honorary Doctor.
 
-- All the professors who have reached the age of 65 are conferred the rank of Professor Emeritus.
+2. All the professors who have reached the age of 65 are conferred the rank of Professor Emeritus.
 
-- The difference between the amount of salary that Emeritus received before the conferral of this rank and the state pension shall be covered by the higher education institution. At the same time, Emeritus can take part in educational and research activities of a higher education institution without holding any academic or administrative position and enjoy some additional social benefits payable out of the institution's budget.
+3. The difference between the amount of salary that Emeritus received before the conferral of this rank and the state pension shall be covered by the higher education institution.
+
+4. At the same time, Emeritus can take part in educational and research activities of a higher education institution without holding any academic or administrative position and enjoy some additional social benefits payable out of the institution's budget.
 
 ### Article 40. Administrative Positions and other Personnel
 
-- Administrative offices at a higher education institution are comprised of the positions of a Rector, Chancellor, Faculty Dean and their deputies.
+1. Administrative offices at a higher education institution are comprised of the positions of a Rector, Chancellor, Faculty Dean and their deputies.
 
-- No person who has reached the age of 65 can be elected or appointed to an administrative position of a higher education institution having the status of legal entity of public law.
+2. No person who has reached the age of 65 can be elected or appointed to an administrative position of a higher education institution having the status of legal entity of public law.
 
-- Teacher personnel shall be comprised of a teacher and a senior teacher.
+3. Teacher personnel shall be comprised of a teacher and a senior teacher.
 
-- Teacher is entitled to conduct seminars, practical and laboratory sessions without holding an academic position.
+4. Teacher is entitled to conduct seminars, practical and laboratory sessions without holding an academic position.
 
-- Support personnel shall be comprised of other persons whose services are necessary for a higher education institution and who are included on the institution's payroll.
+5. Support personnel shall be comprised of other persons whose services are necessary for a higher education institution and who are included on the institution's payroll.
 
 26
 
@@ -948,19 +950,19 @@ A person holding an administrative position may be dismissed on the following gr
 
 ### Article 42. Incompatibility of Office at a Higher Education Institution
 
-- A person holding an administrative position may not simultaneously hold either another administrative position in this higher education institution or the office of the head of other structural unit.
+1. A person holding an administrative position may not simultaneously hold either another administrative position in this higher education institution or the office of the head of other structural unit.
 
-- The member of the Academic Council may not simultaneously hold the Administrative position at this higher education institution, with the exception of the Rector, and may not be a member of the Senate.
+2. The member of the Academic Council may not simultaneously hold the Administrative position at this higher education institution, with the exception of the Rector, and may not be a member of the Senate.
 
-- Speaker of the Senate cannot simultaneously hold an administrative position at this higher education institution.
+3. Speaker of the Senate cannot simultaneously hold an administrative position at this higher education institution.
 
-- Office incompatibility of academic, teacher and support personnel is determined by the legislation and the higher education institution's charter.
+4. Office incompatibility of academic, teacher and support personnel is determined by the legislation and the higher education institution's charter.
 
 ## Chapter VI Student
 
 ### Article 43. Rights of a Student
 
-- A student shall have the right to:
+1. A student shall have the right to:
 
 (a) Receive a quality education;
 
@@ -994,11 +996,11 @@ A person holding an administrative position may be dismissed on the following gr
 
 (m) Exercise other powers conferred to him/her by this law and the Georgian legislation.
 
-- A doctoral student may be elected to the position of assistant professor. He/she takes part in the elections of higher education institution's management bodies as a student.
+2. A doctoral student may be elected to the position of assistant professor. He/she takes part in the elections of higher education institution's management bodies as a student.
 
-- Higher education institution provides benefits for the students with disabilities in order to create essential conditions for their education, which is prescribed by enacted legislation, the charter of the higher education institution and the statute of a relevant faculty.
+3. Higher education institution provides benefits for the students with disabilities in order to create essential conditions for their education, which is prescribed by enacted legislation, the charter of the higher education institution and the statute of a relevant faculty.
 
-- The private information stated by the student in the presence of academic personnel, also the information about student's views, faith and political beliefs, which become known to the
+4. The private information stated by the student in the presence of academic personnel, also the information about student's views, faith and political beliefs, which become known to the
 
 28
 
@@ -1008,15 +1010,15 @@ A person holding an administrative position may be dismissed on the following gr
 
 academic personnel during the study process, also the information regarding the disciplinary measures against the student are confidential, except for the case when the student's permission is in place or the administration has the lawful interest to defend the security of others and the rights guaranteed by the law. The information regarding the student's academic performance and the student's disciplinary prosecution [could also say 'disciplinary action' or other terms - use the same term everywhere] shall be kept separately. When keeping the information about the student, the administration has the duty to follow the rules and procedures prescribed by the General Administrative Code of Georgia.
 
-- Higher education institution is forbidden to exercise its power and use material and technical resources in such a way, that may result into the threat of imposing the censorship or restricting the freedom of expression, except for the case provided in section 7 of this article.
+5. Higher education institution is forbidden to exercise its power and use material and technical resources in such a way, that may result into the threat of imposing the censorship or restricting the freedom of expression, except for the case provided in section 7 of this article.
 
-- Higher education institution is obligated to ensure a fair assessment of the student's knowledge, for which it shall develop appropriate procedures.
+6. Higher education institution is obligated to ensure a fair assessment of the student's knowledge, for which it shall develop appropriate procedures.
 
-- Disciplinary prosecution of the student should be proportionate to the student's misconduct and may be carried out only in accordance to the higher education institution's charter that, in those cases, is provided by the internal regulations through observing the procedures prescribed by this law and fair procedure. A higher education institution is obligated to design the students' code of ethics, which may impose some restrictions on the student's behavior if it is related to the study process. Higher education institution is obligated to thoroughly explain the behavior, which becomes grounds for disciplinary responsibility.
+7. Disciplinary prosecution of the student should be proportionate to the student's misconduct and may be carried out only in accordance to the higher education institution's charter that, in those cases, is provided by the internal regulations through observing the procedures prescribed by this law and fair procedure. A higher education institution is obligated to design the students' code of ethics, which may impose some restrictions on the student's behavior if it is related to the study process. Higher education institution is obligated to thoroughly explain the behavior, which becomes grounds for disciplinary responsibility.
 
-- Disciplinary prosecution of the student shall not restrict the student's right to participate in the study process, except for the cases provided in the higher education institution charter and the internal regulations, if it endangers the rights and health of others, security and the property of a higher education institution. The issue of a student's disciplinary prosecution is decided by the Faculty Council. The student has the right to attend his/her proceedings.
+8. Disciplinary prosecution of the student shall not restrict the student's right to participate in the study process, except for the cases provided in the higher education institution charter and the internal regulations, if it endangers the rights and health of others, security and the property of a higher education institution. The issue of a student's disciplinary prosecution is decided by the Faculty Council. The student has the right to attend his/her proceedings.
 
-- The student who is the subject of a disciplinary prosecution has the following rights:
+9. The student who is the subject of a disciplinary prosecution has the following rights:
 
 (a) Receive a written substantiated decision regarding starting his/her disciplinary prosecution;
 
@@ -1028,7 +1030,7 @@ academic personnel during the study process, also the information regarding the 
 
 (e) Demand public hearing of his/her disciplinary prosecution.
 
-- At the proceedings of disciplinary prosecution the burden of presenting proof is the responsibility of complainant. The resolution regarding the disciplinary prosecution shall be
+10. At the proceedings of disciplinary prosecution the burden of presenting proof is the responsibility of complainant. The resolution regarding the disciplinary prosecution shall be
 
 29
 
@@ -1038,9 +1040,9 @@ academic personnel during the study process, also the information regarding the 
 
 substantiated and based on the evidence as prescribed by the Georgian legislation, higher education institution charter and internal regulations. The Faculty Council shall examine all the evidence that is the basis for disciplinary prosecution.
 
-- A student has the right to appeal in court the decision made by the Faculty Council regarding his/her case.
+11. A student has the right to appeal in court the decision made by the Faculty Council regarding his/her case.
 
-- The status of the student shall be terminated upon the completion of a relevant educational program or in any other case envisaged by the higher education institution's charter.
+12. The status of the student shall be terminated upon the completion of a relevant educational program or in any other case envisaged by the higher education institution's charter.
 
 ### Article 44. Duties of a Student
 
@@ -1048,11 +1050,11 @@ A student shall have a duty to study those subjects which he/she selected and wh
 
 ### Article 45. Powers of Student Self-Governance
 
-- In a higher education institution there shall be established student self-governance to be elected according to individual faculties on the basis of general, equal and direct elections.
+1. In a higher education institution there shall be established student self-governance to be elected according to individual faculties on the basis of general, equal and direct elections.
 
-- Combination of self-governances in individual faculties shall represent the higher education institution's self-governance, which shall develop the student self-governance statute.
+2. Combination of self-governances in individual faculties shall represent the higher education institution's self-governance, which shall develop the student self-governance statute.
 
-- The student self-governance, in compliance with its statute, shall:
+3. The student self-governance, in compliance with its statute, shall:
 
 (a) Ensure students' involvement in the higher education institution management;
 
@@ -1064,7 +1066,7 @@ A student shall have a duty to study those subjects which he/she selected and wh
 
 (e) Exercise other powers as may be defined by the statute.
 
-- Higher education institution's administration may not interfere with the activities of student self-governance.
+4. Higher education institution's administration may not interfere with the activities of student self-governance.
 
 ## Chapter VII Higher Education Levels
 
@@ -1076,9 +1078,9 @@ A student shall have a duty to study those subjects which he/she selected and wh
 
 [[START OF PAGE 31]]
 
-- At a higher education institution higher education may be provided based on one, two or three- level studies.
+1. At a higher education institution higher education may be provided based on one, two or three- level studies.
 
-- The three-level higher education shall consist of the following levels:
+2. The three-level higher education shall consist of the following levels:
 
 (a) Bachelor's Program - educational program that may not be shorter than three years and longer than four years;
 
@@ -1086,25 +1088,25 @@ A student shall have a duty to study those subjects which he/she selected and wh
 
 (c) Doctoral Program - educational program that may not be shorter than three years.
 
-- Upon completion of each educational level a relevant diploma shall be awarded together with a standard transcript.
+3. Upon completion of each educational level a relevant diploma shall be awarded together with a standard transcript.
 
-- Any person who did not/could not complete any of the above levels shall be granted an appropriate certificate.
+4. Any person who did not/could not complete any of the above levels shall be granted an appropriate certificate.
 
 ### Article 47. Certified Specialist's Program
 
-- Certified specialist's program represents a single-level higher educational program lasting for 3-5 years (5-6 years in case of medical education) according to the special higher educational program, which aims at preparing the person for practicing his/her profession.
+1. Certified specialist's program represents a single-level higher educational program lasting for 3-5 years (5-6 years in case of medical education) according to the special higher educational program, which aims at preparing the person for practicing his/her profession.
 
-- A certified specialist shall have the right to continue studies on a master's level, if he/she accumulates the total credits necessary for the bachelor of a relevant specialty, for which he/she shall undergo additional preparation.
+2. A certified specialist shall have the right to continue studies on a master's level, if he/she accumulates the total credits necessary for the bachelor of a relevant specialty, for which he/she shall undergo additional preparation.
 
 ### Article 48. Bachelor's and Master's Program
 
-- 1 . Only the persons holding the state certificate of full general education or those with equal status have the right to take a bachelor's program.
+1. Only the persons holding the state certificate of full general education or those with equal status have the right to take a bachelor's program.
 
-- The purpose of undertaking a bachelor's program, in addition to receiving the higher level of professional preparation as compared to general education, is acquiring the deeper knowledge of theoretical aspects of study disciplines, which shall prepare the graduate through the research programs for further study on a master's level.
+3. The purpose of undertaking a bachelor's program, in addition to receiving the higher level of professional preparation as compared to general education, is acquiring the deeper knowledge of theoretical aspects of study disciplines, which shall prepare the graduate through the research programs for further study on a master's level.
 
-- A bachelor or certified specialist of equal status may take a master's program.
+4. A bachelor or certified specialist of equal status may take a master's program.
 
-- The purpose of taking a master's program shall be as follows:
+5. The purpose of taking a master's program shall be as follows:
 
 (a) Preparation for research work and pedagogic activities at a higher education institution;
 
@@ -1118,27 +1120,27 @@ A student shall have a duty to study those subjects which he/she selected and wh
 
 (c) Upgrading qualifications.
 
-- Master's study program may not comprise only teaching, except at the performing specialties of fine arts and sports higher education institutions; it shall necessarily include independent research by the student, which will result in considerable enhancement of student's knowledge and serve as the basis for presenting a research work.
+6. Master's study program may not comprise only teaching, except at the performing specialties of fine arts and sports higher education institutions; it shall necessarily include independent research by the student, which will result in considerable enhancement of student's knowledge and serve as the basis for presenting a research work.
 
-- In the medical field (including veterinary medicine) the degree of a certified specialist awarded after concluding a six-year educational program may be deemed as an equal degree of a master.
+7. In the medical field (including veterinary medicine) the degree of a certified specialist awarded after concluding a six-year educational program may be deemed as an equal degree of a master.
 
 ### Article 49. Doctoral Program
 
-- A person holding a master's or an equal academic degree may take a doctoral program.
+1. A person holding a master's or an equal academic degree may take a doctoral program.
 
-- A higher education institution shall provide a doctoral student with a research supervisor, create favorable conditions for conducting work related to the research, which shall encompass theoretical and/or experimental results and facilitate his/her integration into the world research community.
+2. A higher education institution shall provide a doctoral student with a research supervisor, create favorable conditions for conducting work related to the research, which shall encompass theoretical and/or experimental results and facilitate his/her integration into the world research community.
 
-- Upon completion of the doctorate program and successful defense of dissertation, a doctoral student is awarded the academic degree of a doctor.
+3. Upon completion of the doctorate program and successful defense of dissertation, a doctoral student is awarded the academic degree of a doctor.
 
-- The academic degree of doctor shall be awarded by a dissertation council established within a faculty of higher education institution in compliance with the regulations prescribed by the relevant statute.
+4. The academic degree of doctor shall be awarded by a dissertation council established within a faculty of higher education institution in compliance with the regulations prescribed by the relevant statute.
 
-- The procedures for awarding the academic degree of a doctor shall be set out in the Dissertation Council Statute to be approved by the Academic Council of a higher education institution.
+5. The procedures for awarding the academic degree of a doctor shall be set out in the Dissertation Council Statute to be approved by the Academic Council of a higher education institution.
 
 ### Article 50. Recognition of Educational Credentials Issued Abroad
 
-- The recognition of study programs taken in a foreign higher education institution and the results of academic achievements shall take place if the compatibility of such programs with the Georgian higher education institutions' study programs is established.
+1. The recognition of study programs taken in a foreign higher education institution and the results of academic achievements shall take place if the compatibility of such programs with the Georgian higher education institutions' study programs is established.
 
-- The formal recognition (acknowledgement) of educational credentials issued abroad and establishment of equivalence and authenticity of the educational credentials issued in Georgia shall be the responsibility of a National Information Center for Academic Recognition, which is a part of the European network, after consulting with the relevant services of the relevant higher education institutions, in compliance with international treaties, bilateral or multilateral agreements and appropriate provisions of the Georgian legislation.  Once recognition of the credentials is in place, the decision regarding the
+2. The formal recognition (acknowledgement) of educational credentials issued abroad and establishment of equivalence and authenticity of the educational credentials issued in Georgia shall be the responsibility of a National Information Center for Academic Recognition, which is a part of the European network, after consulting with the relevant services of the relevant higher education institutions, in compliance with international treaties, bilateral or multilateral agreements and appropriate provisions of the Georgian legislation. Once recognition of the credentials is in place, the decision regarding the
 
 32
 
@@ -1152,23 +1154,23 @@ continuation of studies or employment in Georgia shall be made by a higher educa
 
 ### Article 51. National Examination Center
 
-- National Examination Center is a legal entity of public law, which develops and manages the system of national entrance examinations for admissions into higher education institutions.
+1. National Examination Center is a legal entity of public law, which develops and manages the system of national entrance examinations for admissions into higher education institutions.
 
-- The statute of the National Examination Center shall be developed and approved by the Minister of Education and Science of Georgia.
+2. The statute of the National Examination Center shall be developed and approved by the Minister of Education and Science of Georgia.
 
-- The director of the National Examination Center is appointed by the Prime Minister of Georgia upon the nomination of the Minister of Education and Science of Georgia.
+3. The director of the National Examination Center is appointed by the Prime Minister of Georgia upon the nomination of the Minister of Education and Science of Georgia.
 
-- The results of Unified National Examinations conducted by the National Examination Center are compulsory for every accredited higher education institution and serve as the basis for awarding the higher education grant to a Georgian citizen or resident.  Everyone who wishes to undertake the national examinations can do so provided they present a state document certifying their full general education.
+4. The results of Unified National Examinations conducted by the National Examination Center are compulsory for every accredited higher education institution and serve as the basis for awarding the higher education grant to a Georgian citizen or resident. Everyone who wishes to undertake the national examinations can do so provided they present a state document certifying their full general education.
 
 ### Article 52. Basis of Student Admission to Accredited Higher Education Institution
 
-- Only students who have passed the Unified National Examinations may enroll in a state accredited program at an accredited higher education institution, based on the ranking of scores he/she received at the examinations.
+1. Only students who have passed the Unified National Examinations may enroll in a state accredited program at an accredited higher education institution, based on the ranking of scores he/she received at the examinations.
 
-- To receive fine arts and sports higher education the entrant shall participate in a relevant competition that is conducted before the Unified National Examination according to the procedures defined by the fine arts and sports higher education institutions.
+2. To receive fine arts and sports higher education the entrant shall participate in a relevant competition that is conducted before the Unified National Examination according to the procedures defined by the fine arts and sports higher education institutions.
 
-- To encourage mobility of entrants, the foreign citizens and stateless persons that have obtained a right to higher education in accordance with the law of those countries where they have received secondary or equivalent education shall have the right to take accredited programs at accredited higher education institutions.
+3. To encourage mobility of entrants, the foreign citizens and stateless persons that have obtained a right to higher education in accordance with the law of those countries where they have received secondary or equivalent education shall have the right to take accredited programs at accredited higher education institutions.
 
-- The Ministry of Education and Science, upon the proposal of the National Examination Center, shall define requirements to be met by Georgian citizens who have obtained the right to a higher education in a foreign country by receiving secondary or equivalent education in that country and now wish to enroll into a state accredited program at an accredited higher education institution.
+4. The Ministry of Education and Science, upon the proposal of the National Examination Center, shall define requirements to be met by Georgian citizens who have obtained the right to a higher education in a foreign country by receiving secondary or equivalent education in that country and now wish to enroll into a state accredited program at an accredited higher education institution.
 
 33
 
@@ -1176,27 +1178,27 @@ continuation of studies or employment in Georgia shall be made by a higher educa
 
 [[START OF PAGE 34]]
 
-- At the beginning of the academic year, every higher education institution that wishes, has the right and/or obligation to be involved in the unified examination system, and shall announce coefficients set by its faculties for examination results in each subject. Admission to the faculties of the students who have passed the examinations shall be conducted in accordance with the coefficients set by faculties for each examination subject at the beginning of the academic year.
+5. At the beginning of the academic year, every higher education institution that wishes, has the right and/or obligation to be involved in the unified examination system, and shall announce coefficients set by its faculties for examination results in each subject. Admission to the faculties of the students who have passed the examinations shall be conducted in accordance with the coefficients set by faculties for each examination subject at the beginning of the academic year.
 
-- Within the limits of the number of students to be admitted, which is established after the accreditation of a higher education institution, a number of slots may be reserved for the citizens of foreign countries, but it must not exceed 5% of the admission limit.
+6. Within the limits of the number of students to be admitted, which is established after the accreditation of a higher education institution, a number of slots may be reserved for the citizens of foreign countries, but it must not exceed 5% of the admission limit.
 
-- Awarding state education grants to foreign citizens is possible within the limits of 2% of the annual funding for state education grants, through a special state program defined by the Ministry of Education and Science of Georgia, based on international agreement or on the principle of reciprocity.
+7. Awarding state education grants to foreign citizens is possible within the limits of 2% of the annual funding for state education grants, through a special state program defined by the Ministry of Education and Science of Georgia, based on international agreement or on the principle of reciprocity.
 
-- Within the limits of 6% of annual funding for state education grants and upon the proposal of the Ministry of Education and Science of Georgia, the Georgian government is entitled to define the conditions and the amount of funding for students enrolled in state priority specialties as well as for those funded through social program.
+8. Within the limits of 6% of annual funding for state education grants and upon the proposal of the Ministry of Education and Science of Georgia, the Georgian government is entitled to define the conditions and the amount of funding for students enrolled in state priority specialties as well as for those funded through social program.
 
-- The National Examination Center shall rank the entrants who have taken the exams according to those coefficients that were published by the faculties at the beginning of the academic year and send the lists to the relevant faculties.
+9. The National Examination Center shall rank the entrants who have taken the exams according to those coefficients that were published by the faculties at the beginning of the academic year and send the lists to the relevant faculties.
 
-- The Higher Education Institution and the faculty are obligated to admit the entrants based exclusively on the list defined in section 9 of this article.
+10. The Higher Education Institution and the faculty are obligated to admit the entrants based exclusively on the list defined in section 9 of this article.
 
 ### Article 53. Unified National Examinations
 
-- The National Examination Center shall be responsible for preparing and holding Unified National Examinations.
+1. The National Examination Center shall be responsible for preparing and holding Unified National Examinations.
 
-- The Minister of Education and Science shall approve the procedures for holding the Unified National Examinations and allocating the state education grant upon the proposal of the National Examination Center.
+2. The Minister of Education and Science shall approve the procedures for holding the Unified National Examinations and allocating the state education grant upon the proposal of the National Examination Center.
 
-- A person willing to take the Unified National Examination shall file an application with the Examination Center in which he/she shall indicate the higher education institution, faculty (faculties) and specialty (specialties) where he/she is willing to continue studying.
+3. A person willing to take the Unified National Examination shall file an application with the Examination Center in which he/she shall indicate the higher education institution, faculty (faculties) and specialty (specialties) where he/she is willing to continue studying.
 
-- A person shall hold a state document certifying his/her full general secondary education in order to take the Unified National Examinations.
+4. A person shall hold a state document certifying his/her full general secondary education in order to take the Unified National Examinations.
 
 34
 
@@ -1204,27 +1206,27 @@ continuation of studies or employment in Georgia shall be made by a higher educa
 
 [[START OF PAGE 35]]
 
-- The procedures for participation in the National Examinations for persons who have received secondary education in a foreign country shall be defined by the National Examination Center and approved by the Ministry of Education and Science of Georgia.
+5. The procedures for participation in the National Examinations for persons who have received secondary education in a foreign country shall be defined by the National Examination Center and approved by the Ministry of Education and Science of Georgia.
 
-- The Unified National Examination program shall be designed by the Center and approved by the Minister of Education and Science.
+6. The Unified National Examination program shall be designed by the Center and approved by the Minister of Education and Science.
 
-- Entrants shall pay the Examination fees.  The Minister of Education and Science shall approve the amount of the fee, as well as conditions for exemption, upon the proposal of the Center.
+7. Entrants shall pay the Examination fees. The Minister of Education and Science shall approve the amount of the fee, as well as conditions for exemption, upon the proposal of the Center.
 
 ### Article 54. Awarding State Education Grants
 
-- Based on the results of the Unified National Examination, the National Examination Center shall draft a project for awarding state education grant and present it to the Ministry of Education and Science of Georgia for approval.
+1. Based on the results of the Unified National Examination, the National Examination Center shall draft a project for awarding state education grant and present it to the Ministry of Education and Science of Georgia for approval.
 
-- The state education grant shall be awarded according to the absolute sum of scores earned as a result of the Unified National Examination.
+2. The state education grant shall be awarded according to the absolute sum of scores earned as a result of the Unified National Examination.
 
-- Besides the list of the students who won the state education grant, the draft project for awarding the grants shall include the ranking of all students who passed the Unified National Examination according to the absolute sum of scores received.
+3. Besides the list of the students who won the state education grant, the draft project for awarding the grants shall include the ranking of all students who passed the Unified National Examination according to the absolute sum of scores received.
 
 ### Article 55. Unified National Examination Certificate
 
-- Having undertaken the Unified National Examination, a person shall be provided with a Unified National Examination certificate indicating the scores earned by the certificate holder.
+1. Having undertaken the Unified National Examination, a person shall be provided with a Unified National Examination certificate indicating the scores earned by the certificate holder.
 
-- The Unified National Examination certificate shall indicate whether or not the entrant earned a state education grant and the entrant's ranking on the list (lists) sent to the faculty (faculties).  The entrant shall present this certificate to the faculty or faculties where he/she has earned the right to be enrolled.
+2. The Unified National Examination certificate shall indicate whether or not the entrant earned a state education grant and the entrant's ranking on the list (lists) sent to the faculty (faculties). The entrant shall present this certificate to the faculty or faculties where he/she has earned the right to be enrolled.
 
-- If an entrant fails to be enrolled in a higher education institution during two years following the date of examination, the certificate shall become invalid.
+3. If an entrant fails to be enrolled in a higher education institution during two years following the date of examination, the certificate shall become invalid.
 
 ### Article 56. Admissions to Master's and Doctoral Programs
 
@@ -1266,13 +1268,13 @@ The Issuer of license shall make a decision on granting or denying the license n
 
 ### Article 60. Grounds for Refusing the License
 
-- The license shall not be issued if:
+1. The license shall not be issued if:
 
 (a) Documentation submitted by the license seeker, technical, material and other resources fail to meet the requirements for licensure as established by the law;
 
 (b) The license seeker's license has been suspended and the reasons for suspension have not been eliminated.
 
-- The license may not be refused for the reason of limiting the number of licenses issued.
+2. The license may not be refused for the reason of limiting the number of licenses issued.
 
 36
 
@@ -1282,15 +1284,15 @@ The Issuer of license shall make a decision on granting or denying the license n
 
 ### Article 61. Suspending the License
 
-- If a license holder fails to comply with the licensing conditions established by the law, the issuer of license shall make a decision regarding suspending the license.
+1. If a license holder fails to comply with the licensing conditions established by the law, the issuer of license shall make a decision regarding suspending the license.
 
-- The issuer of license shall indicate in its decision on suspension the conditions, which, if met, will result in the renewal of license.
+2. The issuer of license shall indicate in its decision on suspension the conditions, which, if met, will result in the renewal of license.
 
-- The license shall be suspended until the conditions referred to in section 2 of this article are met, which shall not be longer than three months after making the decision on suspension.
+3. The license shall be suspended until the conditions referred to in section 2 of this article are met, which shall not be longer than three months after making the decision on suspension.
 
 ### Article 62. Revoking the License
 
-- The license may be revoked on the following grounds:
+1. The license may be revoked on the following grounds:
 
 (a) At license holder's request;
 
@@ -1298,19 +1300,19 @@ The Issuer of license shall make a decision on granting or denying the license n
 
 (c) Expiration of suspension period, if within this period the reasons for suspension are not eliminated.
 
-- The issuer of license shall make a decision on revoking the license within three days following the receipt of relevant statement or information, or expiration of the period referred to in subsection 'c' of section 1 of this article.
+2. The issuer of license shall make a decision on revoking the license within three days following the receipt of relevant statement or information, or expiration of the period referred to in subsection 'c' of section 1 of this article.
 
 ## Chapter X Accreditation Procedure
 
 ### Article 63. State Accreditation Service for Educational Institutions
 
-- To ensure compatibility of higher education institutions and their programs with the international standards and procedures, the state shall implement accreditation. The state shall acknowledge no other diploma but that issued by accredited educational institutions.
+1. To ensure compatibility of higher education institutions and their programs with the international standards and procedures, the state shall implement accreditation. The state shall acknowledge no other diploma but that issued by accredited educational institutions.
 
-- To ensure implementation of the state accreditation, the Ministry of Education and Science of Georgia shall establish a legal entity of public law - State Accreditation Service for Educational Institutions (hereinafter - State Accreditation Service).
+2. To ensure implementation of the state accreditation, the Ministry of Education and Science of Georgia shall establish a legal entity of public law - State Accreditation Service for Educational Institutions (hereinafter - State Accreditation Service).
 
-- The State Accreditation Service shall independently carry out its activities and operate based on this law and the statute approved by the Ministry of Education and Science of Georgia.
+3. The State Accreditation Service shall independently carry out its activities and operate based on this law and the statute approved by the Ministry of Education and Science of Georgia.
 
-- State Accreditation Service carries out accreditation of higher education institutions, monitors the compliance with the accreditation conditions and is entitled to revoke the accreditation if the accreditation conditions are violated.
+4. State Accreditation Service carries out accreditation of higher education institutions, monitors the compliance with the accreditation conditions and is entitled to revoke the accreditation if the accreditation conditions are violated.
 
 37
 
@@ -1318,19 +1320,19 @@ The Issuer of license shall make a decision on granting or denying the license n
 
 [[START OF PAGE 38]]
 
-- The head of the State Accreditation Service shall be appointed to and dismissed from the office by the Prime-Minister of Georgia.
+5. The head of the State Accreditation Service shall be appointed to and dismissed from the office by the Prime-Minister of Georgia.
 
-- To ensure quality control, the higher education institutions having the status of legal entities of public law shall have the right to jointly establish a legal entity of private law, the assessment of which may be considered by the State Accreditation Service in the process of accrediting the higher education institution.
+6. To ensure quality control, the higher education institutions having the status of legal entities of public law shall have the right to jointly establish a legal entity of private law, the assessment of which may be considered by the State Accreditation Service in the process of accrediting the higher education institution.
 
 ### Article 64. Establishing the Team of Experts
 
-- For each accreditation case, the State Accreditation Service shall appoint a chair of the expert team whose candidacy shall be agreed upon with the party seeking accreditation.  The procedure of agreement shall be prescribed by the State Accreditation Service statute.
+1. For each accreditation case, the State Accreditation Service shall appoint a chair of the expert team whose candidacy shall be agreed upon with the party seeking accreditation. The procedure of agreement shall be prescribed by the State Accreditation Service statute.
 
-- The chair of the expert team shall nominate the team members.  A citizen of Georgia as well as that of any other country, or a stateless person may be nominated as an expert team member.
+2. The chair of the expert team shall nominate the team members. A citizen of Georgia as well as that of any other country, or a stateless person may be nominated as an expert team member.
 
-- All candidacies for expert team membership shall be agreed upon with the party seeking accreditation. The procedure of agreement shall be prescribed by the State Accreditation Service statute.
+3. All candidacies for expert team membership shall be agreed upon with the party seeking accreditation. The procedure of agreement shall be prescribed by the State Accreditation Service statute.
 
-- When agreement with the party seeking accreditation is not reached, the expert team shall be approved by the head of the State Accreditation Service for Higher Education Institutions, if:
+4. When agreement with the party seeking accreditation is not reached, the expert team shall be approved by the head of the State Accreditation Service for Higher Education Institutions, if:
 
 (a) Institutional accreditation of a legal entity of public law is to be carried out;
 
@@ -1338,15 +1340,15 @@ The Issuer of license shall make a decision on granting or denying the license n
 
 ### Article 65. Team of Experts
 
-- A precondition for accreditation shall be the self-evaluation of a party seeking accreditation, which shall be conducted in accordance with the forms provided in advance by the State Accreditation Service to the accreditation seeker.
+1. A precondition for accreditation shall be the self-evaluation of a party seeking accreditation, which shall be conducted in accordance with the forms provided in advance by the State Accreditation Service to the accreditation seeker.
 
-- Within one week following the completion of their work, the expert team shall present its conclusion concerning accreditation results to the State Accreditation Service.
+2. Within one week following the completion of their work, the expert team shall present its conclusion concerning accreditation results to the State Accreditation Service.
 
-- Based on the conclusion of the expert team, the State Accreditation Service shall issue an individual act - ordinance as provided in Article 66 of this law.
+3. Based on the conclusion of the expert team, the State Accreditation Service shall issue an individual act - ordinance as provided in Article 66 of this law.
 
 ### Article 66. Resolution on Accreditation
 
-- A decision on the accreditation of a higher education institution shall be made in the form of an individual act - ordinance of the Head of the State Accreditation Service, which shall be
+1. A decision on the accreditation of a higher education institution shall be made in the form of an individual act - ordinance of the Head of the State Accreditation Service, which shall be
 
 38
 
@@ -1356,7 +1358,7 @@ The Issuer of license shall make a decision on granting or denying the license n
 
 entered into the Educational Institutions Registry of the Ministry of Education and Science and be publicized in accordance with the procedure prescribed by the law.
 
-- A resolution on higher education institution's accreditation may be of four different types:
+2. A resolution on higher education institution's accreditation may be of four different types:
 
 (a) on awarding accreditation;
 
@@ -1366,25 +1368,25 @@ entered into the Educational Institutions Registry of the Ministry of Education 
 
 (d) on revoking accreditation.
 
-- If a conditional accreditation is awarded, the ordinance shall indicate the rules for meeting the condition.
+3. If a conditional accreditation is awarded, the ordinance shall indicate the rules for meeting the condition.
 
-- Except in the cases of conditional accreditation, the accreditation shall be awarded to higher education institutions for not longer than five years.
+4. Except in the cases of conditional accreditation, the accreditation shall be awarded to higher education institutions for not longer than five years.
 
-- In the case of conditional accreditation, the next accreditation shall be carried out no later than within the period of two years, as defined by the ordinance of the Head of the State Accreditation Service referred to in the first section of this article.
+5. In the case of conditional accreditation, the next accreditation shall be carried out no later than within the period of two years, as defined by the ordinance of the Head of the State Accreditation Service referred to in the first section of this article.
 
 ## Chapter XI Institutional and Program Accreditation of Higher Education Institutions
 
 ### Article 67. Accreditation Types
 
-- Higher education institution shall be subject to the two types of accreditation - institutional accreditation and program accreditation.
+1. Higher education institution shall be subject to the two types of accreditation - institutional accreditation and program accreditation.
 
-- The state accreditation procedures shall be drafted by the State Accreditation Service pursuant to this law and approved by the Minister of Education and Science of Georgia.
+2. The state accreditation procedures shall be drafted by the State Accreditation Service pursuant to this law and approved by the Minister of Education and Science of Georgia.
 
 ### Article 68. Institutional Accreditation
 
-- Institutional accreditation examines the compatibility of a higher education institution's status (the right to award the certificate acknowledged by the state) with the standards of its material, financial and human resources established by the state.
+1. Institutional accreditation examines the compatibility of a higher education institution's status (the right to award the certificate acknowledged by the state) with the standards of its material, financial and human resources established by the state.
 
-- State institutional accreditation shall be compulsory for all higher education institutions having the status of legal entity of public law.
+2. State institutional accreditation shall be compulsory for all higher education institutions having the status of legal entity of public law.
 
 ### Article 69. Documents to be submitted to Obtain Institutional Accreditation
 
@@ -1414,7 +1416,7 @@ After receiving the accreditation, a higher education institution having the sta
 
 ### Article 71. Program Accreditation
 
-- Program accreditation examines the compatibility of a status of higher education institution's program (the right to award the certificate acknowledged by the state) with the following criteria:
+1. Program accreditation examines the compatibility of a status of higher education institution's program (the right to award the certificate acknowledged by the state) with the following criteria:
 
 (a) Feasibility of its educational goals and objectives, their compatibility with the program and the principles for designing the program;
 
@@ -1426,9 +1428,9 @@ After receiving the accreditation, a higher education institution having the sta
 
 (e) Potential for upgrading the quality of teaching;
 
-- Institutional accreditation serves as a precondition for program accreditation.
+2. Institutional accreditation serves as a precondition for program accreditation.
 
-- State program accreditation may be obtained for the educational program of any higher education institution, irrespective of their organizational/legal status.
+3. State program accreditation may be obtained for the educational program of any higher education institution, irrespective of their organizational/legal status.
 
 40
 
@@ -1436,11 +1438,11 @@ After receiving the accreditation, a higher education institution having the sta
 
 [[START OF PAGE 41]]
 
-- A state program accreditation certificate shall be issued based on the evaluation of a higher education institution's educational program.
+4. A state program accreditation certificate shall be issued based on the evaluation of a higher education institution's educational program.
 
 ### Article 72. Revoking Program Accreditation
 
-- State program accreditation shall be revoked:
+1. State program accreditation shall be revoked:
 
 (a) Upon revoking the license;
 
@@ -1448,23 +1450,23 @@ After receiving the accreditation, a higher education institution having the sta
 
 (c) In cases provided in the accreditation statute.
 
-- In case of revoking the institutional accreditation, a higher education institution may reapply to the State Accreditation Service for undertaking a new accreditation process for its educational program not earlier than after a one-year period following the decision on revoking.
+2. In case of revoking the institutional accreditation, a higher education institution may reapply to the State Accreditation Service for undertaking a new accreditation process for its educational program not earlier than after a one-year period following the decision on revoking.
 
-- If state accreditation of an accredited educational program is revoked as a result of subsequent accreditation process, negotiations involving the Ministry of Education and Science, Ministry of Economic Development, Ministry of Finance and the Higher Education Institution regarding the status of already enrolled students and future operations must be immediately started.
+3. If state accreditation of an accredited educational program is revoked as a result of subsequent accreditation process, negotiations involving the Ministry of Education and Science, Ministry of Economic Development, Ministry of Finance and the Higher Education Institution regarding the status of already enrolled students and future operations must be immediately started.
 
 ### Article 73. Technical Organization of Accreditation
 
-- Except for cases envisaged by this law, state accreditation costs, including the remuneration for expert team members, shall be covered by the higher education institution.
+1. Except for cases envisaged by this law, state accreditation costs, including the remuneration for expert team members, shall be covered by the higher education institution.
 
-- The State Accreditation Service is obligated to provide higher education institutions with legal assistance regarding accreditation.  The State Accreditation Service shall develop recommendations on accreditation issues on the annual basis.
+2. The State Accreditation Service is obligated to provide higher education institutions with legal assistance regarding accreditation. The State Accreditation Service shall develop recommendations on accreditation issues on the annual basis.
 
 ### Article 74. Legal Consequences of Accreditation
 
-- The State shall recognize only those academic degrees and diplomas that are awarded after completing accredited educational programs.
+1. The State shall recognize only those academic degrees and diplomas that are awarded after completing accredited educational programs.
 
-- The state educational and research grants may be awarded only to accredited education institutions and accredited educational programs.
+2. The state educational and research grants may be awarded only to accredited education institutions and accredited educational programs.
 
-- If a higher education institution with the status of legal entity of public law, fails to obtain accreditation on two consecutive occasions, this shall result in dismissing the officials of management and administrative bodies of a higher education institution and serve as the basis for an institution's reorganization or liquidation.
+3. If a higher education institution with the status of legal entity of public law, fails to obtain accreditation on two consecutive occasions, this shall result in dismissing the officials of management and administrative bodies of a higher education institution and serve as the basis for an institution's reorganization or liquidation.
 
 41
 
@@ -1472,15 +1474,15 @@ After receiving the accreditation, a higher education institution having the sta
 
 [[START OF PAGE 42]]
 
-- In the case provided in section 3 of this article, the Minister of Education and Science of Georgia is entitled to appoint a temporary representative, who will coordinate the current activities of the institution and develop recommendations on the expediency of further activities of this higher education institution and the possibility of transferring the students to other higher education institutions.
+4. In the case provided in section 3 of this article, the Minister of Education and Science of Georgia is entitled to appoint a temporary representative, who will coordinate the current activities of the institution and develop recommendations on the expediency of further activities of this higher education institution and the possibility of transferring the students to other higher education institutions.
 
 ## Chapter XII Accreditation of Regulated Educational Programs
 
 ### Article 75. Regulated Educational Program
 
-- A regulated educational program is regulated by the relevant law.
+1. A regulated educational program is regulated by the relevant law.
 
-- Regulated educational programs comprise:
+2. Regulated educational programs comprise:
 
 (a) Law;
 
@@ -1488,21 +1490,21 @@ After receiving the accreditation, a higher education institution having the sta
 
 (c) Pedagogy.
 
-- The accreditation procedures for both regulated educational programs and higher education institutions offering such programs shall be defined by the State Accreditation Service and approved by the Ministry of Education and Science.
+3. The accreditation procedures for both regulated educational programs and higher education institutions offering such programs shall be defined by the State Accreditation Service and approved by the Ministry of Education and Science.
 
 ### Article 76. Regulated Professions
 
-- The list of regulated professions subject to the State Certification Examinations shall be defined exclusively by the law of Georgia.
+1. The list of regulated professions subject to the State Certification Examinations shall be defined exclusively by the law of Georgia.
 
-- Procedures and conditions for conducting the State Certification Examination for regulated professions shall be prescribed by relevant legislation.
+2. Procedures and conditions for conducting the State Certification Examination for regulated professions shall be prescribed by relevant legislation.
 
 ### Article 77. Accreditation of Regulated Educational Program
 
-- The State Accreditation Service, in cooperation with professional associations envisaged by law, shall develop and present to the Minister of Education and Science of Georgia for approval conditions for regulated educational program accreditation.
+1. The State Accreditation Service, in cooperation with professional associations envisaged by law, shall develop and present to the Minister of Education and Science of Georgia for approval conditions for regulated educational program accreditation.
 
-- If there is no legally established professional association in a relevant field of study, then the State Accreditation Service shall develop regulated educational program accreditation conditions in cooperation with interested organization (organizations) and parties.
+2. If there is no legally established professional association in a relevant field of study, then the State Accreditation Service shall develop regulated educational program accreditation conditions in cooperation with interested organization (organizations) and parties.
 
-- Subsequent accreditation of a regulated educational program shall take place after each fiveyear period following the original accreditation.
+3. Subsequent accreditation of a regulated educational program shall take place after each five-year period following the original accreditation.
 
 42
 
@@ -1510,7 +1512,7 @@ After receiving the accreditation, a higher education institution having the sta
 
 [[START OF PAGE 43]]
 
-- For the purposes of accreditation of regulated educational programs the State Accreditation Service shall make the decision referred to in section 2 of Article 66 of this law.
+4. For the purposes of accreditation of regulated educational programs the State Accreditation Service shall make the decision referred to in section 2 of Article 66 of this law.
 
 ## Chapter XIII Types of Activities and Sources of Funding of Higher Education Institutions
 
@@ -1520,9 +1522,9 @@ A non-profit legal entity higher education institution may carry out other econo
 
 ### Article 79. Financing of Higher Education Institution
 
-- The State funding of higher education institutions shall be oriented towards teaching and research, as well as training, retraining and upgrading the qualifications of the institution's personnel.
+1. The State funding of higher education institutions shall be oriented towards teaching and research, as well as training, retraining and upgrading the qualifications of the institution's personnel.
 
-- The funding sources of a higher education institution are as follows:
+2. The funding sources of a higher education institution are as follows:
 
 (a) Tuition fees which are covered by the state education grant funds;
 
@@ -1538,9 +1540,9 @@ A non-profit legal entity higher education institution may carry out other econo
 
 ### Article 80. Financing of Higher Education Institution through State Education Grant Funds
 
-- A citizen of Georgia who is enrolled in a higher education institution pursuant to this law, shall be eligible for a state education grant.
+1. A citizen of Georgia who is enrolled in a higher education institution pursuant to this law, shall be eligible for a state education grant.
 
-- The state education grant may be awarded to foreign citizens within the 2% of annual funding for state education grants, under a special program defined by the Ministry of
+2. The state education grant may be awarded to foreign citizens within the 2% of annual funding for state education grants, under a special program defined by the Ministry of
 
 43
 
@@ -1550,29 +1552,29 @@ A non-profit legal entity higher education institution may carry out other econo
 
 Education and Science of Georgia, based on the international agreement or the principles of reciprocity.
 
-- No person may receive more than one state education grant at each level of study.
+3. No person may receive more than one state education grant at each level of study.
 
-- The state shall cover the tuition fees at the higher education institution, which is a legal entity of private law, only within the limits of state education grant.
+4. The state shall cover the tuition fees at the higher education institution, which is a legal entity of private law, only within the limits of state education grant.
 
 ### Article 81. Amount of State Education Grant
 
-- Tuition fees for accredited educational program at a higher education institution having the status of legal entity of public law, shall be defined by the higher education institution.
+1. Tuition fees for accredited educational program at a higher education institution having the status of legal entity of public law, shall be defined by the higher education institution.
 
-- The amount of the state education grant, which shall fully cover the tuition fees for an accredited educational program at a higher education institution having the status of legal entity of public law, shall be defined by the government of Georgia.
+2. The amount of the state education grant, which shall fully cover the tuition fees for an accredited educational program at a higher education institution having the status of legal entity of public law, shall be defined by the government of Georgia.
 
-- If the cost of an accredited program at a higher education institution having the status of legal entity of private law is higher than the amount of the state education grant, the higher education institution shall have the right to set an additional fee which shall be covered by other than state sources.
+3. If the cost of an accredited program at a higher education institution having the status of legal entity of private law is higher than the amount of the state education grant, the higher education institution shall have the right to set an additional fee which shall be covered by other than state sources.
 
-- If the cost of an accredited program at a higher education institution having the status of legal entity of private law is less than the amount of the state education grant, the state funding shall equal the amount of cost for this education program.
+4. If the cost of an accredited program at a higher education institution having the status of legal entity of private law is less than the amount of the state education grant, the state funding shall equal the amount of cost for this education program.
 
-- There shall be no difference in tuition fees for one and the same educational program at a higher education institution.
+5. There shall be no difference in tuition fees for one and the same educational program at a higher education institution.
 
-- In case if the student who holds the state education grant transfers to another higher education institution, the state shall cover the tuition fees at this higher education institution within the maximum amount of state education grant.
+6. In case if the student who holds the state education grant transfers to another higher education institution, the state shall cover the tuition fees at this higher education institution within the maximum amount of state education grant.
 
-- The person who has passed the competition as established by fine arts and sports higher education institutions having the status of legal entity of public law, and was awarded a state education grant as a result of Unified National Examinations, shall receive at least half of the amount of this grant in the form of a stipend from the budget of this higher education institution.
+7. The person who has passed the competition as established by fine arts and sports higher education institutions having the status of legal entity of public law, and was awarded a state education grant as a result of Unified National Examinations, shall receive at least half of the amount of this grant in the form of a stipend from the budget of this higher education institution.
 
 ### Article 82. Relationship between the Higher Education Institution and the Issuer of State Education Grant
 
-- In the beginning of each academic year and/or before January 1 of the following calendar year, the state shall transfer to a higher education institution the amount of funds which shall match the number of those students in this institution that have obtained the state education grant.
+1. In the beginning of each academic year and/or before January 1 of the following calendar year, the state shall transfer to a higher education institution the amount of funds which shall match the number of those students in this institution that have obtained the state education grant.
 
 44
 
@@ -1580,15 +1582,15 @@ Education and Science of Georgia, based on the international agreement or the pr
 
 [[START OF PAGE 45]]
 
-- Before the next academic year, the higher education institution is obligated to notify the Ministry of Education and Science of the names of all those students that obtained the state education grant but for some reason have terminated or postponed their studies.
+2. Before the next academic year, the higher education institution is obligated to notify the Ministry of Education and Science of the names of all those students that obtained the state education grant but for some reason have terminated or postponed their studies.
 
 ### Article 83. State Research Grant
 
-- The research grant is awarded to the higher education institution unit on the basis of competition in accordance with the procedures established by the Ministry of Education and Science of Georgia.
+1. The research grant is awarded to the higher education institution unit on the basis of competition in accordance with the procedures established by the Ministry of Education and Science of Georgia.
 
-- Neither the state research grant nor the state education grant may be used for funding any other activity.
+2. Neither the state research grant nor the state education grant may be used for funding any other activity.
 
-- The state funding for master's and doctor's programs shall be provided through the state Research Grant funds, in accordance with the priorities set by the Ministry of Education and Science of Georgia, under a special state program.
+3. The state funding for master's and doctor's programs shall be provided through the state Research Grant funds, in accordance with the priorities set by the Ministry of Education and Science of Georgia, under a special state program.
 
 ## Chapter XIV Property of Higher Education Institution having the Status of Legal Entity of Public Law
 
@@ -1598,11 +1600,11 @@ The property of a higher education institution having the status of legal entity
 
 ### Article 85. Using the Property of Higher Education Institution having the Status of Legal Entity of Public Law
 
-- Acquiring,  alienating  or  leasing  the  entire  or  a  part  of  real  estate  belonging  to  higher education institution having the status of legal entity of public law, also any other decision on property, if it is outside the scope of educational and research activities is only permissible by the  decision  of  higher  education  institution  Senate  with  the  consent  of  the  Ministry  of Education  and  Science  and  the  Ministry  of  Finance,  in  accordance  with  the  procedures prescribed by the legislation.
+1. Acquiring, alienating or leasing the entire or a part of real estate belonging to higher education institution having the status of legal entity of public law, also any other decision on property, if it is outside the scope of educational and research activities is only permissible by the decision of higher education institution Senate with the consent of the Ministry of Education and Science and the Ministry of Finance, in accordance with the procedures prescribed by the legislation.
 
 ### Article 86. Property Conveyed by the State to the Higher Education Institution having the Status of Legal Entity of Public Law
 
-- Upon the establishment of a higher education institution having the status of legal entity of public law, the state shall convey to it relevant property in the form of free-of-charge usufruct.
+1. Upon the establishment of a higher education institution having the status of legal entity of public law, the state shall convey to it relevant property in the form of free-of-charge usufruct.
 
 45
 
@@ -1610,29 +1612,29 @@ The property of a higher education institution having the status of legal entity
 
 [[START OF PAGE 46]]
 
-- The list of property to be conveyed shall be attached to the higher education institution's establishment act.
+2. The list of property to be conveyed shall be attached to the higher education institution's establishment act.
 
-- The list of property to be conveyed shall indicate:
+3. The list of property to be conveyed shall indicate:
 
 (a) Enumeration of property;
 
 (b) Audit results conducted by an independent auditor on the state of property;
 
-- Upon the liquidation of a higher education institution that has the status of legal entity of public law, the property of the institution shall be returned to the state in its entirety in accordance with Georgian legislation.
+4. Upon the liquidation of a higher education institution that has the status of legal entity of public law, the property of the institution shall be returned to the state in its entirety in accordance with Georgian legislation.
 
 ## Chapter XV Transitional Provisions
 
 ### Article 87. Management of Higher Education Institution
 
-- Until this law becomes effective, all higher education institutions having the status of legal entities of public law that were founded under relevant presidential decrees, shall be deemed as established.
+1. Until this law becomes effective, all higher education institutions having the status of legal entities of public law that were founded under relevant presidential decrees, shall be deemed as established.
 
-- Entry into force of this law shall result in the dismissal of the rectors and faculty deans of higher education institutions having the status of legal entities of public law. The rector can be dismissed based on presidential decree. The President of Georgia is entitled to assign the duties of the rector to the dismissed rector or appoint a professor of the higher education institution as an acting rector. The president of Georgia is entitled to terminate the powers of the acting rector before the term. The faculty dean can be dismissed based on the ordinance issued by the acting rector, the acting rector is entitled to assign the duties of the dean to the dismissed dean or appoint another candidacy.
+2. Entry into force of this law shall result in the dismissal of the rectors and faculty deans of higher education institutions having the status of legal entities of public law. The rector can be dismissed based on presidential decree. The President of Georgia is entitled to assign the duties of the rector to the dismissed rector or appoint a professor of the higher education institution as an acting rector. The president of Georgia is entitled to terminate the powers of the acting rector before the term. The faculty dean can be dismissed based on the ordinance issued by the acting rector, the acting rector is entitled to assign the duties of the dean to the dismissed dean or appoint another candidacy.
 
-- The first elections to the management bodies of the higher education institutions having the status of legal entity of public law shall be conducted in accordance with the procedures set by the Ministry of Education and Science of Georgia, not later than within a two-year period following the entry into force of this law.
+3. The first elections to the management bodies of the higher education institutions having the status of legal entity of public law shall be conducted in accordance with the procedures set by the Ministry of Education and Science of Georgia, not later than within a two-year period following the entry into force of this law.
 
-- The higher education institutions having the status of legal entity of public law shall present to the Ministry of Education and Science of Georgia for approval the new charters pertaining to this law, not later than within the six-month period following the first elections of the management bodies as prescribed by this law.
+4. The higher education institutions having the status of legal entity of public law shall present to the Ministry of Education and Science of Georgia for approval the new charters pertaining to this law, not later than within the six-month period following the first elections of the management bodies as prescribed by this law.
 
-- Immediately after the election of the first Academic Council, there shall be determined, by casting lots, one-third of the members who shall serve forhalf the time of the basic educational level.
+5. Immediately after the election of the first Academic Council, there shall be determined, by casting lots, one-third of the members who shall serve for half the time of the basic educational level.
 
 46
 
@@ -1640,25 +1642,25 @@ The property of a higher education institution having the status of legal entity
 
 [[START OF PAGE 47]]
 
-- The candidates for Rector, Chancellor and Dean offices, who have been holding the same offices, including those of acting rector or acting dean, at a higher education institution for two consecutive terms, the periods of their service in the above offices shall be counted for the purposes of the terms of office referred to in section 3 of article 22, section 4 of article 23, section 1 of article 29 of this law.
+6. The candidates for Rector, Chancellor and Dean offices, who have been holding the same offices, including those of acting rector or acting dean, at a higher education institution for two consecutive terms, the periods of their service in the above offices shall be counted for the purposes of the terms of office referred to in section 3 of article 22, section 4 of article 23, section 1 of article 29 of this law.
 
-- Higher education institutions shall fully engage in offering educational programs envisaged by this law and provide the relevant academic degrees no later than the beginning of the academic year 2007-2008.
+7. Higher education institutions shall fully engage in offering educational programs envisaged by this law and provide the relevant academic degrees no later than the beginning of the academic year 2007-2008.
 
-- In order to implement the educational programs provided for in this law, the higher education institutions shall establish the European credit transfers system before the beginning of the academic year 2009-2010.
+8. In order to implement the educational programs provided for in this law, the higher education institutions shall establish the European credit transfers system before the beginning of the academic year 2009-2010.
 
 ### Article 88. The Status and Financing of Higher Education Institutions
 
-- The higher education institutions that are accredited according to the presidential decree #418 of July 20, 1998 regarding the Approval of the Educational Institutions Accreditation Council Statute and its Personal Composition, shall be deemed as institutionally accredited before the Ministry of Education and Science of Georgia starts institutional accreditation, but not later than the beginning of the academic year 2006-2007. Before the beginning of the academic year 2006-2007, the Ministry of Education and Science of Georgia shall examine the licensure conditions of those higher education institutions with the status of legal entities of private law, which do not participate in the institutional accreditation provided in this section.
+1. The higher education institutions that are accredited according to the presidential decree #418 of July 20, 1998 regarding the Approval of the Educational Institutions Accreditation Council Statute and its Personal Composition, shall be deemed as institutionally accredited before the Ministry of Education and Science of Georgia starts institutional accreditation, but not later than the beginning of the academic year 2006-2007. Before the beginning of the academic year 2006-2007, the Ministry of Education and Science of Georgia shall examine the licensure conditions of those higher education institutions with the status of legal entities of private law, which do not participate in the institutional accreditation provided in this section.
 
-- Ministry of Education and Science shall take relevant measures to start educational program accreditation from the academic year 2007-2008 for those higher education institutions having the status of legal entity of public law, which have obtained institutional accreditation.
+2. Ministry of Education and Science shall take relevant measures to start educational program accreditation from the academic year 2007-2008 for those higher education institutions having the status of legal entity of public law, which have obtained institutional accreditation.
 
-- Before conducting the program accreditation of higher education institutions, but not later than the beginning of the academic year 2010-2011, all educational programs of the higher education institutions having the status of legal entity of public law and the licensed institutions having the status of legal entity of private law shall be deemed accredited, provided that they hold institutional accreditation.
+3. Before conducting the program accreditation of higher education institutions, but not later than the beginning of the academic year 2010-2011, all educational programs of the higher education institutions having the status of legal entity of public law and the licensed institutions having the status of legal entity of private law shall be deemed accredited, provided that they hold institutional accreditation.
 
-- The costs of the first institutional accreditation of higher education institutions, as defined in this law, shall be covered by the state.
+4. The costs of the first institutional accreditation of higher education institutions, as defined in this law, shall be covered by the state.
 
-- Higher education institutions having the status of legal entity of private law shall cover the costs of licensure as well as the subsequent but not the first institutional accreditation.
+5. Higher education institutions having the status of legal entity of private law shall cover the costs of licensure as well as the subsequent but not the first institutional accreditation.
 
-- The Government of Georgia shall ensure that from the beginning of the academic year 20052006, the higher education funding system established by this law be introduced step by step.
+6. The Government of Georgia shall ensure that from the beginning of the academic year 2005-2006, the higher education funding system established by this law be introduced step by step.
 
 47
 
@@ -1666,27 +1668,27 @@ The property of a higher education institution having the status of legal entity
 
 [[START OF PAGE 48]]
 
-- Before implementing the program accreditation of higher education institutions, the state funding may be placed at higher education institutions that have acquired the institutional accreditation, but not later than the beginning of the academic year 2010-1011.
+7. Before implementing the program accreditation of higher education institutions, the state funding may be placed at higher education institutions that have acquired the institutional accreditation, but not later than the beginning of the academic year 2010-1011.
 
-- The government of Georgia shall define the minimum, average and maximum amount of a state education grant for the academic years 2005-2006, 2006-2007 and 2007-2008. Higher education institutions having the status of legal entities of public law shall define the costs for higher educational programs according to faculties and/or specialties in accordance to the amount of state education grant defined by Georgian government for the academic years of 2005-2006, 2006-2007 and 2007-2008.
+8. The government of Georgia shall define the minimum, average and maximum amount of a state education grant for the academic years 2005-2006, 2006-2007 and 2007-2008. Higher education institutions having the status of legal entities of public law shall define the costs for higher educational programs according to faculties and/or specialties in accordance to the amount of state education grant defined by Georgian government for the academic years of 2005-2006, 2006-2007 and 2007-2008.
 
-- Before the beginning of the academic year 2007-2008, the parliament and the government of Georgia shall prepare the draft legislative amendments for conferring the new status of nonprofit legal entity to the higher education institutions.
+9. Before the beginning of the academic year 2007-2008, the parliament and the government of Georgia shall prepare the draft legislative amendments for conferring the new status of nonprofit legal entity to the higher education institutions.
 
-- Before January 1, 2007, the Ministry of Education and Science of Georgia shall develop the new rules and conditions for financing master's and doctor's programs.
+10. Before January 1, 2007, the Ministry of Education and Science of Georgia shall develop the new rules and conditions for financing master's and doctor's programs.
 
-- The new system of funding master's and doctor's programs, as defined by this law, shall become effective upon starting the study courses for students enrolled in these programs in pursuant to this law.
+11. The new system of funding master's and doctor's programs, as defined by this law, shall become effective upon starting the study courses for students enrolled in these programs in pursuant to this law.
 
-- Before the start of the academic year 2007-2008, higher education institutions having the status of legal entity of public law, shall present to the Ministry of Education and Science of Georgia proposals regarding the expediency of establishing their branches as higher education institutions.
+12. Before the start of the academic year 2007-2008, higher education institutions having the status of legal entity of public law, shall present to the Ministry of Education and Science of Georgia proposals regarding the expediency of establishing their branches as higher education institutions.
 
 ### Article 89. National Examination Center, State Accreditation Service and Compatibility of Educational Programs
 
-- Before the beginning of the academic year 2006-2007, the Ministry of Education and Science of Georgia shall approve the statutes of National Examination Center and the State Accreditation Service for Higher Education Institutions.
+1. Before the beginning of the academic year 2006-2007, the Ministry of Education and Science of Georgia shall approve the statutes of National Examination Center and the State Accreditation Service for Higher Education Institutions.
 
-- By the beginning of the academic year 2007-2008, the government of Georgia shall ensure that the State Accreditation Service start its activities.
+2. By the beginning of the academic year 2007-2008, the government of Georgia shall ensure that the State Accreditation Service start its activities.
 
-- The functions of the National Examination Center before its establishment shall be performed by the Ministry of Education and Science and the National Assessment and Examinations Center, which is a legal entity of public law.
+3. The functions of the National Examination Center before its establishment shall be performed by the Ministry of Education and Science and the National Assessment and Examinations Center, which is a legal entity of public law.
 
-- For the academic year 2005-2006, the Ministry of Education and Science, shall ensure holding the unified national examinations in Georgian Language and Literature, General Abilities, Foreign Languages (English, German, French or Russian) and mathematics, and for the academic year 2006-2007 - in other subjects as well. The procedures for conducting the examinations and their optional/compulsory status shall be defined by the Ministry of Education and Science of Georgia in accordance with this law.
+4. For the academic year 2005-2006, the Ministry of Education and Science, shall ensure holding the unified national examinations in Georgian Language and Literature, General Abilities, Foreign Languages (English, German, French or Russian) and mathematics, and for the academic year 2006-2007 - in other subjects as well. The procedures for conducting the examinations and their optional/compulsory status shall be defined by the Ministry of Education and Science of Georgia in accordance with this law.
 
 48
 
@@ -1694,23 +1696,23 @@ The property of a higher education institution having the status of legal entity
 
 [[START OF PAGE 49]]
 
-- Before the establishment of the State Accreditation Service for Higher Education Institutions, the Ministry of Education and Science of Georgia shall ensure the performance of its functions.
+5. Before the establishment of the State Accreditation Service for Higher Education Institutions, the Ministry of Education and Science of Georgia shall ensure the performance of its functions.
 
-- Before the program accreditation for higher education institutions, the results of the unified national examinations carried out by the National Examination Center shall apply to the higher education institutions holding the institutional accreditation, but not later than the beginning of the academic year 2010-1011. Before this time, the Ministry of Education and Science of Georgia shall ensure program accreditation for higher education institutions.
+6. Before the program accreditation for higher education institutions, the results of the unified national examinations carried out by the National Examination Center shall apply to the higher education institutions holding the institutional accreditation, but not later than the beginning of the academic year 2010-1011. Before this time, the Ministry of Education and Science of Georgia shall ensure program accreditation for higher education institutions.
 
-- By the academic year 2006-2007, higher education institutions shall move on providing the master's educational program lasting for not less than two years.
+7. By the academic year 2006-2007, higher education institutions shall move on providing the master's educational program lasting for not less than two years.
 
-- The degree awarded before the entry into force of this law, shall be equal to the master's academic degree, if it was awarded to a person upon completion of educational program lasting for not less than five years. Also, the academic degree of a higher education diploma received before the entry into force of this law shall be equal to the academic degree of a bachelor, if it was awarded to a person upon completing the educational level for a bachelor.
+8. The degree awarded before the entry into force of this law, shall be equal to the master's academic degree, if it was awarded to a person upon completion of educational program lasting for not less than five years. Also, the academic degree of a higher education diploma received before the entry into force of this law shall be equal to the academic degree of a bachelor, if it was awarded to a person upon completing the educational level for a bachelor.
 
-- The scientific degree of a Candidate of Sciences 2 acquired before the entry into force of this law shall be equivalent to the doctor's academic degree.
+9. The scientific degree of a Candidate of Sciences 2 acquired before the entry into force of this law shall be equivalent to the doctor's academic degree.
 
-- Section 9 of this article shall apply to the persons who became or will become Aspirants 3 (Seeker 4 ) and obtain the degree of a Candidate of Science before the establishment of the dissertation council provided in this law, but not later than 31 December of 2006.
+10. Section 9 of this article shall apply to the persons who became or will become Aspirants 3 (Seeker 4 ) and obtain the degree of a Candidate of Science before the establishment of the dissertation council provided in this law, but not later than 31 December of 2006.
 
-- Before the beginning of the academic year 2006-2007, the higher education institutions having the status of legal entity of public law shall ensure the transfer of the institutions' professors/teachers and researchers to the relevant academic positions pertaining to this law.
+11. Before the beginning of the academic year 2006-2007, the higher education institutions having the status of legal entity of public law shall ensure the transfer of the institutions' professors/teachers and researchers to the relevant academic positions pertaining to this law.
 
-- Before the beginning of the academic year 2006-2007, the Ministry of Education and Science of Georgia shall ensure adoption of the acts provided for in 'f,' 'g,' 'i,' 'm,' 'n,' subsections of section 1 of article 7 of this law.
+12. Before the beginning of the academic year 2006-2007, the Ministry of Education and Science of Georgia shall ensure adoption of the acts provided for in 'f,' 'g,' 'i,' 'm,' 'n,' subsections of section 1 of article 7 of this law.
 
-- In the case of discrepancy between the provisions of this law and those of the Law of Georgia on Education, the provisions of this law shall apply.
+13. In the case of discrepancy between the provisions of this law and those of the Law of Georgia on Education, the provisions of this law shall apply.
 
 > 2 The degree introduced in the Soviet Union and awarded since then for completing the second level of higher education
 
@@ -1728,11 +1730,11 @@ The property of a higher education institution having the status of legal entity
 
 ### Article 90. Entry into Effect
 
-- The age limit provided in section 2 of article 36 of this law, subsection 'e' of article 38 of this law and sections 3 and 4 of article 39 shall become effective in the beginning of the academic year 2009-2010.
+1. The age limit provided in section 2 of article 36 of this law, subsection 'e' of article 38 of this law and sections 3 and 4 of article 39 shall become effective in the beginning of the academic year 2009-2010.
 
-- Section 1 of article 81 of this law shall become effective in the beginning of the academic year 2008-2009.
+2. Section 1 of article 81 of this law shall become effective in the beginning of the academic year 2008-2009.
 
-- This law shall become effective immediately upon publication.
+3. This law shall become effective immediately upon publication.
 
 Mikheil Saakashvili
 
