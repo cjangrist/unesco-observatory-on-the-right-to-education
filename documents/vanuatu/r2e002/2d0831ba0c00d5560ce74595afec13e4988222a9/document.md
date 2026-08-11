@@ -1,5 +1,15 @@
 [[START OF PAGE 1]]
 
+REPUBLIC OF VANUATU
+
+THE
+
+VANUATU NATIONAL LANGUAGE COUNCIL
+
+# ACT NO. 32 OF 2005
+
+## Arrangement of Sections
+
 - 1 Purpose of the Act
 
 - 2 Definitions
@@ -33,14 +43,6 @@
 - 16 Regulations
 
 - 17 Commencement
-
-REPUBLIC OF VANUATU
-
-VANUATU NATIONAL LANGUAGE COUNCIL
-
-# THE ACT NO. 32 OF 2005
-
-## Arrangement of Sections
 
 ____________________
 
@@ -78,9 +80,9 @@ In this Act, unless the contrary intention appears: Council means the Vanuatu Na
 
 ## 3 Establishment of the Vanuatu National Language Council
 
-- The Vanuatu National Language Council is established.
+(1) The Vanuatu National Language Council is established.
 
-- The Council:
+(2) The Council:
 
 (a) is a body corporate with perpetual succession; and
 
@@ -90,7 +92,7 @@ In this Act, unless the contrary intention appears: Council means the Vanuatu Na
 
 ## 4 Composition of the Council
 
-- The Council consists of 12 members who are to be appointed by the Minister by Order. (2) The following persons are to be members of the Council: (a) a person nominated by the Vanuatu Institute of Education; (b) a person nominated by the Division of Primary Education; (c) a person nominated by the Language Services Department; (d) a person nominated by the Malvatumauri Council of Chiefs; (e) a person nominated by the Ombudsman's Office; (f) a person nominated by the Vanuatu Cultural Centre; (g) a person nominated by the Pacific Languages Unit of the University of the South Pacific; (h) a person nominated by the Vanuatu Christian Council; (i) a person nominated by the Media.Asosiesen Blong Vanuatu; (j) a person nominated by the Summer Institute of Linguistics;
+(1) The Council consists of 12 members who are to be appointed by the Minister by Order. (2) The following persons are to be members of the Council: (a) a person nominated by the Vanuatu Institute of Education; (b) a person nominated by the Division of Primary Education; (c) a person nominated by the Language Services Department; (d) a person nominated by the Malvatumauri Council of Chiefs; (e) a person nominated by the Ombudsman's Office; (f) a person nominated by the Vanuatu Cultural Centre; (g) a person nominated by the Pacific Languages Unit of the University of the South Pacific; (h) a person nominated by the Vanuatu Christian Council; (i) a person nominated by the Media Asosiesen Blong Vanuatu; (j) a person nominated by the Summer Institute of Linguistics;
 
 (k) a person nominated by the Vanuatu National Council of Women;
 
@@ -136,13 +138,13 @@ determined by the Council. (2) The Chief Executive Officer is to be appointed fo
 
 [[START OF PAGE 4]]
 
-- The Council may delegate all or any of its powers and functions to the Chief Executive Officer, as it considers necessary, for the day to day operation of the Council.
+(1) The Council may delegate all or any of its powers and functions to the Chief Executive Officer, as it considers necessary, for the day to day operation of the Council.
 
-- The Chief Executive Officer must attend all meetings of the Council and prepare the minutes of the meetings.
+(2) The Chief Executive Officer must attend all meetings of the Council and prepare the minutes of the meetings.
 
-- The Chief Executive Officer is the head of the staff of the National Language Council and is responsible to the National Language Council for the efficient carrying out of the functions of the Council.
+(3) The Chief Executive Officer is the head of the staff of the National Language Council and is responsible to the National Language Council for the efficient carrying out of the functions of the Council.
 
-- Without limiting subsection (3), the Chief Executive Officer must:
+(4) Without limiting subsection (3), the Chief Executive Officer must:
 
 (a) manage the activities of the Council in accordance with the policies and directions of the Council; and
 
@@ -156,11 +158,11 @@ determined by the Council. (2) The Chief Executive Officer is to be appointed fo
 
 ## 9 Disqualification or Removal of the Chief Executive Officer
 
-- A person is disqualified from being appointed as Chief Executive Officer if the person: (a) is or becomes a member of Parliament, a local government council or a municipal council; or (b) is or becomes a member of the National Council of Chiefs; or (c) is convicted, or at any time in the previous 10 years has been convicted of any offence punishable by a term of imprisonment for 3 months or more; or (d) is or becomes an undischarged bankrupt; or (e) in the case of a person having professional qualifications - is disqualified or suspended from practising his or her profession on the grounds of professional misconduct. (2) The Chief Executive Officer may resign his position by giving written notice to the
+(1) A person is disqualified from being appointed as Chief Executive Officer if the person: (a) is or becomes a member of Parliament, a local government council or a municipal council; or (b) is or becomes a member of the National Council of Chiefs; or (c) is convicted, or at any time in the previous 10 years has been convicted of any offence punishable by a term of imprisonment for 3 months or more; or (d) is or becomes an undischarged bankrupt; or (e) in the case of a person having professional qualifications - is disqualified or suspended from practising his or her profession on the grounds of professional misconduct. (2) The Chief Executive Officer may resign his position by giving written notice to the
 
-- Minister and the Council.
+Minister and the Council.
 
-- The period of the notice specified in subsection 9(2) is:
+(3) The period of the notice specified in subsection 9(2) is:
 
 [[END OF PAGE 4]]
 
@@ -172,7 +174,7 @@ determined by the Council. (2) The Chief Executive Officer is to be appointed fo
 
 ## 10 Staff of the Council
 
-The staff of the Council ale to be appointed by the Council upon such terms and conditions as may be determined by the Council.
+The staff of the Council are to be appointed by the Council upon such terms and conditions as may be determined by the Council.
 
 ## 11 Functions of the Council
 
