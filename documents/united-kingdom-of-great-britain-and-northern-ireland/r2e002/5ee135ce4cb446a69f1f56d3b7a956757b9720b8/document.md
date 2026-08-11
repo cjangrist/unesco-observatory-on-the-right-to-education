@@ -26,17 +26,17 @@ In  exercise  of  the  powers  conferred  upon  the  Secretary  of  State  by  s
 
 ## Citation, commencement and application
 
--(1)  These Regulations may be cited as the Day Care and Child Minding (National Standards) (England) Regulations 2003 and shall come into force on 1st September 2003.
+1.—(1) These Regulations may be cited as the Day Care and Child Minding (National Standards) (England) Regulations 2003 and shall come into force on 1st September 2003.
 
-- These Regulations apply only in relation to England.
+(2) These Regulations apply only in relation to England.
 
 ## Revocation
 
-- The Day Care and Child Minding (National Standards) (England) Regulations 2001( 2 ), are hereby revoked.
+2. The Day Care and Child Minding (National Standards) (England) Regulations 2001(2), are hereby revoked.
 
 ## Interpretation
 
-- In these Regulations-
+3. In these Regulations—
 
 'the Act' means the Children Act 1989;
 
@@ -76,7 +76,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 ## National Standards
 
-4. -(1)  In exercising his functions under Part XA of the Act, the Chief Inspector-
+4.—(1) In exercising his functions under Part XA of the Act, the Chief Inspector—
 
 (a) shall have regard to the national standards and supporting criteria; and
 
@@ -98,7 +98,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 ## Prohibition on use of corporal punishment
 
-5. -(1)  A registered person shall not give corporal punishment to a child for whom he acts as a child minder or provides day care and, so far as is reasonably practicable, shall ensure that corporal punishment is not given to any such child by-
+5.—(1) A registered person shall not give corporal punishment to a child for whom he acts as a child minder or provides day care and, so far as is reasonably practicable, shall ensure that corporal punishment is not given to any such child by—
 
 (a) any person looking after children on the premises;
 
@@ -120,7 +120,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 ## Provision of information
 
-6. -(1)  A registered person shall notify the Chief Inspector of the occurrence of any of the events set out in Schedule 2 to these Regulations and shall at the same time provide him with any information specified in that Schedule in respect of that event.
+6.—(1) A registered person shall notify the Chief Inspector of the occurrence of any of the events set out in Schedule 2 to these Regulations and shall at the same time provide him with any information specified in that Schedule in respect of that event.
 
 (2)  Notification shall be made-
 
@@ -130,7 +130,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 ## Keeping of records
 
-7. -(1)  Subject to paragraph (3), a registered person shall-
+7.—(1) Subject to paragraph (3), a registered person shall—
 
 (a) keep at the premises, or at another location notified to and agreed by the Chief Inspector, all the records specified in paragraphs 1 to 6 of Schedule 3 to these Regulations;
 
@@ -154,7 +154,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 ## Notice
 
-8. -(1)  Where the Chief Inspector considers that a registered person has failed or is failing to comply with the requirements of regulation 4(2) or regulation 7 he may give notice to the registered person specifying-
+8.—(1) Where the Chief Inspector considers that a registered person has failed or is failing to comply with the requirements of regulation 4(2) or regulation 7 he may give notice to the registered person specifying—
 
 (a) in what respect that person has failed or is failing to comply with those requirements;
 
@@ -168,7 +168,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 ## Service
 
-9. -(1)  A notice may be given by being delivered personally to the registered person, sent by post in a registered letter or by the recorded delivery service or by being transmitted electronically.
+9.—(1) A notice may be given by being delivered personally to the registered person, sent by post in a registered letter or by the recorded delivery service or by being transmitted electronically.
 
 3
 
@@ -186,7 +186,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 ## Offence
 
-10. -(1)  A registered person who, without reasonable excuse, has failed to comply with the requirements of regulation 5 or 6 or paragraph (2) of regulation 8 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+10.—(1) A registered person who, without reasonable excuse, has failed to comply with the requirements of regulation 5 or 6 or paragraph (2) of regulation 8 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (2)  Proceedings under this regulation may only be taken by the Chief Inspector.
 
@@ -205,6 +205,7 @@ Document Generated: 2017-07-18
 Status: This is the original version (as it was originally made). This item of legislation is currently only available in its original format.
 
 ## SCHEDULE 1
+Regulation 3
 
 ### National Standards Documents
 
@@ -219,10 +220,11 @@ Status: This is the original version (as it was originally made). This item of l
 'National Standards for Under Eights' Day Care and Child Minding - Sessional Care' [2003] ISBN 1-84478-064-3.
 
 ## SCHEDULE 2
+Regulation 6
 
 ### Events to be Notified to the Chief Inspector
 
-1. -(1)  In the case of child minding, a change of the following persons-
+1.—(1) In the case of child minding, a change of the following persons—
 
 (a) any person looking after children on the premises, or
 
@@ -230,7 +232,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 (2)  The information to be provided is the new person's date of birth, full name, any former names or aliases and home address.
 
-2. -(1)  In the case of day care, a change of the following persons-
+2.—(1) In the case of day care, a change of the following persons—
 
 (a) any person in charge,
 
@@ -248,9 +250,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 (a) where day care is provided by a body corporate, any change in the name or registered number of the company; or
 
-Regulation 6
 
-Regulation 3
 
 5
 
@@ -289,12 +289,13 @@ Status: This is the original version (as it was originally made). This item of l
 12. Particulars  of  any  other  significant  event  which  is  likely  to  affect  the  suitability  of  the registered person or any person caring for the children on the premises to look after children.
 
 ## SCHEDULE 3
+Regulation 7
 
 ### Records to be kept by registered persons
 
 #### Particulars Required in all cases
 
-- The name, home address and date of birth of each child who is looked after on the premises.
+1. The name, home address and date of birth of each child who is looked after on the premises.
 
 2. The name, home address and telephone number of a parent of each child who is looked after on the premises.
 
@@ -306,7 +307,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 6. A record of any medicinal product administered to any child on the premises, including the date and circumstances of its administration, by whom it was administered, including medicinal products which the child is permitted to administer to himself, together with a record of a parent's consent.
 
-Regulation 7
+
 
 6
 
