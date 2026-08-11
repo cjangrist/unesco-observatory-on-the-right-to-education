@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -26,13 +26,15 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 1
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
 
 In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
 
@@ -44,7 +46,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments, the content of the Recommendation is identical to that of the Convention. Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -70,11 +72,11 @@ The Futures of Education Report calls for a new social contract for education, w
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation  of  the  right  to  education  in  their  country,  identify  specific  challenges,  build constructive dialogue with other actors involved in this field and share good practices.
 
-In the preparation of reports, Member States are encouraged to provide substantive and relevant information  in  a  concise  manner .  In  addition  to  a  description  of  the  constitutional,  legislative, administrative, and  policy framework  established  for  the implementation  of  the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
+In the preparation of reports, Member States are encouraged to provide substantive and relevant information in a concise manner. In addition to a description of the constitutional, legislative, administrative, and policy framework established for the implementation of the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls' and women's right to education. Information and data regarding countries' education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -110,13 +112,13 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 Country name: NIGERIA
 
-Organization or entity responsible for the preparation of the report: NIGERIAN NATIONAL COMMISSIO N FOR UNESCO
+Organization or entity responsible for the preparation of the report: NIGERIAN NATIONAL COMMISSION FOR UNESCO
 
 Name of contact person: Dr. Olagunju Idowu Lateef
 
 Email and telephone number of contact person: natcom.unesco@education.gov.ng +234 813 621 9701
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -157,56 +159,6 @@ The ratification process is close to completion
 - Development of the National Education Sector Plan (NESP) 2003
 
 > 10 https://www.unesco.org/en/legal-affairs/convention-against-discrimination-education
-
-## GENERAL INFORMATION:
-
-Country name: NIGERIA
-
-Organization or entity responsible for the preparation of the report: NIGERIAN NATIONAL COMMISSIO N FOR UNESCO
-
-Name of contact person: Dr. Olagunju Idowu Lateef
-
-Email and telephone number of contact person: natcom.unesco@education.gov.ng +234 813 621 9701
-
-## Ratification and applicability of the Convention against Discrimination in Education 10
-
-- Is your country a State Party to the Convention?
-
- Yes
-
- No: Does your country plan to ratify this instrument?
-
- Yes: Please indicate the stage of ratification process reached by your country and whether assistance is needed:
-
- There is interest but no concrete action has been taken
-
- The ratification process has been initiated
-
-
-
-The ratification process is close to completion
-
-- Please  briefly  explain  the  steps  that  have  been  taken  and  timeline  when relevant, any difficulties encountered (legal, institutional, political or practical) in completing the ratification process. And how UNESCO can assist:
-
-- Rectification of CADE (1961)
-
-- Establishment of the Universal Primary Education (UPE) in 1976
-
-- Introduction of National Curriculum (1977)
-
-### Reforms and Initiative
-
-- Introduction of 6334 Education System (1982)
-
-- Establishment of the Board for Technical Education (NBTE) (1984)
-
-- Launch of National Primary Education Commission (1990)
-
-- Introduction of Universal Basic Education (UBE) Programme (1999)
-
-### Millennium Development Goal (MDGs) Era (2000-2015)
-
-- Development of the National Education Sector Plan (NESP) 2003
 
 [[END OF PAGE 5]]
 
@@ -266,7 +218,7 @@ No
 
 [[START OF PAGE 7]]
 
- Yes No
+ Yes  No
 
 - Please cite the case law and jurisprudence.
 
@@ -278,7 +230,7 @@ Information could also be given about the judicial, administrative and other com
 
 - SERAP  version  Federal  Government  and  UBEC:  upheld  the  right  to  quality  Education, Dignity, and Economic and Social Development
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ### 1. Towards an inclusive non-discriminatory education system
 
@@ -331,7 +283,6 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 - Please indicate the relevant legal provisions:
 
 ##### Constitutional Provisions:
----
 1. Section 18(1) of the 1999 Constitution of the Federal Republic of Nigeria: "Government shall direct its policy towards ensuring that there are equal and adequate educational opportunities at all levels."
 2. Section 18(3): "Government shall promote science, technology, and education."
 3. Section 42: Prohibits discrimination based on ethnicity, gender, religion, or social status.
@@ -345,7 +296,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -399,8 +350,6 @@ Compulsory  Basic  Education -Universal  Basic  Education  Commission  (UBEC)  A
 
 [[START OF PAGE 10]]
 
-9. Birth or other status
-
 - The National Gender Policy (2006)
 
 - The National Policy on Special Needs Education (2015)
@@ -423,6 +372,7 @@ These legal texts collectively prohibit discrimination in education based on:
 
 - Socio-economic status
 
+- Birth or other status
  Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
  In pre-primary education (including early learning and care)
@@ -475,7 +425,7 @@ These legal texts collectively prohibit discrimination in education based on:
 
 - Education in Emergencies (EiE) Program
 
-- Inclusive Education Initiative
+- Inclusive Education Initiative N
 
 - Gender Equality and Girls' Education Initiative
 
@@ -510,8 +460,6 @@ At  the  University  level,  there  is  Core  Curriculum  Minimum  Academic  Sta
 - Incorporate inclusive and diverse perspectives.
 
 - Ensure representation of various cultures, religions, and abilities.
-
-N
 
 [[END OF PAGE 11]]
 
@@ -669,7 +617,7 @@ These legal texts collectively prohibit discrimination in education based on:
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  co mpetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -678,20 +626,18 @@ These legal texts collectively prohibit discrimination in education based on:
 [[START OF PAGE 15]]
 
 1. National Policy on Education (1977, revised 2013): Emphasizes inclusive education.
----
 2. Universal Basic Education (UBE) Policy (2004): Focuses on equity and access.
 3. Special Needs Education Policy (2015): Supports inclusive education.
 4. National Education Sector Plan (2018-2022): Prioritizes equity and inclusion.
 5. Education for Change: A Ministerial Strategic Plan (2016-2019): Aims to improve access and quality.
 6. Education for Renewed Hope: Roadmap for the Nigerian Education Sector (2024 - 2027)
-SDG 4.1 & 4.2; National Policy on Education ensure the use of National Curriculum and native (immediate) language at Basic 1-3. National Teachers Institute (NTI) ensures training and re- training of teachers on national values.
+SDG 4.1 & 4.2; National Policy on Education ensure the use of National Curriculum and native (immediate) language at Basic 1-3. National Teachers Institute (NTI) ensures training and re-training of teachers on national values.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
 Cultural and societal biases: Deep-rooted cultural and societal biases against certain groups, such as women, people with disabilities, hinder equal opportunities in education.
----
 2. Limited access to education: Inadequate funding, inadequate infrastructure, and scarcity of resources, particularly in rural areas, limit access to quality education.
 3. Gender disparities: Girls, particularly in northern Nigeria, face barriers to education due to cultural and religious beliefs.
 4. Disability-related barriers: Inadequate infrastructure and resources for students with disabilities restrict their access to inclusive education.
@@ -743,11 +689,11 @@ This  is  supported  by  SDG  4.4  and  4.5.  There  is  Girl-Child  Scholarship
 
 - What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
-> 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
+> 19 'Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 'Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
-> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
+> 21 'Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
 [[END OF PAGE 16]]
 
@@ -795,7 +741,7 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Native language instruction is ensured for national minorities
 
-- o Adapting curricula and teaching and learning methods to their needs for national minorities
+ Adapting curricula and teaching and learning methods to their needs for national minorities
 
  Curricula are rid of all stereotypes 25 and bias
 
@@ -811,8 +757,6 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Other 23 :
 
-##### Indigenous people:
-
 National Policy on Education provides right to Education for all National Minorities. Equally, the Alternate School programme is designed to improve access to education as in SDG 4 to reduce 14 million Out-of-School children.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
@@ -820,6 +764,8 @@ National Policy on Education provides right to Education for all National Minori
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
 The NPE provides the teaching of pupils from 1-3 in the language of the immediate environment.
+
+##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
 
@@ -987,7 +933,7 @@ Supra note 15.
 
 ##### People with disabilities:
 
- It is free of charge for all. 1 Year No school fees, free learning Legislation provides for their right to education
+ Legislation provides for their right to education
 
  Policy measures aim to enhance their right to education
 
@@ -999,14 +945,23 @@ Supra note 15.
 
  Financial incentives and fellowships are provided
 
-
+ Other
 
-Other
+ Mainstream teachers are specifically trained on disabilities
+
+ Teachers are trained to combat stigmatisation 33
+
+ Auxiliary assistance is provided
+
+ Curricula and teaching and learning methods re adapted
+
+ Curricula are rid of all stereotypes 34 and bias
+
+ Education infrastructure and learning materials are adapted
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 ###### Legal Measures:
----
 1. Disability Rights Act (2018): Prohibits discrimination, ensures equal rights, and access to education.
 2. National Commission for Persons with Disabilities (NCPWD) Act (2019): Establishes a commission to promote disability rights.
 3. Child Rights Act (2003): Protects rights of children with disabilities.
@@ -1020,18 +975,6 @@ Other
 > 33 Supra note 15.
 
 > 34 Supra note 16.
-
- Mainstream teachers are specifically trained on disabilities
-
- Teachers are trained to combat stigmatisation 33
-
- Auxiliary assistance is provided
-
- Curricula and teaching and learning methods re adapted
-
- Curricula are rid of all stereotypes 34 and bias
-
- Education infrastructure and learning materials are adapted
 
 [[END OF PAGE 21]]
 
@@ -1055,8 +998,6 @@ Economic Barriers also play a significant role, as many parents cannot afford to
 
 - Poor educational outcomes due to lack of adequate facilities
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
 ##### Students from poor households:
 
  Financial incentives and fellowships for school enrolment are provided
@@ -1071,6 +1012,8 @@ Economic Barriers also play a significant role, as many parents cannot afford to
 
  Curricula are rid of all stereotypes 36 and bias
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
 Actions taken to support the education of students from poor households in Nigeria include:
 
 - Universal Basic Education (UBE) Program: Provides free education to all children.
@@ -1084,7 +1027,6 @@ Actions taken to support the education of students from poor households in Niger
 [[START OF PAGE 23]]
 
 2. National Homegrown School Feeding Programme which provides a meal per day for primary school learners
----
 3. Conditional Cash Transfer (CCT) Program: Offers financial assistance to poor households.
 4. Education Trust Fund (ETF): Provides scholarships and grants.
 5. Scholarships awards and financial aid by States and Federal Scholarship Boards
@@ -1140,7 +1082,7 @@ Actions taken to support the education of students from poor households in Niger
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -1148,17 +1090,13 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable Not affordable because it is situated fully in the hands of private sector and social development services.
 
- ECCE services are accessible on a nondiscriminatory basis Discriminatory because if you are poor you will not be able to access
+ ECCE services are accessible on a non-discriminatory basis Discriminatory because if you are poor you will not be able to access
 
 ECCDE services.
 
-- Please elaborate further on the measures taken:
-
-1.
-
-2.
-
  ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+
+- Please elaborate further on the measures taken:
 
 (a)Provision of the following laws that ensure there are equal and adequate opportunities for children at all levels of education:
 
@@ -1177,8 +1115,6 @@ ECCDE services.
 [[START OF PAGE 25]]
 
 ⚫ Basic Education Policies
-
-3.
 
 (b) Activities, Programmes and Projects of the Federal, State and Local Governments, some of which includes the following
 
@@ -1248,7 +1184,7 @@ The UBE National Personnel Audit 2022 data showed the following gaps:
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide “12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.”
 
 ##### Primary education
 
@@ -1320,35 +1256,29 @@ Laws and Policies:
 
 - What challenges were encountered in realizing primary education?
 
-
-
-
-
  Limited access
 
  Issues of equity and inclusion
 
-High dropout rates
+ High dropout rates
 
-Poor quality programmes
+ Poor quality programmes
 
-
-
-Poor learning outcomes in:
+ Poor learning outcomes in:
 
 Foundation literacy
 
 Numeracy
 
- Social and emotional learning Others
+ Social and emotional learning
+
+Others
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-
-
-Other:
+ Other:
 
  Disparity in learning outcomes
 
@@ -1505,39 +1435,10 @@ In Nigeria, Lower Secondary School (Junior Secondary School, JSS) is compulsory 
 [[START OF PAGE 31]]
 
 3. Transportation: ₦1,000 - ₦5,000 (approximately $2.80 - $14 USD monthly).
----
 4. Compulsory levies on parents (e.g., PTA fees): ₦1,000 - ₦5,000 (approximately $2.80 - $14 USD).
 ###### Quantitative Information:
 1. 60% of households spend 10-20% of income on education (World Bank, 2019).
 2. Average household spending on education: ₦63,000 (approximately $170 USD) per annum (NBS, 2020).
-3. 20% of students drop out due to financial constraints (UNICEF, 2020).
-
-3. Transportation: ₦1,000
-
--
-
-₦5,000 (approximately $2.80
-
-- $14 USD monthly).
-
-4. Compulsory levies on parents (e.g., PTA fees): ₦1,000
-
--
-
-₦5,000 (approximately $2.80
-
-- $14
-
-USD).
-
-###### Quantitative Information:
-
-1. 60% of households spend 10-20% of income on education (World Bank, 2019).
-
-2. Average household spending on education: ₦63,000 (approximately $170 USD) per annum
-
-(NBS, 2020).
-
 3. 20% of students drop out due to financial constraints (UNICEF, 2020).
 
 - Please indicate whether the legal minimum age for employment is aligned with the end of compulsory
@@ -1546,7 +1447,7 @@ education:
 
 For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and  therefore  not  completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
- Yes   No o
+ Yes    No
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is
 
@@ -1562,39 +1463,21 @@ Labour Act of 1990, a person under 15 years of age shall not be employed or work
 
 - What challenges were encountered in realizing secondary education?
 
-
+ Limited access
 
-Limited access
+ Issues of equity and inclusion
 
-
+ High dropout rates
 
-Issues of equity and inclusion
+ Poor quality programmes
 
-
+ Other:
 
-High dropout rates
+ Poor learning outcomes
 
-
+ Low readiness of primary graduates
 
-Poor quality programmes
-
-
-
-Other:
-
-
-
-Poor learning outcomes
-
-
-
-Low readiness of primary graduates
-
-
-
-Low number of professionally trained
-
-teachers
+ Low number of professionally trained teachers
 
 [[END OF PAGE 31]]
 
@@ -1618,9 +1501,9 @@ Year | Public | Private | Total
 
 Table b: Enrolment in Public and Private Senior Secondary Schools by Sector and Gender: 2019/2020- 2021/2022
 
-Year | Both
+Year | Both |  |
 --- | --- | --- | ---
-Male | Female | Total
+ | Male | Female | Total
 2019/2020 | 2,925,875 | 2,805,269 | 5,731,144
 2020/2021 | 3,089,541 | 2,957,293 | 6,046,834
 2021/2022 | 3,132,832 | 3,001,816 | 6,134,648
@@ -1737,8 +1620,6 @@ Advising The Government for the establishment of more Universities and licencing
 
 - What challenges were encountered in realizing higher education?
 
-- Please elaborate. Brief quantitative information may be added.
-
  Limited access
 
  Issues of equity and inclusion
@@ -1751,7 +1632,9 @@ Advising The Government for the establishment of more Universities and licencing
 
  Low number of professionally trained professors
 
- Insufficient  mechanisms  to  ensure  smooth transition from secondary to tertiary
+ Insufficient mechanisms to ensure smooth transition from secondary to tertiary
+
+- Please elaborate. Brief quantitative information may be added.
 
 The UBE National Personnel Audit 2022 data showed the following gaps:
 
@@ -1783,8 +1666,6 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 [[START OF PAGE 36]]
 
-### Quality education provision and learning environment
-
  Lifelong learning entitlements including learning accounts, vouchers, etc.
 
  Other:
@@ -1795,7 +1676,7 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please elaborate further on the measures taken:
 
-The Non-Governmental Association for Literacy Support services (NOGALSS) as an Umbrella organization of  NGOs  in  Literacy  Support  Services  has  different  categories  of  members implementing paid and free literacy programmes.
+The Non-Governmental Association for Literacy Support services (NOGALSS) as an Umbrella organization of NGOs in Literacy Support Services has different categories of members implementing paid and free literacy programmes.
 
 NOGALSS coordinates NGO activities, empowering them through meetings, training and capacity building; visits, joint advocacies, monitoring and evaluation, peer learning etc. for better and greater productivity.
 
@@ -1823,47 +1704,52 @@ NOGALSS coordinates NGO activities, empowering them through meetings, training a
 
 - Please elaborate. Brief quantitative information may be added.
 
-- Facilitators teach minimum 6 per week.
+✓ Facilitators teach minimum 6 per week.
 
-- Facilitators stipends range between $10-20 a month
+✓ Facilitators stipends range between $10-20 a month
 
-- Percentage of aid/budget to Non-Formal Education below recommended UNESCO standards for countries
+✓ Percentage of aid/budget to Non-Formal Education below recommended UNESCO standards for countries
 
-- Subvention  to  non-state  actors  non-existent;  which  adds  to  the  challenge  of delivering literacy and numeracy and also reflects on poor learning outcomes
+✓ Subvention to non-state actors non-existent; which adds to the challenge of delivering literacy and numeracy and also reflects on poor learning outcomes
+
+### 3. Quality education provision and learning environment
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to “build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all”.
 
 #### 3.1 General measures
 
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
-
-
  State monitoring and inspections
----
+
  Health and sanitation
+
  Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
+
  Infrastructure
+
  Curriculum
+
  Student-teacher ratio
+
  School fees (if relevant)
+
  Other Education provides minimum basic standards on the above items.
 
 - Please elaborate on each of the measures taken:
 
 You may include information on policies, protocols or codes of conduct.
 
-In the context of Nigeria's education system, the 1960 UNESCO Convention against Discrimination in Education and the targets of SDG 4, specifically regarding quality education provision and learning environments .
+In the context of Nigeria's education system, the 1960 UNESCO Convention against Discrimination in Education and the targets of SDG 4, specifically regarding quality education provision and learning environments.
 ##### State monitoring and inspections
-In terms of state monitoring and inspections, the Federal Ministry of Education is responsible for overall policy formation and ensuring quality control ². The National Policy on Safety, Security, and Violence-Free Schools requires all schools to have a policy creating safe, secure, and violence-free settings for learners ². In Nigeria, the Federal Ministry of Education (FME), Universal Basic Education Commission (UBEC), in partnership with state education boards and National Teachers' Institute (NTI), over sees the monitoring of public schools to ensure compliance with national education standards
-##### Health and Sanitation Standards :
+In terms of state monitoring and inspections, the Federal Ministry of Education is responsible for overall policy formation and ensuring quality control ². The National Policy on Safety, Security, and Violence-Free Schools requires all schools to have a policy creating safe, secure, and violence-free settings for learners ². In Nigeria, the Federal Ministry of Education (FME), Universal Basic Education Commission (UBEC), in partnership with state education boards and National Teachers' Institute (NTI), oversees the monitoring of public schools to ensure compliance with national education standards
+##### Health and Sanitation Standards:
 Health and sanitation standards are mandated by the Federal Ministry of Education (FMoE), which requires schools to meet minimum hygiene standards, ensuring clean water, proper sanitation, and hygiene facilities.
 - Water and Sanitation: Access to clean water and sanitation facilities is mandatory in all public schools.
----
 
 [[END OF PAGE 37]]
 
@@ -1910,7 +1796,6 @@ Legal Framework: The Federal Ministry of Education and UBEC work together to ens
 [[START OF PAGE 39]]
 
 Legal Framework: The Nigerian Educational Research and Development Council (NERDC) is responsible for developing the national curriculum. The curriculum is regularly updated to ensure it is relevant, inclusive, and aligned with global standards, including the SDG goals.
----
 - Core Curriculum and Minimum Academic Standards (CCMAS): The NUC implements CCMAS to ensure universities design curricula and teaching methods that achieve education goals in Nigeria ⁴.
 - Benchmark Minimum Academic Standards (BMAS): BMAS documents outline minimum academic standards for programs taught in Nigerian universities ² ³ ⁵.
 - National Certificate in Education Minimum Standards: These standards guide curriculum development for teacher education programs ⁶ ⁷.
@@ -1921,9 +1806,9 @@ In federal universities, school fees range from ₦34,200 to ₦144,500 ¹. For 
 ###### State Universities
 State universities have their own fee structures, with fees ranging from ₦22,800 to ₦378,500 ¹. For instance, Kano University of Science & Technology, Wudil, charges ₦22,800, while Edo State University Uzairue charges ₦378,500.
 ###### Private Universities
+Private universities in Nigeria have significantly higher fees, ranging from ₦100,000 to ₦5,750,000 ¹. Achievers University, Owo, charges ₦400,000 – ₦800,000, while Nile University of Nigeria, Abuja, charges ₦2,400,000 – ₦5,750,000.
 ##### Inclusive Education:
-alignment with the Convention's provisions and SDG target 4.a, the Nigerian government inclusive education, ensuring that children with disabilities have access to learning. National Policy on Inclusive Education ensures that schools cater to the needs of all children. government support the achievement of SDG 4, ensuring that education in Nigeria is
-In promotes The Nigerian inclusive, safe, and of high quality.
+In alignment with the Convention's provisions and SDG target 4.a, the Nigerian government promotes inclusive education, ensuring that children with disabilities have access to learning. The National Policy on Inclusive Education ensures that schools cater to the needs of all children. Nigerian government support the achievement of SDG 4, ensuring that education in Nigeria is inclusive, safe, and of high quality.
 
 - What challenges were encountered in realizing quality education?
 
@@ -1939,11 +1824,11 @@ In promotes The Nigerian inclusive, safe, and of high quality.
 
 [[START OF PAGE 40]]
 
- Other:
-
  Cost of education
 
  Conflicts or crises
+
+ Other:
 
  Long distances to schools
 
@@ -2128,7 +2013,7 @@ In 2022, the Federal Government announced salary increments for public school te
 
 ##### 3. Initial Training and Continuous Professional Development (CPD) are Provided
 
-There  is  a  consistently  offered  initial  teacher  training  and  continuous  professional development (CPD), which is a key measure in ensuring that teachers at all levels are wellequipped with modern pedagogical skills and content knowledge.
+There is a consistently offered initial teacher training and continuous professional development (CPD), which is a key measure in ensuring that teachers at all levels are well-equipped with modern pedagogical skills and content knowledge.
 
 In  line  with  SDG  4.c,  FME  through  some  Agencies  provides  continuous  training  through distance learning programs, workshops, and the Strengthening Mathematics and Science Education (SMASE) INSET programs. From 2021 to 2024, more than 100,000 teachers have benefited from CPD opportunities.
 
@@ -2160,7 +2045,7 @@ Efforts to promote gender equity in leadership roles within the education sector
 
 By 2024, NTI reported a 30% increase in women holding leadership positions in education, compared  to  2020.  Special  leadership  training  programs  were  introduced  for  female teachers in both primary and secondary education levels (NTI Leadership Training Report, 2023).
 
-Teacher  training  programs,  coupled  with  initiatives  for  gender  balance,  performance monitoring, and salary improvements, have contributed to addressing key issues outlined in SDG  target  4.c.  These  efforts  align  with  the  broader  goal  of  ensuring  qualified,  wellsupported, and motivated teachers are at the forefront of Nigeria's education system.
+Teacher training programs, coupled with initiatives for gender balance, performance monitoring, and salary improvements, have contributed to addressing key issues outlined in SDG target 4.c. These efforts align with the broader goal of ensuring qualified, well-supported, and motivated teachers are at the forefront of Nigeria's education system.
 
 - What challenges were encountered in the education personnel?
 
@@ -2232,7 +2117,7 @@ High student-teacher ratios are particularly problematic in primary and secondar
 
 ##### 6. Inadequate Parental Support to Education
 
-A less discussed but significant challenge is the lack of adequate parental support for children's education.  In  many  communities,  especially  rural  or  low-income  areas,  parents  are  either unable or unwilling to support their children's education due to eco nomic pressures or cultural factors.
+A less discussed but significant challenge is the lack of adequate parental support for children's education. In many communities, especially rural or low-income areas, parents are either unable or unwilling to support their children's education due to economic pressures or cultural factors.
 
 In some regions, especially in the northern part of Nigeria, cultural beliefs about early marriage or  the  value  of  girls'  education  can  negatively  impact  school  attendance  and  parental involvement. Teachers often struggle with high absenteeism and low parental engagement, which hinders the educational progress of students.
 
@@ -2272,7 +2157,7 @@ A 2022 review by the N noted that the curriculum updates aim to ensure that all 
 
 > 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
-Commented [AC1]: Removed this answer as it was refering to the same things than the answer for the question below, and because it is more relevant for the next question, as developing the ticked answers Curriculum Development Support:
+Commented [AC1]: Removed this answer as it was refering to the same things than the answer for the question below, and because it is more relevant for the next question, as developing the ticked answers
 
 [[END OF PAGE 48]]
 
@@ -2293,6 +2178,7 @@ Partnerships with National Human Rights Commission (NHRC): In 2022, NHRC partner
 ➢ Provided training on human rights issues and effective teaching methods. Over 5,000 educators participated, enhancing their capacity to teach human rights effectively (NHRC, 2022).
 ➢ Engaged communities through public awareness campaigns on human rights topics, leveraging both traditional and digital media to reach a broader audience.
 ###### 3. Role of the National Teachers' Institute (NTI)
+###### Teacher Training Programmes:
 ➢ NTI includes human rights education in its professional development programmes for teachers. This involves:
 ➢ Training teachers on how to incorporate human rights topics into their lessons, create inclusive classroom environments, and handle human rights issues sensitively.
 As of 2024, NTI has trained over 20,000 teachers through these programmes. Feedback indicates that this training has improved teachers' ability to address human rights issues in their classrooms (NTI Annual Report, 2024).
@@ -2300,6 +2186,8 @@ As of 2024, NTI has trained over 20,000 teachers through these programmes. Feedb
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+###### Curriculum Development Support:
 
 - NTI provides expertise and recommendations for integrating human rights education into teacher training materials and curriculum guidelines. This collaboration helps:
 
@@ -2337,7 +2225,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
 [[START OF PAGE 51]]
 
-Non-Government al  Organisations'  (NGOs) efforts  in  their  provisions.  There  are  frequent  dialogues  and stakeholders  meeting  to  ensure  healthy  implementation  of  government  education  policies  by  non-state actors.  Non-state  actors  are  very  innovative  in  responding  to  learning  needs  in  the  communities  as stakeholders in planning of interventions.
+Non-Governmental Organisations’ (NGOs) efforts in their provisions. There are frequent dialogues and stakeholders meeting to ensure healthy implementation of government education policies by non-state actors. Non-state actors are very innovative in responding to learning needs in the communities as stakeholders in planning of interventions.
 
  Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
 
@@ -2345,27 +2233,27 @@ Parents and guardians in Nigeria have the legal rights over their children and w
 
  Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
-- Registration
+✓ Registration
 
-- State monitoring and inspections
+✓ State monitoring and inspections
 
-- Qualifications of teachers
+✓ Qualifications of teachers
 
-- Health and sanitation
+✓ Health and sanitation
 
-- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
+✓ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
 
-- Infrastructure
+✓ Infrastructure
 
-- Curriculum
+✓ Curriculum
 
-- Student-teacher ratio
+✓ Student-teacher ratio
 
-- School fees
+✓ School fees
 
-- School closures
+✓ School closures
 
-- Other
+✓ Other
 
 It has been difficult to exactly as certain the learning out-comes for different levels of education as learners' graduates from levels without attaining the expected national standards.
 
@@ -2373,7 +2261,7 @@ It has been difficult to exactly as certain the learning out-comes for different
 
 These  regulations  are  clearly  state  in  Frameworks  and  Policy  documents  of  the  National Commission for Mass literacy, Adult and Non-Formal Education (NMEC).
 
-The problems are the lack of sufficient resources for NMEC as the regulatory authority in Non- Formal Education to enforce or support the implementation and enforcements of legal rights
+The problems are the lack of sufficient resources for NMEC as the regulatory authority in Non-Formal Education to enforce or support the implementation and enforcements of legal rights
 
 - What challenges were encountered in non-state education provision?
 
@@ -2381,7 +2269,7 @@ The problems are the lack of sufficient resources for NMEC as the regulatory aut
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Issues in terms of equity and inclusion
 
@@ -2393,17 +2281,11 @@ The problems are the lack of sufficient resources for NMEC as the regulatory aut
 
  Other:
 
--Lack of access to opportunities for learners.
+-Lack of access to opportunities for learners.
 
-
+-Many learners are unable to take advantage of learning opportunities.
 
--Many learners are unable to take advantage of learning opportunities.
-
-
-
--The poor are too busy trying to meet daily financial needs of family
-
-
+-The poor are too busy trying to meet daily financial needs of family
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -2435,7 +2317,7 @@ However, despite these advances, challenges persist, particularly in ensuring eq
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -2485,15 +2367,11 @@ A critical  aspect  of  digital education  initiatives  is  securing  a  sustain
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
-- Please elaborate. Brief quantitative information may be added.
-
  Lack of quality, curriculum-aligned digital teaching and learning content that supports flexible learning and teaching pathways
 
  Lack of equity and inclusion in digital learning solutions
 
- inadequate safety measures and IT
-
-support to respond to issues of child online safety or reduce cyber security risks
+ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
  Other:
 
@@ -2509,23 +2387,25 @@ support to respond to issues of child online safety or reduce cyber security ris
 
  Disjointed or fragmented solutions that are not centrally systematized or regulated
 
+- Please elaborate. Brief quantitative information may be added.
+
 Challenges encountered in the provision of digital education in Nigeria:
 
-##### Lack of quality, curriculum-aligned digital content
+##### 1. Lack of quality, curriculum-aligned digital content
 
-Despite the progress made in creating digital materials, there is still a shortage of curriculumaligned  digital  teaching  and  learning  content  that  supports  flexible  learning  pathways. Teachers,  especially  those  trained  through  NTI,  have  reported  that  the  content  available online does not fully cover the curriculum and is sometimes fragmented, making it difficult to ensure uniform learning outcomes across different regions.
+Despite the progress made in creating digital materials, there is still a shortage of curriculum-aligned digital teaching and learning content that supports flexible learning pathways. Teachers, especially those trained through NTI, have reported that the content available online does not fully cover the curriculum and is sometimes fragmented, making it difficult to ensure uniform learning outcomes across different regions.
 
-##### Equity and inclusion in digital learning
+##### 2. Equity and inclusion in digital learning
 
-There  remains  a  lack  of  equity  and  inclusion  in  digital  learning  solutions,  especially  for students from rural or underserved areas. It was observed that learners in these areas often struggle with access to reliable internet, electricity, and suitable devices, which significantly hampers their participation in digital education initiatives. In contrast, students in urban areas have better access, leading to a growing digital divide.
+There remains a lack of equity and inclusion in digital learning solutions, especially for students from rural or underserved areas. It was observed that learners in these areas often struggle with access to reliable internet, electricity, and suitable devices, which significantly hampers their participation in digital education initiatives. In contrast, students in urban areas have better access, leading to a growing digital divide.
 
-##### Child online safety and cybersecurity risks
+##### 3. Child online safety and cybersecurity risks
 
-The  increasing  use  of  digital  education  has  also  raised  concerns  about  online  safety  for children. Many teachers have reported inadequate IT support to tackle issues related to child online  safety  and  cybersecurity  risks.  Schools  and  teachers  lack  sufficient  guidelines  or resources to protect students from online harassment or exposure to harmful content.
+The increasing use of digital education has also raised concerns about online safety for children. Many teachers have reported inadequate IT support to tackle issues related to child online safety and cybersecurity risks. Schools and teachers lack sufficient guidelines or resources to protect students from online harassment or exposure to harmful content.
 
-##### Limited access to internet and devices
+##### 4. Limited access to internet and devices
 
-One of the most prominent challenges is the limited access to internet and hardware (such as devices,  chargers,  and  computers)  for  both  teachers  and  students.  Many  schools  and households  in rural  Nigeria  do  not  have  consistent  access  to  electricity  or  internet,  which prevents full utilization of digital tools provided by educational bodies.
+One of the most prominent challenges is the limited access to internet and hardware (such as devices, chargers, and computers) for both teachers and students. Many schools and households in rural Nigeria do not have consistent access to electricity or internet, which prevents full utilization of digital tools provided by educational bodies.
 
 [[END OF PAGE 55]]
 
@@ -2535,7 +2415,7 @@ One of the most prominent challenges is the limited access to internet and hardw
 
 Scaling  digital  education  solutions  at  a  national  level  has  also  proven  difficult  due  to sustainable  financing  issues.  Without  consistent  financial  backing,  many  of  the  digital education solutions risk being underutilized or discontinued.
 
-##### Digital skills development
+##### 6. Digital skills development
 
 Another challenge has been the lack of digital skills development among teachers. The overall digital  literacy  of  many  educators  remains  insufficient  for  the  meaningful  use  of  digital technology  in  teaching.  This  has  resulted  in  underutilization  of  digital  tools  and  a  slow adoption rate, particularly in rural areas.
 
@@ -2547,7 +2427,7 @@ These challenges reflect the broader issues faced in scaling and improving digit
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing  procedures  and mechanisms;  and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
