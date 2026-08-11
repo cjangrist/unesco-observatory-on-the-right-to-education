@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-S T A T U T O R Y   I N S T R U M E N T S
+S T A T U T O R Y I N S T R U M E N T S
 
 2007 No. 1678
 
@@ -8,83 +8,67 @@ CARIBBEAN AND NORTH ATLANTIC TERRITORIES
 
 # The Virgin Islands Constitution Order 2007
 
-Made
+Made - - - - 13th June 2007
 
--
+Laid before Parliament 14th June 2007
 
--
-
--
-
--
-
-13th June 2007
-
-Laid before Parliament
-
-14th June 2007
-
-Came into force
-
-15
-
-th June, 2007
+Came into force 15th June, 2007
 
 ## CONTENTS
 
-- Citation, commencement and establishment of Constitution
+1. Citation, commencement and establishment of Constitution
 
 ### THE CONSTITUTION OF THE VIRGIN ISLANDS
 #### CHAPTER 1
 ##### INTERPRETATION
 
-- Interpretation
+2. Interpretation
 
-- References to public office
+3. References to public office
 
-- Appointments
+4. Appointments
 
-- Re-election or reappointment
+5. Re-election or reappointment
 
-- Removal from office
+6. Removal from office
 
-- Resignation
+7. Resignation
 
-- Power to amend or revoke instruments
+8. Power to amend or revoke instruments
 
 #### CHAPTER 2
 
 ##### FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
 
-- Fundamental rights and freedoms of the individual
+9. Fundamental rights and freedoms of the individual
 
-- Interpretation of Chapter 2
+10. Interpretation of Chapter 2
 
-- Protection of right to life
+11. Protection of right to life
 
-- Equality before the law
+12. Equality before the law
 
-- Protection from inhuman treatment
+13. Protection from inhuman treatment
 
-- Protection from slavery and forced labour
+14. Protection from slavery and forced labour
 
-- Protection of right to personal liberty
+15. Protection of right to personal liberty
 
-- Provisions to secure protection of law
+16. Provisions to secure protection of law
 
-- Protection of right of prisoners to humane treatment
+17. Protection of right of prisoners to humane treatment
 
-- Protection of freedom of movement
+18. Protection of freedom of movement
 
-- Protection of private and family life and privacy of home and other property
+19. Protection of private and family life and privacy of home and other property
 
-- Protection of the right to marry and found a family
+20. Protection of the right to marry and found a family
 
-- Protection of freedom of conscience
+21. Protection of freedom of conscience
 
-- Protection of the right to education
+22. Protection of the right to education
 
-- Protection of freedom of expression
+23. Protection of freedom of expression
 
 [[END OF PAGE 1]]
 
@@ -92,84 +76,265 @@ th June, 2007
 
 2
 
+24. Protection of freedom of assembly and association
+
+25. Protection from deprivation of property
+
+26. Protection from discrimination
+
+27. Provisions for periods of public emergency
+
+28. Protection of persons detained under emergency laws
+
+29. Protection of the environment
+
+30. Protection of children
+
+31. Enforcement of protective provisions
+
+32. Proceedings which might affect freedom of conscience
+
+33. Proceedings which might affect freedom of expression
+
+34. Establishment of a Human Rights Commission
+
+#### CHAPTER 3
+##### THE GOVERNOR
+
+35. Governor
+
+36. Deputy Governor
+
+37. Acting Governor
+
+38. Functions of Deputy Governor
+
+39. Deputy to Governor
+
+40. Exercise of Governor’s functions
+
+41. Crown lands
+
+42. Powers to constitute offices and make appointments, etc
+
+43. Powers of pardon, etc
+
+44. Advisory Committee on the Prerogative of Mercy
+
+45. The public seal
+
+#### CHAPTER 4
+##### THE EXECUTIVE
+
+46. Executive authority of the Virgin Islands
+
+47. Cabinet
+
+48. Meetings of the Cabinet
+
+49. Proceedings in the Cabinet
+
+50. Summoning of persons to the Cabinet
+
+51. Cabinet Secretary
+
+52. Appointment of Ministers
+
+53. Tenure of office of Ministers
+
+54. Absence of Ministers from the Virgin Islands
+
+55. Performance of functions of Premier in certain events
+
+56. Assignment of responsibilities to Ministers
+
+57. National Security Council
+
+58. Attorney General
+
+59. Director of Public Prosecutions
+
+60. Governor’s special responsibilities
+
+61. Oaths and affirmations
+
+#### CHAPTER 5
+##### THE LEGISLATURE
+
+###### Composition
+
+62. Composition of Legislature
+
+63. House of Assembly
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 3
 
+64. Elected members
+
+65. Qualifications for elected membership
+
+66. Disqualifications for elected membership
+
+67. Tenure of seats of members of House of Assembly
+
+68. Qualifications of voters
+
+69. Speaker and Deputy Speaker
+
+70. Leader of the Opposition
+
+###### Powers and Procedure
+
+71. Power to make laws
+
+72. Standing Orders
+
+73. Oaths and affirmations
+
+74. Presiding in the House of Assembly
+
+75. Voting
+
+76. Validity of proceedings
+
+77. Quorum
+
+78. Introduction of Bills, etc
+
+79. Assent to Bills
+
+80. Disallowance of laws
+
+81. Governor’s reserved power
+
+82. Privileges, immunities and powers of House of Assembly
+
+###### Miscellaneous
+
+83. Sessions of House of Assembly
+
+84. Prorogation and dissolution
+
+85. Recalling dissolved House of Assembly in case of emergency
+
+86. General elections
+
+87. Determination of questions as to membership
+
+88. Penalty for unauthorised sitting or voting
+
+#### CHAPTER 6
+##### THE JUDICATURE
+
+89. Eastern Caribbean Supreme Court
+
+90. Subordinate courts and tribunals
+
+#### CHAPTER 7
+##### THE PUBLIC SERVICE
+
+###### Public Service - General
+
+91. Public Service Commission
+
+92. Power to appoint, etc, to public office
+
+93. Teaching Service Commission
+
+94. Judicial and Legal Services Commission
+
+95. Power to appoint, etc, to legal offices
+
+96. Police Service Commission
+
+97. Power to appoint, etc, to offices in the Police Force
+
+98. Legislation regarding Commissions
+
+###### Pensions
+
+99. Applicability of pension law
+
+100. Pensions, etc, charged on Consolidated Fund or Pension Fund
+
+101. Grant and withholding of pensions, etc
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-- Consolidated Fund
-
-- Withdrawal of money from Consolidated Fund or other public funds
-
-- Authorisation of expenditure
-
-- Authorisation of expenditure in advance of appropriation
-
-- Contingencies Fund
-
-- Public debt
-
-- Remuneration of certain officers
-
-- The Auditor General
+4
 
 #### CHAPTER 8
 
 ##### FINANCE
 
+102. Consolidated Fund
+
+103. Withdrawal of money from Consolidated Fund or other public funds
+
+104. Authorisation of expenditure
+
+105. Authorisation of expenditure in advance of appropriation
+
+106. Contingencies Fund
+
+107. Public debt
+
+108. Remuneration of certain officers
+
+109. The Auditor General
+
 #### CHAPTER 9
 
 ##### THE COMPLAINTS COMMISSIONER AND REGISTER OF INTERESTS
 
-- The Complaints Commissioner
+110. The Complaints Commissioner
 
-- Functions of Complaints Commissioner
+111. Functions of Complaints Commissioner
 
-- Registration of interests
+112. Registration of interests
 
 #### CHAPTER 10
 
 ##### TRANSITIONAL AND MISCELLANEOUS
 
-- Meaning of the appointed day
+113. Meaning of the appointed day
 
-- Revocations
+114. Revocations
 
-- Existing laws
+115. Existing laws
 
-- Existing offices and officers
+116. Existing offices and officers
 
-- Standing Orders
+117. Standing Orders
 
-- Elections
+118. Elections
 
-- Power reserved to Her Majesty
+119. Power reserved to Her Majesty
 
-#### SCHEDULE 1  -  FORMS OF OATHS AND AFFIRMATIONS
-#### SCHEDULE 2  -  REVOCATIONS
+#### SCHEDULE 1 — FORMS OF OATHS AND AFFIRMATIONS
+#### SCHEDULE 2 — REVOCATIONS
 
 At the Court at Buckingham Palace, the 13th day of June 2007
 
 Present,
 
-The Queen's Most Excellent Majesty in Council
+The Queen’s Most Excellent Majesty in Council
 
-Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of the West Indies Act 1962( a ) and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:
+Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of the West Indies Act 1962(a) and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:
 
 ## Citation, commencement and establishment of Constitution
 
-1. -(1) This Order may be cited as the Virgin Islands Constitution Order 2007.
+1.—(1) This Order may be cited as the Virgin Islands Constitution Order 2007.
 
-(2) This Order shall come into force on the day on which the Legislative Council of the Virgin Islands is dissolved next following the day on which this Order is made, which day is in this Order referred to as 'the appointed day'.
+(2) This Order shall come into force on the day on which the Legislative Council of the Virgin Islands is dissolved next following the day on which this Order is made, which day is in this Order referred to as “the appointed day”.
 
-( a )  1962 c. 19.
-
-4
+(a) 1962 c. 19.
 
 [[END OF PAGE 4]]
 
@@ -995,21 +1160,27 @@ including  provision  with  respect  to  the  time  within  which  any  applicat
 
 [[START OF PAGE 23]]
 
+23
+
+## CHAPTER 3
+
+### THE GOVERNOR
+
 #### Governor
 
-35. -(1) There shall be a Governor of the Virgin Islands who shall be appointed by Her Majesty by  Commission under Her Sign Manual and Signet and shall hold  office during Her Majesty's pleasure.
+35.—(1) There shall be a Governor of the Virgin Islands who shall be appointed by Her Majesty by Commission under Her Sign Manual and Signet and shall hold office during Her Majesty’s pleasure.
 
 (2) The Governor shall have such powers and duties as are conferred or imposed on him or her by this Constitution or any other law and such other powers as Her Majesty may from time to time be pleased to assign to him or her.
 
-(3) Subject  to  the  provisions  of    this  Constitution  and  of  any  other  law  by  which  powers  or duties are conferred on the Governor, the Governor shall do and execute all things that belong to his  or  her  office  (including  the  exercise  of  any  powers  with  respect  to  which  the  Governor  is empowered by this Constitution to act in his or her discretion) according to such instructions, if any, as Her Majesty may from time to time see fit to give him or her;  but the question whether or not the Governor has in any matter complied with any such instructions shall not be enquired into in any court.
+(3) Subject to the provisions of this Constitution and of any other law by which powers or duties are conferred on the Governor, the Governor shall do and execute all things that belong to his or her office (including the exercise of any powers with respect to which the Governor is empowered by this Constitution to act in his or her discretion) according to such instructions, if any, as Her Majesty may from time to time see fit to give him or her; but the question whether or not the Governor has in any matter complied with any such instructions shall not be enquired into in any court.
 
-(4) A person appointed to the office of Governor shall, before entering upon the functions of that office,  make  oaths  or  affirmations  of  allegiance  and  for  the  due  execution  of  that  office  in  the forms set out in Schedule 1.
+(4) A person appointed to the office of Governor shall, before entering upon the functions of that office, make oaths or affirmations of allegiance and for the due execution of that office in the forms set out in Schedule 1.
 
 #### Deputy Governor
 
-36. -(1) There shall be a Deputy Governor who shall be such person, being a Virgin Islander as defined in section 65(2), as Her Majesty may designate as such by instructions given through a Secretary of State and who shall hold office during Her Majesty's pleasure.
+36.—(1) There shall be a Deputy Governor who shall be such person, being a Virgin Islander as defined in section 65(2), as Her Majesty may designate as such by instructions given through a Secretary of State and who shall hold office during Her Majesty’s pleasure.
 
-(2) If the office of Deputy Governor is vacant or if the person holding that office is-
+(2) If the office of Deputy Governor is vacant or if the person holding that office is—
 
 (a) acting in the office of Governor under section 37;
 
@@ -1017,27 +1188,21 @@ including  provision  with  respect  to  the  time  within  which  any  applicat
 
 (c) for any other reason unable to perform the functions of the office of Deputy Governor,
 
-such person as Her Majesty may designate by instructions given through a Secretary of State shall act in the office of Deputy Governor during Her Majesty's pleasure.
+such person as Her Majesty may designate by instructions given through a Secretary of State shall act in the office of Deputy Governor during Her Majesty’s pleasure.
 
 #### Acting Governor
 
-37. -(1) During any  period  when the  office  of  Governor  is  vacant  or  the  Governor  is  absent from the Virgin Islands or is for any other reason  unable to  perform the functions of his or her office-
+37.—(1) During any period when the office of Governor is vacant or the Governor is absent from the Virgin Islands or is for any other reason unable to perform the functions of his or her office—
 
 (a) the Deputy Governor; or
 
-(b) if  the  office  of  Deputy  Governor is  vacant,  or the Deputy Governor is absent  from  the Virgin Islands or is for any other reason unable to perform the functions of the office of Governor,  such  person  as  Her  Majesty  may  designate  by  instructions  given  through  a Secretary of State (in this section referred to as 'the person designated'),
+(b) if the office of Deputy Governor is vacant, or the Deputy Governor is absent from the Virgin Islands or is for any other reason unable to perform the functions of the office of Governor, such person as Her Majesty may designate by instructions given through a Secretary of State (in this section referred to as “the person designated”),
 
-shall, during Her Majesty's pleasure, act in the office of Governor and shall perform the functions of that office accordingly.
+shall, during Her Majesty’s pleasure, act in the office of Governor and shall perform the functions of that office accordingly.
 
-(2) Before assuming the functions of the office of Governor, the Deputy Governor or the person designated  shall  make  the  oaths  or  affirmations  directed  by  section  35(4)  to  be  made  by  the Governor.
+(2) Before assuming the functions of the office of Governor, the Deputy Governor or the person designated shall make the oaths or affirmations directed by section 35(4) to be made by the Governor.
 
 (3) The Deputy Governor shall not continue to act in the office of Governor after the Governor has notified him or her that he or she is about to assume or resume the functions of that office, and
-
-## CHAPTER 3
-
-### THE GOVERNOR
-
-23
 
 [[END OF PAGE 23]]
 
@@ -1329,7 +1494,7 @@ but  in  any  case  falling  within  paragraph  (c)  the  Governor  shall,  as  
 
 #### Performance of functions of Premier in certain events
 
-55. -(1) If the  Premier  is  expected  to  be  absent  from  the  Virgin  Islands  for  more  than  fortyeight hours, the Governor shall authorise the Deputy Premier to perform the functions of the office of  Premier;  and the Governor shall revoke this authority on the return to the Virgin Islands of the Premier.
+55. -(1) If the  Premier  is  expected  to  be  absent  from  the  Virgin  Islands  for  more  than  forty-eight hours, the Governor shall authorise the Deputy Premier to perform the functions of the office of  Premier;  and the Governor shall revoke this authority on the return to the Virgin Islands of the Premier.
 
 (2) If both the Premier and the Deputy Premier are expected to be absent from the Virgin Islands for more than forty-eight hours, the Governor shall authorise another Minister designated by the Premier  to  perform  the  functions  of  the  office  of  Premier;  and  the  Governor  shall  revoke  this authority on the return to the Virgin Islands of either the Premier or the Deputy Premier.
 
@@ -1345,7 +1510,7 @@ but  in  any  case  falling  within  paragraph  (c)  the  Governor  shall,  as  
 
 (2) Without prejudice to section 60(2), (3) and (4), a Minister shall not be assigned responsibility under this section for any of the matters mentioned in section 60(1).
 
-(3) The  Governor  may  not  confer  on  any  Minister  Authority  to  exercise  any  function  that  is conferred  or  imposed  by  this  Constitution  or  any  other  law  on  the  Governor  or  any  person  or authority other than a Minister; but nothing in this subsection affects the power of the Legislature under section 71.
+(3) The  Governor  may  not  confer  on  any  Minister  authority  to  exercise  any  function  that  is conferred  or  imposed  by  this  Constitution  or  any  other  law  on  the  Governor  or  any  person  or authority other than a Minister; but nothing in this subsection affects the power of the Legislature under section 71.
 
 (4) For  the  avoidance  of  doubt,  subject  only  to  subsections  (2)  and  (3),  any  matter  may  be assigned to a Minister under subsection (1).
 
@@ -1501,6 +1666,12 @@ and the Governor shall keep the Premier fully informed concerning the general co
 
 [[START OF PAGE 34]]
 
+## CHAPTER 5
+
+### THE LEGISLATURE
+
+#### Composition
+
 ##### Composition of Legislature
 
 62. There shall be a Legislature of the Virgin Islands which shall consist of Her Majesty and a House of Assembly.
@@ -1544,12 +1715,6 @@ and the Governor shall keep the Premier fully informed concerning the general co
 (2) Subject  to  subsections  (3)  and  (4),  for  the  purposes  of  subsection  (1)(b)(i)  a  'Virgin Islander' is a person who belongs to the Virgin Islands by birth or descent who was-
 
 (a) born in the Virgin Islands of a father or mother who at the time of the birth was a British overseas territories citizen (or a British Dependent Territories citizen) by virtue of birth in
-
-## CHAPTER 5
-
-### THE LEGISLATURE
-
-#### Composition
 
 34
 
@@ -1887,7 +2052,7 @@ the Virgin Islands or by virtue of descent from a father or mother who was born 
 
 ##### General elections
 
-86. A general election shall be held at such time within two months, but not earlier than twentyone  days,  after  every  dissolution  of  the  House  of  Assembly  as  the  Governor  shall  appoint  by proclamation published in the Gazette .
+86. A general election shall be held at such time within two months, but not earlier than twenty-one  days,  after  every  dissolution  of  the  House  of  Assembly  as  the  Governor  shall  appoint  by proclamation published in the Gazette .
 
 42
 
@@ -1945,6 +2110,10 @@ the Virgin Islands or by virtue of descent from a father or mother who was born 
 
 [[START OF PAGE 44]]
 
+## CHAPTER 6
+
+### THE JUDICATURE
+
 #### Eastern Caribbean Supreme Court
 
 89. The Supreme Court Order 1967( a ) shall continue to apply to the Virgin Islands as it applied immediately before the commencement of this Constitution, and accordingly the High Court and the Court of Appeal of the Eastern Caribbean Supreme Court shall continue to have jurisdiction in the Virgin Islands.
@@ -1988,10 +2157,6 @@ but the Governor shall, as far as practicable, appoint as one member of the Comm
 (d) if  the  Governor, acting in  his  or her discretion,  directs that he  or she shall be removed from office for inability to  discharge the  functions  of  that office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
 
 ( a )  S.I. 1967/223, amended by S.I. 1983/1108, 2000/3060.
-
-## CHAPTER 6
-
-### THE JUDICATURE
 
 44
 
@@ -2293,13 +2458,15 @@ a supplementary estimate, showing the sums required or spent, shall be laid befo
 
 (2) The remuneration and allowances payable to the holders of those offices shall be a charge on the Consolidated Fund.
 
-(3) The remuneration prescribed in pursuance of this section in respect of the holder of any such office and his or her other terms of service (other than allowances that are not taken into account in computing, under any law in that respect, any pension payable in respect of his or her service in that office) shall not without the consent of that person be altered to his or her disadvantage after his or her appointment.
+(3) The remuneration prescribed in pursuance of this section in respect of the holder of any such office and his or her other terms of service (other than allowances that are not taken into account
 
 51
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+in computing, under any law in that respect, any pension payable in respect of his or her service in that office) shall not without the consent of that person be altered to his or her disadvantage after his or her appointment.
 
 (4) Where a person's remuneration or other terms of service depend upon his or her option, the remuneration or terms for which he or she opts shall, for the purpose of subsection (3), be deemed to be more advantageous to that person than any others for which he or she might have opted.
 
@@ -2341,13 +2508,15 @@ a supplementary estimate, showing the sums required or spent, shall be laid befo
 
 (d) if  the  Governor, acting in  his  or her discretion,  directs that he  or she shall be removed from  office  for  inability  to  discharge  the  functions  of  the  office  (whether  arising  from infirmity of body or mind or any other cause) or for  misbehaviour, or for contravention of subsection (5).
 
-(5) Subject to such exceptions as the Governor, acting in his or her discretion, may authorise by directions in writing, the Complaints Commissioner shall not hold any other office of emolument either in the public service or otherwise nor engage in any occupation for reward other than the duties of his or her office.
+(5) Subject to such exceptions as the Governor, acting in his or her discretion, may authorise by directions in writing, the Complaints Commissioner shall not hold any other office of emolument
 
 52
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
+
+either in the public service or otherwise nor engage in any occupation for reward other than the duties of his or her office.
 
 #### Functions of Complaints Commissioner
 
@@ -2449,6 +2618,8 @@ I,  ……………………, do solemnly and sincerely affirm and  declare  tha
 
 ## SCHEDULE 2
 
+Section 114
+
 ### REVOCATIONS
 
 The Virgin Islands (Emergency Powers) Order 1967 (S.I. 1967/472)
@@ -2464,8 +2635,6 @@ The Virgin Islands (Constitution) (Amendment) Order 1991 (S.I. 1991/2871)
 The Virgin Islands (Constitution) (Amendment) Order 1994 (S.I. 1994/1638)
 
 The Virgin Islands (Constitution) (Amendment) Order 2000 (S.I. 2000/1343)
-
-Section 114
 
 55
 
