@@ -2,7 +2,7 @@
 
 # 20/10/2005 - LOI N° 20/2005 PORTANT ORGANISATION ET FONCTIONNEMENT DE L'ENSEIGNEMENT SUPéRIEUR
 
-Chapitre 1.  DES DISPOSITIONNS GÉNÉRALES
+Chapitre 1.  DES DISPOSITIONS GÉNÉRALES
 
 - Chapitre 2.  DE LA CLASSIFICATION DES INSTITUTIONS D'ENSEIGNEMENT SUPERIEUR
 
@@ -38,7 +38,7 @@ Chapitre 1.  DES DISPOSITIONNS GÉNÉRALES
 
 ### TEXTE
 
-## Chapitre 1. DES DISPOSITIONNS GÉNÉRALES
+## Chapitre 1. DES DISPOSITIONS GÉNÉRALES
 
 #### Article:  1
 
@@ -104,11 +104,13 @@ L'Université délivre des diplômes de tous les niveaux d'Enseignement Supérie
 
 #### Article:  9
 
-Les Instituts d'Enseignement Supérieur spécialisés sont des institutions supérieures de formation et de recherche dont le but est de donner aux bénéficiaires une formation technique dans divers domaines.
+Les Instituts d'Enseignement Supérieur spécialisés sont des institutions supérieures de formation et de
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+recherche dont le but est de donner aux bénéficiaires une formation technique dans divers domaines.
 
 Les Instituts d'Enseignement Supérieur spécialisés peuvent être attachés à une Université ou jouir de la personnalité juridique propre.
 
@@ -304,11 +306,13 @@ L'Arrêté du Ministre ayant l'Enseignement Supérieur dans ses attributions por
 
 Les attributions des institutions d'Enseignement Supérieur sont les suivantes:
 
-1° élaborer les programmes et dispenser des cours d'Enseignement Supérieur dans le but de décerner des diplômes du premier, du deuxième ou du troisième cycle dans divers domaines scientifiques et technologiques. L'Institut d'Enseignement Supérieur peut également dispenser un enseignement de courte durée sanctionné par un certificat;
+1° élaborer les programmes et dispenser des cours d'Enseignement Supérieur dans le but de décerner des
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+diplômes du premier, du deuxième ou du troisième cycle dans divers domaines scientifiques et technologiques. L'Institut d'Enseignement Supérieur peut également dispenser un enseignement de courte durée sanctionné par un certificat;
 
 - 2° faire et promouvoir la recherche dans tous les domaines de la science, de la technologie et sur les différents problèmes du pays;
 
@@ -362,11 +366,13 @@ Avant la fin du premier trimestre de l'année académique, chaque institution d'
 
 #### Article:  41
 
-Les institutions publiques d'Enseignement Supérieur observent les lois qui les régissent tandis que les institutions privées respectent les conventions que leurs fondateurs ont signées avec le Ministre ayant l'Enseignement Supérieur dans ses attributions ainsi que leurs règlements d'ordre intérieur respectifs.
+Les institutions publiques d'Enseignement Supérieur observent les lois qui les régissent tandis que les institutions privées respectent les conventions que leurs fondateurs ont signées avec le Ministre ayant
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+l'Enseignement Supérieur dans ses attributions ainsi que leurs règlements d'ordre intérieur respectifs.
 
 Pour remplir leurs attributions, les institutions d'Enseignement Supérieur opèrent à travers les organes d'administration prévus par la présente loi.
 
@@ -823,11 +829,13 @@ Les membres du personnel enseignant et de recherche sont évalués annuellement 
 
 Les membres du personnel enseignant et de recherche sont évalués au niveau du Département, de la Faculté et du Sénat.
 
-L'évaluation est faite par le Chef de Département au premier degré, par le Doyen de Faculté au deuxième degré et par le Président du Sénat au troisième degré.
+L'évaluation est faite par le Chef de Département au premier degré, par le Doyen de Faculté au deuxième
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+degré et par le Président du Sénat au troisième degré.
 
 Les étudiants participent à l'évaluation des enseignants et de chercheurs conformément au règlement d'ordre intérieur de l'Institution d'Enseignement Supérieur, sur base des critères fixés par le Conseil National de l'Enseignement Supérieur.
 
