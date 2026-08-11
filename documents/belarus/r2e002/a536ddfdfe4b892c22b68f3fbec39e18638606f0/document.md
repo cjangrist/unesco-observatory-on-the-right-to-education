@@ -31,15 +31,16 @@ Subjects of the State Youth Policy are:
 - young public associations.
 
 ### Article 4. Competence of Supreme State Bodies of the Republic of Belarus in the Field of State Youth Policy
-Republic of Belarus, in the person of its supreme state bodies managing the youth policy, shall:
 
 1
 
-> http://www.law.by/Work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/e1195cc248e7ed14c2256df0002 d04e8?OpenDocument
+> http://www.law.by/Work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/e1195cc248e7ed14c2256df0002d04e8?OpenDocument
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Republic of Belarus, in the person of its supreme state bodies managing the youth policy, shall:
 
 - establish general organizational, social, economic, political and legal principles of the state youth policy in the whole territory of the Republic of Belarus;
 
@@ -121,7 +122,7 @@ Young  citizens  and  young  families  shall  be  allowed  long-term  loans  for
 
 Republic of Belarus shall establish a system of allowances promoting creation of a family, prestige of full family, its stability, birth and education of children.
 
-In the Republic of Belarus for learners and students of educational institutions, servicemen of active military service there is established preferential order of using culturalenlightenment and sport-fitness institutions, there are granted fare privileges for railway, air, water, automobile and urban public transport.
+In the Republic of Belarus for learners and students of educational institutions, servicemen of active military service there is established preferential order of using cultural-enlightenment and sport-fitness institutions, there are granted fare privileges for railway, air, water, automobile and urban public transport.
 
 [Part four of the article 10 (in the part of fare privileges) has lost force by the Law of the Republic of Belarus of June 14, 2007 No. 239-Z]
 
@@ -131,7 +132,7 @@ Council of Ministers shall set up a procedure of awarding privileges stipulated 
 
 Legal relations between young citizens and educational institutions are based on a parity of participants.
 
-Rights  and  liabilities  of  students  in  their  relations  with  administrations  of  educational institutions  shall  be  established  by  legislative  acts  of  the  Republic  of  Belarus,  acts  of  selfmanagement bodies of these institutions, agreements between students, their collectives and administrations of educational institutions.
+Rights  and  liabilities  of  students  in  their  relations  with  administrations  of  educational institutions  shall  be  established  by  legislative  acts  of  the  Republic  of  Belarus,  acts  of  self-management bodies of these institutions, agreements between students, their collectives and administrations of educational institutions.
 
 Administration and officers of educational institutions shall have no right to neither force students to fulfill obligations not related to educational process, to waive their rights, or hurt students' pride. In case of commitment of such illegal actions by administration or officers of educational institutions, thus violating rights of students, the latter, or their legal representatives, shall have a right to require damages through a court.
 
