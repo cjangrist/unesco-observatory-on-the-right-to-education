@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# Programme gouvernemental 2013 - 2018
+# Programme gouvernemental 2013 – 2018
 
 ## Éducation
 
@@ -10,9 +10,9 @@ L'éducation est un droit fondamental pour tous, indépendamment de l'origine, d
 
 #### La réforme de l'école fondamentale
 
-Le rapport d'évaluation de la réforme de l'école fondamentale, établi par l'Université du Luxembourg en décembre 2012, indique les pistes pour les réagencements nécessaires. Le plan d'études sera simplifié. Le nombre de descripteurs à la base des socles de compétence sera réduit et limité aux domaines-clefs de l'apprentissage. Les bilans intermédiaires qui renseignent les parents et les élèves sur le niveau acquis seront formulés de manière plus compréhensible .
+Le rapport d'évaluation de la réforme de l'école fondamentale, établi par l'Université du Luxembourg en décembre 2012, indique les pistes pour les réagencements nécessaires. Le plan d'études sera simplifié. Le nombre de descripteurs à la base des socles de compétence sera réduit et limité aux domaines-clefs de l'apprentissage. Les bilans intermédiaires qui renseignent les parents et les élèves sur le niveau acquis seront formulés de manière plus compréhensible.
 
-La réforme a attribué une autonomie accrue et une plus grande responsabilité aux acteurs de l'école. Des études internationales révèlent que la direction de l'école joue un rôle important dans le développement de la qualité des écoles. Afin de contribuer à la réussite de la réforme engagée en 2009, le Gouvernement s'attachera à améliorer l'administration et l'organisation dans les écoles. À cette fin, les compétences des présidents d'école , nommés par le Ministre, seront redéfinies et élargies, sur la base du système actuel, pour assurer la direction et la gestion administrative de l'école.
+La réforme a attribué une autonomie accrue et une plus grande responsabilité aux acteurs de l'école. Des études internationales révèlent que la direction de l'école joue un rôle important dans le développement de la qualité des écoles. Afin de contribuer à la réussite de la réforme engagée en 2009, le Gouvernement s'attachera à améliorer l'administration et l'organisation dans les écoles. À cette fin, les compétences des présidents d'école, nommés par le Ministre, seront redéfinies et élargies, sur la base du système actuel, pour assurer la direction et la gestion administrative de l'école.
 
 #### La réforme de la formation professionnelle
 
@@ -46,7 +46,7 @@ Le projet de réforme de l'enseignement secondaire et secondaire technique dépo
 
 L'école publique doit tenir compte de la diversité des élèves par une offre scolaire adaptée à cette diversité.
 
-Pour garantir une prise en charge plus individuelle de l'élève dans l'enseignement, l'accent devra être mis sur les facteurs qui influencent directement la qualité du travail en classe.  Il s'agira de garantir une meilleure formation des enseignants, des matériaux didactiques plus modernes et un apport en nouvelles idées didactiques dans le travail journalier des enseignants.
+Pour garantir une prise en charge plus individuelle de l'élève dans l'enseignement, l'accent devra être mis sur les facteurs qui influencent directement la qualité du travail en classe. Il s'agira de garantir une meilleure formation des enseignants, des matériaux didactiques plus modernes et un apport en nouvelles idées didactiques dans le travail journalier des enseignants.
 
 Les établissements secondaires seront invités à différencier leur offre scolaire en se forgeant une identité propre et en se spécialisant dans certains domaines.
 
@@ -78,9 +78,9 @@ Le Gouvernement veillera à garantir la meilleure formation initiale et continue
 
 Pour ce qui est de l'enseignement fondamental, des pourparlers seront engagés avec l'Université du Luxembourg afin de renforcer la didactique et la pédagogie ainsi que les connaissances de langue dans la formation initiale des enseignants.
 
-Dans l'enseignement secondaire, il faut s'assurer de la vocation et de l'aptitude pédagogique des futurs enseignants avant l'examen-concours. Le Gouvernement étudiera la possibilité de proposer un test d'aptitude aux candidats à une formation d'enseignant ou d'imposer un stage en école au début des études universitaires. L'examen-concours sera réformé. Une épreuve portera sur les connaissances générales en pédagogie .
+Dans l'enseignement secondaire, il faut s'assurer de la vocation et de l'aptitude pédagogique des futurs enseignants avant l'examen-concours. Le Gouvernement étudiera la possibilité de proposer un test d'aptitude aux candidats à une formation d'enseignant ou d'imposer un stage en école au début des études universitaires. L'examen-concours sera réformé. Une épreuve portera sur les connaissances générales en pédagogie.
 
-Des pourparlers avec les universités intéressées seront engagés afin d'élucider les modalités de collaboration au niveau de la formation des enseignants de l'enseignement secondaire. Les missions futures de l' Institut de Formation continue seront élargies afin qu'il puisse répondre aux besoins en formation continue des enseignants, mais également d'organiser le dispositif de formation de l'ensemble du personnel de l'Education nationale pendant le stage.
+Des pourparlers avec les universités intéressées seront engagés afin d'élucider les modalités de collaboration au niveau de la formation des enseignants de l'enseignement secondaire. Les missions futures de l'Institut de Formation continue seront élargies afin qu'il puisse répondre aux besoins en formation continue des enseignants, mais également d'organiser le dispositif de formation de l'ensemble du personnel de l'Education nationale pendant le stage.
 
 3
 
@@ -92,23 +92,23 @@ Des pourparlers avec les universités intéressées seront engagés afin d'éluc
 
 Le multilinguisme constitue un des atouts majeurs de l'enseignement luxembourgeois.
 
-Néanmoins, cet atout s'est transformé en obstacle pour beaucoup d'élèves. L'apprentissage des langues est un des plus grands défis de notre système éducatif. L'école devra répondre avec une plus grande flexibilité de l'offre scolaire à l' hétérogénéité croissante de la population scolaire.
+Néanmoins, cet atout s'est transformé en obstacle pour beaucoup d'élèves. L'apprentissage des langues est un des plus grands défis de notre système éducatif. L'école devra répondre avec une plus grande flexibilité de l'offre scolaire à l'hétérogénéité croissante de la population scolaire.
 
 Cette approche ne doit pas mettre en question le multilinguisme traditionnel de l'école luxembourgeoise.
 
 Au précoce et au cycle 1, l'accent devra être mis sur l'apprentissage solide du bien parler. Un bilan de l'enseignement précoce sera dressé et des programmes seront développés. Une pratique systématique en langue luxembourgeoise sera prévue, car l'apprentissage du luxembourgeois constitue la base pour le vivre ensemble à l'école et dans le pays. Des programmes adaptés seront développés auxquels le personnel enseignant devra être familiarisé dans le cadre de formations spécifiques sur l'apprentissage des langues à l'âge de la jeune enfance.
 
-L' allemand et le français sont les langues d'enseignement à l'école fondamentale et au lycée. L' anglais est enseigné au lycée comme langue étrangère. Il est indispensable pour les citoyens de demain.
+L'allemand et le français sont les langues d'enseignement à l'école fondamentale et au lycée. L'anglais est enseigné au lycée comme langue étrangère. Il est indispensable pour les citoyens de demain.
 
 Beaucoup d'élèves pourront atteindre des niveaux élevés dans les trois langues; pour d'autres, en revanche, il faudra aménager l'enseignement des langues de telle sorte qu'ils puissent accéder à une qualification sans avoir le même niveau élevé dans les trois langues.
 
-Pour les différentes étapes du parcours scolaire, des socles préciseront les exigences en matière de compétences et de connaissances en distinguant entre langue principale et deuxième langue .
+Pour les différentes étapes du parcours scolaire, des socles préciseront les exigences en matière de compétences et de connaissances en distinguant entre langue principale et deuxième langue.
 
 L'enseignement des langues ne doit pas négliger la place de la littérature et de la culture ; en même temps il faut veiller à accorder une place suffisante à l'apprentissage formel jusque dans les classes terminales.
 
 ##### Conseil national des programmes
 
-Un Conseil national des programmes sera instauré qui devra veiller à la cohérence des enseignements depuis l'école fondamentale jusqu'à la fin de la scolarité et qui sera chargé de vérifier la cohérence entre les programmes des différentes disciplines scolaires. Sa composition sera mixte : enseignants de tous les ordres d'enseignement, experts universitaires, société civile . Il travaillera en étroite collaboration avec les commissions nationales de programmes.
+Un Conseil national des programmes sera instauré qui devra veiller à la cohérence des enseignements depuis l'école fondamentale jusqu'à la fin de la scolarité et qui sera chargé de vérifier la cohérence entre les programmes des différentes disciplines scolaires. Sa composition sera mixte : enseignants de tous les ordres d'enseignement, experts universitaires, société civile. Il travaillera en étroite collaboration avec les commissions nationales de programmes.
 
 ##### Projets d'alphabétisation alternative
 
@@ -126,7 +126,7 @@ Une extension du bac international sera prise en considération, en tenant compt
 
 ##### Analyse du rôle de la langue véhiculaire
 
-Il s'agira également d'analyser dans quelle mesure les langues véhiculaires constituent actuellement des barrières d'apprentissage dans l'enseignement fondamental et secondaire. Au vu des résultats de ces études, la possibilité du choix de la langue véhiculaire , à l'instar de la formation professionnelle, devra être discutée pour l'enseignement secondaire.
+Il s'agira également d'analyser dans quelle mesure les langues véhiculaires constituent actuellement des barrières d'apprentissage dans l'enseignement fondamental et secondaire. Au vu des résultats de ces études, la possibilité du choix de la langue véhiculaire, à l'instar de la formation professionnelle, devra être discutée pour l'enseignement secondaire.
 
 #### Mettre l'accent sur l'orientation des élèves
 
@@ -138,7 +138,7 @@ Le Gouvernement entend mieux relier les mondes de l'école et du travail par un 
 
 Une analyse régulière du marché du travail permettra d'adapter les mesures d'orientation à la demande actuelle et future du marché du travail et ceci pour toutes les filières de l'éducation nationale.
 
-Au niveau de la formation professionnelle, l'offre d'une année d'orientation facultative après la 9 e sera étudiée, afin d'améliorer l'orientation et de prévenir l'échec scolaire.
+Au niveau de la formation professionnelle, l'offre d'une année d'orientation facultative après la 9e sera étudiée, afin d'améliorer l'orientation et de prévenir l'échec scolaire.
 
 #### Impliquer davantage les parents
 
@@ -156,13 +156,13 @@ Les écoles fondamentales, les structures d'accueil et les lycées sont invités
 
 Pour maintenir le contact avec les parents, l'école et les enseignants doivent recourir aux moyens de communication modernes.
 
-Le partenariat entre l'enseignant, l'élève et les parents ainsi que les engagements de part et d'autre seront retenus dans un contrat « école et famille » .
+Le partenariat entre l'enseignant, l'élève et les parents ainsi que les engagements de part et d'autre seront retenus dans un contrat « école et famille ».
 
 La procédure d'élection des représentants des parents d'élèves sera reconsidérée afin de garantir une meilleure participation de ceux-ci.
 
 #### Encourager la participation des élèves
 
-Les moyens financiers nécessaires au bon fonctionnement du Conseil national des élèves seront renforcés. Le rôle et l'organisation des comités d'école ainsi que de la Conférence nationale des élèves du Luxembourg ( CNEL ) seront adaptés afin de permettre une participation accrue des élèves dans la vie scolaire.
+Les moyens financiers nécessaires au bon fonctionnement du Conseil national des élèves seront renforcés. Le rôle et l'organisation des comités d'école ainsi que de la Conférence nationale des élèves du Luxembourg (CNEL) seront adaptés afin de permettre une participation accrue des élèves dans la vie scolaire.
 
 #### Promouvoir la cohésion sociale
 
@@ -170,11 +170,11 @@ Afin de garantir la mixité sociale de la population scolaire, chaque lycée dev
 
 Il importera d'éviter toute évolution allant dans la direction d'une ségrégation sociale. Le nombre d'écoles maternelles privées qui se sont implantées au cours des dernières années au Luxembourg soulève également la nécessité de revoir la législation sur le financement des écoles privées.
 
-Au niveau du calcul du contingent , le bilan du processus en cours sera dressé. Il s'agira de déterminer, si le système actuel permet aux écoles d'exercer pleinement leur autonomie en vue d'une différenciation de l'offre scolaire et d'une adaptation aux besoins socio-culturels locaux.
+Au niveau du calcul du contingent, le bilan du processus en cours sera dressé. Il s'agira de déterminer, si le système actuel permet aux écoles d'exercer pleinement leur autonomie en vue d'une différenciation de l'offre scolaire et d'une adaptation aux besoins socio-culturels locaux.
 
 #### Éducation aux valeurs
 
-L'enseignement religieux et l'éducation respectivement la formation morale actuellement en vigueur seront remplacés par une éducation aux valeurs aussi bien dans l'école fondamentale que dans les lycées. Les objectifs de cette éducation sont notamment de présenter de manière objective les grands courants religieux et philosophiques et d'éduquer les élèves aux valeurs qui fondent notre vivre ensemble .
+L'enseignement religieux et l'éducation respectivement la formation morale actuellement en vigueur seront remplacés par une éducation aux valeurs aussi bien dans l'école fondamentale que dans les lycées. Les objectifs de cette éducation sont notamment de présenter de manière objective les grands courants religieux et philosophiques et d'éduquer les élèves aux valeurs qui fondent notre vivre ensemble.
 
 6
 
@@ -186,7 +186,7 @@ Un dispositif de réorientation professionnel sera mis en place afin de prépare
 
 #### Réforme de l'éducation différenciée
 
-Le Gouvernement vise l'inclusion des élèves à besoins spécifiques dans le système scolaire, en se basant sur la mise en œuvre de la Convention de l'ONU relative aux personnes handicapées , entrée en vigueur le 3 mai 2008 et ratifiée par le Grand-Duché de Luxembourg en date du 13 juillet 2011.
+Le Gouvernement vise l'inclusion des élèves à besoins spécifiques dans le système scolaire, en se basant sur la mise en œuvre de la Convention de l'ONU relative aux personnes handicapées, entrée en vigueur le 3 mai 2008 et ratifiée par le Grand-Duché de Luxembourg en date du 13 juillet 2011.
 
 La volonté des parents de scolariser leurs enfants dans une école spécialisée ou dans une école ordinaire sera respectée.
 
@@ -196,19 +196,19 @@ Des équipes multiprofessionnelles seront instaurées dans l'enseignement postpr
 
 #### Compétences horizontales
 
-Des compétences horizontales seront davantage intégrées dans l'enseignement fondamental et dans l'enseignement secondaire pour favoriser l'éducation au développement durable , l'éducation aux médias et aux technologies de l'information et de la communication ( TIC ) ainsi que la politique en vue de l'accès au droit de vote des jeunes à partir de l'âge de 16 ans.
+Des compétences horizontales seront davantage intégrées dans l'enseignement fondamental et dans l'enseignement secondaire pour favoriser l'éducation au développement durable, l'éducation aux médias et aux technologies de l'information et de la communication (TIC) ainsi que la politique en vue de l'accès au droit de vote des jeunes à partir de l'âge de 16 ans.
 
 ##### Éducation au développement durable
 
 L'éducation au développement durable (EDD) sera introduite dans les cursus des services d'éducation et d'accueil, de l'école fondamentale ainsi que du secondaire. À cet effet, le Gouvernement élaborera un programme étendu de formation continue pour le personnel en place et veillera à l'intégration de l'EDD à la formation initiale des multiplicateurs (tels les enseignants du fondamental et du secondaire, éducateurs et éducateurs gradués).
 
-#### École de la 2 e chance
+#### École de la 2e chance
 
-L'École de la 2 e chance sera installée dans des infrastructures définitives. Son offre sera développée afin d'assurer aux adolescents et aux jeunes adultes, qui ont abandonné l'école sans certification reconnue, un parcours individualisé en vue d'une future admission dans une classe de l'ES ou de l'EST ou de leur insertion sur le marché du travail.
+L'École de la 2e chance sera installée dans des infrastructures définitives. Son offre sera développée afin d'assurer aux adolescents et aux jeunes adultes, qui ont abandonné l'école sans certification reconnue, un parcours individualisé en vue d'une future admission dans une classe de l'ES ou de l'EST ou de leur insertion sur le marché du travail.
 
 #### Grande Région
 
-Les échanges avec des écoles de la Grande Région seront intensifiés dans l'optique d'un meilleur apprentissage des langues et d'une approche interculturelle .
+Les échanges avec des écoles de la Grande Région seront intensifiés dans l'optique d'un meilleur apprentissage des langues et d'une approche interculturelle.
 
 7
 
@@ -222,7 +222,7 @@ L'accès des enfants et des adolescents à la culture et à la création, tant d
 
 Ainsi, dans le cadre des Services d'éducation et d'accueil et de l'école publique, la conscience de la culture sera renforcée en encourageant les talents créatifs de nos enfants et en stimulant leur imagination et leur créativité.
 
-De même les activités culturelles dans le cursus éducatif seront revalorisées, notamment par des activités culturelles ciblées et participatives . À cet effet, une plus grande coopération, dans le cadre de projets précis entre les écoles et les institutions culturelles (tels que bibliothèques, théâtres, musées et centres culturels régionaux), et ceci avant tout au niveau local et régional, sera développée.
+De même les activités culturelles dans le cursus éducatif seront revalorisées, notamment par des activités culturelles ciblées et participatives. À cet effet, une plus grande coopération, dans le cadre de projets précis entre les écoles et les institutions culturelles (tels que bibliothèques, théâtres, musées et centres culturels régionaux), et ceci avant tout au niveau local et régional, sera développée.
 
 Les projets de collaboration entre classes préparatoires et instituts culturels seront soutenus.
 
@@ -256,11 +256,11 @@ Le Gouvernement créera un nouveau lycée appelé à remplacer l'actuelle École
 
 ## Accueil des enfants
 
-Le Gouvernement plaide pour une offre de services de haute qualité au niveau de la garde d'enfance parce qu'il s'agit d'une question d' égalité des chances aussi bien pour les enfants que pour les parents. Il faut garantir que les parents ne soient pas discriminés dans la planification de leur vie professionnelle par leur choix de fonder une famille. Il faut également garantir que les enfants reçoivent les mêmes chances de départ dans la vie, indépendamment de leur origine sociale.
+Le Gouvernement plaide pour une offre de services de haute qualité au niveau de la garde d'enfance parce qu'il s'agit d'une question d'égalité des chances aussi bien pour les enfants que pour les parents. Il faut garantir que les parents ne soient pas discriminés dans la planification de leur vie professionnelle par leur choix de fonder une famille. Il faut également garantir que les enfants reçoivent les mêmes chances de départ dans la vie, indépendamment de leur origine sociale.
 
 ### Un système intégré de soutien des enfants
 
-Le Gouvernement coordonnera le travail de l'école et des structures d'accueil tout en veillant à respecter leurs compétences et leurs champs d'action respectifs. À cette fin, le Gouvernement vise à mettre en place un système intégré de soutien des enfants, dans lequel l'accueil des enfants et l'école publique se complètent. Tandis que l'éducation formelle est de l'attribution des écoles, les structures d'accueil devront veiller à une éducation nonformelle de haute qualité. Les deux piliers de l'accueil de l'enfance et de l'éducation seront intégrés dans un ministère.
+Le Gouvernement coordonnera le travail de l'école et des structures d'accueil tout en veillant à respecter leurs compétences et leurs champs d'action respectifs. À cette fin, le Gouvernement vise à mettre en place un système intégré de soutien des enfants, dans lequel l'accueil des enfants et l'école publique se complètent. Tandis que l'éducation formelle est de l'attribution des écoles, les structures d'accueil devront veiller à une éducation non-formelle de haute qualité. Les deux piliers de l'accueil de l'enfance et de l'éducation seront intégrés dans un ministère.
 
 ### Droit à une place d'accueil de qualité
 
@@ -296,9 +296,9 @@ Le travail avec les parents et les enfants ainsi que leur participation active �
 
 ## Politique de la jeunesse
 
-Après la mise en œuvre du Pacte pour la Jeunesse durant les années 2012 à 2014, un nouveau plan d'action pour la jeunesse est à élaborer, notamment sur la base du 2 e rapport sur la jeunesse au Luxembourg, qui sera publié en 2015.
+Après la mise en œuvre du Pacte pour la Jeunesse durant les années 2012 à 2014, un nouveau plan d'action pour la jeunesse est à élaborer, notamment sur la base du 2e rapport sur la jeunesse au Luxembourg, qui sera publié en 2015.
 
-Dans le domaine des structures pour jeunes existantes, notamment en ce qui concerne les maisons pour jeunes , leur fonctionnement et leur organisation devront être soumis à une analyse critique. Il s'agit de mieux s'orienter vers un cadre conceptuel défini et d'assurer la qualité du travail avec et pour les jeunes en développant les aspects liés à l'éducation non formelle.
+Dans le domaine des structures pour jeunes existantes, notamment en ce qui concerne les maisons pour jeunes, leur fonctionnement et leur organisation devront être soumis à une
 
 10
 
@@ -306,21 +306,23 @@ Dans le domaine des structures pour jeunes existantes, notamment en ce qui conce
 
 [[START OF PAGE 11]]
 
+analyse critique. Il s'agit de mieux s'orienter vers un cadre conceptuel défini et d'assurer la qualité du travail avec et pour les jeunes en développant les aspects liés à l'éducation non formelle.
+
 Le Service national de la jeunesse (SNJ) sera recentré vers son rôle de facilitateur d'initiatives en faveur des et avec les jeunes et leurs organisations. Le projet de loi 6410 sera amendé en ce sens.
 
 Le Gouvernement procédera à une analyse concernant les enfants et les jeunes à besoins spécifiques et étudiera l'opportunité de développer une offre adéquate à leur égard afin qu'ils puissent profiter d'un traitement et d'un accompagnement adapté au Luxembourg. Dans ce contexte, la stratégie nationale en faveur de la santé mentale des enfants et des jeunes au Luxembourg sera mise en œuvre.
 
 La participation des jeunes et leur association au débat sur l'avenir du pays constitue une priorité. L'instrument du dialogue structuré avec la jeunesse luxembourgeoise sera utilisé pour les projets importants que le Gouvernement entend mettre en œuvre. Ceci pourra comprendre notamment un « Jugenddësch » avec tous les acteurs économiques sur la situation du chômage des jeunes au Luxembourg. Dans ce contexte, il y a lieu de mentionner le « pacte solidarité emploi jeunes », à élaborer avec les partenaires sociaux et ayant comme but essentiel la mise en œuvre de la « garantie pour la jeunesse ».
 
-La participation des jeunes dans leurs communautés locales sera développée à travers l'instrument des plans communaux jeunesse .
+La participation des jeunes dans leurs communautés locales sera développée à travers l'instrument des plans communaux jeunesse.
 
 Le programme de sensibilisation par rapport aux technologies de l'information BEE SECURE sera étendu.
 
 ## Politique de l'aide à l'enfance
 
-La loi du 16 décembre 2008 a instauré l'aide à l'enfance et à la famille et porté création de l' Office national de l'enfance . Tout en reconnaissant le but légitime de cette loi, à savoir d'intervenir avant un placement éventuel des enfants en prenant en charge et en accompagnant les familles en situation difficile, force est de constater qu'il existe des difficultés au niveau de son exécution et de sa mise en pratique. Voilà pourquoi le fonctionnement et le financement de l'aide à l'enfance, de l'Office national de l'enfance, ainsi que des services CPI (coordinateur de projets d'intervention) seront évalués et adaptés sur base des conclusions. Il s'agira notamment d'analyser si le but de prévenir les placements a pu être atteint et si la coordination et la mise en réseau des différents services et organismes travaillant dans le domaine fonctionnent de façon satisfaisante.
+La loi du 16 décembre 2008 a instauré l'aide à l'enfance et à la famille et porté création de l'Office national de l'enfance. Tout en reconnaissant le but légitime de cette loi, à savoir d'intervenir avant un placement éventuel des enfants en prenant en charge et en accompagnant les familles en situation difficile, force est de constater qu'il existe des difficultés au niveau de son exécution et de sa mise en pratique. Voilà pourquoi le fonctionnement et le financement de l'aide à l'enfance, de l'Office national de l'enfance, ainsi que des services CPI (coordinateur de projets d'intervention) seront évalués et adaptés sur base des conclusions. Il s'agira notamment d'analyser si le but de prévenir les placements a pu être atteint et si la coordination et la mise en réseau des différents services et organismes travaillant dans le domaine fonctionnent de façon satisfaisante.
 
-Dans le domaine de la protection de la jeunesse , le projet de loi 5351 portant modification de la loi modifiée du 10 août 1992 relative à la protection de la jeunesse déposé en 2004 n'a plus connu de suites depuis 2011. Le Gouvernement estime qu'il y a urgence de légiférer en la matière. Dans ce contexte et en concertation avec les milieux concernés, il faudra élaborer des critères selon lesquels sont effectués les placements et considérer des changements dans la pratique du transfert de l'autorité parentale. En effet, celle-ci devrait pouvoir s'exercer de manière conjointe entre l'institution de placement et les parents. Par ailleurs, il faudra développer des solutions alternatives au placement.
+Dans le domaine de la protection de la jeunesse, le projet de loi 5351 portant modification de la loi modifiée du 10 août 1992 relative à la protection de la jeunesse déposé en 2004 n'a plus connu de suites depuis 2011. Le Gouvernement estime qu'il y a urgence de légiférer en la matière. Dans ce contexte et en concertation avec les milieux concernés, il faudra élaborer des critères selon lesquels sont effectués les placements et considérer des changements dans la pratique du transfert de l'autorité parentale. En effet, celle-ci devrait pouvoir s'exercer de
 
 11
 
@@ -328,13 +330,15 @@ Dans le domaine de la protection de la jeunesse , le projet de loi 5351 portant 
 
 [[START OF PAGE 12]]
 
+manière conjointe entre l'institution de placement et les parents. Par ailleurs, il faudra développer des solutions alternatives au placement.
+
 Le placement familial de son côté devra être adapté par la mise en place d'un meilleur cadre législatif permettant de rendre plus transparent les modalités et le financement de l'accueil familial. Il s'agit de créer un statut légal pour les familles d'accueil qui définit clairement leurs droits et obligations afin de pouvoir développer l'accueil familial et notamment la mesure d'accueil familial « orthopédagogique », destinée au soutien d'enfants à besoins éducatifs spécifiques (handicaps physiques ou mentaux, comportements dyssociaux). Dans ce domaine une étude et une analyse des besoins s'imposent.
 
 Une attention particulière sera portée à une coordination optimale entre l'ONE (Office national de l'enfance) et le SCAS (Service central d'assistance sociale). Il y a lieu par ailleurs de développer le centre national de diagnostic de la maltraitance des enfants et des jeunes.
 
 Le Gouvernement établira un cadre légal clair afin d'améliorer la transparence du fonctionnement des lieux où des enfants sont privés de liberté et de protéger ainsi efficacement leurs droits.
 
-En complément aux structures de Dreiborn et Schrassig, ainsi que de l'Orangerie à Ettelbruck, le Gouvernement entend créer des structures d'accueil pour jeunes en détresse .
+En complément aux structures de Dreiborn et Schrassig, ainsi que de l'Orangerie à Ettelbruck, le Gouvernement entend créer des structures d'accueil pour jeunes en détresse.
 
 Le Gouvernement étudiera la nécessité d'adapter le cadre législatif du Centre socio-éducatif de l'État afin de procéder à une réforme administrative visant à permettre une prise en charge plus différenciée des jeunes et à tenir compte du développement des structures et de son cadre personnel. En ce qui concerne le placement de jeunes à l'UNISEC (Unité de sécurité), il y a lieu de veiller au développement d'une politique concertée entre les ministères concernés.
 
@@ -342,11 +346,11 @@ Le Gouvernement tiendra compte des besoins en matière d'internats pour jeunes d
 
 Le Gouvernement considérera l'opportunité de développer des centres et internats thérapeutiques pour enfants et jeunes présentant des troubles comportementaux, que ce soit pour un encadrement pédagogique intensif ou pour une réintégration sociale et scolaire après une hospitalisation psychiatrique. Seront également étudiés les besoins en logements (encadrés) pour jeunes adultes issus de milieux familiaux déstructurés et de foyers, ainsi que pour jeunes familles en détresse.
 
-Le Gouvernement finalisera rapidement la réforme de la loi sur l' Ombudscomité fir d'Rechter vum Kand , prévoyant de rattacher celui-ci directement à la Chambre des députés afin de renforcer son indépendance et revoyant son besoin en ressources humaines et financières.
+Le Gouvernement finalisera rapidement la réforme de la loi sur l'Ombudscomité fir d'Rechter vum Kand, prévoyant de rattacher celui-ci directement à la Chambre des députés afin de renforcer son indépendance et revoyant son besoin en ressources humaines et financières.
 
-Il sera procédé à la ratification du 3 e protocole optionnel à la Convention internationale des droits de l'enfant et le projet de texte concernant l'insertion des droits de l'enfant dans la Constitution sera revu à la lumière des commentaires émis par les milieux concernés.
+Il sera procédé à la ratification du 3e protocole optionnel à la Convention internationale des droits de l'enfant et le projet de texte concernant l'insertion des droits de l'enfant dans la Constitution sera revu à la lumière des commentaires émis par les milieux concernés.
 
-Un effort sera entrepris dans le domaine de la collecte et de la documentation des données sur les enfants, dans le respect de la protection des données et de la vie privée. Il s'agit de réunir, d'analyser et de présenter les indicateurs pertinents pour suivre l'évolution de la situation des enfants sous différents angles (modes de garde, interculturalité, risque de pauvreté, diversité et inclusion sociale).
+Un effort sera entrepris dans le domaine de la collecte et de la documentation des données sur les enfants, dans le respect de la protection des données et de la vie privée. Il s'agit de réunir, d'analyser et de présenter les indicateurs pertinents pour suivre l'évolution de la
 
 12
 
@@ -354,7 +358,9 @@ Un effort sera entrepris dans le domaine de la collecte et de la documentation d
 
 [[START OF PAGE 13]]
 
-Parallèlement à la réforme projetée de l' adoption , le Gouvernement veillera à ce que les services compétents disposent des moyens adéquats pour répondre aux défis et missions prévues par la Convention de La Haye du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption internationale (CLH), signée et ratifiée par le Gouvernement luxembourgeois.
+situation des enfants sous différents angles (modes de garde, interculturalité, risque de pauvreté, diversité et inclusion sociale).
+
+Parallèlement à la réforme projetée de l'adoption, le Gouvernement veillera à ce que les services compétents disposent des moyens adéquats pour répondre aux défis et missions prévues par la Convention de La Haye du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption internationale (CLH), signée et ratifiée par le Gouvernement luxembourgeois.
 
 13
 
