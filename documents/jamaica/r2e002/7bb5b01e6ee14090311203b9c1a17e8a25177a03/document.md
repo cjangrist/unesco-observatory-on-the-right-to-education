@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-Date: March 2011
-
 MINISTRY OF EDUCATION
+
+# Alternative Secondary Transitional Education Programme (ASTEP)
 
 ## CONCEPTUAL FRAMEWORK
 
@@ -13,6 +13,38 @@ Date: March 2011
 [[START OF PAGE 2]]
 
 ## Table of Contents
+
+1.0 Introduction........................................................................................................... 3
+1.1 Policy Goal ........................................................................................................ 3
+1.2 The Policy Driver................................................................................................ 3
+1.3 Grade Four Literacy Test (First Sitting)............................................................ 4
+1.4 Grade Four Literacy Test Supplemental Examination (Second Sitting).... 4
+1.5 Performance Gains.......................................................................................... 5
+2.0 The Alternative Secondary Education Programme (ASEP)............................ 5
+2.1 Rationale............................................................................................................ 5
+3.0 Transitional Year 1................................................................................................. 6
+3.1 Primary Level ..................................................................................................... 6
+3.2 Institutional Arrangement................................................................................ 6
+3.3 Projected Number of ASEP Centres............................................................... 6
+3.4 Geographical Location of Centres ............................................................... 7
+3.5 Centre Selection............................................................................................... 7
+3.6 Curriculum Offering.......................................................................................... 8
+3.7 Specialist Support ............................................................................................. 8
+4.0 Transitional Year 2................................................................................................. 8
+4.1 Secondary Level............................................................................................... 8
+4.2 Student Placement .......................................................................................... 9
+4.3 Curriculum Offering.......................................................................................... 9
+4.4 Specialist Support ........................................................................................... 10
+4.5 Terminal Assessment....................................................................................... 10
+5.0 Programme Support........................................................................................... 10
+5.1 Institutionalize the National Comprehensive Literacy Programme......... 10
+5.2 Strengthen and Redirect Existing Interventions.......................................... 11
+5.3 Establish an Agency for Assessment and Referral ..................................... 11
+5.4 Expand Training of Specialists....................................................................... 11
+5.5 Institutionalise “Child Find” ............................................................................ 11
+5.6 Implement an extensive In-service Teacher Training Programme.......... 12
+6.0 Key Consideration.............................................................................................. 12
+7.0 Appendix 1......................................................................................................... 13
 
 2
 
@@ -39,7 +71,7 @@ Under the Competence-Based Transition Policy:
 
 ### 1.2 The Policy Driver
 
-The Grade Four Literacy Test functions as the standardised measure of literacy at the primary level, consistent with international practice of benchmarking  Literacy  skills at that Grade  level. The Test comprises three sections; Word Recognition, Reading Comprehension  and  a  Writing  Task.  Only  students  who  master  all three sub-tests are considered literate.  Under the policy each child will be provided with four (4) opportunities to be certified literate.
+The Grade Four Literacy Test functions as the standardised measure of literacy at the primary level, consistent with international practice of benchmarking Literacy skills at that Grade level. The Test comprises three sections; Word Recognition, Reading
 
 3
 
@@ -47,13 +79,15 @@ The Grade Four Literacy Test functions as the standardised measure of literacy a
 
 [[START OF PAGE 4]]
 
+Comprehension and a Writing Task. Only students who master all three sub-tests are considered literate. Under the policy each child will be provided with four (4) opportunities to be certified literate.
+
 ### 1.3 Grade Four Literacy Test (First Sitting)
 
-The external administration of the Grade  4 Literacy Test to approximately 48,000 children in June 2009, marked the first stage of the Competence-Based Transition Policy. Public schools accounted for 41,662 (87 percent) of the total number of children who sat the first external administration of the Grade 4 Literacy Test. Of  this  group,  approximately  67  percent  attained  Mastery;  23 percent  fell  in  the  Almost  Mastery  and  10  percent  in  the  NonMastery categories.  This performance provided the trigger for the first supplemental examination.
+The external administration of the Grade  4 Literacy Test to approximately 48,000 children in June 2009, marked the first stage of the Competence-Based Transition Policy. Public schools accounted for 41,662 (87 percent) of the total number of children who sat the first external administration of the Grade 4 Literacy Test. Of  this  group,  approximately  67  percent  attained  Mastery;  23 percent  fell  in  the  Almost  Mastery  and  10  percent  in  the  Non-Mastery categories.  This performance provided the trigger for the first supplemental examination.
 
 ### 1.4 Grade Four Literacy Test Supplemental Examination (Second Sitting)
 
-The December 2009 administration of the Grade Four Literacy Test represented the first supplemental examination under the Competence-Based Transition Policy. A total of 15,791 children from 747 Public, 156 Independent and 5 Special Schools were registered for the examination. Approximately 13,763 children sat the examination  (13  percent  or  2,028  children  were  absent).  Of  this group, approximately 33 percent or 4,606 achieved Mastery; 3,285 (24 percent) achieved Almost Mastery and 5,872 (43 percent) Nonmastery.
+The December 2009 administration of the Grade Four Literacy Test represented the first supplemental examination under the Competence-Based Transition Policy. A total of 15,791 children from 747 Public, 156 Independent and 5 Special Schools were registered for the examination. Approximately 13,763 children sat the examination  (13  percent  or  2,028  children  were  absent).  Of  this group, approximately 33 percent or 4,606 achieved Mastery; 3,285 (24 percent) achieved Almost Mastery and 5,872 (43 percent) Non-mastery.
 
 4
 
@@ -215,9 +249,9 @@ Each  Centre  in  a  High  school  will  be  provided  with  a  Centre Manager. 
 
 ### 4.5 Terminal Assessment
 
-- National  Council  on  Technical  and  Vocational  Education  and Training (NCTVET) - Level 1 or Level 2
+- National  Council  on  Technical  and  Vocational  Education  and Training (NCTVET) – Level 1 or Level 2
 
-- The Caribbean Examinations Council - CCSLC
+- The Caribbean Examinations Council – CCSLC
 
 ## 5.0 Programme Support
 
@@ -227,7 +261,7 @@ The National Comprehensive Literacy Programme to be strengthened through the ado
 
 - GOJ/IADB Primary Education Improvement Project II (PEIP II, 1994-1998)
 
-- GOJ/USAID New Horizons for Primary Schools Project (1998-2005)
+- GOJ/USAID New Horizons for Primary Schools Project (1998–2005)
 
 - GOJ/IADB Primary Education Support Project (PESP)
 
@@ -257,11 +291,11 @@ This Agency will supplement the services currently provided by the Mico  Child  
 
 ### 5.4 Expand Training of Specialists
 
-Currently  only  Mico  and  Sam  Sharpe  Teachers'  Colleges  offer specialist training programmes. Increased output will be required to serve the target group. This may  be  achieved  through the expansion  of  participating  Colleges  or  by  the  inclusion  of  the Specialist Training Programme in other institutions.
+Currently  only  Mico  and  Sam  Sharpe  Teachers’  Colleges  offer specialist training programmes. Increased output will be required to serve the target group. This may  be  achieved  through the expansion  of  participating  Colleges  or  by  the  inclusion  of  the Specialist Training Programme in other institutions.
 
-### 5.5 Institutionalise 'Child Find'
+### 5.5 Institutionalise “Child Find”
 
-Introduce  'Child  Find'  for  all  new  entrants  at  the  Primary  level  to ensure  early  detection  and  treatment  of  children  with  special needs.
+Introduce  “Child Find”  for  all  new  entrants  at  the  Primary  level  to ensure  early  detection  and  treatment  of  children  with  special needs.
 
 11
 
