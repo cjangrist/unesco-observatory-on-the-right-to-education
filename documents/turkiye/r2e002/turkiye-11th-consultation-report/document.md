@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -26,11 +26,13 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
 
 In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childhood Care and Education. 6
 
@@ -42,7 +44,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -72,7 +74,7 @@ In the preparation of reports, Member States are encouraged to provide substanti
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls’ and women’s right to education. Information and data regarding countries’ education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -120,7 +122,7 @@ firat.guzeldag@gmail.com-  firat.guzeldag@meb.gov.tr   / +90 312 413 1937
 
 seda.kuzgun@meb.gov.tr- +90 312 413 19 42
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -170,9 +172,9 @@ https://www.unesco.org/en/legal-affairs/convention-against-discrimination-educat
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -196,9 +198,9 @@ It further corresponds to the overall aspiration of SDG4 which aims to 'ensure i
 
 - Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation 13 , and ensure equal access to all levels and types of education (please tick all that apply):
 
- Legal texts 15 prohibit discrimination and guarantee equal access to education:
-
 For reference: This notably is covered under SDG target 4.1 and partly target 4.b 14
+
+ Legal texts 15 prohibit discrimination and guarantee equal access to education:
 
 ☒ In pre-primary education (including early learning and care)
 
@@ -222,7 +224,7 @@ The right to education has been secured by the Constitution of the Republic of T
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -252,7 +254,7 @@ Primary education is compulsory for all citizens of both sexes and is free of ch
 
 (8)  In  education,  equal  opportunities and possibilities are provided to all men and women. Necessary aid is provided through free boarding, scholarships, loans and other means to ensure that  successful  students  without  financial  means  are  educated  to  the  highest  educational levels. '
 
-- Clause  (c)  of  the  1 st paragraph  of  the  301st  article  of  the Eleventh  Chapter  of  the Presidential 2024 Annual Program 661,  P. 662, P. 663, P.664, Policy and Measures Articles
+- Clause  (c)  of  the  1st paragraph  of  the  301st  article  of  the Eleventh  Chapter  of  the Presidential 2024 Annual Program 661,  P. 662, P. 663, P.664, Policy and Measures Articles
 
 Article 661: Equality of opportunity will be ensured in children's access to quality, universal, free pre-school education.
 
@@ -292,7 +294,7 @@ Article 42: (Right and duty of education)
 
 ' No one shall be deprived of the right of education. The scope of the right to education shall be defined and regulated by law. Education shall be conducted along the lines of the principles and reforms of Atatürk, based on contemporary scientific and educational principles, under the supervision and  control  of the State.  Educational  institutions  contravening  these  principles shall not be established. The freedom of education does not relieve the individual from loyalty to the Constitution. Primary education is compulsory for all citizens of both sexes and is free of charge in state schools.
 
-The principles governing the functioning of private primary and secondary schools shall be regulated by law in keeping with the standards set for the state schools. (Paragraph added on February 2, 2008; Act No. 5735, and annulled by the decision of the Constitutional Court dated June 5, 2008 numbered E. 2008/16, K. 2008/116) The State shall provide scholarships and other means of assistance to enable students of merit lacking financial means to continue their education. The State shall take necessary measures to rehabilitate those in need of special education so as to render such people useful to society. Training, education, research, and study are the only activities that shall be pursue d at institutions of education…'
+The principles governing the functioning of private primary and secondary schools shall be regulated by law in keeping with the standards set for the state schools. (Paragraph added on February 2, 2008; Act No. 5735, and annulled by the decision of the Constitutional Court dated June 5, 2008 numbered E. 2008/16, K. 2008/116) The State shall provide scholarships and other means of assistance to enable students of merit lacking financial means to continue their education. The State shall take necessary measures to rehabilitate those in need of special education so as to render such people useful to society. Training, education, research, and study are the only activities that shall be pursued at institutions of education…'
 
 · National Education Basic Law No:1739
 
@@ -304,13 +306,13 @@ Article  6-1.c) Textbooks  offer  an  approach  that  supports  fundamental  hum
 
 - Different private school types are defined for foreigners and minorities. These are:
 
-' International private education institutions except from higher education institutions may be set up by foreign real or legal persons upon authorization of the Council of Ministers under the provision of the Law of Private Education Institutions that numbered 5580. Only foreign students can attend t hese international private education institutions.'
+' International private education institutions except from higher education institutions may be set up by foreign real or legal persons upon authorization of the Council of Ministers under the provision of the Law of Private Education Institutions that numbered 5580. Only foreign students can attend these international private education institutions.'
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-'Minority schools which are opened and operated under the provision of the Law 5580 on Private Education Institutions, are guaranteed by the Treaty of Lausanne, are minority preschool, primary and secondary schools that minority students (Turkish Citizens) can attend to t heir religious community's schools.'
+'Minority schools which are opened and operated under the provision of the Law 5580 on Private Education Institutions, are guaranteed by the Treaty of Lausanne, are minority pre-school, primary and secondary schools that minority students (Turkish Citizens) can attend to their religious community's schools.'
 
 Special education and rehabilitation centers are defined as 'private education institutions for  individuals  who  need  special  education  in  language  and  speaking,  voice  disorders, cognitive, physical, social, sensory and behavioural areas.
 
@@ -368,15 +370,17 @@ In  order  to  ensure  equality  of  opportunity  in  preschool  education  in  
 
 In cases where kindergarten classrooms could not be opened in remote and sparsely populated settlements, the 'Mobile Teacher Classroom' model, which is one of the alternative access models, enables a teacher to go to more than one settlement, gather children in a suitable area and provide education; and the 'Transport Center Kindergarten Classroom' model enables children to receive education by starting from a remote village and transporting them to the selected transport center accompanied by guiding staff, so that a child can be transported at most 20-25 km.
 
-In order to support children living in underprivileged households who do not have access to preschool education at home, a homebased access model was implemented in which the 'My Play Chest Set' containing 52 different materials was delivered to the child and the family through  the  preschool  teacher  and  the  school  principal,  and  the  child's  development  was monitored  and  supported  through  regular  home  visits  every  month,  and  the  family  was guided.  More  than  13,000  play  chests  were  delivered  to  children  from  families  in underprivileged settlements in the 2022-2023 academic year.
+In order to support children living in underprivileged households who do not have access to preschool education at home, a home-based access model was implemented in which the 'My Play Chest Set' containing 52 different materials was delivered to the child and the family through  the  preschool  teacher  and  the  school  principal,  and  the  child's  development  was monitored  and  supported  through  regular  home  visits  every  month,  and  the  family  was
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
+guided. More than 13,000 play chests were delivered to children from families in underprivileged settlements in the 2022-2023 academic year.
+
 In addition, summer schools were expanded for children in pre-school education who could not attend school during the school year. In the summer period of the 2022-2023 academic year, 1000 air conditioners and 1500 stationery sets were provided to the institutions that will open summer education, and trainings were organized for their managers. Thus, more than 55.000 children were provided with free summer education in the summer of the 2022-2023 academic year.
 
-- In the first semester of the 2022-2023 academic year, one-meal nutrition support was provided to 60,000 children in underprivileged settlements. In the second semester of the 2022-2023 academic year, one meal nutrition support was provided to all children attending official pre-school education institutions. In the 2023-2024 academic year, one meal nutrition support  continues  to  be  provided  to  all  children  attending  official  pre-school  education institutions  in  11  provinces  affected  by  the  earthquakes  cente red  in  Kahramanmaraş  on February 6, 2023.
+- In the first semester of the 2022-2023 academic year, one-meal nutrition support was provided to 60,000 children in underprivileged settlements. In the second semester of the 2022-2023 academic year, one meal nutrition support was provided to all children attending official pre-school education institutions. In the 2023-2024 academic year, one meal nutrition support  continues  to  be  provided  to  all  children  attending  official  pre-school  education institutions  in  11  provinces  affected  by  the  earthquakes  centered  in  Kahramanmaraş  on February 6, 2023.
 
 - Private information that may cause discrimination is not requested during enrolment in educational institutions, and transparent, objective and objective criteria (such as exam score, school  achievement  score,  etc.)  are  applied  to  each  student  in  the  admission  process  to schools entered by exam.
 
@@ -432,7 +436,7 @@ Besides,  free  transportation  is  available  for  students  with  special  edu
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -446,11 +450,11 @@ Individuals  are  provided  with  the  opportunity  to  receive  diplomas  in  t
 
 Through lifelong learning courses, contribution has been made to individuals' skill development in or out of formal education.
 
-If there is a suitable environment and opportunity in the institutions, communitybased child care and play rooms with flexible hours and time are created for trainees' children aged 3-6 in order to ensure the active participation for individuals with children in their learning environments in their social, cultural and professional life. In this way, especially the education opportunities for women attendees have been increased.
+If there is a suitable environment and opportunity in the institutions, community-based child care and play rooms with flexible hours and time are created for trainees' children aged 3-6 in order to ensure the active participation for individuals with children in their learning environments in their social, cultural and professional life. In this way, especially the education opportunities for women attendees have been increased.
 
 ###### Other Studies
 
-Increasing  Attendance  and  Enrolment  Rates  in  Secondary  Education  Project (ODAP) (https://odap.meb.gov.tr/en/homepage/), a pilot project, have been implemented to  ensure  access  to  the  quality  education  for  all  learners  at  the  uppersecondary level with different funding bodies and stakeholders. The overall objective of this  Project  is  to  drive  forward  educational  attainment  and  skill  levels  by  providing access to all and combating early school leaving/absenteeism.
+Increasing  Attendance  and  Enrolment  Rates  in  Secondary  Education  Project (ODAP) (https://odap.meb.gov.tr/en/homepage/), a pilot project, have been implemented to  ensure  access  to  the  quality  education  for  all  learners  at  the  upper-secondary level with different funding bodies and stakeholders. The overall objective of this  Project  is  to  drive  forward  educational  attainment  and  skill  levels  by  providing access to all and combating early school leaving/absenteeism.
 
 ###### Education for Sustainable Development (ESD) in Curriculum
 
@@ -528,7 +532,7 @@ Article 8: Equal opportunities are provided for both men and women in education.
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 'Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -548,7 +552,7 @@ Please note that child marriage is a discriminatory practice as often girls can 
 
 - Please provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age:
 
-According to the Article 124 of the Turkish C ivil Code ' No man or woman may marry before  completing  the  age  of  seventeen.  However,  the  judge  may  allow  a  man  or woman who has turned sixteen to marry in extraordinary circumstances and for very important reasons.'
+According to the Article 124 of the Turkish Civil Code 'No man or woman may marry before completing the age of seventeen. However, the judge may allow a man or woman who has turned sixteen to marry in extraordinary circumstances and for very important reasons.'
 
 ##### National minorities:
 
@@ -568,11 +572,11 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 ☒ Teachers are trained to combat stigmatisation 24
 
-- o Multilingual and intercultural education are supported
+o Multilingual and intercultural education are supported
 
-- o Native language instruction is ensured for national minorities
+o Native language instruction is ensured for national minorities
 
-- o Adapting curricula and teaching and learning methods to their needs for national minorities
+o Adapting curricula and teaching and learning methods to their needs for national minorities
 
 > 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: ' a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law  and on the evidence of maturity, without deference to culture and tradition.'
 
@@ -581,8 +585,6 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
-
-##### Indigenous people:
 
  Positive or affirmative action measures are provided for national minorities
 
@@ -594,7 +596,7 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-According to the Law 5580 on Private Education Institutions , minority schools which are opened and operated under the provision of the Law 5580 on Private Education Institutions, are guaranteed by the Treaty of Lausanne, are minority pre-school, primary and secondary schools that minority students (Turkish Citizens) can attend to t heir religious community's schools.
+According to the Law 5580 on Private Education Institutions , minority schools which are opened and operated under the provision of the Law 5580 on Private Education Institutions, are guaranteed by the Treaty of Lausanne, are minority pre-school, primary and secondary schools that minority students (Turkish Citizens) can attend to their religious community's schools.
 
 Besides, some of the criteria taken into consideration when reviewing the draft textbook, educational tools and electronic contents are as follows:
 
@@ -604,11 +606,15 @@ Besides, some of the criteria taken into consideration when reviewing the draft 
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
+##### Indigenous people:
+
 ☒ Legislation provides for the right to education of indigenous people
 
  Financial incentives and fellowships are provided for indigenous people
 
-> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. 25 Supra note 16.
+> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
+
+> 25 Supra note 16.
 
 [[END OF PAGE 20]]
 
@@ -696,7 +702,7 @@ Türkiye is currently home to a large number of the refugees / migrants and the 
 
 ###### Syrian Support Personnel (SDP) Program
 
-The Memorandum of Understanding regarding the implementation of the Syrian Support Personnel  Program  in  23  provinces  in  cooperation  with  the  Ministry  of  National Education (MoNE ) and UNICEF was signed on 31 October 2023. Within the scope of the program, nearly 2.000 Syrian support personnel are employed by the human resources company contracted with UNICEF and are assigned to schools/institutions affiliated with MoNE. The program aims to facilitate access to education and provision of social services for foreign children.
+The Memorandum of Understanding regarding the implementation of the Syrian Support Personnel  Program  in  23  provinces  in  cooperation  with  the  Ministry  of  National
 
 > 29 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
 
@@ -705,6 +711,8 @@ The Memorandum of Understanding regarding the implementation of the Syrian Suppo
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+Education (MoNE ) and UNICEF was signed on 31 October 2023. Within the scope of the program, nearly 2.000 Syrian support personnel are employed by the human resources company contracted with UNICEF and are assigned to schools/institutions affiliated with MoNE. The program aims to facilitate access to education and provision of social services for foreign children.
 
 ###### Education Project for Syrian Children in Türkiye and Turkish Children in Need
 
@@ -718,15 +726,11 @@ It is being carried out on 29.05.2020 in cooperation with MoNE, the Incoming Dir
 
 Turkish courses are given through public education centers for the purpose of teaching the Turkish language. 675,576 Syrian national trainees attended Turkish courses at A1, A2 and B1 levels and age levels between 2014 and 2024.
 
-The cooperation system framework between the Directorate of Immigration Management and the Directorate General of Lifelong Learning ;" Social Adaptation and Life Course Program" has been extended throughout Türkiye for the purpose of facilitating the social, economic and cultural life adaptation of all adult foreigners (1765  years  old)  professionals  who  have  the  legal  right  to  stay.  As  of  March  2024, 1,710,784 people, 802,784 women and 907,326 men were trained.
+The cooperation system framework between the Directorate of Immigration Management and the Directorate General of Lifelong Learning ;"Social Adaptation and Life Course Program" has been extended throughout Türkiye for the purpose of facilitating the social, economic and cultural life adaptation of all adult foreigners (17-65 years old) professionals who have the legal right to stay. As of March 2024, 1,710,784 people, 802,784 women and 907,326 men were trained.
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
-
-33
-
-34
 
 - Have specific measures been adopted for climate displaced persons?
 
@@ -774,15 +778,13 @@ In all provinces of our country, standard special education classrooms, resource
 
 The  purpose  of  the  project  is  to  ensure  the  integration  of  all  students  in  society  by increasing  the  quality  of  mainstreaming/inclusion  practices  in  our  country.  The  main
 
-> Supra note 15.
+> 33 Supra note 15.
 
-> Supra note 16.
+> 34 Supra note 16.
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
-
-35
 
 objective  of  the  project  is  objective  is  to  contribute  to  an  innovative,  sustainable  and inclusive education system by supporting the development of teachers, school managers and other actors involved in mainstreaming/inclusion  practices.
 
@@ -810,11 +812,9 @@ Article 8: Necessary services such as dormitories, scholarships and loans are pr
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-36
+> 35 Supra note 15.
 
-Supra note 15.
-
-Supra note 16.
+> 36 Supra note 16.
 
 [[END OF PAGE 25]]
 
@@ -824,7 +824,7 @@ Supra note 16.
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -832,9 +832,9 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
-☒ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+☒ ECCE services are accessible on a non-discriminatory basis
 
-☒ ECCE services are accessible on a nondiscriminatory basis
+☒ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -844,7 +844,7 @@ In order to ensure access to pre-school education for children for whom classes 
 
 In order to ensure equality of opportunity in preschool education in villages and similar settlements with small and scattered populations, the number of children required to open a kindergarten class in a settlement was reduced from 10 to 5 with an amendment to the Ministry of National Education Regulation on Opening, Closing and Naming Institutions.
 
-In  cases  where  kindergarten  classrooms  could  not  be  opened  in  remote  and  sparsely populated  settlements,  the  'Mobile  Teacher  Classroom'  model,  which  is  one  of  the alternative access models, enables a teacher to go to more than one settlement, gather children in a suitable area and provide education; and the 'Transport Center Kindergarten Classroom' model enables children to receive education by starting from a remot e village and transporting them to the selected transport center accompanied by guiding staff, so that a child can be transported at most 20-25 km.
+In cases where kindergarten classrooms could not be opened in remote and sparsely populated settlements, the 'Mobile Teacher Classroom' model, which is one of the
 
 > 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -854,13 +854,15 @@ In  cases  where  kindergarten  classrooms  could  not  be  opened  in  remote  
 
 [[START OF PAGE 27]]
 
-In order to support children living in underprivileged households who do not have access to preschool education at home, a home-based access model was implemented in which the 'My Play Chest Set' containing 52 different materials was delivered to the child and the  family  through  the  preschool  teacher  and  the  school  principal,  and  the  child's development was monitored and supported through regular home visits every month, and the family was guided. 13,200 play chests were delivered to children from families  in underprivileged settlements in the 2022-2023 academic year.
+alternative access models, enables a teacher to go to more than one settlement, gather children in a suitable area and provide education; and the 'Transport Center Kindergarten Classroom' model enables children to receive education by starting from a remote village and transporting them to the selected transport center accompanied by guiding staff, so that a child can be transported at most 20-25 km.
+
+In order to support children living in underprivileged households who do not have access to preschool education at home, a home-based access model was implemented in which the 'My Play Chest Set' containing 52 different materials was delivered to the child and the family through the preschool teacher and the school principal, and the child's development was monitored and supported through regular home visits every month, and the family was guided. 13,200 play chests were delivered to children from families in underprivileged settlements in the 2022-2023 academic year.
 
 In  addition,  summer  schools  were  expanded  for  children  in  pre-school  education  who could not attend school during the school year. In the summer period of the 2022-2023 academic  year,  1000  air  conditioners  and  1500  stationery  sets  were  provided  to  the institutions  that  will  open  summer  education,  and  trainings  were  organized  for  their managers.  Thus,  55,493  children  were  provided  with  free  summer  education  in  the summer of the 2022-2023 academic year.
 
-##### Increasing Access and Quality of Early Childhood Education (ECE) Project (20202024)
+##### Increasing Access and Quality of Early Childhood Education (ECE) Project (2020-2024)
 
-Brief description of the project and main objectives: The purpose of this Project is to increase quality of and access to early childhood education (ECE) services for 0-to-6-yearold children especially in the most vulnerable communities and to expand ECE services.
+Brief description of the project and main objectives: The purpose of this Project is to increase quality of and access to early childhood education (ECE) services for 0-to-6-year-old children especially in the most vulnerable communities and to expand ECE services.
 
 Achievements/ Expected Outputs: ECE services are expanded for 0-6-year-old children, especially for the most vulnerable communities.
 
@@ -878,7 +880,7 @@ Families' beliefs and attitudes regarding the quality and value of ECE services,
 
 Pre-school education is not compulsory in Türkiye. Pre-primary education in Türkiye is free for pre-school children aged 36-69 months at educational institutions affiliated to Ministry of National Education.
 
-However, According to the Regulation of special education services (https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24736&MevzuatTur=7&Mevz uatTertip=5) Article 11: Pre-school  education  is  compulsory  for  those  with  special educational  needs  who  have  reached  the  age  36  months.  For  these  students,  special education schools or special education classes can be opened, and their education can also be provided through inclusive education.
+However, According to the Regulation of special education services (https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24736&MevzuatTur=7&MevzuatTertip=5) Article 11: Pre-school education is compulsory for those with special educational needs who have reached the age 36 months. For these students, special education schools or special education classes can be opened, and their education can also be provided through inclusive education.
 
 ☒ Pre-primary education is not compulsory.
 
@@ -886,13 +888,13 @@ However, According to the Regulation of special education services (https://www.
 
 ##### National Education Basic Law No:1739
 
-(AEarly childhood education) Article 19: 'Pre -school education covers the education of children who have not reached the age of compulsory primary education.'
+(A-Early childhood education) Article 19: 'Pre-school education covers the education of children who have not reached the age of compulsory primary education.'
 
 This education is voluntary.
 
 ##### Regulation on Preschool Education and Primary Education Institutions Article5
 
-(a) 'Children  aged  57 -68  months  are  enrolled  in  kindergartens,  nursery  classes  and practice classes as of the end of September of the year of enrolment. After the enrolment of children who reside in the school's registration area and who will start primary school in the next academic year, children aged 36-56 months can be enrolled in nursery and practice  classes  and  45-56  months  in  kindergarten  classes  with  adequate  physical facilities.' (b) 'In schools where there are not enough children to form a group, chi ldren aged 3668 months can be enrolled in the same kindergarten class.'
+(a) 'Children aged 57-68 months are enrolled in kindergartens, nursery classes and practice classes as of the end of September of the year of enrolment. After the enrolment of children who reside in the school's registration area and who will start primary school in the next academic year, children aged 36-56 months can be enrolled in nursery and practice classes and 45-56 months in kindergarten classes with adequate physical facilities.' (b) 'In schools where there are not enough children to form a group, children aged 36-68 months can be enrolled in the same kindergarten class.'
 
 Article  67: 'Preschool  education  is  free  of  charge  in  official  preschool  education institutions. However, pre-school education institutions charge a contribution to support the basic needs of children during their time at school, their self-care processes and the implementation of the education program. This contribution fee is determined by the contribution fee determination commission in April'
 
@@ -906,7 +908,7 @@ Article  67: 'Preschool  education  is  free  of  charge  in  official  preschoo
 
 ##### Pre-primary education
 
-The  first  paragraph  of  Article  67  of  Regulation  on  Pre-School  and  Primary  School Institutions by Ministry of National Education states that 'pre -school education is free of charge in public preschool education institutions '. With this statement, access to free education is guaranteed in public preschool education institutions.
+The first paragraph of Article 67 of Regulation on Pre-School and Primary School Institutions by Ministry of National Education states that 'pre-school education is free of charge in public preschool education institutions'. With this statement, access to free education is guaranteed in public preschool education institutions.
 
 According to the first paragraph of the Article 6 of the same regulation; 'It is essential to carry out normal training for 6 hours of activity, each of them lasts 50 minutes a day. The activities include the time of starting the day, playing, feeding, cleaning, activity, resting and evaluating the day. However, dual education is compulsory in schools where there are children not enrolled in registration area. ' With this statement, enrolment of the children who are on the candidate registration list of each school and who will start primary school next year is ensured.
 
@@ -922,8 +924,6 @@ Further, it is obligatory for nurseries, day care centres and children clubs ope
 
 - What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
-- Please elaborate. Brief quantitative information may be added.
-
  Limited access
 
  Issues of equity and inclusion
@@ -938,13 +938,15 @@ Further, it is obligatory for nurseries, day care centres and children clubs ope
 
  Lack of support to families
 
-##### Increasing Quality and Access in Early Childhood Education (ECE)" Project 20202023 https://erkencocuklukegitimi.org/en
+- Please elaborate. Brief quantitative information may be added.
 
-Within the scope of the "Increasing Quality and Access in Early Childhood Education (ECE)"  Project,  media  campaigns  and  awareness-raising  activities  are  carried  out  to inform the public of the importance of ECE by engaging with family and community. For example,  a  39-episode  cartoon  series  is  being  produced  to  support  play-based  early learning at home, foster young children's love of learning and increase awareness of the significance of early childhood education. A study on parents' knowledge, attitudes, and practices (KAP) towards early childhood education services in Türkiye was conducted as part of the Project. The study findings will provide a basis for the community activities to inform  parents  and  caregivers  to  support  their  children's  education,  was  conducted throughout the Project.
+##### Increasing Quality and Access in Early Childhood Education (ECE)" Project 2020-2023 https://erkencocuklukegitimi.org/en
+
+Within the scope of the "Increasing Quality and Access in Early Childhood Education (ECE)" Project, media campaigns and awareness-raising activities are carried out to inform the public of the importance of ECE by engaging with family and community. For example, a 39-episode cartoon series is being produced to support play-based early learning at home, foster young children's love of learning and increase awareness of the significance of early childhood education. A study on parents' knowledge, attitudes, and practices (KAP) towards early childhood education services in Türkiye was conducted as part of the Project. The study findings will provide a basis for the community activities to inform parents and caregivers to support their children's education, was conducted throughout the Project.
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 [[END OF PAGE 30]]
 
@@ -954,9 +956,9 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 - Please provide the age of enrolment and duration of primary education:
 
-National Education Basic Law No:1739 ( BPrimary Education) Article 22:' Compulsory primary education covers children in the 6-14 age group. Children who have completed 72 months of age on December 31st of that year are enrolled in the first grades of primary schools. However, issues related to the early start of school or postponement of enrolment depending on the developmental status of the child shall be regulated by regulation.'
+National Education Basic Law No:1739 (B- Primary Education) Article 22:' Compulsory primary education covers children in the 6-14 age group. Children who have completed 72 months of age on December 31st of that year are enrolled in the first grades of primary schools. However, issues related to the early start of school or postponement of enrolment depending on the developmental status of the child shall be regulated by regulation.'
 
-Regulation on Preschool Education and Primary Education Institutions (6) enrolment in primary school: a) 'Children who are 69 months old by the end of September of the y ear of enrolment are enrolled in the first grade of primary schools. In addition, children aged 66, 67 and 68 months who have a written request from their parents are also enrolled in the first grade of primary school .'
+Regulation on Preschool Education and Primary Education Institutions (6) enrolment in primary school: a) 'Children who are 69 months old by the end of September of the year of enrolment are enrolled in the first grade of primary schools. In addition, children aged 66, 67 and 68 months who have a written request from their parents are also enrolled in the first grade of primary school.'
 
 b) 'School directorates direct children aged 69, 70 and 71 months to pre -school education or postpone their enrolment for one year upon the written request of their parents.'
 
@@ -1030,15 +1032,15 @@ Regulation  on  Preschool  Education  and  Primary  Education  Institutions  Art
 
 - Please provide the age of enrolment and duration of upper secondary education:
 
-Regulation on upper secondary
+Regulation on upper secondary education
 
 (https://ogm.meb.gov.tr/meb_iys_dosyalar/2016_11/03111224_ooky.pdf)
-
-education Article  21: ' To  enrol  in  secondary  education  institutions,  one  must  complete  secondary school or imam-hatip secondary schools and must not be over 18 years of age at the start of the academic year. Students who do not meet the age requirement are not enrolled in formal secondary education institutions.
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+Article 21: 'To enrol in secondary education institutions, one must complete secondary school or imam-hatip secondary schools and must not be over 18 years of age at the start of the academic year. Students who do not meet the age requirement are not enrolled in formal secondary education institutions.
 
 The duration of education is 4 years.
 
@@ -1062,7 +1064,7 @@ The duration of education is 4 years.
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms,  transport  and  compulsory  levies  on  parents).  Brief  quantitative  information  may  be added.
 
-The provision exists in the Article 42 of the Constitution, "Primary Education is compulsory for all citizens, both girls and boys and is free of charge in public schools." In this context, students do not make payment such as exam fee, book fee or registration fee. This provision exists in the same article, 'The St ate provides scholarships and other necessary assistance to successful students who lack financial means in order that they can continue their education. The State takes precautions to make the students, in need of  special  education  due  to  their  situation,  beneficial  to  society.  '  In  Law  on School Boarding Houses  No.  2698  and  Law  on  Educating  Unpaid  Boarding  or Beneficiary Students in Primary and Secondary Education and Social Aids for Them No. 2684,  It  is  ensured  that  necessary  measures  will  be  taken  to  provide  equality  of opportunity and possibility towards being a social State.
+The provision exists in the Article 42 of the Constitution, "Primary Education is compulsory for all citizens, both girls and boys and is free of charge in public schools." In this context, students do not make payment such as exam fee, book fee or registration fee. This provision exists in the same article, 'The State provides scholarships and other necessary assistance to successful students who lack financial means in order that they can continue their education. The State takes precautions to make the students, in need of special education due to their situation, beneficial to society. ' In Law on School Boarding Houses No. 2698 and Law on Educating Unpaid Boarding or Beneficiary Students in Primary and Secondary Education and Social Aids for Them No. 2684, It is ensured that necessary measures will be taken to provide equality of opportunity and possibility towards being a social State.
 
 [[END OF PAGE 34]]
 
@@ -1076,13 +1078,15 @@ In line with the principle of equal opportunities for all, several projects are 
 
 Since  2003, course  books  have  been  distributed free  of  charge at  the  primary  and secondary education levels.
 
-Additionally,  free  accommodation  and  boarding  facilities  are  provided  students.  It  is aimed to expand the boarding facilities across the country for all children in need is expanded to reduce transportation needs to schools and to minimize students' dropou t living under unfavourable conditions. Transportation services are provided for students living in remoted areas to ease their access to primary and secondary education.
+Additionally, free accommodation and boarding facilities are provided students. It is aimed to expand the boarding facilities across the country for all children in need is expanded to reduce transportation needs to schools and to minimize students' dropout living under unfavourable conditions. Transportation services are provided for students living in remoted areas to ease their access to primary and secondary education.
 
-Like  all  stages  and  types  of  compulsory  education  in  Türkiye,  vocational  and technical  education  is  also  free  of  charge .  Depending  on  the  results  of  a  national examination held at the central level in the final year of secondary school, students can enrol in vocational and technical secondary education institutions. The books to be used during education and materials to be used in workshops are provided by the State, but costs on students' clothing and transportation to the school are provided by their families. Apprenticeship education is in the scope of 12-year compulsory education. Skill training in enterprises is provided and State contribution to the fee paid to the students by the enterprises is also provided. Students in 10th, 11th and 12th grades receiving vocational and  technical  education  are  insured  against  occupational  accidents  and  occupational diseases by the State. All vocational and technical secondary education graduates are given the title of technician.
+Like all stages and types of compulsory education in Türkiye, vocational and technical education is also free of charge. Depending on the results of a national examination held at the central level in the final year of secondary school, students can enrol in vocational and technical secondary education institutions. The books to be used
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+
+during education and materials to be used in workshops are provided by the State, but costs on students' clothing and transportation to the school are provided by their families. Apprenticeship education is in the scope of 12-year compulsory education. Skill training in enterprises is provided and State contribution to the fee paid to the students by the enterprises is also provided. Students in 10th, 11th and 12th grades receiving vocational and technical education are insured against occupational accidents and occupational diseases by the State. All vocational and technical secondary education graduates are given the title of technician.
 
 - Please indicate whether the legal minimum age for employment is aligned with the end of compulsory education:
 
@@ -1096,13 +1100,15 @@ Yes o No o
 
 ' The  age  of  employment  and  the  prohibition  on  employing  children ;  Employment  of children who have not completed the age of fifteen is prohibited. However, children who have completed the full age of fourteen and their primary education may be employed on light works that will not hinder their physical, mental and moral development, and for those who continue their education, in jobs that will not prevent their school attendance. Children who have not completed the age of fourteen may be employed in artistic, culture and advertising activities that will not hinder their physical, mental and moral development, and that will not prevent their  school  attendance  on  the  condition  that  a  written  contract  is  made  and  permission  is obtained for each activity separately.
 
-In the placement of children and young employees in jobs and in the types of work where they are employable, their security and health, physical, mental and psychological development as well as their personal suitability and capability shall be taken into consideration. The job the child  performs  must  not  bar  him  for  attending  school  and  from  continuing  his  vocational training, nor impair his pursuance of class work on a regular basis.
+In the placement of children and young employees in jobs and in the types of work where they are employable, their security and health, physical, mental and psychological development as well as their personal suitability and capability shall be taken into consideration. The job the
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-Jobs that are prohibited for children and young workers under the age of eighteen, and jobs to allow young workers to work, who have completed fifteen years of age but have not completed eighteen years of age; light jobs for children who have completed fourteen years of age and have completed the compulsory primary school age; jobs and working conditions for young workers who have completed sixteen years of age and children who not completed eighteen years of age shall be determined in a regulation of the Ministry of Labour and Social Security to be issued within six months. ( 1) (2) (Amended fourth paragraph: 4/4 / 2015-6645 / 38 art.)
+child performs must not bar him for attending school and from continuing his vocational training, nor impair his pursuance of class work on a regular basis.
+
+Jobs that are prohibited for children and young workers under the age of eighteen, and jobs to allow young workers to work, who have completed fifteen years of age but have not completed eighteen years of age; light jobs for children who have completed fourteen years of age and have completed the compulsory primary school age; jobs and working conditions for young workers who have completed sixteen years of age and children who not completed eighteen years of age shall be determined in a regulation of the Ministry of Labour and Social Security to be issued within six months. (1) (2) (Amended fourth paragraph: 4/4 / 2015-6645 / 38 art.)
 
 The working hours of children who have completed their basic education and yet who are no longer attending school shall not be more than seven hours a day and more than thirty-five hours a week; and for the children who are employed in the artistic, cultural and advertising activities  working  time  shall  not  be  more  than  five  hours  a  day  and  thirty  hours  a  week. However  this  working  time  may  be  increased  up  to  forty  hours  a  week  for  the  children completed the age of 15. The working hours during the education term of the children who receive preschool education and attend school may be at most two hours a day and ten hours a week, outside the education hours. The working hours for holiday terms shall not exceed the periods set forth in the fourth paragraph above. (3)   (Paragraph added on 4 April 2015 by Article 38 of the Law No. 6645)
 
@@ -1110,15 +1116,13 @@ The scope of artistic, cultural and advertising activities, the work permit of t
 
 - Regulation  On  Procedures  And  Principles  Of  Employment  Of  Child  And  Young Workers
 
-(https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5457&MevzuatTur=7&Mevzuat Tertip=5)
+(https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5457&MevzuatTur=7&MevzuatTertip=5)
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
 
 - What challenges were encountered in realizing secondary education?
-
-#### 2.3 Higher education
 
  Limited access
 
@@ -1138,7 +1142,9 @@ The scope of artistic, cultural and advertising activities, the work permit of t
 
 - Please elaborate. Brief quantitative information may be added.
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39 , and target 4.4 40 . Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
+#### 2.3 Higher education
+
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39 , and target 4.4 40 . Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
 
 - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
 
@@ -1240,13 +1246,15 @@ Public  education  centers  carry  out  their  activities  in  education  rooms,
 
 General and vocational education programs are offered to individuals in lifelong learning centers. These courses are free of charge. It is also emphasized in the Regulation on Lifelong Learning Institutions that it is free of charge.
 
-Within the scope of lifelong learning activities, course programs are updated due to needs and new programs are developed. The number of course programs, which was 321 in 2007, reached 3,738 in 75 fields as of 2023. Additionally, awareness and skill training programs related to literacies such as digital literacy, finance, health, ecology, and social media, which are among the 21st-century skills based on the needs of the era, have been organized.
+Within the scope of lifelong learning activities, course programs are updated due to needs and new programs are developed. The number of course programs, which was 321 in 2007, reached 3,738 in 75 fields as of 2023. Additionally, awareness and skill training
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
-People  can  learn  about  learning  opportunities  through  lifelong  learning  Web  Portal http://www.hbo.gov.tr/
+programs related to literacies such as digital literacy, finance, health, ecology, and social media, which are among the 21st-century skills based on the needs of the era, have been organized.
+
+People can learn about learning opportunities through lifelong learning Web Portal http://www.hbo.gov.tr/
 
 People's access to education is increased through HBÖTV http://www.hbo.gov.tr/HBOTV.
 
@@ -1272,7 +1280,7 @@ Studies are carried on spreading distance education applications in the field of
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1292,9 +1300,9 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
 ☒ Curriculum
 
-
+ Student-teacher ratio
 
-Student-teacher ratio ☒ School fees (if relevant)
+☒ School fees (if relevant)
 
  Other
 
@@ -1330,8 +1338,6 @@ Expressions that humiliate the political views or way of thinking of a segment o
 
 [[START OF PAGE 44]]
 
-#### 3.2 Education personnel
-
  Non-supportive or inadequate learning environments
 
  Violence in schools
@@ -1349,6 +1355,8 @@ Expressions that humiliate the political views or way of thinking of a segment o
  Long distances to schools
 
 - Please elaborate. Brief quantitative information may be added.
+
+#### 3.2 Education personnel
 
 For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'.
 
@@ -1378,7 +1386,7 @@ The criteria required for those to be selected as teachers are clearly stated by
 
 [[START OF PAGE 45]]
 
-'Teaching is a speciality profession that takes on the State's education, training and related management duties. Teachers are obliged to perform these duties in accordance with the objectives and basic principles of Turkish National Education. Preparation for teaching profession  is  provided  by  general  culture,  special  field  education  and  pedagogical formation. it is essential to ensure that prospective teachers receive higher education in order to acquire the qualifications mentioned above, regardless of their level of education. This education is arranged in a way to enable horizontal and vertical transitions at the preundergraduate, undergraduate and graduate levels '
+'Teaching is a speciality profession that takes on the State's education, training and related management duties. Teachers are obliged to perform these duties in accordance with the objectives and basic principles of Turkish National Education. Preparation for teaching profession is provided by general culture, special field education and pedagogical formation. it is essential to ensure that prospective teachers receive higher education in order to acquire the qualifications mentioned above, regardless of their level of education. This education is arranged in a way to enable horizontal and vertical transitions at the pre-undergraduate, undergraduate and graduate levels '
 
 The criteria required in teaching profession are determined by the Ministry of National Education.  Initial  training  is  applied  to  prospective  teachers  who  have  just  started teaching. The content and duration of the programs prepared for the teachers working in private education institutions before the candidate teaching process are different from the programs  applied  to  the  other  candidate  teachers.  Directorate  General  for  Teacher Training  and  Development  in  MoNE  is  responsible  for  the  continuous  professional development of teachers. In this context, face-to-face and distance education are planned and implemented. Universities, relevant institutions and non-governmental organizations collaborate within the scope of professional development of teachers.
 
@@ -1394,9 +1402,9 @@ The criteria required in teaching profession are determined by the Ministry of N
 
  Other:
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1420,9 +1428,9 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 There are criteria that will be used as a basis for evaluation when examining the draft textbook and educational tools and their electronic content.
 
-· Pilot Project On Digital Citizenship Education in Türkiye (2023-2025) (https://www.coe.int/en/web/ankara/hf-iii-pilot-project-on-digital-citizenshipeducation-in-t%C3%BCrkiye)
+· Pilot Project On Digital Citizenship Education in Türkiye (2023-2025) (https://www.coe.int/en/web/ankara/hf-iii-pilot-project-on-digital-citizenship-education-in-t%C3%BCrkiye)
 
-T he  action  'Pilot  project  on  digital  citizenship  education  in  Türkiye'  aims  to  promote human rights, fundamental freedoms and democracy in schools by empowering students in their digital presence through digital citizenship education (DCE) at the lower secondary level in Türkiye. It proposes a series of complementary measures to introduce the concept of digital citizenship and its essential core competences, which are grouped under three clusters as being online, wellbeing online and it is my right with reference to the DCE tools of  Council  of  Europe  in  education  institutions  in  Türkiye  in  consultation  with  key stakeholders and end beneficiaries. This action is implemented within the joint programme of the European Union and the Council of Europe 'Horizontal Facility for the Western Balkans and Türkiye', and it is running from 2023 until 2025.
+The action 'Pilot project on digital citizenship education in Türkiye' aims to promote human rights, fundamental freedoms and democracy in schools by empowering students in their digital presence through digital citizenship education (DCE) at the lower secondary level in Türkiye. It proposes a series of complementary measures to introduce the concept of digital citizenship and its essential core competences, which are grouped under three clusters as being online, wellbeing online and it is my right with reference to the DCE tools of Council of Europe in education institutions in Türkiye in consultation with key stakeholders and end beneficiaries. This action is implemented within the joint programme
 
 > 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
@@ -1430,15 +1438,17 @@ T he  action  'Pilot  project  on  digital  citizenship  education  in  Türkiye
 
 [[START OF PAGE 47]]
 
+of the European Union and the Council of Europe 'Horizontal Facility for the Western Balkans and Türkiye', and it is running from 2023 until 2025.
+
 What are the goals and objectives of the action?
 
 -to support the efforts of the Ministry of National Education in adapting competences for democratic culture in the education system
 
 -to promote  human  rights, fundamental freedoms  and democracy  in schools by empowering students in their digital presence through digital citizenship education (DCE) at the lower secondary level in Türkiye
 
-- Project  for Strengthening Democratic Culture in Basic Education (2018-2023) (https://www.coe.int/en/web/ankara/joint-project-on-strengtheningdemocratic-culture-in-basic-education#{%2233394687%22:[1]})
+- Project for Strengthening Democratic Culture in Basic Education (2018-2023) (https://www.coe.int/en/web/ankara/joint-project-on-strengthening-democratic-culture-in-basic-education#{%2233394687%22:[1]})
 
-The European Union -Council of Europe Joint Project 'Strengthening Democratic Culture in  Basic  Education'  aims  to  integrate  a  democratic  school  culture  that  corresponds  with universal core values as well as fundamental rights and freedoms into the Turkish national education system. The specific objectives of the Project are:
+The European Union – Council of Europe Joint Project 'Strengthening Democratic Culture in Basic Education' aims to integrate a democratic school culture that corresponds with universal core values as well as fundamental rights and freedoms into the Turkish national education system. The specific objectives of the Project are:
 
 -Strengthening democratic values and practices in schools and school communities,
 
@@ -1546,9 +1556,9 @@ Digital education is both an opportunity for enhancing access but also can lead 
 
 Please indicate the relevant text and provisions:
 
-Clause  (c)  of  the  1 st paragraph  of  the  301st  article  of  the  Eleventh  Chapter  of  the Presidential 2024 Annual Program 661.1, 661.4, P. 661, P. 662, P. 663, P.664, P.665, P.666,  P.667,  P.668,  P.670,  P.672,  P.675,  P.676,  P.678,  P.680,  P.681  Policy  and Measures Articles
+Clause (c) of the 1st paragraph of the 301st article of the Eleventh Chapter of the Presidential 2024 Annual Program 661.1, 661.4, P. 661, P. 662, P. 663, P.664, P.665, P.666, P.667, P.668, P.670, P.672, P.675, P.676, P.678, P.680, P.681 Policy and Measures Articles
 
-Target: The education system will be made more resilient and flexible to cope with extraordinary situations. (12 th Development Plan p.666 -2024-2028; https://www.sbb.gov.tr/wp-content/uploads/2024/06/Twelfth-Development-Plan_2024-2028.pdf)
+Target: The education system will be made more resilient and flexible to cope with extraordinary situations. (12th Development Plan p.666 -2024-2028; https://www.sbb.gov.tr/wp-content/uploads/2024/06/Twelfth-Development-Plan_2024-2028.pdf)
 
 Policy/Measure 666.2: Steps will be taken to address the consequences of disruptions to  education  during  exceptional  circumstances,  mitigating  the  resulting  learning setbacks.
 
@@ -1560,7 +1570,7 @@ Policy/Measure 666.2: Steps will be taken to address the consequences of disrupt
 
 - Uninterrupted service will be provided from the platforms developed or supported.
 
-Target: Proper use of technology in education will be ensured, technology literacy will be increased and inequalities arising from the use of technology will be reduced. (12 th Development Plan p.667)
+Target: Proper use of technology in education will be ensured, technology literacy will be increased and inequalities arising from the use of technology will be reduced. (12th Development Plan p.667)
 
 > 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
 
@@ -1580,7 +1590,7 @@ Activity 1: 1 .  Technology-focused learning scenarios will be developed to supp
 
 ☒ Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
-☒ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+☒ Measures to remove barriers to accessing digital content45, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
 ☒ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1606,21 +1616,21 @@ Activity 1: 1 .  Technology-focused learning scenarios will be developed to supp
 
 4.Improving the digital skills of all teachers with the teacher IT network(ÖBA).
 
-In order to support teachers on current technology topics in education, contents in the fields of  artificial  intelligence,  coding,  innovative  applications,  digital  teaching  processes, thinking  skills,  digital  literacy  and  effective  use  of  technology  are  offered  on  the  ÖBA platform.  Contents  identified  through  field  research  and  prepared  for  teacher  needs  are available on ÖBA as online professional development opportunities. It is aimed to meet the needs  of  teachers  arising  from  today's  technological  develop ments  with  professional development opportunities supported by digital competencies.
+In order to support teachers on current technology topics in education, contents in the fields of  artificial  intelligence,  coding,  innovative  applications,  digital  teaching  processes, thinking  skills,  digital  literacy  and  effective  use  of  technology  are  offered  on  the  ÖBA platform.  Contents  identified  through  field  research  and  prepared  for  teacher  needs  are available on ÖBA as online professional development opportunities. It is aimed to meet the needs  of  teachers  arising  from  today's  technological  developments  with  professional development opportunities supported by digital competencies.
 
-5.A strong structure in the provinces; professionally trained F ATİH Project trainers.
+5.A strong structure in the provinces; professionally trained FATİH Project trainers.
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
 
-FATİH project was initiated in 2010 to ensure equal opportunities in education and training and to improve the technology in our schools for the effective use of information technology tools in lessons by appealing to more sensory organs in the learning -teaching process. While creating the solution based on these principles, the success factors were based on 5 basic principles (Accessibility, efficiency, equality, measurability and quality). Since that time  internet  access  to  all  schools  and  installation  of  smart  boards  have  been  realized. FATİH Project trainers and information technologies counsellors organize local and central trainings to increase the digital competencies of teachers. The trainers carry out courses and produce projects for dissemination of educational technologies.
+FATİH project was initiated in 2010 to ensure equal opportunities in education and training and to improve the technology in our schools for the effective use of information technology tools in lessons by appealing to more sensory organs in the learning –teaching process. While creating the solution based on these principles, the success factors were based on 5 basic principles (Accessibility, efficiency, equality, measurability and quality). Since that time  internet  access  to  all  schools  and  installation  of  smart  boards  have  been  realized. FATİH Project trainers and information technologies counsellors organize local and central trainings to increase the digital competencies of teachers. The trainers carry out courses and produce projects for dissemination of educational technologies.
 
-- By  minimize  the  limits  of  education  (time,  place,  cost)  through  distance  learning technologies  and  in order to provide  individuals with  access  to lifelong learning opportunities  through  distance  education,  the  Public  Education  Centers  Information Network  (HEMBA)  Platform  has  been  established.  HEMBA  is  available  for  Turkish citizens  aged  15  and  above.  With  HEMBA,  the  contents  of  adult  education  have  been transferred to  a digital platform.  In the 2023, 557,283 citizens have benefited from 108 courses through the HEMBA system.
+6. By  minimize  the  limits  of  education  (time,  place,  cost)  through  distance  learning technologies  and  in order to provide  individuals with  access  to lifelong learning opportunities  through  distance  education,  the  Public  Education  Centers  Information Network  (HEMBA)  Platform  has  been  established.  HEMBA  is  available  for  Turkish citizens  aged  15  and  above.  With  HEMBA,  the  contents  of  adult  education  have  been transferred to  a digital platform.  In the 2023, 557,283 citizens have benefited from 108 courses through the HEMBA system.
 
-- In the context of basic education, primary education-based teaching programs that include digital competencies are implemented in elective courses such as "robotic coding, artificial intelligence applications and project design and applications".
+7. In the context of basic education, primary education-based teaching programs that include digital competencies are implemented in elective courses such as "robotic coding, artificial intelligence applications and project design and applications".
 
-- Various textbooks contain a variety of digital content that students can access via QR codes.
+8. Various textbooks contain a variety of digital content that students can access via QR codes.
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
@@ -1660,7 +1670,7 @@ The project objectives include creating a digital teacher competency framework, 
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1698,13 +1708,13 @@ https://hbogm.meb.gov.tr/www/izleme-degerlendirme-raporlari/kategori/104
 
 ☐ Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
 ☐ Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
