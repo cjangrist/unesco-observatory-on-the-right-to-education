@@ -2,6 +2,9 @@
 
 AFRICAN DEVELOPMENT FUND
 
+Language: English
+Original: French
+
 REPUBLIC OF GUINEA
 
 # BASIC EDUCATION DEVELOPMENT SUPPORT PROJECT
@@ -10,9 +13,11 @@ REPUBLIC OF GUINEA
 
 ## APPRAISAL REPORT
 
-COUNTRY DEPARTMENT OCSD WEST AND CENTRAL REGIONS April 2005
+COUNTRY DEPARTMENT
+WEST AND CENTRAL REGIONS
 
-Language: English Original: French
+OCSD
+April 2005
 
 [[END OF PAGE 1]]
 
@@ -20,9 +25,57 @@ Language: English Original: French
 
 # TABLE OF CONTENTS
 
+Page
+
+PROJECT INFORMATION SHEET, CURRENCIES AND MEASURES, LIST OF TABLES, LIST OF ANNEXES, LIST OF ABBREVIATIONS, BASIC DATA, EXECUTIVE SUMMARY, PROJECT LOGICAL FRAMEWORK (i – xii)
+
+1. ORIGIN AND HISTORY OF THE PROJECT ..................................................................1
+2. THE EDUCATION SECTOR.............................................................................................1
+2.1 The Education System..........................................................................................................1
+2.2 Institutional Framework .....................................................................................................3
+2.3 The Government’s Education and Training Policy.............................................................4
+2.4 Financing…….....................................................................................................................5
+2.5 Donor’s Operations in the Sector ........................................................................................5
+2.6 Constraints on the Sector.....................................................................................................6
+3. PROJECT AREAS..............................................................................................................7
+3.1 Access, Equity and Quality of Basic Education..................................................................7
+3.2 Management Capacity of the Education System...............................................................10
+4. THE PROJECT…… .........................................................................................................12
+4.1 Project Design and Formulation........................................................................................12
+4.2 Target Areas and Project Beneficiaries.............................................................................13
+4.3 Project Strategic Context...................................................................................................14
+4.4 Project Objectives..............................................................................................................15
+4.5 Project Description and Output .........................................................................................15
+4.6 Environmental Impact .......................................................................................................18
+4.7 Project Costs……………………………………………………………….......................19
+4.8 Sources of Financing and Expenditure Schedule..............................................................20
+5. PROJECT IMPLEMENTATION .....................................................................................21
+5.1 Executing Agency ……………………………………………...… .........................……21
+5.2 Institutional Arrangements................................................................................................22
+5.3 Implementation Schedule ..................................................................................................23
+5.4 Procurement Arrangements ...............................................................................................23
+5.5 Disbursements ...................................................................................................................26
+5.6 Accounting and Audit........................................................................................................27
+5.7 Monitoring and Evaluation................................................................................................27
+5.8 Aid Coordination...............................................................................................................28
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+6. RECURRENT COSTS AND PROJECT SUSTAINABILITY ........................................28
+6.1 Project Recurrent Costs.....................................................................................................28
+6.2 Project Sustainability.........................................................................................................29
+6.3 Project Risks and Mitigating Measures ............................................................................29
+7. PROJECT BENEFITS .....................................................................................................30
+7.1 Project Economic Benefits ................................................................................................29
+7.2 Analysis of Social Impact…..............................................................................................30
+7.3 Impact on Gender ................ …………………………………………………………… 30
+8. CONCLUSIONS AND RECOMMENDATIONS............................................................31
+8.1 Conclusions… ...................................................................................................................31
+8.2 Recommendations and Grant Conditions..........................................................................32
+
+# ANNEXES
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -46,25 +99,25 @@ Date: March 2005
 
 The  information  given  hereunder  is  intended  to  provide  some  guidance  to  prospective suppliers,  contractors,  consultants  and  all  persons  interested  in  the  procurement  of  goods  and services  for  projects  approved  by  the  Board  of  Directors  of  the  Bank  Group.  More  detailed information should be obtained from the Executing Agency of the Borrower.
 
-## COUNTRY AND PROJECT :
+## 1. COUNTRY AND PROJECT :
 
-Guinea - Support for Development of Basic Education (Education IV Project)
+Guinea – Support for Development of Basic Education (Education IV Project)
 
-## LOCATION :
+## 2. LOCATION :
 
-- N'zérékoré, Kankan and Boké regions for the construction of school infrastructures;
+- N’zérékoré, Kankan and Boké regions for the construction of school infrastructures;
 
 - Countrywide, for actions aimed at improving equity and quality
 
-## BORROWER :
+## 3. BORROWER :
 
 Republic of Guinea
 
-## EXECUTING AGENCY :
+## 4. EXECUTING AGENCY :
 
-Service National des Infrastructures et Equipements
+Service National des Infrastructures et Equipements Scolaires (SNIES), part of the Ministry of Pre-University and Civic Education
 
-Scolaires (SNIES),  part  of  the  Ministry  of  Pre- University and Civic Education BP 2201 Conakry
+BP 2201 Conakry
 
 Tel. (224) 45 19 15 / 45 42 05
 
@@ -72,23 +125,23 @@ Fax (224) 41 31 45
 
 ## 5.   PROJECT DESCRIPTION
 
-The sector goal of the project, which is aligned with the main objective of the Government of Guinea's Education for All (EFA) programme, is to contribute to universal primary education and to the equitable development of the entire education system. The specific objectives of the project  are  to:  i)  improve  access,  equity  and  quality  of  basic  education;  and  ii)  strengthen  the management  capacity  of  the  education  system.  Based  on  these  objectives,  three  project components  were  defined:  i)  improvement  of  school  coverage,  equity  and  quality  of  basic education; ii) institutional support; and iii) project management.
+The sector goal of the project, which is aligned with the main objective of the Government of Guinea’s Education for All (EFA) programme, is to contribute to universal primary education and to the equitable development of the entire education system. The specific objectives of the project are to: i) improve access, equity and quality of basic education; and ii) strengthen the management capacity of the education system. Based on these objectives, three project components were defined: i) improvement of school coverage, equity and quality of basic education; ii) institutional support; and iii) project management.
 
 ## 6. TOTAL COST OF PROJECT
 
-- Foreign exchange :
+i) Foreign exchange :
 
 UA 9.17 million
 
-- ii) Local currency :
+ii) Local currency :
 
 UA 6.43 million
 
-- iii) Total cost :
+iii) Total cost :
 
 UA 15.60 million
 
-## AFRICAN DEVELOPMENT FUND
+## 7. AFRICAN DEVELOPMENT FUND
 
 Grant :
 
@@ -106,11 +159,11 @@ Government of Guinea :
 
 UA 1.60 million
 
-## DATE OF APPROVAL OF BANK GROUP GRANT :
+## 9. DATE OF APPROVAL OF BANK GROUP GRANT :
 
 May 2005
 
-## ESTIMATED  PROJECT START-UP DATE AND DURATION:
+## 10. ESTIMATED PROJECT START-UP DATE AND DURATION:
 
 September 2005; 5 years
 
@@ -132,7 +185,7 @@ Goods, works and services will be procured in accordance with ADF Rules of Proce
 
 (iii) International  Shopping  for  Suppliers  for  the  procurement  of  teaching  materials  for primary and secondary schools, and for the Teachers' Training College.
 
-(iv) Direct  purchase  from  publishers  who  hold  exclusive  reproduction  rights  on  school manuals and teachers' guides (language, French, natural sciences, mathematics, historygeography, civics and moral education). These are specialized manuals that can only be reproduced by publishers who hold exclusive rights.
+(iv) Direct purchase from publishers who hold exclusive reproduction rights on school manuals and teachers’ guides (language, French, natural sciences, mathematics, history-geography, civics and moral education). These are specialized manuals that can only be reproduced by publishers who hold exclusive rights.
 
 [[END OF PAGE 5]]
 
@@ -334,6 +387,51 @@ v
 
 # LIST OF ABBREVIATIONS
 
+AFD French Development Agency
+BAC High School Diploma (Baccalauréat)
+BEPC Primary School Certificate (Brevet d’études du premier cycle)
+CEC Community Education Centre
+CEPE Certificat d’études primaire élémentaire (Elementary School Certificate)
+CGEES Committee for the Management of Equity in Higher Education
+CIDA Canadian International Development Agency
+COGETEP Comité de gestion de l’équité dans l’enseignement technique et professionnel (Gender and Equity Committee in Technical and Vocational Education)
+CONEBAT National Commission for Education for All
+CWIQ Core Well-being Indicators Questionnaire
+DNEE Directorate of Primary Education
+DNES National Directorate of Secondary Education
+DNSSU National Directorate of School and University Health
+DPE Directorate of Education at the Prefecture
+DPSP Education Delegate at the Sub-prefecture
+ED Early Development
+EFA Education for all
+EFA/AP Education for all / Accelerated Procedures
+ENAM Ecole nationale des arts et métiers (National School of Arts and Crafts)
+ENEPS Higher Institute of Physical Education and Sports
+ENI Teacher Training Institute
+FEPAGUI Federation of pupils’ parents and friends of schools in Guinea
+GER Gross Enrolment Rate
+GNF Guinean franc
+GTZ German Technical Cooperation
+INRAP National Institute for Education Action and Research
+IRE Regional Inspectorate of Education
+ISSEG Higher Institute of Education Sciences of Guinea
+JICA Japan International Cooperation Agency
+KFW Kreditansalt Für Wiederaufbau
+MASPFE Ministry of Social Affairs and the Promotion of Women and Children
+MEPU-EC Ministry of Pre-University and Civic Education
+MESRS Ministry of Higher Education and Scientific Research
+METFP Ministry of Technical Education and Vocational Training
+NGO Non-governmental organization
+PASE Educational Sector Adjustment Programme
+PDSD Sustainable Social Development Project (Projet de développement social durable)
+RDC Rural Development Community
+SGIE Education Information Management System
+SNED National Distance Learning Service
+SNIES National Infrastructure and School Equipment Service
+SSP Statistics and Planning Service
+UNICEF United Nations Children’s Fund
+USAID United States Agency for International Development
+
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
@@ -344,10 +442,10 @@ vi
 
 -
 
-Year | Guinea | Africa | Developing Countries | Developed Countries
---- | --- | --- | --- | --- | --- | ---
+Indicator | Year | Guinea | Africa | Developing Countries | Developed Countries
+--- | --- | --- | --- | --- | ---
 Basic Indicators
-Area ('000 Km²) | 246 | 30 061 | 80 976 | 54 658 | GNI per capita US $
+Area ('000 Km²) |  | 246 | 30 061 | 80 976 | 54 658
 Total Population (millions) | 2002 | 8.4 | 831.0 | 5 024.6 | 1 200.3
 Urban Population (% of Total) | 2002 | 32.0 | 38.6 | 43.1 | 78.0
 Population Density (per Km²) | 2002 | 34.0 | 27.6 | 60.6 | 22.9
@@ -356,11 +454,11 @@ Labour Force Participation - Total (%) | 2002 | 49.4 | 43.1 | 45.6 | 54.6
 Labour Force Participation - Female (%) | 2002 | 47.1 | 33.8 | 39.7 | 44.9
 Gender-Related Development Index Value | 1997 | 0.381 | 0.484 | 0.655 | 0.905
 Human Development Index (Rank among 174 countries) | 2001 | 157 | n.a. | n.a. | n.a.
-Population living below $ 1 a day (%) | 1991 | 26.3 | 46.7 | 23.0 | 20.0 | Guinea Africa
+Population living below $ 1 a day (%) | 1991 | 26.3 | 46.7 | 23.0 | 20.0
 Demographic Indicators
 Population Growth Rate - Total (%) | 2002 | 1.4 | 2.2 | 1.7 | 0.6
 Population Growth Rate - Urban (%) | 2002 | 4.7 | 3.9 | 2.9 | 0.5
-Population < 15 years (%) | 2002 | 44.8 | 43.2 | 32.4 | 18.0 | Population Growth Rate (%)
+Population < 15 years (%) | 2002 | 44.8 | 43.2 | 32.4 | 18.0
 Population >= 65 years (%) | 2002 | 2.9 | 3.3 | 5.1 | 14.3
 Dependency Ratio (%) | 2002 | 88.6 | 86.6 | 61.1 | 48.3
 Sex Ratio (per 100 female) | 2002 | 101.3 | 98.9 | 103.3 | 94.7
@@ -371,12 +469,12 @@ Crude Birth Rate (per 1000) | 2002 | 42.9 | 37.3 | 24.0 | 12.0
 Crude Death Rate (per 1000) | 2002 | 16.1 | 15.3 | 8.4 | 10.3
 Child Mortality Rate (per 1000) | 2002 | 101.7 | 81.9 | 60.9 | 7.5
 Under-five Mortality Rate (per 1000) | 2002 | 176.0 | 135.6 | 79.8 | 10.2
-Maternal Mortality Rate (per 100,000) | 1999 | 528 | 641 | 440 | 13 | Guinea Africa
+Maternal Mortality Rate (per 100,000) | 1999 | 528 | 641 | 440 | 13
 Total Fertility Rate (per woman) | 2002 | 5.8 | 4.9 | 2.8 | 1.7
 Women Using Contraception (%) | 1999 | 6.2 | 40.0 | 59.0 | 74.0
 Health and Nutrition Indicators
-Physicians (per 100,000 people) | 1999 | 10.7 | 57.6 | 78.0 | 287.0 | Life Expectancy at Birth
-Nurses (per 100,000 people) | 1995 | 55.7 | 105.8 | 98.0 | 782.0 | (Years)
+Physicians (per 100,000 people) | 1999 | 10.7 | 57.6 | 78.0 | 287.0
+Nurses (per 100,000 people) | 1995 | 55.7 | 105.8 | 98.0 | 782.0
 Births Attended by Trained Health Personnel (%) | 1999 | 35.0 | 38.0 | 56.0 | 99.0
 Access to Safe Water (% of Population) | 2000 | 48.0 | 60.3 | 78.0 | 100.0
 Access to Health Services (% of Population) | 1992 | 45.0 | 61.7 | 80.0 | 100.0
@@ -385,31 +483,45 @@ Percentage of Adults (aged 15-49) Living with HIV/AIDS | 1999 | 1.5 | 5.7 | 1.3 
 Incidence of Tuberculosis (per 100,000) | 1999 | 63.0 | 198.0 | 144.0 | 11.0
 Child Immunization Against Tuberculosis (%) | 2002 | 71.0 | 76.4 | 82.0 | 93.0
 Child Immunization Against Measles (%) | 2002 | 61.0 | 67.7 | 73.0 | 90.0
-Underweight Children (% of children under 5 years) | 1999 | 23.2 | 25.9 | 31.0 | … | Africa Africa Guinea
+Underweight Children (% of children under 5 years) | 1999 | 23.2 | 25.9 | 31.0 | …
 Daily Calorie Supply per Capita | 2001 | 2 362 | 2 444 | 2 675 | 3 285
 Public Expenditure on Health (as % of GDP) | 1998 | 2.2 | 3.3 | 1.8 | 6.3
 Education Indicators
 Gross Enrolment Ratio (%)
-Primary School - Total | 2000 | 67.0 | 89.2 | 91.0 | 102.3 | Infant Mortality Rate (Per 1000)
+Primary School - Total | 2000 | 67.0 | 89.2 | 91.0 | 102.3
 Primary School - Female | 2000 | 56.0 | 83.7 | 105.0 | 102.0
 Secondary School - Total | 1998 | 13.8 | 40.8 | 88.0 | 99.5
 Secondary School - Female | 1999 | 7.3 | 38.2 | 45.8 | 100.8
 Primary School Female Teaching Staff (% of Total) | 1999 | 25.0 | 49.9 | 51.0 | 82.0
 Adult Illiteracy Rate - Total (%) | 2000 | … | 37.9 | 26.6 | 1.2
 Adult Illiteracy Rate - Male (%) | 2002 | … | 29.2 | 19.0 | 0.8
-Adult Illiteracy Rate - Female (%) | 2000 | … | 46.4 | 34.2 | 1.6 5.9
-Percentage of GDP Spent on Education | 1998 | 1.8 | 3.5 | 3.9
+Adult Illiteracy Rate - Female (%) | 2000 | … | 46.4 | 34.2 | 1.6
+Percentage of GDP Spent on Education | 1998 | 1.8 | 3.5 | 3.9 | 5.9
 Environmental Indicators
 Arable Land as % of Total Land Area | 2002 | 3.6 | 6.2 | 9.9 | 11.6
 Annual Rate of Deforestation (%) | 1995 | 1.1 | 0.7 | 0.4 | -0.2
-Annual Rate of Reaforestation (%) | 1990 | 5.0 | 4.0 | … | … | Africa Guinea
+Annual Rate of Reaforestation (%) | 1990 | 5.0 | 4.0 | … | …
 Per Capita CO2 Emissions (metric tons) | 1998 | 0.2 | 1.1 | 1.9 | 12.3
 
-Source: Compiled by the Statistics Division from ADB databases; UNAIDS database; World Bank
+Source: Compiled by the Statistics Division from ADB databases; UNAIDS database; World Bank Live Database and United Nations Population Division.
 
-Live Database and United Nations Population Division.
+Notes: n.a. = Not Applicable    ... = Data not Available
 
-Notes:      n.a.  =  Not Applicable                                 ...   = Data not Available
+GNI per capita US $
+Guinea
+Africa
+
+Population Growth Rate (%)
+Guinea
+Africa
+
+Life Expectancy at Birth (Years)
+Guinea
+Africa
+
+Infant Mortality Rate (Per 1000)
+Guinea
+Africa
 
 [[END OF PAGE 9]]
 
@@ -445,7 +557,7 @@ The sector goal of the project is to contribute to universal primary education, 
 
 ## 4. PROJECT OUTPUTS
 
-4.1 The project comprises four components and four expenditure categories: A - Works; B Goods; C - Services; and D - Operations. Component 1 relates specifically to the construction of school infrastructure for primary and secondary schools. In this regard, 90 new classrooms and 5 secondary schools will be built in the project zones, with a view to improving access and equity. As  well,  initiatives  to  promote  girl's  education,  gender-based  training  for  teachers,  and  the integration of issues related to health/HIV/AIDS in the education community are also planned. In addition, actions aimed  at strengthening the internal efficiency of the systems will be implemented. These include, the construction of a Teachers' Training College (TTC) to increase the number of new teachers, and the provision of educational materials to pupils and instructional materials to teachers.
+4.1 The project comprises four components and four expenditure categories: A - Works; B - Goods; C - Services; and D – Operations. Component 1 relates specifically to the construction of school infrastructure for primary and secondary schools. In this regard, 90 new classrooms and 5 secondary schools will be built in the project zones, with a view to improving access and equity. As well, initiatives to promote girl’s education, gender-based training for teachers, and the integration of issues related to health/HIV/AIDS in the education community are also planned. In addition, actions aimed at strengthening the internal efficiency of the systems will be implemented. These include, the construction of a Teachers’ Training College (TTC) to increase the number of new teachers, and the provision of educational materials to pupils and instructional materials to teachers.
 
 4.2 Under  the  institutional  support  component,  the  project  will  provide  support  to  the different  directorates  and  technical  services  of  the  Ministry  of  Pre-University  and  Civic Education (MEPU-EC), which is responsible for missions that are essential for the analysis and efficient  management  of  educational  information,  planning  and  management  of  the  system, assessment  of  quality  and  coordination  of  actions  in  the  sector.  To  this  end,  specific  training courses are planned for those responsible at the central and deconcentrated levels. Equipment and work  tools  as  well  as  technical  assistance  will  also  be  provided  with  a  view  to  building institutional and technical capacity.
 
@@ -459,35 +571,31 @@ ix
 
 The cost of the project, net of taxes and customs duty, is as follows:
 
-- Foreign exchange :
+i) Foreign exchange :
 
 UA 9.17 million
 
-- ii) Local currency :
+ii) Local currency :
 
 UA 6.43 million
 
-- iii) Total cost :
+iii) Total cost :
 
 UA 15.60 million
 
 ## 6. BANK GROUP GRANT
 
-Grant
+Grant : UA 14 million
 
-GOVERNMENT
+GOVERNMENT : UA 1.60 million
 
 ## 7. PROJECT IMPLEMENTATION
 
-The  project  will  be  implemented  by  the  Government  through  the  National  School Equipment  and  Infrastructure  Service  ( Service  National  des  Infrastructures  et  Equipements Scolaires--SNIES) of the MEPU-EC, which was the executing agency for the recently completed project.  To  ensure  smooth  coordination  of  the  project  with  the  operations  of  the  other  donors, supervision of the project will be entrusted to the EFAP Steering Committee, whose membership has been expanded to include representatives of the Ministry of Finance and Economy and the Ministry of Plan.
+The project will be implemented by the Government through the National School Equipment and Infrastructure Service (Service National des Infrastructures et Equipements Scolaires--SNIES) of the MEPU-EC, which was the executing agency for the recently completed project. To ensure smooth coordination of the project with the operations of the other donors, supervision of the project will be entrusted to the EFAP Steering Committee, whose membership has been expanded to include representatives of the Ministry of Finance and Economy and the Ministry of Plan.
 
 ## 8. CONCLUSIONS AND RECOMMENDATIONS
 
-The  project  is  underpinned  by  EFAP  objectives,  and  thus  supports  the  Government's education policy, in accordance with the intervention policy of the Bank Group. It will contribute to the development of basic education by increasing intake capacity at the primary and secondary school  levels  through  the  construction  of  90  classrooms  and  5  rural  secondary  schools,  which represents 2700 additional places at the primary level, and 800 additional places at the secondary level.  It  will  help  expand  the  capacity  to  train  trainers  by  creating  about  300  additional  places each year in the TTC (representing more than 10 percent of the Government's annual need for training teachers), through the construction of the TTC.  The project also plans training activities aimed at enhancing equity and strengthening the management of the education system through a series  of  trainings  provided  either  abroad  or  locally,  thus  contributing,  in  concert  with  other ongoing  operations,  to  the  achievement  of  the  Millennium  Development  Goals  related  to education and training
-
-: UA 14 million
-
-: UA 1.60 million
+The project is underpinned by EFAP objectives, and thus supports the Government’s education policy, in accordance with the intervention policy of the Bank Group. It will contribute to the development of basic education by increasing intake capacity at the primary and secondary school levels through the construction of 90 classrooms and 5 rural secondary schools, which represents 2700 additional places at the primary level, and 800 additional places at the secondary level. It will help expand the capacity to train trainers by creating about 300 additional places each year in the TTC (representing more than 10 percent of the Government’s annual need for training teachers), through the construction of the TTC. The project also plans training activities aimed at enhancing equity and strengthening the management of the education system through a series of trainings provided either abroad or locally, thus contributing, in concert with other ongoing operations, to the achievement of the Millennium Development Goals related to education and training
 
 [[END OF PAGE 12]]
 
@@ -519,8 +627,7 @@ OUTPUT
 1 Ninety (90) classrooms, 90 staff houses; 30 water points are constructed | 1.1 From 2008, the Boké, Kankan and N'zérékoré regions annually enrol about 1900 new pupils at the primary level and about 2700 from 2010 | 1.1.1 Works acceptance reports; Project Steering Committee and Bank supervision reports; SNIES activity reports project indicator monitoring report | 1.1.1.1 The EFAP continues to be implemented and is supported by donors
 2 Five (5) secondary schools in rural areas; 20 staff houses; solar energy units for the secondary schools | 2.1 In 2010, the Boké, Kankan and N'zérékoré regions enrol each year about 800 additional new students in the 7 th grade, enrolling at least 500 per year from 2008 | 2.1.1 Idem | 2.1.1.1 Idem
 3 One (1) TTC is built in Guéckédou | 3.1 From 2008, the education system has an additional 300 new teachers trained each year, including at least 100 female teachers | 3.1.1 Idem | 3.1.1.1 Idem
-4 One thousand seven hundred (1700) primary schools are provided with school manuals and teacher's guides and | 4.1 The national repeater rate in the 5 th year falls from | 4.1.1 Project Steering Committee and supervision reports; SNIES activity | 4.1.1.1 Idem
-common instructional materials | 14.56% in 2004 to 14% in 2008, and 13 % in 2010 | Bank reports project indicator monitoring report
+4 One thousand seven hundred (1700) primary schools are provided with school manuals and teacher’s guides and common instructional materials | 4.1 The national repeater rate in the 5th year falls from 14.56% in 2004 to 14% in 2008, and 13 % in 2010 | 4.1.1 Project Steering Committee and Bank supervision reports; SNIES activity reports project indicator monitoring report | 4.1.1.1 Idem
 
 [[END OF PAGE 14]]
 
@@ -530,11 +637,45 @@ xii
 
 HIERARCHY OF OBJECTIVES | OBJECTIVELY VERIFIABLE INDICATORS | MEANS OF VERIFICATION | IMPORTANT ASSUMPTIONS
 --- | --- | --- | ---
-5 About 5000 disadvantaged girls in the Boké, Kankan and N'zérékoré regions receive free schoolbags and school supplies 6 A study of the impact of HIV/AIDS on in the education community is conducted 7 Various training courses, locally and abroad, for managers of MEPU-EC technical services, including SNEP are carried out 8 Training in the maintenance of infrastructure, furniture, and school equipment for 10 DES staff ACTIVITIES 1. Architectural and engineering designs 2 Supervision and works 3 Recruitment of consultants for the provision of various services 4 Procurement of goods 5 Management, monitoring-evaluation | 5.1 The boy/girl ratio at the primary level has changed in the 3 project areas as follows: Boké: from 1.37 in 2004 to 1.25 in 2008 and 1.10 in 2010; Kankan: from 1.45 in 2004 to 1.35 in 2008, and 1.20 in 2010; N'zérékoré: from 1.38 in 2004, to 1.25 in 2008, and 1.10 in 2010 6.1 From 2007, information on the impact of HIV/AIDS in the education community is available and leads to implementation of measures related to health in schools 7.1 In 2010, 154 managers from central and deconcentrated MEPU-EC offices and 4 SNEP staff efficiently manage the resources at their disposal and coordinate their activities; in 2008, at least 95 managers from central and decentralized MEPU-EC officers and 2 SNEP staff are trained and use the new skills acquired in their work. 8.1 From 2008, the infrastructures, furniture and schoo equipment acquired are better maintained. Project cost by source of finance (in UA million) Grant : 14.00 Government : 1.60 Tota l : 15.60 Project costs by category of financing (in UA million) | 5.1.1 Idem 6.1.1 Report from the Service Responsible for health in schools; SNIES activities report; Bank supervision report 7.1.1 Project mid-term review report and annual review of EFAP implementation report; Project Steering Committee supervision report 8.1.1 Project Steering Committee and Bank supervision reports; SNIES activities report Bank disbursement documents; project bank statements; SNIES activities report; audit reports and supervision reports | 5.1.1.1 Le Idem 6.1.1.1 Idem 7.1.1.1 Idem 8.1.1.1 Idem The EFAP continues to be implemented and is still supported by donors
+5 About 5000 disadvantaged girls in the Boké, Kankan and N’zérékoré regions receive free schoolbags and school supplies | 5.1 The boy/girl ratio at the primary level has changed in the 3 project areas as follows: Boké: from 1.37 in 2004 to 1.25 in 2008 and 1.10 in 2010; Kankan: from 1.45 in 2004 to 1.35 in 2008, and 1.20 in 2010; N’zérékoré: from 1.38 in 2004, to 1.25 in 2008, and 1.10 in 2010 | 5.1.1 Idem | 5.1.1.1 Le Idem
+6 A study of the impact of HIV/AIDS on in the education community is conducted | 6.1 From 2007, information on the impact of HIV/AIDS in the education community is available and leads to implementation of measures related to health in schools | 6.1.1 Report from the Service Responsible for health in schools; SNIES activities report; Bank supervision report | 6.1.1.1 Idem
+7 Various training courses, locally and abroad, for managers of MEPU-EC technical services, including SNEP are carried out | 7.1 In 2010, 154 managers from central and deconcentrated MEPU-EC offices and 4 SNEP staff efficiently manage the resources at their disposal and coordinate their activities; in 2008, at least 95 managers from central and decentralized MEPU-EC officers and 2 SNEP staff are trained and use the new skills acquired in their work. | 7.1.1 Project mid-term review report and annual review of EFAP implementation report; Project Steering Committee supervision report | 7.1.1.1 Idem
+8 Training in the maintenance of infrastructure, furniture, and school equipment for 10 DES staff | 8.1 From 2008, the infrastructures, furniture and school equipment acquired are better maintained. | 8.1.1 Project Steering Committee and Bank supervision reports; SNIES activities report | 8.1.1.1 Idem
+
+ACTIVITIES
+
+1. Architectural and engineering designs
+2 Supervision and works
+3 Recruitment of consultants for the provision of various services
+4 Procurement of goods
+5 Management, monitoring-evaluation of project
+
+Project cost by source of finance
+(in UA million)
+
+Grant : 14.00
+Government : 1.60
+Total : 15.60
+
+Project costs by category of financing
+(in UA million)
+
+ | Total | ADF | Gvt
+Works | 5.07 | 3.79 | 1.28
+Goods | 5.52 | 5.52 | ---
+Services | 4.11 | 4.11 | ---
+Operations | 0.90 | 0.59 | 0.31
+Total | 15.60 | 14.00 | 1.60
+
+Bank disbursement documents; project bank statements; SNIES activities report; audit reports and supervision reports
+
+The EFAP continues to be implemented and is still supported by donors
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+1
 
 # 1. PROJECT ORIGIN AND HISTORY
 
@@ -641,7 +782,7 @@ Source: Chain of Expenditure/ MEF
 
 6
 
-2.5.2 The  operations  of  the  different  partners  are  complementary  and  present  a  great potential  for  synergy.  Some  of  the  support  contributes  to  the  implementation  of  macroeconomic  policies  and  the  control  of  budgetary  expenditure,  while  other  support  helps increase the level of literacy and basic education of the population, through the construction of school infrastructure, the training of teachers, the procurement of equipment, and technical assistance for MEPU-EC. UNICEF, the World Bank and the PAM develop, among others, health  activities  in  schools;  USAID,  Japan,  Canada,  Germany,  UNICEF,  PAM  support activities  related  to  girls'  education.  Other  activities,  including  the  decentralization  of  the education system, support for the information and communication system, nutrition, literacy and vocational training, have also been developed, with the support of development partners. Details of donors' interventions are included in Annex 2. These are significant contributions, however,  given  the  constraints  on  the  system,  a  lot  more  effort  is  required  to  achieve  the Millennium Development Goals which the country has adopted.
+2.5.2 The operations of the different partners are complementary and present a great potential for synergy. Some of the support contributes to the implementation of macro-economic policies and the control of budgetary expenditure, while other support helps increase the level of literacy and basic education of the population, through the construction of school infrastructure, the training of teachers, the procurement of equipment, and technical assistance for MEPU-EC. UNICEF, the World Bank and the PAM develop, among others, health activities in schools; USAID, Japan, Canada, Germany, UNICEF, PAM support activities related to girls’ education. Other activities, including the decentralization of the education system, support for the information and communication system, nutrition, literacy and vocational training, have also been developed, with the support of development partners. Details of donors’ interventions are included in Annex 2. These are significant contributions, however, given the constraints on the system, a lot more effort is required to achieve the Millennium Development Goals which the country has adopted.
 
 ## 2.6 Constraints on the Sector
 
@@ -773,7 +914,7 @@ The elaboration  of  the  project  takes  into  account  the  combined  impact  
 
 ### Beneficiary Populations
 
-4.2.3 The  principal  beneficiaries  of  the  project  are  school-age  children  (about  2700 additional pupils in primary education), and the populations in the three target zones. In the project areas, 5 000 girls at the primary school level will receive school kits. The construction of  90  classrooms  and  5  secondary  schools  will  resolve  problems  of  non-attendance  by reducing school distance. The construction of secondary schools will increase intake capacity by about 1 000 additional pupils, which should reduce the phenomenon of deschooling which is  a  consequence  of  limited  access  to  the  secondary  level.  All  the  head  teachers  (6500)  of public primary schools, and the 500 directors of private establishments will be trained in a skills-based approach which has already been experimented by INRAP. Another category of beneficiaries is the more than 5000 teachers who will be trained. In addition, 10 DES staff will  be  trained  in  maintenance  of  school  infrastructure,  furniture  and  equipment.  Finally, approximately 300 new teachers, representing more than 10 percent of the annual training needs  for  teachers,  will  be  trained  per  year,  which  should  help  improve  the  pupil/teacher ratio.
+4.2.3 The principal beneficiaries of the project are school-age children (about 2700 additional pupils in primary education), and the populations in the three target zones. In the project areas, 5 000 girls at the primary school level will receive school kits. The construction
 
 [[END OF PAGE 28]]
 
@@ -781,19 +922,23 @@ The elaboration  of  the  project  takes  into  account  the  combined  impact  
 
 14
 
+of 90 classrooms and 5 secondary schools will resolve problems of non-attendance by reducing school distance. The construction of secondary schools will increase intake capacity by about 1 000 additional pupils, which should reduce the phenomenon of deschooling which is a consequence of limited access to the secondary level. All the head teachers (6500) of public primary schools, and the 500 directors of private establishments will be trained in a skills-based approach which has already been experimented by INRAP. Another category of beneficiaries is the more than 5000 teachers who will be trained. In addition, 10 DES staff will be trained in maintenance of school infrastructure, furniture and equipment. Finally, approximately 300 new teachers, representing more than 10 percent of the annual training needs for teachers, will be trained per year, which should help improve the pupil/teacher ratio.
+
 4.2.4 Professional  development  and  coaching  of  teachers  by  INRAP  will  help  them improve  their  performance.  In  addition,  the  provision  of  teaching  materials  and  other reference manuals to approximately 1 700 schools (most with incomplete cycles) located in rural  areas  within  the  three  project  zones  will  help  retain  teachers  and  improve  their performance. The capacities of managers at the central and decentralized MEPU-EC offices will  be  strengthened  under  institutional  and  technical  capacity  building.  This  involves training abroad in education planning for 24 staff from the decentralized DNES and DNEE offices, 2 staff from the SSP, and 4 managers from SNEP; local training for 60 IRE, DEV, and  DCE  managers  in  education  planning,  management  and  administration;  and  computer training for 68 managers from DPE, DCE, IRE and DEV. The organization of a study tour abroad for 2 SNEP managers will also help strengthen management capacity.
 
 ## 4.3 Project Strategic Context
 
 4.3.1 The  project  was  appraised  under  special  circumstances  because  Guinea  is  in discussions  with  the  IMF  to  conclude  a  shadow  programme  that  is  necessary  for  a  Poverty Reduction and Growth Facility (PRGF) and at a delicate time with respect to consolidating gains in education, because  of poor  economic  performance.  Limitation  of  resources  has  affected  the achievement  of  objectives  set  under  the  poverty  reduction  framework  and,  consequently,  in  social sectors. It should be noted, however, that the appraisal period is characterized by strong mobilization of all actors around the EFAP with a view to consolidating actions to promote education for all, and at a  time  when  coordination  between  development  partners  is  strengthened  by  the  years  of  EFAP implementation. The project is integrated into this participatory dynamic environment through the implementation of activities aimed at increasing access, equity and quality from a systems perspective,  and  strengthening  the  management  capacity  of  the  system.  Since  these  areas reflect the Government's major concerns in the sector, the project will also contribute to the reduction of poverty in Guinea.
 
-4.3.2 The appraisal period is also characterized by a weak economic situation, attributable in part to the effect of the war in the neighbouring countries. The impact of the war on the education  sector  compromises  the  implementation  of  several  objectives,  in  particular, increasing  the  rates  of  enrolment,  attendance  and  completion.  In  fact,  the  destruction  of school infrastructure in areas close to the borders is destabilizing for the education system, and contributes to educational wastage.  With a view to increasing the level of enrolment and to ensuring, to a certain extent, efficiency in the system, particular attention will be paid to regions  affected  by  war  to  help  strengthen  gains  in  the  context  of  social  reconstruction.  It should  be  noted  that  construction  of  school  infrastructure  should  be  accompanied  by  the preparation  of  planning  and  programming  tools  such  as  school  maps,  whose  use  is instrumental for the efficiency of the system.  In addition, since planning for the provision of school infrastructure should be based on a plan to develop the human resources capacity of the sector, implying access to and rational management of a substantial number of qualified teachers, the training of teachers planned under the project is justified, in conformity with the Government's forecasts for the training of new teachers (approximately 2500 per year).
+4.3.2 The appraisal period is also characterized by a weak economic situation, attributable in part to the effect of the war in the neighbouring countries. The impact of the war on the education sector compromises the implementation of several objectives, in particular, increasing the rates of enrolment, attendance and completion. In fact, the destruction of school infrastructure in areas close to the borders is destabilizing for the education system, and contributes to educational wastage. With a view to increasing the level of enrolment and to ensuring, to a certain extent, efficiency in the system, particular attention will be paid to regions affected by war to help strengthen gains in the context of social reconstruction. It should be noted that construction of school infrastructure should be accompanied by the preparation of planning and programming tools such as school maps, whose use is instrumental for the efficiency of the system. In addition, since planning for the provision of
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
 15
+
+school infrastructure should be based on a plan to develop the human resources capacity of the sector, implying access to and rational management of a substantial number of qualified teachers, the training of teachers planned under the project is justified, in conformity with the Government's forecasts for the training of new teachers (approximately 2500 per year).
 
 4.3.3 The objectives of the EFAP are essential elements of the Government's strategy for poverty reduction (final PRS adopted in January 2002 and to be updated for the 2005-2007 period). The Bank's strategy seeks to help reduce the number of poor in the country by 2015 by, among others, improving the access of the poor to quality social services, in particular, basic education. Given that it is based on the EFAP and is, consequently, aligned with the poverty reduction objectives of the Government, the project will contribute to the attainment of the MDGs, in particular with respect to education and the fight against HIV/AIDS.  It is also consistent with the Bank's policy on education and training, population, health and the fight against communicable diseases.
 
@@ -803,7 +948,7 @@ The sector goal of the project is to contribute to universal primary education a
 
 ## 4.5 Project Description and Outputs
 
-4.5.1 The project comprises three components under which activities have been defined based  on  the  analysis  of  the  current  constraints  on  the  system  and  on  actions  currently underway. These components are: i) improving school coverage, equity and quality of basic education; ii) institutional support; and iii) project management. The actions retained under the  components  will  be  implemented  under  four  expenditure  categories:  A  -  works;  B  Goods;  C  -  Services;  D  -  Operations.  The  implementation  of  the  project  involves  the following activities, presented by component.
+4.5.1 The project comprises three components under which activities have been defined based on the analysis of the current constraints on the system and on actions currently underway. These components are: i) improving school coverage, equity and quality of basic education; ii) institutional support; and iii) project management. The actions retained under the components will be implemented under four expenditure categories: A - works; B - Goods; C - Services; D - Operations. The implementation of the project involves the following activities, presented by component.
 
 ### Component I:   Improvement  of    School  Coverage,  Equity  and  Quality  of  Basic Education
 
@@ -839,13 +984,15 @@ The sector goal of the project is to contribute to universal primary education a
 
 4.5.10 To this effect, goods will include 5 computers and a vehicle for the Statistics and Planning Service (SSP), to facilitate the collection, processing, analysis and dissemination of school  statistics.  Services  will  include  training  abroad  (by  private  establishments),  in education  planning,  for  the  DNES  and  DNEE  (24  public  servants  at  the  deconcentrated level), the SSP (2 staff) and the SNEP (4 staff), or a total of 30 people (at least one third of the beneficiaries will be women, and should not be less than 5 years from retirement). Local training (5 days) in education planning, management and administration will also be provided for  IRE,  DEV,  and  DCE  managers  (60  staff).  In  addition,  a  5-day  training  in  information technology will be provided to 68 managers from DPE, DCE, IRE and DEV. Finally, 2-week training  sessions  will  be  organized  for  30  members  of  the  National  Committee  on  Equity ( Comité  national  d'équité) to  help  them  acquire  in-depth  skills  in  gender  equality,  with  a view to helping improve implementation of equity in the education sector. This training will be strengthened by a second 2-week training session, which will be organized one year later, and will seek to ensure the effective application of lessons learned from the previous training. Training will be provided by consultants. Two-week study tours abroad will be organized for 2  SNEP  managers  to  help  improve  management  of  private  education  which  contributes significantly to the achievement of the EFAP objectives. A quota of at least one third women will be systematically imposed in designating beneficiaries.
 
-4.5.11 With  respect  to  building  the  capacity  of  the  SSP,  the  project  will  also  finance  the services of consultants to update the 2006 - 2015 school map, and collect, process, analyse and disseminate school statistics for the primary and secondary sectors (by a statistician /planning specialist). The project also plans to finance the provision of services to support the coordination of  donors'  operations  in  the  education  sector,  update  the  education  and  training  policy,  and monitor project indicators, in relation to the MDGs. These indicators will be gender specific so as to better monitor the level of girls' education with respect to equity. Monitoring indicators related to girls will be the focus of a special review so that appropriate measures may be taken to correct the situation in a timely manner to foster the achievement of objectives related to girls. Operating costs mainly cover the mission allowance of SSP staff to the regions to collect school information, cost of fuel, maintenance and insurance of SSP vehicle, as well as costs incurred for the purchase of computer software and their maintenance.
+4.5.11 With respect to building the capacity of the SSP, the project will also finance the services of consultants to update the 2006 - 2015 school map, and collect, process, analyse and disseminate school statistics for the primary and secondary sectors (by a statistician /planning specialist). The project also plans to finance the provision of services to support the coordination of donors' operations in the education sector, update the education and training policy, and monitor project indicators, in relation to the MDGs. These indicators will be gender specific so as to better monitor the level of girls' education with respect to equity. Monitoring indicators related to girls will be the focus of a special review so that appropriate measures may be taken to
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
 18
+
+correct the situation in a timely manner to foster the achievement of objectives related to girls. Operating costs mainly cover the mission allowance of SSP staff to the regions to collect school information, cost of fuel, maintenance and insurance of SSP vehicle, as well as costs incurred for the purchase of computer software and their maintenance.
 
 ### Component III: Project Management
 
@@ -857,7 +1004,7 @@ The sector goal of the project is to contribute to universal primary education a
 
 4.6.1 The  project is classified in Environmental  Category  II.    Its  impact  on  the environment will be limited since measures will be taken to mitigate the negative impacts of construction works for school infrastructures. In fact, the bidding documents for construction works will include technical provisions to avoid problems related to erosion, gullying, and stagnation  of  water.  Some  works  (water  points)  will  improve  the  quality  of  life  of  the populations  by  providing  them  with  potable  water.  The  identification  of  the  different construction sites will, above all, take into account the environmental impact of constructions,  according  to  type  (for  example,  proximity  between  latrines  and  classrooms, and houses, etc.). Successful bidders for construction works will respect the site evaluation criteria,  as  well  as  measures to protect the environment. The project plans to build latrines that  prevent  pollution  of  the  water  table  in  all  establishments.  Provisions  related  to  the operation of laboratories, or the handling of chemical products will include the treatment of waste so as to limit negative impact on the physical and human environment.
 
-4.6.2 During the execution of construction works, the environmental measures envisaged by  bidders  will  be  part  of  the  bid  evaluation  criteria.  In  addition,  efforts  will  be  made  to ensure  that  the  successful  bidders  for  infrastructure  contracts  take  into  consideration  the mitigative or optimisation measures set out in their specifications on the basis of the physical characteristics of the sites retained. The staff of SNIES, entrepreneurs, parents of pupils and teachers will be sensitised to the environmental rules (planting of trees on the sites retained for the construction of school infrastructure, waste management, evacuation and treatment of liquid/solid waste, management of sanitary facilities, protection of the water table) to ensure that  they  are  respected.  Environmental  monitoring  will  be  done  by  SNIES,  with  the  active collaboration of pupils' parents, MEPU-EC regional representatives. Annex 5 of the report includes a summary of the project's socio-environmental arrangements.
+4.6.2 During the execution of construction works, the environmental measures envisaged by bidders will be part of the bid evaluation criteria. In addition, efforts will be made to ensure that the successful bidders for infrastructure contracts take into consideration the mitigative or optimisation measures set out in their specifications on the basis of the physical characteristics of the sites retained. The staff of SNIES, entrepreneurs, parents of pupils and
 
 [[END OF PAGE 33]]
 
@@ -865,13 +1012,16 @@ The sector goal of the project is to contribute to universal primary education a
 
 19
 
+teachers will be sensitised to the environmental rules (planting of trees on the sites retained for the construction of school infrastructure, waste management, evacuation and treatment of liquid/solid waste, management of sanitary facilities, protection of the water table) to ensure that they are respected. Environmental monitoring will be done by SNIES, with the active collaboration of pupils' parents, MEPU-EC regional representatives. Annex 5 of the report includes a summary of the project's socio-environmental arrangements.
+
 ## 4.7 Project Cost
 
 The  total  cost  of  the  project,  excluding  taxes  and  customs  duties,  is  UA  15.60 million, of which UA 9.17 million in foreign exchange, accounting for 58.78 percent of the total cost of the project, and UA 6.43 million in local currency, accounting for 41.22 percent of the total cost of the project. An average mean reserve of 5 percent for physical contingency and 6 percent per year price contingency have been integrated in the total project cost. The cost  estimates  were  prepared  during  the  appraisal  mission  based  on  information  obtained from  the  MFE,  the  Ministry  of  Pre-University  and  Civic  Education,  the  SNIES  and  other development  partners.  A  summary  of  project  costs  is  included  in  Annex  6  of  this  report. Tables 4.1 and 4.2 below summarize the breakdown of project costs by component and by expenditure category, respectively.
 
-Million GNF | Million UA | % Total Cost
+Tableau 4.1: Project Cost by Component
+
+COMPONENTS | Million GNF F.E. | Million GNF L.C. | Million GNF Total | Million UA F.E. | Million UA L.C. | Million UA Total | % Total Cost
 --- | --- | --- | --- | --- | --- | --- | ---
-COMPONENTS | F.E. | L.C. | Total | F.E. | L.C. | Total
 1 Improvement in school coverage, equity and quality of basic education | 19 385.86 | 14 247.41 | 33 633.27 | 6.61 | 4.86 | 11.47 | 73.54%
 2 Institutional Support | 3 283.49 | 682.68 | 3 966.17 | 1.12 | 0.23 | 1.35 | 8.67%
 3 Project Management | 1 381.12 | 1 702.98 | 3 084.10 | 0.47 | 0.58 | 1.05 | 6.74%
@@ -880,21 +1030,18 @@ Physical Contingency | 1 202.52 | 831.65 | 2 034.18 | 0.41 | 0.28 | 0.69 | 4.45%
 Price Contingency | 1 627.45 | 1 387.36 | 3 014.82 | 0.56 | 0.47 | 1.03 | 6.59%
 Total Project Cost | 26 880.44 | 18 852.09 | 45 732.53 | 9.17 | 6.43 | 15.60 | 100.00%
 
-Tableau 4.1: Project Cost by Component
-
-EXPENDITURE CATÉGORIES | Million GNF | Million UA | % Total Cost
---- | --- | --- | --- | --- | --- | --- | --- | ---
-F.E. | L.C. | Total | F.E. | L.C. | Total
-A | Works | 7 185.70 | 5 879.21 | 13 064.90 | 2.45 | 2.01 | 4.46 | 28.57%
-B | Goods | 10 288.00 | 4 269.24 | 14 557.24 | 3.51 | 1.46 | 4.96 | 31.83%
-C | Services | 6 309.17 | 4 522.23 | 10 831.40 | 2.15 | 1.54 | 3.69 | 23.68%
-D | Operations | 267.60 | 1 962.40 | 2 230.00 | 0.09 | 0.67 | 0.76 | 4.88%
-Total Base | Cost | 24 050.46 | 16 633.07 | 40 683.53 | 8.20 | 5.67 | 13.88 | 88.96%
-Physical Contingency | (5.00%) | 1 202.52 | 831.65 | 2 034.18 | 0.41 | 0.28 | 0.69 | 4.45%
-Price Contingency | (7.06%) | 1 627.45 | 1 387.36 | 3 014.82 | 0.56 | 0.47 | 1.03 | 6.59%
-Total Project Cost | 26 880.44 | 18 852.09 45 732.53 | 9.17 | 6.43 | 15.60 | 100.00%
-
 Table 4.2: Project Cost by Expenditure Category
+
+EXPENDITURE CATÉGORIES | Million GNF F.E. | Million GNF L.C. | Million GNF Total | Million UA F.E. | Million UA L.C. | Million UA Total | % Total Cost
+--- | --- | --- | --- | --- | --- | --- | ---
+A Works | 7 185.70 | 5 879.21 | 13 064.90 | 2.45 | 2.01 | 4.46 | 28.57%
+B Goods | 10 288.00 | 4 269.24 | 14 557.24 | 3.51 | 1.46 | 4.96 | 31.83%
+C Services | 6 309.17 | 4 522.23 | 10 831.40 | 2.15 | 1.54 | 3.69 | 23.68%
+D Operations | 267.60 | 1 962.40 | 2 230.00 | 0.09 | 0.67 | 0.76 | 4.88%
+Total Base Cost | 24 050.46 | 16 633.07 | 40 683.53 | 8.20 | 5.67 | 13.88 | 88.96%
+Physical Contingency (5.00%) | 1 202.52 | 831.65 | 2 034.18 | 0.41 | 0.28 | 0.69 | 4.45%
+Price Contingency (7.06%) | 1 627.45 | 1 387.36 | 3 014.82 | 0.56 | 0.47 | 1.03 | 6.59%
+Total Project Cost | 26 880.44 | 18 852.09 | 45 732.53 | 9.17 | 6.43 | 15.60 | 100.00%
 
 [[END OF PAGE 34]]
 
@@ -906,29 +1053,29 @@ Table 4.2: Project Cost by Expenditure Category
 
 The project will be jointly financed by the ADF and the Government. The grant, in the amount of UA 14 million represents 89.74 percent of the total project cost and covers 100 percent (UA 9.17 million) of the foreign exchange costs and 75.12 percent (UA 4.83 million) of  the  local  currency  costs.  The  grant  resources  will  help  finance  all  components  and  all expenditure categories. The Government's contribution (UA 1.60 million) represents 10.26 percent of total project costs and covers 24.88 percent of local currency costs. It will finance part of the activities of component 1 which concerns improving school coverage, equity and quality  of  basic  education,  and  the  expenditure  categories  related  to,  on  the  one  hand, construction  works  (UA  1.28  million),  and  operating  costs  for  component  III  (UA  0.31 million).  The  list  of  goods  and  services,  presented  in  the  table  in  Annex  7,  as  well  as  in Tables 4.3, 4.4 and 4.5 below, summarizes the breakdown of total project costs by source of financing, foreign and local currency, component and expenditure categories.
 
+Tableau 4.3: Project Cost by Source of Finance
+
 SOURCE | F.E. | %age | L.C. | %age | TOTAL | % Source
 --- | --- | --- | --- | --- | --- | ---
 ADF | 9.17 | 100% | 4.83 | 75.12% | 14.00 | 89.74%
 GVT | - | - | 1.60 | 24.88% | 1.60 | 10.26%
 TOTAL | 9.17 | 100% | 6.43 | 100% | 15.60 | 100.00%
 
-Tableau 4.3: Project Cost by Source of Finance
+Tableau 4.4: Projet Cost by Component and by Source of Finance
+(in million UA)
 
-ADF | GVT | TOTAL | %
+COMPONENT | ADF F.E. | ADF L.C | ADF Total | GVT L.C. | TOTAL F.E. | TOTAL L.C. | TOTAL Total | % Comp.
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-COMPONENT | F.E. | L.C | Total | L.C. | F.E. | L.C. | Total | Comp.
-1 Improvement in coverage, equity and quality of education | 7.42 | 4.19 | 11.61 1.28 | 7.42 | 5.48 | 12.90 | 82.67%
-2 Institutional | Support | 1.23 | 0.27 | 1.50 - | 1.23 | 0.27 | 1.50 | 9.59%
-3 | Project Management | 0.52 | 0.37 | 0.90 0.31 | 0.52 | 0.69 | 1.21 | 7.74%
-Total Project | Cost of | 9.17 | 4.83 | 14.00 1.60 | 9.17 | 6.43 | 15.60 | 100%
+1 Improvement in coverage, equity and quality of education | 7.42 | 4.19 | 11.61 | 1.28 | 7.42 | 5.48 | 12.90 | 82.67%
+2 Institutional Support | 1.23 | 0.27 | 1.50 | - | 1.23 | 0.27 | 1.50 | 9.59%
+3 Project Management | 0.52 | 0.37 | 0.90 | 0.31 | 0.52 | 0.69 | 1.21 | 7.74%
+Total Cost of Project | 9.17 | 4.83 | 14.00 | 1.60 | 9.17 | 6.43 | 15.60 | 100%
 
-Tableau 4.4: Projet Cost by Component and by Source of Finance (in million UA)
+Table 4.5: Projet Cost by Expenditure Category and by Source of Finance
+(in million UA)
 
-Table 4.5: Projet Cost by Expenditure Category and by Source of Finance (in million UA)
-
-FAD | GVT | TOTAL | %
+EXPENDITURE CATEGORY | FAD F.E. | FAD L.C. | FAD Total | GVT L.C. | TOTAL F.E. | TOTAL L.C. | TOTAL Total | % Categ.
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-EXPENDITURE CATEGORY | F.E. | L.C. | Total | L.C. | F.E. | L.C. | Total | Categ.
 A Works | 2.79 | 1.00 | 3.79 | 1.28 | 2.79 | 2.28 | 5.07 | 32.51%
 B Goods | 3.90 | 1.62 | 5.52 | - | 3.90 | 1.62 | 5.52 | 35.38%
 C Services | 2.37 | 1.73 | 4.11 | - | 2.37 | 1.73 | 4.11 | 26.33%
@@ -941,34 +1088,34 @@ Total Cost | 9,17 | 4,83 | 14,00 | 1,60 | 9,17 | 6,43 | 15,60 | 100%
 
 21
 
-Years | Total | %
+Table 4.6: Expenditure Schedule by Component
+(in million UA)
+
+COMPONENTS | 2006 | 2007 | 2008 | 2009 | 2010 | Total | %
 --- | --- | --- | --- | --- | --- | --- | ---
-COMPONENTS | 2006 | 2007 | 2008 | 2009 | 2010
 1 Improvement in coverage, equity and quality of education | 2.21 | 5.89 | 3.63 | 1.17 | 0.00 | 12.90 | 82.67
 2 Institutional Support | 0.45 | 0.39 | 0.36 | 0.27 | 0.02 | 1.50 | 9.59
 3 Project Management | 0.29 | 0.26 | 0.26 | 0.26 | 0.13 | 1.21 | 7.74
 Total Project Cost | 2.96 | 6.54 | 4.26 | 1.70 | 0.15 | 15.60 | 100.00
-Percentage/year | 18.95% | 41.91% | 27.29% | 10.90% | 0.95% | 100%
+Percentage/year | 18.95% | 41.91% | 27.29% | 10.90% | 0.95% | 100% |
 
-Table 4.6: Expenditure Schedule by Component (in million UA)
+Table 4.7: Expenditure Schedule by Expenditure Category
+(in million UA)
 
-Years | Total | %
+CATEGORIES | 2006 | 2007 | 2008 | 2009 | 2010 | Total | %
 --- | --- | --- | --- | --- | --- | --- | ---
-CATEGORIES | 2006 | 2007 | 2008 | 2009 | 2010
 A Works | 0.00 | 2.54 | 2.03 | 0.51 | 0.00 | 5.07 | 32.51
 B Goods | 1.13 | 2.45 | 1.36 | 0.58 | 0.00 | 5.52 | 35.38
 C Services | 1.69 | 1.33 | 0.64 | 0.39 | 0.06 | 4.11 | 26.33
 D Operation | 0.14 | 0.23 | 0.23 | 0.23 | 0.09 | 0.90 | 5.78
 Total Cost of Project | 2.96 | 6.54 | 4.26 | 1.70 | 0.15 | 15.60 | 100.00
-Percentage / Year | 18.95% | 41.91% | 27.29% | 10.90% | 0.95% | 100%
+Percentage / Year | 18.95% | 41.91% | 27.29% | 10.90% | 0.95% | 100% |
 
-Table 4.7: Expenditure Schedule by Expenditure Category (in million UA)
+Table 4.8: Expenditure Schedule by Source of Finance
+(in million UA )
 
-Table 4.8: Expenditure Schedule by Source of Finance (in million UA )
-
-Years | Total
+SOURCE OF FINANCE | 2006 | 2007 | 2008 | 2009 | 2010 | Total
 --- | --- | --- | --- | --- | --- | ---
-SOURCE OF FINANCE | 2006 | 2007 | 2008 | 2009 | 2010
 ADF | 2.91 | 5.82 | 3.67 | 1.49 | 0.12 | 14.00
 GOVERNMENT | 0.05 | 0.72 | 0.59 | 0.21 | 0.03 | 1.60
 TOTAL | 2.96 | 6.54 | 4.26 | 1.70 | 0.15 | 15.60
@@ -978,13 +1125,15 @@ Percentage / year | 18.95% | 41.91% | 27.29% | 10.90% | 0.95% | 100%
 
 ## 5.1 Executing Agency
 
-5.1.1 The project will be implemented by the National School Equipment and Infrastructure Service ( Service national des infrastructures et équipements scolaires SNIES) of the MEPU-EC. The Government will provide to the ADF, evidence that it has designated SNIES  as  the  project  executing  agency,  and  its  personnel,  in  particular  the  Director, procurement specialist and the training specialist to implement the project. The SNIES will be under the supervision of the EFA Steering Committee and will comprise i) a President (the General Secretary of MEPU-EC; ii) a Vice-President (The Inspector General for Education; iii)  a  rapporteur (the Coordinator of the EFA Programme); iv) an Inspector General; v) the director of SNEP; vi) a representative of the advisory bodies; vii) the Regional Inspectors of Education for Boké, Kankan and N'zérékoré; viii) and the Director of Education for the City of  Conakry.  A  representative  of  the  Ministry  of  Economy  and  Finance,  and  one  from  the Ministry  of  Planning  will  join  this  committee.  The  Government  will  communicate  to  the ADF, the ministerial order from MEPU-EC, designating the EFAP Committee as the Steering Committee of the current project.
+5.1.1 The project will be implemented by the National School Equipment and Infrastructure Service (Service national des infrastructures et équipements scolaires -SNIES) of the MEPU-EC. The Government will provide to the ADF, evidence that it has designated SNIES as the project executing agency, and its personnel, in particular the Director, procurement specialist and the training specialist to implement the project. The SNIES will be under the supervision of the EFA Steering Committee and will comprise i) a President (the
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
 22
+
+General Secretary of MEPU-EC; ii) a Vice-President (The Inspector General for Education; iii) a rapporteur (the Coordinator of the EFA Programme); iv) an Inspector General; v) the director of SNEP; vi) a representative of the advisory bodies; vii) the Regional Inspectors of Education for Boké, Kankan and N'zérékoré; viii) and the Director of Education for the City of Conakry. A representative of the Ministry of Economy and Finance, and one from the Ministry of Planning will join this committee. The Government will communicate to the ADF, the ministerial order from MEPU-EC, designating the EFAP Committee as the Steering Committee of the current project.
 
 5.1.2 The SNIES was chosen because of its experience in the management of the three previous  projects.  Indeed,  after  the  sanction  period  which  delayed  the  implementation  of Education Project III activities, SNIES was able to take the necessary measures to implement project activities which were successfully completed.  It prepared and regularly submitted to the Bank for review, project activity reports. It has good knowledge of the Bank's Rules of Procedure,  and  is  currently  implementing  projects  financed  by  the  IDB  and  the  European Union. It will be provided with two vehicles to allow long trips required to regularly monitor the project, with the civil engineering and financial management  component  being implemented by consulting firms that will be recruited.
 
@@ -1006,7 +1155,9 @@ All  other  activities,  in  particular  the  architectural  and  technical  des
 
 ## 5.3 Implementation Schedule
 
-- 5.3.1 The  project will be implemented  over  a  period  of  five years. The  project implementation schedule (see details in Annex 10) is summarized below:
+5.3.1 The project will be implemented over a period of five years. The project implementation schedule (see details in Annex 10) is summarized below:
+
+Table 5.1: Implementation Schedule
 
 ACTIVITIES | DATES | INSTITUTIONS IN CHARGE
 --- | --- | ---
@@ -1016,8 +1167,8 @@ Effectiveness | June 2005 | Government/ADF
 Launching Mission | September 2005 | ADF
 Recruitment of Service Providers | September 2005 - February 2006 | SNIES
 Preparation of Bidding Documents for Construction | March 2006 - August 2006 | SNIES/Consulting Firm
-Bidding for Construction | September 2006 -February 2007 | ADF/SNIES
-Construction Works/Equipment | January 2008-December 2009
+Bidding for Construction | September 2006 –February 2007 | ADF/SNIES
+Construction Works/Equipment | January 2008-December 2009 |
 Procurement of Furniture and Equipment | May- October 2009 | ADF/SNIES
 Training / sensitization | March 2004 to June 2010 | SNIES
 Mid-Term Review Mission | June 2007 | ADF/ Government
@@ -1026,25 +1177,23 @@ Operations | July 2004 - December 2009 | ADF/ Government
 Government's Completion Report | October 2010 | Government
 ADF Completion Report | December 2010 | ADF/ Government
 
-Table 5.1: Implementation Schedule
+5.3.2 Upon approval of the Grant, the ADF will organize a launching mission to assist the Government fulfill the conditions precedent to the first disbursement of the Grant. The ADF will also organize supervision and mid-term review missions in keeping with the schedule below:
 
-5.3.2 Upon approval of the Grant, the ADF will organize a launching mission to assist the Government fulfill the conditions precedent to the first disbursement of the Grant. The ADF will  also  organize  supervision  and  mid-term  review  missions  in  keeping  with  the  schedule below:
+Table 5.2: Schedule of Supervision Missions and of the Mid-Term Review
 
 Year | Nature of the Mission | Number of Missions | Composition of the Missions
 --- | --- | --- | ---
 2005 | Launching and assistance | 1 | Task Manager/PPRU/FFCO
 2006 | Supervision | 2 | Task Manager /Architect
 2007 | Supervision | 2 | Task Manager /Architect
-2008 | Mid-Term Review | 1 | Task Manager /Architect/
-Supervision | 2 | Consultants/ PF
+2008 | Mid-Term Review | 1 | Task Manager /Architect/ Consultants/ PF
+ | Supervision | 2 |
 2009 | Supervision | 2 | Task Manager /Architect
 2010 | Completion | 1 | Task Manager /Architect/PF
 
-Table 5.2: Schedule of Supervision Missions and of the Mid-Term Review
-
 ## 5.4 Procurement Arrangements
 
-- 5.4.1 The procurement arrangements are summarized in Table 5.2 below and detailed in accordance with the list  of  goods  and  services.  Any  ADF  (grant)-financed  procurement  of goods, works and services will be conducted in accordance with the Bank Group's Rules of Procedure for the Procurement of Goods and Services or for the Use of Consultants, using the appropriate standard bidding documents of the Bank.
+5.4.1 The procurement arrangements are summarized in Table 5.2 below and detailed in accordance with the list of goods and services. Any ADF (grant)-financed procurement of goods, works and services will be conducted in accordance with the Bank Group's Rules of Procedure for the Procurement of Goods and Services or for the Use of Consultants, using the appropriate standard bidding documents of the Bank.
 
 [[END OF PAGE 38]]
 
@@ -1052,55 +1201,51 @@ Table 5.2: Schedule of Supervision Missions and of the Mid-Term Review
 
 24
 
-CATÉGORIES OF EXPENDITURE | ICB | LCB | Others | Shortlist | Total
---- | --- | --- | --- | --- | --- | ---
-A. | Works = 5.07 | 5.07
-A.1. | Construction of: 90 classrooms; 90 staff houses; 30 office-storerooms; 30 latrines; 30 water points | 2.86 | [2.86] | [3.79] 2.86
-A.2. | Construction of 5 secondary schools with laboratories and of the Teachers' Training College at Guéckédou | 2.21 | [0.93] {1.28} | 2.21
-B | Goods = 5.52 | 5.52
-B.1. | Equipment furniture for 90 classrooms and for | 0.18 | [0.18] | 0.18
-30 office-storerooms.
-B.2. | Equipment furniture for 5 secondary schools and the Teachers' | 0.09 | [0.09] | 0.09
-Training College in Guéckédou
-B.3. | Office and computer equipment for | 0.14 | [0.14] | 0.14
-Secondary schools; for TTC/Guéckédou; for SSP and for SNIES
-B.4. | Equipment for solar energy units for 5 secondary schools | 0.23 | [0.23] | 0.23
-B.5. | 3 vehicles (1for SSP and 2 for the SNIES) | 0.14 | [0.14] | 0.14
-B.6. | Laboratory materials for 5 secondary schools | 0.22 | [0.22] | 0.22
-B.7. | Procurement of educational materials (scientific and metric compendiums and Natural science boards) for schools, secondary schools and TTC | 1.98 | [1.98] | 1.98
-B.8 | Publishing of school manuals and educational support for schools, with publishers who hold copyright | 2.54* | [2.54] | 2.54
-C | Services = 4.11 | 4.11
-C.1. | Studies and supervision of works ( classrooms; offices; staff houses; latrines; secondary schools and TTC) | 0.79 | [0.79] | 0.79
-C.2. | Training of 2100 teachers in gender approach Training of 2100 teachers in the use of school | 0.14* | [0.14] | 0.14* | [0.14] | 0.14 0.14
-C.3. | manuals
-C.4. | Educational training for 6500 primary school head teachers | 0.72* | [0.72] | 0.72
-C.5. | Professional development for 3000 teachers | 0.66* | [0.66] | 0.66
-C.6. | Local training for managers in planning, management, administration. Training of members of National Equity Committee | 0.01* | [0.01] | 0.01
-C.7. | 0.02* | [0.02] | 0.02
-C.9. | Study tour | 0.01* | [0.01] | 0.01
-C.9. | Information technology training | 0.03* | [0.03] | 0.03
-C.10. | Training abroad | 0.70* | [0.70] | 0.70
-C.11. | Study - Impact of HIV/AIDS on education community | 0.03 | [0.03] | 0.03
-C.12. | Preparation of 2005/2015 school zoning map for | 0.24 | [0.24] | 0.24
-C.13. | Services of 1 consultant in statistics and planning (SSP) | 0.05 | [0.05] | 0.05
-C.14. | Coordination operations of financial partners in education | 0.07 | [0.07] | 0.07
-C.15. | Updating education and training policy | 0.03 | [0.03] | 0.03
-C.16. | Assess project monitoring/MDG | 0.07 | [0.07] | 0.07
-C.17. | Support for project financial management | 0.25 | [0.25] | 0.25
-C.18. | Preparation of procedures manual for project | 0.02 | [0.02] | 0.02
-C.19. | Conduct of project mid-term review | 0.02 | [0.02] | 0.02
-C.20. | Preparation of project completion report | 0.02 | [0.02] | 0.02
-C.21. | Audit | 0.08 | [0.08] | 0.08
-D | Operation = 0.90 | 0.90**
-Operation | {0.32} | 0.90
-[0.58]
-Total Project Cost | 4.64 | 3.41 | 4.28 | 3.27 | 15.60 [14.00]
-Grant = [ ] | [3.36] | [3.41] | [3.96] | [3.27]
-Government = { } | {1.28} | {0.32} | {1.60}
-
 Table 5.3: Procurement Arrangements (in Million UA)
 
-* Direct Procurement/Negotiation;         **National shopping;       ADF Financing:  [  ] =  Grant;       Government  Financing: {  }
+CATÉGORIES OF EXPENDITURE | ICB | LCB | Others | Shortlist | Total
+--- | --- | --- | --- | --- | ---
+A. Works = 5.07 | | | | | 5.07 [3.79]
+A.1. Construction of: 90 classrooms; 90 staff houses; 30 office-storerooms; 30 latrines; 30 water points | | 2.86 [2.86] | | | 2.86
+A.2. Construction of 5 secondary schools with laboratories and of the Teachers' Training College at Guéckédou | 2.21 [0.93] {1.28} | | | | 2.21
+B Goods = 5.52 | | | | | 5.52
+B.1. Equipment furniture for 90 classrooms and for 30 office-storerooms. | | 0.18 [0.18] | | | 0.18
+B.2. Equipment furniture for 5 secondary schools and the Teachers' Training College in Guéckédou | | 0.09 [0.09] | | | 0.09
+B.3. Office and computer equipment for Secondary schools; for TTC/Guéckédou; for SSP and for SNIES | | 0.14 [0.14] | | | 0.14
+B.4. Equipment for solar energy units for 5 secondary schools | 0.23 [0.23] | | | | 0.23
+B.5. 3 vehicles (1for SSP and 2 for the SNIES) | | 0.14 [0.14] | | | 0.14
+B.6. Laboratory materials for 5 secondary schools | 0.22 [0.22] | | | | 0.22
+B.7. Procurement of educational materials (scientific and metric compendiums and Natural science boards) for schools, secondary schools and TTC | 1.98 [1.98] | | | | 1.98
+B.8 Publishing of school manuals and educational support for schools, with publishers who hold copyright | | | 2.54* [2.54] | | 2.54
+C Services = 4.11 | | | | | 4.11
+C.1. Studies and supervision of works (classrooms; offices; staff houses; latrines; secondary schools and TTC) | | | | 0.79 [0.79] | 0.79
+C.2. Training of 2100 teachers in gender approach | | | | 0.14* [0.14] | 0.14
+C.3. Training of 2100 teachers in the use of school manuals | | | 0.14* [0.14] | | 0.14
+C.4. Educational training for 6500 primary school head teachers | | | | 0.72* [0.72] | 0.72
+C.5. Professional development for 3000 teachers | | | 0.66* [0.66] | | 0.66
+C.6. Local training for managers in planning, management, administration. | | | | 0.01* [0.01] | 0.01
+C.7. Training of members of National Equity Committee | | | | 0.02* [0.02] | 0.02
+C.9. Study tour | | | 0.01* [0.01] | | 0.01
+C.9. Information technology training | | | 0.03* [0.03] | | 0.03
+C.10. Training abroad | | | | 0.70* [0.70] | 0.70
+C.11. Study – Impact of HIV/AIDS on education community | | | | 0.03 [0.03] | 0.03
+C.12. Preparation of 2005/2015 school zoning map for | | | | 0.24 [0.24] | 0.24
+C.13. Services of 1 consultant in statistics and planning (SSP) | | | | 0.05 [0.05] | 0.05
+C.14. Coordination operations of financial partners in education | | | | 0.07 [0.07] | 0.07
+C.15. Updating education and training policy | | | | 0.03 [0.03] | 0.03
+C.16. Assess project monitoring/MDG | | | | 0.07 [0.07] | 0.07
+C.17. Support for project financial management | | | | 0.25 [0.25] | 0.25
+C.18. Preparation of procedures manual for project | | | | 0.02 [0.02] | 0.02
+C.19. Conduct of project mid-term review | | | | 0.02 [0.02] | 0.02
+C.20. Preparation of project completion report | | | | 0.02 [0.02] | 0.02
+C.21. Audit | | | | 0.08 [0.08] | 0.08
+D Operation = 0.90 | | | 0.90** | | 
+Operation | | | [0.58] {0.32} | | 0.90
+Total Project Cost | 4.64 | 3.41 | 4.28 | 3.27 | 15.60
+Grant = [ ] | [3.36] | [3.41] | [3.96] | [3.27] | [14.00]
+Government = { } | {1.28} | | {0.32} | | {1.60}
+
+* Direct Procurement/Negotiation; **National shopping; ADF Financing: [ ] = Grant; Government Financing: { }
 
 [[END OF PAGE 39]]
 
@@ -1124,11 +1269,11 @@ The national laws and regulations governing the award of contracts in Guinea hav
 
 (iii) International Shopping  for  the  procurement  of  teaching  materials  for schools, secondary schools and the TTC (UA 1.98 million).
 
-(iv) Direct  Purchase  from  publishers  holding  exclusive  reproduction  rights,  of  school manuals  and  teacher's  guides  (language,  French,  natural  sciences,  maths,  historygeography, civic and moral education). These are specialized manuals that can only be reproduced by publishers with exclusive rights to them (UA 2.55 million).
+(iv) Direct Purchase from publishers holding exclusive reproduction rights, of school manuals and teacher's guides (language, French, natural sciences, maths, history-geography, civic and moral education). These are specialized manuals that can only be reproduced by publishers with exclusive rights to them (UA 2.55 million).
 
 ### Services (UA 4.11 million)
 
-(i) The preparation  of  architectural  and  engineering  designs,  the  supervision  of  works, and  the  technical  control  of  works  on  90  classrooms,  90  staff  houses,  30  officestorerooms, 30 latrines, 30 water points, 5 secondary schools and the TTC (UA 0.79 million)  will  be  entrusted  to  a  consulting  firm  ensuring  delegated  management contracts  and  recruited  from  a  shortlist,  in  accordance  with  the  Bank's  Rules  of Procedures for the Use of Consultants.
+(i) The preparation of architectural and engineering designs, the supervision of works, and the technical control of works on 90 classrooms, 90 staff houses, 30 office-storerooms, 30 latrines, 30 water points, 5 secondary schools and the TTC (UA 0.79 million) will be entrusted to a consulting firm ensuring delegated management contracts and recruited from a shortlist, in accordance with the Bank's Rules of Procedures for the Use of Consultants.
 
 (ii) A consulting firm will be recruited from a short list, in accordance with the Bank's Rules of Procedures, to provide support for project financial management (UA 0.25 million),  the  preparation  of  a  manual  of  procedures  (UA  0.02  million),  and  project audit accounts (UA 0.08 million).
 
@@ -1156,13 +1301,15 @@ The  following  documents  are  subject  to  review  and  approval  by  the ADF 
 
 ## 5.5 Disbursements
 
-5.5.1 Grant  resources  will  be  disbursed  according  to  the  schedule  of  expenditure  by component and by category. All disbursements will be in accordance with the relevant Bank Rules and Procedures.  The disbursement methods retained include: (i) the Special Account method; (ii) the direct payment method, and (iii) the reimbursement method. In the context of SNIES operations, the Government will open a special account at the central bank (Banque Centrale  de  la  République  de  Guinée--BCRG) ,  to  receive  the  Borrower's  contributions  to project  financing.    Transactions  on  this  account  will  be  subject  to  the  principle  of  double signature by the Director of SNIES and the Secretary General of the Ministry (MEPU-EC). In addition, the Government will transmit to the ADF evidence that it has opened an account in a commercial bank acceptable to the ADF to receive the grant resources.
+5.5.1 Grant resources will be disbursed according to the schedule of expenditure by component and by category. All disbursements will be in accordance with the relevant Bank Rules and Procedures. The disbursement methods retained include: (i) the Special Account
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
 27
+
+method; (ii) the direct payment method, and (iii) the reimbursement method. In the context of SNIES operations, the Government will open a special account at the central bank (Banque Centrale de la République de Guinée--BCRG), to receive the Borrower's contributions to project financing. Transactions on this account will be subject to the principle of double signature by the Director of SNIES and the Secretary General of the Ministry (MEPU-EC). In addition, the Government will transmit to the ADF evidence that it has opened an account in a commercial bank acceptable to the ADF to receive the grant resources.
 
 5.5.2 Disbursements  for  SNIES  operations  will  be  done  on  the  basis  of  4  months  of project activities, with prior approval from the ADF. Funds will be replenished on the same basis, upon satisfactory justification for the use of at least 50 percent of previous funds.  The request  for  revolving  funds  which  will  be  prepared  by  the  Director  of  SNIES  will  be submitted  to  the  ADF  by  the  Minister  of  Finance  and  the  Economy.  Disbursements  for contracts  related  to  works,  vehicles,  furniture  and  equipment  will  be  paid  directly  to entrepreneurs and providers using the direct payment method.  The same method of payment will be used for contracts for specialized services, short term consultants, and training within the framework of  agreements.
 
@@ -1174,7 +1321,7 @@ The consulting firm that will be recruited to manage project resources, and whic
 
 ### Activity Reports
 
-5.7.1 All structures involved in the implementation of the project will prepare and transmit to  the  SNIES  quarterly  and  annual  project  activity  reports.  SNIES  will  draft  the  summary report and transmit it to ADF. All the reports should be consistent with ADF formats and at the  end  of  project  implementation,  SNIES,  with  support  from  a  consultant,  will  draft  and submit  a  completion  report  to  the  ADF.    The  reports  will  be  prepared  on  a  quarterly  and annual basis in accordance with relevant Bank guidelines and will be submitted to MEPUEC, MEF and to the Bank. A consultant will be recruited  to  monitor  project  indicators  in relation to the MDGs. The necessary resources have been earmarked for this purpose.
+5.7.1 All structures involved in the implementation of the project will prepare and transmit to the SNIES quarterly and annual project activity reports. SNIES will draft the summary report and transmit it to ADF. All the reports should be consistent with ADF formats and at the end of project implementation, SNIES, with support from a consultant, will draft and submit a completion report to the ADF. The reports will be prepared on a quarterly and annual basis in accordance with relevant Bank guidelines and will be submitted to MEPU-EC, MEF and to the Bank. A consultant will be recruited to monitor project indicators in relation to the MDGs. The necessary resources have been earmarked for this purpose.
 
 ### Mid-Term Review
 
@@ -1216,19 +1363,21 @@ The consulting firm that will be recruited to manage project resources, and whic
 
 6.3.1 Success of the project requires, on the one hand, continued implementation of the Education for All Programme, which remains a priority, and on the other hand, support from development partners in the sector. As for the risks, they are situated mainly at the level of the failure  to  continue  implementation  of  the  EFAP,  and  the  possible  delay  in  the  assignment  of teachers to the schools and secondary schools to be built.
 
-6.3.2 The first risk is mitigated by the commitment of development partners to support the Government in the implementation of the EFAP. This commitment was renewed with the midterm  review  of  the  Programme.  The  second  risk  is  also  mitigated  by  the  Government's commitment to TFP to complete implementation of the EFAP, including the implementation of the policy for the recruitment of teachers under which the Government has deployed efforts with the hiring of contractual teachers since 1996, and whose salary conditions are improving steadily (the monthly salary has increased from GNF 60 000 to GNF 80 000, then 110 000, and 140 000 since last January; and payment for  9 months/12 has changed to12 months /12). The integration of these teachers into the public service is envisaged as a retention measure. In addition  to  these  measures,  the  Government  is  expected  to  provide  to  the  ADF,  three  (3) months  before  the  completion  of  each  infrastructure,  evidence  that    it  has  assigned  the personnel needed for the smooth operation of the infrastructure.
+6.3.2 The first risk is mitigated by the commitment of development partners to support the Government in the implementation of the EFAP. This commitment was renewed with the mid-term review of the Programme. The second risk is also mitigated by the Government's commitment to TFP to complete implementation of the EFAP, including the implementation of the policy for the recruitment of teachers under which the Government has deployed efforts with the hiring of contractual teachers since 1996, and whose salary conditions are improving steadily (the monthly salary has increased from GNF 60 000 to GNF 80 000, then 110 000, and 140 000 since last January; and payment for 9 months/12 has changed to12 months /12). The integration of these teachers into the public service is envisaged as a retention measure. In addition to these measures, the Government is expected to provide to the ADF, three (3) months before the completion of each infrastructure, evidence that it has assigned the personnel needed for the smooth operation of the infrastructure.
 
 # 7. PROJECT BENEFITS
 
 ## 7.1 Economic Benefits
 
-The  project has several economic  benefits. Indeed, through  the  investments (construction  of  90  classrooms,  five  (5)  secondary  schools,  30  water  points,  the  ENI),  the procurement  of  goods  (equipment,  teaching  materials,  school  manuals)  and  the  consulting services which will be provided, financial resources will be injected into the economic fabric. The  private  sector  will  benefit  greatly.  Small  and  medium-sized  enterprises  will  obtain contracts and strengthen their financial capacity.  In addition, capacity building in the areas of planning  and  management of the  education  system,  specifically  the  dissemination  of  weak school statistics, will help increase the efficiency and effectiveness of the education system. An increase in the intake capacity of basic primary education and improvement in its quality will ultimately contribute to the training of competent human resources, which the country needs, and to the development of human capital. The actions envisaged will help boost the efficiency of the sector and improve the integration of youths into the labour force.
+The project has several economic benefits. Indeed, through the investments (construction of 90 classrooms, five (5) secondary schools, 30 water points, the ENI), the procurement of goods (equipment, teaching materials, school manuals) and the consulting services which will be provided, financial resources will be injected into the economic fabric. The private sector will benefit greatly. Small and medium-sized enterprises will obtain contracts and strengthen their financial capacity. In addition, capacity building in the areas of planning and management of the education system, specifically the dissemination of weak
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
 30
+
+school statistics, will help increase the efficiency and effectiveness of the education system. An increase in the intake capacity of basic primary education and improvement in its quality will ultimately contribute to the training of competent human resources, which the country needs, and to the development of human capital. The actions envisaged will help boost the efficiency of the sector and improve the integration of youths into the labour force.
 
 ## 7.2 Analysis of Social Impact
 
@@ -1240,13 +1389,15 @@ The  project has several economic  benefits. Indeed, through  the  investments (
 
 7.3.1 The project will have a positive impact on women through the activities that will be implemented. The setting of a systematic quota that designates at least one third of women as the beneficiaries of the numerous trainings planned at different levels will help strengthen the technical  capacities  of  women,  and  help  position  them  for  high-level  positions  within  the directorates and technical services of the Ministries concerned. In addition, the impact of the training  2100  teachers  from  all  levels  of  education  in  the  gender-approach,  as  well  as  10 members  of  the Comité  national  d'équité ,  will  increase  the  integration  of  female-related issues  in  the  implementation  of  education  projects.  Furthermore,  the  project  will  help improve  the  boy/girl  ratio  in  the  regions  of  Boké,  Kankan  and  N'zérékoré,  through  the implementation of initiatives that promote girls' education (free school kits for about 5000 girls).
 
-7.3.2 It  should  also  be  noted  that  the  project  will  have  an  indirect  positive  impact  on women through the establishment of 30 water points which will provide potable water to the villages that will be beneficiaries of the infrastructures; these will help, on the one hand, by reducing the workload of women with respect to providing water for household use, and on the other hand, in the cleanliness of children which is the responsibility of women. Finally, the study on the impact of HIV/AIDs in school environments, which will be conducted under the project, will help mobilise actions seeking to fight the pandemic among women who are the most affected (the highest HIV/AIDS seroprevalence rates are among youths and women; the combination of these two groups places the population of young at the top with respect to seroprevalence.
+7.3.2 It should also be noted that the project will have an indirect positive impact on women through the establishment of 30 water points which will provide potable water to the villages that will be beneficiaries of the infrastructures; these will help, on the one hand, by reducing the workload of women with respect to providing water for household use, and on the other hand, in the cleanliness of children which is the responsibility of women. Finally,
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
 31
+
+the study on the impact of HIV/AIDs in school environments, which will be conducted under the project, will help mobilise actions seeking to fight the pandemic among women who are the most affected (the highest HIV/AIDS seroprevalence rates are among youths and women; the combination of these two groups places the population of young at the top with respect to seroprevalence.
 
 7.3.3 The  systematic  setting  of  a  quota  system  to  provide  at  least  100  primary  school teachers  for  training  each  year,  while  ensuring  that  women  account  for  one  third  of  the beneficiaries of the other trainings (education planning, school management and administration,  information  technology,  and  maintenance of infrastructure),  will  contribute, one the one hand, to better representation of women in decision-making bodies and,  on the other  hand,  in  the  improvement  of  their  technical  and  professional  skills.  The  project  also plans to closely monitor the achievement of the planned objectives in relation to those of the Millennium Development Goals. In this regard, particular emphasis will be paid to indicators related to girls, in order to take the appropriate measures to address disparities and promote the achievement of objectives related to girls.
 
@@ -1276,7 +1427,7 @@ The  project has several economic  benefits. Indeed, through  the  investments (
 
 8.2.3 The ADF shall make the first disbursement of the grant only upon entry into force of the Memorandum and upon the fulfilment by the Borrower of the following conditions:
 
-- Submit to the ADF evidence that the lands required for the construction of primary  schools,  secondary  schools  and  the  Guéguédou  TTC  have  been allocated to the project  (Paragraph 4.5.5);
+- i) Submit to the ADF evidence that the lands required for the construction of primary schools, secondary schools and the Guéguédou TTC have been allocated to the project (Paragraph 4.5.5);
 
 - ii) Submit to  the  ADF  the  ministerial  order  from  MEPU-EC,  designating  the SNIES and its staff, in particular the Director, the procurement specialist and the training specialist to implement the project (Paragraph 5.1.1);
 
@@ -1284,7 +1435,7 @@ The  project has several economic  benefits. Indeed, through  the  investments (
 
 - iv) Provide  ADF  with  evidence  that  two  accounts  have  been  opened  in  a commercial bank acceptable to the ADF to receive grant resources and the Borrower's contributions to project financing, respectively (paragraph 5.5.1).
 
-### Other Conditions
+### C. Other Conditions
 
 The donee shall:
 
@@ -1298,71 +1449,79 @@ The donee shall:
 
 GUINEA: SUPPORT FOR DEVELOPMENT OF BASIC EDUCATION
 
-ANNEX 1 Page 1 of 1
+ANNEX 1
+Page 1 of 1
 
 # SUMMARY OF ONGOING BANK GROUP PROJECTS IN GUINEA AS AT 31 MARCH 2005 (IN MILLION UA)
 
-Project | Date of Approval | Closing Date | Date of Effectivene ss | Date of First Disbursement | Date of Last Disbursemen t | Approved Amount | Amount yet to be Disbursed | Total Amount Disbursed | Net Amount of Loan/Grant | Disbursement Rate (%)
+Project | Date of Approval | Closing Date | Date of Effectiveness | Date of First Disbursement | Date of Last Disbursement | Approved Amount | Amount yet to be Disbursed | Total Amount Disbursed | Net Amount of Loan/Grant | Disbursement Rate (%)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Beyla-Kerouane Agro-Pastoral Development Project | 09/02/1993 | 06/30/2004 | 05/27/1994 | 12/08/1994 | 12/21/2004 | 9,210,520.00 | 842,181.83 | 8,368,338.17 | 9,210,520.00 | 90.9
 Upper Guinea Development Project | 06/15/2000 | 12/31/2007 | 06/29/2001 | 06/30/2001 | 03/03/2005 | 10,000,000.00 | 7,260,971.44 | 2,739,028.56 | 10,000,000.00 | 27.4
 Study on Rubber and Palm tree Development Plan | 03/29/2001 | 12/31/2004 | 12/05/2001 | 12/05/2001 | 09/15/2004 | 1,984,000.00 | 600,130.29 | 1,383,869.71 | 1,984,000.00 | 69.8
 Artisanal Fisheries and Aquaculture Project | 06/07/2000 | 12/31/2005 | 11/25/2000 | 11/27/2000 | 03/16/2005 | 5,000,000.00 | 2,659,020.24 | 2,340,979.76 | 5,000,000.00 | 46.8
-Upper Guinea Village Hydraulic Project | 09/04/2002 | 12/31/2008 | 06/27/2003 | 02/04/2005 | 15,000,000.00 | 14,758,632.45 | 241,367.55 | 15,000,000.00 | 1.6
-Rural Road Project / PNIR | 10/02/2002 | 12/31/2008 | 03/22/2004 | 02/10/2005 | 8,100,000.00 | 7,977,267.30 | 122,732.70 | 8,100,000.00 | 1.5
-Nerica Dissemination Project | 09/26/2003 | 12/31/2010 | 02/05/2005 | 3,000,000.00 | 3,000,000.00 | 0.00 | 3,000,000.00 | 0.0
-PPF on Fouta-Djallon Rural Development Project | 02/07/2005 | 490,000.00 | 0.00 | 0.00 | 490,000.00 | 0.0
-Agriculture Sector | 52,784,520.00 | 37,098,203.55 | 15,196,316.45 | 52,784,520.00 | 28.8
+Upper Guinea Village Hydraulic Project | 09/04/2002 | 12/31/2008 | 06/27/2003 |  | 02/04/2005 | 15,000,000.00 | 14,758,632.45 | 241,367.55 | 15,000,000.00 | 1.6
+Rural Road Project / PNIR | 10/02/2002 | 12/31/2008 | 03/22/2004 |  | 02/10/2005 | 8,100,000.00 | 7,977,267.30 | 122,732.70 | 8,100,000.00 | 1.5
+Nerica Dissemination Project | 09/26/2003 | 12/31/2010 | 02/05/2005 |  |  | 3,000,000.00 | 3,000,000.00 | 0.00 | 3,000,000.00 | 0.0
+PPF on Fouta-Djallon Rural Development Project | 02/07/2005 |  |  |  |  | 490,000.00 | 0.00 | 0.00 | 490,000.00 | 0.0
+Agriculture Sector |  |  |  |  |  | 52,784,520.00 | 37,098,203.55 | 15,196,316.45 | 52,784,520.00 | 28.8
 Rural Electrification Study | 09/11/2002 | 12/31/2005 | 09/01/2003 | 09/01/2003 | 02/18/2004 | 1,350,260.00 | 1,097,646.35 | 252,613.65 | 1,350,260.00 | 18.7
-Public Utilities | 1,350,260.00 | 1,097,646.35 | 252,613.65 | 1,350,260.00 | 18.7
-Social Sustainable Development Project in Upper and Middle Guinea | 12/05/2001 | 12/31/2008 | 05/28/2002 | 12/17/2004 | 20,000,000.00 | 18,789,683.58 | 1,210,316.42 | 20,000,000.00 | 6.1
-Social Sustainable Development Project in Upper and Middle Guinea | 12/05/2001 | 12/31/2008 | 05/13/2003 | 08/31/2004 | 1,750,000.00 | 1,435,750.08 | 314,249.92 | 1,750,000.00 | 18.0
+Public Utilities |  |  |  |  |  | 1,350,260.00 | 1,097,646.35 | 252,613.65 | 1,350,260.00 | 18.7
+Social Sustainable Development Project in Upper and Middle Guinea | 12/05/2001 | 12/31/2008 | 05/28/2002 |  | 12/17/2004 | 20,000,000.00 | 18,789,683.58 | 1,210,316.42 | 20,000,000.00 | 6.1
+Social Sustainable Development Project in Upper and Middle Guinea | 12/05/2001 | 12/31/2008 | 05/13/2003 |  | 08/31/2004 | 1,750,000.00 | 1,435,750.08 | 314,249.92 | 1,750,000.00 | 18.0
 Health Project III | 10/04/2000 | 12/31/2007 | 09/27/2001 | 09/27/2001 | 02/10/2005 | 6,500,000.00 | 5,455,446.67 | 1,044,553.33 | 6,500,000.00 | 16.1
 Health Project III | 10/04/2000 | 12/31/2007 | 09/27/2001 | 09/27/2001 | 03/04/2004 | 600,000.00 | 95,529.16 | 504,470.84 | 600,000.00 | 84.1
 Support for Women's Economic Activity | 11/27/1997 | 12/31/2005 | 03/29/1999 | 01/18/2000 | 12/20/2004 | 3,000,000.00 | 2,284,547.69 | 715,452.31 | 3,000,000.00 | 23.8
-Social Sector | 31,850,000.00 | 28,060,957.18 | 3,789,042.82 | 37,850,000.00 | 29.62
-Grand Total | 85,984,780.00 | 66,256,807.08 | 19,237,972.92 | 85,984,780.00 | 25.7
+Social Sector |  |  |  |  |  | 31,850,000.00 | 28,060,957.18 | 3,789,042.82 | 37,850,000.00 | 29.62
+Grand Total |  |  |  |  |  | 85,984,780.00 | 66,256,807.08 | 19,237,972.92 | 85,984,780.00 | 25.7
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
-ANNEXE 2
-
-Page 1 de 2
-
 GUINNEA: SUPPORT FOR DEVELOPMENT OF BASIC EDUCATION
+
+ANNEXE 2
+Page 1 de 2
 
 # OPERATIONS OF KEY DONORS IN EFAP IMPLEMENTATION (2001-2012)
 
 DONOR | PROGRAMME/PROJECT | PERIOD | CONTRIBUTION | GOVERNMENT | COMMENTS
 --- | --- | --- | --- | --- | ---
 IDA | Education For All Programme | 2001-2012 | US $ 70 000 000 | US $ 19 506 400 | Contribution to Phase 1 of EFAP
-UNICEF | Education Development Programme | 2002-2006 | US $ 3 225 748 | PM | Committed from 2002- 2004
-USAID | Direct Support Fundamental Levels of Quality and Equity Community Participation for Equity and Quality Presidential Initiative | 1997-2006 2002-2005 2003-2004 | US $ 3 446 222 8 534 142 11 000 000 2 500 000 | PM ¼ of each $ spent | Support to education system 2002-2004 Cost of Project (in US $) Budget 2002 et 2003 (in US $) Budget 2002 and 2003 (in US$)
+UNICEF | Education Development Programme | 2002-2006 | US $ 3 225 748 | PM | Committed from 2002-2004
+USAID | Direct Support |  | US $ 3 446 222 |  | Support to education system 2002-2004
+ | Fundamental Levels of Quality and Equity | 1997-2006 | 8 534 142 | PM ¼ of each $ spent | Cost of Project (in US $)
+ | Community Participation for Equity and Quality | 2002-2005 | 11 000 000 |  | Budget 2002 et 2003 (in US $)
+ | Presidential Initiative | 2003-2004 | 2 500 000 |  | Budget 2002 and 2003 (in US$)
 PAM | Programme to Support Primary Education /Girls' Education | 2002-2004 | 6 688 634 | 150 000 | Project Cost in US $
-European Union | Project to Support Basic Education Sector Ecole nationale des arts et métiers III Programme Forécariah | 2002-2005 2001-2005 2004-2006 | 9 500 000 2 380 000 1 148 250 | Project Cost (in Euros) Project Cost (in Euros) Project Cost (in Euros)
-German Cooperation | Project to Support Education in Lower Guinée Adult Education | 2002-2006 1999-2006 | 2 500 000 12 318 000 | Project Cost (in Euros) Project Cost (in Euros)
-Japanese Cooperation | Building Institutional Capacity in Early Childhood Development Construction of schools in Conakry | 2003-2005 2003-2006 | 463 785 10 160 163 | 426 301 100 | Project Cost (in Euros) Project Cost (in US$)
+European Union | Project to Support Basic Education Sector | 2002-2005 | 9 500 000 |  | Project Cost (in Euros)
+ | Ecole nationale des arts et métiers III | 2001-2005 | 2 380 000 |  | Project Cost (in Euros)
+ | Programme Forécariah | 2004-2006 | 1 148 250 |  | Project Cost (in Euros)
+German Cooperation | Project to Support Education in Lower Guinée | 2002-2006 | 2 500 000 |  | Project Cost (in Euros)
+ | Adult Education | 1999-2006 | 12 318 000 |  | Project Cost (in Euros)
+Japanese Cooperation | Building Institutional Capacity in Early Childhood Development | 2003-2005 | 463 785 |  | Project Cost (in Euros)
+ | Construction of schools in Conakry | 2003-2006 | 10 160 163 | 426 301 100 | Project Cost (in US$)
 Canadian Cooperation | Support for the Implementation of the reform of technical education and professional development | 2001-2005 | 14 100 000 | 1 400 000 | Cost (en $ CAN)
-AFD | Education for All Programme | 2002-2006 | 6 500 000 | Project Cost (in Euros)
+AFD | Education for All Programme | 2002-2006 | 6 500 000 |  | Project Cost (in Euros)
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
-ANNEXE 2
-
-Page 2 de 2
-
 GUINNEA: SUPPORT FOR DEVELOPMENT OF BASIC EDUCATION
+
+ANNEXE 2
+Page 2 de 2
 
 DONOR | PROGRAMME/PROJECT | PERIOD | CONTRIBUTION | GOVERNMENT | COMMENTS
 --- | --- | --- | --- | --- | ---
-Aide & Action | Aide & Action Programme Forécariah Programme | 2004-2006 | 382 750 | Project Cost (in Euros)
-Plan Guinée | POA | 2000-2004 | 10 558 567 200 | Budget 2003 (in GNF)
+Aide & Action | Aide & Action Programme |  |  |  | 
+ | Forécariah Programme | 2004-2006 | 382 750 |  | Project Cost (in Euros)
+Plan Guinée | POA | 2000-2004 | 10 558 567 200 |  | Budget 2003 (in GNF)
 BID | Project to Support MEPU EC | 2000-2004 | 1 265 000 | 253 000 | Project Cost (in US $)
-BID | Construction/Rehabilitation of 300 Classrooms Kindia National Health School | 2003-2007 2002-2004 | 6 778 000 846 000 000 | 922 000 163 000 000 | Project Cost (in US $) Project Cost (in US $)
+BID | Construction/Rehabilitation of 300 Classrooms | 2003-2007 | 6 778 000 | 922 000 | Project Cost (in US $)
+ | Kindia National Health School | 2002-2004 | 846 000 000 | 163 000 000 | Project Cost (in US $)
 ADF | Construction of Classrooms, Training and Equipment | 1998-2004 | 17 250 000 | 2 500 000 | Project Cost (in US $)
 
 Source: EPT donors' review, December 2004
@@ -1371,11 +1530,14 @@ Source: EPT donors' review, December 2004
 
 [[START OF PAGE 51]]
 
+ANNEX 3
+Page 1 OF 1
+
 # ADMINISTRATIVE MAP OF GUINEA AND PROJECT ZONES
 
-This map is provided by the African Development Bank exclusively for the use of the readers of the report to which it is attached. The names used and the borders shown do not imply on the part of the Bank and its members any judgment concerning the legal status of a territory nor any approval or acceptance of these borders.
+Zones du projet
 
-ANNEX 3 Page 1 OF 1
+This map is provided by the African Development Bank exclusively for the use of the readers of the report to which it is attached. The names used and the borders shown do not imply on the part of the Bank and its members any judgment concerning the legal status of a territory nor any approval or acceptance of these borders.
 
 [[END OF PAGE 51]]
 
@@ -1387,11 +1549,11 @@ ANNEX 4 Page 1 of 2
 
 # TERMS OF REFERENCE FOR THE PROJECT COORDINATOR
 
-## POSITION :
+## 1. POSITION :
 
 Coordinator
 
-## DUTY STATION :
+## 2. DUTY STATION :
 
 Conakry
 
@@ -1401,21 +1563,19 @@ The  responsibilities  of  the  Project  Coordinator  (Director  of  SNIES)  are
 
 In particular, the Project Coordinator should :
 
-- Ensure the implementation of project activities by year, expenditure category and sources of financing as indicated in the following table:
+- i) Ensure the implementation of project activities by year, expenditure category and sources of financing as indicated in the following table:
 
-- ii) Submit to the ADF for review, not later than 15 July  of each year, the project audit report;
-
-Activity | Year | Total | %
+Activity | 2006 ADF | 2006 GVT | 2007 ADF | 2007 GVT | 2008 ADF | 2008 GVT | 2009 ADF | 2009 GVT | 2010 ADF | 2010 GVT | Total | %
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2006 | 2007 | 2008 | 2009 | 2010
-ADF | GVT | ADF | GVT | ADF | GVT | ADF | GVT | ADF | GVT
 A Works | - | - | 1.89 | 0.64 | 1.52 | 0.51 | 0.38 | 0.13 | - | - | 5.07 | 32.51
 B Goods | 1.13 | - | 2.45 | - | 1.36 | - | 0.58 | - | - | - | 5.52 | 35.38
 C Services | 1.69 | - | 1.33 | - | 0.64 | - | 0.39 | - | 0.06 | - | 4.11 | 26.33
 D Operations | 0.09 | 0.05 | 0.15 | 0.08 | 0.15 | 0.08 | 0.15 | 0.08 | 0.06 | 0.03 | 0.90 | 5.78
 Total by source and by year | 2.91 | 0.05 | 5.82 | 0.72 | 3.67 | 0.59 | 1.49 | 0.21 | 0.12 | 0.03 | 15.60 | 100.00
-Total Cost of Project by year | 2.96 | 6.54 | 4.26 | 1.70 | 0.15 | 15.60 | 100.00
-Percentage / year | 18.95% | 41.9 1% | 27.29 % | 10.90 % | 0.95 % | 100%
+Total Cost of Project by year | 2.96 |  | 6.54 |  | 4.26 |  | 1.70 |  | 0.15 |  | 15.60 | 100.00
+Percentage / year | 18.95% |  | 41.91% |  | 27.29% |  | 10.90% |  | 0.95% |  | 100% |
+
+- ii) Submit to the ADF for review, not later than 15 July of each year, the project audit report;
 
 [[END OF PAGE 52]]
 
@@ -1429,7 +1589,7 @@ ANNEX 4 Page 2 of 2
 
 - iv) Submit to the ADF for comment, not later than 30 November each year, the budget and programme of activities for the following year.
 
-- Prepare the mid-term review within the planned time frame;
+- v) Prepare the mid-term review within the planned time frame;
 
 - vi) Adhere to the implementation schedule for other grant conditions; and
 
@@ -1440,6 +1600,9 @@ ANNEX 4 Page 2 of 2
 [[START OF PAGE 54]]
 
 GUINEA : SUPPORT FOR DEVELOPMENT OF BASIC EDUCATION
+
+ANNEX 5
+Page 1 of 1
 
 # SUMMARY OF PROJECT SOCIO-ENVIRONMENTAL ARRANGEMENTS
 
@@ -1475,19 +1638,19 @@ The costs of measures to mitigate potential project impacts are integrated into 
 
 Environmental monitoring will be conducted in a permanent and continuous manner, given that it is an integral part of project implementation. The quarterly activity reports of SNIES and the supervision reports of the project will be produced in accordance with the project implementation schedule.
 
-ANNEX 5
-
-Page 1 of 1
-
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
 
 GUINEA : SUPPORT FOR DEVELOPMENT OF BASIC EDUCATION
 
+ANNEX 6
+Page 1 of 4
+
 # SUMMARY OF PROJECT COSTS
 
-GNF UA Million Million
+ | GNF | UA
+ | Million | Million
 --- | --- | ---
 Component 1: Improvement of School Coverage, equity and quality of basic education
 WORKS
@@ -1525,17 +1688,15 @@ SERVICES
 Study/supervision and technical control of works /MOD | 2 096.26 | 0.71
 Base Cost | 2 096.26 | 0.71
 Physical Contingency | 104.81 | 0.04
-Price Contingency Sub-total studies, supervision technical control /MOD | 128.17 | 0.04
-2 329.25 0.79 Training of teachers
-371.53 | 0.13
-Training of 2100 teachers (gender-based approach) | 0.12
-Training of 2100 teachers by INRAP in use of school manuals 353.59 Educational training for 6500 primary school head teachers based on
+Price Contingency | 128.17 | 0.04
+Sub-total studies, supervision technical control /MOD | 2 329.25 | 0.79
+Training of teachers
+Training of 2100 teachers (gender-based approach) | 371.53 | 0.13
+Training of 2100 teachers by INRAP in use of school manuals | 353.59 | 0.12
+Educational training for 6500 primary school head teachers based on
 Skills-based approach | 1 886.86 | 0.64
 Professional develop. For 3000 teachers by the DNEE | 1 726.60 | 0.59
-1.48
-Base Cost | 4 338.57
-
-ANNEX 6 Page 1 of 4
+Base Cost | 4 338.57 | 1.48
 
 [[END OF PAGE 55]]
 
@@ -1647,6 +1808,7 @@ Mission Allowance | 484.00 | 0.17
 SNIES Staff | 426.00 | 0.15
 Base Cost | 1 820.00 | 0.62
 Physical Contingency | 91.00 | 0.031
+Price Contingency | 244.87 | 0.084
 
 [[END OF PAGE 57]]
 
@@ -1673,14 +1835,17 @@ TOTAL COMPONENTS 1+2+3 | 45 732.53 | 15.60
 
 GUINEA : SUPPORT FOR DEVELOPMENT OF BASIC EDUCATION
 
+ANNEX 7
+Page 1 of 1
+
 # LIST OF GOODS AND SERVICES
 
 UA 1 = GNF 2932.05
 
-Category | GRANT | GVT | Total
---- | --- | --- | --- | --- | --- | --- | --- | ---
-1. | F.C. | L.C. | Total | L.C. | F.C. | TML | Total
-Works
+Category | GRANT | GRANT | GRANT | GVT | Total | Total | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ | F.C. | L.C. | Total | L.C. | F.C. | TML | Total
+1. Works
 CB | 2.45 | 0.88 | 3.33 | 1.13 | 2.45 | 2.01 | 4.46
 Physical Contingency | 0.12 | 0.04 | 0.17 | 0.06 | 0.12 | 0.10 | 0.22
 Price Contingency | 0.22 | 0.08 | 0.29 | 0.10 | 0.22 | 0.18 | 0.39
@@ -1700,22 +1865,20 @@ CB | 0.09 | 0.41 | 0.50 | 0.26 | 0.09 | 0.67 | 0.76
 Physical Contingency | 0.00 | 0.02 | 0.02 | 0.01 | 0.00 | 0.03 | 0.04
 Price Contingency | 0.01 | 0.05 | 0.07 | 0.04 | 0.01 | 0.09 | 0.10
 Total Cost | 0.11 | 0.48 | 0.59 | 0.31 | 0.11 | 0.79 | 0.90
-Basic Cost | Total CB | 8.20 | 4.28 | 12.48 | 1.39 | 8.20 | 5.67 | 13.88
+Basic Total Cost
+CB | 8.20 | 4.28 | 12.48 | 1.39 | 8.20 | 5.67 | 13.88
 Physical Contingency | 0.41 | 0.21 | 0.62 | 0.07 | 0.41 | 0.28 | 0.69
 Price Contingency | 0.56 | 0.34 | 0.89 | 0.13 | 0.56 | 0.47 | 1.03
 Total Project Cost | 9.17 | 4.83 | 14.00 | 1.60 | 9.17 | 6.43 | 15.60
-
-ANNEX 7
-
-Page 1 of 1
 
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
 
-Cultural Section /Info Evaluation
+GUINEA: SUPPORT FOR DEVELOPMENT OF BASIC EDUCATION
 
-GUINEA: SUPPORT FOR DEVELOPMENT OF BASIC EDUCATION ANNEX 8 Page 1 of 1
+ANNEX 8
+Page 1 of 1
 
 # ORGANIZTION CHART OF THE NATIONAL SCHOOL EQUIPMENT AND INFRASTRUCTURE SERVICE
 
@@ -1723,11 +1886,23 @@ GENERAL DIRECTOR
 
 DEPUTY GENERAL DIRECTOR
 
-Monitoring and Evaluation Section Equipment Section
+Delegated Contract Management
+
+Financial Management
+
+Cultural Section /Info Evaluation
+
+Standards and Programmes Section
+
+Monitoring and Evaluation Section
+
+Equipment Section
+
+Maintenance Section
+
+Administrative and Financial Section
 
 SNIES REGIONAL BRANCHES
-
-Standards and Programmes Section Delegated Contract Management Financial Management Maintenance Section Administrative and Financial Section
 
 [[END OF PAGE 60]]
 
@@ -1739,7 +1914,9 @@ ANNEX 9 Page 1 of 1
 
 # TABLE OF CONTENTS OF PROJECT IMPLEMENTATION MANUAL
 
-FOREWORD ACRONYMS GLOSSARY
+FOREWORD
+ACRONYMS
+GLOSSARY
 
 INTRODUCTION
 
@@ -1767,7 +1944,10 @@ CHAPITER 5: OPERATIONAL PROCEDURES
 
 - 5.2. Implementation of components
 
-CHAPITER 6: PROCEDURES FOR PROCUREMENT OF GOODS AND SERVICES CHAPITER 7: ADMINISTRATIVE AND FINANCIAL PROCEDURES CHAPITER 8: PROJECT MONITORING-EVALUATION PROCEDURES ANNEXES
+CHAPITER 6: PROCEDURES FOR PROCUREMENT OF GOODS AND SERVICES
+CHAPITER 7: ADMINISTRATIVE AND FINANCIAL PROCEDURES
+CHAPITER 8: PROJECT MONITORING-EVALUATION PROCEDURES
+ANNEXES
 
 - Annex 1: Form to request replenishment of SNIES account
 
@@ -1783,9 +1963,88 @@ CHAPITER 6: PROCEDURES FOR PROCUREMENT OF GOODS AND SERVICES CHAPITER 7: ADMINIS
 
 GUINEA: SUPPORT FOR DEVELOPMENT OF BASIC EDUCATION
 
+ANNEX 10
+Page 1 of 1
+
 # PROJECT IMPLEMENTATION SCHEDULE
 
-ANNEX 10 Page 1 of 1
+Operations by component | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
+Months | A S O N D | J F M A M J J A S O N D | J F M A M J J A S O N D | J F M A M J J A S O N D | J F M A M J J A S O N D | J F M A M J
+Approval by Boards: May 2005
+Démarrage du projet : 01 July 2005
+Recruitment of technical assistance at SNIES
+Selection of consulting firm(Architect and Technical Control)
+Approval ADB
+
+1 - Amélioration de la couverture
+A  #REF!
+Outline plan and preparation of bidding documents
+Publishing and analysis of bids
+Approval ADB
+Supervision of construction
+Acceptance of construction
+
+B  Biens
+Preparation of bidding documents - equipment
+Publishing of tender documents and analysis of bids
+Approval ADB
+Procurement: furniture; equip. office and computer
+Procurement Sec. School solar energy units
+Procurement educational material
+Procurement manuals and educational support
+Procurement school kits for disadvantaged girls
+
+C  Services
+C  Delegated contract management civil eng.
+Studies and supervision construction
+Technical control of works
+Acceptance of works
+
+.2 Formation / sensibilisation
+Training of teachers
+Training of teachers in gender approach
+Train. Teachers in use of school manuals
+Training of head teachers using skills-based approach
+Professional development of teachers
+
+C .3 Assistance technique
+Study on HIV/AIDS in schools
+Support for training of trainers
+
+2 - Appui institutionnel
+B  Biens
+Prep. tender docs for office/computer equip.
+Publishing tender docs. Analysis of bids
+Approval ADB
+procurement
+Delivery and reception
+
+C  Services
+C  Formation / sensibilisation
+Training of managers abroad
+Training in educ. planning: DNES-SNEP-SSP
+Training in maintenance school furn and equip.
+Study tour: managers Nat. Service Private educ.
+Local training for managers
+Educational planning, mgt and administration
+Information technology training (DPE; IRE; DEV; DCE)
+Training in acquisit. new skills -CHE
+
+C  Assistance technique
+Support to SSP: Preparation school map for 2005-2015
+Support to SSP: Services of statistician-Planner
+Coordi. Operations of financial partners in educ.
+Updating education and training policy.
+Evaluation monitoring of project/dev, MDG
+
+D  Fonctionnement
+
+3 - Gestion du projet
+C  Implementation financial management
+C .1 Preparation of procedures manual
+C .2 Mid term review and completion report
+.4 Audit
+D  Fonctionnement
 
 [[END OF PAGE 62]]
 
@@ -1793,22 +2052,21 @@ ANNEX 10 Page 1 of 1
 
 GUINEA : SUPPORT FOR THE DEVELOPMENT OF BASIC EDUCATION
 
+ANNEX 11
+Page 1 of 1
+
 # PROJECT APPRAISAL REPORT PREPARATION PROCESS
 
 Principal activities | Date | Comments
 --- | --- | ---
 Identification / Preparation Mission | 2002 | The mission met with the Government at the central and decentralized levels, donors, civil society, and parents of pupils. The formulation of the project took into consideration the constraints and priorities identified by these different actors, in complementarity with ongoing actions
 Appraisal Mission | March 2003 | The Mission met with the Government to determine the sector priorities to take into consideration in the project, as well as implementation procedures. The report prepared after this exercise could not be presented to the Boards given the inadequacy of resources available for Guinea at the present time.
-Re-Appraisal Mission | 31 January - 16 February 2005 |  The mission met with the Government at the macro and sector levels, and all actors involved in the sector (civil society, parents, unions, private sector, development partners);  The participatory approach used helped determine project objectives and components as well as the implementation and monitoring modalities; furthermore, it helped underscore the principle of assistance to support coordination of operations of donors in the sector, to better contribute to the achievement of the MDGs
+Re-Appraisal Mission | 31 January – 16 February 2005 | ▪ The mission met with the Government at the macro and sector levels, and all actors involved in the sector (civil society, parents, unions, private sector, development partners); ▪ The participatory approach used helped determine project objectives and components as well as the implementation and monitoring modalities; furthermore, it helped underscore the principle of assistance to support coordination of operations of donors in the sector, to better contribute to the achievement of the MDGs
 Preparation mission report and appraisal report | 18 February - 16 March 2005 | Fax results of the mission to the Government
 Meeting of internal working group (GTI) | 18 March 2005 | Main comments incorporated in the report in view of its presentation to the GTID
 Meeting of interdepartmental work group (GTID) | 30 March 2005 | Main comments incorporated in the report in view of its presentation to the SMC
 Meeting of the Senior Management Committee (SMC) | 12 April 2005 | Amendments taken into account in finalizing the report prior to submission to the General Secretariat
 Transmission of Report to the General Secretariat | 18 April 2005 | Transmission of report for translation and distribution to the Board of Directors
-Boards of Directors | May 2005
-
-ANNEX 11
-
-Page 1 of 1
+Boards of Directors | May 2005 |
 
 [[END OF PAGE 63]]
