@@ -48,7 +48,7 @@ The education in the Republic of Moldova shall constitute a national priority.
 
 [[START OF PAGE 2]]
 
-elaboration of the concept, of curriculum and the training of teaching staff for the course "Moralspiritual education" shall constitute the prerogative of the Ministry of Education.
+elaboration of the concept, of curriculum and the training of teaching staff for the course "Moral-spiritual education" shall constitute the prerogative of the Ministry of Education.
 
 [Para.4 Article 4 as modified under Law no. 844-XIV of 25.02.2000]
 
@@ -174,7 +174,7 @@ The system of education shall include also other forms of education:
 
 - In pre-school education, a group shall be comprised of at most 10 children in the nursery and 15 children  in  the  kindergarten.  In  primary,  gymnasium  and  lyceum  education,  the  class  shall  be comprised  of  at  most  20  students,  and  in  the  vocational  secondary  and  higher  education,  the group shall not exceed 25 persons.
 
-[The application of Para.4 Article 13 shall be suspended for the period of 1999 as prescribed under the Law no. 216XIV of 12.12.1998]
+[The application of Para.4 Article 13 shall be suspended for the period of 1999 as prescribed under the Law no. 216-XIV of 12.12.1998]
 
 - The system of education shall be open, being secured the possibility of passing from one type to another,  under  the  terms  prescribed  by  the  relevant  regulation,  adopted  by  the  Ministry  of Education.
 
@@ -196,13 +196,13 @@ The system of education shall include also other forms of education:
 
 ### Article 16. Duration of the school year
 
-- The school  year  in  the  pre-university  education  shall  begin  on  September  1 st   and  shall  last  35 weeks, distributed on relatively equal quarters, separated by holidays (vacation).
+- The school year in the pre-university education shall begin on September 1st and shall last 35 weeks, distributed on relatively equal quarters, separated by holidays (vacation).
 
-- The university year in the higher education shall begin on September 1 st  and shall last 42 weeks, distributed in two equal semesters, to which are added two exam sessions, internship period and two vacations.
+- The university year in the higher education shall begin on September 1st and shall last 42 weeks, distributed in two equal semesters, to which are added two exam sessions, internship period and two vacations.
 
 [Para.2 Article 6 as modified under Law no. 1208-XIV of 28.07.2000]
 
-- The  period  and  the  duration  of  vacations,  as  well  as  the  duration  of  classes  (lessons)  in  preuniversity education and of academic classes in the higher education shall be established by the Ministry of Education.
+- The period and the duration of vacations, as well as the duration of classes (lessons) in pre-university education and of academic classes in the higher education shall be established by the Ministry of Education.
 
 ### Article 17. Pre-school education
 
@@ -220,7 +220,7 @@ The system of education shall include also other forms of education:
 
 - Preparing pre-school children for school shall be compulsory starting from the age of 5 and shall be performed in preparation groups, in kindergarten or school, or, upon the request of parents, in their  families.  The  State  shall  secure  material  and  financial  conditions  necessary  for  the appropriate performance of the instructive-educative process in preparation groups. Depending on local conditions, the latter may be organized also within primary schools.
 
-- Local  public  administration  authority  shall  be  bound  to  maintain  the  system  of  existent  preschool  institutions  and,  if  necessary,  to  open  new  ones,  securing  their  material  and  financial support, according to the social needs of the population.
+- Local public administration authority shall be bound to maintain the system of existent pre-school institutions and, if necessary, to open new ones, securing their material and financial support, according to the social needs of the population.
 
 - The  State  shall  guarantee  the  education  and  taking  care  of  children  of  ante-pre-school  age physically or mentally disabled, as well as of orphan children.
 
@@ -234,7 +234,7 @@ The system of education shall include also other forms of education:
 
 - Primary education shall  comprise  grades  I-IV  and  shall  be  organized  as  day  school  in  primary schools, which can function as separate units, or incorporated in general secondary schools.
 
-- In the 1 st  grade shall be accepted children aged 6-7 at the beginning of the school year. Schooling shall become mandatory at the age of 7.
+- In the 1st grade shall be accepted children aged 6-7 at the beginning of the school year. Schooling shall become mandatory at the age of 7.
 
 - The beginning of schooling for children aged 6 shall be established with the consent of parents, depending on the level of somatic-psychic maturity, as established by the Ministry of Education.
 
@@ -288,7 +288,7 @@ The system of education shall include also other forms of education:
 
 ### Article 21. Organization of vocational secondary education
 
-- Vocational  secondary  education  shall  insure  initial  training  for  a  profession,  as  well  as  the  inservice training and recycling of qualified workers and of unemployed persons.
+- Vocational secondary education shall insure initial training for a profession, as well as the in-service training and recycling of qualified workers and of unemployed persons.
 
 - The State shall secure the vocational training for a profession for gymnasium graduates who have not reached the age of 16 and do not attend lyceums (general secondary schools).
 
@@ -458,7 +458,7 @@ be  completed  with  taking  the  graduation  exam  and  obtaining  a  specialis
 
 [[START OF PAGE 11]]
 
-- The  graduates  holding  a  license  diploma  may  continue  their  education  in  specialized  postgraduate  education,  organized  in  university  higher  education  institutions,  scientific  research institutions or other institutions, which hold a license in the field of education. The duration of specialized education shall be of 1-2 years.
+- The graduates holding a license diploma may continue their education in specialized post-graduate education, organized in university higher education institutions, scientific research institutions or other institutions, which hold a license in the field of education. The duration of specialized education shall be of 1-2 years.
 
 [Para.1 Article 29 as worded under Law no. 1208-XIV of 28.07.2000]
 
@@ -470,7 +470,7 @@ be  completed  with  taking  the  graduation  exam  and  obtaining  a  specialis
 
 ### Article 30. Doctoral studies
 
-- Doctoral studies shall represent a form of post-graduate education, which is performed by means of a scientific research activity for a duration of 3 years in day education and of 4 years in nonattendance education.
+- Doctoral studies shall represent a form of post-graduate education, which is performed by means of a scientific research activity for a duration of 3 years in day education and of 4 years in non-attendance education.
 
 - The admission to doctoral studies shall be performed on a contest basis, at which may participate the holders of master and license diplomas.
 
@@ -490,7 +490,7 @@ be  completed  with  taking  the  graduation  exam  and  obtaining  a  specialis
 
 - The persons who follow post-doctoral studies may benefit from creation leaves up till 2 years, having their salary maintained.
 
-- Post-doctoral  studies  shall  be  completed  with  the  public  presentation  of  a  thesis  before  a scientific  board,  approved  by  the  Superior  Attestation  Committee  and  awarding  the  second degree scientific title doctor habilitat .
+- Post-doctoral studies shall be completed with the public presentation of a thesis before a scientific board, approved by the Superior Attestation Committee and awarding the second degree scientific title - doctor habilitat.
 
 - The criteria for the elaboration of the thesis and for awarding the title of doctor habilitat shall be established by the Superior Attestation Committee.
 
@@ -526,7 +526,7 @@ be  completed  with  taking  the  graduation  exam  and  obtaining  a  specialis
 
 - The duration of compulsory special education shall depend on the type and the degree of the disability and shall be of 8 years for children with psychical deficiencies and of 10-12 years for children with physical and sensor deficiencies.
 
-- In the primary cycle of special education in auxiliary schools for children with physical, sensor and speech deficiencies shall be employed only didactical staff with a special training (in olygofreno-pedagogy, typhlo-pedagogy, deaf-pedagogy, logopaedics).
+- In the primary cycle of special education in auxiliary schools for children with physical, sensor and speech deficiencies shall be employed only didactical staff with a special training (in olygo-freno-pedagogy, typhlo-pedagogy, deaf-pedagogy, logopaedics).
 
 - Teaching of school disciplines (grades V-VIII) in schools for children with physical and sensor deficiencies  shall  be  performed  by  didactical  staff,  who  had  followed  a  specialization  in recuperative psycho-pedagogy.
 
@@ -540,7 +540,7 @@ be  completed  with  taking  the  graduation  exam  and  obtaining  a  specialis
 
 - Education,  at  all  levels  and  stages,  shall  be  completed  by  extra-curriculum  activities,  meant  to develop individual abilities and capacities, to satisfy diverse interest and options of the individual.
 
-- Extra-curriculum  activities  shall  have  a scientific, cultural-artistic, sport, tourist,  technicalapplicative profile.
+- Extra-curriculum activities shall have a scientific, cultural-artistic, sport, tourist, technical-applicative profile.
 
 - Complementary education shall be organized in groups or individually in diverse extra-curriculum institutions (clubs, pre-school and student palaces, school camps, sport, tourist and entertainment clubs, etc.), as well as in institutions from the education network.
 
@@ -622,7 +622,7 @@ be  completed  with  taking  the  graduation  exam  and  obtaining  a  specialis
 
 - accreditation, which grants all rights prescribed by the present law.
 
-- The  accreditation  shall  be  solicited  after  obtaining  the  authorization:  for  kindergartens  and primary schools- at most after 4 years, and for pre-university and higher education institutions after the first graduation exam of the respective education level.
+- The accreditation shall be solicited after obtaining the authorization: for kindergartens and primary schools- at most after 4 years, and for pre-university and higher education institutions - after the first graduation exam of the respective education level.
 
 - The  basic  criteria  for  private  education  institutions  shall  concern  didactical  staff,  education content, technical-material basis and economic-financial activity.
 
@@ -784,7 +784,7 @@ The relevant ministries and department shall:
 
 - School  inspectors  shall  have  access  to  all  education  institutions  situated  on  their  territory  of jurisdiction.
 
-- In each judets center, city (municipality) shall activate methodology offices, methodical-psychopedagogical  centers,  psychological  services,  inspectorates  for  child  protection  and  medicalpsycho-pedagogical  commissions,  subordinated  to  education  directions.  The  structure  and competence of these units shall be established by regulations approved by the Government.
+- In each judets center, city (municipality) shall activate methodology offices, methodical-psycho-pedagogical centers, psychological services, inspectorates for child protection and medical-psycho-pedagogical commissions, subordinated to education directions. The structure and competence of these units shall be established by regulations approved by the Government.
 
 [Article 43 as modified under Law no. 1279-XV of 25.07.2002] [Article 43 as modified under Law no. 1208-XIV of 28.07.2000]
 
@@ -854,17 +854,13 @@ Local public administration authorities, in the field of education, shall mainly
 
 ### Article 46. Administrative and consultative bodies
 
-- In the education system shall activate the following administrative and consultative bodies :
+- In the education system shall activate the following administrative and consultative bodies:
 
-- a)
+a) at the republican level:
 
-- b)
+the Council (Board) of the Ministry of Education, chaired by the minister. The Board members shall be appointed by a Government decision;
 
-- at the republican level:
-
-the  Council  (Board)  of  the  Ministry  of  Education,  chaired  by  the  minister.  The  Board members shall be appointed by a Government decision;
-
-- at the local level:
+b) at the local level:
 
 administration council of the judets, municipal education direction, chaired by the general director of the education direction and comprising general director, deputy general directors, school inspection chief, chief accountant and chief of the methodical office;
 
@@ -872,19 +868,19 @@ administration council of the judets, municipal education direction, chaired by 
 
 [[START OF PAGE 20]]
 
-- c)
-
-consultative  council  of  the  judets,  municipal  education  direction,  approved  by  the respective  executive  committee  and  comprising  directors  of  education  institutions,  other prestige  didactical  staff,  representative  of  parents,  of  local  public  administration  and  of economic units;
+consultative council of the judets, municipal education direction, approved by the respective executive committee and comprising directors of education institutions, other prestige didactical staff, representative of parents, of local public administration and of economic units;
 
 [Letter b) as modified under Law no. 1208-XIV of 28.07.2000]
 
-- in pre-university education institutions: teachers' board of the education institution, comprising didactical staff and chaired by the
+c) in pre-university education institutions:
 
-director;
+teachers' board of the education institution, comprising didactical staff and chaired by the director;
 
-administration board  of the education institution, comprising  the director, deputy directors, chief accountant, didactical staff chosen from the teachers board, representatives of parents, of local public administration, of scholars (in lyceums and profession schools). The director of the education institution shall chair the administration board.
+administration board of the education institution, comprising the director, deputy directors, chief accountant, didactical staff chosen from the teachers board, representatives of parents, of local public administration, of scholars (in lyceums and profession schools). The director of the education institution shall chair the administration board.
 
-- in higher education institutions: university senate of the education institution, chaired by the rector; bureau of university senate, comprising the rector, pro-rectors and scientific secretary; university administration board; faculty board, chaired by the dean; department scientific council, chaired by the director of the department; college teachers board; college administration board.
+d) in higher education institutions:
+
+university senate of the education institution, chaired by the rector; bureau of university senate, comprising the rector, pro-rectors and scientific secretary; university administration board; faculty board, chaired by the dean; department scientific council, chaired by the director of the department; college teachers board; college administration board.
 
 - The structure and the competence of bodies in higher education institutions shall be established by the University Charter, and of pre-university education institutions -   by  the  statute  of  the respective institutions.
 
@@ -1102,7 +1098,7 @@ Education personnel shall comprise didactical staff, scientific personnel, auxil
 
 - Specialized,  methodological  and  psycho-pedagogical  in-service  training  of  didactical  staff  from pre-university  education,  as  well  as  the  initial  and  in-service  training  of  management  and inspection didactical staff shall be organized and coordinated by the Ministry of education.
 
-- The  in-service  training  of  didactical  staff  from  higher  education  shall  be  performed  as  postgraduate education, internship, programs of specialization, scientific research and other programs, carried out in the country or abroad.
+- The in-service training of didactical staff from higher education shall be performed as post-graduate education, internship, programs of specialization, scientific research and other programs, carried out in the country or abroad.
 
 - The in-service training of didactical staff shall be mandatory and shall be performed at least once every  5  years,  having  as  objective  of  permanent  maintenance  of  the  qualification  level  in compliance  with  the  most  recent  conceptual,  methodological,  curriculum  and  technological achievements in the field of education.
 
@@ -1242,7 +1238,7 @@ Medical institutions of the Ministry of Health and department medical institutio
 
 - donations  and  revenues  obtained  from  international  collaboration  (cooperation),  as  well  as donations from natural persons and legal entities.
 
-(5)  The  Ministry  of  Education  shall  be  entitled  to  form  and  use    the  extra-budgetary  fund  for supporting  some  activities  in  the  field  of  education.  The  order  of  creation  and  use  of  the aforementioned fund shall be established by the regulation approved by the Government. The extrabudgetary fund for supporting such activities in the field of education shall be approved by the Law on the state budget of the respective year.
+(5) The Ministry of Education shall be entitled to form and use the extra-budgetary fund for supporting some activities in the field of education. The order of creation and use of the aforementioned fund shall be established by the regulation approved by the Government. The extra-budgetary fund for supporting such activities in the field of education shall be approved by the Law on the state budget of the respective year.
 
 [Para. 5 Article 61 as modified under the Law no. 1132-XV of 14.06.2002]
 
@@ -1270,7 +1266,7 @@ Medical institutions of the Ministry of Health and department medical institutio
 
 [Para.9 Article 61 as amended under the Law no.1592-XIII of 27.02.1998]
 
-- The  means  disbursed  by  economic  agents  for  the  organization  and  performance  of  the internship and apprenticeship of those disbursed by them for the consolidation of the technicalmaterial  basis  of  vocational  and  profession  schools,  as  well  as  for  training  qualified  workers, masters and technicians, shall be exempted from tax.
+- The means disbursed by economic agents for the organization and performance of the internship and apprenticeship of those disbursed by them for the consolidation of the technical-material basis of vocational and profession schools, as well as for training qualified workers, masters and technicians, shall be exempted from tax.
 
 - The  budgetary  means  disbursed  for  education  and  the  revenues  of  instructive-educative institutions obtained from legal sources shall be intangible.
 
@@ -1288,7 +1284,7 @@ Medical institutions of the Ministry of Health and department medical institutio
 
 - The  state  shall  guarantee  as  a  priority  the  development  of  the  technical-material  basis  of  the education  system,  the  equipment  of  education  institutions  according  to  world  standards,  the construction of buildings for education and  training, of sport and  entertainment clubs, accommodation space for didactical staff, hostels for scholars and students.
 
-- Ministries,  departments,  economic  agents  and  local  public  administration  authorities  shall  be entitled  to  transfer  to  education  institutions  equipment,  installations,  transportation  means, accommodation  space,  land,  etc,  as  sponsorship  or  coverage  of  expenditures  for  initial  or  inservice training of specialists or for other services.
+- Ministries, departments, economic agents and local public administration authorities shall be entitled to transfer to education institutions equipment, installations, transportation means, accommodation space, land, etc, as sponsorship or coverage of expenditures for initial or in-service training of specialists or for other services.
 
 [Para.5 Article 62 excluded under Law no. 523-XV of 11.10.2001, the other paragraphs are renumbered]
 
@@ -1392,12 +1388,11 @@ The Law of Moldovan SSR no. 324-IX of 24 December 1975 on public education (News
 
 Article 3 of the Directive 4  of he Supreme Soviet Presidium of Moldovan SSR no. 1788-XI of 31 March 1987 on the modification of some legislative acts of Moldovan SSR (News of the Supreme Soviet and of Moldovan SSR Government, 1987, no.4, Article 50).
 
-President of Parliament
+President of Parliament                                            Petru Lucinschi
 
-Chi şinău, 21 July 1995. No. 547-XIII
+Chişinău, 21 July 1995.
+No. 547-XIII
 
 > 4 Ukaz (transl. note).
-
-Petru Lucinschi
 
 [[END OF PAGE 31]]
