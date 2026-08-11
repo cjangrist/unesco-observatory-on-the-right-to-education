@@ -2,35 +2,40 @@
 
 4
 
-JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 11
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 11
+
+24 Safar 1429
+2 mars 2008
 
 # LOIS
 
-# Loi  n ° 08-07  du  16  Safar  1429  correspondant  au 23  fØvrier  2008  portant  loi  d'orientation  sur  la formation et l'enseignement professionnels.
+# Loi n° 08-07 du 16 Safar 1429 correspondant au 23 février 2008 portant loi d'orientation sur la formation et l'enseignement professionnels.
 
-Le PrØsident de la RØpublique,
+— — — —
 
-Vu la Constitution, notamment ses articles 53, 119, 122 (alinØa 16) et 126 ;
+Le Président de la République,
 
-Vu  la  loi  n ° 81-07  du    27  juin  1981,  modifiØe  et complØtØe, relative    l'apprentissage ;
+Vu la Constitution, notamment ses articles 53, 119, 122 (alinéa 16) et 126 ;
 
-Vu  la  loi  n ° 90-21  du    15  aoßt  1990,  modifiØe  et complØtØe, relative   la comptabilitØ publique ;
+Vu la loi n° 81-07 du 27 juin 1981, modifiée et complétée, relative à l'apprentissage ;
 
-Vu  la  loi  n ° 90-31  du    4  dØcembre  1990  relative  aux associations ;
+Vu la loi n° 90-21 du 15 août 1990, modifiée et complétée, relative à la comptabilité publique ;
 
-Vu  la  loi  n ° 91-05  du  16  janvier  1991,  modifiØe  et complØtØe, relative   la gØnØralisation de l'utilisation de la langue arabe ;
+Vu la loi n° 90-31 du 4 décembre 1990 relative aux associations ;
 
-Vu l'ordonnance n ° 95-20 du 19 Safar 1416 correspondant  au  17  juillet  1995  relative      la  Cour  des comptes ;
+Vu la loi n° 91-05 du 16 janvier 1991, modifiée et complétée, relative à la généralisation de l'utilisation de la langue arabe ;
 
-Vu  l'ordonnance  n ° 96-01 du 19 Cha  bane  1416 correspondant au 10 janvier 1996 fixant les rŁgles rØgissant l'artisanat et les mØtiers ;
+Vu l'ordonnance n° 95-20 du 19 Safar 1416 correspondant au 17 juillet 1995 relative à la Cour des comptes ;
 
-Vu l'ordonnance n ° 02-09 du 25 Safar 1423 correspondant au 8 mai 2002 relative   la protection et   la promotion des personnes handicapØes ;
+Vu l'ordonnance n° 96-01 du 19 Chaâbane 1416 correspondant au 10 janvier 1996 fixant les règles régissant l'artisanat et les métiers ;
 
-Vu la loi n ° 08-04 du 15 Moharram 1429 correspondant au 23 janvier 2008 portant loi d'orientation de l'Øducation nationale ;
+Vu l'ordonnance n° 02-09 du 25 Safar 1423 correspondant au 8 mai 2002 relative à la protection et à la promotion des personnes handicapées ;
 
-AprŁs avis du Conseil d Etat,
+Vu la loi n° 08-04 du 15 Moharram 1429 correspondant au 23 janvier 2008 portant loi d'orientation de l'éducation nationale ;
 
-AprŁs adoption par le Parlement,
+Après avis du Conseil d'Etat,
+
+Après adoption par le Parlement,
 
 Promulgue la loi dont la teneur suit :
 
@@ -39,33 +44,33 @@ Promulgue la loi dont la teneur suit :
 ### DISPOSITIONS GENERALES
 
 ###### Article 1er.
-La prØsente loi d orientation a pour objet de  fixer  les  dispositions  fondamentales  applicables      la formation et   l'enseignement professionnels et de dØfinir le cadre de leur organisation institutionnelle.
+La présente loi d'orientation a pour objet de fixer les dispositions fondamentales applicables à la formation et à l'enseignement professionnels et de définir le cadre de leur organisation institutionnelle.
 
 ###### Art. 2.
-Au sens de la prØsente loi, le service public de la formation et de l'enseignement professionnels comprend :
+Au sens de la présente loi, le service public de la formation et de l'enseignement professionnels comprend :
 
 - la formation professionnelle initiale y compris l'apprentissage et la formation continue ;
 
 - l'enseignement professionnel.
 
 ###### Art. 3.
-Composante du systŁme national d'Øducation et  de  formation,  le  service  public  de  la  formation  et  de l'enseignement professionnels contribue :
+Composante du système national d'éducation et de formation, le service public de la formation et de l'enseignement professionnels contribue :
 
-- au  dØveloppement  des  ressources  humaines  par  la formation  d'une  main-d'  uvre  qualifiØe  dans  tous  les domaines d'activitØ Øconomique ;
+- au développement des ressources humaines par la formation d'une main-d'œuvre qualifiée dans tous les domaines d'activité économique ;
 
-- la promotion sociale et professionnelle des travailleurs ;
+- à la promotion sociale et professionnelle des travailleurs ;
 
-- la satisfaction des besoins du marchØ de l'emploi.
+- à la satisfaction des besoins du marché de l'emploi.
 
 ###### Art. 4.
 La dotation de tout citoyen d'une qualification professionnelle reconnue est un objectif national et permanent.
 
-L'Etat assure l'ØgalitØ des chances  dans l'accŁs  au service public de la formation et de l'enseignement professionnels.
+L'Etat assure l'égalité des chances dans l'accès au service public de la formation et de l'enseignement professionnels.
 
-Des  dispositifs  particuliers  doivent  Œtre  mis  en  place pour la formation des personnes handicapØes  et  des populations spØcifiques.
+Des dispositifs particuliers doivent être mis en place pour la formation des personnes handicapées et des populations spécifiques.
 
 ###### Art. 5.
-L'Etat met en place, dans le cadre de la mise en uvre  de la politique nationale de formation et d'enseignement professionnels, tous les moyens et engage toutes  les  mesures  susceptibles  de  fØdØrer  les  efforts  des collectivitØs locales, des Øtablissements publics et privØs, des organisations professionnelles et du mouvement associatif  pour  les  faire  participer  activement      l'  uvre nationale de promotion de la formation et de l'enseignement professionnels.
+L'Etat met en place, dans le cadre de la mise en œuvre de la politique nationale de formation et d'enseignement professionnels, tous les moyens et engage toutes les mesures susceptibles de fédérer les efforts des collectivités locales, des établissements publics et privés, des organisations professionnelles et du mouvement associatif pour les faire participer activement à l'œuvre nationale de promotion de la formation et de l'enseignement professionnels.
 
 ## TITRE II
 
@@ -76,68 +81,67 @@ L'Etat met en place, dans le cadre de la mise en uvre  de la politique nationale
 ##### La formation professionnelle initiale
 
 ###### Art. 6.
-La formation professionnelle initiale, au sens de  la  prØsente  loi,  vise  l'acquisition  de  qualifications pratiques  et  de  connaissances  spØcifiques  nØcessaires l'exercice d'un mØtier.
+La formation professionnelle initiale, au sens de la présente loi, vise l'acquisition de qualifications pratiques et de connaissances spécifiques nécessaires à l'exercice d'un métier.
 
-###### Art.  7.
-La  formation  professionnelle  initiale  a  pour objectif d'assurer une qualification de base tout demandeur de formation.
+###### Art. 7.
+La formation professionnelle initiale a pour objectif d'assurer une qualification de base à tout demandeur de formation.
 
 #### Chapitre 2
 
 ##### La formation professionnelle continue
 
-###### Art.  8.
-La  formation  professionnelle  continue,  au sens  de  la  prØsente  loi,  vise      assurer  le  recyclage  des travailleurs et leur perfectionnement.
+###### Art. 8.
+La formation professionnelle continue, au sens de la présente loi, vise à assurer le recyclage des travailleurs et leur perfectionnement.
 
 ###### Art. 9.
 La formation professionnelle continue a pour objectifs :
 
-- de favoriser l'insertion,  la  rØinsertion  et  la  mobilitØ professionnelles des travailleurs ;
+- de favoriser l'insertion, la réinsertion et la mobilité professionnelles des travailleurs ;
 
-- d'adapter les capacitØs  des  travailleurs      l'Øvolution de la technologie et des mØtiers .
+- d'adapter les capacités des travailleurs à l'évolution de la technologie et des métiers .
 
 Cette formation peut s'effectuer sur les lieux de travail et en entreprise.
-
-24 Safar 1429 2 mars 2008
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 11
+24 Safar 1429
+2 mars 2008
+
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 11
 
 5
 
-24 Safar 1429 2 mars 2008
-
 ## TITRE III
 
-### DE L'ENSEIGNEMENT  PROFESSIONNEL
+### DE L'ENSEIGNEMENT PROFESSIONNEL
 
 ###### Art. 10.
-L'enseignement professionnel, au sens de la prØsente loi, dØsigne tout enseignement la fois acadØmique  et  qualifiant  assurØ  par  des  Øtablissements d'enseignement  professionnel  aprŁs  le  cycle  obligatoire des Øtablissements de l'Øducation nationale.
+L'enseignement professionnel, au sens de la présente loi, désigne tout enseignement à la fois académique et qualifiant assuré par des établissements d'enseignement professionnel après le cycle obligatoire des établissements de l'éducation nationale.
 
 ###### Art. 11.
-L'enseignement professionnel vise la prØparation      l'exercice  d'un  mØtier  ou  d'un  groupe  de mØtiers.
+L'enseignement professionnel vise la préparation à l'exercice d'un métier ou d'un groupe de métiers.
 
-- Il prØpare Øgalement des formations professionnalisantes se situant dans le prolongement de la filiŁre suivie.
+Il prépare également à des formations professionnalisantes se situant dans le prolongement de la filière suivie.
 
-###### Art.  12.
-L'enseignement  professionnel  englobe  des enseignements scientifiques et technologiques et qualifiants ainsi que des pØriodes de formation en milieu professionnel.
+###### Art. 12.
+L'enseignement professionnel englobe des enseignements scientifiques et technologiques et qualifiants ainsi que des périodes de formation en milieu professionnel.
 
-L'enseignement scientifique et technologique vise l'acquisition  de  la  culture  scientifique  et  technologique permettant le dØveloppement des compØtences professionnelles.
+L'enseignement scientifique et technologique vise l'acquisition de la culture scientifique et technologique permettant le développement des compétences professionnelles.
 
-L'enseignement qualifiant vise l'acquisition de compØtences professionnelles  nØcessaires      l'exercice d'un mØtier.
+L'enseignement qualifiant vise l'acquisition de compétences professionnelles nécessaires à l'exercice d'un métier.
 
-Les cycles de formation en milieu professionnel visent essentiellement l'acquisition des compØtences qui ne peuvent Œtre rØalisØes qu'en milieu professionnel.
+Les cycles de formation en milieu professionnel visent essentiellement l'acquisition des compétences qui ne peuvent être réalisées qu'en milieu professionnel.
 
-###### Art.  13.
-L'enseignement  professionnel  est  destinØ aux ØlŁves de l'enseignement obligatoire admis l'enseignement  post-obligatoire  et  ayant  optØ  pour  cet enseignement,  ainsi  qu'aux  ØlŁves  rØorientØs      partir  de l'enseignement secondaire gØnØral et technologique.
+###### Art. 13.
+L'enseignement professionnel est destiné aux élèves de l'enseignement obligatoire admis à l'enseignement post-obligatoire et ayant opté pour cet enseignement, ainsi qu'aux élèves réorientés à partir de l'enseignement secondaire général et technologique.
 
-Les conditions d'admission et les modalitØs d'orientation sont  fixØes  par  arrŒtØ  conjoint  du  ministre  chargØ  de  la formation et de l'enseignement professionnels et  du ministre chargØ de l'Øducation nationale.
+Les conditions d'admission et les modalités d'orientation sont fixées par arrêté conjoint du ministre chargé de la formation et de l'enseignement professionnels et du ministre chargé de l'éducation nationale.
 
 ## TITRE IV
 
-### LE CADRE INSTITUTIONNEL ET ORGANISATIONNEL DE LA FORMATION ET DE L'ENSEIGNEMENT   PROFESSIONNELS
+### LE CADRE INSTITUTIONNEL ET ORGANISATIONNEL DE LA FORMATION ET DE L'ENSEIGNEMENT PROFESSIONNELS
 
 #### Chapitre I
 
@@ -146,52 +150,52 @@ Les conditions d'admission et les modalitØs d'orientation sont  fixØes  par  a
 ###### Art. 14.
 Le cadre institutionnel de la formation et de l'enseignement professionnels comprend :
 
-- les  Øtablissements  publics  de  la  formation  et  de l'enseignement professionnels ;
+- les établissements publics de la formation et de l'enseignement professionnels ;
 
-- les Øtablissements publics de soutien aux activitØs de la formation et de l'enseignement professionnels ;
+- les établissements publics de soutien aux activités de la formation et de l'enseignement professionnels ;
 
-- tout autre lieu relevant du secteur public et qui peut Œtre affectØ pour assurer une formation professionnelle.
+- tout autre lieu relevant du secteur public et qui peut être affecté pour assurer une formation professionnelle.
 
-Les statuts et les modalitØs de crØation de ces Øtablissements sont fixØs par voie rØglementaire.
+Les statuts et les modalités de création de ces établissements sont fixés par voie réglementaire.
 
 ###### Art. 15.
-Les personnes physiques ou morales de droit privØ  peuvent  crØer  des  Øtablissements  de  formation  ou d'enseignement professionnels.
+Les personnes physiques ou morales de droit privé peuvent créer des établissements de formation ou d'enseignement professionnels.
 
-Les  conditions  d'application  du  prØsent  article  sont dØfinies par voie rØglementaire.
+Les conditions d'application du présent article sont définies par voie réglementaire.
 
 ###### Art. 16.
-Il est crØØ un centre national de formation et d'enseignement professionnels virtuel.
+Il est créé un centre national de formation et d'enseignement professionnels virtuel.
 
-Les modalitØs d'organisation et de fonctionnement de ce centre sont fixØes par voie rŁglementaire.
+Les modalités d'organisation et de fonctionnement de ce centre sont fixées par voie réglementaire.
 
 #### Chapitre II
 
 ##### Organisation de la formation et de l'enseignement professionnels
 
-###### Art.  17.
-Le  ministre  chargØ  de  la  formation  et  de l'enseignement professionnels fixe les modes de formation et d'enseignement professionnels, l'organisation de la formation  et  de  l'enseignement  professionnels  ainsi  que les conditions et les modalitØs  d'inscription dans  les Øtablissements de formation et d'enseignement professionnels.
+###### Art. 17.
+Le ministre chargé de la formation et de l'enseignement professionnels fixe les modes de formation et d'enseignement professionnels, l'organisation de la formation et de l'enseignement professionnels ainsi que les conditions et les modalités d'inscription dans les établissements de formation et d'enseignement professionnels.
 
 ###### Art. 18.
-Les programmes de formation professionnelle initiale et les programmes d'enseignement professionnel  sont  fixØs  par  le  ministre  chargØ  de  la formation et de l'enseignement professionnels.
+Les programmes de formation professionnelle initiale et les programmes d'enseignement professionnel sont fixés par le ministre chargé de la formation et de l'enseignement professionnels.
 
-###### Art.  19.
-Les  cycles  de  formation  professionnelle initiale  et  les  cycles  d'enseignement  professionnel  sont sanctionnØs  par  des  dipl  mes  dØlivrØs  par  le  ministre chargØ de la formation et de l'enseignement professionnels.
+###### Art. 19.
+Les cycles de formation professionnelle initiale et les cycles d'enseignement professionnel sont sanctionnés par des diplômes délivrés par le ministre chargé de la formation et de l'enseignement professionnels.
 
-Les  modalitØs  de  crØation  de  ces  dipl  mes  sont  fixØes par voie rŁglementaire.
+Les modalités de création de ces diplômes sont fixées par voie réglementaire.
 
-###### Art.  20.
-La  formation  professionnelle  continue  est organisØe soit dans le cadre du systŁme de la formation et de l'enseignement professionnels, soit l'aide de programmes spØcifiques.
+###### Art. 20.
+La formation professionnelle continue est organisée soit dans le cadre du système de la formation et de l'enseignement professionnels, soit à l'aide de programmes spécifiques.
 
-Elle  est  sanctionnØe,  selon  le  cas,  par  un  dipl  me dØlivrØ  par  le  ministre  chargØ  de  la  formation  et  de l'enseignement professionnels, par une attestation de formation ou par un certificat de qualification.
+Elle est sanctionnée, selon le cas, par un diplôme délivré par le ministre chargé de la formation et de l'enseignement professionnels, par une attestation de formation ou par un certificat de qualification.
 
-Les conditions et les modalitØs d'application des dispositions du prØsent article sont fixØes par voie rŁglementaire.
+Les conditions et les modalités d'application des dispositions du présent article sont fixées par voie réglementaire.
 
 #### Chapitre III
 
-##### Orientation et Øvaluation
+##### Orientation et évaluation
 
-###### Art.  21.
-Le  ministre  chargØ  de  la  formation  et  de l'enseignement  professionnels  fixe  les  conditions  et  les modalitØs  d'orientation  dans  les  diffØrentes  filiŁres  de formation  et  d'enseignement  professionnels,  en  fonction des v ux des postulants et des capacitØs des Øtablissements d'accueil.
+###### Art. 21.
+Le ministre chargé de la formation et de l'enseignement professionnels fixe les conditions et les modalités d'orientation dans les différentes filières de formation et d'enseignement professionnels, en fonction des vœux des postulants et des capacités des établissements d'accueil.
 
 [[END OF PAGE 2]]
 
@@ -199,52 +203,52 @@ Le  ministre  chargØ  de  la  formation  et  de l'enseignement  professionnels 
 
 6
 
-JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 11
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 11
 
-24 Safar 1429 2 mars 2008
+24 Safar 1429
+2 mars 2008
 
 ###### Art. 22.
-Les activitØs de la formation et de l'enseignement professionnels sont soumises une Øvaluation  pØriodique  dont  les  modalitØs  et  les  critŁres sont  fixØs  par  le  ministre  chargØ  de  la  formation  et  de l'enseignement professionnels.
+Les activités de la formation et de l'enseignement professionnels sont soumises à une évaluation périodique dont les modalités et les critères sont fixés par le ministre chargé de la formation et de l'enseignement professionnels.
 
 #### Chapitre IV
 
 ##### Des organes de concertation, structures et instruments de soutien
 
 ###### Art. 23.
-Il est crØØ, auprŁs du ministre chargØ de la formation et de l'enseignement professionnels, un organe dØnommØ  "ConfØrence  nationale  de  la  formation  et  de l'enseignement  professionnels"  et  des  organes  rØgionaux dØnommØs "ConfØrences rØgionales de la formation et de l'enseignement professionnels".
+Il est créé, auprès du ministre chargé de la formation et de l'enseignement professionnels, un organe dénommé "Conférence nationale de la formation et de l'enseignement professionnels" et des organes régionaux dénommés "Conférences régionales de la formation et de l'enseignement professionnels".
 
-Ces  organes  constituent  un  cadre  de  concertation,  de coordination et d'Øvaluation des activitØs du rØseau de la formation et de l'enseignement professionnels.
+Ces organes constituent un cadre de concertation, de coordination et d'évaluation des activités du réseau de la formation et de l'enseignement professionnels.
 
-La composition, les attributions et le fonctionnement de ces organes sont fixØs par voie rØglementaire.
+La composition, les attributions et le fonctionnement de ces organes sont fixés par voie réglementaire.
 
 ###### Art. 24.
-Il est crØØ, auprŁs du ministre chargØ de la formation et de l'enseignement professionnels, un conseil de partenariat de la formation et de l'enseignement professionnels.
+Il est créé, auprès du ministre chargé de la formation et de l'enseignement professionnels, un conseil de partenariat de la formation et de l'enseignement professionnels.
 
-Le conseil de partenariat de la formation et de l'enseignement professionnels participe, par des recommandations  et  des  avis,        l'Ølaboration  et      la dØfinition  de  la  politique  nationale  de  la  formation  et  de l'enseignement professionnels.
+Le conseil de partenariat de la formation et de l'enseignement professionnels participe, par des recommandations et des avis, à l'élaboration et à la définition de la politique nationale de la formation et de l'enseignement professionnels.
 
-Les attributions, la composition et les modalitØs d'organisation  et  de  fonctionnement  de  ce  conseil  sont fixØes par voie rŁglementaire.
+Les attributions, la composition et les modalités d'organisation et de fonctionnement de ce conseil sont fixées par voie réglementaire.
 
 ###### Art. 25.
-Il est crØØ, auprŁs du ministre chargØ de la formation et de l'enseignement professionnels, un observatoire de la formation et de l'enseignement professionnels  chargØ  des  activitØs  de  prospective  en termes de besoins quantitatifs et qualitatifs en matiŁre de qualification.
+Il est créé, auprès du ministre chargé de la formation et de l'enseignement professionnels, un observatoire de la formation et de l'enseignement professionnels chargé des activités de prospective en termes de besoins quantitatifs et qualitatifs en matière de qualification.
 
-L'observatoire  de  la  formation  et  de  l'enseignement professionnels assure notamment les missions suivantes :
+L'observatoire de la formation et de l'enseignement professionnels assure notamment les missions suivantes :
 
-- constituer  un  systŁme  d'information  efficace  sur  la formation et l'enseignement professionnels et sur le marchØ de l'emploi au niveau national et rØgional ;
+- constituer un système d'information efficace sur la formation et l'enseignement professionnels et sur le marché de l'emploi au niveau national et régional ;
 
-- participer,  en  tant  qu'instrument  de  politique  de dØveloppement  de  la formation et de l'enseignement professionnels,   l'identification des besoins en formation et en qualification ;
+- participer, en tant qu'instrument de politique de développement de la formation et de l'enseignement professionnels, à l'identification des besoins en formation et en qualification ;
 
-- fournir  l'outil d'aide la dØcision travers dØfinition, l'Øvaluation et l'amØlioration des dispositifs de la formation et de l'enseignement professionnels.
+- fournir l'outil d'aide à la décision à travers la définition, l'évaluation et l'amélioration des dispositifs de la formation et de l'enseignement professionnels.
 
-Les  modalitØs  d'organisation  et  de  fonctionnement  de l'observatoire sont fixØes par voie rØglementaire.
+Les modalités d'organisation et de fonctionnement de l'observatoire sont fixées par voie réglementaire.
 
-###### Art.  26.
-Il  est  instituØ  une  carte  nationale  de  la formation  et  de  l'enseignement  professionnels,  Øtablie  et actualisØe  par  le  ministre  chargØ  de  la  formation  et  de l'enseignement professionnels, aprŁs consultation des parties concernØes et en fonction des besoins en main-d' uvre qualifiØe, au niveau local et national.
+###### Art. 26.
+Il est institué une carte nationale de la formation et de l'enseignement professionnels, établie et actualisée par le ministre chargé de la formation et de l'enseignement professionnels, après consultation des parties concernées et en fonction des besoins en main-d'œuvre qualifiée, au niveau local et national.
 
-la
 ###### Art. 27.
-Les nomenclatures des branches, des filiŁres et  des  spØcialitØs  de  la  formation  et  de  l'enseignement professionnels, les nomenclatures des Øquipements technico-pØdagogiques,  ainsi  que  les  nomenclatures  des manuels  techniques  et  professionnels  sont  fixØes  par  le ministre  chargØ  de  la  formation  et  de  l'enseignement professionnels,  aprŁs  avis  des  instances  techniques  et pØdagogiques concernØes.
+Les nomenclatures des branches, des filières et des spécialités de la formation et de l'enseignement professionnels, les nomenclatures des équipements technico-pédagogiques, ainsi que les nomenclatures des manuels techniques et professionnels sont fixées par le ministre chargé de la formation et de l'enseignement professionnels, après avis des instances techniques et pédagogiques concernées.
 
-## TITRE  V
+## TITRE V
 
 ### DISPOSITIONS PARTICULIERES
 
@@ -252,36 +256,34 @@ Les nomenclatures des branches, des filiŁres et  des  spØcialitØs  de  la  fo
 
 ##### Homologation des formations et validation des acquis professionnels
 
-et
-
 ###### Art. 28.
-Les programmes de formation d'enseignement professionnels, autres que ceux prØvus par la nomenclature des branches, des filiŁres et des spØcialitØs du secteur de la formation et de l'enseignement professionnels,  dispensØs  dans  les  Øtablissements  publics ou privØs, peuvent Œtre homologuØs par le ministre chargØ de la formation et de l'enseignement professionnels.
+Les programmes de formation et d'enseignement professionnels, autres que ceux prévus par la nomenclature des branches, des filières et des spécialités du secteur de la formation et de l'enseignement professionnels, dispensés dans les établissements publics ou privés, peuvent être homologués par le ministre chargé de la formation et de l'enseignement professionnels.
 
-###### Art.  29.
-Toute  personne  engagØe  dans  la  vie  active peut demander la validation de ses acquis professionnels en  vue  d'obtenir  une  dispense  partielle  ou  totale  des conditions  d'accŁs      la  formation  ou l'enseignement professionnels.
+###### Art. 29.
+Toute personne engagée dans la vie active peut demander la validation de ses acquis professionnels en vue d'obtenir une dispense partielle ou totale des conditions d'accès à la formation ou à l'enseignement professionnels.
 
-Les modalitØs d'application du prØsent article sont fixØes par voie rŁglementaire.
+Les modalités d'application du présent article sont fixées par voie réglementaire.
 
-#### Chapitre  II
+#### Chapitre II
 
-##### Des stagiaires de la formation professionnelle et des ØlŁves de l'enseignement professionnel
+##### Des stagiaires de la formation professionnelle et des élèves de l'enseignement professionnel
 
 ###### Art. 30.
-Les stagiaires de la formation professionnelle et les ØlŁves de l'enseignement professionnel bØnØficient, sous certaines conditions, d'aides spØcifiques de l'Etat pour couvrir en partie les frais liØs   leur formation.
+Les stagiaires de la formation professionnelle et les élèves de l'enseignement professionnel bénéficient, sous certaines conditions, d'aides spécifiques de l'Etat pour couvrir en partie les frais liés à leur formation.
 
-Les modalitØs d'application du prØsent article sont dØfinies par voie rØglementaire.
+Les modalités d'application du présent article sont définies par voie réglementaire.
 
-## TITRE  VI
+## TITRE VI
 
 ### DISPOSITIONS TRANSITOIRES ET FINALES
 
 ###### Art. 31.
-Les  textes rØglementaires rØgissant la formation et  l'enseignement  professionnels  demeurent  en vigueur jusqu'  la  publication  des  textes  d'application  de la prØsente loi, et ce, dans un dØlai n'excØdant pas douze (12) mois   partir de la publication de la prØsente loi au Journal officiel.
+Les textes réglementaires régissant la formation et l'enseignement professionnels demeurent en vigueur jusqu'à la publication des textes d'application de la présente loi, et ce, dans un délai n'excédant pas douze (12) mois à partir de la publication de la présente loi au Journal officiel.
 
-###### Art.  32.
-La  prØsente  loi  sera  publiØe  au Journal officiel de la RØpublique algØrienne dØmocratique et populaire.
+###### Art. 32.
+La présente loi sera publiée au Journal officiel de la République algérienne démocratique et populaire.
 
-Fait       Alger,  le   16   Safar   1429   correspondant  au 23 fØvrier 2008.
+Fait à Alger, le 16 Safar 1429 correspondant au 23 février 2008.
 
 Abdelaziz BOUTEFLIKA.
 
