@@ -14,11 +14,20 @@ Date of assent
 
 ## Contents
 
+Page
+1 Title 6
+2 Commencement 6
+3 Principal Act amended 6
+# Part 1 Amendments to principal Act
+## Schools
+4 Boards to reimburse the Crown for expenditure in respect of foreign students 6
+5 Principal may stand-down or suspend students 7
+
 ## Note
 
 > Changes authorised by section 17C of the Acts and Regulations Publication Act 1989 have been made in this eprint.
 
-> Ageneral outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+> A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
 
 This Act is administered by the Ministry of Education
 
@@ -34,6 +43,42 @@ Education Amendment Act 2006
 
 1 December 2008
 
+6 Effect of school charter 7
+7 Delegations 7
+8 New sections 70A to 70C inserted 7
+70A Minister may declare land to be no longer needed for educational purposes 7
+70B Leases and licences granted by Boards 8
+70C Other agreements to occupy school land or buildings 8
+9 New section 88A inserted 10
+88A Rent for teachers’ residences 10
+10 Limitations on co-option and appointment of trustees 10
+11 New section 100 substituted 10
+100 Availability of annual report 10
+12 Elections of trustees 11
+13 Term of office 11
+14 Certain persons ineligible to be trustees 11
+15 Filling of casual vacancies 12
+16 Boards may combine 13
+## Teacher registration
+17 Interpretation 13
+18 Restrictions on continued employment of teachers 14
+19 Appeals from decisions of Teachers Council 14
+20 Expiry of registration 14
+127 Expiry of teacher registration 14
+21 New section 127A inserted 15
+127A Voluntary deregistration 15
+22 Teachers Council to keep register 15
+23 New section 129 substituted 15
+129 Cancellation of registration as teacher and cancellation of limited authority to teach 15
+24 New section 129A inserted 16
+129A Reclassification of teacher’s registration 17
+25 Authorisation may be renewed 17
+## Corporal punishment
+26 No corporal punishment in early childhood centres or registered schools 17
+## Teachers Council
+27 Disciplinary bodies 17
+28 Complaints and reports relating to teacher conduct 18
+
 2
 
 [[END OF PAGE 2]]
@@ -41,6 +86,46 @@ Education Amendment Act 2006
 [[START OF PAGE 3]]
 
 Reprinted as at
+
+1 December 2008
+
+Education Amendment Act 2006
+
+29 Powers of Complaints Assessment Committee 18
+30 Investigation of reports of convictions 19
+31 Interim suspension to enable investigation 19
+32 Powers of Disciplinary Tribunal 20
+33 Offences relating to witnesses 20
+34 Appeals 20
+35 Complaints about competence 20
+## Schools
+36 New sections 139C to 139E inserted 21
+139C Offence of insulting, abusing, or intimidating staff 21
+139D School transport 21
+139E Bonds for trainee teachers 21
+37 Single sex schools 22
+38 New section 154A inserted 22
+154A Minister may redesignate, or remove designation from, schools 22
+39 Kura Kaupapa Maori 23
+40 Minister may merge schools 24
+41 Consultations 25
+## Tertiary education
+42 Preparing charters 25
+43 Expiry of charters 25
+44 Disclosure of enrolment information by institutions 25
+45 Disclosure of enrolment information by private training establishments 25
+## International students
+46 Interpretation 26
+## Student allowances
+47 Student allowances 26
+48 Student Allowance Appeal Authority 26
+49 Offences concerning allowances 26
+50 New sections 307AB and 307AC inserted 26
+307AB Allowances identified by Gazette notice 27
+307AC Bonded scholarships 27
+51 Use of student allowance information for purposes of Social Security Act 1964 27
+52 New section 307D inserted 27
+307D Details of academic performance 27
 
 3
 
@@ -52,11 +137,79 @@ Education Amendment Act 2006
 
 Reprinted as at 1 December 2008
 
+## Early childhood education
+53 New Part 26 substituted 28
+# Part 26 Early childhood education and care
+## Interpretation
+308 Overview 28
+309 Interpretation 28
+310 Meaning of early childhood education and care centre 30
+## Funding
+311 Funding of certain early childhood services and certificated playgroups 32
+312 Loans to licensed early childhood services 33
+## Administration and curriculum
+313 Administrative requirements 33
+314 Curriculum framework 34
+## Licensing and certification provisions
+315 Service providers operating early childhood education and care centres to be licensed 35
+316 Certain service providers may be licensed 36
+317 Regulations relating to licensing 36
+318 Playgroups may be certificated 38
+319 Regulations relating to certification of playgroups 38
+## Powers of entry and inspection
+319A Parent’s right of entry 40
+319B Powers of entry and inspection without warrant 41
+319C Powers of entry and inspection with warrant 42
+## Police vetting of employees
+319D Police vetting of non-teaching and unregistered employees at licensed early childhood services 43
+319E Police vetting of contractors and their employees who work at licensed early childhood services 44
+319F Internal procedures relating to police vets 44
+## Miscellaneous
+319G Offence of insulting, abusing, or intimidating staff 45
+319H Offence of obstructing power of entry 45
+
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Reprinted as at
+
+1 December 2008
+
+Education Amendment Act 2006
+
+319I Payment of fees for attendance of children at kindergartens 45
+319J Centres situated on property owned by the Crown 46
+## Transitional provisions
+319K Existing early childhood centres deemed to be licensed 47
+319L Existing chartered care arrangers deemed to be licensed 49
+319M Funding conditions during transitional period 50
+319N Existing regulations preserved 51
+319O Licence-exempt centres may continue 51
+54 New Part 30 inserted 52
+# Part 30 National student numbers
+341 Purpose 52
+342 Interpretation 52
+343 Assigning national student numbers 53
+344 Use of national student numbers 53
+345 Student may use or disclose own national student number 54
+346 Offences 54
+347 Regulations 54
+## Other amendments to principal Act
+55 Schedule 6 amended 55
+7 One trustee to preside at meetings 55
+56 Education Standards Act 2001 amended 55
+57 Consequential amendments to principal Act 55
+# Part 2 Other enactments
+58 State Sector Act 1988 amended 56
+59 Student Loan Scheme Act 1992 amended 56
+2A Application of Act to bonded scholarships 56
+60 Consequential amendments to other enactments 57
+61 Repeals and revocations 57
+Schedule 1 57
+Amendments to principal Act
 
 5
 
@@ -70,9 +223,7 @@ Education Amendment Act 2006
 
 Reprinted as at 1 December 2008
 
-59
-
-Schedule 2
+Schedule 2 59
 
 Consequential amendments to other enactments
 
@@ -84,11 +235,11 @@ This Act is the Education Amendment Act 2006.
 
 ### 2 Commencement
 
-- This Act (except sections 26, 53, 57, and 60) comes into force on the day after the date on which it receives the Royal assent.
+(1) This Act (except sections 26, 53, 57, and 60) comes into force on the day after the date on which it receives the Royal assent.
 
-- Sections 26, 53, 57, and 60 come into force on a date to be appointed by the Governor­General by Order in Council.
+(2) Sections 26, 53, 57, and 60 come into force on a date to be appointed by the Governor-General by Order in Council.
 
-- Despite subsections (1) and (2), sections 314(1) to (4), 317, and 319 (as inserted by section 53 of this Act) come into force on the day after the date on which this Act receives the Royal assent.
+(3) Despite subsections (1) and (2), sections 314(1) to (4), 317, and 319 (as inserted by section 53 of this Act) come into force on the day after the date on which this Act receives the Royal assent.
 
 Section 2(2): sections 26, 53, 57 and 60 brought into force, on 1 December 2008, by the Education Amendment Act 2006 Commencement Order 2008 (SR 2008/203).
 
@@ -136,7 +287,7 @@ Section 66(8) is amended by omitting 'subsection (1)(b)' and substituting 'subse
 
 ### 8 New sections 70A to 70C inserted
 
-- The following sections are inserted after section 70:
+(1) The following sections are inserted after section 70:
 
 #### ' 70A Minister may declare land to be no longer needed for educational purposes
 
@@ -234,9 +385,9 @@ Board and any other person for the use of land, buildings, or facilities occupie
 
 '(7) In relation to an integrated school, this section applies subject to the Private Schools Conditional Integration Act 1975 and to any integration agreement in force between the Minister and the proprietors of the school.'
 
-- A lease or licence to occupy entered into under Part 1 of the Education Lands Act 1949 is unaffected by the repeal of that Part by this Act or by section 70B of the principal Act.
+(2) A lease or licence to occupy entered into under Part 1 of the Education Lands Act 1949 is unaffected by the repeal of that Part by this Act or by section 70B of the principal Act.
 
-- An agreement to which section 70C of the principal Act ap­ plies that is in force immediately before that section comes into force is unaffected by section 70C until the end of the year in which that section comes into force. From the beginning of the following year, section 70C of the principal Act applies to the agreement.
+(3) An agreement to which section 70C of the principal Act applies that is in force immediately before that section comes into force is unaffected by section 70C until the end of the year in which that section comes into force. From the beginning of the following year, section 70C of the principal Act applies to the agreement.
 
 9
 
@@ -250,7 +401,7 @@ Education Amendment Act 2006
 
 Reprinted as at 1 December 2008
 
-- Section 205(1)(b)(i) of the Local Government Act 2002 is con­ sequentially amended by inserting 'or section 70B of the Edu­ cation Act 1989' after 'Education Lands Act 1949'.
+(4) Section 205(1)(b)(i) of the Local Government Act 2002 is consequentially amended by inserting 'or section 70B of the Education Act 1989' after 'Education Lands Act 1949'.
 
 Compare: 1949 No 24 s 6D
 
@@ -260,23 +411,23 @@ The following section is inserted after section 88:
 
 #### ' 88A Rent for teachers' residences
 
-'(1) Ateacher who is provided with a teacher's residence in respect of his or her teaching position must pay rent in accordance with a scheme prescribed by the Minister and notified in the Gazette .
+'(1) A teacher who is provided with a teacher's residence in respect of his or her teaching position must pay rent in accordance with a scheme prescribed by the Minister and notified in the Gazette.
 
 '(2) Until a rental scheme under subsection (1) takes effect, rents for teachers' residences must be determined in accordance with the scheme operating immediately before subsection (1) comes into force.'
 
 ### 10 Limitations on co­option and appointment of trustees
 
-- Section 94C(1) is repealed.
+(1) Section 94C(1) is repealed.
 
-- Section 94C is amended by omitting '(otherwise than to a ca­ sual vacancy for a parent representative)' from subsections (2) and (3).
+(2) Section 94C is amended by omitting '(otherwise than to a casual vacancy for a parent representative)' from subsections (2) and (3).
 
-- Section 94C is amended by adding the following subsection:
+(3) Section 94C is amended by adding the following subsection:
 
 '(4) No more than one non­permanently appointed member of the Board staff may be co­opted on to the Board at any one time.'
 
 ### 11 New section 100 substituted
 
-- Section 100 is repealed and the following section substituted:
+(1) Section 100 is repealed and the following section substituted:
 
 #### ' 100 Availability of annual report
 
@@ -298,7 +449,7 @@ Education Amendment Act 2006
 
 Part 1 s 14
 
-- Section 153(4) is consequentially amended by omitting 'until the close of the day on which its annual meeting is next re­ quired by section 100 of this Act to be held' and substituting 'until the close of the 7th day after the first election following its change of class'.
+(2) Section 153(4) is consequentially amended by omitting 'until the close of the day on which its annual meeting is next required by section 100 of this Act to be held' and substituting 'until the close of the 7th day after the first election following its change of class'.
 
 ### 12 Elections of trustees
 
@@ -312,21 +463,21 @@ Section 101 is amended by repealing subsection (4) and sub­ stituting the follo
 
 ### 13 Term of office
 
-- Section 102 is amended by repealing subsection (1) and sub­ stituting the following subsection:
+(1) Section 102 is amended by repealing subsection (1) and substituting the following subsection:
 
 '(1) Elected trustees take office 7 days after their election, unless otherwise provided in this section.'
 
-- Section 102(3) is repealed.
+(2) Section 102(3) is repealed.
 
 ### 14 Certain persons ineligible to be trustees
 
-- Section 103(1)(da) is repealed.
+(1) Section 103(1)(da) is repealed.
 
-- Section 103 is amended by repealing subsections (2A), (3), and (4) and substituting the following subsections:
+(2) Section 103 is amended by repealing subsections (2A), (3), and (4) and substituting the following subsections:
 
 '(3) Any permanently appointed member of the Board staff may, if otherwise eligible for election, be elected as a staff repre­ sentative; but no permanently appointed member of the Board staff may be otherwise elected to the Board or be appointed or co­opted on to the Board.
 
-'(4) Anon­permanently appointed member of the Board staff may, if otherwise eligible, be elected, appointed, or co­opted on to the Board.'
+'(4) A non-permanently appointed member of the Board staff may, if otherwise eligible, be elected, appointed, or co-opted on to the Board.'
 
 11
 
@@ -342,11 +493,11 @@ Reprinted as at 1 December 2008
 
 ### 15 Filling of casual vacancies
 
-- The heading to section 105 is amended by omitting ' of ca­ sual vacancies ' and substituting ' casual vacancies of elected trustees '.
+(1) The heading to section 105 is amended by omitting 'of casual vacancies' and substituting 'casual vacancies of elected trustees'.
 
-- Section 105(1) is amended by omitting '(4A)' and substituting '(9)'.
+(2) Section 105(1) is amended by omitting '(4A)' and substituting '(9)'.
 
-- Section 105 is amended by repealing subsections (4) to (8) and substituting the following subsections:
+(3) Section 105 is amended by repealing subsections (4) to (8) and substituting the following subsections:
 
 '(4) When a casual vacancy for an elected trustee occurs at any other time, the Board must resolve, within 8 weeks of the va­ cancy occurring, whether to-
 
@@ -382,21 +533,21 @@ Part 1 s 17
 
 '(10) This Act applies to a trustee selected under this section to fill a casual vacancy of an elected trustee as if the person had been elected, and every reference to an elected trustee (except in subsection (6)) includes a reference to a trustee so selected.'
 
-- Atrustee who holds office as a result of an appointment under section 105 of the principal Act (as it was immediately before this section comes into force) is to be treated, after this section comes into force, as a trustee selected under that section.
+(4) A trustee who holds office as a result of an appointment under section 105 of the principal Act (as it was immediately before this section comes into force) is to be treated, after this section comes into force, as a trustee selected under that section.
 
-- Section 94B(8) is consequentially amended by omitting 'ap­ pointment' and substituting 'selection'.
+(5) Section 94B(8) is consequentially amended by omitting 'appointment' and substituting 'selection'.
 
 ### 16 Boards may combine
 
-- Section 110(1) is amended by omitting 'establish a combined Board for the schools or institutions that the applicant Boards administer' and substituting 'establish a single Board (called a combined Board ) to administer all the schools or institutions concerned'.
+(1) Section 110(1) is amended by omitting 'establish a combined Board for the schools or institutions that the applicant Boards administer' and substituting 'establish a single Board (called a combined Board) to administer all the schools or institutions concerned'.
 
-- Section 110 is amended by omitting 'applicant' from subsec­ tions (3)(b) and (4) and substituting in each case 'existing'.
+(2) Section 110 is amended by omitting 'applicant' from subsections (3)(b) and (4) and substituting in each case 'existing'.
 
 ## Teacher registration
 
 ### 17 Interpretation
 
-- Section 120 is amended by repealing paragraphs (a) and (b) of the definition of early childhood education and care service and substituting the following paragraphs:
+(1) Section 120 is amended by repealing paragraphs (a) and (b) of the definition of early childhood education and care service and substituting the following paragraphs:
 
 '(a) a free kindergarten that is an early childhood service whose licence permits no child to attend for a period of more than 4 hours on any day; and
 
@@ -414,7 +565,7 @@ Education Amendment Act 2006
 
 Reprinted as at 1 December 2008
 
-- Regulation 4 of the Education (Registration of Early Childhood Services Teachers) Regulations 2004 is con­ sequentially amended by revoking subclause (2)(a) and substituting the following paragraph:
+(2) Regulation 4 of the Education (Registration of Early Childhood Services Teachers) Regulations 2004 is consequentially amended by revoking subclause (2)(a) and substituting the following paragraph:
 
 '(a) a free kindergarten that is an early childhood service whose licence permits no child to attend for a period of more than 4 hours on any day:'.
 
@@ -424,9 +575,9 @@ Section 120B(4)(b) is amended by omitting 'Board' and sub­ stituting 'Teachers 
 
 ### 19 Appeals from decisions of Teachers Council
 
-- Section 126(1) is amended by omitting '127(5), or 129(1)(a), (b), or (c)' and substituting '129(1)(a) or (b), or 130'.
+(1) Section 126(1) is amended by omitting '127(5), or 129(1)(a), (b), or (c)' and substituting '129(1)(a) or (b), or 130'.
 
-- Section 126(7) is amended by omitting 'the High Court' in the second place where it appears and substituting 'the District Court'.
+(2) Section 126(7) is amended by omitting 'the High Court' in the second place where it appears and substituting 'the District Court'.
 
 ### 20 Expiry of registration
 
@@ -462,7 +613,7 @@ Part 1 s 23
 
 '(e) when the teacher dies.
 
-'(2) Whenateacher's registration expires, the teacher's name must be removed from the register kept under section 128.'
+'(2) When a teacher's registration expires, the teacher's name must be removed from the register kept under section 128.'
 
 ### 21 New section 127A inserted
 
@@ -510,17 +661,27 @@ Education Amendment Act 2006
 
 Reprinted as at 1 December 2008
 
-'(b) | the Teachers Council is satisfied on reasonable grounds that the registration or authorisation was effected by mistake or obtained by fraud; or
---- | ---
-'(c) | the Disciplinary Tribunal has ordered, under section 139AW(1)(g), that the registration or limited authority to teach be cancelled; or
-'(d) | the Teachers Council has ordered, under section 139AZC(8)(c), that the registration or limited authority to teach be cancelled.
-'(2) | The Teachers Council may not cancel a teacher's registration or an authorised person's limited authority to teach under sub­ section (1)(a) or (b) without first-
-'(a) | taking all reasonable steps to ensure that the teacher or authorised person is given notice of the reasons for the
-'(b) | proposed cancellation; and giving the teacher or authorised person a reasonable op­ portunity to make submissions and be heard, either in person or by counsel or other representative, on the pro­ posed cancellation.
-'(3) | The fact that a teacher's registration or an authorised person's limited authority to teach has been cancelled does not prevent the teacher or authorised person from again being registered or being given a limited authority to teach.
-'(4) | If a person's registration is ordered to be cancelled under sec­ tion 139AZC(8)(c), and the person later applies for registration or for a limited authority to teach, he or she must be treated as a person who has not held a practising certificate for 5 years.
-'(5) | The Teachers Council must take all reasonable steps to en­ sure that employers are informed of the name of every person whose registration or limited authority to teach is cancelled- '(a)
-'(b) | under this section; or as a result of the Teachers Council refusing to renew the person's registration, or to grant a limited authority to teach, on the ground that the person is not of good
+'(b) the Teachers Council is satisfied on reasonable grounds that the registration or authorisation was effected by mistake or obtained by fraud; or
+
+'(c) the Disciplinary Tribunal has ordered, under section 139AW(1)(g), that the registration or limited authority to teach be cancelled; or
+
+'(d) the Teachers Council has ordered, under section 139AZC(8)(c), that the registration or limited authority to teach be cancelled.
+
+'(2) The Teachers Council may not cancel a teacher's registration or an authorised person's limited authority to teach under subsection (1)(a) or (b) without first—
+
+'(a) taking all reasonable steps to ensure that the teacher or authorised person is given notice of the reasons for the proposed cancellation; and
+
+'(b) giving the teacher or authorised person a reasonable opportunity to make submissions and be heard, either in person or by counsel or other representative, on the proposed cancellation.
+
+'(3) The fact that a teacher's registration or an authorised person's limited authority to teach has been cancelled does not prevent the teacher or authorised person from again being registered or being given a limited authority to teach.
+
+'(4) If a person's registration is ordered to be cancelled under section 139AZC(8)(c), and the person later applies for registration or for a limited authority to teach, he or she must be treated as a person who has not held a practising certificate for 5 years.
+
+'(5) The Teachers Council must take all reasonable steps to ensure that employers are informed of the name of every person whose registration or limited authority to teach is cancelled—
+
+'(a) under this section; or
+
+'(b) as a result of the Teachers Council refusing to renew the person's registration, or to grant a limited authority to teach, on the ground that the person is not of good character or is not fit to be a teacher.'
 
 ### 24 New section 129A inserted
 
@@ -552,17 +713,17 @@ Section 130E is amended by omitting the heading and substi­ tuting the heading 
 
 ### 26 No corporal punishment in early childhood centres or registered schools
 
-- The heading to section 139A is amended by omitting ' cen­ tres ' and substituting ' services '.
+(1) The heading to section 139A is amended by omitting 'centres' and substituting 'services'.
 
-- Section 139A(1) is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
+(2) Section 139A(1) is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
 
-'(c) is employed at an early childhood service (as defined in section 309); or
+'(c) is employed at an early childhood service (as defined in section 309); or
 
-'(d) owns, manages, or controls an early childhood service (as so defined),-'.
+'(d) owns, manages, or controls an early childhood service (as so defined),—'.
 
-- Section 139A(1) is amended by omitting 'centre' where it ap­ pears after paragraph (d) and substituting 'service'.
+(3) Section 139A(1) is amended by omitting 'centre' where it appears after paragraph (d) and substituting 'service'.
 
-- Section 139A(2) is amended by repealing paragraph (c) and substituting the following paragraph:
+(4) Section 139A(2) is amended by repealing paragraph (c) and substituting the following paragraph:
 
 '(c) on behalf of the service provider of an early childhood service (as defined in section 309) any child enrolled at or attending the service,-'.
 
@@ -596,15 +757,15 @@ Reprinted as at 1 December 2008
 
 ### 28 Complaints and reports relating to teacher conduct
 
-- Section 139AS(1)(a) is amended by omitting 'relate' and sub­ stituting 'relates'.
+(1) Section 139AS(1)(a) is amended by omitting 'relate' and substituting 'relates'.
 
-- Section 139AS(1)(b) is repealed.
+(2) Section 139AS(1)(b) is repealed.
 
 ### 29 Powers of Complaints Assessment Committee
 
-- Section 139AT(2) is amended by omitting 'a complaint or re­ port referred to it under section 139AS,' and substituting 'any matter other than a conviction to which section 139AV relates, do any of the following:'.
+(1) Section 139AT(2) is amended by omitting 'a complaint or report referred to it under section 139AS,—' and substituting 'any matter other than a conviction to which section 139AV relates, do any of the following:'.
 
-- Section 139AT(2) is amended by repealing paragraph (d) and substituting the following paragraph:
+(2) Section 139AT(2) is amended by repealing paragraph (d) and substituting the following paragraph:
 
 '(d) by agreement with the teacher and the person who made the complaint or report, do any of the following:
 
@@ -628,7 +789,7 @@ Part 1 s 31
 
 '(iv) annotate the register or the list of authorised persons in a specified manner.'
 
-- Section 139AT is amended by repealing subsection (4) and substituting the following subsections:
+(3) Section 139AT is amended by repealing subsection (4) and substituting the following subsections:
 
 '(4) The Complaints Assessment Committee must refer a matter concerning a teacher to the Disciplinary Tribunal if it is satis­ fied on reasonable grounds that-
 
@@ -640,9 +801,9 @@ Part 1 s 31
 
 ### 30 Investigation of reports of convictions
 
-- The heading to section 139AV is amended by inserting ' by Complaints Assessment Committee ' after ' Investigation '.
+(1) The heading to section 139AV is amended by inserting 'by Complaints Assessment Committee' after 'Investigation'.
 
-- Section 139AV is amended by repealing subsection (2) and substituting the following subsection:
+(2) Section 139AV is amended by repealing subsection (2) and substituting the following subsection:
 
 '(2) Following the investigation of such a conviction, the Com­ plaints Assessment Committee may do any of the following:
 
@@ -652,11 +813,13 @@ Part 1 s 31
 
 '(c) refer the teacher concerned to an impairment process which may involve assessing, and (if necessary) assist­ ing with, an impairment:
 
-'(d) by agreement with the teacher, do any of the following: '(i) censure the teacher:
+'(d) by agreement with the teacher, do any of the following:
 
-'(ii) impose conditions on the teacher's practising cer­ tificate or authority, such as (without limitation) requiring the teacher to undergo supervision or professional development:
+'(i) censure the teacher:
 
-'(iii) annotate the register or the list of authorised per­ sons in a specified manner.'
+'(ii) impose conditions on the teacher's practising certificate or authority, such as (without limitation) requiring the teacher to undergo supervision or professional development:
+
+'(iii) annotate the register or the list of authorised persons in a specified manner.'
 
 ### 31 Interim suspension to enable investigation
 
@@ -682,9 +845,9 @@ Section 139AW(1) is amended by repealing paragraph (g) and substituting the foll
 
 ### 33 Offences relating to witnesses
 
-- The heading to section 139AZ is amended by omitting ' relat­ ing to witnesses '.
+(1) The heading to section 139AZ is amended by omitting 'relating to witnesses'.
 
-- Section 139AZ is amended by adding the following subsection as subsection (2):
+(2) Section 139AZ is amended by adding the following subsection as subsection (2):
 
 '(2) A person commits an offence, and is liable on summary con­ viction to a fine not exceeding $1,000, if, without lawful ex­ cuse, he or she breaches an order made by the Disciplinary Tribunal under rules made under section 139AJ that-
 
@@ -780,7 +943,9 @@ Reprinted as at 1 December 2008
 
 '(3) The Minister may require that the agreement be signed by a guarantor for the person, in which case the guarantor is jointly and severally liable with the person under the agreement.
 
-'(4) Agreements entered into under this section may be declared, under section 307AC, to be bonded scholarships. 'Compare: 1964 No 135 s 197'
+'(4) Agreements entered into under this section may be declared, under section 307AC, to be bonded scholarships.
+
+'Compare: 1964 No 135 s 197'
 
 ### 37 Single sex schools
 
@@ -854,7 +1019,7 @@ Reprinted as at 1 December 2008
 
 ### 40 Minister may merge schools
 
-- Section 156A is amended by inserting the following subsec­ tions after subsection (3):
+(1) Section 156A is amended by inserting the following subsections after subsection (3):
 
 '(3A) Before a notice under subsection (1) takes effect, the Minister must give notice in the Gazette of whether, during the period between a date specified in the notice and the date on which new trustees take office following an election (in this section called the interim period), the Board of the continuing school is to be-
 
@@ -894,9 +1059,9 @@ Part 1 s 45
 
 '(b) the trustees appointed by the Minister to the Board of the continuing school take office on the date of the start of the interim period.
 
-'(3E) During an interim period, the Board of the continuing school maymakedecisions and exercise powers both for the purposes of the continuing school before the merger and for the purpose of providing and preparing for the continuing school after the merger has taken effect.'
+'(3E) During an interim period, the Board of the continuing school may make decisions and exercise powers both for the purposes of the continuing school before the merger and for the purpose of providing and preparing for the continuing school after the merger has taken effect.'
 
-- Section 156A(4A) is repealed.
+(2) Section 156A(4A) is repealed.
 
 ### 41 Consultations
 
@@ -933,6 +1098,8 @@ Part 1 s 46
 Education Amendment Act 2006
 
 Reprinted as at 1 December 2008
+
+## International students
 
 ### 46 Interpretation
 
@@ -972,8 +1139,6 @@ Section 307AA(2) is amended by omitting 'or the institution concerned'.
 
 The following sections are inserted after section 307AA:
 
-## International students
-
 26
 
 [[END OF PAGE 26]]
@@ -1004,7 +1169,7 @@ Section 307A(1) is amended by adding 'or identified by Gazette notice under sect
 
 ### 52 New section 307D inserted
 
-- The following section is inserted after section 307C:
+(1) The following section is inserted after section 307C:
 
 #### ' 307D Details of academic performance
 
@@ -1028,7 +1193,7 @@ Reprinted as at 1 December 2008
 
 '(2) In this section, Ministry of Education means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of Part 13.'
 
-- Schedule 3 of the Privacy Act 1993 (which identifies in­ formation matching provisions) is consequentially amended by omitting 'and 307C' from the second column, opposite the item 'Education Act 1989', and substituting '307C, and 307D'.
+(2) Schedule 3 of the Privacy Act 1993 (which identifies in­ formation matching provisions) is consequentially amended by omitting 'and 307C' from the second column, opposite the item 'Education Act 1989', and substituting '307C, and 307D'.
 
 ## Early childhood education
 
@@ -1098,7 +1263,7 @@ Part 1 s 53
 
 ' licensed hospital­based education and care service means
 
-- hospital­based education and care service in respect of which the service provider holds a current licence issued under regulations made under section 317
+a hospital­based education and care service in respect of which the service provider holds a current licence issued under regulations made under section 317
 
 ' Minister means the Minister of the Crown who, under the au­ thority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
 
@@ -1550,7 +1715,7 @@ Part 1 s 53
 
 ###### ' 319B Powers of entry and inspection without warrant
 
-'(1) Anyperson holding an authorisation under subsection (3) may, for the purpose of ensuring that the provisions of this Act and any regulations made under this Act, or the conditions of any licence, certificate, or grant issued or made under any of those provisions, are being complied with, or for the purpose of con­ ducting any audit, at any reasonable time, do all or any of the following:
+'(1) Any person holding an authorisation under subsection (3) may, for the purpose of ensuring that the provisions of this Act and any regulations made under this Act, or the conditions of any licence, certificate, or grant issued or made under any of those provisions, are being complied with, or for the purpose of con­ ducting any audit, at any reasonable time, do all or any of the following:
 
 '(a) enter and inspect any premises that are or contain a li­ censed early childhood education and care centre or that are used to provide a licensed home­based education and care service or a licensed hospital­based education and care service, or that are used by a certificated play­ group:
 
@@ -1704,7 +1869,7 @@ Part 1 s 53
 
 '(b) ensure that strict confidentiality is observed for police vets.
 
-'(3) Arequester may not take adverse action in relation to a person who is the subject of a police vet until-
+'(3) A requester may not take adverse action in relation to a person who is the subject of a police vet until-
 
 '(a) the person has validated the information contained in the vet; or
 
@@ -1840,7 +2005,7 @@ Reprinted as at 1 December 2008
 
 '(10) In this section, relevant period means,-
 
-'(a) in relation to an early childhood centre for which a pro­ bationary licence was in force immediately before the commencementofthis section, the period expiring on-
+'(a) in relation to an early childhood centre for which a pro­ bationary licence was in force immediately before the commencement of this section, the period expiring on-
 
 '(i) the date specified in the probationary licence as the date on which it expires; or
 
@@ -1926,7 +2091,7 @@ Education Amendment Act 2006
 
 Part 1 s 53
 
-- 312 (as that section read before the commencement of this sec­ tion).
+312 (as that section read before the commencement of this sec­ tion).
 
 '(3) The Minister may at any time, while this section applies in respect of any service provider, amend, revoke, or replace any statement of desirable objectives and practices referred to in subsection (2) by notice in the Gazette .
 
@@ -2038,7 +2203,7 @@ Part 1 s 54
 
 '(b) has been granted an exemption under section 21 or sec­ tion 22.
 
-'(2) Onthe date on which this Part comes into force, every national student number that is already assigned to a person is deemed to be a national student number assigned under this section to that person.
+'(2) On the date on which this Part comes into force, every national student number that is already assigned to a person is deemed to be a national student number assigned under this section to that person.
 
 ##### ' 344 Use of national student numbers
 
@@ -2078,7 +2243,7 @@ Reprinted as at 1 December 2008
 
 '(5) An authorised user to whom any one or more authorisations relates is authorised to use national student numbers in accord­ ance with the terms of the authorisations.
 
-'(6) Anauthorised user that is required to use national student num­ bers for a specific purpose must use national student numbers for that purpose.
+'(6) An authorised user that is required to use national student num­ bers for a specific purpose must use national student numbers for that purpose.
 
 ##### ' 345 Student may use or disclose own national student number
 Despite anything in this Part, a student may use or disclose his or her own national student number for any purpose.
@@ -2127,13 +2292,13 @@ Clause 7 of Schedule 6 is repealed and the following clause substituted:
 
 ### 56 Education Standards Act 2001 amended
 
-- Section 69(2) of the Education Standards Act 2001 is amended by inserting '(as defined in section 120 of the principal Act)' after 'early childhood services' where it first appears.
+(1) Section 69(2) of the Education Standards Act 2001 is amended by inserting '(as defined in section 120 of the principal Act)' after 'early childhood services' where it first appears.
 
-- Section 69(2) of the Education Standards Act 2001 is amended by repealing paragraph (b)(ii) and substituting the following:
+(2) Section 69(2) of the Education Standards Act 2001 is amended by repealing paragraph (b)(ii) and substituting the following:
 
 '(ii) early childhood services or persons employed in teaching pos­ itions at those early childhood services:'
 
-- Section 69(2)(c) of the Education Standards Act 2001 is amended by omitting 'education and care services (other than free kindergartens)' and substituting 'services'.
+(3) Section 69(2)(c) of the Education Standards Act 2001 is amended by omitting 'education and care services (other than free kindergartens)' and substituting 'services'.
 
 ### 57 Consequential amendments to principal Act
 
@@ -2160,7 +2325,7 @@ Section 77C(4) of the State Sector Act 1988 is amended by adding 'that is not a 
 
 ### 59 Student Loan Scheme Act 1992 amended
 
-- The Student Loan Scheme Act 1992 is amended by inserting the following section after section 2:
+(1) The Student Loan Scheme Act 1992 is amended by inserting the following section after section 2:
 
 #### ' 2A Application of Act to bonded scholarships
 
@@ -2176,7 +2341,7 @@ Section 77C(4) of the State Sector Act 1988 is amended by adding 'that is not a 
 
 '(3) Despite any enactment or rule of law, if a provision in an agree­ ment for a bonded scholarship conflicts with this provision, this provision prevails.'
 
-- For the purpose of giving effect to section 2A of the Student Loan Scheme Act 1992 with respect to TeachNZ scholarships entered into before that section comes into force, if TeachNZ scholarships are declared under section 307AC of the principal Act to be bonded scholarships, then-
+(2) For the purpose of giving effect to section 2A of the Student Loan Scheme Act 1992 with respect to TeachNZ scholarships entered into before that section comes into force, if TeachNZ scholarships are declared under section 307AC of the principal Act to be bonded scholarships, then-
 
 (a) the provisions of the standard 2005 loan contract for stu­ dent loans that relate to payment of interest are deemed to be included (with any necessary modifications) in the agreements for TeachNZ scholarships; and
 
@@ -2196,17 +2361,17 @@ Schedule 1
 
 ### 60 Consequential amendments to other enactments
 
-- The Acts set out in Part 1 of Schedule 2 are consequentially amended in the manner set out in that Part.
+(1) The Acts set out in Part 1 of Schedule 2 are consequentially amended in the manner set out in that Part.
 
-- The Regulations set out in Part 2 of Schedule 2 are consequen­ tially amended in the manner set out in that Part.
+(2) The Regulations set out in Part 2 of Schedule 2 are consequen­ tially amended in the manner set out in that Part.
 
 ### 61 Repeals and revocations
 
-- The School Trustees Act 1989 is repealed.
+(1) The School Trustees Act 1989 is repealed.
 
-- Part 1 of the Education Lands Act 1949 is repealed.
+(2) Part 1 of the Education Lands Act 1949 is repealed.
 
-- The following provisions of the Education Act 1964 are re­ pealed:
+(3) The following provisions of the Education Act 1964 are re­ pealed:
 
 (a) Parts 1 and 2:
 
@@ -2216,7 +2381,7 @@ Schedule 1
 
 (d) sections 189 to 204 and the Schedule.
 
-- The following regulations are revoked:
+(4) The following regulations are revoked:
 
 (a) Education (Salaries and Staffing) Regulations 1957 (SR 1957/119):
 
@@ -2229,13 +2394,14 @@ Schedule 1
 (e) Education (Revocation of Spent Orders in Council) Order 1980 (SR 1980/241).
 
 # Schedule 1
+s 57
 # Amendments to principal Act
 
 ## Section 120
 
 Definition of early childhood service : repeal and substitute: ' early childhood service means a licensed early childhood service (as de­ fined in section 309)'.
 
-s 57
+
 
 57
 
@@ -2290,6 +2456,7 @@ Education Amendment Act 2006
 Schedule 2
 
 # Schedule 2
+s 60
 # Consequential amendments to other enactments
 
 ## Part 1
@@ -2324,7 +2491,7 @@ Heading to section 7A: omit ' early childhood centres ' and substi­ tute ' earl
 
 Section 7A: omit 'early childhood centre' wherever it appears and substitute in each case 'early childhood education and care centre'.
 
-s 60
+
 
 59
 
