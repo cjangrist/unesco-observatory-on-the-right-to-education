@@ -28,31 +28,31 @@ BGBl. I Nr. 48/2014 (NR: GP XXV RV 141 AB 150 S. 30. BR: 9191 AB 9196 S. 831.)
 
 § 2. (1) Die Schulen zur Ausbildung von Leibeserziehern und Sportlehrern umfassen Lehrgänge mit einer nach der Vorbildung der Schüler und dem im Lehrplan vorgesehenen Bildungsziel unterschiedlichen Dauer von einem bis acht Semestern. Sie sind mittlere Schulen im Sinne des § 3 Abs. 4 Z 6 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962.
 
-- Die achtsemestrigen Lehrgänge schließen an die 8. Schulstufe an.
+(2) Die achtsemestrigen Lehrgänge schließen an die 8. Schulstufe an.
 
 ### Lehrplan
 
 § 3. (1)  Der  zuständige  Bundesminister  hat  die  Lehrpläne  für  die  schulmäßige  Ausbildung  von Leibeserziehern und Sportlehrern durch Verordnung festzusetzen.
 
-- Die Lehrpläne haben zu enthalten:
+(2) Die Lehrpläne haben zu enthalten:
 
-- die allgemeinen Bildungsziele der betreffenden Art der Leibeserzieherbzw. Sportlehrerausbildung, wobei sich letztere auf eine oder mehrere Sportarten beziehen kann;
+a) die allgemeinen Bildungsziele der betreffenden Art der Leibeserzieher- bzw. Sportlehrerausbildung, wobei sich letztere auf eine oder mehrere Sportarten beziehen kann;
 
-- die  Bildungs-  und  Lehraufgaben  der  einzelnen  Unterrichtsgegenstände  und  die  didaktischen Grundsätze;
+b) die Bildungs- und Lehraufgaben der einzelnen Unterrichtsgegenstände und die didaktischen Grundsätze;
 
-- die Aufteilung des Lehrstoffes auf die einzelnen Semester;
+c) die Aufteilung des Lehrstoffes auf die einzelnen Semester;
 
-- die Gesamtstundenzahl und das Stundenausmaß der einzelnen Unterrichtsgegenstände.
+d) die Gesamtstundenzahl und das Stundenausmaß der einzelnen Unterrichtsgegenstände.
 
-- In den Lehrplänen sind folgende Pflichtgegenstände vorzusehen:
+(3) In den Lehrplänen sind folgende Pflichtgegenstände vorzusehen:
 
-- Religion;  Deutsch;  Politische  Bildung;  Lebenskunde;  Pädagogik,  Didaktik  und  Methodik; Physiologie und Gesundheitserziehung, Anatomie und Erste Hilfe; Bewegungslehre; Betriebskunde  (einschließlich  des  Kaufmännischen  Rechnens);  Geschichte  von  Bewegung  und Sport;  Organisationslehre;  in  den  länger  als  ein  Semester  dauernden  Ausbildungslehrgängen überdies Lebende Fremdsprache; (insoweit dies zweckmäßig ist, sind die angeführten Pflichtgegenstände zusammengefaßt als ein Pflichtgegenstand zu führen);
+a) Religion; Deutsch; Politische Bildung; Lebenskunde; Pädagogik, Didaktik und Methodik; Physiologie und Gesundheitserziehung, Anatomie und Erste Hilfe; Bewegungslehre; Betriebskunde (einschließlich des Kaufmännischen Rechnens); Geschichte von Bewegung und Sport; Organisationslehre; in den länger als ein Semester dauernden Ausbildungslehrgängen überdies Lebende Fremdsprache; (insoweit dies zweckmäßig ist, sind die angeführten Pflichtgegenstände zusammengefaßt als ein Pflichtgegenstand zu führen);
 
-- allgemeine sportliche Ausbildung in den Grundformen von Bewegung und Sport;
+b) allgemeine sportliche Ausbildung in den Grundformen von Bewegung und Sport;
 
-- die für die Berufsausübung als Sportlehrer für die betreffende Sportart notwendigen zusätzlichen theoretischen und praktischen Unterrichtsgegenstände;
+c) die für die Berufsausübung als Sportlehrer für die betreffende Sportart notwendigen zusätzlichen theoretischen und praktischen Unterrichtsgegenstände;
 
-- für  die  Ausbildung  zum  Leibeserzieher  an  Schulen  zusätzlich  praktisch-methodische  Übungen und Schulrechtskunde.
+d) für die Ausbildung zum Leibeserzieher an Schulen zusätzlich praktisch-methodische Übungen und Schulrechtskunde.
 
 www.ris.bka.gv.at
 
@@ -64,45 +64,45 @@ Seite 1 von 5
 
 Bundesrecht konsolidiert
 
-- Neben  den  Pflichtgegenständen  können  auch  Freigegenstände  vorgesehen  werden,  die  eine Vertiefung des Unterrichtes in den Pflichtgegenständen oder weitere Kenntnisse bieten.
+(4) Neben den Pflichtgegenständen können auch Freigegenstände vorgesehen werden, die eine Vertiefung des Unterrichtes in den Pflichtgegenständen oder weitere Kenntnisse bieten.
 
-- Im Lehrplan kann vorgesehen werden, daß während des Ausbildungslehrganges entsprechende Praxiszeiten  außerhalb  der  Schule  zurückzulegen  sind,  soweit  dies  zur  Erreichung  des  Bildungszieles zweckmäßig  ist.  Ferner  kann  in  den  Lehrplänen  die  Einbeziehung  von  Formen  des  Fernunterrichtes insoweit vorgesehen werden, als dies zur Erleichterung des Lehrgangsbesuches ohne Einschränkung des Bildungszieles zweckmäßig ist.
+(5) Im Lehrplan kann vorgesehen werden, daß während des Ausbildungslehrganges entsprechende Praxiszeiten außerhalb der Schule zurückzulegen sind, soweit dies zur Erreichung des Bildungszieles zweckmäßig ist. Ferner kann in den Lehrplänen die Einbeziehung von Formen des Fernunterrichtes insoweit vorgesehen werden, als dies zur Erleichterung des Lehrgangsbesuches ohne Einschränkung des Bildungszieles zweckmäßig ist.
 
 ### Aufnahmsvoraussetzungen
 
 § 4. (1) Aufnahmsvoraussetzung ist die erfolgreiche Erfüllung der ersten acht Jahre der allgemeinen Schulpflicht  sowie  die  erfolgreiche  Ablegung  einer  Eignungsprüfung,  durch  welche  die  geistige  und körperliche Eignung des Schülers festzustellen ist.
 
-- Für  die  Aufnahme  in  einen  anderen  als  achtsemestrigen  Lehrgang  ist  über  die  im  Abs. 1 genannten Voraussetzungen hinaus die Erfüllung der allgemeinen Schulpflicht sowie ein Lebensalter, bei dem  der  Aufnahmswerber  im  Kalenderjahr  des  Abschlusses  des  Lehrganges  zumindest  das  18. Lebensjahr vollenden wird, Voraussetzung.
+(2) Für die Aufnahme in einen anderen als achtsemestrigen Lehrgang ist über die im Abs. 1 genannten Voraussetzungen hinaus die Erfüllung der allgemeinen Schulpflicht sowie ein Lebensalter, bei dem der Aufnahmswerber im Kalenderjahr des Abschlusses des Lehrganges zumindest das 18. Lebensjahr vollenden wird, Voraussetzung.
 
 ### Schulbesuch
 
 § 5. (1)  Die  Schüler  haben  den  theoretischen  und  praktischen  Unterricht  und  die  sonstigen verbindlich vorgeschriebenen Schulveranstaltungen während der vorgeschriebenen Schulzeit regelmäßig und pünktlich zu besuchen. Ein Fernbleiben ist nur im Falle gerechtfertigter Verhinderung des Schülers zulässig.
 
-- Sofern der Schüler nachweist, daß er das im Lehrplan geforderte Bildungsziel des betreffenden Unterrichtsgegenstandes durch einen anderweitigen Unterricht erreicht hat, ist er auf sein Ansuchen von dem  betreffenden  Unterrichtsgegenstand  zu  befreien.  Über  die  Befreiung  hat  der  Schulleiter  unter Anwendung  der  Bestimmungen  des  Allgemeinen  Verwaltungsverfahrensgesetzes 1991  (AVG),  BGBl. Nr. 51/1991, in der geltenden Fassung, zu entscheiden.
+(2) Sofern der Schüler nachweist, daß er das im Lehrplan geforderte Bildungsziel des betreffenden Unterrichtsgegenstandes durch einen anderweitigen Unterricht erreicht hat, ist er auf sein Ansuchen von dem betreffenden Unterrichtsgegenstand zu befreien. Über die Befreiung hat der Schulleiter unter Anwendung der Bestimmungen des Allgemeinen Verwaltungsverfahrensgesetzes 1991 (AVG), BGBl. Nr. 51/1991, in der geltenden Fassung, zu entscheiden.
 
 ### Leistungsbeurteilung
 
 § 6. (1) Am Ende jedes Semesters sind die Leistungen in jedem Unterrichtsgegenstand zu beurteilen. Sofern  das  Bildungsziel  in  einem  Unterrichtsgegenstand  nicht  erreicht  wurde,  ist  das  Semester  zu wiederholen.
 
-- Von der Wiederholung eines Semesters gemäß Abs. 1 kann abgesehen werden, wenn trotz des Mangels  in  einem  Unterrichtsgegenstand  erwartet  werden  kann,  daß  der  Schüler  bis  zum  Ende  der Ausbildung das für die Berufsausübung notwendige Wissen und Können erwirbt; hiebei ist insbesondere auf die Erfordernisse bei der Abschlußprüfung Bedacht zu nehmen. Die diesbezügliche Entscheidung auf Grund  eines  Antrages  des  Schülers  obliegt  dem  Schulleiter  unter  Anwendung  der  Bestimmungen  des AVG.
+(2) Von der Wiederholung eines Semesters gemäß Abs. 1 kann abgesehen werden, wenn trotz des Mangels in einem Unterrichtsgegenstand erwartet werden kann, daß der Schüler bis zum Ende der Ausbildung das für die Berufsausübung notwendige Wissen und Können erwirbt; hiebei ist insbesondere auf die Erfordernisse bei der Abschlußprüfung Bedacht zu nehmen. Die diesbezügliche Entscheidung auf Grund eines Antrages des Schülers obliegt dem Schulleiter unter Anwendung der Bestimmungen des AVG.
 
 ### Abschlußprüfung
 
 § 7. (1)  Die  Ausbildung  zum  Leibeserzieher  an  Schulen  ist  durch  eine  Befähigungsprüfung,  die übrigen Ausbildungen sind durch Abschlußprüfungen abzuschließen.
 
-- Der zuständige Bundesminister hat durch Verordnung unter Bedachtnahme auf den Lehrplan der betreffenden  Art  der  Sportlehrerausbildung,  insbesondere  auf  das  Bildungsziel  dieser  Ausbildung,  die Prüfungsgegenstände festzulegen.
+(2) Der zuständige Bundesminister hat durch Verordnung unter Bedachtnahme auf den Lehrplan der betreffenden Art der Sportlehrerausbildung, insbesondere auf das Bildungsziel dieser Ausbildung, die Prüfungsgegenstände festzulegen.
 
-- Die Prüfung ist vor einer Kommission abzulegen. Der Vorsitzende dieser Kommission ist vom zuständigen Bundesminister  zu bestellen. Der  Vorsitzende muß  Fachmann  auf  dem  Gebiet  des Sportwesens  sein  und  eine  entsprechende  pädagogische  Ausbildung  besitzen.  Die  weiteren  Mitglieder haben die betreffenden Unterrichtsgegenstände unterrichtende Lehrer zu sein.
+(3) Die Prüfung ist vor einer Kommission abzulegen. Der Vorsitzende dieser Kommission ist vom zuständigen Bundesminister zu bestellen. Der Vorsitzende muß Fachmann auf dem Gebiet des Sportwesens sein und eine entsprechende pädagogische Ausbildung besitzen. Die weiteren Mitglieder haben die betreffenden Unterrichtsgegenstände unterrichtende Lehrer zu sein.
 
 ### Lehrer
 
 § 8. (1) Der Unterricht ist durch Fachlehrer zu erteilen.
 
-- Für  jede  Schule  sind  ein  Leiter  und  die  erforderliche  Anzahl  von  Lehrern  für  die  einzelnen Unterrichtsgegenstände  sowie  im  Falle  der  Gliederung  in  Fachabteilungen  Abteilungsvorstände  zu bestellen.
+(2) Für jede Schule sind ein Leiter und die erforderliche Anzahl von Lehrern für die einzelnen Unterrichtsgegenstände sowie im Falle der Gliederung in Fachabteilungen Abteilungsvorstände zu bestellen.
 
 ### Bundesanstalten für Leibeserziehung
 
-§ 9. (1) Die Errichtung und Erhaltung der öffentlichen Schulen zur Ausbildung von Leibeserziehern und Sportlehrern obliegt dem Bund als gesetzlichem Schulerhalter. Diese Schulen haben die Bezeichnung 'Bundesanstalten für Leibeserziehung' zu führen.
+§ 9. (1) Die Errichtung und Erhaltung der öffentlichen Schulen zur Ausbildung von Leibeserziehern und Sportlehrern obliegt dem Bund als gesetzlichem Schulerhalter. Diese Schulen haben die Bezeichnung „Bundesanstalten für Leibeserziehung“ zu führen.
 
 www.ris.bka.gv.at
 
@@ -128,25 +128,25 @@ Bundesrecht konsolidiert
 
 ### Zweckgebundene Gebarung
 
-§ 10a. (1) Die Leiter von Bundesanstalten für Leibeserziehung sind ermächtigt, Teile der Schulliegenschaft samt Inventar für nichtschulische Zwecke an Dritte zu überlassen, sofern dadurch die Erfüllung  der  Aufgaben  der  Schulen  zur  Ausbildung  von  Leibeserziehern  und  Sportlehrern  (§ 1)  nicht beeinträchtigt wird. Dabei sind Überlassungen für sportliche und künstlerische Zwecke sowie für Zwecke der Erwachsenenbildung und des Volksbüchereiwesens im Sinne des BundesSportförderungsgesetzes 2013, BGBl. I Nr. 100/2013, des Kunstförderungsgesetzes, BGBl. Nr. 146/1988, sowie des Bundesgesetzes über die Förderung der Erwachsenenbildung und des Volksbüchereiwesens aus Bundesmitteln, BGBl. Nr. 171/1973, jeweils in der geltenden Fassung, sowie Überlassungen für Zwecke im Rahmen der Teilrechtsfähigkeit gemäß § 10b vorrangig zu behandeln.
+§ 10a. (1) Die Leiter von Bundesanstalten für Leibeserziehung sind ermächtigt, Teile der Schulliegenschaft samt Inventar für nichtschulische Zwecke an Dritte zu überlassen, sofern dadurch die Erfüllung der Aufgaben der Schulen zur Ausbildung von Leibeserziehern und Sportlehrern (§ 1) nicht beeinträchtigt wird. Dabei sind Überlassungen für sportliche und künstlerische Zwecke sowie für Zwecke der Erwachsenenbildung und des Volksbüchereiwesens im Sinne des Bundes-Sportförderungsgesetzes 2013, BGBl. I Nr. 100/2013, des Kunstförderungsgesetzes, BGBl. Nr. 146/1988, sowie des Bundesgesetzes über die Förderung der Erwachsenenbildung und des Volksbüchereiwesens aus Bundesmitteln, BGBl. Nr. 171/1973, jeweils in der geltenden Fassung, sowie Überlassungen für Zwecke im Rahmen der Teilrechtsfähigkeit gemäß § 10b vorrangig zu behandeln.
 
 (2) Für die Überlassung von Teilen der Liegenschaft gemäß Abs. 1 ist ein mindestens angemessenes Entgelt (insbesondere Mietzins, Beiträge für den Betriebsaufwand, Umsatzsteuer) einzuheben.
 
 (3) Abweichend von Abs. 2 ist bei Überlassung von Teilen der Schulliegenschaft für Zwecke gemäß Abs. 1  zweiter  Satz  ein  Beitrag  in  der  Höhe  des  durch  die  Überlassung  entstandenen  Mehraufwandes einzuheben. § 22 des Bundes-Sportförderungsgesetzes 2013 betreffend die Überlassung gegen jederzeitigen Widerruf bleibt unberührt.
 
-- Abweichend  von  Abs. 2  und  3  kann  bei  Überlassung  von  Teilen  der  Schulliegenschaft  für Zwecke, die im Interesse der Schule gelegen sind, ein Beitrag eingehoben werden, der den Betriebsaufwand nicht übersteigen darf.
+(4) Abweichend von Abs. 2 und 3 kann bei Überlassung von Teilen der Schulliegenschaft für Zwecke, die im Interesse der Schule gelegen sind, ein Beitrag eingehoben werden, der den Betriebsaufwand nicht übersteigen darf.
 
-- Gemäß  Abs. 2  bis  4  eingehobene  Entgelte  bzw.  Beiträge  sind  im  Sinne  des  § 17  Abs. 5  des Bundeshaushaltsgesetzes, BGBl. Nr. 213/1986, in der geltenden Fassung, zweckgebunden vorrangig für die Bedeckung der durch die Überlassung entstandenen Mehrausgaben sowie weiters für andere Zwecke der Schule zu verwenden.
+(5) Gemäß Abs. 2 bis 4 eingehobene Entgelte bzw. Beiträge sind im Sinne des § 17 Abs. 5 des Bundeshaushaltsgesetzes, BGBl. Nr. 213/1986, in der geltenden Fassung, zweckgebunden vorrangig für die Bedeckung der durch die Überlassung entstandenen Mehrausgaben sowie weiters für andere Zwecke der Schule zu verwenden.
 
-- Sofern durch die Überlassung von Teilen der Schulliegenschaft gemäß Abs. 1 Mietverhältnisse begründet werden, unterliegen diese nicht den Bestimmungen des Mietrechtsgesetzes.
+(6) Sofern durch die Überlassung von Teilen der Schulliegenschaft gemäß Abs. 1 Mietverhältnisse begründet werden, unterliegen diese nicht den Bestimmungen des Mietrechtsgesetzes.
 
-- Andere als durch Schulraumüberlassung (Abs. 1 bis 6) vereinnahmte Drittmittel sind durch die Leiter von Bundesanstalten für Leibeserziehung im Sinne des § 17 Abs. 5 des Bundeshaushaltsgesetzes, BGBl.  Nr. 213/1986,  in  der  geltenden  Fassung,  zweckgebunden  im  Sinne  einer  allfälligen  speziellen Widmung, ansonsten für andere Zwecke der Schule zu verausgaben.
+(7) Andere als durch Schulraumüberlassung (Abs. 1 bis 6) vereinnahmte Drittmittel sind durch die Leiter von Bundesanstalten für Leibeserziehung im Sinne des § 17 Abs. 5 des Bundeshaushaltsgesetzes, BGBl. Nr. 213/1986, in der geltenden Fassung, zweckgebunden im Sinne einer allfälligen speziellen Widmung, ansonsten für andere Zwecke der Schule zu verausgaben.
 
 ### Teilrechtsfähigkeit
 
 § 10b. (1) An den Schulen zur Ausbildung von Leibeserziehern und Sportlehrern können im Rahmen der Teilrechtsfähigkeit Einrichtungen mit eigener Rechtspersönlichkeit geschaffen werden. Diese Einrichtungen haben eine Bezeichnung zu führen, der die eigene Rechtspersönlichkeit zu entnehmen ist und die einen Hinweis auf die Bundesanstalt für Leibeserziehung zu enthalten hat, an der sie eingerichtet ist.
 
-- Die Einrichtung mit Rechtspersönlichkeit wird durch den Leiter der Bundesanstalt für Leibeserziehung oder im Einvernehmen mit diesem durch eine andere geeignete Person als Geschäftsführer nach außen vertreten.
+(2) Die Einrichtung mit Rechtspersönlichkeit wird durch den Leiter der Bundesanstalt für Leibeserziehung oder im Einvernehmen mit diesem durch eine andere geeignete Person als Geschäftsführer nach außen vertreten.
 
 www.ris.bka.gv.at
 
@@ -160,27 +160,27 @@ Bundesrecht konsolidiert
 
 (3) Der Leiter der Bundesanstalt für Leibeserziehung hat nach Beratung mit dem Schulgemeinschaftsausschuß  bei  der  Schulbehörde  erster  Instanz  die  Kundmachung  der  beabsichtigten Gründung bzw. Auflassung einer Einrichtung mit Rechtspersönlichkeit im Verordnungsblatt zu beantragen.
 
-- Die Schulbehörde erster Instanz hat im jeweiligen Verordnungsblatt
+(4) Die Schulbehörde erster Instanz hat im jeweiligen Verordnungsblatt
 
-- die  Bundesanstalten  für  Leibeserziehung,  an  denen  Einrichtungen  mit  Rechtspersönlichkeit bestehen,
+1. die Bundesanstalten für Leibeserziehung, an denen Einrichtungen mit Rechtspersönlichkeit bestehen,
 
-- die Namen der Geschäftsführer und
+2. die Namen der Geschäftsführer und
 
-- die Zeitpunkte des Wirksamwerdens (frühestens mit der Kundmachung im Verordnungsblatt)
+3. die Zeitpunkte des Wirksamwerdens (frühestens mit der Kundmachung im Verordnungsblatt)
 
 kundzumachen, wenn hinsichtlich der Person des Geschäftsführers (insbesondere im Hinblick auf Abs. 5 Z 1 bis 5) keine die Eignung in Frage stellenden Umstände vorliegen und wenn eine Beeinträchtigung des Unterrichtsbetriebes voraussichtlich nicht zu erwarten ist. Im Falle einer Auflösung der Einrichtung mit Rechtspersönlichkeit ist diese ebenfalls im Verordnungsblatt kundzumachen.
 
 (5) Die Einrichtungen mit Rechtspersönlichkeit sind berechtigt, ausschließlich folgende in Z 1 bis 5 genannte Tätigkeiten im eigenen Namen durchzuführen:
 
-- Erwerb von Vermögen und Rechten durch unentgeltliche Rechtsgeschäfte,
+1. Erwerb von Vermögen und Rechten durch unentgeltliche Rechtsgeschäfte,
 
-- Durchführung  von  Lehrveranstaltungen,  die  nicht  schulische  Veranstaltungen  im  Rahmen  des öffentlichen Bildungsauftrages sind,
+2. Durchführung von Lehrveranstaltungen, die nicht schulische Veranstaltungen im Rahmen des öffentlichen Bildungsauftrages sind,
 
-- Durchführung von sonstigen nicht unter Z 2 fallenden Veranstaltungen, die mit der Aufgabe der betreffenden Schule vereinbar sind, bzw. auch deren Organisation und Abwicklung für Dritte,
+3. Durchführung von sonstigen nicht unter Z 2 fallenden Veranstaltungen, die mit der Aufgabe der betreffenden Schule vereinbar sind, bzw. auch deren Organisation und Abwicklung für Dritte,
 
-- Abschluß  von  Verträgen  über  die  Durchführung  von  Arbeiten,  die  mit  der  Aufgabe  der betreffenden Schule vereinbar sind, und
+4. Abschluß von Verträgen über die Durchführung von Arbeiten, die mit der Aufgabe der betreffenden Schule vereinbar sind, und
 
-- Verwendung des durch Rechtsgeschäfte gemäß Z 1 und 4 oder aus Veranstaltungen gemäß Z 2 und  3  erworbenen  Vermögens  und  erworbener  Rechte  für  die  Erfüllung  der  Aufgaben  der betreffenden Bundesanstalt für Leibeserziehung oder für Zwecke gemäß Z 2 bis 4.
+5. Verwendung des durch Rechtsgeschäfte gemäß Z 1 und 4 oder aus Veranstaltungen gemäß Z 2 und 3 erworbenen Vermögens und erworbener Rechte für die Erfüllung der Aufgaben der betreffenden Bundesanstalt für Leibeserziehung oder für Zwecke gemäß Z 2 bis 4.
 
 Tätigkeiten  gemäß  Z 1  bis  5  dürfen  nur  dann  durchgeführt  werden,  wenn  dadurch  die  Erfüllung  der Aufgaben der Schulen zur Ausbildung von Leibeserziehern und Sportlehrern (§ 1) sowie die Erfüllung des  Lehrplanes  nicht  beeinträchtigt  werden.  Der  Abschluß  von  Verträgen  gemäß  Z 4  bedarf  der vorherigen Genehmigung der Schulbehörde, wenn die zu vereinbarende Tätigkeit voraussichtlich länger als ein Jahr dauern wird oder das zu vereinbarende Gesamtentgelt eines derartigen Vertrages 363 364 Euro übersteigt; erfolgt binnen einem Monat keine diesbezügliche Entscheidung der Schulbehörde, gilt die Genehmigung als erteilt.
 
@@ -222,15 +222,15 @@ Bundesrecht konsolidiert
 
 (4) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 24/1998 treten wie folgt in Kraft:
 
-§ 2 Abs. 1, § 3 Abs. 1, § 5 Abs. 2, § 6 Abs. 2, § 7 Abs. 2 und 3, § 10 Abs. 2 und 3 sowie § 13 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 2 Abs. 1, § 3 Abs. 1, § 5 Abs. 2, § 6 Abs. 2, § 7 Abs. 2 und 3, § 10 Abs. 2 und 3 sowie § 13 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 10a Abs. 1 sowie § 10b samt Überschrift treten mit 1. Jänner 1998 in Kraft.
+2. § 10a Abs. 1 sowie § 10b samt Überschrift treten mit 1. Jänner 1998 in Kraft.
 
 (5) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 91/2005 treten wie folgt in Kraft:
 
 1. § 10b Abs. 5 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 3 Abs. 3 lit. a und b tritt mit 1. September 2006 in Kraft.
+2. § 3 Abs. 3 lit. a und b tritt mit 1. September 2006 in Kraft.
 
 (6)  § 3  Abs. 1,  § 7  Abs. 2  und  3,  § 10  Abs. 3,  § 10a  Abs. 1  und  3  sowie  § 13  in  der  Fassung  des Bundesgesetzes BGBl. I Nr. 48/2014 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
 
