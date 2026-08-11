@@ -1,10 +1,13 @@
 [[START OF PAGE 1]]
 
-Government of the Republic of Moldova Ministry of Education
+Approved
+by Ordinance of the Minister of Education
+no. 849 of 29. 11. 2010
+
+Government of the Republic of Moldova
+Ministry of Education
 
 # 2011-2015 Consolidated Strategy for Education Development
-
-Approved by Ordinance of the Minister of Education no. 849 of  29. 11. 2010
 
 Chisinau 2010
 
@@ -14,37 +17,69 @@ Chisinau 2010
 
 ## Table of Contents
 
+1. Introduction.................................................................................................................3
+2. Strategy Goal ...............................................................................................................3
+3. General Objectives and Fundamental Principles of the Strategy ..........................4
+4. Intervention Areas and Target Groups.....................................................................4
+5. Current Situation in the Education System..............................................................5
+5.1. The Legal and Normative Framework ..................................................................5
+5.2. Demographic Trends.............................................................................................6
+5.3. Economic Trends...................................................................................................7
+5.4. Workforce and Unemployment Issues..................................................................8
+5.5. Access to Education and the Quality of Education ...............................................9
+5.5.1. Early Education and Development .........................................................................9
+5.5.2. General Primary and Secondary Education..........................................................11
+5.5.3. Education and Development of the Child in Difficulty........................................13
+5.5.4. Secondary Vocational and Specialised Secondary Education..............................15
+5.5.6. Higher Education..................................................................................................17
+5.6. The SWOT Analysis of the Education System ...................................................20
+6. Priority Directions and Expected Results...............................................................27
+6.1. Ensure Sustainable Development of the Education System................................27
+6.2. Expand Access to Quality Early Education ........................................................32
+6.3. Create and Develop the Child-friendly Schools’ Network .................................33
+6.4. Education and Support to Children in Difficulty ................................................40
+6.5. Enhance the Level of Professional Training in Vocational and Technical Education....................................................................................................................41
+6.6. Integrate Higher Education in the European Learning and Reserach Space.......45
+6.7. Expand and Diversify the Adult Education System............................................52
+7. Estimate the Impact and Costs of Strategy Implementation ................................53
+7.1. The Impact and Advantages of Strategy Implementation ...................................53
+7.2. Strategy Implementation Costs ...........................................................................54
+8. Management and Monitoring of Strategy Implementation ..................................54
+9. Risks of Strategy Implementation Process .............................................................55
+Annex 1. Indicative Framework of the Educational System ..........................................57
+Annex 2. Distribution of appropriations of financial means by expense programmes in the filed of education for 2010−2013 ........................................................................61
+Annex 3. List of Evaluation and Monitoring Indicators ...........................................62
 2 / 64
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
+## 1. Introduction
+
+1. The Education System has a primary role in creating the preconditions for a sustainable human development and building a knowledge-based society. The quality of education determines to a great extent the quality of life and creates opportunities for achieving the full capabilities of each citizen.
+
+2. At the current stage of development of the Republic of Moldova, education is a national priority becoming the basic factor in the transfer and creation of new cultural and general human values, human capital reproduction and development, achievement of educational ideal and educational objectives, consciousness and national identity development, and promotion of the European integration aspirations.
+
+3. The 2011-2015 Consolidated Strategy for Education Development Strategy (hereinafter “the Strategy”) is a fundamental education policy document defining the orientations and priority directions of education system development in the Republic of Moldova in the perspective of European integration.
+
+4. The basic positions which determine the main provisions of the Strategy focus on ensuring a strong interconnection between the specifics of the national background and the European and global trends of education development.
+
+5. The Strategy development is based on national and international experience in the field, fundamental and applied scientific researches, educational and social needs, unanimously recognised principles of human rights and the rights of the child.
+
+6. The normative-legal framework, based on which the Strategy has been developed, includes major policy documents which define the social and economic development of the Republic of Moldova for the coming years, in particular those related to the achievement of the Millennium Development Goals in the Republic of Moldova and provisions of “Education for All” National Strategy.
+
+## 2. Strategy Goal
+
 7. The Strategy aims to:
 
-(i) establish  the  priority  directions  of  education  development  in  the  Republic  of Moldova and mechanisms for their achievement;
+(i) establish the priority directions of education development in the Republic of Moldova and mechanisms for their achievement;
 
-(ii) ensure  sustainable  development  of  education  system  to  form  active,  integrated, social and creative personalities - leading factors of human development and social-economic progress of a country - based on 'education as top priority of the State' principle.
+(ii) ensure sustainable development of education system to form active, integrated, social and creative personalities - leading factors of human development and social-economic progress of a country - based on “education as top priority of the State” principle.
 
 8. Programmes for district/municipal and institutional development will be developed based on the Strategy. Strategy implementation will be organised based on the Action Plan that will include tactical and operational components of the State educational policies.
 
-9. Strategy  implementation  will  be  financed  from  the  State  budget,  local  budgets,  by raising  grants,  sponsorships  and  other  legal  sources,  with  a  special  emphasis  on  budgetary methods based on projects, programmes and performance.
-
-## 1. Introduction
-
-1. The  Education  System  has  a  primary  role  in  creating  the  preconditions  for  a sustainable  human  development  and  building  a  knowledge-based  society.  The  quality  of education  determines  to  a  great  extent  the  quality  of  life  and  creates  opportunities  for achieving the full capabilities of each citizen.
-
-- At  the  current  stage  of  development  of  the  Republic  of  Moldova,  education  is  a national  priority  becoming  the  basic  factor  in  the  transfer  and  creation  of  new  cultural  and general human  values,  human  capital reproduction and  development,  achievement  of educational ideal and educational objectives, consciousness and national identity development, and promotion of the European integration aspirations.
-
-- The 2011-2015 Consolidated Strategy for Education Development Strategy (hereinafter  'the  Strategy')  is  a  fundamental  education  policy  document  defining  the orientations  and  priority  directions  of  education  system  development  in  the  Republic  of Moldova in the perspective of European integration.
-
-- The basic positions  which  determine  the  main  provisions  of  the  Strategy  focus  on ensuring a strong interconnection between the specifics of the national background and the European and global trends of education development.
-
-- The Strategy development is based on national and international  experience in the field, fundamental and applied scientific researches, educational and social needs, unanimously recognised principles of human rights and the rights of the child.
-
-6. The normative-legal  framework, based on which the Strategy has been developed, includes major policy documents which define the social and economic development of the Republic of Moldova for the coming years, in particular those related to the achievement of the Millennium Development Goals in the Republic of Moldova and provisions of 'Education for All' National Strategy.
-
-## 2. Strategy Goal
+9. Strategy implementation will be financed from the State budget, local budgets, by raising grants, sponsorships and other legal sources, with a special emphasis on budgetary methods based on projects, programmes and performance.
 
 3 / 64
 
@@ -194,7 +229,7 @@ Chisinau 2010
 
 20. However, the economy of the Republic of Moldova has proven to be vulnerable to the crisis in 2008-2009. In real terms, by the end of 2009, the GDP per capita was reduced by  about  9%.  This  reduction  imposed  the  need  to  redirect  the  available  funds  to  meet  the needs of the education system, the strategic development issues to be resolved after the relaunch of the Moldovan economy.
 
-21. In  spite  of  economic  difficulties,  the  Moldovan  authorities  have  ensured  a constant increase in the  funds allocated to  education over the past  years. Thus, over 20052008, the share of public expenditure on education in the GDP increased from 6.8% to 8.2%. However, this growth has not been followed by an increase in the gross rate of enrolment at all levels of education. However, this increase was not followed by an increase in the gross enrolment rate at all education levels, which decreased from 71.7% to 69.8% during the same period.
+21. In spite of economic difficulties, the Moldovan authorities have ensured a constant increase in the funds allocated to education over the past years. Thus, over 2005-2008, the share of public expenditure on education in the GDP increased from 6.8% to 8.2%. However, this growth has not been followed by an increase in the gross rate of enrolment at all levels of education. However, this increase was not followed by an increase in the gross enrolment rate at all education levels, which decreased from 71.7% to 69.8% during the same period.
 
 22. As  a  result  of  the  economic  crisis,  poverty  has  increased  dramatically  during 1998  1999,  then  started  to  decline  since  2001,  on  the  one  hand,  because  of  a  certain economic  growth  recorded,  but  also  as  a  result  of  the  increase  in  the  phenomenon  of migration of the workforce and the corresponding income sent from abroad in the country. Despite  the  fact  that  the  extension  of  poverty  has  been  stopped,  there  are  significant disparities between rural and urban areas, which affect access to education. Thus, in 2008 the highest rate of absolute poverty (34.6%) was recorded in rural areas, which was followed by small towns (21.2%). In small cities the absolute poverty  rate (10.9%) is almost two times higher than in larger cities.
 
@@ -204,13 +239,13 @@ Chisinau 2010
 
 [[START OF PAGE 8]]
 
-23. Qualitative and accessible education is essential to combat poverty in a sustainable manner. Thus, according to data from the Household's Budget Survey in 2008, the highest  rate  of  absolute  poverty  (56%)  is  among  households  headed  by  persons  without education or without primary education.  In the case of households headed by persons with incomplete secondary or primary education, the absolute poverty rate is 24%, and in the case of households headed by persons with general secondary or secondary technical education 43%. In the case of households, in which the head of the family has higher education, the absolute poverty rate is the lowest  8%. In other words, if the head of the family is illiterate or has no primary education, the household's risk of being poor is seven times higher than of a household headed by a person who has higher education.
+23. Qualitative and accessible education is essential to combat poverty in a sustainable manner. Thus, according to data from the Household's Budget Survey in 2008, the highest rate of absolute poverty (56%) is among households headed by persons without education or without primary education. In the case of households headed by persons with incomplete secondary or primary education, the absolute poverty rate is 24%, and in the case of households headed by persons with general secondary or secondary technical education – 43%. In the case of households, in which the head of the family has higher education, the absolute poverty rate is the lowest − 8%. In other words, if the head of the family is illiterate or has no primary education, the household's risk of being poor is seven times higher than of a household headed by a person who has higher education.
 
 ### 5.4. Workforce and Unemployment Issues
 
 24. The transition of the Republic of Moldova to the market economy has produced quantitative and qualitative changes in the field of employment, characterised in particular by:
 
-(i) reduction of population employed in the national economy by almost 20% (19932008);
+(i) reduction of population employed in the national economy by almost 20% (1993-2008);
 
 (ii) increase in the share of employees in the private sector (from 37% in 1990 to about 67% of the employed population in 2008);
 
@@ -226,7 +261,7 @@ Chisinau 2010
 
 26. The  analysis  of  structure  of  the  ILO  unemployment  by  age  group  and  level  of education highlights the following issues:
 
-(vii) high shares in the total number of unemployed has registered the age groups of 1524 (30.2%) and 25  34 years old (40.0%), a feature that persists in the structure of the average residence and sex;
+(vii) high shares in the total number of unemployed has registered the age groups of 15-24 (30.2%) and 25−34 years old (40.0%), a feature that persists in the structure of the average residence and sex;
 
 (viii) unemployed  persons  from  among  people  with  secondary  vocational  education recorded a share of 27.3% in the total number of the unemployed aged 15-34 years old, those with technical secondary education - 7.6%, and those with higher education - 28.2%;
 
@@ -252,7 +287,7 @@ Chisinau 2010
 
 31. Moldovan  authorities  have  made  considerable  efforts  which  have  aimed  at improving the access of children of the respective age to early education and development. According to statistics there were 1,349 kindergartens operating in the country in 2008, which is by 214 pre-school institutions more than in 2000, with 123.9 thousand children. The gross rate of enrolment in the pre-school education has risen from 66.1% in 2004 to 84.6% in 2009. About 31,000 children, which is 86.1% of the total number of children aged 5-6 years old, were enrolled in the preparatory groups.
 
-- Starting  from  the  importance  of  early  education  of  children  in  their  further development and the full implementation of the opportunities offered by the general education and  higher  education,  the  Government  reviewed  the  Millennium  Development  Goal  in  the field of education to include explicit provisions on the pre-school education. Thus, according to the National Development Strategy, it is foreseen to increase the rate of enrolment in the pre-school programs for children aged 3 to 6 years old from 41.3% in 2002 to 75% in 2010 and up to 78% in 2015, and for children aged 5-6 (7) years old from 66.5% in 2002 to 95% in 2010  and  up  to  98%  in  2015,  as  well  as  a  reduction  of  less  than  5%  in  the  discrepancies between urban and rural regions, between disadvantaged and middle- income groups.
+32. Starting from the importance of early education of children in their further development and the full implementation of the opportunities offered by the general education and higher education, the Government reviewed the Millennium Development Goal in the field of education to include explicit provisions on the pre-school education. Thus, according to the National Development Strategy, it is foreseen to increase the rate of enrolment in the pre-school programs for children aged 3 to 6 years old from 41.3% in 2002 to 75% in 2010 and up to 78% in 2015, and for children aged 5-6 (7) years old from 66.5% in 2002 to 95% in 2010 and up to 98% in 2015, as well as a reduction of less than 5% in the discrepancies between urban and rural regions, between disadvantaged and middle- income groups.
 
 33. Based on the wishes of parents, groups of children and the material possibilities of communities,  the  Government  has  encouraged  the  operation  of  kindergartens  with  flexible working  hours  (4,  6,  9,  10  or  12  hours  per  day).  In  addition  to  the  standard  educational services  there  has  been  developed  and  implemented  a  new  service  -  the  psychological, physical, psycho-social development (dance, chess, computer, foreign languages etc.).
 
@@ -510,7 +545,7 @@ Chisinau 2010
 
 62. In spite of efforts made, some crafts in the secondary vocational education in rural areas  are  still  unattractive  for  secondary  general  education  graduates.  Therefore,  at  the beginning of the school year 2009/2010, 13,400 pupils were enrolled in secondary vocational education institutions, registering a decrease by 12.6% compared to the previous school year. The  majority  of  pupils  (81%),  most  of  which  come  from  rural  settlements  (73.8%),  were enrolled based on gymnasium education
 
-- The main challenges facing the secondary vocational education are:
+63. The main challenges facing the secondary vocational education are:
 
 (i) the material and technical basis is morally outdated in some institutions;
 
@@ -653,7 +688,7 @@ of the European vector in the development of the education system. 4. Openness o
 
 Strengths (S) | Weaknesses (W) | Opportunities (O) | Threats (T)
 --- | --- | --- | ---
-information and communication technologies. 6. Implement a national system of evaluation of the school performance 7. Providing all pupils with textbooks through the Rental scheme. 8. Implement a new model of continuous professional teachers' training. 9. Launching of initial and continuous training of school managers. 10. Promotion of alternatives in the education system. 11. Promotion of inclusive education in the education system. | 8. Structure of the network of education institutions no longer corresponds to the demographic situation of communities, especially of the rural ones. 9. Diminishing the teachers' role in decision-making in education. 10. Low social status of teachers and, as a result, the low level of professional training. 11. Low level of organisational culture of education institutions. 12. Reduced degree of autonomy of education institutions. 13. Insufficient participation of community and family in solving school issues. 14. Imperfection of methods of educational management at central, local and institutional level. 15. Inefficiency, to a certain extent, of the National Curriculum management. 16. Pressing lack of institutions for extracurricular/complementary education. 17. Inconsistency between the material- technical and teaching basis and modern educational needs. 18. Relatively low level of use of information and communication technology in the teaching-learning | education.
+information and communication technologies. 6. Implement a national system of evaluation of the school performance 7. Providing all pupils with textbooks through the Rental scheme. 8. Implement a new model of continuous professional teachers' training. 9. Launching of initial and continuous training of school managers. 10. Promotion of alternatives in the education system. 11. Promotion of inclusive education in the education system. | 8. Structure of the network of education institutions no longer corresponds to the demographic situation of communities, especially of the rural ones. 9. Diminishing the teachers' role in decision-making in education. 10. Low social status of teachers and, as a result, the low level of professional training. 11. Low level of organisational culture of education institutions. 12. Reduced degree of autonomy of education institutions. 13. Insufficient participation of community and family in solving school issues. 14. Imperfection of methods of educational management at central, local and institutional level. 15. Inefficiency, to a certain extent, of the National Curriculum management. 16. Pressing lack of institutions for extracurricular/complementary education. 17. Inconsistency between the material-technical and teaching basis and modern educational needs. 18. Relatively low level of use of information and communication technology in the teaching-learning |  | education.
 
 22 / 64
 
@@ -663,6 +698,7 @@ information and communication technologies. 6. Implement a national system of ev
 
 Strengths (S) | Weaknesses (W) | Opportunities (O) | Threats (T)
 --- | --- | --- | ---
+ | processes. |  | 
 #### Vocational and Technical Education
 1. Existence of an extensive infrastructure. 2. Positive impact of the implementation of international projects. 3. Existence of teachers with an extensive experience in the field. 4. Openness of teachers to the change. | 1. Inconsistency between the current structure of vocational and technical education, modern requirements and international practices. 2. Significant discrepancies in the educational offers of vocational and technical education institutions and the labour market requirements. 3. Lack of normative-legal documents, which would regulate the training and occupational-related issues. 4. Low level of harmonisation of vocational and technical education Curriculum to the Concept of National Curriculum. 5. Inefficient use of available resources due to duplication of professional training of the same specialties both in vocational schools and colleges. 6. Lack of sustainable mechanisms for continuous professional training for teachers of vocational and technical education. 7. Inconsistency between the existing methods of vocational and technical education management and modern management trends. | 1. Trends of increasing the degree of involvement of businesses in solving the problems of vocational and technical education. 2. Trends of increasing labour market requests and motivation for applicants for specific specialities. 3. Favourable conditions for the opening with the support of the economic agents of new training programmes. 4. Secondary vocational and technical education institutions have possibilities to provide paid services to population which would help raising additional income. | 1. Lack of experience in the development and implementation of a normative-legal framework to reform the vocational and technical education. 2. Lack at central and local level of explicit political visions of the purposes and ways of reforming the vocational and technical education. 3. Lack of a national consensus on the reform of vocational and technical education. 4. Incoherent national and institutional management of technical and vocational education. 5. Relatively low social status of teachers and masters in the vocational and technical education. 6. Resistance to change of a significant number of vocational and technical education institutions' managers.
 
@@ -674,9 +710,9 @@ Strengths (S) | Weaknesses (W) | Opportunities (O) | Threats (T)
 
 Strengths (S) | Weaknesses (W) | Opportunities (O) | Threats (T)
 --- | --- | --- | ---
-of the Bologna Process | 8. Inefficiency of existing connections between the vocational and technical education institutions and the labour market. 9. Low level of promotion of entrepreneurship in vocational and technical education institutions. | 1. Incoherent legal and normative framework.
+ | 8. Inefficiency of existing connections between the vocational and technical education institutions and the labour market. 9. Low level of promotion of entrepreneurship in vocational and technical education institutions. |  | 
 #### Higher Education
-1. Promotion requirements. 2. Implementation of the National Strategy for Higher Education Development. 3. Structure the higher education in two cycles. 4. Promote the Concept of University Standards and Curriculum. 5. Develop and promote the National system of qualifications. 6. Promote a system of quality management in higher education. 7. Promote the integration of higher education, scientific research and labour market. 8. Promote a student-centred education. 9. Promote the mobility of students and teachers. 10. More effective involvement of students in university governance. | 1. Incoherent application of the Bologna Process requirements. 2. Incoherence of higher education cycles from the curriculum, managerial and technological standpoint. 3. Lack of external structures of quality evaluation and assurance in higher education. 4. Low level of inter-connection between the higher education, scientific research and the economic environment. 5. The management of scientific research does not match the existing European models and academic needs. 6. Dysfunctions in the continuous training of teachers in higher education. 7. Incoherent financing of higher education compared to its actual | 1. Full implementation of the Bologna Process requirements. 2. Implementation of international projects on: quality management in higher education; the connection of higher education and the economic environment; management of the University Curriculum; continuous professional training etc. 3. Resizing of scientific researches in higher education. 4. Existence in higher education of highly qualified teaching and scientific staff. | 2. Vulnerability of the economic environment and its effect on the educational institutions. 3. Lack of strategic projects for the development of higher education. 4. Inconsistence between the higher education structure and labour market needs and the requirements for the quality of specialists trained. 5. Low status of researches in higher education. 6. Reduced students' accountability for their learning results. 7. Resistance to a great extent of managers and teachers to change. 8. Insufficient financing of higher education associated with inefficient financial management. 9. Lack of a marketing system in higher education.
+1. Promotion of the Bologna Process requirements. 2. Implementation of the National Strategy for Higher Education Development. 3. Structure the higher education in two cycles. 4. Promote the Concept of University Standards and Curriculum. 5. Develop and promote the National system of qualifications. 6. Promote a system of quality management in higher education. 7. Promote the integration of higher education, scientific research and labour market. 8. Promote a student-centred education. 9. Promote the mobility of students and teachers. 10. More effective involvement of students in university governance. | 1. Incoherent application of the Bologna Process requirements. 2. Incoherence of higher education cycles from the curriculum, managerial and technological standpoint. 3. Lack of external structures of quality evaluation and assurance in higher education. 4. Low level of inter-connection between the higher education, scientific research and the economic environment. 5. The management of scientific research does not match the existing European models and academic needs. 6. Dysfunctions in the continuous training of teachers in higher education. 7. Incoherent financing of higher education compared to its actual | 1. Full implementation of the Bologna Process requirements. 2. Implementation of international projects on: quality management in higher education; the connection of higher education and the economic environment; management of the University Curriculum; continuous professional training etc. 3. Resizing of scientific researches in higher education. 4. Existence in higher education of highly qualified teaching and scientific staff. | 1. Incoherent legal and normative framework. 2. Vulnerability of the economic environment and its effect on the educational institutions. 3. Lack of strategic projects for the development of higher education. 4. Inconsistence between the higher education structure and labour market needs and the requirements for the quality of specialists trained. 5. Low status of researches in higher education. 6. Reduced students' accountability for their learning results. 7. Resistance to a great extent of managers and teachers to change. 8. Insufficient financing of higher education associated with inefficient financial management. 9. Lack of a marketing system in higher education.
 
 24 / 64
 
@@ -712,9 +748,9 @@ standards for continuous professional training of teachers and managers in adult
 
 78. The sustainable development of the education system will be achieved through the implementation  of  common  measures  for  the  whole  education  sector,  starting  from  the interdependence  between  the  quality  of  teachers,  the  quality  of  education,  the  level  of economy development and quality of life.
 
-#### General Objective of the Priority: Modernise the education system-wide and in terms of international relations.
+#### 79. General Objective of the Priority: Modernise the education system-wide and in terms of international relations.
 
-#### Tasks:
+#### 80. Tasks:
 
 (i) Developing and implementing by 2015 a system of financing the education sector, which  would  ensure  a  proper  functioning  and  sustainable  development  of  education, improvement of teachers' image.
 
@@ -728,9 +764,9 @@ standards for continuous professional training of teachers and managers in adult
 
 (vi) Promoting intercultural education within the education system by creating conditions  so  that  by  2013  all  education  institutions  working  in  the  language  of  minorities have qualified teachers for teaching of the Romanian language.
 
-#### Specific Objective 1: Promote socio-economic and educational policies that will ensure the priority development of education.
+#### 81. Specific Objective 1: Promote socio-economic and educational policies that will ensure the priority development of education.
 
-##### Policy directions :
+##### 82. Policy directions :
 
 (i) modernization  and  the  development  of  the  normative-legislative  framework  from the perspective of bringing the education system in line with the European standards and the socio-economic and educational needs of the State;
 
@@ -739,6 +775,8 @@ standards for continuous professional training of teachers and managers in adult
 (iii) establishment of an effective system of social protection of the human resources in the education;
 
 (iv) establishment of a system of tax privileges for those who invest in the development of education: economic agents, national and international companies, individuals etc.
+
+27 / 64
 
 [[END OF PAGE 27]]
 
@@ -816,7 +854,7 @@ standards for continuous professional training of teachers and managers in adult
 
 (ii) develop and implement the norms for technical and material provision of and State guaranteed financing for all types of educational institutions;
 
-(iii) phased implementation of the guaranteed financing of the education system based on its actual needs and from the perspective of the development and influence on the socioeconomic sphere;
+(iii) phased implementation of the guaranteed financing of the education system based on its actual needs and from the perspective of the development and influence on the socio-economic sphere;
 
 (iv) substantiate  and  develop  mechanisms  and  norms  on  complementary  financing  of the education system;
 
@@ -836,9 +874,9 @@ standards for continuous professional training of teachers and managers in adult
 
 (iii) a  new  speciality  -  specialist  in  economics  education  -  promoted  on  the  labour market;
 
-93. the social protection extended to undergraduate, postgraduate and PhD students.
+(iv) the social protection extended to undergraduate, postgraduate and PhD students.
 
-#### 1. Specific Objective 5: Ensure and monitor the quality of education.
+#### 93. Specific Objective 5: Ensure and monitor the quality of education.
 
 ##### 94. Policy directions :
 
@@ -858,7 +896,7 @@ standards for continuous professional training of teachers and managers in adult
 
 (v) establish mechanisms for ensuring the feedback in the education system.
 
-##### Expected results :
+##### 95. Expected results :
 
 (i) new quality assurance models and mechanisms set up at the national level;
 
@@ -918,7 +956,7 @@ standards for continuous professional training of teachers and managers in adult
 
 (vii) decentralization  of  education  system  through  rational  splitting  of  competences, functions and responsibilities at all levels of administration and assurance of a real autonomy of education institutions.
 
-##### Expected results :
+##### 101. Expected results :
 
 (i) a modern concept on educational management worked out;
 
@@ -930,7 +968,7 @@ standards for continuous professional training of teachers and managers in adult
 
 #### 102. Specific Objective 8: Promote social dialogue and partnerships.
 
-##### Policy directions :
+##### 103. Policy directions :
 
 (i) creating  the  conditions  and  establishing  points/  areas  of  interests  regarding  the social dialogue with the community, civil society and business environment;
 
@@ -986,7 +1024,7 @@ standards for continuous professional training of teachers and managers in adult
 
 #### 110. Specific Objective 1: Expand services of early child education and development.
 
-##### Policy directions :
+##### 111. Policy directions :
 
 (i) carry out the institutional reform by creating educational alternatives, development of an appropriate institutional framework to ensure access for all children to quality education based on local conditions and needs of the child, family, depending on the actual possibilities;
 
@@ -994,7 +1032,7 @@ standards for continuous professional training of teachers and managers in adult
 
 (iii) establishment  of  viable  and  cost-effective  educational  services  in  localities  that currently do not have services, making the supply of high-quality educational services more flexible;
 
-(iv) creating  community-based  alternatives  and  the  establishment  of  socio-psychopedagogical support services for family with young children for the purpose of information, documentation, counselling, and consultation;
+(iv) creating community-based alternatives and the establishment of socio-psycho-pedagogical support services for family with young children for the purpose of information, documentation, counselling, and consultation;
 
 (v) development and promotion of viable policies for early education for all children and  equitable  access  to  quality  services  at  national,  local,  institutional  and  family  level; dissemination  of  the  process  at  all  levels  and  bringing  it  in  line  with  the  international legislation;
 
@@ -1002,7 +1040,7 @@ standards for continuous professional training of teachers and managers in adult
 
 ##### 112. Expected results :
 
-(i) access to education for children aged 3-5 years old, respectively of children aged 6 - 7 years old to compulsory pre-school programs increased by extending the number of preschool/community centres, educational services etc.;
+(i) access to education for children aged 3-5 years old, respectively of children aged 6 - 7 years old to compulsory pre-school programs increased by extending the number of pre-school/community centres, educational services etc.;
 
 (ii) existing  services  developed  and  alternative  education  services  for  under-7-age children created;
 
@@ -1044,7 +1082,7 @@ standards for continuous professional training of teachers and managers in adult
 
 ##### 117. Policy directions :
 
-(i) editing  of  teaching  material  for  educators  and  parents  according  to  the  ethnolinguistic realities in the Republic of Moldova;
+(i) editing of teaching material for educators and parents according to the ethno-linguistic realities in the Republic of Moldova;
 
 (ii) provision of all  families  that  have  small  children  and  institutions  providing  early child education and development services with teaching aids;
 
@@ -1062,7 +1100,7 @@ standards for continuous professional training of teachers and managers in adult
 
 ### 6.3. Create and Develop the Child-Friendly Schools' Network
 
-#### 119. General Objective of the Priority: Increase  access  and  improve  the  quality  of primary  education,  gymnasium  and  higher  education  from  the  perspective  of  the  childfriendly schools.
+#### 119. General Objective of the Priority: Increase access and improve the quality of primary education, gymnasium and higher education from the perspective of the child-friendly schools.
 
 #### 120. Tasks :
 
@@ -1296,7 +1334,7 @@ standards for continuous professional training of teachers and managers in adult
 
 (i) a system of continuous development of school curriculum set up;
 
-(ii) new  generations  of  school  curricula:  integrated,  focused  on  competences,  crosscurricular themes developed;
+(ii) new generations of school curricula: integrated, focused on competences, cross-curricular themes developed;
 
 (iii) modern  teaching,  including  information  and  communication,  technologies  and strategies implemented;
 
@@ -1520,13 +1558,13 @@ standards for continuous professional training of teachers and managers in adult
 
 [[START OF PAGE 42]]
 
-#### Tasks
+#### 160. Tasks
 
 (i) Updating  the  Nomenclature  of  trades  in  accordance  with  economic  needs  of  the country through the inclusion of new trades and modernisation of the existing trades.
 
 (ii) Reorganization  of  the  network  of  secondary  vocational  education  institutions through the introduction of 10 vocational high schools and 51 vocational schools.
 
-(iii) Organisation of training for mixed (related) specialties: chef-confectioner, waiterbar-tender,  seamstress-tailor,  stone  mason-bricklayer-plasterer,  plasterer  -  façade  painter, electric-gas-welder, tractor-diver-mechanic in agricultural production etc.
+(iii) Organisation of training for mixed (related) specialties: chef-confectioner, waiter-bar-tender, seamstress-tailor, stone mason-bricklayer-plasterer, plasterer - façade painter, electric-gas-welder, tractor-diver-mechanic in agricultural production etc.
 
 (iv) Renovation  and  re-technologisation  of  the  material  and  technical  basis  for  the priority  areas  of  professional  training:  services,  construction,  agriculture,  transport,  wood processing industry, food industry, public nutrition, light industry, a total of 12 educational institutions.
 
@@ -1576,7 +1614,7 @@ standards for continuous professional training of teachers and managers in adult
 
 (iv) strategic plans for institutional development developed.
 
-#### 167. Specific  Objective  3: Adjust  the  training  of  specialists  in  secondary  and  postsecondary  vocational  and  technical  education  to  the  current  and  perspective  needs  of  the labour market.
+#### 167. Specific Objective 3: Adjust the training of specialists in secondary and post-secondary vocational and technical education to the current and perspective needs of the labour market.
 
 ##### 168. Policy directions :
 
@@ -1996,7 +2034,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 (ii) implement performance-based financing mechanisms for higher education institutions, and develop the required set of indicators;
 
-(iii) development  and  implementation  of  contracts  relating  to  the  financial  assistance from  the  State  and  distribution  of  specialists  for  employment  according  to  commitments undertaken  in  the  contract  between  the  student  -  local  public  administration  authority  employers - ministry;
+(iii) development and implementation of contracts relating to the financial assistance from the State and distribution of specialists for employment according to commitments undertaken in the contract between the student - local public administration authority - employers - ministry;
 
 (iv) develop  the  normative  framework  for  the  organization  and  carrying  out of entrepreneurial activities by higher education institutions;
 
@@ -2036,7 +2074,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 (iv) creating and implementing mechanisms for supporting teaching staff's mobility;
 
-(v) modernising  the  system  of  teaching  staff  evaluation  in  higher  education;  selfevaluation centeredness;
+(v) modernising  the  system  of  teaching  staff  evaluation  in  higher  education;  self-evaluation centeredness;
 
 (vi) identifying modern mechanisms for teaching staff motivation with regard to their professional growth and participation in national and international projects;
 
@@ -2056,7 +2094,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 (iii) an effective and motivational model for evaluation and monitoring of teaching staff in higher education set up;
 
-(iv) conditions for effective students' involvement in university governance, decisionmaking and taking over of responsibilities created;
+(iv) conditions for effective students' involvement in university governance, decision-making and taking over of responsibilities created;
 
 (v) pre-requisites for democratic, cultural, intercultural values etc. promotion created.
 
@@ -2068,7 +2106,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 ### 6.7. Expand and Diversify the Adult Education System
 
-#### 217. General Objective of the Priority: .  Strengthening  the  system  of  lifelong  adult education based on the needs of the person and the socio-economic needs.
+#### 217. General Objective of the Priority:. Strengthening the system of lifelong adult education based on the needs of the person and the socio-economic needs.
 
 #### 218. Tasks :
 
@@ -2108,7 +2146,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 (iv) introduction of professional cumulative credits;
 
-(v) creating  conditions  of  motivation  for  continuous  professional  training  and  selftraining;
+(v) creating  conditions  of  motivation  for  continuous  professional  training  and  self-training;
 
 (vi) determining  the  responsibilities  of  economic  agents  for  continuous  professional training;
 
@@ -2116,7 +2154,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 (viii) identifying modalities for accreditation of continuous training programmes;
 
-(ix) introduction  to  the  Nomenclature  of  a  new  speciality  -  trainer  of  continuous professional training.
+(ix) introduction  to  the  Nomenclature  of  a  new  speciality  –  trainer  of  continuous professional training.
 
 ##### 224. Expected results :
 
@@ -2126,7 +2164,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 [[START OF PAGE 53]]
 
-(i) a  new  paradigm  of  continuous  professional  training  focused  on  the  principle  of 'lifelong education' promoted;
+(i) a  new  paradigm  of  continuous  professional  training  focused  on  the  principle  of ”lifelong education” promoted;
 
 (ii) the market of educational services of continuous professional training created;
 
@@ -2194,7 +2232,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 (i) Financing  of  the  education  system  shall  be  conducted  in  accordance  with  the legislation in force and will be no less than 8% of the GDP.
 
-230. The distribution of appropriations of financial means by expenditure programmes in the field of education in 2010  2013 is provided in Annex 2 .
+230. The distribution of appropriations of financial means by expenditure programmes in the field of education in 20102013 is provided in Annex 2.
 
 ## 8. Management and Monitoring of Strategy Implementation
 
@@ -2220,7 +2258,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 (iv) ensures  interaction  with  other  structures  of  the  State  and  civil  society  directly  or indirectly involved in Strategy implementation;
 
-(v) sets  up  the  'National  Council'  to  lead  the  implementation  and  monitoring  of  the Strategy.
+(v) sets  up  the  “National  Council”  to  lead  the  implementation  and  monitoring  of  the Strategy.
 
 233. Responsibilities of the Ministry of Education:
 
@@ -2248,7 +2286,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 235. Responsibilities of Local Public Administration:
 
-(i) creates  conditions  for  full  achievement  of  Strategy  provisions  in  the  territorialadministrative units;
+(i) creates  conditions  for  full  achievement  of  Strategy  provisions  in  the  territorial-administrative units;
 
 (ii) presents  to  the  leadership  bodies  and  general  public  annual  reports  on  education development in the administrative-territorial unit;
 
@@ -2268,7 +2306,7 @@ Optimise the state education institutions' network in accordance with the Europe
 
 (ii) Stage 2013  2015, during which there will be carried out the basic actions on the modernization  of  the  institutional  framework,  the  development  of  human  potential  and strengthening of the material and technical basis of the education system.
 
-238. Monitoring  of  Strategy  implementation  processes  will  be  based  on  the  set  of indicators specified in Annex 3 .
+238. Monitoring  of  Strategy  implementation  processes  will  be  based  on  the  set  of indicators specified in Annex 3.
 
 239. Responsibilities relating to the monitoring of Strategy implementation processes will be in charge of the Monitoring Committees established at local, district /municipal and central  level,  which  will  assess  the  progress  and  present  reports  to  public  administration bodies (Local Council, District/Municipal Council, and Ministry of Education). These reports will be open and will be made available to the general public.
 
@@ -2310,6 +2348,8 @@ Optimise the state education institutions' network in accordance with the Europe
 
 [[START OF PAGE 57]]
 
+## Annex 1. Indicative Framework of the Educational System
+
 Field/Indicator | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Selected population characteristics ( '000 )
@@ -2343,8 +2383,6 @@ Rural | 33.8 | 44.8 | 49.0 | 54.2 | 59.1 | 59.4 | 62.0 | 63.5 | 64.5
 Primary (grades 1-4) - overall | 92.4 | 92.7 | 92.4 | 91.0 | 87.8 | 87.6 | 87.7 | 87.5 | 87.6
 Urban | 94.6 | 94.8 | 96.4 | 95.5 | 92.1 | 93.3 | 94.0 | 94.9 | 95.4
 Rural | 91.3 | 91.6 | 90.4 | 88.7 | 85.6 | 84.7 | 84.5 | 83.7 | 83.5
-
-## Annex 1. Indicative Framework of the Educational System
 
 57 / 64
 
@@ -2467,7 +2505,7 @@ Notes:
 
 ***  Adjusted for Purchasing Power Parity. Values per capita per month
 
-Source: Reports on Poverty and Policy Impact. Ministry of Economy, 2004-2009
+Source: Reports on Poverty and Policy Impact. Ministry of Economy, 2004−2009
 
 60 / 64
 
@@ -2475,9 +2513,11 @@ Source: Reports on Poverty and Policy Impact. Ministry of Economy, 2004-2009
 
 [[START OF PAGE 61]]
 
-Programme | Total public expenditures (thousand lei) (including investment) | Forecast (thousand lei) (excluding investment) | Share of each programme in total expenditures amount in the sector (%)
+## Annex 2. Distribution of appropriations of financial means by expense programmes in the filed of education for 2010–2013
+
+Programme | Total public expenditures (thousand lei) (including investment) |  | Forecast (thousand lei) (excluding investment) |  |  | Share of each programme in total expenditures amount in the sector (%) |  |
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-2009 executed | 2010 approved | 2011 | 2012 | 2013 | 2011 | 2012 | 2013
+ | 2009 executed | 2010 approved | 2011 | 2012 | 2013 | 2011 | 2012 | 2013
 Programme I "Pre-school Education" | 1,119,352.9 | 1,289,186.8 | 1,301,008.6 | 1,321,855.2 | 1,343,652.7 | 19.8 | 19.9 | 20.1
 Programme II "Secondary Education" | 2,956,309.2 | 3,539,118.1 | 3,480,094.3 | 3,528,144.0 | 3,557,513.7 | 53.0 | 53.2 | 53.2
 Programme III "Secondary Specialised Education " | 284,646.7 | 307,126.8 | 303,637.6 | 303,637.6 | 303,637.6 | 4.6 | 4.6 | 4.5
@@ -2486,19 +2526,17 @@ Programme V "Postgraduate Education " | 73,525.1 | 78,337.6 | 78,137.6 | 78,137.
 Programme VI "Development of Teaching and Managerial Staff" | 15,158.4 | 16,551.4 | 4,937.6 | 4,937.6 | 4,937.6 | 0.1 | 0.1 | 0.1
 Programme VII "Extra-school Education " | 404,160.0 | 501,113.9 | 502,439.0 | 507,749.8 | 513,301.3 | 7.7 | 7.7 | 7.7
 Programme VIII "Management and Administration in the field of Education" | 31,460.2 | 31,717.1 | 31,930.9 | 32,155.0 | 32,390.2 | 0.5 | 0.5 | 0.5
-Programme IX "Training of gifted staff within "Education and Research" Network | 14,278.2 | 13,111.6 | 13,111.6 | 13,111.6 | 0.2 | 0.2 | 0.2
+Programme IX "Training of gifted staff within "Education and Research" Network |  | 14,278.2 | 13,111.6 | 13,111.6 | 13,111.6 | 0.2 | 0.2 | 0.2
 Total by programmes | 5,665,945.5 | 6,618,730.4 | 6,561,797.6 | 6,636,228.9 | 669,3182.9 | 100.0 | 100.0 | 100.0
 Funding from:
 State Budget, including: | 1,761,449.7 | 1,898,109.4 | 1,829,513.3 | 1,849,513.3 | 1,849,513.3 | 27.9 | 27.9 | 27.6
 Basic expenditures | 1,240,978.7 | 1,357,106.5 | 1,299,592.6 | 1,319,592.6 | 1,319,592.6 | 19.8 | 19.9 | 19.7
 Special means and funds | 471,557.3 | 518,720.7 | 529,920.7 | 529,920.7 | 529,920.7 | 8.1 | 8.0 | 7.9
-Investment projects funded from external sources | 48,913.7 | 22,282.2 | 0.0 | 0.0 | 0.0
+Investment projects funded from external sources | 48,913.7 | 22,282.2 |  |  |  | 0.0 | 0.0 | 0.0
 ATU's Bugets | 3,904,495.8 | 4,720,621.0 | 4,732,284.3 | 4,786,715.6 | 4,843,669.6 | 72.1 | 72.1 | 72.4
 BASS
 FAOAM
 TOTAL sector | 5,665,945.5 | 6,618,730.4 | 6,561,797.6 | 6,636,228.9 | 6,693,182.9 | 100.0 | 100.0 | 100.0
-
-## Annex 2. Distribution of appropriations of financial means by expense programmes in the filed of education for 2010  2013
 
 [[END OF PAGE 61]]
 
@@ -2530,7 +2568,7 @@ No. | Monitoring Indicators | Source
 1. | Gross enrolment rate in pre-school education, % | NBS
 2. | Net enrolment rate in pre-school education (children aged 3-6), % | NBS
 3. | Net enrolment rate in compulsory pre-school preparation (children aged 5-6) , % | NBS
-4. | Rate of children in the 1 st form who where enrolled in compulsory pre-school preparation, % | MoE
+4. | Rate of children in the 1st form who where enrolled in compulsory pre-school preparation, % | MoE
 5. | Number of pre-school institutions | NBS
 6. | Number of places in pre-school institutions | NBS
 7. | Number of children in pre-school institutions | NBS
@@ -2626,7 +2664,7 @@ No. | Monitoring Indicators | Source
 1. | Number of higher educational institutions | NBS
 2. | Number of teaching staff | NBS
 3. | Number of students enrolled in higher education | NBS
-4. | Proportion of the 1 st cycle (licentiate) graduates enrolled in the 2 nd cycle (master degree), % | MoE
+4. | Proportion of the 1st cycle (licentiate) graduates enrolled in the 2nd cycle (master degree), % | MoE
 5. | Proportion of optional disciplines in the university curricula, % | MoE
 6. | Proportion of students who have participated in mobility programs, % | MoE
 7. | Proportion of teachers who have participated in mobility programs, % | MoE
@@ -2636,7 +2674,7 @@ No. | Monitoring Indicators | Source
 11. | Proportion of students who have been assigned to work places by the state, % | MoE
 12. | Proportion of students provided with a place in a hostel, % | MoE
 13. | Proportion of students who within the first year after the graduation from an institution have started to work according to the obtained qualification, % | MoE, MoEc
-14. | Proportion of students starting 1 st year who graduate from the educational institution | MoE
+14. | Proportion of students starting 1st year who graduate from the educational institution | MoE
 15. | Ratio of students/teaching staff in higher education | MoE
 
 ### Priority Direction7. Extend and Diversify the Adult Education System
@@ -2650,18 +2688,10 @@ No. | Monitoring Indicators | Source
 
 Note:
 
-NBS 
-
-National Bureau of Statistics;
-
-MoE 
-
-Ministry of Education;
-
+NBS  National Bureau of Statistics;
+MoE  Ministry of Education;
 MoF  Ministry of Finance;
-
 MoEc  Ministry of Economy;
-
 MoH  Ministry of Health.
 
 64 / 64
