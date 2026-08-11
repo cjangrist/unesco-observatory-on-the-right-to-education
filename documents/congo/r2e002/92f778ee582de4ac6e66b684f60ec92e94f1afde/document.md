@@ -4,6 +4,12 @@
 
 Congo, Brazzaville, Constitution 2015, MJP
 
+Digithèque MJP
+
+# Congo
+
+## Constitution de 2015.
+
 Préambule.
 
 Titre premier. De l'État et de la souveraineté.
@@ -50,7 +56,7 @@ Titre XX. De la révision.
 
 Titre XXI. Dispositions transitoires et finales.
 
-Le président Sassou Nguesso propose une nouvelle  Constitution, vivement contestée par l'opposition car elle lui permet de contourner la limitation à 2 du nombre des mandats ;  mais le projet est finalement approuvé par le référendum du 25 octobre 2015 (92, 96 % des suffrages exprimés), et promulgué le 6 novembre.
+Le président Sassou Nguesso propose une nouvelle Constitution, vivement contestée par l'opposition car elle lui permet de contourner la limitation à 2 du nombre des mandats ; mais le projet est finalement approuvé par le référendum du 25 octobre 2015 (92, 96 % des suffrages exprimés), et promulgué le 6 novembre.
 
 Voir la Constitution de 1992.
 
@@ -63,10 +69,6 @@ Voir la Constitution de 2002.
 Le Peuple congolais,
 
 Conscient de la nécessité de préserver la paix et la stabilité, la forme unitaire et le caractère indivisible de l'État, l'unité nationale et la cohésion sociale ;
-
-# Congo
-
-## Constitution de 2015.
 
 http://mjp.univ-perp.fr/constit/cg2015.htm#2
 
@@ -302,7 +304,7 @@ Toute manipulation, tout embrigadement des consciences, toutes sujétions de tou
 
 ### Article 25.
 
-Tout citoyen a le droit d'exprimer et de diffuser librement son opinion par la parole, l'écrit, l'i m age ou par tout autre moyen de communication.
+Tout citoyen a le droit d'exprimer et de diffuser librement son opinion par la parole, l'écrit, l'image ou par tout autre moyen de communication.
 
 La liberté de l'information et de la communication est garantie. Elle s'exerce dans le respect de la loi.
 
@@ -378,7 +380,7 @@ La mise sous séquestre, la saisie, la confiscation, l'interdiction de tout ou p
 
 L'Etat est garant de la santé publique.
 
-L'Etat garantit le droit de créer des établissements socio-sanitaires privés dans les conditions fi xées par la loi.
+L'Etat garantit le droit de créer des établissements socio-sanitaires privés dans les conditions fixées par la loi.
 
 ### Article 37.
 
@@ -454,7 +456,7 @@ Tout acte, tout accord, toute convention, tout arrangement administratif ou tout
 
 ### Article 45.
 
-Les actes visés à l'article précédent, ainsi que leur tentative, quelles qu'en soient les modalités, s'il s sont le fait d'une autorité constituée, sont, selon les cas, punis comme crime de pillage ou comme acte de forfaiture.
+Les actes visés à l'article précédent, ainsi que leur tentative, quelles qu'en soient les modalités, s'ils sont le fait d'une autorité constituée, sont, selon les cas, punis comme crime de pillage ou comme acte de forfaiture.
 
 ### Article 46.
 
@@ -612,7 +614,7 @@ Congo, Brazzaville, Constitution 2015, MJP
 
 ### Article 64.
 
-Le Président de la République est le Chef de l'État. Il est garant de l'indépendance nationale, de l'i ntégri té du territoire et de l'unité nationale, du respect de la Constitution, des traités et accords internationaux.
+Le Président de la République est le Chef de l'État. Il est garant de l'indépendance nationale, de l'intégrité du territoire et de l'unité nationale, du respect de la Constitution, des traités et accords internationaux.
 
 Il détermine la politique étrangère et de défense de la Nation.
 
@@ -642,7 +644,7 @@ Nul ne peut être candidat aux fonctions de Président de la République s'il :
 
 ### Article 67.
 
-Le Président de la République est élu au suffrage universel direct, au scrutin uninominal, à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour du scrutin, il  est procédé vingt et un (21) jours après la proclamation des résultats par la Cour constitutionnelle, à un second tour.
+Le Président de la République est élu au suffrage universel direct, au scrutin uninominal, à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour du scrutin, il est procédé vingt et un (21) jours après la proclamation des résultats par la Cour constitutionnelle, à un second tour.
 
 Ne peuvent se présenter au second tour que les deux candidats ayant obtenu le plus grand nombre de suffrages exprimés au premier tour.
 
@@ -710,7 +712,7 @@ Congo, Brazzaville, Constitution 2015, MJP
 
 ### Article 74.
 
-En cas de décès ou d'empêchement définitif du Président de la République élu avant son entrée en fonction, il est procédé à de nouvelles élections dans un délai de quarante-cinq (45) à quatrevingt-dix (90) jours.
+En cas de décès ou d'empêchement définitif du Président de la République élu avant son entrée en fonction, il est procédé à de nouvelles élections dans un délai de quarante-cinq (45) à quatre-vingt-dix (90) jours.
 
 Le Président de la République en exercice reste en fonction jusqu'à la prestation de serment du nouveau Président de la République élu.
 
@@ -764,7 +766,7 @@ Si dans les vingt-quatre heures suivant la vacance, le Premier Ministre n'a pas 
 
 Dans les deux cas, la Cour constitutionnelle désigne le Président du Sénat ou le Président de l'Assemblée nationale, et en cas d'empêchement de ceux-ci, le Premier Ministre, Président de la République par intérim.
 
-Le Président du Sénat, le Président de l'Assemblée nationale ou le Premier Ministre assurant l'i ntéri m  de l a fonction de Président de la République, ne peut être candidat à l'élection présidentielle.
+Le Président du Sénat, le Président de l'Assemblée nationale ou le Premier Ministre assurant l'intérim de la fonction de Président de la République, ne peut être candidat à l'élection présidentielle.
 
 ### Article 79.
 
@@ -986,7 +988,7 @@ Pendant l'exercice de leurs fonctions, le Premier Ministre et les autres membres
 
 Ils ne peuvent prendre part aux marchés publics et aux adjudications dans les administrations ou les institutions dans lesquelles l'État a des intérêts.
 
-Ils ne peuvent, à titre onéreux ou gracieux, acquérir, ni pour leur compte, ni pour le compte de ti erces personnes, les résidences de fonction mises à leur disposition.
+Ils ne peuvent, à titre onéreux ou gracieux, acquérir, ni pour leur compte, ni pour le compte de tierces personnes, les résidences de fonction mises à leur disposition.
 
 # Titre V. Du pouvoir législatif.
 
@@ -1000,7 +1002,7 @@ Le Parlement exerce le pouvoir législatif et contrôle l'action du Gouvernement
 
 Les moyens d'information et de contrôle du Parlement sur l'action du Gouvernement sont :
 
-- l'i nterpellation ;
+- l'interpellation ;
 
 - la question orale ;
 
@@ -1092,7 +1094,7 @@ Les mandats des députés et des sénateurs commencent le deuxième mardi suivan
 
 Le mandat des députés prend fin à l'entrée en fonction de la nouvelle Assemblée nationale. Les élections ont lieu vingt (20) jours au moins, et cinquante (50) jours au plus, avant l'expiration du mandat des députés.
 
-Le mandat des sénateurs prend fin à l'entrée en fonction du nouveau Sénat. Les élections ont li eu vingt (20) jours au moins, et cinquante (50) jours au plus, avant l'expiration du mandat des sénateurs.
+Le mandat des sénateurs prend fin à l'entrée en fonction du nouveau Sénat. Les élections ont lieu vingt (20) jours au moins, et cinquante (50) jours au plus, avant l'expiration du mandat des sénateurs.
 
 ### Article 116.
 
@@ -1144,7 +1146,7 @@ L'Assemblée nationale et le Sénat sont dirigés chacun par un bureau qui compr
 
 ### Article 121.
 
-Chaque chambre du Parlement adopte un règlement intérieur qui détermine son fonctionnement, fi xe l a procédure législative et les modalités de contrôle de l'action gouvernementale.
+Chaque chambre du Parlement adopte un règlement intérieur qui détermine son fonctionnement, fixe la procédure législative et les modalités de contrôle de l'action gouvernementale.
 
 Le règlement intérieur de chaque chambre du Parlement, déclaré conforme à la Constitution par la Cour constitutionnelle, a force de loi organique.
 
@@ -1278,7 +1280,7 @@ La loi détermine en outre les principes fondamentaux de :
 
 - la science, la technologie et l'innovation ;
 
-- l'i ndustrie ;
+- l'industrie ;
 
 - le commerce ;
 
@@ -1482,7 +1484,7 @@ Une chambre, saisie d'un texte voté par l'autre chambre, délibère sur le text
 
 Les projets et les propositions de loi sont envoyés à l'une des commissions permanentes que comporte chaque chambre du Parlement.
 
-Les projets et les propositions de loi peuvent, à la demande du Gouvernement ou de la chambre qui en est saisie, être envoyés, pour examen, à des commissions spécialement désignées à cet effet.
+Les projets et les propositions de loi peuvent, à la demande du Gouvernement ou de la chambre
 
 http://mjp.univ-perp.fr/constit/cg2015.htm#2
 
@@ -1495,6 +1497,8 @@ http://mjp.univ-perp.fr/constit/cg2015.htm#2
 21/12/2015
 
 Congo, Brazzaville, Constitution 2015, MJP
+
+qui en est saisie, être envoyés, pour examen, à des commissions spécialement désignées à cet effet.
 
 Le nombre et la nature des commissions permanentes sont déterminés par le règlement intérieur de chaque chambre du Parlement.
 
@@ -1518,7 +1522,7 @@ Dans ce cas, l'Assemblée nationale peut reprendre soit le texte élaboré par l
 
 ### Article 151.
 
-Les lois auxquelles la Constitution confère le caractère de lois organiques, hormis la loi de fi nances, sont votées et modifiées dans les conditions suivantes :
+Les lois auxquelles la Constitution confère le caractère de lois organiques, hormis la loi de finances, sont votées et modifiées dans les conditions suivantes :
 
 - le projet ou la proposition de loi n'est soumis à la délibération et au vote de la première chambre saisie qu'à l'expiration d'un délai de quinze (15) jours après son dépôt ;
 
@@ -1574,7 +1578,7 @@ L'état d'urgence comme l'état de siège peut être proclamé sur tout ou parti
 
 Dans les deux cas, le Président de la République informe la Nation par un message.
 
-Le Parlement se réunit de plein droit, s'il n'est pas en session, pour, le cas échéant, autoriser la prorogation de l'état d'urgence ou de l'état de siège au delà de vingt (20) jours.
+Le Parlement se réunit de plein droit, s'il n'est pas en session, pour, le cas échéant, autoriser la
 
 http://mjp.univ-perp.fr/constit/cg2015.htm#2
 
@@ -1587,6 +1591,8 @@ http://mjp.univ-perp.fr/constit/cg2015.htm#2
 21/12/2015
 
 Congo, Brazzaville, Constitution 2015, MJP
+
+prorogation de l'état d'urgence ou de l'état de siège au delà de vingt (20) jours.
 
 Lorsque, à la suite de circonstances exceptionnelles, le Parlement ne peut siéger, le Président de la République peut décider du maintien de l'état d'urgence ou de l'état de siège. Il en informe la Nation par un message.
 
@@ -1772,7 +1778,7 @@ La Cour constitutionnelle veille à la régularité des opérations du référen
 
 ### Article 177.
 
-La Cour constitutionnelle est juge du contentieux des élections législatives et sénatoriales. A ce ti tre, el l e examine les recours relatifs à la contestation des candidatures et aux résultats de ces élections.
+La Cour constitutionnelle est juge du contentieux des élections législatives et sénatoriales. A ce titre, elle examine les recours relatifs à la contestation des candidatures et aux résultats de ces élections.
 
 http://mjp.univ-perp.fr/constit/cg2015.htm#2
 
@@ -1932,7 +1938,7 @@ Il peut, de sa propre initiative, se saisir de tout problème à caractère éco
 
 Il peut également être saisi par le Président de la République, le Président de l'Assemblée nationale ou le Président du Sénat.
 
-Le Conseil économique, social et environnemental peut, en outre, être consulté sur les projets de traités ou d'accords internationaux, les projets ou les propositions de lois, ainsi que les projets de décrets en raison de leur caractère économique, social ou environnemental. Le Conseil économique, social et environnemental est saisi de tout projet de loi de programme et plan de développement à caractère économique, social ou environnemental, à l'exception du budget de l'État.
+Le Conseil économique, social et environnemental peut, en outre, être consulté sur les projets de traités ou d'accords internationaux, les projets ou les propositions de lois, ainsi que les
 
 http://mjp.univ-perp.fr/constit/cg2015.htm#2
 
@@ -1945,6 +1951,10 @@ http://mjp.univ-perp.fr/constit/cg2015.htm#2
 21/12/2015
 
 Congo, Brazzaville, Constitution 2015, MJP
+
+projets de décrets en raison de leur caractère économique, social ou environnemental.
+
+Le Conseil économique, social et environnemental est saisi de tout projet de loi de programme et plan de développement à caractère économique, social ou environnemental, à l'exception du budget de l'État.
 
 ### Article 198.
 
@@ -2074,7 +2084,7 @@ Une loi organique fixe les conditions dans lesquelles l'État exerce sa tutelle 
 
 Il est institué un Conseil supérieur de la liberté de communication.
 
-Le Conseil supérieur de la liberté de communication est chargé de veiller au bon exercice de la li berté de l'information et de la communication.
+Le Conseil supérieur de la liberté de communication est chargé de veiller au bon exercice de la liberté de l'information et de la communication.
 
 Il émet également des avis techniques et formule des recommandations sur les questions touchant au domaine de l'information et de la communication.
 
@@ -2162,7 +2172,7 @@ Congo, Brazzaville, Constitution 2015, MJP
 
 Les anciens Présidents de la République ont droit, à la fin de leur mandat, à la protection de l'État tant en leur personne qu'en leurs biens.
 
-Il l eur est versé mensuellement, à titre de pension, une allocation viagère dont le montant est fixé par voie réglementaire.
+Il leur est versé mensuellement, à titre de pension, une allocation viagère dont le montant est fixé par voie réglementaire.
 
 Les autres avantages et les modalités de la protection des anciens chefs d'État sont déterminés par la loi.
 
@@ -2238,7 +2248,7 @@ Une loi organique détermine l'organisation, la composition et le fonctionnement
 
 ### Article 236.
 
-Il est institué un Conseil consultatif de la jeunesse chargé d'émettre des avis sur les questions li ées au plein épanouissement de la jeunesse dans le cadre d'une gouvernance intergénérationnelle.
+Il est institué un Conseil consultatif de la jeunesse chargé d'émettre des avis sur les questions liées au plein épanouissement de la jeunesse dans le cadre d'une gouvernance intergénérationnelle.
 
 ### Article 237.
 
