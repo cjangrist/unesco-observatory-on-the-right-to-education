@@ -282,6 +282,6 @@ If any international treaty of the Republic of Belarus sets up procedures contra
 
 Source:
 
-http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/e1195cc248e7ed1 4c2256df0002d04e8?OpenDocument
+http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/e1195cc248e7ed14c2256df0002d04e8?OpenDocument
 
 [[END OF PAGE 8]]
