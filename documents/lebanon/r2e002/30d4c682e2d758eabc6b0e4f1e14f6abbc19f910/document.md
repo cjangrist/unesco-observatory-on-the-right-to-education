@@ -8,11 +8,8 @@ BUREAU OF LEBANESE AND ARAB DOCUMENTATION 1973.
 
 # THE LEBANESE CONSTITUTION
 
-promulgated on 23 May 1926 modified by the constitutional laws of:
-
-1927
-
-1947
+promulgated on 23 May 1926
+modified by the constitutional laws of:
 
 17 | October | 1927
 --- | --- | ---
@@ -34,11 +31,11 @@ Lebanon is an independent State, unitarian and sovereign. Its fr are those which
 ##### IN THE NORTH:
 from the mouth of Nahr El Kebir, the line followin course of this river up to its junction with its tributary the Ouade K at the height of Jisr El Kamar.
 
-##### IN THE SOUTH:
-the present southern limits of the cazas of Tyre a Marjeyoun.
-
 ##### IN THE EAST:
 the top line separating the valleys of Ouade Khaled Ouade Nahr-El Assi (Orontes) and passing through the villages of Meays Harbaana, Hait, Ebbech, Faissan, at the height of the villages Brifa a Matrebeh. This line follows the northern limit of the caza of Baalbeck towards the Northeast and Southeast, then the Eastern limits of the ca of Baalbeck, Bekaa, Hasbaya and Rashaya.
+
+##### IN THE SOUTH:
+the present southern limits of the cazas of Tyre a Marjeyoun.
 
 ##### IN THE WEST:
 the Mediterranean Sea.
@@ -132,7 +129,7 @@ Initiative for legislation belongs to the President of the Repub the Chamber of 
 In order that a law may be promulgated, it must have been voted Chamber.
 
 #### Article 20.
-Judicial power functioning within the framework of established by law and ensuring essential guarantees to judges and the disputing parties is exercised by courts of different order and degree The law fixes the limits and the conditions of the magistrates' tenure office. Judges are independent in the exercise of their functions. The awards and judgments of all courts are rendered and executed in the nam the Lebanese people.
+Judicial power functioning within the framework of established by law and ensuring essential guarantees to judges and the disputing parties is exercised by courts of different order and degree The law fixes the limits and the conditions of the magistrates' tenure office. Judges are independent in the exercise of their functions. The awards and judgments of all courts are rendered and executed in the nam
 
 file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 
@@ -141,6 +138,8 @@ file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+the Lebanese people.
 
 #### Article 21.
 Any Lebanese citizen aged 21 who meets the conditi electoral law is entitled to vote.
@@ -151,11 +150,11 @@ Any Lebanese citizen aged 21 who meets the conditi electoral law is entitled to 
 
 #### Article 23. (Abrogated by the constitutional law of 17 October article 50)
 
-#### Article 24. (As modified by the constitutional law of 21 Janua article l)
+#### Article 24. (As modified by the constitutional law of 21 Janua article 1)
 
 The Chamber of Deputies is composed of elected members: their nu conditions of their election are determined by the electoral laws in f
 
-#### Article 25. (As modified by the constitutional law of 21 Janua article l)
+#### Article 25. (As modified by the constitutional law of 21 Janua article 1)
 
 In the event of the dissolution of the Chamber of Deputies, the dissolving it must contain convocation of the voters for new elections which shall be held in conformity with article 24 and within a time-lim not exceeding three months.
 
@@ -169,7 +168,7 @@ The Chamber and the Executive sit in Beirut.
 
 The Chamber member represents all the Nation. No imperative mand given him by his electors.
 
-#### Article 28. (As modified by the constitutional law of 8 May 19 article l)
+#### Article 28. (As modified by the constitutional law of 8 May 19 article 1)
 
 No incompatibility exists between a deputy's mandate and ministe office. Ministers may be taken indistintively either from the Chamber from outside.
 
@@ -185,7 +184,7 @@ file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 
 Cases of inaptness to the quality of deputy are determined by la
 
-#### Article 30. (As modified by the constitutional law of 21 Janua article l)
+#### Article 30. (As modified by the constitutional law of 21 Janua article 1)
 
 The Chamber of Deputies is solely competent to adjudicate the va its members' mandate. No mandate may be invalidated except by a two-th majority vote of the whole Assembly.
 
@@ -252,9 +251,9 @@ No member of the Chamber may be prosecuted for his expression of or votes during
 
 No member of the Chamber may, while the session is in progress, prosecuted or arrested for breach of the penal law - barring cases of flagrante delicto - except with the approval of the Chamber.
 
-#### Article 41. (As modified by the constitutional law of 21 Janua article l)
+#### Article 41. (As modified by the constitutional law of 21 Janua article 1)
 
-When a seat in the Chamber has become vacant, the vacancy shall within a time-limit of two months. The term of office of the new membe shall run up to the expiry of the term of office of his predecessor.
+When a seat in the Chamber has become vacant, the vacancy shall within a time-limit of two months. The term of office of the new membe
 
 file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 
@@ -263,6 +262,8 @@ file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+shall run up to the expiry of the term of office of his predecessor.
 
 No steps shall be taken to fill the vacancy if the Chamber is le
 
@@ -276,7 +277,7 @@ General elections for the renewal of the Assembly are held withi sixty days whic
 
 The Chamber drafts its own internal regulations.
 
-#### Article 44. (As modified by the constitutional law of 21 Janua article l)
+#### Article 44. (As modified by the constitutional law of 21 Janua article 1)
 
 At the first sitting which follows every renewal and on the open October session, the Chamber meeting under the presidency of its senio member, the two youngest members acting as secretaries, elects separat by secret ballot and the absolute majority of the expressed votes, a president (Speaker), a vice- president, and two secretaries. At the th ballot, relative majority is sufficient.
 
@@ -339,7 +340,7 @@ safety of the State permit.
 
 Treaties involving State finances, trade agreements and in gener treaties which cannot be denounced at the end of each calendar year, a not definitive except after they have been voted by the Chamber of Deputies.
 
-#### Article 53. (As modified by the constitutional law of 21 Janua article l)
+#### Article 53. (As modified by the constitutional law of 21 Janua article 1)
 
 The President of the Republic appoints and dismisses the Ministe whom he designates a President for the Council of Ministers; he nomina to all posts for which the mode of appointment is not otherwise determ
 
@@ -384,7 +385,7 @@ and on which the Chamber has not adjudicated within the forty days following its
 
 #### Article 59. (As modified by the constitutional law of 17 Octob article 33 )
 
-The President of the Republic may adjourn the Chamber for a peri exceeding one month. He may not do so twice in the same session.
+The President of the Republic may adjourn the Chamber for a peri
 
 file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 
@@ -394,7 +395,9 @@ file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 
 [[START OF PAGE 10]]
 
-#### Article 60. -  (As modified by the constitutional law of 21 January 1947 article l)
+exceeding one month. He may not do so twice in the same session.
+
+#### Article 60. -  (As modified by the constitutional law of 21 January 1947 article 1)
 
 The President of the Republic is not responsible for the acts of functions except in cases of breach to the Constitution or high treaso
 
@@ -424,7 +427,7 @@ The Minister relinquishes his post as soon as he h committed for trial. A Minist
 
 ### a) ELECTION OF THE PRESIDENT OF THE REPUBLIC
 
-#### Article 73. (As modified by the constitutional law of 17 Octob article 38)
+#### Article 73. - (As modified by the constitutional law of 17 Octob
 
 file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 
@@ -433,6 +436,8 @@ file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+article 38)
 
 At least one month and at the latest two months before the expir
 
@@ -554,7 +559,7 @@ Verdicts of condemnation by the Higher Court are rendered by a majority of six v
 
 #### Article 81. -
 
-(As modified by the constitutional law of 21 Janua article l)
+(As modified by the constitutional law of 21 Janua
 
 file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 
@@ -563,6 +568,8 @@ file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+article 1)
 
 Taxes are established for public utility. No taxes may be levied Lebanese Republic except in conformity with a uniform law applicable o
 
@@ -584,7 +591,7 @@ providing for new expenditures .
 
 #### Article 85. (As modified by the constitutional law of 21 Janua
 
-article l)
+article 1)
 
 No emergency credit may be opened except by special law.
 
@@ -642,7 +649,7 @@ article 4)
 
 ## TITLE VI. - FINAL AND TRANSITORY PROVISIONS
 
-#### Article 95. (As modified by the constitutional law of 9 Novemb article 5)
+#### Article 95. - (As modified by the constitutional law of 9 Novemb
 
 file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 
@@ -651,6 +658,8 @@ file://D:\Bureau%20du%20GENERAL\documents\Lebanese%20constitution.htm
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+article 5)
 
 As a transitory measure and for the sake of even justice and con communities shall be equally represented in public posts and in minist composition, without damage to State interest resulting therefrom.
 
