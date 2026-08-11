@@ -52,11 +52,11 @@ Pour l'application du présent décret, il faut entendre par :
 
 - 6° primo-arrivant : l'élève qui
 
-- est inscrit dans l'année scolaire concernée dans une année d'études du deuxième ou troisième degré de l'enseignement secondaire professionnel; et
+a) est inscrit dans l'année scolaire concernée dans une année d'études du deuxième ou troisième degré de l'enseignement secondaire professionnel; et
 
-- n'était pas inscrit dans l'école l'année précédente; et
+b) n'était pas inscrit dans l'école l'année précédente; et
 
-- a obtenu une attestation d'orientation B ou C pendant l'année scolaire précédente;
+c) a obtenu une attestation d'orientation B ou C pendant l'année scolaire précédente;
 
 - 7° bureau d'accueil : la personne juridique désignée à réaliser les parcours d'intégration dans le cadre de la politique flamande d'intégration;
 
@@ -104,7 +104,7 @@ d'une plate-forme locale de concertation, calculé le 1 er  février de l'année
 
 § 1 er . A compter de l'année scolaire 2003-2004, chaque élève a droit à l'inscription dans l'école choisie par ses parents. Si l'élève est âgé de 12 ans ou plus, ce choix d'école se fait de concert avec l'élève.
 
-§ 2. Préalablement à la première inscription, le pouvoir organisateur informe les parents et l'élève du projet pédagogique et du règlement d'école de l'école. Le projet pédagogique et le règlement d'école respectent les principes de droit international et constitutionnel en matière des droits de l'homme et de l'infant en particulier.
+§ 2. Préalablement à la première inscription, le pouvoir organisateur informe les parents et l'élève du projet pédagogique et du règlement d'école de l'école. Le projet pédagogique et le règlement d'école respectent les principes de droit international et constitutionnel en matière des droits de l'homme et de l'enfant en particulier.
 
 Il est procédé à l'inscription après que les parents se sont mis d'accord avec ce projet et ce règlement.
 #### Sous-section 2. - Refus
@@ -290,7 +290,7 @@ Moniteur Belge - Belgisch Staatsblad
 
 L'expert ne peut pas être désigné comme président.
 
-§ 4. Un représentant de l'administration communale intéressée ou des administrations communales intéressées - dans la région bilingue de Bruxelles-Capitale : de la Commission communautaire flamande conseille la plate-forme locale de concertation quant aux matières communales étroitement liées aux compétences visées à l'article IV.4, premier alinéa. Cette personne n'agit pas en la qualité de représentant de la commune, respectivement de la Commission communautaire flamande comme pouvoir organisateur.
+§ 4. Un représentant de l'administration communale intéressée ou des administrations communales intéressées - dans la région bilingue de Bruxelles-Capitale : de la Commission communautaire flamande - conseille la plate-forme locale de concertation quant aux matières communales étroitement liées aux compétences visées à l'article IV.4, premier alinéa. Cette personne n'agit pas en la qualité de représentant de la commune, respectivement de la Commission communautaire flamande comme pouvoir organisateur.
 #### Sous-section 2. - Compétence
 
 ##### Article IV.4
@@ -457,7 +457,7 @@ La plate-forme locale de concertation aide à trouver une autre école pour l'é
 
 ##### Article V.6
 
-Si l'école n'est pas implantée dans la zone d'action d'une plate-forme locale de concertation, la médiation visée aux articles V.1, §§ 1 er  et 2, deuxième alinéa, et V .5 est assurée par le président ou l'expert d'une plateforme locale de concertation existante et un inspecteur de l'enseignement, qui sont tous désignés par le Gouvernement flamand.
+Si l'école n'est pas implantée dans la zone d'action d'une plate-forme locale de concertation, la médiation visée aux articles V.1, §§ 1 er  et 2, deuxième alinéa, et V .5 est assurée par le président ou l'expert d'une plate-forme locale de concertation existante et un inspecteur de l'enseignement, qui sont tous désignés par le Gouvernement flamand.
 
 ##### Article V.7
 
@@ -501,7 +501,7 @@ Les documents ou déclarations qui démontrent que l'élève répond à un ou pl
 
 § 3. Le Gouvernement flamand attribue un poids à chaque indicateur d'égalité des chances. En même temps, il définit le plafond des poids cumulés qui est au moins égal au poids maximal attribué à un indicateur d'égalité des chances et au plus égal à une fois et demie ce poids maximal.
 
-Les poids maximaux sont attribués aux indicateurs d'égalité des chances visés au § 1, 2° et 3°.
+Les poids maximaux sont attribués aux indicateurs d'égalité des chances visés au § 1 er , 2° et 3°.
 
 L'indicateur d'égalité des chances visé au § 1 er , 5° n'est pondéré qu'en combinaison avec d'autres indicateurs d'égalité des chances.
 
@@ -541,7 +541,7 @@ Le Gouvernement fixe également les règles en matière de l'attribution ou de l
 
 1° l'objectif concret qu'elle veut accomplir au niveau des élèves, des personnels, respectivement de l'école. Le Gouvernement flamand fixe des objectifs qui peuvent être choisis parmi les thèmes suivants : a) la prévention et la remédiation des retards de développement et d'apprentissage; b) l'enseignement d'aptitude linguistique, c) l'enseignement interculturel, d) le passage et l'orientation, e) le développement socioaffectif,
 
-- la participation des élèves et des parents; et
+f) la participation des élèves et des parents; et
 
 - 2° la façon dont elle veut atteindre ces objectifs; et
 
@@ -573,9 +573,9 @@ Les écoles collaborent aux évaluations triennales sur la base des sondages fai
 
 § 1 er . L'inspection de l'enseignement examine toujours au cours de la troisième année scolaire si, et dans quelle mesure, les objectifs ont été atteints. La réalisation des objectifs est opposée au contexte scolaire et aux caractéristiques de la population scolaire.
 
-En cas d'une évaluation positive, l'école peut obtenir des périodes complémentaires ou des périodesprofesseur supplémentaires pour une nouvelle période de trois années scolaires s'il est satisfait de nouveau à toutes les conditions de l'article VI.3.
+En cas d'une évaluation positive, l'école peut obtenir des périodes complémentaires ou des périodes-professeur supplémentaires pour une nouvelle période de trois années scolaires s'il est satisfait de nouveau à toutes les conditions de l'article VI.3.
 
-En cas d'une évaluation négative, l'école perd tout droit aux périodes complémentaires ou périodesprofesseur supplémentaires visées à l'article VI.3 pour la période suivante de trois années scolaires. § 2. Le Gouvernement flamand précise les critères et dispositions de procédure suivant lesquels le contrôle est fait par l'inspection de l'enseignement.
+En cas d'une évaluation négative, l'école perd tout droit aux périodes complémentaires ou périodes-professeur supplémentaires visées à l'article VI.3 pour la période suivante de trois années scolaires. § 2. Le Gouvernement flamand précise les critères et dispositions de procédure suivant lesquels le contrôle est fait par l'inspection de l'enseignement.
 
 En cas d'évaluation négative, le Gouvernement flamand prévoit une possibilité de recours pour les écoles. Le recours est introduit auprès d'un collège d'inspecteurs.
 
@@ -587,7 +587,7 @@ Le Gouvernement flamand prévoit des mesures transitoires pour l'année scolaire
 
 En fonction de ces mesures transitoires, le nombre de périodes complémentaires ou périodes-professeur supplémentaires d'enseignement prioritaire et/ou d'encadrement renforcé qu'une école a obtenues pendant l'année scolaire 2001-2002, est comparé au nombre de périodes complémentaires ou périodes-professeur supplémentaires obtenues par application des articles VI.3 et VI.4.
 
-Pour les écoles avec un pourcentage fixé d'élèves répondant à un ou plusieurs indicateurs d'égalité des chances visés à l'article VI.2, § 1 er , 1°, 2°, 3° et 4°, la perte d'un nombre fixé de périodes ou de périodesprofesseur est ajustée suivant une clé fixée par le Gouvernement flamand.
+Pour les écoles avec un pourcentage fixé d'élèves répondant à un ou plusieurs indicateurs d'égalité des chances visés à l'article VI.2, § 1 er , 1°, 2°, 3° et 4°, la perte d'un nombre fixé de périodes ou de périodes-professeur est ajustée suivant une clé fixée par le Gouvernement flamand.
 
 Pour les écoles avec un pourcentage fixé d'élèves satisfaisant à un ou plusieurs indicateurs d'égalité des chances visés à l'article VI.2, § 1 er , 1°, 2°, 3° et 4°, le gain de périodes ou de périodes-professeur est ajusté suivant une clé fixée par le Gouvernement flamand.
 
@@ -648,7 +648,7 @@ Moniteur Belge - Belgisch Staatsblad
 
 - 3° le nombre de points des écoles avec au moins 80 % des élèves qui répondent à un ou plusieurs indicateurs d'égalité des chances est multiplié par un coefficient fixé par le Gouvernement flamand.
 
-§ 2. Le Gouvernement flamand fixe dans les limites des crédits budgétaires disponibles combien de périodesprofesseur supplémentaires /valeurs de point correspondent à un point.
+§ 2. Le Gouvernement flamand fixe dans les limites des crédits budgétaires disponibles combien de périodes-professeur supplémentaires /valeurs de point correspondent à un point.
 
 Le Gouvernement flamand fixe également les règles en matière de l'attribution ou de la redistribution, pendant une période courante de trois années scolaires, de périodes-professeur supplémentaires/valeurs de point nouvelles ou vacantes.
 
@@ -734,7 +734,7 @@ Pour les années scolaires 2002-2003 et 2003-2004, le Gouvernement flamand a pri
 
 En fonction de cette mesure temporaire :
 
-1° le nombre de périodes-professeur additionnelles d'enseignement prioritaire et/ou le nombre d'emplois additionnels convertis en périodes-professeur dans le cadre du projet temporaire "besoins spéciaux" obtenues pendant l'année scolaire 2001-2002 au niveau du centre d'enseignement est comparé au nombre de périodesprofesseur supplémentaires obtenues par application du présent décret pour l'année scolaire 2002-2003.
+1° le nombre de périodes-professeur additionnelles d'enseignement prioritaire et/ou le nombre d'emplois additionnels convertis en périodes-professeur dans le cadre du projet temporaire "besoins spéciaux" obtenues pendant l'année scolaire 2001-2002 au niveau du centre d'enseignement est comparé au nombre de périodes-professeur supplémentaires obtenues par application du présent décret pour l'année scolaire 2002-2003.
 
 2° le nombre de périodes-professeur supplémentaires obtenues par application du présent décret pour l'année scolaire au niveau du centre d'enseignement est comparé au nombre de périodes-professeur additionnelles obtenues par application du présent décret pour l'année scolaire 2003-2004.
 
@@ -962,10 +962,11 @@ Article 139ter. Les écoles peuvent bénéficier pour une période de trois ann�
 
 Lorsqu'une école a des lieux d'implantation au 1 er  janvier 2002 qui ne sont pas situés dans une seule commune ou une commune limitrophe ou dans la région bilingue de Bruxelles-Capitale, les différents lieux d'implantation sont censés être des écoles pour l'application des dispositions du premier alinéa et de l'article VI.4.
 
-Article 139quater . § 1 er . L'attribution des moyens s'opère tous les trois ans de la manière suivante : 1° les écoles visées à l'article 139ter sont classées suivant le pourcentage d'élèves qui répondent à un ou même pourcentage, les écoles sont classées suivant le nombre absolu de ces élèves;
-
-plusieurs indicateurs d'égalité des chances visés à l'article 139bis , § 1 er , 1°, 2°, 3° et 4°. A l'intérieur d'un 2° les élèves génèrent une nombre de points sur la base du poids des indicateurs d'égalité des chances qui
-
+Article 139quater . § 1 er . L'attribution des moyens s'opère tous les trois ans de la manière suivante :
+1° les écoles visées à l'article 139ter sont classées suivant le pourcentage d'élèves qui répondent à un ou
+plusieurs indicateurs d'égalité des chances visés à l'article 139bis , § 1 er , 1°, 2°, 3° et 4°. A l'intérieur d'un
+même pourcentage, les écoles sont classées suivant le nombre absolu de ces élèves;
+2° les élèves génèrent un nombre de points sur la base du poids des indicateurs d'égalité des chances qui
 leur sont applicables;
 
 3° le nombre de points d'écoles avec au moins 80% d'élèves répondant à un ou plusieurs indicateurs d'égalité des chances visés à l'article 139bis , § 1 er , 1°, 2°, 3° et 4° est multiplié par un coefficient fixé par le Gouvernement qui est au moins égal à 1 et au plus égal 1,5.
@@ -1120,11 +1121,12 @@ _______
 
 (1) Session 2001-2002.
 
-Documents. - Projet de décret, 1143 - N° 1. - Avis du Commissariat des droits de l'enfant, 1143 - N° 2. Comptes rendus des auditions, 1143 - N°s 3 et 4. - Amendements, 1143 - N° 5. - Motion sollicitant la consultation du Conseil d'Etat, 1143 - N° 6. - Avis du Conseil d'Etat, 1143 - N° 7. - Amendements, 1143 N°s 8 et 9. - Rapport, 1143 - N° 10. - Amendements, 1143 - N° 11. - Articles adoptés en première lecture par la séance plénière, 1143 - N° 12. - Texte adopté par la séance plénière, 1143 - N° 13. Annales. - Discussion et adoption. Séance du 19 juin 2002.
-
-Publié le : 2002-09-14
+Documents. - Projet de décret, 1143 - N° 1. - Avis du Commissariat des droits de l'enfant, 1143 - N° 2. - Comptes rendus des auditions, 1143 - N°s 3 et 4. - Amendements, 1143 - N° 5. - Motion sollicitant la consultation du Conseil d'Etat, 1143 - N° 6. - Avis du Conseil d'Etat, 1143 - N° 7. - Amendements, 1143 - N°s 8 et 9. - Rapport, 1143 - N° 10. - Amendements, 1143 - N° 11. - Articles adoptés en première lecture par la séance plénière, 1143 - N° 12. - Texte adopté par la séance plénière, 1143 - N° 13.
+Annales. - Discussion et adoption. Séance du 19 juin 2002.
 
 debut
+
+Publié le : 2002-09-14
 
 www.ejustice.just.fgov.be/eli/decret/2002/06/28/2002036137/moniteur
 
