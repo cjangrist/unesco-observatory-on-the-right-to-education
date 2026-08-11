@@ -24,13 +24,15 @@ Que  la  Educación  es  factor  fundamental  para  la  transformación  y  el  
 
 #### IV
 
-Que la educación es un proceso único, democrático, creativo y participativo que vincula la teoría  con  la  práctica,  el  trabajo  manual  con  el  intelectual  y  promueve  la  investigación científica. Se fundamenta en nuestros valores nacionales; en el conocimiento de nuestra historia y recuperación de su memoria; de la realidad; de la cultura nacional y universal y en el desarrollo constante de la ciencia y de la técnica; cultiva los valores propios de las nuevas  generaciones,  de  acuerdo  con  los  principios  establecidos  en  la  Constitución Política de Nicaragua.
+Que la educación es un proceso único, democrático, creativo y participativo que vincula la teoría con la práctica, el trabajo manual con el intelectual y promueve la investigación científica. Se fundamenta en nuestros valores nacionales; en el conocimiento de nuestra historia y recuperación de su memoria; de la realidad; de la cultura nacional y universal y en el desarrollo constante de la ciencia y de la técnica; cultiva los valores propios de las
 
 1
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+nuevas generaciones, de acuerdo con los principios establecidos en la Constitución Política de Nicaragua.
 
 #### V
 
@@ -62,8 +64,6 @@ Que la educación en Nicaragua es laica. El Estado reconoce el derecho de los ce
 
 [[START OF PAGE 3]]
 
-La Siguiente:
-
 #### XI
 
 Las  Universidades  y  Centros  de  Educación  Técnica  Superior  gozan  de  autonomía académica, financiera, orgánica y administrativa. Según lo establecido en el Arto. 125 de Nuestra Constitución Política.
@@ -83,6 +83,8 @@ Que  es  necesario  armonizar  los  avances  normativos  con  que  cuenta  la  s
 En uso de sus facultades,
 
 ## HA DICTADO:
+
+La Siguiente:
 
 # LEY GENERAL DE EDUCACIÓN
 
@@ -319,7 +321,7 @@ Corresponde a las Autoridades Educativas de cada Subsistema de la Educación  Na
 ##### Arto. 11
 El Ministerio de Educación Cultura y Deportes es la instancia de dirección de la Educación Básica y Media, y en aras de asegurar la calidad de la enseñanza, fomentará en los Centros Educativos la investigación, favorecerá la elaboración de proyectos que incluyan innovaciones curriculares, metodológicas, tecnológicas,  didácticas  y  de  organización  en  cada  nivel  y  modalidad  del
 
-- sistema educativo.
+sistema educativo.
 
 ## TÍTULO II
 
@@ -734,7 +736,7 @@ Los  fondos  provenientes del Aporte del 2% y lo asignado por el Presupuesto Gen
 ##### Arto.  38
 Educación Autonómica Regional.
 
-Las Regiones Autónomas de la Costa del Caribe Nicaragüense cuentan con un Subsistema Educativo Autónomo Regional orientado a la formación integral de las mujeres y hombres  de  los pueblos indígenas afro-descendientes y comunidades étnicas, basado en los principios de autonomía, interculturalidad, solidaridad, pertinencia, calidad, equidad, así como valores morales y cívicos de  la  cultura  regional  y  nacional;  comprometidos  y  comprometidas  con  el desarrollo  sostenible,  la  equidad  de  género  y  los  derechos  de  niños,  niñas, adolescentes y jóvenes.
+Las Regiones Autónomas de la Costa del Caribe Nicaragüense cuentan con un Subsistema Educativo Autónomo Regional orientado a la formación integral de
 
 23
 
@@ -742,7 +744,9 @@ Las Regiones Autónomas de la Costa del Caribe Nicaragüense cuentan con un Subs
 
 [[START OF PAGE 24]]
 
-El  SEAR  tiene  como  uno  de  sus  ejes  fundamentales,  la  interculturalidad, promueve una sólida preparación científica, técnica y humanista fortaleciendo su identidad étnica, cultural y lingüística que contribuyan al proyecto de unidad en la diversidad.
+las mujeres y hombres de los pueblos indígenas afro-descendientes y comunidades étnicas, basado en los principios de autonomía, interculturalidad, solidaridad, pertinencia, calidad, equidad, así como valores morales y cívicos de la cultura regional y nacional; comprometidos y comprometidas con el desarrollo sostenible, la equidad de género y los derechos de niños, niñas, adolescentes y jóvenes.
+
+El SEAR tiene como uno de sus ejes fundamentales, la interculturalidad, promueve una sólida preparación científica, técnica y humanista fortaleciendo su identidad étnica, cultural y lingüística que contribuyan al proyecto de unidad en la diversidad.
 
 ##### Arto.  39
 La  educación en las Regiones autónomas,  es un derecho fundamental de los pueblos  indígenas  Afro-descendientes  y  comunidades  étnicas  de  la  Costa Caribe reconocido en la Constitución Política del país y como servicio público indeclinable a cargo del Estado, es indisoluble de la Autonomía Regional.
@@ -883,42 +887,42 @@ El Consejo Nacional de Educación es el órgano superior del Estado en materia e
 ##### Arto. 57
 Organización: El Consejo Nacional de Educación  estará integrado por:
 
-- Una Junta Directiva.
+a) Una Junta Directiva.
 
-- Una Asamblea.
+b) Una Asamblea.
 
 ##### Arto. 58
 La Junta Directiva del Consejo Nacional de Educación se constituye por:
 
-- Junta Directiva:
+A. Junta Directiva:
 
-- El Vice Presidente de la República (será quien la presida).
+a) El Vice Presidente de la República (será quien la presida).
 
-- El Ministro de Educación Cultura y Deportes.
+b) El Ministro de Educación Cultura y Deportes.
 
-- El Director Ejecutivo del Instituto Nacional Tecnológico (INATEC).
+c) El Director Ejecutivo del Instituto Nacional Tecnológico (INATEC).
 
-- El presidente del Consejo Nacional de Universidades.
+d) El presidente del Consejo Nacional de Universidades.
 
-- El  Presidente  de  la  Comisión  de  Educación  Cultura  y  Deportes  de  la Asamblea Nacional.
+e) El Presidente de la Comisión de Educación Cultura y Deportes de la Asamblea Nacional.
 
-- Los  Presidentes  de  las  Comisiones  de  Educación  de  los  Consejos Regionales Autónomos.
+f) Los Presidentes de las Comisiones de Educación de los Consejos Regionales Autónomos.
 
-- Un representante de las Universidades Privadas.
+g) Un representante de las Universidades Privadas.
 
-- Un  representante  por  los  educadores  de  la  educación  superior  y  un representante de la educación no superior.
+h) Un representante por los educadores de la educación superior y un representante de la educación no superior.
 
-Elaborar  y  presentar  a  la  Asamblea  del  Consejo  sus  funciones  y  reglamentos internos para su respectiva aprobación. Se reunirá dos veces como mínimo cada seis meses
+Elaborar y presentar a la Asamblea del Consejo sus funciones y reglamentos internos para su respectiva aprobación. Se reunirá dos veces como mínimo cada seis meses
 
-- La Asamblea del Consejo Nacional de Educación se constituye por:
+B. La Asamblea del Consejo Nacional de Educación se constituye por:
 
-- El Vicepresidente de la República (será quien lo preside).
+a) El Vicepresidente de la República (será quien lo preside).
 
-- El Ministro de Educación.
+b) El Ministro de Educación.
 
-- El Presidente del Consejo Nacional de Universidades.
+c) El Presidente del Consejo Nacional de Universidades.
 
-- El Director Ejecutivo de INATEC.
+d) El Director Ejecutivo de INATEC.
 
 29
 
@@ -926,42 +930,42 @@ Elaborar  y  presentar  a  la  Asamblea  del  Consejo  sus  funciones  y  reglam
 
 [[START OF PAGE 30]]
 
-- Los Secretarios Generales de los Sindicatos Nacionales, Federaciones, Confederaciones o Centrales de Representación Nacional  de  Docentes  organizados  en  los  distintos  niveles  de  la Educación.
+e) Los Secretarios Generales de los Sindicatos Nacionales, Federaciones, Confederaciones o Centrales de Representación Nacional de Docentes organizados en los distintos niveles de la Educación.
 
-- Los representantes de las Asociaciones Profesionales de Periodistas y  Trabajadores  de  la  Información  y  los  Medios  de  Comunicación Social.
+f) Los representantes de las Asociaciones Profesionales de Periodistas y Trabajadores de la Información y los Medios de Comunicación Social.
 
-- Los Secretarios Generales de los Sindicatos Nacionales o Federaciones Nacionales de trabajadores no docentes que laboran en centros educativos.
+g) Los Secretarios Generales de los Sindicatos Nacionales o Federaciones Nacionales de trabajadores no docentes que laboran en centros educativos.
 
-- Un representante de los Padres de Familia.
+h) Un representante de los Padres de Familia.
 
-- Un representante de las redes de Organizaciones de la Sociedad Civil del sector educativo.
+i) Un representante de las redes de Organizaciones de la Sociedad Civil del sector educativo.
 
-- Un representante de los Estudiantes.
+j) Un representante de los Estudiantes.
 
-- Un representante de los Colegios Privados.
+k) Un representante de los Colegios Privados.
 
-- Los Secretarios de Educación de los Gobiernos Regionales.
+l) Los Secretarios de Educación de los Gobiernos Regionales.
 
-- Un representante por cada organización de estudiantes universitarios.
+m) Un representante por cada organización de estudiantes universitarios.
 
-- Un  representante  por  los  estudiantes  de  educación  media,  Centros subvencionados y un estudiante por educación técnica.
+n) Un representante por los estudiantes de educación media, Centros subvencionados y un estudiante por educación técnica.
 
-- Un representante por cada Organización de Universidades Privadas.
+o) Un representante por cada Organización de Universidades Privadas.
 
 La  Asamblea  del  Consejo  Nacional  de  Educación  se  reunirá    una  vez  como mínimo cada seis meses.
 
 ##### Arto.  59
 Son Objetivos del Consejo Nacional de Educación:
 
-- Promover el funcionamiento integrado de los subsistemas de educación existentes,  respetando  la  autonomía  de  cada  uno  de  ellos,  los  que  se rigen por preceptos constitucionales y leyes especiales.
+a) Promover el funcionamiento integrado de los subsistemas de educación existentes, respetando la autonomía de cada uno de ellos, los que se rigen por preceptos constitucionales y leyes especiales.
 
-- Promover a través de recomendaciones  el mejoramiento científico, técnico y pedagógico de la educación, haciendo congruentes las políticas educativas  con la realidad social, política, económica y cultural del país.
+b) Promover a través de recomendaciones el mejoramiento científico, técnico y pedagógico de la educación, haciendo congruentes las políticas educativas con la realidad social, política, económica y cultural del país.
 
-- Contribuir a la equidad, eficiencia, eficacia y calidad de la educación.
+c) Contribuir a la equidad, eficiencia, eficacia y calidad de la educación.
 
-- Promover la participación de la sociedad civil y la comunidad educativa en la búsqueda permanente de un consenso nacional en torno a la definición de políticas educativas nacionales.
+d) Promover la participación de la sociedad civil y la comunidad educativa en la búsqueda permanente de un consenso nacional en torno a la definición de políticas educativas nacionales.
 
-- Promover la participación de las comunidades étnicas, pueblos indígenas y  demás  sectores  del  país  en  la  discusión  de  políticas  educativas nacionales, respetando la diversidad cultural en el proceso educativo.
+e) Promover la participación de las comunidades étnicas, pueblos indígenas y demás sectores del país en la discusión de políticas educativas nacionales, respetando la diversidad cultural en el proceso educativo.
 
 30
 
@@ -969,36 +973,36 @@ Son Objetivos del Consejo Nacional de Educación:
 
 [[START OF PAGE 31]]
 
-- Velar por el cumplimiento efectivo de la Ley General de Educación
+f) Velar por el cumplimiento efectivo de la Ley General de Educación
 
 ##### Arto. 60
 Son atribuciones del Consejo Nacional de Educación:
 
-- Definir  las  políticas  generales  de  educación  para  el  país  y  aprobar  los planes y programas encaminados a su ejecución.
+a) Definir las políticas generales de educación para el país y aprobar los planes y programas encaminados a su ejecución.
 
-- Elaborar,  ejecutar,  administrar  y  evaluar  los  planes  para  el  desarrollo integral del sistema de educación nacional.
+b) Elaborar, ejecutar, administrar y evaluar los planes para el desarrollo integral del sistema de educación nacional.
 
-- Organizar  y  orientar  el  sistema  nacional  de  formación,  capacitación  y perfeccionamiento del personal docente y administrativo que sirve en el sistema educativo nacional en sus distintos niveles.
+c) Organizar y orientar el sistema nacional de formación, capacitación y perfeccionamiento del personal docente y administrativo que sirve en el sistema educativo nacional en sus distintos niveles.
 
-- Organizar e integrar los subsistemas educativos según los requerimientos de la educación nacional.
+d) Organizar e integrar los subsistemas educativos según los requerimientos de la educación nacional.
 
-- Promover la investigación educativa y ejecución de las ciencias, las artes y las letras.
+e) Promover la investigación educativa y ejecución de las ciencias, las artes y las letras.
 
-- Promover  la participación organizada  de  los docentes, estudiantes, padres de familia y organizaciones de la sociedad civil en el desarrollo del proceso educativo.
+f) Promover la participación organizada de los docentes, estudiantes, padres de familia y organizaciones de la sociedad civil en el desarrollo del proceso educativo.
 
-- Pactar convenios con entidades nacionales e internacionales de acuerdo con los procedimientos y disposiciones establecidas al efecto.
+g) Pactar convenios con entidades nacionales e internacionales de acuerdo con los procedimientos y disposiciones establecidas al efecto.
 
-- Fomentar las relaciones de orden educativo con otros países.
+h) Fomentar las relaciones de orden educativo con otros países.
 
-- Cuidar y mejorar de conformidad con la situación económica del país el equipamiento  de  los  centros  educativos  nacionales  y  promover  nuevos recursos y fuentes de financiamiento educativo.
+i) Cuidar y mejorar de conformidad con la situación económica del país el equipamiento de los centros educativos nacionales y promover nuevos recursos y fuentes de financiamiento educativo.
 
-- Intervenir  los  centros  de  educación  públicos  o  privados  cuando  las circunstancias  así  lo  ameriten,  a  excepción  de  las  instituciones  de educación superior con régimen de autonomía.
+j) Intervenir los centros de educación públicos o privados cuando las circunstancias así lo ameriten, a excepción de las instituciones de educación superior con régimen de autonomía.
 
-- Discutir y aprobar a propuestas de Junta Directiva funciones de la misma y el reglamento interno del Consejo.
+k) Discutir y aprobar a propuestas de Junta Directiva funciones de la misma y el reglamento interno del Consejo.
 
-- Conformar comisiones de trabajo para determinados temas educativos.
+l) Conformar comisiones de trabajo para determinados temas educativos.
 
-- Nombrar a la Secretaría Técnica del Consejo.
+m) Nombrar a la Secretaría Técnica del Consejo.
 
 ##### Arto.  61
 El Presidente del Consejo Nacional de Educación convocará para su instalación, 60 días posteriores a la entrada en vigencia de esta ley al Consejo Nacional de Rectores.
@@ -1036,13 +1040,13 @@ Los procesos de reformas educativas deben de someterse a lo establecido en la pr
 ##### Arto. 67
 Las consultas para reforma educativa se realizarán a través de:
 
-- Seminarios.
+1) Seminarios.
 
-- Entrevistas.
+2) Entrevistas.
 
-- Encuestas.
+3) Encuestas.
 
-- Referéndum educativos.
+4) Referéndum educativos.
 
 Estas  consultas  se  podrán  realizar  a  través  de  los  representantes  de  los Educadores,  autoridades  académicas,  expertos  en  la  materia  o  comunidad educativa.
 
@@ -1061,7 +1065,7 @@ Estas  consultas  se  podrán  realizar  a  través  de  los  representantes  de
 ### Del Mejoramiento, Adecuación Y  Transformación del Currículo Educativo
 
 ##### Arto. 68
-El  Currículo  Nacional  se  basa  en  los  objetivos  generales  de  educación nicaragüense;  desarrolla  las  políticas  educativas;  se  expresa  en  planes  de formación, innovación y perfeccionamiento de las acciones técnicopedagógicos  del  proceso  educativo;  investiga  las  necesidades  educativas  y curriculares  básicas  nacionales,  regionales  y  de  la  comunidad;  orienta  a profesores y estudiantes para alcanzar los objetivos programáticos; evalúa los resultados  de  la  enseñanza  y  el  aprendizaje;  y  establece  metas  de  corto, mediano y largo plazo.
+El Currículo Nacional se basa en los objetivos generales de educación nicaragüense; desarrolla las políticas educativas; se expresa en planes de formación, innovación y perfeccionamiento de las acciones técnico-pedagógicos del proceso educativo; investiga las necesidades educativas y curriculares básicas nacionales, regionales y de la comunidad; orienta a profesores y estudiantes para alcanzar los objetivos programáticos; evalúa los resultados de la enseñanza y el aprendizaje; y establece metas de corto, mediano y largo plazo.
 
 El currículum tiene las siguientes características: universal, humanista, científica,  dinámico,  flexibilidad,  moderno,  real,  eficaz,  eficiente,  sustentable, pertinente.
 
@@ -1086,43 +1090,41 @@ El maestro o maestra será responsable de guiar adecuadamente el desarrollo del 
 La Evaluación tendrá carácter formativo y diagnóstico. Contribuirá al desarrollo de la personalidad del educando, a la toma de decisiones acertadas, en  relación  con  las  perspectivas  de  estudio  y  ocupación,  para  facilitar  su adecuada preparación para la vida.
 
 ##### Arto. 73
-En la aplicación de los métodos didácticos, los maestros y maestras deberán utilizar  procedimientos  y  formas  activas,  participativas;  a  fin  de  lograr  que  el estudiante aprenda a conocer, aprenda a hacer, aprenda a aprender y aprenda
-
-- a vivir con los demás.
+En la aplicación de los métodos didácticos, los maestros y maestras deberán utilizar procedimientos y formas activas, participativas; a fin de lograr que el estudiante aprenda a conocer, aprenda a hacer, aprenda a aprender y aprenda a vivir con los demás.
 
 ##### Arto. 74
 Plan de estudio mínimo para Primaria.
 
-- Idioma nacional.
+a) Idioma nacional.
 
-- Matemáticas.
+b) Matemáticas.
 
-- Ciencias Naturales.
+c) Ciencias Naturales.
 
-- Ciencias Sociales (Historia de Nicaragua y Geografía de Nicaragua).
+d) Ciencias Sociales (Historia de Nicaragua y Geografía de Nicaragua).
 
-- Educación Física.
+e) Educación Física.
 
-- Educación estética y artística.
+f) Educación estética y artística.
 
-- Formación para la ciudadanía.
+g) Formación para la ciudadanía.
 
 ##### Arto. 75
 Plan de estudio mínimo para Secundaria.
 
-- Idioma Nacional.
+a) Idioma Nacional.
 
-- Matemáticas.
+b) Matemáticas.
 
-- Idioma Extranjero. Ciencias Naturales (Física, Química, Biología y C.C.N.N.)
+c) Idioma Extranjero. Ciencias Naturales (Física, Química, Biología y C.C.N.N.)
 
-- Ciencias Sociales (Historia y Geografía de Centroamérica, Historia Universal, Filosofía y Economía).
+d) Ciencias Sociales (Historia y Geografía de Centroamérica, Historia Universal, Filosofía y Economía).
 
-- Educación Física .
+e) Educación Física .
 
-- Formación Cívica.
+f) Formación Cívica.
 
-- Orientación Vocacional.
+h) Orientación Vocacional.
 
 Las actividades educativas incorporarán en los planes de estudio el conocimiento de la cultura, costumbres, tradiciones y lengua de las comunidades de la costa Caribe.
 
@@ -1184,18 +1186,14 @@ Los  Centros  o  Institutos  de  Estudios  e  Investigación,  serán  creados  
 ### De la gestión participativa en la Educación.
 
 ##### Arto. 84
-La  gestión de  la Educación  Escolar  es  concertada, participativa y con flexibilidad. Esta gestión está regulada por lo establecida en la Ley 413, Ley de Participación  Educativa,  esta  acción  no  desliga  la  función  indeclinable  del
-
-- Estado con la Educación.
+La gestión de la Educación Escolar es concertada, participativa y con flexibilidad. Esta gestión está regulada por lo establecida en la Ley 413, Ley de Participación Educativa, esta acción no desliga la función indeclinable del Estado con la Educación.
 
 ##### Arto. 85
 Son Objetivos de la Gestión en la Educación:
 
-- Incorporar la educación en la agenda del desarrollo municipal y regional como  uno  de  los  ejes  fundamentales  para  crear  nuevas  capacidades locales y formar el perfil del recurso humano requerido para alcanzar el
+a) Incorporar la educación en la agenda del desarrollo municipal y regional como uno de los ejes fundamentales para crear nuevas capacidades locales y formar el perfil del recurso humano requerido para alcanzar el desarrollo deseado.
 
-- desarrollo deseado.
-
-- Mejorar la gobernabilidad del Sistema Educativo mediante una articulación más  eficiente entre  el  Gobierno  Central,  los  Gobiernos Regionales, Autónomos de la Costa Caribe, los Gobiernos Municipales y los Consejos  Escolares.
+b) Mejorar la gobernabilidad del Sistema Educativo mediante una articulación más eficiente entre el Gobierno Central, los Gobiernos Regionales, Autónomos de la Costa Caribe, los Gobiernos Municipales y los Consejos Escolares.
 
 36
 
@@ -1203,24 +1201,24 @@ Son Objetivos de la Gestión en la Educación:
 
 [[START OF PAGE 37]]
 
-- Consolidar y ampliar el modelo de participación educativa en los Centros Escolares, enfatizando en la  autonomía  pedagógica,  para  provocar innovaciones y transformaciones educativas más ágiles.
+c) Consolidar y ampliar el modelo de participación educativa en los Centros Escolares, enfatizando en la autonomía pedagógica, para provocar innovaciones y transformaciones educativas más ágiles.
 
-- Promover el rescate de tradiciones, valores, costumbres, lenguas, y todo aquello que identifique a un territorio y a su población sea este comunal, municipal y regional.
+d) Promover el rescate de tradiciones, valores, costumbres, lenguas, y todo aquello que identifique a un territorio y a su población sea este comunal, municipal y regional.
 
-- Garantizar  mayor  eficiencia  y  efectividad  en  la  administración  de  los recursos  humanos,  materiales  y  financieros  destinados  a  la  educación focalizando los mismos en los sectores más pobres.
+e) Garantizar mayor eficiencia y efectividad en la administración de los recursos humanos, materiales y financieros destinados a la educación focalizando los mismos en los sectores más pobres.
 
-- Propiciar mayor acción de los gobiernos municipales en la promoción del desarrollo, buscando optimizar y racionalizar el uso de sus recursos.
+f) Propiciar mayor acción de los gobiernos municipales en la promoción del desarrollo, buscando optimizar y racionalizar el uso de sus recursos.
 
-- Involucrar a las Autoridades Municipales en la Adecuación Curricular para propiciar el desarrollo local.
+g) Involucrar a las Autoridades Municipales en la Adecuación Curricular para propiciar el desarrollo local.
 
-- Incrementar la participación de la Comunidad, Organismos no Gubernamentales,  Organizaciones  Sindicales  y  Sociedad  Civil  en  la administración del Sector Educativo.
+h) Incrementar la participación de la Comunidad, Organismos no Gubernamentales, Organizaciones Sindicales y Sociedad Civil en la administración del Sector Educativo.
 
 ##### Arto. 86
 La Gestión obliga al Estado a realizar acciones como:
 
-- Llevar a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad  y  demás  medidas  tendientes  a  contrarrestar  las  condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+a) Llevar a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
-- Llevar  a  cabo  programas  compensatorios  para  apoyar  con  recursos específicos a aquellas entidades o estratos con mayores  rezagos educativos.
+b) Llevar a cabo programas compensatorios para apoyar con recursos específicos a aquellas entidades o estratos con mayores rezagos educativos.
 
 ##### Arto. 87
 Las Comisiones Educativas Municipales según el artículo 65 en el inciso b del Reglamento de la ley de Municipios apoyarán la educación en el Municipio. Las autoridades  municipalidades  y  locales  deberán  colaborar  con  los  Centros Educativos y Consejos Escolares para impulsar las actividades extraescolares y  promover  la  relación  entre  la  programación  de  los  centros  y  el  entorno socioeconómico.
@@ -1310,13 +1308,13 @@ De acuerdo con la Constitución, las Universidades y los Centros de Educación T
 ##### Arto. 99
 La educación es para los estudiantes un derecho y un deber social. Son deberes de los estudiantes:
 
-- Participar en las actividades de enseñanza y aprendizaje que desarrolle la institución u organización a la que  se  adscribe. Esta participación comprende la asistencia a la docencia, el cumplimiento de labores fuera de aula y la incorporación en actividades extraescolares que sean parte del currículo.
+a) Participar en las actividades de enseñanza y aprendizaje que desarrolle la institución u organización a la que se adscribe. Esta participación comprende la asistencia a la docencia, el cumplimiento de labores fuera de aula y la incorporación en actividades extraescolares que sean parte del currículo.
 
-- Cumplir  la  reglamentación  interna  de  la  institución  educativa,  así  como otras disposiciones que emanen de sus autoridades. La buena conducta prescrita para la vida escolar, constituye también un deber del estudiante en sus actividades fuera de la escuela, en relación con todas las personas que  integran  la  sociedad,  incluyendo  el  respeto  a  los  bienes  públicos  y privados.
+b) Cumplir la reglamentación interna de la institución educativa, así como otras disposiciones que emanen de sus autoridades. La buena conducta prescrita para la vida escolar, constituye también un deber del estudiante en sus actividades fuera de la escuela, en relación con todas las personas que integran la sociedad, incluyendo el respeto a los bienes públicos y privados.
 
-- Respetar  y  cuidar  los  bienes  del  centro  educativo  y  cooperar  en  las actividades de mantenimiento preventivo y mejoramiento de los mismos.
+c) Respetar y cuidar los bienes del centro educativo y cooperar en las actividades de mantenimiento preventivo y mejoramiento de los mismos.
 
-- Mantener vivo el sentimiento de amor a la Patria, que deberá manifestar con acciones positivas en relación con todo lo que constituye el patrimonio moral, cívico, natural y cultural de la nación.
+d) Mantener vivo el sentimiento de amor a la Patria, que deberá manifestar con acciones positivas en relación con todo lo que constituye el patrimonio moral, cívico, natural y cultural de la nación.
 
 40
 
@@ -1324,30 +1322,30 @@ La educación es para los estudiantes un derecho y un deber social. Son deberes 
 
 [[START OF PAGE 41]]
 
-- Los  demás deberes que le imponen observar y cumplir el Código de la Niñez  y  la  Adolescencia,  la  convención  sobre  derechos  del  niño,  otras leyes y tratados internacionales.
+e) Los demás deberes que le imponen observar y cumplir el Código de la Niñez y la Adolescencia, la convención sobre derechos del niño, otras leyes y tratados internacionales.
 
 ##### Arto. 100
 Son derechos de los estudiantes:
 
-- Formarse en el respeto y defensa del principio de la libertad basada en la verdad,  la  moralidad,  la  justicia,  derechos  humanos,  cooperativismo, respeto al Medio Ambiente, así como en educación vial y prevención de desastres naturales.
+a) Formarse en el respeto y defensa del principio de la libertad basada en la verdad, la moralidad, la justicia, derechos humanos, cooperativismo, respeto al Medio Ambiente, así como en educación vial y prevención de desastres naturales.
 
-- Inscribirse  en  cualquier  institución  centro  educativo  de  conformidad  a  lo establecido en la Constitución y demás disposiciones legales.
+b) Inscribirse en cualquier institución centro educativo de conformidad a lo establecido en la Constitución y demás disposiciones legales.
 
-- Ser tratado con justicia y respeto, y no ser sujeto de castigos corporales, humillaciones ni discriminaciones. Ser evaluado con objetividad y solicitar revisión, según sea el caso.
+c) Ser tratado con justicia y respeto, y no ser sujeto de castigos corporales, humillaciones ni discriminaciones. Ser evaluado con objetividad y solicitar revisión, según sea el caso.
 
-- Integrar libremente los gobiernos estudiantiles y asociaciones tendientes a mejorar la vida escolar y elegir o ser electo democráticamente dentro de las mismas.
+d) Integrar libremente los gobiernos estudiantiles y asociaciones tendientes a mejorar la vida escolar y elegir o ser electo democráticamente dentro de las mismas.
 
-- Reclamar  ante  la  Dirección  del  Centro  Educativo,  y  de  ser  necesario  a instancias educativas superiores, sobre las situaciones que vulneren los derechos, prescritos en esta ley.
+e) Reclamar ante la Dirección del Centro Educativo, y de ser necesario a instancias educativas superiores, sobre las situaciones que vulneren los derechos, prescritos en esta ley.
 
-- Recibir una enseñanza eficiente y de calidad. Contar con los materiales educativos  de  forma  equitativa  de  manera  que  le  permita  un  mayor desarrollo intelectual.
+f) Recibir una enseñanza eficiente y de calidad. Contar con los materiales educativos de forma equitativa de manera que le permita un mayor desarrollo intelectual.
 
-- Participar  en  las  diferentes  etapas  de  elaboración  y  transformación curricular.
+g) Participar en las diferentes etapas de elaboración y transformación curricular.
 
-- Participar en actividades escolares y extraescolares tales como: Eventos culturales, científicos y deportivos.
+h) Participar en actividades escolares y extraescolares tales como: Eventos culturales, científicos y deportivos.
 
-- Contar  con  el  mobiliario  e  infraestructura  pedagógica  necesaria  para  el desarrollo del proceso enseñanza-aprendizaje.
+i) Contar con el mobiliario e infraestructura pedagógica necesaria para el desarrollo del proceso enseñanza-aprendizaje.
 
-- Gozar  de  los  derechos  establecidos  por  el  Código  de  la  Niñez  y  la Adolescencia,  otras  leyes  y  convenciones  y  tratados  internacionales vigentes.
+j) Gozar de los derechos establecidos por el Código de la Niñez y la Adolescencia, otras leyes y convenciones y tratados internacionales vigentes.
 
 41
 
@@ -1399,19 +1397,19 @@ Los cargos de confianza tanto en el MECD como INATEC están referido a los cargo
 ##### Arto. 109
 A los Padres y Madres o tutores, como primeros responsables de la educación de  los  hijos,  hasta  la  mayoría  de  edad  o  hasta  cuando  ocurriere  cualquier modalidad de emancipación, les corresponde:
 
-- El deber y el derecho de educarlos y libremente decidir el tipo y la forma de educación que desea para sus hijos, y hacer efectivo el principio del respeto a los Derechos de la Niñez y la Adolescencia.
+a) El deber y el derecho de educarlos y libremente decidir el tipo y la forma de educación que desea para sus hijos, y hacer efectivo el principio del respeto a los Derechos de la Niñez y la Adolescencia.
 
-- La obligación de matricular en las instituciones educativas que estén de acuerdo a sus preferencias.
+b) La obligación de matricular en las instituciones educativas que estén de acuerdo a sus preferencias.
 
-- Asistir e informarse sobre el rendimiento académico y el comportamiento de sus hijos, y sobre la marcha de la institución educativa.
+c) Asistir e informarse sobre el rendimiento académico y el comportamiento de sus hijos, y sobre la marcha de la institución educativa.
 
-- Participar  en  los  programas  de  Escuela  para  Padres.  Para  superarse culturalmente  alcanzando  conocimientos que  le  permitan  transformar  su medio ambiente, familiar, social y comunal.
+d) Participar en los programas de Escuela para Padres. Para superarse culturalmente alcanzando conocimientos que le permitan transformar su medio ambiente, familiar, social y comunal.
 
-- Participar en la gestión educativa a través de las asociaciones de Padres y  Madres  de  familia,  de  los  consejos  escolares,  y  demás  instancias participativas, y velar por la adecuada  realización de la actividad educativa.
+e) Participar en la gestión educativa a través de las asociaciones de Padres y Madres de familia, de los consejos escolares, y demás instancias participativas, y velar por la adecuada realización de la actividad educativa.
 
-- Hacer criticas constructivas y exigir respuesta a las autoridades y actores de la educación.
+f) Hacer criticas constructivas y exigir respuesta a las autoridades y actores de la educación.
 
-- Les corresponde además cumplir y gozar de los derechos que estatuye la Ley  de  Participación  Educativa,  Ley  de  Participación  ciudadana  y  los deberes públicos que emanan de leyes y tratados vigentes.
+g) Les corresponde además cumplir y gozar de los derechos que estatuye la Ley de Participación Educativa, Ley de Participación ciudadana y los deberes públicos que emanan de leyes y tratados vigentes.
 
 ### CAPÍTULO IV
 
@@ -1495,11 +1493,11 @@ Los Candidatos propuestos al tenor del artículo 114 de la presente Ley, deben s
 ##### Arto. 123
 A los miembros electos del Consejo Nacional de Acreditación se les prohíbe:
 
-- Ser socio  de entidades educativas privadas
+a) Ser socio de entidades educativas privadas
 
-- Ser funcionario de entidad educativa pública o privada
+b) Ser funcionario de entidad educativa pública o privada
 
-- Ejercer cargos administrativos en entidades educativas públicas o privadas.
+c) Ejercer cargos administrativos en entidades educativas públicas o privadas.
 
 Estas prohibiciones excluyen el ejercicio de la docencia horario en entidades públicas o privadas.
 
@@ -1508,13 +1506,13 @@ Los miembros del Consejo Nacional de Evaluación y Acreditación electos por la 
 ##### Arto. 124
 Son Funciones del Consejo Nacional de Evaluación y  Acreditación:
 
-- Organiza y dirige los aspectos técnicos y organizativos de los procesos de autoevaluación y acreditación.
+1) Organiza y dirige los aspectos técnicos y organizativos de los procesos de autoevaluación y acreditación.
 
-- Elaborar su reglamento de funcionamiento.
+2) Elaborar su reglamento de funcionamiento.
 
-- Elaborar y presentar su presupuesto.
+3) Elaborar y presentar su presupuesto.
 
-- Rinde informe de su actuación a la Asamblea Nacional anualmente.
+4) Rinde informe de su actuación a la Asamblea Nacional anualmente.
 
 ##### Arto. 125
 El  Consejo Nacional de Evaluación y Acreditación decidirá en su momento la pertinencia de autorizar agencias acreditantes de distinta naturaleza o especialidades  con  funcionamiento  en  el  país.  Ninguna  agencia  acreditante funcionara  en  el  país  sin  autorización  del  Consejo  Nacional  de  Evaluación  y Acreditación.
