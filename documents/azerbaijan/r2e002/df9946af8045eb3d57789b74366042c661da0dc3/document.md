@@ -68,7 +68,7 @@ Management in the area of environmental education and enlightenment of populatio
 
 5.1.5.  Conduction  the  State  assessment  to  ensure  compliance  of  environmental  education programmes;
 
-5.1.6.  Coordination  and  direction  of  activities  of  the  government,  municipalities,  nongovernmental organizations, relevant businesses and individuals in the area of environmental education and enlightenment;
+5.1.6.  Coordination  and  direction  of  activities  of  the  government,  municipalities,  non-governmental organizations, relevant businesses and individuals in the area of environmental education and enlightenment;
 
 5.1.7. Preparation, adoption and implementation of state environmental programs in the area of environmental education and enlightenment;
 
@@ -92,11 +92,13 @@ Management in the area of environmental education and enlightenment of populatio
 
 6.0.2. Organize environmental education and enlightenment, in accordance with the legislation; create businesses implemented education activity in this field, use the state and municipality educational institutions and education information base;
 
-6.0.3. Make suggestions on development and improvement of the state and regional programs for  environmental  education  and  enlightenment  of  population,  according  to  the  legislation, take  part  in  the  implementation  of  these  programs  and  help  to  the  development  of environmental education.
+6.0.3. Make suggestions on development and improvement of the state and regional programs for  environmental  education  and  enlightenment  of  population,  according  to  the  legislation,
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+take  part  in  the  implementation  of  these  programs  and  help  to  the  development  of environmental education.
 
 ### Article 7. Rights and duties of individuals, non-governmental organizations and other legal persons in the area of environmental education and enlightenment of population
 
