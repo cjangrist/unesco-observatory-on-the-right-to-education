@@ -30,7 +30,7 @@ Further  provision  for  the  candidature  and  election  of  the  President  sh
 
 ### Article 6
 
-The President's term of office begins on the 1 st of August and ends on the 31 st of July four years later. The election of President takes place in June or July of the year in which a term of office expires.
+The President's term of office begins on the 1st of August and ends on the 31st of July four years later. The election of President takes place in June or July of the year in which a term of office expires.
 
 > 1 http://www.government.is/media/Skjol/constitution_of_iceland.doc
 
@@ -40,7 +40,7 @@ The President's term of office begins on the 1 st of August and ends on the 31 s
 
 ### Article 7
 
-If the President dies or resigns prior to the expiry of his term of office, a new President shall be elected for a period ending on the 31 st of July of the fourth year from the election.
+If the President dies or resigns prior to the expiry of his term of office, a new President shall be elected for a period ending on the 31st of July of the fourth year from the election.
 
 ### Article 8
 
@@ -62,7 +62,7 @@ The President of the Republic may not be held accountable for executive acts. Th
 
 The  President  may  not  be  prosecuted  on  a  criminal  charge  except  with  the consent of Althingi.
 
-The President may be removed from office before his term expires if approved by a majority in a plebiscite called pursuant to a resolution adopted by threefourths  of  the  Members  of  Althingi.  This  plebiscite  shall  be  held  within  two months from the date of adoption by Althingi of the resolution. The President shall not perform his duties from the time the resolution is adopted by Althingi until the results of the plebiscite are known.
+The President may be removed from office before his term expires if approved by a majority in a plebiscite called pursuant to a resolution adopted by three-fourths  of  the  Members  of  Althingi.  This  plebiscite  shall  be  held  within  two months from the date of adoption by Althingi of the resolution. The President shall not perform his duties from the time the resolution is adopted by Althingi until the results of the plebiscite are known.
 
 If the resolution by Althingi is not approved in the plebiscite, Althingi shall be immediately dissolved and new elections called.
 
@@ -114,11 +114,13 @@ No  person  may  hold  public  office  unless  he  has  Icelandic  nationality. 
 
 The President may remove from office any official whom he has appointed.
 
-The President may transfer officials from one office to another provided that their official remuneration is not reduced, and that they have an option between such transfer and retirement with a pension, or old-age benefits, as prescribed by law.
+The President may transfer officials from one office to another provided that their official remuneration is not reduced, and that they have an option between
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+such transfer and retirement with a pension, or old-age benefits, as prescribed by law.
 
 Certain  categories  of  officials,  in  addition  to  those  mentioned  in  Article  61, may be exempted by law from this provision.
 
@@ -182,11 +184,13 @@ Electoral districts shall be no fewer than six and no more than seven in number.
 
 For each respective electoral district, six seats shall be allocated in accordance with the outcome of elections within that district. The number of parliamentary seats for each electoral district shall in other respects be defined by law, subject however to the provisions of the fifth paragraph.
 
-Seats  other  than  those  allocated  to  the  electoral  districts  shall  be  distributed within each respective electoral district with the purpose of providing individual political parties with representation reflecting to the fullest possible extent  each  party's  total  number  of  votes.  However,  only  political  parties having received at least five per cent of all valid votes cast nation-wide shall be eligible for such distribution.
+Seats  other  than  those  allocated  to  the  electoral  districts  shall  be  distributed within each respective electoral district with the purpose of providing individual political parties with representation reflecting to the fullest possible
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+extent each party’s total number of votes. However, only political parties having received at least five per cent of all valid votes cast nation-wide shall be eligible for such distribution.
 
 If the number of voters on the voting register represented by each parliamentary  seat,  allocated  or  distributed,  becomes  in  one  electoral  district one  half  of  the  number  represented  by  each  parliamentary  seat  in  another electoral district, the National Election Board shall revise the number of seats representing  each  electoral  district  with  the  aim  of  reducing  this  difference. This shall be provided for in further detail by law.
 
@@ -211,7 +215,7 @@ Supreme Court Judges, however, are not eligible.
 ## IV.
 ### Article 35
 
-Althingi shall convene for a regular session every year on the 1 st of October or, if the day falls on an official holiday, on the following weekday, and continue in session until the same date the following year, unless the election period of Members of Althingi has elapsed earlier or Althingi has been dissolved.
+Althingi shall convene for a regular session every year on the 1st of October or, if the day falls on an official holiday, on the following weekday, and continue in session until the same date the following year, unless the election period of Members of Althingi has elapsed earlier or Althingi has been dissolved.
 
 The opening date of the regular session of Althingi may be changed by law.
 
@@ -332,7 +336,7 @@ Judges settle all disputes regarding the competence of the authorities. No one s
 
 ### Article 61
 
-In the performance of their official duties, judges shall be guided solely by the law.  Those  judges  who  do  not  also  have  administrative  functions  cannot  be discharged  from  office  except  by  a  judicial  decision,  nor  may  they  be transferred  to  another  office  against  their  will,  except  in  the  event  of  reorganization of the judiciary. However, a judge who has reached the age of 65 may be released from office, but Judges of the Supreme Court shall not lose any of their salary.
+In the performance of their official duties, judges shall be guided solely by the law.  Those  judges  who  do  not  also  have  administrative  functions  cannot  be discharged  from  office  except  by  a  judicial  decision,  nor  may  they  be transferred  to  another  office  against  their  will,  except  in  the  event  of  re-organization of the judiciary. However, a judge who has reached the age of 65 may be released from office, but Judges of the Supreme Court shall not lose any of their salary.
 
 ## VI.
 ### Article 62
@@ -378,11 +382,13 @@ No one may be deprived of his liberty except as permitted by law.
 
 Any person deprived of his liberty shall be entitled to be informed promptly of the reasons for this measure.
 
-Any person arrested by reason of suspicion of criminal conduct shall be brought before a judge without undue delay. If he is not released at once, the judge shall, within 24 hours, issue  a  reasoned  decision  on  whether  he  shall  be  detained  on remand. Detention on remand may only be ordered due to a charge subject to heavier sanctions than fines or punitive custody. The right of a person detained on remand to refer the decision on his remand to a superior court shall be guaranteed by law. A person shall never be detained on remand for longer than necessary; if the  judge  deems  that  he  may  be  released  on  bail  the  amount  of  bail  shall  be determined by a judicial order.
+Any person arrested by reason of suspicion of criminal conduct shall be brought before a judge without undue delay. If he is not released at once, the judge shall, within 24 hours, issue  a  reasoned  decision  on  whether  he  shall  be  detained  on remand. Detention on remand may only be ordered due to a charge subject to heavier sanctions than fines or punitive custody. The right of a person detained on remand to refer the decision on his remand to a superior court shall be guaranteed by law. A person shall never be detained on remand for longer than necessary; if
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+the judge deems that he may be released on bail the amount of bail shall be determined by a judicial order.
 
 Any person deprived of his liberty for other reasons shall be entitled to have the legality of the measure reviewed by a court as soon as possible. If his deprivation of liberty proves to have been unlawful he shall be released forthwith.
 
@@ -412,11 +418,13 @@ Everyone shall enjoy freedom from interference with privacy, home, and family li
 
 Bodily or personal search or a search of a person's premises or possessions may only  be  conducted  in  accordance  with  a  judicial  decision  or  a  statutory  law provision.  This  shall  also  apply  to  the  examination  of  documents  and  mail, communications  by  telephone  and  other  means,  and  to  any  other  comparable interference with a person's right to privacy.
 
-Notwithstanding  the  provisions  of  the  first  paragraph  above,  freedom  from interference  with  privacy,  home  and  family  life  may  be  otherwise  limited  by statutory provisions if this is urgently necessary for the protection of the rights of others.
+Notwithstanding  the  provisions  of  the  first  paragraph  above,  freedom  from interference  with  privacy,  home  and  family  life  may  be  otherwise  limited  by
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+statutory provisions if this is urgently necessary for the protection of the rights of others.
 
 ### Article 72
 
@@ -442,11 +450,13 @@ People  are  free  to  assemble  unarmed.  Public  gatherings  may  be  attended
 
 ### Article 75
 
-Everyone  is  free  to  pursue  the  occupation  of  his  choosing.  This  right  may however be restricted  by  law,  if  such  restriction  is  required  with  regard  to  the public interest.
+Everyone  is  free  to  pursue  the  occupation  of  his  choosing.  This  right  may however be restricted  by  law,  if  such  restriction  is  required  with  regard  to  the
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+public interest.
 
 The right of people to negotiate terms of employment and other labour-related matters shall be regulated by law.
 
