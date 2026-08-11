@@ -6,7 +6,7 @@ Pursuant to Article IV.4.a) of the Constitution of Bosnia and Herzegovina, at th
 
 ## PART ONE - INTRODUCTORY REMARKS
 
-### Purpose of the Law
+### 1. Purpose of the Law
 
 #### Article 1
 
@@ -20,7 +20,7 @@ Bosnia and Herzegovina shall accept the European strategic goals in the area of 
 
 The higher education is the activity of special interest to Bosnia and Herzegovina.
 
-### Higher Education: Goals and Significance
+### 2. Higher Education: Goals and Significance
 
 #### Article 3
 
@@ -54,13 +54,13 @@ The higher education shall be based on:
 
 -interaction with the public community and the obligation of university to develop public accountability of students and other members of the academic community.
 
-### Cycles in Higher Education and the European Credit Transfer System (hereinafter referred to as:  ECTS)
+### 3. Cycles in Higher Education and the European Credit Transfer System (hereinafter referred to as:  ECTS)
 
 #### Article 5
 
 The higher education shall be organized in three cycles:
 
--the first cycle leads to the academic title of completed graduate study (the degree of Bachelor) or an equivalent, acquired following at least there and no more than four years of regular studies after acquisition of the certificate on the completed high school, which is valuated with at least 180, that is, 240 ECTS credits,
+-the first cycle leads to the academic title of completed graduate study (the degree of Bachelor) or an equivalent, acquired following at least three and no more than four years of regular studies after acquisition of the certificate on the completed high school, which is valuated with at least 180, that is, 240 ECTS credits,
 
 -the second cycle leads to the academic title of master or an equivalent, acquired following the completed graduate study, it lasts for one or two years, and it is valuated with 60 or 120 ECTS credits, and so that aggregately with the first cycle it carries 300 ECTS credits,
 
@@ -70,7 +70,7 @@ One semester of studies carries 30 ECTS credits under each cycle.
 
 The study of the medical group of sciences under the first cycle shall be excepted from the provisions arising from paragraph 1, of this Article, which shall be valuated with up to 360 ECTS credits.
 
-### The Right to Academic Title and Function
+### 4. The Right to Academic Title and Function
 
 #### Article 6
 
@@ -88,7 +88,7 @@ In addition to the degrees given as honoris causa (doctorate of science of honor
 
 ## PART II - HIGHER EDUCATION INSTITUTIONS
 
-### Access to Higher Education
+### 1. Access to Higher Education
 
 #### Article 7
 
@@ -136,7 +136,7 @@ Freedom may not be denied or limited for higher education institutions in terms 
 
 -providing study programs for acquisition of the skills required or useful to pursue the higher education goals.
 
-### Statutes of Higher Education Institutions
+### 3. Statutes of Higher Education Institutions
 
 #### Article 12
 
@@ -150,7 +150,7 @@ The statute shall be passed by the senate, with a prior obtained opinion from th
 
 The statute of each higher education institution must be harmonized with this Law.
 
-### University and Higher School Bodies
+### 4. University and Higher School Bodies
 
 #### Article 13
 
@@ -174,7 +174,7 @@ The higher school bodies shall be:
 
 -principal.
 
-### Administrative Board
+### 5. Administrative Board
 
 #### Article 14
 
@@ -192,7 +192,7 @@ The administrative board shall perform the tasks as determined in the law and in
 
 -pass the financial plans and adopt the annual financial statements;
 
--direct, control and evaluate the work of the record or principal in the domain of financial operations;
+-direct, control and evaluate the work of the rector or principal in the domain of financial operations;
 
 -resolve the issues of relations with the founder;
 
@@ -306,7 +306,7 @@ The person elected to be principal of the public higher school may be a person w
 
 The rector, that is, principal, shall be elected for a four-year mandate and may be reelected.
 
-### Legal Subjectivity and Institutional Autonomy
+### 8. Legal Subjectivity and Institutional Autonomy
 
 #### Article 19
 
@@ -382,7 +382,7 @@ Without approval from the university rector, higher school principal or a person
 
 As an exception, in order to prevent crimes or stop execution of crimes, necessary measures may be undertaken, provide that the university administration or higher school administration should be immediately informed of the actions undertaken.
 
-### Rights and Obligations of Academic Staff
+### 9. Rights and Obligations of Academic Staff
 
 #### Article 24
 
@@ -608,7 +608,7 @@ The full-time student status may also cease if the higher education institution 
 
 ## PART III - INSTITUTIONS IN THE AREA OF HIGHER EDUCATION
 
-### Ministry of Civil Affairs of BiH
+### 1. Ministry of Civil Affairs of BiH
 
 #### Article 42
 
@@ -628,7 +628,7 @@ The Ministry of Civil Affairs of BiH shall be responsible for enforcement of thi
 
 -support to and encouragement of stronger networking among the sectors of higher education, industry, businesses and society.
 
-### Rectors' Conference of Bosnia and Herzegovina
+### 2. Rectors' Conference of Bosnia and Herzegovina
 
 #### Article 43
 
@@ -644,7 +644,7 @@ The Rectors' Conference shall also serve as an advisory body for implementation 
 
 The Rectors' Conference shall pass decisions by consensus.
 
-### Center for Information and Recognition of Documents
+### 3. Center for Information and Recognition of Documents
 
 #### Article 44
 
@@ -690,7 +690,7 @@ The Administration Board shall pass decisions with majority votes of the total n
 
 The CIP shall be financed from the budget of the BiH institutions.
 
-### Agency for Development of Higher Education and Quality Assurance
+### 4. Agency for Development of Higher Education and Quality Assurance
 
 [[END OF PAGE 16]]
 
@@ -742,7 +742,7 @@ In the area of accreditation, the Agency shall be competent for:
 
 [[START OF PAGE 18]]
 
-- members, including one representative each of the Rectors' Conference, one cantonal ministry, ministry of the Republika Srpska, Brcko District of BiH, and the representative of the Agency;
+members, including one representative each of the Rectors' Conference, one cantonal ministry, ministry of the Republika Srpska, Brcko District of BiH, and the representative of the Agency;
 
 -submission of the established list of experts for adoption to all the ministries of education in Bosnia and Herzegovina, and to the competent department of the Brcko District of BiH;
 
@@ -802,7 +802,7 @@ The Agency shall be financed from the budget of the BiH institutions and from it
 
 ## PART IV - ACADEMIC DEGREES AND DIPLOMAS
 
-### Award of Academic Degrees and Diplomas
+### 1. Award of Academic Degrees and Diplomas
 
 #### Article 53
 
@@ -834,7 +834,7 @@ In consultation with other relevant government bodies, the Ministry of Civil Aff
 
 ## PART V - FINAL PROVISIONS
 
-### Scientific and Expert Knowledge Acquired
+### 1. Scientific and Expert Knowledge Acquired
 
 #### Article 56
 
@@ -856,13 +856,13 @@ If this Law or the legislation applicable prior to its effectiveness for the fou
 
 Elections into academic functions started according to the provisions of the legislation applicable prior to effectiveness of this Law shall be completed according to such legislation, no later than within one year from the date of effectiveness of this Law.
 
-### Harmonization of Studies with this Law
+### 2. Harmonization of Studies with this Law
 
 #### Article 58
 
 The higher education institutions shall start harmonizing studies with this Law as of the date of its effectiveness. Systematization shall complete and the organization of studies shall begin according to the provisions of this Law within one year from the date of its effectiveness, and as of such time, the ECTS system shall also be introduced as mandatory.
 
-### Right to Complete Studies
+### 3. Right to Complete Studies
 
 #### Article 59
 
@@ -874,7 +874,7 @@ The higher education institutions may limit the duration of the right to complet
 
 Following introduction of studies according to this Law, the students referred to in paragraph 2, of this Article, who fail to complete the study according to the old study curricula may continue their study according to this Law and the program based on it, in line with the statute of the higher education institution.
 
-### Harmonization of Statute and Integration of Universities
+### 4. Harmonization of Statute and Integration of Universities
 
 #### Article 60
 
@@ -896,7 +896,7 @@ Once this Law comes into effect, the existing higher education institutions shal
 
 Accreditation of higher education institution shall be completed within no longer than two years from the date of effectiveness of this Law.
 
-### Appointment of Acting Directors and Periods for Passing of Legislation
+### 6. Appointment of Acting Directors and Periods for Passing of Legislation
 
 #### Article 62
 
@@ -924,7 +924,7 @@ The law of the Republika Srpska and the laws of the cantons shall address the st
 
 The students enrolled into senior years and study departments in the two-year duration, prior to effectiveness of this Law, shall have the right and obligation to complete the started studies according to the curricula applicable at the time of their enrollment, within the periods determined in the statutes of such institutions.
 
-### Theological Faculties, Higher Theological Schools and Academies
+### 9. Theological Faculties, Higher Theological Schools and Academies
 
 #### Article 65
 
