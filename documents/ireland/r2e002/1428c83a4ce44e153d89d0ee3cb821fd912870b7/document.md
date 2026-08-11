@@ -1,6 +1,8 @@
 [[START OF PAGE 1]]
 
-Higher Education Authority FOREWORD
+Higher Education Authority
+
+2012 - 2016
 
 [[END OF PAGE 1]]
 
@@ -8,24 +10,24 @@ Higher Education Authority FOREWORD
 
 # TABLE OF CONTENTS
 
-Foreword
+Foreword 4
 
-Section 1:
+Section 1: Introduction 5
 
-Section 2:
+Section 2: Operational and Policy Context 7
 
-Section 3:
+Section 3: HEA Vision, Values and Mission 11
 
-Section 4:
+Section 4: The Role of the HEA and Strategic Objectives 13
 
-Section 5:
+Section 5: Implementation and Work Plan 2012 - 2014 23
 
 Appendices:
 
-Appendix 1: | Relevant Legislation | 34
---- | --- | ---
-Appendix 2: | Responsibilities assigned to the HEA
-by the National Strategy | 35
+Appendix 1: Relevant Legislation 34
+
+Appendix 2: Responsibilities assigned to the HEA
+by the National Strategy 35
 
 HEA  STRATEGIC PLAN 2012 - 2016   3
 
@@ -45,7 +47,9 @@ As Chair of the Higher Education Authority I welcome the opportunity created by 
 
 John Hennessy
 
-Chair, Higher Education Authority March 2012
+Chair,
+Higher Education Authority
+March 2012
 
 Introduction
 
@@ -111,7 +115,7 @@ An important element in the development of this plan was a reflection of the HEA
 
 Considering the period of the previous strategic plan brings to the fore the enormity of the economic challenges that Ireland is currently facing. At the time of writing the HEA Strategic Plan 2008 - 2010, the full scale and gravity of Ireland's challenges were not clearly envisaged and the reality began to emerge only as the period of the plan unfolded. Inevitably, assumptions underpinning our approach in the previous plan regarding matters such as the funding environment and participation have required radical alteration.
 
-One of the most central developments over the previous planning period was the publication of the National Strategy for Higher Education in January 2011. The HEA played a central role in working with the DES and engaging in a wide process of stakeholder consultation in the development of the National Strategy. The National Strategy has ensured that there is now a clear policy framework, a clarified role for the HEA and a vision for the higher education system to flourish in a more coordinated way without impacting negatively on institutional innovation and responsiveness. Many of the strategic priorities identified by the HEA in 2008 regarding the development of a unified strategic framework, performance funding and accountability can now be achieved and are part of the HEA's responsibilities in the implementation of the National Strategy.
+One of the most central developments over the previous planning period was the publication of the National Strategy for Higher Education in January 2011. The HEA played a central role in working with the DES and engaging in a wide process of stakeholder consultation in the development of the National Strategy. The National Strategy has ensured that there is now a clear policy framework, a clarified role for the HEA and a vision for the higher education system to flourish in a more co-ordinated way without impacting negatively on institutional innovation and responsiveness. Many of the strategic priorities identified by the HEA in 2008 regarding the development of a unified strategic framework, performance funding and accountability can now be achieved and are part of the HEA's responsibilities in the implementation of the National Strategy.
 
 At a high level the HEA has been effective in realising important achievements in the higher education system. These include increased student participation including increased participation from students from non-traditional backgrounds through the management of the funding allocation model; the growth of the research agenda through the management of a number of funding streams most notably the Programme for Research in Third Level Institutions (PRTLI) which has developed a research infrastructure across the higher education system; the development of the quality agenda through effective funding mechanisms (Irish Universities Quality Board) and relationships with the relevant quality bodies. However, a key concern has been that while the higher education system has consistently responded to strategic challenges, it has developed in a somewhat uncoordinated fashion leading to concerns regarding value for money, accountability, efficiency and duplication. In addition, there is a long-term concern that there may be something of a policy mismatch between funding mechanisms that support increase participation but that, in a declining funding situation, lead to decreased funding levels per student thereby raising questions regarding system quality and sustainability.
 
@@ -129,7 +133,7 @@ HEA  STRATEGIC PLAN 2012 - 2016   9
 
 The key policy statement underpinning this HEA Strategic Plan is the National Strategy which sets out a challenging and ambitious vision and plan for the development of the higher education system. It details the changes that are needed to build a modern, flexible and responsive higher education system in order to enable individuals realise their full potential, to ensure an inclusive society and to achieve sustainable economic growth.
 
-There are several other relevant strategies in place or in advanced stage of development which also underpin this Strategic Plan. These include the International Education Strategy 2010 - 2015; the National Plan for Equity of Access to Higher Education 2008 - 2013; the Strategy for Science, Technology and Innovation 2006 - 2013 and the Research Prioritisation Exercise. Other developments are also relevant such as the establishment of SOLAS 1 , the new further education and training authority; the Qualifications and Quality Assurance (Education and Training) Bill, 2011, which includes provision for the amalgamation of bodies dealing with qualifications and quality assurance in education and training and a Code of Practice for the provision of educational services to international students.
+There are several other relevant strategies in place or in advanced stage of development which also underpin this Strategic Plan. These include the International Education Strategy 2010 - 2015; the National Plan for Equity of Access to Higher Education 2008 - 2013; the Strategy for Science, Technology and Innovation 2006 - 2013 and the Research Prioritisation Exercise. Other developments are also relevant such as the establishment of SOLAS¹, the new further education and training authority; the Qualifications and Quality Assurance (Education and Training) Bill, 2011, which includes provision for the amalgamation of bodies dealing with qualifications and quality assurance in education and training and a Code of Practice for the provision of educational services to international students.
 
 Government policy envisages a reformed HEA, acting in a leadership position in the development of the higher education system and adopting a strong, proactive role in ensuring accountability from the system and individual institutions. This will involve a significantly different and higher level of performance from the HEA itself. This Strategy is about 'doing & delivering'.
 
@@ -145,9 +149,11 @@ HEA Vision, Values and Mission
 
 # Section 3:
 
+## HEA Vision, Values and Mission
+
 ### VISION for the HEA
 
-The HEA will take a proactive, leadership role in the development, regulation and governance of a coherent and well coordinated system of interconnected higher education institutions with each -
+The HEA will take a proactive, leadership role in the development, regulation and governance of a coherent and well co-ordinated system of interconnected higher education institutions with each -
 
 - making a clearly defined contribution, agreed with the HEA,
 
@@ -187,8 +193,6 @@ We will act as a strong and objective advocate for higher education and research
 
 Our over-riding mission will be that, in performing our functions, we do all that is practicable to ensure that students are engaged in a rich and rewarding higher education experience and emerge as high quality graduates equipped with the skills to pursue successful lives and careers.
 
-## HEA Vision, Values and Mission
-
 The Role of the HEA and Strategic Objectives
 
 12 HEA  STRATEGIC PLAN 2012 - 2016
@@ -211,7 +215,7 @@ The HEA is the statutory funding authority for the universities, institutes of t
 
 The National Strategy states that its successful implementation will require strong central oversight and proposes a key role for a reformed HEA in leading the higher education system in the achievement of higher levels of performance (see Appendix 2). The National Strategy underpins the role set out for the HEA in this strategic plan.
 
-The HEA is the regulator of the higher education system and we are required to implement our funding responsibilities and a process of effective strategic engagement to ensure wellfunctioning, well-governed, accessible and accountable HEIs, operating to high standards in all areas.
+The HEA is the regulator of the higher education system and we are required to implement our funding responsibilities and a process of effective strategic engagement to ensure well-functioning, well-governed, accessible and accountable HEIs, operating to high standards in all areas.
 
 The HEA advises the Minister for Education and Skills on the objectives to be set for the higher education system and performance indicators to be applied. It is the HEA's responsibility to ensure that national objectives are aligned with institutional objectives, that performance is measured against these and funding allocations made accordingly.
 
@@ -240,18 +244,21 @@ Figure 4.1: Interfaces between Department, HEA and HEIs enabling higher educatio
 Department of Education & Skills
 
 Determines Exchequer Funding
-
-Process of strategic dialogue Defines national strategy & KPIs Sets legislative framework Monitors HEA performance & ensures HEA accountability Advises on national policy & demonstrates accountability Acts as a multi-agency co-ordinator
+Defines national strategy & KPIs
+Sets legislative framework
+Monitors HEA performance & ensures HEA accountability
 
 Higher Education Authority
 
+Advises on national policy & demonstrates accountability
+Acts as a multi-agency co-ordinator
+Acts as an advocate for higher education (shared role with DES)
+Process of strategic dialogue
 Agrees KPIs for each HEI
-
-Allocates funding (recurrent, capital & other funding programmes) in line with National Strategy and agreed KPIs HEA monitors performance against KPIs; HEIs demonstrate results
+Allocates funding (recurrent, capital & other funding programmes) in line with National Strategy and agreed KPIs
+HEA monitors performance against KPIs; HEIs demonstrate results
 
 Higher Education Institutions
-
-Acts as an advocate for higher education (shared role with DES)
 
 Funding allocations reflect institutional performance
 
@@ -329,7 +336,7 @@ Delivering excellence in higher education requires management of the following t
 
 The HEA's responsibility in this respect is concerned with creating the policy framework and the funding/accountability environment that ensures institutions provide high quality teaching and learning. Through the strategic dialogue process we will ensure that teaching and learning indicators are key components of performance measurement and funding and that institutions are accountable to the HEA for the delivery of teaching and learning epitomised by the following standards -
 
-- up-to-date research into teaching and learning and a highquality learning environment,
+- up-to-date research into teaching and learning and a high-quality learning environment,
 
 - feedback from students to inform institutional and programme management,
 
@@ -337,7 +344,7 @@ The HEA's responsibility in this respect is concerned with creating the policy f
 
 - high levels of student retention,
 
-- clear routes of progression and transfer, as well as nontraditional entry routes,
+- clear routes of progression and transfer, as well as non-traditional entry routes,
 
 - specific programmes for first-year students,
 
@@ -405,7 +412,7 @@ The internationalisation of higher education holds hugely positive potential for
 
 The Department of Education and Skills published Ireland's International Education Strategy 2010 - 2015 and the HEA is working closely with relevant stakeholders in the implementation of key recommendations. We will prioritise the internationalisation agenda in the development of strategic dialogue with HEIs. We will require institutions to set targets linked to their individual capabilities. The internationalisation strategy sets challenging targets for the higher education system, so we will incentivise performance through our funding model.
 
-We will manage two prestigious scholarship schemes Government of Ireland International Scholarships and New Frontiers Programme. We will ensure that high calibre students and staff participate in these schemes and that they serve to market Ireland as a high quality education hub that is the destination of choice for international students from all over the world. The management of these scholarships will build on the HEA's already deep involvement in international higher education particularly at the European level. The HEA is the National Agency for the Lifelong Learning Programme - Erasmus; National Contact Point for the Tempus Programme; National Structure for Erasmus Mundus and plays a key role in furthering the aims of the Bologna process. Over the period of this plan we will aim to meet our EU targets for Erasmus students - by 2013 Ireland to have 3,000 outgoing students.
+We will manage two prestigious scholarship schemes – Government of Ireland International Scholarships and New Frontiers Programme. We will ensure that high calibre students and staff participate in these schemes and that they serve to market Ireland as a high quality education hub that is the destination of choice for international students from all over the world. The management of these scholarships will build on the HEA's already deep involvement in international higher education particularly at the European level. The HEA is the National Agency for the Lifelong Learning Programme - Erasmus; National Contact Point for the Tempus Programme; National Structure for Erasmus Mundus and plays a key role in furthering the aims of the Bologna process. Over the period of this plan we will aim to meet our EU targets for Erasmus students - by 2013 Ireland to have 3,000 outgoing students.
 
 Our internationalisation agenda also encompasses the leading role we play in participating in international higher education networks, actively engaging in peer-to-peer international relations and international learning groups and supporting initiatives such as the Irish Undergraduates Awards which now have an international dimension.
 
@@ -485,7 +492,7 @@ Having set a challenging programme, the following risks to achieving success are
 
 ### Work Plan 2012 - 2014
 
-Our work plan 2012 - 2014 is directed towards the achievement of our six strategic objectives. We propose carrying out a midterm review of progress on the achievement of our strategic objectives in 2014. It is expected that our strategic objectives and KPIs will remain consistent over the period of the strategic plan; the proposed actions and timeframes are primarily concerned with the next two years. An updated action plan will be produced following the mid-term review.
+Our work plan 2012 - 2014 is directed towards the achievement of our six strategic objectives. We propose carrying out a mid-term review of progress on the achievement of our strategic objectives in 2014. It is expected that our strategic objectives and KPIs will remain consistent over the period of the strategic plan; the proposed actions and timeframes are primarily concerned with the next two years. An updated action plan will be produced following the mid-term review.
 
 #### Strategic Objective 1: System Development
 
@@ -497,7 +504,7 @@ Our work plan 2012 - 2014 is directed towards the achievement of our six strateg
 
 ##### Key Actions and Timeframes:
 
-- Develop and implement a process of strategic dialogue (2012 - 2013) as a key instrument that will lead to system coordination.
+- Develop and implement a process of strategic dialogue (2012 - 2013) as a key instrument that will lead to system co-ordination.
 
 - Develop a framework to facilitate a system approach to meeting national higher education objectives. The framework will include guidelines on mergers, consolidations, regional clusters and technological universities (2012). The application of this framework will form part of the HEA's strategic dialogue with HEIs (2012 & 2013).
 
@@ -663,7 +670,7 @@ HEA  STRATEGIC PLAN 2012 - 2016   29
 
 - Ensure that programmes are addressing skills needs and are enterprise relevant. This will be addressed through strategic dialogue and also in conjunction with the QQAI (2012 and on-going).
 
-- The HEA will have a leading role in implementing a multiagency action plan to address ICT skills needs for the Irish economy.This plan involves the development and refinement of skills conversion programmes at undergraduate and postgraduate levels, action-oriented reviews of retention and work placement in ICT programmes and horizon scanning to anticipate emerging skills needs (2012).
+- The HEA will have a leading role in implementing a multi-agency action plan to address ICT skills needs for the Irish economy. This plan involves the development and refinement of skills conversion programmes at undergraduate and postgraduate levels, action-oriented reviews of retention and work placement in ICT programmes and horizon scanning to anticipate emerging skills needs (2012).
 
 - Publish criteria, based on pilot strategic dialogue, relating to consultation and engagement with students, business and other community interests in institutional strategic planning (2012).
 
@@ -689,11 +696,9 @@ HEA  STRATEGIC PLAN 2012 - 2016   29
 
 - We will ensure that the Disability and Student Assistance and Dormant Accounts funds are used as progressively as possible to support students (2012 and ongoing).
 
-- Proposals (to be implemented post-2013) will be developed on a more timely and transparent approach to reporting on
+- Proposals (to be implemented post-2013) will be developed on a more timely and transparent approach to reporting on participation by students disadvantaged due to social and/or economic reasons and also on lifelong learning targets. (2012-2013).
 
-- participation by students disadvantaged due to social and/or economic reasons and also on lifelong learning targets. (20122013).
-
-- Establish the HEA's data-sharing needs, and engage in dialogue with partners that include the Data Protection Commission, the Department of Education and Skills and other relevant Departments to progress this matter (2012 2013).
+- Establish the HEA's data-sharing needs, and engage in dialogue with partners that include the Data Protection Commission, the Department of Education and Skills and other relevant Departments to progress this matter (2012 - 2013).
 
 - In partnership with the National Council for Curriculum and Assessment (NCCA), the HEA will make recommendations on improving the interface between second-level and higher education and will build on this partnership to achieve greater alignment in the learning outcomes and objectives at this critical transition (2012).
 
@@ -737,7 +742,7 @@ HEA  STRATEGIC PLAN 2012 - 2016   31
 
 - HEIs must have international student feedback systems in place that are used to inform institutional policies.
 
-- The issue of double and joint degrees will be given prominence in strategic dialogue. The HEA has a pivotal role to play in encouraging growth of these types of degrees (ongoing).
+- The issue of double and joint degrees will be given prominence in strategic dialogue. The HEA has a pivotal role to play in encouraging growth of these types of degrees (on-going).
 
 - We will develop a HEA programme and support the DES in developing and implementing a programme of work for the Irish EU Presidency in 2013 where higher education features prominently and which demonstrates the attractiveness of Ireland as a destination for international students.
 
@@ -789,25 +794,25 @@ Relevant legislation assigning function to the HEA includes the Higher Education
 
 - To lead implementation of revised funding arrangements to align public investments with strategic objectives, and maintain quality through sustainable growth. Long-term revisions identified for the funding model include:
 
--Revisions to RGAM to facilitate Access and Life Long learning
+- Revisions to RGAM to facilitate Access and Life Long learning
 
--Expansion of Funding Sources, to include private contributions, restructuring of overall funding system, including student grants system
+- Expansion of Funding Sources, to include private contributions, restructuring of overall funding system, including student grants system
 
--Move to a system of Service Level Agreements with the HEIs as part of a broader Strategic Dialogue - including
+- Move to a system of Service Level Agreements with the HEIs as part of a broader Strategic Dialogue – including
 
--A performance incentive system
+- A performance incentive system
 
--Dedicated funding to promote performance on key national priorities
+- Dedicated funding to promote performance on key national priorities
 
 - To engage in strategic dialogue with the HEIs and the sector to align the strategies of individual institutions with national priorities. The Strategy is very specific on what the dialogue must cover including:
 
--How national priorities are to be implemented and the coherence of the HEI strategic plans with those national priorities
+- How national priorities are to be implemented and the coherence of the HEI strategic plans with those national priorities
 
--The development and agreement of KPIs and the assessment of performance against them
+- The development and agreement of KPIs and the assessment of performance against them
 
--The sharing and mainstreaming of good practice
+- The sharing and mainstreaming of good practice
 
--The review of overall system coherence and balance of diversity
+- The review of overall system coherence and balance of diversity
 
 - To lead the process of forecasting demand for higher education taking account of labour market skills needs.
 
@@ -825,8 +830,14 @@ HEA  STRATEGIC PLAN 2012 - 2016   35
 
 [[START OF PAGE 19]]
 
-Higher Education Authority Brooklawn House, Shelbourne Road, Dublin 4
+Higher Education Authority
+Brooklawn House,
+Shelbourne Road,
+Dublin 4
 
-An tÚdarás um Ard-Oideachas Teach Plásóg an tSrutháin, Bóthar Síol mBrain, Baile átha Cliath 4
+An tÚdarás um Ard-Oideachas
+Teach Plásóg an tSrutháin,
+Bóthar Síol mBrain,
+Baile Átha Cliath 4
 
 [[END OF PAGE 19]]
