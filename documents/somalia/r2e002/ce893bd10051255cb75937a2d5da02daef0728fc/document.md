@@ -130,9 +130,61 @@ Article 38: The Parliament and Joint Sittings
 
 #### The House of Representatives
 
+- Article 39: General Provisions of the House
+
+- Article 40: The Total Membership of the House and Elections
+
+- Article 41: Eligibility for Candidacy
+
+- Article 42: Period of Office and Election Term
+
+- Article 43: The Seat of the House
+
+- Article 44: The Convening of the New House
+
+- Article 45: The Meetings of the House of Representatives
+
+- Article 46: Sessions and the Procedures of the House of Representatives
+
+- Article 47: The Remuneration and Expenses of the House of Representatives
+
+- Article 48: Prohibition of Holding other Responsibilities
+
+- Article 49: The Privileges of the Members of the House of Representatives
+
+- Article 50: Loss of Membership of the House of Representatives
+
+- Article 51: Filling Vacant Seats in the House of Representatives
+
+- Article 52: Staff of the House of Representatives
+
+- Article 53: The Powers and Duties of the House of Representatives
+
+- Article 54: The Legislative Powers of the House of Representatives
+
+- Article 55: The Budget
+
+- Article 56: Dissolution of the House of Representatives
+
 ### Part Two
 
 #### The House of Elders
+
+- Article 57: General Provisions of the House
+
+- Article 58: The Election of the Members of the House and their Period of Office
+
+- Article 59: Eligibility for Election to Membership of the House of Elders
+
+- Article 60: The Total Membership of the House of Elders
+
+- Article 61: The Powers and Duties of the House of Elders
+
+- Article 62: The Inaugural Meeting of the House of Elders
+
+- Article 63: The Secretary of the House and Advisers
+
+- Article 64: The Rules of the House
 
 www.somalilandlaw.com
 
@@ -143,6 +195,36 @@ www.somalilandlaw.com
 [[START OF PAGE 4]]
 
 The Constitution of the Republic of Somaliland
+
+- Article 65: The Remuneration and Expenses of the House of Elders
+
+- Article 66: The Privileges of the Members of the House of Elders
+
+- Article 67: Resignation of Members of the House of Elders
+
+- Article 68: Loss of the Membership of the House of Elders
+
+- Article 69: The Dissolution of the House
+
+- Article 70: Prohibition of Holding other Responsibilities and of Private Gain
+
+- Article 71: Meetings and Sessions
+
+- Article 72: Vacant Seats in the House of Elders and Procedures for Filling them
+
+- Article 73: The Seat of the House of Elders
+
+- Article 74: The Introduction of Bills
+
+- Article 75: The Enactment, Promulgation and Implementation of Legislation
+
+- Article 76: Bills
+
+- Article 77: Procedures for Legislation
+
+- Article 78: Non-Financial Bills
+
+- Article 79: Accusations against the Members of the Houses
 
 ## CHAPTER THREE
 ### THE EXECUTIVE
@@ -161,7 +243,7 @@ The Constitution of the Republic of Somaliland
 
 - Article 85: Matters which the President and the Vice-President are not Allowed
 
-- Article  86:  Vacancy  of  Office  and  the  Procedure  for  the  President  and  the  VicePresident to Vacate their Office
+- Article 86: Vacancy of Office and the Procedure for the President and the Vice-President to Vacate their Office
 
 - Article 87: Salary and Emoluments
 
@@ -202,6 +284,26 @@ www.somalilandlaw.com
 [[START OF PAGE 5]]
 
 The Constitution of the Republic of Somaliland
+
+- Article 97: The Judicial Branch
+
+- Article 98: The Exclusive Powers of the Judiciary
+
+- Article 99: The Structure of the Judiciary
+
+- Article 100: The Courts
+
+- Article 101: The Supreme Court
+
+- Article 102: The Lower Courts
+
+- Article 103: The Procuracy
+
+- Article 104: The Courts and Procuracy of the armed Forces
+
+- Article 105: The Appointment of the Chairman and Judges of the Supreme Court
+
+- Article 106: The Relationship of the Judicial Bodies and the Ministry of Justice
 
 ## CHAPTER FIVE
 ### MISCELLANEOUS PROVISIONS
@@ -425,7 +527,7 @@ intertwined  at  the  base,  and  with  the  Arabic  words Bismillahi  Rahmani  
 
 ##### Article 9: Political System
 
-- The political system of the Republic of Somaliland shall be based on peace, cooperation, democracy and plurality of political parties.
+- The political system of the Republic of Somaliland shall be based on peace, co-operation, democracy and plurality of political parties.
 
 - The  number  of  political  parties  in  the  Republic  of  Somaliland  shall  not  exceed three (3).
 
@@ -1320,9 +1422,9 @@ Before the President and the Vice-President can assume office, they shall be swo
 
 - The  President  shall  not  be  absent  from  the  country  for  a  period  exceeding  45 ( forty five ) consecutive days unless the absence is for reasons of health.
 
-- All presents given, as a mark of respect for their office, to the President, the VicePresident, their spouses and the senior officers of the nation, who have a national standing, shall be the property of the nation.
+- All presents given, as a mark of respect for their office, to the President, the Vice-President, their spouses and the senior officers of the nation, who have a national standing, shall be the property of the nation.
 
-##### Article  86:  Vacancy  of  Office  and  the  Procedure  for  the  President  and  the  VicePresident to Vacate their Office
+##### Article  86:  Vacancy  of  Office  and  the  Procedure  for  the  President  and  the  Vice-President to Vacate their Office
 
 The office of President or Vice president may become vacant in the event of the one of the following:
 
@@ -1348,7 +1450,7 @@ The Constitution of the Republic of Somaliland
 
 ##### Article 87: Salary and Emoluments
 
-The salary, expenses and the public property to which the President and the VicePresident are entitled to shall be determined by law.
+The salary, expenses and the public property to which the President and the Vice-President are entitled to shall be determined by law.
 
 ##### Article 88: Term of Office
 
@@ -1358,7 +1460,7 @@ The salary, expenses and the public property to which the President and the Vice
 
 ##### Article 89: Procedure for Filling the Vacancy
 
-- In the event of the one of the circumstances set out in Article 86 happening to the President  within  the  first  three  years  of  his  five-year  term  of  office,  the  VicePresident  shall  act  as  a  temporary  President,  and  the  election  of  the  President shall be held within six months.
+- In the event of the one of the circumstances set out in Article 86 happening to the President within the first three years of his five-year term of office, the Vice-President shall act as a temporary President, and the election of the President shall be held within six months.
 
 - In the event of one of the circumstances set out in Article 86 happening to the President within the last two years of his 5 year term of office, the Vice-President shall assume the office of President for the remainder of the term , and shall then nominate a Vice-President from among the members of the House of Representatives  subject  to  the approval  of  the  two  Houses.    If  the  two  Houses refuse  to  confirm  the  nomination,  he  shall  nominate  another  member  ( of  the House of Representatives) within 30 days beginning from the date of the refusal of confirmation.
 
@@ -1490,7 +1592,7 @@ The Constitution of the Republic of Somaliland
 
 - Ministers and Deputy Ministers shall be appointed or dismissed by the President. Their  appointments  shall  be  presented  to  the  House  of  Representatives  whose quorum  shall  be  half  of  their  total  membership  plus  one,  and  the  House  shall confirm or reject the appointment, on a show of hands, by a simple majority vote.
 
-- The Minister or Deputy Minister so appointed shall be sworn into office, within thirty (30) days of the appointment being confirmed by the House of Representatives, by the Chairman of the Supreme Court, in the presence of the President  or,  in  the  latter's  absence  from  the  country  or  illness,  the  VicePresident.
+- The Minister or Deputy Minister so appointed shall be sworn into office, within thirty (30) days of the appointment being confirmed by the House of Representatives, by the Chairman of the Supreme Court, in the presence of the President or, in the latter's absence from the country or illness, the Vice-President.
 
 - Ministers  and  Deputy  Ministers  shall  not  hold  any  occupation  other  than  that accorded to them by the nation.
 
@@ -1508,7 +1610,7 @@ The Constitution of the Republic of Somaliland
 
 - A  Minister  or  Deputy  Minister  who  is  awaiting  the  handing  over  of  the responsibilities of office to his successor shall neither make any appointments nor enter into any agreements on behalf of his Ministry.
 
-##### Article  96:  Accusation  against  and  Impeachment  of  the  President,  the  VicePresident and the Ministers
+##### Article  96:  Accusation  against  and  Impeachment  of  the  President,  the  Vice-President and the Ministers
 
 - If the President and the Vice-President are accused of following crimes:
 
@@ -1648,20 +1750,14 @@ The Constitution of the Republic of Somaliland
 
 - The  Judicial  Commission  is  the  body  which  directs  the  administration  of  the Judiciary, and shall consist of the following:
 
- Two members selected from the public once every two years by the House of Representatives, one of whom to be chosen from among the intellectuals and the other from the businessmen, and
-
- two  members  to  be  selected  from  the  public  once  every  two  years  by  the House of Elders, one of whom to be chosen from among those who are well versed in the traditions and the other from the religious scholars.
-
-- The quorum for the meetings of the Commission is (7) members.
-
-- If the Chairman of the Supreme Court is unable to fulfil the duties of chairing the Commission because of reasons of health, holidays or on vacating his office, the member of the Commission who is the Supreme Court judge with the highest rank in  seniority,  shall  act  as  the  temporary  chairman.  The  Secretary  of  the  Judicial Commission shall be the Chief Registrar of the Supreme Court.
-
  The Chairman of the Supreme Court | Chairman
 --- | ---
  The two Supreme Court judges who rank highest in seniority | Member
  The Attorney General | Member
  The Director General of the Ministry of Justice | Member
  The Chairman of the Civil Service Agency | Member
+ Two members selected from the public once every two years by the House of Representatives, one of whom to be chosen from among the intellectuals and the other from the businessmen, and
+ two  members  to  be  selected  from  the  public  once  every  two  years  by  the House of Elders, one of whom to be chosen from among those who are well versed in the traditions and the other from the religious scholars.
 
 ##### Article 108: the Functions of the Judicial Commission
 
@@ -1899,7 +1995,7 @@ The Constitution of the Republic of Somaliland
 
 - Any  amendment  and/or  correction  of  an  Article  or  Articles  of  the  Constitution shall come  into  force after its approval by 2/3 (two-thirds) of the total membership of the House of Representatives and by 2/3 (two-thirds) of the total membership of the House of Elders in separate votes.
 
-- If  the  House  of  Representatives  does  not  resolve  by  a  majority  of  its  total membership that the amendment or the addition or both is necessary; or if  one of the two Houses does not approve of the amendment and/or correction by a 2/3  (two-thirds)  majority  of  its  total  membership,  the  proposal  shall  not  be  reintroduced during the following 12 (twelve) months.
+- If the House of Representatives does not resolve by a majority of its total membership that the amendment or the addition or both is necessary; or if one of the two Houses does not approve of the amendment and/or correction by a 2/3 (two-thirds) majority of its total membership, the proposal shall not be re-introduced during the following 12 (twelve) months.
 
 ##### Article 127: The Limits of Amendments or Corrections of the Constitution
 
@@ -1937,7 +2033,7 @@ www.somalilandlaw.com
 
 The Constitution of the Republic of Somaliland
 
-- This Constitution shall come into force when a referendum has been held and the outcome of the referendum is known. It shall, however, be implemented, in the interim,  for  a  period  of  three  years  (3)  beginning  from  the  date  when  it  is approved by the 3 rd Conference of the Somaliland Communities.
+- This Constitution shall come into force when a referendum has been held and the outcome of the referendum is known. It shall, however, be implemented, in the interim, for a period of three years (3) beginning from the date when it is approved by the 3rd Conference of the Somaliland Communities.
 
 - If  the  referendum  can  not  be  held  within  the  set  period,  the  interim  period  in which the Constitution is implemented may be increased by the Parliament (the Representatives and the Elders).
 
@@ -1953,39 +2049,37 @@ The Constitution of the Republic of Somaliland
 
 ( Note: All the spellings of the names are in Somali Script)
 
-- Sh. Cabdilaahi Sh. Call Jawhar
+- Sh. Cabdilaahi Sh. Cali Jawhar Chairman
 
-- Maxamed Axmed Cabdulle
+- Maxamed Axmed Cabdulle Deputy Chairman
 
-- Clqaadir X. lsmaaciil Jirde
+- C/qaadir X. Ismaaciil Jirde Secretary
 
 - Sh. Maxamuud Suufi Muxumed
 
-- Maxamed Siclid Maxamed (Gees)
+- Maxamed Siciid Maxamed (Gees)
 
-- Sh. Call Sh. Cabdi Guuleed
+- Sh. Cali Sh. Cabdi Guuleed
 
-- Faysal Xaajl Jaamac (Counsel)
+- Faysal Xaaji Jaamac (Counsel)
 
 - Cismaan Xusseen Khayre (Judge)
 
-- Prof. Faarax Cabdllaahi Farlid
+- Prof. Faarax Cabdillaahi Fariid
 
 - Prof. Maxamuud Nuur Caalin
 
 - Xasan Cabdi Xabad
 
-- Axmed Macaim Jaamac
+- Axmed Macalin Jaamac
 
 - Yuusuf Aadan Xuseen
 
-- Cismaan Cali Blue
+- Cismaan Cali Bile
 
 - Maxamed Jaamac Faarax
 
 #### The Constitution Revision Committee
-
-Chairman Deputy Chairman Secretary
 
 www.somalilandlaw.com
 
@@ -2001,19 +2095,19 @@ The Constitution of the Republic of Somaliland
 
 (Mud is short for Mudane 'the honorable' - a title used by members of Parliament)
 
-- Mud. Sicid Jaamac Cali,  Chairman
+- Mud. Siciid Jaamac Cali, Chairman
 
 - Mud. Axmed Nuur Aw Cali, Secretary
 
-- Mud. ClLaahi Sh. Xasan,
+- Mud. C/Laahi Sh. Xasan,
 
-- Mud. Siclid ClLaahi Yaasir
+- Mud. Siciid C/Laahi Yaasir
 
-- Mud. Call X. Cabdi Ducaale
+- Mud. Cali X. Cabdi Ducaale
 
-- Mud. Clraxmaan Axmed Areye
+- Mud. C/raxmaan Axmed Areye
 
-- Mud. Maxamed Clise Faarax
+- Mud. Maxamed Ciise Faarax
 
 - Mud. Yuusuf C/Laahi Cawaale
 
@@ -2035,19 +2129,19 @@ The Constitution of the Republic of Somaliland
 
 - Mud. Cabdi Daahir Camuud
 
-- Mud. C/Laahi lbraahim Kaarshe
+- Mud. C/Laahi Ibraahim Kaarshe
 
-- Mud. Axmed C/Laahi Cal
+- Mud. Axmed C/Laahi Cali
 
 - Mud. Faysal X. Jaamac
 
 - Mud. Maxamed Aadan Gabaloos
 
-- Mud. Cumar NuurAare
+- Mud. Cumar Nuur Aare
 
 - Mud. Yaasiin Faarax Ismaaciil
 
-- Mud, Yaasiin Maxamuud Xiir
+- Mud. Yaasiin Maxamuud Xiir
 
 - Mud. Cali Obsiiye Diiriye
 
@@ -2057,7 +2151,7 @@ The Constitution of the Republic of Somaliland
 
 - Mud Axmed Nuur Aw Cali, Secretary of the House of Elders
 
-- Mud C/ILaahi Sh. Xasan, member of the House of Elders
+- Mud C/Laahi Sh. Xasan, member of the House of Elders
 
 - Maxamed Xuseen Cismaan, Secretary of the House of Representative.
 
