@@ -26,45 +26,19 @@ PUBLISHED BY THE COMMISSIONER OF LAW REVISION, MALAYSIA UNDER THE AUTHORITY OF T
 
 # NATIONAL COUNCIL ON HIGHER EDUCATION ACT 1996
 
-Date  of  Royal  Assent
+Date of Royal Assent ... ... ... … … 30 May 1996
 
-... ... ... … … 30  May  1996
+Date of publication in the Gazette … … 6 June 1996
 
-Date  of  publication  in  the Gazette
+## PREVIOUS REPRINT
 
-… … 6  June  1996
-
-## PREVIOUS  REPRINT
-
-...
-
-...
-
-...
-
-...
-
-First  Reprint
-
-...
-
-2001
+First Reprint ... ... ... ... ... 2001
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 3
-
-Section
-
-- Short title
-
-- Interpretation
-
-- Committees
-
-- Council to  determine  its  own  procedure
 
 LAWS OF MALAYSIA
 
@@ -78,33 +52,43 @@ Act 546
 
 ### PRELIMINARY
 
+Section
+
+1. Short title
+
+2. Interpretation
+
 ### PART II
 
 ### NATIONAL COUNCIL ON HIGHER EDUCATION
 
-- Establishment of the Council
+3. Establishment of the Council
 
-- Members of the Council
+4. Members of the Council
 
-- Temporary exercise of function of Chairman
+5. Temporary exercise of function of Chairman
 
-- Duration of appointment
+6. Duration of appointment
 
-- Disqualification  from  being  a  member
+7. Disqualification from being a member
 
-- Cessation  from  being  a  member
+8. Cessation from being a member
 
-- Vacancy
+9. Vacancy
 
-- Member may resign by notice
+10. Member may resign by notice
 
-- Termination of appointment
+11. Termination of appointment
 
-- Functions of  the  Council
+12. Functions of the Council
 
 ### PART III
 
 ### GENERAL
+
+13. Committees
+
+14. Council to determine its own procedure
 
 [[END OF PAGE 3]]
 
@@ -114,17 +98,17 @@ Act 546
 
 Section
 
-- Meetings
+15. Meetings
 
-- Declaration of beneficial interest
+16. Declaration of beneficial interest
 
-- Minutes
+17. Minutes
 
-- Allowance
+18. Allowance
 
-- Grants-in-aid
+19. Grants-in-aid
 
-- Secretariat
+20. Secretariat
 
 [[END OF PAGE 4]]
 
@@ -152,19 +136,19 @@ BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong  with  the  advic
 
 ### Short title  and  commencement
 
-- This  Act  may  be  cited  as  the  National  Council  on  Higher Education Act 1996.
+1. This Act may be cited as the National Council on Higher Education Act 1996.
 
 ### Interpretation
 
-- In  this  Act,  unless  the  context  otherwise  requires-
+2. In this Act, unless the context otherwise requires—
 
-'Chairman'  means  the  Chairman  of  the  National  Council  on Higher Education;
+“Chairman” means the Chairman of the National Council on Higher Education;
 
-'chief  executive'  means  a  chief  executive  of  a  private  higher educational institution registered under the Private Higher Educational Institutions  Act  1996  [ Act  555 ];
+“chief executive” means a chief executive of a private higher educational institution registered under the Private Higher Educational Institutions Act 1996 [Act 555];
 
-'Council'  means  the  National  Council  on  Higher  Education established  under  section  3;
+“Council” means the National Council on Higher Education established under section 3;
 
-'higher  education'  means  education  provided  by  a  higher educational institution;
+“higher education” means education provided by a higher educational institution;
 
 [[END OF PAGE 5]]
 
@@ -176,25 +160,25 @@ Laws of Malaysia
 
 ACT 546
 
-'higher educational institution' means an educational institution whether or not established under any written law and including a private educational institution providing higher education leading to  the  award  of  a  certificate,  diploma,  degree  or  the  equivalent thereof;
+“higher educational institution” means an educational institution whether or not established under any written law and including a private educational institution providing higher education leading to the award of a certificate, diploma, degree or the equivalent thereof;
 
-'member' means a member of the National Council on Higher Education;
+“member” means a member of the National Council on Higher Education;
 
-'Minister'  means  the  Minister  responsible  for  Education;
+“Minister” means the Minister responsible for Education;
 
-'student'  means  a  person  receiving  education,  instruction  or training of any description from or in a higher educational institution;
+“student” means a person receiving education, instruction or training of any description from or in a higher educational institution;
 
-'University'  or  'University  College'  means-
+“University” or “University College” means—
 
-(a) a University or University College established under the Universities and University Colleges Act 1971 [ Act 30 ]; or
+(a) a University or University College established under the Universities and University Colleges Act 1971 [Act 30]; or
 
-(b) a private higher educational institution with the status of a  University  or  University  College,  a  branch  campus thereof and a branch campus of a foreign University or University College, established under the Private Higher Educational Institutions  Act  1996;
+(b) a private higher educational institution with the status of a University or University College, a branch campus thereof and a branch campus of a foreign University or University College, established under the Private Higher Educational Institutions Act 1996;
 
-'Vice-Chancellor'-
+“Vice-Chancellor”—
 
-(a) in  relation  to  a  University  means  the  Vice-Chancellor, President, Rector or Director of the University and includes any other person, by whatever name called, who has been appointed as the chief executive officer of the University; and
+(a) in relation to a University means the Vice-Chancellor, President, Rector or Director of the University and includes any other person, by whatever name called, who has been appointed as the chief executive officer of the University; and
 
-(b) in  relation  to  a  University  College  shall  be  read  as  a reference to the appropriate authority of the University College.
+(b) in relation to a University College shall be read as a reference to the appropriate authority of the University College.
 
 ## PART II
 
@@ -202,7 +186,7 @@ ACT 546
 
 ### Establishment of the Council
 
-- There  shall  be  established  a  Council  to  be  known  as  the 'National  Council  on  Higher  Education'.
+3. There shall be established a Council to be known as the “National Council on Higher Education”.
 
 [[END OF PAGE 6]]
 
@@ -214,7 +198,7 @@ National Council on Higher Education
 
 ### Members of the Council
 
-- The Council shall  consist  of  the  following  members:
+4. The Council shall consist of the following members:
 
 (a) the  Minister  as  Chairman;
 
@@ -236,11 +220,11 @@ National Council on Higher Education
 
 ### Temporary exercise of function of Chairman
 
-- The Secretary General of the Ministry of Education shall chair the  meeting  of  the  Council  in  the  absence  of  the  Chairman  or whenever the Chairman is for any reason unable to attend a meeting of  the  Council.
+5. The Secretary General of the Ministry of Education shall chair the meeting of the Council in the absence of the Chairman or whenever the Chairman is for any reason unable to attend a meeting of the Council.
 
 ### Duration of appointment
 
-- The appointment of a member of the Council under paragraphs 4 (g),  (h) and (i) shall  be  made  by  the  Minister  and,  subject  to sections 7 and 11, shall be for a period not exceeding three years and every member so appointed shall, on ceasing to be a member, be  eligible  for  reappointment.
+6. The appointment of a member of the Council under paragraphs 4(g), (h) and (i) shall be made by the Minister and, subject to sections 7 and 11, shall be for a period not exceeding three years and every member so appointed shall, on ceasing to be a member, be eligible for reappointment.
 
 [[END OF PAGE 7]]
 
@@ -264,7 +248,7 @@ ACT 546
 
 ### Cessation from being a member
 
-8. A member of the Council appointed  under  paragraphs  4 (g) , (h) and (i) shall  cease  to  be  a  member-
+8. A member of the Council appointed under paragraphs 4(g), (h) and (i) shall cease to be a member—
 
 (a) if  he  fails  to  attend  three  consecutive  meetings  of  the Council without leave of the Chairman of the Council; or
 
@@ -292,7 +276,7 @@ National Council on Higher Education
 
 ### Functions of  Council
 
-(1) The functions  of  the  Council  shall  be-
+12. (1) The functions of the Council shall be—
 
 (a) to  plan,  formulate  and  determine  national  policies  and strategies  for  the  development  of  higher  education;
 
@@ -328,31 +312,31 @@ Laws of Malaysia
 
 ACT 546
 
-### Committees
-
-13. (1) The  Council  may  establish  committees  as  it  thinks fit  for  the  purpose  of  assisting  the  Council  to  perform  its functions.
-
-(2) A committee shall consist of such number of persons as may be  appointed  by  the  Council  from  among  its  members.
-
-(3) Notwithstanding the provision of subsection (2), the Council may invite any person or a representative of any organization to advise a committee established under subsection (1) in the carrying out  of  its  functions.
-
-(4) A person appointed under subsection (2) or invited to be a member of a committee  under  subsection  (3)  may  be  paid  such allowances as may be determined by the Minister.
-
-### Council to determine its own procedure
-
-14. Subject  to  this  Act,  the  Council  shall  determine  its  own procedure.
-
-### Meetings
-
-15. (1) The Council shall meet as and when required to do so by the  Chairman  of  the  Council.
-
-(2) The Chairman and four other members of the Council shall form a quorum at any meeting of the Council.
-
-(3) If on any question to be determined by the Council there is an  equal  division  of  votes,  the  Chairman  or  member  presiding shall  have  a  casting  vote  in  addition  to  his  deliberative  vote.
-
 ## PART III
 
 ## GENERAL
+
+### Committees
+
+13. (1) The Council may establish committees as it thinks fit for the purpose of assisting the Council to perform its functions.
+
+(2) A committee shall consist of such number of persons as may be appointed by the Council from among its members.
+
+(3) Notwithstanding the provision of subsection (2), the Council may invite any person or a representative of any organization to advise a committee established under subsection (1) in the carrying out of its functions.
+
+(4) A person appointed under subsection (2) or invited to be a member of a committee under subsection (3) may be paid such allowances as may be determined by the Minister.
+
+### Council to determine its own procedure
+
+14. Subject to this Act, the Council shall determine its own procedure.
+
+### Meetings
+
+15. (1) The Council shall meet as and when required to do so by the Chairman of the Council.
+
+(2) The Chairman and four other members of the Council shall form a quorum at any meeting of the Council.
+
+(3) If on any question to be determined by the Council there is an equal division of votes, the Chairman or member presiding shall have a casting vote in addition to his deliberative vote.
 
 [[END OF PAGE 10]]
 
@@ -368,19 +352,19 @@ National Council on Higher Education
 
 ### Minutes
 
-- The  Council  shall  cause  minutes  of  all  its  meetings  to  be maintained and kept in a proper form.
+17. The Council shall cause minutes of all its meetings to be maintained and kept in a proper form.
 
 ### Allowance
 
-- A member of the Council or his representative may be paid such  allowances  for  attending  meetings  of  the  Council  as  the Minister  may  determine.
+18. A member of the Council or his representative may be paid such allowances for attending meetings of the Council as the Minister may determine.
 
 ### Grants-in-aid
 
-- For  the  purpose  of  enabling  the  Council  to  carry  out  its functions  under  this  Act,  the  Minister  may,  from  time  to  time, make grants-in-aid to the Council of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
+19. For the purpose of enabling the Council to carry out its functions under this Act, the Minister may, from time to time, make grants-in-aid to the Council of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
 
 ### Secretariat
 
-- There  shall  be  established  a  Secretariat  from  the  Higher Education Department of the Ministry of Education which shall assist  the  Council  in  carrying  out  its  functions.
+20. There shall be established a Secretariat from the Higher Education Department of the Ministry of Education which shall assist the Council in carrying out its functions.
 
 [[END OF PAGE 11]]
 
@@ -388,29 +372,27 @@ National Council on Higher Education
 
 12
 
-Laws of Malaysia
+Laws of Malaysia ACT 546
 
-- LAWS OF MALAYSIA
+LAWS OF MALAYSIA
 
-- Act 546
+Act 546
 
 # NATIONAL COUNCIL ON HIGHER EDUCATION ACT 1996
 
 ## LIST OF AMENDMENTS
 
-- Amending law Short  title In  force  from
+Amending law    Short title    In force from
 
-- NIL  -
-
-ACT 546
+– NIL –
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-13
+National Council on Higher Education
 
-Section National Council on Higher Education
+13
 
 LAWS OF MALAYSIA
 
@@ -420,9 +402,9 @@ Act 546
 
 ## LIST OF SECTIONS AMENDED
 
-Amending authority In  force  from
+Section    Amending authority    In force from
 
-- NIL  -
+– NIL –
 
 DICETAK OLEH
 
