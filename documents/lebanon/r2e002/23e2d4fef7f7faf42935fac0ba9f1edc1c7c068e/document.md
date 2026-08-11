@@ -1,8 +1,42 @@
 [[START OF PAGE 1]]
 
+# La Constitution Libanaise
+
 # TABLE DES MATIERES
 
-# La Constitution Libanaise
+TITRE I: DISPOSITIONS FONDAMENTALES ..............................................................................................................5
+PREAMBULE DE LA CONSTITUTION........................................................................................................................5
+CHAPITRE I: DE L’ETAT ET DU TERRITOIRE..............................................................................................................5
+Article 1.................................................................................................................................................................5
+Article 2.................................................................................................................................................................6
+Article 3.................................................................................................................................................................6
+Article 4.................................................................................................................................................................6
+Article 5.................................................................................................................................................................6
+CHAPITRE II: DES LIBANAIS, DE LEURS DROITS ET DE LEURS DEVOIRS....................................................................6
+Article 6.................................................................................................................................................................6
+Article 7.................................................................................................................................................................6
+Article 8.................................................................................................................................................................6
+Article 9.................................................................................................................................................................6
+Article 10...............................................................................................................................................................7
+Article 11...............................................................................................................................................................7
+Article 12...............................................................................................................................................................7
+Article 13...............................................................................................................................................................7
+Article 14...............................................................................................................................................................7
+Article 15...............................................................................................................................................................7
+TITRE II: DES POUVOIRS .........................................................................................................................................7
+CHAPITRE I: DISPOSITIONS GENERALES .................................................................................................................7
+Article 16...............................................................................................................................................................7
+Article 17...............................................................................................................................................................8
+Article 18...............................................................................................................................................................8
+Article 19...............................................................................................................................................................8
+Article 20...............................................................................................................................................................8
+Article 21...............................................................................................................................................................9
+CHAPITRE II: DU POUVOIR LEGISLATIF ...................................................................................................................9
+Article 22...............................................................................................................................................................9
+Article 23...............................................................................................................................................................9
+Article 24...............................................................................................................................................................9
+Article 25.............................................................................................................................................................10
+CHAPITRE III: DISPOSITIONS GENERALES ............................................................................................................. 10
 
 [[END OF PAGE 1]]
 
@@ -102,7 +136,42 @@ Article 66  ....................................................................
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+Article 67.............................................................................................................................................................25
+Article 68.............................................................................................................................................................25
+Article 69.............................................................................................................................................................25
+Article 70.............................................................................................................................................................25
+Article 71.............................................................................................................................................................26
+Article 72.............................................................................................................................................................26
+TITRE III................................................................................................................................................................ 26
+A. ELECTION DU PRESIDENT DE LA REPUBLIQUE .................................................................................................. 26
+Article 73.............................................................................................................................................................26
+Article 74.............................................................................................................................................................27
+Article 75.............................................................................................................................................................27
+B. REVISION DE LA CONSTITUTION ...................................................................................................................... 27
+Article 76.............................................................................................................................................................27
+Article 77.............................................................................................................................................................27
+C. FONCTIONNEMENT DE L’ASSEMBLEE............................................................................................................... 28
+Article 78.............................................................................................................................................................28
+Article 79.............................................................................................................................................................29
+TITRE IV: DISPOSITIONS DIVERSES ....................................................................................................................... 29
+A. HAUTE-COUR................................................................................................................................................... 29
+Article 80.............................................................................................................................................................29
+B. FINANCES......................................................................................................................................................... 30
+Article 81.............................................................................................................................................................30
+Article 82.............................................................................................................................................................30
+Article 83.............................................................................................................................................................30
+Article 84.............................................................................................................................................................30
+Article 85.............................................................................................................................................................30
+Article 86.............................................................................................................................................................31
+Article 87.............................................................................................................................................................32
+Article 88.............................................................................................................................................................32
+Article 89.............................................................................................................................................................32
+TITRE V: DISPOSITIONS RELATIVES A LA PUISSANCE MANDATAIRE ET A LA SOCIETE DES NATIONS..................... 32
+Article 90.............................................................................................................................................................32
+Article 91.............................................................................................................................................................32
+Article 92.............................................................................................................................................................32
+Article 93.............................................................................................................................................................33
+Article 94.............................................................................................................................................................33
 
 [[END OF PAGE 3]]
 
@@ -120,25 +189,25 @@ TITRE VI: DISPOSITIONS FINALES ET TRANSITOIRES .................................
 
 (Ce préambule de la Constitution a été ajouté par la loi constitutionnelle du 21/9/1991.)
 
-- Le  Liban  est  une  Patrie  souveraine,  libre  et  indépendante,  Patrie  définitive  pour  tous  ses  fils, unitaire dans son territoire, son peuple et ses institutions, à l'intérieur de ses frontières fixées dans cette Constitution et reconnues internationalement.
+a) Le Liban est une Patrie souveraine, libre et indépendante, Patrie définitive pour tous ses fils, unitaire dans son territoire, son peuple et ses institutions, à l’intérieur de ses frontières fixées dans cette Constitution et reconnues internationalement.
 
-- Le Liban est arabe dans son identité et son appartenance. Il est membre fondateur et actif de la Ligue des Etats Arabes et engagé par ses pactes; de même qu'il est membre fondateur et actif de l'Organisation des Nations-Unies, engagé par ses pactes et par la Déclaration Universelle des Droits  de  l'Homme.  L'Etat  concrétise  ces  principes  dans  tous  les  champs  et  domaines  sans exception.
+b) Le Liban est arabe dans son identité et son appartenance. Il est membre fondateur et actif de la Ligue des Etats Arabes et engagé par ses pactes; de même qu’il est membre fondateur et actif de l’Organisation des Nations-Unies, engagé par ses pactes et par la Déclaration Universelle des Droits de l’Homme. L’Etat concrétise ces principes dans tous les champs et domaines sans exception.
 
-- Le  Liban  est  une  république  démocratique,  parlementaire,  fondée  sur  le  respect  des  libertés publiques  et  en  premier  lieu  la  liberté  d'opinion  et  de  conscience,  sur  la  justice  sociale  et l'égalité dans les droits et obligations entre tous les citoyens sans distinction ni préférence.
+c) Le Liban est une république démocratique, parlementaire, fondée sur le respect des libertés publiques et en premier lieu la liberté d’opinion et de conscience, sur la justice sociale et l’égalité dans les droits et obligations entre tous les citoyens sans distinction ni préférence.
 
-- Le peuple est la source des pouvoirs et le détenteur de la souveraineté qu'il exerce à travers les institutions constitutionnelles.
+d) Le peuple est la source des pouvoirs et le détenteur de la souveraineté qu’il exerce à travers les institutions constitutionnelles.
 
-- Le  régime  est  fondé  sur  le  principe  de  la  séparation  des  pouvoirs,  leur  équilibre  et  leur coopération.
+e) Le régime est fondé sur le principe de la séparation des pouvoirs, leur équilibre et leur coopération.
 
-- Le régime économique est libéral et garantit l'initiative individuelle et la propriété privé.
+f) Le régime économique est libéral et garantit l’initiative individuelle et la propriété privé.
 
-- Le  développement  équilibré  des  régions,  culturellement,  socialement  et  économiquement constitue une assise fondamentale de l'unité de l'Etat et de la stabilité du régime.
+g) Le développement équilibré des régions, culturellement, socialement et économiquement constitue une assise fondamentale de l’unité de l’Etat et de la stabilité du régime.
 
-- La  suppression  du  confessionnalisme  politique  constitue  un  but  national  essentiel  pour  la réalisation duquel il est nécessaire d'œuvrer suivant un plan par étapes.
+h) La suppression du confessionnalisme politique constitue un but national essentiel pour la réalisation duquel il est nécessaire d’œuvrer suivant un plan par étapes.
 
-- Le territoire libanais est un territoire Un pour tous les libanais. Tout libanais a le droit de résider sur n'importe quelle partie de celui-ci et d'en jouir sous la protection de la souveraineté de la loi. Il n'est point de discrimination entre la population fondée sur une quelconque allégeance, ni de division, ou de partition ou d'implantation.
+i) Le territoire libanais est un territoire Un pour tous les libanais. Tout libanais a le droit de résider sur n’importe quelle partie de celui-ci et d’en jouir sous la protection de la souveraineté de la loi. Il n’est point de discrimination entre la population fondée sur une quelconque allégeance, ni de division, ou de partition ou d’implantation.
 
-- Aucune  légitimité  n'est  reconnue  à  un  quelconque  pouvoir  qui  contredise  le  pacte  de  vie commune.
+j) Aucune légitimité n’est reconnue à un quelconque pouvoir qui contredise le pacte de vie commune.
 
 ## CHAPITRE I: DE L'ETAT ET DU TERRITOIRE
 
@@ -150,11 +219,15 @@ Le  Liban  est  un  Etat  indépendant,  unitaire  et  souverain.  Ses  frontiè
 
 actuellement: Au Nord: de l'embouchure du Nahr-el-Kébir, une ligne suivant le cours de ce fleuve jusqu'à son point de jonction avec son affluent, le Ouadé Khaled à hauteur de Jisr-el-Kamar.
 
-A l'Est: la ligne de faîte séparant les vallées du Ouadé Khaled et de Nahr-el-Assi (Oronte) et passant par les villages de Meayssra, Harbana, Hait-Ebbech-Faissan à hauteur des villages de Brifa et de Brifa et de Matrabah, cette ligne suit la limite nord du caza de Baalbeck, en direction nord-est et en direction sudest, puis les limites est des cazas de Baalbeck, Békaa, Hasbaya et Rachaya. Au Sud: les limites sud actuelles des cazas de Tyr et de Marjayoun. Et à l'Ouest: la Méditerranée.
+A l'Est: la ligne de faîte séparant les vallées du Ouadé Khaled et de Nahr-el-Assi (Oronte) et passant par les villages de Meayssra, Harbana, Hait-Ebbech-Faissan à hauteur des villages de Brifa et de
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+Matrabah, cette ligne suit la limite nord du caza de Baalbeck, en direction nord-est et en direction sud-est, puis les limites est des cazas de Baalbeck, Békaa, Hasbaya et Rachaya.
+Au Sud: les limites sud actuelles des cazas de Tyr et de Marjayoun.
+Et à l’Ouest: la Méditerranée.
 
 ##### Article 1 (ancien):
 ---
@@ -213,7 +286,7 @@ L'arabe est la langue nationale officielle. Une loi déterminera les cas où il 
 
 ##### Article 11 (ancien):
 ---
-L'arabe est la langue nationale officielle dans toutes les administrations de l'Etat. Le français est
+L’arabe est la langue nationale officielle dans toutes les administrations de l’Etat. Le français est également langue officielle, une loi spéciale déterminera les cas où il en sera fait usage.
 
 #### Article 12
 
@@ -327,11 +400,11 @@ Pour  être  sénateur,  il  faut  être  libanais,  âgé  de  35  ans.  Il  n'
 
 La  Chambre des députés est composée de membres élus dont le nombre et les modalités d'élection seront  déterminés  par  les  lois  électorales  en  vigueur.  En  attendant  l'élaboration  par  la  Chambre  des députés d'une loi électorale sans contrainte confessionnelle, les sièges parlementaires seront répartis conformément aux règles suivantes :
 
-- A égalité entre chrétiens et musulmans.
+a) A égalité entre chrétiens et musulmans.
 
-- Proportionnellement entre les communautés de chacune de ces deux catégories.
+b) Proportionnellement entre les communautés de chacune de ces deux catégories.
 
-- Proportionnellement entre les régions.
+c) Proportionnellement entre les régions.
 
 A titre exceptionnel, et pour une seule fois, les sièges parlementaires vacants à la date de la publication de la présente loi ainsi que les sièges qui seront créés par la loi électorale, en application du principe de l'égalité entre chrétiens et musulmans, conformément à la Charte d'entente nationale, seront pourvus par nomination en une seule fois par le Gouvernement d'Union Nationale à la majorité des deux tiers. La loi électorale déterminera les modalités d'application de cet article.
 
@@ -395,6 +468,7 @@ Le membre de la Chambre représente toute la Nation. Aucun mandat impératif ne 
 ---
 Le membre du Parlement représente toute la Nation. Aucun mandat impératif ne peut lui être donné par ses électeurs ou par le pouvoir qui le nomme.
 ##### Article 27 modifié par la loi constitutionnelle du 17/10/1927:
+Le membre de la Chambre représente toute la Nation. Aucun mandat impératif ne peut lui être donné par ses électeurs ou par le pouvoir qui le nomme.
 
 #### Article 28 (Modifié par la loi constitutionnelle du 17/10/1927et par la loi constitutionnelle du 8/5/1929)
 
@@ -435,7 +509,8 @@ Les députés sont seuls compétents pour juger de la validité de leur mandat. 
 ---
 Chacune des deux Chambres est seule compétente pour juger de la validité du mandat de ses propres membres. Aucun mandat ne peut être invalidé qu'à la majorité des deux tiers des voix de l'assemblée entière.
 ##### Article 30 modifié par la loi constitutionnelle du 17/10/1927:
-Les députés nommés ont les même droits, garanties, immunités et obligations que les députés élus, et doivent remplir les mêmes conditions que les dits députés élus. Toutefois les députés élus sont
+Les députés nommés ont les même droits, garanties, immunités et obligations que les députés élus, et doivent remplir les mêmes conditions que les dits députés élus. Toutefois les députés élus sont seuls compétents pour juger de la validité du mandat des membres élus. Aucun mandat ne peut être invalidé qu’à la majorité des deux tiers des députés élus.
+##### Article 30 modifié par l’arrêté no. 129 du 18/3/1943:
 
 [[END OF PAGE 11]]
 
@@ -471,16 +546,15 @@ L'ouverture et la clôture des sessions ordinaires on lieu de plein droit aux da
 
 ##### Article 33 (ancien):
 ---
-L'ouverture et la clôture des sessions ordinaires on lieu de plein droit aux dates fixées par l'article
-32.Le Président de la République peut convoquer les Chambres en sessions extraordinaires. L'ouverture et la clôture des sessions extraordinaires sont fixées par décret. L'ordre du jour des sessions extraordinaires est fixé par la lettre de convocation. Le Président de la République est tenu
+L’ouverture et la clôture des sessions ordinaires on lieu de plein droit aux dates fixées par l’article 32. Le Président de la République peut convoquer les Chambres en sessions extraordinaires. L’ouverture et la clôture des sessions extraordinaires sont fixées par décret. L’ordre du jour des sessions extraordinaires est fixé par la lettre de convocation. Le Président de la République est tenu de convoquer les Chambres dans l’intervalle des sessions si la majorité des membres de l’une et de l’autre Chambre ou si les deux tiers des membres de la Chambre des députés le demande.
+##### Article 33 modifié par la loi constitutionnelle du 17/10/1927:
+L’ouverture et la clôture des sessions ordinaires ont lieu de plein droit aux dates fixées par l’article 32. Le Président de la République peut convoquer la Chambre en sessions extraordinaires. L’ouverture et la clôture des sessions extraordinaires sont fixées par décret. L’ordre du jour en est fixé par le
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-décret de convocation. Le Président de la République est tenu de convoquer la Chambres des
----
-députés, si la majorité absolue des membres composant légalement l'Assemblée le demande.
+décret de convocation. Le Président de la République est tenu de convoquer la Chambres des députés, si la majorité absolue des membres composant légalement l’Assemblée le demande.
 
 #### Article 34 (Modifié par la loi constitutionnelle du 17/10/1927)
 
@@ -496,7 +570,7 @@ Les discussions de la Chambre sont publiques. Toutefois, la Chambre se forme en 
 
 ##### Article 35 (ancien):
 ---
-Les discussions des Chambres sont publiques. Toutefois, chaque Chambre se forme en comité secret sur la demande du Gouvernement ou de cinq de ses membres. Elle décide ensuite si la discussion doit
+Les discussions des Chambres sont publiques. Toutefois, chaque Chambre se forme en comité secret sur la demande du Gouvernement ou de cinq de ses membres. Elle décide ensuite si la discussion doit être reprise en public sur le même sujet.
 
 #### Article 36
 
@@ -515,13 +589,13 @@ jours au moins après le dépôt qui en aura été fait sur le bureau de l'assem
 au ministre visé. La procédure est la même au sénat. A moins qu'un ministre ne pose lui-même la question de confiance, la responsabilité des ministres ne pourra être mise en cause par l'une ou
 l'autre Chambre que durant les sessions ordinaires.
 ##### Article 37 modifié par la loi constitutionnelle du 17/10/1927:
-Le droit, pour tout député, de mettre en cause la responsabilité des ministres est absolu durant les sessions ordinaires. Il ne pourra être délibéré et voté sur une proposition de cette nature que cinq
-jours communication
-au moins après le dépôt qui en aura été fait sur le bureau de l'assemblée et sa
+Le droit, pour tout député, de mettre en cause la responsabilité des ministres est absolu durant les sessions ordinaires. Il ne pourra être délibéré et voté sur une proposition de cette nature que cinq jours au moins après le dépôt qui en aura été fait sur le bureau de l’assemblée et sa communication
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+au ministre visé. A moins qu’un ministre ne pose lui-même la question de confiance, la responsabilité des ministres ne pourra être mise en cause par la Chambre que durant les sessions ordinaires.
 
 #### Article 38
 
@@ -565,18 +639,16 @@ En cas de vacance d'un siège à l'une ou à l'autre Chambre, il sera pourvu à 
 
 En cas de vacance d'un siège de la Chambre, il sera pourvu à la vacance dans un délai de deux mois par  voie  d'élection  ou  de  nomination  selon  le  cas.  Le  mandat  du  nouveau  membre  ne  durera  que jusqu'à  l'expiration  du  mandat  de  celui  qu'il  remplace.  Il  ne  sera  pas  pourvu  à  la  vacance  si  la Chambre est à moins de six mois de l'expiration de ses pouvoirs.
 
-##### Article 41 modifié par l'arrêté no. 129 du 18/3/1943:
+##### Article 41 modifié par l’arrêté no. 129 du 18/3/1943:
 
-En cas de vacance d'un siège de la Chambre, il sera pourvu à la vacance dans un délai de deux mois.
-
-au ministre visé. A moins qu'un ministre ne pose lui-même la question de confiance, la responsabilité des ministres ne pourra être mise en cause par la Chambre que durant les sessions ordinaires.
+En cas de vacance d’un siège de la Chambre, il sera pourvu à la vacance dans un délai de deux mois.
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-Le mandat du nouveau membre ne durera que jusqu'à l'expiration du mandat de celui qu'il remplace.
----
+Le mandat du nouveau membre ne durera que jusqu’à l’expiration du mandat de celui qu’il remplace.
+Il ne sera pas pourvu à la vacance si la Chambre est à moins de six mois de l’expiration de ses pouvoirs.
 
 #### Article 42 (Modifié par la loi  constitutionnelle  du  17/10/1927,  par  l'arrêté  no.  129  du  18/3/1943  et  par  la loi constitutionnelle du 21/1/1947)
 
@@ -610,49 +682,49 @@ A l'ouverture de la session d'Octobre, chaque Chambre réunie sous la présidenc
 
 [[START OF PAGE 16]]
 
+##### Article 44 modifié par la loi constitutionnelle du 17/10/1927:
+
+A l’ouverture de la session d’Octobre, la Chambre réunie sous la présidence de son doyen d’âge, les deux plus jeunes membres faisant fonction de secrétaires, élit séparément au scrutin secret et à la majorité absolue des suffrages exprimés, un Président, un Vice-Président et deux secrétaires. Au troisième tour de scrutin, la majorité relative suffit. En cas d’égalité de suffrages, le plus âgé est déclaré élu.
+
+##### Article 44 avant sa modification par la loi constitutionnelle du 21/9/1990:
+
+A la première séance qui suit chaque renouvellement et à l’ouverture de la session d’Octobre, la Chambre réunie sous la présidence de son doyen d’âge, les deux plus jeunes membres faisant fonction de secrétaires, élit séparément, au scrutin secret et à la majorité absolue des suffrages exprimés, un Président, un Vice-Président et deux secrétaires. Au troisième tour de scrutin, la majorité relative suffit. En cas d’égalité des suffrages, les plus âgé est déclaré élu.
+
 #### Article 45
 
 (Modifié par la loi constitutionnelle du 17/10/1927)
 
-Les membres de la Chambre ne votent que s'ils sont présents à la séance; le vote par procuration n'est pas admis.
+Les membres de la Chambre ne votent que s’ils sont présents à la séance; le vote par procuration n’est pas admis.
 
 ##### Article 45 (ancien):
 
-Les  membres  des  deux  Chambres  ne  votent  que  s'ils  sont  présents  à  la  séance;  le  vote  par procuration n'est pas admis.
+Les membres des deux Chambres ne votent que s’ils sont présents à la séance; le vote par procuration n’est pas admis.
 
 #### Article 46 (Modifié par la loi constitutionnelle du 17/10/1927)
 
-La Chambre a seule le droit de maintenir l'ordre dans son sein par l'intermédiaire de son Président.
+La Chambre a seule le droit de maintenir l’ordre dans son sein par l’intermédiaire de son Président.
 
 ##### Article 46 (ancien):
 
-Chacune des deux Chambres a seule le droit de maintenir l'ordre dans son sein par l'intermédiaire de son président.
+Chacune des deux Chambres a seule le droit de maintenir l’ordre dans son sein par l’intermédiaire de son président.
 
 #### Article 47 (Modifié par la loi constitutionnelle du 17/10/1927)
 
-Toute pétition à la Chambre ne peut être faite et présentée que par écrit. Il est interdit d'apporter des pétitions en personne ou à la barre.
+Toute pétition à la Chambre ne peut être faite et présentée que par écrit. Il est interdit d’apporter des pétitions en personne ou à la barre.
 
 ##### Article 47 (ancien):
 
-Toute pétition à l'une ou à l'autre des Chambres ne peut être faite et présentée que par écrit. Il est interdit d'apporter des pétitions en personne ou à la barre.
+Toute pétition à l’une ou à l’autre des Chambres ne peut être faite et présentée que par écrit. Il est interdit d’apporter des pétitions en personne ou à la barre.
 
 #### Article 48 (Modifié par la loi constitutionnelle du 17/10/1927)
 
-L'indemnité des membres de la Chambre est déterminée par une loi.
+L’indemnité des membres de la Chambre est déterminée par une loi.
 
 ##### Article 48 (ancien):
 
-L'indemnité des membres des deux Chambres est déterminée par une loi.
+L’indemnité des membres des deux Chambres est déterminée par une loi.
 
 ## CHAPITRE IV: DU POUVOIR EXECUTIF
-
-##### Article 44 modifié par la loi constitutionnelle du 17/10/1927:
-
-A l'ouverture de la session d'Octobre, la Chambre réunie sous la présidence de son doyen d'âge, les deux plus jeunes membres faisant fonction de secrétaires, élit séparément au scrutin secret et à la majorité  absolue  des  suffrages  exprimés,  un  Président,  un  Vice-Président  et  deux  secrétaires.  Au troisième  tour  de  scrutin,  la  majorité  relative  suffit.  En  cas  d'égalité  de  suffrages,  le  plus  âgé  est déclaré élu.
-
-##### Article 44 avant sa modification par la loi constitutionnelle du 21/9/1990:
-
-A  la  première  séance  qui  suit  chaque  renouvellement  et  à  l'ouverture  de  la  session  d'Octobre,  la Chambre  réunie  sous  la  présidence  de  son  doyen  d'âge,  les  deux  plus  jeunes  membres  faisant fonction  de  secrétaires,  élit  séparément,  au  scrutin  secret  et  à  la  majorité  absolue  des  suffrages exprimés,  un  Président,  un  Vice-Président  et  deux  secrétaires.  Au  troisième  tour  de  scrutin,  la majorité relative suffit. En cas d'égalité des suffrages, les plus âgé est déclaré élu.
 
 [[END OF PAGE 16]]
 
@@ -668,14 +740,13 @@ constitutionnelle du 21/1/1947 et par la loi constitutionnelle du 21/9/1990)
 Le Président de la République est le Chef de l'Etat et le symbole de l'unité de la Patrie. Il veille au respect de la Constitution et à la sauvegarde de l'indépendance du Liban, de son unité et de l'intégrité de son territoire conformément aux dispositions de la Constitution. Il préside le Conseil Supérieur de Défense. Il est  le  commandant  en  chef  des  forces  armées  lesquelles  sont  soumises  à  l'autorité  du  Conseil  des ministres. Le Président de la République est élu, au premier tour, au scrutin secret à la majorité des deux tiers des suffrages par la Chambre des députés. Aux tours de scrutins suivants, la majorité absolue suffit. La durée de  la  magistrature  du  Président  est  de  six  ans.  Il  ne  pourra  être  réélu  qu'après  un  intervalle  de  six années. Nul n'est éligible à la présidence de la République s'il ne remplit les conditions requises pour être éligible à la Chambre des députés et qui ne font pas obstacle à la capacité d'être candidat. Les  magistrats  et  les  fonctionnaires  de  la  première  catégorie  ou  son  équivalent  dans  toutes  les administrations  publiques,  établissements  publics  et  toute  autre  personne  morale  de  droit  public  ne peuvent être élus au cours de l'exercice de leur fonction et durant les deux années qui suivent la date de leur démission et de la cessation effective de l'exercice de leur fonction ou de la date de leur mise à la retraite.
 
 ##### Article 49 (ancien):
-Le Président de la République est élu au scrutin secret à la majorité des deux tiers des suffrages, par le Sénat et la Chambre des députés, réunis en Congrès. Après le premier tour de scrutin, la majorité absolue suffit. La durée de la magistrature du Président est de trois ans; il n'est rééligible troisième fois qu'après un intervalle de trois années. Nul n'est éligible à la présidence de République s'il ne remplit les conditions requises pour être éligible à la Chambre des députés.
+Le Président de la République est élu au scrutin secret à la majorité des deux tiers des suffrages, par le Sénat et la Chambre des députés, réunis en Congrès. Après le premier tour de scrutin, la majorité absolue suffit. La durée de la magistrature du Président est de trois ans; il n’est rééligible une troisième fois qu’après un intervalle de trois années. Nul n’est éligible à la présidence de la République s’il ne remplit les conditions requises pour être éligible à la Chambre des députés.
 ##### Article 49 modifié par la loi constitutionnelle du 17/10/1927:
-Le Président de la République est élu au scrutin secret à la majorité des deux tiers des suffrages, la Chambre des députés. Après le premier tour de scrutin, la majorité absolue suffit. La durée de magistrature du Président est de trois ans; il n'est rééligible une troisième fois qu'après un de trois années. Nul n'est éligible à la présidence de la République s'il ne remplit les requises pour être éligible à la Chambre des députés.
----
-une la par la intervalle conditions
+Le Président de la République est élu au scrutin secret à la majorité des deux tiers des suffrages, par la Chambre des députés. Après le premier tour de scrutin, la majorité absolue suffit. La durée de la magistrature du Président est de trois ans; il n’est rééligible une troisième fois qu’après un intervalle de trois années. Nul n’est éligible à la présidence de la République s’il ne remplit les conditions requises pour être éligible à la Chambre des députés.
 ##### Article 49 modifié par la loi constitutionnelle du 8/5/1929:
 Le Président de la République est élu au scrutin secret à la majorité des deux tiers des suffrages par la Chambre des députés. Après le premier tour de scrutin, la majorité absolue suffit. La durée de la magistrature du Président est de six ans. Il ne pourra être réélu qu'après un intervalle de six années. Nul n'est éligible à la présidence de la République s'il ne remplit les conditions requises pour être éligible à la Chambre des députés. Paragraphe transitoire : Le Président actuel de la République ne bénéficie pas du présent article, en tant qu'il porte la durée du mandat présidentiel de trois ans à six ans. En conséquence, les fonctions du Président actuel cesseront le 26 mai 1932.Ce paragraphe a été abrogé par la loi constitutionnelle du 21/1/1947.
 ##### Article 49 modifié par la loi constitutionnelle du 22/5/1948 tendant à la réélection du Président de la République (Cheikh Béchara El Khoury) pour une deuxième fois:
+Contrairement aux dispositions de l’article 49 de la Constitution et à titre exceptionnel, il est possible de réélire l’actuel Président de la République une seconde fois. Il ne peut être réélu une troisième fois qu’après un délai de six ans suivant l’expiration de son second mandat.
 
 [[END OF PAGE 17]]
 
@@ -740,29 +811,29 @@ chaque année, ne sont définitifs qu'après avoir été votés par la Chambre.
 
 #### Article 53 (Modifié par la loi constitutionnelle du 17/10/1927, par la loi constitutionnelle du 21/1/1947 et par la loi constitutionnelle du 21/9/1990)
 
-- Le Président de la République préside le Conseil des ministres lorsqu'il le désire sans prendre part au vote.
+1) Le Président de la République préside le Conseil des ministres lorsqu’il le désire sans prendre part au vote.
 
-- Le Président de la République nomme le Chef du gouvernement désigné, après consultation du Président de la Chambre des députés, sur la base de consultations parlementaires impératives dont il l'informe officiellement des résultats.
+2) Le Président de la République nomme le Chef du gouvernement désigné, après consultation du Président de la Chambre des députés, sur la base de consultations parlementaires impératives dont il l’informe officiellement des résultats.
 
-- Il promulgue seul le décret de nomination du Président du Conseil des ministres.
+3) Il promulgue seul le décret de nomination du Président du Conseil des ministres.
 
-- Il  promulgue, en accord avec le Président du Conseil des ministres, le décret de formation du Gouvernement, et ceux portant acceptation de la démission des ministres ou leur révocation.
+4) Il promulgue, en accord avec le Président du Conseil des ministres, le décret de formation du Gouvernement, et ceux portant acceptation de la démission des ministres ou leur révocation.
 
-- Il  promulgue  seul  les  décrets  portant  acceptation  de  la  démission  du  Gouvernement  ou  le considérant comme démissionnaire.
+5) Il promulgue seul les décrets portant acceptation de la démission du Gouvernement ou le considérant comme démissionnaire.
 
-- Il  transmet à la Chambre des députés les projets de loi qui lui sont soumis par le Conseil des ministres.
+6) Il transmet à la Chambre des députés les projets de loi qui lui sont soumis par le Conseil des ministres.
 
-- Il accrédite les ambassadeurs et accepte leur accréditation.
+7) Il accrédite les ambassadeurs et accepte leur accréditation.
 
-- Il préside les solennités officielles et décerne par décret les décorations de l'Etat.
+8) Il préside les solennités officielles et décerne par décret les décorations de l’Etat.
 
-- Il accorde la grâce par décret. L'amnistie ne peut être accordée que par une loi.
+9) Il accorde la grâce par décret. L’amnistie ne peut être accordée que par une loi.
 
-- Il adresse, en cas de nécessité, des messages à la Chambre des députés.
+10) Il adresse, en cas de nécessité, des messages à la Chambre des députés.
 
-- Il soumet n'importe quel sujet urgent au Conseil des ministres, hors de l'ordre du jour.
+11) Il soumet n’importe quel sujet urgent au Conseil des ministres, hors de l’ordre du jour.
 
-- Il  convoque,  en  accord  avec  le  Chef  du  gouvernement,  le  Conseil  des  ministres  à  titre exceptionnel chaque fois que cela lui paraît nécessaire.
+12) Il convoque, en accord avec le Chef du gouvernement, le Conseil des ministres à titre exceptionnel chaque fois que cela lui paraît nécessaire.
 
 ##### Article 53 (ancien):
 
@@ -802,18 +873,13 @@ intéressés. Il est fait exception pour la nomination et la révocation des min
 Il appartient au Président de la République, dans les cas énumérés aux articles 65 et 77 de la présente Constitution,  de  demander  au  Conseil  des  ministres  la  dissolution  de  la  Chambre  des  députés  avant l'expiration  légale  de  son  mandat.  Si  le  Conseil  des  ministres  décide  suite  à  cela  la  dissolution  de  la Chambre, le Président de la République promulgue le décret de dissolution. Dans ce cas, les collèges électoraux  se  réunissent  conformément  à  l'article  25  de  la  Constitution  et  la  nouvelle  Chambre  est convoquée dans les quinze jours qui suivent la proclamation des résultats des élections. Le  bureau  de  la  Chambre  continue  à  expédier  les  affaires  courantes  jusqu'à  l'élection  de  la  nouvelle Chambre. Au cas où les  élections  n'ont  pas  lieu  dans  le  délai  fixé  à  l'article  25  de  la  Constitution,  le  décret  de dissolution est considéré comme nul et non avenu et la Chambre des députés continue à exercer ses pouvoirs conformément aux dispositions de la Constitution.
 
 ##### Article 55 (ancien):
-Le Président de la conforme du Sénat dissoudre la Chambre le Président de la Le refus de la convocations faites paralyser l'action du
----
-République peut, par décret motivé pris en Conseil des ministres, et sur l'avis exprimé à la majorité des trois quarts des membres composant cette Assemblée, des députés, avant l'expiration légale de son mandat. Les motifs pour lesquels République peut dissoudre la Chambre sont: Chambre de se réunir en session ordinaire ou extraordinaire nonobstant deux successivement par le Chef de l'Etat. Le rejet du budget dans l'intention de gouvernement. Le fait de prendre des décisions susceptibles de soulever le pays contre le mandat ou la constitution. En ce cas, les collèges électoraux sont réunis comme il est prévu à l'article 30 et la nouvelle Chambre est convoquée dans les dix jours qui suivent la proclamation des résultats des élections. Une deuxième dissolution ne peut pas avoir lieu pour le même motif que la première.
+Le Président de la République peut, par décret motivé pris en Conseil des ministres, et sur l’avis conforme du Sénat exprimé à la majorité des trois quarts des membres composant cette Assemblée, dissoudre la Chambre des députés, avant l’expiration légale de son mandat. Les motifs pour lesquels le Président de la République peut dissoudre la Chambre sont:
+Le refus de la Chambre de se réunir en session ordinaire ou extraordinaire nonobstant deux convocations faites successivement par le Chef de l’Etat. Le rejet du budget dans l’intention de paralyser l’action du gouvernement. Le fait de prendre des décisions susceptibles de soulever le pays contre le mandat ou la constitution. En ce cas, les collèges électoraux sont réunis comme il est prévu à l’article 30 et la nouvelle Chambre est convoquée dans les dix jours qui suivent la proclamation des résultats des élections. Une deuxième dissolution ne peut pas avoir lieu pour le même motif que la première.
 ##### Article 55 tel que modifié par la loi constitutionnelle du 17/10/1927:
-Le Président de la République peut, par décret motivé, pris sur l'avis conforme du Conseil des ministres, dissoudre la Chambre des députés, avant l'expiration légale de son mandat. Les motifs pour lesquels le Président de la République peut dissoudre la Chambre des députés sont:
-refus de la Chambre de se réunir en session ordinaire ou extraordinaire nonobstant deux faites successivement par le Chef de l'Etat. Le rejet en bloc du budget dans l'intention paralyser l'action du gouvernement. Le fait de prendre des décisions susceptibles de soulever le contre le mandat. En ce cas, les collèges électoraux sont réunis comme il est prévu à l'article 30 et la nouvelle Chambre est convoquée dans les quinze jours qui suivent la proclamation des résultats
+Le Président de la République peut, par décret motivé, pris sur l’avis conforme du Conseil des ministres, dissoudre la Chambre des députés, avant l’expiration légale de son mandat. Les motifs pour lesquels le Président de la République peut dissoudre la Chambre des députés sont:
+Le refus de la Chambre de se réunir en session ordinaire ou extraordinaire nonobstant deux convocations faites successivement par le Chef de l’Etat. Le rejet en bloc du budget dans l’intention de paralyser l’action du gouvernement. Le fait de prendre des décisions susceptibles de soulever le pays contre le mandat. En ce cas, les collèges électoraux sont réunis comme il est prévu à l’article 30 et la nouvelle Chambre est convoquée dans les quinze jours qui suivent la proclamation des résultats des élections.
 ##### Article 55 avant sa modification par la loi constitutionnelle du 21/9/1990 :
-Le Président de la République peut, par décret motivé, pris sur l'avis conforme du Conseil ministres, dissoudre la Chambre des députés avant l'expiration légale de son mandat. En ce cas, collèges électoraux sont réunis comme il est prévu à l'article 25 et la nouvelle Chambre
-des les convoquée dans les quinze jours qui suivent la proclamation des résultats des élections.
-Le convocations de pays
-des élections.
-est
+Le Président de la République peut, par décret motivé, pris sur l’avis conforme du Conseil des ministres, dissoudre la Chambre des députés avant l’expiration légale de son mandat. En ce cas, les collèges électoraux sont réunis comme il est prévu à l’article 25 et la nouvelle Chambre est convoquée dans les quinze jours qui suivent la proclamation des résultats des élections.
 
 #### Article 56 (Modifié par la loi constitutionnelle du 17/10/1927 et par la loi constitutionnelle du 21/9/1990)
 
@@ -838,7 +904,7 @@ exécutoire de plein droit et doit être publiée.
 ---
 Dans le délai fixé pour la promulgation, le Président de la République peut demander une nouvelle délibération qui ne peut être refusée. Quand le Président de la République use de ce droit, il n'est tenu de promulguer une loi qui si cette loi a été votée au Sénat et à la Chambre des députés, après la seconde délibération, par la majorité absolue des membres de l'une et de l'autre Assemblée; les sièges vacants par décès ou démission ne sont pas comptés.
 ##### Article 57 avant sa modification par la loi constitutionnelle du 21/9/1990:
-Dans le délai fixé pour la promulgation, le Président de la République peut demander une seule fois,
+Dans le délai fixé pour la promulgation, le Président de la République peut demander une seule fois, une nouvelle délibération qui ne peut lui être refusée. Quand le Président de la République use de ce droit, il n’est tenu de promulguer une loi que si cette loi a été votée à la Chambre en seconde délibération, par la majorité absolue des membres composant légalement cette Assemblée.
 
 #### Article 58 (Modifié par la loi constitutionnelle du 17/10/1927et par la loi constitutionnelle du 21/9/1990)
 
@@ -876,9 +942,7 @@ Le Président de la République n'est responsable des actes de sa fonction que d
 
 ##### Article 60 (ancien):
 ---
-Le Président de la République n'est responsable des actes de sa fonction que dans le cas de violation
-de la Constitution ou de haute trahison; sa responsabilité pour les délits de droit commun est soumise aux lois ordinaires. Pour ces délits comme pour la violation de la Constitution et pour la
-haute trahison, il ne peut être mis en accusation que par la Chambre des députés décidant à la majorité des trois quarts des membres de l'Assemblée entière; il ne peut être jugé que par la Haute- Cour prévue à l'article 80. Le ministère public près la Haute-Cour, est exercé par deux magistrats
+Le Président de la République n’est responsable des actes de sa fonction que dans le cas de violation de la Constitution ou de haute trahison; sa responsabilité pour les délits de droit commun est soumise aux lois ordinaires. Pour ces délits comme pour la violation de la Constitution et pour la haute trahison, il ne peut être mis en accusation que par la Chambre des députés décidant à la majorité des trois quarts des membres de l’Assemblée entière; il ne peut être jugé que par la Haute-Cour prévue à l’article 80. Le ministère public près la Haute-Cour, est exercé par deux magistrats nommés chaque année par la Cour de cassation en Assemblée générale.
 
 #### Article 61
 
@@ -906,21 +970,21 @@ La  dotation  du  Président  de  la  République  est  déterminée  par  la  l
 
 Le Président du Conseil des ministres est le Chef du gouvernement. Il le représente et s'exprime en son nom. Il est considéré comme responsable de l'exécution de la politique générale tracée par le Conseil des ministres. Il exerce les prérogatives suivantes:
 
-- Il  préside  le  Conseil  des  ministres,  et  est  de  droit  Vice-président  du  Conseil  Supérieur  de Défense.
+1) Il préside le Conseil des ministres, et est de droit Vice-président du Conseil Supérieur de Défense.
 
-- Il  procède  aux  consultations  parlementaires  en  vue  de  former  le  Gouvernement  dont  il contresigne avec le Président de la République le décret de formation du gouvernement. Dans le délai  de  trente  jours  suivant  la  parution  de  ce  décret,  le  Gouvernement  doit  présenter  à  la Chambre des députés sa déclaration ministérielle en vue d'obtenir la confiance. Le Gouvernement ne peut exercer ses prérogatives avant l'obtention de la confiance ni après sa démission  ni  après  avoir  été  considéré  comme  démissionnaire,  que  dans  le  sens  étroit  de l'expédition des affaires courantes.
+2) Il procède aux consultations parlementaires en vue de former le Gouvernement dont il contresigne avec le Président de la République le décret de formation du gouvernement. Dans le délai de trente jours suivant la parution de ce décret, le Gouvernement doit présenter à la Chambre des députés sa déclaration ministérielle en vue d’obtenir la confiance. Le Gouvernement ne peut exercer ses prérogatives avant l’obtention de la confiance ni après sa démission ni après avoir été considéré comme démissionnaire, que dans le sens étroit de l’expédition des affaires courantes.
 
-- Il expose la politique générale du Gouvernement devant la Chambre des députés.
+3) Il expose la politique générale du Gouvernement devant la Chambre des députés.
 
-- Il  contresigne  avec  le  Président  de  la  République  tous  les  décrets  à  l'exception  de  celui  le désignant Chef du gouvernement ainsi que le décret acceptant la démission du Gouvernement ou le considérant comme démissionnaire.
+4) Il contresigne avec le Président de la République tous les décrets à l’exception de celui le désignant Chef du gouvernement ainsi que le décret acceptant la démission du Gouvernement ou le considérant comme démissionnaire.
 
-- Il  signe  le  décret  de  convocation  à  l'ouverture  d'une  session  extraordinaire,  les  décrets promulguant les lois ou les renvoyant pour seconde lecture.
+5) Il signe le décret de convocation à l’ouverture d’une session extraordinaire, les décrets promulguant les lois ou les renvoyant pour seconde lecture.
 
-- Il invite le Conseil des ministres à se réunir et établit son ordre du jour. Il informe préalablement le  Président  de  la  République  des  sujets  y  figurant  ainsi  que  des  sujets  urgents  qui  seront discutés.
+6) Il invite le Conseil des ministres à se réunir et établit son ordre du jour. Il informe préalablement le Président de la République des sujets y figurant ainsi que des sujets urgents qui seront discutés.
 
-- Il  suit  les  activités  des  administrations  et  des  établissements  publics,  assure  la  coordination entre  les  ministres  et  donne  les  directives  générales  en  vue  de  garantir  la  bonne  marche  du travail.
+7) Il suit les activités des administrations et des établissements publics, assure la coordination entre les ministres et donne les directives générales en vue de garantir la bonne marche du travail.
 
-- Il  tient des réunions de travail avec les parties concernées dans l'Etat en présence du ministre compétent.
+8) Il tient des réunions de travail avec les parties concernées dans l’Etat en présence du ministre compétent.
 
 ##### Article 64 (ancien):
 ---
@@ -936,15 +1000,15 @@ Les ministres ont la direction supérieure de tous les services de l'Etat qui re
 
 Le pouvoir exécutif est confié au Conseil des ministres qui constitue le pouvoir auquel sont soumises les forces armées. Il exerce, notamment, les prérogatives suivantes:
 
-- Il établit la politique générale de l'Etat dans tous les domaines, élabore les projets de lois et les décrets réglementaires et prend les décisions nécessaires pour leur mise en application.
+1) Il établit la politique générale de l’Etat dans tous les domaines, élabore les projets de lois et les décrets réglementaires et prend les décisions nécessaires pour leur mise en application.
 
-- Il veille à l'exécution des lois et règlements, et supervise les activités de tous les organismes de l'état sans exception: administrations et établissements civils, militaires et sécuritaires.
+2) Il veille à l’exécution des lois et règlements, et supervise les activités de tous les organismes de l’état sans exception: administrations et établissements civils, militaires et sécuritaires.
 
-- Il  nomme  les  fonctionnaires  de  l'Etat  et  met  fin  à  leurs  services.  Il  accepte  leur  démission conformément à la loi.
+3) Il nomme les fonctionnaires de l’Etat et met fin à leurs services. Il accepte leur démission conformément à la loi.
 
-- Il dissout à la demande du Président de la République la Chambre des députés si celle-ci, sans raison de force majeure, s'abstient de se réunir durant toute une session ordinaire ou tout au long de deux sessions extraordinaires successives dont la durée de chacune n'est pas inférieure à un mois, ou en cas de rejet du budget dans son ensemble dans le but de paralyser l'action du Gouvernement. Ce droit ne peut être exercé une deuxième fois pour les mêmes raisons qui ont entraîné la dissolution de la Chambre la première fois.
+4) Il dissout à la demande du Président de la République la Chambre des députés si celle-ci, sans raison de force majeure, s’abstient de se réunir durant toute une session ordinaire ou tout au long de deux sessions extraordinaires successives dont la durée de chacune n’est pas inférieure à un mois, ou en cas de rejet du budget dans son ensemble dans le but de paralyser l’action du Gouvernement. Ce droit ne peut être exercé une deuxième fois pour les mêmes raisons qui ont entraîné la dissolution de la Chambre la première fois.
 
-- Le Conseil des ministres se réunit périodiquement en un siège qui lui est propre. Le Président de la République en préside les réunions lorsqu'il y assiste. Le quorum légal pour ses réunions est des  deux  tiers  de  ses  membres.  Les  décisions  y  sont  prises  par  consensus,  ou  si  cela  s'avère impossible,  par  vote,  et  les  décisions  sont  alors  prises  à  la  majorité  des  présents.  Quant  aux questions  fondamentales  elles  requièrent  l'approbation  des  deux  tiers  des  membres  du Gouvernement  tel  que  le  nombre  en  a  été  fixé  dans  le  décret  de  formation.  Les  questions suivantes sont considérées comme fondamentales:
+5) Le Conseil des ministres se réunit périodiquement en un siège qui lui est propre. Le Président de la République en préside les réunions lorsqu’il y assiste. Le quorum légal pour ses réunions est des deux tiers de ses membres. Les décisions y sont prises par consensus, ou si cela s’avère impossible, par vote, et les décisions sont alors prises à la majorité des présents. Quant aux questions fondamentales elles requièrent l’approbation des deux tiers des membres du Gouvernement tel que le nombre en a été fixé dans le décret de formation. Les questions suivantes sont considérées comme fondamentales:
 
 La  révision  de  la  Constitution,  la  proclamation  de  l'état  d'urgence  et  sa  levée,  la  guerre  et  la  paix,  la mobilisation générale, les accords et traités internationaux, le budget général de l'Etat, Les programmes de développement globaux et à long terme, la nomination des fonctionnaires de la première catégorie ou équivalent, la révision des circonscriptions administratives, la dissolution de la Chambre des députés, la  loi  électorale,  la  loi  sur  la  nationalité,  les  lois  concernant  le  statut  personnel  et  la  révocation  des ministres.
 
@@ -992,23 +1056,23 @@ Lorsque,  conformément  à  l'article  37,  l'une  des  Chambres  déclare  n'a
 
 #### Article 69 (Modifié par la loi constitutionnelle du 17/10/1927, abrogé par la loi constitutionnelle du 8/5/1929 et institué par la loi constitutionnelle du 21/9/1990)
 
-- Le Gouvernement est considéré comme démissionnaire dans les cas suivants:
+1) Le Gouvernement est considéré comme démissionnaire dans les cas suivants:
 
-- Si le Chef du gouvernement démissionne.
+a) Si le Chef du gouvernement démissionne.
 
-- S'il perd plus que le tiers du nombre de ses membres tel qu'il a été fixé dans le décret de formation.
+b) S’il perd plus que le tiers du nombre de ses membres tel qu’il a été fixé dans le décret de formation.
 
-- En cas de décès du Chef du gouvernement.
+c) En cas de décès du Chef du gouvernement.
 
-- Au début du mandat du Président de la République.
+d) Au début du mandat du Président de la République.
 
-- Au début du mandat de la Chambre des députés.
+e) Au début du mandat de la Chambre des députés.
 
-- Lorsque la Chambre des députés lui retire sa confiance de sa propre initiative ou suite à une question de confiance.
+f) Lorsque la Chambre des députés lui retire sa confiance de sa propre initiative ou suite à une question de confiance.
 
-- La révocation d'un ministre intervient par décret pris par le Président de la République et le Chef du gouvernement après l'approbation des deux tiers des membres du Gouvernement.
+2) La révocation d’un ministre intervient par décret pris par le Président de la République et le Chef du gouvernement après l’approbation des deux tiers des membres du Gouvernement.
 
-- Lorsque  le  Gouvernement  démissionne  ou  est  considéré  comme  démissionnaire,  la  Chambre des députés devient de plein droit en session extraordinaire jusqu'à la formation d'un nouveau gouvernement et l'obtention de la confiance.
+3) Lorsque le Gouvernement démissionne ou est considéré comme démissionnaire, la Chambre des députés devient de plein droit en session extraordinaire jusqu’à la formation d’un nouveau gouvernement et l’obtention de la confiance.
 
 ##### Article 69 (ancien):
 
@@ -1069,6 +1133,8 @@ la République (Cheikh Béchara El Khoury) pour une deuxième fois:
 ---
 Contrairement aux dispositions de l'article 73 de la Constitution et de manière provisoire, la Chambre des députés se réunit suite à la convocation de son Président en vue de procéder à l'élection du Président de la République au cours du mois qui suit la publication de cette loi constitutionnelle. Le mandat du Président élu commence à l'expiration de celui de l'actuel Président.
 ##### Article 73 modifié par la loi constitutionnelle du 24/4/1976 tendant à rapprocher la date de l'élection du Président de la République (Elias Sarkis):
+
+Un mois au moins avant l'expiration du mandat du Président de la République et six mois au plus, la Chambre se réunit, suite à une convocation de son Président, en vue d'élire le nouveau Président. Au cas où la Chambre n'est pas convoquée à cette fin, elle se réunit de plein droit au dixième jour qui précède la fin du mandat du Président. L'effet de cette modification expire le 23/9/1976.
 
 #### Article 74 (Modifié par la loi constitutionnelle du 17/10/1927)
 
@@ -1134,6 +1200,10 @@ La  Chambre  des  députés  saisie  d'un  projet  de  loi  constitutionnelle  n
 ---
 Le Congrès ne peut valablement se constituer que lorsque la majorité absolue des membres de chaque Chambre se trouve réunie. Les résolutions sont prises à la majorité absolue des voix sauf l'exception prévue aux articles 49 et 77.
 
+##### Article 79 avant sa modification par la loi constitutionnelle du 21/9/1990:
+La Chambre des députés saisie d'un projet de loi constitutionnelle ne peut valablement délibérer et voter que lorsque la majorité des deux tiers des membres qui la composent légalement se trouve réunie. Les délibérations sont prises à la majorité des deux tiers des membres qui composent légalement l'Assemblée.
+Le Président de la République est tenu de promulguer la loi constitutionnelle dans les mêmes conditions et formes que la loi ordinaire. Il peut dans le délai fixé pour la promulgation, demander une nouvelle délibération. Il y sera procédé également à la majorité des deux tiers.
+
 # TITRE IV: DISPOSITIONS DIVERSES
 
 ## A. HAUTE-COUR
@@ -1146,7 +1216,7 @@ La Haute-Cour, dont la mission est de juger les Présidents et les ministres, se
 ---
 La Haute-Cour se compose de 7 sénateurs élus par le Sénat et des 8 plus hauts magistrats libanais, pris par ordre hiérarchique ou, à rang égal, par ordre d'ancienneté sous la présidence du magistrat le plus élevé en grade. Les arrêts de condamnation de la Haute-Cour sont rendus à la majorité de dix voix. Une loi déterminera la procédure à suivre devant cette Cour.
 ##### Article 80 avant sa modification par la loi constitutionnelle du 21/9/1990:
-La Haute-Cour se compose de 7 députés élus par la Chambre des députés et des 8 plus hauts
+La Haute-Cour se compose de 7 députés élus par la Chambre des députés et des 8 plus hauts magistrats libanais, pris par ordre hiérarchique ou, à rang égal, par ordre d'ancienneté, sous la présidence du magistrat le plus élevé en grade. Les arrêts de condamnation de la Haute-Cour sont
 
 [[END OF PAGE 29]]
 
@@ -1193,9 +1263,7 @@ Aucun crédit extraordinaire ne peut être ouvert que par une loi spéciale. Né
 
 [[START OF PAGE 31]]
 
-Aucun crédit extraordinaire ou supplémentaire ne peut être ouvert que par une loi spéciale. Si dans des sessions le Gouvernement juge nécessaire d'ouvrir des crédits extraordinaires ou
----
-l'intervalle supplémentaires, il devra convoquer immédiatement les Chambres.
+Aucun crédit extraordinaire ou supplémentaire ne peut être ouvert que par une loi spéciale. Si dans l'intervalle des sessions le Gouvernement juge nécessaire d'ouvrir des crédits extraordinaires ou supplémentaires, il devra convoquer immédiatement les Chambres.
 ##### Article 85 modifié par la loi constitutionnelle du 17/10/1927:
 Aucun crédit extraordinaire ne peut être ouvert que par une loi spéciale. Néanmoins, lorsque des circonstances imprévues rendent nécessaires des dépenses urgentes, le Président de la République peut, par décret pris sur l'avis conforme du Conseil des ministres, ouvrir des crédits extraordinaires ou supplémentaires, ou opérer tous virements de crédits. Ces crédits ne peuvent dépasser 1500 livres par article. Les mesures ainsi édictées sont soumises à la ratification de la Chambre à la première session qui suit.
 ##### Article 85 avant sa modification par la loi constitutionnelle du 21/9/1990:
@@ -1271,9 +1339,9 @@ La Chambre des députés élue sur une base égalitaire entre les musulmans et l
 
 Durant la période intérimaire:
 
-- Les communautés seront représentées équitablement dans la formation du Gouvernement.
+a) Les communautés seront représentées équitablement dans la formation du Gouvernement.
 
-- La  règle  de  la  représentation  confessionnelle  est  supprimée.  Elle  sera  remplacée  par  la spécialisation  et  la  compétence  dans  la  fonction  publique,  la  magistrature,  les  institutions militaires, sécuritaires, les établissements publics et d'économie mixte et ce, conformément aux nécessités de l'entente nationale, à l'exception des fonctions de la première catégorie ou leur équivalent. Ces fonctions seront réparties à égalité entre les chrétiens et les musulmans sans réserver  une  quelconque  fonction  à  une  communauté  déterminée  tout  en  respectant  les principes de spécialisation et de compétence.
+b) La règle de la représentation confessionnelle est supprimée. Elle sera remplacée par la spécialisation et la compétence dans la fonction publique, la magistrature, les institutions militaires, sécuritaires, les établissements publics et d'économie mixte et ce, conformément aux nécessités de l'entente nationale, à l'exception des fonctions de la première catégorie ou leur équivalent. Ces fonctions seront réparties à égalité entre les chrétiens et les musulmans sans réserver une quelconque fonction à une communauté déterminée tout en respectant les principes de spécialisation et de compétence.
 
 ##### Article 95 (ancien):
 ---
@@ -1284,13 +1352,15 @@ A titre transitoire et conformément aux dispositions de l'article 1er de la Cha
 
 [[START OF PAGE 34]]
 
+A titre transitoire et dans une intention de justice et de concorde, les communautés seront équitablement représentées dans les emplois publics et dans la composition du ministère sans que cela puisse cependant nuire au bien de l'Etat.
+
 #### Article 96
 
 (Abrogé par la loi constitutionnelle du 21/1/1947)
 
 ##### Article 96 avant son abrogation par la loi constitutionnelle du 21/1/1947:
 
-La répartition des sièges sénatoriaux entre les communautés se fera, conformément aux dispositions des  articles  22  et  95,  dans  la  proportion  suivante:  5  maronites,  3  sunnites,  3  chiites,  2  grecsorthodoxes, 1 grec-catholique, 1 druze, 1 minoritaire.
+La répartition des sièges sénatoriaux entre les communautés se fera, conformément aux dispositions des articles 22 et 95, dans la proportion suivante: 5 maronites, 3 sunnites, 3 chiites, 2 grecs-orthodoxes, 1 grec-catholique, 1 druze, 1 minoritaire.
 
 #### Article 97
 
@@ -1298,7 +1368,7 @@ La répartition des sièges sénatoriaux entre les communautés se fera, conform
 
 ##### Article 97 avant son abrogation par la loi constitutionnelle du 21/1/1947:
 
-Le  Conseil  Représentatif  actuel  après  le  vote  de  la  présente  Constitution  fonctionnera  jusqu'à l'expiration de son mandat en prenant le nom de 'Chambre des députés'.
+Le Conseil Représentatif actuel après le vote de la présente Constitution fonctionnera jusqu'à l'expiration de son mandat en prenant le nom de “Chambre des députés”.
 
 #### Article 98
 
@@ -1306,7 +1376,7 @@ Le  Conseil  Représentatif  actuel  après  le  vote  de  la  présente  Consti
 
 ##### Article 98 avant son abrogation par la loi constitutionnelle du 21/1/1947:
 
-Afin de rendre immédiatement possible l'application intégrale de la présente Constitution, le premier Sénat  libanais,  composé  comme  il  est  prévu  aux  articles  22  et  96  sera  nommé  par  le  HautCommissaire  de  la  République  Française  pour  une  période  allant  seulement  jusqu'à  la  fin  l'année 1928.
+Afin de rendre immédiatement possible l'application intégrale de la présente Constitution, le premier Sénat libanais, composé comme il est prévu aux articles 22 et 96 sera nommé par le Haut-Commissaire de la République Française pour une période allant seulement jusqu'à la fin l'année 1928.
 
 #### Article 99 (Abrogé par la loi constitutionnelle du 21/1/1947)
 
@@ -1325,8 +1395,6 @@ Dans le mois qui suivra la constitution du Sénat, le Congrès se réunira sur l
 #### Article 101
 
 A partir du 1er septembre 1926, l'Etat du "Grand Liban" portera le nom de "République Libanaise" sans autre changement ni modification d'aucune sorte.
-
-A  titre  transitoire  et  dans  une  intention  de  justice  et  de  concorde,  les  communautés  seront équitablement représentées dans les emplois publics et dans la composition du ministère sans que cela puisse cependant nuire au bien de l'Etat.
 
 [[END OF PAGE 34]]
 
