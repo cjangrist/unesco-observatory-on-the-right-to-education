@@ -88,15 +88,11 @@ The Guidelines are structured around three chapters:
 
 [[START OF PAGE 4]]
 
--
+- The first chapter covers general information on adherence to the Convention.
 
--
+- The second chapter aims to gather information on the implementation of the Convention and Recommendation in the context of Sustainable Development Goal 4. As the most extensive part of the Guidelines, this chapter covers: inclusion and non-discrimination in education (section 1), all levels and forms of education (section 2), quality education provision and learning environment (section 3) and finally, strengthening governance systems (section 4).
 
--The first chapter covers general information on adherence to the Convention.
-
-The second chapter aims to gather information on the implementation of the Convention and Recommendation in the context of Sustainable Development Goal 4. As the most extensive part of the Guidelines, this chapter covers: inclusion and non-discrimination in education (section 1),  all  levels  and  forms  of  education  (section  2),  quality  education  provision  and  learning environment (section 3) and finally, strengthening governance systems (section 4).
-
-The third chapter seeks to obtain information on the methods used to draw the attention of the various authorities in the country to the instruments.
+- The third chapter seeks to obtain information on the methods used to draw the attention of the various authorities in the country to the instruments.
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member  States  in  the  preparation  of  responses,  through  a  participatory  process, two  types  of guidance are provided:
 
@@ -122,7 +118,7 @@ Educational Planning
 
 Email and telephone number of contact person : mamoon.jabr@moe.edu.ps
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -178,7 +174,7 @@ It  further  corresponds  to  the  overall  aspiration  of  SDG4  which  aims  t
 
 -Please indicate whether the rights and principles laid out in the Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
 
-- Yes □ No
+✓ Yes □ No
 
 - If yes, please provide reference:
 
@@ -206,11 +202,11 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 □ Legal texts 15 prohibit discrimination and guarantee equal access to education:
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
 □ In technical and vocational education and training
 
@@ -228,9 +224,7 @@ Article 14: Inclusive Education: The Ministry adopts the policy of inclusive edu
 
 Article 5: Compulsory Education: Education is compulsory up to the 10th grade; 2. Education is free in all governmental educational institutions.
 
-13
-
-> See: Article/Paragraph 1(1).
+> 13 See: Article/Paragraph 1(1).
 
 > 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
@@ -250,11 +244,11 @@ Article 11: Secondary Education: 1. Secondary stage includes the tenth, eleventh
 
 □ Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
 □ In technical and vocational education and training
 
@@ -278,7 +272,7 @@ Article 5: Compulsory Education: Education is compulsory up to the 10th grade; 2
 
 Article 6: Education Stages: The general education system consists of the following stages: 1. Kindergartens (not more than 2 years before basic education stage). 2. Basic education (9 years). 3. Secondary education (3 years).
 
-Article 7: Preschool Education (Kindergartens): 1. The Ministry -according to specific criteriabuilds kindergarten and centers for training and qualifying the educators of this stage. These criteria are specified by a decision from the minister. . 2. Kindergartens shall obtain license from the Ministry. 3. The minister issues the necessary instructions on the conditions for licensing kindergartens and shall regulate them administratively and technically. 4. The Ministry works to expand its kindergarten services for the aim of making this education stage free and compulsory, in accordance with a standardized systemic framework approved by the Ministry.
+Article 7: Preschool Education (Kindergartens): 1. The Ministry -according to specific criteria-builds kindergarten and centers for training and qualifying the educators of this stage. These criteria are specified by a decision from the minister. . 2. Kindergartens shall obtain license from the Ministry. 3. The minister issues the necessary instructions on the conditions for licensing kindergartens and shall regulate them administratively and technically. 4. The Ministry works to expand its kindergarten services for the aim of making this education stage free and compulsory, in accordance with a standardized systemic framework approved by the Ministry.
 
 Article 9: Basic Education: 1. Primary education stage starts from grade (1) and ends by the end of grade (9). 2. Parents or guardians are obligated to enroll the child under their guardianship or custodianship in basic education institutions. 3. The Ministry shall integrate technical and vocational education into the framework of the schooling program from grade 6 through grade 9 in a manner that would ensure students acquisition of the necessary technical experiences and skills.
 
@@ -286,7 +280,7 @@ Article 11: Secondary Education: 1. Secondary stage includes the tenth, eleventh
 
 □ Combatting discrimination in terms of curriculum:
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
 □ In primary education
 
@@ -342,19 +336,19 @@ Education  and  training  develop  the  skills  and  capabilities  of  using  na
 
 ##### General measures:
 
-- Legislation provides for inclusive education for all
+✓ Legislation provides for inclusive education for all
 
-- Policy measures aim to enhance inclusion in education for all
+✓ Policy measures aim to enhance inclusion in education for all
 
-- Teachers are trained on inclusive education16 and to value diversity
+✓ Teachers are trained on inclusive education16 and to value diversity
 
-- Initiatives to address discrimination and promote cultural diversity and mutual acceptance
+✓ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
 □ Other:
 
-- Multiple and flexible learning pathways17 are provided for
+✓ Multiple and flexible learning pathways17 are provided for
 
-- Curricula and teaching methods are inclusive in design18
+✓ Curricula and teaching methods are inclusive in design18
 
 □ Multilingual and intercultural education is supported
 
@@ -378,31 +372,31 @@ Article 14: Inclusive Education: The Ministry adopts the policy of inclusive edu
 
 [[START OF PAGE 12]]
 
-- Majority of preschool is within the private sector; 2) Free preschool seats in marginalized areas and various cities is unavailable.
+1) Majority of preschool is within the private sector; 2) Free preschool seats in marginalized areas and various cities is unavailable.
 
 ##### Other relevant general measures, including gender equality
 
-- Legislation provides for gender equality in education
+✓ Legislation provides for gender equality in education
 
-- Policy measures aim to enhance gender equality
+✓ Policy measures aim to enhance gender equality
 
-- Gender-responsive education sector planning is undertaken
+✓ Gender-responsive education sector planning is undertaken
 
 □ Providing positive or affirmative action measures
 
 □ Providing financial incentives and fellowships
 
-- Teachers are trained (initial and in-service) on gender equality
+✓ Teachers are trained (initial and in-service) on gender equality
 
-- Teachers are trained to combat stigmatization 19
+✓ Teachers are trained to combat stigmatization 19
 
-□ All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
+□ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
 □ Re-entry programmes for young mothers are provided for
 
-- Ensuring safe and adequate gender-sensitive sanitation facilities 20
+✓ Ensuring safe and adequate gender-sensitive sanitation facilities 20
 
-- Curricula are rid of all stereotypes 21 and bias
+✓ Curricula are rid of all stereotypes 21 and bias
 
 □ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
@@ -432,7 +426,7 @@ Enrollment in preschool is comprehensive for all children at the age of preschoo
 
 Please  note  that  child  marriage  is  a  discriminatory  practice  as  often  girls  can  marry  at  a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
-- Yes □ No
+✓ Yes □ No
 
 - Please provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age:
 
@@ -442,31 +436,31 @@ Decision to raise the marriage age to 18 years for both sexes in the Palestinian
 
 For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities.
 
-- Legislation provides for the right to education of national minorities
+✓ Legislation provides for the right to education of national minorities
 
 □ Policy measures aim to enhance the right to education of national minorities
 
-- Policy elaboration includes consultations with local communities
+✓ Policy elaboration includes consultations with local communities
 
-- The right to carry out their own educational activities is legally guaranteed for national minorities
+✓ The right to carry out their own educational activities is legally guaranteed for national minorities
 
-- Educational standards are established for educational institutions run by national minorities
+✓ Educational standards are established for educational institutions run by national minorities
 
-- Positive or affirmative action measures are provided for national minorities
+✓ Positive or affirmative action measures are provided for national minorities
 
-- Financial incentives and fellowships are provided for national minorities
+✓ Financial incentives and fellowships are provided for national minorities
 
 □ Teachers are trained on intercultural education
 
 □ Teachers are trained to combat stigmatization 24
 
-- o Multilingual and intercultural education are supported
+o Multilingual and intercultural education are supported
 
-- o Native language instruction is ensured for national minorities
+o Native language instruction is ensured for national minorities
 
-- Adapting curricula and teaching and learning methods to their needs for national minorities
+✓ Adapting curricula and teaching and learning methods to their needs for national minorities
 
-- Curricula are rid of all stereotypes25 and bias
+✓ Curricula are rid of all stereotypes25 and bias
 
 > 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
 
@@ -488,31 +482,31 @@ The State guarantees equality of rights and  freedoms for all, regardless of rac
 
 ##### Indigenous people:
 
-- Legislation provides for the right to education of indigenous people
+✓ Legislation provides for the right to education of indigenous people
 
 □ Policy measures aim to enhance the right to education of indigenous people
 
-- Policy elaboration includes consultations with local communities
+✓ Policy elaboration includes consultations with local communities
 
-- The right to carry out their own educational activities is legally guaranteed for indigenous people
+✓ The right to carry out their own educational activities is legally guaranteed for indigenous people
 
 □ Educational standards are established for educational institutions run by indigenous people
 
-- Positive or affirmative action measures are provided for indigenous people
+✓ Positive or affirmative action measures are provided for indigenous people
 
 □ Other:
 
 □ Financial incentives and fellowships are provided for indigenous people
 
-- Teachers are trained on intercultural education
+✓ Teachers are trained on intercultural education
 
-- Teachers are trained to combat stigmatization26
+✓ Teachers are trained to combat stigmatization26
 
-- Multilingual and intercultural education are supported
+✓ Multilingual and intercultural education are supported
 
-- Native language instruction is ensured
+✓ Native language instruction is ensured
 
-- Adapting curricula and teaching and learning methods to their needs for indigenous people
+✓ Adapting curricula and teaching and learning methods to their needs for indigenous people
 
 □ Curricula are rid of all stereotypes 27 and bias
 
@@ -532,19 +526,19 @@ The State guarantees equality of rights and  freedoms for all, regardless of rac
 
 ##### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 28 :
 
-- Legislation provides for their right to education
+✓ Legislation provides for their right to education
 
-- Policy measures aim to enhance their right to education
+✓ Policy measures aim to enhance their right to education
 
-- Inclusion in mainstream schools is ensured
+✓ Inclusion in mainstream schools is ensured
 
-- Positive or affirmative action measures are provided for
+✓ Positive or affirmative action measures are provided for
 
 □ All administrative barriers to access education are removed
 
 □ Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 29 are provided for
 
-- Teachers are specifically trained to ensure their inclusion
+✓ Teachers are specifically trained to ensure their inclusion
 
 □ Teachers are trained to combat stigmatization 30
 
@@ -554,7 +548,7 @@ The State guarantees equality of rights and  freedoms for all, regardless of rac
 
 □ Auxiliary assistance is provided
 
-- Multiple and flexible learning pathways31 are provided
+✓ Multiple and flexible learning pathways31 are provided
 
 □ Curricula are rid of all stereotypes 32 and bias
 
@@ -564,7 +558,7 @@ The State guarantees equality of rights and  freedoms for all, regardless of rac
 
 □ Language classes to newcomers are provided for
 
-- Multilingualism and intercultural education are encouraged
+✓ Multilingualism and intercultural education are encouraged
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -600,13 +594,13 @@ UNRWA (U.N. Agency) : The United Nations Relief and Works Agency (for Palestinia
 
 ##### People with disabilities:
 
-- Legislation provides for their right to education
+✓ Legislation provides for their right to education
 
-- Policy measures aim to enhance their right to education
+✓ Policy measures aim to enhance their right to education
 
-- Inclusion in mainstream schools is ensured
+✓ Inclusion in mainstream schools is ensured
 
-- Special schools are used as resource centers to inclusive schools
+✓ Special schools are used as resource centers to inclusive schools
 
 □ Positive or affirmative action measures are provided
 
@@ -614,11 +608,11 @@ UNRWA (U.N. Agency) : The United Nations Relief and Works Agency (for Palestinia
 
 □ Other
 
-- Mainstream teachers are specifically trained on disabilities
+✓ Mainstream teachers are specifically trained on disabilities
 
-- Teachers are trained to combat stigmatization 33
+✓ Teachers are trained to combat stigmatization 33
 
-- Auxiliary assistance is provided
+✓ Auxiliary assistance is provided
 
 □ Curricula and teaching and learning methods are adapted
 
@@ -652,17 +646,17 @@ https://moe.edu.ps/m/3101
 
 The current educational system and educational environment do not accommodate the integration and education of all students with disabilities who are of school age. Main challenges are:
 
-- The lack of data on unenrolled students with disabilities in the education system.
+1. The lack of data on unenrolled students with disabilities in the education system.
 
-- The lack of special budgets to integrate and educate students with disabilities.
+2. The lack of special budgets to integrate and educate students with disabilities.
 
-- There is an educational gap between integrated students with disabilities in basic and secondary education.
+3. There is an educational gap between integrated students with disabilities in basic and secondary education.
 
-- Low qualified personnel working in the field of special education.
+4. Low qualified personnel working in the field of special education.
 
-- The presence of schools that are not environmentally compatible to integrate and educate students with disabilities.
+5. The presence of schools that are not environmentally compatible to integrate and educate students with disabilities.
 
-- Lack of systems, instructions, and principles adapted to students with disabilities.
+6. Lack of systems, instructions, and principles adapted to students with disabilities.
 
 ##### Students from poor households:
 
@@ -670,21 +664,17 @@ The current educational system and educational environment do not accommodate th
 
 □ Transport, meals and education material are subsidized or provided free of charge beyond compulsory education
 
-- Positive or affirmative action measures are provided
+✓ Positive or affirmative action measures are provided
 
 □ Other:
 
-- Teachers are trained to combat stigmatization 35
+✓ Teachers are trained to combat stigmatization 35
 
 □ Curricula are rid of all stereotypes 36 and bias
 
-35
+> 35 Supra note 15.
 
-36
-
-Supra note 15.
-
-Supra note 16.
+> 36 Supra note 16.
 
 [[END OF PAGE 17]]
 
@@ -704,23 +694,23 @@ Usually, the cost for a student with a disability is three times more than the a
 
 #### 2.1 Early childhood care and education
 
-For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially  recognized  'the  right  to  education  during  early  childhood  as  beginning  at  birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37  and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now comm itted to 'the provision of at least one year of free and compulsory preprimary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
-- Prior to pre-primary education, ECCE services are free
+✓ Prior to pre-primary education, ECCE services are free
 
 □ Prior to pre-primary education, ECCE services are affordable
 
-- ECCE services are accessible on a nondiscriminatory basis
+✓ ECCE services are accessible on a non-discriminatory basis
+
+✓ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
 > 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
 > 38 Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
-
-- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 [[END OF PAGE 18]]
 
@@ -746,9 +736,9 @@ Education Law, Article (5) Compulsory education 1. Education shall be compulsory
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
-- What challenges were encountered in realizing early childhood care and education and pre- primary education?
+- What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
-- Limited access
+✓ Limited access
 
 □ Issues of equity and inclusion
 
@@ -764,7 +754,7 @@ Education Law, Article (5) Compulsory education 1. Education shall be compulsory
 
 □ Low number of professionally trained educators
 
-- Lack of support to families
+✓ Lack of support to families
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -772,7 +762,7 @@ Failure to appoint new teachers due to lack of government providing allocations 
 
 #### 2.2   Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -784,7 +774,7 @@ Article (6) Stages of Education The public education system consists of the foll
 
 - Is primary education compulsory and free of charge?
 
-- Primary education is compulsory
+✓ Primary education is compulsory
 
 □ Primary education is not compulsory.
 
@@ -806,7 +796,7 @@ Article (5) Compulsory Education 1. Education shall be compulsory until the end 
 
 □ Issues of equity and inclusion
 
-- High dropout rates
+✓ High dropout rates
 
 □ Poor quality programmes
 
@@ -828,7 +818,7 @@ Others
 
 ###### Educational Statistical Yearbook for Scholastic year 2022-2023
 
-Table 24, page 46: Distribution of dropout percentage by directorate level and gender 202122
+Table 24, page 46: Distribution of dropout percentage by directorate level and gender 2021-22
 
 Table  25,  page  47:  Distribution  of  dropout  percentage  by  grade,  gender  and  supervisory authority in Northern Governorates (West Bank) directorates 2021-22
 
@@ -876,19 +866,19 @@ Ages 16-18, for a period of 3 years
 
 - Is lower and upper secondary education compulsory and free of charge?
 
-- Lower secondary education is compulsory.
+✓ Lower secondary education is compulsory.
 
 □ Lower secondary education is not compulsory.
 
-- Lower secondary education is free of charge.
+✓ Lower secondary education is free of charge.
 
 □ Lower secondary education is not free of charge.
 
 □ Upper secondary education is compulsory.
 
-- Upper secondary education is not compulsory.
+✓ Upper secondary education is not compulsory.
 
-- Upper secondary education is free of charge
+✓ Upper secondary education is free of charge
 
 □ Upper secondary education is not free of charge.
 
@@ -916,7 +906,7 @@ Regarding books, books for the tenth grade are provided free of charge, with the
 
 For  reference:  The  employment  laws  and  those  related  to  compulsory  education  are interdependent and mutually reinforce each other. If the minimum age of employment is below that  of  compulsory  education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and therefore not completing compulsory education. On the other hand, if compulsory education is  lower  than  the  minimum  age  of  employment,  once  the  child  has  completed  compulsory education, the door is open to child exploitation and the violation of labor laws.
 
-- Yes
+✓ Yes
 
 No
 
@@ -936,41 +926,41 @@ Article (94): A medical examination must be conducted on juveniles before they j
 
 [[START OF PAGE 24]]
 
-- Limited access
+✓ Limited access
 
-- Issues of equity and inclusion
+✓ Issues of equity and inclusion
 
 □ High dropout rates
 
-- Poor quality programmes
+✓ Poor quality programmes
 
-- Other:
+✓ Other:
 
-- Limited access
+✓ Poor learning outcomes
 
-- Low number of professionally trained teachers
+□ Low readiness of primary graduates
 
-- Poor quality programmes
+✓ Low number of professionally trained teachers
 
-- Other:
+➢ Limited access
+
+➢ Low number of professionally trained teachers
+
+➢ Poor quality programmes
+
+➢ Other:
 
 - Please elaborate. Brief quantitative information may be added.
 
-###### Limited access :
+###### Limited access:
 
 Access to secondary education passes through challenges and obstacles due to the lack of safe access to and from school, whether for students or teaching staff, in the northern governorates, including Jerusalem, due to the presence of many military checkpoints and gates and their frequent closure, as well as attacks, whether by occupation soldiers or settlers. Or because the occupation prevented the construction and paving of roads, and to confront these challenges and obstacles to education, the Ministry of Education provided buses to transport students by providing transportation service in (10) governorates by setting an activity under the strategic plan of the Ministry of Education by providing a financial allocation for this service on Over the course of an academic year, knowing that the Ministry has been providing the service since 2013.
 
 Challenges of safe access in 2023 reached 406 students and 3297 teachers in all West Bank districts causing educational loss (waste) by either being barred to reach the school or delayed.
 
-###### Issues of equity and inclusion :
+###### Issues of equity and inclusion:
 
-Ensuring safe, comprehensive and equitable enrollment in education at all levels of the system. The first goal of Palestinian education includes ensuring safe access to education, inclusion and equity in education. This goal includes ensuring safe access to schools and educational institutions and providing a safe, encouraging, secure and violence-free educational environment for students and teachers, and ensuring protection and security for students and teachers, especially in areas where they are subjected to occupation harassment Israeli and settlers in marginalized and threatened areas, or the Old City of Jerusalem, Hebron, and elsewhere. Palestinian education also seeks to achieve inclusion and equity at all levels of education (kindergarten, basic education, secondary academic and vocational education, and nonformal education), and this goal constitutes a commitment to address all forms of exclusion and marginalization All aspects of inequality and inequality in access to learning and teaching opportunities Therefore, this goal involves a pledge to make the necessary changes in educational policies and to focus its efforts on the most disadvantaged groups, especially people with disabilities, to ensure that no one is left without education On two dimensions, the first of
-
-- Poor learning outcomes
-
-□ Low readiness of primary graduates
-
-- Low number of professionally trained teachers
+Ensuring safe, comprehensive and equitable enrollment in education at all levels of the system. The first goal of Palestinian education includes ensuring safe access to education, inclusion and equity in education. This goal includes ensuring safe access to schools and educational institutions and providing a safe, encouraging, secure and violence-free educational environment for students and teachers, and ensuring protection and security for students and teachers, especially in areas where they are subjected to occupation harassment Israeli and settlers in marginalized and threatened areas, or the Old City of Jerusalem, Hebron, and elsewhere. Palestinian education also seeks to achieve inclusion and equity at all levels of education (kindergarten, basic education, secondary academic and vocational education, and non-formal education), and this goal constitutes a commitment to address all forms of exclusion and marginalization All aspects of inequality and inequality in access to learning and teaching opportunities Therefore, this goal involves a pledge to make the necessary changes in educational policies and to focus its efforts on the most disadvantaged groups, especially people with disabilities, to ensure that no one is left without education On two dimensions, the first of
 
 [[END OF PAGE 24]]
 
@@ -980,9 +970,9 @@ which is improving enrollment in Educational stages (kindergarten, primary, seco
 
 ###### Low number of professionally trained teachers :
 
-One of the most important challenges is providing vocationally trained teachers on an annual basis. The number of vocationally trained teachers increases annually, as data on teachers who have been qualified by the National Training Institute indicates that the number increases annually (attached is a list of the numbers of teachers during the years 2019 -2023). It also indicates that t he increase also includes the evaluation report of the strategic plan for the education sector 2017-2022.
+One of the most important challenges is providing vocationally trained teachers on an annual basis. The number of vocationally trained teachers increases annually, as data on teachers who have been qualified by the National Training Institute indicates that the number increases annually (attached is a list of the numbers of teachers during the years 2019-2023). It also indicates that the increase also includes the evaluation report of the strategic plan for the education sector 2017-2022.
 
-###### N umber of Secondary Stage Teachers who obtained a Professional Diploma Specialized in Education
+###### Number of Secondary Stage Teachers who obtained a Professional Diploma Specialized in Education
 
 No. of Teachers | Year
 --- | ---
@@ -999,19 +989,19 @@ The National Institute considers training programs to be an important challenge 
 
 ###### Other issues :
 
-- The Corona pandemic affected the quality of secondary education in its early stages due to the lack of necessary experience among teachers for distance education in terms of dealing with platforms and designing e-learning. Accordingly, the Ministry has qualified all teachers in the fields of education design and employing educational platforms, in addition to raising Their digital competencies. As for the weakness of learning results, especially the results of national and international tests, education was trained in the areas of general pedagogy, content pedagogy, measurement and evaluation to improve their performance with the aim of improving student learning. The executive plan also
+1. The Corona pandemic affected the quality of secondary education in its early stages due to the lack of necessary experience among teachers for distance education in terms of dealing with platforms and designing e-learning. Accordingly, the Ministry has qualified all teachers in the fields of education design and employing educational platforms, in addition to raising Their digital competencies. As for the weakness of learning results, especially the results of national and international tests, education was trained in the areas of general pedagogy, content pedagogy, measurement and evaluation to improve their performance with the aim of improving student learning. The executive plan also
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-included outcomes to raise teachers' competencies in the areas of teach ing strategies and evaluation methods and to enhance student literacy.
+included outcomes to raise teachers' competencies in the areas of teaching strategies and evaluation methods and to enhance student literacy.
 
-- Economic conditions negatively affected the achievement of secondary education.
+2. Economic conditions negatively affected the achievement of secondary education.
 
-- The unjust practices resulting from the occupation in Palestine have negatively affected the achievement of secondary education.
+3. The unjust practices resulting from the occupation in Palestine have negatively affected the achievement of secondary education.
 
-- The frequent teachers' strikes negatively affected the achievement of secondary education.
+4. The frequent teachers' strikes negatively affected the achievement of secondary education.
 
 #### 2.3 Higher education
 
@@ -1029,7 +1019,7 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 
 □ Higher education is accessible through credit transfer system between states
 
-□ Higher education allows for multiple and flexible learning pathways (flexible entry and re- entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
+□ Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
 □ Other:
 
@@ -1063,21 +1053,21 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 
 #### 2.4 Adult education and alternative learning
 
-For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure t hat all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.'
+For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.'
 
 - Please  indicate  the  measures  taken  to  establish  a  system  of  continuing  education  and equitable access to learning and training opportunities (several items may be ticked):
 
-- Provision of education for persons who have not received or completed the whole period of their primary education
+✓ Provision of education for persons who have not received or completed the whole period of their primary education
 
-- Provision of literacy programmes
+✓ Provision of literacy programmes
 
-- Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development)
+✓ Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development)
 
-- Provision of free of charge learning opportunities
+✓ Provision of free of charge learning opportunities
 
-- Provision of professional training including reskilling and upskilling programmes
+✓ Provision of professional training including reskilling and upskilling programmes
 
-□Recognition, validation and certification of non -formal and informal learning
+✓ Recognition, validation and certification of non-formal and informal learning
 
 □ Provision of free of charge career guidance and counselling
 
@@ -1097,21 +1087,27 @@ The Ministry is opening literacy eradication classes in different regions, and p
 
 - What challenges were encountered in realizing adult learning and education?
 
-- Limited access
+✓ Limited access
 
-- Issues of equity and inclusion
+✓ Issues of equity and inclusion
 
 □ Poor quality programmes
 
-- Other:
+✓ Other:
 
-- Limited access
+✓ Limited funding
 
-- Issues of equity and inclusion
+□ Poor learning outcomes
 
-- Limited funding
+✓ Low number of professionally trained educators
 
-- Low number of professionally trained educators
+✓ Limited access
+
+✓ Issues of equity and inclusion
+
+✓ Limited funding
+
+✓ Low number of professionally trained educators
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1129,19 +1125,13 @@ Adult education and non-formal education still do not receive the same attention
 
 Non-formal education is considered the least effective among the programmes, as enrollment numbers have declined and its activities have stopped over the past two years. This may be due to the high level of education among the population and the low level of illiteracy, but there is still much that can be done, such as community education, digital literacy, continuing vocational education, in addition to lifelong learning.
 
-- Limited funding
-
-□ Poor learning outcomes
-
-- Low number of professionally trained educators
-
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
 ### 3. Quality education provision and learning environment
 
-For  reference:  Articles/Paragraphs  2,  4(b)  and  5(b)  of  the  Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It  is  also  particularly  highlighted  in  SDG  target  4.a  that  recommends  state s  to  'build  and upgrade education facilities that are child, disability and gender sensitive and provide safe, nonviolent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1149,13 +1139,13 @@ For  reference:  Articles/Paragraphs  2,  4(b)  and  5(b)  of  the  Convention/R
 
 □ State monitoring and inspections
 
-- Health and sanitation
+✓ Health and sanitation
 
-- Safety  (children  learn  in  a  safe  environment  free  from  violence  or  harassment,  including school-related gender-based violence (in and around schools))
+✓ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
-- Infrastructure
+✓ Infrastructure
 
-- Curriculum
+✓ Curriculum
 
 □ Student-teacher ratio
 
@@ -1183,13 +1173,13 @@ You may include information on policies, protocols or codes of conduct.
 
 ##### School Environment Policy
 
-###### Health and sanitation
+###### 1) Health and sanitation
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-###### Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools).
+###### 2) Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools).
 
 The general goal of the school environment policy is to build a safe environment that enhances  teaching  and  learning,  which  contributes  to  responding  to  the  rights  of students and workers, providing them with skills, and adopting environmental practices that  lead  to  the  strengthening  and  sustainability  of  environmental  elements  The Palestinian  Authority,  with  all  parties  obligated  to  adhere  to  approved  Palestinian standards and instructions.
 
@@ -1203,17 +1193,17 @@ The general goal of the school environment policy is to build a safe environment
 
 ###### 2) Infrastructure
 
-- The Ministry of Education and Higher Education has developed specifications and standards for school and educational buildings that are consistent with the requirements of the curriculum on the one hand, and green building standards that are consistent with providing a safe and healthy environment. At the same time, the Ministry continues its efforts, from its various sources, including the local community, with its bodies and individuals, to work on maintaining and rehabilitating existing schools and educational buildings, in a way that ensures their sustainability and consistency with educational and health standards, and makes them an attractive environment for students and educational and administrative bodies, the various stages of education starting from Before school, through to the lower and upper basic levels, and secondary levels, as well as employees working in education directorates, ministry buildings, training centers, etc.
+a) The Ministry of Education and Higher Education has developed specifications and standards for school and educational buildings that are consistent with the requirements of the curriculum on the one hand, and green building standards that are consistent with providing a safe and healthy environment. At the same time, the Ministry continues its efforts, from its various sources, including the local community, with its bodies and individuals, to work on maintaining and rehabilitating existing schools and educational buildings, in a way that ensures their sustainability and consistency with educational and health standards, and makes them an attractive environment for students and educational and administrative bodies, the various stages of education starting from Before school, through to the lower and upper basic levels, and secondary levels, as well as employees working in education directorates, ministry buildings, training centers, etc.
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-- The Ministry, through the General Administration of Buildings, seeks to continue searching for funding sources that contribute to providing an educational environment consistent with Palestinian standards and specifications for various school and educational buildings, so that these efforts stem from the Ministry's strategic development plans. At the same time, the General Administration of Buildings continues to comply with international standards to ensure the provision of a school environment that cares about the environment and the sustainability of natural resources, including, for example: schools that take into account the environment surrounding the school grounds and benefit from rainwater in irrigating school gardens, as well as generating electricity using solar cells. Thermal insulation ensures reliance on energy sources for heating and cooling school facilities.
+b) The Ministry, through the General Administration of Buildings, seeks to continue searching for funding sources that contribute to providing an educational environment consistent with Palestinian standards and specifications for various school and educational buildings, so that these efforts stem from the Ministry's strategic development plans. At the same time, the General Administration of Buildings continues to comply with international standards to ensure the provision of a school environment that cares about the environment and the sustainability of natural resources, including, for example: schools that take into account the environment surrounding the school grounds and benefit from rainwater in irrigating school gardens, as well as generating electricity using solar cells. Thermal insulation ensures reliance on energy sources for heating and cooling school facilities.
 
-- In addition to the standards and specifications for buildings, the procedures for contracting with contractors and consultants are governed based on the Palestinian Purchase Law and its regulations in general or the purchasing procedures approved by some financing bodies and are controlled and followed up through the institutions organizing this, whether the Ministry of Public Works and Housing, the Supreme Council Public procurement policies, etc.
+c) In addition to the standards and specifications for buildings, the procedures for contracting with contractors and consultants are governed based on the Palestinian Purchase Law and its regulations in general or the purchasing procedures approved by some financing bodies and are controlled and followed up through the institutions organizing this, whether the Ministry of Public Works and Housing, the Supreme Council Public procurement policies, etc.
 
-- Green Building Guide - State of Palestine.
+d) Green Building Guide - State of Palestine.
 
 ###### 3) Curriculum
 
@@ -1235,15 +1225,15 @@ There are no compulsory fees. However there are non-compulsory yearly school don
 
 □ Cost of education
 
-- Conflicts or crises
+✓ Conflicts or crises
 
-- Low quality educational infrastructure and materials
+✓ Other:
+
+✓ Low quality educational infrastructure and materials
 
 □ Inadequate parental support to education
 
-- Long distances to schools
-
-- Other:
+✓ Long distances to schools
 
 □ Violence in schools
 
@@ -1253,7 +1243,7 @@ There are no compulsory fees. However there are non-compulsory yearly school don
 
 [[START OF PAGE 32]]
 
-instructions that prevent the use of any form of violence inside the school and followed up on its i mplementation. Within the Ministry's strategy, a policy to reduce violence in schools was prepared. Palestinian Authority to provide protection for students, considering this a child's right, and to create a safe, attractive, and promoting environment for education free of violence.
+instructions that prevent the use of any form of violence inside the school and followed up on its implementation. Within the Ministry's strategy, a policy to reduce violence in schools was prepared. Palestinian Authority to provide protection for students, considering this a child's right, and to create a safe, attractive, and promoting environment for education free of violence.
 
 - The Ministry is committed to providing the best ways to create a safe educational environment free of violence, develop positive personality, and enhance the participation of parents and local community institutions in the educational process, with the presence of an educational guide in every school.
 
@@ -1281,39 +1271,37 @@ The unit is keen to provide safe access for all students at all times in order t
 
 Students who live in areas 'C' are usually forced to go to study in schools in areas 'A' and 'B'. Therefore, the Ministry has created schools to support students and provide a safe education through the so-called challenge schools, which are built in areas called 'C' or in the town. Old City / Hebron or behind the apartheid wall because the long distances for students to reach those schools are fraught with dangers, whether the distance from the students' place of residence to the school, the roughness of the road, and the danger (stray dogs, floods in the winter, high temperatures in those areas. A list of the names of the Challenge Schools established by the Ministry. A year ago, in the summer, there were a large number of rapes, and the occupation soldiers carried out military training operations near the place of residence, which exposed them to many dangers, most notably the waste of the occupation soldiers and others.)
 
-□
+□ Other: -
 
--Other:
+- Lack of resources needed to invest in improving school infrastructure.
 
--Lack of resources needed to invest in improving school infrastructure.
+- Lack of electronic devices and connection to the Internet necessary for distance learning (e-learning) for many students
 
--Lack of electronic devices and connection to the Internet necessary for distance learning (e-learning) for many students
+- Lack of financial resources necessary to improve the performance of teachers and support staff
 
--Lack of financial resources necessary to improve the performance of teachers and support staff
-
--The general unstable situation in Palestine; Because of the occupation
+- The general unstable situation in Palestine; Because of the occupation
 
 #### 3.2 Education personnel
 
-For  reference:  Article/Paragraph  4(d)  of  the  Convention/Recommendation  provides  for  the education  personnel.  This  corresponds  to  SDG  target  4.c  which  is  entirely  devoted  to  the teaching  profession  as  it  calls  on  states  to  'substantiall y  increase  the  supply  of  qualified teachers'.
+For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'.
 
 - Please  indicate  the  measures  taken  to  improve  the  teaching  and  working  conditions  of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
 
-- Teacher training is provided without discrimination.
+✓ Teacher training is provided without discrimination.
 
 □ Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
 
-- Initial training and continuous professional development are provided.
+✓ Initial training and continuous professional development are provided.
 
-- Minimum standards and qualifications required for the teaching profession.
+✓ Minimum standards and qualifications required for the teaching profession.
 
-□ Measures  taken  to  strengthen  the  social  status  and  attractiveness  of  the  teaching profession.
+□ Measures taken to strengthen the social status and attractiveness of the teaching profession.
 
-- Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.
+✓ Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.
 
 □ Establishment of performance monitoring systems.
 
-- Measures taken to increase women in leadership positions in education.
+✓ Measures taken to increase women in leadership positions in education.
 
 □ Other:
 
@@ -1339,11 +1327,11 @@ A Bachelor degree  has  been  set  as  the  minimum  educational  achievement  f
 
 □ Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.
 
-- 1- Government schools are divided into female and male schools for all grades. The presence of female teachers in schools is normal, equivalent to the presence of female teachers. In fact, the number of female teachers increases due to the feminization of basic education from the first grade to the fourth grade, as female teachers teach at this stage, both male and female, in many schools. . Therefore, the presence of female teachers is greater than the number of males
+1- Government schools are divided into female and male schools for all grades. The presence of female teachers in schools is normal, equivalent to the presence of female teachers. In fact, the number of female teachers increases due to the feminization of basic education from the first grade to the fourth grade, as female teachers teach at this stage, both male and female, in many schools. . Therefore, the presence of female teachers is greater than the number of males
 
-- 2-The Ministry adopted a gender-responsive budget, on the basis of which it adopted a definition that guarantees the achievement of fair and equal opportunities for various groups and members of society,  men  and  women,  and  marginalized  areas,  by  rearranging  priorities  in  the  budget  to contribute to achieving social justice.
+2-The Ministry adopted a gender-responsive budget, on the basis of which it adopted a definition that guarantees the achievement of fair and equal opportunities for various groups and members of society, men and women, and marginalized areas, by rearranging priorities in the budget to contribute to achieving social justice.
 
-- 3- There is no discrimination between genders in appointments, and a percentage of appointments has been allocated for people with special needs
+3- There is no discrimination between genders in appointments, and a percentage of appointments has been allocated for people with special needs
 
 [[END OF PAGE 34]]
 
@@ -1361,13 +1349,17 @@ Regulating policy Cabinet decision: Gender-responsive policies over 20 years in 
 
 - What challenges were encountered in the education personnel?
 
-- Shortages of teaching staff
+✓ Shortages of teaching staff
 
-- Lack of qualified, trained and motivated teaching staff
+✓ Lack of qualified, trained and motivated teaching staff
 
-- Lack of training centers
+✓ Lack of training centers
 
 □ Other:
+
+✓ Low quality educational infrastructure and materials
+
+✓ High student – teacher ratio
 
 □ Shortages of teaching staff
 
@@ -1377,9 +1369,9 @@ Regulating policy Cabinet decision: Gender-responsive policies over 20 years in 
 
 □ Lack of training centers
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-- o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1390,10 +1382,6 @@ There is a shortage of male teachers for English, mathematics and physics
 □ Shortages of teaching staff
 
 Applicants for educational jobs are subject to an employment test and are required to have a bachelor's degree in the specialty and an educational qualification diploma or a bachelor's degree in educational pedagogy (content pedagogy, such as that granted by the College of Educational Sciences), except for the severe shortage of applicants for educational jobs in the specializations of mathematics, physics, and the English language, especially males. The Ministry is forced to employ job applicants who only hold a bachelor's degree in the specialty (i.e., without an education diploma). Accordingly, the Ministry enrolls them in the specialized professional diploma at the National Training Institute to bridge their knowledge and professional gap, in addition to enrolling all new teachers in a new teacher preparation course for a full year.
-
-- Low quality educational infrastructure and materials
-
-- High student -teacher ratio
 
 [[END OF PAGE 35]]
 
@@ -1423,13 +1411,13 @@ In the absence of a specific ratio in the law for the number of students to teac
 
 [[START OF PAGE 37]]
 
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education  for  International  Understanding,  Co-operation  and Peace  and  Education  relating  to  Human  Rights  and  Fundamental  Freedoms  //  2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
-- Curriculum includes human rights education.
+✓ Curriculum includes human rights education.
 
-- Educational and/or extracurricular activities are organized on human rights education.
+✓ Educational and/or extracurricular activities are organized on human rights education.
 
 □ Other:
 
@@ -1461,11 +1449,11 @@ For  reference:  Articles/Paragraphs  2(c)  and  5(1)(b)  of  the  Convention/Re
 
 - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked):
 
-- Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43 explicitly  apply  to  non-state  educational  institutions .  Please specify:
+✓ Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43 explicitly apply to non-state educational institutions. Please specify:
 
-The instructions for private and foreign schools issued by the Ministry of Education and Higher Education, emanating from the Education Law (Decision Law No. 8 of 2017),  especially  Articles  (3)  and  Article  (17),  are  consistent  with  the  above- mentioned recommendation in Articles (15) and (18). ) and (26) and (27)
+The instructions for private and foreign schools issued by the Ministry of Education and Higher Education, emanating from the Education Law (Decision Law No. 8 of 2017), especially Articles (3) and Article (17), are consistent with the above-mentioned recommendation in Articles (15) and (18). ) and (26) and (27)
 
-- Policies  aim  to  guarantee  that  the  development  of  non-state  education  does  not  generate discrimination  and  that  non-state  actors  offer  a  relevant  alternative  (without  supplanting  public education). Please specify:
+✓ Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:
 
 The  Ministry  of  Education  and  Higher  Education  is  committed  to  private  schools achieving the goals of the educational system contained in the Education Law, Article (3).
 
@@ -1473,17 +1461,17 @@ The  Ministry  of  Education  and  Higher  Education  is  committed  to  private
 
 □ Legal or regulatory framework lays out the conditions and minimum education standards for  the  establishment  and functioning  of  non-state educational  institutions.  Please  specify what is covered:
 
-- Registration
+✓ Registration
 
-- State monitoring and inspections
+✓ State monitoring and inspections
 
-- Qualifications of teachers
+✓ Qualifications of teachers
 
-- Health and sanitation
+✓ Health and sanitation
 
-- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
+✓ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
 
-- Infrastructure
+✓ Infrastructure
 
 > 42 Private, faith-based, NGOs, community actors.
 
@@ -1493,7 +1481,7 @@ The  Ministry  of  Education  and  Higher  Education  is  committed  to  private
 
 [[START OF PAGE 39]]
 
-- Curriculum
+✓ Curriculum
 
 ✓ Student-teacher ratio
 
@@ -1517,7 +1505,9 @@ The  Ministry  of  Education  and  Higher  Education  is  committed  to  private
 
 □ Curriculum
 
-□ Student-teacher ratio School closures
+□ Student-teacher ratio
+
+School closures
 
 - Please elaborate:
 
@@ -1527,23 +1517,23 @@ The Ministry of Education and Higher Education supervises and follows up the wor
 
 □ Low quality educational infrastructure and materials
 
-- Low number of professionally trained teachers
+✓ Low number of professionally trained teachers
 
-- High student -teacher ratio
+✓ High student – teacher ratio
 
-- Other:
+✓ Other:
+
+□ Issues in terms of equity and inclusion
+
+✓ Weak government regulatory and monitoring capacity
 
 □ Weak government regulatory and monitoring capacity
 
 □ Low number of professionally trained teachers
 
-□ High student - teacher ratio
+□ High student – teacher ratio
 
 □ Other:
-
-□ Issues in terms of equity and inclusion
-
-- Weak government regulatory and monitoring capacity
 
 [[END OF PAGE 39]]
 
@@ -1573,13 +1563,13 @@ Digital education is both an opportunity for enhancing access but also can lead 
 
 - Please  indicate  the  measures  taken  to  ensure  the  provision  of  quality  digital  education (several items may be ticked):
 
-- Digital technology use in education is provided for in the legal framework.
+✓ Digital technology use in education is provided for in the legal framework.
 
 Please indicate the relevant text and provisions:
 
 The Ministry developed a policy paper for digital transformation in education, which focused on blended learning and electronic management, infrastructure, curriculum development, culture, and digital skills for students, teachers, and supervisors, and providing open digital resources to support the curriculum.
 
-- Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to
+✓ Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to
 
 > 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
 
@@ -1591,15 +1581,15 @@ privacy of learners and education stakeholders (e.g., informed consent, transpar
 
 □ Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
-- Measures  to  remove  barriers  to  accessing  digital  content 45 ,  including  ensuring  access  to curriculum-aligned digital content available on free, public, multi-modal national platforms; highquality  content  is  available  in  core  subjects,  official  national  language(s),  and  designed  with inclusive features to assist learners with disabilities.
+✓ Measures to remove barriers to accessing digital content45, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
-- Digital  skills  incorporated  into  pre-  and  in-service  teacher  and  leadership  training  curricula  to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
+✓ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 
-- Future-ready  skills  (including  digital  skills,  data  and  AI  competencies,  critical  thinking,  etc.) integrated into formal curriculum at all levels of education
+✓ Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
 
-- Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
+✓ Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
 
-- A  well-established,  sustainable,  and  cost-effective  budget  secured  from  a  range  of  funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.
+✓ A well-established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.
 
 - Please elaborate on each of the measures taken:
 
@@ -1607,13 +1597,15 @@ privacy of learners and education stakeholders (e.g., informed consent, transpar
 
 Educational Digitization Policy
 
-□ Measures  to  remove  barriers  to  accessing  digital  content 46 ,  including  ensuring  access  to curriculum-aligned digital content available on free, public, multi-modal national platforms; highquality  content  is  available  in  core  subjects,  official  national  language(s),  and  designed  with inclusive features to assist learners with disabilities.
+□ Measures to remove barriers to accessing digital content46, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
-Weak interactive digital content in the Arabic language, which required creating content in the Arabic  language  or  translating  and  republishing  global  sources,  which  requires  licensing  and permissions to use the content. □ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
+Weak interactive digital content in the Arabic language, which required creating content in the Arabic language or translating and republishing global sources, which requires licensing and permissions to use the content.
+
+□ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 
 The  Ministry  included  digital  skills  in  the  training  of  teachers,  especially  new  teachers,  and uploaded some skills in the form of activities and assignments into the Palestinian curriculum in various specializations.
 
-□ Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education The Ministry has set, within the future plan, the inclusion of digital skills, artificial intelligence competencies, programming, and problem solving primarily in technological education and in the form of activities in other departments.
+□ Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
 
 > 45 Lack of internet connection, basic infrastructure or devices.
 
@@ -1623,7 +1615,9 @@ The  Ministry  included  digital  skills  in  the  training  of  teachers,  espe
 
 [[START OF PAGE 42]]
 
-□ Measures  address  the  digital  divide,  including  ensuring  access  to  reliable  electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
+The Ministry has set, within the future plan, the inclusion of digital skills, artificial intelligence competencies, programming, and problem solving primarily in technological education and in the form of activities in other departments.
+
+□ Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
 
 Some  schools  do  not  have  electricity,  while  others  promised  simple  Internet  services....  The Ministry  provided  solar  panels  to  provide  electricity,  and  searched  for  alternatives  to  provide Internet services to the school and neighboring homes, especially in marginalized areas.
 
@@ -1637,19 +1631,17 @@ The Ministry allocates a share of its budget (although it is generally small) fo
 
 □ Lack of equity and inclusion in digital learning solutions
 
-□ inadequate safety measures and IT support  to  respond  to  issues  of  child  online
+□ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
-- safety or reduce cyber security risks
+✓ Other:
 
-- Other:
-
-- Limited access to internet and/or electricity
+✓ Limited access to internet and/or electricity
 
 □ Limited access to hardware (devices, chargers, etc.)
 
 □ Difficulty in regulating the use of digital education solutions
 
-- Difficulty in sustainably financing digital education solutions at national scale
+✓ Difficulty in sustainably financing digital education solutions at national scale
 
 □ Lack of digital skills development for meaningful use of digital technology in teaching practice
 
@@ -1677,13 +1669,27 @@ No of wired Networks | No of wireless Networks
 
 ##### 3. Interactive educational platforms
 
+Central Interface
+
+Elearn (CMS)
+
+Thanwyia online
+
+Mena-Me (HRMS)
+
+eschool (LMS)
+
+Reading Platform
+
+STEM Platform
+
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting  and  improving  appropriate,  effective  and  inclusive  governance  and  accountability mechanisms;  quality  assurance;  management  information  systems;  transparent  and  effective financing  procedures  and  mechanisms;  and  institutional  management  arrangements,  as  well  as ensure that robust, timely and accessible data are a vailable' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available" (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
-- Monitoring mechanisms to assess compliance with the right to education obligations, including through management information systems.
+✓ Monitoring mechanisms to assess compliance with the right to education obligations, including through management information systems.
 
 - The  legal  and  regulatory  environment  and  policies  in  general:  It  includes  the  legal  framework regulating  the  educational  process,  the  availability  of  accountability  mechanisms,  the  ministry's systems and work manuals of national origin, and the organizational structure and its simulation of the results-based management approach.
 
@@ -1695,7 +1701,9 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 - Organization  culture:  resource  management,  accountability  practice:  accountability  practice, rewards  and  punishment,  clarity  of  responsibilities,  alignment  of  jobs  with  'service  delivery approach', working within job descriptions, and performance appraisal system.
 
-- The Ministry of Education has adopted a results-based monitoring and evaluation system since 2009 as a reliable basis. In monitoring the degree of achievement of the policies and goals of the plans,  which  include  ensuring  the  right  to  education  within  a  framework  of  government  and transparency, as this system and the annual periodic reports issued by it are prepared; As a diagnostic tool for the educational system; Because of the real data and evidence it provides, it is considered a compass for determining the direction of the educational process □ Monitoring results are made public.
+- The Ministry of Education has adopted a results-based monitoring and evaluation system since 2009 as a reliable basis. In monitoring the degree of achievement of the policies and goals of the plans, which include ensuring the right to education within a framework of government and transparency, as this system and the annual periodic reports issued by it are prepared; As a diagnostic tool for the educational system; Because of the real data and evidence it provides, it is considered a compass for determining the direction of the educational process
+
+□ Monitoring results are made public.
 
 Please provide the link:
 
@@ -1707,13 +1715,13 @@ https://www.moe.pna.ps/category/content/1036
 
 □ Monitoring processes are participatory, inclusive and regular.
 
-- Sector-wide and multisector approach is adopted to education governance.
+✓ Sector-wide and multisector approach is adopted to education governance.
 
 Contribution of the Education Sector Strategic Plan -ESSP -with the cross-sectoral strategies:
 
 #### 1. Cross-Sector Gender Strategy:
 
-First: Studies and assessment of the educational situation and the National Education Report 20002015 revealed that Palestine is one of the countries that place great emphasis on gender equality and justice. It also revealed that females outperform males on many issues whether regard to higher enrollment at all levels of education, mentioned in the first strategic goal, or in regard to quality education, which is mentioned in the second strategic goal.
+First: Studies and assessment of the educational situation and the National Education Report 2000-2015 revealed that Palestine is one of the countries that place great emphasis on gender equality and justice. It also revealed that females outperform males on many issues whether regard to higher enrollment at all levels of education, mentioned in the first strategic goal, or in regard to quality education, which is mentioned in the second strategic goal.
 
 Second: The Ministry of Education has taken into account gender issues in all of its interventions to  achieve  its  strategic  goals:  enrollment  and  access  to  education,  quality  of  education,  and governance of the education system.
 
@@ -1781,13 +1789,17 @@ https://www.moe.pna.ps/category/content/1036
 
 - What challenges were encountered in terms of governance?
 
-- Budgetary constraints
+✓ Budgetary constraints
 
-- Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
+✓ Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
 □ Poor dialogue with teachers' trade unions
 
-- Other:
+✓ Other:
+
+✓ Absence of supportive/ inconsistent/obsolete legal and policy environment
+
+✓ Lack or weakness of monitoring systems - including the lack of reliable data
 
 □ Budgetary constraints
 
@@ -1802,10 +1814,6 @@ https://www.moe.pna.ps/category/content/1036
 □ Budgetary constraints
 
 In recent years, the issue of a decline in external financial support provided to Palestinian education has begun to emerge, and it is only one of the challenges associated with the occupation and the incitement towards Palestinian curricula and educational institutions. Some countries have reduced the level of support for Palestinian education and its support, especially the countries in the joint financing basket, and the withdrawal of the Belgium from contributing to this basket, other countries have completely cut off their support, such as the United States of America. Another manifestation of this challenge is the reduction in support directed to the UNRWA, especially education, and the
-
-- Absence of supportive/ inconsistent/obsolete legal and policy environment
-
-- Lack or weakness of monitoring systems -including the lack of reliable data
 
 [[END OF PAGE 46]]
 
