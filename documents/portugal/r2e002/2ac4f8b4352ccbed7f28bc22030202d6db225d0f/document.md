@@ -30,7 +30,7 @@ Assinado em 29 de Agosto de 1997.
 
 Publique-se.
 
-OPresidente da República, JORGE SAMPAIO.
+O Presidente da República, JORGE SAMPAIO.
 
 Referendado em 3 de Setembro de 1997.
 
@@ -162,7 +162,7 @@ Promulgada em 29 de Agosto de 1997.
 
 Publique-se.
 
-OPresidente da República, JORGE SAMPAIO.
+O Presidente da República, JORGE SAMPAIO.
 
 Referendada em 8 de Setembro de 1997.
 
