@@ -54,17 +54,11 @@ LIRE LES JOURNAUX
 
 ARTICLES POPULAIRES
 
-Publics et xant les Attributions des Responsables de l'Administration Scolaire.
+Publics et fixant les Attributions des Responsables de l'Administration Scolaire.
 
 CAMEROUN : DECRET N° 2001/041 DU 10 FEVRIER 2001
 
-Common law PORTANT ORGANISATION DES ETABLISSEMENTS SCOLAIRES
-
-Droit privé 
-
-Accords et traités Mémoires Etudes Adresses 
-
-Informations générales 
+PORTANT ORGANISATION DES ETABLISSEMENTS SCOLAIRES
 
 PUBLICS ET FIXANT LES ATTRIBUTIONS DES RESPONSABLES
 
@@ -76,47 +70,41 @@ REPUBLIQUE DU CAMERON                             �
 
 -----                                                                            ----
 
-# DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etablissements Scolaires Publics et xant les Attributions des Responsables de l'Administration Scolaire.
+# DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etablissements Scolaires Publics et fixant les Attributions des Responsables de l'Administration Scolaire.
 
 LE PRESIDENT DE LA REPUBLIQUE,
 
 VU la Constitution ;
 
-VU loi n° 74/23 du 05 Décembre 1974 portant organisation communale et ses modicatifs subséquents ;
+VU loi n° 74/23 du 05 Décembre 1974 portant organisation communale et ses modificatifs subséquents ;
 
 VU la loi n° 87/015 du 15 Juillet 1987 portant création des Communautés Urbaines ;
 
-VU la loi n° 98/004 du 14 Avril Convertisseur de fichier Annonce fermée par
-
+VU la loi n° 98/004 du 14 Avril
 1998 d'orientation de l'éducation
+au Cameroun ;
 
-Signaler cette annonce
-
-au Cameroun ; Commencez à convertir vos Annonce Pourquoi cette annonce ?
-
-Doc en PDF et PDF en Doc - Free P
-
-VU
-
-la loi n° 2000/08 du 30 Juin
-
-Converter
-
+VU la loi n° 2000/08 du 30 Juin
 2000 portant loi des Finances de
-
-Pro PDF Converter
-
 la République du Cameroun pour
-
 l'exercice 2000/2001 ;
 
+Annonce
+Convertisseur de fichier
+Commencez à convertir vos
+Doc en PDF et PDF en Doc - Free P
+Converter
 Visiter le site
+Annonce
+Pro PDF Converter
+Annonce fermée par Google
+Signaler cette annonce Pourquoi cette annonce ?
 
 VU l'Ordonnance n° 62/OF/4 du 07 Février 1962 réglant le mode de présentation, les conditions d'exécution du budget de la République du Cameroun, de ses recettes, de ses dépenses et de toutes les opérations s'y rattachant ;
 
 VU    le décret n° 95/041 du 07 Mars 1995 portant organisation du Ministère de l'Education Nationale ;
 
-VU le décret n° 97/205 du 07 Décembre 1997 portant organisation du Gouvernement modié et complété par décret n° 98/067 du 28 Avril 1998,
+VU le décret n° 97/205 du 07 Décembre 1997 portant organisation du Gouvernement modifié et complété par décret n° 98/067 du 28 Avril 1998,
 
 DECRETE :
 
@@ -156,7 +144,7 @@ Cameroun: Nomination d'Inspecteurs d'Etat
 
 25, Nov 2019 | Les institutions publiques
 
-Cameroun: Nomination d'un responsable au Secrétariat permanent du Conseil de discipline budgétaire et nancière dans les Services du
+Cameroun: Nomination d'un responsable au Secrétariat permanent du Conseil de discipline budgétaire et financière dans les Services du
 
 Contrôle Supérieur de l'Etat
 
@@ -204,27 +192,17 @@ FAIRE UN DON
 
 Aidez nous à développer le
 #### Article 1er .
-- Le présent décret dénit l'organisation et le fonctionnement des Etablissements Scolaires Publics relevant du Ministère de l'Education Nationale et xe les attributions des responsables de l'Administration Scolaire.
+- Le présent décret définit l'organisation et le fonctionnement des Etablissements Scolaires Publics relevant du Ministère de l'Education Nationale et fixe les attributions des responsables de l'Administration Scolaire.
 
 #### Article 2.
 - Au sens du présent décret, sont considéré comme Etablissements Scolaires Publics les Etablissements créés par l'Etat, les Collectivités Territoriales Décentralisées ou les Organismes Publics.
 
 #### Article 3.
-- (1). - Les Etablissements Scolaires Publics Modèle Imprimable [PDF]
+- (1). - Les Etablissements Scolaires Publics comprennent :
 
-comprennent :
+- Les Etablissements Scolaires Maternels et Primaires ;
 
-Pour voir le modèle, télécha Annonce
-
-Les Etablissements Scolaires FreeTemplateFinder
-
-Maternels et Primaires ;
-
-Les Etablissements Ouvrir
-
-d'Enseignement Secondaires ;
-
-Annonce
+- Les Etablissements d'Enseignement Secondaires ;
 
 - Les Ecoles Post-Primaires ;
 
@@ -251,6 +229,12 @@ Annonce
 - Les Sections Ménagères (SM).
 
 (5). - Les Ecoles Normales d'Instituteurs de l'Enseignement Général et Technique et les Collèges Municipaux sont régis par des textes particuliers.
+
+Annonce
+Modèle Imprimable [PDF]
+Pour voir le modèle, télécha
+FreeTemplateFinder
+Ouvrir
 
 #### Article 4.
 - Les Etablissements Scolaires Publics ont pour mission de :
@@ -321,48 +305,26 @@ COMPTEUR DE VISITE
 
 (2). - Ce Fonds est assis sur les contributions exigibles. Il est constitué à hauteur de 5% desdites contributions.
 
-(3). - Un arrêté conjoint du Ministre en charge de l'Education Nationale et du Ministre en charge des Finances xe les modalités de fonctionnement et de gestion du Fonds de Solidarité et de Promotion de l'Education.
+(3). - Un arrêté conjoint du Ministre en charge de l'Education Nationale et du Ministre en charge des Finances fixe les modalités de fonctionnement et de gestion du Fonds de Solidarité et de Promotion de l'Education.
 
 # TITRE II
 
 # DE L'ORGANISATION ET DU FONCTIONNEMENT DES ETABLISSEMENTS SCOLAIRES MATERNELS ET PRIMAIRES
 
 #### Article 7.
-- (1).
+- (1). - Les Etablissements Scolaires et Maternels et Primaires comprennent les Organes suivants :
 
-- Les
+- Le Conseil d'Ecole ;
 
-Etablissements Scolaires et
+- La Direction d'Ecole.
 
-Maternels et Primaires
-
-comprennent les Organes
-
-suivants :
-
-Le Conseil d'Ecole ;
-
-La Direction d'Ecole.
-
-(2).
-
-- Les Conseils
-
-d'Etablissements Scolaires post-
+(2). - Les Conseils d'Etablissements Scolaires post-primaires ont la même composition et les mêmes attributions que les Conseils des Etablissements Scolaires Maternels et Primaires.
 
 Voir le PDF
-
 Télécharger Gratuitement
-
 Convert doc to pdf and pdf to doc.
-
 free.propdfconverter.com
-
 OUVRIR
-
-primaires ont la même
-
-composition et les mêmes attributions que les Conseils des Etablissements Scolaires Maternels et Primaires.
 
 ## CHAPITRE I :
 
@@ -418,34 +380,29 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 (5). - Le nombre des membres et les diverses représentations au Conseil d'Ecole sont modulés en fonction du milieu et de la taille de l'Etablissement Scolaire Maternel et Primaire.
 
 #### Article 9.
-- Le Conseil d'Ecole est Compte Joint
+- Le Conseil d'Ecole est dirigé par un Bureau chargé de la mise en œuvre des résolutions dudit Conseil et composé ainsi qu'il suit :
 
-dirigé par un Bureau chargé de la
+- Un Président ;
 
-mise en œuvre des résolutions dudit Conseil et composé ainsi En couple? Profitez de 2 ca Premier gratuites ! Annonce
-
-qu'il suit :
-
-BforBank
-
-Un Président ;
-
-En savoir plus
-
-Un Vice-Président ;
-
-Annonce
+- Un Vice-Président ;
 
 - Un Rapporteur ;
 
 - Un Agent Financier.
+
+Annonce
+Compte Joint
+En couple? Profitez de 2 ca Premier gratuites !
+BforBank
+En savoir plus
+Annonce
 
 #### Article 10.
 - (1). - Le Président et le Vice-Président du Bureau du Conseil d'Ecole sont élus parmi les membres dudit Conseil, pour un mandat d'un (01) an renouvelable trois (03) fois. Ils ne doivent pas être membres du personnel de l'Etablissement Scolaire Maternel et Primaire, ni élève dudit Etablissement.
 
 (2). - L'élection du Président et du Vice-Président se fait au scrutin uninominal et secret à un tour au sein du Conseil d'Ecole. Les résultats sont acquis à la majorité simple des voix des membres présents ou représentés.
 
-(3). - Le Directeur de l'Ecole fait oce de Rapporteur.
+(3). - Le Directeur de l'Ecole fait office de Rapporteur.
 
 (4). - Les fonctions d'Agent Financier sont assurées par l'un des représentants des Enseignants élu par les membres du Conseil d'Ecole au scrutin uninominal et secret à un tour.
 
@@ -461,26 +418,19 @@ Annonce
 - A l'initiative du représentant du Département de l'Education Nationale.
 
 #### Article 12.
-- (1). - Les convocations à une séance ordinaire du Conseil d'Ecole, accompagnées du projet de l'ordre du jour, doivent être notiées à tous ses membres dix (10) jours au moins avant la date de ladite séance. Ce délai est ramené à cinq (05) jour dans le cas d'une réunion extraordinaire.
+- (1). - Les convocations à une séance ordinaire du Conseil d'Ecole, accompagnées du projet de l'ordre du jour, doivent être notifiées à tous ses membres dix (10) jours au moins avant la date de ladite séance. Ce délai est ramené à cinq (05) jour dans le cas d'une réunion extraordinaire.
 
 (2). - Les membres du Conseil d'Ecole peuvent se faire représenter par  des mandataires, eux-mêmes membres dudit Conseil, munis d'une procuration écrite et légalisée. Aucun membre ne doit être porteur de plus d'une procuration.
 
 #### Article 13.
-- (1). - La présence Compte Joint
+- (1). - La présence des 2/3 des membres formant le Conseil d'Ecole est nécessaire pour la validité des décisions. Si ce quorum n'est pas atteint, le Conseil d'Ecole est reporté à quinzaine, et dans ce cas, il peut valablement décider quel que
 
-des 2/3 des membres formant le
-
-Conseil d'Ecole est nécessaire pour la validité des décisions. Si En couple? Profitez de 2 ca Premier gratuites ! Annonce 
-
-ce quorum n'est pas atteint, le
-
-Conseil d'Ecole est reporté à BforBank
-
-quinzaine, et dans ce cas, il peut
-
-valablement décider quel que En savoir plus
-
-Annonce soit le nombre des membres présents.
+Annonce
+Compte Joint
+En couple? Profitez de 2 ca Premier gratuites !
+BforBank
+En savoir plus
+Annonce
 
 https://www.camerlex.com/cameroun-decret-n-2001041-du-10-fevrier-2001-portant-organisation-des-etablissements-scolaires-publics-et-fixant-l…
 
@@ -493,6 +443,8 @@ https://www.camerlex.com/cameroun-decret-n-2001041-du-10-fevrier-2001-portant-or
 2/18/2020
 
 Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etablissements Scolaires Publics et fixant les Att…
+
+soit le nombre des membres présents.
 
 (2). - Le Conseil d'Ecole ne peut valablement décider que sur les points inscrits à l'ordre du jour en séance ordinaire et sur l'ordre du jour porté sur la convocation dans le cas d'une séance extraordinaire.
 
@@ -518,7 +470,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 
 - Rechercher et mobiliser les ressources en faveur de l'Ecole ;
 
-- S'assurer de la bonne utilisation des infrastructures, des ressources humaines, nancières et des matériels didactiques ;
+- S'assurer de la bonne utilisation des infrastructures, des ressources humaines, financières et des matériels didactiques ;
 
 - Veiller à la scolarisation des enfants en âge scolaire dans la communauté ;
 
@@ -537,31 +489,20 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 ## DE LA DIRECTION D'ECOLE
 
 #### Article 16.
-- (1 ). - La Direction de l'Ecole est assurée par un Directeur d'Ecole, éventuellement assisté d'un Adjoint.
+- (1). - La Direction de l'Ecole est assurée par un Directeur d'Ecole, éventuellement assisté d'un Adjoint.
 
 (2). - Dans le cadre de l'accompagnement de ses missions, le Directeur d'Ecole est assisté d'un Conseil de Maîtres et des Animateurs de niveau.
 
 #### Article 17.
-- (1). - Le Directeur Compte Joint
-
-d'Ecole représente
-
-la vie civil et en justice. Il est
-
-l'ordonnateur des dépenses de BforBank
-
-rôle de :
-
-l'Etablissement Scolaire Maternel et Primaire dans tous les actes de En couple? Profitez de 2 ca Premier gratuites ! Annonce
-
-l'Etablissement Scolaire et a pour
-
-En savoir plus
-
-
+- (1). - Le Directeur d'Ecole représente l'Etablissement Scolaire Maternel et Primaire dans tous les actes de la vie civil et en justice. Il est l'ordonnateur des dépenses de l'Etablissement Scolaire et a pour rôle de :
 
 - Evaluer le projet d'Ecole et le projet de budget après consultation des organes prévus à l'article 16 alinéa 2 ci-dessus ;
 
+Annonce
+Compte Joint
+En couple? Profitez de 2 ca Premier gratuites !
+BforBank
+En savoir plus
 Annonce
 
 https://www.camerlex.com/cameroun-decret-n-2001041-du-10-fevrier-2001-portant-organisation-des-etablissements-scolaires-publics-et-fixant-l…
@@ -576,7 +517,7 @@ https://www.camerlex.com/cameroun-decret-n-2001041-du-10-fevrier-2001-portant-or
 
 Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etablissements Scolaires Publics et fixant les Att…
 
-- Assurer la gestion pédagogique, administrative, nancière et matérielle de l'Ecole ;
+- Assurer la gestion pédagogique, administrative, financière et matérielle de l'Ecole ;
 
 - Elaborer le projet de Règlement Intérieur ;
 
@@ -648,7 +589,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 
 - Le Représentant des Personnels Administratifs ;
 
-- Deux (02) Représentants des Elèves dont une lle et un garçon ;
+- Deux (02) Représentants des Elèves dont une fille et un garçon ;
 
 - Trois (03) Représentants des Enseignants ;
 
@@ -698,7 +639,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 
 (2). -L'élection du Président et du Vice-Président se fait au scrutin uninominal et secret à un tour au sein du Conseil d'Etablissement. Les résultats sont acquis à la majorité simple des voix des membres présents ou représentés.
 
-(3). - Le Chef d'Etablissement fait oce de Rapporteur du Conseil.
+(3). - Le Chef d'Etablissement fait office de Rapporteur du Conseil.
 
 (4). - L'Intendant ou l'Econome est l'Agent Financier du Conseil d'Etablissement.
 
@@ -726,9 +667,9 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 
 - Approuver les besoins de l'Etablissement en personnels, constructions, équipements et matériels didactiques ;
 
-- S'assurer de la bonne utilisation des infrastructures, des ressources humaines, nancières et matérielles ;
+- S'assurer de la bonne utilisation des infrastructures, des ressources humaines, financières et matérielles ;
 
-- Veiller au respect des normes relatives aux structures et aux eectifs ;
+- Veiller au respect des normes relatives aux structures et aux effectifs ;
 
 - Participer aux opérations de recrutement des élèves ainsi qu'à celui des personnels vacataires et d'appoint ;
 
@@ -824,7 +765,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 #### Article 27.
 - (1). - Le Conseil d'Enseignement est constitué par l'ensemble des Enseignants d'une même discipline, spécialité ou famille de métiers de l'Etablissement.
 
-(2). - Ledit Conseil s'occupe des problèmes pédagogiques et matériels liés à l'application des programmes d'enseignement dans les diérentes disciplines.
+(2). - Ledit Conseil s'occupe des problèmes pédagogiques et matériels liés à l'application des programmes d'enseignement dans les différentes disciplines.
 
 (3). - Il est placé sous l'autorité d'un Animateur Pédagogique.
 
@@ -856,7 +797,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 
 (4). - Le Conseil de Classe est chargé d'examiner les questions pédagogiques et éducatives intéressant la vie de la classe et le déroulement de la scolarité de chaque élève.
 
-(5). - Le Conseil de Classe de n d'année, présidé par le Chef d'Etablissement, décide de l'orientation, de l'admission en classe supérieure, du redoublement ou de l'exclusion des élèves.
+(5). - Le Conseil de Classe de fin d'année, présidé par le Chef d'Etablissement, décide de l'orientation, de l'admission en classe supérieure, du redoublement ou de l'exclusion des élèves.
 
 ## CHAPITRE VII
 
@@ -952,7 +893,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 ### DE LA DIRECTION
 
 #### Article 33 .
-- La Direction d'un Etablissement d'Enseignement Secondaire ou Post Primaire est placée sous l'autorité d'un Chef d'Etablissement, (Proviseur dans les Lycées, Directeur dans les Collèges, Sections Artisanales Rurales et Sections Ménagères) qui en assure la responsabilité administrative, pédagogique, éducative et nancière.
+- La Direction d'un Etablissement d'Enseignement Secondaire ou Post Primaire est placée sous l'autorité d'un Chef d'Etablissement, (Proviseur dans les Lycées, Directeur dans les Collèges, Sections Artisanales Rurales et Sections Ménagères) qui en assure la responsabilité administrative, pédagogique, éducative et financière.
 
 #### Article 34.
 - (1). - Le Chef d'Etablissement :
@@ -1005,13 +946,13 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 
 - Assure l'application du règlement intérieur ;
 
-- Etablit les certicats de prise ou de reprise de service et les cartes d'identité scolaires et délivre les autorisations d'absence conformément aux textes en vigueur ;
+- Etablit les certificats de prise ou de reprise de service et les cartes d'identité scolaires et délivre les autorisations d'absence conformément aux textes en vigueur ;
 
 - Veille à la sécurité des personnes et des biens, à l'hygiène et à la salubrité de l'Etablissement et à la préservation de son environnement ;
 
 - Organise la visite médicale systématique des élèves et informe les parents de l'état de santé de leurs enfants ;
 
-- Veille à la diusion de la législation et de la règlementation scolaires ;
+- Veille à la diffusion de la législation et de la règlementation scolaires ;
 
 - S'assure de la qualité de la restauration dans l'établissement ;
 
@@ -1080,7 +1021,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 ### DE L'INTENDANCE ET DE L'ECONOMAT
 
 #### Article 39 .
-- L'Intendant ou l'Econome est l'agent nancier dans les Lycées ou les Collèges. A ce titre, il :
+- L'Intendant ou l'Econome est l'agent financier dans les Lycées ou les Collèges. A ce titre, il :
 
 - Procède à l'ouverture des comptes au nom de l'Etablissement scolaire auprès des Institutions bancaires ou postales ;
 
@@ -1118,7 +1059,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 #### Article 41.
 - (1). - Placé sous la responsabilité d'un Documentaliste, le Centre de Documentation et d'Information est chargé d'acquérir, classer et faire consulter les livres et toutes sortes de matériels didactiques utiles aux responsables, aux enseignants, aux élèves et à la communauté éducative.
 
-(2). - Le Documentaliste est également chargé de la diusion de l'information éducative.
+(2). - Le Documentaliste est également chargé de la diffusion de l'information éducative.
 
 ### SECTION VIII
 
@@ -1150,7 +1091,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 #### Article 43.
 - (1). - Placé sous l'autorité d'un Médecin assisté par un Assistant Social, le Service Social et de Médecine Scolaire est chargé de veiller sur la santé physique, mentale et morale des élèves.
 
-(3) . - Il dispose à cet eet d'une Inrmerie pour apporter les premiers soins aux élèves malades.
+(3) . - Il dispose à cet effet d'une Infirmerie pour apporter les premiers soins aux élèves malades.
 
 ### SECTION X
 
@@ -1173,7 +1114,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 # DES RESSOURCES DES ETABLISSEMENTS SCOLAIRES PUBLICS
 
 #### Article 46.
-- (1). - Les ressources nancières des Etablissements Scolaires Publics sont des deniers publics.
+- (1). - Les ressources financières des Etablissements Scolaires Publics sont des deniers publics.
 
 (2). - Elles comprennent :
 
@@ -1189,7 +1130,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 
 - Des contributions annuelles exigibles des élèves ;
 
-- Des frais d'inscription aux concours ociels ;
+- Des frais d'inscription aux concours officiels ;
 
 - Des contributions des usagers aux charges de fonctionnement ;
 
@@ -1221,13 +1162,13 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 #### Article 48.
 - (1). - Les élèves et autres des autres niveaux d'enseignement s'acquittent de la contribution exigible prévue à l'article 46 alinéa 2 ci-dessus.
 
-(2). - Aucune autre contribution nancière ou matérielle ne peut leur être exigée.
+(2). - Aucune autre contribution financière ou matérielle ne peut leur être exigée.
 
 #### Article 49.
-- Toutes les ressources nancières prévues à l'article 46 ci-dessus sont inscrites au budget de l'Ecole ou de l'Etablissement.
+- Toutes les ressources financières prévues à l'article 46 ci-dessus sont inscrites au budget de l'Ecole ou de l'Etablissement.
 
 #### Article 50.
-- Les modalités de gestion et de contrôle des nances des Etablissements Scolaires Publics sont xées par un arrêté conjoint du Ministre en charge de l'Education Nationale et du Ministère en charge des Finances.
+- Les modalités de gestion et de contrôle des finances des Etablissements Scolaires Publics sont fixées par un arrêté conjoint du Ministre en charge de l'Education Nationale et du Ministère en charge des Finances.
 
 #### Article 51 .
 - La gestion des Etablissements Scolaires Publics peut faire l'objet d'audits réalisés par des Cabinets Indépendants.
@@ -1237,7 +1178,7 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 # DISPOSITIONS DIVERSES ET FINALES
 
 #### Article 52 .
-- Sous la responsabilité du Chef d'Etablissement Scolaires, les droits d'examen sont collectés et reversé suivant les modalités dénis par des textes particuliers.
+- Sous la responsabilité du Chef d'Etablissement Scolaires, les droits d'examen sont collectés et reversé suivant les modalités définis par des textes particuliers.
 
 #### Article 53 .
 - Le Ministre chargé de l'Education Nationale peut, en cas de nécessité, prononcer la suspension ou la dissolution d'un Conseil d'Ecole ou d'un Conseil d'Etablissement.
@@ -1249,10 +1190,10 @@ Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etabl
 - Des arrêtés ministériels précisent, en tant que de besoin, les modalités d'application du présent décret.
 
 #### Article 56 .
-- Sont abrogées, toutes les dispositions antérieures contraires notamment celles des décrets n° 80/293 du 26 Juillet 1980 portant dénition des attributions des membres et des organes de l'Administration des Etablissements d'Enseignement Général et Technique, et n° 96/016/Pm du 13 Février 1996 instituant les comités de gestion nancière dans les Etablissements Scolaires Publics.
+- Sont abrogées, toutes les dispositions antérieures contraires notamment celles des décrets n° 80/293 du 26 Juillet 1980 portant définition des attributions des membres et des organes de l'Administration des Etablissements d'Enseignement Général et Technique, et n° 96/016/Pm du 13 Février 1996 instituant les comités de gestion financière dans les Etablissements Scolaires Publics.
 
 #### Article 57.
-- Le Ministre en charge de l'Education Nationale et le Ministre en charge des Finances sont chargés, chacun en ce qui le concerne, de l'application du présent décret qui sera enregistré, puis publié au Journal Ociel en français et en anglais.
+- Le Ministre en charge de l'Education Nationale et le Ministre en charge des Finances sont chargés, chacun en ce qui le concerne, de l'application du présent décret qui sera enregistré, puis publié au Journal Officiel en français et en anglais.
 
 Yaoundé, le 19 Février 2001
 
@@ -1300,7 +1241,7 @@ NOTE:
 
 PRÉCÉDENT 
 
-Cameroun : DECRET N° 2018/4821/CAB/PM DU 05 Juin 2018 portant création, organisation et fonctionnement du Comité National de Pilotage du Projet d'Implantation de l'Université InterEtats Cameroun - Congo.-
+Cameroun : DECRET N° 2018/4821/CAB/PM DU 05 Juin 2018 portant création, organisation et fonctionnement du Comité National de Pilotage du Projet d'Implantation de l'Université Inter-Etats Cameroun - Congo.-
 
 ARTICLES SIMILAIRES
 
@@ -1398,7 +1339,7 @@ https://www.camerlex.com/cameroun-decret-n-2001041-du-10-fevrier-2001-portant-or
 
 Cameroun : DECRET N° 2001/041 DU 10 FEVRIER 2001 portant organisation des Etablissements Scolaires Publics et fixant les Att…
 
-Cameroun: Nomination d'un responsable au Secrétariat permanent du Conseil de discipline budgétaire et nancière dans les Services du Contrôle Supérieur de l'Etat
+Cameroun: Nomination d'un responsable au Secrétariat permanent du Conseil de discipline budgétaire et financière dans les Services du Contrôle Supérieur de l'Etat
 
 25, Nov 2019 | Les institutions publiques
 
