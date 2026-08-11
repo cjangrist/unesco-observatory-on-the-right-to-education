@@ -26,13 +26,15 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 １
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
 
 In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
 
@@ -54,9 +56,7 @@ The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  C
 
 > 4 https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_summit.pdf
 
-5
-
-Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)
+> 5 Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)
 
 > 6 Tashkent-declaration-ecce-2022.pdf (unesco.org)
 
@@ -104,9 +104,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 4/34
 
@@ -126,7 +126,7 @@ Name of contact person: NAMATAME Yumi
 
 Email and telephone number of contact person: jpnatcom@mext.go.jp
 
-## Ratification and applicability of the Convention against Discrimination in Education10
+## I. Ratification and applicability of the Convention against Discrimination in Education10
 
 - Is your country a State Party to the Convention?
 
@@ -288,15 +288,17 @@ At the higher education stage, we will enhance the tuition fee reduction/exempti
 
 - Please provide details:
 
-In accordance with the spirit of the Constitution and the Basic Act on Education, and based on the Act on the Promotion of Human Rights Education and Human Rights AwarenessRaising and the basic plan of the same law, schools promote human rights education to raise awareness of respect for human rights through school education.
+In accordance with the spirit of the Constitution and the Basic Act on Education, and based on the Act on the Promotion of Human Rights Education and Human Rights Awareness-Raising and the basic plan of the same law, schools promote human rights education to raise awareness of respect for human rights through school education.
 
-The preamble and general provisions of the National Curriculum Standards emphasize respect for the value of the individual, respect for and cooperation with oneself and others, the cultivation of morality as the basis for living well together with others, a spirit of respect for humanity and reverence for life. In addition, respect for individual dignity and human rights is stipulated in each subject such as moral education, social studies, special activities, and civics. The National Curriculum Standards stipulates that the moral education should cover the topics such as striving to realize a society free of discrimination and prejudices."
+The preamble and general provisions of the National Curriculum Standards emphasize respect for the value of the individual, respect for and cooperation with oneself and
 
 8/34
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+others, the cultivation of morality as the basis for living well together with others, a spirit of respect for humanity and reverence for life. In addition, respect for individual dignity and human rights is stipulated in each subject such as moral education, social studies, special activities, and civics. The National Curriculum Standards stipulates that the moral education should cover the topics such as striving to realize a society free of discrimination and prejudices."
 
  Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
@@ -516,13 +518,9 @@ There is no stipulated condition for establishing incorporated schools in terms 
 
 The preamble and general provisions of the National Curriculum Standards emphasize respect for  the  value  of  the  individual,  respect  for  and  cooperation  with  oneself  and  others,  the cultivation of morality as the basis for living well together with others, a spirit of respect for humanity and reverence for life. In addition, respect for individual dignity and human rights is  stipulated in each subject such as moral education, social studies, special activities, and
 
-> Supra note 15.
+> 26 Supra note 15.
 
-26
-
-27
-
-Supra note 16.
+> 27 Supra note 16.
 
 13/34
 
@@ -638,9 +636,7 @@ The preamble and general provisions of the National Curriculum Standards emphasi
 
 > 33 Supra note 15.
 
-34
-
-> Supra note 16.
+> 34 Supra note 16.
 
 15/34
 
@@ -686,21 +682,17 @@ By creating platforms where universities with advanced initiatives and knowledge
 
 Early childhood education has been accessible free of charge for all children from 3 to 5 years of age. In the compulsory education stage, financial support is implemented for custodians of school-aged children or school-aged students found to encounter difficulties in receiving education for economic reasons. In addition, at the high school level, support measures are also in place, such as the High School Tuition Support Fund for tuition fees, and the High School Supplemental Scholarship Fund for reducing the burden of educational expenses other than tuition fees. At the higher education stage, we will enhance the tuition fee reduction/exemption programs provided by each university, and also provide grant-type scholarships and tuition fee reduction/exemption based on the Japan Student Services Organization Act and the Act on Support for Academic Studies at Universities, etc. Measures are being taken to provide financial support to students through these support systems (*) and loan-type scholarships.
 
-- From April 1, 2024, this system has been expanded to include middle-income groups such as multi-child households and private science, engineering, and agricultural students.
+* From April 1, 2024, this system has been expanded to include middle-income groups such as multi-child households and private science, engineering, and agricultural students.
 
 The preamble and general provisions of the National Curriculum Standards emphasize respect for  the  value  of  the  individual,  respect  for  and  cooperation  with  oneself  and  others,  the cultivation of morality as the basis for living well together with others, a spirit of respect for humanity and reverence for life. In addition, respect for individual dignity and human rights is stipulated in each subject such as moral education, social studies, special activities, and civics. The National Curriculum Standards stipulates that the moral education should cover the topics such as striving to realize a society free of discrimination and prejudices.
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
-35
+> 35 Supra note 15.
 
-36
-
-Supra note 15.
-
-Supra note 16.
+> 36 Supra note 16.
 
 17/34
 
@@ -710,7 +702,7 @@ Supra note 16.
 
 #### 2.1 Early childhood care and education
 
-For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37  and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38 .  In  the  current  context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -718,9 +710,9 @@ For reference: Early childhood care and education (ECCE) is not explicitly provi
 
  Prior to pre-primary education, ECCE services are affordable
 
-■ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+■ ECCE services are accessible on a non-discriminatory basis
 
-■ ECCE services are accessible on a nondiscriminatory basis
+■ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -746,7 +738,7 @@ Similarly,  in  the  case  of  day-care  centres  and  integrated  centres  for 
 
 ■ Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
-Since October 2019, early childhood education such as in Kindergartens, Day Care Centres and I ntegrated Centres for Early Childhood Education and Care in Japan has been accessible free of charge for all children from 3 to 5 years of age. The policy regarding free pre-primary education for 0-2 year-old children targets households exempted from residence tax.
+Since October 2019, early childhood education such as in Kindergartens, Day Care Centres and Integrated Centres for Early Childhood Education and Care in Japan has been accessible free of charge for all children from 3 to 5 years of age. The policy regarding free pre-primary education for 0-2 year-old children targets households exempted from residence tax.
 
  Pre-primary education is not free.
 
@@ -822,7 +814,9 @@ Foundation literacy
 
 Numeracy
 
-Social and emotional learning Others
+Social and emotional learning
+
+Others
 
  Disparity in learning outcomes
 
@@ -868,7 +862,7 @@ Article 56 of the School Education Act stipulates that "The course term for high
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
-Article 5.4 of the Basic Act on Education of Japan stipulates that no tuition fee are charged for compulsory education in schools established by the national and local governments. A t the high school level, support measures are also in place, such as the High School Tuition Support Fund for tuition fees, and the High School Supplemental Scholarship Fund for reducing the burden of educational expenses other than tuition fees.
+Article 5.4 of the Basic Act on Education of Japan stipulates that no tuition fee are charged for compulsory education in schools established by the national and local governments. At the high school level, support measures are also in place, such as the High School Tuition Support Fund for tuition fees, and the High School Supplemental Scholarship Fund for reducing the burden of educational expenses other than tuition fees.
 
 - Please indicate whether the legal minimum age for employment is aligned with the end of compulsory education:
 
@@ -890,7 +884,7 @@ Labor Standards Act （ Act No. 49 of April 7, 1947 ）
 
 Article 56 (1) An employer must not employ a child until the end of the first 31st of March that falls on or after the day on which the child reaches 15 years of age.
 
-- Notwithstanding  the  provisions  of  the  preceding  paragraph,  outside  of  school  hours,  an employer may employ a child of at least 13 years of age in an occupation involved in a business other a business as set forth in items (i) through (v) of Appended Table 1 which involves light labour that  is  not  injurious  to  the  child's  health  and  welfare,  with  the  permission  of  the  relevant government agency. The same applies to a child under 13 years of age employed in the production of motion pictures and theatrical performances.
+(2) Notwithstanding the provisions of the preceding paragraph, outside of school hours, an employer may employ a child of at least 13 years of age in an occupation involved in a business other a business as set forth in items (i) through (v) of Appended Table 1 which involves light labour that is not injurious to the child's health and welfare, with the permission of the relevant government agency. The same applies to a child under 13 years of age employed in the production of motion pictures and theatrical performances.
 
 - What challenges were encountered in realizing secondary education?
 
@@ -914,7 +908,7 @@ Article 56 (1) An employer must not employ a child until the end of the first 31
 
 #### 2.3 Higher education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher  education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39 ,  and  target  4.4 40 .  Article  4  of  the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should  be  pursued  by  'every  appropriate  means,  and  in  particular  by  the  progressive  introduction  of  free education'. Higher education includes technical and vocational education and training.
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39, and target 4.4 40. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this
 
 > 39 Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'.
 
@@ -925,6 +919,8 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
 
 - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
 
@@ -946,7 +942,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 As for the higher education stage in Japan, there is no stipulated condition considered for admission to higher education institution and programmes based on race, colour, sex, language, religion, political or other opinion, national or social origin, economic condition or birth . Based on this, we will enhance the tuition fee reduction/exemption programs provided by each university, and also provide grant-type scholarships and tuition fee reduction/exemption based on the Japan Student Services Organization Act and the Act on Support for Studying at Universities, etc. Measures are being taken to provide financial support to students through these support systems (*) and loan-type scholarships.
 
-- From April 1, 2024, this system has been expanded to include middle-income groups such as multi- child households and private-university science, engineering, and agricultural students.
+* From April 1, 2024, this system has been expanded to include middle-income groups such as multi-child households and private-university science, engineering, and agricultural students.
 
 In addition, the Standards for the Establishment of Universities provide for a credit transfer system, and the School Education Law and the Enforcement Regulations for the School Education Law allow for transfer admission to universities and skipping enrolment. Some universities offer a re-entry system .
 
@@ -1032,7 +1028,7 @@ Universities in Japan organise extension programmes for the public in order to r
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1152,7 +1148,7 @@ o Low quality educational infrastructure and materials
 
  Other:
 
-- o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1186,7 +1182,7 @@ Education at universities is carried out based on the independent and autonomous
 
 #### 3.4 Non-state actors in education
 
-For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non- state education provision 42 .
+For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision 42 .
 
 - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked):
 
@@ -1242,7 +1238,7 @@ Incorporated Educational Institutions officially authorised by the Government of
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Other:
 
@@ -1276,7 +1272,7 @@ The Act on the Promotion of the Informatization of School Education stipulates t
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
-■ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+■ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1318,9 +1314,7 @@ The Ministry of Education, Culture, Sports, Science and Technology (MEXT) has pr
 
  Lack of equity and inclusion in digital learning solutions
 
- inadequate safety measures and IT
-
-- support to respond to issues of child online safety or reduce cyber security risks
+ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
  Other:
 
@@ -1346,11 +1340,9 @@ The Ministry of Education, Culture, Sports, Science and Technology (MEXT) has pr
 
 ### 4     Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
-
-- Please elaborate on each of the measures taken:
 
  Monitoring mechanisms to assess compliance with the right to education obligations, including through management information systems.
 
@@ -1368,9 +1360,11 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 ■ There is a certain degree of decentralization in favour of local public authorities and autonomy for schools to ensure context relevance of their teaching.
 
+- Please elaborate on each of the measures taken:
+
 In  order  to  maintain  and  improve  the  national  level  of  compulsory  education  and  to guarantee  equal  educational  opportunities,  the  National  Treasury  Sharing  of  Compulsory Education  Expenses  Law  establishes  a  "national  treasury  sharing  system  for  compulsory education expenses," under which prefectures are required to bear the expenses related to salaries and allowances of key personnel of public compulsory education schools, and the national government is obligated to bear one-half of the expenses borne by the prefectures.
 
-Boards  of  education  are  the  central  players  in  local  educational  administration,  and  as organizations in charge of affairs related to local school education, social education, culture, sports,  etc.,  they  decide  important  matters  and  basic  policies  for  local  educational administration. In order to ensure political neutrality, continuity, and stability in education, and to reflect the diverse opinions of local residents, boards of education are independent from the heads of local governments, and as council-based executive bodies, are established in all local governments (prefectures, municipalities, etc.). The heads of local public entities, who have authority over matters related to universities and private schools, budgeting and execution, and the submission of draft ordinances, also play an important role with regard to local educational administration.
+Boards  of  education  are  the  central  players  in  local  educational  administration,  and  as organizations in charge of affairs related to local school education, social education, culture,
 
 33/34
 
@@ -1378,19 +1372,21 @@ Boards  of  education  are  the  central  players  in  local  educational  admin
 
 [[START OF PAGE 34]]
 
+sports, etc., they decide important matters and basic policies for local educational administration. In order to ensure political neutrality, continuity, and stability in education, and to reflect the diverse opinions of local residents, boards of education are independent from the heads of local governments, and as council-based executive bodies, are established in all local governments (prefectures, municipalities, etc.). The heads of local public entities, who have authority over matters related to universities and private schools, budgeting and execution, and the submission of draft ordinances, also play an important role with regard to local educational administration.
+
 - What challenges were encountered in terms of governance?
 
  Budgetary constraints
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
