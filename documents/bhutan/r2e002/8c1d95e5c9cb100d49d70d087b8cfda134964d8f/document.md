@@ -1,4 +1,12 @@
 [[START OF PAGE 1]]
+Education Sector Strategy
+
+Realizing Vision 2020
+Policy and Strategy
+
+Department of Education
+Ministry of Health and Education
+Thimphu
 
 Education Sector Strategy: Realising the Vision 2020
 
@@ -10,7 +18,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 # 1 Introduction
 
-- 1.1 The Education Sector Strategy: Realizing the Vision 2020 is an articulation of the goals and  processes  for  achieving  Bhutan's  aspirations  in  the  education  sector,  as  part  of  the wider development initiatives toward becoming a progressive sovereign nation enunciated in Vision  2020 . Vision  2020 provides  a  framework  of  development  principles,  which address  Bhutan's  unique  needs  and  priorities  for  attaining  its  underpinning  development objective  of  Gross  National  Happiness.    Human  Development,  Culture  and  Heritage, Balanced  and  Equitable  Development,  Governance  and  Environmentally  Sustainable Development are the cornerstones of this vision. Vision 2020 provides desirable long-term outcomes and milestones  in  each  sector  of  development.  The  Education  Sector  Strategy document comprises of two interrelated parts. Part I outlines the policies and strategies for the  20-year  period  and  the  action  plan  for  the  9 th Plan  (2002-07).  Part  II  provides  the Human Resource Development Plan for the next ten years (2002-2012).
+- 1.1 The Education Sector Strategy: Realizing the Vision 2020 is an articulation of the goals and processes for achieving Bhutan’s aspirations in the education sector, as part of the wider development initiatives toward becoming a progressive sovereign nation enunciated in Vision 2020. Vision 2020 provides a framework of development principles, which address Bhutan’s unique needs and priorities for attaining its underpinning development objective of Gross National Happiness. Human Development, Culture and Heritage, Balanced and Equitable Development, Governance and Environmentally Sustainable Development are the cornerstones of this vision. Vision 2020 provides desirable long-term outcomes and milestones in each sector of development. The Education Sector Strategy document comprises of two interrelated parts. Part I outlines the policies and strategies for the 20-year period and the action plan for the 9th Plan (2002-07). Part II provides the Human Resource Development Plan for the next ten years (2002-2012).
 
 - 1.2 Education is recognised both as a basic right and as a pre-requisite for achieving the wider social,  cultural  and  economic  goals  set  for  the  country  within  this  national  vision.    Six strategic objectives have been enunciated for this sector:
 
@@ -32,8 +40,8 @@ Universal primary enrolment | - | 2007
 --- | --- | ---
 Full enrolment of junior high school (class 8) | - | 2007
 Full enrolment of high school (class 10) | - | 2012
-Full adaptation of secondary school curricula to the Bhutanese context Attain student competencies equivalent to average level by | - | 2007
-International standard | - | 2010
+Full adaptation of secondary school curricula to the Bhutanese context | - | 2007
+Attain student competencies equivalent to average level by International standard | - | 2010
 Attain student competencies equivalent to excellence level by International standard | - | 2020
 Introduction of an operational distance education programme | - | 2007
 Full adult literacy | - | 2012
@@ -46,7 +54,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 [[START OF PAGE 3]]
 
-- 1.4 The  Education  Sector  Strategy  paper  will  serve  as  a  map  to  guide  policies  and  plans towards  the  2020  Vision.  It  will  highlight  main  obstacles  and  lay  out  strategic  options using the available research and the experience of other countries, yet recognising Bhutan's unique context. The strategy will also delineate the main activities that will be taken up immediately for implementation during the 9 th Five-Year Plan (2002-2007).
+- 1.4 The Education Sector Strategy paper will serve as a map to guide policies and plans towards the 2020 Vision. It will highlight main obstacles and lay out strategic options using the available research and the experience of other countries, yet recognising Bhutan’s unique context. The strategy will also delineate the main activities that will be taken up immediately for implementation during the 9th Five-Year Plan (2002-2007).
 
 ## 1.5 Macro Economic and Social Setting
 
@@ -54,7 +62,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 A  small  country  of  38,394 1 square  kilometres  with  a  population  of  600,000 2 ,  Bhutan provides a unique challenge for development.  Sandwiched between India and China, the country is completely landlocked, with rugged mountainous terrain rising steeply from 100 metres at the southern boarders to over 7000 metres in the north. The country can be broadly  divided  into  three  geographical  divisions  corresponding  to  3  distinct  climatic zones: the sub-tropical southern belt, the central inner Himalayan temperate region, and the  higher  Himalayan  region.  The  population  is  widely  scattered  across  the  steep mountain  slopes  and  some  valleys  in  the  southern  and  temperate  belts  making  the provision of social services, including education and training difficult.  Over 79% 3 of the population  is  engaged  in  subsistence  farming,  although  only  8%  of  the  land  is  under cultivation.
 
-- 1.7 Because of its geophysical and political situation, Bhutan remained isolated from the rest of the world until the middle of the last century. It was only in the early 1960s that Bhutan chose to break its isolation and make contacts with the outside world.  It embarked on the path of modernisation with the launch of its First Five-Year Development Plan in 1960. The overarching priority for development has been the establishment of a basic infrastructure  including  roads,  telecommunications,  health  and  education  services,  and modernisation of the agricultural sector. Strengthening its national identity, enhancing its people's  quality  of  life,  ensuring  the  sustainability  of  services,  conserving  its  rich  biodiversity  and  natural  resources,  and  achieving  self-sufficiency  in  basic  food  items  have been key themes which have underpinned development policy in the subsequent Five-Year Plans.    This  has  been  balanced  by  investments  in  key  economic  sectors  such  as hydropower, mining, forestry and limited tourism. Bhutan's development strategy has been cautious to ensure that the pace of change does not destroy its unique natural and cultural heritage.  The  strict  environmental  policies  of  the  Government  reinforced  by  a  strong conservation  ethic  amongst  the  population  has  kept  72.5%  of  the  country  under  forest cover.  Considered as one of the most important locations for bio-diversity, Bhutan aims to maintain a minimum of 60% of its land under forest cover.
+- 1.7 Because of its geophysical and political situation, Bhutan remained isolated from the rest of the world until the middle of the last century. It was only in the early 1960s that Bhutan chose to break its isolation and make contacts with the outside world. It embarked on the path of modernisation with the launch of its First Five-Year Development Plan in 1960. The overarching priority for development has been the establishment of a basic infrastructure including roads, telecommunications, health and education services, and modernisation of the agricultural sector. Strengthening its national identity, enhancing its people’s quality of life, ensuring the sustainability of services, conserving its rich bio-diversity and natural resources, and achieving self-sufficiency in basic food items have been key themes which have underpinned development policy in the subsequent Five-Year Plans. This has been balanced by investments in key economic sectors such as hydropower, mining, forestry and limited tourism. Bhutan’s development strategy has been cautious to ensure that the pace of change does not destroy its unique natural and cultural heritage. The strict environmental policies of the Government reinforced by a strong conservation ethic amongst the population has kept 72.5% of the country under forest cover. Considered as one of the most important locations for bio-diversity, Bhutan aims to maintain a minimum of 60% of its land under forest cover.
 
 - 1.8 A basic road network and telecommunication system now links major population centres of the country.  This has brought a large proportion of the population out of isolation. This also  facilitates  the  marketing  of  agricultural  products  and  access  to  goods  and  services. However, over half the population remains more than a half-day's walk from the nearest
 
@@ -72,57 +80,38 @@ Education Sector Strategy: Realising the Vision 2020
 
 [[START OF PAGE 4]]
 
-- road,  and  dependent  on  trails  and  mule  tracks  for  communication.  A  comprehensive primary  health  care  system  and  improved  access  to  potable  drinking  water  has  lowered infant mortality from 142 to 60.5 per 1,000 live births and increased life expectancy from 48 to 66 years during the last decade (1990-2000). Population growth estimated at 3.1% in 1994  has  declined  to  2.5% 4 in  2000,  and  efforts  are  being  made  to  reduce  this  further through national campaign and family planning program. 81% of 6-12 age group attends primary schools and enrolment continues to expand rapidly in all parts of the country.
+road, and dependent on trails and mule tracks for communication. A comprehensive primary health care system and improved access to potable drinking water has lowered infant mortality from 142 to 60.5 per 1,000 live births and increased life expectancy from 48 to 66 years during the last decade (1990-2000). Population growth estimated at 3.1% in 1994 has declined to 2.5%4 in 2000, and efforts are being made to reduce this further through national campaign and family planning program. 81% of 6-12 age group attends primary schools and enrolment continues to expand rapidly in all parts of the country.
 
-- 1.9 The  economy  is  being  progressively  transformed  from  subsistence  farming  to  a  broader cash-based economy. GDP per capita is estimated at US $ 656 (1999) 5 .    The  agriculture sector,  comprising  crops,  livestock  and  forestry,  accounts  for  34  percent  of  GDP,  and dominates the country's economy. However, it is estimated that Bhutan has achieved only 65% self-sufficiency in food grains. Bhutan makes up any shortage through imports from India  and  to  a  limited  extent  from  the  World  Food  Programme  support.  The  industrial sector, comprising manufacturing, mining, quarrying and electricity, accounts for 24.5% of GDP. Bhutan has abundant water resources and immense hydropower potential.  A 335 MW power plant at Chhukha provides more than 95% of the country's installed electricitygenerating capacity and represents 11% of GDP. Two new projects, Basachu with 58 MW of  capacity  and  Kurichu  with  60  MW  capacity  are  scheduled  for  completion  by  2002. Another project at Tala with 1020 MW capacity is scheduled to be completed in 2006. The tourism  industry,  while  contributing  less  than  3%  of  GDP,  is  important  in  terms  of  its capacity to generate convertible currency earnings. However, in keeping with the country's overall policy of preserving its cultural heritage, tourism is kept to a manageable number of about 5000 visitors per year.
+- 1.9 The economy is being progressively transformed from subsistence farming to a broader cash-based economy. GDP per capita is estimated at US $ 656 (1999)5. The agriculture sector, comprising crops, livestock and forestry, accounts for 34 percent of GDP, and dominates the country’s economy. However, it is estimated that Bhutan has achieved only 65% self-sufficiency in food grains. Bhutan makes up any shortage through imports from India and to a limited extent from the World Food Programme support. The industrial sector, comprising manufacturing, mining, quarrying and electricity, accounts for 24.5% of GDP. Bhutan has abundant water resources and immense hydropower potential. A 335 MW power plant at Chhukha provides more than 95% of the country’s installed electricity-generating capacity and represents 11% of GDP. Two new projects, Basachu with 58 MW of capacity and Kurichu with 60 MW capacity are scheduled for completion by 2002. Another project at Tala with 1020 MW capacity is scheduled to be completed in 2006. The tourism industry, while contributing less than 3% of GDP, is important in terms of its capacity to generate convertible currency earnings. However, in keeping with the country’s overall policy of preserving its cultural heritage, tourism is kept to a manageable number of about 5000 visitors per year.
 
 - 1.10 A  central  tenet  of  the  Royal  Government's  approach  to  fiscal  management  has  been  to meet current expenditures with domestic revenues, and this has now been largely achieved. However,  capital  expenditures  for  development  projects  continue  to  depend  on  foreign grants and soft loans.
 
 ### Education development
 
-- 1.11 Before the advent of modernisation,  the  only  form of  formal  education available in  the  country  was  monastic education,  that  too  only  for those aspiring to be monks or nuns. In 1960, there were only 11 modern schools with about  400  students  in  all  of Bhutan.    In  2002,  this  had increased to over 125,000 students spread over 408 schools and institutes. In
+- 1.11 Before the advent of modernisation, the only form of formal education available in the country was monastic education, that too only for those aspiring to be monks or nuns. In 1960, there were only 11 modern schools with about 400 students in all of Bhutan. In 2002, this had increased to over 125,000 students spread over 408 schools and institutes. In addition, there were 5,000 students enrolled in the formal monastic order supported by the government while another 10,000 was estimated to have been enrolled in the village
 
 Figure 1: Enrolment 1961-2002 (In Thousands)
 
 0
-
 20
-
 40
-
 60
-
 80
-
 100
-
 120
-
 140
-
 160
 
-Prior to
-
-1961
-
+Prior to 1961
 1966
-
 1971
-
 1976
-
 1981
-
 1987
-
 1992
-
 2002
 
 Years
-
-addition, there were 5,000 students enrolled in the formal monastic order supported by the government  while  another  10,000  was  estimated  to  have  been  enrolled  in  the  village temples  as  private  students.  Another  3,000  students  were  enrolled  within  the  vocational and  different  training  institutions  run  by  various  Government  departments.  Furthermore, the Education Department has since 1993 begun an Adult Literacy Programme targeted to those who have not taken part in the system of formal education and early school dropouts. The programme is credited for making about 10,000 young adults literate in Dzongkha, the national language.
 
 > 4 All Health related indicators taken from National Health Survey, 2000.
 
@@ -136,7 +125,12 @@ Education Sector Strategy: Realising the Vision 2020
 
 [[START OF PAGE 5]]
 
-- 1.12 The  increase  in  enrolment  has  been  attributed  to  the  high  priority  accorded  to  the
+temples as private students. Another 3,000 students were enrolled within the vocational and different training institutions run by various Government departments. Furthermore, the Education Department has since 1993 begun an Adult Literacy Programme targeted to those who have not taken part in the system of formal education and early school dropouts. The programme is credited for making about 10,000 young adults literate in Dzongkha, the national language.
+
+- 1.12 The increase in enrolment has been attributed to the high priority accorded to the
+
+Table 1: Outlays of Five Year Development Plans, First to Eighth Plan (1961-2002)
+(NU in million)
 
 Sector | 1st Plan 1961-66 (actual) | 2nd Plan 1966-71 (actual) | 3rd Plan 1971-76 (actual) | 4th Plan 1976-81 (actual) | 5th Plan 1981-87 (revised) | 6th Plan 1987-92 (revised) | 7th Plan 1992-97 (budget) | 8th Plan 1997-2002 (budget)
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -144,23 +138,21 @@ Total Government Budget | 107.1 | 202.2 | 475.2 | 1106.2 | 4648.3 | 9559.2 | 155
 Education | 9.4 | 35.7 | 90.0 | 134.6 | 519.1 | 778.8 | 1738.0 | 3292.7
 Percentage of Education | 8.8% | 17.7% | 18.9% | 12.2% | 11.2% | 8.1% | 11.1% | 9.4%
 
-Table 1: Outlays of Five Year Development Plans, First to Eighth Plan (1961-2002) (NU in million)
-
-Source:  Statistical Yearbooks of Bhutan, 1998, CSO, Planning Commission RGOB, Thimphu
+Source: Statistical Yearbooks of Bhutan, 1998, CSO, Planning Commission RGOB, Thimphu
 
 Education sector by the government to address critical shortage of human resource in the country.  Education  is also viewed as one of the basic needs required to achieve Gross National Happiness. Because of these, education has continued to receive a major share of the Government budget since the beginning of the 1960s. The proportion of education budget to the  total  government budget  has  continued to be around 10%, even  in  the  face  of emerging priorities and competing
 
 Table 2: Summary of students enrolment and staff in different levels of schools, and Institutes under direct administration of education Department as of August 2002.
+
+Sl. No. | Level of schools | Nos | Enrolment Boys | Enrolment Girls | Enrolment Total | Teachers Bht | Teachers N/Bht | Teachers Tot
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Sl. | Level of schools | Nos | Teachers
-No. | Boys | Girls | Total | Bht | N/Bht | Tot
 1 | Community Schools | 182 | 11353 | 9625 | 20978 | 529 | 2 | 531
 2 | Primary Schools | 97 | 15368 | 13481 | 28849 | 722 | 31 | 753
 3 | Lower Secondary Schools | 65 | 21708 | 20277 | 41985 | 949 | 205 | 1154
 4 | Middle Secondary Schools | 27 | 10256 | 8938 | 19194 | 455 | 214 | 669
 5 | Higher Secondary Schools | 12 | 4962 | 3502 | 8464 | 201 | 145 | 346
 6 | Private Schools | 14 | 2002 | 1811 | 3813 | 144 | 71 | 215
-Sub-total | 397 | 65649 | 57634 | 123283 | 3000 | 668 | 3668
+Sub-total |  | 397 | 65649 | 57634 | 123283 | 3000 | 668 | 3668
 Institutions directly administered by Education Department:
 1 | Sherubtse College | 1 | 437 | 188 | 625 | 19 | 40 | 59
 2 | National Inst. of Education | 1 | 263 | 118 | 381 | 24 | 5 | 29
@@ -168,13 +160,14 @@ Institutions directly administered by Education Department:
 4 | Inst, for Language & Cultural Studies | 1 | 152 | 73 | 225 | 26 | 1 | 27
 5 | Nat. Inst. for the Disabled | 1 | 27 | 10 | 37 | 7 | 1 | 8
 6 | Surey Sanskrit Patshala | 1 | 85 | 58 | 143 | 4 | 0 | 4
-7 | Dhoban Sanskrit Patshala | 1 | Included | above
-Sub-total | 7
-1294 | 750 | 2044 | 129 | 48 | 177
-Non formal Education Programme | (centres) | 292 | 2840 | 6958 | 9798 | 256 | 256
+7 | Dhoban Sanskrit Patshala | 1 | Included above |  |  |  |  | 
+Sub-total |  | 7 | 1294 | 750 | 2044 | 129 | 48 | 177
+Non formal Education Programme (centres) |  | 292 | 2840 | 6958 | 9798 | 256 |  | 256
+Total |  | 404 | 69783 | 65342 | 135125 | 3129 | 716 | 4101
+
 Source:Education Department, General Statistics, 2002, Thimphu
 
-demands from other sectors.  The growth is also attributed to the increased awareness of the value of education amongst the Bhutanese population.  Compared to the difficulties of early years of the education system when children had to be conscripted into the schools, parents  now  not  only  demand  schools  but  are  willing  to  contribute  much  more  for  the education  of  their  children.    A  system  of  community  participation  in  the  building  and maintenance of primary schools has now been firmly established, reducing the burden on Government.
+demands from other sectors. The growth is also attributed to the increased awareness of the value of education amongst the Bhutanese population. Compared to the difficulties of early years of the education system when children had to be conscripted into the schools, parents now not only demand schools but are willing to contribute much more for the education of their children. A system of community participation in the building and
 
 Education Sector Strategy: Realising the Vision 2020
 
@@ -184,11 +177,53 @@ Education Sector Strategy: Realising the Vision 2020
 
 [[START OF PAGE 6]]
 
-- 1.13 Despite these achievements, it is estimated that the primary enrolment rate is estimated to be  only  81%.  Adult  literacy  is  estimated  to  be  about  54%.    Some  of  the  progress  being made in enhancing education coverage is being offset by population growth resulting, in part,  from  improved  medical  services.  The  difficult  mountain  terrain,  climate,  limited communication links and a dispersed pattern of settlement have impeded access to primary education.
+maintenance of primary schools has now been firmly established, reducing the burden on Government.
+
+- 1.13 Despite these achievements, it is estimated that the primary enrolment rate is estimated to be only 81%. Adult literacy is estimated to be about 54%. Some of the progress being made in enhancing education coverage is being offset by population growth resulting, in part, from improved medical services. The difficult mountain terrain, climate, limited communication links and a dispersed pattern of settlement have impeded access to primary education.
 
 - 1.14 Bhutan  adopts  a  7-year  primary  education  cycle  followed  by  6  years  of  secondary education leading to tertiary education. Basic education level in Bhutan has been defined to include 11 years of free education (Primary + 4 years of secondary or till end of class X. The system is described by the figure below.  Children begin their schooling at the age of 6 when they enter the first grade of primary, known as Pre-Primary class (PP). At the end of Primary cycle, children are required to sit for a national level examination which is set by the  Bhutan  Board  of  Examinations  but  administered  and  assessed  by  the  schools.  At present, about 85% of those that reach the end of the Primary (grade VI) continue to the next level of education while others drop or repeat classes.
 
 - 1.15 The secondary education programme comprises two years of junior secondary school, two
+
+Figure 2: Formal Education Structure
+
+AGE
+6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23
+Primary Education | Secondary Education | Higher Education
+Level/Institute | Basic Education Level | Post - Basic Education level
+Primary | PP | I | II | III | IV | V | VI
+Lower Secondary | PP | I | II | III | IV | V | VI | VII | VIII
+Middle Secondary | VII | VIII | IX | X
+Higher Secondary | VII | VIII | IX | X | XI | XII
+Sherubtse College (Bachelors in Arts, Commerce, Science, Computers) | B1 | B2 | B3 | B4* | M1 | M2
+*only for computers
+(Masters programme to be introduced by 2007)
+Royal Technical Institute | C1 | C2
+Rigney Institute | C1
+Institutes for Zorig Chusum | I | II | III | IV | V | VI | VII | VIII | IX | X | XI | XII
+National Drivers Training Institute | C1
+Royal Bhutan Polytechnic | Dip1 | Dip2 | Dip3 | B1 | B2 | B3
+(To be upgraded to provide degree courses)
+Royal Institute of Health Science | Dip1 | Dip2 | Dip3 | B1 | B2 | B3
+National Resource Training Institute | Dip1 | Dip2 | Dip3 | B1 | B2 | B3
+(Bachelors programme being planned)
+Vocational Institutes (To be established) | C1 | C2
+Construction Training Centre (To be established) | C1 | C2
+National Institute of Education (Paro and Samtse) | PTC1 | PTC2 | B.Ed1 | B.Ed2 | B.Ed3 | PGCE
+Institute of Language and Cultural Studies (Masters programme to be introduced by 2007) | XI | XII | B1 | B2 | B3 | M1 | M2
+National Institute for Traditional Medicine | B1 | B2 | B3 | B4
+
+Colour Key
+General Education Programme
+Vocational/Technical Education Programme
+Teacher Education Programme
+Traditional Education Programme
+
+Glossary:
+PP= Pre Primary, Dip= Diploma, B= Bachelors
+PTC= Primary Teacher's Certificate,
+PGCE= Post Graduate Certificate in Education.
+C= Certificate, M= Masters
 
 Education Sector Strategy: Realising the Vision 2020
 
@@ -204,67 +239,39 @@ education
 
 under a national framework to provide coordination, standards and relevance. A National Technical Training Authority has been established to undertake this task.
 
-1.16 Tertiary
-
-0
-
-1000
-
-2000
-
-3000
-
-4000
-
-5000
-
-6000
-
-7000
-
-8000
-
-9000
-
-PP
-
-I
-
-II
-
-III
-
-IV
-
-V
-
-VI
-
-VII
-
-VIII
-
-IX
-
-X
-
-XI
-
-XII
-
-Grades
+Figure 3: Enrolment in the general education programme by grades, August 2002
 
 Enrolment
-
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
 Boys
-
 Girls
+PP
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+Grades
 
-education  in  Bhutan  is  provided  in  Sherubtse  College,  the  two  National  Institutes  of Education at Paro and Samtse, the Institute of Language and Culture Studies, the National Institute  of  Health  Sciences,  and  the  National  Institute  of  Traditional  Medicine,  which together  offer  higher  education  to  8,000  students.  In  addition,  Bhutan  continues  to  send about 100 students annually on scholarships to other countries, mostly to study medicine, engineering  and  agricultural  sciences.  The  education  structure  is  a  steep  pyramid  with students leaving the system at every stage.  Less than 1% of the total enrolment is in higher education
+1.16 Tertiary education in Bhutan is provided in Sherubtse College, the two National Institutes of Education at Paro and Samtse, the Institute of Language and Culture Studies, the National Institute of Health Sciences, and the National Institute of Traditional Medicine, which together offer higher education to 8,000 students. In addition, Bhutan continues to send about 100 students annually on scholarships to other countries, mostly to study medicine, engineering and agricultural sciences. The education structure is a steep pyramid with students leaving the system at every stage. Less than 1% of the total enrolment is in higher education
 
-- 1.17 In  order  to  make  education  accessible  to  everyone,  free  tuition,  textbooks,  sports  items, meals  and  boarding  facilities,  where  required  are  provided  by  the  government.  The Government  also  provides  free  stationery  to  its  rural  schools.  This  is  supported  by appropriate contributions from the parents to make education services possible and to also engender  a  sense  of  participation  amongst  the  communities  at  large.  Rural  communities contribute to the building and maintenance of their schools. Where there is feeding project, they also contribute to part of the feeding costs. In addition, a nominal admission fee of Nu. 5 is charged for every child enrolling at PP. Students are also required to contribute towards a school development fund at the rate of Nu. 30 per annum for primary schools,
-
-Figure 3: Enrolment in the general education programme by grades, August 2002
+- 1.17 In order to make education accessible to everyone, free tuition, textbooks, sports items, meals and boarding facilities, where required are provided by the government. The Government also provides free stationery to its rural schools. This is supported by appropriate contributions from the parents to make education services possible and to also engender a sense of participation amongst the communities at large. Rural communities contribute to the building and maintenance of their schools. Where there is feeding project, they also contribute to part of the feeding costs. In addition, a nominal admission fee of Nu. 5 is charged for every child enrolling at PP. Students are also required to contribute towards a school development fund at the rate of Nu. 30 per annum for primary schools,
 
 Education Sector Strategy: Realising the Vision 2020
 
@@ -332,6 +339,12 @@ Education Sector Strategy: Realising the Vision 2020
 
 [[START OF PAGE 10]]
 
+- Special Education
+
+- Decentralisation and System Management Process
+
+# 2 Early Childhood Care and Development
+
 ## Vision
 
 - 2.1 All children aged 0-5 years will be supported to enhance their intellectual, emotional and physical development through a programme that enables them to grow in their familiar and natural environment.  Priority will be given to home- and family-based approaches, with additional inputs from institutional structures and options, which recognise the increasing diversity of life-styles and settings in which children are now being raised.
@@ -344,13 +357,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 - 2.4 The Government requires that private operators of nursery schools sign a memorandum of understanding  which  outlines  the  broad  principles  and  procedures  for  their  operation. However,  there  is  little  in  the  way  of  guidance  or  regulation  vis-à-vis  the  methods  of instruction and learning content used in these schools. There is no systematic inspection of these facilities and a lack of quality criteria governing their functioning and improvement.
 
-- 2.5 Outside of the institutional realm, some progress is being made toward improving ECCD activities at the home and community levels. Benefiting from the important progress made in recent years in non-formal education (literacy and numeracy training, primarily targeting out-of-school adolescent girls and women), the Government is developing a series of postliteracy  materials  that  highlight  the  theme  of  ECCCD.  These  booklets  are  to  be  used  by those who completed a basic nine-month literacy programme in order to ensure retention of newly acquired literacy skills. The inclusion in literacy materials of ideas, information and instructions on how parents and other family members can create a stimulating and positive environment for the young child in the home constitutes an important initial step for homebased ECCD programming in Bhutan. The large body of literature on ECCD shows the important impact of a rich and stimulating home environment on the positive growth and
-
-- Special Education
-
-- Decentralisation and System Management Process
-
-# 2 Early Childhood Care and Development
+- 2.5 Outside of the institutional realm, some progress is being made toward improving ECCD activities at the home and community levels. Benefiting from the important progress made in recent years in non-formal education (literacy and numeracy training, primarily targeting out-of-school adolescent girls and women), the Government is developing a series of post-literacy materials that highlight the theme of ECCCD. These booklets are to be used by those who completed a basic nine-month literacy programme in order to ensure retention of newly acquired literacy skills. The inclusion in literacy materials of ideas, information and instructions on how parents and other family members can create a stimulating and positive environment for the young child in the home constitutes an important initial step for home-based ECCD programming in Bhutan. The large body of literature on ECCD shows the important impact of a rich and stimulating home environment on the positive growth and
 
 Education Sector Strategy: Realising the Vision 2020
 
@@ -374,7 +381,7 @@ development of the young child. It is this which future ECCD programming would s
 
 ## Strategies
 
-- 2.10 The  social  and  physical  environment  is  the  most  important  pre-condition  for  child development. The ECCD programme should, therefore, be a synergistic initiative involving the sectors and institutions engaged in the delivery of health, nutrition, water, sanitation, housing,  labour  and  education  programmes.  While  the  enabling  physical  and  social  preconditions  will  be  addressed  through  a  multi-sector  programming  framework,  a  priority ECCD programme of the Education Ministry will deal mainly with the issue of children's cognitive, emotional and social development.
+- 2.10 The social and physical environment is the most important pre-condition for child development. The ECCD programme should, therefore, be a synergistic initiative involving the sectors and institutions engaged in the delivery of health, nutrition, water, sanitation, housing, labour and education programmes. While the enabling physical and social pre-conditions will be addressed through a multi-sector programming framework, a priority ECCD programme of the Education Ministry will deal mainly with the issue of children’s cognitive, emotional and social development.
 
 - 2.11 Bhutan  will  focus  on  the  family  as  the  place  and  process  for  providing  quality  and sustainable early childhood development programme. ECCD will be seen primarily as the domain  of  parents,  thus  avoiding,  to  the  greatest  extent  possible,  the  establishment  of formal institutes or delivery systems that provide a poor substitute for parenting. Initially,
 
@@ -398,7 +405,7 @@ the programme will identify good ECCD practices both in Bhutan and in other coun
 
 ## Action Plan
 
-- 2.16 During the 9 th Plan,  a  unit  which  includes  a  trained  child  development  specialist  will  be established within the Education Ministry to spearhead the development of policy, strategic programming, implementation and monitoring of the ECCD programme. The first task of the unit shall be to undertake an in-depth research to study how best to address the ECCD needs in the rural and  urban areas. Based on this, a policy for ECCD will be formulated which will seek to meet the vision of ECCD for all children between 0-5 yeas.
+- 2.16 During the 9th Plan, a unit which includes a trained child development specialist will be established within the Education Ministry to spearhead the development of policy, strategic programming, implementation and monitoring of the ECCD programme. The first task of the unit shall be to undertake an in-depth research to study how best to address the ECCD needs in the rural and urban areas. Based on this, a policy for ECCD will be formulated which will seek to meet the vision of ECCD for all children between 0-5 yeas.
 
 - 2.17 A series of programme highlighting good child rearing practice will be developed and aired on the national TV as well as the radio.  These programmes will be targeted both at rural and urban parents and family members.
 
@@ -414,7 +421,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 - 2.19 Two  of  the  lecturers  from  NIEs  as  well  as  a  staff  member  from  the  ECCD  unit  will undertake a diploma/Master course in ECCD related studies. Apart from supporting ECCD related education within the NIEs, these staff members will also help to produce materials for use by NFE, TV and radio programmes.
 
-- 2.20 A priority target group to be addressed by the ECCD programme will include those living in  both  rural  and  urban  areas  where  changing  lifestyles  have  disrupted  traditional  childrearing and care practices. In particular, these will be children of working parents.
+- 2.20 A priority target group to be addressed by the ECCD programme will include those living in both rural and urban areas where changing lifestyles have disrupted traditional child-rearing and care practices. In particular, these will be children of working parents.
 
 - 2.21 A  comprehensive  framework  of  curriculum  content,  methods  and  standards  will  be formulated  to  guide  the  development  of  private  nurseries.  Government  support  for  such institutes will be that of a facilitator and guide rather than provider of resources.
 
@@ -422,7 +429,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 ## Vision
 
-- 3.1 All children of school-going age will be enrolled in primary education by 2007 6 or the end of  the  9 th Five-Year  Plan.  Expansion  of  the  coverage  of  primary  education  will  be accompanied by further efforts to achieve improvement in the quality of basic education. Education at this level will be guided by a holistic concept based on the total development of the child with increasing attention on the individual learning needs of each child.
+- 3.1 All children of school-going age will be enrolled in primary education by 2007 6 or the end of the 9th Five-Year Plan. Expansion of the coverage of primary education will be accompanied by further efforts to achieve improvement in the quality of basic education. Education at this level will be guided by a holistic concept based on the total development of the child with increasing attention on the individual learning needs of each child.
 
 - 3.2 A key objective of primary education will be to instil values in children, at an early age, of the  way  of  life  based  on  the  principle  of  achieving  human  happiness.  The  education programme  will  seek  to  engender  awareness  of  the  nation's  unique  cultural  heritage including appreciation for rural, agricultural life. Curricula will be the subject of continuous monitoring and review, with adaptation taking place in response to changing needs  and  development  priorities.  The  achievement  of  these  objectives  will  be  largely based on the capacity to train teachers who are highly dedicated and professional in their approach  to  education.  This  necessitates  an  increasingly  'teacher-centred'  approach  to education whereby the skills and capacities of teachers are viewed as the key elements in promoting  child-centred,  quality  education.  With  the  increasing  availability  of  modern technologies, including computers and the internet, a variety of new possibilities are now available to enrich the teaching-learning environment at the primary level.
 
@@ -470,7 +477,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 - 3.12 The immediate problem of teacher shortage is being addressed by instituting a generous additional allowance for teachers equivalent to 30% of the salaries and by expanding the teacher  training  capacity.  A  constant  challenge  is  in  getting  good  teachers  to  serve  in remote and difficult areas in order to ensure parity in education quality across regions. This requires a wide range of programmes including additional and improved service conditions in  these  areas  especially improved staff housing, special considerations during selections for promotion, training and studies abroad.
 
-- 3.13 While recognising the virtues of including a variety of experiences within the curriculum, there  is  also  a  need  to  take  stock  of  criticism  that  the  system  is  not  able  to  instil  core competencies such as reading, writing and mathematical skills - the foundations for later learning.    The  challenge  is  in  striking  a  balance  between  being  innovative  and  ensuring basic competencies in these areas.
+- 3.13 While recognising the virtues of including a variety of experiences within the curriculum, there is also a need to take stock of criticism that the system is not able to instil core competencies such as reading, writing and mathematical skills – the foundations for later learning. The challenge is in striking a balance between being innovative and ensuring basic competencies in these areas.
 
 - 3.14 Another challenge to improving quality of education will lie in upgrading the professional competencies  of  the  existing  teaching  force  many  of  whom  have  only  Class  VIII  or  X academic  qualifications  and  lack  adequate  competence  to  provide  the  foundations  of scholarship and competencies in basic literacy and mathematical skills at the primary level. There is a lack of effective support and monitoring mechanisms for teachers throughout the system.  This has frustrated teachers and the system, affecting the morale and efficiency of teachers.    The  challenge  is  in  getting  competent  educationists  to  fill  in  this  gap,  and structuring an efficient process of monitoring and support within the constraints of human resources,  difficult  geography  and  an  underdeveloped  but  emerging  communications infrastructure.
 
@@ -506,11 +513,11 @@ Education Sector Strategy: Realising the Vision 2020
 
 ## Action Plan
 
-- 3.21 In  order  to  address  the  issue  of  access  to  and  high  demand  for  primary  schooling, approximately  120  more  community  primary  schools  will  be  built  during  the  9 th Plan. Additional classrooms shall also be built in the existing schools to ensure that class sizes do not swell beyond 40 children.
+- 3.21 In order to address the issue of access to and high demand for primary schooling, approximately 120 more community primary schools will be built during the 9th Plan. Additional classrooms shall also be built in the existing schools to ensure that class sizes do not swell beyond 40 children.
 
 - 3.22 A study on causes of dropouts and repetition shall be undertaken in 2002 with a view to addressing the prevailing high dropout and repetition rates.
 
-- 3.23 By 2007, primary schools will be staffed with NIE trained teachers with a 1:32 teacherpupil ratio.  This would require teachers to teach 34 period 8 per week which will leave at least one period a day for planning and professional development.
+- 3.23 By 2007, primary schools will be staffed with NIE trained teachers with a 1:32 teacher-pupil ratio. This would require teachers to teach 34 period8 per week which will leave at least one period a day for planning and professional development.
 
 - 3.24 A  package  of measures including the recruitment of expatriate teachers shall be implemented to meet the immediate teacher shortage faced by the system.
 
@@ -522,9 +529,9 @@ Education Sector Strategy: Realising the Vision 2020
 
 - 3.28 An external fellowship programme will be implemented covering the skills that cannot be provided by training programs inside the country.
 
-- 3.29 A baseline study on the quality of education will be undertaken in 2002 involving a mixed group  of  Bhutanese  educators  and  external  consultants.  This  will  be  followed  by  an  indepth review of the effectiveness of current teaching-learning processes and of the impact in  using  existing  and  revised  inputs  such  as  textbooks  and  other  learning  materials.  If required,  carefully  planned  actions  will  be  undertaken  to  address  mounting  concerns surrounding quality.
+- 3.29 A baseline study on the quality of education will be undertaken in 2002 involving a mixed group of Bhutanese educators and external consultants. This will be followed by an in-depth review of the effectiveness of current teaching-learning processes and of the impact in using existing and revised inputs such as textbooks and other learning materials. If required, carefully planned actions will be undertaken to address mounting concerns surrounding quality.
 
-> 8 A period at present generally consist s of 35 minutes
+> 8 A period at present generally consists of 35 minutes
 
 Education Sector Strategy: Realising the Vision 2020
 
@@ -536,7 +543,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 - 3.30 Existing curriculum across grades and subjects will be reviewed and revised to accommodate  mastery  of  literacy  and  numeracy,  greater  choice  within  the  curriculum, computer  literacy,  values  education,  multi-grade  instruction  and  continuous  formative assessment.
 
-- 3.31 National Examinations at class VI will be suitably reformed to address the holistic learning programme  in  the  schools  and  be  used  as  a  means  to  inform  the  schools  to  gauge  and improve  their  curriculum  delivery.  Additionally,  school-based  methods  for  assessing quality  and  standards  shall  be  developed  using  continuous  assessment  and intervision . Every  teacher  shall  be  made  conversant  in  the  concept  and  technique  of  continuous assessment.  An  evaluation  of  the  state  of  the  art  techniques  in  this  domain  shall  be undertaken prior to the development of a package for the Bhutanese teachers to implement in schools.
+- 3.31 National Examinations at class VI will be suitably reformed to address the holistic learning programme in the schools and be used as a means to inform the schools to gauge and improve their curriculum delivery. Additionally, school-based methods for assessing quality and standards shall be developed using continuous assessment and intervision. Every teacher shall be made conversant in the concept and technique of continuous assessment. An evaluation of the state of the art techniques in this domain shall be undertaken prior to the development of a package for the Bhutanese teachers to implement in schools.
 
 - 3.32 Apart  from  the  existing  learning  resources  in  schools,  every  primary  school  will  have access to additional resources in terms of learning materials, teaching aids and professional guidance within the resource centres. All the schools in the country shall be organised into defined geographical school clusters. A centrally located school within a cluster shall be developed  as  resource  centre  for  the  cluster.  To  start  with,  30  centres  serving  the  most disadvantaged  groups  of  schools  shall  be  developed.  The  operation  of  resource  centres activities  (now  in  pilot  phase)  will  be  improved  by  providing  additional  facilities  and direction  to  their  development.  To  this  end,  a  unit  responsible  for  the  RC  will  be established in CAPSD.
 
@@ -580,11 +587,15 @@ Education Sector Strategy: Realising the Vision 2020
 
 [[START OF PAGE 20]]
 
-- 4.4 Secondary  education  in  Bhutan  is  a  six-year  cycle  comprising  of  two  years  of  lower secondary school, two years of middle secondary school and two years of higher secondary
+- 4.4 Secondary education in Bhutan is a six-year cycle comprising of two years of lower secondary school, two years of middle secondary school and two years of higher secondary school. About 85% of the children who complete primary education move to the lower secondary level, 85% completing the lower level move to middle secondary schools and just over 40% of those completing middle secondary schools move up to higher secondary programmes. Secondary education has entered a phase of very high growth induced by the expansion and improved internal efficiency at the primary level.
 
-school.  About  85%  of  the  children who  complete primary education move to the lower secondary level, 85%  completing  the lower level move  to  middle  secondary  schools and just over 40% of those completing middle secondary schools move up to higher secondary programmes.  Secondary education  has  entered  a  phase  of very  high  growth  induced  by  the expansion and improved internal efficiency at the primary level.
+- 4.5 Many of the present-day secondary schools started out as primary schools which grew over time into lower and middle secondary schools and later, into higher secondary schools through a process of upgrading. While this continues to be a pragmatic approach for a system that is expanding rapidly, it has also meant compromising on physical and professional standards as more and more schools are pressured to cater to programmes for which they have little preparation. Therefore, many secondary schools are over-crowded, have inadequate science labs and sport facilities and are short of qualified teachers.
 
-- 4.5 Many of the present-day secondary schools started out as primary schools  which  grew  over  time  into lower and middle secondary schools and later, into higher secondary schools through a process of upgrading.  While  this  continues  to be a pragmatic approach for a system that is expanding rapidly, it
+- 4.6 A basic skills component has been introduced in 9 of the secondary schools on a pilot basis since 1999. These programmes operate as vocational clubs for carpentry, house wiring, plumbing and shoe repair. Students are also encouraged to participate in the maintenance of schools during the winter vacation to practice their skills while earning pocket money. Further development and expansion of the programme will depend upon the experience of these schools. Computer education has been introduced in five high schools with classes XI and XII as part of the initiative to bring IT into the education system.
+
+- 4.7 To make curriculum more relevant to the country’s needs, all student texts, teachers hand books and other curriculum materials have been re-written. In addition, History, Geography, Civics and Economics textbooks for IX-X have also been completed and are now used by the schools. Examinations and certification of Class X students has been fully localized from 2001, by taking over the examinations from the Indian Council for Secondary Education, with which our schools have been affiliated with since 1970. This will now provide greater degree of flexibility for reforming curriculum and learning organisation at this level, as well as greater national ownership of education at this level. Class XII examinations will continue to be certified by the Council for ISC Examinations till 2005.
+
+Table 3: Enrolment Projection for General Education
 
 Class/Level | 2002 | 2007 | 2012 | 2017 | 2020
 --- | --- | --- | --- | --- | ---
@@ -598,24 +609,14 @@ VI | 9491 | 12651 | 18797 | 23573 | 24743
 Primary | 90954 | 120604 | 156325 | 174614 | 184303
 VII | 8859 | 13155 | 18129 | 24016 | 25337
 VIII | 7129 | 11239 | 16107 | 22757 | 24398
-Junior
-Secondary | 15988 | 24394 | 34236 | 46774 | 49735
+Junior Secondary | 15988 | 24394 | 34236 | 46774 | 49735
 IX | 6613 | 10221 | 14306 | 21224 | 23461
 X | 4810 | 9546 | 13471 | 20429 | 23620
-Middle
-Secondary | 11423 | 19767 | 27777 | 41653 | 47082
+Middle Secondary | 11423 | 19767 | 27777 | 41653 | 47082
 XI | 2794 | 5840 | 9819 | 15326 | 18367
 XII | 1683 | 5020 | 9335 | 14090 | 17496
 Higher Secondary | 4477 | 10860 | 19154 | 29417 | 35863
 Total | 122842 | 175625 | 237492 | 292457 | 316984
-
-has  also  meant  compromising  on  physical  and  professional  standards  as  more  and  more schools  are  pressured  to  cater  to  programmes  for  which  they  have  little  preparation. Therefore,  many  secondary  schools  are  over-crowded,  have  inadequate  science  labs  and sport facilities and are short of qualified teachers.
-
-- 4.6 A basic skills component has been introduced in 9 of the secondary schools on a pilot basis since  1999.    These  programmes operate as vocational clubs for carpentry, house wiring, plumbing and shoe repair. Students are also encouraged to participate in the maintenance of schools during the winter vacation to practice their skills while earning pocket money. Further development and expansion of the programme will depend upon the experience of these schools. Computer education has been introduced in five high schools with classes XI and XII as part of the initiative to bring IT into the education system.
-
-- 4.7 To make curriculum more relevant to the country's needs, all student texts, teachers hand books and other curriculum materials have been re-written. In addition, History, Geography, Civics and Economics textbooks for IX-X have also been completed and are now used by the  schools.    Examinations  and  certification  of  Class  X  students  has  been fully  localized  from  2001,  by  taking  over  the  examinations  from  the  Indian  Council  for Secondary Education, with which our schools have been affiliated with since 1970. This will  now  provide  greater  degree  of  flexibility  for  reforming  curriculum  and  learning organisation at this level, as well as greater national ownership of education at this level. Class XII examinations will continue to be certified by the Council for ISC Examinations till 2005.
-
-Table 3:  Enrolment Projection for General Education
 
 ## Challenges
 
@@ -681,7 +682,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 - 4.23 A number of secondary schools in rural areas will provide boarding facilities as an option for some students from urban areas on a payment basis, initially as a pilot initiative as a measure to de-concentrate urban centres.  This will also support rural economy.
 
-- 4.24 New  school  building  designs  accommodating  cheaper  construction  methods  and  more efficient use of space, materials and labour will be established. A minimum of 20% of the construction  programme  at  this  level  for  the  9 th Plan  will  adopt  the  new  designs  and method.
+- 4.24 New school building designs accommodating cheaper construction methods and more efficient use of space, materials and labour will be established. A minimum of 20% of the construction programme at this level for the 9th Plan will adopt the new designs and method.
 
 - 4.25 A policy framework for the establishment of private secondary schools will be developed. It will include rules governing the acquisition and use of Government land for schools, the use of a prescribed curricula, accreditation requirements including minimum standards for both physical facilities and the overall functioning of schools.
 
@@ -743,7 +744,7 @@ additional educational and recreation activities for the youth. In addition, a c
 
 - 5.1 The  development  of  a  higher  education  programme  of  excellence  under  the  overall umbrella  of  an  autonomous  National  University  (NU)  is  central  to  the  achievement  of Vision 2020.  The structure of a national university will consist of a network of faculties and  specialised  schools  spread  across  the  country.    Employing  advanced  information technologies,  faculties  and  specialised  schools  will  be  linked  for  multi-media  course delivery  and  administrative  functioning.    Mutually  beneficial  alliances  with  top-quality universities and  institutions around  the  world  will  be  established  on  the basis of partnership.  Similarly,  in  order  to  establish  logical  pathways  into  the  world  of  work, relationships  will  be  established  with  private  businesses  and  industries  to  include  the sharing of knowledge, apprenticeships and financial support.
 
-- 5.2 The NU will offer study programmes and courses, and establish centres of research in areas in which Bhutan has a comparative advantage. These include Buddhist studies, traditional medicine and ecology.  The NU will promote excellence in teaching and research using information and communication technology (ICT) on a cost effective basis.  The NU will also provide opportunities for adult and continuing education using both distance and faceto-face approaches.
+- 5.2 The NU will offer study programmes and courses, and establish centres of research in areas in which Bhutan has a comparative advantage. These include Buddhist studies, traditional medicine and ecology. The NU will promote excellence in teaching and research using information and communication technology (ICT) on a cost effective basis. The NU will also provide opportunities for adult and continuing education using both distance and face-to-face approaches.
 
 - 5.3 Higher Education will be merit-based, needs sensitive and strive for intellectual excellence. Education at this level will strive for the fulfilment of academic, vocational, social-civic, cultural and personal goals in preparing students for productive participation in a changing society.  The emphasis will be on a combination of traditional and more flexible courses, enriched by modern technologies. Each higher education institution will be encouraged to open  its  doors  and  create  opportunities  for  research  and  continuing  education  in  their respective  areas  of  comparative  advantage.  The  courses  shall  be  made  self-sustainable through  the  levy  of  fees.    However,  scholarship  schemes  shall  be  provided  to  support meritorious  students.    The  intention  will  be  to  seek  an  international  reputation  for
 
@@ -835,7 +836,7 @@ of the National University will be implemented:
 
 - 5.22 For  the  University  and  its  bodies/officials  to  carry  out  their  functions,  the  process  of approval of a Royal Charter or equivalent legislation will be expedited.
 
-- 5.23 One of the essential tasks to be completed during the 9 th Plan will be to establish a fund flow mechanism to the constituent colleges of the NU.
+- 5.23 One of the essential tasks to be completed during the 9th Plan will be to establish a fund flow mechanism to the constituent colleges of the NU.
 
 - 5.24 A master plan will be developed for each of the institutes identified to become member colleges  of  the  NU.  The  master  plan  will  ascertain  the  present  status  of  prospective member colleges and prepare for their evolution into a federated University. Preparations will  focus  on  the  development  of  infrastructure,  curriculum  and  human  resources.  A comprehensive  HRD  master  plan  will  be  developed  which  will  account  for  the  specific HRD requirements of each institute.
 
@@ -853,11 +854,11 @@ Education Sector Strategy: Realising the Vision 2020
 
 courses offered in Sherubtse, ILCS and NIEs,
 
-- 5.27 Facilities in Sherubtse will accordingly be expanded to enhance its enrolment from 600 at present to 1000 by 2007. Bachelors course in Financial Accounting shall be introduced by 2003. It will also introduce Masters level courses towards the end of the 9 th Plan, (2007).
+- 5.27 Facilities in Sherubtse will accordingly be expanded to enhance its enrolment from 600 at present to 1000 by 2007. Bachelors course in Financial Accounting shall be introduced by 2003. It will also introduce Masters level courses towards the end of the 9th Plan, (2007).
 
 - 5.28 Capacities  at  NIE,  Paro,  will  be  expanded  from  650  to  980  through  development  of additional facilities and the implementation of an extended teaching-practice period. The Institute  of  Language  and  Cultural  Studies  will  be  built  in  a  new  location  with  modern facilities.  Similarly,  institutes  that  are  outside  the  Education  Ministry  but  will  become faculties of the National University such as NRTI, RIHS, NITM and RBP shall be further developed.
 
-- 5.29 The development of IT in colleges must conform to national technical standards in terms of equipment and software components as well as the National ICT policy. By the end of the 9 th Five-Year Plan, all colleges must be inter-connected through networks which allow for the sharing of professional and other resources. Provisions must be made for upgrading and maintaining the IT system, as well as cost-recovery for some services.
+- 5.29 The development of IT in colleges must conform to national technical standards in terms of equipment and software components as well as the National ICT policy. By the end of the 9th Five-Year Plan, all colleges must be inter-connected through networks which allow for the sharing of professional and other resources. Provisions must be made for upgrading and maintaining the IT system, as well as cost-recovery for some services.
 
 # 6 Adult Literacy and Continuing Education
 
@@ -893,7 +894,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 - 6.8 For  many people, non-formal classes are both for second language learning and literacy training.
 
-- 6.9 Currently,  the  total  expenditures  on  Adult  Literacy  programme  is  less  than  0.5%  to  the total expenditure in Education Sector. The development and later expansion of both nonformal  and  continuing  education  programmes  will  require  substantial  enhancement  in inputs from an education system already strained by the demands of increasing enrolment in regular schools.
+- 6.9 Currently, the total expenditures on Adult Literacy programme is less than 0.5% to the total expenditure in Education Sector. The development and later expansion of both non-formal and continuing education programmes will require substantial enhancement in inputs from an education system already strained by the demands of increasing enrolment in regular schools.
 
 - 6.10 No mechanism has been developed which allows NFE learners to transfer into the regular system of education, although there are isolated examples of younger NFE graduates who have moved into formal schools. There is also no system of continuing education for those who have dropped out of the education system.
 
@@ -915,21 +916,21 @@ of the instructor's skills and experience.
 
 - 6.13 Non-formal education instruction should be perceived as an integral part of the teacher's professional role and all teachers will be required to take up the task whenever required. Towards  this,  NFE  education  will  form  a  part  of  the  course  in  the  pre-service  teacher education programme.
 
-- 6.14 Policies  will  be  developed  which  address  the  structural  and  organisational  framework  in which a system of continuing education will co-exist with both the systems of formal, nonformal  and  vocational  education  and  training.  Increasing  collaboration  with  various ministries  will  be  sought  to  support  a  meaningful  post-literacy  programme  catering  to diverse  interests  of  communities.  As  increasing  numbers  of  young  people  attain  higher levels of education, it is imperative that options for further training and study be devised. In light of the serious resource limitations, a useful strategy will be to use existing facilities and personnel to provide new education services.
+- 6.14 Policies will be developed which address the structural and organisational framework in which a system of continuing education will co-exist with both the systems of formal, non-formal and vocational education and training. Increasing collaboration with various ministries will be sought to support a meaningful post-literacy programme catering to diverse interests of communities. As increasing numbers of young people attain higher levels of education, it is imperative that options for further training and study be devised. In light of the serious resource limitations, a useful strategy will be to use existing facilities and personnel to provide new education services.
 
 - 6.15 For the future development of post-literacy support at the community level, national NGOs will be established.  These could be organised by retired teachers, education personnel and government officials interested in and capable of supporting learning in communities.
 
 ## Action Plan
 
-6.16 During the 9 th Plan, a literacy survey will be conducted.
+6.16 During the 9th Plan, a literacy survey will be conducted.
 
-- 6.17 Basic literacy and post-literacy centres will be established in a phased manner to cover half of the illiterate population by the end of the 9 th Five-Year Plan.  Post-literacy activities will support the continued acquisition of Dzongkha and the introduction of English.
+- 6.17 Basic literacy and post-literacy centres will be established in a phased manner to cover half of the illiterate population by the end of the 9th Five-Year Plan. Post-literacy activities will support the continued acquisition of Dzongkha and the introduction of English.
 
 - 6.18 A policy directive will be issued to make it mandatory for all teachers to teach NFE classes where  required.    NFE  concepts  and  adult  pedagogy  will  be  included  in  the  course curriculum of all the NIEs.
 
 - 6.19 Libraries  in  primary  schools  will  be  upgraded  to  make  them  useful  for  NFE  learners. Where feasible, IT will also be introduced to serve as a resource for NFE learners.
 
-- 6.20 A  continuing  education  programme  catering  to  different  levels  of  learners  wishing  to complete high school shall be developed and piloted.  Best practices could be examined from other smaller states, which have instituted programmes of continuous education. Such a programme can be instituted fully in the country by 10 th Five-Year Plan (2007-2012).
+- 6.20 A continuing education programme catering to different levels of learners wishing to complete high school shall be developed and piloted. Best practices could be examined from other smaller states, which have instituted programmes of continuous education. Such a programme can be instituted fully in the country by 10th Five-Year Plan (2007-2012).
 
 - 6.21 In addition to teachers and extension workers, a voluntary scheme will be established to help deliver NFE programmes, using retired educators and civil servants.  These could be the forerunner to the development of national NGOs in this field.
 
@@ -943,23 +944,23 @@ Education Sector Strategy: Realising the Vision 2020
 
 [[START OF PAGE 33]]
 
+# 7 Vocational Education and Training
+
 ## Vision
 
-7.1  Vocational  Education  and  Training  will  develop  into  a  multifaceted  system  of  training opportunities for higher secondary and post secondary levels. Programmes will range from job oriented short training courses and apprenticeship training programmes to specialized trainings at degree  and  postgraduate  levels  in  selected  professions.  The  system  will  be  highly  flexible  and designed  to  respond  to  evolving  public  and  private  sector  demands.  Sufficient  flexibility  shall also be provided within the system for students to move between academic and vocational studies easily.    In  that  regard,  pursuing  a  vocation  shall  not  preclude  a  person  from  pursuing  further academic studies
+7.1 Vocational Education and Training will develop into a multifaceted system of training opportunities for higher secondary and post secondary levels. Programmes will range from job oriented short training courses and apprenticeship training programmes to specialized trainings at degree and postgraduate levels in selected professions. The system will be highly flexible and designed to respond to evolving public and private sector demands. Sufficient flexibility shall also be provided within the system for students to move between academic and vocational studies easily. In that regard, pursuing a vocation shall not preclude a person from pursuing further academic studies
 
-7.2 School leavers shall be provided with opportunity to choose between further academic education  and  professional  training.  Direct  employment  should  only  be  a  choice  where  further training  is  not  feasible  at  all.  Furthermore,  this  option  will  progressively  be  discontinued. Professional  training  in  trades  and  technical  skills  will  evolve  step  by  step  into  an  attractive choice not only for the weakest segment of the school population but as a viable career choice for a broad range of students.
+7.2 School leavers shall be provided with opportunity to choose between further academic education and professional training. Direct employment should only be a choice where further training is not feasible at all. Furthermore, this option will progressively be discontinued. Professional training in trades and technical skills will evolve step by step into an attractive choice not only for the weakest segment of the school population but as a viable career choice for a broad range of students.
 
 7.3 A major component of the vocational education and training programme will also be to serve students not able or willing to pursue higher secondary or postsecondary studies. For this, a wide range of formal, nonformal and informal training modules shall be established to provide for the demand of skilled workers by the private sector.
 
-7.4 General  secondary  schools  will  provide  some  basic  vocational  orientation  as  a  means towards introducing and exposing young people to various career possibilities and promoting blue collar culture and skills.
+7.4 General secondary schools will provide some basic vocational orientation as a means towards introducing and exposing young people to various career possibilities and promoting blue collar culture and skills.
 
-- 7.5 Vocational  training  in  secondary  schools  as  well  as  advanced  postsecondary  training should benefit from and contribute to the economic development in Bhutan.  The choice of vocational skills should be closely aligned with the requirements of employers in both the private and public sectors. At the same time it should also contribute to raising professional competencies and standards. Continuous review and analysis of the labour market as well as the mid- and long-term perspectives of economic development shall inform the design and implementation of the all levels of professional training.
+- 7.5 Vocational training in secondary schools as well as advanced postsecondary training should benefit from and contribute to the economic development in Bhutan. The choice of vocational skills should be closely aligned with the requirements of employers in both the private and public sectors. At the same time it should also contribute to raising professional competencies and standards. Continuous review and analysis of the labour market as well as the mid- and long-term perspectives of economic development shall inform the design and implementation of the all levels of professional training.
 
 ## Current Status
 
-- 7.6 At  present,  there  is  a  very  limited  capacity  for  vocational  education  and  training  in  the country.  This  is  because  until  a  few  years  ago,  school  leavers  have  always  found  a government  office  job.  The  abundance  of  cheap  labour  across  the  border  was  another reason for the sluggish growth of this sector.  Therefore, while enrolment in the general education system has doubled every 10 years, vocational education and training programmes have only seen some marginal growth since the 1970s. The result has been that  a  good  proportion  of  skilled  labour  in  Bhutan  is  brought  from  outside  the  country, particularly India.
-
-# 7 Vocational Education and Training
+- 7.6 At present, there is a very limited capacity for vocational education and training in the country. This is because until a few years ago, school leavers have always found a government office job. The abundance of cheap labour across the border was another reason for the sluggish growth of this sector. Therefore, while enrolment in the general education system has doubled every 10 years, vocational education and training programmes have only seen some marginal growth since the 1970s. The result has been that a good proportion of skilled labour in Bhutan is brought from outside the country, particularly India.
 
 Education Sector Strategy: Realising the Vision 2020
 
@@ -1027,7 +1028,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 - 7.23 Short term nonformal skills development programmes such as village skills development and special skills development programmes targeted to school leavers and unemployed youth will be developed and implemented. Such programmes will be aimed at providing basic skills needed at the work place. Within this, special focus will be given to the training of villagers in generic skills and in traditional arts and crafts.
 
-- 7.24 Overall, the intake capacity of the vocational training programmes and institutions will be expanded from 1,100 school leavers per year to above 4,800 at the end of the 9 th Five Year Plan. To implement the overall package of expanding and improving the non-academic professional education, substantial donor funding must be sought. To further support this, private entrepreneurs shall be encouraged to establish vocational education programmes. However, strict quality control shall be exercised by the NTTA.
+- 7.24 Overall, the intake capacity of the vocational training programmes and institutions will be expanded from 1,100 school leavers per year to above 4,800 at the end of the 9th Five Year Plan. To implement the overall package of expanding and improving the non-academic professional education, substantial donor funding must be sought. To further support this, private entrepreneurs shall be encouraged to establish vocational education programmes. However, strict quality control shall be exercised by the NTTA.
 
 # 8 Special Education
 
@@ -1127,23 +1128,23 @@ Education Sector Strategy: Realising the Vision 2020
 
 [[START OF PAGE 40]]
 
+# 9 Decentralisation and System Management Process
+
 ## Vision
 
-- 9.1 The management structure of the education sector will be made responsive to the various demands  of  an  ever-expanding  system  of  schools  and  institutions  as  well  as  reflect  the changes  and  new  components  being  introduced  as  part  of  an  overall  reform  process.  A prior condition for attaining Vision 2020 in the education sector will be to institutionalise a sound management process based on the declared principles of accountability, efficiency and  transparency.  The  range  of  new  functions  envisioned  for  the  education  sector  will require  expansion  of  the  management  structure  in  order  to  provide  adequate  policy development, administrative and managerial coverage.  Natural growth will take place, as well, with the increasing size of the existing structure as enrolments rise.
+- 9.1 The management structure of the education sector will be made responsive to the various demands of an ever-expanding system of schools and institutions as well as reflect the changes and new components being introduced as part of an overall reform process. A prior condition for attaining Vision 2020 in the education sector will be to institutionalise a sound management process based on the declared principles of accountability, efficiency and transparency. The range of new functions envisioned for the education sector will require expansion of the management structure in order to provide adequate policy development, administrative and managerial coverage. Natural growth will take place, as well, with the increasing size of the existing structure as enrolments rise.
 
-- 9.2 Community level management of education, as well as inter-sectoral activities is seen as the cornerstone to effective development.  To that end, the 9 th Five Year Plan will have as its  basis  geog-level  plans  which  will  articulate  development  priorities  as  determined  and implemented  by  communities  themselves.  This  calls  for  enhanced  capacity  for  planning and management at the community level currently being addressed under a national-level project. In education, the on-going management  and functioning of schools will increasingly  include  participation  of  parents  and  community  members  through  School Management Boards (SMBs).
+- 9.2 Community level management of education, as well as inter-sectoral activities is seen as the cornerstone to effective development. To that end, the 9th Five Year Plan will have as its basis geog-level plans which will articulate development priorities as determined and implemented by communities themselves. This calls for enhanced capacity for planning and management at the community level currently being addressed under a national-level project. In education, the on-going management and functioning of schools will increasingly include participation of parents and community members through School Management Boards (SMBs).
 
-- 9.3 There is a good tradition of work in education at the central level (planning & statistics, quality control and curricular development, teacher education, etc). This tradition would be maintained. At the same time, the ongoing reform characterised by a general trend toward increased decentralisation will be continued. Certain functions including some aspects of monitoring of instruction and quality control, assessment, staff development and financial management  will  be  undertaken  at  the  school  level,  while  others  will  be  under  the responsibility of district administrations. This will allow central-level units more opportunity to concentrate on macro issues including policy development, international and domestic linkages for information sharing and programme coordination across sectors, and resource identification and allocation.
+- 9.3 There is a good tradition of work in education at the central level (planning & statistics, quality control and curricular development, teacher education, etc). This tradition would be maintained. At the same time, the ongoing reform characterised by a general trend toward increased decentralisation will be continued. Certain functions including some aspects of monitoring of instruction and quality control, assessment, staff development and financial management will be undertaken at the school level, while others will be under the responsibility of district administrations. This will allow central-level units more opportunity to concentrate on macro issues including policy development, international and domestic linkages for information sharing and programme coordination across sectors, and resource identification and allocation.
 
-- 9.4 Human resource development will become a priority of the system management process in order  to  ensure  that  the  calibre  of  professionals  working  in  the  sector  is  of  the  highest standard and that the education sector is one in which people aspire to develop fulfilling and growth-oriented careers .
+- 9.4 Human resource development will become a priority of the system management process in order to ensure that the calibre of professionals working in the sector is of the highest standard and that the education sector is one in which people aspire to develop fulfilling and growth-oriented careers.
 
 ## Current Status
 
-- 9.5 Considerable  expansion  in  the  education  system  has  necessitated  rapid  development  of organisational  structures  and  processes  for  effective  policy  direction,  planning  and  the management of change.
+- 9.5 Considerable expansion in the education system has necessitated rapid development of organisational structures and processes for effective policy direction, planning and the management of change.
 
-- 9.6 The recent Government restructuring exercise has recommended the split of the Ministry of Health and Education into two ministries representing the two sectors. This is targeted for implementation  by  July  2002,  and  will  require  substantial  enhancement  of  staffing  at headquarters in existing units as well as through the creation of new units such as those for higher, special education, sports and culture.
-
-# 9 Decentralisation and System Management Process
+- 9.6 The recent Government restructuring exercise has recommended the split of the Ministry of Health and Education into two ministries representing the two sectors. This is targeted for implementation by July 2002, and will require substantial enhancement of staffing at headquarters in existing units as well as through the creation of new units such as those for higher, special education, sports and culture.
 
 Education Sector Strategy: Realising the Vision 2020
 
@@ -1163,7 +1164,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 - 9.10 A first challenge emerges from the marked increase in the number of schools, both at the primary and secondary levels. To meet the growing demand for places at the secondary level, a large number of primary schools have been upgraded to include lower secondary classes.  Similar  growth  is  also  being  experienced  at  the  middle  and  higher  secondary levels. This has resulted in increased strain on the central and dzongkhag  level management structures including staffing and professional competencies which have not kept pace with this rapid growth. This has had a pronounced effect on some staff who are significantly overburdened.
 
-- 9.11 A second challenge focuses on the uncertainty over the roles and responsibilities of the 3tier  education  management  structure  comprising  the  centre  (Education  Department), Dzongkhags (districts) and educational institutions (schools and training centres).  This has led  to  a  situation  whereby  there  is  insufficient  accountability  for  both  successes  and failures in the system.  The emergence of geogs (Blocks) as another level of planning and administration will add to the complexities.
+- 9.11 A second challenge focuses on the uncertainty over the roles and responsibilities of the 3-tier education management structure comprising the centre (Education Department), Dzongkhags (districts) and educational institutions (schools and training centres). This has led to a situation whereby there is insufficient accountability for both successes and failures in the system. The emergence of geogs (Blocks) as another level of planning and administration will add to the complexities.
 
 - 9.12 Finally, moves toward decentralisation raise concerns over the capacity of personnel at the dzongkhag and sub-dzongkhag levels to carry out effectively the range of new functions delegated to them. Other concerns relate to tensions arising from the failure to effectively establish clear lines of authority and responsibility.
 
@@ -1185,7 +1186,7 @@ Education Sector Strategy: Realising the Vision 2020
 
 - 9.16 Teaching should be seen as a process of continued professional growth and this should be included in the career structure of a teacher. The personnel management system should be able to recognise and reward good performance through promotion and training opportunities to assume added responsibilities.
 
-- 9.17 As will be the case for most schools and institutions, all levels of the management structure will benefit from the latest information technologies. This will allow for the establishment of  an  information  and  communications  network  which  will  facilitate  all  managementrelated tasks across administrative levels and geographical areas.
+- 9.17 As will be the case for most schools and institutions, all levels of the management structure will benefit from the latest information technologies. This will allow for the establishment of an information and communications network which will facilitate all management-related tasks across administrative levels and geographical areas.
 
 - 9.18 District Education Officers should be educationalists able to provide sound guidance and support to schools for improving the quality of the teaching/learning environment. At the same  time,  they  should  be  able  to  provide  leadership  for  physical  planning,  personnel management and leading the development of the education system within the dzongkhags. The  DEOs  will  be  assisted  by  assistants  who  will  also  be  competent  in  pedagogic  and administrative skills.
 
@@ -1223,7 +1224,7 @@ approved staffing plan.  A systematic HRD programme as articulated in the HRD Ma
 
 - 9.25 Education  headquarters  building  shall  be  refurbished  and  equipped  to  house  all  the Departments in a central location.
 
-- 9.26 The existing EMIS and Personnel Information system shall be upgraded to facilitate more responsive  decisions  and  better  support  to  the  field  offices  and  schools.  A  computer network  system  will  connect  different  offices  including  the  DEOs  office  to  facilitate exchange of information and provide easy access to information required for the day-today management of the education system.
+- 9.26 The existing EMIS and Personnel Information system shall be upgraded to facilitate more responsive decisions and better support to the field offices and schools. A computer network system will connect different offices including the DEOs office to facilitate exchange of information and provide easy access to information required for the day-to-day management of the education system.
 
 - 9.27 Research  capacities  in  the  newly  established  Centre  for  Educational  Research  and Development  and  other  Departments  and  Divisions  will  be  enhanced  through  staff development  and  cooperative  research  with  professionals  from  within  and  outside  the country.
 
