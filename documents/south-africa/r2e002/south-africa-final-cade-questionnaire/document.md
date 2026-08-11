@@ -38,13 +38,15 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-In  addition,  this  Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1   (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5  and the Tashkent Declaration on Early Childood Care and Education. 6
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -108,9 +110,9 @@ The Guidelines are structured around three chapters:
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member States  in  the  preparation  of  responses,  through  a  participatory  process, two  types  of guidance are provided:
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 6]]
 
@@ -130,7 +132,7 @@ Dr S Taylor
 
 Email and telephone number of contact person: 012 357 4156
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -172,8 +174,6 @@ South Africa has signed but not ratified the Convention.
 
  Yes:
 
- Yes:
-
 Have the provisions of the Convention been invoked?
 
  Yes
@@ -186,7 +186,7 @@ Information could also be given about the judicial, administrative and other com
 
 The Constitutional Court protects the Bill of Rights in the Constitution, which guarantees the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ### 1. Towards an inclusive non-discriminatory education system
 
@@ -410,6 +410,8 @@ Teachers are trained to combat
 
 stigmatisation 19
 
+ Other:
+
 
 
 All  barriers  for  pregnant  girls  and  young
@@ -462,13 +464,11 @@ vocational training education and training
 
 (TVET)
 
-
 
-Other:
 
 The  DBE  Policy  for  the  Prevention  and  Management  of  Learner  Pregnancy  in  Schools emphasises the need to prevent early unintended pregnancy through Comprehensive Sexuality Education and access to Sexual and Reproductive Health and Rights (SRHR) Services. It also emphasises the need to support girls who happen to fall pregnant so that they do not miss tuition. It also places a strong recommendation for a return-to-school campaign for girls as soon as possible after giving birth to avoid a second early unintended pregnancy.
 
-The  DBE  also  subscribes  to  the  Global  Fund  Adolescent  Girls  and  Young  Women  (AGYW) Programme, which aims to  prevent  HIV  infection,  early  unintended  pregnancy  and  schoolrelated gender-based violence. In order to make the programme more gender sensitive, the name has since been changed to Adolescents and Young People (AYP) Programme, for the inclusion of young men and boys as well as children with diverse sexual and gender identities.
+The DBE also subscribes to the Global Fund Adolescent Girls and Young Women (AGYW) Programme, which aims to prevent HIV infection, early unintended pregnancy and school-related gender-based violence. In order to make the programme more gender sensitive, the name has since been changed to Adolescents and Young People (AYP) Programme, for the inclusion of young men and boys as well as children with diverse sexual and gender identities.
 
 ECD  Practitioners  and  Foundation  Phase  Educators  are  trained  on  the  Gender  Responsive Pedagogy for Early Childhood Education (GRP4ECE).
 
@@ -810,45 +810,7 @@ According to newly passed legislation, Grade R (1 year pre-primary) will become 
 
  Low number of professionally trained educators
 
- Prior to pre-primary education, ECCE services are affordable
 
- ECCE services are accessible on a non-
-
-discriminatory basis
-
-- Please elaborate further on the measures taken:
-
-Currently, ECCE services prior to pre-primary education is neither universally accessible nor affordable in South Africa. However, the Department of Education has developed a 2030 Strategy for ECD programmes as a roadmap to ensure universally accessible ECCE services that  is  sufficiently  funded  and  resourced.  The  Strategy  recognises  the  need  for  a comprehensive package of services to children to enable holistic development.
-
-- Is compulsory and free of charge pre-primary education available?
-
- Pre-primary education is compulsory. Please provide the age of enrolment and duration:
-
-Currently,  compulsory  school  age  is  7  -  15  years  old  and  does  not  include  pre-primary education.
-
-South  Africa  has  just  passed  legislation  that  will  make  one  year  of  pre-primary  education compulsory. This will ensure that children aged 5, turning 6 by 30 June will be required to attend Grade R (1 year pre-primary).
-
- Pre-primary education is not compulsory.
-
- Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
-
-According to newly passed legislation, Grade R (1 year pre-primary) will become free of charge for the poor in South Africa, but private providers of pre-primary education before Grade R is not free.
-
- Pre-primary education is not free.
-
-- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
-
-According to newly passed legislation, Grade R (1 year pre-primary) will become free of charge for the poor in South Africa.
-
-- What challenges were encountered in realizing early childhood care and education and pre-primary education?
-
- Limited access
-
- Issues of equity and inclusion
-
- Poor learning outcomes
-
- Low number of professionally trained educators
 
 [[END OF PAGE 19]]
 
@@ -857,6 +819,8 @@ According to newly passed legislation, Grade R (1 year pre-primary) will become 
  Poor quality programmes
 
  Other:
+
+ Lack of support to families
 
 All of the above
 
@@ -868,7 +832,7 @@ The situation of the young children's access to ECD programmes:
 
 - Children in this age group are disproportionately concentrated in low-income households. Nearly two-thirds of 0-5 year-olds (4.5 million children) live in the poorest 40% of homes.
 
-- Children in this age group are unevenly distributed across provinces. About 3 million 05-year-olds live in just two provinces - Gauteng and KwaZulu-Natal.
+- Children in this age group are unevenly distributed across provinces. About 3 million 0-5-year-olds live in just two provinces - Gauteng and KwaZulu-Natal.
 
 - Many young children  live  in  rural  areas.  Nearly  half  of  all  0-5  year-olds  live  in  areas classified as rural or with poor infrastructure, while over 1 million live in 'Poorest deep rural' areas.
 
@@ -886,7 +850,7 @@ The DBE's ECD Census 2021 provided valuable insights into early learning program
 
 - The average number of children enrolled in an early learning programme is 39 (33 for ELPs run in residential premises).
 
- Lack of support to families
+
 
 [[END OF PAGE 20]]
 
@@ -1004,19 +968,19 @@ Yes,  in  South  Africa,  the  legal  minimum  age  for  employment  is  aligned
 
 ###### Relevant Laws and Provisions
 
-- Basic Conditions of Employment Act (BCEA) No. 75 of 1997 :
+1. Basic Conditions of Employment Act (BCEA) No. 75 of 1997:
 
 - o Section 43 : Prohibits the employment of children under the age of 15 and those under the age of 18 in work that is inappropriate for their age or that places them at risk.
 
 - o Section 44 : Specifies conditions under which children aged 15 to 18 can work, ensuring their employment does not interfere with their education.
 
-- South African Schools Act (SASA) No. 84 of 1996 :
+2. South African Schools Act (SASA) No. 84 of 1996:
 
 - o Section 3 : States that schooling is compulsory for children from the age of 7 (Grade 1) until the age of 15 or the completion of Grade 9, whichever comes first.
 
 ###### Enforcement of Provisions
 
-- Department of Employment and Labour :
+1. Department of Employment and Labour:
 
 [[END OF PAGE 23]]
 
@@ -1146,8 +1110,6 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 [[START OF PAGE 27]]
 
-- What challenges were encountered in realizing quality education?
-
  Limited access
 
  Issues of equity and inclusion
@@ -1192,11 +1154,11 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
 You may include information on policies, protocols or codes of conduct.
 
+- What challenges were encountered in realizing quality education?
+
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
-
-#### 3.2 Education personnel
 
  Non-supportive or inadequate learning environments
 
@@ -1215,6 +1177,8 @@ You may include information on policies, protocols or codes of conduct.
  Long distances to schools
 
 - Please elaborate. Brief quantitative information may be added.
+
+#### 3.2 Education personnel
 
 For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'.
 
@@ -1240,25 +1204,23 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - Please elaborate on each of the measures taken:
 
-- 1.All  24  HEIs  accept  all  students  who  choice  education,  therefore  training  is  provided without discrimination.
+1.All 24 HEIs accept all students who choice education, therefore training is provided without discrimination.
 
-- When teachers' average salaries is compared to the Sub-Saharan Countries, South Africa pays it teachers well.
+2. When teachers' average salaries is compared to the Sub-Saharan Countries, South Africa pays it teachers well.
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-- 3.MRTEQ, ISPFTED and the 3 Year Plan is used to plan and direct Initial training as well Continuous Professional Development for teachers.
+3.MRTEQ, ISPFTED and the 3 Year Plan is used to plan and direct Initial training as well Continuous Professional Development for teachers.
 
-- SACE has identified 10 minimum Teaching Standards for the teaching profession in SA.
+4. SACE has identified 10 minimum Teaching Standards for the teaching profession in SA.
 
-- 5.The profession is promoted through the State bursaries, recognition, and appreciation via our TASP(NTA)- framework.
+5.The profession is promoted through the State bursaries, recognition, and appreciation via our TASP(NTA)- framework.
 
-- 6.The  EEA  assist  to  regulate,  manage  and  promote  measures  dealing  with  diversity, including to redress imbalances at different levels of education.
+6.The EEA assist to regulate, manage and promote measures dealing with diversity, including to redress imbalances at different levels of education.
 
-- IQMS which collective agreement with Labour Unions is the instrument used to monitor performance and appraisal.
-
-- Please elaborate. Brief quantitative information may be added.
+7. IQMS which collective agreement with Labour Unions is the instrument used to monitor performance and appraisal.
 
 - What challenges were encountered in the education personnel?
 
@@ -1270,9 +1232,11 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
  Other:
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-- o High student - teacher ratio
+o High student – teacher ratio
+
+- Please elaborate. Brief quantitative information may be added.
 
 The sector needs extra 31 000 teachers to close the gap, and this is caused by the mismatch of qualifications relative to the demand and supply.
 
@@ -1324,11 +1288,9 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
 [[START OF PAGE 31]]
 
-#### 3.5 Digital education
-
  Health and sanitation
 
- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
+ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
  Infrastructure
 
@@ -1350,7 +1312,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Other:
 
@@ -1359,6 +1321,8 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
  Weak government regulatory and monitoring capacity
 
 - Please elaborate. Brief quantitative information may be added.
+
+#### 3.5 Digital education
 
 Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 44 .
 
@@ -1378,7 +1342,7 @@ Please indicate the relevant text and provisions:
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1424,7 +1388,7 @@ support to respond to issues of child online safety or reduce cyber security ris
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available" (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1482,7 +1446,7 @@ Ensuring crisis-sensitive and disaster risk-informed planning and programming, i
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 [[END OF PAGE 34]]
 
@@ -1490,7 +1454,7 @@ Ensuring crisis-sensitive and disaster risk-informed planning and programming, i
 
 - Please elaborate. Brief quantitative information may be added.
 
-## Methods used to draw the attention of the various authorities in the country to the instruments
+## III. Methods used to draw the attention of the various authorities in the country to the instruments
 
 For reference: UNESCO governing bodies have underlined the need for awareness raising. Given the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
