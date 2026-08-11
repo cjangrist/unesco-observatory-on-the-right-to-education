@@ -56,7 +56,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+- 1. cultural diversity and tolerance
 
 - 1.1 international or intercultural understanding, solidarity and cooperation
 
@@ -64,7 +64,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 1.3 local, national and/or global citizenship
 
-- gender equality education
+- 2. gender equality education
 
 - 2.1 gender-based equal opportunities
 
@@ -76,23 +76,23 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 [[START OF PAGE 3]]
 
-- human rights education
+- 3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+- 3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
 - 3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+- 3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+- 4. peace and non-violence
 
 - 4.1 friendly relations among peoples and nations
 
 - 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+- 4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+- 5. climate change education
 
 - 5.1 mitigation
 
@@ -102,7 +102,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 5.4 early warning
 
-- environmental sustainability
+- 6. environmental sustainability
 
 - 6.1 caring for the planet, protecting nature
 
@@ -110,15 +110,15 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 6.3 biodiversity, water
 
-- human survival and well-being
+- 7. human survival and well-being
 
-- 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
+- 7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
 - 7.2 health of the planet for future generations
 
 - 7.3 sustainable cities and communities
 
-- sustainable consumption and production
+- 8. sustainable consumption and production
 
 - 8.1 responsible and sustainable lifestyles
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -267,7 +267,7 @@ As for private schools or national sub-government education, curricula were deve
 
 Document  of  Standards  for  Integrated  Social  Studies  Curricula  for  Speakers  of  Non-Arabic Language - attached
 
-Document of the Kalman Curriculum Standards for Arabic Language for Non-Arabic Speakers attached
+Document of the Kalman Curriculum Standards for Arabic Language for Non-Arabic Speakers - attached
 
 Curriculum Framework for Business Studies, Entrepreneurship and Economics - attached
 
@@ -309,31 +309,31 @@ www.educouncil.gov.om
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
-
--Oman Vision 2040
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 National | Sub-national
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
-1. | Cultural diversity and tolerance | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
-2. | Gender equality | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
-3. | Human rights | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
-4. | Peace and non- violence | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
-5. | Climate change | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
-6. | Environmental sustainability | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
-7. | Human survival and well-being | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
-8. | Sustainable consumption and production | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
+1. Cultural diversity and tolerance | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
+2. Gender equality | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
+3. Human rights | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
+4. Peace and non-violence | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
+5. Climate change | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
+6. Environmental sustainability | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
+7. Human survival and well-being | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
+8. Sustainable consumption and production | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
 
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+#### A3a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 3 are mentioned explicitly or are inferred and what types or levels of education are covered.
+
+- Oman Vision 2040
 
 The future vision Oman 2040 has set basic goals and priorities, including the priority of national citizenship, identity, heritage and culture, aiming to create a society proud of its identity, citizenship and culture and works to preserve and document its heritage and promote it globally.
 
--The objectives of the five-year plans
+- The objectives of the five-year plans
 
 The tenth five-year plan marks the start of the Oman 2040 vision, which is based on 4 main axes. The first axis - "a society with a creative human" - deals with education, learning, scientific research, national capabilities, health, citizenship, identity, heritage, national culture, welfare, social protection and youth development.
 
--Vision of the Ministry of Education
+- Vision of the Ministry of Education
 
 > 3 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -403,7 +403,7 @@ Including  some  concepts  of  education  for  global  citizenship  and  educati
 
 The Islamic education curricula include a set of units and lessons to boost citizenship, such as love for one's homeland and the values of belonging to it. For example, first grade lessons cover patriotism,  sixth  grade  lessons  cover  defending  and  protecting  one's  homeland,  tenth  grade lessons  cover  national  rights  and  duties  and  citizenship,  and  eleventh  grade  lessons  cover realizing the values of national belonging.
 
-Entire  units  related  to  sustainable  development  and  citizenship  are  taught  within  the  school curricula  for  all  subjects  and  in  various  educational  stages,  including  various  topics  like cooperation - preservation of the environment - assistance, reconciliation and keenness to do good - preserving public and private property - social solidarity - the culture of volunteer work marine  life  protection  -  natural  disasters,  prevention  and  assistance  methods,  and  rights  and duties. For example, unit 6 of The World Around Me (subject) is entitled (Our world: how we can be happy with it?). The unit deals with environmental issues and future concerns, and stands for environmental issues via individual volunteer work, international cooperation for environmental protection and conferences on institutional volunteer work.
+Entire units related to sustainable development and citizenship are taught within the school curricula for all subjects and in various educational stages, including various topics like cooperation - preservation of the environment - assistance, reconciliation and keenness to do good - preserving public and private property - social solidarity - the culture of volunteer work - marine life protection - natural disasters, prevention and assistance methods, and rights and duties. For example, unit 6 of The World Around Me (subject) is entitled (Our world: how we can be happy with it?). The unit deals with environmental issues and future concerns, and stands for
 
 > 4 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -411,7 +411,9 @@ Entire  units  related  to  sustainable  development  and  citizenship  are  tau
 
 [[START OF PAGE 14]]
 
-There is also the life skills subject taught for most educational levels in the Sultanate of Oman. It covers  topics,  such  as:  maintaining  public  facilities,  community  service  and  dealing  with emergencies.
+environmental issues via individual volunteer work, international cooperation for environmental protection and conferences on institutional volunteer work.
+
+There is also the life skills subject taught for most educational levels in the Sultanate of Oman. It covers topics, such as: maintaining public facilities, community service and dealing with emergencies.
 
 Various topics related to sustainable development and citizenship are taught at all educational levels. These topics are presented in several ways like summer and extra-curricular activities, exploration, research, visits, pictograms, trips, awareness promotion and teamwork.
 
@@ -444,7 +446,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -460,8 +464,6 @@ Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Other (please specify)
 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 #### *B4 Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
@@ -485,7 +487,7 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
 3. | Human rights education
-3.1 | equality and non- discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 1
+3.1 | equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 1
 3.2 | human rights values, human dignity, justice, inclusion and participation | 1 | 1 | 1 | 1
 3.3 | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 1 | 1 | 1 | 1
 
@@ -529,11 +531,7 @@ Moreover, The Specialized Institute for Professional Training for Teachers offer
 
 [[START OF PAGE 18]]
 
-#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
-
-#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
-
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -546,18 +544,22 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 1 | 1
 For teachers of other subjects | 1 | 1 | 1 | 1
 
+#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | --- | ---
-1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1
-2. | Gender equality | 1 | 1 | 1 | 1
-3. | Human rights | 1 | 1 | 1 | 1
-4. | Peace and non-violence | 1 | 1 | 1 | 1
-5. | Climate change | 1 | 1 | 1 | 9
-6. | Environmental sustainability | 1 | 1 | 1 | 9
-7. | Human survival and well-being | 1 | 1 | 1 | 1
-8. | Sustainable consumption and production | 1 | 1 | 1 | 9
+--- | --- | --- | --- | ---
+1. Cultural diversity and tolerance | 1 | 1 | 1 | 1
+2. Gender equality | 1 | 1 | 1 | 1
+3. Human rights | 1 | 1 | 1 | 1
+4. Peace and non-violence | 1 | 1 | 1 | 1
+5. Climate change | 1 | 1 | 1 | 9
+6. Environmental sustainability | 1 | 1 | 1 | 9
+7. Human survival and well-being | 1 | 1 | 1 | 1
+8. Sustainable consumption and production | 1 | 1 | 1 | 9
+
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -574,18 +576,18 @@ Attitudes and behaviours | 1 | 1 | 1 | 9
 
 #### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
-### D. Student assessment (paras 4 and 5 of the 1974 Recommendation )
-
-#### D1a.  Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills  related  to  the  topics  being  tested  or  also  on  their  values,  attitudes  and/or behaviours.
-
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 1
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 1
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 1
+Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 1
+Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 1
+Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 1
+
+### D. Student assessment (paras 4 and 5 of the 1974 Recommendation)
+
+#### D1a. Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills related to the topics being tested or also on their values, attitudes and/or behaviours.
 
 Schools organize a range of student school activities to achieve the values of citizenship, including the activities of the National Day celebrations and the celebration of international days such as the International Day of Tolerance and Peace and other activities in school assembly programs, other school activities and Open Day activities.
 
@@ -612,14 +614,14 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Knowledge | 1 | 1 | 1 | 1
 Skills | 1 | 1 | 1 | 1
 Values | 1 | 1 | 1 | 1
 Attitudes and behaviours | 1 | 1 | 1 | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 20]]
 
@@ -631,23 +633,15 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 
 KEY:
 
-- 0 Not at all
+0 Not at all | GCED and ESD are not mainstreamed.
 
-- 1 Partially
+1 Partially | Some GCED and/or ESD themes 6 are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
 
-- 2 Extensively
+2 Extensively | Most GCED and ESD themes are mainstreamed.
 
-- 9 Not known
+9 Not known | It is not known whether GCED and ESD are mainstreamed or not.
 
-99 Not applicable GCED and ESD are not mainstreamed.
-
-Some GCED and/or ESD themes 6  are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
-
-Most GCED and ESD themes are mainstreamed.
-
-It is not known whether GCED and ESD are mainstreamed or not.
-
-The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
+99 Not applicable | The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -796,7 +790,7 @@ Activating the WhatsApp service for communication with teachers and specialists 
 Activating video conference for workshops and forums to improve professional competence and identify all challenges and solutions.
 
 ##### The (Al-Rashideen Library)    project :
-for those who are liberated from illiteracy and who were unable to continue their studies to the higher levels for one reason or another. The AlRashideen Library began with (16) booklets, and then developed to (30) booklets. These booklets included various historical, religious, scientific, health, and social topics The aim of its establishment was to strengthen and develop the national culture of adult learners to face the threat of cultural dependency (ref: https://home.moe.gov.om/pages/14/show/20 )
+for those who are liberated from illiteracy and who were unable to continue their studies to the higher levels for one reason or another. The Al-Rashideen Library began with (16) booklets, and then developed to (30) booklets. These booklets included various historical, religious, scientific, health, and social topics The aim of its establishment was to strengthen and develop the national culture of adult learners to face the threat of cultural dependency (ref: https://home.moe.gov.om/pages/14/show/20 )
 
 Higher education, research and innovation has no age limits. Universities and other higher education facilities offer their services for all age groups.
 
@@ -814,7 +808,7 @@ Implementing activities on digital citizenship entitled (I am a digital citizen)
 
 [[START OF PAGE 26]]
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -831,12 +825,12 @@ Other activities (please specify): | 9 | 9 | 9 | 9
 
 #### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
 
+Non
+
 #### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
 
 ##### "Our Heritage, Our Future"
 initiative is launched by Oman ASPnet schools within the framework of activating the SDG related to cultural heritage.
-
-Non
 
 The goals of the initiative were formulated to be consistent with the principles of education for sustainable development and are as follows:
 
@@ -862,21 +856,21 @@ The goals of the initiative were formulated to be consistent with the principles
 
 ###### Outputs:
 
--a Heritage  related debate in Al-Iraqi Fort in Al-Dhahirah Governorate  between two schools (Fatima Bint Qais School vs Imam Saif bin Sultan School)  grades(10-12)
+- a Heritage related debate in Al-Iraqi Fort in Al-Dhahirah Governorate between two schools (Fatima Bint Qais School vs Imam Saif bin Sultan School) grades(10-12)
 
--a regional twinning with a high school in Kuwait (Fara'a Bint Abi Al-Salt School) under the title of Omani and Kuwaiti Heritage, through video conferencing
+- a regional twinning with a high school in Kuwait (Fara'a Bint Abi Al-Salt School) under the title of Omani and Kuwaiti Heritage, through video conferencing
 
--Project (Emerging tour guide) by Belarab Bin Sultan School
+- Project (Emerging tour guide) by Belarab Bin Sultan School
 
--My Crafts My Future project by Al-Wafa School
+- My Crafts My Future project by Al-Wafa School
 
--My Heritage Project by Hawa Bint Yazid School.
+- My Heritage Project by Hawa Bint Yazid School.
 
 ##### Intercultural Competencies for Peace in Oman
 
 24 to 26 February 2020 at Royal Tulip Hotel, Muscat
 
-The trained trainers of the Manual on intercultural competences based on human rights included 46 ASPnet school teachers from Oman and Kuwait and few employees of the Ministry of Education . The overall goal of the training was to strengthen intercultural competencies, the prerequisite skills and behaviors needed to enhance intercultural dialogue and understanding in the region. By improving, the capacity to understand each other and dialogue better, this training directly contributed to SDG 16 Peace, Justice and Strong Institutions as enabling intercultural dialogue is to promote the understanding of contemporary social transformations and ensure peaceful societies. Furthermore, it makes a crosscutting contribution to the aspirations of the International Decade for the Rapprochement of Cultures (2013 - 2022) of which UNESCO is the lead agency within the UN system
+The trained trainers of the Manual on intercultural competences based on human rights included 46 ASPnet school teachers from Oman and Kuwait and few employees of the Ministry of Education. The overall goal of the training was to strengthen intercultural competencies, the prerequisite skills and behaviors needed to enhance intercultural dialogue and understanding in the region. By improving, the capacity to understand each other and dialogue better, this training directly contributed to SDG 16 Peace, Justice and Strong Institutions as enabling intercultural dialogue is to promote the understanding of contemporary social transformations and ensure peaceful societies. Furthermore, it makes a crosscutting contribution to the aspirations of the International Decade for the Rapprochement of Cultures (2013 – 2022) of which UNESCO is the lead agency within the UN system
 
 ##### A comprehensive school approach to climate change project- ASPnet schools
 
@@ -886,15 +880,15 @@ UNESCO launched this global initiative in September 2016. The project was implem
 
 ###### Outputs:
 
-- 1The school takes measures to address and reduce the factors affecting climate change in all aspects of school life
+1- The school takes measures to address and reduce the factors affecting climate change in all aspects of school life
 
-- 2Male and female students acquire techniques, skills, values and knowledge to ensure sustainable development
+2- Male and female students acquire techniques, skills, values and knowledge to ensure sustainable development
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-- 3-  Spreading awareness among male and female students of the importance of not wasting energy and water resources and innovating technologies in this field.
+3- Spreading awareness among male and female students of the importance of not wasting energy and water resources and innovating technologies in this field.
 
 ##### The Shell Road Safety Award :
 
