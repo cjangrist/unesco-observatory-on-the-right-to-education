@@ -32,7 +32,7 @@ Son fines del Colegio Profesional de Profesores del Perú:
 
 - Mantener coordinación con entidades del país y del extranjero vinculadas a la educación;
 
-- Organizar certá actualización profesional y a la investigación y fomento educativo-cultural;
+- Organizar certámenes nacionales e internacionales, tendientes al perfeccionamiento y actualización profesional y a la investigación y fomento educativo-cultural;
 
 - Absolver consultas sobre asuntos educacionales, culturales y de ética profesional que le fuesen requeridas;
 
