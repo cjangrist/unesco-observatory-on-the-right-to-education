@@ -4,53 +4,30 @@ JOURNAL OFFICIEL
 
 DU GRAND-DUCHÉ DE LUXEMBOURG
 
-## Art. I er .
-
-- 1° Dans l'ensemble du texte de la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques, appelée ci-après « la loi de 2004 », les mots  « enseignement secondaire »  sans l'ajout « technique »  sont remplacés par les mots  « enseignement secondaire classique » .
-
-- 2° Dans l'ensemble du texte, les mots  « enseignement secondaire technique »  sont remplacés par les mots  « enseignement secondaire général » .
-
 MÉMORIAL A
 
 N° 789 du 5 septembre 2017
 
 # Loi du 29 août 2017 portant sur l'enseignement secondaire et modifiant
 
-- la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques ;
-
-- la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue ;
-
-- la loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI : de l'enseignement secondaire) ;
-
-- la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éducation différenciée ;
-
-- la  loi  modifiée  du  10  juin  1980  portant  planification  des  besoins  en  personnel  enseignant  de l'enseignement postprimaire ;
-
-- la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire et secondaire technique ;
-
-- la loi modifiée du 25 juillet 2005 portant création d'un lycée-pilote ;
-
-- la loi modifiée du 13 juillet 2006 portant réorganisation du centre de psychologie et d'orientation scolaires (CPOS) ;
-
-- la loi du 16 mars 2007 portant - 1. organisation des cours de formation professionnelle au Centre national de formation professionnelle continue - 2. création d'une aide à la formation, d'une prime de formation et d'une indemnité de formation ;
-
-- la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle ;
-
-- la loi du 6 février 2009 relative à l'obligation scolaire ;
-
-- la loi modifiée du 6 février 2009 portant organisation de l'enseignement fondamental ;
-
-- la loi modifiée du 12 mai 2009 portant création d'une École de la 2 e Chance ;
-
-- la loi modifiée du 29 juin 2010 portant création d'une réserve nationale de chargés d'enseignement pour les lycées et les lycées techniques ;
-
-- la loi modifiée du 15 juillet 2011 visant l'accès aux qualifications scolaires et professionnelles des élèves à besoins éducatifs particuliers ;
-
-- la loi du 30 juillet 2015 portant création d'un Institut de formation de l'éducation nationale ;
-
-- la loi du 24 août 2016 portant introduction du cours commun « vie et société » dans l'enseignement secondaire et secondaire technique ;
-
-- la loi du 22 juin 2017 ayant pour objet l'organisation de la Maison de l'orientation.
+1. la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques ;
+2. la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue ;
+3. la loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI : de l'enseignement secondaire) ;
+4. la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éducation différenciée ;
+5. la loi modifiée du 10 juin 1980 portant planification des besoins en personnel enseignant de l'enseignement postprimaire ;
+6. la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire et secondaire technique ;
+7. la loi modifiée du 25 juillet 2005 portant création d'un lycée-pilote ;
+8. la loi modifiée du 13 juillet 2006 portant réorganisation du centre de psychologie et d'orientation scolaires (CPOS) ;
+9. la loi du 16 mars 2007 portant - 1. organisation des cours de formation professionnelle au Centre national de formation professionnelle continue - 2. création d'une aide à la formation, d'une prime de formation et d'une indemnité de formation ;
+10. la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle ;
+11. la loi du 6 février 2009 relative à l'obligation scolaire ;
+12. la loi modifiée du 6 février 2009 portant organisation de l'enseignement fondamental ;
+13. la loi modifiée du 12 mai 2009 portant création d'une École de la 2e Chance ;
+14. la loi modifiée du 29 juin 2010 portant création d'une réserve nationale de chargés d'enseignement pour les lycées et les lycées techniques ;
+15. la loi modifiée du 15 juillet 2011 visant l'accès aux qualifications scolaires et professionnelles des élèves à besoins éducatifs particuliers ;
+16. la loi du 30 juillet 2015 portant création d'un Institut de formation de l'éducation nationale ;
+17. la loi du 24 août 2016 portant introduction du cours commun « vie et société » dans l'enseignement secondaire et secondaire technique ;
+18. la loi du 22 juin 2017 ayant pour objet l'organisation de la Maison de l'orientation.
 
 Nous Henri, Grand-Duc de Luxembourg, Duc de Nassau,
 
@@ -61,6 +38,12 @@ De l'assentiment de la Chambre des Députés ;
 Vu la décision de la Chambre des Députés du 6 juillet 2017 et celle du Conseil d'État du 14 juillet 2017 portant qu'il n'y a pas lieu à second vote ;
 
 Avons ordonné et ordonnons :
+
+## Art. Ier.
+
+1° Dans l'ensemble du texte de la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques, appelée ci-après « la loi de 2004 », les mots « enseignement secondaire » sans l'ajout « technique » sont remplacés par les mots « enseignement secondaire classique ».
+
+2° Dans l'ensemble du texte, les mots « enseignement secondaire technique » sont remplacés par les mots « enseignement secondaire général ».
 
 A 789 - 1
 
@@ -76,31 +59,33 @@ MÉMORIAL A - 789 du 5 septembre 2017
 
 - 4° À l'article 1 er de la loi de 2004, la lettre d est supprimée et l'article est complété par une lettre libellée comme suit :
 
-« g) «  enfant  ou  jeune  à  besoins  éducatifs  spécifiques  »  :  un  enfant  ou  un  jeune  qui  selon  les classifications  internationales  présente  des  déficiences  ou  difficultés  ou  qui  a,  de  manière significative,  plus  de  mal  à  apprendre  que  la  majorité  des  enfants  ou  jeunes  du  même  âge. Est également un enfant ou un jeune à besoins éducatifs spécifiques, un enfant ou un jeune intellectuellement  précoce  qui  nécessite  une  prise  en  charge  spécialisée  lui  permettant  de déployer au maximum ses facultés ou son potentiel.
+«
+g) « enfant ou jeune à besoins éducatifs spécifiques » : un enfant ou un jeune qui selon les classifications internationales présente des déficiences ou difficultés ou qui a, de manière significative, plus de mal à apprendre que la majorité des enfants ou jeunes du même âge. Est également un enfant ou un jeune à besoins éducatifs spécifiques, un enfant ou un jeune intellectuellement précoce qui nécessite une prise en charge spécialisée lui permettant de déployer au maximum ses facultés ou son potentiel.
+»
 
-5°À la suite de l'article 1 er de la loi de 2004, il est inséré un article 1 bis libellé comme suit :
+5° À la suite de l'article 1er de la loi de 2004, il est inséré un article 1bis libellé comme suit :
 
-#### « Art. 1 bis .
+#### « Art. 1bis.
 
 (1) L'enseignement secondaire fait suite à l'enseignement fondamental et se compose des ordres d'enseignement suivants :
 
-- l'enseignement secondaire classique qui prépare aux études supérieures et qui est régi par la loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI: de l'enseignement secondaire) ;
+1. l'enseignement secondaire classique qui prépare aux études supérieures et qui est régi par la loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI: de l'enseignement secondaire) ;
 
-- l'enseignement secondaire général qui prépare aux études supérieures et à la formation professionnelle et qui est régi par la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue ;
+2. l'enseignement secondaire général qui prépare aux études supérieures et à la formation professionnelle et qui est régi par la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue ;
 
-- la formation professionnelle, régie par la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle.
+3. la formation professionnelle, régie par la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle.
 
-L'enseignement secondaire classique et l'enseignement secondaire général comprennent chacun sept années d'études numérotées de 7 e , 6 e , 5 e , 4 e , 3 e , 2 e et 1 re , appelées aussi classe de 7 e , classe de 6 e , classe de 5 e , classe de 4 e , classe de 3 e , classe de 2 e et classe de 1 re , et se soldent par un examen de fin d'études secondaires sanctionné en cas de réussite par le diplôme de fin d'études secondaires.
+L'enseignement secondaire classique et l'enseignement secondaire général comprennent chacun sept années d'études numérotées de 7e, 6e, 5e, 4e, 3e, 2e et 1re, appelées aussi classe de 7e, classe de 6e, classe de 5e, classe de 4e, classe de 3e, classe de 2e et classe de 1re, et se soldent par un examen de fin d'études secondaires sanctionné en cas de réussite par le diplôme de fin d'études secondaires.
 
-Les classes de 7 e ,  6 e et  5 e sont  appelées « classes inférieures », les classes de 4 e ,  3 e ,  2 e et  1 re « classes supérieures ».
+Les classes de 7e, 6e et 5e sont appelées « classes inférieures », les classes de 4e, 3e, 2e et 1re « classes supérieures ».
 
 (2) L'enseignement secondaire est offert dans les lycées. Chaque lycée est créé par une loi. Une dénomination particulière lui est conférée par règlement grand-ducal.
 
 Chaque lycée peut offrir des classes inférieures et supérieures de l'enseignement secondaire classique, des classes inférieures et supérieures de l'enseignement secondaire général et des classes de la formation professionnelle.
 
-L'enseignement secondaire peut être offert en formation des adultes et à l'École de la 2 e chance. Il peut également être offert dans les écoles privées selon les conditions fixées par la loi modifiée du 13 juin 2003 concernant les relations entre l'État et l'enseignement privé.
+L'enseignement secondaire peut être offert en formation des adultes et à l'École de la 2e chance. Il peut également être offert dans les écoles privées selon les conditions fixées par la loi modifiée du 13 juin 2003 concernant les relations entre l'État et l'enseignement privé.
 
-Les horaires des leçons d'enseignement par année d'études de l'enseignement secondaire classique et  de  l'enseignement  secondaire  général  sont  définis  par  des  grilles  horaires  hebdomadaires structurées selon les disciplines portant chacune sur un domaine d'enseignement.
+Les horaires des leçons d'enseignement par année d'études de l'enseignement secondaire classique et de l'enseignement secondaire général sont définis par des grilles horaires hebdomadaires structurées selon les disciplines portant chacune sur un domaine d'enseignement.
 
 (3) L'enseignement secondaire est commun aux filles et aux garçons.
 
@@ -108,9 +93,7 @@ L'enseignement secondaire dans les lycées est gratuit pour chaque élève habit
 
 Les repas pris au restaurant scolaire sont payants. Les heures d'encadrement qu'un lycée organise en dehors de l'enseignement sont payantes. Le montant de ces contributions est fixé par règlement grand-ducal.
 
-(4) Les élèves ayant accompli à l'étranger un niveau d'études correspondant au niveau d'études des classes mentionnées au paragraphe 1 er peuvent obtenir une équivalence par le ministre ayant l'Éducation nationale dans ses attributions, appelé ci-après « ministre », à charge de payer une taxe d'un montant de 75 euros.
-
-»
+(4) Les élèves ayant accompli à l'étranger un niveau d'études correspondant au niveau d'études des classes mentionnées au paragraphe 1er peuvent obtenir une équivalence par le ministre ayant l'Éducation nationale dans ses attributions, appelé ci-après « ministre », à charge de payer une taxe d'un montant de 75 euros.
 
 A 789 - 2
 
@@ -178,17 +161,17 @@ JOURNAL OFFICIEL du Grand-Duché de Luxembourg
 
 MÉMORIAL A - 789 du 5 septembre 2017
 
-10°À l'article 9 de la loi de 2004 sont apportées les modifications suivantes :
+10° À l'article 9 de la loi de 2004 sont apportées les modifications suivantes :
 
-- L'intitulé  est  remplacé  par  l'intitulé  suivant:    «  Les  classes  à  objectifs  spéciaux  et  les  classes spécialisées » .
+a) L'intitulé est remplacé par l'intitulé suivant: « Les classes à objectifs spéciaux et les classes spécialisées ».
 
-- À la première phrase, les mots  « classes spéciales »  sont remplacés par les mots  « classes à objectifs spéciaux » .
+b) À la première phrase, les mots « classes spéciales » sont remplacés par les mots « classes à objectifs spéciaux ».
 
-- Au  quatrième  tiret,  les  mots    «  des  élèves  affectés  d'un  handicap  et  à  besoins  éducatifs spéciaux »  sont remplacés par les mots  « des enfants ou jeunes à besoins éducatifs spécifiques » .
+c) Au quatrième tiret, les mots « des élèves affectés d'un handicap et à besoins éducatifs spéciaux » sont remplacés par les mots « des enfants ou jeunes à besoins éducatifs spécifiques ».
 
-- Le texte actuel formera le paragraphe 1 er .
+d) Le texte actuel formera le paragraphe 1er.
 
-- Sont ajoutés les paragraphes 2 à 6 rédigés comme suit :
+e) Sont ajoutés les paragraphes 2 à 6 rédigés comme suit :
 
 «
 
@@ -274,7 +257,7 @@ Le directeur désigne un enseignant appelé à superviser le parrainage.
 
 Cette mesure d'appui de la part d'un élève parrain est inscrite à son bulletin et le complément au diplôme de fin d'études secondaires si le conseil de classe, ou la commission d'examen sur proposition du conseil de classe, le décide.
 
-- Un règlement grand-ducal précise l'offre de mesures d'appui scolaire.
+(5) Un règlement grand-ducal précise l'offre de mesures d'appui scolaire.
 
 »
 
@@ -322,7 +305,7 @@ Si  elle  l'estime  nécessaire,  la  commission d'inclusion scolaire de l'ensei
 
 Elle conseille le directeur dans la mise en œuvre des aménagements raisonnables et propose, le cas échéant, la saisine de la commission des aménagements raisonnables instituée par la loi modifiée du 15 juillet 2011 visant l'accès aux qualifications scolaires et professionnelles des élèves à besoins éducatifs particuliers.
 
-Elle supervise la mise en place des mesures d''accompagnement des enfants ou jeunes à besoins éducatifs spécifiques.
+Elle supervise la mise en place des mesures d'accompagnement des enfants ou jeunes à besoins éducatifs spécifiques.
 
 (3) Pour chaque élève orienté vers la voie de préparation sans avoir passé deux années au quatrième cycle de l'école fondamentale, le directeur ou un membre de la direction délégué par le directeur invite le régent de l'élève et le titulaire de l'enseignement fondamental concerné à une réunion. Si les parents le souhaitent, un psychologue du lycée assiste à la réunion et, le cas échéant, soumet l'élève à des tests afin d'établir ou de préciser ses besoins éducatifs spécifiques.
 
@@ -348,11 +331,13 @@ MÉMORIAL A - 789 du 5 septembre 2017
 
 Le plan de formation individualisé est adopté, de commun accord, entre la commission d'inclusion de l'enseignement secondaire et les parents.
 
-13°À l'article 15, alinéa 3, de la loi de 2004, la dernière phrase est remplacée par le libellé suivant :
+»
 
-« Les déplacements des élèves des classes inférieures pendant la durée des cours entre l'enceinte scolaire et le lieu d'une activité se trouvant en dehors de l'enceinte doivent être encadrés par une personne adulte que le directeur charge de la surveillance de ces élèves.
+13° À l'article 15, alinéa 3, de la loi de 2004, la dernière phrase est remplacée par le libellé suivant :
 
-14°L'article 16 de la loi de 2004 est remplacé par le libellé suivant :
+« Les déplacements des élèves des classes inférieures pendant la durée des cours entre l'enceinte scolaire et le lieu d'une activité se trouvant en dehors de l'enceinte doivent être encadrés par une personne adulte que le directeur charge de la surveillance de ces élèves. »
+
+14° L'article 16 de la loi de 2004 est remplacé par le libellé suivant :
 
 #### « Art. 16. Les activités périscolaires
 
@@ -364,43 +349,32 @@ Un lycée peut organiser les activités d'encadrement périscolaire dans un hora
 
 Plusieurs lycées peuvent s'associer pour organiser les activités d'encadrement périscolaire.
 
-15°À l'article 20 de la loi de 2004 sont apportées les modifications suivantes :
+»
 
-- la deuxième phrase de l'alinéa 2 est remplacée comme suit :
+15° À l'article 20 de la loi de 2004 sont apportées les modifications suivantes :
 
-« Il  s'adjoint,  avec  voix  consultative,  un  membre  du  service  psycho-social  et  d'accompagnement scolaires  du  lycée  et,  le  cas  échéant,  un  membre  du  service  chargé  de  l'assistance  en  classe d'un enfant ou jeune à besoins éducatifs spécifiques. Il peut s'adjoindre, avec voix consultative, un membre du service socio-éducatif du lycée, un membre du service de la médecine scolaire ou un membre de la cellule d'orientation.
+a) la deuxième phrase de l'alinéa 2 est remplacée comme suit :
 
-- L'alinéa 2 est complété par une troisième phrase libellée comme suit :
+« Il s'adjoint, avec voix consultative, un membre du service psycho-social et d'accompagnement scolaires du lycée et, le cas échéant, un membre du service chargé de l'assistance en classe d'un enfant ou jeune à besoins éducatifs spécifiques. Il peut s'adjoindre, avec voix consultative, un membre du service socio-éducatif du lycée, un membre du service de la médecine scolaire ou un membre de la cellule d'orientation. »
 
-« Pour les classes concomitantes, le conseiller à l'apprentissage assiste au conseil de classe avec voix consultative.
+b) L'alinéa 2 est complété par une troisième phrase libellée comme suit :
 
-- À l'alinéa 3, troisième tiret, les mots  « il délibère sur »  sont remplacés par les mots  « il surveille » .
+« Pour les classes concomitantes, le conseiller à l'apprentissage assiste au conseil de classe avec voix consultative. »
 
-- Le dernier tiret est supprimé.
+c) À l'alinéa 3, troisième tiret, les mots « il délibère sur » sont remplacés par les mots « il surveille ».
 
-- À l'alinéa 6, les mots  « conseils de classe de la division inférieure de l'enseignement secondaire et du cycle inférieur de l'enseignement secondaire technique  » sont remplacés par les mots  « conseils des classes inférieures » .
+d) Le dernier tiret est supprimé.
 
-- Après l'alinéa 6, il est ajouté un nouvel alinéa, libellé comme suit :
+e) À l'alinéa 6, les mots « conseils de classe de la division inférieure de l'enseignement secondaire et du cycle inférieur de l'enseignement secondaire technique » sont remplacés par les mots « conseils des classes inférieures ».
+
+f) Après l'alinéa 6, il est ajouté un nouvel alinéa, libellé comme suit :
 
 « Dans les classes inférieures, le conseil de classe restreint regroupe les enseignants désignés par le directeur. Le régent convoque le conseil de classe restreint et le préside. Il peut y inviter d'autres membres du conseil de classe. Le conseil de classe restreint a les attributions suivantes :
 
-- il se concerte sur la mise en œuvre des enseignements ;
-
-- il suit les progrès des élèves et les informe sur les progrès réalisés ;
-
-- il surveille l'attitude au travail et la discipline des élèves ;
-
-- il recommande ou impose des appuis en cas de difficultés scolaires.
-
-»
-
-»
-
-»
-
-»
-
-»
+1. il se concerte sur la mise en œuvre des enseignements ;
+2. il suit les progrès des élèves et les informe sur les progrès réalisés ;
+3. il surveille l'attitude au travail et la discipline des élèves ;
+4. il recommande ou impose des appuis en cas de difficultés scolaires.
 
 »
 
@@ -414,25 +388,27 @@ JOURNAL OFFICIEL du Grand-Duché de Luxembourg
 
 MÉMORIAL A - 789 du 5 septembre 2017
 
-- À l'ancien alinéa 7, devenu l'alinéa 8, les mots  « délégués de classe de la division supérieure de l'enseignement  secondaire  et  des  cycles  moyen  et  supérieur  de  l'enseignement  secondaire  technique  »    sont remplacés par les mots  « délégués des classes supérieures ou de la formation professionnelle » .
+g) À l'ancien alinéa 7, devenu l'alinéa 8, les mots « délégués de classe de la division supérieure de l'enseignement secondaire et des cycles moyen et supérieur de l'enseignement secondaire technique » sont remplacés par les mots « délégués des classes supérieures ou de la formation professionnelle ».
 
-16°L'article 21 de la loi de 2004 est remplacé par le libellé suivant :
+16° L'article 21 de la loi de 2004 est remplacé par le libellé suivant :
 
 #### « Art. 21. Le conseil de discipline
 
-Il  est  créé auprès de chaque lycée un conseil de discipline appelé à statuer sur des infractions susceptibles d'entraîner le renvoi de l'élève conformément aux dispositions des articles 43 et 43 bis .
+Il est créé auprès de chaque lycée un conseil de discipline appelé à statuer sur des infractions susceptibles d'entraîner le renvoi de l'élève conformément aux dispositions des articles 43 et 43bis.
 
 Le conseil de discipline est composé de deux membres de la direction désignés par le directeur ainsi que de trois enseignants nommés au lycée, d'un membre du service psycho-social et d'accompagnement scolaires et d'un représentant des parents.
 
-Pour chaque membre  de  la direction et pour le membre  du  service psycho-social et d'accompagnement  scolaires,  le  directeur  désigne  un  suppléant.  Un  des  deux  membres  de  la direction assume la présidence.
+Pour chaque membre de la direction et pour le membre du service psycho-social et d'accompagnement scolaires, le directeur désigne un suppléant. Un des deux membres de la direction assume la présidence.
 
 Les enseignants ainsi que leurs suppléants sont désignés par la conférence du lycée.
 
-Le  représentant  des  parents  et  son  suppléant  sont  désignés  par  une  assemblée  générale  des parents convoquée par le directeur. Le mandat des membres porte sur un terme de trois ans et est renouvelable. Le conseil de discipline peut s'adjoindre une personne de son choix avec voix consultative.
+Le représentant des parents et son suppléant sont désignés par une assemblée générale des parents convoquée par le directeur. Le mandat des membres porte sur un terme de trois ans et est renouvelable. Le conseil de discipline peut s'adjoindre une personne de son choix avec voix consultative.
 
 Aucun membre du conseil de classe, à l'exception du directeur, aucun parent ou allié de l'élève jusqu'au quatrième degré inclus ni leur conjoint ou partenaire au titre de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, ne peut siéger au conseil de discipline.
 
-17°L'article 23 de la loi de 2004 est remplacé par le libellé suivant :
+»
+
+17° L'article 23 de la loi de 2004 est remplacé par le libellé suivant :
 
 #### « Art. 23. La gestion des salles spéciales, des laboratoires et des ateliers
 
@@ -442,27 +418,25 @@ La gestion porte sur l'infrastructure et l'équipement des salles spéciales, de
 
 Il est de la responsabilité des gestionnaires de signaler sans délai et par écrit au directeur et au délégué à la sécurité, prévu par la loi modifiée du 19 mars 1988 concernant la sécurité dans la fonction publique, tout dégât et toute situation non conforme à la loi modifiée du 19 mars 1988 concernant la sécurité dans la fonction publique et à la loi modifiée du 10 juin 1999 relative aux établissements classés, ainsi qu'aux prescriptions complémentaires du comité de sécurité.
 
-18°À la suite de l'article 25 de la loi de 2004, il est inséré un article 25 bis libellé comme suit :
+»
+
+18° À la suite de l'article 25 de la loi de 2004, il est inséré un article 25bis libellé comme suit :
 
 «
 
-#### Art. 25 bis . Collège(s) des directeurs de l'enseignement secondaire
+#### Art. 25bis. Collège(s) des directeurs de l'enseignement secondaire
 
 Les directeurs et les directeurs adjoints des lycées publics se réunissent en collège(s) dont les modalités de fonctionnement et les missions sont définies par règlement grand-ducal.
 
-Le  ministre  met  à  la  disposition  du  collège  ou  des  collèges  de  l'enseignement  secondaire  un secrétaire administratif.
+Le ministre met à la disposition du collège ou des collèges de l'enseignement secondaire un secrétaire administratif.
 
-19°L'article 27 de la loi de 2004 est remplacé par le libellé suivant :
+»
+
+19° L'article 27 de la loi de 2004 est remplacé par le libellé suivant :
 
 #### « Art. 27. L'attaché à la direction
 
 Le directeur peut se faire assister dans la gestion de l'organisation des enseignements et la mise en œuvre de l'autonomie du lycée par des attachés à la direction à tâche partielle ou complète.
-
-»
-
-»
-
-»
 
 A 789 - 8
 
@@ -474,15 +448,17 @@ JOURNAL OFFICIEL du Grand-Duché de Luxembourg
 
 MÉMORIAL A - 789 du 5 septembre 2017
 
-Les  attachés  à  la  direction  suivent  des  formations  décidées  par  le  ministre  sur  proposition  du directeur.
+Les attachés à la direction suivent des formations décidées par le ministre sur proposition du directeur.
 
 L'attaché à la direction peut, en tant que délégué du directeur, assurer le contact avec les parents et les élèves, la coordination des conférences spéciales ainsi que la gestion administrative et pédagogique des départements sectoriels du lycée.
 
 L'attaché à la direction est membre du personnel du lycée et nommé par le ministre sur proposition du directeur pour un mandat renouvelable de trois ans.
 
-20°À la suite de l'article 28 de la loi de 2004, il est inséré un article 28 bis libellé comme suit :
+»
 
-#### « Art. 28 bis . Le service socio-éducatif
+20° À la suite de l'article 28 de la loi de 2004, il est inséré un article 28bis libellé comme suit :
+
+#### « Art. 28bis. Le service socio-éducatif
 
 Il est créé dans chaque lycée un service socio-éducatif placé sous l'autorité du directeur du lycée.
 
@@ -490,51 +466,41 @@ Ce service fonctionne en collaboration étroite avec le service psycho-social et
 
 Les missions suivantes incombent au service :
 
-- 1° développer les compétences sociales et personnelles des élèves par des projets socioéducatifs en étroite collaboration avec les enseignants ;
-
-- 2° organiser  des  activités  de  prise  en  charge  éducative,  des  activités  périscolaires  et  des études dirigées ;
-
-- 3° prévenir le décrochage scolaire ;
-
-- 4° prévenir la violence et les conflits ;
-
-- 5° assister les élèves en difficulté.
+1° développer les compétences sociales et personnelles des élèves par des projets socio-éducatifs en étroite collaboration avec les enseignants ;
+2° organiser des activités de prise en charge éducative, des activités périscolaires et des études dirigées ;
+3° prévenir le décrochage scolaire ;
+4° prévenir la violence et les conflits ;
+5° assister les élèves en difficulté.
 
 Ces activités et interventions ont lieu en dehors des heures de classe ou lors des leçons pour lesquelles l'enseignant est absent.
 
-21°À l'article 29 de la loi de 2004, entre le deuxième et le troisième tiret, il est inséré le tiret suivant :
+»
 
-« -proposer des ouvrages dans les langues les plus utilisées par les élèves ;
+21° À l'article 29 de la loi de 2004, entre le deuxième et le troisième tiret, il est inséré le tiret suivant :
 
-22°L'article 32 de la loi de 2004 est complété par un nouvel alinéa, libellé comme suit :
+«
+- proposer des ouvrages dans les langues les plus utilisées par les élèves ;
+»
 
-« L'hébergement  à  l'internat  est  payant.  Un  règlement  grand-ducal  détermine  les  conditions  de l'encadrement des élèves hébergés à l'internat, le fonctionnement de l'internat et le montant de la contribution due pour l'hébergement d'un élève à l'internat.
+22° L'article 32 de la loi de 2004 est complété par un nouvel alinéa, libellé comme suit :
 
-23°À l'article 34 de la loi de 2004 sont apportées les modifications suivantes :
+« L'hébergement à l'internat est payant. Un règlement grand-ducal détermine les conditions de l'encadrement des élèves hébergés à l'internat, le fonctionnement de l'internat et le montant de la contribution due pour l'hébergement d'un élève à l'internat. »
 
-- À l'alinéa 1 er , au premier tiret, les mots  « auprès des comités formés respectivement par les enseignants et les parents »  sont remplacés par les mots  « auprès du comité des parents et du comité de la conférence du lycée »  .
+23° À l'article 34 de la loi de 2004 sont apportées les modifications suivantes :
 
-- Il est inséré un nouvel alinéa entre les alinéas 1 er et 2 libellé comme suit :
+a) À l'alinéa 1er, au premier tiret, les mots « auprès des comités formés respectivement par les enseignants et les parents » sont remplacés par les mots « auprès du comité des parents et du comité de la conférence du lycée ».
 
-« Le directeur met à la disposition du comité des élèves une salle pour ses réunions et le matériel nécessaire à l'information des élèves du lycée. Il désigne un accompagnateur du comité des élèves choisi parmi le personnel du lycée.
+b) Il est inséré un nouvel alinéa entre les alinéas 1er et 2 libellé comme suit :
 
-24°Suite à l'article 34 de la loi de 2004, il est inséré un nouvel article 34 bis libellé comme suit :
+« Le directeur met à la disposition du comité des élèves une salle pour ses réunions et le matériel nécessaire à l'information des élèves du lycée. Il désigne un accompagnateur du comité des élèves choisi parmi le personnel du lycée. »
 
-#### « Art. 34 bis . La conférence nationale des élèves
+24° Suite à l'article 34 de la loi de 2004, il est inséré un nouvel article 34bis libellé comme suit :
+
+#### « Art. 34bis. La conférence nationale des élèves
 
 Il est constitué une conférence nationale des élèves comprenant un délégué par comité d'élèves d'un lycée.
 
 La conférence nationale des élèves a pour mission de représenter les élèves et les comités des élèves auprès du ministre, d'émettre un avis sur les questions qui lui sont soumises par le ministre,
-
-»
-
-»
-
-»
-
-»
-
-»
 
 A 789 - 9
 
@@ -548,49 +514,47 @@ MÉMORIAL A - 789 du 5 septembre 2017
 
 de formuler des propositions concernant la vie scolaire et le travail des élèves et de créer des commissions spéciales consultatives.
 
-Afin  d'assurer  que  la  conférence  nationale  des  élèves  puisse  travailler  de  façon  autonome  et indépendante, le ministre met à sa disposition, dans la limite des crédits budgétaires, les ressources nécessaires à son fonctionnement ainsi qu'un secrétaire administratif.
+Afin d'assurer que la conférence nationale des élèves puisse travailler de façon autonome et indépendante, le ministre met à sa disposition, dans la limite des crédits budgétaires, les ressources nécessaires à son fonctionnement ainsi qu'un secrétaire administratif.
 
 Un règlement grand-ducal détermine les modalités de fonctionnement de la conférence nationale des élèves.
 
-25°À l'article 35 de la loi de 2004 sont apportées les modifications suivantes :
+»
 
-- À l'alinéa 1 er ,  premier tiret, les termes  « les enseignants »  sont remplacés par les termes  « la conférence du lycée » .
+25° À l'article 35 de la loi de 2004 sont apportées les modifications suivantes :
 
-- L'article est complété par les alinéas suivants :
+a) À l'alinéa 1er, premier tiret, les termes « les enseignants » sont remplacés par les termes « la conférence du lycée ».
 
-« Lors de votes à l'assemblée générale des parents d'élèves d'un lycée, chaque parent d'un ou plusieurs enfants scolarisés au lycée dispose d'une voix. Si un seul parent est présent, il dispose des deux voix. L'assemblée détermine la composition et les modalités d'élection des membres du comité des parents d'élèves. Elle désigne le représentant au conseil de discipline et son suppléant. Le comité délègue les représentants des parents d'élèves au conseil d'éducation. Un règlement grand-ducal détermine les modalités du fonctionnement du comité des parents d'élèves.
+b) L'article est complété par les alinéas suivants :
 
-26°À l'article 37 de la loi de 2004 sont apportées les modifications suivantes :
+« Lors de votes à l'assemblée générale des parents d'élèves d'un lycée, chaque parent d'un ou plusieurs enfants scolarisés au lycée dispose d'une voix. Si un seul parent est présent, il dispose des deux voix. L'assemblée détermine la composition et les modalités d'élection des membres du comité des parents d'élèves. Elle désigne le représentant au conseil de discipline et son suppléant. Le comité délègue les représentants des parents d'élèves au conseil d'éducation.
 
-- L'intitulé est remplacé par l'intitulé suivant:  « Art. 37. La procédure d'inscription » .
+Un règlement grand-ducal détermine les modalités du fonctionnement du comité des parents d'élèves. »
 
-- L'alinéa 1 er est remplacé par le libellé suivant :
+26° À l'article 37 de la loi de 2004 sont apportées les modifications suivantes :
 
-« Dans les limites des capacités d'accueil, l'élève admis à une classe inférieure de l'enseignement secondaire  est  inscrit  en  priorité  à  un  lycée  situé  à  proximité  du  lieu  de  résidence.  L'élève bénéficie d'une priorité d'inscription dans un lycée où un autre enfant faisant partie du même ménage est inscrit.
+a) L'intitulé est remplacé par l'intitulé suivant: « Art. 37. La procédure d'inscription ».
 
-- L'alinéa 2 est supprimé.
+b) L'alinéa 1er est remplacé par le libellé suivant :
 
-- À l'ancien alinéa 3, devenu l'alinéa 2, les mots  « Suite à la demande de l'élève »  sont remplacés par ceux de  « Suite à la demande des personnes investies de l'autorité parentale à l'égard de l'élève »  .
+« Dans les limites des capacités d'accueil, l'élève admis à une classe inférieure de l'enseignement secondaire est inscrit en priorité à un lycée situé à proximité du lieu de résidence. L'élève bénéficie d'une priorité d'inscription dans un lycée où un autre enfant faisant partie du même ménage est inscrit. »
 
-- À l'ancien alinéa 4, devenu l'alinéa 3, les mots  « aux classes de la division supérieure de l'enseignement secondaire et des cycles moyen et supérieur de l'enseignement secondaire technique »  sont remplacés par ceux de  « à une classe supérieure de l'enseignement secondaire ou à la formation professionnelle initiale » .
+c) L'alinéa 2 est supprimé.
 
-- 27°À l'article 38 de la loi de 2004, les mots  « règlement de discipline et d'ordre intérieur »  sont remplacés par ceux de  « règlement grand-ducal concernant la conduite  » .
+d) À l'ancien alinéa 3, devenu l'alinéa 2, les mots « Suite à la demande de l'élève » sont remplacés par ceux de « Suite à la demande des personnes investies de l'autorité parentale à l'égard de l'élève ».
 
-- 28°À la suite de l'article 40 de la loi de 2004, il est inséré un nouvel article 40 bis libellé comme suit :
+e) À l'ancien alinéa 4, devenu l'alinéa 3, les mots « aux classes de la division supérieure de l'enseignement secondaire et des cycles moyen et supérieur de l'enseignement secondaire technique » sont remplacés par ceux de « à une classe supérieure de l'enseignement secondaire ou à la formation professionnelle initiale ».
 
-#### « Art. 40 bis . L'accès au lycée
+27° À l'article 38 de la loi de 2004, les mots « règlement de discipline et d'ordre intérieur » sont remplacés par ceux de « règlement grand-ducal concernant la conduite ».
+
+28° À la suite de l'article 40 de la loi de 2004, il est inséré un nouvel article 40bis libellé comme suit :
+
+#### « Art. 40bis. L'accès au lycée
 
 L'accès à l'enceinte du lycée est réservé aux élèves du lycée, aux membres du personnel du lycée, aux personnes exerçant au sein du lycée une mission prévue par la loi et aux personnes y autorisées par le directeur du lycée.
 
 »
 
-»
-
-»
-
 A 789 - 10
-
-»
 
 [[END OF PAGE 10]]
 
@@ -600,7 +564,7 @@ JOURNAL OFFICIEL du Grand-Duché de Luxembourg
 
 MÉMORIAL A - 789 du 5 septembre 2017
 
-29°L'intitulé du chapitre 11 et l'article 41 de la loi de 2004 sont remplacés par le libellé suivant :
+29° L'intitulé du chapitre 11 et l'article 41 de la loi de 2004 sont remplacés par le libellé suivant :
 
 «
 
@@ -616,7 +580,9 @@ Tout événement grave touchant à l'ordre, à la discipline ou à la sécurité
 
 Un règlement grand-ducal détermine les dispositions concernant les règles de conduite communes à tous les lycées. Chaque lycée met en œuvre des règles spécifiques complémentaires d'ordre intérieur.
 
-30°L'article 42 de la loi de 2004 est remplacé par le libellé suivant :
+»
+
+30° L'article 42 de la loi de 2004 est remplacé par le libellé suivant :
 
 #### « Art. 42. Les mesures éducatives
 
@@ -624,37 +590,26 @@ En cas de manquements aux règles de conduite, l'élève peut faire l'objet de m
 
 (1) Les mesures éducatives suivantes peuvent être prises par un enseignant, un membre de la direction ou une personne exerçant la surveillance :
 
-- 1° le rappel à l'ordre ou le blâme ;
-
-- 2° le travail d'intérêt pédagogique ;
-
-- 3° l'exclusion temporaire de la leçon avec une surveillance adéquate ;
-
-- 4° la retenue en dehors des heures de classe, sous surveillance, et avec l'obligation de faire un devoir imposé par l'enseignant ou le surveillant ;
-
-- 5° la confiscation temporaire d'un objet qui est interdit dans l'enceinte du lycée ou au cours. L'objet est rendu après le cours à l'intéressé ou remis au directeur qui le rend au parent ou à l'élève majeur qui se présente dans son bureau.
+1° le rappel à l'ordre ou le blâme ;
+2° le travail d'intérêt pédagogique ;
+3° l'exclusion temporaire de la leçon avec une surveillance adéquate ;
+4° la retenue en dehors des heures de classe, sous surveillance, et avec l'obligation de faire un devoir imposé par l'enseignant ou le surveillant ;
+5° la confiscation temporaire d'un objet qui est interdit dans l'enceinte du lycée ou au cours. L'objet est rendu après le cours à l'intéressé ou remis au directeur qui le rend au parent ou à l'élève majeur qui se présente dans son bureau.
 
 (2) Les mesures éducatives suivantes peuvent être prises par le directeur, le conseil de classe demandé en son avis :
 
-- 1° une activité dans l'intérêt de la communauté scolaire, en relation avec le manquement ;
+1° une activité dans l'intérêt de la communauté scolaire, en relation avec le manquement ;
+2° le transfert temporaire ou définitif à une autre classe du même établissement ;
+3° l'exclusion de tous les cours pendant une durée de un jour à deux semaines. Pour l'élève mineur, elle est accompagnée, pendant l'horaire normal de la classe de l'élève sanctionné, de mesures destinées à garantir la poursuite de la scolarité de l'élève.
 
-- 2° le transfert temporaire ou définitif à une autre classe du même établissement ;
-
-- 3° l'exclusion de tous les cours pendant une durée de un jour à deux semaines. Pour l'élève mineur, elle est accompagnée, pendant l'horaire normal de la classe de l'élève sanctionné, de mesures destinées à garantir la poursuite de la scolarité de l'élève.
-
-(3) La  mesure  éducative  est  inscrite  au  livre  de  classe.  Une  mesure  éducative  décidée  par  le directeur ainsi que la retenue en dehors des heures de classe sont notifiées, par lettre motivée, à l'élève majeur ou aux parents de l'élève mineur et, le cas échéant, au patron formateur et aux chambres professionnelles concernées.
+(3) La mesure éducative est inscrite au livre de classe. Une mesure éducative décidée par le directeur ainsi que la retenue en dehors des heures de classe sont notifiées, par lettre motivée, à l'élève majeur ou aux parents de l'élève mineur et, le cas échéant, au patron formateur et aux chambres professionnelles concernées.
 
 (4) Les mesures éducatives sont prises suite aux manquements suivants :
 
-- 1° les actes d'incivilité et d'impertinence commis à l'égard des membres de la communauté scolaire ;
-
-- 2° le refus d'obéissance ;
-
-- 3° le refus d'assister aux cours ou de composer ;
-
-- 4° l'absence injustifiée des cours durant au plus soixante leçons au cours d'une même année scolaire, ou au plus trente leçons pour les élèves des classes concomitantes, et les retards
-
-»
+1° les actes d'incivilité et d'impertinence commis à l'égard des membres de la communauté scolaire ;
+2° le refus d'obéissance ;
+3° le refus d'assister aux cours ou de composer ;
+4° l'absence injustifiée des cours durant au plus soixante leçons au cours d'une même année scolaire, ou au plus trente leçons pour les élèves des classes concomitantes, et les retards
 
 A 789 - 11
 
@@ -666,27 +621,23 @@ JOURNAL OFFICIEL du Grand-Duché de Luxembourg
 
 MÉMORIAL A - 789 du 5 septembre 2017
 
-réitérés  ainsi  que  l'absence  injustifiée  à  l'appui  auquel  l'élève  s'est  inscrit  ou  la  nonréalisation des travaux qui lui sont indiqués ;
+réitérés ainsi que l'absence injustifiée à l'appui auquel l'élève s'est inscrit ou la non-réalisation des travaux qui lui sont indiqués ;
 
-- 5° la présence au lycée en état d'ébriété ou sous l'emprise de stupéfiants prohibés ;
-
-- 6° la détention ou la consommation d'alcool dans l'enceinte du lycée ;
-
-- 7° la consommation de tabac à l'intérieur du lycée et dans son enceinte ;
-
-- 8° la fraude ;
-
-- 9° l'incitation au désordre ou à un manquement ;
-
-- 10°l'organisation, dans l'enceinte du lycée, de manifestations non autorisées par le directeur ;
-
-- 11° les infractions visées à l'article 43 qui ne justifient pas le renvoi.
+5° la présence au lycée en état d'ébriété ou sous l'emprise de stupéfiants prohibés ;
+6° la détention ou la consommation d'alcool dans l'enceinte du lycée ;
+7° la consommation de tabac à l'intérieur du lycée et dans son enceinte ;
+8° la fraude ;
+9° l'incitation au désordre ou à un manquement ;
+10° l'organisation, dans l'enceinte du lycée, de manifestations non autorisées par le directeur ;
+11° les infractions visées à l'article 43 qui ne justifient pas le renvoi.
 
 (5) Le directeur peut fixer un rendez-vous pour l'élève avec le service psycho-social et d'accompagnement scolaires du lycée ou avec un service extérieur compétent. L'élève majeur ou les parents de l'élève mineur en sont informés par écrit.
 
 L'élève et les parents de l'élève mineur sont tenus de s'y présenter.
 
-31°L'article 43 de la loi de 2004 est remplacé par le libellé suivant :
+»
+
+31° L'article 43 de la loi de 2004 est remplacé par le libellé suivant :
 
 #### « Art. 43. La mesure disciplinaire du renvoi
 
@@ -694,41 +645,24 @@ Le conseil de discipline peut prononcer la sanction du renvoi à l'encontre d'un
 
 Le conseil de discipline peut prononcer la sanction du renvoi pour les faits suivants :
 
-- 1° les voies de fait, l'incitation à la violence, la menace et les actes de violence commis à l'égard d'un membre de la communauté scolaire ;
-
-- 2° l'insulte grave ;
-
-- 3° l'enregistrement  ou  la  diffusion  de  scènes  de  violence  ou  d'humiliation  concernant  les personnes de la communauté scolaire ;
-
-- 4° l'atteinte aux bonnes mœurs ;
-
-- 5° le port d'armes ;
-
-- 6° les incitations et agissements discriminatoires, de nature xénophobe ou envers l'appartenance  ethnique,  le  sexe  ou  l'identité  du  genre,  le  handicap,  l'âge,  l'orientation sexuelle, la religion ;
-
-- 7° le harcèlement moral ou sexuel ;
-
-- 8° la dégradation ou la destruction de propriétés au détriment soit de l'Etat, soit de particuliers ;
-
-- 9° le  vol  dans  l'enceinte  du  lycée  ou  lors  d'un  déplacement  scolaire  ou  d'une  activité périscolaire ;
-
-- 10°le faux en écriture, la falsification de documents ;
-
-- 11° le refus d'observer les mesures de sécurité ;
-
-- 12°le déclenchement d'une fausse alerte ou l'annonce d'un danger inexistant avec l'intention de déclencher une fausse alerte ;
-
-- 13°la présence répétée au lycée en état d'ébriété ou sous l'emprise de stupéfiants prohibés ;
-
-- 14°la  détention  ou  la  consommation  ou  le  trafic,  dans  l'enceinte  du  lycée,  de  stupéfiants prohibés ;
-
-- 15°l'absence injustifiée des cours durant plus de soixante leçons au cours d'une même année scolaire ou plus de trente leçons pour les élèves des classes concomitantes ;
-
-- 16°trois exclusions, pendant une même année scolaire, de tous les cours pour chaque fois au moins une journée; à la suite de la deuxième exclusion, l'élève majeur ou les parents de l'élève mineur sont avertis par écrit qu'en cas de récidive le renvoi est possible.
+1° les voies de fait, l'incitation à la violence, la menace et les actes de violence commis à l'égard d'un membre de la communauté scolaire ;
+2° l'insulte grave ;
+3° l'enregistrement ou la diffusion de scènes de violence ou d'humiliation concernant les personnes de la communauté scolaire ;
+4° l'atteinte aux bonnes mœurs ;
+5° le port d'armes ;
+6° les incitations et agissements discriminatoires, de nature xénophobe ou envers l'appartenance ethnique, le sexe ou l'identité du genre, le handicap, l'âge, l'orientation sexuelle, la religion ;
+7° le harcèlement moral ou sexuel ;
+8° la dégradation ou la destruction de propriétés au détriment soit de l'Etat, soit de particuliers ;
+9° le vol dans l'enceinte du lycée ou lors d'un déplacement scolaire ou d'une activité périscolaire ;
+10° le faux en écriture, la falsification de documents ;
+11° le refus d'observer les mesures de sécurité ;
+12° le déclenchement d'une fausse alerte ou l'annonce d'un danger inexistant avec l'intention de déclencher une fausse alerte ;
+13° la présence répétée au lycée en état d'ébriété ou sous l'emprise de stupéfiants prohibés ;
+14° la détention ou la consommation ou le trafic, dans l'enceinte du lycée, de stupéfiants prohibés ;
+15° l'absence injustifiée des cours durant plus de soixante leçons au cours d'une même année scolaire ou plus de trente leçons pour les élèves des classes concomitantes ;
+16° trois exclusions, pendant une même année scolaire, de tous les cours pour chaque fois au moins une journée; à la suite de la deuxième exclusion, l'élève majeur ou les parents de l'élève mineur sont avertis par écrit qu'en cas de récidive le renvoi est possible.
 
 La décision du conseil de discipline est motivée et arrêtée par écrit. Elle est notifiée à l'élève majeur ou aux parents de l'élève mineur ainsi que, le cas échéant, au patron formateur et aux chambres
-
-»
 
 A 789 - 12
 
@@ -798,9 +732,9 @@ JOURNAL OFFICIEL du Grand-Duché de Luxembourg
 
 MÉMORIAL A - 789 du 5 septembre 2017
 
-#### Art. 43 quater . Le recours en matière disciplinaire
+#### Art. 43quater. Le recours en matière disciplinaire
 
-L'élève  majeur  ou  les  parents  de  l'élève  mineur  peuvent  introduire  par  lettre  recommandée  un recours motivé contre un renvoi auprès de la commission de recours en matière disciplinaire, ciaprès « la commission de recours », instituée par le ministre, dans un délai de huit jours après la notification de la décision. Ils peuvent demander dans cette lettre à être entendus par la commission de recours. L'inscription au lycée et le contrat d'apprentissage restent en vigueur jusqu'à la décision finale de la commission de recours.
+L'élève majeur ou les parents de l'élève mineur peuvent introduire par lettre recommandée un recours motivé contre un renvoi auprès de la commission de recours en matière disciplinaire, ci-après « la commission de recours », instituée par le ministre, dans un délai de huit jours après la notification de la décision. Ils peuvent demander dans cette lettre à être entendus par la commission de recours. L'inscription au lycée et le contrat d'apprentissage restent en vigueur jusqu'à la décision finale de la commission de recours.
 
 La commission de recours statue dans les quinze jours.
 
@@ -818,29 +752,29 @@ La décision de la commission de recours est motivée, arrêtée par écrit et n
 
 La direction du lycée et l'organisme de formation en sont informés. La décision est susceptible d'un recours en réformation devant le tribunal administratif à intenter dans un délai de trois mois à partir de la notification.
 
-#### Art. 43 quinquies . Les écoles privées
+#### Art. 43quinquies. Les écoles privées
 
 Les dispositions du chapitre 11 s'appliquent également aux écoles privées qui bénéficient d'une autorisation de fonctionnement délivrée selon les dispositions de la loi modifiée du 13 juin 2003 concernant les relations entre l'État et l'enseignement privé.
 
+»
+
 ## Art. II.
 
-- 1° Dans l'ensemble du texte de la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue, appelée ci-après « loi de 1990 », sont apportées les modifications suivantes :
+1° Dans l'ensemble du texte de la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue, appelée ci-après « loi de 1990 », sont apportées les modifications suivantes :
 
-- les mots  « enseignement secondaire technique »  sont remplacés par les mots  « enseignement secondaire général »  ;
+a) les mots « enseignement secondaire technique » sont remplacés par les mots « enseignement secondaire général » ;
 
-- Les mots  « branche »  ou  « branches  » sont respectivement remplacés par les mots  « discipline »  et « disciplines » .
+b) Les mots « branche » ou « branches » sont respectivement remplacés par les mots « discipline » et « disciplines ».
 
-- 2° L'intitulé de la loi de 1990 est remplacé par le libellé suivant:  « loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire général » .
+2° L'intitulé de la loi de 1990 est remplacé par le libellé suivant: « loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire général ».
 
-- 3° L'intitulé  du  chapitre  I er de  la  loi  de  1990  est  remplacé  par  le  libellé  suivant:    «  Chapitre  I er .  De l'enseignement secondaire général » .
+3° L'intitulé du chapitre Ier de la loi de 1990 est remplacé par le libellé suivant: « Chapitre Ier. De l'enseignement secondaire général ».
 
-- 4° L'article 2 de la loi de 1990 est modifié comme suit :
+4° L'article 2 de la loi de 1990 est modifié comme suit :
 
-- L'alinéa 1 er est remplacé par le libellé suivant :
+a) L'alinéa 1er est remplacé par le libellé suivant :
 
-« L'enseignement  secondaire  général  comprend  les  classes  inférieures  de  trois  années  d'études complétées par les classes d'initiation professionnelle, ainsi que les classes supérieures de quatre années d'études.
-
-»
+« L'enseignement secondaire général comprend les classes inférieures de trois années d'études complétées par les classes d'initiation professionnelle, ainsi que les classes supérieures de quatre années d'études.
 
 A 789 - 14
 
@@ -852,27 +786,29 @@ JOURNAL OFFICIEL du Grand-Duché de Luxembourg
 
 MÉMORIAL A - 789 du 5 septembre 2017
 
-- L'alinéa 2 est supprimé.
+»
 
-- 5° L'article 2 bis de la loi de 1990 est abrogé.
+b) L'alinéa 2 est supprimé.
 
-- 6° Le point B du Chapitre I er de la loi de 1990 intitulé  « B. Le cycle inférieur »  est remplacé par le libellé suivant :  « B. Les classes inférieures » .
+5° L'article 2bis de la loi de 1990 est abrogé.
 
-- 7° L'article 3 de la loi de 1990 est modifié comme suit :
+6° Le point B du Chapitre Ier de la loi de 1990 intitulé « B. Le cycle inférieur » est remplacé par le libellé suivant : « B. Les classes inférieures ».
 
-- À l'alinéa 1 er , le liminaire s'écrit:  « Les classes inférieures ont pour objectif  » .
+7° L'article 3 de la loi de 1990 est modifié comme suit :
 
-- Le troisième tiret est supprimé.
+a) À l'alinéa 1er, le liminaire s'écrit: « Les classes inférieures ont pour objectif ».
 
-- Au second tiret, les mots  « dans les différents régimes du cycle moyen »  sont remplacés par les mots  « dans les classes supérieures et dans la formation professionnelle » .
+b) Le troisième tiret est supprimé.
 
-- L'article est complété par les alinéas suivants :
+c) Au second tiret, les mots « dans les différents régimes du cycle moyen » sont remplacés par les mots « dans les classes supérieures et dans la formation professionnelle ».
+
+d) L'article est complété par les alinéas suivants :
 
 « L'enseignement aux classes inférieures est organisé en deux voies: la voie d'orientation et la voie de préparation.
 
-L'élève bénéficie d'un encadrement qui l'aide à élaborer un parcours de formation scolaire ou professionnelle correspondant à ses capacités et intérêts.
+L'élève bénéficie d'un encadrement qui l'aide à élaborer un parcours de formation scolaire ou professionnelle correspondant à ses capacités et intérêts. »
 
-8°L'article 4 de la loi de 1990 est remplacé par le libellé suivant :
+8° L'article 4 de la loi de 1990 est remplacé par le libellé suivant :
 
 #### « Art. 4.
 
@@ -884,29 +820,25 @@ La sixième d'orientation approfondit la formation de base polyvalente et prépa
 
 La cinquième de détermination prépare respectivement l'accès à la formation professionnelle et la poursuite des études dans les classes supérieures. Elle peut être organisée sous forme de cinquième d'adaptation pour les élèves en provenance de la voie de préparation.
 
-L'enseignement  en  langues  et  en  mathématiques  en  sixième  d'orientation  et  cinquième  de détermination est organisé par des cours de base et des cours avancés.
+L'enseignement en langues et en mathématiques en sixième d'orientation et cinquième de détermination est organisé par des cours de base et des cours avancés.
 
 (2) La voie de préparation a pour mission de préparer les élèves à un passage ultérieur à la voie d'orientation ou à la formation professionnelle.
 
-Ces finalités  nécessitent  la  mise  en  œuvre  de  modèles  pédagogiques différenciés, adaptés à la population des élèves, fondés sur des méthodes d'enseignement et d'encadrement spécifiques.
+Ces finalités nécessitent la mise en œuvre de modèles pédagogiques différenciés, adaptés à la population des élèves, fondés sur des méthodes d'enseignement et d'encadrement spécifiques.
 
-(3) Des  cours  d'appui  peuvent  être  organisés  pour  assurer  la  perméabilité  entre  les  voies pédagogiques.
+(3) Des cours d'appui peuvent être organisés pour assurer la perméabilité entre les voies pédagogiques.
 
-(4) Les classes d'initiation professionnelle accueillent des élèves mineurs qui, au terme de la voie d'orientation  ou  de  la  voie  de  préparation,  ne  peuvent  accéder  aux  classes  supérieures  ou  à  la formation professionnelle.
-
-9°À l'article 5 de la loi de 1990 sont apportées les modifications suivantes :
-
-- À l'alinéa 1 er , les mots  « la neuvième de détermination »  sont remplacés par les mots  « la cinquième de détermination, la cinquième d'adaptation ou au moins cinq sixièmes des modules prévus à la voie de préparation »  et les mots  « au cycle inférieur »  sont remplacés par les mots  « des classes inférieures » .
-
-- À l'alinéa 2, les mots  « le ministre de l'Éducation nationale »  sont remplacés par les mots  « le ministre ayant l'Éducation nationale dans ses attributions » .
-
-- Les alinéas 3, 4, 5 et 6 sont supprimés.
+(4) Les classes d'initiation professionnelle accueillent des élèves mineurs qui, au terme de la voie d'orientation ou de la voie de préparation, ne peuvent accéder aux classes supérieures ou à la formation professionnelle.
 
 »
 
-»
+9° À l'article 5 de la loi de 1990 sont apportées les modifications suivantes :
 
-»
+a) À l'alinéa 1er, les mots « la neuvième de détermination » sont remplacés par les mots « la cinquième de détermination, la cinquième d'adaptation ou au moins cinq sixièmes des modules prévus à la voie de préparation » et les mots « au cycle inférieur » sont remplacés par les mots « des classes inférieures ».
+
+b) À l'alinéa 2, les mots « le ministre de l'Éducation nationale » sont remplacés par les mots « le ministre ayant l'Éducation nationale dans ses attributions ».
+
+c) Les alinéas 3, 4, 5 et 6 sont supprimés.
 
 A 789 - 15
 
@@ -918,17 +850,17 @@ JOURNAL OFFICIEL du Grand-Duché de Luxembourg
 
 MÉMORIAL A - 789 du 5 septembre 2017
 
-10°L'article 6 de la loi de 1990 est remplacé par le libellé suivant :
+10° L'article 6 de la loi de 1990 est remplacé par le libellé suivant :
 
 #### « Art. 6.
 
 (1) Le programme d'études des classes inférieures porte sur les disciplines suivantes :
 
-- les langues allemande, française, luxembourgeoise, anglaise ainsi que les mathématiques ; ces disciplines forment le volet « langues et mathématiques » ;
+a. les langues allemande, française, luxembourgeoise, anglaise ainsi que les mathématiques ; ces disciplines forment le volet « langues et mathématiques » ;
 
-- les sciences naturelles regroupant comme matières la physique, la chimie, la biologie et l'informatique ; les sciences sociales regroupant comme matières l'histoire et la géographie ; l'éducation  technologique  ;  ces  disciplines  forment  le  volet  «  sciences  naturelles  et sociales » ;
+b. les sciences naturelles regroupant comme matières la physique, la chimie, la biologie et l'informatique ; les sciences sociales regroupant comme matières l'histoire et la géographie ; l'éducation technologique ; ces disciplines forment le volet « sciences naturelles et sociales » ;
 
-- l'éducation physique, l'éducation artistique, l'éducation musicale, les options et les cours en atelier, le cours vie et société; ces disciplines forment le volet « expression, orientation et promotion des talents ».
+c. l'éducation physique, l'éducation artistique, l'éducation musicale, les options et les cours en atelier, le cours vie et société; ces disciplines forment le volet « expression, orientation et promotion des talents ».
 
 Le programme d'études comprend des stages d'orientation en entreprise organisés par le lycée. Ces stages d'orientation sont considérés comme travail dans les écoles techniques ou professionnelles au sens de l'article L.342-3 du Code du travail.
 
@@ -938,19 +870,21 @@ Cette attestation d'aptitude est dressée dans le cadre des examens de médecine
 
 Dans le cadre de ces examens, le médecin scolaire constate, soit l'aptitude de l'élève à suivre tout stage ou cours en atelier, soit l'inaptitude de l'élève à suivre certains stages ou cours en atelier.
 
-Pour établir  l'aptitude  ou  l'inaptitude  d'un  élève,  le  médecin  scolaire  peut  demander  l'avis  d'un médecin-spécialiste.
+Pour établir l'aptitude ou l'inaptitude d'un élève, le médecin scolaire peut demander l'avis d'un médecin-spécialiste.
 
 Si après l'évaluation de cet avis, un doute quant à l'aptitude ou l'inaptitude de l'élève persiste, le médecin scolaire demande l'avis d'une commission d'accès à nommer par arrêté ministériel des ministres ayant respectivement la Santé et la Formation professionnelle dans leurs attributions.
 
 La commission d'accès se compose d'un médecin de la Division de la médecine scolaire et de la santé des enfants et adolescents, d'un médecin de la Division de la santé au travail et de l'environnement à nommer sur proposition du Directeur de la Santé et d'un représentant du ministre ayant la Formation professionnelle dans ses attributions.
 
-11° À la suite de l'article 6 de la loi de 1990, il est inséré un article 6 bis , libellé comme suit :
+»
 
-#### « Art. 6 bis .
+11° À la suite de l'article 6 de la loi de 1990, il est inséré un article 6bis, libellé comme suit :
 
-(1) Les  classes  d'initiation  professionnelle  des  lycées  accueillent  des  élèves  qui  sont  mineurs en  début  d'année  scolaire  et  qui  ne  remplissent  pas  les  critères  pour  accéder  à  la  formation professionnelle initiale ou à la formation professionnelle de base. Les classes d'initiation professionnelle peuvent également accueillir des mineurs ayant quitté prématurément l'école, afin qu'ils réintègrent le système d'éducation et de formation.
+#### « Art. 6bis.
 
-(2) L'objectif  des  classes  d'initiation  professionnelle  est  d'orienter  l'élève  vers  la  formation  professionnelle ou vers la voie d'orientation.
+(1) Les classes d'initiation professionnelle des lycées accueillent des élèves qui sont mineurs en début d'année scolaire et qui ne remplissent pas les critères pour accéder à la formation professionnelle initiale ou à la formation professionnelle de base. Les classes d'initiation professionnelle peuvent également accueillir des mineurs ayant quitté prématurément l'école, afin qu'ils réintègrent le système d'éducation et de formation.
+
+(2) L'objectif des classes d'initiation professionnelle est d'orienter l'élève vers la formation professionnelle ou vers la voie d'orientation.
 
 Les classes d'initiation professionnelle font partie de la voie de préparation des classes inférieures de l'enseignement secondaire général.
 
@@ -959,8 +893,6 @@ Les classes d'initiation professionnelle font partie de la voie de préparation 
 (4) La formation peut comporter des stages probatoires.
 
 La participation d'un élève à un stage probatoire en entreprise présuppose une attestation d'aptitude favorable du médecin scolaire établie selon les dispositions de l'article 6, paragraphe 2.
-
-»
 
 A 789 - 16
 
@@ -978,9 +910,9 @@ Ces stages probatoires sont considérés comme travail dans les écoles techniqu
 
 »
 
-12°Les articles 7, 8 et 14 de la loi de 1990 sont abrogés et les intitulés  « Le régime de la formation de technicien »  et  « Le régime professionnel »  sont supprimés.
+12° Les articles 7, 8 et 14 de la loi de 1990 sont abrogés et les intitulés « Le régime de la formation de technicien » et « Le régime professionnel » sont supprimés.
 
-13°L'intitulé « C. Le cycle moyen » et l'article 16 de la loi de 1990 sont remplacés par le libellé suivant :
+13° L'intitulé « C. Le cycle moyen » et l'article 16 de la loi de 1990 sont remplacés par le libellé suivant :
 
 ### « C.Les classes supérieures de l'enseignement secondaire général
 
@@ -992,33 +924,33 @@ Aux élèves ayant réussi la classe de troisième est délivré un certificat d
 
 »
 
-14°À l'article 17 de la loi de 1990, le liminaire est remplacé par le libellé suivant:  « Les classes supérieures de l'enseignement général sont organisées dans les divisions suivantes : » .
+14° À l'article 17 de la loi de 1990, le liminaire est remplacé par le libellé suivant: « Les classes supérieures de l'enseignement général sont organisées dans les divisions suivantes : ».
 
-- 15°L'intitulé  « D. Le cycle supérieur »  de la loi de 1990 est supprimé.
+15° L'intitulé « D. Le cycle supérieur » de la loi de 1990 est supprimé.
 
-- 16°À l'article 18 de la loi de 1990, les alinéas 1 er et 2 sont supprimés et l'article est complété par les alinéas suivants :
-
-«
-
-Les années d'études de 2 e et 1 re de la section « formation de l'éducateur » constituent les deux premières années de la formation de l'éducateur. Les années d'études de 2 e et 1 re de la section « formation de l'infirmier » constituent les deux premières années de la formation de l'infirmier. Elles se soldent comme les autres sections par un examen de fin d'études secondaires en classe de 1 re . La formation de l'éducateur se poursuit par une troisième année, appelée « année terminale », sanctionnée par le diplôme de l'éducateur et organisée sous la responsabilité du ministre. La formation de l'infirmier se poursuit par un brevet de technicien supérieur organisé sous la responsabilité du ministre ayant l'Enseignement supérieur dans ses attributions.
-
-17°À la suite de l'article 18, il est inséré un article 18 bis libellé comme suit :
+16° À l'article 18 de la loi de 1990, les alinéas 1er et 2 sont supprimés et l'article est complété par les alinéas suivants :
 
 «
 
-#### Art. 18 bis .
+Les années d'études de 2e et 1re de la section « formation de l'éducateur » constituent les deux premières années de la formation de l'éducateur. Les années d'études de 2e et 1re de la section « formation de l'infirmier » constituent les deux premières années de la formation de l'infirmier. Elles se soldent comme les autres sections par un examen de fin d'études secondaires en classe de 1re. La formation de l'éducateur se poursuit par une troisième année, appelée « année terminale », sanctionnée par le diplôme de l'éducateur et organisée sous la responsabilité du ministre. La formation de l'infirmier se poursuit par un brevet de technicien supérieur organisé sous la responsabilité du ministre ayant l'Enseignement supérieur dans ses attributions.
+
+»
+
+17° À la suite de l'article 18, il est inséré un article 18bis libellé comme suit :
+
+«
+
+#### Art. 18bis.
 
 Les cours de langue dans les classes supérieures visent à ce que l'élève, d'une part, développe et approfondisse ses compétences langagières linguistiques et fonctionnelles, d'autre part, apprenne à connaître et à comprendre la littérature, à faire assimiler les cultures et les civilisations qui sont porteurs de ces langues, finalement, à apprendre à comparer ces langues, littératures, cultures et civilisations dans le contexte du Grand-Duché de Luxembourg, de la Grande Région et de l'Union européenne.
 
-Pour  ce  qui  est  des  compétences  langagières  aux  classes  supérieures  de  l'enseignement secondaire  général  en  langues,  les  niveaux  visés  par  les  cours  de  langue  s'orientent  aux descripteurs du Cadre européen de référence pour les langues, à savoir le niveau C1 pour l'allemand et le français, le niveau B2 pour l'anglais.
+Pour ce qui est des compétences langagières aux classes supérieures de l'enseignement secondaire général en langues, les niveaux visés par les cours de langue s'orientent aux descripteurs du Cadre européen de référence pour les langues, à savoir le niveau C1 pour l'allemand et le français, le niveau B2 pour l'anglais.
 
 Le complément joint au diplôme spécifie, selon le modèle fixé par le ministre, pour chacune des langues le niveau d'enseignement visé et le nombre d'années scolaires vouées à son étude, et il décrit la pratique de la langue, les acquis d'apprentissage ainsi que les types d'épreuves prévus par les programmes en vigueur.
 
 »
 
 A 789 - 17
-
-»
 
 [[END OF PAGE 17]]
 
@@ -1030,25 +962,25 @@ MÉMORIAL A - 789 du 5 septembre 2017
 
 18°Les intitulés précédant les articles 19 et 21 de la loi de 1990 sont supprimés et l'article 21 est abrogé.
 
-19°À l'article 22 de la loi de 1990 sont apportées les modifications suivantes :
+19° À l'article 22 de la loi de 1990 sont apportées les modifications suivantes :
 
-- À l'alinéa 1 er , les mots  « Le régime technique du cycle supérieur est sanctionné »  sont remplacés par les mots  « Les classes supérieures de l'enseignement général sont sanctionnées » .
+a) À l'alinéa 1er, les mots « Le régime technique du cycle supérieur est sanctionné » sont remplacés par les mots « Les classes supérieures de l'enseignement général sont sanctionnées ».
 
-- À l'alinéa 2, les mots  « en classe de treizième du régime technique du cycle supérieur »  sont remplacés par les mots  « en classe de première générale » .
+b) À l'alinéa 2, les mots « en classe de treizième du régime technique du cycle supérieur » sont remplacés par les mots « en classe de première générale ».
 
-- À l'alinéa 3, les mots  « diplôme de fin d'études secondaires techniques »  sont remplacés par les mots  « diplôme de fin d'études secondaires  » .
+c) À l'alinéa 3, les mots « diplôme de fin d'études secondaires techniques » sont remplacés par les mots « diplôme de fin d'études secondaires ».
 
-- Les alinéas 5, 6, 7, 8, 9 et 10 sont abrogés.
+d) Les alinéas 5, 6, 7, 8, 9 et 10 sont abrogés.
 
-20°L'article 23 de la loi de 1990 est abrogé.
+20° L'article 23 de la loi de 1990 est abrogé.
 
-21°L'intitulé qui précède l'article 24 de la loi de 1990 est supprimé et l'article 24 est abrogé.
+21° L'intitulé qui précède l'article 24 de la loi de 1990 est supprimé et l'article 24 est abrogé.
 
-- 22°L'intitulé qui précède l'article 25 de la loi de 1990 prend le libellé suivant : « D. Le passage des classes inférieures aux classes supérieures et à la formation professionnelle » et l'article 25 est modifié comme suit :
+22° L'intitulé qui précède l'article 25 de la loi de 1990 prend le libellé suivant : « D. Le passage des classes inférieures aux classes supérieures et à la formation professionnelle » et l'article 25 est modifié comme suit :
 
-- À l'alinéa 1 er , les mots  « Le passage du cycle inférieur au cycle moyen »  sont remplacés par les mots « Le passage des classes inférieures aux classes supérieures et à la formation professionnelle » .
+a) À l'alinéa 1er, les mots « Le passage du cycle inférieur au cycle moyen » sont remplacés par les mots « Le passage des classes inférieures aux classes supérieures et à la formation professionnelle ».
 
-- À l'alinéa 3, les mots  « Administration de l'emploi »  sont remplacés par les mots  « Agence pour le développement de l'emploi  » .
+b) À l'alinéa 3, les mots « Administration de l'emploi » sont remplacés par les mots « Agence pour le développement de l'emploi ».
 
 23°L'intitulé qui précède l'article 26 de la loi de 1990 est remplacé par le libellé suivant:  « E. L'admission de personnes adultes »  .
 
@@ -1102,7 +1034,7 @@ JOURNAL OFFICIEL du Grand-Duché de Luxembourg
 
 MÉMORIAL A - 789 du 5 septembre 2017
 
-6°L'article 47 de la loi de 1968 est remplacé par le libellé suivant :
+6° L'article 47 de la loi de 1968 est remplacé par le libellé suivant :
 
 ### « Art. 47.
 
@@ -1114,49 +1046,41 @@ L'enseignement des langues y comprend les langues française, allemande et luxem
 
 À l'entrée en cycle de spécialisation, les élèves de l'enseignement secondaire classique optent pour une des sections suivantes :
 
-- 1° la section langues vivantes (A) ;
+1° la section langues vivantes (A) ;
+2° la section mathématiques-informatique (B) ;
+3° la section sciences naturelles-mathématiques (C) ;
+4° la section sciences économiques-mathématiques (D) ;
+5° la section arts plastiques (E) ;
+6° la section musique (F) ;
+7° la section sciences humaines et sociales (G) ;
+8° la section binationale germano-luxembourgeoise (H), définie par la loi du 1er mars 2013 1. portant approbation de l'Accord signé à Luxembourg le 21 mars 2012 entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement de la Sarre modifiant l'article 3 de l'Accord entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement de la Sarre concernant la création d'un établissement d'enseignement secondaire germano-luxembourgeois, signé à Perl, le 4 décembre 2006 et 2. autorisant le Gouvernement à procéder aux engagements à titre permanent pour les besoins spécifiques du Service de psychologie et d'orientation scolaires au sein du « Deutsch-Luxemburgisches Schengen-Lyzeum Perl » ;
+9° la section informatique-communication (I).
 
-- 2° la section mathématiques-informatique (B) ;
+»
 
-- 3° la section sciences naturelles-mathématiques (C) ;
+7° L'article 49 de la loi de 1968 est modifié comme suit :
 
-- 4° la section sciences économiques-mathématiques (D) ;
+a) À l'alinéa 1er, les mots « la langue et la littérature luxembourgeoises » sont ajoutés après les mots « la langue et la littérature allemandes ».
 
-- 5° la section arts plastiques (E) ;
+b) L'alinéa 2 est supprimé.
 
-- 6° la section musique (F) ;
+c) À l'ancien alinéa 3, devenu l'alinéa 2, les mots « divisions et sections » sont remplacés par les mots « sections et classes ».
 
-- 7° la section sciences humaines et sociales (G) ;
-
-- 8° la section binationale germano-luxembourgeoise (H), définie par la loi du 1 er mars 2013 1. portant approbation de l'Accord signé à Luxembourg le 21 mars 2012 entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement de la Sarre modifiant l'article 3 de l'Accord entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement de la Sarre concernant la création d'un établissement d'enseignement secondaire germano-luxembourgeois, signé à Perl, le 4 décembre 2006 et 2. autorisant le Gouvernement à procéder aux engagements à titre permanent pour les besoins spécifiques du Service de psychologie et d'orientation scolaires au sein du « Deutsch-Luxemburgisches Schengen-Lyzeum Perl » ;
-
-- 9° la section informatique-communication (I).
-
-7°L'article 49 de la loi de 1968 est modifié comme suit :
-
-- À l'alinéa 1 er , les mots  « la langue et la littérature luxembourgeoises »  sont ajoutés après les mots « la langue et la littérature allemandes » .
-
-- L'alinéa 2 est supprimé.
-
-- À l'ancien alinéa 3, devenu l'alinéa 2, les mots  « divisions et sections »  sont remplacés par les mots « sections et classes » .
-
-- L'article est complété par les alinéas suivants :
+d) L'article est complété par les alinéas suivants :
 
 «
 
-Les cours de langue dans les classes supérieures visent à ce que l'élève, d'une part, développe et  approfondisse  ses  compétences  langagières  linguistiques  et  fonctionnelles,  d'autre  part, apprenne  à  connaître  et  à  comprendre  la  littérature,  à  faire  assimiler  les  cultures  et  les civilisations qui sont porteurs de ces langues, finalement, à apprendre à comparer ces langues, littératures, cultures et civilisations dans le contexte du Grand-Duché de Luxembourg, de la Grande Région et de l'Union européenne.
+Les cours de langue dans les classes supérieures visent à ce que l'élève, d'une part, développe et approfondisse ses compétences langagières linguistiques et fonctionnelles, d'autre part, apprenne à connaître et à comprendre la littérature, à faire assimiler les cultures et les civilisations qui sont porteurs de ces langues, finalement, à apprendre à comparer ces langues, littératures, cultures et civilisations dans le contexte du Grand-Duché de Luxembourg, de la Grande Région et de l'Union européenne.
 
-Pour  ce  qui  est  des  compétences  langagières  aux  classes  supérieures  de  l'enseignement secondaire classique en langues, les niveaux visés par les cours de langue s'orientent aux descripteurs du Cadre européen de référence pour les langues, à savoir le niveau C1 pour l'allemand et le français, le niveau B2+ pour l'anglais.
+Pour ce qui est des compétences langagières aux classes supérieures de l'enseignement secondaire classique en langues, les niveaux visés par les cours de langue s'orientent aux descripteurs du Cadre européen de référence pour les langues, à savoir le niveau C1 pour l'allemand et le français, le niveau B2+ pour l'anglais.
 
 Le complément joint au diplôme spécifie, selon le modèle fixé par le ministre, pour chacune des langues le niveau d'enseignement visé et le nombre d'années scolaires vouées à son étude, et il décrit la pratique de la langue, les acquis d'apprentissage ainsi que les types d'épreuves prévus par les programmes en vigueur.
 
 »
 
-> 8° À l'article 53 de la loi de 1968, les mots  « la division supérieure »  sont remplacés par les mots  « les classes supérieures » .
+8° À l'article 53 de la loi de 1968, les mots « la division supérieure » sont remplacés par les mots « les classes supérieures ».
 
-- 9° Les articles 54 et 55 de la loi de 1968 sont abrogés.
-
-»
+9° Les articles 54 et 55 de la loi de 1968 sont abrogés.
 
 A 789 - 19
 
@@ -1200,33 +1124,27 @@ La loi modifiée du 25 juillet 2005 portant création d'un lycée-pilote est mod
 
 - 1° Dans l'ensemble du texte, le mot  « matières »  est remplacé par le mot  « disciplines »  , le mot « branche »  ou  « branches »  par  « discipline »  ou  « disciplines » .
 
-- 2° L'article 2, alinéa 1 er , est modifié comme suit :
+2° L'article 2, alinéa 1er, est modifié comme suit :
 
-« Le  cycle  d'orientation  du  lycée-pilote  comporte  les  classes  inférieures  et  la  classe  de  4 e de l'enseignement secondaire classique ainsi que les classes inférieures de l'enseignement secondaire général.
+« Le cycle d'orientation du lycée-pilote comporte les classes inférieures et la classe de 4e de l'enseignement secondaire classique ainsi que les classes inférieures de l'enseignement secondaire général. »
 
-3°À l'article 4, l'alinéa 1 er est remplacé par le libellé suivant :
+3° À l'article 4, l'alinéa 1er est remplacé par le libellé suivant :
 
-« Les  matières  enseignées  sont  les  mêmes  que  celles  prévues  pour  les  classes  de  septième  à quatrième de l'enseignement secondaire classique et de septième à cinquième de l'enseignement secondaire général.
+« Les matières enseignées sont les mêmes que celles prévues pour les classes de septième à quatrième de l'enseignement secondaire classique et de septième à cinquième de l'enseignement secondaire général. »
 
-- 4°L'article 5 bis est modifié comme suit :
+4° L'article 5bis est modifié comme suit :
 
-### « Art. 5 bis .
+### « Art. 5bis.
 
 Le cycle de formation du lycée-pilote peut comprendre :
 
-- les classes supérieures de 3 e , 2 e et 1 re de l'enseignement secondaire classique ;
-
-- les classes supérieures de l'enseignement secondaire général ;
-
-- des classes de la formation professionnelle.
+1. les classes supérieures de 3e, 2e et 1re de l'enseignement secondaire classique ;
+2. les classes supérieures de l'enseignement secondaire général ;
+3. des classes de la formation professionnelle.
 
 »
 
-»
-
-»
-
-- 5° À l'article  5 quater ,  les  mots    «  pour  les  classes  de  troisième  à  première  des  différentes  sections  de l'enseignement  secondaire  et  des  classes  de  10 e à  12 e ,  respectivement  13 e des  différents  régimes,
+5° À l'article 5quater, les mots « pour les classes de troisième à première des différentes sections de l'enseignement secondaire et des classes de 10e à 12e, respectivement 13e des différents régimes,
 
 A 789 - 20
 
@@ -1238,63 +1156,59 @@ JOURNAL OFFICIEL du Grand-Duché de Luxembourg
 
 MÉMORIAL A - 789 du 5 septembre 2017
 
-divisions et sections de l'enseignement secondaire technique »  sont remplacés par les mots  « pour les classes de 3 e à 1 re de l'enseignement secondaire classique, les classes de 4 e à 1 re de l'enseignement secondaire général et des classes de la formation professionnelle  » .
+divisions et sections de l'enseignement secondaire technique » sont remplacés par les mots « pour les classes de 3e à 1re de l'enseignement secondaire classique, les classes de 4e à 1re de l'enseignement secondaire général et des classes de la formation professionnelle ».
 
-- 6° L'article 10 est modifié de la façon suivante :
+6° L'article 10 est modifié de la façon suivante :
 
-- À l'alinéa 2, point 1, les mots  « au régime technique de l'enseignement secondaire technique »  sont remplacés par les mots  « dans les classes supérieures de l'enseignement secondaire général » .
+a) À l'alinéa 2, point 1, les mots « au régime technique de l'enseignement secondaire technique » sont remplacés par les mots « dans les classes supérieures de l'enseignement secondaire général ».
 
-- À  l'alinéa  2,  point  2,  les  mots    «  au  régime  professionnel  de  l'enseignement  secondaire technique »  sont remplacés par les mots  « dans les classes de la formation professionnelle initiale ou de la formation professionnelle de base » .
+b) À l'alinéa 2, point 2, les mots « au régime professionnel de l'enseignement secondaire technique » sont remplacés par les mots « dans les classes de la formation professionnelle initiale ou de la formation professionnelle de base ».
 
-- À l'alinéa 2, point 3, les mots  « dans la division supérieure de l'enseignement secondaire »  sont remplacés par les mots  « dans les classes supérieures de l'enseignement secondaire classique » .
+c) À l'alinéa 2, point 3, les mots « dans la division supérieure de l'enseignement secondaire » sont remplacés par les mots « dans les classes supérieures de l'enseignement secondaire classique ».
 
-- À l'alinéa 3, les mots  « ou lycées techniques »  sont supprimés.
+d) À l'alinéa 3, les mots « ou lycées techniques » sont supprimés.
 
-- 7° L'article 11 est remplacé par le libellé suivant :
+7° L'article 11 est remplacé par le libellé suivant :
 
 ### « Art. 11.
 
 Pour l'élève de l'enseignement secondaire général, le jury prend l'une des décisions suivantes :
 
-- il admet l'élève à une classe de 4 e de l'enseignement secondaire classique ou général ou à la formation professionnelle initiale en fonction des profils d'accès que l'élève a atteints ;
-
-- il  donne à l'élève la possibilité de redoubler la classe ou lui propose une orientation vers une classe IPDM.
+1. il admet l'élève à une classe de 4e de l'enseignement secondaire classique ou général ou à la formation professionnelle initiale en fonction des profils d'accès que l'élève a atteints ;
+2. il donne à l'élève la possibilité de redoubler la classe ou lui propose une orientation vers une classe IPDM.
 
 Pour l'élève de l'enseignement secondaire classique, le jury prend l'une des décisions suivantes :
 
-- il admet l'élève en classe de 3 e de l'enseignement secondaire classique en déterminant les sections qui lui sont accessibles ;
+1. il admet l'élève en classe de 3e de l'enseignement secondaire classique en déterminant les sections qui lui sont accessibles ;
+2. il oriente l'élève vers une classe de 4e de l'enseignement secondaire général en fonction des profils d'accès que l'élève a atteints ;
+3. il donne à l'élève la possibilité de redoubler la classe.
 
-- il  oriente l'élève vers une classe de 4 e de l'enseignement secondaire général en fonction des profils d'accès que l'élève a atteints ;
+Avec l'accord de l'élève et de ses parents, l'équipe pédagogique d'un élève de la classe de 5e de l'enseignement secondaire classique peut soumettre le dossier et le bulletin de l'élève au jury qui peut prendre l'une des décisions suivantes :
 
-- il donne à l'élève la possibilité de redoubler la classe.
+1. il admet l'élève en classe de 3e de l'enseignement secondaire classique en déterminant les sections qui lui sont accessibles ;
+2. il oriente l'élève vers une classe de 4e de l'enseignement secondaire général en fonction des profils d'accès que l'élève a atteints.
 
-Avec l'accord de l'élève et de ses parents, l'équipe pédagogique d'un élève de la classe de 5 e de l'enseignement secondaire classique peut soumettre le dossier et le bulletin de l'élève au jury qui peut prendre l'une des décisions suivantes :
+»
 
-- il admet l'élève en classe de 3 e de l'enseignement secondaire classique en déterminant les sections qui lui sont accessibles ;
+8° L'article 11ter est remplacé par le libellé suivant :
 
-- il  oriente l'élève vers une classe de 4 e de l'enseignement secondaire général en fonction des profils d'accès que l'élève a atteints.
-
-8°L'article 11 ter est remplacé par le libellé suivant :
-
-### « Art. 11 ter .
+### « Art. 11ter.
 
 L'examen de fin d'études secondaires des élèves du lycée-pilote est identique à celui prévu pour les élèves des autres lycées.
 
 »
 
-»
+9° À l'article 12, alinéa 1er, les mots « et lycées techniques » sont supprimés, les mots « comité des professeurs » sont remplacés par les mots « comité de la conférence du lycée ».
 
-- 9° À l'article 12, alinéa 1 er ,  les  mots  « et lycées techniques  » sont supprimés, les mots  « comité des professeurs »  sont remplacés par les mots  « comité de la conférence du lycée » .
-
-- 10°L'article 13 est remplacé par le libellé suivant :
+10° L'article 13 est remplacé par le libellé suivant :
 
 ### « Art. 13.
 
 Le personnel de l'établissement comprend les fonctions et emplois prévus par loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire.
 
-A 789 - 21
-
 »
+
+A 789 - 21
 
 [[END OF PAGE 21]]
 
@@ -1306,11 +1220,11 @@ MÉMORIAL A - 789 du 5 septembre 2017
 
 11° L'article 19 est modifié comme suit :
 
-- Les mots  « de la sixième année de l'enseignement primaire »  sont remplacés par les mots  « du cycle 4 de l'enseignement fondamental  » .
+a) Les mots « de la sixième année de l'enseignement primaire » sont remplacés par les mots « du cycle 4 de l'enseignement fondamental ».
 
-- les mots  « classe de 7 e d'orientation de l'enseignement secondaire »  ,  « classe de 7 e d'observation du cycle inférieur de l'enseignement secondaire technique »  et  « classe de première année du régime préparatoire de l'enseignement secondaire technique »  sont remplacés respectivement par les mots  « classe de 7 e de l'enseignement secondaire classique »  ,  « classe de 7 e de la voie d'orientation de l'enseignement secondaire général  » et «  classe de 7 e de la voie de préparation de l'enseignement secondaire général » .
+b) les mots « classe de 7e d'orientation de l'enseignement secondaire », « classe de 7e d'observation du cycle inférieur de l'enseignement secondaire technique » et « classe de première année du régime préparatoire de l'enseignement secondaire technique » sont remplacés respectivement par les mots « classe de 7e de l'enseignement secondaire classique », « classe de 7e de la voie d'orientation de l'enseignement secondaire général » et « classe de 7e de la voie de préparation de l'enseignement secondaire général ».
 
-- Aux alinéas 2 à 4, les mots  « ou lycée technique »  ,  « et lycées techniques »  ou  « ou de l'enseignement secondaire technique »  sont supprimés.
+c) Aux alinéas 2 à 4, les mots « ou lycée technique », « et lycées techniques » ou « ou de l'enseignement secondaire technique » sont supprimés.
 
 ## Art. VIII.
 
@@ -1330,13 +1244,13 @@ La loi du 16 mars 2007 portant - 1. organisation des cours de formation professi
 
 - 2° À l'article 1 er , point 2, les mots  « certificat d'initiation technique et professionnelle »  sont remplacés par les mots  « certificat de capacité professionnelle » .
 
-- 3° À l'article 3 sont apportées les modifications suivantes :
+3° À l'article 3 sont apportées les modifications suivantes :
 
-- Le mot  « jeunes »  est remplacé par les mots  « jeunes adultes »  , au premier et au second alinéa du paragraphe 1 er , ainsi qu'au paragraphe 5 ;
+a) Le mot « jeunes » est remplacé par les mots « jeunes adultes », au premier et au second alinéa du paragraphe 1er, ainsi qu'au paragraphe 5 ;
 
-- les mots  « de l'enseignement secondaire technique »  sont supprimés au paragraphe 1 er et deux fois au paragraphe 2 ;
+b) les mots « de l'enseignement secondaire technique » sont supprimés au paragraphe 1er et deux fois au paragraphe 2 ;
 
-- au paragraphe 2, les mots  « dans une classe du cycle inférieur »  sont remplacés par les mots  « dans une classe inférieure de l'enseignement secondaire général. »
+c) au paragraphe 2, les mots « dans une classe du cycle inférieur » sont remplacés par les mots « dans une classe inférieure de l'enseignement secondaire général. »
 
 - 4° L'article 4 est abrogé.
 
@@ -1376,23 +1290,23 @@ MÉMORIAL A - 789 du 5 septembre 2017
 
 - 5° À l'article 23, alinéa 2, le mot  « techniques »  est supprimé.
 
-- 6° À l'article 28 sont apportées les modifications suivantes :
+6° À l'article 28 sont apportées les modifications suivantes :
 
-) au paragraphe 1 er , les mots  « classe de 9 e de l'enseignement secondaire technique »  sont remplacés par les mots  « classe de 5 e » .
+a) ) au paragraphe 1er, les mots « classe de 9e de l'enseignement secondaire technique » sont remplacés par les mots « classe de 5e ».
 
-- au paragraphe 2,
+b) au paragraphe 2,
 
-- les mots  « classe de 9 e »  sont remplacés par les mots  « classe de 5 e » ,
+i. les mots « classe de 9e » sont remplacés par les mots « classe de 5e »,
 
-- à la deuxième phrase, le mot  « technique »  est supprimé et les mots  « dans une classe de 10 e »  sont remplacés par  « vers la formation professionnelle »  .
+ii. à la deuxième phrase, le mot « technique » est supprimé et les mots « dans une classe de 10e » sont remplacés par « vers la formation professionnelle ».
 
 7° À l'article 29 sont apportées les modifications suivantes :
 
-- À l'alinéa 2, point 1, la phrase  « Le régime professionnel fait partie du cycle moyen de l'enseignement secondaire technique »  est supprimée.
+a) À l'alinéa 2, point 1, la phrase « Le régime professionnel fait partie du cycle moyen de l'enseignement secondaire technique » est supprimée.
 
-- Les alinéas 3 et 4 sont supprimés.
+b) Les alinéas 3 et 4 sont supprimés.
 
-- Le  dernier  alinéa  est  remplacé  par  le  libellé  suivant  :    «  Aux  élèves  ayant  réussi  les  modules obligatoires  des  deux  premières  années  est  délivré  un  certificat  de  réussite  de  cinq  années d'enseignement secondaire » .
+c) Le dernier alinéa est remplacé par le libellé suivant : « Aux élèves ayant réussi les modules obligatoires des deux premières années est délivré un certificat de réussite de cinq années d'enseignement secondaire ».
 
 - 8° À l'article 36, paragraphe 1 er , les mots  « certificat de réussite du cycle moyen du régime technique, ainsi que les élèves »  sont supprimés.
 
@@ -1410,15 +1324,15 @@ La loi du 6 février 2009 relative à l'obligation scolaire est modifiée comme 
 
 La loi modifiée du 6 février 2009 portant organisation de l'enseignement fondamental est modifiée comme suit :
 
-1°L'article 26 est modifié comme suit :
+1° L'article 26 est modifié comme suit :
 
-- Au paragraphe 1 er , alinéa 1 er , les mots  « l'ordre d'enseignement postprimaire »  sont remplacés par les mots  « l'ordre d'enseignement secondaire »  , et la troisième phrase est remplacée par le libellé suivant : « L'objectif de cet entretien d'orientation est de formuler de commun accord une décision d'orientation motivée, soit pour une des classes de 7 e de l'enseignement secondaire classique, soit pour une classe de 7 e de la voie d'orientation de l'enseignement secondaire général, soit pour une classe de 7 e de la voie de préparation de l'enseignement secondaire général. »
+a) Au paragraphe 1er, alinéa 1er, les mots « l'ordre d'enseignement postprimaire » sont remplacés par les mots « l'ordre d'enseignement secondaire », et la troisième phrase est remplacée par le libellé suivant : « L'objectif de cet entretien d'orientation est de formuler de commun accord une décision d'orientation motivée, soit pour une des classes de 7e de l'enseignement secondaire classique, soit pour une classe de 7e de la voie d'orientation de l'enseignement secondaire général, soit pour une classe de 7e de la voie de préparation de l'enseignement secondaire général. »
 
-Les mots  « ou de l'enseignement secondaire technique »  au paragraphe 1 er , alinéa 2, sont supprimés.
+Les mots « ou de l'enseignement secondaire technique » au paragraphe 1er, alinéa 2, sont supprimés.
 
-- Au paragraphe 4, alinéa 1 er , la deuxième phrase est remplacée par le libellé suivant:  « Pour chaque élève concerné par les dispositions prévues au paragraphe 3, la commission élabore une décision d'orientation motivée soit pour une des classes de 7 e de  l'enseignement secondaire classique, soit pour une des classes de 7 e de l'enseignement secondaire général. »
+b) Au paragraphe 4, alinéa 1er, la deuxième phrase est remplacée par le libellé suivant: « Pour chaque élève concerné par les dispositions prévues au paragraphe 3, la commission élabore une décision d'orientation motivée soit pour une des classes de 7e de l'enseignement secondaire classique, soit pour une des classes de 7e de l'enseignement secondaire général. »
 
-- Au paragraphe 4, alinéa 4, point 3, le mot  « classique »  est inséré après le mot  « secondaire »  , et au point 4, le mot  « technique »  est remplacé par le mot  « général » .
+c) Au paragraphe 4, alinéa 4, point 3, le mot « classique » est inséré après le mot « secondaire », et au point 4, le mot « technique » est remplacé par le mot « général ».
 
 A 789 - 23
 
@@ -1502,11 +1416,14 @@ La loi entre en vigueur à partir de l'année scolaire 2017/2018.
 
 Mandons et ordonnons que la présente loi soit insérée au Journal officiel du Grand-Duché de Luxembourg pour être exécutée et observée par tous ceux que la chose concerne.
 
-Le Ministre de l'Éducation nationale, de l'Enfance et de la Jeunesse, Claude Meisch
+Le Ministre de l'Éducation nationale,
+de l'Enfance et de la Jeunesse,
+Claude Meisch
+
+Palais de Luxembourg, le 29 août 2017.
+Henri
 
 Doc. parl. 7074 ; sess. ord. 2016-2017.
-
-Palais de Luxembourg, le 29 août 2017. Henri
 
 A 789 - 25
 
