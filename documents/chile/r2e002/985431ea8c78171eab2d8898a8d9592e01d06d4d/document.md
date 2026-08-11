@@ -1,30 +1,21 @@
 [[START OF PAGE 1]]
 
-Fecha Publicación        :02-07-2010
-
-Fecha Promulgación       :16-12-2009
-
-Organismo                :MINISTERIO DE EDUCACIÓN
-
-Inicio Vigencia          :27-06-2019
-
-Fin Vigencia             :01-02-2222
-
-Id Norma                 :1014974
-
-Ultima Modificación      :27-JUN-2019 Ley 21164
-
 Tipo Norma               :Decreto con Fuerza de Ley 2
-
+Fecha Publicación        :02-07-2010
+Fecha Promulgación       :16-12-2009
+Organismo                :MINISTERIO DE EDUCACIÓN
 Título                   :FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY Nº20.370 CON LAS NORMAS NO DEROGADAS DEL DECRETO CON FUERZA DE LEY Nº 1, DE 2005
-
 Tipo Versión             :Última Versión     De : 27-06-2019
-
+Inicio Vigencia          :27-06-2019
+Fin Vigencia             :01-02-2222
+Id Norma                 :1014974
+Ultima Modificación      :27-JUN-2019 Ley 21164
 URL                      :https://www.leychile.cl/N?i=1014974&f=2019-06-27&p=
 
 # FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY Nº20.370 CON LAS NORMAS NO DEROGADAS DEL DECRETO CON FUERZA DE LEY Nº 1, DE 2005
 
-DFL Núm. 2.- Santiago, 16 de diciembre de 2009.Vistos: Lo dispuesto en el artículo 71 de la ley Nº 20.370; en el DFL Nº 1 de 2005, del Ministerio de Educación, y en el artículo 64 inciso 5º de la Constitución Política de la República.
+DFL Núm. 2.- Santiago, 16 de diciembre de 2009.-
+Vistos: Lo dispuesto en el artículo 71 de la ley Nº 20.370; en el DFL Nº 1 de 2005, del Ministerio de Educación, y en el artículo 64 inciso 5º de la Constitución Política de la República.
 
 Decreto con fuerza de ley:
 
@@ -63,21 +54,25 @@ El sistema educativo chileno se construye sobre la base de los derechos garantiz
 
 3º D.O. 12.09.2009
 
-- Universalidad y educación permanente. La educación debe estar al alcance de todas las personas a lo largo de toda la vida.
+a) Universalidad y educación permanente. La educación debe estar al alcance de todas las personas a lo largo de toda la vida.
 
-- Gratuidad. El Estado implantará progresivamente la enseñanza gratuita en los establecimientos subvencionados o que reciben aportes permanentes del Estado, de conformidad a la ley.                                                         Ley 20845
+b) Gratuidad. El Estado implantará progresivamente la enseñanza gratuita en los establecimientos subvencionados o que reciben aportes permanentes del Estado, de conformidad a la ley.
+Ley 20845
+Art. 1 N° 1 a)
+D.O. 08.06.2015
+c) Calidad de la educación. La educación debe propender a asegurar que todos los alumnos y alumnas, independientemente de sus condiciones y circunstancias, alcancen los objetivos generales y los estándares de aprendizaje que se definan en la forma que establezca la ley.
 
-- Calidad de la educación. La educación debe              Art. 1 N° 1 a) propender a asegurar que todos los alumnos y alumnas,           D.O. 08.06.2015 independientemente de sus condiciones y circunstancias, alcancen los objetivos generales y los estándares de aprendizaje que se definan en la forma que establezca la ley.
+d) Equidad del sistema educativo. El sistema propenderá a asegurar que todos los estudiantes tengan las mismas oportunidades de recibir una educación de calidad, con especial atención en aquellas personas o grupos que requieran apoyo especial.
 
-- Equidad del sistema educativo. El sistema propenderá a asegurar que todos los estudiantes tengan las mismas oportunidades de recibir una educación de calidad, con especial atención en aquellas personas o grupos que requieran apoyo especial.
+e) Autonomía. El sistema se basa en el respeto y fomento de la autonomía de los establecimientos educativos. Consiste en la definición y desarrollo de sus proyectos educativos, en el marco de las leyes que los rijan.
 
-- Autonomía. El sistema se basa en el respeto y fomento de la autonomía de los establecimientos educativos. Consiste en la definición y desarrollo de sus proyectos educativos, en el marco de las leyes que los rijan.
+f) Diversidad. El sistema debe promover y respetar la diversidad de procesos y proyectos educativos institucionales, así como la diversidad cultural, religiosa y social de las familias que han elegido un proyecto diverso y determinado, y que son atendidas por él, en conformidad a la Constitución y las leyes.
+En los establecimientos educacionales de propiedad o administración del Estado se promoverá la formación laica, esto es, respetuosa de toda expresión religiosa, y la formación ciudadana de los estudiantes, a fin de fomentar su participación en la sociedad.
+Ley 20845
+Art. 1 N° 1 b)
+D.O. 08.06.2015
 
-- Diversidad. El sistema debe promover y respetar la diversidad de procesos y proyectos educativos institucionales, así como la diversidad cultural, religiosa y social de las familias que han elegido un proyecto diverso y determinado, y que son atendidas por él, en conformidad a la Constitución y las leyes.                                    Ley 20845
-
-En los establecimientos educacionales de propiedad o       Art. 1 N° 1 b) administración del Estado se promoverá la formación             D.O. 08.06.2015 laica, esto es, respetuosa de toda expresión religiosa, y la formación ciudadana de los estudiantes, a fin de fomentar su participación en la sociedad.
-
-- Responsabilidad. Todos los actores del proceso educativo deben cumplir sus deberes y rendir cuenta pública cuando corresponda.
+g) Responsabilidad. Todos los actores del proceso educativo deben cumplir sus deberes y rendir cuenta pública cuando corresponda.
 
 Asimismo, el sistema educativo deberá promover el principio de la responsabilidad de los alumnos, especialmente en relación con el ejercicio de sus derechos y el cumplimiento de sus deberes escolares, cívicos, ciudadanos y sociales. Este principio se hará extensivo a
 
@@ -87,36 +82,48 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 3]]
 
-los padres y apoderados, en relación con la educación de sus hijos o pupilos.                                            Ley 20845
-
-- Participación. Los miembros de la comunidad             Art. 1 N° 1 c) educativa tienen derecho a ser informados y a participar en     D.O. 08.06.2015 el proceso educativo en conformidad a la normativa vigente.
-
-- Flexibilidad. El sistema debe permitir la adecuación del proceso a la diversidad de realidades, asegurando la libertad de enseñanza y la posibilidad de existencia de proyectos educativos institucionales diversos.    Ley 20845
-
-- Transparencia. La información desagregada del           Art. 1 N° 1 d) conjunto del sistema educativo, incluyendo los ingresos y       D.O. 08.06.2015 gastos y los resultados académicos, debe estar a disposición de los ciudadanos, a nivel de establecimiento, comuna, provincia, región y país.
-
-- Integración e inclusión. El sistema propenderá a eliminar todas las formas de discriminación arbitraria que impidan el aprendizaje y la participación de los y las estudiantes, y posibilitará la integración de quienes tengan necesidades educativas especiales.                       Ley 20845
-
-- Asimismo, el sistema propiciará que los                    Art. 1 N° 1 e) establecimientos educativos sean un lugar de encuentro entre    D.O. 08.06.2015 los y las estudiantes de distintas condiciones                  Ley 21164 socioeconómicas, culturales, étnicas, de género, de             Art. ÚNICO N° 1 nacionalidad o de religión.                                     D.O. 27.06.2019
-
-- Sustentabilidad. El sistema incluirá y fomentará el respeto al medio ambiente natural y cultural, la buena relación y el uso racional de los recursos naturales y su sostenibilidad, como expresión concreta de la solidaridad con las actuales y futuras generaciones.                        Ley 20845
-
-- Interculturalidad. El sistema debe reconocer y          Art. 1 N° 1 f) valorar al individuo en su especificidad cultural y de          D.O. 08.06.2015 origen, considerando su lengua, cosmovisión e historia.
-
-- Dignidad del ser humano. El sistema debe orientarse hacia el pleno desarrollo de la personalidad humana y del sentido de su dignidad, y debe fortalecer el respeto, protección y promoción de los derechos humanos y las libertades fundamentales consagradas en la Constitución Política de la República, así como en los tratados internacionales ratificados por Chile y que se encuentren vigentes.                                                       Ley 20845
-
-- ñ) Educación integral. El sistema educativo buscará        Art. 1 N° 1 g) desarrollar puntos de vista alternativos en la evolución de     D.O. 08.06.2015 la realidad y de las formas múltiples del conocer, considerando además, los aspectos físico, social, moral, estético, creativo y espiritual, con atención especial a la integración de todas las ciencias, artes y disciplinas del saber.
+los padres y apoderados, en relación con la educación de sus hijos o pupilos.
+h) Participación. Los miembros de la comunidad educativa tienen derecho a ser informados y a participar en el proceso educativo en conformidad a la normativa vigente.
+Ley 20845
+Art. 1 N° 1 c)
+D.O. 08.06.2015
+i) Flexibilidad. El sistema debe permitir la adecuación del proceso a la diversidad de realidades, asegurando la libertad de enseñanza y la posibilidad de existencia de proyectos educativos institucionales diversos.
+j) Transparencia. La información desagregada del conjunto del sistema educativo, incluyendo los ingresos y gastos y los resultados académicos, debe estar a disposición de los ciudadanos, a nivel de establecimiento, comuna, provincia, región y país.
+Ley 20845
+Art. 1 N° 1 d)
+D.O. 08.06.2015
+k) Integración e inclusión. El sistema propenderá a eliminar todas las formas de discriminación arbitraria que impidan el aprendizaje y la participación de los y las estudiantes, y posibilitará la integración de quienes tengan necesidades educativas especiales.
+Asimismo, el sistema propiciará que los establecimientos educativos sean un lugar de encuentro entre los y las estudiantes de distintas condiciones socioeconómicas, culturales, étnicas, de género, de nacionalidad o de religión.
+Ley 20845
+Art. 1 N° 1 e)
+D.O. 08.06.2015
+Ley 21164
+Art. ÚNICO N° 1
+D.O. 27.06.2019
+l) Sustentabilidad. El sistema incluirá y fomentará el respeto al medio ambiente natural y cultural, la buena relación y el uso racional de los recursos naturales y su sostenibilidad, como expresión concreta de la solidaridad con las actuales y futuras generaciones.
+m) Interculturalidad. El sistema debe reconocer y valorar al individuo en su especificidad cultural y de origen, considerando su lengua, cosmovisión e historia.
+Ley 20845
+Art. 1 N° 1 f)
+D.O. 08.06.2015
+n) Dignidad del ser humano. El sistema debe orientarse hacia el pleno desarrollo de la personalidad humana y del sentido de su dignidad, y debe fortalecer el respeto, protección y promoción de los derechos humanos y las libertades fundamentales consagradas en la Constitución Política de la República, así como en los tratados internacionales ratificados por Chile y que se encuentren vigentes.
+ñ) Educación integral. El sistema educativo buscará desarrollar puntos de vista alternativos en la evolución de la realidad y de las formas múltiples del conocer, considerando además, los aspectos físico, social, moral, estético, creativo y espiritual, con atención especial a la integración de todas las ciencias, artes y disciplinas del saber.
+Ley 20845
+Art. 1 N° 1 g)
+D.O. 08.06.2015
 
 ### Párrafo 2º Derechos y deberes
 Ley Nº 20.370
 D.O. 12.09.2009
 
 #### Art. 4º.
-La educación es un derecho de todas las personas. Corresponde preferentemente a los padres el derecho y el deber de educar a sus hijos; al Estado, el deber de otorgar especial protección al ejercicio de este derecho y, en general, a la comunidad, el deber de contribuir al desarrollo y perfeccionamiento de la educación.                                                      Ley Nº 20.370 Art.
-
-Es deber del Estado propender a asegurar a todas las       4º D.O. 12.09.2009 personas una educación inclusiva de calidad. Asimismo, es deber del Estado promover que se generen las condiciones necesarias para el acceso y permanencia de los estudiantes con necesidades educativas especiales en establecimientos de educación regular o especial, según sea el interés superior del niño o pupilo.                                     Ley 20845
-
-Es deber del Estado promover la educación parvularia       Art. 1 N° 2 a) en todos sus niveles y garantizar el acceso gratuito y el       D.O. 08.06.2015
+La educación es un derecho de todas las personas. Corresponde preferentemente a los padres el derecho y el deber de educar a sus hijos; al Estado, el deber de otorgar especial protección al ejercicio de este derecho y, en general, a la comunidad, el deber de contribuir al desarrollo y perfeccionamiento de la educación.
+Ley Nº 20.370 Art.
+4º D.O. 12.09.2009
+Es deber del Estado propender a asegurar a todas las personas una educación inclusiva de calidad. Asimismo, es deber del Estado promover que se generen las condiciones necesarias para el acceso y permanencia de los estudiantes con necesidades educativas especiales en establecimientos de educación regular o especial, según sea el interés superior del niño o pupilo.
+Ley 20845
+Art. 1 N° 2 a)
+D.O. 08.06.2015
+Es deber del Estado promover la educación parvularia en todos sus niveles y garantizar el acceso gratuito y el
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -125,38 +132,36 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 [[START OF PAGE 4]]
 
 financiamiento fiscal para el primer y segundo nivel de transición, sin que éstos constituyan requisitos para el ingreso a la educación básica.
-
-La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito destinado a asegurar el acceso equitativo, inclusivo y sin discriminaciones arbitrarias a ellas de toda la población, así como generar las condiciones para la permanencia en el mismo de conformidad a la ley.                Ley 20845
-
-El sistema de educación será de naturaleza mixta,          Art. 1 N° 2 b) incluyendo una de propiedad y administración del Estado o       D.O. 08.06.2015 sus órganos, y otra particular, sea ésta subvencionada o pagada, asegurándole a los padres y apoderados la libertad de elegir el establecimiento educativo para sus hijos.
-
-Sin perjuicio de sus demás deberes, es deber del Estado que el sistema integrado por los establecimientos educacionales de su propiedad provea una educación gratuita y de calidad, fundada en un proyecto educativo público, laico, esto es, respetuoso de toda expresión religiosa, y pluralista, que permita el acceso a él a toda la población y que promueva la inclusión social, la equidad, la libertad y la tolerancia.                                                Ley 20845
-
-Es deber del Estado promover políticas educacionales       Art. 1 N° 2 c) que reconozcan y fortalezcan las culturas originarias.          D.O. 08.06.2015
-
+La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito destinado a asegurar el acceso equitativo, inclusivo y sin discriminaciones arbitrarias a ellas de toda la población, así como generar las condiciones para la permanencia en el mismo de conformidad a la ley.
+El sistema de educación será de naturaleza mixta, incluyendo una de propiedad y administración del Estado o sus órganos, y otra particular, sea ésta subvencionada o pagada, asegurándole a los padres y apoderados la libertad de elegir el establecimiento educativo para sus hijos.
+Ley 20845
+Art. 1 N° 2 b)
+D.O. 08.06.2015
+Sin perjuicio de sus demás deberes, es deber del Estado que el sistema integrado por los establecimientos educacionales de su propiedad provea una educación gratuita y de calidad, fundada en un proyecto educativo público, laico, esto es, respetuoso de toda expresión religiosa, y pluralista, que permita el acceso a él a toda la población y que promueva la inclusión social, la equidad, la libertad y la tolerancia.
+Es deber del Estado promover políticas educacionales que reconozcan y fortalezcan las culturas originarias.
+Ley 20845
+Art. 1 N° 2 c)
+D.O. 08.06.2015
 Es deber del Estado resguardar los derechos de los padres y alumnos, cualquiera sea la dependencia del establecimiento que elijan.
-
 Corresponde, asimismo, al Estado, propender a asegurar la calidad de la educación, estableciendo las condiciones necesarias para ello y verificando permanentemente su cumplimiento; realizar supervisión, facilitar apoyo pedagógico a los establecimientos y promover el desarrollo profesional docente.
-
 Es deber del Estado mantener y proveer información desagregada sobre la calidad, cobertura y equidad del sistema y las instituciones educativas.
-
 Es deber del Estado velar por la igualdad de oportunidades y la inclusión educativa, promoviendo especialmente que se reduzcan las desigualdades derivadas de circunstancias económicas, sociales, étnicas, de género o territoriales, entre otras.
 
 #### Art. 5º.
-Corresponderá al Estado, asimismo, fomentar la probidad, el desarrollo de una educación inclusiva en todos los niveles y modalidades y promover el estudio y conocimiento de los derechos esenciales que emanan de la naturaleza humana; fomentar una cultura de la paz y de la no discriminación arbitraria; fomentar el desarrollo de una cultura cívica y laica, esto es, respetuosa de toda expresión religiosa; y que promueva la participación activa, ética y solidaria de las personas en la sociedad, con fundamento en los tratados internacionales sobre derechos humanos ratificados por Chile y que se encuentran vigentes; estimular la investigación científica, tecnológica y la innovación, la creación artística, la práctica del deporte, la protección y conservación del patrimonio cultural y medio ambiental, y la diversidad cultural de la Nación.                                          Ley Nº 20.370 Art.
-
+Corresponderá al Estado, asimismo, fomentar la probidad, el desarrollo de una educación inclusiva en todos los niveles y modalidades y promover el estudio y conocimiento de los derechos esenciales que emanan de la naturaleza humana; fomentar una cultura de la paz y de la no discriminación arbitraria; fomentar el desarrollo de una cultura cívica y laica, esto es, respetuosa de toda expresión religiosa; y que promueva la participación activa, ética y solidaria de las personas en la sociedad, con fundamento en los tratados internacionales sobre derechos humanos ratificados por Chile y que se encuentran vigentes; estimular la investigación científica, tecnológica y la innovación, la creación artística, la práctica del deporte, la protección y conservación del patrimonio cultural y medio ambiental, y la diversidad cultural de la Nación.
+Ley Nº 20.370 Art.
 5º D.O. 12.09.2009
-
 Ley 20845
-
 Art. 1 N° 3 a)
-
-#### Art. 6º.
-Es deber del Estado propender a asegurar una      D.O. 08.06.2015 educación de calidad y procurar que ésta sea impartida a        Ley 20845 todos, tanto en el ámbito público como en el privado.           Art. 1 N° 3 b)
-
 D.O. 08.06.2015
-
-Corresponderá al Ministerio de Educación, al Consejo       Ley Nº 20.370 Art. Nacional de Educación, a la Agencia de Calidad de la            6º D.O. 12.09.2009 Educación y a la Superintendencia de Educación, en el ámbito de sus competencias, la administración del Sistema
+#### Art. 6º.
+Es deber del Estado propender a asegurar una educación de calidad y procurar que ésta sea impartida a todos, tanto en el ámbito público como en el privado.
+Ley 20845
+Art. 1 N° 3 b)
+D.O. 08.06.2015
+Corresponderá al Ministerio de Educación, al Consejo Nacional de Educación, a la Agencia de Calidad de la Educación y a la Superintendencia de Educación, en el ámbito de sus competencias, la administración del Sistema
+Ley Nº 20.370 Art.
+6º D.O. 12.09.2009
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -189,16 +194,17 @@ Los padres tienen el derecho de escoger el establecimiento de enseñanza para su
 La libertad de enseñanza incluye el derecho de abrir, organizar y mantener establecimientos educacionales.
 
 #### Art. 9º.
-La comunidad educativa es una agrupación de personas que inspiradas en un propósito común integran una institución educativa. Ese objetivo común es contribuir a la formación y el logro de aprendizajes de todos los alumnos que son miembros de ésta, propendiendo a asegurar su pleno desarrollo espiritual, ético, moral, afectivo, intelectual, artístico y físico. El propósito compartido de la comunidad se expresa en la adhesión al proyecto educativo del establecimiento y a sus reglas de convivencia establecidas en el reglamento interno. Este reglamento debe permitir el ejercicio efectivo de los derechos y deberes señalados en esta ley.                                          Ley Nº 20.370 Art.
-
-La comunidad educativa está integrada por alumnos,         9º D.O. 12.09.2009 alumnas, padres, madres y apoderados, profesionales de la educación, asistentes de la educación, equipos docentes directivos y sostenedores educacionales.
+La comunidad educativa es una agrupación de personas que inspiradas en un propósito común integran una institución educativa. Ese objetivo común es contribuir a la formación y el logro de aprendizajes de todos los alumnos que son miembros de ésta, propendiendo a asegurar su pleno desarrollo espiritual, ético, moral, afectivo, intelectual, artístico y físico. El propósito compartido de la comunidad se expresa en la adhesión al proyecto educativo del establecimiento y a sus reglas de convivencia establecidas en el reglamento interno. Este reglamento debe permitir el ejercicio efectivo de los derechos y deberes señalados en esta ley.
+La comunidad educativa está integrada por alumnos, alumnas, padres, madres y apoderados, profesionales de la educación, asistentes de la educación, equipos docentes directivos y sostenedores educacionales.
+Ley Nº 20.370 Art.
+9º D.O. 12.09.2009
 
 #### Art. 10.
 Sin perjuicio de los derechos y deberes que establecen las leyes y reglamentos, los integrantes de la comunidad educativa gozarán de los siguientes derechos y estarán sujetos a los siguientes deberes:                       Ley Nº 20.370 Art.
 
 10 D.O. 12.09.2009
 
-a) Los alumnos y alumnas tienen derecho a recibir una educación que les ofrezca oportunidades para su formación y desarrollo integral; a recibir una atención y educación adecuada, oportuna e inclusiva, en el caso de tener necesidades educativas especiales; a no ser discriminados arbitrariamente; a estudiar en un ambiente tolerante y de respeto mutuo, a expresar su opinión y a que se respete su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes y de maltratos psicológicos. Tienen derecho, además, a que se respeten su libertad personal y de conciencia, sus convicciones religiosas e ideológicas y culturales. Asimismo, tienen derecho a que se respeten las tradiciones y costumbres de los lugares en los que residen, conforme al proyecto educativo institucional y al reglamento interno del establecimiento. De igual modo, ser evaluados y promovidos de acuerdo a un sistema objetivo y transparente, de acuerdo al reglamento de cada tienen derecho a ser informados de las pautas evaluativas; a establecimiento; a participar en la vida cultural, deportiva y recreativa del establecimiento, y a asociarse entre ellos.    Ley 20845 Son deberes de los alumnos y alumnas brindar un trato        Art. 1 N° 4 digno, respetuoso y no discriminatorio a todos los              a) y b) integrantes de la comunidad educativa; asistir a clases;        D.O. 08.06.2015 estudiar y esforzarse por alcanzar el máximo de desarrollo de sus capacidades; colaborar y cooperar en mejorar la convivencia escolar, cuidar la infraestructura educacional y respetar el proyecto educativo y el reglamento interno del establecimiento. b) Los padres, madres y apoderados tienen derecho a asociarse libremente, con la finalidad de lograr una mejor educación para sus hijos, a ser informados por el sostenedor y los directivos y docentes a cargo de la educación de sus hijos o pupilos respecto de los rendimientos académicos, de la convivencia escolar y del proceso educativo de éstos, así como del funcionamiento del establecimiento, y a ser escuchados y a participar del proceso educativo en los ámbitos que les corresponda, aportando al desarrollo del proyecto educativo en conformidad a la normativa interna del establecimiento. El ejercicio de estos derechos se realizará, entre otras instancias, a través del Centro de Padres y Apoderados.         Ley 20845 Por su parte, son deberes de los padres, madres y            Art. 1 N° 4 apoderados educar a sus hijos, informarse, respetar y           c), d), e) y f) contribuir a dar cumplimiento al proyecto educativo, a las      D.O. 08.06.2015 normas de convivencia y a las de funcionamiento del establecimiento que elijan para éstos; apoyar sus procesos educativos; cumplir con los compromisos asumidos con el establecimiento educacional; respetar su normativa interna y brindar un trato respetuoso a los integrantes de la comunidad educativa.                                            Ley 20845 c) Los profesionales de la educación tienen derecho a           Art. 1 N° 4 g) trabajar en un ambiente tolerante y de respeto mutuo; del       D.O. 08.06.2015 mismo modo, tienen derecho a que se respete su integridad física, psicológica y moral, no pudiendo ser objeto de tratos vejatorios, degradantes o maltratos psicológicos por parte de los demás integrantes de la comunidad educativa. Además, tienen derecho a proponer las iniciativas que estimaren útiles para el progreso del establecimiento, en los términos previstos por la normativa interna, procurando, además, disponer de los espacios adecuados para realizar en mejor forma su trabajo. Por su parte, son deberes de los profesionales de la educación ejercer la función docente en forma idónea y responsable; orientar vocacionalmente a sus alumnos cuando corresponda; actualizar sus conocimientos y evaluarse periódicamente; investigar, exponer y enseñar los contenidos curriculares correspondientes a cada nivel educativo establecidos por las bases curriculares y los planes y programas de estudio; respetar tanto las normas del establecimiento en que se desempeñan como los derechos de los alumnos y alumnas, y tener un trato respetuoso y sin discriminación arbitraria con los estudiantes y demás miembros de la comunidad educativa. d) Los asistentes de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo y a que se respete su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes; a recibir un trato respetuoso de parte de los demás integrantes de la
+a) Los alumnos y alumnas tienen derecho a recibir una educación que les ofrezca oportunidades para su formación y desarrollo integral; a recibir una atención y educación adecuada, oportuna e inclusiva, en el caso de tener necesidades educativas especiales; a no ser discriminados arbitrariamente; a estudiar en un ambiente tolerante y de respeto mutuo, a expresar su opinión y a que se respete su
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -206,6 +212,24 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 6]]
 
+integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes y de maltratos psicológicos. Tienen derecho, además, a que se respeten su libertad personal y de conciencia, sus convicciones religiosas e ideológicas y culturales. Asimismo, tienen derecho a que se respeten las tradiciones y costumbres de los lugares en los que residen, conforme al proyecto educativo institucional y al reglamento interno del establecimiento. De igual modo, tienen derecho a ser informados de las pautas evaluativas; a ser evaluados y promovidos de acuerdo a un sistema objetivo y transparente, de acuerdo al reglamento de cada establecimiento; a participar en la vida cultural, deportiva y recreativa del establecimiento, y a asociarse entre ellos.
+Ley 20845
+Art. 1 N° 4
+ a) y b)
+D.O. 08.06.2015
+Son deberes de los alumnos y alumnas brindar un trato digno, respetuoso y no discriminatorio a todos los integrantes de la comunidad educativa; asistir a clases; estudiar y esforzarse por alcanzar el máximo de desarrollo de sus capacidades; colaborar y cooperar en mejorar la convivencia escolar, cuidar la infraestructura educacional y respetar el proyecto educativo y el reglamento interno del establecimiento.
+b) Los padres, madres y apoderados tienen derecho a asociarse libremente, con la finalidad de lograr una mejor educación para sus hijos, a ser informados por el sostenedor y los directivos y docentes a cargo de la educación de sus hijos o pupilos respecto de los rendimientos académicos, de la convivencia escolar y del proceso educativo de éstos, así como del funcionamiento del establecimiento, y a ser escuchados y a participar del proceso educativo en los ámbitos que les corresponda, aportando al desarrollo del proyecto educativo en conformidad a la normativa interna del establecimiento. El ejercicio de estos derechos se realizará, entre otras instancias, a través del Centro de Padres y Apoderados.
+Ley 20845
+Art. 1 N° 4
+c), d), e) y f)
+D.O. 08.06.2015
+Por su parte, son deberes de los padres, madres y apoderados educar a sus hijos, informarse, respetar y contribuir a dar cumplimiento al proyecto educativo, a las normas de convivencia y a las de funcionamiento del establecimiento que elijan para éstos; apoyar sus procesos educativos; cumplir con los compromisos asumidos con el establecimiento educacional; respetar su normativa interna y brindar un trato respetuoso a los integrantes de la comunidad educativa.
+c) Los profesionales de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo; del mismo modo, tienen derecho a que se respete su integridad física, psicológica y moral, no pudiendo ser objeto de tratos vejatorios, degradantes o maltratos psicológicos por parte de los demás integrantes de la comunidad educativa. Además, tienen derecho a proponer las iniciativas que estimaren útiles para el progreso del establecimiento, en los términos previstos por la normativa interna, procurando, además, disponer de los espacios adecuados para realizar en mejor forma su trabajo.
+Ley 20845
+Art. 1 N° 4 g)
+D.O. 08.06.2015
+Por su parte, son deberes de los profesionales de la educación ejercer la función docente en forma idónea y responsable; orientar vocacionalmente a sus alumnos cuando corresponda; actualizar sus conocimientos y evaluarse periódicamente; investigar, exponer y enseñar los contenidos curriculares correspondientes a cada nivel educativo establecidos por las bases curriculares y los planes y programas de estudio; respetar tanto las normas del establecimiento en que se desempeñan como los derechos de los alumnos y alumnas, y tener un trato respetuoso y sin discriminación arbitraria con los estudiantes y demás miembros de la comunidad educativa.
+d) Los asistentes de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo y a que se respete su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes; a recibir un trato respetuoso de parte de los demás integrantes de la
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 6]]
@@ -214,20 +238,25 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 comunidad escolar; a participar de las instancias colegiadas de ésta, y a proponer las iniciativas que estimaren útiles para el progreso del establecimiento, en los términos previstos por la normativa interna.
 
-Son deberes de los asistentes de la educación ejercer su función en forma idónea y responsable; respetar las normas del establecimiento en que se desempeñan, y brindar un trato respetuoso a los demás miembros de la comunidad
-
-educativa. e) Los equipos docentes directivos de los establecimientos educacionales tienen derecho a conducir la realización del proyecto educativo del establecimiento que dirigen. Son deberes de los equipos docentes directivos liderar los establecimientos a su cargo, sobre la base de sus responsabilidades, y propender a elevar la calidad de éstos; desarrollarse profesionalmente; promover en los docentes el desarrollo profesional necesario para el cumplimiento de sus metas educativas, y cumplir y respetar todas las normas del establecimiento que conducen. Para el mejor cumplimiento de estos objetivos los miembros de estos equipos de los establecimientos subvencionados o que reciben aportes del Estado deberán realizar supervisión pedagógica en el aula. Los derechos y deberes anteriores se ejercerán en el marco de la ley y en virtud de las funciones y responsabilidades delegadas por el sostenedor, según corresponda.
+Son deberes de los asistentes de la educación ejercer su función en forma idónea y responsable; respetar las normas del establecimiento en que se desempeñan, y brindar un trato respetuoso a los demás miembros de la comunidad educativa.
+e) Los equipos docentes directivos de los establecimientos educacionales tienen derecho a conducir la realización del proyecto educativo del establecimiento que dirigen.
+Son deberes de los equipos docentes directivos liderar los establecimientos a su cargo, sobre la base de sus responsabilidades, y propender a elevar la calidad de éstos; desarrollarse profesionalmente; promover en los docentes el desarrollo profesional necesario para el cumplimiento de sus metas educativas, y cumplir y respetar todas las normas del establecimiento que conducen.
+Para el mejor cumplimiento de estos objetivos los miembros de estos equipos de los establecimientos subvencionados o que reciben aportes del Estado deberán realizar supervisión pedagógica en el aula.
+Los derechos y deberes anteriores se ejercerán en el marco de la ley y en virtud de las funciones y responsabilidades delegadas por el sostenedor, según corresponda.
 
 f) Los sostenedores de establecimientos educacionales tendrán derecho a establecer y ejercer un proyecto educativo, con la participación de la comunidad educativa y de acuerdo a la autonomía que le garantice esta ley. También tendrán derecho a establecer planes y programas propios en conformidad a la ley, y a solicitar, cuando corresponda, financiamiento del Estado de conformidad a la legislación vigente.
 
 Son deberes de los sostenedores cumplir con los requisitos para mantener el reconocimiento oficial del establecimiento educacional que representan; garantizar la continuidad del servicio educacional durante el año escolar; rendir cuenta pública de los resultados académicos de sus alumnos y cuando reciban financiamiento estatal, rendir cuenta pública del uso de los recursos y del estado financiero de sus establecimientos a la Superintendencia. Esa información será pública. Además, están obligados a entregar a los padres y apoderados la información que determine la ley y a someter a sus establecimientos a los procesos de aseguramiento de calidad en conformidad a la ley.
 
 #### Art. 11.
-El embarazo y la maternidad en ningún caso constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel, debiendo estos últimos otorgar las facilidades académicas y administrativas que permitan el cumplimiento de ambos objetivos.                                                      Ley Nº 20.370 Art.
-
-En los establecimientos educacionales reconocidos          11 D.O. 12.09.2009 oficialmente por el Estado, el cambio del estado civil de los padres y apoderados, no será motivo de impedimento para la continuidad del alumno o alumna dentro del establecimiento.                                                Ley 20845
-
-Del mismo modo, durante la vigencia del respectivo año     Art. 1 N° 5 a) escolar o académico, no se podrá cancelar la matrícula,         D.O. 08.06.2015 ni suspender o expulsar alumnos por causales que se deriven del no pago de obligaciones contraídas por los padres o del rendimiento de los alumnos.
+El embarazo y la maternidad en ningún caso constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel, debiendo estos últimos otorgar las facilidades académicas y administrativas que permitan el cumplimiento de ambos objetivos.
+Ley Nº 20.370 Art.
+11 D.O. 12.09.2009
+En los establecimientos educacionales reconocidos oficialmente por el Estado, el cambio del estado civil de los padres y apoderados, no será motivo de impedimento para la continuidad del alumno o alumna dentro del establecimiento.
+Del mismo modo, durante la vigencia del respectivo año escolar o académico, no se podrá cancelar la matrícula, ni suspender o expulsar alumnos por causales que se deriven del no pago de obligaciones contraídas por los padres o del rendimiento de los alumnos.
+Ley 20845
+Art. 1 N° 5 a)
+D.O. 08.06.2015
 
 El no pago de los compromisos contraídos por el alumno o por el padre o apoderado no podrá servir de fundamento para la aplicación de ningún tipo de sanción a los alumnos durante el año escolar y nunca podrá servir de fundamento para la retención de su documentación
 
@@ -239,24 +268,31 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 académica, sin perjuicio del ejercicio de otros derechos por parte del sostenedor o de la institución educacional, en particular, los referidos al cobro de arancel o matrícula, o ambos, que el padre o apoderado hubiere comprometido.
 
-En los establecimientos reconocidos oficialmente por el Estado, el rendimiento escolar del alumno, no será obstáculo para la renovación de su matrícula.                   Ley 20845
-
-En ningún caso se podrá condicionar la                     Art. 1 N° 5 incorporación, la asistencia y la permanencia de los y las      b) y c) estudiantes a que consuman algún tipo de medicamento para       D.O. 08.06.2015 tratar trastornos de conducta, tales como el trastorno por déficit atencional e hiperactividad. El establecimiento deberá otorgar todos los apoyos necesarios para asegurar la plena inclusión de los y las estudiantes.                       Ley 21164
-
-Los establecimientos propiciarán iniciativas de apoyo      Art. ÚNICO N° 2 biopsicosociales y de atención diferenciada, tanto en las       D.O. 27.06.2019 actividades curriculares como extracurriculares, facilitando ambientes de aprendizaje que permitan atender las necesidades educativas especiales y, de este modo, promover el desarrollo de habilidades emocionales y sociales. Estas habilidades pueden ser introducidas, entre otras disciplinas o metodologías, por medio de prácticas deportivas o contemplativas, tales como meditación, yoga, mindfulness, taichi, danza o expresiones artísticas, destinadas tanto al favorecimiento del rendimiento académico, como al bienestar e integración de los y las estudiantes, en consideración a las diversas capacidades que posean y a la etapa del aprendizaje en que se encuentren.
-
+En los establecimientos reconocidos oficialmente por el Estado, el rendimiento escolar del alumno, no será obstáculo para la renovación de su matrícula.
+En ningún caso se podrá condicionar la incorporación, la asistencia y la permanencia de los y las estudiantes a que consuman algún tipo de medicamento para tratar trastornos de conducta, tales como el trastorno por déficit atencional e hiperactividad. El establecimiento deberá otorgar todos los apoyos necesarios para asegurar la plena inclusión de los y las estudiantes.
+Ley 20845
+Art. 1 N° 5
+b) y c)
+D.O. 08.06.2015
+Los establecimientos propiciarán iniciativas de apoyo biopsicosociales y de atención diferenciada, tanto en las actividades curriculares como extracurriculares, facilitando ambientes de aprendizaje que permitan atender las necesidades educativas especiales y, de este modo, promover el desarrollo de habilidades emocionales y sociales. Estas habilidades pueden ser introducidas, entre otras disciplinas o metodologías, por medio de prácticas deportivas o contemplativas, tales como meditación, yoga, mindfulness, taichi, danza o expresiones artísticas, destinadas tanto al favorecimiento del rendimiento académico, como al bienestar e integración de los y las estudiantes, en consideración a las diversas capacidades que posean y a la etapa del aprendizaje en que se encuentren.
 En aquellos casos en que exista prescripción médica de un especialista y con estricto cumplimiento de los protocolos del Ministerio de Salud, el establecimiento deberá otorgar todos los apoyos necesarios para asegurar la plena inclusión de los y las estudiantes.
-
-Sin embargo, en los establecimientos reconocidos oficialmente por el Estado, los alumnos tendrán derecho a repetir curso en un mismo establecimiento a lo menos en una oportunidad en la educación básica y en una oportunidad en la educación media, sin que por esa causal les sea cancelada o no renovada su matrícula.                           Ley 20845
-
-En el caso que en la misma comuna o localidad no exista    Art. 1 N° 5 d) otro establecimiento de igual nivel o modalidad, lo             D.O. 08.06.2015 señalado en el inciso anterior no podrá afectar de manera alguna el derecho a la educación.
+Ley 21164
+Art. ÚNICO N° 2
+D.O. 27.06.2019
+Sin embargo, en los establecimientos reconocidos oficialmente por el Estado, los alumnos tendrán derecho a repetir curso en un mismo establecimiento a lo menos en una oportunidad en la educación básica y en una oportunidad en la educación media, sin que por esa causal les sea cancelada o no renovada su matrícula.
+En el caso que en la misma comuna o localidad no exista otro establecimiento de igual nivel o modalidad, lo señalado en el inciso anterior no podrá afectar de manera alguna el derecho a la educación.
+Ley 20845
+Art. 1 N° 5 d)
+D.O. 08.06.2015
 
 Ni el Estado, ni los establecimientos educacionales podrán discriminar arbitrariamente en el trato que deben dar a los estudiantes y demás miembros de la comunidad educativa.
 
 #### Art. 12.
-En los procesos de admisión de los establecimientos subvencionados o que reciban aportes regulares del Estado, en ningún caso se podrá considerar el rendimiento escolar pasado o potencial del postulante. Asimismo, en dichos procesos no será requisito la presentación de antecedentes socioeconómicos de la familia del postulante, tales como nivel de escolaridad, estado civil y situación patrimonial de los padres, madres o apoderados.                                                     Ley 20845
-
-Los procesos de admisión de estudiantes a los              Art. 1 N° 6 establecimientos educacionales se realizarán por medio de       D.O. 08.06.2015 un sistema que garantice la transparencia, equidad e igualdad de oportunidades, y que vele por el derecho preferente de los padres, madres o apoderados de elegir el establecimiento educacional para sus hijos.
+En los procesos de admisión de los establecimientos subvencionados o que reciban aportes regulares del Estado, en ningún caso se podrá considerar el rendimiento escolar pasado o potencial del postulante. Asimismo, en dichos procesos no será requisito la presentación de antecedentes socioeconómicos de la familia del postulante, tales como nivel de escolaridad, estado civil y situación patrimonial de los padres, madres o apoderados.
+Los procesos de admisión de estudiantes a los establecimientos educacionales se realizarán por medio de un sistema que garantice la transparencia, equidad e igualdad de oportunidades, y que vele por el derecho preferente de los padres, madres o apoderados de elegir el establecimiento educacional para sus hijos.
+Ley 20845
+Art. 1 N° 6
+D.O. 08.06.2015
 
 Lo señalado en los incisos anteriores es sin perjuicio de lo dispuesto en el decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
@@ -267,32 +303,24 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 [[START OF PAGE 9]]
 
 #### Art. 13.
-Sin perjuicio de lo señalado en el artículo anterior, los procesos de admisión de alumnos y alumnas deberán ser objetivos y transparentes, publicados en medios electrónicos, en folletos o murales públicos. En ningún caso se podrán implementar procesos que impliquen discriminaciones arbitrarias, debiendo asegurarse el respeto a la dignidad de los alumnos, alumnas y sus familias, de conformidad con las garantías reconocidas en la Constitución y en los tratados internacionales sobre derechos humanos ratificados por Chile, en especial aquellos que versen sobre derechos de los niños y que se encuentren vigentes.                                                       Ley 20845
-
+Sin perjuicio de lo señalado en el artículo anterior, los procesos de admisión de alumnos y alumnas deberán ser objetivos y transparentes, publicados en medios electrónicos, en folletos o murales públicos. En ningún caso se podrán implementar procesos que impliquen discriminaciones arbitrarias, debiendo asegurarse el respeto a la dignidad de los alumnos, alumnas y sus familias, de conformidad con las garantías reconocidas en la Constitución y en los tratados internacionales sobre derechos humanos ratificados por Chile, en especial aquellos que versen sobre derechos de los niños y que se encuentren vigentes.
+Ley 20845
 Art. 1 N° 7 a)
-
-Al momento de la convocatoria, el sostenedor del           D.O. 08.06.2015 establecimiento deberá informar, en los casos que corresponda y de conformidad a la ley:                          Ley 20845
-
+D.O. 08.06.2015
+Al momento de la convocatoria, el sostenedor del establecimiento deberá informar, en los casos que corresponda y de conformidad a la ley:
+Ley 20845
 Art. 1 N° 7 b)
-
-- Número de vacantes ofrecidas en cada nivel;                  D.O. 08.06.2015
-
-- Criterios generales de admisión;
-
-- Plazo de postulación y fecha de publicación de los resultados;
-
-- Requisitos de los postulantes, antecedentes y documentación a presentar;
-
-- Tipos de pruebas a las que serán sometidos los postulantes;
-
-- Monto y condiciones de cobro por participar en el proceso, y
-
-- Proyecto educativo del establecimiento.
-
-Los directamente afectados por una acción u omisión que importe discriminación arbitraria en el ámbito educacional podrán interponer la acción de no discriminación arbitraria establecida en la ley Nº20.609, sin perjuicio de lo establecido en la Convención Relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza.                                                      Ley 20845
-
+D.O. 08.06.2015
+a) Número de vacantes ofrecidas en cada nivel;
+b) Criterios generales de admisión;
+c) Plazo de postulación y fecha de publicación de los resultados;
+d) Requisitos de los postulantes, antecedentes y documentación a presentar;
+e) Tipos de pruebas a las que serán sometidos los postulantes;
+f) Monto y condiciones de cobro por participar en el proceso, y
+g) Proyecto educativo del establecimiento.
+Los directamente afectados por una acción u omisión que importe discriminación arbitraria en el ámbito educacional podrán interponer la acción de no discriminación arbitraria establecida en la ley Nº20.609, sin perjuicio de lo establecido en la Convención Relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza.
+Ley 20845
 Art. 1 N° 7 c)
-
 D.O. 08.06.2015
 
 #### Art. 14.
@@ -301,11 +329,14 @@ Realizado un proceso de admisión, conforme a los artículos precedentes, el est
 14 D.O. 12.09.2009
 
 #### Art. 15.
-Los establecimientos educacionales promoverán la participación de todos los miembros de la comunidad educativa, en especial a través de la formación de Centros de Alumnos, Centros de Padres y Apoderados, Consejos de Profesores y Consejos Escolares, con el objeto de contribuir al proceso de enseñanza del establecimiento.                    Ley Nº 20.370 Art.
-
-En cada establecimiento subvencionado o que recibe         15 D.O. 12.09.2009 aportes del Estado deberá existir un Consejo Escolar. Dicha instancia tendrá como objetivo estimular y canalizar la participación de la comunidad educativa en el proyecto educativo, promover la buena convivencia escolar y prevenir toda forma de violencia física o psicológica, agresiones u hostigamientos, conforme a lo establecido en el Párrafo 3º de este Título, y en las demás áreas que estén dentro de la esfera de sus competencias.                                  Ley 20536
-
-Aquellos establecimientos que no se encuentren             Art. UNICO N° 1 a) legalmente obligados a constituir dicho organismo deberán       D.O. 17.09.2011 crear un Comité de Buena Convivencia Escolar u otra entidad de similares características, que cumpla las funciones de promoción y prevención señaladas en el inciso anterior. Todos los establecimientos educacionales deberán contar con un encargado de convivencia escolar, que será responsable
+Los establecimientos educacionales promoverán la participación de todos los miembros de la comunidad educativa, en especial a través de la formación de Centros de Alumnos, Centros de Padres y Apoderados, Consejos de Profesores y Consejos Escolares, con el objeto de contribuir al proceso de enseñanza del establecimiento.
+Ley Nº 20.370 Art.
+15 D.O. 12.09.2009
+En cada establecimiento subvencionado o que recibe aportes del Estado deberá existir un Consejo Escolar. Dicha instancia tendrá como objetivo estimular y canalizar la participación de la comunidad educativa en el proyecto educativo, promover la buena convivencia escolar y prevenir toda forma de violencia física o psicológica, agresiones u hostigamientos, conforme a lo establecido en el Párrafo 3º de este Título, y en las demás áreas que estén dentro de la esfera de sus competencias.
+Ley 20536
+Art. UNICO N° 1 a)
+D.O. 17.09.2011
+Aquellos establecimientos que no se encuentren legalmente obligados a constituir dicho organismo deberán crear un Comité de Buena Convivencia Escolar u otra entidad de similares características, que cumpla las funciones de promoción y prevención señaladas en el inciso anterior. Todos los establecimientos educacionales deberán contar con un encargado de convivencia escolar, que será responsable
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -313,16 +344,16 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 10]]
 
-de la implementacíón de las medidas que determinen el Consejo Escolar o el Comité de Buena Convivencia Escolar, según corresponda, y que deberán constar en un plan de gestión.                                                        Ley 20536
-
+de la implementación de las medidas que determinen el Consejo Escolar o el Comité de Buena Convivencia Escolar, según corresponda, y que deberán constar en un plan de gestión.
+Ley 20536
 Art. UNICO N° 1 b)
-
 D.O. 17.09.2011
 
 #### Art. 16.
-Las infracciones a lo dispuesto en los artículos 11, 12, 13, 14 y 15 de esta ley serán sancionadas con multas de hasta 50 unidades tributarias mensuales, las que podrán duplicarse en caso de reincidencia.                                                   Ley Nº 20.370 Art.
-
-Las sanciones que se impongan deberán fundarse en el       16 D.O. 12.09.2009 procedimiento establecido en el artículo 50 de esta ley.
+Las infracciones a lo dispuesto en los artículos 11, 12, 13, 14 y 15 de esta ley serán sancionadas con multas de hasta 50 unidades tributarias mensuales, las que podrán duplicarse en caso de reincidencia.
+Ley Nº 20.370 Art.
+16 D.O. 12.09.2009
+Las sanciones que se impongan deberán fundarse en el procedimiento establecido en el artículo 50 de esta ley.
 
 ### Párrafo 3º Convivencia Escolar
 Ley 20536
@@ -351,11 +382,11 @@ Art. UNICO N° 2
 D.O. 17.09.2011
 
 #### Artículo 16 D.
-Revestirá especial gravedad cualquier tipo de violencia física o psicológica, cometida por cualquier medio en contra de un estudiante integrante de la comunidad educativa, realizada por quien detente una posición de autoridad, sea director, profesor, asistente de la educación u otro, así como también la ejercida por parte de un adulto de la comunidad educativa en contra de un estudiante.                                                     Ley 20536
-
+Revestirá especial gravedad cualquier tipo de violencia física o psicológica, cometida por cualquier medio en contra de un estudiante integrante de la comunidad educativa, realizada por quien detente una posición de autoridad, sea director, profesor, asistente de la educación u otro, así como también la ejercida por parte de un adulto de la comunidad educativa en contra de un estudiante.
+Ley 20536
 Art. UNICO N° 2
-
-Los padres, madres, apoderados, profesionales y            D.O. 17.09.2011 asistentes de la educación, así como los equipos docentes y directivos de los establecimientos educacionales, deberán informar las situaciones de violencia física o psicológica, agresión u hostigamiento que afecten a un estudiante miembro de la comunidad educativa de las cuales tomen conocimiento, todo ello conforme al reglamento interno del establecimiento.
+D.O. 17.09.2011
+Los padres, madres, apoderados, profesionales y asistentes de la educación, así como los equipos docentes y directivos de los establecimientos educacionales, deberán informar las situaciones de violencia física o psicológica, agresión u hostigamiento que afecten a un estudiante miembro de la comunidad educativa de las cuales tomen conocimiento, todo ello conforme al reglamento interno del establecimiento.
 
 Si las autoridades del establecimiento no adoptaren las medidas correctivas, pedagógicas o disciplinarias que su
 
@@ -394,10 +425,10 @@ La educación básica es el nivel educacional que se orienta hacia la formación
 19 D.O. 12.09.2009
 
 #### Art. 20.
-La educación media es el nivel educacional que atiende a la población escolar que haya finalizado el nivel de educación básica y tiene por finalidad procurar que cada alumno expanda y profundice su formación general y desarrolle los conocimientos, habilidades y actitudes que le permitan ejercer una ciudadanía activa e integrarse a la sociedad, los cuales son definidos por las bases curriculares que se determinen en conformidad a esta ley. Este nivel educativo ofrece una formación general común y formaciones diferenciadas. Estas son la humanístico-científica, técnico-profesional y artística, u otras que se podrán determinar a través de las referidas bases curriculares.                                             Ley Nº 20.310 Art.
-
-La formación diferenciada humanístico-cientifica           20 D.O. 12.09.2009 está orientada a la profundización de áreas de la formación general de interés de los estudiantes. La formación diferenciada técnico-profesional está orientada a la formación en especialidades definidas en términos de perfiles de egreso en diferentes sectores económicos de interés de los alumnos. La formación diferenciada artística está orientada a la formación especializada definida en términos de perfiles de egreso en las diferentes áreas artísticas de interés de los alumnos.
-
+La educación media es el nivel educacional que atiende a la población escolar que haya finalizado el nivel de educación básica y tiene por finalidad procurar que cada alumno expanda y profundice su formación general y desarrolle los conocimientos, habilidades y actitudes que le permitan ejercer una ciudadanía activa e integrarse a la sociedad, los cuales son definidos por las bases curriculares que se determinen en conformidad a esta ley. Este nivel educativo ofrece una formación general común y formaciones diferenciadas. Estas son la humanístico-científica, técnico-profesional y artística, u otras que se podrán determinar a través de las referidas bases curriculares.
+Ley Nº 20.310 Art.
+20 D.O. 12.09.2009
+La formación diferenciada humanístico-científica está orientada a la profundización de áreas de la formación general de interés de los estudiantes. La formación diferenciada técnico-profesional está orientada a la formación en especialidades definidas en términos de perfiles de egreso en diferentes sectores económicos de interés de los alumnos. La formación diferenciada artística está orientada a la formación especializada definida en términos de perfiles de egreso en las diferentes áreas artísticas de interés de los alumnos.
 Dicha enseñanza habilita, por otra parte, al alumno, para continuar su proceso educativo formal a través de la educación superior o incorporarse a la vida del trabajo.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
@@ -407,23 +438,26 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 [[START OF PAGE 12]]
 
 #### Art. 21.
-La educación superior es aquella que tiene por objete la preparación y formación del estudiante en un nivel avanzado en las ciencias, las artes, las humanidades y las tecnologías, y en el campo profesional y técnico.           Ley Nº 20.370 Art.
-
-El ingreso de estudiantes a la educación superior          21 D.O. 12.09.2009 tiene como requisito mínimo la licencia de educación media.
+La educación superior es aquella que tiene por objete la preparación y formación del estudiante en un nivel avanzado en las ciencias, las artes, las humanidades y las tecnologías, y en el campo profesional y técnico.
+Ley Nº 20.370 Art.
+21 D.O. 12.09.2009
+El ingreso de estudiantes a la educación superior tiene como requisito mínimo la licencia de educación media.
 
 La enseñanza de educación superior comprende diferentes niveles de programas formativos, a través de los cuales es posible obtener títulos de técnico de nivel superior, títulos profesionales, grados académicos o títulos universitarios o sus equivalentes.
 
 #### Art. 22.
-Son modalidades educativas aquellas opciones organizativas y curriculares de la educación regular, dentro de uno o más niveles educativos, que procuran dar respuesta a requerimientos específicos de aprendizaje, personales o contextuales, con el propósito de garantizar la igualdad en el derecho a la educación.                       Ley Nº 20.370 Art.
-
-Constituyen modalidades la educación especial o            22 D.O. 12.09.2009 diferencial, la educación de adultos y las que se creen conforme a lo dispuesto en el artículo 35 de esta ley.
+Son modalidades educativas aquellas opciones organizativas y curriculares de la educación regular, dentro de uno o más niveles educativos, que procuran dar respuesta a requerimientos específicos de aprendizaje, personales o contextuales, con el propósito de garantizar la igualdad en el derecho a la educación.
+Ley Nº 20.370 Art.
+22 D.O. 12.09.2009
+Constituyen modalidades la educación especial o diferencial, la educación de adultos y las que se creen conforme a lo dispuesto en el artículo 35 de esta ley.
 
 Tanto las bases curriculares como los criterios u orientaciones para construir adecuaciones curriculares deberán contar con la aprobación del Consejo Nacional de Educación, de acuerdo al procedimiento establecido en el artículo 86.
 
 #### Art. 23.
-La educación especial o diferencial es la modalidad del sistema educativo que desarrolla su acción de manera transversal en los distintos niveles, tanto en los establecimientos de educación regular como especial, proveyendo un conjunto de servicios, recursos humanos, técnicos, conocimientos especializados y ayudas para atender las necesidades educativas especiales que puedan presentar algunos alumnos de manera temporal o permanente a lo largo de su escolaridad, como consecuencia de un déficit o una dificultad específica de aprendizaje.                     Ley Nº 20.370 Art.
-
-Se entenderá que un alumno presenta necesidades            23 D.O. 12.09.2009 educativas especiales cuando precisa ayudas y recursos adicionales, ya sean humanos, materiales o pedagógicos, para conducir su proceso de desarrollo y aprendizaje, y contribuir al logro de los fines de la educación.
+La educación especial o diferencial es la modalidad del sistema educativo que desarrolla su acción de manera transversal en los distintos niveles, tanto en los establecimientos de educación regular como especial, proveyendo un conjunto de servicios, recursos humanos, técnicos, conocimientos especializados y ayudas para atender las necesidades educativas especiales que puedan presentar algunos alumnos de manera temporal o permanente a lo largo de su escolaridad, como consecuencia de un déficit o una dificultad específica de aprendizaje.
+Ley Nº 20.370 Art.
+23 D.O. 12.09.2009
+Se entenderá que un alumno presenta necesidades educativas especiales cuando precisa ayudas y recursos adicionales, ya sean humanos, materiales o pedagógicos, para conducir su proceso de desarrollo y aprendizaje, y contribuir al logro de los fines de la educación.
 
 La modalidad de educación especial y los proyectos de integración escolar contarán con orientaciones para construir adecuaciones curriculares para las escuelas especiales y aquellas que deseen desarrollar proyectos de integración.
 
@@ -440,7 +474,8 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 13]]
 
-La educación de adultos se estructura en los niveles       24 D.O. 12.09.2009 de educación básica y media, y puede impartirse a través de un proceso presencial o a través de planes flexibles semi-presenciales de mayor o menor duración, regulados conforme lo dispuesto en el artículo 32.
+La educación de adultos se estructura en los niveles de educación básica y media, y puede impartirse a través de un proceso presencial o a través de planes flexibles semi-presenciales de mayor o menor duración, regulados conforme lo dispuesto en el artículo 32.
+24 D.O. 12.09.2009
 
 ## TÍTULO II Normas generales sobre educación parvularia, básica y media
 Ley Nº 20.370 D.O.
@@ -449,14 +484,16 @@ Ley Nº 20.370 D.O.
 ### Párrafo 1º Requisitos mínimos de la educación parvularia, básica y media y normas objetivas para velar por su cumplimiento
 
 #### Art. 25.
-El nivel de educación básica regular tendrá una duración de seis años y el nivel de educación media regular tendrá una duración de seis años, cuatro de los cuales, en el segundo caso, serán de formación general y los dos finales de formación diferenciada. La educación parvularia no tendrá una duración obligatoria.                  Ley Nº 20.370 Art.
-
-Tratándose de las modalidades educativas, el               25 D.O. 12.09.2009 Presidente de la República, por decreto supremo expedido a través del Ministerio de Educación, podrá autorizar estudios de menor o mayor duración, los que deberán contar con la aprobación del Consejo Nacional de Educación.
+El nivel de educación básica regular tendrá una duración de seis años y el nivel de educación media regular tendrá una duración de seis años, cuatro de los cuales, en el segundo caso, serán de formación general y los dos finales de formación diferenciada. La educación parvularia no tendrá una duración obligatoria.
+Ley Nº 20.370 Art.
+25 D.O. 12.09.2009
+Tratándose de las modalidades educativas, el Presidente de la República, por decreto supremo expedido a través del Ministerio de Educación, podrá autorizar estudios de menor o mayor duración, los que deberán contar con la aprobación del Consejo Nacional de Educación.
 
 #### Art. 26.
-La educación parvularia no exige requisitos mínimos para acceder a ella, ni constituirá antecedente obligatorio para ingresar a la educación básica.                Ley Nº 20.370 Art.
-
-Para ingresar a la educación media se requiere haber       26 D.O. 12.09.2009 aprobado la educación básica o tener estudios equivalentes.
+La educación parvularia no exige requisitos mínimos para acceder a ella, ni constituirá antecedente obligatorio para ingresar a la educación básica.
+Ley Nº 20.370 Art.
+26 D.O. 12.09.2009
+Para ingresar a la educación media se requiere haber aprobado la educación básica o tener estudios equivalentes.
 
 #### Art. 27.
 La edad mínima para el ingreso a la educación básica regular será de seis años y la edad máxima para el ingreso a la educación media regular será de dieciséis años. Con todo, tales límites de edad podrán ser distintos tratándose de la educación especial o diferencial, o de adecuaciones de aceleración curricular, las que se especificarán por decreto supremo expedido a través del Ministerio de Educación.                             Ley Nº 20.370 Art.
@@ -468,13 +505,11 @@ Sin que constituya un antecedente obligatorio para la educación básica, la edu
 
 28 D.O. 12.09.2009
 
-- Valerse por sí mismos en el ámbito escolar y familiar, asumiendo conductas de autocuidado y de cuidado de los otros y del entorno.
-
-- Apreciar sus capacidades y características personales. c) Desarrollar su capacidad motora y valorar el cuidado del propio cuerpo.
-
-- Relacionarse con niños y adultos cercanos en forma armoniosa, estableciendo vínculos de confianza, afecto, colaboración y pertenencia.
-
-- Desarrollar actitudes de respeto y aceptación de la
+a) Valerse por sí mismos en el ámbito escolar y familiar, asumiendo conductas de autocuidado y de cuidado de los otros y del entorno.
+b) Apreciar sus capacidades y características personales.
+c) Desarrollar su capacidad motora y valorar el cuidado del propio cuerpo.
+d) Relacionarse con niños y adultos cercanos en forma armoniosa, estableciendo vínculos de confianza, afecto, colaboración y pertenencia.
+e) Desarrollar actitudes de respeto y aceptación de la
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -483,59 +518,35 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 [[START OF PAGE 14]]
 
 diversidad social, étnica, cultural, religiosa y física.
-
-f) Comunicar vivencias, emociones, sentimientos, necesidades
-
-e ideas por medio del lenguaje verbal y corporal.
-
-- Contar y usar los números para resolver problemas cotidianos simples.
-
-- Reconocer que el lenguaje escrito ofrece oportunidades para comunicarse, informarse y recrearse.
-
-- Explorar y conocer el medio natural y social, apreciando su riqueza y manteniendo una actitud de respeto y cuidado del entorno.
-
-- Desarrollar su curiosidad, creatividad e interés por conocer.
-
-- Desarrollar actitudes y hábitos que les faciliten seguir aprendiendo en los siguientes niveles educativos.
-
-- Expresarse libre y creativamente a través de diferentes lenguajes artísticos.
-
-- En el caso de establecimientos educacionales con alto porcentaje de alumnos indígenas se considerará, además, como objetivo general, que los alumnos y alumnas desarrollen los aprendizajes que les permitan comprender y expresar mensajes simples en lengua indígena reconociendo su historia y conocimientos de origen.
+f) Comunicar vivencias, emociones, sentimientos, necesidades e ideas por medio del lenguaje verbal y corporal.
+g) Contar y usar los números para resolver problemas cotidianos simples.
+h) Reconocer que el lenguaje escrito ofrece oportunidades para comunicarse, informarse y recrearse.
+i) Explorar y conocer el medio natural y social, apreciando su riqueza y manteniendo una actitud de respeto y cuidado del entorno.
+j) Desarrollar su curiosidad, creatividad e interés por conocer.
+k) Desarrollar actitudes y hábitos que les faciliten seguir aprendiendo en los siguientes niveles educativos.
+l) Expresarse libre y creativamente a través de diferentes lenguajes artísticos.
+m) En el caso de establecimientos educacionales con alto porcentaje de alumnos indígenas se considerará, además, como objetivo general, que los alumnos y alumnas desarrollen los aprendizajes que les permitan comprender y expresar mensajes simples en lengua indígena reconociendo su historia y conocimientos de origen.
 
 #### Art. 29.
 La educación básica tendrá como objetivos generales, sin que esto implique que cada objetivo sea necesariamente una asignatura, que los educandos desarrollen los conocimientos, habilidades y actitudes que les permitan:    Ley Nº 20.370 Art.
 
 29 D.O. 12.09.2009
 
-- En el ámbito personal y social:
-
-- Desarrollarse en los ámbitos moral, espiritual, intelectual, afectivo y físico de acuerdo a su edad.
-
-- Desarrollar una autoestima positiva y confianza en sí mismos.
-
-- Actuar de acuerdo con valores y normas de convivencia cívica, pacífica, conocer sus derechos y responsabilidades, y asumir compromisos consigo mismo y con los otros.
-
-- Reconocer y respetar la diversidad cultural, religiosa y étnica y las diferencias entre las personas, así como la igualdad de derechos entre hombres y mujeres, y desarrollar capacidades de empatía con los otros.
-
-- Trabajar individualmente y en equipo, con esfuerzo, perseverancia, responsabilidad y tolerancia a la frustración.
-
-- Practicar actividad física adecuada a sus intereses y aptitudes.
-
-- Adquirir hábitos de higiene y cuidado del propio cuerpo y salud.
-
-- En el ámbito del conocimiento y la cultura:
-
-- Desarrollar la curiosidad, la iniciativa personal y la creatividad.
-
-- Pensar en forma reflexiva, evaluando y utilizando información y conocimientos, de manera sistemática y metódica, para la formulación de proyectos y resolución de problemas.
-
-- Comunicarse con eficacia en lengua castellana, lo que implica comprender diversos tipos de textos orales y escritos adecuados para la edad y expresarse correctamente en forma escrita y oral.
-
-- Acceder a información y comunicarse usando las tecnologías de la información y la comunicación en forma reflexiva y eficaz.
-
-- Comprender y expresar mensajes simples en uno o más idiomas extranjeros.
-
-- Comprender y utilizar conceptos y procedimientos matemáticos básicos, relativos a números y formas geométricas, en la resolución de problemas cotidianos, y apreciar el aporte de la matemática para entender y actuar en el mundo.
+1) En el ámbito personal y social:
+a) Desarrollarse en los ámbitos moral, espiritual, intelectual, afectivo y físico de acuerdo a su edad.
+b) Desarrollar una autoestima positiva y confianza en sí mismos.
+c) Actuar de acuerdo con valores y normas de convivencia cívica, pacífica, conocer sus derechos y responsabilidades, y asumir compromisos consigo mismo y con los otros.
+d) Reconocer y respetar la diversidad cultural, religiosa y étnica y las diferencias entre las personas, así como la igualdad de derechos entre hombres y mujeres, y desarrollar capacidades de empatía con los otros.
+e) Trabajar individualmente y en equipo, con esfuerzo, perseverancia, responsabilidad y tolerancia a la frustración.
+f) Practicar actividad física adecuada a sus intereses y aptitudes.
+g) Adquirir hábitos de higiene y cuidado del propio cuerpo y salud.
+2) En el ámbito del conocimiento y la cultura:
+a) Desarrollar la curiosidad, la iniciativa personal y la creatividad.
+b) Pensar en forma reflexiva, evaluando y utilizando información y conocimientos, de manera sistemática y metódica, para la formulación de proyectos y resolución de problemas.
+c) Comunicarse con eficacia en lengua castellana, lo que implica comprender diversos tipos de textos orales y escritos adecuados para la edad y expresarse correctamente en forma escrita y oral.
+d) Acceder a información y comunicarse usando las tecnologías de la información y la comunicación en forma reflexiva y eficaz.
+e) Comprender y expresar mensajes simples en uno o más idiomas extranjeros.
+f) Comprender y utilizar conceptos y procedimientos matemáticos básicos, relativos a números y formas geométricas, en la resolución de problemas cotidianos, y apreciar el aporte de la matemática para entender y actuar en el mundo.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -543,9 +554,10 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 15]]
 
-- Conocer los hitos y procesos principales de la historia de Chile y su diversidad geográfica, humana y socio-cultural, así como su cultura e historia local, valorando la pertenencia a la nación chilena y la participación activa en la vida democrática.
-
-- Conocer y valorar el entorno natural y sus recursos como contexto de desarrollo humano, y tener hábitos de cuidado del medio ambiente. i) Aplicar habilidades básicas y actitudes de investigación científica, para conocer y comprender algunos procesos y fenómenos fundamentales del mundo natural y de aplicaciones tecnológicas de uso corriente. j) Conocer y apreciar expresiones artísticas de acuerdo a la edad y expresarse a través de la música y las artes visuales.
+g) Conocer los hitos y procesos principales de la historia de Chile y su diversidad geográfica, humana y socio-cultural, así como su cultura e historia local, valorando la pertenencia a la nación chilena y la participación activa en la vida democrática.
+h) Conocer y valorar el entorno natural y sus recursos como contexto de desarrollo humano, y tener hábitos de cuidado del medio ambiente.
+i) Aplicar habilidades básicas y actitudes de investigación científica, para conocer y comprender algunos procesos y fenómenos fundamentales del mundo natural y de aplicaciones tecnológicas de uso corriente.
+j) Conocer y apreciar expresiones artísticas de acuerdo a la edad y expresarse a través de la música y las artes visuales.
 
 En el caso de los establecimientos educacionales con alto porcentaje de alumnos indígenas, se considerará, además, como objetivo general, que los alumnos y alumnas desarrollen los aprendizajes que les permitan comprender diversos tipos de textos orales y escritos, y expresarse en forma oral en su lengua indígena.
 
@@ -554,31 +566,19 @@ La educación media tendrá como objetivos generales, sin que esto implique que 
 
 30 D.O. 12.09.2009
 
-- En el ámbito personal y social:
-
-- Alcanzar el desarrollo moral, espiritual, intelectual, afectivo y físico que los faculte para conducir su propia vida en forma autónoma, plena, libre y responsable.
-
-- Desarrollar planes de vida y proyectos personales, con discernimiento sobre los propios derechos, necesidades e intereses, así como sobre las responsabilidades con los demás y, en especial, en el ámbito de la familia.
-
-- Trabajar en equipo e interactuar en contextos socio-culturalmente heterogéneos, relacionándose positivamente con otros, cooperando y resolviendo adecuadamente los conflictos.
-
-- Conocer y apreciar los fundamentos de la vida democrática y sus instituciones, los derechos humanos y valorar la participación ciudadana activa, solidaria y responsable, con conciencia de sus deberes y derechos, y respeto por la diversidad de ideas, formas de vida e intereses.
-
-- Desarrollar capacidades de emprendimiento y hábitos, competencias y cualidades que les permitan aportar con su trabajo, iniciativa y creatividad al desarrollo de la sociedad.
-
-- Tener hábitos de vida activa y saludable.
-
-- En el ámbito del conocimiento y la cultura:
-
-- Conocer diversas formas de responder a las preguntas sobre el sentido de la existencia, la naturaleza de la realidad y del conocimiento humano.
-
-- Pensar en forma libre y reflexiva, siendo capaces de evaluar críticamente la propia actividad y de conocer y organizar la experiencia.
-
-- Analizar procesos y fenómenos complejos, reconociendo su multidimensionalidad y multicausalidad.
-
-- Expresarse en lengua castellana en forma clara y eficaz, de modo oral y escrito; leer comprensiva y críticamente diversos textos de diferente nivel de complejidad, que representen lo mejor de la cultura, y tomar conciencia del poder del lenguaje para construir significados e interactuar con otros.
-
-- Usar tecnología de la información en forma reflexiva y eficaz, para obtenerla, procesarla y comunicarla.
+1) En el ámbito personal y social:
+a) Alcanzar el desarrollo moral, espiritual, intelectual, afectivo y físico que los faculte para conducir su propia vida en forma autónoma, plena, libre y responsable.
+b) Desarrollar planes de vida y proyectos personales, con discernimiento sobre los propios derechos, necesidades e intereses, así como sobre las responsabilidades con los demás y, en especial, en el ámbito de la familia.
+c) Trabajar en equipo e interactuar en contextos socio-culturalmente heterogéneos, relacionándose positivamente con otros, cooperando y resolviendo adecuadamente los conflictos.
+d) Conocer y apreciar los fundamentos de la vida democrática y sus instituciones, los derechos humanos y valorar la participación ciudadana activa, solidaria y responsable, con conciencia de sus deberes y derechos, y respeto por la diversidad de ideas, formas de vida e intereses.
+e) Desarrollar capacidades de emprendimiento y hábitos, competencias y cualidades que les permitan aportar con su trabajo, iniciativa y creatividad al desarrollo de la sociedad.
+f) Tener hábitos de vida activa y saludable.
+2) En el ámbito del conocimiento y la cultura:
+a) Conocer diversas formas de responder a las preguntas sobre el sentido de la existencia, la naturaleza de la realidad y del conocimiento humano.
+b) Pensar en forma libre y reflexiva, siendo capaces de evaluar críticamente la propia actividad y de conocer y organizar la experiencia.
+c) Analizar procesos y fenómenos complejos, reconociendo su multidimensionalidad y multicausalidad.
+d) Expresarse en lengua castellana en forma clara y eficaz, de modo oral y escrito; leer comprensiva y críticamente diversos textos de diferente nivel de complejidad, que representen lo mejor de la cultura, y tomar conciencia del poder del lenguaje para construir significados e interactuar con otros.
+e) Usar tecnología de la información en forma reflexiva y eficaz, para obtenerla, procesarla y comunicarla.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -586,20 +586,31 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 16]]
 
-f) Comprender el lenguaje oral y escrito de uno o más idiomas extranjeros, y expresarse en forma adecuada. g) Comprender y aplicar conceptos, procedimientos y formas de razonamiento matemático para resolver problemas numéricos, geométricos, algebraicos y estadísticos, y para modelar situaciones y fenómenos reales, formular inferencias y tomar decisiones fundadas. h) Comprender y aplicar conceptos, teorías y formas de razonamiento científico, y utilizar evidencias empíricas, en el análisis y comprensión de fenómenos relacionados con ciencia y tecnología. i) Conocer la importancia de la problemática ambiental global y desarrollar actitudes favorables a la conservación del entorno natural. j) Comprender y valorar la historia y la geografía de Chile, su institucionalidad democrática y los valores cívicos que la fundamentan. k) Conocer los principales hitos y procesos de la historia de la humanidad y en especial aquellos aspectos de carácter político, culturales y religiosos de relevancia para la sociedad chilena y tener conciencia de ser parte de un mundo globalizado. l) Tener un sentido estético informado y expresarlo utilizando recursos artísticos de acuerdo a sus intereses y aptitudes. m) Conocer y aplicar conceptos y técnicas financieras básicas, así como desarrollar actitudes, conductas y prácticas que favorezcan la toma de decisiones ciudadanas y le permitan ejercer acciones eficaces para mejorar su bienestar económico, personal y familiar.                       Ley 21092
-
+f) Comprender el lenguaje oral y escrito de uno o más idiomas extranjeros, y expresarse en forma adecuada.
+g) Comprender y aplicar conceptos, procedimientos y formas de razonamiento matemático para resolver problemas numéricos, geométricos, algebraicos y estadísticos, y para modelar situaciones y fenómenos reales, formular inferencias y tomar decisiones fundadas.
+h) Comprender y aplicar conceptos, teorías y formas de razonamiento científico, y utilizar evidencias empíricas, en el análisis y comprensión de fenómenos relacionados con ciencia y tecnología.
+i) Conocer la importancia de la problemática ambiental global y desarrollar actitudes favorables a la conservación del entorno natural.
+j) Comprender y valorar la historia y la geografía de Chile, su institucionalidad democrática y los valores cívicos que la fundamentan.
+k) Conocer los principales hitos y procesos de la historia de la humanidad y en especial aquellos aspectos de carácter político, culturales y religiosos de relevancia para la sociedad chilena y tener conciencia de ser parte de un mundo globalizado.
+l) Tener un sentido estético informado y expresarlo utilizando recursos artísticos de acuerdo a sus intereses y aptitudes.
+m) Conocer y aplicar conceptos y técnicas financieras básicas, así como desarrollar actitudes, conductas y prácticas que favorezcan la toma de decisiones ciudadanas y le permitan ejercer acciones eficaces para mejorar su bienestar económico, personal y familiar.
+Ley 21092
 Art. único
-
-En el caso de los establecimientos educacionales con       D.O. 23.05.2018 alto porcentaje de alumnos indígenas se considerará, además, como objetivo general, que los alumnos y alumnas desarrollen los aprendizajes que les permitan mantener su dominio de la lengua indígena y el conocimiento de la historia y la cultura de su pueblo.
+D.O. 23.05.2018
+En el caso de los establecimientos educacionales con alto porcentaje de alumnos indígenas se considerará, además, como objetivo general, que los alumnos y alumnas desarrollen los aprendizajes que les permitan mantener su dominio de la lengua indígena y el conocimiento de la historia y la cultura de su pueblo.
 
 En el caso de los establecimientos educacionales que ofrezcan la formación diferenciada técnico-profesional y artística, se consideran, además, como objetivos generales, los aprendizajes requeridos por el perfil de egreso de las respectivas especialidades que impartan.
 
 #### Art. 31.
-Corresponderá al Presidente de la República, mediante decreto supremo dictado a través del Ministerio de Educación, previa aprobación del Consejo Nacional de Educación, establecer las bases curriculares para la educación parvularia, básica y media. Éstas definirán, por ciclos o años, respectivamente, los objetivos de aprendizaje que permitan el logro de los objetivos generales para cada uno de los niveles establecidos en esta ley. Las bases curriculares aprobadas deberán publicarse íntegramente en el Diario Oficial.                              Ley Nº 20.370 Art.
-
-Las bases curriculares tendrán una vigencia mínima de      31 D.O. 12.09.2009 seis años. Sus modificaciones y actualizaciones deberán incorporar, a lo menos, procesos de diagnóstico, consulta, evaluación y retroalimentación. Con todo, en casos fundados, podrán introducirse actualizaciones o ajustes a asignaturas, o a especialidades de la modalidad técnico-profesional, en un período inferior al señalado anteriormente.                                                  Ley 21049
-
-El Consejo Nacional de Educación aprobará las bases        Art. ÚNICO N° 1 curriculares de acuerdo al procedimiento del artículo 86,       D.O. 30.11.2017 velando por que los objetivos de aprendizaje contemplados en    NOTA éstas sean relevantes, actuales y coherentes con los objetivos generales establecidos en la ley. Asimismo, deberá constatar que los objetivos de aprendizaje que se le presentan sean adecuados a la edad de los estudiantes, estén debidamente secuenciados y sean abordables en el
+Corresponderá al Presidente de la República, mediante decreto supremo dictado a través del Ministerio de Educación, previa aprobación del Consejo Nacional de Educación, establecer las bases curriculares para la educación parvularia, básica y media. Éstas definirán, por ciclos o años, respectivamente, los objetivos de aprendizaje que permitan el logro de los objetivos generales para cada uno de los niveles establecidos en esta ley. Las bases curriculares aprobadas deberán publicarse íntegramente en el Diario Oficial.
+Ley Nº 20.370 Art.
+31 D.O. 12.09.2009
+Las bases curriculares tendrán una vigencia mínima de seis años. Sus modificaciones y actualizaciones deberán incorporar, a lo menos, procesos de diagnóstico, consulta, evaluación y retroalimentación. Con todo, en casos fundados, podrán introducirse actualizaciones o ajustes a asignaturas, o a especialidades de la modalidad técnico-profesional, en un período inferior al señalado anteriormente.
+Ley 21049
+Art. ÚNICO N° 1
+D.O. 30.11.2017
+NOTA
+El Consejo Nacional de Educación aprobará las bases curriculares de acuerdo al procedimiento del artículo 86, velando por que los objetivos de aprendizaje contemplados en éstas sean relevantes, actuales y coherentes con los objetivos generales establecidos en la ley. Asimismo, deberá constatar que los objetivos de aprendizaje que se le presentan sean adecuados a la edad de los estudiantes, estén debidamente secuenciados y sean abordables en el
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -607,7 +618,7 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 17]]
 
-tiempo escolar disponible en cada nivel y modalidad, y se adecuen al tiempo de libre disposición señalado en el inciso final de este articulo. El Consejo Nacional de Educación tendrá un plazo de sesenta días para aprobar, rechazar o hacer observaciones a la propuesta del Ministerio de Educación. En caso de que formule observaciones, el Ministerio de Educación tendrá un plazo de treinta días para dar respuesta a éstas, tras lo cual el Consejo deberá aprobar o rechazar la propuesta en un plazo de cuarenta y cinco días. El Ministerio de Educación deberá elaborar planes y programas de estudios para los niveles de educación básica y media, los cuales deberán, si cumplen con las bases curriculares, ser aprobados por el Consejo Nacional de Educación, de acuerdo al procedimiento establecido en el artículo 86. Dichos planes y programas serán obligatorios para los establecimientos que carezcan de ellos. Sin embargo, los establecimientos educacionales tendrán libertad para desarrollar los planes y programas propios de estudio que consideren adecuados para el cumplimiento de los objetivos generales definidos en las bases curriculares y de los complementarios que cada uno de ellos fije. Los establecimientos educacionales harán entrega, a la autoridad regional de educación correspondiente, de los planes y programas propios que libremente elaboren, debiendo dicha autoridad certificar la fecha de entrega. Los planes y programas se entenderán aceptados por el Ministerio de Educación transcurridos sesenta días contados desde la fecha de su entrega, fecha a partir de la cual se incorporarán al registro de planes y programas que el ministerio llevará al efecto. No obstante, dicho ministerio podrá objetar los respectivos planes y programas que se presenten para su aprobación, dentro del mismo plazo a que se refiere el inciso anterior, si éstos no incluyen los objetivos de aprendizaje explicitados en las bases curriculares que se establezcan de acuerdo a esta ley. Esta objeción deberá notificarse por escrito, siempre de manera fundada, en ese plazo mediante carta certificada dirigida al domicilio del respectivo establecimiento. La notificación contendrá la expresión de los objetivos de aprendizaje que no fueron incluidos en dichos planes y programas. En todo caso, procederá el reclamo de los afectados por la decisión del Ministerio de Educación, en única instancia, ante el Consejo Nacional de Educación, en el plazo de quince días contados desde la fecha de la notificación del rechazo, disponiendo dicho Consejo de cuarenta y cinco días para pronunciarse sobre el reclamo. Para los establecimientos que operen en el régimen de jornada escolar completa, las bases curriculares para la educación parvularia, básica y media deberán asegurar una proporción equivalente al 30% de tiempo de trabajo escolar de libre disposición. En ese mismo régimen, los planes y programas de estudios para los niveles de educación básica y media que elabore el Ministerio de Educación deberán asegurar, a lo menos, una proporción equivalente al 15% de tiempo de trabajo escolar de libre disposición.
+tiempo escolar disponible en cada nivel y modalidad, y se adecuen al tiempo de libre disposición señalado en el inciso final de este artículo. El Consejo Nacional de Educación tendrá un plazo de sesenta días para aprobar, rechazar o hacer observaciones a la propuesta del Ministerio de Educación. En caso de que formule observaciones, el Ministerio de Educación tendrá un plazo de treinta días para dar respuesta a éstas, tras lo cual el Consejo deberá aprobar o rechazar la propuesta en un plazo de cuarenta y cinco días. El Ministerio de Educación deberá elaborar planes y programas de estudios para los niveles de educación básica y media, los cuales deberán, si cumplen con las bases curriculares, ser aprobados por el Consejo Nacional de Educación, de acuerdo al procedimiento establecido en el artículo 86. Dichos planes y programas serán obligatorios para los establecimientos que carezcan de ellos. Sin embargo, los establecimientos educacionales tendrán libertad para desarrollar los planes y programas propios de estudio que consideren adecuados para el cumplimiento de los objetivos generales definidos en las bases curriculares y de los complementarios que cada uno de ellos fije. Los establecimientos educacionales harán entrega, a la autoridad regional de educación correspondiente, de los planes y programas propios que libremente elaboren, debiendo dicha autoridad certificar la fecha de entrega. Los planes y programas se entenderán aceptados por el Ministerio de Educación transcurridos sesenta días contados desde la fecha de su entrega, fecha a partir de la cual se incorporarán al registro de planes y programas que el ministerio llevará al efecto. No obstante, dicho ministerio podrá objetar los respectivos planes y programas que se presenten para su aprobación, dentro del mismo plazo a que se refiere el inciso anterior, si éstos no incluyen los objetivos de aprendizaje explicitados en las bases curriculares que se establezcan de acuerdo a esta ley. Esta objeción deberá notificarse por escrito, siempre de manera fundada, en ese plazo mediante carta certificada dirigida al domicilio del respectivo establecimiento. La notificación contendrá la expresión de los objetivos de aprendizaje que no fueron incluidos en dichos planes y programas. En todo caso, procederá el reclamo de los afectados por la decisión del Ministerio de Educación, en única instancia, ante el Consejo Nacional de Educación, en el plazo de quince días contados desde la fecha de la notificación del rechazo, disponiendo dicho Consejo de cuarenta y cinco días para pronunciarse sobre el reclamo. Para los establecimientos que operen en el régimen de jornada escolar completa, las bases curriculares para la educación parvularia, básica y media deberán asegurar una proporción equivalente al 30% de tiempo de trabajo escolar de libre disposición. En ese mismo régimen, los planes y programas de estudios para los niveles de educación básica y media que elabore el Ministerio de Educación deberán asegurar, a lo menos, una proporción equivalente al 15% de tiempo de trabajo escolar de libre disposición.
 
 ##### NOTA
 El artículo 11 transitorio de la presente norma dispone que el inciso segundo entrará en vigencia al inicio del año escolar 2026.
@@ -622,7 +633,8 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 18]]
 
-Los establecimientos educacionales tendrán libertad        32 D.O. 12.09.2009 para desarrollar los planes y programas de estudios que consideren adecuados para el cumplimiento de los objetivos de aprendizaje definidos en las bases curriculares y de los complementarios que cada uno de ellos fije.
+Los establecimientos educacionales tendrán libertad para desarrollar los planes y programas de estudios que consideren adecuados para el cumplimiento de los objetivos de aprendizaje definidos en las bases curriculares y de los complementarios que cada uno de ellos fije.
+32 D.O. 12.09.2009
 
 Los establecimientos educacionales harán entrega, a la autoridad regional de educación correspondiente, de los planes y programas que libremente elaboren, debiendo dicha autoridad certificar la fecha de entrega.
 
@@ -635,9 +647,10 @@ En todo caso, procederá el reclamo de los afectados por la decisión del Minist
 El Ministerio de Educación deberá elaborar planes y programas de estudio para la educación de adultos, los cuales deberán ser aprobados previo informe favorable del Consejo Nacional de Educación, de acuerdo al procedimiento establecido en el artículo 86. Dichos planes y programas serán obligatorios para los establecimientos que carezcan de ellos.
 
 #### Art. 33.
-El Ministerio de Educación creará un banco de planes y programas complementarios, que serán aprobados mediante decreto supremo del mismo, el que deberá contener al menos cinco alternativas para cada nivel educativo.          Ley Nº 20.370 Art.
-
-Estos planes y programas deberán cumplir con los           33 D.O. 12.09.2009 objetivos de aprendizaje definidos en las bases curriculares y haber sido aplicados previamente en establecimientos educacionales que, en conformidad al grado de cumplimiento de los estándares nacionales de aprendizaje, se encuentren ubicados en la categoría de establecimientos de buen desempeño, de conformidad a lo establecido en la ley.
+El Ministerio de Educación creará un banco de planes y programas complementarios, que serán aprobados mediante decreto supremo del mismo, el que deberá contener al menos cinco alternativas para cada nivel educativo.
+Ley Nº 20.370 Art.
+33 D.O. 12.09.2009
+Estos planes y programas deberán cumplir con los objetivos de aprendizaje definidos en las bases curriculares y haber sido aplicados previamente en establecimientos educacionales que, en conformidad al grado de cumplimiento de los estándares nacionales de aprendizaje, se encuentren ubicados en la categoría de establecimientos de buen desempeño, de conformidad a lo establecido en la ley.
 
 Los planes y programas de que trata este artículo podrán comprender un ciclo completo o un subciclo de la enseñanza escolar y referirse a la totalidad o a una parte de las áreas de estudio comprendidas en las bases curriculares.
 
@@ -655,9 +668,10 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 34 D.O. 12.09.2009
 
 #### Art. 35.
-El Ministerio de Educación podrá proponer, de acuerdo al procedimiento establecido en el artículo 86, la creación de nuevas modalidades educativas al Consejo Nacional de Educación, que complementen la educación regular o profundicen áreas específicas de ella. En el caso de ser aprobadas, deberá formular las bases curriculares específicas para ellas, las que deberán ser también aprobadas por el Consejo Nacional de Educación conforme al procedimiento antes señalado.                       Ley Nº 20.370 Art.
-
-El Ministerio de Educación también podrá proponer al       35 D.O. 12.09.2009 Consejo Nacional de Educación, de acuerdo al procedimiento del artículo 86, adecuaciones a las bases curriculares de la educación regular para aquellas personas o poblaciones que por sus características o contextos lo requieran, buscando la mayor equivalencia posible con sus objetivos de aprendizaje, especialmente en lo que respecta a la educación artística e intercultural.
+El Ministerio de Educación podrá proponer, de acuerdo al procedimiento establecido en el artículo 86, la creación de nuevas modalidades educativas al Consejo Nacional de Educación, que complementen la educación regular o profundicen áreas específicas de ella. En el caso de ser aprobadas, deberá formular las bases curriculares específicas para ellas, las que deberán ser también aprobadas por el Consejo Nacional de Educación conforme al procedimiento antes señalado.
+Ley Nº 20.370 Art.
+35 D.O. 12.09.2009
+El Ministerio de Educación también podrá proponer al Consejo Nacional de Educación, de acuerdo al procedimiento del artículo 86, adecuaciones a las bases curriculares de la educación regular para aquellas personas o poblaciones que por sus características o contextos lo requieran, buscando la mayor equivalencia posible con sus objetivos de aprendizaje, especialmente en lo que respecta a la educación artística e intercultural.
 
 #### Art. 36.
 Por decreto supremo, expedido a través del Ministerio de Educación, deberá reglamentarse la duración mínima del año escolar y las normas en virtud de las cuales los organismos regionales respectivos determinarán, de acuerdo a las condiciones de cada región, las fechas o períodos de suspensión y de interrupción de las actividades escolares. Ley Nº 20.370 Art.
@@ -665,9 +679,10 @@ Por decreto supremo, expedido a través del Ministerio de Educación, deberá re
 36 D.O. 12.09.2009
 
 #### Art. 37.
-Le corresponderá a la Agencia de Calidad de la Educación diseñar e implementar el sistema nacional de evaluación de logros de aprendizaje. Esta medición verificará el grado de cumplimiento de los objetivos generales a través de la medición de estándares de aprendizaje referidos a las bases curriculares nacionales de educación básica y media. La Agencia deberá contar con instrumentos válidos y confiables para dichas evaluaciones, que se apliquen en forma periódica a lo menos en un curso, tanto en el nivel de educación básica como en el de educación media, e informar los resultados obtenidos. Estas mediciones deberán informar sobre la calidad y equidad en el logro de los aprendizajes a nivel nacional.                  Ley Nº 20.370 Art.
-
-Las evaluaciones nacionales e internacionales se           37 D.O. 12.09.2009 desarrollarán de acuerdo a un plan de, a lo menos, cinco años, elaborado por el Ministerio de Educación, aprobado previo informe favorable del Consejo Nacional de Educación, emitido conforme al procedimiento del artículo 86. Este plan deberá contemplar las áreas curriculares que son objeto de evaluación, los grados de educación básica y media que son medidos, la periodicidad de la evaluación y las principales desagregaciones y modos de informar resultados.
+Le corresponderá a la Agencia de Calidad de la Educación diseñar e implementar el sistema nacional de evaluación de logros de aprendizaje. Esta medición verificará el grado de cumplimiento de los objetivos generales a través de la medición de estándares de aprendizaje referidos a las bases curriculares nacionales de educación básica y media. La Agencia deberá contar con instrumentos válidos y confiables para dichas evaluaciones, que se apliquen en forma periódica a lo menos en un curso, tanto en el nivel de educación básica como en el de educación media, e informar los resultados obtenidos. Estas mediciones deberán informar sobre la calidad y equidad en el logro de los aprendizajes a nivel nacional.
+Ley Nº 20.370 Art.
+37 D.O. 12.09.2009
+Las evaluaciones nacionales e internacionales se desarrollarán de acuerdo a un plan de, a lo menos, cinco años, elaborado por el Ministerio de Educación, aprobado previo informe favorable del Consejo Nacional de Educación, emitido conforme al procedimiento del artículo 86. Este plan deberá contemplar las áreas curriculares que son objeto de evaluación, los grados de educación básica y media que son medidos, la periodicidad de la evaluación y las principales desagregaciones y modos de informar resultados.
 
 Las evaluaciones nacionales periódicas serán obligatorias y a ellas deberán someterse todos los establecimientos educacionales de enseñanza regular del país.
 
@@ -682,9 +697,10 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 La Agencia de Calidad de la Educación coordinará la participación de Chile en mediciones internacionales de aprendizaje de los alumnos, debiendo informar públicamente sobre sus resultados.
 
 #### Art. 38.
-Le corresponderá a la Agencia de Calidad de la Educación diseñar e implementar un sistema de evaluación del desempeño de los establecimientos y sostenedores educacionales. Esta evaluación estará basada en estándares indicativos de desempeño de los establecimientos, elaborados por el Ministerio de Educación y aprobados por el Consejo Nacional de Educación, de conformidad al procedimiento del artículo 86. Éstos deberán ser precisos, objetivos y fáciles de comprender, y deberán tomar en consideración, entre otros, los resultados de aprendizaje de los alumnos, los resultados de las evaluaciones del desempeño de los docentes, cuando corresponda, y otros indicadores de calidad de procesos relevantes de los establecimientos que permitan realizar una evaluación integral según los objetivos generales establecidos en la ley. En ningún caso el incumplimiento de estos estándares indicativos de desempeño ni de las recomendaciones que se desprendan de estas evaluaciones dará origen a sanciones. No obstante, la Agencia de Calidad de la Educación informará de estas evaluaciones a la comunidad educativa.                                            Ley Nº 20.370 Art.
-
-La evaluación de desempeño de los establecimientos         38 D.O. 12.09.2009 educacionales y de los sostenedores se orientará a fortalecer las capacidades institucionales y de autoevaluación de los establecimientos y sus planes de mejoramiento, y a asegurar la mejora continua de la calidad de la educación que ofrecen.
+Le corresponderá a la Agencia de Calidad de la Educación diseñar e implementar un sistema de evaluación del desempeño de los establecimientos y sostenedores educacionales. Esta evaluación estará basada en estándares indicativos de desempeño de los establecimientos, elaborados por el Ministerio de Educación y aprobados por el Consejo Nacional de Educación, de conformidad al procedimiento del artículo 86. Éstos deberán ser precisos, objetivos y fáciles de comprender, y deberán tomar en consideración, entre otros, los resultados de aprendizaje de los alumnos, los resultados de las evaluaciones del desempeño de los docentes, cuando corresponda, y otros indicadores de calidad de procesos relevantes de los establecimientos que permitan realizar una evaluación integral según los objetivos generales establecidos en la ley. En ningún caso el incumplimiento de estos estándares indicativos de desempeño ni de las recomendaciones que se desprendan de estas evaluaciones dará origen a sanciones. No obstante, la Agencia de Calidad de la Educación informará de estas evaluaciones a la comunidad educativa.
+Ley Nº 20.370 Art.
+38 D.O. 12.09.2009
+La evaluación de desempeño de los establecimientos educacionales y de los sostenedores se orientará a fortalecer las capacidades institucionales y de autoevaluación de los establecimientos y sus planes de mejoramiento, y a asegurar la mejora continua de la calidad de la educación que ofrecen.
 
 Este proceso de evaluación se inicia con la revisión de los resultados de la autoevaluación institucional, respetando el proyecto educativo institucional y considerando las condiciones de contexto de la institución.
 
@@ -693,9 +709,10 @@ Ley Nº 20.370 D.O.
 12.09.2009
 
 #### Art. 39.
-Los establecimientos de los niveles de educación básica y media deberán evaluar periódicamente los logros y aprendizajes de los alumnos de acuerdo a un procedimiento de carácter objetivo y transparente, basado en normas mínimas nacionales sobre calificación y promoción. Dichas normas deberán propender a elevar la calidad de la educación y serán establecidas mediante decreto supremo expedido a través del Ministerio de Educación, el que deberá ser aprobado por el Consejo Nacional de Educación de acuerdo al procedimiento establecido en el artículo 86.                                  Ley Nº 20.370 Art.
-
-Asimismo, por decreto supremo del Ministerio de            39 D.O. 12.09.2009 Educación se establecerán los criterios, orientaciones y el procedimiento para la certificación de aprendizajes, habilidades y aptitudes, y para la promoción de un curso a otro de los alumnos con necesidades educativas especiales que durante su proceso educativo requirieron de adaptaciones curriculares.
+Los establecimientos de los niveles de educación básica y media deberán evaluar periódicamente los logros y aprendizajes de los alumnos de acuerdo a un procedimiento de carácter objetivo y transparente, basado en normas mínimas nacionales sobre calificación y promoción. Dichas normas deberán propender a elevar la calidad de la educación y serán establecidas mediante decreto supremo expedido a través del Ministerio de Educación, el que deberá ser aprobado por el Consejo Nacional de Educación de acuerdo al procedimiento establecido en el artículo 86.
+Ley Nº 20.370 Art.
+39 D.O. 12.09.2009
+Asimismo, por decreto supremo del Ministerio de Educación se establecerán los criterios, orientaciones y el procedimiento para la certificación de aprendizajes, habilidades y aptitudes, y para la promoción de un curso a otro de los alumnos con necesidades educativas especiales que durante su proceso educativo requirieron de adaptaciones curriculares.
 
 #### Art. 40.
 Los establecimientos reconocidos oficialmente certificarán las calificaciones anuales de cada alumno y, cuando proceda, el término de los estudios de educación básica y media. No obstante, la licencia de educación media será otorgada por el Ministerio de Educación.             Ley Nº 20.370 Art.
@@ -706,14 +723,16 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 21]]
 
-En el caso de la educación técnico-profesional, el         40 D.O. 12.09.2009 Ministerio de Educación, una vez cumplidos los requerimientos de titulación fijados en las bases curriculares, entregará títulos de técnico de nivel medio.
+En el caso de la educación técnico-profesional, el Ministerio de Educación, una vez cumplidos los requerimientos de titulación fijados en las bases curriculares, entregará títulos de técnico de nivel medio.
+40 D.O. 12.09.2009
 
 En el caso de la educación artística, el Ministerio de Educación otorgará un certificado que acredite la realización de estudios en la mención a la que el alumno optó.
 
 #### Art. 41.
-Por decreto supremo, expedido a través del Ministerio de Educación, se reglamentará la forma como se validará el aprendizaje desarrollado al margen del sistema formal, por experiencia personal o el mundo laboral, conducente a niveles o títulos, y la forma como se convalidarán los estudios equivalentes a la educación básica o media realizados en el extranjero.                     Ley Nº 20.370 Art.
-
-Asimismo, el Ministerio de Educación deberá otorgar        41 D.O. 12.09.2009 las certificaciones de aprendizajes y competencias adquiridas en procesos no formales y flexibles, de acuerdo a un procedimiento establecido por decreto supremo.
+Por decreto supremo, expedido a través del Ministerio de Educación, se reglamentará la forma como se validará el aprendizaje desarrollado al margen del sistema formal, por experiencia personal o el mundo laboral, conducente a niveles o títulos, y la forma como se convalidarán los estudios equivalentes a la educación básica o media realizados en el extranjero.
+Ley Nº 20.370 Art.
+41 D.O. 12.09.2009
+Asimismo, el Ministerio de Educación deberá otorgar las certificaciones de aprendizajes y competencias adquiridas en procesos no formales y flexibles, de acuerdo a un procedimiento establecido por decreto supremo.
 
 Corresponderá, igualmente, al Ministerio de Educación, fijar por decreto supremo un procedimiento para establecer las equivalencias y homologaciones de aprendizajes o estudios dentro de las distintas formaciones diferenciadas de la educación media regular, y entre la enseñanza regular básica o media y las modalidades.
 
@@ -728,9 +747,10 @@ El Ministerio de Educación otorgará el título correspondiente a un oficio a l
 43 D.O. 12.09.2009
 
 #### Art. 44.
-La educación media que se imparta en los establecimientos de educación de las instituciones de la Defensa Nacional deberá cumplir los objetivos generales señalados en esta ley para dicho nivel y los requisitos específicos mínimos de egreso que determine la reglamentación institucional correspondiente. Asimismo, sus planes y programas de estudio, en lo referido a la enseñanza media regular, se sujetarán a las normas establecidas en esta ley.                                       Ley Nº 20.370 Art.
-
-El Estado, por intermedio del Ministerio de Educación,     44 D.O. 12.09.2009 velará por el cumplimiento de los objetivos generales de la enseñanza media regular y, a través del Ministerio de Defensa, por la observancia de los requisitos específicos mínimos de egreso que determine la reglamentación institucional respectiva.
+La educación media que se imparta en los establecimientos de educación de las instituciones de la Defensa Nacional deberá cumplir los objetivos generales señalados en esta ley para dicho nivel y los requisitos específicos mínimos de egreso que determine la reglamentación institucional correspondiente. Asimismo, sus planes y programas de estudio, en lo referido a la enseñanza media regular, se sujetarán a las normas establecidas en esta ley.
+Ley Nº 20.370 Art.
+44 D.O. 12.09.2009
+El Estado, por intermedio del Ministerio de Educación, velará por el cumplimiento de los objetivos generales de la enseñanza media regular y, a través del Ministerio de Defensa, por la observancia de los requisitos específicos mínimos de egreso que determine la reglamentación institucional respectiva.
 
 ### Párrafo 3º Reconocimiento oficial del Estado a establecimientos educacionales que impartan enseñanza en los niveles de educación parvularia, básica y media
 Ley Nº 20.370 D.O.
@@ -745,24 +765,32 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 22]]
 
-Sin perjuicio de lo establecido en este párrafo, se        45 D.O. 12.09.2009 podrá impartir cualquiera otra clase de educación no reconocida por el Estado. Excepcionalmente, estos establecimientos educacionales podrán optar al reconocimiento oficial, cuando apliquen métodos pedagógicos o planes y programas de estudio que no contengan evaluaciones equivalentes a las de general aplicación en el sistema, y que hayan funcionado exitosamente por al menos 6 años sin que nunca hayan obtenido reconocimiento oficial previamente. Para la presentación de dicha solicitud al Ministerio se requerirá del acuerdo de la respectiva comunidad educativa, no siendo en este caso exigencia para el reconocimiento la presentación del reglamento de evaluación del establecimiento.
+Sin perjuicio de lo establecido en este párrafo, se podrá impartir cualquiera otra clase de educación no reconocida por el Estado. Excepcionalmente, estos establecimientos educacionales podrán optar al reconocimiento oficial, cuando apliquen métodos pedagógicos o planes y programas de estudio que no contengan evaluaciones equivalentes a las de general aplicación en el sistema, y que hayan funcionado exitosamente por al menos 6 años sin que nunca hayan obtenido reconocimiento oficial previamente. Para la presentación de dicha solicitud al Ministerio se requerirá del acuerdo de la respectiva comunidad educativa, no siendo en este caso exigencia para el reconocimiento la presentación del reglamento de evaluación del establecimiento.
+45 D.O. 12.09.2009
 
 La solicitud precedente será sometida al procedimiento administrativo que se establezca en un reglamento que al efecto se dicte. Dicha normativa deberá considerar, además, un informe fundado del Consejo Nacional de Educación sobre la factibilidad de aprobar la excepción solicitada, en virtud de las normas que le rigen.
 
 Una vez reconocidos, estos establecimientos educacionales deberán cumplir los objetivos generales establecidos en esta ley, así como los estándares nacionales de aprendizaje que se exigen al conjunto del sistema escolar. De esta manera, podrán certificar estudios conforme a sus propuestas educativas, debiendo en enseñanza media cumplir al menos las exigencias que permitan a sus alumnos acceder a la licencia de educación media.
 
-Un establecimiento educacional que haya comenzado el proceso de reconocimiento oficial sólo podrá iniciar actividades una vez concluido plenamente el acto administrativo de reconocimiento oficial referido en el inciso primero del presente artículo.                           Ley 20845
-
-El incumplimiento del requisito descrito en el inciso      Art. 1 N° 8 anterior se considerará una infracción grave, según lo          D.O. 08.06.2015 dispuesto en el artículo 76 de la ley Nº 20.529.
+Un establecimiento educacional que haya comenzado el proceso de reconocimiento oficial sólo podrá iniciar actividades una vez concluido plenamente el acto administrativo de reconocimiento oficial referido en el inciso primero del presente artículo.
+El incumplimiento del requisito descrito en el inciso anterior se considerará una infracción grave, según lo dispuesto en el artículo 76 de la ley Nº 20.529.
+Ley 20845
+Art. 1 N° 8
+D.O. 08.06.2015
 
 #### Art. 46.
-El Ministerio de Educaci n reconocerá oficialmente a los establecimientos educacionales que impartan enseñanza en los niveles de educación parvularia, básica y media, cuando así lo soliciten y cumplan con los siguientes requisitos:                                          Ley Nº 20.370 Art.
-
-a) Tener un sostenedor. Serán sostenedores las personas         46 D.O. 12.09.2009 jurídicas de derecho público, tales como municipalidades y otras entidades creadas o reconocidas por ley, y las personas jurídicas de derecho privado cuyo objeto social único sea la educación. El sostenedor será responsable del funcionamiento del establecimiento educacional.             Ley 20845
-
-Todos los sostenedores que reciban subvenciones o aportes    Art. 1 N° 9 a) regulares del Estado no podrán perseguir fines de lucro, y      D.O. 08.06.2015 deberán destinar de manera íntegra y exclusiva esos aportes y cualesquiera otros ingresos a fines educativos. Asimismo, deberán rendir cuenta pública respecto de su uso y estarán sujetos a la fiscalización y auditoría de la Superintendencia de Educación.                                  Ley 20845
-
-El representante legal y el administrador de entidades       Art. 1 N° 9 b) sostenedoras de establecimientos educacionales deberán          D.O. 08.06.2015 cumplir con los siguientes requisitos: estar en posesión de un título profesional o licenciatura de al menos ocho semestres, otorgado por una universidad o instituto profesional del Estado o reconocido por éste; no haber sido sancionado con las inhabilidades para ser sostenedor por haber cometido alguna de las infracciones graves señaladas en el artículo 50 del decreto con fuerza de ley Nº 2, de
+El Ministerio de Educación reconocerá oficialmente a los establecimientos educacionales que impartan enseñanza en los niveles de educación parvularia, básica y media, cuando así lo soliciten y cumplan con los siguientes requisitos:
+Ley Nº 20.370 Art.
+46 D.O. 12.09.2009
+a) Tener un sostenedor. Serán sostenedores las personas jurídicas de derecho público, tales como municipalidades y otras entidades creadas o reconocidas por ley, y las personas jurídicas de derecho privado cuyo objeto social único sea la educación. El sostenedor será responsable del funcionamiento del establecimiento educacional.
+Todos los sostenedores que reciban subvenciones o aportes regulares del Estado no podrán perseguir fines de lucro, y deberán destinar de manera íntegra y exclusiva esos aportes y cualesquiera otros ingresos a fines educativos. Asimismo, deberán rendir cuenta pública respecto de su uso y estarán sujetos a la fiscalización y auditoría de la Superintendencia de Educación.
+Ley 20845
+Art. 1 N° 9 a)
+D.O. 08.06.2015
+El representante legal y el administrador de entidades sostenedoras de establecimientos educacionales deberán cumplir con los siguientes requisitos: estar en posesión de un título profesional o licenciatura de al menos ocho semestres, otorgado por una universidad o instituto profesional del Estado o reconocido por éste; no haber sido sancionado con las inhabilidades para ser sostenedor por haber cometido alguna de las infracciones graves señaladas en el artículo 50 del decreto con fuerza de ley Nº 2, de
+Ley 20845
+Art. 1 N° 9 b)
+D.O. 08.06.2015
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -770,9 +798,31 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 23]]
 
-1998, de Educación; no haber sido condenado, en más de una ocasión dentro de los últimos cinco años, por un tribunal de la República por haber ejercido prácticas antisindicales, por haber incumplido la ley Nº19.631 en cuanto al pago de las cotizaciones previsionales de sus trabajadores, o en virtud de acciones de tutela laboral por vulneración de derechos fundamentales de los trabajadores; no haber sido condenado, como autor, cómplice o encubridor, por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, u otros que establezca la ley, y no haber sido condenado con la pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad a que se refiere el artículo 39 bis del Código Penal.             Ley 20845 Las sanciones de inhabilidad aplicadas por infracciones      Art. 1 N° 9 c) cometidas por la entidad sostenedora se entenderán              D.O. 08.06.2015 aplicadas a su representante legal y administrador.             Ley 20845 La calidad de sostenedor no podrá transferirse ni            Art. 1 N° 9 d) transmitirse en caso alguno y bajo ningún título. No            D.O. 08.06.2015 obstante, podrán transferirse y transmitirse los bienes         Ley 20845 muebles o inmuebles que componen el establecimiento.            Art. 1 N° 9 e) b) Contar con un proyecto educativo, el que, en todo caso,      D.O. 08.06.2015 deberá resguardar el principio de no discriminación arbitraria, no pudiendo incluir condiciones o normas que afecten la dignidad de la persona, ni que sean contrarios a los derechos humanos garantizados por la Constitución y los tratados internacionales ratificados por Chile y que se encuentren vigentes, en especial aquellos que versen sobre los derechos de los niños.                                      Ley 20845 c) Ceñirse, en los programas de estudio que apliquen, a las     Art. 1 N° 9 f) bases curriculares elaboradas por el Ministerio de              D.O. 08.06.2015 Educación de acuerdo a lo señalado en los artículos 31 o 32 de esta ley. d) Tener y aplicar un reglamento que se ajuste a las normas mínimas nacionales sobre evaluación y promoción de los alumnos para cada uno de los niveles a que se refiere el artículo 39 de esta ley. e) Comprometerse a cumplir los estándares nacionales de aprendizaje, de conformidad a los instrumentos que la ley establezca para tales efectos. f) Contar con un reglamento interno que regule las relaciones entre el establecimiento y los distintos actores de la comunidad escolar. Dicho reglamento, en materia de convivencia escolar, deberá incorporar políticas de prevención, medidas pedagógicas, protocolos de actuación y diversas conductas que constituyan falta a la buena convivencia escolar, graduándolas de acuerdo a su menor o mayor gravedad. De igual forma, establecerá las medidas disciplinarias correspondientes a tales conductas, que podrán incluir desde una medida pedagógica hasta la cancelación de la matrícula. En todo caso, en la aplicación de dichas medidas deberá garantizarse en todo momento el justo procedimiento, el cual deberá estar establecido en el reglamento.                                   Ley 20536 g) Tener el personal docente idóneo que sea necesario y el      Art. UNICO N° 3 personal asistente de la educación suficiente que les           D.O. 17.09.2011 permita cumplir con las funciones que les corresponden, atendido el nivel y modalidad de la enseñanza que impartan y la cantidad de alumnos que atiendan. Tratándose de la educación parvularia y básica, se entenderá por docente idóneo al que cuente con el título de profesional de la educación del respectivo nivel y especialidad cuando corresponda, o esté habilitado para ejercer la función docente según las normas legales vigentes. En la educación media, se entenderá por docente idóneo al que cuente con el título de profesional de la educación del respectivo nivel y especialidad cuando
-
-corresponda, o esté habilitado para ejercer la función
+1998, de Educación; no haber sido condenado, en más de una ocasión dentro de los últimos cinco años, por un tribunal de la República por haber ejercido prácticas antisindicales, por haber incumplido la ley Nº19.631 en cuanto al pago de las cotizaciones previsionales de sus trabajadores, o en virtud de acciones de tutela laboral por vulneración de derechos fundamentales de los trabajadores; no haber sido condenado, como autor, cómplice o encubridor, por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, u otros que establezca la ley, y no haber sido condenado con la pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad a que se refiere el artículo 39 bis del Código Penal.
+Ley 20845
+Art. 1 N° 9 c)
+D.O. 08.06.2015
+Las sanciones de inhabilidad aplicadas por infracciones cometidas por la entidad sostenedora se entenderán aplicadas a su representante legal y administrador.
+Ley 20845
+Art. 1 N° 9 d)
+D.O. 08.06.2015
+La calidad de sostenedor no podrá transferirse ni transmitirse en caso alguno y bajo ningún título. No obstante, podrán transferirse y transmitirse los bienes muebles o inmuebles que componen el establecimiento.
+Ley 20845
+Art. 1 N° 9 e)
+D.O. 08.06.2015
+b) Contar con un proyecto educativo, el que, en todo caso, deberá resguardar el principio de no discriminación arbitraria, no pudiendo incluir condiciones o normas que afecten la dignidad de la persona, ni que sean contrarios a los derechos humanos garantizados por la Constitución y los tratados internacionales ratificados por Chile y que se encuentren vigentes, en especial aquellos que versen sobre los derechos de los niños.
+Ley 20845
+Art. 1 N° 9 f)
+D.O. 08.06.2015
+c) Ceñirse, en los programas de estudio que apliquen, a las bases curriculares elaboradas por el Ministerio de Educación de acuerdo a lo señalado en los artículos 31 o 32 de esta ley.
+d) Tener y aplicar un reglamento que se ajuste a las normas mínimas nacionales sobre evaluación y promoción de los alumnos para cada uno de los niveles a que se refiere el artículo 39 de esta ley.
+e) Comprometerse a cumplir los estándares nacionales de aprendizaje, de conformidad a los instrumentos que la ley establezca para tales efectos.
+f) Contar con un reglamento interno que regule las relaciones entre el establecimiento y los distintos actores de la comunidad escolar. Dicho reglamento, en materia de convivencia escolar, deberá incorporar políticas de prevención, medidas pedagógicas, protocolos de actuación y diversas conductas que constituyan falta a la buena convivencia escolar, graduándolas de acuerdo a su menor o mayor gravedad. De igual forma, establecerá las medidas disciplinarias correspondientes a tales conductas, que podrán incluir desde una medida pedagógica hasta la cancelación de la matrícula. En todo caso, en la aplicación de dichas medidas deberá garantizarse en todo momento el justo procedimiento, el cual deberá estar establecido en el reglamento.
+Ley 20536
+Art. UNICO N° 3
+D.O. 17.09.2011
+g) Tener el personal docente idóneo que sea necesario y el personal asistente de la educación suficiente que les permita cumplir con las funciones que les corresponden, atendido el nivel y modalidad de la enseñanza que impartan y la cantidad de alumnos que atiendan.
+Tratándose de la educación parvularia y básica, se entenderá por docente idóneo al que cuente con el título de profesional de la educación del respectivo nivel y especialidad cuando corresponda, o esté habilitado para ejercer la función docente según las normas legales vigentes. En la educación media, se entenderá por docente idóneo al que cuente con el título de profesional de la educación del respectivo nivel y especialidad cuando corresponda, o esté habilitado para ejercer la función
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -782,17 +832,22 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 docente según las normas legales vigentes, o esté en posesión de un título profesional o licenciatura de al menos ocho semestres, de una universidad acreditada, en un área afín a la especialidad que imparta, para lo cual estará autorizado a ejercer la docencia por un período máximo de tres años renovables por otros dos, de manera continua o discontinua y a la sola petición del director del establecimiento. Después de los cinco años, para continuar ejerciendo la docencia deberá poseer el título profesional de la educación respectivo, o estar cursando estudios conducentes a dicho grado o acreditar competencias docentes de acuerdo a lo que establezca el reglamento. Este reglamento sólo podrá establecer los instrumentos de evaluación de conocimientos disciplinarios y prácticas pedagógicas como el medio idóneo para acreditar competencias docentes.
 
-Los docentes, habilitados conforme a la ley y el personal asistente de la educación deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, o la ley Nº 20.066, que sanciona la violencia intrafamiliar, ni a la pena de inhabilitación establecida en el artículo 39 bis del Código Penal.             Ley 20845 h) Acreditar un capital mínimo pagado, en proporción a la       Art. 1 N° 9 g) matrícula proyectada para el siguiente, según la tabla que      D.O. 08.06.2015 se establece a continuación:
+Los docentes, habilitados conforme a la ley y el personal asistente de la educación deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, o la ley Nº 20.066, que sanciona la violencia intrafamiliar, ni a la pena de inhabilitación establecida en el artículo 39 bis del Código Penal.
+Ley 20845
+Art. 1 N° 9 g)
+D.O. 08.06.2015
+h) Acreditar un capital mínimo pagado, en proporción a la matrícula proyectada para el siguiente, según la tabla que se establece a continuación:
+Matrícula proyectada (cantidad de alumnos)    Monto a acreditar (unidades de fomento)
+0 - 100    200
+101 - 200    300
+201 - 400    600
+401 - 600    1.000
+601 o más    1.400
+Ley 20501
+Art. 13
+D.O. 26.02.2011
 
-Matrícula proyectada           Monto a
-
-alumnos)
-
-0 - 100
-
-(cantidad de          acreditar (unidades                 Ley 20501 de fomento)                           Art. 13 200                           D.O. 26.02.2011 101 - 200 300 201 - 400                     600 401 - 600 1.000 601 o más 1.400
-
-- Acreditar que el local en el cual funciona el establecimiento cumple con las normas de general aplicación, previamente establecidas.
+i) Acreditar que el local en el cual funciona el establecimiento cumple con las normas de general aplicación, previamente establecidas.
 
 En el evento de que el sostenedor no sea propietario del local donde funciona el establecimiento educacional, deberá acreditar un contrato, sea en calidad de arrendatario, comodatario o titular de otro derecho sobre el inmueble, de duración no inferior a 5 años e inscrito en el Conservador de Bienes Raíces respectivo. Esta acreditación deberá renovarse seis meses antes de la finalización de los cinco años contemplados.
 
@@ -801,7 +856,10 @@ j) Disponer de mobiliario, equipamiento, elementos de enseñanza y material did�
 Los requisitos contemplados en las letras precedentes serán reglamentados mediante decreto supremo del Ministerio de Educación.
 
 #### Art. 47.
-El establecimiento educacional que opte al reconocimiento oficial deberá presentar, ante el Secretario Regional Ministerial de Educación correspondiente, una solicitud acompañada de todos los antecedentes que acrediten el cumplimiento de los requisitos a que se refiere el artículo anterior.                                           Ley Nº 20.370 Art. Si dicha solicitud no se resolviera dentro de los           47 D.O. 12.09.2009
+El establecimiento educacional que opte al reconocimiento oficial deberá presentar, ante el Secretario Regional Ministerial de Educación correspondiente, una solicitud acompañada de todos los antecedentes que acrediten el cumplimiento de los requisitos a que se refiere el artículo anterior.
+Ley Nº 20.370 Art.
+47 D.O. 12.09.2009
+Si dicha solicitud no se resolviera dentro de los
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -814,12 +872,16 @@ noventa días posteriores a su entrega, se tendrá por aprobada.
 Si la solicitud fuere rechazada, de manera fundada, se podrá reclamar ante el Ministro de Educación en un plazo de quince días contado desde la notificación del rechazo, el que resolverá dentro de los quince días siguientes.
 
 #### Art. 48.
-El reconocimiento oficial se hará por resolución del Secretario Regional Ministerial de Educación que corresponda, en la que se indicará, a lo menos, el nombre y dirección del establecimiento, la identificación del sostenedor o del representante legal, en su caso, y el nivel y modalidad de enseñanza que imparta.       Ley Nº 20.370 Art. Obtenido el reconocimiento oficial, un establecimiento          48 D.O. 12.09.2009 educacional sólo requerirá nueva autorización, de acuerdo con los procedimientos descritos en el inciso anterior y en los artículos 46 y 47, para crear un nivel o una modalidad educativa diferente o una nueva especialidad en el caso de los establecimientos técnicoprofesionales.
+El reconocimiento oficial se hará por resolución del Secretario Regional Ministerial de Educación que corresponda, en la que se indicará, a lo menos, el nombre y dirección del establecimiento, la identificación del sostenedor o del representante legal, en su caso, y el nivel y modalidad de enseñanza que imparta.
+Ley Nº 20.370 Art.
+48 D.O. 12.09.2009
+Obtenido el reconocimiento oficial, un establecimiento educacional sólo requerirá nueva autorización, de acuerdo con los procedimientos descritos en el inciso anterior y en los artículos 46 y 47, para crear un nivel o una modalidad educativa diferente o una nueva especialidad en el caso de los establecimientos técnicoprofesionales.
 
 #### Art. 49.
-El Ministerio de Educación llevará un Registro Público de Sostenedores y un Registro Público de Establecimientos Educacionales con Reconocimiento Oficial, los que se encontrarán disponibles en la página web del Ministerio de Educación u otros medios electrónicos.            Ley Nº 20.370 Art.
-
-En el caso del Registro Público de Sostenedores, éste      49 D.O. 12.09.2009 deberá incluir la constancia de su personalidad jurídica; la identificación de su representante legal; su domicilio; historial de infracciones, si las hubiere, y demás antecedentes que señale el reglamento. En el caso de percibir subvención o aportes estatales, deberá también informarse sobre la recepción y monto de dichos recursos.
+El Ministerio de Educación llevará un Registro Público de Sostenedores y un Registro Público de Establecimientos Educacionales con Reconocimiento Oficial, los que se encontrarán disponibles en la página web del Ministerio de Educación u otros medios electrónicos.
+Ley Nº 20.370 Art.
+49 D.O. 12.09.2009
+En el caso del Registro Público de Sostenedores, éste deberá incluir la constancia de su personalidad jurídica; la identificación de su representante legal; su domicilio; historial de infracciones, si las hubiere, y demás antecedentes que señale el reglamento. En el caso de percibir subvención o aportes estatales, deberá también informarse sobre la recepción y monto de dichos recursos.
 
 En el caso del Registro Público de Establecimientos Educacionales con Reconocimiento Oficial del Estado, se incluirán los resultados de las evaluaciones de aprendizaje de los alumnos y de los profesionales de la educación, cuando corresponda, y la categoría en la que se encuentre el establecimiento de acuerdo al sistema de aseguramiento de la calidad, en la forma que señale el reglamento.
 
@@ -828,41 +890,35 @@ Los establecimientos educacionales reconocidos oficialmente por el Estado deber�
 Cuando la Superintendencia de Educación decrete la revocación del reconocimiento oficial de un establecimiento, el Ministerio de Educación procederá a eliminar al establecimiento educacional afectado o al sostenedor, o ambos, si procediere, de los registros correspondientes, practicando la respectiva subinscripción.
 
 #### Art. 50.
-La Superintendencia de Educación será el organismo encargado de fiscalizar la mantención de los requisitos que dieron origen al reconocimiento oficial del Estado.                                                         Ley Nº 20.370 Art.
-
-En caso de pérdida de alguno de los requisitos para        50 D.O. 12.09.2009 ser reconocido oficialmente; de incumplimiento de lo dispuesto en los artículos 32 o 34 y en las normas señaladas en el artículo 16, o en el caso de obtención de resultados educativos reiteradamente deficientes respecto de los estándares nacionales, de conformidad a lo que la ley establezca para tales efectos, y oído previamente el sostenedor o representante legal, el establecimiento educacional podrá ser sancionado de conformidad a lo establecido en el inciso séptimo de este artículo. La Dirección Regional de la Superintendencia de Educación correspondiente será el organismo competente para sustanciar el procedimiento respectivo y aplicar las sanciones que procedan. Para ello deberá ponderar las pruebas que se presenten en los descargos.
+La Superintendencia de Educación será el organismo encargado de fiscalizar la mantención de los requisitos que dieron origen al reconocimiento oficial del Estado.
+Ley Nº 20.370 Art.
+50 D.O. 12.09.2009
+En caso de pérdida de alguno de los requisitos para ser reconocido oficialmente; de incumplimiento de lo dispuesto en los artículos 32 o 34 y en las normas señaladas en el artículo 16, o en el caso de obtención de resultados educativos reiteradamente deficientes respecto de los estándares nacionales, de conformidad a lo que la ley establezca para tales efectos, y oído previamente el sostenedor o representante legal, el establecimiento educacional podrá ser sancionado de conformidad a lo establecido en el inciso séptimo de este artículo.
+La Dirección Regional de la Superintendencia de
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
-
+Educación correspondiente será el organismo competente para sustanciar el procedimiento respectivo y aplicar las sanciones que procedan. Para ello deberá ponderar las pruebas que se presenten en los descargos.
 El procedimiento podrá iniciarse de oficio por la Dirección Regional de la Superintendencia de Educación correspondiente, o por denuncia del Ministerio de Educación, o a solicitud de otros organismos públicos relacionados o dependientes de éste.
 
 Tratándose de denuncias derivadas del Ministerio de Educación y de informes negativos de la Agencia de Calidad de la Educación, la Superintendencia de Educación ordenará directamente la formulación de cargos y la instrucción del debido proceso.
 
 La resolución que ordene instruir el proceso deberá notificarse personalmente o por carta certificada al sostenedor o a su representante legal, quien tendrá diez días hábiles para presentar los descargos y medios de prueba que estime pertinentes.
 
-- El Director Regional de la Superintendencia de Educación correspondiente podrá, mediante resolución fundada, aplicar las siguientes sanciones en atención a la naturaleza, gravedad y reiteración de la infracción:
+El Director Regional de la Superintendencia de Educación correspondiente podrá, mediante resolución fundada, aplicar las siguientes sanciones en atención a la naturaleza, gravedad y reiteración de la infracción:
 
-- Amonestación.
+a) Amonestación.
 
-- Multa a beneficio fiscal en conformidad a las normas de
+b) Multa a beneficio fiscal en conformidad a las normas de la ley que establezca un sistema nacional de aseguramiento de la calidad de la educación parvularia, básica y media.
 
-la ley que establezca un sistema nacional de aseguramiento
+La multa no podrá ser inferior al 5% ni exceder el 50% de la subvención educacional mensual por alumno matriculado en el establecimiento educacional.
 
-- de la calidad de la educación parvularia, básica y media. La multa no podrá ser inferior al 5% ni exceder el 50%
+c) Suspensión temporal del reconocimiento oficial hasta por el plazo de 6 meses.
 
-de la subvención educacional mensual por alumno matriculado
-
-- en el establecimiento educacional.
-
-- Suspensión temporal del reconocimiento oficial hasta por
-
-- el plazo de 6 meses.
-
-- Pérdida del reconocimiento oficial.
+d) Pérdida del reconocimiento oficial.
 
 De la resolución que dicte el Director Regional de la Superintendencia de Educación, podrá reclamarse ante el Superintendente de Educación dentro del plazo de cinco días contados desde la notificación de la resolución que se impugna.
 
@@ -887,9 +943,10 @@ El Estado reconocerá oficialmente a las siguientes instituciones de educación 
 
 29 D.O. 10.03.1990
 
-- Universidades;
+a) Universidades;
 
-- Institutos profesionales;                                    DFL Nº 1, de 2005,
+b) Institutos profesionales;
+DFL Nº 1, de 2005,
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -897,33 +954,42 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 27]]
 
-c) Centros de formación técnica, y                              del Ministerio de d) Academia Nacional de Estudios Políticos y Estratágicos;      Educación Art. 33 Academias de Guerra y Politécnicas; Escuelas de Armas y         D.O. 21.02.2006 Especialidades de las Fuerzas Armadas; Escuela Técnica Aeronáutica de la Dirección General de Aeronáutica Civil; Academia de Ciencias Policiales de Carabineros de Chile; Escuelas Matrices de Oficiales de las Fuerzas Armadas; Escuela de Carabineros y Escuela de Suboficiales de Carabineros de Chile, la Escuela de Gendarmería de Chile; y Escuela de Investigaciones Policiales e Instituto Superior de la Policía de Investigaciones de Chile.                      Ley Nº 19.584 art.
+c) Centros de formación técnica, y
 
+d) Academia Nacional de Estudios Políticos y Estratégicos; Academias de Guerra y Politécnicas; Escuelas de Armas y Especialidades de las Fuerzas Armadas; Escuela Técnica Aeronáutica de la Dirección General de Aeronáutica Civil; Academia de Ciencias Policiales de Carabineros de Chile; Escuelas Matrices de Oficiales de las Fuerzas Armadas; Escuela de Carabineros y Escuela de Suboficiales de Carabineros de Chile, la Escuela de Gendarmería de Chile; y Escuela de Investigaciones Policiales e Instituto Superior de la Policía de Investigaciones de Chile.
+
+del Ministerio de
+Educación Art. 33
+D.O. 21.02.2006
+Ley Nº 19.584 art.
 1º letra a) D.O.
-
 10.09.1998
 
-Ley 21091
-
 #### Art. 53.
-Las universidades, los institutos                 Art. 119, N° 1 profesionales y los centros de formación técnica estatales      D.O. 29.05.2018 sólo podrán crearse por ley. Las universidades que no tengan tal carácter, deberán crearse conforme a los procedimientos establecidos en esta ley, y serán siempre corporaciones de derecho privado, sin fines de lucro para el efecto de tener reconocimiento oficial.                         Ley Nº 18.962 Art.
-
+Las universidades, los institutos profesionales y los centros de formación técnica estatales sólo podrán crearse por ley. Las universidades que no tengan tal carácter, deberán crearse conforme a los procedimientos establecidos en esta ley, y serán siempre corporaciones de derecho privado, sin fines de lucro para el efecto de tener reconocimiento oficial.
+Ley 21091
+Art. 119, N° 1
+D.O. 29.05.2018
+Ley Nº 18.962 Art.
 30 D.O. 10.03.1990
 
-Los institutos profesionales y centros de formación        DFL Nº 1, de 2005, técnica de carácter privado podrán ser creados por              del Ministerio de cualquier persona natural o jurídica en conformidad a esta      Educación Art. 34 ley, debiendo organizarse siempre como personas jurídicas       D.O. 21.02.2006 de derecho privado para el efecto de tener reconocimiento oficial. Estas entidades no podrán tener otro objeto que la creación, organización y mantención de un instituto profesional o un centro de formación técnica, según el caso; todo ello sin perjuicio de la realización de otras actividades que contribuyan a la consecución de su objeto.
+Los institutos profesionales y centros de formación técnica de carácter privado podrán ser creados por cualquier persona natural o jurídica en conformidad a esta ley, debiendo organizarse siempre como personas jurídicas de derecho privado para el efecto de tener reconocimiento oficial. Estas entidades no podrán tener otro objeto que la creación, organización y mantención de un instituto profesional o un centro de formación técnica, según el caso; todo ello sin perjuicio de la realización de otras actividades que contribuyan a la consecución de su objeto.
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 34
+D.O. 21.02.2006
 
-Los establecimientos de educación superior a que se refiere la letra d) del artículo precedente, se regirán en cuanto a su creación, funcionamiento y planes de estudios, por sus respectivos reglamentos orgánicos y de funcionamiento y se relacionarán con el Estado a través del Ministerio de Defensa Nacional, excepto la Escuela de Gendarmería de Chile, la que se relacionará con el Estado a través del Ministerio de Justicia y Derechos Humanos.         Ley 21091
-
+Los establecimientos de educación superior a que se refiere la letra d) del artículo precedente, se regirán en cuanto a su creación, funcionamiento y planes de estudios, por sus respectivos reglamentos orgánicos y de funcionamiento y se relacionarán con el Estado a través del Ministerio de Defensa Nacional, excepto la Escuela de Gendarmería de Chile, la que se relacionará con el Estado a través del Ministerio de Justicia y Derechos Humanos.
+Ley 21091
 Art. 119, N° 2
-
 D.O. 29.05.2018
 
 #### Art. 54.
-Los establecimientos de educación superior reconocidos oficialmente otorgarán títulos técnicos de nivel superior, títulos profesionales y grados académicos, según corresponda.                                              Ley Nº 18.962 Art.
+Los establecimientos de educación superior reconocidos oficialmente otorgarán títulos técnicos de nivel superior, títulos profesionales y grados académicos, según corresponda.
 
-Los centros de formación técnica sólo podrán               31 D.O. 10.03.1990 otorgar el título de técnico de nivel superior.                 DFL Nº 1, de 2005,
+Los centros de formación técnica sólo podrán otorgar el título de técnico de nivel superior.
 
-Los institutos profesionales sólo podrán otorgar           del Ministerio de títulos profesionales de aquellos que no requieran              Educación Art. 35 licenciatura, y títulos técnicos de nivel superior en las       D.O. 21.02.2006 áreas en que otorgan los anteriores.
+Los institutos profesionales sólo podrán otorgar títulos profesionales de aquellos que no requieran licenciatura, y títulos técnicos de nivel superior en las áreas en que otorgan los anteriores.
 
 Las universidades podrán otorgar títulos profesionales y toda clase de grados académicos en especial, de licenciado, magíster y doctor.
 
@@ -931,76 +997,162 @@ Corresponderá exclusivamente a las universidades otorgar títulos profesionales
 
 No obstante, el otorgamiento del título profesional de abogado corresponde a la Corte Suprema de Justicia en conformidad a la ley.
 
+Ley Nº 18.962 Art.
+31 D.O. 10.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 35
+D.O. 21.02.2006
+
 Para los efectos de lo dispuesto en este artículo se entiende que:
 
-a) El título de técnico de nivel superior es el que se otorga a un egresado de un centro de formación técnica o de un instituto profesional que ha aprobado un programa de estudios de una duración mínima de mil seiscientas clases o cuatro semestres, que le confiere la capacidad y conocimientos necesarios para desempeñarse en una especialidad de apoyo al nivel profesional.                     Ley 21091 b) El título profesional es el que se otorga a un egresado      Art. 119, N° 3 de un instituto profesional o de una universidad que ha         D.O. 29.05.2018 aprobado un programa de estudios cuyo nivel y contenido le confieren una formación general y científica necesaria para un adecuado desempeño profesional. c) El grado de licenciado es el que se otorga al alumno de una universidad que ha aprobado un programa de estudios que comprenda todos los aspectos esenciales de un área del conocimiento o de una disciplina determinada. d) El grado de magíster es el que se otorga al alumno de una universidad que ha aprobado un programa de estudios de profundización en una o más de las disciplinas de que se trate. Para optar al grado de magister se requiere tener grado de licenciado o un título profesional cuyo nivel y contenido de estudios sean equivalentes a los necesarios para obtener el grado de licenciado. e) El grado de doctor es el máximo que puede otorgar una universidad. Se confiere al alumno que ha obtenido un grado de licenciado o magíster en la respectiva disciplina y que haya aprobado un programa superior de estudios y de investigación, y acredita que quien lo posee tiene capacidad y conocimientos necesarios para efectuar investigaciones originales. En todo caso, además de la aprobación de cursos u otras actividades similares, un programa de doctorado deberá contemplar necesariamente la elaboración, defensa y aprobación de una tesis, consistente en una investigación original, desarrollada en forma autónoma y que signifique una contribución a la disciplina de que se trate.
+a) El título de técnico de nivel superior es el que se otorga a un egresado de un centro de formación técnica o de un instituto profesional que ha aprobado un programa de estudios de una duración mínima de mil seiscientas clases
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+o cuatro semestres, que le confiere la capacidad y conocimientos necesarios para desempeñarse en una especialidad de apoyo al nivel profesional.
+
+b) El título profesional es el que se otorga a un egresado de un instituto profesional o de una universidad que ha aprobado un programa de estudios cuyo nivel y contenido le confieren una formación general y científica necesaria para un adecuado desempeño profesional.
+
+c) El grado de licenciado es el que se otorga al alumno de una universidad que ha aprobado un programa de estudios que comprenda todos los aspectos esenciales de un área del conocimiento o de una disciplina determinada.
+
+d) El grado de magíster es el que se otorga al alumno de una universidad que ha aprobado un programa de estudios de profundización en una o más de las disciplinas de que se trate. Para optar al grado de magister se requiere tener grado de licenciado o un título profesional cuyo nivel y contenido de estudios sean equivalentes a los necesarios para obtener el grado de licenciado.
+
+e) El grado de doctor es el máximo que puede otorgar una universidad. Se confiere al alumno que ha obtenido un grado de licenciado o magíster en la respectiva disciplina y que haya aprobado un programa superior de estudios y de investigación, y acredita que quien lo posee tiene capacidad y conocimientos necesarios para efectuar investigaciones originales. En todo caso, además de la aprobación de cursos u otras actividades similares, un programa de doctorado deberá contemplar necesariamente la elaboración, defensa y aprobación de una tesis, consistente en una investigación original, desarrollada en forma autónoma y que signifique una contribución a la disciplina de que se trate.
+
+Ley 21091
+Art. 119, N° 3
+D.O. 29.05.2018
 
 ### Párrafo 2º Del Reconocimiento Oficial de las universidades
-Ley Nº 20.370 Art. 70 D.O. 12.09.2009
-Ley Nº 18.962 D.O. 10.03.1990 DFL Nº 1, de 2005, del Ministerio de
+Ley Nº 20.370 Art.
+70 D.O. 12.09.2009
+Ley Nº 18.962 D.O.
+10.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación D.O.
+21.02.2006
 
 #### Art. 55.
-Las universidades que no sean creadas por ley,    Educación D.O. deberán constituirse por escritura pública o por               21.02.2006 instrumento privado reducido a escritura pública, la que debe contener el acta de constitución de la entidad y los estatutos por los cuales han de regirse.                        Ley Nº 18.962 Art.
-
-44 D.O
-
+Las universidades que no sean creadas por ley, deberán constituirse por escritura pública o por instrumento privado reducido a escritura pública, la que debe contener el acta de constitución de la entidad y los estatutos por los cuales han de regirse.
+Ley Nº 18.962 Art.
+44 D.O.
 10.03.1990
 
 #### Art. 56.
-Los estatutos de las universidades deberán        DFL Nº 1, de 2005, contemplar en todo caso, lo siguiente:                          del Ministerio de
+Los estatutos de las universidades deberán contemplar en todo caso, lo siguiente:
 
+a) Individualización de sus organizadores;
+b) Indicación precisa del nombre y domicilio de la entidad;
+c) Fines que se propone;
+d) Medios económicos y financieros de que dispone para su realización. Esto último deberá acreditarse ante el Consejo Nacional de Educación;
+e) Disposiciones que establezcan la estructura de la entidad, quiénes la integrarán, sus atribuciones y duración de los respectivos cargos;
+f) Que ninguna normativa interna ni ningún acto ni contrato entre la universidad y sus estudiantes o personal académico y no académico contenga disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos;
+g) Los títulos profesionales y grados académicos de licenciado que otorgará inicialmente, y
+h) Disposiciones relativas a modificación de estatutos y a su disolución.
+
+DFL Nº 1, de 2005,
+del Ministerio de
 Educación Art.
-
-a) Individualización de sus organizadores;                      48 D.O. 21.02.2006 b) Indicación precisa del nombre y domicilio de la entidad;     Ley Nº 18.962 Art. c) Fines que se propone;                                        45 D.O. 10.03.1990 d) Medios económicos y financieros de que dispone para su       DFL Nº 1, de 2005, realización. Esto último deberá acreditarse ante el             del Ministerio de Consejo Nacional de Educación;                                  Educación Art. 49 e) Disposiciones que establezcan la estructura de la            D.O. 21.02.2006 entidad, quiénes la integrarán, sus atribuciones y              Ley Nº 20.370 Art. duración de los respectivos cargos;                             7º f) Que ninguna normativa interna ni ningún acto ni contrato     Transitorio D.O. entre la universidad y sus estudiantes o personal académico     12.09.2009 y no académico contenga disposiciones que prohíban,             Ley 20843 limiten u obstaculicen la libre organización de éstos;          Art. 1 N° 1 a) y b) g) Los títulos profesionales y grados académicos de             D.O. 18.06.2015 licenciado que otorgará inicialmente, y
-
-- Disposiciones relativas a modificación de estatutos y a su disolución.
+48 D.O. 21.02.2006
+Ley Nº 18.962 Art.
+45 D.O. 10.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 49
+D.O. 21.02.2006
+Ley Nº 20.370 Art.
+7º Transitorio D.O.
+12.09.2009
+Ley 20843
+Art. 1 N° 1 a) y b)
+D.O. 18.06.2015
 
 #### Art. 57.
-Las universidades gozarán de personalidad jurídica por el solo hecho de depositar en el Ministerio de Educación una copia debidamente autorizada, del instrumento constitutivo a que se refiere el artículo 55, el cual deberá inscribirse con su número respectivo en un registro que dicha Secretaría de Estado llevará al efecto, acompañado de copia del proyecto correspondiente.               Ley Nº 18.962 Art.
+Las universidades gozarán de personalidad jurídica por el solo hecho de depositar en el Ministerio de Educación una copia debidamente autorizada, del instrumento
+Ley Nº 18.962 Art.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+constitutivo a que se refiere el artículo 55, el cual deberá inscribirse con su número respectivo en un registro que dicha Secretaría de Estado llevará al efecto, acompañado de copia del proyecto correspondiente.
 
-En dicho registro se anotará también la disolución y       46 D.O. 10.03.1990 la cancelación de la personalidad jurídica de la                Ley Nº 18.956 Art. universidad cuando procediere.                                   20 D.O. 08.03.1990
+En dicho registro se anotará también la disolución y la cancelación de la personalidad jurídica de la universidad cuando procediere.
 
-En archivo separado se mantendrá copia de los              DFL Nº 1, de 2005, estatutos y sus modificaciones.                                 del Ministerio de
+En archivo separado se mantendrá copia de los estatutos y sus modificaciones.
 
-El registro a que se refiere este artículo se              Educación Art. 50 entenderá practicado desde el momento del depósito del          D.O. 21.02.2006 instrumento constitutivo para cuyo efecto el Ministerio debe autorizar una copia en la cual se acreditará fecha del depósito y la inserción en la misma del respectivo número del registro.
+El registro a que se refiere este artículo se entenderá practicado desde el momento del depósito del instrumento constitutivo para cuyo efecto el Ministerio debe autorizar una copia en la cual se acreditará fecha del depósito y la inserción en la misma del respectivo número del registro.
 
-#### Art. 58.
-El Ministerio de Educación no podrá negar el registro de una universidad. Sin embargo dentro del plazo de noventa días contado desde la fecha del depósito, el Ministerio podrá objetar la constitución de la universidad si no se da cumplimiento a algún requisito exigido para su constitución o si los estatutos no se ajustaren a lo prescrito en la ley.                                            Ley Nº 18.962 Art.
-
-47 D.O. 10.03.1990
-
-La universidad deberá subsanar los defectos de             Ley Nº 18.956 Art. constitución o conformar sus estatutos a las observaciones      20 D.O. 08.03.1990 formuladas por el Ministerio de Educación dentro del plazo      DFL Nº 1, de 2005, de sesenta días, contado desde la fecha en que le fueron        del Ministerio de notificadas las objeciones.                                     Educación Art. 51
-
-Vencido este plazo sin que la universidad haya             D.O. 21.02.2006 procedido a subsanar satisfactoriamente los reparos, el         Ley Nº 18.956 Art. Ministerio mediante resolución fundada, cancelará la            20 D.O. 08.03.1990 personalidad jurídica a la universidad, ordenando sea eliminada del registro respectivo.
-
-#### Art. 59.
-Procederá asimismo, la cancelación de la personalidad jurídica y la eliminación del registro correspondiente, si transcurrido el plazo de un año contado desde la fecha de obtención de la personalidad jurídica, la nueva universidad no ha dado cumplimiento, por hechos que le sean imputables, a los requisitos exigidos por esta ley para obtener su reconocimiento oficial.                         Ley Nº 18.962 Art.
-
-48 D.O. 10.03.1990 DFL Nº 1, de 2005, del Ministerio de
-
-#### Art. 60.
-Las modificaciones de los estatutos, aprobadas    Educación Art. 52 con el quórum y requisitos que éstos establezcan y              D.O. 21.02.2006 reducidas a escritura pública, deberán registrarse en el Ministerio de Educación dentro del plazo de treinta días contado desde la fecha de la escritura pública de modificación respectiva, aplicándose, además, en lo que sea pertinente, lo dispuesto en los artículos 55 y 58, de la presente ley.                                                Ley Nº 18.956 Art.
-
-20 D.O. 08.03.1990 Ley Nº 18.962 Art. 49 D.O. 10.03.1990
-
-#### Art. 61.
-Las nuevas universidades se entenderán            DFL Nº 1, de 2005, reconocidas oficialmente una vez cumplidos los siguientes       del Ministerio de requisitos:                                                     Educación Art. 53
-
+46 D.O. 10.03.1990
+Ley Nº 18.956 Art.
+20 D.O. 08.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 50
 D.O. 21.02.2006
 
-a) Estar constituidas como persona jurídica de acuerdo con      Ley Nº 18.962 Art. lo dispuesto en los artículos anteriores, lo que deberá         50 D.O. 10.03.1990 certificarse por el Ministerio de Educación;                    DFL Nº 1, de 2005, b) Contar con los recursos docentes, didácticos,                del Ministerio de económicos, financieros y físicos necesarios para ofrecer       Educación Art. 54 el o los grados académicos y el o los títulos                   D.O. 21.02.2006 profesionales que pretende otorgar, certificado por el          Ley Nº 18.956 Art. Consejo Nacional de Educación, y                                20 D.O. 08.03.1990
+#### Art. 58.
+El Ministerio de Educación no podrá negar el registro de una universidad. Sin embargo dentro del plazo de noventa días contado desde la fecha del depósito, el Ministerio podrá objetar la constitución de la universidad si no se da cumplimiento a algún requisito exigido para su constitución o si los estatutos no se ajustaren a lo prescrito en la ley.
+
+La universidad deberá subsanar los defectos de constitución o conformar sus estatutos a las observaciones formuladas por el Ministerio de Educación dentro del plazo de sesenta días, contado desde la fecha en que le fueron notificadas las objeciones.
+
+Vencido este plazo sin que la universidad haya procedido a subsanar satisfactoriamente los reparos, el Ministerio mediante resolución fundada, cancelará la personalidad jurídica a la universidad, ordenando sea eliminada del registro respectivo.
+
+Ley Nº 18.962 Art.
+47 D.O. 10.03.1990
+Ley Nº 18.956 Art.
+20 D.O. 08.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 51
+D.O. 21.02.2006
+Ley Nº 18.956 Art.
+20 D.O. 08.03.1990
+
+#### Art. 59.
+Procederá asimismo, la cancelación de la personalidad jurídica y la eliminación del registro correspondiente, si transcurrido el plazo de un año contado desde la fecha de obtención de la personalidad jurídica, la nueva universidad no ha dado cumplimiento, por hechos que le sean imputables, a los requisitos exigidos por esta ley para obtener su reconocimiento oficial.
+
+Ley Nº 18.962 Art.
+48 D.O. 10.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 52
+D.O. 21.02.2006
+
+#### Art. 60.
+Las modificaciones de los estatutos, aprobadas con el quórum y requisitos que éstos establezcan y reducidas a escritura pública, deberán registrarse en el Ministerio de Educación dentro del plazo de treinta días contado desde la fecha de la escritura pública de modificación respectiva, aplicándose, además, en lo que sea pertinente, lo dispuesto en los artículos 55 y 58, de la presente ley.
+
+Ley Nº 18.956 Art.
+20 D.O. 08.03.1990
+Ley Nº 18.962 Art.
+49 D.O. 10.03.1990
+
+#### Art. 61.
+Las nuevas universidades se entenderán reconocidas oficialmente una vez cumplidos los siguientes requisitos:
+
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 53
+D.O. 21.02.2006
+Ley Nº 18.962 Art.
+50 D.O. 10.03.1990
+
+a) Estar constituidas como persona jurídica de acuerdo con lo dispuesto en los artículos anteriores, lo que deberá certificarse por el Ministerio de Educación;
+
+b) Contar con los recursos docentes, didácticos, económicos, financieros y físicos necesarios para ofrecer el o los grados académicos y el o los títulos profesionales que pretende otorgar, certificado por el Consejo Nacional de Educación, y
+
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 54
+D.O. 21.02.2006
+Ley Nº 18.956 Art.
+20 D.O. 08.03.1990
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -1008,73 +1160,170 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 30]]
 
-c) Contar con el certificado del Consejo Nacional de            Ley Nº 20.370 Art. Educación en que conste que dicho organismo ha aprobado el      7º Transitorio D.O. respectivo proyecto institucional y sus programas correspondientes y que llevará a efecto la verificación         12.09.2009 progresiva de su desarrollo institucional.                      Ley Nº 20.370 Art.
-
+c) Contar con el certificado del Consejo Nacional de Educación en que conste que dicho organismo ha aprobado el respectivo proyecto institucional y sus programas correspondientes y que llevará a efecto la verificación progresiva de su desarrollo institucional.
+Ley Nº 20.370 Art.
 7º Transitorio D.O.
-
+12.09.2009
+Ley Nº 20.370 Art.
+7º Transitorio D.O.
 12.09.2009
 
 #### Art. 62.
-Una vez certificado el cumplimiento de los requisitos establecidos para la obtención del reconocimiento oficial, el Ministerio de Educación dentro del plazo de treinta días contado desde la fecha de recepción de los antecedentes requeridos, deberá dictar el decreto de reconocimiento oficial.                              Ley Nº 18.962 Art.
+Una vez certificado el cumplimiento de los requisitos establecidos para la obtención del reconocimiento oficial, el Ministerio de Educación dentro del plazo de treinta días contado desde la fecha de recepción de los antecedentes requeridos, deberá dictar el decreto de reconocimiento oficial.
 
-Las universidades sólo podrán iniciar sus actividades      51 D.O. 10.03.1990 docentes una vez obtenido el reconocimiento oficial.            Ley Nº 18.956 Art.
+Las universidades sólo podrán iniciar sus actividades docentes una vez obtenido el reconocimiento oficial.
 
-20 D.O. 08.03.1990 DFL Nº 1, de 2005, del Ministerio de
+Ley Nº 18.962 Art.
+51 D.O. 10.03.1990
+Ley Nº 18.956 Art.
+20 D.O. 08.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 55
+D.O. 21.02.2006
 
 #### Art. 63.
-Las nuevas universidades deberán iniciar sus      Educación Art. 55 actividades docentes ofreciendo a lo menos uno de los           D.O. 21.02.2006 títulos que, en conformidad a esta ley, requieren haber obtenido previamente a su otorgamiento, el grado académico de licenciado en una disciplina determinada. Podrán además, por cada uno de los títulos referidos, ofrecer otras carreras, siempre que estén en el área del conocimiento de los anteriores y cuyo nivel, a lo menos, sea equivalente a un grado de licenciado.                           Ley Nº 18.962 Art.
+Las nuevas universidades deberán iniciar sus actividades docentes ofreciendo a lo menos uno de los títulos que, en conformidad a esta ley, requieren haber obtenido previamente a su otorgamiento, el grado académico de licenciado en una disciplina determinada. Podrán además, por cada uno de los títulos referidos, ofrecer otras carreras, siempre que estén en el área del conocimiento de los anteriores y cuyo nivel, a lo menos, sea equivalente a un grado de licenciado.
 
+En el caso que el título ofrecido, sea el de profesor, deberán las nuevas universidades otorgar a lo menos uno de educación básica y otro de educación media. Los títulos profesionales que requieren haber obtenido el grado de licenciado a que se refiere el inciso primero son los siguientes:
+
+a) Título de Abogado: Licenciado en Ciencias Jurídicas;
+b) Título de Arquitecto: Licenciado en Arquitectura;
+c) Título de Bioquímico: Licenciado en Bioquímica;
+d) Título de Cirujano Dentista: Licenciado en Odontología;
+e) Título de Ingeniero Agrónomo: Licenciado en Agronomía;
+f) Título de Ingeniero Civil: Licenciado en Ciencias de la Ingeniería;
+g) Título de Ingeniero Comercial: Licenciado en Ciencias Económicas o Licenciado en Ciencias en la Administración de empresas;
+h) Título de Ingeniero Forestal: Licenciado en Ingeniería Forestal;
+i) Título de Médico Cirujano: Licenciado en Medicina;
+j) Título de Médico Veterinario: Licenciado en Medicina Veterinaria;
+k) Título de Psicólogo: Licenciado en Psicología;
+l) Título de Químico Farmacéutico: Licenciado en Farmacia;
+m) Título de Profesor de Educación Básica: Licenciado en Educación;
+n) Título de Profesor de Educación Media en las asignaturas científico-humanísticas: Licenciado en Educación;
+ñ) Título de Profesor de Educación Diferencial: Licenciado en Educación;
+o) Título de Educador de Párvulos: Licenciado en Educación;
+p) Título de Periodista: Licenciado en Comunicación Social, y
+q) Título de Trabajador Social o Asistente social: Licenciado en Trabajo Social o en Servicio Social, respectivamente.
+
+Ley Nº 18.962 Art.
 52 D.O. 10.03.1990
-
-En el caso que el título ofrecido, sea el de profesor,     DFL Nº 1, de 2005, deberán las nuevas universidades otorgar a lo menos uno de      del Ministerio de educación básica y otro de educación media. Los títulos         Educación Art. 56 profesionales que requieren haber obtenido el grado de          D.O. 21.02.2006 licenciado a que se refiere el inciso primero son los siguientes:
-
-a) Título de Abogado: Licenciado en Ciencias Jurídicas; b) Título de Arquitecto: Licenciado en Arquitectura; c) Título de Bioquímico: Licenciado en Bioquímica; d) Título de Cirujano Dentista: Licenciado en Odontología; e) Título de Ingeniero Agrónomo: Licenciado en Agronomía; f) Título de Ingeniero Civil: Licenciado en Ciencias de la Ingeniería; g) Título de Ingeniero Comercial: Licenciado en Ciencias Económicas o Licenciado en Ciencias en la Administración de empresas; h) Título de Ingeniero Forestal: Licenciado en Ingeniería Forestal; i) Título de Médico Cirujano: Licenciado en Medicina; j) Título de Médico Veterinario: Licenciado en Medicina Veterinaria; k) Título de Psicólogo: Licenciado en Psicología; l) Título de Químico Farmacéutico: Licenciado en Farmacia; m) Título de Profesor de Educación Básica: Licenciado en Educación; n) Título de Profesor de Educación Media en las asignaturas científico-humanísticas: Licenciado en Educación; ñ) Título de Profesor de Educación Diferencial: Licenciado en Educación; o) Título de Educador de Párvulos: Licenciado en Educación;                                                      Ley Nº 19.054 Art. p) Título de Periodista: Licenciado en Comunicación             2º Nº 1), letras Social, y                                                       a) y q) Título de Trabajador Social o Asistente social:              b) D.O. 13.04.1991 Licenciado en Trabajo Social o en Servicio Social,              Ley Nº 19.054 Art. respectivamente.                                                2º Nº 1), letra c)
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 56
+D.O. 21.02.2006
+Ley Nº 19.054 Art.
+2º Nº 1), letras
+a) y
+b) D.O. 13.04.1991
+Ley Nº 19.054 Art.
+2º Nº 1), letra c)
+D.O. 13.04.1991
 
 #### Art. 64.
-Por decreto supremo fundado del Ministerio de     D.O. 13.04.1991 Educación, previo acuerdo del Consejo Nacional de               Ley Nº 20.054, Art. Educación, adoptado por mayoría de sus miembros, en sesión convocada a ese solo efecto, y escuchada la entidad      1º Nº 1 D.O. afectada, se cancelará la personalidad jurídica y               27.09.2005 revocará el reconocimiento oficial a una universidad, en        Ley Nº 19.054 Art. los siguientes casos:                                           2º Nº 1), letra c)
+Por decreto supremo fundado del Ministerio de Educación, previo acuerdo del Consejo Nacional de Educación, adoptado por mayoría de sus miembros, en
+Ley Nº 20.054, Art.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+sesión convocada a ese solo efecto, y escuchada la entidad afectada, se cancelará la personalidad jurídica y revocará el reconocimiento oficial a una universidad, en los siguientes casos:
 
-a) Si ella no cumple con sus objetivos estatutarios;            D.O. 13.04.1991 b) Si realizare actividades contrarias a la moral, al orden     Ley Nº 20.054, Art. público, a las buenas costumbres y a la seguridad nacional; c) Si incurriere en infracciones graves a sus estatutos;        1º Nº 2 D.O. d) Si dejare de otorgar títulos profesionales de aquellos       27.09.2005 que requieren haber obtenido previamente el grado de            Ley Nº 20.054, Art. licenciado.
+a) Si ella no cumple con sus objetivos estatutarios;
+b) Si realizare actividades contrarias a la moral, al orden público, a las buenas costumbres y a la seguridad nacional;
+c) Si incurriere en infracciones graves a sus estatutos;
+d) Si dejare de otorgar títulos profesionales de aquellos que requieren haber obtenido previamente el grado de licenciado.
 
+En la fundamentación del decreto respectivo deberá dejarse constancia de la causal que originó la cancelación de la personalidad jurídica y la revocación del reconocimiento oficial.
+
+En los casos en que la causal respectiva se verifique sólo respecto de una o más carreras o sedes de una determinada universidad, el Ministerio podrá disponer que solamente se revoque el reconocimiento oficial respecto de la carrera o sede afectada, subsistiendo la personalidad jurídica y el reconocimiento oficial de la institución.
+
+Será responsabilidad del Ministerio velar por el adecuadoresguardo de la información acerca de los procesos iniciados en virtud de este artículo hasta que se haya dictado la resolución definitiva y no queden recursos pendientes por parte de la entidad afectada.
+
+1º Nº 1 D.O.
+27.09.2005
+Ley Nº 19.054 Art.
+2º Nº 1), letra c)
+D.O. 13.04.1991
+Ley Nº 20.054, Art.
+1º Nº 2 D.O.
+27.09.2005
+Ley Nº 20.054, Art.
 1º Nº 3 D.O.
-
-En la fundamentación del decreto respectivo deberá         27.09.2005 dejarse constancia de la causal que originó la cancelación      Ley Nº 18.962 Art. de la personalidad jurídica y la revocación del                 53 D.O. 10.03.1990 reconocimiento oficial.                                         Ley Nº 18.956 Art.
-
-En los casos en que la causal respectiva se verifique      20 D.O. 08.03.1990 sólo respecto de una o más carreras o sedes de una              DFL Nº 1, de 2005, determinada universidad, el Ministerio podrá disponer que       del Ministerio de solamente se revoque el reconocimiento oficial respecto de      Educación Art. 57 la carrera o sede afectada, subsistiendo la personalidad        D.O. 21.02.2006 jurídica y el reconocimiento oficial de la institución.         Ley Nº 20.129 Art.
-
-Será responsabilidad del Ministerio velar por el           55 Nº 8 D.O. adecuadoresguardo de la información acerca de los procesos      17.11.2006 iniciados en virtud de este artículo hasta que se haya          Ley Nº 20.370 Art. dictado la resolución definitiva y no queden recursos           7º Transitorio D.O. pendientes por parte de la entidad afectada.
-
-12.09.2009
-
+27.09.2005
+Ley Nº 18.962 Art.
+53 D.O. 10.03.1990
+Ley Nº 18.956 Art.
+20 D.O. 08.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 57
+D.O. 21.02.2006
 Ley Nº 20.129 Art.
-
+55 Nº 8 D.O.
+17.11.2006
+Ley Nº 20.370 Art.
+7º Transitorio D.O.
+12.09.2009
+Ley Nº 20.129 Art.
 55 Nº 9 D.O.
+17.11.2006
 
 #### Art. 65.
-La sanción de cancelación de la personalidad      17.11.2006 jurídica implica la revocación del reconocimiento oficial.       Ley Nº 20.129 Art.
-
+La sanción de cancelación de la personalidad jurídica implica la revocación del reconocimiento oficial.
+Ley Nº 20.129 Art.
 55 Nº 10 D.O.
-
 17.11.2006
 
 #### Art. 66.
-La universidad se disolverá en la forma           Ley Nº 18.962 Art. establecida en sus estatutos, sin perjuicio de la decisión      54 D.O. 10.03.1990 de la autoridad competente que ordene la cancelación de su      DFL Nº 1, de 2005, personalidad jurídica. del Ministerio de
-
+La universidad se disolverá en la forma establecida en sus estatutos, sin perjuicio de la decisión de la autoridad competente que ordene la cancelación de su personalidad jurídica.
+Ley Nº 18.962 Art.
+54 D.O. 10.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
 Educación Art. 58
+D.O. 21.02.2006
 
 ### Párrafo 3º Del Reconocimiento Oficial de los institutos profesionales
-D.O. 21.02.2006 Ley Nº 18.962 Art. 55 D.O. 10.03.1990
+Ley Nº 18.962 Art.
+55 D.O. 10.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 59
+D.O. 21.02.2006
+Ley Nº 18.962
+D.O. 10.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación D.O.
+21.02.2006
 
-DFL Nº 1, de 2005, del Ministerio de Educación Art. 59
 #### Art. 67.
-Los institutos profesionales que no sean          D.O. 21.02.2006 creados por ley deberán organizarse como personas               Ley Nº 18.962 jurídicas de derecho privado, de acuerdo a lo dispuesto en      D.O. 10.03.1990 el artículo 53 inciso segundo de esta ley.                      DFL Nº 1, de 2005, Los instrumentos constitutivos de las personas             del Ministerio de jurídicas organizadoras de institutos profesionales             Educación D.O. deberán contemplar en todo caso lo siguiente:                   21.02.2006 Ley Nº 18.962 Art.
+Los institutos profesionales que no sean creados por ley deberán organizarse como personas jurídicas de derecho privado, de acuerdo a lo dispuesto en el artículo 53 inciso segundo de esta ley.
 
-a) Individualización de sus organizadores;                      56 D.O. 10.03.1990 b) Indicación precisa del nombre y domicilio de la entidad;     DFL Nº 1, de 2005, c) Fines que se propone;                                        del Ministerio de d) Medios económicos y financieros de que dispone para la       Educación Art. 60 realización de sus objetivos. Esto último deberá                D.O. 21.02.2006 acreditarse ante el Consejo Nacional de Educación;              Ley Nº 20.370 Art. e) Disposiciones que establezcan la estructura de la            7º entidad, quiénes la integran, sus atribuciones y duración       Transitorio D.O. de los respectivos cargos;                                      12.09.2009 f) Que ninguna normativa interna ni ningún acto ni contrato entre el instituto profesional y sus estudiantes o personal académico y no académico contenga disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos, y                                                        Ley 20843 g) Disposiciones relativas a la disolución de la entidad y      Art. 1 N° 2 a) y b)
+Los instrumentos constitutivos de las personas jurídicas organizadoras de institutos profesionales deberán contemplar en todo caso lo siguiente:
+
+a) Individualización de sus organizadores;
+b) Indicación precisa del nombre y domicilio de la entidad;
+c) Fines que se propone;
+d) Medios económicos y financieros de que dispone para la realización de sus objetivos. Esto último deberá acreditarse ante el Consejo Nacional de Educación;
+e) Disposiciones que establezcan la estructura de la entidad, quiénes la integran, sus atribuciones y duración de los respectivos cargos;
+f) Que ninguna normativa interna ni ningún acto ni contrato entre el instituto profesional y sus estudiantes o personal académico y no académico contenga disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos, y
+g) Disposiciones relativas a la disolución de la entidad y
+
+Ley Nº 18.962 Art.
+56 D.O. 10.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 60
+D.O. 21.02.2006
+Ley Nº 20.370 Art.
+7º Transitorio D.O.
+12.09.2009
+Ley 20843
+Art. 1 N° 2 a) y b)
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -1110,11 +1359,26 @@ Las modificaciones del instrumento                Educación Art. 63 constitutiv
 
 60 D.O. 10.03.1990 Ley Nº 18.956 Art. 20 D.O. 08.03.1990
 #### Art. 72.
-Los institutos profesionales se entenderán        DFL Nº 1, de 2005, reconocidos oficialmente una vez que hubieren cumplido los      del Ministerio de siguientes requisitos:                                          Educación Art. 64 D.O. 21.02.2006 a) Estar inscritos en el Registro de Institutos                 Ley Nº 18.962 Art. Profesionales según lo establece el artículo 68;                61 D.O. 10.03.1990 DFL Nº 1, de 2005,
+Los institutos profesionales se entenderán reconocidos oficialmente una vez que hubieren cumplido los siguientes requisitos:
 
-- Contar con los recursos docentes, didácticos,                del Ministerio de económicos, financieros y físicos necesarios para cumplir       Educación Art. 65 sus fines, debidamente certificado por el Consejo Nacional      D.O. 21.02.2006 de Educación, y                                                 Ley Nº 20.370 Art.
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 64
+D.O. 21.02.2006
 
-- Contar con el certificado del Consejo Nacional de            7º Transitorio D.O.
+a) Estar inscritos en el Registro de Institutos Profesionales según lo establece el artículo 68;
+Ley Nº 18.962 Art.
+61 D.O. 10.03.1990
+
+b) Contar con los recursos docentes, didácticos, económicos, financieros y físicos necesarios para cumplir sus fines, debidamente certificado por el Consejo Nacional de Educación, y
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 65
+D.O. 21.02.2006
+
+c) Contar con el certificado del Consejo Nacional de
+Ley Nº 20.370 Art.
+7º Transitorio D.O.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -1151,22 +1415,33 @@ Ley Nº 18.962 D.O.
 10.03.1990
 DFL Nº 1, de 2005, del Ministerio de
 
+Educación D.O.
+21.02.2006
+
 #### Art. 75.
-Los centros de formación técnica que no sean      Educación D.O. creados por ley deberán organizarse como personas               21.02.2006 jurídicas de derecho privado, de acuerdo a lo dispuesto en el artículo 53 inciso segundo de esta ley.                      Ley Nº 18.962 Art. Los instrumentos constitutivos de las personas             64 D.O. 10.03.1990 jurídicas organizadoras de centros de formación técnica         DFL Nº 1, de 2005, deberán contemplar en todo caso lo siguiente:                   del Ministerio de
+Los centros de formación técnica que no sean creados por ley deberán organizarse como personas jurídicas de derecho privado, de acuerdo a lo dispuesto en el artículo 53 inciso segundo de esta ley.
 
+Los instrumentos constitutivos de las personas jurídicas organizadoras de centros de formación técnica deberán contemplar en todo caso lo siguiente:
+
+a) Individualización de sus organizadores;
+b) Indicación precisa del nombre y domicilio de la entidad;
+c) Fines que se propone;
+d) Medios económicos y financieros de que dispone para la realización de sus objetivos. Esto último deberá acreditarse ante el Consejo Nacional de Educación;
+e) Disposiciones que establezcan la estructura de la entidad, quiénes la integran, sus atribuciones y duración de los respectivos cargos;
+f) Que ninguna normativa interna ni ningún acto ni contrato entre el instituto profesional y sus estudiantes o personal
+
+Ley Nº 18.962 Art.
+64 D.O. 10.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
 Educación Art. 68
-
-- Individualización de sus organizadores;                      D.O. 21.02.2006
-
-- Indicación precisa del nombre y domicilio de la entidad;
-
-- Fines que se propone;
-
-- Medios económicos y financieros de que dispone para la realización de sus objetivos. Esto último deberá
-
-- acreditarse ante el Consejo Nacional de Educación;              Ley Nº 18.956 Art. e) Disposiciones que establezcan la estructura de la            20 D.O. 08.03.1990 entidad, quiénes la integran, sus atribuciones y duración       Ley Nº 20.129 Art. de los respectivos cargos;                                      55 Nº 13 D.O.
-
-- Que ninguna normativa interna ni ningún acto ni contrato     17.11.2006 entre el instituto profesional y sus estudiantes o personal     Ley Nº 20.370 Art.
+D.O. 21.02.2006
+Ley Nº 18.956 Art.
+20 D.O. 08.03.1990
+Ley Nº 20.129 Art.
+55 Nº 13 D.O.
+17.11.2006
+Ley Nº 20.370 Art.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -1181,15 +1456,13 @@ Los centros de formación técnica para poder solicitar el reconocimiento oficia
 
 El Ministerio de Educación con el solo mérito de los       65 D.O. 10.03.1990 antecedentes mencionados inscribirá al centro de formación      Ley Nº 18.956 Art. técnica en un registro que llevará al efecto.                   20 D.O. 08.03.1990
 
-- En dicho registro se anotarán también las                  DFL Nº 1, de 2005, modificaciones al instrumento constitutivo, la disolución y     del Ministerio de la revocación del reconocimiento oficial del centro de          Educación Art. formación técnica, cuando correspondiere.                       69 D.O. 21.02.2006
+En dicho registro se anotarán también las modificaciones al instrumento constitutivo, la disolución y la revocación del reconocimiento oficial del centro de formación técnica, cuando correspondiere.                       DFL Nº 1, de 2005, del Ministerio de Educación Art. 69 D.O. 21.02.2006
 
 En archivo separado se mantendrá copia del instrumento     Ley Nº 20.129 Art. constitutivo y de sus modificaciones.                           55 Nº 14 letra a)
 
 El registro a que se refiere este artículo, se             D.O. 17.11.2006 entenderá practicado desde el momento de la entrega del         Ley Nº 18.956 Art. instrumento constitutivo, para cuyo efecto, el Ministerio       20 D.O. 08.03.1990 deberá autorizar una copia en la cual se acredite la fecha      Ley Nº 20.129 Art. con el número del registro respectivo. 55 Nº 14 letra b)
 
 D.O. 17.11.2006
-
-Ley Nº 20.129 Art.
 
 Ley Nº 20.129 Art.
 #### Art. 77.
@@ -1255,70 +1528,118 @@ La Academia Nacional de Estudios Políticos y               71 D.O. 10.03.1990 E
 75 D.O. 21.02.2006
 
 #### Art. 83.
-Las Academias de Guerra de las Fuerzas Armadas, las Academias Politécnicas Militar, Naval y Aeronáutica, la Escuela Técnica de la Dirección General de Aeronáutica Civil, la Academia de Ciencias Policiales de Carabineros de Chile y el Instituto Superior de la Policía de Investigaciones de Chile podrán otorgar, además de títulos profesionales, toda clase de grados académicos. En especial, podrán otorgar los grados de licenciado, magíster y doctor en los ámbitos inherentes a sus respectivos quehaceres profesionales.                           Ley Nº 18.962 Art.
+Las Academias de Guerra de las Fuerzas Armadas, las Academias Politécnicas Militar, Naval y Aeronáutica, la Escuela Técnica de la Dirección General de Aeronáutica Civil, la Academia de Ciencias Policiales de
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+Carabineros de Chile y el Instituto Superior de la Policía de Investigaciones de Chile podrán otorgar, además de títulos profesionales, toda clase de grados académicos. En especial, podrán otorgar los grados de licenciado, magíster y doctor en los ámbitos inherentes a sus respectivos quehaceres profesionales.
 
-La Academia Nacional de Estudios Políticos y               72 D.O. 10.03.1990 Estratégicos podrá también otorgar toda clase de grados         Ley Nº 19.584 Art. académicos.                                                     1 d) D.O. 10.09.1998
+La Academia Nacional de Estudios Políticos y Estratégicos podrá también otorgar toda clase de grados académicos.
 
-Asimismo, la Escuela Militar, la Escuela Naval, la         DFL Nº 1, de 2005, Escuela de Aviación, la Escuela de Carabineros y la Escuela     del Ministerio de de Investigaciones Policiales, en lo que corresponda a          Educación Art. estudios superiores, podrán otorgar títulos profesionales       76 D.O. 21.02.2006 propios de la especificidad de su función militar o policial, según sea el caso, de acuerdo con la naturaleza de la enseñanza impartida y en el ámbito de su competencia.
+Asimismo, la Escuela Militar, la Escuela Naval, la Escuela de Aviación, la Escuela de Carabineros y la Escuela de Investigaciones Policiales, en lo que corresponda a estudios superiores, podrán otorgar títulos profesionales propios de la especificidad de su función militar o policial, según sea el caso, de acuerdo con la naturaleza de la enseñanza impartida y en el ámbito de su competencia.
 
 Estos títulos profesionales y grados académicos serán equivalentes, para todos los efectos legales, a los de similares características que otorguen las otras instituciones de educación reconocidas por el Estado, como universidades e institutos profesionales.
 
+Ley Nº 18.962 Art.
+72 D.O. 10.03.1990
+Ley Nº 19.584 Art.
+1 d) D.O. 10.09.1998
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art.
+76 D.O. 21.02.2006
+
 #### Art. 84.
-Las Escuelas de Armas y Especialidades de las Fuerzas Armadas, la Escuela Técnica Aeronáutica de la Dirección General de Aeronáutica Civil y la Escuela de Suboficiales de Carabineros podrán otorgar títulos técnicos de nivel superior según corresponda a la naturaleza de la enseñanza impartida y en el ámbito de su competencia.                                                    Ley Nº 18.962 Art.
+Las Escuelas de Armas y Especialidades de las Fuerzas Armadas, la Escuela Técnica Aeronáutica de la Dirección General de Aeronáutica Civil y la Escuela de Suboficiales de Carabineros podrán otorgar títulos técnicos de nivel superior según corresponda a la naturaleza de la enseñanza impartida y en el ámbito de su competencia.
 
-Estos títulos técnicos de nivel superior de los            73 D.O. 10.03.1990 establecimientos de educación superior, referidos en el         DFL Nº 1, de 2005, inciso anterior, serán equivalentes a los de similar            del Ministerio de carácter conferidos por los demás establecimientos de           Educación Art. 77 educación superior y reconocidos como tales para todos los      D.O. 21.02.2006 efectos legales.                                                Ley Nº 19.584 Art.
+Estos títulos técnicos de nivel superior de los establecimientos de educación superior, referidos en el inciso anterior, serán equivalentes a los de similar carácter conferidos por los demás establecimientos de educación superior y reconocidos como tales para todos los efectos legales.
 
+Ley Nº 18.962 Art.
+73 D.O. 10.03.1990
+DFL Nº 1, de 2005,
+del Ministerio de
+Educación Art. 77
+D.O. 21.02.2006
+Ley Nº 19.584 Art.
 1º letra e) D.O.
-
 10.09.1998
 
 #### Artículo 84 bis.-
-La Escuela de Gendarmería de Chile       Ley Nº 18.962 Art. desarrolla actividades docentes, de investigación y             74 D.O. 10.03.1990 extensión de nivel superior, cuyo objetivo fundamental es formar profesionales y técnicos con los conocimientos necesarios para el cumplimiento de las funciones institucionales que les encomienda la ley.                      Ley 21091
+La Escuela de Gendarmería de Chile desarrolla actividades docentes, de investigación y extensión de nivel superior, cuyo objetivo fundamental es formar profesionales y técnicos con los conocimientos necesarios para el cumplimiento de las funciones institucionales que les encomienda la ley.
 
-En ese sentido, podrá otorgar títulos profesionales y      Art. 119, N° 5 técnicos de nivel superior propios de su quehacer, de           D.O. 29.05.2018 acuerdo con la naturaleza de la enseñanza impartida y en el ámbito de su competencia.
+En ese sentido, podrá otorgar títulos profesionales y técnicos de nivel superior propios de su quehacer, de acuerdo con la naturaleza de la enseñanza impartida y en el ámbito de su competencia.
 
 Los títulos técnicos de nivel superior y profesionales referidos en el inciso anterior serán equivalentes a los de similar carácter conferidos por los demás establecimientos de educación superior y reconocidos como tales para todos los efectos legales.
+
+Ley Nº 18.962 Art.
+74 D.O. 10.03.1990
+Ley 21091
+Art. 119, N° 5
+D.O. 29.05.2018
 
 ## TÍTULO IV Del Consejo Nacional de Educación
 Ley Nº 20.370 D.O.
 12.09.2009
 
 #### Art. 85.
-Créase el Consejo Nacional de Educación, en adelante "el Consejo", organismo autónomo, con personalidad jurídica y patrimonio propio, que se relacionará con el Presidente de la República a través del Ministerio de Educación.                                                      Ley Nº 20.370 Art.
-
+Créase el Consejo Nacional de Educación, en adelante "el Consejo", organismo autónomo, con personalidad jurídica y patrimonio propio, que se relacionará con el Presidente de la República a través del Ministerio de Educación.
+Ley Nº 20.370 Art.
 52 D.O. 12.09.2009
 
 #### Art. 86.
-Serán funciones del Consejo, en materia de educación regular parvularia, básica y media, y en las modalidades de educación de adultos y especial o diferencial:                                                    Ley Nº 20.370 Art.
+Serán funciones del Consejo, en materia de educación regular parvularia, básica y media, y en las
+Ley Nº 20.370 Art.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
-
+modalidades de educación de adultos y especial o diferencial:
+Ley Nº 20.370 Art.
 53 D.O. 12.09.2009
 
-- Aprobar o formular observaciones fundadas a las bases curriculares para cada uno de los niveles de la educación regular parvularia, básica y media, y para las formaciones diferenciadas que existan o pudieren crearse en educación media, para las modalidades de educación de adultos y especial o diferencial, y para las modalidades que pudieren
+a) Aprobar o formular observaciones fundadas a las bases curriculares para cada uno de los niveles de la educación regular parvularia, básica y media, y para las formaciones diferenciadas que existan o pudieren crearse en educación media, para las modalidades de educación de adultos y especial o diferencial, y para las modalidades que pudieren crearse.
 
-- crearse. b) Aprobar o formular observaciones a las adecuaciones curriculares para poblaciones específicas, incluidas, entre otras, los pueblos originarios y los talentos. c) Aprobar los planes y programas para la educación básica y media, y para la educación de adultos, elaborados por el Ministerio de Educación. Dichos planes y programas serán obligatorios para aquellos establecimientos que no tengan propios. d) Servir de única instancia en los procesos de reclamación de las decisiones del Ministerio de Educación de objetar los planes y programas que se le presenten para su aprobación. e) Informar favorablemente o con observaciones el plan de evaluación de los objetivos de aprendizaje determinados en las bases curriculares de educación básica y media. f) Informar favorablemente o con observaciones los estándares de calidad propuestos por el Ministerio de Educación. g) Informar favorablemente o con observaciones las normas sobre calificación y promoción, dictadas por el Ministerio de Educación. h) Asesorar al Ministro de Educación en las materias que éste le consulte. i) Las demás que esta ley y leyes especiales establezcan.
+b) Aprobar o formular observaciones a las adecuaciones curriculares para poblaciones específicas, incluidas, entre otras, los pueblos originarios y los talentos.
 
-En los casos de las letras a), b), c), e), f) y g), el Consejo deberá pronunciarse en el plazo máximo de sesenta días contado desde la recepción de la solicitud indicado, se entenderá aprobada dicha solicitud.
+c) Aprobar los planes y programas para la educación básica y media, y para la educación de adultos, elaborados por el Ministerio de Educación. Dichos planes y programas serán obligatorios para aquellos establecimientos que no tengan propios.
 
-Cuando el Consejo formulare observaciones, el Ministerio de Educación deberá reingresar la solicitud, días, contado desde el reingreso de la solicitud, para aprobarla o rechazarla.
+d) Servir de única instancia en los procesos de reclamación de las decisiones del Ministerio de Educación de objetar los planes y programas que se le presenten para su aprobación.
 
-respectiva. Si el Consejo no se pronunciare dentro del plazo informando acerca de la forma en que fueron subsanadas, teniendo el Consejo un plazo máximo de cuarenta y cinco
+e) Informar favorablemente o con observaciones el plan de evaluación de los objetivos de aprendizaje determinados en las bases curriculares de educación básica y media.
+
+f) Informar favorablemente o con observaciones los estándares de calidad propuestos por el Ministerio de Educación.
+
+g) Informar favorablemente o con observaciones las normas sobre calificación y promoción, dictadas por el Ministerio de Educación.
+
+h) Asesorar al Ministro de Educación en las materias que éste le consulte.
+
+i) Las demás que esta ley y leyes especiales establezcan.
+
+En los casos de las letras a), b), c), e), f) y g), el Consejo deberá pronunciarse en el plazo máximo de sesenta días contado desde la recepción de la solicitud respectiva. Si el Consejo no se pronunciare dentro del plazo indicado, se entenderá aprobada dicha solicitud.
+
+Cuando el Consejo formulare observaciones, el Ministerio de Educación deberá reingresar la solicitud, informando acerca de la forma en que fueron subsanadas, teniendo el Consejo un plazo máximo de cuarenta y cinco días, contado desde el reingreso de la solicitud, para aprobarla o rechazarla.
 
 #### Art. 87.
-Serán funciones del Consejo, en materia de
+Serán funciones del Consejo, en materia de educación superior:
+Ley Nº 20.370 Art.
+54 D.O. 12.09.2009
 
-- educación superior:                                             Ley Nº 20.370 Art. a) Administrar el sistema de licenciamiento de las nuevas       54 D.O. 12.09.2009 instituciones de educación superior, en conformidad a las normas establecidas en la ley. b) Pronunciarse sobre los proyectos institucionales presentados por las nuevas instituciones de educación superior para efectos de su reconocimiento oficial. c) Verificar el desarrollo de los proyectos institucionales de las nuevas instituciones de educación superior que hayan sido aprobados. d) Establecer sistemas de examinación selectiva para las asignaturas o cursos de las carreras impartidas por las instituciones de educación adscritas a procesos de licenciamiento. Esta examinación tendrá por objeto evaluar el cumplimiento de los planes y programas de estudio y el rendimiento de los alumnos. e) Solicitar al Ministerio de Educación, de manera fundada, la revocación del reconocimiento oficial de las universidades, institutos profesionales y centros de formación técnica en proceso de licenciamiento. f) Administrar el proceso de revocación del reconocimiento oficial de las instituciones adscritas al sistema de
+a) Administrar el sistema de licenciamiento de las nuevas instituciones de educación superior, en conformidad a las normas establecidas en la ley.
+
+b) Pronunciarse sobre los proyectos institucionales presentados por las nuevas instituciones de educación superior para efectos de su reconocimiento oficial.
+
+c) Verificar el desarrollo de los proyectos institucionales de las nuevas instituciones de educación superior que hayan sido aprobados.
+
+d) Establecer sistemas de examinación selectiva para las asignaturas o cursos de las carreras impartidas por las instituciones de educación adscritas a procesos de licenciamiento. Esta examinación tendrá por objeto evaluar el cumplimiento de los planes y programas de estudio y el rendimiento de los alumnos.
+
+e) Solicitar al Ministerio de Educación, de manera fundada, la revocación del reconocimiento oficial de las universidades, institutos profesionales y centros de formación técnica en proceso de licenciamiento.
+
+f) Administrar el proceso de revocación del reconocimiento oficial de las instituciones adscritas al sistema de
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
@@ -1394,15 +1715,15 @@ conocer del asunto respecto del cual se configure la causal.    Ley Nº 20.370 A
 
 La inhabilidad específica a que se refiere el inciso       61 D.O. 12.09.2009 anterior se configura respecto del consejero que, en el caso particular sometido a su conocimiento, se encuentre en alguna de las siguientes circunstancias:
 
-- Desarrollar actividades que impliquen algún vínculo patrimonial o laboral con el o los establecimientos educacionales o instituciones de educación superior correspondientes.
+a) Desarrollar actividades que impliquen algún vínculo patrimonial o laboral con el o los establecimientos educacionales o instituciones de educación superior correspondientes.
 
-- Mantener con el o los establecimientos educacionales o instituciones de educación superior correspondientes alguna de las relaciones descritas en los artículos 96, 97, 98, 99 y 100 de la ley Nº 18.045.
+b) Mantener con el o los establecimientos educacionales o instituciones de educación superior correspondientes alguna de las relaciones descritas en los artículos 96, 97, 98, 99 y 100 de la ley Nº 18.045.
 
-- Desempeñarse como evaluador, a cualquier título, de la o las instituciones de educación superior correspondientes sujetas al régimen de acreditación contemplado en la ley Nº 20.129.
+c) Desempeñarse como evaluador, a cualquier título, de la o las instituciones de educación superior correspondientes sujetas al régimen de acreditación contemplado en la ley Nº 20.129.
 
-- Participar en la agencia acreditadora cuyo informe conozca el Consejo, ya sea en cuanto a su propiedad o intereses patrimoniales, o desarrollar labores remuneradas en ella.
+d) Participar en la agencia acreditadora cuyo informe conozca el Consejo, ya sea en cuanto a su propiedad o intereses patrimoniales, o desarrollar labores remuneradas en ella.
 
-- Desempeñarse como docente o académico en el o los establecimientos educacionales o instituciones de educación superior correspondientes.
+e) Desempeñarse como docente o académico en el o los establecimientos educacionales o instituciones de educación superior correspondientes.
 
 Los miembros del Consejo respecto de los cuales se haya verificado alguna de las circunstancias antes descritas sin que se hubieren inhabilitado en el caso específico sometido a su conocimiento, en conformidad a lo dispuesto en el inciso primero, serán suspendidos en sus cargos y no podrán cumplir funciones similares en el Consejo por un periodo de cinco años.
 
@@ -1414,14 +1735,14 @@ La inhabilidad a que se refiere el inciso anterior se extenderá por seis meses 
 
 La infracción a lo establecido en los incisos precedentes, será sancionada con una multa, a beneficio fiscal, de 300 unidades tributarias mensuales, para la persona natural infractora, y de 1.000 unidades tributarias mensuales para la institución de educación superior que hubiere efectuado la contratación a que hacen referencia los incisos precedentes.
 
-El Ministerio de Educación y el Consejo Nacional de Educación tendrán la obligación de interponer la respectiva acción contra la persona que incurra en la prohibición establecida en el inciso quinto de este artículo.
+El Ministerio de Educación y el Consejo Nacional de Educación tendrán la obligación de interponer la respectiva acción contra la persona que incurra en la
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
-
+prohibición establecida en el inciso quinto de este artículo.
 De las infracciones a lo establecido en los incisos quinto y sexto de este artículo conocerán los juzgados de letras del domicilio del infractor y se tramitarán de acuerdo a las normas del juicio sumario del Título XI del Libro Tercero del Código de Procedimiento Civil.
 
 #### Art. 95.
@@ -1444,14 +1765,16 @@ Acreditación
 
 Apelaciones                    15% monto Institucional                  arancel acreditación Carreras                       15% monto Pregrado                       arancel acreditación Carreras                       15% monto Postgrado                      arancel acreditación Agencias 15% monto arancel acreditación
 
-Los aranceles fijados en este artículo podrán pagarse hasta en diez mensualidades. Dichos aranceles constituirán ingresos propios del Consejo Nacional de Educación.
+Los aranceles fijados en este artículo podrán pagarse hasta en diez mensualidades.
+
+Dichos aranceles constituirán ingresos propios del
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
-
+Consejo Nacional de Educación.
 #### Art. 97.
 El licenciamiento comprende la aprobación del proyecto institucional y el proceso que permite evaluar el avance y concreción del proyecto educativo de la nueva entidad, a través de variables significativas de su desarrollo, tales como docentes, didácticas, técnico-pedagógicas, programas de estudios, físicos y de infraestructura, así como los recursos económicos y financieros necesarios para otorgar los grados académicos y los títulos de que se trate.                                    Ley Nº 20.370 Art.
 
@@ -1478,17 +1801,23 @@ En caso que las observaciones formuladas no se subsanen oportunamente, el Consej
 Cuando el incumplimiento reiterado de las observaciones formuladas por el Consejo afectare el desempeño general de la institución, el Consejo podrá solicitar fundadamente al Ministerio de Educación la revocación del reconocimiento oficial de la respectiva universidad, instituto profesional o centro de formación técnica.
 
 #### Art. 100.
-Las universidades, institutos profesionales y centros de formación técnica que, al cabo de seis años de licenciamiento hubieren desarrollado su proyecto satisfactoriamente a juicio del Consejo, alcanzarán su plena autonomía y podrán otorgar toda clase de títulos y grados académicos en forma independiente, lo que deberá ser certificado por éste.                                       Ley Nº 20.370 Art.
+Las universidades, institutos profesionales y
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
+centros de formación técnica que, al cabo de seis años de licenciamiento hubieren desarrollado su proyecto satisfactoriamente a juicio del Consejo, alcanzarán su plena autonomía y podrán otorgar toda clase de títulos y grados académicos en forma independiente, lo que deberá ser certificado por éste.
+Ley Nº 20.370 Art.
+67 D.O. 12.09.2009
 
-En caso contrario, el Consejo deberá solicitar             67 D.O. 12.09.2009 fundadamente al Ministerio de Educación la revocación del reconocimiento oficial de dicha institución.                    Ley 21091
+En caso contrario, el Consejo deberá solicitar fundadamente al Ministerio de Educación la revocación del reconocimiento oficial de dicha institución.
+Ley 21091
 
-Con todo, el Consejo Nacional de Educación podrá           Art. 119, N° 6 ampliar el período de verificación hasta por tres años.         D.O. 29.05.2018 Si transcurrido el nuevo plazo, la entidad de educación superior no diere cumplimiento a los requerimientos del Consejo, éste deberá solicitar fundadamente al Ministerio de Educación la revocación del reconocimiento oficial.
+Con todo, el Consejo Nacional de Educación podrá ampliar el período de verificación hasta por tres años. Si transcurrido el nuevo plazo, la entidad de educación superior no diere cumplimiento a los requerimientos del Consejo, éste deberá solicitar fundadamente al Ministerio de Educación la revocación del reconocimiento oficial.
+Art. 119, N° 6
+D.O. 29.05.2018
 
 #### Art. 101.
 Durante el período de licenciamiento, las universidades, institutos profesionales y centros de formación técnica deberán seguir el mismo procedimiento inicial respecto de otros grados de licenciado, de títulos profesionales o de títulos técnicos de nivel superior que deseen otorgar. Ley Nº 20.370 Art.
@@ -1630,15 +1959,19 @@ Ley Nº 20.370 Art.
 70 D.O. 12.09.2009
 
 #### Art. 1º.
-Los sostenedores de establecimientos educacionales que  impartan enseñanza en los niveles de educación parvularia, básica y media, que hubieren obtenido el reconocimiento oficial del Estado con anterioridad a la entrada en vigencia de la ley Nº 20.370 y que a la fecha de la publicación de esta ley no hubieren cumplido con lo dispuesto en el artículo 46, letra a), de dicha norma, podrán transmitir la calidad de sostenedor, siempre que el nuevo sostenedor se adecue a los requisitos, plazos y condiciones establecidos en esta ley. Asimismo, podrá transferirse la calidad de sostenedor para el solo efecto de constituir una persona jurídica sucesora de la persona natural que detentaba dicha calidad o para la constitución de una persona jurídica que sucederá a la actual en su rol de sostenedora, ya sea que la transferencia se realice a una nueva persona jurídica o a una ya existente que cumpla con los requisitos establecidos en esta ley para ser sostenedor. Las transferencias que se efectúen en virtud de este artículo comprenderán el traspaso del reconocimiento oficial respectivo, sin solución de continuidad. Dicha transferencia deberá efectuarse dentro de los dos años siguientes a la fecha de publicación de esta ley.                                                       Ley 20668
+Los sostenedores de establecimientos educacionales que impartan enseñanza en los niveles de educación parvularia, básica y media, que hubieren obtenido el reconocimiento oficial del Estado con anterioridad a la entrada en vigencia de la ley Nº 20.370 y que a la fecha de la publicación de esta ley no hubieren cumplido con lo dispuesto en el artículo 46, letra a), de dicha norma, podrán transmitir la calidad de sostenedor, siempre que el nuevo sostenedor se adecue a los requisitos, plazos y condiciones establecidos en esta ley. Asimismo, podrá transferirse la calidad de sostenedor para el solo efecto de constituir una persona jurídica sucesora de la persona natural que detentaba dicha calidad o para la constitución de una persona jurídica que sucederá a la actual en su rol de sostenedora, ya sea que la transferencia
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+se realice a una nueva persona jurídica o a una ya existente que cumpla con los requisitos establecidos en esta ley para ser sostenedor. Las transferencias que se efectúen en virtud de este artículo comprenderán el traspaso del reconocimiento oficial respectivo, sin solución de continuidad. Dicha transferencia deberá efectuarse dentro de los dos años siguientes a la fecha de publicación de esta ley.
+Ley 20668
+Art. UNICO N° 1
+D.O. 25.04.2013
 
-Para todos los efectos legales a que haya lugar, se        Art. UNICO N° 1 considerará que no existe solución de continuidad del           D.O. 25.04.2013 reconocimiento oficial o decreto colaborador correspondiente, respecto de los establecimientos educacionales cuyos sostenedores, para el solo efecto de adecuarse a lo establecido en el artículo 46, letra a), de esta ley, presenten una nueva solicitud de reconocimiento oficial.
+Para todos los efectos legales a que haya lugar, se considerará que no existe solución de continuidad del reconocimiento oficial o decreto colaborador correspondiente, respecto de los establecimientos educacionales cuyos sostenedores, para el solo efecto de adecuarse a lo establecido en el artículo 46, letra a), de esta ley, presenten una nueva solicitud de reconocimiento oficial.
 
 La nueva solicitud de reconocimiento oficial deberá ser acompañada tanto de los antecedentes que acrediten la posesión del reconocimiento oficial o decreto colaborador con anterioridad a la entrada en vigencia de la ley Nº20.370, así como de aquellos que den cuenta de la creación o constitución de la persona jurídica de derecho público o de derecho privado que cumpla con las exigencias establecidas en dicha disposición. El examen de esta solicitud se limitará a estas materias y su aprobación o rechazo se basará únicamente en el cumplimiento o incumplimiento de las exigencias establecidas en el mencionado artículo 46, letra a). Esta solicitud no estará sujeta a la limitación del artículo 19, pudiendo ser presentada en cualquier época del año, debiendo expresar en forma precisa que es para el solo efecto indicado en este artículo.
 
@@ -1701,14 +2034,16 @@ La estructura curricular establecida en el artículo 25 comenzará a regir a par
 
 A contar de dicho año escolar, los cursos de séptimo       8º Transitorio D.O. y octavo año de la enseñanza básica y primero, segundo, tercero y cuarto año de la enseñanza media pasarán a            12.09.2009 denominarse primero, segundo, tercero, cuarto, quinto y sexto año de la educación media, respectivamente.               Ley 21049
 
-En consecuencia, los alumnos que en el año escolar a       Art. ÚNICO N° 2 que se refiere el inciso primero sean promovidos de sexto,      D.O. 30.11.2017 séptimo y octavo año de la enseñanza básica y primero, segundo y tercer año de la enseñanza media lo serán a primero, segundo, tercero, cuarto, quinto y sexto año de la educación media, respectivamente.
+En consecuencia, los alumnos que en el año escolar a que se refiere el inciso primero sean promovidos de sexto, séptimo y octavo año de la enseñanza básica y primero,
+Art. ÚNICO N° 2
+D.O. 30.11.2017
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Oct-2019
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
-
+segundo y tercer año de la enseñanza media lo serán a primero, segundo, tercero, cuarto, quinto y sexto año de la educación media, respectivamente.
 Por su parte, los alumnos que en el año escolar anterior a la entrada en vigencia de la nueva estructura curricular cursen y sean promovidos de cuarto año de la enseñanza media, egresarán de ésta y recibirán la licencia de educación media.
 
 #### Art. 9º.
