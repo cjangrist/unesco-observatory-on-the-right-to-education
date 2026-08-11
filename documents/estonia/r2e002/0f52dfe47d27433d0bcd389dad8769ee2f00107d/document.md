@@ -1,26 +1,41 @@
 [[START OF PAGE 1]]
+REPUBLIC OF ESTONIA
+MINISTRY OF EDUCATION
+AND RESEARCH
 
 # Estonian Research and Development and Innovation Strategy 2014-2020
 
-'Knowledge-based Estonia'
+“Knowledge-based Estonia”
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-The preparation of the Estonian Research and Development and Innovation Strategy 2014-2020 'Knowledge-based Estonia' ( RDI strategy ) was initiated by the Ministry of Education and Research and the Ministry of Economic Affairs and Communications in 2012. In cooperation with researchers and entrepreneurs, as well as policy-makers and policy implementers, the goals for the future were laid down and activities were planned that would respond to the needs of a rapidly changing world and of our society, and which would support, in conjunction with other member states, the common goals of the European Union.
+ISBN 978-9985-72-218-3 (print)
+ISBN 978-9985-72-219-0 (pdf)
 
-The proposal to prepare the RDI strategy was approved with the Order No 274 of the Government of the Republic on 28.06.2012. On 24.08.2012 the Minister for Education and Research formed a strategy preparation committee with 23 representatives from the private sector, universities, research institutions, and state authorities. More than 200 specialists from the research, business and state sectors were included in the preparation of the strategy - including representatives from the Research and Development Council (RDC), the RDI strategy preparation committee, the Research Policy Committee, the Innovation Policy Committee, the Research and Innovation Policy Monitoring Programme (TIPS), research institutions, entrepreneurs and state authorities.
+Photos: Estonian Science Photo Competition 2011, 2012, 2013
+Front cover: Tõnu Pani,
+Page 5: Heiti Paves
+Page 6: Timo Palo
+Page 11: Annika Karusion
+Page 12: Mati Kose
+Page 14: Mati Kose
+Page 19: Heiti Paves
+Page 23: Tanel Eensoo
+Page 24: Toomas Jagomäe
+Page 25: Martina Viil
+Back cover: Tauno Erik
+
+Ministry of Education and Research, Tartu 2014
+
+The preparation of the Estonian Research and Development and Innovation Strategy 2014-2020 “Knowledge-based Estonia” (RDI strategy) was initiated by the Ministry of Education and Research and the Ministry of Economic Affairs and Communications in 2012. In cooperation with researchers and entrepreneurs, as well as policy-makers and policy implementers, the goals for the future were laid down and activities were planned that would respond to the needs of a rapidly changing world and of our society, and which would support, in conjunction with other member states, the common goals of the European Union.
+
+The proposal to prepare the RDI strategy was approved with the Order No 274 of the Government of the Republic on 28.06.2012. On 24.08.2012 the Minister for Education and Research formed a strategy preparation committee with 23 representatives from the private sector, universities, research institutions, and state authorities. More than 200 specialists from the research, business and state sectors were included in the preparation of the strategy – including representatives from the Research and Development Council (RDC), the RDI strategy preparation committee, the Research Policy Committee, the Innovation Policy Committee, the Research and Innovation Policy Monitoring Programme (TIPS), research institutions, entrepreneurs and state authorities.
 
 In the preparation of the strategy, international and national evaluations and reports (e.g. ERAC peer-review, reports and recommendations from the TIPS programme, audits by the National Audit Office) have been used as input. The selection process for growth areas has proceeded from the smart specialisation methodology developed by the OECD and European Commission.
 
-The Estonian Research and Development and Innovation Strategy 2014-2020 'Knowledge-based Estonia' was approved by the Government of the Republic on 31.10.2013 and by the Riigikogu (parliament) on 22.01.2014.
-
-Photos: Estonian Science Photo Competition 2011, 2012, 2013 Front cover: Tõnu Pani, Page 5: Heiti Paves Page 6: Timo Palo Page 11: Annika Karusion Page 12: Mati Kose Page 14: Mati Kose Page 19: Heiti Paves Page 23: Tanel Eensoo Page 24: Toomas Jagomäe Page 25: Martina Viil Back cover: Tauno Erik
-
-ISBN 978-9985-72-218-3 (print) Ministry of Education and Research, Tartu 2014
-
-ISBN 978-9985-72-219-0 (pdf)
+The Estonian Research and Development and Innovation Strategy 2014-2020 “Knowledge-based Estonia” was approved by the Government of the Republic on 31.10.2013 and by the Riigikogu (parliament) on 22.01.2014.
 
 [[END OF PAGE 2]]
 
@@ -32,19 +47,19 @@ This is the third Estonian Research and Development and Innovation (RDI) strateg
 
 The overall aim of the development of RDI is to create favourable conditions for an increase in productivity and in the standard of living, for good-quality education and culture, and for the sustainable development of Estonia. This strategy establishes four main objectives for Estonia.
 
-- Research in Estonia is of a high level and diverse. It  is  internationally  competitive  and visible,  and  covers  the  main  fields  of  higher  education  and  culture.  The  network  of research institutions operates efficiently. The infrastructure is modern. A new generation of researchers and innovators is ensured. Estonia is an attractive place for research and development, and a researcher career is popular.
+1) Research in Estonia is of a high level and diverse. It is internationally competitive and visible, and covers the main fields of higher education and culture. The network of research institutions operates efficiently. The infrastructure is modern. A new generation of researchers and innovators is ensured. Estonia is an attractive place for research and development, and a researcher career is popular.
 
-- Research and development (RD) functions in the interests of the Estonian society and economy. It proceeds from the needs of society and the economy, and prioritises research applications. Research institutions are motivated to undertake applied research and for productive cooperation with enterprises and government authorities. The state is smart in  commissioning  applied  research  and  development.  Research  carried  out  for  socioeconomic objectives is efficiently organised.
+2) Research and development (RD) functions in the interests of the Estonian society and economy. It proceeds from the needs of society and the economy, and prioritises research applications. Research institutions are motivated to undertake applied research and for productive cooperation with enterprises and government authorities. The state is smart in commissioning applied research and development. Research carried out for socio-economic objectives is efficiently organised.
 
-- RD  makes  the  structure  of  the  economy  more  knowledge-intensive. RDI  investments selected and managed by the smart specialisation method encourage the development of growth areas at heightened pace. The share of knowledge-intensive entrepreneurship in the economy and the added value of exports will increase significantly. The selected growth areas are:
+3) RD makes the structure of the economy more knowledge-intensive. RDI investments selected and managed by the smart specialisation method encourage the development of growth areas at heightened pace. The share of knowledge-intensive entrepreneurship in the economy and the added value of exports will increase significantly. The selected growth areas are:
 
-- Information and communication technology (ICT), horizontally through other sectors 1
+1. Information and communication technology (ICT), horizontally through other sectors 1
 
-- Health technologies and services 2
+2. Health technologies and services 2
 
-- More effective use of resources 3
+3. More effective use of resources 3
 
-- Estonia is active and visible in international RDI cooperation. Cross-border cooperation helps to solve the tasks that Estonia, and the world as a whole, is facing. Estonia participates as a partner in the initiatives of the European Research Area, (incl. in the joint programming of research), European innovation partnerships, initiatives in the Baltic and Nordic region, and international research infrastructures. Enterprises have access to the world's newest RDI results, and cooperation opportunities and infrastructures are open to them.
+4) Estonia is active and visible in international RDI cooperation. Cross-border cooperation helps to solve the tasks that Estonia, and the world as a whole, is facing. Estonia participates as a partner in the initiatives of the European Research Area, (incl. in the joint programming of research), European innovation partnerships, initiatives in the Baltic and Nordic region, and international research infrastructures. Enterprises have access to the world’s newest RDI results, and cooperation opportunities and infrastructures are open to them.
 
 Whereas the former strategies have focussed mainly on the development of our RDI capacity, the objective of the present strategy is to use the created potential for the development and economic growth of Estonia. Priorities are set on the basis of the new, smart specialisation method. In order for the cross-field coordination to work more smoothly, a number of management and monitoring issues have been detailed.
 
@@ -61,6 +76,30 @@ Whereas the former strategies have focussed mainly on the development of our RDI
 [[START OF PAGE 4]]
 
 ## Contents
+
+Summary 3
+Introduction 5
+1. BACKGROUND 6
+1.1. Development trends affecting research and development and innovation 6
+1.2. Estonian societal requirements, the general tasks of research and development and innovation, and links to other strategies 7
+1.3. Overview of research and development and innovation in Estonia 7
+1.4. Main recommendations 8
+2. VISION 11
+3. OBJECTIVES IN PROMOTING RESEARCH AND DEVELOPMENT AND INNOVATION 12
+4. MEASURES FOR ACHIEVING THE OBJECTIVES 12
+Measure 1. Ensuring the high level and diversity of research 14
+Measure 2. Increasing the social and economic benefit of RD 16
+Measure 3. Smart specialisation is the basis for RDI in changing the structure of economy 17
+Measure 4. Increasing the participation and visibility of Estonia in international RDI cooperation 18
+5. STRATEGY MANAGEMENT AND FINANCING 19
+5.1. Management and coordination 19
+5.2. Links with other strategies, and the strategic framework of smart specialisation 20
+5.3. Implementation of the strategy 20
+5.4. Monitoring 21
+5.5. Financing 21
+6. INDICATORS USED 23
+7. ABBREVIATIONS USED 24
+8. APPENDIX. SWOT ANALYSIS OF THE RESEARCH AND DEVELOPMENT AND INNOVATION SYSTEM IN ESTONIA 25
 
 4
 
@@ -118,7 +157,7 @@ activities of the Flagship Initiative 'Innovation Union' 5 , the European Resear
 
 Research and development is important in the functioning of education, culture, the economy and society. The tasks of RDI arise from the Constitution, other legislation and the general strategies of Estonia and the European Union. The RDI strategy is closely linked to the Estonian Lifelong Learning Strategy 2014-2020, Estonian Entrepreneurship Growth Strategy 2014-2020 and other related strategies. The general tasks of RDI are:
 
- ensure a scientific basis for education 7  and the lsustainable development of culture 8 ;
+ ensure a scientific basis for education 7 and the sustainable development of culture 8;
 
  find new sources of growth for entrepreneurship in the conditions of unemployment and the rising cost of labour, to make the economy more knowledge-intensive 9 ;
 
@@ -140,9 +179,9 @@ Overviews of research and development have been published regularly in strategy 
 
  After the restoration of independence, Estonia has been successful in improving the quality and increasing the volume of academic research. Since accession to the European Union, a significant proportion of EU Structural Fund aid has been directed to the development of RD infrastructure,  human capital and entrepreneurship. This has helped create modern condi-
 
-> 5 	Europe 2020 Flagship Initiative Innovation Union, COM(2010)546 http://eur-lex.europa.eu/legal-content/EN/TXT/PD F/?uri=CELEX:52010DC0546&from=EN
+> 5 	Europe 2020 Flagship Initiative Innovation Union, COM(2010)546 http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52010DC0546&from=EN
 
-> 6 	See the action plan of the European Strategy Forum on Research Infrastructures (ESFRI) http://ec.europa.eu/ research/infrastructures/index_en.cfm?pg=esfri-roadmap
+> 6 	See the action plan of the European Strategy Forum on Research Infrastructures (ESFRI) http://ec.europa.eu/research/infrastructures/index_en.cfm?pg=esfri-roadmap
 
 > 7 	Clause 2 9) of the Universities Act and § 3 of the Basic Schools and Upper Secondary Schools Act
 
@@ -150,7 +189,7 @@ Overviews of research and development have been published regularly in strategy 
 
 > 9 	R. Kattel, E. Karo, P . Tõnurist, L. Looga, U. Varblane, T. Roolaht, 'Assessment of the implementation of the research and development and innovation strategy', http://www.tips.ut.ee/index.php?module=32&op=1&id=3532, report of the TIPS programme, 2012
 
-> 10 	Reports on the research and development and innovation strategy, Ministry of Education and Research, http://www.hm.ee/index.php7Q3242.
+> 10 	Reports on the research and development and innovation strategy, Ministry of Education and Research, http://www.hm.ee/index.php?03242.
 
 7
 
@@ -266,13 +305,13 @@ Target level of indicators for 2020:
 
 - Investment  in  research  and  development:  3%  of  GDP ,  incl.  private  sector  RD expenditures:  2% of GDP (2011: 2.41% and 1.52% of GDP , respectively);
 
-- 10 th   position (minimum) in the EU Innovation Union Scoreboard (2011: 14 th  position);
+- 10th position (minimum) in the EU Innovation Union Scoreboard (2011: 14th position);
 
 - Labour productivity per person employed: 80% of the EU average (2011: 68%).
 
 ### Objectives
 
-- Research in Estonia is of a high level and diverse. It is internationally competitive and visible, and covers the main fields of higher education and culture. The network of research institutions operates efficiently. The infrastructure is modern. A new generation of researchers and innovators is ensured. Estonia is an attractive place for research and development, and a researcher career is popular.
+1) Research in Estonia is of a high level and diverse. It is internationally competitive and visible, and covers the main fields of higher education and culture. The network of research institutions operates efficiently. The infrastructure is modern. A new generation of researchers and innovators is ensured. Estonia is an attractive place for research and development, and a researcher career is popular.
 
 12
 
@@ -288,7 +327,7 @@ Target level of indicators for 2020:
 
 - Number  of  top-level  scientific  publications  per  million  population:  1600  (2012: 1191).
 
-- Research and development (RD) functions in the interests of the Estonian society and economy. It proceeds from the needs of society and the economy, and prioritises research applications. Research institutions are motivated to undertake applied research and for productive cooperation with enterprises and government authorities. The state is smart in commissioning applied research and development. The organisation of research carried out for socio-economic objectives is efficient
+2) Research and development (RD) functions in the interests of the Estonian society and economy. It proceeds from the needs of society and the economy, and prioritises research applications. Research institutions are motivated to undertake applied research and for productive cooperation with enterprises and government authorities. The state is smart in commissioning applied research and development. The organisation of research carried out for socio-economic objectives is efficient
 
 Target level of indicators for 2020:
 
@@ -296,7 +335,7 @@ Target level of indicators for 2020:
 
 - Share  of  public  sector  research  and  development  expenditures  financed  by  the private sector: 7% (2011: 3.1%).
 
-- RD makes the structure of the economy more knowledge-intensive. RDI investments selected and managed by the smart specialisation method encourage the development of growth areas at heightened pace. The share of knowledge-intensive entrepreneurship in the economy and the added value of exports will increase significantly.
+3) RD makes the structure of the economy more knowledge-intensive. RDI investments selected and managed by the smart specialisation method encourage the development of growth areas at heightened pace. The share of knowledge-intensive entrepreneurship in the economy and the added value of exports will increase significantly.
 
 Target level of indicators for 2020:
 
@@ -304,7 +343,7 @@ Target level of indicators for 2020:
 
 - Exports of high technology products as a share of total exports: 15% (2010: 10.4%).
 
-- Estonia is active and visible in international RDI cooperation. Cross-border cooperation helps solve the tasks facing Estonia and the world as a whole. Estonia participates as a partner in the initiatives of the European Research Area, (incl. in the joint programming of research), European innovation partnerships, and initiatives in the Baltic and Nordic region, international research infrastructures. Enterprises have access to the world's newest RDI results, and cooperation opportunities and infrastructures are open to them.
+4) Estonia is active and visible in international RDI cooperation. Cross-border cooperation helps solve the tasks facing Estonia and the world as a whole. Estonia participates as a partner in the initiatives of the European Research Area, (incl. in the joint programming of research), European innovation partnerships, and initiatives in the Baltic and Nordic region, international research infrastructures. Enterprises have access to the world’s newest RDI results, and cooperation opportunities and infrastructures are open to them.
 
 Target level of indicators for 2020:
 
@@ -328,7 +367,7 @@ Programmes launched for the purpose of smart specialisation - changing the struc
 
 ### Measure 1. Ensuring the high level and diversity of research
 
-In order to preserve a high-level educational and cultural environment and shape a more desirable position for Estonia in the competition for location, it is necessary to increase the competitiveness of RD and ensure diversity in covering the main fields. To this end, the organisation of research must preserve the quality-based financing of research, develop an attractive environment for research, and support autonomy and specialisation of institutions of higher education and research institutions. Investments in the development of human capital must be preferred, efforts must be made to ensure a new academic generation and to increase the number of researchers and engineers in the private sector involving talented young people both from Estonia and abroad. The bureaucracy involved in the measures for the EU Structural Funds must be simplified and reduced, and the number of measures themselves must be reduced.
+In order to preserve a high-level educational and cultural environment and shape a more desirable position for Estonia in the competition for location, it is necessary to increase the competitiveness of RD and ensure diversity in covering the main fields. To this end, the organisation of research must preserve the quality-based financing of research, develop an attractive environment for research, and support autonomy and specialisation of institutions of higher education and research institutions. Investments in the development of human capital must be preferred, efforts must be made to ensure a new academic generation and to increase the number of researchers
 
 14
 
@@ -336,7 +375,9 @@ In order to preserve a high-level educational and cultural environment and shape
 
 [[START OF PAGE 15]]
 
-- 1.1. Support the development of areas of responsibility of institutions of higher education and research and development institutions, also their structural changes, focussing on strategic fundamental  activities  and  the  reorganisation  of  the  network  of  institutions;  increase  the responsibility of research institutions for the effectiveness of their activities.
+and engineers in the private sector involving talented young people both from Estonia and abroad. The bureaucracy involved in the measures for the EU Structural Funds must be simplified and reduced, and the number of measures themselves must be reduced.
+
+- 1.1. Support the development of areas of responsibility of institutions of higher education and research and development institutions, also their structural changes, focussing on strategic fundamental activities and the reorganisation of the network of institutions; increase the responsibility of research institutions for the effectiveness of their activities.
 
 - 1.2. Ensure  an  increase  in  the  level  of  the  main  financing  instruments  (baseline  financing, institutional  and  personal  research  grants,  support  for  the  maintenance  and  sustainable development of infrastructure, etc) of research and development in line with the temporary nature of investments from the Structural Funds, in order to ensure the continuation of the RDI system and the realisation of the created capacity. The combined effect of different financing instruments and a balanced development of the RDI system will be ensured.
 
@@ -410,11 +451,11 @@ In conditions where the state interferes with the economy as little as possible,
 
 On the basis of an analysis 17  organised by the Estonian Development Fund and made in cooperation between enterprises and research institutions, the growth areas are the following:
 
-- Information and communication technology (ICT) horizontally through other sectors 18
+1. Information and communication technology (ICT) horizontally through other sectors 18
 
-- Health technologies and services 19
+2. Health technologies and services 19
 
-- More effective use of resources 20
+3. More effective use of resources 20
 
 The objective is to significantly improve the share of employment and added value of entrepreneurship in the economy and exports. Monitoring and activities will be initiated in each selected field of growth on the basis of an analysis of the bottlenecks.
 
@@ -568,7 +609,7 @@ The achievement of objectives of smart specialisation is, in addition to the RDI
 
 Indicative financing of RDI strategy, by measure and year
 
-2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | TOTAL
+ | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | TOTAL
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Measure 1. Ensuring a high level and diversity of research | 132,379,614 | 104,479,147 | 97,940,183 | 111,064,001 | 118,959,840 | 120,928,994 | 114,880,930 | 800,632,708
 Ministry of Education and Research | 129,523,158 | 101,194,525 | 95,070,473 | 106,276,002 | 114,571,269 | 116,522,509 | 110,710,202 | 773,868,137
@@ -589,8 +630,8 @@ Ministry of Education and Research | 9,547,360 | 13,437,041 | 11,406,122 | 14,60
 Ministry of Social Affairs | 5,040 | 5,040 | 27,040 | 27,040 | 30,000 | 30,000 | 30,000 | 154,160
 Ministry of Defence | 330,000 | 370,000 | 400,000 | 450,000 | 480,000 | 500,000 | 520,000 | 3,050,000
 TOTAL OF ALL MEASURES | 193,703,253 | 175,202,328 | 181,963,912 | 202,636,625 | 212,343,836 | 210,127,769 | 177,237,802 | 1,353,215,525
-Education and Research | 172,699,934 | 142,063,697 | 128,783,415 | 148,596,411 | 159,930,961 | 161,576,980 | 148,302,770 | 1,061,954,168
-Economic Affairs and Communications | 11,125,000 | 23,375,000 | 43,500,000 | 42,500,000 | 41,000,000 | 37,000,000 | 17,500,000 | 216,000,000
+Ministry of Education and Research | 172,699,934 | 142,063,697 | 128,783,415 | 148,596,411 | 159,930,961 | 161,576,980 | 148,302,770 | 1,061,954,168
+Ministry of Economic Affairs and Communications | 11,125,000 | 23,375,000 | 43,500,000 | 42,500,000 | 41,000,000 | 37,000,000 | 17,500,000 | 216,000,000
 Ministry of Social Affairs | 5,600,393 | 5,267,539 | 5,319,317 | 5,160,745 | 5,352,834 | 5,352,834 | 5,352,834 | 37,406,496
 Ministry of Defence | 1,680,000 | 1,470,000 | 1,750,000 | 1,850,000 | 1,930,000 | 2,050,000 | 2,170,000 | 12,900,000
 Ministry of the Interior | 2,597,926 | 3,026,092 | 2,611,180 | 4,529,469 | 4,130,041 | 4,147,955 | 3,912,198 | 24,954,861
@@ -603,26 +644,26 @@ Ministry of the Interior | 2,597,926 | 3,026,092 | 2,611,180 | 4,529,469 | 4,130
 
 ## 6. INDICATORS USED
 
-Indicator | Target level of the indicator
+Indicator | Target level of the indicator |  |  |  | 
 --- | --- | --- | --- | --- | ---
 General aim | 2010 | 2011 | 2012 | 2020 | EU level
-Gross domestic expenditure on R&D (GERD), % of GDP 1; 2 | 1.62% | 2.41 % 1 | 3% | EU2011: 2.03%
-inc. business enterprise sector (BERD), % of GDP 1;2 | 0.81% | 1.52% 1 | 2% | EU2011: 1.26%
-Labour productivity per person employed (EU27=100) 1;2 | 68% | 80% | EU2011: 100%
-Position in the Innovation Union Scoreboard 3 | 14(2013) | 10
-Objective I: Research in Estonia is of a high level and diverse
-Number of PhDs awarded in an academic year 6 | 175 | 250 | 190 | 300
-Scientific publications among the top 10% most cited publications worldwide as % of total scientific publications of the country 3;7 | 7.5% (2008) | 11% | EU2008: 10.9%
+Gross domestic expenditure on R&D (GERD), % of GDP 1; 2 | 1.62% | 2.41 % 1 |  | 3% | EU2011: 2.03%
+inc. business enterprise sector (BERD), % of GDP 1;2 | 0.81% | 1.52% 1 |  | 2% | EU2011: 1.26%
+Labour productivity per person employed (EU27=100) 1;2 |  | 68% |  | 80% | EU2011: 100%
+Position in the Innovation Union Scoreboard 3 |  |  | 14(2013) | 10 | 
+Objective I: Research in Estonia is of a high level and diverse |  |  |  |  | 
+Number of PhDs awarded in an academic year 6 | 175 | 250 | 190 | 300 | 
+Scientific publications among the top 10% most cited publications worldwide as % of total scientific publications of the country 3;7 | 7.5% (2008) |  |  | 11% | EU2008: 10.9%
 Number of scientific publications per million population 1;8 | 1,125 | 1,174 | 1,191 | 1,600 | EU2012: 1,310
-Objective II: Research and development functions in the interests of the Estonian society and economy
-Share of public sector research and development expenditures financed by the private sector 1; 2 | 3.9% | 3.1% | 7% | EU2010: 7.01%
-Government budget appropriations or outlays on R&D (GBAORD) by socio-economic objectives other than GUF 1; 2 | ~ 30% | 40% | EU2008-2010: 43.1-44.6%
-Objective III: RD makes the structure of the economy more knowledge-intensive
-Exports of high technology products as a share of total exports 1;2 | 10.4% | 14.9% | 15% | EU2011: 15.4%
-Employment in high-tech and medium high-tech manufacturing and in knowledge-intensive services (KIS) as % of total employment 1;2 | 6.0% | 6.9% | 9% | EU2011: 8.3%
-Objective IV: Estonia is active and visible in international RDI cooperation
-The success rate of Estonia in EU research and development framework programme Horizon 2020: funding received per capita, % of EU average, where EU average = 100 1; 9 | 87% | 100% | EU2013: 100%
-Share of national public funding to transnationally coordinated research in total GBAORD 1 | 1.31% | 3% | EU2010: 3.8%
+Objective II: Research and development functions in the interests of the Estonian society and economy |  |  |  |  | 
+Share of public sector research and development expenditures financed by the private sector 1; 2 | 3.9% | 3.1% |  | 7% | EU2010: 7.01%
+Government budget appropriations or outlays on R&D (GBAORD) by socio-economic objectives other than GUF 1; 2 |  | ~ 30% |  | 40% | EU2008-2010: 43.1-44.6%
+Objective III: RD makes the structure of the economy more knowledge-intensive |  |  |  |  | 
+Exports of high technology products as a share of total exports 1;2 | 10.4% | 14.9% |  | 15% | EU2011: 15.4%
+Employment in high-tech and medium high-tech manufacturing and in knowledge-intensive services (KIS) as % of total employment 1;2 | 6.0% | 6.9% |  | 9% | EU2011: 8.3%
+Objective IV: Estonia is active and visible in international RDI cooperation |  |  |  |  | 
+The success rate of Estonia in EU research and development framework programme Horizon 2020: funding received per capita, % of EU average, where EU average = 100 1; 9 |  |  | 87% | 100% | EU2013: 100%
+Share of national public funding to transnationally coordinated research in total GBAORD 1 | 1.31% |  |  | 3% | EU2010: 3.8%
 
 Source:  1 Eurostat; 2  Statistics Estonia;  3  Innovation Union Scoreboard;  4  Overviews of implementation of the 'Europe 2020' strategy;  5  OECD;  6  Estonian Education Information System EHIS;  7  Scopus/Science Metrics;  8  Thompson Reuters Web of Science;  9  Horizon 2020 database.
 
@@ -715,7 +756,7 @@ RPC | Research Policy Committee
 
  Take advantage of opportunities created by the migration policy in a smart manner
 
- Implement successfully new ways of research - e-infrastructure and dispersed infrastructure, use open access research data and results
+ Implement successfully new ways of research – e-infrastructure and dispersed infrastructure, use open access research data and results
 
  Raise more private capital (incl. from abroad)
 
@@ -731,6 +772,7 @@ RPC | Research Policy Committee
 
 [[START OF PAGE 28]]
 
-(this page came through the extractor with no text)
+ISBN 978–9985–72–218–3
+9 789985 722183
 
 [[END OF PAGE 28]]
