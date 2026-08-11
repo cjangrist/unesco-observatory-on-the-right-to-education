@@ -11,9 +11,6 @@ Priorities and Suggested Programs
 Suggested Sources of Funding
 
 Index: Some Statistics of the General Education Sector
-## The programs will be implemented through working groups made up of education specialists and personnel from concerned administrations
-Implementation through working groups for the programs, which include: education experts and personnel from concerned administrations Executive Summary - v05.ppt The General Education Sector: Facts and Figures National Education Strategy Framework Priorities and Suggested Programs Working Mechanism and Working Groups
-# Suggested Sources of Funding
 
 Executive Summary - v05.ppt
 
@@ -23,35 +20,15 @@ Executive Summary - v05.ppt
 
 [[START OF PAGE 2]]
 
+## The programs will be implemented through working groups made up of education specialists and personnel from concerned administrations
+
+Minister of Education and Higher Education
+
 ESDS
 
 Education Specialists
 
-Planning and
-
-Monitoring Specialist
-
-NQF WG
-
-Institutional Development WG
-
-Minister of Education and Higher Education
-
-Citizenship in Education WG
-
-ICT in education WG
-
-Achievement Assessment and Curriculum Development WG
-
-Modernization of School Management WG
-
-Professionalization of the teaching workforce WG
-
-Development of Infrastructure WG
-
-Improving Retention and Achievement WG
-
-ECE WG
+Planning and Monitoring Specialist
 
 Steering Committee
 
@@ -61,11 +38,43 @@ President of ECRD
 
 ESDS Director
 
+ECE WG
+
+Improving Retention and Achievement WG
+
+Development of Infrastructure WG
+
+Professionalization of the teaching workforce WG
+
+Modernization of School Management WG
+
+Achievement Assessment and Curriculum Development WG
+
+Citizenship in Education WG
+
+ICT in education WG
+
+NQF WG
+
+Institutional Development WG
+
+Implementation through working groups for the programs, which include: education experts and personnel from concerned administrations
+
 35
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+The General Education Sector: Facts and Figures
+
+National Education Strategy Framework
+
+Priorities and Suggested Programs
+
+Working Mechanism and Working Groups
+
+# Suggested Sources of Funding
 
 Index: Some Statistics of the General Education Sector
 
@@ -113,7 +122,7 @@ Executive Summary - v05.ppt
 
 [[START OF PAGE 6]]
 
-## Results in Mathematics for Grade 8 TIMSS 2007
+## TIMSS 2007 Results in Mathematics for Grade 8
 
 Country (Average) | Rank
 --- | ---
@@ -172,9 +181,9 @@ Australia (496) | 14
 Sweden (491) | 15
 Malta (488) | 16
 
-Lebanon
-
 Arabic countries
+
+Lebanon
 
 Note: classification is based on 48 participating countries
 
@@ -190,7 +199,7 @@ Executive Summary - v05.ppt
 
 [[START OF PAGE 7]]
 
-## Results in Science for Grade 8 TIMSS 2007
+## TIMSS 2007 Results in Science for Grade 8
 
 Country (Average) | Rank
 --- | ---
@@ -249,9 +258,9 @@ Sweden (511) | 14
 Scotland (496) | 15
 Italy (495) | 16
 
-Lebanon
-
 Arabic countries
+
+Lebanon
 
 Note: classification is based on 48 participating countries
 
@@ -269,29 +278,23 @@ Executive Summary - v05.ppt
 
 ## Total Number of Students According to Education Sectors 2007-2008
 
+General Education
+
 908,201
 
 81%
+
+Vocational and Technical Education
 
 40,253
 
 4%
 
+Higher Education
+
 167,165
 
 15%
-
-- التعليم العام (ما قبل الجامعي ) General Education
-
-التعليم المهني والتقني
-
-- التعليم العالي Higher Education
-
-Vocational and
-
-Technical
-
-Education
 
 Executive Summary - v05.ppt
 
@@ -303,31 +306,29 @@ Executive Summary - v05.ppt
 
 ## Student Distribution for the Academic Year 2007-2008
 
-Total
-
-Public
-
 Private
 
-Subsidized
-
-Private
-
-100%
-
-33%
-
-14%
+480,440
 
 53%
 
-908,201
-
-301,370
+Private Subsidized
 
 126,391
 
-480,440
+14%
+
+Public
+
+301,370
+
+33%
+
+Total
+
+908,201
+
+100%
 
 Executive Summary - v05.ppt
 
@@ -339,39 +340,7 @@ Executive Summary - v05.ppt
 
 ## Student Distribution for the Academic Year 2007-2008
 
-%33
-
-191,181
-
-%100
-
-76,135
-
-%40
-
-115,046
-
-%60
-
-Total
-
-445,240
-
-%100
-
-Public
-
-134,630
-
-%30
-
-Private
-
-Subsidized
-
-101,637
-
-%23
+### Elementary
 
 Private
 
@@ -379,77 +348,93 @@ Private
 
 %47
 
-150,280
+Private Subsidized
+
+101,637
+
+%23
+
+Public
+
+134,630
+
+%30
+
+Total
+
+445,240
 
 %100
 
-29,553
+### KG
 
-%20
-
-24,754
-
-%16
+Private
 
 95,973
 
 %64
 
-121,500
+Private Subsidized
+
+24,754
+
+%16
+
+Public
+
+29,553
+
+%20
+
+Total
+
+150,280
 
 %100
-
-61,052
-
-%50
-
-60,448
-
-%50
-
-### KG
-
-### Elementary
-
-### Intermediate Level
 
 ### Secondary Level
 
 Private
 
-Private
+60,448
 
-Subsidized
+%50
 
-Public
-
-Total
-
-Private
-
-Private
-
-Subsidized
+Private Subsidized
 
 Public
 
+61,052
+
+%50
+
 Total
 
-Private
+121,500
+
+%100
+
+### Intermediate Level
 
 Private
 
-Subsidized
+115,046
+
+%60
+
+Private Subsidized
 
 Public
 
+76,135
+
+%40
+
 Total
 
-%53
+191,181
 
-%14
-
-100%
+%100
 
 Executive Summary - v05.ppt
 
@@ -461,73 +446,71 @@ Executive Summary - v05.ppt
 
 ## Number of teachers and Students in General Education 2007-2008
 
-87,808
+### Number of teachers
 
-%100
-
-39,376
-
-%44
-
-6,605
-
-%8
+Private
 
 41,827
 
 %48
 
-### Number of teachers
+Private Subsidized
 
-908,201
+6,605
+
+%8
+
+Public
+
+39,376
+
+%44
+
+Total
+
+87,808
 
 %100
 
-301,370
+### Number of students/ teacher
 
-%33
+Public
 
-126,391
+7.7
 
-%14
+Private
+
+11.5
+
+Private Subsidized
+
+19.1
+
+### Number of students
+
+Private
 
 480,440
 
 %53
 
-### Number of students
+Private Subsidized
 
-### Number of students/ teacher
+126,391
 
-19.1
-
-Private
-
-Private
-
-Subsidized
+%14
 
 Public
+
+301,370
+
+%33
 
 Total
 
-Public
+908,201
 
-Private
-
-Private
-
-Subsidized
-
-Private
-
-Private
-
-Subsidized
-
-Public
-
-Total
+%100
 
 Executive Summary - v05.ppt
 
@@ -541,15 +524,15 @@ Executive Summary - v05.ppt
 
 municipality property (contribution)
 
-19
-
-(1%)
-
-municipality (rented)
-
 54
 
 (4%)
+
+municipality (rented)
+
+19
+
+(1%)
 
 private property (contribution)
 
