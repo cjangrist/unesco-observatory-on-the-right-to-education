@@ -82,7 +82,7 @@ Arrêté N°1981/MDAC-SG portant détachement  de  personnel  de  personnel Offi
 
 24  juillet  2014Arrêté  N°1986/MDAC-SG portant rectification de l'Arrêté relatif à la nomination au grade d'Elève Gendarme……................................. p.1906
 
-Arrêté N°1987/MDAC-SG portant rectificatif de l'Arrêté N°2014-092/MDACSG du 28 mars 2014 relatif à la nomination de  personnel  Officier  à  l'Armée  de l'Air……....................................….. p.1906
+Arrêté N°1987/MDAC-SG portant rectificatif de l'Arrêté N°2014-092/MDAC-SG du 28 mars 2014 relatif à la nomination de personnel Officier à l'Armée de l'Air……....................................….. p.1906
 
 [[END OF PAGE 2]]
 
@@ -91,6 +91,64 @@ Arrêté N°1987/MDAC-SG portant rectificatif de l'Arrêté N°2014-092/MDACSG d
 06 Novembre 2015              JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
 1883
+
+24 juillet 2014 Arrêté N°1988/MDAC-SG portant radiation d'un Sous-officier des Forces Armées……..................................... p.1907
+
+##### MINISTERE DE L'INTERIEUR ET DE LA SECURITE
+
+01 juillet 2014-Arrêté n°2014-1754/MIS-SG portant autorisation de transfert des restes mortels…….................................… p.1907
+
+Arrêté n°2014-1777/MIS-SG portant autorisation de transfert des restes mortels……..............................…… p.1907
+
+Arrêté n°2014-1778/MIS-SG portant autorisation de transfert des restes mortels…......................................... p.1908
+
+03 juillet 2014 Arrêté N°2014-1793/MIS-SG portant agrément d'une entreprise de Surveillance et de Gardiennage……..................... p.1908
+
+09 juillet 2014 Arrêté N°1832/MIS-SG portant mise en disponibilité d'un fonctionnaire de Police…………............................... p.1908
+
+15 juillet 2014 Arrêté N°1873/MIS-SG portant agrément d'une Entreprise privée de Surveillance et de de Gardiennage…………............ p.1908
+
+17 juillet 2014 Arrêté N°2014-1907/MIS-SG portant agrément d'une entreprise privée de Surveillance et de Gardiennage…… p.1909
+
+Arrêté N°2014-1908/MIS-SG portant agrément d'une entreprise privée de Surveillance et de Gardiennage…… p.1909
+
+Arrêté N°2014-1911/MIS-SG portant agrément d'une entreprise privée de Surveillance et de Gardiennage…… p.1909
+
+Arrêté N°2014-1912/MIS-SG portant agrément d'une entreprise privée de Surveillance et de Gardiennage...… p.1910
+
+Arrêté N°2014-1913/MIS-SG portant agrément d'une entreprise privée de Surveillance et de Gardiennage…… p.1910
+
+Arrêté N°2014-1914/MIS-SG portant agrément d'une entreprise privée de Surveillance et de Gardiennage…… p.1910
+
+22 juillet 2014 Arrêté N°2014-1955/MIS-SG portant agrément d'une entreprise privée de Surveillance et de Gardiennage…... p.1910
+
+Arrêté N°1966/MIS-SG portant traduction devant le conseil de discipline d'un sous-officier de Police…......................… p.1911
+
+##### MINISTERE DE L'ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE
+
+31 juillet 2014-Arrêté n°2014-2044/MESRS-MSHP-SG portant approbation de la Convention hospitalo-universitaire conclue entre l'Agence Nationale de la Sécurité Sanitaire des Aliments et l'Université des Sciences, des Techniques et des Technologies de Bamako………................................. p.1911
+
+28 août 2014-Arrêté n°2014-2362/MESRS-SG portant modification de l'arrêté n°1844/MESRS-SG du 06 mai 2013 fixant la liste nominative des membres du Conseil d'administration de l'Ecole Normale Supérieure de Bamako…....................................… p.1911
+
+##### MINISTERE DES DOMAINES DE L'ETAT, DES AFFAIRES FONCIERES ET DU PATRIMOINE
+
+06 août 2014-Arrêté n°2014-2141/MDEAFP-SG portant nomination du Directeur National adjoint des Domaines et du Cadastre………….. p.1912
+
+21 août 2014-Arrêté interministériel n°2014-2303/MDEAFP-MIS-MDV-SG portant mesures de suspension des attributions de terrain du Domaine Immobilier de l'Etat et des Collectivités Territoriales…….....… p.1912
+
+##### MINISTERE DE LA SANTE ET DE L'HYGIENE PUBLIQUE
+
+22 juillet 2014-Arrêté n°2014-1951/MSHP-SG portant octroi de licence d'exploitation d'une officine de pharmacie…………....... p.1913
+
+Arrêté n°2014-1952/MSHP-SG portant octroi de licence d'exploitation d'un laboratoire d'analyse biomédicales.. p.1913
+
+Arrêté n°2014-1953/MSHP-SG portant octroi de la licence d'exploitation d'un cabinet de soins infirmiers dénommé « PAPA GASTON »………........................... p.1914
+
+##### MINISTERE DE L'EDUCATION NATIONALE
+
+25 août 2014-Arrêté n°2014-2313/MEN-SG portant autorisation d'ouverture d'un établissement privé d'enseignement technique et professionnel à Tombouctou……..... p.1914
+
+Annonces et communications.............................. p.1915
 
 [[END OF PAGE 3]]
 
@@ -104,7 +162,7 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI 1884
 
 ###### DECRETS
 
-DECRET N° 2015-0656/PM-RM DU 19 OCTOBRE 2015 ABROGEANT LE DECRET N°2014-0205/PMRM DU 20 MARS 2014 PORTANT CREATION DU COMITE NATIONAL D'ORGANISATION DU SOMMET AFRIQUE-FRANCE DE 2016
+DECRET N° 2015-0656/PM-RM DU 19 OCTOBRE 2015 ABROGEANT LE DECRET N°2014-0205/PM-RM DU 20 MARS 2014 PORTANT CREATION DU COMITE NATIONAL D'ORGANISATION DU SOMMET AFRIQUE-FRANCE DE 2016
 
 ##### LE PREMIER MINISTRE,
 
@@ -154,7 +212,7 @@ Vu le Décret n°2015-0603/P-RM du 24 septembre 2015 portant nomination des memb
 
 Article 1er : Le Colonel-major Satigui dit Moro SIDIBE est nommé Directeur général de la Gendarmerie nationale.
 
-Article  2 : Le présent décret qui abroge le Décret n°20140017/P-RM du 16 janvier 2014 portant nomination du Colonel Mody  BERETHE en  qualité  de Directeur général de  la  Gendarmerie nationale, sera enregistré et publié au Journal officiel.
+Article  2 : Le présent décret qui abroge le Décret n°2014-0017/P-RM du 16 janvier 2014 portant nomination du Colonel Mody BERETHE en qualité de Directeur général de la Gendarmerie nationale, sera enregistré et publié au Journal officiel.
 
 ###### Bamako, le 20 octobre 2015
 
@@ -238,7 +296,7 @@ Vu le Décret n°2015-0603/P-RM du 24 septembre 2015 portant nomination des memb
 
 Article  1 er : Monsieur Mahamadou  Z.  SIDIBE , Commissaire divisionnaire de Police, est nommé Directeur général adjoint de la Police nationale.
 
-Article 2 : Le présent décret qui abroge le Décret n°20131008/P-RM du 30 décembre 2013 portant nomination de Monsieur Kassoum SININTA ,  Contrôleur  général  de Police, en qualité de Directeur général adjoint de la Police nationale, sera enregistré et publié au Journal officiel.
+Article 2 : Le présent décret qui abroge le Décret n°2013-1008/P-RM du 30 décembre 2013 portant nomination de Monsieur Kassoum SININTA, Contrôleur général de Police, en qualité de Directeur général adjoint de la Police nationale, sera enregistré et publié au Journal officiel.
 
 ###### Bamako, le 20 octobre 2015
 
@@ -284,9 +342,9 @@ Vu le Décret n°2015-0603/P-RM du 24 septembre 2015 portant nomination des memb
 
 ##### DECRETE :
 
-Article 1 er : Monsieur Oumar KATILE ,  N°Mle 40730.J,  Inspecteur du Trésor, est nommé Directeur des Finances  et  du  Matériel du  Ministère  de  la Réconciliation nationale.
+Article 1 er : Monsieur Oumar KATILE, N°Mle 407-30.J, Inspecteur du Trésor, est nommé Directeur des Finances et du Matériel du Ministère de la Réconciliation nationale.
 
-Article 2 : Le présent décret qui abroge le Décret n°20140452/P-RM du 16 juin  2014  portant  nomination  de Monsieur Aly Abdoulaye DIALLO ,  N°Mle 931-59.C, Inspecteur  des  Finances,  en  qualité  de Directeur des Finances et du Matériel du Ministère de la Réconciliation nationale, sera enregistré et publié au Journal officiel.
+Article 2 : Le présent décret qui abroge le Décret n°2014-0452/P-RM du 16 juin 2014 portant nomination de Monsieur Aly Abdoulaye DIALLO, N°Mle 931-59.C, Inspecteur des Finances, en qualité de Directeur des Finances et du Matériel du Ministère de la Réconciliation nationale, sera enregistré et publié au Journal officiel.
 
 Bamako, le 20 octobre 2015
 
@@ -466,7 +524,7 @@ Vu le Décret n°2015-0603/P-RM du 24 septembre 2015 portant nomination des memb
 
 ###### DECRETE :
 
-Article  1 er : Monsieur Salifou  MAIGA ,  N°Mle  93792.P,  Administrateur  civil  est  nommé Conseiller technique au Secrétariat général du Gouvernement.
+Article  1 er : Monsieur Salifou MAIGA, N°Mle 937-92.P, Administrateur civil est nommé Conseiller technique au Secrétariat général du Gouvernement.
 
 Article 2 : Le présent décret qui abroge les dispositions du Décret n°2013-374/P-RM du 24avril 2013 portant nomination  de  Monsieur Salifou  DIABATE ,  N°Mle 0109-130.L, Administrateur  civil,  en  qualité  de Conseiller  technique au  Secrétariat  général  du Gouvernement,  sera  enregistré  et  publié  au  Journal officiel.
 
@@ -554,9 +612,9 @@ Vu le Décret n°2015-0603/P-RM du 24 septembre 2015 portant nomination des memb
 
 Article 1 er : Sont nommés au Ministère de l'Economie numérique, de l'Information et de la Communication en qualité de :
 
-##### I- Secrétaire général : -  Monsieur Cheick Omar MAIGA ,  N°Mle  447-70.E,
+##### I- Secrétaire général :
 
-- Journaliste-Réalisateur ;
+- Monsieur Cheick Omar MAIGA, N°Mle 447-70.E, Journaliste-Réalisateur ;
 
 ###### II- Conseiller technique :
 
@@ -682,7 +740,7 @@ Article 2 : Le présent décret sera enregistré et publié au Journal officiel.
 
 #### Le Premier ministre, Modibo KEITA
 
-#### Le ministre de la Coopération internationale et de l'Intégration africaine, CheichnaSeydiAhmady DIAWARA
+#### Le ministre de la Coopération internationale et de l'Intégration africaine, Cheichna Seydi Ahmady DIAWARA
 
 #### Le ministre de l'Economie et des Finances, Mamadou Igor DIARRA
 
@@ -734,7 +792,7 @@ Salaire de base de la catégorie E, 4 ème  échelon
 
 - 47.406 F CFA pour 2017.
 
-- 3- Annexe au Décret n°2015-0364/P-RM du 19 mai 2015 modifiant l'annexe aux Décrets n°05-434/PRM et n°05435/P-RM du 13 octobre 2005 fixant les conditions de travail du personnel enseignant contractuel de l'Etat et des Collectivités territoriales :
+- 3- Annexe au Décret n°2015-0364/P-RM du 19 mai 2015 modifiant l'annexe aux Décrets n°05-434/PRM et n°05-435/P-RM du 13 octobre 2005 fixant les conditions de travail du personnel enseignant contractuel de l'Etat et des Collectivités territoriales :
 
 Salaire de base de la catégorie A, 4 ème classe, 1 er  échelon
 
@@ -1042,7 +1100,7 @@ les intérims des membres du Gouvernement ;
 
 Article  1 er : Monsieur Lassana Sylvestre DIARRA , N°Mle 366-24.C, Ingénieur d'Agriculture et du Génie rural, est nommé Directeur général de l'Office de Protection des Végétaux.
 
-Article 2 : Le présent décret qui abroge le Décret n°20131028/P-RM du 31 décembre 2013 portant nomination de Monsieur Biramou  SISSOKO ,  N°Mle  460-34.N, Ingénieur des Eaux et Forêts, en qualité de Directeur général de  l'Office  de  Protection  des  Végétaux,  sera enregistré et publié au Journal officiel.
+Article 2 : Le présent décret qui abroge le Décret n°2013-1028/P-RM du 31 décembre 2013 portant nomination de Monsieur Biramou SISSOKO, N°Mle 460-34.N, Ingénieur des Eaux et Forêts, en qualité de Directeur général de l'Office de Protection des Végétaux, sera enregistré et publié au Journal officiel.
 
 ###### Bamako, le 20 octobre 2015
 
@@ -1256,9 +1314,9 @@ Vu le Décret n°2015-0073/P-RM du 13 février 2015 fixant les intérims des mem
 
 Article 1 er : Le cadre organique (structures et effectifs) de la Direction des Finances et du Matériel du Ministère des Maliens de  l'Extérieur est fixé ainsi qu'il suit :
 
-STRUCTURES/ EMPLOIS | EFFECTIFS/ANNEES
+STRUCTURES/EMPLOIS | CADRES/CORPS | CAT. | EFFECTIFS/ANNEES |  |  |  | 
 --- | --- | --- | --- | --- | --- | --- | ---
-CADRES/CORPS | CAT. | I | II | III | IV | V
+ |  |  | I | II | III | IV | V
 DIRECTION Directeur | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/Administrateur du travail et de la sécurité sociale /Planificateur/Ingénieur de la Statistique. | A | 1 | 1 | 1 | 1 | 1
 Directeur Adjoint | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/ Administrateur du travail et de la sécurité sociale /Planificateur/Ingénieur de la Statistique. | A | 1 | 1 | 1 | 1 | 1
 Régisseur | Contrôleur des Finances/ du Trésor/ des Impôts/ des Services Economiques | B2/B1 | 1 | 1 | 1 | 1 | 1
@@ -1302,8 +1360,8 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 Chargé de la Préparation du Budget National | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/Administrateur des Ressources Humaines/Planificateur/Ingénieur de la Statistique/Contrôleur des Finances/Contrôleur du Trésor/Contrôleur des Impôts/Contrôleur des Services Economiques/ Adjoint des Finances/Adjoint des Impôts/Adjoint des Services Economiques/ Adjoint du trésor /Technicien des travaux de Planification / Technicien des Ressources Humaines / Adjoint d'Administration | A/B2/B1/C | 1 | 1 | 1 | 1 | 1
 --- | --- | --- | --- | --- | --- | --- | ---
 Section Exécution du Budget
-Chef de Section | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/Administrateur des Ressources Humaines/Planificateur/Ingénieur de la Statistique/Contrôleur des Finances/Contrôleur du Trésor/Contrôleur des Impôts/Contrôleur des Services Economiques /Technicien des travaux | A/B2 | 1 | 1 | 1 | 1 | 1
-Chargé de l'exécution du budget national et du suivi et de l'exécution des fonds d'origine extérieur | Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/Planificateur/Ingénieur de la Statistique /Contrôleur des Finances/Contrôleur du Trésor/Contrôleur des Impôts/Contrôleur des Services Economiques/ Adjoint des Finances/Adjoint des Impôts/Adjoint des Services Economiques/ Adjoint du trésor /Technicien des travaux de Planification / Technicien des Ressources Humaines / Adjoint d'Administration | A/B2/B1/C | 1 | 1 | 1 | 2 | 2
+Chef de Section | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/Administrateur des Ressources Humaines/Planificateur/Ingénieur de la Statistique/Contrôleur des Finances/Contrôleur du Trésor/Contrôleur des Impôts/Contrôleur des Services Economiques /Technicien des travaux de Planification. | A/B2 | 1 | 1 | 1 | 1 | 1
+Chargé de l'exécution du budget national et du suivi et de l'exécution des fonds d'origine extérieur | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/Planificateur/Ingénieur de la Statistique /Contrôleur des Finances/Contrôleur du Trésor/Contrôleur des Impôts/Contrôleur des Services Economiques/ Adjoint des Finances/Adjoint des Impôts/Adjoint des Services Economiques/ Adjoint du trésor /Technicien des travaux de Planification / Technicien des Ressources Humaines / Adjoint d'Administration | A/B2/B1/C | 1 | 1 | 1 | 2 | 2
 Chargé de l'exécution et du suivi et de l'exécution des fonds d'origine extérieur | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/Administrateur des Ressources Humaines / Technicien des Ressources Humaines Planificateur/Contrôleur des Finances/Contrôleur du Trésor/Contrôleur des Impôts/Contrôleur des Services Economiques/ Adjoint des Finances/Adjoint des Impôts/Adjoint des Services Economiques/ Adjoint du trésor /Technicien des travaux de Planification / Technicien des Ressources Humaines / Adjoint d'Administration | A/B2/B1/C | 1 | 1 | 1 | 1 | 1
 
 [[END OF PAGE 20]]
@@ -1316,7 +1374,7 @@ Chargé de l'exécution et du suivi et de l'exécution des fonds d'origine exté
 
 Chargé des comptes administratifs | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/ Administrateur des Ressources Humaines / Technicien des Ressources Humaines Planificateur /Contrôleur des Finances/Contrôleur du Trésor/Contrôleur des Impôts/Contrôleur des Services Economiques/ Adjoint des Finances/Adjoint des Impôts/Adjoint des Services Economiques/ Adjoint du trésor /Technicien des travaux de Planification / Technicien des Ressources Humaines / Adjoint d'Administration | A/B2/B1/C | 1 | 1 | 1 | 1 | 1
 --- | --- | --- | --- | --- | --- | --- | ---
-DIVISION APPROVISIONNEME NT MARCHES PUBLICS
+DIVISION APPROVISIONNEMENT MARCHES PUBLICS
 Chef de Division | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/ Administrateur du travail et de la sécurité sociale/ Planificateur | A | 1 | 1 | 1 | 1 | 1
 Section approvisionnement Courant
 Chef de section | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/ Administrateur du travail et de la sécurité sociale/ Administrateur des Ressources Humaine/Planificateur/ Contrôleur des Finances/Contrôleur du Trésor/Contrôleur des Impôts/Contrôleur des Services Economiques/ Technicien des travaux de Planification | A/B2 | 1 | 1 | 1 | 1 | 1
@@ -1367,9 +1425,9 @@ Section tenue de la Comptabilité du Matériel en service et en approvisionnemen
 Chef de Section | Inspecteurs: des Finances / du Trésor/des services Economiques/des impôts/ Administrateur Civil/ Administrateur du travail et de la sécurité sociale/Contrôleur : des Finances/ du Trésor/ des Impôts/ des Services Economiques | A/B2 | 1 | 1 | 1 | 1 | 1
 Chargé de la Réception et du Suivi du Matériel et des Matières | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/Administrateur du travail et de la sécurité sociale/ Technicien des Ressources Humaines /Planificateur/Contrôleur des Finances/Contrôleur du Trésor/Contrôleur des Impôts/Contrôleur des Services Economiques/Secrétaire d'Administration/Attaché d'Administration / Technicien des travaux de Planification./Adjoint des Finances/Adjoint des Impôts/Adjoint des Services Economiques/Adjoint du trésor/Technicien des Ressources Humaines /Adjoint d'Administration | A/B2/B1/C | 1 | 1 | 1 | 1 | 1
 Chargé de l'Inventaire Périodique, du Suivi des Services et des Bâtiments Publics | Inspecteur des Finances/ Inspecteur du Trésor/Inspecteur des Impôts/Inspecteur des Services Economiques/Administrateur Civil/ Administrateur du travail et de la sécurité sociale/Technicien des Ressources Humaines l/Planificateur/Contrôleur des Finances/Contrôleur du Trésor/Contrôleur des Impôt/Contrôleur des Services Economiques/Secrétaire d'Administration/Attaché d'Administration / Technicien des travaux de Planification./Adjoint des Finances/Adjoint des Impôts/Adjoint des Services Economiques/Adjoint du trésor/Technicien des Ressources Humaines/Adjoint d'Administration | A/B2/B1/C | 1 | 1 | 1 | 1 | 1
-TOTAL | 37 | 37 | 38 | 40 | 40
+TOTAL |  |  | 37 | 37 | 38 | 40 | 40
 
-Article 2 : Le présent décret abroge le Décret n°10-635/PRM du 29 novembre 2010 déterminant le cadre organique de la Direction des Finances et du Matériel du Ministère des Maliens de l'Extérieur et l'Intégration africaine.
+Article 2 : Le présent décret abroge le Décret n°10-635/P-RM du 29 novembre 2010 déterminant le cadre organique de la Direction des Finances et du Matériel du Ministère des Maliens de l'Extérieur et l'Intégration africaine.
 
 Article  3 :  Le  ministre  des  Maliens  de  l'Extérieur,  le ministre du Travail et de la Fonction Publique, chargé des Relations avec les Institutions et le ministre de l'Economie et des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera enregistré et publié au Journal officiel.
 
@@ -1431,7 +1489,7 @@ ARTICLE 3 : Le présent arrêté sera enregistré, publié et communiqué partou
 
 ##### Le Ministre,
 
-##### Bah N'DAW ARRETE :
+##### Bah N'DAW
 
 #### ARRETE N° 2014-1970/MDAC-SG DU 22 JUILLET 2014 PORTANT REVERSEMENT DE PERSONNEL OFFICIER
 
@@ -1470,6 +1528,8 @@ ARTICLE 3 :  Le  présent  arrêté  qui  abroge  l'Arrêté  n° 2014-1561/MDAC
 #### ARRETE N° 2014-1974/MDAC-SG DU 23 JUILLET 2014PORTANT REVERSEMENT DE PERSONNEL OFFICIER
 
 ##### LE MINISTRE DE LA DEFENSE ET DES ANCIENS COMBATTANTS,
+
+###### ARRETE :
 
 [[END OF PAGE 25]]
 
@@ -1587,7 +1647,7 @@ ARTICLE 2 : Le présent arrêté sera enregistré, publié et communiqué partou
 
 ------------------------------
 
-#### ARRETE N° 2014-1988/MDAC-SG DU 24 JUILLET 2014  PORTANT  RADIATION  D'UN  SOUSOFFICIER DES FORCES ARMEES
+#### ARRETE N° 2014-1988/MDAC-SG DU 24 JUILLET 2014  PORTANT  RADIATION  D'UN  SOUS-OFFICIER DES FORCES ARMEES
 
 #### LE MINISTRE DE LA DEFENSE ET DES ANCIENS COMBATTANTS,
 
@@ -1705,7 +1765,7 @@ ARRETE N°2014-1873/MIS-SG DU 15 JUILLET 2014 PORTANT AGREMENT D'UNE ENTREPRISE 
 
 ###### ARRETE :
 
-ARTICLE 1 er :  La  Société  de  Surveillance  et  de Gardiennage dénommée «A-B-C-SECURI-MALI-G-IE», demeurant  à  Bamako,  quartier  Lafiabougou Bougoudani, rue 438, porte 748, est agréée en qualité d'Entreprise Privée de Surveillance et de Gardiennage.
+ARTICLE 1 er :  La  Société  de  Surveillance  et  de Gardiennage dénommée «A-B-C-SECURI-MALI-G-I-E», demeurant  à  Bamako,  quartier  Lafiabougou Bougoudani, rue 438, porte 748, est agréée en qualité d'Entreprise Privée de Surveillance et de Gardiennage.
 
 ARTICLE  2 :  La  Société  de  Surveillance  et  de Gardiennage «A-B-C-SECURI-MALI-G-I-E» ,   est autorisée  à  exercer  les  activités  de  gardiennage  et  de surveillance  à  Bamako  et  dans  toute  autre  localité  du territoire national conformément à la réglementation en vigueur.
 
@@ -1909,7 +1969,7 @@ ARRETE  INTERMINISTERIEL  N°2014-2044/ MESRS-MSHP-SG DU 31 JUILLET 2014 PORTANT
 
 ###### ARRETENT :
 
-ARTICLE 1 er  : Est  approuvé  la  convention  hospitalouniversitaire  conclue  entre  l'Agence  Nationale  de  la Sécurité Sanitaire des Aliments et l'Université des Sciences, des Techniques et des Technologies de Bamako.
+ARTICLE 1 er  : Est  approuvé  la  convention  hospitalo-universitaire  conclue  entre  l'Agence  Nationale  de  la Sécurité Sanitaire des Aliments et l'Université des Sciences, des Techniques et des Technologies de Bamako.
 
 ARTICLE 2 : Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera.
 
@@ -1921,7 +1981,7 @@ ARTICLE 2 : Le présent arrêté sera enregistré, publié et communiqué partou
 
 ------------------------------
 
-ARRETE N°2014-2362/MESRS-SG DU 28 AOUT 2014 PORTANT MODIFICATION DE L'ARRETE N°20131844/MESRS-SG DU 06 MAI 2013 FIXANT LA LISTE NOMINATIVE DES MEMBRES DU CONSEIL D'ADMINISTRATION DE L'ECOLE NORMALE SUPERIEURE DE BAMAKO.
+ARRETE N°2014-2362/MESRS-SG DU 28 AOUT 2014 PORTANT MODIFICATION DE L'ARRETE N°2013-1844/MESRS-SG DU 06 MAI 2013 FIXANT LA LISTE NOMINATIVE DES MEMBRES DU CONSEIL D'ADMINISTRATION DE L'ECOLE NORMALE SUPERIEURE DE BAMAKO.
 
 #### LE MINISTRE DE L'ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE,
 
@@ -1973,7 +2033,7 @@ LE MINISTRE DES DOMAINES DE L'ETAT, DES AFFAIRES FONCIERES ET DU PATRIMOINE,
 
 ###### ARRETENT :
 
-ARTI CLE 1 er  : Sont suspendues sur toute l'étendue du territoire, les attributions et autorisations d'occupation des terrains du domaine public et privé immobilier de l'Etat et des Collectivités territoriales.
+ARTICLE 1 er  : Sont suspendues sur toute l'étendue du territoire, les attributions et autorisations d'occupation des terrains du domaine public et privé immobilier de l'Etat et des Collectivités territoriales.
 
 ARTICLE 2 : En ce qui concerne le domaine public immobilier :
 
@@ -1991,7 +2051,7 @@ ARTICLE 2 : En ce qui concerne le domaine public immobilier :
 
 - la suspension des affectations et cessions par l'Etat, de parcelles de terrains au Collectivités Territoriales.
 
-- ARTICLE 4 : Les présentes mesures s'appliquent même aux dossiers en cours de traitement.
+ARTICLE 4 : Les présentes mesures s'appliquent même aux dossiers en cours de traitement.
 
 ARTICLE 5 : Des  mesures  dérogatoires  peuvent  être spécifiquement prises dans tous les secteurs concernés, pour la poursuite ou l'élaboration de certains projets nécessitant des affectations, locations ou cessions de terrains.
 
@@ -2107,15 +2167,15 @@ ARRETE  N°2014-2313/MEN-SG  DU  25  AOUT 2014 PORTANT AUTORISATION D'OUVERTURE 
 
 ARTICLE 1 er  : Monsieur Abdel  Hamid  MAIGA, domicilié à Sareikaïna, Tél : 66.98.25.81, est autorisé à ouvrir à  Tombouctou, un établissement Privé d'Enseignement Technique et Professionnel dénommé « Institut Professionnel Chéibani MAIGA », en abrégé IPCM (avec les filières suivantes) :
 
-- 1 CAP Tertiaire :
+1 – CAP Tertiaire :
 
 - Travail de bureau ;
 
-- 2 CAP Industrie :
+2 – CAP Industrie :
 
 - Dessin Bâtiment, Construction Métallique, Menuiserie bois.
 
-## 3 BT Tertiaire :
+## 3 – BT Tertiaire :
 
 - Secrétariat de Direction, Technique Comptable.
 
@@ -2253,7 +2313,7 @@ Secrétaire administratif : Mohamed Iknane Secrétaire  administratif  adjoint :
 
 ##### Secrétaire à l'organisation : Mohamed Handa DICKO
 
-##### Secrétaire à l'organisation 1 er   adjoint :
+##### Secrétaire à l'organisation 1 er   adjoint : Abdoulaye I.
 
 DICKO
 
@@ -2274,8 +2334,6 @@ DICKO
 #### Secrétaire  aux  relations  humanitaires : Mohamed Ibrahim DICKO
 
 #### Secrétaire aux relations humanitaires adjoint : Mogaze Ag Mohamed Iknane
-
-Abdoulaye I.
 
 Secrétaire au développement : Mohamed A. YATTARA Secrétaire au développement adjoint : Mohamed Ag Med Aljoumagatt
 
@@ -2311,63 +2369,15 @@ Secrétaire administratif : Kaourou DEMBELE Secrétaire administrative adjointe 
 
 [[START OF PAGE 37]]
 
-1917 06 Novembre 2015              JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
+06 Novembre 2015              JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
-#### Secrétaire à l'information et à la presse : Niamakan DEMBELE LISTE DES MEMBRES DU BUREAU :
+1917
 
-###### Présidente :
+#### Secrétaire à l'information et à la presse : Niamakan DEMBELE
 
-Aissa Madjou MAIGA
+#### Secrétaire à l'information et à la presse adjoint : Moussa KAMISSOKO
 
-###### Secrétaire administratif : Mahamadou Amidjié TOURE
-
-###### Trésorier :
-
-Sidi Almoctar TOURE
-
-##### Secrétaire chargé de la communication : Hawa Bingui TRAORE
-
-###### Commissaire aux comptes :
-
-Dian dit Mohamed DIAKITE
-
-###### Secrétaire logistique : Maimouna MAIGA
-
-------------------------------
-
-Suivant récépissé n°0647/G-DB en date du 6 août  2015, il a été créé une association  dénommée : «Association pour le Développement du Village de Fono », (Commune rurale de Yangasso ; cercle de Bla, Région de Ségou, en abrégé (A.D.F.O).
-
-But : Union entre les ressortissants du village de Fono et associés ; la participation au développement de la localité par  la  recherche  de  solutions  aux  problèmes  sociaux, économiques et culturels, etc.
-
-Siège Social : Yirimadio aux 320 Llogements, rue 220, porte 67.
-
-###### LISTE DES MEMBRES DU BUREAU :
-
-###### Président : Issa TANGARA
-
-###### Secrétaire général et administratif : Lassine TANGARA
-
-##### 1 er  Secrétaire à l'organisation et à la communication : Abdoulaye KOBARA
-
-##### 2 ème  Secrétaire à l'organisation  et à la communication : Drissa COULIBALY
-
-##### Secrétaire    au  développement  et  aux  relations extérieures : Oumar KOBARA
-
-##### Secrétaire  aux  actions  sociales  et  aux  conditions féminines : Daouda COULIBALY
-
-###### Trésorier général :
-
-###### Youssouf SAMAKE
-
-###### Trésorier général  adjoint:
-
-###### Drissa DEMBELE
-
-##### 1 er  commissaire  aux comptes et aux  conflits : Sinaly TANGARA
-
-##### 2 ème  commissaire  aux comptes et aux  conflits : Moussa DEMBELE
-
-#### Secrétaire à l'information et à la presse adjoint : Moussa KAMISSOKO Secrétaire  aux  relations  extérieures : Mambia DEMBELE
+#### Secrétaire  aux  relations  extérieures : Mambia DEMBELE
 
 #### Secrétaire aux relations extérieures adjointe : Diantoum N°1 DANSIRA
 
@@ -2377,7 +2387,7 @@ Siège Social : Yirimadio aux 320 Llogements, rue 220, porte 67.
 
 #### Secrétaire chargée de la femme, de l'enfant et de la famille: Alima DANSIRA
 
-#### Secrétaire chargée de la femme, de l'enfant et de la famille adjointe: D iantoum DANSIRA
+#### Secrétaire chargée de la femme, de l'enfant et de la famille adjointe: Diantoum DANSIRA
 
 #### Secrétaire à l'emploi et à la formation professionnelle: Samakoun DEMBELE
 
@@ -2404,6 +2414,50 @@ Suivant récépissé n°0799/G-DB en date du 28 septembre 2015,    il  a  été 
 But : Promouvoir la valorisation de la culture malienne, etc.
 
 ##### Siège Social : Badalabougou  Séma I  rue 62, porte 111
+
+###### LISTE DES MEMBRES DU BUREAU :
+
+###### Présidente : Aissa Madjou MAIGA
+
+###### Secrétaire administratif : Mahamadou Amidjié TOURE
+
+###### Trésorier : Sidi Almoctar TOURE
+
+##### Secrétaire chargé de la communication : Hawa Bingui TRAORE
+
+###### Commissaire aux comptes : Dian dit Mohamed DIAKITE
+
+###### Secrétaire logistique : Maimouna MAIGA
+
+------------------------------
+
+Suivant récépissé n°0647/G-DB en date du 6 août  2015, il a été créé une association  dénommée : «Association pour le Développement du Village de Fono », (Commune rurale de Yangasso ; cercle de Bla, Région de Ségou, en abrégé (A.D.F.O).
+
+But : Union entre les ressortissants du village de Fono et associés ; la participation au développement de la localité par  la  recherche  de  solutions  aux  problèmes  sociaux, économiques et culturels, etc.
+
+Siège Social : Yirimadio aux 320 Llogements, rue 220, porte 67.
+
+###### LISTE DES MEMBRES DU BUREAU :
+
+###### Président : Issa TANGARA
+
+###### Secrétaire général et administratif : Lassine TANGARA
+
+##### 1 er  Secrétaire à l'organisation et à la communication : Abdoulaye KOBARA
+
+##### 2 ème  Secrétaire à l'organisation  et à la communication : Drissa COULIBALY
+
+##### Secrétaire    au  développement  et  aux  relations extérieures : Oumar KOBARA
+
+##### Secrétaire  aux  actions  sociales  et  aux  conditions féminines : Daouda COULIBALY
+
+###### Trésorier général : Youssouf SAMAKE
+
+###### Trésorier général  adjoint: Drissa DEMBELE
+
+##### 1 er  commissaire  aux comptes et aux  conflits : Sinaly TANGARA
+
+##### 2 ème  commissaire  aux comptes et aux  conflits : Moussa DEMBELE
 
 [[END OF PAGE 37]]
 
@@ -2461,9 +2515,9 @@ Ousmane Alassane
 
 ###### Secrétaire  aux comptes adjoint :
 
-###### Secrétaire  aux conflits :
-
 Mohamed Ag Mohamed
+
+###### Secrétaire  aux conflits :
 
 Ananfo Ag Mohamed CISSE
 
