@@ -4,7 +4,13 @@
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-※ 이 영문법령은 한국법제연구원에서 제공하고 있으며 , 한국법령의 이해를 높이기 위한 참고자료로써 , 어떠한 법적 효력이나 공식 적 효력도 없습니다 .
+Ministry of Government Legislation
+
+NATIONAL LEGAL INFORMATION CENTER
+
+PRINT
+
+※ 이 영문법령은 한국법제연구원에서 제공하고 있으며, 한국법령의 이해를 높이기 위한 참고자료로써, 어떠한 법적 효력이나 공식적 효력도 없습니다.
 
 # FRAMEWORK ACT ON EDUCATION
 
@@ -63,41 +69,41 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 ### Article 7 (Educational Finances)
 (1) The State and local governments shall establish and implement a policy necessary to secure stability of educational finances.
 
-- Matters necessary for local education subsidies, etc. for stability of educational finances shall be determined separately by other statutes.
+(2) Matters necessary for local education subsidies, etc. for stability of educational finances shall be determined separately by other statutes.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
 ### Article 8 (Compulsory Education)
 (1) Compulsory education shall be elementary education for six years and secondary education for three years.
 
-- Every citizen shall have a right to receive the compulsory education referred to in paragraph (1).
+(2) Every citizen shall have a right to receive the compulsory education referred to in paragraph (1).
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
 ### Article 9 (School Education)
 (1) Schools shall be established to provide early childhood education, elementary education, secondary education, and higher education.
 
-- Schools shall be public in nature and shall make efforts to maintain and develop sciences and cultural heritage and promote the lifelong education of residents as well as educating students.
+(2) Schools shall be public in nature and shall make efforts to maintain and develop sciences and cultural heritage and promote the lifelong education of residents as well as educating students.
 
-- School education shall be provided with an emphasis on education of the whole person, including the development of creativity and the cultivation of human nature for students.
+(3) School education shall be provided with an emphasis on education of the whole person, including the development of creativity and the cultivation of human nature for students.
 
-- Fundamentals of school education, such as types, establishment, and management of schools, shall be determined separately by other statutes.
+(4) Fundamentals of school education, such as types, establishment, and management of schools, shall be determined separately by other statutes.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
 ### Article 10 (Social Education)
 (1) All forms of social education for lifelong education of citizens shall be encouraged.
 
-- Completion of social education may be recognized as completion of school education equivalent thereto, as prescribed by statutes and regulations.
+(2) Completion of social education may be recognized as completion of school education equivalent thereto, as prescribed by statutes and regulations.
 
-- Fundamentals of social education, such as types, establishment, and management of institutions for social education, shall be determined separately by other statutes.
+(3) Fundamentals of social education, such as types, establishment, and management of institutions for social education, shall be determined separately by other statutes.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
 ### Article 11 (Establishment of Schools)
 (1) The State and local governments shall establish and manage schools and institutions for social education.
 
-- Any juristic person or private person may establish and manage schools and institutions for social education, as prescribed by statutes.
+(2) Any juristic person or private person may establish and manage schools and institutions for social education, as prescribed by statutes.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
@@ -106,9 +112,9 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 ### Article 12 (Learners)
 (1) Fundamental human rights of learners including students shall be respected and protected in the process of school education or social education.
 
-- The curriculum of education, educational methods, educational materials, and educational facilities shall be provided to make the most of a learner's ability in a way that respects his/her personality and values his/her individuality.
+(2) The curriculum of education, educational methods, educational materials, and educational facilities shall be provided to make the most of a learner's ability in a way that respects his/her personality and values his/her individuality.
 
-- Students shall establish learning ethics and observe school regulations, and shall neither interfere with teachers' educational or research activities nor disturb school order.
+(3) Students shall establish learning ethics and observe school regulations, and shall neither interfere with teachers' educational or research activities nor disturb school order.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
@@ -127,38 +133,38 @@ https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-- Guardian such as parents may present their opinions about education of their offspring or children under their care to schools, and the schools shall respect their opinions.
+(2) Guardian such as parents may present their opinions about education of their offspring or children under their care to schools, and the schools shall respect their opinions.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
 ### Article 14 (School Teachers)
 (1) Professionalism of teachers in school education shall be respected, economic and social status of school teachers shall be privileged, and such status shall be guaranteed.
 
-- School teachers shall make efforts to improve their character and quality as educators.
+(2) School teachers shall make efforts to improve their character and quality as educators.
 
-- School teachers shall establish educational ethics as a foundation for teaching learning ethics and knowledges to students, and developing aptitude of each student.
+(3) School teachers shall establish educational ethics as a foundation for teaching learning ethics and knowledges to students, and developing aptitude of each student.
 
-- School teachers shall neither guide nor instigate students for the purpose of supporting or opposing any particular political party or faction.
+(4) School teachers shall neither guide nor instigate students for the purpose of supporting or opposing any particular political party or faction.
 
-- School teachers may hold other public positions as prescribed by statutes.
+(5) School teachers may hold other public positions as prescribed by statutes.
 
-- Matters necessary for the appointment, service, remuneration, pension, etc. of school teachers shall be determined separately by other statutes.
+(6) Matters necessary for the appointment, service, remuneration, pension, etc. of school teachers shall be determined separately by other statutes.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
 ### Article 15 (School Teachers' Organizations)
 (1) School teachers shall make efforts to promote education and to advance culture in cooperation with another, and they may form teachers' organizations at local governments and the central government to improve teachers' economic and social status.
 
-- Necessary matters for forming teachers' organizations referred to in paragraph (1) shall be prescribed by Presidential Decree.
+(2) Necessary matters for forming teachers' organizations referred to in paragraph (1) shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
 ### Article 16 (Founders or Managers of Schools, etc.)
 (1) A founder or manager of a school or institution for social education shall secure facilities, equipments, finances, school teachers for education, etc. and shall operate and manage them, as prescribed by statutes and regulations.
 
-- The head of a school, or a founder or manager of an institution for social education shall select and educate learners as prescribed by statutes and regulations and shall record and manage the course of education, such as academic records, etc. of learners.
+(2) The head of a school, or a founder or manager of an institution for social education shall select and educate learners as prescribed by statutes and regulations and shall record and manage the course of education, such as academic records, etc. of learners.
 
-- The curriculum of education of a school or an institution for social education shall be open to learners in advance.
+(3) The curriculum of education of a school or an institution for social education shall be open to learners in advance.
 
 ### Article 17 (State and Local Governments)
 The State and local governments shall provide direction and supervision to schools and institutions for social education.
@@ -170,11 +176,11 @@ The State and local governments shall provide direction and supervision to schoo
 ### Article 17-2 (Advancement of Equality of Education of Males and Females)
 (1) The State and local governments shall formulate and implement policies to achieve gender equality in a more active way.
 
-- The State and local governments, and founders or managers of schools or institutions for social education referred to in Article 16, shall not practise discrimination, such as restricting or excluding participation or benefits on the grounds of gender, without any reasonable grounds, when providing education.
+(2) The State and local governments, and founders or managers of schools or institutions for social education referred to in Article 16, shall not practise discrimination, such as restricting or excluding participation or benefits on the grounds of gender, without any reasonable grounds, when providing education.
 
-- The policies referred to in paragraph (1) shall include educational plans to focus on promoting the fields in which female activities are insignificant, such as sports, science and technology.
+(3) The policies referred to in paragraph (1) shall include educational plans to focus on promoting the fields in which female activities are insignificant, such as sports, science and technology.
 
-- The Deliberation Committee for Equal Education of Male and Female shall be established in order to provide advice to the Minister of Education in regard to matters prescribed by Presidential Decree, including criteria for and details of school curricula for advancement of gender equality in school education.  <Amended by Act No. 8852, Feb. 29, 2008; Act No. 11690, Mar. 23, 2013>
+(4) The Deliberation Committee for Equal Education of Male and Female shall be established in order to provide advice to the Minister of Education in regard to matters prescribed by Presidential Decree, including criteria for and details of school curricula for advancement of gender equality in school education. <Amended by Act No. 8852, Feb. 29, 2008; Act No. 11690, Mar. 23, 2013>
 
 https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
@@ -188,7 +194,9 @@ https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-- Necessary matters for the members' qualification, composition and operation of the Deliberation Committee for Equal Education of Male and Female referred to in paragraph (4) shall be prescribed by Presidential Decree. [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
+(5) Necessary matters for the members’ qualification, composition and operation of the Deliberation Committee for Equal Education of Male and Female referred to in paragraph (4) shall be prescribed by Presidential Decree.
+
+[This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
 ### Article 17-3 (Establishment of Learning Ethics)
 The State and local governments shall establish and implement policies necessary for making all citizens enable to acquire ethics required for various processes of education, such as the studies, research, and examinations.
@@ -260,7 +268,7 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 
 policies necessary for informatization of education, such as providing support for education on informatization and education through information communications media and promoting the educational information industry.
 
-- Education on informatization under paragraph (1) shall include education regarding legal and ethical standards necessary to use information communications media in order to prevent any damage to others' reputation, lives, bodies, and property.
+(2) Education on informatization under paragraph (1) shall include education regarding legal and ethical standards necessary to use information communications media in order to prevent any damage to others’ reputation, lives, bodies, and property.
 
 [This Article Wholly Amended by Act No. 15950, Dec. 18, 2018]
 
@@ -272,9 +280,9 @@ The State and local governments shall devise policies for electronic processing 
 ### Article 23-3 (Principles of Student Information Protection)
 (1) Student information such as school activity records shall be collected, processed, used, or managed for educational purpose.
 
-- Guardians such as parents shall have a right to access to student information referred to in paragraph (1) on those under their care such as their offspring.
+(2) Guardians such as parents shall have a right to access to student information referred to in paragraph (1) on those under their care such as their offspring.
 
-- The student information referred to in paragraph (1) may not be provided to a third party without a consent from the relevant student (where the student is a minor, the relevant student and his guardians such as his parents) except as provided in statutes.
+(3) The student information referred to in paragraph (1) may not be provided to a third party without a consent from the relevant student (where the student is a minor, the relevant student and his guardians such as his parents) except as provided in statutes.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
@@ -291,14 +299,14 @@ The State and local governments shall support and foster private schools and sha
 ### Article 26 (Evaluation and Certification System)
 (1) The State may establish and operate a system on achievement evaluation and certification of attainments so that citizens' academic records or such can be fairly evaluated and gain public recognition in society.
 
-- The evaluation and certification system referred to in paragraph (1) shall be mutually linked to educational systems, such as school curricula.
+(2) The evaluation and certification system referred to in paragraph (1) shall be mutually linked to educational systems, such as school curricula.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
 ### Article 26-2 (Disclosure of Information Related to Education)
 (1) The State and local governments shall open to public information related to education under their possession and control, in order to guarantee citizens' right to know and to learn.
 
-- Fundamentals for disclosure of information related to education referred to in paragraph (1) shall be prescribed separately by other statutes.
+(2) Fundamentals for disclosure of information related to education referred to in paragraph (1) shall be prescribed separately by other statutes.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
@@ -324,7 +332,7 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 
 implement necessary policies to promote health and welfare of students and school personnel.  <Amended by Act No. 8915, Mar. 21, 2008>
 
-- The State and local governments shall establish and implement policies necessary to construct housing for student welfare in order to create safe living environment for students.  <Newly Inserted by Act No. 8915, Mar. 21, 2008>
+(2) The State and local governments shall establish and implement policies necessary to construct housing for student welfare in order to create safe living environment for students. <Newly Inserted by Act No. 8915, Mar. 21, 2008>
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
@@ -333,24 +341,24 @@ implement necessary policies to promote health and welfare of students and schoo
 
 educational expense aid or such for persons who have difficulty in receiving education due to economic reasons.
 
-- The State may subsidize all or part of school tuition fees or other required expenses to the following persons:
+(2) The State may subsidize all or part of school tuition fees or other required expenses to the following persons:
 
-- Persons who are in educational programs to be teachers;
+1. Persons who are in educational programs to be teachers;
 
-- Persons who major in or research, inside or outside the country, in fields especially needed by the State.
+2. Persons who major in or research, inside or outside the country, in fields especially needed by the State.
 
-- Necessary matters for methods or procedures for granting scholarships and subsidies for educational expenses, and the qualifications for and duties of those who are to be provided with such scholarships and subsidies under paragraphs (1) and (2) shall be determined by Presidential Decree.
+(3) Necessary matters for methods or procedures for granting scholarships and subsidies for educational expenses, and the qualifications for and duties of those who are to be provided with such scholarships and subsidies under paragraphs (1) and (2) shall be determined by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
 ### Article 29 (Globalized Education)
 (1) The State shall make efforts to provide globalized education for citizens to be equipped with knowledge and abilities as members of global community.
 
-- The State shall provide policies to conduct school education or social education for Koreans residing overseas.
+(2) The State shall provide policies to conduct school education or social education for Koreans residing overseas.
 
-- The State shall provide policies on studying overseas to promote academic studies and shall support education and research activities for better understanding of the Republic to foreign countries and to establish the identity of Korean culture.
+(3) The State shall provide policies on studying overseas to promote academic studies and shall support education and research activities for better understanding of the Republic to foreign countries and to establish the identity of Korean culture.
 
-- The State shall provide policies for educational cooperations with foreign governments and international organizations.
+(4) The State shall provide policies for educational cooperations with foreign governments and international organizations.
 
 [This Article Wholly Amended by Act No. 8705, Dec. 21, 2007]
 
