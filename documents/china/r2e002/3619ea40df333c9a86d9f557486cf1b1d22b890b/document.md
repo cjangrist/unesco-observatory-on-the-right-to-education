@@ -1,12 +1,15 @@
 [[START OF PAGE 1]]
-
+北大法律英文网
+www.lawinfochina.com
 Aug. 5, 2019
 
 ---------------------
 
 Monday
 
-Login >>>Welcome visitor, you're not logged in.
+>>>Welcome visitor, you're not logged in.
+
+Login
 
 Subscribe Now!
 
@@ -18,33 +21,7 @@ About Us
 
 Chinese
 
-Issuing authority ：
-
-Standing Committee of the National People's Congress
-
-Document Number ：
-
-Order No.16 of the President of the People's Republic
-
-of China
-
-Date issued ：
-
-10-26-2018
-
-Effective date:
-
-10-26-2018
-
-Level of Authority:
-
-Laws
-
-Area of Law: Civil Law
-
-lawinfochina.com > Laws & Regulations >
-
-Text
+lawinfochina.com > Laws & Regulations > Text
 
 Bookmark
 
@@ -58,13 +35,39 @@ Search:
 
 Font Size:
 
+EN
+
+中
+
 简体 繁体
 
 # Law of the People's Republic of China on the Protection of Women's Rights and Interests (2018 Amendment) [Effective]
 
-# 中华人民共和国妇女权益保障法 (2018 修正 ) [ 现行有效 ]
+# 中华人民共和国妇女权益保障法(2018修正) [现行有效]
 
 【法宝引证码】 CLI.1.324963(EN)
+
+Issuing authority:
+
+Standing Committee of the National People's Congress
+
+Date issued:
+
+10-26-2018
+
+Level of Authority:
+
+Laws
+
+Document Number:
+
+Order No.16 of the President of the People's Republic of China
+
+Effective date:
+
+10-26-2018
+
+Area of Law: Civil Law
 
 # Law of the People's Republic of China on the Protection of Women's Rights and Interests
 
@@ -72,92 +75,140 @@ Font Size:
 
 ## Contents
 
-# 中华人民共和国妇女权益保障法
-
-（ 1992 年 4 月 3 日第七届全国人民代表大会第五次会议通过 根据 2005 年 8 月 28 日第十届全国人民代表大会常务委员会 第十七次会议《关于修改〈中华人民共和国妇女权益保障 法〉的决定》第一次修正　根据 2018 年 10 月 26 日第十三 届全国人民代表大会常务委员会第六次会议《关于修改 〈中华人民共和国野生动物保护法〉等十五部法律的决 定》第二次修正）
-
-## 目　　录
-
 Chapter I General Provisions
-
-第一章　总　　则
 
 Chapter II Political Rights
 
-第二章　政治权利
-
 Chapter III Rights and Interests Relating to Culture and Education
-
-第三章　文化教育权益
 
 Chapter IV Rights and Interests of Labor and Social Security
 
-第四章　劳动和社会保障权益
-
 Chapter V Rights and Interests Relating to Property
-
-第五章　财产权益
 
 Chapter VI Right of Person
 
-第六章　人身权利
-
 Chapter VII Rights and Interests Relating to Marriage and Family
-
-第七章　婚姻家庭权益
 
 Chapter VIII Legal Liability
 
-第八章　法律责任
-
 Chapter IX Supplementary Provisions
 
-第九章　附　　则
-
 ## Chapter I General Provisions
-
-## 第一章　总　　则
-
-### 第一条
-为了保障妇女的合法权益，促进男女平等， 充分发挥妇女在社会主义现代化建设中的作用，根据宪法 和我国的实际情况，制定本法。
 
 ### Article 1
 In accordance with the Constitution and the actual conditions of the country,this Law is formulated to protect women's lawful rights and interests, promote the equality between men and women and allow full play to women's role in socialist modernization.
 
+# 中华人民共和国妇女权益保障法
+
+（1992年4月3日第七届全国人民代表大会第五次会议通过　根据2005年8月28日第十届全国人民代表大会常务委员会第十七次会议《关于修改〈中华人民共和国妇女权益保障法〉的决定》第一次修正　根据2018年10月26日第十三届全国人民代表大会常务委员会第六次会议《关于修改〈中华人民共和国野生动物保护法〉等十五部法律的决定》第二次修正）
+
+## 目　　录
+
+第一章　总　　则
+
+第二章　政治权利
+
+第三章　文化教育权益
+
+第四章　劳动和社会保障权益
+
+第五章　财产权益
+
+第六章　人身权利
+
+第七章　婚姻家庭权益
+
+第八章　法律责任
+
+第九章　附　　则
+
+## 第一章　总　　则
+
+### 第一条
+为了保障妇女的合法权益，促进男女平等，充分发挥妇女在社会主义现代化建设中的作用，根据宪法和我国的实际情况，制定本法。
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
 ### Article 2
 Women shall enjoy equal rights with men in all aspects of political, economic, cultural, social and family life.
-### 第二条
-妇女在政治的、经济的、文化的、社会的和 家庭的生活等各方面享有同男子平等的权利。 It is a basic state policy to realize equality between men and women. The state shall take necessary measures to gradually improve various systems for the protection of the rights and interests of women and to eliminate all kinds of discrimination against women. 实行男女平等是国家的基本国策。国家采取必要措施，逐 步完善保障妇女权益的各项制度，消除对妇女一切形式的 歧视。 The state shall protect the special rights and interests enjoyed by the women under the law. 国家保护妇女依法享有的特殊权益。 It is prohibited to discriminate against, ill-treat, abandon or cruelly kill the women. 禁止歧视、虐待、遗弃、残害妇女。
+
+It is a basic state policy to realize equality between men and women. The state shall take necessary measures to gradually improve various systems for the protection of the rights and interests of women and to eliminate all kinds of discrimination against women.
+
+The state shall protect the special rights and interests enjoyed by the women under the law.
+
+It is prohibited to discriminate against, ill-treat, abandon or cruelly kill the women.
+
 ### Article 3
 The State Council shall work out a Program for the Development of Chinese Women and shall incorporate it into the plan on the national economy and social development.
-### 第三条
-国务院制定中国妇女发展纲要，并将其纳入 国民经济和社会发展规划。 Each local people's government at the county level shall, according to the Program for the Development of Chinese Women , work out a plan on the development of women within its own administrative area and shall incorporate it into the plan on development of the national economy and social development. 县级以上地方各级人民政府根据中国妇女发展纲要，制定 本行政区域的妇女发展规划，并将其纳入国民经济和社会 发展计划。
+
+Each local people's government at the county level shall, according to the Program for the Development of Chinese Women, work out a plan on the development of women within its own administrative area and shall incorporate it into the plan on development of the national economy and social development.
+
 ### Article 4
 The protection of women's lawful rights and interests is a common responsibility of the whole society. State organs, public organizations, enterprises and institutions as well as urban and rural mass organizations of self-government at the grass-roots level shall, in accordance with the provisions of this Law and other relevant laws, protect women's rights and interests.
-### 第四条
-保障妇女的合法权益是全社会的共同责任。 国家机关、社会团体、企业事业单位、城乡基层群众性自 治组织，应当依照本法和有关法律的规定，保障妇女的权 益。 The state shall take effective measures to provide necessary conditions for women to exercise their rights according to law. 国家采取有效措施，为妇女依法行使权利提供必要的条 件。
+
+The state shall take effective measures to provide necessary conditions for women to exercise their rights according to law.
+
 ### Article 5
-The state shall encourage women to cultivate a sense of self-respect, selfconfidence, self-reliance and self-strengthening, and to safeguard their own lawful rights and interests by utilizing law.
-### 第五条
-国家鼓励妇女自尊、自信、自立、自强，运 用法律维护自身合法权益。 Women shall abide by the laws of the state, respect social morality and perform their obligations prescribed by law. 妇女应当遵守国家法律，尊重社会公德，履行法律所规定 的义务。
+The state shall encourage women to cultivate a sense of self-respect, self-confidence, self-reliance and self-strengthening, and to safeguard their own lawful rights and interests by utilizing law.
+
+Women shall abide by the laws of the state, respect social morality and perform their obligations prescribed by law.
+
 ### Article 6
 The people's governments at all levels shall attach importance to and strengthen the protection of rights and interests of women.
-### 第六条
-各级人民政府应当重视和加强妇女权益的保 障工作。 The people's governments at and above the county level shall be the institutions responsible for the work of women and children. They shall organize, coordinate, guide and urge the relevant departments to conduct well the protection of the rights and interests of women." 县级以上人民政府负责妇女儿童工作的机构，负责组织、 协调、指导、督促有关部门做好妇女权益的保障工作。 The relevant departments of the people's governments at the county level or above shall do well the work of protection of the rights and interests of women within their respective scope of functions 县级以上人民政府有关部门在各自的职责范围内做好妇女 权益的保障工作。
+
+The people's governments at and above the county level shall be the institutions responsible for the work of women and children. They shall organize, coordinate, guide and urge the relevant departments to conduct well the protection of the rights and interests of women."
+
+The relevant departments of the people's governments at the county level or above shall do well the work of protection of the rights and interests of women within their respective scope of functions
+
 ### Article 7
-The All-China Women's Federation and women's federations at various levels shall, in accordance with the laws and Charter of the All-China Women's Federation , represent and uphold the rights of women of all nationalities and all walks of life, and strive for the protection of women's rights and interests.
-### 第七条
-中华全国妇女联合会和地方各级妇女联合会 依照法律和中华全国妇女联合会章程，代表和维护各族各 界妇女的利益，做好维护妇女权益的工作。 The labor unions and the communist youth leagues shall, according to their respective working scope, strive for the protection of the rights and interests of women. 工会、共产主义青年团，应当在各自的工作范围内，做好 维护妇女权益的工作。
+The All-China Women's Federation and women's federations at various levels shall, in accordance with the laws and Charter of the All-China Women's Federation, represent and uphold the rights of women of all nationalities and all walks of life, and strive for the protection of women's rights and interests.
+
+The labor unions and the communist youth leagues shall, according to their respective working scope, strive for the protection of the rights and interests of women.
+
 ### Article 8
 People's governments at various levels and relevant departments shall commend and award the organizations and individuals that have made notable achievements in the protection of women's lawful rights and interests.
-### 第八条
-对保障妇女合法权益成绩显著的组织和个 人，各级人民政府和有关部门给予表彰和奖励。
 
 ## Chapter II Political Rights
+
+### 第二条
+妇女在政治的、经济的、文化的、社会的和家庭的生活等各方面享有同男子平等的权利。
+
+实行男女平等是国家的基本国策。国家采取必要措施，逐步完善保障妇女权益的各项制度，消除对妇女一切形式的歧视。
+
+国家保护妇女依法享有的特殊权益。
+
+禁止歧视、虐待、遗弃、残害妇女。
+
+### 第三条
+国务院制定中国妇女发展纲要，并将其纳入国民经济和社会发展规划。
+
+县级以上地方各级人民政府根据中国妇女发展纲要，制定本行政区域的妇女发展规划，并将其纳入国民经济和社会发展计划。
+
+### 第四条
+保障妇女的合法权益是全社会的共同责任。国家机关、社会团体、企业事业单位、城乡基层群众性自治组织，应当依照本法和有关法律的规定，保障妇女的权益。
+
+国家采取有效措施，为妇女依法行使权利提供必要的条件。
+
+### 第五条
+国家鼓励妇女自尊、自信、自立、自强，运用法律维护自身合法权益。
+
+妇女应当遵守国家法律，尊重社会公德，履行法律所规定的义务。
+
+### 第六条
+各级人民政府应当重视和加强妇女权益的保障工作。
+
+县级以上人民政府负责妇女儿童工作的机构，负责组织、协调、指导、督促有关部门做好妇女权益的保障工作。
+
+县级以上人民政府有关部门在各自的职责范围内做好妇女权益的保障工作。
+
+### 第七条
+中华全国妇女联合会和地方各级妇女联合会依照法律和中华全国妇女联合会章程，代表和维护各族各界妇女的利益，做好维护妇女权益的工作。
+
+工会、共产主义青年团，应当在各自的工作范围内，做好维护妇女权益的工作。
+
+### 第八条
+对保障妇女合法权益成绩显著的组织和个人，各级人民政府和有关部门给予表彰和奖励。
 
 ## 第二章　政治权利
 
@@ -256,6 +307,7 @@ database@chinalawinfo.com
 Message: Please kindly comment on the present translation.
 
 Confirmation Code:
+5998
 
 Click image to reset code!
 
