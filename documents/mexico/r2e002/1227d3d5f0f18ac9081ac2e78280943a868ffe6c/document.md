@@ -59,6 +59,8 @@ LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
+Nueva Ley DOF 11-09-2013
+
 #### Artículo 5.
 Para efectos de esta Ley se entenderá por:
 
@@ -99,8 +101,6 @@ La evaluación del Sistema Educativo Nacional tendrá, entre otros, los siguient
 - Ofrecer información sobre el grado de cumplimiento de los objetivos de mejora establecidos por las Autoridades Educativas;
 
 - Mejorar la gestión escolar y los procesos educativos, y
-
-Nueva Ley DOF 11-09-2013
 
 2 de 19
 
@@ -164,6 +164,8 @@ LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
+Nueva Ley DOF 11-09-2013
+
 - La Conferencia;
 
 - Los componentes, procesos y resultados de la evaluación;
@@ -206,8 +208,6 @@ Las Autoridades Educativas, en el ámbito de su competencia y en los términos d
 
 #### Artículo 16.
 Las autoridades escolares de las instituciones educativas establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez
-
-Nueva Ley DOF 11-09-2013
 
 4 de 19
 
@@ -461,6 +461,8 @@ LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
+Nueva Ley DOF 11-09-2013
+
 - Los órganos colegiados, y
 
 - La Contraloría Interna.
@@ -492,8 +494,6 @@ La designación de los integrantes de la Junta deberá recaer en personas que re
 Los  integrantes  de  la  Junta  desempeñarán  su  encargo  por  períodos  de  siete  años  en forma escalonada y podrán ser reelectos por una sola ocasión. Los integrantes no podrán durar en su encargo más de catorce años.
 
 En  caso  de  falta  absoluta  de  alguno  de  ellos,  quien  lo  sustituya  será  nombrado  en  los  mismos términos  del  artículo  32  de  la  presente  Ley,  y  el  nombramiento  respectivo  será  sólo  para  concluir  el periodo que corresponda.
-
-Nueva Ley DOF 11-09-2013
 
 10 de 19
 
@@ -711,7 +711,7 @@ El  Instituto  deberá  coordinarse  con  las  Autoridades  Educativas,  a  fin 
 En  el  ejercicio  de  sus  atribuciones,  el  Instituto  celebrará  los  actos  jurídicos  necesarios con las Autoridades Educativas, así como con instituciones académicas y de investigación, organizaciones  nacionales  o  extranjeras,  gubernamentales,  no  gubernamentales  e  internacionales, relacionadas con la evaluación de la educación.
 
 #### Artículo  54.
-En  los  actos  jurídicos  que  al  efecto  se  suscriban  se  establecerán  los  mecanismos  y actions que permitan una eficaz colaboración y coordinación entre el Instituto, las autoridades de los diferentes órdenes de gobierno, los docentes y las organizaciones relevantes en materia de evaluación de la educación.
+En  los  actos  jurídicos  que  al  efecto  se  suscriban  se  establecerán  los  mecanismos  y acciones que permitan una eficaz colaboración y coordinación entre el Instituto, las autoridades de los diferentes órdenes de gobierno, los docentes y las organizaciones relevantes en materia de evaluación de la educación.
 
 #### Artículo 55.
 El Instituto promoverá  estrategias para el eficaz intercambio de información y experiencias con las Autoridades Educativas que permitan retroalimentarse del quehacer educativo que a éstas corresponde, a fin de generar buenas prácticas en la evaluación que llevan a cabo.
@@ -744,6 +744,8 @@ La Contraloría Interna es el órgano de control, vigilancia, auditoría y fisca
 LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
+
+Nueva Ley DOF 11-09-2013
 
 #### Artículo 61 .
 Son facultades del Contralor Interno:
@@ -780,8 +782,6 @@ Lo dispuesto en este artículo se realizará sin perjuicio de los datos e inform
 
 ### Sección Séptima
 
-Nueva Ley DOF 11-09-2013
-
 16 de 19
 
 [[END OF PAGE 16]]
@@ -791,6 +791,8 @@ Nueva Ley DOF 11-09-2013
 LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
+
+Nueva Ley DOF 11-09-2013
 
 #### Del Régimen Laboral
 
@@ -829,8 +831,6 @@ Para facilitar la participación activa y equilibrada de los actores del proceso
 #### Artículo  68.
 La  función  del  Consejo  Social  Consultivo  de  Evaluación  de  la  Educación  es  conocer, opinar y dar seguimiento a los resultados de las evaluaciones que realice el Instituto, las directrices que de ellas deriven, así como a las acciones de su difusión.
 
-Nueva Ley DOF 11-09-2013
-
 17 de 19
 
 [[END OF PAGE 17]]
@@ -840,6 +840,8 @@ Nueva Ley DOF 11-09-2013
 LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
+
+Nueva Ley DOF 11-09-2013
 
 ## TRANSITORIOS
 
@@ -878,8 +880,6 @@ Los  informes  a  que  se  refiere  el  artículo  44,  fracciones  XII  y  XIII
 #### Décimo  Primero.
 En  un  plazo  no  mayor  de  30  días  naturales  contados  a  partir  del  día  de  la publicación de la presente Ley, se integrará la Contraloría Interna del Instituto y se designará a su titular.
 
-Nueva Ley DOF 11-09-2013
-
 18 de 19
 
 [[END OF PAGE 18]]
@@ -902,7 +902,7 @@ Los proyectos de trabajo y acciones administrativas que el Instituto Nacional pa
 
 México, D.F.,  a  23  de  agosto  de  2013.-  Dip. Francisco  Arroyo Vieyra ,  Presidente.-  Sen. Ernesto Cordero Arroyo , Presidente.- Dip. Javier Orozco Gomez , Secretario.- Sen. María Elena Barrera Tapia , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de septiembre de dos mil trece.Enrique Peña Nieto .- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de septiembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 19 de 19
 
