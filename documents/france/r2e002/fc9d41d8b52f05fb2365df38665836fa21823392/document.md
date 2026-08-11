@@ -24,9 +24,28 @@ By virtue of the Constitutional Law no. 2008-724 of July 23, 2008:
 
 [[START OF PAGE 3]]
 
-PREAMBLE
-
 # CONTENTS
+
+PREAMBLE
+TITLE I - On Sovereignty (art. 2 to 4)
+TITLE II - The President of the Republic (art. 5 to 19)
+TITLE III - The Government (art. 20 to 23)
+TITLE IV - Parliament (art. 24 to 33)
+TITLE V - On Relations between Parliament and the Government (art. 34 to 51)
+TITLE VI - On Treaties and International Agreements (art. 52 to 55)
+TITLE VII - The Constitutional Council (art. 56 to 63)
+TITLE VIII - On Judicial Authority (art. 64 to 66-1)
+TITLE IX - The High Court (art. 67 and 68)
+TITLE X - On the Criminal Liability of Members of the Government (art. 68-1 to 68-3)
+TITLE XI - The Economic, Social and Environmental Council (art. 69 to 71)
+TITLE XI A - The Defender of Rights (art. 71-1)
+TITLE XII - On Territorial Communities (art. 72 to 75)
+TITLE XIII - Transitional Provisions relating to New Caledonia (art. 76 to 77)
+TITLE XIV - On Association Agreements (art. 88)
+TITLE XV - On the European Communities and the European Union (art. 88-1 to 88-7)
+TITLE XVI - On Amendments to the Constitution (art. 89)
+TITLE XVII (Repealed)
+CHARTER FOR THE ENVIRONMENT
 
 3
 
@@ -36,7 +55,7 @@ PREAMBLE
 
 # C O N S T I T U T I O N
 
-The  Government  of  the  Republic,  in  accordance with the Constitutional statute of June 3 rd 1958, has proposed,
+The  Government  of  the  Republic,  in  accordance with the Constitutional statute of June 3rd 1958, has proposed,
 
 The French people have adopted,
 
@@ -72,7 +91,7 @@ The national emblem shall be the blue, white and red tricolour flag.
 
 The national anthem shall be La Marseillaise .
 
-The maxim of the Republic shall be 'Liberty, Equality, Fraternity'.
+The maxim of the Republic shall be “Liberty, Equality, Fraternity”.
 
 The principle of the Republic shall be: government of the people, by the people and for the people.
 
@@ -539,7 +558,7 @@ Acts of Parliament which are defined by the Constitution as being Institutional 
 
 [[START OF PAGE 19]]
 
-The  Government  or  Private  Member's  Bill  may  only  be  submitted,  on  first reading, to the consideration and vote of the Houses after the expiry of the periods set down in the third paragraph of article 42. Notwithstanding the foregoing, if the accelerated procedure has been applied according to the conditions provided for in article  45,  the  Government  or  Private  Member's  Bill  may  not  be  submitted  for consideration by the first House to which it is referred before the expiry of a fifteenday period after it has been tabled.
+The  Government  or  Private  Member's  Bill  may  only  be  submitted,  on  first reading, to the consideration and vote of the Houses after the expiry of the periods set down in the third paragraph of article 42. Notwithstanding the foregoing, if the accelerated procedure has been applied according to the conditions provided for in article  45,  the  Government  or  Private  Member's  Bill  may  not  be  submitted  for consideration by the first House to which it is referred before the expiry of a fifteen-day period after it has been tabled.
 
 The procedure set out in article 45 shall apply. Nevertheless, failing  agreement between the two Houses, the text  may  be  passed by  the  National  Assembly  on  a final reading only by an absolute majority of the Members thereof.
 
@@ -602,12 +621,12 @@ The  National  Assembly  may  call  the  Government  to  account  by  passing  a
 
 [[START OF PAGE 21]]
 
-The Prime Minister may, after deliberation by the Council of Ministers, make the passing  of  a  Finance  Bill  or  Social  Security  Financing  Bill  an  issue  of  a  vote  of confidence before the National Assembly. In that event, the Bill shall be considered passed unless a resolution of no-confidence, tabled within the subsequent twentyfour  hours,  is  carried  as  provided  for  in  the  foregoing  paragraph.  In  addition,  the Prime  Minister  may  use  the  said  procedure  for  one  other  Government  or  Private Members' Bill per session.
+The Prime Minister may, after deliberation by the Council of Ministers, make the passing  of  a  Finance  Bill  or  Social  Security  Financing  Bill  an  issue  of  a  vote  of confidence before the National Assembly. In that event, the Bill shall be considered passed unless a resolution of no-confidence, tabled within the subsequent twenty-four  hours,  is  carried  as  provided  for  in  the  foregoing  paragraph.  In  addition,  the Prime  Minister  may  use  the  said  procedure  for  one  other  Government  or  Private Members' Bill per session.
 
 The Prime Minister may ask the Senate to approve a statement of general policy.
 
 #### A RTICLE 50.
-When the National Assembly passes a resolution of noconfidence, or when it fails to endorse the Government programme or general policy statement, the Prime Minister shall tender the resignation of the Government to the President of the Republic.
+When the National Assembly passes a resolution of no-confidence, or when it fails to endorse the Government programme or general policy statement, the Prime Minister shall tender the resignation of the Government to the President of the Republic.
 
 #### A RTICLE 50-1.
 The Government may, before either House, upon its own initiative or  upon  the  request  of  a  political  group,  as  set  down  in  article  51-1,  make  a declaration on a given subject, which leads to a debate and, if it so desires, gives rise to a vote, without making it an issue of confidence.
@@ -691,7 +710,7 @@ The Constitutional Council shall rule on the proper conduct of the election of M
 The  Constitutional  Council  shall  ensure  the  proper  conduct  of referendum proceedings as provided for in articles 11 and 89 and in Title XV and shall proclaim the results of the referendum.
 
 #### A RTICLE 61.
-Institutional  Acts,  before  their  promulgation, Private  Members' Bills mentioned in article 11 before they are submitted to referendum, and the rules of procedure of the House s of Parliament shall, before coming into force, be referred to  the  Constitutional  Council,  which  shall  rule  on  their  conformity  with  the Constitution.
+Institutional  Acts,  before  their  promulgation, Private  Members' Bills mentioned in article 11 before they are submitted to referendum, and the rules of procedure of the Houses of Parliament shall, before coming into force, be referred to  the  Constitutional  Council,  which  shall  rule  on  their  conformity  with  the Constitution.
 
 23
 
@@ -845,13 +864,15 @@ A  member  of  the  Economic,  Social  and  Environmental  Council  may  be desi
 A referral may be made to the Economic, Social and Environmental Council by petition, in the manner determined by an Institutional Act. After consideration of the petition,  it  shall  inform  the  Government  and  Parliament  of  the  pursuant  action  it proposes.
 
 #### A RTICLE 70.
-The  Economic,  Social  and  Environmental  Council  may  also  be consulted by the Government or Parliament on any economic, social or environmental  issue.  The  Government  may  also  consult  it  on  Programming  Bills setting down  the  multiannual  guidelines for public finances. Any  plan  or Programming Bill of an economic, social or environmental nature shall be submitted to it for its opinion.
+The  Economic,  Social  and  Environmental  Council  may  also  be consulted by the Government or Parliament on any economic, social or environmental  issue.  The  Government  may  also  consult  it  on  Programming  Bills
 
 28
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+setting down the multiannual guidelines for public finances. Any plan or Programming Bill of an economic, social or environmental nature shall be submitted to it for its opinion.
 
 #### A RTICLE 71.
 The  composition  of  the  Economic,  Social  and  Environmental Council, which must not exceed two hundred and thirty-three members, and its rules of proceeding shall be determined by an Institutional Act.
@@ -876,7 +897,7 @@ The Defender of Rights is accountable for his actions to the President of the Re
 ### ON TERRITORIAL COMMUNITIES
 
 #### A RTICLE 72.
-The territorial communities of the Republic shall be the Communes, the Departments, the Regions, the Special-Status communities and the Overseas Territorial communities to which article 74 applies. Any other territorial community created, if need be, to replace one or more communities provided for by this paragraph shall be created by statute.
+The territorial communities of the Republic shall be the Communes, the Departments, the Regions, the Special-Status communities and the Overseas Territorial communities to which article 74 applies. Any other territorial
 
 29
 
@@ -884,9 +905,11 @@ The territorial communities of the Republic shall be the Communes, the Departmen
 
 [[START OF PAGE 30]]
 
+community created, if need be, to replace one or more communities provided for by this paragraph shall be created by statute.
+
 Territorial communities may take decisions in all matters arising under powers that can best be exercised at their level.
 
-In  the  conditions  provided  for  by  statute,  these  communities  shall  be  selfgoverning through elected  councils  and  shall  have  power  to  make  regulations  for matters coming within their jurisdiction.
+In  the  conditions  provided  for  by  statute,  these  communities  shall  be  self-governing through elected  councils  and  shall  have  power  to  make  regulations  for matters coming within their jurisdiction.
 
 In  the  manner  provided  for  by  an  Institutional  Act,  except  where  the  essential conditions  for  the  exercise  of  public  freedoms  or  of  a  right  guaranteed  by  the Constitution are affected, territorial communities or associations thereof may, where provision  is  made  by  statute  or  regulation,  as  the  case  may  be,  derogate  on  an experimental basis for limited purposes and duration from provisions laid down by statute or regulation governing the exercise of their powers.
 
@@ -972,7 +995,7 @@ This status shall be determined by an Institutional Act, passed after consultati
 
 - the  conditions  in  which  its  institutions  are  consulted  on  Government  or Private  Members'  Bills  and  draft  Ordinances  or  draft  Decrees  containing provisions relating specifically to the community and to the ratification or approval  of  international  undertakings  entered  into  in  matters  within  its powers
 
-The  Institutional  Act  may  also,  for  such  territorial  communities  as  are  selfgoverning, determine the conditions in which:
+The  Institutional  Act  may  also,  for  such  territorial  communities  as  are  self-governing, determine the conditions in which:
 
 - the Conseil d'État shall exercise specific judicial review of certain categories of decisions taken by the Deliberative Assembly in matters which are within the powers vested in it by statute ;
 
@@ -1025,13 +1048,15 @@ After approval of the agreement by the vote provided for in article 76, the Inst
 
 Any other measures required to give effect to the agreement referred to in article 76 shall be determined by statute.
 
-For the purpose of defining the body of electors called upon to elect members of the Deliberative Assemblies of New Caledonia and the provinces, the list referred to in  the  Agreement  mentioned  in  Article  76  hereof  and  Sections  188  and  189  of Institutional Act n° 99-209 of March 19th 1999 pertaining to New Caledonia is the list drawn up for the ballot provided for in Article 76 hereinabove which includes those persons not eligible to vote.
+For the purpose of defining the body of electors called upon to elect members of the Deliberative Assemblies of New Caledonia and the provinces, the list referred to in  the  Agreement  mentioned  in  Article  76  hereof  and  Sections  188  and  189  of
 
 34
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+
+Institutional Act n° 99-209 of March 19th 1999 pertaining to New Caledonia is the list drawn up for the ballot provided for in Article 76 hereinabove which includes those persons not eligible to vote.
 
 ## Title XI V
 
@@ -1152,13 +1177,15 @@ Everyone shall, in the conditions provided for by law, foresee and avoid the occ
 Everyone shall be required, in the conditions provided for by law, to contribute to the making good of any damage he or she may have caused to the environment.
 
 ### A RTICLE 5 .
-When the occurrence of any damage, albeit unpredictable in  the current  state  of  scientific  knowledge,  may  seriously  and  irreversibly  harm  the environment, public authorities shall, with due respect for the principle of precaution  and  the  areas  within  their  jurisdiction,  ensure  the  implementation  of procedures for risk assessment and the adoption of temporary measures commensurate with the risk involved in order to  preclude the  occurrence of such damage.
+When the occurrence of any damage, albeit unpredictable in  the current  state  of  scientific  knowledge,  may  seriously  and  irreversibly  harm  the environment, public authorities shall, with due respect for the principle of
 
 38
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+precaution and the areas within their jurisdiction, ensure the implementation of procedures for risk assessment and the adoption of temporary measures commensurate with the risk involved in order to preclude the occurrence of such damage.
 
 ### A RTICLE 6 .
 Public policies shall promote sustainable development. To this end they  shall  reconcile  the  protection  and  enhancement  of  the  environment  with economic development and social progress.
