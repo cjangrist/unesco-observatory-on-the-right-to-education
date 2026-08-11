@@ -26,13 +26,13 @@ ii
 
 The  objective  of  this  plan  is  to  provide  a  credible  plan  to  obtain  additional  financial resources to achieve Education For All (EFA) by 2015.  Yemen is a strong candidate for the  Fast  Track  Initiative  because  of  its  commitment  to  education  reform.  Yemen  has demonstrated  by  way  of  the  Poverty  Reduction  Strategy  Paper  (PRSP),  its  recently completed  and  approved  National  Basic  Education  Strategy  (BEDS),  its  Action  and Implementation  Plan  and  programs  being  implemented  with  donor  assistance  that  it  is capable of articulating a vision and implementing a program to improve basic education in Yemen. It is important to point that this proposal builds on the accomplishment of the Basic  Education  Strategy  and  on  the  Government  poverty  reduction,  which  both  were widely discussed with throughout the country.
 
-The Republic of Yemen, a country of 18 million population with a per capita GDP of US$518, is located in the southwest of the Arabian Peninsula, and has roughly 42 percent of its population living below the poverty line.  Despite the poverty and rapid population growth (3.7 percent among school aged children), the basic education system (grades 1-9) in Yemen has improved steadily over the past years the gross enrollment rate at the primary level (grades 1-6 of the basic education) increased from 61 percent in 1997 to 67 percent in 2001 while the proportion of repeaters declined from 11 percent in 1999 to 7 percent 2001. However, there is much that remains to be done to improve the equity,  quality,  and  internal  efficiency  of  education.    For  instance,  female  education  is one of the major issues in Yemen.  The primary net enrollment rate of female students is  only  41  percent compared  to  that  of  males  at  61  percent  although  the  former  has improved in the past five years, The average percentage of NER has increased more than boys' NER . This is especially so since rural girls are the most disadvantaged (30 percent of NER) , and the youth literacy rate for rural females in the age group 14 to 34 is only 27 percent.
+The Republic of Yemen, a country of 18 million population with a per capita GDP of US$518, is located in the southwest of the Arabian Peninsula, and has roughly 42 percent of its population living below the poverty line. Despite the poverty and rapid population growth (3.7 percent among school aged children), the basic education system (grades 1-9) in Yemen has improved steadily over the past years – the gross enrollment rate at the primary level (grades 1-6 of the basic education) increased from 61 percent in 1997 to 67 percent in 2001 while the proportion of repeaters declined from 11 percent in 1999 to 7 percent 2001. However, there is much that remains to be done to improve the equity, quality, and internal efficiency of education. For instance, female education is one of the major issues in Yemen. The primary net enrollment rate of female students is only 41 percent compared to that of males at 61 percent although the former has improved in the past five years, The average percentage of NER has increased more than boys’ NER. This is especially so since rural girls are the most disadvantaged (30 percent of NER) , and the youth literacy rate for rural females in the age group 14 to 34 is only 27 percent.
 
 The  Government  of  Yemen,  recognizing  education  to  be  one  of  the  key  factors  in reducing poverty and promoting economic development, has spent a large share of public expenditure on education (around 6 percent of GDP), and is committed to increasing the share  for  education  in  the  coming  years.    In  addition,  the  National  Poverty  Reduction Strategy Paper (PRSP) which was presented to the World Bank and IMF in August 2002, education is identified as one of the key factors in poverty reduction.
 
 The Government is well aware of the issues that are impeding progress towards achieving the  objectives  of  Education  for  All  (EFA)  and  has  been  commended  for  its  efforts  to implement steps to address them. The Government  has also demonstrated its commitment  to  achieve  EFA  with  a  national  Basic  Education  Development  Strategy (BEDS),  which  number  of  its'  priorities  are  being  implemented  with  the  support  of various development partners and stakeholders.
 
-Although all governorate resources will be directed to meet the social requirements for education by building additional classrooms with more attention paid to improving the quality and internal efficiency of basic education or decreasing the gap between girls and boys  and  between  urban  and  rural  areas,  arriving  at  universal  completion  of  primary education with adequate quality level of education by 2015  cannot be  reached without additional funding due to the high increase in population.
+Although all governorate resources will be directed to meet the social requirements for education by building additional classrooms with more attention paid to improving the quality and internal efficiency of basic education or decreasing the gap between girls and boys and between urban and rural areas, arriving at universal completion of primary
 
 iii
 
@@ -40,7 +40,9 @@ iii
 
 [[START OF PAGE 4]]
 
-The  first  three  years  (2003-2005)  of  the  BEDS  aims  to  improve  the  access,  quality, equity, and efficiency by strengthening capacity building at the central, governorate, and district levels.  Financial requirements for the three-year period are estimated at US$1.2 billion  or  US$414  million  per  year.    Wages  and  salaries  of  existing  teachers  and  new teachers, which are US$792 million (or US$264 million per year), will be financed by the Government.   The  financing  requirement  for  goods  and  services  (quality  improvement measures including capacity  building)  and  investment  (school  construction)  is  US$450 million or US$150 million per year.  The financial envelop for goods and services, and investment  is  estimated  at  US$354  million  or  US$118  million  per  year.    Thus, the additional  funding  required  during  the  first  phase  of  BEDS  is  US$96  million  (or US$32 million per  year-US$19 million for quality, equity, and efficiency improvements and US$13 million for school construction)equivalent to 27 percent of  the  budget  allocated  to  goods  and  services,  and  investment  in  2002.    This  amount needs to be financed by the FTI funding.
+education with adequate quality level of education by 2015 cannot be reached without additional funding due to the high increase in population.
+
+The first three years (2003-2005) of the BEDS aims to improve the access, quality, equity, and efficiency by strengthening capacity building at the central, governorate, and district levels. Financial requirements for the three-year period are estimated at US$1.2 billion or US$414 million per year. Wages and salaries of existing teachers and new teachers, which are US$792 million (or US$264 million per year), will be financed by the Government. The financing requirement for goods and services (quality improvement measures including capacity building) and investment (school construction) is US$450 million or US$150 million per year. The financial envelop for goods and services, and investment is estimated at US$354 million or US$118 million per year. Thus, the additional funding required during the first phase of BEDS is US$96 million (or US$32 million per year—US$19 million for quality, equity, and efficiency improvements and US$13 million for school construction)— equivalent to 27 percent of the budget allocated to goods and services, and investment in 2002. This amount needs to be financed by the FTI funding.
 
 The EFA FTI program is expected to benefit approximately 3,047,000, 3,291,000, and 3,547,000 children in 2003, 2004, and 2005, respectively.  The unit cost will increase to about US$136 in 2003, $143 in 2004, and $151 in 2005, compared to the previous years: $98 in 2000, $109 in 2001 and $118 in 2002. The increase in the unit cost indicates that additional FTI funding will impact each student positively.
 
@@ -84,8 +86,8 @@ Teacher Salaries as Multiple of GDP per capita | n.a. | 3.2 | 3.4
 
 2001 (Baseline) | 2005 | 2015 (Target)
 --- | --- | --- | ---
-Increase Primary School Age Children & Rate
-Net Enrollment Male
+Increase Primary School Age Children & Net Enrollment Rate
+Male
 With EFA (includes BEDS) | 1,244,000 (61%) | 1,657,000 (71%) | 3,374,000 (100%)
 Without EFA (status quo) | 1,244,000 (61%) | 1,557,000 (66%) | 2,729,000 (81%)
 Difference | -- | 100,000 (5%) | 645,000 (19%)
@@ -117,11 +119,56 @@ Education for All by 2015 - Fast Track Initiative Country Proposal
 
 # Table of Contents
 
+Executive Summary ................................................................ i
+I. Introduction ......................................................................... 1
+ I.1. General Background of the Country ................................. 1
+ I.2. The challenges ................................................................. 1
+ I.3. Facing the challenges ........................................................ 2
+II. Basic Education Development toward Education For All .............. 4
+ II.1. The legislation base for Basic Education ............................ 4
+ II.2. Basic Education Development toward Education For All ........... 5
+ II.3. Supply and Demand Side Perspectives toward EFA ................. 10
+III. Basic Education Development Strategy (BEDS) ........................ 12
+ III.1. Education reform before BEDS ...................................... 12
+ III.2. Education reform within Basic Education Development Strategy ... 12
+ III.3. Build on Experience with a participatory bottom-up-approach ..... 14
+ III.4. BEDS Financial Requirements and Gaps between 2003 and 2015 ..... 15
+IV. Reform Strategy during the First Phase of BEDS between 2003 and 2005 17
+ IV.1. Contents (Priorities) of the First Phase .......................... 17
+ IV.2. Implementation plan for the first phase .......................... 23
+ IV.3. Additional Financial Requirements during the First Phase ........ 34
+ IV.4. Educational Achievement “with and without” FTI. .................. 35
+ IV.5. Implementation Mechanism .......................................... 38
+ IV.6. Monitoring Evaluation and Assessment of Plan ..................... 39
+ IV.7. Risks Facing BEDS Strategy Implementation ........................ 41
+
+Figures
+1. Distribution of Enrollment by Primary School Age, 1999 ............... 6
+2. Grade-specific Enrollment Rates in Yemen, 2001 ....................... 7
+3. Enrollment rate of Age 6 by income decile, 1998 ..................... 11
+4. Projection of Net Enrollment Rate by Gender ......................... 34
+
 vi
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+Tables
+1. Primary Education Indicators in Yemen ................................. 6
+2. Distribution of Public Spending on Education by Economic Purposes ... 10
+3. Financing Gap Estimates for Grade 1-6 of Basic Education ............ 16
+4. Request for FTI Funding between 2003 and 2005 ........................ 33
+
+Annexes
+1. Simulation Model ..................................................... 42
+2. Enrollment Projections for Primary Education ........................ 44
+3. Work Method an Mechanism of BEDS ..................................... 45
+4. Credible Plan for EFA in Yemen ....................................... 51
+5. External Financing for Primary Education ............................ 53
+6. Results Framework for the Evaluation of EFA FTI ..................... 54
+
+References ................................................................ 55
 
 vii
 
@@ -181,9 +228,9 @@ The basic education and poverty alleviation strategies as well as the millennium
 
 - Increase the enrollment of basic education;
 
-- Improve the quality of education;
-
 - Focus more attention on reducing the gender gap.
+
+- Improve the quality of education;
 
 - Improve  internal  efficiency  through  improving  capacity  and  institutional  reforms  and  competent management at the central and local levels.
 
@@ -215,9 +262,9 @@ In  the  Basic  Education  Development  Strategy  (BEDS),  the  Government  sets
 
 - Attain universal access and completion of grades 1to 6 of basic education;
 
-- Substantially improve the quality of educational results;
-
 - Increase female enrollment, especially in rural areas;
+
+- Substantially improve the quality of educational results;
 
 - Strengthen management and institutional capacity at the local and national levels.
 
@@ -233,13 +280,13 @@ In  relation  to  the  EFA  Fast  Track  Initiative,  the  key  target  indicato
 
 ### II.2.1. Access.
 
-Education attainment in Yemen is among the lowest in the world.  Recent statistics show that there are about 2.6 million children attending primary school in Yemen, while nearly 50 percent of the primaryschool age children (age group between 6 and 11 years old) are still out of school.  Figure 1 shows that the specific age enrollment rate for younger ages (6years) is very low-only 20 percent of 6 year olds are enrolled in school; this increases to nearly 70 percent by the age of 11.  The gross enrollment rate (GER) at the primary level has improved over the past five years from 61% in 1997 to 67 percent in 2001 (see Table 1).  The GER for females has also improved during the same period. However, the gender  disparity  is  still  pronounced-the  GER  for  females  was  52  percent  in  2001  compared  to  81 percent for males, and the proportion of female-to-male students in primary education was less than 40 percent,  it  has  improved  since  1997.    Moreover,  the  net  enrollment  rate  (NER)  has  been  about  50 percent in the past five years.  The proportion of repeaters among primary school students has declined from  10.6  percent  in  1999  to  6.9  percent.    This  is  partially  due  to  the  introduction  of  automatic promotion from grades 1 to 3, which was implemented in the mid-1990s.
+Education attainment in Yemen is among the lowest in the world. Recent statistics show that there are about 2.6 million children attending primary school in Yemen, while nearly 50 percent of the primary-school age children (age group between 6 and 11 years old) are still out of school. Figure 1 shows that the specific age enrollment rate for younger ages (6years) is very low—only 20 percent of 6 year olds are enrolled in school; this increases to nearly 70 percent by the age of 11. The gross enrollment rate (GER) at the primary level has improved over the past five years from 61% in 1997 to 67 percent in 2001 (see Table 1). The GER for females has also improved during the same period. However, the gender disparity is still pronounced—the GER for females was 52 percent in 2001 compared to 81 percent for males, and the proportion of female-to-male students in primary education was less than 40 percent, it has improved since 1997. Moreover, the net enrollment rate (NER) has been about 50 percent in the past five years. The proportion of repeaters among primary school students has declined from 10.6 percent in 1999 to 6.9 percent. This is partially due to the introduction of automatic promotion from grades 1 to 3, which was implemented in the mid-1990s.
 
 According to the 1999 National Poverty Survey, only 45 percent of rural primary age children (age group between 6 and 11) reported to be currently enrolled in formal schooling, while 71 percent of urban  children  are  enrolled.    The  rural  female  students  are  the  most  disadvantaged  (30  percent), compared  to  the  urban  female  students  (71  percent).    Moreover,  the  youth  literacy  rate  has  also improved from 61 percent in 1997 to 66 percent in 2001 but the rate for females is still 36 percent lower than males.  According to the 1999 Poverty Monitoring Survey, the youth literacy rate for rural females is only 27 percent compared to urban females of 82 percent.
 
 ### II.2.2. Intake:
 
-The intake rate in grade 1 has increased from 69 percent in 1999 to 73 percent in 2001, largely due to the construction of new classrooms, allowing many out-of-school boys and urban girls to enroll at an older age.  A regression analysis of the 1999 Poverty Monitoring Survey indicates that there is a high correlation between school availability (distance to education) and student attendance. To increase the intake  rate  to  100  percent  in  grade  1-targeting  the  age  group  of  6  and  7  year  olds-the  BEDS suggested that three classes might be built in villages away from the main school, but these classes should be work under the management and supervision of the main school, so that pupils in grades 1-3 will be more likely to attend first and second classes then when they become older they have to move to the main school. For those schools which hard to be supervised by main schools or to be so far from main school, they  possibly  operated as multi-grade classes in order to help girls to complete basic education or at lest grade six.   This should be associated with raising parent awareness of the importance of enrolling children in the first grade at the legal age of 6 years old.  I n addition to make it easier and safer for small children to attend first grade, teams of older pupils could be fo rmed to be responsible for y ounger pupils on their way  to and from school.
+The intake rate in grade 1 has increased from 69 percent in 1999 to 73 percent in 2001, largely due to the construction of new classrooms, allowing many out-of-school boys and urban girls to enroll at an older age. A regression analysis of the 1999 Poverty Monitoring Survey indicates that there is a high correlation between school availability (distance to education) and student attendance. To increase the intake rate to 100 percent in grade 1—targeting the age group of 6 and 7 year olds—the BEDS suggested that three classes might be built in villages away from the main school, but these classes should be work under the management and supervision of the main school, so that pupils in grades 1-3 will be more likely to attend first and second classes then when they become older they have to move to the main school. For those schools which hard to be supervised by main schools or to be so far from main school, they possibly operated as multi-grade classes in order to help girls to complete basic education or at lest grade six. This should be associated with raising parent awareness of the importance of enrolling children in the first grade at the legal age of 6 years old. In addition to make it easier and safer for small children to attend first grade, teams of older pupils could be formed to be responsible for younger pupils on their way to and from school.
 
 > 1 Education in Yemen consists of basis education (grades 1-9), secondary education (grades 10-12), and tertiary education. Primary education is used for EFA purposes and covers grades 1-6 of basic education.
 
@@ -248,8 +295,6 @@ The intake rate in grade 1 has increased from 69 percent in 1999 to 73 percent i
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
-
-Figure 1: Distribution of enrollment by primary school age, 1999
 
 0%
 
@@ -283,11 +328,11 @@ Working only
 
 Enrolled
 
+Figure 1: Distribution of enrollment by primary school age, 1999
+
 Source: Poverty Monitoring Survey (1999)
 
 Table 1: Primary Education Indicators in Yemen
-
-Source: MOE , World Bank.
 
 1997 | 1998 | 1999 | 2000 | 2001
 --- | --- | --- | --- | --- | ---
@@ -305,6 +350,8 @@ Ratio of girls to boys in primary education (%) | 34.2 | 34.5 | 35.0 | 36.5 | 37
 Youth literacy rate (% ages 15-24) * | 61.1 | 62.4 | 63.6 | 64.9 | 66.3
 Male | 80.9 | 81.6 | 82.3 | 82.9 | 83.7
 Female | 39.3 | 41.5 | 43.7 | 45.9 | 48.2
+
+Source: MOE , World Bank.
 
 Notes: * indicates Millennium Development Goal (MDG); Youth literacy rates are taken from the World Bank's SIMA database. The school-age population figures are Government projections.
 
@@ -366,27 +413,27 @@ Source: School Census, MOE
 
 ### II.2.4. Equity:
 
-Gender and geographical disparities are evident in access to education in Yemen.  The trend in gradespecific  enrollment  is  similar  for  male  and  female  students  but,  as  Figure  2  illustrates,  males  have higher access rates in each grade than females-19 percent higher in grade 1 and 34 percent higher in grade 6.  The retention rate for female students is only 33 percent compared to 68 percent for male students.    Moreover,  boys  and  urban  children  enjoy  greater  educational  opportunities  and  higher enrollment rates; the enrollment rate in urban areas is higher than in rural areas where about 70 percent of  the  population  live.    Access  disparities  also  exist  among  governorates-an  inequality  related  to disparities in the number of teachers in rural areas, especially rural female teachers, in schools and in cultural  norms  for  female  education,  which  consider  female  education  less  important  than  male.  To decrease  the  urban/rural  and  male/female  gaps,  more  classes  will  be  built  in  rural  areas,  and  for females. Some schools will work two shifts, one for girls and the other for boys-and increase the number  of  female  teachers.  Awareness  must  be  raised  in  the  Yemeni  society  as  a  whole  on  the importance  of  education  for  females.    Implementation  of  the  poverty  reduction  strategy,  with  its equally important focus on girls' education, will also help.
+Gender and geographical disparities are evident in access to education in Yemen. The trend in grade-specific enrollment is similar for male and female students but, as Figure 2 illustrates, males have higher access rates in each grade than females—19 percent higher in grade 1 and 34 percent higher in grade 6. The retention rate for female students is only 33 percent compared to 68 percent for male students. Moreover, boys and urban children enjoy greater educational opportunities and higher enrollment rates; the enrollment rate in urban areas is higher than in rural areas where about 70 percent of the population live. Access disparities also exist among governorates—an inequality related to disparities in the number of teachers in rural areas, especially rural female teachers, in schools and in cultural norms for female education, which consider female education less important than male. To decrease the urban/rural and male/female gaps, more classes will be built in rural areas, and for females. Some schools will work two shifts, one for girls and the other for boys—and increase the number of female teachers. Awareness must be raised in the Yemeni society as a whole on the importance of education for females. Implementation of the poverty reduction strategy, with its equally important focus on girls' education, will also help.
 
 ### II.2.5. Quality.
 
 Although there are many procedures toward improving the quality of education, primary education still faces serious difficulties; that cause the low quality of educational outputs, these difficulties including:
 
-- Low  qualification  of  teachers,  especially  in  rural  areas.    The  2000/01  Education  Survey estimates that 40 percent of teaching staff hold secondary school certificates or better, while 60 percent  have  completed  only  basic  education,  with  one  or  two  years  of  additional  training, which  means  that  there  are  not  a  big  different  between  teachers'  and  pupils'  knowledge specially in grades (5-9).
+1. Low qualification of teachers, especially in rural areas. The 2000/01 Education Survey estimates that 40 percent of teaching staff hold secondary school certificates or better, while 60 percent have completed only basic education, with one or two years of additional training, which means that there are not a big different between teachers' and pupils' knowledge specially in grades (5-9).
 
-- Weakness of in-service  teacher  training  a  cordoning  to  teacher  needs,  which  are  varied  as  a result of different in teachers' qualification.
+2. Weakness of in-service teacher training a cordoning to teacher needs, which are varied as a result of different in teachers' qualification.
 
-- Inadequate school administration.
+3. Inadequate school administration.
 
-- While primary school curricula and textbooks have been updated recently, it still concentrate on knowledge and neglect the practical skills.
+4. While primary school curricula and textbooks have been updated recently, it still concentrate on knowledge and neglect the practical skills.
 
-- Shortage of teaching and learning materials.
+5. Shortage of teaching and learning materials.
 
-- Inadequate school buildings.
+6. Inadequate school buildings.
 
-- Weak of community involvement.
+7. Weak of community involvement.
 
-- Weak guiding and supporting for teachers and school administrations.
+8. Weak guiding and supporting for teachers and school administrations.
 
 Automatic promotion in grades 1 to 3 introduced since the mid-1990s has reduced the proportion of repeaters  among  primary  students  in  the  past  three  years,  the  implications  on  quality  need  to  be carefully  assessed,  and  more  emphasis  should  be  paid  to  learn  pupils  acquisition  the  three  'R' specially  in  grades  (1-3),  rather  than  overloaded  pupils  with  subjects  and  theoretical  knowledge. Analysis of grades 4 to 6 student achievement in four subject areas-life skills, science, math, and, Arabic language-shows that the majority of pupils have difficulty: relating what they have learned in the classroom to what they observe in their environment; explaining and interpreting the meaning of phenomena due to the lack experimentation in school; in mental calculation to estimate the resolution of problems; and reading and interpreting tables and graphs.  Since most students have limited reading and writing skills, they could not solve problems or answer questions on many of the tests.
 
@@ -407,6 +454,8 @@ The share of GDP and public expenditure allocated to education in Yemen is high 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+Table 2: Distribution of Public Spending on Education by Economic Purposes (nominal, billion YR)
 
 1996 (actual) | 1997 (actual) | 1998 (actual) | 1999 (actual) | 2000 (actual) | 2001 (prog.) | 2002 (budget)
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -435,8 +484,6 @@ PEE as % of TEE | 45.9% | 43.5% | 43.9% | 44.8% | 44.0% | 45.7% | 47.9%
 Recurrent PEE as % of recurrent TEE | 45.5% | 48.6% | 51.1% | 45.8% | 45.6% | 48.3% | 49.5%
 G & S as % of Recurrent PEE | 20.0% | 16.7% | 21.7% | 18.5% | 19.4% | 21.4% | 25.0%
 
-Table 2: Distribution of Public Spending on Education by Economic Purposes (nominal, billion YR)
-
 Source: MOF, MOE,
 
 Note: Goods and Services includes the operation and maintenance (O&M) and foreign training
@@ -449,9 +496,9 @@ On the supply side, the following factors have contributed to the poor quality a
 
 - difficulties with deployment of teachers, especially female teachers, to rural areas; 3
 
-- costly provision of textbooks and shortage of instructional materials;
-
 - lack of in-service teacher training;
+
+- costly provision of textbooks and shortage of instructional materials;
 
 > 3 Twenty-one % of teachers in Yemen are female-46% in urban areas, only 8% in rural areas.
 
@@ -463,19 +510,15 @@ On the supply side, the following factors have contributed to the poor quality a
 
 - inadequate proportion of female teachers and administrators; and
 
-- lack of schools with latrines for girls
+- incomplete schools (schools do not offer grades 1 to 6) 4.
 
-- incomplete schools (schools do not offer grades 1 to 6) 4 .
+- lack of schools with latrines for girls
 
 Studies  confirm  that  building  schools  with  latrines  for  girls  and  deploying  female  teachers  to  rural areas improve female students' enrollment.
 
 On the demand side, while public primary education is free in Yemen, households are required to pay community participation and school activity fees. 5 In the 1999 National Poverty Monitoring Survey, households  cited  'difficulty  in  paying  school  expenses'  as  a  main  reason  for  either  never  sending children  to  school  or  withdrawing  them  early.    Education  services  do  not  reach  a  large  number  of children, especially rural girls, regardless of family welfare.  The main impediments to low enrollment for  rural  girls  are:  poverty,  lack  of  physical  access  to  school  (particularly  long  walking  distances  to school)  and  family's  attitudes  toward  girls'  schooling.    Even  for  younger  girls  (aged  6  to  11),  the family's  attitude  was  a  constraint,  especially  in  rural  areas.  Work  is  needed  to  prepare  appropriate incentive schemes for poor children in rural areas to reduce education costs.
 
 Figure 3. Enrollment Rate of Age 6 to 11 by Income Decile, 1998
-
-> 4 In 2001, 10 percent of the basic education schools (grades 1-9) are incomplete and 6 percent of the basic education students are enrolled in such schools.
-
-> 5 The community participation fee is YR150 a year.  In 1998, MOE exempted poor girls from this fee but implementation of this policy varies and depends on the school administrator.
 
 20%
 
@@ -514,6 +557,10 @@ Total
 Male
 
 Female
+
+> 4 In 2001, 10 percent of the basic education schools (grades 1-9) are incomplete and 6 percent of the basic education students are enrolled in such schools.
+
+> 5 The community participation fee is YR150 a year. In 1998, MOE exempted poor girls from this fee but implementation of this policy varies and depends on the school administrator.
 
 11
 
@@ -557,7 +604,7 @@ The  implementation  of  these  policies  in  the  BEEP,  GTZ,  UNICEF,  KFW,  P
 The central element in the Government's strategy to improve the quality of primary education is the introduction of new curricula to promote interactive learning with enhanced textbooks and teaching skills.  In 2000, all primary teachers attended a one-week refresher course that introduced the  new  curriculum,  and  in  2001,  about  20,000  teachers  attended  in-service  training  supported  by several donors.  Continuation and expansion of in-service teachers' training are planned. In addition, based on findings from the Education Survey and the O&M study, the Government has developed a strategy to improve O&M at the school level. The MOE and Educational Research Center (ERDC), with  support  from  UNICEF,  are  about  to  finalize  a  study  on  student  achievement  (MLA)  in  four subjects: life skills, science, math, and Arabic language, as a first step towards improving the quality of education.
 
 ### Improve Capacity.
-The Government is aware that management capacity is crucial to improving the efficiency of education.  At the macro-level, several reform programs are underway to improve public administration.  For instance, the Strategic Framework for Civil Service Modernization will allow the MOE  to  remove  ghost  workers  from  its  payroll.    At  the  sectoral  level,  the  Government  has strengthened its capacity to develop standard designs for school construction; develop and deliver inservice teacher training programs and strengthen supervision; and gradually strengthen the capacity at the Governorate level to implement school construction programs. While the MOE's implementation capacity remains low, it has demonstrated significant improvements over the last few years.
+The Government is aware that management capacity is crucial to improving the efficiency of education. At the macro-level, several reform programs are underway to improve public administration. For instance, the Strategic Framework for Civil Service Modernization will allow the MOE to remove ghost workers from its payroll. At the sectoral level, the Government has strengthened its capacity to develop standard designs for school construction; develop and deliver in-service teacher training programs and strengthen supervision; and gradually strengthen the capacity at the Governorate level to implement school construction programs. While the MOE's implementation capacity remains low, it has demonstrated significant improvements over the last few years.
 
 ### Improve Expenditure Management.
 Improvements in overall budgeting and expenditure management are under preparation at the Ministry of Finance and these should have a positive effect on resource management in the education sector.  Within the education sector, the Government aims to ensure an adequate  share  for  primary  education  by  addressing  issues  of  growth  in  other  sub-sectors.    The Government is aware that it needs to increase the efficiency of education expenditure if the expansion and  quality  improvement  envisaged  for  the  primary  education  sub-sector  are  to  be  financially sustainable (see Financial Projections below).
@@ -572,15 +619,15 @@ Improvements in overall budgeting and expenditure management are under preparati
 
 In  addition,  the  Ministry  of  Education  ensures  that  it  will  devote  all  of  its  human  and  financial resources to raising the level of basic education so that benefit accrues to all children of Yemen.  In the forefront of its priorities, the MOE places the following priorities:
 
-- head2right Raise the average enrollment rate in basic education up to 95%,
+- Raise the average enrollment rate in basic education up to 95%,
 
-- head2right Decrease  the  enrollment  gap  between  boys  girls  and  between  urban  and  rural  areas  with  more attenuation to children of poor families;
+- Decrease the enrollment gap between boys girls and between urban and rural areas with more attenuation to children of poor families;
 
-- head2right Improve the capacity of the Ministry through institutional reforms and establish competent management at the central and Governorate levels;
+- Improve the capacity of the Ministry through institutional reforms and establish competent management at the central and Governorate levels;
 
-- head2right Improve the internal efficiency of basic education.
+- Improve the internal efficiency of basic education.
 
-- head2right Improve the quality of education through teachers training, head teachers, school administrators modernize school curriculum, provide the appropriate educational access and environment; and have the local communities participate in the construction and management of schools.
+- Improve the quality of education through teachers training, head teachers, school administrators modernize school curriculum, provide the appropriate educational access and environment; and have the local communities participate in the construction and management of schools.
 
 ## III.3. Build on Experiences with a Participatory bottom-up- approach
 
@@ -616,6 +663,8 @@ If  the  Government  were  to  fully  implement  the  BEDS efficiency  measures,
 
 [[START OF PAGE 23]]
 
+Table 3: Financing Gap Estimates for Grade 1-6 of Basic Education (US$ Millions)
+
 EFA Requirement | Resource Envelop * | Financing Gap
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Recurrent | Capital | Total | Recurrent | Capital | Total | Recurrent | Capital | Total
@@ -630,8 +679,6 @@ SCENARIO 3: *
 Cautionary Scenario
 Cumulative 2003-15 | 6,945 | 1,430 | 8,375 | 5,095 | 675 | 5,770 | 1,850 | 755 | 2,605
 Annual | 534 | 110 | 644 | 392 | 50 | 442 | 142 | 60 | 202
-
-Table 3: Financing Gap Estimates for Grade 1-6 of Basic Education (US$ Millions)
 
 Note: * Projected donor financing of US$ 27.5 million per year is factored in the resource envelop.
 
@@ -655,13 +702,13 @@ The  key  principle  of  the  three  year  plan  gives  top  priority  to  the  
 
 The  objective  of  this  program  is  to  increase  the  gross  enrollment  rate  up  to  70%  percent  by  2005 through:
 
-- head2right Adding the required needed facilities to new pupil enrollment in grades 1-6 with given priority to the Governorate and districts where access is very limited and the rate of poverty is very high (e.g., building 14,235 additional classrooms;  adding 25,223 additional teachers, most of whom should be female teachers; and providing 700,000 double desks)
+- Adding the required needed facilities to new pupil enrollment in grades 1-6 with given priority to the Governorate and districts where access is very limited and the rate of poverty is very high (e.g., building 14,235 additional classrooms; adding 25,223 additional teachers, most of whom should be female teachers; and providing 700,000 double desks)
 
-- head2right Providing a pedagogical and administrative model for multi-grade schools in remote rural areas (1-3 grades, 4-6 grades, 7-9 grades or other combinations) so that all children regardless of the level  of  isolation  or  dispersion  of  population  of  their  community  can  have  access  to  primary education and continuation to at least the end of basic education (grade 9). These schools will have a board of directors consisting of teachers and parents, which will be accountable for the quality  and  efficiency  of  school  training,  such  as  teaching  methods  of  multi-grade schooling, and instructing parents in school management.
+- Providing a pedagogical and administrative model for multi-grade schools in remote rural areas (1-3 grades, 4-6 grades, 7-9 grades or other combinations) so that all children regardless of the level of isolation or dispersion of population of their community can have access to primary education and continuation to at least the end of basic education (grade 9). These schools will have a board of directors consisting of teachers and parents, which will be accountable for the quality and efficiency of school training, such as teaching methods of multi-grade schooling, and instructing parents in school management.
 
-- head2right Implementing school mapping as a basic system to selecting the right location for new schools using the current experience in school mapping project in MOE, PEEP, and SDF.
+- Implementing school mapping as a basic system to selecting the right location for new schools using the current experience in school mapping project in MOE, PEEP, and SDF.
 
-- head2right Training  the  planning  department  staff  in  the  PEO  and  DEO  in  the  projection  of enrollment growth for each grade and school, and in the calculation of needs for new classrooms, teachers, educational materials.
+- Training the planning department staff in the PEO and DEO in the projection of enrollment growth for each grade and school, and in the calculation of needs for new classrooms, teachers, educational materials.
 
 ### Internal efficiency:
 
@@ -673,38 +720,38 @@ The objective of this program is to ensure that 65% of pupils will be able to co
 
 [[START OF PAGE 25]]
 
-#### Implement  an  internal  efficiency  monitoring  and  evaluation:
-A  monitoring  system  will  be designed and implemented to track pupils and education indicators:
+#### 1. Implement an internal efficiency monitoring and evaluation:
+A monitoring system will be designed and implemented to track pupils and education indicators:
 
-- head2right Enrollment of school age children;
+- Enrollment of school age children;
 
-- head2right Repetition rate;
+- Repetition rate;
 
-- head2right Dropout rate; and
+- Dropout rate; and
 
-- head2right Completion rate by grade six.
+- Completion rate by grade six.
 
-#### Increase  official  intake  rate  into  the  first  grade (6  years):
-The  MOE  will  receive  support  in institutionalization, promotion and legalization strategies to enroll the six year old population into the first grade of basic education.  Specific activities include:
+#### 2. Increase official intake rate into the first grade (6 years):
+The MOE will receive support in institutionalization, promotion and legalization strategies to enroll the six year old population into the first grade of basic education. Specific activities include:
 
-- head2right Building one or two classes in villages, which are situated far away from the main school, to teach small pupils who cannot walk the long distance to attend grades 1 and 2.  These classes, which cannot be considered as independent schools, will be supervised by the main school in the areas to which they belong.
+- Building one or two classes in villages, which are situated far away from the main school, to teach small pupils who cannot walk the long distance to attend grades 1 and 2. These classes, which cannot be considered as independent schools, will be supervised by the main school in the areas to which they belong.
 
-- head2right Increasing the awareness among parents of the importance of enrolling their children in first grade at the legal age of 6 years;
+- Increasing the awareness among parents of the importance of enrolling their children in first grade at the legal age of 6 years;
 
-- head2right Making arrangement  to  make  it  easier  and  safer  for  small  children  enrolled  in  first  grade  to attend school, such as having older pupils to walk them to school and home; and
+- Making arrangement to make it easier and safer for small children enrolled in first grade to attend school, such as having older pupils to walk them to school and home; and
 
-- head2right Supplying some communities with bus transportation for young pupils.
+- Supplying some communities with bus transportation for young pupils.
 
-Periodic reports will be distributed to schools and aggregated at the DEO and PEO regarding their  progress.  Schools  and  districts  will  be  accredited  and  monitored  in  terms  of  their education efficiency and quality indicators.
+Periodic reports will be distributed to schools and aggregated at the DEO and PEO regarding their progress. Schools and districts will be accredited and monitored in terms of their education efficiency and quality indicators.
 
-#### Support under-achieved pupils:
-Implement project aim to support under-achieved pupils as a pre-condition for the implementation of the promotion system from first to third grades.  This should be done in a continuous and systematic process that will allow teachers to track pupils' progress  and  detect  learning  problems  so  that  the  required  support  can  be  given.    From  the fourth to sixth grades, the promotion will be based on written examinations.
+#### 3. Support under-achieved pupils:
+Implement project aim to support under-achieved pupils as a pre-condition for the implementation of the promotion system from first to third grades. This should be done in a continuous and systematic process that will allow teachers to track pupils' progress and detect learning problems so that the required support can be given. From the fourth to sixth grades, the promotion will be based on written examinations.
 
-#### Provide  education  leveling  of  overaged  pupils:
-Alternate  programs  will  be  established  for leveling  learning  and  promotion  of  overaged  pupils,  including  a  special  evaluation  and promotion system to accomplish on-time graduation from the sixth grade.
+#### 4. Provide education leveling of overaged pupils:
+Alternate programs will be established for leveling learning and promotion of overaged pupils, including a special evaluation and promotion system to accomplish on-time graduation from the sixth grade.
 
-#### Use  education  human  resources  more  effectively
-by  redistributing  teachers  who  do  not participate in teaching and by decreasing the unit cost of classrooms.
+#### 5. Use education human resources more effectively
+by redistributing teachers who do not participate in teaching and by decreasing the unit cost of classrooms.
 
 As a result of the internal link among the different education programs, the quality of education will be enhanced since the programs will motivate pupils to attend school on a daily basis, provide pupils and teachers  with  adequate  levels  of  textbooks  and  other  instructional  materials,  stimulate  teachers  to improve  instructional  and  monitoring  of  pupils'  progress,  and  offer  pupils  substantially  better opportunities to learn and acquire skills.
 
@@ -720,19 +767,19 @@ The Yemeni experience points to these factors as key determinants of pupil perfo
 
 The objective of this program is to increase the gross enrollment rate of girls up to 65 percent by 2005 through the following:
 
-#### Increase  the  awareness  of  the  importance  of  girls'  education
+#### 1. Increase the awareness of the importance of girls' education
 among local communities  by changing the general negative attitude towards girls' education, e.g.,  launching  a  number  of  campaigns  on television and  radio,  and allowing  religious  leaders to assume the important role of campaigning for girls' education among rural area families.
 
-#### Supply rural areas with female teachers
+#### 2. Supply rural areas with female teachers
 through the construction of female teachers' houses in isolated rural areas. According to the BEDS implementation plan,  the  goal  is  to  provide  housing,  either  by  constructing  or  renting  them,  for  female teachers in isolated rural areas, and supply these houses with equipment and furniture so as to  encourage  female  teachers  to  work  in  these  areas.    Additionally,  the  local  community must ensure a high level of safety for teachers living in these houses.
 
-#### Make schools more attractive for  girls and their families:
+#### 3. Make schools more attractive for girls and their families:
 MOE and donors should coordinate among themselves to make certain that programs which target girl's  education,  such  as  the  World  Food  Program,  also  focus  on  providing  and  improving school buildings (e.g., walls, female toilets, water service and classroom furniture) in isolated rural areas.
 
-#### Increase the opportunity for poor boys and girls:
+#### 4. Increase the opportunity for poor boys and girls:
 Help families in extreme poverty defray the direct and indirect costs of educating their children through exempting children  from  poor  families  from  paying  tuition  and  any  other  financial  requirements  within  the school. Additionally, MOE  should  coordinate  with local communities, donors and other organizations to provide children from poor families with food and school materials (e.g., clothes, notebooks, pens, and bags).
 
-#### Develop EMIS as a gender sensitive tool for planning and monitoring equity indicators
+#### 5. Develop EMIS as a gender sensitive tool for planning and monitoring equity indicators
 so as to ensure that girls' enrollment rate increases according to plan.
 
 ### Quality:
@@ -745,34 +792,34 @@ The objective of this program is to improve the quality of learning in basic edu
 
 [[START OF PAGE 27]]
 
-#### Establishing  basic  education  competency:
+#### 1. Establishing basic education competency:
 Education  performance  will  be  monitored through pupil achievement test, which will assess the performance of pupils in grades four and six according to planned competencies every three years to assess their level of achievement.
 
-#### Developing teacher  performance in class through:
+#### 2. Developing teacher performance in class through:
 
-- square4 Revising  the  admission  and  qualification  of  teachers.    The  regulations  and  criteria  for admission to the teaching position and the mechanisms of the distribution of teachers need to be revised to ensure that only qualified teachers are selected and that isolated rural areas get higher priority.
+- Revising the admission and qualification of teachers. The regulations and criteria for admission to the teaching position and the mechanisms of the distribution of teachers need to be revised to ensure that only qualified teachers are selected and that isolated rural areas get higher priority.
 
-- square4 Reviewing the  training  concept.    The  MOE  will  review  the  previous  training  concept  and content of training courses as a first step to building a new training concept, teacher training programs and a systematic system to monitor teacher training and its impact on classroom teaching.
+- Reviewing the training concept. The MOE will review the previous training concept and content of training courses as a first step to building a new training concept, teacher training programs and a systematic system to monitor teacher training and its impact on classroom teaching.
 
-- square4 Providing in-service training for 24,250 teachers according to their needs, focusing on active learning methodologies such as multi-grade teaching techniques in isolated areas.
+- Providing in-service training for 24,250 teachers according to their needs, focusing on active learning methodologies such as multi-grade teaching techniques in isolated areas.
 
-- square4 Elaborating teacher performance evaluation.  The revision and preparation of the regulation and criteria for  teacher  performance  evaluation  include:  Knowledge  and  application  of  academic  standards; application  of  methodologies  and  achievement  evaluation;  and  management  school  records.    These criteria will be used to develop a reward system that will provide compensation and incentives for the teachers.
+- Elaborating teacher performance evaluation. The revision and preparation of the regulation and criteria for teacher performance evaluation include: Knowledge and application of academic standards; application of methodologies and achievement evaluation; and management school records. These criteria will be used to develop a reward system that will provide compensation and incentives for the teachers.
 
-#### Providing ongoing support for teacher performance through:
+#### 3. Providing ongoing support for teacher performance through:
 
-- square4 Training school administration staff: The administrative staff in primary schools will receive training in different  subjects  (e.g.,  management,  administrative  procedures,  planning  and  monitoring  as  well  as evaluation) .
+- Training school administration staff: The administrative staff in primary schools will receive training in different subjects (e.g., management, administrative procedures, planning and monitoring as well as evaluation) .
 
-- square4 Providing systematic teacher support and follow-up: Supervision and technical support  for teachers need to be provided.
+- Providing systematic teacher support and follow-up: Supervision and technical support for teachers need to be provided.
 
-#### Developing a basic education curricula (grades 1-6) according to the competency in each grade and subject.
+#### 4. Developing a basic education curricula (grades 1-6) according to the competency in each grade and subject.
 
 ### Institutional capacity Building:
 
 Institutional capacity building is considered to be the most important priority for several reasons:
 
-- Construction of infrastructure works alone does not lead to improvement in service delivery.  Many instances  where  the  building  could  not  be  used  because  of  inadequate  teachers,  administrators and/or weak management have been known.  Building needs to go hand in hand with strengthening the capacity of the administrative units to operate and manage the service delivery aspects so as to ensure that the quality of teaching increases and that more girls are attend school.
+1. Construction of infrastructure works alone does not lead to improvement in service delivery. Many instances where the building could not be used because of inadequate teachers, administrators and/or weak management have been known. Building needs to go hand in hand with strengthening the capacity of the administrative units to operate and manage the service delivery aspects so as to ensure that the quality of teaching increases and that more girls are attend school.
 
-- The  decentralization  process  in  Yemen  started  with  the  revolution  of  power  which  became effective  with  the  election  of  the  Local  Councils  in  2001  without  much  of  a  transition  period. Neither  the  central  ministries  nor  the  local  executive  branches  and  local  councils  were  properly prepared for this change. In the early days of the decentralization policy, it is of great importance to strengthen the system by ensuring that the right instruments and procedures are in place, that all
+2. The decentralization process in Yemen started with the revolution of power which became effective with the election of the Local Councils in 2001 without much of a transition period. Neither the central ministries nor the local executive branches and local councils were properly prepared for this change. In the early days of the decentralization policy, it is of great importance to strengthen the system by ensuring that the right instruments and procedures are in place, that all
 
 20
 
@@ -782,41 +829,41 @@ Institutional capacity building is considered to be the most important priority 
 
 who have a role to play knew their mandate well, that they acquire the necessary skills to perform their function and that they carry out their mandate to the best of their abilities.
 
-- Many  of  the  reform  target  and  activities  implementation  need  to  strengthen  their  institution capacity  specially  in  planning,  implementing  monitoring  programs,  coordinating,  and  modern management;  otherwise  performance  will  either  be  inefficient  or  a  nucleus  for  corruption  may emerge.    As  such,  one  may  say  that  the  issue  of  human  capacities  and  their  development  shall persist to form the most significant challenge that faces the implementation of BEDS and FTI plan. Strengthening institution capacity needs to include training, qualification, development and other factors, such as attracting the human cadre to the remote areas.
+3. Many of the reform target and activities implementation need to strengthen their institution capacity specially in planning, implementing monitoring programs, coordinating, and modern management; otherwise performance will either be inefficient or a nucleus for corruption may emerge. As such, one may say that the issue of human capacities and their development shall persist to form the most significant challenge that faces the implementation of BEDS and FTI plan. Strengthening institution capacity needs to include training, qualification, development and other factors, such as attracting the human cadre to the remote areas.
 
 The objectives of the Institutional Capacity Building are:
 
-- Enhancing the professional and managerial competence of all education staff at different levels, in order  to  empower  them  to  plan,  implement,  follow-up  and  evaluate  the  educational  process effectively.
+1. Enhancing the professional and managerial competence of all education staff at different levels, in order to empower them to plan, implement, follow-up and evaluate the educational process effectively.
 
-- Improving the professional capacities of teachers through decentralization of the teacher training approach,  which  has  proven  to  be  more  effective  than  the  traditional  (centralized)  training approach.
+2. Improving the professional capacities of teachers through decentralization of the teacher training approach, which has proven to be more effective than the traditional (centralized) training approach.
 
-- Supporting MOE to build up the legal framework required to develop the decentralization process.
+3. Supporting MOE to build up the legal framework required to develop the decentralization process.
 
-- Supporting  MOE to implement the basic education strategy at the local levels.
+4. Supporting MOE to implement the basic education strategy at the local levels.
 
-- Supporting school administration through training courses and workshops.
+5. Supporting school administration through training courses and workshops.
 
 To fulfill these objectives, the MOE planning will implement the following three programs:
 
-#### 1 . Training Administration Staff Program :
+#### 1. Training Administration Staff Program:
 
-- head2right Define clearly the tasks and responsibilities of MOE's offices at the Governorate and district level in accordance with the local administration law.
+- Define clearly the tasks and responsibilities of MOE's offices at the Governorate and district level in accordance with the local administration law.
 
-- head2right Training needs assessment will be undertaken to identify the specific skills,  knowledge  and competencies  that  are  required  for  administrative  education  staff  at  the  national,  Governorate,  and district  levels.  The  MOE, with the  assistance  of  GTZ,  conducted three  workshops:  one  at  the central level, and two at the Governorate levels.
+- Training needs assessment will be undertaken to identify the specific skills, knowledge and competencies that are required for administrative education staff at the national, Governorate, and district levels. The MOE, with the assistance of GTZ, conducted three workshops: one at the central level, and two at the Governorate levels.
 
-- head2right Develop and implement a training plan for qualifying education management of leaders in MOE and PEO in modern educational management and communication skills.
+- Develop and implement a training plan for qualifying education management of leaders in MOE and PEO in modern educational management and communication skills.
 
-- head2right Institutional building requirements will be designed specifically to meet the needs of staff at each level according to their tasks under the decentralization process.
+- Institutional building requirements will be designed specifically to meet the needs of staff at each level according to their tasks under the decentralization process.
 
-- head2right Based on the three training needs assessment workshops, a number of problems and priority issues have been  identified:  Methods  of  planning,  monitoring  and  evaluation  of  programs,  project  analysis,  test analysis, the impact of teaching and learning materials, planning, implement, monitoring and evaluating teacher training programs, monitoring and reporting the teaching and learning process, and professional development of teachers.
+- Based on the three training needs assessment workshops, a number of problems and priority issues have been identified: Methods of planning, monitoring and evaluation of programs, project analysis, test analysis, the impact of teaching and learning materials, planning, implement, monitoring and evaluating teacher training programs, monitoring and reporting the teaching and learning process, and professional development of teachers.
 
-#### 2. Teacher and School Administration Training Program :
+#### 2. Teacher and School Administration Training Program:
 
-- head2right Expand a teacher training  plan  based  on  a  decentralization  training  approach  that  takes  into  account teacher qualifications and needs.
+- Expand a teacher training plan based on a decentralization training approach that takes into account teacher qualifications and needs.
 
-- head2right Train teachers of grades 1-6 according to this well-developed plan.
+- Train teachers of grades 1-6 according to this well-developed plan.
 
-- head2right Implement a systematic monitoring system for teacher training and its impact on classroom teaching.
+- Implement a systematic monitoring system for teacher training and its impact on classroom teaching.
 
 21
 
@@ -824,33 +871,33 @@ To fulfill these objectives, the MOE planning will implement the following three
 
 [[START OF PAGE 29]]
 
-- head2right Develop and implement plans to train school administration on modern school management, supporting teachers  and  classroom  teaching,  coordination  and  cooperation  with  the  local  community,  and monitoring and reporting system.
+- Develop and implement plans to train school administration on modern school management, supporting teachers and classroom teaching, coordination and cooperation with the local community, and monitoring and reporting system.
 
-- head2right Train school administrators in PEO and DEO on the mechanisms of cooperation and building a common understanding between them and the Local Council, since the Local Councils at the Governorate and district  levels  will  play  an  important  role  with  the  governmental  administration  in  future  regional planning processes.
+- Train school administrators in PEO and DEO on the mechanisms of cooperation and building a common understanding between them and the Local Council, since the Local Councils at the Governorate and district levels will play an important role with the governmental administration in future regional planning processes.
 
 #### 3. Education Management Information System (EMIS)
 
 As the Education Management Information System is one of the most important elements to improving the capacity of MOE, there is a serious need for new information to be exchanged and communicative links to be established bidirectionally: schools - districts - Governorate and the Center.  Through the introduction of EMIS, statistical  data  on  the  educational  system  can  be  accessed  promptly  and  this  will  facilitate  policy makers to implement efficient control  and pursue a targeted policy.  The objectives of EMIS are as follow:
 
-- Improve the process of data collection, storage, analysis, and processing.
+A. Improve the process of data collection, storage, analysis, and processing.
 
-- Ensure access of users at all levels to information, in order to increase the efficiency of education planning, implementation and management.
+B. Ensure access of users at all levels to information, in order to increase the efficiency of education planning, implementation and management.
 
-- Provide targeted information mobility by reducing excessive information, with the aim to inform decision makers.
+C. Provide targeted information mobility by reducing excessive information, with the aim to inform decision makers.
 
-- Ensure transparency and accountability.
+D. Ensure transparency and accountability.
 
 To develop EMIS, MOE plans to:
 
-- head2right Develop methodology, procedures and questionnaires for implementing EMIS.
+- Develop methodology, procedures and questionnaires for implementing EMIS.
 
-- head2right Develop questionnaires to collect education information according to indicators required to monitor the educational system.
+- Develop questionnaires to collect education information according to indicators required to monitor the educational system.
 
-- head2right Supply all  education  planning  departments  in  MOE,  PEO and DEO with the required hardware and software programs.
+- Supply all education planning departments in MOE, PEO and DEO with the required hardware and software programs.
 
-- head2right Train planning and statistic personnel in different levels on accessing and processing the system.
+- Train planning and statistic personnel in different levels on accessing and processing the system.
 
-- head2right Create an electronic communication network link between DEO/PEO and MOE to consolidate data on all schools in Yemen for the 2004-2005 school year.
+- Create an electronic communication network link between DEO/PEO and MOE to consolidate data on all schools in Yemen for the 2004-2005 school year.
 
 It  is  important to ensure that institution capacity building programs are integrated with other current capacity building programs and processes such as: teachers' training programs, and co-operatives such as GTZ, PEEP, UNICEF.
 
@@ -876,7 +923,7 @@ Program | Objective | Activities | Duration | Respon | Indicators | Financial $ 
 003 | 004 | 005
 Primary education expansion | Increase the gross enrollment rate in grade (1-6) up to80% by the end of 2005. | Building new classroom. | Project Sector (PS) | MOE statistics show that (25694) new classrooms were built. | 270.000
 Building new classrooms for girls only. | PS | MOE statistics show that (11137) new classrooms for girls were built. | For memory see cost in equity.
-Building multi-grade classrooms in isolated rural areas. | PS | By the end of 2005 MOE statistics show that (1938) new classrooms multi- grades were built. | For memory see cost in internal efficiency
+Building multi-grade classrooms in isolated rural areas. | PS | By the end of 2005 MOE statistics show that (1938) new classrooms multi-grades were built. | For memory see cost in internal efficiency
 Supply schools with new teachers. | General Edu. Sector (GES) | By the end of 2005 MOE statistics show that there are (19500) new teachers. | For memory already financed under Gov. Budget
 Supply schools with (544500) double desks. | PS | PS reports shows that Schools supply with (181500) double desks each year. | For memory already financed under Gov. Budget
 Total | 270.000
@@ -888,7 +935,7 @@ Total | 270.000
 [[START OF PAGE 32]]
 
 ### The implementation plan for the strategy of development the level of Internal Efficiency for grade (1 - 6)
-Objective: To assure that (60%) pupils can effectively complete six grades by their 11 th years old by 2005.
+Objective: To assure that (60%) pupils can effectively complete six grades by their 11th years old by 2005.
 
 Program | Objective | Activities | Duration | Respon. | Indicators | Financial $ (000)
 --- | --- | --- | --- | --- | --- | ---
@@ -963,9 +1010,9 @@ Total | 118.918
 ### The implementation plan for the strategy of development the level of quality of education for grade (1 - 6)
 Objective: To improve the quality of learning in grade 1-6.
 
-Objective | Activities | Duration | Respon. | Indicators | Financial $ (000)
---- | --- | --- | --- | --- | ---
-Program | 003 | 004 | 005
+Program | Objective | Activities | Duration | Respon. | Indicators | Financial $ (000)
+--- | --- | --- | --- | --- | --- | ---
+003 | 004 | 005
 Teachers' performance in class | To Improve teachers performance in class. | Establish a criteria and regulation for admission new teachers. | CGS & ERED | Report of PEOs show that the admission of new teachers follow criteria and regulation | 3
 Building new teachers' training concept with systematic monitoring and its impact on class. | CGS & ERED | A final copy of training concept with systematic monitoring for teacher training. | 15
 Train the trainers on central and Governorate levels | CGS | Reports show (840) trainers on central and local levels got trained. | 209
@@ -984,10 +1031,10 @@ Maintain (450)schools need core maintenance by LC and help of DEO. | LC & DEO | 
 Program | Objective | Activities | Duration | Respon. | Indicators | Financial $ (000)
 --- | --- | --- | --- | --- | --- | ---
 003 | 00 | 005
-Development of basic education curricula (grade | Enhance the practical and basic learning | Develop learning competency for each grade and subject of basic education. | CGS & ERED | A copy of learning competency for each grade and subject got approved. | 76
-1-6) | Building new curricula for grade 1-6 according to each class and subject competence | PEO & DEO | New textbooks in schools for grade 1-6 by Sep. 2005. | 3.240
+Development of basic education curricula (grade 1-6) | Enhance the practical and basic learning | Develop learning competency for each grade and subject of basic education. | CGS & ERED | A copy of learning competency for each grade and subject got approved. | 76
+Building new curricula for grade 1-6 according to each class and subject competence | PEO & DEO | New textbooks in schools for grade 1-6 by Sep. 2005. | 3.240
 . Train teacher on new curricula. | CGS & ERDC | (104500) all primary teachers trained | 7.802
-Supply school with audio- visual material link to the new curricula. | PS | By the end of 2005 audio- visual material link to the new curricula find in schools | 72
+Supply school with audio-visual material link to the new curricula. | PS | By the end of 2005 audio-visual material link to the new curricula find in schools | 72
 Building LAM test according to the competency to monitor pupils achievement in grade 4 & 6. | CGS & ERED | LAM test for grade 4 & 6 got approved. | 45
 Provide pupils with (42.149.00) textbooks | PS | pupil textbook Ratio 1/1 | For memory already financed under Gov. Budget
 Provide teachers with (752667) teacher guide | PS | Teacher guide Ratio 1/1 | For memory already financed under Gov. Budget
@@ -1003,7 +1050,7 @@ TOTAL | 24.105
 
 Objective: To improve the professional and managerial competences and potentials of all education stuff.
 
-Program | Objective | Activities | Duration | Respon. | Indicators | Financia l $ (000)
+Program | Objective | Activities | Duration | Respon. | Indicators | Financial $ (000)
 --- | --- | --- | --- | --- | --- | ---
 03 | 04 | 05
 Education management stuff competences | Enhancing the professional and managerial competences and potentials of all education stuff. | Define clearly the tasks and responsibilities of MEO personnel at Governorate and districts level | MOE | A documents tasks and responsibilities of MEO personnel at all level, | 7
@@ -1030,7 +1077,9 @@ Supply all planning department in PEO with hardware, network, and software neede
 Supply all planning department in DEO with hardware, network, and software needed. | PS | The equipments in DEO | 9.312
 Train (7680) from planning departments in all levels for 15 days on entering, processing and analyzing data. | PEO | Reports show planning staff can entering, processing and analyzing data | 100
 Create an electronic communication network link DEO with PEO and MEO. | PS | Processing EMIS In different levels. | 25
-Total | 32 15424
+Total | 15424
+
+32
 
 [[END OF PAGE 39]]
 
@@ -1055,7 +1104,9 @@ Number | Dimensions | Total $ (000)
 5 | Institution Building Capacity | 15.424
 Total | 450.000
 
-The  first  three  years  (2003-2005)  of  the  BEDS  is  a  reform  phase  which  aims  to  improve  the  access, quality,  equity,  efficiency  and  Institutional  capacity  building  by  strengthening  capacity  building  at  the central,  Governorate,  and  district  levels.    Financial  requirements  for  the  three  year  period  are  US$1.2 billion or US$414 million per year.  Wages and salaries of existing teachers and new teachers, which are US$792 million (or US$264 million per year) will be financed by Government.  The Government will focus on capacity building and teacher deployment without rapid expansion.  The financing requirement for  goods  and  services  (quality  improvement  measures  including  capacity  building)  and  investment (school construction) is US$450 million or US$150 million per year.  The financial envelop for goods and services, and investment is estimated at US$354 million or US$118 million per year.  Thus the additional funding required during the first phase of BEDS is US$96 million (or US$32 million per year-US$19 million for quality, equity, and efficiency improvements and US$13 million for school construction)equivalent to 27 percent of the budget allocated to goods and services, and investment in 2002.  This amount needs to be financed by the FTI funding.
+The first three years (2003-2005) of the BEDS is a reform phase which aims to improve the access, quality, equity, efficiency and Institutional capacity building by strengthening capacity building at the central, Governorate, and district levels. Financial requirements for the three year period are US$1.2 billion or US$414 million per year. Wages and salaries of existing teachers and new teachers, which are US$792 million (or US$264 million per year) will be financed by Government. The Government will focus on capacity building and teacher deployment without rapid expansion. The financing requirement for goods and services (quality improvement measures including capacity building) and investment (school construction) is US$450 million or US$150 million per year. The financial envelop for goods and services, and investment is estimated at US$354 million or US$118 million per year. Thus the additional funding required during the first phase of BEDS is US$96 million (or US$32 million per year—US$19 million for quality, equity, and efficiency improvements and US$13 million for school construction)—equivalent to 27 percent of the budget allocated to goods and services, and investment in 2002. This amount needs to be financed by the FTI funding.
+
+Table 4: Request for FTI Funding between 2003 and 2005 (US$ Millions)
 
 2003 | 2004 | 2005 | Total (2003-05)
 --- | --- | --- | --- | ---
@@ -1066,17 +1117,15 @@ Goods/Services & investment | 118 | 118 | 118 | 354
 Financing Gap | 32 | 32 | 32 | 96
 Request for FTI funding | 32 | 32 | 32 | 96
 
-Table 4: Request for FTI Funding between 2003 and 2005 (US$ Millions)
-
 34
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
-## IV.4.  Educational Achievement 'With and Without' FTI Funding
+## IV.4. Educational Achievement “With and Without” FTI Funding
 
-The government has been spending a large share of national expenditure on basic education sub-sector and the local donor partners' contributions have significantly increased in the past five years.  However, additional financial resources will be needed to achieve EFA with adequate quality level of education by 2015. As a result of the high increase in population, all government resources will be directed to meet the social requirements for education by building additional classrooms with more attention paid to improving the quality of basic education or decreasing the gap between girls and boys and between urban and rural areas.    Considering  the  social  and  cultural  situation  in  Yemen  concerning  female  education,  the elimination of gender disparity by 2005-one of the MDG targets-is unrealistic.
+The government has been spending a large share of national expenditure on basic education sub-sector and the local donor partners' contributions have significantly increased in the past five years. However, additional financial resources will be needed to achieve EFA with adequate quality level of education by 2015. As a result of the high increase in population, all government resources will be directed to meet the social requirements for education by building additional classrooms with more attention paid to improving the quality of basic education or decreasing the gap between girls and boys and between urban and rural areas. Considering the social and cultural situation in Yemen concerning female education, the elimination of gender disparity by 2005—one of the MDG targets—is unrealistic.
 
 Currently  donor  partners  are  providing  financial  and  technical  support  in  school  construction  and maintenance, in-service teacher training, capacity building by encouraging community participation, and promotion of girls' education.  The additional financial resources from the EFA FTI will be used for the improvement of girls' enrollment rate, particularly in under-served areas, strengthening of the capacity of MOE's monitoring system, the improvement of the quality of education, such as textbooks production and distribution, and school construction.
 
@@ -1192,11 +1241,12 @@ Male
 With EFA (includes BEDS) Without EFA (status quo) Difference | 1,244,000 (61%) 1,244,000 (61%) -- | 1,657,000 (71%) 1,557,000 (66%) 100,000 (5%) | 3,374,000 (100%) 2,729,000 (81%) 645,000 (19%)
 Female
 With EFA (includes BEDS) Without EFA (status quo) Difference | 791,000 (41%) 791,000 (41%) -- | 1,185,000 (53%) 1,070,000 (48%) 115,000 (5%) | 3,200,000 (100%) 2,278,000 (71%) 923,000 (29%)
-Increase Primary Completion Rate Male
+Increase Primary Completion Rate
+Male
 With EFA (includes BEDS) Without EFA (status quo) Difference | 208,000 (68%) 208,000 (68%) -- | 274,000 (76%) 268,000 (75%) 6,000 (1%) | 512,000 (100%) 487,000 (95%) 25,000 (5%)
 Female
-With EFA (includes BEDS) | 97,000 (33%) 97,000 (33%) | 145,000 (45%) 125,000 (39%) | 484,000 (100%) 281,000 (58%)
-Without EFA (status quo)
+With EFA (includes BEDS) | 97,000 (33%) | 145,000 (45%) | 484,000 (100%)
+Without EFA (status quo) | 97,000 (33%) | 125,000 (39%) | 281,000 (58%)
 Difference | -- | 20,000 (6%) | 203,000 (42%)
 
 Notes: * Without EFA means status quo, while with EFA FTI means reform strategy with BEDS and additional external supports.
@@ -1223,11 +1273,11 @@ The first : The Implementation Straning Committee (ISC), which consists of Minis
 
 - Insure the availability of coordination and cooperation between:
 
-- head2right MOE sectors.
+- MOE sectors.
 
-- head2right MOE and other Ministries related to BEDS implementation (Ministry of Finance, Ministry of Civil Service, Ministry of Planning and Development, Ministry of Higher education, and Ministry of Local authority).
+- MOE and other Ministries related to BEDS implementation (Ministry of Finance, Ministry of Civil Service, Ministry of Planning and Development, Ministry of Higher education, and Ministry of Local authority).
 
-- head2right Among donors to insure coordination and effective use of available resources.
+- Among donors to insure coordination and effective use of available resources.
 
 - Prepare six months reports for the Cabinet and Parliament.
 
@@ -1329,6 +1379,8 @@ Strengthening  the  institutional  capacity  of  the  Ministry  of  Education  o
 
 ## The Simulation Model
 
+Table A.1: Simulation Model in Yemen and the 2015 Target Parameters: Three Scenarios
+
 Target for 2015 under alternative simulation scenarios
 --- | --- | --- | --- | ---
 Yemen | Base year data 2001 | Scenario 1 Status Quo 2015 | Scenario 2 Realistic Reform Scenario 2015 | Scenario 3 Cautionary Scenario 2015
@@ -1344,6 +1396,7 @@ Public spending on primary education as % of total public spending on education 
 Total public recurrent spending on education (millions of YR) | 87,000
 Total recurrent spending on education as % of GDP | 5.6%
 Total domestic public resources for primary education (millions of YR) | 41,720
+Number of pupils enrolled in primary education (6 years) | 2,643,512
 Repeaters as a % of total primary school enrollments | 7% | 7% | 3% | 7%
 Target year for intake rate
 Completion rate (%) | 51% | 100% | 100% | 100%
@@ -1357,8 +1410,6 @@ Number of teachers in public primary schools (grade 1 to 6) | 104,335
 Attrition rate of teachers (% per annum) | 1.6% | 1.6% | 1.6% | 1.6%
 Number of certified teachers | 41,734
 Number of uncertified teachers | 62,601
-
-Table A.1: Simulation Model in Yemen and the 2015 Target Parameters: Three Scenarios
 
 (Table continues on the following page.)
 
@@ -1379,8 +1430,9 @@ HIV/AIDS (% increase to the teacher remuneration bill) | 0.0% | 0.0% | 0.0% | 0.
 Spending on inputs other than teacher salaries (% of teacher salary bill) | 30% | 30% | 36% | 36%
 Public subsidy for private schools (million of YR) | 0
 Public subsidy per pupil in private schools (YR) | 0
-Maternal and double orphans as % of population | 0
-Subsidies per maternal and double orphan (US$) Cost per furnished classroom, incl. Latrines (thousands of YR) | 2,186 | 2,186 | 2,186 | 2,186
+Maternal and double orphans as % of population
+Subsidies per maternal and double orphan (US$) | 0
+Cost per furnished classroom, incl. Latrines (thousands of YR) | 2,186 | 2,186 | 2,186 | 2,186
 Number of teachers per classroom * | 1.45 | 1.2 | 1.2 | 1.2
 
 Note: * Public domestic revenue (excl. grants) as % of GDP in 2000 is very high compared to other years.  Thus, the target indicator of 30 percent is set.
@@ -1398,7 +1450,7 @@ Target indicator of 1.2 is used because we assume 20 percent of classes would co
 ## Enrollment Projection in Primary Education
 
 ### Enrollment  Projection.
-Achieving  the  EFA  target  was  projected  with  two  different  scenarios:  i)  status  quoproportion of repeaters remains at 7 percent; and ii) reform scenario-the implementation of automatic promotion by 2005 and proportion of repeaters gradually decline to 3 percent by 1015.   The baseline indicators use 2001 data and the following assumptions:
+Achieving the EFA target was projected with two different scenarios: i) status quo—proportion of repeaters remains at 7 percent; and ii) reform scenario—the implementation of automatic promotion by 2005 and proportion of repeaters gradually decline to 3 percent by 1015. The baseline indicators use 2001 data and the following assumptions:
 
 - 100 percent primary completion rate by 2015;
 
@@ -1408,25 +1460,24 @@ Achieving  the  EFA  target  was  projected  with  two  different  scenarios:  i
 
 In the first scenario, primary school enrollment  will increase to 7.1 million by 2015 and the gross enrollment rate is projected at 107 percent in 2015 due to repeating students.  In the second scenario, if automatic promotion were implemented by 2005, primary school enrollment would be approximately 292,000 fewer than in the status quo scenario and gross and net enrollment will reach 103 percent by 2015 (see Table A2).
 
-Table A2: Enrollment Projection in Primary Education - Reform Scenario
+Table A2: Enrollment Projection in Primary Education – Reform Scenario
+
+ | Target | 2001 (base) | 2003 | 2005 | 2007 | 2009 | 2011 | 2013 | 2015
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+School-age population ages 6-11 ('000) |  | 3 953 | 4 251 | 4 571 | 4 916 | 5 286 | 5 685 | 6 113 | 6 574
+Population age 6 ('000) |  | 757 | 814 | 875 | 941 | 1 012 | 1 089 | 1 171 | 1 259
+Population age 11 ('000) |  | 599 | 644 | 693 | 745 | 801 | 861 | 926 | 996
+New entrants in grade 1 ('000) |  | 552 | 642 | 743 | 856 | 982 | 1 089 | 1 171 | 1 259
+Non-repeaters in grade 6 ('000) |  | 305 | 373 | 450 | 536 | 633 | 741 | 861 | 996
+Total primary enrollment ('000) |  | 2 644 | 3 108 | 3 639 | 4 228 | 4 881 | 5 515 | 6 117 | 6 777
+% of age-group entering grade 1 |  | 73% | 79% | 85% | 91% | 97% | 100% | 100% | 100%
+% of age-group reaching grade 6 * | 100% | 51% | 58% | 65% | 72% | 79% | 86% | 93% | 100%
+Target year | 2015 |  |  |  |  |  |  |  | 
+Repeaters as % of total enrollments | 3% | 7% | 6% | 6% | 5% | 5% | 4% | 4% | 3%
+Target year | 2015 |  |  |  |  |  |  |  | 
+Gross enrollment rate |  | 67% | 73% | 80% | 86% | 92% | 97% | 100% | 103%
 
 Note: Annual growth rate of primary school age population is 3.7 percent;
-
-Target | 2001 (base) | 2003 | 2005 | 2007 | 2009 | 2011 | 2013 | 2015
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-School-age population ages 6-11 ('000) | 3 953 | 4 251 | 4 571 | 4 916 | 5 286 | 5 685 | 6 113 | 6 574
-Population age 6 ('000) | 757 | 814 | 875 | 941 | 1 012 | 1 089 | 1 171 | 1 259
-Population age 11 ('000) | 599 | 644 | 693 | 745 | 801 | 861 | 926 | 996
-New entrants in grade 1 ('000) | 552 | 642 | 743 | 856 | 982 | 1 089 | 1 171 | 1 259
-Non-repeaters in grade 6 ('000) | 305 | 373 | 450 | 536 | 633 | 741 | 861 | 996
-Total primary enrollment ('000) | 2 644 | 3 108 | 3 639 | 4 228 | 4 881 | 5 515 | 6 117 | 6 777
-% of age-group entering grade 1 | 73% | 79% | 85% | 91% | 97% | 100% | 100% | 100%
-% of age-group reaching grade 6 * | 100% | 51% | 58% | 65% | 72% | 79% | 86% | 93% | 100%
-Target year | 2015
-Repeaters as % of total enrollments | 3% | 7% | 6% | 6% | 5% | 5% | 4% | 4% | 3%
-Target year | 2015
-Gross enrollment rate | 67% | 73% | 80% | 86% | 92% | 97% | 100% | 103%
-
 * The percentage of age-group reaching grade 6 is used for completion rate.
 
 40
@@ -1448,38 +1499,36 @@ This is a set of successive stages that were completed according to the followin
 #### The Preparation Stage:
 This contains the following steps:
 
-- Crystallization of the idea of the project: The idea of the basic education development strategy project  was  crystallized  through  numerous  meetings  held  with  the  Ministry  leadership  at various  levels.  The  Ministry  asked  the  German  Technical  Cooperation  in  Yemen  to  present technical assistance for the preparation of the project.
+1. Crystallization of the idea of the project: The idea of the basic education development strategy project was crystallized through numerous meetings held with the Ministry leadership at various levels. The Ministry asked the German Technical Cooperation in Yemen to present technical assistance for the preparation of the project.
 
-- Determination of the project objective: The previous step resulted in the determination of the objective of the project, i.e., 'Formulation of the national strategy for the development of basic education' in the long-term (extending to 2015).
+2. Determination of the project objective: The previous step resulted in the determination of the objective of the project, i.e., 'Formulation of the national strategy for the development of basic education' in the long-term (extending to 2015).
 
-- Composition of the project management team:
+3. Composition of the project management team:
 
 - The project leading committee was established by the Ministerial Resolution No. (144) issued on 9/4/2001 and composed of:
 
-- The  major  technical  team  for  the  management  of  the  strategy  formulation  project  is composed of the following:
-
 1. Minister of Education | Chairman
 --- | ---
-2.Vice-Minister of Education | Member
-3.Deputy Minister for the Education Sector | Member
-4.Deputy Minister for Curriculum and Guidance Sector | Member
+2. Vice-Minister of Education | Member
+3. Deputy Minister for the Education Sector | Member
+4. Deputy Minister for Curriculum and Guidance Sector | Member
 5. Deputy Minister for Projects Sector | Member
-6.Chairman, Technical Bureau at the Ministry | Member
-7.Director, Education Research and Development Center | Member
-8.Chairman, Illiteracy Eradication & Adult Education Organ | Member
-9 Advisor of the Ministry for Planning | Member
-10. General Director of Planning & Statistics | Member
+6. Chairman, Technical Bureau at the Ministry | Member
+7. Director, Education Research and Development Center | Member
+8. Chairman, Illiteracy Eradication & Adult Education Organ | Member
+9. Advisor of the Ministry for Planning | Member
+10. General Director of Planning & Statistics | Member and Secretary
+
+- The major technical team for the management of the strategy formulation project is composed of the following:
 
 ###### Core technical team:
 
 #### Formulation of the strategic vision stage
 includes the following steps:
 
-- Using a scientific model to 'formulate' the future perception of basic education by 2015. The model encompasses the following major dimensions:
+1. Using a scientific model to 'formulate' the future perception of basic education by 2015. The model encompasses the following major dimensions:
 
 - Description of the current conditions of basic education in Yemen.
-
-and Secretary
 
 41
 
@@ -1489,11 +1538,11 @@ and Secretary
 
 - Description and determination of the gap analysis between the current condition and the desired one in the future.
 
-- Determination  of  priorities  to  fill  in  the  gap  to  arrive  at  an  aspired  future  condition  of  basic education in Yemen by 2015.
+- Determination of priorities to fill in the gap to arrive at an aspired future condition of basic education in Yemen by 2015.
 
-- Carry  out  a  stakeholders'  analysis  survey  to  determine  the  main  partners  in  the  education process. This should be an introduction to formulate the common strategic vision of the future of basic education.
+2. Carry out a stakeholders' analysis survey to determine the main partners in the education process. This should be an introduction to formulate the common strategic vision of the future of basic education.
 
-- Formulate a strategic vision of the future of basic education by 2015. This was carried out in four workshops  in  which  400  persons  representing  various categories  concerned  with education issues at the official and popular levels participated.
+3. Formulate a strategic vision of the future of basic education by 2015. This was carried out in four workshops in which 400 persons representing various categories concerned with education issues at the official and popular levels participated.
 
 ##### First Workshop:
 It  included the higher leadership of the Ministry of Education and aimed at formulating  a  future  perception  of  basic  education  as  seen  and  determined  by  the  Ministry leadership.
@@ -1509,13 +1558,13 @@ It  included representatives of those participating in the four workshops. It ai
 
 Within the framework of the previously mentioned workshops, the aspired purpose of the future of basic education in Yemen was determined within the context of the strategy, and it was made up of four major components as follows:
 
-- Shared Strategic Vision (What is the future condition that we wish basic education in Yemen by 2015 to be?).
+1. Shared Strategic Vision (What is the future condition that we wish basic education in Yemen by 2015 to be?).
 
-- Strategic  Mission:  (Commitment  and  determination  of  the  education establishment to realize the vision).
+2. Strategic Mission: (Commitment and determination of the education establishment to realize the vision).
 
-- Strategic  Objective:  (What  is  the  result(s)  that  must  be  accomplished by 2015 to realize the task and arrive at the vision?).
+3. Strategic Objective: (What is the result(s) that must be accomplished by 2015 to realize the task and arrive at the vision?).
 
-- Strategic dimension for reform: (What are the priorities of reforming the basic education system so that it is prepared and able to effect the desired change?).
+4. Strategic dimension for reform: (What are the priorities of reforming the basic education system so that it is prepared and able to effect the desired change?).
 
 #### Field work stage:
 
@@ -1533,15 +1582,15 @@ As  the  participation  of  all  governorates  was  impossible  for  practical, 
 
 - Geographic distinction: coastal, mountainous, hot, cold governorates.
 
-- Educational reality: Governorates with advanced experience in one or more axes.
-
 - Degree of urbanization: urban, close to urban and rural governorates.
 
-- Educational  process:  Governorates  with  beginning  experience  in  one  or  more  axes  of  the  educational process.
+- Educational reality: Governorates with advanced experience in one or more axes.
 
-- Based  on  these  criteria  the  following  governorates  were  selected:  Shabwa,  Saada,  Aden,  Abyan,  AlHodeida, Lahej, Hadhramout, Ibb
+- Educational process: Governorates with beginning experience in one or more axes of the educational process.
 
 - Level of zeal and readiness to participate in formulating the strategy.
+
+- Based on these criteria the following governorates were selected: Shabwa, Saada, Aden, Abyan, Al-Hodeida, Lahej, Hadhramout, Ibb
 
 ##### 2. Selection of members of fieldwork groups from the governorates
 
@@ -1549,9 +1598,9 @@ The members of the field work groups were selected from among the best education
 
 - Each governorate should be represented by a selected group from: the school, the education center, the Governorate Education Office, the Local Council, Parents Councils, and representatives of civil society.
 
-- The qualification of any member should not be less than the first university certificate.
-
 - Women should have 50% representation in the composition of the groups wherever possible.
+
+- The qualification of any member should not be less than the first university certificate.
 
 - The experience of the nominated member should not be less than five years' work in the education field.
 
@@ -1573,16 +1622,16 @@ The  streamlining  and  support  of  education  experience  in  the  field  poin
 
 Three to four field groups were formed at the level of each of the ten selected governorates to prepare field strategy papers on the determined axes as shown in the following table: -
 
-Governorate/Axis | Aden | Sana'a | Hodaida | Abyan | Saada | Hadhramo | t Ibb | Lahej | Hajja | Shabwa | National groups | No. of strategies in each axis
+Governorate/Axis | Aden | Sana'a | Houdaida | Abyan | Saada | Hadhramot | Ibb | Lahej | Hajja | Shabwa | National groups | No. of strategies in each axis
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-The teacher | X | X | X | 3
-The curriculum | X | X | X | 3
-Education funding | X | X | X | 3
-School administration | X | X | X | 3
-Decentralization | X | X | X | X | 4
-School buildings | X | X | X | X | 4
-Girls education | X | X | X | X | 4
-Community participation | X | X | X | X | 4
+The teacher |  | X |  | X |  |  |  |  |  |  | X | 3
+The curriculum | X |  |  |  |  |  |  | X |  |  | X | 3
+Education funding |  | X |  |  |  |  |  | X |  |  | X | 3
+School administration | X |  |  |  |  |  |  | X |  |  | X | 3
+Decentralization |  |  |  |  |  | X | X |  | X |  | X | 4
+School buildings |  |  |  | X | X |  |  |  | X |  | X | 4
+Girls education |  |  | X |  | X |  |  |  |  | X | X | 4
+Community participation |  |  | X |  |  |  | X |  |  | X | X | 4
 Number of groups in each Governorate | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 8 | 27
 
 From the preceding rows it is clear that in each axis, 32-33 groups work in different governorates.  There is,  in  addition  to  that,  a  technical  group  that  deals  with  a  specific  axis  subject  from  a  comprehensive perspective. The local groups deal with the axis subject from the angle of the governorate. The purpose of that  is  to  provide  comprehensive  and  complemented  perception  of  the  axis  subject.  Based  on  this mechanism,  28  field  work  papers  were  prepared  dealing  with  the  eight  axes  for  the  reform  of  basic education.
@@ -1601,17 +1650,17 @@ An integrated scientific model was developed to guide the formulation of the piv
 
 ##### Pivotal field strategies' preparation steps
 
-- Analysis of the current situation:
-
-- Analysis of the spheres of strength.
+1. Analysis of the current situation:
 
 - Diagnosis of basic education's current situation.
 
+- Analysis of the spheres of strength.
+
 - Analysis of the spheres of weakness.
 
-- Analysis of factors obstructing the process of change.
-
 - Analysis of factors conducive to the process of change.
+
+- Analysis of factors obstructing the process of change.
 
 44
 
@@ -1619,27 +1668,27 @@ An integrated scientific model was developed to guide the formulation of the piv
 
 [[START OF PAGE 56]]
 
-- Determine desired targeted future situation:
+2. Determine desired targeted future situation:
 
-- What do we desire the situation of basic education to be by 2015 and  why?  Who  is  concerned?  Who  benefits  from  the  aspired situation? What are their aspirations and hopes?
+- What do we desire the situation of basic education to be by 2015 and why? Who is concerned? Who benefits from the aspired situation? What are their aspirations and hopes?
 
-- Analyze the development gap between situation (1) and (2).
-
-- Manifestations and indicators of the gap.
+3. Analyze the development gap between situation (1) and (2).
 
 - Description of the gap:
 
-- Its reflections upon the education process.
+- Manifestations and indicators of the gap.
 
-- Determine spheres of development necessary to overcome the gap without taking constraints into account.
+- Its reflections upon the education process.
 
 - To what extent this can be overcome?
 
-- Formulate an executive action plan according to Step (4).
+4. Determine spheres of development necessary to overcome the gap without taking constraints into account.
 
-- Determine  spheres  of  development  necessary  to  overcome  the  gap  taking  the constraints into account.
+5. Formulate an executive action plan according to Step (4).
 
-- Formulate an action plan according to Step (6).
+6. Determine spheres of development necessary to overcome the gap taking the constraints into account.
+
+7. Formulate an action plan according to Step (6).
 
 #### 2. Training and follow-up
 
@@ -1655,7 +1704,12 @@ Each team within its own axis formulated the pivotal strategy related to its axi
 
 A  workshop  was  convened  and  continued  for  three  successive  days.  During  this  time,  the  education partners  at  the  central  and  local  levels  of  the  Ministry  as  well  as  representatives  from  civil  society reviewed the pivotal strategies. The representatives of the donor organizations concerned with education issues were also invited to review the strategies. In the light of the fruitful discussions of the participants in those workshops, each team undertook the integration of the excellent proposals and views within the final context of each strategy. After that eight (8) pivotal strategies were submitted. These were:
 
-The teacher and guidance axis development strategy. The curriculum and evaluation axis development strategy. The education funding axis development strategy. The school administration axis development strategy. The school building axis development strategy. The girls' education axis development strategy.
+- The teacher and guidance axis development strategy.
+- The curriculum and evaluation axis development strategy.
+- The education funding axis development strategy.
+- The school administration axis development strategy.
+- The school building axis development strategy.
+- The girls' education axis development strategy.
 
 45
 
@@ -1663,7 +1717,8 @@ The teacher and guidance axis development strategy. The curriculum and evaluatio
 
 [[START OF PAGE 57]]
 
-The community participation axis development strategy. The education management and education decentralization axis development strategy.
+- The community participation axis development strategy.
+- The education management and education decentralization axis development strategy.
 
 These strategies were submitted to the major technical team and with it the field work stage ended.
 
@@ -1684,28 +1739,28 @@ The  pivotal  strategies  formed  the  basis  for  the  formulation  of  the  Na
 # Annex 4:
 ## Credible Plan for EFA in Yemen
 
-Value in | Indicative benchmark by 2015 | Targets, Rationale and Implementation
---- | --- | --- | --- | ---
-I NDICATOR | Targets | Rationale/Plan to get there
-2001 | Value | Date
-1. RESOURCE MOBILIZATION
-Public domestically-generated revenues as % of GDP | 35.2 | 30 | 34 | 2005
-Public recurrent spending on education as % of public recurrent discretionary spending (a) | 15.8 | 20 | 17 | 2005
-Public recurrent spending on primary education as % of total recurrent spending on education (b) | 48 | 50 | 48 | 2005
-2. STUDENT FLOW INDICATORS
-% of age-group entering first grade in primary cycle (c) (d) | 73 | 100 | 85 | 2005
-% of age-group reaching grade 6 in primary cycle | 51 | 100 | 65 | 2005
-% repeaters among primary school pupils | 3 | 0 | 6 | 2005
-Survival rate in primary cycle | 70 | 100 | 76 | 2005
-Service delivery indicators
-Pupil-teacher ratio in publicly-financed primary schools (e) | 25:1 | 35:1 | 28:1 | 2005
-Average annual remuneration of primary school teachers: (f) : Existing teachers | 3.2 | 3.5 | 3.4 | 2005
-New teachers
-Recurrent spending on items other than teacher remuneration as % of total recurrent spending on primary education g) | 30 | 36 | 32 | 2005
-Annual instructional hours for pupils in publicly-financed primary schools
-% of pupils enrolled in privately-financed primary schools | 1.4 | 5.3 | 2.5 | 2005
+Table A3: Assessing EFA/Sector Development Plans Relative to the “Indicative Framework” in Yemen
 
-Table A3: Assessing EFA/Sector Development Plans Relative to the 'Indicative Framework' in Yemen
+INDICATOR | Value in | Indicative benchmark by 2015 | Targets, Rationale and Implementation |  | 
+ | 2001 |  | Targets |  | Rationale/Plan to get there
+ |  |  | Value | Date | 
+--- | --- | --- | --- | --- | ---
+1. RESOURCE MOBILIZATION |  |  |  |  | 
+Public domestically-generated revenues as % of GDP | 35.2 | 30 | 34 | 2005 | 
+Public recurrent spending on education as % of public recurrent discretionary spending (a) | 15.8 | 20 | 17 | 2005 | 
+Public recurrent spending on primary education as % of total recurrent spending on education (b) | 48 | 50 | 48 | 2005 | 
+2. STUDENT FLOW INDICATORS |  |  |  |  | 
+% of age-group entering first grade in primary cycle (c) | 73 | 100 | 85 | 2005 | 
+% of age-group reaching grade 6 in primary cycle (d) | 51 | 100 | 65 | 2005 | 
+% repeaters among primary school pupils | 3 | 0 | 6 | 2005 | 
+Survival rate in primary cycle | 70 | 100 | 76 | 2005 | 
+Service delivery indicators |  |  |  |  | 
+Pupil-teacher ratio in publicly-financed primary schools (e) | 25:1 | 35:1 | 28:1 | 2005 | 
+Average annual remuneration of primary school teachers: (f): Existing teachers | 3.2 | 3.5 | 3.4 | 2005 | 
+New teachers |  |  |  |  | 
+Recurrent spending on items other than teacher remuneration as % of total recurrent spending on primary education (g) | 30 | 36 | 32 | 2005 | 
+Annual instructional hours for pupils in publicly-financed primary schools |  |  |  |  | 
+% of pupils enrolled in privately-financed primary schools | 1.4 | 5.3 | 2.5 | 2005 | 
 
 47
 
@@ -1738,34 +1793,34 @@ g/ Spending on items other than teacher remuneration include: (i) the remunerati
 # Annex 5
 ## External Financing for Primary Education
 
-1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004
+Table A.4: External Financing for Education (million US$)
+
+ | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004
 --- | --- | --- | --- | --- | --- | --- | ---
-Education
-Multilateral
+Education |  |  |  |  |  |  | 
+Multilateral |  |  |  |  |  |  | 
 UNICEF (*) | -- | -- | -- | -- | 2.1 | 2.8 | 2.6
 World Bank | 15.7 | 20.4 | 17.8 | 18.3 | 11.6 | 23.2 | 24.7
 World Food Program | -- | 4.8 | 4.8 | 4.8 | 6.3 | 6.3 | 6.3
-Bilateral
-France | -- | -- | -- | --
+Bilateral |  |  |  |  |  |  | 
+France | -- | -- | -- | -- |  |  | 
 Germany (**) | 0.8 | 1.4 | 1.7 | 2.1 | 2.7 | 1.9 | 1.2
 Holland | -- | 3.7 | 5.4 | 5.7 | 17.6 | 17.6 | 18.6
-Japan | 6.1 | 2.0 | 1.5 | 3.0
-USA | 1.5 | 1.5
+Japan | 6.1 | 2.0 | 1.5 | 3.0 |  |  | 
+USA |  |  |  |  |  | 1.5 | 1.5
 TOTAL | 22.6 | 32.3 | 31.2 | 33.9 | 40.3 | 53.3 | 54.9
-Primary education
-Multilateral
+Primary education |  |  |  |  |  |  | 
+Multilateral |  |  |  |  |  |  | 
 UNICEF | -- | -- | -- | -- | 2.1 | 2.8 | 2.6
 World Bank | 8.6 | 14.0 | 12.0 | 16.3 | 8.1 | 14.9 | 16.9
 World Food Program | -- | 4.8 | 4.8 | 4.8 | 4.8 | 4.8 | 4.8
-Bilateral
-France | -- | -- | -- | --
+Bilateral |  |  |  |  |  |  | 
+France | -- | -- | -- | -- |  |  | 
 Germany | 0.8 | 0.6 | 0.6 | 0.7 | 1.5 | 1.2 | 1.2
 Holland | -- | 3.7 | 5.4 | 5.7 | 17.6 | 17.6 | 18.6
 Japan | 0.1 | 0.1 | 0.5 | 0.0 | - | - | -
-USA | 1.5 | 1.5
+USA |  |  |  |  |  | 1.5 | 1.5
 TOTAL | 9.5 | 23.2 | 23.3 | 27.5 | 34.1 | 42.8 | 45.6
-
-Table A.4: External Financing for Education (million US$)
 
 Notes: The information on donor funding was collected from each donor partner.
 
@@ -1779,42 +1834,19 @@ Notes: The information on donor funding was collected from each donor partner.
 
 [[START OF PAGE 61]]
 
-Hierarchy of Results | Performance Indicators (PI ) | Means of Verification or Basis for Data Collection | Conditions for Success
---- | --- | --- | ---
-Key Outcomes
-1. Gender parity in first grade intake in primary school attained by 2010. | 1. Girls as 50% of first grade gross intake by 2010 | 1. School census or household survey | Schools with latrine built near girls home; teacher deployment; community awareness
-3. Increased learning outcomes in primary school. Outputs and Delivery 1. Improved coverage, especially of rural girls | 3. . 2001 2005 Life skills -- -- (Students achievement in the four subjects are about to be finalized. Targets will be determined later) 1. 2001 2005 2015 Total NER 51% 65% 100% Girls 41% 53% 100% Rural Girls 30% -- 100% Total number of pupils in thousands 2001 2005 2015 2,644 3,639 6,777 2. 2001 2005 2015 Repetition rate -- | 2015 -- 3. Sample-based assessment 1. School census or survey, population projection | national (EMIS) of Strengthen the M&E capacity Schools with latrine built near girls home; teacher deployment; community awareness
-2. 100% primary school completion rate (PCR) by 2015. | 2. 2001 2005 2015 Total PCR 51% 65% 100% Girls 33% -- 100% | 2. School census or household survey
-Rural -- | --
-Girls --
-Science -- -- Math -- -- | -- -- educational progress in
-Arabic -- -- | -- grades 4 and 6
-Service
-2. Increased internal efficiency
-Strengthen
-7% -- | 2. School | census or survey the M&E
-capacity
-Drop out rate -- -- | --
-Teacher/student ratio
-3. Improved quality of
-25 28 | 35
-2015 3. Ministry statistics;
-3. 2001 | Sample-based survey done
-in conjunction with student
-2005
-Teacher qualification
-learning inputs or activities
-unannounced
-assessment;
-Instructional
-materials
-visit, etc.
-time
-school
-Instructional
-
 # Annex 6.
 ## Results Framework for the Evaluation of EFA-FTI
+
+Hierarchy of Results | Performance Indicators (PI) | Means of Verification or Basis for Data Collection | Conditions for Success
+--- | --- | --- | ---
+Key Outcomes |  |  | 
+1. Gender parity in first grade intake in primary school attained by 2010. | 1. Girls as 50% of first grade gross intake by 2010 | 1. School census or household survey | Schools with latrine built near girls home; teacher deployment; community awareness
+2. 100% primary school completion rate (PCR) by 2015. | 2. 2001 2005 2015; Total PCR 51% 65% 100%; Girls 33% -- 100%; Rural Girls -- -- -- | 2. School census or household survey | 
+3. Increased learning outcomes in primary school. | 3. . 2001 2005 2015; Life skills -- -- --; Science -- -- --; Math -- -- --; Arabic -- -- --; (Students achievement in the four subjects are about to be finalized. Targets will be determined later) | 3. Sample-based national assessment (EMIS) of educational progress in grades 4 and 6 | Strengthen the M&E capacity
+Outputs and Service Delivery |  |  | 
+1. Improved coverage, especially of rural girls | 1. 2001 2005 2015; Total NER 51% 65% 100%; Girls 41% 53% 100%; Rural Girls 30% -- 100%; Total number of pupils in thousands: 2001 2005 2015; 2,644 3,639 6,777 | 1. School census or survey, population projection | Schools with latrine built near girls home; teacher deployment; community awareness
+2. Increased internal efficiency | 2. 2001 2005 2015; Repetition rate 7% -- --; Drop out rate -- -- --; Teacher/student ratio 25 28 35 | 2. School census or survey | Strengthen the M&E capacity
+3. Improved quality of learning inputs or activities | 3. 2001 2005 2015; Teacher qualification; Instructional materials; Instructional time | 3. Ministry statistics; Sample-based survey done in conjunction with student assessment; unannounced school visit, etc. | 
 
 50
 
@@ -1822,10 +1854,11 @@ Instructional
 
 [[START OF PAGE 62]]
 
-FTI Strategy 1. Critical country-specific interventions or strategies necessary for accelerating progress via FTI are operationalized and implemented successfully 2. A comprehensive monitoring and evaluation system developed or upgraded for accountability, improvement and lessons, and capacity for operation assessed and enhanced | • Policies ( for financing, repetition, promotion, user fees, ECD, at-risk populations) refined or established. • Plans and measures for implementation developed and carried out. • Country capacity for monitoring and evaluation (of participation, outcomes, financial management) assessed and plans for capacity building (including training) established. • | 1. Annual progress report and supporting documents 2. Assessment documentation And country plans Progress reports on M&E and key results | The overall EFA plan is implemented in tandem with FTI
---- | --- | --- | ---
-Inputs: 1. Domestic resource mobilized for EFA and FTI | M&E implemented 2001 2005 2015 1.1. Public domestically-generated revenues as % of GDP: 35.2% 33.7% 30.0% 1.2. Public recurrent spending on education (as % of public recurrent expenditure): 22.1% -- -- 1.3. Total public recurrent spending on primary education (US $ millions): 247 310 528 1.4 Public recurrent spending on primary education (as % of total recurrent spending on education) 48% 48% 50% | 1. National Financing Plans for EFA-FTI 2. Outcomes of November 2002 Donors meeting and country level dialogue | Macro- economic conditions and issues associated with additional funding are addressed Donors' priority remain unchanged National institutions and enhanced for practices, transparent
-2. Donor commitment to EFA-FTI concretized and maintained on a long-term basis 3. Country commitment to quality education and service delivery maintained . | 2.1 Total grants/donor support (Bilateral and Multilateral) provided to in US $ millions and human resources: (See Annex 5) 2.2 FTI Grants provided to fill financing gap in $ terms, as % of total resources available, and as an increment over the previous year 2001 2005 2015 3.1. Average teacher salary as a % of GDP per capita : 3.2 3.3 3.4 Recurrent spending on recurrent items other than teacher remuneration as % of total recurrent spending on primary | capacity fiduciary budgetary and public management systems Sector capacity for management and service delivery enhanced
+FTI Strategy: 1. Critical country-specific interventions or strategies necessary for accelerating progress via FTI are operationalized and implemented successfully; 2. A comprehensive monitoring and evaluation system developed or upgraded for accountability, improvement and lessons, and capacity for operation assessed and enhanced | • Policies (for financing, repetition, promotion, user fees, ECD, at-risk populations) refined or established. • Plans and measures for implementation developed and carried out. • Country capacity for monitoring and evaluation (of participation, outcomes, financial management) assessed and plans for capacity building (including training) established. • Country strategy and plans for M&E implemented | 1. Annual progress report and supporting documents; 2. Assessment documentation; And country plans; Progress reports on M&E and key results | The overall EFA plan is implemented in tandem with FTI
+Inputs: |  |  | 
+1. Domestic resource mobilized for EFA and FTI | 2001 2005 2015; 1.1. Public domestically-generated revenues as % of GDP: 35.2% 33.7% 30.0%; 1.2. Public recurrent spending on education (as % of public recurrent expenditure): 22.1% -- --; 1.3. Total public recurrent spending on primary education (US $ millions): 247 310 528; 1.4 Public recurrent spending on primary education (as % of total recurrent spending on education): 48% 48% 50% | 1. National Financing Plans for EFA-FTI | Macro-economic conditions and issues associated with additional funding are addressed; Donors' priority remain unchanged; National institutions and capacity enhanced for fiduciary practices, transparent budgetary and public management systems; Sector capacity for management and service delivery enhanced
+2. Donor commitment to EFA-FTI concretized and maintained on a long-term basis | 2.1 Total grants/donor support (Bilateral and Multilateral) provided to in US $ millions and human resources: (See Annex 5); 2.2 FTI Grants provided to fill financing gap in $ terms, as % of total resources available, and as an increment over the previous year | 2. Outcomes of November 2002 Donors meeting and country level dialogue | 
+3. Country commitment to quality education and service delivery maintained . | 2001 2005 2015; 3.1. Average teacher salary as a % of GDP per capita: 3.2 3.3 3.4; Recurrent spending on recurrent items other than teacher remuneration as % of total recurrent spending on primary |  | 
 
 51
 
@@ -1833,8 +1866,7 @@ Inputs: 1. Domestic resource mobilized for EFA and FTI | M&E implemented 2001 20
 
 [[START OF PAGE 63]]
 
-FTI is sustainable | education: 30% 31% 36% 3.3 Government current spending per pupil as percentage of per capita GDP 4. Changes over time in the source of financing from Government, donors and FTI will show increasing financing from the government. | . The financing of
---- | --- | ---
+• The financing of FTI is sustainable | education: 30% 31% 36%; 3.3 Government current spending per pupil as percentage of per capita GDP; 4. Changes over time in the source of financing from Government, donors and FTI will show increasing financing from the government. |  | 
 
 52
 
@@ -1854,7 +1886,7 @@ Government of Yemen, (2001). Second national development Pan; 2001-2005.
 
 Government of Yemen, (2002). Poverty reduction strategy; 2003-2005.
 
-Mingat,  A.,  R.  Rakotomalala,  and  J.  Tan  (2002). Financing  Education  for  All  by  2015: Simulations for 33 African Country. Africa Region Hu man Development Working Papers Series.  World Bank: Washington, D.C.
+Mingat, A., R. Rakotomalala, and J. Tan (2002). Financing Education for All by 2015: Simulations for 33 African Country. Africa Region Human Development Working Papers Series. World Bank: Washington, D.C.
 
 Ministry of Education, (2002). Basic education development strategy for the republic of Yemen, The First National Conferince for basic education, Sana'a, October 2002.
 
