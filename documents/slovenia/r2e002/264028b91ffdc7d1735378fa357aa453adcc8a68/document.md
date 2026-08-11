@@ -6,7 +6,7 @@ Official  Gazette  of  the  Republic  of  Slovenia  Nos.  33/91-I,  42/97,  66/2
 
 ## PREAMBLE
 
-Proceeding from the Basic Constitutional Charter on the Sovereignty and Independence of the Republic of Slovenia, and from fundamental human rights and freedoms, and the fundamental and permanent right of the Slovene nation to selfdetermination;  and  from  the  historical  fact  that  in  a  centuries-long  struggle  for national liberation we Slovenes have established our national identity and asserted our statehood, the Assembly of the Republic of Slovenia hereby adopts
+Proceeding from the Basic Constitutional Charter on the Sovereignty and Independence of the Republic of Slovenia, and from fundamental human rights and freedoms, and the fundamental and permanent right of the Slovene nation to self-determination; and from the historical fact that in a centuries-long struggle for national liberation we Slovenes have established our national identity and asserted our statehood, the Assembly of the Republic of Slovenia hereby adopts
 
 ## I. GENERAL PROVISIONS
 
@@ -26,7 +26,7 @@ In Slovenia power is vested in the people. Citizens exercise this power directly
 
 #### Article 3a*
 
-Pursuant to a treaty ratified by the National Assembly by a two-thirds majority vote of all  deputies,  Slovenia  may  transfer  the  exercise  of  part  of  its  sovereign  rights  to international  organisations  which  are  based  on  respect  for  human  rights  and fundamental  freedoms,  democracy,  and  the  principles  of  the  rule  of  law  and  may enter  into  a  defensive  alliance  with  states  which  are  based  on  respect  for  these values.
+Pursuant to a treaty ratified by the National Assembly by a two-thirds majority vote of all deputies, Slovenia may transfer the exercise of part of its sovereign rights to international organisations which are based on respect for human rights and
 
 [[END OF PAGE 1]]
 
@@ -34,11 +34,13 @@ Pursuant to a treaty ratified by the National Assembly by a two-thirds majority 
 
 2
 
-Before  ratifying  a  treaty  referred  to  in  the  preceding  paragraph,  the  National Assembly  may  call  a  referendum.  A  proposal  is  passed  in  the  referendum  if  a majority of voters who have cast valid votes vote in favour of the same. The National Assembly is bound by the result of such referendum. If such referendum has been held, a referendum regarding the law on the ratification of the treaty concerned may not be called.
+fundamental freedoms, democracy, and the principles of the rule of law and may enter into a defensive alliance with states which are based on respect for these values.
+
+Before ratifying a treaty referred to in the preceding paragraph, the National Assembly may call a referendum. A proposal is passed in the referendum if a majority of voters who have cast valid votes vote in favour of the same. The National Assembly is bound by the result of such referendum. If such referendum has been held, a referendum regarding the law on the ratification of the treaty concerned may not be called.
 
 Legal acts and decisions adopted within international organisations to which Slovenia has transferred the exercise of part of its sovereign rights shall be applied in Slovenia in accordance with the legal regulation of these organisations.
 
-In procedures for the adoption of legal acts and decisions in international organisations to which Slovenia has transferred the exercise of part of its sovereign rights, the Government shall promptly inform the National Assembly of proposals for such acts and decisions as well as of its own activities. The National Assembly may adopt  positions  thereon,  which  the  Government  shall  take  into  consideration  in  its activities.  The  relationship  between  the  National  Assembly  and  the  Government arising from this paragraph shall be regulated in detail by a law adopted by a twothirds majority vote of deputies present.
+In procedures for the adoption of legal acts and decisions in international organisations to which Slovenia has transferred the exercise of part of its sovereign rights, the Government shall promptly inform the National Assembly of proposals for such acts and decisions as well as of its own activities. The National Assembly may adopt positions thereon, which the Government shall take into consideration in its activities. The relationship between the National Assembly and the Government arising from this paragraph shall be regulated in detail by a law adopted by a two-thirds majority vote of deputies present.
 
 *Added by the Constitutional Act Amending Chapter I and Articles 47 and 68 of the Constitution of  the  Republic  of  Slovenia,  27  February  2003  (Official  Gazette  of  the Republic of Slovenia No. 24/03).
 
@@ -62,7 +64,7 @@ Slovenes not holding Slovene citizenship may enjoy special rights and privileges
 
 The coat-of-arms of Slovenia has the form of a shield. In the middle of the shield, on a blue background, is a representation of Mount Triglav in white, under which there are two undulating blue lines symbolising the sea and rivers and above which there are three golden, six-pointed stars forming a downward-pointing triangle. The shield is bordered in red. The coat-of-arms is designed in accordance with a set standard of geometry and colour.
 
-The flag of Slovenia is the white-blue-red Slovene national flag with the coat-of-arms of Slovenia. The ratio of the width of the flag to the length thereof is one to two. The colours  of  the  flag  are  in  the  following  order:  white,  blue,  and  red.  Each  colour occupies a horizontal band covering one third of the area of the flag. The coat-ofarms is positioned in the upper left portion of the flag such that it lies with one half in the white field and the other in the blue field.
+The flag of Slovenia is the white-blue-red Slovene national flag with the coat-of-arms of Slovenia. The ratio of the width of the flag to the length thereof is one to two. The colours of the flag are in the following order: white, blue, and red. Each colour occupies a horizontal band covering one third of the area of the flag. The coat-of-arms is positioned in the upper left portion of the flag such that it lies with one half in the white field and the other in the blue field.
 
 The national anthem of Slovenia is "Zdravljica".
 
@@ -90,9 +92,11 @@ Local self-government in Slovenia is guaranteed.
 
 #### Article 10
 
+The capital of Slovenia is Ljubljana.
+
 #### Article 11
 
-The official language in Slovenia is Slovene. In those municipalities where Italian or Hungarian  national  communities  reside,  Italian  or  Hungarian  shall  also  be  official languages.
+The official language in Slovenia is Slovene. In those municipalities where Italian or Hungarian national communities reside, Italian or Hungarian shall also be official languages.
 
 #### Article 12
 
@@ -108,13 +112,11 @@ In accordance with treaties, aliens in Slovenia enjoy all the rights guaranteed 
 
 ##### (Equality before the Law)
 
-In  Slovenia  everyone  shall  be  guaranteed  equal  human  rights  and  fundamental freedoms  irrespective  of  national  origin,  race,  sex,  language,  religion,  political,  or other conviction,  material  standing,  birth,  education,  social  status,  disability,  or  any other personal circumstance.
+In Slovenia everyone shall be guaranteed equal human rights and fundamental freedoms irrespective of national origin, race, sex, language, religion, political, or other conviction, material standing, birth, education, social status, disability, or any other personal circumstance.
 
 All are equal before the law.
 
 *As amended by the Constitutional Act Amending Article 14 of the Constitution of the
-
-The capital of Slovenia is Ljubljana.
 
 [[END OF PAGE 4]]
 
@@ -126,9 +128,9 @@ Republic of Slovenia, 15 June 2004 (Official Gazette of the Republic of Slovenia
 
 The original text of Article 14 read as follows:
 
-'In  Slovenia  everyone  shall  be  guaranteed  equal  human  rights  and  fundamental freedoms  irrespective  of  national  origin,  race,  sex,  language,  religion,  political,  or other  conviction,  material  standing,  birth,  education,  social  status,  or  any  other personal circumstance.
+“In Slovenia everyone shall be guaranteed equal human rights and fundamental freedoms irrespective of national origin, race, sex, language, religion, political, or other conviction, material standing, birth, education, social status, or any other personal circumstance.
 
-All are equal before the law.'
+All are equal before the law.”
 
 #### Article 15
 
@@ -426,11 +428,11 @@ The law shall provide measures for encouraging the equal opportunity of men and 
 
 The original text of Article 43 read as follows:
 
-'The right to vote shall be universal and equal.
+“The right to vote shall be universal and equal.
 
 Every citizen who has attained the age of eighteen years has the right to vote and be elected.
 
-The law may provide in which cases and under what conditions aliens have the right to vote.'
+The law may provide in which cases and under what conditions aliens have the right to vote.”
 
 #### Article 44
 
@@ -466,7 +468,7 @@ No citizen  of  Slovenia  may  be  extradited  or  surrendered  unless  such  ob
 
 The original text of Article 47 read as follows:
 
-'No  citizen  of  Slovenia  may  be  extradited  to  a  foreign  country.  The  extradition  of aliens  shall  only  be  permitted  in  cases  covered  by  treaties  that  are  binding  on Slovenia.'
+“No citizen of Slovenia may be extradited to a foreign country. The extradition of aliens shall only be permitted in cases covered by treaties that are binding on Slovenia.”
 
 #### Article 48
 
@@ -506,11 +508,11 @@ Special protection in accordance  with the law shall be guaranteed to war vetera
 
 The original text of Article 50 read as follows:
 
-'Citizens have the right to social security under conditions provided by law.
+“Citizens have the right to social security under conditions provided by law.
 
-The  state  shall  regulate  compulsory  health,  pension,  disability,  and  other  social insurance, and shall ensure its proper functioning.
+The state shall regulate compulsory health, pension, disability, and other social insurance, and shall ensure its proper functioning.
 
-Special protection in accordance with the law shall be guaranteed to war veterans and victims of war.'
+Special protection in accordance with the law shall be guaranteed to war veterans and victims of war.”
 
 #### Article 51
 
@@ -694,15 +696,15 @@ Aliens may acquire ownership rights to real estate under conditions provided by 
 
 The text of Article 68 as amended in 1997 read as follows:
 
-'Aliens may acquire ownership rights to real estate under conditions provided by law or if so provided by a treaty ratified by the National Assembly, under the condition of reciprocity.
+“Aliens may acquire ownership rights to real estate under conditions provided by law or if so provided by a treaty ratified by the National Assembly, under the condition of reciprocity.
 
-Such law and treaty from the preceding paragraph shall be adopted by the National Assembly by a two-thirds majority vote of all deputies.'
+Such law and treaty from the preceding paragraph shall be adopted by the National Assembly by a two-thirds majority vote of all deputies.”
 
 The original text of Article 68 read as follows:
 
-'Aliens may acquire ownership rights to real estate under conditions provided by law.
+“Aliens may acquire ownership rights to real estate under conditions provided by law.
 
-Aliens  may  not  acquire  title  to  land  except  by  inheritance,  under  the  condition  of reciprocity.'
+Aliens may not acquire title to land except by inheritance, under the condition of reciprocity.”
 
 #### Article 69
 
@@ -726,7 +728,7 @@ The law may provide that natural resources may also be exploited by foreign pers
 
 21
 
-#### Article 70a *
+#### Article 70a*
 
 ##### (Right to Drinking Water)
 
@@ -736,7 +738,7 @@ Water resources shall be a public good managed by the state.
 
 As a priority and in a sustainable manner, water resources shall be used to supply the population with drinking water and water for household use and in this respect shall not be a market commodity.
 
-The supply of the population with drinking water and water for household use shall be ensured by the state directly through self-governing local communities and on a notfor-profit basis.
+The supply of the population with drinking water and water for household use shall be ensured by the state directly through self-governing local communities and on a not-for-profit basis.
 
 * As amended by the Constitutional Act Amending Chapter III of the Constitution of the Republic of Slovenia, which was adopted on 25 November 2016 and entered into force on 25 November 2016 (Official Gazette of the Republic of Slovenia No. 75/16).
 
@@ -916,13 +918,15 @@ Regular  and  extraordinary  sessions  are  called  by  the  President  of  the 
 
 ##### (Decision-making)
 
-The National Assembly may pass decisions if a majority of deputies are present at the  session.  The  National  Assembly  adopts  laws  and  other  decisions  and  ratifies treaties  by  a  majority  of  votes  cast  by  those  deputies  present,  except  where  a different type of majority is provided by the Constitution or by law.
+The National Assembly may pass decisions if a majority of deputies are present at the session. The National Assembly adopts laws and other decisions and ratifies
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
 26
+
+treaties by a majority of votes cast by those deputies present, except where a different type of majority is provided by the Constitution or by law.
 
 #### Article 87
 
@@ -974,7 +978,7 @@ Referendums are regulated by a law passed in the National Assembly by a two-thir
 
 The original text of Article 90 read as follows:
 
-'The National Assembly may call a referendum on any issue which is the subject of regulation by law. The National Assembly is bound by the result of such referendum.
+“The National Assembly may call a referendum on any issue which is the subject of regulation by law. The National Assembly is bound by the result of such referendum.
 
 The National Assembly may call a referendum from the preceding paragraph on its own initiative,  however  it  must  call  such  referendum  if  so  required  by  at  least  one third of the deputies, by the National Council or by forty thousand voters.
 
@@ -982,7 +986,7 @@ The right to vote in a referendum is held by all citizens who are eligible to vo
 
 A proposal is passed in a referendum if a majority of those voting have cast votes in favour of the same.
 
-Referendums are regulated by a law passed in the National Assembly by a two-thirds majority vote of deputies present.'
+Referendums are regulated by a law passed in the National Assembly by a two-thirds majority vote of deputies present.”
 
 #### Article 91
 
@@ -1080,7 +1084,7 @@ The original text of Article 97 read as follows:
 
 30
 
-'The National Council may:
+“The National Council may:
 
  propose to the National Assembly the passing of laws;
 
@@ -1092,7 +1096,7 @@ The original text of Article 97 read as follows:
 
  require inquiries on matters of public importance as referred to in Article 93.
 
-Where  required  by  the  National  Assembly,  the  National  Council  must  express  its opinion on an individual matter.'
+Where  required  by  the  National  Assembly,  the  National  Council  must  express  its opinion on an individual matter.”
 
 #### Article 98
 
@@ -1114,7 +1118,7 @@ The National Council decides by a majority of votes cast by those members presen
 
 The original text of Article 99 read as follows:
 
-'The National Council may pass decisions if a majority of members are present at the session.
+“The National Council may pass decisions if a majority of members are present at the session.
 
 [[END OF PAGE 30]]
 
@@ -1122,7 +1126,7 @@ The original text of Article 99 read as follows:
 
 31
 
-The National Council decides by a majority of votes cast by those members present. Decisions  requiring  the  calling  of  a  referendum  shall  be  adopted  by  the  National Council by a majority vote of all members.'
+The National Council decides by a majority of votes cast by those members present. Decisions  requiring  the  calling  of  a  referendum  shall  be  adopted  by  the  National Council by a majority vote of all members.”
 
 #### Article 100
 
@@ -1154,7 +1158,7 @@ The President of the Republic is elected in direct, general elections by secret 
 
 The candidate who receives a majority of the valid votes cast is elected President of the Republic.
 
-The President of the Republic is elected for a term of five years and may be elected for a maximum of two consecutive terms. If the term of office of the President of the Republic  expires  during  a  war  or  state  of  emergency,  the  President's  term  shall expire six months after the cessation of such war or state of emergency.
+The President of the Republic is elected for a term of five years and may be elected for a maximum of two consecutive terms. If the term of office of the President of the Republic  expires  during  a  war  or  state  of  emergency,  the  President’s  term  shall expire six months after the cessation of such war or state of emergency.
 
 [[END OF PAGE 31]]
 
@@ -1360,11 +1364,11 @@ By law or on the basis thereof, legal entities and natural persons may be vested
 
 The original text of Article 121 read as follows:
 
-'(Duties of Administrative Bodies)
+“(Duties of Administrative Bodies)
 
 Duties of the state administration are performed directly by ministries.
 
-Self-governing communities, enterprises, other organisations, and individuals may be vested by law with public authority to perform certain duties of the state administration.'
+Self-governing communities, enterprises, other organisations, and individuals may be vested by law with public authority to perform certain duties of the state administration.”
 
 [[END OF PAGE 37]]
 
@@ -1474,7 +1478,7 @@ If  a  judge  is  found  by  a  final  judgement  to  have  deliberately  commit
 
 ##### (Incompatibility of Judicial Office)
 
-Judicial  office  is  not  compatible  with  office  in  other  state  authorities,  in  local  selfgovernment authorities, and in bodies of political parties, and with other offices and activities as provided by law.
+Judicial  office  is  not  compatible  with  office  in  other  state  authorities,  in  local  self-government authorities, and in bodies of political parties, and with other offices and activities as provided by law.
 
 #### Article 134
 
@@ -1490,7 +1494,7 @@ If a judge is suspected of a criminal offence in the performance of judicial off
 
 41
 
-### g) The State Prosecutor's Office
+### g) The State Prosecutor’s Office
 
 #### Article 135
 
@@ -1556,7 +1560,7 @@ State  authorities  shall  supervise  the  proper  and  competent  performance  
 
 The original text read as follows:
 
-'The competencies of a municipality comprise local affairs which may be regulated by  the  municipality  autonomously  and  which  affect  only  the residents  of  the municipality.
+“The competencies of a municipality comprise local affairs which may be regulated by  the  municipality  autonomously  and  which  affect  only  the residents  of  the municipality.
 
 With  the  prior  consent  of  the  municipality  or  wider  self-governing  local  community, the  state  may  by  law  vest  specific  duties  within  the  state  jurisdiction  in  the municipality  or  wider  self-governing  local  community,  if  the  state  provides  financial resources for this purpose.
 
@@ -1566,7 +1570,7 @@ With  the  prior  consent  of  the  municipality  or  wider  self-governing  loc
 
 43
 
-State  authorities  shall  supervise  the  proper  and  competent  performance  of  work relating to matters vested in local community authorities by the state.'
+State  authorities  shall  supervise  the  proper  and  competent  performance  of  work relating to matters vested in local community authorities by the state.”
 
 #### Article 141
 
@@ -1602,11 +1606,11 @@ By  law,  the  state  transfers  the  performance  of  specific  duties  within 
 
 The original text of Article 143 read as follows:
 
-##### '(Wider Self-Governing Local Communities)
+##### “(Wider Self-Governing Local Communities)
 
 Municipalities  may  independently  decide  to  join  into  wider  self-governing  local communities,  as  well  as  regions,  in  order  to  regulate  and  manage  local  affairs  of wider  importance.  In  agreement  with  such  communities,  the  state  may  transfer specific  matters  within  the  state  competence  into  their  original  competence  and determine  the  participation  of  such  communities  in  proposing  and  performing particular matters within the state competence.
 
-The principles and criteria regarding the transfer of competence from the preceding paragraph are regulated by law.'
+The principles and criteria regarding the transfer of competence from the preceding paragraph are regulated by law.”
 
 #### Article 144
 
@@ -1662,7 +1666,7 @@ If  a  budget has not been adopted by the first day it is due to be implemented,
 
 The original text of Article 148 read as follows:
 
-'All revenues and expenditures of the state and local communities for the financing of public spending must be included in their budgets.
+“All revenues and expenditures of the state and local communities for the financing of public spending must be included in their budgets.
 
 [[END OF PAGE 45]]
 
@@ -1670,7 +1674,7 @@ The original text of Article 148 read as follows:
 
 46
 
-If  a  budget  has  not  been  adopted by the first day it is due to come into force, the beneficiaries financed by the budget are temporarily financed in accordance with the previous budget.'
+If  a  budget  has  not  been  adopted by the first day it is due to come into force, the beneficiaries financed by the budget are temporarily financed in accordance with the previous budget.”
 
 #### Article 149
 
@@ -1986,7 +1990,7 @@ In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  
 
 ### II.
 
-The  elections  of  deputies  to  the  National  Assembly  in  the  year  2000  and  until  an amendment to the law regulating the elections to the National Assembly comes into force, shall be held pursuant to the National Assembly Elections Act (Official Gazette of the Republic of Slovenia Nos. 44/92, 60/95, 67/97 - Constitutional Court Decision) whereby:
+The  elections  of  deputies  to  the  National  Assembly  in  the  year  2000  and  until  an amendment to the law regulating the elections to the National Assembly comes into force, shall be held pursuant to the National Assembly Elections Act (Official Gazette of the Republic of Slovenia Nos. 44/92, 60/95, 67/97 – Constitutional Court Decision) whereby:
 
  candidate lists which receive less than four percent of all votes in the country shall not be further considered in the allocation of seats;
 
@@ -2012,9 +2016,9 @@ Official Gazette of the Republic of Slovenia No. 66/2000 of 26 July 2000
 
 #### Article 1
 
-In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-l, 42/97, and 66/2000) a new Article 3a is hereby added after Article 3 and reads as follows:
+In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-I, 42/97, and 66/2000) a new Article 3a is hereby added after Article 3 and reads as follows:
 
-#### 'Article 3a
+#### “Article 3a
 
 "Pursuant to a treaty ratified by the National Assembly by a two-thirds majority vote of all  deputies,  Slovenia  may  transfer  the  exercise  of  part  of  its  sovereign  rights  to international  organisations  which  are  based  on  respect  for  human  rights  and fundamental  freedoms,  democracy  and  the  principles  of  the  rule  of  law  and  may enter  into  a  defensive  alliance  with  states  which  are  based  on  respect  for  these values.
 
@@ -2022,7 +2026,7 @@ Before  ratifying  a  treaty  referred  to  in  the  preceding  paragraph,  the 
 
 Legal acts and decisions adopted within international organisations to which Slovenia has transferred the exercise of part of its sovereign rights shall be applied in Slovenia in accordance with the legal regulation of these organisations.
 
-In procedures for the adoption of legal acts and decisions in international organisations to which Slovenia has transferred the exercise of part of its sovereign rights, the Government shall promptly inform the National Assembly of proposals for such acts and decisions as well as of its own activities. The National Assembly may adopt  positions  thereon,  which  the  Government  shall  take  into  consideration  in  its activities.  The  relationship  between  the  National  Assembly  and  the  Government arising from this paragraph shall be regulated in detail by a law adopted by a twothirds majority vote of deputies present."
+In procedures for the adoption of legal acts and decisions in international organisations to which Slovenia has transferred the exercise of part of its sovereign rights, the Government shall promptly inform the National Assembly of proposals for such acts and decisions as well as of its own activities. The National Assembly may adopt  positions  thereon,  which  the  Government  shall  take  into  consideration  in  its activities.  The  relationship  between  the  National  Assembly  and  the  Government arising from this paragraph shall be regulated in detail by a law adopted by a two-thirds majority vote of deputies present."
 
 #### Article 2
 
@@ -2044,9 +2048,9 @@ Article 68 is hereby amended to read as follows:
 
 ### II.
 
-The  Referendum  and  People's  Initiative  Act  (Official  Gazette  of  the  Republic  of Slovenia  Nos.  15/94,  13/95  -  Constitutional  Court  decision,  34/96  -  Constitutional Court decision, 38/96, 43/96 - Constitutional Court decision, 59/2001, and 11/2003 Constitutional Court decision) must be brought into conformity with this constitutional act within one year of it entering into force.
+The  Referendum  and  People’s  Initiative  Act  (Official  Gazette  of  the  Republic  of Slovenia  Nos.  15/94,  13/95  –  Constitutional  Court  decision,  34/96  –  Constitutional Court decision, 38/96, 43/96 – Constitutional Court decision, 59/2001, and 11/2003 – Constitutional Court decision) must be brought into conformity with this constitutional act within one year of it entering into force.
 
-Until  the  Referendum  and  People's  Initiative  Act  has  been  brought  into  such conformity,  the  referendums  referred  to  in  Article  1  of  this  constitutional  act  (the second paragraph of Article 3a of the Constitution) shall be held on the basis of the provisions of Chapter III of the Referendum and People's Initiative Act.
+Until  the  Referendum  and  People's  Initiative  Act  has  been  brought  into  such conformity,  the  referendums  referred  to  in  Article  1  of  this  constitutional  act  (the second paragraph of Article 3a of the Constitution) shall be held on the basis of the provisions of Chapter III of the Referendum and People’s Initiative Act.
 
 For the holding of referendums on the accession of Slovenia to the European Union and  to  the  North  Atlantic  Treaty  Organization,  the  provisions  of  Article  1  of  this constitutional  act  (the  second  paragraph  of  Article  3a  of  the  Constitution)  and  the provisions of Chapter III of the Referendum and People's Initiative Act shall apply.
 
@@ -2064,7 +2068,7 @@ Official Gazette of the Republic of Slovenia No. 24/2003 of 7 March 2003
 
 ### I.
 
-In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-I, 42/97, 66/2000, and 24/03) in the first paragraph of Article 14 after the words 'social status' a comma and the word 'disability' are hereby added.
+In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-I, 42/97, 66/2000, and 24/03) in the first paragraph of Article 14 after the words “social status” a comma and the word “disability” are hereby added.
 
 ### II.
 
@@ -2084,7 +2088,7 @@ Official Gazette of the Republic of Slovenia No. 69/04 of 24 June 2004
 
 In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia  Nos.  33/91-I,  42/97,  66/2000,  and  24/03)  in  Article  43  a  new  fourth paragraph is hereby added and reads as follows:
 
-'The law shall provide the measures for encouraging the equal opportunity of men and  women  in  standing  for  election  to  state  authorities  and  local  community authorities.'
+“The law shall provide the measures for encouraging the equal opportunity of men and  women  in  standing  for  election  to  state  authorities  and  local  community authorities.”
 
 ### II.
 
@@ -2104,7 +2108,7 @@ Official Gazette of the Republic of Slovenia No. 69/04 of 24 June 2004
 
 In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-I, 42/97, 66/2000, and 24/03) the first paragraph of Article 50 is hereby amended to read as follows:
 
-'Citizens  have  the  right  to  social  security,  including  the  right  to  a  pension,  under conditions provided by law.'
+“Citizens  have  the  right  to  social  security,  including  the  right  to  a  pension,  under conditions provided by law.”
 
 ### II.
 
@@ -2122,7 +2126,7 @@ Official Gazette of the Republic of Slovenia 69/04 of 24 June 2004
 
 ### I.
 
-In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-l, 42/97, 66/00, 24/03, and 69/04) the following provisions are hereby amended:
+In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-I, 42/97, 66/00, 24/03, and 69/04) the following provisions are hereby amended:
 
 #### Article 1
 
@@ -2174,17 +2178,17 @@ Official Gazette of the Republic of Slovenia No. 68/06 of 30 June 2006
 
 ### I.
 
-In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-l, 42/97, 66/00, 24/03, 69/04, and 68/06) the following provisions are hereby amended:
+In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-I, 42/97, 66/00, 24/03, 69/04, and 68/06) the following provisions are hereby amended:
 
 #### Article 1
 
 The first paragraph of Article 90 is hereby amended  to read as follows:
 
-'The National Assembly shall call a referendum on the entry into force of a law that it has adopted if so required by at least forty thousand voters.'
+“The National Assembly shall call a referendum on the entry into force of a law that it has adopted if so required by at least forty thousand voters.”
 
 The second paragraph thereof is hereby amended to read as follows:
 
-'A referendum may not be called:
+“A referendum may not be called:
 
  on laws on urgent measures to ensure the defence of the state, security, or the elimination of the consequences of natural disasters;
 
@@ -2192,11 +2196,11 @@ The second paragraph thereof is hereby amended to read as follows:
 
  on laws on the ratification of treaties;
 
- on  laws  eliminating  an  unconstitutionality  in  the  field  of  human  rights  and fundamental freedoms or any other unconstitutionality.'
+ on  laws  eliminating  an  unconstitutionality  in  the  field  of  human  rights  and fundamental freedoms or any other unconstitutionality.”
 
 The fourth paragraph thereof is hereby amended to read as follows:
 
-'A law is rejected in a referendum if a majority of voters who have cast valid votes vote  against  the  law,  provided  at  least  one  fifth  of  all  qualified  voters  have  voted against the law.'
+“A law is rejected in a referendum if a majority of voters who have cast valid votes vote  against  the  law,  provided  at  least  one  fifth  of  all  qualified  voters  have  voted against the law.”
 
 #### Article 2
 
@@ -2214,7 +2218,7 @@ The second sentence of the second paragraph of Article 99 is hereby deleted.
 
 ### II.
 
-The  Referendum  and  Popular  Initiative  Act  (Official  Gazette  of  the  Republic  of Slovenia No. 26/07 - official consolidated text) shall be harmonised with Article 1 of this Constitutional Act within one year of its entry into force.
+The  Referendum  and  Popular  Initiative  Act  (Official  Gazette  of  the  Republic  of Slovenia No. 26/07 – official consolidated text) shall be harmonised with Article 1 of this Constitutional Act within one year of its entry into force.
 
 Until  the  Referendum  and  Popular  Initiative  Act  is  harmonised,  the  provisions  of Article  1  of  this  Constitutional  Act  shall  apply  directly  in  conjunction  with  mutatis mutandis  application of the Referendum  and  Popular  Initiative  Act. Until the Referendum and Popular Initiative Act is harmonised, Article 21 of the Referendum and Popular Initiative Act shall apply mutatis mutandis such that the Constitutional Court  shall  decide  on  any  dispute  between  the  proposer  of  a  referendum  and  the National  Assembly,  if  the  latter  rejects  a  request  for  the  calling  of  a  legislative referendum.
 
@@ -2234,9 +2238,9 @@ Official Gazette of the Republic of Slovenia No. 47/13 of 31 May 2013
 
 ### I.
 
-In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-l, 42/97, 66/00, 24/03, 69/04, and 68/06) Article 148 is hereby amended to read as follows:
+In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-I, 42/97, 66/00, 24/03, 69/04, and 68/06) Article 148 is hereby amended to read as follows:
 
-#### 'Article 148
+#### “Article 148
 
 ##### (Budgets)
 
@@ -2246,7 +2250,7 @@ Revenues  and  expenditures  of  the  budgets  of  the  state  must  be  balance
 
 The manner and the time frame of the implementation of the principle referred to in the preceding paragraph, the criteria for determining exceptional circumstances, and the course of action when they arise, shall be determined by a law adopted by the National Assembly by a two-thirds majority vote of all deputies.
 
-If  a  budget has not been adopted by the first day it is due to be implemented, the beneficiaries financed by the budget are temporarily financed in accordance with the previous budget.'
+If  a  budget has not been adopted by the first day it is due to be implemented, the beneficiaries financed by the budget are temporarily financed in accordance with the previous budget.”
 
 ### II.
 
@@ -2274,9 +2278,9 @@ Official Gazette of the Republic of Slovenia No. 47/13 of 31 May 2013
 
 ### I
 
-In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-l, 42/97, 66/00, 24/03, 69/04, 68/06, and 47/13) a new Article 70a is hereby added after Article 70 that reads as follows:
+In  the  Constitution  of  the  Republic  of  Slovenia  (Official  Gazette  of  the  Republic  of Slovenia Nos. 33/91-I, 42/97, 66/00, 24/03, 69/04, 68/06, and 47/13) a new Article 70a is hereby added after Article 70 that reads as follows:
 
-#### ' Article 70a
+#### “Article 70a
 
 ##### (Right to Drinking Water)
 
@@ -2286,7 +2290,7 @@ Water resources shall be a public good managed by the state.
 
 As a priority and in a sustainable manner, water resources shall be used to supply the population with drinking water and water for household use and in this respect shall not be a market commodity.
 
-The supply of the population with drinking water and water for household use shall be ensured by the state directly through self-governing local communities and on a notfor-profit basis.'
+The supply of the population with drinking water and water for household use shall be ensured by the state directly through self-governing local communities and on a not-for-profit basis.”
 
 ### II
 
