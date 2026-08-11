@@ -22,15 +22,34 @@ ST. GEORGE PRINTING PRESS
 
 ## TABLE OF CONTENTS
 
+Page
+
+1. INTRODUCTION 1
+2. OBJECTIVES OF EDUCATION AND
+TRAINING 7
+2.1 General Objectives 8
+2.2 Specific Objectives 8
+3. OVERALL STRATEGY 12
+3.1 Curriculum 12
+3.2 Educational Structure 14
+3.3 Educational Measurement and Examination 18
+3.4 Teachers 20
+3.5 Languages and Education 23
+3.6 Nexus Between Education, Training, Research and Development 24
+3.7 Educational Support Inputs 27
+3.8 Educational Organization and Management 29
+3.9 Educational Finance 31
+4. AREAS OF SPECIAL ATTENTION AND ACTION PRIORITY 33
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-## 1. INTRODOCTION
+## 1. INTRODUCTION
 
 Education is a process by which man transmits his experiences, new findings, and values accumulated over the years, in his struggle  for survival and development, through generations. Education  enables  individuals  and  society  to make all-rounded participation in the development  process  by  acquiring  knowledge, ability, skills and attitudes.
 
-One of the aims of education is to strengthen the individual's and society's problem-solving capacity, ability and culture starting from basic education  and  at  all  levels.  Education  enables man  to  identify  harmful  traditions  and  replace them by useful ones. It helps man to improve, change,  as  well  as  develop  and  conserve  his environment  for  the  purpose  of  an  all-rounded development by diffusing science and technology into the society. Education also plays  a  role  in  the  promotion  of  respect  for human  rights  and  democratic  values,  creating the condition for equality, mutual Understanding and  cooperation  among  people  Education  does not  operate  in  isolation,  rather  it  has  to  be integrated with research, practice and development to contribute towards an allrounded development of society.
+One of the aims of education is to strengthen the individual's and society's problem-solving capacity, ability and culture starting from basic education and at all levels. Education enables man to identify harmful traditions and replace them by useful ones. It helps man to improve, change, as well as develop and conserve his environment for the purpose of an all-rounded development by diffusing science and technology into the society. Education also plays a role in the promotion of respect for human rights and democratic values, creating the condition for equality, mutual Understanding
 
 1
 
@@ -38,9 +57,11 @@ One of the aims of education is to strengthen the individual's and society's pro
 
 [[START OF PAGE 5]]
 
-To date, it is known that our country's education is entangled with complex problems of relevance, quality, accessibility and equity. The objectives of education do not take cognizance of  the  society's  needs  and  do  not  adequately indicate future direction. The absence of interrelated  contents  and  mode  of  presentation that can develop student's knowledge, cognitive abilities  and  behavioral  change  by  level,  to adequately  enrich  problem-solving  ability  and attitude, are some of the major problems of our education system.
+and cooperation among people Education does not operate in isolation, rather it has to be integrated with research, practice and development to contribute towards an all-rounded development of society.
 
-Inadequate facilities, insufficient training of teachers, overcrowded classes, shortage of books and other teaching materials, all indicate the low quality of education provided.
+To date, it is known that our country's education is entangled with complex problems of relevance, quality, accessibility and equity. The objectives of education do not take cognizance of the society's needs and do not adequately indicate future direction. The absence of interrelated contents and mode of presentation that can develop student's knowledge, cognitive abilities and behavioral change by level, to adequately enrich problem-solving ability and attitude, are some of the major problems of our education system.
+
+Inadequate facilities, insufficient training of teachers, overcrowded classes, shortage of
 
 2
 
@@ -48,9 +69,11 @@ Inadequate facilities, insufficient training of teachers, overcrowded classes, s
 
 [[START OF PAGE 6]]
 
-The gross participation rate of primary education  is  below 22%  of the  relevant  age cohort.  Of  these  a  large  number  discontinues and  relapse  to  illiteracy.  The  disparity  among regions is high. illiteracy is an overall problem of  the  society.  Opportunities  for  high  school education and technical and vocational training are limited to big towns. Higher  education institutions are found only in very few regions. they are overcrowded and their research capacity is very low.
+books and other teaching materials, all indicate the low quality of education provided.
 
-The necessary infrastructure to provide relevant quality education to the rural population, which is  over eighty-five percent of the population of the country, is at an insignificant level of development.  Aware  of  the  complex  problems the  country  has  plunged  in  by  the  previous dictatorial,  self  centered  and  vain  regimes,  the transitional government of Ethiopia has embarked on charting the right direction of development to break the vicious circle we have been entangled in.
+The gross participation rate of primary education is below 22% of the relevant age cohort. Of these a large number discontinues and relapse to illiteracy. The disparity among regions is high. illiteracy is an overall problem of the society. Opportunities for high school education and technical and vocational training are limited to big towns. Higher education institutions are found only in very few regions. they are overcrowded and their research capacity is very low.
+
+The necessary infrastructure to provide relevant quality education to the rural population, which is over eighty-five percent of the population of the country, is at an insignificant level of development. Aware of the complex problems the country has plunged in by the previous dictatorial, self centered and vain regimes, the transitional government of Ethiopia has embarked on charting the right direction of
 
 3
 
@@ -58,11 +81,13 @@ The necessary infrastructure to provide relevant quality education to the rural 
 
 [[START OF PAGE 7]]
 
-Education, as a very important factor to human development, is of a high priority in the overall development endeavor of the government. Hence, it requires an appropriate direction to set a new process in motion and change the alarming  situation.  For  this,  a  comprehensive education and training policy is formulated.
+development to break the vicious circle we have been entangled in.
+
+Education, as a very important factor to human development, is of a high priority in the overall development endeavor of the government. Hence, it requires an appropriate direction to set a new process in motion and change the alarming situation. For this, a comprehensive education and training policy is formulated.
 
 The  policy  encompasses  overall  and  specific objectives, implementation strategies, including formal and non-formal education, from kindergarten  to  higher  education  and  special education.
 
-It  emphasizes  the  development  of  problemsolving  capacity  and  culture  in  the  content  of education,  curriculum  structure  and  approach, focusing on the acquisition of scientific knowledge and practicum.
+It emphasizes the development of problem-solving capacity and culture in the content of education, curriculum structure and approach, focusing on the acquisition of scientific knowledge and practicum.
 
 4
 
@@ -118,7 +143,7 @@ Overall, the education and training policy envisages  bringing-up  citizens  end
 
 ### 2.2      Specific Objectives
 
-- 2.2.1 To promote relevant and appropriate education and training through formal and non-formal programmers.
+- 2.2.1 To promote relevant and appropriate education and training through formal and non-formal programmes.
 
 - 2.2.2 To develop and enrich
 
@@ -150,7 +175,7 @@ Creativity and interest in aesthetic.
 
 - 2.2.8 To make education a supportive tool for developing traditional technology, and for utilizing modern technology.
 
-- 2.2.9 To provide education that promotes democratic culture, tolerance and peaceful  resolutions  of  differences  and that raises the sense of discharging societal responsibi1ity.
+- 2.2.9 To provide education that promotes democratic culture, tolerance and peaceful resolutions of differences and that raises the sense of discharging societal responsibility.
 
 - 2.2.10 To  provide  education  that  can  produce citizens  who  stand  for  democratic  unity, liberty,  equality,  dignity  and  justice,  and who are endowed with moral values.
 
@@ -164,9 +189,7 @@ Creativity and interest in aesthetic.
 
 [[START OF PAGE 14]]
 
-in  their  language,  while  at  the  same for for
-
-time providing one language national and another one international communication.
+in their language, while at the same time providing one language for national and another one for international communication.
 
 - 2.2.13 To  gear  education  towards  reorienting society's  attitude  and  value  pertaining  to the  role  and  contribution  of  women  in development.
 
@@ -184,7 +207,7 @@ time providing one language national and another one international communication
 
 ### 3.1      Curriculum
 
-- 3.1.1 The  preparation  of  curriculum  will  be based on the stated objectives of education, ensuring that the re1evant standard and the expected profile of students are achieved.
+- 3.1.1 The preparation of curriculum will be based on the stated objectives of education, ensuring that the relevant standard and the expected profile of students are achieved.
 
 - 3.1.2 Create  a  mechanism  by  which  teachers, professionals from major organizations of development, and beneficiaries participate in the preparation implementation and evaluation of the curriculum.
 
@@ -208,7 +231,7 @@ regional levels, are based on sound pedagogical and psychological principles and
 
 ### 3.2      Educational Structure
 
-- 3.2.1 Kindergarten will focus on all round development  of  the  child  in  preparation for formal schoo1ing.
+- 3.2.1 Kindergarten will focus on all round development of the child in preparation for formal schooling.
 
 - 3.2.2 Primary education will be of eight years duration, offering basic and general primary education to prepare students for further general education and training.
 
@@ -276,11 +299,11 @@ and leaving primary school.
 
 - 3.3.4 Students will be officially certified at the completion of the various levels of education.
 
-- 3.3.5 Official certification will also be given to those who complete technical and vocational training programmers.
+- 3.3.5 Official certification will also be given to those who complete technical and vocational training programmes.
 
 - 3.3.6 After the second cycle of secondary education, students will be required to sit for  examinations  of  relevant  institutions for admission.
 
-- 3.3.7 A  national  organization  of  educational measurement  and  examination  wi11  be established to provide central professional guidance  and  coordination  as  well  as  to make the necessary expertise available.
+- 3.3.7 A national organization of educational measurement and examination will be established to provide central professional guidance and coordination as well as to make the necessary expertise available.
 
 19
 
@@ -306,7 +329,7 @@ and leaving primary school.
 
 to teach at any level of education.
 
-- 3.4.5 Teachers.  Starting  from  kindergarten  to higher education, will be required to have the  necessary  teaching  qualification  and competency  in  the  media  of  instruction, through pro-service and in-service training.
+- 3.4.5 Teachers. Starting from kindergarten to higher education, will be required to have the necessary teaching qualification and competency in the media of instruction, through pre-service and in-service training.
 
 - 3.4.6 The criteria for the professional development of teachers will be continuous  education  and  training,  professional ethics and teaching performance.
 
@@ -322,11 +345,11 @@ to teach at any level of education.
 
 autonomously With the necessary authority, responsibility and accountability.
 
-- 3, 4.9 Teacher training institutions  of  all  levels will be required to gear their programmers towards the appropriate educational  level  for  which  they  train teachers.
+- 3.4.9 Teacher training institutions of all levels will be required to gear their programmes towards the appropriate educational level for which they train teachers.
 
 - 3.4.10 Special  attention  will  be  given  to  the participation of women in the recruitment, training and assignment of teachers.
 
-- 3.4.11 Teacher training for special education will be provided in regular teacher training programmers.
+- 3.4.11 Teacher training for special education will be provided in regular teacher training programmes.
 
 - 3.4.12 Various  steps  will  be  taken  to  promote incentives  to  motivate  teachers  specially to those assigned in hardship areas.
 
@@ -368,7 +391,7 @@ autonomously With the necessary authority, responsibility and accountability.
 
 ### 3.6      Nexus Between Education, Training, Research and Development
 
-- 3.6.1 The participation of students in technical and  higher  education  programmers,  in gaining  the necessary  field  experience before graduation will be facilitated.
+- 3.6.1 The participation of students in technical and  higher  education  programmes,  in gaining  the necessary  field  experience before graduation will be facilitated.
 
 - 3.6.2 The participation of teachers and researchers  in  getting  the  necessary  field experience  in  various  development  and service  institutions  and  professionals  of such institutions in teaching will be facilitated.
 
@@ -380,11 +403,11 @@ autonomously With the necessary authority, responsibility and accountability.
 
 [[START OF PAGE 29]]
 
-- 3.6.4 Governmental and nongovernmental organizations can establish training programmers according to their needs.
+- 3.6.4 Governmental and nongovernmental organizations can establish training programmes according to their needs.
 
 - 3.6.5 An appropriate organizational mechanism will be created to streamline and accredit technical and vocational training and coordinate the necessary certification.
 
-- 3.6.6 Non-formal education and training programmers  will  be  organized  by  the various development and social institutions in coordination with the Ministry of Education.
+- 3.6.6 Non-formal education and training programmes  will  be  organized  by  the various development and social institutions in coordination with the Ministry of Education.
 
 - 3.6.7 Traditional  education  will  be  improved and  developed  by  being  integrated  with modern education.
 
@@ -442,7 +465,7 @@ accessibility  and  equity  of  education and training.
 
 - 3.8.3 Educational management will be democratic, professional, coordinated, efficient and effective, and will encourage the participation of women.
 
-- 3.8.4 Educational institutions will be autonomous in their internal administration  and  in  the  designing  and implementing  of  education  and  training programmers, with an overall coordination  and  democratic  leadership by  boards  or  committees,  consisting  of members  from  the  community  (society), development and research institutions, teachers and students.
+- 3.8.4 Educational institutions will be autonomous in their internal administration  and  in  the  designing  and implementing  of  education  and  training programmes, with an overall coordination  and  democratic  leadership by  boards  or  committees,  consisting  of members  from  the  community  (society), development and research institutions, teachers and students.
 
 - 3.8.5 The  management  of  teachers  and  other educational  personnel  will  be  organized, on the basis of professional principles,
 
@@ -452,13 +475,11 @@ accessibility  and  equity  of  education and training.
 
 [[START OF PAGE 34]]
 
-Including  professional  code  of  ethics working  conditions  incentives, professional  growth  and  overall  rights
-
-salary and duties.
+Including professional code of ethics salary working conditions incentives, professional growth and overall rights and duties.
 
 ### 3.9       Educational Finance
 
-- 3.9.1 The priority for government financial support  will  be  up  to  the  completion  of general  secondary  education  and  related training  (grade  10)  with  increased  costsharing at higher levels of education and training.
+- 3.9.1 The priority for government financial support  will  be  up  to  the  completion  of general  secondary  education  and  related training  (grade  10)  with  increased  cost-sharing at higher levels of education and training.
 
 - 3.9.2 Mechanisms will  be  created  for  students to cover their educational expenses through service or payment after graduation.
 
@@ -484,7 +505,7 @@ salary and duties.
 
 [[START OF PAGE 36]]
 
-## AREAS OF SPECIAL ATTENTION AND ACTION PRIORITY
+## 4. AREAS OF SPECIAL ATTENTION AND ACTION PRIORITY
 
 - 4.1       Change of curriculum and preparation of education materials accordingly.
 
