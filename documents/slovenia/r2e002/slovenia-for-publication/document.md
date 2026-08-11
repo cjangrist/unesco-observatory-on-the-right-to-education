@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' )  aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO’s 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms¹ (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global  citizenship  education  and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -32,17 +32,17 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended “that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation”. Moreover, in accordance with Article VIII of UNESCO’s Constitution “Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.”
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+8. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
 (i) the time period 2017-2020;
 
@@ -52,11 +52,11 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) where possible, education outside the government sector.
 
-- To assist  countries  in  responding  to  this  questionnaire,  UNESCO  has  developed  the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+11. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
 - 1.1 international or intercultural understanding, solidarity and cooperation
 
@@ -64,7 +64,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
 - 2.1 gender-based equal opportunities
 
@@ -76,23 +76,23 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+- 3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
 - 3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+- 3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
 - 4.1 friendly relations among peoples and nations
 
 - 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+- 4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
 - 5.1 mitigation
 
@@ -102,7 +102,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
 - 6.1 caring for the planet, protecting nature
 
@@ -110,15 +110,15 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
-- 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
+- 7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
 - 7.2 health of the planet for future generations
 
 - 7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
 - 8.1 responsible and sustainable lifestyles
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -245,7 +245,7 @@ Slovenian Network of Health Promoting Schools (National Institut of Public Healt
 
 ## VI. Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation)
 
 #### A1a. Please  describe any  specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -259,7 +259,7 @@ Organisation and Financing of Education Act (all levels of education, specifical
 
 -to educate for mutual tolerance, promote gender equality awareness, respect for human diversity and mutual cooperation, respect for children's and human rights and fundamental freedoms, foster equal opportunities for women and men, and thereby develop competences to live in a democratic society;
 
--to educate for sustainable development and active participation in a democratic society, including indepth knowledge of, and a responsible attitude to, oneself, one's health, other people, one's own and other cultures, natural and social environments, and to future generations;
+-to educate for sustainable development and active participation in a democratic society, including in-depth knowledge of, and a responsible attitude to, oneself, one's health, other people, one's own and other cultures, natural and social environments, and to future generations;
 
 -to promote lifelong learning.
 
@@ -377,11 +377,11 @@ School  Meals  Act  [Zakon  o  šolski  prehrani  -  ZŠolPre-1].  Published:  1
 
 - Vocational Education Act [Zakon o poklicnem in strokovnem izobraževanju - ZPSI-1]. Published: 27. 07. 2006. Available at: http://pisrs.si/Pis.web/pregledPredpisa?id=ZAKO4325
 
-- Higher Vocational Education Act [Zakon o višjem s trokovnem izobraževanju - ZVSI]. Published: 05. 08. 2004. Available at: http://pisrs.si/Pis.web/pregledPredpisa?id=ZAKO4093
+- Higher Vocational Education Act [Zakon o višjem strokovnem izobraževanju - ZVSI]. Published: 05. 08. 2004. Available at: http://pisrs.si/Pis.web/pregledPredpisa?id=ZAKO4093
 
 - Adult Education Act [Zakon o izobraževanju odraslih - ZIO-1]. Published: 02. 02. 2018. Available at: http://pisrs.si/Pis.web/pregledPredpisa?id=ZAKO7641
 
-- Slovenian  Development  Strategy  2030 https://www.gov.si/assets/vladne-sluzbe/SVRK/Strategijarazvoja-Slovenije-2030/Strategija_razvoja_Slovenije_2030.pdf
+- Slovenian Development Strategy 2030 https://www.gov.si/assets/vladne-sluzbe/SVRK/Strategija-razvoja-Slovenije-2030/Strategija_razvoja_Slovenije_2030.pdf
 
 - The Development Cooperation and Humanitarian Assistance Strategy: Development Cooperation and Humanitarian Assistance Strategy
 
@@ -389,7 +389,7 @@ School  Meals  Act  [Zakon  o  šolski  prehrani  -  ZŠolPre-1].  Published:  1
 
 The Programme for Children 2020 -2025:
 
-https://www.gov.si/assets/ministrstva/MDDSZ/druzina/Programi-v-podporo-druzini/Program-za-otroke2020-2025.pdf
+https://www.gov.si/assets/ministrstva/MDDSZ/druzina/Programi-v-podporo-druzini/Program-za-otroke-2020-2025.pdf
 
 Informal translations available at: http://mizs.arhiv-spletisc.gov.si/en/legislation_and_documents/index.html
 
@@ -397,13 +397,13 @@ Informal translations available at: http://mizs.arhiv-spletisc.gov.si/en/legisla
 
 - Act Regulating Special Rights of Members of the Italian and Hungarian Ethnic Communities in the Field of Education [Zakon o posebnih pravicah italijanske in madžarske narodne skupnosti na področju vzgoje in izobraževanja - ZPIMVI]. Published: 11. 05. 2001. Available at: http://pisrs.si/Pis.web/pregledPredpisa?id=ZAKO2611
 
-- Rules on norms and standards for the implementation of the elementary school programme in bilingual basic schools and basic schools with Italian as teaching language [Pravilnik o normativih in standardih za izvajanje programa osnovne šole v dvojezičnih osnovnih šolah in osnovnih šolah z italijanskim učnim jezikom]. Published: 09. 08. 2005. Availabl e at: http://pisrs.si/Pis.web/pregledPredpisa?id=PRAV6689
+- Rules on norms and standards for the implementation of the elementary school programme in bilingual basic schools and basic schools with Italian as teaching language [Pravilnik o normativih in standardih za izvajanje programa osnovne šole v dvojezičnih osnovnih šolah in osnovnih šolah z italijanskim učnim jezikom]. Published: 09. 08. 2005. Available at: http://pisrs.si/Pis.web/pregledPredpisa?id=PRAV6689
 
 - Rules on norms and standards for the implementation of the primary school programme [Pravilnik o normativih in standardih za izvajanje programa osnovne šole]. Published 29. 06. 2007. Available at http://www.pisrs.si/Pis.web/pregledPredpisa?id=PRAV7973
 
 - Rules on the collection and protection of personal data in pre-school education [Pravilnik o zbiranju in varstvu osebnih podatkov na področju predšolske vzgoje]. Published 23. 07. 2004. Available at: http://pisrs.si/Pis.web/pregledPredpisa?id=PRAV6097
 
-- Rules on the Treatment of Domestic Violence for Educational Institutions [Pravilnik o obravnavi nasilja v družini za vzgojno -izobraževalne zavode]. Published 18. 12. 2009. Available at: http://pisrs.si/Pis.web/pregledPredpisa?id=PRAV9804
+- Rules on the Treatment of Domestic Violence for Educational Institutions [Pravilnik o obravnavi nasilja v družini za vzgojno-izobraževalne zavode]. Published 18. 12. 2009. Available at: http://pisrs.si/Pis.web/pregledPredpisa?id=PRAV9804
 
 [[END OF PAGE 12]]
 
@@ -411,21 +411,21 @@ Informal translations available at: http://mizs.arhiv-spletisc.gov.si/en/legisla
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
-
-National | Sub-national
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
-1. | Cultural diversity and tolerance | 1 | 1 | 99 | 1 | 99 | 99 | 99 | 99
-2. | Gender equality | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99
-3. | Human rights | 1 | 1 | 99 | 1 | 99 | 99 | 99 | 99
-4. | Peace and non- violence | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99
-5. | Climate change | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99
-6. | Environmental sustainability | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99
-7. | Human survival and well-being | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99
-8. | Sustainable consumption and production | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99
-
 KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+
+| | National | | | | Sub-national | | | |
+|---|---|---|---|---|---|---|---|---|
+| | Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal |
+| 1. Cultural diversity and tolerance | 1 | 1 | 99 | 1 | 99 | 99 | 99 | 99 |
+| 2. Gender equality | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99 |
+| 3. Human rights | 1 | 1 | 99 | 1 | 99 | 99 | 99 | 99 |
+| 4. Peace and non-violence | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99 |
+| 5. Climate change | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99 |
+| 6. Environmental sustainability | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99 |
+| 7. Human survival and well-being | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99 |
+| 8. Sustainable consumption and production | 0 | 1 | 99 | 1 | 99 | 99 | 99 | 99 |
+
+#### A3a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes³ are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 The White Paper on Education in the Republic of Slovenia (2011) represents fundamental, systematic, professional reflection on the structure and operation of the Slovene education system, and proposes solutions assuring quality practice on the field of pre-school, compulsory basic, upper secondary, adult and music education. It includes human rights and responsibilities, autonomy, justice and quality as general principles of education. It also proposes how human rights education, citizenship education and education for peace should be taught. Chapter 3.7 focuses on Sustainable development.
 
@@ -463,7 +463,7 @@ The Educational Research Institute in Ljubljana implements the wider project "St
 
 -The Draft Programme for Work with Immigrant Children in Pre-school, Primary and Secondary Education document has been created as part of the "Facing the Challenges of Intercultural Coexistence" programme. http://www.medkulturnost.si/o-projektu-2/
 
--The "Only Others Make Us What We Are" programme helps create inclusive school and class communities in educational organisations by raising awareness about the importance of respect of differences, intercultural cooperation and respectful coexistence in multicultural societies. https://lezdrugimismo.si/sl/predstavitev-projekta-katalogzgibanka
+-The "Only Others Make Us What We Are" programme helps create inclusive school and class communities in educational organisations by raising awareness about the importance of respect of differences, intercultural cooperation and respectful coexistence in multicultural societies. https://lezdrugimismo.si/sl/predstavitev-projekta-katalog-zgibanka
 
 End of December 2017 the Decree on the methods and conditions for ensuring the rights of persons with international protection came in operation. The decree specifies the education of persons under subsidiary protection who cannot provide evidence of their formal educational qualification.
 
@@ -497,19 +497,17 @@ The Government authorised the integrated strategic project of decarbonisation of
 
 In March 2020, the Slovenian Government adopted the Climate Change Fund Resources Utilisation Programme 2020-2023. It applies among other things to education and training. Under legitimate utilisation purposes, it provides for learning aimed at sustainable transition, specifically through the action of adding the goals and contents of climate change in kindergarten and basic education programmes, upper secondary, short cycle higher vocational education and adult education programmes. The planned activities include the revision of national guidelines for education and training for sustainable development, education programmes, subject-curricula and other curricular documents with similar goals and contents. The described activities are planned within the measure "Climate goals and contents in education".
 
-According to The EU Recovery and Resilience Facility (https://ec.europa.eu/info/businesseconomy-euro/recovery-coronavirus/recovery-and-resilience-facility_en), Slovenia is preparing Recovery and Resilience Plan for 2021-2026. It includes a major comprehensive reform of curriculu renewal across the educational vertical, with a focus on digital and green content (strategic objectives: Environmental sustainability, Productivity, Fairness, Macroeconomic stability).
+According to The EU Recovery and Resilience Facility (https://ec.europa.eu/info/business-economy-euro/recovery-coronavirus/recovery-and-resilience-facility_en), Slovenia is preparing Recovery and Resilience Plan for 2021-2026. It includes a major comprehensive reform of curriculu renewal across the educational vertical, with a focus on digital and green content (strategic objectives: Environmental sustainability, Productivity, Fairness, Macroeconomic stability).
 
 #### A3b. Please  provide  the  full  names  of  any education  policies,  frameworks  or  strategic objectives referred to in A3a and, where possible, web links to relevant documents .
 
 White Paper on Education in the Republic of Slovenia [Bela knjiga o vzgoji in izobraževanju v RS] (2011). Available (in Slovenian) at: http://pefprints.pef.uni-lj.si/1195/1/bela_knjiga_2011.pdf
 
-- Guidelines for Education for Sustainable Development from Pre-School to Pre-University Education [Smernice vzgoje in izobraževanja za trajnostni razvoj od predšolske vzgoje do douniverzitetnega izobraževanja ] (2007). Available (in Slovenian) at http://mizs.arhiv-
+- Guidelines for Education for Sustainable Development from Pre-School to Pre-University Education [Smernice vzgoje in izobraževanja za trajnostni razvoj od predšolske vzgoje do douniverzitetnega izobraževanja] (2007). Available (in Slovenian) at http://mizs.arhiv-spletisc.gov.si/fileadmin/mizs.gov.si/pageuploads/podrocje/razvoj_solstva/trajnostni_razvoj/nacionalne_smernice_VITR.pdf
 
-spletisc.gov.si/fileadmin/mizs.gov.si/pageuploads/podrocje/razvoj_solstva/trajnostni_razvoj/nacion alne_smernice_VITR.pdf
+- Strategy for Lifelong Learning in Slovenia (2007). MESS, p. 29. Adopted by the Council of Experts of the Republic of Slovenia for General Education, the Council of Experts of the Republic of Slovenia for Vocational and Technical Education and the Council of Experts for Adult Education. Available at http://www.mss.gov.si/fileadmin/mss.gov.si/pageuploads/podrocje/razvoj_solstva/IU2010/Strategija_VZU.pdf
 
-- Strategy for Lifelong Learning in Slovenia (2007). MESS, p. 29. Adopted by the Council of Experts of the Republic of Slovenia for General Education, the Council of Experts of the Republic of Slovenia for Vocational and Technical Education and the Council of Experts for Adult Education. Available at http://www.mss.gov.si/fileadmin/mss.gov.si/pageuploads/podrocje/razvoj_solstva/IU2010/Strate gija_VZU.pdf
-
-- Resolution of the Master Plan for Adult Education 2013-2020 [Resolucija o nacionalnem programu izobraževanja odraslih 2013 -2020]. Published 30. 10. 2013. Available at http://www.pisrs.si/Pis.web/pregledPredpisa?id=RESO97 and http://arhiv.acs.si/enovicke/2013/Winter.pdf (a short summary in English on page 28).
+- Resolution of the Master Plan for Adult Education 2013-2020 [Resolucija o nacionalnem programu izobraževanja odraslih 2013-2020]. Published 30. 10. 2013. Available at http://www.pisrs.si/Pis.web/pregledPredpisa?id=RESO97 and http://arhiv.acs.si/e-novicke/2013/Winter.pdf (a short summary in English on page 28).
 
 Resolution on the National Programme of Nutrition and Physical Activity for Health 2015-2025 [Resolucija o nacionalnem programu o prehrani in telesni dejavnosti za zdravje 2015-2025]. Published 3. 8. 2015. Available at: http://www.pisrs.si/Pis.web/pregledPredpisa?id=RESO101
 
@@ -521,33 +519,25 @@ Resolution on the National Programme for Equal Opportunities for Women and Men 2
 
 The Resolution on National Higher Education Programme for 2011-2020. Available at
 
-https://www.um.si/en/quality/eua-
-
-evaluation/Documents/A04%20Resolution%20on%20National%20Higher%20Education%20Progr amme%202011-2020%20(NVP%C5%A0).pdf
+https://www.um.si/en/quality/eua-evaluation/Documents/A04%20Resolution%20on%20National%20Higher%20Education%20Programme%202011-2020%20(NVP%C5%A0).pdf
 
 Program guidelines for the work of the counseling service (pre-primary, primary, secondary education) [Programske smernice za delo svetovalne službe v vrtcu / osnovnošolskem izobraževanju / srednješolskem izobraževanju:
 
-http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/ministrstvo/Publikacije/Programske_sm ernice_vrtec.pdf / http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/ministrstvo/Publikacij e/Programske_smernice_OS.pdf / http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/minis trstvo/Publikacije/Programske_smernice_SS.pdf].
+http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/ministrstvo/Publikacije/Programske_smernice_vrtec.pdf / http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/ministrstvo/Publikacije/Programske_smernice_OS.pdf / http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/ministrstvo/Publikacije/Programske_smernice_SS.pdf].
 
-Instructions with manual for treatment of peer violence in educational institutions (2016). Available at : https://www.zrss.si/digitalnaknjiznica/navodila-medvrstnisko-nasilje-viz-2016/files/assets/basic- html/index.html#1
+Instructions with manual for treatment of peer violence in educational institutions (2016). Available at: https://www.zrss.si/digitalnaknjiznica/navodila-medvrstnisko-nasilje-viz-2016/files/assets/basic-html/index.html#1
 
 Guidelines for analysis, prevention and treatment of violence in the school environment, 2004.
 
-- Strategy of education of Roma in the Republic of Slovenia. Supplement to the Strategy 2004. [ Strategija vzgoje in izobraževanja Romov v Republiki Sloveniji. Dopolnilo k Strategiji 2004]. Adopted by the Council of Experts of the Republic of Slovenia for General Education in February 2011. Available at:
+- Strategy of education of Roma in the Republic of Slovenia. Supplement to the Strategy 2004. [Strategija vzgoje in izobraževanja Romov v Republiki Sloveniji. Dopolnilo k Strategiji 2004]. Adopted by the Council of Experts of the Republic of Slovenia for General Education in February 2011. Available at:
 
-http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/podrocje/razvoj_solstva/projekti/Strategi ja_Romi_dopolnitev_2011.pdf
+http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/podrocje/razvoj_solstva/projekti/Strategija_Romi_dopolnitev_2011.pdf
 
-Website Varno in spodbudno učno okolje (2016).
+Website Varno in spodbudno učno okolje (2016). http://mizs.arhiv-spletisc.gov.si/si/varno_in_spodbudno_ucno_okolje/index.html Published material, inclusion procedure and information for the professional and interested public. The content is no longer active following the transfer of the gov. platform to new pages.
 
-http://mizs.arhiv-
+Smernice za vključevanje otrok priseljencev v vrtce in šole:
 
-spletisc.gov.si/si/varno_in_spodbudno_ucno_okolje/index.html Published material, inclusion procedure and information for the professional and interested public. The content is no longer active following the transfer of the gov. platform to new pages.
-
-Smernice za
-
-vključevanje otrok priseljencev v vrtce in šole:
-
-http://eportal.mss.edus.si/msswww/programi2019/programi/media/pdf/smernice/cistopis_Sme rnice_vkljucevanje_otrok_priseljencev.pdf
+http://eportal.mss.edus.si/msswww/programi2019/programi/media/pdf/smernice/cistopis_Smernice_vkljucevanje_otrok_priseljencev.pdf
 
 Slovenian Development Strategy 2030 (2017). Available at:
 
@@ -555,21 +545,15 @@ http://www.vlada.si/en/projects/slovenian_development_strategy_2030/
 
 Voluntary National Review on the Implementation of the 2030 Agenda. Report to the UN HLPF 2017 on Sustainable Development (Executive Summary). SDG 4, p. 14. Available (in English) at: http://www.svrk.gov.si/fileadmin/svrk.gov.si/pageuploads/SDG-brosura-digital_povzetek.pdf
 
-- Slovenia. Implementing the 2030 Agenda for Sustainable Development. 2018 Update. SDG4, p. 16. Available at: http://www.svrk.gov.si/fileadmin/svrk.gov.si/pageuploads/Strategija_razvoja_Slovenij e/Implementing_the_Agenda2030_update_2018.pdf
+- Slovenia. Implementing the 2030 Agenda for Sustainable Development. 2018 Update. SDG4, p. 16. Available at: http://www.svrk.gov.si/fileadmin/svrk.gov.si/pageuploads/Strategija_razvoja_Slovenije/Implementing_the_Agenda2030_update_2018.pdf
 
 - Slovenia. Implementing the 2030 Agenda for Sustainable Development. 2020 Update. SDG4, p. 34 Available at: https://slovenia2030.si/second-report-in-progress/?lang=en.
 
-Integrated National Ener
-
-gy and Climate Plans [Celoviti nacionalni energetski in podnebni načrt
-
-Republike Slovenije]. Available at https://www.energetika-
-
-portal.si/fileadmin/dokumenti/publikacije/nepn/dokumenti/nepn_5.0_final_feb-2020.pdf
+Integrated National Energy and Climate Plans [Celoviti nacionalni energetski in podnebni načrt Republike Slovenije]. Available at https://www.energetika-portal.si/fileadmin/dokumenti/publikacije/nepn/dokumenti/nepn_5.0_final_feb-2020.pdf
 
 - Climate change fund resources utilisation Programme 2020-2023 [Program porabe sredstev Sklada za podnebne spremembe v obdobju 2020-2023]. Published 06. 03. 2020. Available at: http://pisrs.si/Pis.web/pregledPredpisa?id=ODLO1993
 
-Eurydice National Education Systems (2020), Ongoing reforms and policy developments, Slovenia: https://eacea.ec.europa.eu/national-policies/eurydice/content/ongoing-reforms-and-policy- developments-68_en
+Eurydice National Education Systems (2020), Ongoing reforms and policy developments, Slovenia: https://eacea.ec.europa.eu/national-policies/eurydice/content/ongoing-reforms-and-policy-developments-68_en
 
 ##### Some other relevant links to documents and strategies, where GCED and ESD themes are inferred:
 
@@ -577,28 +561,29 @@ Eurydice National Education Systems (2020), Ongoing reforms and policy developme
 
 [[START OF PAGE 19]]
 
-Recommendations on the ways of designing and implementing the educational plan of compulsory school (MESS, 2008). Chapter 1. values, pp 6. Available at (in Slovenian) at: http://www.mizs.gov.si/si/delovna_podrocja/direktorat_za_predsolsko_vzgojo_in_osnovno_solstvo /osnovno_solstvo/program/.
----
-National guidelines for cultural and arts education in the field of education [ Državne smernice za kulturno- umetnostno vzgojo v vzgoji in izobraževanju 2009]. Available (in Slovenian) at: http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/podrocje/os/devetletka/program_drugo/ Smernice_za_kulturno_umetnostno_vzgojo.pdf
-Strategic Framework for Climate Change Adaptation [Nacionalni strateški okvir za prilagajanje podnebnim spremembam] (2016). Chapter Education and Training, awareness raising and communication. Available (in English) at: http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/podrocja/podnebne_spremembe/SOzP_ ang.pdf and in Slovenian: http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/podrocja/podn
-http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/pomembni_dokumenti/porocilo_o_okolju _2017.pdf Draft National Environmental Action Programme 2030 (February 2018). Ministry of the Environment and Spatial Planning. Chapter 6.4. Education for environmental protection, pp 93-94. National Environmental Protection Programme 2030. Working document for consultation with ministries
-(February 2018). Unpublished.
-7th National Communication & 3rd Biennial Report from Slovenia under the United Nations Framework Convention on Climate Change (Required under the UNFCCC and the Kyoto Protocol), Chapter 9: Education, Training and Public Awareness, pp. 192 - 208. Available (in
-EN_v0b%20F.pdf Climate Mirror 2018. Decision summary (Final report) [Podnebno ogledalo 2018. Povzetek za odločanje (Končno poročilo) ]. LIFE Climate Path 2050 'Slovenian Path Towards the Mid-Century Climate Target' (LIFE 16 GIC/SI/000043). Chapter: Training, Education, Information and Promotion, pp. 21. Available (in Slovenian) at: https://www.podnebnapot2050.si/wp- content/uploads/2018/04/Podnebno_Ogledalo_2018_Zvezek0.pdf
-Strategija mednarodnega razvojnega sodelovanja in humanitarne pomoči RS do leta 2030 (Strategy of international development cooperation and humanitarian assistance of the Republic of Slovenia
-The architectural policy of Slovenia. Architecture for the people. Adopted by the Government of the Republic of Slovenia in August 2017. Chapter 3: Sustainable development, pp. 19-21, and Chapter 4.1: Architecture in the educational system, pp. 22-23. Available (in English) at: https://www.ace-cae.eu/fileadmin/New_Upload/6._Architecture_in_Europe/EU_Policy/SL- Architectural_policy_Slovenia_2017-new.pdf
-Slovenia's Smart Specialisation Strategy S4 (2014-2020). December 2017. Available (in English) at: i/S4_dokument_V_2017EN.pdf
-Programme for the transition to the green economy [Okvirni program za prehod v zeleno gospodarstvo -OPZG]. Adopted by the Government of the Republic of Slovenia in October 2015. Available (in Slovenian) at: http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/pomembni_dokumenti/opzg_akcijski_na crt_in_nacrt_aktivnosti.pdf
-Industrial Policy - SI (2014-2020). Adopted by the Government of the Republic of Slovenia
-in February 2013. Available (in English) at:
-Slovenian
-Tentative
-learning, pp. 32-34; and Annex 1: Indicators, pp. 40. Available (in Slovenian) at: http://www.mzz.gov.si/fileadmin/pageuploads/dokumenti/SMRSHP_5_10_2018.pdf
-until 2030; draft, 5 October 2018). Working document in a public debate prepared by of Foreign Affairs. Chapter 10: Raising awareness on development cooperation and
-the
-Ministry
-global
-http://www.svrk.gov.si/fileadmin/svrk.gov.si/pageuploads/Dokumenti_za_objavo_na_vstopni_stran
+Recommendations on the ways of designing and implementing the educational plan of compulsory school (MESS, 2008). Chapter 1. values, pp 6. Available at (in Slovenian) at: http://www.mizs.gov.si/si/delovna_podrocja/direktorat_za_predsolsko_vzgojo_in_osnovno_solstvo/osnovno_solstvo/program/.
+
+National guidelines for cultural and arts education in the field of education [Državne smernice za kulturno-umetnostno vzgojo v vzgoji in izobraževanju 2009]. Available (in Slovenian) at: http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/podrocje/os/devetletka/program_drugo/Smernice_za_kulturno_umetnostno_vzgojo.pdf
+
+Strategic Framework for Climate Change Adaptation [Nacionalni strateški okvir za prilagajanje podnebnim spremembam] (2016). Chapter Education and Training, awareness raising and communication. Available (in English) at: http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/podrocja/podnebne_spremembe/SOzP_ang.pdf and in Slovenian: http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/podrocja/podnebne_spremembe/SOzP.pdf
+
+Environment Report for Slovenia 2017 [Poročilo o okolju v RS 2017]. Adopted by the Government of the Republic of Slovenia, March 2017. Chapter: Education and Training for Environmental Protection and Awareness Raising, pp. 222-234. Available (in Slovenian) at: http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/pomembni_dokumenti/porocilo_o_okolju_2017.pdf
+
+Draft National Environmental Action Programme 2030 (February 2018). Ministry of the Environment and Spatial Planning. Chapter 6.4. Education for environmental protection, pp 93-94. National Environmental Protection Programme 2030. Working document for consultation with ministries (February 2018). Unpublished.
+
+7th National Communication & 3rd Biennial Report from Slovenia under the United Nations Framework Convention on Climate Change (Required under the UNFCCC and the Kyoto Protocol), Chapter 9: Education, Training and Public Awareness, pp. 192 – 208. Available (in English) at: https://unfccc.int/sites/default/files/resource/453201_Slovenia-BR3-NC7-1-7NC3BR-EN_v0b%20F.pdf
+
+Climate Mirror 2018. Decision summary (Final report) [Podnebno ogledalo 2018. Povzetek za odločanje (Končno poročilo)]. LIFE Climate Path 2050 “Slovenian Path Towards the Mid-Century Climate Target” (LIFE 16 GIC/SI/000043). Chapter: Training, Education, Information and Promotion, pp. 21. Available (in Slovenian) at: https://www.podnebnapot2050.si/wp-content/uploads/2018/04/Podnebno_Ogledalo_2018_Zvezek0.pdf
+
+Strategija mednarodnega razvojnega sodelovanja in humanitarne pomoči RS do leta 2030 (Strategy of international development cooperation and humanitarian assistance of the Republic of Slovenia until 2030; draft, 5 October 2018). Working document in a public debate prepared by the Ministry of Foreign Affairs. Chapter 10: Raising awareness on development cooperation and global learning, pp. 32-34; and Annex 1: Indicators, pp. 40. Available (in Slovenian) at: http://www.mzz.gov.si/fileadmin/pageuploads/dokumenti/SMRSHP_5_10_2018.pdf
+
+The architectural policy of Slovenia. Architecture for the people. Adopted by the Government of the Republic of Slovenia in August 2017. Chapter 3: Sustainable development, pp. 19-21, and Chapter 4.1: Architecture in the educational system, pp. 22-23. Available (in English) at: https://www.ace-cae.eu/fileadmin/New_Upload/6._Architecture_in_Europe/EU_Policy/SL-Architectural_policy_Slovenia_2017-new.pdf
+
+Slovenia’s Smart Specialisation Strategy S4 (2014-2020). December 2017. Available (in English) at: http://www.svrk.gov.si/fileadmin/svrk.gov.si/pageuploads/Dokumenti_za_objavo_na_vstopni_strani/S4_dokument_V_2017EN.pdf
+
+Tentative Programme for the transition to the green economy [Okvirni program za prehod v zeleno gospodarstvo –OPZG]. Adopted by the Government of the Republic of Slovenia in October 2015. Available (in Slovenian) at: http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/pomembni_dokumenti/opzg_akcijski_nacrt_in_nacrt_aktivnosti.pdf
+
+Slovenian Industrial Policy – SI (2014-2020). Adopted by the Government of the Republic of Slovenia in February 2013. Available (in English) at:
 
 [[END OF PAGE 19]]
 
@@ -608,11 +593,11 @@ http://www.mgrt.gov.si/fileadmin/mgrt.gov.si/pageuploads/DPK/SIP/SIP_-_vladni_do
 
 Resolution on Research and Innovation Strategy of Slovenia 2011-2020. Available (in English) at:
 
-http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/Znanost/doc/Strategije/01.06._RISSdz_ ENG.pdf
+http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/Znanost/doc/Strategije/01.06._RISSdz_ENG.pdf
 
 Programme for Children 2020-2025:
 
-https://www.gov.si/assets/ministrstva/MDDSZ/druzina/Programi-v-podporo-druzini/Programza-otroke-2020-2025.pdf
+https://www.gov.si/assets/ministrstva/MDDSZ/druzina/Programi-v-podporo-druzini/Program-za-otroke-2020-2025.pdf
 
 #### *A4.  Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell.
 
@@ -660,7 +645,7 @@ Assessment of student outcomes | 99 | 99 | 99 | 99
 
 #### B1a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate  whether  topics  are  taught  as  standalone  subjects  or  are  integrated  into  the curricula of other subjects. Explain whether GCED and/or ESD themes 4  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
-These topics are part of the kindergarten curriculum (in all its basic fields: Society, Language, Art, Mathematics, Nature, Movement), of the compulsory and optional curricula of general education in basic and secondary schools (part of the syllabi of compulsory and optional subjects, optional activities) and of school activity days, open-air school, extracurricular activities, project days and weeks, field trips and various projects where kindergartens and schools participate on the basis of their professional autonomy.
+These topics are part of the kindergarten curriculum (in all its basic fields: Society, Language, Art, Mathematics, Nature, Movement), of the compulsory and optional curricula of general education in basic and secondary schools (part of the syllabi of compulsory and optional subjects, optional activities) and of school activity days, open-air school, extra-curricular activities, project days and weeks, field trips and various projects where kindergartens and schools participate on the basis of their professional autonomy.
 
 ESD is integrated into the national curriculum at all levels of formal education (early childhood,  primary,  lower  secondary,  upper  secondary  and  vocational  education) . ESD is integrated as a cross-curricular topic as well as the topic of some optional subjects in  primary  and  secondary  school  (environmental  studies,  sport  for  health,  civic  culture, methods of eating, modern agriculture, beekeeping etc.) and optional activities at the level of upper secondary education (civic culture, education for peace, family and nonviolence, library information skills). Competence for sustainable development has been gradually and systematically included in recent years as a compulsory part of the vocational standard in vocational  and  professional  education  programmes.  By  2025  it  should  be  included  in  all occupational standards.
 
@@ -668,7 +653,7 @@ The modernization process will continue as part of a major comprehensive reform 
 
 ##### Pre-primary level:
 
-The GCED and ESD content is included in the curriculum of the field society and nature, which  is  also  sensibly  and  comprehensively  connected  with  other  fields  defined  in  the document Curriculum for Kindergartens (https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Sektor-za-predsolskovzgojo/Programi/Kurikulum-za-vrtce.pdf).  In  addition  to  the  Curriculum,  the  field  of  preschool education is also regulated by other documents, such as, for example, Guidelines for the inclusion of immigrant children in kindergartens and schools (http://eportal.mss.edus.si/msswww/programi2019/programi/media/pdf/smernice/cistopis_ Smernice_vkljucevanje_otrok_priseljencev.pdf)  and  the  appendix  to  the  Curriculum  for kindergartens for Roma children and for work in bilingual areas.
+The GCED and ESD content is included in the curriculum of the field society and nature, which is also sensibly and comprehensively connected with other fields defined in the document Curriculum for Kindergartens (https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Sektor-za-predsolsko-vzgojo/Programi/Kurikulum-za-vrtce.pdf). In addition to the Curriculum, the field of pre-school education is also regulated by other documents, such as, for example, Guidelines for the inclusion of immigrant children in kindergartens and schools (http://eportal.mss.edus.si/msswww/programi2019/programi/media/pdf/smernice/cistopis_Smernice_vkljucevanje_otrok_priseljencev.pdf) and the appendix to the Curriculum for kindergartens for Roma children and for work in bilingual areas.
 
 Updating the current national Curriculum for kindergartens (1999) . The National Education Institute Slovenia (ZRSŠ) carried out in 2018 an analysis in the field of implementation of the current national curriculum, and the process continued in 2019 with the drafting of starting points and guidelines for updating the national curriculum.
 
@@ -681,7 +666,7 @@ There is no independent compulsory subject that would fully cover the GCED and E
 
 [[START OF PAGE 23]]
 
-(http://eportal.mss.edus.si/msswww/programi2019/programi/media/pdf/smernice/cistopis_ Smernice_vkljucevanje_otrok_priseljencev.pdf) and other documents.
+(http://eportal.mss.edus.si/msswww/programi2019/programi/media/pdf/smernice/cistopis_Smernice_vkljucevanje_otrok_priseljencev.pdf) and other documents.
 
 The updated Concept of the extended primary school programme will be introduced on a pilot basis in 20 schools in 2018-2021. The Institute for Education of the Republic of Slovenia is responsible for the preparation and testing of various models of the extended programme. The experiment is monitored by the Quality and Evaluation Council. The basic principle of experimenting with extended programme models is to enable all students to develop a healthy and holistic personality that follows their individual abilities, interests, talents, and needs. The updated concept of the extended program emphasizes two content sets of activities that should be systematically and more integrated than before in the activities of the extended primary school program, namely movement and health for mental and physical well-being, and culture and tradition.
 
@@ -693,7 +678,7 @@ In basic school (ISCED 1, 2), SD topics are an integral part of a large number o
 
 ##### Upper-secondary education:
 
-There is no independent compulsory subject that would fully cover the GCED and ESD content  in  the  syllabi  for  secondary  school,  although  content  is  included  in  various compulsory subjects. The syllabus for secondary school also determines optional subjects, such as, for example environment and foreign languages: culture and civilisation, in which certain  GCED and ESD content is included. The field of ESD is regulated by the crosscurricular  document  Environmental education as education for sustainable development. The syllabus for secondary school also includes compulsory optional content, and among them  GCED and ESD are partially  included  in  the  content  such  as  civic  education  and education  on  the  family,  peace  and  non-violence.  The  term  sustainable  development  is mentioned explicitly, as is the term civic education.
+There is no independent compulsory subject that would fully cover the GCED and ESD content in the syllabi for secondary school, although content is included in various compulsory subjects. The syllabus for secondary school also determines optional subjects, such as, for example environment and foreign languages: culture and civilisation, in which certain GCED and ESD content is included. The field of ESD is regulated by the cross-curricular document Environmental education as education for sustainable development. The syllabus for secondary school also includes compulsory optional content, and among them GCED and ESD are partially included in the content such as civic education and education on the family, peace and non-violence. The term sustainable development is mentioned explicitly, as is the term civic education.
 
 A group of experts in civic education from the National Education Institute Slovenia drafted in 2019 a proposal for syllabus (for secondary schools) or catalogue of knowledge (for vocational and professional secondary education) for the compulsory set of content "Active citizenship" with the purpose of integrating the content of active citizenship in the compulsory part of lessons also at the secondary education level (civic education is taught at the primary school level as a compulsory subject)
 
@@ -715,9 +700,9 @@ Also at the upper-secondary level, the plan is to update curricula with a focus 
 
 ##### Tertiary education:
 
-Faculties and universities are professionally autonomous in designing the content of their higher-education curricula. In the field of higher education programmes (either undergraduate and postgraduate programmes, or the first degree - diploma, the second master's and the third degree - doctorate), the process of updating content, integrating new subjects, programmes and study courses is in the closest relation to the requirements and challenges of sustainable development.
+Faculties and universities are professionally autonomous in designing the content of their higher-education curricula. In the field of higher education programmes (either undergraduate and postgraduate programmes, or the first degree - diploma, the second - master's and the third degree - doctorate), the process of updating content, integrating new subjects, programmes and study courses is in the closest relation to the requirements and challenges of sustainable development.
 
-GCED and ESD are highly embedded in University of Ljubljana curricula and its implementation is carried out in mu ltiple ways. GCED and ESD topics are often taught as standalone subjects, are integrated into the curricula of other subjects or delivered as bachelor, master or doctoral degree programmes.
+GCED and ESD are highly embedded in University of Ljubljana curricula and its implementation is carried out in multiple ways. GCED and ESD topics are often taught as standalone subjects, are integrated into the curricula of other subjects or delivered as bachelor, master or doctoral degree programmes.
 
 Standalone subjects cover different sustainable development themes (below we give a brief overview and examples of subjects taught, this is not an extensive list of all subjects):
 
@@ -754,7 +739,7 @@ Themes related to GCED and ESD are included in general competences of the gradua
 
 Multiculturality  in  education,  Human  in  inter-cultural  space,  Human  and  natural environment and Diversity and nature protection.)
 
-- as individual content of subjects (Individual GCED and ESD content may be found in the following subjects of the Pre-school education study programmes: Basics of pedagogy, Early learning of natural sciences, Learning how to read nature, Natural sciences,  Social  sciences  in  kindergarten,  Natural  science  projects,  Sociology  of family.)
+2. as individual content of subjects (Individual GCED and ESD content may be found in the following subjects of the Pre-school education study programmes: Basics of pedagogy, Early learning of natural sciences, Learning how to read nature, Natural sciences, Social sciences in kindergarten, Natural science projects, Sociology of family.)
 
 GCED and ESD content appears in individual subjects in the Primary school teaching study programmes, namely: Basics of pedagogy, Social sciences I and II, Natural sciences I and II and Sociology of family.
 
@@ -778,7 +763,7 @@ With the aim of getting GCE recognized and GCE activities in non-formal educatio
 
 SLOGA Platform is, among other, network of NGOs working in Global Education and has an active GCE working field group that meets regularly, several times a year.
 
-From 2006, SLOGA is a national coordinator of Global Education Week, which is coordinated by the North - South Centre of Council of Europe. Each year in the third week of november up to 110 activities were implemented. In November 2020 the 14 th  edition of GEW was implemented.
+From 2006, SLOGA is a national coordinator of Global Education Week, which is coordinated by the North – South Centre of Council of Europe. Each year in the third week of november up to 110 activities were implemented. In November 2020 the 14th edition of GEW was implemented.
 
 SLOGA is an active member of Global Education networkers (Networking for Global Citizenship with the North-South Centre of the Council of Europe), The South-East Europe and Mediterranean Regional Group, The Balkan countries group (by the North - South Centre of Council of Europe); an active member of GCE hub at CONCORD Europe (European Confederation of Relief and Development NGOs); a member of Bridge 47 Network; a World Best News partner for Slovenia; a member of EADI, the European Association of Development Research and Training Institutes; a national thematic coordinator for Global Education at Lifelong Learning Weeks festival, coordinated by Slovene Institute for Adult Education (more than 340 GCE events in 2019 edition).
 
@@ -806,11 +791,11 @@ NGOs have produced handbooks for educators in non-formal education sector. Some 
 
 ­ No Excuse Slovenia - was nominated for the 2019 UNESCO-Japan Prize on Education for Sustainable Development (ESD), which rewards outstanding projects as of UNESCO's wider work on ESD.
 
-Association DOVES - FEE Slovenia has been introducing and implementing the non-formal programs for education for sustainable development and global education in Slovenia: EcoSchools (from 1994), Young Reporters for the Environment (from 2010) and LEAF - Learning About Forests (from 2010). It represents the largest network of mentors (teachers, professors) and youngsters from kindergartens to universities (pre-primary to tertiary) in Slovenia and globally that stimulates and empowers teachers and youngsters as well as coordinates the implementation of sustainable themes into the curriculum and extra-curriculum activities through daily school life. The program is based on the 7-step methodology representing the framework for each institution included to plan and implement sustainable education themes and activities each school year. The 7-step methodology is designed to enable each institution involved to plan and implement activities in a democratic, interactive, experience-based and solution-oriented principles. It also stimulates institutions to plan activities with regards to the local and global perspectives.
+Association DOVES – FEE Slovenia has been introducing and implementing the non-formal programs for education for sustainable development and global education in Slovenia: Eco-Schools (from 1994), Young Reporters for the Environment (from 2010) and LEAF – Learning About Forests (from 2010). It represents the largest network of mentors (teachers, professors) and youngsters from kindergartens to universities (pre-primary to tertiary) in Slovenia and globally that stimulates and empowers teachers and youngsters as well as coordinates the implementation of sustainable themes into the curriculum and extra-curriculum activities through daily school life. The program is based on the 7-step methodology representing the framework for each institution included to plan and implement sustainable education themes and activities each school year. The 7-step methodology is designed to enable each institution involved to plan and implement activities in a democratic, interactive, experience-based and solution-oriented principles. It also stimulates institutions to plan activities with regards to the local and global perspectives.
 
 #### B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
-An example of a curriculum for the subject society (grades 4 and 5 of primary school) (https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucninacrti/obvezni/UN_druzba_OS.pdf)
+An example of a curriculum for the subject society (grades 4 and 5 of primary school) (https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucni-nacrti/obvezni/UN_druzba_OS.pdf)
 
 -The definition of the subject says that: "The emphasis and purpose of the subject is to learn about the relationship between an individual, society and natural environment. It revolves around learning about and evaluating the environment (social, cultural and natural) in all its elements and interaction and inter-dependence between these elements." (Ibid: 4).
 
@@ -862,19 +847,19 @@ nacrti/obvezni/UN_DDE_OS.pdf). Examples of operational objectives:
 
 An example of syllabus and catalogues of knowledge for the compulsory content set active citizenship (secondary schools, 3rd grade)
 
-(http://eportal.mss.edus.si/msswww/programi2020/programi/media/pdf/aktivno_drzavljanstvo.p df, http://eportal.mss.edus.si/msswww/programi2020/programi/media/pdf/aktivno_drzavljanstvo
+(http://eportal.mss.edus.si/msswww/programi2020/programi/media/pdf/aktivno_drzavljanstvo.pdf, http://eportal.mss.edus.si/msswww/programi2020/programi/media/pdf/aktivno_drzavljanstvo
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-_ssi.pdf, http://eportal.mss.edus.si/msswww/programi2020/programi/media/pdf/aktivno_drzavlj anstvo_spi.pdf). Examples of objectives for secondary school programmes:
+_ssi.pdf, http://eportal.mss.edus.si/msswww/programi2020/programi/media/pdf/aktivno_drzavljanstvo_spi.pdf). Examples of objectives for secondary school programmes:
 
 - Human rights and coexistence: By means of activities and authentic tasks, students: learn about various types of (human) rights and their relationship with freedom and authorities, they understand the connection between human rights and responsibilities, they are trained to participate in a public debate, to think about and argue their own views, accept differences in views, listen to other people's views and jointly look for (compromise) solutions, recognise the negative consequences of stereotypes, prejudices, intolerance, exclusion and discrimination, explore the importance of different types of affiliation (national, ethnic, religious, etc.); patriotism and cosmopolitanism.
 
 - World and globalisation: By means of activities and authentic tasks, students: learn about changes in international relations (shifts in centres of economic and political power, the role of cultural globalisation and international organisations), analyse and critically assess various effects and processes of globalisation and their impact on their lives, recognise and evaluate the causes and consequences of conflicts and wars in a globalised world and discuss the efforts for democracy, peace and prevention of conflicts, assess the causes and consequences of global migrations and the importance of global organisations (The World Trade Organisation, The UN, etc.), raise their awareness about the importance of sustainable development and inter-cultural relations, study and plan activities for the protection of human rights.
 
-An example of syllabus for the subject biology (8th and 9th grade of primary school) (https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucni- nacrti/obvezni/UN_Biologija.pdf), Human impact on nature and the environment
+An example of syllabus for the subject biology (8th and 9th grade of primary school) (https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucni-nacrti/obvezni/UN_Biologija.pdf), Human impact on nature and the environment
 
 ##### CONCEPT:
 Human activities may include the risk of potentially adverse effects on humans and the environment. Hazardous activities include the use of natural resources and extraction of raw materials, the growth of cities, changes of land use and waste management.
@@ -893,7 +878,7 @@ Human activities may include the risk of potentially adverse effects on humans a
 
 - learn that the risk related to human activity is a personal and social challenge, as an incorrect analysis of the consequences of certain activities leads to the risk being underestimated and, consequently, to detrimental consequences to humans and the environment or to too strict preventive measures, which is an unnecessary financial burden on the individual and society.
 
-An example of syllabus for the subject natural sciences (6th and 7th grade) (https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucni- nacrti/obvezni/UN_naravoslovje.pdf), Human impact on the environment
+An example of syllabus for the subject natural sciences (6th and 7th grade) (https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucni-nacrti/obvezni/UN_naravoslovje.pdf), Human impact on the environment
 
 - The importance of the exploitation of natural resources and energy (for example, students learn that environmental criteria need to be taken into account in addition to economic ones when the efficiency and consequences of exploitation of natural resources are evaluated.
 
@@ -907,7 +892,7 @@ An example of syllabus for the subject natural sciences (6th and 7th grade) (htt
 
 -Humans pollute the air, water and soil (for example, students learn about the causes for the increase in gas emissions (carbon dioxide, methane, nitrogen oxides) and the related excessive warming of the atmosphere, which is reflected in change in climate and of land and water ecosystems .
 
-An example of syllabus for the subject biology (secondary school) http://eportal.mss.edus.si/msswww/programi2018/programi/media/pdf/ucni_nacrti/UN_BIOLOG IJA_gimn.pdf, Ecology
+An example of syllabus for the subject biology (secondary school) http://eportal.mss.edus.si/msswww/programi2018/programi/media/pdf/ucni_nacrti/UN_BIOLOGIJA_gimn.pdf, Ecology
 
 ##### CONCEPT:
 Humans live in various ecosystems that they increasingly change due to the growth in population, technology and consumption. Humans may cause major changes in ecosystems and decline in biodiversity. Major changes in ecosystems may exceed the ability of organisms to naturally adapt to changes, or the ability of humans to adapt themselves technology-wise to these changes.
@@ -918,7 +903,7 @@ Humans live in various ecosystems that they increasingly change due to the growt
 
 -evaluate the need to plan sustainable development, use of renewable natural resources and sustainable management of ecosystems ;
 
-An example of syllabus for the subject Slovenian language (primary school), (https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucninacrti/obvezni/UN_slovenscina.pdf)
+An example of syllabus for the subject Slovenian language (primary school), (https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucni-nacrti/obvezni/UN_slovenscina.pdf)
 
 -Literature: … Reading provides students with the opportunity to create a personal and ethnic identity, to expand their horizons and learn about their culture and cultures of other peoples in the European cultural space and wider. By learning about other cultures and common cultural values, they build an inclined attitude to others and different ones. This way they develop their social, cultural and inter-cultural capacity and better understand the context of the period to which the discussed artistic texts refer to.
 
@@ -930,13 +915,13 @@ An example of syllabus for the subject Slovenian language (primary school), (htt
 
 [[START OF PAGE 32]]
 
-An example of syllabus for the subject Slovenian language (secondary school) http://eportal.mss.edus.si/msswww/programi2018/programi/media/pdf/un_gimnazija/un_sloven scina_gimn.pdf
+An example of syllabus for the subject Slovenian language (secondary school) http://eportal.mss.edus.si/msswww/programi2018/programi/media/pdf/un_gimnazija/un_slovenscina_gimn.pdf
 
 - Literature: By classifying texts, students systematically learn about the development of Slovenian literature and concurrent genres, about authors and works of world and European literature and develop their inter-cultural capacity by means of text and context comparison, evaluations and connections between subjects.
 
 - Language: General objectives of the subject Slovenian language in secondary education include cross-curricular content, such as civic culture, ICT, library information knowledge, environmental education, health education, consumer education, professional orientation, transport education, etc. and culture education content .
 
-An example of syllabus for the subject sport (primary school) https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucni- nacrti/obvezni/UN_sportna_vzgoja.pdf
+An example of syllabus for the subject sport (primary school) https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucni-nacrti/obvezni/UN_sportna_vzgoja.pdf
 
 ##### General objectives:
 
@@ -970,7 +955,7 @@ An example of syllabus for the subject sport (primary school) https://www.gov.si
 
 An example of syllabus for the subject sport education (secondary school)
 
-(http://eportal.mss.edus.si/msswww/programi2018/programi/media/pdf/un_gimnazija/un_sportn a_vzgoja_gimn.pdf )
+(http://eportal.mss.edus.si/msswww/programi2018/programi/media/pdf/un_gimnazija/un_sportna_vzgoja_gimn.pdf)
 
 ##### General objectives:
 
@@ -992,7 +977,7 @@ An example of syllabus for the subject sport education (secondary school)
 
 -encourage mutual cooperation, healthy competitiveness and acceptance of differences, develop a cultured attitude towards nature and the environment.
 
-An example of syllabus for the subject sociology (secondary school) http://eportal.mss.edus.si/msswww/programi2013/programi/media/pdf/ucni_nacrti/UN_SOCIOL OGIJA_gimn.pdf, Science -social development and environmental issues
+An example of syllabus for the subject sociology (secondary school) http://eportal.mss.edus.si/msswww/programi2013/programi/media/pdf/ucni_nacrti/UN_SOCIOLOGIJA_gimn.pdf, Science – social development and environmental issues
 
 In the chapter, emphasis is put on an analysis of the role and importance of science in modern society, problematisation of the importance of development of science, technology and social progress from the aspect of possibilities for sustainable development of society, evaluation of the relationship between science and knowledge and the use of knowledge, positive and negative sides of the use of knowledge and the ability of the public to decide on the use of scientific achievements.
 
@@ -1012,15 +997,15 @@ In the chapter, emphasis is put on an analysis of the role and importance of sci
 
 -weigh the ethical problems of science and use of science
 
-An example of syllabus for the subject mathematics (primary school) https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucninacrti/obvezni/UN_matematika.pdf
+An example of syllabus for the subject mathematics (primary school) https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucni-nacrti/obvezni/UN_matematika.pdf
 
 -It is written among other things in the general objectives that students accept and experience mathematics as a cultural value.
 
 -In connection with natural science subjects, we encourage natural sciences and mathematics capacities for the development of complex thinking and relationship and decision-making competence: ability for responsible and active participation in solving problems and in sustainable development .
 
-An example of syllabus for the subject mathematics (secondary school) http://eportal.mss.edus.si/msswww/programi2018/programi/media/pdf/un_gimnazija/un_matem atika_gimn.pdf
+An example of syllabus for the subject mathematics (secondary school) http://eportal.mss.edus.si/msswww/programi2018/programi/media/pdf/un_gimnazija/un_matematika_gimn.pdf
 
--Culture education is an integral element of all subjects, including mathematics. As a central element of lifelong learning, it significantly contributes to the comprehensive development of the personality of every individual. It is of key importance of that the freedom of the creator and receiver is respected. It enables an individual to understand the importance and learn about the culture of their own nation and gain awareness of their affiliation to this culture. We encourage awareness about the importance of contribution of Slovenians to the culture of mathematics, respectful attitude to other cultures and interdialogue. In connection with mathematics, the teacher enables students to empirically
+-Culture education is an integral element of all subjects, including mathematics. As a central element of lifelong learning, it significantly contributes to the comprehensive development of the personality of every individual. It is of key importance of that the freedom of the creator and receiver is respected. It enables an individual to understand the importance and learn about the culture of their own nation and gain awareness of their affiliation to this culture. We encourage awareness about the importance of contribution of Slovenians to the culture of mathematics, respectful attitude to other cultures and inter-dialogue. In connection with mathematics, the teacher enables students to empirically
 
 [[END OF PAGE 33]]
 
@@ -1032,13 +1017,14 @@ learn about various fields of culture: music, fine arts, theatre, dance, film, r
 
 -A student critically reflects their own knowledge (learning to learn); constructively controls emptions, respect themselves and fellow human beings, develops integrity (fairness and openness), develops capabilities to work in groups, responsible attitude and values, develops and improves the critical and fair attitude to the world (social and civic competences ).
 
-##### Institute of the Republic of Slovenia for Vocational Education and Training (CPI): ESD -
+##### Institute of the Republic of Slovenia for Vocational Education and Training (CPI):
+ESD -
 
 -example for SQF 4, EQF 4, all educational programmes in the field of biotechnology https://cpi.si/poklicno-izobrazevanje/izobrazevalni-programi/programi/spi/
 
 -example for SQF 5, EQF 4, all educational programmes in the field of biotechnology https://cpi.si/poklicno-izobrazevanje/izobrazevalni-programi/programi/ssi/
 
--Examples for SQF 6, EQF 5 - https://cpi.si/poklicno-izobrazevanje/izobrazevalniprogrami/programi/vsi/
+-Examples for SQF 6, EQF 5 - https://cpi.si/poklicno-izobrazevanje/izobrazevalni-programi/programi/vsi/
 
 GCED - http://eportal.mss.edus.si/msswww/programi2020/programi/
 
@@ -1046,15 +1032,15 @@ GCED - http://eportal.mss.edus.si/msswww/programi2020/programi/
 
 Concrete examples of study programmes and syllabuses may be found on the following web pages:
 
--Pre-school education -https://www.pef.upr.si/izobrazevanje/dodiplomski_studij_1%20_stopnje/predsolska_vzgoja _(vs)/od_2018-2019/ in https://www.pef.upr.si/izobrazevanje/podiplomski_studij_2%20_stopnje/zgodnje_ucenje/o d_2016-2017/
+-Pre-school education - https://www.pef.upr.si/izobrazevanje/dodiplomski_studij_1%20_stopnje/predsolska_vzgoja_(vs)/od_2018-2019/ in https://www.pef.upr.si/izobrazevanje/podiplomski_studij_2%20_stopnje/zgodnje_ucenje/od_2016-2017/
 
--Primary school teaching https://www.pef.upr.si/izobrazevanje/dodiplomski_studij_1%20_stopnje/razredni_pouk_(un )/od_2018-2019/ in https://www.pef.upr.si/izobrazevanje/podiplomski_studij_2%20_stopnje/razredni_pouk/
+-Primary school teaching - https://www.pef.upr.si/izobrazevanje/dodiplomski_studij_1%20_stopnje/razredni_pouk_(un)/od_2018-2019/ in https://www.pef.upr.si/izobrazevanje/podiplomski_studij_2%20_stopnje/razredni_pouk/
 
 ##### University of Ljubljana:
 
--International Protection of Human Rights (https://www.fdv.uni-lj.si/en/news-andinformation/subjects/10078) course (The course introduces students to the concept of human rights, history of human rights protection and of international protection of human rights, analysis of the principles of universality and indivisibility of human rights, analysis of the principles of international law on friendly relations among states from the perspective of the development and functioning of the international regime for human rights protection. The purpose of the course is, for students to learn and understand human rights as well as mechanisms and politics of human rights protection in the contemporary international community and to monitor and assess criticaeutopially the development of human rights protection in the framework of structure of the contemporary international community. Learning and teaching methods: Lectures, seminars, presentations of research results, discussions, detailed analyses of primary documents on human rights, presentation and analysis of documentaries, discussions with practitioners, participation at human rights events at the faculty and elsewhere.)
+-International Protection of Human Rights (https://www.fdv.uni-lj.si/en/news-and-information/subjects/10078) course (The course introduces students to the concept of human rights, history of human rights protection and of international protection of human rights, analysis of the principles of universality and indivisibility of human rights, analysis of the principles of international law on friendly relations among states from the perspective of the development and functioning of the international regime for human rights protection. The purpose of the course is, for students to learn and understand human rights as well as mechanisms and politics of human rights protection in the contemporary international community and to monitor and assess criticaeutopially the development of human rights protection in the framework of structure of the contemporary international community. Learning and teaching methods: Lectures, seminars, presentations of research results, discussions, detailed analyses of primary documents on human rights, presentation and analysis of documentaries, discussions with practitioners, participation at human rights events at the faculty and elsewhere.)
 
--International protection of environment (https://www.fdv.uni-lj.si/en/news-andinformation/subjects/9205) course (The course introduces students to the ever-more pressing issue of environmental protection in the international community. This course
+-International protection of environment (https://www.fdv.uni-lj.si/en/news-and-information/subjects/9205) course (The course introduces students to the ever-more pressing issue of environmental protection in the international community. This course
 
 [[END OF PAGE 34]]
 
@@ -1062,7 +1048,7 @@ Concrete examples of study programmes and syllabuses may be found on the followi
 
 aims to explore the legal and policy dimensions of the EU action in the field of environment, taking into account and highlighting close interactions between its internal and external dimensions. The aim of the course is to provide students with insights on processes and relations among actors in the field of international protection of environment. EU and national perspectives will be employed to study environmental governance. Learning and teaching methods: Lectures, Individual/group work.)
 
--Corporate Social Responsibility (http://www.ef.unilj.si/content/static_english/predmet/predmet.asp?l=123&li=2421&predmet_id=196361) course (Students are introduced to corporate social responsibility and corporate sustainability concepts, trends, issues and theoretical schools and the Corporate Sustainability Model. Graduates understand the role of ethical theories in CSR development, key challenges of modern management and business practice and challenges in developing and implementing CSR/corporate sustainability projects, are able to develop program logic models for CSR/corporate sustainability projects and design strategy maps, develop and implement field study tools. Learning and teaching methods: Lectures, project (workshops), training, discussions, guests from the practice).
+-Corporate Social Responsibility (http://www.ef.uni-lj.si/content/static_english/predmet/predmet.asp?l=123&li=2421&predmet_id=196361) course (Students are introduced to corporate social responsibility and corporate sustainability concepts, trends, issues and theoretical schools and the Corporate Sustainability Model. Graduates understand the role of ethical theories in CSR development, key challenges of modern management and business practice and challenges in developing and implementing CSR/corporate sustainability projects, are able to develop program logic models for CSR/corporate sustainability projects and design strategy maps, develop and implement field study tools. Learning and teaching methods: Lectures, project (workshops), training, discussions, guests from the practice).
 
 -Environmental protection (https://www.uni-lj.si/study/doctoral/environmental-protection/) programme (Interdisciplinary education of highly qualified professionals who will be able to solve complex problems with an interdisciplinary approach. Includes courses like: Ecology with nature conservation, Economic and Law of Environmental Management, Environmental chemistry and technology, Crisis management, Disaster medicine, environment, health, and wellbeing, Environmental and sociological aspects of sustainable development, Seismology and earthquake engineering, Risk Management, The Interdisciplinary Aspects of Rural Areas Protection and more basic or elective courses. The main emphasis of the programme is the students' research work.)
 
@@ -1158,19 +1144,19 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 39]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation)
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
-The Ministry of education publishes in-service programmes each year and co-finances them on the basis of mandatory evaluations of the programme implementation (by interviewing participants in the programme). The offered programmes are published in the Catalogue of programmes for further education and training of professional workers in education . The catalogue is publicly available on the MESS website (in Slovenian): highlighted as a priority topic for the publication of programs, and the competencies acquired by opportunities for co-financing programs. In 2021/22, as a response to the importance of the ESD
-
-https://paka3.mss.edus.si/katis/Uvodna.aspx. It is worth mentioning that, in the tender from spring 2018 (for school year 2018/2019), the MESS defined seven priority topics of further education, including the ESD topic . In the tender for the school year 2020/2021, the ESD is set as one of the most important criteria in the evaluation and selection of programs for publication in the above-mentioned Catalogue. In the following years, ESD is explicitly professionals in the field of ESD are those that contribute to higher evaluation and thus greater area, several priority topics have been announced for the area of sustainable development: education for sustainable development and active citizenship, ensuring equal opportunities for vulnerable groups and social emotional competences and well-being in education (empowering professionals to deal with mental health and addiction).
+The Ministry of education publishes in-service programmes each year and co-finances them on the basis of mandatory evaluations of the programme implementation (by interviewing participants in the programme). The offered programmes are published in the Catalogue of programmes for further education and training of professional workers in education. The catalogue is publicly available on the MESS website (in Slovenian):
+https://paka3.mss.edus.si/katis/Uvodna.aspx.
+It is worth mentioning that, in the tender from spring 2018 (for school year 2018/2019), the MESS defined seven priority topics of further education, including the ESD topic. In the tender for the school year 2020/2021, the ESD is set as one of the most important criteria in the evaluation and selection of programs for publication in the above-mentioned Catalogue. In the following years, ESD is explicitly highlighted as a priority topic for the publication of programs, and the competencies acquired by professionals in the field of ESD are those that contribute to higher evaluation and thus greater opportunities for co-financing programs. In 2021/22, as a response to the importance of the ESD area, several priority topics have been announced for the area of sustainable development: education for sustainable development and active citizenship, ensuring equal opportunities for vulnerable groups and social emotional competences and well-being in education (empowering professionals to deal with mental health and addiction).
 
 These include, among others, programmes in the field of safe and encouraging learning environment (the project "Only Others Make Us What We Are" (2016 -2021), the project "Hand in hand for Help", the project "Strengthening competences of professional staff in the field of managing an innovative educational institute in 2016 -2021", the project "HAND IN HAND (Social and emotional skills for a non-discriminatory and inclusive community 2017-2020).
 
-The ESD is not explicitly stated in the Catalogue of Knowledge Standards of the compulsory programme of the National School of Leadership in Education NSLE (for the head examination); however, it includes various aspects important for the implementation of the ESD in kindergartens and schools (teamwork, problem learning, conflict resolution, school vision, action plans, etc.). A quick overview of other programmes does not reveal an explicitly stated area of ESD learning as a single entity either; however, important individual topics from the field of ESD are present.
+The ESD is not explicitly stated in the Catalogue of Knowledge Standards of the compulsory programme of the National School of Leadership in Education - NSLE (for the head examination); however, it includes various aspects important for the implementation of the ESD in kindergartens and schools (teamwork, problem learning, conflict resolution, school vision, action plans, etc.). A quick overview of other programmes does not reveal an explicitly stated area of ESD learning as a single entity either; however, important individual topics from the field of ESD are present.
 
--Tatjana Ažman, Mihaela Zavašnik, Frančiška Al -Mansour, Nives Cek, Tea Dolinar, Aleksander Jeršič, Ana Nuša Kern, Marina Kmet, Petra Korošec, Erna Meglič, Katarina Pajer Povh, Rok Pekolj, Barbara Žitnik Ternovec, Štefan Žun. 2019. Soustvarjanje inovativnih učnih okolij: primeri dobrih praks vodenja (Creating innovative learning environments: examples of good leadership practices): http://solazaravnatelje.si/wpcontent/uploads/2019/12/SR_MRR_Prirocnik_zadnji_tisk.pdf
+-Tatjana Ažman, Mihaela Zavašnik, Frančiška Al-Mansour, Nives Cek, Tea Dolinar, Aleksander Jeršič, Ana Nuša Kern, Marina Kmet, Petra Korošec, Erna Meglič, Katarina Pajer Povh, Rok Pekolj, Barbara Žitnik Ternovec, Štefan Žun. 2019. Soustvarjanje inovativnih učnih okolij: primeri dobrih praks vodenja (Creating innovative learning environments: examples of good leadership practices): http://solazaravnatelje.si/wp-content/uploads/2019/12/SR_MRR_Prirocnik_zadnji_tisk.pdf
 
 -Tatjana Ažman, Mihaela Zavašnik, Tatjana Blaži, Liana Cerar, Suzana Deutsch, Silvija Hajdinjak Prendl, Jelka Kitak, Petra Korošec, Natalija Kotar, Marjana Mastinšek Šuštar, Erna Meglič, Helena Ule, Barbara Žitnik Ternovec, Simona Žnidar. 2021. Soustvarjanje inovativnih učnih okolij: primeri dobrih praks vodenja. (v oblikovanju) / Co-creation of innovative learning environments: examples of good leadership practices. (The publication is expected to be published in 2021)
 
@@ -1178,11 +1164,11 @@ The ESD is not explicitly stated in the Catalogue of Knowledge Standards of the 
 
 [[START OF PAGE 40]]
 
-NSLE also provides non compulsory programmes for headteachers, middle management and teachers. In the programme Mreže ravnate ljev za razvoj vodenja (Headteachers networks for leadership development) principals share good practices including environmental and wellbeing topics) and publish them every year. NSLE offers counseling to kindergartens and schools principals and development teams on the topic of violence prevention in schools and kindergartens.
+NSLE also provides non compulsory programmes for headteachers, middle management and teachers. In the programme Mreže ravnateljev za razvoj vodenja (Headteachers networks for leadership development) principals share good practices including environmental and wellbeing topics) and publish them every year. NSLE offers counseling to kindergartens and schools - principals and development teams on the topic of violence prevention in schools and kindergartens.
 
--Conference of the  National  Education  Institute  Slovenia  "Global  learning  for  encouraging sustainable development in education' (Ljubljana, 7 December 2018). Programme available at: https://www.zrss.si/zrss/wp-content/uploads/globalno-ucenje-za-spodbujanjetrajnostnega-razvoja-v-vzgoji-in-izobrazevanju_zadnji.pdf
+-Conference of the National Education Institute Slovenia "Global learning for encouraging sustainable development in education" (Ljubljana, 7 December 2018). Programme available at: https://www.zrss.si/zrss/wp-content/uploads/globalno-ucenje-za-spodbujanje-trajnostnega-razvoja-v-vzgoji-in-izobrazevanju_zadnji.pdf
 
--Professional training programme intended for school teams and individuals who would like to introduce various approaches to ESD at the school level and in their lessons. Students learn about  the  possibilities  for  a  comprehensive,  inter-disciplinary  and  systemic  approach  to introducing ESD at the school level. By means of theoretical starting points and exchange of experience, they learn about possible approaches to the planning of activities that combine various aspects of ESD in teaching and also as part of extracurricular activities. We present the connecting points between global learning and ESD and the importance of awarenessraising and taking measures to adapt to climate change and transition to low-carbon society. Available at: https://paka3.mss.edus.si/Katis/ProgramPrijava.aspx?ID=4466&A=detailKP
+-Professional training programme intended for school teams and individuals who would like to introduce various approaches to ESD at the school level and in their lessons. Students learn about the possibilities for a comprehensive, inter-disciplinary and systemic approach to introducing ESD at the school level. By means of theoretical starting points and exchange of experience, they learn about possible approaches to the planning of activities that combine various aspects of ESD in teaching and also as part of extracurricular activities. We present the connecting points between global learning and ESD and the importance of awareness-raising and taking measures to adapt to climate change and transition to low-carbon society. Available at: https://paka3.mss.edus.si/Katis/ProgramPrijava.aspx?ID=4466&A=detailKP
 
 -5th conference of teachers of natural science subjects -NAK 2019: "Education for present and  future"  (Laško,  23  and  24  October  2019).  Section  lectures:  EDUCATION  FOR SUSTAINABLE DEVELOPMENT (ESD). Available at: https://nak2019.splet.arnes.si/program-sreda/
 
@@ -1192,9 +1178,9 @@ NSLE also provides non compulsory programmes for headteachers, middle management
 
 -Conference "Sustainable mobility in EDS" (2017, 2018, 2019) https://skupnost.sio.si/course/view.php?id=9477.
 
--Conference  "Languages  in  education  (2018)  https://www.zrss.si/objava/event/nacionalnakonferenca-jeziki-v-izobrazevanju?instance_id=1332
+-Conference "Languages in education (2018) https://www.zrss.si/objava/event/nacionalna-konferenca-jeziki-v-izobrazevanju?instance_id=1332
 
--Conference of general primary school teachers https://www.zrss.si/objava/event/konferencauciteljev-razrednega-pouka-utiramo-poti-ucenju-na-razredni-stopnji?instance_id=1301
+-Conference of general primary school teachers https://www.zrss.si/objava/event/konferenca-uciteljev-razrednega-pouka-utiramo-poti-ucenju-na-razredni-stopnji?instance_id=1301
 
 -Conference of teachers of social science, art and humanities subjects SPIRIT, 28 September 2018 https://www.zrss.si/objava/event/1-konferenca-duh?instance_id=1399
 
@@ -1204,7 +1190,7 @@ NSLE also provides non compulsory programmes for headteachers, middle management
 
 Occasionally using a special questionnaire for students, the Faculty of Education UL checks their knowledge and skills in the field of ESD, as well as their views on the role of the future teacher in this field. /…/ SD principles. The Faculty of Education trains students of all study courses for this important comprehensive  institutional and  action  approach  to  developing  the  necessary competences in the framework of the Eco-school programme implementation.
 
-UL FF: V kurikulu predmetov, ki so namenjeni strokovnemu izobraževanju in usposabljanju bodočih učiteljev, cilji GCED in ESD niso posebej omenjeni. So pa prisotni v številniih predmetih, predv sem s področja varstva okolja, ekološke geografije in didaktike.
+UL FF: V kurikulu predmetov, ki so namenjeni strokovnemu izobraževanju in usposabljanju bodočih učiteljev, cilji GCED in ESD niso posebej omenjeni. So pa prisotni v številniih predmetih, predvsem s področja varstva okolja, ekološke geografije in didaktike.
 
 UP PEF ne ponuja posebnih programov nadaljnjega usposabljanja s področja GCED in ESD.
 
@@ -1224,7 +1210,7 @@ Kako izvajamo program? Poročilo za šolsko leto 2019/2020:
 
 https://www.nijz.si/sites/www.nijz.si/files/uploaded/porocilo_zs_2019_2020_koncna_27_1_21.pdf
 
-The programme Eco-Schools Slovenia develops and organizes education courses for teachers covering a broad range of topics and teaching techniques to support ESD and Global Education. Education courses include conferences, practical workshops on themes and topics as well as presentation  of  didactical  tools  and  recommended  approaches  to  successfully  implement sustainable projects and activities. The knowledge sharing is encouraged through selection and exchange of best practices, being presented in the web-based platform Ekoskladovnica and EcoSchools Slovenia website as well as in several manuals and other resources. Many resources as combines  also  with  practices  from  global  network  to  provide  teachers  global  perspective  and possibilities on selected themes, skills and experiences. All resources are accessible and available to everybody.
+The programme Eco-Schools Slovenia develops and organizes education courses for teachers covering a broad range of topics and teaching techniques to support ESD and Global Education. Education courses include conferences, practical workshops on themes and topics as well as presentation of didactical tools and recommended approaches to successfully implement sustainable projects and activities. The knowledge sharing is encouraged through selection and exchange of best practices, being presented in the web-based platform Ekoskladovnica and Eco-Schools Slovenia website as well as in several manuals and other resources. Many resources as combines also with practices from global network to provide teachers global perspective and possibilities on selected themes, skills and experiences. All resources are accessible and available to everybody.
 
 ##### ASPnet Slovenia / Slovenian UNESCO Schools
 
@@ -1234,11 +1220,15 @@ What's more, the Slovenian ASPnet educates about intercultural dialogue and huma
 
 For all these areas, institutions such as the Ministry of Education, the National Institute for Education, Educational Research Institute and National School for Leadership in Education are available, which enable individual professionals in the entire vertical of professional development in this field. For teachers who implement national ASPnet projects and for year-round coordination of work on the mentioned topics in their school / institution, the Ministry of Education recognizes this type of professional work, which they can apply for their promotion.
 
-We want as many topics of the UNESCO ASP principles as possible to become the core curriculum of primary and secondary schools, which means that selected topics would be addressed within regular classes. Our goal is for all students of one school to deal with individual topics, i.e., to establish conditions for whole-school projects at the school. The Slovenian ASP network is well on its way to implementing such set goals in the foreseeable future. All this requires the training of professionals. Fortunately, we have good experts for this, also in the school field. Guidelines for the idea of global citizenship, and even more so for sustainable development, have become an everyday topic in the field of economy (tourism, industry) as well as in the field of education. The more we integrate the topic into the everyday life of young people (also through education), the sooner and better the desired results will be shown.
+We want as many topics of the UNESCO ASP principles as possible to become the core curriculum of primary and secondary schools, which means that selected topics would be addressed within regular classes. Our goal is for all students of one school to deal with individual
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+topics, i.e., to establish conditions for whole-school projects at the school. The Slovenian ASP network is well on its way to implementing such set goals in the foreseeable future.
+
+All this requires the training of professionals. Fortunately, we have good experts for this, also in the school field. Guidelines for the idea of global citizenship, and even more so for sustainable development, have become an everyday topic in the field of economy (tourism, industry) as well as in the field of education. The more we integrate the topic into the everyday life of young people (also through education), the sooner and better the desired results will be shown.
 
 Finally, we are guided by the implementation of the four Delors pillars in education for the 21st century through school projects, which is one of the main activities of the ASP of Slovenian schools.
 
@@ -1256,9 +1246,9 @@ SNHPS integrate health promotion into curricular subjects which already include 
 
 ##### Eco schools:
 
--Konferenca Globalno učenje za spodbujanje trajnostnega razvoja v vzgoji in izobraževanju, Ljubljana, 07. 12. 2018. https://www.slideserve.com/genica/posodobitev-didakti-nihpristopov-okoljska-vzgoja-kot-vitr
+-Konferenca Globalno učenje za spodbujanje trajnostnega razvoja v vzgoji in izobraževanju, Ljubljana, 07. 12. 2018. https://www.slideserve.com/genica/posodobitev-didakti-nih-pristopov-okoljska-vzgoja-kot-vitr
 
--Naci onalni forum o globalnem učenju ter vzgoji in izobraževanju za trajnostni razvoj, Brdo pri Kranju, 16. 05. 2018
+-Nacionalni forum o globalnem učenju ter vzgoji in izobraževanju za trajnostni razvoj, Brdo pri Kranju, 16. 05. 2018
 
 [[END OF PAGE 42]]
 
@@ -1268,9 +1258,9 @@ SNHPS integrate health promotion into curricular subjects which already include 
 
 ###### Eco Quiz in primary schools:
 
-- 6th grade: FOOD: https://ekosola.si/wp-content/uploads/2021/01/Hrana-in-mi-gradivo-zaEkokviz-2020_2021.pdf
+- 6th grade: FOOD: https://ekosola.si/wp-content/uploads/2021/01/Hrana-in-mi-gradivo-za-Ekokviz-2020_2021.pdf
 
-- 7th grade: carbon footprint/circular economy : https://ekosola.si/wpcontent/uploads/2020/12/OGLJI%C4%8CNI-ODTIS-gradivo-za-tekmovanje-izekoznanja-za-7.-razred.pdf
+- 7th grade: carbon footprint/circular economy: https://ekosola.si/wp-content/uploads/2020/12/OGLJI%C4%8CNI-ODTIS-gradivo-za-tekmovanje-iz-ekoznanja-za-7.-razred.pdf
 
 - 8th grade: ENERGY: https://drive.google.com/file/d/10v-r9R-TAWhAVpWagAr6Jd6gdF-wb_5H/view
 
@@ -1286,13 +1276,11 @@ SNHPS integrate health promotion into curricular subjects which already include 
 
 ###### 7th grade:
 
-- Circular economy: https://ekosola.si/wp-content/uploads/2021/02/Dodatno-gradivo-za-7.razred-dr%C5%BEavno-tekmovanje-v-ekokvizu.pdf
+- Circular economy: https://ekosola.si/wp-content/uploads/2021/02/Dodatno-gradivo-za-7.-razred-dr%C5%BEavno-tekmovanje-v-ekokvizu.pdf
 
 - Price of plastic: https://www.rtvslo.si/4d/arhiv/174598338?s=tv
 
-8th grade: Energy: https://www.esvet.si
-
-/
+8th grade: Energy: https://www.esvet.si/
 
 ###### Eco Quiz in secondary schools: ENERGY AND CARBON FOOTPRINT :
 
@@ -1300,7 +1288,7 @@ https://drive.google.com/file/d/1UnG1RsjjW_DXfVaurS3ARID0akq4iLty/view
 
 ###### Professional seminars for mentors in primary and secondary schools and the Educational Research Institute (online and in person):
 
--https://ekosola.si/regijsko-srecanje-koordinatorjev-osnovnih-sol-in-delavnica-ekosola-meri-odtisco2-preko-spleta/
+-https://ekosola.si/regijsko-srecanje-koordinatorjev-osnovnih-sol-in-delavnica-ekosola-meri-odtis-co2-preko-spleta/
 
 -https://ekosola.si/posnetek-predstavitve-in-gradivo-spletnega-seminarja-iz-cesa-so-izdelani/
 
@@ -1310,7 +1298,7 @@ https://drive.google.com/file/d/1UnG1RsjjW_DXfVaurS3ARID0akq4iLty/view
 
 -https://ekosola.si/posnetek-in-predstavitve-spletnega-seminarja-oblikovalski-izziv/
 
--https://ekosola.si/posnetek-in-predstavitve-spletne-izobrazevalne-delavnice-gozd-in-gozdarstvov-sloveniji/
+-https://ekosola.si/posnetek-in-predstavitve-spletne-izobrazevalne-delavnice-gozd-in-gozdarstvo-v-sloveniji/
 
 -https://ekosola.si/druga-spletna-delavnica-hrana-ni-za-tjavendan/
 
@@ -1318,7 +1306,7 @@ https://drive.google.com/file/d/1UnG1RsjjW_DXfVaurS3ARID0akq4iLty/view
 
 -https://ekosola.si/prva-delavnica-projekta-erasmus-change-your-role-spremeni-svojo-vlogo/
 
--https://ekosola.si/ekosola-meri-odtis-co2-izvedene-delavnice-na-os-brsljin-in-os-leskovec-prikrskem/
+-https://ekosola.si/ekosola-meri-odtis-co2-izvedene-delavnice-na-os-brsljin-in-os-leskovec-pri-krskem/
 
 ###### Webinars:
 
@@ -1338,15 +1326,14 @@ https://drive.google.com/file/d/1UnG1RsjjW_DXfVaurS3ARID0akq4iLty/view
 
 [[START OF PAGE 44]]
 
-Europe in School: https://www.zpms.si/programi/evropa-v-soli/
-
 - https://ekosola.si/iii-mednarodna-strokovna-konferenca-zaposlenih-v-vzgoji-in-izobazevanju/
 
 - Letna konferenca programa Ekošola- vedno z vsebinami VITR gostujočih predavateljev: https://ekosola.si/s-konference-koordinatorjev-predstavitve-programa-dela-in-projektov/
 
-- https://ekosola.si/konferenca-koordinatorjev-letos-prvic-tudi-prek-spleta-na-novo-plapola-sest- novih-zelenih-zastav/
+- https://ekosola.si/konferenca-koordinatorjev-letos-prvic-tudi-prek-spleta-na-novo-plapola-sest-novih-zelenih-zastav/
 
-Eco School paper - monthly: https://ekosola.si/ekosolski-list-spletno-glasilo-programa-ekosola/ Eko Portal: https://eko-portal.si/
+Eco School paper - monthly: https://ekosola.si/ekosolski-list-spletno-glasilo-programa-ekosola/
+Eko Portal: https://eko-portal.si/
 
 ###### Preparation of EDS content for mentors during lockdown - remote teaching (2020/21):
 
@@ -1370,15 +1357,15 @@ Eco School paper - monthly: https://ekosola.si/ekosolski-list-spletno-glasilo-pr
 
 - https://ekosola.si/ogljicni-odtis-ogrevanja/
 
-- national conferences on GCE 2018: http://www.sloga-platform.org/dogodek/4-nacionalna- konferenca-globalnega-ucenja/
+4. national conferences on GCE 2018: http://www.sloga-platform.org/dogodek/4-nacionalna-konferenca-globalnega-ucenja/
 
-- national conferences on GCE 2019: https://www.sloga-platform.org/dogodek/5-nacionalna- konferenca-globalnega-ucenja-moc-zensk/
+5. national conferences on GCE 2019: https://www.sloga-platform.org/dogodek/5-nacionalna-konferenca-globalnega-ucenja-moc-zensk/
 
-Motivational day for teachers in GCE 2018: https://tuditi.si/mladi-izobrazevalci-dobili-zalet-na- motivacijskem-dnevu-za-globalno-ucenje/
+Motivational day for teachers in GCE 2018: https://tuditi.si/mladi-izobrazevalci-dobili-zalet-na-motivacijskem-dnevu-za-globalno-ucenje/
 
 Motivational day for teachers in GCE 2016: https://tuditi.si/ucitelji-motivirani-za-globalno-ucenje/
 
-Club of global education teachers: https://www.humanitas.si/klub-uciteljic-in-uciteljev- globalnega-ucenja/
+Club of global education teachers: https://www.humanitas.si/klub-uciteljic-in-uciteljev-globalnega-ucenja/
 
 Europe in School: https://www.zpms.si/programi/evropa-v-soli/
 
@@ -1386,9 +1373,9 @@ Europe in School: https://www.zpms.si/programi/evropa-v-soli/
 
 [[START OF PAGE 45]]
 
-#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
 
-#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -1399,7 +1386,7 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 1 | 1
 For teachers of other subjects | 1 | 1 | 1 | 1
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1418,13 +1405,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 46]]
 
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
-
-#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
-
-### Student assessment (paras 4 and 5 of the 1974 Recommendation )
-
-#### D1a.  Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills  related  to  the  topics  being  tested  or  also  on  their  values,  attitudes  and/or behaviours.
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1435,14 +1416,20 @@ Skills | 1 | 1 | 1 | 1
 Values | 1 | 1 | 1 | 1
 Attitudes and behaviours | 1 | 1 | 1 | 1
 
+#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 0
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 1
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 1
+Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 1
+Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 1
+Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 1
+
+### D. Student assessment (paras 4 and 5 of the 1974 Recommendation)
+
+#### D1a. Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills related to the topics being tested or also on their values, attitudes and/or behaviours.
 
 Considering the objectives and standards of knowledge in individual syllabi, certain GCED and ESD content is included in regular assessment in individual subjects (compulsory and optional) and in external examination at the end of primary and secondary school.
 
@@ -1454,11 +1441,13 @@ Assessment is not made in the pre-school education period.
 
 According to the Statue of University of Ljubljana, knowledge, skills and competences for each individual subject are examined and evaluated, in the manner determined by the study programme or in the curricula.
 
-Diverse variety of assessments are used in classrooms to assess student knowledge and skills. Traditional forms of assessment (e.g. standardized tests and exams, seminars and presentations of practical and project work) are used, as well as formative (e.g. discussions, observations). Some other forms of assessment less often used include peer assessment, selfassessment, and reflections.
+Diverse variety of assessments are used in classrooms to assess student knowledge and skills. Traditional forms of assessment (e.g. standardized tests and exams, seminars and presentations of practical and project work) are used, as well as formative (e.g. discussions, observations). Some other forms of assessment less often used include peer assessment, self-
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
+
+assessment, and reflections.
 
 Teachers also use classroom observations and project work to see learning and behavioral outcomes, and also use ad-hoc questionnaires to get additional information about values and attitudes toward sustainable development or ethical themes. Though this are usually not part of the formal assessment or grade but provide an opportunity to assess for example ability to communicate and collaborate with others (e.g. through project work), attitudes such as empathy and respect for others (e.g. through observations). Questionnaires are usually delivered anonymously, thus providing information about attitudes or behavioural changes (for a specific topic like sustainability) only for group or generation of students (not individuals).
 
@@ -1477,7 +1466,7 @@ Students assessment and examinations are covered within selected projects assess
 
 Programme Eco-Schools Slovenia is based on interdisciplinary approach an experiences-based learning with the purpose to increase knowledge, skills and competences, leadership in sustainability, innovation in sustainability, values and changes in behavior. To reach its goals, focus of the programme Eco-Schools Slovenia is promoting more systematic approach toward practical learning and outdoor education systematic experience and practical learning to understand challenges arising from everyday life in relation to sustainable development. SDGs will be included to plans and to the content on higher scale.
 
-Each institution is processing its plans, implementation and control of its activities through the 7step methodology of the programme Eco-Schools. 7 steps methodology is a process of work of individual institution to receive the Green flag, the internationally recognized label for sustainable education. 7-step methodology is a series of carefully engineered tools to help schools maximize the success of their Eco-School ambitions. The method involves a wide diversity of individual profiles from the school community - with students playing a primary role in the process as well.
+Each institution is processing its plans, implementation and control of its activities through the 7-step methodology of the programme Eco-Schools. 7 steps methodology is a process of work of individual institution to receive the Green flag, the internationally recognized label for sustainable education. 7-step methodology is a series of carefully engineered tools to help schools maximize the success of their Eco-School ambitions. The method involves a wide diversity of individual profiles from the school community - with students playing a primary role in the process as well.
 
 ###### Step 1: Form an Eco Committee.
 The Eco-Schools Committee is the driving force behind the Eco-Schools process and is representing ideas of the whole institution. It is formed of pupils / students and their mentors. At least one pupil from each year group on Eco-Committee ensures whole school involvement. An Eco-Committee is supported by an adult Eco-Coordinator, but led by pupils.
@@ -1559,9 +1548,7 @@ The Eco-Schools programme is aiming to:
 
 -Respecting and protecting biodiversity in local and global frame/level.
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
-
-#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1575,6 +1562,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 6. | Environmental sustainability | 99 | 1 | 1 | 1
 7. | Human survival and well-being | 99 | 1 | 1 | 1
 8. | Sustainable consumption and production | 99 | 1 | 1 | 1
+
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1636,7 +1625,7 @@ Sub-national
 
 [[START OF PAGE 51]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
@@ -1683,7 +1672,7 @@ Slovenia was engaged in analytical work to promote GCED and ESD, in the frame of
 
 In Slovenia, there is a sound partnership with the SLOGA platform of non-governmental organizations (NGO), which work in the field of international development cooperation, global education and humanitarian aid. The aim of the platform is to connect and strengthen the partnerships among Slovenian NGOs, which are active and/or are raising awareness of Slovenian and European public about uneven distribution of global wealth and subsequent significance of global solidarity and interdependence.
 
-The link between our institutions has taken place via different projects, for example the Slovenian Lifelong Learning Weeks and Bridge 47. SIAE acts as the national and SLOGA as the thematic coordinator of several events that call attention to the close link between formal, nonformal and informal adult education and learning and the subsequent attainment of SDGs.
+The link between our institutions has taken place via different projects, for example the Slovenian Lifelong Learning Weeks and Bridge 47. SIAE acts as the national and SLOGA as the thematic coordinator of several events that call attention to the close link between formal, non-formal and informal adult education and learning and the subsequent attainment of SDGs.
 
 [[END OF PAGE 52]]
 
@@ -1699,7 +1688,7 @@ In the context of the promotion of GCED and / or ESD, the role of study circles 
 
 Some valuable projects, programs, and initiatives in the country (e.g. Know your lifestyle) that have already been completed, due to lack of financial support and short-term priorities, have not been extended. However, we hope that we will be able to implement some of them in the becoming period and in cooperation with partners at local, national and international levels.
 
-SLOGA is also active on EU level for Global Education. In the last years, mainly through EUfunded project Bridge 47. Within the project, the 'Envision 4.7 Policy Paper on Lifelong Learning was prepared, outlining how the European Commission's six policy priorities for 2019-2024 (the Green Deal, Future of Europe, Digital Education Plan, A Strong Social Europe for Just Transition, European Education Area and New European Consensus on Development) all stand to benefit from the inclusion and implementation of SDG Target 4.7, which focuses on transformative education. This is life-long and value-based learning, designed to promote global citizenship, sustainable development, human rights and gender equality.
+SLOGA is also active on EU level for Global Education. In the last years, mainly through EU-funded project Bridge 47. Within the project, the 'Envision 4.7 Policy Paper on Lifelong Learning was prepared, outlining how the European Commission's six policy priorities for 2019-2024 (the Green Deal, Future of Europe, Digital Education Plan, A Strong Social Europe for Just Transition, European Education Area and New European Consensus on Development) all stand to benefit from the inclusion and implementation of SDG Target 4.7, which focuses on transformative education. This is life-long and value-based learning, designed to promote global citizenship, sustainable development, human rights and gender equality.
 
 [[END OF PAGE 53]]
 
@@ -1712,7 +1701,7 @@ SLOGA is also active on EU level for Global Education. In the last years, mainly
 ##### Education for sustainable development (ESD) .
 In this field, certain analyses were conducted recently (2017-2019) on the state of inclusion of ESD content in the educational work in kindergartens and schools by the National Education Institute, on the achievements of students from the aspect of ESD content in the international surveys ICCS, PISA and TIMSS (performed by Educational Research Institute), while then first national forum on global education (GE) and ESD was organised in May 2018 in cooperation with the Ministry of Foreign Affairs and the Global Education European Network (GENE), which welcomed the integration of these fields of education (GE and ESD). When it comes to ESD and GE in connection with civic education, the Ministry for education, science and sport is planning two measures for the 2020-2022 period: 1) updating the existing national guidelines for ESD (2007) and 2) appointing an inter-sectoral and multi-stakeholder coordinating group in this special field (both objectives are also written down in the latest national Strategy for international development cooperation and humanitarian aid, the Ministry of Foreign Affairs, and the National Environment Protection Programme until 2030, the Ministry of the Environment and Spatial Planning).
 
-There were two partial analyses of the National Education Institute Slovenia on the integration of ESD into the curriculum and daily life of the educational institution as a whole. Both analyses were carried out on a small (unrepresentative) sample of kindergartens and schools. The first was carried out in school year 2016/2017 as a project assignment "Knowledge and competences important for achieving the objectives of the green economy in relation to climate change at the level of pre-school education, primary school and general secondary schools" and was financed by the MESP. The second partial analysis "The analysis of examples of activities which support SD and GE" (as a part of the broader Mapping of GE and ESD in Slovenia was carried out with the support of GENE in school year 2018/2019. (At the moment the concluding report is in the final stage of preparation.) Both analyses show that the wholeschool approach in kindergartens and schools has not been yet fully implemented; in the final evaluation, both analyses include the whole-school approach among priority areas for further work. The final report of the aforementioned project assignment, including the recommendations for kindergartens and schools, is published on the website of the NEIS web site for ESD: https://skupnost.sio.si/enrol/index.php?id=8652.
+There were two partial analyses of the National Education Institute Slovenia on the integration of ESD into the curriculum and daily life of the educational institution as a whole. Both analyses were carried out on a small (unrepresentative) sample of kindergartens and schools. The first was carried out in school year 2016/2017 as a project assignment "Knowledge and competences important for achieving the objectives of the green economy in relation to climate change at the level of pre-school education, primary school and general secondary schools" and was financed by the MESP. The second partial analysis "The analysis of examples of activities which support SD and GE" (as a part of the broader Mapping of GE and ESD in Slovenia was carried out with the support of GENE in school year 2018/2019. (At the moment the concluding report is in the final stage of preparation.) Both analyses show that the whole-school approach in kindergartens and schools has not been yet fully implemented; in the final evaluation, both analyses include the whole-school approach among priority areas for further work. The final report of the aforementioned project assignment, including the recommendations for kindergartens and schools, is published on the website of the NEIS web site for ESD: https://skupnost.sio.si/enrol/index.php?id=8652.
 
 SLOGA has published a report on the state Global Citizenship Education in Slovenia with the  purpose  of  illustrating  the  importance  of  GCE  at  a  national  and  local  level  for  key stakeholders. Following an analysis of GCE in Slovenia conducted from June to September in 2019, the report presents an overview of local, national and European GCE policies, and a review of relevant national and foregin documents. The concept of GCE is also explored in  comparison  to  other  relevant  topics  in  Slovenia,  such  as  Education  for  Sustainable Development and Education for Global Citizenship. This report offers several recommendations  for  key  stakeholders,  which  will  serve  as  a  starting  point  for  further discussion, and the national presentation of the report with a round table discussion will take place on the 6th February 2019.The analysis was prepared by Jana Arbeiter from the Centre of International Relations (CIR) - Sloga's GCE partner within the Bridge 47 project - at the Faculty of Social Sciences at the University of Ljubljana.
 
@@ -1732,25 +1721,25 @@ The project of raising social and cultural capital in local communities for the 
 
 In this context, many good practices have emerged that have made students aware of environmental protection, waste separation, excessive consumption, etc.
 
--Ažma n, T., in S. Gradišnik. 2015. Socialni in kulturni kapital v šolah, vrtcih in njihovih okoljih. Ljubljana: Šola za ravnatelje. PDF | Flipbook
+- Ažman, T., in S. Gradišnik. 2015. Socialni in kulturni kapital v šolah, vrtcih in njihovih okoljih. Ljubljana: Šola za ravnatelje. PDF | Flipbook
 
 - Brejc, M., ur. 2015. Povezan.sem@boljši.si. Dvig socialnega in kulturnega kapitala v šolah, vrtcih in njihovih okoljih. Ljubljana: Šola za ravnatelje. PDF
 
--Ažman, T., L. Avguštin in S. Čagran. 2015. Skupno poročilo o izvajanju projekta Dvig socialnega in kulturnega kapitala v lokalnih skupnostih za razvoj enakih možnosti in spodbujanje socialne vključenosti 2013 -2015. Ljubljana: Šola za ravnatelje. PDF
+- Ažman, T., L. Avguštin in S. Čagran. 2015. Skupno poročilo o izvajanju projekta Dvig socialnega in kulturnega kapitala v lokalnih skupnostih za razvoj enakih možnosti in spodbujanje socialne vključenosti 2013-2015. Ljubljana: Šola za ravnatelje. PDF
 
 NSLE was a partner in LELENET project (https://lelenet.net/) 2017-2020. The main objectives of the project were:
 
-- to develop competencies of headteachers of primary schools (ISCED 1,2) for managing professional networks of teachers focused (not only) on the area of diversity management at schools and building a culture of networking at schools,
+1. to develop competencies of headteachers of primary schools (ISCED 1,2) for managing professional networks of teachers focused (not only) on the area of diversity management at schools and building a culture of networking at schools,
 
-- to develop competencies of the trainers of headteachers in the educational topic of professional networks by creating the training modules,
+2. to develop competencies of the trainers of headteachers in the educational topic of professional networks by creating the training modules,
 
-- to promote a cooperation and exchange of experience among the participating headteachers and their educators and indirectly also the support of the quality of teaching and diversity management at schools.
+3. to promote a cooperation and exchange of experience among the participating headteachers and their educators and indirectly also the support of the quality of teaching and diversity management at schools.
 
 NSLE is a partner in the project Empowering school principals for inclusive school cultures. ERASMUS+ training programme for primary and secondary school principals in Croatia and North Macedonia (2019-2021).
 
 The main aim is to empower school principals for inclusive school cultures, by:
 
--Conceptualizing inclusion, school culture, leadership role (professional selfunderstanding)
+- Conceptualizing inclusion, school culture, leadership role (professional self-understanding)
 
 -Defining leadership challenges and skills for building inclusive school cultures
 
@@ -1760,9 +1749,9 @@ The main aim is to empower school principals for inclusive school cultures, by:
 
 [[START OF PAGE 56]]
 
-As part of international and intercultural cooperation, interviews were conducted in 2020/2021 with principals from Germany, Sweden, Norway, the Netherlands and Belgium: http://solazaravnatelje.si/index.php/dejavnosti/mednarodna-dejavnost/mednarodnekonference (Scotland, Belgium, Iceland, Ireland, Sweden, Germany, Italy. It hosted a Serbian, Austrian
+As part of international and intercultural cooperation, interviews were conducted in 2020/2021 with principals from Germany, Sweden, Norway, the Netherlands and Belgium: http://solazaravnatelje.si/index.php/dejavnosti/mednarodna-dejavnost/mednarodne-konference
 
-From 2017 to 2020, NSLE carried out several visits by headmasters to other countries and Croatian delegation: http://solazaravnatelje.si/index.php/dejavnosti/mednarodnadejavnost/mednarodne-konference
+From 2017 to 2020, NSLE carried out several visits by headmasters to other countries (Scotland, Belgium, Iceland, Ireland, Sweden, Germany, Italy. It hosted a Serbian, Austrian and Croatian delegation: http://solazaravnatelje.si/index.php/dejavnosti/mednarodna-dejavnost/mednarodne-konference
 
 ##### University of Ljubljana:
 Several different researches have been carried out to better understand, develop and implement GCED and/or ESD themes in HE. They cover all sustainability dimensions (social, environmental, economic): projects (e.g. Design of Sustainable and Energy Self-Sufficient Processes Based on Renewable Resources, In search of sustainable and responsible consumption (SRC)), research programmes (e.g. Sustainable planning for the quality living space, Challenges of inclusive sustainable development in the predominant paradigm of economic and business sciences, Advanced Manufacturing Technologies for High Quality and Sustainable Production) and international projects (e.g. Gender Equality Actions in Research Institutions to traNsform Gender ROLES, Gender and health impacts of policies extending working life in western countries, Learning Together to Live Together: Teachers Leading Ethical Education for an Inclusive Society, CONSumer Energy Efficiency Decision Making). Empirical results of research projects, case studies developed and best practices learned were used in the study process, disseminated through events (workshops, round tables, special seminars) and included in curriculum to present up-to date knowledge and cases. Below, we additionally describe how the results of activities can be included in education through two international projects where University of Ljubljana was or still is included as a partner.
@@ -1785,11 +1774,11 @@ Slovenia has been active member of Schools for Health in Europe Network Foundati
 ##### University of Primorska:
 In the field of ESD and GCED, the University of Primorska participates in the following projects:
 
-- Preservation of the living environment: education in the community: Comparative analysis between the Republic of Slovenia and Bosnia and Herzegovina (Theoretical framework consists of the concepts of sustainable development and community education. All educational and other organizations in an environment constitute a common learning environment. The research is based on the role of different actors in forming and transforming ecological awareness). ecological consciousness) and practices of residents of different generations in the local environment.
+1. Preservation of the living environment: education in the community: Comparative analysis between the Republic of Slovenia and Bosnia and Herzegovina (Theoretical framework consists of the concepts of sustainable development and community education. All educational and other organizations in an environment constitute a common learning environment. The research is based on the role of different actors in forming and transforming ecological awareness). ecological consciousness) and practices of residents of different generations in the local environment.
 
-- Strengthening the competence of entrepreneurship and promoting a flexible transition between education and the environment in primary schools - POGUM (Courage): In the project POGUM/COURAGE, which means "Strengthening the competence of entrepreneurship and promoting flexible transition between education and environment in primary schools", we will promote the way of thinking and understanding entrepreneurship in primary schools as the ability to develop creativity, innovation and proactivity of the individual and groups.
+2. Strengthening the competence of entrepreneurship and promoting a flexible transition between education and the environment in primary schools - POGUM (Courage): In the project POGUM/COURAGE, which means "Strengthening the competence of entrepreneurship and promoting flexible transition between education and environment in primary schools", we will promote the way of thinking and understanding entrepreneurship in primary schools as the ability to develop creativity, innovation and proactivity of the individual and groups.
 
-- React! You are not alone 2020. The project is intended to inform and raise awareness of future pedagogical workers, pedagogical workers of the University of Primorska and other general public about various forms of violence, preventive practices, procedures and cooperation with external institutions, organizations, associations, etc. (Police, social work centers, Society for Nonviolent Communication, SOS Hotline for Women and Children - Victims of Violence, etc.).
+3. React! You are not alone 2020. The project is intended to inform and raise awareness of future pedagogical workers, pedagogical workers of the University of Primorska and other general public about various forms of violence, preventive practices, procedures and cooperation with external institutions, organizations, associations, etc. (Police, social work centers, Society for Nonviolent Communication, SOS Hotline for Women and Children - Victims of Violence, etc.).
 
 The Seeds of Change (2017/2018 ) was a developmental pilot project of the Government Office for Development and European Cohesion Policy (GODC), whose primary objective was to encourage primary schools (with teachers and pupils of the 5th grade participating as a rule) to become the bearers of change ("seeds of change"). They are encouraged to think about the future of education and life and to implement sustainable values, written in the Vision of Slovenia 2050.
 
@@ -1806,13 +1795,13 @@ Tasks of schools in the UNESCO ASPnet for the period 2017-2020 were: 1. achievin
 The main regular annual activities of ASPnet in Slovenia were the following: the annual meeting of the regional coordinators for the preparation of the annual plan; the main annual event of UNESCO Associated Schools in Slovenia: a meeting of pupils and students of all UNESCO ASP schools in the network (on the occasion of the Human Rights Day or the International Day of Peace); an annual seminar for mentors, principals and coordinators of UNESCO associated schools; cooperation between UNESCO schools at national level through projects (approx. 50 projects per year) and other activities; a printed annual report on implemented projects.
 
 ##### Projects of the Eco Schools programme in Slovenia .
-After 2015, with the adoption of the Agenda 2030, these projects are explicitly linked to SDGs. The programme's website is extremely rich, where all projects, tenders, reports, teaching and learning materials are published; since school year 2017/2018, also the collection of examples of good practice in the field of environmental education and ESD ("eco-stack"), available at the Ecoportal of the Eco School programme: https://eko-portal.si/home. From the viewpoint of informing and awareness-raising of the general public, we should especially mention the daily "News" (https://ekosola.si/novice/), and since 2015 also the monthly "Eco-school paper", the online newsletter of the Eco School programme (https://ekosola.si/ekosolski-listspletno-glasilo-programa-ekosola/). Vsakoletni nabor projektov, ki jih izbirajo mentorji na vsej pedagoški vertikali vsebuje tematsko vezane vsebinske koncepte VITR- dostopno na spletni strain Ekošole, v ekoakcijskih pregledih, za katere smo zelo razširili nabor možnih vsebin.
+After 2015, with the adoption of the Agenda 2030, these projects are explicitly linked to SDGs. The programme's website is extremely rich, where all projects, tenders, reports, teaching and learning materials are published; since school year 2017/2018, also the collection of examples of good practice in the field of environmental education and ESD ("eco-stack"), available at the Ecoportal of the Eco School programme: https://eko-portal.si/home. From the viewpoint of informing and awareness-raising of the general public, we should especially mention the daily "News" (https://ekosola.si/novice/), and since 2015 also the monthly "Eco-school paper", the online newsletter of the Eco School programme (https://ekosola.si/ekosolski-list-spletno-glasilo-programa-ekosola/). Vsakoletni nabor projektov, ki jih izbirajo mentorji na vsej pedagoški vertikali vsebuje tematsko vezane vsebinske koncepte VITR- dostopno na spletni strain Ekošole, v ekoakcijskih pregledih, za katere smo zelo razširili nabor možnih vsebin.
 
 The Slovenian network of healthy schools for promotion and awareness of health in the school environment celebrated its 25th anniversary in 2018. It is coordinated by the National Institute of Public Health. In 2016/2017, 375 primary and secondary schools, secondary schools' residential facilities and schools for children with special needs participated in the healthy schools network. "Healthy schools" participate in several programmes aimed at learning and raising awareness about healthy eating habits, healthy lifestyles, environmental protection and ecology, intergenerational cooperation, and in the last period (2016/2017, 2017/2018), a large part of programmes aimed at protecting mental health and emphasized care for regular physical activity. Lately, the healthy schools programme has been more closely defined by the principles and goals of sustainable development (Agenda 2030).
 
 There are many more projects, eg. The project "Sustainable.Local.Global" (2018-2020) is also run by the SLOGA platform and financed by the Ministry of Foreign Affairs.
 
-In the field of informal adult education (according to SIAE and MESP), we should single out at least three important projects aimed at raising awareness, promotion and empowerment for changes towards SD: 1) regulary once a year »Education for sustainability week« (2018) (financed by MESS): https://www.esdw.eu/events/studijskikrozki-v-slovenskem-prostoru-slovenian-study-circles-2/ , 2) »Implementation of an adult training programme for sustainable development and transition to the green economy in relation to climate change«, SIAE, 2016-2017, financed by the Climate Change Fund, MESP and 3) the international project, in which Slovenia was participated (2015-2018), »Cooperation for innovative approach in sustainable forest management training CIA2SFM«, financed by EC/Erasmus+ (more on project available at: https://www.acs.si/projekti/mednarodni/cia2sfm/).
+In the field of informal adult education (according to SIAE and MESP), we should single out at least three important projects aimed at raising awareness, promotion and empowerment for changes towards SD: 1) regulary once a year »Education for sustainability week« (2018) (financed by MESS): https://www.esdw.eu/events/studijski-krozki-v-slovenskem-prostoru-slovenian-study-circles-2/ , 2) »Implementation of an adult training programme for sustainable development and transition to the green economy in relation to climate change«, SIAE, 2016-2017, financed by the Climate Change Fund, MESP and 3) the international project, in which Slovenia was participated (2015-2018), »Cooperation for innovative approach in sustainable forest management training – CIA2SFM«, financed by EC/Erasmus+ (more on project available at: https://www.acs.si/projekti/mednarodni/cia2sfm/).
 
 In the field of ESD, the Centre for School and Outdoor Education (CŠOD) is a member of the largest European network of outdoor learning teachers, researchers and other practitioners, the EOE Network (European Institute for Outdoor Adventure Education and Experiential Learning). Since 2018, a representative of CŠOD has been the chair of this network and CŠOD is a very active member. The EOE Network annual international conference of 2018 was held in Slovenia and organised by CŠOD.
 
@@ -1826,7 +1815,7 @@ CŠOD has also coordinated and participated in numerous international projects a
 
 Another CŠOD field of international cooperation are activities for children of different nationalities with the aim of getting to know other cultures. These activities last several days and are primarily focused on embracing cultural diversity through getting to know new facts about other cultures as well as spending time and collaborating with people from other cultures.
 
-In the fields of cultural diversity and tolerance as well as human rights, Slovenia has had a strategy in place for the education of the Roma minority since 2004. Throughout 20172020 this strategy has been implemented through a national project of support to educational processes for Roma children - Together for knowledge - carried out by the Centre for School and Outdoor Education (CŠOD). Co-funded by the European Social Fund and the Republic of Slovenia, this project reaches a majority of Roma children in Slovenia with supporting activities in school as well as in their settlements. In addition to learning support, the project aims to bridge the gap between the minority and majority populations through promoting tolerance and understanding by exploring both cultures, sharing views and forming common values. The experience obtained during the project has informed the development of a revised strategy of Roma education in Slovenia, as well as the national plan of measures tied to the Roma community.
+In the fields of cultural diversity and tolerance as well as human rights, Slovenia has had a strategy in place for the education of the Roma minority since 2004. Throughout 2017-2020 this strategy has been implemented through a national project of support to educational processes for Roma children - Together for knowledge - carried out by the Centre for School and Outdoor Education (CŠOD). Co-funded by the European Social Fund and the Republic of Slovenia, this project reaches a majority of Roma children in Slovenia with supporting activities in school as well as in their settlements. In addition to learning support, the project aims to bridge the gap between the minority and majority populations through promoting tolerance and understanding by exploring both cultures, sharing views and forming common values. The experience obtained during the project has informed the development of a revised strategy of Roma education in Slovenia, as well as the national plan of measures tied to the Roma community.
 
 A thematic Eurydice Network study entitled Citizenship Education in Schools in Europe - 2017 was published in November 2017 (EC/EACEA/Eurydice, 2017. Eurydice Report. Luxembourg: Publications Office EU), which also included Slovenia. With regard to the inclusion of individual dimensions of civic education, the analysis of the curricula of European countries shows that in general the ecological dimension ("environmental protection") in the curriculum is included more often than the area of "sustainable development". Slovenia is classified in the group of countries or education systems whose curriculum includes a "relatively more specialised topic of sustainable development" (p. 65).
 
@@ -1834,7 +1823,7 @@ A thematic Eurydice Network study entitled Citizenship Education in Schools in E
 
 [[START OF PAGE 60]]
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1847,7 +1836,7 @@ Membership of international networks including ASPnet | 1 | 1 | 1 | 1
 Joint research projects on GCED and/or ESD with foreign institutions | 1 | 1 | 1 | 1
 Other activities (please specify):
 
-### Any other comments
+### I. Any other comments
 
 #### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
 
@@ -1857,11 +1846,13 @@ To speed up development and activities, research investments are needed to impro
 
 #### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
 
-A special topic in the field of ESD at all levels of education is (from kindergartens to upper secondary schools) the development of spatial literacy in terms of sustainable development, addressing school buildings in the context of sustainable construction and sustainable development. For this purpose, Playful architecture: a manua l for education on the built environment (NEIS, 2013) was prepared for kindergartens and schools, representing a basic tool for educating professional staff for teaching and developing spatial literacy in pupils - including in terms of sustainable values and principles. The MESS occasionally organizes conferences, seminars, consultations, etc. for teachers and principals on the topic of sustainable school architecture (in 2009, in cooperation with the OECD, the "Sustainable architecture of kindergartens and schools" international conference, the 2014 national seminar "Architecture and the Construction of Kindergartens", in the spring of 2018 an interdisciplinary seminar on the criteria of high-quality/sustainable architecture of kindergartens and schools); the ministry also finances multiannual R&D projects on school architecture and sustainable development, e.g. "Architecture of the School Space in the Function of the Hidden Curriculum" (2010-2012). The research project "Situation analysis of the architecture of public kindergartens and schools in Slovenia - recording, evaluation and protection of cases of high-quality (sustainable) architectural practice" followed (2017-2019).
+A special topic in the field of ESD at all levels of education is (from kindergartens to upper secondary schools) the development of spatial literacy in terms of sustainable development, addressing school buildings in the context of sustainable construction and sustainable development. For this purpose, Playful architecture: a manual for education on the built environment (NEIS, 2013) was prepared for kindergartens and schools, representing a basic tool for educating professional staff for teaching and developing spatial literacy in pupils – including in terms of sustainable values and principles. The MESS occasionally organizes conferences, seminars, consultations, etc. for teachers and principals on the topic of sustainable school architecture (in 2009, in cooperation with the OECD, the "Sustainable architecture of kindergartens and schools" international conference, the 2014 national seminar "Architecture
 
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
+
+and the Construction of Kindergartens", in the spring of 2018 an interdisciplinary seminar on the criteria of high-quality/sustainable architecture of kindergartens and schools); the ministry also finances multiannual R&D projects on school architecture and sustainable development, e.g. "Architecture of the School Space in the Function of the Hidden Curriculum" (2010-2012). The research project "Situation analysis of the architecture of public kindergartens and schools in Slovenia - recording, evaluation and protection of cases of high-quality (sustainable) architectural practice" followed (2017-2019).
 
 As already mentioned, the CRP 2021 call is being prepared, which includes a development project on the topic of supporting the comprehensive institutional approach to ESD in kindergarten and school through the creation of a sustainable school architecture. At the end of 2019, the first national conference was organized: Modernizing the physical learning space from the point of view of modernizing pedagogical work and ESD (organized by ZRSŠ).
 
@@ -1878,7 +1869,7 @@ The CPI implemented and is still implementing certain projects that include sust
 ##### Association for Environmental Education FEE-Slovenia/int. Eco-Schools program:
 Syllabi need to be more flexible in adapting to changes in the environment; young people need to be equipped with knowledge and skills and have an eco-centric environmental and ethical stance so that they will be competent in the coming years of major social and environmental changes caused by the growing environmental crisis and climate change.
 
-ESD content should become a constant on the entire vertical and horizontal scales, and an indepth and broad cross-curricular approach to complement the topical content is needed; with the principles of systematic, critical and creative thinking about sustainable development.
+ESD content should become a constant on the entire vertical and horizontal scales, and an in-depth and broad cross-curricular approach to complement the topical content is needed; with the principles of systematic, critical and creative thinking about sustainable development.
 
 With its content and sustainability- and globally-oriented concepts in terms of methodology, the Eco School is a reliable and credible partner in the educational network, as it is present in 717 educational institutions, and associates 8,600 teachers-mentors and 100,000 students on the entire vertical scale.
 
@@ -1896,13 +1887,13 @@ We make sure that our projects and activities contain a diverse range of themes 
 
 Eco School is also establishing international connections with the EU member states that have similar ESD approaches and, by doing so, implements the ESD partnership principle at the local, regional, national and international levels: ESD would need to take into account the different local, regional, national and international conditions and the global framework, and pursue a balance between different interests .
 
-The network of healthy schools also recommends the following links: Standalone subjects SMZŠ: https://www.nijz.si/sl/slovenska-mreza-zdravih-sol
+The network of healthy schools also recommends the following links: Standalone subjects - SMZŠ: https://www.nijz.si/sl/slovenska-mreza-zdravih-sol
 
 - Report on the work of the Slovenian network of healthy school in the 2019/2020 school year: https://www.nijz.si/sites/www.nijz.si/files/uploaded/porocilo_zs_2019_2020_koncna_27_1_21.pdf
 
 - SHE Monitoring Report 2020: Overall report of the SHE member countries Schools for Health in Europe Network Foundation October 2020.
 
-https://www.schoolsforhealth.org/sites/default/files/editor/mapping/monitor-report-overall2020.pdf
+https://www.schoolsforhealth.org/sites/default/files/editor/mapping/monitor-report-overall-2020.pdf
 
 The EU DEAR-programme is providing valuable support for national GCED projects in Slovenia, such as Bridge 47. The project is dedicated to work with creating more space for GCED and ESD in the 12 countries that are partners. Bridge 47 brings people together to share and learn from each other and mobilises civil society from all around the world to do their part in creating a more fair, peaceful and equitable world with the help of Global Citizenship Education. One of the major achievements is the conference Envision 4.7 in 2019 where 200 participants created a Roadmap for SDG target 4.7 with recommendations for both national and European government because this target is seen as crucial for achieving the Agenda 2030. Representatives (governmental and non.governmental) from Slovenia were actively involved in the process, SLOGA is implementing follow-up activities on national and EU level, including during Sloveninan Presidency of the Council of the EU (july -december 2021). The 'Envision 4.7 Policy Papers' were also produced, outlinining how the European Commission's six policy priorities for 2019-2024 - the Green Deal, Future of Europe, Digital Education Plan, A Strong Social Europe for Just Transition, European Education Area and New European Consensus on Development - all stand to benefit from the inclusion and implementation of SDG Target 4.7, which focuses on transformative education. This is life-long and  value-based  learning,  designed  to  promote  global  citizenship,  sustainable  development, human  rights  and  gender  equality.  The  Envision  4.7  Policy  Papers  build  on  the  six  policy recommendations listed in the Envision 4.7 Roadmap:
 
