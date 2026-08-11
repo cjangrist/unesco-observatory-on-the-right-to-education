@@ -106,11 +106,13 @@ The autonomy of a university and of other higher education institutions shall, i
 
 #### Article 7
 
-The  grounds  of  a  higher  education  institution  shall  be  inviolable  and  law enforcement  officers  shall  not  be  permitted  to  enter  without  the  consent  of  the competent official of the institution, except in case of a threat to public safety, life, physical integrity of a person, public health or property.
+The grounds of a higher education institution shall be inviolable and law enforcement officers shall not be permitted to enter without the consent of the
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+competent official of the institution, except in case of a threat to public safety, life, physical integrity of a person, public health or property.
 
 ### The right to higher education
 
@@ -456,7 +458,7 @@ The President or the Head of an academy of professional career studies and/or a 
 
 The Conference of Academies of Professional Career Studies shall:
 
-- address matters of common interest for the promotion of educationalprofessional and/or educational-artistic activities within the courses of professional career studies;
+- address matters of common interest for the promotion of educational-professional and/or educational-artistic activities within the courses of professional career studies;
 
 - harmonize views and coordinate activities among  academies of professional  career  studies  and  four-year  colleges  of  professional careers, especially with regard to admission policies;
 
@@ -802,7 +804,7 @@ On the basis of the agreement between the university and/or  an academy of profe
 
 On the basis of the agreement between the university and/or  an academy of professional career studies and a higher education institution referred to in paragraph 3  of  this  Article,  a  study  programme  may  be  set  up,  with  the  approval  of  the Government, for acquiring a combined diploma.
 
-At  the  proposal  of  the  Ministry  of  Internal  Affairs,  the  Government  shall determine  in  more  detail  the  conditions  and  manner  of  implementation  of  study programmes referred to in paragraphs 5 an6 of this Article. It shall also regulate the position  of  teachers  and  students  with  regard  to  the  specific  features  related  to  the objectives and nature of police education.
+At the proposal of the Ministry of Internal Affairs, the Government shall determine in more detail the conditions and manner of implementation of study programmes referred to in paragraphs 5 and 6 of this Article. It shall also regulate the position of teachers and students with regard to the specific features related to the objectives and nature of police education.
 
 The Ministry of Internal Affairs shall perform the administrative supervision of the work of higher education institutions referred to in paragraph 3 of this Article and of the implementation of study programmes referred to in paragraphs 5 and 6 of this Article.
 
@@ -1042,6 +1044,24 @@ A Council member may be a member of the administrative body of only one higher e
 
 [[START OF PAGE 24]]
 
+#### Article 52
+
+The number of Council members of a higher education institution shall be at least 17, in accordance with the Statute of the higher education institution concerned.
+
+The Council of the higher education institution referred to in paragraph 1 of this Article shall comprise representatives of the institution, students and the founder.
+
+The representatives of the higher education institution shall make up two thirds of the total number of Council members referred to in paragraph 1 of this Article, rounded off to the closest odd number. The representatives of students and the representatives of the founder shall be represented with an equal number of members up to the full assembly.
+
+When the Republic is the founder, the representatives of the founder shall be nominated by the Government from among the prominent personalities in the fields of science, culture, education, arts and from business circles.
+
+The President of the Council shall be elected from among the representatives of the higher education institution.
+
+A person employed in that higher education institution or in a government agency responsible for education and/or science may not serve as a Council member referred to in paragraph 4 of this Article. The same is applicable to a person elected, designated or appointed to a post in a government body, a body of territorial self-rule or local self-governance; or a person elected to a body of a political party.
+
+### Competencies of the Council
+
+#### Article 53
+
 The Council shall:
 
 - adopt the Statute at the proposal of the professional body;
@@ -1054,41 +1074,23 @@ The Council shall:
 
 - adopt the investment plan at the proposal of the professional body;
 
-- grant  approval  for  decisions  in  respect  of  the  management  of  the property of the higher education institution;
+- grant approval for decisions in respect of the management of the property of the higher education institution;
 
 - grant approval for the distribution of financial resources;
 
-- decide  on  the  amount  of  the  tuition  fees  at  the  proposal  of  the professional body;
+- decide on the amount of the tuition fees at the proposal of the professional body;
 
 - submit, at least once a year, a report on the activities to the founder;
 
 - adopt a general legal act on disciplinary responsibility of students;
 
-- select  an  external  auditor  of  the  financial  operation  of  the  higher education institution;
+- select an external auditor of the financial operation of the higher education institution;
 
 - perform other duties in accordance with the law and the Statute.
 
-The  issues  referred  to  in  paragraph  1  of  this  Article  shall  be  decided  by  a majority of votes of the total number of Council members.
+The issues referred to in paragraph 1 of this Article shall be decided by a majority of votes of the total number of Council members.
 
-The Statute  of  a  higher  education  institution  shall  establish  the  professional body that shall determine the proposals referred to in paragraph 1 of this Article.
-
-#### Article 52
-
-The number of Council members of a higher education institution shall be at least 17, in accordance with the Statute of the higher education institution concerned.
-
-The Council of the higher education institution referred to in paragraph 1 of this Article shall comprise representatives of the institution, students and the founder.
-
-The  representatives  of  the  higher  education  institution  shall  make  up  two thirds  of  the  total  number  of  Council  members  referred  to  in  paragraph  1  of  this Article, rounded off to the closest odd number. The representatives of students and the representatives of the founder shall be represented with an equal number of members up to the full assembly.
-
-When the Republic is the founder, the representatives of the founder shall be nominated by the Government from among the prominent personalities in the fields of science, culture, education, arts and from business circles.
-
-The President of the Council shall be elected from among the representatives of the higher education institution.
-
-A  person  employed  in  that  higher  education  institution  or  in  a  government agency responsible for education and/or science may not serve as a Council member referred to in paragraph 4 of this Article. The same is applicable to a person elected, designated or appointed to a post in a government body, a body of territorial self-rule or local self-governance; or a person elected to a body of a political party.
-
-### Competencies of the Council
-
-#### Article 53
+The Statute of a higher education institution shall establish the professional body that shall determine the proposals referred to in paragraph 1 of this Article.
 
 [[END OF PAGE 24]]
 
@@ -1122,11 +1124,12 @@ The Statute of a university, a faculty and/or an academy of arts may provide for
 
 The Statute of the higher education institution shall regulate the composition, scope, the number of members, manner of election and the term of office, as well as the manner  of  decision-making of professional bodies of a higher education institution.
 
-The  professional  body  of  an  independent  higher  education  institution  shall adopt a Code of Professional Ethics. It shall establish the ethical principles governing higher education; publication of scientific results; attitude towards intellectual property;  relations  between  teachers  and  associates,  other  employees  and  students; acts  of  a  higher  education  institution  and  teachers,  associates  and  students  in  legal transactions, and in the attitude towards the public and the media.
+The professional body of an independent higher education institution shall adopt a Code of Professional Ethics. It shall establish the ethical principles governing higher education; publication of scientific results; attitude towards intellectual
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+property; relations between teachers and associates, other employees and students; acts of a higher education institution and teachers, associates and students in legal transactions, and in the attitude towards the public and the media.
 
 ### Students' Parliament
 
@@ -1710,7 +1713,7 @@ A student financed from the budget and who has gained, within the framework of a
 
 [[START OF PAGE 40]]
 
-A student financed from the budget and who has gained less than 60 ECTS credits  during  an  academic  year  may  continue  his/her  studies  in  the  status  of  selffinancing student.
+A student financed from the budget and who has gained less than 60 ECTS credits  during  an  academic  year  may  continue  his/her  studies  in  the  status  of  self-financing student.
 
 A self-financing  student  who  has  gained  during  an  academic  year  60  ECTS credits  from  the  ongoing  year  of  the  study  programme  may  be  financed  from  the budget in the next academic year.
 
@@ -1726,7 +1729,7 @@ The  success  of  a  student  in  mastering  a  subject  shall  be  continually 
 
 By complying with the pre-examination obligations and by passing exams a student may earn 100 points maximum.
 
-A  study  programme  shall  establish  the  ratio  of  points  earned  through  preexamination obligations and those earned at the exam. The pre-examination obligations shall account for 30 points minimum and 70 points maximum.
+A  study  programme  shall  establish  the  ratio  of  points  earned  through  pre-examination obligations and those earned at the exam. The pre-examination obligations shall account for 30 points minimum and 70 points maximum.
 
 The success of a student at the exam shall be expressed from grade 5 (failed) up to grade 10 (excellent).
 
@@ -2052,7 +2055,7 @@ A higher education institution shall be fined 30,000 to 500,000 dinars for:
 
 - separately  charging students a fee for services included in the tuition fee (Article 61, paragraph 5);
 
-- employing a teacher who does not fulfil the conditions provided for by this  Law  or  employing  him/her  without  a  competition  (Articles  63  66);
+- employing a teacher who does not fulfil the conditions provided for by this  Law  or  employing  him/her  without  a  competition  (Articles  63  – 66);
 
 - failing to make arrangements for lectures and other forms of teaching (Article 81, paragraph 2);
 
@@ -2151,6 +2154,7 @@ Universities  and  faculties  and/or  academies  of  arts  within  universities 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+considered having the work permit until the completion of the procedure referred to in paragraph 1 of this Article.
 
 Faculties and/or academies of arts outside universities that have obtained the decision on compliance with the conditions for commencing work and carrying out their activities pending the entry into force of this Law, shall be considered having the work permit to function as four-year colleges until the completion of the procedure referred to in paragraph 1 of this Article.
 
@@ -2190,7 +2194,7 @@ A two-year college that has obtained a work permit shall continue to function as
 
 A two-year college that fails to obtain the work permit shall cease to carry out its activities within two years from the adoption of the decision declining its request for the issuance of the work permit.
 
-A higher education institution referred to in paragraph 3 of this Article shall constitute  its  administrative  and  professional  bodies  and  Students'  Parliament,  and shall elect an executive officer in accordance with this Law within three months from the date of receiving the work permit.
+A higher education institution referred to in paragraph 3 of this Article shall constitute  its  administrative  and  professional  bodies  and  Students’  Parliament,  and shall elect an executive officer in accordance with this Law within three months from the date of receiving the work permit.
 
 Pending  the  constitution  of  the  bodies  referred  to  in  paragraph  5  of  this Article, regulations that were in force before the coming into effect of the present Law shall be applied.
 
@@ -2198,11 +2202,11 @@ Pending  the  constitution  of  the  bodies  referred  to  in  paragraph  5  of 
 
 #### Article 120
 
-The  constitution  of  the  administrative  body,  the  professional  body  and Students' Parliament and the election of the executive officer of a university and/or a faculty referred to in Article 118 of this Law shall be completed within three months from the date of the adoption of the act relating to the reorganization of the university, in accordance with this Law.
+The  constitution  of  the  administrative  body,  the  professional  body  and Students’ Parliament and the election of the executive officer of a university and/or a faculty referred to in Article 118 of this Law shall be completed within three months from the date of the adoption of the act relating to the reorganization of the university, in accordance with this Law.
 
-The term of office of members of the administrative and professional bodies, as well as that of the executive officer, constituted in accordance with regulations that were  in  force  before  the  coming  into  effect  of  this  Law,  shall  terminate  upon  the constitution of the administrative and professional bodies and of Students' Parliament, and  upon  the  election  of  the  executive  officer  referred  to  in  paragraph  1  of  this Article.
+The term of office of members of the administrative and professional bodies, as well as that of the executive officer, constituted in accordance with regulations that were  in  force  before  the  coming  into  effect  of  this  Law,  shall  terminate  upon  the constitution of the administrative and professional bodies and of Students’ Parliament, and  upon  the  election  of  the  executive  officer  referred  to  in  paragraph  1  of  this Article.
 
-The executive officer of a higher education institution shall appoint members of  a  commission  for  the  organization  of  elections  for  Students'  Parliament.  The commission  shall  determine  the  procedure  of  election  within  two  months  from  the date of the adoption of the act relating to reorganization of the university, and shall carry out the elections.
+The executive officer of a higher education institution shall appoint members of  a  commission  for  the  organization  of  elections  for  Students’  Parliament.  The commission  shall  determine  the  procedure  of  election  within  two  months  from  the date of the adoption of the act relating to reorganization of the university, and shall carry out the elections.
 
 ### Election to positions
 
@@ -2236,7 +2240,7 @@ Students admitted to basic studies or to studies at two-year colleges before the
 
 Students  admitted  to  two-year  colleges  before  the  coming  into  force  of  this Law that have failed to obtain the work permit, may complete their studies according to  the  previous  syllabus  and  curriculum,  conditions  and  rules  of  studies  within  two years  from  the  date  of  the  adoption  of  the  decision  declining  the  request  for  the issuance of the work permit.
 
-Students admitted to master's degree studies before the entry into force of the present  Law  may  complete  their  studies  according  to  the  previous  syllabus  and curriculum,  conditions  and  rules  of  studies  within  a  period  of  five  years  from  the coming into force of the present Law at the latest.
+Students admitted to master’s degree studies before the entry into force of the present  Law  may  complete  their  studies  according  to  the  previous  syllabus  and curriculum,  conditions  and  rules  of  studies  within  a  period  of  five  years  from  the coming into force of the present Law at the latest.
 
 Students  admitted  to  doctoral  studies  and/or  candidates  for  a  doctorate  who submitted  their  doctoral  dissertation  before  the  entry  into  force  of  this  Law  may complete their studies according to the previous syllabus and curriculum, conditions and rules of studies and/or acquire a doctorate within five years from the entry into force of this Law at the latest.
 
@@ -2256,7 +2260,7 @@ Students admitted to a higher education institution after the coming into force 
 
 #### Article 125
 
-In the procedure for introduction and application of the ECTS credits, a higher education  institution  shall  monitor  the  results  achieved  at  examinations  as  well  as other  relevant  indicators  of  students'  workload  and  obtain  the  opinion  of  students regarding the effective strain in mastering the contents of study programmes.
+In the procedure for introduction and application of the ECTS credits, a higher education  institution  shall  monitor  the  results  achieved  at  examinations  as  well  as other  relevant  indicators  of  students’  workload  and  obtain  the  opinion  of  students regarding the effective strain in mastering the contents of study programmes.
 
 On  the  basis  of  the  indicators  referred  to  in  paragraph  1  of  this  Article,  a higher  education  institution  shall  adapt  the  value  of  the  ECTS  credits  awarded  to individual subjects.
 
@@ -2286,7 +2290,7 @@ The diploma referred to in paragraph 3 of this Article may be issued only if the
 
 If a higher education institution in which the person referred to in paragraph 2 of this Article has acquired the title ceased to exist, and has no legal successor, the Ministry shall designate a higher education institution to decide the request.
 
-### Taking a doctor's degree
+### Taking a doctor’s degree
 
 #### Article 128
 
@@ -2304,7 +2308,7 @@ Procedures for the founding and/or for obtaining the decision on compliance with
 
 #### Article 130
 
-The Law on Two-Year Colleges (Official Journal of the Republic of Serbia, Nos.  50/92,  39/93,  53/93,  67/93,  48/94  and  24/96)  and  the  Law  on  University (Official Journal of the Republic of Serbia, No. 21/02) shall cease to be effective on the date of the entry into force of this Law. The Law on Professional Titles (Official Journal of the Socialist Republic of Serbia', Nos. 31/77 and 17/85) shall cease to be effective upon the expiry of the period referred to in Article 115 of this Law.
+The Law on Two-Year Colleges (Official Journal of the Republic of Serbia, Nos.  50/92,  39/93,  53/93,  67/93,  48/94  and  24/96)  and  the  Law  on  University (Official Journal of the Republic of Serbia, No. 21/02) shall cease to be effective on the date of the entry into force of this Law. The Law on Professional Titles (Official Journal of the Socialist Republic of Serbia”, Nos. 31/77 and 17/85) shall cease to be effective upon the expiry of the period referred to in Article 115 of this Law.
 
 [[END OF PAGE 55]]
 
