@@ -6,7 +6,7 @@ Education and lifelong
 
 skills upgrading for all
 
-Report to the European Commission Denmark's strategy for lifelong learning - Education and lifelong skills upgrading for all Report to the European Commission. April 2007 Editor: Jan Reitz Jørgensen, Danish Ministry of Education Produced by: Werner Hedegaard, Danish Ministry of Education Cover design and lay out: Advice A/S First edition. First impression, July 2007: 1,000 copies ISBN 978-87-603-2648-6 ISBN (WWW) 978-87-603-2649-3 URL: pub.uvm.dk/2007/lifelonglearning Published by the Danish Ministry of Education, Department of Adult Vocational Training, Division for lifelong learning The report can be ordered from: NBC Ekspedition Tel. +45 5636 4048 E-mail ekspedition@nbcas.dk Opening hours: Monday - Thursday 9.30-16.00, Friday 9.30-15.00 Order No. ISBN 978-87-603-2648-6 Print: Schultz Grafisk A/S Printed with vegetable oil-based printing ink on 100% recycled paper Printed in Denmark 2007
+Report to the European Commission
 
 April 2007
 
@@ -14,7 +14,35 @@ April 2007
 
 [[START OF PAGE 2]]
 
-(this page came through the extractor with no text)
+Denmark’s strategy for lifelong learning
+– Education and lifelong skills upgrading for all
+Report to the European Commission. April 2007
+Editor:
+Jan Reitz Jørgensen, Danish Ministry of Education
+Produced by:
+Werner Hedegaard, Danish Ministry of Education
+Cover design and lay out:
+Advice A/S
+First edition. First impression, July 2007: 1,000 copies
+ISBN 978-87-603-2648-6
+ISBN (WWW) 978-87-603-2649-3
+URL: pub.uvm.dk/2007/lifelonglearning
+Published by the Danish Ministry of Education,
+Department of Adult Vocational Training, Division
+for lifelong learning
+The report can be ordered from:
+NBC Ekspedition
+Tel. +45 5636 4048
+E-mail ekspedition@nbcas.dk
+Opening hours:
+Monday - Thursday 9.30-16.00, Friday 9.30-15.00
+Order No.
+ISBN 978-87-603-2648-6
+Print:
+Schultz Grafisk A/S
+Printed with vegetable oil-based printing ink
+on 100% recycled paper
+Printed in Denmark 2007
 
 [[END OF PAGE 2]]
 
@@ -42,6 +70,33 @@ Foreword 1
 
 ## Content
 
+1 Foreword
+3 1: Introduction
+5 2: Denmark as a knowledge society – towards new goals and challenges
+5 Global challenges
+6 Education for all - Denmark’s globalisation strategy
+8 Objectives for lifelong learning
+11 3: A world-class education system
+12 Preschool
+13 Compulsory basic school
+14 General and vocational upper secondary education
+16 Higher education
+19 4: Lifelong skills upgrading for all
+20 Goals and actions for adult education and continuing training
+23 Key initiatives
+25 5: Crosscutting actions
+- Education and lifelong skills upgrading
+25 Guidance and counselling
+26 Recognition of prior learning
+27 Cohesion and transparency in the education system
+27 Global perspective in education
+28 Stronger professional educational institutions
+28 Partnerships in education and training and lifelong skills upgrading
+30 6: Lifelong learning in liberal adult education, associations and leisure activities
+32 7: Education and skills upgrading
+- Employment and integration
+34 8: The next steps
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -50,7 +105,7 @@ Foreword 1
 
 ## Introduction
 
-In 2004 the European Council endorsed the report Education and Training 2010 - The success of the Lisbon strategy hinges on urgent reforms . The message of the report is that extensive educational reforms and targeted investments in lifelong learning are crucial for achieving the common goal that in 2010 the European Union shall be 'the most competitive and dynamic knowledge-based economy in the world, capable of sustainable economic growth with more and better jobs and greater social cohesion'.
+In 2004 the European Council endorsed the report Education and Training 2010 – The success of the Lisbon strategy hinges on urgent reforms. The message of the report is that extensive educational reforms and targeted investments in lifelong learning are crucial for achieving the common goal that in 2010 the European Union shall be “the most competitive and dynamic knowledge-based economy in the world, capable of sustainable economic growth with more and better jobs and greater social cohesion”.
 
 At the same time the European Council called upon Member States to develop coherent national strategies for lifelong learning by 2006 as an important contribution to achieving the ambitious target.
 
@@ -58,13 +113,15 @@ This report presents Denmark's strategy for lifelong learning. The strategy cove
 
 The national strategy for lifelong learning is mainly based on the Government's globalisation strategy Fremskridt, fornyelse og udvikling - Strategi for Danmark i den globale økonom ('Progress, renewal and development - Strategy for Denmark in the global economy') published in the spring of 2006. The overall aim of the globalisation strategy is to make Denmark a leading knowledge society with strong competitiveness and strong cohesion. Education, lifelong skills upgrading, research and innovation at the highest international level are crucial for achieving this aim.
 
-The broad political agreement on future welfare policy and the agreement on the implementation of the globalisation fund in 2006 have established the goals and framework for a long-term, coherent development of human resources in Denmark. Extensive investment in the education system and strengthened efforts in the area of adult education and continuing training will contribute to an overall enhancement of education and skills for everyone in the Danish society.
+The broad political agreement on future welfare policy and the agreement on the implementation of the globalisation fund in 2006 have established the goals and framework for a long-term, coherent development of
 
 Introduction 3
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+human resources in Denmark. Extensive investment in the education system and strengthened efforts in the area of adult education and continuing training will contribute to an overall enhancement of education and skills for everyone in the Danish society.
 
 The implementation of Denmark's strategy for education and lifelong skills upgrading is based on all the relevant players taking co-responsibility. The Government and the social partners - employers' and employees' organisations - agree that it is a shared responsibility to ensure lifelong skills upgrading for everyone in the labour market.
 
@@ -88,7 +145,7 @@ The knowledge, inventiveness and work efforts of people, together with our abili
 
 Denmark has, by international standards, a strong point of departure in terms of high employment, low unemployment, relatively equitable income distribution and a generally high level of education. At the same time, the Danish labour market is very flexible and international studies point to the fact that Denmark is among the countries with the highest level of competitiveness and is one of the countries which invests the most in the development of human resources. Moreover, the Danish society is based on shared fundamental democratic values and a historic tradition of change through dialogue and cooperation.
 
-Globalisation and technological development present a number of significant challenges. For Denmark, as indeed for European countries and other OECD countries, a well-qualified labour force is crucial to ensuring competitiveness and prosperity. This means that the demands on the general and vocational skills of the labour force will grow, while demand for low-skilled labour will decline in the years to come. Continued growth in the economy is also dependent on increasing the labour force. Everyone is needed in the labour market. This includes those who currently have difficulty keeping a foothold in the labour market. Besides, the labour force is ageing, and the new intake into the labour market is smaller than the expected attrition. This too presents a challenge.
+Globalisation and technological development present a number of significant challenges. For Denmark, as indeed for European countries and other OECD countries, a well-qualified labour force is crucial to ensuring competitiveness and prosperity. This means that the demands on the general and vocational skills of the labour force will grow, while demand
 
 Denmark as a knowledge society
 
@@ -97,6 +154,8 @@ Denmark as a knowledge society
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+for low-skilled labour will decline in the years to come. Continued growth in the economy is also dependent on increasing the labour force. Everyone is needed in the labour market. This includes those who currently have difficulty keeping a foothold in the labour market. Besides, the labour force is ageing, and the new intake into the labour market is smaller than the expected attrition. This too presents a challenge.
 
 The skills of the labour force must therefore be increased at all levels. More people must have a qualifying education, and more people need to go through the education system and pass faster out into the labour market. Moreover, there is need for a significant increase in adult education and a continuing training, not least in order to raise the level of those with the lowest level of education and training.
 
@@ -114,7 +173,7 @@ In the spring of 2006, in response to the challenges of globalisation, the Gover
 
 [[START OF PAGE 9]]
 
-The national globalisation strategy, Fremgang, fornyelse og tryghed - Strategi for Danmark i den globale økonomi ('Progress, innovation and cohesion Strategy for Denmark in the global economy'), comprises 350 specific initiatives aiming at extensive reforms of education and research programmes and substantial improvements in the framework for growth and innovation in all areas of Danish society.
+The national globalisation strategy, Fremgang, fornyelse og tryghed - Strategi for Danmark i den globale økonomi ('Progress, innovation and cohesion – Strategy for Denmark in the global economy'), comprises 350 specific initiatives aiming at extensive reforms of education and research programmes and substantial improvements in the framework for growth and innovation in all areas of Danish society.
 
 The Government's globalisation strategy focuses in particular on training and lifelong skills upgrading. A high level of educational attainment and good opportunities for lifelong learning are among the most important preconditions for strong competitiveness and for everyone to be able to actively participate in the labour market and in society.
 
@@ -122,15 +181,15 @@ It is the Government's aim that Denmark shall have world-class education and tha
 
 The overall aims of the educational reforms are that
 
-- f All children shall have a good start in school.
+- All children shall have a good start in school.
 
-- f All children shall achieve good academic knowledge and personal skills.
+- All children shall achieve good academic knowledge and personal skills.
 
-- f 95 per cent of all young people shall complete a general or vocational upper secondary education by 2015.
+- 95 per cent of all young people shall complete a general or vocational upper secondary education by 2015.
 
-- f 50 per cent of all young people shall complete a higher education programme by 2015.
+- 50 per cent of all young people shall complete a higher education programme by 2015.
 
-- f Everyone shall engage in lifelong learning.
+- Everyone shall engage in lifelong learning.
 
 With the political Agreement on future prosperity and welfare and investments in the future between a majority of the parties in the Folketing (Danish Parliament) the Government has created the basis for structural reforms to ensure future prosperity and welfare and investment in the future. A further DKK 15 billion have been set aside over a six-year period for new long-term investments in education and lifelong skills upgrading until year 2012 as an increased contribution to achieving the set targets.
 
@@ -150,9 +209,9 @@ The Government's strategy for education and lifelong skills upgrading, which cov
 
 The strategy includes the following objectives:
 
-- f A coherent education system from preschool to higher education must provide the opportunity for everyone to acquire excellent basic skills, a qualifying education and a solid foundation for lifelong learning. There must be equal opportunities and room for all.
+- A coherent education system from preschool to higher education must provide the opportunity for everyone to acquire excellent basic skills, a qualifying education and a solid foundation for lifelong learning. There must be equal opportunities and room for all.
 
-- f Education must be world-class. The education system shall foster talent and be more accommodating to weak learners. Quality is given pride of place, and education must match the needs of the labour market and the society.
+- Education must be world-class. The education system shall foster talent and be more accommodating to weak learners. Quality is given pride of place, and education must match the needs of the labour market and the society.
 
 8 Denmark as a knowledge society
 
@@ -160,17 +219,17 @@ The strategy includes the following objectives:
 
 [[START OF PAGE 11]]
 
-- f There must be relevant, high quality adult education and continuing training for everyone in the labour market which matches the needs and puts particular emphasis on the need for lifelong skills upgrading for those with the lowest level of education. There is a shared responsibility to ensure that everyone in the labour market is engaged in lifelong learning.
+- There must be relevant, high quality adult education and continuing training for everyone in the labour market which matches the needs and puts particular emphasis on the need for lifelong skills upgrading for those with the lowest level of education. There is a shared responsibility to ensure that everyone in the labour market is engaged in lifelong learning.
 
-- f Systematic competence development in the workplace should be strengthened in both public and private enterprises. Increased public and private investment in continuing training and competence development for employees shall contribute to improving the skills of individuals and strengthen the development of the enterprises.
+- Systematic competence development in the workplace should be strengthened in both public and private enterprises. Increased public and private investment in continuing training and competence development for employees shall contribute to improving the skills of individuals and strengthen the development of the enterprises.
 
-- f Opportunities for guidance and counselling must be improved and help ensure the best possible conditions for pupils, students and adults to choose education programmes and to participate in lifelong learning.
+- Opportunities for guidance and counselling must be improved and help ensure the best possible conditions for pupils, students and adults to choose education programmes and to participate in lifelong learning.
 
-- f All forms of education and learning should be based on and build on the knowledge, skills and competences of individuals. In adult education and continuing training new and improved opportunities shall be created promoting visibility and recognition of an individual's prior learning.
+- All forms of education and learning should be based on and build on the knowledge, skills and competences of individuals. In adult education and continuing training new and improved opportunities shall be created promoting visibility and recognition of an individual's prior learning.
 
-- f Coherent education paths and transparency in the education system are to contribute to targeted education and lifelong skills upgrading and facilitate the best possible use of public resources.
+- Coherent education paths and transparency in the education system are to contribute to targeted education and lifelong skills upgrading and facilitate the best possible use of public resources.
 
-- f A global perspective must be included in all education programmes contributing to strengthening internationalisation and cooperation with the world around us.
+- A global perspective must be included in all education programmes contributing to strengthening internationalisation and cooperation with the world around us.
 
 Denmark as a knowledge society 9
 
@@ -178,7 +237,7 @@ Denmark as a knowledge society 9
 
 [[START OF PAGE 12]]
 
-- f Stronger higher education environments are to be created in order to contribute to higher quality in education and knowledge development, and a better framework and better conditions shall be developed for interaction between educational institutions and enterprises and other relevant players.
+- Stronger higher education environments are to be created in order to contribute to higher quality in education and knowledge development, and a better framework and better conditions shall be developed for interaction between educational institutions and enterprises and other relevant players.
 
 In order to fulfil the overall objectives of education and lifelong skills upgrading, the Government has prioritised a number of specific goals and initiatives within the overall education system and in the area of adult education and continuing training.
 
@@ -204,15 +263,15 @@ It is the Government's aim that the education system, from preschool to higher e
 
 ### Facts about the Danish education system
 
-- f More than 99 per cent of all children attends preschool class, including 93 per cent of all six-year olds.
+- More than 99 per cent of all children attends preschool class, including 93 per cent of all six-year olds.
 
-- f More than 80 per cent of a youth cohort completes an academic or vocational education programme, of which 38 per cent complete a vocational education programme.
+- More than 80 per cent of a youth cohort completes an academic or vocational education programme, of which 38 per cent complete a vocational education programme.
 
-- f 45 per cent of a youth cohort completes a higher education programme.
+- 45 per cent of a youth cohort completes a higher education programme.
 
-- f There are no tuition fees for state upper secondary education and higher education, and the State provides educational grants and stateguaranteed loans.
+- There are no tuition fees for state upper secondary education and higher education, and the State provides educational grants and state-guaranteed loans.
 
-- f Total state expenditure on education amounted to DKK 123 billion in 2005, corresponding to 8 per cent of GDP.
+- Total state expenditure on education amounted to DKK 123 billion in 2005, corresponding to 8 per cent of GDP.
 
 A world-class education system
 
@@ -232,13 +291,13 @@ Day-care facilities and preschool class play a very important role in the person
 
 It is the Government's aim that all children shall have a good start in school. This shall be achieved through the following initiatives in particular:
 
-- f Language assessment is introduced for all children at the age of three and again at the age of six at the start of the pre-school class so that the education and teaching can be based on the linguistic abilities of the individual.
+- Language assessment is introduced for all children at the age of three and again at the age of six at the start of the pre-school class so that the education and teaching can be based on the linguistic abilities of the individual.
 
-- f Compulsory education is extended from nine to ten years of schooling by making the preschool class an obligatory part of basic school.
+- Compulsory education is extended from nine to ten years of schooling by making the preschool class an obligatory part of basic school.
 
-- f Curricula are prepared in all day-care facilities.
+- Curricula are prepared in all day-care facilities.
 
-- f Subject-based teaching in Danish, especially reading, is introduced in the preschool class.
+- Subject-based teaching in Danish, especially reading, is introduced in the preschool class.
 
 12 A world-class education system
 
@@ -254,21 +313,21 @@ Excellent basic skills and competences are a vital basis for acquiring new knowl
 
 It is the Government's aim:
 
-- f That all pupils shall have excellent academic skills and knowledge.
+- That all pupils shall have excellent academic skills and knowledge.
 
-- f That the Folkeskole shall provide pupils with knowledge and skills, promote creativity and independence and prepare them for further education.
+- That the Folkeskole shall provide pupils with knowledge and skills, promote creativity and independence and prepare them for further education.
 
-- f That the pupils shall be among the best in the world in four basic subject areas: reading, mathematics, science and English, and
+- That the pupils shall be among the best in the world in four basic subject areas: reading, mathematics, science and English, and
 
-- f That all young people gain knowledge and skills which provide them with the basis for actively taking part in a globalised world.
+- That all young people gain knowledge and skills which provide them with the basis for actively taking part in a globalised world.
 
 Reforms in the Danish Folkeskole include in particular the following initiatives:
 
-- f A new clause stating the objectives of the basic compulsory school that is to prepare for further education - and stressing proficiency and the pupils' familiarity with Danish culture and history.
+- A new clause stating the objectives of the basic compulsory school – that is to prepare for further education – and stressing proficiency and the pupils' familiarity with Danish culture and history.
 
-- f The culture of evaluation is being strengthened through implementation of national tests and personal pupil plans are being introduced.
+- The culture of evaluation is being strengthened through implementation of national tests and personal pupil plans are being introduced.
 
-- f The final exams are made obligatory and the number of subjects including exams is being expanded.
+- The final exams are made obligatory and the number of subjects including exams is being expanded.
 
 A world-class education system 13
 
@@ -276,11 +335,11 @@ A world-class education system 13
 
 [[START OF PAGE 16]]
 
-- f The laying down of action plans for basic subjects: reading, mathematics, science and English.
+- The laying down of action plans for basic subjects: reading, mathematics, science and English.
 
-- f The responsibility of the municipalities is being clarified, including the task to make annual quality reports stating the quality in the basic compulsory schools.
+- The responsibility of the municipalities is being clarified, including the task to make annual quality reports stating the quality in the basic compulsory schools.
 
-- f A new teacher training education programme aiming at ensuring better quality and increased opportunities for specialisation and a targeted effort in continuing education of teachers and school managers.
+- A new teacher training education programme aiming at ensuring better quality and increased opportunities for specialisation and a targeted effort in continuing education of teachers and school managers.
 
 The Government has allocated DKK 230 million for continuing education of teachers and school managers for the period 2007-2009.
 
@@ -298,23 +357,23 @@ Almost all young people begin an upper secondary education, either a general edu
 
 It is the Government's aim:
 
-- f That all young people shall have a qualifying education. At least 85 per cent of all young people shall complete an upper secondary education by 2010, and at least 95 per cent by 2015.
+- That all young people shall have a qualifying education. At least 85 per cent of all young people shall complete an upper secondary education by 2010, and at least 95 per cent by 2015.
 
-- f That upper secondary education shall be attractive and of the highest quality.
+- That upper secondary education shall be attractive and of the highest quality.
 
-- f That the general education programmes shall provide pupils with good academic and general skills so that more can complete a higher education programme.
+- That the general education programmes shall provide pupils with good academic and general skills so that more can complete a higher education programme.
 
-- f That vocational education and training programmes shall challenge the most talented pupils and provide them with increased opportunities for further education. At the same time vocational education and training programmes shall provide realistic training opportunities for weak academic learners.
+- That vocational education and training programmes shall challenge the most talented pupils and provide them with increased opportunities for further education. At the same time vocational education and training programmes shall provide realistic training opportunities for weak academic learners.
 
 Reforms in upper secondary education include the following initiatives in particular:
 
-- f Municipalities shall be responsible for helping to ensure that young people complete a general or vocational upper secondary education through, among other things, better guidance and improved educational provision for weak learners.
+- Municipalities shall be responsible for helping to ensure that young people complete a general or vocational upper secondary education through, among other things, better guidance and improved educational provision for weak learners.
 
-- f Vocational education and training shall be strengthened through, among other things, continuing training of teachers and better school environments.
+- Vocational education and training shall be strengthened through, among other things, continuing training of teachers and better school environments.
 
-- f Efforts to increase the number of practical training places in vocational education and training shall be increased in both private and public enterprises through, among other things, a national campaign in cooperation with business and organisations.
+- Efforts to increase the number of practical training places in vocational education and training shall be increased in both private and public enterprises through, among other things, a national campaign in cooperation with business and organisations.
 
-- f More flexible pathways and education programmes will be introduced in vocational education to meet the needs of all pupils, both the strong and the weak. In this regard the assessment of prior learning is an important and integral tool of vocational education and training.
+- More flexible pathways and education programmes will be introduced in vocational education to meet the needs of all pupils, both the strong and the weak. In this regard the assessment of prior learning is an important and integral tool of vocational education and training.
 
 A world-class education system 15
 
@@ -322,7 +381,7 @@ A world-class education system 15
 
 [[START OF PAGE 18]]
 
-- f Vocational education and training will be divided into steps corresponding to the needs of the labour market so that all young people can obtain an education which is suited to their abilities and at the same time providing improved opportunities for access to higher education.
+- Vocational education and training will be divided into steps corresponding to the needs of the labour market so that all young people can obtain an education which is suited to their abilities and at the same time providing improved opportunities for access to higher education.
 
 Within the agreement on implementing the globalisation fund DKK 750 million are to be allocated for quality development in vocational education and training for the period 2007-2009 and almost DKK 7 billion to increase the education capacity in upper secondary education until 2012.
 
@@ -340,31 +399,31 @@ Today, 45 per cent of a youth cohort completes a higher education programme. Thi
 
 It is the Government's aim that:
 
-- f At least 50 per cent of a youth cohort shall have a higher education in 2015.
+- At least 50 per cent of a youth cohort shall have a higher education in 2015.
 
-- f The quality of short cycle and medium cycle higher education programmes and university education programmes must match the best in the world.
+- The quality of short cycle and medium cycle higher education programmes and university education programmes must match the best in the world.
 
-- f All higher education programmes shall have a contents which matches the needs of society.
+- All higher education programmes shall have a contents which matches the needs of society.
 
-- f All young people shall complete an education programme with a global perspective.
+- All young people shall complete an education programme with a global perspective.
 
-- f Young people shall be encouraged to begin higher education programmes earlier.
+- Young people shall be encouraged to begin higher education programmes earlier.
 
-- f The education programmes shall be organised so that delays are kept to a minimum.
+- The education programmes shall be organised so that delays are kept to a minimum.
 
 The Government will in particular take the following initiatives in relation to higher education programmes:
 
-- f New profession-oriented and practice-oriented education programmes will be developed.
+- New profession-oriented and practice-oriented education programmes will be developed.
 
-- f All institutions providing medium cycle higher education will be concentrated in a few multi-disciplinary university colleges with academically strong and modern study environments.
+- All institutions providing medium cycle higher education will be concentrated in a few multi-disciplinary university colleges with academically strong and modern study environments.
 
-- f Short cycle higher education programmes will be made more attractive and flexible, they will be targeted towards the needs of the labour market and access to them from vocational education and training will be improved.
+- Short cycle higher education programmes will be made more attractive and flexible, they will be targeted towards the needs of the labour market and access to them from vocational education and training will be improved.
 
-- f New attractive education programmes will be developed in the areas of science, technology and health.
+- New attractive education programmes will be developed in the areas of science, technology and health.
 
-- f Elite master's education programmes will be established so that the most talented students can be on a par with the best in other countries.
+- Elite master's education programmes will be established so that the most talented students can be on a par with the best in other countries.
 
-- f The quality shall be improved at all levels in higher education through the inclusion of increased continuing training of teaching staff and accreditation of all higher education programmes.
+- The quality shall be improved at all levels in higher education through the inclusion of increased continuing training of teaching staff and accreditation of all higher education programmes.
 
 A world-class education system 17
 
@@ -372,9 +431,9 @@ A world-class education system 17
 
 [[START OF PAGE 20]]
 
-- f The admission system and the organisation of education programmes shall be changed in order to promote earlier commencement and a faster completion of education programmes.
+- The admission system and the organisation of education programmes shall be changed in order to promote earlier commencement and a faster completion of education programmes.
 
-As part of the implementation of the globalisation funds, more than DKK 4 billion have been allocated up to 2012 for initiatives aiming at enhancing quality and expanding teaching capacity in higher education. This includes DKK 150 million for teacher training for the period 20072009 in short and medium cycle higher education and DKK 220 million for new teaching methods and teacher training in long cycle higher education in universities.
+As part of the implementation of the globalisation funds, more than DKK 4 billion have been allocated up to 2012 for initiatives aiming at enhancing quality and expanding teaching capacity in higher education. This includes DKK 150 million for teacher training for the period 2007-2009 in short and medium cycle higher education and DKK 220 million for new teaching methods and teacher training in long cycle higher education in universities.
 
 18 A world-class education system
 
@@ -392,7 +451,7 @@ Denmark is among the countries with the highest level of participation in adult 
 
 The public efforts in adult education and continuing training play an important role in the development of the qualifications and competences of the labour force and provide opportunities for all groups in the labour market and in the population - from the low-skilled to those with higher education.
 
-Publicly funded adult education and continuing training include general adult education, vocational adult education and continuing training up to and including vocational education and training level (labour market training, basic adult education etc.) as well as a further education system for adults at three tertiary levels. In addition, a number of educational programmes are provided for marginalised target groups.
+Publicly funded adult education and continuing training include general adult education, vocational adult education and continuing training up to
 
 Lifelong skills upgrading for all
 
@@ -402,23 +461,25 @@ Lifelong skills upgrading for all
 
 [[START OF PAGE 22]]
 
+and including vocational education and training level (labour market training, basic adult education etc.) as well as a further education system for adults at three tertiary levels. In addition, a number of educational programmes are provided for marginalised target groups.
+
 ### Facts about adult education and continuing training
 
-- f 60 per cent of the labour force participated in a learning activity in 2004 either in public, private or company programmes.
+- 60 per cent of the labour force participated in a learning activity in 2004 either in public, private or company programmes.
 
-- f It is estimated that 600,000 persons participated in public general or vocational adult education and training in 2004, corresponding to over 20 per cent of the labour force.
+- It is estimated that 600,000 persons participated in public general or vocational adult education and training in 2004, corresponding to over 20 per cent of the labour force.
 
-- f Grants are provided by the State and tuition fees are charged for most adult education and continuing training programmes. Educational grants are provided for a number of education programmes.
+- Grants are provided by the State and tuition fees are charged for most adult education and continuing training programmes. Educational grants are provided for a number of education programmes.
 
-- f In 2004 expenditure amounted to a total of DKK 5 billion, of which DKK 2.7 billion for educational activities, DKK 1.6 billion for special allowances, with employers contributing DKK 1 billion, and DKK 0.7 billion financed through tuition fees.
+- In 2004 expenditure amounted to a total of DKK 5 billion, of which DKK 2.7 billion for educational activities, DKK 1.6 billion for special allowances, with employers contributing DKK 1 billion, and DKK 0.7 billion financed through tuition fees.
 
-- f Total public and private expenditure for adult education and continuing training is estimated at DKK 15 billion in 2004.
+- Total public and private expenditure for adult education and continuing training is estimated at DKK 15 billion in 2004.
 
 * Extent and expenditure relating to liberal adult education, day high schools, evening schools and Danish language teaching for foreigners are not included in the overview.
 
 ### Goals and actions for adult education and continuing training
 
-It is crucial that more adults in the labour market participate in adult education and continuing training, and that competence development in enterprises is strengthened. This applies regardless of what job a person does. Many, especially the low-skilled, older workers, people with literacy problems and bilinguals either do not participate in adult education and continuing training at all or do so far less than other groups in the labour market. In addition, many enterprises do not invest enough in systematic competence development of their employees. This applies in particular to small and medium-sized enterprises.
+It is crucial that more adults in the labour market participate in adult education and continuing training, and that competence development in enterprises is strengthened. This applies regardless of what job a person does. Many, especially the low-skilled, older workers, people with literacy problems and bilinguals either do not participate in adult education and
 
 20 Lifelong skills upgrading for all
 
@@ -426,23 +487,25 @@ It is crucial that more adults in the labour market participate in adult educati
 
 [[START OF PAGE 23]]
 
+continuing training at all or do so far less than other groups in the labour market. In addition, many enterprises do not invest enough in systematic competence development of their employees. This applies in particular to small and medium-sized enterprises.
+
 Demand for adult education and continuing training among workers and enterprises must therefore be strengthened. Those with the lowest level of formal education and training, who have the greatest need for and barriers to education, must be motivated. Public and private enterprises must be encouraged to become learning and developing workplaces to a greater degree and to help strengthen the development of human resources.
 
 The Government and the social partners agree that an enhanced effort in adult education and continuing training is a shared responsibility:
 
-- f Individuals are responsible for continuously developing their competences and adaptability in the labour market.
+- Individuals are responsible for continuously developing their competences and adaptability in the labour market.
 
-- f The task of enterprises is to ensure the development of the competences of employees in line with the needs of the enterprise and the requirements of the labour market.
+- The task of enterprises is to ensure the development of the competences of employees in line with the needs of the enterprise and the requirements of the labour market.
 
-- f The role of the social partners is to contribute to the development of the competences of the labour force and of enterprises as places of learning at work.
+- The role of the social partners is to contribute to the development of the competences of the labour force and of enterprises as places of learning at work.
 
-- f The role of the authorities is to provide a good framework, relevant education programmes of high quality and the necessary incentives to ensure that everyone in the labour market has good opportunities to participate in adult education and continuing training.
+- The role of the authorities is to provide a good framework, relevant education programmes of high quality and the necessary incentives to ensure that everyone in the labour market has good opportunities to participate in adult education and continuing training.
 
 Based on a close dialogue with the social partners, the Government has laid down the following goals to be promoted in adult education and continuing training:
 
-- f Everyone shall engage in lifelong learning.
+- Everyone shall engage in lifelong learning.
 
-- f Adult education and continuing training efforts must be effective and
+- Adult education and continuing training efforts must be effective and
 
 Lifelong skills upgrading for all 21
 
@@ -452,19 +515,19 @@ Lifelong skills upgrading for all 21
 
 flexible. They shall support good job opportunities for individuals, good competitiveness in enterprises and high employment and prosperity in society.
 
-- f Adult education and continuing training must provide everyone with opportunities to improve competences - not least those with the lowest level of formal education.
+- Adult education and continuing training must provide everyone with opportunities to improve competences - not least those with the lowest level of formal education.
 
-- f Adult education and continuing training must reflect changes in the qualification requirements and needs of the labour market.
+- Adult education and continuing training must reflect changes in the qualification requirements and needs of the labour market.
 
 The following actions are to be prioritised:
 
-- f Efforts are to be strengthened for all groups in the labour market, from the low-skilled to highly qualified specialists. The aim is an increase in the overall competences of the labour force.
+- Efforts are to be strengthened for all groups in the labour market, from the low-skilled to highly qualified specialists. The aim is an increase in the overall competences of the labour force.
 
-- f Greater emphasis must be placed on those with the greatest need the low-skilled and those with literacy and numeracy problems. The aim is that more people with the lowest level of formal education shall participate in vocational adult education and continuing training.
+- Greater emphasis must be placed on those with the greatest need – the low-skilled and those with literacy and numeracy problems. The aim is that more people with the lowest level of formal education shall participate in vocational adult education and continuing training.
 
-- f Fundamental general skills in the labour force must be strengthened. The aim is that more people, especially those with the lowest level of formal education and marginalised groups, including bilinguals, shall participate in general qualifying education.
+- Fundamental general skills in the labour force must be strengthened. The aim is that more people, especially those with the lowest level of formal education and marginalised groups, including bilinguals, shall participate in general qualifying education.
 
-- f New forms of governance and funding are to be developed. The aim is better utilisation of resources and increased investment in adult education and continuing training.
+- New forms of governance and funding are to be developed. The aim is better utilisation of resources and increased investment in adult education and continuing training.
 
 The fulfilment of the goals for an enhanced effort in adult education and continuing training is based on a close dialogue with the social partners and the development of partnerships between all relevant players at all levels in society.
 
@@ -478,21 +541,21 @@ The fulfilment of the goals for an enhanced effort in adult education and contin
 
 The Government's strategy for the promotion of lifelong learning in adult education and continuing training, which is based on the agreement on future wealth and welfare and investments in the future, as well as the agreement on implementation of the globalisation fund, comprises the following key initiatives:
 
-- f Guidance and counselling for employees and enterprises is to be strengthened.
+- Guidance and counselling for employees and enterprises is to be strengthened.
 
-- f Better and easier access to recognition of prior learning is to be ensured in all publicly financed adult education and continuing training programmes from basic adult education to diploma (bachelor) level.
+- Better and easier access to recognition of prior learning is to be ensured in all publicly financed adult education and continuing training programmes from basic adult education to diploma (bachelor) level.
 
-- f A significant effort to increase participation in literacy and numeracy courses for adults. Provision is to be made more flexible, and the possibilities of combining literacy and numeracy courses with adult vocational training are to be utilised better.
+- A significant effort to increase participation in literacy and numeracy courses for adults. Provision is to be made more flexible, and the possibilities of combining literacy and numeracy courses with adult vocational training are to be utilised better.
 
-- f Better provision for bilinguals who have problems with the Danish language will be developed in Danish language education programmes for foreign adults and in other general and vocational adult education to ensure that they can cope in the labour market and as citizens.
+- Better provision for bilinguals who have problems with the Danish language will be developed in Danish language education programmes for foreign adults and in other general and vocational adult education to ensure that they can cope in the labour market and as citizens.
 
-- f Adult education and continuing training provision in, for example, labour market training will be made more attractive, targeted and flexible in relation to the needs of individuals and enterprises.
+- Adult education and continuing training provision in, for example, labour market training will be made more attractive, targeted and flexible in relation to the needs of individuals and enterprises.
 
-- f A better and broader range of qualifying adult education programmes at higher education levels shall be developed in the adult further education system.
+- A better and broader range of qualifying adult education programmes at higher education levels shall be developed in the adult further education system.
 
-- f The number of adult apprentices who can obtain a vocational education and training qualification shall be increased through increased State grants.
+- The number of adult apprentices who can obtain a vocational education and training qualification shall be increased through increased State grants.
 
-- f Ensuring institutions' conditions of provision, more flexible tuition fees and a new model for financing special allowances in vocational adult education and continuing training are to be discussed with the social partners and the political parties behind the welfare agreement.
+- Ensuring institutions' conditions of provision, more flexible tuition fees and a new model for financing special allowances in vocational adult education and continuing training are to be discussed with the social partners and the political parties behind the welfare agreement.
 
 Lifelong skills upgrading for all 23
 
@@ -500,11 +563,11 @@ Lifelong skills upgrading for all 23
 
 [[START OF PAGE 26]]
 
-- f Systematic competence development in small and medium-sized enterprises will be promoted in public as well as private enterprises through, among other things, the development of methods and tools.
+- Systematic competence development in small and medium-sized enterprises will be promoted in public as well as private enterprises through, among other things, the development of methods and tools.
 
-- f Increased public and private investment in adult education and continuing training will be promoted.
+- Increased public and private investment in adult education and continuing training will be promoted.
 
-- f The progress of efforts in the area of adult education and continuing training will be monitored through the development of an indicator system.
+- The progress of efforts in the area of adult education and continuing training will be monitored through the development of an indicator system.
 
 In order to fulfil the goals and key initiatives the Government has set aside an extra DKK 2 billion over a six year period for the area of adult education and continuing training within the context of a broad political agreement. Of these, DKK 1 billion has been set aside to strengthening vocational adult education and continuing training, subject to the condition that in forthcoming collective bargaining the social partners accept greater financial co-responsibility for an increased effort in the area of adult education and continuing training.
 
@@ -528,7 +591,7 @@ Guidance for young people must be strengthened and professionalised. It is the G
 
 Guidance and counselling about opportunities in adult education and continuing training for workers and enterprises must also be improved. It is the Government's aim that the guidance effort shall contribute to strengthening the demand from both employees and enterprises. For the groups which have the greatest barriers to participation, the outreach guidance and counselling effort shall be increased. Better and more informed guidance for young people and adults shall be promoted through, among other things, the following initiatives:
 
-- f Increased guidance at all levels - in the basic compulsory school, upper secondary education, higher education and in relation to the adult education and training system.
+- Increased guidance at all levels - in the basic compulsory school, upper secondary education, higher education and in relation to the adult education and training system.
 
 Crosscutting actions 25
 
@@ -536,21 +599,21 @@ Crosscutting actions 25
 
 [[START OF PAGE 28]]
 
-- f The establishment of a professional bachelor degree in education and vocational guidance.
+- The establishment of a professional bachelor degree in education and vocational guidance.
 
-- f New initiatives to reinforce the guidance effort in adult education and continuing training with particular emphasis on the needs of those with the lowest level of formal education for guidance and advice from enterprises.
+- New initiatives to reinforce the guidance effort in adult education and continuing training with particular emphasis on the needs of those with the lowest level of formal education for guidance and advice from enterprises.
 
 ### Recognition of prior learning
 
 It is the Government's aim to create better opportunities for individuals to have their knowledge, skills and competences assessed and recognised within the adult education and continuing training, regardless of where they were acquired. This is to promote the participation by adults in adult education and continuing training and to improve their opportunities in the labour market. This is to be promoted especially through the following initiatives:
 
-- f Implementation of legislation on increased recognition of prior learning in adult education and continuing training, from general adult education to diploma level, which will enter into force in 2007/2008.
+- Implementation of legislation on increased recognition of prior learning in adult education and continuing training, from general adult education to diploma level, which will enter into force in 2007/2008.
 
-- f Quality assurance of competence assessment and recognition of prior learning by educational institutions, including the introduction of a right of appeal.
+- Quality assurance of competence assessment and recognition of prior learning by educational institutions, including the introduction of a right of appeal.
 
-- f Development of simple and easily accessible documentation tools which individuals can use to identify, clarify and describe their prior learning obtained during work and leisure activities. The tools shall also be made accessible on the Internet.
+- Development of simple and easily accessible documentation tools which individuals can use to identify, clarify and describe their prior learning obtained during work and leisure activities. The tools shall also be made accessible on the Internet.
 
-- f A nationwide information campaign on new and existing adult education and continuing training specifically targeted at bilinguals and on opportunities for immigrants to have their competences and previous education recognised.
+- A nationwide information campaign on new and existing adult education and continuing training specifically targeted at bilinguals and on opportunities for immigrants to have their competences and previous education recognised.
 
 It is the Government's aim in the slightly longer term to enhance the recognition of prior learning in the mainstream education system as well.
 
@@ -564,17 +627,17 @@ It is the Government's aim in the slightly longer term to enhance the recognitio
 
 Cohesion and transparency in the education system is to be promoted. It is the Government's aim that there shall be better transition between all levels in the education system and opportunities to transfer credit, and that the education system shall be transparent and accessible to all. This is to be implemented through, the following initiatives in particular:
 
-- f Better bridging between basic compulsory school, upper secondary education and higher education. An enhanced guidance effort shall contribute to fulfil this aim.
+- Better bridging between basic compulsory school, upper secondary education and higher education. An enhanced guidance effort shall contribute to fulfil this aim.
 
-- f Better opportunities for credit transfer in the education system and increased recognition of prior learning in adult education and continuing training. Among other things, a right of appeal shall be introduced for decisions concerning credit and recognition of prior learning.
+- Better opportunities for credit transfer in the education system and increased recognition of prior learning in adult education and continuing training. Among other things, a right of appeal shall be introduced for decisions concerning credit and recognition of prior learning.
 
-- f Greater transparency and cohesion in the education system shall be promoted through the development of a coherent national qualifications framework which will include the existing framework for higher education. At the same time, a coherent national qualification framework shall help improve comparison and recognition of qualifications between Denmark and other European countries.
+- Greater transparency and cohesion in the education system shall be promoted through the development of a coherent national qualifications framework which will include the existing framework for higher education. At the same time, a coherent national qualification framework shall help improve comparison and recognition of qualifications between Denmark and other European countries.
 
 ### Global perspective in education
 
 All young people shall complete an education programme with a global perspective, and many more young people shall spend time studying abroad. This is important because scientists, staff and enterprises increasingly cross national borders and cooperate with other countries. This makes demands on our abilities to succeed globally and on our understanding of other cultures. It is therefore the Government's aim that education shall provide young Danes with strong academic competences as well as with a global outlook. This shall be promoted through the following initiatives in particular:
 
-- f English teaching is to be strengthened in upper secondary education and pupils shall participate in teaching projects with an international outlook.
+- English teaching is to be strengthened in upper secondary education and pupils shall participate in teaching projects with an international outlook.
 
 Crosscutting actions 27
 
@@ -582,27 +645,27 @@ Crosscutting actions 27
 
 [[START OF PAGE 30]]
 
-- f A new system of scholarships for study abroad will be introduced for young people in higher education.
+- A new system of scholarships for study abroad will be introduced for young people in higher education.
 
-- f Higher education institutions will be obliged to set targets for the internationalisation of education programmes.
+- Higher education institutions will be obliged to set targets for the internationalisation of education programmes.
 
-- f An improved free place and scholarship scheme will be introduced to attract a greater number of talented foreign students to Denmark.
+- An improved free place and scholarship scheme will be introduced to attract a greater number of talented foreign students to Denmark.
 
 ### Stronger professional educational institutions
 
 Stronger training institutions are to be developed. It is the Government's goal to create fewer and stronger institutions with a large academic breadth and high quality. This shall help develop and future-proof education and training, and help strengthen knowledge development and innovation through interaction with research and enterprises etc. This is to be implemented especially through the following initiatives:
 
-- f Voluntary mergers between universities and sector research institutions.
+- Voluntary mergers between universities and sector research institutions.
 
-- f All medium cycle higher education programmes will be gathered in six to eight multi-disciplinary regional university colleges.
+- All medium cycle higher education programmes will be gathered in six to eight multi-disciplinary regional university colleges.
 
-- f A national accreditation system will be introduced for higher education programmes.
+- A national accreditation system will be introduced for higher education programmes.
 
-- f A pilot project in 2007 is carried out on regional competence centres in the area of adult vocational education and continuing training.
+- A pilot project in 2007 is carried out on regional competence centres in the area of adult vocational education and continuing training.
 
 ### Partnerships in education and training and lifelong skills upgrading
 
-Partnerships in education and lifelong skills upgrading shall be strengthened. It is the Government's aim that all - national, regional and local players - shall be involved in and accept coresponsibility for ensuring that the strategy is broadly anchored in the Danish society.
+Partnerships in education and lifelong skills upgrading shall be strengthened. It is the Government's aim that all - national, regional and local players - shall be involved in and accept co-responsibility for ensuring that the strategy is broadly anchored in the Danish society.
 
 28 Crosscutting actions
 
@@ -610,7 +673,7 @@ Partnerships in education and lifelong skills upgrading shall be strengthened. I
 
 [[START OF PAGE 31]]
 
-The Government and members of the Globalisation Council have entered into a framework agreement on binding partnerships which *may help convert the strategy into concrete action.
+The Government and members of the Globalisation Council have entered into a framework agreement on binding partnerships which may help convert the strategy into concrete action.
 
 The partnerships shall include specific agreements on how business and organisations can and will participate in cooperation projects and initiatives. Partnerships in the area of education and competence development can help strengthen the quality of and demand for education and adult education and continuing training and can help strengthen regional efforts to promote growth and business development.
 
@@ -640,25 +703,25 @@ It is the Government's aim to increase the value placed on learning which takes 
 
 ### Facts about liberal adult education and association life
 
-- f 50,000 participated in a residential folk high school in 2004 with Government grants totalling DKK 432 million. The first folk high schools were established through popular movements more than 150 years ago.
+- 50,000 participated in a residential folk high school in 2004 with Government grants totalling DKK 432 million. The first folk high schools were established through popular movements more than 150 years ago.
 
-- f 675,000 participated in evening school education programmes in 2004 with municipal grants totalling DKK 175 million.
+- 675,000 participated in evening school education programmes in 2004 with municipal grants totalling DKK 175 million.
 
-- f A third of the population performs voluntary work.
+- A third of the population performs voluntary work.
 
-- f The number of voluntary organisations is estimated at over 83,000 local associations, 6,200 foundations, almost 8,000 self-governing institutions and around 3,000 national organisations.
+- The number of voluntary organisations is estimated at over 83,000 local associations, 6,200 foundations, almost 8,000 self-governing institutions and around 3,000 national organisations.
 
-- f A charter for interaction between the Danish voluntary/association sector and the public sector was drawn up in 2001 by a working group comprising politicians and representatives of the voluntary sector.
+- A charter for interaction between the Danish voluntary/association sector and the public sector was drawn up in 2001 by a working group comprising politicians and representatives of the voluntary sector.
 
 Not least on this basis, the Government has taken the initiative to promote the interaction between education, liberal adult education and learning in association activities etc. through:
 
-- f A new Act on Folk High Schools in 2006 which makes it possible to elect lessons preparing for examinations or leading to qualifications as part of a high school course.
+- A new Act on Folk High Schools in 2006 which makes it possible to elect lessons preparing for examinations or leading to qualifications as part of a high school course.
 
-- f The introduction of new legislation on the right to competence assessment and recognition of prior learning in adult education and continuing training based on, among other things, the fact that learning in liberal adult education and association activities should also be allowed to be included in the assessment of relevant competences for the purposes of adult education and continuing training.
+- The introduction of new legislation on the right to competence assessment and recognition of prior learning in adult education and continuing training based on, among other things, the fact that learning in liberal adult education and association activities should also be allowed to be included in the assessment of relevant competences for the purposes of adult education and continuing training.
 
-- f The development of documentation tools in cooperation with liberal adult educational organisations and representatives of associations and voluntary organisations which individuals can use to document competences acquired in liberal adult education and association and leisure life activities.
+- The development of documentation tools in cooperation with liberal adult educational organisations and representatives of associations and voluntary organisations which individuals can use to document competences acquired in liberal adult education and association and leisure life activities.
 
-- f The introduction of the strategy Fra information til viden - 2006 (From information to knowledge - 2006) in the library sector to actively support the learning of citizens.
+- The introduction of the strategy Fra information til viden - 2006 (From information to knowledge - 2006) in the library sector to actively support the learning of citizens.
 
 Liberal adult education, associations and leisure activities 31
 
@@ -676,13 +739,13 @@ Everyone is needed in the labour market. This has created a need for an extraord
 
 This is to be implemented through the following initiatives in particular:
 
-- f An improved job rotation scheme which also includes a special job rotation benefit for enterprises using the scheme.
+- An improved job rotation scheme which also includes a special job rotation benefit for enterprises using the scheme.
 
-- f An improvement of the grant scheme for enterprises which enter into vocational education and training contracts with adults.
+- An improvement of the grant scheme for enterprises which enter into vocational education and training contracts with adults.
 
-- f A pilot project on screening of the literacy skills of the unemployed. This will be aimed at people with little or no formal education.
+- A pilot project on screening of the literacy skills of the unemployed. This will be aimed at people with little or no formal education.
 
-- f Young unemployed persons between the ages of 18 and 30 who do not already have a qualification are to be given the greatest possible encouragement to take a normal education programme on normal terms and conditions.
+- Young unemployed persons between the ages of 18 and 30 who do not already have a qualification are to be given the greatest possible encouragement to take a normal education programme on normal terms and conditions.
 
 32 Employment and integration
 
@@ -690,11 +753,11 @@ This is to be implemented through the following initiatives in particular:
 
 [[START OF PAGE 35]]
 
-- f Ny chance til alle (A new chance for everyone) - a special action aimed at passive recipients of cash benefit and starting assistance who have been recipients of benefit for more than one year.
+- Ny chance til alle (A new chance for everyone) - a special action aimed at passive recipients of cash benefit and starting assistance who have been recipients of benefit for more than one year.
 
-- f Together with the municipal stakeholders and the social partners, the Government has entered into a four-party agreement giving immigrants better opportunities to learn to speak Danish and gain practical skills and qualifications.
+- Together with the municipal stakeholders and the social partners, the Government has entered into a four-party agreement giving immigrants better opportunities to learn to speak Danish and gain practical skills and qualifications.
 
-- f A basic course in labour market Danish for immigrants is being developed. The course, which is being offered as a three-year trial under the Ministry of Integration, is being organised based on the needs of the labour market and with the view of a possible later participation in, for example, labour market training or general adult education.
+- A basic course in labour market Danish for immigrants is being developed. The course, which is being offered as a three-year trial under the Ministry of Integration, is being organised based on the needs of the labour market and with the view of a possible later participation in, for example, labour market training or general adult education.
 
 Employment and integration 33
 
@@ -712,17 +775,17 @@ With a broad political agreement on future prosperity and an agreement on the al
 
 The Government's implementation of the strategy includes the following main points:
 
-- f Proposals for new legislative initiatives shall be presented to the Folketing in 2006/2007.
+- Proposals for new legislative initiatives shall be presented to the Folketing in 2006/2007.
 
-- f Implementation of new initiatives in 2006/2007 (financed by the globalisation funds).
+- Implementation of new initiatives in 2006/2007 (financed by the globalisation funds).
 
-- f Tripartite talks (Government and the social partners) in 2007 on the future financing of adult education and continuing training
+- Tripartite talks (Government and the social partners) in 2007 on the future financing of adult education and continuing training
 
-- f Political talks with the political parties behind the Welfare Agreement on the principles for the allocation of DKK 1 billion extra for vocational adult education and continuing training.
+- Political talks with the political parties behind the Welfare Agreement on the principles for the allocation of DKK 1 billion extra for vocational adult education and continuing training.
 
-- f Monitoring of new legislation in 2009/2010.
+- Monitoring of new legislation in 2009/2010.
 
-- f Evaluation of new initiatives (the globalisation funds) in 2009 with a view to a political discussion of the effect and continuation of the initiatives and prioritisation of new initiatives for the period 20102012.
+- Evaluation of new initiatives (the globalisation funds) in 2009 with a view to a political discussion of the effect and continuation of the initiatives and prioritisation of new initiatives for the period 2010-2012.
 
 34
 
@@ -732,14 +795,12 @@ The next steps
 
 [[START OF PAGE 37]]
 
-The report Denmark's strategy for lifelong learning Education and lifelong skills upgrading for all has been prepared by the Ministry of Education with contributions from the Ministry of Science, Technology and Innovation, the Ministry of Employment, the Ministry of Culture, the Ministry of Economic and Business Affairs, the Ministry of Social Affairs, the Ministry of Refugee, Immigration and Integration Affairs and the Ministry of Family and Consumer Affairs.
+The report Denmark's strategy for lifelong learning - Education and lifelong skills upgrading for all has been prepared by the Ministry of Education with contributions from the Ministry of Science, Technology and Innovation, the Ministry of Employment, the Ministry of Culture, the Ministry of Economic and Business Affairs, the Ministry of Social Affairs, the Ministry of Refugee, Immigration and Integration Affairs and the Ministry of Family and Consumer Affairs.
 
-I SBN
+UNDERVISNINGS MINISTERIET
 
-978 - 87 - 603 - 2648 - 6
+ISBN 978-87-603-2648-6
 
-9
-
-788760 326486
+9 788760 326486
 
 [[END OF PAGE 37]]
