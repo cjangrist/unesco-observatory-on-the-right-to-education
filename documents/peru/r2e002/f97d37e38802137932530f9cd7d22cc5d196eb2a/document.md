@@ -42,6 +42,12 @@ The  Democratic  Constituent  Congress  invoking  Almighty  God,  obeying  the m
 
 [[START OF PAGE 4]]
 
+# POLITICAL CONSTITUTION OF PERU
+
+# TITLE I THE PERSON AND THE SOCIETY
+
+## CHAPTER I FUNDAMENTAL RIGHTS OF THE PERSON
+
 ### Article 1
 
 The defense of the human person and respect for his dignity are the supreme purpose of the society and the State.
@@ -50,25 +56,19 @@ The defense of the human person and respect for his dignity are the supreme purp
 
 Every person has the right:
 
-- To life,  his  identity,  his  moral,  psychical,  and  physical  integrity,  and  his  free development and well-being. The unborn child is a rights-bearing subject in all cases that benefit him.
+1. To life, his identity, his moral, psychical, and physical integrity, and his free development and well-being. The unborn child is a rights-bearing subject in all cases that benefit him.
 
-- To  equality  before  the  law.  No  person  shall  be  discriminated  against  on  the basis of origin, race, sex,  language, religion, opinion, economic status, or any other distinguishing feature.
+2. To equality before the law. No person shall be discriminated against on the basis of origin, race, sex, language, religion, opinion, economic status, or any other distinguishing feature.
 
-- To freedom of conscience and religion, in an individual or collective manner. No person shall be persecuted on the basis of his ideas or beliefs. There is no crime  of  opinion.  Public  exercise  of  any  faith  is  free,  insofar  as  it  does  not constitute an offense against morals, or a disturbance of the public order.
+3. To freedom of conscience and religion, in an individual or collective manner. No person shall be persecuted on the basis of his ideas or beliefs. There is no crime of opinion. Public exercise of any faith is free, insofar as it does not constitute an offense against morals, or a disturbance of the public order.
 
-- To freedom of information, opinion, expression, and dissemination of thought, whether oral, written, or in images, through any medium of social communication, and without previous authorization, censorship, or impediment, under penalty of law.
+4. To freedom of information, opinion, expression, and dissemination of thought, whether oral, written, or in images, through any medium of social communication, and without previous authorization, censorship, or impediment, under penalty of law.
 
 Crimes committed by means of books, the press, and any other social media are defined by the Criminal Code and tried in a court of law.
 
-Any action that suspends or closes down any organ of expression or prevents its free  circulation  constitutes  a  crime.  The  rights  of  information  and  opinion include those of founding means of communication.
+Any action that suspends or closes down any organ of expression or prevents its free circulation constitutes a crime. The rights of information and opinion include those of founding means of communication.
 
-- To  request,  without  statement  of  a  cause,  information  he  requires,  and  to receive it from any public entity within the legal term, at its respective cost.
-
-# POLITICAL CONSTITUTION OF PERU
-
-# TITLE I THE PERSON AND THE SOCIETY
-
-## CHAPTER I FUNDAMENTAL RIGHTS OF THE PERSON
+5. To request, without statement of a cause, information he requires, and to receive it from any public entity within the legal term, at its respective cost.
 
 4
 
@@ -80,25 +80,25 @@ Exception  is  hereby  made  of  information  affecting  personal  privacy  and 
 
 Bank secrecy and the confidentiality of tax filings may be lifted by the request of a judge, the Prosecutor General, or a congressional investigative committee, in accordance with the law and provided that such information refers to a case under investigation.
 
-- to  the  assurance  that  information  services,  whether  computerized  or  not, whether public or private, will not provide information affecting personal and family privacy.
+6. to the assurance that information services, whether computerized or not, whether public or private, will not provide information affecting personal and family privacy.
 
-- To his honor and good reputation, to personal and family privacy, as well as to his own voice and image.
+7. To his honor and good reputation, to personal and family privacy, as well as to his own voice and image.
 
 Every person affected by inaccurate statements or injured in any social medium has the right to demand free, immediate, and proportionate rectification, other legal liabilities notwithstanding.
 
-- To freedom of intellectual, artistic, technical, and scientific creation, as well as to ownership of such creations and to any benefits derived from them. The State promotes access to culture and encourages its development and dissemination.
+8. To freedom of intellectual, artistic, technical, and scientific creation, as well as to ownership of such creations and to any benefits derived from them. The State promotes access to culture and encourages its development and dissemination.
 
-- To the inviolability of his home. No one may enter a dwelling or conduct any investigation  or  search  without  authorization  from  the  inhabitant  or  without  a warrant,  except  in  cases  of in  flagrante  delicto or  serious  threat  of  the perpetration  thereof.  Exceptions  for  reasons  of  health  or  serious  risk  are governed by law.
+9. To the inviolability of his home. No one may enter a dwelling or conduct any investigation or search without authorization from the inhabitant or without a warrant, except in cases of in flagrante delicto or serious threat of the perpetration thereof. Exceptions for reasons of health or serious risk are governed by law.
 
-- To the secrecy and inviolability of private communications and documents.
+10. To the secrecy and inviolability of private communications and documents.
 
 Communications, telecommunications, or any private correspondence may only be opened, seized, intercepted, or tapped by the authority of a warrant issued by a judge and with all the guarantees provided in the law. Any matter unrelated to the circumstances under examination shall be kept secret.
 
 Private documents obtained in violation of this provision have no legal effect.
 
-Books,  receipts,  and  accounting  and  administrative  documents  are  subject  to inspection or audit by the relevant authority in accordance with the law. Any action thus taken may not include removal or seizure, except by a court order.
+Books, receipts, and accounting and administrative documents are subject to inspection or audit by the relevant authority in accordance with the law. Any action thus taken may not include removal or seizure, except by a court order.
 
-- To  choose  his  place  of  residence,  to  move  freely  throughout  the  national territory,  and  to  leave  the  country  and  return  to  it,  excepting  restrictions  for reasons of health or due to a court order, or to the application of the Immigration Act.
+11. To choose his place of residence, to move freely throughout the national territory, and to leave the country and return to it, excepting restrictions for reasons of health or due to a court order, or to the application of the Immigration Act.
 
 5
 
@@ -106,33 +106,33 @@ Books,  receipts,  and  accounting  and  administrative  documents  are  subject
 
 [[START OF PAGE 6]]
 
-- To peaceful assembly without arms. Meetings on any premises, whether private or open to the public, do not require prior notification. Meetings held in squares and public thoroughfares require advance notification by the relevant authority, which may prohibit such meetings solely for proved reasons of safety or public health.
+12. To peaceful assembly without arms. Meetings on any premises, whether private or open to the public, do not require prior notification. Meetings held in squares and public thoroughfares require advance notification by the relevant authority, which may prohibit such meetings solely for proved reasons of safety or public health.
 
-- To associate and establish  foundations and other  forms of  not-for-profit  legal organizations,  without  prior  authorization,  and  in  accordance  with  the  law. These organizations may not be dissolved by administrative resolution.
+13. To associate and establish foundations and other forms of not-for-profit legal organizations, without prior authorization, and in accordance with the law. These organizations may not be dissolved by administrative resolution.
 
-- To make contracts for lawful purposes, whenever they do not contravene laws of public order.
+14. To make contracts for lawful purposes, whenever they do not contravene laws of public order.
 
-- To work freely, in accordance with the law.
+15. To work freely, in accordance with the law.
 
-- To property and inheritance.
+16. To property and inheritance.
 
-- To  participate,  individually  or  in  association  with  others,  in  the  political, economic, social, and cultural life of the  Nation. Citizens,  in accordance with the  law,  have  the  right  to  elect,  remove  or  revoke  public  authorities,  and  to legislative initiative, and referendum.
+17. To participate, individually or in association with others, in the political, economic, social, and cultural life of the Nation. Citizens, in accordance with the law, have the right to elect, remove or revoke public authorities, and to legislative initiative, and referendum.
 
-- To keep his political, philosophical, religious, or any other type of conviction private, as well as to keep professional secrets.
+18. To keep his political, philosophical, religious, or any other type of conviction private, as well as to keep professional secrets.
 
-- To his ethnic and cultural identity. The State recognizes and protects the ethnic and cultural diversity of the Nation.
+19. To his ethnic and cultural identity. The State recognizes and protects the ethnic and cultural diversity of the Nation.
 
-Every Peruvian has the right to use his own language before any authority by means of an  interpreter.  Foreigners  enjoy  the  same  right  when  summoned by any authority.
+Every Peruvian has the right to use his own language before any authority by means of an interpreter. Foreigners enjoy the same right when summoned by any authority.
 
-- To submit petitions in writing, individually or collectively, before the competent authority, who is obliged to respond to the interested party also in writing within the legally prescribed term, under penalty of law.
+20. To submit petitions in writing, individually or collectively, before the competent authority, who is obliged to respond to the interested party also in writing within the legally prescribed term, under penalty of law.
 
 Members of the Armed Forces and the National Police may only exercise their right to petition in an individual manner.
 
-- To  his  nationality.  No  one  may  be  stripped  of  it.  Nor  may  any  person  be deprived  of  the  right  to  obtain  or  renew  his  passport  inside  or  outside  the territory of the Republic.
+21. To his nationality. No one may be stripped of it. Nor may any person be deprived of the right to obtain or renew his passport inside or outside the territory of the Republic.
 
-- To  peace,  tranquility,  enjoyment  of  leisure  time,  and  rest,  as  well  as  to  a balanced and appropriate environment for the development of his life.
+22. To peace, tranquility, enjoyment of leisure time, and rest, as well as to a balanced and appropriate environment for the development of his life.
 
-- To self-defense.
+23. To self-defense.
 
 6
 
@@ -142,25 +142,25 @@ Members of the Armed Forces and the National Police may only exercise their righ
 
 24. To freedom and personal security. In consequence:
 
-- No one is obliged to do what the law does not command, nor prevented from doing what the law does not prohibit.
+a. No one is obliged to do what the law does not command, nor prevented from doing what the law does not prohibit.
 
-- No restrictions whatsoever to personal freedom shall be permitted, except in  cases  provided  by  the  law.  Slavery,  servitude,  and  traffic  in  human beings are prohibited in any form.
+b. No restrictions whatsoever to personal freedom shall be permitted, except in cases provided by the law. Slavery, servitude, and traffic in human beings are prohibited in any form.
 
-- There is no imprisonment for debts. This provision does not restrict court orders in the case of contempt regarding child support obligations.
+c. There is no imprisonment for debts. This provision does not restrict court orders in the case of contempt regarding child support obligations.
 
-- No one shall be prosecuted or convicted for any act or omission that, at the  time  of  its  commission,  was  not  previously  prescribed  in  the  law expressly and unequivocally as a punishable violation, or did not constitute an offense penalized by law.
+d. No one shall be prosecuted or convicted for any act or omission that, at the time of its commission, was not previously prescribed in the law expressly and unequivocally as a punishable violation, or did not constitute an offense penalized by law.
 
-- Every person has the right to be presumed innocent until proven guilty.
+e. Every person has the right to be presumed innocent until proven guilty.
 
-- No one may be arrested without a written warrant issued by a judge for a cause or by police authorities in cases of in flagrante delicto. The arrested person shall be placed at the disposal of the relevant court within twentyfour hours or within the time required for travel.
+f. No one may be arrested without a written warrant issued by a judge for a cause or by police authorities in cases of in flagrante delicto. The arrested person shall be placed at the disposal of the relevant court within twenty-four hours or within the time required for travel.
 
-In  the  cases  of  terrorism,  espionage,  and  illicit  drug  trafficking,  these terms shall not apply.
+In the cases of terrorism, espionage, and illicit drug trafficking, these terms shall not apply.
 
 In such cases, police authorities may make the preventive arrest of those allegedly involved, to last no more than fifteen calendar days. They shall notify the Office of the Prosecutor General and the judge, and the latter may assume jurisdiction before that period of time expires.
 
-- No  one  may  be  held  incommunicado,  except  where  it  is  considered indispensable  for  the  resolution  of  a  crime  and  in  the  form  and  for  the time provided by law. The authority is obliged by law to report, without delay  and  in  writing,  the  place  where  the  individual  under  arrest  is detained.
+g. No one may be held incommunicado, except where it is considered indispensable for the resolution of a crime and in the form and for the time provided by law. The authority is obliged by law to report, without delay and in writing, the place where the individual under arrest is detained.
 
-- No one shall be a victim of moral, psychical, or physical violence, nor be subjected to torture or inhuman or humiliating treatment. Any individual may immediately request a medical examination for the injured person or someone who is unable to appeal to the authorities by himself. Statements obtained by means of violence are null and void. Whoever employs such violence shall be held liable.
+h. No one shall be a victim of moral, psychical, or physical violence, nor be subjected to torture or inhuman or humiliating treatment. Any individual may immediately request a medical examination for the injured person or someone who is unable to appeal to the authorities by himself. Statements obtained by means of violence are null and void. Whoever employs such violence shall be held liable.
 
 7
 
@@ -322,7 +322,7 @@ In  accordance  with  the  law,  private  participation  is  encouraged  in  the
 
 ### Article 22
 
-Work  is  a  right  and  a  duty.  It  is  the  foundation  for  social  welfare  and  a  means  of  selfrealization.
+Work is a right and a duty. It is the foundation for social welfare and a means of self-realization.
 
 ### Article 23
 
@@ -352,9 +352,9 @@ Workers have the right to weekly and annual paid vacations. This benefit and com
 
 The following principles must be respected in labor relationships:
 
-- Equal opportunity without discrimination.
+1. Equal opportunity without discrimination.
 
-- Inalienability of the rights recognized by the Constitution and the law.
+2. Inalienability of the rights recognized by the Constitution and the law.
 
 12
 
@@ -362,7 +362,7 @@ The following principles must be respected in labor relationships:
 
 [[START OF PAGE 13]]
 
-- Interpretation  in  favor of  the  worker  in  cases  of  insurmountable  doubt on the meaning of a regulation.
+3. Interpretation in favor of the worker in cases of insurmountable doubt on the meaning of a regulation.
 
 ### Article 27
 
@@ -372,13 +372,13 @@ The law grants the worker suitable protection against unfair dismissal.
 
 The  State  recognizes  the  right  of  workers  to  join  trade  unions,  to  engage  in  collective bargaining, and to strike. It ensures their democratic exercise by:
 
-- Guaranteeing freedom to form trade unions.
+1. Guaranteeing freedom to form trade unions.
 
-- Encouraging collective bargaining and promoting peaceful settlement to labor disputes.
+2. Encouraging collective bargaining and promoting peaceful settlement to labor disputes.
 
 Collective agreements are binding in the matters concerning their terms.
 
-- Regulating the right to strike so that it is exercised in harmony with the social interest. It defines exceptions and limitations.
+3. Regulating the right to strike so that it is exercised in harmony with the social interest. It defines exceptions and limitations.
 
 ### Article 29
 
@@ -414,13 +414,13 @@ Any act that prohibits or abridges the exercise of citizen rights shall be null 
 
 A referendum may be held on the following:
 
-- Partial or complete amendment of the Constitution.
+1. Partial or complete amendment of the Constitution.
 
-- Approval of binding rules.
+2. Approval of binding rules.
 
-- Municipal ordinances.
+3. Municipal ordinances.
 
-- Matters regarding the decentralization process.
+4. Matters regarding the decentralization process.
 
 Abolition or abridgement of the fundamental rights of the person may not be submitted to a referendum, neither may tax and budget rules nor international treaties in force.
 
@@ -428,11 +428,11 @@ Abolition or abridgement of the fundamental rights of the person may not be subm
 
 Exercise of citizenship may be suspended by:
 
-- Judicial interdiction.
+1. Judicial interdiction.
 
-- Sentence of imprisonment.
+2. Sentence of imprisonment.
 
-- Sentence of disqualification from political rights.
+3. Sentence of disqualification from political rights.
 
 * Article amended by Law No. 28480, published on March 30th, 2005. Before the amendment, this article stated :
 
@@ -488,21 +488,23 @@ All Peruvians have the duty to honor Peru and to protect national interests, as 
 
 [[START OF PAGE 16]]
 
+## CHAPTER IV PUBLIC SERVICE
+
 ### Article 39
 
-All public officials and civil servants are in the service of the Nation. The President of the Republic is the highest official in the service of the Nation, followed by, in this order of importance: Congressmen, members of the Cabinet, members of the Constitutional Court and the Council of the Magistracy, Justices of the Supreme Court, the Prosecutor General of  the  Nation  and  the  Ombudsman,  in  the  same  category,  and  the  representatives  of  the decentralized agencies and Mayors, in accordance with the law.
+All public officials and civil servants are in the service of the Nation. The President of the Republic is the highest official in the service of the Nation, followed by, in this order of importance: Congressmen, members of the Cabinet, members of the Constitutional Court and the Council of the Magistracy, Justices of the Supreme Court, the Prosecutor General of the Nation and the Ombudsman, in the same category, and the representatives of the decentralized agencies and Mayors, in accordance with the law.
 
 ### Article 40
 
-The  law  regulates  the  entry  into  the  civil  service,  as  well  as  the  rights,  duties,  and responsibilities of public servants. Officials holding political posts and posts of trust are not included  in  the  civil  service.  No  official  or  civil  servant  may  hold  more  than  one remunerated office, with the exception of an additional teaching position.
+The law regulates the entry into the civil service, as well as the rights, duties, and responsibilities of public servants. Officials holding political posts and posts of trust are not included in the civil service. No official or civil servant may hold more than one remunerated office, with the exception of an additional teaching position.
 
-Workers employed in state-owned enterprises or public and private  joint-ventures are not included in the civil service.
+Workers employed in state-owned enterprises or public and private joint-ventures are not included in the civil service.
 
-Incomes received  for any purpose by senior officials  and other civil  servants, as the  law prescribes by virtue of their posts, must be published periodically in the official gazette.
+Incomes received for any purpose by senior officials and other civil servants, as the law prescribes by virtue of their posts, must be published periodically in the official gazette.
 
 ### Article 41
 
-Officials and public servants whom the law specifies or who manage or handle State funds or  funds  of  bodies  financially  supported  by  the  State  shall  make  a  statement  of  property owned  and  of  income  upon  assuming,  holding,  and  leaving  office.  The  corresponding publication is to be made in the official gazette under the terms and conditions prescribed by the law.
+Officials and public servants whom the law specifies or who manage or handle State funds or funds of bodies financially supported by the State shall make a statement of property owned and of income upon assuming, holding, and leaving office. The corresponding publication is to be made in the official gazette under the terms and conditions prescribed by the law.
 
 When there is presumption of illicit enrichment, the Prosecutor General shall, by complaint from third parties or by virtue of his office, bring charges before the court.
 
@@ -513,8 +515,6 @@ The length of the statute of limitations is doubled for crimes against State ass
 ### Article 42
 
 The rights of civil servants to unionize and strike are acknowledged by law. State officials with decision-making powers, those in posts of trust or of management, as well as members of the Armed Forces and the National Police are not included herein.
-
-## CHAPTER IV PUBLIC SERVICE
 
 16
 
@@ -622,13 +622,13 @@ Treaties formalized by the State and in force are part of national law.
 
 Treaties must be approved by the Congress before their ratification by the President of the Republic, provided that they concern the following matters:
 
-- Human rights.
+1. Human rights.
 
-- Sovereignty, dominion, or integrity of the State.
+2. Sovereignty, dominion, or integrity of the State.
 
-- National defense.
+3. National defense.
 
-- Financial obligations of the State.
+4. Financial obligations of the State.
 
 Treaties that create, modify, or eliminate taxes that require modification or repeal of any law, or that require legislative measures for their application, must also be approved by the Congress .
 
@@ -930,6 +930,8 @@ The  Executive  Branch  appoints  the  Superintendent  of  Banking,  Insurance, 
 
 [[START OF PAGE 28]]
 
+## CHAPTER VI THE AGRICULTURAL REGIME AND RURAL AND NATIVE COMMUNITIES
+
 ### Article 88
 
 The  State  preferentially  supports  agricultural  development  and  guarantees  the  right  to ownership of the land, whether private, communal, or in any other form of partnership. The law may define boundaries and land area based on the features of each zone.
@@ -958,15 +960,13 @@ There  are  130  congressmen,  elected  for  terms  of  five  years  through  an
 
 > The Executive Branch appoints the Superintendent of Banking and Insurance for the period corresponding to his constitutional term of office. Congress ratifies him.
 
-## CHAPTER VI THE AGRICULTURAL REGIME AND RURAL AND NATIVE COMMUNITIES
-
 28
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-To be elected congressman, one must be Peruvian by birth, have attained the age of twentyfive years, and enjoy the right to vote. 
+To be elected congressman, one must be Peruvian by birth, have attained the age of twenty-five years, and enjoy the right to vote. 
 
 -------------------------------------------------------------------
 
@@ -1214,6 +1214,8 @@ Bills of organic acts are processed like any other law. In order to pass or amen
 
 [[START OF PAGE 35]]
 
+## CHAPTER III LAWMAKING AND ENACTMENT
+
 ### Article 107
 
 Both  the  President  of  the  Republic  and  the  congressmen  have  the  right  to  initiative  in lawmaking.
@@ -1245,8 +1247,6 @@ To be elected President of the Republic, one must be Peruvian by birth, have att
 > Both the President of the Republic and the congressmen have the right to initiative in lawmaking.
 
 > The  same  right,  in  matters  within  their  competencies,  is  also  enjoyed  by  the  other  State  branches, autonomous public agencies, municipalities, and professional associations. Likewise, citizens possess the right to initiative in accordance with the law.
-
-## CHAPTER III LAWMAKING AND ENACTMENT
 
 35
 
@@ -1376,6 +1376,8 @@ It is the duty of the President of the Republic:
 
 [[START OF PAGE 39]]
 
+## CHAPTER V THE CABINET
+
 ### Article 119
 
 The administration and management of public services are entrusted to the Cabinet and to each minister in the matters of his portfolio.
@@ -1413,8 +1415,6 @@ To be a minister, one must be Peruvian by birth, exercise his rights to citizens
 It is the duty of the Cabinet:
 
 - To approve the bills submitted to Congress by the President of the Republic.
-
-## CHAPTER V THE CABINET
 
 39
 
@@ -1482,7 +1482,7 @@ Any motion of no confidence against the Cabinet or any minister shall be introdu
 
 A censured Cabinet or minister must resign.
 
-The President of the Republic shall accept the resignation within the subsequent seventytwo hours.
+The President of the Republic shall accept the resignation within the subsequent seventy-two hours.
 
 Defeat of a ministerial initiative does not force the minister to resign, unless its approval was made a vote of confidence.
 
@@ -1916,6 +1916,8 @@ The law regulates the manufacture, trade, possession, and use by private parties
 
 [[START OF PAGE 53]]
 
+## CHAPTER XIII THE ELECTORAL SYSTEM
+
 ### Article 176
 
 The electoral system has the purpose of ensuring that elections express the free, authentic, and spontaneous will of citizens, and that the vote count mirrors the accurate and timely reflection of the will of voters expressed at the polls by direct suffrage.
@@ -1948,7 +1950,6 @@ In electoral matters, the National Election Board has the power to initiate legi
 
 The  highest  authority  of  the  National  Election  Board  is  vested  in  its  Plenary  Assembly, composed of five members:
 
-## CHAPTER XIII THE ELECTORAL SYSTEM
 
 53
 
@@ -2022,6 +2023,8 @@ The law shall contain special provisions to facilitate the voting of Peruvians l
 
 [[START OF PAGE 56]]
 
+## CHAPTER XIV DECENTRALIZATION*
+
 ### Article 188
 
 Decentralization is a form of democratic organization and a mandatory, continued policy of the State, whose essential purpose is the comprehensive development of the country. The decentralization  process  is  carried  out  in  stages,  in  a  progressive  and  orderly  manner, following  criteria  that  permit  the  proper  distribution  of  jurisdictions  and  transfer  of resources from the national government to local and regional governments.
@@ -2050,7 +2053,6 @@ While the integration process is underway, two or more regional governments may 
 
 Regional governments enjoy political, economic, and administrative autonomy on pertinent matters  within  their  jurisdiction.  They  coordinate  with  municipalities  without  interfering with their functions and authorities.
 
-## CHAPTER XIV DECENTRALIZATION*
 
 56
 
@@ -2350,6 +2352,8 @@ Regions and municipalities are accountable for the execution of their budgets to
 
 [[START OF PAGE 64]]
 
+# TITLE V CONSTITUTIONAL PROTECTIONS
+
 ### Article 200
 
 The following are the constitutional guarantees:
@@ -2376,7 +2380,6 @@ Organic acts regulate the exercise of these protections and the effect of the de
 
 > 3. The writ of habeas data, which operates against the act or omission by authority, official or person that violates or threatens the rights referred to in article 2, paragraphs 5, 6, and 7 of this Constitution.
 
-# TITLE V CONSTITUTIONAL PROTECTIONS
 
 64
 
@@ -2394,7 +2397,7 @@ The Constitutional Court is the controlling body of the Constitution. It is auto
 
 In  order  to  become  a  member  of  the  Constitutional  Court,  one  must  fulfill  the  same requirements as  the Justices of the Supreme Court. Members of the Constitutional Court enjoy  the  same  immunity  and  prerogatives  as  congressmen.  The  same  incompatibilities apply to them, and they may not be immediately reelected.
 
-Members of the Constitutional Court are elected by Congress with the positive vote of twothirds of the legal number of its members. Judges and prosecutors who have not resigned their offices a year in advance are not eligible to be Constitutional Court magistrates.
+Members of the Constitutional Court are elected by Congress with the positive vote of two-thirds of the legal number of its members. Judges and prosecutors who have not resigned their offices a year in advance are not eligible to be Constitutional Court magistrates.
 
 ### Article 202
 
@@ -2458,6 +2461,8 @@ The right to initiate a constitutional reform corresponds to the President with 
 
 [[START OF PAGE 67]]
 
+# FINAL AND TRANSITORY PROVISIONS
+
 ## FIRST
 
 The  pension  scheme  set  forth  by  Decree-law  No.  20530  is  officially  declared  closed. Therefore, as soon as this constitutional reform goes into effect:
@@ -2484,7 +2489,6 @@ The  State  guarantees  the  timely  pay  and  periodic  adjustment  of  pension
 
 > The new mandatory social regimes to be established regarding pension schemes for new public workers will not affect rights legally obtained, particularly the pension schemes established by Decree-laws 19990 and 20530 and their amendments.
 
-# FINAL AND TRANSITORY PROVISIONS
 
 67
 
