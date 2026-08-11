@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' ) aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' ) aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global citizenship education and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global citizenship education and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -32,17 +32,17 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+8. This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
 (i)      the time period 2017-2020;
 
@@ -52,11 +52,11 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) where possible, education outside the government sector.
 
-- To assist countries in  responding to this  questionnaire,  UNESCO has developed the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+11. To assist countries in  responding to this  questionnaire,  UNESCO has developed the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
 - 1.1 international or intercultural understanding, solidarity and cooperation
 
@@ -64,7 +64,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
 - 2.1 gender-based equal opportunities
 
@@ -76,7 +76,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
 - 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
 
@@ -84,15 +84,15 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 3.3 respect  for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
 - 4.1 friendly relations among peoples and nations
 
 - 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+- 4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
 - 5.1 mitigation
 
@@ -102,7 +102,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
 - 6.1 caring for the planet, protecting nature
 
@@ -110,7 +110,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
 - 7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
@@ -118,7 +118,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
 - 8.1 responsible and sustainable lifestyles
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -177,12 +177,6 @@ Vocational education | Education that is designed for learners to acquire the kn
 
 ## IV. Information about the respondent
 
-Armenia
----
-
-28.12.2020
----
-
 Country:
 
 Armenia
@@ -217,7 +211,7 @@ Other local and regional authorities (please specify) :
 
 Organizations representing education stakeholders (e.g. teachers, students, parents, etc.) (please specify) :
 
-UNICEF, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), American University of Armenia's Acopian Center for the Environ m ent, 'Poqrik Ishkhan' School - Educational Complex, EcoLab, Yerevan High School # 97, Yerevan Basic School # 122
+UNICEF, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), American University of Armenia's Acopian Center for the Environment, 'Poqrik Ishkhan' School - Educational Complex, EcoLab, Yerevan High School # 97, Yerevan Basic School # 122
 
 Other civil society organizations (please specify):
 
@@ -241,7 +235,7 @@ Others (please specify) :
 
 - Changes are being made to the current teacher training system, which will allow trainings to be organized by the organizations selected as a result of the competition, as well as through existing online courses, including foreign languages, which will be guaranteed by the Ministry. The relevant requirements set out in point 7 of Part A of the questionnaire are included in a separate section in the teacher training.
 
-- The main public policy framework is defined by the Armenia Development Strategy 20142025  approved  by  Government  Decision  №  442,  27th  March  2014.  The  ADS  identifies  four priorities:
+- The main public policy framework is defined by the Armenia Development Strategy 2014-2025  approved  by  Government  Decision  №  442,  27th  March  2014.  The  ADS  identifies  four priorities:
 
 - Growth of Employment;
 
@@ -257,7 +251,7 @@ The focus of Priority 2 is to improve access to middle vocational and higher edu
 
 - The 'Law on Preliminary Vocational (Craftsmanship) and Middle Vocational Education', was adopted in 2005 after endorsement of the VET Strategy in 2004. This law defines more specific issues related to VET and serves as a base for an extensive number of by-law regulating different aspects of VET.
 
-- There are number of other laws which relate to several aspects of VET. Thus, e.g. the 'Law on State Noncommercial Organisations' regulates many administrative and management issues of the VET institutions; the Law on Licensing defines the rules and procedures of VET provision
+- There are number of other laws which relate to several aspects of VET. Thus, e.g. the 'Law on State Non-commercial Organisations' regulates many administrative and management issues of the VET institutions; the Law on Licensing defines the rules and procedures of VET provision
 
 > 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -267,7 +261,7 @@ The focus of Priority 2 is to improve access to middle vocational and higher edu
 
 licensing,  the  Law  On  Social  Protection  of  Children  Left  without  Parental  Care    establishes privileges for those children for enjoying vocational and higher education, etc.
 
-- In August 2019, the MoESCS approved the Plan for Implementing the 2017-2023 Measures in  the  Field  of  VET  by  the  Order  №  590 -A/2,  30th  August  2019.  The  Plan  includes  9  policy priorities:
+- In August 2019, the MoESCS approved the Plan for Implementing the 2017-2023 Measures in  the  Field  of  VET  by  the  Order  №  590-A/2,  30th  August  2019.  The  Plan  includes  9  policy priorities:
 
  Structural Reforms;
 
@@ -319,7 +313,7 @@ licensing,  the  Law  On  Social  Protection  of  Children  Left  without  Paren
 
 'Law on Higher and postgraduate professional education' adopted in 2004, https://www.arlis.am/documentview.aspx?docid=25820
 
-'Law on State Non -commercial Organisations'
+'Law on State Non-commercial Organisations'
 
 'Law on Licensing' defines the rules and procedures of Preschool, General, VET and Higher education provision licensing https://www.arlis.am/documentview.aspx?docid=64631c
 
@@ -333,13 +327,11 @@ licensing,  the  Law  On  Social  Protection  of  Children  Left  without  Paren
 
 - Procedure for selecting training organizations
 
-- Armenia Development Strategy 20142025 approved by Government Decision № 442, 27th March 2014, https://policy.thinkbluedata.com/sites/default/files/Development%20Strategy%20of%20the%
+- Armenia Development Strategy 2014-2025 approved by Government Decision № 442, 27th March 2014, https://policy.thinkbluedata.com/sites/default/files/Development%20Strategy%20of%20the%20Republic%20of%20Armenia%20for%202014-2025_ENG.pdf
 
-20Republic%20of%20Armenia%20for%202014-2025_ENG.pdf
+- The Plan for Implementing the 2017-2023 Measures in the Field of VET by the Order № 590-A/2, 30th August 2019
 
-- The Plan for Implementing the 20172023 Measures in the Field of VET by the Order № 590-A/2, 30th August 2019
-
-"On approving National Strategy on development of Ecological Education and Upbringing' Protocol Decree No 7, 22 February 2018 Government of the Republic of Armenia https://www.egov.am/protocols/item/873/
+- "On approving National Strategy on development of Ecological Education and Upbringing” Protocol Decree No 7, 22 February 2018 Government of the Republic of Armenia https://www.e-gov.am/protocols/item/873/
 
 - Disaster Risk Management National Strategy and Implementation Action Plan (approved by the Government on April 6, 2017, N14 decree http://www.irtek.am/views/act.aspx?aid=89604
 
@@ -367,7 +359,7 @@ Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Prim
 
 - The State Standard of General Education of the Republic of Armenia is based on competencies, which correspond to the principles of GCED (global citizenship education) և ESD (education for sustainable development). They are designed for three levels of education (elementary, middle, high), taking into account the age characteristics of the students.
 
-- The MoESCS of RA approved the Plan for Implementing the 2017-2023 Measures in the Field of VET by the Order № 590 -A/2, 30th August 2019 . The Plan includes 9 policy priorities:
+- The MoESCS of RA approved the Plan for Implementing the 2017-2023 Measures in the Field of VET by the Order № 590-A/2, 30th August 2019 . The Plan includes 9 policy priorities:
 
  Structural Reforms;
 
@@ -415,9 +407,9 @@ In the interim, the Ministry is continuing to pursue the priorities defined in t
 
 #### A3b. Please  provide  the  full  names  of  any education  policies,  frameworks  or  strategic objectives referred to in A3a and, where possible, web links to relevant documents .
 
-- Draft State Standard and Subject Standards of General Education. (https://escs.am/am/search?q=%D5%B9%D5%A1%D6%83%D5%B8%D6%80%D5% B8%D5%B7%D5%AB%D5%B9)
+- Draft State Standard and Subject Standards of General Education. (https://escs.am/am/search?q=%D5%B9%D5%A1%D6%83%D5%B8%D6%80%D5%B8%D5%B7%D5%AB%D5%B9)
 
-- Armenia Development Strategy 2014- 2025 (Government Decision № 442, 27th March 2014) - https://eeas.europa.eu/sites/eeas/files/armenia_development_strategy_for_2014- 2025.pdf
+- Armenia Development Strategy 2014-2025 (Government Decision № 442, 27th March 2014) - https://eeas.europa.eu/sites/eeas/files/armenia_development_strategy_for_2014-2025.pdf
 
 - RA Government Program for 2017-2022; http://www.gov.am/files/docs/2207.pdf
 
@@ -431,7 +423,7 @@ In the interim, the Ministry is continuing to pursue the priorities defined in t
 
 - VET Strategic Program for 2018-2022 and Action Plan for its Implementation (will be attached to the tempate)
 
-"On approving National Strategy on Development of Ecological Education and Upbringing' Protocol Decree No 7, 22 February 2018 Government of the Republic of Armenia ; https://www.e-gov.am/protocols/item/873/
+- "On approving National Strategy on Development of Ecological Education and Upbringing” Protocol Decree No 7, 22 February 2018 Government of the Republic of Armenia ; https://www.e-gov.am/protocols/item/873/
 
 - Examplary Curriculum (Teaching Plan) of 2020-2021 School Year For General Educational Institutions Implementing General, Specialized And Special State Programs (August 31, 2020) - https://www.arlis.am/DocumentView.aspx?docID=145701
 
@@ -479,7 +471,7 @@ Assessment of student outcomes | 1 | 1 | 1 | 99
 
 In the system of general education-  New subject programs are developed in such a way that general subject "cross-concepts" for all subjects are included in the curricula of different subjects, so that these concepts are introduced during the teaching of specific subjects, and if necessary, presented in the same way. Among the intersecting concepts are the provisions GCED and ESD. For example, environmental topics are studied extensively in biology and geography, but at the same time, physics, chemistry, history, and other subjects are studied (for example, the end result of the physics curriculum emphasizes the economical use of natural resources) from the point of view  of  environmental  problems).  Me  and  My  Surrounding  subject  is  taught  2-4  grade  level students. Preliminary Military Preparation and Safe Behavior Discipline is also included in the National Curriculum and taught from 8 to 12 upper secondary and high school students.
 
-The  following  elective  subjects  approved  by  the  Ministry  of  Education,  Science,  Culture  and Sports are offered schools to include into their School Curriculum upon their decision: Energy Efficiency,  Fundamentals  of  Ecology  and  Sustainable  Development,  Life  Skills  and  Healthy Lifestyle.  National Educational and Developmental Standards for Children from Birth to 6 Years Old -(Approved  by  the  Ministry  of  Education  and  Science  in  2011  and  reviewed  in  2018)  preschool education.
+The  following  elective  subjects  approved  by  the  Ministry  of  Education,  Science,  Culture  and Sports are offered schools to include into their School Curriculum upon their decision: Energy Efficiency,  Fundamentals  of  Ecology  and  Sustainable  Development,  Life  Skills  and  Healthy Lifestyle.  National Educational and Developmental Standards for Children from Birth to 6 Years
 
 > 4 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -487,17 +479,21 @@ The  following  elective  subjects  approved  by  the  Ministry  of  Education, 
 
 [[START OF PAGE 16]]
 
-In the VET system the educational standards and the relevant modular programs and curricula for  professions  and  qualifications  has  been  developed  and  revised  and  it  is  the  continuing process. Modular programs consist of below-mentioned modular and subject sections, and each of the sections includes the modules and subjects, and the topics referred to GCED and ESD are taught and covered by below mentioned modules and subjects:   General humanitarian, Socioeconomical,  General  natural  sciences  section:  Basics  of  the  Armenian  language  and  speech culture, Basics of economics, Basics of political and sociological science, Basics of Law, History, Foreign  languages,  physical  education,  Landscape  and  basics  of  ecology,  Civil  Defense  and Emergency Issues Key competences:  Communication, General competences of work activity, Security and first aid, basic skills on computer operation General professional Special professional
+Old – (Approved by the Ministry of Education and Science in 2011 and reviewed in 2018) - preschool education.
+
+In the VET system the educational standards and the relevant modular programs and curricula for  professions  and  qualifications  has  been  developed  and  revised  and  it  is  the  continuing process. Modular programs consist of below-mentioned modular and subject sections, and each of the sections includes the modules and subjects, and the topics referred to GCED and ESD are taught and covered by below mentioned modules and subjects:   General humanitarian, Socio-economical,  General  natural  sciences  section:  Basics  of  the  Armenian  language  and  speech culture, Basics of economics, Basics of political and sociological science, Basics of Law, History, Foreign  languages,  physical  education,  Landscape  and  basics  of  ecology,  Civil  Defense  and Emergency Issues Key competences:  Communication, General competences of work activity, Security and first aid, basic skills on computer operation General professional Special professional
 
 #### B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
 The draft state standard for general education has been posted on https://escs.am/am/news/6718 website.
 
-National  Educational  and  Developmental  Standards  for  Children  from  Birth  to  6  Years  Old -(Approved by the Ministry of Education and Science in 2011 and reviewed in 2018) - preschool education: https://uni.cf/3hhYDtH
+National  Educational  and  Developmental  Standards  for  Children  from  Birth  to  6  Years  Old – (Approved by the Ministry of Education and Science in 2011 and reviewed in 2018) - preschool education: https://uni.cf/3hhYDtH
 
 VET educational standards and the relevant modular programs and curricula for professions and qualifications are posted on www.mkuzak.am, http://www.mkuzak.am/?page_id=8282# website.
 
 #### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -510,15 +506,15 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 1 | 1
 8. | Sustainable consumption and production | 1 | 1 | 1 | 1
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -533,8 +529,6 @@ Science | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1
 Social studies | 1 | 1 | 1 | 1 | 0 | 0 | 1 | 1
 Integrated studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Other (please specify)
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 #### *B4 Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
@@ -566,7 +560,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 19]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -590,7 +584,7 @@ The required information about the VET system posted on www.mkuzak.am ; http://w
 
 #### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
 
-#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -601,7 +595,7 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 0 | 1 | 1 | 1
 For teachers of other subjects | 0 | 1 | 9 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -688,19 +682,19 @@ In addition, every curricula includes a number of subjects which are mandatory f
 
  Civil Defence and Basics of Emergency Situations - 28.
 
-Depending on the qualification, some of those subjects may be removed as instead the students are taught corresponding professional modules. E.g. for all economic qualifications, such as 'Accountant', the subject 'Basics of Economics' is not foreseen and t he curricula includes an extensive number of economicsrelated modules. For the qualification 'Legist', the subject 'Basics of Law' is out of the curricula.
+Depending on the qualification, some of those subjects may be removed as instead the students are taught corresponding professional modules. E.g. for all economic qualifications, such as 'Accountant', the subject 'Basics of Economics' is not foreseen and the curricula includes an extensive number of economics-related modules. For the qualification 'Legist', the subject 'Basics of Law' is out of the curricula.
 
 The curricula for secondary VET (instruction on the base on basic general education), includes also a number of general subjects, such as mathematics, physics, chemistry, geography, etc. This ensures acquisition, along with the vocational qualification, of secondary general education which allows the VET graduates to continue their education in universities.
 
-Based on the 'Law on Higher and postgraduate education' of RA, state ensures the development of higher education by the way of introducing new forms of knowledge testing and producing the methods for assessment, including introduction of credit systems within the system of higher education. State educational standard for higher education includes all the requirements concerning the mandatory minimum of the content of the study programs, as well, the conditions for the implementation there of, including the assessment of the process and final attestation of graduates. Taking into the consideration the autonomy and academic freedom of higher education institutions, the institutions act independently in the academic process and independently determine the forms of assessment.
+Based on the 'Law on Higher and postgraduate education' of RA, state ensures the development of higher education by the way of introducing new forms of knowledge testing and producing the methods for assessment, including introduction of credit systems within the system of higher education. State educational standard for higher education includes all the requirements concerning the mandatory minimum of the content of the study programs, as well, the conditions for the implementation there of, including the assessment of the process and final attestation of graduates. Taking into the consideration
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
+the autonomy and academic freedom of higher education institutions, the institutions act independently in the academic process and independently determine the forms of assessment.
 
-#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -714,6 +708,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 6. | Environmental sustainability | 0 | 1 | 9 | 1
 7. | Human survival and well-being | 0 | 1 | 9 | 1
 8. | Sustainable consumption and production | 0 | 1 | 9 | 1
+
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -775,11 +771,11 @@ Sub-national
 
 [[START OF PAGE 25]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
-- The main public policy framework is defined by the Armenia Development Strategy 2014- 2025 approved by Government Decision № 442, 27th March 2014. The ADS identifies four priorities:
+- The main public policy framework is defined by the Armenia Development Strategy 2014-2025 approved by Government Decision № 442, 27th March 2014. The ADS identifies four priorities:
 
 - Growth of Employment;
 
@@ -795,9 +791,9 @@ The focus of Priority 2 is to improve access to middle vocational and higher edu
 
 - The 'Law on Preliminary Vocational (Craftsmanship) and Middle Vocational Education', was adopted in 2005 after endorsement of the VET Strategy in 2004. This law defines more specific issues related to VET and serves as a base for an extensive number of by-law regulating different aspects of VET.
 
-- There are number of other laws which relate to several aspects of VET. Thus, e.g. the 'Law on State Non - commercial Organisations' regulates the many administrative and management issues of the VET institutions; the Law on Licensing defines the rules and p rocedures of VET provision licensing, the 'Law On Social Protection of Children Left without Parental Care' establishes privileges for those children for enjoying vocational and higher education, etc.
+- There are number of other laws which relate to several aspects of VET. Thus, e.g. the 'Law on State Non-commercial Organisations' regulates the many administrative and management issues of the VET institutions; the Law on Licensing defines the rules and procedures of VET provision licensing, the 'Law On Social Protection of Children Left without Parental Care' establishes privileges for those children for enjoying vocational and higher education, etc.
 
-- In August 2019, the MoESCS approved the Plan for Implementing the 2017-2023 Measures in the Field of VET by the Order № 590 -A/2, 30th August 2019. The Plan includes 9 policy priorities:
+- In August 2019, the MoESCS approved the Plan for Implementing the 2017-2023 Measures in the Field of VET by the Order № 590-A/2, 30th August 2019. The Plan includes 9 policy priorities:
 
  Structural Reforms;
 
@@ -815,7 +811,7 @@ The focus of Priority 2 is to improve access to middle vocational and higher edu
 
  Promoting youth employment and entrepreneurship;
 
- Human Resource Development Strategy ․
+ Human Resource Development Strategy․
 
 [[END OF PAGE 25]]
 
@@ -857,7 +853,7 @@ In addition, every curricula includes a number of subjects which are mandatory f
 
  Civil Defence and Basics of Emergency Situations - 28.
 
-Depending on the qualification, some of those subjects may be removed as instead the students are taught corresponding professional modules. E.g. for all economic qualifications, such as 'Accountant', the subject 'Basics of Economics' is not foreseen and t he curricula includes an extensive number of economics- related modules. For the qualification 'Legist', the subject 'Basics of Law' is out of the curricula.
+Depending on the qualification, some of those subjects may be removed as instead the students are taught corresponding professional modules. E.g. for all economic qualifications, such as 'Accountant', the subject 'Basics of Economics' is not foreseen and the curricula includes an extensive number of economics-related modules. For the qualification 'Legist', the subject 'Basics of Law' is out of the curricula.
 
 The curricula for secondary VET (instruction on the base on basic general education), includes also a number of general subjects, such as mathematics, physics, chemistry, geography, etc. This provides the acquisition, along with the vocational qualification, of secondary general education which allows the VET graduates to continue their education in universities.
 
@@ -879,13 +875,13 @@ Partnership Concept was agreed with the VET National Council and approved by the
 
  Highlighting the importance of career guidance services, as well as the expansion and development of cooperation between educational institutions and employers career guidance centers exist in all VET institutions of the RA. By 2019 State Budget a staffing unit is set up for a specialist of professional orientation and career guidance in 95 VET institutions. The process of continuous training and consulting of career executives is regularly carried out. Career Consultants have commenced providing career guidance services to students, graduates as well as VET applicants.
 
- Within the 'Skills Connexion' ETF regional project, the draft Concept of Work - based Learning was developed. In the framework of the project the national working group on WBL has been set up. The Group has developed 'Concept paper and road map of WBL development in Armenia for 2019- 2025', which was approved in the session of National Council for VET Development held on 25th of June, 2019. Pilot training on work-based learning of agricultural professions 'Milk and Dairy Technology' and 'Veterinary' is organized in Stepanavan, Gavar and Goris State Agricultural Colleges from September of 2019.
+ Within the 'Skills Connexion' ETF regional project, the draft Concept of Work-based Learning was developed. In the framework of the project the national working group on WBL has been set up. The Group has developed 'Concept paper and road map of WBL development in Armenia for 2019-2025', which was approved in the session of National Council for VET Development held on 25th of June, 2019. Pilot training on work-based learning of agricultural professions 'Milk and Dairy Technology' and 'Veterinary' is organized in Stepanavan, Gavar and Goris State Agricultural Colleges from September of 2019.
 
  In order to optimise the network of preliminary (craftsmanship) and middle vocational education institutions, improve effectiveness of management and increase cost efficiency of VET institutions, a mapping of above institutions was done by MoESCS.
 
  The next phase of the 2018-2020 Torino Process has started. The Torino Process 2018-2020 National Report of Armenia has been developed.
 
- In August 2019, the MoESCS approved the Plan for Implementing the 2017-2023 Measures in the Field of VET by the Order № 590 -A/2, 30th August 2019.
+ In August 2019, the MoESCS approved the Plan for Implementing the 2017-2023 Measures in the Field of VET by the Order № 590-A/2, 30th August 2019.
 
  To raise the quality and attractiveness of vocational education and training, and in particular its responsiveness to labor market needs the Ministry of Education and Science of the Republic of Armenia in cooperation with GIZ in the framework of "Private Sector Development and Vocational Education and Training in the South Caucasus" project during 2017-2019 has started the introduction of a dual system in VET institutions. In 2018-2019, 8 curricula of the selected professions on the experimental dual system have been developed and approved by the order of the Minister of Education and Science of the Republic of Armenia, which have been introduced in selected 6 VET institutions from September. Five long-term dual education courses and three short-term training programs are currently being taught in 10 VET schools and
 
@@ -897,7 +893,7 @@ about 45 cooperation memorandums have been signed between educational institutio
 
  Educational institutions periodically review the professions taught at their educational institutions to match VET professions and skills provided by their institutions to the demand of labour market according to the priority sectors of economy and regional development programs.  In order to adjust the list of professions of the Preliminary (Craftsmanship) and Middle Vocational Education to the development directions of the regions and the professions of the labor market, the lists of professions of Preliminary (Craftsmanship) and Middle Vocational Education were reviewed and changes were made in them in 2018. As a result of the review 3 professions and 8 qualifications were removed from the lists of professions and 3 new professions and 1 qualification were included in the lists: In 2019 due to the labor market demand new professions are introduced in VET educational institutions from September 2019, particularly,
 
- "Dry Construction" profession is introduced at the College of State University of Architecture and Construction'
+ "Dry Construction" profession is introduced at the College of State University of Architecture and Construction”
 
  "Technology of Tobacco Growing and Processing" profession with "Technologist of Tobacco Cultivation and Processing" qualification is introduced in Masis State Agricultural College.
 
@@ -915,7 +911,7 @@ http://www.etf.europa.eu/web.nsf/pages/TRP_2016-17_Armenia
 
 #### G1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school education, etc. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
 
-- Within the framework of UNDP project 'Generate global environmental benefits through environmental education and raising awareness of stakeholders/20152019/' with collaboration with the American University of Armenia E-learning course comprised of comprehensive 11 training modules focusing on environmental protection and natural resource management developed.
+- Within the framework of UNDP project 'Generate global environmental benefits through environmental education and raising awareness of stakeholders/2015-2019/' with collaboration with the American University of Armenia E-learning course comprised of comprehensive 11 training modules focusing on environmental protection and natural resource management developed.
 
 - 240 teachers of public schools and lecturers were trained to deliver EE programs.
 
@@ -925,13 +921,13 @@ http://www.etf.europa.eu/web.nsf/pages/TRP_2016-17_Armenia
 
 - 72 journalists representing 23 media outlets, as well as professors from different universities engaged in journalism teaching were trained on environmental awareness including global environmental issues and solutions.
 
-'Environmental Journalism' manual was developed and 'Environmental Journalism' was introduced in the curricula of Yerevan State University of Languages and Social Sciences.
+- 'Environmental Journalism' manual was developed and 'Environmental Journalism' was introduced in the curricula of Yerevan State University of Languages and Social Sciences.
 
 - One public awareness campaign related to the implementation of three Rio Conventions and Aarhus convention in Armenia was completed.
 
 - 12 Radio Programs related to environmental protection with a special focus on the sectoral legal framework were developed and broadcasted by Public Radio of Armenia.
 
-'Eco -platform' TV project was developed. Totally of16 TV programs were filmed and broadcasted by the Public Television of Armenia (https://www.1tv.am/hy/program/videos/ Էկոհարթակ ).
+- 'Eco-platform' TV project was developed. Totally of16 TV programs were filmed and broadcasted by the Public Television of Armenia (https://www.1tv.am/hy/program/videos/Էկոհարթակ).
 
 - 8 billboards on pro-environmental public awareness were developed.
 
@@ -947,7 +943,7 @@ http://www.etf.europa.eu/web.nsf/pages/TRP_2016-17_Armenia
 
 endorse the efforts of Armenia in promoting and ensuring environmental education at all school levels and communities. With the Memorandum of Understanding signed by all of the EEN members, Armenia undertakes an action of improving the environmental education, with the help of additional exchange of knowledge and experience.          Source : https://ace.aua.am/environmental-education/een/
 
-'Adolescents for Climate Action in Their Communities' (2019 -2022), funded by the Austrian Development Agency (ADA) with funds of Austrian Development Cooperation, and implemented by UNICEF in partnership with Ministries of Environment, Territorial Administration and Infrastructure, Education, Science, Culture and Sport. The project will be coordinated with consolidated communities, regional administrations, schools and teachers, and, more importantly, adolescents. Adolescent aims to support girls and boys and communities take action on climate change mitigation, adaptation, impact reduction and early warning through education, enhanced local governance, human and institutional capacity development. The Project is implemented in 52 consolidated communities covering 47 settlements and 494 schools and reaching over 30.000 school students and 1500 teachers.
+- 'Adolescents for Climate Action in Their Communities' (2019-2022), funded by the Austrian Development Agency (ADA) with funds of Austrian Development Cooperation, and implemented by UNICEF in partnership with Ministries of Environment, Territorial Administration and Infrastructure, Education, Science, Culture and Sport. The project will be coordinated with consolidated communities, regional administrations, schools and teachers, and, more importantly, adolescents. Adolescent aims to support girls and boys and communities take action on climate change mitigation, adaptation, impact reduction and early warning through education, enhanced local governance, human and institutional capacity development. The Project is implemented in 52 consolidated communities covering 47 settlements and 494 schools and reaching over 30.000 school students and 1500 teachers.
 
  International Youth Day, World - August 12, 2020
 
@@ -957,9 +953,9 @@ endorse the efforts of Armenia in promoting and ensuring environmental education
 
  World clean-Up day, September 15, 2019.
 
-Source:https://www.unicef.org/armenia/en/stories/adolescents-climate-action- communities
+Source:https://www.unicef.org/armenia/en/stories/adolescents-climate-action-communities
 
-- Educational Mandate of the Human Rights Defender One of the key directions of the Human Rights Defender's (HRD) activities is to contribute to changes of human rights system through education and trainings. The Armenian Constitutional Law on the Human Rights Defender stipulates the functions of the Defender to organize trainings for the representatives of the HRD's Office (HRDO), as well as for beneficiary bodies and organizations on issues related to human rights and freedoms (Article 29 of the Constitutional Law).   In order to fulfill the above- mentioned mandate, the HRD has established the Human Rights Research and Education Centre within the Human Rights Defender's Office. Among many other duties, the Center is eligible to conduct capacity development trainings for broader groups of stakeholders, such as public servants, civil society, media, students, academia representatives, and more. The Centre also fosters relationships with NGOs within the educational mandate of the HRD.  Within its educational mandate, different capacity building seminars and trainings are conducted for the general public, students, public officials and HRDO representatives on human rights of special groups, such as children, women, asylum-seekers, refugees, etc.
+- Educational Mandate of the Human Rights Defender One of the key directions of the Human Rights Defender's (HRD) activities is to contribute to changes of human rights system through education and trainings. The Armenian Constitutional Law on the Human Rights Defender stipulates the functions of the Defender to organize trainings for the representatives of the HRD's Office (HRDO), as well as for beneficiary bodies and organizations on issues related to human rights and freedoms (Article 29 of the Constitutional Law).   In order to fulfill the above-mentioned mandate, the HRD has established the Human Rights Research and Education Centre within the Human Rights Defender's Office. Among many other duties, the Center is eligible to conduct capacity development trainings for broader groups of stakeholders, such as public servants, civil society, media, students, academia representatives, and more. The Centre also fosters relationships with NGOs within the educational mandate of the HRD.  Within its educational mandate, different capacity building seminars and trainings are conducted for the general public, students, public officials and HRDO representatives on human rights of special groups, such as children, women, asylum-seekers, refugees, etc.
 
 - Major initiatives of the HRDO with regard to non-formal education including youth education. To carry out the public education function, the HRD implements a number of initiatives regarding non-formal education including youth education, out-of-school education and carries out awareness-raising activities with an educational component. Below are presented some of the major initiatives in the given field:
 
@@ -1033,15 +1029,13 @@ Recommendation )
 
 - In 2015 GIZ implemented an analysis on Environmental Education in 3 South Caucasus Countries "Environmental Education in 3 South Caucasus schools". Additionally, to draw a broader picture of what the population knows, feels and acts about biodiversity and ecosystem services, in 2016, GIZ carried out nationwide KAP studies for all the three countries of the South Caucasus. The studies were developed as a baseline for developing specific awareness-raising activities. Within the campaign, six teacher manuals were updated and redesigned, which had first been developed by GIZ in 2015. The manuals provide participatory, practice-oriented methods for teaching a variety of environmental topics: Biodiversity in Rural and Urban Environments, Biodiversity of Rivers and Streams of Armenia, Environmental Education in Meadows and Pastures, Environmental Education in Forests and Endangered Species. The manuals were approved for their use in educational institutions by the RA Ministry of Education, Science, Culture and Sports (MoESCS). 300 copies were printed of each manual. 73 teachers from 14 communities in Aragatsotn and Shirak regions were trained as multipliers in the use of the updated teacher manuals.
 
-- In 2018, the German University of Hohenheim (UHOH) and the American University of Armenia's (AUA) Acopian Center for the Environment started collaboration on a 4 -year academic exchange program funded by the German Academic Exchange Service (DAAD). The GAtES project studies new approaches for integrating the local perception of ecosystem services with biophysical data (e.g. on biodiversity, erosion processes) and expert-based management plans. One of the approaches tested is the Public Participation GIS (PPGIS), describing the application of GIS technology to support the participation of local people in biodiversity and ES conservation. In the development of the project, IBiS advisors were involved in identifying relevant research topics and proposals. For example, in selected IBiS pilot communities, field research will be conducted on 'Pasture management and degradation Spread of native expanding plants' and 'Rural plant collection wild harvest of food, medicinal and ornamental plants.' At present, fiel d studies are partly carried out in pilot communities of the IBiS program.
+- In 2018, the German University of Hohenheim (UHOH) and the American University of Armenia's (AUA) Acopian Center for the Environment started collaboration on a 4-year academic exchange program funded by the German Academic Exchange Service (DAAD). The GAtES project studies new approaches for integrating the local perception of ecosystem services with biophysical data (e.g. on biodiversity, erosion processes) and expert-based management plans. One of the approaches tested is the Public Participation GIS (PPGIS), describing the application of GIS technology to support the participation of local people in biodiversity and ES conservation. In the development of the project, IBiS advisors were involved in identifying relevant research topics and proposals. For example, in selected IBiS pilot communities, field research will be conducted on 'Pasture management and degradation – Spread of native expanding plants' and 'Rural plant collection – wild harvest of food, medicinal and ornamental plants.' At present, field studies are partly carried out in pilot communities of the IBiS program.
 
 - As an independent National Human Rights Institution and, as a result of investigation of individual complaints submitted to the HRD, the latter reveals the legislative and systemic human rights issues which are reflected in the HRD's annual and ad hoc reports, providing concrete recommendations for solving the raised issues. The reports are presented to the National Assembly of Armenia and discussed with relevant state authorities aimed at resolving the revealed issues. The named recommendations encompass not only suggestions to make legislative amendments or close legal gaps, but also present examples of good practices to tackle existing practical issues.
 
  In the Annual Report on the HRD's activities and state of protection of human rights and freedoms in 2019, the following main issues with regard to the right to education have been raised and discussed:
 
  In 2018, the HRD raised the issue of lack of a consistent regulation on fee collection for the use of textbooks in educational institutions, which, as stressed by the
-
-1974
 
 [[END OF PAGE 32]]
 
@@ -1065,9 +1059,9 @@ HRD, resulted in discriminatory treatment. The problem was brought before the Co
 
 [[START OF PAGE 34]]
 
- issues with regard to general educational training (such as improving the infrastructures of pre-primary schools and general education institutions, quality of education and demand for professional teachers, the percentage rate of dropouts from schools after basic education). The report with concrete recommendations was presented to all relevant stackholders.  Source Ad hoc public report on commitments under the convention under the rights of the child and its optional protocols: The state of fulfillment by Armenia, available at https://www.ombuds.am/images/files/99fc332f4fba0afea8721eb94edb6366.pdf (in English)
+ issues with regard to general educational training (such as improving the infrastructures of pre-primary schools and general education institutions, quality of education and demand for professional teachers, the percentage rate of drop-outs from schools after basic education). The report with concrete recommendations was presented to all relevant stackholders.  Source Ad hoc public report on commitments under the convention under the rights of the child and its optional protocols: The state of fulfillment by Armenia, available at https://www.ombuds.am/images/files/99fc332f4fba0afea8721eb94edb6366.pdf (in English)
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1102,7 +1096,7 @@ The HRD, acting as an independent body monitoring the implementation of the prov
 
 ##### Conflict on Nagorno-Karabakh
 
-In 2020 schools and kindergarten in some border villages of the Republic of Armenia were shelled by the Azerbaijani military. In July the preschool of Aygepar village and the secondary school of Chinari village were targeted and heavily damaged by the Azerbaijani military. In October over the course of the Azerbaijani full-scale military attack on NagornoKarabakh, the Vardenis town and neighbouring areas of the Republic of Armenia were also subjected to missile and drone attacks conducted by the Azerbaijani armed forces which resulted in the temporary closure of all schools and educational institutions in the region.
+In 2020 schools and kindergarten in some border villages of the Republic of Armenia were shelled by the Azerbaijani military. In July the preschool of Aygepar village and the secondary school of Chinari village were targeted and heavily damaged by the Azerbaijani military. In October over the course of the Azerbaijani full-scale military attack on Nagorno-Karabakh, the Vardenis town and neighbouring areas of the Republic of Armenia were also subjected to missile and drone attacks conducted by the Azerbaijani armed forces which resulted in the temporary closure of all schools and educational institutions in the region.
 
 [[END OF PAGE 35]]
 
