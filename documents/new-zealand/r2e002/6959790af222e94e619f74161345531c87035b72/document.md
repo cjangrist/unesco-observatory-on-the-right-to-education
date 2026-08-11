@@ -16,6 +16,21 @@ see section 2
 
 ## Contents
 
+Page
+1 Title 1
+2 Commencement 2
+3 Principal Act amended 2
+Part 1
+School enrolment and attendance
+4 Penalty for failure to enrol 2
+5 Penalty for irregular attendance 2
+6 Ensuring attendance of students 2
+Part 2
+Literacy and numeracy standards
+7 Interpretation 2
+8 National education guidelines 2
+9 School charter 3
+
 The Parliament of New Zealand enacts as follows:
 
 ### 1 Title
@@ -46,33 +61,33 @@ This Act amends the Education Act 1989.
 
 ### 4 Penalty for failure to enrol
 
-Section 24(1) is amended by omitting '$1,000' and substitut­ ing '$3,000'.
+Section 24(1) is amended by omitting “$1,000” and substituting “$3,000”.
 
 ### 5 Penalty for irregular attendance
 
-- Section 29(1) is amended by omitting '$15' and substituting '$30'.
+(1) Section 29(1) is amended by omitting “$15” and substituting “$30”.
 
-- Section 29(2) is amended by-
+(2) Section 29(2) is amended by—
 
-(a) omitting '$150' and substituting '$300'; and
+(a) omitting “$150” and substituting “$300”; and
 
-(b) omitting '$400' and substituting '$3,000'.
+(b) omitting “$400” and substituting “$3,000”.
 
 ### 6 Ensuring attendance of students
 
-Section 31(7) is amended by omitting 'or any person ap­ pointed by a board' and substituting 'the Secretary, or any person appointed by a board or the Secretary'.
+Section 31(7) is amended by omitting “or any person appointed by a board” and substituting “the Secretary, or any person appointed by a board or the Secretary”.
 
 ## Part 2 Literacy and numeracy standards
 
 ### 7 Interpretation
 
-The definition of national education guidelines in section 60 is amended by inserting 'national standards,' after 'na­ tional curriculum statements,'.
+The definition of national education guidelines in section 60 is amended by inserting “national standards,” after “national curriculum statements,”.
 
 ### 8 National education guidelines
 
-Section 60A(1) is amended by inserting the following para­ graph after paragraph (b):
+Section 60A(1) is amended by inserting the following paragraph after paragraph (b):
 
-'(ba) national standards , which are standards, in regard to matters such as literacy and numeracy, that are applicable to all students of a particular age or in a particular year of schooling:'.
+“(ba) national standards, which are standards, in regard to matters such as literacy and numeracy, that are applic-
 
 2
 
@@ -84,13 +99,16 @@ Section 60A(1) is amended by inserting the following para­ graph after paragrap
 
 Education (National Standards) Amendment Act 2008
 
+able to all students of a particular age or in a particular
+year of schooling:”.
+
 ### 9 School charter
 
-Section 61(4)(a) is amended by adding ', including the assess­ ment of students against any national standard published under section 60A(1)(ba)'.
+Section 61(4)(a) is amended by adding “, including the assessment of students against any national standard published under section 60A(1)(ba)”.
 
 ## Legislative history
 
-9 December 2008 | Introduction (Bill 7-1)
+9 December 2008 | Introduction (Bill 7–1)
 --- | ---
 9 December 2008 | First reading
 9 December 2008 | Second reading
@@ -102,7 +120,7 @@ This Act is administered by the Ministry of Education.
 
 12
 
-Wellington, New Zealand: Published under the authority of the New Zealand Government-2008
+Wellington, New Zealand: Published under the authority of the New Zealand Government—2008
 
 3
 
