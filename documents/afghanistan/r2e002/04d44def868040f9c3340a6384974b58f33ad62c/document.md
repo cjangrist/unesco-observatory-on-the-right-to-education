@@ -1,13 +1,5 @@
 [[START OF PAGE 1]]
 
-Public Disclosure Authorized
-
-Public Disclosure Authorized
-
-Public Disclosure Authorized
-
-Public Disclosure Authorized
-
 Document of The World Bank
 
 Report No: ICR00003252
@@ -38,6 +30,14 @@ AFGHANISTAN SKILLS DEVELOPMENT PROJECT
 December 30, 2014
 
 Education Global Practice Afghanistan Country Management Unit South Asia Region
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
 
 [[END OF PAGE 1]]
 
@@ -154,13 +154,41 @@ Surendra Agarwal and Roshini Ebenezer
 
 [[START OF PAGE 5]]
 
-DATA SHEET
-
 AFGHANISTAN
 
 Afghanistan Skills Development Project
 
 ## CONTENTS
+
+DATA SHEET
+A. Basic Information……………………………………………………………………………..…….i
+B. Key Dates………………………………………………………………………………………...….i
+C. Ratings Summary……………………………………………………………………………..….….i
+D. Sector and Theme Codes……………………………………………………………………..….…ii
+E. Bank Staff…………………………………………………………………………………….….…ii
+F. Results Framework Analysis………………………………………………………………..……...ii
+G. Ratings of Project Performance in ISRs……………………………………………………...…...vii
+H. Restructuring…………………………………………………………………………….…….....viii
+I. Disbursement Graph…………………………………………………………………………….….ix
+1. Project Context, Development Objectives and Design……………….................................................1
+2. Key Factors Affecting Implementation and Outcomes......... ……………………………...................5
+3. Assessment of Outcomes …………………………………………………….……………….12
+4. Assessment of Risk to Development Outcome .................................................................................. 19
+5. Assessment of Bank and Borrower Performance .............................................................................. .19
+6. Lessons Learned…………………………….. ................................................................................... 22
+7. Comments on Issues Raised by Borrower/Implementing Agencies/Partners .................................... 22
+ANNEXES
+Annex 1. Project Costs and Financing.................................................................................................. ..24
+Annex 2. Outputs by Component ........................................................................................................... 25
+Annex 3. Economic and Financial Analysis........................................................................................... 30
+Annex 4. Bank Lending and Implementation Support/Supervision Processes ...................................... 33
+Annex 5. Beneficiary Survey Results..................................................................................................... 36
+Annex 6. Stakeholder Workshop Report and Results ............................................................................ 37
+Annex 7. Summary of Borrower's ICR and/or Comments on Draft ICR............................................... 38
+Annex 8. Comments of Cofinanciers and Other Partners/Stakeholders................................................. 49
+Annex 9. Additional Information on Results Indicators………………………………………………..50
+Annex 10: Achievement against Original Indicators and Targets………………………………….......51
+Annex 11. List of Supporting Documents.................................................................................. ………57
 
 MAP
 
@@ -193,9 +221,9 @@ Co-financiers and Other External Partners: Afghanistan Reconstruction Trust Fund
 --- | --- | --- | --- | ---
 Process | Date | Process | Original Date | Revised / Actual Date(s)
 Concept Review: | 05/08/2007 | Effectiveness: | 03/20/2008 | 03/20/2008
-Appraisal: | 11/16/2007 | Restructuring(s): | 07/23/2012
+Appraisal: | 11/16/2007 | Restructuring(s): |  | 07/23/2012
 Approval: | 01/31/2008 | Mid-term Review: | 04/20/2011 | 05/22/2011
-Closing: | 02/28/2013 | 06/30/2014
+ |  | Closing: | 02/28/2013 | 06/30/2014
 
 ## C. Ratings Summary
 --- | ---
@@ -223,10 +251,10 @@ i
 Implementation Performance | Indicators | QAG Assessments (if any) | Rating
 Potential Problem Project at any time (Yes/No): | Yes | Quality at Entry (QEA): | None
 Problem Project at any time (Yes/No): | Yes | Quality of Supervision (QSA): | None
-DO rating before Closing/Inactive status: | Satisfactory
+DO rating before Closing/Inactive status: | Satisfactory |  | 
 
 ## D. Sector and Theme Codes
-Original | Actual
+ | Original | Actual
 --- | --- | ---
 Sector Code (as % of total Bank financing)
 Central government administration | 17% | 17%
@@ -240,7 +268,7 @@ Improving labor markets | 33% | 33%
 ## E. Bank Staff
 --- | --- | ---
 Positions | At ICR | At Approval
-Vice President: | Annette Dixon | Praful C. Pate1
+Vice President: | Annette Dixon | Praful C. Patel
 Country Director: | Robert Saum | Alastair J. McKechnie
 Practice Manager/Manager | Halil Dundar | Michelle Riboud
 Project Team Leader: | Leopold Remi Sarr | Venkatesh Sundararaman
@@ -269,16 +297,16 @@ ii
 Indicator | Baseline Value | Original Target Values (from approval documents) | Formally Revised Target Values | Actual Value Achieved at Completion or Target Years
 --- | --- | --- | --- | ---
 Indicator 1 : | Number of graduates from all project financed institutions in DMTVET*
-Value: Quantitative | 398** | 5,380 | 7,720***
-Date achieved | 01/31/2008 | 06/30/2014 | 06/30/2014
+Value: Quantitative | 398** |  | 5,380 | 7,720***
+Date achieved | 01/31/2008 |  | 06/30/2014 | 06/30/2014
 Comments (incl. % achievement) | ACHIEVED and SURPASSED TARGET by 43% . *This indicator is a revised version of an original indicator. ** This baseline value refers to graduates from all project-supported institutes. For NIMA, the ICR team assigned a baseline value of zero because it was a new institute to be established under the project. (Table 2.2 in Annex 2 of the Technical Annex, however, provides a baseline value of 718 for NIMA but it is unclear what that number refers to.) *** Actual value refers to graduates from the five project-supported institutes as well as from NIMA.
 Indicator 2 : | Share of NIMA graduates employed six months after completing training*
-Value: Quantitative | N/A ** | 75% | 75%***
-Date achieved | 01/31/2008 | 06/30/2014 | 06/30/2014
-Comments (incl. % achievement) | ACHIEVED . *This indicator was introduced at the time of restructuring. **NIMA was not established in January 2008. ***This number is based on the results of an independent tracer study conducted 9 months after the first cohort graduated. 16 percent of the graduates surveyed were employed following graduation but were unemployed at the time of the survey; the reasons for this situation were not captured in the survey but may include discontinuation of employment in order to pursue further education. Since the definition of the indicator would not allow for the exclusion of these students, the lower and upper bounds of the estimate were calculated - 67 percent and 83 percent, respectively. The average of these two estimates is 75 percent. This number also includes self-employed
+Value: Quantitative | N/A ** |  | 75% | 75%***
+Date achieved | 01/31/2008 |  | 06/30/2014 | 06/30/2014
+Comments (incl. % achievement) | ACHIEVED. *This indicator was introduced at the time of restructuring. **NIMA was not established in January 2008. ***This number is based on the results of an independent tracer study conducted 9 months after the first cohort graduated. 16 percent of the graduates surveyed were employed following graduation but were unemployed at the time of the survey; the reasons for this situation were not captured in the survey but may include discontinuation of employment in order to pursue further education. Since the definition of the indicator would not allow for the exclusion of these students, the lower and upper bounds of the estimate were calculated – 67 percent and 83 percent, respectively. The average of these two estimates is 75 percent. This number also includes self-employed graduates.
 Indicator 3 : | Number of vulnerable youth, poor women, marginalized farmers and rehabilitated injectable drug users (IDUs) trained under NSDP*
-Value: Quantitative | 0 | 9,000 | 9,676
-Date achieved | 01/31/2008 | 06/30/2014 | 06/30/2014
+Value: Quantitative | 0 |  | 9,000 | 9,676
+Date achieved | 01/31/2008 |  | 06/30/2014 | 06/30/2014
 Comments (incl. % achievement) | ACHIEVED and SURPASSED TARGET BY 8%. *A similar indicator (increase in the number of graduates from project-financed training programs under NSDP) was listed in the original Supplemental Letter to the Financing Agreement, with a target of 15,000. The indicator listed here is a revised version of the original indicator, introduced during the project restructuring. Disaggregated data: 3,526 youth; 3,150 poor women; 2,500 marginalized or landless farmers; 300 people with disability (PwD); and 200 IDUs. Approximately 40 percent of all these beneficiaries were women.
 
 iii
@@ -289,13 +317,13 @@ iii
 
 Indicator 4 : | Increase in average earnings of project graduates within 6 months of completing training (NSDP)
 --- | --- | --- | ---
-Value Quantitative | Women: AFN 0 Youth: AFN 998 Marginalized Farmers: AFN3,076 | Women: AFN 2,766 Youth: AFN 8,475 Marginalized Farmers: AFN 7,780
-Date achieved | 12/30/2010 | 06/30/2014
+Value Quantitative | Women: AFN 0 Youth: AFN 998 Marginalized Farmers: AFN3,076 |  |  | Women: AFN 2,766 Youth: AFN 8,475 Marginalized Farmers: AFN 7,780
+Date achieved | 12/30/2010 |  |  | 06/30/2014
 Comments (incl. % achievement) | ACHIEVED In the original Results Framework (RF), this was an intermediate outcome indicator and no baseline or target value was provided. The baseline and target values for this indicator in the revised RF (in the restructuring package [Supplemental Letter - Performance Indicators] submitted to the Country Director for approval on July 20, 2012) are inconsistent with its intent to measure the difference in earnings as a result of the vocational training. The ICR team chose to report the pre-training and post-training earnings of the vocational training beneficiaries under ASDP, which provide a more accurate assessment of this indicator. Data for both the baseline and current values are from the tracer studies carried out on these groups.
 Indicator 5 : | New Institutional Framework for TVET developed and submitted to Parliament for legislative enactment.
-Value: Qualitative | No framework | Submission for Legislative approval (TVET framework has been developed and enabling legislation drafted and submitted for legislative enactment)*. | TVET framework has been developed; enabling legislation drafted and approved by the CESP (chaired by the First Vice President, FVP ).
-Date achieved | 01/31/2008 | 06/30/2014 | 08/30/2014
-Comments (incl. % achievement) | PARTIALLY ACHIEVED . This indicator is a modified version of an original outcome indicator. It was revised in the project restructuring package, including supplemental letter (performance indicators), submitted to the Country Director for approval on July 20, 2012 , to reflect the revised assessment of the feasibility of achieving the implementation of a new institutional framework for TVET. The draft legislation for the institutional framework is yet to be submitted to Parliament for ratification. *The target for this indicator ('Act passed by Parliament') in the Supplemental Letter (Performance Indicators) included in the project restructuring package appears to be
+Value: Qualitative | No framework |  | Submission for Legislative approval (TVET framework has been developed and enabling legislation drafted and submitted for legislative enactment)*. | TVET framework has been developed; enabling legislation drafted and approved by the CESP (chaired by the First Vice President, FVP).
+Date achieved | 01/31/2008 |  | 06/30/2014 | 08/30/2014
+Comments (incl. % achievement) | PARTIALLY ACHIEVED. This indicator is a modified version of an original outcome indicator. It was revised in the project restructuring package, including supplemental letter (performance indicators), submitted to the Country Director for approval on July 20, 2012, to reflect the revised assessment of the feasibility of achieving the implementation of a new institutional framework for TVET. The draft legislation for the institutional framework is yet to be submitted to Parliament for ratification. *The target for this indicator (“Act passed by Parliament”) in the Supplemental Letter (Performance Indicators) included in the project restructuring package appears to be mistakenly worded. The target listed here is taken from the post-restructuring ISRs (Sequence ISR #11, dated 06/18/2013, onwards).
 
 iv
 
@@ -308,16 +336,16 @@ iv
 Indicator | Baseline Value | Original Target Values (from approval documents) | Formally Revised Target Values | Actual Value Achieved at Completion or Target Years
 --- | --- | --- | --- | ---
 Indicator 1 : | The NQF developed and approval of the DMTVET Plan.
-Value: Qualitative | No NQF for TVET | NQF developed | NQF developed | NQF has been developed and approved by the CESP. A TVET strategy for 2013- 2018 was prepared and was launched on January 19, 2014.
+Value: Qualitative | No NQF for TVET | NQF developed | NQF developed | NQF has been developed and approved by the CESP. A TVET strategy for 2013-2018 was prepared and was launched on January 19, 2014.
 Date achieved | 01/31/2008 | 02/28/2013 | 06/30/2014 | 08/30/2014
 Comments (incl. % achievement) | ACHIEVED
 Indicator 2 : | Number of diplomas awarded by NIMA*.
-Value: Quantitative | N/A** | 1,150 | 1,714
-Date achieved | 01/31/2008 | 06/30/2014 | 06/30/2014
-Comments (incl. % achievement) | 1,111 of the graduates received international diplomas/certificates; 603 received diplomas from the MoE. *In the project restructuring package, including supplemental letter (performance indicators), submitted to the Country Director for approval on July 20, 2012, this indicator was stated as the 'number of graduates from all project-funded institutes.' The baseline and target values (and the ISRs post-restructuring) suggest that this indicator was only intended to refer to NIMA. ** NIMA was not established in January 2008.
-Indicator 3 : Value | Number of TVET Institutes operating under the agreed governance framework
-Quantitative | 0 | 6 | 2
-Date achieved | 01/31/2008 | 06/30/2014 | 06/30/2014
+Value: Quantitative | N/A** |  | 1,150 | 1,714
+Date achieved | 01/31/2008 |  | 06/30/2014 | 06/30/2014
+Comments (incl. % achievement) | ACHIEVED and TARGET SURPASSED BY 49%. 1,111 of the graduates received international diplomas/certificates; 603 received diplomas from the MoE. *In the project restructuring package, including supplemental letter (performance indicators), submitted to the Country Director for approval on July 20, 2012, this indicator was stated as the “number of graduates from all project-funded institutes.” The baseline and target values (and the ISRs post-restructuring) suggest that this indicator was only intended to refer to NIMA. ** NIMA was not established in January 2008.
+Indicator 3 : | Number of TVET Institutes operating under the agreed governance framework
+Value Quantitative | 0 |  | 6 | 2
+Date achieved | 01/31/2008 |  | 06/30/2014 | 06/30/2014
 Comments (incl. % achievement) | PARTIALLY ACHIEVED The key element of the agreed governance framework is defined, in the Technical Annex and also by the Mid-term Review, as operational (academic and administrative) and financial autonomy. Although 5 institutes (NIMA, ANIM, AIT, Blind School and AMI) have recently established Governing Councils, only two of these (ANIM and NIMA) have obtained the right to start running their own academic programs and only three of them have been able to open bank accounts in their own names (ANIM, NIMA and AIT). As such, only NIMA and ANIM have obtained some degree of administrative, academic, and financial autonomy. See paragraphs 21(b) and 24(d).
 
 v
@@ -328,20 +356,20 @@ v
 
 Indicator 4 : | Number of Voucher Beneficiaries (including females)*
 --- | --- | --- | --- | ---
-Value Quantitative | 0 | 200 | 221
-Date achieved | 07/20/2012 | 06/30/2014 | 06/30/2014
+Value Quantitative | 0 |  | 200 | 221
+Date achieved | 07/20/2012 |  | 06/30/2014 | 06/30/2014
 Comments (incl. % achievement) | ACHIEVED and TARGET SURPASSED BY 11%. *This indicator was added at project restructuring. It refers to students who received vouchers.
 Indicator 5 : | Number of Project Staff and Officers trained in different functional areas (including NSDP and DMTVET*)
-Value Quantitative | N/A | 300 | 325
-Date achieved | 01/31/2008 | 06/30/2014 | 06/30/2014
+Value Quantitative | N/A |  | 300 | 325
+Date achieved | 01/31/2008 |  | 06/30/2014 | 06/30/2014
 Comments (incl. % achievement) | ACHIEVED and TARGET SURPASSED BY 8%. *This indicator was introduced in the Table 2.1 but was not included in Table 2.2, Annex 2 of the Technical Annex. It was reintroduced in the restructuring paper (with a target of 300). It was also mentioned in the Supplemental Letter (performance indicators) included in the restructuring package, submitted to the Country Director for approval on July 20, 2012, but no target value was provided.
 Indicator 6 : | Number of BDS trainers trained*
 Value: Quantitative | N/A | No target was included in the Results Framework | 1,633 | 1,652
-Date achieved | 01/31/2008 | 02/28/2013 | 06/30/2014
+Date achieved | 01/31/2008 |  | 02/28/2013 | 06/30/2014
 Comments (incl. % achievement) | ACHIEVED *The original indicator referred to the training of Business Development Services (BDS) trainers and of Productive Skills Officers (PSOs) but was later revised to refer to BDS trainers only because PSO training was taken over by another donor during the project (see Project Restructuring Paper, paragraph 14, July 20, 2012 ).
 Indicator 7 : | MIS is in place and MIS reports produced
 Value: Quantitative | N/A | N/A | MIS in place with 7 MIS reports produced | Management Information System (MIS) is in place in both the NSDP and DMTVET. 12 reports produced which indicate progress in the development of the system.
-Date achieved | 06/30/2014 | 06/30/2014
+Date achieved |  |  | 06/30/2014 | 06/30/2014
 Comments (incl. % achievement) | ACHIEVED Although the MIS has been designed and put in place, it is in its early stages of implementation.
 
 vi
@@ -352,16 +380,16 @@ vi
 
 Indicator 8 : | Number of tracer studies of TVET graduates completed
 --- | --- | --- | ---
-Value: Quantitative | 0 | 8 | 14
-Date achieved | 01/31/2008 | 06/30/2014 | 06/30/2014
+Value: Quantitative | 0 |  | 8 | 14
+Date achieved | 01/31/2008 |  | 06/30/2014 | 06/30/2014
 Comments (incl. % achievement) | ACHIEVED and TARGET SURPASSED BY 75%. Includes 11 tracer studies of training of vulnerable people (by NSDP) and 3 tracer studies of NIMA graduates (by DMTVET).
 Indicator 9 : | Increase in the number of operational buildings and facilities for TVET*
-Value: Qualitative | Functional physical infrastructure at the project supported institutes was very limited and in very poor condition. | At least one building/ facility rehabilitated at each of the five project supported institutes. | All five project supported institutes had at least one more operational building/facility as a result of ASDP. Several of these had more than one facility constructed/ rehabilitated under ASDP
-Date achieved | 01/31/2008 | 06/30/2014 | 06/30/2014
+Value: Qualitative | Functional physical infrastructure at the project supported institutes was very limited and in very poor condition. |  | At least one building/ facility rehabilitated at each of the five project supported institutes. | All five project supported institutes had at least one more operational building/facility as a result of ASDP. Several of these had more than one facility constructed/ rehabilitated under ASDP
+Date achieved | 01/31/2008 |  | 06/30/2014 | 06/30/2014
 Comments (incl. % achievement) | ACHIEVED In addition, ASDP renovated and constructed all physical infrastructures for NIMA. * This indicator was added at the ICR stage to more accurately assess achievements of the project.
 Indicator 10 : | Percentage of women enrolled in NIMA
-Value: Quantitative | 33% | 32%
-Date achieved | 02/28/2013 | 06/30/2014
+Value: Quantitative |  |  | 33% | 32%
+Date achieved |  |  | 02/28/2013 | 06/30/2014
 Comments (incl. % achievement) | ACHIEVED The target of 33% is from the ARTF Grant Agreement.
 
 ## G. Ratings of Project Performance in ISRs
@@ -395,7 +423,7 @@ vii
 Restructuring Date(s) | Board Approved PDO Change | ISR Ratings at | Amount Disbursed at Restructuring in USD millions | Reason for Restructuring & Key Changes Made
 --- | --- | --- | --- | ---
 DO | IP
-07/23/2012 | MS | MS | 14.65 (IDA) and 8.65 (ARTF) | A Supplemental Letter (Performance Indicators) was included in the restructuring package. See, Office Memorandum from TTL to the CD - Restructuring Paper for ASDP, dated 07/20/2012. - The date of July 23, 2012 is the date of an Amendment to the Financing Agreement. Reasons: (a) Limited progress on developing a regulatory and quality assurance framework for TVET; (b) some indicators and targets were either too ambitious or could not be measured; (c) need for strengthening the governance framework for project supported TVET institutes; and (d) need for extension of the closing date to allow more time for completion of ongoing works contracts and for the second implementing partner of NIMA (under recruitment) to provide support to NIMA for a longer period and to supervise the graduation of additional cohorts of students at NIMA. Key changes made: (i) scope of Component 1 was revised to make it achievable; (ii) results indicators and targets were revised to make them realistic and measurable; (iii) covenants were added to improve the implementation of a governance framework for the TVET institutes; (iv) covenants were added to strengthen actions to ensure compliance with the
+07/23/2012 |  | MS | MS | 14.65 (IDA) and 8.65 (ARTF) | A Supplemental Letter (Performance Indicators) was included in the restructuring package. See, Office Memorandum from TTL to the CD - Restructuring Paper for ASDP, dated 07/20/2012. - The date of July 23, 2012 is the date of an Amendment to the Financing Agreement. Reasons: (a) Limited progress on developing a regulatory and quality assurance framework for TVET; (b) some indicators and targets were either too ambitious or could not be measured; (c) need for strengthening the governance framework for project supported TVET institutes; and (d) need for extension of the closing date to allow more time for completion of ongoing works contracts and for the second implementing partner of NIMA (under recruitment) to provide support to NIMA for a longer period and to supervise the graduation of additional cohorts of students at NIMA. Key changes made: (i) scope of Component 1 was revised to make it achievable; (ii) results indicators and targets were revised to make them realistic and measurable; (iii) covenants were added to improve the implementation of a governance framework for the TVET institutes; (iv) covenants were added to strengthen actions to ensure compliance with the
 
 viii
 
@@ -411,6 +439,31 @@ ESMF; (v) closing date was extended by 16 months; (vi) a pilot voucher program w
 ## I.  Disbursement Profile
 
 (The  original  amount  reflects  IDA  grant  only;  and  the  actual  amount  reflects  both  IDA  and  ARTF financing).
+
+Original
+Formally Revised
+Actual
+US $ Millions
+40
+30
+20
+10
+0
+2008 Q3
+2009 Q1
+2009 Q3
+2010 Q1
+2010 Q3
+2011 Q1
+2011 Q3
+2012 Q1
+2012 Q3
+2013 Q1
+2013 Q3
+2014 Q1
+2014 Q3
+2014 Q4
+2015 Q2
 
 ix
 
@@ -434,13 +487,13 @@ ix
 
 3. To  address  the  job-specific  skills  shortage,  GoA  began  to  rebuild  the  country's  Technical  and Vocational Education and Training (TVET) system. This system, like others, had been neglected during the  conflict.  In  2004,  GoA  launched  the  National  Skills  Development  Program  (NSDP),  aimed  at improving  the  skills  of  the  rural,  largely  uneducated,  labor  force.  While  the  NSDP  addressed  one important element of the skills shortage, this did not constitute a strategic effort to address key challenges facing the country's TVET system, which included:
 
-- Weak  institutional  arrangements  for  planning,  managing,  regulating  and  financing  of  the TVET  system. While  there were several institutions involved in TVET,  the  roles and responsibilities  of  each  institution  were  not  clearly  defined,  and  the  system  was  highly centralized.
+a) Weak  institutional  arrangements  for  planning,  managing,  regulating  and  financing  of  the TVET  system. While  there were several institutions involved in TVET,  the  roles and responsibilities  of  each  institution  were  not  clearly  defined,  and  the  system  was  highly centralized.
 
-- Low number of training opportunities for formal TVET .  Training was dominated by informal apprenticeships offered by small and micro-enterprises.
+b) Low number of training opportunities for formal TVET. Training was dominated by informal apprenticeships offered by small and micro-enterprises.
 
-- Inadequate quality of existing training programs. This was characterized by a high trainee-totrainer  ratio,  time-based  rather  than  competency-based  programs,  weak  infrastructure  with obsolete or non-functioning training equipment and a lack of regulatory mechanisms.
+c) Inadequate quality of existing training programs. This was characterized by a high trainee-to-trainer ratio, time-based rather than competency-based programs, weak infrastructure with obsolete or non-functioning training equipment and a lack of regulatory mechanisms.
 
-- TVET programs lacked relevance to the needs of the labor market. The  curriculum  in  many trades was outdated with few links to workplace realities. Industry (both private and public) had little input in the formation of curricula or courses.
+d) TVET programs lacked relevance to the needs of the labor market. The  curriculum  in  many trades was outdated with few links to workplace realities. Industry (both private and public) had little input in the formation of curricula or courses.
 
 4. GoA requested World Bank technical and financial assistance to address these challenges and develop a  high-quality  TVET  system.  It  was  clear  that  this  was  a  long-term  effort  which  would  have  to  be implemented in stages. The Afghanistan Skills Development Project (ASDP)  was proposed as the first stage  of  this  process,  aimed  at  improving  the  skill  level  and  educational  profile  of  the  country's  labor force while simultaneously laying the foundation for a modern TVET system.
 
@@ -458,13 +511,13 @@ ix
 
 7. The PDO (Financing Agreement) was 'to increase the number of immediately-employable graduates by  supporting  the  establishment  of  a  high  quality  technical  vocational  education  and  training  (TVET) system that is equitable, market responsive and cost-effective'. The PDO in the 2008 Technical Annex (page 10) to the Memorandum and Recommendation of the President (MOP) was "to increase the number of  immediately-employable  graduates  by  building,  in  stages,  a  high-quality  TVET  system  that  is equitable, market responsive and cost-effective'. (A Technical Annex was prepared in lieu of a Project Appraisal Document per OP/BP 8.50, as the project was developed in line with OP 8.50). The PDO in the MOP (page 5) was listed as 'increased number of immediately-employable skilled persons is produced by building in stages a high-quality TVET system that is equitable, market responsive and cost-effective'.  In the  ICR  team's  view,  the  statements  of  objectives  in  the  three  documents  are  almost  identical  but,  in keeping  with  ICR  guidelines,  this  ICR  has  henceforth  referenced  the  PDO  stated  in  the  Financing Agreement. The four Key Performance Indicators (KPIs) (outcome indicators), associated with this PDO at  the  time  of  approval  were  as  listed  below  (Technical  Annex,  Annex  2,  Table  2.2,  pages  25-27; additional information on results indicators, including intermediate outcome indicators, is in Annex 9). .
 
-- Increase  in  the  number  of  graduates  from  project-financed  institutions  and  training  centers  as compared to baseline of non-reformed institutions.
+1. Increase  in  the  number  of  graduates  from  project-financed  institutions  and  training  centers  as compared to baseline of non-reformed institutions.
 
-- New institutional framework for TVET is realized and functioning, including the establishment of the  Afghanistan  National  Qualifications  Authority  (ANQA),  independent  training  boards  (e.g., National Technical and Vocational Education and Training Board (NTVETB)) and the National Qualifications Framework (NQF).
+2. New institutional framework for TVET is realized and functioning, including the establishment of the  Afghanistan  National  Qualifications  Authority  (ANQA),  independent  training  boards  (e.g., National Technical and Vocational Education and Training Board (NTVETB)) and the National Qualifications Framework (NQF).
 
-- Labor market outcomes, measured by employment status of trainees, are superior to the outcomes of comparable control groups.
+3. Labor market outcomes, measured by employment status of trainees, are superior to the outcomes of comparable control groups.
 
-- Percent of employers of trainees graduated from reformed institutions agree that employees have improved their productivity through training relative to a baseline. .
+4. Percent of employers of trainees graduated from reformed institutions agree that employees have improved their productivity through training relative to a baseline.
 
 ### 1.3 Revised PDO and Key Indicators, and Reasons/Justifications (as approved)
 
@@ -476,30 +529,32 @@ ix
 
 [[START OF PAGE 19]]
 
-The  revised  KPIs  reflect  these  changes  and  are  listed  below. . (Information  on  revised  intermediate outcome indicators is in Annex 9).
+The revised KPIs reflect these changes and are listed below.
 
-- Number  of  graduates  from  all  (six)  project-financed  institutions  in  the  Deputy  Ministry  of Technical and Vocational Education and Training (DMTVET).
+(Information on revised intermediate outcome indicators is in Annex 9).
 
-- Number of vulnerable youth, poor women, marginalized farmers and rehabilitated injectable drug users (IDUs) trained under the National Skills Development Program (NSDP).
+1. Number  of  graduates  from  all  (six)  project-financed  institutions  in  the  Deputy  Ministry  of Technical and Vocational Education and Training (DMTVET).
 
-- Increase  in  average  earnings  of  project  graduates  within  six  months  of  completing  training (NSDP).
+2. Number of vulnerable youth, poor women, marginalized farmers and rehabilitated injectable drug users (IDUs) trained under the National Skills Development Program (NSDP).
 
-- Share of National Institute of Management and Administration (NIMA) graduates employed six months after completing training.
+3. Increase  in  average  earnings  of  project  graduates  within  six  months  of  completing  training (NSDP).
 
-- New Institutional  Framework for TVET developed and submitted to Parliament for legislative enactment .
+4. Share of National Institute of Management and Administration (NIMA) graduates employed six months after completing training.
+
+5. New Institutional Framework for TVET developed and submitted to Parliament for legislative enactment.
 
 ### 1.4 Main  Beneficiaries:
 (i)  NIMA  and  five  other  TVET  institutes  under  DMTVET 1 ;  (ii)  Students, faculty and staff of NIMA; (iii) Students, faculty and staff of the other 5 TVET institutes supported under  ASDP;  (iv)  Staff  and  project  officers  of  the  NSDP;  (v)  Project  officers,  staff  and  trainers trained  under  DMTVET;  (vi)  Poor  women,  marginalized  and  landless  farmers,  youth,  IDUs  and disabled people trained under the NSDP program; (vii) BDS trainers trained; (viii) Beneficiaries of the Voucher Program; and (ix) Teachers trained for NIMA.
 
 ### 1.5 Original Components at Appraisal Stage
 
-- Component  1:  Develop  Regulatory  and  Quality  Assurance  Framework  for  TVET  (US$1.5 million). This component was designed to create the institutional conditions for a high quality, demand driven TVET system through:
+9. Component  1:  Develop  Regulatory  and  Quality  Assurance  Framework  for  TVET  (US$1.5 million). This component was designed to create the institutional conditions for a high quality, demand driven TVET system through:
 
-- The Establishment of an Afghanistan National Qualifications Authority (ANQA) (US$0.3 million) through an act of Parliament, as the highest regulatory and standards-setting body in the country  for  education  and  training.  An  interim  body,  the  Committee  on  Education  and  Skills Policy  (CESP),  was  to  be  established  to  initiate  the  establishment  of  the  ANQA.  Upon  the establishment  of  the  ANQA,  all  policy  and  other  functions  performed  by  the  CESP  would  be transferred  to  the  ANQA,  including  the  development  and  institutionalization  of  the  National Qualifications  Framework  (NQF)  (see  paragraph  9(b)  below).  All  new  regulatory  bodies (including  the  Awarding  Boards,  see  paragraph  9(c)  below)  were  to  be  statutory  bodies, independent of all ministerial linkages (See Component 1.1, Technical Annex to MOP).
+a) The Establishment of an Afghanistan National Qualifications Authority (ANQA) (US$0.3 million) through an act of Parliament, as the highest regulatory and standards-setting body in the country  for  education  and  training.  An  interim  body,  the  Committee  on  Education  and  Skills Policy  (CESP),  was  to  be  established  to  initiate  the  establishment  of  the  ANQA.  Upon  the establishment  of  the  ANQA,  all  policy  and  other  functions  performed  by  the  CESP  would  be transferred  to  the  ANQA,  including  the  development  and  institutionalization  of  the  National Qualifications  Framework  (NQF)  (see  paragraph  9(b)  below).  All  new  regulatory  bodies (including  the  Awarding  Boards,  see  paragraph  9(c)  below)  were  to  be  statutory  bodies, independent of all ministerial linkages (See Component 1.1, Technical Annex to MOP).
 
-- The Establishment of an Afghanistan National Qualifications Framework (US$0.8 million ) was intended to facilitate the design, development and institutionalization of the NQF to provide a levels-based structure to map all education and training provision in the country and meaningful certification and accreditation processes.
+b) The Establishment of an Afghanistan National Qualifications Framework (US$0.8 million) was intended to facilitate the design, development and institutionalization of the NQF to provide a levels-based structure to map all education and training provision in the country and meaningful certification and accreditation processes.
 
-- The  Establishment  of  Awarding  Boards  (US$0.4  million) ,  in  particular  the  NTVETB 2 ,  that will regulate and quality assure programs within specific levels of the NQF.
+c) The  Establishment  of  Awarding  Boards  (US$0.4  million),  in  particular  the  NTVETB 2,  that will regulate and quality assure programs within specific levels of the NQF.
 
 > 1 The five other institutions were: Afghanistan Institute of Technology (AIT); the Auto-mechanical Institute (AMI); the Blind School (BS); the Afghanistan National Institute of Music (ANIM); and the Computer Technology Institute (CTI).
 
@@ -513,27 +568,27 @@ The  revised  KPIs  reflect  these  changes  and  are  listed  below. . (Informa
 
 10. Component  2:  Improve  Relevance,  Quality  and  Efficiency  of  TVET  (US$18.5  million) 3 . The objective of this component was to improve the relevance, quality and efficiency of TVET programs and increase the number of graduates from these programs through:
 
-- The  Establishment  of  the  new  National  Institute  of  Management  and  Administration (NIMA) (US$11.0 million) to offer post-secondary programs in three areas: (i) Management and Administration, (ii) Accounting, and (iii) Information and Communications Technology (ICT).
+a) The  Establishment  of  the  new  National  Institute  of  Management  and  Administration (NIMA) (US$11.0 million) to offer post-secondary programs in three areas: (i) Management and Administration, (ii) Accounting, and (iii) Information and Communications Technology (ICT).
 
-- An  Institution-Based  Reform  Package  (US$7.0  million) aimed  at  supporting  reforms  and rehabilitation in selected institutes within the Department of Technical and Vocational Education and Training (DTVET) 4  mandate.
+b) An  Institution-Based  Reform  Package  (US$7.0  million) aimed  at  supporting  reforms  and rehabilitation in selected institutes within the Department of Technical and Vocational Education and Training (DTVET) 4 mandate.
 
-- Management  Reforms  in  DMTVET  (US$0.5  million) through  training  of  its  staff  on  the structure  and  functions  of  a  modern  TVET  system  to  enable  the  DMTVET  to  become  more responsive to market needs and accountable for effective vocational training delivery.
+c) Management  Reforms  in  DMTVET  (US$0.5  million) through  training  of  its  staff  on  the structure  and  functions  of  a  modern  TVET  system  to  enable  the  DMTVET  to  become  more responsive to market needs and accountable for effective vocational training delivery.
 
-- Component 3: Skills Development Program and Market Linkages with a Rural Focus (US$5.0 million) ,  aimed  at  supporting  on-going  activities  by  the  NSDP  and  capacity  building  within  the NSDP and the Ministry of Labor and Social Affairs, Martyrs and Disabled (MoLSAMD) to undertake reforms in technical and vocational training through:
+11. Component 3: Skills Development Program and Market Linkages with a Rural Focus (US$5.0 million), aimed  at  supporting  on-going  activities  by  the  NSDP  and  capacity  building  within  the NSDP and the Ministry of Labor and Social Affairs, Martyrs and Disabled (MoLSAMD) to undertake reforms in technical and vocational training through:
 
-- Contracted  Vocational  Training  Packages  (US$3.0  million )  to  provide  market  responsive training  for:  (i)  youth;  (ii)  'Chronically  Poor  Women';  and  (iii)  marginal  farmers  and  landless farm laborers, through contracting local training providers.
+a) Contracted  Vocational  Training  Packages  (US$3.0  million)  to  provide  market  responsive training  for:  (i)  youth;  (ii)  ‘Chronically  Poor  Women’;  and  (iii)  marginal  farmers  and  landless farm laborers, through contracting local training providers.
 
-- A  Training  of  Trainers  Program  (US$1.5  million )  to  create  a  cadre  of  Productive  Skills Officers (PSOs) and Business Development Services (BDS) trainers.
+b) A  Training  of  Trainers  Program  (US$1.5  million)  to  create  a  cadre  of  Productive  Skills Officers (PSOs) and Business Development Services (BDS) trainers.
 
-- Capacity Building for NSDP/MoLSAMD (US$0.5 million) to build capacity in NSDP/MoLSAMD in curriculum and materials development; and collection, collation, analysis and interpretation of labor market information.
+c) Capacity Building for NSDP/MoLSAMD (US$0.5 million) to build capacity in NSDP/MoLSAMD in curriculum and materials development; and collection, collation, analysis and interpretation of labor market information.
 
-- Component  4:  Research,  Monitoring  &  Evaluation  (US$1  million) to develop  a project monitoring  and  information  system  to  provide  routine,  timely,  and  accurate  information,  to  measure project progress, and to conduct impact evaluations of specific sub-components.
+12. Component  4:  Research,  Monitoring  &  Evaluation  (US$1  million) to develop  a project monitoring  and  information  system  to  provide  routine,  timely,  and  accurate  information,  to  measure project progress, and to conduct impact evaluations of specific sub-components.
 
 ### 1.6 Revised Components
 
 13. The components remained the same throughout the project, but the activities were  revised in  July 2012  (see the project  restructuring  package,  including  supplemental  letter  (performance  indicators) submitted to the Country Director for approval on  July 20, 2012 ), as follows:
 
-- Component 1: The  enactment  of  legislation for  setting  up  the  Regulatory  and  Quality  Assurance Framework required a level of political consensus (among key stakeholder ministries) that was difficult to secure  in  the  prevailing  political  climate.  As  a  result,  the  project  dropped  its  target  of  establishing  the ANQA as part of the regulatory and quality assurance framework. The scope of Component 1 was revised to  focus  only  on:  (a)  the  development  and  approval  of  a  legal,  policy,  regulatory,  and  administrative framework for TVET; and (b) the design, development, and institutionalizing of the NQF.
+14. Component 1: The  enactment  of  legislation for  setting  up  the  Regulatory  and  Quality  Assurance Framework required a level of political consensus (among key stakeholder ministries) that was difficult to secure  in  the  prevailing  political  climate.  As  a  result,  the  project  dropped  its  target  of  establishing  the ANQA as part of the regulatory and quality assurance framework. The scope of Component 1 was revised to  focus  only  on:  (a)  the  development  and  approval  of  a  legal,  policy,  regulatory,  and  administrative framework for TVET; and (b) the design, development, and institutionalizing of the NQF.
 
 15. Component  2 :  A  pilot  voucher  program  (US$1  million)  was  added  to  enable  deserving  students (selected on the basis of merit) who had graduated from TVET institutes to pursue higher professional certificate programs in country or abroad.
 
@@ -617,7 +672,7 @@ ARTF  Management  Committee,  August  26,  2008,  for  more  detail  on  risks  
 
 [[START OF PAGE 24]]
 
-22. Project implementation was rated 'Satisfactory' or 'Moderately Satisfactory' throughout the course of implementation, except in two ISRs (out of 13) in early 2010 and mid-2011when it was rated 'Moderately Unsatisfactory' because of weak fiduciary, safeguards and project management aspects of the project.
+22. Project implementation was rated 'Satisfactory' or 'Moderately Satisfactory' throughout the course of implementation, except in two ISRs (out of 13) in early 2010 and mid-2011 when it was rated 'Moderately Unsatisfactory' because of weak fiduciary, safeguards and project management aspects of the project.
 
 23. Factors which contributed positively to implementation performance : Progress towards achievement of  PDO was rated 'Satisfactory' or 'Moderately Satisfactory' throughout the project's  implementation. The following factors contributed positively to implementation performance:
 
@@ -666,20 +721,22 @@ ARTF  Management  Committee,  August  26,  2008,  for  more  detail  on  risks  
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
-
+data and constraints on data collection due to security issues and a lack of technical capacity, particularly in the DMTVET, to implement the results framework. On the other hand, NSDP demonstrated satisfactory capacity to monitor implementation of Component 3, even in early stages of the project.
 27. M&E Design, Implementation and Utilization after Restructuring:  The MTR in April 2011 flagged some of the weaknesses in the original Results Framework (noted above) and recommended a revision of this framework. In mid-2012 (about fifteen months after the MTR), in response to these recommendations, the  implementing agencies and the  Bank  proposed a revision  of the  original results framework. The design of the revised results framework was stronger, with indicators and targets more closely  aligned  to  the  project  development  objectives,  and  more  reflective  of  ground  reality  ( see Supplemental  Letter  (Performance  Indicators)  included  in  the  restructuring  package  submitted  to  the Country Director for approval on July 20, 2012 ). The five outcome indicators, together with intermediate outcomes,  more  clearly  captured  the  PDO.  However,  the  revised  results  framework  would  still  have benefitted from greater specification on the intermediate outcomes, and consistency in reporting baseline and target values and in comments on the status of indicators in the Implementation Status and Results reports (ISRs) during implementation.
 
 28. Project monitoring improved significantly over the course of the project as the Bank team and GoA counterparts  ensured  more  systematic  and  reliable  information  management.  The  project  management team in the DMTVET also developed a Project Management Information System (PMIS) as part of its effort to develop an MIS. The PMIS has several data collection tools to collect and process data from different  sections  of  the  project  and  it  can  also  generate  regular  reports  for  project  management  and monitoring. The Bank team also initiated measures to verify data, particularly monitoring data, to ensure more accurate assessment of the project's progress. The ASDP Unit in DMTVET instituted a system of reporting to capture both semi-annual and monthly  project progress in its reports. Monitoring arrangements included tracer studies, and by the end of the project, both the DMTVET and the NSDP had conducted  a  series  of  tracer  studies  on  graduates  to  assess  the  impact  of  the  formal  and  non-formal training programs. As before project restructuring, monitoring of performance of Component 3 activities and additional tracer studies by NSDP remained satisfactory. In light of security constraints, particularly in provinces such as Kandahar and Khost, the inaccessibility of rural Afghanistan and a general lack of M&E capacity, the completion of tracer studies by NSDP was a significant achievement.
 
 ### 2.4 Safeguards
 
-29. The project was appropriately classified as Category B and triggered OP/BP 4.01. There was no land acquisition. An  Environmental and Social  Management  Framework  (ESMF)  was  prepared  and environmental  guidelines  for  contractors  were  included  in  the  contractual  agreements.  During  project implementation, there were occasional delays in compliance due to low institutional capacity and weak cooperation among different DMTVET departments and units. This was reflected by downgrading the safeguards rating to 'Moderately Unsatisfactory' in the ISR in June 2011. Environmental issues related primarily  to  construction  and  inadequate  water,  sanitation  and  health  hygiene  facilities  in  dormitories. Close supervision through Bank missions ensured steady improvement, with a 'Moderately Satisfactory' rating, starting in the ISR of December 2011 and a 'Satisfactory' rating as of June 2013. These ratings continued  through  the  rest  of  the  project's  implementation  period.  To  further    strengthen  the  project's safeguards aspects and implementation capacity, DMTVET: (i) appointed an environmental and social safeguard focal person from within its engineering team; (ii) translated safeguard documents into local languages  for  wider  use;  (iii)  conducted  staff  training;  (iv)  instituted  screening  of  civil  works  and  the preparation  of  site-specific  environmental  and  social  management  plans;  (v)  required  contractors  to implement site-specific environmental management plans; (vi) introduced regular reporting to the Bank on  the  status  of  ESMF  compliance  and  site-specific  plans;  and  (vii)  provided  an  annual  budget  for maintenance and repairs to ensure compliance with health and sanitation standards. Grievance Redress Committees were established at DMTVET and at the sub-project level whose functionality improved over time.
+29. The project was appropriately classified as Category B and triggered OP/BP 4.01. There was no land acquisition. An Environmental and Social Management Framework (ESMF) was prepared and environmental guidelines for contractors were included in the contractual agreements. During project implementation, there were occasional delays in compliance due to low institutional capacity and weak cooperation among different DMTVET departments and units. This was reflected by downgrading the safeguards rating to ‘Moderately Unsatisfactory’ in the ISR in June 2011. Environmental issues related primarily to construction and inadequate water, sanitation and health hygiene facilities in dormitories. Close supervision through Bank missions ensured steady improvement, with a ‘Moderately Satisfactory’ rating, starting in the ISR of December 2011 and a ‘Satisfactory’ rating as of June 2013. These ratings continued through the rest of the project’s implementation period. To further strengthen the project’s safeguards aspects and implementation capacity, DMTVET: (i) appointed an environmental and social safeguard focal person from within its engineering team; (ii) translated safeguard documents into local languages for wider use; (iii) conducted staff training; (iv) instituted screening of civil works and the preparation of site-specific environmental and social management plans; (v) required contractors to implement site-specific environmental management plans; (vi) introduced regular reporting to the Bank on the status of ESMF compliance and site-specific plans; and (vii) provided an annual budget for maintenance and repairs to ensure compliance with health and sanitation standards. Grievance Redress
 
 10
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+Committees were established at DMTVET and at the sub-project level whose functionality improved over time.
 
 30. Proactive efforts by the DMTVET and the NSDP Unit in MoLSAMD to improve gender equality and sensitivity to the needs of women in their TVET programs contributed to high shares of women in both formal and non-formal training programs (see paragraph 61).
 
@@ -707,14 +764,14 @@ ARTF  Management  Committee,  August  26,  2008,  for  more  detail  on  risks  
 
 36. Implementation  of  the  new  projects  has  started  well.  The  new  projects  have  benefitted  from  the systems put in place and increased human resource capacity built under ASDP. The consulting contract for the implementing partner for NIMA is continuing under ASDP II. The adequacy of budget provision for operations and maintenance costs of public TVET institutes and schools is uncertain due to GoA's overall  fiscal  situation  that  has  become  challenging  and  forecasts  for  economic  growth  in  the  near-  to mid-term are lower than before because of the  tenuous security situation, political uncertainty and  the overall fragile context of the country.
 
-## 3 . ASSESSMENT OF OUTCOMES
+## 3. ASSESSMENT OF OUTCOMES
 
 ### 3.1 Relevance of Objectives, Design and Implementation
 Relevance: High
 
-37. Objectives:  The  project  objective  was  and  remains  highly  relevant  to  the  development  needs  and priorities of Afghanistan and is closely aligned to the Bank's current country support strategy (ISN 20122014).  The  country's  commitment  to  TVET  remains  strong,  as  evidenced  in  its  policy  priorities  and programs such as NSDP. The World Bank's ISN 2012-2014 identifies three pillars, which form the core of  the  Bank's  support  to  Afghanistan:  (1)  building  the  legitimacy  and  capacity  of  institutions;  (2) equitable  service  delivery;  and  (3)  inclusive  jobs  and  growth.  It  is  clear  from  the  PDO  and  project activities in each component that ASDP is aligned with these strategic pillars.
+37. Objectives: The project objective was and remains highly relevant to the development needs and priorities of Afghanistan and is closely aligned to the Bank’s current country support strategy (ISN 2012-2014). The country’s commitment to TVET remains strong, as evidenced in its policy priorities and programs such as NSDP. The World Bank’s ISN 2012-2014 identifies three pillars, which form the core of the Bank’s support to Afghanistan: (1) building the legitimacy and capacity of institutions; (2) equitable service delivery; and (3) inclusive jobs and growth. It is clear from the PDO and project activities in each component that ASDP is aligned with these strategic pillars.
 
-38. Design  and  Implementation:  The  project  design  also  remains  highly  relevant  to  Afghanistan's development needs. As is the case in most post-conflict and fragile contexts, this project was confronted with  the  task  of  balancing  the  country's  immediate  priorities  for  recovery,  such  as  addressing  a  skills shortage, with the overarching objective of building a high-quality TVET sector. The project's design was responsive to both and reflects an appropriate balance between addressing short- and long-term priorities. Taking this into account, the project was appropriately designed as the first stage of a long-term plan to develop the TVET sector, and the priorities in this first stage were clearly identified as two-fold: meeting short-term  training  needs  and  laying  the  foundation  for  long-term  development  of  a  modern,  demanddriven TVET sector (Technical Annex, paragraphs 39-40, page 9).
+38. Design and Implementation: The project design also remains highly relevant to Afghanistan’s development needs. As is the case in most post-conflict and fragile contexts, this project was confronted with the task of balancing the country’s immediate priorities for recovery, such as addressing a skills shortage, with the overarching objective of building a high-quality TVET sector. The project’s design was responsive to both and reflects an appropriate balance between addressing short- and long-term priorities. Taking this into account, the project was appropriately designed as the first stage of a long-term plan to develop the TVET sector, and the priorities in this first stage were clearly identified as two-fold: meeting short-term training needs and laying the foundation for long-term development of a modern, demand-driven TVET sector (Technical Annex, paragraphs 39-40, page 9).
 
 12
 
@@ -726,26 +783,26 @@ Relevance: High
 Rating against revised project indicators/targets: Substantial
 Rating against original project indicators/targets (Annex 9): Modest
 
-39. The  project's  development  objective  was  'to  increase  the  number  of  immediately-employable graduates  by  supporting  the  establishment  of  a  high-quality  TVET  system  that  is  equitable,  marketresponsive,  and  cost-effective'.  In  accordance  with  the  ICR  guidelines, Annex 10 presents  a  detailed assessment  of  the  achievement  of  the  project  objective  against  original  indicators  and  targets (this analysis  has  been  factored  into  the  assessment  of  the  overall  project  outcome  which  is  discussed  in Section  3.4). A  detailed  assessment  of  project  outcomes  against  its  revised  indicators  and  targets  is discussed below .
+39. The project’s development objective was “to increase the number of immediately-employable graduates by supporting the establishment of a high-quality TVET system that is equitable, market-responsive, and cost-effective”. In accordance with the ICR guidelines, Annex 10 presents a detailed assessment of the achievement of the project objective against original indicators and targets (this analysis has been factored into the assessment of the overall project outcome which is discussed in Section 3.4). A detailed assessment of project outcomes against its revised indicators and targets is discussed below.
 
-#### Outcome 1: Increased number of immediately-employable TVET graduates
+#### Outcome 1: Increased number of immediately-employable TVET graduates -
 Substantial Achievement
 
 Indicators (outcome and intermediate outcome):
 
- Number of graduates from all (six) project financed institutions in DMTVETFully Achieved
+ Number of graduates from all (six) project financed institutions in DMTVET- Fully Achieved
 
- Share of NIMA graduates employed six months after completing training Substantially Achieved
+ Share of NIMA graduates employed six months after completing training - Substantially Achieved
 
  The number of diplomas awarded by NIMA - Highly Achieved
 
- Increase in the number of operational buildings and facilities for TVETSubstantially Achieved
+ Increase in the number of operational buildings and facilities for TVET- Substantially Achieved
 
- The number of voucher beneficiaries (including female) Highly Achieved
+ The number of voucher beneficiaries (including female) - Highly Achieved
 
- Number of TVET Institutes operating under the agreed governance framework Modestly Achieved
+ Number of TVET Institutes operating under the agreed governance framework - Modestly Achieved
 
- Percentage of women enrolled at NIMA Substantially Achieved
+ Percentage of women enrolled at NIMA - Substantially Achieved
 
 40. The two associated KPIs clearly indicate that the project has substantially achieved its first objective. The total number of graduates from the six project-supported TVET institutes increased sharply from 398 in 2008 to 7,720 by the end of the project, significantly exceeding the project's target of producing 5,380 graduates.  Ninety-nine  percent  of  these  graduates  had  degrees  in  focus-sectors. 8 Also,  75  percent  of NIMA's first cohort was employed within six months of graduation; this was an achievement of one of the  project's  key  indicators.  The  discussion  below  highlights  the  project  outputs  and  inputs  that contributed to this outcome, and to the long-term objective of establishing a high-quality TVET system.
 
@@ -769,18 +826,18 @@ Indicators (outcome and intermediate outcome):
 
 46. Equity: Equity was a priority in the project's strategy to improve the quality of TVET provision and this was one important criterion for choosing which institutes to support. As a result, the Blind School and ANIM were chosen to improve equitable access to TVET for the disabled and for vulnerable youth. ASDP also made special efforts to increase women's participation in NIMA, including on-site residential facilities for women. As a result of such efforts 32 percent of those who enrolled at NIMA in 2014 were women.    Although  this  fell  just  short  of  the  project's  target  of  33  percent,  it  is  still  an  important achievement in Afghanistan, where rates of women's participation in higher education and formal TVET are much lower (approximately 19 percent in each sector).
 
-#### Outcome  2:  Increased  number  of  immediately  employable  non-formal  training  beneficiaries
+#### Outcome 2: Increased number of immediately employable non-formal training beneficiaries -
 Substantial Achievement
 
 Indicators (outcome and intermediate outcome):
 
- Increase in average earnings of project graduates within 6 months of completing training (NSDP) -Substantially Achieved .
+ Increase in average earnings of project graduates within 6 months of completing training (NSDP) - Substantially Achieved.
 
- Number of vulnerable youth, poor women, marginalized farmers, and IDUs trained under NSDP Highly Achieved
+ Number of vulnerable youth, poor women, marginalized farmers, and IDUs trained under NSDP - Highly Achieved
 
- Number of BDS trainers trained Substantially Achieved
+ Number of BDS trainers trained - Substantially Achieved
 
-47. The project substantially achieved its second objective of increasing the number of immediatelyemployable  non-formal  training  beneficiaries.  Over  the  course  of  the  project,  9,676  vulnerable  youth, poor women, marginalized or landless farmers, people with disability (PwDs), and IDUs were trained, surpassing the project's target of 9,000. It is important to note that in Afghanistan, as in many places, most people in the informal sector claim some sort of employment, regardless of whether it provides a sustainable  living.  As  such,  in  the  case  of  non-formal  training,  which  was  targeted  at  people  in  the informal sector, earnings provide a better indicator of employability than employment rates. As a result of the training, the average earnings of each of the target groups increased significantly: chronically poor women's  earnings  increased  from  AFN  0  to  AFN  2,766  per  month,  and  youth's  average  earnings increased  from  AFN  998  to  AFN  8,475  per  month  following  their  training.  The  average  earnings  of marginalized  or  landless  farmers  increased  from  AFN  3,076  to  AFN  7,779  per  month 10 .  The  project achieved this objective by improving the market-relevance and quality of non-formal TVET. The specific outputs  and  inputs,  which  contributed  to  the  outcome  and  to  the  overarching  objective,  are  discussed below.
+47. The project substantially achieved its second objective of increasing the number of immediately-employable non-formal training beneficiaries. Over the course of the project, 9,676 vulnerable youth,
 
 > 9   The Borrower's views on the current status of the role played by  governing councils (GCs) in project-supported institutes in paragraph 17, Annex 7 (Summary of Borrower's ICR) differ from the assessment of the ICR. The ICR describes the Bank's assessment of the status of operational and financial autonomy at project closing (paragraphs 21(b), 24(d), 44, 72 and 73).
 
@@ -789,18 +846,18 @@ Indicators (outcome and intermediate outcome):
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+poor women, marginalized or landless farmers, people with disability (PwDs), and IDUs were trained, surpassing the project’s target of 9,000. It is important to note that in Afghanistan, as in many places, most people in the informal sector claim some sort of employment, regardless of whether it provides a sustainable living. As such, in the case of non-formal training, which was targeted at people in the informal sector, earnings provide a better indicator of employability than employment rates. As a result of the training, the average earnings of each of the target groups increased significantly: chronically poor women’s earnings increased from AFN 0 to AFN 2,766 per month, and youth’s average earnings increased from AFN 998 to AFN 8,475 per month following their training. The average earnings of marginalized or landless farmers increased from AFN 3,076 to AFN 7,779 per month 10. The project achieved this objective by improving the market-relevance and quality of non-formal TVET. The specific outputs and inputs, which contributed to the outcome and to the overarching objective, are discussed below.
+48. Project Outputs and Inputs: ASDP’s efforts to provide non-formal training were meant to complement the Government’s ongoing NSDP, but with a particular focus on equity, quality and the market-responsiveness of non-formal training. Market-responsiveness was the guiding principle in designing the training programs. To achieve this: (a) each training program was designed for the needs of the local target population; and (b) a rapid assessment of local market needs and consultations with village leaders formed the basis for the design. Most of the training programs were evaluated by a tracer study. This allowed for a simple, but effective means of evaluating the impact and as such, the efficacy of these training programs. Over the course of the project, 11 tracer studies were conducted to assess the impact of the non-formal training programs. Building evaluation capacity in the non-formal training program will clearly be a legacy of the project. As another capacity building measure, the project trained a total of 1,652 business development service trainers, which was an important contribution to the non-formal training program in the country as a whole. In response to the cultural constraints for women in the Afghan labor force, the skills training for women focused on activities that would enable them to work from home (e.g., carpet weaving, embroidery, horticulture, and food-processing). Equity was also an underlying principle of ASDP’s support for the non-formal training program. The training beneficiaries included: 3,150 chronically poor women, 2,500 marginalized or landless farmers, 3,526 youth, 200 rehabilitated injectable drug users (IDUs) and 300 people with disability (PwDs).
 
-48. Project  Outputs  and  Inputs: ASDP's  efforts  to  provide  non-formal  training  were  meant  to complement  the  Government's  ongoing  NSDP,  but  with  a  particular  focus  on  equity,  quality  and  the market-responsiveness  of  non-formal  training.  Market-responsiveness  was  the  guiding  principle  in designing the training programs. To achieve this: (a) each training program was designed for the needs of the  local  target  population;  and  (b)  a  rapid  assessment  of  local  market  needs  and  consultations  with village leaders formed the basis for the design. Most of the training programs were evaluated by a tracer study. This allowed for a simple, but effective means of evaluating the impact and as such, the efficacy of these training programs. Over the course of the project, 11 tracer studies were conducted to assess the impact  of  the  non-formal  training  programs.  Building  evaluation  capacity  in  the  non-formal  training program will clearly be a legacy of the project. As another capacity building measure, the project trained a total of 1,652 business development service trainers, which was an important contribution to the nonformal training program in the country as a whole. In response to the cultural constraints for women in the Afghan labor force, the skills training for women focused on activities that would enable them to work from  home  (e.g.,  carpet  weaving,  embroidery,  horticulture,  and  food-processing).    Equity  was  also  an underlying principle of ASDP's support for the non-formal training program. The training beneficiaries included:  3,150  chronically  poor  women,  2,500  marginalized  or  landless  farmers,  3,526  youth,  200 rehabilitated injectable drug users (IDUs) and 300 people with disability (PwDs).
-
-#### Outcome 3:  Improved institutional  and  regulatory framework for  TVET
+#### Outcome 3: Improved institutional and regulatory framework for TVET -
 Modest Achievement
 Indicators (outcome and intermediate outcome):
 
- New Institutional  Framework for TVET developed and submitted to Parliament for legislative enactment Modestly Achieved
+ New Institutional Framework for TVET developed and submitted to Parliament for legislative enactment - Modestly Achieved
 
- The NQF developed and approval of the DMTVET Plan Substantially Achieved
+ The NQF developed and approval of the DMTVET Plan - Substantially Achieved
 
-49. To support the establishment of a high-quality TVET system, the project aimed to develop both the  institutional  and  regulatory  frameworks  for  TVET.  The  targets  were  ambitious:  (a)  design  and establish an institutional framework (i.e., ANQA and independent awarding boards [e.g., NTVETB]); and (b)  develop  and  implement  a  NQF  (a  levels-based  structure  to  map  all  education  and  training competencies).  These targets were revised in July 2012 when it became clear that the political realities on the ground were not conducive to achieving these targets. The project's revised target was to develop the institutional framework and the NQF, along with draft legislation, and to submit these draft frameworks for legislative enactment.
+49. To support the establishment of a high-quality TVET system, the project aimed to develop both the institutional and regulatory frameworks for TVET. The targets were ambitious: (a) design and establish an institutional framework (i.e., ANQA and independent awarding boards [e.g., NTVETB]); and (b) develop and implement a NQF (a levels-based structure to map all education and training competencies). These targets were revised in July 2012 when it became clear that the political realities on the ground were not conducive to achieving these targets. The project’s revised target was to develop the
 
 > 10 The baseline and target values for this indicator in project documents are inconsistent with the revised indicator of market responsiveness, the intent of which was to measure the difference in earnings as a result of the vocational training. As such, the ICR team chose to report the pre-training and post-training earnings of the vocational training beneficiaries under ASDP, which provide a more accurate assessment of this indicator.
 
@@ -809,31 +866,31 @@ Indicators (outcome and intermediate outcome):
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
-
+institutional framework and the NQF, along with draft legislation, and to submit these draft frameworks for legislative enactment.
 50. Despite early challenges, significant progress was made towards this objective in 2013 and 2014. By  the  end  of  the  project,  a  basic  design  for  a  new  institutional  framework  and  the  NQF  had  been developed. These were approved by the CESP, signifying the endorsement of all relevant stakeholders. Draft  legislation  for  enacting  this  framework  (including  the  establishment  of  the  NTVETB)  and establishing the NQF  was  also  developed.  Although  the  legislation  is  yet  to  be submitted  for Parliamentary approval, the Government is considering interim provisions to establish the NQF and the institutional framework by Cabinet authority. This is not a fully satisfactory outcome, since the legislation for establishment of the NTVETB, as an independent entity with its own budget code, has yet to be tabled before Parliament. Nevertheless, it is clear that there has been significant progress towards achieving this objective,  particularly  in  light  of  the  political  turbulent  climate  of  Afghanistan  in  the  last  year. Achievement of this outcome is rated as Modest.
 
 51. Project Outputs and Inputs: The CESP was established in 2008 to oversee the development and implementation of the institutional framework and the NQF. This Committee, chaired by FVP, has been responsible  for  overseeing  the  process  of  drafting  the  institutional  framework  and  the  NQF.  A  key element of the new institutional framework is the establishment of the NTVETB to facilitate and apply TVET regulatory  policy.  It  was  originally  intended  to  function  as  an  independent  entity  with  its  own staffing, budget and functions. It is, however, unclear whether it will be granted this status in the current political environment.
 
 52. An  important  output  was  the  development  of  the  NQF  to  help  in  recognizing  prior  learning, bringing much needed standardization, providing a clear signal to employers on the abilities and skills available,  and  allowing  trainees  to  develop  a  commitment  to  life-long  learning.  Developing  this framework  was  in  itself  an  achievement.  The  process  was  complicated.  It  called  for  extensive consultations with all stakeholders to define relevant levels in the framework, and the generic learning outcomes  associated  with  each  level.  The  NQF  has  now  been  developed  and  approved  by  the  CESP. Since the establishment of the ANQA was dropped at restructuring, the CESP is expected to function as an interim body to oversee the implementation of the NQF as well as the establishment of the NTVETB. Another  important  contribution  to  the  regulatory  framework  was  the  development  of  the  National Occupational  Skills  Standards  (NOSS).  The  NOSS  describes  the  minimum  standards  to  which  an individual is expected to work in a given occupation. Under ASDP, 170 NOSSs have been developed. Benchmarking of NOSSs to international standards is now being developed under ASDP II (paragraph 35).
 
-#### Outcome 4: Strengthened M&E and program management capacity
+#### Outcome 4: Strengthened M&E and program management capacity -
 Substantial Achievement
 Indicators (outcome and intermediate outcome):
 
- MIS is in place and MIS reports produced Substantially Achieved.
+ MIS is in place and MIS reports produced - Substantially Achieved.
 
- Number of Project Staff and Officers trained in different functional areas (for both DMTVET and NSDP) Highly Achieved.
+ Number of Project Staff and Officers trained in different functional areas (for both DMTVET and NSDP) - Highly Achieved.
 
- Number of tracer studies of TVET graduates completed Highly Achieved.
+ Number of tracer studies of TVET graduates completed - Highly Achieved.
 
-53. A  high-quality  TVET  system  is  one  that  is  capable  of  recognizing  and  responding  to  market demands. This, in turn, requires:  (a)  strong  mechanisms  for  monitoring  and  evaluating  information  on market  needs  and  program  effectiveness;  and  (b)  sufficient  human  resource  capacity  to  utilize  this information  for  strategic  planning,  management,  and  decision  making.  Like  all  other  elements  of  the system, the mechanisms for information management were almost non-existent, and program management capacity was very weak. The project substantially achieved its  objective  by strengthening both M&E and program management capacity. These achievements, expressed in terms of outputs and outcomes, are noted below.
+53. A high-quality TVET system is one that is capable of recognizing and responding to market demands. This, in turn, requires: (a) strong mechanisms for monitoring and evaluating information on market needs and program effectiveness; and (b) sufficient human resource capacity to utilize this information for strategic planning, management, and decision making. Like all other elements of the system, the mechanisms for information management were almost non-existent, and program management capacity was very weak. The project substantially achieved its objective by strengthening
 
 16
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
-
+both M&E and program management capacity. These achievements, expressed in terms of outputs and outcomes, are noted below.
 54. Projects  M&E  Outputs: The  project  designed  and  implemented  a  Management  Information System  (MIS),  with  two  main  components:  the  first  component  (the  Project  Management  Information System (PMIS)) is designed to capture project management related data. The other component (the TVET Management Information System [TMIS]) is designed to capture information on TVET institutes under the  DMTVET  (See  Annex  2  for  details).  Currently,  the  PMIS  has  been  implemented  well  enough  to generate on-demand reports on most aspects of the project management. Capturing data on formal TVET provision in the country is a much  more  complicated  and  challenging  task  and  as  such,  the implementation of the TMIS is at a more nascent stage. At this stage, the TMIS is able to collect data from four of the six project supported TVET institutes (NIMA, ANIM, AIT and the Blind School). The establishment of the MIS is an important achievement because it lays the groundwork for future planning and strategic management of the TVET sector.
 
 55. The project  also  succeeded  in  building  capacity  for  program  evaluation.  Under  the  project,  14 tracer  studies  were  conducted  through  both  the  NSDP  and  the  DMTVET.  This  was  an  ambitious undertaking, not only because of the low capacity, resource-constrained environment, but also because several of these studies were conducted in remote and insecure areas. The impact of the training programs was assessed on the basis of the pre- and post-training earnings of the treatment groups. Tracer studies were  new  tools  for  the  sector  and  therefore  it  is  not  surprising  that  the  NSDP  and  the  DMTVET experienced  a  few  challenges  in  carrying  them  out.  Nevertheless,  introducing  this  methodology  in  a fragile context was in itself an achievement which has ultimately served to build evaluation capacity in MoLSAMD.
@@ -848,7 +905,7 @@ Rating: Substantial
 
 58. According to the analysis, the NPV under the base case is US$20.8 million at a discount rate of 10 percent, and the IRR is 22 percent. Since this IRR is substantially larger than the cost of capital (10 percent), the analysis suggests that ASDP was a project worthy of investment. There was no economic analysis  at  the  appraisal  stage  and  therefore  it  is  not  possible  to  compare  the  estimated  IRR  with  the expected one to evaluate whether the project exceeded previous expectations.
 
-59. Key  improvements  included  increased  internal  efficiency,  as  the  total  number  of  beneficiaries increased from 398 to 17,617 by the end of the project 11 , and also increased external efficiency due to a greater presence of skilled labor force in the economy. Benefits from Component 2 were derived from the number of students  who graduated from the  project-supported six institutes, including  NIMA,  and  the introduction of the Voucher Program. Component 3 yielded high socio-economic benefits because most of  the  targeted  marginalized  workers  started  from  a  baseline  of  negligible  earnings  and  substantially increased their income.
+59. Key improvements included increased internal efficiency, as the total number of beneficiaries increased from 398 to 17,617 by the end of the project 11, and also increased external efficiency due to a
 
 > 11 As  articulated  in  Annex  3,  beneficiaries  include  7,720  students  that  graduated  from  the  selected  six  TVET institutes  and  221  students  that  received  vouchers  to  pursue  further  professional  technical  education  (under Component 2), and 9,676 marginalized workers who were trained under Component 3.
 
@@ -857,28 +914,28 @@ Rating: Substantial
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
-
+greater presence of skilled labor force in the economy. Benefits from Component 2 were derived from the number of students who graduated from the project-supported six institutes, including NIMA, and the introduction of the Voucher Program. Component 3 yielded high socio-economic benefits because most of the targeted marginalized workers started from a baseline of negligible earnings and substantially increased their income.
 ### 3.4 Justification of Overall Outcome Rating
 Rating: Moderately Satisfactory
 
 60. The project outcome rating against its revised indicators and targets is assessed as Satisfactory because:  (a)  the  PDO  and  design  remained  Highly  Relevant  throughout  project  implementation  and continue to remain Highly Relevant today; and (b) its efficiency and efficacy were both Substantial. The project outcome rating against original indicators and targets is assessed as Moderately Unsatisfactory (See Annex 10 for details). In line with the ICR guidelines, the project's final outcome rating is based on a weighted assessment of the two outcome ratings in proportion to the share of actual grant disbursements made in the periods before and after approval of the revision. Table 1 below reflects this analysis. As a result, the overall outcome is rated as Moderately Satisfactory .
-
-Performance weighted against original indicators and targets | Performance weighted against revised indicators and targets | Overall | Comments
+Table 1: Analysis of Project Performance against Original and Revised Indicators and Targets
+ | Performance weighted against original indicators and targets | Performance weighted against revised indicators and targets | Overall | Comments
 --- | --- | --- | --- | ---
 Project Outcome Rating | Moderately Unsatisfactory | Satisfactory | - | Substantial Improvement after indicators and targets were revised.
-Rating Value | 3 | 5 | -
-Weight (% disbursed before/after restructuring) | 69% | 31% | 100%
-Weighted Value | 2.1 | 1.6 | 3.7
-Final Project Outcome Rating (rounded) | Moderately Satisfactory | Restructuring 12 was undertaken 15 months after the Mid-term Review. Had this restructuring taken place earlier or even well before the MTR, the project's performance may have been assessed as more satisfactory.
+Rating Value | 3 | 5 | - |
+Weight (% disbursed before/after restructuring) | 69% | 31% | 100% |
+Weighted Value | 2.1 | 1.6 | 3.7 |
+Final Project Outcome Rating (rounded) |  |  | Moderately Satisfactory | Restructuring 12 was undertaken 15 months after the Mid-term Review. Had this restructuring taken place earlier or even well before the MTR, the project’s performance may have been assessed as more satisfactory.
 
-Table 1: Analysis of Project Performance against Original and Revised Indicators and Targets
+
 
 Note:  Following  values  were  assigned  to  outcome  ratings  for  the  purpose  of  this  analysis:  6  =  Highly  Satisfactory;  5  = Satisfactory; 4 = Moderately Satisfactory; 3 = Moderately Unsatisfactory; 2 = Unsatisfactory; and 1 = Highly Unsatisfactory.
 
 ### 3.5 Overarching Themes, Other Outcomes and Impacts
 #### (a) Poverty Impacts, Gender Aspects, and Social Development
 
-61. The objectives of increased female enrollment in project-supported TVET institutes of DMTVET and in non-formal training programs by NSDP were achieved: the share of female students enrolled in NIMA was  32  percent  in  2014;  and  40  percent  of  vulnerable  people  trained  in  rural  areas  under  the  NSDP programs  were  women.  Twenty  nine  percent  of  students  at  ANIM  are  female.  Students  at  NIMA represent nearly all provinces in the country, including insecure areas.  ANIM also made special efforts to attract  orphans and children from very poor backgrounds, including street children, to its student body and  transform  them  through  quality  training  in  both  music  and  general  education.  Some  provinces covered under the NSDP training programs such as Kandahar and Khost were highly insecure.
+61. The objectives of increased female enrollment in project-supported TVET institutes of DMTVET and in non-formal training programs by NSDP were achieved: the share of female students enrolled in NIMA was 32 percent in 2014; and 40 percent of vulnerable people trained in rural areas under the NSDP programs were women. Twenty nine percent of students at ANIM are female. Students at NIMA represent nearly all provinces in the country, including insecure areas. ANIM also made special efforts to attract orphans and children from very poor backgrounds, including street children, to its student body
 
 > 12  See the restructuring package (including Supplemental Letter - Performance Indicators) submitted to the Country Director for approval on July 20, 2012. The MTR was in April 2011.
 
@@ -887,7 +944,7 @@ Note:  Following  values  were  assigned  to  outcome  ratings  for  the  purpos
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
-
+and transform them through quality training in both music and general education. Some provinces covered under the NSDP training programs such as Kandahar and Khost were highly insecure.
 #### (b) Institutional Change/Strengthening
 
 62. Institutional  strengthening  was  significant.  GoA  decided  to  place  responsibility  for  project implementation  and  management  within  the  existing  arrangements  in  the  implementing  ministries, supplemented  by  consultants  as  needed  for  the  project.  This  design  supported  a  learning-by-doing process.  Facilitated  by  persistent  dialogue,  despite  Afghanistan's  highly  centralized  structure,  GoA initiated, with support from the Bank, actions to grant autonomy to project-supported TVET institutes. A new institute, NIMA, based on international standards, has also been established.
@@ -930,20 +987,20 @@ Rating:
 
 Moderately Unsatisfactory
 
-66. Considering  the  fragile  country  situation  and  a  demanding  project  design,  Bank  supervision following  the  MTR  was  regular  and  intense,  with  short  missions  in  between  semi-annual  missions. Following  the  MTR,  the  Bank  recruited  an  Operations  Officer  to  work  on  the  project  in  the  Country Office.  During  six  and  one-half  years  of  project  implementation,  though  there  were  four  Task  Team Leaders, continuity was maintained in the teams, particularly including staff in the Country Office. As of late 2013 and until recently when security did not allow mission travel to Kabul, the Bank team conducted a  supervision  mission  in  Dubai.  In  early  2011  during  the  MTR,  it  became  clear  that  the  NIMA  subcomponent needed to be strengthened, including its management team, and urgent action was required to move  forward.  Corrective  actions  were  taken  by  the  Government  with  support  from  the  Bank  team, including the appointment of a capable management team for NIMA on an acting basis.
+66. Considering the fragile country situation and a demanding project design, Bank supervision following the MTR was regular and intense, with short missions in between semi-annual missions. Following the MTR, the Bank recruited an Operations Officer to work on the project in the Country Office. During six and one-half years of project implementation, though there were four Task Team Leaders, continuity was maintained in the teams, particularly including staff in the Country Office. As of late 2013 and until recently when security did not allow mission travel to Kabul, the Bank team conducted a supervision mission in Dubai. In early 2011 during the MTR, it became clear that the NIMA sub-component needed to be strengthened, including its management team, and urgent action was required to move forward. Corrective actions were taken by the Government with support from the Bank team, including the appointment of a capable management team for NIMA on an acting basis.
 
 67. Based on implementation experience, the Bank  was responsive to the  need to assist deserving students  (who  had  graduated  from  project-supported  TVET  institutes)  in  pursuing  further  professional training in market-relevant areas. To this end, the Bank agreed to GoA's proposal to add a Pilot Vouchers Program for students selected on the basis of merit. The Bank team also worked with GoA to strengthen actions  under  the  project  to  support  enhancement  of  the  autonomy  of  TVET  institutes,  strengthen  the application  of  the  ESMF,  increase  attention  to  water,  sanitation  and  health  hygiene  facilities  in dormitories, and increase the frequency of project progress reporting.
 
 68. Supervision  of fiduciary and  safeguards  aspects of the project was  appropriate. At  the recommendation  of  the  Bank,  DMTVET  recruited  a  contract  management  specialist  and  implemented other mitigation measures, including training. Supervision of financial management issues was thorough and  focused  on  improving  financial  management  capacity  and  performance.  The  Bank  also  closely supervised environmental safeguards aspects of the project and provided recommendations to correct any shortfalls. Fiduciary and safeguards ratings in ISRs were adjusted to reflect compliance performance.
 
-69. On M&E, however, the systematic collection of baseline and other data to track progress, and quality of monitoring and reporting should have received more attention starting from the time of project approval (see Section 2.3). An overall lack of capacity to undertake such activities, the country's fragile situation and the tenuous security environment in which the project was implemented, which culminated in  a  'fire-fighting' modus  operandi ,  may  have  contributed,  in  part,  to  this  oversight.  However,  more careful attention to the progress and challenges in monitoring the project's progress in achieving KPIs and to clearly document the M&E issues in the ISRs throughout the life of the project could have helped focus the  Bank's  attention  to  the  issues  to  trigger  remedial  actions,  and  to  help  enhance  the  project's developmental impact in a timely manner. Following the MTR, which, among other findings, focused on how to address weaknesses in the original results framework, 15 months elapsed before a revised results framework  was  proposed  as  part  of  the  project  restructuring  ( see  Supplemental  Letter  (Performance Indicators) included in the restructuring package submitted to the Country Director for approval on July 20,  2012 , and paragraph 8 ). In  a  fragile  country  like  Afghanistan,  the  results  framework  should  have been revised as soon as it had become clear that some indicators and targets were too ambitious, no longer relevant or meaningful or could not be measured. Timely course corrections by processing adjustments to the  project's  indicators  and  targets  through  project  restructuring  immediately  following  the  MTR  or preferably  even  well  before  the  planned  MTR  could  have  helped  the  project  get  back  on  track  more quickly.  Despite  adequacy  of  supervision  inputs  and  processes,  supervision  of  fiduciary  and  safeguard aspects,  and  the  role  in  ensuring  adequate  transition  arrangements  (see  Section  2.7),  quality  of  Bank supervision  is  rated Moderately  Unsatisfactory because  of  weaknesses  in  following  up  on  the  M&E system and in the M&E ratings.
+69. On M&E, however, the systematic collection of baseline and other data to track progress, and quality of monitoring and reporting should have received more attention starting from the time of project approval (see Section 2.3). An overall lack of capacity to undertake such activities, the country’s fragile situation and the tenuous security environment in which the project was implemented, which culminated in a ‘fire-fighting’ modus operandi, may have contributed, in part, to this oversight. However, more careful attention to the progress and challenges in monitoring the project’s progress in achieving KPIs and to clearly document the M&E issues in the ISRs throughout the life of the project could have helped focus the Bank’s attention to the issues to trigger remedial actions, and to help enhance the project’s developmental impact in a timely manner. Following the MTR, which, among other findings, focused on how to address weaknesses in the original results framework, 15 months elapsed before a revised results framework was proposed as part of the project restructuring (see Supplemental Letter (Performance Indicators) included in the restructuring package submitted to the Country Director for approval on July 20, 2012, and paragraph 8). In a fragile country like Afghanistan, the results framework should have been revised as soon as it had become clear that some indicators and targets were too ambitious, no longer relevant or meaningful or could not be measured. Timely course corrections by processing adjustments to the project’s indicators and targets through project restructuring immediately following the MTR or
 
 20
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
-
+preferably even well before the planned MTR could have helped the project get back on track more quickly. Despite adequacy of supervision inputs and processes, supervision of fiduciary and safeguard aspects, and the role in ensuring adequate transition arrangements (see Section 2.7), quality of Bank supervision is rated Moderately Unsatisfactory because of weaknesses in following up on the M&E system and in the M&E ratings.
 #### (c) Justification of Rating for Overall Bank Performance
 Rating: Moderately Satisfactory
 
@@ -978,7 +1035,7 @@ Rating: Moderately Satisfactory
 
 ## 6. LESSONS LEARNED
 
- Strong commitment and leadership are critical for successfully steering reforms in a TVET institute. Thanks to its dynamic and reform oriented director, ANIM was the first TVET institute under  DMTVET to establish  a satisfactory  governing  council  and  open  a  bank  account  in  the name of the institute. This  continues  to  serve  as  a  model  for  similar  reforms  in  other  projectsupported TVET institutes.
+ Strong commitment and leadership are critical for successfully steering reforms in a TVET institute. Thanks to its dynamic and reform oriented director, ANIM was the first TVET institute under DMTVET to establish a satisfactory governing council and open a bank account in the name of the institute. This continues to serve as a model for similar reforms in other project-supported TVET institutes.
 
  Sustained  implementation  support  and  supervision  by  the  Bank  in  a  fragile  situation  is likely to lead to improved project implementation. Starting with the MTR in April 2011, the Bank  carried  out  nearly  one  supervision  mission  every  six  weeks.    This  resulted  in  tracking implementation progress in real time and in helping to resolve implementation problems.
 
@@ -993,14 +1050,14 @@ Rating: Moderately Satisfactory
 ## 7. Comments on Issues Raised by Borrower/Implementing Agencies/Partners
 ### (a) Borrower/implementing agencies.
 
-74. The  Borrower's  Completion  Report  is  included  in  Annex  7.  GoA  reviewed  the  ICR  and concurred with the assessment. No substantive issues were raised (see Annex 7 for GoA's comments that were received). The ICR team has taken into account GoA's observations in the ICR. The ICR team's comments on main observations of GoA are given at the end of Annex 7.
+74. The Borrower’s Completion Report is included in Annex 7. GoA reviewed the ICR and concurred with the assessment. No substantive issues were raised (see Annex 7 for GoA’s comments that
 
 22
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
-
+were received). The ICR team has taken into account GoA’s observations in the ICR. The ICR team’s comments on main observations of GoA are given at the end of Annex 7.
 ### (b) Co-financiers
 
 Not applicable.
@@ -1021,13 +1078,13 @@ Not applicable.
 
 Components | Appraisal Estimate for Original IDA Financing (USD millions) | Appraisal Estimates for ARTF Financing (USD millions) | Total Estimated Cost (USD millions) | Actual /Latest Estimate (USD millions) | Percentage of Total Estimate
 --- | --- | --- | --- | --- | ---
-1. Develop Regulatory and Quality Assurance Framework for TVET | 1.5 | 1.5 | 1.45 | 97%
+1. Develop Regulatory and Quality Assurance Framework for TVET | 1.5 |  | 1.5 | 1.45 | 97%
 2. Improve Relevance, Quality and Efficiency of TVET 13 | 12.5 | 18.0 | 30.5 | 26.91 | 88%
-3. Skills Development Program and Market Linkages with a Rural Focus | 5.0 | 5.0 | 4.95 | 99%
-4. Research, Monitoring & Evaluation | 1.0 | 1.0 | 0.70 | 70%
-Total Baseline Cost | 20.0 | 18.0 | 38.0
-Total Project Costs | 20.0 | 18.0 | 38.0 | 34.01
-Total Financing Required | 38.0 | 34.01 | 90%
+3. Skills Development Program and Market Linkages with a Rural Focus | 5.0 |  | 5.0 | 4.95 | 99%
+4. Research, Monitoring & Evaluation | 1.0 |  | 1.0 | 0.70 | 70%
+Total Baseline Cost | 20.0 | 18.0 | 38.0 |  |
+Total Project Costs | 20.0 | 18.0 | 38.0 | 34.01 |
+Total Financing Required |  |  | 38.0 | 34.01 | 90%
 
 ### Financing by Source (in USD million equivalent)
 
@@ -1081,14 +1138,14 @@ Achievement: This component was designed to lay the foundations of a Quality Ass
 
 ### Component 2: Improve Relevance, Quality and Efficiency of TVET
 
-Achievement: The aim was to improve the relevance, quality and efficiency of TVET in order to produce more  immediately  employable  graduates.  The  project  achieved  its  objective  by  establishing  a  new institute:  the  National  Institute  of  Management  and  Administration  (NIMA).  NIMA  alone  made  a substantial contribution to the relevance, quality and efficiency of TVET provision. In addition to this, the project provided support to improve the physical infrastructure, teaching and learning facilities, teaching methods, and governance processes in five existing institutions. In July 2012, the project added a Voucher Program (a merit based system) to enable deserving students to pursue more specialized TVET in priority areas.  These  actions  contributed  to  the  goal  of  increasing  the  number  of  immediately  employable graduates. The outputs listed below are a direct result of investments under the project and demonstrate that  ASDP  increased  the  number  of  immediately  employable  graduates  by  improving  the  quality  and relevance of formal TVET.
+Achievement: The aim was to improve the relevance, quality and efficiency of TVET in order to produce more immediately employable graduates. The project achieved its objective by establishing a new institute: the National Institute of Management and Administration (NIMA). NIMA alone made a
 
 25
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
-
+substantial contribution to the relevance, quality and efficiency of TVET provision. In addition to this, the project provided support to improve the physical infrastructure, teaching and learning facilities, teaching methods, and governance processes in five existing institutions. In July 2012, the project added a Voucher Program (a merit based system) to enable deserving students to pursue more specialized TVET in priority areas. These actions contributed to the goal of increasing the number of immediately employable graduates. The outputs listed below are a direct result of investments under the project and demonstrate that ASDP increased the number of immediately employable graduates by improving the quality and relevance of formal TVET.
 #### Sub-component 2.1 Establish the National Institute of Management and Administration (NIMA)
 
 ##### Development of Institutional Infrastructure, Teaching and Learning Facilities
@@ -1259,7 +1316,7 @@ Achievement: This component aimed to improve the information management and eval
 
  The ASDP MIS team has produced quarterly and on demand reports for the HR, Procurement and Finance since March 2013.
 
- An MIS is also designed to house data on DMTVET students, teachers and academic records currently,  the  MIS  contains  information  on  4  institutes  (NIMA,  ANIM,  AIT,  and  the  Blind School).
+ An MIS is also designed to house data on DMTVET students, teachers and academic records - currently, the MIS contains information on 4 institutes (NIMA, ANIM, AIT, and the Blind School).
 
  A  website  has  been  developed  for  ASDP  (http://www.asdp.af)  to  disseminate  information  on ASDP.
 
@@ -1280,6 +1337,7 @@ Achievement: This component aimed to improve the information management and eval
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+## Annex 3. Economic and Financial Analysis
 
 ### A. Introduction
 
@@ -1297,7 +1355,7 @@ Achievement: This component aimed to improve the information management and eval
 
 5. The  cost  of  all  the  activities  under  the  project  was  US$34  million  disbursed  over  6.5  years beginning in 2008. The activities under ASDP yielded benefits, first of all, by increasing the number of graduates  and  of  marginalized  workers  from  rural  areas  who  can  be  productive  in  the  labor  market. Beneficiaries of ASDP included: (1) graduates of the project supported TVET institutes under DMTVET; (2) voucher beneficiaries; and (3) trained marginalized workers. In total, during ASDP activities, 7,720 students graduated from the selected TVET institutes, 221 students received vouchers to pursue further technical  education,  and  9,676  marginalized  workers  were  trained.  Figure  1  illustrates  the  number  of students (graduates from the formal sector) and of marginalized workers (trainees from the  non-formal training programs) that benefitted from ASDP activities (the numbers per year have been approximated and 2008 is considered as the first year of activities).
 
-## Annex 3. Economic and Financial Analysis
+
 
 30
 
@@ -1349,11 +1407,11 @@ Students
 
 Marginalized workers
 
-- The increased productivity  of the beneficiaries  is  measured  by  the  compensation  after  training relative  to  what  they  could  have  earned  without  the  additional  education,  in  case  of  the  students,  or relative  to  the  compensation  before  training,  in  case  of  the  marginalized  workers.  The  benefits  are calculated under the standard assumptions: (1) the productivity of the beneficiaries remains higher over their active life time (40 years for the graduates and a standard 25 years for marginalized workers), (2) the deflation rate for the period under consideration is, on average, four  percent, (3) the discount rate for the future  benefits  is  10  percent,  and  (4)  exchange  rates  from  AFN  to  US$  are  calculated  based  on  the historical rate on the date the AFN values were measured.
+6. The increased productivity of the beneficiaries is measured by the compensation after training relative to what they could have earned without the additional education, in case of the students, or relative to the compensation before training, in case of the marginalized workers. The benefits are calculated under the standard assumptions: (1) the productivity of the beneficiaries remains higher over their active life time (40 years for the graduates and a standard 25 years for marginalized workers), (2) the deflation rate for the period under consideration is, on average, four percent, (3) the discount rate for the future benefits is 10 percent, and (4) exchange rates from AFN to US$ are calculated based on the historical rate on the date the AFN values were measured.
 
-- For the graduates of the selected DMTVET institutes, the benefits of the program are estimated based on the results of a tracer survey of NIMA graduates by an independent firm in September 2013. The survey shows that graduates have an estimated 75 percent probability of being employed six to nine months after graduation and that, if employed in the formal economy, they earned about AFN 24,259 or US$466  a  month  (US$5,592  a  year).  According  to  the  National  Risk  and  Vulnerability  Assessment (NRVA) survey conducted in 2007/2008,  this  corresponds  to  an  increase  in  earnings  of  roughly  AFN 14,000  with  respect  to  students  that  only  completed  high  school.  Under  the  base  case  scenario,  it  is assumed  that  the  improvements  in  training  quality  and  market  relevance  induced  by  the  project  were responsible for five percent of such an increase in earnings.
+7. For the graduates of the selected DMTVET institutes, the benefits of the program are estimated based on the results of a tracer survey of NIMA graduates by an independent firm in September 2013. The survey shows that graduates have an estimated 75 percent probability of being employed six to nine months after graduation and that, if employed in the formal economy, they earned about AFN 24,259 or US$466 a month (US$5,592 a year). According to the National Risk and Vulnerability Assessment (NRVA) survey conducted in 2007/2008, this corresponds to an increase in earnings of roughly AFN 14,000 with respect to students that only completed high school. Under the base case scenario, it is assumed that the improvements in training quality and market relevance induced by the project were responsible for five percent of such an increase in earnings.
 
-- For the voucher beneficiaries, in the absence of a tracer survey, the incremental benefits of the project are estimated using the NRVA survey as a secondary source. These benefits are discounted by the income that graduates of grade XIV could have earned on the market during the two years of their studies. Given the high market relevance of the technical skills acquired by voucher beneficiaries, it is assumed that voucher graduates have a 90 percent employment rate for the first year after graduation and a  full employment rate after that.
+8. For the voucher beneficiaries, in the absence of a tracer survey, the incremental benefits of the project are estimated using the NRVA survey as a secondary source. These benefits are discounted by the income that graduates of grade XIV could have earned on the market during the two years of their studies. Given the high market relevance of the technical skills acquired by voucher beneficiaries, it is assumed that voucher graduates have a 90 percent employment rate for the first year after graduation and a full employment rate after that.
 
 31
 
@@ -1367,7 +1425,7 @@ Marginalized workers
 
 10. Under the above-described base case scenario, the project yields an IRR of 22 percent and a NPV of US$20.8 million. Under the more positive assumption of an earnings' increase of seven percent, the project would yield an IRR of 23 percent. Similarly, under the assumption of a three percent increase in earnings, the IRR would be equal to 21 percent. Overall, the results indicate that ASDP was a project worth investing since the IRR is substantially larger than the cost of capital (10 percent).
 
-Earnings increased by 3% per year (Low Case) | Earnings increased by 5% per year (Base Case) | Earnings increased by 7% per year (High Case)
+ | Earnings increased by 3% per year (Low Case) | Earnings increased by 5% per year (Base Case) | Earnings increased by 7% per year (High Case)
 --- | --- | --- | ---
 Internal rate of return, IRR (%) | 21 | 22 | 23
 Net present value, NPV (US$ million) | 20.2 | 20.8 | 21.6
@@ -1512,21 +1570,21 @@ Not applicable.
 
 [[START OF PAGE 54]]
 
+## Annex 7: Summary of Borrower’s ICR
+
 ### A. Project Description
 
-- The  Afghanistan  Skills  Development  Project  (ASDP)  is  funded  to  GoA  by  the  World  Bank through  IDA  and  ARTF.  The  said  project  was  aimed  to  establish  a  high  quality,  equitable,  marketresponsive and cost-effective technical and vocational education and training system in order to increase the  number  of  immediately  employable  Afghan  graduates.  The  ASDP  is  a  multi-functional  project managed through four components, and executed by different government agencies i.e. CESP chaired by the Vice President; Deputy Ministry of TVET at the Ministry of Education and NSDP at the MoLSAMD. The DMTVET implements Component 2 of the ASDP project, which is comprised of: (a) establishment of the NIMA; (b) institution-based reform packages; and (c) management reforms in DMTVET. NIMA aims  to  be  a  model  TVET  institute  for  management  and  administration,  accounting,  and  information technology.
+1. The Afghanistan Skills Development Project (ASDP) is funded to GoA by the World Bank through IDA and ARTF. The said project was aimed to establish a high quality, equitable, market-responsive and cost-effective technical and vocational education and training system in order to increase the number of immediately employable Afghan graduates. The ASDP is a multi-functional project managed through four components, and executed by different government agencies i.e. CESP chaired by the Vice President; Deputy Ministry of TVET at the Ministry of Education and NSDP at the MoLSAMD. The DMTVET implements Component 2 of the ASDP project, which is comprised of: (a) establishment of the NIMA; (b) institution-based reform packages; and (c) management reforms in DMTVET. NIMA aims to be a model TVET institute for management and administration, accounting, and information technology.
 
-- The  ASDP  has  been  implemented  by  Skills  Team  Unit  operating  under  the  leadership  of DMTVET, Ministry of Education. They have been profoundly supported by DMTVET to work smoothly with target TVET institutes and other partners such as CESP and MoLSAMD.
+2. The ASDP has been implemented by Skills Team Unit operating under the leadership of DMTVET, Ministry of Education. They have been profoundly supported by DMTVET to work smoothly with target TVET institutes and other partners such as CESP and MoLSAMD.
 
-- The  project  development  objective  (PDO)  of  the  project  was  to  increase  the  number  of immediately-employable  graduates  by  building,  in  stages,  a  high  quality  Technical  Vocation  and Education Training (TVET) system that is equitable, market responsive, and cost-effective. This above project  development objective was intended to be achieved through the project components described: Component 1: Develop Regulatory and Quality Assurance Framework for TVET which will create the necessary institutional conditions for a quality TVET system that is demand driven and oriented towards labor  market  needs;  Component  2:  Improve  Relevance,  Quality  and  Efficiency  of  TVET  which  will improve the relevance, quality and efficiency of TVET programs, and to increase the number of graduates from these programs, through the establishment of a new institute, and by undertaking rehabilitation and reforms  of  a  select  number  of  other  institutions.  Initially,  training  programs  will  be  contracted  out  to experienced, national and international training institutions through partnership arrangements; Component 3: Skills Development Program and Market Linkages with a Rural Focus which aims to support a slice of the on-going activities by the NSDP, and build the capacity within National Skill Development Program and MOLSAMD to undertake reforms in technical and vocational training, labor market assessments, and to  strengthen  industrial  and  market  linkages;  and  Component  4:  Research,  Monitoring  &  Evaluation which will provide routine, timely, and accurate information on program implementation and allow for the measurement of longer term impacts and independent research.
+3. The project development objective (PDO) of the project was to increase the number of immediately-employable graduates by building, in stages, a high quality Technical Vocation and Education Training (TVET) system that is equitable, market responsive, and cost-effective. This above project development objective was intended to be achieved through the project components described: Component 1: Develop Regulatory and Quality Assurance Framework for TVET which will create the necessary institutional conditions for a quality TVET system that is demand driven and oriented towards labor market needs; Component 2: Improve Relevance, Quality and Efficiency of TVET which will improve the relevance, quality and efficiency of TVET programs, and to increase the number of graduates from these programs, through the establishment of a new institute, and by undertaking rehabilitation and reforms of a select number of other institutions. Initially, training programs will be contracted out to experienced, national and international training institutions through partnership arrangements; Component 3: Skills Development Program and Market Linkages with a Rural Focus which aims to support a slice of the on-going activities by the NSDP, and build the capacity within National Skill Development Program and MOLSAMD to undertake reforms in technical and vocational training, labor market assessments, and to strengthen industrial and market linkages; and Component 4: Research, Monitoring & Evaluation which will provide routine, timely, and accurate information on program implementation and allow for the measurement of longer term impacts and independent research.
 
 ### B. Key Achievements
 
 #### Component 1: Develop Regulatory and Quality Assurance Framework for TVET
 
-- The CESP board has been established and several productive meetings have been held of which recently  a  meeting  chaired  by  the  First  Vice  President  of  Afghanistan  took  place,  as  a  result  of presentation given by CESP Secretariat, the ANQF was approved, while a very strong political support and  willingness  has  been  gained  for  the  approval  of  TVET  Legislative  framework.  The  five  member ministries that are MoE, MoHE, MoLSAMD, MoF and MoEc agreed to work jointly under the umbrella of CESP for the establishment of TVET and other awarding boards. As per the meeting decision, shortly TVET  legislative  document  for  the  ANQF  formalization  and  TVET  board  establishment  would  be processed through issuance of a letter by H.E First Vice President of Afghanistan in order to submit it
-
-## Annex 7: Summary of Borrower's ICR
+4. The CESP board has been established and several productive meetings have been held of which recently a meeting chaired by the First Vice President of Afghanistan took place, as a result of presentation given by CESP Secretariat, the ANQF was approved, while a very strong political support and willingness has been gained for the approval of TVET Legislative framework. The five member ministries that are MoE, MoHE, MoLSAMD, MoF and MoEc agreed to work jointly under the umbrella of CESP for the establishment of TVET and other awarding boards. As per the meeting decision, shortly TVET legislative document for the ANQF formalization and TVET board establishment would be processed through issuance of a letter by H.E First Vice President of Afghanistan in order to submit it
 
 38
 
@@ -1536,21 +1594,21 @@ Not applicable.
 
 directly for cabinet approval skipping the lengthy processing of TAQNIN department in the Ministry of Justice.
 
-- The  establishment  of  NVETB  has  been  transferred  to  ASDP-II  which  is  supposed  to  be recognized as an independent budget entity as decided by CESP. The approval of legislative document for ANQF formalization will pave the way to accelerate the establishment of NVETB. Since, the NVETB is mandated to institutionalize and implement the ANQF throughout the entire TVET institutions across the country. It will be the first of education awarding boards which is placed to be established. Following the establishment  of  NVETB,  the  other  four  awarding  boards  that  are  higher  education,  intermediate education, literacy and religious education would be established.
+5. The establishment of NVETB has been transferred to ASDP-II which is supposed to be recognized as an independent budget entity as decided by CESP. The approval of legislative document for ANQF formalization will pave the way to accelerate the establishment of NVETB. Since, the NVETB is mandated to institutionalize and implement the ANQF throughout the entire TVET institutions across the country. It will be the first of education awarding boards which is placed to be established. Following the establishment of NVETB, the other four awarding boards that are higher education, intermediate education, literacy and religious education would be established.
 
-- The priority  has  been  given  to  the  establishment  of  NVETB  due  to  ASDP  efforts  for  gaining political  support  in  CESP.  As  per  the  CESP  decision  NVETB  will  be  established  prior  to  ANQA. However,  the  ANQF  covers  the  entire  five  Awarding  Boards.  Similarly,  the  ANQA  which  will  be established shortly after initiating work on the NVETB which would work as a steering committee for the entire  Awarding Boards. Thus, by ANQF and establishment of ANQA the fundamental documentation and  institutional  structure  would  be  already  completed  for  other  four  awarding  boards,  so  it  will  take comparatively  less  effort  and  time  to  be  established.  According  to  the  financial  sustainability  strategy projected by CESP, the NVETB will achieve financial self-reliance within a time period of 10 years.
+6. The priority has been given to the establishment of NVETB due to ASDP efforts for gaining political support in CESP. As per the CESP decision NVETB will be established prior to ANQA. However, the ANQF covers the entire five Awarding Boards. Similarly, the ANQA which will be established shortly after initiating work on the NVETB which would work as a steering committee for the entire Awarding Boards. Thus, by ANQF and establishment of ANQA the fundamental documentation and institutional structure would be already completed for other four awarding boards, so it will take comparatively less effort and time to be established. According to the financial sustainability strategy projected by CESP, the NVETB will achieve financial self-reliance within a time period of 10 years.
 
-- Meanwhile, the secretariat of TVET affairs has been transferred to CESP in order to become an independent entity. Till the establishment of NVETB and ANQA, the CESP secretariat will function as the interim entity to pilot the ANQF. Eventually, the lessons learned would be incorporated into ANQF for enhancing its effectiveness.
+7. Meanwhile, the secretariat of TVET affairs has been transferred to CESP in order to become an independent entity. Till the establishment of NVETB and ANQA, the CESP secretariat will function as the interim entity to pilot the ANQF. Eventually, the lessons learned would be incorporated into ANQF for enhancing its effectiveness.
 
-#### Component#2:  Improve Relevance, Quality and Efficiency of TVET
+#### Component#2: Improve Relevance, Quality and Efficiency of TVET
 
-##### Sub-component 2.1: National Institute of Management and Administration (NIMA )
+##### Sub-component 2.1: National Institute of Management and Administration (NIMA)
 
-- NIMA was founded in  2008  through  ASDP  support  which  is  currently  the  most  professional TVET  institute  for  Management  Studies.  It  has  been  continuously  supported  in  terms  of  academic development, civil works, staffing, international certification and employment oriented modern education. It is a two-year (Grade-14) diploma offering-institution, designed to offer students a quick pathway to the job market. Due to highly qualified faculty and comparatively short course duration, it has become the first  choice  of  students  interested  in  Management,  Accounting  and  ICT-the  disciplines the institution offers. With high quality courses taught in English, its graduates carry proper market-driven skills and knowledge  that  increase  their  capability  to  secure  desired  positions  in  the  tough  market  competition particularly for fresh graduates and leave them in a stronger position relative to other graduates from other disciplines.
+8. NIMA was founded in 2008 through ASDP support which is currently the most professional TVET institute for Management Studies. It has been continuously supported in terms of academic development, civil works, staffing, international certification and employment oriented modern education. It is a two-year (Grade-14) diploma offering-institution, designed to offer students a quick pathway to the job market. Due to highly qualified faculty and comparatively short course duration, it has become the first choice of students interested in Management, Accounting and ICT—the disciplines the institution offers. With high quality courses taught in English, its graduates carry proper market-driven skills and knowledge that increase their capability to secure desired positions in the tough market competition particularly for fresh graduates and leave them in a stronger position relative to other graduates from other disciplines.
 
-- In total, 1,714 students have graduated from NIMA in two batches. The graduates include 84% males and 14% females. The students graduated from the fields of Accounting, Management and ICT. Besides this, the number of students currently enrolled on courses reaches 729, with 233 to 496 female to male proportions. The next batch will graduate in October 2014, with around 193 graduates.
+9. In total, 1,714 students have graduated from NIMA in two batches. The graduates include 84% males and 14% females. The students graduated from the fields of Accounting, Management and ICT. Besides this, the number of students currently enrolled on courses reaches 729, with 233 to 496 female to male proportions. The next batch will graduate in October 2014, with around 193 graduates.
 
-- In the recent tracer study of NIMA 1 st batch graduates conducted in May 2014, 950 students were reached  out  of  1,460  students  who  graduated  in  2011.  The  tracer  study  shows  that  712  out  of  950 graduates are currently employed by different organizations. The employed graduates are 124 females and 588 males. The students employed from management faculty are 288 which include 144 males and 14 females  of  which  33%  are  working  in  private  sectors,  12%  in  international  organizations,  35%  in
+10. In the recent tracer study of NIMA 1st batch graduates conducted in May 2014, 950 students were reached out of 1,460 students who graduated in 2011. The tracer study shows that 712 out of 950 graduates are currently employed by different organizations. The employed graduates are 124 females and 588 males. The students employed from management faculty are 288 which include 144 males and 14 females of which 33% are working in private sectors, 12% in international organizations, 35% in
 
 39
 
@@ -1590,9 +1648,9 @@ The project had been strongly committed to fulfill the entire infrastructure, ca
 
 18. Similarly,  separate  joint  bank  accounts  have  been  opened  for  NIMA,  ANIM  and  AIT,  while under  process  for  the  other  aided  institutes.  The  operational  budget  is  transferred  to  institutes  bank account which is directly processed by institutes for operational expenditures. The money is withdrawn upon the approval of ASDP Institutes Coordinator along with administrative personnel authorized by GC. Eventually, the invoices of made expenditures are submitted to ASDP office for clearance and record.
 
-19. Five years Business Plan has been formulated for NIMA, ANIM, AIT, Blind School and AutoMechanical  Institute.  It  is  aimed  to  direct  institutes  to  channelize  their  budget  expenditure  in  specific priority areas which includes bringing institutional reform, institutionalize market driven skills, increase number  of  enrollment  and  women  participation,  improve  learning  equipment/workshops,  achieve institutional autonomy and financial sustainability. In addition, Business Plan has been almost developed for 15 other TVET Schools/Institutes awarded with Recognition Grant under ASDP II.
+19. Five years Business Plan has been formulated for NIMA, ANIM, AIT, Blind School and Auto-Mechanical Institute. It is aimed to direct institutes to channelize their budget expenditure in specific priority areas which includes bringing institutional reform, institutionalize market driven skills, increase number of enrollment and women participation, improve learning equipment/workshops, achieve institutional autonomy and financial sustainability. In addition, Business Plan has been almost developed for 15 other TVET Schools/Institutes awarded with Recognition Grant under ASDP II.
 
-20. ANIM was founded in 2008. Currently, there are 191 students enrolled at ANIM including 55 females  and  136  male  students.  More  than  50%  of  them  are  from  financially  weak  background.    The school was not properly equipped and structured according to the modern music needs. It was lacking essential music instruments and infrastructure capacity. The extended support of ASDP enabled ANIM to upgrade  ANIM  from  school  to  institute  level  and  institutionalize  both  eastern  and  western  music education  in  a  modern  way.  The  project  has  provided  the  institute  with  workshop  for  repairing  music instruments, music library, sound recording studio, multi-media room, computer lab, instrument storage, rehearsal  spaces  for  large  ensembles,  sound-proofed  practice  rooms,  rehearsal  building  boasting  20 practice  rooms,  community center and a residence hall for 200 girls, high speed internet and Distance Learning  Center  for  virtual  meetings  with  its  partners  including  the  Espoo  Music  Institute  and  longdistance  lessons  with  music  instructors.  Supported  through  ASDP  II,  construction  work  of  a  300-seat Concert Hall (auditorium)  and an Orphan hostel is underway. ANIM has been provided with required human  resources,  11  personnel  including  Coordinator,  Admin  Assistant,  Program  Assistant  and  8 Faculties have been recruited for ANIM.
+20. ANIM was founded in 2008. Currently, there are 191 students enrolled at ANIM including 55 females and 136 male students. More than 50% of them are from financially weak background. The school was not properly equipped and structured according to the modern music needs. It was lacking essential music instruments and infrastructure capacity. The extended support of ASDP enabled ANIM to upgrade ANIM from school to institute level and institutionalize both eastern and western music education in a modern way. The project has provided the institute with workshop for repairing music instruments, music library, sound recording studio, multi-media room, computer lab, instrument storage, rehearsal spaces for large ensembles, sound-proofed practice rooms, rehearsal building boasting 20 practice rooms, community center and a residence hall for 200 girls, high speed internet and Distance Learning Center for virtual meetings with its partners including the Espoo Music Institute and long-distance lessons with music instructors. Supported through ASDP II, construction work of a 300-seat Concert Hall (auditorium) and an Orphan hostel is underway. ANIM has been provided with required human resources, 11 personnel including Coordinator, Admin Assistant, Program Assistant and 8 Faculties have been recruited for ANIM.
 
 21. Through its partnership with a local orphanage ANIM has enrolled students from a wide range of provinces including Nuristan, Bamyan, Farah, Kunar, Faryab, and Jalalabad.  Students are taught in 17 specialized  fields  including  Jazz  instruments,  Aoba,  Piano,  Trompt,  Chillo,  Dilruba,  Rubab,  Recorder, Saxphone, Sitar, Sarod, Ghichak, Flot, Klarent, Korno, Guitar and Violin.
 
@@ -1610,7 +1668,7 @@ Similarly  AIT,  Blind  School,  Auto-Mechanics  and  CTI  have  been  profoundl
 
 ##### Sub-component 2.3:  Management Reforms in DMTVET
 
-23. In  line  of  structural  reform,  the  TVET  Directorate  got  promoted  to  Deputy  Ministry  TVET. Initially,  it  was  composed  of  four  directorates.  A  firm  was  hired  to  assess  both  departmental  and personnel structures. Based on the recommended reforms, the six new directorates were institutionalized including  Donor  Coordination  &  Relations,  Policy  and  Program  Design,  Curriculum,  School  Affairs, Teacher Training, National Center for Educational & Vocational Research, Hostels Affairs, M&E, Nonformal TVET, and Market Analysis. Similarly the number of DMTVET staff has been expanded from 150 to around 600 personnel.
+23. In line of structural reform, the TVET Directorate got promoted to Deputy Ministry TVET. Initially, it was composed of four directorates. A firm was hired to assess both departmental and personnel structures. Based on the recommended reforms, the six new directorates were institutionalized including Donor Coordination & Relations, Policy and Program Design, Curriculum, School Affairs, Teacher Training, National Center for Educational & Vocational Research, Hostels Affairs, M&E, Non-formal TVET, and Market Analysis. Similarly the number of DMTVET staff has been expanded from 150 to around 600 personnel.
 
 24. The  draft  of  TVET  Plan  &  Strategy  is  almost  prepared  mapping  the  DMTVET  activity  and coordination  mechanism  for  five  years.  For  the  sake  of  comprehension  and  practicality,  it  has  been intended to conduct workshop sessions in six provinces to present the draft before stakeholders which will be contributing to its implementation. As a result of workshop sessions, the inputs and consultation of stakeholders will be collected in the specific areas. Subsequently, the draft will be reviewed to incorporate the valid inputs from provincial stakeholders. Meanwhile, the draft M&E framework for the TVET Plan & Strategy has been prepared by UNESCO. The ASDP Advisor for TVET Plan & Strategy has been a member  of  the  technical  committee  for  its  formulation;  therefore  he  has  been  attending  regular consultation  meetings.  An  international  consultant  will  be  hired  for  this  purpose  to  finalize  these documents  and  to  review  the  current  document  on  Strategic  Plan.  The  Terms  of  Reference  for  the international consultant have been developed and the position has been advertised. The final selection and negotiation is under process.
 
@@ -1628,21 +1686,21 @@ Similarly  AIT,  Blind  School,  Auto-Mechanics  and  CTI  have  been  profoundl
 
 27. The  project  targeted  poor  and  vulnerable  groups  of  people  to  educate  them  on  employable vocational  skills  in  18  provinces  across  the  country.  The  training  beneficiaries  are  selected  based  on poverty, unemployment, under-employment, interest and capability for the relevant vocational training. The priority is given to the provinces with high unemployment and under-employment rate. The process of registration took place for each group of beneficiaries to register interested applicants for the relevant vocational trainings. A selection committee was formed of representatives from provincial directorates of MoLSAMD, MoWA, DM of Youth Affairs and local leaders in order to screen the applicants and select the  most  eligible  individuals  considering  the  set  ceiling  for  number  of  training  beneficiaries.  The committee  was  also  engaged  in  community  mobilization  and  monitoring  of  the  training  delivery.  The following  group  of  people  has  been  benefited  from  market  oriented  skills  and  business  development trainings delivered in different provinces throughout the project:
 
-- 3150  chronically  women  trained  in  Ghazni,  Bamyan,  Jawzjan,  Badakhshan  and  Paktika provinces.
+a) 3150 chronically women trained in Ghazni, Bamyan, Jawzjan, Badakhshan and Paktika provinces.
 
-- 2500  marginalized  and  land  less  farmers  trained  in  Helmand,  Faryab,  Kundoz  and  Baghlan provinces.
+b) 2500 marginalized and land less farmers trained in Helmand, Faryab, Kundoz and Baghlan provinces.
 
-- 3526 youth trained in Khost, Zabul, Kandahar, Urozgan, Laghman, Kundoz, Ghor, Takhar and Paktya provinces.
+c) 3526 youth trained in Khost, Zabul, Kandahar, Urozgan, Laghman, Kundoz, Ghor, Takhar and Paktya provinces.
 
-- 200 rehabilitated IDUs in Kabul. Vocational training package for people with Disabilities (PwD) is delivered to 300 persons with disabilities.
+d) 200 rehabilitated IDUs in Kabul. Vocational training package for people with Disabilities (PwD) is delivered to 300 persons with disabilities.
 
-- ToT on Business Development Services to 1652 community mobilizers in 20 provinces.
+e) ToT on Business Development Services to 1652 community mobilizers in 20 provinces.
 
 28. The outcomes of vocational trainings is determined through random sampling tracer study of 25% of the total graduates considering all aspects i.e. location, trade, gender and training delivery approach. The tracer study was conducted by third party through a comprehensive questionnaire covering general and technical employment related information of vocational training graduates. The tracer study result shows that:  The tracer study conducted on vocational training graduates shows that:
 
-- 87.8%  of  3,150of  chronically  women  trained  in  Ghazni,  Bamyan,  Jawzjan,  Badakhshan  and Paktia provinces are employed with AFN 2,766 increase in their average monthly earnings.
+1. 87.8% of 3,150of chronically women trained in Ghazni, Bamyan, Jawzjan, Badakhshan and Paktia provinces are employed with AFN 2,766 increase in their average monthly earnings.
 
-- 100%  increases  in  seasonal  income  of  2500  marginalized  and  land  less  farmers  trained  in Helmand, Faryab, Kundoz and Baghlan provinces with a 4,704 increase in their average monthly earnings.
+2. 100% increases in seasonal income of 2500 marginalized and land less farmers trained in Helmand, Faryab, Kundoz and Baghlan provinces with a 4,704 increase in their average monthly earnings.
 
 43
 
@@ -1650,11 +1708,11 @@ Similarly  AIT,  Blind  School,  Auto-Mechanics  and  CTI  have  been  profoundl
 
 [[START OF PAGE 60]]
 
-- 70%  of  3526  youth  trained  in  Khost,  Zabul,  Kandahar,  Urozgan,  Laghman,  Kundoz,  Ghor, Takhar and Paktya are employed with a 7,477 increase in their average monthly earnings.
+3. 70% of 3526 youth trained in Khost, Zabul, Kandahar, Urozgan, Laghman, Kundoz, Ghor, Takhar and Paktya are employed with a 7,477 increase in their average monthly earnings.
 
 #### Component 4: Research, Monitoring & Evaluation
 
-29. The  ASDP  progress  has  been  regularly  monitored  and  evaluated  to  support  decision  making process. The M&E is conducted both internally and through third party. The periodical, special and needbased reports such as RF, Report Card, Progress Report, IP Review Report, Tracer Study Report, Success Stories and Training Reports have been produced to reflect the program achievements.
+29. The ASDP progress has been regularly monitored and evaluated to support decision making process. The M&E is conducted both internally and through third party. The periodical, special and need-based reports such as RF, Report Card, Progress Report, IP Review Report, Tracer Study Report, Success Stories and Training Reports have been produced to reflect the program achievements.
 
 30. The  tracer  study  of  NIMA  first  and  second  batch  as  well  AIT  graduates  has  been  conducted through  designed  questionnaire  and  the  reports  are  produced.  In  this  way,  the  status  of  graduates  was tracked in terms of employment status, nature of employment/employer and higher education progress etc. The tracer study of previous and upcoming graduates will be performed periodically after every six month or annually. The progress of aided institutes' on Governing Councils, Business Plan development and  obtaining  institutional  autonomy  has  been  also  monitored  and  supervised  on  continuous  basis. Similarly, the tracer study on income generation status of informal vocational training graduates including vulnerable women, youth, disables, marginalized farmers and ToT on Business Development Services to Community  Mobilizers  and  rehabilitated  IDUs  was  conducted  through  third  party.  The  tracer  study covered 25% of the beneficiaries in Ghazni, Bamyan, Jawzjan, Badakhshan, Paktia, Helmand, Faryab, Kundoz, Baghlan, Khost, Zabul, Kandahar and Urozgan provinces.
 
@@ -1664,11 +1722,11 @@ Similarly  AIT,  Blind  School,  Auto-Mechanics  and  CTI  have  been  profoundl
 
 ### C. Challenges:
 
-- The project and NIMA faced several problems with NIMA Ex-IP (Maxwell Stamp) performance and responsiveness due to repetition of examinations several times, students' complaints about the  IP's  behavior,  late  distribution  of  chapters,  incomplete  curriculum,  inadequate  number  of teachers, lack of Internet connection, library and computers, lack of coordination between the IP and Client, limited action has been taken by IP for building administrative capacity of NIMA.
+1. The project and NIMA faced several problems with NIMA Ex-IP (Maxwell Stamp) performance and responsiveness due to repetition of examinations several times, students’ complaints about the IP’s behavior, late distribution of chapters, incomplete curriculum, inadequate number of teachers, lack of Internet connection, library and computers, lack of coordination between the IP and Client, limited action has been taken by IP for building administrative capacity of NIMA.
 
-- Voucher program was initiative of ASDP project; the process was very new to DMTVET and control  department  of  Ministry  of  Finance.  Therefore,  project  faced  lots  of  problems  due  to conflict with DMTVET policy and scope of Ministry of Higher Education.
+2. Voucher program was initiative of ASDP project; the process was very new to DMTVET and control department of Ministry of Finance. Therefore, project faced lots of problems due to conflict with DMTVET policy and scope of Ministry of Higher Education.
 
-- CESP secretariat was not very independent due to its existence at the MoLSAMD, because it was influenced by one of Ministry while the MoE and MoHE was not taking interest to work under the CESP umbrella.
+3. CESP secretariat was not very independent due to its existence at the MoLSAMD, because it was influenced by one of Ministry while the MoE and MoHE was not taking interest to work under the CESP umbrella.
 
 44
 
@@ -1676,45 +1734,45 @@ Similarly  AIT,  Blind  School,  Auto-Mechanics  and  CTI  have  been  profoundl
 
 [[START OF PAGE 61]]
 
-- Coordinators  for  some  supported  institutes  were  not  considered  at  the  start  of  project  which caused difficulty in effective utilization of investment.
+4. Coordinators for some supported institutes were not considered at the start of project which caused difficulty in effective utilization of investment.
 
-- Government centralized, bureaucratic system and lengthy procurement process had affected the operational autonomy of ASDP supported institutes.
+5. Government centralized, bureaucratic system and lengthy procurement process had affected the operational autonomy of ASDP supported institutes.
 
-- Problematic  and  workload  on  procurement,  HR  and  finance  team  due  to  other  project's  work assigned by DMTVET.
+6. Problematic and workload on procurement, HR and finance team due to other project’s work assigned by DMTVET.
 
-- The procurement process was slow and unprofessional due to assigned, and recommendation of, unqualified members in procurement committees (Purchasing and Evaluation) by Govt.
+7. The procurement process was slow and unprofessional due to assigned, and recommendation of, unqualified members in procurement committees (Purchasing and Evaluation) by Govt.
 
-- Lack of proper financial management information system caused difficulty in systematic record of expenditure threshold according to the MoF budget coding system.
+8. Lack of proper financial management information system caused difficulty in systematic record of expenditure threshold according to the MoF budget coding system.
 
-- Lack of proper space for project departments caused inadequate space for hard documentation and placement of required staff.
+9. Lack of proper space for project departments caused inadequate space for hard documentation and placement of required staff.
 
-- Lack of standard construction  companies  and  construction  materials  caused  slow  progress  and low quality of civil works.
+10. Lack of standard construction companies and construction materials caused slow progress and low quality of civil works.
 
-- Unprofessional intervention of government officials in construction works caused disruption in the intended sketch.
+11. Unprofessional intervention of government officials in construction works caused disruption in the intended sketch.
 
-- Slow  procurement  process  due  to  lack  of  coordination  between  project  and  government procurement staff caused delay in awarding and implementation of construction projects.
+12. Slow procurement process due to lack of coordination between project and government procurement staff caused delay in awarding and implementation of construction projects.
 
-- Lack of sufficient vehicles caused delay in routine tasks of departments and supported institutes such as meetings, procurement, payment processing and activity monitoring etc.
+13. Lack of sufficient vehicles caused delay in routine tasks of departments and supported institutes such as meetings, procurement, payment processing and activity monitoring etc.
 
 ### D. Lessons Learnt:
 
-- Implementing Partners should be closely monitored against contractual obligations. Compromise and flexibility makes the partners feel irresponsible against the expected outputs. It was clearly found  that  even  well-reputed  partners  feel  relax  while  working  in  Afghanistan  believing  that international  standards  is  not  supposed  to  be  met  perfectly  due  to  challenging  situation.  The contract payment should be based on deliverable or milestone bases rather than advance which can result into weak responsiveness.
+1. Implementing Partners should be closely monitored against contractual obligations. Compromise and flexibility makes the partners feel irresponsible against the expected outputs. It was clearly found that even well-reputed partners feel relax while working in Afghanistan believing that international standards is not supposed to be met perfectly due to challenging situation. The contract payment should be based on deliverable or milestone bases rather than advance which can result into weak responsiveness.
 
-- The DMTVET leadership and Ministry of Finance responsible staff is clearly briefed on the scope and purpose of voucher program to ease the process of payment. Eventually the voucher program is running smoothly.
+2. The DMTVET leadership and Ministry of Finance responsible staff is clearly briefed on the scope and purpose of voucher program to ease the process of payment. Eventually the voucher program is running smoothly.
 
-- CESP  secretariat  has  been  transferred  to  the  office  of  First  Vice  President  to  make  it  an independent entity for working towards qualification system for education awarding boards.
+3. CESP secretariat has been transferred to the office of First Vice President to make it an independent entity for working towards qualification system for education awarding boards.
 
-- Coordinators should be hired for each supported institute to increase effectiveness of investment and efficient utilization of provided resources.
+4. Coordinators should be hired for each supported institute to increase effectiveness of investment and efficient utilization of provided resources.
 
-- DMTVET was  convinced  on  rapid  capacity  building  of  ASDP  supported  institutes  as  model TVET institutions by providing operation autonomy. For doing so, separate bank accounts are opened for NIMA, ANIM and AIT to achieve the operational autonomy and skip government bureaucratic system.
+5. DMTVET was convinced on rapid capacity building of ASDP supported institutes as model TVET institutions by providing operation autonomy. For doing so, separate bank accounts are opened for NIMA, ANIM and AIT to achieve the operational autonomy and skip government bureaucratic system.
 
-- Additional  staff  should  be  recruited  for  procurement  and  finance  departments  to  speed  up  the process and cope with other projects work assigned by DMTVET.
+6. Additional staff should be recruited for procurement and finance departments to speed up the process and cope with other projects work assigned by DMTVET.
 
-- The DMTVET is should introduce qualified persons to participate in procurement committees to enhance efficiency of procurement process.
+7. The DMTVET is should introduce qualified persons to participate in procurement committees to enhance efficiency of procurement process.
 
-- Systematic  Financial  Management  Software  (FMIS)  is  required  to  record  allocation  and disbursement of fund according to the MoF budget coding system.
+8. Systematic Financial Management Software (FMIS) is required to record allocation and disbursement of fund according to the MoF budget coding system.
 
-- Building of second floor over ASDP building would resolve the office space problem up to some extent. Enough and noiseless space for office improve work efficiency.
+9. Building of second floor over ASDP building would resolve the office space problem up to some extent. Enough and noiseless space for office improve work efficiency.
 
 45
 
@@ -1722,13 +1780,13 @@ Similarly  AIT,  Blind  School,  Auto-Mechanics  and  CTI  have  been  profoundl
 
 [[START OF PAGE 62]]
 
-- Evaluation of contractor's capacity, investigation of contractor's past performance and mentioning  of  quality  standards  for  imported  construction  materials  in  contract  is  required  to ensure efficiency and quality of civil works.
+10. Evaluation of contractor’s capacity, investigation of contractor’s past performance and mentioning of quality standards for imported construction materials in contract is required to ensure efficiency and quality of civil works.
 
-- Agreement  of  high  level  officials  should  be  obtained  to  restrict  non-technical  government officials from intervention in civil works in order to complete the construction projects according to the planned design and features.
+11. Agreement of high level officials should be obtained to restrict non-technical government officials from intervention in civil works in order to complete the construction projects according to the planned design and features.
 
-- Considerable review of procurement process is the most important element required to speed-up awarding of construction and other projects.
+12. Considerable review of procurement process is the most important element required to speed-up awarding of construction and other projects.
 
-- Availability  of  sufficient  vehicles  is  very  essential  to  avoid  delay  and  difficulty  in  routine activities of the project, since vehicle shortage can cause postponement or even cancellation of urgent tasks.
+13. Availability of sufficient vehicles is very essential to avoid delay and difficulty in routine activities of the project, since vehicle shortage can cause postponement or even cancellation of urgent tasks.
 
 ____________________________________________________________________________________
 
@@ -1740,19 +1798,19 @@ I went through the ICR document. There are few minor things such as No. of gradu
 
 Actually, the overall rating is affected by the following three things:
 
-- Original indicators and targets has caused the whole problem. It was set unrealistic with a very rough estimation. The RF that we have been working upon was the revised one. Our achievement according to the  revised  RF  comes  "Satisfactory".  However,  our  achievements  against  the  original  one  that  was designed at the beginning is "Moderately Unsatisfactory".  Thus, the average rating is MS.
+1. Original indicators and targets has caused the whole problem. It was set unrealistic with a very rough estimation. The RF that we have been working upon was the revised one. Our achievement according to the revised RF comes “Satisfactory”. However, our achievements against the original one that was designed at the beginning is “Moderately Unsatisfactory”. Thus, the average rating is MS.
 
-- Secondly, the delay in establishment of ANQA and approval of legislative framework due to slow progress by CESP and legal objections by MoJ has hugely affected the rating. Still it is a political issue rather than technical.
+2. Secondly, the delay in establishment of ANQA and approval of legislative framework due to slow progress by CESP and legal objections by MoJ has hugely affected the rating. Still it is a political issue rather than technical.
 
-- Not issuing the financial autonomy to aided institutes which means no involvement of DMTVET in its process has also greatly affect the rating. In my view, it might be in conflict with MoF and DMTVET rules and procedures, therefore it is not related to the project.
+3. Not issuing the financial autonomy to aided institutes which means no involvement of DMTVET in its process has also greatly affect the rating. In my view, it might be in conflict with MoF and DMTVET rules and procedures, therefore it is not related to the project.
 
 To sum up, looking to the original indicators and targets, the ICR rating is valid. However, looking to the revised indicators and targets both mentioned points# 2&3 are political issues. However, still there is no justifiable comments if we stick to the results based rating approach which means if something is planned and not achieved; it is not achieved and carries low rating regardless of justifications.
 
 #### II. From the Ministry of Labor and Social Affairs, Martyrs and Disabled (MoLSAMD)
 
-- The  pre-restructuring  target  for  outcome  2  was  7,500,  whereas,  after  restructuring  the  target reached to 9,600, so the original target was not 15,000 as it is mentioned the report above.
+1. The pre-restructuring target for outcome 2 was 7,500, whereas, after restructuring the target reached to 9,600, so the original target was not 15,000 as it is mentioned the report above.
 
-- The number of people with disability who received skills training is 300 not 228. (Of the 300 persons, 120 were female and 180 were male).
+2. The number of people with disability who received skills training is 300 not 228. (Of the 300 persons, 120 were female and 180 were male).
 
 46
 
@@ -1760,11 +1818,11 @@ To sum up, looking to the original indicators and targets, the ICR rating is val
 
 [[START OF PAGE 63]]
 
-- The below 3 studies conducted by NSDP have not reflected under key output of component 4.2, i.e.  (i) A third party tracer study conducted for non-formal vocational training graduates, (ii) A report  published  on  Baseline  Data  of  Quality  of  TVET  provision  in  Afghanistan,  and  (iii)  A report published on labor market supply and demand in media, tourism and hospitality sectors.
+3. The below 3 studies conducted by NSDP have not reflected under key output of component 4.2, i.e. (i) A third party tracer study conducted for non-formal vocational training graduates, (ii) A report published on Baseline Data of Quality of TVET provision in Afghanistan, and (iii) A report published on labor market supply and demand in media, tourism and hospitality sectors.
 
-- In  Section  1.6  of  the  ICR,  sentence  'The  training  of  trainers  in  productive  skills  was  dropped because it was being undertaken by another development partner' should be replaced by 'The materials/manuals development  for productive skills was  dropped because it was  being undertaken by another development partner.'
+4. In Section 1.6 of the ICR, sentence “The training of trainers in productive skills was dropped because it was being undertaken by another development partner” should be replaced by “The materials/manuals development for productive skills was dropped because it was being undertaken by another development partner.”
 
-- Revise the Borrower's ICR, paragraph 27(d) to state that 300 persons with disability were trained (in place of 228 persons), and paragraph 27(e) to add 'in 20 provinces' at the end of the sentence.
+5. Revise the Borrower’s ICR, paragraph 27(d) to state that 300 persons with disability were trained (in place of 228 persons), and paragraph 27(e) to add “in 20 provinces” at the end of the sentence.
 
 ______________________________________________________________________________
 
@@ -1808,55 +1866,53 @@ Not applicable.
 
 ### A. Intermediate Outcome Indicators associated with the PDO at approval were the following:
 
-- Regulations and legislation for the formation of an independent Afghanistan National Qualification Authority (ANQA);
+(1) Regulations and legislation for the formation of an independent Afghanistan National Qualification Authority (ANQA);
 
-- Establish the ANQA through an Act of Parliament;
+(2) Establish the ANQA through an Act of Parliament;
 
-- The framework and the generic learning outcomes (knowledge, skills, and competences) associated with each level developed;
+(3) The framework and the generic learning outcomes (knowledge, skills, and competences) associated with each level developed;
 
-- Boards administer/tests, publish results, and award  certificates;
+(4) Boards administer/tests, publish results, and award certificates;
 
-- Number of graduates from the National Institute of Management and Administration (NIMA);
+(5) Number of graduates from the National Institute of Management and Administration (NIMA);
 
-- Number of Department of Technical and Vocational Education and Training (DTVET) institutions awarded reform package upon meeting reform conditions;
+(6) Number of Department of Technical and Vocational Education and Training (DTVET) institutions awarded reform package upon meeting reform conditions;
 
-- Percent of girls enrolled in post-basic programs under DTVET;
+(7) Percent of girls enrolled in post-basic programs under DTVET;
 
-- Average earnings of trainees self-employed or wage employed 9 months after completion of training compared to control groups (for contracted vocational training packages, Component 3);
+(8) Average earnings of trainees self-employed or wage employed 9 months after completion of training compared to control groups (for contracted vocational training packages, Component 3);
 
-- Number of BDS trainers trained;
+(9) Number of BDS trainers trained;
 
-- Number of PSOs trained;
+(10) Number of PSOs trained;
 
-- MIS in place and regularly updated; and
+(11) MIS in place and regularly updated; and
 
-- Follow-up surveys and evaluations undertaken in Year 3 and Year 5.
+(12) Follow-up surveys and evaluations undertaken in Year 3 and Year 5.
 
-### B. The Supplemental Letter to the Financing Agreement, dated March 10, 2008, listed six performance monitoring indicators ,
+### B. The Supplemental Letter to the Financing Agreement, dated March 10, 2008, listed six performance monitoring indicators,
 
 four of which were essentially the same as the outcome indicators listed in paragraph 7 of the ICR and two of which were listed as intermediate outcome indicators in the Results Framework (in Table 2.2, Annex 2, Technical Annex). The targets were consistent with those listed in Table 2.2 of Annex 2, Technical Annex, with the exception of the target for 'increase in the number of graduates from project-financed training programs under DTVET. This target was listed as 10,000 in the Supplemental Letter to the 2008 Financing Agreement and listed as 10,468 in the Technical Annex (Annex 2, Table 2.2). In keeping with evaluation guidelines, the target in the Supplemental Letter was used to assess the project's achievements against original outcome targets.
 
 ### C. The revised intermediate outcome indicators were follows ( see proposed Supplemental Letter (performance indicators), included in the restructuring package, that was submitted to the Country Director for approval on July 20, 2012 ):
 
-- The National Qualifications Framework developed and approval of the DMTVET plan;
+(1) The National Qualifications Framework developed and approval of the DMTVET plan;
 
-- Number of diplomas awarded by project funded institutes (NIMA). See Data Sheet in the ICR, Intermediate Outcome Indicator 2;
+(2) Number of diplomas awarded by project funded institutes (NIMA). See Data Sheet in the ICR, Intermediate Outcome Indicator 2;
 
-- Number of TVET institutes operating under the agreed governance framework;
+(3) Number of TVET institutes operating under the agreed governance framework;
 
-- Number of BDS trainers and PSO trained;
+(4) Number of BDS trainers and PSO trained;
 
-- MIS in place;
+(5) MIS in place;
 
-- Number of MIS reports produced;
+(6) Number of MIS reports produced;
 
-- Number of tracer studies of TVET graduates completed;
+(7) Number of tracer studies of TVET graduates completed;
 
-- The summary of the revised Results Framework in the project restructuring package also include one more indicator: Number of Project Staff and Officers trained in different functional areas (including
+(8) The summary of the revised Results Framework in the project restructuring package also include one more indicator: Number of Project Staff and Officers trained in different functional areas (including NSDP and DMTVET). The ICR team has also included this in the revised list; and
 
-NSDP and DMTVET). The ICR team has also included this in the revised list; and
-
-- The ICR team also added the following intermediate indicator in order to more fully assess the outcome of the project: Increase in the number of operational buildings and facilities for TVET.
+(9) The ICR team also added the following intermediate indicator in order to more fully assess the outcome of the project: Increase in the number of operational buildings and facilities for TVET.
 
 50
 
@@ -1866,16 +1922,16 @@ NSDP and DMTVET). The ICR team has also included this in the revised list; and
 
 ## Annex 10.  Achievement against Original Indicators and Targets
 
+Table 2:  Results Framework Analysis against Original Indicators and Targets
+
 Indicators (from Table 2.2 in Annex 2, Technical Annex) 16 | Baseline Value | Original Target Value (February 28, 2013) | Actual Value at Completion (June 2014) | Efficacy
 --- | --- | --- | --- | ---
 Outcome 1: Increased number of immediately-employable formal TVET graduates
 1. Increase in the number of graduates from project-financed institutions and training centers as compared to baseline of unreformed institutions (DMTVET). | 398 17 | 10,000 18 | 7,322 | Modest Achievement (73% of target) 19
 2. Labor market outcomes, measured by employment status are superior to the outcomes of comparable control groups. | No baseline | No target in the Technical Annex ISR #1 target: Superior to the outcomes of comparable control groups | 75% 20 | Substantial Achievement
-3. Percent of employers of trainees graduated from reformed institutions agree that employees have improved their productivity through training relative to baseline. | No baseline | No target in Technical Annex. ISR #1: Improved employees' productivity through training relative to a baseline | No data available | Cannot be assessed.
+3. Percent of employers of trainees graduated from reformed institutions agree that employees have improved their productivity through training relative to baseline. | No baseline | No target in Technical Annex. ISR #1: Improved employees’ productivity through training relative to a baseline | No data available | Cannot be assessed.
 4. Number of graduates from NIMA. | None 21 | 5,218 22 | 1,714 | Modest Achievement (33% of target)
 5. Number of | 0 | 5 | 5 | Modest Achievement.
-
-Table 2:  Results Framework Analysis against Original Indicators and Targets
 
 > 16 The Results Framework in Table 2.2 of Annex 2 in the Technical Annex provides a total of 16 indicators (4 PDO indicators and 12 intermediate outcome indicators). Two of the PDO indicators are used to assess both Outcome 1 and Outcome 2 and as such, they are listed twice in this table.
 
@@ -1889,7 +1945,7 @@ Table 2:  Results Framework Analysis against Original Indicators and Targets
 
 > 21 Based on the Supplemental Letter (Performance Indicators) in the Restructuring Package, submitted to the Country Director for approval on July 20, 2012.  NIMA was a new institute to be established under the project.
 
-> 22  Not clear from the Results Framework (see Table 2.2 in Annex 2, Technical Annex). This target is based on the ICR team's judgment and is derived from data in Table 2.2, page 26 of the Technical Annex. At appraisal, it was planned that NIMA would offer (a) one-year Certificate Programs, (b) two-year Diploma Programs, and (c) short-term courses for those who are unable to participate in longer-term programs due to work commitments.  In the end, based on student demand, NIMA offered only a twoyear diploma program. The target of graduating 5,218 was too high for this two- year Diploma program (paragraph 40, pages 3435, Annex 3, Technical Annex).
+> 22 Not clear from the Results Framework (see Table 2.2 in Annex 2, Technical Annex). This target is based on the ICR team’s judgment and is derived from data in Table 2.2, page 26 of the Technical Annex. At appraisal, it was planned that NIMA would offer (a) one-year Certificate Programs, (b) two-year Diploma Programs, and (c) short-term courses for those who are unable to participate in longer-term programs due to work commitments. In the end, based on student demand, NIMA offered only a two-year diploma program. The target of graduating 5,218 was too high for this two-year Diploma program (paragraph 40, pages 34-35, Annex 3, Technical Annex).
 
 51
 
@@ -1899,7 +1955,7 @@ Table 2:  Results Framework Analysis against Original Indicators and Targets
 
 Indicators (from Table 2.2 in Annex 2, Technical Annex) 16 | Baseline Value | Original Target Value (February 28, 2013) | Actual Value at Completion (June 2014) | Efficacy
 --- | --- | --- | --- | ---
-DMTVET institutions awarded reform package upon meeting reform conditions. | (Bank financing is likely to have started before TVET institutes (except ANIM) met reform conditions.)
+DMTVET institutions awarded reform package upon meeting reform conditions. |  |  |  | (Bank financing is likely to have started before TVET institutes (except ANIM) met reform conditions.)
 6. Percent of girls enrolled in post-basic programs under DMTVET. | 8% | 30% | 19% | Modest Achievement (However, 32% of students enrolled at NIMA are women )
 Outcome 2: Increased number of immediately-employable non-formal training beneficiaries
 7. Increase in the number of graduates from project-financed institutions and training centers as compared to baseline non-reformed institutions. (NSDP) | 2,435 | 15,000 | 9,676 | Modest Achievement (65% of target) 23
@@ -1917,12 +1973,12 @@ Outcome 2: Increased number of immediately-employable non-formal training benefi
 
 Indicators (from Table 2.2 in Annex 2, Technical Annex) 16 | Baseline Value | Original Target Value (February 28, 2013) | Actual Value at Completion (June 2014) | Efficacy
 --- | --- | --- | --- | ---
-determined on the basis of consultation with local communities and upon the determination of economic growth sectors.
+ |  | determined on the basis of consultation with local communities and upon the determination of economic growth sectors. |  | 
 11. Number of PSOs trained. | N/A | The training of PSOs is determined on the basis of consultation with local communities and upon the determination of economic growth sectors | No PSO's trained (PSO training was taken over by another donor during the project) | N/A
 Outcome 3: Improved institutional and regulatory framework for TVET
 12. New institutional framework for TVET is realized and functioning, including the establishment of the independent Afghanistan National Qualifications Authority (ANQA), independent training boards (e.g. National Technical and Vocational Education and Training Board) and the National Qualifications Framework (NQF). | N/A | ANQA and NQF have been established (in year 3) | ANQA and NQF are yet to be established. (Work has been completed for the establishment of ANQA and NQF and approved by CESP but is yet to be submitted for enactment of legislation. 24 ) 25 | Modest Achievement
-13. Regulations and legislation developed for the formation of an independent ANQA. | N/A | Regulations and legislation developed | Substantial Achievement
-14. Establish the ANQA through an act of Parliament. | Enact legislation and establish the ANQA | Legislation is yet to be submitted to Parliament for ratification. GoA is considering the possibility of having the CESP | Negligible Achievement
+13. Regulations and legislation developed for the formation of an independent ANQA. | N/A |  | Regulations and legislation developed | Substantial Achievement
+14. Establish the ANQA through an act of Parliament. |  | Enact legislation and establish the ANQA | Legislation is yet to be submitted to Parliament for ratification. GoA is considering the possibility of having the CESP | Negligible Achievement
 
 > 24 Until the legislation is submitted to Parliament for ratification, the Government is considering the possibility of allowing the CESP Secretariat to function as an interim entity to pilot the ANQA.
 
@@ -1936,16 +1992,16 @@ Outcome 3: Improved institutional and regulatory framework for TVET
 
 Indicators (from Table 2.2 in Annex 2, Technical Annex) 16 | Baseline Value | Original Target Value (February 28, 2013) | Actual Value at Completion (June 2014) | Efficacy
 --- | --- | --- | --- | ---
-Secretariat function as an interim entity to pilot the ANQA.
+ |  |  | Secretariat function as an interim entity to pilot the ANQA. | 
 15. The framework and generic learning outcomes (knowledge, skills and competencies) associated with each level developed. | N/A | NQF developed | NQF has been developed | Substantial Achievement
 16. Boards administer tests, publish results and award certificates. | N/A | Awarding Boards are operational | Boards are not yet established and operational | Negligible Achievement
 Outcome 4: Improved M&E and program management capacity
 17. MIS in place and regularly updated | No baseline | No Target | Project MIS is in place in both the NSDP and DMTVET. Twelve (12) reports have been produced which indicate progress in the development of the system. The MIS is being enhanced under ASDP II. | Substantial Achievement
 18. Follow-up surveys and evaluations undertaken in Year 3 and Year 5 | N/A | Evaluation | 11 tracer studies of training of vulnerable people (by NSDP) and 3 tracer studies of NIMA graduates (by DMTVET) have been undertaken. | Substantial Achievement
 
-1. The four project outcomes have been assessed according to both original and revised outcome indicators and targets separately for the entire duration of the project - not just the period for which each set of indicators and targets was in effect. The assessment of outcomes against the revised indicators and targets is presented in Section 3.2 of the ICR and in the data sheet (pages ii-vii) . A brief discussion of the assessment of outcomes against original outcome indicators and targets is given below .
+1. The four project outcomes have been assessed according to both original and revised outcome indicators and targets separately for the entire duration of the project – not just the period for which each set of indicators and targets was in effect. The assessment of outcomes against the revised indicators and targets is presented in Section 3.2 of the ICR and in the data sheet (pages ii-vii). A brief discussion of the assessment of outcomes against original outcome indicators and targets is given below.
 
-#### Outcome 1: Increased number of immediately-employable formal TVET graduates -Modest Achievement
+#### Outcome 1: Increased number of immediately-employable formal TVET graduates - Modest Achievement
 
 2. The total number of graduates from project-financed institutes increased by 7,322 (73% of the project's original target of 10,000). Though no data for comparable non-reformed institutes is available, the restructuring paper submitted for approval to the Country Director on July 20, 2012, stated that this would not have been a meaningful comparison because the size and capacity of each institute is unique.
 
@@ -1955,13 +2011,13 @@ Outcome 4: Improved M&E and program management capacity
 
 [[START OF PAGE 71]]
 
-The labor market outcomes were strong for NIMA graduates as indicated by their employment rates (75% of the first cohort of NIMA graduates secured employment within six months of graduation). Again, there is  no  control  group  data,  but  the  employment  rate  of  NIMA  graduates  confirms  the  immediateemployability  of  project  graduates.  Although  the  project  did  not  assess  labor  market  outcomes  for graduates of the other five TVET institutes, 96 percent of those graduates had degrees in highly-market relevant areas (focus sectors) and so they too may be considered immediately-employable.
+The labor market outcomes were strong for NIMA graduates as indicated by their employment rates (75% of the first cohort of NIMA graduates secured employment within six months of graduation). Again, there is no control group data, but the employment rate of NIMA graduates confirms the immediate-employability of project graduates. Although the project did not assess labor market outcomes for graduates of the other five TVET institutes, 96 percent of those graduates had degrees in highly-market relevant areas (focus sectors) and so they too may be considered immediately-employable.
 
-3. The  project's  achievements  on  the  intermediate  outcome  indicators  were  mixed.  Though  five TVET institutes received support from the project, it is not clear whether the support was given after the institutes  had  met reform conditions or that the support was given on the basis of their ability to meet reform conditions.  Therefore, this indicator may only be considered a partial achievement. The number of  graduates  from  NIMA  was  1,714  (33%  of  the  project's  original  target  of  producing  5,218  NIMA graduates).  The  target  was  set  in  light  of  NIMA's  original  plans  to  offer  (a)  one-year  Certificate Programs,  (b)  two-year  Diploma  Programs,  and  (c)  short-term  courses  for  those  who  are  unable  to participate in longer-term programs due to work commitments. Hence the target of 5,218 was high for only a 2 year Diploma program that NIMA finally offered based on the demand of students (paragraph 40, pages 34-35, Annex 3 of the Technical Annex). Therefore, this indicator may be considered a partial achievement. The percentage of girls in post-basic TVET programs rose from 8% at baseline to 19% by the end of the project. This was short of the project's target of 30% but is still a substantial increase in women's enrollment in TVET; in particular because the target of 30% was a sector target applying to over 210  TVET  institutes  under  DMTVET  in  early  2013  and  the  project  supported  only  six  institutes, including  NIMA. Moreover, the percentage of girls in  project-supported institutes  was  much  higher  -32%  of  students  enrolled  in  2014  at  NIMA  are  female,  a  particularly  significant  achievement  in  the Afghan context. In light of the project's achievements on each of the outcome and intermediate outcome indicators, the overall achievement of this objective is considered Modest .
+3. The project’s achievements on the intermediate outcome indicators were mixed. Though five TVET institutes received support from the project, it is not clear whether the support was given after the institutes had met reform conditions or that the support was given on the basis of their ability to meet reform conditions. Therefore, this indicator may only be considered a partial achievement. The number of graduates from NIMA was 1,714 (33% of the project’s original target of producing 5,218 NIMA graduates). The target was set in light of NIMA’s original plans to offer (a) one-year Certificate Programs, (b) two-year Diploma Programs, and (c) short-term courses for those who are unable to participate in longer-term programs due to work commitments. Hence the target of 5,218 was high for only a 2 year Diploma program that NIMA finally offered based on the demand of students (paragraph 40, pages 34-35, Annex 3 of the Technical Annex). Therefore, this indicator may be considered a partial achievement. The percentage of girls in post-basic TVET programs rose from 8% at baseline to 19% by the end of the project. This was short of the project’s target of 30% but is still a substantial increase in women’s enrollment in TVET; in particular because the target of 30% was a sector target applying to over 210 TVET institutes under DMTVET in early 2013 and the project supported only six institutes, including NIMA. Moreover, the percentage of girls in project-supported institutes was much higher -- 32% of students enrolled in 2014 at NIMA are female, a particularly significant achievement in the Afghan context. In light of the project’s achievements on each of the outcome and intermediate outcome indicators, the overall achievement of this objective is considered Modest.
 
-#### Outcome  2:  Increased  number  of  immediately-employable  non-formal  training  beneficiaries  Substantial Achievement
+#### Outcome 2: Increased number of immediately-employable non-formal training beneficiaries - Substantial Achievement
 
-4. A total of 9,676 vulnerable people (poor women, youth, marginalized or landless farmers, persons with  disability, and  rehabilitated IDUs)  were  trained  under  the  project.  This was  a  substantial achievement,  but  fell  short  of  the  target  of  training  15,000  people  by  35  percent.  The  labor  market outcomes of the non-formal training beneficiaries, measured in terms of earnings, were very strong. Each of  the  beneficiary  groups  substantially  increased  their  earnings  compared  to  pre-training  earnings  (see ICR  paragraph  47).  The  project  also  made  a  substantial  contribution  to  capacity  building  in  the  nonformal training program by training 1,652 BDS trainers. On balance, the project substantially achieved its objective of increasing the number of immediately-employable non-formal training beneficiaries because although it fell short of the target, it still succeeded in training a substantial number of vulnerable people; and the training was clearly very effective as evident in the strong increase in earnings of the training beneficiaries  following  training.    As  noted  earlier  in  the  ICR  (paragraphs  47-48),  the  project  also contributed to the establishment of  high-quality non-formal training programs by: (a) integrating solid monitoring  and  evaluation  mechanisms  into  the  non-formal  training  programs;  (b)  ensuring  a  strong equity  focus  in  all  programs;  (c)  adopting  a  market-responsive  approach  to  non-formal  training  which resulted in improved earnings of the training beneficiaries; and (d) building overall capacity in the nonformal training program by training 1,652 BDS trainers.
+4. A total of 9,676 vulnerable people (poor women, youth, marginalized or landless farmers, persons with disability, and rehabilitated IDUs) were trained under the project. This was a substantial achievement, but fell short of the target of training 15,000 people by 35 percent. The labor market outcomes of the non-formal training beneficiaries, measured in terms of earnings, were very strong. Each of the beneficiary groups substantially increased their earnings compared to pre-training earnings (see ICR paragraph 47). The project also made a substantial contribution to capacity building in the non-formal training program by training 1,652 BDS trainers. On balance, the project substantially achieved its objective of increasing the number of immediately-employable non-formal training beneficiaries because although it fell short of the target, it still succeeded in training a substantial number of vulnerable people; and the training was clearly very effective as evident in the strong increase in earnings of the training beneficiaries following training. As noted earlier in the ICR (paragraphs 47-48), the project also contributed to the establishment of high-quality non-formal training programs by: (a) integrating solid monitoring and evaluation mechanisms into the non-formal training programs; (b) ensuring a strong equity focus in all programs; (c) adopting a market-responsive approach to non-formal training which resulted in improved earnings of the training beneficiaries; and (d) building overall capacity in the non-formal training program by training 1,652 BDS trainers.
 
 55
 
@@ -1969,17 +2025,18 @@ The labor market outcomes were strong for NIMA graduates as indicated by their e
 
 [[START OF PAGE 72]]
 
-#### Outcome 3: Improved institutional and regulatory framework for TVET Modest Achievement
+#### Outcome 3: Improved institutional and regulatory framework for TVET - Modest Achievement
 
 5. The original target was to ensure that a new institutional framework is realized and functioning, including  the  establishment  of  the  independent  ANQA,  independent  training  boards 26 (e.g.,  National Technical Vocational Education Training Board) and the National Qualifications Framework (NQF). The project was unable to achieve this original target, which was dependent on the political environment and as such, was beyond the control of the project. Currently, neither the ANQA nor the Awarding Boards have  been  established,  and  the  NQF  is  also  yet  to  be  implemented.  However,  the  project  still  made substantial  contribution  to the  establishment  of  a  high-quality  TVET  system  because  the  design  of the institutional framework (i.e., the ANQA and the Awarding Bodies) has been developed and legislation for enacting this framework has been drafted. The NQF has also been developed. These are, in themselves, substantial  achievements  in  any  context  including  developed  countries,  but  especially  in  Afghanistan. Developing these frameworks was challenging from both a technical and a political viewpoint. From a technical  perspective,  the  process  required  extensive  research  and  deliberations  with  the  various stakeholders  to  develop  a  sound  framework  that  was  aligned  with  international  best  practice  but  also appropriate  for  the  Afghan  context.  From  a  political  perspective,  the  process  required  a  long  and painstaking dialogue between various ministries and stakeholders in the Afghan TVET system to build consensus for both the institutional framework and the NQF. Although these frameworks have not yet been  submitted  to  Parliament  for  ratification,  they  have  been  approved  by  the  CESP  and  temporary institutionalization  of  both  the  National  TVET  Board  and  NQF  is  under  consideration.  GoA  is  also considering  the  possibility  of  having  the  CESP  Secretariat  function  as  an  interim  entity  to  pilot  the ANQA.  In  light  of  these  considerations,  the  project  made  a Modest contribution  to  improving  the institutional and regulatory framework for TVET.
 
-#### Outcome 4: Improved M&E and program management capacity Substantial Achievement
+#### Outcome 4: Improved M&E and program management capacity - Substantial Achievement
 
 6. This objective and target remained the same throughout the life of the project. Section 3.2  (see ICR paragraphs 53-56) provides a more in-depth discussion of the project's achievements in this area and these are not reported here. It is sufficient to say that the project substantially achieved its objective of improving M&E and program management capacity by developing and implementing an MIS (both for project management as well as for information management in the formal and non-formal TVET sectors) and  surpassing  its  target  of  training  300  administrative  and  management  staff  at  both  NSDP  and DMTVET in various functional areas of the TVET.
 
-#### Justification of overall outcome rating based on original (pre-restructuring) indicators and targets Rating: Moderately Unsatisfactory
+#### Justification of overall outcome rating based on original (pre-restructuring) indicators and targets
+Rating: Moderately Unsatisfactory
 
-7. The  project  objectives,  design  and  implementation  remained  Highly  Relevant  throughout  the entire duration of the project and remain Highly Relevant today (discussed in Section 3.1 of the ICR). The project was also Substantially Efficient (as discussed in Section 3.3 of the ICR and Annex 3) in achieving its  objectives.  However, its  Efficacy, when evaluated against original (pre-restructuring) indicators and targets, is deemed Modest . As a result, the overall outcome rating against the original (pre-restructuring) indicators and targets is rated as Moderately Unsatisfactory (as per the evaluation guidelines).
+7. The project objectives, design and implementation remained Highly Relevant throughout the entire duration of the project and remain Highly Relevant today (discussed in Section 3.1 of the ICR). The project was also Substantially Efficient (as discussed in Section 3.3 of the ICR and Annex 3) in achieving its objectives. However, its Efficacy, when evaluated against original (pre-restructuring) indicators and targets, is deemed Modest. As a result, the overall outcome rating against the original (pre-restructuring) indicators and targets is rated as Moderately Unsatisfactory (as per the evaluation guidelines).
 
 > 26 Per the Supplemental Letter (Performance Monitoring Indicators), dated March 10, 2008, four Awarding Boards (for Secondary Education, TVET, Islamic Education and Higher Education) were to be established.
 
@@ -1991,25 +2048,25 @@ The labor market outcomes were strong for NIMA graduates as indicated by their e
 
 ## Annex 11:  List of Supporting Documents
 
-- International  Development  Association  (IDA)  and  International  Finance  Cooperation  (IFC) (2012 ).  Interim  Strategy  Note  for  Islamic  Republic  of  Afghanistan  (2012-2014) .    Report  No: 66862-AF. Afghanistan  Country  Management Unit, South Asia Region, IDA and Middle East and North Africa Department, IFC. Washington DC.
+1. International Development Association (IDA) and International Finance Cooperation (IFC) (2012). Interim Strategy Note for Islamic Republic of Afghanistan (2012-2014). Report No: 66862-AF. Afghanistan Country Management Unit, South Asia Region, IDA and Middle East and North Africa Department, IFC. Washington DC.
 
-- Islamic Republic of Afghanistan (2012). National Priority Program 1: Sustainable Decent Work through Skills Development and Employment Policies for Job-Rich Growth . 2012 draft.
+2. Islamic Republic of Afghanistan (2012). National Priority Program 1: Sustainable Decent Work through Skills Development and Employment Policies for Job-Rich Growth. 2012 draft.
 
-- World  Bank  (2007 ).  Interim  Strategy  Note  for  Islamic  Republic  of  Afghanistan  (2007-2008) . Afghanistan Country Management Unit, South Asia Region, the World Bank. Washington DC.
+3. World Bank (2007). Interim Strategy Note for Islamic Republic of Afghanistan (2007-2008). Afghanistan Country Management Unit, South Asia Region, the World Bank. Washington DC.
 
-- World Bank (2008). Skills Development in Afghanistan. Discussion Paper Series: Report 25. The World Bank, Washington DC.
+4. World Bank (2008). Skills Development in Afghanistan. Discussion Paper Series: Report 25. The World Bank, Washington DC.
 
-- World Bank (2008-2014). Documents in the Project's Electronic File, including the Memorandum and Recommendation of the President, Report No. P7709-AF; Technical Annex, Report  No.  T7709-AF  (in  lieu  of  the  Project  Appraisal  Document  per  OP  8.50);  Documents submitted to the Management Committee of the ARTF; Grant Agreements; Legal Amendments; Supplemental Letter - Performance Monitoring Indicators dated March 10, 2008; Aide-Memoirs; Project  Status  and  Results  Reports;  Mid-term  Review  Aide  Memoire;  Quality  Enhancement Review  (QER)  report;  and  Financial  and  Project  Procurement  Assessments.  The  World  Bank, Washington DC.
+5. World Bank (2008-2014). Documents in the Project’s Electronic File, including the Memorandum and Recommendation of the President, Report No. P7709-AF; Technical Annex, Report No. T7709-AF (in lieu of the Project Appraisal Document per OP 8.50); Documents submitted to the Management Committee of the ARTF; Grant Agreements; Legal Amendments; Supplemental Letter – Performance Monitoring Indicators dated March 10, 2008; Aide-Memoirs; Project Status and Results Reports; Mid-term Review Aide Memoire; Quality Enhancement Review (QER) report; and Financial and Project Procurement Assessments. The World Bank, Washington DC.
 
-- World Bank (2012). ASDP  Restructuring Package, including Supplemental Letter -Performance  Indicators.    Submitted  by  Bappaditya  Chakravarty,  Task  Team  Leader  to  the Country Director, for Approval on July 20, 2012.  The World Bank, Washington DC.
+6. World Bank (2012). ASDP - Restructuring Package, including Supplemental Letter – Performance Indicators. Submitted by Bappaditya Chakravarty, Task Team Leader to the Country Director, for Approval on July 20, 2012. The World Bank, Washington DC.
 
-- World Bank (2013). Higher education in Afghanistan: An Emerging Mountain Scape. Working Paper Series 80915. The World Bank, Washington DC.
+7. World Bank (2013). Higher education in Afghanistan: An Emerging Mountain Scape. Working Paper Series 80915. The World Bank, Washington DC.
 
-- World Bank (2013) Second Skills Development Project (ASDP II) Project Appraisal Document. The World Bank, Washington DC.
+8. World Bank (2013) Second Skills Development Project (ASDP II) Project Appraisal Document. The World Bank, Washington DC.
 
-- World  Bank  (2013). Non-formal  Approach  to  Training  Education  and  Jobs  in  Afghanistan (NATEJA) Project Appraisal Document. The World Bank, Washington DC.
+9. World Bank (2013). Non-formal Approach to Training Education and Jobs in Afghanistan (NATEJA) Project Appraisal Document. The World Bank, Washington DC.
 
-- World Bank (2014). Afghanistan Economic Update: October 2014. Macro-Economic and Fiscal Management Global Practice Group. The World Bank, Washington DC.
+10. World Bank (2014). Afghanistan Economic Update: October 2014. Macro-Economic and Fiscal Management Global Practice Group. The World Bank, Washington DC.
 
 57
 
