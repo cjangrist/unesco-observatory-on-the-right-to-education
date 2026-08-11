@@ -20,6 +20,10 @@ Redaktsiooni kehtivuse lõpp: 31.12.2010
 
 Avaldamismärge: RT I 2010, 41, 240
 
+Välja kuulutanud
+Vabariigi President
+21.06.2010 otsus nr 698
+
 # Põhikooli- ja gümnaasiumiseadus
 
 Vastu võetud 09.06.2010
@@ -70,11 +74,9 @@ Vastu võetud 09.06.2010
 
 - Ühe asutusena tegutseva üldhariduskooli ja huvikooli puhul kohaldatakse koolitusloa väljastamise ja kehtetuks tunnistamise, huvikooli registreerimise, õppekorralduse, õpilase arengu toetamise, vaimse ja füüsilise turvalisuse ning tervise kaitse tagamise, õpilaste õiguste ja kohustuste, õppe rahastamise, õpetavate pedagoogide töökorralduse ning riikliku järelevalve suhtes põhikooli ja gümnaasiumi osale käesolevat seadust ning huvikooli osale huvikooli seadust. Põhimääruse, arengukava, direktori vaba ametikoha täitmise, õppenõukogu ja hoolekogu koosseisu ja moodustamise, kooli ümberkorraldamise, kooli pidamise üleandmise ning tegevuse lõpetamise suhtes kohaldatakse käesolevat seadust. Ühe asutusena tegutseva üldhariduskooli ja huvikooli direktoril on käesolevast seadusest ja huvikooli seadusest tulenev pädevus.
 
-- Gümnaasiumi ja kutseõppeasutuse ühe asutusena tegutsemise põhimõtete suhtes kohaldatakse kutseõppeasutuse seaduse § 4 3 .
+- Gümnaasiumi ja kutseõppeasutuse ühe asutusena tegutsemise põhimõtete suhtes kohaldatakse kutseõppeasutuse seaduse § 43.
 
 #### § 3.  Üldhariduskooli alusväärtused
-
-Välja kuulutanud Vabariigi President 21.06.2010 otsus nr 698
 
 https://www.riigiteataja.ee/akt/13332410
 
@@ -230,6 +232,8 @@ https://www.riigiteataja.ee/akt/13332410
 
 Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
 
+### 1. jagu Õppekava
+
 #### § 15.  Riiklik õppekava
 
 - Riiklikes õppekavades esitatakse õppe eesmärgid, oodatavad õpitulemused, hindamise tingimused ja kord ning nõuded õppekeskkonnale, õppe ja kasvatuse korraldusele, kooli lõpetamisele ja kooli õppekavale.
@@ -288,8 +292,6 @@ Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
 
 - Individuaalse õppekava koostamisel kaasatakse õpilane või piiratud teovõimega õpilase puhul vanem ning vajaduse kohaselt õpetajaid ja tugispetsialiste.
 
-### 1. jagu Õppekava
-
 https://www.riigiteataja.ee/akt/13332410
 
 4/31
@@ -340,7 +342,7 @@ Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
 
 (1) Kooli või klassi õppekeeleks loetakse keel, milles toimuv õpe moodustab vähemalt 60 protsenti riiklikes õppekavades määratud väikseimast lubatud õppe koormusest. Kui õpe ei toimu üheski keeles 60 protsendi ulatuses, loetakse õpe kakskeelseks. Kakskeelse õppe puhul käsitatakse õppekeeltena kahte keelt, milles toimub enamus õppest.
 
-(2) Põhikooli õppekeel on eesti keel. Põhikoolis või selle üksikutes klassides võib kooli hoolekogu ettepanekul munitsipaalkoolis vallavõi linnavolikogu otsuse alusel ning riigikoolis haridus- ja teadusministri otsuse alusel olla õppekeel mis tahes keel.
+(2) Põhikooli õppekeel on eesti keel. Põhikoolis või selle üksikutes klassides võib kooli hoolekogu ettepanekul munitsipaalkoolis valla- või linnavolikogu otsuse alusel ning riigikoolis haridus- ja teadusministri otsuse alusel olla õppekeel mis tahes keel.
 
 (3) Gümnaasiumi õppekeel on eesti keel. Munitsipaalgümnaasiumis või selle üksikutes klassides võib õppekeeleks olla ka muu keel. Loa muus keeles toimuvaks õppeks või kakskeelseks õppeks annab Vabariigi Valitsus valla- või linnavolikogu taotluse alusel. Sellise ettepaneku teeb valla- või linnavolikogule kooli arengukavast lähtudes hoolekogu.
 
@@ -380,7 +382,7 @@ Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
 
 (8) Põhikool, kus toimub mittestatsionaarne õpe, on kohustatud looma koolikohustusliku ea ületanud isikutele võimaluse lõpetada kool eksternina põhikooli riikliku õppekava järgi. Gümnaasium, kus toimub mittestatsionaarne õpe, on kohustatud looma võimaluse lõpetada kool eksternina gümnaasiumi riikliku õppekava järgi.
 
-(9) Mittestatsionaares õppes õppival töötaval õpilasel on õigus saada tööandjalt õppepuhkust täiskasvanute koolituse seaduses sätestatud korras.
+(9) Mittestatsionaarses õppes õppival töötaval õpilasel on õigus saada tööandjalt õppepuhkust täiskasvanute koolituse seaduses sätestatud korras.
 
 #### § 23.  Koduõpe vanema taotlusel
 
@@ -1144,9 +1146,9 @@ Kooli nimetus peab selgelt erinema teistest hariduse infosüsteemi kantud õppea
 
 Koolitustegevuse alustamise eelduseks riigikoolis on käesoleva seaduse § 63 lõikes 3 sätestatud andmete ja dokumentide olemasolu.
 
-https://www.riigiteataja.ee/akt/13332410
-
 ### 2. jagu Kooli dokumendid
+
+https://www.riigiteataja.ee/akt/13332410
 
 15/31
 
@@ -1334,9 +1336,7 @@ Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
 
 (6) Kui õpetaja vaba ametikoha täitmiseks korraldatud konkursil ei leita kvalifikatsiooninõuetele vastavat õpetajat, võib direktor sõlmida tähtajalise töölepingu tähtajaga kuni üks aasta isikuga, kellel on vähemalt keskharidus. Sellisel juhul korraldab direktor aasta jooksul uue avaliku konkursi.
 
-(7) Pedagoogina ei tohi töötada isik, keda on karistatud või kellele on kohaldatud sundravi karistusseadustiku § 133 lõike 2 punktis 2,
-
-§ 141 lõike 2 punktis 1, § 142 lõike 2 punktis 1, § 143 lõike 2 punktis 1, § 143 1  lõike 2 punktis 1, §-des 144-146 või §-des 175-178 sätestatud kuriteo eest, mille karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud või mille karistusandmed on karistusregistrist kustutatud ja kantud karistusregistri arhiivi.
+(7) Pedagoogina ei tohi töötada isik, keda on karistatud või kellele on kohaldatud sundravi karistusseadustiku § 133 lõike 2 punktis 2, § 141 lõike 2 punktis 1, § 142 lõike 2 punktis 1, § 143 lõike 2 punktis 1, § 143¹ lõike 2 punktis 1, §-des 144–146 või §-des 175–178 sätestatud kuriteo eest, mille karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud või mille karistusandmed on karistusregistrist kustutatud ja kantud karistusregistri arhiivi.
 
 #### § 76.  Õpetajate töötasu alammäära kehtestamine
 
@@ -1584,7 +1584,7 @@ Riiklikku järelevalvet teostaval ametiisikul on õigus:
 
 - saada koolilt informatsiooni õigusaktide rakendamise kohta;
 
-- teha kooli direktorile ja kooli pidajale ettepanekuid kooli tegevuse parendamiseks ning täitmiseks kohustuslikke ettekirjutusi õppeja kasvatustegevuses esinevate puuduste kõrvaldamiseks;
+- teha kooli direktorile ja kooli pidajale ettepanekuid kooli tegevuse parendamiseks ning täitmiseks kohustuslikke ettekirjutusi õppe- ja kasvatustegevuses esinevate puuduste kõrvaldamiseks;
 
 - teha kooli direktorile ja erakooli pidajale täitmiseks kohustuslikke ettekirjutusi nende antud ja seaduse või seaduse alusel antud muu õigusaktiga vastuolus olevate õppe- ja kasvatustegevust reguleerivate üksikaktide kooskõlla viimiseks seaduse või seaduse alusel antud muu õigusaktiga;
 
@@ -1630,7 +1630,7 @@ Käesoleva seaduse alusel õpilasele koolitervishoiuteenuse osutamise üle teost
 
 - Enne käesoleva seaduse jõustumist kehtinud põhikooli- ja gümnaasiumiseaduse (RT I 1993, 63, 892; 2010, 22, 108) § 3 lõike 2 alusel kehtestatud põhikooli riiklik õppekava ja gümnaasiumi riiklik õppekava kehtivad kuni nende kooskõlla viimiseni käesoleva seadusega. Riiklikud õppekavad viiakse käesoleva seadusega kooskõlla hiljemalt 2010. aasta 31. detsembriks.
 
-- Vabariigi Valitsus kehtestab kooli sisustusele, ruumidele, hoonetele ja maa-alale esitatavad tervisekaitsenõuded hiljemalt 2010. aasta 31. detsembriks. Kuni sisustusele, ruumidele, hoonetele ja maa-alale esitatavate tervisekaitsenõuete kehtestamiseni Vabariigi Valitsuse poolt kohaldatakse enne käesoleva seaduse jõustumist kehtinud põhikooli- ja gümnaasiumiseaduse (RT I 1993, 63, 892; 2010, 22, 108) § 12 1  lõike 4 alusel sotsiaalministri kehtestatud tervisekaitsenõudeid koolidele.
+- Vabariigi Valitsus kehtestab kooli sisustusele, ruumidele, hoonetele ja maa-alale esitatavad tervisekaitsenõuded hiljemalt 2010. aasta 31. detsembriks. Kuni sisustusele, ruumidele, hoonetele ja maa-alale esitatavate tervisekaitsenõuete kehtestamiseni Vabariigi Valitsuse poolt kohaldatakse enne käesoleva seaduse jõustumist kehtinud põhikooli- ja gümnaasiumiseaduse (RT I 1993, 63, 892; 2010, 22, 108) § 12¹ lõike 4 alusel sotsiaalministri kehtestatud tervisekaitsenõudeid koolidele.
 
 - Koolides, kus käesoleva seaduse jõustumisel on gümnaasiumi astmel eesti keelest erinev õppekeel, rakendatakse käesoleva seaduse § 21 lõiget 3 alates 2011/2012. õppeaastast gümnaasiumiõpinguid alustanud õpilaste suhtes ja kogu gümnaasiumi ulatuses viiakse õpe käesoleva seaduse § 21 lõikega 3 kooskõlla hiljemalt 2013. aasta 1. septembriks.
 
@@ -1656,7 +1656,7 @@ Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
 
 järgmisse klassi üleviimise ning klassikursust kordama jätmise üldiste tingimuste ja korraga kooskõlla: 1., 4. ja 7. klassi puhul hiljemalt 2011. aasta 1. septembriks; 2., 5. ja 8. klassi puhul hiljemalt 2012. aasta 1. septembriks; 3., 6. ja 9. klassi ning gümnaasiumi puhul hiljemalt 2013. aasta 1. septembriks. Kuni käesolevas lõikes sätestatud tähtaegadeni võib kool hindamise korraldamisel lähtuda enne käesoleva seaduse jõustumist kehtinud põhikooli- ja gümnaasiumiseaduse (RT I 1993, 63, 892; 2010, 22, 108) § 27 lõike 1 alusel haridus- ja teadusministri kehtestatud õpilase hindamise, järgmisse klassi üleviimise, täiendavale õppetööle ning klassikursust kordama jätmise alustest, tingimustest ja korrast.
 
-- 2010/2011. õppeaasta ühtsete põhikooli lõpueksamite õppeained, vormid ja aja ning riigieksamite vormid ja aja kehtestab haridusja teadusminister hiljemalt 2010. aasta 30. septembriks.
+- 2010/2011. õppeaasta ühtsete põhikooli lõpueksamite õppeained, vormid ja aja ning riigieksamite vormid ja aja kehtestab haridus- ja teadusminister hiljemalt 2010. aasta 30. septembriks.
 
 - Käesoleva seaduse § 31 lõikeid 3 ja 5-8 rakendatakse alates 2013. aasta 1. septembrist.
 
@@ -1676,7 +1676,7 @@ Käesoleva seaduse § 49 lõikes 3 sätestatud õpilase transpordi korraldamise 
 
 Käesoleva seaduse § 82 lõikes 5 nimetatud õpilaskodutoetuse kasutamise tingimused ja korra ning toetuse jaotuse koolide pidajate vahel kehtestab Vabariigi Valitsus alates 2011. eelarveaastast. Kuni 2010. aasta 31. detsembrini kehtib enne käesoleva seaduse
 
-jõustumist kehtinud põhikooli- ja gümnaasiumiseaduse (RT I 1993, 63, 892; 2010, 22, 108) § 44 lõike 3 2  alusel haridus- ja teadusministri kehtestatud õpilaskodutoetuse taotlemise, jaotamise ning kasutamise tingimused ja kord, taotluste ja aruannete vormid ning toetuse jaotus koolide pidajate vahel.
+jõustumist kehtinud põhikooli- ja gümnaasiumiseaduse (RT I 1993, 63, 892; 2010, 22, 108) § 44 lõike 3² alusel haridus- ja teadusministri kehtestatud õpilaskodutoetuse taotlemise, jaotamise ning kasutamise tingimused ja kord, taotluste ja aruannete vormid ning toetuse jaotus koolide pidajate vahel.
 
 #### § 93.  Haridusliku erivajadusega õpilase õppekorralduse kooskõlla viimine
 
@@ -1702,9 +1702,7 @@ jõustumist kehtinud põhikooli- ja gümnaasiumiseaduse (RT I 1993, 63, 892; 201
 
 - somaatiliste haigustega õpilaste klassi täitumuse ülemine piirnorm on kuni 2011. aasta 31. augustini 24 õpilast;
 
-- põhiharidust omandavate tundeelu- ja käitumishäiretega õpilaste klassi täitumuse ülemine piirnorm on kuni 2011. aasta
-
-- augustini 16 õpilast ja 2012. aasta 31. augustini 10 õpilast.
+- põhiharidust omandavate tundeelu- ja käitumishäiretega õpilaste klassi täitumuse ülemine piirnorm on kuni 2011. aasta 31. augustini 16 õpilast ja 2012. aasta 31. augustini 10 õpilast.
 
 - Käesoleva seaduse § 51 lõike 1 punkti 10 ja § 52 rakendatakse 2011. aasta 1. jaanuarist.
 
@@ -1816,15 +1814,15 @@ Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
 
 - III peatükk tunnistatakse kehtetuks;
 
-- paragrahvi 19 1  lõike 1 tekstis asendatakse sõna «omaniku» sõnadega «kooli pidaja»;
+- paragrahvi 19¹ lõike 1 tekstis asendatakse sõna «omaniku» sõnadega «kooli pidaja»;
 
 - paragrahvi 26 tekstist jäetakse välja sõna «õhtukoolid,»;
 
-7) paragrahvi 36 6  täiendatakse lõigetega 3 1  ja 3 2  järgmises sõnastuses:
+7) paragrahvi 36⁶ täiendatakse lõigetega 3¹ ja 3² järgmises sõnastuses:
 
-«(3 1 ) Hariduse Infosüsteemi kaudu luuakse kõigile soovijaile võimalus tutvuda koolieelsete lasteasutuste, põhikoolide, gümnaasiumide ja kutseõppeasutuste tegevusnäitajatega.
+«(3¹) Hariduse Infosüsteemi kaudu luuakse kõigile soovijaile võimalus tutvuda koolieelsete lasteasutuste, põhikoolide, gümnaasiumide ja kutseõppeasutuste tegevusnäitajatega.
 
-(3 2 ) Käesoleva paragrahvi lõikes 3 1  nimetatud tegevusnäitajad kehtestab haridus- ja teadusminister määrusega.»
+(3²) Käesoleva paragrahvi lõikes 3¹ nimetatud tegevusnäitajad kehtestab haridus- ja teadusminister määrusega.»
 
 #### § 104.  Eesti Vabariigi lastekaitse seaduse muutmine
 
@@ -1864,19 +1862,19 @@ Erakooliseaduses (RT I 1998, 57, 859; 2010, 22, 108) tehakse järgmised muudatus
 
 - Käesoleva paragrahvi lõike 2 punktides 7-10 nimetatud erakooli pidajaks võib olla aktsiaselts, osaühing, sihtasutus või mittetulundusühing.»;
 
-2) paragrahvi 5 täiendatakse lõikega 1 2  järgmises sõnastuses:
+2) paragrahvi 5 täiendatakse lõikega 1² järgmises sõnastuses:
 
-«(1 2 ) Õppe läbiviimiseks Rahvusvahelise Bakalaureuseõppe Organisatsiooni ( International Baccalaureate Organization ) õppekava või Euroopa koolide põhikirja konventsiooni alusel väljatöötatud õppekava kohaselt väljastatakse kooli pidajale koolitusluba. Rahvusvahelise Bakalaureuseõppe Organisatsiooni õppekava alusel võib õpetada erakool, mis on saanud Rahvusvahelise Bakalaureuseõppe Organisatsiooni tunnustuse õppekava rakendamiseks. Euroopa koolide põhikirja konventsiooni alusel väljatöötatud õppekava kohaselt võib õpetada erakool, mis on täitnud Euroopa koolide põhikirja konventsiooni alusel kehtestatud nõuded selle õppekava järgi õpetamiseks.»;
+«(1²) Õppe läbiviimiseks Rahvusvahelise Bakalaureuseõppe Organisatsiooni (International Baccalaureate Organization) õppekava või Euroopa koolide põhikirja konventsiooni alusel väljatöötatud õppekava kohaselt väljastatakse kooli pidajale koolitusluba. Rahvusvahelise Bakalaureuseõppe Organisatsiooni õppekava alusel võib õpetada erakool, mis on saanud Rahvusvahelise Bakalaureuseõppe Organisatsiooni tunnustuse õppekava rakendamiseks. Euroopa koolide põhikirja konventsiooni alusel väljatöötatud õppekava kohaselt võib õpetada erakool, mis on täitnud Euroopa koolide põhikirja konventsiooni alusel kehtestatud nõuded selle õppekava järgi õpetamiseks.»;
 
 - paragrahvi 5 lõige 2 muudetakse ja sõnastatakse järgmiselt:
 
 «(2) Kutseõppeasutuse, kõrgkooli, ülikooli, huvikooli ja täiskasvanute koolitusasutuse koolitusluba on tähtajaline, kehtivusega mitte vähem kui üks õppeaasta, ning tähtaja määramisel arvestatakse erakooli õppekavaga kehtestatud nominaalse õppeaja kestust.»;
 
-- paragrahvi 5 täiendatakse lõigetega 2 1  ja 2 2  järgmises sõnastuses:
+- paragrahvi 5 täiendatakse lõigetega 2¹ ja 2² järgmises sõnastuses:
 
-«(2 1 ) Koolieelse lasteasutuse, põhikooli ja gümnaasiumi koolitusloa esmakordsel taotlemisel väljastatakse tähtajaline koolitusluba kehtivusega kuni viis õppeaastat. Tähtajalise koolitusloa kehtivuse jooksul viiakse läbi riiklik järelevalve erakooli õppe- ja kasvatustegevuse üle. Kui riikliku järelevalve käigus ettekirjutusi ei tehta või ettekirjutused on tähtaegselt täidetud, ei pea uue koolitusloa taotlusele lisama lõikes 5 nimetatud andmeid ja dokumente ning kooli pidaja taotlusel väljastab haridus- ja teadusminister uue koolitusloa tähtajatult, välja arvatud lõikes 2 2  sätestatud juhul.
+«(2¹) Koolieelse lasteasutuse, põhikooli ja gümnaasiumi koolitusloa esmakordsel taotlemisel väljastatakse tähtajaline koolitusluba kehtivusega kuni viis õppeaastat. Tähtajalise koolitusloa kehtivuse jooksul viiakse läbi riiklik järelevalve erakooli õppe- ja kasvatustegevuse üle. Kui riikliku järelevalve käigus ettekirjutusi ei tehta või ettekirjutused on tähtaegselt täidetud, ei pea uue koolitusloa taotlusele lisama lõikes 5 nimetatud andmeid ja dokumente ning kooli pidaja taotlusel väljastab haridus- ja teadusminister uue koolitusloa tähtajatult, välja arvatud lõikes 2² sätestatud juhul.
 
-(2 2 ) Kui tähtajalise koolitusloa alusel tegutsev ja uut koolitusluba taotlev erakool on esitanud dokumendid, mis tõendavad, et riikliku järelevalve käigus tehtud ettekirjutused on täidetud, kuid ettekirjutuste tegeliku täitmise kontrollimiseks on haridus- ja teadusministri hinnangul vaja läbi viia uus riiklik järelevalve, väljastab haridus- ja teadusminister tähtajalise koolitusloa kehtivusega kuni viis õppeaastat.»;
+(2²) Kui tähtajalise koolitusloa alusel tegutsev ja uut koolitusluba taotlev erakool on esitanud dokumendid, mis tõendavad, et riikliku järelevalve käigus tehtud ettekirjutused on täidetud, kuid ettekirjutuste tegeliku täitmise kontrollimiseks on haridus- ja teadusministri hinnangul vaja läbi viia uus riiklik järelevalve, väljastab haridus- ja teadusminister tähtajalise koolitusloa kehtivusega kuni viis õppeaastat.»;
 
 - paragrahvi 5 lõike 5 punkt 3 muudetakse ja sõnastatakse järgmiselt:
 
@@ -1902,13 +1900,13 @@ Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
 
 7) andmed erakooli tegevuseks vajalike ruumide, hoonete, maa-ala, õpperuumide ja õppehoonete sisustuse olemasolu või nende kasutuse kohta vastavalt kehtivale liisingulepingule ja rendilepingule ning nende vastavuse kohta tervisekaitse- ja ohutusnõuetele;»;
 
-- paragrahvi 5 lõiget 5 täiendatakse punktiga 7 1  järgmises sõnastuses:
+- paragrahvi 5 lõiget 5 täiendatakse punktiga 7¹ järgmises sõnastuses:
 
-«7 1 ) koolitervishoiuteenuse osutaja kirjalik nõusolek koolitervishoiuteenuse osutamiseks ja andmed koolitervishoiuteenuse tegevusloa olemasolu kohta põhikoolis, gümnaasiumis ja kutseõppeasutuses;»;
+«7¹) koolitervishoiuteenuse osutaja kirjalik nõusolek koolitervishoiuteenuse osutamiseks ja andmed koolitervishoiuteenuse tegevusloa olemasolu kohta põhikoolis, gümnaasiumis ja kutseõppeasutuses;»;
 
-- paragrahvi 5 täiendatakse lõikega 5 1  järgmises sõnastuses:
+- paragrahvi 5 täiendatakse lõikega 5¹ järgmises sõnastuses:
 
-«(5 1 ) Koolitusloa taotlemisel Rahvusvahelise Bakalaureuseõppe Organisatsiooni õppekava või Euroopa koolide põhikirja konventsiooni alusel väljatöötatud õppekava kohaselt õppe läbiviimiseks lisatakse taotlusele käesoleva paragrahvi lõike 5 punktides 1, 4, 7 ja 10 nimetatud dokumendid. Rahvusvahelise Bakalaureuseõppe Organisatsiooni õppekava rakendamiseks esitatakse täiendavalt dokument, mis tõendab Rahvusvahelise Bakalaureuseõppe Organisatsiooni luba õppekava rakendada. Euroopa koolide põhikirja konventsiooni alusel väljatöötatud õppekava rakendamiseks esitatakse dokument, mis tõendab, et kool on täitnud Euroopa koolide põhikirja konventsiooni alusel kehtestatud nõuded selle õppekava järgi õpetamiseks.»;
+«(5¹) Koolitusloa taotlemisel Rahvusvahelise Bakalaureuseõppe Organisatsiooni õppekava või Euroopa koolide põhikirja konventsiooni alusel väljatöötatud õppekava kohaselt õppe läbiviimiseks lisatakse taotlusele käesoleva paragrahvi lõike 5 punktides 1, 4, 7 ja 10 nimetatud dokumendid. Rahvusvahelise Bakalaureuseõppe Organisatsiooni õppekava rakendamiseks esitatakse täiendavalt dokument, mis tõendab Rahvusvahelise Bakalaureuseõppe Organisatsiooni luba õppekava rakendada. Euroopa koolide põhikirja konventsiooni alusel väljatöötatud õppekava rakendamiseks esitatakse dokument, mis tõendab, et kool on täitnud Euroopa koolide põhikirja konventsiooni alusel kehtestatud nõuded selle õppekava järgi õpetamiseks.»;
 
 - paragrahvi 5 lõiget 9 täiendatakse punktidega 8 ja 9 järgmises sõnastuses:
 
@@ -1918,15 +1916,15 @@ Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
 
 - paragrahvi 6 lõike 1 punkt 8 muudetakse ja sõnastatakse järgmiselt:
 
-«8) õppekorralduse alused, koolieelse lasteasutuse puhul koolieelse lasteasutuse seaduse, põhikooli ja gümnaasiumi puhul põhikoolija gümnaasiumiseaduse ning kõrgharidustaseme õppe läbiviimisel rakenduskõrgkooli seaduse või ülikooliseaduse õppekorralduse üldnõuetest lähtudes;»;
+«8) õppekorralduse alused, koolieelse lasteasutuse puhul koolieelse lasteasutuse seaduse, põhikooli ja gümnaasiumi puhul põhikooli- ja gümnaasiumiseaduse ning kõrgharidustaseme õppe läbiviimisel rakenduskõrgkooli seaduse või ülikooliseaduse õppekorralduse üldnõuetest lähtudes;»;
 
 - paragrahvi 7 lõike 1 punktis 3 asendatakse tekstiosa «käesoleva seaduse § 2 lõike 2 punktides 1-5 nimetatud erakoolide» sõnadega «koolieelne lasteasutus, põhikool, gümnaasium ja kutseõppeasutus» vastavas käändes;
 
 - paragrahvi 7 lõikes 2 asendatakse tekstiosa «Käesoleva seaduse § 2 lõike 2 punktides 1-5 nimetatud erakoolide» sõnadega «Koolieelne lasteasutus, põhikool, gümnaasium ja kutseõppeasutus» vastavas käändes;
 
-- paragrahvi 11 täiendatakse lõikega 1 1  järgmises sõnastuses:
+- paragrahvi 11 täiendatakse lõikega 1¹ järgmises sõnastuses:
 
-«(1 1 ) Täiskasvanute koolitusasutuse õppekavale ei kohaldata käesoleva paragrahvi lõike 1 punkte 3-6. Lisaks käesoleva paragrahvi lõike 1 punktides 1 ja 2 sätestatud andmetele peab täiskasvanute koolitusasutuse õppekava sisaldama järgmisi andmeid:
+«(1¹) Täiskasvanute koolitusasutuse õppekavale ei kohaldata käesoleva paragrahvi lõike 1 punkte 3–6. Lisaks käesoleva paragrahvi lõike 1 punktides 1 ja 2 sätestatud andmetele peab täiskasvanute koolitusasutuse õppekava sisaldama järgmisi andmeid:
 
 - õppekava nimetus;
 
@@ -1962,9 +1960,9 @@ Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
 
 - Erakoolist väljaarvamise tingimused kehtestab erakooli nõukogu.»;
 
-- paragrahvi 13 täiendatakse lõikega 1 2  järgmises sõnastuses:
+- paragrahvi 13 täiendatakse lõikega 1² järgmises sõnastuses:
 
-«(1 2 ) Põhikoolis ja gümnaasiumis lähtutakse õppe ja kasvatuse korraldamisel põhikooli- ja gümnaasiumiseaduses sätestatust. Põhikooli- ja gümnaasiumiseaduse § 20 lõikes 1 sätestatud kohustust võimaldada õppekirjandust kasutada tasuta on põhikool või gümnaasium kohustatud täitma riigieelarves selleks eraldatud toetuse ulatuses.»;
+«(1²) Põhikoolis ja gümnaasiumis lähtutakse õppe ja kasvatuse korraldamisel põhikooli- ja gümnaasiumiseaduses sätestatust. Põhikooli- ja gümnaasiumiseaduse § 20 lõikes 1 sätestatud kohustust võimaldada õppekirjandust kasutada tasuta on põhikool või -gümnaasium kohustatud täitma riigieelarves selleks eraldatud toetuse ulatuses.»;
 
 - paragrahvi 21 lõike 2 punkt 3 muudetakse ja sõnastatakse järgmiselt:
 
@@ -1980,27 +1978,27 @@ https://www.riigiteataja.ee/akt/13332410
 
 2/25/2020
 
-Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
+Põhikooli- ja gümnaasiumiseadus – Riigi Teataja
 
-- paragrahvi 22 lõikes 2 asendatakse tekstiosa «Käesoleva seaduse § 2 lõike 2 punktides 1 1 -4 nimetatud õppeasutuste» sõnadega «Põhikooli ja gümnaasiumi» ning tekstiosa «põhikooli- ja gümnaasiumiseaduse § 44 lõigetes 3 ja 3 3 » tekstiosaga «põhikooli- ja gümnaasiumiseaduse § 82 lõigetes 3-5 ja 7»;
+20) paragrahvi 22 lõikes 2 asendatakse tekstiosa «Käesoleva seaduse § 2 lõike 2 punktides 1¹–4 nimetatud õppeasutuste» sõnadega «Põhikooli ja gümnaasiumi» ning tekstiosa «põhikooli- ja gümnaasiumiseaduse § 44 lõigetes 3 ja 3³» tekstiosaga «põhikooli- ja gümnaasiumiseaduse § 82 lõigetes 3–5 ja 7»;
 
-- seadust täiendatakse §-ga 22 2  järgmises sõnastuses:
+21) seadust täiendatakse §-ga 22² järgmises sõnastuses:
 
-##### « § 22 2 . Eraüldhariduskooli tegevuskulude katmises osalemine
+##### « § 22². Eraüldhariduskooli tegevuskulude katmises osalemine
 
 (1) Vald või linn osaleb eraüldhariduskooli tegevuskulude katmises proportsionaalselt selles koolis õppivate õpilaste arvuga, kelle rahvastikuregistri järgne elukoht asub selle valla või linna haldusterritooriumil.
 
-- Tegevuskulude katmisel lähtutakse käesolevast seadusest, kui vallad või linnad ja erakooli pidaja ei ole omavahel kokku leppinud teisiti.
+(2) Tegevuskulude katmisel lähtutakse käesolevast seadusest, kui vallad või linnad ja erakooli pidaja ei ole omavahel kokku leppinud teisiti.
 
-- Tegevuskulude katmisel lähtutakse põhikooli- ja gümnaasiumiseaduse §-s 83 sätestatud munitsipaalkooli tegevuskulude katmises osalemise tingimustest ja korrast.»;
+(3) Tegevuskulude katmisel lähtutakse põhikooli- ja gümnaasiumiseaduse §-s 83 sätestatud munitsipaalkooli tegevuskulude katmises osalemise tingimustest ja korrast.»;
 
-- paragrahvi 23 lõikes 1 1  asendatakse tekstiosa «Käesoleva seaduse § 2 lõike 2 punktides 1-5 nimetatud erakoolide» sõnadega «Koolieelse lasteasutuse, põhikooli, gümnaasiumi ja kutseõppeasutuse»;
+22) paragrahvi 23 lõikes 1¹ asendatakse tekstiosa «Käesoleva seaduse § 2 lõike 2 punktides 1–5 nimetatud erakoolide» sõnadega «Koolieelse lasteasutuse, põhikooli, gümnaasiumi ja kutseõppeasutuse»;
 
-- seadust täiendatakse §-ga 39 järgmises sõnastuses:
+23) seadust täiendatakse §-ga 39 järgmises sõnastuses:
 
 ##### « § 39. Tähtajaliste koolituslubade kehtivus
 
-Koolieelsele lasteasutusele, põhikoolile ja gümnaasiumile väljastatud tähtajalised koolitusload kehtivad koolitusloas määratud tähtaja lõppemiseni. Käesoleva seaduse jõustumise hetkel tähtajalise koolitusloa alusel tegutsenud erakoolidele, kes koolitusloa kehtivuse lõppemisel soovivad tegevust jätkata ja esitavad taotluse uue koolitusloa väljastamiseks, väljastatakse tähtajaline koolitusluba vastavalt § 5 lõikele 2 1  samadel tingimustel nagu koolitusloa esmakordsel väljastamisel.»
+Koolieelsele lasteasutusele, põhikoolile ja gümnaasiumile väljastatud tähtajalised koolitusload kehtivad koolitusloas määratud tähtaja lõppemiseni. Käesoleva seaduse jõustumise hetkel tähtajalise koolitusloa alusel tegutsenud erakoolidele, kes koolitusloa kehtivuse lõppemisel soovivad tegevust jätkata ja esitavad taotluse uue koolitusloa väljastamiseks, väljastatakse tähtajaline koolitusluba vastavalt § 5 lõikele 2¹ samadel tingimustel nagu koolitusloa esmakordsel väljastamisel.»
 
 #### § 106.  Huvikooli seaduse muutmine
 
@@ -2016,37 +2014,37 @@ Kaitseväeteenistuse seaduse (RT I 2000, 28, 167; 2010, 26, 131) § 55 lõikes 2
 
 Koolieelse lasteasutuse seaduses (RT I 1999, 27, 387; 2010, 22, 108) tehakse järgmised muudatused:
 
-- kogu seaduse tekstis asendatakse sõna «järelevalveorgan» sõnaga «järelevalveasutus» vastavas käändes;
+1) kogu seaduse tekstis asendatakse sõna «järelevalveorgan» sõnaga «järelevalveasutus» vastavas käändes;
 
-- kogu seaduse tekstis asendatakse sõna «juhataja» sõnaga «direktor» vastavas käändes;
+2) kogu seaduse tekstis asendatakse sõna «juhataja» sõnaga «direktor» vastavas käändes;
 
-- paragrahvi 4 lõikes 3 asendatakse sõnad «eralasteaed-algkoolidele» sõnadega «eralasteaed-põhikoolidele»;
+3) paragrahvi 4 lõikes 3 asendatakse sõnad «eralasteaed-algkoolidele» sõnadega «eralasteaed-põhikoolidele»;
 
-- paragrahvi 5 lõiked 2 ja 3 muudetakse ja sõnastatakse järgmiselt:
+4) paragrahvi 5 lõiked 2 ja 3 muudetakse ja sõnastatakse järgmiselt:
 
 «(2) Lasteaed ning põhikooli- ja gümnaasiumiseaduses sätestatud põhikool võivad tegutseda ühe asutusena.
 
-- Ühe asutusena tegutseva lasteaia ja põhikooli puhul kohaldatakse lasteaia osale käesolevas seaduses sätestatut ning põhikooli osale põhikooli- ja gümnaasiumiseaduses sätestatut. Lasteaia ja põhikooli ümberkorraldamise, kooli pidamise üleandmise, tegevuse lõpetamise ning hoolekogu koosseisu osas kohaldatakse põhikooli- ja gümnaasiumiseaduses sätestatut. Ühe asutusena tegutseva lasteaia ja põhikooli direktoril on käesolevast seadusest ning põhikooli- ja gümnaasiumiseadusest tulenev pädevus.»;
+(3) Ühe asutusena tegutseva lasteaia ja põhikooli puhul kohaldatakse lasteaia osale käesolevas seaduses sätestatut ning põhikooli osale põhikooli- ja gümnaasiumiseaduses sätestatut. Lasteaia ja põhikooli ümberkorraldamise, kooli pidamise üleandmise, tegevuse lõpetamise ning hoolekogu koosseisu osas kohaldatakse põhikooli- ja gümnaasiumiseaduses sätestatut. Ühe asutusena tegutseva lasteaia ja põhikooli direktoril on käesolevast seadusest ning põhikooli- ja gümnaasiumiseadusest tulenev pädevus.»;
 
 5) paragrahvi 6 lõike 5 teksti täiendatakse teise lausega järgmises sõnastuses:
 
 «Võimaluse korral lähtub lasteasutus erivajadusega lapse arendamiseks vajalike tingimuste rakendamisel sobitus- või erirühmas põhikooli- ja gümnaasiumiseaduse §-s 50 nimetatud nõustamiskomisjoni soovitustest.»;
 
-- paragrahvi 6 lõige 6 muudetakse ja sõnastatakse järgmiselt:
+6) paragrahvi 6 lõige 6 muudetakse ja sõnastatakse järgmiselt:
 
 «(6) Erivajadustega laps võetakse sobitus- või erirühma vastu vanema kirjaliku avalduse alusel ning põhikooli ja gümnaasiumiseaduse §-s 50 nimetatud nõustamiskomisjoni soovitusel.»;
 
 7) paragrahvi 11 lõike 2 punktis 2 asendatakse sõna «sotsiaalministri» sõnadega «Vabariigi Valitsuse»;
 
-- paragrahvi 12 lõikes 3 ja § 33 lõikes 1 asendatakse sõna «neli» sõnaga «viis»;
+8) paragrahvi 12 lõikes 3 ja § 33 lõikes 1 asendatakse sõna «neli» sõnaga «viis»;
 
-- paragrahvi 16 lõige 5 muudetakse ja sõnastatakse järgmiselt:
+9) paragrahvi 16 lõige 5 muudetakse ja sõnastatakse järgmiselt:
 
 «(5) Lasteasutuse õppekava läbinule annab lasteasutus välja koolivalmiduskaardi, milles on kirjeldatud lapse arengu tulemused. Vanem esitab koolivalmiduskaardi kooli, kus laps asub täitma koolikohustust.»;
 
-- paragrahvi 22 lõikes 1 asendatakse sõnad «tema asetäitjat õppe- ja kasvatusalal» sõnaga «õppealajuhatajat»;
+10) paragrahvi 22 lõikes 1 asendatakse sõnad «tema asetäitjat õppe- ja kasvatusalal» sõnaga «õppealajuhatajat»;
 
-- paragrahvi 22 lõikes 4 asendatakse sõnad «juhataja asetäitja õppe- ja kasvatusalal» sõnaga «õppealajuhataja»;
+11) paragrahvi 22 lõikes 4 asendatakse sõnad «juhataja asetäitja õppe- ja kasvatusalal» sõnaga «õppealajuhataja»;
 
 https://www.riigiteataja.ee/akt/13332410
 
@@ -2058,81 +2056,81 @@ https://www.riigiteataja.ee/akt/13332410
 
 2/25/2020
 
-Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
+Põhikooli- ja gümnaasiumiseadus – Riigi Teataja
 
-- paragrahvi 23 lõike 1 punkti 1 täiendatakse pärast sõnu «sotsiaalministri määrusega» sõnadega «ja Vabariigi Valitsuse määrusega»;
+12) paragrahvi 23 lõike 1 punkti 1 täiendatakse pärast sõnu «sotsiaalministri määrusega» sõnadega «ja Vabariigi Valitsuse määrusega»;
 
-- paragrahv 24 1  tunnistatakse kehtetuks;
+13) paragrahv 24¹ tunnistatakse kehtetuks;
 
-- paragrahvi 31 lõiked 2, 3 ja 4 muudetakse ja sõnastatakse järgmiselt:
+14) paragrahvi 31 lõiked 2, 3 ja 4 muudetakse ja sõnastatakse järgmiselt:
 
 «(2) Õiendis esitatakse õiendi koostamise aeg ja koht, lühiandmed õppeasutuse kohta, järelevalvet teostav järelevalveasutus, järelevalve läbiviimise aeg, järelevalve läbiviijate ja kaasatud ekspertide nimed, järelevalve tulemused, õiguserikkumiste aeg ja kirjeldus, tehtud ettekirjutused ja ettepanekud ning ettekirjutuste täitmisest teavitamise tähtaeg.
 
-- Ettekirjutuses märgitakse:
+(3) Ettekirjutuses märgitakse:
 
-- selle isiku või organi nimi, kellele ettekirjutus on suunatud;
+1) selle isiku või organi nimi, kellele ettekirjutus on suunatud;
 
-- õigusrikkumise lõpetamiseks vajalike toimingute tegemise kohustus;
+2) õigusrikkumise lõpetamiseks vajalike toimingute tegemise kohustus;
 
-- ettekirjutuse alus;
+3) ettekirjutuse alus;
 
-- ettekirjutuse täitmise tähtaeg.
+4) ettekirjutuse täitmise tähtaeg.
 
-- Õiendi kinnitab kas haridus- ja teadusminister või maavanem.»;
+(4) Õiendi kinnitab kas haridus- ja teadusminister või maavanem.»;
 
-- paragrahvi 33 lõikest 5 jäetakse välja sõnad «algkooli või».
+15) paragrahvi 33 lõikest 5 jäetakse välja sõnad «algkooli või».
 
 #### § 109.  Kutseõppeasutuse seaduse muutmine
 
 Kutseõppeasutuse seaduses (RT I 1998, 64/65, 1007; 2010, 22, 108) tehakse järgmised muudatused:
 
-- kogu seaduse tekstis asendatakse sõna «järelevalveorgan» sõnaga «järelevalveasutus» vastavas käändes;
+1) kogu seaduse tekstis asendatakse sõna «järelevalveorgan» sõnaga «järelevalveasutus» vastavas käändes;
 
-- seadust täiendatakse §-ga 4 3  järgmises sõnastuses:
+2) seadust täiendatakse §-ga 4³ järgmises sõnastuses:
 
-##### « § 4 3 . Kutseõppeasutuse ja üldhariduskooli tegutsemine ühe asutusena
+##### « § 4³. Kutseõppeasutuse ja üldhariduskooli tegutsemine ühe asutusena
 
-- Kutseõppeasutus ning põhikooli- ja gümnaasiumiseaduses sätestatud gümnaasium võivad tegutseda ühe asutusena. Põhikooli- ja gümnaasiumiseaduses sätestatud juhul võib kutseõppeasutusega ühe asutusena tegutseva gümnaasiumiga olla liidetud ka põhikool.
+(1) Kutseõppeasutus ning põhikooli- ja gümnaasiumiseaduses sätestatud gümnaasium võivad tegutseda ühe asutusena. Põhikooli- ja gümnaasiumiseaduses sätestatud juhul võib kutseõppeasutusega ühe asutusena tegutseva gümnaasiumiga olla liidetud ka põhikool.
 
-- Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi puhul kohaldatakse kutseõppasutuse osale käesolevas seaduses sätestatut ning gümnaasiumi osale põhikooli- ja gümnaasiumiseaduses sätestatut.
+(2) Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi puhul kohaldatakse kutseõppasutuse osale käesolevas seaduses sätestatut ning gümnaasiumi osale põhikooli- ja gümnaasiumiseaduses sätestatut.
 
-- Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi põhimäärus ja arengukava peavad lisaks käesolevas seaduses sätestatud andmetele sisaldama gümnaasiumi osa kohta ka põhikooli- ja gümnaasiumiseaduses sätestatud kohustuslikke andmeid. Põhimäärus ja arengukava kinnitatakse käesolevas seaduses sätestatud korras.
+(3) Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi põhimäärus ja arengukava peavad lisaks käesolevas seaduses sätestatud andmetele sisaldama gümnaasiumi osa kohta ka põhikooli- ja gümnaasiumiseaduses sätestatud kohustuslikke andmeid. Põhimäärus ja arengukava kinnitatakse käesolevas seaduses sätestatud korras.
 
-- Ühe asutusena tegutseval kutseõppeasutusel ja gümnaasiumil on hoolekogu, mille moodustamisele ja tegevusele kohaldatakse põhikooli- ja gümnaasiumiseadust ning nõukogu, mille moodustamisele ja tegevusele kohaldatakse käesolevat seadust.
+(4) Ühe asutusena tegutseval kutseõppeasutusel ja gümnaasiumil on hoolekogu, mille moodustamisele ja tegevusele kohaldatakse põhikooli- ja gümnaasiumiseadust ning nõukogu, mille moodustamisele ja tegevusele kohaldatakse käesolevat seadust.
 
-- Ühe asutusena tegutseval kutseõppeasutusel ja gümnaasiumil on kutseõppeasutuse ja gümnaasiumi osal eraldi õppenõukogud, mis tegutsevad käesoleva seaduse ning põhikooli- ja gümnaasiumiseaduse alusel.
+(5) Ühe asutusena tegutseval kutseõppeasutusel ja gümnaasiumil on kutseõppeasutuse ja gümnaasiumi osal eraldi õppenõukogud, mis tegutsevad käesoleva seaduse ning põhikooli- ja gümnaasiumiseaduse alusel.
 
-- Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi direktori vaba ametikoha täitmisel lähtutakse käesolevas seaduses sätestatust. Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi direktoril on käesolevast seadusest ning põhikooli- ja gümnaasiumiseadusest tulenev pädevus.
+(6) Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi direktori vaba ametikoha täitmisel lähtutakse käesolevas seaduses sätestatust. Ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi direktoril on käesolevast seadusest ning põhikooli- ja gümnaasiumiseadusest tulenev pädevus.
 
-- Kutseõppeasutuse ja gümnaasiumi liitmisel ning ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi ümberkorraldamisel, pidamise üleandmisel ja tegevuse lõpetamisel kohaldatakse põhikooli- ja gümnaasiumiseaduses sätestatut.»;
+(7) Kutseõppeasutuse ja gümnaasiumi liitmisel ning ühe asutusena tegutseva kutseõppeasutuse ja gümnaasiumi ümberkorraldamisel, pidamise üleandmisel ja tegevuse lõpetamisel kohaldatakse põhikooli- ja gümnaasiumiseaduses sätestatut.»;
 
-- paragrahvi 5 lõiget 4 täiendatakse punktiga 5 järgmises sõnastuses:
+3) paragrahvi 5 lõiget 4 täiendatakse punktiga 5 järgmises sõnastuses:
 
 «5) koolitervishoiuteenuse osutaja kirjalik nõusolek osutada koolitervishoiuteenust ja andmed koolitervishoiuteenuse tegevusloa olemasolu kohta.»;
 
-- paragrahvi 7 lõikes 3, § 35 lõikes 6 ja § 36 lõikes 7 asendatakse sõna «kuus» sõnaga «viis»;
+4) paragrahvi 7 lõikes 3, § 35 lõikes 6 ja § 36 lõikes 7 asendatakse sõna «kuus» sõnaga «viis»;
 
-- paragrahvi 14 2  lõikeid 1 ja 2 muudetakse ja sõnastatakse järgmiselt:
+5) paragrahvi 14² lõikeid 1 ja 2 muudetakse ja sõnastatakse järgmiselt:
 
 «(1) Kool võimaldab põhikooli- ja gümnaasiumiõpilastele kutseõpet põhikooli ja gümnaasiumi kutseõppe õppekava järgi põhikooli- ja gümnaasiumiseaduse alusel kehtestatud riiklikes õppekavades ettenähtud valikainete raames.
 
-- Kool võimaldab põhikooli ja gümnaasiumi kutseõppe õppekava järgi kutseõpet ka nendele põhiharidust omandavatele õpilastele, kes omandavad põhiharidust mittestatsionaarses õppes põhikooli- ja gümnaasiumiseadusega sätestatud alustel ja korras.»;
+(2) Kool võimaldab põhikooli ja gümnaasiumi kutseõppe õppekava järgi kutseõpet ka nendele põhiharidust omandavatele õpilastele, kes omandavad põhiharidust mittestatsionaarses õppes põhikooli- ja gümnaasiumiseadusega sätestatud alustel ja korras.»;
 
-- paragrahvi 15 1  pealkiri muudetakse ja sõnastatakse järgmiselt:
+6) paragrahvi 15¹ pealkiri muudetakse ja sõnastatakse järgmiselt:
 
-##### « § 15 1 . Lisa-aasta kutsekeskhariduse läbinud isikutele »;
+##### « § 15¹. Lisa-aasta kutsekeskhariduse läbinud isikutele»;
 
-7) paragrahvi 15 1  lõige 1 muudetakse ja sõnastatakse järgmiselt:
+7) paragrahvi 15¹ lõige 1 muudetakse ja sõnastatakse järgmiselt:
 
 «(1) Kutsekeskharidusõppe õppekava läbinud isikul on õigus jätkata üldharidusõpinguid, mis on suunatud gümnaasiumi riiklikus õppekavas määratud õpitulemuste saavutamisele, kuni 35 õppenädala ulatuses. Nimetatud õpingute korraldamise kohustus on koolil koostöös gümnaasiumiga.»;
 
-- paragrahvi 22 lõige 1 1  muudetakse ja sõnastatakse järgmiselt:
+8) paragrahvi 22 lõige 1¹ muudetakse ja sõnastatakse järgmiselt:
 
-«(1 1 ) Eesti keelest erineva õppekeelega õppegruppides kutsekeskharidust omandavad lõpetajad sooritavad kooli lõpetamiseks eesti keelest erineva õppekeelega õpilastele läbiviidava eesti keele riigieksami põhikooli- ja gümnaasiumiseaduse alusel kehtestatud põhikooli ja gümnaasiumi lõpetamiseks sooritatavate eksamite läbiviimise korra kohaselt.»;
+«(1¹) Eesti keelest erineva õppekeelega õppegruppides kutsekeskharidust omandavad lõpetajad sooritavad kooli lõpetamiseks eesti keelest erineva õppekeelega õpilastele läbiviidava eesti keele riigieksami põhikooli- ja gümnaasiumiseaduse alusel kehtestatud põhikooli ja gümnaasiumi lõpetamiseks sooritatavate eksamite läbiviimise korra kohaselt.»;
 
-- paragrahv 27 1  tunnistatakse kehtetuks;
+9) paragrahv 27¹ tunnistatakse kehtetuks;
 
-- paragrahvi 30 1  lõige 2 muudetakse ja sõnastatakse järgmiselt:
+10) paragrahvi 30¹ lõige 2 muudetakse ja sõnastatakse järgmiselt:
 
 https://www.riigiteataja.ee/akt/13332410
 
@@ -2144,77 +2142,77 @@ https://www.riigiteataja.ee/akt/13332410
 
 2/25/2020
 
-Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
+Põhikooli- ja gümnaasiumiseadus – Riigi Teataja
 
 «(2) Pedagoogi lähtetoetust võib taotleda isik, kes:
 
-- on lõpetanud kõrghariduse tasemel toimuva õpetajakoolituse ning asub 18 kuu jooksul pärast selle lõpetamist esmakordselt pedagoogina tööle kutseõppeasutuse kutseõpetajana või üldharidusainete õpetajana, välja arvatud Tallinnas või Tartus asuvas kutseõppeasutuses. Pedagoogi lähtetoetust võib nelja kuu jooksul pärast kõrghariduse tasemel toimunud õpetajakoolituse lõpetamist taotleda ka isik, kes asus esmakordselt pedagoogina tööle õpetajakoolituse või sellele vahetult eelnenud bakalaureuseõppe käigus tingimusel, et bakalaureuseõppe lõpetamise ja õpetajakoolituse alustamise vahele ei jää rohkem kui üks aasta. Pedagoogi lähtetoetust võib nelja kuu jooksul pärast kõrghariduse tasemel toimunud õpetajakoolituse lõpetamist taotleda ka isik, kes enne nimetatud õpetajakoolituse alustamist töötas kutseõppeasutuses kutseõpetajana. Kõrghariduse tasemel õpetajakoolituse lõpetamise aastal rasedus- ja sünnituspuhkusele asuva isiku, ajateenistuskohustuse täitmisele kutsutud kaitseväekohuslase või välisriigis pedagoogilisel praktikal viibinud isiku õigus taotleda lähtetoetust pikeneb rasedus- ja sünnituspuhkuse ning lapsehoolduspuhkuse aja, kaitseväeteenistuskohustuse täitmise aja või pedagoogilise praktika kestuse võrra;
+1) on lõpetanud kõrghariduse tasemel toimuva õpetajakoolituse ning asub 18 kuu jooksul pärast selle lõpetamist esmakordselt pedagoogina tööle kutseõppeasutuse kutseõpetajana või üldharidusainete õpetajana, välja arvatud Tallinnas või Tartus asuvas kutseõppeasutuses. Pedagoogi lähtetoetust võib nelja kuu jooksul pärast kõrghariduse tasemel toimunud õpetajakoolituse lõpetamist taotleda ka isik, kes asus esmakordselt pedagoogina tööle õpetajakoolituse või sellele vahetult eelnenud bakalaureuseõppe käigus tingimusel, et bakalaureuseõppe lõpetamise ja õpetajakoolituse alustamise vahele ei jää rohkem kui üks aasta. Pedagoogi lähtetoetust võib nelja kuu jooksul pärast kõrghariduse tasemel toimunud õpetajakoolituse lõpetamist taotleda ka isik, kes enne nimetatud õpetajakoolituse alustamist töötas kutseõppeasutuses kutseõpetajana. Kõrghariduse tasemel õpetajakoolituse lõpetamise aastal rasedus- ja sünnituspuhkusele asuva isiku, ajateenistuskohustuse täitmisele kutsutud kaitseväekohuslase või välisriigis pedagoogilisel praktikal viibinud isiku õigus taotleda lähtetoetust pikeneb rasedus- ja sünnituspuhkuse ning lapsehoolduspuhkuse aja, kaitseväeteenistuskohustuse täitmise aja või pedagoogilise praktika kestuse võrra;
 
-- töötab vähemalt 0,5 ametikohaga kutseõppeasutuse kutseõpetajana või üldharidusainete õpetajana, kusjuures 0,5 ametikoha arvestamisel loetakse selle alla ka samaaegne töötamine üldhariduskooli I-III kooliastme või gümnaasiumiastme õpetajana, välja arvatud Tallinnas või Tartus asuvas üldhariduskoolis;
+2) töötab vähemalt 0,5 ametikohaga kutseõppeasutuse kutseõpetajana või üldharidusainete õpetajana, kusjuures 0,5 ametikoha arvestamisel loetakse selle alla ka samaaegne töötamine üldhariduskooli I–III kooliastme või gümnaasiumiastme õpetajana, välja arvatud Tallinnas või Tartus asuvas üldhariduskoolis;
 
-- vastab ametikohale esitatavatele kvalifikatsiooninõuetele ning
+3) vastab ametikohale esitatavatele kvalifikatsiooninõuetele ning
 
-- valdab eesti keelt Euroopa Nõukogu koostatud Euroopa keeleõppe raamdokumendis määratletud keeleoskustasemel C1.»;
+4) valdab eesti keelt Euroopa Nõukogu koostatud Euroopa keeleõppe raamdokumendis määratletud keeleoskustasemel C1.»;
 
-- paragrahvi 30 1  lõikes 3 asendatakse sõnad «põhikooli- ja gümnaasiumiseaduse §-s 38 1 » sõnadega «põhikooli- ja gümnaasiumiseaduse §-s 77»;
+11) paragrahvi 30¹ lõikes 3 asendatakse sõnad «põhikooli- ja gümnaasiumiseaduse §-s 38¹» sõnadega «põhikooli- ja gümnaasiumiseaduse §-s 77»;
 
-- paragrahvi 31 lõiget 1 täiendatakse punktiga 11 järgmiselt:
+12) paragrahvi 31 lõiget 1 täiendatakse punktiga 11 järgmiselt:
 
 «11) pöörduda tervislikel põhjustel õppetöö ajal tervishoiuteenuse osutaja poole.»;
 
-- paragrahvi 31 lõige 2 muudetakse ja sõnastatakse järgmiselt:
+13) paragrahvi 31 lõige 2 muudetakse ja sõnastatakse järgmiselt:
 
 «(2) Kool tagab õpilase koolis viibimise ajal tema tervise kaitse. Põhihariduseta ja põhihariduse baasil kutseharidust omandavale õpilasele osutatakse koolitervishoiuteenust põhikooli- ja gümnaasiumiseaduses sätestatud korras.»;
 
-- paragrahvi 34 3  lõiked 2, 3 ja 4 muudetakse ja sõnastatakse järgmiselt:
+14) paragrahvi 34³ lõiked 2, 3 ja 4 muudetakse ja sõnastatakse järgmiselt:
 
 «(2) Õiendis esitatakse õiendi koostamise aeg ja koht, lühiandmed õppeasutuse kohta, järelevalvet teostav järelevalveasutus, järelevalve läbiviimise aeg, järelevalve läbiviijate ja kaasatud ekspertide nimed, järelevalve tulemused, õigusrikkumiste aeg ja kirjeldus, tehtud ettekirjutused ja ettepanekud ning ettekirjutuste täitmisest teavitamise tähtaeg.
 
-- Ettekirjutuses märgitakse:
+(3) Ettekirjutuses märgitakse:
 
-- selle isiku või organi nimi, kellele ettekirjutus on suunatud;
+1) selle isiku või organi nimi, kellele ettekirjutus on suunatud;
 
-- õigusrikkumise lõpetamiseks vajalike toimingute tegemise kohustus;
+2) õigusrikkumise lõpetamiseks vajalike toimingute tegemise kohustus;
 
-- ettekirjutuse alus;
+3) ettekirjutuse alus;
 
-- ettekirjutuse täitmise tähtaeg.
+4) ettekirjutuse täitmise tähtaeg.
 
-- Õiendi kinnitab kas haridus- ja teadusminister või maavanem.»;
+(4) Õiendi kinnitab kas haridus- ja teadusminister või maavanem.»;
 
-- seadust täiendatakse §-ga 34 5  järgmises sõnastuses:
+15) seadust täiendatakse §-ga 34⁵ järgmises sõnastuses:
 
-##### « § 34 5 . Riiklik järelevalve koolitervishoiuteenuse osutamise üle
+##### « § 34⁵. Riiklik järelevalve koolitervishoiuteenuse osutamise üle
 
 Käesoleva seaduse alusel õpilasele koolitervishoiuteenuse osutamise üle teostab vastavalt oma pädevusele riiklikku järelevalvet Terviseamet.»;
 
-- seaduse 8. peatüki pealkiri muudetakse ja sõnastatakse järgmiselt:
+16) seaduse 8. peatüki pealkiri muudetakse ja sõnastatakse järgmiselt:
 
 ##### «KOOLI ÜMBERKORRALDAMINE, PIDAMISE ÜLEANDMINE JA TEGEVUSE LÕPETAMINE»;
 
-- paragrahv 35 1  muudetakse ja sõnastatakse järgmiselt:
+17) paragrahv 35¹ muudetakse ja sõnastatakse järgmiselt:
 
-##### « § 35 1 . Kooli pidamise üleandmine
+##### « § 35¹. Kooli pidamise üleandmine
 
-- Vabariigi Valitsusel on õigus haridus- ja teadusministri ettepanekul anda luba riigikooli pidamise üleandmiseks vallale, linnale või eraõiguslikule juriidilisele isikule ning munitsipaalkooli pidamise ülevõtmiseks riigile käesolevas paragrahvis sätestatud tingimustel ja korras.
+(1) Vabariigi Valitsusel on õigus haridus- ja teadusministri ettepanekul anda luba riigikooli pidamise üleandmiseks vallale, linnale või eraõiguslikule juriidilisele isikule ning munitsipaalkooli pidamise ülevõtmiseks riigile käesolevas paragrahvis sätestatud tingimustel ja korras.
 
-- Riigikooli pidamise üleandmisel vallale, linnale või eraõiguslikule juriidilisele isikule ja munitsipaalkooli pidamise üleandmisel riigile kohaldatakse võlaõigusseaduses ettevõtte ülemineku kohta sätestatut käesolevast seadusest tulenevate erisustega. Riigikooli pidamise üleandmise tulemusel moodustub munitsipaal- või erakool ja riigikooli tegevus loetakse lõppenuks. Munitsipaalkooli pidamise üleandmise tulemusel moodustub riigikool ja munitsipaalkooli tegevus loetakse lõppenuks. Munitsipaalkooli pidamise üleandmisel riigile tunnistatakse üleantava kooli koolitusluba kehtetuks.
+(2) Riigikooli pidamise üleandmisel vallale, linnale või eraõiguslikule juriidilisele isikule ja munitsipaalkooli pidamise üleandmisel riigile kohaldatakse võlaõigusseaduses ettevõtte ülemineku kohta sätestatut käesolevast seadusest tulenevate erisustega. Riigikooli pidamise üleandmise tulemusel moodustub munitsipaal- või erakool ja riigikooli tegevus loetakse lõppenuks. Munitsipaalkooli pidamise üleandmise tulemusel moodustub riigikool ja munitsipaalkooli tegevus loetakse lõppenuks. Munitsipaalkooli pidamise üleandmisel riigile tunnistatakse üleantava kooli koolitusluba kehtetuks.
 
-- Kooli pidamise võib üle anda, kui:
+(3) Kooli pidamise võib üle anda, kui:
 
-- see on otstarbekas kutseharidussüsteemi arengu seisukohalt;
+1) see on otstarbekas kutseharidussüsteemi arengu seisukohalt;
 
-- kooli juhtimine ning õppe- ja kasvatustegevus on pidamise üleandmisel tulemuslikum;
+2) kooli juhtimine ning õppe- ja kasvatustegevus on pidamise üleandmisel tulemuslikum;
 
-- kooli pidamise üleandmine loob paremad võimalused omandatava hariduse kvaliteedi tagamiseks, sealhulgas õppe ja kasvatuse tingimuste parandamiseks;
+3) kooli pidamise üleandmine loob paremad võimalused omandatava hariduse kvaliteedi tagamiseks, sealhulgas õppe ja kasvatuse tingimuste parandamiseks;
 
-- kooli pidamise üleandmisel suudab kool efektiivsemalt reageerida tööturu nõuetele.
+4) kooli pidamise üleandmisel suudab kool efektiivsemalt reageerida tööturu nõuetele.
 
-- Riigikooli pidamise võib üle anda aktsiaseltsile, osaühingule, sihtasutusele või mittetulundusühingule, mille üheks aktsionäri-, osaniku-, asutaja- või liikmeõiguse teostajaks on riik, vald või linn.
+(4) Riigikooli pidamise võib üle anda aktsiaseltsile, osaühingule, sihtasutusele või mittetulundusühingule, mille üheks aktsionäri-, osaniku-, asutaja- või liikmeõiguse teostajaks on riik, vald või linn.
 
-- Samaaegselt riigikooli munitsipaal- või eraomandisse andmise taotlusega taotletakse õigusaktidega sätestatud tingimustel ja korras munitsipaalkoolile või erakoolile koolitusluba.
+(5) Samaaegselt riigikooli munitsipaal- või eraomandisse andmise taotlusega taotletakse õigusaktidega sätestatud tingimustel ja korras munitsipaalkoolile või erakoolile koolitusluba.
 
-- Haridus- ja teadusminister otsustab Vabariigi Valitsuselt käesoleva paragrahvi lõikes 1 nimetatud loa taotlemise, kui käesoleva paragrahvi lõikes 3 või 4 sätestatud tingimused ja riigikooli pidamise üleandmise puhul õigusaktidega sätestatud koolitusloa saamise tingimused on täidetud.
+(6) Haridus- ja teadusminister otsustab Vabariigi Valitsuselt käesoleva paragrahvi lõikes 1 nimetatud loa taotlemise, kui käesoleva paragrahvi lõikes 3 või 4 sätestatud tingimused ja riigikooli pidamise üleandmise puhul õigusaktidega sätestatud koolitusloa saamise tingimused on täidetud.
 
 https://www.riigiteataja.ee/akt/13332410
 
@@ -2226,35 +2224,35 @@ https://www.riigiteataja.ee/akt/13332410
 
 2/25/2020
 
-Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
+Põhikooli- ja gümnaasiumiseadus – Riigi Teataja
 
 (7) Vabariigi Valitsus annab loa riigikooli pidamise üleandmiseks vallale, linnale või eraõiguslikule juriidilisele isikule või munitsipaalkooli pidamise riigile ülevõtmiseks, kui käesoleva paragrahvi lõikes 3 või 4 sätestatud tingimused on täidetud, ning volitab haridus- ja teadusministrit sõlmima kooli pidamise üleandmise või ülevõtmise lepingu.
 
-- Riigikooli pidamise üleandmine vallale, linnale või eraõiguslikule juriidilisele isikule või munitsipaalkooli pidamise üleandmine riigile sätestatakse asjaomase valla- või linnavalitsuse või eraõigusliku juriidilise isiku ja Vabariigi Valitsuse volitusel haridus- ja teadusministri vahel ning munitsipaalkooli pidamise üleandmine riigile valla- või linnavalitsuse ja Vabariigi Valitsuse volitusel haridus- ja teadusministri vahel käesoleva seaduse alusel sõlmitavas lepingus. Lepingu kohustuslikud tingimused on:
+(8) Riigikooli pidamise üleandmine vallale, linnale või eraõiguslikule juriidilisele isikule või munitsipaalkooli pidamise üleandmine riigile sätestatakse asjaomase valla- või linnavalitsuse või eraõigusliku juriidilise isiku ja Vabariigi Valitsuse volitusel haridus- ja teadusministri vahel ning munitsipaalkooli pidamise üleandmine riigile valla- või linnavalitsuse ja Vabariigi Valitsuse volitusel haridus- ja teadusministri vahel käesoleva seaduse alusel sõlmitavas lepingus. Lepingu kohustuslikud tingimused on:
 
-- kooli pidamise üleandmise kuupäev;
+1) kooli pidamise üleandmise kuupäev;
 
-- moodustatava kooli ülesanded;
+2) moodustatava kooli ülesanded;
 
-- õppekavad, mille alusel tegevuse lõpetava kooli õpilased jätkavad õpinguid moodustatavas koolis;
+3) õppekavad, mille alusel tegevuse lõpetava kooli õpilased jätkavad õpinguid moodustatavas koolis;
 
-- tegevuse lõpetava kooli õpilaste õpingute jätkamise tingimused ja kord moodustatavas koolis;
+4) tegevuse lõpetava kooli õpilaste õpingute jätkamise tingimused ja kord moodustatavas koolis;
 
-- kooli töötajate töö jätkamise tingimused ja kord moodustatavas munitsipaal-, era- või riigikoolis töösuhteid reguleerivate õigusaktidega sätestatud alustel, tingimustel ja korras;
+5) kooli töötajate töö jätkamise tingimused ja kord moodustatavas munitsipaal-, era- või riigikoolis töösuhteid reguleerivate õigusaktidega sätestatud alustel, tingimustel ja korras;
 
-- kooli kasutuses oleva vara vallale, linnale, eraõiguslikule juriidilisele isikule või riigile üleandmise tingimused, kord ja tähtaeg õigusaktidega sätestatud alustel, tingimustel ja korras;
+6) kooli kasutuses oleva vara vallale, linnale, eraõiguslikule juriidilisele isikule või riigile üleandmise tingimused, kord ja tähtaeg õigusaktidega sätestatud alustel, tingimustel ja korras;
 
-- kooli asjaajamise vallale, linnale, eraõiguslikule juriidilisele isikule või riigile üleandmise tingimused, kord ja tähtaeg;
+7) kooli asjaajamise vallale, linnale, eraõiguslikule juriidilisele isikule või riigile üleandmise tingimused, kord ja tähtaeg;
 
-- kooli pidamise vallale, linnale, eraõiguslikule juriidilisele isikule või riigile üleandmisega kaasnevate võimalike organisatsiooniliste ja eelarveliste küsimuste ning muude varalisi kohustusi ja õigusi käsitlevate küsimuste lahendamine.
+8) kooli pidamise vallale, linnale, eraõiguslikule juriidilisele isikule või riigile üleandmisega kaasnevate võimalike organisatsiooniliste ja eelarveliste küsimuste ning muude varalisi kohustusi ja õigusi käsitlevate küsimuste lahendamine.
 
-- Haridus- ja teadusministeerium tagab, et lepingu kohustuslikes tingimustes on kokkulepe saavutatud.
+(9) Haridus- ja teadusministeerium tagab, et lepingu kohustuslikes tingimustes on kokkulepe saavutatud.
 
 (10) Kooli pidamise üleandmisel tagavad Haridus- ja Teadusministeerium ja vald või linn või eraõiguslik juriidiline isik kooli, mille tegevus lõpetatakse, õpilastele võimaluse jätkata õpinguid üleandmisel moodustatavas koolis samal või lähedasel erialal.
 
 (11) Kooli pidamise üleandmine toimub pärast õppeaasta lõppu. Pidamise üleandmise otsusest teatatakse õpilastele ja kooli personalile hiljemalt kaks kuud enne uue õppeaasta algust.»;
 
-- paragrahvi 36 lõike 3 punktis 1 asendatakse sõnad «järelevalvet teostava organi» sõnadega «järelevalvet teostava asutuse».
+18) paragrahvi 36 lõike 3 punktis 1 asendatakse sõnad «järelevalvet teostava organi» sõnadega «järelevalvet teostava asutuse».
 
 #### § 110.  Liiklusseaduse muutmine
 
@@ -2268,7 +2266,7 @@ Loovisikute ja loomeliitude seaduse (RT I 2004, 84, 568; 2010, 22, 108) § 16 l�
 
 Nakkushaiguste ennetamise ja tõrje seaduses (RT I 2003, 26, 160; 2010, 22, 108) tehakse järgmised muudatused:
 
-- paragrahvi 6 täiendatakse lõikega 3 järgmiselt:
+1) paragrahvi 6 täiendatakse lõikega 3 järgmiselt:
 
 «(3) Käesoleva paragrahvi lõikes 2 nimetatud perearsti ülesandeid täidab pereõde või koolitervishoiuteenuse osutaja juhul, kui ta vastab § 8 lõike 5 alusel kehtestatud määruses sätestatud nõuetele.»;
 
@@ -2276,11 +2274,11 @@ Nakkushaiguste ennetamise ja tõrje seaduses (RT I 2003, 26, 160; 2010, 22, 108)
 
 «(2) Immuniseerimist korraldav arst või õde registreerib immuniseerimised, esitab sellekohase aruande ja edastab andmed immuniseerimise kõrvalnähtude kohta käesoleva seaduse § 6 lõikes 2 sätestatud korras. Immuniseerimist korraldav õde kaasab immuniseerimise kõrvalnähtude diagnoosimiseks arsti.»;
 
-- paragrahvi 19 lõige 3 muudetakse ja sõnastatakse järgmiselt:
+3) paragrahvi 19 lõige 3 muudetakse ja sõnastatakse järgmiselt:
 
 «(3) Nakkushaiguse epideemilise leviku kahtlusest on Terviseameti piirkondlik talitus kohustatud viivitamata teavitama Terviseametit.»;
 
-- paragrahvi 21 lõike 3 esimene lause muudetakse ja sõnastatakse järgmiselt:
+4) paragrahvi 21 lõike 3 esimene lause muudetakse ja sõnastatakse järgmiselt:
 
 «Terviseameti piirkondlik talitus teeb nakkushaiguse esinemise ja haiguse tõrjeks rakendatud abinõud teatavaks Terviseametile.»
 
@@ -2292,15 +2290,15 @@ Politsei ja piirivalve seaduse (RT I 2009, 26, 159; 2010, 22, 108) § 37 ja § 1
 
 Rahvatervise seaduses (RT I 1995, 57, 978; 2010, 31, 158) tehakse järgmised muudatused:
 
-- paragrahvi 7 lõiget 2 täiendatakse punktiga 11 järgmises sõnastuses:
+1) paragrahvi 7 lõiget 2 täiendatakse punktiga 11 järgmises sõnastuses:
 
 «11) koolidele ja koolieelsetele lasteasutustele, nende maa-alale, hoonetele, ruumidele, sisustusele ja sisekliimale ning korrashoiule.»;
 
-- paragrahvi 8 lõike 2 punkt 6 muudetakse ja sõnastatakse järgmiselt:
+2) paragrahvi 8 lõike 2 punkt 6 muudetakse ja sõnastatakse järgmiselt:
 
 «6) koolieelsete lasteasutuste tervise edendamine ja päevakava;»;
 
-- seadust täiendatakse §-ga 23 järgmises sõnastuses:
+3) seadust täiendatakse §-ga 23 järgmises sõnastuses:
 
 ##### « § 23. Tervisekaitsenõuded koolidele ja koolieelsetele lasteasutustele
 
@@ -2318,7 +2316,7 @@ https://www.riigiteataja.ee/akt/13332410
 
 2/25/2020
 
-Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
+Põhikooli- ja gümnaasiumiseadus – Riigi Teataja
 
 Ravimiseaduse (RT I 2005, 2, 4; 2010, 22, 108) § 28 lõikes 1 asendatakse sõnad «sanatoorsetel koolidel» sõnadega «koolidel, kus on loodud põhikooli- ja gümnaasiumiseaduses sätestatud hariduslike erivajadustega õpilaste klassid.»
 
@@ -2332,27 +2330,27 @@ Riikliku pensionikindlustuse seaduse (RT I 2001, 100, 648; 2010, 22, 108) § 20 
 
 #### § 118.  Sotsiaalhoolekande seaduse muutmine
 
-Sotsiaalhoolekande seaduse (RT I 1995, 21, 323; 2010, 24, 115) § 15 2  lõike 2 punktis 2 ja § 22 lõikes 2 1  asendatakse sõnad «päevases õppevormis» sõnadega «statsionaarses õppes».
+Sotsiaalhoolekande seaduse (RT I 1995, 21, 323; 2010, 24, 115) § 15² lõike 2 punktis 2 ja § 22 lõikes 2¹ asendatakse sõnad «päevases õppevormis» sõnadega «statsionaarses õppes».
 
 #### § 119.  Tervishoiuteenuste korraldamise seaduse muutmine
 
 Tervishoiuteenuste korraldamise seaduses (RT I 2001, 50, 284; 2010, 24, 115) tehakse järgmised muudatused:
 
-- paragrahvi 1 täiendatakse lõikega 2 2  järgmises sõnastuses:
+1) paragrahvi 1 täiendatakse lõikega 2² järgmises sõnastuses:
 
-«(2 2 ) Käesolevat seadust kohaldatakse koolitervishoiuteenuse osutamise korraldusele koolides koos põhikooli- ja gümnaasiumiseadusest tulenevate erisustega.»;
+«(2²) Käesolevat seadust kohaldatakse koolitervishoiuteenuse osutamise korraldusele koolides koos põhikooli- ja gümnaasiumiseadusest tulenevate erisustega.»;
 
-- paragrahvi 25 lõige 2 muudetakse ja sõnastatakse järgmiselt:
+2) paragrahvi 25 lõige 2 muudetakse ja sõnastatakse järgmiselt:
 
 «(2) Õendusabi iseseisvaks osutamiseks vajalikele ruumidele, sisseseadele, aparatuurile, töövahenditele ja ravimitele esitatavad nõuded kehtestab sotsiaalminister.»;
 
-- paragrahvi 48 lõike 1 punkt 2 muudetakse ja sõnastatakse järgmiselt:
+3) paragrahvi 48 lõike 1 punkt 2 muudetakse ja sõnastatakse järgmiselt:
 
 «2) eriarstiabi osutamise ruumid, sisseseade või aparatuur ei vasta käesoleva seaduse alusel kehtestatud nõuetele;»;
 
-- paragrahvi 48 lõiget 1 täiendatakse punktiga 2 2  järgmiselt:
+4) paragrahvi 48 lõiget 1 täiendatakse punktiga 2² järgmiselt:
 
-«2 2 ) iseseisvalt õendusabi osutamise ruumid, sisseseade, aparatuur, töövahendid või ravimid ei vasta käesoleva seaduse alusel kehtestatud nõuetele;».
+«2²) iseseisvalt õendusabi osutamise ruumid, sisseseade, aparatuur, töövahendid või ravimid ei vasta käesoleva seaduse alusel kehtestatud nõuetele;».
 
 #### § 120.  Tubakaseaduse muutmine
 
@@ -2388,15 +2386,15 @@ Põhikooli- ja gümnaasiumiseaduse § 87 lõikes 6 asendatakse tekstiosa «10 00
 
 #### § 127.  Seaduse jõustumine
 
-- Seadus jõustub 2010. aasta 1. septembril.
+(1) Seadus jõustub 2010. aasta 1. septembril.
 
-- Käesoleva seaduse § 7 lõige 6 ja § 105 punkt 21 jõustuvad 2011. aasta 1. septembril.
+(2) Käesoleva seaduse § 7 lõige 6 ja § 105 punkt 21 jõustuvad 2011. aasta 1. septembril.
 
-- Käesoleva seaduse § 126 jõustub päeval, mis on kindlaks määratud Euroopa Liidu Nõukogu otsuses Eesti Vabariigi suhtes kehtestatud erandi kehtetuks tunnistamise kohta Euroopa Liidu toimimise lepingu artikli 140 lõikes 2 sätestatud alusel.
-
-https://www.riigiteataja.ee/akt/13332410
+(3) Käesoleva seaduse § 126 jõustub päeval, mis on kindlaks määratud Euroopa Liidu Nõukogu otsuses Eesti Vabariigi suhtes kehtestatud erandi kehtetuks tunnistamise kohta Euroopa Liidu toimimise lepingu artikli 140 lõikes 2 sätestatud alusel.
 
 Riigikogu esimees Ene ERGMA
+
+https://www.riigiteataja.ee/akt/13332410
 
 30/31
 
@@ -2406,7 +2404,7 @@ Riigikogu esimees Ene ERGMA
 
 2/25/2020
 
-Põhikooli- ja gümnaasiumiseadus - Riigi Teataja
+Põhikooli- ja gümnaasiumiseadus – Riigi Teataja
 
 https://www.riigiteataja.ee/akt/13332410
 
