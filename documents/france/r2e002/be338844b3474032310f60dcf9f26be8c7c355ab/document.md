@@ -2,33 +2,52 @@
 
 # Convention interministérielle
 
-# pour l'égalité entre les filles et les garçons , les femmes et les hommes
+# pour l'égalité entre les filles et les garçons, les femmes et les hommes
 
 # dans le système éducatif
 
 2013-2018
 
+Liberté • Égalité • Fraternité
+RÉPUBLIQUE FRANÇAISE
+
+MINISTÈRE DE L'ÉDUCATION NATIONALE
+MINISTÈRE DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE
+MINISTÈRE DU TRAVAIL, DE L'EMPLOI, DE LA FORMATION PROFESSIONNELLE ET DU DIALOGUE SOCIAL
+MINISTÈRE DES DROITS DES FEMMES
+MINISTÈRE DE L'AGRICULTURE, DE L'AGROALIMENTAIRE ET DE LA FORÊT
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
 1
 
 ## SOMMAIRE
 
-.
+Préambule 2
 
-.
+1. Acquérir et transmettre une culture
+de l'égalité entre les sexes 4
 
-.
+2. Renforcer l'éducation au respect mutuel et à l'égalité entre les filles
+et les garçons, les femmes et les hommes 6
 
-.
+3. S'engager pour une plus grande mixité des filières de formation
+et à tous les niveaux d'étude 9
 
-.
+4. Mise en œuvre de la convention 11
 
-.
+Annexe du ministère de l'éducation nationale
+et du ministère délégué chargé de la réussite éducative 13
+
+Annexe du ministère de l'enseignement supérieur
+et de la recherche 17
+
+Annexe du ministère de l'agriculture, de l'agroalimentaire
+et de la forêt 21
 
 [[END OF PAGE 2]]
 
@@ -36,7 +55,7 @@ convention interministérielle pour l'égalité entre les filles et les garçons
 
 2
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
 Depuis 1989, « les écoles, les collèges, les lycées et les établissements d'enseignement supérieur […] contribuent à favoriser la mixité et l'égalité entre les hommes et les femmes, notamment en matière d'orientation. […] Ils assurent une formation à la connaissance et au respect des droits de la personne ainsi qu'à la compréhension des situations concrètes qui y portent atteinte. […] Les écoles, les collèges et les lycées assurent une mission d'information sur les violences et une éducation à la sexualité.» (Article L. 121-1 du code de l'éducation).
 
@@ -50,15 +69,15 @@ Préjugés et stéréotypes sexistes, ancrés dans l'inconscient collectif, sont
 
 La présente convention est porteuse d'une vision partagée : la réussite de tous et toutes, élèves, apprentis ou étudiants, qui est au cœur de la mission du service public, suppose de créer les conditions pour que l'École porte à tous niveaux le message de l'Égalité entre les filles et les garçons et participe à modifier la division sexuée des rôles dans la société. Cela nécessite que :
 
- la réussite scolaire des filles contribue pleinement à la construction de l'égalité professionnelle entre les femmes et les hommes. L'éducation à l'égalité, au respect mutuel et la lutte contre toutes les formes de violence à l'école s'inscrivent dans la perspective d'une forte mobilisation contre les représentations sexistes ;
+- la réussite scolaire des filles contribue pleinement à la construction de l'égalité professionnelle entre les femmes et les hommes. L'éducation à l'égalité, au respect mutuel et la lutte contre toutes les formes de violence à l'école s'inscrivent dans la perspective d'une forte mobilisation contre les représentations sexistes ;
 
- l'éducation à la sexualité , dans toutes ses dimensions, soit assurée pour les filles et les garçons. Les savoirs scientifiques issus des recherches sur le genre, les inégalités et les stéréotypes doivent nourrir les politiques publiques mises en place pour assurer l'égalité effective entre filles et garçons, femmes et hommes.
+- l'éducation à la sexualité, dans toutes ses dimensions, soit assurée pour les filles et les garçons. Les savoirs scientifiques issus des recherches sur le genre, les inégalités et les stéréotypes doivent nourrir les politiques publiques mises en place pour assurer l'égalité effective entre filles et garçons, femmes et hommes.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
 3
 
@@ -72,11 +91,11 @@ Le ministère de l'éducation nationale, le ministère délégué chargé de la 
 
 Celle-ci est articulée autour de trois chantiers prioritaires qui seront déclinés dès 2013.
 
-- Acquérir et transmettre une culture de l'égalité entre les sexes
+1. Acquérir et transmettre une culture de l'égalité entre les sexes
 
- Renforcer l'éducation au respect mutuel et à l'égalité entre les filles et les garçons, les femmes et les hommes
+2. Renforcer l'éducation au respect mutuel et à l'égalité entre les filles et les garçons, les femmes et les hommes
 
- S'engager pour une plus grande mixité des filières de formation et à tous les niveaux d'étude
+3. S'engager pour une plus grande mixité des filières de formation et à tous les niveaux d'étude
 
 Ce fort engagement interministériel dans le système éducatif n'est pas isolé. Il est accompagné par d'autres engagements ambitieux pour l'égalité entre les femmes et les hommes qui seront mis en en œuvre dans le domaine de la culture, du sport, des médias, des violences faites aux femmes, etc.
 
@@ -92,7 +111,7 @@ Considérant l'ensemble de ces éléments, les parties s'engagent par la présen
 
 4
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
 ## 1. Acquérir et transmettre une culture de l'égalité entre les sexes
 
@@ -126,7 +145,7 @@ En ce sens, les parties s'engagent à :
 
 [[START OF PAGE 6]]
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
 5
 
@@ -160,13 +179,13 @@ C'est pourquoi :
 
 6
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
 la  question du genre et aborderont concrètement la mise en œuvre de la promotion de l'égalité entre les femmes et les hommes et de la lutte contre les stéréotypes sexistes ;
 
-en  lien  avec  l'ESENESR, l'ENFA et AGROSUP Dijon, des actions spécifiques de formation continue des personnels de direction de l'enseignement scolaire et supérieur et des personnels d'inspection seront mises en place pour les  inciter  à  impulser  des  politiques  d'établissements  et  développer des actions autour de la promotion de l'égalité ;
+- en lien avec l'ESENESR, l'ENFA et AGROSUP Dijon, des actions spécifiques de formation continue des personnels de direction de l'enseignement scolaire et supérieur et des personnels d'inspection seront mises en place pour les inciter à impulser des politiques d'établissements et développer des actions autour de la promotion de l'égalité ;
 
-les personnels de direction et de ressources humaines de l'enseignement supérieur se verront proposer des formations à l'égalité entre les femmes et les hommes ;
+- les personnels de direction et de ressources humaines de l'enseignement supérieur se verront proposer des formations à l'égalité entre les femmes et les hommes ;
 
 - en s'appuyant sur la Charte pour l'égalité femmes/hommes, élaborée et ratifiée  par  la  Conférence  des  présidents  d'universités  (CPU),  celles  des directeurs d'écoles d'ingénieurs (CDEFI) et des grandes écoles (CGE), l'ensemble des établissements d'enseignement supérieur mettra en place des actions de formation au genre et à l'égalité entre les femmes et les hommes.
 
@@ -182,7 +201,7 @@ L'éducation à la sexualité occupe une place de premier ordre dans ce disposit
 
 [[START OF PAGE 8]]
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
 7
 
@@ -220,7 +239,7 @@ En ce sens, les parties s'engagent à :
 
 8
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
 ### 2.3 Prendre appui sur une éducation à la sexualité effective pour développer l'égalité entre les sexes et l'accès à la contraception
 
@@ -252,7 +271,7 @@ convention interministérielle pour l'égalité entre les filles et les garçons
 
 [[START OF PAGE 10]]
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
 9
 
@@ -282,9 +301,9 @@ En ce sens, les parties s'engagent à :
 
 10
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
-- Au  sein  des  établissements  scolaires,  assurer  la  promotion  de  l'égalité entre les filles et les garçons dans l'accès aux formations et aux métiers au travers notamment des parcours d'information, d'orientation et de découverte du monde économique et professionnel mis en œuvre dès la 6 e .
+- Au sein des établissements scolaires, assurer la promotion de l'égalité entre les filles et les garçons dans l'accès aux formations et aux métiers au travers notamment des parcours d'information, d'orientation et de découverte du monde économique et professionnel mis en œuvre dès la 6e.
 
 ### 3.2  Veiller  à  exclure  tout  stéréotype  sexiste  dans  l'information délivrée sur les métiers et les filières de formation
 
@@ -314,7 +333,7 @@ convention interministérielle pour l'égalité entre les filles et les garçons
 
 [[START OF PAGE 12]]
 
-convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif 2013/2018
+convention interministérielle pour l'égalité entre les filles et les garçons, les femmes et les hommes dans le système éducatif - 2013/2018
 
 11
 
@@ -330,14 +349,14 @@ La présente convention est signée pour une durée de cinq années et pourra ê
 
 Une évaluation de l'action de chaque ministère ainsi qu'un bilan de l'activité interministérielle sont réalisés six mois avant la date d'échéance de cette convention.
 
-Fait le, annexe du ministère de l'éducation nationale et du ministère délégué chargé de la réussite éducative mise en œuvre 2012-2013
+Fait le,
 
- Le ministre de l'éducation nationale |  La ministre des droits des femmes, porte-parole du Gouvernement
+Le ministre de l'éducation nationale | La ministre des droits des femmes, porte-parole du Gouvernement
 --- | ---
 Vincent PEILLON | Najat VALLAUD-BELKACEM
- Le ministre du travail, de l'emploi de la formation professionnelle et du dialogue social |  Le ministre de l'agriculture, de l'agroalimentaire et de la forêt
+Le ministre du travail, de l'emploi de la formation professionnelle et du dialogue social | Le ministre de l'agriculture, de l'agroalimentaire et de la forêt
 Michel SAPIN | Stéphane LE FOLL
- La ministre de l'enseignement supérieur et de la recherche |  La ministre déléguée chargée de la réussite éducative
+La ministre de l'enseignement supérieur et de la recherche | La ministre déléguée chargée de la réussite éducative
 Geneviève FIORASO | George PAU-LANGEVIN
 
 [[END OF PAGE 12]]
@@ -349,6 +368,7 @@ Geneviève FIORASO | George PAU-LANGEVIN
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+annexe du ministère de l'éducation nationale et du ministère délégué chargé de la réussite éducative - mise en œuvre 2012-2013
 
 ## Annexe du ministère de l'éducation nationale et du ministère délégué chargé de la réussite éducative
 
@@ -362,7 +382,7 @@ Mise en œuvre 2012-2013
 
 14
 
-annexe du ministère de l'éducation nationale et du ministère délégué chargé de la réussite éducative mise en œuvre 2012-2013
+annexe du ministère de l'éducation nationale et du ministère délégué chargé de la réussite éducative - mise en œuvre 2012-2013
 
 L'annexe  a  pour  objectif  de  présenter  les  thèmes  de  travail  prioritaires correspondant à une déclinaison de la convention.
 
@@ -372,9 +392,9 @@ L'année 2012-2013 est celle de l'inauguration de cette nouvelle convention. Les
 
 - travailler à une forte intégration de la thématique dès l'école primaire ;
 
- inscrire la thématique de l'égalité dans le référentiel de la formation du personnel enseignant, d'éducation et d'orientation ;
+- inscrire la thématique de l'égalité dans le référentiel de la formation du personnel enseignant, d'éducation et d'orientation ;
 
- renforcer l'éducation au respect mutuel, notamment dans les séances annuelles d'éducation à la sexualité ;
+- renforcer l'éducation au respect mutuel, notamment dans les séances annuelles d'éducation à la sexualité ;
 
 - mobiliser l'ensemble de la communauté éducative.
 
@@ -386,7 +406,7 @@ Inscrire des modules sur l'égalité filles/garçons dans la formation des perso
 
 Intégrer l'égalité filles/garçons dans le référentiel de compétences de la formation du personnel enseignant, d'éducation et d'orientation.
 
-Inscrire dans le plan national de formatio n un séminaire sur les stéréotypes de genre dans l'éducation.
+Inscrire dans le plan national de formation un séminaire sur les stéréotypes de genre dans l'éducation.
 
 #### 1.2  Agir sur les programmes
 
@@ -402,15 +422,17 @@ Transmettre une lettre de cadrage au Conseil supérieur des programmes afin que 
 
 Mettre en place un groupe de travail sur l'éducation à la sexualité en milieu scolaire.
 
-Ce groupe aura pour mission de tracer les grandes lignes d'un plan d'actions. Les propositions pourront entre autres servir de base à l'élaboration d'une charte nationale d'intervention en milieu scolaire et à l'actualisation de la circulaire du 17 février 2003 relative à l'éducation à la sexualité dans les écoles, les collèges et les lycées.
+Ce groupe aura pour mission de tracer les grandes lignes d'un plan d'actions. Les propositions pourront entre autres servir de base à l'élaboration d'une charte nationale d'intervention en milieu scolaire et à l'actualisation de
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-annexe du ministère de l'éducation nationale et du ministère délégué chargé de la réussite éducative mise en œuvre 2012-2013
+annexe du ministère de l'éducation nationale et du ministère délégué chargé de la réussite éducative - mise en œuvre 2012-2013
 
 15
+
+la circulaire du 17 février 2003 relative à l'éducation à la sexualité dans les écoles, les collèges et les lycées.
 
 À partir de l'état des lieux de l'existant, le groupe devra déterminer les conditions nécessaires à la mise en œuvre effective des séances dans les établissements et proposer des solutions innovantes. Le rôle des partenaires sera précisé et accentué de manière à ce qu'ils fassent partie intégrante du dispositif qui sera présenté à l'issue des travaux.
 
@@ -440,13 +462,13 @@ Intégrer la problématique de l'égalité filles garçons dans les actions de s
 
 16
 
-annexe du ministère de l'éducation nationale et du ministère délégué chargé de la réussite éducative mise en œuvre 2012-2013
+annexe du ministère de l'éducation nationale et du ministère délégué chargé de la réussite éducative - mise en œuvre 2012-2013
 
 ### 3. S'engager pour une mixité plus forte dans toutes les filières de formation et à tous les niveaux d'étude
 
 #### 3.1 Comprendre pour agir
 
-- Lancer une étude sur les facteurs qui contribuent au maintien des inégalités filles/garçons dans l'orientation en lien avec la DEPP .
+- Lancer une étude sur les facteurs qui contribuent au maintien des inégalités filles/garçons dans l'orientation en lien avec la DEPP.
 
 - Faire connaitre le travail de la commission du conseil scientifique de la DGESCO qui vise à renforcer le lien recherche/politique publique.
 
@@ -481,7 +503,7 @@ Mise en œuvre 2012-2013
 
 18
 
-annexe du ministère de l'enseignement supérieur et de la recherche mise en œuvre 2012-2013
+annexe du ministère de l'enseignement supérieur et de la recherche - mise en œuvre 2012-2013
 
 L'annexe a pour objectif de présenter les actions que le MESR entend mener en 2012-2013 selon les axes de travail définis par la Convention. Elle est valable pour une année, mais peut être modifiée ou complétée à tout moment.
 
@@ -505,13 +527,13 @@ Intégrer l'égalité femmes-hommes dans le dialogue contractuel (contrats quinq
 
 - Faire connaître et diffuser les conclusions du groupe stratégique genre.
 
-#### 3  Prévoir  des  formations  à  l'égalité  et  de  déconstruction  des stéréotypes de genre dans le cahier des charges de la formation des personnels enseignants, d'éducation et d'orientation
+#### 1.3 Prévoir des formations à l'égalité et de déconstruction des stéréotypes de genre dans le cahier des charges de la formation des personnels enseignants, d'éducation et d'orientation
 
 Intégrer, à l'occasion du renouvellement du cahier des charges de la formation initiale des personnels d'enseignement et d'orientation, un module obligatoire  de  formation relatif  à  la  déconstruction  des  stéréotypes  de genre et à l'égalité entre les sexes.
 
 ### 2. Renforcer l'éducation au respect mutuel et à l'égalité entre les filles et les garçons, les femmes et les hommes
 
-#### 1 Mieux connaître et prévenir les situations liées aux comportements et violences à caractère sexiste et sexuel dans le système éducatif
+#### 2.1 Mieux connaître et prévenir les situations liées aux comportements et violences à caractère sexiste et sexuel dans le système éducatif
 
 Intégrer la question des violences sexistes dans les actions et dispositifs de lutte contre le bizutage.
 
@@ -519,7 +541,7 @@ Intégrer la question des violences sexistes dans les actions et dispositifs de 
 
 [[START OF PAGE 20]]
 
-annexe du ministère de l'enseignement supérieur et de la recherche mise en œuvre 2012-2013
+annexe du ministère de l'enseignement supérieur et de la recherche - mise en œuvre 2012-2013
 
 19
 
@@ -539,7 +561,7 @@ Engager un travail avec les services universitaires de médecine préventive et 
 
 ### 3. S'engager pour une mixité plus forte dans toutes les filières de formation
 
-#### 1  Renforcer  la  connaissance  des  parcours  d'études  des  filles et des garçons et de leur insertion professionnelle, assurer leur visibilité et définir des objectifs pour l'action
+#### 3.1 Renforcer la connaissance des parcours d'études des filles et des garçons et de leur insertion professionnelle, assurer leur visibilité et définir des objectifs pour l'action
 
 - Organiser un colloque scientifique sur la question de l'orientation des filles après la licence 3.
 
@@ -574,7 +596,7 @@ Mise en œuvre 2012-2013
 
 22
 
-annexe du ministère de l'agriculture, de l'agroalimentaire et de la forêt mise en œuvre 2012-2013
+annexe du ministère de l'agriculture, de l'agroalimentaire et de la forêt - mise en œuvre 2012-2013
 
 L'annexe a pour objectif de présenter les thèmes de travail prioritaires correspondant à une déclinaison de la convention.
 
@@ -582,15 +604,15 @@ Elle est valable pour une année, mais peut être modifiée ou complétée à to
 
 Pour l'année 2012-2013, les principaux axes de travail principal sont :
 
- inscription de la thématique de l'égalité dans le cahier des charges de la formation des enseignants ;
+- inscription de la thématique de l'égalité dans le cahier des charges de la formation des enseignants ;
 
- renforcer l'éducation au respect mutuel, notamment dans les séances annuelles d'éducation à la sexualité ;
+- renforcer l'éducation au respect mutuel, notamment dans les séances annuelles d'éducation à la sexualité ;
 
- inciter les régions à développer et promouvoir et à mutualiser des actions innovantes ;
+- inciter les régions à développer et promouvoir et à mutualiser des actions innovantes ;
 
 - informer et diffuser l'information sur cette thématique ;
 
- travailler avec les différents publics de l'enseignement agricole : élèves, apprenti(e)s et stagiaires de la formation continue.
+- travailler avec les différents publics de l'enseignement agricole : élèves, apprenti(e)s et stagiaires de la formation continue.
 
 ### 1. Mettre en place une culture commune de l'égalité entre les sexes
 
@@ -598,7 +620,7 @@ Pour l'année 2012-2013, les principaux axes de travail principal sont :
 
 - Réalisation  un  document  pédagogique à  destination  des  équipes  intégrant  des témoignages, des présentations d'outils  et  d'actions  ainsi  que  le  regard  d'experts.
 
-#### 2  Prévoir  des  formations  à  l'égalité  et  à  la  déconstruction  des stéréotypes sexistes dans la formation des personnels enseignants, d'éducation et d'orientation.
+#### 1.2 Prévoir des formations à l'égalité et à la déconstruction des stéréotypes sexistes dans la formation des personnels enseignants, d'éducation et d'orientation.
 
 - Sensibiliser  tous  les  enseignants aux  représentations  sexistes  des femmes dans les médias, dans le cadre du plan national de formation.
 
@@ -620,7 +642,7 @@ Pour l'année 2012-2013, les principaux axes de travail principal sont :
 
 [[START OF PAGE 24]]
 
-annexe du ministère de l'agriculture, de l'agroalimentaire et de la forêt mise en œuvre 2012-2013
+annexe du ministère de l'agriculture, de l'agroalimentaire et de la forêt - mise en œuvre 2012-2013
 
 23
 
@@ -630,7 +652,7 @@ Dresser un état des lieux concernant la mise en œuvre dans les établissements
 
 Mettre en place un dispositif de pilotage et de suivi opérationnel en relation avec l'éducation nationale.
 
-Mettre en place des actions pédagogiques en direction des élèves pour lutter contre ces stéréotypes de genre: exposition de femmes en situation professionnelle  traditionnellement  masculines,  concours  sur  ce  thème, débats avec utilisation du quiz et des outils créés par le réseau insertionégalité de l'enseignement agricole.
+Mettre en place des actions pédagogiques en direction des élèves pour lutter contre ces stéréotypes de genre: exposition de femmes en situation professionnelle traditionnellement masculines, concours sur ce thème, débats avec utilisation du quiz et des outils créés par le réseau insertion-égalité de l'enseignement agricole.
 
 Recenser et diffuser les expériences innovantes et bonnes pratiques en matière d'information et d'éducation à la sexualité dans l'institution scolaire.
 
@@ -660,7 +682,7 @@ Promouvoir les prix de la mixité, mis en œuvre notamment par le ministère des
 
 24
 
-annexe du ministère de l'agriculture, de l'agroalimentaire et de la forêt mise en œuvre 2012-2013
+annexe du ministère de l'agriculture, de l'agroalimentaire et de la forêt - mise en œuvre 2012-2013
 
 - Développer des actions avec les branches professionnelles peu féminisées afin  d'élargir  le  choix  d'orientation  des  filles,  plus  particulièrement dans  les  domaines  de  l'agroalimentaire  et  de  l'agroéquipement  secteurs pourvoyeurs d'emplois.
 
