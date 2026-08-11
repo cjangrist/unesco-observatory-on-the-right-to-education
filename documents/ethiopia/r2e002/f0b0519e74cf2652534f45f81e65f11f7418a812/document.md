@@ -8,25 +8,27 @@ d.F.~1A ";J~T ;JrLlIJ
 
 FEDERAL NEGARITGAZETA
 
-OF THE FEDERAL DEMOCRAnC REPUBUC OF ETHIOPIA
+OF THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
 
 RI\. +r-A-, L.".~'e ...'fDht-t\.r'e~T-of\h ,,...,,-0 ,." r1Ic 0.+ mqt~+ f'dJII, ADDIS AB~A:~ ~O. 2 h, 62004 arc
 
 # CONTENTS
 
-Proclamation No.391 /2004 Technical and Vocational Education and Training Proclamation P e 2552
+Proclamation No.391 /2004
+Technical and Vocational Education and Training
+Proclamation..........Page 2552
 
 # PROCLAMATION NO. 391/2004 PROCLAMATION TO PROVIDE FOR THE ORGANIZATION OF A TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING SYSTEM
 
-WHEREAS, it is deemed necessary. to enable the country's production, trade and service rendering establishments have a competitive and enduring organizational set up through the employment of trained manpower;
+WHEREAS, it is deemed necessary to enable the country's production, trade and service rendering establishments have a competitive and enduring organizational set up through the employment of trained manpower;
 
-WHEREAS, it is found necessary to organize a technical and vocational education and training system that would assist the yonger generation to be prepared psychologically, have discipline and the potential to work competentemployeeand creator of work;
+WHEREAS, it is found necessary to organize a technical and vocational education and training system that would assist the yonger generation to be prepared psychologically, have discipline and the potential to work competent employee and creator of work ;
 
 WHEREAS, to ensure that a technical and vocational education and training program produces capable manpower, it is deemed necessary to establish a system under which trainees undergo apprenticeship training in the productive and service rendering enterprise;
 
-WHEREAS, it is found necessary to establish a uniform system for the determination of levels of competence and accreditation. of training institutions and for the certification of trainees;
+WHEREAS, it is found necessary to establish a uniform system for the determination of levels of competence and accreditation of training institutions and for the certification of trainees;
 
-t;J~"" ;JII."I?"."'.. .,' n. I Negarlt G. P.O.Box 80001
+t;J~"" ;JII."I?"."'.. .,' n. I Negarit G. P.O.Box 80001
 
 ~. A ~~~~ I . + 'PC , I~--." n~.. n ..., .. _-"1oA1t
 
@@ -56,10 +58,8 @@ r-l:hlh'i 00-J' "'I"'Am'l'i "'~"'I"" ~t.~ :fID,"tdJ(a'O+''iT ,)ID-~'i r"tJ'11-0+
 
 ~~ ~;J6+ ;J1f."l 4I1'C II '''-1:+ II +'J IIlIU 't."
 
-Federal Negarit Gazeta No. 26 III March, 2004
-
+Federal Negarit Gazeta No. 26 1st March, 2004
 Page
-
 2553
 
 I
@@ -84,9 +84,9 @@ r ~ft. "111-a ~" :"C1-r r"!.Y(amt& tJAIT~ Oh.,.+C OIlU ,,«p~ t&hT
 
 - fl "lPAIIl:>tj"o,t\:" r1:h~he; 00.y iJt&+ :".. hut\o:" t\OOc}(ar m,er t\"7""OC O"7(aAm~ .,.*r O"!.(aT r1:h~h" 00. Y :"ruc:".. FAm" OOClJ .,-ac r"!.l) .,.If: .,t\(a-a "7t\:" ~t&;
 
-WHEJlEAS, to ensure the success of technical and vocational education and training, it has been found necessary to establish a, mechanism providing for the participation of governmental and non-governmental organizations in the preparation of training programs and curricula as well as in their evaluation and management;
+WHEREAS, to ensure the success of technical and vocational education and training, it has been found necessary to establish a mechanism providing for the participation of governmental and non-governmental organizations in the preparation of training programs and curricula as well as in their evaluation and management;
 
-NOW, THEREFORE, in accordance with Articles 51SubArticle (3)andArticles 55SubArticle(l) ofthe Constitutionof the Federal DemocraticRepublic of Ethiopia,it is herebyproclaimed as follows:
+NOW, THEREFORE, in accordance with Articles 51 Sub Article (3) and Articles 55 Sub Article(1) of the Constitution of the Federal Democratic Republic of Ethiopia, it is hereby proclaimed as follows:
 
 # PART ONE GENERAL
 
@@ -98,11 +98,11 @@ This Proclamation may be cited as the "Technical and Vocational Education and Tr
 
 In this Proclamation unless the context otherwise requires:
 
-- 1/ "Training means" any technicaJ and vocational education and training provided through formal or non-formal program leading to a certificate or a college doploma and it also include competence earned through work experience and attested by the test of professional competance;
+- 1/ "Training means" any technical and vocational education and training provided through formal or non-formal program leading to a certificate or a college doploma and it also include competence earned through work experience and attested by the test of professional competance;
 
-- 2/ "Training institution" means a public or private institution, or one owned by a nongovernmental organization, and also include college which offer ftainig to which a preaccreditation license or an accreditation certificate is issued by the appropriate Accrediting Authority to engage in the provision of technical and vocation education antraining;
+- 2/ "Training institution" means a public or private institution, or one owned by a non-governmental organization, and also include college which offer frainig to which a pre-accreditation license or an accreditation certificate is issued by the appropriate Accrediting Authority to engage in the provision of technical and vocation education antraining;
 
-- 3/ "Trainee" means a person wh~ participates in technical and vocational education and training program provided by a training institution with a view to acquiring or upgradinghis technical and vocationalskills;
+- 3/ "Trainee" means a person who participates in technical and vocational education and training program provided by a training institution with a view to acquiring or upgrading his technical and vocational skills;
 
 [[END OF PAGE 2]]
 
@@ -214,7 +214,7 @@ I
 
 - 14/ "Government" means the Federal Government or a State;
 
-- 15/ "State" means any Iegion recognized as a State under Article 47 (1) of the Constitution of the Federal Democratic Republic of Ethiopia and for the purpose of this proclamation of also includes the Addis Ababa City Administration and the Dire Dawa Administation Council;
+- 15/ "State" means any region recognized as a State under Article 47 (1) of the Constitution of the Federal Democratic Republic of Ethiopia and for the purpose of this proclamation of also includes the Addis Ababa City Administration and the Dire Dawa Administation Council;
 
 - 16/ "Office" means the Technical and Vocational Education and Training Sector of the Ministry of Education;
 
@@ -236,9 +236,9 @@ I
 
 - 25/ "Head of a training institutions" means a person assigned as a director or designated at the same Level for a training institution.
 
-### Scop, of Application
+### 3. Scope of Application
 
-This' Proclamation shall apply to all instihftions organizations and the implementing the same. training organs
+This Proclamation shall apply to all training institutions organizations and the organs implementing the same.
 
 I
 
@@ -290,9 +290,9 @@ fODIPl..:t-'e 00- ~ ~Am'i Tc-"7t-SJD 'M"7 If,.-)T' O~"76 flt\oo- ~~T O"7(aAm' I\
 
 fODI\ia""~ -th~h'i 00-~ rAm'i Tc-"7t-SJD fJ"'" fOD~OD6~ 1.l..)f TSJDUl..T' "m'i+cII tDffl-f-:rrAm'i OODiamT OODI\ia""~ 1.l..)f f(al\m~ flI\OO- ~ "'~t-T .e1T'iA::
 
-# PART TWO TECHNICAL AND VOCA TIONAL EDUCATION AND TRANING PROGRAMS
+# PART TWO TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING PROGRAMS
 
-## SECTION ONE BASIC VOCATIONAL TRANING PROGRAMS
+## SECTION ONE BASIC VOCATIONAL TRAINING PROGRAMS
 
 ### 4. Purpose of the training program
 
@@ -310,7 +310,7 @@ Areas of training included in Basic Vocational Training Program. may be selected
 
 ### 7. Methods and language of training
 
-- 11 Basic Vocational Training Program may be carried out through non-formal methods.
+- 1/ Basic Vocational Training Program may be carried out through non-formal methods.
 
 - 2/ The language in which Basic Vocational Training may be provided shall be determined by the Regional state.
 
@@ -376,7 +376,7 @@ The number of hours required for and the length of duration of the training shal
 
 ### 12. Method and language of training
 
-- 11 Junior Technical Jnd Vocational Training Program shall be 80% based on practice and 20% on theory.
+- 1/ Junior Technical Jnd Vocational Training Program shall be 80% based on practice and 20% on theory.
 
 - 2/ The State may determine apprenticeship training to be undergone taking into account the local objective conditions and the nature of the training.
 
@@ -428,9 +428,9 @@ Federal NegaritGazeta No. 26 }" March, 2004
 
 ### 14. Criteria for admission
 
-- 1 I Persons qualifying to be admitted t(' Middle Level Technical and Vocational Education and Training Program shall have completed general secondary education and have the inclination and the will to be so trained.
+- 1/ Persons qualifying to be admitted tc Middle Level Technical and Vocational Education and Training Program shall have completed general secondary education and have the inclination and the will to be so trained.
 
-- 21 Notwithstanding the provision of Sub-Article 1 of this Article, persons who have completed Junior Technical and Vocational Education and obtained a certificate therefore, have work experience of two years, and can produce evidence that they fulfill the profile of completion of general secondary education, or have passed the theoretical and practical test prepared for the purpose, may be admitted to Middle Level Technical and Vocational Education and Training Program.
+- 2/ Notwithstanding the provision of Sub-Article 1 of this Article, persons who have completed Junior Technical and Vocational Education and obtained a certificate therefore, have work experience of two years, and can produce evidence that they fulfill the profile of completion of general secondary education, or have passed the theoretical and practical test prepared for the purpose, may be admitted to Middle Level Technical and Vocational Education and Training Program.
 
 ### 15. Duration of training
 
@@ -440,13 +440,13 @@ The Office, in consultation with the Council, shall determine the number of hour
 
 - 1/ Middle level technical and vocational education and training undertaken in training institutions shall comprise 70% practice and 30% theoretical education.
 
-- 21 Every trainee shall undergo apprenticeship training to reinforce his skills.
+- 2/ Every trainee shall undergo apprenticeship training to reinforce his skills.
 
-- 31 If a trainee interrupts his training after completing a certain level of skills, he may resume and complete the training any time he so desires.
+- 3/ If a trainee interrupts his training after completing a certain level of skills, he may resume and complete the training any time he so desires.
 
-- 41 The training may be carried out through formal or non-formal programs.
+- 4/ The training may be carried out through formal or non-formal programs.
 
-- 51 Courses may be selected from the prescribed curriculum, and training provided to those who wish to upgrade their skills through nonformal programs.
+- 5/ Courses may be selected from the prescribed curriculum, and training provided to those who wish to upgrade their skills through non-formal programs.
 
 [[END OF PAGE 7]]
 
@@ -456,11 +456,9 @@ The Office, in consultation with the Council, shall determine the number of hour
 
 t'..l\ ~:J,6.}o :m."I "'1'C ~~ ftJ-t.}o ~f Ijjfj~ ',9"
 
-FederalNegaritGazeta No. 26 I st March, 2004
-
+Federal Negarit Gazeta No. 26 1st March, 2004
 Page
-
-25
+2559
 
 ""J
 
@@ -502,19 +500,19 @@ Page
 
 ### 18. Common courses
 
-- 1/ For all areas of training falling under Middle Level Technical and Vocational Education and Training Program. Courses that prepare trainees for entrepreneurship and selfemployment as well as enable them for continued training shall be provided.
+- 1/ For all areas of training falling under Middle Level Technical and Vocational Education and Training Program. Courses that prepare trainees for entrepreneurship and self-employment as well as enable them for continued training shall be provided.
 
-- 2/ Without prejudice to the provision of SubArticle 1 hereof, every training institution shall, in respect of all areas of training falling under the program, provide:
+- 2/ Without prejudice to the provision of Sub-Article 1 hereof, every training institution shall, in respect of all areas of training falling under the program, provide:
 
-- Information and communication technology courses;
+- a) Information and communication technology courses;
 
-- Mathematics courses;
+- b) Mathematics courses;
 
-- English language courses;
+- c) English language courses;
 
-- Civics and ethics courses;
+- d) Civics and ethics courses;
 
-- Courses on entrepreneurship.
+- e) Courses on entrepreneurship.
 
 [[END OF PAGE 8]]
 
@@ -524,10 +522,8 @@ Page
 
 6-&\ '1;J6-1-;JfLfrJ 4r'l'C 3'1 r"1;-13'f +, liinl 'J.9"
 
-FederalNegarit Gazeta No. 26 1'1Mal"ch,2004
-
+Federal Negarit Gazeta No. 26 1st March, 2004
 Page
-
 2560
 
 - 31 ~ULT C1.i: f'f'm:t»i:,) ...,. ')tat; -th'i /toil AI:1TA ').'ltJ.SJD f'UlI~-I'f"I{)',) ~it"'T ODlP~T 0"71:~""1 OIlU J\,) +~ ')o-ta J\ ')+~ fl FC f'-I'H~H~T') TSJDUC-fT "7?1?1A "TitA::
@@ -546,11 +542,7 @@ Page
 
 The Office shall, in consultation with employers and other concerned parties, and on the basis of pre-determined occupational standards, determine apprenticeship program for every occupation.
 
-### ft. OPt:. I\.e fA"''''~ '''t/)+4~C&~~ n" lID'"L....
-
-### Organizations participating in a apprenticeship training
-
-~:hLT C1.i: O"tfmlllt& ODODt,ft; ODtaLCT ODlPl.T hAt\. FAlll') f'f"lmt& J\I1A f'FIr it.e A SJDSJD I: f'''tf"lmI:C)!--fT') .eODCIllA .eODH""1f1A::
+### 20. Organizations participating in a apprenticeship training
 
 A body empowered by the State shall, based on guidelines and criteria determined by the office, select organizations that shall participate in the provision of apprenticeship training.
 
@@ -560,15 +552,15 @@ Every organization selected for apprenticeship training shall have duties and re
 
 - 1/ To receive and provide apprenticeship training to trainees;
 
-- 21 To assign the apprentice in the place appropriate to his training and to ensure that the apprentice acquires proper work experience;
+- 2/ To assign the apprentice in the place appropriate to his training and to ensure that the apprentice acquires proper work experience;
 
-- 31 To assign a capable supervisor who would enhance the knowledge and skills of the apprentice, and should follow up and evaluate the day-to-day performance of the apprentice.
+- 3/ To assign a capable supervisor who would enhance the knowledge and skills of the apprentice, and should follow up and evaluate the day-to-day performance of the apprentice.
 
-- 41 To acquaint the apprentice with work rules and methods of the organization;
+- 4/ To acquaint the apprentice with work rules and methods of the organization;
 
-- 51 To consider the trainee as a regular employee and to provide him the necessary inputs;
+- 5/ To consider the trainee as a regular employee and to provide him the necessary inputs;
 
-- 61 To respect and enforce human dignity of the apprentice;
+- 6/ To respect and enforce human dignity of the apprentice;
 
 ### fl!. f'~C)!--fT +""IflClf ~itd.~T
 
@@ -594,11 +586,9 @@ lil f"lAllli'fT') -I'+lI/to "7t\"7ODI:;
 
 6-A ~;J6+ .?It.tIl ofI"'C 3'1 rtJ1:+ 3'1 +'} I.itfU 'UD
 
-Federal Negarit Gazeta No.~6 1" March, 2004 ...
-
-Page.
-
-256]
+Federal Negarit Gazeta No. 26 1st March, 2004 ...
+Page
+2561
 
 - il rTft"7"7:(' rFIr "'~""9" l1:1»T 00019"19" t&m.i: ft"7(aAm~ 1'*00. "7"'1',\ ft (j: I
 
@@ -632,7 +622,7 @@ iiI I' Fir '\" A9"9"~' OT;JT "7hljtD'I
 
 - 7/ To evaluate the. performance of the opprentice and transmiate the results to the training institution.
 
-- 8/ by inspecting the skill that the trinee acquired forward opinion to the concerned organ as to the competency of the instition.
+- 8/ by inspecting the skill that the trinee acquired forward opinion to the conccrned organ as to the competency of the instition.
 
 - 9/ To cooperate and work in coordination with training institutions;
 
@@ -640,7 +630,7 @@ iiI I' Fir '\" A9"9"~' OT;JT "7hljtD'I
 
 Regarding apprenticeship traning, every training institution shall have duties and responsibilities as provided hereunder:
 
-- 11 To assign a coordinator who shall follow up and control apprenticeship training undergone by trainees;
+- 1/ To assign a coordinator who shall follow up and control apprenticeship training undergone by trainees;
 
 - 2/ To prepare operational guidelines and detailed programs and for their implementation, to cooperate and work in coordination with organizations;
 
@@ -652,7 +642,7 @@ Regarding apprenticeship traning, every training institution shall have duties a
 
 Every apprentice shall have duties and responsibilities as provided hereunder:
 
-- 11 To diligently perform the apprenticeship training;
+- 1/ To diligently perform the apprenticeship training;
 
 - 2/ To utilize with care and economy tools, equipment and materials supplied to him for training purposes
 
@@ -707,19 +697,19 @@ OO,)"I~:r~I f'"lA "'I OO,)"I~:r~ l1A(f~ 1:C~T l1t\o.T~T f'~tJ~1: "7')~l&'r "7(aA
 
 ### 24. Contract of apprenticeship
 
-Contract of apprenticeship shall be concluded among a training'institution, an organization and an apprentice, and shall contain the following
+Contract of apprenticeship shall be concluded among a training' institution, an organization and an apprentice, and shall contain the following
 
-- Full name and age of the apprentice;
+- a) Full name and age of the apprentice;
 
-- Name and address of the training institution:
+- b) Name and address of the training institution:
 
-- Name and address of the organization;
+- c) Name and address of the organization;
 
-- The occupation in which the apprentice is intended to undergo apprenticeship training;
+- d) The occupation in which the apprentice is intended to undergo apprenticeship training;
 
-- The date on which the apprenticeship shall start and its duration; and
+- e) The date on which the apprenticeship shall start and its duration; and
 
-- Conditions for the termination of the contract of apprenticeship.
+- f) Conditions for the termination of the contract of apprenticeship.
 
 # PART FOUR ON THE ESTABLISHMENT AND OPERATION OF TRAINING INSTITUTIONS
 
@@ -741,11 +731,9 @@ Any public or private training institution or one owned by a nongovernmental org
 
 &-A.~;J&.'J;m,<l! <liTC tl ftJ1;.'J- tr .,., IuU& <J.9"
 
-FederalNegaritGazeta No. 26 1stMarch,2004
-
+Federal Negarit Gazeta No. 26 1st March, 2004
 Page
-
-2S
+2563
 
 - rl r~lAe; oo'}~P':r«e I1lAlY~ f:C~"'"f l1"o.+~+ r"tI1~~ r"?OlAm~ +*"?+ "'ft"t**OO-O+ LJ.~:r h~I111~+ fft(& 0"7 +4.~"t f,lYe;/A::
 
@@ -791,17 +779,17 @@ No training institution shall assign a person as a trainer of the institution un
 
 Every training institution shall have:
 
-- Head of training institution
+- a) Head of training institution
 
-- Trainers and
+- b) Trainers and
 
-- Technical support staff.
+- c) Technical support staff.
 
 ### 30. Joint employment of professionals
 
 - 1/ Notwithstanding any provision of law to the contrary, a qualified professional may, in addition to his regular post, be employed by training institutions as a trainer.
 
-- 2/ The days and hours of work and other conditions of work of a person engaged as a trainer pursuant to the provisions of SubArticle 1 hereof may be determined by agreements he concludes with every employer.
+- 2/ The days and hours of work and other conditions of work of a person engaged as a trainer pursuant to the provisions of Sub-Article 1 hereof may be determined by agreements he concludes with every employer.
 
 [[END OF PAGE 12]]
 
@@ -849,13 +837,13 @@ Page
 
 ### 32. Accrediting powers
 
-- 1/ The Ministry shall have powers to issue pre-accreditation license and accreditation certificate to any training institution operated under the guidance and control of any organ of the Federal Government or owned by a foreign investor or a nongovernmental organization incorporated in accordance with the laws of a foreign state.
+- 1/ The Ministry shall have powers to issue pre-accreditation license and accreditation certificate to any training institution operated under the guidance and control of any organ of the Federal Government or owned by a foreign investor or a non-governmental organization incorporated in accordance with the laws of a foreign state.
 
 - 2/ Without prejudice to the provisions of Sub-Article 1 hereof, the State shall have powers to issue a pre-accreditation license and an accreditation certificate to any training institutions and colleges owned by the regional state organ or domestic non-governmental organization and by domostoc investor.
 
 ### 33. Application for pre-accreditation license
 
-- 1/ A person desiring to obtain a preaccreditation license for a training institution shall submit an application to the Accrediting Authority containing information specified under Article 34 of this Proclamation.
+- 1/ A person desiring to obtain a pre-accreditation license for a training institution shall submit an application to the Accrediting Authority containing information specified under Article 34 of this Proclamation.
 
 [[END OF PAGE 13]]
 
@@ -899,31 +887,29 @@ lPI I'J\"th "'A"17?"T OO+O.f OOOOII~ J
 
 - 2/ If the applicant is a foreign investor or a person registered as a domestic investor, he shall along with the application, submit the investment certificate issued to him by the relevant authority.
 
-- 3/ If the applicant is a nongovernmental organization, it shall, along with the application, submit a valid certificate of registration issued to it by the relevant authority.
+- 3/ If the applicant is a non-governmental organization, it shall, along with the application, submit a valid certificate of registration issued to it by the relevant authority.
 
 - 4/ The office may, through directives, determine information and evidence other those specified under Article 33 and 34 of this Proclamation to be submitted.
 
 ### 34. Contents of application for a pre-accreditation license
 
-An application submitted pursuant SubArticle (1) of Article 33 of this Proclamation shall contain:
+An application submitted pursuant Sub-Article (1) of Article 33 of this Proclamation shall contain:
 
-- The proposed name and chief address of the training institution, and the area of training and programs intended to be undertaken;
+- a) The proposed name and chief address of the training institution, and the area of training and programs intended to be undertaken;
 
-- The name and address of owners of the training institution;
+- b) The name and address of owners of the training institution;
 
-- The name and address of the organ to which the training institution is accountable;
+- c) The name and address of the organ to which the training institution is accountable;
 
-- The organizational set up regarding the management of academic & administrative affairs;
+- d) The organizational set up regarding the management of academic & administrative affairs;
 
-i
+- e) The admission criteria applicable to new trainees;
 
-- Ie) The admission criteria applicable to new trainees;
+- f) The details of the training institution's training facilities and equipment, library, furniture and other amenities, equipment and implements and ownership thereof;
 
-- The details of the training institution's training facilities and equipment, library, furniture and other amenities, equipment and implements and ownership thereof;
+- g) The number and qualification of trainers and technical support staff of the training institution available and intended to be employed;
 
-- The number and qualification of trainers and technical support staff of the training institution available and intended to be employed;
-
-- The training institution's three-year plan.
+- h) The training institution's three-year plan.
 
 [[END OF PAGE 14]]
 
@@ -934,10 +920,8 @@ i
 &-A ~;J6.}o ;J/f,ll/ <IITC ?II rtJi;.}o till .,., IiW!1 'J.9"
 
 Federal Negarit Gazeta No. 26 1st March, 2004
-
 Page
-
-25
+2566
 
 ### 1JJl;. r:" ~OD_iJm-:"C; L:J-~ f"7.."'~OT 1J.~;f'C; ",.,. f"2." .eO T "lll.
 
@@ -963,17 +947,17 @@ Page
 
 - 1/ The Accrediting Authority shall issue within 15 working days a pre-accreditation license upon ascertaining that:
 
-- The equipment listed in the declaration attached to the application submitted by the applicant are actually available and may be utilized for training purposes;
+- a) The equipment listed in the declaration attached to the application submitted by the applicant are actually available and may be utilized for training purposes;
 
-- The curriculum is congruent with the standard set for the program in respect of which the application is submitted;
+- b) The curriculum is congruent with the standard set for the program in respect of which the application is submitted;
 
-- The applicant has fulfilled the requirements determined by directives issued by the Office for the implementation of this Proclamation.
+- c) The applicant has fulfilled the requirements determined by directives issued by the Office for the implementation of this Proclamation.
 
 - 2/ A newly established training institution which has applied for a pre-accreditation license, or an accredited institution which has applied to upgrade its standard or to provide training in fields other than for which it has been shall, for a period of one year, operate under a pre-accreditation license;
 
-- 3/ A training institution to which a preaccreditation license has been issued shall sign and submit to the Accrediting Authority an act of undertaking to fulfill unmet requirements within the validity period of its license. The act of undertaking shall be executed in a form designed by the Accrediting Authority.
+- 3/ A training institution to which a pre-accreditation license has been issued shall sign and submit to the Accrediting Authority an act of undertaking to fulfill unmet requirements within the validity period of its license. The act of undertaking shall be executed in a form designed by the Accrediting Authority.
 
-- 4/ If a training institution according to this article Sub Article (2) is not accredited upon the expiry of the validity period of its preaccreditation license, determined or extended pursuant to the provisions of this Article, its pre-accreditation license shall be revoked. Provided further that the Accrediting Authority shall cause a statement to be made in the media that the pre-accreditation license of such a training institution has been revoked.
+- 4/ If a training institution according to this article Sub Article (2) is not accredited upon the expiry of the validity period of its pre-accreditation license, determined or extended pursuant to the provisions of this Article, its pre-accreditation license shall be revoked. Provided further that the Accrediting Authority shall cause a statement to be made in the media that the pre-accreditation license of such a training institution has been revoked.
 
 [[END OF PAGE 15]]
 
@@ -1019,29 +1003,29 @@ OIlU 1\tp~ OOlPl..T fay"o'f' r:J.("00-/Jl&:J-e; L~ .(":
 
 - rl 1\;"'/"'T 0.1: htryooAh~l& ;JC -I'.f.e Hl& 00:J-l..11 ray" 111 Tl& 1 00" 1\6l>}.sP":f c; try {} l..)f sP":f 1 ray" (I)'"1 00 00 t,.f tryl&1llT .e":f"\A::
 
-- 5/ Where the Accrediting Authority rejects the application submitted to it pursuant to the provisions of Artiele 33 hereof, it shall within thirty (30) days notify the same in writing to the applicant stating its reasons therefore.
+- 5/ Where the Accrediting Authority rejects the application submitted to it pursuant to the provisions of Article 33 hereof, it shall within thirty (30) days notify the same in writing to the applicant stating its reasons therefore.
 
 - 6/ The owner of a training institution whose pre-accreditation license has been revoked shall within seven (7) days inform the trainees of the revocation of the license.
 
-- 7/ the cancellation of the pre-qccredation permit of the training institution shall not rendered the training offered up to the form of cancellation valueless shll
+- 7/ the cancellation of the pre-accredation permit of the training institution shall not rendered the training offered up to the form of cancellation valueless shll
 
 ### 36. Contents of a pre-accreditation license
 
 A pre-accreditation license issued by the Accrediting Authority pursuant to the provisions of this Proclamation shall bear:
 
-- The name and address of the training institution;
+- a) The name and address of the training institution;
 
-- The standard prescribed for the institution the accredited training programs as well as areas of training and the number of trainees;
+- b) The standard prescribed for the institution the accredited training programs as well as areas of training and the number of trainees;
 
-- Date of issue of the license and the last date of its validity period;
+- c) Date of issue of the license and the last date of its validity period;
 
-- Name and signature of the authorized official signing thereon;
+- d) Name and signature of the authorized official signing thereon;
 
-- Seal of the Accrediting Authority.
+- e) Seal of the Accrediting Authority.
 
 ### 37. Application for accreditation
 
-- 11 A training institution operating under a preaccreditation license may apply to the Accrediting Authority for accreditation.
+- 1/ A training institution operating under a pre-accreditation license may apply to the Accrediting Authority for accreditation.
 
 - 2/ An application for accreditation shall contain information specified under Article 34 of this Proclamation.
 
@@ -1055,11 +1039,9 @@ A pre-accreditation license issued by the Accrediting Authority pursuant to the 
 
 irA ' ;16T ;1/tfJ/ 4lTC ?;~ rtli:T ?;!l .,., :(jjr~~ 'UD
 
-Federal Negarit Gazeta No 26 I" March, 2004...
-
+Federal Negarit Gazeta No. 26 1st March, 2004...
 Page
-
-256
+2568
 
 ### ~t. U.GK 11"+ T O? t. ;J~~J/L"-~:t5 fO?.()'I'OT tJ. ~:r
 
@@ -1095,7 +1077,7 @@ Page
 
 ### 39. Renewal of Accreditation certificate
 
-- 1 I An accreditation certificate of any training institution shall be valid for a period of three years starting from the date of issue thereof.
+- 1/ An accreditation certificate of any training institution shall be valid for a period of three years starting from the date of issue thereof.
 
 .
 
@@ -1143,7 +1125,7 @@ I
 
 - 4/ Where the Accrediting Authority rejects the application, it shall inform the same in writing to the applicant stating its reasons therefore.
 
-- 5/ Directives as may be issued by the Office shall determine the contents of the application for rent:wal of an accreditation certificate as well as declarations and evidence to be attached thereto.
+- 5/ Directives as may be issued by the Office shall determine the contents of the application for renewal of an accreditation certificate as well as declarations and evidence to be attached thereto.
 
 ### 40. Issuance of a substitute accreditation certificate
 
@@ -1155,7 +1137,7 @@ I
 
 ### 41. Revocation of accreditation
 
-- 11 The Accrediting Authority may revoke an accreditation certificate on any of the following grounds:
+- 1/ The Accrediting Authority may revoke an accreditation certificate on any of the following grounds:
 
 [[END OF PAGE 18]]
 
@@ -1189,15 +1171,15 @@ f()m-Cf»1f L?1:") ODlP~lI f,";f"A::
 
 ...
 
-- Where it is proved that the accreditation was obtained upon submission of false information',
+- a) Where it is proved that the accreditation was obtained upon submission of false information;
 
-- Where the accredited training institution fails, in case of noncompliance with the prescribed standards relating to its accreditation or violation of the provisions of this Proclamation, or Regulations or directives issued for the implementation of this Proclamation, to take corrective measures within a specified time limit following a written notice or warning given to it by the Accrediting Authority.
+- b) Where the accredited training institution fails, in case of non-compliance with the prescribed standards relating to its accreditation or violation of the provisions of this Proclamation, or Regulations or directives issued for the implementation of this Proclamation, to take corrective measures within a specified time limit following a written notice or warning given to it by the Accrediting Authority.
 
-- Where the training institution itself or the juridical under which the institution is operated.
+- c) Where the training institution itself or the juridical under which the institution is operated.
 
-- 2/ If the training institution whose accreditation has .been revoked carries out formal training program, the decision taken to revoke its accreditation pursuant to this Article Sub Article (1) shall be effective at the conclusion of the current training period. However, the time so allowed for the completion of the training may not exceed one year.
+- 2/ If the training institution whose accreditation has been revoked carries out formal training program, the decision taken to revoke its accreditation pursuant to this Article Sub Article (1) shall be effective at the conclusion of the current training period. However, the time so allowed for the completion of the training may not exceed one year.
 
-- 3/ The Accrediting Authority shall cause a statement to be made in the media that the accreditation certificate of said training institution has be~n revoked.
+- 3/ The Accrediting Authority shall cause a statement to be made in the media that the accreditation certificate of said training institution has been revoked.
 
 - 4/ A training institution whose accreditation has been revoked or which has ceased to operate shall, within fifteen days of the occurrence of such event, submit its accreditation certificate to be marked "Cancelled by the Accrediting Authority" .
 
@@ -1241,11 +1223,11 @@ r:" ~oo-lJ~:,.e; L? I: tD ~IJD rlJ~:,.e; L? I: r"'f'1mf& r", lPlAm"i'j .,.*IJD r
 
 ### 42. Display of license and certificate
 
-A training institution issued with a preaccreditation license or an accreditation certificate shall display the original of such a license or certificate in a conspicuous place within the administration office of the institution wherein the document is easily read.
+A training institution issued with a pre-accreditation license or an accreditation certificate shall display the original of such a license or certificate in a conspicuous place within the administration office of the institution wherein the document is easily read.
 
 ### 43. Follow-up and inspection
 
-- 11 The Accrediting Authority may follow up and inspect a training institution to ascertain that the institution is providing training in compliance with the conditions applicable to its accreditation and the requirements prescribed for its standard, and to take administrative measures as provided in this Proclamation.
+- 1/ The Accrediting Authority may follow up and inspect a training institution to ascertain that the institution is providing training in compliance with the conditions applicable to its accreditation and the requirements prescribed for its standard, and to take administrative measures as provided in this Proclamation.
 
 - 2/ An inspector appointed by the Accrediting Authority shall have power to inspect any training institution during working hours to ascertain that the institution is providing training in compliance with the conditions applicable to its accreditation and the requirements prescribed for its standard.
 
@@ -1255,7 +1237,7 @@ A training institution issued with a preaccreditation license or an accreditatio
 
 ### 44. License and accreditation fee
 
-- 11 The Accrediting Authority shall have powers to collect fee in respect of the issuance of a pre-accreditation license or an accreditation certificate, renewal of an accreditation certificate as well as the issuance of a substitute for any certificate to private training institutions or institutions operated by non-governmental organizations.
+- 1/ The Accrediting Authority shall have powers to collect fee in respect of the issuance of a pre-accreditation license or an accreditation certificate, renewal of an accreditation certificate as well as the issuance of a substitute for any certificate to private training institutions or institutions operated by non-governmental organizations.
 
 [[END OF PAGE 20]]
 
@@ -1295,27 +1277,27 @@ Page
 
 - f(\i}+ '}ou+ 11+rl F~m'l TC'"I&.SJU i\m'l~~ foPt}ht\"i'/ f1t\00-I ft1l\.~ -'lTt\olPJ::
 
-- 2/' The fee payable for pre'-accreditation1icenses or accreditation ...~ertificates.issued by the. Ministry shaH be detenriined by the Council of Ministers. .'
+- 2/ The fee payable for pre-accreditation licenses or accreditation certificates issued by the Ministry shall be determined by the Council of Ministers.
 
 # PART SIX CERTIFICATION AND TRADE TESTING
 
 ### 45. Types of training certificates
 
-- 11 Trainees who have undergone various technical and vocational education and training programs, whether fonnal or nonfonnal, if through evaluation criteria applied by the training institution, they are found meeting the profiles prescribed for various levels of training, they shall be issued certificates evidencing completion of the training.
+- 1/ Trainees who have undergone various technical and vocational education and training programs, whether formal or non-formal, if through evaluation criteria applied by the training institution, they are found meeting the profiles prescribed for various levels of training, they shall be issued certificates evidencing completion of the training.
 
-- 2/ Certificates to be issued for the various levels of training have been detennined as follows:
+- 2/ Certificates to be issued for the various levels of training have been determined as follows:
 
-- Basic Level Certificate: for those who meet requirements of the profile for basic vocational training;
+- a) Basic Level Certificate: for those who meet requirements of the profile for basic vocational training;
 
-- Junior Level Technical Vocational Certificate: for those who meet the requirements of the profile for Junior Technical and Vocational Education and Training;
+- b) Junior Level Technical Vocational Certificate: for those who meet the requirements of the profile for Junior Technical and Vocational Education and Training;
 
-- For those who meet the requirements of the profile for Middle Level Technical and Vocational Education and Training:
+- c) For those who meet the requirements of the profile for Middle Level Technical and Vocational Education and Training:
 
-- 11 For those who have completed one year /10+11 training program: Middle Level Technical Nocational Certificate Level I;
+- 1/ For those who have completed one year /10+1/ training program: Middle Level Technical /Vocational Certificate Level I;
 
-- 2/ For those who have completed two years (10+2) training programs: Middle Level TechnicalN ocational Certificate Level II;
+- 2/ For those who have completed two years (10+2) training programs: Middle Level Technical/Vocational Certificate Level II;
 
-- 3/ For those who have completed three . years /10+3/ training programs: MIddle Level TechnicalNocational College Diploma.
+- 3/ For those who have completed three years /10+3/ training programs: Middle Level Technical/Vocational College Diploma.
 
 [[END OF PAGE 21]]
 
@@ -1363,15 +1345,15 @@ Page
 
 - 11 Occupational standards shall be determined by the appropriate bodies.
 
-- 21 Occupational standards determined pW'suant to the provision of Sub Article 1 hereof shall be the basis for setting occupational training standards as well as for trade testing.
+- 2/ Occupational standards determined pursuant to the provision of Sub Article 1 hereof shall be the basis for setting occupational training standards as well as for trade testing.
 
 ### 47. National trade testing system
 
 - 1/ The Office shall issue directives providing for the accreditation of trade testing centers and the carrying out of a trade testing system.
 
-- 21 The Office shall cause trade testing centers to be organized by selecting competent institutions ftom among training institutions accredited at least at college diploma level.
+- 2/ The Office shall cause trade testing centers to be organized by selecting competent institutions from among training institutions accredited at least at college diploma level.
 
-- 31 Any person who has, through formal or nonformal program, completed or has the necessarey knwoladge and work experiance technical and vocational training may undergo a trade testing.
+- 3/ Any person who has, through formal or non-formal program, completed or has the necessarey knwoladge and work experiance technical and vocational training may undergo a trade testing.
 
 [[END OF PAGE 22]]
 
@@ -1395,7 +1377,7 @@ Page
 
 ...
 
-- 4/ The Offic.e shall... iss~e directiyes which determine the organization and operation. of a Trade Test Items Bank and follow up their implementation.
+- 4/ The Office shall issue directives which determine the organization and operation of a Trade Test Items Bank and follow up their implementation.
 
 - 5/ The Ministry or a body authorized by it shall award qualification certificates having nationwide recognition to those who so qualify in a trade testing.
 
@@ -1421,15 +1403,15 @@ f"7,;;:a>-r OO'"7F:J-lf "70Am;;: +*r f1'"11 r,tiJ!' hOO'"7FT fOOf.OO~l1 O~ T'i f
 
 - lil Ooot}hl\;;: ~~J{ i;h~h'i 00-1 fOOf./O l\T' "7,;;:a>-r OO'"7F:J-lf +*r hIPA"l?f"T f FAm'i h~1 foool1ol1'i 010.a>fOOm+r OOl1:r- hl\a>-:
 
-- 2/ Every public training institution shall have internal [mancial autonomy.
+- 2/ Every public training institution shall have internal financial autonomy.
 
-- 3/ Notwithstanding the provision of Sub Article (1) hereof, the States may grant financial autonomy to public training institutions operated under their organs in a manner similar to those provided under articles 48 through 53 ofthis part seven.
+- 3/ Notwithstanding the provision of Sub Article (1) hereof, the States may grant financial autonomy to public training institutions operated under their organs in a manner similar to those provided under articles 48 through 53 of this part seven.
 
 ### 49. Sources of fund
 
 The sources of fund of every public training institution shall be annual budget and subsidy allocated by the Government, training tuition fee collected from trainees, the institution's internal income as well as donations and assistance the institution may receive.
 
-### 50. Collection and utilization of training fee tuition
+### 50. Collection and utilization of training tuition fee
 
 - 1/ Every public Middle Level Technical and Vocational Education and Training institution shall have powers to collect and to utilize training tuition fee.
 
@@ -1485,25 +1467,25 @@ Page
 
 - 2/ The amount and the manner of collection of the training tuition fee determined pursuant to the provision of Sub Article (1) hereof shall, before being implemented, be approved by the Council of Ministers.
 
-- 3/ Any decision to increase or alter the manner of collection of any training tuition fee properly approved may be effected only upon obtaining an approval thereon pursuant to the '" provision of Sub Article (2) hereof.
+- 3/ Any decision to increase or alter the manner of collection of any training tuition fee properly approved may be effected only upon obtaining an approval thereon pursuant to the provision of Sub Article (2) hereof.
 
 ### 51. Right to generate and utilize income
 
-- 1/ Every public training institution shall have the right to undertake income-generating. activities and to utilize any income therefrom.
+- 1/ Every public training institution shall have the right to undertake income-generating activities and to utilize any income therefrom.
 
 - 2/ Notwithstanding the provisions of any law which may provide otherwise, every public training institution shall have the right to utilize the income it generates and to utilize any residue of any such income beyond any budget year.
 
-- 3/ The funds, property as well employees of any public training institution to which the [mancial autonomy provided under this Part Seven applies shall be administered in a manner ensuring transparency and accountability .
+- 3/ The funds, property as well employees of any public training institution to which the financial autonomy provided under this Part Seven applies shall be administered in a manner ensuring transparency and accountability .
 
 ### 52. Books of Accounts
 
-- 1/ Without prejudice to the provisions of any other law, any public training institution shall keep accurate and complete books of accounts and supporting doc~ents.
+- 1/ Without prejudice to the provisions of any other law, any public training institution shall keep accurate and complete books of accounts and supporting documents.
 
 - 2/ Without prejudice to the provision of Sub Article (1) thereof, every public training institution shall register and keep:
 
-- All incomes ofthe institutions and their sources;
+- a) All incomes of the institutions and their sources;
 
-- Expenditures of the institution;
+- b) Expenditures of the institution;
 
 [[END OF PAGE 24]]
 
@@ -1543,7 +1525,7 @@ Page
 
 - jl/ It,.. T tt:TY'e Olf~ OD,}1f: FAmlf "7"71:J':fl&'} f~t'lm-TSJD FAmlf9'T fU1~-I:,} fA"7T TASJDlf ft'l"m~ ft'll& ;}~A tt:""'T'} ODlPl.T J'~l.'" ODlflf:fl&'} ODh:J'+A;
 
-- Balance sheet and cash flow statements.
+- c) Balance sheet and cash flow statements.
 
 - 3/ Regarding the implementation of the obligation provided under this Article Sub Article (2) the budget year of the institution shall be the budget year of the Government.
 
@@ -1565,7 +1547,7 @@ The Office shall have the following GENERAL objectives:
 
 - 1/ To cause technical and vocational education and training to be properly organized and to ensure its quality and continuity with the aim of realizing the country's objectives for economic and social growth;
 
-- 2/ To follow up toot all citizens receive training in an equitable manner and that all training programs are based on the country's development strategy and the needs of the labour market;
+- 2/ To follow up that all citizens receive training in an equitable manner and that all training programs are based on the country's development strategy and the needs of the labour market;
 
 [[END OF PAGE 25]]
 
@@ -1575,7 +1557,7 @@ The Office shall have the following GENERAL objectives:
 
 ~/I\ '1;J6.}- ;J1f.I1J ."'C ~I rt)-t.}- n +, lliln 'U"
 
-FederalNegaritGazeta No. 26 }st March,2004
+Federal Negarit Gazeta No. 26 1st March, 2004
 
 Page
 
@@ -1605,31 +1587,29 @@ Page
 
 - ill f F&. ".e 1A9"9".(" hL~"9" 000061 P'"f'} IlD"l1A I 1""111&.'£ ~'}-'ttf~ 11.C;JIA;
 
-...
-
-- 31 To build national capacity which enhances research and training regarding the technical and vocational education and training sector.
+- 3/ To build national capacity which enhances research and training regarding the technical and vocational education and training sector.
 
 ### 56. Powers and duties of the Office
 
 The Office shall have powers and duties as provided hereunder:
 
-- 11 To prepare the country's strategy for technical and vocational education and training and, when approved, to cause its implementation;
+- 1/ To prepare the country's strategy for technical and vocational education and training and, when approved, to cause its implementation;
 
-- 21 To determine standards for technical and vocational education and training on the basis of the country's economic development and growth strategy.
+- 2/ To determine standards for technical and vocational education and training on the basis of the country's economic development and growth strategy.
 
-- 31 To issue directives for the organization of middle level technical and vocational education and training programs, to prepare occupational training standards and curricula for the same, and to follow up the implementation of the same;
+- 3/ To issue directives for the organization of middle level technical and vocational education and training programs, to prepare occupational training standards and curricula for the same, and to follow up the implementation of the same;
 
-- 41 To issue directives regarding the operation and accreditation of training institutions and to follow up their implementation;
+- 4/ To issue directives regarding the operation and accreditation of training institutions and to follow up their implementation;
 
-- 51 To organize trade testing systems and to supervise their operations;
+- 5/ To organize trade testing systems and to supervise their operations;
 
-- 61 To issue directives for a certifications system of nationwide application and to follow up their implementation;
+- 6/ To issue directives for a certifications system of nationwide application and to follow up their implementation;
 
-- 71 To study and follow up that technical and vocational education and training programs are carried out in line with the country's development strategy and human resource needs;
+- 7/ To study and follow up that technical and vocational education and training programs are carried out in line with the country's development strategy and human resource needs;
 
-- 81 To cause researches to be undertaken in the area of technical and vocational education and training;
+- 8/ To cause researches to be undertaken in the area of technical and vocational education and training;
 
-- 91 To issue directives for the implementation of apprenticeship training and to follow up their implementation;
+- 9/ To issue directives for the implementation of apprenticeship training and to follow up their implementation;
 
 [[END OF PAGE 26]]
 
@@ -1637,11 +1617,11 @@ The Office shall have powers and duties as provided hereunder:
 
 ~A.);J6-1.?tLtrl ."'(: 3'1 fl)1;+ 3'1 .,., Iilfn <J.9"
 
-FederalNegaritGazeta No. 26 1stMarch, 2004
+Federal Negarit Gazeta No. 26 1st March, 2004
 
 Page
 
-25
+2578
 
 1'"
 
@@ -1675,19 +1655,19 @@ t)t&,}I1t\hH.u O;r"f V1'ooith1:.}. 1''7flCe; ~"4C.~.y.."f ~li~;rIA:-
 
 - itl V 00. ~ h'tfto.}. ~lAme; F.t.1f ?DF.fl'}T Voo.~ 1I~.}. ?DHe;e; V?DI1hC tDt. ~.}. "''''fll'f''} 1
 
-,,1 01 toca~se tracer study to be carried out with a view to ensuring the effectiveness of training programs;
+- 10/ to cause tracer study to be carried out with a view to ensuring the effectiveness of training programs;
 
 - 11/ To render assistance to the States with a view to ensuring the effectiveness of their technical and vocational education and training programs;
 
-- 121 To facilitate the participation of private investors in the area of technical and vocational education and training;
+- 12/ To facilitate the participation of private investors in the area of technical and vocational education and training;
 
-- 131 To devise a system under which women, handicapped people and the young States are afforded special attention as regards technical and vocational education and training.
+- 13/ To devise a system under which women, handicapped people and the young States are afforded special attention as regards technical and vocational education and training.
 
 - 14/To serve as the secretariat for the Council;
 
-- 151 To prepare plan of operations and budget of the office and implementit upon approved;
+- 15/ To prepare plan of operations and budget of the office and implementit upon approved;
 
-- 161 Inconsultation with the presiding over of the council prepare the plane of operation and budget of the council and administer the same upon opproval.
+- 16/ Inconsultation with the presiding over of the council prepare the plane of operation and budget of the council and administer the same upon opproval.
 
 ### 57. Establishment of the Council
 
@@ -1699,13 +1679,11 @@ The Council shall have duties and responsibilities as are provided hereunder:
 
 - 1/ To provide advice and render assistance to the Office to enable the latter carry out its responsibilities;
 
-,
+- 2/ Without prejudice to the generality of the foregoing, the Council shall be advisor to the Office and assist it as regards:
 
-- 21 Without prejudice to the generality of the foregoing, the Council shall be advisor to the Office and assist it as regards:
+- a) The organization and coordination of training programs;
 
-- The organization and coordination of training programs;
-
-- The determination of occupational trainingstandards, trade testing and certification;
+- b) The determination of occupational trainingstandards, trade testing and certification;
 
 [[END OF PAGE 27]]
 
@@ -1715,7 +1693,7 @@ The Council shall have duties and responsibilities as are provided hereunder:
 
 ~ ~;J~+:JIL"l .1'C II rtt-t+ ., IIIID ...r
 
-FederalNegaritGazda No. 26 1- March,2004
+Federal Negarit Gazeta No. 26 1st March, 2004
 
 Page
 
@@ -1755,39 +1733,37 @@ rl I]t&'hh-I
 
 tJl ".,fI-fI I]":ft&roo'''~ oo/o."'T:
 
-"
+- c) The study of training and human resource needs;
 
-- The study of training and human resource needs;
+- d) The establishment of a system enhancing apprenticeship training;
 
-- The establishment of a system enhancing apprenticeship. training;
+- e) The training and upgrading of technical and vocational teachers;
 
-- The training and upgrading of technical and vocational teachers;
+- f) The search and enhancement of sources of fund for training purposes;
 
-- The search and enhancement of sources of fund for training purposes;
+- g) The determination of standards for training institutions and their accreditation;
 
-- The detennination of standards for training institutions and their accreditation;
-
-- Research and tracer study.
+- h) Research and tracer study.
 
 3/ The Council:
 
-- Shall review and comment on the plan of operations of the Office; i
+- a) Shall review and comment on the plan of operations of the Office;
 
-- Shall cause the setting up of a system under which women, handicapped people and the relatively less developed States are afforded special attention as regards techrlical and vocational education and training;
+- b) Shall cause the setting up of a system under which women, handicapped people and the relatively less developed States are afforded special attention as regards technical and vocational education and training;
 
-- Shall cause occupations that shall be held by trained manpower to be studied and identify the same;
+- c) Shall cause occupations that shall be held by trained manpower to be studied and identify the same;
 
-- May establish technical committees as it may deem necessary for"carrying out its responsibilities; \
+- c) May establish technical committees as it may deem necessary for carrying out its responsibilities;
 
-- Shall submit activity reports to the organ to which it is accountable.
+- e) Shall submit activity reports to the organ to which it is accountable.
 
 ### 59. Members of the Council
 
-- 11 The Council shall have 30 members.
+- 1/ The Council shall have 30 members.
 
-- 2/ Without prejudice to the provision of SubArticle (3) hereof, the Minister shall select and assign members of the Council. They shall be selected from:.
+- 2/ Without prejudice to the provision of Sub-Article (3) hereof, the Minister shall select and assign members of the Council. They shall be selected from:
 
-- The relevant government offices;
+- a) The relevant government offices;
 
 [[END OF PAGE 28]]
 
@@ -1797,11 +1773,11 @@ tJl ".,fI-fI I]":ft&roo'''~ oo/o."'T:
 
 IrIA ";l6.}.?/f,fII "''I'C tI~ rt)-f:.}- till +, Iyn~ 'U"
 
-Federal Negarit Gazeta No. 26 1" March, 2004
+Federal Negarit Gazeta No. 26 1st March, 2004
 
 Page
 
-2S80
+2580
 
 /\1 Oh1C h+~ ~l.jf h+'l'+~ f ttlP&sP"f -: flP&.+~e; fOD-y ""I,.,O&'T;
 
@@ -1833,13 +1809,11 @@ O~~"'T~ +ooCmm~oo~flft.::
 
 fl]m-,,..I\hfl~T OIf.U h'l'J!. oolPl.T /\~ YOl.hi:T h1A""1~T hOA ~hL~:f'l'A:: hOI\f~hLAOT ~~7e; f hOI\oom' O~~"'TC""f lJUhC o.T ~mOe;A::
 
-""
+- b) Associations or federations of empoyers, employees or professionals organized at national level;
 
-- Associations or federations of empoyers, employees or professionals organized at national level;
+- c) The relevant non-governmental organizations;
 
-- The relevant non-governmental organizations;
-
-- One or two technical and vocational training institutions;
+- d) One or two technical and vocational training institutions;
 
 - 3/ The head of the organ directing the technical and vocational education and training matters of each State shall be a member of the Council.
 
@@ -1853,7 +1827,7 @@ fl]m-,,..I\hfl~T OIf.U h'l'J!. oolPl.T /\~ YOl.hi:T h1A""1~T hOA ~hL~:f'l'A:: hO
 
 - 3/ Decisions of the Council shall be passed by majority vote of members present at its meeting. In case of a tie, the chairperson shall have a casting vote.
 
-- 4/ In the absence of the chairperson, the vicechairperson shall assume all his functions.
+- 4/ In the absence of the chairperson, the vice-chairperson shall assume all his functions.
 
 - 5/ Without prejudice to the other provisions of this Article, the Council may issue rules to determine its own working procedure.
 
@@ -1867,7 +1841,7 @@ Members of the Council are entitled to be paid allowances for services they rend
 
 irA ~;J6+ ;J/f,1l/ "",C i!~ ftJ-t+ ill +, !i!f~t~ 'J.9"
 
-Federal Negarit Gazeta No. 26 1 s\ March,2004
+Federal Negarit Gazeta No. 26 1st March, 2004
 
 Page
 
@@ -1911,11 +1885,11 @@ A training institution shall keep the records and documents of its head, trainer
 
 - 1/ A training institution shall submit proper information on its activities whenever required to do so by the Accrediting Authority.
 
-- 2/ The Accrediting Authority shall, unless otherwise .provided by law, keep the confidentiality of the information submitted to it pursuant to the provision of Sub Article (I) hereof.
+- 2/ The Accrediting Authority shall, unless otherwise .provided by law, keep the confidentiality of the information submitted to it pursuant to the provision of Sub Article (1) hereof.
 
 ### 65. Increase of training tuition fee
 
-- 11 The training tuition fee collected by a training institution owned and operated by a private investor or a non-governmental organization may not be increased during a regular training period.
+- 1/ The training tuition fee collected by a training institution owned and operated by a private investor or a non-governmental organization may not be increased during a regular training period.
 
 - 2/ Should the training institution decide to increase its training tuition fee, it shall notify the trainees three months before the end of the current regular training period, and such new rates shall be effective as of the beginning of the next regular training period.
 
@@ -1923,7 +1897,7 @@ A training institution shall keep the records and documents of its head, trainer
 
 [[START OF PAGE 31]]
 
-FederalNegaritGazeta No, 26 111 March. 2004
+Federal Negarit Gazeta No. 26 1st March, 2004
 
 Page
 
@@ -1955,11 +1929,9 @@ l\Jlh l\OI1f"1:.}1'1 .", IiifD' ' .r
 
 "'C'" mA~ 1.f"C1.h rl\. .}-f"AJ' 1..F.~"'f F.1"h~"".r'f &T11t\.h T~II."".}-
 
-.
-
 ### 66. Transitory provisions
 
-Any training institution established prior to the coming into force of this Proclamation may, within the time limit prescribed by the Licensing Authority, apply fQraccreditation.
+Any training institution established prior to the coming into force of this Proclamation may, within the time limit prescribed by the Licensing Authority, apply for accreditation.
 
 ### 67. Obligation to cooperate
 
@@ -1977,8 +1949,10 @@ Any laws or directives that are inconsistent with this Proclamation shall not ap
 
 This Proclamation shall come into force on the date of its publication in the Federal Negarit Gazeta.
 
-Done at Addis Ababa this 1stday of March, 2004
+Done at Addis Ababa this 1st day of March, 2004
 
-GIRMA WOLDE GIORGIS PRESIDENT OF THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+GIRMA WOLDE GIORGIS
+PRESIDENT OF THE FEDERAL
+DEMOCRATIC REPUBLIC OF ETHIOPIA
 
 [[END OF PAGE 31]]
