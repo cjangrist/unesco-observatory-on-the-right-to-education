@@ -42,9 +42,9 @@ Final January 2011
 
 # FOREWORD
 
-Given  to  the  Directive  1408/CT-TTg  dated  01/9/2009  by  Prime  Minister  on  the enhancement  of  child  care  and  protection,  MOLISA  has  cooperated  with  lineMinistries to develop National Program for Child Protection for 2011 - 2015, which will be submitted to Prime Minister for approval in 2010.
+Given  to  the  Directive  1408/CT-TTg  dated  01/9/2009  by  Prime  Minister  on  the enhancement  of  child  care  and  protection,  MOLISA  has  cooperated  with  line-Ministries to develop National Program for Child Protection for 2011 - 2015, which will be submitted to Prime Minister for approval in 2010.
 
-With  the  support  from  a  drafting  committee  and  editing  committee  organized  by MOLISA, the  Administration  of  Care  and  Support  for  Children  has  conducted  a study on necessary for a national program for child protection, drafted outline of the program, organized technical meetings, drafted National Program  for Child Protection and organized a national consultation workshop to get inputs from lineMinistries and local authorities. Given to the findings of study and outcomes of the workshops, the experts agreed on the following rationales on developing a National Program for Child Protection for 2011-2015:
+With  the  support  from  a  drafting  committee  and  editing  committee  organized  by MOLISA, the  Administration  of  Care  and  Support  for  Children  has  conducted  a study on necessary for a national program for child protection, drafted outline of the program, organized technical meetings, drafted National Program  for Child Protection and organized a national consultation workshop to get inputs from line-Ministries and local authorities. Given to the findings of study and outcomes of the workshops, the experts agreed on the following rationales on developing a National Program for Child Protection for 2011-2015:
 
 (i) The  renovation  initiated  and  leaded  by  Viet  nam  Party  has  positively influenced to the economy growth which has been increased with more than 7% each  year;  GDP  increased  to  1,300USD  in  2010;  access  to  education, health  care,  safe  water  and  other  social  welfares  also  increased  so  that children's  life  have  been  significantly  improved.  However,  along  with  the development of economy, the disparity between poor and rich has become wider that has resulted in  the unequal opportunity of survival, protection and development for children in special circumstances, children living in poverty and others.
 
@@ -70,7 +70,7 @@ Final January 2011
 
 (viii) Given to the above contexts, it is necessary to develop a National Program for Child Protection for 2011-2015 to promote the prevention of child abuse, violence, maltreatment and exploitation; situation of children in conflict with the law, early marriage, cultural materials with pornography, trafficking and prevention  of  children  falling  in  special  circumstances  and  reduce  ratio  of children  in  special  circumstances  to  total  of  children.  It  is  necessary  to support children in special circumstances to integrate into community, access to equal opportunity of development and ensure the more access of children in special circumstances to child care and protection by 2015.
 
-To  implement  above  objectives,  it  is  necessary  to  implement  a  comprehensive program including activities of communication for awareness raising and behavior change, capacity building, development of service system, development of models to  support  children  in  special  circumstances,  enhancement  of  state  management capacity  and  M&E.  The  prerequisite  conditions  to  implement  the  program  is  that central and local authorities have to allocate budget, reinforce structure of personnel and  establish  mechanism  of  cooperation  in  line  with  the  context  of  our  socialeconomy.
+To  implement  above  objectives,  it  is  necessary  to  implement  a  comprehensive program including activities of communication for awareness raising and behavior change, capacity building, development of service system, development of models to  support  children  in  special  circumstances,  enhancement  of  state  management capacity  and  M&E.  The  prerequisite  conditions  to  implement  the  program  is  that central and local authorities have to allocate budget, reinforce structure of personnel and  establish  mechanism  of  cooperation  in  line  with  the  context  of  our  social-economy.
 
 > 1 Article 41, Law on child care, protection and education, 2004
 
@@ -130,6 +130,8 @@ All  the  above  mentioned  backgrounds  have  created  important  conditions  f
 
 #### 1. Population of children
 
+Table 1:Population of Children for 2001-2009 (Unit: 1000) 9
+
 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Population | 78.686 | 79.727 | 80.902 | 82.032 | 83.120 | 84.137 | 85.155 | 86.211 | 85.790
@@ -138,11 +140,9 @@ Rate % | 34,6 | 33,6 | 32,6 | 31,7 | 30,9 | 29,7 | 28,7 | 27,8 | 27,5
 Male | 14.147 | 13.921 | 13.714 | 13.520 | 13.336 | 13.767 | 13.289 | 12.819 | 12.621
 Female | 13.116 | 12.875 | 12.674 | 12.505 | 12.358 | 11.275 | 11.211 | 11.173 | 11.015
 
-Table 1:Population of Children for 2001-2009 (Unit: 1000) 9
-
 According to General Office of Statistic, Viet nam population has increased from 78,68 million in 2001 to 85,79 in 2009 (ranking at the 13th in the world). However, the population of children has not been increased, but reduced from 27,26 million in 2001 to  26,38  million  in  2003,  to  25,69  in  2005,  to  24,5  million  in  2007  and  to 23,63 in 2009. The ratio of children population has been decreased in comparison to general population from 34,6% in 2001 to 30,9% in 2005 and to 27,5% in 2009.
 
-For the period of 1999-2009, Viet nam had average increase of population at 1,2% each year which was the lowest rate for the past 50 years. In the coming 10 years, Viet nam will be continuously affected by the increase of population. This would be the  second  explosion  of  population  and  children  population  will  be  increased  by 2020, accounting for 30% of population 10
+For the period of 1999-2009, Viet nam had average increase of population at 1,2% each year which was the lowest rate for the past 50 years. In the coming 10 years,
 
 > 7 Source: MOLISA -2009
 
@@ -158,14 +158,16 @@ For the period of 1999-2009, Viet nam had average increase of population at 1,2%
 
 Final January 2011
 
+Viet nam will be continuously affected by the increase of population. This would be the second explosion of population and children population will be increased by 2020, accounting for 30% of population 10
+
 #### 2. Children population by geography
+
+Table 2: Children and population by regions (%)
 
 Red River delta | North East | North West | North of North West | Sounth of North West | High Land | South East Plain | Cuu Long River delta
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Children | 16,34 | 14,01 | 3,77 | 14,60 | 9,52 | 5,56 | 16,17 | 20,03
-Populatio n | 22,82 | 9,72 | 3,18 | 13,09 | 6,84 | 5,95 | 18,37 | 20,02
-
-Table 2: Children and population by regions (%)
+Population | 22,82 | 9,72 | 3,18 | 13,09 | 6,84 | 5,95 | 18,37 | 20,02
 
 The population survey in 2009 revealed that children population was not allocated equally  between  the  regions.  Children  were  mostly  located  in  the  regions  of  Cuu Long River delta (20,3%), Red River delta (16,34%), and South East area (16,17%). Children were least located in North West area (3,77%) and high land (5,56%).
 
@@ -195,7 +197,7 @@ Law  on  Protection,  Care  and  Education  of  children,  promulgated  in  1991
 
 Final January 2011
 
-To implement Law on Child Care, Protection and Education, the Politburo issued Directive  55/2001/CT-BCT  in  2001  to  enhance  the  role  of  Party  at  all  levels  on implementing child care, protection and education.  Government also issued Decree 67/2007/NĐ-CP which was then  amended  into  Decree  13/2009/NĐ-CP  on  social support for people and children. Prime Minister issued Decision 23/2001/QĐ-TTg on the approval for National Program of Action for Children for 2001-2010 which includes  four  key  objectives  on  nutrition,  health  care,  education,  protection  and recreation for children. The Prime Minister also issued Decision 19/2004/QĐ-TTg on the approval for Program on Control and Prevention of Street children, sexually abused children, and children working in  dangerous and hazardous conditions for 2004-2010; Decision 65/2005/QĐ-TTg on the approval for Program on communitybased Care and Support for Children in special circumstances; Decision 84/2009/QĐ-TTg  on  the  approval  for  Program  on  Control  and  Prevention  of children  affected  by  HIV/AIDS  for  2009-2010  and  vision  till  2010;  Decision 37/2010/QĐ-TTg  on  standards  of community  fit to children; and Directive 1408/2009/CT on enhancement of child care and protection.
+To implement Law on Child Care, Protection and Education, the Politburo issued Directive  55/2001/CT-BCT  in  2001  to  enhance  the  role  of  Party  at  all  levels  on implementing child care, protection and education.  Government also issued Decree 67/2007/NĐ-CP which was then  amended  into  Decree  13/2009/NĐ-CP  on  social support for people and children. Prime Minister issued Decision 23/2001/QĐ-TTg on the approval for National Program of Action for Children for 2001-2010 which includes  four  key  objectives  on  nutrition,  health  care,  education,  protection  and recreation for children. The Prime Minister also issued Decision 19/2004/QĐ-TTg on the approval for Program on Control and Prevention of Street children, sexually abused children, and children working in  dangerous and hazardous conditions for 2004-2010; Decision 65/2005/QĐ-TTg on the approval for Program on community-based Care and Support for Children in special circumstances; Decision 84/2009/QĐ-TTg  on  the  approval  for  Program  on  Control  and  Prevention  of children  affected  by  HIV/AIDS  for  2009-2010  and  vision  till  2010;  Decision 37/2010/QĐ-TTg  on  standards  of community  fit to children; and Directive 1408/2009/CT on enhancement of child care and protection.
 
 MOLISA  has  actively  taken  lead  in  instructing  local  authorities  to  implement Decrees,  Decisions  and  Directives  of  Politburo,  Government  and  Prime  Minister. The  Ministry  also  issued  many  legal  documents  to  instruct  local  authorities  in promoting child care and protection, especially prevention and control towards the issues  of  maltreatment,  sexually  abused,  violence;  street  children  and  child  labor. MOLISA also provides leadership in organizing the event of Month for Children from 15 May to 30 June each year to raise awareness on child care and protection, and developing models to support children in special circumstances.
 
@@ -207,7 +209,7 @@ The line Ministries such as MPS, MOET, MOH, MPI, Ministry of Transportation, Min
 
 In most provinces/cities, local authorities have issued instruction and guidelines to implement national Decree, Decision and Directive of Prime Minister and Ministries;  and  also  developed  five  year  plans  and  annual  plans  through  which budgets were allocated to implement the policies, programs and models relating to child care and protection.
 
-In  some  provinces/cities,  local  authorities  have  developed  separate  policies  to implement child  care  and  protection.  For  example,  Quang  Ninh  has  spent  1%  of provincial  budget  used  for  child  care  and  protection  recreation  facilities  and allowance payment for community collaborators. Ninh Thuan province developed policy  to  support  rice  for  ethnic  school  students.  Binh  Duong  issued  policy  to reduce  bus  fee  for  children  with  disability.  Ca  Mau  has  policy  to  support  ferryboard for poor students. Dong Thap, An Giang, Gia lai… have policy to support allowances  for  community  collaborators.  Dien  Bien  has  policy  to  support  ethnic students living in school campus.
+In  some  provinces/cities,  local  authorities  have  developed  separate  policies  to implement child  care  and  protection.  For  example,  Quang  Ninh  has  spent  1%  of provincial  budget  used  for  child  care  and  protection  recreation  facilities  and allowance payment for community collaborators. Ninh Thuan province developed policy  to  support  rice  for  ethnic  school  students.  Binh  Duong  issued  policy  to reduce  bus  fee  for  children  with  disability.  Ca  Mau  has  policy  to  support  ferry-board for poor students. Dong Thap, An Giang, Gia lai… have policy to support allowances  for  community  collaborators.  Dien  Bien  has  policy  to  support  ethnic students living in school campus.
 
 8
 
@@ -229,7 +231,7 @@ Total budget mobilized for child care and protection in 2009 was  193,733 billio
 
 -  Care and support for children in special circumstances have been diversified to address various needs of children. Therefore, the number of children in special circumstances who received care and support has been increased to about 75% for 2001-2010.
 
-- Ratio of children who have received support under the Decree 67/2007/NĐCP or the amended Decree 13/2010/NĐ-CP has been increased twice (increase from
+- Ratio of children who have received support under the Decree 67/2007/NĐ-CP or the amended Decree 13/2010/NĐ-CP has been increased twice (increase from
 
 9
 
@@ -245,7 +247,7 @@ Final January 2011
 
 - More than 10,000 children of sexual abuse and violence have been identified and supported promptly. They have recovered and integrated into community within a short time.
 
--  About 9,000 children of drug abuse have received support for communitybased or institutional drug treatment.
+-  About 9,000 children of drug abuse have received support for community-based or institutional drug treatment.
 
 - More than 90% of children received birth registration .
 
@@ -287,6 +289,8 @@ The  number  of  children  in  special  circumstance  was  1,537,179  in  2009, 
 
 Besides  that  there  are  another  four  groups  of  children  in  difficult  circumstances (they are the children of trafficking, maltreatment, violence; children living in poor family;  and  children  injured)  with  2.75  million  in  2009.  The  total  of  children  in special circumstances and children in difficult circumstances are 4,288,265 children, taking up 5% of population and 18,2% of child population.
 
+Table 3: Children in special circumstances by targets (1000 children) 15
+
 2001 | 2003 | 2005 | 2007 | 2009
 --- | --- | --- | --- | --- | ---
 1. Orphans | 125,4 | 153,8 | 143,0 | 123,4 | 129,6
@@ -294,8 +298,6 @@ Besides  that  there  are  another  four  groups  of  children  in  difficult  c
 3. Child victims of orange agent | 45,550 | 36.120 | 30,150 | 24,745 | 18,794
 4. Children infected HIV | 1,950 | 2,189 | 1.919 | 2,415 | 2,381
 5. Child labor | 30,120 | 35,550 | 68,071 | 26,027 | 25,823
-
-Table 3: Children in special circumstances by targets (1000 children) 15
 
 > 13 Source of MOLISA, 2009
 
@@ -309,6 +311,8 @@ Table 3: Children in special circumstances by targets (1000 children) 15
 
 [[START OF PAGE 12]]
 
+Final January 2011
+
 6. Street children | 21,016 | 17,918 | 17,026 | 16,316 | 22,974
 --- | --- | --- | --- | --- | ---
 7. Sexually abused children | 1,111 | 1,040 | 1,084 | 1,169 | 0,833
@@ -316,8 +320,6 @@ Table 3: Children in special circumstances by targets (1000 children) 15
 9. CICWL* | 11,376 | 14,038 | 12,013 | 12,625 | 15,530
 10. Children working far from family | 1,820 | 2,330 | 2,950 | 3,250 | 3,997
 Total | 1.460,563 | 1.495,035 | 1,527,861 | 1.502,692 | 1.537,179
-
-Final January 2011
 
 The above data reveals that the increase of children in special circumstances is getting reduced. It was 4,6% for 2001-2005, but 0,6% for 2005-2009 0,6%
 
@@ -377,7 +379,7 @@ Number of children of sexually abuse was getting fast increase from 200 in 2005 
 
 ###### 4.3.3. Juveniles in conflict with the laws
 
-The issues of JICWL have been increased from 11,376 JICWL in 2001 to 21,545 JICWL  in  2008.  The  nature  of  crime  has  also  become  more  complicated  as  the special serious crimes such as murders have been found to be increased. Those who completed  sentences  or  education  in  reformatory  school  had  difficulty  in  reintegration.
+The issues of JICWL have been increased from 11,376 JICWL in 2001 to 21,545 JICWL  in  2008.  The  nature  of  crime  has  also  become  more  complicated  as  the special serious crimes such as murders have been found to be increased. Those who completed  sentences  or  education  in  reformatory  school  had  difficulty  in  re-integration.
 
 ###### 4.3.4. Children working far from home
 
@@ -443,7 +445,7 @@ Final January 2011
 
 ##### 5.3. Child protection system in general and network of child protection services in particular are under-developed
 
-To date, Viet nam lacks of a comprehensive child protection system comparing to other  countries,  therefore,  the  prevention,  early  interventions,  recovery  and  reintegration  for  children  in  special  circumstances  have  not  been  effective.  The cooperation in developing an effective child protection system has been limited.
+To date, Viet nam lacks of a comprehensive child protection system comparing to other  countries,  therefore,  the  prevention,  early  interventions,  recovery  and  re-integration  for  children  in  special  circumstances  have  not  been  effective.  The cooperation in developing an effective child protection system has been limited.
 
 15
 
@@ -532,7 +534,7 @@ Final January 2011
 
 ###### 7.2.2. International practices
 
--  In  the  countries  of  Russia,  Australia,  United  Kingdom,  German,  Sweden...,  the governments have very focused on development of child friendly legal framework, system  of  child  welfares  and  network  of  social  support  centres  for  children, counseling service; and arranged specialized personnels who are managed by social support centres but work in community. In these countries, one professional social workers together with  4-5 social collaborators are assigned to work with 2,000 3,000 people and there is one social support centre to deliver services for 30-50,000 people.  The  child  protection  has  been  mainly  implemented  by  the  social  support centre,  institutional  children's  homes  and  governement  agencies  working  on children; and partially delegated to NGOs.
+-  In  the  countries  of  Russia,  Australia,  United  Kingdom,  German,  Sweden...,  the governments have very focused on development of child friendly legal framework, system  of  child  welfares  and  network  of  social  support  centres  for  children, counseling service; and arranged specialized personnels who are managed by social support centres but work in community. In these countries, one professional social workers together with  4-5 social collaborators are assigned to work with 2,000 – 3,000 people and there is one social support centre to deliver services for 30-50,000 people.  The  child  protection  has  been  mainly  implemented  by  the  social  support centre,  institutional  children's  homes  and  governement  agencies  working  on children; and partially delegated to NGOs.
 
 - In Asian countries such as China, Hong Kong, Japan, Korea, Thailand, Singapore, Malaysia, Phillipine... , child protection has been implemented in various models, depending on the social economy contexts of each country. Most of these countries are aiming at building child protection system, including capacity enhancement for social workers and maintenance of institutions for children. In Malaysia and Hong Kong,  they  especially  focus  on  the  models  of  alternative  care,  social  support centres, institutions for street children and centre of drug treatment. In Thailand and Phillipine, they focus on models of supporting children in special circumstances and their families.
 
@@ -560,13 +562,13 @@ Final January 2011
 
 #### 2. Specific objectives
 
-- Number of children in special circumstances reduced to lower than 5,5% of children population
+a) Number of children in special circumstances reduced to lower than 5,5% of children population
 
-- 80% of children in special circumstances receive care and support for reintegration and development
+b) 80% of children in special circumstances receive care and support for re-integration and development
 
-- 70% of children notified to be at risk of falling in special circumstances receive early interventions for reduction or elimination of  the risks
+c) 70% of children notified to be at risk of falling in special circumstances receive early interventions for reduction or elimination of  the risks
 
-- 50%  of  provinces/central  run  cities  establish  and  operate  effectively  the system of child protection services.
+e) 50%  of  provinces/central  run  cities  establish  and  operate  effectively  the system of child protection services.
 
 ### II. Targets, Scope and Time line
 
@@ -760,7 +762,7 @@ Final January 2011
 
 ###### Maintain  and  replicate  model  of  community-based  care  and  support  for children with sexually abuse and violence (model 3)
 
--Activities  of  model:  Provide  psychological  therapy  and  recovery  services  for children  with  sexually  abuse,  drug  abuse;  support  children  with  psychological treatment  and  recovery.  Organize  training  courses  to  support  children  with  reintegration and self protection skills. Organize vocational training and job placement for children and support them and their families accessing to loans and credit.  Support  employers  admitting  labor  aging  children.  Provide  therapy  and recovery  services  for  children  with  sexually  abuse  and  refer  them  to  necessary services.  Provide  counseling  and  support  for  children  and  family;  and  support children  access  to  health  care,  education  and  other  social  welfares.  Enhance capacity of family on care and protection for children through training or
+-Activities  of  model:  Provide  psychological  therapy  and  recovery  services  for children  with  sexually  abuse,  drug  abuse;  support  children  with  psychological treatment  and  recovery.  Organize  training  courses  to  support  children  with  re-integration and self protection skills. Organize vocational training and job placement for children and support them and their families accessing to loans and credit.  Support  employers  admitting  labor  aging  children.  Provide  therapy  and recovery  services  for  children  with  sexually  abuse  and  refer  them  to  necessary services.  Provide  counseling  and  support  for  children  and  family;  and  support children  access  to  health  care,  education  and  other  social  welfares.  Enhance capacity of family on care and protection for children through training or
 
 25
 
@@ -878,7 +880,7 @@ Final January 2011
 
 ##### 5.4 Implementing agencies
 
--Ministry  of  Justice  cooperates  with  MPS,  Supreme  Procuracy,  Supreme People's Court, MOLISA and other relevant ministries to implement the subproject 1
+-Ministry  of  Justice  cooperates  with  MPS,  Supreme  Procuracy,  Supreme People's Court, MOLISA and other relevant ministries to implement the sub-project 1
 
 -Ministry  of  Labor,  Invalid  and  Social  Affairs  cooperates  with  Ministry  of Justice,  Ministry  of  Planning and Investment (General Statistic Office) and relevant ministries to implement the sub-projects 2 and 3.
 
@@ -888,24 +890,24 @@ Final January 2011
 
 - Total budget for the Program is 1,755.5 billion dong, including:
 
-- 913,5 billion allocated through annual budgets of MOLISA ( with 785.5 billion dong coming from service delivery source and 128 billion dong coming from investment development source)
++ 913,5 billion allocated through annual budgets of MOLISA ( with 785.5 billion dong coming from service delivery source and 128 billion dong coming from investment development source)
 
-- 742 billion dong allocated from local budget: (with 678 bill coming from service  delivery  source  and  64  bill  coming  from  investment  development sources);
++ 742 billion dong allocated from local budget: (with 678 bill coming from service  delivery  source  and  64  bill  coming  from  investment  development sources);
 
-- 70 billion dong from International aids.
++ 70 billion dong from International aids.
 
-- 30 billion dong mobilized from community and other legitimate sources.
++ 30 billion dong mobilized from community and other legitimate sources.
 
 -. Ministry  of Labor,  Invalid and  Social Affairs,  Ministry  of  Planning  and Investment and Ministry of Finance take responsibility to identify concrete budget allocated  from  central  fund  for  implementation  of  the  program  for  2011-2015 without the excess of 913,5 billion dong.
 
-No | Projects | Budget | Central budget | Local budget | International fund
+Table 3: Required budget by projects and sources (billion)
+
+No | Projects | Budget | Central budget |  | Local budget | International fund
+  |  |  | Central Act. | Local Act. |  |  
 --- | --- | --- | --- | --- | --- | ---
-Central Act. | Local Act.
 1 | Project 1 | 200 | 60 | 20 | 120 | 0
 2 | Project 2 | 464,5 | 10 | 274 | 150 | 30
 3 | Project 3 | 60 | 11 | 15 | 30 | 4
-
-Table 3: Required budget by projects and sources (billion)
 
 29
 
@@ -918,12 +920,12 @@ Final January 2011
 4 | Project 4 | 477 | 25 | 75 +128 | 125 + 64 | 60
 --- | --- | --- | --- | --- | --- | ---
 5 | Project 5 | 529 | 16 | 259 | 253 | 1
-Model 1 | 209 | 5 | 104 | 100 | 0
-Model 2 | 222,5 | 5 | 105 | 112,5 | 0
-Model 3 | 82,5 | 5 | 45 | 32,5 | 0
-Model 4 | 15 | 1 | 5 | 8 | 1
-6 | Project 6 | 25 | 20 | 0 | 5
-Total | 1.755,5 | 142 | 643,5 + 128 | 742 | 100
+  | Model 1 | 209 | 5 | 104 | 100 | 0
+  | Model 2 | 222,5 | 5 | 105 | 112,5 | 0
+  | Model 3 | 82,5 | 5 | 45 | 32,5 | 0
+  | Model 4 | 15 | 1 | 5 | 8 | 1
+6 | Project 6 | 25 | 20 |  | 0 | 5
+  | Total | 1.755,5 | 142 | 643,5 + 128 | 742 | 100
 
 30
 
@@ -933,7 +935,9 @@ Total | 1.755,5 | 142 | 643,5 + 128 | 742 | 100
 
 Final January 2011
 
-Budget | 2011 | 2012 | 2013 | 2014 | 2015
+Table 4: Required budget by year and sources (billion)
+
+  | Budget | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | ---
 Project 1 | 200 | 40 | 40 | 40 | 40 | 40
 Central budget | 80 | 15 | 15 | 15 | 15 | 20
@@ -958,8 +962,6 @@ Project 6 | 25 | 5 | 5 | 5 | 5 | 5
 Central budget | 20 | 4 | 4 | 4 | 4 | 4
 International budget | 5 | 1 | 1 | 1 | 1 | 1
 
-Table 4: Required budget by year and sources (billion)
-
 31
 
 [[END OF PAGE 31]]
@@ -978,15 +980,15 @@ International budget | 23,2 | 23,2 | 23,2 | 17,7 | 17,7
 
 ### V. Solutions of National Program:
 
-- Enhance leadership and supervision of Party and Authorities for child care and protection . Improve capacity in state management and strengthen legal system on child care, protection and education. Integrate goals of child care and protection into annual  social-economy  development  plans  at  central  and  local  levels. Enhance monitoring and evaluation towards the implementation of child care and protection. Develop  inter-agency  cooperation  in  implementing  effectively  the  child  care  and protection.
+1. Enhance leadership and supervision of Party and Authorities for child care and protection. Improve capacity in state management and strengthen legal system on child care, protection and education. Integrate goals of child care and protection into annual  social-economy  development  plans  at  central  and  local  levels. Enhance monitoring and evaluation towards the implementation of child care and protection. Develop  inter-agency  cooperation  in  implementing  effectively  the  child  care  and protection.
 
-- Strengthen information, communication and education on child protection.
+2. Strengthen information, communication and education on child protection.
 
-- Develop  qualified  child  protection  system.  Increase  socialization  and  interagency cooperation in implementing child protection activities.
+3. Develop  qualified  child  protection  system.  Increase  socialization  and  inter-agency cooperation in implementing child protection activities.
 
-- Mobilize  and  use  effectively  financial  resources  to  implement  the  program; prioritize resources for provinces where there are many children suffering or at risk of  falling  into  special  circumstances,  ethnic  minorities  and  difficult  situation  of social-economy.
+4. Mobilize  and  use  effectively  financial  resources  to  implement  the  program; prioritize resources for provinces where there are many children suffering or at risk of  falling  into  special  circumstances,  ethnic  minorities  and  difficult  situation  of social-economy.
 
-- Increase scientific study and  international partnership for child care  and protection.  Participate  actively  in  organizing  international  and  regional  events relating to child care and protection.
+5. Increase scientific study and  international partnership for child care  and protection.  Participate  actively  in  organizing  international  and  regional  events relating to child care and protection.
 
 ### VI. Effectiveness and Impacts of the program
 
@@ -1044,23 +1046,23 @@ In order to achieve the above objectives of the program, there should be 3 follo
 
 Final January 2011
 
-- Ministry of Labor, War Invalid and Social Affair takes lead in coordinating with MOJ, MPS, MPI, MOF, WU and other relevant agencies, provincial/central run city People's committees to develop annual work plans and coordinate the implementation of program activities; take lead in manage and  implement  assigned  projects  indicated  in  this  document  under  current regulations; establish network of collaborators and volunteers to implement child  care  and  protection  activities  in  community;  provide  guidance  and monitoring on implementation of the program and report to Prime Minister; organize reviews on implementation of program by end of 2015.
+1. Ministry of Labor, War Invalid and Social Affair takes lead in coordinating with MOJ, MPS, MPI, MOF, WU and other relevant agencies, provincial/central run city People's committees to develop annual work plans and coordinate the implementation of program activities; take lead in manage and  implement  assigned  projects  indicated  in  this  document  under  current regulations; establish network of collaborators and volunteers to implement child  care  and  protection  activities  in  community;  provide  guidance  and monitoring on implementation of the program and report to Prime Minister; organize reviews on implementation of program by end of 2015.
 
-- Ministry of Justice strengthens instruction and monitoring towards implementation of legal assistance; enhance state management on adoption; implement  assigned  projects  as  indicated  in  this  document  under  current regulations.
+2. Ministry of Justice strengthens instruction and monitoring towards implementation of legal assistance; enhance state management on adoption; implement  assigned  projects  as  indicated  in  this  document  under  current regulations.
 
-- Ministry of Public Security takes responsibility to combine the implementation of National Program for Child Protection for 2011-2015 with the  implementation  of  National  Program  on  Control  and  Prevention  for crimes for 2011-2015 when it is approved; manage and implement assigned projects as indicated in this documents under current regulations.
+3. Ministry of Public Security takes responsibility to combine the implementation of National Program for Child Protection for 2011-2015 with the  implementation  of  National  Program  on  Control  and  Prevention  for crimes for 2011-2015 when it is approved; manage and implement assigned projects as indicated in this documents under current regulations.
 
-- Ministry  of  Education  and  Training  strengthens  healthy  environment  in schools  to  eliminate  school  violence;  continue  the  campaigns  on  'child friend school - active students', focus on educating students with life skills, self-protection  skills  and  communication  skills;  increase  education  and communication  on  child  care  and  protection  for  school  managers  and teachers.
+4. Ministry  of  Education  and  Training  strengthens  healthy  environment  in schools  to  eliminate  school  violence;  continue  the  campaigns  on  'child friend school - active students', focus on educating students with life skills, self-protection  skills  and  communication  skills;  increase  education  and communication  on  child  care  and  protection  for  school  managers  and teachers.
 
-- Ministry of Culture, Sport and Toursm strengthens inspection and monitoring  on  distribution  of  cultural  materials  and  recreation  services; cooperate with MOLISA to develop family -based child protection system.
+5. Ministry of Culture, Sport and Toursm strengthens inspection and monitoring  on  distribution  of  cultural  materials  and  recreation  services; cooperate with MOLISA to develop family -based child protection system.
 
-- Ministry of Home Affairs cooperates with MOLISA and relevant agencies to guide line-ministries, organizations and provincial authorities in developing the  plans  of  personnel  for  child  care  and  protection  implementation;  guide local authorities to develop human resource for child care and protection at commune level.
+6. Ministry of Home Affairs cooperates with MOLISA and relevant agencies to guide line-ministries, organizations and provincial authorities in developing the  plans  of  personnel  for  child  care  and  protection  implementation;  guide local authorities to develop human resource for child care and protection at commune level.
 
-- Minstry  of  Information  and  Communication  cooperates  with  MOLISA  in monitoring agencies of media and reforming communication and porpularization  of  laws  and  policies  on  child  care  and  protection;  increase inspection  and  monitoring  on  publication,  media  and  internet  relating  to children;  handle  trictly  behaviors  of  publishing  and  distributing  unsound materials with violences.
+7. Minstry  of  Information  and  Communication  cooperates  with  MOLISA  in monitoring agencies of media and reforming communication and porpularization  of  laws  and  policies  on  child  care  and  protection;  increase inspection  and  monitoring  on  publication,  media  and  internet  relating  to children;  handle  trictly  behaviors  of  publishing  and  distributing  unsound materials with violences.
 
-- Ministry  of  Health  takes  lead  in  implementing  policies  of  health  care  for children under 6, children in special circumstances, children living  in poor family; provide rehabilitation for children with disability; pilot some models of emergency care for children in sexually abuse or violence.
+8. Ministry  of  Health  takes  lead  in  implementing  policies  of  health  care  for children under 6, children in special circumstances, children living  in poor family; provide rehabilitation for children with disability; pilot some models of emergency care for children in sexually abuse or violence.
 
-- Ministry  of  Planning  and  Investment  cooperates  with  MOF,  MOLISA  and relevant  ministries  and  organizations  to  mobilize  resources  from  ODA  to implement  programs  and  projects  on  child  care  and  protection;  integrate
+9. Ministry  of  Planning  and  Investment  cooperates  with  MOF,  MOLISA  and relevant  ministries  and  organizations  to  mobilize  resources  from  ODA  to implement  programs  and  projects  on  child  care  and  protection;  integrate
 
 34
 
@@ -1070,15 +1072,15 @@ Final January 2011
 
 Final January 2011
 
-- children  goals  into  annual  national  social  -  economy  development  plans; integrate  goals  of  child  care  and  protection  into  sectoral  and  local  socialeconomy development plans.
+children  goals  into  annual  national  social  -  economy  development  plans; integrate  goals  of  child  care  and  protection  into  sectoral  and  local  social-economy development plans.
 
-- Ministry of Finance cooperates with MPI, depending on capability of State Bank, to allocate budget for implementation of the Program through sectoral budget  plans  and  local  budget  plans  under  the  law  of  finance;  increase guidance,  monitoring  and  inspection  on  budget  expenditure  for  program implementation.
+10. Ministry of Finance cooperates with MPI, depending on capability of State Bank, to allocate budget for implementation of the Program through sectoral budget  plans  and  local  budget  plans  under  the  law  of  finance;  increase guidance,  monitoring  and  inspection  on  budget  expenditure  for  program implementation.
 
-- Viet  Nam  Express  Agency,  Voice  of  Viet  Nam,  Television  and  other agencies of media increase time of broadcasting, quantity of communication on child care, protection and education.
+11. Viet  Nam  Express  Agency,  Voice  of  Viet  Nam,  Television  and  other agencies of media increase time of broadcasting, quantity of communication on child care, protection and education.
 
-- Provincal/central run city People's committees take responsibility to implement the program at local level under the instruction of MOLISA and sectoral ministries; develop and organize the implementation of action plans on  child  care  and  protection  in  relevant  to  this  Program  and  local  socialeconomy  developement plans; incorporate the implementation of this Program into relevant local programs; strengthen inter-agency cooperation in implementing  child care and protection; continue the  development  of community fit to children; allocate budget and human resource to implement the  Program;  monitor  the  implementation  of  the  Program  at  local  level; submit regular reports on the implementation of the Program in localities.
+12. Provincal/central run city People's committees take responsibility to implement the program at local level under the instruction of MOLISA and sectoral ministries; develop and organize the implementation of action plans on  child  care  and  protection  in  relevant  to  this  Program  and  local  social-economy  developement plans; incorporate the implementation of this Program into relevant local programs; strengthen inter-agency cooperation in implementing  child care and protection; continue the  development  of community fit to children; allocate budget and human resource to implement the  Program;  monitor  the  implementation  of  the  Program  at  local  level; submit regular reports on the implementation of the Program in localities.
 
-- Recommend Viet  nam  Fatherland  Front,  Viet  Nam  Women  Union,  Youth Union and other member organizations, Association of Child Right Protection  and  other  civil  organizations  participate  in  implementing  the Program  within  their  roles  and  functions;  to  increase  communication  and education to raise awareness on child care and protection; to participate in development  and  implementation  of  laws  and  policies on  child care, protection and education.
+13.Recommend Viet  nam  Fatherland  Front,  Viet  Nam  Women  Union,  Youth Union and other member organizations, Association of Child Right Protection  and  other  civil  organizations  participate  in  implementing  the Program  within  their  roles  and  functions;  to  increase  communication  and education to raise awareness on child care and protection; to participate in development  and  implementation  of  laws  and  policies on  child care, protection and education.
 
 35
 
@@ -1094,7 +1096,7 @@ Final January 2011
 
 Following are terminologies relating child protection:
 
-### Child Protection :
+### 1. Child Protection:
 Given  to  the  Lexicon  for  Child  Protection  published  by MOLISA and UNICEF in 2009, the child protection includes following five responsibilities:
 
 (i)   Prevent and stop harms against children
@@ -1109,25 +1111,25 @@ Given  to  the  Lexicon  for  Child  Protection  published  by MOLISA and UNICEF
 
 The CRC requires that 'Country members should take all appropriate measures of legislation,  enforcement,  justice,  social  and  education  to  protect  all  children  from the forms of physical and psychological violence, harm  or abuse, neglect, maltreatment or exploitation, including sexual exploitation, when children are under the  parental  care,  guardians  or  others  who  are  assigned  to  take  care  of  children' (Article 19 of CRC).
 
-### System of child protection:
+### 2. System of child protection:
 Given to international practice, Child protection system includes (i) legislation framework, (ii) structure of child protection, (iii)  service delivery at three levels.
 
-### Child protection services at three levels,
+### 3. Child protection services at three levels,
 including (i) prevention, (ii) early intervention to mitigate risks, (iii) intervention and integration.
 
-### Recovery:
+### 4. Recovery:
 is  an  approach  of  service  delivery  for  child  protection  to  rehab and  enhance  capacity  of  individuals  that  allow  them  to  participating  in activities of family, community and society in a respective way. The service of recovery also includes the support for resilience of children and family.
 
-### Intervention:
+### 5. Intervention:
 is  a  process  of  service  delivery  for  children  and  family  to handle  the  causes  of  child  maltreatment,  abuse,  violence,  exploitation  or risks.
 
-### Integration:
+### 6. Integration:
 is  the  need  of  all  individuals  to  be  a  part  of  community  and society. The integration also includes the need of individual to be a part of family, a group of friends or community.
 
-### Harm:
+### 7. Harm:
 is  negative  effects  on  children's  physicality,  psychology,  emotion, cognition, social and moral life who are abused, exploited and violated with any reason.
 
-### Stigma:
+### 8. Stigma:
 is unequal behaviors towards a person or child due to differences in genders, personality (including color of skin, ages, metal  or physical capacity),  social  situation  (incomes,  housing,  school),  social  position  and regional geography, residences of child or person.
 
 36
@@ -1138,16 +1140,16 @@ is unequal behaviors towards a person or child due to differences in genders, pe
 
 Final January 2011
 
-### Counseling:
+### 9. Counseling:
 is an intervention measure applicable in a context where there is a  need  to  change  children's  caring  environment.  Counseling  focuses  on supporting  individuals  understanding  their  own  feelings,  emotions  and capacity.
 
-### Advice:
+### 10. Advice:
 is a process to work with children, family and community and other service delivers to create partnership and interventions to respond the needs of care and protection for children.
 
-### Children  in  difficult  circumstances:
+### 11.Children in difficult circumstances:
 Given  to  the  Law  on  Child  Care, Protection and Education, children in special circumstances including children  living  in  abnormal  circumstances  (given  to  individuals  and  caring environments): orphans, abandoned children, street children, children working in hazardous conditions, children working far from homes, children with  disability,  children  infected  HIV,  children  affected  by  orange  agent, sexually abused children, children of drug abuse, children in conflict with the law.
 
-### Children at risk of falling into special circumstances:
+### 12.Children at risk of falling into special circumstances:
 include those have difficult lives and might fall into special circumstances if there is not timely interventions.  The  factors  leading  to  risks  that  children  fall  into  special circumstance include external factors (family, school,  community  and society)  and  individual  factors  (lack  of  social  skills,  lack  of  life  skills,  or dropping  out  of  school…).  It  is  very  important  to  identify  the  risks  and provide  timely  interventions  to  protect  children  from  falling  into  special circumstances.
 
 #### Children at risks include:
