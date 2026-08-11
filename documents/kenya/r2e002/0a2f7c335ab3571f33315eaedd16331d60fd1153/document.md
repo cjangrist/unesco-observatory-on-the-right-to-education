@@ -1,5 +1,6 @@
 [[START OF PAGE 1]]
-
+HARAMBEE
+THE REPUBLIC OF KENYA
 LAWS OF KENYA
 
 # EDUCATION ACT
@@ -24,68 +25,6 @@ Education
 
 CAP. 211
 
-Section
-
-- Short title.
-
-- Interpretation.
-
-### PART II - PROMOTION OF EDUCATION
-
-- Minister to promote education.
-
-- Advisory councils.
-
-- 4A. Minister may establish institutes.
-
-- Minister may entrust functions to local authority.
-
-### PART III - MANAGEMENT OF SCHOOLS
-
-#### General
-
-- Management of schools.
-
-#### Primary Schools Maintained by Local Authorities
-
-- Choice for primary schools now maintained by local authorities.
-
-- 8 Transferred school formerly managed by church to have sponsor.
-
-- School committee.
-
-- Board of Governors.
-
-- Constitution and functions of Board of Governors.
-
-- Default by Board of Governors.
-
-### PART IV - REGISTRATION OF UNAIDED SCHOOLS
-
-- Register of unaided schools.
-
-- Application for registration.
-
-- Registration.
-
-- Closure of unaided school.
-
-- Regulations as to registration.
-
-### PART V - INSPECTION AND CONTROL OF SCHOOLS
-
-- Inspection of schools.
-
-- Regulations as to conduct of schools.
-
-### PART VI - EXAMINATIONS AND DIPLOMAS
-
-- Examinations and issue of certificates and diplomas.
-
-- No unauthorized issue of certificates or diplomas.
-
-- Regulations as to examinations, certificates and diplomas.
-
 # CHAPTER 211
 
 # EDUCATION ACT
@@ -94,7 +33,69 @@ Section
 
 ### PART I - PRELIMINARY
 
+Section
+
+- 1. Short title.
+
+- 2. Interpretation.
+
+### PART II - PROMOTION OF EDUCATION
+
+- 3. Minister to promote education.
+
+- 4. Advisory councils.
+
+- 4A. Minister may establish institutes.
+
+- 5. Minister may entrust functions to local authority.
+
+### PART III - MANAGEMENT OF SCHOOLS
+
+#### General
+
+- 6. Management of schools.
+
+#### Primary Schools Maintained by Local Authorities
+
+- 7. Choice for primary schools now maintained by local authorities.
+
+- 8. Transferred school formerly managed by church to have sponsor.
+
+- 9. School committee.
+
 #### Other Schools
+
+- 10. Board of Governors.
+
+- 11. Constitution and functions of Board of Governors.
+
+- 12. Default by Board of Governors.
+
+### PART IV - REGISTRATION OF UNAIDED SCHOOLS
+
+- 13. Register of unaided schools.
+
+- 14. Application for registration.
+
+- 15. Registration.
+
+- 16. Closure of unaided school.
+
+- 17. Regulations as to registration.
+
+### PART V - INSPECTION AND CONTROL OF SCHOOLS
+
+- 18. Inspection of schools.
+
+- 19. Regulations as to conduct of schools.
+
+### PART VI - EXAMINATIONS AND DIPLOMAS
+
+- 20. Examinations and issue of certificates and diplomas.
+
+- 21. No unauthorized issue of certificates or diplomas.
+
+- 22. Regulations as to examinations, certificates and diplomas.
 
 E4 - 3
 
@@ -110,35 +111,45 @@ Education
 
 [Rev. 2012]
 
+### PART VII - THE KENYA INSTITUTE OF EDUCATION
+
 Section
 
 23. Establishment of Kenya Institute of Education.
+
 ### PART VIII - MISCELLANEOUS
+
 24. Area to be served by public school.
 25. Medical examination.
 26. Religious instruction in public schools.
 27. Minister may give directions.
+
 ### PART VIIIA - DISTRICT EDUCATION BOARDS
+
 28. Establishment of Boards.
 29. Memberships of Boards.
 30. Procedure of Boards.
 31. Functions of Boards.
 32. Financial provisions.
 33. Regulations.
+
 ### PART IX - FINANCIAL
+
 34. Use of public funds.
 35. Regulations as to use of public funds.
 36. Offences.
 37. General power to make regulations.
 38. Repeal of Cap. 211.
+
 ### SCHEDULES
+
 #### FIRST SCHEDULE -
+
 PROVISIONS AS TO ADVISORY COUNCILS
+
 #### SECOND SCHEDULE -
 
-PERSONS  WHO  NEED  NOT  OBTAIN  THE  MINISTERS'S  PRIOR WRITTEN CONSENT TO THE ISSUE OF CERTIFICATES AND DIPLOMAS
-
-### PART VII - THE KENYA INSTITUTE OF EDUCATION
+PERSONS WHO NEED NOT OBTAIN THE MINISTERS'S PRIOR WRITTEN CONSENT TO THE ISSUE OF CERTIFICATES AND DIPLOMAS
 
 [Issue 1]
 
@@ -154,6 +165,20 @@ Education
 
 CAP. 211
 
+# CHAPTER 211
+
+# EDUCATION ACT
+
+[Date of assent:6th February, 1968.]
+
+[Date of commencement:4th April, 1968.]
+
+An Act of Parliament to provide for the regulation and progressive development of education
+
+[Act No. 5 of 1968, Act No. 11 of 1970, L.N. 41/1970, Act No. 17 of 1971, Act No. 7 of 2007.]
+
+## PART I - PRELIMINARY
+
 #### 1.   Short title
 
 This Act may be cited as the Education Act.
@@ -164,7 +189,7 @@ In this Act, except where the context otherwise requires-
 
 'advisory council' means an advisory council established under section 4;
 
-'assisted school' means a school, other than a maintained school, which receives financial assistance from the Ministry or assistance from the Teachers Service  Commission  established  by  the  Teachers  Service  Commission  Act (Cap. 212);
+'assisted school' means a school, other than a maintained school, which receives financial assistance from the Ministry or assistance from the Teachers Service Commission established by the Teachers Service Commission Act (Cap. 212);
 
 'board of governors' means a board of governors established under Part III of this Act;
 
@@ -172,30 +197,19 @@ In this Act, except where the context otherwise requires-
 
 'Institute' means the Kenya Institute of Education established by section 23(1) of this Act;
 
-'institution  of  higher  education' means  a  university  or  a  constituent college or institution of a university;
+'institution of higher education' means a university or a constituent college or institution of a university;
 
 'local authority' means a county council or a municipal council constituted under the Local Government Act (Cap. 265);
 
 'maintained school' means a school in respect of which the Ministry or a local authority accepts general financial responsibility for maintenance;
 
-'manager' means  any  person  or  body  of  persons  responsible  for  the management and conduct of a school, and includes a Board;
+'manager' means any person or body of persons responsible for the management and conduct of a school, and includes a Board;
 
 'principal' includes headmaster;
 
 'public funds' means the public funds of the Government or the public funds of a local authority;
 
 'public school' means a school maintained or assisted out of public funds;
-
-# CHAPTER 211
-# EDUCATION ACT
-
-[ Date of assent:6th February, 1968 .]
-
-[ Date of commencement:4th April, 1968 .]
-
-An  Act  of  Parliament  to  provide  for  the  regulation  and  progressive development of education
-
-[Act No. 5 of 1968, Act No. 11 of 1970, L.N. 41/1970, Act No. 17 of 1971, Act No. 7 of 2007.]
 
 E4 - 5
 
@@ -301,6 +315,8 @@ Education
 
 (e) such other matters with respect to the conduct and management of the institute, as the Minister may find it necessary or desirable to provide for.
 
+[Act No. 7 of 2007, Sch.]
+
 #### 5.  Minister may entrust functions to local authority
 
 (1)  Subject to this Act and to any regulations made thereunder, the Minister may, by order, entrust any of his functions with respect to education to a local authority on such terms, conditions or restrictions as he may think fit.
@@ -347,7 +363,7 @@ in accordance with this Act and any regulations made under this Act.
 
 ### Primary Schools Maintained by Local Authorities
 
-#### 7.  Choice for primary schools how maintained by local authorities
+#### 7.  Choice for primary schools now maintained by local authorities
 
 (1)  The manager of every primary school maintained but not managed by a local authority before the commencement of this Act shall within six months of such commencement choose either-
 
@@ -481,7 +497,7 @@ The Minister shall cause a register of unaided schools to be established and mai
 
 (2)  An application for registration shall state the classification of the proposed school according to the prescribed nomenclature and the classes or forms to be provided in the school.
 
-- In this section 'establish', in relation to a school, includes-
+(3) In this section 'establish', in relation to a school, includes-
 
 (a) providing any additional class or form not included in any previous registration; or
 
@@ -775,7 +791,7 @@ Education
 
 (2)  The Minister shall appoint one member of a Board to be chairman, and the District Education Officer to be the secretary and executive officer, of the Board.
 
-(3)  A member of a Board-shall hold office for a period of three years from the date of his appointment unless earlier-
+(3)  A member of a Board shall hold office for a period of three years from the date of his appointment unless earlier-
 
 (a) he dies;
 
@@ -791,11 +807,13 @@ but  at  the  expiration  of  his  period  of  office  a  member  shall  be  eli
 
 #### 30.   Procedure of Boards
 
-(1)  A Board shall meet at least three times in every year, and the chairman:' may, and shall at the written request: of not less than six members of the Board, at any time summon a special meeting of the Board, and in the case of such request the meeting shall be held within six weeks of the receipt of the request by the chairman.
+(1)  A Board shall meet at least three times in every year, and the chairman may, and shall at the written request of not less than six members of the Board, at any time summon a special meeting of the Board, and in the case of such request the meeting shall be held within six weeks of the receipt of the request by the chairman.
 
 (2)  The Permanent Secretary of the Ministry of Education, or his representative, and  the  Provincial  Commissioner,  or  his  representative,  any  member  of  the National Assembly duly elected to represent the constituents of an area within the jurisdiction of the Board, and any person invited by the chairman, may be present at any meeting of a Board and take part in the proceedings but shall not be entitled to vote on any question.
 
 (3)  Subject to this section and save as otherwise may be prescribed, a Board shall regulate its own procedure.
+
+[Act No. 17 of 1971, s. 2.]
 
 #### 31.   Functions of Boards
 
@@ -881,11 +899,13 @@ Education
 
 (e) prescribing anything required to be prescribed for the purposes of this Part.
 
+[Act No. 17 of 1971, s. 2.]
+
 ## PART IX - FINANCIAL
 
 #### 34.   Use of public funds
 
-- The Minister may from time to time from public funds-
+(1)  The Minister may from time to time from public funds-
 
 (a) establish, maintain, assist, make grants-in-aid of or make advances on loan in respect of-
 
@@ -915,7 +935,7 @@ Education
 
 (j) make such other provision for the carrying on of education as may be consistent with this Act.
 
-- Grants-in-aid may be made for either capital or recurrent purposes.
+(2)  Grants-in-aid may be made for either capital or recurrent purposes.
 
 [Issue 1]
 
@@ -964,6 +984,8 @@ shall be guilty of an offence and liable to a fine not exceeding five thousand s
 Without prejudice to the other provisions in this Act for the making of regulations for particular purposes, the Minister may make regulations generally for the better carrying out of the purposes of this Act.
 
 #### 38.  Repeal of Cap. 211
+
+The Education Act (Cap. 211) is repealed:
 
 Provided that the following Orders made under that Act, namely
 
@@ -1017,7 +1039,7 @@ shall continue in force as though made under this Act, and accordingly the Board
 
 6. If the chairman is absent from a meeting of an advisory council, the members present shall elect one of their number to preside at that meeting.
 
-7. The agenda at a meeting of an advisory council shall consist of such matters as the Minister may from time to time refer to the council for consideration by the council and such other matters as the council, with the agreement of the Minister, may receive to consider.
+7. The agenda at a meeting of an advisory council shall consist of such matters as the Minister may from time to time refer to the council for consideration by the council and such other matters as the council, with the agreement of the Minister, may resolve to consider.
 
 [Issue 1]
 
