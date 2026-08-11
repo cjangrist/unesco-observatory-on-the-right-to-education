@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# ACT NO. 56 OF 20 JUNE 2003 RELATING TO TERTIARY VOCATIONAL EDUCATION  (THE TERTIARY VOCATIONAL EDUCATION ACT)
+# ACT NO. 56 OF 20 JUNE 2003 RELATING TO TERTIARY VOCATIONAL EDUCATION (THE TERTIARY VOCATIONAL EDUCATION ACT)
 
 ## CONTENTS
 
@@ -8,7 +8,7 @@ Act relating to Tertiary Vocational Education
 
 Section 1. Object and scope
 
-Section 1a. The county authorities' responsibility for tertiary vocational education
+Section 1a. The county authorities’ responsibility for tertiary vocational education
 
 Section 2. Accreditation
 
@@ -30,7 +30,7 @@ Section 9. Fees
 
 Section 10. Protection of the designations tertiary vocational education and tertiary
 
-vocational colleges - registration in the Central Coordinating Register for Legal Entities ( Enhetsregisteret)
+vocational colleges – registration in the Central Coordinating Register for Legal Entities (Enhetsregisteret)
 
 Section 11. Entry into force and transitional provisions
 
@@ -50,13 +50,13 @@ The Act applies to providers of tertiary vocational education operating in Norwa
 
 [[START OF PAGE 2]]
 
-The Act does not apply to activities that take place outside Norway. The King may stipulate that such activities are nonetheless covered in whole or in part by the Act's provisions.
+The Act does not apply to activities that take place outside Norway. The King may stipulate that such activities are nonetheless covered in whole or in part by the Act’s provisions.
 
 Pursuant to agreements with a foreign state or international organization, the scope of the Act may be extended or restricted in limited areas.
 
 Amended by Act of 29 June 2007 no. 90 (in force 1 Aug 2007 pursuant to the Decree of 29 June 2007 no. 758).
 
-### Section 1a. The county authority's responsibility for tertiary vocational education
+### Section 1a. The county authority’s responsibility for tertiary vocational education
 
 The county authority is to ensure the provision of accredited tertiary vocational education that considers local, regional and national competence requirements within priority sectors.
 
@@ -90,7 +90,7 @@ The Board is responsible for ensuring that the students receive the education th
 
 The provider is to have an administrative and academic management in charge of the daily running of the education provided within the framework and instructions issued by the Board. Administrative and academic managers are appointed by the Board.
 
-Students and employees are to have representatives with the right to attend, speak and propose resolutions at all Board meetings dealing with affairs that are important to the completion of an approved tertiary vocational education. The students' representatives and the employees' representatives are to be chosen by and from among the students and the employees.
+Students and employees are to have representatives with the right to attend, speak and propose resolutions at all Board meetings dealing with affairs that are important to the completion of an approved tertiary vocational education. The students’ representatives and the employees’ representatives are to be chosen by and from among the students and the employees.
 
 The Ministry may issue regulations concerning the organization, management and leadership of tertiary vocational education, including provisions concerning representation on governing bodies.
 
@@ -98,7 +98,7 @@ The Ministry may approve exceptions to provisions of the Act and the regulations
 
 Amended by Act of 29 June 2007 no. 90 (in force 1 Aug 2007 pursuant to the Decree of 29 June 2007 no. 758).
 
-### Section  4. The rights of the students
+### Section 4. The rights of the students
 
 The provider must give applicants and students the necessary information and guidance, including information about fees, courses provided, deadlines for applications and admission requirements.
 
@@ -106,35 +106,35 @@ The provider must have admission regulations that include required formal educat
 
 The provider shall decide on required qualifications for teachers and instructors and for management.
 
-The provider shall facilitate the establishment of a student body to ensure the students' interests and facilitate cooperation with management.
+The provider shall facilitate the establishment of a student body to ensure the students’ interests and facilitate cooperation with management.
 
 ### Section 4a. The learning environment
 
-The Board has the overall responsibility for the students' learning environment. The Board shall, in cooperation with the student body if such a body has been established pursuant to section 4, facilitate a good learning environment and strive to improve student welfare at the institution of learning
+The Board has the overall responsibility for the students’ learning environment. The Board shall, in cooperation with the student body if such a body has been established pursuant to section 4, facilitate a good learning environment and strive to improve student welfare at the institution of learning
 
-The Board is responsible for ensuring that the institution's learning environment, including the physical and mental working environment, is completely satisfactory in a broad sense, including the students' health, safety and welfare. The design of the physical working environment must, as far as possible and reasonable, ensure
+The Board is responsible for ensuring that the institution’s learning environment, including the physical and mental working environment, is completely satisfactory in a broad sense, including the students’ health, safety and welfare. The design of the physical working environment must, as far as possible and reasonable, ensure
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-- that the premises, access, staircases, etc, are dimensioned and equipped for the activities taking place
+a) that the premises, access, staircases, etc, are dimensioned and equipped for the activities taking place
 
-- that the premises have good lighting and sound conditions and a satisfactory indoor climate and air quality
+b) that the premises have good lighting and sound conditions and a satisfactory indoor climate and air quality
 
-- that the premises are maintained and are kept clean and tidy
+c) that the premises are maintained and are kept clean and tidy
 
-- that the premises are equipped so as to avoid harmful physical strain for the students
+d) that the premises are equipped so as to avoid harmful physical strain for the students
 
-- that the activities are planned so as to prevent damage and accidents
+e) that the activities are planned so as to prevent damage and accidents
 
-- that technical devices and equipment are furnished with protective fittings and are maintained properly so that the students are protected from harm to life and limb
+f) that technical devices and equipment are furnished with protective fittings and are maintained properly so that the students are protected from harm to life and limb
 
-- that the premises, access, sanitary installations and technical fittings are designed for universal access
+g) that the premises, access, sanitary installations and technical fittings are designed for universal access
 
-- that the learning environment is equipped for students of both sexes
+h) that the learning environment is equipped for students of both sexes
 
-- that the institution is planned according to the principle of universal design
+i) that the institution is planned according to the principle of universal design
 
 The Ministry may issue more detailed regulations as to what is required of the learning environment.
 
@@ -148,18 +148,19 @@ Added by Acts of 10 Dec 2004 no. 83 (in force 1 Jan 2005 pursuant to the Decree 
 
 The provider must have a plan for education contents and how they are to be achieved.
 
-The provider shall give the students a final assessment and ensure documentation of the final assessment and completion of education. The students' knowledge and skills are to be tested and assessed in a professionally satisfactory manner. The assessment of the students is to help safeguard the academic standard of the education in question.
+The provider shall give the students a final assessment and ensure documentation of the final assessment and completion of education. The students’ knowledge and skills are to be tested and assessed in a professionally satisfactory manner. The assessment of the students is to help safeguard the academic standard of the education in question.
 
 ### Section 6. Disciplinary issues
 
 Decisions in case of exclusion, expulsion and other disciplinary sanctions objective reasons for the decisions must be given. The conditions for such sanctions must be presented in the rules and regulations for the tertiary vocational education.
 
 ### Section 7. The Public Administration Act. Complaints procedure
-The provisions concerning impartiality pursuant to sections 6 to 10 and duty of secrecy pursuant to sections 13 to 13e in the Public Administration Act of 10 February 1967 apply to the procedure of dealing with cases pursuant to this Act.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+The provisions concerning impartiality pursuant to sections 6 to 10 and duty of secrecy pursuant to sections 13 to 13e in the Public Administration Act of 10 February 1967 apply to the procedure of dealing with cases pursuant to this Act.
 
 Decisions concerning admission, final assessment, exclusion, expulsion and other disciplinary sanctions are to be dealt with in accordance with the provisions concerning individual decisions in the Public Administration Act.
 
@@ -187,11 +188,11 @@ Providers of tertiary vocational education may only demand fees from the student
 
 Providers of tertiary vocational education are to ensure that public grants and fees paid by the students benefit the students.
 
-The Ministry may issue regulations concerning the providers' right to demand fees from the students and their right to demand payment for other expenses linked to the education.
+The Ministry may issue regulations concerning the providers’ right to demand fees from the students and their right to demand payment for other expenses linked to the education.
 
 Added by Act of 29 June 2007 no. 90 (in force 1 Aug 2007 pursuant to the Decree of 29 June 2007 no. 758), previous section 9 becoming section 11, amended by Act of 9 Jan 2009 no. 4 (in force 1 Jan 2010).
 
-### Section 10. Protection of the designations tertiary vocational education and tertiary vocational college - registration in the Norwegian Central Coordinating Register for Legal Entities (Enhetsregisteret)
+### Section 10. Protection of the designations tertiary vocational education and tertiary vocational college – registration in the Norwegian Central Coordinating Register for Legal Entities (Enhetsregisteret)
 
 [[END OF PAGE 5]]
 
