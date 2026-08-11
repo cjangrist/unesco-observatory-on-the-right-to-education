@@ -2,7 +2,7 @@
 
 TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY
 
-Investing in the 21 st Century Skilled Filipino Workforce
+Investing in the 21st Century Skilled Filipino Workforce
 
 # The NATIONAL TECHNICAL EDUCATION AND SKILLS DEVELOPMENT PLAN 2011 - 2016
 
@@ -77,8 +77,7 @@ Companion
 
 ## Preface
 
-The 3 rd Cycle National Technical Education and Skills Development Plan (NTESDP)	
-  2011-­-2016	
+The 3rd Cycle National Technical Education and Skills Development Plan (NTESDP) 2011-2016
   is	
   a	
   unique	
@@ -99,12 +98,7 @@ The 3 rd Cycle National Technical Education and Skills Development Plan (NTESDP)
    the	
    medium-­-term.	
    	
-   Themed 'Investing	
-   in the	
-   21 st Century	
-   Skilled	
-   Filipino	
-   Workforce' ,	
+Themed “Investing in the 21st Century Skilled Filipino Workforce,”
    the	
    Plan	
    outlines	
@@ -296,9 +290,10 @@ Since
   to	
   goal	
   and	
-  from strength	
-  to	
-  strength.
+from strength to strength.
+
+SECRETARY EMMANUEL JOEL J. VILLANUEVA
+Director General
 
 [[END OF PAGE 4]]
 
@@ -321,11 +316,7 @@ The
    Education	
    and	
    Skills	
-   Development Plan	
-   (NTESDP)	
-   2011-­-2016	
-   3 rd 	
-   Cycle	
+Development Plan (NTESDP) 2011-2016 3rd Cycle
    is	
    a	
    product	
@@ -566,10 +557,7 @@ Our
   to	
   the	
   TESDA	
-  Board, the Social	
-  Development	
-  CommitteeTechnical	
-  Board	
+Board, the Social Development Committee–Technical Board
   and	
   Cabinet	
   Level	
@@ -1111,7 +1099,7 @@ SOCIAL
   of	
   2011
 
-## APPROVING THE NATIONAL TECHNICAL EDUCATION AND SKILLS DEVELOPMENT PLAN 2011-­-2016 (INVESTING IN THE 21 ST CENTURY SKILLED FILIPINO WORKFORCE)
+## APPROVING THE NATIONAL TECHNICAL EDUCATION AND SKILLS DEVELOPMENT PLAN 2011-2016 (INVESTING IN THE 21ST CENTURY SKILLED FILIPINO WORKFORCE)
 
 WHEREAS, Section 21 of Republic Act No. 7796 and Rule II Section 1 of the Implementing Rules and Regulations state that 'The Technical Education and Skills Development	
    Authority	
@@ -1681,7 +1669,7 @@ Commitment
   building	
   block.
 
-### The National Technical Education and Skills Development Plan (NTESDP) 2011 2016
+### The National Technical Education and Skills Development Plan (NTESDP) 2011 – 2016
 
 The	
    NTESDP	
@@ -1799,15 +1787,7 @@ The
 
 [[START OF PAGE 16]]
 
-The 1 st 	
-  cycle	
-   NTESDP ,	
-   1999-­-2004	
-   and	
-   the 2 nd 	
-   cycle	
-   	
-   NTESDP 2005-­-2009,	
+The 1st cycle NTESDP, 1999-2004 and the 2nd cycle NTESDP 2005-2009,
    gains	
    and lessons	
   from	
@@ -2109,7 +2089,8 @@ Basic
    Elementary	
    Secondary | K	
    6	
-   4 | Department	
+4
+2 | Department
   of	
   Education
 Middle	
@@ -2622,11 +2603,20 @@ Indicator
   the	
   provision	
   of	
-  TVET.
+TVET.
+
+TVET System Elements
+
+ | Input | Output | Outcome | Impact
+--- | --- | --- | --- | ---
+Indicator | Institutions operative; Trainers trained; Resources mobilized | Programs registered; Training regulations promulgated; Training seats available; Curriculum exemplars developed; Assessment tools developed; Persons enrolled & graduated; Persons assessed & certified; Students assisted via scholarships | Certification Rate | Employment Rate
+Indicator Elements | Adequacy; Proportionality | Access; Equity | Quality | Relevance; Responsiveness
+Indicator Typology | Internal Efficiency | Effectiveness |  | External Efficiency
+ | SUPPLY |  |  | DEMAND
 
 ### TVET system performance
 
-#### NTESDP 1999-­2004, 1 st cycle 'A Vision and Strategy for the Development of Middle-­Level Manpower'
+#### NTESDP 1999-2004, 1st cycle “A Vision and Strategy for the Development of Middle-Level Manpower”
 
 ##### Major Performance
 
@@ -2710,91 +2700,7 @@ In
   rate	
   of	
   60%	
-  and an	
-   average	
-   skills	
-   utilization	
-   rate	
-   of	
-   67%	
-   among	
-   TVET	
-   graduates	
-   surveyed	
-   a	
-   year	
-   after completing	
-  the	
-  course. In	
-  terms	
-  of quality ,	
-   the	
-  TVET	
-  reforms	
-  initiated	
-  in	
-  1998,	
-  specifically	
-  the	
-  installation	
-  of	
-  a quality-­-assured	
-   Philippine	
-   TESD	
-   system,	
-   were	
-   directed	
-   towards	
-   ensuring	
-   quality	
-   in TVET	
-   programs	
-   and	
-   outputs.	
-   These	
-   include	
-   the	
-   mandatory	
-   registration	
-   of	
-   all	
-   TVET programs/course	
-   offerings	
-   in	
-   accordance	
-   with	
-   the	
-   standards	
-   set.	
-   The	
-   competency assessment	
-   and	
-   certification	
-   system	
-   was	
-   likewise	
-   strengthened	
-   to	
-   provide	
-   a	
-   more efficient	
-  system	
-  of	
-  assessing	
-  the	
-  competencies	
-  of	
-  workers	
-  and	
-  TVET	
-  graduates. In terms of equity , TESDA implemented	
-   scholarship	
-   and other student financial assistance	
-  programs	
-  such	
-  as	
-  the	
-  PESFA.
+and
 
 5
 
@@ -2802,7 +2708,13 @@ In
 
 [[START OF PAGE 20]]
 
-#### NTESDP 2005-­2009 2nd Cycle 'Global Competencies and Global Opportunities'
+an average skills utilization rate of 67% among TVET graduates surveyed a year after completing the course.
+
+In terms of quality, the TVET reforms initiated in 1998, specifically the installation of a quality-assured Philippine TESD system, were directed towards ensuring quality in TVET programs and outputs. These include the mandatory registration of all TVET programs/course offerings in accordance with the standards set. The competency assessment and certification system was likewise strengthened to provide a more efficient system of assessing the competencies of workers and TVET graduates.
+
+In terms of equity, TESDA implemented scholarship and other student financial assistance programs such as the PESFA.
+
+#### NTESDP 2005-2009 2nd Cycle “Global Competencies and Global Opportunities”
 
 ##### Major Performance
 
@@ -3037,48 +2949,7 @@ On improved
    the	
    registry	
    of	
-   certified job-­-ready	
-   TVET	
-   graduates	
-  is	
-   readily	
-   available	
-   to	
-   prospective	
-   employers,	
-   both	
-   for	
-   local and	
-   overseas	
-   employment.	
-   For	
-   the	
-   period	
-   2005-­-2009	
-   a	
-   total	
-   of	
-   2,268,978	
-   assessed persons and 1,684,844 certified persons were recorded and resulted to 74.25% certification	
-  rate.	
-  The	
-  policy	
-  on	
-  mandatory	
-  assessment	
-  of	
-  TVET	
-  graduates	
-  in	
-  programs with	
-  training	
-  regulations	
-  was	
-  implemented	
-  and	
-  adopted	
-  in	
-  2005.
+certified
 
 6
 
@@ -3086,8 +2957,9 @@ On improved
 
 [[START OF PAGE 21]]
 
-On enhanced	
-  employability of	
+job-ready TVET graduates is readily available to prospective employers, both for local and overseas employment. For the period 2005-2009 a total of 2,268,978 assessed persons and 1,684,844 certified persons were recorded and resulted to 74.25% certification rate. The policy on mandatory assessment of TVET graduates in programs with training regulations was implemented and adopted in 2005.
+
+On enhanced employability of
   TVET	
   graduates,	
   TVET	
@@ -3139,28 +3011,15 @@ On enhanced
 
 ###### TVET institutions operative
 
-Table	
-  1.0	
-  	
-  	
-  TVET	
-  Institutions,	
-  as	
-  of	
-  December	
-  2010
-
 Private
-
 3,906
-
 90.25%
 
 Public
-
 422
-
 9.75%
+
+Table 1.0 TVET Institutions, as of December 2010
 
 TVET	
    provision	
@@ -3194,30 +3053,19 @@ TVET
 
 ###### TVET trainers trained
 
-Table	
-  2.0	
-  TVET	
-  Trainers	
-  Trained,	
-  2006-­-2010
-
 Private
-
 15,912
-
 67.78%
 
 Public
-
 7,564
-
 32.22%
 
 Total
-
 23,476
-
 100.00%
+
+Table 2.0 TVET Trainers Trained, 2006-2010
 
 For	
    the	
@@ -3261,22 +3109,13 @@ For
 
 ###### TVET resources mobilized
 
-Table	
-  3.0	
-  TVET	
-  Financing	
-  Sources,	
-  2006-­-2010
-
-Private	
-  Funds
-
+Private Funds
 53.5%
 
-Public	
-  Funds
-
+Public Funds
 46.5%
+
+Table 3.0 TVET Financing Sources, 2006-2010
 
 7
 
@@ -3391,52 +3230,20 @@ On
   the	
   I-­-CARE
 
-(*)	
-  contribution	
-  due	
-  from	
-  the	
-  provision	
-  of	
-  the	
-  law,	
-  RA7796,	
-  Sec.	
-  31
-
-- Source:	
-  	
-  Budget	
-  Division,	
-  TESDA
-
 Funds | 2008 | 2009 | 2010 | TOTAL | %
 --- | --- | --- | --- | --- | ---
-General	
-  Appropriations	
-   Act	
-  (GAA) | 3,165,238 | 2,030,879 | 2,107,416 | 7,303,533.00 | 0.73
-Grants	
-  and	
-  Aids | 102,600,199 | 4,390,441 | 13,382,027 | 120,372,667.00 | 12.09
-TESDA	
-  Development	
-   Fund* | 62,261,662 | 75,278,106 | 54,229,687 | 191,769,455.00 | 19.27
-Income	
-  Generating	
-   Projects | 26,100,828 | 99,001,391 | 54,011,745 | 179,113,964.00 | 18.00
-Sariling	
-  Sikap	
-  Program
-I-­CARE | 257,030,000 | 137,870,000 | 101,875,000 | 496,775,000.00 | 49.91
+General Appropriations Act (GAA) | 3,165,238 | 2,030,879 | 2,107,416 | 7,303,533.00 | 0.73
+Grants and Aids | 102,600,199 | 4,390,441 | 13,382,027 | 120,372,667.00 | 12.09
+TESDA Development Fund* | 62,261,662 | 75,278,106 | 54,229,687 | 191,769,455.00 | 19.27
+Income Generating Projects | 26,100,828 | 99,001,391 | 54,011,745 | 179,113,964.00 | 18.00
+Sariling Sikap Program |  |  |  |  | 
+I-CARE | 257,030,000 | 137,870,000 | 101,875,000 | 496,775,000.00 | 49.91
 TOTAL | 451,157,927 | 318,570,817 | 225,605,875 | 995,334,619.00 | 100.00
 
-Table	
-  4.0	
-  TESDA	
-  Fund	
-  Sources,	
-  2008-­-2010
+- (*) contribution due from the provision of the law, RA7796, Sec. 31
+- Source: Budget Division, TESDA
+
+Table 4.0 TESDA Fund Sources, 2008-2010
 
 TESDA	
   funds	
@@ -3552,35 +3359,21 @@ On
 
 ##### On effectiveness
 
-Table	
-  5.0	
-  TVET	
-  Registered	
-  Programs,	
-  as	
-  of	
-  December	
-  2010
-
 ###### TVET programs registered
 
 WTR
-
 16,966.00
-
 84.64%
 
 NTR
-
 3,079.00
-
 15.36%
 
 TOTAL
-
 20,045.00
-
 100.00%
+
+Table 5.0 TVET Registered Programs, as of December 2010
 
 As	
    of	
@@ -3698,7 +3491,7 @@ TTIs
 
 189,840
 
-11.89%%
+11.89%
 
 TVIs
 
@@ -3787,15 +3580,6 @@ As
 
 [[START OF PAGE 24]]
 
-Diagram	
-  1.0	
-  Enrolment,	
-  Graduates,	
-  Assessed	
-  and	
-  Certified,	
-  2005-­-2010
-
 1,683
 
 1,737
@@ -3876,7 +3660,9 @@ Graduates
 
 Assessed
 
-Cerlfied
+Certified
+
+Diagram 1.0 Enrolment, Graduates, Assessed and Certified, 2005-2010
 
 Persons	
    enrolled .	
@@ -4364,70 +4150,17 @@ Table
   Graduates:	
   2006-­-2010
 
+LEP. LEP Scholarships have been provided through the TWSP. For the period 2006-2009 total enrollment registered at 112,718 while total graduates, registered at 98,840 (87.69%). Highest enrollment and graduates were noted in 2006-2007 as substantial allocation was given to aggressively promote the program.
+
 Year | Enrolment | Graduates
 --- | --- | ---
-93,085 | 86,753 | 2006-­2007
-13,656 | 9,874 | 2008
-5,977 | 2,213 | 2009
-112,718 | 98,840 | TOTAL
+2006-2007 | 93,085 | 86,753
+2008 | 13,656 | 9,874
+2009 | 5,977 | 2,213
+TOTAL | 112,718 | 98,840
 
-LEP. LEP	
-   Scholarships	
-   have	
-   been	
-   provided	
-   through	
-   the	
-   TWSP.	
-   For	
-   the	
-   period	
-   2006-­2009	
-  total	
-  enrollment	
-  registered	
-  at	
-  112,718	
-  while	
-  total	
-  graduates,	
-  registered	
-  at	
-  98,840 (87.69%).	
-   Highest	
-   enrolment	
-   and	
-   graduates	
-   were	
-   noted	
-   in	
-   2006-­-2007	
-   as	
-   substantial allocation	
-  was	
-  given	
-  to	
-  aggressively	
-  promote	
-  the	
-  program.
-
-Source:	
-  	
-  Investing	
-  on	
-  Filipino	
-  Thru	
-  TVET-­TESDA	
-  Report:	
-  July	
-  2010
-
-Table	
-  9.0	
-  LEP	
-  Scholarships	
-  SY-­-2006-­-2009
+Source: Investing on Filipino Thru TVET-TESDA Report: July 2010
+Table 9.0 LEP Scholarships SY-2006-2009
 
 ##### On external efficiencies
 
@@ -4534,10 +4267,8 @@ The
    and	
    job seekers.
 
-Priority	
-  Sector
-
-Employed
+Priority Sector | Employed |
+--- | --- | ---
 
 12
 
@@ -4545,51 +4276,21 @@ Employed
 
 [[START OF PAGE 27]]
 
-Agriculture	
---- | --- | ---
-  and	
-  Fishery | 1,039 | 52.9
+Agriculture and Fishery | 1,039 | 52.9
 Automotive | 8,398 | 56.0
 Construction | 6,135 | 61.8
 Electronics | 4,444 | 54.4
-Footwear	
-  and	
-  Leather	
-  goods | 66 | 100
-Furniture	
-  and	
-  Fixtures | 112 | 77.3
+Footwear and Leather goods | 66 | 100
+Furniture and Fixtures | 112 | 77.3
 Garments | 1,104 | 45.1
-Health,	
-  Social	
-  and	
-  Other	
-  Community	
-   Development	
-  Services | 20,666 | 47.3
-Heating,	
-  Ventilation	
-  	
-  Airconditioning	
-   and	
-  Refrigeration | 1,320 | 65.3
-Information	
-  and	
-  Communications	
-   Technology | 24,136 | 56.1
-Land	
-  Transportation | 915 | 77.4
+Health, Social and Other Community Development Services | 20,666 | 47.3
+Heating, Ventilation Airconditioning and Refrigeration | 1,320 | 65.3
+Information and Communications Technology | 24,136 | 56.1
+Land Transportation | 915 | 77.4
 Maritime | 1,010 | 48.3
-Metals	
-  and	
-  Engineering | 7,549 | 60.8
-Processed	
-  Food	
-  and	
-  Beverages | 4,490 | 76.2
-Tourism/Hotel	
-  and	
-  Restaurant | 11,388 | 52.6
+Metals and Engineering | 7,549 | 60.8
+Processed Food and Beverages | 4,490 | 76.2
+Tourism/Hotel and Restaurant | 11,388 | 52.6
 Others | 4,681 | 64.2
 
 Source:	
@@ -4746,16 +4447,9 @@ In
 
 [[START OF PAGE 28]]
 
-Th
-
 ## Chapter 3 The Planning Context
 
-e	
-  Global	
-  Context:	
-  Issues	
-  and	
-  Prospects
+The Global Context: Issues and Prospects
 
 The	
   Philippine	
@@ -4894,7 +4588,7 @@ Refers
   with	
   special concerns
 
-Innovalon
+Innovation
 
 Refers	
   to	
@@ -4962,11 +4656,7 @@ Some ASEAN Mutual Recognition Arrangements
   Engineering	
   Services
 
-- ASEAN	
-  MRA	
-  on	
-  Nursing	
-  Service s
+- ASEAN MRA on Nursing Services
 
 - ASEAN	
   MRA	
@@ -4992,11 +4682,7 @@ Some ASEAN Mutual Recognition Arrangements
   on	
   Accountancy
 
-- ASEAN	
-  MRA	
-  on	
-  Surveying	
-  Qualification s
+- ASEAN MRA on Surveying Qualifications
 
 - ASEAN	
   MRA	
@@ -6117,7 +5803,7 @@ Changes
 Critical	
    to	
    the	
-   21 st century	
+21st century
   is	
    not	
    only	
@@ -6152,7 +5838,7 @@ HOT
    in	
    preparing	
    the	
-   21 st century	
+21st century
    Filipino	
    skilled	
    workforce. These skills include problem solving, critical thinking, innovation, being technological savvy, including communication and learning other people's languages.	
@@ -6177,7 +5863,7 @@ HOT
 
 ## Chapter 4 Strategic Directions
 
-### Developing the 21 st century skilled Filipino workforce
+### Developing the 21st century skilled Filipino workforce
 
 Faced	
   with	
@@ -6215,13 +5901,13 @@ Faced
   for	
   2011-­-2016 envisions	
   a	
-  21 st Century	
+21st Century
   Skilled	
   Filipino	
   Workforce.
 
 A	
-   21 st century	
+21st century
   Filipino	
   skilled	
   workforce	
@@ -6300,7 +5986,7 @@ The
   workforce	
   for	
   the	
-  21 st century.	
+21st century.
   Major	
   reforms	
   shall	
@@ -6335,8 +6021,7 @@ The
 
 Developing	
   the	
-  21 st 	
-  century	
+21st century
   Filipino	
   skilled	
   workforce	
@@ -6459,6 +6144,28 @@ The
 
 [[START OF PAGE 34]]
 
+NTESDP Strategy Map 2011-2016
+INCLUSIVE GROWTH THROUGH DECENT AND PRODUCTIVE WORK
+EMPLOYMENT PATHWAYS
+Wage Employment
+Entrepreneurship
+OUTCOME
+21st Century Skilled Filipino Workforce
+OBJECTIVES
+Increase training participation
+Improve training responsiveness & relevance
+Achieve effective training management
+STRATEGIES
+Offer wider program offerings & access
+Apply precision in clientele targeting
+Pursue positive perpetual collaborations
+Incentivize industry exemplars & participation
+Enhance service delivery processes
+Mobilize quality resource inputs
+Sustain research & development
+PEOPLE, CULTURE and SYSTEMS
+Sustainable Governance for Excellence Framework
+Efficiency & Effectiveness Review & Monitoring Framework
 #### OBJECTIVE 1: To increase training participation
 
 TVET	
@@ -6512,7 +6219,7 @@ STRATEGIES
 
 ##### Apply precision in clientele targeting
 
-###### Develop a service delivery rationalization scheme.
+###### 1. Develop a service delivery rationalization scheme.
 Given
    the	
    diversity	
@@ -6581,7 +6288,7 @@ Given
   and	
   resources
 
-###### Focus TVET interventions based on identified priorities.
+###### 2. Focus TVET interventions based on identified priorities.
 Based on the segmentation
   of	
   TVET	
@@ -6679,7 +6386,7 @@ Based on the segmentation
   the	
   unreached
 
-###### Expand and promote agri-­fishery related programs.
+###### 3. Expand and promote agri-fishery related programs.
 The
    agri-­-fishery	
    sector, while	
@@ -6798,7 +6505,7 @@ The
 
 ##### Offer wider program offerings and access
 
-###### Enhance and intensify career advocacy, coaching and counseling in the TVIs.
+###### 4. Enhance and intensify career advocacy, coaching and counseling in the TVIs.
 To
   provide	
   students	
@@ -6863,7 +6570,7 @@ To
   career	
   guides
 
-###### Expand and intensify employment facilitation services.
+###### 5. Expand and intensify employment facilitation services.
 Making
   the	
   employment facilitation	
@@ -6927,7 +6634,7 @@ Making
   POEA,	
   etc.)
 
-###### Sustain promotion and advocacy of TVET.
+###### 6. Sustain promotion and advocacy of TVET.
 The
   strategic	
   role	
@@ -7078,7 +6785,7 @@ STRATEGIES
 
 ##### Pursue positive perpetual collaborations
 
-###### Pursue Public Private Partnership in TVET.
+###### 1. Pursue Public Private Partnership in TVET.
 Central
    to	
    the	
@@ -7218,7 +6925,7 @@ While
   and	
   financing
 
-###### Expand enterprise-­based training (EBT).
+###### 2. Expand enterprise-based training (EBT).
 The
    enterprises	
    are	
@@ -7329,7 +7036,7 @@ The
   sector	
   for TVET
 
-###### Strengthen link-­up with public and private employers in the hiring of TVET graduates.
+###### 3. Strengthen link-up with public and private employers in the hiring of TVET graduates.
 Working
   with	
   industry	
@@ -7418,7 +7125,7 @@ Working
 
 ##### Incentivize industry exemplars and participation
 
-###### Provide incentives and rewards to generate wider industry support and commitment.
+###### 4. Provide incentives and rewards to generate wider industry support and commitment.
 Mechanisms
   that	
   give	
@@ -7470,7 +7177,7 @@ Mechanisms
   TVET	
   partner
 
-###### Expand and purposively direct scholarships and other training assistance to critical and hard-­to-­find skills and higher technologies and use the program to incentivize the TVIs.
+###### 5. Expand and purposively direct scholarships and other training assistance to critical and hard-to-find skills and higher technologies and use the program to incentivize the TVIs.
 
 - Working	
    and	
@@ -7579,7 +7286,7 @@ STRATEGIES
 
 ##### Enhance service delivery processes
 
-###### Increase and build up TVET capacity, both horizontally and vertically.
+###### 1. Increase and build up TVET capacity, both horizontally and vertically.
 The expansion of TVET capacity horizontally or an increase in the training seats available
   is	
   to	
@@ -7702,7 +7409,7 @@ The expansion of TVET capacity horizontally or an increase in the training seats
   industry	
   associations
 
-###### Institutionalize and strengthen coordination and convergence between and among government agencies concerned with skills development.
+###### 2. Institutionalize and strengthen coordination and convergence between and among government agencies concerned with skills development.
 TVET
   capacity of	
    other	
@@ -7779,7 +7486,7 @@ TVET
   TVET	
   program
 
-###### Develop the capability of LGUs to ultimately assume the responsibility of providing community-­based TVET opportunities.
+###### 3. Develop the capability of LGUs to ultimately assume the responsibility of providing community-based TVET opportunities.
 TESDA
    shall	
    continuously build-­-up the capability of the local government units, which has the main responsibility	
@@ -7831,7 +7538,7 @@ TESDA
   skills development	
   programs
 
-###### Strengthen the integrity of assessment and certification system and processes.
+###### 4. Strengthen the integrity of assessment and certification system and processes.
 The
   acceptability	
   and	
@@ -7937,7 +7644,7 @@ The
   system	
   and processes
 
-###### Improve and strengthen the monitoring TVET graduates.
+###### 5. Improve and strengthen the monitoring TVET graduates.
 Monitoring
    of	
    TVET graduates as	
@@ -8053,7 +7760,7 @@ Monitoring
   TVET	
   graduates
 
-###### Pursue the establishment of coordinative mechanism for the three (3) educational agencies.
+###### 6. Pursue the establishment of coordinative mechanism for the three (3) educational agencies.
 The
    trifocalized	
    management	
@@ -8186,7 +7893,7 @@ The
   among	
   others
 
-###### Institutionalize Quality Management System (QMS) in TVET.
+###### 7. Institutionalize Quality Management System (QMS) in TVET.
 Quality
    training entails	
    more	
@@ -8384,10 +8091,8 @@ The
   systems	
   and processes.
 
-###### Strengthen TESDA as the Authority in TVET .
-To
-   its mandate,	
-  TESDA,	
+###### 8. Strengthen TESDA as the Authority in TVET.
+To effectively implement its mandate, TESDA,
   as	
   the	
   Authority	
@@ -8455,7 +8160,7 @@ To
 
 ##### Mobilize quality resource inputs
 
-###### Conduct periodic review of training regulations and curricula.
+###### 9. Conduct periodic review of training regulations and curricula.
 There
    will	
    be regular	
@@ -8627,7 +8332,7 @@ There
   the	
   TRs
 
-###### Develop and qualify trainers for TVET based on the PTTQF.
+###### 10. Develop and qualify trainers for TVET based on the PTTQF.
 The
   TVET	
   trainer development	
@@ -8661,7 +8366,7 @@ The
   Fund	
   (TDF)
 
-###### Implement models and pilot for new and higher technologies.
+###### 11. Implement models and pilot for new and higher technologies.
 The
    TESDA Technology	
   Institutions	
@@ -8801,7 +8506,7 @@ The
   priority	
   areas
 
-###### Intensify implementation and promotion of assessment and certification.
+###### 12. Intensify implementation and promotion of assessment and certification.
 Skills
   certification	
   is	
@@ -8924,9 +8629,8 @@ Skills
   and	
   incentives
 
-###### Pursue comparability and harmonization of skills and qualifications towards recognition arrangements.
-TESDA
-   especially in countries where most of the Overseas Filipino	
+###### 13. Pursue comparability and harmonization of skills and qualifications towards recognition arrangements.
+TESDA should start working towards mutual-recognition arrangements especially in countries where most of the Overseas Filipino
    Workers	
    (OFWs)	
    are	
@@ -9000,7 +8704,7 @@ TESDA
    bilateral	
    recognition arrangements.
 
-###### Diversify sources of financing for TVET.
+###### 14. Diversify sources of financing for TVET.
 Quality
   TVET	
   provision,	
@@ -9116,7 +8820,7 @@ Quality
   and	
   grants
 
-###### Develop and implement programs intended for green jobs.
+###### 15. Develop and implement programs intended for green jobs.
 TVET
   shall	
   support the	
@@ -9209,11 +8913,8 @@ TVET
 
 ##### Sustain research & development
 
-###### Intensify gathering, analysis and dissemination of labor market information (LMI) .
-The
-   	
-   The	
-  availability	
+###### 16. Intensify gathering, analysis and dissemination of labor market information (LMI).
+The availability
   of	
   relevant	
   and	
@@ -9342,7 +9043,7 @@ The
   and	
   analysis
 
-###### Strengthen research and development in TVET .
+###### 17. Strengthen research and development in TVET.
 Continuing research and development on TVET and learning systems, new technologies, models and approaches
   need	
   to	
@@ -9464,25 +9165,10 @@ The
   three	
   core principles: Transformational Leadership, Quality Management System, and Good Governance.
 
-TESDA	
-  Sustainable	
-  Governance	
-  for	
-  Excellence	
-  Framework
-
-Good	
-  governance
-
-Quality
-
-management
-
-systems
-
-Transforma\onal
-
-leadership
+Good governance
+Quality management systems
+Transformational leadership
+TESDA Sustainable Governance for Excellence Framework
 
 31
 
@@ -9848,9 +9534,7 @@ The
   the	
   following:
 
-- Goal	
-   Driven -­-	
-   TESDA's	
+- Goal Driven - TESDA's
    goal	
    of	
    employability	
@@ -9998,7 +9682,7 @@ There
    shall	
    be downloadable.
 
-- Integrity Fortification -At all times TESDA looks into the integrity of the organization.	
+- Integrity Fortification – At all times TESDA looks into the integrity of the organization.
   With	
   the	
   support	
@@ -10207,7 +9891,7 @@ The
 
 [[START OF PAGE 48]]
 
-- hard	
+hard
   to	
   fill	
   and	
@@ -10299,7 +9983,7 @@ TESDA
   political	
   capital.
 
-- Relational	
+Relational
    capital	
    is	
    the	
@@ -10332,7 +10016,7 @@ TESDA
   move	
   to	
   the	
-  21 st century.
+21st century.
 
 To	
    attain	
@@ -10634,78 +10318,11 @@ The EER approach
   basic	
   principles:
 
-Principles | Basic	
+Principles | Basic Questions to be Responded
 --- | ---
-  Questions	
-  to	
-  be	
-  Responded
-RESPONSIVENESS /Appropriateness	
-  of	
-   plan	
-  interventions	
-  relative	
-  to	
-  the	
-  goals	
-   and	
-  targets | Are	
-  the	
-  programs,	
-  projects	
-  and	
-  activities	
-   deemed	
-  appropriate	
-  or	
-  should	
-  they	
-  be	
-   abolished,	
-  changed	
-  or	
-  reprioritized?
-EFFECTIVENESS	
-   	
-  to	
-  achieve	
-  the	
-  desired	
-   outcome | Will	
-  the	
-  outputs	
-  of	
-  the	
-  programs,	
-  projects	
-   and	
-  activities	
-  able	
-  to	
-  achieve	
-  the	
-  desired	
-   outcomes?
-EFFICIENCY 	
-  	
-  having	
-  the	
-  best	
-  value	
-  for	
-   plan	
-  investments | Are	
-  the	
-  programs,	
-  projects	
-  and	
-  activities	
-   producing	
-  the	
-  outputs	
-  at	
-  competitive	
-  cost?
+RESPONSIVENESS/Appropriateness of plan interventions relative to the goals and targets | Are the programs, projects and activities deemed appropriate or should they be abolished, changed or reprioritized?
+EFFECTIVENESS to achieve the desired outcome | Will the outputs of the programs, projects and activities able to achieve the desired outcomes?
+EFFICIENCY having the best value for plan investments | Are the programs, projects and activities producing the outputs at competitive cost?
 
 The	
    framework	
@@ -10894,91 +10511,12 @@ is
 
 [[START OF PAGE 50]]
 
-Areas | Efficiency | Access
---- | --- | ---
-Internal | External
-Accountability | Targets	
-  vs.	
-  Budget	
-   Resource	
-   allocation	
-   and	
-  management	
-   Prioritization | Review	
-   of	
-   TVET	
-   investments	
-   of	
-   other	
-   agencies	
-  per	
-  Sec.	
-  25	
-  of	
-   RA	
-   7796	
-   re:	
-   coordination	
-   function	
-   of	
-  TESDA | No.	
-  of	
-  graduates	
-   No.	
-  of	
-  PESFA	
-  slots	
-   No.	
-  of	
-  TWSP	
-  slots	
-   No.	
-  of	
-  certified	
-  workers	
-   Segmentation	
-  of	
-  clients	
-   Training	
-  cost
-Performance	
-   Regulation | Standards	
-   Development	
-   Training	
-   Regulations	
-   Development	
-   Program	
-   Registration	
-   and	
-  Accreditation	
-   Accreditation	
-   of	
-   Assessment	
-   Centers/	
-   Venues	
-   Accreditation	
-   of	
-   Trainers/	
-  Assessors | No.	
-   of	
-   persons	
-   assessed	
-  and	
-  certified | Compliance	
-  Audit	
-   Continual	
-  improvement	
-   Quality	
-   Management	
-   System	
-   Reporting	
-  System
-Value	
-   Contributions | Labor	
-   Market	
-   Information	
-  (Best-­-Job-­- Fit)	
-   Employability
+Areas | Efficiency | | Access
+--- | --- | --- | ---
+ | Internal | External |
+Accountability | Targets vs. Budget; Resource allocation and management; Prioritization | Review of TVET investments of other agencies per Sec. 25 of RA 7796 re: coordination function of TESDA | No. of graduates; No. of PESFA slots; No. of TWSP slots; No. of certified workers; Segmentation of clients; Training cost
+Performance Regulation | Standards Development; Training Regulations Development; Program Registration and Accreditation; Accreditation of Assessment Centers/Venues; Accreditation of Trainers/Assessors | No. of persons assessed and certified | Compliance Audit; Continual improvement; Quality Management System; Reporting System
+Value Contributions | | Labor Market Information (Best-Job-Fit); Employability |
 
 #### Researches as a complementary evaluation mechanism.
 Researches,
@@ -11008,11 +10546,8 @@ Researches,
   include as	
   follows:
 
-##### Impact Evaluation Studies .
-A
-   	
-   A	
-  feedback	
+##### Impact Evaluation Studies.
+A feedback
   mechanism	
   on	
   the	
@@ -11109,28 +10644,14 @@ Good Practices of TESDA Technology Institutions (TTIs) and the APACC-­-accredit
    institutions	
    to	
    emulate.	
-   The	
-   study results	
-  would	
-  also	
-  serve	
-  as	
-  basis	
-  to	
-  develop	
-  awards	
-  and	
-  incentives	
-  mechanisms	
-  to	
-  TVET providers.
+The study
 
 36
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
-
+results would also serve as basis to develop awards and incentives mechanisms to TVET providers.
 ##### Acceptability of Assessment and Certification by the Employers and Industry.
 The study
   ensures	
@@ -11156,7 +10677,7 @@ The study
   This	
   is to	
   guarantee	
-  industry's	
+ industry’s
   continued	
   patronage	
   of	
@@ -11171,7 +10692,7 @@ Building
   of	
   the	
   joint	
-  Philippine-­-China	
+ Philippine-China
   project	
   on	
   the	
@@ -11191,10 +10712,10 @@ In
    TVET	
    through	
    the	
-   3 rd 	
+ 3rd
    Cycle	
    NTESDP,	
-   2011-­2016	
+ 2011-2016
   will	
   involve	
   the	
@@ -11202,7 +10723,7 @@ In
 
 - Institutions	
    that	
-   unite -	
+ unite –
    there	
    is	
    a	
@@ -11223,7 +10744,7 @@ In
 - Infrastructures	
   that	
   connect	
-  the	
+ – the
   systems,	
   processes,	
   resources	
@@ -11234,7 +10755,7 @@ In
 - Institutions	
   that	
   target	
-  the	
+ – the
    need	
   for	
   focus	
@@ -11264,7 +10785,7 @@ In
 ## References
 
 President	
-  Aquino's	
+ Aquino’s
   Social	
   Contract	
   with	
@@ -11287,7 +10808,7 @@ Inputs
   Filipino	
   Association	
   for	
-  Mariner's	
+ Mariner’s
   Employment	
   (FAME)
 
@@ -11295,7 +10816,7 @@ Labor
   Market	
   Intelligence	
   Report	
-  -	
+ –
   Maritime	
   Industry
 
@@ -11319,7 +10840,7 @@ Current
   and	
   Related	
   Statistics,	
-  2005-­-2009
+ 2005-2009
 
 Investing	
   on	
@@ -11342,13 +10863,13 @@ Investing
   Study
 
 NTESDP	
-  1999-­-2004,	
-  1 st 	
+ 1999-2004,
+ 1st
   cycle
 
 NTESDP	
-  2005-­-2009,	
-  2 nd 	
+ 2005-2009,
+ 2nd
   cycle
 
 TESDA	
@@ -11377,15 +10898,15 @@ Monitoring
   and	
   Evaluation	
   for	
-  TVET-­-related	
+ TVET-related
   interventions	
-  -	
+ –
   DEUTSCHE GESELLSCHAFT	
   FUR	
   INTERNATIONALE	
-  ZUSAMME_NARBEIT	
+ ZUSAMMENARBEIT
   (GIZ)	
-  GMBLT
+ GMBH
 
 Planning	
   Guidelines	
@@ -11393,7 +10914,7 @@ Planning
   the	
   Formulation	
   of	
-  Medium-­-Term	
+ Medium-Term
   Philippine	
   Development	
   Plan
