@@ -12,11 +12,9 @@ Ministry of Education of the Russian Federation
 
 Ministry of Science and Higher Education of the Russian Federation
 
-# Information on legislative, judicial, administrative and other measures taken by the state at the national level
+# I. Information on legislative, judicial, administrative and other measures taken by the state at the national level
 
-## Ratification of the Convention
-
-[1]
+## 1. Ratification of the Convention [1]
 
 Is your country a state party to the Convention?
 
@@ -42,7 +40,7 @@ Describe:
 
 No, we are not considering ratification in the near future. Please explain why:
 
-## Ratification of the Protocol [2] providing for the establishment of a Commission of Reconciliation and Good Services, which will be responsible for resolving any disputes that may arise between States parties to the Convention against Discrimination in Education
+## 2. Ratification of the Protocol [2] providing for the establishment of a Commission of Reconciliation and Good Services, which will be responsible for resolving any disputes that may arise between States parties to the Convention against Discrimination in Education
 
 [[END OF PAGE 1]]
 
@@ -56,7 +54,7 @@ Yes
 
 No, please briefly explain the difficulties encountered:
 
-## The legal  framework  governing  the  protection  of  the  rights  guaranteed  in  the  Convention  and Recommendations in the national legal system
+## 3. The legal  framework  governing  the  protection  of  the  rights  guaranteed  in  the  Convention  and Recommendations in the national legal system
 
 If your country is a state party to the Convention:
 
@@ -114,7 +112,7 @@ If yes, please illustrate based on available case law and case law. Information 
 
 # II. Information on the implementation of the Convention or Recommendation
 
-## Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG 4)
+## 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG 4)
 
 Articles / paragraphs 1 (1), 2 and 3 of the Convention / Recommendations provide for non-discrimination and  equal  educational  opportunities. This  part  relates  to  the  main  objective  of  the  Convention  / Recommendation, which is to emphasize the obligation of the state to prohibit any form of discrimination in education, while promoting equal educational opportunities.
 
@@ -172,7 +170,7 @@ Other :
 
 - Please indicate the relevant legal, regulatory or political texts and provide a brief description of the measures taken :
 
-This is, in particular, included in SDG target 4.1 and partially objective 4.b [five]
+This is, in particular, included in SDG target 4.1 and partially objective 4.b [5]
 
 Students - foreign citizens and stateless persons who study basic professional educational programs in full-time form, are paid state academic scholarships for students, state scholarships for postgraduate students, residents, assistant trainees, if they study at the expense of budget allocations from the federal budget, budgets of the constituent entities of the Russian Federation and local budgets, including within the quota established by the Government of the Russian Federation, or it is provided for by international treaties of the Russian Federation, in accordance with which such persons are accepted for training (article 36 of the Federal Law 'On Education in the Russian Federation').
 
@@ -208,14 +206,6 @@ Elimination of all barriers for pregnant girls or young mothers in education
 
 Other:
 
--Please describe in more detail the measures taken, including measures to ensure gender equality and the empowerment of girls and women in the field of education and with its help :
-
-The issues of ensuring equal rights for women and men in the field of education are regulated by the Constitution of the Russian Federation and the norms of industry legislation of the Russian Federation. In accordance with the Law on Education, the right to education in the Russian Federation is guaranteed regardless of gender.
-
-In addition, the Russian Federation approved the National Strategy of Actions for Women for 2017-2022 and the Plan of Actions for its implementation.
-
-The Plan provides for measures to develop the necessary skills and competencies in women and girls in the industries. So, in 2019, the VII National WorldSkills Russia Championship was held in Kazan, in the final of which among 1,232 competitors 402 girls participated.
-
 Additional assistance
 
 Adapting Education Infrastructure
@@ -230,13 +220,23 @@ Providing flexible learning options
 
 School Diversity Assessment
 
-The fight against stereotypes and stigma Federal law guarantees the availability of non-discriminatory quality accessible education for people with disabilities (hereinafter - HIA). For this, conditions are created at all levels of education necessary  for  all  categories  of  citizens  to  receive  a  quality  education,  to  correct  developmental disorders and social adaptation.
+The fight against stereotypes and stigma
+
+- Please describe in more detail the measures taken, including measures to ensure gender equality and the empowerment of girls and women in the field of education and with its help :
+
+The issues of ensuring equal rights for women and men in the field of education are regulated by the Constitution of the Russian Federation and the norms of industry legislation of the Russian Federation. In accordance with the Law on Education, the right to education in the Russian Federation is guaranteed regardless of gender.
+
+In addition, the Russian Federation approved the National Strategy of Actions for Women for 2017-2022 and the Plan of Actions for its implementation.
+
+The Plan provides for measures to develop the necessary skills and competencies in women and girls in the industries. So, in 2019, the VII National WorldSkills Russia Championship was held in Kazan, in the final of which among 1,232 competitors 402 girls participated.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 6
+
+Federal law guarantees the availability of non-discriminatory quality accessible education for people with disabilities (hereinafter - HIA). For this, conditions are created at all levels of education necessary for all categories of citizens to receive a quality education, to correct developmental disorders and social adaptation.
 
 These  conditions  are  created  both  in  organizations  that  implement  adapted  educational programs, and through the organization of inclusive education (accessibility of facilities and services, assistance of qualified specialists, etc.).
 
@@ -484,13 +484,23 @@ Article  /  paragraph  4  (c)  of  the  Convention  /  Recommendation  provides 
 
 The provision of education to persons who have not received or have not completed the entire course of their primary education
 
-Literacy programs Providing appropriate training and life skills programs Providing free training opportunities Providing flexible learning methods Providing opportunities for training and qualifications Other:
+Literacy programs
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
 12
+
+Providing appropriate training and life skills programs
+
+Providing free training opportunities
+
+Providing flexible learning methods
+
+Providing opportunities for training and qualifications
+
+Other:
 
 - Please describe in more detail the measures taken:
 
@@ -504,7 +514,7 @@ Further education includes subspecies such as supplementary education for childr
 
 Additional education of children and adults is aimed at the formation and development of creative abilities  of  children  and  adults,  the  satisfaction  of  their  individual  needs  for  intellectual,  moral  and physical improvement, the formation of a culture of a healthy and safe lifestyle, health promotion, as well as the organization of their free time. Additional education of children ensures their adaptation to life  in  society,  vocational guidance, as well as the identification and support of children who have shown outstanding abilities.
 
-Additional general education programs are divided into general and prevocational programs. Additional general developmental programs are implemented for both children and adults. Additional pre-vocational programs in the field of arts, physical education and sports are implemented for children.
+Additional general education programs are divided into general and pre-vocational programs. Additional general developmental programs are implemented for both children and adults. Additional pre-vocational programs in the field of arts, physical education and sports are implemented for children.
 
 Any persons without requirements for the level of education are allowed to master additional general educational programs, unless otherwise stipulated by the specifics of the educational program being implemented.
 
@@ -550,7 +560,7 @@ To ensure this quality assessment, please consider all educational institutions 
 
 Currently, the Russian Federation has federal state educational standards for primary general, basic general and secondary general education, approved by orders of the Ministry of Education and Science of the Russian Federation No. 373 dated October 6, 2009, No. 1897 dated December 17, 2010, and May 17, 2010 2012, No. 413 (hereinafter - GEF General Education).
 
-On the basis of Articles 12 and 28 of Federal Law No. 273-ФЗ dated December 29, 2012 'On Education  in  the  Russian  Federation',  organizations  engaged  in  educational  activities  with  stateaccredited  educational  programs  independently  develop  educational  programs  in  accordance  with federal state educational standards and considering relevant exemplary basic educational programs
+On the basis of Articles 12 and 28 of Federal Law No. 273-ФЗ dated December 29, 2012 'On Education  in  the  Russian  Federation',  organizations  engaged  in  educational  activities  with  state-accredited  educational  programs  independently  develop  educational  programs  in  accordance  with federal state educational standards and considering relevant exemplary basic educational programs
 
 In order to ensure a unified educational space on the territory of the Russian Federation and high quality of general education GEF of general education, requirements are established for interdisciplinary, subject and personal results of mastering educational programs of primary general, basic general and secondary general education.
 
@@ -560,9 +570,9 @@ Also, according to the requirements of GEF of general education, educational pro
 
 Federal state educational standards and federal state requirements provide:
 
-- the unity of the educational space of the Russian Federation;
+1) the unity of the educational space of the Russian Federation;
 
-- the continuity of basic educational programs;
+2) the continuity of basic educational programs;
 
 [[END OF PAGE 13]]
 
@@ -570,19 +580,19 @@ Federal state educational standards and federal state requirements provide:
 
 14
 
-- the variability of the content of educational programs of the appropriate level of education, the possibility of forming educational programs of various levels of complexity and focus, taking into account the educational needs and abilities of students;
+3) the variability of the content of educational programs of the appropriate level of education, the possibility of forming educational programs of various levels of complexity and focus, taking into account the educational needs and abilities of students;
 
-- state  guarantees  of  the  level  and  quality  of  education  based  on  the  unity  of  mandatory requirements for the conditions for the implementation of basic educational programs and the results of their development.
+4) state  guarantees  of  the  level  and  quality  of  education  based  on  the  unity  of  mandatory requirements for the conditions for the implementation of basic educational programs and the results of their development.
 
 (Federal state educational standard - a set of mandatory requirements for education at a certain level  and  (or)  for  a  profession,  specialty  and  field  of  study,  approved  depending  on  the  level  of education.)
 
 Federal state educational standards include requirements for:
 
-- the structure of the main educational programs (including the ratio of the compulsory part of the main educational program and the part formed by the participants in educational relations) and their volume;
+1) the structure of the main educational programs (including the ratio of the compulsory part of the main educational program and the part formed by the participants in educational relations) and their volume;
 
-- conditions for the implementation of basic educational programs, including personnel, financial, material and technical and other conditions ;
+2) conditions for the implementation of basic educational programs, including personnel, financial, material and technical and other conditions ;
 
-- the results of mastering basic educational programs.
+3) the results of mastering basic educational programs.
 
 In order to ensure the realization of the right to education of students with disabilities, federal state educational standards for the education of these persons are established or special requirements are included in federal state educational standards.
 
@@ -684,11 +694,11 @@ Teachers enjoy the following academic rights and freedoms:
 
 Teachers have the following labor rights and social guarantees:
 
-- the right to shortened working hours;
+1) the right to shortened working hours;
 
 2) the right to additional professional education in the field of pedagogical activity at least once every three years;
 
-- the right to an annual basic extended paid vacation;
+3) the right to an annual basic extended paid vacation;
 
 4) the right to a long vacation for up to one year at least every ten years of continuous pedagogical work;
 
@@ -836,11 +846,11 @@ Foreign citizens and stateless persons in the Russian Federation are vested with
 
 One of the tasks set in the Concept of the State Migration Policy of the Russian Federation for 2019-2025, approved by Decree of the President of the Russian Federation of October 3, 2018 No. 622 , is to conduct focused work to create favorable conditions by means of training for painless adaptation of migrant children to Russian society as a resource for the painless adaptation and integration of their parents  (labor  migrants)  into  Russian  society,  the  prevention  of  criminal  manifestations,  and  the prevention of ethnic conflicts.
 
-In a number of constituent entities of the Russian Federation, regional concepts of migration
+In a number of constituent entities of the Russian Federation, regional concepts of migration policy have been approved in order to adapt migrant children to Russian society.
 
-policy have been approved in order to adapt migrant children to Russian society. In accordance with the Federal Law of October 22, 2013 No. 284-ФЗ 'On Amending Certain Legislative Acts of the Russian Federation Regarding the Definition of Powers and Responsibilities of State Authorities of the Subjects of the Russian Federation, Local Self-Government Bodies and Their Officials in the Field of Interethnic Relations', a question development and implementation of measures aimed at ensuring the social and cultural adaptation of migrants is referred to the authority of local authorities. Admission of citizens, including migrants, to study in educational programs of primary, basic, general and secondary general education, as well as transfer of students from one organization engaged in  educational  activities  in  educational  programs  of  primary,  basic,  general  and  secondary  general education,  to  other  organizations  carrying  out  educational  activities  on  educational  programs  of  the appropriate level and focus is carried out in accordance with the orders of the Ministry of Education and dated March 12, 2014 No.
+In accordance with the Federal Law of October 22, 2013 No. 284-ФЗ 'On Amending Certain Legislative Acts of the Russian Federation Regarding the Definition of Powers and Responsibilities of State Authorities of the Subjects of the Russian Federation, Local Self-Government Bodies and Their Officials in the Field of Interethnic Relations', a question development and implementation of measures aimed at ensuring the social and cultural adaptation of migrants is referred to the authority of local authorities.
 
-Science of the Russian Federation dated January 22, 2014 No. 32 and 177.
+Admission of citizens, including migrants, to study in educational programs of primary, basic, general and secondary general education, as well as transfer of students from one organization engaged in educational activities in educational programs of primary, basic, general and secondary general education, to other organizations carrying out educational activities on educational programs of the appropriate level and focus is carried out in accordance with the orders of the Ministry of Education and Science of the Russian Federation dated January 22, 2014 No. 32 and dated March 12, 2014 No. 177.
 
 Admission  of  citizens  to  organizations  carrying  out  educational  activities  on  educational programs of primary, basic, general and secondary general education is carried out upon the personal application of the parent (legal representative) of the child upon presentation of the original document proving the identity of the parent (legal representative), or the original document proving the identity of the  foreign  citizen  and  stateless  person  in  the  Russian  Federation  in  accordance  with Article  10  of the Federal Law of July 25, 2002 No. 115-ФЗ 'On the Legal Status of Foreign Citizens in the Russian Federation'.
 
@@ -874,7 +884,7 @@ Within  the  framework  of  the  national  project  'Education',  the  federal  
 
 ### 1.1 Please  indicate  and  provide  any  information  on  the  difficulties  encountered  in  the  implementation  of  key provisions of the Convention / Recommendation (including legal and practical obstacles), as well as on the main issues that need to be addressed to further advance the right to education in your country (can be noted / noted a few points):
 
-Problems  related  to  equal  access  and  inclusion  in  education  (such  as  poverty  and  socioeconomic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
+Problems  related  to  equal  access  and  inclusion  in  education  (such  as  poverty  and  socio-economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
 
 Problems related to the quality of education (for example, lack of qualified, trained and motivated teachers, unsupported or inadequate teaching and learning, as well as the school environment, etc.)
 
@@ -964,26 +974,26 @@ Other:
 
 24
 
-- Which calls on states "to ensure equal access for all women and men to affordable and high-quality vocational and higher education, including university education."
+[9] Which calls on states "to ensure equal access for all women and men to affordable and high-quality vocational and higher education, including university education."
 
-- Which  recommends  "a substantial  increase  in  the  number  of  young  and  adult  people  with  relevant  skills,  including vocational and technical skills, for employment, decent work and entrepreneurship ."
+[10] Which  recommends  "a substantial  increase  in  the  number  of  young  and  adult  people  with  relevant  skills,  including vocational and technical skills, for employment, decent work and entrepreneurship ."
 
 [11] See: Article / Clause 1 (1).
 
 [12] https : // issek . hse . com / mirror / pubs / share / 352549981. pdf
 
-- http : // static . government . com / media / files / UuG 1 ErcOWtjfOFCsqdLsLxC 8 oPFDkmBB . pdf
+[13] http : // static . government . com / media / files / UuG 1 ErcOWtjfOFCsqdLsLxC 8 oPFDkmBB . pdf
 
-- Calling  on  States 'to  ensure  that  all  students  acquire  the  knowledge  and  skills  necessary  to  promote  sustainable development, including  through  training  on  sustainable  development  and  sustainable  lifestyles,  human  rights,  gender equality, promoting a culture of peace and non-violence, world citizenship and awareness of the value of cultural diversity and the contribution of culture to sustainable development. '
+[14] Calling  on  States 'to  ensure  that  all  students  acquire  the  knowledge  and  skills  necessary  to  promote  sustainable development, including  through  training  on  sustainable  development  and  sustainable  lifestyles,  human  rights,  gender equality, promoting a culture of peace and non-violence, world citizenship and awareness of the value of cultural diversity and the contribution of culture to sustainable development. '
 
 [15] See: Article / Clause 1 (1).
 
-- Articles / Paragraphs 1 and 3.
+[16] Articles / Paragraphs 1 and 3.
 
-- Namely, the 2016 New York Declaration on Refugees and Migrants, the Comprehensive Response System and the two Global Refugee Treaties and on safe, orderly and regular migration.
+[17] Namely, the 2016 New York Declaration on Refugees and Migrants, the Comprehensive Response System and the two Global Refugee Treaties and on safe, orderly and regular migration.
 
 [18] http : // static . government . com / media / files / UuG 1 ErcOWtjfOFCsqdLsLxC 8 oPFDkmBB . pdf
 
-- http : // static . government . com / media / files / VGZkuVnp 1 h 5 rLAAIBZ 1 AsP 5 zv 4 zhI 79 t . pdf
+[19] http : // static . government . com / media / files / VGZkuVnp 1 h 5 rLAAIBZ 1 AsP 5 zv 4 zhI 79 t . pdf
 
 [[END OF PAGE 24]]
