@@ -125,7 +125,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 [[START OF PAGE 6]]
 
 ###### 2 Kamachi.
-Kunjamatixa janira janq'u janchini j aqinaka  purinipkana  ukatpachawa  aka pachpankiri  markachirinakaxa  qamasipxanxa pachpa uraqipanakana amtawinakapaxa Bolivia marka  mayachasa  yäqataxiwa  ukjamaraki amtanakaparjamawa  p'iqiñchirinakasa  marka aqnaqasiñasa  sarawinakarjamawa  Tayka kamachi taypi phuqhasirakini.
+Kunjamatixa janira janq'u janchini jaqinaka purinipkana ukatpachawa aka pachpankiri markachirinakaxa qamasipxanxa pachpa uraqipanakana amtawinakapaxa Bolivia marka mayachasa yäqataxiwa ukjamaraki amtanakaparjamawa p'iqiñchirinakasa marka apnaqasiñasa sarawinakarjamawa Tayka kamachi taypi phuqhasirakini.
 
 ###### 3 Kamachi.
 Bolivia markaxa chacha ukjamraki warmi  ukatxa  naciones  y  pueblos  indígena originario  campesinos  ayllunakata  ch'iyara janchini  markachirinakata  taqi  markachirinaka utt'ayatawa.
@@ -133,9 +133,9 @@ Bolivia markaxa chacha ukjamraki warmi  ukatxa  naciones  y  pueblos  indígena 
 ###### 4  Kamachi.
 Estado  ukaxa  kunaymana yupaychawinaka  sapa  markana  qamawiparjamawa yäqi ukjamaraki jay saraki. Estado ukaxa yupaychawinxa qhisphitawa.
 
-###### 5 Kamachi .
+###### 5 Kamachi.
 
-- Taqi  markanakana,  ayllunakana,  pata jilatanakasana  arsuwinakapaxa  utjiwa, aymara, araona, baure, bésiro, canichana, cavineño,  cayobaba,  chacobo,  chiman, ese  ejja,  guarani,  guarasuawe,  guarayu, itoname,  leco,  machajuyai  -  kallawaya, machineri,  maropa,  mojeño  -  trinitario, mojeño - ignaciano, moré, mosetén, movida, pacawara, puquina,  quechua,  siriono,  tacana, tapiete, toromona, uru - chipaya, wenhayek, yaminawa,Auki,  yuracaré,  ukjamaraki zamuco taqi aka arunakawa estado taypixa yäqata arsuña arunakaxiwa.
+- I. Taqi markanakana, ayllunakana, pata jilatanakasana arsuwinakapaxa utjiwa, aymara, araona, baure, bésiro, canichana, cavineño, cayubaba, chácobo, chimán, ese ejja, guaraní, guarasu'we, guarayu, itonama, leco, machajuyai-kallawaya, machineri, maropa, mojeño-trinitario, mojeño-ignaciano, moré, mosetén, movima, pacawara, puquina, quechua, sirionó, tacana, tapiete, toromona, uru-chipaya, weenhayek, yaminawa, yuki, yuracaré, ukjamaraki zamuco taqi aka arunakawa estado taypixa yäqata arsuña arunakaxiwa.
 
 ###### Artículo  2.
 Dada  la  existencia  precolonial  de las  naciones  y  pueblos  indígena  originario campesinos y su dominio ancestral sobre sus territorios,  se  garantiza  su  libre  determinación  en el  marco  de  la  unidad  del  Estado,  que  consiste  en su derecho a la autonomía, al autogobierno, a su cultura, al reconocimiento de sus instituciones y a la consolidación de sus entidades territoriales, conforme a esta Constitución y la ley.
@@ -148,7 +148,7 @@ El  Estado  respeta  y  garantiza  la libertad de religión y de creencias espir
 
 ###### Artículo 5.
 
-- Son idiomas oficiales  del  Estado  el  castellano y  todos  los  idiomas  de  las  naciones  y  pueblos indígena originario campesinos, que son el aymara, araona, baure, bésiro, canichana, cavineño, cayubaba, chácobo, chimán, ese ejja,  guaraní,  guarasu'we,  guarayu,  itonama, leco,  machajuyai-kallawaya,  machineri, maropa, mojeño-trinitario,  mojeño-ignaciano, moré, mosetén, movima, pacawara, puquina, quechua, sirionó, tacana, tapiete, toromona, uru-chipaya,  weenhayek,  yaminawa,  yuki, yuracaré y zamuco.
+- I. Son idiomas oficiales del Estado el castellano y todos los idiomas de las naciones y pueblos indígena originario campesinos, que son el aymara, araona, baure, bésiro, canichana, cavineño, cayubaba, chácobo, chimán, ese ejja, guaraní, guarasu'we, guarayu, itonama, leco, machajuyai-kallawaya, machineri, maropa, mojeño-trinitario, mojeño-ignaciano, moré, mosetén, movima, pacawara, puquina, quechua, sirionó, tacana, tapiete, toromona, uru-chipaya, weenhayek, yaminawa, yuki, yuracaré y zamuco.
 
 6
 
@@ -158,26 +158,26 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 7]]
 
-- Gobierno  Plurinacional  ukjamaraki  Gobiernos departamentales  ukankirinakaxa  pä aruta  arsuripxañapawa.  Mayïrixa  kastilla aru  ukjarusti  kawkniri  aruya  pachpa makachirinakana arsutachi taqina uñt'atachi uka  aruwa  arsutañapa.  Gobiernos  autónomos chhijllatanakaxa pachpa qamawina arsutäki uka  aru  arsupxañapa  ukatxa  castilla  aru arsupxañaparaki.
+- II. Gobierno Plurinacional ukjamaraki Gobiernos departamentales ukankirinakaxa pä aruta arsuripxañapawa. Mayïrixa kastilla aru ukjarusti kawkniri aruya pachpa markachirinakana arsutachi taqina uñt'atachi uka aruwa arsutañapa. Gobiernos autónomos chhijllatanakaxa pachpa qamawina arsutäki uka aru arsupxañapa ukatxa castilla aru arsupxañaparaki.
 
 ###### 6 Kamachi.
 
-- Sucre  markaxa  capital  de  Bolivia ukjamawa.
+- I. Sucre markaxa capital de Bolivia ukjamawa.
 
-- Chimpunakapaxa  banderanxa  kimsa saminakaniwa,  chupika,  q'illu,  ch'uxña; Bolivia jaylliwi, escudo de armas; wiphala; escarapela;  kantuta  panqara  pachparaki patuju panqara ukanakawa.
+- II. Chimpunakapaxa banderanxa kimsa saminakaniwa, chupika, q'illu, ch'uxña; Bolivia jaylliwi, escudo de armas; wiphala; escarapela; kantuta panqara pachparaki patuju panqara ukanakawa.
 
 #### PAYÏRI JALJA ESTADO UKANA NAYRIRI AMTANAKA, ASKINAKA UKJAMARAKI PHUQHAÑANAKA
 
 ###### 7  Kamachi.
-Soberanía  del  pueblo  boliviano ukaxa chiqapa ukjamaraki p'iqinchiripa taypiwa phuqhasi. Ukakipanwa kunaymana delegación, funciones  de  los  órganos  del  poder  público saraqaraki;  ukatxa  inalienable  ukjamaraki imprescriptible ukjamawa.
+Soberanía del pueblo boliviano ukaxa chiqapa ukjamaraki p'iqinchiripa taypiwa phuqhasi. Ukakipanwa kunaymana delegación, funciones de los órganos del poder público saraqaraki; ukatxa inalienable ukjamaraki imprescriptible ukjamawa.
 
-- El  Gobierno  plurinacional  y  los  gobiernos departamentales  deben  utilizar  al  menos dos  idiomas  oficiales.  Uno  de  ellos  debe ser  el  castellano,  y  el  otro  se  decidirá tomando en cuenta el uso, la conveniencia, las  circunstancias,  las  necesidades  y preferencias de la población en su totalidad o  del  territorio  en  cuestión.  Los  demás gobiernos  autónomos  deben  utilizar  los idiomas propios de su territorio,  y  uno  de ellos debe ser el castellano.
+- II. El Gobierno plurinacional y los gobiernos departamentales deben utilizar al menos dos idiomas oficiales. Uno de ellos debe ser el castellano, y el otro se decidirá tomando en cuenta el uso, la conveniencia, las circunstancias, las necesidades y preferencias de la población en su totalidad o del territorio en cuestión. Los demás gobiernos autónomos deben utilizar los idiomas propios de su territorio, y uno de ellos debe ser el castellano.
 
 ###### Artículo 6.
 
-- Sucre es la Capital de Bolivia.
+- I. Sucre es la Capital de Bolivia.
 
-- Los  símbolos  del  Estado  son  la  bandera tricolor  rojo,  amarillo  y  verde;  el  himno boliviano; el escudo de armas; la wiphala; la escarapela; la flor de la kantuta y la flor del patujú.
+- II. Los símbolos del Estado son la bandera tricolor rojo, amarillo y verde; el himno boliviano; el escudo de armas; la wiphala; la escarapela; la flor de la kantuta y la flor del patujú.
 
 #### CAPÍTULO SEGUNDO PRINCIPIOS, VALORES Y FINES DEL ESTADO
 
@@ -194,29 +194,29 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 8 Kamachi.
 
-- Estado ukaxa apxaruwa ukjamaraki yäqiwa sumana qamaña - jakaña taqi markanakana: ama  qhilla,  ama  llulla,  ama  suwa  (jani jayramti,  jani  k'arimti,  janiraki  lunthatanti), suma qamaña ( vivir bien ), ñandereko (Vida armoniosa  ),  teko  kavi  (Vida  Buena),  ivi maraei (Tierra  sin  mal),  ukjamaraki  qhapajñan ( Camino o Vida noble).
+- I. Estado ukaxa apxaruwa ukjamaraki yäqiwa sumana qamaña - jakaña taqi markanakana: ama qhilla, ama llulla, ama suwa (jani jayramti, jani k'arimti, janiraki lunthatanti), suma qamaña ( vivir bien ), ñandereko (Vida armoniosa ), teko kavi (Vida Buena), ivi maraei (Tierra sin mal), ukjamaraki qhapajñan ( Camino o Vida noble).
 
-- Estado ukaxa mä amtawimpi, chikachawimpi,  taqinimpi,  yaqawimpi,  amtawiparu sarnaqawimpi,  yanapasiwimpi,  aynimpi, yaqäwimpi,  phuqachawimpi,  sumana qamañampi,  suma  uñjawimpi,  puraparu chikachasiwimpi,  taqinisa  mayaki  amuyawimpi, chachasa, warmisa mayaki amtawinakampi, suma qamawimpi, phuqawimpi, taqinitakisa mä phuqawimpi jaljawinakampi, ukjamaraki jalanuqawinakampi  achunaka  ukjamaraki aski yänaka, sumana jakañatakiwa amtaparu phuqani.
+- II. Estado ukaxa mä amtawimpi, chikachawimpi, taqinimpi, yaqawimpi, amtawiparu sarnaqawimpi, yanapasiwimpi, aynimpi, yaqäwimpi, phuqachawimpi, sumana qamañampi, suma uñjawimpi, puraparu chikachasiwimpi, taqinisa mayaki amuyawimpi, chachasa, warmisa mayaki amtawinakampi, suma qamawimpi, phuqawimpi, taqinitakisa mä phuqawimpi jaljawinakampi, ukjamaraki jalanuqawinakampi achunaka ukjamaraki aski yänaka, sumana jakañatakiwa amtaparu phuqani.
 
 ###### 9  Kamachi.
-Estado  ukana  jach'a  amta phuqhawinakapawa ukjamarus tayka kamachina qillqata:
+Estado ukana jach'a amta phuqhawinakapawa ukjamarus tayka kamachina qillqata:
 
-- Markachirinaka    aski  qamawi,  nayra amtawirjama,    jani  jisk'achasa,  jani j awch'jasa,    yaparu    taripawina yäqata,  taqi  markana mayachañataki wakt'ayaña.
+- 1. Markachirinaka aski qamawi, nayra amtawirjama, jani jisk'achasa, jani jawch'jasa, yaparu taripawina yäqata, taqi markana mayachañataki wakt'ayaña.
 
-- Aski  qamawi,  nayraru  sartawi,    suma uñjawi,  jani  walita  jark'aqawi,  Kikipata yäqasiwi,    markachirinakampi,    ukjamaraki ayllunakampi  ukanaka jay saña ukatxa purapata  yäqasiwi,  sarawinakarjama arukipawi  kunaymana  pachpankiri arunakata ukanaka ch'amañchaña.
+- 2. Aski qamawi, nayraru sartawi, suma uñjawi, jani walita jark'aqawi, Kikipata yäqasiwi, markachirinakampi, ukjamaraki ayllunakampi ukanaka jay saña ukatxa purapata yäqasiwi, sarawinakarjama arukipawi kunaymana pachpankiri arunakata ukanaka ch'amañchaña.
 
 ###### Artículo 8.
 
-- El  Estado  asume  y  promueve  como  principios ético-morales  de  la  sociedad  plural:  ama qhilla,  ama  llulla,  ama  suwa  (no  seas flojo,  no  seas  mentiroso  ni  seas  ladrón), suma qamaña (vivir bien), ñandereko (vida armoniosa), teko kavi  (vida  buena),  ivi  maraei (tierra sin mal) y qhapaj ñan (camino o vida noble).
+- I. El Estado asume y promueve como principios ético-morales de la sociedad plural: ama qhilla, ama llulla, ama suwa (no seas flojo, no seas mentiroso ni seas ladrón), suma qamaña (vivir bien), ñandereko (vida armoniosa), teko kavi (vida buena), ivi maraei (tierra sin mal) y qhapaj ñan (camino o vida noble).
 
-- El  Estado  se  sustenta  en  los  valores  de unidad,  igualdad,  inclusión,  dignidad, libertad, solidaridad, reciprocidad, respeto, complementariedad, armonía, transparencia, equilibrio,  igualdad  de  oportunidades, equidad social  y  de  género  en  la  participación, bienestar  común,  responsabilidad,  justicia social,  distribución  y  redistribución  de  los productos  y  bienes  sociales,  para  vivir bien.
+- II. El Estado se sustenta en los valores de unidad, igualdad, inclusión, dignidad, libertad, solidaridad, reciprocidad, respeto, complementariedad, armonía, transparencia, equilibrio, igualdad de oportunidades, equidad social y de género en la participación, bienestar común, responsabilidad, justicia social, distribución y redistribución de los productos y bienes sociales, para vivir bien.
 
 ###### Artículo  9.
-Son  fines  y  funciones  esenciales del  Estado,  además  de  los  que  establece  la Constitución y la ley:
+Son fines y funciones esenciales del Estado, además de los que establece la Constitución y la ley:
 
-- Constituir  una  sociedad  justa  y  armoniosa, cimentada  en  la  descolonización,  sin discriminación  ni  explotación,  con plena justicia social, para consolidar las identidades plurinacionales.
+- 1. Constituir una sociedad justa y armoniosa, cimentada en la descolonización, sin discriminación ni explotación, con plena justicia social, para consolidar las identidades plurinacionales.
 
-- Garantizar el bienestar, el desarrollo, la seguridad y la  protección  e  igual  dignidad de  las  personas,  las  naciones,  los pueblos y las comunidades, y fomentar el  respeto  mutuo  y  el  diálogo  intracultural, intercultural y plurilingüe.
+- 2. Garantizar el bienestar, el desarrollo, la seguridad y la protección e igual dignidad de las personas, las naciones, los pueblos y las comunidades, y fomentar el respeto mutuo y el diálogo intracultural, intercultural y plurilingüe.
 
 8
 
@@ -226,37 +226,37 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 9]]
 
-- Marka  mayachasa  taqi  markanaka utnuqayaña.
+- 3. Marka mayachasa taqi markanaka utnuqayaña.
 
-- Nayrïri amtawinaka aski ch'amanchawi amtawinaka phuqhawinaka uñt'ata aka tayka kamachina yäqaña.
+- 4. Nayrïri amtawinaka aski ch'amanchawi amtawinaka phuqhawinaka uñt'ata aka tayka kamachina yäqaña.
 
-- Markachirinakan yatiqawiparu janchina qullawiparu  ukjamaraki  irnaqawiparu yäqaña.
+- 5. Markachirinakan yatiqawiparu janchina qullawiparu ukjamaraki irnaqawiparu yäqaña.
 
-- Akapachankiri yanakaxa aski amuyumpi amtasa ch'amañchaña luraña ukjamaraki kunayman  aski  yänaka  tukuyaña  jani aka  pacha  ñanqhachasa  aski  samana uñjasapuni.
+- 6. Akapachankiri yanakaxa aski amuyumpi amtasa ch'amañchaña luraña ukjamaraki kunayman aski yänaka tukuyaña jani aka pacha ñanqhachasa aski samana uñjasapuni.
 
 ###### 10 Kamachi.
 
-- Boliviaxa  mä  estado  jani  ch'axmiri  aski sarawinakampi chika suma qamañaru ukatxa kunaymana  markanakampi  yanapasiwina jach'anchi ukjamata purapata yäqasiñataki kikipa  nayraru  sarantawina  kunaymana markanakana yäqasa ukampisa soberania de los estados yäqaraki ukjamawa.
+- I. Boliviaxa mä estado jani ch'axmiri aski sarawinakampi chika suma qamañaru ukatxa kunaymana markanakampi yanapasiwina jach'anchi ukjamata purapata yäqasiñataki kikipa nayraru sarantawina kunaymana markanakana yäqasa ukampisa soberania de los estados yäqaraki ukjamawa.
 
-- Bol i v i a markaxa k u n a y m a n a ch'awxthaptawinaka, nuwasiñanaka estado ukanakapura  janiwa  jayskiti  ukjamata aski  amtawinaka  phuqhatañapawa  kunatï sapjtawinakarusa ukjamaraki estado ukana mayaki phuqawimpi phuqaña.
+- II. Bolivia markaxa kunaymana ch'awxthaptawinaka, nuwasiñanaka estado ukanakapura janiwa jayskiti ukjamata aski amtawinaka phuqhatañapawa kunatï sapjtawinakarusa ukjamaraki estado ukana mayaki phuqawimpi phuqaña.
 
-- Bolivia uraqisaruxa anqata mantaniri palla pallanakaruxa janiwa utt'ayasipkaspati.
+- III. Bolivia uraqisaruxa anqata mantaniri palla pallanakaruxa janiwa utt'ayasipkaspati.
 
-- Reafirmar y consolidar la  unidad  del  país, y preservar como patrimonio histórico y humano la diversidad plurinacional.
+- 3. Reafirmar y consolidar la unidad del país, y preservar como patrimonio histórico y humano la diversidad plurinacional.
 
-- Garantizar  el  cumplimiento  de  los principios, valores, derechos y deberes reconocidos  y  consagrados  en  esta Constitución.
+- 4. Garantizar el cumplimiento de los principios, valores, derechos y deberes reconocidos y consagrados en esta Constitución.
 
-- Garantizar el acceso de las personas a la educación, a la salud y al trabajo.
+- 5. Garantizar el acceso de las personas a la educación, a la salud y al trabajo.
 
-- Promover  y  garantizar  el  aprovechamiento  responsable  y  planificado  de los  recursos  naturales,  e  impulsar  su industrialización,  a  través  del  desarrollo  y del fortalecimiento de la base productiva en sus diferentes dimensiones y niveles, así  como  la  conservación  del  medio ambiente,  para  el  bienestar  de  las generaciones actuales y futuras.
+- 6. Promover y garantizar el aprovechamiento responsable y planificado de los recursos naturales, e impulsar su industrialización, a través del desarrollo y del fortalecimiento de la base productiva en sus diferentes dimensiones y niveles, así como la conservación del medio ambiente, para el bienestar de las generaciones actuales y futuras.
 
 ###### Artículo 10.
 
-- Bolivia  es  un  Estado  pacifista,  que  promueve la cultura de la paz y el derecho a la paz, así como la cooperación entre los pueblos de la región y del mundo, a fin de contribuir al conocimiento mutuo, al desarrollo equitativo y  a  la  promoción  de  la  interculturalidad, con  pleno  respeto  a  la  soberanía  de  los estados.
+- I. Bolivia es un Estado pacifista, que promueve la cultura de la paz y el derecho a la paz, así como la cooperación entre los pueblos de la región y del mundo, a fin de contribuir al conocimiento mutuo, al desarrollo equitativo y a la promoción de la interculturalidad, con pleno respeto a la soberanía de los estados.
 
-- Bolivia  rechaza  toda  guerra  de  agresión  como instrumento  de  solución  a  los  diferendos y  conflictos  entre  estados  y  se  reserva  el derecho a la legítima defensa en caso de agresión que comprometa la independencia y la integridad del Estado.
+- II. Bolivia rechaza toda guerra de agresión como instrumento de solución a los diferendos y conflictos entre estados y se reserva el derecho a la legítima defensa en caso de agresión que comprometa la independencia y la integridad del Estado.
 
-- Se prohíbe la instalación de bases militares extranjeras en territorio boliviano.
+- III. Se prohíbe la instalación de bases militares extranjeras en territorio boliviano.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -270,41 +270,41 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 11 Kamachi.
 
-- Bolivia  markasaxa  irpirïñatakixa  democrática participativa,  representativa  y  comunitaria markachirinakata  kikipa  ukanakata utt'ayatawa.
+- I. Bolivia markasaxa irpirïñatakixa democrática participativa, representativa y comunitaria markachirinakata kikipa ukanakata utt'ayatawa.
 
-- Democracia ukaxa akniri kamachinakatwa wakt'ayata:
+- II. Democracia ukaxa akniri kamachinakatwa wakt'ayata:
 
-- J i s k t ' ä w i t a y p i w a c h i q a p a chikañchasiwixa  markachirinakata amtaparjamaxa  p'iqinchiri  jaqsuñataki tantachasiswina ukjamaraki jiskt'awina. Asambleísta  ukatxa  tantachasiwina ukana  aruskipawixa  kamachirjamawa phuqhasini.
+- 1. Jiskt'äwi taypiwa chiqapa chikañchasiwixa markachirinakata amtaparjamaxa p'iqinchiri jaqsuñataki tantachasiwina ukjamaraki jiskt'awina. Asambleísta ukatxa tantachasiwina ukana aruskipawixa kamachirjamawa phuqhasini.
 
-- Chhijllawi  taypiwa  irpirinakaruxa chiqaki  ukjamaraki  jani  khitina  uñjata kamachirjama phuqasa chhijllatäni.
+- 2. Chhijllawi taypiwa irpirinakaruxa chiqaki ukjamaraki jani khitina uñjata kamachirjama phuqasa chhijllatäni.
 
-- Naciones y pueblos i n d í g e n a originario campesinos ukanak a n a p ' i q i n c h i r i n a k a p a x a sarawinakaparjamawa chhijllatarakini.
+- 3. Naciones y pueblos indígena originario campesinos ukanakana p'iqinchirinakapaxa sarawinakaparjamawa chhijllatarakini.
 
 ###### 12 Kamachi.
 
-- Estado  ukaxa  pusi  tayka  qutunakaniwa Legislativo,  Ejecutivo,  Judicial  ukjamaraki Electoral.  Estado  ukana  qutuchawipaxa sapaki,  t'aqxtawi,  chikachata  ukjamaraki yanapsita aka qutunakampi ukjamawa.
+- I. Estado ukaxa pusi tayka qutunakaniwa Legislativo, Ejecutivo, Judicial ukjamaraki Electoral. Estado ukana qutuchawipaxa sapaki, t'aqxtawi, chikachata ukjamaraki yanapsita aka qutunakampi ukjamawa.
 
-- Uñjawi, a r x a t a w i , u k a n a k a x a markachirinakaru ukatxa estado ukanakaxa estado ukana phuqhawipawa.
+- II. Uñjawi, arxatawi, ukanakaxa markachirinakaru ukatxa estado ukanakaxa estado ukana phuqhawipawa.
 
 #### CAPÍTULO TERCERO SISTEMA DE GOBIERNO
 
 ###### Artículo 11.
 
-- La  República  de  Bolivia  adopta  para  su gobierno la forma democrática participativa, representativa  y  comunitaria,  con  equivalencia de condiciones entre hombres y mujeres.
+- I. La República de Bolivia adopta para su gobierno la forma democrática participativa, representativa y comunitaria, con equivalencia de condiciones entre hombres y mujeres.
 
-- La democracia se ejerce de las siguientes formas, que serán desarrolladas por la ley:
+- II. La democracia se ejerce de las siguientes formas, que serán desarrolladas por la ley:
 
-- Directa  y  participativa,  por  medio del  referendo,  la  iniciativa  legislativa ciudadana, la revocatoria de mandato, la  asamblea,  el  cabildo  y  la  consulta previa.  Las  asambleas  y  cabildos  tendrán carácter deliberativo conforme a Ley.
+- 1. Directa y participativa, por medio del referendo, la iniciativa legislativa ciudadana, la revocatoria de mandato, la asamblea, el cabildo y la consulta previa. Las asambleas y cabildos tendrán carácter deliberativo conforme a Ley.
 
-- Representativa, por medio de la elección de  representantes  por  voto  universal, directo y secreto, conforme a Ley.
+- 2. Representativa, por medio de la elección de representantes por voto universal, directo y secreto, conforme a Ley.
 
-- Comunitaria, por medio de la elección, designación o  nominación  de  autoridades y  representantes  por  normas  y procedimientos propios de las naciones y pueblos indígena originario campesinos, entre otros, conforme a Ley .
+- 3. Comunitaria, por medio de la elección, designación o nominación de autoridades y representantes por normas y procedimientos propios de las naciones y pueblos indígena originario campesinos, entre otros, conforme a Ley.
 
 ###### Artículo 12.
 
-- El Estado se organiza y estructura su poder público a través de los órganos Legislativo, Ejecutivo,  Judicial  y  Electoral.  La  organización del  Estado  está  fundamentada  en  la independencia, separación, coordinación y cooperación de estos órganos.
+- I. El Estado se organiza y estructura su poder público a través de los órganos Legislativo, Ejecutivo, Judicial y Electoral. La organización del Estado está fundamentada en la independencia, separación, coordinación y cooperación de estos órganos.
 
-- Son funciones estatales la de Control, la de Defensa de la Sociedad y la de Defensa del Estado.
+- II. Son funciones estatales la de Control, la de Defensa de la Sociedad y la de Defensa del Estado.
 
 10
 
@@ -314,7 +314,7 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 11]]
 
-- Órganos  públicos  ukanakaruxa  janiwa mayachatakaspati phuqawinakapaxa.
+- III. Órganos públicos ukanakaruxa janiwa mayachatakaspati phuqawinakapaxa.
 
 ### PAYÏRI UÑAÑCHAWI ASKI YAQAÑANAKA UKJAMARAKI GARANTÍAS
 
@@ -322,15 +322,15 @@ MACHAQA TAYKA KAMACHI
 
 ###### 13 Kamachi.
 
-- I . Aka t a y k a kamachina amtawi phuqawinakaparuxa,  janiwa  khitisa kachxatkaspati, mayachataparu, jaljtawiru,  ukjamaraki  jach'añchawiparu phuqasiñapawa. Estado ukaxa jach'añchawiru,  uñjañaru  ukjamaraki yaqañarusa phuqañapawa.
+- I. Aka tayka kamachina amtawi phuqawinakaparuxa, janiwa khitisa kachxatkaspati, mayachataparu, jaljtawiru, ukjamaraki jach'añchawiparu phuqasiñapawa. Estado ukaxa jach'añchawiru, uñjañaru ukjamaraki yaqañarusa phuqañapawa.
 
-- Aka tayka kamachina qillqatanakapaxa jani yaqhipa uñt'ayatanakaruxa janiwa phuqkati sañäkiti.
+- II. Aka tayka kamachina qillqatanakapaxa jani yaqhipa uñt'ayatanakaruxa janiwa phuqkati sañäkiti.
 
-- Aka tayka kamachinxa janiwa khitisa  maynita jila phuqawinikaspati.
+- III. Aka tayka kamachinxa janiwa khitisa maynita jila phuqawinikaspati.
 
-- Tratado  ukjamaraki  convenios  internacionales ukanakaxa  Asamblea legislativa  plurinacional ukawa derechos  humanos  uñt'asa  ukjamaraki estados  de  excepción  marka  pachpataki tuwaqapxarakini.  Derechos  ukjamaraki deberes consagrados aka tayka kamachinxa kunjamati tratados  internacional  de  derechos humanos  jay  sataki  Bolivia  markata ukjamarjamawa amuyatarakini.
+- IV. Tratado ukjamaraki convenios internacionales ukanakaxa Asamblea legislativa plurinacional ukawa derechos humanos uñt'asa ukjamaraki estados de excepción marka pachpataki tuwaqapxarakini. Derechos ukjamaraki deberes consagrados aka tayka kamachinxa kunjamati tratados internacional de derechos humanos jay sataki Bolivia markata ukjamarjamawa amuyatarakini.
 
-- Las funciones de los órganos públicos no pueden ser reunidas en un solo órgano ni son delegables entre si.
+- III. Las funciones de los órganos públicos no pueden ser reunidas en un solo órgano ni son delegables entre si.
 
 ### TÍTULO II DERECHOS FUNDAMENTALES Y GARANTÍAS
 
@@ -338,13 +338,13 @@ MACHAQA TAYKA KAMACHI
 
 ###### Artículo 13.
 
-- Los  derechos  reconocidos  por  esta Constitución  son  inviolables,  universales, interdependientes,  indivisibles  y  progresivos. El  Estado  tiene  el  deber  de  promoverlos, protegerlos y respetarlos.
+- I. Los derechos reconocidos por esta Constitución son inviolables, universales, interdependientes, indivisibles y progresivos. El Estado tiene el deber de promoverlos, protegerlos y respetarlos.
 
-- Los derechos que  proclama  esta  Constitución no serán entendidos como negación de otros derechos no enunciados.
+- II. Los derechos que proclama esta Constitución no serán entendidos como negación de otros derechos no enunciados.
 
-- La clasificación de los derechos establecida en esta Constitución no determina jerarquía alguna  ni  superioridad  de  unos  derechos sobre otros.
+- III. La clasificación de los derechos establecida en esta Constitución no determina jerarquía alguna ni superioridad de unos derechos sobre otros.
 
-- Los  tratados  y  convenios  internacionales ratificados  por  la  Asamblea  Legislativa Plurinacional, que reconocen los derechos humanos y que prohíben su limitación en los  Estados  de  Excepción  prevalecen  en el orden interno.  Los derechos y deberes consagrados  en  esta  Constitución  se interpretarán  de  conformidad  con  los Tratados  internacionales  de  derechos humanos ratificados por Bolivia.
+- IV. Los tratados y convenios internacionales ratificados por la Asamblea Legislativa Plurinacional, que reconocen los derechos humanos y que prohíben su limitación en los Estados de Excepción prevalecen en el orden interno. Los derechos y deberes consagrados en esta Constitución se interpretarán de conformidad con los Tratados internacionales de derechos humanos ratificados por Bolivia.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -356,31 +356,31 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 14 Kamachi.
 
-- Aka tayka kamachina taqi jaqiwa, jaqirjama amuyu  kamachina  qillqatarjama  jani  kuna mayjt'awimpi.
+- I. Aka tayka kamachina taqi jaqiwa, jaqirjama amuyu kamachina qillqatarjama jani kuna mayjt'awimpi.
 
-- Estado ukaxa kunaymana jisk'achawinakaru chachapasa warmipasa, kuna saminipasa, kawqha  maranipasa,  chacharu  tukuta  warmiru tukutapasa, kawkhana yuritapasa, kawkhana qamiripasa, kuna aru arsuripasa, tatituru  jaysiripansa,  kuna  amuyunipasa, kawkiri  politicorusa  sarpana,  sapapansa janukaxa  jaqichasitapansa,  qullqinipasa janisa  qullqinipana,  kawkirinsa  irnaqpana, kunaniskpansa,  usuripansa  taqi  markachiriwa mä amtani phuqhawinitanxa, ukjamata jani phuqhawiruxa jakhuyatani.
+- II. Estado ukaxa kunaymana jisk'achawinakaru chachapasa warmipasa, kuna saminipasa, kawqha maranipasa, chacharu tukuta - warmiru tukutapasa, kawkhana yuritapasa, kawkhana qamiripasa, kuna aru arsuripasa, tatituru jaysiripansa, kuna amuyunipasa, kawkiri politicorusa sarpana, sapapansa jani ukaxa jaqichasitapansa, qullqinipasa janisa qullqinipana, kawkirinsa irnaqpana, kunaniskpansa, usuripansa taqi markachiriwa mä amtani phuqhawinitanxa, ukjamata jani phuqhawiruxa jakhuyatani.
 
-- Estado  ukaxa  taqi  jaqiruwa  ukjamaraki markachirinakawa  jani  kunata  jisk'achata, j a n i kamsata t a y k a kamachiru phuqhawinakapaxa, askinjama yäqatawa.
+- III. Estado ukaxa taqi jaqiruwa ukjamaraki markachirinakawa jani kunata jisk'achata, jani kamsata tayka kamachiru phuqhawinakapaxa, askinjama yäqatawa.
 
-- Aka tayka kamachina jani qillqatanakaruxa janiwa  khitisa  ch'amapampi  munkiri  jani munkiri phuqaykaspati.
+- IV. Aka tayka kamachina jani qillqatanakaruxa janiwa khitisa ch'amapampi munkiri jani munkiri phuqaykaspati.
 
-- Bolivia  uraqisanxa,  Boliviana  qamirirusa, anqawjata  mantaniripasa  taqiniruwa kamachimpixa phuqayatani.
+- V. Bolivia uraqisanxa, Boliviana qamirirusa, anqawjata mantaniripasa taqiniruwa kamachimpixa phuqayatani.
 
-- Tayka  kamachiru,  anqata  mantaniri j i l a t a   ukjamaraki  kullakanakaruxa Bolivia  uraqisanxa  kamachirjamaxa amtanakapampixa phuqañapawa.
+- VI. Tayka kamachiru, anqata mantaniri jilata ukjamaraki kullakanakaruxa Bolivia uraqisanxa kamachirjamaxa amtanakapampixa phuqañapawa.
 
 ###### Artículo 14.
 
-- Todo  ser  humano  tiene  personalidad  y capacidad jurídica con arreglo a las leyes y goza de los derechos reconocidos por esta Constitución, sin distinción alguna.
+- I. Todo ser humano tiene personalidad y capacidad jurídica con arreglo a las leyes y goza de los derechos reconocidos por esta Constitución, sin distinción alguna.
 
-- El  Estado  prohíbe  y  sanciona  toda  forma de  discriminación  fundada  en  razón  de sexo,  color,  edad,  orientación  sexual, identidad  de  género,  origen,  cultura, nacionalidad,  ciudadanía,  idioma,  credo religioso,  ideología,  filiación  política  o filosófica, estado civil, condición económica o  social,  tipo  de  ocupación,  grado  de instrucción,  discapacidad,  embarazo,  u  otras que tengan por objetivo o resultado anular o  menoscabar  el  reconocimiento,  goce  o ejercicio, en condiciones de igualdad, de los derechos de toda persona.
+- II. El Estado prohíbe y sanciona toda forma de discriminación fundada en razón de sexo, color, edad, orientación sexual, identidad de género, origen, cultura, nacionalidad, ciudadanía, idioma, credo religioso, ideología, filiación política o filosófica, estado civil, condición económica o social, tipo de ocupación, grado de instrucción, discapacidad, embarazo, u otras que tengan por objetivo o resultado anular o menoscabar el reconocimiento, goce o ejercicio, en condiciones de igualdad, de los derechos de toda persona.
 
-- El Estado garantiza a todas las personas y colectividades,  sin  discriminación  alguna, el  libre  y  eficaz  ejercicio  de  los  derechos establecidos en esta Constitución, las leyes y los tratados internacionales de derechos humanos.
+- III. El Estado garantiza a todas las personas y colectividades, sin discriminación alguna, el libre y eficaz ejercicio de los derechos establecidos en esta Constitución, las leyes y los tratados internacionales de derechos humanos.
 
-- En el ejercicio de los derechos, nadie será obligado a hacer lo que la Constitución y las leyes no manden, ni a privarse de lo que éstas no prohíban.
+- IV. En el ejercicio de los derechos, nadie será obligado a hacer lo que la Constitución y las leyes no manden, ni a privarse de lo que éstas no prohíban.
 
-- Las leyes bolivianas se aplican a todas las personas, naturales o jurídicas, bolivianas o extranjeras, en el territorio boliviano.
+- V. Las leyes bolivianas se aplican a todas las personas, naturales o jurídicas, bolivianas o extranjeras, en el territorio boliviano.
 
-- Las  extranjeras  y  los  extranjeros  en  el territorio  boliviano  tienen  los  derechos  y deben cumplir los deberes establecidos en la Constitución, salvo las restricciones que ésta contenga.
+- VI. Las extranjeras y los extranjeros en el territorio boliviano tienen los derechos y deben cumplir los deberes establecidos en la Constitución, salvo las restricciones que ésta contenga.
 
 12
 
@@ -394,41 +394,41 @@ MACHAQA TAYKA KAMACHI
 
 ###### 15 Kamachi.
 
-- Taqi jaqiwa jakawiru ukjamaraki integridad física, psicológica y sexual derecho ukani. Janiwa  khitisa  tratos  crueles,  inhumanos, degradantes  y  humillantes  ukjamaru uñjatakaspati. Janiwa pena de muerte ukaxa utjkiti.
+- I. Taqi jaqiwa jakawiru ukjamaraki integridad física, psicológica y sexual derecho ukani. Janiwa khitisa tratos crueles, inhumanos, degradantes y humillantes ukjamaru uñjatakaspati. Janiwa pena de muerte ukaxa utjkiti.
 
-- Taqi  jaqinakawa  juk'ampisa  warminakaxa j a n i w a violencia f í s i c a , sexual  o psicológica  utjawina  markachiri  taypinsa ñanqhachatakapkaspati.
+- II. Taqi jaqinakawa juk'ampisa warminakaxa janiwa violencia física, sexual o psicológica utjawina markachiri taypinsa ñanqhachatakapkaspati.
 
-- Estado  ukaxa  ñanqhachiwinakatxa jark'aqaniwa  ukjamaraki  violencia  de  género  y generacional ukaruxa juchancharakiniwa.
+- III. Estado ukaxa ñanqhachiwinakatxa jark'aqaniwa ukjamaraki violencia de género y generacional ukaruxa juchancharakiniwa.
 
-- Janiwa khiti jaqisa ina ch'usata kunakipansa chhaqtayatakaspati.
+- IV. Janiwa khiti jaqisa ina ch'usata kunakipansa chhaqtayatakaspati.
 
-- J a n i w a khiti j a q i s a i r n a q a w i n a jawch'jatakaspati.  Ina  jaqi  apnaqañaxa tuwatawa.
+- V. Janiwa khiti jaqisa irnaqawina jawch'jatakaspati. Ina jaqi apnaqañaxa tuwatawa.
 
-###### 16 Kamachi .
+###### 16 Kamachi.
 
-- Taqi  markachiriwa  umaru  ukjamaraki manq'añarusa derechonitanxa.
+- I. Taqi markachiriwa umaru ukjamaraki manq'añarusa derechonitanxa.
 
-- Estado ukaxa taqi markachirinakatakixa aski manq'anak manq'añatakiwa wakiyañapa.
+- II. Estado ukaxa taqi markachirinakatakixa aski manq'anak manq'añatakiwa wakiyañapa.
 
 #### CAPÍTULO SEGUNDO DERECHOS FUNDAMENTALES
 
 ###### Artículo 15.
 
-- Toda persona tiene derecho a la vida y a la  integridad  física,  psicológica  y  sexual. Nadie será torturado,  ni  sufrirá  tratos  crueles, inhumanos, degradantes o humillantes. No existe la pena de muerte.
+- I. Toda persona tiene derecho a la vida y a la integridad física, psicológica y sexual. Nadie será torturado, ni sufrirá tratos crueles, inhumanos, degradantes o humillantes. No existe la pena de muerte.
 
-- Todas las  personas,  en  particular  las  mujeres, tienen derecho a no sufrir violencia física, sexual o psicológica,  tanto  en  la  familia  como en la sociedad.
+- II. Todas las personas, en particular las mujeres, tienen derecho a no sufrir violencia física, sexual o psicológica, tanto en la familia como en la sociedad.
 
-- El  Estado  adoptará  las  medidas  necesarias  para  prevenir,  eliminar  y  sancionar la violencia de género y generacional, así como toda acción u omisión que tenga por objeto  degradar  la  condición  humana,  causar muerte, dolor y sufrimiento físico, sexual o psicológico, tanto en el ámbito público como privado.
+- III. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar la violencia de género y generacional, así como toda acción u omisión que tenga por objeto degradar la condición humana, causar muerte, dolor y sufrimiento físico, sexual o psicológico, tanto en el ámbito público como privado.
 
-- Ninguna  persona  podrá  ser  sometida a  desaparición  forzada  por  causa  o circunstancia alguna.
+- IV. Ninguna persona podrá ser sometida a desaparición forzada por causa o circunstancia alguna.
 
-- Ninguna  persona  podrá  ser  sometida  a servidumbre  ni  esclavitud.  Se  prohíbe  la trata y tráfico de personas.
+- V. Ninguna persona podrá ser sometida a servidumbre ni esclavitud. Se prohíbe la trata y tráfico de personas.
 
 ###### Artículo 16.
 
-- Toda persona tiene derecho al agua y a la alimentación.
+- I. Toda persona tiene derecho al agua y a la alimentación.
 
-- El Estado tiene la obligación de garantizar la  seguridad  alimentaria,  a  través  de  una alimentación  sana,  adecuada  y  suficiente para toda la población.
+- II. El Estado tiene la obligación de garantizar la seguridad alimentaria, a través de una alimentación sana, adecuada y suficiente para toda la población.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -443,42 +443,42 @@ Taqi  markachiriwa  kunaymana yatiqawinaka  katuqañapa  jakawiparjama  inaki wa
 
 ###### 18 Kamachi.
 
-- Taqi  jaqinakawa  janchi  qullasiñana derechonipxi.
+- I. Taqi jaqinakawa janchi qullasiñana derechonipxi.
 
-- Estado  ukaxa  jani  jisk'achasawa  taqiniru qullasiñanxa uñji.
+- II. Estado ukaxa jani jisk'achasawa taqiniru qullasiñanxa uñji.
 
-- Mä thakhi amtawina taqiniru  inaki  chacha warmiru markachirinak pachpa markapura chikañchasisa  aski  yaqasiñampiw.  Aka thakhi  amtawixa  aynimpi,  aski  phuqhasa, estadona amtawiparjam taqi thakhinakaparu wakt'ayatawa.
+- III. Mä thakhi amtawina taqiniru inaki chacha warmiru markachirinak pachpa markapura chikañchasisa aski yaqasiñampiw. Aka thakhi amtawixa aynimpi, aski phuqhasa, estadona amtawiparjam taqi thakhinakaparu wakt'ayatawa.
 
-###### 19 Kamachi .
+###### 19 Kamachi.
 
-- Taqi  jaqiwa  utjawini  jaqjama  qamañataki derechoni.
+- I. Taqi jaqiwa utjawini jaqjama qamañataki derechoni.
 
-- Estado  ukaxa  aski  amtawinakwa  utanaka markachirinakataki  lurayañataki,  aski thakhi  amtawimpi  qullqi  irtasa  ayni  taypi yanaparakispa.  Aka  amtawinakaxa  pisina jakasirinakaru  jani  yanapt'a  katuqirinakaru ukjamaraki  patana  qamasirinakataki wakt'ayatawa.
+- II. Estado ukaxa aski amtawinakwa utanaka markachirinakataki lurayañataki, aski thakhi amtawimpi qullqi irtasa ayni taypi yanaparakispa. Aka amtawinakaxa pisina jakasirinakaru jani yanapt'a katuqirinakaru ukjamaraki patana qamasirinakataki wakt'ayatawa.
 
 ###### 20 Kamachi.
 
-- Taqi  jaqinakawa  khuskhata  aknïri  pachpa derechonipxiwa: q'uma umaru, q'añu uma sarayiriru, lusa qhanaru, gas uta manqharu, kunaymanatta yatiyasiwiru.
+- I. Taqi jaqinakawa khuskhata aknïri pachpa derechonipxiwa: q'uma umaru, q'añu uma sarayiriru, lusa qhanaru, gas uta manqharu, kunaymanatta yatiyasiwiru.
 
 ###### Artículo  17.
-Toda  persona  tiene  derecho a  recibir  educación  en  todos  los  niveles  de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.
+Toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.
 
 ###### Artículo 18.
 
-- Todas las personas tienen derecho a la salud.
+- I. Todas las personas tienen derecho a la salud.
 
-- El Estado garantiza la inclusión y el acceso a la salud de todas las personas, sin exclusión ni discriminación alguna.
+- II. El Estado garantiza la inclusión y el acceso a la salud de todas las personas, sin exclusión ni discriminación alguna.
 
-- El  sistema  único  de  salud  será  universal, gratuito,  equitativo,  intracultural,  intercultural, participativo, con calidad, calidez y control social.  El  sistema  se  basa  en  los  principios  de solidaridad, eficiencia y corresponsabilidad y se desarrolla mediante políticas públicas en todos los niveles de gobierno.
+- III. El sistema único de salud será universal, gratuito, equitativo, intracultural, intercultural, participativo, con calidad, calidez y control social. El sistema se basa en los principios de solidaridad, eficiencia y corresponsabilidad y se desarrolla mediante políticas públicas en todos los niveles de gobierno.
 
 ###### Artículo 19.
 
-- Toda persona tiene derecho a un hábitat y vivienda adecuada, que dignifiquen la vida familiar y comunitaria.
+- I. Toda persona tiene derecho a un hábitat y vivienda adecuada, que dignifiquen la vida familiar y comunitaria.
 
-- El Estado, en todos sus niveles de gobierno, promoverá  planes  de  vivienda  de  interés social,  mediante  sistemas  adecuados  de financiamiento, basándose en los principios de  solidaridad  y  equidad.  Estos  planes se  destinarán  preferentemente  a  familias de  escasos  recursos,  a  grupos  menos favorecidos y al área rural.
+- II. El Estado, en todos sus niveles de gobierno, promoverá planes de vivienda de interés social, mediante sistemas adecuados de financiamiento, basándose en los principios de solidaridad y equidad. Estos planes se destinarán preferentemente a familias de escasos recursos, a grupos menos favorecidos y al área rural.
 
 ###### Artículo 20.
 
-- Toda  persona  tiene  derecho  al  acceso universal  y  equitativo  a  los  servicios básicos  de  agua  potable,  alcantarillado, electricidad,  gas  domiciliario,  postal  y telecomunicaciones.
+- I. Toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
 
 14
 
@@ -488,43 +488,43 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 15]]
 
-- Estado ukaxa taqi marka apnaqaña taypiwa aski  qamañataki  entidades  públicas, cooperativas o comunitarias tuqi yanapaña wakicharakini.  Lusa  qhana,  gas  utana, yatiyasiwinaka  taqi  ukanaka  empresas privadas  uksawa  apnaqarakispa.  Aski  qamawi wakiskiriñapatakixa taqi markachirinakataki aski  amtampi,  askinjam  wakt'ayasa,  jani phiskhasissa  chaninakapasa  yäpa  taqi markachirinakatakiñapawa.
+- II. Estado ukaxa taqi marka apnaqaña taypiwa aski qamañataki entidades públicas, cooperativas o comunitarias tuqi yanapaña wakicharakini. Lusa qhana, gas utana, yatiyasiwinaka taqi ukanaka empresas privadas uksawa apnaqarakispa. Aski qamawi wakiskiriñapatakixa taqi markachirinakataki aski amtampi, askinjam wakt'ayasa, jani phiskhasisa chaninakapasa yäpa taqi markachirinakatakiñapawa.
 
-- U m a n i ñ a s a , q' a ñ u uma utana sarañaniñasa  jaqinakana  derechopawa, janiwa  alxkatatakaspati  kamachi  tuqiwa apnaqatarakini.
+- III. Umaniñasa, q'añu uma utana sarañaniñasa jaqinakana derechopawa, janiwa alxkatatakaspati kamachi tuqiwa apnaqatarakini.
 
 #### KIMSÏRI JALJA TAQI JAQI YÁQAÑANAKA UKJAMRAKI AMTANAKA
 
 ##### MAYÏRI T'AQXTA TAQI JAQI YÁQAÑANAKA
 
 ###### 21  Kamachi.
-Chachacnakasa  warminakasa aknïri derechonipxiwa.
+Chachanakasa warminakasa aknïri derechonipxiwa.
 
-- Sarawi taypina jiqxatasiña.
+- 1. Sarawi taypina jiqxatasiña.
 
-- Privacidad,  intimidad,  honra,  jaqiwa sasiña.
+- 2. Privacidad, intimidad, honra, jaqiwa sasiña.
 
-- Libertad,  espiritualidad,  religión, sapa  maynita,  jani  ukaxa  qututsa uñañchayatanaka.
+- 3. Libertad, espiritualidad, religión, sapa maynita, jani ukaxa qututsa uñañchayatanaka.
 
-- Tantachawinakaru  ukjamaraki  qutu utt'ayawinakaru qhanatsa jamsatsa aski amtawimpiñapawa.
+- 4. Tantachawinakaru ukjamaraki qutu utt'ayawinakaru qhanatsa jamsatsa aski amtawimpiñapawa.
 
-- Es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias. En los casos de electricidad, gas domiciliario y telecomunicaciones se podrá prestar el  servicio  mediante  contratos  con  la  empresa privada. La provisión de servicios debe responder a  los  criterios  de  universalidad,  responsabilidad, accesibilidad,  continuidad,  calidad,  eficiencia, eficacia, tarifas equitativas y cobertura necesaria; con participación y control social.
+- II. Es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias. En los casos de electricidad, gas domiciliario y telecomunicaciones se podrá prestar el servicio mediante contratos con la empresa privada. La provisión de servicios debe responder a los criterios de universalidad, responsabilidad, accesibilidad, continuidad, calidad, eficiencia, eficacia, tarifas equitativas y cobertura necesaria; con participación y control social.
 
-- El  acceso  al  agua  y  alcantarillado  constituyen derechos  humanos,  no  son  objeto  de concesión ni privatización y están sujetos a régimen de licencias y registros, conforme a ley.
+- III. El acceso al agua y alcantarillado constituyen derechos humanos, no son objeto de concesión ni privatización y están sujetos a régimen de licencias y registros, conforme a ley.
 
 #### CAPÍTULO TERCERO DERECHOS CIVILES Y POLÍTICOS
 
 ##### SECCIÓN I DERECHOS CIVILES
 
 ###### Artículo 21.
-Las bolivianas  y  los  bolivianos  tienen los siguientes derechos:
+Las bolivianas y los bolivianos tienen los siguientes derechos:
 
-- A la autoidentificación cultural.
+- 1. A la autoidentificación cultural.
 
-- A la privacidad, intimidad, honra, honor, propia imagen y dignidad.
+- 2. A la privacidad, intimidad, honra, honor, propia imagen y dignidad.
 
-- A la libertad de pensamiento, espiritualidad,  religión  y  culto,  expresados  en  forma individual  o  colectiva,  tanto  en  público como en privado, con fines lícitos.
+- 3. A la libertad de pensamiento, espiritualidad, religión y culto, expresados en forma individual o colectiva, tanto en público como en privado, con fines lícitos.
 
-- A  la  libertad  de  reunión  y  asociación, en  forma  pública  y  privada,  con  fines lícitos.
+- 4. A la libertad de reunión y asociación, en forma pública y privada, con fines lícitos.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -534,35 +534,35 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 16]]
 
-- Lup'iwinaka arsuwi kunaymana qillqata arsuta  yatiyasiñanakatxa  arsuñaru yatiyañaru.
+- 5. Lup'iwinaka arsuwi kunaymana qillqata arsuta yatiyasiñanakatxa arsuñaru yatiyañaru.
 
-- Kunaymana yatiyasiña taypi amuyunaka sapatsa qututsa amuyaña.
+- 6. Kunaymana yatiyasiña taypi amuyunaka sapatsa qututsa amuyaña.
 
-- Kawkha Bolivia uraqinsa jan ukaxa anqa markanakansa qamasitaspawa.
+- 7. Kawkha Bolivia uraqinsa jan ukaxa anqa markanakansa qamasitaspawa.
 
 ###### 22 Kamachi.
-Jaqiru jaqjama uñjaña, uñaqaña, jani  walitsa  jark'aqañawa. Yäqaña,  jark'aqaña ukanakaxa estado ukana amparapankiwa.
+Jaqiru jaqjama uñjaña, uñaqaña, jani walitsa jark'aqañawa. Yäqaña, jark'aqaña ukanakaxa estado ukana amparapankiwa.
 
 ###### 23 Kamachi.
 
-- Taqi jaqiwa derecho a la libertad, seguridad personal  ukanipxi.  Sapa  jaqina  libertad ukaxa kunjamatï kamachinakasa utt'ayataki ukjamarjamwa  chiqatapasa  k'aritapasa taripayatarakispa.
+- I. Taqi jaqiwa derecho a la libertad, seguridad personal ukanipxi. Sapa jaqina libertad ukaxa kunjamatï kamachinakasa utt'ayataki ukjamarjamwa chiqatapasa k'aritapasa taripayatarakispa.
 
-- Q'axullanakaxa  taripawinakatxa  jark'aqatawa. Taqi  q'axullanakawa  taripirinakata p'iqinchirinakatxa,  pallapallanakata  aski uñaqäwi  katuqapxañapa.  Aknïrinakaxa askinjamawa  taqi  pachasa  jaqirjama yäqasa,  unñaqapa  imt'asa  uñjapxañapa. Taripaña  utanxa  jupanakatakjama wakiyata  jani  chikachasa  jilïri  jaqinakampi ukjamañapawa.
+- II. Q'axullanakaxa taripawinakatxa jark'aqatawa. Taqi q'axullanakawa taripirinakata p'iqinchirinakatxa, pallapallanakata aski uñaqäwi katuqapxañapa. Aknïrinakaxa askinjamawa taqi pachasa jaqirjama yäqasa, uñnaqapa imt'asa uñjapxañapa. Taripaña utanxa jupanakatakjama wakiyata jani chikachasa jilïri jaqinakampi ukjamañapawa.
 
-- A  expresar  y  difundir  libremente pensamientos u opiniones por cualquier medio de comunicación, de forma oral, escrita o visual, individual o colectiva.
+- 5. A expresar y difundir libremente pensamientos u opiniones por cualquier medio de comunicación, de forma oral, escrita o visual, individual o colectiva.
 
-- A acceder a la información, interpretarla, analizarla y comunicarla libremente, de manera individual o colectiva.
+- 6. A acceder a la información, interpretarla, analizarla y comunicarla libremente, de manera individual o colectiva.
 
-- A la  libertad  de  residencia,  permanencia  y circulación en todo el territorio boliviano, que incluye la salida e ingreso del país.
+- 7. A la libertad de residencia, permanencia y circulación en todo el territorio boliviano, que incluye la salida e ingreso del país.
 
 ###### Artículo  22.
-La dignidad  y  la  libertad  de  la  persona son  inviolables.  Respetarlas  y  protegerlas  es deber primordial del Estado.
+La dignidad y la libertad de la persona son inviolables. Respetarlas y protegerlas es deber primordial del Estado.
 
 ###### Artículo 23.
 
-- Toda persona tiene derecho a la libertad y seguridad personal. La libertad  personal  sólo podrá ser  restringida  en  los  límites  señalados por la ley, para asegurar el descubrimiento de la verdad histórica en la actuación de las instancias jurisdiccionales.
+- I. Toda persona tiene derecho a la libertad y seguridad personal. La libertad personal sólo podrá ser restringida en los límites señalados por la ley, para asegurar el descubrimiento de la verdad histórica en la actuación de las instancias jurisdiccionales.
 
-- Se  evitará  la  imposición  a  los  adolescentes de medidas privativas de libertad. Todo adolescente  que  se  encuentre  privado de libertad recibirá atención preferente por parte de las autoridades judiciales, administrativas  y  policiales.  Éstas deberán  asegurar  en  todo  momento  el respeto a su dignidad y la reserva de su identidad. La detención deberá cumplirse en  recintos  distintos  de  los  asignados para los adultos, teniendo en cuenta las necesidades propias de su edad.
+- II. Se evitará la imposición a los adolescentes de medidas privativas de libertad. Todo adolescente que se encuentre privado de libertad recibirá atención preferente por parte de las autoridades judiciales, administrativas y policiales. Éstas deberán asegurar en todo momento el respeto a su dignidad y la reserva de su identidad. La detención deberá cumplirse en recintos distintos de los asignados para los adultos, teniendo en cuenta las necesidades propias de su edad.
 
 16
 
@@ -572,24 +572,24 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 17]]
 
-- Janiwa khitisa  ina  ch'usata  arknaqatakaspati, taripatakaspati  kamchinakatixa  utjchi wakisispawa.  Ukjamachi  ukjaxa  jilïri taripirinakawa  qilqata  tuqi  taripawi phuqhayapxarakispa.
+- III. Janiwa khitisa ina ch'usata arknaqatakaspati, taripatakaspati kamachinakatixa utjchi wakisispawa. Ukjamachi ukjaxa jilïri taripirinakawa qilqata tuqi taripawi phuqhayapxarakispa.
 
-- Kawkniriti  jani  wali  lurkiri  katjatachi  ukaxa mäkiwa  katjirinakaxa  jani  qillqata  tuqi taripayarakispa.  Uka  katjata  jaqixa  jilïri  taripayiri amparaparuwa  katt'ayataspa,  ukjamata tunka pusini horata askicharakispa.
+- IV. Kawkniriti jani wali lurkiri katjatachi ukaxa mäkiwa katjirinakaxa jani qillqata tuqi taripayarakispa. Uka katjata jaqixa jilïri taripayiri amparaparuwa katt'ayataspa, ukjamata tunka pusini horata askicharakispa.
 
-- Kunapachatï  mä  jaqixa  taripatäspa ukjaxa  mäkiwa,  kunatsa  taripata  ukaxa uñt'ayañaspa.
+- V. Kunapachatï mä jaqixa taripatäspa ukjaxa mäkiwa, kunatsa taripata ukaxa uñt'ayañaspa.
 
-- Khitinakatixa  taripaña  utanakanxa  uñjapki ukanakaxa  qilqata  tuqiwa  taripatanakxa katuqapxañapa.  Janiwa  khiti  jaqirusa  ina ukjamaki  jani  qillqata  tuqixa  taripawiruxa katuqapxañapakiti.  Jani  phuqhirinakaruxa kamachi tuqiwa juchanchataspa.
+- VI. Khitinakatixa taripaña utanakanxa uñjapki ukanakaxa qilqata tuqiwa taripatanakxa katuqapxañapa. Janiwa khiti jaqirusa ina ukjamaki jani qillqata tuqixa taripawiruxa katuqapxañapakiti. Jani phuqhirinakaruxa kamachi tuqiwa juchanchataspa.
 
 ###### 24 Kamachi.
-Taqi jaqiwa mayiñataki sapaki jani ukaxa qututsa arsuta tuqi jani ukaxa qillqata tuqi derecho ukani ukaxa mäkiwa jani phiskhasisa kutt'yataspa.  Aka  derecho  mayiñatakixa  jaqi chimpukiwa mayitäspa.
+Taqi jaqiwa mayiñataki sapaki jani ukaxa qututsa arsuta tuqi jani ukaxa qillqata tuqi derecho ukani ukaxa mäkiwa jani phiskhasisa kutt'yataspa. Aka derecho mayiñatakixa jaqi chimpukiwa mayitäspa.
 
-- Nadie podrá ser detenido, aprehendido o privado de su libertad, salvo en los casos y según las formas establecidas por la ley. La ejecución del mandamiento requerirá que éste emane de autoridad competente y que sea emitido por escrito.
+- III. Nadie podrá ser detenido, aprehendido o privado de su libertad, salvo en los casos y según las formas establecidas por la ley. La ejecución del mandamiento requerirá que éste emane de autoridad competente y que sea emitido por escrito.
 
-- Toda persona que sea encontrada en delito flagrante  podrá  ser  aprehendida  por  cualquier otra persona, aun sin mandamiento. El único objeto de la aprehensión será su conducción ante  autoridad  judicial  competente,  quien deberá resolver su situación jurídica en el plazo máximo de veinticuatro horas.
+- IV. Toda persona que sea encontrada en delito flagrante podrá ser aprehendida por cualquier otra persona, aun sin mandamiento. El único objeto de la aprehensión será su conducción ante autoridad judicial competente, quien deberá resolver su situación jurídica en el plazo máximo de veinticuatro horas.
 
-- En  el  momento  en  que  una  persona  sea privada  de  su  libertad,  será  informada  de los  motivos  por  los  que  se  procede  a  su detención,  así  como  de  la  denuncia  o  querella formulada en su contra.
+- V. En el momento en que una persona sea privada de su libertad, será informada de los motivos por los que se procede a su detención, así como de la denuncia o querella formulada en su contra.
 
-- Los  responsables  de  los  centros  de reclusión  deberán  llevar  el  registro  de personas privadas de libertad. No recibirán a ninguna persona sin copiar en su registro el  mandamiento  correspondiente.  Su incumplimiento dará lugar al procesamiento y sanciones que señale la ley.
+- VI. Los responsables de los centros de reclusión deberán llevar el registro de personas privadas de libertad. No recibirán a ninguna persona sin copiar en su registro el mandamiento correspondiente. Su incumplimiento dará lugar al procesamiento y sanciones que señale la ley.
 
 ###### Artículo 24.
 Toda persona tiene derecho a la petición de manera individual o colectiva, sea oral  o  escrita,  y  a  la  obtención  de  respuesta formal y pronta. Para el ejercicio de este derecho no se exigirá más requisito que la identificación del peticionario.
@@ -604,35 +604,35 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 25 Kamachi.
 
-- Taqi  jaqina  utjawinakapaxa  janiwa aparatakaspati  ukjamaraki  jamasata yatiyasiñanakasa  ukanakaru  derechoniwa inasa taripirinakata jay satachispa.
+- I. Taqi jaqina utjawinakapaxa janiwa aparatakaspati ukjamaraki jamasata yatiyasiñanakasa ukanakaru derechoniwa inasa taripirinakata jay satachispa.
 
-- Qillqata  tuqi  yatiyasiña  jamasata  qillqata laphi  kunaymana  jamasata  qillqatanakaxa janiwa jist'arañakiti inasa jilïri taripirinakata aparatarakichispa.
+- II. Qillqata tuqi yatiyasiña jamasata qillqata laphi kunaymana jamasata qillqatanakaxa janiwa jist'arañakiti inasa jilïri taripirinakata aparatarakichispa.
 
-- Janiwa  khiti  marka  apnaqirisa  khiti  jaqisa qutuchatanakasa yatiyasiwinxa mitiskaspati uñaqkarakispasa.
+- III. Janiwa khiti marka apnaqirisa khiti jaqisa qutuchatanakasa yatiyasiwinxa mitiskaspati uñaqkarakispasa.
 
-- Yatiyawinakampi jamasa qillqatanakampixa jamasata  uñantataxa  janiwa  chiqapa phuqhaskaspati.
+- IV. Yatiyawinakampi jamasa qillqatanakampixa jamasata uñantataxa janiwa chiqapa phuqhaskaspati.
 
 ##### PAYÏRI T'AQXTA YAQAÑA AMTANAKA
 
 ###### 26 Kamachi.
 
-- Taqi chacha markachirinakampi warmi  markachirinakampixa  sapapata jani  ukaxa  p'iqinchiripa  tuqisa  marka apnaqaña  thakhinsa,  wakt'ayasiñansa derechonipxiwa.
+- I. Taqi chacha markachirinakampi warmi markachirinakampixa sapapata jani ukaxa p'iqinchiripa tuqisa marka apnaqaña thakhinsa, wakt'ayasiñansa derechonipxiwa.
 
 ###### Artículo 25.
 
-- Toda persona tiene  derecho  a  la  inviolabilidad de  su  domicilio  y  al  secreto  de  las comunicaciones  privadas  en  todas  sus formas, salvo autorización judicial.
+- I. Toda persona tiene derecho a la inviolabilidad de su domicilio y al secreto de las comunicaciones privadas en todas sus formas, salvo autorización judicial.
 
-- Son  inviolables  la  correspondencia,  los papeles  privados  y  las  manifestaciones privadas contenidas en cualquier soporte, éstos  no  podrán  ser  incautados  salvo  en los casos determinados por la ley para la investigación  penal,  en  virtud  de  orden escrita  y  motivada  de  autoridad  judicial competente.
+- II. Son inviolables la correspondencia, los papeles privados y las manifestaciones privadas contenidas en cualquier soporte, éstos no podrán ser incautados salvo en los casos determinados por la ley para la investigación penal, en virtud de orden escrita y motivada de autoridad judicial competente.
 
-- Ni  la  autoridad  pública,  ni  persona  u  organismo alguno  podrán  interceptar  conversaciones o  comunicaciones  privadas  mediante instalación que las controle o centralice.
+- III. Ni la autoridad pública, ni persona u organismo alguno podrán interceptar conversaciones o comunicaciones privadas mediante instalación que las controle o centralice.
 
-- La  información  y  prueba  obtenidas  con  violación de  correspondencia  y  comunicaciones  en cualquiera  de  sus  formas  no  producirán efecto legal.
+- IV. La información y prueba obtenidas con violación de correspondencia y comunicaciones en cualquiera de sus formas no producirán efecto legal.
 
 ##### SECCIÓN II DERECHOS POLÍTICOS
 
 ###### Artículo 26.
 
-- Todas  las  ciudadanas  y  los  ciudadanos tienen  derecho  a  participar  libremente  en la  formación,  ejercicio  y  control  del  poder político,  directamente o por medio de sus representantes,  y  de  manera  individual  o colectiva. La participación será equitativa y en igualdad de condiciones entre hombres y mujeres.
+- I. Todas las ciudadanas y los ciudadanos tienen derecho a participar libremente en la formación, ejercicio y control del poder político, directamente o por medio de sus representantes, y de manera individual o colectiva. La participación será equitativa y en igualdad de condiciones entre hombres y mujeres.
 
 18
 
@@ -642,37 +642,37 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 19]]
 
-- Derecho  ukaxa  chikañchasiwinakanxa aknirinakawa:
+- II. Derecho ukaxa chikañchasiwinakanxa aknirinakawa:
 
-- Qutuchasiwinakaxa  marka  apnaqañatakixa tayka kamachirjamañapawa.
+- 1. Qutuchasiwinakaxa marka apnaqañatakixa tayka kamachirjamañapawa.
 
-- Chhijllawixa  voto  kikipa,  taqinitaki, chiqapa,  sapaki,  jamasata,  jani  khitina mitisita,  phuqhaña  jakthapitaxa taqiru  uñt'ayañawa.  Chhijllawina chikañchasiñaxa  tunka  kimsaqallquni maranitawa.
+- 2. Chhijllawixa voto kikipa, taqinitaki, chiqapa, sapaki, jamasata, jani khitina mitisita, phuqhaña jakthapitaxa taqiru uñt'ayañawa. Chhijllawina chikañchasiñaxa tunka kimsaqallquni maranitawa.
 
-- kawkhantix  democracia  comunitariax c h h i j l l a w i n a k a x t h a k h i n a k a x wakt'ayataki,  órgano  electoral  ukanakata phuqhatañapawa,  kunapachatixa  payïrina sataki  ukjamarjama  jani  phuqatakchi ukjawa akjamata phuqasirakispa.
+- 3. kawkhantix democracia comunitariax chhijllawinakax thakhinakax wakt'ayataki, órgano electoral ukanakata phuqhatañapawa, kunapachatixa payïrina sataki ukjamarjama jani phuqatakchi ukjawa akjamata phuqasirakispa.
 
-- Kunaymana  markanakana  pueblos indígena  originario  campesinonakampixa kunjamatixa sarawinakapaxa t h a k h i ñ c h a t a k i   ukjamarjamawa p'iqiñchirinakapxa chhijllasipxarakispa.
+- 4. Kunaymana markanakana pueblos indígena originario campesinonakampixa kunjamatixa sarawinakapaxa thakhiñchataki ukjamarjamawa p'iqiñchirinakapxa chhijllasipxarakispa.
 
-- Marka apnaqawinakxa  jak'ata uñaqapxarakispawa.
+- 5. Marka apnaqawinakxa jak'ata uñaqapxarakispawa.
 
 ###### 27 Kamachi.
 
-- Warmi  markachirinakampi  chacha markachirinakampixa  anqa  marka jakasirinakaxa  jilïri  mallku,  ukjamaraki sullkiri  mallku  yaqha  markana  kamachina qillqatäki ukjamarjamaxa chhijllaña taypinxa chikachasiñatakixa órgano electoral taqiwa qillqataru phuqapxarakispa.
+- I. Warmi markachirinakampi chacha markachirinakampixa anqa marka jakasirinakaxa jilïri mallku, ukjamaraki sullkiri mallku yaqha markana kamachina qillqatäki ukjamarjamaxa chhijllaña taypinxa chikachasiñatakixa órgano electoral taqiwa qillqataru phuqapxarakispa.
 
-- El derecho a la participación comprende:
+- II. El derecho a la participación comprende:
 
-- La organización  con  fines  de  participación política, conforme a la Constitución y a la ley.
+- 1. La organización con fines de participación política, conforme a la Constitución y a la ley.
 
-- El  sufragio,  mediante  voto  igual, universal,  directo,  individual,  secreto,  libre y  obligatorio,  escrutado  públicamente. El  sufragio  se  ejercerá  a  partir  de  los dieciocho años cumplidos.
+- 2. El sufragio, mediante voto igual, universal, directo, individual, secreto, libre y obligatorio, escrutado públicamente. El sufragio se ejercerá a partir de los dieciocho años cumplidos.
 
-- Donde  se  practique  la  democracia comunitaria,  los  procesos  electorales  se ejercerán  según normas y procedimientos propios,  supervisados  por  el  Órgano Electoral,  siempre  y  cuando  el  acto  electoral no  esté  sujeto  al  voto  igual,  universal, directo, secreto, libre y obligatorio.
+- 3. Donde se practique la democracia comunitaria, los procesos electorales se ejercerán según normas y procedimientos propios, supervisados por el Órgano Electoral, siempre y cuando el acto electoral no esté sujeto al voto igual, universal, directo, secreto, libre y obligatorio.
 
-- La elección, designación y nominación directa  de  los  representantes  de  las naciones y pueblos indígena originario campesinos, de acuerdo con sus normas y procedimientos propios.
+- 4. La elección, designación y nominación directa de los representantes de las naciones y pueblos indígena originario campesinos, de acuerdo con sus normas y procedimientos propios.
 
-- La fiscalización de los actos de la función pública.
+- 5. La fiscalización de los actos de la función pública.
 
 ###### Artículo 27.
 
-- Las bolivianas y los bolivianos residentes en el exterior tienen derecho a participar en las elecciones  a  la  Presidencia  y  Vicepresidencia del Estado, y en las demás señaladas por la ley. El derecho se ejercerá a través del registro  y  empadronamiento realizado por el Órgano Electoral.
+- I. Las bolivianas y los bolivianos residentes en el exterior tienen derecho a participar en las elecciones a la Presidencia y Vicepresidencia del Estado, y en las demás señaladas por la ley. El derecho se ejercerá a través del registro y empadronamiento realizado por el Órgano Electoral.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -682,39 +682,39 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 20]]
 
-- Warminakampi  chachanakampi  anqa  markata mantanisa  Bolivia  markana  qamirinakaxa municipios  ukanakana  chhijllawipaxa kamachirjama  chikañchasipxarakispa purapata  anqa  markanakampi  amtanaka yanapt'asiñataki.
+- II. Warminakampi chachanakampi anqa markata mantanisa Bolivia markana qamirinakaxa municipios ukanakana chhijllawipaxa kamachirjama chikañchasipxarakispa purapata anqa markanakampi amtanaka yanapt'asiñataki.
 
 ###### 28  Kamachi.
-Derechos  politicos  phuqhañanakaxa taripawina pixtusitaskchi jani phuqatakchiti uka pachaxa aknirinakanwa qhiparayataspa:
+Derechos politicos phuqhañanakaxa taripawina pixtusitaskchi jani phuqatakchiti uka pachaxa aknirinakanwa qhiparayataspa:
 
-- Ch'axwawi  pachanakana  awqampi chikachasiri illapt'iri apnaqiritapata.
+- 1. Ch'axwawi pachanakana awqampi chikachasiri illapt'iri apnaqiritapata.
 
-- Markana  yanakapa  jani  waliru tukuyiritapata.
+- 2. Markana yanakapa jani waliru tukuyiritapata.
 
-- Pachpa markaru sallqiritapata.
+- 3. Pachpa markaru sallqiritapata.
 
 ###### 29 Kamachi.
 
-- Anqa  markata  warminakampi  chachanakampixa  kamisatixa  amtanakax wakt'ayataki kamachinakarjama mayiñataki katuqañataki  qamañataki  jani  ukaxa imantasiwi  arknaqata  politica  amuyu  tuqi katuqataxapxaspawa, kamisatixa amtanakax kamachirjama wakt'ayataki ukjamarjama.
+- I. Anqa markata warminakampi chachanakampixa kamisatixa amtanakax wakt'ayataki kamachinakarjama mayiñataki katuqañataki qamañataki jani ukaxa imantasiwi arknaqata politica amuyu tuqi katuqataxapxaspawa, kamisatixa amtanakax kamachirjama wakt'ayataki ukjamarjama.
 
-- Taqi  jaqiwa  khitinakarutix  asilo  jani ukaxa  imantasiwinxa  qamañapataki  jay sataki,  yaqha  markanakarux  jan  jakawipa ñanqhachañatakixa,  jani  waliru  puriñapatakixa janiwa Bolivia markata alispayatakaspati.
+- II. Taqi jaqiwa khitinakarutix asilo jani ukaxa imantasiwinxa qamañapataki jay sataki, yaqha markanakarux jan jakawipa ñanqhachañatakixa, jani waliru puriñapatakixa janiwa Bolivia markata alispayatakaspati.
 
-- Las extranjeras y los extranjeros residentes en  Bolivia  tienen  derecho  a  sufragar  en las elecciones municipales, conforme a la ley,  aplicando  principios  de  reciprocidad internacional.
+- II. Las extranjeras y los extranjeros residentes en Bolivia tienen derecho a sufragar en las elecciones municipales, conforme a la ley, aplicando principios de reciprocidad internacional.
 
 ###### Artículo 28.
-El  ejercicio  de  los  derechos  políticos se  suspende  en  los  siguientes  casos,  previa sentencia ejecutoriada mientras la pena no haya sido cumplida:
+El ejercicio de los derechos políticos se suspende en los siguientes casos, previa sentencia ejecutoriada mientras la pena no haya sido cumplida:
 
-- Por tomar armas y prestar servicio en fuerzas armadas enemigas en tiempos de guerra.
+- 1. Por tomar armas y prestar servicio en fuerzas armadas enemigas en tiempos de guerra.
 
-- Por defraudación de recursos públicos.
+- 2. Por defraudación de recursos públicos.
 
-- Por traición a la patria.
+- 3. Por traición a la patria.
 
 ###### Artículo 29.
 
-- Se  reconoce  a  las  extranjeras  y  los extranjeros el  derecho  a  pedir  y  recibir  asilo  o refugio  por  persecución  política  o  ideológica, de conformidad con las leyes y los tratados internacionales.
+- I. Se reconoce a las extranjeras y los extranjeros el derecho a pedir y recibir asilo o refugio por persecución política o ideológica, de conformidad con las leyes y los tratados internacionales.
 
-- Toda persona a quien se haya otorgado en Bolivia asilo o refugio no será expulsada o entregada a  un  país  donde  su  vida,  integridad, seguridad  o  libertad  peligren.  El  Estado atenderá de manera positiva, humanitaria y  expedita  las  solicitudes  de  reunificación familiar que se presenten por padres o hijos asilados o refugiados.
+- II. Toda persona a quien se haya otorgado en Bolivia asilo o refugio no será expulsada o entregada a un país donde su vida, integridad, seguridad o libertad peligren. El Estado atenderá de manera positiva, humanitaria y expedita las solicitudes de reunificación familiar que se presenten por padres o hijos asilados o refugiados.
 
 20
 
@@ -728,45 +728,45 @@ MACHAQA TAYKA KAMACHI
 
 ###### 30 Kamachi.
 
-- Marka pueblo indígena originario campesino ukanakaxa  taqi  jaqiwa,  pachpa  nayra markata jutiri  pachpa,  aruni,  sarawini,  pachpa markanakapana,  uraqini  pacha  qamawini, janiwa  janq'u  jaqinakaxa  purinipkana ukjatpachawa  aka  uraqina  qamapxi ukanakapxiwa.
+- I. Marka pueblo indígena originario campesino ukanakaxa taqi jaqiwa, pachpa nayra markata jutiri pachpa, aruni, sarawini, pachpa markanakapana, uraqini pacha qamawini, janiwa janq'u jaqinakaxa purinipkana ukjatpachawa aka uraqina qamapxi ukanakapxiwa.
 
-- Bolivia  marka  mayachasa  aka  machaqa  tayka kamachi tuqixa akniri  markanakawa,  pueblos indígena  originario  campesino  ukanakana derechonakapaxa.
+- II. Bolivia marka mayachasa aka machaqa tayka kamachi tuqixa akniri markanakawa, pueblos indígena originario campesino ukanakana derechonakapaxa.
 
-- Jan taripata utjaña.
+- 1. Jan taripata utjaña.
 
-- Sarawiparjama uñtasa, jay sawiparjama, amuyuwiparjama, lurawiparjama, pacha uñjawiparjama.
+- 2. Sarawiparjama uñtasa, jay sawiparjama, amuyuwiparjama, lurawiparjama, pacha uñjawiparjama.
 
-- Sapa mayni markachirixa kunjamakitixa uñaqapaxa  ukjama  chimpupana kunaymana  documentos  ukanaka qillqantatañapa.
+- 3. Sapa mayni markachirixa kunjamakitixa uñaqapaxa ukjama chimpupana kunaymana documentos ukanaka qillqantatañapa.
 
-- Sapa  mayniwa  derechoni  amtapa amuyuparjama, uraqinakaparjama.
+- 4. Sapa mayniwa derechoni amtapa amuyuparjama, uraqinakaparjama.
 
-- Kunaymana  instituciones  ukanakaxa estado uksawa derechonixi.
+- 5. Kunaymana instituciones ukanakaxa estado uksawa derechonixi.
 
-- Uraqinakapaxa  laphi  qillqata  tuqiwa q'umachataxi.
+- 6. Uraqinakapaxa laphi qillqata tuqiwa q'umachataxi.
 
-- jay sawi uraqinakapaxa jark'atawa.
+- 7. jay sawi uraqinakapaxa jark'atawa.
 
 #### CAPÍTULO CUARTO DERECHOS DE LAS NACIONES Y PUEBLOS INDÍGENA ORIGINARIO CAMPESINOS
 
 ###### Artículo 30.
 
-- Es  nación  y  pueblo  indígena  originario campesino toda la colectividad humana que comparta identidad cultural,  idioma,  tradición histórica,  instituciones,  territorialidad  y cosmovisión, cuya existencia es anterior a la invasión colonial española.
+- I. Es nación y pueblo indígena originario campesino toda la colectividad humana que comparta identidad cultural, idioma, tradición histórica, instituciones, territorialidad y cosmovisión, cuya existencia es anterior a la invasión colonial española.
 
-- En el marco de la unidad del Estado y de acuerdo con esta Constitución las naciones y  pueblos  indígena  originario  campesinos gozan de los siguientes derechos:
+- II. En el marco de la unidad del Estado y de acuerdo con esta Constitución las naciones y pueblos indígena originario campesinos gozan de los siguientes derechos:
 
-- A existir libremente.
+- 1. A existir libremente.
 
-- A su  identidad  cultural,  creencia  religiosa, espiritualidades,  prácticas  y  costumbres, y a su propia cosmovisión.
+- 2. A su identidad cultural, creencia religiosa, espiritualidades, prácticas y costumbres, y a su propia cosmovisión.
 
-- A que la identidad cultural de cada uno de  sus  miembros,  si  así  lo  desea,  se inscriba junto a la ciudadanía boliviana en su cédula de identidad, pasaporte u otros documentos de identificación con validez legal.
+- 3. A que la identidad cultural de cada uno de sus miembros, si así lo desea, se inscriba junto a la ciudadanía boliviana en su cédula de identidad, pasaporte u otros documentos de identificación con validez legal.
 
-- A  la  libre  determinación  y  territorialidad.
+- 4. A la libre determinación y territorialidad.
 
-- A que sus instituciones sean parte de la estructura general del Estado.
+- 5. A que sus instituciones sean parte de la estructura general del Estado.
 
-- A  la  titulación  colectiva  de  tierras  y territorios.
+- 6. A la titulación colectiva de tierras y territorios.
 
-- A  la  protección  de  sus  lugares sagrados.
+- 7. A la protección de sus lugares sagrados.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -776,37 +776,37 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 22]]
 
-- Kunaymana yatiyasiñanakaxa jupanaka  pachpawa  utt'ayasipxaspa, apnaqasipxarakispa.
+- 8. Kunaymana yatiyasiñanakaxa jupanaka pachpawa utt'ayasipxaspa, apnaqasipxarakispa.
 
-- Nayra pacha yatiwinakapampi amuyuwinakapampix,  nayra  pacha qullasiwinakapaxa, arunakapa, waxat'awinakapa,  nayra  pacha chimpunakapasa i s i n a k a p a s a yaqataxiwa.
+- 9. Nayra pacha yatiwinakapampi amuyuwinakapampix, nayra pacha qullasiwinakapaxa, arunakapa, waxat'awinakapa, nayra pacha chimpunakapasa isinakapasa yaqataxiwa.
 
-- Aski  qamawini  aka  pachana  yänaka askinjama apnaqasa qamaña.
+- 10. Aski qamawini aka pachana yänaka askinjama apnaqasa qamaña.
 
-- Amuyunaka,  yatiñanaka  sapa  qutuna yäqasa  laqañchaña  yaqhanakaru uñt'ayaña.
+- 11. Amuyunaka, yatiñanaka sapa qutuna yäqasa laqañchaña yaqhanakaru uñt'ayaña.
 
-- Yatiqawiru sarawi  taypina  taqi markanakata  yaqasisa,  kunaymana tayka arunaka laqañchaña.
+- 12. Yatiqawiru sarawi taypina taqi markanakata yaqasisa, kunaymana tayka arunaka laqañchaña.
 
-- Khuskhata  qullayasiña  katuqaña,  jan chanini  qamawiparu  qullasiwiparu yäqasa.
+- 13. Khuskhata qullayasiña katuqaña, jan chanini qamawiparu qullasiwiparu yäqasa.
 
-- Sistemas  politicos,  taripawinakapaxa, qullqi apnaqatanakapaxa amtaparjama, sarawinakaparjamawa phuqhapxi.
+- 14. Sistemas politicos, taripawinakapaxa, qullqi apnaqatanakapaxa amtaparjama, sarawinakaparjamawa phuqhapxi.
 
-- Kunaymana l u r a w i n a k a x a j a n i walt'awinakata j a r k ' a q a ñ a t a k i x j i s k t ' a t a ñ a pa.  Aka  thakhi  tuqiwa kunaymana  aka  pachankiri  yänaka askiru tukuyxañatakixa aski chuymampi, amtampi utjawinakapana jiskt'atañapa.
+- 15. Kunaymana lurawinakaxa jani walt'awinakata jark'aqañatakix jiskt'atañapa. Aka thakhi tuqiwa kunaymana aka pachankiri yänaka askiru tukuyxañatakixa aski chuymampi, amtampi utjawinakapana jiskt'atañapa.
 
-- A crear y administrar sistemas, medios y redes de comunicación propios.
+- 8. A crear y administrar sistemas, medios y redes de comunicación propios.
 
-- A  que  sus  saberes  y  conocimientos tradicionales,  su  medicina  tradicional, sus idiomas, sus rituales  y  sus  símbolos  y vestimentas sean valorados, respetados y promocionados.
+- 9. A que sus saberes y conocimientos tradicionales, su medicina tradicional, sus idiomas, sus rituales y sus símbolos y vestimentas sean valorados, respetados y promocionados.
 
-- A vivir en un medio ambiente sano, con manejo y aprovechamiento adecuado de los ecosistemas.
+- 10. A vivir en un medio ambiente sano, con manejo y aprovechamiento adecuado de los ecosistemas.
 
-- A  la  propiedad  intelectual  colectiva  de sus saberes, ciencias y conocimientos, así  como  a  su  valoración,  uso,  promoción y desarrollo.
+- 11. A la propiedad intelectual colectiva de sus saberes, ciencias y conocimientos, así como a su valoración, uso, promoción y desarrollo.
 
-- A  una  educación  intracultural,  intercultural y  plurilingüe  en  todo  el  sistema educativo.
+- 12. A una educación intracultural, intercultural y plurilingüe en todo el sistema educativo.
 
-- Al sistema de salud universal y gratuito que respete su cosmovisión y prácticas tradicionales.
+- 13. Al sistema de salud universal y gratuito que respete su cosmovisión y prácticas tradicionales.
 
-- Al  ejercicio  de  sus  sistemas  políticos, jurídicos  y  económicos  acorde  a  su cosmovisión.
+- 14. Al ejercicio de sus sistemas políticos, jurídicos y económicos acorde a su cosmovisión.
 
-- A ser consultados mediante procedimientos  apropiados,  y  en  particular a través de sus instituciones, cada vez que  se  prevean  medidas  legislativas o  administrativas  susceptibles  de afectarles. En este marco, se respetará y  garantizará  el  derecho  a  la  consulta previa  obligatoria,  realizada  por  el  Estado, de buena fe y concertada, respecto a la explotación de los recursos naturales no renovables en el territorio que habitan.
+- 15. A ser consultados mediante procedimientos apropiados, y en particular a través de sus instituciones, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles. En este marco, se respetará y garantizará el derecho a la consulta previa obligatoria, realizada por el Estado, de buena fe y concertada, respecto a la explotación de los recursos naturales no renovables en el territorio que habitan.
 
 22
 
@@ -816,36 +816,36 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 23]]
 
-- Taqiniwa  chikachasipxañapa  aka pachana  yänaka  qullqi  jalaqtata  aski lurawiru tukuyañataki.
+- 16. Taqiniwa chikachasipxañapa aka pachana yänaka qullqi jalaqtata aski lurawiru tukuyañataki.
 
-- Kawkhantixa  uraqixa  alaqasitäki ukawjanakanxa alasirixa alasita uraqixa yäqatawa.
+- 17. Kawkhantixa uraqixa alaqasitäki ukawjanakanxa alasirixa alasita uraqixa yäqatawa.
 
-- Kunaymana  órganos  instituciones  del estado  ukanakanxa  chikañchasipxarakispawa.
+- 18. Kunaymana órganos instituciones del estado ukanakanxa chikañchasipxarakispawa.
 
-- Estado ukaxa naciones y pueblos indígena originario  campesinos  ukanakaruxa  aka machaqa tayka kamachi tuqiwa yäqi ukatxa jark'aqaraki.
+- III. Estado ukaxa naciones y pueblos indígena originario campesinos ukanakaruxa aka machaqa tayka kamachi tuqiwa yäqi ukatxa jark'aqaraki.
 
 ###### 31 Kamachi.
 
-- Chhaqañampiki, uñamukuta jan qhanstata naciones  y  pueblos  indígena  originario campesinos ukanakaxa jakawipaxa yäqata jark'aqatawa.
+- I. Chhaqañampiki, uñamukuta jan qhanstata naciones y pueblos indígena originario campesinos ukanakaxa jakawipaxa yäqata jark'aqatawa.
 
-- Uñamukuta  jani  qhanstata  naciones  y pueblos  indígena  originario  ukanakaxa kunjamatï qamasipki derechonipxiwa, uraqi qurpankiripaxa  thakhiparjama  jakasipki qamasipki ukjana q'umachatawa.
+- II. Uñamukuta jani qhanstata naciones y pueblos indígena originario ukanakaxa kunjamatï qamasipki derechonipxiwa, uraqi qurpankiripaxa thakhiparjama jakasipki qamasipki ukjana q'umachatawa.
 
 ###### 32  Kamachi.
-Ch'iyara  janchini  markaxa kunatï  wakiski  qullqi  tuqina  qutu  pachpana, políticos sarawinakapa taqi ukanakawa derecho ukanakapaxa  naciones  y  pueblos  indígena originario campesinos taypiwa tayka kamachina uñt'ataxi.
+Ch'iyara janchini markaxa kunatï wakiski qullqi tuqina qutu pachpana, políticos sarawinakapa taqi ukanakawa derecho ukanakapaxa naciones y pueblos indígena originario campesinos taypiwa tayka kamachina uñt'ataxi.
 
-- A la participación en los beneficios de la explotación de los recursos naturales en sus territorios.
+- 16. A la participación en los beneficios de la explotación de los recursos naturales en sus territorios.
 
-- A  la  gestión  territorial  indígena  autónoma, y  al  uso  y  aprovechamiento  exclusivo de  los  recursos  naturales  renovables existentes en su territorio sin perjuicio de los derechos legítimamente adquiridos por terceros.
+- 17. A la gestión territorial indígena autónoma, y al uso y aprovechamiento exclusivo de los recursos naturales renovables existentes en su territorio sin perjuicio de los derechos legítimamente adquiridos por terceros.
 
-- A  la  participación  en  los  órganos  e instituciones del Estado.
+- 18. A la participación en los órganos e instituciones del Estado.
 
-- El Estado garantiza, respeta y protege los derechos de las naciones y pueblos indígena originario campesinos consagrados en esta Constitución y la ley.
+- III. El Estado garantiza, respeta y protege los derechos de las naciones y pueblos indígena originario campesinos consagrados en esta Constitución y la ley.
 
 ###### Artículo 31.
 
-- Las naciones y pueblos indígena originarios en  peligro  de  extinción,  en  situación  de aislamiento  voluntario  y  no  contactados, serán protegidos y respetados en sus formas de vida individual y colectiva.
+- I. Las naciones y pueblos indígena originarios en peligro de extinción, en situación de aislamiento voluntario y no contactados, serán protegidos y respetados en sus formas de vida individual y colectiva.
 
-- Las  naciones  y  pueblos  indígenas  en aislamiento  y  no  contactados  gozan  del derecho  a  mantenerse  en  esa  condición, a la delimitación y consolidación legal del territorio que ocupan y habitan.
+- II. Las naciones y pueblos indígenas en aislamiento y no contactados gozan del derecho a mantenerse en esa condición, a la delimitación y consolidación legal del territorio que ocupan y habitan.
 
 ###### Artículo  32.
 El  pueblo  afroboliviano  goza,  en  todo lo  que  corresponda,  de  los  derechos  económicos, sociales, políticos y culturales reconocidos en la Constitución  para  las  naciones  y  pueblos  indígena originario campesinos.
@@ -872,27 +872,27 @@ Kawknïri  jaqisa,  sapapasa  jani ukaxa  p'iqiñchiri  kankañampixa  jan  wali
 
 ###### 35 Kamachi.
 
-- Estado  ukaxa  kunaymana  usutanakatwa kamachinaka wakt'ayasa aski qamañataki taqi jaqina jani chani mayisina jark'aqi.
+- I. Estado ukaxa kunaymana usutanakatwa kamachinaka wakt'ayasa aski qamañataki taqi jaqina jani chani mayisina jark'aqi.
 
-- Qullasiñaxa  mayakiwa,  ukampirusa naciones  y  pueblos  indígena  originario campesinos ukanakana qulla wakitanakasa uñt'ataxarakiwa.
+- II. Qullasiñaxa mayakiwa, ukampirusa naciones y pueblos indígena originario campesinos ukanakana qulla wakitanakasa uñt'ataxarakiwa.
 
 #### CAPÍTULO QUINTO DERECHOS SOCIALES Y ECONÓMICOS
 
 ##### SECCIÓN I DERECHO AL MEDIO AMBIENTE
 
 ###### Artículo  33.
-Las  personas  tienen  derecho a  un  medio  ambiente  saludable,  protegido  y equilibrado. El ejercicio de este derecho debe permitir  a  los  individuos  y  colectividades  de las presentes y futuras generaciones, además de otros seres vivos, desarrollarse de manera normal y permanente.
+Las personas tienen derecho a un medio ambiente saludable, protegido y equilibrado. El ejercicio de este derecho debe permitir a los individuos y colectividades de las presentes y futuras generaciones, además de otros seres vivos, desarrollarse de manera normal y permanente.
 
 ###### Artículo 34.
-Cualquier persona, a título  individual o en representación de una colectividad, está facultada  para  ejercitar  las  acciones  legales en defensa del derecho al medio ambiente, sin perjuicio  de  la  obligación  de  las  instituciones públicas de actuar  de  oficio  frente  a  los  atentados contra el medio ambiente.
+Cualquier persona, a título individual o en representación de una colectividad, está facultada para ejercitar las acciones legales en defensa del derecho al medio ambiente, sin perjuicio de la obligación de las instituciones públicas de actuar de oficio frente a los atentados contra el medio ambiente.
 
 ##### SECCIÓN II DERECHO A LA SALUD Y A LA SEGURIDAD SOCIAL
 
 ###### Artículo 35.
 
-- El Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas orientadas a mejorar la calidad de vida,  el  bienestar  colectivo  y  el  acceso  gratuito de la población a los servicios  de salud.
+- I. El Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas orientadas a mejorar la calidad de vida, el bienestar colectivo y el acceso gratuito de la población a los servicios de salud.
 
-- El  sistema  de  salud  es  único  e  incluye  a la  medicina  tradicional  de  las  naciones  y pueblos indígena originario campesinos.
+- II. El sistema de salud es único e incluye a la medicina tradicional de las naciones y pueblos indígena originario campesinos.
 
 24
 
@@ -904,48 +904,48 @@ MACHAQA TAYKA KAMACHI
 
 ###### 36 Kamachi.
 
-- Estado  ukaxa  khuskhata  qullasiña wakt'ayi.
+- I. Estado ukaxa khuskhata qullasiña wakt'ayi.
 
-- Estado ukaxa servicios públicos ukjamaraki privadas  irnaqatanakapa  uñaqi,  kamachi tuqiwa phuqawipa uñaqi.
+- II. Estado ukaxa servicios públicos ukjamaraki privadas irnaqatanakapa uñaqi, kamachi tuqiwa phuqawipa uñaqi.
 
 ###### 37 Kamachi.
 Estado ukaxa qullasiwinxa qullaxa wakiyañapawa. Kunjamatï mantasa wakiyatäki ukjamarjama. Qullasiwix taqiniru uñt'ayañawa, usunaka jark'aqañataki.
 
 ###### 38 Kamachi.
 
-- Qullayasiña  utana  yanakapaxa  estado ukankiwa janiwa alxkatatakaspati.
+- I. Qullayasiña utana yanakapaxa estado ukankiwa janiwa alxkatatakaspati.
 
-- Qullayasiña  utana  irnaqawinakaxa  janiwa sayt'ayatakaspati.
+- II. Qullayasiña utana irnaqawinakaxa janiwa sayt'ayatakaspati.
 
 ###### 39 Kamachi.
 
-- Estado ukaxa taqinitaki  qullayasiwi  jay  saraki ukjamaraki qullqimpi  qullayasiwi  uñt'arakiwa; ukatxa  kamachirjamawa  qullasiwinakanxa qullirinakaru,  qullanakata  ukajamraki qullayasiña  uta  ukanakxa  chikayarakini ukjamaraki uñch'ukirakini.
+- I. Estado ukaxa taqinitaki qullayasiwi jay saraki ukjamaraki qullqimpi qullayasiwi uñt'arakiwa; ukatxa kamachirjamawa qullasiwinakanxa qullirinakaru, qullanakata ukjamaraki qullayasiña uta ukanakxa chikayarakini ukjamaraki uñch'ukirakini.
 
-- Kamachi  taypiwa  jani  wali  qullatata qullirinakatxa taripawipaxa juchañchatani.
+- II. Kamachi taypiwa jani wali qullatata qullirinakatxa taripawipaxa juchañchatani.
 
 ###### 40  Kamachi.
-Estado  ukaxa  taqi  markachirinakatwa amuyunaka apthapi aski qullasiwi utjañapatakix ukjamata wakiyi.
+Estado ukaxa taqi markachirinakatwa amuyunaka apthapi aski qullasiwi utjañapatakix ukjamata wakiyi.
 
 ###### Artículo 36.
 
-- El Estado garantizará el acceso al seguro universal de salud.
+- I. El Estado garantizará el acceso al seguro universal de salud.
 
-- El  Estado  controlará  el  ejercicio  de  los servicios públicos y privados de salud, y lo regulará mediante la ley.
+- II. El Estado controlará el ejercicio de los servicios públicos y privados de salud, y lo regulará mediante la ley.
 
 ###### Artículo  37.
-El  Estado  tiene  la  obligación indeclinable de garantizar y sostener el derecho a  la  salud,  que  se  constituye  en  una  función suprema y primera  responsabilidad  financiera.  Se priorizará  la  promoción  de  la  salud  y  la  prevención de las enfermedades.
+El Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. Se priorizará la promoción de la salud y la prevención de las enfermedades.
 
 ###### Artículo 38.
 
-- Los  bienes  y  servicios  públicos  de  salud son propiedad del Estado, y no podrán ser privatizados ni concesionados.
+- I. Los bienes y servicios públicos de salud son propiedad del Estado, y no podrán ser privatizados ni concesionados.
 
-- Los servicios de salud serán prestados de forma ininterrumpida.
+- II. Los servicios de salud serán prestados de forma ininterrumpida.
 
 ###### Artículo 39.
 
-- El Estado garantizará el servicio de salud público  y  reconoce  el  servicio  de  salud privado; regulará y vigilará la atención de calidad  a  través  de  auditorías  médicas sostenibles  que  evalúen  el  trabajo  de  su personal,  la  infraestructura  y  el  equipamiento, de acuerdo con la ley.
+- I. El Estado garantizará el servicio de salud público y reconoce el servicio de salud privado; regulará y vigilará la atención de calidad a través de auditorías médicas sostenibles que evalúen el trabajo de su personal, la infraestructura y el equipamiento, de acuerdo con la ley.
 
-- La ley sancionará las acciones u omisiones negligentes  en  el  ejercicio  de  la  práctica médica.
+- II. La ley sancionará las acciones u omisiones negligentes en el ejercicio de la práctica médica.
 
 ###### Artículo 40.
 El Estado garantizará la participación de la población organizada en la toma de  decisiones,  y  en  la  gestión  de  todo  el sistema público de salud.
@@ -994,7 +994,7 @@ Kamachi  tuqiwa  anqa  markata waxt'ata  qullanakaxa  ch'iqiyatani,  uka  pachpa
 - La ley regulará el ejercicio de la medicina tradicional  y  garantizará  la  calidad  de  su servicio.
 
 ###### Artículo  43.
-La  ley  regulará  las  donaciones o  trasplantes  de  células,  tejidos  u  órganos bajo los principios de humanidad, solidaridad, opportunity, gratuidad y eficiencia.
+La ley regulará las donaciones o trasplantes de células, tejidos u órganos bajo los principios de humanidad, solidaridad, oportunidad, gratuidad y eficiencia.
 
 26
 
@@ -1038,7 +1038,7 @@ MACHAQA TAYKA KAMACHI
 
 - El  régimen  de  seguridad  social  cubre  atención por enfermedad, epidemias y enfermedades catastróficas;  maternidad  y  paternidad; riesgos  profesionales,  laborales  y  riesgos por  labores  de  campo;  discapacidad  y necesidades  especiales;  desempleo  y  pérdida de empleo; orfandad, invalidez,  viudez,  vejez y muerte; vivienda, asignaciones familiares y otras previsiones sociales.
 
-- El Estado garantiza el derecho a la jubila-ción, con carácter universal, solidario y equitativo.
+- El Estado garantiza el derecho a la jubilación, con carácter universal, solidario y equitativo.
 
 - Las mujeres tienen derecho a la maternidad segura,  con  una  visión  y  práctica  intercultural; gozarán de especial asistencia y protección del Estado durante el embarazo, parto y en los periodos prenatal y posnatal.
 
@@ -1106,11 +1106,11 @@ MACHAQA TAYKA KAMACHI
 
 - Disposiciones sociales ukjamaraki laborales ukanakaxa phuqañapuniwa.
 
-- Kamachinakaxa  amuyt'atañapawa i r n a q i r i n a k a r u kunaymana  tuqina yanapañampi.
+- Kamachinakaxa amuyt'atañapawa irnaqirinakaru kunaymana tuqina yanapañampi.
 
 - Derechos ukjamaraki beneficios ukanakaxa irnaqirinakanxa  janiwa  jani  satakaspati, janiwa phiskhasitakaspasa.
 
-- I V.  Jan  payllat  payllawinakaxa  janiw apaqatakaspati,  beneficios  laborales, beneficios  sociales,  aportes  ukanakaxa janirakiwa  apaqatakaspati  jan  ukaxa  payllaña ukjawa.
+- IV. Jan payllat payllawinakaxa janiw apaqatakaspati, beneficios laborales, beneficios sociales, aportes ukanakaxa janirakiwa apaqatakaspati jan ukaxa payllaña ukjawa.
 
 - Estado ukaxa chacha warmi irnaqirinakaruxa khuskhatwa  kunaymana  instituciones publicas  ukjamaraki  privadas  payllawi  tiqinsa jani jisk'achasawa waqaychi.
 
@@ -1218,7 +1218,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Walja  qullqininakaxa  amtaparjamaxa qutuchasipxaspawa.
 
-- Estado ukaxa asociaciones empresariales ukanakaruxa personeria j u r i d i c a kamachinakaparjama utnuqayata laqañchayarakini.
+- Estado ukaxa asociaciones empresariales ukanakaruxa personeria juridica kamachinakaparjama utnuqayata laqañchayarakini.
 
 - Estado  ukaxa  qutuchata  yatxatawimpi  yanapiri qutuchata  empresariales  ukanakaruwa uñt'ani
 
@@ -1344,7 +1344,7 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 35]]
 
-- Estado  ukaxa  taqi j a q i x a   wayna tawaqunakaruxa  desarrollo  productivo, político,  social,  económico,  ukjamaraki cultural ukanakaruxa kamachinakarjamawa jach'añchasa chikañchayapxaspa.
+- Estado ukaxa taqi jaqixa wayna tawaqunakaruxa desarrollo productivo, político, social, económico, ukjamaraki cultural ukanakaruxa kamachinakarjamawa jach'añchasa chikañchayapxaspa.
 
 ###### 60  Kamachi.
 Estado  ukaxa  taqi  jaqimpi  wila masi  utjawinkirinakampiwa  imilla  wawata, yuqalla wawata, q'axullata taqi jan walinakatxa, mäkiwa  jani  chuyma  pist'ayasa  taripirinakasa pachaparuwa jark'aqañampi uñaqapxarakispa.
@@ -1363,7 +1363,7 @@ Estado ukaxa utjawinkirinakaruwa markataki  askitaparjama  jark'aqi  uñjaraki, 
 - El Estado y la sociedad garantizarán la protección,  promoción  y  activa  participación de las jóvenes y los jóvenes en el desarrollo productivo, político, social, económico y cultural, sin discriminación alguna, de acuerdo con la ley.
 
 ###### Artículo 60.
-Es deber del Estado, la  sociedad  y  la familia  garantizar  la  prioridad  del  interés  superior de la niña, niño y adolescente, que comprende la  preeminencia de sus derechos, la primacía en  recibir  protección  y  socorro  en  cualquier circunstancia, la priority en la atención de los servicios públicos y privados, y el acceso a una administración de justicia pronta, oportuna y con asistencia de personal especializado.
+Es deber del Estado, la sociedad y la familia garantizar la prioridad del interés superior de la niña, niño y adolescente, que comprende la preeminencia de sus derechos, la primacía en recibir protección y socorro en cualquier circunstancia, la prioridad en la atención de los servicios públicos y privados, y el acceso a una administración de justicia pronta, oportuna y con asistencia de personal especializado.
 
 ###### Artículo 61.
 
@@ -1374,7 +1374,7 @@ Es deber del Estado, la  sociedad  y  la familia  garantizar  la  prioridad  del
 ##### SECCIÓN VI DERECHOS DE LAS FAMILIAS
 
 ###### Artículo  62.
-El  Estado  reconoce  y  protege  a las familias como el núcleo fundamental de la society, y garantizará las condiciones sociales y  económicas  necesarias  para  su  desarrollo integral. Todos sus integrantes tienen igualdad de derechos, obligaciones y oportunidades.
+El Estado reconoce y protege a las familias como el núcleo fundamental de la sociedad, y garantizará las condiciones sociales y económicas necesarias para su desarrollo integral. Todos sus integrantes tienen igualdad de derechos, obligaciones y oportunidades.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -1440,7 +1440,7 @@ MACHAQA TAYKA KAMACHI
 
 - Estado  ukaxa  políticas  públicas  tuqiwa jark'aqañataki, uñaqañataki, irnaqayañataki ch'amaparjama wakiyi.
 
-- Ch'ama  tukuta  jaqinakaruxa  janiwa ñanqhachatakaspati j a n i r a k i w a jisk'achatakaspati  ukanakaxa  juchawa ukjamaraki taripataspawa.
+- Ch'ama tukuta jaqinakaruxa janiwa ñanqhachatakaspati janirakiwa jisk'achatakaspati ukanakaxa juchawa ukjamaraki taripataspawa.
 
 ###### 69  Kamachi .
 Ch'axwiri  sariri  awkinakaxa  kamachi tuqixa  taqi  instituciones  públicas  ukjamaraki privadas taqi markachirita yäqatañapawa, uka pachparaki marka jark'aqirita uñt'ata, kamachi tuqi jiwañkama payllata.
@@ -1492,7 +1492,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 71 Kamachi .
 
-- Janchita usutanakaruxa j a n i w a jik'achatakaspati,  janiwa  ñaqhachatakaspasa j a n i r a k i w a i r n a q a w i n x a   ch'amasa ch'irwatakaspati,  ukaxa  juchawa,  ukjamarusa taripayatarakispawa.
+- Janchita usutanakaruxa janiwa jik'achatakaspati, janiwa ñaqhachatakaspasa janirakiwa irnaqawinxa ch'amasa ch'irwatakaspati, ukaxa juchawa, ukjamarusa taripayatarakispawa.
 
 - Estado  ukaxa  janchi  usuta  jaqinakatakixa lurawinakana,  economico,  politico  social ukjamaraki  cultural  jan  jisk'achasa yanaparakini.
 
@@ -1517,10 +1517,10 @@ Estado  ukaxa  kunaymana yanapawinakwa janchi usuta jaqinakaruxa aski jakapxaña
 
 - El  Estado  adoptará  medidas  de  acción positiva  para  promover  la  efectiva  integración de  las  personas  con  discapacidad  en  el ámbito productivo,  económico,  político,  social y cultural, sin discriminación alguna.
 
-- El  Estado  generará  las  condiciones  que permitan el  desarrollo  de  las  potencialidades i n dividuales  de  las  personas  con discapacidad.
+- El Estado generará las condiciones que permitan el desarrollo de las potencialidades individuales de las personas con discapacidad.
 
 ###### Artículo 72.
-El  Estado  garantizará  a  las  personas con  discapacidad  los  servicios  integrales  de prevention  y  rehabilitación,  así  como  otros beneficios que se establezcan en la ley.
+El Estado garantizará a las personas con discapacidad los servicios integrales de prevención y rehabilitación, así como otros beneficios que se establezcan en la ley.
 
 38
 
@@ -1536,7 +1536,7 @@ MACHAQA TAYKA KAMACHI
 
 - Taqi jaqi juchañchaxa yaqha uñjasjamawa taripatañapa.
 
-- Taqi  taripata  jaqinakawa  yatiyasiwiru wila  masinakapampi,  arxatirinakapampi, uñt'atanakapampi yatiyasiñataki derechoni. Jani yatiqasiwixa j u c h a ñ c h a t a w a . Taqi  jani  yatiyasiwixa  jucha  yatxataña kankañampiwa pä tunka pusini  horanakakiwa katxasitaspa.
+- Taqi taripata jaqinakawa yatiyasiwiru wila masinakapampi, arxatirinakapampi, uñt'atanakapampi yatiyasiñataki derechoni. Jani yatiqasiwixa juchañchatawa. Taqi jani yatiyasiwixa jucha yatxataña kankañampiwa pä tunka pusini horanakakiwa katxasitaspa.
 
 ###### 74 Kamachi.
 
@@ -1652,7 +1652,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 42]]
 
-- Warminakampi  chachanakampitakixa j a k a w i p a r j a m a , wisawimpi  nayrar sartawitakixa  educacional  vocacional ukjamaraki enseñanza técnica humanística ukjamawa ch'amañchi.
+- Warminakampi chachanakampitakixa jakawiparjama, wisawimpi nayrar sartawitakixa educacional vocacional ukjamaraki enseñanza técnica humanística ukjamawa ch'amañchi.
 
 ###### 79  Kamachi.
 Yatiqawixa  civismo,  diálogo intercultural ukjamaraki valores éticos morales ch'amanchani.  Valores  ukanxa  equidad  de genero, la no diferencia de roles, la no violencia ukjamaraki  vigencia  de  derechos  humanos ukanakaniwa.
@@ -1686,13 +1686,13 @@ MACHAQA TAYKA KAMACHI
 
 - Yatiqawinxa  taqiniwa  bachillerato tukuyapxañapa.
 
-- Yatiqawixa kunaymana ni v e l e s ukanakanxa  jani  chani  churasawa  jach'a yatiñutanakankama yatiqañawa.
+- Yatiqawixa kunaymana niveles ukanakanxa jani chani churasawa jach'a yatiñutanakankama yatiqañawa.
 
 - Bachiller  tukuyasaxa  título  de  bachiller apsuñaxa  mäki  jani  chanini  inakiwa apsuñani.
 
 ###### 82 Kamachi .
 
-- I .   Estado  ukaxa  taqi  chacha  warmi markachirinakatakixa  pachpa  yatiqawi jach'añchayi.
+- I. Estado ukaxa taqi chacha warmi markachirinakatakixa pachpa yatiqawi jach'añchayi.
 
 - Estado  ukaxa  kamachi  tuqiwa    pisinkiri yatiqirinakatakixa  kunaymana  yanapa taqi  niveles  ukanakatakixa    qullqimpi manq'añampi,  material  escolar  isimpi, k'añaskumpi,  material  escolarampi  jaya jayana  qamasiritakixa  qamaña  utampi kamachi tuqiwa yanapani.
 
@@ -1729,13 +1729,13 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 [[START OF PAGE 44]]
 
 ###### 84 Kamachi.
-Estado ukampi t a q i markachirinakampiwa  chikt'atawa  jani  ullaña qillqañxa  wasaru  aski  amtawinakampi  sarawi tuqi aru tuqi tukjapxarakispa.
+Estado ukampi taqi markachirinakampiwa chikt'atawa jani ullaña qillqañxa wasaru aski amtawinakampi sarawi tuqi aru tuqi tukjapxarakispa.
 
 ###### 85  Kamachi.
 Estado  ukaxa  imilla,  yuqalla q'axulla  janchita  usutanakatakixa  jach'a  amta yatiqawirjama  yatiqañanaka  jach'añchañataki wakiyarakini.
 
 ###### 86 Kamachi.
-Yatiqaña utanakanxa iyawsañaxa kunaymana  naciones  y  pueblos  indigena originario  ukanakana  iyawsawipa  yäqasa j a c h ' a ñ c h a y a t a r a k i n i j a n i j i s k ' a c h a s a munkiri  jan  munkirixa  janiwa  walikiti  taqi ukanakawa  ch'amañchayatani.  Uka  yatiqaña utanakaruxa  janiw  kunayman  iyawsañana chikañchasiñaxa imilla yuqalla yatiqirinakaruxa jisk'achatakaspati.
+Yatiqaña utanakanxa iyawsañaxa kunaymana naciones y pueblos indigena originario ukanakana iyawsawipa yäqasa jach'añchayatarakini jani jisk'achasa munkiri jan munkirixa janiwa walikiti taqi ukanakawa ch'amañchayatani. Uka yatiqaña utanakaruxa janiw kunayman iyawsañana chikañchasiñaxa imilla yuqalla yatiqirinakaruxa jisk'achatakaspati.
 
 ###### 87  Kamachi.
 Yatiqaña  utanakaxa  convenio jaqitaki  aski  amtampi  jani  juk'uchasiñampi chikachasirinakaxa  jani  p'iqiñchirianaka utt'ayatarjamawa religiosas /  religiosos  kunamati thakhinakaxa  yatiqawinakasa  wakt'ayätaki ukjamarjamawa yäqata.
@@ -1870,7 +1870,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Universidades  públicas  ukanakaxa kamachinakaprjamawa  programas  de desconcentración  academica  ukjamaraki interculturalidad estado, naciones y pueblos indígenas  originario  campesinos  ukanaka mayiwinakaparjamawa  yatiqawinaka utt'ayarakini.
 
-- Estado  ukaxa  universidades  públicas ukanakampi  chikañchasisaxa  pata t u q i n a k a n x a creación ukjamaraki funcionamiento  de  universidades  e institutos  comunitarios  pluriculturales ukjamanakawa  markachirimpi  chikt'ata utnuqayarakispa. Ukjama utnuqawinakatxa markachirina  mayiwiparjamawa  lurawi  tuqiwa ch'amañcharakini.
+- Estado ukaxa universidades públicas ukanakampi chikañchasisaxa pata tuqinakanxa creación ukjamaraki funcionamiento de universidades e institutos comunitarios pluriculturales ukjamanakawa markachirimpi chikt'ata utnuqayarakispa. Ukjama utnuqawinakatxa markachirina mayiwiparjamawa lurawi tuqiwa ch'amañcharakini.
 
 ###### 94 Kamachi.
 
@@ -1902,7 +1902,7 @@ MACHAQA TAYKA KAMACHI
 
 ###### 95 Kamachi.
 
-- Universidades  ukanakaxa  centros interculturales  de  formacion  ukjamaraki capacitacion t é c n i c a ukjamaraki cultural  inaki  markachiritaki  yatiqawina amtawinakaparjamawa  uñstayasa wakichapxañapa.
+- Universidades ukanakaxa centros interculturales de formacion ukjamaraki capacitacion técnica ukjamaraki cultural inaki markachiritaki yatiqawina amtawinakaparjamawa uñstayasa wakichapxañapa.
 
 - Universidades  ukanakaxa  naciones ukjamaraki  pueblos  indígena  originario campesinos  ukanakana  arunakapwa wakichawinaka  taqi  tuqiru  yatiyasa, jach'añchayasa,  waqaychasa,  amthapisa waqaychapxañapa.
 
@@ -1936,7 +1936,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Yatichirinakaxa  kunaymana  jichha yatxatawina  yatiqawinakampiwa  sapa  kuti wakichasipxañapa.
 
-- Yatichirita irnaqawinxa janiwa kamachinaka t u q i x a i n a k i j a q u m u k u t a k a s p a t i . Yatichirinakaxa aski payllawinipxañapawa.
+- Yatichirita irnaqawinxa janiwa kamachinaka tuqixa inaki jaqumukutakaspati. Yatichirinakaxa aski payllawinipxañapawa.
 
 ###### 97  Kamachi.
 Post  gradual  yatiqawixa  kunaymana niveles  ukanakanxa  kunaymana  areas  ukanakata aski  yatxatatanakawa  kunaymana  yatxatawinaka markachiri jach'añchayañatakiwa utt'ayataraki. Post - gradual yatiqawixa kunaymana instancia, universidad  taypiwa  universidad  taypiwa  kamachi tuqiwa chikañchasitarakini.
@@ -2000,9 +2000,9 @@ MACHAQA TAYKA KAMACHI
 
 ###### Artículo 100.
 
-- Es  patrimonio  de  las  naciones  y  pueblos i ndígena  originario  campesinos  las cosmovisiones,  los  mitos,  la  historia  oral, las  danzas,  las  prácticas  culturales,  los conocimientos  y  las  tecnologías  tradicionales. Este patrimonio forma parte de la expresión e identidad del Estado.
+- Es  patrimonio  de  las  naciones  y  pueblos indígena  originario  campesinos  las cosmovisiones,  los  mitos,  la  historia  oral, las  danzas,  las  prácticas  culturales,  los conocimientos  y  las  tecnologías  tradicionales. Este patrimonio forma parte de la expresión e identidad del Estado.
 
-- El  Estado  protegerá  los  saberes  y  los conocimientos  mediante  el  registro  de  la propiedad intelectual  que  salvaguarde  los derechos  intangibles  de  las  naciones  y pueblos  indígena  originario  campesinas y  las  comunidades  interculturales  y  afro­ bolivianas.
+- El  Estado  protegerá  los  saberes  y  los conocimientos  mediante  el  registro  de  la propiedad intelectual  que  salvaguarde  los derechos  intangibles  de  las  naciones  y pueblos  indígena  originario  campesinas y  las  comunidades  interculturales  y  afrobolivianas.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -2088,7 +2088,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 54]]
 
-- Estado ukaxa c h a c h a warmi markachirinakaruxa  derecho  arsuwi, lup'iwi  arsuñana,  yatiyawi  ch'iqarst'ayaña kutkatasiña  kunaymana  yatiqasina  tuqiwa ch'amañcharaki.
+- Estado ukaxa chacha warmi markachirinakaruxa  derecho  arsuwi, lup'iwi  arsuñana,  yatiyawi  ch'iqarst'ayaña kutkatasiña  kunaymana  yatiqasina  tuqiwa ch'amañcharaki.
 
 - Estado ukaxa chacha warmi prensa ukana irnaqirinakaruxa  libertad,  derecho    yatiyañana yatiyawina ch'amañchi.
 
@@ -2141,7 +2141,7 @@ Chacha warmi markachirinakana phuqhawinakapawa:
 
 - Derecho de la paz fomentar la cultura de paz jark'aña, waqaychaña, yanapaña.
 
-- Sapa  maynina  ch'amaparjama l u p ' i w i p a r j a m a aski l u r a w i n a k a markachirinakataki irnaqaña.
+- Sapa  maynina  ch'amaparjama lup'iwiparjama aski lurawinaka markachirinakataki irnaqaña.
 
 - Taqi  markachiriwa  bachillerkama yatiqañapa.
 
@@ -2244,7 +2244,7 @@ MACHAQA TAYKA KAMACHI
 
 - Derechos constitucionales takichasirinakaxa autores intelectuales ukjamaraki materiales ukjamarjamawa uñjatarakini.
 
-- Atentados  contra  seguridad  personal l u r a w i n a k a p a x a mäkiwa ukjama luririnakaruxa, inasa jiliripana amtapachispa juchañchatani.
+- Atentados  contra  seguridad  personal lurawinakapaxa mäkiwa ukjama luririnakaruxa, inasa jiliripana amtapachispa juchañchatani.
 
 ###### 111  Kamachi.
 Delitos  genocidios  de  la humanidad  de  traccion  a  la  patria  ukjama jani  wali  luririnakaruxa  juchañchawitxa  janiwa qhisphipkaspati.
@@ -2262,7 +2262,7 @@ Servidores  públicos  jani  wali lurasa  patrimonio  del  estado  ukaru  qullqi
 
 - Las  personas  que  vulneren  derechos constitucionales  quedan  sujetas  a  la jurisdicción  y  competencia  de  las  autoridades bolivianas.
 
-- La vulneración de l o s derechos constitucionales  hace  responsables  a  sus autores intelectuales y materiales.
+- La vulneración de los derechos constitucionales  hace  responsables  a  sus autores intelectuales y materiales.
 
 - Los atentados contra la seguridad personal hacen  responsables  a  sus  autores  inmediatos, sin  que  pueda  servirles  de  excusa  el  haberlos cometido por orden superior.
 
@@ -2294,7 +2294,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 115 Kamachi.
 
-- Taqi jaqiru yäparu taripiri p'iqiñchirinakatxa i r n a q a w i p a n x a d e r e c h o n a k a x a arxatatañapa.
+- Taqi jaqiru yäparu taripiri p'iqiñchirinakatxa irnaqawipanxa derechonakaxa arxatatañapa.
 
 - Estadoxa chiqa taripawi, mäki, jani chanita, qhana uka derechonakwa  qhananchi.
 
@@ -2334,7 +2334,7 @@ MACHAQA TAYKA KAMACHI
 
 - Janiwa khiti jaqisa ina ukjamaki jani taripawi thakhirjamaxa juchañchatakaspati.  Janiwa khithi  jaqisa  jani  taripiri  p'iqiñchirinakaru yatiyasaxa juchañchatakaspati.
 
-- Janiwa  khithisa  mä  juchataki  sapa  kutisa j u c hañchatakaspati.  Rehabilitación takichata  derechonakaparuxa  mäkiwa kutkatayataspa.
+- Janiwa  khithisa  mä  juchataki  sapa  kutisa juchañchatakaspati.  Rehabilitación takichata  derechonakaparuxa  mäkiwa kutkatayataspa.
 
 - Janiwa  sancion  privativa  de  libertad  por deudas  u  obligaciones  patrimoniales ukanakatakixa janiwa  phuqhappa  satapinikiti, inasa kamachi tuqi wakisirakchispa.
 
@@ -2421,7 +2421,7 @@ MACHAQA TAYKA KAMACHI
 [[START OF PAGE 61]]
 
 ###### 123 Kamachi.
-Kamachixa nayraxa uñtawitakiwa inasa  kunapachati  irnaqawina  irnaqirinakataki aski; materia penal juchaninakaru yanapañawa, qullqi  l unthatasiwina  yatxatañatakispa juchañchañatakispa  estadoru  arxatañataki; yaqhanakana  tayka  machaqa  kamachina uñañchayatarjama.
+Kamachixa nayraxa uñtawitakiwa inasa  kunapachati  irnaqawina  irnaqirinakataki aski; materia penal juchaninakaru yanapañawa, qullqi lunthatasiwina  yatxatañatakispa juchañchañatakispa  estadoru  arxatañataki; yaqhanakana  tayka  machaqa  kamachina uñañchayatarjama.
 
 ###### 124 Kamachi.
 
@@ -2469,7 +2469,7 @@ Taqi  jaqitï  arknaqata,  jani walina  jiqxataskchi  jan  juchanita  taripata u
 
 - Taripiri  p'iqiñchirixa  mäkiwa  uru  hora audiencia  pública  ukataki  sañapa,  pusi tunka pusini horanakatwa juchani jaqiruxa taripañaxa yatisispa. Uka ordenampixa jaqi chimpu  tuqixa  jawsataspawa,  ukampixa janiwa khititsa jani wali uñjatakaspati taqiwa phuqhapxañapa.
 
-- Janiwa kunakipansa  audienciaxa qhipharkaspati. Juchanitixa jani ukankaspa ukjaxa j u p a r u j u c h a ñ c h a ñ a t a k i x a phuqasiskakispawa.
+- Janiwa kunakipansa  audienciaxa qhipharkaspati. Juchanitixa jani ukankaspa ukjaxa juparu juchañchañatakixa phuqasiskakispawa.
 
 #### CAPÍTULO SEGUNDO ACCIONES DE DEFENSA
 
@@ -2556,7 +2556,7 @@ MACHAQA TAYKA KAMACHI
 
 - Qhipa  qhipa  amtawixa  audiencia  pública ukanawa p'iqiñchiriru  jani  ukaxa  juchañchata jaqiru  yatxatatatarjamawa  qhant'atarakini. Taripiri  p'iqinchirixa  p'iqinchiri  juchanchata jaqiruxa  taqi  ukanakaruxa  askinjamawa uñakipañapa ukjamata amparo mayt'añataki. Amtawixa  Tribunal  Constitucional Plurinacional ukaruwa katuyatani ukaxa pä tunka pusini horanakatwa emisión del fallo ukaxa yatisispa.
 
-- Qhipha  amtata  Acción  de  Amparo Constitucional  ukaxa  makiwa  jan  kuna sasawa  phuqhatarakispa.  Jani  yäqataspa ukjaxa  kunjamati  Acción  de  Libertad thathinchatarakispa.  Taripiri  p'iqinchiritixa jani  aka  amtarjama  jani  phuqhkaspaxa k a m c h i n a k a r j a m w a j u c h a p a x a wayxatatarakispa.
+- Qhipha  amtata  Acción  de  Amparo Constitucional  ukaxa  makiwa  jan  kuna sasawa  phuqhatarakispa.  Jani  yäqataspa ukjaxa  kunjamati  Acción  de  Libertad thathinchatarakispa.  Taripiri  p'iqinchiritixa jani  aka  amtarjama  jani  phuqhkaspaxa kamchinakarjamwa juchapaxa wayxatatarakispa.
 
 - La  resolución  final  se  pronunciará  en audiencia  pública  inmediatamente  recibida la  información  de  la  autoridad  o  persona demandada y, a falta de ésta, lo hará sobre la base de la prueba que ofrezca la persona accionante. La autoridad judicial examinará la competencia de la servidora pública o del servidor público o de la persona demandada y, en caso de encontrar cierta y efectiva la demanda, concederá el amparo solicitado.  La decisión  que  se  pronuncie  se  elevará,  de  oficio, en  revisión  ante  el  Tribunal  Constitucional Plurinacional en el plazo de las veinticuatro horas siguientes a la emisión del fallo.
 
@@ -2610,12 +2610,12 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 67]]
 
-- Qhipha  amtawixa  acción  de  protección de  privacidad  ukaxa  jan  kuna  sasawa phuqhasiñapa.  Jani  yaqataspa  ukjaxa kunjamatï acción  de  libertad  utjki  ukjamaruwa thakhinchatarakispa.  Taripiri  p'iqinchiritixa j ani  aka  amtarjama  phuqhkaspaxa kamachinakarjamawa j u c h a p a x a juchanchatarakispa.
+- Qhipha  amtawixa  acción  de  protección de  privacidad  ukaxa  jan  kuna  sasawa phuqhasiñapa.  Jani  yaqataspa  ukjaxa kunjamatï acción  de  libertad  utjki  ukjamaruwa thakhinchatarakispa.  Taripiri  p'iqinchiritixa jani  aka  amtarjama  phuqhkaspaxa kamachinakarjamawa juchapaxa juchanchatarakispa.
 
 ##### PUSÏRI T'AQXTA JUCHA P'AMP'ACHAWI
 
 ###### 132 Kamachi.
-T aqi jaqi sapata jan ukaxa qututa jan tayka kamachirjama juchanchatakchi ukjaxa acción  de  inconstitucional  kamachirjamawa derecho ukanipxi.
+Taqi jaqi sapata jan ukaxa qututa jan tayka kamachirjama juchanchatakchi ukjaxa acción  de  inconstitucional  kamachirjamawa derecho ukanipxi.
 
 ###### 133  Kamachi.
 Sentencia  mä  kamachitxa inconstitucional  ukjamaspa  ukjaxa  janiwa phuqhatakaspati.
@@ -2860,6 +2860,8 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Derechos de los ciudadanos ukxa artículo 28  tayka  kamachina  qhanañchataki ukjamarjamawa suyt'yatani.
 
+#### CAPÍTULO II CIUDADANÍA
+
 ###### Artículo 144.
 
 - Son  ciudadanas  y  ciudadanos  todas  las bolivianas y todos los bolivianos, y ejercerán su ciudadanía a  partir  de  los  18  años  de  edad, cualesquiera sean sus niveles  de  instrucción, ocupación o renta.
@@ -2871,8 +2873,6 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 - En  el  derecho  a  ejercer  funciones  públicas sin otro requisito que la idoneidad, salvo las excepciones establecidas en la Ley.
 
 - Los derechos de ciudadanía se suspenden por las causales y en la forma prevista en el artículo 28 de esta Constitución.
-
-#### CAPÍTULO II CIUDADANÍA
 
 74
 
@@ -2897,7 +2897,7 @@ Asamblea Legislativa  Plurinacional ukaxa pä cámaras ukata utt'ayatawa Cámara
 
 - Saapa departamentos ukanakanxa chikata Diputados  ukanakakiwa  circunscripciones uninominales  ukana  chhijllata.  Chhikatasti circunscripciones plurinominales ukanrakwa p'iqinchiri,  sullka  p'iqinchiri  ukatxa  senadores ukanakaxa chhijllasiraki.
 
-- Diputados  ukanakxa  votación  universal j amasata  taypiwa  chhijllatapxaraki. Circunscripciones  uninominales  ukanakanxa por  simple  mayoría.  Circunscripciones plurinominales  ukanakanxa  sistema de  representación  taypi  kamachina qhanañchatarjama utt'asirakini.
+- Diputados  ukanakxa  votación  universal jamasata  taypiwa  chhijllatapxaraki. Circunscripciones  uninominales  ukanakanxa por  simple  mayoría.  Circunscripciones plurinominales  ukanakanxa  sistema de  representación  taypi  kamachina qhanañchatarjama utt'asirakini.
 
 ## SEGUNDA PARTE ESTRUCTURA Y ORGANIZACIÓN FUNCIONAL DEL ESTADO
 
@@ -2928,9 +2928,9 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Escaños  sapa  departamentos  ukanakatakixa  órgano  Electoral  taypiwa marakachirinakarjamawa  kamachirjama wakiyatani.  Kamachi  taypiwa  khuskhata escaños  ukanakaxa  markachirinakatjama aynachjt'tarjamawa  utt'ayatarakini. Escaños ukatixa departamentos ukanakana ch'ulljtaspa  ukjaxa  escaño  uninominal  ukawa churataraki.
 
-- Circunscripciones uninominales ukanakaxa kunjantï  uraqipaxa,  qurpasinakapasa, marakachirinakaparjama t a q i ukanipxaañapawa.  Órgano  Electoral ukawa  circunscripciones  uninominales wakicharakini.
+- Circunscripciones uninominales ukanakaxa kunjantï uraqipaxa, qurpasinakapasa, marakachirinakaparjamataqi ukanipxaañapawa. Órgano Electoral ukawa circunscripciones uninominales wakicharakini.
 
-- Circunscripciones  especiales  indígena ori g i n a r i o i n d í g e n a campesino markachirinakarjamawa  wakisirakini. J a n i w a y a q h a departamentos ukanakaru  wat'ayatakaspati.  Ukaxa patankirinakatakikiwa  kawkhanakantixa pueblos  o  naciones  indígena  originario campesinos  ukanakxa  qamasipkchi ukawjanakatakiwa. Órgano electoral ukawa circunscripciones  especiales  wakiyarakini. Aka  circunscripciones  ukanakaxa  número de diputados taypinkapxiwa.
+- Circunscripciones especiales indígena originario indígena campesino markachirinakarjamawa wakisirakini. Janiwa yaqha departamentos ukanakaru wat'ayatakaspati. Ukaxa patankirinakatakikiwa kawkhanakantixa pueblos o naciones indígena originario campesinos ukanakxa qamasipkchi ukawjanakatakiwa. Órgano electoral ukawa circunscripciones especiales wakiyarakini. Aka circunscripciones ukanakaxa número de diputados taypinkapxiwa.
 
 - El  número  de  Diputados  debe  reflejar  la votación  proporcional  obtenida  por  cada partido,  agrupación  ciudadana  o  pueblo indígena.
 
@@ -2971,7 +2971,7 @@ Candidatas ukjamaraki  candidatos Asamblea  Legislativa  Plurinacional  ukatakix
 
 - En la  elección  de  asambleístas  se  garantizará la  igual  participación  de  hombres  y mujeres.
 
-- I I. En la  elección  de  asambleístas  se  garantizará la  participación proporcional de las naciones y pueblos indígena originario campesinos.
+- En la elección de asambleístas se garantizará la participación proporcional de las naciones y pueblos indígena originario campesinos.
 
 - La  ley  determinará  las  circunscripciones especiales indígena originario campesinas, donde  no  deberán  ser  considerados como  criterios  condicionales  la  densidad poblacional, ni la continuidad geográfica.
 
@@ -3004,9 +3004,9 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 151 Kamachi.
 
-- Chacha  jani  ukaxa  warmi  asambleísta ukanakaxa  janiwa  proceso  penal taypi  juchanchatakapxaspati  pacha wakt'ayatarjamaxa o p i n i o n e s , comunicaciones,  representaciones, r e q u e r i m i e n t o s , i n t e r p e l a c i o n e s , denuncias,  propuestas  expresiones yaqhanakampinakanxa i n v i o l a b l e kankañanipxiwa.
+- Chacha jani ukaxa warmi asambleísta ukanakaxa janiwa proceso penal taypi juchanchatakapxaspati pacha wakt'ayatarjamaxa opiniones, comunicaciones, representaciones, requerimientos, interpelaciones, denuncias, propuestas expresiones yaqhanakampinakanxa inviolable kankañanipxiwa.
 
-- Chacha  jani  ukaxa  warmi  asambleístas ukanakana  utjawinakapaxa  janiwa kunakipansa  ñanqhachatakapxaspati. Janirakiw  k'añaskunakapasa  oficinas de uso l e g i s l a t i v o ukanakasa ñanqhachatakapxaspati.
+- Chacha jani ukaxa warmi asambleístas ukanakana utjawinakapaxa janiwa kunakipansa ñanqhachatakapxaspati. Janirakiw k'añaskunakapasa oficinas de uso legislativo ukanakasa ñanqhachatakapxaspati.
 
 ###### Artículo 150.
 
@@ -3018,7 +3018,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### Artículo 151.
 
-- Las  asambleístas  y  los  asambleístas gozarán de inviolabilidad personal durante el tiempo de su mandato y con posterioridad a éste, por las opiniones, comunicaciones, r e p r e s e n t a c i o n e s , r e q u e r i m i e n t o s , interpelaciones,  denuncias,  propuestas, expresiones o cualquier acto de legislación, información o fiscalización que formulen o realicen en el desempeño de sus funciones no podrán ser procesados penalmente.
+- Las asambleístas y los asambleístas gozarán de inviolabilidad personal durante el tiempo de su mandato y con posterioridad a éste, por las opiniones, comunicaciones, representaciones, requerimientos, interpelaciones, denuncias, propuestas, expresiones o cualquier acto de legislación, información o fiscalización que formulen o realicen en el desempeño de sus funciones no podrán ser procesados penalmente.
 
 - El domicilio, la residencia o la habitación de las asambleístas y los asambleístas serán inviolables,  y  no  podrán  ser  allanados  en ninguna  circunstancia.  Esta  previsión  se aplicará a los vehículos de su uso particular u oficial y a las oficinas de uso legislativo.
 
@@ -3127,7 +3127,7 @@ MACHAQA TAYKA KAMACHI
 
 - Sulka  kamachinaka  tuqi  qullqi  wakiya manuchjatata qullqi ch'iqiya uñch'ukiña ukjamaraki recursos estatales de crédito público ukjamaraki subvenciones lurawi chhijnuqawinakataki jay saña.
 
-- Medidas  económicas  estatalesmayiwinakarjama utt'ayaña.
+- Medidas económicas estatales mayiwinakarjama utt'ayaña.
 
 - Contratación  de  empréstitos  que comprometen  la  rentas  del  estado ukanaka  iyaw  saña;  ukjamaraki universidades  ukanakana  contratación de empréstitos ch'amachaña.
 
@@ -3167,7 +3167,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Sistema de medidas utt'ayaña.
 
-- Órganos  del  estado  ukjamaraki i nstituciones  públicas  uñch'ukiña ukjamaraki uñaqaña.
+- Órganos del estado ukjamaraki instituciones públicas uñch'ukiña ukjamaraki uñaqaña.
 
 - Sapa mayni asambleísta amuyuparjama Ministros  ukjamaraki  Ministras  sapa mayniru  jani  ukaxa  quturusa  jisksuña ukjamaraki dos tercios de votos ukampi jan  wali  uñjata  utkuyaña.  Jiskhiwixa kawkmiri  Cámara  uksatsa  wakisikispawa. Censura  ukaxa  Ministro  jani  ukaxa Ministra jaqsuñatakiwa.
 
@@ -3449,7 +3449,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Proyecto  cámara  uksata  jay  sataxa cámara revisora  uksaruwa  aruskipañataki mäkiptayatani.  Cámara  revisora ukatixa  jay  sanixa  Órgano  Ejecutivo ukaruwa  mäkiptayatani  markaru yatiyasiñapataki.
 
-- Cámara  revisora  ukatixa  proyecto uka  mayjt'ayani  ukjaxa  cámara  de origen  ukaruwa  kutiqani  mayjt'ayata ukankirinakampi j a y sañataki. Janitixa  jay  satakaspaxa  paypacha cámara  ukanakawa  tantachasisa pä  tunka  urunakana  proyecto  ukata amuykipapxaspa.  Amtawixa  Asamblea Legislativa  Plurinacional  waljani ukankirinakatwa yatisirakispa.
+- Cámara revisora ukatixa proyecto uka mayjt'ayani ukjaxa cámara de origen ukaruwa kutiqani mayjt'ayata ukankirinakampi jay sañataki. Janitixa jay satakaspaxa paypacha cámara ukanakawa tantachasisa pä tunka urunakana proyecto ukata amuykipapxaspa. Amtawixa Asamblea Legislativa Plurinacional waljani ukankirinakatwa yatisirakispa.
 
 - El proyecto de ley presentado por otra iniciativa será enviado a la Cámara de Diputados, que lo remitirá a la comisión o las comisiones.
 
@@ -3503,7 +3503,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Utt'yata  kamachixa  Gaceta  Oficial  tuqiwa markaru yatiyataspa.
 
-- Kamachixa  markaru  uñt'ayataki  ukjatwa phuqhasiñapa inasa má pacha utjchispa jani phuqhasiñapataki.
+- Kamachixa markaru uñt'ayataki ukjatwa phuqhasiñapa inasa mä pacha utjchispa jani phuqhasiñapataki.
 
 ### PAYÏRI UÑAÑCHAWI MARKA APNAQIRITA
 
@@ -3614,7 +3614,7 @@ MACHAQA TAYKA KAMACHI
 [[START OF PAGE 93]]
 
 ###### 172  Kamachi.
-Bolivia marka p'iqinchirina t a y k a kamachirjamaxa aknirinakawa phuqhawinakapaxa:
+Bolivia marka p'iqinchirina tayka kamachirjamaxa aknirinakawa phuqhawinakapaxa:
 
 - Tayka  kamachi  ukjamaraki  sullka kamachinaka  phuqhaña  ukjamaraki phuqhayaña.
 
@@ -3811,9 +3811,7 @@ MACHAQA TAYKA KAMACHI
 
 - Normas  Administrativas  thakhipa qillqaña.
 
-- Proyectos de Decreto Supremo amtaña ukxa Bolivia marka p'iqinchirimpi chika
-
-- Qillqantxaaña.
+- Proyectos de Decreto Supremo amtaña ukxa Bolivia marka p'iqinchirimpi chika Qillqantxaaña.
 
 - Ministerio  irpxaruwina  jani  askichata jani  walt'awinaka  qhipha  qhipharu askichaña.
 
@@ -4070,7 +4068,7 @@ Magistratura del Tribunal Supremo de Justicia ukana irnaqawipaxa phuqhatapuniniw
 Tribunal Agroambiental ukaxa jilïri tribunal especializado ukjamawa. Función social, integridad, inmediatez, sustentabilidad e interculturalidad taypiwa phuqhasi.
 
 ###### 187 Kamachi.
-Magistrada jan ukaxa Magistrado del tribunal Agroambiental ukañatakixa Tribunal de Supremo de Justicia ukataki mayitaki ukjamarakiwa aka yatxatawita yatxatata, idoneidad ukani, ética honestidad, judicatura agraria ukata, j a n i ukaxa yatichirir universidad ukana kimsaqallqu maranaka taqi ukanakawa mayitarakini. Chhijllatanaka uñt'asaxa composición plural taypi plurinacional amuyurjamawa jay satarakini.
+Magistrada jan ukaxa Magistrado del tribunal Agroambiental ukañatakixa Tribunal de Supremo de Justicia ukataki mayitaki ukjamarakiwa aka yatxatawita yatxatata, idoneidad ukani, ética honestidad, judicatura agraria ukata, jani ukaxa yatichirir universidad ukana kimsaqallqu maranaka taqi ukanakawa mayitarakini. Chhijllatanaka uñt'asaxa composición plural taypi plurinacional amuyurjamawa jay satarakini.
 
 ###### 188 Kamachi.
 
@@ -4143,7 +4141,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Naciones  y  pueblos  indígena  originario campesinos  ukanakaxa  funciones jurisdiccionales  ukjamaraki  p'iqinchipa paypi phuqhapxarakispa ukatsti sarawinakaparjamawa,  principios, valores  culturales,  normas  ukjamaraki procedinmientos  taqi  ukanakarjamwa phuqhapxarakispa.
 
-- Jurisdicción  indígena  originario  campesinauka j a k a w i r u j a r k ' a q a w i r u u k j a m a r a k i tayka  kamachina  derecho  ukanakaxa qhanañchataki ukjamarjamawa yäqi.
+- Jurisdicción indígena originario campesinauka jakawiru jark'aqawiru ukjamaraki tayka kamachina derecho ukanakaxa qhanañchataki ukjamarjamawa yäqi.
 
 ###### 191 Kamachi .
 
@@ -4177,7 +4175,7 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 107]]
 
-- Aka  jurisdicción  ukaxa  asuntos i n dígena  originario  campesinos deslinde  jurisdiccional  mä  kamachi wakt'ayatarjama uñji.
+- Aka jurisdicción ukaxa asuntos indígena originario campesinos deslinde jurisdiccional mä kamachi wakt'ayatarjama uñji.
 
 - Aka  jurisdicción  ukaxa  relacines  tuqiruwa apnaqasi  ukjamaraki  hechos  jurídicos wakt'ayata  jan  ukaxa  jurisdicción  o  pueblo indígena  originario  campesina  taypina lurasi.
 
@@ -4254,7 +4252,7 @@ Consejo de la Magistratura de justicia ukana phuqhawinakapaxa aknirinakawa kunja
 
 - Revocatoria  de  mandato  a  las  magistrados ukjamaraki  magistrados  del  tribunal Supremo de Justicia ukjamaraki Tribunal Agroambiental  ukankirinakatakixa  jani  wali lurawuinakapatxa irnaqawi phuqhawinxa wamachi taypiwa wakiyatani.
 
-- Juezas jani ukaxa jueces, warmi vocales jani  ukaxa  chacha  vocales  ukanakaru; ukjamaraki yanapairinakaparu, adminidstrativos  del  órgano  judicial ukanakaru  uñaqaña.  Aka  irnaqawina j ani  wali  lurawinakata  kamchina qhanañchatarjamawa jaqsutaspa.
+- Juezas jani ukaxa jueces, warmi vocales jani ukaxa chacha vocales ukanakaru; ukjamaraki yanapairinakaparu, adminidstrativos del órgano judicial ukanakaru uñaqaña. Aka irnaqawina jani wali lurawinakata kamchina qhanañchatarjamawa jaqsutaspa.
 
 - Órgano  Judicial  ukana  qullqipa ukjamaraki  yänakapa  aski  apnaqawi uñjaña ukjamaraki uñaqaña.
 
@@ -4279,7 +4277,7 @@ Son atribuciones del Consejo de la Magistratura de Justicia, además de las esta
 
 - Elaborar auditorías jurídicas y de gestión financiera.
 
-- Realizar estudios t é c n i c o s y estadísticos.
+- Realizar estudios técnicos y estadísticos.
 
 - Preseleccionar a las candidatas y a los candidatos para la conformación de los tribunales  departamentales  de  justicia que  serán  designados  por  el  Tribunal Supremo de Justicia.
 
@@ -4305,9 +4303,9 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 197 Kamachi.
 
-- Tribunal  constitucional  plurinacional ukankirinakaxa,  magistradas  ukjamaraki magistrados pl u r i n a c i o n a l i d a d a m u y u m p i s i s t e m a o r d i n a r i o ukjamaraki  sistema  indígena  originario campesinoukanakata utt'ayatawa.
+- Tribunal constitucional plurinacional ukankirinakaxa, magistradas ukjamaraki magistrados plurinacionalidad amuyumpi sistema ordinario ukjamaraki sistema indígena originario campesinoukanakata utt'ayatawa.
 
-- Magistradas  ukjamaraki  magistrados suplentes  del  Tribunal  Constitucional ukankirinakaxa j a n i w a payllawi katuqapkaspati  kunapachatï  titular  ukaxa ch'usasispa  ukjawa  kamchinakarjama qhananchataru wakisirakispa.
+- Magistradas ukjamaraki magistrados suplentes del Tribunal Constitucional ukankirinakaxa janiwa payllawi katuqapkaspati kunapachatï titular ukaxa ch'usasispa ukjawa kamchinakarjama qhananchataru wakisirakispa.
 
 - Designar, mediante concurso de méritos y  exámenes de competencia, a los  jueces de partido y de instrucción.
 
@@ -4338,7 +4336,7 @@ MACHAQA TAYKA KAMACHI
 - Composición, organización y  funcionamiento del  Tribunal  Constitucional  Plurinacional kamachirjamawa sarantayatani.
 
 ###### 198  Kamachi.
-Magistradas ukjamaraki Magistrados del Tribunal Constitucional Plurinacional ukanakaxa sufragio universal t aypiwa, procedimientos, mecanismos ukjamaraki formalidades de los miembros del tribunal Suprema de Justicia ukjamarjamawa chhijllatapxani.
+Magistradas ukjamaraki Magistrados del Tribunal Constitucional Plurinacional ukanakaxa sufragio universal taypiwa, procedimientos, mecanismos ukjamaraki formalidades de los miembros del tribunal Suprema de Justicia ukjamarjamawa chhijllatapxani.
 
 ###### 199 Kamachi.
 
@@ -4349,7 +4347,7 @@ Magistradas ukjamaraki Magistrados del Tribunal Constitucional Plurinacional uka
 ###### 200  Kamachi.
 Pacha akankañaxa kunjamatï magistradas ukjamaraki magistrados del tribunal Suprema de Justicia ukanakataki wakt'ayataki ukjamarjamawa Tribunal Constitucional Plurinacional ukatakixa utt'ayataraki.
 
-- L a composición, organización y funcionamiento del Tribunal Constitucional Plurinacional serán regulados por la ley.
+- La composición, organización y funcionamiento del Tribunal Constitucional Plurinacional serán regulados por la ley.
 
 ###### Artículo 198.
 Las Magistradas y los Magistrados del Tribunal Constitucional Plurinacional se elegirán mediante sufragio universal, según el procedimiento, mecanismo y formalidades de los miembros del Tribunal Supremo de Justicia.
@@ -4381,7 +4379,7 @@ Tribunal Constitucional Plurinacional ukankirinakana phuqhawinakapaxa kunjamatï
 
 - Qhuqhawinaka ukjamaraki  jani walt'awinakaxa  órganos  del  poder público.
 
-- Conflictos  de  competencia  gobierna Plurinacional  ukampi,  entidades t e r r i t o r i a l e s autonómicas y descentralizadas ukanakampi.
+- Conflictos de competencia gobierna Plurinacional ukampi, entidades territoriales autonómicas y descentralizadas ukanakampi.
 
 - Recursos  contra  tributos,  impuestos  tasas, patentes,  derechos  o  contribuciones creados,  modificados  o  suprimidos  en contravenciónaka  tayka  kamachina qhanañchataru.
 
@@ -4413,7 +4411,7 @@ MACHAQA TAYKA KAMACHI
 
 - Bolivia  marka  p'iqinchiriru,  asamblea Legislativa  Plurinacional,  del  Tribunal Supremo  de  Justicia  o  Tribunal Agroambiental  sobre  la  inconstitucional  de proyectos de proyectos de ley ukanakaru jiskt'awi. Tribunal Constitucional ukana amtawipaxa phuqhatapuniñapawa.
 
-- I n d í g e n a   originario  campesino p' i q i n c h i r i n a k a x a j i s k t ' a w i x a kamachinakarjamawa  phuqhasiñapa. Tribunal  constitucional  amtawipaxa phuqhatapuniñapawa.
+- Indígena originario campesino p'iqinchirinakaxa jiskt'awixa kamachinakarjamawa phuqhasiñapa. Tribunal constitucional amtawipaxa phuqhatapuniñapawa.
 
 - Constitucionalidad  uñjawixa  tratados internacionales ukjamarjamawa.
 
@@ -4515,7 +4513,7 @@ MACHAQA TAYKA KAMACHI
 
 - Asamblea  legislativa  Plurinacional  ukaxa dos tercios de votos ukankirinakata órgano electoral plurinacional ukanxa suxtaniruwa chhijllpxarakispa. Bolivia marka p'iqinchirixa mayni ukankiriruwa utt'ayarakini.
 
-- Ó r g a n o Electoral Plurinacional ukankañatakixa  mä  jawsawi  taqina  yatita ukjamarjamawa  yatxatatanakapaxa uñakipasa chhijllapxarakini.
+- Órgano Electoral Plurinacional ukankañatakixa mä jawsawi taqina yatita ukjamarjamawa yatxatatanakapaxa uñakipasa chhijllapxarakini.
 
 - Asamblea  Legislativa  Departamentales  ukaxa Consejos  Departamentales  ukanakxa  dos tercios  de  votos  ukankirinakata  mä  terna  sapa tribunales departamentales ukjamarjamawa chhijllatani.  Aka  chhijllatarjamawa  cámara dediputados  ukankirinakaxa  dos  tercios de  votos  ukankirinakata  ukanxa  mayniwa naciones  o  pueblos  indígena  originario campesinos  del  departamento  ukatañapa ukjamaruwa chhijllatani.
 
@@ -4625,14 +4623,14 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 213 Kamachi.
 
-- Contraloría  General  de  Estado  ukaxa institución  técnica  ukjama  utt'ayatawa control  de  administraciónde  entidades públicas  ukjamaraki  kawkmirinakatixa  estado ukaxa qullqimpi chikanchaschi ukanakanwa chikanchasini.  Contraloría  ukaxa  utt'ayatawa indicios de responsabilidad ad ministrativa, ejecutiva  y  penal  uñaqañataki;  autonomía funcional,  financiera,  administrativa ukjamaraki organizativa ukaniwa.
+- Contraloría General de Estado ukaxa institución técnica ukjama utt'ayatawa control de administraciónde entidades públicas ukjamaraki kawkmirinakatixa estado ukaxa qullqimpi chikanchaschi ukanakanwa chikanchasini. Contraloría ukaxa utt'ayatawa indicios de responsabilidad administrativa, ejecutiva y penal uñaqañataki; autonomía funcional, financiera, administrativa ukjamaraki organizativa ukaniwa.
 
 - Organización,  funcionamiento  ukjamaraki atribuciones  ukanakaxa  principios de  legalidad,  transparencia,  eficacia, economía, equidad, oportunidad ukjamaraki objetividad  ukanakaxa  kamachirjamawa utt'ayatarakini.
 
 ###### 214  Kamachi.
 Contraloría jani ukaxa contralor general del estado ukaxa Asamblea Legislativa Plurinacional ukata dos tercios devotos ukankirinakata utt'ayatapxaniwa. Chhijllawixa taqina yatita jawsaw taypiwa yatxatatanakapatjama atipt'asiwi taypixa wakisirakini.
 
-### TITULO V FUNCIONES DE CONTROL, DE DEFENSA DE LA SOCIEDAD Y DE DEFENSA DEL ESTADO
+### TÍTULO V FUNCIONES DE CONTROL, DE DEFENSA DE LA SOCIEDAD Y DE DEFENSA DEL ESTADO
 
 #### CAPÍTULO PRIMERO FUNCIÓN DE CONTROL
 
@@ -4722,7 +4720,7 @@ MACHAQA TAYKA KAMACHI
 
 - Defensoría del Pueblo ukaxa chachata jan ukaxa  warmita  p'iqinchatawa  suxta  mara irnaqawini jani mayampisa chhijllatañataki.
 
-- Chacha  jani  ukaxa  warmi  defensor  del pueblo  ukankirixa  janiwa  persecución, detención, acusación j a n i r a k i w a enjuiciamiento ukanakana irnaqawinkasinxa phuqhatakaspati.
+- Chacha jani ukaxa warmi defensor del pueblo ukankirixa janiwa persecución, detención, acusación janirakiwa enjuiciamiento ukanakana irnaqawinkasinxa phuqhatakaspati.
 
 ###### 220  Kamachi.
 Chacha  jani  ukaxa  warmi Defensor del Pueblo ukaxa  Asamblea Legislativa Plurinacional  dos  tercios  de  votos  ukankirinakata utt'ayatarakini.  Utt'ayawixa  taqina  yatita jawsawi taypiwa irnaqataparjama atipasiwinxa uñakipatarakini.
@@ -4810,9 +4808,9 @@ Defensoría  del  Pueblo  ukaxa sapa marawa  Asamblea Legislativa Plurinacional 
 
 ###### 225 Kamachi.
 
-- Ministerio  Público  ukaxa  chiqapa  ukjamaraki i ntereses  generales  de  la  sociedad jarkáqarakini  ukjamaraki  acción  penal pública  phuqharakini.  Ministerio  Público ukaxa autonomía funcional administrativa y financiera ukaniwa.
+- Ministerio Público ukaxa chiqapa ukjamaraki intereses generales de la sociedad jarkáqarakini ukjamaraki acción penal pública phuqharakini. Ministerio Público ukaxa autonomía funcional administrativa y financiera ukaniwa.
 
-- Ministerio  Público  ukaxa  phuqhawinakapanxa principios  de  legalidad,  oportunidad, objetividad,  responsabilidad,  autonomía, unidad y j e r a r q u í a ukjamaruwa phuqharakini.
+- Ministerio Público ukaxa phuqhawinakapanxa principios de legalidad, oportunidad, objetividad, responsabilidad, autonomía, unidad y jerarquía ukjamaruwa phuqharakini.
 
 ###### Artículo 223.
 Las autoridades y los servidores públicos tienen la obligación de proporcionar a la Defensoría del Pueblo la información que solicite en relación con el ejercicio de sus funciones. En caso de no ser debidamente atendida en su solicitud, la Defensoría interpondrá las acciones correspondientes contra la autoridad, que podrá ser procesada y destituida si se demuestra el incumplimiento.
@@ -4921,9 +4919,9 @@ Procuradoría General del Estado ukana  phuqhawinakapaxa  tayka  kamachina qhana
 
 - Ejercicio  de  las  acciones  diligentes  de  las unidades jurídicas de la administración pública en los procesos que sustancien ante  autoridades  jurisdiccionales administrativas  irnaqawipa  uñakipaña ukjamaraki  uñjaña.  Ch'ama  laq'a amuyasaxa  kunjamatixa  thakhinakaxa utjki ukjamaruwa sañapa.
 
-- Chacha  jani  ukaxa  warmi  servidores público, personas  particulares ukanakata  yatiyawi  mayiña  kunjamatÏ amuyuparjamaxa  wakiski  ukjamajama. Aka  yatiyawixa  janiwa  kunakipansa satakaspati; kamachi t a y p i w a juchanchawixa wakt'ayatarakini.
+- Chacha jani ukaxa warmi servidores público, personas particulares ukanakata yatiyawi mayiña kunjamatï amuyuparjamaxa wakiski ukjamajama. Aka yatiyawixa janiwa kunakipansa satakaspati; kamachi taypiwa juchanchawixa wakt'ayatarakini.
 
-- Entidades públicas ukan p¡iqinchirinaka t a y p i c h a c h a j a n ukaxa warmi servidores  públicos  ukanakaru  jani wali  lurawinakapata  estado  ukaru jani  walt'ayatapata  juchañchañataki mayiña.
+- Entidades públicas ukan p'iqinchirinaka taypichacha jan ukaxa warmi servidores públicos ukanakaru jani wali lurawinakapata estado ukaru jani walt'ayatapata juchañchañataki mayiña.
 
 ###### Artículo 231.
 Son funciones de la Procuraduría General del  Estado,  además  de  las  determinadas por la Constitución y la ley:
@@ -4958,7 +4956,7 @@ MACHAQA TAYKA KAMACHI
 Administración  pública  ukaxa principios  de  legitimidad,  legalidad,  imparcialidad, publicidad, compromiso e interés social, ética, transparencia,  igualdad,  competencia,  eficiencia, calidad,  calidez,  honestidad,  responsabilidad ukjamaraki  resultados  ukanakampiwa chikañchasi.
 
 ###### 233  Kamachi.
-Chacha  ukjamaraki  warmi servidores  públicos  ukanakaxa  khitinakatixa funcionario  públicos  phuqhapki  ukanakawa. Ukjama  irnaqirinakaxa  carrera  administrativa taypina  chikanchasipxi  uka  taypinxa  janiwa kawknirinakatixa  cargos  electivos  ukankapki ukanakaxa  ukjamapkiti  ukatxa  khirinakatixa f u n c i o n a r i o s de l i b r e   nombramiento ukankapkiukanakasa janirakiwa ukankapkiti.
+Chacha ukjamaraki warmi servidores públicos ukanakaxa khitinakatixa funcionario públicos phuqhapki ukanakawa. Ukjama irnaqirinakaxa carrera administrativa taypina chikanchasipxi uka taypinxa janiwa kawknirinakatixa cargos electivos ukankapki ukanakaxa ukjamapkiti ukatxa khirinakatixa funcionarios de libre nombramiento ukankapki ukanakasa janirakiwa ukankapkiti.
 
 - Atender  las  denuncias  y  los  reclamos motivados  de  ciudadanos  y  entidades que conforman el Control Social, en los casos en que se lesionen los intereses del Estado.
 
@@ -4987,7 +4985,7 @@ Funciones  públicas  taypina chikanchasiñatakixa akanakawa mayita:
 
 - Bolivia markana yurita.
 
-- JIlïri jaqiña.
+- Jilïri jaqiña.
 
 - Cuartel ukaru sarata.
 
@@ -5002,11 +5000,11 @@ Funciones  públicas  taypina chikanchasiñatakixa akanakawa mayita:
 ###### 235 Kamachi.
 Chacha ukjamaraki warmi  servidores  públicos  ukanakana phuqhawinakapawa:
 
-- Tayka  kamchi  ukjamaraki  sullka kamachinaka phuqhaña.
+- Tayka kamachi ukjamaraki sullka kamachinaka phuqhaña.
 
 - Principios  de  función  pública  taypi askinjama irnaqawi phuqhaña.
 
-- declaración j u r a d a yänakata ukjamaraki  payllawita  nayrt'asa, irnaqawinkasaukatxa irnaqawita mistusa qhanañchaña.
+- declaración jurada yänakata ukjamaraki payllawita nayrt'asa, irnaqawinkasa ukatxa irnaqawita mistusa qhanañchaña.
 
 - Irnaqawina  p'iqinchawinakata,  qullqi apnaqawita,  política  apnaqawita, técnicas  apnaqawita  taqi  ukanakata qhanañchaña.
 
@@ -5046,7 +5044,7 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 129]]
 
-- Estado  ukana  yänakapa  yäqaña janiraki  yaqha  irnakqawinakana  jani chhijllawinakatakisa apnaqaña.
+- Estado ukana yänakapa yäqaña janiraki yaqha irnaqawinakana jani chhijllawinakatakisa apnaqaña.
 
 ###### 236  Kamachi.
 Función  pública  ukana  janiwa satanaka:
@@ -5055,13 +5053,13 @@ Función  pública  ukana  janiwa satanaka:
 
 - Kunapachatixa intereses ukanakapaxa jan walt'awina irnaqawipana jiqxataschi ukjawa unxtasiña  ukjamaraki  contratos  ukatxa negocios  administración  pública  yaqha jaqinaka taypi jay saña.
 
-- Función pública ukana wila masisaru cuarto grado  de  consanguinidad  ukajamaraki segundo de afinidad utt'ayaña.
+- Función pública ukana wila masisaru cuarto grado de consanguinidad ukjamaraki segundo de afinidad utt'ayaña.
 
 ###### 237 Kamachi.
 
 - Phuqhawinakaxa  función  pública  ukanxa aknirinakawa:
 
-- O f i c i n a s públicas ukanakana documentos  propios  de  la  función pública  ukanaka  chimpuntaña  ukjamaraki suma  imaña  jan  chhaqhayasa  janiraki t'unjasa.  Kamachi  tuqiwa  archivos apnaqawitakixa ukjamaraki documentos jani  walt'awinakaru  tukuyañatakixa uñjatarakini.
+- Oficinas públicas ukanakana documentos propios de la función pública ukanaka chimpuntaña ukjamaraki suma imaña jan chhaqhayasa janiraki t'unjasa. Kamachi tuqiwa archivos apnaqawitakixa ukjamaraki documentos jani walt'awinakaru tukuyañatakixa uñjatarakini.
 
 - Jan  arsuña  yatiyawinaka  chuyma manqhana  imaña.ukaxa  janiwa irnaqawina  mistxasasa  arsutakaspati. Jani arsuña yatiyawixa kamachi taypiwa uñakipatani.
 
@@ -5095,17 +5093,17 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 - Janitixa aka phuqhawinakaruxa phuqhatakaspaxa  kamachi  taypiwa juchañchataspa.
 
 ###### 238 Kamachi.
-Janiwa cargos públicos electivos empresas  ukanakaru  chikañchasipkaspati kawkniri  markachirinakatixa  aknirinakana chikanchasipxaspa ukaja:
+Janiwa cargos públicos electivos empresas ukanakaru chikañchasipkaspati kawkniri markachirinakatixa aknirinakana chikanchasipxaspa ukjaxa:
 
 - Khitinakatixa  cargos  directivos  empresas jani  ukaxa  corporaciones  ukanakana chikañchasipxaspa ukjamaraki contratos jani  ukaxa  convenios  estado  ukampi chikañchasipxaspa  ukampirusa  janira kimsa phaxsikipana cargo jaytjaña.
 
 - Khitinakatixa  cargos  directivos  empresas transnacionales  ukankapxaspaxa ukatxa contratos estado ukampi ukatxa convenios ukatxa janiraki phisqa mara chhijllawi janirakipa jaytjaña.
 
-- Khitinakartixa  cargos  electivos  ukana utt'ayatapxaspa  ukatxa  jan  jaytjasa kimsa  phaxsinaka  janira  chhijllawi phuqhaskipana  inasa  Bolivia  marka p'iqinchiriya  jan  ukaxa  sullkiri  p'iqinchirita jay satachispa.
+- Khitinakatixa cargos electivos ukana utt'ayatapxaspa ukatxa jan jaytjasa kimsa phaxsinaka janira chhijllawi phuqhaskipana inasa Bolivia marka p'iqinchiriya jan ukaxa sullkiri p'iqinchirita jay satachispa.
 
 - Fuerzas  Armadas  ukjamaraki  policía ukankirinakaxa  irnaqkasaxa  kimsa  phaxsi chhijllawitaki janirakipanxa jaytjaña.
 
-- Kawkmiri Ministros ukanakatixa kawkniri culto religioso jan kimsa phaxsina janira chhijllawikipana jaytjapchi.
+- Kawkniri Ministros ukanakatixa kawkniri culto religioso jan kimsa phaxsina janira chhijllawikipana jaytjapchi.
 
 - La ley determinará las sanciones en caso de violación de estas obligaciones.
 
@@ -5131,7 +5129,7 @@ MACHAQA TAYKA KAMACHI
 [[START OF PAGE 131]]
 
 ###### 239 Kamachi.
-Incompatible ukjamwa ejercicio de función pública ukaxa:
+Incompatible ukjamawa ejercicio de función pública ukaxa:
 
 - Bienes  públicos  ukanakaxa  janiwa  chacha ukjamaraki  warmi  servidores  públicos ukanakaxa  sutipxaru  jan  ukaxa  yaqha sutiru katusipkaspati.
 
@@ -5147,7 +5145,7 @@ Incompatible ukjamwa ejercicio de función pública ukaxa:
 
 - Referendo  revocatorio  ukaxa  markachirinakata  ukjamaraki  quince  por  ciento jaquntirinaka  ukatxa  servidores  públicos ukankirinakaxa jaqsutarakispa.
 
-- I V. Revocatoria de  mandato  ukaxa kamachirjamawa phuqhayatarakini.
+- IV. Revocatoria de mandato ukaxa kamachirjamawa phuqhayatarakini.
 
 ###### Artículo 239.
 Es incompatible con el ejercicio de la función pública:
@@ -5192,9 +5190,9 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Markachirixa  kamachi  taypiwa  marka apnaqirinakaru uñch'ukiñatakixa wakiyatani.
 
-- M a r k a c h i r i x a marka apnaqawi u ñ c h ' u k i ñ a t a k i x a u k j a m a r a k i chikañchasiñatakixa qutuchasipxaspawa.
+- Markachirixa marka apnaqawi uñch'ukiñatakixa ukjamaraki chikañchasiñatakixa qutuchasipxaspawa.
 
-- Entidades  del  estado  ukanakaxa markachirinaka  chikañchasipxañapatakixa ukjamaraki uñaqapxañapatakixa wakiyapxañapawa.
+- Entidades del estado ukanakaxa markachirinaka chikañchasipxañapatakixa ukjamaraki uñaqapxañapatakixa wakiyapxañapawa.
 
 - Producida  la  revocatoria  de  mandato    el afectado cesará inmediatamente en el cargo, proveyéndose  su  suplencia  conforme  a ley.
 
@@ -5227,7 +5225,7 @@ MACHAQA TAYKA KAMACHI
 ###### 242 Kamachi.
 Markachirinakana chikañchasiwipaxa  ukjamaraki  uñaqawipaxa tayka kamachina wakt'ayatawa.
 
-- Políticas del estado t a y p i n a chikañchasiña.
+- Políticas del estado taypina chikañchasiña.
 
 - Órgano  legislativo  taypina  kamachi amtanaka  wakichaña  ukjamaraki yanapaña.
 
@@ -5243,7 +5241,7 @@ Markachirinakana chikañchasiwipaxa  ukjamaraki  uñaqawipaxa tayka kamachina wa
 
 - Jani  wali  apnaqawinakata  amuyatata yatxatasa juchañchañataki yatiyaña.
 
-- K u n a y m a n a e s t a d o u k a n a p'iqinchirinakana  irnaqirinakana chhijllawinaka jak'ata uñch'ukiña.
+- Kunaymana estado ukana p'iqinchirinakana irnaqirinakana chhijllawinaka jak'ata uñch'ukiña.
 
 ###### Artículo 242.
 La participación y el control social implica, además de las previsiones establecidas en la Constitución y la ley:
@@ -5262,7 +5260,7 @@ La participación y el control social implica, además de las previsiones establ
 
 - Coordinar la planificación y control con los órganos y funciones del Estado.
 
-- Denunciar  ante l a s i n s t i t u c i o n e s correspondientes  para  la  investigación y  procesamiento,  en  los  casos  que  se considere conveniente.
+- Denunciar ante las instituciones correspondientes para la investigación y procesamiento, en los casos que se considere conveniente.
 
 - Colaborar  en  los  procedimientos  de observación pública para la designación de los cargos que correspondan.
 
@@ -5283,7 +5281,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 Fuerzas  Armadas  del  Estado ukankirinakaxa  thakhiparjamawa  Comandante  en Jefe, Ejército, Fuerza Aérea ukjamaraki Armada boliviana ukanakata utt'yatawa ukjamaraki palla pallanakaxa Asamblea Legislativa Plurinacional taypiwa uñjatarakini.
 
 ###### 244 Kamachi.
-Fuerzas  Armadas ukankirinakaxa indepedencia,  seguridad,  estabilidad  del estado,  honor  y  soberanía  uñjiripxiwa;  tayka kamachi  phuqhayiri;  Bolivia  p'iqinchiriru jay  saña  ukjamaraki  marka  jach'añchañaru chikañchasiña.
+Fuerzas Armadas ukankirinakaxa independencia, seguridad, estabilidad del estado, honor y soberanía uñjiripxiwa; tayka kamachi phuqhayiri; Bolivia p'iqinchiriru jay saña ukjamaraki marka jach'añchañaru chikañchasiña.
 
 ###### 245  Kamachi.
 Fuerzas  Armadas  qutuchataparjamawa  jerarquía  disciplina  taypina utt'ayatawa.  Janiwa  amuyunakampixa chikañchaskaspati  janirakiwa  arxaykaspati kamachinakarjama  phuqhañapawa.  Janiwa acción  política  ukampi  chikañchaskaspati ukatxa  taqi  ukankirinakaxa  jaqjamaxa kamachinakarjamawa phuqhapxaraki.
@@ -5319,9 +5317,9 @@ MACHAQA TAYKA KAMACHI
 
 ###### 247 Kamachi.
 
-- Janiwa anqa makata markachirixa Fuerz<as Armadas  p'iqinchkaspati  jani  Capitan General ukana jay sawipampi.
+- Janiwa anqa markata markachirixa Fuerzas Armadas p'iqinchkaspati jani Capitan General ukana jay sawipampi.
 
-- Fuerzas Armadas,  Jefe  de  Estado  Mayor General,  Comandante  y  Jefes  del  Estado  Mayor del Ejército,  Fuerza  Aérea,  Armada boliviana ukjamaraki  jach'a  qutunaka  p'iqinchañatakixa aka  marrana  yuritapxañapawa  ukjamaraki kamachina qhanañchataki ukjamarjamawa phuqhapxañapa. Pachparakiwa Viceministro de Defensa ukjamaraki Ministro de Defensa ukatakixa mayitaraki.
+- Fuerzas Armadas, Jefe de Estado Mayor General, Comandante y Jefes del Estado Mayor del Ejército, Fuerza Aérea, Armada boliviana ukjamaraki jach'a qutunaka p'iqinchañatakixa aka markana yuritapxañapawa ukjamaraki kamachina qhanañchataki ukjamarjamawa phuqhapxañapa. Pachparakiwa Viceministro de Defensa ukjamaraki Ministro de Defensa ukatakixa mayitaraki.
 
 ###### 248 Kamachi.
 Consejo de Supremo de Defensa del  estado  Plurinacional  composición  ukaxa organización ukjamaraki atribuciones kamachi taypiwa utt'ayatani ukaxa Capitan General de Fuerzas Armadas ukatawa irpxarutäni.
@@ -5362,7 +5360,7 @@ Ascensos  de  Fuerzas Armadas  ukankirinakatakixa  kamachi  taypiwa utt'ayatäni
 
 ###### 251 Kamachi.
 
-- Bolivia  palla  pallanakaxa,  markachirina ch'amapxamaxa markachiriru arxatañataki yäparu markachiriru uñjañataki ukjamaraki  kamachinaka  phuqhañataki Bolivia  uraqpachana  phuqhañapataki utt'ayatapxiwa. Palla palljama phuqasa mä wawaki jani  t'aqjasa  mä  p'iqinchirini  kunjamatï ukjamarjamawa phuqhapxañapa.
+- Bolivia palla pallanakaxa, markachirina ch'amapjamaxa markachiriru arxatañataki yäparu markachiriru uñjañataki ukjamaraki kamachinaka phuqhañataki Bolivia uraqpachana phuqhañapataki utt'ayatapxiwa. Palla palljama phuqasa mä mayaki jani t'aqjasa mä p'iqinchirini kunjamatï ukjamarjamawa phuqhapxañapa.
 
 - Institución  ukankirjamaxa  janiwa  partidos políticos  taypinxa  chikañchasipkaspati ukjamakipanxa  sapa  maynixa  derechos ciudadanos  ukarjamawa  kamachirjamaxa phuqhapxaraki.
 
@@ -5370,7 +5368,7 @@ Ascensos  de  Fuerzas Armadas  ukankirinakatakixa  kamachi  taypiwa utt'ayatäni
 Palla pallanakaxa Bolivia marka p'iqinchirina  Ministra  jan  ukaxa  Ministro  de Gobierno taypi apnaqatawa.
 
 ###### 253  Kamachi.
-Comandante  Gebneral  de  la Policía  Boliviana  ukjamañatakixa  Bolivia  marrana yurita  General  pachpa  qutuna  ukjamaraki  kamachi taypi mayitaki ukjamaruwa phuqhatañapa.
+Comandante General de la Policía Boliviana ukjamañatakixa Bolivia markana yurita General pachpa qutuna ukjamaraki kamachi taypi mayitaki ukjamaruwa phuqhatañapa.
 
 ###### 254 Kamachi.
 Anqa markampi ch'axwawi utjaspa ukjaxa palla pallanakaxa Comando en Jefe de las Fuerzas Armadas ukana apnaqataxaspawa kunapachkamaya  ch'axwawixa  utjchispa ukjamarjamawa chikañchasipxarakispa.
@@ -5417,9 +5415,9 @@ MACHAQA TAYKA KAMACHI
 
 - Taqi Dictadura, colonialismo, neocolonialismo ukjamaru janiwa saña ukjamaraki juchanchaña.
 
-- Janchi tuqita  ukjamaraki  jisk'achawinaka qullqi tuqita qamawi tuqita sarawinakata markachirinakata  taqi  ukanakata derechos  humanos  jark'aqaña  ukjamaraki unañchayaña.
+- Janchi tuqita ukjamaraki jisk'achawinaka qullqi tuqita qamawi tuqita sarawinakata markachirinakata taqi ukanakata derechos humanos jark'aqaña ukjamaraki uñañchayaña.
 
-- Pueblos  indígenas  originarios  campesinos ukanakana derchos ukanaka yäqaña.
+- Pueblos indígenas originarios campesinos ukanakana derechos ukanaka yäqaña.
 
 - Estados  ukjamaraki  markanakampixa utjañapawa  yanapasïwi  ukjamaraki aynjasiwi.
 
@@ -5455,13 +5453,13 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Aka pachankirinakampi aski  mayachasiwi aka  pachana  jakirinakata  jark'aqawi ukjamaraki  quqanaka  uywanaka  jisk'a  jani uñjaya jakirinaka ukjamaraki jakirinaka taqi  ukanakata  inaki  katuntasiñata  jani walt'ayañataki jark'aqaña.
 
-- Taqi  markachiritaki  manq'añanakaxa yäpawa  ukjamaraki  yäqañawa; kunaymana  jani  wali  achunaka ukjamaraki elementos t ó x i c o s satanaka  janchiru  ñanqhachirinaka samanaru  jan  wat'ayirinaka  janiwa alxatakaspati  janirakiwa  aka  markaru apantanitakaspati.
+- Taqi markachiritaki manq'añanakaxa yäpawa ukjamaraki yäqañawa; kunaymana jani wali achunaka ukjamaraki elementos tóxicos satanaka janchiru ñanqhachirinaka samanaru jan walt'ayirinaka janiwa alxatakaspati janirakiwa aka markaru apantanitakaspati.
 
 - Taqi  markachirixa  servicios  básicos ukanipxañapawa  aski  qamañapataki ukjamaraki nayraru sartañataki.
 
 - Taqi  markachirixa  wakiskiri  qullanaka jark'aqasiñataki derecho ukanipxiwa.
 
-- Bolivia markana achunayata ukjamaraki yänaka l u r a t a n a k a t a arxataña ukjamaraki  yäqaña  ukampirusa  anqa markaru apsuñataki volor agredo taypi jach'añchaña.
+- Bolivia markana achunayata ukjamaraki yänaka luratanakata arxataña ukjamaraki yäqaña ukampirusa anqa markaru apsuñataki valor agregado taypi jach'añchaña.
 
 ###### 256 Kamachi.
 
@@ -5495,9 +5493,9 @@ MACHAQA TAYKA KAMACHI
 
 ###### 257 Kamachi.
 
-- Tratados  internacionales  mayampisa j ay  satäki  ukanakaxa  ordenamiento jurídico  interno  kamachiru  uñtasitjamawa wakisxaraki.
+- Tratados internacionales mayampisa jay satäki ukanakaxa ordenamiento jurídico interno kamachiru uñtasitjamawa wakisxaraki.
 
-- Referendo  popular  vinculante  taypiwa  jay sawipaxa  wakisirakini  kunjamatï  tratados internacionales ukana mayampisa jay sataki ukjamarjama akjamata wakisisrakini:
+- Referendo popular vinculante taypiwa jay sawipaxa wakisirakini kunjamatï tratados internacionales ukana mayampisa jay sataki ukjamarjama akjamata wakisirakini:
 
 - Qurpasiwinaka
 
@@ -5539,9 +5537,9 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 259 Kamachi.
 
-- Kawkmiripasa  tratado  internacional  ukaxa markachiriru  jiskt'awi  taypiwa  kunapachatï 5% markachirixa  padrón  electoral  taypina qillqantatanakaxa  mayipkani  jani  ukaxa 35% Asamblea Legislativa Plurinacionalana ukankanrinakaxa  mayipkarakini  ukjawa munasirakini.  Akjamaxa  mayitarakispawa Órgano  Ejecutivo  ukankirinakaru  amtawi phuqhañataki.
+- Kawkniripasa tratado internacional ukaxa markachiriru jiskt'awi taypiwa kunapachatï 5% markachirixa padrón electoral taypina qillqantatanakaxa mayipkani jani ukaxa 35% Asamblea Legislativa Plurinacionalana ukankirinakaxa mayipkarakini ukjawa munasirakini. Akjamaxa mayitarakispawa Órgano Ejecutivo ukankirinakaru amtawi phuqhañataki.
 
-- Makachiriru  jist'awixa  kunjamatixa kamichi  taypina  wakiyataki  ukjamarjama sayt'ayataspa  ukjamaraki  tratados internacionales ukanakaxa jiqxatañkamawa thakhinchaytarakini.
+- Markachiriru jiskt'awixa kunjamatixa kamachi taypina wakiyataki ukjamarjama sayt'ayataspa ukjamaraki tratados internacionales ukanakaxa jiqxatañkamawa thakhinchaytarakini.
 
 ###### 260 Kamachi.
 
@@ -5576,16 +5574,16 @@ MACHAQA TAYKA KAMACHI
 #### PAYÏRI JALJTA ESTADO UKANA QURPANAKAPA
 
 ###### 261  Kamachi.
-Estado  taypiwa  uraqixa mayachata jak'aqataraki ukjamaraki qurpasinkiri markanakaxa  nayraru  mistuñapatakixa phuqhataraki.
+Estado taypiwa uraqixa mayachata jark'aqataraki ukjamaraki qurpasinkiri markanakaxa nayraru mistuñapatakixa phuqhataraki.
 
 ###### 262 Kamachi.
 
 - Qurpasita  phisqa    tunka  kilómetros ukjakamawa  zona  de  seguridad  ukjama uñt'ata.  Janiwa  anqa  markata  jutiri  jaqixa ukawjanakana  uraqi  uma  yaqhanakampi katuntaskaspati; inasa dos tercios  Asamblea Legislativa Plurinacional taypi kamachi taypi tuqi jay sataru wakischispa. Aka kamachiru phuqhasaxa  ukjama  luririnakaruxa  uka uraqinakaxa  aparataspawa  inaki  jani kunampi tutiyasa.
 
-- Qurpasixa  régimen  jurídico,  económico, administrativo  ukjamaraki  segurdad  especial ukjamaru  jach'anchaña  ukatxa  uñajaña Bolivia  marka  mayakiñapataki  ukjamaru phuqhañawa.
+- Qurpasixa régimen jurídico, económico, administrativo ukjamaraki seguridad especial ukjamaru jach'anchaña ukatxa uñjaña Bolivia marka mayakiñapataki ukjamaru phuqhañawa.
 
 ###### 263 Kamachi.
-Fuerzas  Armadas ukankirinakaxa arxatawi jark'aqawi ukatxa qurpasinaka uñjawi ukawa  phuqhawipaxa.  Fuerzas  Armadas ukankirinakaxa qurpasinakanxa naynaru sartawi amtampiwa  chikanchasipxi  ukatxa  pacha qurpasinakanwa qhipharapxañapa.
+Fuerzas Armadas ukankirinakaxa arxatawi jark'aqawi ukatxa qurpasinaka uñjawi ukawa phuqhawipaxa. Fuerzas Armadas ukankirinakaxa qurpasinakanxa nayraru sartawi amtampiwa chikanchasipxi ukatxa pacha qurpasinakanwa qhipharapxañapa.
 
 #### CAPÍTULO SEGUNDO FRONTERAS DEL ESTADO
 
@@ -5611,7 +5609,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 264 Kamachi.
 
-- Estadoxa  desarrollo  armónico,  integral, sostenible    ukjamaraki  estratégico ukanakwa  qurpasinakanxa  pachpankiri markachirinakaru  nayraru  artañapataki juk'ampisa  naciones  y  pueblos  indígena originario  campesinos  akjama  amtäwi utnuqayarakini.
+- Estadoxa desarrollo armónico, integral, sostenible ukjamaraki estratégico ukanakwa qurpasinakanxa pachpankiri markachirinakaru nayraru sartañapataki juk'ampisa naciones y pueblos indígena originario campesinos akjama amtäwi utnuqayarakini.
 
 - Estadoxa  aka  pachankiri  yänakata  taqi qurpasinakana  waqaychawi  uñaqawi phuqhañapawa.
 
@@ -5623,10 +5621,10 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Estadoxa  chiqa  mayachawi,  kikipa ukatxa  ch'ulljtawinaka  jawina  amuyasa ukjamaraki  mayachawi  markachirinakata ukatxa  amtawi  ukjamaraki  sarawi  ukatxa qullqi  taqi  ukanakampi  mayachasisawa markanakampi ukatxa naciones y pueblos uraqpachankirinakampiwa  mayachasirakispa juk'ampisa  Latinoamérica  ukankirinakampiwa mayachasirakispa.
 
-- Estadoxa  naciones  y  pueblos  indígena originario campesinos ukanakaruxa yaqha kikipa aka uraqpachana markanakampiwa mayachasiña yach'añcharakini.
+- Estadoxa naciones y pueblos indígena originario campesinos ukanakaruxa yaqha kikipa aka uraqpachana markanakampiwa mayachasiña jach'añcharakini.
 
 ###### 266 Kamachi.
-Bolivia markata p'iqinchirinakaxa organismos parlamentarios supraestatales uka uñstañapataxixa mayachasiwi taypixa chhijllawi taypiwa utt'ayatarakini.
+Bolivia markata p'iqinchirinakaxa organismos parlamentarios supraestatales uka uñstañapatakixa mayachasiwi taypixa chhijllawi taypiwa utt'ayatarakini.
 
 ###### Artículo 264.
 
@@ -5664,7 +5662,7 @@ MACHAQA TAYKA KAMACHI
 - Lamara qutaru mistuñaniñaxa aski askichäwi taypiwa jan armkaya sapa tukisa mayiwixa mayita ukjama utt'ayatawa.
 
 ###### 268 Kamachi.
-Jach'a qhura umanakaxa estado taypiwa uñaqatani ukatxa ujawipaxa ukjamaraki jark'aqawipaxa  armada  Boliviana  taypiwa kamachi tuqi phuqhatarakini.
+Jach'a qhura umanakaxa estado taypiwa uñaqatani ukatxa uñjawipaxa ukjamaraki jark'aqawipaxa armada Boliviana taypiwa kamachi tuqi phuqhatarakini.
 
 ## KIMSÏRI T'AQA ESTADO UKANA URAQINAKAPA UTT'AYATA UKJAMARAKI QUTUCHATA
 
@@ -5710,11 +5708,11 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 - Thaya  ukatxa  llaphi  ukjamaraki  junt'u uraqinakaxa  kamachina  qhanañchatäki ukjamarjamawa chikañchasipxarakini.
 
 ###### 270  Kamachi.
-Jach'a  amtawinakaxa  uraqi utnuqawinxa  ukjamaraki  t'aqanuqata  ukatxa autónomas  uraqinakaxa  akjamapxiwa: mayaki,  yanapasiwi,  kikipa,  taqinitaki  aski, inaki,  aynita,qhana,  chikañchasita,  uñaqata, taqi  chuyma,  warmi  -  chacha  wakt'ayaña pachpankirinakata apnaqata, lealtad  institucional ukatxa  qullqi  churaña  utjaskapxañapataki naciones  y  pueblos  indígena  originario campesinos  ukanakaru  tayka  kamachina utt'ayataki ukjama.
+Jach'a amtawinakaxa uraqi utnuqawinxa ukjamaraki t'aqanuqata ukatxa autónomas uraqinakaxa akjamapxiwa: mayaki, yanapasiwi, kikipa, taqinitaki aski, inaki, aynita, qhana, chikañchasita, uñaqata, taqi chuyma, warmi - chacha wakt'ayaña pachpankirinakata apnaqata, lealtad institucional ukatxa qullqi churaña utjaskapxañapataki naciones y pueblos indígena originario campesinos ukanakaru tayka kamachina utt'ayataki ukjama.
 
 ###### 271 Kamachi.
 
-- Ley  marco  de  autonomías  ukatxa descentralización  ukaxa  estatutos autonómicos  ukatxa  cartas  orgánicas, trasferencia  ukatxa  delegación  competencial, régimen económico financiero mayachawi amtaxa  nivel  central  ukampi  ukatxa entidades  descentralizadas  ukatxa autónomas ukjamarjama wakt'ayañatakiwa uñaqarakini.
+- Ley marco de autonomías ukatxa descentralización ukaxa estatutos autonómicos ukatxa cartas orgánicas, transferencia ukatxa delegación competencial, régimen económico financiero mayachawi amtaxa nivel central ukampi ukatxa entidades descentralizadas ukatxa autónomas ukjamarjama wakt'ayañatakiwa uñaqarakini.
 
 - Ley marco de autonomías ukatxa descentralización  ukaxa  dos  tercios  de  votos ukankirinakata  Asamblea  Legislativa Plurinacional taypiwa jay satarakispa.
 
@@ -5723,7 +5721,7 @@ Jach'a  amtawinakaxa  uraqi utnuqawinxa  ukjamaraki  t'aqanuqata  ukatxa autóno
 - Las  regiones  formarán  parte  de  la  organización territorial, en los términos y las condiciones que determinen la ley.
 
 ###### Artículo  270.
-Los  principios  que  rigen    la organización  territorial  y    las  entidades  territoriales descentralizadas y autónomas son: la unidad, voluntariedad, solidaridad,  equidad,  bien  común, autogobierno,  igualdad,  complementariedad, reciprocidad,  equidad  de  género,  subsidiariedad, gradualidad, coordinación y lealtad institucional, transparency,  participación  y  control  social, provisión  de  recursos  económicos  y  preexistencia de las naciones y pueblos indígena originario campesinos,  en  los  términos  establecidos  en esta Constitución.
+Los principios que rigen la organización territorial y las entidades territoriales descentralizadas y autónomas son: la unidad, voluntariedad, solidaridad, equidad, bien común, autogobierno, igualdad, complementariedad, reciprocidad, equidad de género, subsidiariedad, gradualidad, coordinación y lealtad institucional, transparencia, participación y control social, provisión de recursos económicos y preexistencia de las naciones y pueblos indígena originario campesinos, en los términos establecidos en esta Constitución.
 
 ###### Artículo 271.
 
@@ -5740,16 +5738,16 @@ MACHAQA TAYKA KAMACHI
 [[START OF PAGE 145]]
 
 ###### 272  Kamachi.
-Autonomía  ukaxa  pachapana chiqapa  marchirinakata  p'iqinchirinakapaxa chhijllata  qullqixa  pachpana  apnaqata pachpana amatawixa phuqhata jisk'a kamachinaka taypi ukatxa  uñaqata  gobiernos  autónomos  taypi pachpa uraqpachana phuqhawinaka phuqhaña saña muniwa.
+Autonomía ukaxa pachapana chiqapa markachirinakata p'iqinchirinakapaxa chhijllata qullqixa pachpana apnaqata pachpana amtawixa phuqhata jisk'a kamachinaka taypi ukatxa uñaqata gobiernos autónomos taypi pachpa uraqpachana phuqhawinaka phuqhaña saña muniwa.
 
 ###### 273  Kamachi.
 Kamachi  taypiwa  mancomunidades de  municipios,  regiones  ukatxa  indígena  originario campesinos uraqinakxata phuqhawinakapataki qhanañchatarakini.
 
 ###### 274 Kamachi.
-Departamentos descentralizados ukanakanxa  prefectos  ukjamaraki  consejeros depatamentales  ukanakaxa  chhijläwi  taypiwa phuqhasirakini. Aka departamentos ukanakaxa autonomía departamental markachiriru jiskt'awi taypiwa ukjamaru tukupxarakispa.
+Departamentos descentralizados ukanakanxa prefectos ukjamaraki consejeros departamentales ukanakaxa chhijllawi taypiwa phuqhasirakini. Aka departamentos ukanakaxa autonomía departamental markachiriru jiskt'awi taypiwa ukjamaru tukupxarakispa.
 
 ###### 275 Kamachi.
-Sapa órgano deliberativo de las entidades  territoriales  ukanakaxa  proyecto  de estatuto o carta órganica ukwa utt'ayani ukaxa dos tercios ukankirinakatwa jay satañapa ukaxa norma institucional  básica  de  entidades  territorial ukjamawa uñt'ataxarakispawa.
+Sapa órgano deliberativo de las entidades territoriales ukanakaxa proyecto de estatuto o carta orgánica ukwa utt'ayani ukaxa dos tercios ukankirinakatwa jay satañapa ukaxa norma institucional básica de entidades territorial ukjamawa uñt'ataxarakispawa.
 
 ###### 276 Kamachi.
 Entidades territoriales  autónomas ukanakaxa  janiwa  jisk'achasipkaspati  taqisa pachpapxiwa.
@@ -5780,13 +5778,13 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 #### PAYÏRI JALJTA DEPARTAMENTAL SAPA APNAQAWI
 
 ###### 277  Kamachi.
-Gobierno  autónomo  departamental ukaxa Asamblea Departamental ukata, facultad deliberativa fiscalizadora ukjamaraki pachpana apnaqawi  amtanakaparjama  qp'iqinchirita utt'yatawa.
+Gobierno autónomo departamental ukaxa Asamblea Departamental ukata, facultad deliberativa fiscalizadora ukjamaraki pachpana apnaqawi amtanakaparjama p'iqinchirita utt'yatawa.
 
 ###### 278 Kamachi.
 
 - Asamblea  Departamental  ukaxa  Asambleístas departamentales  chhijllawi  taypi  chiqaki, jani  khitinsa  uñjata  ukjamaraki  obligatorio ukjamata  wakt'ayataniwa;  ukampirusa Asambleístas departamentales ukanakaxa naciones  y  pueblos  indígena  originario campesinos jakawiparjama chhijllatanakata wakt'ayatawa.
 
-- Kamachi t a y p i w a asambleístas departamentales  ukatakixa  walja  ukatxa juk'a markachiritjamawa uraqipa, sarawipa, arupa,  chacha  warmitjama  amuyasawa qhanañchatarakini. Estatutos autonómicos taypiwa  phuqhawipaxa  pachpa  uraqina markachirinakana  jakawipa  uñjasawa phuqhatarakini.
+- Kamachi taypiwa asambleístas departamentales ukatakixa walja ukatxa juk'a markachiritjamawa uraqipa, sarawipa, arupa, chacha warmitjama amuyasawa qhanañchatarakini. Estatutos autonómicos taypiwa phuqhawipaxa pachpa uraqina markachirinakana jakawipa uñjasawa phuqhatarakini.
 
 ###### 279 Kamachi.
 Órgano ejecutivo departamental ukaxa gobernadora jan  ukaxa  gobernador  sutimpi uñt'ata p'iqinchirina apnaqawixa p'iqinchatawa.
@@ -5860,14 +5858,14 @@ Gobierno  de  cada  autonomía  regional  ukaxa Asamblea Regional taypiwa phuqha
 #### PUSÏRI JALJTA MUNICIPAL SAPA APNAQAWI
 
 ###### 283  Kamachi.
-Gobierno  autónomo  municipal ukaxa  concejo  municipal  taypiwa  wakt'ayata ukuxa  facultad  deliberativo,  fiscalizadora ukjamaraki  legislativa  municipal  pachpa uraqpana phuqhasiñapa ukjamaraki chacha jani ukaxa warmi alcalde ukana p'iqinchtawa.
+Gobierno autónomo municipal ukaxa concejo municipal taypiwa wakt'ayata ukaxa facultad deliberativo, fiscalizadora ukjamaraki legislativa municipal pachpa uraqpana phuqhasiñapa ukjamaraki chacha jani ukaxa warmi alcalde ukana p'iqinchtawa.
 
 ###### 284 Kamachi.
 
 - Concejo  municipal  ukaxa  concejalas ukjamaraki concejales ukanakata chhijllawi taypi utt'ayatawa.
 
 ###### Artículo 281.
-El gobierno de cada autonomía regional  estará  constituido  por  una Asamblea Regional con facultad deliberativa, normativoadministrativa y fiscalizadora, en el ámbito de sus competencias, y un órgano ejecutivo.
+El gobierno de cada autonomía regional estará constituido por una Asamblea Regional con facultad deliberativa, normativo-administrativa y fiscalizadora, en el ámbito de sus competencias, y un órgano ejecutivo.
 
 ###### Artículo 282.
 
@@ -5892,21 +5890,21 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 149]]
 
-- Kawkha  municipios  ukjantï  naciones  o pueblos  indígena  originario  campesinos utjkchi  ukjanakanxa  uka  makachirinakaxa Concejo Municipal  ukaruxa  chhijllatanakapxa Carta  örganica  Municipal  ukjamarjamaxa chhijllasipxaspawa.
+- Kawkha municipios ukjantï naciones o pueblos indígena originario campesinos utjkchi ukjanakanxa uka markachirinakaxa Concejo Municipal ukaruxa chhijllatanakapxa Carta Orgánica Municipal ukjamarjamaxa chhijllasipxaspawa.
 
 - Sullka kamachi taypiwa qawkha concejalas ukjamaraki  concejales  municipales chhijllañaki  wakt'ayatarakini.  Carta Orgánica Municipal pachpa municipio ukana qamawirjamawa qhanañcharakini.
 
-- Concejo municipal ukaxa proyecto de carga orgánica  lurarakini  aka  tayka  kamachina qhanañchataki ukjamarjama.
+- Concejo municipal ukaxa proyecto de carta orgánica lurarakini aka tayka kamachina qhanañchataki ukjamarjama.
 
 #### PHISQÏRI JALJTA SAPA APNAQIRINAKA
 
 ###### 285 Kamachi.
 
-- At i p t ' a s i r i ñ a t a k i c h h i j l l a w i n x a p'iqinchiriñatakixa  gobiernos  autónomos ukañatakixa  wakisiwa  kunjamatï  servidor público  ukataki  mayitäki  ukanakampi phuqhaña:
+- Atipt'asiriñataki chhijllawinxa p'iqinchiriñatakixa gobiernos autónomos ukañatakixa wakisiwa kunjamatï servidor público ukataki mayitäki ukanakampi phuqhaña:
 
 - Pä  mara  departamento,  región  jani  ukaxa municipio tuqina utjasiriñapawa.
 
-- Alcaldesa jani ukaxa alcalde ukjamaraki regional  p'qinchiriñatakixa  chhijllawiru  pä tunka mayani mara phuqataniñapawa.
+- Alcaldesa jani ukaxa alcalde ukjamaraki regional p'iqinchiriñatakixa chhijllawiru pä tunka mayani mara phuqataniñapawa.
 
 - En los municipios donde existan naciones o pueblos indígena originario campesinos, que no constituyan una autonomía indígena originaria  campesina,  éstos  podrán  elegir  sus representantes  ante  el  Concejo  Municipal de  forma  directa  mediante  normas  y procedimientos propios y de acuerdo a la Carta Orgánica Municipal.
 
@@ -5940,7 +5938,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Gobierno  Autónomo  ukaru  lantintirixa mayni  Concejo  jani  ukaxa  Asamblea pachpankirita  kunjamatï  estatuto  ukana qhanañchataki ukjamarjamawa lantintawixa phuqhasirakini.
 
-- Kunapachatï gobierno autónomo p'iqinchirixa jaytjaspa, jiwaswa jani atxchispati jani ukaxa jaqsutaspa  ukaxa  mäkiwa  machaqata chhijllataspa  ukampirusa  chika  pacha irnaqawinixañapawa.  Janiti  ukjamakaspa ukjaxa  lantintiripaxa  kunjamatï  estatu ukana  qhanañchataki  ukjamaruwa chhijllataxarakispa.
+- Kunapachatï gobierno autónomo p'iqinchirixa jaytjaspa, jiwaspa jani atxchispati jani ukaxa jaqsutaspa ukaxa mäkiwa machaqata chhijllataspa ukampirusa chika pacha irnaqawinixañapawa. Janiti ukjamakaspa ukjaxa lantintiripaxa kunjamatï estatuto ukana qhanañchataki ukjamaruwa chhijllataxarakispa.
 
 #### SUXTÏRI JALJTA KAMACHINAKA UTT'AYIRINAKA, AMUYIRINAKA UKJAMARAKI UÑAQIRINAKA SAPA APNAQIRINAKANA
 
@@ -5972,227 +5970,196 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 151]]
 
-- Pä mara janira chhijllawikipana pachpa markan qamawinipxañapawa.
+- Haber residido de forma permanente al menos los dos años inmediatamente anteriores a la elección en la jurisdicción correspondiente.
 
-- Tunka  kimsaqalquni  mara  chhijllawiru phuqhatanipxañapawa.
+- Tener 18 años cumplidos al día de la elección.
 
-- Asamblea ukjamaraki concejos de gobiernos autónomos  ukanakaru  chhijllañatakixa sutinakapaxa  p'iqinchirinakana  sutinakapatxa yaqhapxañapawa.
+- La elección de las Asambleas y Concejos de los gobiernos autónomos tendrá lugar en listas separadas de los ejecutivos.
 
-###### 288 Kamachi.
-Concejos ukatxa asamblea de los gobiernos autonómicos ukankirinakaxa phisqa marawa  irnaqapxaspa  ukatsti  maykutikiwa mayampi chhijllatapxarakispa.
-
-#### PAQALLQÜRI JALJTA INDÍGENA ORIGINARIA CAMPESINA SAPA APNAQAWI
-
-###### 289  Kamachi.
-Autonomía  indígena  originaria campesina ukaxa jupanaka pachpata p'iqinchata kunjamatï amtawinakapaxa wakiski naciones y pueblos indígena originario campesinos ukatxa ukankirinakaxa pachpa uraqina, sarawina, nayra qamawina,  aruna,  juchanchawina,  amtawina, qullqina mayakipxi ukjama saña muniwa.
-
-###### 290 Kamachi.
-
-- Autonomía  indígena  originario  campesina ukaxa  nayra  laq'a  achachilanakana uraqipanakana utt'ayatawa jichha pachanxa naciones y pueblos ukanakata qamataxiwa kunjamatï  tayka  kamachina  ukatxa kamachinakana  jiskt'atäki  ukjamarjamawa utt'ayatawa.
-
-- Haber  residido  de  forma  permanente al menos los dos años inmediatamente anteriores a la elección en la jurisdicción correspondiente.
-
-- Tener  18  años  cumplidos  al  día  de  la elección.
-
-- La elección de las Asambleas y Concejos de  los  gobiernos  autónomos  tendrá  lugar en listas separadas de los ejecutivos.
-
-###### Artículo  288.
-El  período  de  mandato  de  los integrantes  de  los  Concejos  y Asambleas  de los gobiernos autónomos será de cinco años, y podrán ser reelectas o reelectos de manera continua por una sola vez.
+###### Artículo 288.
+El período de mandato de los integrantes de los Concejos y Asambleas de los gobiernos autónomos será de cinco años, y podrán ser reelectas o reelectos de manera continua por una sola vez.
 
 #### CAPÍTULO SÉPTIMO AUTONOMÍA INDÍGENA ORIGINARIA CAMPESINA
 
 ###### Artículo 289.
-La autonomía indígena originaria campesina consiste en el  autogobierno como ejercicio  de  la  libre  determinación  de  las  naciones y los pueblos indígena originario campesinos, cuya  población  comparte  territorio,  cultura, historia, lenguas, y organización o instituciones jurídicas,  políticas,  sociales  y  económicas propias.
+La autonomía indígena originaria campesina consiste en el autogobierno como ejercicio de la libre determinación de las naciones y los pueblos indígena originario campesinos, cuya población comparte territorio, cultura, historia, lenguas, y organización o instituciones jurídicas, políticas, sociales y económicas propias.
 
 ###### Artículo 290.
 
-- La conformación de la autonomía indígena originario  campesina  se  basa  en  los  territorios ancestrales,  actualmente  habitados  por esos pueblos y naciones,  y en la voluntad de su población, expresada en consulta, de acuerdo a la Constitución y  la ley.
+- La conformación de la autonomía indígena originario campesina se basa en los territorios ancestrales, actualmente habitados por esos pueblos y naciones, y en la voluntad de su población, expresada en consulta, de acuerdo a la Constitución y la ley.
+
+- Pä mara janira chhijllawikipana pachpa markan qamawinipxañapawa.
+
+- Tunka kimsaqalquni mara chhijllawiru phuqhatanipxañapawa.
+
+- Asamblea ukjamaraki concejos de gobiernos autónomos ukanakaru chhijllañatakixa sutinakapaxa p'iqinchirinakana sutinakapatxa yaqhapxañapawa.
+
+###### 288 Kamachi.
+Concejos ukatxa asamblea de los gobiernos autonómicos ukankirinakaxa phisqa marawa irnaqapxaspa ukatsti maykutikiwa mayampi chhijllatapxarakispa.
+
+#### PAQALLQÜRI JALJTA INDÍGENA ORIGINARIA CAMPESINA SAPA APNAQAWI
+
+###### 289 Kamachi.
+Autonomía indígena originaria campesina ukaxa jupanaka pachpata p'iqinchata kunjamatï amtawinakapaxa wakiski naciones y pueblos indígena originario campesinos ukatxa ukankirinakaxa pachpa uraqina, sarawina, nayra qamawina, aruna, juchanchawina, amtawina, qullqina mayakipxi ukjama saña muniwa.
+
+###### 290 Kamachi.
+
+- Autonomía indígena originario campesina ukaxa nayra laq'a achachilanakana uraqipanakana utt'ayatawa jichha pachanxa naciones y pueblos ukanakata qamataxiwa kunjamatï tayka kamachina ukatxa kamachinakana jiskt'atäki ukjamarjamawa utt'ayatawa.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 151
-
 [[END OF PAGE 151]]
 
 [[START OF PAGE 152]]
 
-- Autonomías indígenas originario  campesinas pachpa p'iqinchirixa  kunjamatï  sarawinakaxa p'iqinchañataki  thakhinakaxa  wakt'ayataki tayka kamachimpi ukatxa kamachinakampi kisayasawa phuqhayarakini.
-
-###### 291 Kamachi.
-
-- Autonomías indígena originario campesinas ukanakaxa  indígena  originario  campesino uraqina,  municipios  ukatxa  regiones kunjamatï  tayka  kamachina  ukatxa kamachinakana qhanañchatäki ukanakawa ukjamata uñt'atapxaraki.
-
-- Paya  jan  ukaxa  walja  pueblos  indígenas originarios campesinos ukanakaxa mä sapa autonomía  indígena  originario  campesino utt'ayasispa.
-
-###### 292  Kamachi .
-Sapa  autonomía  indígena originario  campesina  ukaxa  Estatuto  ukxa thakhinakarjamawa  tayka  kamachirjamawa ukatxa kamachirjamawa luratarakini.
-
-###### 293 Kamachi.
-
-- Autonomía  indígena  ukana  indígena uraqipanakana  ukatxa  thakhikirinakana ukatxa kunapachatï q'umachataxani ukjaxa ukankiri  markachirinaka  arsuwiparjamawa ukatxa  qamawinakaparjamawa  utt'qyatarakini ukatakixa wakisiwa ukjamarjama phuqhaña.
-
-- El  autogobierno  de  las  autonomías  indígenas originario  campesinas  se  ejercerá  de  acuerdo a sus normas, instituciones, autoridades y procedimientos, conforme a sus atribuciones y  competencias,  en  armonía  con  la Constitución y la ley.
+- El autogobierno de las autonomías indígenas originario campesinas se ejercerá de acuerdo a sus normas, instituciones, autoridades y procedimientos, conforme a sus atribuciones y competencias, en armonía con la Constitución y la ley.
 
 ###### Artículo 291.
 
-- Son  autonomías  indígena  originario campesinas los territorios  indígena  originario campesinos,  y  los  municipios,  y  regiones que adoptan tal cualidad de acuerdo a lo establecido en esta Constitución y la ley.
+- Son autonomías indígena originario campesinas los territorios indígena originario campesinos, y los municipios, y regiones que adoptan tal cualidad de acuerdo a lo establecido en esta Constitución y la ley.
 
-- Dos  o  más  pueblos  indígenas  originarios campesinos  podrán  conformar  una  sola autonomía indígena originaria campesina.
+- Dos o más pueblos indígenas originarios campesinos podrán conformar una sola autonomía indígena originaria campesina.
 
-###### Artículo  292.
-Cada  autonomía  indígena originario campesina elaborará su Estatuto, de acuerdo a sus normas y procedimientos propios, según la Constitución y la Ley.
+###### Artículo 292.
+Cada autonomía indígena originario campesina elaborará su Estatuto, de acuerdo a sus normas y procedimientos propios, según la Constitución y la Ley.
 
 ###### Artículo 293.
 
-- La autonomía indígena basada en territorios indígenas  consolidados  y  aquellos  en proceso, una  vez  consolidados,  se  constituirá por la voluntad expresada de su población en consulta en conformidad a sus normas y procedimientos propios como único requisito exigible.
+- La autonomía indígena basada en territorios indígenas consolidados y aquellos en proceso, una vez consolidados, se constituirá por la voluntad expresada de su población en consulta en conformidad a sus normas y procedimientos propios como único requisito exigible.
+
+- Autonomías indígenas originario campesinas pachpa p'iqinchirixa kunjamatï sarawinakaxa p'iqinchañataki thakhinakaxa wakt'ayataki tayka kamachimpi ukatxa kamachinakampi kisayasawa phuqhayarakini.
+
+###### 291 Kamachi.
+
+- Autonomías indígena originario campesinas ukanakaxa indígena originario campesino uraqina, municipios ukatxa regiones kunjamatï tayka kamachina ukatxa kamachinakana qhanañchatäki ukanakawa ukjamata uñt'atapxaraki.
+
+- Paya jan ukaxa walja pueblos indígenas originarios campesinos ukanakaxa mä sapa autonomía indígena originario campesino utt'ayasispa.
+
+###### 292 Kamachi.
+Sapa autonomía indígena originario campesina ukaxa Estatuto ukxa thakhinakarjamawa tayka kamachirjamawa ukatxa kamachirjamawa luratarakini.
+
+###### 293 Kamachi.
+
+- Autonomía indígena ukana indígena uraqipanakana ukatxa thakhikirinakana ukatxa kunapachatï q'umachataxani ukjaxa ukankiri markachirinaka arsuwiparjamawa ukatxa qamawinakaparjamawa utt'ayatarakini ukatakixa wakisiwa ukjamarjama phuqhaña.
 
 152
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 152]]
 
 [[START OF PAGE 153]]
 
-- Kunapachatï  mä  autonomía  indígena originario  campesino  ukaxa  pachpa municipios  ukanakana  qurpasiwina wat'antaspa  ukxaja  pueblo  o  nación indígena  originario  campesino  ukampi gobierno  municipal  ukankirinakampiwa qurpasinaka  mayjt'ayapxarakispa.  Ukatxa kunapachatï  municipio  qurpasinaka wat'antaspa  ukjaxa  Asamblea  Legislativa Plurinacional  taypiwa  thakhinakarjama, mayitanakarjama,  kamachina  qhanchatäki ukjamaru sarantatarakini.
+- Si la conformación de una autonomía indígena originario campesina afectase límites de distritos municipales, el pueblo o nación indígena originario campesino y el gobierno municipal deberán acordar una nueva delimitación distrital. Si afectase límites municipales, deberá seguirse un procedimiento ante la Asamblea Legislativa Plurinacional para su aprobación, previo cumplimiento de los requisitos y condiciones particulares que señale la Ley.
 
-- Sullka  kamachi  taypiwa  kunatixa markachiritjama  mayitäki  autonomía indígena  originario  campesina  ukati qhanañchatarakini.
+- La Ley establecerá requisitos mínimos de población y otros diferenciados para la constitución de autonomía indígena originario campesina.
 
-- Kunapachatï autonomía indígena originario campesina  uraqinakapaxa  may  maya municipios  ukankchini  ukjaxa  kamachi taypiwa  askiñapataki  p'iqinchawinapa qhanañcharakini.
-
-###### 294 Kamachi.
-
-- Autonomía  indígena  originario  campesina amtatayi  utt'ayañatakixa  jiskt'awi  thakhirjama mayitäki tayka kamchina ukatxa kamachiru ukjamarjamawa phuqhasirakini.
-
-- Kunapachatï mä municipio ukaxa autonomía indígena  originario  campesino  ukjama  tukuña munichi  ukjaxa  jiskt'awi  taypiwa  mayitáki kamachina ukjamarjamawa phuqhasirakini.
-
-- Si  la  conformación  de    una  autonomía indígena  originario  campesina  afectase límites  de  distritos  municipales,  el  pueblo o  nación  indígena  originario  campesino y  el  gobierno  municipal  deberán  acordar una nueva delimitación distrital. Si afectase límites  municipales,  deberá  seguirse  un procedimiento ante la Asamblea Legislativa Plurinacional  para  su  aprobación,  previo cumplimiento de los requisitos y condiciones particulares que señale la Ley.
-
-- La Ley establecerá requisitos mínimos de población  y  otros  diferenciados  para  la constitución  de  autonomía  indígena  originario campesina.
-
-- Para  constituir  una  autonomía  indígena originario  campesina  cuyos  territorios  se encuentren en uno  o más municipios, la ley señalará los mecanismos de articulación , coordinación y cooperación para el ejercicio de su gobierno.
+- Para constituir una autonomía indígena originario campesina cuyos territorios se encuentren en uno o más municipios, la ley señalará los mecanismos de articulación, coordinación y cooperación para el ejercicio de su gobierno.
 
 ###### Artículo 294.
 
-- La decisión de constituir una autonomía indígena originario campesina se adoptará de acuerdo a las normas y procedimientos de  consulta  ,  conforme  a  los  requisitos y  condiciones  establecidos  por  la Constitución y la ley.
+- La decisión de constituir una autonomía indígena originario campesina se adoptará de acuerdo a las normas y procedimientos de consulta, conforme a los requisitos y condiciones establecidos por la Constitución y la ley.
 
-- La  decisión  de  convertir  un  municipio  en autonomía  indígena  originario  campesina se adoptará mediante referendo conforme a los requisitos y condiciones establecidos por ley.
+- La decisión de convertir un municipio en autonomía indígena originario campesina se adoptará mediante referendo conforme a los requisitos y condiciones establecidos por ley.
+
+- Kunapachatï mä autonomía indígena originario campesino ukaxa pachpa municipios ukanakana qurpasiwina wat'antaspa ukxaja pueblo o nación indígena originario campesino ukampi gobierno municipal ukankirinakampiwa qurpasinaka mayjt'ayapxarakispa. Ukatxa kunapachatï municipio qurpasinaka wat'antaspa ukjaxa Asamblea Legislativa Plurinacional taypiwa thakhinakarjama, mayitanakarjama, kamachina qhanañchatäki ukjamaru sarantatarakini.
+
+- Sullka kamachi taypiwa kunatixa markachiritjama mayitäki autonomía indígena originario campesina ukati qhanañchatarakini.
+
+- Kunapachatï autonomía indígena originario campesina uraqinakapaxa may maya municipios ukankchini ukjaxa kamachi taypiwa askiñapataki p'iqinchawinapa qhanañcharakini.
+
+###### 294 Kamachi.
+
+- Autonomía indígena originario campesina amtatayi utt'ayañatakixa jiskt'awi thakhirjama mayitäki tayka kamachina ukatxa kamachiru ukjamarjamawa phuqhasirakini.
+
+- Kunapachatï mä municipio ukaxa autonomía indígena originario campesino ukjama tukuña munichi ukjaxa jiskt'awi taypiwa mayitäki kamachina ukjamarjamawa phuqhasirakini.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 153
-
 [[END OF PAGE 153]]
 
 [[START OF PAGE 154]]
 
-- Kawkïri  municipios  ukanakanaya  ayllunakaxa yäparu  mayachata  uraqinakapaxa  kikipa kamächi ukanakaxa municipios ukjamawa utt'yasipxaspa  ukatakixa  kunjamtï mayiwinakaxa  Asamblea  Legislativa Plurinacional  ukana  mayitäki  ukjamaraki tayka  kamachina  ukatxa  kamachinakana mayitäki ukjamarjamawa phuqhapxañapa.
-
-###### 295 Kamachi.
-
-- Región  indígena  originario  campesina utt'ayañatakixa  municipios  qurpasinaka wat'antañapatakixa  Asamblea  Legislativa Plurinacional  thakhipwa  mayitäki  ukjamaraki tayka kamachina ukatxa kamachina mayitäki ukjarjamawa phuqhapxañapa.
-
-- Municipios,  distritos  municipales  ukatxa autonomía  indígena  originario  campesina mayachatañapataki  región  indígena  originario campesina ukatakixa jiskt'äwi taypi ukatxa kujamatï mayitäki tayka kamachina ukatxa kamachina qhanañchatáki ukjamarjamawa phuqhapxañapa.
-
-###### 296  Kamachi.
-Gobierno  de  las  autonomías i n d í g e n a s ori g i n a r i o c a m p e s i n a s ukanakaxa  saranakaparjama  ukatxa qutuchasiwinakaparjamawa  sutinakasapa pachpa markana sutinakapampiwa sutichasipxarakispa ukatxa estatutos ukanakasa tayka  kamachirjamawa  ukatxa  kamachi ukarjamawa phuqhatarakini.
-
-- En  los  municipios  donde  existan  comunidades campesinas con estructuras organizativas propias que las articulen y con continuidad geográfica,  podrá  conformarse  un  nuevo municipio,  siguiendo  el  procedimiento ante la Asamblea Legislativa Plurinacional para  su  aprobación,  previo  cumplimiento de requisitos y condiciones conforme a la Constitución y la ley.
+- En los municipios donde existan comunidades campesinas con estructuras organizativas propias que las articulen y con continuidad geográfica, podrá conformarse un nuevo municipio, siguiendo el procedimiento ante la Asamblea Legislativa Plurinacional para su aprobación, previo cumplimiento de requisitos y condiciones conforme a la Constitución y la ley.
 
 ###### Artículo 295.
 
-- Para  conformar  una  región  indígena originario  campesina  que  afecte  límites municipales deberá previamente seguirse un procedimiento ante la Asamblea Legislativa Plurinacional  cumpliendo  los  requisitos  y condiciones  particulares  señalados  por Ley.
+- Para conformar una región indígena originario campesina que afecte límites municipales deberá previamente seguirse un procedimiento ante la Asamblea Legislativa Plurinacional cumpliendo los requisitos y condiciones particulares señalados por Ley.
 
-- La  agregación  de  municipios,  distritos municipales  y/o  autonomías  indígena originario campesinas para conformar una región  indígena  originario  campesina,  se decidirá mediante referendo y/o de acuerdo a sus normas y procedimientos de consulta según  corresponda  y  conforme  a  los requisitos y condiciones establecidos por la Constitución y la Ley.
+- La agregación de municipios, distritos municipales y/o autonomías indígena originario campesinas para conformar una región indígena originario campesina, se decidirá mediante referendo y/o de acuerdo a sus normas y procedimientos de consulta según corresponda y conforme a los requisitos y condiciones establecidos por la Constitución y la Ley.
 
-###### Artículo  296.
-El  gobierno  de  las  autonomías indígena  originario  campesinas  se  ejercerá a  través  de  sus  propias  normas  y  formas de  organización,  con  la  denominación  que corresponda a cada pueblo, nación o comunidad, establecidas en sus estatutos y en sujeción a la Constitución y a  la Ley.
+###### Artículo 296.
+El gobierno de las autonomías indígena originario campesinas se ejercerá a través de sus propias normas y formas de organización, con la denominación que corresponda a cada pueblo, nación o comunidad, establecidas en sus estatutos y en sujeción a la Constitución y a la Ley.
+
+- Kawkïri municipios ukanakanaya ayllunakaxa yäparu mayachata uraqinakapaxa kikipa kamächi ukanakaxa municipios ukjamawa utt'ayasipxaspa ukatakixa kunjamtï mayiwinakaxa Asamblea Legislativa Plurinacional ukana mayitäki ukjamaraki tayka kamachina ukatxa kamachinakana mayitäki ukjamarjamawa phuqhapxañapa.
+
+###### 295 Kamachi.
+
+- Región indígena originario campesina utt'ayañatakixa municipios qurpasinaka wat'antañapatakixa Asamblea Legislativa Plurinacional thakhipwa mayitäki ukjamaraki tayka kamachina ukatxa kamachina mayitäki ukjarjamawa phuqhapxañapa.
+
+- Municipios, distritos municipales ukatxa autonomía indígena originario campesina mayachatañapataki región indígena originario campesina ukatakixa jiskt'äwi taypi ukatxa kunjamatï mayitäki tayka kamachina ukatxa kamachina qhanañchatäki ukjamarjamawa phuqhapxañapa.
+
+###### 296 Kamachi.
+Gobierno de las autonomías indígenas originario campesinas ukanakaxa saranakaparjama ukatxa qutuchasiwinakaparjamawa sutinakasapa pachpa markana sutinakapampiwa sutichasipxarakispa ukatxa estatutos ukanakasa tayka kamachirjamawa ukatxa kamachi ukarjamawa phuqhatarakini.
 
 154
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 154]]
 
 [[START OF PAGE 155]]
-
-#### KIMSAQALLQÜRI JALJTA PHUQAWI JALANUQAWI
-
-###### 297 Kamachi.
-
-- Aka  tayka  kamachina  utt'ata  phuqhawinakapaxa aknirinakawa:
-
-- Jani lurañanaka, apnaqawinaka ukatxa kamachi  lurañanaka  phuqhañanakaxa j a n i r a k i w a yaqharuxa  khitirusa khithatakaspati  taqi  ukarjamawa  nivel central ukaxa waqaychañapa.
-
-- Ukanakapuni, marka apnaqawinxa sapa mayniwa thakhiparjama wakt'ayatañapa apnaqañataki, k a m a c h i n a k a lurañataki  ukatxa  phuqhayañataki  uka qhiphankirinakasti khithataspawa.
-
-- Concurrentes,  taypinkirinakaxa  nivel central ukana lurawipawa ukaxa yaqha niveles ukanakampi khuskhata kamachi phuqhawimpi phuqhañampi chikasiwa.
-
-- Compartidas,  ukanxa  Asamblea  legislativa plurinacional  ukana  lurawinakapawa kunjamtï  entidades  territoriales autónomas  ukana  saranakapawa. Qillqata  amuyu  sarantayañatakixa ukatxa  phuqhawixa  entidades  territoriales ukaruwa wakt'araki.
-
-- Taqi phuqhawitixa jani aka tayka kamachina qhanañchatakchi  ukaxa  kamachi  taypiwa churasirakispa ukatxa khithatarakispa.
 
 #### CAPÍTULO OCTAVO DISTRIBUCIÓN DE COMPETENCIAS
 
 ###### Artículo 297.
 
-- Las  competencias  definidas  en  esta Constitución son:
+- Las competencias definidas en esta Constitución son:
 
-- Privativas,  aquellas  cuya  legislación, reglamentación  y  ejecución  no  se transfiere ni delega, y están reservadas para el nivel central del Estado.
+- Privativas, aquellas cuya legislación, reglamentación y ejecución no se transfiere ni delega, y están reservadas para el nivel central del Estado.
 
-- Exclusivas, aquellas en las que un nivel de gobierno tiene  sobre  una  determinada materia  las  facultades  legislativa, reglamentaria  y  ejecutiva,  pudiendo transferir y delegar estas dos últimas.
+- Exclusivas, aquellas en las que un nivel de gobierno tiene sobre una determinada materia las facultades legislativa, reglamentaria y ejecutiva, pudiendo transferir y delegar estas dos últimas.
 
-- Concurrentes,  aquellas  en  las  que la  legislación  corresponde  al  nivel central  del  Estado  y  los  otros  niveles ejercen simultáneamente las facultades reglamentaria y ejecutiva.
+- Concurrentes, aquellas en las que la legislación corresponde al nivel central del Estado y los otros niveles ejercen simultáneamente las facultades reglamentaria y ejecutiva.
 
-- Compartidas,  aquellas  sujetas  a  una legislación  básica  de  la  Asamblea Legislativa  Plurinacional  cuya  legislación de desarrollo  corresponde  a  las  entidades territoriales  autónomas,  de  acuerdo a  su  característica  y  naturaleza.  La reglamentación  y  ejecución  corresponderá a las entidades territoriales autónomas.
+- Compartidas, aquellas sujetas a una legislación básica de la Asamblea Legislativa Plurinacional cuya legislación de desarrollo corresponde a las entidades territoriales autónomas, de acuerdo a su característica y naturaleza. La reglamentación y ejecución corresponderá a las entidades territoriales autónomas.
 
-- Toda competencia que no esté incluida en esta  Constitución  será  atribuida  al  nivel central del Estado, que podrá transferirla o delegarla por Ley.
+- Toda competencia que no esté incluida en esta Constitución será atribuida al nivel central del Estado, que podrá transferirla o delegarla por Ley.
+
+#### KIMSAQALLQÜRI JALJTA PHUQAWI JALANUQAWI
+
+###### 297 Kamachi.
+
+- Aka tayka kamachina utt'ata phuqhawinakapaxa aknirinakawa:
+
+- Jani lurañanaka, apnaqawinaka ukatxa kamachi lurañanaka phuqhañanakaxa janirakiwa yaqharuxa khitirusa khithatakaspati taqi ukarjamawa nivel central ukaxa waqaychañapa.
+
+- Ukanakapuni, marka apnaqawinxa sapa mayniwa thakhiparjama wakt'ayatañapa apnaqañataki, kamachinaka lurañataki ukatxa phuqhayañataki uka qhiphankirinakasti khithataspawa.
+
+- Concurrentes, taypinkirinakaxa nivel central ukana lurawipawa ukaxa yaqha niveles ukanakampi khuskhata kamachi phuqhawimpi phuqhañampi chikasiwa.
+
+- Compartidas, ukanxa Asamblea legislativa plurinacional ukana lurawinakapawa kunjamtï entidades territoriales autónomas ukana saranakapawa. Qillqata amuyu sarantayañatakixa ukatxa phuqhawixa entidades territoriales ukaruwa wakt'araki.
+
+- Taqi phuqhawitixa jani aka tayka kamachina qhanañchatakchi ukaxa kamachi taypiwa churasirakispa ukatxa khithatarakispa.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 155
-
 [[END OF PAGE 155]]
 
 [[START OF PAGE 156]]
 
-###### 298 Kamachi.
-
-- Nivel  central  del  estado  ukana  privativa phuqhawinakapawa:
-
-- Qullqi ch'iqiyawi (sistema financiero).
-
-- Qullqi  tuqi  amtäwi,  Qullqi  imaña  uta (Banco Central), qullqi uñaqäwi (sistema monetario)  ukjamaraki  turkawi  amtawi (plítica cambiaria).
-
-- Yänaka tupuchäwi (Sistema de pesas) ukjamaraki  tuptawi  (medidas)  ukatxa uruyt'a utnuqawi.
-
-- Amtawi  wakiyaña  anqa  yänakata (Régimen aduanero).
-
-- Anqa  markaru  alxawi  (Comercio exterior).
-
-- Aka  uraqina  markachirinaka  uñjawi (Seguridad  del  estado),  jark'aqawi (Defensa), Fuerzas  Armadas ukjamaraki Policía boliviana.
-
-- Illapt'añanaka  (Armas  de  fuego)  ukjamaraki phallayañanaka (explosivos).
-
-- Anqa  markataki  amtawi  (política exterior).
-
-- Aka markana markachiri (Nacionalidad), yaqáwi markachirita (ciudadanía), anqa makachirita  (extranjería),  jani  wali jaqinakataki qamawi (derecho de asilo) ukjamaraki  janwali  jaqiru  qatuqawi (refugio).
-
-- Qurpasinaka  askinjama  mayachata marka uñjawi.
-
-- Anqa  markaru  misturinaka  ukatxa matanirinaka uñjawi.
-
 ###### Artículo 298.
 
-- Son competencias privativas del nivel  central del Estado:
+- Son competencias privativas del nivel central del Estado:
 
 - Sistema financiero.
 
-- Política  monetaria,  Banco  Central,  sistema monetario, y la política cambiaria.
+- Política monetaria, Banco Central, sistema monetario, y la política cambiaria.
 
 - Sistema de pesas y medidas, así como la determinación de la hora oficial.
 
-- 4 Régimen aduanero.
+- Régimen aduanero.
 
 - Comercio Exterior.
 
@@ -6202,193 +6169,241 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Política exterior.
 
-- Nacionalidad,  ciudadanía,  extranjería, derecho de asilo y refugio.
+- Nacionalidad, ciudadanía, extranjería, derecho de asilo y refugio.
 
-- Control  de  fronteras  en  relación  a  la seguridad del Estado.
+- Control de fronteras en relación a la seguridad del Estado.
 
-- Regulación y políticas  migratorias.
+- Regulación y políticas migratorias.
+
+###### 298 Kamachi.
+
+- Nivel central del estado ukana privativa phuqhawinakapawa:
+
+- Qullqi ch'iqiyawi (sistema financiero).
+
+- Qullqi tuqi amtäwi, Qullqi imaña uta (Banco Central), qullqi uñaqäwi (sistema monetario) ukjamaraki turkawi amtawi (política cambiaria).
+
+- Yänaka tupuchäwi (Sistema de pesas) ukjamaraki tuptawi (medidas) ukatxa uruyt'a utnuqawi.
+
+- Amtawi wakiyaña anqa yänakata (Régimen aduanero).
+
+- Anqa markaru alxawi (Comercio exterior).
+
+- Aka uraqina markachirinaka uñjawi (Seguridad del estado), jark'aqawi (Defensa), Fuerzas Armadas ukjamaraki Policía boliviana.
+
+- Illapt'añanaka (Armas de fuego) ukjamaraki phallayañanaka (explosivos).
+
+- Anqa markataki amtawi (política exterior).
+
+- Aka markana markachiri (Nacionalidad), yaqáwi markachirita (ciudadanía), anqa markachirita (extranjería), jani wali jaqinakataki qamawi (derecho de asilo) ukjamaraki janwali jaqiru qatuqawi (refugio).
+
+- Qurpasinaka askinjama mayachata marka uñjawi.
+
+- Anqa markaru misturinaka ukatxa mantanirinaka uñjawi.
 
 156
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 156]]
 
 [[START OF PAGE 157]]
-
-- Kunaymana  jach'a  empresas  públicas a nivel del estado utt'ayäwi ukjamaraki uñjawi.
-
-- Nayra  yänaka  estado  plurinacional ukankirinaka ukatxa entidades públicas del nivel central del estado apnaqaña.
-
-- Akapacha uñjawi ukatxa lata jamach'ina t'uyuwipa  Bolivia  uraqpachana  uñjawi. Ukatxa  lata  jamach'inaka  jaltañanaka ukatxa  puriñanaka  anqa  markata ukjamaraki  departamental  ukanaka askichaña ukjamaraki lurayaña.
-
-- Markachiri qillqawi (Registro civil).
-
-- Markachiri jakthapiwi (Censos oficiales).
-
-- Tayka  amta  uraqinakata  ukjamaraki q'umachawinakata.
-
-- Ch'iyar  khusu  umanakata  (Hidrocarburos).
-
-- Bolivia markana yänakata qullqi irtawi, yänakaru chaniñchaña ukatxa yänakata qullqi  irtawi  nivel  central  del  estado ukataki.
-
-- Tayka amatawi akapachana jakirinakata ukjamaraki akapacha samanata.
-
-- Yäparu  sutinchata  ukatxa  sutunchirita ukaxa  materia  civil,  familiar,  penal, tributaria,  laboral,  comercial,  minería ukatxa electoral.
-
-- Qullqi  amtawi  ukatxa  Bolivia  markpachataki wakichawi.
 
 - Creación, control y administración de las empresas públicas estratégicas del nivel central del Estado.
 
 - Administración del patrimonio del Estado Plurinacional y de las entidades públicas del nivel central del Estado.
 
-- Control del espacio y tránsito aéreo,en todo el territorio nacional. Construcción, mantenimiento  y  administración  de aeropuertos internacionales y de tráfico interdepartamental.
+- Control del espacio y tránsito aéreo, en todo el territorio nacional. Construcción, mantenimiento y administración de aeropuertos internacionales y de tráfico interdepartamental.
 
 - Registro Civil.
 
-- Censos  oficiales.
+- Censos oficiales.
 
 - Política general sobre tierras y territorio, y su titulación.
 
 - Hidrocarburos.
 
-- Creación  de  impuestos  nacionales  ,  tasas y contribuciones especiales de dominio tributario  del nivel central del Estado.
+- Creación de impuestos nacionales, tasas y contribuciones especiales de dominio tributario del nivel central del Estado.
 
-- Política  general  de  Biodiversidad  y  Medio Ambiente.
+- Política general de Biodiversidad y Medio Ambiente.
 
-- Codificación  sustantiva  y  adjetiva  en materia  civil,  familiar,  penal,  tributaria, laboral,  comercial,  minería y electoral.
+- Codificación sustantiva y adjetiva en materia civil, familiar, penal, tributaria, laboral, comercial, minería y electoral.
 
-- Política  económica  y  planificación nacional
+- Política económica y planificación nacional
+
+- Kunaymana jach'a empresas públicas a nivel del estado utt'ayäwi ukjamaraki uñjawi.
+
+- Nayra yänaka estado plurinacional ukankirinaka ukatxa entidades públicas del nivel central del estado apnaqaña.
+
+- Akapacha uñjawi ukatxa lata jamach'ina t'uyuwipa Bolivia uraqpachana uñjawi. Ukatxa lata jamach'inaka jaltañanaka ukatxa puriñanaka anqa markata ukjamaraki departamental ukanaka askichaña ukjamaraki lurayaña.
+
+- Markachiri qillqawi (Registro civil).
+
+- Markachiri jakthapiwi (Censos oficiales).
+
+- Tayka amta uraqinakata ukjamaraki q'umachawinakata.
+
+- Ch'iyar khusu umanakata (Hidrocarburos).
+
+- Bolivia markana yänakata qullqi irtawi, yänakaru chaniñchaña ukatxa yänakata qullqi irtawi nivel central del estado ukataki.
+
+- Tayka amatawi akapachana jakirinakata ukjamaraki akapacha samanata.
+
+- Yäparu sutinchata ukatxa sutinchirita ukaxa materia civil, familiar, penal, tributaria, laboral, comercial, minería ukatxa electoral.
+
+- Qullqi amtawi ukatxa Bolivia markpachataki wakichawi.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 157
-
 [[END OF PAGE 157]]
 
 [[START OF PAGE 158]]
 
-- Nayriri  phuqhawinakaxa  nivel  central  del Estado ukanxa akanakawa:
+- Son competencias exclusivas del nivel central del Estado:
 
-- Amtawi  wakiyaña  Bolivia  p'iqinchiri chhijllañataki ukatxa jisk'a markanakana p'iqinchirinaka chhijllañataki ukjamaraki Bolivia ukch'pachana jiskt'awinakataki.
-
-- Amtawi  wakiyaña  yatiyasiwinakata ukatxa jayaru yatiyasiwinakata.
-
-- Yatiyawinaka apaña (Servicio postal).
-
-- Akapachankiri yänaka  sañäni: qhuyanaka,  yänaka  qhantayirinaka (espectro  electromagnético),  yänaka yuriwinaka  (recursos  genéticos),  jakiri yänaka (biogenéticas) ukjamaraki pacha samana (medio ambiente).
-
-- Amtawi  wakiyaña  umata  ukatxa ch'iqiyañata.
-
-- Amtawi  wakiyaña  akapachana jakirinakata  ukatxa  pacha  samanata (medio ambiente).
-
-- Quqata  ukatxa  uraqinakata,  yänakata, ch'uminakata amtawi.
-
-- Amtawi  qhantawitaki  akjamanakana lurawina,  apnaqawina,  utt'ayawina, ch'iqiyawina, t'akt'ayawina.
-
-- Jach'a  thakhinaka  lurañakati  ukatxa askina uñjañataki wakichaña.
-
-- Ferrocarriles  thakhinaka  lurayaña,  uñjaña ukatxa askichaña.
-
-- Nivel  central  del  estado  amtaparjama utachawinaka luraña.
-
-- Son competencias exclusivas  del  nivel  central del Estado:
-
-- Régimen  electoral  nacional  para  la elección  de  autoridades  nacionales  y subnacionales, y consultas nacionales.
+- Régimen electoral nacional para la elección de autoridades nacionales y subnacionales, y consultas nacionales.
 
 - Régimen general de las comunicaciones y las telecomunicaciones.
 
 - Servicio postal.
 
-- Recursos  naturales  estratégicos, que  comprenden  minerales,  espectro electromagnético, recursos genéticos y biogenéticos y las fuentes de agua.
+- Recursos naturales estratégicos, que comprenden minerales, espectro electromagnético, recursos genéticos y biogenéticos y las fuentes de agua.
 
 - Régimen general de recursos hídricos y sus servicios.
 
-- Régimen  general  de  biodiversidad  y medio ambiente.
+- Régimen general de biodiversidad y medio ambiente.
 
-- Política  Forestal  y  régimen general de suelos, recursos forestales y bosques.
+- Política Forestal y régimen general de suelos, recursos forestales y bosques.
 
-- Política  de  generación,  producción, control,  transmisión  y  distribución  de energía en el sistema interconectado.
+- Política de generación, producción, control, transmisión y distribución de energía en el sistema interconectado.
 
-- Planificación,  diseño,  construcción, conservación  y  administración  de carreteras de la Red Fundamental.
+- Planificación, diseño, construcción, conservación y administración de carreteras de la Red Fundamental.
 
-- Construcción,  mantenimiento  y administración  de  líneas  férreas  y ferrocarriles de la Red Fundamental.
+- Construcción, mantenimiento y administración de líneas férreas y ferrocarriles de la Red Fundamental.
 
-- Obras  públicas  de  infraestructura  de interés del nivel central del Estado
+- Obras públicas de infraestructura de interés del nivel central del Estado
+
+- Nayriri phuqhawinakaxa nivel central del Estado ukanxa akanakawa:
+
+- Amtawi wakiyaña Bolivia p'iqinchiri chhijllañataki ukatxa jisk'a markanakana p'iqinchirinaka chhijllañataki ukjamaraki Bolivia ukch'pachana jiskt'awinakataki.
+
+- Amtawi wakiyaña yatiyasiwinakata ukatxa jayaru yatiyasiwinakata.
+
+- Yatiyawinaka apaña (Servicio postal).
+
+- Akapachankiri yänaka sañäni: qhuyanaka, yänaka qhantayirinaka (espectro electromagnético), yänaka yuriwinaka (recursos genéticos), jakiri yänaka (biogenéticas) ukjamaraki pacha samana (medio ambiente).
+
+- Amtawi wakiyaña umata ukatxa ch'iqiyañata.
+
+- Amtawi wakiyaña akapachana jakirinakata ukatxa pacha samanata (medio ambiente).
+
+- Quqata ukatxa uraqinakata, yänakata, ch'uminakata amtawi.
+
+- Amtawi qhantawitaki akjamanakana lurawina, apnaqawina, utt'ayawina, ch'iqiyawina, t'akt'ayawina.
+
+- Jach'a thakhinaka lurañataki ukatxa askina uñjañataki wakichaña.
+
+- Ferrocarriles thakhinaka lurayaña, uñjaña ukatxa askichaña.
+
+- Nivel central del estado amtaparjama utachawinaka luraña.
 
 158
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 158]]
 
 [[START OF PAGE 159]]
 
-- Uraqi  jamuqawinaka  suma  luraña kunjamakitixa ukjama ukatxa jay saña.
+- Elaboración y aprobación de planos y mapas cartográficos oficiales; geodesia.
 
-- Jakthapiwi luraña ukatxa jay saña.
+- Elaboración y aprobación de estadísticas oficiales.
 
-- Personería  jurídica  qutuchawinakaru kunaymana lurawinaka phuqhañapataki luqtaña.
+- Otorgación de personalidad jurídica a organizaciones sociales que desarrollen actividades en más de un Departamento.
 
-- Personería  jurídica  qutuchawinakaru ukjamaraki  no  gubernamentales ukanakaru luqtaña; jani juk'uchasiñataki kunaymana departamentos ukanakana.
-
-- Amtawi wakiyaña markachiri jark'aqañataki.
-
-- Yatiqawinakata ukatxa qullasiñata amta wakiyaña.
-
-- Derechos Reales ukaxa thakhinjamawa registro  técnico  municipal  ukampixa chikacahsirakini.
-
-- Jark'ata  uraqinakaxa  nivel  central  del estado ukana amparanakapankiwa.
-
-- Yänaka jark'ata uraqinakana.
-
-- Yapuchawina ukatxa uywachawina jani wat'ayiri usunakata.
-
-- 22.Uraqi yäparu sutinchaña ukatxa uñjaña.
-
-- Amta yatxatirina.
-
-- Taripawi apnaqaña.
-
-- Elaboración  y  aprobación  de  planos y  mapas  cartográficos  oficiales; geodesia.
-
-- Elaboración  y  aprobación  de  estadísticas oficiales.
-
-- Otorgación  de  personalidad  jurídica a  organizaciones  sociales  que desarrollen Actividades  en  más  de  un Departamento.
-
-- Otorgación  y  registro  de  personalidad jurídica  a  Organizaciones  No  Gubernamentales,  Fundaciones  y  entidades  civiles  sin  fines  de  lucro  que desarrollen  actividades  en  más  de  un Departamento.
+- Otorgación y registro de personalidad jurídica a Organizaciones No Gubernamentales, Fundaciones y entidades civiles sin fines de lucro que desarrollen actividades en más de un Departamento.
 
 - Régimen de Seguridad Social.
 
-- Políticas  del  sistema  de  educación  y salud
+- Políticas del sistema de educación y salud
 
-- Sistema  de  Derechos  Reales  en obligatoria coordinación con el registro técnico municipal.
+- Sistema de Derechos Reales en obligatoria coordinación con el registro técnico municipal.
 
-- Áreas  protegidas  bajo  responsabilidad del nivel central del Estado.
+- Áreas protegidas bajo responsabilidad del nivel central del Estado.
 
-- Reservas fiscales  respecto  a  recursos naturales.
+- Reservas fiscales respecto a recursos naturales.
 
 - Sanidad e inocuidad agropecuaria.
 
-- Control  de  la  administración  agraria  y catastro rural .
+- Control de la administración agraria y catastro rural.
 
 - Política fiscal
 
 - Administración de Justicia
 
+- Uraqi jamuqawinaka suma luraña kunjamakitixa ukjama ukatxa jay saña.
+
+- Jakthapiwi luraña ukatxa jay saña.
+
+- Personería jurídica qutuchawinakaru kunaymana lurawinaka phuqhañapataki luqtaña.
+
+- Personería jurídica qutuchawinakaru ukjamaraki no gubernamentales ukanakaru luqtaña; jani juk'uchasiñataki kunaymana departamentos ukanakana.
+
+- Amtawi wakiyaña markachiri jark'aqañataki.
+
+- Yatiqawinakata ukatxa qullasiñata amta wakiyaña.
+
+- Derechos Reales ukaxa thakhinjamawa registro técnico municipal ukampixa chikachasirakini.
+
+- Jark'ata uraqinakaxa nivel central del estado ukana amparanakapankiwa.
+
+- Yänaka jark'ata uraqinakana.
+
+- Yapuchawina ukatxa uywachawina jani wat'ayiri usunakata.
+
+- Uraqi yäparu sutinchaña ukatxa uñjaña.
+
+- Amta yatxatirina.
+
+- Taripawi apnaqaña.
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 159
-
 [[END OF PAGE 159]]
 
 [[START OF PAGE 160]]
 
-- Sarawinaka,  nayra  yatiyawinaka, lurawinaka, muspharkaya lurata, yänaka k'achachata,  nayra  yänaka,  yatxatawi katt'ata  ukatxa  jani  katt'kaya  nivel central del estado ukana amuyuparjama uñanchayaña ukatxa waqaychaña.
+- Promoción de la cultura y conservación del patrimonio cultural, histórico, artístico, monumental, arquitectónico, arqueológico, paleontológico, científico, tangible e intangible de interés del nivel central del Estado.
 
-- K a m a c h i n a q h a n a ñ c h a t a k i ukjamarjamawa  yäparu  tukuñapataki uraqixa aparatarakini.
+- Expropiación de inmuebles por razones de utilidad y necesidad pública, conforme al procedimiento establecido por Ley.
 
-- Panka  imañanaka,  museos,  archivos, hemerotecas,  ukatxa  yaqhanakampixa ukanakaxa askiwa nivel  central  del  estado ukatakixa.
+- Centros de información y documentación, archivos, bibliotecas, museos, hemerotecas y otros de interés del nivel central del Estado.
+
+- Empresas públicas del nivel central del Estado.
+
+- Asentamientos humanos rurales
+
+- Políticas de servicios básicos
+
+- Políticas y régimen laborales
+
+- Transporte, terrestre, aéreo, fluvial y otros cuando alcance a más de un departamento.
+
+- Políticas de planificación territorial y ordenamiento territorial
+
+- Deuda pública interna y externa
+
+- Políticas generales de desarrollo productivo
+
+- Políticas generales de vivienda
+
+- Políticas generales de turismo
+
+- Sarawinaka, nayra yatiyawinaka, lurawinaka, muspharkaya lurata, yänaka k'achachata, nayra yänaka, yatxatawi katt'ata ukatxa jani katt'kaya nivel central del estado ukana amuyuparjama uñanchayaña ukatxa waqaychaña.
+
+- Kamachina qhanañchataki ukjamarjamawa yäparu tukuñapataki uraqixa aparatarakini.
+
+- Panka imañanaka, museos, archivos, hemerotecas, ukatxa yaqhanakampixa ukanakaxa askiwa nivel central del estado ukatakixa.
 
 - Empresas públicas del nivel central del Estado.
 
@@ -6398,85 +6413,34 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Irnaqawinakataki amtawi.
 
-- K'añaskunakata,  uraqnama,  akapachnama, umnama walja departamentos uknamakchi ukja.
+- K'añaskunakata, uraqnama, akapachnama, umnama walja departamentos uknamakchi ukja.
 
 - Uraqita wakichaña amta ukatxa yäparu utt'ayaña.
 
-- Aka pachpana  ukatxa anqata manjasiwi.
+- Aka pachpana ukatxa anqata manjasiwi.
 
-- Lurawinaka  nayraru  sartayaña  tayka amta.
+- Lurawinaka nayraru sartayaña tayka amta.
 
 - Utachawi tayka amta.
 
 - K'acha markanaka, yänaka saraña tayka amta.
 
-- Promoción de la cultura y conservación del    patrimonio  cultural.  histórico, artístico,  monumental,  arquitectónico, arqueológico, paleontológico, científico, tangible e intangible  de interés del nivel central del Estado.
-
-- Expropiación de inmuebles  por razones de utilidad  y  necesidad  pública,  conforme al procedimiento establecido por Ley.
-
-- Centros  de  información  y  documentación, archivos,  bibliotecas,  museos,  hemerotecas y otros  de  interés  del  nivel  central del Estado.
-
-- Empresas  públicas    del  nivel  central del Estado.
-
-- Asentamientos humanos rurales
-
-- Políticas de servicios básicos
-
-- Políticas y régimen  laborales
-
-- Transporte,  terrestre,  aéreo,  fluvial y  otros  cuando  alcance  a  mas  de  un departamento.
-
-- Políticas  de  planificación  territorial  y ordenamiento territorial
-
-- Deuda pública interna y externa
-
-- Políticas  generales  de  desarrollo productivo
-
-- Políticas generales de vivienda
-
-- Políticas generales de turismo
-
 160
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 160]]
 
 [[START OF PAGE 161]]
 
-- Amtawi  wakiyaña  uraqita.  Kamachi taypiwa  churatañatakixa  jani  ukaxa atonomías  ukaruwa  churañatakisa qhanañchtarakini.
-
-###### 299 Kamachi.
-
-- Nivel central ukampi entidades territoriales autónomas ukampi chikachata phuqhawinakaxa aknirinakawa:
-
-- Amtawi  wakiyaña  departamental ukjamaraki municipal chhijllawitaki.
-
-- Utana jawsañani, laq'u jawsasiña ukataxa jayaru yatiyasiñanaka.
-
-- Jach'a markanaka lusa qhananiña.
-
-- T oleria  anatawi  ukjamaraki  mä  akatjamata wakt'araki.
-
-- Anqa markanakampi anqa amta estado taypi mayachasiña.
-
-- Jach'a  markanakana  jakirinakampi municipios ukanakampi jani walinakata amta mayachaña.
-
-- Yänakata  qullqi  irtäwi  gobiernos  autónmos ukataki mayjt'ayaña.
-
-- Aknïri  phuqhawinakaxa  nivel  central  del estado  ukampi  entidades  territoriales autónomas ukanakampitaki phuqhawiwa:
-
-- Pacha samana ukjamaraki jani jaqimpi jakiri uywanaka aka pachampi chikt'ata uñjaña,  waqaychaña  ukjamaraki jark'aqaña.
-
-- Régimen de la tierra. La ley determinará las  facultades  a  ser  transferidas  o delegadas a  las autonomías.
+- Régimen de la tierra. La ley determinará las facultades a ser transferidas o delegadas a las autonomías.
 
 ###### Artículo 299.
 
-- Las siguientes competencias se ejercerán de forma compartida entre el nivel central del  Estado  y  las  entidades  territoriales autónomas:
+- Las siguientes competencias se ejercerán de forma compartida entre el nivel central del Estado y las entidades territoriales autónomas:
 
-- Régimen  electoral  departamental  y municipal.
+- Régimen electoral departamental y municipal.
 
-- Servicios  de  telefonía  fija,  móvil  y telecomunicaciones.
+- Servicios de telefonía fija, móvil y telecomunicaciones.
 
 - Electrificación urbana
 
@@ -6484,69 +6448,56 @@ MACHAQA TAYKA KAMACHI
 
 - Relaciones internacionales en el marco de la política exterior del Estado.
 
-- Establecimiento  de  Instancias  de Conciliación ciudadana para resolución de conflictos  entre  vecinos  sobre  asuntos de carácter municipal.
+- Establecimiento de Instancias de Conciliación ciudadana para resolución de conflictos entre vecinos sobre asuntos de carácter municipal.
 
-- Regulación  para  la  creación  y/o modificación de impuestos de dominio exclusivo de los gobiernos autónomos.
+- Regulación para la creación y/o modificación de impuestos de dominio exclusivo de los gobiernos autónomos.
 
-- Las siguientes competencias se ejercerán de  forma  concurrente  por  el  nivel  central del  Estado  y  las  entidades  territoriales autónomas:
+- Las siguientes competencias se ejercerán de forma concurrente por el nivel central del Estado y las entidades territoriales autónomas:
 
-- Preservar,  conservar  y  contribuir  a  la protección del medio ambiente y fauna silvestre  manteniendo  el  equilibrio ecológico y  el  control  de  la  contaminación ambiental.
+- Preservar, conservar y contribuir a la protección del medio ambiente y fauna silvestre manteniendo el equilibrio ecológico y el control de la contaminación ambiental.
+
+- Amtawi wakiyaña uraqita. Kamachi taypiwa churatañatakixa jani ukaxa autonomías ukaruwa churañatakisa qhanañchtarakini.
+
+###### 299 Kamachi.
+
+- Nivel central ukampi entidades territoriales autónomas ukampi chikachata phuqhawinakaxa aknirinakawa:
+
+- Amtawi wakiyaña departamental ukjamaraki municipal chhijllawitaki.
+
+- Utana jawsañani, laq'u jawsasiña ukataxa jayaru yatiyasiñanaka.
+
+- Jach'a markanaka lusa qhananiña.
+
+- Loteria anatawi ukjamaraki mä akatjamata wakt'araki.
+
+- Anqa markanakampi anqa amta estado taypi mayachasiña.
+
+- Jach'a markanakana jakirinakampi municipios ukanakampi jani walinakata amta mayachaña.
+
+- Yänakata qullqi irtäwi gobiernos autónomos ukataki mayjt'ayaña.
+
+- Aknïri phuqhawinakaxa nivel central del estado ukampi entidades territoriales autónomas ukanakampitaki phuqhawiwa:
+
+- Pacha samana ukjamaraki jani jaqimpi jakiri uywanaka aka pachampi chikt'ata uñjaña, waqaychaña ukjamaraki jark'aqaña.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 161
-
 [[END OF PAGE 161]]
 
 [[START OF PAGE 162]]
 
-- Qullasiwi  ukjamaraki  yatiqawinaka apnaqaña.
-
-- Yatxatawi, qhipha uñsta yatxataña.
-
-- Uraqi, quqanaka ukjamaraki ch'uminaka uñjaña.
-
-- Pacha uñch'ukiña.
-
-- Uraqipana lusa qhantawi estado ukana amtaparjama.
-
-- Uma  salsukana  amta  taypi  uñjaña ukjamaraki jach'anchayaña.
-
-- Janwali  jilt'anaka  ukjamaraki  samana ñanqhachirinaka.
-
-- Uma  umaña  amtanaka  ukjamaraki ch'ullqhi yänaka aski wakiyaña.
-
-- Uma qhich'a amatanaka.
-
-- Jach'a larqanaka jark'aqawi.
-
-- Uma  laka  puriña  ukatxa  mistuña apnaqaña.
-
-- Markachirita jaek'aqaña.
-
-- Marka apnaqawi uñjaña.
-
-- Utacha  ukjamaraki  marchiritaki utachawi.
-
-- Yapuchawi, uywachawi, jani jaqimpi jakiri uywa jiwawi ukjamaraki jakjawi.
-
-###### 300 Kamachi.
-
-- Gobiernos  departamentales  autónomos uraqipanakana phuqhawipa:
-
-- Estatuto  tayka  kamachi  thakhirjama kamachina  qhanañchatki  ukjamaru luraña.
-
-- Gestión  del  sistema  de  salud  y educación.
+- Gestión del sistema de salud y educación.
 
 - Ciencia, tecnología e investigación.
 
-- Conservación  de  suelos,  recursos forestales y bosques.
+- Conservación de suelos, recursos forestales y bosques.
 
 - Servicio metereológico.
 
-- Frecuencias  electromagnéticas  en  el ámbito de su jurisdicción y en el marco de las políticas del Estado.
+- Frecuencias electromagnéticas en el ámbito de su jurisdicción y en el marco de las políticas del Estado.
 
-- Promoción  y  administración  de  proyectos hidráulicos y energéticos.
+- Promoción y administración de proyectos hidráulicos y energéticos.
 
 - Residuos industriales y tóxicos.
 
@@ -6568,628 +6519,650 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### Artículo 300.
 
-- Son  competencias  exclusivas  de  los gobiernos departamentales autónomos, en su jurisdicción:
+- Son competencias exclusivas de los gobiernos departamentales autónomos, en su jurisdicción:
 
-- Elaborar  su Estatuto de acuerdo a los procedimientos  establecidos  en  esta Constitución y en la Ley.
+- Elaborar su Estatuto de acuerdo a los procedimientos establecidos en esta Constitución y en la Ley.
+
+- Qullasiwi ukjamaraki yatiqawinaka apnaqaña.
+
+- Yatxatawi, qhipha uñsta yatxataña.
+
+- Uraqi, quqanaka ukjamaraki ch'uminaka uñjaña.
+
+- Pacha uñch'ukiña.
+
+- Uraqipana lusa qhantawi estado ukana amtaparjama.
+
+- Uma salsukana amta taypi uñjaña ukjamaraki jach'anchayaña.
+
+- Janwali jilt'anaka ukjamaraki samana ñanqhachirinaka.
+
+- Uma umaña amtanaka ukjamaraki ch'ullqhi yänaka aski wakiyaña.
+
+- Uma qhich'a amatanaka.
+
+- Jach'a larqanaka jark'aqawi.
+
+- Uma laka puriña ukatxa mistuña apnaqaña.
+
+- Markachirita jark'aqaña.
+
+- Marka apnaqawi uñjaña.
+
+- Utacha ukjamaraki markachiritaki utachawi.
+
+- Yapuchawi, uywachawi, jani jaqimpi jakiri uywa jiwawi ukjamaraki jakjawi.
+
+###### 300 Kamachi.
+
+- Gobiernos departamentales autónomos uraqipanakana phuqhawipa:
+
+- Estatuto tayka kamachi thakhirjama kamachina qhanañchatki ukjamaru luraña.
 
 162
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 162]]
 
 [[START OF PAGE 163]]
 
-- Naynaru  markachirina  sartawipa uraqipana  wakichaña  ukjamaraki jach'anchayaña.
+- Planificar y promover el desarrollo humano en su jurisdicción.
 
-- Jiskt'awi  ukjamaraki  jawsawinaka departamentales phuqhawinakaparjama jawsaña ukjamaraki amtaña.
-
-- Irnaqawi ukjamaraki aski irnaqañanaka amta aka markpachataki utt'ayaña.
-
-- Uraqinaka  yäparu  nivel  central  del municipio  ukampi  indígena  originario campesino  ukampi  mayachasa  luraña ukjamaraki phuqhaña.
-
-- K'añasku  utjawi  sarnaqawi  amta wakiyaña.
-
-- Jach'a  thakhinaka  departamentales ukatxa  nivel  central  ukanaka  tayka kamachirjama  wakichaña  ,  lurayaña ukjamaraki apnaqaña.
-
-- Ferrocarriles departamentales t ayka  kamachirjama  ukjamaraki amtawinakarjama  nivel  central  ukampi chikt'ata lurayaña ukjamaki askchañ.
-
-- Provincia  tuqiru  sariri  k'añaskunakata, umnama  saririrnakata,  ferrocarriles yaqhanakampi departamento taypina.
-
-- Lata  jamch'inaka  jaltaña  ukjamaraki puriña  departamento  ukana  lurayaña ukjamaraki apnaqaña.
-
-- Planificar  y  promover  el  desarrollo humano en su jurisdicción.
-
-- Iniciativa  y  convocatoria  de  consultas y  referendos  departamentales  en  las materias de su competencia
+- Iniciativa y convocatoria de consultas y referendos departamentales en las materias de su competencia
 
 - Promoción del empleo y mejora de las condiciones laborales, en el marco de las políticas nacionales.
 
-- Elaboración  y  ejecución  de  Planes  de Ordenamiento  Territorial  y  de  uso  de suelos, en coordinación con los planes del nivel central del Estado  municipales e indígena originario campesino.
+- Elaboración y ejecución de Planes de Ordenamiento Territorial y de uso de suelos, en coordinación con los planes del nivel central del Estado, municipales e indígena originario campesino.
 
 - Proyectos de generación y transporte de energía en los sistemas aislados.
 
-- Planificación,  diseño,  construcción conservación  y  administración  de carreteras  de  la  red  departamental de  acuerdo  a  las  políticas  estatales, incluyendo las de la Red Fundamental en defecto del nivel central, conforme a las normas establecidas por éste.
+- Planificación, diseño, construcción, conservación y administración de carreteras de la red departamental de acuerdo a las políticas estatales, incluyendo las de la Red Fundamental en defecto del nivel central, conforme a las normas establecidas por éste.
 
-- Construcción  y  mantenimiento  de líneas  férreas  y  ferrocarriles  en  el departamento de acuerdo a las políticas estatales,    interviniendo  en  los  de  las  Red fundamental en coordinación con el nivel central del Estado.
+- Construcción y mantenimiento de líneas férreas y ferrocarriles en el departamento de acuerdo a las políticas estatales, interviniendo en los de la Red Fundamental en coordinación con el nivel central del Estado.
 
-- Transporte  interprovincial  terrestre, fluvial,  ferrocarriles  y  otros  medios  de transporte en el departamento.
+- Transporte interprovincial terrestre, fluvial, ferrocarriles y otros medios de transporte en el departamento.
 
-- Construcción,  mantenimiento  y administración de aeropuertos públicos departamentales.
+- Construcción, mantenimiento y administración de aeropuertos públicos departamentales.
+
+- Nayraru markachirina sartawipa uraqipana wakichaña ukjamaraki jach'anchayaña.
+
+- Jiskt'awi ukjamaraki jawsawinaka departamentales phuqhawinakaparjama jawsaña ukjamaraki amtaña.
+
+- Irnaqawi ukjamaraki aski irnaqañanaka amta aka markpachataki utt'ayaña.
+
+- Uraqinaka yäparu nivel central del municipio ukampi indígena originario campesino ukampi mayachasa luraña ukjamaraki phuqhaña.
+
+- K'añasku utjawi sarnaqawi amta wakiyaña.
+
+- Jach'a thakhinaka departamentales ukatxa nivel central ukanaka tayka kamachirjama wakichaña, lurayaña ukjamaraki apnaqaña.
+
+- Ferrocarriles departamentales tayka kamachirjama ukjamaraki amtawinakarjama nivel central ukampi chikt'ata lurayaña ukjamaraki askichaña.
+
+- Provincia tuqiru sariri k'añaskunakata, umnama saririnakata, ferrocarriles yaqhanakampi departamento taypina.
+
+- Lata jamach'inaka jaltaña ukjamaraki puriña departamento ukana lurayaña ukjamaraki apnaqaña.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 163
-
 [[END OF PAGE 163]]
 
 [[START OF PAGE 164]]
 
-- Departamentales jakthapiwinaka.
-
-- Personalidad  jurídica  jaqi  qutuchawinakaru lurawinaka phuqhañapataki luqtaña.
-
-- Personalidad  jurídica  jaqi  qutuchawinakaru  No  gubernamentales, fundaciones  ukjamaraki  entidades civiles  deparatamento  taypina  jani qamiriptañapataki  lurapxañapaki luqtaña.
-
-- Yapuchawina ukatxa uywachawina jani wat'ayiri usunakata.
-
-- Pata  uraqina  tuqina  lusa  qhantawi amta.
-
-- Kunayma yänaka waljaptayiri departamentos taypina aski manq'anaka waqaychasa amta wakiyaña.
-
-- Anatawinaka pachpa uraqina.
-
-- Jan  jaqina  lurata  nayra  yänaka departamento  taypina  uñanchayaña ukjamaraki uñjaña.
-
-- Sarawinaka,  nayra  yatiyawinaka, l urawinaka,  muspharkaya  lurata, yánaka  k'achachata,  nayra  yänaka, yatxatawi katt'ata ukatxa jani katt'kaya departamento  ukana  amuyuparjama uñanchayaña ukatxa waqaychaña.
-
-- K'acha markanaka, yänaka saraña tayka amta.
-
-- Utachawinaka  departamento  taypina lurawinakaru yanapañataki amta.
-
 - Estadísticas departamentales
 
-- Otorgar  personalidad  jurídica  a organizaciones sociales que desarrollen actividades en el departamento.
+- Otorgar personalidad jurídica a organizaciones sociales que desarrollen actividades en el departamento.
 
-- Otorgar  personalidad  jurídica  a Organizaciones  No  Gubernamentales, fundaciones y entidades civiles sin fines de lucro que desarrollen actividades en el departamento.
+- Otorgar personalidad jurídica a Organizaciones No Gubernamentales, fundaciones y entidades civiles sin fines de lucro que desarrollen actividades en el departamento.
 
-- Servicios  de  sanidad  e  inocuidad agropecuaria.
+- Servicios de sanidad e inocuidad agropecuaria.
 
 - Proyectos de electrificación rural.
 
-- Proyectos  de  fuentes  alternativas  y renovables  de  energía  de  alcance departamental preservando la seguridad alimentaria.
+- Proyectos de fuentes alternativas y renovables de energía de alcance departamental preservando la seguridad alimentaria.
 
 - Deporte en el ámbito de su jurisdicción
 
 - Promoción y conservación del patrimonio natural departamental.
 
-- Promoción  y  conservación  de  cultura,  patrimonio  cultural.  histórico, artístico,  monumental,  arquitectónico, arqueológico, paleontológico, científico, tangible e intangible departamental.
+- Promoción y conservación de cultura, patrimonio cultural, histórico, artístico, monumental, arquitectónico, arqueológico, paleontológico, científico, tangible e intangible departamental.
 
 - Políticas de turismo departamental.
 
-- Proyectos  de  infraestructura  departamental para el apoyo a la producción.
+- Proyectos de infraestructura departamental para el apoyo a la producción.
+
+- Departamentales jakthapiwinaka.
+
+- Personalidad jurídica jaqi qutuchawinakaru lurawinaka phuqhañapataki luqtaña.
+
+- Personalidad jurídica jaqi qutuchawinakaru No gubernamentales, fundaciones ukjamaraki entidades civiles departamento taypina jani qamiriptañapataki lurapxañapataki luqtaña.
+
+- Yapuchawina ukatxa uywachawina jani wat'ayiri usunakata.
+
+- Pata uraqina tuqina lusa qhantawi amta.
+
+- Kunaymana yänaka waljaptayiri departamentos taypina aski manq'anaka waqaychasa amta wakiyaña.
+
+- Anatawinaka pachpa uraqina.
+
+- Jan jaqina lurata nayra yänaka departamento taypina uñanchayaña ukjamaraki uñjaña.
+
+- Sarawinaka, nayra yatiyawinaka, lurawinaka, muspharkaya lurata, yänaka k'achachata, nayra yänaka, yatxatawi katt'ata ukatxa jani katt'kaya departamento ukana amuyuparjama uñanchayaña ukatxa waqaychaña.
+
+- K'acha markanaka, yänaka saraña tayka amta.
+
+- Utachawinaka departamento taypina lurawinakaru yanapañataki amta.
 
 164
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 164]]
 
 [[START OF PAGE 165]]
 
-- Yänakata  qullqi  irtawi  uñstayawi ukjamaraki  apnaqawi  departamento taypina  jani  mayachasa  nivel  central ukampi ukatxa municipios ukanakampi.
+- Creación y administración de impuestos de carácter departamental, cuyos hechos imponibles no sean análogos a los impuestos nacionales o municipales.
 
-- Deparatamento  ukana  yänakata  qullqi irtawi, yänakaru chaniñchaña uñstayaña ukjamaraki apnaqaña.
+- Creación y administración de tasas y contribuciones especiales de carácter departamental.
 
-- Deparatamento  ukana  alxawi,  yänaka lurawi  ukajamaraki  servicios  nayraqataru sarantañataki.
+- Comercio, industria y servicios para el desarrollo y la competitividad en el ámbito departamental.
 
-- Deparatamento  ukana  uraqi  aparaña askiru  tukuyañataki  kunjamatixa  kamachi taypina  qhanañchataki  ukjamarjama ukataxa  apnaqawi  qurpa  uñjaña ukjamaraki irnaqawina jawch'jawi taqina askipataki thakhinchataki ukjamarjama.
+- Expropiación de inmuebles en su jurisdicción por razones de utilidad y necesidad pública departamental, conforme al procedimiento establecido por Ley, así como establecer limitaciones administrativas y de servidumbre a la propiedad, por razones de orden técnico, jurídico y de interés público.
 
-- Amtawinaka l u r a w i ukjamaraki wakt'ayata qullqi luraña, jay saña ukatxa phuqhaña.
+- Elaborar, aprobar y ejecutar sus programas de operaciones y su presupuesto.
 
-- Jaytjata  qullqinaka,  tukjaña  qullqinaka ukjamaraki  maysanchjaña  qullqinaka pachpa uraqi irnaqawina phuqhaña.
+- Fondos fiduciarios, fondos de inversión y mecanismos de transferencia de recursos necesarios e inherentes a los ámbitos de sus competencias.
 
-- Yatiyäwi utanaka ukjamaraki documentación,  documentos  imaña uta, machaqta uñstayata yänaka imaña uta,  yatiyawi qillqata imaña uta ukatxa yaqhanakampi departamento taypina.
-
-- Yänakata  qullqichasiwi  markachiritaki departamentos ukana.
-
-- Creación y administración de impuestos de carácter  departamental,  cuyos  hechos imponibles  no  sean  análogos  a  los impuestos nacionales o municipales .
-
-- Creación  y  administración  de  tasas  y contribuciones  especiales  de  carácter departamental.
-
-- Comercio, industria y servicios para el desarrollo  y  la  competitividad  en  el  ámbito departamental.
-
-- Expropiación  de  inmuebles  en  su jurisdicción  por  razones  de  utilidad y  necesidad  pública  departamental, conforme al procedimiento establecido por  Ley,  así  como  establecer  limitaciones administrativas y de servidumbre a la propiedad,  por  razones  de  orden técnico, jurídico y de interés público.
-
-- Elaborar,  aprobar  y  ejecutar  sus  programas de operaciones y su presupuesto.
-
-- Fondos fiduciarios, fondos de inversión y mecanismos de transferencia  de  recursos necesarios e inherentes a los ámbitos de sus competencias.
-
-- Centros  de  información  y  documentación,  archivos,  bibliotecas,  museos, hemerotecas y otros departamentales.
+- Centros de información y documentación, archivos, bibliotecas, museos, hemerotecas y otros departamentales.
 
 - Empresas públicas departamentales.
+
+- Yänakata qullqi irtawi uñstayawi ukjamaraki apnaqawi departamento taypina jani mayachasa nivel central ukampi ukatxa municipios ukanakampi.
+
+- Departamento ukana yänakata qullqi irtawi, yänakaru chaniñchaña uñstayaña ukjamaraki apnaqaña.
+
+- Departamento ukana alxawi, yänaka lurawi ukjamaraki servicios nayraqataru sarantañataki.
+
+- Departamento ukana uraqi aparaña askiru tukuyañataki kunjamatixa kamachi taypina qhanañchataki ukjamarjama ukataxa apnaqawi qurpa uñjaña ukjamaraki irnaqawina jawch'jawi taqina askipataki thakhinchataki ukjamarjama.
+
+- Amtawinaka lurawi ukjamaraki wakt'ayata qullqi luraña, jay saña ukatxa phuqhaña.
+
+- Jaytjata qullqinaka, tukjaña qullqinaka ukjamaraki maysanchjaña qullqinaka pachpa uraqi irnaqawina phuqhaña.
+
+- Yatiyäwi utanaka ukjamaraki documentación, documentos imaña uta, machaqta uñstayata yänaka imaña uta, yatiyawi qillqata imaña uta ukatxa yaqhanakampi departamento taypina.
+
+- Yänakata qullqichasiwi markachiritaki departamentos ukana.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 165
-
 [[END OF PAGE 165]]
 
 [[START OF PAGE 166]]
 
-- Wawakati,  q'axullakataki,  warmitaki, chuymani  jaqitaki  ukjamaraki  janchita usutataki  amatawinaka  uñañachayaña nayraru mistsuñakati.
+- Promoción y desarrollo de proyectos y políticas para niñez y adolescencia, mujer, adulto mayor y personas con discapacidad.
 
-- Nayraru  lurawi  ukataxa  yapuchawi uywachawi  uñañchayaña  ukjamaraki apnaqaña.
+- Promoción y administración de los servicios para el desarrollo productivo y agropecuario.
 
-- Qullqita  nayararu  sartañataki  ukjamaraki markachirina sartañapataki amatanaka luraña ukjamraki phuqhaña.
+- Elaboración y ejecución de planes de desarrollo económico y social departamental.
 
-- Yänakata  qullqichasiwina,  ch'iyara khusu uma alxawina ukatxa chiqiyawina deparatamento  ukana  jilïri  ukana p'iqinchirimpi chikanchasiña.
+- Participar en empresas de industrialización, distribución y comercialización de Hidrocarburos en el territorio departamental en asociación con las entidades nacionales del sector.
 
-- Uñañchawi  inversión  privada  ukana deparatamento taypina Bolivia markana qullqi amtawiparjama.
+- Promoción de la inversión privada en el departamento en el marco de las políticas económicas nacionales
 
-- Deparatamento  taypina  nayraru  sarña amtawinaka  Bolivia  marka  amtawiparjama chikañchaña.
+- Planificación del desarrollo departamental en concordancia con la planificación nacional
 
-- Qullqi  waxt'ata,  qullqi  churata  uñjaña ukatxa tesoro departamental uksaruwa mäkiptayataxi.
+- Administración de sus recursos por regalías en el marco del presupuesto general de la nación, los que serán transferidos automáticamente al Tesoro Departamental.
 
-- Estatutos  Autonómicos  Departamentales ukanakaxa  phuqhawinakapxa  departamentos uraqpachataki utt'ayasipxaspawa.
-
-- Mäkiptayata  jan  ukaxa  lantintatanaka d e p a r a t a m e n t o u k a n a x a phuqhapxañaparakiwa.
-
-- Promoción  y  desarrollo  de  proyectos y  políticas  para  niñez  y  adolescencia, mujer,  adulto  mayor  y  personas  con discapacidad.
-
-- Promoción  y  administración  de  los servicios para el desarrollo productivo y agropecuario.
-
-- Elaboración  y  ejecución  de  planes de  desarrollo  económico  y  social departamental.
-
-- Participar  en  empresas  de  industrialización, distribución  y  comercialización  de Hidrocarburos en el t e r r i t o r i o departamental  en  asociación  con  las entidades nacionales del sector.
-
-- Promoción de la inversión privada en el departamento en el marco de las  políticas económicas nacionales
-
-- Planificación  del  desarrollo  departamental en  concordancia  con  la  planificación nacional
-
-- Administración  de  sus  recursos  por regalías  en  el  marco  del  presupuesto general  de  la  nación,  los  que  serán transferidos automáticamente al Tesoro Departamental.
-
-- Los Estatutos  Autonómicos  Departamentales podrán a su vez definir como concurrentes algunas  de  sus  competencias  exclusivas, con  otras  entidades  territoriales  del departamento.
+- Los Estatutos Autonómicos Departamentales podrán a su vez definir como concurrentes algunas de sus competencias exclusivas, con otras entidades territoriales del departamento.
 
 - Serán también de ejecución departamental las competencias que le sean transferidas o delegadas.
+
+- Wawataki, q'axullakataki, warmitaki, chuymani jaqitaki ukjamaraki janchita usutataki amtawinaka uñañachayaña nayraru mistsuñataki.
+
+- Nayraru lurawi ukataxa yapuchawi uywachawi uñañchayaña ukjamaraki apnaqaña.
+
+- Qullqita nayraru sartañataki ukjamaraki markachirina sartañapataki amtanaka luraña ukjamaraki phuqhaña.
+
+- Yänakata qullqichasiwina, ch'iyara khusu uma alxawina ukatxa ch'iqiyawina departamento ukana jilïri ukana p'iqinchirimpi chikanchasiña.
+
+- Uñañchawi inversión privada ukana departamento taypina Bolivia markana qullqi amtawiparjama.
+
+- Departamento taypina nayraru sarña amtawinaka Bolivia marka amtawiparjama chikañchaña.
+
+- Qullqi waxt'ata, qullqi churata uñjaña ukatxa tesoro departamental uksaruwa mäkiptayataxi.
+
+- Estatutos Autonómicos Departamentales ukanakaxa phuqhawinakapxa departamentos uraqpachataki utt'ayasipxaspawa.
+
+- Mäkiptayata jan ukaxa lantintatanaka departamento ukanaxa phuqhapxañaparakiwa.
 
 166
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 166]]
 
 [[START OF PAGE 167]]
 
-###### 301  Kamachi.
-Región  ukaxa  autonomía regional  satäxchi  ukaxa  mäkiptayata  jani ukaxa  lantintatanaka  phuqhawinakaxa katuqarakiniwa.
-
-###### 302 Kamachi.
-
-- I .   Gobiernos  municipales  autónomos uraqipanakana phuqhawinakapa:
-
-- Carta  Orgánica  Municipal  tayka  kamachina qhanañchataki ukjamarjama luraña.
-
-- Markachirina nayraru sartañapataki  amta wakichaña ukjamaraki jach'anchaña.
-
-- Jiskt'awinaka ukjamaraki chhijllawinaka amta ukatxa jawsaw municipio taypina phuqhaña.
-
-- Irnaqawi  uñañachawi  ukjamaraki  aski irnaqañanaka  yäqasa  Bolivia  marka amtaparjama.
-
-- Pacha samana ukjamaraki jan jaqimpi jakiri uywanaka aka pachampi chikt'ata uñjaña,  waqaychaña  ukjamaraki jark'aqaña.
-
-- Uraqi yäparu amta wakiyaña nivel central del  estado  ukampi  deparatamentales ukatxa i n d í g e n a ukanakampi chikachaña.
-
-- Municipios taypina thakhinaka pueblos i n dígena  originario  campesinos ukanakampi  chikañchasisa  amtaña, waqaychaña, luraña, apnaqaña.
-
-###### Artículo  301.
-La  región,  una  vez  constituida  como autonomía regional, recibirá las competencias que le sean transferidas o delegadas.
+###### Artículo 301.
+La región, una vez constituida como autonomía regional, recibirá las competencias que le sean transferidas o delegadas.
 
 ###### Artículo 302.
 
-- Son  competencias  exclusivas  de  los gobiernos  municipales  autónomos,  en  su jurisdicción:
+- Son competencias exclusivas de los gobiernos municipales autónomos, en su jurisdicción:
 
-- Elaborar  su  Carta  Orgánica  Municipal de  acuerdo  a  los  procedimientos establecidos  en  esta  Constitución  y  la Ley.
+- Elaborar su Carta Orgánica Municipal de acuerdo a los procedimientos establecidos en esta Constitución y la Ley.
 
-- Planificar  y  promover  el  desarrollo humano en su jurisdicción.
+- Planificar y promover el desarrollo humano en su jurisdicción.
 
 - Iniciativa y convocatoria de consultas y referendos municipales en las materias de su competencia
 
 - Promoción del empleo y mejora de las condiciones laborales en el marco de las políticas nacionales.
 
-- Preservar,  conservar  y  contribuir  a  la protección  del  medio  ambiente  y  recursos naturales,  fauna  silvestre  y  animales domésticos
+- Preservar, conservar y contribuir a la protección del medio ambiente y recursos naturales, fauna silvestre y animales domésticos
 
-- Elaboración de Planes de Ordenamiento Territorial  y  de  uso  de  suelos,  en coordinación  con  los  planes  del  nivel central del Estado, departamentales  e indígenas.
+- Elaboración de Planes de Ordenamiento Territorial y de uso de suelos, en coordinación con los planes del nivel central del Estado, departamentales e indígenas.
 
-- Planificar, diseñar, construir, conservar y  administrar  caminos  vecinales en  coordinación  con  los  pueblos indígena originario campesinos cuando corresponda.
+- Planificar, diseñar, construir, conservar y administrar caminos vecinales en coordinación con los pueblos indígena originario campesinos cuando corresponda.
+
+###### 301 Kamachi.
+Región ukaxa autonomía regional satäxchi ukaxa mäkiptayata jani ukaxa lantintatanaka phuqhawinakaxa katuqarakiniwa.
+
+###### 302 Kamachi.
+
+- Gobiernos municipales autónomos uraqipanakana phuqhawinakapa:
+
+- Carta Orgánica Municipal tayka kamachina qhanañchataki ukjamarjama luraña.
+
+- Markachirina nayraru sartañapataki amta wakichaña ukjamaraki jach'anchaña.
+
+- Jiskt'awinaka ukjamaraki chhijllawinaka amta ukatxa jawsawi municipio taypina phuqhaña.
+
+- Irnaqawi uñañachawi ukjamaraki aski irnaqañanaka yäqasa Bolivia marka amtaparjama.
+
+- Pacha samana ukjamaraki jan jaqimpi jakiri uywanaka aka pachampi chikt'ata uñjaña, waqaychaña ukjamaraki jark'aqaña.
+
+- Uraqi yäparu amta wakiyaña nivel central del estado ukampi departamentales ukatxa indígena ukanakampi chikachaña.
+
+- Municipios taypina thakhinaka pueblos indígena originario campesinos ukanakampi chikañchasisa amtaña, waqaychaña, luraña, apnaqaña.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 167
-
 [[END OF PAGE 167]]
 
 [[START OF PAGE 168]]
 
-- Lata jamch'inaka jaltaña ukatxa puriña l uraña,  waqaychaña  ukjamaraki adnaqaña.
-
-- Municipios  ukana  markachiri  jaqthapiña.
-
-- Gobiernos Municipales utt'ayatanakana thakhinakarjama  marakanakana  uraqi katthapiwi.
-
-- Jak'aqata  uraqinaka  municipios taypina aski amtanakarjama Gobiernos Municipales.
-
-- Kunayma yänaka waljaptayiri municipio taypina  aski  manq'anaka  waqaychasa amta wakiyaña.
-
-- Jaqi  ukjamaraki  uywa  manq'añanaka yäparu lurawi, apawi, alxawi uñjaña.
-
-- Anatawi uraqipana.
-
-- Jan jaqina  lurata  yänaka  municipio  ukana uñañchawi ukatxa waqaychawi.
-
-- Sarawinaka,  nayra  yatiyawinaka, lurawinaka, muspharkaya lurata, yänaka k'achachata, nayra yänaka lurata,  nayara uywanakata ukjamaraki yatxatawi  katt'ata ukatxa  jan  katt'kaya  municipio  taypina ukana  amuyuparjama  uñanchayaña ukatxa waqaychaña.
-
-- K'acha markanaka ukatxa yänaka uñjiri saraña municipio taypina amta.
-
-- Construcción,  mantenimiento  y administración de aeropuertos públicos locales.
+- Construcción, mantenimiento y administración de aeropuertos públicos locales.
 
 - Estadísticas municipales
 
-- 10.Catastro  urbano  en  el  ámbito  de  su jurisdicción  en  conformidad  a  los  preceptos y parámetros técnicos establecidos para los Gobiernos Municipales.
+- Catastro urbano en el ámbito de su jurisdicción en conformidad a los preceptos y parámetros técnicos establecidos para los Gobiernos Municipales.
 
-- Áreas  protegidas  municipales  en conformidad  con  los  parámetros  y condiciones  establecidas  para  los Gobiernos Municipales.
+- Áreas protegidas municipales en conformidad con los parámetros y condiciones establecidas para los Gobiernos Municipales.
 
-- Proyectos  de  fuentes  alternativas  y renovables  de  energía  preservando la  seguridad  alimentaria  de  alcance municipal.
+- Proyectos de fuentes alternativas y renovables de energía preservando la seguridad alimentaria de alcance municipal.
 
-- Controlar  la  calidad  y  sanidad  en  la elaboración,  transporte  y  venta  de productos alimenticios para el consumo humano y animal.
+- Controlar la calidad y sanidad en la elaboración, transporte y venta de productos alimenticios para el consumo humano y animal.
 
 - Deporte en el ámbito de su jurisdicción
 
-- Promoción y  conservación  del  patrimonio natural municipal.
+- Promoción y conservación del patrimonio natural municipal.
 
-- Promoción  y  conservación  de cultura,  patrimonio  cultural.  histórico, artístico,  monumental,  arquitectónico, arqueológico, paleontológico, científico, tangible e intangible municipal.
+- Promoción y conservación de cultura, patrimonio cultural, histórico, artístico, monumental, arquitectónico, arqueológico, paleontológico, científico, tangible e intangible municipal.
 
 - Políticas de turismo local.
+
+- Lata jamch'inaka jaltaña ukatxa puriña luraña, waqaychaña ukjamaraki apnaqaña.
+
+- Municipios ukana markachiri jaqthapiña.
+
+- Gobiernos Municipales utt'ayatanakana thakhinakarjama marakanakana uraqi katthapiwi.
+
+- Jak'aqata uraqinaka municipios taypina aski amtanakarjama Gobiernos Municipales.
+
+- Kunaymana yänaka waljaptayiri municipio taypina aski manq'anaka waqaychasa amta wakiyaña.
+
+- Jaqi ukjamaraki uywa manq'añanaka yäparu lurawi, apawi, alxawi uñjaña.
+
+- Anatawi uraqipana.
+
+- Jan jaqina lurata yänaka municipio ukana uñañchawi ukatxa waqaychawi.
+
+- Sarawinaka, nayra yatiyawinaka, lurawinaka, muspharkaya lurata, yänaka k'achachata, nayra yänaka lurata, nayra uywanakata ukjamaraki yatxatawi katt'ata ukatxa jan katt'kaya municipio taypina ukana amuyuparjama uñanchayaña ukatxa waqaychaña.
+
+- K'acha markanaka ukatxa yänaka uñjiri saraña municipio taypina amta.
 
 168
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 168]]
 
 [[START OF PAGE 169]]
 
-- Marka k'añaskunakata,  k'añasku  jaqiparu sutiyaña,  yäparu  k'añasku  sarnaqaña thakhinaka palla pallanka taypi uñjaña ukjamaraki apnaqaña.
+- Transporte urbano, registro de propiedad automotor, ordenamiento y educación vial, administración y control del tránsito urbano.
 
-- Yänakata  qullqi  irtawi  uñstayawi ukjamaraki apnaqawi municipio taypina jani mayachasa departamental ukampi.
+- Creación y administración de impuestos de carácter municipal, cuyos hechos imponibles no sean análogos a los impuestos nacionales o departamentales.
 
-- Municipio ukana yänakata qullqi irtawi, yänakaru  chaniñchaña  uñstayaña ukjamaraki apnaqaña.
+- Creación y administración de tasas, patentes a la actividad económica y contribuciones especiales de carácter municipal.
 
-- Utachawinaka  municipio  taypina lurawinakaru yanapañataki amta.
+- Proyectos de infraestructura productiva.
 
-- Municipio  ukana  uraqi  aparaña  askiru tukuyañataki kunjamatixa kamchi taypina qhanañchataki  ukjamarjama  ukataxa apnaqawi  qurpa  uñjaña  ukjamaraki irnaqawina jawch'jawi taqina askipataki thakhinchataki ukjamarjama.
+- Expropiación de inmuebles en su jurisdicción por razones de utilidad y necesidad pública municipal, conforme al procedimiento establecido por Ley, así como establecer limitaciones administrativas y de servidumbre a la propiedad, por razones de orden técnico, jurídico y de interés público
 
-- Amtawinaka l u r a w i ukjamaraki wakt'ayata qullqi luraña, jay saña ukatxa phuqhaña.
+- Elaborar, aprobar y ejecutar sus programas de operaciones y su presupuesto.
 
-- Jaytjata  qullqinaka,  tukjaña  qullqinaka ukjamaraki  maysanchjaña  qullqinaka pachpa uraqi irnaqawina phuqhaña.
+- Fondos fiduciarios, fondos de inversión y mecanismos de transferencia de recursos necesarios e inherentes a los ámbitos de sus competencias.
 
-- Municipio  taypina  yatiyäwi  utanaka ukjamaraki documentación, documentos imaña uta, machaqta uñstayata yänaka imaña  uta,  yatiyawi  qillqata  imaña  uta ukatxa yaqhanakampi.
+- Centros de información y documentación, archivos, bibliotecas, museos, hemerotecas y otros municipales.
 
-- Transporte urbano, registro  de  propiedad automotor,  ordenamiento  y  educación vial,  administración y control del tránsito urbano.
+- Marka k'añaskunakata, k'añasku jaqiparu sutiyaña, yäparu k'añasku sarnaqaña thakhinaka palla pallanka taypi uñjaña ukjamaraki apnaqaña.
 
-- Creación  y  administración  de impuestos  de  carácter  municipal, cuyos  hechos  imponibles  no  sean análogos a los impuestos nacionales o departamentales.
+- Yänakata qullqi irtawi uñstayawi ukjamaraki apnaqawi municipio taypina jani mayachasa departamental ukampi.
 
-- 20  Creación  y  administración  de  tasas, patentes  a  la  actividad  económica  y contribuciones  especiales  de  carácter municipal.
+- Municipio ukana yänakata qullqi irtawi, yänakaru chaniñchaña uñstayaña ukjamaraki apnaqaña.
 
-- Proyectos  de  infraestructura  productiva.
+- Utachawinaka municipio taypina lurawinakaru yanapañataki amta.
 
-- Expropiación  de  inmuebles  en  su jurisdicción  por  razones  de  utilidad  y necesidad pública municipal, conforme al  procedimiento  establecido  por  Ley, así  como  establecer  limitaciones administrativas  y  de  servidumbre  a  la propiedad, por razones de orden técnico, jurídico y de interés público
+- Municipio ukana uraqi aparaña askiru tukuyañataki kunjamatixa kamachi taypina qhanañchataki ukjamarjama ukataxa apnaqawi qurpa uñjaña ukjamaraki irnaqawina jawch'jawi taqina askipataki thakhinchataki ukjamarjama.
 
-- Elaborar,  aprobar  y  ejecutar  sus programas    de  operaciones  y  su presupuesto.
+- Amtawinaka lurawi ukjamaraki wakt'ayata qullqi luraña, jay saña ukatxa phuqhaña.
 
-- Fondos fiduciarios, fondos de inversión y mecanismos de transferencia  de  recursos necesarios e inherentes a los ámbitos de sus competencias.
+- Jaytjata qullqinaka, tukjaña qullqinaka ukjamaraki maysanchjaña qullqinaka pachpa uraqi irnaqawina phuqhaña.
 
-- Centros  de  información  y  documentación, archivos, bibliotecas,  museos, hemerotecas y otros municipales.
+- Municipio taypina yatiyäwi utanaka ukjamaraki documentación, documentos imaña uta, machaqta uñstayata yänaka imaña uta, yatiyawi qillqata imaña uta ukatxa yaqhanakampi.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 169
-
 [[END OF PAGE 169]]
 
 [[START OF PAGE 170]]
 
-- Yänakata  qullqichasiwi  markachiritaki departamentos ukana.
-
-- T'unanaka apthapiwi ukjamaraki Bolivia marka amtawirjama askiru tukuyaña.
-
-- Kunaymana  jaqitaki  aski  utanaka municipio taypina waraqaña lurañataki, luraña,  yänaka  uchaña  ukjamaraki waqaychaña.
-
-- Marka  nayararu  kunkanchayawi ukjamaraki jaqinaka uraqina utnuqawi.
-
-- Uraqiwjpana lusa qhantawi.
-
-- Sarawinaka  ukatxa  lurawinaka  municipioukch'pachama uñañchayaña.
-
-- K'uchirt'awi  uñtasiña  ukjamaraki anatawinaka.
-
-- Markana yänakata uñt'ayawi ukjamaraki manq'aña yänaka uñt'ayawi.
-
-- Yaqha  municipios  ukanakampi  amta chikayawi  ch'amañchaña  ukjamaraki qillqantaña.
-
-- J a q i n a k a m p i   ukatxa  qutuchata j aqinakampi  lurawi  phuqhañataki municipio j a c h ' a n c h a ñ a t a k i phuqhawinakarjama  aski  amtaru puriña.
-
-- Guardia Municipal ukankirinakana aski yanapasisa  phuqhapxañapataki  municipio amtanaka  phuqhañataki  utnuqayaña ukjamaraki kamachi luraña.
-
 - Empresas públicas municipales.
 
-- Aseo urbano, manejo y tratamiento de residuos sólidos  en  el  marco  de  la  política del Estado.
+- Aseo urbano, manejo y tratamiento de residuos sólidos en el marco de la política del Estado.
 
 - Diseñar, construir, equipar y mantener la infraestructura y obras de interés público y bienes de dominio municipal, dentro de su jurisdicción territorial.
 
-- Desarrollo  urbano  y  asentamientos humanos urbanos.
+- Desarrollo urbano y asentamientos humanos urbanos.
 
-- Servicio  de  alumbrado  público  de  su jurisdicción.
+- Servicio de alumbrado público de su jurisdicción.
 
-- Promoción de la Cultura y actividades artísticas en  el  ámbito  de  su jurisdicción
+- Promoción de la Cultura y actividades artísticas en el ámbito de su jurisdicción
 
-- Espectáculos  públicos  y  juegos recreativos.
+- Espectáculos públicos y juegos recreativos.
 
 - Publicidad y propaganda urbana.
 
-- Promover  y  suscribir  convenios  de asociación o mancomunidad municipal con otros municipios.
+- Promover y suscribir convenios de asociación o mancomunidad municipal con otros municipios.
 
-- Convenios y/o contratos con personas naturales  o  colectivas,  públicas  y  privadas para el desarrollo y cumplimiento de sus atribuciones, competencias y fines.
+- Convenios y/o contratos con personas naturales o colectivas, públicas y privadas para el desarrollo y cumplimiento de sus atribuciones, competencias y fines.
 
-- Constituir  y  reglamentar  la  Guardia Municipal  para  coadyuvar  el  cumplimiento, ejercicio  y  ejecución  de  sus  competencias así como el cumplimiento de las normas municipales  y  de  sus  resoluciones emitidas.
+- Constituir y reglamentar la Guardia Municipal para coadyuvar el cumplimiento, ejercicio y ejecución de sus competencias así como el cumplimiento de las normas municipales y de sus resoluciones emitidas.
+
+- Yänakata qullqichasiwi markachiritaki departamentos ukana.
+
+- T'unanaka apthapiwi ukjamaraki Bolivia marka amtawirjama askiru tukuyaña.
+
+- Kunaymana jaqitaki aski utanaka municipio taypina waraqaña lurañataki, luraña, yänaka uchaña ukjamaraki waqaychaña.
+
+- Marka nayraru kunkanchayawi ukjamaraki jaqinaka uraqina utnuqawi.
+
+- Uraqipana lusa qhantawi.
+
+- Sarawinaka ukatxa lurawinaka municipio ukch'pachama uñañchayaña.
+
+- K'uchirt'awi uñtasiña ukjamaraki anatawinaka.
+
+- Markana yänakata uñt'ayawi ukjamaraki manq'aña yänaka uñt'ayawi.
+
+- Yaqha municipios ukanakampi amta chikayawi ch'amañchaña ukjamaraki qillqantaña.
+
+- Jaqinakampi ukatxa qutuchata jaqinakampi lurawi phuqhañataki municipio jach'anchañataki phuqhawinakarjama aski amtaru puriña.
+
+- Guardia Municipal ukankirinakana aski yanapasisa phuqhapxañapataki municipio amtanaka phuqhañataki utnuqayaña ukjamaraki kamachi luraña.
 
 170
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 170]]
 
 [[START OF PAGE 171]]
 
+- Políticas que garanticen la defensa de los consumidores y usuarios en el ámbito municipal.
+
+- Sistemas de microriego en coordinación con los pueblos indígena originario campesinos.
+
+- Promoción y desarrollo de proyectos y políticas para niñez y adolescencia, mujer, adulto mayor y personas con discapacidad.
+
+- Servicios básicos así como aprobación las tasas que correspondan en su jurisdicción.
+
+- Áridos y agregados, en coordinación con los pueblos indígena originario campesinos, cuando corresponda.
+
+- Planificación del desarrollo municipal en concordancia con la planificación departamental y nacional.
+
+- Participar en empresas de industrialización, distribución y comercialización de Hidrocarburos en el territorio municipal en asociación con las entidades nacionales del sector.
+
+- Serán también de ejecución municipal las competencias que le sean transferidas o delegadas.
+
 - Kunaymana yänaka alxirinakata ukatxa alasirinakata jark'aqawi amta.
 
-- Qhich'awinaka  pueblos  indígena originario  campesinos ukanakampi amta chikachaña.
+- Qhich'awinaka pueblos indígena originario campesinos ukanakampi amta chikachaña.
 
-- Wawakati,  q'axullakataki,  warmitaki, chuymani  jaqinakataki  ukjamaraki janchita  usutanakataki  amtawinaka uañañchayaña nayraru mistsuñakati.
+- Wawataki, q'axullakataki, warmitaki, chuymani jaqinakataki ukjamaraki janchita usutanakataki amtawinaka uñañchayaña nayraru mistsuñataki.
 
-- Wakiskiri  yänaka  municipio  taypina chaninaka utt'ayaña.
+- Wakiskiri yänaka municipio taypina chaninaka utt'ayaña.
 
-- Uraqininakampi  ukjamaraki  uraqi katurinakampi  pueblos  indígena  originario campesinos  ukanakampi  wakiski  ukja chikañchasiña.
+- Uraqininakampi ukjamaraki uraqi katurinakampi pueblos indígena originario campesinos ukanakampi wakiski ukja chikañchasiña.
 
-- Municipio  nauyraru  sartawi  departamental ukjamaraki Bolivia markampi chikañchasisa amtawi wakichaña.
+- Municipio nayraru sartawi departamental ukjamaraki Bolivia markampi chikañchasisa amtawi wakichaña.
 
-- Yänakata  qullqichasiwina,  ch'iyara khusu uma alxawina ukatxa chiqiyawina municipio ukana jilïri  ukana  p'iqinchirimpi chikanchasiña.
+- Yänakata qullqichasiwina, ch'iyara khusu uma alxawina ukatxa ch'iqiyawina municipio ukana jilïri ukana p'iqinchirimpi chikanchasiña.
 
-- Mäkiptayata  jan  ukaxa  lantintatanaka municipio ukanaxa phuqhapxañaparakiwa.
-
-- Políticas que garanticen la defensa de los  consumidores y usuarios en el  ámbito municipal.
-
-- Sistemas de microriego en coordinación con  los  pueblos  indígena  originario campesinos.
-
-- Promoción  y  desarrollo  de  proyectos y  políticas  para  niñez  y  adolescencia, mujer,  adulto  mayor  y  personas  con discapacidad.
-
-- Servicios básicos así como aprobación las  tasas  que  correspondan  en  su jurisdicción.
-
-- Aridos  y  agregados,  en  coordinación con  los  pueblos  indígena  originario campesinos, cuando corresponda.
-
-- Planificacion  del  desarrollo  municipal en  concordancia  con  la  planificación departamental y nacional.
-
-- Participar  en  empresas  de  industrialización, distribución  y  comercialización  de Hidrocarburos en el  territorio  municipal  en asociación con las entidades nacionales del sector.
-
-- Serán también de ejecución municipal las competencias  que  le  sean  transferidas  o delegadas.
+- Mäkiptayata jan ukaxa lantintatanaka municipio ukanaxa phuqhapxañaparakiwa.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 171
-
 [[END OF PAGE 171]]
 
 [[START OF PAGE 172]]
 
-###### 303 Kamachi.
-
-- Autonomía  indígena  originario  campesina ukana  phuqhawinakapaxa  municipio uka  phuqhawinakapwa  phuqhapxaraki kunjamatixa  saranakaxa  utjki  tayka kamachinsa,  marco  de  autonomías  ukjamaraki descentralización  ukansa  qhanañchataki ukjamaruwa phuqhasirakini.
-
-- Región  indígena  originario  campesinos mäkiptayata  jan  ukaxa  lantintatanaka ukanaxa phuqhapxañaparakiwa.
-
-###### 304 Kamachi.
-
-- Autonomía  indígena  originario  campesina  ukaxa  aknïri  phuqhañanaka phuqhapxañapa:
-
-- Estatuto  uka  phuqhañataki  tayka kamachirjama ukjamaraki kamachirjama luraña.
-
-- Nayraru  sartawi  qullqita,  markachirita, amtawita  ukjamaraki  sarawita  marka uñaqawirjama.
-
-- Akapachankiri  waljapta  yänaka  tayaka kamachirjama  utnuqayaña  ukjamaraki apnaqaña.
-
-- Uraqi yäparu amta wakiyaña nivel central del  estado,  departamental  ukjamaraki municipios ukanakampi chikachaña.
-
-- Lusa  qhantawi  jaya  markanaka uraqpana.
-
-- Thakhinaka  ayllunakana  waqaychaña ukjamaraki apnaqaña.
-
 ###### Artículo 303.
 
-- La autonomía indígena originario  campesina, además  de  sus  competencias,  asumirá las  de  los  municipios,  de  acuerdo  con  un proceso  de  desarrollo  institucional  y  con las  características  culturales  propias  de conformidad  a  la  Constitución  y  a  la  Ley Marco de Autonomías y Descentralización.
+- La autonomía indígena originario campesina, además de sus competencias, asumirá las de los municipios, de acuerdo con un proceso de desarrollo institucional y con las características culturales propias de conformidad a la Constitución y a la Ley Marco de Autonomías y Descentralización.
 
-- La  región  indígena  originario  campesina, asumirá  las  competencias  que  le  sean transferidas o delegadas.
+- La región indígena originario campesina, asumirá las competencias que le sean transferidas o delegadas.
 
 ###### Artículo 304.
 
-- Las  autonomías  indígena  originario campesinas podrán ejercer  las  siguientes competencias exclusivas:
+- Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias exclusivas:
 
 - Elaborar su Estatuto para el ejercicio de su autonomía conforme a la Constitución y la ley.
 
 - Definición y gestión de formas propias de desarrollo económico, social, político, organizativo y cultural, de acuerdo con su identidad y visión de cada pueblo.
 
-- Gestión y administración de los recursos naturales  renovables,  de  acuerdo  a  la Constitución.
+- Gestión y administración de los recursos naturales renovables, de acuerdo a la Constitución.
 
-- Elaboración de Planes de Ordenamiento Territorial  y  de  uso  de  suelos,  en coordinación  con  los  planes  del  nivel central del Estado, departamentales, y municipales.
+- Elaboración de Planes de Ordenamiento Territorial y de uso de suelos, en coordinación con los planes del nivel central del Estado, departamentales, y municipales.
 
-- Electrificación  en  sistemas  aislados dentro de su jurisdicción.
+- Electrificación en sistemas aislados dentro de su jurisdicción.
 
-- Mantenimiento  y  administración  de caminos vecinales y comunales.
+- Mantenimiento y administración de caminos vecinales y comunales.
+
+###### 303 Kamachi.
+
+- Autonomía indígena originario campesina ukana phuqhawinakapaxa municipio uka phuqhawinakapwa phuqhapxaraki kunjamatixa saranakaxa utjki tayka kamachinsa, marco de autonomías ukjamaraki descentralización ukansa qhanañchataki ukjamaruwa phuqhasirakini.
+
+- Región indígena originario campesinos mäkiptayata jan ukaxa lantintatanaka ukanaxa phuqhapxañaparakiwa.
+
+###### 304 Kamachi.
+
+- Autonomía indígena originario campesina ukaxa aknïri phuqhañanaka phuqhapxañapa:
+
+- Estatuto uka phuqhañataki tayka kamachirjama ukjamaraki kamachirjama luraña.
+
+- Nayraru sartawi qullqita, markachirita, amtawita ukjamaraki sarawita marka uñaqawirjama.
+
+- Akapachankiri waljapta yänaka tayka kamachirjama utnuqayaña ukjamaraki apnaqaña.
+
+- Uraqi yäparu amta wakiyaña nivel central del estado, departamental ukjamaraki municipios ukanakampi chikachaña.
+
+- Lusa qhantawi jaya markanaka uraqpana.
+
+- Thakhinaka ayllunakana waqaychaña ukjamaraki apnaqaña.
 
 172
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 172]]
 
 [[START OF PAGE 173]]
 
-- Jak'aqata  uraqinaka  uraqipana  Bolivia markana  amtaparjama  apnaqaña ukjamaraki waqaychaña.
+- Administración y preservación de áreas protegidas en su jurisdicción, en el marco de la política del Estado.
 
-- Juchanchawinaka  ukatxa  jan  walinaka thakhinakarjama  tayka  kamachirjama, kamachirjama  askichawi  taypina phuqhaña.
-
-- Anatawi,  k'uchirawi  ukjamaraki  chuyma qhanarawi.
-
-- Uñt'ata  jan  uñt'ata  uraqpachana. Sarawinakapa,  lurawinakapa,  nayra sawinakata,  iyawsaña  uraqinakata ukjamaraki  machaqata  yatxatata utanakata  jark'aqaña  ukjamaraki jach'anchaña.
-
-- K'acha markanaka ukatxa yänaka uñjiri saraña amta.
-
-- Uraqipana  yänakata  qullqi  irtawi, yänakaru  chaniñchaña  uñstayaña ukjamaraki apnaqaña.
-
-- Yänakata  qullqi  irtatanaka  phuqhawirjama apnaqaña.
-
-- Amtanakapa ukatxa qullqi  wakichatanaka luraña, jay saña ukjamaraki phuqhaña.
-
-- Uraqi  qamawita wakichaña ukjamaraki phuqhaña.
-
-- Utachawi,  markachawi  ukjamaraki markachiri  jalanuqawi  uraqipana saranakarjama.
-
-- y a q h a markanakampi, marka apnaqirinakampi  Katia  privadas ukanakampi amtanaka jach'anchayaña ukjaramaki qillqantaña.
-
-- Administración y preservación de áreas protegidas en su jurisdicción,  en  el  marco de la política del Estado.
-
-- Ejercicio  de  la  jurisdicción  indígena originaria  campesina  para  la  aplicación  de justicia  y  resolución  de  conflictos  a  través de normas y procedimientos propios de acuerdo a la Constitución y la ley.
+- Ejercicio de la jurisdicción indígena originaria campesina para la aplicación de justicia y resolución de conflictos a través de normas y procedimientos propios de acuerdo a la Constitución y la ley.
 
 - Deporte, esparcimiento y recreación.
 
-- Patrimonio cultural, tangible e intangible. Resguardo,  fomento  y  promoción  de sus  culturas,  arte,  identidad,  centros arqueológicos,  lugares  religiosos, culturales  y museos.
+- Patrimonio cultural, tangible e intangible. Resguardo, fomento y promoción de sus culturas, arte, identidad, centros arqueológicos, lugares religiosos, culturales y museos.
 
 - Políticas de Turismo.
 
-- Crear  y  administrar  tasas,  patentes  y contribuciones especiales en el ámbito de su jurisdicción de acuerdo a Ley.
+- Crear y administrar tasas, patentes y contribuciones especiales en el ámbito de su jurisdicción de acuerdo a Ley.
 
-- Administrar  los  impuestos  de  su competencia  en  el  ámbito  de  su jurisdicción.
+- Administrar los impuestos de su competencia en el ámbito de su jurisdicción.
 
-- Elaborar,  aprobar  y  ejecutara  sus programas  de  operaciones  y  su presupuesto.
+- Elaborar, aprobar y ejecutar sus programas de operaciones y su presupuesto.
 
 - Planificación y gestión de la ocupación territorial.
 
-- Vivienda,  urbanismo  y  redistribución poblacional  conforme  a  sus  prácticas culturales  en  el  ámbito  de  su jurisdicción.
+- Vivienda, urbanismo y redistribución poblacional conforme a sus prácticas culturales en el ámbito de su jurisdicción.
 
-- Promover  y  suscribir  acuerdos  de cooperación  con  otros  pueblos  y entidades públicas y privadas.
+- Promover y suscribir acuerdos de cooperación con otros pueblos y entidades públicas y privadas.
+
+- Jak'aqata uraqinaka uraqipana Bolivia markana amtaparjama apnaqaña ukjamaraki waqaychaña.
+
+- Juchanchawinaka ukatxa jan walinaka thakhinakarjama tayka kamachirjama, kamachirjama askichawi taypina phuqhaña.
+
+- Anatawi, k'uchirawi ukjamaraki chuyma qhanarawi.
+
+- Uñt'ata jan uñt'ata uraqpachana. Sarawinakapa, lurawinakapa, nayra sawinakata, iyawsaña uraqinakata ukjamaraki machaqata yatxatata utanakata jark'aqaña ukjamaraki jach'anchaña.
+
+- K'acha markanaka ukatxa yänaka uñjiri saraña amta.
+
+- Uraqipana yänakata qullqi irtawi, yänakaru chaniñchaña uñstayaña ukjamaraki apnaqaña.
+
+- Yänakata qullqi irtatanaka phuqhawirjama apnaqaña.
+
+- Amtanakapa ukatxa qullqi wakichatanaka luraña, jay saña ukjamaraki phuqhaña.
+
+- Uraqi qamawita wakichaña ukjamaraki phuqhaña.
+
+- Utachawi, markachawi ukjamaraki markachiri jalanuqawi uraqipana saranakarjama.
+
+- Yaqha markanakampi, marka apnaqirinakampi entidades privadas ukanakampi amtanaka jach'anchayaña ukjamaraki qillqantaña.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 173
-
 [[END OF PAGE 173]]
 
 [[START OF PAGE 174]]
 
-- Qhich'anakapa  askinjama  uñjaña ukjamaraki apnaqaña.
-
-- Aski  lurawinaka  jach'anchaña  nayraru sartayaña.
-
-- Jaqitaki  aski  utachawinaka  uraqipana lurayaña, askinjama uñjaña ukjamaraki apnaqaña.
-
-- Jiskt'awi  thakhinaka  jan  walt'awina lurañataki,  phuqhañataki  ukjamaraki apnaqañataki  chikañchasiña,  nayraru sartayaña ukjamaraki luraña.
-
-- Kunaymana  jiwaki  uñtayiri  yänakata s a r a w i n a k a p a r j a m a , q h i p h a yatxatawinakarjama waqaychawi.
-
-- Kunaymana instituciones utt'yatanakapa sarnaqawinakaparjama  ukjamaraki thakhinchawinakaparjama  nayraru sartawi ukjamaraki phuqhawi.
-
-- Autonomías indígena originario campesinas ukanakaxa  janiwa  aknïri  phuqhawinakxa phuqhapkaspati:
-
-- Anqa  markanakampi  chikachasiwi amtanakaxa utjki ukjamarjama.
-
-- Jani  walt'awina  jay  saña  ukana chikañchasiña ukjamaraki uñaqaña.
-
-- Qutu  amuyunakata, jakirinakana jathata, ch'uxaña jisk'a quqanakampi qullasiwita ukjamaraki  germoplasma  ukanakata kamachirjama  jark'aqaña  ukjamaraki uñjasa qillqaqaña.
-
 - Mantenimiento y administración de sus sistemas de microriego.
 
-- Fomento  y  desarrollo  de  su  vocación productiva.
+- Fomento y desarrollo de su vocación productiva.
 
-- Construcción,  mantenimiento  y administración  de  la  infraestructura necesaria  para  el  desarrollo  en  su jurisdicción.
+- Construcción, mantenimiento y administración de la infraestructura necesaria para el desarrollo en su jurisdicción.
 
-- Participar,  desarrollar  y  ejecutar  los mecanismos  de  consulta  previa,  libre e  informada  relativos  a  la  aplicación de  medidas  legislativas,  ejecutivas  y administrativas que los afecten.
+- Participar, desarrollar y ejecutar los mecanismos de consulta previa, libre e informada relativos a la aplicación de medidas legislativas, ejecutivas y administrativas que los afecten.
 
-- Preservación  del  hábitat  y  el  paisaje, conforme  a  sus  principios,  normas y  prácticas  culturales,  tecnológicas, espaciales e históricas.
+- Preservación del hábitat y el paisaje, conforme a sus principios, normas y prácticas culturales, tecnológicas, espaciales e históricas.
 
-- Desarrollo  y  ejercicio  de  sus  instituciones democráticas conforme a sus normas y procedimientos propios.
+- Desarrollo y ejercicio de sus instituciones democráticas conforme a sus normas y procedimientos propios.
 
-- Las  autonomías  indígena  originario campesinas podrán ejercer  las  siguientes competencias compartidas:
+- Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias compartidas:
 
-- Intercambios  internacionales  en  el marco de la política exterior del Estado.
+- Intercambios internacionales en el marco de la política exterior del Estado.
 
-- Participación  y  control  en  el  aprovechamiento de áridos.
+- Participación y control en el aprovechamiento de áridos.
 
-- Resguardo  y  registro  de  los  derechos intelectuales  colectivos,  referidos  a conocimientos  de  recursos  genéticos, medicina tradicional y germoplasma, de acuerdo con la ley.
+- Resguardo y registro de los derechos intelectuales colectivos, referidos a conocimientos de recursos genéticos, medicina tradicional y germoplasma, de acuerdo con la ley.
+
+- Qhich'anakapa askinjama uñjaña ukjamaraki apnaqaña.
+
+- Aski lurawinaka jach'anchaña nayraru sartayaña.
+
+- Jaqitaki aski utachawinaka uraqipana lurayaña, askinjama uñjaña ukjamaraki apnaqaña.
+
+- Jiskt'awi thakhinaka jan walt'awina lurañataki, phuqhañataki ukjamaraki apnaqañataki chikañchasiña, nayraru sartayaña ukjamaraki luraña.
+
+- Kunaymana jiwaki uñtayiri yänakata saranakaparjama, qhipha yatxatawinakarjama waqaychawi.
+
+- Kunaymana instituciones utt'ayatanakapa sarnaqawinakaparjama ukjamaraki thakhinchawinakaparjama nayraru sartawi ukjamaraki phuqhawi.
+
+- Autonomías indígena originario campesinas ukanakaxa janiwa aknïri phuqhawinakxa phuqhapkaspati:
+
+- Anqa markanakampi chikachasiwi amtanakaxa utjki ukjamarjama.
+
+- Jani walt'awina jay saña ukana chikañchasiña ukjamaraki uñaqaña.
+
+- Qutu amuyunakata, jakirinakana jathata, ch'uxaña jisk'a quqanakampi qullasiwita ukjamaraki germoplasma ukanakata kamachirjama jark'aqaña ukjamaraki uñjasa qillqaqaña.
 
 174
 
 MACHAQA TAYKA KAMACHI
-
 [[END OF PAGE 174]]
 
 [[START OF PAGE 175]]
 
-- Anqata  mantaniri  nayraru  satañataki sarawina,  pacha  samanana  ukatxa aski yänaka lurawi phuqhiri qutunakaru uñch'ukiña ukjamaraki thakhiñchaña.
+- Control y regulación a las instituciones y organizaciones externas que desarrollen actividades en su jurisdicción, inherentes al desarrollo de su institucionalidad, cultura, medio ambiente y patrimonio natural.
 
-- Atonomias  indígen  ariginario  campeinas aknïri phuqhawinakwa phuqhapxarakispa.
-
-- Qullasiwi  amta  uraqipana  qutuchaña, wakichaña ukjamaraki luraña.
-
-- Tayka amtanaka yatichawina, yatxatawina,  machaqa  yatxatawina, kamachinaka  uñakipatarjama  Katia apnaqawirjama  qutuchaña,  waichaña ukjamaraki phuqhaña.
-
-- Jach'a  quqanaka,  akapachana jakirinakata ukatxa aka pacha samanata waqaychaña.
-
-- Qhich'awinaka,  umanaka,  uma  jalsunaka lusa  qhantayirita  Bolivia  marka  amtarjama pachpa uraqina phuqhaña.
-
-- Qhich'awinaka luraña.
-
-- Ayllunakana thakhinaka luraña.
-
-- Aski  Irnaqawinaka  phuqhaña  utanaka utachaña.
-
-- Yapuchawiru  ukatxa  uywachawiru u ñ a ñ c h a y a ñ a u k j a m a r a k i jach'anchyaña.
-
-- Ch'iyar khusu uma salsuwita ukjamaraki qhuyanakata  uraqipana  uñch'ukiña ukatxa jak'ata lurawi uñch'ukiña.
-
-- Control y regulación a las instituciones y organizaciones externas que desarrollen actividades en su  jurisdicción,  inherentes al  desarrollo  de  su  institucionalidad, cultura,  medio  ambiente  y  patrimonio natural.
-
-- Las  autonomías  indígena  originario campesinas podrán ejercer  las  siguientes competencias concurrentes:
+- Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias concurrentes:
 
 - Organización, planificación y ejecución de políticas de salud en su jurisdicción.
 
-- Organización, planificación y ejecución de  planes,  programas  y  proyectos de  educación,  ciencia,  tecnología e  investigación,  en  el  marco  de  la legislación  del Estado.
+- Organización, planificación y ejecución de planes, programas y proyectos de educación, ciencia, tecnología e investigación, en el marco de la legislación del Estado.
 
-- Conservación  de  recursos  forestales, biodiversidad y  medio ambiente
+- Conservación de recursos forestales, biodiversidad y medio ambiente
 
-- Sistemas  de  riego,  recursos  hídricos, fuentes de agua y energía,  en el marco de la política del Estado, al interior de su jurisdicción.
+- Sistemas de riego, recursos hídricos, fuentes de agua y energía, en el marco de la política del Estado, al interior de su jurisdicción.
 
-- Construcción  de  sistemas  de  microriego.
+- Construcción de sistemas de microriego.
 
-- Construcción  de  caminos  vecinales  y comunales.
+- Construcción de caminos vecinales y comunales.
 
-- Promoción  de  la  construcción  de infraestructuras productivas.
+- Promoción de la construcción de infraestructuras productivas.
 
 - Promoción y fomento a la agricultura y ganadería.
 
 - Control y monitoreo socioambiental a las actividades hidrocarburíferas y mineras que se desarrollan en su jurisdicción.
 
+- Anqata mantaniri nayraru satañataki sarawina, pacha samanana ukatxa aski yänaka lurawi phuqhiri qutunakaru uñch'ukiña ukjamaraki thakhiñchaña.
+
+- Autonomías indígena originario campesinas aknïri phuqhawinakwa phuqhapxarakispa.
+
+- Qullasiwi amta uraqipana qutuchaña, wakichaña ukjamaraki luraña.
+
+- Tayka amtanaka yatichawina, yatxatawina, machaqa yatxatawina, kamachinaka uñakipatarjama Estado apnaqawirjama qutuchaña, wakichaña ukjamaraki phuqhaña.
+
+- Jach'a quqanaka, akapachana jakirinakata ukatxa aka pacha samanata waqaychaña.
+
+- Qhich'awinaka, umanaka, uma jalsunaka lusa qhantayirita Bolivia marka amtarjama pachpa uraqina phuqhaña.
+
+- Qhich'awinaka luraña.
+
+- Ayllunakana thakhinaka luraña.
+
+- Aski Irnaqawinaka phuqhaña utanaka utachaña.
+
+- Yapuchawiru ukatxa uywachawiru uñañchayaña ukjamaraki jach'anchaña.
+
+- Ch'iyar khusu uma salsuwita ukjamaraki qhuyanakata uraqipana uñch'ukiña ukatxa jak'ata lurawi uñch'ukiña.
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 175
-
 [[END OF PAGE 175]]
 
 [[START OF PAGE 176]]
@@ -7253,7 +7226,7 @@ Estado ukaxa qullqi qutuchawi taqinina  uñt'ani,  yäqani,  jak'aqani  ukatxa j
 
 - Estado  ukaxa  iniciativa  privada  ukaruxa markan qullqita nayraru sartawitaki ukatxa ch'amanchañataki  uñt'iwa,  yäqiwa  ukatxa jark'aqarakiwa.
 
-- Qullqichasirinakaruxa j a y satawa irnaqawinakampi  phuqhapxañapataki ukampirusa kamchi taypiwa uñjatarakini.
+- Qullqichasirinakaruxa jay satawa irnaqawinakampi phuqhapxañapataki ukampirusa kamchi taypiwa uñjatarakini.
 
 - La  economía  plural  articula  las  diferentes formas  de  organización  económica  sobre los  principios  de  complementariedad, reciprocidad,  solidaridad,  redistribución, igualdad,  seguridad  jurídica,  sustentabilidad, equilibrio,  justicia  y  transparencia.  La  economía social  y  comunitaria  complementará  el  interés individual con el vivir bien colectivo.
 
@@ -7283,7 +7256,7 @@ Qullqi qutu apnaqawixa estado ukanxa  qullqichasiri  ukjamaraki  entidades estat
 
 - Markachirina  sutipxaru  yánakapata  irtata walja  yänaka  lurawita  industrialización ukanaka apnaqaña.
 
-- Jaqitaki  aski  yänaka  umata,  q'añu  uma sarañata  qullqichasiwi  qutunakampi, comunitarias,  cooperativas  o  mixtas ukanaka apnaqaña.aski yánaka jaqinakataki ukjamaraki
+- Jaqitaki aski yänaka umata, q'añu uma sarañata qullqichasiwi qutunakampi, comunitarias, cooperativas o mixtas ukanaka apnaqaña.
 
 - Aski  yänaka  jaqinakataki  ukjamaraki mayt'añanaka achuqayaña.
 
@@ -7332,7 +7305,7 @@ MACHAQA TAYKA KAMACHI
 
 - Estado  ukawa  qullqita  nayararu sartawi ukjamaraki wakichawi p'iqt'asa phuqharakini.
 
-- Aka  pachankiri yänakaxa  taqi markachirinkiwa  ukatxa  estado ukawa  apnaqarakini.  Sapa  jaqina ukjamaraki  qutu  jaqina  aka  uraqina yänakapaxayáqata  ukatxa  jay  satawa. Yapuchawi  ukjamaraki  uywachawixa ukatxa  jan  jaqimpi  jakiri  uywanaka  jiwayaña jani  ukaxa  katjaña  kunjamatixa  tayka kamchina qhanañchataki pusïri t'aqana ukjamaru lurañawa ukampirusa jark'ata uywanakaxa janiwa jiwayañakiti.
+- Aka pachankiri yänakaxa taqi markachirinkiwa ukatxa estado ukawa apnaqarakini. Sapa jaqina ukjamaraki qutu jaqina aka uraqina yänakapaxa yáqata ukatxa jay satawa. Yapuchawi ukjamaraki uywachawixa ukatxa jan jaqimpi jakiri uywanaka jiwayaña jani ukaxa katjaña kunjamatixa tayka kamchina qhanañchataki pusïri t'aqana ukjamaru lurañawa ukampirusa jark'ata uywanakaxa janiwa jiwayañakiti.
 
 - Kunaymana  aka  pachankiri  yänakata lurañaxa jani  anqa  markanakata  materias primas  satanakaxa  mantaniñapataki nayrankaña ukatxa aski qullqi jiqxatawi nayraru  pacha  mamampi  chikt'asa jiqxataña.
 
@@ -7368,7 +7341,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Kunaymana  qullqita  qutuchasitanakaxa kunaymana  aski  irnaqawi  phuqhapxani ukjamaraki khuskhachañataki ukatxa pisina jakañata mistuñataki yanapapxañapa.
 
-- Kunaymana  qullqita  qutuchasitanakaxa aka pacha samana j a r k ' a q a ñ a phuqhawinipxiwa.
+- Kunaymana qullqita qutuchasitanakaxa aka pacha samana jark'aqaña phuqhawinipxiwa.
 
 ###### 313  Kamachi.
 Pisina  jakañata  mistuñataki ukatxa  jisk'achawita  mistuñakatixa  ukjamaraki qullqi tuqitxa aski jakawi jiqxatañatakixa Bolivia markana qullita qutuchanakaxa aknïri amtanaka phuqhapxañapa:
@@ -7383,7 +7356,7 @@ Pisina  jakañata  mistuñataki ukatxa  jisk'achawita  mistuñakatixa  ukjamarak
 
 - Nayraru  sartawi  aka  pachana  yänaka aski yänakaru tukuyasa.
 
-- Taqina qullqipata  ukjamaraki  comunitario waljachawina t a q i ch'amampi chikañchasiña.
+- Taqina qullqipata ukjamaraki comunitario waljachawina taqi ch'amampi chikañchasiña.
 
 ###### Artículo 312.
 
@@ -7430,7 +7403,7 @@ Mayni sapana apnaqawi ukatxa juk'anina  apnaqawixa  qutu  jan  ukaxa  sapa marka
 ###### 316 Kamachi.
 Estado ukana phuqhawipaxa qullqi taypinxa aknïrinakawa.
 
-- Qullqi wakichawi ukjamaraki markataki markachirinakana chikañchasiña  ukatxa  jiskt'awi  taypi kunkanchayaña.  Kamachi  taypiwa estado  ukataki  phuqhata  wakichawixa qhanañchatani  ukaruxa  entidades territorialeschikañchayarakini.
+- Qullqi wakichawi ukjamaraki markataki markachirinakana chikañchasiña ukatxa jiskt'awi taypi kunkanchayaña. Kamachi taypiwa estado ukataki phuqhata wakichawixa qhanañchatani ukaruxa entidades territoriales chikañchayarakini.
 
 ###### Artículo  314.
 Se  prohíbe  el  monopolio  y  el oligopolio privado, así como cualquier otra forma de asociación o acuerdo de personas naturales o  jurídicas  privadas,  bolivianas  o  extranjeras, que pretendan el control  y  la  exclusividad  en la  producción  y  comercialización  de  bienes  y servicios.
@@ -7577,7 +7550,7 @@ MACHAQA TAYKA KAMACHI
 
 - Taqi  anqa  markata  qullqi  tukjawixa kunjamatixa  kunjamatixa  kamachinakaxa utt'ayataki  ukatxa  p'iqinchirinakasa  utt'ayataki ukjarjamawa  wakisirakini  ukatxa  janiwa  khitisa sayt'aykaspati  ukatxa  janirakiwa  diplomáticos ukanakaru mayisiri sarkaspati.
 
-- Anqa markanakampi u k a t x a qullqichasirinakampisa  qullqi  irtawi chikachasiwinxa  jani  alkatasa  purapata yäqasisawa  lurasirakini.  Janiwa  anqa markata  qullqichasirinakaruxa  jila  qullqixa churatakasati  akana  markachirinakati utt'ayatarjamaxa.
+- Anqa markanakampi ukatxa qullqichasirinakampisa qullqi irtawi chikachasiwinxa jani alkatasa purapata yäqasisawa lurasirakini. Janiwa anqa markata qullqichasirinakaruxa jila qullqixa churatakasati akana markachirinakati utt'ayatarjamaxa.
 
 - Estado ukaxa qullqi irtawi amtawinxa janiwa anqa markanakata qullqi imaña utanakaruxa, amtanakaparusa,  walja  qullqininakarusa alkatkaniti janirakiwa jay siskaniti.
 
@@ -7611,7 +7584,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 186]]
 
-- Qullqi  tukjawi  ukatxa  markataki  qullqi tukjawixa thakhinakarjamwa markachirimpi chikt'ata  ukatxa  yatxatatanakampi uñakipasaukjamaraki  marka  p'iqinchirimpi phuqhasirakini.  Juk'ampisa  yatiqawina, qullasiwina,  manq'awina,  utachawina  ukatxa nayraru lurawimpi sarantawina ukanakataki churasirakini.
+- Qullqi tukjawi ukatxa markataki qullqi tukjawixa thakhinakarjamwa markachirimpi chikt'ata ukatxa yatxatatanakampi uñakipasa ukjamaraki marka p'iqinchirimpi phuqhasirakini. Juk'ampisa yatiqawina, qullasiwina, manq'awina, utachawina ukatxa nayraru lurawimpi sarantawina ukanakataki churasirakini.
 
 - Marka  apnaqirinakaxa  pä  phaxsi  janira mara  tukuypanawa  Asamblea  Legislativa Plurinacional  ukaru  qullqi  tukjawi  amta kamachi kunaymana entidades del estado ukataki  jutïri  marataki  jay  satañapataki luqtapxi.
 
@@ -7627,7 +7600,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - El  Órgano  Ejecutivo  presentará  a  la  Asamblea Legislativa  Plurinacional,  al  menos  dos meses antes de la finalización de cada año fiscal,  el  proyecto  de  ley  del  Presupuesto General  para  la  siguiente  gestión  anual, que incluirá a todas las entidades del sector público.
 
-- Todo proyecto de ley que implique gastos o inversiones  para  el  Estado  deberá  establecer la  fuente  de  los  recursos,  la  manera  de cubrirlos  y  la  forma  de  su  inversión.  Si  el pro-yecto  no  fue  de  iniciativa  del  Órgano Ejecutivo,  requerirá  de  consulta  previa  a éste.
+- Todo proyecto de ley que implique gastos o inversiones para el Estado deberá establecer la fuente de los recursos, la manera de cubrirlos y la forma de su inversión. Si el proyecto no fue de iniciativa del Órgano Ejecutivo, requerirá de consulta previa a éste.
 
 - El Órgano Ejecutivo, a través del Ministerio del ramo, tendrá acceso directo a la información del gasto presupuestado y ejecutado de todo el sector público. El acceso incluirá la información del gasto presupuestado y ejecutado de las Fuerzas Armadas y la Policía Boliviana.
 
@@ -7647,7 +7620,7 @@ MACHAQA TAYKA KAMACHI
 
 ###### 323 Kamachi.
 
-- Fiscal amtaxa akjama amtawinakarjamawa saranti  askiqullqichawi,  kikipa,  nayraru sartawi,  purapata  chikañchasa,  qhanañchasa, taqinitaki, uñch'ukiwi, jasa apnaqawi, walja qullqi apthapiwi.
+- Fiscal amtaxa akjama amtawinakarjamawa saranti aski qullqichawi, kikipa, nayraru sartawi, purapata chikañchasa, qhanañchasa, taqinitaki, uñch'ukiwi, jasa apnaqawi, walja qullqi apthapiwi.
 
 - Yänakata  qullqi  markpachata  irtañaxa Asamblea Legislativa Plurinacional tuqitwa jay  satarakini.  Yänakata  qullqi  irtañaxa departamentos  jani  ukaxa  municipios ukanakakchi  ukjaxa  concejos  jani  ukaxa asambleas taypiwa p'iqinchirinakana amta luqtataparjama jay satarakini.
 
@@ -7681,14 +7654,14 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Janiwa  qullqi  irtañaxa  aski  lurawinaka, payllawinakata,  nayra  lurawinakata  yaqha uraqinakata  mayiña  uñstayaytakaspati inasa  markachirina  irnaqawipata  jani ukaxa qullqichasirinakata anqa markata payllawixa  wakischispa.  Aka  jani phuqhawixa chani utt'ayañana,  alxasiwita qullqi  irtañata  ukxa  jani  qhanañchata yänakataki ukanakatakirakiwa.
 
-- Janiwa  qullqi  irtañaxa  sarnaqañataki ukatxa j a q i n a k a ut'ayañataki, yänakata, lurawinakata pachpa uraqina uñstayaytakaspati  impuestos  satxa uñstaskaspati  obstáculos  sata  libre circulación  ukjamaraki  establecimiento sata jaqinakata, utjawinaka, lurawinaka jan ukaxa jurisdicción territorial taypina thuljtayiri.  Aka  jani  phuqhawixa  chani utt'ayañana,  alxasiwita  qullqi  irtañata ukxa  jani  qhanañchata  yänakataki ukanakatakirakiwa.
+- Janiwa qullqi irtañaxa sarnaqañataki ukatxa jaqinaka ut'ayañataki, yänakata, lurawinakata pachpa uraqina uñstayaytakaspati impuestos satxa uñstaskaspati obstáculos sata libre circulación ukjamaraki establecimiento sata jaqinakata, utjawinaka, lurawinaka jan ukaxa jurisdicción territorial taypina thuljtayiri. Aka jani phuqhawixa chani utt'ayañana, alxasiwita qullqi irtañata ukxa jani qhanañchata yänakataki ukanakatakirakiwa.
 
-- Janiwa  qullqi  irtañaxa  anqankirinakatakiki uñstayaytakaspati.kaspati  privilegios sata residentes jisk'achawiru uñjatanxa sarayaspa. Aka jani phuqhawixa chani utt'ayañana,  alxasiwita  qullqi  irtañata ukxa  jani  qhanañchata  yänakataki ukanakatakirakiwa.
+- Janiwa qullqi irtañaxa anqankirinakatakiki uñstayaytakaspati privilegios sata residentes jisk'achawiru uñjatanxa sarayaspa. Aka jani phuqhawixa chani utt'ayañana, alxasiwita qullqi irtañata ukxa jani qhanañchata yänakataki ukanakatakirakiwa.
 
 ###### 324  Kamachi.
 Estado  ukaruxa  janiwa  kunaymana manunakata  taqi  jani  wali  lurawinakata juchapakaspati.
 
-- No  podrán  crear  impuestos  cuyos hechos  imponibles  sean  análogos  a los  correspondientes  a  los  impuestos nacionales u otros i mpuestos departamentales  o  municipales existentes,  independientemente  del dominio tributario al que pertenezcan.
+- No podrán crear impuestos cuyos hechos imponibles sean análogos a los correspondientes a los impuestos nacionales u otros impuestos departamentales o municipales existentes, independientemente del dominio tributario al que pertenezcan.
 
 - No podrán crear impuestos que graven bienes, actividades rentas o patrimonios localizados  fuera  de  su  jurisdicción territorial,  salvo  las  rentas  generadas por  sus  ciudadanos o empresas en el exterior  del  país.  Esta  prohibición  se hace extensiva a las tasas, patentes y contribuciones especiales.
 
@@ -7708,7 +7681,7 @@ MACHAQA TAYKA KAMACHI
 [[START OF PAGE 189]]
 
 ###### 325 Kamachi.
-Jani waliru qullqi tukuyawi, jani wakiskiri arsuwi, atintasiwi, jamasata apnaqaña, sallqjawi,  qullqi  maytjawimpiamiriptaña  yaqha  jani wali qullqi taypi lurañanakaxa kamachi taypiwa juchañchatani.
+Jani waliru qullqi tukuyawi, jani wakiskiri arsuwi, atintasiwi, jamasata apnaqaña, sallqjawi, qullqi maytjawimpi amiriptaña yaqha jani wali qullqi taypi lurañanakaxa kamachi taypiwa juchañchatani.
 
 ##### PAYÏRI T'AQXTA QULLQI WAKICHAÑA AMTA
 
@@ -7809,7 +7782,7 @@ MACHAQA TAYKA KAMACHI
 
 - Estado  ukaxa  qullqi  tukjawi  amta  taypixa micro y pequeña empresa, k'acha yänaka luririnakaru,  alxasirinakaru,  jaqitaki  aski luririnakaru, comunitarias qutuchatanakaru ukjamaraki cooperativa s luririnakaru mäki yanapani.
 
-- Estado  ukaxa  entidades  finacieros no  bancarias  sataruwa  askiqullqimpi markachirinakru y a n a p i r i r u w a jach'anchani.
+- Estado ukaxa entidades finacieros no bancarias sataruwa aski qullqimpi markachirinakru yanapiriruwa jach'anchani.
 
 - Bolivia  markana  qullqi  imaña  utana entidades,  instituciones  publicas  ukaxa janiwa  entidades  bancarias  privadas ukanakarura  jay  sapkaniti.  Akanakaxa  fondo  de reestructuración financiera ukaruxa munasa jani  munasa  churapxarakini  ukajamraki ch'amachapxarakini  ukax  insolvencia financiera ukataki aptataxarakiniwa.
 
@@ -7957,7 +7930,7 @@ MACHAQA TAYKA KAMACHI
 
 - Estado ukana paylawinakapaxa nacionales, departamentales, municipales, e indígena  originaria  campesinos  ukjamaru t'aqanuqatawa ukatxa  qullqi  imawiparjamawa tukjasirakini.
 
-- Kamachi  taypiwa  qullqi  mantawinakatxa nacionales,  departamentales,  municipales e i n d í g e n a   originaria  campesinos t'aqanuqarakini.
+- Kamachi taypiwa qullqi mantawinakatxa nacionales, departamentales, municipales e indígena originaria campesinos t'aqanuqarakini.
 
 - Qullqi  irtatanaka  departamentales, municipales,  autonomía  indígena  orinario acampesinas,  judiciales,  universitarios ukanakaxa  janiwa  Tesoro  Nacional  ukaru apthapitakaniti.
 
@@ -8063,7 +8036,7 @@ Aka  pacha  apnaqawi  amtawinakaxa akanakawa:
 - Khitinakatixa  lurawinakana  aka  pacha samana  ukjaxa  taqpacha  jark'aqawi kamachirjamawa juchancharakispa.
 
 ###### 346 Kamachi.
-Aka pacha nayra jakiri yänaka taqiniwa  uñjapxañasaukanakaxa  saki  nayraru sartañataki  yänakawa.  Aqaychawi  ukjamaraki yänaka  aski  tukuyawixa  estado  ukana amaparanakapankiwa  uñjawixa  ukatxa  janiwa aka  pachankiri  yánakampixa  kunsa  turkaskaspati. Apnaqawinakapatakixa  kamachi  taypiwa qhanachatarakini.
+Aka pacha nayra jakiri yänaka taqiniwa uñjapxañasa ukanakaxa saki nayraru sartañataki yänakawa. Aqaychawi ukjamaraki yänaka aski tukuyawixa estado ukana amaparanakapankiwa uñjawixa ukatxa janiwa aka pachankiri yánakampixa kunsa turkaskaspati. Apnaqawinakapatakixa kamachi taypiwa qhanachatarakini.
 
 ###### Artículo 344.
 
@@ -8095,7 +8068,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Estado  ukampi  markachirinakampiwa aka  pacharu  jani  walt'ayirinakaruxa  jani aka  marka  uraqi  ñanqhachañapataki ch'amachapxani.  Khitinakatixa  aka  pacha ñanqhachapxaspa  ukjaxa  aka  pacha jark'aqaña kamachirjamawa wayxatataspa.
 
-- Khitinakatixa  aka  pacha  samana  jani walt'ayapkani  ukanakaxa  mákiwa j a r k ' a q a p x a ñ a p a , t ' a k u y a p x a ñ a p a , qhisphiyapxañapa,  tutiyapxañaparaki ukatxa  jaqinakaruwa  jani  usuntayaspa  ukatxa wañsuta aka pachankiri yänakata pachparu jark'aqaña.
+- Khitinakatixa aka pacha samana jani walt'ayapkani ukanakaxa mákiwa jark'aqapxañapa, t'akuyapxañapa, qhisphiyapxañapa, tutiyapxañaparaki ukatxa jaqinakaruwa jani usuntayaspa ukatxa wañsuta aka pachankiri yänakata pachparu jark'aqaña.
 
 #### PAYÏRI JALJTA AKA PACHANKIRI YÄNAKA
 
@@ -8107,7 +8080,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 349 Kamachi.
 
-- Aka pachankiri yänakaxa t a q i markachirinkiwa  apnaqawi  thakhixa markachirinakana  amtaparjamaxa  estado ukana amparapankarakiwa.
+- Aka pachankiri yänakaxa taqi markachirinkiwa apnaqawi thakhixa markachirinakana amtaparjamaxa estado ukana amparapankarakiwa.
 
 ###### Artículo 347.
 
@@ -8171,7 +8144,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Aka  pachankiri  yänaka  phuqhawi  ukatxa apnaqawixa markachirinakampi chikasawa sectoriales  amtarjama  lurasirakini.  Phuqhawi ukatxa  apnaqawinxa  entidades  mixtas ukjamanakaspawa  ukatxa  ukanakaxa representación  estatal  y  de  la  sociedad markachirinakana tuwaqiripxiwa.
 
-- Empresas privadas, bolivianas extranjeras ukanakaxa  yänaka  apsusaxa  qullqi irtapxañapawa  ukatxa  waxt'apxañapawa ukatxa  walja  yänaka  apsutarjamaxa churapxañaparakiwa.  Yänaka  apsuwitxa waxt'apxañapawa ukatxa t a y k a kamachirjamawa ukjamaraki kamchirjamawa uñaqatarakini.
+- Empresas privadas, bolivianas extranjeras ukanakaxa yänaka apsusaxa qullqi irtapxañapawa ukatxa waxt'apxañapawa ukatxa walja yänaka apsutarjamaxa churapxañaparakiwa. Yänaka apsuwitxa waxt'apxañapawa ukatxa tayka kamachirjamawa ukjamaraki kamchirjamawa uñaqatarakini.
 
 ###### 352 Kamachi.
 Aka pachankiri  yänaka  aka  uraqita apsuñaxa  jani  walt'ayata  marchirinakaruwa estado  ukata  ijskt'awi  wakt'ayatarjamaniwa ukatxa  qhispkhita  yatiyañawa.  Markachirinka chikañchasiwipaxa  aka  pacha  samana apnaqawinxa  jay  sasiwa  ukjamaraki  aka  pachampi chikt'ata jakirinakaxa tayka kamchirjama ukatxa kamachirjama  ch'amañchaña.  Naciones y  pueblos  indígena  originario  campesinos thakhi  sarawinakaparjamawa  jikt'awixa phuqhasirakini.
@@ -8280,7 +8253,7 @@ Estado  ukaxa  ch'iyara  khusu umata  utt'ayarakini  ukatxa  nayraru  satawipa, 
 
 ###### 362 Kamachi.
 
-- YPFB ukaruxa  taqinina  qullqichasiwipampixa, mixtas o privadas, aka pachpankirinakampi j ani  ukaxa  anqa  markankirinakampi ukanakampixa  irnaqawi  amtakanxa qillqantaspawa taqi uka qullqichasirinakaxa sutipxaru  lurawi  apsuwinakapatxa  qullqi churapxañapawa.  Irnaqawi  amta  qillqantawisti janiwa  kunakispansa  YPFB  Estado  ukatakixa qullqi p'akintawikaspaki.
+- YPFB ukaruxa  taqinina  qullqichasiwipampixa, mixtas o privadas, aka pachpankirinakampi jani  ukaxa  anqa  markankirinakampi ukanakampixa  irnaqawi  amtakanxa qillqantaspawa taqi uka qullqichasirinakaxa sutipxaru  lurawi  apsuwinakapatxa  qullqi churapxañapawa.  Irnaqawi  amta  qillqantawisti janiwa  kunakispansa  YPFB  Estado  ukatakixa qullqi p'akintawikaspaki.
 
 ###### Artículo  360.
 El  Estado  definirá  la  política de  hidrocarburos,  promoverá  su  desarrollo integral, sustentable y equitativo, y garantizará la soberanía energética.
@@ -8346,16 +8319,16 @@ Ch'iyara  khusu  uma  apsuwi, mayiwi ukjamaraki alxawixa  ukatxa  aski  yänakar
 Departamentos  ukanakana ch'iyara khusu uma utjatapatxa once por ciento utjawipatxa  ch'iyara  khusu  uma  apnaqiritxa katuqapxani.  Ukapachparaki  jani  utjayiri departamentos  ukanaxa  Tesoro  General  del Estado  taypixa  kamachirjama  katuqawipaxa uñjatani.
 
 ###### Artículo  365.
-Una  institución  autárquica  de derecho  público,  con  autonomía  de  gestión administrativa,  técnica  y  económica,  bajo  la tuición del Ministerio del ramo, será responsable de regular, controlar, supervisar y fiscalizar las activities de toda la  cadena  productiva  hasta  la industrialización,  en  el  marco  de  la  política  estatal de hidrocarburos conforme con la ley.
+Una  institución  autárquica  de derecho  público,  con  autonomía  de  gestión administrativa,  técnica  y  económica,  bajo  la tuición del Ministerio del ramo, será responsable de regular, controlar, supervisar y fiscalizar las actividades de toda la  cadena  productiva  hasta  la industrialización,  en  el  marco  de  la  política  estatal de hidrocarburos conforme con la ley.
 
 ###### Artículo 366.
 Todas las empresas extranjeras que realicen actividades en la cadena productiva hidrocarburífera en nombre y representación del Estado  estarán  sometidas  a  la  soberanía  del Estado, a la dependencia de las leyes y de las autoridades del Estado. No se reconocerá en ningún caso tribunal  ni  jurisdicción  extranjera  y  no podrán invocar situación excepcional alguna de arbitraje  internacional,  ni  recurrir  a  reclamaciones diplomáticas.
 
 ###### Artículo  367.
-La  explotación,  consumo  y comercialización  de  los  hidrocarburos  y  sus derivatives deberán sujetarse a una política de desarrollo  que  garantice  el  consumo  interno. La  exportación  de  la  producción  excedente incorporará  la  mayor  cantidad  de  valor agregado.
+La  explotación,  consumo  y comercialización  de  los  hidrocarburos  y  sus derivados deberán sujetarse a una política de desarrollo  que  garantice  el  consumo  interno. La  exportación  de  la  producción  excedente incorporará  la  mayor  cantidad  de  valor agregado.
 
 ###### Artículo 368.
-Los departamentos productores de  hidrocarburos  percibirán  una  regalía  del once por ciento de su producción departamental fiscalizada de hidrocarburos. De igual forma, los departments no productores de hidrocarburos y el Tesoro General del Estado obtendrán una participación  en  los  porcentajes,  que  serán  fijados mediante una ley especial.
+Los departamentos productores de  hidrocarburos  percibirán  una  regalía  del once por ciento de su producción departamental fiscalizada de hidrocarburos. De igual forma, los departamentos no productores de hidrocarburos y el Tesoro General del Estado obtendrán una participación  en  los  porcentajes,  que  serán  fijados mediante una ley especial.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -8369,7 +8342,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 ###### 369 Kamachi.
 
-- Uraqi  qhuyanakaxa  kawkhantï  uraqi ukjamaraki  uraqi  manqhana  jikqhatatäki Estado  ukana  amparapankiwa  ukatxa phuqhawipaxa kamachi t a y p i w a khuskhachatani. Qhuya apsurinaka estatal ukankirinakampi, privadas ukankirinakampi ukjamaraki cooperativas ukankirinakaruwa uñt'atani.
+- Uraqi  qhuyanakaxa  kawkhantï  uraqi ukjamaraki  uraqi  manqhana  jikqhatatäki Estado  ukana  amparapankiwa  ukatxa phuqhawipaxa kamachi taypiwa khuskhachatani. Qhuya apsurinaka estatal ukankirinakampi, privadas ukankirinakampi ukjamaraki cooperativas ukankirinakaruwa uñt'atani.
 
 - Aka  pachankiri  yänakaxa  jani  jayunaka taypina qhutyanakaxa utjawipatxa, jalsu jayu uma, umata jujuriri, ukatxa yaqhanakampi markatakixa aski utjirinakawa.
 
@@ -8613,7 +8586,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Los  recursos  naturales  renovables  se aprovecharán  de  manera  sustentable, respetando  las  características  y  el  valor natural de cada ecosistema.
 
-- Para  garantizar  el  equilibrio  ecológico, los  suelos  deberán  utilizarse  conforme con  su  capacidad  de  uso  mayor  en  el marco del proceso de organización del uso  y  ocupación  del  espacio,  considerando  sus  características  biofísicas, socioeconómicas,  culturales  y  político i nstitucionales.  La  ley  regulará  su aplicación.
+- Para  garantizar  el  equilibrio  ecológico, los  suelos  deberán  utilizarse  conforme con  su  capacidad  de  uso  mayor  en  el marco del proceso de organización del uso  y  ocupación  del  espacio,  considerando  sus  características  biofísicas, socioeconómicas,  culturales  y  político institucionales.  La  ley  regulará  su aplicación.
 
 ###### Artículo 381.
 
@@ -8641,7 +8614,7 @@ Estado  ukaxa  kunaymana phuqhata jani  ukaxa  chikata,  mä  juk'a  pachatakiki
 Es facultad y deber del Estado  la  defensa,  recuperación,  protección y  repatriación  del  material  biológico  proveniente  de  los  recursos  naturales,  de  los conocimientos  ancestrales  y  otros  que  se originen en el territorio.
 
 ###### Artículo 383.
-El Estado establecerá medidas de restricción  parcial  o  total,  temporal  o  permanent, sobre los usos extractivos de los recursos de la biodiversidad. Las medidas estarán orientadas a las necesidades de preservación, conservación, recovery y restoration de la biodiversidad en riesgo  de  extinción.  Se  sancionará  penalmente la tenencia, manejo y tráfico ilegal de especies de la biodiversidad.
+El Estado establecerá medidas de restricción  parcial  o  total,  temporal  o  permanente, sobre los usos extractivos de los recursos de la biodiversidad. Las medidas estarán orientadas a las necesidades de preservación, conservación, recuperación y restauración de la biodiversidad en riesgo  de  extinción.  Se  sancionará  penalmente la tenencia, manejo y tráfico ilegal de especies de la biodiversidad.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -8667,7 +8640,7 @@ Estado  ukaxa  nayratpacha ukatxa  sarawinakarjamaxa  mirirjmaxa aka  pachana  j
 ##### SECCIÓN II COCA
 
 ###### Artículo  384.
-El  Estado  protege  a  la  coca originaria y ancestral como patrimonio cultural, recurso natural renewable de la biodiversity de Bolivia, y como factor de cohesión social; en su estado natural no es estupefaciente. La revalorización, production, comercialización e industrialización se regirá mediante la ley.
+El  Estado  protege  a  la  coca originaria y ancestral como patrimonio cultural, recurso natural renovable de la biodiversidad de Bolivia, y como factor de cohesión social; en su estado natural no es estupefaciente. La revalorización, producción, comercialización e industrialización se regirá mediante la ley.
 
 ##### SECCIÓN III ÁREAS PROTEGIDAS
 
@@ -8698,7 +8671,7 @@ Quqanakaxa  ukjamaraki quqani uraqinakaxa aka Bolivia marka nayraru sartañataki
 
 ###### 388 Kamachi.
 
-Indígenas originarias campesinas ayllunakatixa j ark'ata  uraqinakankchixa  jumanakawa phuqhawi  amtarjamaxa  ukatxa  kamachina qhanañchatarjamaxa apsupxaspa.
+Indígenas originarias campesinas ayllunakatixa jark'ata  uraqinakankchixa  jumanakawa phuqhawi  amtarjamaxa  ukatxa  kamachina qhanañchatarjamaxa apsupxaspa.
 
 ###### 389 Kamachi.
 
@@ -8707,7 +8680,7 @@ Indígenas originarias campesinas ayllunakatixa j ark'ata  uraqinakankchixa  jum
 ##### SECCIÓN IV RECURSOS FORESTALES
 
 ###### Artículo  386.
-Los  bosques  naturales  y  los suelos  forestales  son  de  carácter  estratégico para el desarrollo del pueblo boliviano. El Estado reconocerá  derechos  de  aprovechamiento forestal a favor de communities y operadores particulares.  Asimismo  promoverá  las  actividades de conservación y  aprovechamiento sustentable, la  generación  de  valor  agregado  a  sus  productos, la  rehabilitación  y  reforestación  de  áreas degradadas.
+Los  bosques  naturales  y  los suelos  forestales  son  de  carácter  estratégico para el desarrollo del pueblo boliviano. El Estado reconocerá  derechos  de  aprovechamiento forestal a favor de comunidades y operadores particulares.  Asimismo  promoverá  las  actividades de conservación y  aprovechamiento sustentable, la  generación  de  valor  agregado  a  sus  productos, la  rehabilitación  y  reforestación  de  áreas degradadas.
 
 ###### Artículo 387.
 
@@ -8766,7 +8739,7 @@ MACHAQA TAYKA KAMACHI
 
 - Estado  ukaxa  jani  tuksiñampi  aski apnaqawi,  chikachasiwi,  kikipa  ukjamawa ch'umi  uraqinakatxa  nayraru  sartayawxa mäki  amtarakini.  Apnaqawixa  irnaqawi utjayañataki  ukjamaraki  markachirinakana qullqi  irtasiwipataki  jark'aqasa  ukatxa  jani aka pacha samana ñanqhachawi uksaruwa uñtayatani
 
-- Estado  ukaxa  qullqi  mayt'awi  k'acha lurawinakataki,  aski  samanani  k'acha l urawinakati  ukatxa  pachpana  aski amtawinaka ch'amañcharakini.
+- Estado  ukaxa  qullqi  mayt'awi  k'acha lurawinakataki,  aski  samanani  k'acha lurawinakati  ukatxa  pachpana  aski amtawinaka ch'amañcharakini.
 
 - Estado ukaxa indígena  originario  campesinas ukana  p'iqinchiripampi  chikt'asaxa  ukjamaraki ukana jakiri  markachirinakampixa mä aski qutuchawi sapjtata pachpana irnaqawi utani kunaymana nayraru sartañataki lurawinaka uñstayarakini.
 
@@ -8969,12 +8942,12 @@ Servicio  Boliviano  Reforma  Agraria ukatxa  Bolivia  marka  apnaqiriwa  p'iqin
 
 ###### Artículo 403.
 
-- Se  reconoce  la  integralidad  del  territorio i ndígena  originario  campesino,  que incluye  el  derecho  a  la  tierra,  al  uso  y aprovechamiento exclusivo de los recursos naturales  renovables  en  las  condiciones determinadas  por  la  ley;  a  la  consulta previa e informada y a la participación en los  beneficios  por  la  explotación  de  los recursos  naturales  no  renovables  que  se encuentran en sus territorios; la facultad de aplicar sus normas propias, administrados por sus estructuras de representación y la definición de su desarrollo de acuerdo a sus criterios  culturales  y  principios  de  convivencia armónica con la naturaleza. Los territorios indígena originario  campesinos podrán estar compuestos por comunidades.
+- Se  reconoce  la  integralidad  del  territorio indígena  originario  campesino,  que incluye  el  derecho  a  la  tierra,  al  uso  y aprovechamiento exclusivo de los recursos naturales  renovables  en  las  condiciones determinadas  por  la  ley;  a  la  consulta previa e informada y a la participación en los  beneficios  por  la  explotación  de  los recursos  naturales  no  renovables  que  se encuentran en sus territorios; la facultad de aplicar sus normas propias, administrados por sus estructuras de representación y la definición de su desarrollo de acuerdo a sus criterios  culturales  y  principios  de  convivencia armónica con la naturaleza. Los territorios indígena originario  campesinos podrán estar compuestos por comunidades.
 
 - El  territorio  indígena  originario  campesino comprende  áreas  de  producción,  áreas de  aprovechamiento  y  conservación  de los  recursos  naturales  y  espacios  de reproducción  social,  espiritual  y  cultural. La ley establecerá el procedimiento para el reconocimiento de estos derechos.
 
 ###### Artículo 404.
-El Servicio Boliviano de Reforma Agraria, cuya máxima autoridad es el Presidente del  Estado,  es  la  entidad  responsable  de planificar,  ejecutar  y  consolidar  el  proceso  de reforma agraria y tiene jurisdicción en todo el territory del país.
+El Servicio Boliviano de Reforma Agraria, cuya máxima autoridad es el Presidente del  Estado,  es  la  entidad  responsable  de planificar,  ejecutar  y  consolidar  el  proceso  de reforma agraria y tiene jurisdicción en todo el territorio del país.
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -8989,7 +8962,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 ###### 405  Kamachi.
 Desarrollo  rural  integral  sustentable ukaxa  Estado  ukana  qullqi  amta  taypinkiwa ukatxa  kunaymana  aski  lurawinakaruwa comunitarios satanakaru pata uraqinkirinakaru lurawinaka ukataxa manq'añanakalaqanchayani akjamata:
 
-- J a c h ' a ñ c h a w i y a p u c h a w i n a , uywachawina, amparampi luwina, jichha pacha  uñstawimpi  lurawi  ukjamaraki k'acha yänaka uñjawina.
+- Jach'añchawi yapuchawina, uywachawina, amparampi luwina, jichha pacha  uñstawimpi  lurawi  ukjamaraki k'acha yänaka uñjawina.
 
 - Yapuchawina ukjamaraki jach'a uraqina yapuchawinaka chikachawi ukjamaraki phuqhachawi.
 
@@ -9026,7 +8999,7 @@ MACHAQA TAYKA KAMACHI
 
 - Estado  ukaxa  desarrollo  rural  sustentable amtanakarjama,  wakichawinakarjama, amtanakarjama  ukatxa  yapuchawi, maparampi lurawina, quqa uywawina, k'acha yänaka  uñjañana  ukanaka  lurañanakana jach'añchaña  ukampirusa  aka  pachankiri yänaka aski luraña, aski yäparu tukuyaña ukjamraki alaxaña.
 
-- Estado  ukaxa  pata  uraqina  qullqichasiña qutunakaru ukanaxa amparampi yänaka  luririnakaru,  qutuchatanaka yapuchirinakaru  ukjamaraki  amparampi l u r a t a n a k a r u ukatxa  jisk'a  ukatxa j a c h ' a   mayachata  yapuchirinakaru qullqichasiñana markaru saranakaparjama yanapasitapata jach'añcharakini ukjamaraki ch'amañcharakini.
+- Estado  ukaxa  pata  uraqina  qullqichasiña qutunakaru ukanaxa amparampi yänaka  luririnakaru,  qutuchatanaka yapuchirinakaru  ukjamaraki  amparampi luratanakaru ukatxa  jisk'a  ukatxa jach'a mayachata  yapuchirinakaru qullqichasiñana markaru saranakaparjama yanapasitapata jach'añcharakini ukjamaraki ch'amañcharakini.
 
 ###### 407  Kamachi.
 Desarrollo  rural  integral  del Estado ukana entidades territoriales autónomas y descentralizadas amtawinakapawa:
@@ -9068,7 +9041,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 - Aski  amtawinaka  uraqi  aka  pachana jakirinakampi  chikayasa  ukatxa  askinjama uñjasa  ukjmaraki  jani  wali  uraqinaka askiru tukuyasa utt'ayaña.
 
-- Qhich'anaka y a p u c h a ñ a t a k i jach'anchayaña.
+- Qhich'anaka yapuchañataki jach'anchayaña.
 
 - Kunaymana yapuchawinaka aski jichha uñtata  yänakampi  yäparu  tukuyaña ukjamaraki uñaqawi jaysaña.
 
@@ -9184,6 +9157,8 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 229]]
 
+# SARTA PHUQAWINAKA
+
 ###### Nayrïri.
 
 - Suxta  tunka  urunaka  machaqa  tayka kamachi  utt'asiwipata  Congreso  de  la República  ukankirinakaxa  machaqa  chhijllawi Asamblea Legislativa Plurinacional,  Jiliri  irpiri ukjamaraki  sullka  irpiritaki  machaqa  amta wakiyarakini;  chhijllawixa  suxta  uru  jallu  qallta phaxsi saraqataruwa pä waranqha llatunkani marana phuqasirakini.
@@ -9197,8 +9172,6 @@ MACHAQA TAYKA KAMACHI
 ###### Payïri.
 Asamblea  Legislativa  Plurinacional ukaxa  pataka  kimsa  tunaka  urunakawa utnuqawipatxa  niyapuni  jakhuyatäni,  Organo Electoral  Plurinacional  kamachi,  Organo  Judicial kamachi, Tribunal Constitucional Plurinacional ukjamaraki  sapata  apnaqasiwi  ukjamaraki t'aqatattawi kamachinakaxa jay sasirakini.
 
-# SARTA PHUQAWINAKA
-
 # DISPOSICIONES TRANSITORIAS
 
 ###### Primera.
@@ -9207,7 +9180,7 @@ Asamblea  Legislativa  Plurinacional ukaxa  pataka  kimsa  tunaka  urunakawa utn
 
 - Los  mandatos anteriores a la vigencia de esta Constitución serán tomados en cuenta a los efectos del cómputo de los nuevos periodos de funciones.
 
-- L a s elecciones de autoridades departamentales y municipales se realizarán el 4 de abril de 2010.
+- Las elecciones de autoridades departamentales y municipales se realizarán el 4 de abril de 2010.
 
 - Excepcionalmente se  prorroga  el  mandato  de Alcaldes,  Concejales  Municipales  y  Prefectos de Departamento hasta la posesión de las nuevas autoridades electas de conformidad con el párrafo anterior.
 
@@ -9274,19 +9247,19 @@ MACHAQA TAYKA KAMACHI
 
 - Qullqichasiri aka markata ukjamaraki anqa markata Qhuyanakata jay satanakaxa janira machaqa  tayka  kamachi  sarxaruyatakana ukanakaxa  jichha  machaqa  tayka kamachirjamawa  amtawirjamawa  qhuya irnaqañatakixa phuqapxañapa.
 
-- E s t a d o ukaxa qutuchata qhuya irnaqirinakaruxa aski irnaqapxatanakapata yaqiwa ukjamaraki uñt'iwa.
+- Estado ukaxa qutuchata qhuya irnaqirinakaruxa aski irnaqapxatanakapata yaqiwa ukjamaraki uñt'iwa.
 
 - Aski  naktayiri  qhuyanakaxa  nayra  tayka kamachirjama  wakiyataki  uknakaxa machaqa kamachirjamaxa Estado ukaruwa kutkatxarakini.
 
 ###### Octava.
 
-- En el plazo de un año desde la elección del Órgano Ejecutivo y del Órgano Legislativo, las concesiones sobre recursos naturales, electricidad, telecomunicaciones y servicios básicos  deberán  adecuarse  al  nuevo ordenamiento jurídico. La migración de las concesiones a un nuevo régimen jurídico en ningún caso supondrá desconocimiento de derechos adquiridos..
+- En el plazo de un año desde la elección del Órgano Ejecutivo y del Órgano Legislativo, las concesiones sobre recursos naturales, electricidad, telecomunicaciones y servicios básicos  deberán  adecuarse  al  nuevo ordenamiento jurídico. La migración de las concesiones a un nuevo régimen jurídico en ningún caso supondrá desconocimiento de derechos adquiridos.
 
-- En el mismo plazo, se dejarán sin efecto las concesiones mineras de minerales metálicos y  no  metálicos,  evaporíticos,  salares, azufreras y  otros,  concedidas  en  las  reservas fiscales del territorio boliviano .
+- En el mismo plazo, se dejarán sin efecto las concesiones mineras de minerales metálicos y  no  metálicos,  evaporíticos,  salares, azufreras y  otros,  concedidas  en  las  reservas fiscales del territorio boliviano.
 
 - Las  concesiones  mineras  otorgadas  a  las empresas  nacionales  y  extranjeras  con anterioridad  a  la  promulgación  de  la  presente Constitución, en el plazo de un año, deberán adecuarse a ésta, a través de los contratos mineros.
 
-- El  Estado  reconoce  y  respeta  los  derechos  preconstituidos de las sociedades cooperativas mineras, por su carácter productivo social.
+- El  Estado  reconoce  y  respeta  los  derechos  pre-constituidos de las sociedades cooperativas mineras, por su carácter productivo social.
 
 - Las concesiones de minerales radioactivos otorgadas  con  anterioridad  a  la  promulgación de la Constitución quedan resueltas, y se revierten a favor del Estado.
 
@@ -9358,6 +9331,30 @@ MACHAQA TAYKA KAMACHI
 
 # Constitución Política del Estado
 
+# NAYRÏRI T'AQA
+ESTADO UKANA ASKI AMTANAKA ............5
+YÄQAÑANAKA, PHUQHAÑANAKA UKJAMRAKI GARANTÍAS ............................5
+
+### NAYRÏRI UÑAÑCHAWI ESTADO UKANA ASKI AMTANAKA ............5
+
+#### NAYRÏRI JALJA ESTADO UKANA THAKHINCHAPA ..............5
+
+#### PAYÏRI JALJA ESTADO UKANA NAYRIRI AMTANAKA, ASKINAKA UKJAMARAKI PHUQHAÑANAKA..........................................7
+
+#### KIMSÏRI JALJA MARKA APNAQAÑATA................................10
+
+# PRIMERA PARTE .......................................... 5
+BASES FUNDAMENTALES DEL ESTADO .. 5
+DERECHOS, DEBERES Y GARANTÍAS................................................... 5
+
+### TÍTULO I BASES FUNDAMENTALES DEL ESTADO .. 5
+
+#### CAPÍTULO PRIMERO MODELO DE ESTADO .................................. 5
+
+#### CAPÍTULO SEGUNDO PRINCIPIOS, VALORES Y FINES DEL ESTADO ................................................. 7
+
+#### CAPÍTULO TERCERO SISTEMA DE GOBIERNO............................ 10
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 233
@@ -9365,6 +9362,40 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 [[END OF PAGE 233]]
 
 [[START OF PAGE 234]]
+
+### PAYÏRI UÑAÑCHAWI ASKI YAQAÑANAKA UKJAMARAKI GARANTÍAS ................................................11
+
+#### NAYRÏRI JALJA KHUSKHATA PHUQHAÑANAKA.................11
+
+#### PAYÏRI JALJA ASKI YÄQAÑANAKA....................................13
+
+#### KIMSÏRI JALJA TAQI JAQI YÁQAÑANAKA UKJAMRAKI AMTANAKA..................................................15
+
+##### MAYÏRI T'AQXTA TAQI JAQI YÁQAÑANAKA ..........................15
+
+##### PAYÏRI T'AQXTA...........................................18
+YAQAÑA AMTANAKA...................................18
+
+#### PUSÏRI JALJA NACIONES Y PUEBLOS INDÍGENA ORIGINARIO CAMPESINOS UKANAKANA YAQAÑANAKA......................21
+
+#### PHISQÏRI JALJA JAQINA YAQAÑANAKAPA UKJAMARAKI QULLQINAKATA ..........................................24
+
+### TÍTULO II DERECHOS FUNDAMENTALES Y GARANTÍAS ................................................ 11
+
+#### CAPÍTULO PRIMERO DISPOSICIONES GENERALES.................. 11
+
+#### CAPÍTULO SEGUNDO DERECHOS FUNDAMENTALES................. 13
+
+#### CAPÍTULO TERCERO DERECHOS CIVILES Y POLÍTICOS........... 15
+
+##### SECCIÓN I DERECHOS CIVILES .................................. 15
+
+##### SECCIÓN II .................................................. 18
+DERECHOS POLÍTICOS............................. 18
+
+#### CAPÍTULO CUARTO DERECHOS DE LAS NACIONES Y PUEBLOS INDÍGENA ORIGINARIO CAMPESINOS.............................................. 21
+
+#### CAPÍTULO QUINTO DERECHOS SOCIALES Y ECONÓMICOS............................................. 24
 
 234
 
@@ -9374,6 +9405,38 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 235]]
 
+##### MAYÏRI T'AQXTA AKA PACHA SAMANA YÄQAÑA .................24
+
+##### PAYÏRI T'AQXTA QULLÄSIÑA YÄQAÑA UKJAMARAKI JAQIRU ASKI UÑJAÑA .............................................24
+
+##### KIMSÏRI T'AQXTA IRNAQAWIRU UKJAMARAKI IRNAQAWIMPI YÄQAWI..............................28
+
+##### PUSÏRI T'AQXTA YÄNAKARU YÄQAWINI...............................33
+
+##### PHISQÏRI T'AQXTA WAWANA, Q'AXULLANA UKJAMARAKI WAYNANA YÄQAWINAKAPA.......................34
+
+##### SUXTÏRI T'AQXTA WILA MASINAKANA YÄQAÑA.....................35
+
+##### PAQALLQU T'AQXTA CHUYMANI JAQINAKANA YAQAWINAKAPA .........................................37
+
+##### KIMSAQALLQU T'AQXTA JANCHITA USUTA YÄQAWINAKAPA.........................................37
+
+##### SECCIÓN I DERECHO AL MEDIO AMBIENTE .............. 24
+
+##### SECCIÓN II DERECHO A LA SALUD Y A LA SEGURIDAD SOCIAL.................................. 24
+
+##### SECCIÓN III DERECHO AL TRABAJO Y AL EMPLEO .............................................. 28
+
+##### SECCIÓN IV DERECHO A LA PROPIEDAD .................... 33
+
+##### SECCIÓN V DERECHOS DE LA NIÑEZ, ADOLESCENCIA Y JUVENTUD .................. 34
+
+##### SECCIÓN VI DERECHOS DE LAS FAMILIAS ................. 35
+
+##### SECCIÓN VII DERECHOS DE LAS PERSONAS ADULTAS MAYORES................................... 37
+
+##### SECCIÓN VIII DERECHOS DE LAS PERSONAS CON DISCAPACIDAD.................................. 37
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 235
@@ -9381,6 +9444,34 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 [[END OF PAGE 235]]
 
 [[START OF PAGE 236]]
+
+##### LLATUNKÏRI T'AQXTA TARIPATA JAQINAKANA YÄQAWINAKAPA.........................................39
+
+##### TUNKÏRI T'AQXTA ALASIRINAKANA UKJAMARAKI YÄNAKANI YÄQAWINAKAPA......................40
+
+#### SUXTÏRI JALJTA INTERCULTURALIDAD YATIQAWI UKJAMARAKI SARAWINA YÄQAÑA...........41
+
+##### MAYÏRI T'AQXTA YATIQAWI.....................................................41
+
+##### PAYÏRI T'AQXTA JACH'A YATIQAWI .......................................46
+
+##### KIMSÏRI T'AQXTA SARAWINAKA..............................................50
+
+##### PUSÏRI T'AQXTA MACHAQATA, JICHHA YATXATAWI............52
+
+##### SECCIÓN IX DERECHOS DE LAS PERSONAS PRIVADAS DE LIBERTAD ........................... 39
+
+##### SECCIÓN X DERECHOS DE LAS USUARIAS Y LOS USUARIOS Y DE LAS CONSUMIDORAS Y LOS CONSUMIDORES ............................ 40
+
+#### CAPÍTULO SEXTO EDUCACIÓN, INTERCULTURALIDAD Y DERECHOS CULTURALES......................... 41
+
+##### SECCIÓN I EDUCACIÓN................................................ 41
+
+##### SECCIÓN II EDUCACIÓN SUPERIOR ............................ 46
+
+##### SECCIÓN III CULTURAS .................................................. 50
+
+##### SECCIÓN IV CIENCIA, TECNOLOGÍA E INVESTIGACIÓN ......................................... 52
 
 236
 
@@ -9390,9 +9481,37 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 237]]
 
-. ...................................... 64
+##### PHISQÏRI T'AQXTA ANATAWI UKJAMARAKI K'UCHIRAWI........53
 
-CONSTITUCIONAL
+#### PAQALLQU JALJTA JAQI YATIYAWI ............................................53
+
+### KIMSÏRI UÑAÑCHAWI PHUQAWINAKA..........................................55
+
+### PUSÏRI UÑAÑCHAWI QAMAWINA JARK'AQAWINAKA UKJAMARAKI TUWAQAÑA .......................56
+
+#### NAYRÏRI JALJTA QAMAWINA JARK'AQAWINAKA .................56
+
+#### PAYÏRI JALJTA TUWAÑATA LURAWINAKA..........................62
+
+##### NAYRÏRI TAQXTA QHISPITA LURAÑA.....................................62
+
+##### PAYÏRI T'AQXTA TARIPIRINAKARU YATIYASIWI...................64
+
+##### SECCIÓN V DEPORTE Y RECREACIÓN........................ 53
+
+#### CAPÍTULO SÉPTIMO COMUNICACIÓN SOCIAL........................... 53
+
+### TÍTULO III DEBERES.................................................... 55
+
+### TÍTULO IV GARANTÍAS JURISDICCIONALES Y ACCIONES DE DEFENSA .......................... 56
+
+#### CAPÍTULO PRIMERO GARANTÍAS JURISDICCIONALES............. 56
+
+#### CAPÍTULO SEGUNDO ACCIONES DE DEFENSA........................... 62
+
+##### SECCIÓN I ACCIÓN DE LIBERTAD ............................... 62
+
+##### SECCIÓN II ACCIÓN DE AMPARO CONSTITUCIONAL...................................... 64
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -9402,6 +9521,40 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 238]]
 
+##### KIMSÏRI T'AQXTA LURAWINAKATA JARK'AQAWI ..................66
+
+##### PUSÏRI T'AQXTA..........................................67
+JUCHA P'AMP'ACHAWI...............................67
+
+##### PHISQÏRI T'AQXTA LURAWI PHUQAWI......................................67
+
+##### SUXTÏRI T'AQXTA MARKACHIRINA LURAWI ...........................69
+
+#### KIMSÏRI JALJTA UNXTASIWI T'AKUYAWI..............................70
+
+### PHISQÏRI UÑAÑCHAWI MARKANKIRI UKJAMARAKI MARKACHIRI ..............................................72
+
+#### MAYÏRI JALJTA MARKANKIRI ...............................................72
+
+#### PAYÏRI JALJTA MARKACHIRI...............................................74
+
+##### SECCIÓN III ACCIÓN DE PROTECCIÓN DE PRIVACIDAD.......................................... 66
+
+##### SECCIÓN IV................................................. 67
+ACCIÓN DE INCONSTITUCIONALIDAD..... 67
+
+##### SECCIÓN V ACCIÓN DE CUMPLIMIENTO..................... 67
+
+##### SECCIÓN VI ACCIÓN POPULAR ..................................... 69
+
+#### CAPÍTULO TERCERO ESTADOS DE EXCEPCIÓN ........................ 70
+
+### TÍTULO V NACIONALIDAD Y CIUDADANIA............... 72
+
+#### CAPITULO I NACIONALIDAD........................................... 72
+
+#### CAPÍTULO II CIUDADANÍA................................................ 74
+
 238
 
 MACHAQA TAYKA KAMACHI
@@ -9409,6 +9562,38 @@ MACHAQA TAYKA KAMACHI
 [[END OF PAGE 238]]
 
 [[START OF PAGE 239]]
+
+# PAYÏRI T'AQA ESTADO UKANA PHUQAWIPANA T'AQANAKA................................................75
+
+### MAYÏRI UÑAÑCHAWI KAMACHINAKA UTT'AYIRI........................75
+
+#### NAYRÏRI JALJTA ASAMBLEA LEGISLATIVA PLURINACIONAL UKANA UTT'AWIPA UKJAMARAKI PHUQHAWINAKAPA....................................75
+
+#### PAYÏRI JALJTA KAMACHI UTT'AYAÑA THAKHINCHA.........87
+
+### PAYÏRI UÑAÑCHAWI MARKA APNAQIRITA .................................90
+
+#### NAYRÏRI JALJTA MARKA APNAQIRINA UTT'AWIPA UKJAMARAKI PHUQAWIPA........................90
+
+##### NAYRÏRI T'AQXTA KHUSKHATA PHUQHAÑANAKA................90
+
+##### PAYÏRI T'AQXTA ESTADO UKANA JILIRI IRPIRITA UKJAMARAKI SULLKIRI IRPIRITA..............91
+
+# SEGUNDA PARTE ESTRUCTURA Y ORGANIZACIÓN FUNCIONAL DEL ESTADO......................... 75
+
+### TÍTULO I ÓRGANO LEGISLATIVO............................. 75
+
+#### CAPÍTULO PRIMERO COMPOSICIÓN Y ATRIBUCIONES DE LA ASAMBLEA LEGISLATIVA PLURINACIONAL......................................... 75
+
+#### CAPÍTULO SEGUNDO PROCEDIMIENTO LEGISLATIVO............... 87
+
+### TÍTULO II ÓRGANO EJECUTIVO................................ 90
+
+#### CAPÍTULO PRIMERO COMPOSICIÓN Y ATRIBUCIONES DEL ÓRGANO EJECUTIVO ................................ 90
+
+##### SECCIÓN I DISPOSICIÓN GENERAL............................ 90
+
+##### SECCIÓN II PRESIDENCIA Y VICEPRESIDENCIA DEL ESTADO ............................................... 91
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -9418,6 +9603,39 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 240]]
 
+##### KIMSA T'AQXTA ESTADO UKANA P'IQT'IRINAKA.................96
+
+### KIMSÏRI UÑAÑCHAWI TARIPIRI UKJAMARAKI ARXATIRINAKA TAQI MARKANAKATA..................................98
+
+#### NAYRÏRI JALJTA KHUSKHATA PHUQHAÑANAKA.................98
+
+#### PAYÏRI JALJTA QILLQATA TAYPI TARIPAÑA......................100
+
+##### NAYRÏRI T'AQXTA JILIRI TARIPIRI ..........................................100
+
+#### KIMSÏRI JALJTA SAMANA ARXATIRI ...................................104
+
+#### PUSÏRI JALJTA INDÍGENA ORIGINARIA CAMPESINA URAQI ..................................106
+
+#### PHISQÏRI JALJTA QUTUCHATA TARIPIRI..............................108
+
+##### SECCIÓN III MINISTERIOS DE ESTADO......................... 96
+
+### TÍTULO III..................................................... 98
+ÓRGANO JUDICIAL Y TRIBUNAL CONSTITUCIONAL PLURINACIONAL......................................... 98
+
+#### CAPÍTULO PRIMERO DISPOSICIONES GENERALES.................. 98
+
+#### CAPÍTULO SEGUNDO JURISDICCIÓN ORDINARIA..................... 100
+
+##### SECCIÓN I TRIBUNAL SUPREMO DE JUSTICIA........ 100
+
+#### CAPÍTULO TERCERO JURISDICCIÓN AGROAMBIENTAL........... 104
+
+#### CAPÍTULO CUARTO JURISDICCIÓN INDÍGENA ORIGINARIA CAMPESINA ........................ 106
+
+#### CAPÍTULO QUINTO CONSEJO DE LA MAGISTRATURA.......... 108
+
 240
 
 MACHAQA TAYKA KAMACHI
@@ -9425,6 +9643,35 @@ MACHAQA TAYKA KAMACHI
 [[END OF PAGE 240]]
 
 [[START OF PAGE 241]]
+
+#### SUXTÏRI JALJTA JILIRI TARIPIRI ..........................................110
+
+### PUSÏRI UÑAÑCHAWI CHHIJLLAWI PHUQHAYIRI ......................114
+
+#### NAYRÏRI JALJTA CHHIJLLAWI PHUQHAYIRI TAQI MARKANAKARU........................................114
+
+#### PAYÏRI JALJTA QUTUCHATA MARKA APNAQAÑATAKI .......................................116
+
+### PHISQÏRI UÑAÑCHAWI UÑAQAWI PHUQAWI, MARKACHIRITA JARK'AQAWI UKJAMARAKI ESTADO UKATA........................................118
+
+#### NAYRÏRI JALJTA UÑAQAWI PHUQAWI ................................118
+
+##### NAYRÏRI T'AQXTA ESTADO UKANA QULLQICHASIWITA UÑAQAWI ..................................................118
+
+#### CAPÍTULO SEXTO TRIBUNAL CONSTITUCIONAL PLURINACIONAL....................................... 110
+
+### TÍTULO IV ÓRGANO ELECTORAL ............................ 114
+
+#### CAPÍTULO PRIMERO ÓRGANO ELECTORAL PLURINACIONAL....................................... 114
+
+#### CAPÍTULO SEGUNDO REPRESENTACIÓN POLÍTICA................. 116
+
+### TITULO V................................................... 118
+FUNCIONES DE CONTROL, DE DEFENSA DE LA SOCIEDAD Y DE DEFENSA DEL ESTADO........................... 118
+
+#### CAPÍTULO PRIMERO FUNCIÓN DE CONTROL........................... 118
+
+##### SECCIÓN I CONTRALORÍA GENERAL DEL ESTADO ............................................. 118
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -9434,6 +9681,38 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 242]]
 
+#### PAYÏRI JALJTA MARKACHIRITA JARK'AQAWIWA ............120
+
+##### MAYÏRI T'AQXTA MARKACHIRITA ARXATIRI........................120
+
+##### PAYÏRI T'AXQTA JUCHANAKATA YATXATIRI ........................123
+
+#### KIMSÏRI JALJTA ESTADO UKANA ARXATAWI PHUQAWI...125
+
+##### NAYRÏRI T'AQXTA ESTADO UKANA QANAKAPATA ARXATIRI ...................................................125
+
+#### PUSÏRI JALJTA ESTADO UKA TAYPINA IRNAQIRINAKA..........................................127
+
+### SUXTÏRI UÑAÑCHAWI CHIKAÑCHASIWI UKJAMARAKI MARKACHIRITA UÑAQAWI......................132
+
+### PAQALLQÜRI UÑAÑCHAWI PALLA PALLANAKATA.............................134
+
+#### CAPÍTULO SEGUNDO FUNCIÓN DE DEFENSA DE LA SOCIEDAD...................................... 120
+
+##### SECCIÓN I DEFENSORÍA DEL PUEBLO..................... 120
+
+##### SECCIÓN II MINISTERIO PÚBLICO.............................. 123
+
+#### CAPÍTULO TERCERO FUNCIÓN DE DEFENSA DEL ESTADO.... 125
+
+##### SECCIÓN I PROCURADURÍA GENERAL DEL ESTADO ............................................. 125
+
+#### CAPÍTULO CUARTO SERVIDORAS PÚBLICAS Y SERVIDORES PÚBLICOS......................... 127
+
+### TÍTULO VI PARTICIPACIÓN Y CONTROL SOCIAL... 132
+
+### TÍTULO VII FUERZAS ARMADAS Y POLICÍA BOLIVIANA ................................ 134
+
 242
 
 MACHAQA TAYKA KAMACHI
@@ -9441,6 +9720,34 @@ MACHAQA TAYKA KAMACHI
 [[END OF PAGE 242]]
 
 [[START OF PAGE 243]]
+
+#### NAYRÏRI JALJTA PALLAPALLANAKA....................................134
+
+#### PAYÏRI JALJTA BOLIVIA MARKANA PALLAPALLANAKAPA................................136
+
+### KIMSÏRI UÑAÑCHAWI ANQA MARKANAKAMPI CHIKAÑCHASIWI, QURPANAKATA, MAYACHAWI UKJAMARAKI LAMAR QUTARU MISTUWI AMTA ........................137
+
+#### NAYRÏRI JALJTA ANQA MARKANAKAMPI CHIKAÑCHASIWI ......................................137
+
+#### PAYÏRI JALJTA ESTADO UKANA QURPANAKAPA............141
+
+#### KIMSÏRI JALJTA MAYACHASIWI ..........................................142
+
+#### PUSÏRI JALJTA LAMAR QUTARU MISTUWI AMTA............143
+
+#### CAPÍTULO PRIMERO FUERZAS ARMADAS ................................ 134
+
+#### CAPÍTULO SEGUNDO POLICÍA BOLIVIANA.................................. 136
+
+### TÍTULO VIII RELACIONES INTERNACIONALES, FRONTERAS, INTEGRACIÓN Y REIVINDICACIÓN MARÍTIMA................... 137
+
+#### CAPÍTULO PRIMERO RELACIONES INTERNACIONALES ......... 137
+
+#### CAPÍTULO SEGUNDO FRONTERAS DEL ESTADO...................... 141
+
+#### CAPÍTULO TERCERO INTEGRACIÓN........................................... 142
+
+#### CAPÍTULO CUARTO REIVINDICACIÓN MARÍTIMA ................... 143
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -9450,6 +9757,39 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 244]]
 
+# KIMSÏRI T'AQA ESTADO UKANA URAQINAKAPA UTT'AYATA UKJAMARAKI QUTUCHATA .............................................143
+
+### NAYRÏRI UÑAÑCHAWI..............................143
+ESTADO UKANA URAQIPA QUTUCHAWI .............................................143
+
+#### NAYRÏRI JALJTA KHUSKHATA PHUQAWI ............................143
+
+#### PAYÏRI JALJTA DEPARTAMENTAL SAPA APNAQAWI.......146
+
+#### KIMSÏRI JALJTA REGIONAL SAPA APNAQAWI...................147
+
+#### PUSÏRI JALJTA MUNICIPAL SAPA APNAQAWI ..................148
+
+#### PHISQÏRI JALJTA SAPA APNAQIRINAKA...............................149
+
+#### SUXTÏRI JALJTA KAMACHINAKA UTT'AYIRINAKA, AMUYIRINAKA UKJAMARAKI UÑAQIRINAKA SAPA APNAQIRINAKANA..........................150
+
+# TERCERA PARTE ESTRUCTURA Y ORGANIZACIÓN TERRITORIAL DEL ESTADO.................... 143
+
+### TÍTULO I ORGANIZACIÓN TERRITORIAL DEL ESTADO............................................. 143
+
+#### CAPÍTULO PRIMERO DISPOSICIONES GENERALES................ 143
+
+#### CAPÍTULO SEGUNDO AUTONOMÍA DEPARTAMENTAL .............. 146
+
+#### CAPÍTULO TERCERO AUTONOMÍA REGIONAL........................... 147
+
+#### CAPÍTULO CUARTO AUTONOMÍA MUNICIPAL.......................... 148
+
+#### CAPÍTULO QUINTO ÓRGANOS EJECUTIVOS DE LOS GOBIERNOS AUTÓNOMOS ..................... 149
+
+#### CAPÍTULO SEXTO ÓRGANOS LEGISLATIVOS, DELIBERATIVOS Y FISCALIZADORES DE LOS GOBIERNOS AUTÓNOMOS............. 150
+
 244
 
 MACHAQA TAYKA KAMACHI
@@ -9457,6 +9797,38 @@ MACHAQA TAYKA KAMACHI
 [[END OF PAGE 244]]
 
 [[START OF PAGE 245]]
+
+#### PAQALLQÜRI JALJTA INDÍGENA ORIGINARIA CAMPESINA SAPA APNAQAWI ......................................151
+
+#### KIMSAQALLQÜRI JALJTA PHUQAWI JALANUQAWI .........................155
+
+# PUSÏRI T'AQA ESTADO UKANA QULLQI UTT'AYAWIPA UKJAMARAKI CH'IQIYAWI ......................176
+
+### NAYRÏRI UÑAÑCHAWI ESTADO UKANA QULLQI APNAQAWIPA...........................................176
+
+#### NAYRÏRI JALJTA KHUSKHATA PHUQAWI ............................176
+
+#### PAYÏRI JALJTA ESTADO TAYPINA QULLQI APNAQAWI ................................................181
+
+#### KIMSÏRI JALJTA QULLQITA AMTAWI ...................................183
+
+##### NAYRÏRI T'AQXTA FISCAL AMTAWI ........................................185
+
+#### CAPÍTULO SÉPTIMO AUTONOMÍA INDÍGENA ORIGINARIA CAMPESINA......................... 151
+
+#### CAPÍTULO OCTAVO DISTRIBUCIÓN DE COMPETENCIAS...... 155
+
+# CUARTA PARTE ESTRUCTURA Y ORGANIZACIÓN ECONÓMICA DEL ESTADO ..................... 176
+
+### TÍTULO I ORGANIZACIÓN ECONÓMICA DEL ESTADO............................................. 176
+
+#### CAPÍTULO PRIMERO DISPOSICIONES GENERALES................ 176
+
+#### CAPÍTULO SEGUNDO FUNCIÓN DEL ESTADO EN LA ECONOMÍA..................................... 181
+
+#### CAPÍTULO TERCERO POLÍTICAS ECONÓMICAS....................... 183
+
+##### SECCIÓN I POLÍTICA FISCAL...................................... 185
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
@@ -9466,6 +9838,38 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 [[START OF PAGE 246]]
 
+##### PAYÏRI T'AQXTA QULLQI WAKICHAÑA AMTA......................189
+
+##### KIMSÏRI T'AQXTA QULLQI IRTAWI AMTA...............................190
+
+##### PUSÏRI T'AQXTA T'AQA AMTANAKA.....................................192
+
+#### PUSÏRI JALJTA ESTADO UKANA YÄNAKA UKJAMARAKI QULLQINAKA CH'IQIYAWI ........................194
+
+### PAYÏRI UÑAÑCHAWI AKA PACHA SAMANA, AKA PACHANKIRI YÄNAKA, URAQI UKJAMARAKI URAQINA QAMAWI ...................................196
+
+#### NAYRÏRI JALJTA AKA PACHA SAMANA...............................196
+
+#### PAYÏRI JALJTA AKA PACHANKIRI YÄNAKA ......................198
+
+#### KIMSÏRI JALJTA CH'IYARA KHUSU UMATA.........................202
+
+##### SECCIÓN II POLÍTICA MONETARIA ............................. 189
+
+##### SECCIÓN III POLÍTICA FINANCIERA............................. 190
+
+##### SECCIÓN IV POLÍTICAS SECTORIALES....................... 192
+
+#### CAPÍTULO CUARTO BIENES Y RECURSOS DEL ESTADO Y SU DISTRIBUCIÓN .............................. 194
+
+### TÍTULO II MEDIO AMBIENTE, RECURSOS NATURALES, TIERRA Y TERRITORIO ........................... 196
+
+#### CAPÍTULO PRIMERO MEDIO AMBIENTE..................................... 196
+
+#### CAPÍTULO SEGUNDO RECURSOS NATURALES......................... 198
+
+#### CAPÍTULO TERCERO HIDROCARBUROS.................................... 202
+
 246
 
 MACHAQA TAYKA KAMACHI
@@ -9474,6 +9878,39 @@ MACHAQA TAYKA KAMACHI
 
 [[START OF PAGE 247]]
 
+#### PUSÏRI JALJTA QHUYA UKJAMARAKI QHUYANAKATA LURAWI......................................................206
+
+#### PHISQÏRI JALJTA UMANAKATA..............................................208
+
+#### SUXTÏRI JALJTA YÄNAKA NAKTAYIRINAKATA....................211
+
+#### PAQALLQÜRI JALJTA KUNAYMANA JAKIRINAKATA, INAL MAMA, JARK'ATA URAQINAKATA UKJAMARAKI QUQANAKATA...................212
+
+##### NAYRÏRI T'AQXTA KUNAYMANA JAKIRINAKATA...................212
+
+##### PAYÏRI T'AQXTA INAL MAMA................................................214
+
+##### KIMSÏRI T'AQXTA JARK'ATA URAQINAKATA.........................214
+
+##### PUSÏRI T'AQXTA QUQANAKATA...........................................215
+
+#### CAPÍTULO CUARTO MINERÍA Y METALURGIA.......................... 206
+
+#### CAPÍTULO QUINTO RECURSOS HÍDRICOS............................. 208
+
+#### CAPÍTULO SEXTO ENERGÍA.................................................... 211
+
+#### CAPÍTULO SÉPTIMO BIODIVERSIDAD, COCA, ÁREAS PROTEGIDAS Y RECURSOS FORESTALES............................................ 212
+
+##### SECCIÓN I BIODIVERSIDAD ....................................... 212
+
+##### SECCIÓN II ................................................ 214
+COCA.......................................................... 214
+
+##### SECCIÓN III ÁREAS PROTEGIDAS............................... 214
+
+##### SECCIÓN IV RECURSOS FORESTALES........................ 215
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO
 
 247
@@ -9481,6 +9918,39 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO
 [[END OF PAGE 247]]
 
 [[START OF PAGE 248]]
+
+#### KIMSAQALLQÜRI JALJTA CH'UMI JAWIRA.........................................216
+
+#### LLATUNKÏRI JALJTA URAQI UKJAMARAKI URAQINA QAMIRI......................................218
+
+### KIMSÏRI UÑAÑCHAWI PATA TUQINA ASKI QAMAWI ..................224
+
+# PHISQÏRI T'AQA KAMACHI UÑAQAWI UKJAMARAKI TAYKA KAMACHI MAYJT'AWI ...................227
+
+### NAYRÏRI UÑAÑCHAWI TAYKA KAMACHI MAYJT'AWI .................227
+
+# SARTA PHUQAWINAKA ............................229
+
+# SARTA T'UNJAWI ......................................232
+
+# SARTA TUKUYAWI.....................................232
+
+#### CAPÍTULO OCTAVO AMAZONIA................................................. 216
+
+#### CAPÍTULO NOVENO TIERRA Y TERRITORIO ............................ 218
+
+### TÍTULO III DESARROLLO RURAL INTEGRAL SUSTENTABLE ......................................... 224
+
+# QUINTA PARTE JERARQUÍA NORMATIVA Y REFORMA DE LA CONSTITUCIÓN ............................ 227
+
+### TÍTULO ÚNICO.......................................... 227
+PRIMACÍA Y REFORMA DE LA CONSTITUCIÓN ........................................ 227
+
+# DISPOSICIONES TRANSITORIAS............ 229
+
+# DISPOSICIÓN ABROGATORIA................. 232
+
+# DISPOSICIÓN FINAL................................. 232
 
 248
 
@@ -9513,13 +9983,15 @@ Casto Vedia Huarachi
 
 ###### TRADUCCIÓN
 
-Victoria Quispe Quispe Davis Flores Condori
+Victoria Quispe Quispe
+Davis Flores Condori
 
 ###### SUPERVISIÓN JURIDICA
 
-Julio Poma Callocusi Rafael Peñaranda Barrera
+Julio Poma Callocusi
+Rafael Peñaranda Barrera
 
-###### ASITENCIA TÉCNICA 'CONAMAQ'
+###### ASITENCIA TÉCNICA “CONAMAQ”
 
 Julio Cepeda Martinez
 
